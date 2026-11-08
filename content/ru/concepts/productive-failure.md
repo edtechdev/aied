@@ -8,7 +8,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ ai_assist:
 - **Готовит учащихся учиться по обучению** — они знают, чего не знают, и могут связать новый материал со своими попытками.
 - **Усиливает перенос знаний и устойчивые навыки** ([[critical-thinking]], устойчивость, коммуникация), снижает страх совершить ошибку и способствует позитивному отношению к учению.
 
-Каркас PF был расширен через связанные дизайны, включая **опосредованную неудачу** (vicarious failure), **разнообразие решений** (solution diversity) и **адаптивное руководство** (adaptive guidance) (Braas et al., 2025; Brand et al., 2025).
+Каркас PF был расширен через связанные дизайны, включая **опосредованную неудачу** (vicarious failure), **разнообразие решений** (solution diversity) и **адаптивное руководство** (adaptive guidance) (Braas et al., 2025; Brand et al., 2025). Кейсы могут предоставить общее пространство задачи для этой первой попытки, хотя доказательная база по кейс-методу ещё не проверяла это сочетание напрямую ([[case-based-learning]]).
 
 ## Учение из промахов и учение из ошибок
 
@@ -107,6 +107,7 @@ ai_assist:
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+- [[case-based-learning]] — кейсы как общее пространство задачи для первой попытки
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

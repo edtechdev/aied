@@ -10,7 +10,7 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ Dhana hii inaandaa [[research-methods-aied|utafiti]] wa AI katika **elimu ya Kii
 - **Kiingereza cha Kitaaluma (EAP):** msaada wa AI kwa Kiingereza unaotegemea aina, mahususi ya taaluma kinachotumika katika uandishi, kusoma, na maoni ya elimu ya juu — tofauti na mafunzo ya uandishi ya jumla.
 - **Ufundishaji wa lugha ya Kiingereza (EFL/ESL/L2):** [[intelligent-tutoring|wakufunzi wa AI]], wazungumzaji, na zana za [[feedback|maoni]] kwa wanafunzi wanaojifunza Kiingereza.
 - **[[assessment|Tathmini]] mahususi ya Kiingereza:** tathmini ya kiotomatiki na maoni juu ya uandishi na kusoma kwa Kiingereza, ikijumuisha kuboresha uandishi wa EAP na tathmini ya uandishi wa L2.
-- **Usomaji na ufahamu wa fasihi:** [[bird-multimodal-educational-literature-2026|Bird (2026)]] unaunganisha ugawaji wa maandishi wa transformer na sifa za isimu ya kikokotoo ili kugawa fasihi ya Kiingereza kwa Key Stage ya UK, kufikia F1 ya 0.996 — nyongeza ya data, inayoweza kupimwa kwa kusoma kwa EAP kwa msingi wa aina na kulingana kwa kiwango cha kusoma.
+- **Usomaji na [[reading-education|ufahamu wa fasihi]]:** [[bird-multimodal-educational-literature-2026|Bird (2026)]] unaunganisha ugawaji wa maandishi wa transformer na sifa za isimu ya kikokotoo ili kugawa fasihi ya Kiingereza kwa Key Stage ya UK, kufikia F1 ya 0.996 — nyongeza ya data, inayoweza kupimwa kwa kusoma kwa EAP kwa msingi wa aina na kulingana kwa kiwango cha kusoma.
 - **Usawa wa lugha:** msongo kati ya utawala wa Kiingereza wa AI na mahitaji ya waandishi wa lugha nyingi na wa World Englishes.
 
 ## Jinsi elimu ya Kiingereza inavyotofautiana na Kujifunza Lugha
@@ -52,7 +52,7 @@ Dhana hii inaandaa [[research-methods-aied|utafiti]] wa AI katika **elimu ya Kii
 | Kipimo | [[language-learning]] | **Elimu ya Kiingereza (ukurasa huu)** |
 |-----------|----------------------|-----------------------------------|
 | Lugha lengwa | L2 yoyote (Kifaransa, Kihispania, Kijapani, …) | Kiingereza mahususi |
-| Lengo | Upata L2 kwa ujumla: mazungumzo yanayozungumzwa, matamshi, usomaji | Kiingereza kama lugha lengwa + mtiririko wa Kiingereza cha kitaaluma |
+| Lengo | Upata L2 kwa ujumla: [[speech-and-voice-technologies|mazungumzo yanayozungumzwa]], matamshi, usomaji | Kiingereza kama lugha lengwa + mtiririko wa Kiingereza cha kitaaluma |
 | Miktadha ya kipekee | Mazungumzo, matamshi, ufasaha wa jumla | **EAP**: uandishi wa kitaaluma, kusoma, maoni, aina |
 | AI inayowakilisha | Wazungumzaji wa L2, [[speech-and-voice-technologies|maoni ya matamshi]], L2 inayosaidiwa na roboti | Zana za uandishi wa EAP, maoni ya mwanafunzi-mwenza ya EFL, tathmini ya uandishi wa kitaaluma wa Kiingereza |
 
@@ -82,18 +82,18 @@ Makala nyingi za elimu ya uandishi ni za Kiingreza-kwanza (mfano, [[marked-pedag
 
 Utawala wa Kiingreza wa AI ni sifa inayoelekeza mwelekeo huu. Kwa sababu mifano ni yenye nguvu zaidi katika Kiingreza na hasa Kiingreza cha kawaida cha kitaaluma, elimu ya Kiingereza inafaidika kwa wingi (ngazi zenye nguvu za msaada za EAP) na inabeba hatari za kipekee (upendeleo wa lugha moja, ubaguzi dhidi ya World Englishes na waandishi wa lugha nyingi). Utafiti hapa unaungana na [[equity-in-ai-education|usawa]], [[bias-mitigation|kupunguza upendeleo]], [[automated-assessment|tathmini ya kiotomatiki]], [[ai-feedback-quality|ubora wa maoni ya AI]], na [[academic-integrity|uadilifu wa kitaaluma]].
 
-Muunganisho wa Scopus wa masudio 54 ya EFL unaweka [[limitations-in-aied-research|vikomo]] vinavyoripotiwa zaidi vya uwanja katika uhuru wa mwanafunzi: [[cognitive-offloading|kutegemea kupita kiasi]] AI katika tafiti 27 (50%) na kufifia kwa [[critical-thinking|kufikiri kwa mahusisi]] katika 25 (46%), dhidi ya matokeo yasiyoaminika yaliyozalishwa na AI katika 22 (41%) kama tatizo kuu la kiufundi ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
+Muunganisho wa Scopus wa masudio 54 ya EFL unaweka [[limitations-in-aied-research|vikomo]] vinavyoripotiwa zaidi vya uwanja katika [[agency|uhuru]] wa mwanafunzi: [[cognitive-offloading|kutegemea kupita kiasi]] AI katika tafiti 27 (50%) na kufifia kwa [[critical-thinking|kufikiri kwa mahusisi]] katika 25 (46%), dhidi ya matokeo yasiyoaminika yaliyozalishwa na AI katika 22 (41%) kama tatizo kuu la kiufundi ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
 
 ## Athari kwa wakufunzi wa Kiingreza / EAP / EFL-ESL
 
 - **Tumia nguvu ya AI kwa Kiingreza cha kitaaluma, kwa makusudi.** Kwa sababu mifano ni yenye nguvu zaidi katika Kiingreza na Kiingreza cha kawaida cha kitaaluma, wakufunzi wa EAP wanaweza kutumia AI kwa uandishi unaotegemea aina, kutofautisha nyenzo za kusoma ([[genai-differentiated-eap-reading-materials-2026|nyenzo za EAP]]), na maoni ya kuboresha — lakini wanapaswa kuweka AI kama mshirika wa kuandika/maoni, si injini ya majibu.
-- **Linda mtiririko wa Kiingreza cha kitaaluma na ujuzi wa maoni.** [[feedback-literacy-scripts-eap-writing|Kuboresha uandishi wa EAP]] unaonyesha kuwa maoni ni yenye manufaa kiasi kile tu kama ujuzi wa maoni wa mwanafunzi — fundisha wanafunzi kutafsiri, kuhukumu, na kutenda juu ya maoni ya AI, na tumia mifumo ya mtathmini wa pili kuangalia ubora wa AI.
+- **Linda mtiririko wa Kiingreza cha kitaaluma na [[feedback-literacy|ujuzi wa maoni]].** [[feedback-literacy-scripts-eap-writing|Kuboresha uandishi wa EAP]] unaonyesha kuwa maoni ni yenye manufaa kiasi kile tu kama ujuzi wa maoni wa mwanafunzi — fundisha wanafunzi kutafsiri, kuhukumu, na kutenda juu ya maoni ya AI, na tumia mifumo ya mtathmini wa pili kuangalia ubora wa AI.
 - **Angalia msongo wa usawa wa utawala wa Kiingreza.** Mifano inapendelea Kiingreza cha kawaida cha kitaaluma, ikitenga waandishi wa World Englishes na wa lugha nyingi ([[genai-linguistic-diversity-academic-writing|World Englishes]], [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]) — angalia maoni kwa upendeleo wa lugha moja na matarajio yaliyopungua.
 - **Unganisha AI kwa maadili katika EAP.** [[alharbi-ethical-genai-eap-2026|GenAI ya maadili katika EAP]] inaitia matumizi ya wazi na yenye uwajibikisho katika ufundishaji wa Kiingreza wa [[higher-ed|elimu ya juu]] unaohifadhi uadilifu wa kitaaluma.
 - **Tarajia kupitishwa kwa uangalifu, kwa maandalizi-kwanza.** [[li-language-educators-genai-review-2026|Mapitio ya kimfumo ya masudio 23]] (Li et al. 2026) yanagundua kuwa waelimishaji wa lugha wanathamini [[generative-ai|GenAI]] zaidi kwa maandalizi ya nyuma ya pazia — kupanga masomo, kuunda nyenzo, na msaada/maoni ya uandishi — huku wakikawia kwenye matumizi ya moja kwa moja ya darasa, na wasiwasi wa msingi yakizingatia [[academic-integrity|uadilifu wa kitaaluma]] (wizi wa kitaaluma na [[assessment-validity|uhalali wa tathmini]]). Kupitishwa kunaundwa na utambulisho wa kitaalamu, mipaka ya [[pedagogy|kieledu]], kiufundi, [[governance|taasisi]], na uadilifu, na mapungufu ya uwezo yanalingana na episteme (kuelewa uwezo/mipaka ya AI), techne ([[prompt-engineering|kutoa ilani]], ubini wa kazi/tathmini ulioimarishwa na AI, kugundua maandishi yaliyozalishwa na AI), na phronesis ([[ethics|hukumu ya maadili]], kushughulikia upendeleo/faragha) — hivyo wakufunzi wa EAP/EFL wanapaswa kujenga uwezo huu kwa makusudi na kupanga utekelezaji wa "nyuma-ya-pazia kisha darasa".
 - **Tofautisha kwa ujuzi na mahitaji.** [[ai-vs-human-assessment-efl-tpck-2026|Tathmini ya EFL]] na utafiti wa ufundishaji unaojifunga unasaidia kubadilisha msaada na tathmini ya AI kwa kiwango cha mwanafunzi badala ya moja inayofaa wote.
 
-- **Zima teknolojia kuelekea uzalishaji.** Meta-analysis ya masudio 33 ya TEFL iligundua athari ya jumla ya ndogo-hadi-wastani (g = 0.38, iliyopunguzwa hadi 0.28 na trim-and-fill) ambayo ilipanda na kiwango cha elimu na ilipendelea ujuzi wa uzalishaji — kusema na kuandika — juu ya yale ya kupokea ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
+- **Zima teknolojia kuelekea uzalishaji.** Katika masudio 33 ya TEFL, makadirio yaliyounganishwa yalikuwa ya ndogo-hadi-wastani (g = 0.38, iliyopunguzwa hadi 0.28 na trim-and-fill) na yalipanda na kiwango cha elimu, yakipendelea ujuzi wa uzalishaji — kusema na kuandika — juu ya yale ya kupokea ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
 
 ## Dhana Potofu za Kawaida
 
@@ -106,6 +106,9 @@ Muunganisho wa Scopus wa masudio 54 ya EFL unaweka [[limitations-in-aied-researc
 
 - [[language-learning]]
 - [[writing-education]]
+
+- [[reading-education]]
+
 - [[multilingual-learning]]
 - [[higher-ed]]
 - [[k-12]]

@@ -8,7 +8,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,7 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-> **Teknolojia ya Usaidizi** — vifaa, programu, na huduma zinazowasaidia watu wenye ulemavu kutambua, kutumia, kuwasiliana, na kushiriki katika kujifunza na maisha ya kila siku. Katika [[ai-education|Akili Bandia katika Elimu]], teknolojia ya usaidizi inajumuisha visomaji vya skrini, speech-to-text (hotuba-kwa-maandishi) na text-to-speech (maandishi-kwa-hotuba), manukuu ya video, matokeo ya braile na ya kugusa, zana za lugha ya alama, na — kwa kiwango kinachoongezeka — vifaa vya kufaa vilivyoendeshwa na AI vinavyobadilisha maudhui na mwingiliano ili kukidhi mahitaji ya mtu binafsi.
+> **Teknolojia ya Usaidizi** — vifaa, programu, na huduma zinazowasaidia watu wenye ulemavu kutambua, kutumia, kuwasiliana, na kushiriki katika kujifunza na maisha ya kila siku. Katika [[ai-education|Akili Bandia katika Elimu]], teknolojia ya usaidizi inajumuisha visomaji vya skrini, speech-to-text (hotuba-kwa-maandishi) na [[speech-and-voice-technologies|text-to-speech (maandishi-kwa-hotuba)]], manukuu ya video, matokeo ya braile na ya kugusa, zana za lugha ya alama, na — kwa kiwango kinachoongezeka — vifaa vya kufaa vilivyoendeshwa na AI vinavyobadilisha maudhui na mwingiliano ili kukidhi mahitaji ya mtu binafsi.
 
 ## Maswali ya Kutafakari
 
@@ -51,7 +51,7 @@ Mapitio ya wigo ya mwaka 2026 ya teknolojia za usaidizi za kidijitali [[ai-techn
 - **Linganisha zana na mwanafunzi na kazi.** Visomaji vya skrini, manukuu, hotuba, na matokeo ya kugusa kila moja hushughulikia vizuizi tofauti — chagua kulingana na mahitaji ya mtu na umbaji la maudhui.
 - **Tumia AI kupunguza gharama ya mabadiliko ya usaidizi.** AI inaweza kuweka manukuu kiotomatiki, kurahisisha maandishi, na kutengeneza mbadala, lakini tathmini ubora wa pato kwa usahihi wa kielimu.
 - **Weka upatikanaji kwenye sera.** Rejea Sheria ya Teknolojia ya Usaidizi, IDEA, na WCAG unaponunua au kujenga zana za AI.
-- **Taja kazi ambayo msaada unahudumia — na tathmini dhidi ya kazi hiyo.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] wanatofautisha fidia (inayotathminiwa kwa ufikivu na ushiriki) na ngazi za msaada (maamuzi yenye msaada) na maendeleo (matumizi ya mkakati baada ya kupungua au kuhamishwa). Wanaongeza kanuni inayolenga onyo la ukurasa huu: msaada wa ufikivu si urekebishaji — kama zana ni marekebisho, mafunzo ya mkakati, au msaada wa mazoezi ya muda \"inapaswa kutajwa katika mpango wa kujifunza.\"
+- **Taja kazi ambayo msaada unahudumia — na tathmini dhidi ya kazi hiyo.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] wanatofautisha fidia (inayotathminiwa kwa ufikivu na ushiriki) na [[scaffolding|ngazi za msaada]] (maamuzi yenye msaada) na maendeleo (matumizi ya mkakati baada ya kupungua au kuhamishwa). Wanaongeza kanuni inayolenga onyo la ukurasa huu: msaada wa ufikivu si urekebishaji — kama zana ni marekebisho, mafunzo ya mkakati, au msaada wa mazoezi ya muda \"inapaswa kutajwa katika mpango wa kujifunza.\"
 
 ## Dhana Potofu za Kawaida
 

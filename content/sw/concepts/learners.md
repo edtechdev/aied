@@ -11,7 +11,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-25T15:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -80,7 +80,7 @@ Soma na [[stakeholders]] kwa watu wanaomzunguka mwanafunzi, na na [[pedagogy]] n
 
 ## Dhana Potofu za Kawaida
 
-**"Wanafunzi na wajifunzaji ni idadi moja."** Hazibadilishani kwa njia yenye manufaa: *wanafunzi* hutaja nafasi ya kitaasisi, *wajifunzaji* hutaja shughuli, na mtu anaweza kuwa mmoja bila mwingine: mfanyakazi katika [[professional-training|mafunzo ya mahali pa kazi]] ni mwajifunzaji lakini si mwanafunzi. Kuchanganya haya kunapunguza msingi wa ushahidi kwa watu walio na rekodi za uandikishaji na kwa utulivu kunawaondoa watu wazima, wataalamu na wajifunzaji wanaojiongoza ambao utafiti wa [[lifelong-learning|kujifunza kwa maisha yote]] unahusu.
+**"Wanafunzi na wajifunzaji ni idadi moja."** Hazibadilishani kwa njia yenye manufaa: *wanafunzi* hutaja nafasi ya kitaasisi, *wajifunzaji* hutaja shughuli, na mtu anaweza kuwa mmoja bila mwingine: mfanyakazi katika [[professional-training|mafunzo ya mahali pa kazi]] ni mwajifunzaji lakini si mwanafunzi. Kuchanganya haya kunapunguza msingi wa ushahidi kwa watu walio na rekodi za uandikishaji na kwa utulivu kunawaondoa watu wazima, wataalamu na [[self-directed-learning|wajifunzaji wanaojiongoza]] ambao utafiti wa [[lifelong-learning|kujifunza kwa maisha yote]] unahusu.
 
 **"Wajifunzaji huripoti AI inaboresha ufahamu wao, hivyo inawaokolea muda."** Madai mawili hutenganishwa katika data ya utafiti. Katika kazi kuhusu tija ya kusoma, **92.3%** walisema AI iliboresha ufahamu wao, wakati **38.5%** pekee walisema ilipunguza muda wao wote wa kusoma. Nambari kuu inaelezea ufahamu unaohisiwa; pengo chini yake linaonyesha kwamba ufahamu ulioboreka na muda uliorejeshwa ni matokeo tofauti, na dai la "AI huokoa muda" linalorudiwa sana linabebwa na nambari ndogo.
 

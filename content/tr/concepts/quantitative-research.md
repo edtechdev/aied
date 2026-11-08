@@ -7,7 +7,7 @@ research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,7 @@ ai_assist:
 
 ## Dikkate Alınması Gereken Sorular
 
-- "YZ özel ders asistanı kullanan öğrenciler daha yüksek puan alıyor" — okumadan önce bu bir nedensellik iddiası mı yoksa korelasyon iddiası mı ve birini diğerine dönüştürecek tek kanıt parçası ne olurdu?
+- "[[intelligent-tutoring|YZ özel ders asistanı]] kullanan öğrenciler daha yüksek puan alıyor" — okumadan önce bu bir nedensellik iddiası mı yoksa korelasyon iddiası mı ve birini diğerine dönüştürecek tek kanıt parçası ne olurdu?
 - Yatay kesitli bir anket karmaşık bir aracılık modelini sınayabilir, ama asla nedensellik kuramaz. Bir ankette iki değişken, hiçbiri diğerine neden olmasa bile neden ilişkili olabilir? Eğitimde bu tür bir korelasyonla nasıl gerçekten yanıltılabileceğinizi düşünebilir misiniz?
 - Niceliksel araçlar yalnızca ölçtükleri şey kadar iyidir — ve sayfa, araçların yanlış yapıyı ölçebileceğini not eder. "Güven" ya da "bağlılık" üzerine bir kendi bildirim anketini doldurduğunuzda bu aslında neyi yakalıyor olabilir ve bunu nasıl anlardınız?
 - Bir RCT (randomize kontrollü deney), bir nedensel etkiyi tahmin etmek için öğrenenleri koşullara rastgele atar. Rastgele atamayı güçlü kılan nedir ve "müdahalenin" bazı öğrencilerin kendisinden yoksun bırakıldığı, muhtemelen yardımcı bir YZ aracı olduğu durumda hangi pratik ve etik sorunlar ortaya çıkar?
@@ -43,14 +43,14 @@ Yatay kesitli anketler, kendi bildirilen tutumları, algıları, motivasyonu, [[
 - **Sınırlılıklar:** yatay kesitli veriler nedensellik kuramaz; kendi bildirim yanlılığı; kolaylık örneklemesi genellenebilirliği sınırlar; aracılar kovaryanstan çıkarılır, manipülasyondan değil. Bu sınırların araç tarafındaki işlenişi için [[self-report-measures]] sayfasına bakın.
 
 
-- **Doymuş bir aracılık modeli kendi sıralamasını sınayamaz.** 1.020 hemşirelik öğrencisiyle yapılan tek dalgalı bir anket, 1,36’lık toplam etkiyi 0,92 doğrudan ve öz-düzenlemeli öğrenme üzerinden 0,44 dolaylı olarak ayırmıştır; dolaylı kısım toplamın %32,35’idir ve model, gözlenen kovaryanslar kadar serbest parametreye sahip olduğu için veriyi inşa gereği yeniden üretir ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li ve ark. (2026)]]).
+- **Doymuş bir aracılık modeli kendi sıralamasını sınayamaz.** 1.020 hemşirelik öğrencisiyle yapılan tek dalgalı bir anket, 1,36’lık toplam etkiyi 0,92 doğrudan ve [[self-regulated-learning|öz-düzenlemeli öğrenme]] üzerinden 0,44 dolaylı olarak ayırmıştır; dolaylı kısım toplamın %32,35’idir ve model, gözlenen kovaryanslar kadar serbest parametreye sahip olduğu için veriyi inşa gereği yeniden üretir ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li ve ark. (2026)]]).
 **Sıfıra yakın bir toplam dolaylı etki iki canlı yolu gizleyebilir.** 568 tasarım öğrencisinin tek bir öz-bildirim dalgasında dolaylı ilişki terfi odağı üzerinden 0,0929 ve önleme odağı üzerinden −0,0884 olmuş, toplamı 0,0045 verirken doğrudan yol toplamın %98,7’sini taşımıştır ([[wang-ai-disruption-design-innovation-competence-2026|Wang ve ark. (2026)]]).
 
 ### Deneysel ve yarı deneysel araştırma
 Deneyler, çıktılar üzerindeki nedensel etkileri tahmin etmek için öğrenenleri koşullara rastgele atar (örn. YZ özel ders asistanına karşı insan özel ders asistanı ya da YZ iskelelemesine karşı desteksiz). **Randomize kontrollü deneyler ([[rct]]s)** iç geçerlilik için altın standarttır. [[access-not-enough-ai-tutoring-2026|İnsan desteği artı YZ özel ders asistanlığına ilişkin randomize bir saha çalışması]] ve [[genai-can-harm-teaching-rct-2026|öğretmede üretici YZ’ye ilişkin bir RCT]], nedensel etkileri izole etmek için atama kullanır. **Yarı deneysel** tasarımlar (öncesi/sonrası, randomizasyon olmadan eşleştirilmiş gruplar) bütün sınıflarda daha uygulanabilir, ama nedensel iddialarda daha zayıftır.
 
 
-[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin ve ark. (2025)]] bunun yerine özne içi bir çapraz geçiş (crossover) benimser: her öğrenci aynı fizik içeriğiyle iki kez karşılaşır, bir kez sınıf içi etkin öğrenme dersinde, bir kez kursun kendi YZ özel ders asistanıyla; her biri çevresinde öncesi ve sonrası testleri olur, böylece her öğrenen kendi kontrolü olur ve kişiler arası farklar birbirini götürür.
+[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin ve ark. (2025)]] bunun yerine özne içi bir çapraz geçiş (crossover) benimser: her öğrenci aynı fizik içeriğiyle iki kez karşılaşır, bir kez sınıf içi [[active-learning|etkin öğrenme]] dersinde, bir kez kursun kendi YZ özel ders asistanıyla; her biri çevresinde öncesi ve sonrası testleri olur, böylece her öğrenen kendi kontrolü olur ve kişiler arası farklar birbirini götürür.
 
 - **Güçlü yönler:** en güçlü nedensel çıkarım; temiz çıktı ölçümü; etki büyüklüğü tahmini ve etkililik iddialarını destekler.
 - **Sınırlılıklar:** pahalı ve yavaş; yapay koşullar ekolojik geçerliliği düşürür; hızla değişen YZ araçları deneyleri çabuk eskiletir; küçük örneklemler etkilerin tespitini yetersiz güçle bırakır; yardımcı araçları geri tutmada etik kısıtlamalar.

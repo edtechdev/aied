@@ -9,7 +9,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-28T18:53:18-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,10 @@ Mwinuko wa ushirikiano wa mbinu za kufundisha na AI ni mmoja wa mikondo inayoong
 
 - **Wanafunzi kama waundaji wakuu wa sera ya AI.** Badala ya taasisi kuwapa wanafunzi kanuni za AI, ushirikiano unaweka wanafunzi kama waundaji wakuu wa sera ya AI ya ngazi ya kozi na ya taasisi. Mfano, shughuli ya uchunguzi unaoongozwa ambamo wanafunzi walibini pamoja sera ya kozi ya [[generative-ai]] ilionyesha vipaumbele vya wanafunzi kuhusu mafunzo, kufichua kwa njia sanifu, msaada wa taasisi, na ushiriki katika kufanya maamuzi ([[guided-inquiry-genai-course-policy-2026]]).
 - **Wanafunzi kama waundaji wakuu wa zana za AI.** Katika miundo ya wanafunzi-kama-washirika, wanafunzi wamebini na kuboresha chatbots maalum za [[conversational-ai|mazungumzo]] zinazolingana na malengo ya mbinu za kufundisha — mbinu ambayo inapanua mfano wa SaP kujumuisha zana za AI zenyewe na inaweka sauti ya mwanafunzi katikati ya uvumbuzi wa AI wenye uwajibikisho ([[lo-co-creating-custom-gpts-sap-2026]]).
-- **Uundaji pamoja wa darasa zote, unaotathminiwa na tathmini binafsi.** Programu ya kwanza ya masomo ya habari ilikuwa na wanafunzi na watawalimu wakibini pamoja malengo na sera za kozi katika wiki ya kwanza na kuzirudia katika muhula, huku wanafunzi wakijipatia alama wenyewe na vikundi vyao dhidi ya malengo ya kibinafsi, malengo ya timu na rubriki ya pamoja badala ya bidhaa za mwisho ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand na Fundator (2025)]]).
+
+- **Uundaji pamoja kwa kiwango kikubwa, unaopimwa kwa tahadhari.** Katika kozi ya ubuni wa programu ya wanafunzi 710, wanafunzi walijenga [[intelligent-tutoring|mwalimu wa AI]] kwa ajili ya mwenza wao badala ya kuitumia. Uhuru wa ubuni ulikuwa mada kuu chanya (asilimia 22.3) na maelekezo yasiyo wazi malalamiko ya juu (asilimia 23.7), lakini kujifunza kwao kulihusiana na alama za dodoso kwa r = 0.161 hadi 0.315 tu na ubuni haukuwa na kikundi cha kudhibiti ([[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]). Kujenga zana ni mbinu ya kufundisha inayowezekana na, kwa ushahidi huu, isiyothibitishwa, ndiyo sababu hoja yake inakaa juu ya shughuli ya ubuni badala ya faida za matokeo.
+
+- **Uundaji pamoja wa darasa zote, unaotathminiwa na [[self-assessment|tathmini binafsi]].** Programu ya kwanza ya masomo ya habari ilikuwa na wanafunzi na watawalimu wakibini pamoja malengo na sera za kozi katika wiki ya kwanza na kuzirudia katika muhula, huku wanafunzi wakijipatia alama wenyewe na vikundi vyao dhidi ya malengo ya kibinafsi, malengo ya timu na rubriki ya pamoja badala ya bidhaa za mwisho ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand na Fundator (2025)]]).
 - **Uundaji pamoja katika tathmini na AI.** Ushirikiano wa wanafunzi-wataalam umetathmini pamoja matokeo ya AI katika tathmini za kozi na kubini pamoja vigezo vya kutathmini, ikiboresha uelewa wa faida na mipaka ya AI na kusaidia [[self-regulated-learning]] ([[williams-ingle-assessment-co-creation-ai-2025]]).
 - **Ushirikiano kuhifadhi uaminifu wa mbinu za kufundisha.** Mbele ya kutokuwa na uhakika unaosababishwa na AI na "ai-aibu," mazoezi ya ushirikiano yanayolima *uaminifu wa mbinu za kufundisha* — uhusiano wa kujifunza wa kujiamini, wa kubadilishana, ulio wazi kwa kutokuwa na uhakika na unaelekezwa pamoja kupitia mazungumzo — yanatoa njia ya kudumisha kiini cha mahusiano cha elimu ([[matthews-five-guiding-principles-ai-sap-trust-2025]]).
 - **Vijana kama waundaji wakuu wa mifumo ya AI.** Mbinu za ubini za ushiriki zinawahusisha wanafunzi waliotengwa kihistoria kama washirika katika kubini mifumo ya AI ambayo itaathiri madarasa yao, zikionyesha thamani za wanafunzi na [[ethics|maadili]] yao ([[chang-co-designing-ai-youth-relational-privacy-2025]]).
@@ -134,3 +137,6 @@ Kwa waelimishaji na taasisi zinazotaka kupitisha ushirikiano wa mbinu za kufundi
 - [[anastasia-shared-agency-partnership-framework-2026]] — Wakala wa Pamoja: Mfumo wa Ushirikiano wa Wakala kwa Ushirikiano wa Mkufunzi–Mwanafunzi
 - [[maybee-disruptive-partnerships-sap-2025]] — Ushirikiano wa Kuharibu: Kushirikiana na Wanafunzi katika Masomo ya Habari
 - [[student-centered-genai-responsible-framework-2026]] — Mfumo unaozingatia mwanafunzi wa matumizi yenye uwajibikisho ya AI ya kizalishaji
+
+- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Wanafunzi walijenga mwalimu wa AI kwa wenzao katika kiwango cha wanafunzi 710: ushiriki mkubwa, ushahidi wa kujifunza wa uchunguzi (Zangari et al. 2026)
+

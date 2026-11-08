@@ -1,7 +1,7 @@
 ---
 title: Trabalho em grupo
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-04T18:52:13-05:00"
+updated: "2026-11-08T11:51:50-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-11-04T18:52:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -90,11 +90,11 @@ Uma segunda linha de pesquisa trata a IA como participante, e não como ferramen
 
 ### O risco epistêmico do produto polido
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]] conceitua o risco do esforço epistêmico reduzido quando quem aprende usa IA para produzir artefatos de conhecimento polidos — [[automation-bias|viés de automação]] do lado sociocognitivo e fechamento epistêmico induzido pelo artefato finalizado, do outro. O remédio é estruturar a IA como uma parceira argumentativa ou desafiadora que preserva o conflito. O contraponto vem de [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], que constataram que, quando os LLMs atuam como parceiros de crítica e os estudantes refutam ativamente suas afirmações, quem aprende se comporta como consumidor crítico que preserva, em vez de abandonar, o conflito cognitivo da crítica. A diferença entre um companheiro de equipe que dá respostas e um parceiro que desafia é o que determina se o trabalho em grupo com IA constrói ou contorna o pensamento.
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]] conceitua o risco do esforço epistêmico reduzido quando quem aprende usa IA para produzir artefatos de conhecimento polidos — [[automation-bias|viés de automação]] do lado sociocognitivo e fechamento epistêmico induzido pelo artefato finalizado, do outro. O remédio é estruturar a IA como uma parceira argumentativa ou desafiadora que preserva o conflito. O contraponto vem de [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], que constataram que, quando os LLMs atuam como parceiros de crítica e os estudantes refutam ativamente suas afirmações, quem aprende se comporta como consumidor crítico que preserva, em vez de [[cognitive-surrender|abandonar]], o conflito cognitivo da crítica. A diferença entre um companheiro de equipe que dá respostas e um parceiro que desafia é o que determina se o trabalho em grupo com IA constrói ou contorna o pensamento.
 
 ### Apoio em sala de aula, não avaliativo
 
-O [[breideband-community-builder-cobi-2026|CoBi]] detecta discursos de pequenos grupos "que elevam" (respeito, equidade, comunidade, mover o pensamento adiante) e devolve visualizações não avaliativas, no nível da turma — retendo deliberadamente o feedback no nível do estudante ou do grupo para proteger a [[privacy|privacidade]] e a [[trust|confiança]]. Os estudantes preferiram visualizações [[qualitative-research|qualitativas]] (uma árvore orgânica) às [[quantitative-research|quantitativas]] (um gráfico radar). Para a dimensão relacional do trabalho em grupo, o feedback agregado no nível da turma apoia a construção de comunidade onde a pontuação individual pareceria vigilância.
+O [[breideband-community-builder-cobi-2026|CoBi]] detecta discursos de pequenos grupos "que elevam" (respeito, equidade, comunidade, mover o pensamento adiante) e devolve [[visualization|visualizações]] não avaliativas, no nível da turma — retendo deliberadamente o feedback no nível do estudante ou do grupo para proteger a [[privacy|privacidade]] e a [[trust|confiança]]. Os estudantes preferiram visualizações [[qualitative-research|qualitativas]] (uma árvore orgânica) às [[quantitative-research|quantitativas]] (um gráfico radar). Para a dimensão relacional do trabalho em grupo, o feedback agregado no nível da turma apoia a construção de comunidade onde a pontuação individual pareceria vigilância.
 
 ## Implicações para o desenho
 

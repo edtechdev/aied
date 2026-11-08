@@ -1,14 +1,14 @@
 ---
 title: Ricerca quantitativa
 created: "2026-10-14T22:02:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:09:36-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: "concepts/quantitative-research"
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 ## Domande da considerare
 
-- "Gli studenti che usano un tutor basato sull'IA ottengono punteggi più alti" — prima di leggere, questa è un'affermazione sulla causalità o sulla correlazione, e quale singolo elemento di evidenza convertirebbe l'una nell'altra?
+- "Gli studenti che usano un [[intelligent-tutoring|tutor basato sull'IA]] ottengono punteggi più alti" — prima di leggere, questa è un'affermazione sulla causalità o sulla correlazione, e quale singolo elemento di evidenza convertirebbe l'una nell'altra?
 - Un'indagine trasversale può testare un modello mediazionale complesso eppure non stabilire mai la causalità. Per quale motivo due variabili potrebbero essere correlate in un'indagine anche quando nessuna delle due causa l'altra? Riesci a pensare a un modo in cui si possa essere davvero fuorviati da una tale correlazione nell'educazione?
 - Gli strumenti quantitativi valgono solo quanto ciò che misurano — e la pagina osserva che gli strumenti possono misurare il costrutto sbagliato. Quando compili un questionario auto-riferito su "fiducia" o "coinvolgimento", cosa potrebbe in realtà star catturando, e come lo scopriresti?
 - Un RCT assegna casualmente i discenti alle condizioni per stimare un effetto causale. Cosa rende potente l'assegnazione casuale, e quali problemi pratici ed etici emergono quando il "trattamento" è uno strumento di IA potenzialmente utile che viene negato ad alcuni studenti?
@@ -46,13 +46,13 @@ Le indagini trasversali misurano atteggiamenti, percezioni, motivazione, [[self-
 
 - **Punti di forza:** campioni ampi; copertura ampia e a basso costo; test di modelli mediazionali complessi; fattibilità per atteggiamenti difficili da osservare.
 - **Limiti:** i dati trasversali non possono stabilire la causalità; bias da auto-riferimento; il campionamento per convenienza limita la generalizzabilità; i mediatori sono inferiti dalla covarianza, non dalla manipolazione. Si veda [[self-report-measures]] per il trattamento di questi limiti sul lato degli strumenti.
-- **Un modello di mediazione saturo non può testare il proprio ordinamento.** Un'indagine a onda singola su 1.020 studenti di infermieristica ha scomposto un effetto totale di 1,36 in un effetto diretto di 0,92 e un indiretto di 0,44 attraverso l'apprendimento autoregolato, pari al 32,35% del totale, con un modello che ha tanti parametri liberi quante sono le covarianze osservate e quindi riproduce i dati per costruzione ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
+- **Un modello di mediazione saturo non può testare il proprio ordinamento.** Un'indagine a onda singola su 1.020 studenti di infermieristica ha scomposto un effetto totale di 1,36 in un effetto diretto di 0,92 e un indiretto di 0,44 attraverso l'[[self-regulated-learning|apprendimento autoregolato]], pari al 32,35% del totale, con un modello che ha tanti parametri liberi quante sono le covarianze osservate e quindi riproduce i dati per costruzione ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
 **Un effetto indiretto totale prossimo allo zero può nascondere due percorsi vivi.** In un'onda di auto-riferimento di 568 studenti di design, l'associazione indiretta passava per 0,0929 attraverso il focus di promozione e per −0,0884 attraverso il focus di prevenzione, sommando 0,0045 mentre il percorso diretto portava il 98,7% del totale ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]).
 
 ### Ricerca sperimentale e quasi-sperimentale
 Gli esperimenti assegnano casualmente i discenti alle condizioni (ad es. tutor di IA vs. tutor umano, oppure assistito dall'IA vs. non assistito) per stimare gli effetti causali sugli esiti. Gli **studi controllati randomizzati ([[rct]])** sono il gold standard della validità interna. [[access-not-enough-ai-tutoring-2026|Uno studio randomizzato sul campo di supporto umano più tutoring con IA]] e [[genai-can-harm-teaching-rct-2026|un RCT sull'IA generativa nell'insegnamento]] usano l'assegnazione per isolare gli effetti causali. I disegni **quasi-sperimentali** (pre/post, gruppi abbinati senza randomizzazione) sono più fattibili nelle classi intatte ma più deboli sulle affermazioni causali.
 
-[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adottano invece un crossover within-subject: ogni studente incontra gli stessi contenuti di fisica due volte, una in una lezione in classe di active learning e una tramite il tutor di IA proprio del corso, con pre- e post-test attorno a ciascuna, così che ogni discente funga da proprio controllo e le differenze tra persone si annullino.
+[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adottano invece un crossover within-subject: ogni studente incontra gli stessi contenuti di fisica due volte, una in una lezione in classe di [[active-learning|active learning]] e una tramite il tutor di IA proprio del corso, con pre- e post-test attorno a ciascuna, così che ogni discente funga da proprio controllo e le differenze tra persone si annullino.
 
 - **Punti di forza:** inferenza causale più forte; misurazione pulita degli esiti; supporto alla stima della dimensione dell'effetto e alle affermazioni di efficacia.
 - **Limiti:** costosi e lenti; condizioni artificiali riducono la validità ecologica; gli strumenti di IA in rapida evoluzione invecchiano presto gli esperimenti; campioni piccoli sotto-alimentano il rilevamento degli effetti; vincoli etici nel negare strumenti utili.

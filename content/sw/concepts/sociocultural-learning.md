@@ -7,7 +7,7 @@ pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learnin
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -43,19 +43,25 @@ Nadharia ya kitamaduni na kijamii (Vygotsky, 1978; Luria; Leontiev) inashikilia 
 
 ZPD (Vygotsky) ni dhana ya kitamaduni na kijamii inayotumika zaidi katika [[intelligent-tutoring|ukufunzaji wa AI]]: nafasi kati ya kile ambacho mwanafunzi anaweza kufanya peke yake na kile anachoweza kufanya kwa msaada. Kujifunza hutokea kwa ufanisi zaidi wakati mafunzo yanalenga eneo hili — yenye changamoto ya kutosha kusukuma maendeleo, yenye msaada wa kutosha kufanya maendeleo. Ni msingi wa kinadharia wa [[scaffolding]]: msaada wa muda mfupi, unaoweza kurekebishwa, unaoondolewa kadri uwezo unavyoongezeka. Katika Akili Bandia katika elimu, ZPD inaeleza swali kuu la ubunifu la kiasi gani cha msaada ambao mwalimu wa [[intelligent-tutoring|AI]] anapaswa kutoa ili kujifunza kuendelee bila kugawiwa — ona [[stanford-evidence-base-ai-k12-2026]].
 
+Maarifa yaliyotengenezwa na mashine yanaweza kutua ndani ya eneo hilo. Katika utafiti wa nasibu wa wanafunzi 274 wa [[adult-learning|watu wazima]] katika masomo manne ya hisabati, vidokezo vya suluhisho vilivyotengenezwa na ChatGPT vilizalisha ongezeko la 17.00% kabla hadi baada dhidi ya 1.85% bila vidokezo, wakati vidokezo vilivyoandikwa na mwalimu wa binadamu vilizalisha 11.62%; hali mbili za msaada hazikuweza kutenganishwa kitakwimu ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos na Bhandari, 2024]]). Kiwango cha makosa kinahitimu usawa huo: 32% ya vidokezo vilivyotengenezwa vilishindwa ukaguzi wa ubora hadi [[prompt-engineering|uandishi wa vidokezo]] wa kujitosheleza ulipunguza hilo hadi karibu sifuri katika masomo matatu ya algebra na 13% katika takwimu. Mtu mwingine mwenye maarifa zaidi ambaye anakosea mara moja kati ya tatu bado ni wakala wa kupatia, ndiyo sababu mchango wa mashine unapaswa kukaguliwa kabla mwanafunzi kuujenga juu.
+
+
 ### Kujifunza kwa mtazamo wa kitamaduni na kijamii katika elimu ya AI
 
 Nadharia ya kitamaduni na kijamii inaumba [[research-methods-aied|utafiti]] wa AIED kwa njia kadhaa tofauti:
 
 - **AI kama wakala wa kupatia.** AI ya kizalishaji inatatiza tofauti ya kitamaduni na kijamii kati ya njia za kupatia na mwingiliano wa kijamii: inapatia shughuli *na* inazalisha michango inayotegemea muktadha na inayojitegemea ambayo inaumba mwingiliano, bila kuwa na nia, uanachama wa kijamii, au uwajibikisho. Warschauer, Tate, na Ritchie (2026) wanapendekeza *wakala wa kupatia* kama kategoria ya mchanganyiko, na wanatoa tabia za ushiriki za binadamu-kwanza (ukuu wa ufahamu wa binadamu, ushiriki wenye [[student-engagement|kusudi]], wakala wa usimamizi, tahadhari ya maarifa, [[self-regulated-learning|kujidhibiti]] kwa kutafakari) ili kudumisha [[agency|wakala wa mwanafunzi]].([[generative-ai-mediational-agent-sociocultural-2026]])
 
-- **Maelezo ya hatua ya jukumu la udhibiti la AI.** [[ai-cognitive-partner-co-regulation-learning|Mfumo wa maendeleo wa kudhibiti pamoja kwa binadamu–AI]] unatoa AI majukumu manne — ngazi za msaada, msaada wa metaji, kumbukumbu ya nje, na mshirika wa maamuzi — na kuyaweka kwa hatua: udhibiti wa nje uliopangwa katika utotoni, mshirika wa [[metacognition|metaji]] katika utotoni wa kati na ujana, na mshirikaji katika ufahamu changamano katika utu uzima.
+- **Maelezo ya hatua ya jukumu la udhibiti la AI.** [[ai-cognitive-partner-co-regulation-learning|Mfumo wa maendeleo wa kudhibiti pamoja kwa binadamu–AI]] unatoa AI majukumu manne — ngazi za msaada, msaada wa metaji, kumbukumbu ya nje, na mshirika wa maamuzi — na kuyaweka kwa hatua: udhibiti wa nje uliopangwa katika [[early-childhood-elementary-ai-education|utotoni]], mshirika wa [[metacognition|metaji]] katika utotoni wa kati na ujana, na mshirikaji katika ufahamu changamano katika utu uzima.
 - **Ngazi za msaada zilizorekebishwa kwa ZPD.** [[intelligent-tutoring|Wakufunzi wa AI]] wanapaswa kurekebisha msaada kwa njia inayobadilika ili kukaa ndani ya eneo la kila mwanafunzi. [[stanford-evidence-base-ai-k12-2026]] inaonyesha jinsi wakufunzi waliorekebishwa kwa kiwango cha mwanafunzi wanavyofanya vizuri zaidi kuliko msaada wa jumla; [[adaptive-learning]] na [[golrang-propact-pair-programming-2026]] hufanya ZPD kuwa ya vitendo kwa kurekebisha ugumu na vidokezo; na miundo ya kanuni kama [[finkelstein-principled-ai-education-2025]] inadai msaada unapaswa kuondolewa kadri uwezo unavyoongezeka.
+
+- **Ishara ya kuondoka katika eneo ni lengo, si kina.** Mwalimu anayepanda ngazi na kupunguza kwa kila hatua ya uamuzi alikubali 65.0% ya muda baada ya zamu kuhusu uamuzi *tofauti*, mara mbili ya kiwango cha zamu zilizoelekezwa kwa uamuzi unaosaidiwa, na kina cha jibu hakikuamuru matokeo ([[adaptive-scaffolding-contingency-comet-tutor-2026|Hou na wenzake (2026)]]). Kuondoa msaada kunadhani mwanafunzi anayejibu: utekelezaji ulishuka kutoka 37.0% baada ya swali la kwanza hadi 21.8% baada ya la tatu, hivyo ukimya si ushahidi wa utayari.
+
 - **Eneo la nne: kile ambacho mfano unajua.** [[scan-framework-task-assignment-generative-ai-2025|Tsim na Gutoreva (2025)]] wanapanua mchoro wa Vygotsky badala ya mzunguko wa ufundi, wakiongeza eneo la *inajulikana kwa [[generative-ai|GenAI]]* kwenye ZPD na kusoma nyanja nne zinazobainisha kile ambacho kazi inapaswa kugawiwa: Badilisha (hakuna maarifa mahususi ya kazi, hivyo uwezo wa jumla wa mfano unabeba), Saidizi (maarifa ya sehemu, yameongezwa), Kamilisha (maarifa ya kutosha kusimamia matokeo ya mfano), na Isiyoweza kupingwa (ya kutosha kufanya peke yake, hivyo kukabidhi huongeza kidogo). [[scaffolding|Ngazi za msaada]] zinaeleweka kama mgao wa kazi badala ya utoaji wa vidokezo, na mzunguko wa [[metacognition|metaji]] wa tathmini ya wakati halisi, kutafakari na kujifunza ndicho kinachohamisha kazi kati ya nyanja baada ya muda.
 - **Ufundi na jamii.** Mawazo ya kitamaduni na kijamii yanaweka msingi wa ufundi wa kiakili, kuiga, ukocha, na kupunguza; jamii za mazoezi zinaeleka kujifunza kama harakati kuelekea ushiriki kamili katika mazoezi ya jamii.
 - **Muktadha wa kitamaduni na [[governance|taasisi]].** Mwezi wa kitamaduni na kijamii unaojirudia na [[constructivist|ujenzi]] unasisitiza kwamba kipimo cha kitamaduni kinaumba kile kinachohesabiwa kama kujua, nani ni mamlaka, na maana ya juhudi — ona mfumo wa wanafunzi–miktadha–mikitadha wa [[young-people-learning-generative-ai-rapid-review-2026|mapitio ya haraka ya Sydney ya PreK-12]].
 
-- **Kuthibitisha vipimo vya mazungumzo vinahitaji vijana ambao mazungumzo yao yanapimwa.** Kurekebisha ufafanuzi wa hatua za mazungumzo kwa wanafunzi wanne wa msingi kulipandisha uainishaji wa LLM kwa F1 ya +0.104 kwa Dai na +0.23 kwa Swali, na tafsiri za wanafunzi wenyewe zilitofautiana na mifumo ya watu wazima na ya mfano — kikomo cha kimuundo cha uainishaji unaotegemea maandishi, si tatizo la ukubwa wa data ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
+- **Kuthibitisha vipimo vya mazungumzo vinahitaji vijana ambao mazungumzo yao yanapimwa.** Kurekebisha ufafanuzi wa hatua za mazungumzo kwa wanafunzi wanne wa msingi kulipandisha uainishaji wa [[llm|LLM]] kwa F1 ya +0.104 kwa Dai na +0.23 kwa Swali, na tafsiri za wanafunzi wenyewe zilitofautiana na mifumo ya watu wazima na ya mfano — kikomo cha kimuundo cha uainishaji unaotegemea maandishi, si tatizo la ukubwa wa data ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
 
 ### Uhusiano na mzigo wa kiakili na metaji
 
@@ -99,3 +105,7 @@ Mwezi wa kitamaduni na kijamii unahusishwa kikamilifu na Nadharia ya [[cognitive
 - [[stanford-evidence-base-ai-k12-2026]] — Msingi wa ushahidi wa Stanford kwa AI katika K-12
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Mapitio ya haraka ya Sydney ya GenAI katika PreK-12
 - [[ai-cognitive-partner-co-regulation-learning]] — AI kama mshirika wa kiakili na kudhibiti pamoja
+
+- [[chatgpt-hints-human-tutor-learning-gains-2024]] — Vidokezo vilivyoandikwa na LLM vililingana na vidokezo vya mwalimu wa binadamu katika faida za kujifunza hisabati (Pardos na Bhandari 2024)
+- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Kupunguza kwa kile zamu ya mwanafunzi inalenga, si kwa kina cha jibu
+

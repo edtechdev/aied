@@ -1,7 +1,7 @@
 ---
 title: "Educação ambiental"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:51:50-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,7 +61,7 @@ Essa metade é onde o corpus é mais fino. Uma revisão de todos os 396 artigos 
 
 Do lado de quem aprende, uma interface de eco-feedback que expõe o trade-off entre latência e carbono durante o uso ao vivo de LLMs foi estudada com 89 estudantes de graduação em ciência da computação em um curso de ética da computação: os estudantes escolheram o modo de menor carbono em cerca de 45% das interações de baixa latência, mas em menos de 5% na latência alta, e a consciência de sustentabilidade elevou significativamente essa escolha. A amostra é pequena e incomumente bem informada do ponto de vista técnico, mas é a única evidência direta no corpus de que a informação sobre pegada move quem aprende de algum modo — e sugere que a restrição vinculante é a paciência, não os valores.([[llm-environmental-impact-student-usage-2026]])
 
-A evidência de mitigação vem de um assistente de base de conhecimento de [[cs-education|computação]] no local, em uma única GPU de consumo (12 GB de VRAM), com conteúdo de licença aberta: 1,8 mWh por consulta na melhor hipótese — cerca de 0,54 Wh para uma turma de 30 estudantes enviando dez consultas cada — com ajuste fino ciente de quantização contendo tanto a perda de precisão quanto a alta de [[hallucination-risk|alucinação]] que a compressão isolada causava. É um benchmark de engenharia, não um estudo de aprendizagem, mas mostra que a questão da pegada tem alavancas de desenho (fundamentação, quantização, local de implantação), e não apenas alavancas de disciplina de uso.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
+A evidência de mitigação vem de um assistente de base de conhecimento de [[cs-education|computação]] no local, em uma única GPU de consumo (12 GB de VRAM), com conteúdo de licença aberta: 1,8 mWh por consulta na melhor hipótese — cerca de 0,54 Wh para uma turma de 30 estudantes enviando dez consultas cada — com [[llm-training-and-fine-tuning|ajuste fino]] ciente de quantização contendo tanto a perda de precisão quanto a alta de [[hallucination-risk|alucinação]] que a compressão isolada causava. É um benchmark de engenharia, não um estudo de aprendizagem, mas mostra que a questão da pegada tem alavancas de desenho (fundamentação, quantização, local de implantação), e não apenas alavancas de disciplina de uso.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
 
 ## Habilidades verdes, consciência de sustentabilidade e capacidade docente
 

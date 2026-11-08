@@ -7,7 +7,7 @@ pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, sc
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-28T01:09:26-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -37,8 +37,11 @@ Uwashi wa maarifa ya awali ni mojawapo ya matokeo yenye uthabiti zaidi katika [[
 ## Wajibu wa maarifa ya awali
 
 - **Ni kiashiria chenye nguvu zaidi cha kujifunza.** Makumi ya miaka ya [[research-methods-aied|utafiti]] yanaonyesha kuwa kile mwanafunzi tayari anachokijua huhusishwa na [[learning-gains|matokeo ya kujifunza]] kwa nguvu zaidi kuliko karibu kila kigezo kingine, kwa sababu habari mpya hufichwa kwa kuhusiana na mifano ya akili iliyopo. Mifumo ya AI inayobadilika kwa hali ya maarifa ya awali ya kila mwanafunzi hivyo inashika ahadi mahususi ya ufanisi na [[transfer-of-learning|uhamisho]].
+
+- **Kiasi gani kikubwa zaidi, katika mlinganisho mmoja wa nasibu.** Wakufunzi wawili wa hisabati wa darasa la pili waliofanana kwa kila kitu, wakitofautiana tu kama uteuzi wa kazi ulifuata makadirio ya umahiri ya ufuatiliaji wa maarifa wa Bayesian, hawakutoa tofauti yoyote katika alama za mtihani wa baadaye. Maarifa ya awali yalitabiri alama hizo kwa η²p = .63 (F(1, 124) = 206.99, p < .001) wakati mfululizo unaobadilika ulichangia η²p = .00 ([[adaptive-intelligent-tutoring-primary-mathematics-2026|Sibley, Berner na Schmalfeldt (2026)]]). Ubadilikaji hupanga upya mpangilio wa mazoezi; kile mwanafunzi alicholeta bado kilibeba matokeo.
+
 - **Uwashi ni muhimu, si mmiliki tu.** Kuwa na maarifa ya awali hakutoshi — lazima yakumbukwe kikamili na kuunganishwa na mada mpya. Hii ni kwa nini 'kuwasha maarifa ya awali' ni hatua ya kawaida ya [[pedagogy|mafunzo]], na kwa nini mazoezi ya kukumbuka (kukumbua unachojua kabla ya kuongeza kwake) huboresha kujifunza zaidi ya mwonekano rahisi tu.
-- **Haitabiri siku zote ni nani anayefanya kazi inayoendesha kujifunza.** Katika somo la siku tano la kujifunza kwa kufundisha lenye waelimishaji 23 wa shule ya kati, alama za awali za majaribio hazikutabiri sehemu ya majibu ya kujenga maarifa ambayo mwalimu alitoa, na waelimishaji wenye maarifa madogo ya awali ambao walijenga maarifa walimaliza kiwango sawa kitaalamu na wenzao wenye maarifa makubwa ya awali ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
+- **Haitabiri siku zote ni nani anayefanya kazi inayoendesha kujifunza.** Katika somo la siku tano la [[learning-by-teaching|kujifunza kwa kufundisha]] lenye waelimishaji 23 wa shule ya kati, alama za awali za majaribio hazikutabiri sehemu ya majibu ya kujenga maarifa ambayo mwalimu alitoa, na waelimishaji wenye maarifa madogo ya awali ambao walijenga maarifa walimaliza kiwango sawa kitaalamu na wenzao wenye maarifa makubwa ya awali ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **Inaunda tafsiri.** Wanafunzi hutafsiri habari mpya kupitia wanachokiamini tayari. Wakati imani hizo ni za kosa ([[misconceptions]]), maarifa ya awali yanaweza *kuzuia* kujifunza, ambayo ni kwa nini mafunzo lazima yawashe na yashughulikie dhanapotofu badala ya kudhania sehemu ya kuanzia isiyo na upendeleo.
 - **Inaendesha uundaji wa mifano ya wanafunzi.** Ili kubinafsisha, mfumo wa AI lazima ukadirie hali ya maarifa ya awali ya mwanafunzi — msingi wa [[knowledge-tracing]], uundaji wa mifano ya wanafunzi, na [[scaffolding]] zinazobadilika. Ubora wa makadirio haya huamua iwapo mabadiliko ni ya kusaidia kweli au ya kupotosha.
 - **Maudhui ya maarifa huamua ni mchakato upi wa mazoezi unaovutiwa.** Kama kujifunza hutegemea kumbukumbu au induksioni huwekwa na muundo wa maarifa ya awali wa lengo: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] wanafuata mfumo wa KLI katika kutofautisha vipengele vya maarifa vyenye masharti na majibu ya kudumu (ukweli, vinavyopatikana kupitia kumbukumbu na mazoezi ya kukumbuka) na vile vyenye masharti na majibu yanayobadilika (ujuzi, vinavyopatikana kupitia induksioni na ujumuishaji kwa viingizo vipya) — ambayo ni kwa nini mchanganyiko bora wa mifano iliyofanyiwa kazi na mazoezi hutofautiana kwa maudhui ya ukweli dhidi ya maudhui ya ujuzi.
@@ -100,3 +103,6 @@ AI inayozalisha imefanya maarifa ya awali kuwa kigezo cha kubuni cha kati badala
 - [[bridging-instructional-design-framework-math]] — Mfumo wa ubunifu wa mafunzo kwa hisabati
 - [[knowledge-building-tutor-learning-2026]] — kujenga maarifa badala ya maarifa ya awali hutabiri kujifunza kwa kufundisha, na waelimishaji wenye maarifa madogo ya awali ambao hujenga maarifa wanapata
 - [[rachatasumrit-example-problem-ratio-2026]]
+
+- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Maarifa ya awali yalibeba mtihani wa baadaye (η²p = .63) wakati uteuzi wa kazi unaobadilika haukuchangia chochote (Sibley et al. 2026)
+

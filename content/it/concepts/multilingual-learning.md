@@ -1,7 +1,7 @@
 ---
 title: Apprendimento multilingue
 created: "2026-10-14T22:40:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:09:36-05:00"
 connected_resources: [mglearn]
 type: concept
 technology: [llm]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, g
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ ai_assist:
 - La maggior parte dei modelli di AI è addestrata principalmente su lingue ad alte risorse come l'inglese. Se pensi, studi o vieni valutato in un'altra lingua, in che modo questo potrebbe svantaggiarti sistematicamente — anche se lo strumento sembra "funzionare" in inglese?
 - La pagina avverte che un bias monolingue non affrontato nell'AI approfondisce il divario digitale e mina l'equità, specialmente nel Sud del mondo. Che cosa richiede una genuina equità oltre a tradurre semplicemente i contenuti dell'AI in un'altra lingua?
 - La valutazione automatizzata può esibire un bias linguistico, penalizzando chi non è madrelingua anche a parità di ragionamento. Se tu dovessi implementare un sistema di punteggio basato su AI, che cosa verificheresti per garantirne l'equità tra le lingue anziché la sola accuratezza in una?
-- La pagina mostra che le lingue a basse risorse possono essere servite mediante il fine-tuning dei modelli su corpora curati, anche sotto vincoli pratici di hardware. Quali trade-off ti aspetteresti tra efficienza e fedeltà con cui il modello gestisce una lingua a basse risorse?
+- La pagina mostra che le lingue a basse risorse possono essere servite mediante il [[llm-training-and-fine-tuning|fine-tuning]] dei modelli su corpora curati, anche sotto vincoli pratici di hardware. Quali trade-off ti aspetteresti tra efficienza e fedeltà con cui il modello gestisce una lingua a basse risorse?
 - L'AI multilingue deve andare oltre la traduzione per riflettere una pedagogia culturalmente rilevante — contenuti che siano appropriati linguisticamente *e* contestualmente. In che modo un contenuto perfettamente tradotto potrebbe comunque deludere uno studente se ignora il contesto e la cultura locali?
 
 ## Introduzione
@@ -47,13 +47,13 @@ L'apprendimento multilingue è una dimensione fondativa di equità dell'[[ai-edu
 
 - **Fine-tuning per le lingue a basse risorse:** Nwogo et al. (2026) hanno [[multilingual-adaptive-learning-nigeria-2026|fatto il fine-tuning di un LLM instruction-tuned su un corpus curato di Pidgin nigeriano]] all'interno di una piattaforma di [[adaptive-learning|apprendimento adattivo]], e hanno analizzato sistematicamente i trade-off della quantizzazione (4/5/8 bit) tra fedeltà semantica ed efficienza computazionale — mostrando che le lingue a basse risorse possono essere servite con vincoli pratici di hardware. Si veda anche il [[bilingual-llm-lecture-companion-srl-2026|compagno di lezione bilingue basato su LLM]] per l'[[self-regulated-learning|apprendimento autoregolato]].
 - **Equità di corpus e dati:** costruire corpora curati (ad es. Pidgin nigeriano, sistemi di conoscenza indiani tramite [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]]) è una strategia ricorrente per abilitare l'output dei modelli nelle lingue proprie degli apprendenti.
-- **Contesti vocali e orali:** i [[kutti-ai-voice-first-learning-companion|compagni vocali]] e le [[structural-silence-underrepresented-language-ai-2026|analisi del silenzio strutturale]] affrontano i contesti in cui l'AI basata sul testo fallisce con chi parla lingue sotto-rappresentate.
+- **Contesti [[speech-and-voice-technologies|vocali]] e orali:** i [[kutti-ai-voice-first-learning-companion|compagni vocali]] e le [[structural-silence-underrepresented-language-ai-2026|analisi del silenzio strutturale]] affrontano i contesti in cui l'AI basata sul testo fallisce con chi parla lingue sotto-rappresentate.
 
 ## Equità e pedagogia
 
 L'AI multilingue deve andare oltre la traduzione per riflettere una [[culturally-relevant-pedagogy|pedagogia culturalmente rilevante]] — generando contenuti che siano appropriati linguisticamente e contestualmente. Gli studi sulla [[llm-cultural-relevance-k12|rilevanza culturale degli LLM nella K-12]] e sullo [[scaffolding-critical-engagement-genai-minority-students|engagement critico con GenAI tra gli studenti appartenenti a minoranze]] mostrano che l'allineamento linguistico e culturale plasma il fatto che gli studenti ne traggano effettivamente beneficio. Se non affrontato, il bias monolingue nell'AI approfondisce il [[digital-divide|divario digitale]] e mina l'[[equity-in-ai-education|equità]] nel [[global-south|Sud del mondo]].
 
-Il translanguaging è una possibilità che i chatbot generativi aggiungono e che gli strumenti linguistici precedenti non offrivano. In una revisione sistematica di 24 studi, gli apprendenti chiedevano frasi e spiegazioni contestualizzate nella propria lingua come ponte verso la lingua d'arrivo — un uso che i revisori classificano come una nuova sotto-possibilità anziché come una versione riconfezionata di una esistente ([[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]]).
+Il translanguaging è una possibilità che i [[conversational-ai|chatbot]] generativi aggiungono e che gli strumenti linguistici precedenti non offrivano. In una [[meta-analysis-systematic-review|revisione sistematica]] di 24 studi, gli apprendenti chiedevano frasi e spiegazioni contestualizzate nella propria lingua come ponte verso la lingua d'arrivo — un uso che i revisori classificano come una nuova sotto-possibilità anziché come una versione riconfezionata di una esistente ([[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]]).
 
 ## Bias nella valutazione
 
@@ -71,7 +71,7 @@ Il giudizio comparativo basato su LLM è un caso in cui il bias seguiva la linea
 
 ## Idee sbagliate comuni
 
-- **"La lingua d'arrivo deve dominare fin dal primo giorno."** In una **revisione sistematica di 24 studi**, gli apprendenti chiedevano **frasi e spiegazioni contestualizzate nella propria lingua come ponte verso la lingua d'arrivo** — un uso che i revisori classificano come una sotto-possibilità genuinamente nuova anziché come un espediente. Il supporto nella lingua di casa funzionava da scaffolding, non da evitamento.
+- **"La lingua d'arrivo deve dominare fin dal primo giorno."** In una **revisione sistematica di 24 studi**, gli apprendenti chiedevano **frasi e spiegazioni contestualizzate nella propria lingua come ponte verso la lingua d'arrivo** — un uso che i revisori classificano come una sotto-possibilità genuinamente nuova anziché come un espediente. Il supporto nella lingua di casa funzionava da [[scaffolding]], non da evitamento.
 - **"La valutazione linguistica con l'IA è distorta contro chi scrive in più lingue."** Qui il bias seguiva la **linea di base umana anziché il modello**: il giudizio comparativo basato su LLM su **testi informativi delle classi 3-6 convergeva con le rubriche dei ricercatori (r = ,59-,73)** e mostrava lo stesso pattern dei valutatori umani. Non è una prova di equità in termini assoluti, ma la prova che il modello non ha introdotto una distorsione nuova sopra quella esistente.
 - **"La parte utile è l'output tradotto."** L'uso-ponte è esplicativo e situato, non sostitutivo. Uno strumento che sostituisce la produzione dell'apprendente elimina la pratica che il ponte doveva rendere possibile.
 

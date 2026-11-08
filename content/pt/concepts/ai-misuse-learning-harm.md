@@ -1,7 +1,7 @@
 ---
 title: Uso indevido de IA e dano à aprendizagem
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:35:57-05:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 
 O uso indevido de IA é distinto do uso de IA. O uso descreve empregar a IA como complemento da aprendizagem — [[feedback|feedback]], brainstorming ou ajuda na revisão que mantém o trabalho cognitivo do estudante no circuito. O uso indevido descreve a substituição: delegar à IA os próprios processos mentais (redigir, recordar, analisar, revisar) que constroem a compreensão durável. O dano documentado na base de evidências da base de conhecimento não é que o uso indevido deixa de ajudar; é que o uso indevido degrada ativamente o desempenho posterior, sem assistência.
 
-O dano antecipado está ele mesmo documentado: em dados de survey e de grupo focal suecos, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] constataram que 51% dos participantes (n = 106) se preocupavam que o uso de IA generativa pudesse prejudicar o desenvolvimento individual, nomeando perdas em [[critical-thinking|pensamento crítico]], criatividade e autonomia, e não violação de regras.
+O dano antecipado está ele mesmo documentado: em dados de survey e de grupo focal suecos, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] relatam o mesmo receio a partir de dados suecos: 51% dos participantes (n = 106) achavam que o uso de IA generativa poderia atrofiar o desenvolvimento individual, apontando para a erosão do [[critical-thinking|pensamento crítico]], da [[creativity|criatividade]] e da autonomia, e não para violação de regras.
 
 ### A lacuna entre desempenho e aprendizagem
 
@@ -79,11 +79,11 @@ A nuance prática mais importante é que o dano é **seletivo por tipo de avalia
 
 ### Desengajamento conversacional na era dos LLMs
 
-A literatura sobre jogar com o sistema (abuso de dicas, adivinhação sistemática) tem uma contraparte da era do diálogo: o desengajamento conversacional — zombar do agente, responder deliberadamente errado, ignorá-lo, espelhar seu texto ou reter respostas. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] dão a esse fenômeno seu primeiro tratamento sistemático no diálogo estudante–IA, e sua lição central é interpretativa, e não alarmista. Um *turno* desengajado é um movimento interacional, e não um estado estável de desengajamento. A associação aparente de Resposta Falsa com as notas pós-teste não sobreviveu a uma verificação de sensibilidade anotada por humanos, e os autores a leem como sondagem *dentro* de trajetórias que frequentemente retornam ao engajamento (o cluster de melhor desempenho se recuperou em p = 0,42). O comportamento que de fato separou trajetórias foi a Retenção — a recusa a responder, que persistiu em vez de se resolver. Para quem desenha, isso inverte a prioridade usual: o desengajamento ruidoso e visível muitas vezes se autocorrige, enquanto a retirada silenciosa sinaliza que a interação se rompeu.
+A literatura sobre jogar com o sistema (abuso de dicas, adivinhação sistemática) tem uma contraparte da era do diálogo: o desengajamento conversacional — zombar do agente, responder deliberadamente errado, ignorá-lo, espelhar seu texto ou reter respostas. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] dão a esse fenômeno seu primeiro tratamento sistemático no [[student-ai-interaction|diálogo estudante–IA]], e sua lição central é interpretativa, e não alarmista. Um *turno* desengajado é um movimento interacional, e não um estado estável de desengajamento. A associação aparente de Resposta Falsa com as notas pós-teste não sobreviveu a uma verificação de sensibilidade anotada por humanos, e os autores a leem como sondagem *dentro* de trajetórias que frequentemente retornam ao engajamento (o cluster de melhor desempenho se recuperou em p = 0,42). O comportamento que de fato separou trajetórias foi a Retenção — a recusa a responder, que persistiu em vez de se resolver. Para quem desenha, isso inverte a prioridade usual: o desengajamento ruidoso e visível muitas vezes se autocorrige, enquanto a retirada silenciosa sinaliza que a interação se rompeu.
 
 ## Ideias equivocadas comuns
 
-**"Os estudantes perceberiam se a IA estivesse prejudicando sua aprendizagem."** Eles não percebem, e esse é o fato mais consequente da página: **os estudantes do grupo prejudicado não perceberam que aprenderam menos.** O autorrelato, portanto, não é um sinal utilizável de alerta precoce. O padrão de 48% mais prática e 17% menos prova é invisível para a pessoa que o vive, e é por isso que a detecção do dano tem de ser baseada em medição, e não em testemunho.
+**"Os estudantes perceberiam se a IA estivesse prejudicando sua aprendizagem."** Eles não percebem, e esse é o fato mais consequente da página: **os estudantes do grupo prejudicado não perceberam que aprenderam menos.** O [[self-report-measures|autorrelato]], portanto, não é um sinal utilizável de alerta precoce. O padrão de 48% mais prática e 17% menos prova é invisível para a pessoa que o vive, e é por isso que a detecção do dano tem de ser baseada em medição, e não em testemunho.
 
 **"O risco é quanto de IA um estudante usa."** O risco é aquilo que a IA substitui. Uso indevido, aqui, significa delegar a redação, a recordação ou a análise que constrói a compreensão durável — substituição em vez de complemento —, e um estudante pode substituir pesadamente em uma tarefa e complementar produtivamente na seguinte. O volume de uso é a variável errada; a divisão do trabalho cognitivo é a certa.
 

@@ -8,7 +8,7 @@ ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, g
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 - Mifano mingi ya AI imefunzwa hasa kwa lugha zenye rasilimali nyingi kama Kiingereza. Ikiwa unafikiri, unajifunza, au unatathminiwa kwa lugha tofauti, hilo linawezaje kukudhuru kwa njia ya mfumo — hata kama zana inaonekana 'kufanya kazi' kwa Kiingereza?
 - Ukurasa huu unaonya kwamba upendeleo wa lugha moja ambao haushughulikiwi katika AI unazamisha pengo la kidijitali na kudhoofisha usawa, hasa katika Global South. Je, usawa halisi unahitaji nini zaidi ya kutafsiri tu maudhui ya AI katika lugha nyingine?
 - Tathmini za kiotomatiki zinaweza kuonyesha upendeleo wa lugha, na kuwadhibiti wasemaji wasio wa asili hata kwa hoja sawa. Ikiwa ungetekeleza alama za AI, ungeangalia nini ili kuhakikisha ni za usawa katika lugha zote badala ya kuwa sahihi tu katika lugha moja?
-- Ukurasa huu unaonyesha kwamba lugha zenye rasilimali ndogo zinaweza kuhudumiwa kwa kuboresha mifano kwa maktaba zilizochaguliwa, hata chini ya vikwazo vya vifaa vya kivitendo. Unatarajia mabadiliko gani kati ya ufanisi na jinsi mfano unavyoshughulikia lugha yenye rasilimali ndogo kwa uaminifu?
+- Ukurasa huu unaonyesha kwamba lugha zenye rasilimali ndogo zinaweza kuhudumiwa kwa [[llm-training-and-fine-tuning|kuboresha mifano]] kwa maktaba zilizochaguliwa, hata chini ya vikwazo vya vifaa vya kivitendo. Unatarajia mabadiliko gani kati ya ufanisi na jinsi mfano unavyoshughulikia lugha yenye rasilimali ndogo kwa uaminifu?
 - AI ya lugha nyingi lazima izidi tafsiri ili kuonyesha mafunzo yanayohusiana na tamaduni — maudhui yanayofaa kwa lugha *na* miktadha. Maudhui ambayo yametafsiriwa kikamilifu yanawezaje kushindwa kumtia mwanafunzi ikipuuza miktadha na tamaduni za eneo?
 
 ## Utangulizi
@@ -42,13 +42,13 @@ Kujifunza kwa lugha nyingi ni kipengele kikuu cha usawa cha [[ai-education|AI ka
 
 - **Kuboresha kwa lugha zenye rasilimali ndogo:** Nwogo et al. (2026) [[multilingual-adaptive-learning-nigeria-2026|waliboresha LLM iliyoelekezwa na maelekezo kwa maktaba ya Pidgin ya Nigeria iliyochaguliwa]] katika jukwaa la [[adaptive-learning]] na kuchanganua kwa njia ya mfumo mabadiliko ya quantization (biti 4/5/8) kati ya uaminifu wa kisemantiki na ufanisi wa kompyuta — ikionyesha kwamba lugha zenye rasilimali ndogo zinaweza kuhudumiwa chini ya vikwazo vya vifaa vya kivitendo. Angalia pia [[bilingual-llm-lecture-companion-srl-2026|mwenzio wa somo wa LLM wa lugha mbili]] kwa [[self-regulated-learning|kujifunza kwa kujidhibiti]].
 - **Usawa wa maktaba na data:** kujenga maktaba zilizochaguliwa (k.m., Pidgin ya Nigeria, mifumo ya maarifa ya India kupitia [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]]) ni mkakati unaojirudia wa kuwezesha matokeo ya mfano katika lugha za wanafunzi wenyewe.
-- **Miktadha ya sauti-kwanza na ya mdomo:** [[kutti-ai-voice-first-learning-companion|wenzio wa sauti-kwanza]] na [[structural-silence-underrepresented-language-ai-2026|uchanganuzi wa ukimya wa muundo]] wanashughulikia miktadha ambapo AI inayotegemea maandishi inashindwa kwa wasemaji wa lugha zisizo wakilishwa vya kutosha.
+- **[[speech-and-voice-technologies|Miktadha ya sauti-kwanza]] na ya mdomo:** [[kutti-ai-voice-first-learning-companion|wenzio wa sauti-kwanza]] na [[structural-silence-underrepresented-language-ai-2026|uchanganuzi wa ukimya wa muundo]] wanashughulikia miktadha ambapo AI inayotegemea maandishi inashindwa kwa wasemaji wa lugha zisizo wakilishwa vya kutosha.
 
 ## Usawa na kielimu
 
 AI ya lugha nyingi lazima izidi tafsiri ili kuonyesha [[culturally-relevant-pedagogy|mafunzo yanayohusiana na tamaduni]] — kuzalisha maudhui yanayofaa kwa lugha na miktadha. Masomo ya [[llm-cultural-relevance-k12|uhusiano wa tamaduni wa LLM katika K-12]] na [[scaffolding-critical-engagement-genai-minority-students|ushiriki mahususi na GenAI kati ya wanafunzi wa makundi madogo]] yanaonyesha kwamba upatanisho wa lugha na tamaduni huba jinsi wanafunzi wanavyonufaika kweli. Bila kushughulikiwa, upendeleo wa lugha moja katika AI unazamisha [[digital-divide]] na kudhoofisha [[equity-in-ai-education|Usawa]] katika [[global-south|Global South]].
 
-Ubadilishaji wa lugha (translanguaging) ni fursa ambayo chatbots za kizalishaji huongeza ambayo zana za zamani za lugha hazikuwa nazo. Katika mapitio ya kimfumo ya masomo 24, wanafunzi waliomba misemo na maelezo yenye muktadha katika lugha yao wenyewe kama daraja la kuingia lugha lengwa, matumizi ambayo wapitiaji wanayaainisha kama fursa ndogo mpya badala ya ile iliyofungwa upya ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+Ubadilishaji wa lugha (translanguaging) ni fursa ambayo [[conversational-ai|chatbots]] za kizalishaji huongeza ambayo zana za zamani za lugha hazikuwa nazo. Katika [[meta-analysis-systematic-review|mapitio ya kimfumo]] ya masomo 24, wanafunzi waliomba misemo na maelezo yenye muktadha katika lugha yao wenyewe kama daraja la kuingia lugha lengwa, matumizi ambayo wapitiaji wanayaainisha kama fursa ndogo mpya badala ya ile iliyofungwa upya ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
 ## Upendeleo wa tathmini
 
@@ -66,7 +66,7 @@ Uamuzi wa kulinganisha unaotegemea LLM ni hali ambapo upendeleo ulifuatia msingi
 
 ## Dhana Potofu za Kawaida
 
-- **"Lugha lengwa inapaswa kutawala kuanzia siku ya kwanza."** Katika **mapitio ya kimfumo ya masomo 24**, wanafunzi waliomba **misemo na maelezo yenye muktadha katika lugha yao wenyewe kama daraja la kuingia lugha lengwa**, matumizi ambayo wapitiaji wanayaainisha kama fursa ndogo mpya kwa kweli badala ya njia ya kukwepa. Msaada wa lugha ya nyumbani ulifanya kazi kama ngazi ya msaada, si kama kuepuka.
+- **"Lugha lengwa inapaswa kutawala kuanzia siku ya kwanza."** Katika **mapitio ya kimfumo ya masomo 24**, wanafunzi waliomba **misemo na maelezo yenye muktadha katika lugha yao wenyewe kama daraja la kuingia lugha lengwa**, matumizi ambayo wapitiaji wanayaainisha kama fursa ndogo mpya kwa kweli badala ya njia ya kukwepa. Msaada wa lugha ya nyumbani ulifanya kazi kama [[scaffolding|ngazi ya msaada]], si kama kuepuka.
 - **"Tathmini ya lugha ya AI ina upendeleo dhidi ya waandishi wa lugha nyingi."** Hapa upendeleo ulifuatia **msingi wa binadamu badala ya modeli**: uamuzi wa kulinganisha unaotegemea LLM kwa **uandishi wa habari wa Madaraja 3-6 ulikubaliana na rubriki za watafiti (r = .59-.73)** na ukaonyesha mwelekeo ule ule wa wataalam wa binadamu. Huo si ushahidi wa haki kwa maneno kamili; ni ushahidi kuwa modeli haikuleta upotoshaji mpya juu ya ule uliopo.
 - **"Matokeo ya ubora wa tafsiri ndiyo sehemu yenye manufaa."** Matumizi ya daraja ni ya ufafanuzi na ya kimuktadha, si ya kuchukua nafasi. Zana inayochukua nafasi ya uzalishaji wa mwanafunzi mwenyewe huondoa mazoezi ambayo daraja lililenga kuwezesha.
 

@@ -1,7 +1,7 @@
 ---
 title: "Design universal para a aprendizagem"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:30:33-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ ai_assist:
 
 - A afirmação central do DUA é que a variabilidade de quem aprende é a norma, não a exceção — então projete para muitos caminhos desde o início em vez de consertar um caminho único para quem tem dificuldade. Você tende a projetar para um quem aprende "médio" e a acrescentar acomodações depois? O que poderia se perder nessa abordagem padrão?
 - Pense em uma vez em que um formato particular (um texto denso, uma aula expositiva, uma única forma de mostrar o trabalho) excluiu você ou alguém que você ensinou. Qual dos três princípios do DUA — engajamento, representação ou ação/expressão — estava em jogo, e como teria sido uma alternativa flexível?
-- A [[generative-ai|IA generativa]] pode criar exemplos personalizados, legendas, resumos e múltiplos formatos de avaliação — aparentemente um presente para o DUA. Mas a página alerta que a IA também pode codificar viés e reduzir a [[agency|agência de quem aprende]]. Antes de continuar lendo, como uma ferramenta construída para personalizar poderia acabar *estreitando* em vez de ampliar os caminhos de aprendizagem de alguns estudantes?
+- A IA generativa pode criar exemplos personalizados, legendas, resumos e múltiplos formatos de avaliação — aparentemente um presente para o DUA. Mas a página alerta que a IA também pode codificar viés e reduzir a [[agency|agência de quem aprende]]. Antes de continuar lendo, como uma ferramenta construída para personalizar poderia acabar *estreitando* em vez de ampliar os caminhos de aprendizagem de alguns estudantes?
 - Um [[misconceptions|mal-entendido]] comum é que o DUA significa baixar os padrões ou dar a todos desfechos diferentes. Considere uma tarefa que permite aos estudantes entregar uma redação, um vídeo, um diagrama ou código para o mesmo resultado de aprendizagem. Isso é um rebaixamento, ou uma forma mais justa de avaliar a mesma habilidade? Defenda sua visão.
 - O DUA transforma "consertar quem aprende" em "consertar o design". Escolha uma experiência de aprendizagem frustrante que você teve ou projetou. Se a barreira fosse um problema de design, e não um problema do estudante, o que você mudaria no design para removê-la para todos?
 - A página alerta contra IA que presume um único estilo de comunicação ou penaliza a expressão neurodivergente. Se você usa ou projeta ferramentas assistidas por IA, onde estilos "padrão" poderiam silenciosamente excluir quem aprende — e o que seria preciso para auditar isso?
@@ -53,7 +53,7 @@ A [[generative-ai|IA generativa]] cria novas oportunidades e novos riscos para o
 
 A equidade por design é uma forma concreta de operacionalizar essa postura. Wenzel, Geiger e Liening (2026) fundamentam seu framework CAIS-GBL para [[conversational-ai|agentes conversacionais]] de IA em jogos de [[simulation|simulação]] de negócios em uma abordagem explícita de **equidade por design** alinhada ao design universal para a aprendizagem, derivando metarrequisitos que abrangem engajamento cognitivo, [[motivation|motivacional]], [[affective-computing|afetivo]] e [[sociocultural-learning|sociocultural]]. Seus princípios e características de design visam enfrentar as diferenças individuais de quem aprende em pontos fortes, desafios e interesses — uma aplicação concreta dos princípios do DUA ao design da [[game-based-learning|aprendizagem baseada em jogos]] adaptativa e com apoio de IA. Uma ferramenta pode servir aos três princípios do DUA e ainda assim estreitar o que um docente decide. [[alenezi-ai-universal-design-learning-kuwait-2026|Alenezi (2026)]] argumenta que mapear uma ferramenta a um princípio do DUA é necessário, mas não suficiente, exatamente por isso, e propõe uma auditoria anual de desprofissionalização e um registro de dependência de fornecedores entre suas verificações.
 
-A IA também aparece nesta literatura como obstáculo ao DUA, e não como instrumento dele. No estudo de |métodos mistos de [[faculty-accessible-course-design-ai-2026|Sidhu, Atif e Newland (2026)]] com 69 professores em uma universidade de Ontário, um dos quatro temas-chave é que a [[generative-ai|IA generativa]] está revertendo o progresso no design acessível de cursos; a citação do título, "A IA está reduzindo as opções que eu tinha", vem de suas entrevistas, porque as tarefas para fazer em casa e baseadas em redação que faziam o trabalho de inclusão são justamente as que uma IA agora consegue concluir por completo. Seus achados no nível do corpo docente mostram por que esse retrocesso recai sobre uma base já escassa: 90% dos respondentes acreditavam que criam um ambiente de aprendizagem acessível e 87% disseram considerar ativamente a acessibilidade, mas menos da metade (46%) achava que a universidade oferecia recursos suficientes para isso, e cerca de um quinto nunca tinha ouvido falar de técnicas tão básicas quanto PDFs legíveis por OCR ou links independentes de cor. A demanda está superando a oferta — as matrículas em universidades de Ontário cresceram 17% de 2013 a 2022, enquanto os registros nos serviços de acessibilidade subiram 126% —, de modo que o caso que o estudo faz é que o apoio ao DUA precisa ser provido de recursos para compensar as opções de avaliação que a IA removeu.
+A IA também aparece nesta literatura como obstáculo ao DUA, e não como instrumento dele. No estudo de [[mixed-methods-research|métodos mistos]] de [[faculty-accessible-course-design-ai-2026|Sidhu, Atif e Newland (2026)]] com 69 professores em uma universidade de Ontário, um dos quatro temas-chave é que a [[generative-ai|IA generativa]] está revertendo o progresso no design acessível de cursos; a citação do título, "A IA está reduzindo as opções que eu tinha", vem de suas entrevistas, porque as tarefas para fazer em casa e baseadas em redação que faziam o trabalho de inclusão são justamente as que uma IA agora consegue concluir por completo. Seus achados no nível do corpo docente mostram por que esse retrocesso recai sobre uma base já escassa: 90% dos respondentes acreditavam que criam um ambiente de aprendizagem acessível e 87% disseram considerar ativamente a acessibilidade, mas menos da metade (46%) achava que a universidade oferecia recursos suficientes para isso, e cerca de um quinto nunca tinha ouvido falar de técnicas tão básicas quanto PDFs legíveis por OCR ou links independentes de cor. A demanda está superando a oferta — as matrículas em universidades de Ontário cresceram 17% de 2013 a 2022, enquanto os registros nos serviços de acessibilidade subiram 126% —, de modo que o caso que o estudo faz é que o apoio ao DUA precisa ser provido de recursos para compensar as opções de avaliação que a IA removeu.
 
 ### Conexões
 
@@ -109,7 +109,7 @@ O DUA transforma "consertar quem aprende" em "consertar o design". Para professo
 - [[culturally-relevant-pedagogy]]
 - [[authentic-assessment]]
 - [[student-experience]]
-- generative-ai
+- [[generative-ai]]
 - [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
 - [[bias-mitigation]]
 - [[reducing-ai-misuse]]

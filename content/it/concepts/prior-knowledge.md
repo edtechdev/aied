@@ -1,14 +1,14 @@
 ---
 title: Conoscenze pregresse
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T07:30:00-04:00"
+updated: "2026-11-08T14:09:36-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-28T01:09:26-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,10 @@ L'attivazione delle conoscenze pregresse è uno dei risultati più robusti delle
 
 - **È il predittore più forte dell'apprendimento.** Decenni di [[research-methods-aied|ricerca]] mostrano che ciò che uno studente già conosce correla con gli [[learning-gains|esiti di apprendimento]] più fortemente di quasi ogni altro fattore, perché le nuove informazioni vengono codificate in relazione ai modelli mentali esistenti. I sistemi di IA che si adattano allo stato di conoscenze pregresse di ciascuno studente detengono quindi una promessa particolare di efficienza e [[transfer-of-learning|trasferimento]].
 - **Conta l'attivazione, non solo il possesso.** Avere conoscenze pregresse non basta — devono essere attivamente recuperate e collegate al nuovo materiale. È per questo che "attivare le conoscenze pregresse" è una mossa [[pedagogy|didattica]] standard, e perché la pratica di recupero (richiamare ciò che sai prima di aggiungervi) migliora l'apprendimento oltre la semplice riesposizione.
-- **Non sempre predice chi svolge il lavoro che guida l'apprendimento.** In uno studio di cinque giorni sull'apprendimento mediante insegnamento con 23 tutor di scuola media, i punteggi precedenti al test non hanno predetto la quota di risposte di costruzione della conoscenza prodotta da un tutor, e i tutor con conoscenze pregresse basse che costruivano conoscenza hanno concluso a livello statisticamente pari ai compagni con conoscenze pregresse alte ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
+
+- **Quanto più forte, in un confronto randomizzato.** Due tutor di matematica di seconda elementare per il resto identici, che differivano solo se la selezione dei compiti seguiva una stima di padronanza basata sul tracciamento bayesiano della conoscenza, non producevano alcuna differenza nei punteggi post-test. Le conoscenze pregresse predicevano quei punteggi a η²p = ,63 (F(1, 124) = 206,99, p < ,001) mentre la sequenza adattiva spiegava η²p = ,00 ([[adaptive-intelligent-tutoring-primary-mathematics-2026|Sibley, Berner e Schmalfeldt (2026)]]). L'adattamento riordina la pratica; ciò che chi apprende portava con sé ha comunque portato l'esito.
+
+- **Non sempre predice chi svolge il lavoro che guida l'apprendimento.** In uno studio di cinque giorni sull'[[learning-by-teaching|apprendimento mediante insegnamento]] con 23 tutor di scuola media, i punteggi precedenti al test non hanno predetto la quota di risposte di costruzione della conoscenza prodotta da un tutor, e i tutor con conoscenze pregresse basse che costruivano conoscenza hanno concluso a livello statisticamente pari ai compagni con conoscenze pregresse alte ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **Modella l'interpretazione.** Gli studenti interpretano le nuove informazioni attraverso ciò che già credono. Quando quelle convinzioni sono sbagliate ([[misconceptions|misconcepimenti]]), le conoscenze pregresse possono *interferire* con l'apprendimento, ed è per questo che l'istruzione deve portare alla luce e affrontare i misconcepimenti anziché assumere un punto di partenza neutro.
 - **Guida la modellazione dello studente.** Per personalizzare, un sistema di IA deve stimare lo stato di conoscenze pregresse dello studente — la base del [[knowledge-tracing|tracciamento della conoscenza]], della modellazione dello studente e dello [[scaffolding|scaffolding]] adattivo. La qualità di queste stime determina se l'adattamento è genuinamente utile o fuorviante.
 - **Il contenuto della conoscenza determina quale pratica di processo viene reclutata.** Se l'apprendimento si regge sulla memoria o sull'induzione è stabilito dalla struttura di conoscenze pregresse dell'obiettivo: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] seguono il framework KLI nel distinguere componenti di conoscenza con condizioni e risposte costanti (fatti, acquisiti attraverso memoria e pratica di recupero) da quelle con condizioni e risposte variabili (abilità, acquisite attraverso induzione e generalizzazione a input nuovi) — ed è per questo che il mix ottimale di esempi svolti e pratica differisce per i contenuti di fatto rispetto ai contenuti di abilità.
@@ -105,3 +108,6 @@ L'IA generativa ha reso le conoscenze pregresse una considerazione centrale di d
 - [[bridging-instructional-design-framework-math]] — An instructional-design framework for math
 - [[knowledge-building-tutor-learning-2026]] — knowledge-building rather than prior knowledge predicts tutor learning, and low-prior tutors who build knowledge catch up
 - [[rachatasumrit-example-problem-ratio-2026]]
+
+- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Le conoscenze pregresse portavano il post-test (η²p = ,63) mentre la selezione adattiva dei compiti non portava nulla (Sibley et al. 2026)
+

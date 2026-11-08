@@ -8,9 +8,9 @@ pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning
 technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T14:01:53-05:00"
 translation_of: "concepts/self-directed-learning"
-source_updated: "2026-11-01T09:06:43-05:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -35,17 +35,20 @@ ai_assist:
 
 ## Pendahuluan
 
-Pembelajaran mandiri berkaitan erat dengan — tetapi berbeda dari — [[self-regulated-learning|pembelajaran teregulasi diri (SRL)]]. Sementara SRL menekankan regulasi kognitif, motivasional, dan perilaku pembelajaran pada momen berjalan (merencanakan, memantau, mengendalikan, merefleksi), SDL menekankan tanggung jawab menyeluruh pembelajar atas arah dan pengelolaan pembelajarannya sepanjang waktu, sering kali dalam konteks informal atau yang dipilih sendiri. SDL adalah fondasi bagi [[adult-learning|pembelajaran orang dewasa]] dan [[lifelong-learning|pembelajaran sepanjang hayat]], dan merupakan teori yang menonjol dalam pendidikan jarak jauh dan daring, di mana pembelajar harus mempertahankan otonomi tanpa waktu kelas terjadwal. SDL juga makin *dapat diteliti* secara empiris: menganalisis clickstream 315 pembelajar daring yang membangun 822 model di VERA, [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] mengidentifikasi tiga tanda perilaku kemandirian — Observation, Construction, dan Exploration — dan menemukan pembelajar bergerak dari konstruksi langsung menuju Exploration yang lebih penuh dan digerakkan hipotesis sementara Observation bertahan di semua fase, menunjukkan bahwa derajat dan jenis otonomi yang dijalankan pembelajar dalam tugas daring tak terstruktur dapat dibedakan hanya dari data jejaknya.
+Pembelajaran mandiri adalah tetangga dekat [[self-regulated-learning|pembelajaran teregulasi diri (SRL)]], bukan sinonimnya. Sementara SRL menekankan regulasi kognitif, motivasional, dan perilaku pembelajaran pada momen berjalan (merencanakan, memantau, mengendalikan, merefleksi), SDL menekankan tanggung jawab menyeluruh pembelajar atas arah dan pengelolaan pembelajarannya sepanjang waktu, sering kali dalam konteks informal atau yang dipilih sendiri. SDL adalah fondasi bagi [[adult-learning|pembelajaran orang dewasa]] dan [[lifelong-learning|pembelajaran sepanjang hayat]], dan merupakan teori yang menonjol dalam pendidikan jarak jauh dan [[online-teaching-and-learning|pendidikan daring]], di mana pembelajar harus mempertahankan otonomi tanpa waktu kelas terjadwal. SDL juga makin *dapat diteliti* secara empiris: menganalisis clickstream 315 pembelajar daring yang membangun 822 model di VERA, [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] mengidentifikasi tiga tanda perilaku kemandirian — Observation, Construction, dan Exploration — Mereka juga menemukan pembelajar bergerak dari konstruksi langsung menuju Exploration yang lebih penuh dan digerakkan hipotesis sementara Observation bertahan di semua fase, menunjukkan bahwa derajat dan jenis otonomi yang dijalankan pembelajar dalam tugas daring tak terstruktur dapat dibedakan hanya dari data jejaknya.
 
 ## Bagaimana AI generatif membentuk ulang pembelajaran mandiri
 
 [[research-methods-aied|Penelitian]] basis pengetahuan ini mendokumentasikan kedua sisi hubungan GenAI–SDL.
 
 - **AI dapat mendukung SDL.** [[ai-lifelong-learning-policy|AI dan pembelajaran sepanjang hayat]] serta [[self-directed-growth-generative-ai-learning-analytics|pertumbuhan mandiri dengan GenAI + analitik pembelajaran]] menunjukkan bahwa alat AI dapat [[scaffolding|merancah]] inkuiri mandiri, menyediakan sumber daya sesuai permintaan, dan mempersonalisasi jalur belajar dengan cara yang memperkuat otonomi pembelajar. [[genai-educational-outcomes-meta-analysis|Bukti meta-analitis]] tentang hasil pendidikan AI generatif dan [[conversational-ai-informal-learning|AI percakapan dalam pembelajaran informal]] mengisyaratkan potensi positif ketika AI digunakan sebagai sumber daya yang diarahkan pembelajar.
-- **Pembelajar menginginkan mitra berpikir, bukan oracle.** Pembelajar dewasa yang diwawancarai ingin AI memancing refleksi dan memverifikasi alih-alih memasok jawaban, serta membiarkan mereka mengendalikan jalur belajar alih-alih meresepkannya ([[kim-ai-andragogy-2026|Kim dkk. (2026)]]).
+- **Pembelajar menginginkan mitra berpikir, bukan oracle.** Pembelajar dewasa yang diwawancarai ingin AI memancing refleksi dan memverifikasi alih-alih memasok jawaban, serta membiarkan mereka mengendalikan [[recommender-systems-and-learning-paths|jalur belajar]] alih-alih meresepkannya ([[kim-ai-andragogy-2026|Kim dkk. (2026)]]).
 - **Mendelegasikan pilihan tujuan tidak sama dengan mendukungnya.** Halaman ini memperlakukan penetapan tujuan sebagai tindakan inti pembelajar, dan bukti tolok ukur mengatakan model melakukannya secara berbeda. Terhadap 175 manusia, GPT-5, Claude Sonnet 4.5 dan Qwen3 32B memilih ulang tujuan sebelumnya pada 0.93, 0.93 dan 0.94 percobaan, berbanding 0.54 ± 0.18 untuk manusia. Entropi tujuan adalah 0.12 hingga 0.20 berbanding 1.67 ± 0.14, dan rantai pemikiran serta prompt persona tidak menutup kesenjangannya. Sistem yang mengusulkan apa yang harus dipelajari berikutnya mereproduksi pencarian yang lebih sempit daripada pembelajar yang diwakilinya ([[llm-goal-selection-self-directed-learning-2026|Molinaro dkk., 2026]]).
 
 - **Penggunaan tanpa berpikir melemahkan SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] menunjukkan bahwa **penggunaan GenAI tanpa berpikir** — mengadopsi keluaran AI tanpa evaluasi kritis — secara signifikan merugikan SDL mahasiswa sarjana baik secara langsung maupun melalui erosi [[self-efficacy]] dan [[motivation]] (model menjelaskan 75.3% varians SDL; TUGA β = −0.42). Efek negatif pada motivasi lebih kuat pada mahasiswa laki-laki dan pada efikasi diri lebih kuat pada mahasiswa perempuan. Hal ini terhubung ke risiko [[cognitive-offloading|ketergantungan berlebih]] yang lebih luas yang didokumentasikan basis pengetahuan.
+
+- **Penggunaan tanpa panduan pada skala populasi.** Di antara 4,062 siswa di 136 sekolah menengah Jerman, penggunaan GenAI untuk menyelesaikan tugas dan yang berorientasi belajar sama-sama meningkat sepanjang satu tahun ajaran (d = 0.35 dan 0.33), dengan hanya 5% siswa yang tidak pernah menggunakan alat itu; capaian awal yang lebih rendah memprediksi lebih banyak penggunaan berikutnya di keenam mata pelajaran, namun tidak satu pun bentuk penggunaan memprediksi capaian sesudahnya ([[scherer-self-directed-genai-use-secondary-2026|Scherer dkk. (2026)]]).
+
 
 - **Offloading kognitif dan delegasi.** [[andragogy-cognitive-delegation-genai-2026|Andragogi dan delegasi kognitif]] serta [[learning-by-chatting-genai-impact|belajar dengan mengobrol bersama GenAI]] menelaah bagaimana pembelajar dapat mendelegasikan kerja kognitif kepada AI dengan cara yang melewati pemrosesan penuh usaha yang dibutuhkan SDL — sebuah mode kegagalan dari alat yang sebenarnya mendukung otonomi. [[critical-thinking-genai-scaffolding|Merancah berpikir kritis dengan GenAI]] dan [[test-driven-ai-assisted-learning|pembelajaran berbantuan AI yang digerakkan tes]] memodelkan desain yang lebih produktif.
 
@@ -56,7 +59,7 @@ Karena SDL menekankan pengarahan yang diinisiasi pembelajar, intervensi untuk me
 
 ## Perancahan Ekstraksi AI untuk Pembelajaran Berbasis Riset
 
-- **Ekstraksi AI sebagai perancah bagi pembelajaran berbasis riset.** An dan rekan (2026) merancang sistem ekstraksi informasi bertenaga AI yang mengubah publikasi riset menjadi kumpulan data terstruktur dan dapat dilacak untuk mendukung penyelesaian skripsi sarjana di [[stem-education|STEM]], diposisikan sebagai **perancah epistemik** yang memungkinkan pemeriksaan hubungan bukti–klaim sekaligus mengurangi tuntutan penanganan data tingkat rendah. Dalam uji coba [[mixed-methods-research|metode campuran]] dengan 20 siswa pada 80 dokumen, siswa mengekstraksi lebih dari 90% parameter yang ditargetkan, waktu tinjauan literatur yang dilaporkan sendiri turun ~65%, dan kemampuan mereka mengidentifikasi variabel berpengaruh naik 50% — mendukung gagasan bahwa [[generative-ai|AI]] dapat menyeimbangkan kembali beban kognitif ke arah penalaran riset mandiri tingkat tinggi alih-alih peringkasan rutin.
+- **Ekstraksi AI sebagai perancah bagi pembelajaran berbasis riset.** An dan rekan (2026) merancang sistem ekstraksi informasi bertenaga AI yang mengubah publikasi riset menjadi kumpulan data terstruktur dan dapat dilacak untuk mendukung penyelesaian skripsi sarjana di [[stem-education|STEM]], diposisikan sebagai **perancah epistemik** yang memungkinkan pemeriksaan hubungan bukti–klaim sekaligus mengurangi tuntutan penanganan data tingkat rendah. Dalam uji coba [[mixed-methods-research|metode campuran]] dengan 20 siswa pada 80 dokumen, siswa mengekstraksi lebih dari 90% parameter yang ditargetkan, waktu tinjauan literatur yang [[self-report-measures|dilaporkan sendiri]] turun ~65%, dan kemampuan mereka mengidentifikasi variabel berpengaruh naik 50% — mendukung gagasan bahwa [[generative-ai|AI]] dapat menyeimbangkan kembali beban kognitif ke arah penalaran riset mandiri tingkat tinggi alih-alih peringkasan rutin.
 
 ## Miskonsepsi Umum
 
@@ -108,4 +111,6 @@ Karena SDL menekankan pengarahan yang diinisiasi pembelajar, intervensi untuk me
 - [[andragogy-cognitive-delegation-genai-2026]] — Andragogi dan delegasi kognitif dengan GenAI
 - [[kim-ai-andragogy-2026]] — Aplikasi AI dalam mendukung andragogi (Kim dkk. 2026)
 - [[an-goel-self-directed-modeling-2026]]
+- [[scherer-self-directed-genai-use-secondary-2026]] — Penggunaan AI generatif mandiri dan perkembangan akademik di antara siswa sekolah menengah: studi longitudinal satu tahun berskala besar
+
 - [[llm-goal-selection-self-directed-learning-2026]] — Model tidak memilih tujuan belajar seperti manusia dalam tugas pilihan bebas (Molinaro dkk. 2026)

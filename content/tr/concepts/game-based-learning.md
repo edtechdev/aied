@@ -6,7 +6,7 @@ pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-10-30T06:18:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -37,10 +37,13 @@ GBL, [[motivation]], [[student-engagement]] ve [[active-learning]] kuramlarına 
 - **Robot aracılı oyunlar:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]], zorbalığa karşı müdahale için robot aracılı bir rol yapma oyunudur ve [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] güdülenmeyi artırmak için etkileşimli [[storytelling-in-education|dijital hikâye anlatımı]] kullanır.
 - **Simülasyon oyunlarında YZ [[conversational-ai|konuşma aracıları]]:** Wenzel, Geiger ve Liening (2026), dijital oyun temelli öğrenmede YZ konuşma aracıları için dört tasarım ilkesi ve on beş tasarım özelliğinden oluşan CAIS-GBL çerçevesini, bilişsel, güdüleyici, [[affective-computing|duygusal]] ve [[sociocultural-learning|sosyokültürel]] etkileşimi kapsayan kuram kaynaklı meta-gereksinimlerden türetir; bunu bir [[equity-in-ai-education|tasarımla eşitlik]] duruşuyla birlikte yaparlar. İş planı simülasyon oyununda somutlaştırılmış aracıları (Lara), bilişsel ve [[community-of-inquiry|sosyal varlık]] ile [[self-regulated-learning]] desteği açısından olumlu karşılandı ve simülasyon oyunlarında sınırlı [[formative-assessment|biçimlendirici]] geri bildirim ile yapılandırılmış yansımanın yaygın boşluğunu giderdi.
 
-- **YZ-GBL etkililiği:** YZ destekli oyun temelli öğrenmeye ilişkin 55 çalışmalık sistematik bir derleme, bilgi, içsel güdülenme ve duygusal etkileşim üzerinde olumlu etkiler bulur; ama yalnızca 4 çalışma (%7) Yüksek nitelik eşiğini karşıladı ve yalnızca 4’ü (%7) [[rct|RCT]] idi ([[ai-game-based-learning-systematic-review-2026|Kaşarcı ve Yurt, 2026]]). Etkililik, YZ mekanizmasının belirtilmiş bir [[learning-theories|öğrenme kuramı]] ile uyumlanmasına bağlıydı.
+- **YZ-GBL etkililiği:** YZ destekli oyun temelli öğrenmeye ilişkin 55 çalışmalık [[meta-analysis-systematic-review|sistematik bir derleme]], bilgi, içsel güdülenme ve duygusal etkileşim üzerinde olumlu etkiler bulur; ama yalnızca 4 çalışma (%7) Yüksek nitelik eşiğini karşıladı ve yalnızca 4’ü (%7) [[rct|RCT]] idi ([[ai-game-based-learning-systematic-review-2026|Kaşarcı ve Yurt, 2026]]). Etkililik, YZ mekanizmasının belirtilmiş bir [[learning-theories|öğrenme kuramı]] ile uyumlanmasına bağlıydı.
 
+- **Oyunun oyuncusu değil, yazarı olarak [[generative-ai|GenAI]]:** [[xie-genai-mystery-game-legal-education-2026|Xie ve ark. (2026)]] bir modelin çevrimdışı bir gizemli rol yapma oyunu için yedi karakter ve anlatı malzemesi taslaklaştırmasını sağlamış; oyun ardından kol başına 42 kişilik randomize bir denemede aynı öğretim elemanının dersini geçmiştir (kısmi *η*² = 0.566). Öğrenciler YZ’yi hiç kullanmamıştır, dolayısıyla etki biçime aittir.
 
-- **Öğrenciler oyuncu olmaktan çok oyun tasarımcısı olarak:** [[karampa-students-game-designers-ai-literacy-2026|Karampa ve ark. (2026)]], 8-12 yaş aralığındaki 22 ilkokul öğrencisine yanlış bilgi hakkında artırılmış bir kaçış kutu oyunu tasarlattı ve [[project-based-learning|proje temelli öğrenmeyi]] [[design-thinking|tasarım odaklı düşünme]] ile Room2Educ8 kaçış odası çerçevesi üzerine yığdı. 20 maddelik DigComp 3.0 anketinde bileşik [[ai-literacy|YZ okuryazarlığı]], 5 puanlık ölçekte 3,684'ten 4,309'a yükseldi, t(21) = −21.086, p < .001 ve beş yeterlilik alanının tümü iyileşti. Sınıf, YZ istek metinleriyle 11 öneri üretti ve bunları tek bir inşa edilebilir oyunda birleştirdi. Öz bildirim, tek sınıf ve kontrol grubu yok.
+- **Öğrenciler oyuncu olmaktan çok oyun tasarımcısı olarak:** [[karampa-students-game-designers-ai-literacy-2026|Karampa ve ark. (2026)]], 8-12 yaş aralığındaki 22 ilkokul öğrencisine yanlış bilgi hakkında artırılmış bir kaçış kutu oyunu tasarlattı ve [[project-based-learning|proje temelli öğrenmeyi]] [[design-thinking|tasarım odaklı düşünme]] ile Room2Educ8 kaçış odası çerçevesi üzerine yığdı. 20 maddelik DigComp 3.0 anketinde bileşik [[ai-literacy|YZ okuryazarlığı]], 5 puanlık ölçekte 3,684'ten 4,309'a yükseldi, t(21) = −21.086, p < .001 ve beş yeterlilik alanının tümü iyileşti. Sınıf, YZ istek metinleriyle 11 öneri üretti ve bunları tek bir inşa edilebilir oyunda birleştirdi. [[self-report-measures|Öz bildirim]], tek sınıf ve kontrol grubu yok.
+
+- **YZ’yi bir diyalog koçu ve bir zorluk motoru olarak ikiye ayırın.** Üst-ortaöğretim hesaplamalı düşünme için YZ ile güçlendirilmiş bir Roblox ortamı, iki üç cümleyle sınırlandırılmış ve cevap vermekten men edilmiş bir GPT-4 oyuncu olmayan karakteri, çözüme ulaşma süresi ve hata oranından zorluk belirleyen kural tabanlı bir motorla eşleştirmiştir ([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang ve Kanjug, 2026]]).
 
 ### Oyunlaştırma
 
@@ -78,7 +81,7 @@ GBL ve oyunlaştırma birlikte [[educational-robotics]], [[student-engagement]],
 
 - Alanın hacmini değil tasarım niteliğini yükseltin; %7'lik yüksek nitelik oranı, ne sonuç çıkarılabileceği üzerindeki bağlayıcı kısıttır.
 
-- **Bir simülasyonda konuşmaya dayalı geri bildirim, dışsal yükü düşürmeden ilgili yükü artırır.** **234 öğrencinin** yer aldığı beş haftalık bir iş simülasyonu oyununda, GPT-4o tabanlı bir geri bildirim sohbet robotunun düzenli kullanıcıları, erişimi olup etkileşime girmeyen kullanıcılara (β = −.468, p < .001) ve statik geri bildirim kontrolüne (β = −.253, p = .028) kıyasla **anlamlı biçimde daha yüksek ilgili bilişsel yük** bildirdi; oysa **dışsal yük her iki spesifikasyonda da etki göstermedi** (F(1, 219) = 0.499, p = .481). Her iki yük de **beş hafta boyunca azaldı** (dışsal β = −.388, p < .001); bu, etkileşim yerine bilişsel yük üzerinde ölçülen bir yenilik etkisidir ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger ve Liening, 2026]]). Tasarım noktası, geri bildirimin kişiselleştirme, işaretleme, bölümleme ve ileriye dönük yapıyı 19 somut gösterge üzerinden taşımasıdır; tek başına sohbet robotu yüzeyi müdahale değildir.
+- **Bir simülasyonda konuşmaya dayalı geri bildirim, dışsal yükü düşürmeden ilgili yükü artırır.** **234 öğrencinin** yer aldığı beş haftalık bir iş simülasyonu oyununda, GPT-4o tabanlı bir geri bildirim sohbet robotunun düzenli kullanıcıları, erişimi olup etkileşime girmeyen kullanıcılara (β = −.468, p < .001) ve statik geri bildirim kontrolüne (β = −.253, p = .028) kıyasla **anlamlı biçimde daha yüksek ilgili bilişsel yük** bildirdi; oysa **dışsal yük her iki spesifikasyonda da etki göstermedi** (F(1, 219) = 0.499, p = .481). Her iki yük de **beş hafta boyunca azaldı** (dışsal β = −.388, p < .001); bu, etkileşim yerine bilişsel yük üzerinde ölçülen bir yenilik etkisidir ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger ve Liening, 2026]]). Tasarım noktası, geri bildirimin [[personalized-learning|kişiselleştirme]], işaretleme, bölümleme ve ileriye dönük yapıyı 19 somut gösterge üzerinden taşımasıdır; tek başına sohbet robotu yüzeyi müdahale değildir.
 
 ## Bağlı kavramlar
 
@@ -108,3 +111,6 @@ GBL ve oyunlaştırma birlikte [[educational-robotics]], [[student-engagement]],
 - [[genai-motivation-engagement-2026]] — Üretici YZ, Güdülenme ve Etkileşim
 - [[nasa-tlx-workload-gamified-ai-2026]] — Oyunlaştırılmış/YZ koşullarında NASA-TLX iş yükü
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS güdülenmesi ve YZ destekli oyunlaştırma
+
+- [[xie-genai-mystery-game-legal-education-2026]] — Hukuk eğitiminde GenAI yazımı gizemli rol yapma oyunu ile ders karşılaştırması (Xie ve ark. 2026)
+- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Hesaplamalı düşünme için YZ ile güçlendirilmiş oyun temelli öğrenme ortamının tasarımı ve ön doğrulaması

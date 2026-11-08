@@ -9,7 +9,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-> **Kujifunza kulingana na matatizo (PBL)** — mbinu ya kufundisha inayozingatia mwanafunzi ambayo wanafunzi hupata maarifa na ujuzi kwa kujitahidi kuelewa na kutatua tatizo halisi, mara nyingi lisilo na muundo wazi, huku mwelekezi akiongoza uchunguzi badala ya kutoa mafunzo. Katika zama za AI, sifa za kimuundo za PBL — uchunguzi unaoendeshwa na tatizo, [[collaborative-learning|ujenzi wa pamoja wa maarifa]], uwekezaji kwa uongozi badala ya mafunzo, na [[metacognition|tafakari ya metaji]] — zimeibuka kuwa hali zile zile ambazo chini yao muunganisho wa [[generative-ai|generative AI]] unakuwa wa kielimu badala ya kuchukua nafasi.
+> **Kujifunza kulingana na matatizo (PBL)** — mbinu ya kufundisha inayozingatia mwanafunzi ambayo wanafunzi hupata maarifa na ujuzi kwa kujitahidi kuelewa na kutatua tatizo halisi, mara nyingi lisilo na muundo wazi, huku mwelekezi akiongoza uchunguzi badala ya kutoa mafunzo. Katika zama za AI, sifa za kimuundo za PBL — uchunguzi unaoendeshwa na tatizo, [[collaborative-learning|ujenzi wa pamoja wa maarifa]], uwekezaji kwa uongozi badala ya mafunzo, na [[reflection|tafakari ya metaji]] — zimeibuka kuwa hali zile zile ambazo chini yao muunganisho wa [[generative-ai|generative AI]] unakuwa wa kielimu badala ya kuchukua nafasi.
 
 ## Maswali ya Kutafakari
 
@@ -42,11 +42,11 @@ PBL ilianzia katika elimu ya kitabibu (Chuo Kikuu cha McMaster, miaka ya 1960) n
 
 [[research-methods-aied|Utafiti]] wa hifadhi ya maarifa unaonyesha kuwa PBL imekuwa kitovu cha kufikiri kuhusu muunganisho wenye tija wa AI.
 
-- **Hali za kimuundo za PBL hufanya muunganisho wa AI kuwa wa tija.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]] anadai kuwa sifa za msingi za PBL — uchunguzi unaoendeshwa na tatizo, ujenzi wa ushirikiano, uongozi, tafakari ya metaji — ni hasa hali ambazo chini yake AI hufanya kazi kama mshirika katika [[educational-development|maendeleo ya kitaalamu]] badala ya njia ya mkato kandamizi. Ulinganifu ni wa kimuundo, si wa kurudi nyuma: PBL ilibuniwa kuzunguka hali hizi kabla ya AI kuwepo, ikitegemea utambuzi kuwa uwezo wa kitaalamu unahitaji hukumu inayoweza kubadilika badala ya utekelezaji wa kawaida.
+- **Hali za kimuundo za PBL hufanya muunganisho wa AI kuwa wa tija.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]] anadai kuwa sifa za msingi za PBL — uchunguzi unaoendeshwa na tatizo, ujenzi wa ushirikiano, uongozi, [[metacognition|tafakari ya metaji]] — ni hasa hali ambazo chini yake AI hufanya kazi kama mshirika katika [[educational-development|maendeleo ya kitaalamu]] badala ya njia ya mkato kandamizi. Ulinganifu ni wa kimuundo, si wa kurudi nyuma: PBL ilibuniwa kuzunguka hali hizi kabla ya AI kuwepo, ikitegemea utambuzi kuwa uwezo wa kitaalamu unahitaji hukumu inayoweza kubadilika badala ya utekelezaji wa kawaida.
 - **AI inapaza kiwango cha juu cha ugumu wa tatizo.** Hoja ileile inasimama kuwa AI inapanua aina ya tatizo ambayo PBL inaweza kushughulikia, ikifanya "matatizo magumu" na kesi halisi za kidunia kupatikana kwa wanafunzi ambao hapo awali hawakuweza kuzifikia.
 - **Tatizo la kitu kama mbadala.** AI inakatisha uhusiano kati ya kitu kilichowasilishwa na [[student-engagement|mahusiano]] yaliyozalisha — tatizo ambalo PBL linapaswa vizuri kushughulikia kwa sababu linatathmini *mchakato* na ufahamu ulioonyeshwa, si bidhaa tu. Hii inaunganisha PBL na [[authentic-assessment|halisi]] na [[process-oriented-assessment|tathmini inayotegemea mchakato]] na fasihi ya hifadhi ya maarifa ya [[cognitive-offloading|kutegemea kupita kiasi]].
 
-Meta-analysis ya viwango vitatu inayochanganya PBL unaoungwa na GenAI na kujifunza kwa msingi wa mradi inaweka utendaji wa bidhaa na suluhisho katika mfano tofauti hasa kwa sababu inapima matokeo ya ushirikiano wa binadamu-AI badala ya kujifunza kwa ndani, na kikadirio hicho ni kikubwa zaidi ambacho wakaguzi wanaripoti (g = 1.958) huku ikitegemea masudio sita tu na ikibeba kipindi cha utabiri cha takribani 95% cha [−0.740, 4.656] kinachovuka sifuri — muundo wa kimahesabu wa tahadhari ya kitu kama mbadala iliyo hapo juu ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
+Meta-analysis ya viwango vitatu inayochanganya PBL unaoungwa na GenAI na kujifunza kwa msingi wa mradi inaweka utendaji wa bidhaa na suluhisho katika mfano tofauti hasa kwa sababu inapima matokeo ya ushirikiano wa binadamu-AI badala ya kujifunza kwa ndani, na kikadirio hicho ni kikubwa zaidi ambacho wakaguzi wanaripoti (g = 1.958) huku ikitegemea masudio sita tu na ikibeba kipindi cha utabiri cha takribani 95% cha [−0.740, 4.656] kinachovuka sifuri — [[quantitative-research|muundo wa kimahesabu]] wa tahadhari ya kitu kama mbadala iliyo hapo juu ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
 
 - **ChatGPT kama [[scaffolding|ngazi za msaada zinazoweza kubadilika]].** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|La Sunra et al. (2026)]] wanaonyesha ChatGPT iliyounganishwa kama ngazi za msaada zinazoweza kubadilika ndani ya mfumo wa PBL ulioboreshwa na AI ili kuboresha [[critical-thinking|ufikiri mahususi]] na [[personalized-learning|kujifunza mahususi]] katika K-12 (wanafunzi 120 wa darasa la nane). Hii inamtendea AI kama msaada wa ndani ya PBL badala ya mashine ya majibu.
 - **Wakala anayeweza kuingiza utata anaweza kupinga fikra za kundi.** Wakala wa genAI aliyetamka katika pointi tatu zilizowekwa katika kikao cha PBL cha taaluma mbalimbali aliingiza mitazamo ya utata, na wanafunzi waliripoti kuwa kuikanusha iliwapa njia inayokubalika kijamii ya kusema, huku kutokubaliana kikichochea tafakari hata walipokanusha majibu ya wakala ([[genai-counter-learner-groupthink-2025|Wiss et al. (2025)]]).
@@ -60,6 +60,9 @@ Meta-analysis ya viwango vitatu inayochanganya PBL unaoungwa na GenAI na kujifun
 ## PBL dhidi ya mbinu zinazohusiana
 
 PBL inahusiana kwa karibu na [[project-based-learning|kujifunza kwa msingi wa mradi]] — zote mbili zinazingatia mwanafunzi na zinaendeshwa na matatizo/miktadha — lakini PBL inazingatia *tatizo* lisilo na muundo wazi ambalo suluhisho lake linahitaji uchunguzi na ujenzi wa maarifa, wakati kujifunza kwa msingi wa mradi kinazingatia kuzalisha *kitu* halisi au mradi. PBL pia ina uhusiano na kujifunza kwa msingi wa kesi na [[inquiry-based-learning|kujifunza kwa msingi wa uchunguzi]], ambazo hushiriki muundo unaoendeshwa na matatizo na unaoongozwa. Katika ramani ya hifadhi ya maarifa, hoja ya kimuundo ya muunganisho wenye tija wa AI inatumika kwa mbinu yoyote inayoshiriki sifa hizi, si PBL peke yake.
+
+[[case-based-learning|Kujifunza kwa msingi wa kesi]] ni jirani wa karibu zaidi: huanza kutoka kesi iliyoandaliwa na lengo la kufundisha lililobainishwa, wakati PBL huacha tatizo wazi zaidi na uchunguzi ukiongozwa na mwanafunzi.
+
 
 ## Kwa nini PBL ina umuhimu kwa muunganisho wa AI
 
@@ -78,6 +81,9 @@ Kwa sababu PBL inaweka mbele mchakato, ushirikiano, na ufahamu ulioonyeshwa zaid
 ## Dhana Zilizounganishwa
 
 - [[project-based-learning]]
+
+- [[case-based-learning]] — Kesi zilizoandaliwa na majadiliano ya kesi, tofauti na uchunguzi wazi wa PBL
+
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[scaffolding]]

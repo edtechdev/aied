@@ -1,13 +1,13 @@
 ---
 title: "Modelagem de quem aprende e instrução adaptativa"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:38:41-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-26T10:50:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -53,9 +53,11 @@ Um modelo preditivo de quem aprende pode repousar sobre a estrutura da matrícul
 
 Os modelos de estudante também podem ser construídos puramente a partir de rastros comportamentais e ainda assim apoiar a adaptação. [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] derivaram três perfis de engajamento — Observação, Construção e Exploração — dos clickstreams de 315 aprendentes online construindo 822 modelos ecológicos no VERA, sem nenhum dado demográfico ou contextual, e mostraram que esses perfis predizem a qualidade do modelo (a Exploração produz os modelos mais complexos e diversos, enquanto a Observação é dominada por modelos copiados, e não originais). Tais caracterizações no nível do engajamento são os modelos de estudante granulares que a camada de [[adaptive-learning|instrução adaptativa]] pode consumir para direcionar o feedback.
 
-A modelagem afetiva do estudante é uma dimensão adicional: um tutor de matemática inferiu emoção a partir de texto conversacional e expressão facial e mapeou o estado agregado a estratégias de tutoria, mas a fusão multimodal alcançou apenas 60% de precisão contra as próprias anotações dos participantes, tornando a leitura do afeto o elo mais fraco do pipeline ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
+A modelagem afetiva do estudante é uma dimensão adicional: um tutor de matemática inferiu emoção a partir de texto conversacional e expressão facial e mapeou o estado agregado a estratégias de tutoria, mas a fusão [[multimodal]] alcançou apenas 60% de precisão contra as próprias anotações dos participantes, tornando a leitura do afeto o elo mais fraco do pipeline ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
 
 [[cross-subject-validity-delayed-start|Gutterman et al. (2026)]] concluíram que um sinal de início atrasado registrado durante a prática de matemática previu resultados em inglês, com procrastinadores crônicos (mais de 13 minutos) mostrando ganhos menores (ELA β = -.11 DP), mesmo após controlar por [[prior-knowledge|conhecimento prévio]] e tempo na tarefa — então os modelos comportamentais de estudante podem se transferir entre matérias sem retreinamento por curso, embora seus pontos de corte precisem ser re-derivados.
+
+A dificuldade percebida é uma dimensão adicional da modelagem de quem aprende, e pode ser prevista a partir de características da pessoa, e não apenas de estatísticas do texto. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al. (2025)]] construíram modelos de leitor baseados em perfis a partir de avaliações de 3.954 frases por 193 estudantes alemães do ensino médio, e seu conjunto KNN mais XGBoost alcançou RMSE 0,822 contra uma linha de base média de 1,070, com R2 = 0,396. Todo regressor que incluía características do leitor superou tanto a linha de base média quanto a de complexidade média, de modo que um modelo de quem aprende que captura quem é o leitor prevê quão difícil um texto parece — uma dimensão de percepção que os outros modelos desta página não carregam.
 
 ## A camada de instrução adaptativa
 
@@ -84,16 +86,18 @@ Ao longo de toda a família, o desafio de validade que define é o mesmo: a repr
 
 Modelos que inferem o estado de quem aprende a partir de jogabilidade alcançaram AUCs de 0,848–0,913, mas apenas dois dos 55 estudos revisados auditaram-nos quanto a viés demográfico, e apenas um examinou resultados diferenciais por habilidade de quem aprende ([[ai-game-based-learning-systematic-review-2026|Kaşarcı e Yurt (2026)]]).
 
-Alguns sinais pretendidos podem não ser recuperáveis do diálogo de forma alguma: o piloto do framework Learning Context recuperou equívocos em 91,4% e ansiedade em 100%, mas conscienciosidade em apenas 68,6% e proficiência linguística em 60%, então um modelo consciente do contexto deveria capturar traços de superfície lenta, em vez de esperar que o diálogo os exponha ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
+Alguns sinais pretendidos podem não ser recuperáveis do diálogo de forma alguma: o piloto do framework Learning Context recuperou equívocos em 91,4% e [[anxiety-and-stress|ansiedade]] em 100%, mas conscienciosidade em apenas 68,6% e proficiência linguística em 60%, então um modelo consciente do contexto deveria capturar traços de superfície lenta, em vez de esperar que o diálogo os exponha ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
 
-[[edumirror-educational-social-dynamics|Lin et al. (2026)]] expõem uma circularidade em como tais aprendentes sintéticos são validados: seus agentes EduMirror administram questionários psicométricos post hoc e leem a concordância com a representação de valor interna do agente como validade psicológica, mas, como o Surveyor mede dimensões já codificadas nesse sistema de valor, a verificação é uma verificação de consistência, e não uma validação independente.
+Sinais fisiológicos e de olhar ampliam a base de modelagem: rastreamento ocular, EEG, atividade eletrodérmica e frequência cardíaca são hoje usados para inferir engajamento, atenção e carga cognitiva ([[sensor-and-gaze-analytics]]). A inferência do sinal para o estado mental é o elo fraco, já que um corpo pode ser registrado sem que seu estado seja identificado.
+
+[[edumirror-educational-social-dynamics|Lin et al. (2026)]] expõem uma circularidade em como tais aprendentes sintéticos são validados: seus agentes EduMirror administram [[self-report-measures|questionários]] psicométricos post hoc e leem a concordância com a representação de valor interna do agente como validade psicológica, mas, como o Surveyor mede dimensões já codificadas nesse sistema de valor, a verificação é uma verificação de consistência, e não uma validação independente.
 
 **A correção nem sempre é um sinal fiel.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren e Stamper (2026)]] mostram que um modelo de quem aprende que infere domínio a partir de ações corretas pode deturpar o verdadeiro estado de quem aprende: quem aprende que exibe *generalização excessiva enganosa* parece ter dominado, mas omite uma restrição crítica de aplicação, então os sistemas adaptativos podem encerrar a prática prematuramente. Os modelos de quem aprende deveriam avaliar a compreensão condicional — incluindo se quem aprende sabe quando reter uma ação —, e não apenas a correção da ação.
 
 Os equívocos ocultos mostram a mesma falha pelo outro lado: [[correct-answer-trap-misconceptions|Imran e Bulathwela (2026)]] concluíram que um classificador ajustado capturou 57,4% das respostas corretas alcançadas por raciocínio falho, e, a uma prevalência de 1,6%, mesmo um modelo de raciocínio com 83,6% de precisão deixava 8 alarmes falsos por detecção — então os sinais de domínio baseados em correção são ao mesmo tempo incompletos e caros de reparar.
 
 **Como um modelo é validado é, ele mesmo, uma questão de validade.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan e Carvalho (2025)]] mostram que modelos populares de quem aprende (BKT, BKT-com-Esquecimento, AFM) parecem capturar a aprendizagem humana apenas quando ajustados retroativamente a um conjunto de dados completo de múltiplas sessões; sob validação cruzada temporal (walk-forward) — prevendo uma sessão futura a partir das anteriores, como tais modelos são de fato implantados — eles superestimam o desempenho, não capturam o [[retrieval-spacing-interleaving|efeito de espaçamento]] e desordenam as condições de prática. Como os modelos aumentados por esquecimento e os livres de esquecimento tiveram desempenho aproximadamente igual ao longo das sessões, os autores concluem que o esquecimento é frequentemente absorvido em parâmetros de quem aprende, e não genuinamente representado. A lição para a família é que uma representação fiel de quem aprende precisa ser validada da forma como é usada — e que confundir desempenho no momento com retenção de longo prazo produz modelos que parecem precisos, mas deturpam quem aprende.
-[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi e Robb (2026)]] mostram a mesma falha pelo lado do classificador: inferir dimensões de estilo de aprendizagem a partir dos diálogos de resolução de problemas de 153 graduandos ficou abaixo de todas as linhas de base de referência em métricas balanceadas, com um classificador treinado rotulando 9,4% dos estudantes em cada uma das quatro classes independentemente do que eles faziam — um viés de adivinhação que uma métrica de acurácia simples esconderia e que, em uma implantação, encaminharia sistematicamente uma coorte a uma modalidade instrucional errada.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi e Robb (2026)]] mostram a mesma falha pelo lado do classificador: inferir dimensões de estilo de aprendizagem a partir dos diálogos de [[problem-solving|resolução de problemas]] de 153 graduandos ficou abaixo de todas as linhas de base de referência em métricas balanceadas, com um classificador treinado rotulando 9,4% dos estudantes em cada uma das quatro classes independentemente do que eles faziam — um viés de adivinhação que uma métrica de acurácia simples esconderia e que, em uma implantação, encaminharia sistematicamente uma coorte a uma modalidade instrucional errada.
 
 ## Modelagem na era das LLMs
 
@@ -142,6 +146,7 @@ A modelagem de quem aprende e a instrução adaptativa alimentam os [[learning-a
 - [[feedback]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — os modelos sob a previsão de risco e a direção do apoio
+- [[sensor-and-gaze-analytics]]
 
 ## Artigos conectados
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Generalização excessiva enganosa: o domínio adaptativo pode encerrar a prática antes que quem aprende saiba quando reter uma ação (An, McLaren & Stamper 2026)

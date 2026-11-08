@@ -8,7 +8,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Yardımcı Teknoloji** — engelli bireylerin algılamasına, çalıştırmasına, iletişim kurmasına, öğrenme ve günlük yaşama katılmasına yardımcı olan cihazlar, yazılımlar ve hizmetler. [[ai-education|Eğitimde yapay zeka]] bağlamında yardımcı teknoloji; ekran okuyucuları, konuşmadan metne ve metinden konuşmaya dönüştürme, altyazı olanağı, braille ve dokunsal çıktılar, işaret dili araçları ile içeriği ve etkileşimi bireysel ihtiyaçlara uyarlayan, giderek daha yaygın hale gelen YZ destekli düzenlemeleri kapsar.
+> **Yardımcı Teknoloji** — engelli bireylerin algılamasına, çalıştırmasına, iletişim kurmasına, öğrenme ve günlük yaşama katılmasına yardımcı olan cihazlar, yazılımlar ve hizmetler. [[ai-education|Eğitimde yapay zeka]] bağlamında yardımcı teknoloji; ekran okuyucuları, konuşmadan metne ve [[speech-and-voice-technologies|metinden konuşmaya]] dönüştürme, altyazı olanağı, braille ve dokunsal çıktılar, işaret dili araçları ile içeriği ve etkileşimi bireysel ihtiyaçlara uyarlayan, giderek daha yaygın hale gelen YZ destekli düzenlemeleri kapsar.
 
 ## Düşünülmesi Gerekenler
 
@@ -51,7 +51,7 @@ Nörodivergent öğrenciler için dijital yardımcı [[ai-technologies|teknoloji
 - **Aracı öğrenciye ve göreve uygun hale getirin.** Ekran okuyucuları, altyazılar, konuşma ve dokunsal çıktıların her biri farklı engelleri ele alır — seçimi bireyin ihtiyaçlarına ve içerik biçimine göre yapın.
 - **Yardımcı uyarlamaların maliyetini düşürmek için YZ’den yararlanın.** YZ otomatik altyazı oluşturabilir, metni basitleştirebilir ve alternatifler üretebilir; ancak çıktı kalitesini pedagojik doğruluk açısından değerlendirin.
 - **Sağlamayı politikaya dayandırın.** YZ araçları tedarik ederken veya geliştirirken Yardımcı Teknoloji Yasası, IDEA ve WCAG’a başvurun.
-- **Desteğin hangi işlevi gördüğünü belirtin — ve değerlendirmeyi bu işleve göre yapın.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou vd. (2026)]], telafi edilmesini (erişim ve katılımla değerlendirilir), iskelelemeyi (destekli kararlar) ve gelişimi (azaltma veya aktarımdan sonra strateji kullanımı) birbirinden ayırmaktadır. Bu sayfanın uyarısına yönelik bir kural daha eklemektedirler: erişilebilirlik desteği telafi değildir — bir aracın uyarlama, strateji öğretimi mi yoksa geçici pratik desteği mi olduğu "öğrenme planında belirtilmelidir".
+- **Desteğin hangi işlevi gördüğünü belirtin — ve değerlendirmeyi bu işleve göre yapın.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou vd. (2026)]], telafi edilmesini (erişim ve katılımla değerlendirilir), [[scaffolding|iskelelemeyi]] (destekli kararlar) ve gelişimi (azaltma veya aktarımdan sonra strateji kullanımı) birbirinden ayırmaktadır. Bu sayfanın uyarısına yönelik bir kural daha eklemektedirler: erişilebilirlik desteği telafi değildir — bir aracın uyarlama, strateji öğretimi mi yoksa geçici pratik desteği mi olduğu "öğrenme planında belirtilmelidir".
 
 ## Yaygın yanlış anlamalar
 

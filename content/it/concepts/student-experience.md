@@ -1,7 +1,7 @@
 ---
 title: Esperienza dello studente
 created: "2026-10-14T22:40:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:18:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,9 @@ L'IA influisce sugli studenti lungo dimensioni cognitive, motivazionali, [[affec
 ### Impatti motivazionali
 
 - **Positivo:** l'IA può aumentare la [[motivation]] e lo [[student-engagement|coinvolgimento]] fornendo supporto personalizzato, immediato e a bassa posta in gioco — aiutando gli studenti a perseverare e a sentirsi competenti (vedi le prospettive della [[self-determination-theory|autodeterminazione]] su autonomia, competenza e relazione).
+
+- **L'effetto motivazionale passa dalla motivazione, non dall'accesso.** Tra 297 studenti, il supporto all'autonomia e la motivazione autonoma all'uso dell'IA non avevano alcun effetto diretto sull'engagement (β = 0,070 ciascuno), mentre la motivazione degli studenti prediceva l'engagement a β = 0,74 ([[genai-motivation-engagement-2026|Ahmed e Sultan (2026)]]).
+
 - **Negativo:** il sapere che l'IA è disponibile può ridurre lo sforzo dello studente e la motivazione a lottare in modo produttivo ([[ai-availability-student-motivation|Disponibilità dell'IA e motivazione]], [[wang-safety-gap-productive-struggle-2026|il divario di sicurezza]]). L'eccessiva dipendenza può erodere l'[[agency]] e il senso di realizzazione che deriva dal fare il lavoro da sé.
 
 ### Impatti affettivi e sul benessere
@@ -75,9 +78,12 @@ L'IA influisce sugli studenti lungo dimensioni cognitive, motivazionali, [[affec
 ### Impatti sull'integrità accademica e l'equità
 
 - **Negativo:** l'IA consente nuove forme di [[academic-integrity|disonestà accademica]] (saggi generati dall'IA, completamento non autorizzato), alimentando dibattiti su [[reduce-ai-cheating|individuazione e riduzione]]. Questo interagisce con l'[[equity-in-ai-education|equità]]: l'accesso disuguale agli strumenti di IA, e una comprensione disuguale di essi, può ampliare i divari tra studenti.
-- **Positivo/costruttivo:** l'IA può sostenere una valutazione [[authentic-assessment|autentica]] e [[process-oriented-assessment|orientata al processo]] e una pratica riflessiva (ad es. [[pedlow-genai-selfassessment-2026|autovalutazione guidata]]), trasformando le preoccupazioni per l'integrità in opportunità di [[ai-literacy]] e responsabilità.
 
-I racconti degli studenti sull'integrità sono meno assestati di quanto suggerisca l'inquadratura della disonestà. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa e Mezgebu (2026)]] hanno intervistato 27 studenti undergraduate in un'università etiope e hanno trovato il corpo studentesco diviso al proprio interno: quasi tutti usavano la GenAI o avevano visto i compagni usarla e la maggior parte le attribuiva il merito di aver innalzato il proprio rendimento, una minoranza definiva l'uso nei corsi un illecito manifesto, e il lamento più netto e più ampiamente condiviso era l'equità — gli utenti di IA che ottenevano punteggi superiori agli studenti che lavoravano onestamente, il che alcuni descrivevano come un colpo mortale al proprio senso di diligenza e aveva lasciato una partecipante incerta sul «se stiamo beneficiando o soffrendo dell'uso dell'IA». Anche il versante procedurale conta: [[munoz-misconduct-allegation-evidence-2026|Munoz e colleghi (2026)]] hanno codificato 1.162 casi di illecito con la GenAI e hanno rilevato che le evidenze citate più spesso — l'output dei rilevatori, i rapporti di somiglianza, i pattern di contenuto tipici dell'IA — avevano il valore probatorio più debole, e che in assenza di una soglia minima di evidenza nella filiera gli studenti con casi deboli venivano sospinti verso i ricorsi. Le definizioni sovra-inclusive ampliano quella esposizione: [[wright-transcription-not-generation-2026|Wright (2026)]] mostra che i divieti rivolti alla «[[generative-ai|IA generativa]]» possono catturare strumenti che si limitano a convertire il formato di un lavoro che lo studente ha già scritto, una sovra-inclusione che ricade più duramente sugli studenti con disabilità e [[equity-in-ai-education|esposti sotto il profilo dell'equità]]. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] indica la via d'uscita costruttiva, trattando l'integrità come una pratica [[pedagogy|pedagogica]] messa in atto attraverso il [[evaluative-judgment|giudizio]] — tracce di decisione annotate, verifica, difesa orale, cronologia delle versioni — anziché come conformità assicurata tramite sorveglianza.
+- **Se un uso conti come imbroglio dipende dalla disciplina.** Una [[meta-analysis-systematic-review|revisione sistematica]] di 89 studi ha rilevato gli studenti [[stem-education|STEM]] a +42% di accordo netto sul fatto che l'IA migliori la prestazione, mentre gli studenti delle [[humanities-education|discipline umanistiche]] mostravano il più alto accordo netto sul fatto che l'uso dell'IA costituisca imbroglio (+44%) e sollevi preoccupazioni etiche (+58%) ([[ai-tools-academic-work-cheating-2026|Padhy (2026)]]). Il problema di integrità di un corso è quindi in parte un giudizio disciplinare anziché uno standard fisso, ed è per questo che le regole che gli studenti incontrano variano per dipartimento tanto quanto per policy.
+
+- **Positivo/costruttivo:** l'IA può sostenere una valutazione [[authentic-assessment|autentica]] e [[process-oriented-assessment|orientata al processo]] e una pratica [[reflection|riflessiva]] (ad es. [[pedlow-genai-selfassessment-2026|autovalutazione guidata]]), trasformando le preoccupazioni per l'integrità in opportunità di [[ai-literacy]] e responsabilità.
+
+I racconti degli studenti sull'integrità sono meno assestati di quanto suggerisca l'inquadratura della disonestà. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa e Mezgebu (2026)]] hanno intervistato 27 studenti undergraduate in un'università etiope e hanno trovato il corpo studentesco diviso al proprio interno: quasi tutti usavano la GenAI o avevano visto i compagni usarla e la maggior parte le attribuiva il merito di aver innalzato il proprio rendimento, una minoranza definiva l'uso nei corsi un illecito manifesto, e il lamento più netto e più ampiamente condiviso era l'equità — gli utenti di IA che ottenevano punteggi superiori agli studenti che lavoravano onestamente, il che alcuni descrivevano come un colpo mortale al proprio senso di diligenza e aveva lasciato una partecipante incerta sul «se stiamo beneficiando o soffrendo dell'uso dell'IA». Anche il versante procedurale conta: [[munoz-misconduct-allegation-evidence-2026|Munoz e colleghi (2026)]] hanno codificato 1.162 casi di illecito con la GenAI e hanno rilevato che le evidenze citate più spesso — l'output dei rilevatori, i rapporti di somiglianza, i pattern di contenuto tipici dell'IA — avevano il valore probatorio più debole, e che in assenza di una soglia minima di evidenza nella filiera gli studenti con casi deboli venivano sospinti verso i ricorsi. Le definizioni sovra-inclusive ampliano quella esposizione: [[wright-transcription-not-generation-2026|Wright (2026)]] mostra che i divieti rivolti alla «[[generative-ai|IA generativa]]» possono catturare strumenti che si limitano a convertire il formato di un lavoro che lo studente ha già scritto, una sovra-inclusione che ricade più duramente sugli studenti con disabilità e [[equity-in-ai-education|esposti sotto il profilo dell'equità]]. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] indica la via d'uscita costruttiva, trattando l'integrità come una pratica [[pedagogy|pedagogica]] messa in atto attraverso il [[evaluative-judgment|giudizio]] — tracce di decisione annotate, verifica, [[oral-assessment|difesa orale]], cronologia delle versioni — anziché come conformità assicurata tramite sorveglianza.
 
 La verifica può cambiare il modo in cui gli studenti vivono la questione: una richiesta di spiegare il proprio lavoro è stata inizialmente letta come un'accusa, ma una volta che il programma l'ha inquadrata in anticipo come pedagogia anziché come sorveglianza, gli studenti hanno rivelato l'uso dell'IA più apertamente e hanno trattato i compiti come attività di apprendimento, in conversazioni di cinque-dieci minuti ([[best-response-student-ai-dialog-2026|Mandernach, 2026]]).
 
@@ -186,6 +192,9 @@ L'esperienza dello studente si collega all'[[cognitive-offloading|eccesso di dip
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in an AI era
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
+
+- [[genai-motivation-engagement-2026]] — 297 students: motivation predicted engagement; autonomy support for AI use had no direct effect (Ahmed & Sultan 2026)
+
 - [[genai-decision-capability-cognitive-load-2026]] — GenAI and students' perceived decision capability (cognitive-load account)
 - [[genai-professionalization-metaphors-2026]] — GenAI conceptualizations and student professionalization
 - [[sidorkin-ai-generated-course-readings-2026]] — Students as auditors of their own AI-generated curriculum (Sidorkin 2026)

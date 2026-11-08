@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: "Ensino superior"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:51:50-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -87,7 +87,7 @@ Uma terceira rota endurece a própria tarefa: renderizar os enunciados como imag
 ## Implicações para instrutores do ensino superior
 
 - **Projete a avaliação para um corpo discente capaz de usar IA.** Abordagens de integridade centradas na detecção estão dando lugar à avaliação [[authentic-assessment|autêntica]] e baseada em processo ([[beyond-detection-authentic-assessment-ai-2025|além da detecção]], [[ai-assessment-scale-reform|reforma da avaliação]]) — redesenhe o que você avalia, não apenas como você o policia.
-- **Pare de tratar uma proibição em sala como garantia.** Óculos inteligentes e aparelhos auditivos habilitados por IA são duplamente transparentes — não há queda do olhar nem mudança de postura a detectar —, de modo que uma prova vigiada ou uma arguição oral já não consegue comprar confiança probatória pela separação física ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
+- **Pare de tratar uma proibição em sala como garantia.** Óculos inteligentes e aparelhos auditivos habilitados por IA são duplamente transparentes — não há [[sensor-and-gaze-analytics|queda do olhar]] nem mudança de postura a detectar —, de modo que uma prova vigiada ou uma arguição oral já não consegue comprar confiança probatória pela separação física ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 - **Redesenhe a pergunta "o que os estudantes ainda deveriam aprender à mão?".** Assim como na computação, decida quais habilidades precisam ser preservadas (verificação, julgamento, processo) e faça delas o núcleo avaliado, em vez de presumir que competências de IA se transferem automaticamente.
 - **Trate a prontidão docente como sociotécnica, não apenas técnica.** O [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]] enquadra a prontidão ao longo de domínios epistêmicos, pedagógicos, institucionais e de qualidade — alinhe sua [[pedagogy|prática de ensino]] ao governo institucional, não apenas à fluência em ferramentas.
 - **Financie o letramento em IA, e não apenas a confiança na ferramenta, para o corpo docente.** [[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]] descobriram que o apoio social e organizacional chegava ao bem-estar com IA do corpo docente universitário apenas indiretamente, por meio do letramento em IA (β = 0,713), de modo que programas que constroem compreensão conceitual, ética e pedagógica fazem mais pelo corpo docente do que a fluência prática isolada.

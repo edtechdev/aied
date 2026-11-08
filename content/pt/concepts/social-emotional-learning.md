@@ -1,7 +1,7 @@
 ---
 title: Aprendizagem socioemocional
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:38:41-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-10-29T06:19:06-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,13 +48,15 @@ A aprendizagem socioemocional está intimamente relacionada, mas é distinta, da
 
 - **Professores e prática relacional:** A pesquisa sobre [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|frameworks de letramento em IA]] e [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|confiança professor–estudante]] enfatiza que a ASE apoia as dimensões relacionais da aprendizagem (relações professor–estudante e estudante–estudante), que a IA deve complementar, e não substituir.
 
-- **O que um agente pedagógico pode e não pode carregar em ASE.** Ao longo de 108 observações avaliadas por avaliadores cegos, um agente pedagógico de IA generativa foi mais consistente do que os educadores em manter tom respeitoso e andaimento processual rotineiro, enquanto os educadores o superaram em guiar a reflexão e em promover o conhecimento socioemocional — apoiando uma divisão de trabalho, e não a substituição ([[human-ai-complementarity-social-emotional-learning-2026|Raave et al., 2026)]]).
+- **O que um [[pedagogical-agent|agente pedagógico]] pode e não pode carregar em ASE.** Ao longo de 108 observações avaliadas por avaliadores cegos, um agente pedagógico de IA generativa foi mais consistente do que os educadores em manter tom respeitoso e andaimento processual rotineiro, enquanto os educadores o superaram em guiar a reflexão e em promover o conhecimento socioemocional — apoiando uma divisão de trabalho, e não a substituição ([[human-ai-complementarity-social-emotional-learning-2026|Raave et al., 2026)]]).
 
 - **Bem-estar e o impacto afetivo da IA:** A pesquisa examina como o uso crescente da IA generativa afeta as habilidades socioemocionais, o bem-estar, a sociabilidade e o senso de confiança e empatia dos estudantes — preocupações que motivaram o apelo da OCDE por um letramento em IA fundamentado em valores humanísticos, sociais e emocionais.
 
 - **Dimensões afetivas da IA:** A ASE se conecta à [[affective-computing|computação afetiva]] e à pesquisa sobre [[well-being|bem-estar]], examinando como os sistemas de IA podem apoiar ou minar a aprendizagem emocional e relacional.
 
 - **Déficit de política em IA × ASE:** Uma [[meta-analysis-systematic-review|revisão sistemática]] de 65 artigos na interseção IA–ASE ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) conclui que há um \"déficit de política\" substancial: quase três quartos dos estudos não declaram implicações de política, e os poucos que o fazem frequentemente carecem de orientação específica por ator. A revisão vincula o engajamento com política ao veículo de publicação e alerta para uma armadilha \"tecno-solucionista\", em que o potencial técnico é colocado em primeiro plano, enquanto as condições institucionais para a implementação responsável permanecem subespecificadas. Ela propõe um framework de \"perguntas WH\" (Who, What, Why, When/Where, How — Quem, O quê, Por quê, Quando/Onde, Como) para passar da \"implicação como reflexão tardia\" à \"implicação como metodologia\", conectando a inovação em [[ai-education|IA para a ASE]] à [[educational-policy-ai|política educacional]] e à [[governance|governança]].
+
+- **Uma revisão de mapeamento de 43 estudos sobre IA generativa e ASE.** [[liu-genai-sel-mapping-review-2026|Liu et al. (2026)]] codificaram 43 estudos em seis domínios de ASE e encontraram competências cognitivas em 24, identidade em 15, social em 14 e emoção em 7, enquanto valores (4) e perspectivas (3) eram marginais. Dezenove affordances se agruparam em sete gêneros; 38 dos 43 estudos atenderam apenas ao nível mais baixo de transparência. O inventário mostra onde a evidência de ASE é espessa e onde o relato ético é escasso.
 
 ## Possíveis subtópicos da ASE na pesquisa da era da IA
 
@@ -75,10 +77,12 @@ As emoções regulam *como* os estudantes tornam visível o uso da IA. [[shame-g
 ### Confiança e pertencimento
 A ASE apoia a aprendizagem relacional e a coesão social. [[finkelstein-principled-ai-education-2025|A educação em IA com princípios]] e [[ai-chatbot-collective-efficacy-collaborative-learning|os chatbots de IA para a aprendizagem colaborativa]] se conectam ao **pertencimento** e à eficácia coletiva — a crença compartilhada na capacidade de uma equipe de realizar tarefas. A premortem da Brookings enfatiza que a dependência excessiva da IA ameaça o bem-estar socioemocional, as relações entre professores e pares, e a [[privacy|privacidade]] e a segurança dos estudantes — dimensões de pertencimento e conexão. A [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|confiança professor–estudante]] é central para saber se a IA é percebida como apoio.
 
-Há um fio mais afiado no pertencimento aqui: a empatia buscada na IA pode ser penalizada. [[shastry-gray-empathy-offloading-2026|Shastry e Gray (2026)]] fizeram participantes ler sobre um estudante angustiado que procurou um chatbot, um amigo, um terapeuta ou ninguém. Na condição do chatbot, os participantes relataram em particular a menor disposição de transferir a empatia, mas depois usaram o maior número de palavras de indiferença sobre aquele estudante e o avaliaram como mais estranho e mais desesperado. O julgamento dos pares sobre a rota de busca por IA agrava o esconder-se documentado acima, e é por isso que normas de divulgação pertencem ao desenho da ASE, e não apenas à política de integridade.
+Há um fio mais afiado no pertencimento aqui: a empatia buscada na IA pode ser penalizada. [[shastry-gray-empathy-offloading-2026|Shastry e Gray (2026)]] fizeram participantes ler sobre um estudante angustiado que procurou um [[conversational-ai|chatbot]], um amigo, um terapeuta ou ninguém. Na condição do chatbot, os participantes relataram em particular a menor disposição de transferir a empatia, mas depois usaram o maior número de palavras de indiferença sobre aquele estudante e o avaliaram como mais estranho e mais desesperado. O julgamento dos pares sobre a rota de busca por IA agrava o esconder-se documentado acima, e é por isso que normas de divulgação pertencem ao desenho da ASE, e não apenas à política de integridade.
+
+[[ai-sycophancy|A bajulação]] aplica a mesma substituição com uma dose medida. Ao longo de cinco estudos pré-registrados (N = 3.075; 12.766 conversas), usuários de uma IA que confirmava suas opiniões tornaram-se, em três semanas, quase tão propensos a buscar conselhos pessoais nela quanto em amigos próximos e familiares. Os mesmos participantes relataram menor satisfação com suas interações no mundo real, e a maioria preferiu o estilo afirmativo não pelos conselhos, mas porque ele os fazia sentir compreendidos ([[sycophantic-ai-social-interaction-2026|Ibrahim et al. (2026)]]). O dano é relacional, e não emocional, e é por isso que recursos de apoio emocional não podem ser tratados como adições sem custo a um curso.
 
 ### Persistência, mentalidade e luta produtiva
-A ASE se sobrepõe à dimensão esforçada da aprendizagem. [[framing-5-percent-problem-teachers-persistence|Enquadrando o problema dos 5%]] identifica a baixa persistência dos estudantes como um desafio recorrente na tecnologia educacional, moldado por motivação/adesão, bloqueios cognitivos, resiliência sob desafio e conexão. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]] alertam que a IA que substitui o esforço corrói as próprias capacidades que a educação constrói — alinhando-se com a [[metacognition|metacognição]] e com o valor da luta produtiva sobre a [[cognitive-offloading|dependência excessiva]].
+A ASE se sobrepõe à dimensão esforçada da aprendizagem. [[framing-5-percent-problem-teachers-persistence|Enquadrando o problema dos 5%]] identifica a baixa [[student-support-and-success|persistência dos estudantes]] como um desafio recorrente na tecnologia educacional, moldado por motivação/adesão, bloqueios cognitivos, resiliência sob desafio e conexão. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]] alertam que a IA que substitui o esforço corrói as próprias capacidades que a educação constrói — alinhando-se com a [[metacognition|metacognição]] e com o valor da luta produtiva sobre a [[cognitive-offloading|dependência excessiva]].
 
 ## Implicações para instrutores e desenho instrucional
 
@@ -86,9 +90,9 @@ A ASE se sobrepõe à dimensão esforçada da aprendizagem. [[framing-5-percent-
 - **Desenhe para a autoeficácia e a agência.** Como o letramento em IA baseado em habilidade pode *aumentar* a dependência, enquanto a [[self-efficacy|autoeficácia]] e a regulação do esforço protegem contra ela, a instrução deveria deliberadamente construir a confiança e a autogestão dos estudantes junto com a habilidade técnica — por exemplo, prática andada, sucessos de baixo impacto e prompts que exigem que os estudantes verifiquem e assumam a saída da IA.
 - **Use a IA para apoiar, e não suplantar, a aprendizagem relacional.** As ferramentas de IA deveriam complementar as [[collaborative-learning|relações professor–estudante e estudante–estudante]], e os [[teacher-role|educadores]] deveriam reter o papel relacional — monitorando afeto e pertencimento — em vez de delegá-lo inteiramente.
 - **[[affective-tutoring|Desenho]] consciente das emoções e sensível ao afeto.** Os [[affective-computing|sistemas conscientes do afeto]] conseguem detectar e responder a estados emocionais (ansiedade, frustração, confusão), mas a evidência mostra que os benefícios **não são universais** — são moderados por proficiência e perfil de quem aprende — então o desenho emocional precisa ser sob medida, e não pressuposto.
-- **Trate do lado emocional do uso da IA.** Desenhe contra as espirais de vergonha/culpa e contra a ansiedade com a IA, normalizando a discussão do uso da IA, fomentando a transparência e reduzindo respostas baseadas em vigilância que corroem a confiança e a agência.
+- **Trate do lado emocional do uso da IA.** Desenhe contra as espirais de vergonha/culpa e contra a [[anxiety-and-stress|ansiedade com a IA]], normalizando a discussão do uso da IA, fomentando a transparência e reduzindo respostas baseadas em vigilância que corroem a confiança e a agência.
 - **Apoie a persistência e a luta produtiva.** [[scaffolding|Ande]] em vez de substituir (segundo [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]]), para que a IA aprofunde, e não contorne, a aprendizagem esforçada — alinhando-se com a [[metacognition|metacognição]] e com as [[desirable-difficulties|dificuldades produtivas]].
-- **Treine o movimento verbal do momento.** O apoio à ASE tende a ser enquadrado como desenho ou como detecção de afeto pela IA, mas os instrutores também precisam saber o que *dizer* quando o estado emocional de um estudante ameaça encerrar o engajamento — tratando esse estado como algo com que trabalhar em tempo real, e não como pré-condição para a aprendizagem. O [[parlant-emotional-micro-interventions-2026|guia de praticante de Parlant]] chama essas microintervenções emocionais: atos verbais breves que validam o sentimento, reenquadram a avaliação por trás dele e reconectam a luta à identidade profissional, preparados por meio de um ritual de reconhecimento pré-aula e de um fraseário reutilizável que a [[generative-ai|IA generativa]] pode ajudar a redigir para o instrutor personalizar.
+- **Treine o movimento verbal do momento.** O apoio à ASE tende a ser enquadrado como desenho ou como [[ai-detection|detecção de afeto pela IA]], mas os instrutores também precisam saber o que *dizer* quando o estado emocional de um estudante ameaça encerrar o engajamento — tratando esse estado como algo com que trabalhar em tempo real, e não como pré-condição para a aprendizagem. O [[parlant-emotional-micro-interventions-2026|guia de praticante de Parlant]] chama essas microintervenções emocionais: atos verbais breves que validam o sentimento, reenquadram a avaliação por trás dele e reconectam a luta à identidade profissional, preparados por meio de um ritual de reconhecimento pré-aula e de um fraseário reutilizável que a [[generative-ai|IA generativa]] pode ajudar a redigir para o instrutor personalizar.
 - **Prepare a competência em ASE dos professores.** Os educadores precisam tanto de habilidade tecnológica quanto de inteligência emocional ([[teacher-ai-competency|competência docente em IA]]); o [[educational-development|desenvolvimento profissional]] docente deveria construir a capacidade de apoiar a ASE dos estudantes em contextos mediados pela IA.
 
 ## Conexões com ganhos de aprendizagem e outras medidas
@@ -133,6 +137,7 @@ A ASE se conecta ao [[ai-literacy|letramento em IA]] (como um complemento que to
 
 ## Artigos conectados
 
+- [[liu-genai-sel-mapping-review-2026]] — Uma revisão de mapeamento de 43 estudos sobre IA generativa e ASE: cobertura desigual de competências e relato ético escasso
 - [[sec-ai-literacy-narrative-review-2026]] — Integrando Competências Socioemocionais ao Letramento em IA
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Atenção à Lacuna de Confiança: Visões de Professores e Estudantes
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — O framework de letramento em IA Andado (SAIL)
@@ -148,3 +153,4 @@ A ASE se conecta ao [[ai-literacy|letramento em IA]] (como um complemento que to
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Complementaridade humano–IA na aprendizagem socioemocional inicial (Raave et al. 2026)
 - [[parlant-emotional-micro-interventions-2026]] — Microintervenções emocionais em tempo real e um fraseário para instrutores
 - [[shastry-gray-empathy-offloading-2026]] — As pessoas transferem a empatia quando acham que a IA pode oferecê-la (Shastry & Gray 2026)
+- [[sycophantic-ai-social-interaction-2026]] — A IA bajuladora desloca a busca de conselhos humanos e reduz a satisfação com a interação no mundo real (Ibrahim et al. 2026)

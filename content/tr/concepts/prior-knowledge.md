@@ -7,7 +7,7 @@ pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, sc
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-28T01:09:26-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -37,8 +37,9 @@ ai_assist:
 ## Önceki bilginin rolü
 
 - **Öğrenmenin en güçlü belirleyicisidir.** On yıllık [[research-methods-aied|araştırma]], öğrenenin zaten bildiğinin, hemen hemen her faktörden daha güçlü biçimde [[learning-gains|öğrenme çıktılarıyla]] ilişkili olduğunu gösterir; çünkü yeni bilgi mevcut zihinsel modellere göre kodlanır. Her öğrenenin önceki bilgi durumuna uyum sağlayan YZ sistemleri bu nedenle verimlilik ve [[transfer-of-learning|aktarım]] açısından özellikle umut vaat eder.
+- **Bir randomize karşılaştırmada ne kadar daha güçlü olduğu.** Başka her bakımdan aynı olan iki ikinci sınıf matematik özel ders öğretmeni — yalnızca görev seçiminin Bayesçi bir bilgi izleme ustalık tahminini izleyip izlememesiyle farklılaşan — son test puanlarında hiçbir fark üretmedi. Önceki bilgi bu puanları η²p = ,63 düzeyinde öngördü (F(1, 124) = 206,99, p < ,001), uyarlamalı sıra ise η²p = ,00 açıkladı ([[adaptive-intelligent-tutoring-primary-mathematics-2026|Sibley, Berner ve Schmalfeldt (2026)]]). Uyarlama alıştırmanın sırasını yeniden düzenler; sonucu yine de öğrenenin getirdiği şey taşır.
 - **Sahip olmak değil, etkinleştirmek önemlidir.** Önceki bilgiye sahip olmak yeterli değildir — bilgi etkin biçimde geri çağrılmalı ve yeni materyale bağlanmalıdır. “Önceki bilgiyi etkinleştirmek”in standart bir [[pedagogy|öğretim]] hamlesi olmasının nedeni budur; geri çağırma pratiğinin (bilgi eklemeden önce bildiğinizi hatırlamak) basit yeniden maruz bırakmanın ötesinde öğrenmeyi iyileştirmesinin nedeni de.
-- **Öğrenmeyi yürüten işi kimin yaptığını her zaman tahmin etmez.** 23 ortaokul öğretmeniyle yapılan beş günlük bir öğreterek-öğrenme çalışmasında, önceki test puanları bir öğretmenin ürettiği bilgi kurma yanıtlarının payını tahmin etmedi ve bilgi kuran düşük önceki bilgili öğretmenler istatistiksel olarak yüksek önceki bilgili akranlarıyla aynı düzeyde tamamladı ([[knowledge-building-tutor-learning-2026|Ameen ve ark., 2026]]).
+- **Öğrenmeyi yürüten işi kimin yaptığını her zaman tahmin etmez.** 23 ortaokul öğretmeniyle yapılan beş günlük bir [[learning-by-teaching|öğreterek öğrenme]] çalışmasında, önceki test puanları bir öğretmenin ürettiği bilgi kurma yanıtlarının payını tahmin etmedi ve bilgi kuran düşük önceki bilgili öğretmenler istatistiksel olarak yüksek önceki bilgili akranlarıyla aynı düzeyde tamamladı ([[knowledge-building-tutor-learning-2026|Ameen ve ark., 2026]]).
 - **Yorumu şekillendirir.** Öğrenenler yeni bilgiyi zaten inandıkları şey üzerinden yorumlar. Bu inançlar yanlış olduğunda ([[misconceptions]]), önceki bilgi öğrenmeyle *çatışabilir*; öğretimin nötr bir başlangıç noktası varsaymak yerine yanlış kanıları ortaya çıkarıp ele almasının nedeni budur.
 - **Öğrenen modellemesini yönlendirir.** Kişiselleştirmek için bir YZ sistemi, öğrencinin önceki bilgi durumunu tahmin etmek zorundadır — [[knowledge-tracing]], öğrenen modellemenin ve uyarlamalı [[scaffolding]] temeli budur. Bu tahminlerin kalitesi, uyarlamanın gerçekten yararlı mı yoksa yanıltıcı mı olacağını belirler.
 - **Bilgi içeriği, hangi süreç pratiğinin devreye girdiğini belirler.** Öğrenmenin belleğe mi yoksa tümevarıma mı dayandığı, hedefin önceki bilgi yapısıyla belirlenir: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]], KLI çerçevesini izleyerek sabit koşullu ve yanıtlı bilgi bileşenlerini (bellek ve geri çağırma pratiği yoluyla kazanılan olgular) değişken koşullu ve yanıtlı olanlardan (tümevarım ve yeni girdilere genelleme yoluyla kazanılan beceriler) ayırır — bu, çözümlenmiş örnekler ile pratiğin en uygun karışımının neden olgu içeriği ile beceri içeriği için farklılaştığının gerekçesidir.
@@ -100,3 +101,4 @@ ai_assist:
 - [[bridging-instructional-design-framework-math]] — Matematik için bir öğretim tasarımı çerçevesi
 - [[knowledge-building-tutor-learning-2026]] — önceki bilgi değil, bilgi kurma; özel ders öğrenmesini öngörür ve bilgi kuran düşük önceki bilgili özel derslerin yetişmesi
 - [[rachatasumrit-example-problem-ratio-2026]]
+- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Son testi önceki bilgi taşıdı (η²p = ,63), uyarlamalı görev seçimi hiçbir şey taşımadı (Sibley ve ark. 2026)

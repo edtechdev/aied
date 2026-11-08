@@ -13,7 +13,7 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -91,7 +91,7 @@ Ankete dahil edilen her düzeyde geçerli olan bir kalıp vardır: insan katman�
 
 **“Öğretilen ders, eğitim düzeyinden daha önemlidir.”** Okul/üniversite ayrımı daha önemlidir. Bu sınırın ötesinde değişen şey içerik değil, öz-düzenleme kapasitesi, değerlendirme sözleşmesinin niteliği ve öğrenmeden kimin sorumlu olduğudur; bu nedenle bir lisansüstü seminerine yardımcı olan bir araç, karşılaştırılabilir içerikte bile bir ikinci sınıf dersine zarar verebilir.
 
-**“Uyarlanabilir bir öğretmen her düzeye eşit biçimde yardımcı olur.”** Değişkeni yalıtan karşılaştırma öğreticidir: aynı ikinci sınıf matematik öğretmeninin iki sürümü, içerik, arayüz, geri bildirim ve sözlü ipuçları bakımından özdeş olup **yalnızca görev seçiminin bir Bayes [[knowledge-tracing]] modelini izleyip izlememesi** bakımından farklılaşmıştır. Uyarlanabilir görev seçimi düzeye duyarlı bir müdahaledir ve yararı, o düzeydeki öğrenenlerin uyarlamaya göre eylemde bulunup bulunamamasına bağlıdır.
+**“Uyarlanabilir bir [[intelligent-tutoring|öğretmen]] her düzeye eşit biçimde yardımcı olur.”** Değişkeni yalıtan karşılaştırma öğreticidir: aynı ikinci sınıf matematik öğretmeninin iki sürümü, içerik, arayüz, geri bildirim ve sözlü ipuçları bakımından özdeş olup **yalnızca görev seçiminin bir Bayes [[knowledge-tracing]] modelini izleyip izlememesi** bakımından farklılaşmıştır. Uyarlanabilir görev seçimi düzeye duyarlı bir müdahaledir ve yararı, o düzeydeki öğrenenlerin uyarlamaya göre eylemde bulunup bulunamamasına bağlıdır.
 
 **“Yükseköğretimde yoğunlaşan kanıt aşağıya doğru genellenir.”** Genellenmez ve literatürün dağılımı bir kolaylık değil bir uyarıdır. Kanıtın yoğun olduğu yer ile seyrek olduğu yer, YZ’nin en çok kullanıldığı yerin değil araştırma ekonomisinin bir özelliğidir; dolayısıyla üniversite örneklemlerinden çıkarılan bir K-12 iddiası, en çok önem taşıyan sınırın ötesine bir dışdeğerlemedir.
 

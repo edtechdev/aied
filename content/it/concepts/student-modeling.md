@@ -1,13 +1,13 @@
 ---
 title: "Modellamento dello studente e istruzione adattiva"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:18:00-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-26T10:50:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -53,9 +53,12 @@ Un modello predittivo dello studente può poggiare sulla struttura delle iscrizi
 
 I modelli dello studente possono essere costruiti anche unicamente a partire da tracce comportamentali e sostenere comunque l'adattamento. [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] hanno derivato tre profili di coinvolgimento — Observation, Construction ed Exploration — dai clickstream di 315 studenti online che costruivano 822 modelli ecologici in VERA, senza alcun dato demografico o contestuale, e hanno mostrato che tali profili prevedono la qualità dei modelli (Exploration produce i modelli più complessi e diversificati, mentre Observation è dominata da modelli copiati anziché originali). Caratterizzazioni a livello di coinvolgimento di questo tipo sono i modelli dello studente a grana grossa che lo strato di [[adaptive-learning|istruzione adattiva]] può consumare per indirizzare il riscontro.
 
-Il modellamento affettivo dello studente è un'ulteriore dimensione: un tutor di matematica inferiva l'emozione dal testo conversazionale e dall'espressione facciale e mappava lo stato aggregato sulle strategie di tutorato, ma la fusione multimodale raggiungeva soltanto un'accuratezza del 60% rispetto alle annotazioni dei partecipanti stessi, rendendo la lettura dell'affetto l'anello più debole della filiera ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
+Il modellamento affettivo dello studente è un'ulteriore dimensione: un tutor di matematica inferiva l'emozione dal testo conversazionale e dall'espressione facciale e mappava lo stato aggregato sulle strategie di tutorato, ma la fusione [[multimodal|multimodale]] raggiungeva soltanto un'accuratezza del 60% rispetto alle annotazioni dei partecipanti stessi, rendendo la lettura dell'affetto l'anello più debole della filiera ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
 
 [[cross-subject-validity-delayed-start|Gutterman et al. (2026)]] hanno rilevato che un segnale di avvio ritardato registrato durante la pratica matematica prevedeva gli esiti in inglese, con i ritardatari cronici (oltre 13 minuti) che mostravano guadagni inferiori (ELA β = −0,11 DS) anche dopo aver controllato per la [[prior-knowledge|conoscenza pregressa]] e per il tempo sul compito — sicché i modelli comportamentali dello studente possono trasferirsi tra discipline senza riaddestramento per singolo corso, benché i loro punti di taglio debbano essere nuovamente derivati.
+
+La difficoltà percepita è un'ulteriore dimensione del modellamento dello studente, e può essere prevista da caratteristiche legate alla persona anziché dalle sole statistiche del testo. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al. (2025)]] hanno costruito modelli di lettore basati su profili a partire dalle valutazioni di 3.954 frasi da parte di 193 studenti tedeschi della scuola superiore, e il loro ensemble KNN più XGBoost raggiungeva un RMSE di 0,822 contro una baseline media di 1,070, con R2 = 0,396. Ogni regressore che includeva caratteristiche del lettore batteva sia la baseline media sia quella della complessità media, quindi un modello dello studente che cattura chi è il lettore predice quanto un testo risulti difficile — una dimensione di percezione che gli altri modelli di questa pagina non portano.
+
 
 ## Lo strato di istruzione adattiva
 
@@ -83,16 +86,19 @@ Attraverso l'intera famiglia, la sfida di validità che la definisce è la stess
 
 I modelli che inferiscono lo stato dello studente dal gioco hanno raggiunto AUC comprese tra 0,848 e 0,913, eppure solo due dei 55 studi esaminati li hanno verificati rispetto ai pregiudizi demografici e uno soltanto ha esaminato gli esiti differenziati per capacità dello studente ([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]]).
 
-Alcuni segnali previsti potrebbero non essere affatto recuperabili dal dialogo: il pilota del framework Learning Context ha recuperato i fraintendimenti al 91,4% e l'ansia al 100%, ma la coscienziosità soltanto al 68,6% e la competenza linguistica al 60%, sicché un modello sensibile al contesto dovrebbe cogliere le caratteristiche che emergono lentamente anziché attendere che il dialogo le esponga ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
+Alcuni segnali previsti potrebbero non essere affatto recuperabili dal dialogo: il pilota del framework Learning Context ha recuperato i fraintendimenti al 91,4% e l'[[anxiety-and-stress|ansia]] al 100%, ma la coscienziosità soltanto al 68,6% e la competenza linguistica al 60%, sicché un modello sensibile al contesto dovrebbe cogliere le caratteristiche che emergono lentamente anziché attendere che il dialogo le esponga ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
 
-[[edumirror-educational-social-dynamics|Lin et al. (2026)]] mettono in luce una circolarità nel modo in cui tali studenti sintetici vengono validati: i loro agenti EduMirror somministrano questionari psicometrici a posteriori e leggono la concordanza con la rappresentazione interna dei valori dell'agente come validità psicologica, ma poiché il Surveyor misura dimensioni già codificate in quel sistema di valori, la verifica è un controllo di coerenza anziché una validazione indipendente.
+I segnali fisiologici e oculari ampliano la base di modellamento: eye tracking, EEG, attività elettrodermica e frequenza cardiaca sono ora usati per inferire engagement, attenzione e carico cognitivo ([[sensor-and-gaze-analytics]]). L'inferenza dal segnale allo stato mentale è l'anello debole, poiché un corpo può essere registrato senza che il suo stato venga identificato.
+
+
+[[edumirror-educational-social-dynamics|Lin et al. (2026)]] mettono in luce una circolarità nel modo in cui tali studenti sintetici vengono validati: i loro agenti EduMirror somministrano [[self-report-measures|questionari psicometrici]] a posteriori e leggono la concordanza con la rappresentazione interna dei valori dell'agente come validità psicologica, ma poiché il Surveyor misura dimensioni già codificate in quel sistema di valori, la verifica è un controllo di coerenza anziché una validazione indipendente.
 
 **La correttezza non è sempre un segnale fedele.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] mostrano che un modello dello studente che inferisce la padronanza dalle azioni corrette può travisare lo stato reale dello studente: gli studenti che manifestano una *sovrageneralizzazione ingannevole* appaiono come padroni della competenza eppure omettono un vincolo applicativo critico, sicché i sistemi adattivi possono interrompere la pratica prematuramente. I modelli dello studente dovrebbero valutare la comprensione condizionale — incluso se lo studente sappia quando trattenere un'azione — e non soltanto la correttezza delle azioni.
 
 I fraintendimenti nascosti mostrano lo stesso fallimento dal lato opposto: [[correct-answer-trap-misconceptions|Imran and Bulathwela (2026)]] hanno rilevato che un classificatore messo a punto catturava il 57,4% delle risposte corrette raggiunte attraverso un ragionamento fallace, e che a una prevalenza dell'1,6% anche un modello di ragionamento accurato all'83,6% lasciava 8 falsi allarmi per ciascun rilevamento — sicché i segnali di padronanza basati sulla correttezza sono sia incompleti sia costosi da correggere.
 
 **Il modo in cui un modello viene validato è a sua volta una questione di validità.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, and Carvalho (2025)]] mostrano che i modelli dello studente più diffusi (BKT, BKT-with-Forgetting, AFM) sembrano cogliere l'apprendimento umano solo quando vengono adattati retrospettivamente a un insieme di dati multi-sessione completo; sotto una convalida incrociata temporale (walk-forward) — prevedere una sessione futura a partire da quelle precedenti, che è il modo in cui tali modelli vengono effettivamente impiegati — essi sovrastimano la prestazione, non colgono l'[[retrieval-spacing-interleaving|effetto di spaziatura]] e ordinano male le condizioni di pratica. Poiché i modelli con e senza decadimento hanno performato in modo all'incirca uguale tra le sessioni, gli autori concludono che il decadimento viene spesso assorbito nei parametri dello studente anziché essere genuinamente rappresentato. La lezione per la famiglia è che una rappresentazione fedele dello studente deve essere validata nel modo in cui viene usata — e che confondere la prestazione nel momento con la ritenzione a lungo termine produce modelli che sembrano accurati eppure travisano gli studenti.
-[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi e Robb (2026)]] mostrano lo stesso fallimento dal lato del classificatore: inferire le dimensioni dello stile di apprendimento dai dialoghi di risoluzione di problemi di 153 studenti universitari appariva moderato quanto ad accuratezza finché la recall per classe non ha messo in luce una predizione dominata dall'etichetta maggioritaria, con i discenti Intuitivi e Globali sistematicamente sotto-identificati e gli esempi few-shot che talvolta amplificavano il bias della classe maggioritaria.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi e Robb (2026)]] mostrano lo stesso fallimento dal lato del classificatore: inferire le dimensioni dello stile di apprendimento dai dialoghi di [[problem-solving|risoluzione di problemi]] di 153 studenti universitari appariva moderato quanto ad accuratezza finché la recall per classe non ha messo in luce una predizione dominata dall'etichetta maggioritaria, con i discenti Intuitivi e Globali sistematicamente sotto-identificati e gli esempi few-shot che talvolta amplificavano il bias della classe maggioritaria.
 
 ## Il modellamento nell'era degli LLM
 
@@ -139,6 +145,9 @@ Il modellamento dello studente e l'istruzione adattiva alimentano l'[[learning-a
 - [[feedback]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — i modelli sottostanti alla previsione del rischio e all'individuazione dei destinatari del sostegno
+
+- [[sensor-and-gaze-analytics]]
+
 
 ## Articoli collegati
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)

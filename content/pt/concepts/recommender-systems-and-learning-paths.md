@@ -1,7 +1,7 @@
 ---
 title: Sistemas de recomendação e trajetórias de aprendizagem
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:22:14-05:00"
 type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners, researchers, instructional designers, software
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 translation_of: concepts/recommender-systems-and-learning-paths
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,12 @@ Onde a [[adaptive-learning|aprendizagem adaptativa]] descreve o mecanismo de aju
 ## Como funcionam os recomendadores educacionais
 
 Os recomendadores comportamentais herdam a lógica da [[machine-learning|filtragem colaborativa]]: pressupõe-se que quem aprende com históricos semelhantes quer recursos semelhantes, de modo que o sistema prevê a partir de coocorrência, e não de conteúdo. Isso é poderoso onde os dados são densos e frágil onde não são. [[fair-explainable-edu-recommendations|Evangelista e Bukhari (2026)]] enunciam o problema com clareza — recomendadores focados em precisão dão apoio menos confiável a estudantes com históricos de participação limitados, enquanto recursos populares dominam as listas —, e o respondem com um framework HKG-GRU híbrido que embute um [[knowledge-graph|grafo de conhecimento]] heterogêneo de materiais de curso e modela as sequências de quem aprende com um GRU, treinando então para robustez entre grupos de estudantes (GroupDRO) e reranqueando para diversidade de exposição (Relevância Marginal Máxima). Em registros do Moodle de 152 estudantes, 59 recursos e cerca de 150.000 interações, ele alcançou HR@10 = 0,68 e MRR = 0,41, mas um substancial viés de popularidade persistiu no nível do catálogo — evidência de que a [[bias-mitigation|mitigação de viés]] é parcial.
+
+
+Uma linha de base leve também pode superar os modelos profundos de forma direta. [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi et al. (2026)]] compararam sete recomendadores no NedBox, uma plataforma de neerlandês como segunda língua, e o modelo raso item-item EASE liderou em todas as medidas — AUROC 0,955, MAP 0,283, NDCG@3 0,205, NDCG@5 0,279 — à frente do autoencoder variacional profundo MVAE (AUROC 0,949) e do ensemble PentaForest (0,953), com a fatoração de matrizes em último lugar (IALS 0,719, UKNN 0,767). Os sinais de recomendação e de [[knowledge-tracing|rastreamento de conhecimento]] também se compõem: reranquear o top-10 do EASE pela proficiência prevista elevou o NDCG@3 em aproximadamente 3%.
+
+
+
 
 Os recomendadores semânticos substituem a coocorrência por estrutura. [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun e Song (2026)]] constroem um grafo de conhecimento de recursos de ensino, conceitos linguísticos, habilidades, grupos de quem aprende e atributos [[pedagogy|pedagógicos]], e decompõem cada recurso ao longo de quatro dimensões instrucionais — contexto de ensino, nível cognitivo, característica tecnológica e adaptabilidade cultural. A recomendação expande k-hop sobre o grafo a partir dos requisitos declarados de quem aprende, refina os candidatos com uma filtragem colaborativa baseada em atributos, e os ranqueia por um coeficiente de fusão que sobe com os índices de habilidade, progresso e interesse de quem aprende, de modo que quem está menos adiantado recebe orientação mais estruturada do grafo, enquanto os de maior habilidade se apoiam em seu padrão comportamental. No subconjunto de inglês do conjunto de dados MARS (4.800 usuários, 14.200 recursos, 132.000 interações, esparsidade 0,9981), ele alcançou NDCG 0,625 e HR 0,751, um ganho de cerca de 7–8% sobre a melhor linha de base neural, e superou linhas de base conscientes de grafo, incluindo RippleNet e KGAT, em cobertura e precisão entre domínios. A ablação mostra que os sinais são complementares (apenas CF NDCG 0,584, apenas KG 0,604), e os autores observam que são métricas de ranqueamento, e não evidência de eficácia de [[learning-gains|aprendizagem]].
 

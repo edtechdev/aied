@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,7 @@ Elimu maalum ni uwanja ambao uwezo wa AI wa kubinafsisha na kubadilika unatoa ah
 
 **Maudhui ya uingiliaji yanayozalishwa na AI yanahitaji vidhibiti vya kabla ya kuzalisha, si tu mapitio.** [[adapted-stories-social-story-intervention-2026|Enkhjargal na wenzake (2026)]] waligundua wataalam wameipima zana ya Hadithi za Kijamii iliyobuniwa pamoja kuwa na urahisi wa matumizi mkubwa (SUS 86.8) hata hivyo waliiita picha zake za kijumla za Kimagharibi na kifuatiliaji cha tabia yake hakilingani na hukumu ya kliniki inayohusiana na malengo — vikwazo ambavo wangaviweka kabla ya kuzalisha.
 [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] anaanza kutoka kwenye nyenzo badala ya mazungumzo: mfano wa lugha na kuona husoma picha za Kazi za Sanduku la Viatu, zilizobuniwa ili lengo lionekane katika vitu, na kuzigeuza kuwa mpango ambao Nao humanoid hutekeleza au kuonyesha, akiripoti usahihi wa mpango katika kazi sita na hakuna data ya mwanafunzi.
-- **Tabia yenye changamoto ndipo vipimo vya walimu vinapoishia.** Kati ya majadiliano 923 yaliyotegemea kesi yaliyotolewa kutoka fasihi ya elimu maalum na saikolojia ya elimu, bora kati ya mifano 11 ilitimiza uingiliaji ulioandikwa katika 55.8% ya kesi zilizo wazi na 43.3% ya mipango ya muda mrefu ([[tutor-case-bench-challenging-behaviors-2026|Park na wenzake (2026)]]).
+- **Tabia yenye changamoto ndipo [[benchmark|vipimo vya walimu]] vinapoishia.** Kati ya majadiliano 923 yaliyotegemea kesi yaliyotolewa kutoka fasihi ya elimu maalum na saikolojia ya elimu, bora kati ya mifano 11 ilitimiza uingiliaji ulioandikwa katika 55.8% ya kesi zilizo wazi na 43.3% ya mipango ya muda mrefu ([[tutor-case-bench-challenging-behaviors-2026|Park na wenzake (2026)]]).
 
 ## Mabadiliko kwa waalimu wa elimu maalum
 
@@ -62,7 +62,7 @@ Elimu maalum ni uwanja ambao uwezo wa AI wa kubinafsisha na kubadilika unatoa ah
 
 ## Dhana Potofu za Kawaida
 
-- **"Ukadiriaji wa urahisi wa matumizi huthibitisha zana ya msaada."** Wataalam walikadiria zana ya Hadithi za Kijamii iliyobuniwa pamoja kama **yenye urahisi mkubwa wa matumizi (SUS 86.8)** lakini wakasema **picha zake ni za kijumla za Kimagharibi** na **kifuatiliaji chake cha tabia hakingiani na hukumu ya kliniki inayohusiana na malengo**. Urahisi mkubwa wa matumizi uliishi pamoja na kushindwa kwa maudhui, kwa hivyo alama ya SUS si uthibitisho wa ufaafu.
+- **"[[usability-research|Ukadiriaji wa urahisi wa matumizi]] huthibitisha zana ya msaada."** Wataalam walikadiria zana ya Hadithi za Kijamii iliyobuniwa pamoja kama **yenye urahisi mkubwa wa matumizi (SUS 86.8)** lakini wakasema **picha zake ni za kijumla za Kimagharibi** na **kifuatiliaji chake cha tabia hakingiani na hukumu ya kliniki inayohusiana na malengo**. Urahisi mkubwa wa matumizi uliishi pamoja na kushindwa kwa maudhui, kwa hivyo alama ya SUS si uthibitisho wa ufaafu.
 
 - **"Vipimo vya jumla vinakuambia jinsi mwalimu anavyoshughulikia kesi za elimu maalum."** Kati ya **majadiliano 923 yaliyotegemea kesi** yaliyotolewa kutoka fasihi ya elimu maalum na saikolojia ya elimu, **bora kati ya mifano 11** ilitimiza kigezo kilichoandikwa, na **tabia yenye changamoto ndipo vipimo vya walimu vinapoishia**. Tathmini za kawaida hazifikii kesi ambazo wataalam wanahitaji msaada nazo zaidi.
 

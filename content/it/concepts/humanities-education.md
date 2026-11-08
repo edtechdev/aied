@@ -1,14 +1,14 @@
 ---
 title: Istruzione umanistica e nelle scienze sociali
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:01:53-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: "concepts/humanities-education"
-source_updated: "2026-10-26T09:45:00-04:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -39,29 +39,40 @@ ai_assist:
 
 L'istruzione SSH è un'area disciplinare distinta nella knowledge base, complementare alle [[stem-education|STEM]] e all'[[language-learning|apprendimento delle lingue]]. Poiché le discipline umanistiche premiano profondità interpretativa, autorialità e giudizio contestuale, esse pongono sfide di integrazione dell'IA diverse dalle STEM — e si collegano all'[[higher-ed|istruzione superiore]] e all'[[ai-literacy|alfabetizzazione all'IA]] in modi [[discipline-specific-aied|specifici del dominio]].
 
+
+L'educazione civica e politica è un'area disciplinare sorella di queste discipline anziché un loro ramo, e [[civic-and-political-education]] la tratta in proprio. L'evidenza della knowledge base in materia è sottile: otto fonti toccano l'argomento e nessuna misura l'apprendimento civico.
+
+
 ### Come appare l'IA nell'insegnamento umanistico e nelle scienze sociali
 
 - **Ristrutturazione della cognizione interpretativa.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] sostiene che l'IA generativa agisce come *mediatore epistemico* che riconfigura la costruzione di significato, l'autorialità e l'[[agency|agency]] di chi apprende nell'istruzione SSH. Identifica tre trasformazioni — esternalizzazione della cognizione interpretativa, ibridazione dell'autorialità ed emergenza di un'agency epistemica distribuita — e tre traiettorie di sviluppo (interpretazione AI-dependent, AI-enhanced, AI-critical). Questo fonda un modello [[pedagogy|pedagogico]] sviluppistico-critico per preservare la profondità interpretativa.
+
+- **Ciò che un compito permette a un lettore di vedere decide se l'autorialità è valutabile.** In una simulazione modello su 148 testi, memoranda e difese delle revisioni segnavano 3,16 e 3,10 in visibilità argomentativa contro 2,63 dei saggi di posizione, perché il formato stesso richiedeva la spiegazione delle fonti o una risposta alle obiezioni ([[liu-argumentative-work-visible-genai-assessment-2026|Liu & Liu (2026)]]).
+
 - **Insegnamento della storia.** La [[paternalistic-filter-llm-history-education|ricerca sulle LLM nell'insegnamento della storia]] esamina come l'IA plasmi il ragionamento storico e l'interpretazione delle fonti.
 - **Esperienze degli studenti di discipline umanistiche e scienze sociali.** [[genai-impact-chinese-students-hss|L'impatto della GenAI sugli studenti cinesi di discipline umanistiche e scienze sociali]] e l'[[acceptance-ai-english-tools-2026|accettazione dell'IA tra chi apprende lingue/inglese]] documentano gli effetti rivolti agli studenti attraverso le discipline SSH.
 - **Dimensioni critiche e filosofiche.** La [[voicu-ai-interpretive-cognition-ssh-2026|critical AI literacy]] e la [[philosophy-of-ai-in-education|filosofia dell'IA in educazione]] sono particolarmente rilevanti nelle SSH, dove le questioni di significato, valori e autorità epistemica sono centrali.
-- **[[governance|Trasformazione digitale istituzionale]].** Qin (2026) documenta come la Lingnan University si sia riposizionata come "Research-Intensive Liberal Arts Institution in the Digital Era", imponendo la literacy GenAI a tutti gli studenti di laurea triennale (incluso un corso obbligatorio del primo anno nel Common Core sull'IA generativa che copre spazi latenti, GAN, modelli di diffusione, [[prompt-engineering|prompting]], fine-tuning, bias e disinformazione). Il position paper sostiene che il passaggio all'AI-for-education sia una *trasformazione intellettuale* piuttosto che un potenziamento tecnocentrico, posizionando la [[ai-literacy|fluidità digitale]] come competenza fondamentale delle liberal arts, mentre un modello [[human-in-the-loop-ai|human-in-the-loop]] mette in primo piano il ragionamento [[ethics|etico]], il giudizio critico e la responsabilità sociale — un progetto concreto per l'[[higher-ed|istruzione superiore]] che bilancia l'innovazione della [[generative-ai|GenAI]] con i fondamenti umanistici.
+- **[[governance|Trasformazione digitale istituzionale]].** Qin (2026) documenta come la Lingnan University si sia riposizionata come "Research-Intensive Liberal Arts Institution in the Digital Era", imponendo la literacy GenAI a tutti gli studenti di laurea triennale (incluso un corso obbligatorio del primo anno nel Common Core sull'IA generativa che copre spazi latenti, GAN, modelli di diffusione, [[prompt-engineering|prompting]], [[llm-training-and-fine-tuning|fine-tuning]], bias e disinformazione). Il position paper sostiene che il passaggio all'AI-for-education sia una *trasformazione intellettuale* piuttosto che un potenziamento tecnocentrico, posizionando la [[ai-literacy|fluidità digitale]] come competenza fondamentale delle liberal arts, mentre un modello [[human-in-the-loop-ai|human-in-the-loop]] mette in primo piano il ragionamento [[ethics|etico]], il giudizio critico e la responsabilità sociale — un progetto concreto per l'[[higher-ed|istruzione superiore]] che bilancia l'innovazione della [[generative-ai|GenAI]] con i fondamenti umanistici.
 - **L'esposizione della valutazione nel settore è ora misurata, ed è concentrata piuttosto che diffusa.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] ha auditato 15.587 record di unità di Arts and Humanities nelle università del Group of Eight australiano e ha rilevato che il 58,6% degli item di valutazione del 2026 era altamente esposto alla [[generative-ai|GenAI]], con saggi da fare a casa e report di ricerca che rappresentavano il 71,4% di tale esposizione una volta ponderati per voti.
 
 ### Perché conta
 
 L'istruzione SSH mette in primo piano esattamente le capacità che l'IA generativa sfida di più — autorialità originale, giudizio interpretativo, analisi critica e costruzione di significato sensibile al contesto. La knowledge base tratta questo dominio come un contro-peso critico alle inquadrature strumentali e basate sulle competenze dell'IA: si chiede se l'apprendimento supportato dall'IA preservi il [[critical-thinking|pensiero critico]], la responsabilità epistemica e l'autonomia interpretativa, collegandosi alla [[critical-pedagogy|pedagogia critica]] e all'[[ai-literacy|alfabetizzazione all'IA]].
 
+
+L'insegnamento umanistico ha iniziato a usare l'IA agentica per l'assemblaggio delle fonti e la stesura, il che sposta la domanda valutativa della disciplina da se il testo sia stato generato a se l'interpretazione possa essere attribuita allo studente ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
+
+
 ## Implicazioni per i docenti di discipline umanistiche e scienze sociali
 
-- **Tratta l'IA come mediatore epistemico, non come tutor di contenuti.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] mostra che l'IA riconfigura costruzione di significato, autorialità e agency nelle SSH — progetta la pedagogia attorno alle tre traiettorie (AI-dependent, AI-enhanced, AI-critical) e mira all'estremo AI-critical.
+- **Tratta l'IA come mediatore epistemico, non come tutor di contenuti.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] mostra che l'IA riconfigura costruzione di significato, autorialità e agency nelle SSH — [[design-education|progetta la pedagogia]] attorno alle tre traiettorie (AI-dependent, AI-enhanced, AI-critical) e mira all'estremo AI-critical.
 - **Proteggi profondità interpretativa e autorialità.** Poiché le discipline umanistiche premiano giudizio e autorialità originale, guardati dall'appiattimento dell'analisi da parte dell'IA; rendi la [[ai-ed-evaluation|valutazione critica dell'output]] dell'IA un obiettivo di apprendimento ([[critical-thinking|pensiero critico]], [[ai-literacy|alfabetizzazione all'IA]]).
 - **Usa l'IA deliberatamente nel lavoro sulle fonti.** La [[paternalistic-filter-llm-history-education|ricerca storica]] mostra che l'IA può plasmare il ragionamento e l'interpretazione delle fonti — insegna agli studenti a interrogare le affermazioni storiche mediate dall'IA e i filtri che essa applica.
 - **Considera gli impatti rivolti agli studenti.** Gli [[genai-impact-chinese-students-hss|studi sull'esperienza studentesca]] documentano come la GenAI influenzi chi apprende nelle SSH; adatta supporto e inquadratura dell'integrità all'uso reale piuttosto che a ipotesi.
 
 ## Idee sbagliate comuni
 
-**«Le discipline umanistiche sono la parte del curricolo meno esposta all'IA.»** L'esposizione è stata misurata ed è concentrata anziché diffusa: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] ha auditato **15.587 record di unità di Arts and Humanities** per stabilire dove si collochi l'esposizione. È distribuita in modo diseguale tra le unità anziché sottile ovunque, il che rende la riprogettazione della valutazione un problema mirato anziché di tutto il settore.
+**«Le discipline umanistiche sono la parte del [[curriculum-design|curricolo]] meno esposta all'IA.»** L'esposizione è stata misurata ed è concentrata anziché diffusa: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] ha auditato **15.587 record di unità di Arts and Humanities** per stabilire dove si collochi l'esposizione. È distribuita in modo diseguale tra le unità anziché sottile ovunque, il che rende la riprogettazione della valutazione un problema mirato anziché di tutto il settore.
 
 **«L'IA nell'istruzione umanistica è potenziamento tecnocentrico.»** Il position paper su cui si basa questa pagina sostiene che il cambiamento sia una *trasformazione intellettuale* anziché un potenziamento, posizionando la [[ai-literacy|fluidità digitale]] come competenza fondamentale delle liberal arts. Aggiungere uno strumento a un corso immutato scambia la trasformazione per il suo strumento.
 
@@ -84,6 +95,9 @@ L'istruzione SSH mette in primo piano esattamente le capacità che l'IA generati
 - [[ai-education]]
 - [[discipline-specific-aied]]
 
+- [[civic-and-political-education]]
+
+
 ## Articoli collegati
 
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — A developmental-critical model of interpretive cognition for SSH education
@@ -92,3 +106,7 @@ L'istruzione SSH mette in primo piano esattamente le capacità che l'IA generati
 - [[acceptance-ai-english-tools-2026]] — AI acceptance among language and humanities learners
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computational audit of 15,587 Go8 Arts and Humanities units: 58.6% of 2026 assessment items highly AI-exposed, concentrated in essays and reports
 - [[genai-values-education-affordances-risks-2026]] — IA generativa nell'educazione ai valori: affordance, rischi etici e implicazioni per l'insegnamento (Chen 2026)
+
+- [[liu-argumentative-work-visible-genai-assessment-2026]] — Il formato del compito e le istruzioni sull'uso dell'IA come ciò che l'artefatto può dimostrare (Liu & Liu 2026)
+- [[capodieci-humanities-hil-2026]] — IA agentica nell'apprendimento umanistico, e il passaggio dall'autorialità del testo all'attribuzione dell'interpretazione (Capodieci et al., 2026)
+

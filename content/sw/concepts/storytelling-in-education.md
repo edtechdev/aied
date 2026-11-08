@@ -8,7 +8,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T14:10:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -32,14 +32,20 @@ ai_assist:
 
 ## Utangulizi
 
-Kusimulia hadithi kumejikita katika nadharia za [[motivation]], [[student-engagement]], na [[constructivist]] za kujifunza. Kinasaidia [[language-learning]], [[creativity]], [[social-emotional-learning]], na ufahamu. Katika nyakati za AI, hadithi zinazoenezwa na [[llm|LLM]] na roboti zinaruhusu uundaji pamoja, ambapo wanafunzi na [[agentic-ai|mawakala wa AI]] wanajenga hadithi pamoja, na hadithi ya mwingiliano inayojibu mwanafunzi.
+Kusimulia hadithi kumejikita katika nadharia za [[motivation]], [[student-engagement]], na [[constructivist]] [[learning-theories|za kujifunza]]. Kinasaidia [[language-learning]], [[creativity]], [[social-emotional-learning]], na ufahamu. Katika nyakati za AI, hadithi zinazoenezwa na [[llm|LLM]] na roboti zinaruhusu uundaji pamoja, ambapo wanafunzi na [[agentic-ai|mawakala wa AI]] wanajenga hadithi pamoja, na hadithi ya mwingiliano inayojibu mwanafunzi.
 
 ### Jinsi hadithi zinavyoonekana katika utafiti wa hifadhi ya maarifa
 
 - **Hadithi zinazoenezwa na roboti:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] hutumia roboti ya kidijitali ya kusimulia hadithi ya mwingiliano inayofanana na binadamu, na kupata maendeleo makubwa katika ushiriki wa tabia na wa kiakili juu ya mbinu za karatasi na PowerPoint; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] inawaruhusu walimu kuunda shughuli za hadithi zinazotegemea hali za LLM kutoka maudhui ya [[curriculum-design|mtaala]].
+
+- **Faida za ushiriki zina ukubwa, na motisha haikufuata.** MotiBo ilimaliza 27.06% na 30.00% mbele ya karatasi na PowerPoint katika ushiriki wa tabia na wa kiakili (zote p < .05), wakati motisha ya ndani ilipanda 20.21% bila kufikia umuhimu (p = .07). Ushiriki ulisogea, motisha haikuvuka kizingiti chake, na jaribio la karibu-ya-majaribio la siku tano halikupima tokeo lolote la kujifunza ([[motibo-digital-storytelling-robots-motivation-2026|Fung na Lui, 2026]]).
+
 - **HRI ya hadithi ya uundaji pamoja:** [[icub-humanoid-storytelling-llm-hri-2025|Somo la hadithi la iCub]] linachunguza uundaji pamoja wa hadithi kati ya binadamu na roboti, likiunganisha mifano ya kizazi kwa mwingiliano unaofaa kwa muktadha.
 - **Hadithi na ubunifu:** Hadithi zinasaidia [[creativity]] na maendeleo ya [[language-learning|lugha]], na zinatumika kuongeza motisha na ushiriki katika mipangilio ya [[k-12]].
-- **Hadithi za kidijitali kama kizuizi dhidi ya AI:** Kadiri [[generative-ai|AI ya kizazi]] inavyopanda, hadithi za kidijitali zinatafsiriwa upya kama gari la uwezo wa kihisia, wa kitamaduni, na wa hadithi ambao AI kinakosa. Katika mfano wa [[project-based-learning|kujifunza kwa msingi wa mradi]] kwa elimu ya sanaa na ubunifu, wanafunzi walitafsiri urithi wa kitamaduni wa ndani kuwa simulizi za [[multimodal]] katika kazi 92 za hadithi za kidijitali, na kuonyesha jinsi hadithi zinavyodumisha ubunifu wa binadamu katika nyakati za AI.
+- **Hadithi za kidijitali kama kizuizi dhidi ya AI:** Kadiri [[generative-ai|AI ya kizazi]] inavyopanda, hadithi za kidijitali zinatafsiriwa upya kama gari la uwezo wa kihisia, wa kitamaduni, na wa hadithi ambao AI kinakosa. Katika mfano wa [[project-based-learning|kujifunza kwa msingi wa mradi]] kwa elimu ya sanaa na [[design-education|ubunifu]], wanafunzi walitafsiri urithi wa kitamaduni wa ndani kuwa simulizi za [[multimodal]] katika kazi 92 za hadithi za kidijitali, na kuonyesha jinsi hadithi zinavyodumisha ubunifu wa binadamu katika nyakati za AI.
+
+- **Hadithi zinazozalishwa ni rahisi kuzalisha na ngumu kuziweka zenye mshikamano.** Kwa wanafunzi 22 wa STEM, hadithi za kubuni za mwingiliano zilizozalishwa na AI zilipimwa vizuri kwa uwazi wa hadithi (M = 4.11) na urefu (M = 4.14), lakini ushiriki ulikaa katikati ya upande wowote (M = 3.08) na mshikamano wa maudhui ya hadithi ulikuwa dhaifu zaidi (M = 2.92) ([[ai-generated-interactive-fiction-education-2026]]). Uundaji pamoja unarithi udhaifu huo katika tabaka ambalo hadithi inapaswa kufanya kazi yake.
+
 
 Kusimulia hadithi kinaungana na [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], na [[educational-robotics]].
 
@@ -68,3 +74,6 @@ Kusimulia hadithi kinaungana na [[student-engagement]], [[motivation]], [[creati
 - [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[white-wu-robotics-ai-education-2026]] — Robotiki na AI katika Elimu
+
+- [[ai-generated-interactive-fiction-education-2026]] — Hadithi za kubuni za mwingiliano zilizozalishwa na AI: mshikamano kama kipimo dhaifu katika jaribio la wanafunzi 22
+

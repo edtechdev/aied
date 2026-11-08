@@ -1,7 +1,7 @@
 ---
 title: Uchanganuzi wa Vihisi na Mtazamo
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-08T13:08:24-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-04T16:09:41-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,10 @@ Lebo mara nyingi ndicho kiungo dhaifu zaidi. E3Sense ilitabiri makadirio ya wana
 Uhusiano wa neva sio alama. Picha zilizojengwa upya kutoka EEG zilihusiana na utendaji wa mtihani kwa R² = 0.79 kwa mitazamo 55 ya mshiriki-video. Vipengele vilivyojibiwa kwa usahihi pia vilionyesha ufanano mkubwa wa kimaana kuliko visivyo sahihi. Lakini mshiriki mmoja alizalisha picha za ubora wa juu na akajibu kimakosa, kwa hivyo ubora wa ujenzi upya hauwezi kusomwa kama usahihi ([[seeing-cognitive-representations-eeg-reconstruction|Su na wenzake, 2026]]).
 
 Makini sio kujifunza. Katika TutorLoop, makini yalihusiana na kujifunza kwa r = 0.017, ilhali mzigo ulihusiana kinyume kwa r = -0.168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Mfumo unaoongeza ishara ya makini kwa kiwango cha juu ungekuwa umeboresha kitu kilicho karibu na kelele.
+
+
+Kihisi kinaweza kurekodi uwepo wa pamoja pale utafiti unadai mwingiliano: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] waligundua kitambuzi cha mkao kilifikia ukumbukaji wa 55% tu, kikikamata matukio 11 kati ya 20 yaliyotambuliwa na wawekaji kodi wa binadamu katika mwingiliano wa makundi ya mwalimu–mwanafunzi. Mwalimu alikuwa ndani ya mpaka wa kundi katika 49.2% ya sehemu zilizowekwa kodi wakati wanafunzi walimtazama mwalimu kwa 25.4% tu, na hakuna kipengele cha sauti kilichobadilika katika ulinganisho wowote, hivyo mchakato ulirekodi uwepo wa pamoja wa kimaeneo badala ya mwingiliano endelevu.
+
 
 Wasifu wa kifiziolojia sio utambuzi. Modeli za msongo wa mtihani hutabiri kundi la alama kutoka msisimko na mwendo, na waandishi wanasisitiza kwamba matokeo yanapaswa kuwekwa kando ya mazingira binafsi na muktadha wa afya ya akili badala ya katika uamuzi wenye hatari kubwa ([[physiological-signals-exam-outcomes-ml|Yamazaki na Rimal, 2026]]).
 

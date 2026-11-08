@@ -9,7 +9,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,8 @@ Geri bildirim okuryazarlığı yaygın biçimde birbiriyle ilişkili yetenekler 
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang ve Guo (2026)]], geri bildirim okuryazarlığını uygulama yoluyla geliştirilebilir bir kapasite olarak ele alır: yorum üretmek için üretken YZ ile diyalojik biçimde çalışan İngilizceyi yabancı dil olarak öğrenen akran değerlendiricileri, yalnızca sundukları yorumları değil, geri bildirimi yargılama ve kullanma kapasitelerini de geliştirmiştir.
 
+**Geri bildirim okuryazarlığı, insan kaynağı kadar makine kaynağını da kapsamalıdır.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman ve ark. (2026)]], öğrencilerden aynı taslak üzerine akran geri bildirimi ile sohbet robotu geri bildirimini aynı yansıtma içinde değerlendirmelerini ister; bu da karşılaştırmanın kendisini öğrenme görevi hâline getirir. Öğrencileri sohbet robotunun otoritesini bir öğretim elemanınınkine kıyasla düşürmüştür ve yazarlar bu düşürmeyi isteksizlik değil okuryazarlık olarak okumaktadır.
+
 ### Geri bildirim okuryazarlığı neden Eğitimde YZ açısından önemli
 
 YZ, geri bildirimi hem değerlendirim okuryazarlığının oyununu yükselten iki yönde değiştirir. Birincisi, YZ geri bildirimin *hacmini ve anlıklığını* belirgin biçimde artırır ([[ai-feedback-quality]], [[feedback|Feedback Loop]]), dolayısıyla öğrenciler sınıflandırıp değerlendirmek zorunda oldukları çok daha fazla geri bildirimle karşılaşır. İkincisi, YZ tarafından üretilen geri bildirim ayırt edilebilir riskler taşır — hatalılık, [[hallucination-risk|hallucination]] ve “ustalık yanılsaması” — bu da [[critical-thinking|critical evaluation]] becerileriyle Aşırı Bağımlılık ve [[llm-fallacy-misattribution|misattribution]] konusundandaki tetikte olmayı gerekli kılar. Geri bildirim okuryazarlığı bu nedenle [[ai-literacy]] çekirdek bir bileşeni haline gelir: yalnızca bir YZ’den geri bildirim için nasıl istek metni yazılacağını değil, geri bildirimin üzerine hareket etmeye değip değmeyeceğini ve onu görev tamamlamadan çok gerçek öğrenmeye nasıl dönüştüreceğini bilmeyi kapsar.
@@ -116,6 +118,7 @@ Geri bildirim üzerine hareket etmek, ürünü iyileştirmekle aynı şey değil
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
+- [[reflection]]
 
 ## Bağlı makaleler
 
@@ -145,3 +148,5 @@ Geri bildirim üzerine hareket etmek, ürünü iyileştirmekle aynı şey değil
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — YZ geri bildirim okuryazarlığı ve etken katılım: üç dalgalı rastgele kesişimli panel (Xu 2026)
 - [[ai-feedback-literacy-assessment-as-learning-2026]] — Geri bildirim okuryazarlığını öğretmek için rubrikle derecelendirilmiş çalışma örnekleri üretmek (Pennington ve Hock 2026)
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — Revizyon kazanımını eyleme dönüştürülebilirlik değil anlam çıkarma taşıdı
+
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Akran ve sohbet robotu geri bildirimini tek bir yansıtma görevi içinde değerlendirmek

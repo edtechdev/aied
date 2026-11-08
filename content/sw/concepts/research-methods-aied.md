@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-26T13:35:09-04:00"
+source_updated: "2026-11-01T11:00:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -184,6 +184,10 @@ Kwa mazoezi, utafiti wa AI katika elimu mara chache huanguka kwa uwazi katika mi
 
 [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] anaongeza uzi wa bibliometriki unaokaa kando na hizi nne: kuchora kumbukumbu 407 kwa mtandao wa maneno-mshirika na wa uandishi-mshirika ili kufuatilia maendeleo ya dhana ya uwanja. Mwandishi anaeleza wazi kuwa usomaji wa SWOT uliojengwa juu yake ni chombo cha tafsiri badala ya mbinu huru ya uchanganuzi, jambo linaloweka mpaka kati ya muunganisho na uchanganuzi katika mila hii.
 
+
+- **"Takwimu inaweza kuaminiwa mara tu inapohesabiwa."** Benchmark hukagua ukaguzi kwanza. Kila uchunguzi na kila hukumu isipokuwa seti sita zilizotajwa za takwimu ziliendeshwa kwenye wapimaji walioigwa wenye athari iliyopandwa na bila, na kipimo ambacho ukaguzi wake haukuona athari iliyopandwa kiliripotiwa kama kisichopimwa badala ya matokeo. Ripoti zake huzalishwa kutoka markdown na msimbo wake wenyewe, hivyo kila namba iliyochapishwa inaunganishwa na faili na uwanja ilikotoka na huhesabiwa upya wakati wa kujenga. [[porcaro-ai-grading-benchmark-2026|Hukumu ni uamuzi wa ubuni unaoweza kujaribiwa]] kabla matokeo yoyote halisi kusomwa.
+
+
 ## Dhana Potofu za Kawaida
 
 **"Usahihi wa juu wa benchmark unaonyesha ufanisi wa kielimu."** Hauonyeshi, na pengo hilo ndilo tatizo kuu la upimaji la uwanja: mfumo unaweza kupata alama ya juu ya usahihi wakati hauzalishi ujifunzaji wowote, kwa sababu usahihi wa benchmark hupima utendaji wa kazi chini ya hali ambazo benchmark iliweka. Ufanisi wa kielimu unahitaji tokeo la mwanafunzi chini ya hali ambazo teknolojia haidhibiti.
@@ -242,3 +246,6 @@ Kwa mazoezi, utafiti wa AI katika elimu mara chache huanguka kwa uwazi katika mi
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis ya athari ya AI kwenye kujifunza
 - [[oneill-presumed-effective-meta-analysis-2026]] — Kudhaniwa Kufaa: ukaguzi wa meta-analysis ya AIED yenye kasoro
 - [[synthetic-educational-data-structural-fidelity-2026]] — Kile Vipimo vya Uaminifu Vinakosa: Ukaguzi wa Kimuundo wa Data ya Kielimu ya Kisintetiki
+
+- [[porcaro-ai-grading-benchmark-2026]] — Zaidi ya makubaliano: uchunguzi wenye jibu sahihi linalojulikana, ukaguzi wa athari iliyopandwa kwa wapimaji walioigwa, na mifano 22 iliyoelekezwa (Porcaro 2026)
+

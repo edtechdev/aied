@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Educação especial
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:38:41-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ A educação especial é um domínio no qual a capacidade da IA de personalizaç
 **O conteúdo de intervenção gerado por IA precisa de controles pré-geração, e não apenas de revisão.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] constataram que praticantes avaliaram a ferramenta de História Social codesenhada como altamente usável (SUS 86,8), mas chamaram suas imagens de genericamente ocidentais e seu rastreador de comportamento de descompassado com o julgamento clínico ligado a metas — restrições que eles teriam estabelecido antes da geração.
 
 [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] parte dos materiais, e não da conversa: um modelo de visão-linguagem lê fotografias de Shoebox Tasks — desenhadas para que o objetivo fique visível nos próprios objetos — e as converte em um plano que um humanoide Nao executa ou demonstra, relatando precisão de plano em seis tarefas e nenhum dado de aprendizes.
-- **O comportamento desafiador é onde os benchmarks de tutoria param.** De 923 diálogos fundamentados em casos extraídos da literatura de educação especial e de psicologia educacional, o melhor de 11 modelos satisfez uma intervenção documentada em 55,8% dos casos abertos e 43,3% dos planos de longo prazo ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
+- **O comportamento desafiador é onde os [[benchmark|benchmarks]] de tutoria param.** De 923 diálogos fundamentados em casos extraídos da literatura de educação especial e de psicologia educacional, o melhor de 11 modelos satisfez uma intervenção documentada em 55,8% dos casos abertos e 43,3% dos planos de longo prazo ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
 
 ## Implicações para instrutores de educação especial
 
@@ -67,8 +67,8 @@ A educação especial é um domínio no qual a capacidade da IA de personalizaç
 
 ## Ideias equivocadas comuns
 
-- **"As avaliações de usabilidade validam uma ferramenta assistiva."** Praticantes avaliaram uma ferramenta de História Social codesenhada como **altamente usável (SUS 86,8)** e, ainda assim, chamaram suas **imagens de genericamente ocidentais** e seu **rastreador de comportamento de descompassado com o julgamento clínico ligado a metas**. Alta usabilidade coexistiu com falhas substantivas, de modo que uma pontuação SUS não é um endosso de adequação.
-- **"Benchmarks genéricos dizem como um tutor lida com casos de educação especial."** De **923 diálogos fundamentados em casos** extraídos da literatura de educação especial e de psicologia educacional, **o melhor de 11 modelos** satisfez um critério documentado — e **o comportamento desafiador é onde os benchmarks de tutoria param**. Avaliações padrão não alcançam os casos em que os praticantes mais precisam de ajuda.
+- **"[[usability-research|Avaliações de usabilidade]] validam uma ferramenta assistiva."** Praticantes deram a uma ferramenta de História Social que eles mesmos codesenharam uma aprovação de usabilidade (SUS 86,8), ao mesmo tempo que criticaram suas imagens ocidentais de estoque e um rastreador de comportamento que não captava o julgamento clínico ligado a metas. Alta usabilidade coexistiu com falhas substantivas, de modo que uma pontuação SUS não é um endosso de adequação.
+- **"Benchmarks genéricos dizem como um tutor lida com casos de educação especial."** De **923 diálogos fundamentados em casos** extraídos da literatura de educação especial e de psicologia educacional, **o melhor de 11 modelos** satisfez um critério documentado — e **essa é a borda do que um benchmark de tutoria cobre**. Avaliações padrão não alcançam os casos em que os praticantes mais precisam de ajuda.
 - **"Quem aprende neurodivergente precisa de acomodações, e não de requisitos de desenho."** [[neurodivergent-computing-students|Zastudil et al.]] constataram que estudantes de computação neurodivergentes precisam de **tarefas estruturadas, equipes pequenas e consistentes e definições explícitas de papéis** — requisitos gerais de desenho que beneficiam a todos, e não ajustes individuais concedidos após o diagnóstico.
 
 ## Conceitos conectados

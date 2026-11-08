@@ -1,7 +1,7 @@
 ---
 title: Avaliação entre pares
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:17:55-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ A avaliação entre pares é uma escolha de desenho de avaliação na qual os es
 
 A base de pesquisa concorda que a avaliação entre pares produz aprendizagem e discorda sobre quanto depende do desenho. Ela dá aos estudantes um público autêntico, desenvolve juízo avaliativo por meio de respostas baseadas em critérios, e constrói o contexto social que apoia o [[student-engagement|engajamento]] e a [[motivation|motivação]]. Sua qualidade depende fortemente do [[scaffolding|andaimento]] — de quão bem ela é estruturada, e de os estudantes receberem critérios claros e treinamento. Essa dependência é onde a IA entra, como um complemento consistente e conduzido pela rubrica ao feedback específico e consciente do contexto que os pares dão, e crescentemente como um andaimento embutido no próprio processo de avaliação entre pares.
 
-[[wang-student-ai-collaboration-peer-feedback-2026|Wang e Guo (2026)]] constatam que estudantes de inglês como língua estrangeira que revisaram a escrita dos pares por meio de diálogo aberto com uma IA generativa produziram feedback que os destinatários avaliaram como de maior qualidade, com ganhos na resposta emocional e no letramento em feedback que variaram conforme a qualidade do diálogo.
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang e Guo (2026)]] constatam que estudantes de inglês como língua estrangeira que revisaram a escrita dos pares por meio de diálogo aberto com uma [[generative-ai|IA generativa]] produziram feedback que os destinatários avaliaram como de maior qualidade, com ganhos na resposta emocional e no letramento em feedback que variaram conforme a qualidade do diálogo.
 
 ## O que os estudantes aprendem ao avaliar pares
 
@@ -67,6 +67,8 @@ Isso restringe para o que uma nota de par deveria ser usada. Uma marca calibrada
 ## Avaliação entre pares ampliada por IA: PAIRR e a divisão Treinador/Sintetizador
 
 O padrão de desenho dominante mantém o par no centro e acrescenta IA em torno dele. O modelo Revisão por Pares e IA + Reflexão é a instância mais bem documentada. [[pairr-ai-peer-review-2025|Sperber et al. (2025)]] implementaram o PAIRR em 10 cursos de escrita e três cursos de [[stem-education|STEM]] intensivos em escrita, com 654 estudantes (37% de primeira geração, 13% internacionais, 68% [[multilingual-learning|multilíngues]]). Os estudantes redigiam, trocavam revisão entre pares, pediam ao ChatGPT feedback conduzido pela rubrica sobre o mesmo rascunho, avaliavam criticamente ambos, planejavam revisões e refletiam. 58% preferiram o feedback combinado, 36% o feedback entre pares isoladamente, e apenas 6% o feedback de IA isoladamente. As duas fontes eram frequentemente semelhantes (75% relataram semelhanças, descritas como se confirmando e fortalecendo mutuamente) e, quando diferiam, complementares: o feedback de IA era frequentemente chamado de genérico demais (31%), mas dava estratégias de revisão acionáveis sobre organização e estrutura, enquanto o feedback entre pares era mais específico e detalhado (28%) e se apoiava em conhecimento contextual da tarefa. [[ai-ed-evaluation|Avaliar criticamente]] a saída de IA construiu [[ai-literacy|letramento em IA]], e apenas 5,3% dos estudantes mostraram excesso de confiança nela.
+
+Uma segunda redação da mesma implementação de 2024 lê as reflexões para ver como os estudantes descreveram a ferramenta, e não como avaliaram o feedback. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] codificaram as reflexões de revisão das 13 seções e 10 cursos, e constataram que apenas cerca de metade dos estudantes adotou os papéis antropomórficos que o prompt oferecia: tutor (28,6%) e colaborador (23,1%). O restante recorreu a ferramenta ou recurso (9,9%), amigos ou pares (7,7%), robô ou computador (7,7%), ou esquemas próprios. Os autores leem esse posicionamento como o ponto: os estudantes colocaram o chatbot na periferia de uma ecologia de escrita cujo centro é o estudante, os pares e o instrutor.
 
 O padrão se generaliza para a escrita profissional. [[gift-ai-pairr-business-writing-2025|MacArthur et al. (2025)]] aplicaram o PAIRR a um curso de escrita em negócios de nível avançado em que cada uma das cinco tarefas principais exigia um rascunho, uma análise de público, uma revisão por 2–3 pares e uma revisão (34 dos 46 estudantes matriculados participaram; 69% multilíngues). Os estudantes valorizavam o feedback de IA, mas às vezes o achavam genérico demais, e valorizavam o conhecimento contextual dos pares — "meus pares olharam isso da perspectiva do empregador… o ChatGPT não fez isso tanto". Um quarto das reflexões codificadas no estudo PAIRR maior expressou ceticismo sobre o feedback de IA ou notou imprecisões, o que os autores leem como desenvolvimento de letramento em IA. O estudo é descritivo e específico do curso.
 
@@ -99,8 +101,10 @@ As questões abertas dizem respeito à força da evidência, e não apenas ao de
 ## Ideias equivocadas comuns
 
 - **"A defesa oral impede o trabalho assistido por IA."** Os caracteres colados em relação ao total **subiram de 61,0% para 68,1% (p < 0,0001)** depois que toda submissão de CS1 passou a estar sujeita a uma **revisão oral de código de 15 minutos valendo 70% da nota**. O comportamento visado aumentou — e **as notas de exame não caíram e o tempo em tarefa se manteve estável**, enquanto **90% dos estudantes disseram que as revisões os motivaram**. A intervenção funcionou sobre a compreensão, não sobre a colagem.
-- **"Detectar fraude é para o que serve a avaliação oral."** Os resultados medidos foram compreensão e motivação, não redução de texto colado. Julgar o desenho pela sua taxa de detecção lê mal o que ele conquistou.
+- **"Detectar fraude é para o que serve a [[oral-assessment|avaliação oral]]."** Os resultados medidos foram compreensão e motivação, não redução de texto colado. Julgar o desenho pela sua taxa de detecção lê mal o que ele conquistou.
 - **"A revisão entre pares é um substituto mais barato do feedback do instrutor."** O mecanismo é a [[learning-by-teaching|aprendizagem pelo ensino]], e ela aparece até entre máquinas: o discurso semelhante ao da aprendizagem entre pares entre mais de **2,4 milhões de agentes de IA** foi majoritariamente **asserção, e não investigação**. Produzir crítica é um ato diferente de recebê-la.
+
+- **Formulários reflexivos de pares e de si como registro por trás de uma nota de grupo.** [[issa-teamwork-framework-academic-integrity-2024|Issa e Hall (2024)]] usaram um formulário reflexivo de pares por colega de equipe mais um formulário reflexivo de si por estudante numa unidade de pós-graduação em Gestão de Projetos Empresariais, ao lado de uma reunião de 30 minutos com cada equipe em que os membros foram perguntados se sua contribuição era original. Os formulários não foram avaliados como troca de feedback. Eles eram a evidência por pessoa que permitia ao instrutor defender uma nota individual dentro de uma avaliação de equipe valendo 40%. A subida da nota do framework de 27/40 para 31/40 está confundida com um novo docente e sua alegação de integridade não é quantificada, de modo que a parte transferível é a estrutura de registro, e não o tamanho do efeito.
 
 ## Conceitos conectados
 
@@ -144,3 +148,5 @@ As questões abertas dizem respeito à força da evidência, e não apenas ao de
 - [[ai-agents-peer-learning-discourse]] — Discurso semelhante ao de aprendizagem entre pares entre 2,4 milhões de agentes de IA (Chen et al. 2026)
 - [[oneill-presumed-effective-meta-analysis-2026]] — Auditoria de 14 meta-análises de AIED e 59 estudos primários (O'Neill 2026)
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Feedback do professor versus feedback entre pares assistido por IA na escrita de L2: quantidade, foco e trajetórias de melhoria ao longo de duas tarefas (Tang, Li & Luo 2026)
+- [[issa-teamwork-framework-academic-integrity-2024]] — Formulários reflexivos de si e de pares como evidência por pessoa por trás de uma nota de grupo (Issa & Hall 2024)
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Vocabulário de papéis de 654 estudantes: tutor 28,6%, colaborador 23,1%, ferramenta 9,9%, robô 7,7%

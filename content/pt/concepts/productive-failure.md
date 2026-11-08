@@ -1,7 +1,7 @@
 ---
 title: Falência produtiva
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:17:55-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ Os estudantes geram soluções sem apoio cognitivo, apoiando-se no conhecimento 
 - **Prepara os estudantes para aprender da instrução** — eles sabem o que não sabem e conseguem conectar o novo material às suas tentativas.
 - **Aprimora a transferência de conhecimento e as habilidades duráveis** ([[critical-thinking|pensamento crítico]], resiliência, comunicação), reduz o medo de cometer erros e promove atitudes positivas em relação à aprendizagem.
 
-O framework de FP foi estendido por desenhos relacionados, incluindo **falha vicária**, **diversidade de soluções** e **orientação adaptativa** (Braas et al., 2025; Brand et al., 2025).
+O framework de FP foi estendido por desenhos relacionados, incluindo **falha vicária**, **diversidade de soluções** e **orientação adaptativa** (Braas et al., 2025; Brand et al., 2025). Casos podem fornecer o espaço de problema compartilhado para essa primeira tentativa, embora a base de evidências de aprendizagem baseada em casos ainda não tenha testado o emparelhamento diretamente ([[case-based-learning]]).
 
 ## Aprender com enganos e aprender com erros
 
@@ -108,6 +108,7 @@ A falência produtiva conecta-se a [[learning-theories|teorias da aprendizagem]]
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+- [[case-based-learning]] — Casos como espaço de problema compartilhado para a primeira tentativa
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

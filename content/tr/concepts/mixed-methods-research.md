@@ -6,7 +6,7 @@ research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -32,22 +32,23 @@ ai_assist:
 
 Karma yöntemli tasarımlar, nicel yöntemlerin genişliğini, kesinliğini ve nedensel gücünü, nitel yöntemlerin derinliği, bağlamı ve anlamıyla bütünleştirir. Değer önermesi **üçgenlemedir**: bağımsız iplikler aynı sonuca yakınsadığında güven artar; ayrıştığında tutarsızlığın kendisi bilgilendiricidir.
 
-394 GenAI yükseköğretim çalışması boyunca karma yöntem en yaygın araştırma tasarımı olmuştur (213 çalışma, %54), bunu nicel (109, %28) ve nitel (72, %18) araştırma izlemiştir ([[mapping-genai-higher-ed-scoping-review|Lin ve ark. (2026)]]).
+394 [[generative-ai|GenAI]] yükseköğretim çalışması boyunca karma yöntem en yaygın araştırma tasarımı olmuştur (213 çalışma, %54), bunu nicel (109, %28) ve nitel (72, %18) araştırma izlemiştir ([[mapping-genai-higher-ed-scoping-review|Lin ve ark. (2026)]]).
 
 ## Yaygın tasarım örüntüleri
 
 - **Sıralı açıklayıcı (QUAN → qual).** Önce nicel veri toplanır, sonra nitel veri şaşırtıcı ya da anlamlı nicel bulguları açıklar veya bağlamlandırır. [[genai-over-reliance-learning-2026|A mixed-method study of GenAI and sustainable learning]], geliştirmeden aşırı bağımlılığa nicel örüntüyü açıklamak için üç dalgalı anketleri eğitimci görüşmeleriyle eşler.
 - **Sıralı keşfedici (QUAL → quan).** Nitel çalışma teori kurar, hipotez üretir ya da sonra nicel olarak test edilecek ölçüm aracı tasarımını besler. [[becker-chatgpt-typology-physics-2026|A qualitative typology of ChatGPT adoption]], sonraki anket tasarımını besleyebilecek kategoriler üretir.
-- **Ölçüm değişmezliğiyle keşfedici sıralı.** [[trust-calibration-genai-collaborative-regulation-2026|Bu and Li (2026)]], modelin dört boyutunu belirlemek için görüşmeleri kodlar, onlardan 22 maddelik bir ölçüm aracı kurar ve sonra cinsiyet ve disiplin alanı boyunca yapısal, metrik ve skaler değişmezliği 642 kişilik analitik örneklemde test eder — nitel bir ipliğin bir anket aracını beslediğini ve bir değişmezlik testinin yapıların gruplar arasında aynı şekilde davrandığını doğruladığını gösterir.
+- **Ölçüm değişmezliğiyle keşfedici sıralı.** [[trust-calibration-genai-collaborative-regulation-2026|Bu and Li (2026)]], modelin dört boyutunu belirlemek için görüşmeleri kodlar, onlardan 22 maddelik bir ölçüm aracı kurar ve sonra cinsiyet ve disiplin alanı boyunca yapısal, metrik ve skaler değişmezliği 642 kişilik analitik örneklemde test eder — nitel bir ipliğin bir [[self-report-measures|anket aracını]] beslediğini ve bir değişmezlik testinin yapıların gruplar arasında aynı şekilde davrandığını doğruladığını gösterir.
 - **Yakınsayan/paralel.** Nicel ve nitel iplikler eş zamanlı yürür ve analizde bütünleştirilir. [[t2i-competence-paradox-2026|The competence-paradox study]], öğretmen odak gruplarını, öğrenci anketini ve takip görüşmelerini paralel kullanır; [[fouad-bentley-trust-utility-gap-physics-2026|the trust–utility gap study]], fizik öğrencilerinin YZ benimsemesi üzerine anket ve görüşme kanıtlarını birleştirir.
+- **Makine tarafından üretilen bir nicel iplik.** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang ve ark. (2026)]], yakınsayan bir tasarım altında BREQ nicel ipliğini katılımcıların görüşme dökümlerinden üretti; yalnızca insan emeğine dayanmayan bir bütünleştirme yolu. LLM–insan korelasyonları orta ile yüksek arasında değişti (ρ = ,5 ila ,73), madde, kişi ve test düzeyindeki RMSE’ler insan yanıtlarından uzaklığı niceledi ve olumsuz ifadeli 6, 7 ve 11. maddeler en net üçgenleme getirisini işaretleyerek görüşme ile anket kanıtının ayrıştığı yeri gösterdi.
 
 ## Karma yöntemler bilgi tabanında nasıl görünür
 
 - **Mekanizmaları açıklamak.** [[same-ai-different-pathways]], YZ aracılı öğrenmenin mekanizmalarını disiplin-kurum bağlamları arasında çözmek için iplikleri birleştirir; burada yalnızca nicel farklılıklar opak kalırdı.
-- **Sonuç verisini deneyimle tamamlamak.** [[hazra-safetutors-pedagogical-safety-2026|AI tutor safety]], nicel zarar göstergelerini pedagojik zararın nitel anlatılarıyla eşler; [[t2i-competence-paradox-2026]], nicel anket sonuçlarını kimlik pazarlığının nitel anlatılarıyla eşler.
+- **Sonuç verisini deneyimle tamamlamak.** [[hazra-safetutors-pedagogical-safety-2026|AI tutor safety]], nicel zarar göstergelerini [[pedagogy|pedagojik]] zararın nitel anlatılarıyla eşler; [[t2i-competence-paradox-2026]], nicel anket sonuçlarını kimlik pazarlığının nitel anlatılarıyla eşler.
 - **Birleştirme ama havuzlaştırma olmadan.** [[wang-reflective-ai-use-engagement-programming-2026|Wang and Zhao (2026)]], farklı örneklemlerden gelen ve asla birleştirilmeyen bir anketi (N = 131), 66 Eleştirel Etkileşim metninin insan kodlamasını ve programlama kayıtlarını (N = 1.423) koordine eder, YZ’siz iz kolunu onaylayıcı değil sınır testi rolüyle görevlendirir — her iplik yan yana raporlanmak yerine ayrı bir çıkarımsal iş alır.
 - **Tasarım ve değerlendirme.** [[genai-feedback-design-multisite-experiment|A multisite experiment on GenAI feedback design]], deneysel sonuç ölçümünü öğrenenlerden alınan nitel geri bildirimle birleştirir, nicel etki tahminini tasarım rehberliğiyle bütünleştirir.
-- **Büyük bir deneme içinde süreç kanıtı.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]], sistem gözlemini ve yöneticilerle yapılan tartışmaları, sekiz dönem boyunca 8.708 öğrencinin dört yıllık randomize değerlendirmesiyle eşler, 0,05 standart sapma büyüklüğündeki etkileri tespit etmeye güçlendirilmiştir; böylece aynı çalışma bir sohbet robotu programını sürdüren örgütsel koşulları açıklar ve GPA ile süreklilik üzerine sıkı sınırlı sıfır sonuçlar rapor eder.
+- **Büyük bir deneme içinde süreç kanıtı.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]], sistem gözlemini ve yöneticilerle yapılan tartışmaları, sekiz dönem boyunca 8.708 öğrencinin dört yıllık randomize değerlendirmesiyle eşler, 0,05 standart sapma büyüklüğündeki etkileri tespit etmeye güçlendirilmiştir; böylece aynı çalışma bir [[conversational-ai|sohbet robotu]] programını sürdüren örgütsel koşulları açıklar ve GPA ile süreklilik üzerine sıkı sınırlı sıfır sonuçlar rapor eder.
 
 - **Bir politika olgusunu üçgenlemek.** EdTech’te öğrenci mahremiyetinin ertelenmesi çalışması, on iki yarı yapılandırılmış görüşmeyi, iki kodlayıcı tarafından kodlayıcılararası güvenilirlik için puanlanan 48 platformlu bir belge denetimiyle eşler (ortalama Cohen’un κ değeri = 0,781), görüşmeleri mahremiyetin neden ertelendiğini açıklamakta ve denetimi ertelmenin ürettiği açıklama örüntüsünü göstermekte kullanır — hiçbir ipliğin tek başına iddiayı destekleyemediği yakınsayan bir tasarım ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
@@ -65,7 +66,7 @@ Karma yöntemler, [[quantitative-research|quantitative]] ve [[qualitative-resear
 ## Yaygın yanlış anlamalar
 
 - **“Karma yöntemler YZ eğitimi araştırmasında niş bir seçimdir.”** **394 GenAI yükseköğretim çalışması** genelinde karma yöntemler **en yaygın araştırma tasarımıydı (213 çalışma, %54)**; onu nicel (109, %28) ve nitel (72, %18) izledi. Alanın baskın tasarımı, yöntemsel tartışmalarının varsaydığı tasarım değildir.
-- **“Gözlem ve görüşme kanıtı bir sistem iddiasını taşıyabilir.”** Sistem gözlemini ve yönetici görüşmelerini, **sekiz dönem boyunca 8.708 öğrencinin dört yıllık randomize değerlendirmesiyle** ve **0,05 standart sapmalık** etkileri tespit etmeye güçlendirilmiş biçimde eşlemek, nitel ipliğin tek başına yapamadığını gösterir: küçük bir etkiyi güvenilir biçimde tespit etmek. Yöntemleri karıştırmak, iplikler arasında güç aktarmanın bir yolu değildir.
+- **“Gözlem ve görüşme kanıtı bir sistem iddiasını taşıyabilir.”** Sistem gözlemini ve [[administrator|yönetici]] görüşmelerini, **sekiz dönem boyunca 8.708 öğrencinin dört yıllık randomize değerlendirmesiyle** ve **0,05 standart sapmalık** etkileri tespit etmeye güçlendirilmiş biçimde eşlemek, nitel ipliğin tek başına yapamadığını gösterir: küçük bir etkiyi güvenilir biçimde tespit etmek. Yöntemleri karıştırmak, iplikler arasında güç aktarmanın bir yolu değildir.
 - **“Üçgenleme, iki zayıf yöntemin güçlü bir iddia üretmesi demektir.”** Eşlemenin değeri, her ipliğin farklı bir soruyu yanıtlamasıdır. İkisini de yürütüp ardından nitel bulguyu nicel olanın onayı olarak raporlayan bir tasarım üçgenleme yapmamış, aynı şeyi yeniden söylemiştir.
 
 ## Bağlı kavramlar

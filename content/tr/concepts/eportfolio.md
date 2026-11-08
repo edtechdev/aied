@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/eportfolio
-source_updated: "2026-10-25T19:50:00-04:00"
+source_updated: "2026-11-04T11:20:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -31,26 +31,26 @@ ai_assist:
 
 - Bazı araştırmalar, akıl yürütmeyi gerçek zamanlı olarak sınamak ve mesleki uygulamayı yansıtmak amacıyla açıklamalı (annotated) portfolyolar, sözlü savunmalar ve kaydedilmiş anlatımlar önermektedir. Bu durum değerlendirmeyi, sizin girdiğiniz kompozisyon ve sınavlardan ne kadar farklı kılardı — daha adil mi, yoksa ölçeklendirmesi daha mı zor?
 
-- YZ portfolyo sürecini de destekleyebilir: geri bildirim verebilir, taslak hazırlamaya yardımcı olabilir ve yansıtmayı teşvik edebilir. YZ’nin bir öğrencinin öğrenmesine gerçekten yardım etmesi ile portfolyonun ortaya çıkarması gereken düşünmeyi sessizce YZ’nin üstlenmesi arasındaki çizgi nerede?
+- YZ portfolyo sürecini de destekleyebilir: geri bildirim verebilir, taslak hazırlamaya yardımcı olabilir ve [[prompt-engineering|istemlerle]] yansıtmayı teşvik edebilir. YZ’nin bir öğrencinin öğrenmesine gerçekten yardım etmesi ile portfolyonun ortaya çıkarması gereken düşünmeyi sessizce YZ’nin üstlenmesi arasındaki çizgi nerede?
 
 ## Giriş
 
-E-portfolyolar bir tür [[authentic-assessment|otantik değerlendirme]] ve [[formative-assessment|biçimlendirici değerlendirme]]dir: öğrenci çalışmalarını, çoğu zaman yansıtıcı yorumlarla birlikte zaman içinde bir araya getirerek bütüncül olarak değerlendirilebilen bir kanıt kümesi oluştururlar. Güçlü yanları, öğrenmenin *sürecini* — taslaklar, revizyonlar, geri bildirim ve öz-yansıtma — görünür kılmalarıdır; bu da tam olarak YZ’nin kolayca üretemeyeceği ve değerlendiricilerin gerçek öğrenmeyi değerlendirmek için ihtiyaç duyduğu şeydir. Bu durum portfolyoları, üretici YZ çağında değerlendirme tasarımının önde gelen adayı yapar.
+E-portfolyolar bir tür [[authentic-assessment|otantik değerlendirme]] ve [[formative-assessment|biçimlendirici değerlendirme]]dir: öğrenci çalışmalarını, çoğu zaman yansıtıcı yorumlarla birlikte zaman içinde bir araya getirerek bütüncül olarak değerlendirilebilen bir kanıt kümesi oluştururlar. Güçlü yanları, öğrenmenin *sürecini* — taslaklar, revizyonlar, geri bildirim ve [[reflection|öz-yansıtma]] — görünür kılmalarıdır; bu da tam olarak YZ’nin kolayca üretemeyeceği ve değerlendiricilerin gerçek öğrenmeyi değerlendirmek için ihtiyaç duyduğu şeydir. Bu durum portfolyoları, üretici YZ çağında değerlendirme tasarımının önde gelen adayı yapar.
 
 ## YZ çağında e-portfolyolar
 
 Bilgi tabanının araştırmaları, e-portfolyoların YZ ile verimli bütünleştirmenin ve değerlendirme tasarımının giderek merkezinde olduğunu göstermektedir.
 
 - **Portfolyo değerlendirmesi, üretici YZ’ye göreceli olarak dayanıklıdır.** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du (2025)]], üretici YZ’ye en dayanıklı otantik değerlendirme biçimleri arasında **toplumsal katkı portfolyoları** ile denetlenebilir kaynak zincirlerine (auditable provenance chains) sahip ortaklaşa üretilmiş ürünleri belirtir. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection (2025)]] de akıl yürütmeyi gerçek zamanlı, mesleki uygulamayı yansıtan biçimde sınamak için **açıklamalı portfolyolar / sözlü savunmalar / kaydedilmiş anlatımlar** önermektedir.
-- **YZ destekli portfolyo değerlendirmesi.** [[ni-lam-multiliteracies-ai-portfolio-2026|Ni & Lam (2026)]], çok okuryazarlık (multiliteracies) gelişimi için **YZ destekli portfolyo değerlendirmesine** ilişkin öğrenci algılarını inceleyerek YZ’nin portfolyo *sürecini* (geri bildirim, taslak hazırlama, yansıtma) destekleyebileceğini ve katılımı artırabileceğini, öğrencilerin ise YZ geri bildirimini eleştirel biçimde değerlendirdiğini göstermiştir.
-- **Dil öğreniminde ChatGPT + e-portfolyo.** [[sutama-chatgpt-eportfolio-speaking-2026|Laksana ve ark. (2026)]], EFL konuşma için ChatGPT’yi e-portfolyo değerlendirmesiyle (CEA modeli) birleştirmiştir: MANOVA, konuşma performansında (F(1)=48.554, p<.001) ve [[feedback-literacy|geri bildirim okuryazarlığı]]nda (F(1)=16.135, p<.001) anlamlı kazanımlar olduğunu göstermiş; e-portfolyolar hem konuşma becerisini hem de geri bildirimi etkin kullanma yönündeki üstbilişsel becerileri desteklemiştir.
+- **YZ destekli portfolyo değerlendirmesi.** [[ni-lam-multiliteracies-ai-portfolio-2026|Ni & Lam (2026)]], çok okuryazarlık (multiliteracies) gelişimi için **YZ destekli portfolyo değerlendirmesine** ilişkin öğrenci algılarını inceleyerek YZ’nin portfolyo *sürecini* (geri bildirim, taslak hazırlama, yansıtma) destekleyebileceğini ve katılımı artırabileceğini, öğrencilerin ise [[ai-feedback-quality|YZ geri bildirimini]] eleştirel biçimde değerlendirdiğini göstermiştir.
+- **[[language-learning|Dil öğreniminde]] ChatGPT + e-portfolyo.** [[sutama-chatgpt-eportfolio-speaking-2026|Laksana ve ark. (2026)]], EFL konuşma için ChatGPT’yi e-portfolyo değerlendirmesiyle (CEA modeli) birleştirmiştir: MANOVA, konuşma performansında (F(1)=48.554, p<.001) ve [[feedback-literacy|geri bildirim okuryazarlığı]]nda (F(1)=16.135, p<.001) anlamlı kazanımlar olduğunu göstermiş; e-portfolyolar hem konuşma becerisini hem de geri bildirimi etkin kullanma yönündeki [[metacognition|üstbilişsel]] becerileri desteklemiştir.
 - **YZ çağı değerlendirme stratejisi olarak portfolyolar.** [[responsible-assessment-ai-era-stanford-2026|Responsible assessment (2026)]], tek seferlik sınavdan **portfolyolarla sürekli yerleşik değerlendirmeye** ve yetkinlik temelli yaklaşımlara geçilmesini savunmaktadır. [[pbl-structural-conditions-ai-2026|Rowe (2026)]], ürünün gösterge olarak çökmesi durumunda ölçekli değerlendirmenin açık sorununa kısmi bir yanıt olarak portfolyoları (sözlü sınavlar ve gözlemlenen uygulamalarla birlikte) adlandırmaktadır.
 - **Değerlendirilebilir öğrenme izleri olarak portfolyolar.** [[learn-framework-responsible-genai-pbl-2026|Uden & Hwang (2026)]], LEARN çerçevesinin bir mekanizması olarak **kişisel öğrenme portfolyolarını** kullanır; bunlar, YZ bağımlılığını şeffaf ve denetlenebilir kılan değerlendirilebilir öğrenme izleridir (portfolyolar, YZ kullanımı açıklamaları).
 - **Hibrit öğrenenler için sembiyotik portfolyolar.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]], post-insan/hibrit öğrenen için beş ölçütlü bir rubrikle (Üretici Diyalog, Epistemik Denetim, Eleştirel Yansıtma vb.) değerlendirilen bir **Sembiyotik Portfolyo** önermektedir — insan+YZ işbirliğini değerlendirmeye yönelik açık bir modeldir.
 
 ## E-portfolyolar neden YZ bütünleştirmesi için önemlidir
 
-E-portfolyolar, tek bir nihai ürünün önüne **süreci, yansıtmayı ve gösterilmiş anlayışı** geçirdikleri için YZ’nin merkezi sorununu doğrudan ele alırlar: YZ cilalanmış bir ürün üretebildiğinde, ürün artık onun ardındaki katılımı kanıtlamaz. E-portfolyolar değerlendirmeyi, ayakta kalan kanıtlara — taslaklar, revizyonlar, akıl yürütme izleri ve yansıtıcı öz-değerlendirme — doğru kaydırırken YZ’nin kendisi geri bildirim üretmede, yansıtmayı iskelelemede ve (uygun rubrik tasarımıyla) değerlendirmeyi desteklemede yardımcı olabilir. Bu durum e-portfolyoları [[generative-ai|üretici YZ]] çağında [[authentic-assessment|otantik]], [[formative-assessment|biçimlendirici]] ve [[process-oriented-assessment|süreç temelli değerlendirme]]nin temel taşı ve [[feedback-literacy|geri bildirim okuryazarlığı]] ile [[self-regulated-learning|öz-düzenlemeli öğrenme]] için doğal bir yuva yapar.
+E-portfolyolar, tek bir nihai ürünün önüne **süreci, yansıtmayı ve gösterilmiş anlayışı** geçirdikleri için YZ’nin merkezi sorununu doğrudan ele alırlar: YZ cilalanmış bir ürün üretebildiğinde, ürün artık onun ardındaki katılımı kanıtlamaz. E-portfolyolar değerlendirmeyi, ayakta kalan kanıtlara — taslaklar, revizyonlar, akıl yürütme izleri ve yansıtıcı [[self-assessment|öz-değerlendirme]] — doğru kaydırırken YZ’nin kendisi geri bildirim üretmede, yansıtmayı [[scaffolding|iskelelemede]] ve (uygun rubrik tasarımıyla) değerlendirmeyi desteklemede yardımcı olabilir. Bu durum e-portfolyoları [[generative-ai|üretici YZ]] çağında [[authentic-assessment|otantik]], [[formative-assessment|biçimlendirici]] ve [[process-oriented-assessment|süreç temelli değerlendirme]]nin temel taşı ve [[feedback-literacy|geri bildirim okuryazarlığı]] ile [[self-regulated-learning|öz-düzenlemeli öğrenme]] için doğal bir yuva yapar.
 
 ## Yaygın yanlış anlamalar
 
@@ -72,7 +72,7 @@ E-portfolyolar, tek bir nihai ürünün önüne **süreci, yansıtmayı ve göst
 
 **Geliştiriciler için**
 
-- Cilalı bir nihai görünüm yerine revizyon geçmişi ve sürümleme için inşa edin; pedagoji farkta yaşar.
+- Cilalı bir nihai görünüm yerine revizyon geçmişi ve sürümleme için inşa edin; [[pedagogy|pedagoji]] farkta yaşar.
 - Yansıtma istemlerini değerlendirilebilecek kadar yapılandırılmış yapın, çünkü yapılandırılmamış yansıtma, YZ üretimi metnin en kolay geçtiği yerdir.
 
 **Araştırmacılar için**
@@ -92,6 +92,7 @@ E-portfolyolar, tek bir nihai ürünün önüne **süreci, yansıtmayı ve göst
 - [[student-engagement]]
 - [[language-learning]]
 - [[higher-ed]]
+- [[reflection]]
 
 ## Bağlı Makaleler
 

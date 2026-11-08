@@ -1,7 +1,7 @@
 ---
 title: Sostenibilità
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:18:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-10-28T18:53:18-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -31,7 +31,7 @@ ai_assist:
 ## Domande da considerare
 
 - La pagina distingue due percorsi: «IA per la sostenibilità» (usare l'IA per promuovere risultati di sostenibilità) e «IA sostenibile» (ridurre l'impronta ambientale ed etica dell'IA stessa). Riesci a immaginare un modo in cui uno strumento di IA possa promuovere un obiettivo mentre mina l'altro?
-- L'addestramento e l'esecuzione di grandi modelli linguistici comporta un'impronta reale di carbonio e di acqua. Quando un'istituzione promuove la sostenibilità come valore e al tempo stesso impiega IA ad alta intensità energetica, quali tensioni emergono — e chi dovrebbe valutarle?
+- L'addestramento e l'esecuzione di [[llm|grandi modelli linguistici]] comporta un'impronta reale di carbonio e di acqua. Quando un'istituzione promuove la sostenibilità come valore e al tempo stesso impiega IA ad alta intensità energetica, quali tensioni emergono — e chi dovrebbe valutarle?
 - Prima di continuare la lettura, come definiresti l'«istruzione sostenibile»? La pagina la tratta come un progetto basato sui valori e centrato sull'essere umano, distinto dall'uso dell'istruzione come strumento per la sostenibilità — in cosa differiscono?
 - Se ci si aspetta che l'istruzione sviluppi negli studenti una «coscienza della sostenibilità», quale ruolo potrebbe svolgere l'IA in questo — e l'integrazione dell'IA nel curriculum potrebbe insegnare la sostenibilità mentre la sua stessa impronta contraddice silenziosamente la lezione?
 - Che cosa significherebbe per un'istituzione educativa essere genuinamente sostenibile nel proprio uso dell'IA, e quali delle sue decisioni (appalti, implementazione, insegnamento) ritieni siano più importanti?
@@ -40,7 +40,7 @@ ai_assist:
 
 La sostenibilità nell'AIED si articola in tre cornici che si sovrappongono: **istruzione sostenibile** (un progetto educativo basato sui valori e centrato sull'essere umano), **sostenibilità nell'istruzione** (uso dell'istruzione come strumento per la sostenibilità) e **educazione allo sviluppo sostenibile** (ESD, l'agenda politica globale, in particolare [[k-12|Obiettivo di sviluppo sostenibile 4]]). L'IA interseca ciascuna di queste in modo diverso — e il campo distingue due percorsi fondamentali: **IA per la sostenibilità** (l'IA come strumento per raggiungere risultati di sostenibilità) e **IA sostenibile** (ridurre l'impronta ambientale ed etica dell'IA stessa).
 
-Il percorso ambientale ha un divario documentato: [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] riportano che le conseguenze ambientali della GenAI non erano discusse nei documenti di policy dell'università nel sito dello studio, e sostengono che una guida istituzionale che le omette non affronta le preoccupazioni che docenti e studenti nutrono.
+Il percorso ambientale ha un divario documentato: [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] riportano che le conseguenze ambientali della [[generative-ai|GenAI]] non erano discusse nei documenti di policy dell'università nel sito dello studio, e sostengono che una guida istituzionale che le omette non affronta le preoccupazioni che docenti e studenti nutrono.
 
 ## La tassonomia in due parti
 
@@ -51,7 +51,7 @@ La copertura della base di conoscenze, ancorata a [[daniel-ai-sustainability-sco
 
 ## Usare l'IA per la sostenibilità nell'istruzione
 
-Un corpo di ricerca in crescita tratta l'IA come uno strumento *per* l'educazione alla sostenibilità e per i suoi risultati:
+Un corpo di ricerca in crescita tratta l'IA come uno strumento *per* l'[[environmental-education|educazione alla sostenibilità]] e per i suoi risultati:
 
 - **Curricoli integrati con l'IA che sviluppano la coscienza della sostenibilità.** [[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]] propongono il framework AI-SEE (guidato dall'intelligenza, potenziato dal verde, guidato dalla responsabilità, integrato nella pratica), che integra l'IA in tutto il [[curriculum-design|curriculum]] come [[scaffolding|impalcatura]] cognitiva e risorsa per l'analisi della sostenibilità a livello di sistema. In un caso relativo a 144 studenti di ingegneria, ha accresciuto la coscienza della sostenibilità e prodotto un [[student-engagement|coinvolgimento]] comportamentale a livello personale, accademico, professionale e sociale, con una diffusione sociale che oltrepassava l'aula.
 - **IA nell'educazione verde e sostenibile.** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] ha rilevato che la [[learning-design|progettazione didattica]] assistita dall'IA, sotto i vincoli della Pedagogia dello sviluppo sostenibile, ha migliorato i flussi di lavoro degli insegnanti e la progettazione [[pedagogy|pedagogica]]. [[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]] hanno rilevato che l'uso pratico dell'IA da parte degli insegnanti nella scienza e nell'energia verde e il loro coinvolgimento nello sviluppo di materiali allineati all'ESD — più della conoscenza astratta dell'IA o degli atteggiamenti — prediceva la loro capacità di integrare l'IA nell'[[k-12|educazione all'energia verde]].

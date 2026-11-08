@@ -8,7 +8,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ Sorgu temelli öğrenme, öğrenci güdümlü sorular ve sorgulama sürecinin ke
 
 ## Sorgu temelli öğrenme bilgi tabanında nasıl karşımıza çıkıyor
 
-**Ortak araştırmacı olarak YZ.** STEAM’da sorgu temelli öğrenme için ChatGPT üzerine yürütülen bir [[meta-analysis-systematic-review|sistematik derleme]] ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 çalışma), ChatGPT’nin ağırlıklı olarak kavramsallaştırma, araştırma ve tartışma aşamalarında — öğrenme aracı, özel öğretmen, öğrenme akranı, alan uzmanı ve [[teacher-role|öğretim]] yardımcısı olarak — kullanıldığını bulmuş; performansı, [[critical-thinking|kritik düşünmeyi]], [[student-engagement|katılımı]] ve motivasyonu iyileştirirken, çıktı yetkili kabul edildiğinde aşırı güvenme, halüsinasyon ve yüzeysel sonuç riskleri yaratmıştır.
+**Ortak araştırmacı olarak YZ.** STEAM’da sorgu temelli öğrenme için ChatGPT üzerine yürütülen bir [[meta-analysis-systematic-review|sistematik derleme]] ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 çalışma), ChatGPT’nin ağırlıklı olarak kavramsallaştırma, araştırma ve tartışma aşamalarında — öğrenme aracı, özel öğretmen, öğrenme akranı, alan uzmanı ve [[teacher-role|öğretim]] yardımcısı olarak — kullanıldığını bulmuş. Bu kullanım performansı, [[critical-thinking|kritik düşünmeyi]], [[student-engagement|katılımı]] ve motivasyonu iyileştirirken, çıktı yetkili kabul edildiğinde aşırı güvenme, [[hallucination-risk|halüsinasyon]] ve yüzeysel ve yüzeysel sonuç riskleri yaratmıştır.
 
 **Başlangıç noktası olarak soru oluşturma.** 97 üçüncü sınıf öğrencisiyle yürütülen bir yarı-deneysel çalışma ([[dai-chatbots-problem-posing-primary-2026]]), GenAI [[conversational-ai|sohbet robotu]]nun fen bilimleri soru oluşturmada arama motorlarını anlamlı biçimde geride bıraktığını, soru kalitesini iyileştirdiğini ve bilişsel yükü düşürürken daha bütünleşik epistemik [[network-analysis|ağlar]] ürettiğini göstermiştir.
 
@@ -47,19 +47,23 @@ Sorgu temelli öğrenme, öğrenci güdümlü sorular ve sorgulama sürecinin ke
 
 [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]], YZ katkısını sorgulamanın kendisinden üç gruplu bir iklim çalışmasında ayırmıştır: YZ destekli sorgulama, yalnızca sorgulama yapan akranlarını karar vermede (d = 0,69) geride bırakmış; izleme ve uyarlanabilir yönetimde en büyük kazanımlar (d = 1,37) elde edilirken, temel veri toplama tüm koşullarda eşit biçimde iyileşmiştir.
 
-**[[equity-in-ai-education|Eşitlik]] ve bağlam.** Kavramsal bir çerçeve, üretici YZ ortak tasarımını açık eğitim uygulamalarıyla birleştirerek, düşük kaynaklı bağlamlarda sorgu odaklı STEM öğretimini destekler; YZ tarafından üretilen, [[multilingual-learning|çok dilli]], bağlamsal olarak ilgili [[simulation|simülasyonlar]] kullanır.
+**[[equity-in-ai-education|Eşitlik]] ve bağlam.** Kavramsal bir çerçeve, üretici YZ ortak tasarımını [[open-education|açık eğitim uygulamalarıyla]] birleştirerek, düşük kaynaklı bağlamlarda sorgu odaklı STEM öğretimini destekler; YZ tarafından üretilen, [[multilingual-learning|çok dilli]], bağlamsal olarak ilgili [[simulation|simülasyonlar]] kullanır.
 
 **YZ ile iskelelenmiş kanıt karşılaştırması.** [[ai-information-extraction-undergraduate-thesis-2026|An ve meslektaşları (2026)]], YZ destekli bir bilgi çıkarım sisteminin lisans literatür taramasını özetlemeden **kanıt organizasyonu ve karşılaştırmasına** doğru nasıl kaydırdığını göstermektedir — öğrenciler yalıtılmış okumadan çalışmalar arası karşılaştırmaya ve araştırma temelli öğrenmeyi ve tez tamamlamayı destekleyen kanıta dayalı gerekçelendirmeye geçmektedir. Bu, [[generative-ai|YZ]]’nin [[stem-education|STEM]] lisans araştırmalarında sorgulama süreçlerini nasıl iskeleyeleyebileceğini somutlaştırır.
 
 ## YZ bütünleştirmesi için sorgu temelli öğrenmenin önemi
 
-SÖ’nün soru odaklı, sürece odaklı yapısı, verimli YZ kullanımının doğal yuvasıdır: öğrenciler YZ ile *birlikte* öğrenir, ikame olarak *ondan* değil. Bilgi tabanının kanıtları çekirdek bir gerginlikte birleşir — YZ bilgi erişiminin ve soru formülasyonunun sürtünmesini azaltabilir ([[cognitive-offloading|bilişsel yükü]] düşürerek daha derin [[metacognition|yansıtma]]yı mümkün kılarak), ancak tasarım iskelelemesi olmadan aşırı güvenme ve üst düzey bilişi atlama riski taşır. YZ’nin sorgulamayı derinleştirip yerine geçmediğini belirleyen kaldıraçlar, kolaylaştırıcının rolü, iskelelerin tasarımı ve değerlendirme becerilerinin açık öğretimidir.
+SÖ’nün soru odaklı, sürece odaklı yapısı, verimli YZ kullanımının doğal yuvasıdır: öğrenciler YZ ile *birlikte* öğrenir, ikame olarak *ondan* değil. Bilgi tabanının kanıtları çekirdek bir gerginlikte birleşir — YZ bilgi erişiminin ve soru formülasyonunun sürtünmesini azaltabilir ([[cognitive-offloading|bilişsel yükü]] düşürerek daha derin [[reflection|yansıtma]]yı mümkün kılarak), ancak tasarım iskelelemesi olmadan aşırı güvenme ve üst düzey bilişi atlama riski taşır. YZ’nin sorgulamayı derinleştirip yerine geçmediğini belirleyen kaldıraçlar, kolaylaştırıcının rolü, iskelelerin tasarımı ve değerlendirme becerilerinin açık öğretimidir.
+
+Bir çalışma, kolaylaştırıcının yanına bir araç eklemek yerine kolaylaştırıcının yerini alır. Dört haftalık bir farmakoloji dersinde 136 ikinci sınıf tıp öğrencisi, kolaylaştırıcı öncülüğündeki ve YZ öncülüğündeki probleme dayalı öğrenme arasında bölündü. Her iki kol da ön/son çoktan seçmeli testlerde anlamlı kazanım sağladı ve gruplar arası fark anlamlı değildi (p = 0,474); ancak kolaylaştırıcı öncülüğündeki gruplar eleştirel düşünmede (14,75’e karşı 13,09, p < 0,001) ve [[group-work|grup değerlendirmesi]] rubriğinde (26,51’e karşı 24,74, p = 0,035) daha yüksek puan aldı ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty ve Rao, 2026]]). Sorgu çıktıları türe göre ayrıldı: içerik bilgisi ikameyi atlattı, muhakeme süreci atlatamadı; kolaylaştırıcının kaldıraç olduğunu söylemek tam olarak bunu anlatır.
 
 ### Verimli başarısızlık ve sorgulama
 
 [[productive-failure|Verimli başarısızlık (VB)]] sorgu temelli öğrenmenin en yapılandırılmış kuzenidir: öğrenciler doğrudan öğretimden *önce* problemleri araştırır ve çözümler üretir, sonra pekiştirir. Her ikisi de öğrenci tarafından üretilen denemelerin (başarısız olanlar dahil) [[prior-knowledge|ön bilgiyi etkinleştirdiği]] ve öğrenenleri öğretimden öğrenmeye hazırladığı öncülünü paylaşır. YZ çağının VB [[research-methods-aied|araştırması]], YZ’nin sorgulamayı kısa devre yapmadan nasıl iskeleyeleyeceğini keskinleştirir: [[kim-ai-productive-failure-adult-2026|Kim ve ark. (2026)]], mücadeleyi problem araştırması ve çözüm üretimi yoluyla korumaya dair YZ tasarım ilkeleri türetir; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech ve ark. (2025)]], LLM özel öğretmenlerinin yanıtları saklayacak ve birden çok deneme gerektirecek biçimde yönlendirilebileceğini gösterir; [[lukesova-clue-before-correction-2026|clue-before-correction]] görevleri, öğrenenlerin muhakemeyi kendilerinin yapmasını sürdüren ipucu tabanlı (doğrudanın aksine) iskelelemeyi örneklendirir. Bunlar, sorgulamayı ve VB’yi, YZ’nin kalıcı öğrenmenin oluştuğu [[desirable-difficulties|verimli mücadeleyi]] ortadan kaldırmaması gerektiğine dair daha geniş zorunluluğa bağlar.
 
 Açık alan ortamlarında aynı zorunluluk uzamsallaşır: GenAI, öğrenciler kanıtla karşılaşmadan önce ne fark edeceklerini önceden yapılandırabilir; bu nedenle gözlemler ve ilk yorumlar kaydedilene kadar üretilen açıklamayı saklayan alan-öncelikli bir dizi sorgulamayı korur ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
+**66 çalışmalık bir harita, üretken YZ’yi en çok araştırmanın yanına, en az yönlendirmenin yanına yerleştiriyor.** [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya ve ark. (2026)]], GenAI kullanımını beş sorgu aşamasına kodladı ve desteğin en sık araştırmada (45 çalışma, %68,2), ardından sonuçta (29, %43,9), tartışmada (28, %42,4) ve kavramsallaştırmada (27, %40,9) bildirildiğini, yönlendirmenin ise en sonda (20, %30,3) geldiğini buldu. On bir çalışma beş aşamanın tümünü kapsıyordu, 19’u tek bir aşamayı kapsıyor ve dokuzu hiçbirini adlandırmıyordu. Yalnızca 8 çalışma (%12,1) sorgu becerilerini ölçtü ve bunların 4’ünde karşılaştırma koşulu vardı; yani bu, sorgunun ne kazandığının değil araçların nereye yerleştirildiğinin haritasıdır.
 
 ## Yaygın yanlış anlamalar
 
@@ -104,3 +108,5 @@ Açık alan ortamlarında aynı zorunluluk uzamsallaşır: GenAI, öğrenciler k
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
 - [[geoscience-field-learning-genai-2026]] — A field-first instructional model that keeps GenAI from pre-structuring what learners notice (Choi 2026)
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — İnsan kolaylaştırıcı ile YZ aracılı probleme dayalı öğrenme: eşit içerik kazanımı, kolaylaştırıcı olmadan daha zayıf eleştirel düşünme (Shetty ve Rao 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Beş sorgu aşaması boyunca üretken YZ’nin 66 çalışmalık haritası; yalnızca 8 çalışma sorgu becerilerini ölçüyor

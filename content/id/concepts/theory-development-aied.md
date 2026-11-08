@@ -8,9 +8,9 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-08T14:09:36-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,9 @@ Berteori di sisi guru kini membuat komitmen keterujian yang sama: Model Kapabili
 - **Paradigma [[student-engagement|keterlibatan]] manusia-GAI.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] menjawab "defisit teori" bidang ini dengan mendasarkan tujuh paradigma keterlibatan manusia-GAI yang diwujudkan (terjaga, berfokus kemungkinan, tertambah, perintis, simbiotik, berbasis nilai, [[equity-in-ai-education|keadilan]]) pada model multidimensi Schommer tentang keyakinan epistemologis personal — sebuah teori epistemologis, bukan berfokus alat, tentang bagaimana individu memosisikan diri secara berbeda terhadap AI.
 - **Kerangka Ko-Agensi Ekologis.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] berargumen bahwa [[generative-ai|AI generatif]] memindahkan otoritas epistemologis dari guru ke siswa ke mesin, dan memperkenalkan kerangka yang mendefinisikan ko-agensi melalui tiga dimensi yang saling bergantung — relasional, regulatif (dipetakan ke [[self-regulated-learning|siklus SRL]]), dan [[pedagogy|pedagogis]] (kontinum adopsi guru) — semuanya dibatasi oleh kondisi akuntabilitas epistemik manusia yang tidak dapat dinegosiasikan (kontestabilitas, provenans, dan non-delegasi kredit moral/intelektual). Ia memosisikan [[agency]] sebagai masalah desain *epistemik* alih-alih urusan [[usability-research|kegunaan]], memberi institusi bahasa yang lebih tepat daripada "keseimbangan" untuk mengelola integrasi GenAI.
 - **Agensi epistemik relasional dan ketergantungan epistemik.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] menyumbangkan akun kritis-integratif tentang kapan ketergantungan yang dimediasi AI mempertahankan versus menggusur pertimbangan. Mereka mengoperasionalkan batas antara ketergantungan yang produktif dan ketergantungan yang berbahaya melalui enam kriteria diagnostik (kontestabilitas, keterpulihan, transfer, keterlacakan, tanggung jawab terdistribusi, pluralitas epistemik) dan melacak empat jalur sosioteksnis (otoritas fasih, delegasi tanpa gesekan, sintesis buram, ketergantungan terinstitusionalisasi). Usulan normatif mereka, **agensi epistemik relasional**, memperluas garis otonomi relasional dan ko-agensi epistemik dengan mempertahankan asimetri eksplisit — AI dapat membentuk penalaran tanpa tanggung jawab timbal balik atau otoritas yang sah — sekaligus mengintegrasikan tanggung jawab dan keadilan epistemik di tingkat institusional. Sebagai teori belajar dengan AI, ia memindahkan pertanyaan bidang ini dari apakah AI membantu atau merugikan ke tindakan epistemik mana yang dipertahankan, diubah, atau digusur, dan menjadikan *desain ketergantungan* alih-alih sekadar penggunaan sebagai objek intervensi pedagogis dan institusional.
+
+Luaran model itu naik ke status pengetahuan kolektif tanpa jaminan komunitas yang dibutuhkan status tersebut — yang oleh Webb et al. (2026) disebut pseudo-cPCK, dan alasan bidang ini membutuhkan konstruk teoretis baru alih-alih antarmuka yang lebih baik ([[webb-pck-genai-2026|Webb et al., 2026]]).
+
 
 ## Memajukan teori mapan
 
@@ -165,3 +168,4 @@ Pengembangan teori dan [[philosophy-of-ai-in-education|filsafat AI dalam pendidi
 - [[ai-connectedness-adolescent-mental-health-2026]] — Ketersambungan kecerdasan buatan: konstruk tiga dimensi dengan enam proposisi yang dapat difalsifikasi untuk pengujian selanjutnya
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Siklus kemitraan kognitif
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Kesulitan yang diinginkan dan kegagalan produktif diterapkan pada agensi interpretatif dalam pendidikan di luar negeri
+- [[webb-pck-genai-2026]] — Tiga vinyet dan konstruk baru, pseudo-cPCK, untuk luaran yang meniru pengetahuan yang tervalidasi secara kolektif tanpa jaminan (Webb et al. 2026)

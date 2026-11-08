@@ -10,7 +10,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -178,6 +178,9 @@ Utafiti wa kwanza wa Nadharia ya Tabia Iliyopangwa wa nia ya makosa ya kitaaluma
 
 OECD (2023) inarekodi kwamba hadi mwanzo wa 2024 hakuna hata moja kati ya nchi kumi na nane zilizochunguzwa iliyokuwa na udhibiti mahususi wa AI ya kizalishaji kwa elimu na tisa zilipeleka utawala hadi ngazi ya shule. Ikisomwa kupitia dhana ya Ahmed ya kutotenda kwa njia inayoonekana, msamiati huo unaonyesha mwitikio wa kimaadili bila utaratibu wowote wa kuutekeleza, hivyo uwajibikaji unatajwa na kila mhusika kwa wakati mmoja na haupatikani kwa yeyote. Hashem anaita tokeo hilo **habitus ya udanganyifu** inayobadilika: mielekeo kuelekea ushiriki halali inayosawazishwa upya chini ya kutokuwa na uhakika kwa muda mrefu, ikitofautishwa kwa mtaji wa kitaaluma ambao wanafunzi wanakuja nao, huku udanganyifu na kudanganywa vikitendewa kama hali zinazotokea kwa wakati mmoja badala ya njia mbadala. Yote yanapendekezwa kutoka maandishi ya sera, si kuzingatiwa kwa wanafunzi.
 
+Kati ya wanafunzi 546 wa shahada ya kwanza, uadilifu ulishika nafasi ya kwanza kati ya vipimo vitano vya mtazamo (3.79 kati ya 5) na haukutofautiana kwa programu ya shahada, hivyo tofauti za taaluma zinaelekezwa katika matumizi ya AI na mahitaji ya ujuzi badala ya kiasi ambacho uadilifu unajalisha ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
+
 ## Dhana Potofu za Kawaida
 
 - **"Zana za ugunduzi hutambua uandishi wa AI."** Maandishi yaliyozalishwa na AI **yamepita kama ya mwandishi wa binadamu katika hadi 80% ya kesi**, wakati ushahidi wa ugunduzi unaweka **ugunduzi wa mashine katika takriban 80% dhidi ya 78.4% kwa wakadiriaji wa binadamu**. Hukumu ya binadamu na ya mashine ni karibu sawa kwa kutokuaminika, hivyo hukumu ya ugunduzi si ushahidi wa uandishi.
@@ -256,4 +259,5 @@ OECD (2023) inarekodi kwamba hadi mwanzo wa 2024 hakuna hata moja kati ya nchi k
 
 - [[issa-teamwork-framework-academic-integrity-2024]] — tathmini ya kazi ya pamoja yenye uthibitisho kwa kila mwanachama kama muundo wa uthibitishaji (Issa & Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Uwajibikaji badala ya uwiano wa maandishi kama tatizo la uadilifu
+- [[crisol-moya-integrity-assessment-2026]] — Wanafunzi 546: uadilifu unashika nafasi ya kwanza na hautofautiani kwa programu za shahada (Crisol Moya et al. 2026)
 

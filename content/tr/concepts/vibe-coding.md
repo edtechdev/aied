@@ -9,7 +9,7 @@ level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
 translation_of: concepts/vibe-coding
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Vibe coding** — altındaki kaynak kodu doğrudan okumadan ya da düzenlemeden, bir büyük dil modelini yinelemeli biçimde istemekle ve ortaya çıkan davranışı yargılayarak yazılım geliştirme. 2025’te Andrej Karpathy tarafından, kişinin “kodun var olduğunu bile unuttuğu” iş akışı olarak popülerleştirilen vibe coding, doğal dille programlama ve son kullanıcı yazılım geliştirmenin LLM’ye özgü gerçekleşmesidir — bu bilgi tabanında eş anlamlı sayılan çerçevelemeler — ve düz yazının asıl programlama arayüzü hâline geldiği yaklaşım.
+> **Vibe coding** — altındaki kaynak kodu doğrudan okumadan ya da düzenlemeden, bir [[llm|büyük dil modelini]] yinelemeli biçimde istemekle ve ortaya çıkan davranışı yargılayarak yazılım geliştirme. 2025’te Andrej Karpathy tarafından, kişinin “kodun var olduğunu bile unuttuğu” iş akışı olarak popülerleştirilen vibe coding, doğal dille programlama ve son kullanıcı yazılım geliştirmenin LLM’ye özgü gerçekleşmesidir — bu bilgi tabanında eş anlamlı sayılan çerçevelemeler — ve düz yazının asıl programlama arayüzü hâline geldiği yaklaşım.
 
 ## Üzerine Düşünülmesi Gereken Sorular
 
@@ -47,7 +47,7 @@ Vibe coding’in tanımı hâlâ akışkanlığını korumaktadır. Kimisi terim
 
 ### Vibe coding son kullanıcı yazılım geliştirme ve öğretmen araçları olarak
 
-Vibe coding’in büyük bir vaadi, programcı olmayanların — [[teacher-role|öğretmenler]] ve alan uzmanları dâhil — kendi yazılımlarını geliştirmesine izin vermesidir; bu, LLM çağının son kullanıcı yazılım geliştirme biçimidir. Bir [[gaide-vibe-coding-k12-teachers|GAIDE çerçevesi çalışması]], (programcı olmayan) K-12 öğretmenlerinin sekiz haftalık bir atölyede YZ destekli öğrenme araçları yaratmak için vibe coding kullandığını, [[ai-literacy|YZ okuryazarlıklarını]] yükselttiğini ve “yaratarak öğrenme”nin profesyonel gelişim modeli olduğunu göstermiştir. Yükseköğretimde bir öğretmen, birkaç gün içinde vibe coding yoluyla [[vibe-coding-programming-process-visualizer|IDE etkinlik kayıtlarından bir programlama süreci görselleştirici]]yi hızla inşa etmiş; öğrencilerin programlama süreçlerini öğretme ve [[academic-integrity]] incelemesi için görünür kılmıştır. Bu örnekler vibe coding’i yalnızca bir öğrenen becerisi değil, [[educational-development|eğitim teknolojisini kimin yaratabileceğini yeniden şekillendiren]] bir yazarlık kapasitesi olarak konumlandırır.
+Vibe coding’in büyük bir vaadi, programcı olmayanların — [[teacher-role|öğretmenler]] ve alan uzmanları dâhil — kendi yazılımlarını geliştirmesine izin vermesidir; bu, LLM çağının son kullanıcı yazılım geliştirme biçimidir. Bir [[gaide-vibe-coding-k12-teachers|GAIDE çerçevesi çalışması]], (programcı olmayan) [[k-12|K-12]] öğretmenlerinin sekiz haftalık bir atölyede YZ destekli öğrenme araçları yaratmak için vibe coding kullandığını, [[ai-literacy|YZ okuryazarlıklarını]] yükselttiğini ve “yaratarak öğrenme”nin profesyonel gelişim modeli olduğunu göstermiştir. [[higher-ed|Yükseköğretimde]] bir öğretmen, birkaç gün içinde vibe coding yoluyla [[vibe-coding-programming-process-visualizer|IDE etkinlik kayıtlarından bir programlama süreci görselleştirici]]yi hızla inşa etmiş; öğrencilerin programlama süreçlerini öğretme ve [[academic-integrity]] incelemesi için görünür kılmıştır. Bu örnekler vibe coding’i yalnızca bir öğrenen becerisi değil, [[educational-development|eğitim teknolojisini kimin yaratabileceğini yeniden şekillendiren]] bir yazarlık kapasitesi olarak konumlandırır.
 
 ### Tasarım homojenleşmesi: çeşitlilik olmadan erişim
 
@@ -57,7 +57,7 @@ Vibe coding’in son kullanıcı yazılım geliştirme vaadi, kimin geliştirebi
 
 Vibe coding, YZ uygulamayı otomatikleştirdiğinde neyin öğrenildiğine dair çekirdek soruları yeniden açar. Kullanıcı kodu okumadığından modelin davranışına güvenmek zorundadır — bu da vibe coding’i, YZ destekli programlamanın tamamına yayılan [[agency]] ile [[cognitive-offloading|aşırı bel bağlama]] arasındaki gerilimin üst düzeyde mühim bir örneği yapar. Müfredatlar, uygulamayı öğretmekten YZ tarafından üretilen yapıtları yönlendirmeyi, doğrulamayı ve denetlemeyi öğretmeye doğru kaymaktadır (bkz. [[reshaping-cs-education-genai|lisans BT eğitimini yeniden şekillendirmek]] ve [[agentic-ai|etmen (ajant) yazılım mühendisliği]]). Vibe coding ayrıca öğrenenin epistemik konumunu değiştirir: başarı, kod yazmaktan çok niyeti kesin biçimde ifade etmeye ve davranışı hedeflere karşı değerlendirmeye bağlıdır; bu yetkinlikler geleneksel sözdizim ustalığından çok [[computational-thinking|hesapsal düşünme]] ve yapılandırılmış yazmaya yakındır.
 
-İkinci bir sınır, inşanın kendisinde ortaya çıkar: kodlama engelini kaldırmak tanı yükünü olduğu gibi bırakabilir. İki mühendislik durum çalışmasında, bir öğretmen sade bir dille Gemini’yi isteyerek bir pil ısıl yönetim sisteminin ve üç ARQ protokolünün çalışan web simülasyonlarını birkaç saat içinde inşa etmiştir ([[caee-vibe-coding-simulation-development-engineering-education-2026|Tarasak ve ark. (2026)]]). Bir çoğaltılmış paket hatası, gerekli davranışı açıkça belirten bir istek dâhil, yinelenen isteklerden sağ çıkmıştır. Hata, öğretmen protokol davranışından yetersiz bir zaman aşımı aralığına vardığında düzeltilmiştir — arayüzün hiç açığa çıkarmadığı bir parametre. Hiçbir simülasyonun öğrenme üzerindeki etkisi ölçülmediğinden, bu anlatı etkililikten çok olanaklılığı göstermektedir.
+İkinci bir sınır, inşanın kendisinde ortaya çıkar: kodlama engelini kaldırmak tanı yükünü olduğu gibi bırakabilir. İki mühendislik durum çalışmasında, bir öğretmen sade bir dille Gemini’yi isteyerek bir pil ısıl yönetim sisteminin ve üç ARQ protokolünün çalışan web [[simulation|simülasyonlarını]] birkaç saat içinde inşa etmiştir ([[caee-vibe-coding-simulation-development-engineering-education-2026|Tarasak ve ark. (2026)]]). Bir çoğaltılmış paket hatası, gerekli davranışı açıkça belirten bir istek dâhil, yinelenen isteklerden sağ çıkmıştır. Hata, öğretmen protokol davranışından yetersiz bir zaman aşımı aralığına vardığında düzeltilmiştir — arayüzün hiç açığa çıkarmadığı bir parametre. Hiçbir simülasyonun öğrenme üzerindeki etkisi ölçülmediğinden, bu anlatı etkililikten çok olanaklılığı göstermektedir.
 
 ### İlgili kavramlarla bağlantılar
 
@@ -79,7 +79,7 @@ Bu bilgi tabanındaki bir fakülte düzeyinde durum çalışması örgütsel kat
 
 **Öğretim elemanları ve öğretmen eğitimcileri için**
 
-- Saf ve kod-görünür vibe coding arasındaki farkı açıkça öğretin ve öğrenci verilerini işleyecek her şey için ikincisini zorunlu kılın. Ayrım felsefi bir incelik değil, öğretilebilir bir alışkanlıktır.
+- Saf ve kod-görünür vibe coding arasındaki farkı açıkça öğretin ve öğrenci verilerini işleyecek her şey için ikincisini zorunlu kılın. Ayrım [[philosophy-of-ai-in-education|felsefi]] bir incelik değil, öğretilebilir bir alışkanlıktır.
 - Vibe coding çalışmasının yanında gerçek bir programlama hattı sürdürün, çünkü BT başarısı yaklaşık iki kat tekil yordayıcı varyans taşıyordu. Doğal dil belirtimini tam bir yedek olarak ele almak, daha güçlü yordayıcıyı elden çıkarır.
 - Öğrencilere yapıtı davranışsal olarak değerlendirtin *ve* konuşlandırdıkları her şeyin kaynağını incelettirin. Üretilen kodu okumak bir inceleme becerisidir ve istek metni yazabilen öğrenciler için kendiliğinden gelmez.
 
@@ -91,7 +91,7 @@ Bu bilgi tabanındaki bir fakülte düzeyinde durum çalışması örgütsel kat
 
 **Araştırmacılar için**
 
-- Sonuçların yanında vibe coding koşulunu (saf ya da kod-görünür) bildirin ve öz bildirilen başarı yerine uzmanların değerlendirdiği, arayüz odaklı görevler kullanın; böylece sonuçlar çalışmalar arasında karşılaştırılabilir olur.
+- Sonuçların yanında vibe coding koşulunu (saf ya da kod-görünür) bildirin ve [[self-report-measures|öz bildirilen]] başarı yerine uzmanların değerlendirdiği, arayüz odaklı görevler kullanın; böylece sonuçlar çalışmalar arasında karşılaştırılabilir olur.
 - Erişim argümanı sınanıyorsa yapıt sayısını ya da geliştirici sayısını değil, yapıt çeşitliliğini ölçün.
 
 ## Bağlı kavramlar

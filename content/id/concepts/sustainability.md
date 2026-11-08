@@ -8,9 +8,9 @@ ethics: [ethics, sustainability]
 level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T14:09:36-05:00"
 translation_of: "concepts/sustainability"
-source_updated: "2026-10-28T18:53:18-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 ## Pertanyaan yang Perlu Dipertimbangkan
 
 - Halaman ini membedakan dua jalur: 'AI untuk keberlanjutan' (menggunakan AI untuk memajukan hasil keberlanjutan) dan 'AI berkelanjutan' (mengurangi jejak lingkungan dan etis AI itu sendiri). Dapatkah Anda memikirkan cara sebuah alat AI memajukan satu tujuan sambil melemahkan tujuan lainnya?
-- Melatih dan menjalankan model bahasa besar membawa jejak karbon dan air yang nyata. Ketika sebuah institusi mempromosikan keberlanjutan sebagai nilai sambil menerapkan AI yang intensif energi, ketegangan apa yang muncul — dan siapa yang seharusnya menimbangnya?
+- Melatih dan menjalankan [[llm|model bahasa besar]] membawa jejak karbon dan air yang nyata. Ketika sebuah institusi mempromosikan keberlanjutan sebagai nilai sambil menerapkan AI yang intensif energi, ketegangan apa yang muncul — dan siapa yang seharusnya menimbangnya?
 - Sebelum membaca lebih lanjut, bagaimana Anda mendefinisikan 'pendidikan berkelanjutan'? Halaman ini memperlakukannya sebagai proyek berbasis nilai dan berpusat pada manusia yang berbeda dari penggunaan pendidikan sebagai instrumen untuk keberlanjutan — apa bedanya?
 - Jika pendidikan diharapkan membangun 'kesadaran keberlanjutan' pembelajar, peran apa yang mungkin dimainkan AI di dalamnya — dan mungkinkah integrasi AI dalam kurikulum mengajarkan keberlanjutan sementara jejaknya sendiri diam-diam bertentangan dengan pelajaran itu?
 - Apa artinya bagi sebuah institusi pendidikan untuk benar-benar berkelanjutan dalam penggunaan AI-nya, dan keputusan mana di antaranya (pengadaan, penerapan, pengajaran) yang menurut Anda paling penting?
@@ -36,7 +36,7 @@ ai_assist:
 
 Keberlanjutan dalam AIED mencakup tiga kerangka yang saling tumpang tindih: **pendidikan berkelanjutan** (proyek pendidikan berbasis nilai dan berpusat pada manusia), **keberlanjutan dalam pendidikan** (menggunakan pendidikan sebagai instrumen untuk keberlanjutan), dan **pendidikan untuk pembangunan berkelanjutan** (ESD, agenda kebijakan global, terutama [[k-12|Tujuan Pembangunan Berkelanjutan 4]]). AI bersinggungan dengan masing-masing secara berbeda — dan bidang ini membedakan dua jalur inti: **AI untuk keberlanjutan** (AI sebagai alat untuk mencapai hasil keberlanjutan) dan **AI berkelanjutan** (mengurangi jejak lingkungan dan etis AI itu sendiri).
 
-Jalur lingkungan memiliki kesenjangan yang terdokumentasi: [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] melaporkan bahwa konsekuensi lingkungan genAI tidak dibahas dalam dokumen kebijakan universitas di lokasi studi, dan berargumen bahwa panduan institusional yang menghilangkannya gagal menjawab kekhawatiran yang dimiliki guru dan siswa.
+Jalur lingkungan memiliki kesenjangan yang terdokumentasi: [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] melaporkan bahwa konsekuensi lingkungan [[generative-ai|genAI]] tidak dibahas dalam dokumen kebijakan universitas di lokasi studi, dan berargumen bahwa panduan institusional yang menghilangkannya gagal menjawab kekhawatiran yang dimiliki guru dan siswa.
 
 ## Taksonomi dua bagian
 
@@ -47,7 +47,7 @@ Cakupan basis pengetahuan, yang bertumpu pada [[daniel-ai-sustainability-scoping
 
 ## Menggunakan AI untuk keberlanjutan dalam pendidikan
 
-Sejumlah karya yang terus bertambah memperlakukan AI sebagai alat *untuk* pendidikan dan hasil keberlanjutan:
+Sejumlah karya yang terus bertambah memperlakukan AI sebagai alat *untuk* [[environmental-education|pendidikan keberlanjutan]] dan luarannya:
 
 - **Kurikulum terintegrasi AI yang membangun kesadaran keberlanjutan.** [[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]] mengusulkan kerangka AI-SEE (digerakkan oleh kecerdasan, diberdayakan oleh teknologi hijau, dipimpin oleh tanggung jawab, terintegrasi dengan praktik), yang mengintegrasikan AI di seluruh [[curriculum-design|kurikulum]] sebagai [[scaffolding|perancah]] kognitif dan sumber daya untuk analisis keberlanjutan tingkat sistem. Dalam studi kasus teknik dengan 144 siswa, kerangka ini meningkatkan kesadaran keberlanjutan dan menghasilkan [[student-engagement|keterlibatan]] perilaku pada tingkat personal, akademik, profesional, dan sosial, dengan difusi sosial melampaui ruang kelas.
 - **AI dalam pendidikan hijau dan berkelanjutan.** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] menemukan bahwa [[learning-design|desain pembelajaran]] berbantuan AI di bawah kendala Pedagogi Pembangunan Berkelanjutan memperbaiki alur kerja guru dan desain [[pedagogy|pedagogis]]. [[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]] menemukan bahwa penggunaan praktis AI oleh guru dalam bidang sains/energi hijau dan keterlibatan mereka dalam mengembangkan materi yang selaras ESD — lebih daripada pengetahuan atau sikap abstrak tentang AI — memprediksi kapasitas mereka untuk mengintegrasikan AI ke dalam [[k-12|pendidikan energi hijau]].

@@ -8,7 +8,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -56,11 +56,13 @@ Bilgi tabanının [[research-methods-aied|araştırması]], pedagojiyi yapay zek
 - **Pedagojik ajan olarak yapay zeka.** YZ araçları pedagojileri gömer — [[socratic-method|Sokratik sorgulama]] üzerine kurulmuş bir [[intelligent-tutoring|özel ders öğretmeni]] öğrencileri akıl yürütmeye yönlendirir, oysa yanıt üreten bir sohbet botu doğrudan sunuma yönelebilir (pedagojik duruşun neden önemli olduğu konusunda bkz. [[reducing-ai-misuse]]). [[agentic-ai|Ajani YZ]] literatürü, ajanları öğretim tasarımı kuramında temellendirmenin sıradan [[prompt-engineering|istek metni yazımından]] üstün performans gösterdiğini ortaya koyar. [[genai-didactic-pedagogical-mediator-2026|Moganadas ve ark. (2026)]] bu rolü biçimsel olarak yeniden çerçeveler: GenAI’yı dışsal bir tamamlayıcı ya da tehdit olarak gören diyalog kurallı bir öğretmen–[[student-modeling|öğrenci modeli]] yerine, GenAI’nin kurumlar ve paydaşlar tarafından yönetilen paylaşılan bir didaktik aracılık alanında sınırlı bir *didaktik-pedagojik aracı* olarak işlediği iç içe geçmiş bir **öğretmen–öğrenci–GenAI üçlü modeli** önerir — bu da öğrenme aracılığı, öğretmen rolünün dönüşümü, YZ okuryazarlığı ve öğrenen etkenliği, YZ şeffaf [[process-oriented-assessment|süreç odaklı değerlendirme]] ve kurumsal [[governance]] üzerine araştırılabilir beş önerme üretir.
 - **Pedagoji yapay zekanın etkisini belirler.** Yinelenen bir bulgu, YZ’nin *nasıl* kullanıldığının *kullanılıp kullanılmadığı* kadar önemli olduğudur. [[instructional-guidance-genai-learning|Öğretimsel rehberlik araştırması]] ve [[generative-ai-guardrails-harm-learning|koruyucu tedbirli özel ders RCT’leri]], aynı YZ’nin pedagojik sarmalayıcıya bağlı olarak zarar verebileceğini ya da yardım edebileceğini gösterir (yanıtlara karşı ipuçları, yapılandırılmışa karşı açık kullanım).
 - **Pedagojik bilgi teknik bilginin önündedir.** 46 öğretmen ve 2.832 öğrenci üzerinden, öğretmenin pedagojik YZ bilgisi, öğrencilerin YZ’yi sosyal iyilik için algılamalarını ve YZ öğrenme niyetlerini öngörürken, teknik bilgi tek başına yetersizdi — ve ikisi de öğrencilerin YZ bilgisini öngörmedi ([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen ve ark. (2026)]]).
-- **YZ’nin en net katkısı idari işi boşaltmasıdır.** 28 çalışmanın bir PRISMA derlemesi, YZ’nin en sık öğretim planlamasını ve değerlendirme tasarımını güçlendirdiğini, en sık bildirilen faydasının notlandırma, geri bildirim ve ilerleme izlemenin otomasyonu olduğunu bulmuştur (18 çalışma, \%64,2) — oysa pedagojik hizalama en çok anılan zorluktur (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar ve Ilgaz (2026)]]).
-**Otomasyon ve öğrenme doğrudan ödünleşir.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston ve ark. (2026)]], altı pedagojik ilkeyi — ön bilgiyi etkinleştirme, [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]] — proaktif ajani girişimin her birine ne yaptığı üzerinden yürütür ve bir ajan ne kadar çok otomasyon yaparsa, sürtünme, dinamik azalma ve insan denetimi tasarlanmadıkça öğrenenin bilişsel işinin o kadar azaldığını savunur.
+- **İdari işi boşaltmak, YZ’nin en net katkıda bulunduğu yerdir.** 28 çalışmanın bir PRISMA derlemesi, YZ’nin en sık öğretim planlamasını ve [[assessment|değerlendirme tasarımını]] güçlendirdiğini, en sık bildirilen faydasının notlandırma, geri bildirim ve ilerleme izlemenin otomasyonu olduğunu bulmuştur (18 çalışma, \%64,2) — oysa pedagojik hizalama en çok anılan zorluktur (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar ve Ilgaz (2026)]]).
+**Otomasyon ve öğrenme doğrudan ödünleşir.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston ve ark. (2026)]], altı pedagojik ilkeyi — [[prior-knowledge|ön bilgiyi etkinleştirme]], [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]] — proaktif ajani girişimin her birine ne yaptığı üzerinden yürütür ve bir ajan ne kadar çok otomasyon yaparsa, sürtünme, dinamik azalma ve [[human-in-the-loop-ai|insan denetimi]] tasarlanmadıkça öğrenenin bilişsel işinin o kadar azaldığını savunur.
+- **Yansıtma, YZ’nin hem mümkün kıldığı hem tehdit ettiği bir pedagojidir.** Yapılandırılmış istek metinleri, günlükler ve [[eportfolio|portföy]] yorumları, deneyimin öğrenmeye dönüşmesinin mekanizmasıdır ve kanıtı [[reflection]] sayfası taşır. Önceden kaydedilmiş bir deneyde istek metinleri geri bildirime ayrılan süreyi ikiye katlamış ve alıştırma hacmini \%40 kısaltmış, ancak problem başına kazanımı artırmamıştır. Bir YZ yansıtma ortağının kodlanmış denetimi, ortağın her davranışsal yönergeyi görünür bir iz bırakmadan çiğnediğini bulmuştur. İstek metnini tamamlanmış bir deneme çevresinde tasarlayın ve cilalı giriş yerine izi talep edin.
 - **YZ okuryazarlığına yönelik öğretim stratejileri.** Öğrencilere *YZ’yi iyi kullanmayı* öğretmek kendisi bir pedagojik görevdir — [[ai-literacy]] ve [[reducing-ai-misuse]] araştırması, bu çatıya ait olan stratejiler geliştirir (önce düşün/YZ sonra/yansıt, YZ beyanı, kalibrasyon eğitimi).
+- **Bir öğretim tekniği olarak metafor ve benzetme.** [[metaphors-and-analogies]], benzetmelerin YZ’yi nasıl açıkladığı, nerede kırıldığı ve öğrencilerin bunları [[critical-thinking|eleştirel düşünme]]nin bir biçimi olarak nasıl denetleyebileceği üzerine kanıtı toplar.
 
-- **YZ okuryazarlığı öğretimi bilgiyi en hızlı değiştirir.** 59 çalışmanın (172 etki büyüklüğü) üç düzeyli bir üst derlemesi, bilgi odaklı müdahalelerin (g ≈ ,97) becerileri (≈ ,67), tutumları (≈ ,68) ya da [[ethics]] (≈ ,64) hedefleyenleri açık biçimde geride bıraktığını bulmuştur; bu nedenle kavram öğretimini süregelen uygulamayla eşlemek, öğretime direnen sonuçları hedefler ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu ve ark. (2026)]]).
+- **YZ okuryazarlığı öğretimi bilgiyi en hızlı değiştirir.** 59 çalışmanın (172 etki büyüklüğü) üç düzeyli bir [[meta-analysis-systematic-review|üst derlemesi]], bilgi odaklı müdahalelerin (g ≈ ,97) becerileri (≈ ,67), tutumları (≈ ,68) ya da [[ethics]] (≈ ,64) hedefleyenleri açık biçimde geride bıraktığını bulmuştur; bu nedenle kavram öğretimini süregelen uygulamayla eşlemek, öğretime direnen sonuçları hedefler ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu ve ark. (2026)]]).
 - **Öğretmen uygulamasında pedagoji.** [[teacher-role]] ve [[teacher-ai-competency]], öğretmenlerin YZ’yi mevcut pedagojik repertuvarları içinde nasıl benimsediklerini inceler; [[llm-training-and-fine-tuning]] / [[pedagogical-agent]] ise pedagojik ilkeleri izlemek üzere eğitilmiş YZ araçlarını çalışır.
 
 ## Öğrenme kuramlarıyla ilişki
@@ -107,9 +109,11 @@ Korunan çabaya yapılan bu vurgu mutlak değildir: dört çalışmalı bir [[mi
 - [[learning-sciences]]
 - [[learning-gains]]
 - [[learning-design]]
+- [[metaphors-and-analogies]] — Bir öğretim tekniği olarak metafor ve benzetme
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[project-based-learning]]
+- [[case-based-learning]] — Bir öğretim tekniği olarak vaka yöntemi ve karşıtlık oluşturan vakalar
 - [[experiential-learning]]
 - [[game-based-learning]]
 - [[socratic-method]]

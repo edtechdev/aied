@@ -1,7 +1,7 @@
 ---
 title: "Narrativa na educação"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:38:41-05:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T14:10:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,14 +37,17 @@ ai_assist:
 
 ## Introdução
 
-A narrativa se fundamenta nas teorias de [[motivation|motivação]], [[student-engagement|engajamento estudantil]] e [[constructivist|construtivismo]] da aprendizagem. Ela apoia [[language-learning|aprendizagem de línguas]], [[creativity|criatividade]], [[social-emotional-learning|aprendizagem socioemocional]] e compreensão. Na era da IA, a narrativa potencializada por [[llm|LLMs]] e mediada por robôs permite a cocriação, em que quem aprende e [[agentic-ai|agentes de IA]] constroem histórias juntos, e a narrativa interativa que responde a quem aprende.
+A narrativa se fundamenta nas [[learning-theories|teorias da aprendizagem]] de [[motivation|motivação]], [[student-engagement|engajamento estudantil]] e [[constructivist|construtivismo]]. Ela apoia [[language-learning|aprendizagem de línguas]], [[creativity|criatividade]], [[social-emotional-learning|aprendizagem socioemocional]] e compreensão. Na era da IA, a narrativa potencializada por [[llm|LLMs]] e mediada por robôs permite a cocriação, em que quem aprende e [[agentic-ai|agentes de IA]] constroem histórias juntos, e a narrativa interativa que responde a quem aprende.
 
 ### Como a narrativa aparece na pesquisa da base de conhecimento
 
 - **Narrativa mediada por robôs:** o [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] usa um robô digital interativo de contar histórias de aparência humana, encontrando ganhos significativos em engajamento comportamental e cognitivo em relação aos métodos em papel e PowerPoint; o [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] permite que professores criem atividades de narrativa baseadas em cenários e potencializadas por LLM a partir de conteúdo de [[curriculum-design|currículo]].
+- **Os ganhos de engajamento têm tamanho, e a motivação não acompanhou.** O MotiBo ficou 27,06% e 30,00% à frente do papel e do PowerPoint em engajamento comportamental e cognitivo (ambos p < ,05), enquanto a motivação intrínseca subiu 20,21% sem atingir significância (p = ,07). O engajamento se moveu, a motivação não cruzou seu limiar, e o quase-experimento de cinco dias não mediu nenhum resultado de aprendizagem ([[motibo-digital-storytelling-robots-motivation-2026|Fung e Lui, 2026]]).
 - **IHRI narrativa cocriativa:** o [[icub-humanoid-storytelling-llm-hri-2025|estudo de narrativa com iCub]] explora a cocriação humano-robô de histórias, integrando modelos generativos para interação contextualmente apropriada.
 - **Narrativa e criatividade:** a narrativa apoia [[creativity|criatividade]] e desenvolvimento de [[language-learning|língua]], e é usada para potencializar motivação e engajamento em contextos de [[k-12|educação básica]].
-- **Narrativa digital como contrapeso à IA:** à medida que a [[generative-ai|IA generativa]] avança, a narrativa digital é ressignificada como veículo das capacidades emocionais, culturais e narrativas que faltam à IA. Em um modelo de [[project-based-learning|aprendizagem baseada em projetos]] para educação em arte e design, estudantes traduziram patrimônio cultural local em narrativas [[multimodal|multimodais]] ao longo de 92 obras de narrativa digital, demonstrando como a narrativa sustenta a criatividade humana na era da IA.
+- **Narrativa digital como contrapeso à IA:** à medida que a [[generative-ai|IA generativa]] avança, a narrativa digital é ressignificada como veículo das capacidades emocionais, culturais e narrativas que faltam à IA. Em um modelo de [[project-based-learning|aprendizagem baseada em projetos]] para educação em arte e [[design-education|design]], estudantes traduziram patrimônio cultural local em narrativas [[multimodal|multimodais]] ao longo de 92 obras de narrativa digital, demonstrando como a narrativa sustenta a criatividade humana na era da IA.
+
+- **A narrativa gerada é fácil de produzir e difícil de manter coerente.** Com 22 estudantes de STEM, a ficção interativa gerada por IA foi bem avaliada em clareza narrativa (M = 4,11) e extensão (M = 4,14), mas o engajamento ficou no ponto neutro (M = 3,08) e a coerência do conteúdo da história foi a mais fraca (M = 2,92) ([[ai-generated-interactive-fiction-education-2026]]). A cocriação herda essa fraqueza na camada em que a história deveria fazer seu trabalho.
 
 A narrativa se conecta ao [[student-engagement|engajamento estudantil]], à [[motivation|motivação]], à [[creativity|criatividade]], à [[educational-robotics|robótica educacional]], à [[language-learning|aprendizagem de línguas]] e à [[social-emotional-learning|aprendizagem socioemocional]], e a [[educational-robotics|robótica educacional]] é o fio que atravessa boa parte dessa pesquisa.
 
@@ -74,3 +77,4 @@ A narrativa se conecta ao [[student-engagement|engajamento estudantil]], à [[mo
 - [[icub-humanoid-storytelling-llm-hri-2025]] — IHRI narrativa com iCub
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[white-wu-robotics-ai-education-2026]] — Robótica e IA na educação
+- [[ai-generated-interactive-fiction-education-2026]] — Ficção interativa gerada por IA: a coerência como dimensão fraca em um piloto com 22 estudantes

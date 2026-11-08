@@ -1,7 +1,7 @@
 ---
 title: Imparare insegnando
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:01:53-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-25T22:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -71,7 +71,7 @@ Altre due potenzialità ricorrono in tutta la knowledge base:
 - **Le domande individuano le lacune di conoscenza.** I sistemi LbT usano le domande generate da chi apprende per far emergere le lacune e rafforzare la comprensione, e le [[teaching-ai-vocabulary-lbt-llms-2026|domande generate dall'LLM]] sostituiscono i rigidi generatori basati su modelli.
 - **Il teach-back mette in luce ciò che il chiarimento tralascia.** In un sistema di ripasso post-lezione con 22 partecipanti, il teach-back riflessivo di un agente Peer ha costantemente esposto lo scarto tra ciò che i partecipanti credevano di aver capito e ciò che sapevano articolare, scarto che il solo chiarimento ancorato alla lezione non aveva rivelato ([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).
 - **L'LbT [[scaffolding|fornisce scaffolding]] all'auto-[[regulation]].** Insegnare a un [[conversational-ai|agente conversazionale]] favorisce l'[[self-efficacy]] e l'attuazione di strategie di apprendimento autoregolato, e collega l'LbT alle [[desirable-difficulties]] — l'atto faticoso di spiegare e correggere è esso stesso una lotta produttiva che l'eliminazione dell'attrito operata dall'IA cancellerebbe.
-- **Ciò che predice l'apprendimento del tutor è la costruzione di conoscenza, non la conoscenza pregressa.** Su 23 tutor di scuola media, la quota di risposte che costruivano conoscenza anziché limitarsi a ripeterla ha predetto i punteggi al post-test concettuale (β = 0,138, p < 0,05), mentre i punteggi al test pregresso non hanno predetto chi le produceva, e i tutor con conoscenza pregressa bassa che costruivano conoscenza sono arrivati al livello dei pari con conoscenza pregressa alta ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
+- **Ciò che predice l'apprendimento del tutor è la costruzione di conoscenza, non la [[prior-knowledge|conoscenza pregressa]].** Su 23 tutor di scuola media, la quota di risposte che costruivano conoscenza anziché limitarsi a ripeterla ha predetto i punteggi al post-test concettuale (β = 0,138, p < 0,05), mentre i punteggi al test pregresso non hanno predetto chi le produceva, e i tutor con conoscenza pregressa bassa che costruivano conoscenza sono arrivati al livello dei pari con conoscenza pregressa alta ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 
 ## Perché conta nell'educazione all'IA
 

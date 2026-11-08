@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-10-31T09:55:00-04:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,9 @@ ai_assist:
 - **Geri bildirim analitiği:** [[teaching-feedback-classification-benchmark|Geri bildirim sınıflandırması]] ve [[ai-feedback-quality|kalite değerlendirmesi]], öğrencilerin aldığı geri bildirimi çözümler.
 - **Ağ analizi:** [[misiejuk-cognitive-offloading-prompting-2026|Birlikte Görünüm Ağ Analizi]] ve [[epistemic-emotions-collaborative-problem-solving|epistemik ağ analizi]], etkileşim örüntülerini ortaya çıkarır.
 - **Gizlilik gerilimleri:** Analitik giderek daha ayrıntılı ve YZ kaynaklı hale geldikçe [[privacy]] kaygıları artar.
-- **Öğrenci verileri için bir yönetişim inceleme çerçevesi.** LEAGUE, FERPA ve GDPR uyumunu taban kabul eden ve modellerin kaymasıyla birlikte planlı yeniden değerlendirme öneren Lawfulness (Hukuka uygunluk), Equity (Eşitlik), Agency (Etkinlik/Alan), Governance (Yönetişim), Utility (Fayda) ve Ethics by Design (Tasarımla Etik) olmak üzere altı sütun öne sürer ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).
+- **Öğrenci verileri için bir yönetişim inceleme çerçevesi.** LEAGUE, FERPA ve GDPR uyumunu taban kabul eden ve modellerin kaymasıyla birlikte planlı yeniden değerlendirme öneren Lawfulness (Hukuka uygunluk), [[equity-in-ai-education|Equity]] (Eşitlik), Agency (Etkinlik/Alan), Governance (Yönetişim), Utility (Fayda) ve Ethics by Design (Tasarımla Etik) olmak üzere altı sütun öne sürer ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).
+
+Sensör ve göz izleme analitiği, aynı öğrenen modellerini besleyen ikinci bir araç ailesidir; dikkat, angajman ve bilişsel yükü tahmin etmek için göz izleme, EEG, elektrodermal aktivite ve kalp hızından yararlanır ([[sensor-and-gaze-analytics]]). Geçerlilik ve rıza sorunları iz verilerininkinden daha diktir, çünkü ölçümler biyometriktir ve bedenden zihinsel duruma atılan adım bir yorumdur.
 
 **Yalnızca sırayı değil, kursların eşzamanlılığını modelleyin.** TRACE, bir dönemdeki her kursa aynı konumsal kodlamayı verir ve kurslarla notları birlikte tahmin etmek not tahmin hatasını 0,1339 MAE’ye düşürür — yalnızca not temelli bir transformatöre kıyasla %46,4 azalma — on yıllık kurumsal veri üzerinde ([[trace-course-grade-prediction-2026|Savala (2026)]]).
 
@@ -72,6 +74,8 @@ ai_assist:
 
 - **Kanıt tabanı henüz müdahale kanıtı değildir.** Öğrenci, disiplin, eğitici ve kurumsal düzeylerde dört çalışmayı sentezleyen [[learning-analytics-genai-learning-design|Rienties, Divjak ve Law (2026)]], alanın kesitsel, [[self-report-measures|öz bildirim]], söylem temelli ve uzman yargısına dayalı tasarımların egemenliğinde olduğunu bulur ve nedensel mekanizmaları ve daha uzun vadeli, dağılımsal sonuçları sınayan müdahale araştırması çağrısında bulunur.
 
+**Nedensel çapayı rastgele teşvik tasarımı sağlar.** ASSISTments üzerinde yürütülen bir rastgele teşvik denemesinde [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan ve Sales (2025)]], platforma yeni gelen öğretmenleri ödev oluşturduktan sonra ödev raporunu görüntülemeye rastgele teşvik etti. 330 öğretmenlik analitik örneklemde (156 kontrol, 174 teşvik; katma değer için 281) ilk ödev raporunu görüntülemek bir sonraki ödevi tamamlama oranını anlamlı biçimde yükseltti (Anderson-Rubin F = 4,092, p = 0,044) — genel olarak en az 2 yüzde puanı. 44 öğrencinin altındaki sınıflarda kazanım en az 24,5 yüzde puanıydı (AR F = 7,475, p = 0,007); buna karşın 121.890 ödevin yalnızca %54,0’ünün raporu görüntülendi ve başlama ile katma değer sonuçları değişmedi. Aynı platform verisi alanın en büyük kapalı döngü derecelendirme vakasını taşır: [[johnson-student-ratings-automatically-generated-questions-2025|Johnson ve ark. (2025)]], beğenmeme işaretinin (1.000’de 2,00) üretici kontrollü özellikleri izlediği ve öğrenci düzeyi varyansın madde düzeyi varyansa egemen olduğu (BIC 101.572,9’a karşı 123.342,0) 5.214.211 öğrenci-soru oturumunu analiz etti.
+
 Öğrenme analitiği, bilgi tabanında üç kuşak boyunca evrimleşmiştir: betimleyici (ne oldu?), öngörücü (ne olacak?) ve yöneltici (ne yapmalıyız?). YZ, doğrudan [[feedback|öğretimsel müdahaleleri]] tetikleyen analitiklerden oluşan yöneltici katmanı mümkün kılar. Temel bir sınır **eyleme dönüştürülebilirlik boşluğudur**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]], tek başına tahminin karar desteği için yetersiz olduğunu ve karşıolgusal çarenin yalnızca öneriler anlamsal olarak uygulanabilir ve makine tarafından denetlenebilir olduğunda — yani zamanlama, bütçe, değişmezlik ve erişilebilirlik üzerinden SHACL doğrulamasıyla sınırlandığında, yalnızca model geçerli olduğunda değil — işlevsel anlam kazandığını gösterir. Bu durum alanı, [[human-in-the-loop-ai|insan gözetimi]] korunarak risk puanlarının ötesinde kurumların gerçekten uygulayabileceği önerilere taşır.
 
 Yöneltici katmanın doğrudan ampirik bir sınavı [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas ve ark. (2026)]]’den gelir; onlar üç LLM’den 4.500 [[simulating-students|sentetik öğrenci]] vinyeti için destek planları önermesini istedi.
@@ -87,7 +91,7 @@ Analitiğin kendisinin *yorumlanması*nı hedef alan tamamlayıcı bir hat ise [
 
 Ağ yöntemleri öğrenme analitiğinin özünü oluşturur: [[network-analysis|geçiş ağı analizi (TNA)]], öğrenen eylemlerinin zamansal dizilerini modeller (örn. [[conversational-ai|sohbet robotu]] ile iskelelenen yazmadaki düzeltme ve sohbet döngüleri) ve [[network-analysis|epistemik ağ analizi (ENA)]], kodların/yapıların etkinlik boyunca birlikte nasıl göründüğünü eşler — birlikte öğrenmenin yalnızca ürünü değil *süreci*ni ve öğrenen-[[student-ai-interaction|YZ etkileşimi]]ni ortaya çıkarır.([[penny-transition-network-analysis-efl-writing-2026]])([[tracing-genai-literacy-interaction-patterns]])
 
-- **Kendi kendine yönlendirilen davranışın dizi + Markov zinciri analizi.** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]], VERA’da 822 ekolojik model kuran 315 çevrimiçi öğrenenin tıklama akışları üzerinde etkinlik dizisi analizi, hiyerarşik kümeleme ve Markov zinciri modellerini birleştirdi; dokuz ince taneli, geçişe dayalı davranış kümesini üç geniş örüntüye (Gözlem, Kurulum, Keşif) indirdi. Çalışmaları, dizi analizini Markov zinciri modellemesiyle birleştirmenin demografik ya da bağlamsal verinin tümüyle yokluğunda bile yapılandırılmamış, [[self-directed-learning|kendi kendine yönlendirilen]] görevlerde anlamlı davranış ortaya çıkarabileceğini gösterir.
+- **Kendi kendine yönlendirilen model inşasında tıklama akışlarını kümelemek.** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]], VERA’da 822 ekolojik model kuran 315 çevrimiçi öğrenenin tıklama akışları üzerinde [[pedagogical-patterns|etkinlik dizisi]] analizi, hiyerarşik kümeleme ve Markov zinciri modellerini birleştirdi; dokuz ince taneli, geçişe dayalı davranış kümesini üç geniş örüntüye (Gözlem, Kurulum, Keşif) indirdi. Çalışmaları, dizi analizini Markov zinciri modellemesiyle birleştirmenin demografik ya da bağlamsal verinin tümüyle yokluğunda bile yapılandırılmamış, [[self-directed-learning|kendi kendine yönlendirilen]] görevlerde anlamlı davranış ortaya çıkarabileceğini gösterir.
 - **LA ve GenAI öğrenme tasarımını farklı şekillerde şekillendirir (2026).** [[claassen-learning-analytics-genai-learning-design-2026|Claassen ve ark. (2026)]], öğrenme analitiğinin ve [[generative-ai]]’nin [[learning-design]] karar vermeyi nasıl bilgilendirdiğini karşılaştırmak için 11 öğretim elemanı odak grubunda ENA kullandı. LA görüşmeleri bağlamsal bilgi, kurs düzeyinde tasarım ve yaratıcı [[problem-solving]] üzerinde yoğunlaştı (angajmanı teşhis etme ve desteği hedeflemede LA), GenAI görüşmeleri ise [[assessment|değerlendirme tasarımı]] ve öğrencinin [[self-determination-theory|özbelirlemesi]] için tasarım üzerinde yoğunlaştı (fikir üretme ve değerlendirme geliştirmede GenAI). Bağlam ve [[creativity]] ikisinde de merkeziydi — analitiğin tasarımı yalnızca [[pedagogy|pedagojik]] bağlam ve öğretim elemanı özerkliği çerçevesinde bilgilendirdiğini hatırlatan bir bulgu.
 
 - **Yapı sosyalse konuşma füzyonu yener ve en iyi kaynak yapıya göre değişir.** Modelleri azamiye çıkarmak yerine, işbirlikçi modelleme bölümleri üzerinde beş öznitelik yapılandırmasını karşılaştıran bir LAK26 çalışması, genel olarak yalnızca metin yerleştirmelerini en güçlü buldu (ortalama ROC AUC 0,650; %95 güven aralığı 0,615 ile 0,685), metin artı günlük kayıtları (0,613) ve bağlam penceresiyle metin artı günlük kayıtları (0,623) karşısında. Günlük kayıtları tek başına 0,526 ölçtü; sosyal bir yapı için şansa yakın bir değerdi, ancak yansıma tespitini iyileştiren tek kaynak onlardı (0,5862), planlama ise çevresel izlere değil çevredeki konuşmaya bağlıydı. Öznitelik seçimi bir bütçe kararı değil, yapıya ilişkin bir iddiadır ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang ve ark., 2026]]).
@@ -109,6 +113,7 @@ Ağ yöntemleri öğrenme analitiğinin özünü oluşturur: [[network-analysis|
 
 
 - **YZ analizlerini sınıf konuşmasına dönüştürmek başlı başına bir öğretmen becerisidir.** Dört ortaöğretim matematik dersinde bir öğretmenin 47 tüm sınıf düzenlemesi, öğrencilerin gerekçelerini seçip sıralayarak pano çıktısını kolektif argümantasyona dönüştürdü ve çalışma dört yinelenen tür adlandırır ([[ai-integrated-math-argumentation-teacher-noticing-2026|Lee, Park ve Lee (2026)]]).
+- **Bir öğretmenin yükünü hafifleten analitik, bir öğrenenin yükünü hafifleten analitik değildir.** [[embodied-learning|Bedensel öğrenme]] alanında YZ üzerine 23 çalışmanın derlemesinde, 40 rol etiketinin %62,5’i bir hareketi, yörüngeyi ya da eseri değerlendiren algılama rolleridir — ki bu iş aksi hâlde bir öğretmene düşerdi — ve yazarlar öğretmen iş yükündeki azalmanın öğrenen yükündeki azalma olarak okunmaması gerektiği uyarısını yapar. Gerekçeleri bu tür kodlamanın neyi gösterebileceğine dair bir sınırdır: bir sistemin yerine getirdiği işlevi kaydetmek onun öğrenen üzerindeki etkisi hakkında hiçbir şey söylemez; bu yüzden rol frekansları sistemin bilişi dışsallaştırdığını mı derinleştirdiğini mi belirleyemez ([[kim-ai-embodied-learning-review-2026|Kim ve Han, 2026]]).
 
 Süreç düzeyinde ölçümleme, betimleyici katmanın bir alt basamağıdır. [[pulla-parsons-problem-tool-2026|Prol ve ark. (2026)]], bir [[open-source]] Parsons problemi platformunu her blok yerleştirme, kaldırma ve gönderimi kronolojik bir iz olarak kaydedecek şekilde genişletti, her gönderimi blok başına doğruluk renklendirmesi ve bir deneme geçmişiyle eşleştirdi ve isteğe bağlı olarak izleri öğretim elemanı incelemesi için tekrarlayan zorluk örüntülerini etiketleyen bir [[llm]] hattından geçirdi. Üst düzey Java yazılım tasarımı kursundaki 68 öğrenci ve giriş seviyesi Python kursundaki 36 öğrenci üzerinde analiz, doğruluk ve deneme sayılarının ortaya çıkaramadığı aynı üç zorluğu gün yüzüne çıkardı: yanlış istisna türünü seçmek, `return`’u `throw` ile değiştirmek ve hatalı kontrol akışı sıralaması — çünkü bunlar dizilimin *doğru olup olmadığına* değil, *sürecin ne olduğuna* yanıt verir. YZ, öğrenciyi puanlayan biri olarak değil [[teacher-role|öğretim elemanı]] için bir yorumlayıcı olarak işlev görür ve çıktısı bir sınıfın zorluklarına dair incelenebilir bir hipotez olarak çerçevelenir, bir not olarak değil.
 
@@ -116,13 +121,20 @@ Süreç düzeyinde ölçümleme, betimleyici katmanın bir alt basamağıdır. [
 
 - **Etkileşim günlükleri sabit bir taban çizgisine yenilebilir.** 16.851 LLM mentorluk alışverişinden türetilen dönem düzeyi öznitelikler, ödev puanlarının medyan kestiricisini 0,114 puan geçti; bu aralık sıfırı kapsıyordu ve hatanın %62,1’i en düşük çeyrekte toplandı ([[llm-tutoring-interaction-predictive-value-2026|Dong ve ark. (2026)]]).
 
+Panolar ve erken uyarı sistemleri, [[automation-bias|otomasyon yanlılığı]] riskini yoğunlaştırır: bir işaret, bir kişinin denetlendiği için değil var olduğu için kabul edebileceği bir yargıyı ortaya koyar.
+
+Çok kipli göstergeleri sabit tutup yalnızca anlatı biçiminde bir açıklama eklemek, hizmet öncesi öğretmenlerin yorumlamasını (η² = 0,166) ve anlam kurmasını (η² = 0,220) yükseltti, eyleme dönük dönüşüm ise değişmedi — darboğaz veri değil yorum katmanıydı ([[liu-teaching-analytics-dashboard-2026|Liu ve ark., 2026]]).
+
 ## Yaygın yanlış anlamalar
 
 - **“Bilgi durumu kestirimi geçerliliğini veriden devralır.”** **Maddeleri niteliklere bağlayan Q-matrisi bir varsayımdır, veri değil**: **analiz edilen 918 maddenin 14’ünde** reddedilen girdiler, eşlemenin kendisinin karara bağlanması gerektiği anlamına gelir. Eşlemeyi doğrulamak bir formalite değil, bir adımdır.
+- **Adlandırılmış öğrenme stratejilerine karşı tıklama akışlarını okuyan LLM’ler.** [[radmehr-clicksight-clickstream-learning-strategies-2026|Radmehr ve ark. (2026)]], bir öğrencinin izinde bir stratejiye dair kanıtı bulan, uyumu yargılayan ve yargının arkasındaki eylemleri gösteren bir [[llm|LLM]] hattı kurar; daha zor bir benzetimde genel kalitede 0,735’e ulaşarak düz bir temel çizginin 0,704’ünü geçer.
 - **“Analitik tıklama akışı izleri gerektirir.”** Kazanım Odaklı Eğitim içinde bilgi durumları, OBE benzerlik eşlemeleri kullanılarak **kurs kazanımlarının doğrudan LMS etkileşim ve erişim verilerinden izlenmesi** yoluyla kestirilebilir: sinyali kurumsal kayıt sağlar.
 - **“Eylem penceresi olmadan tahmin yararlıdır.”** İlerleme tahmini en çok **yorumlanabilir olduğunda ve bir eylem penceresiyle eşleştirildiğinde** kullanışlıdır: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries ve Koprinska (2025)]] modül düzeyinde sonuçları tahmin eder; bu, ham bir puandan farklı olarak bir danışmanın eyleme geçebileceği bir biçimdir.
 
 ## Bağlı kavramlar
+
+- [[automation-bias]] — Var olduğu için denetlenmeden harekete geçirilen bir işaret
 
 - [[explainable-ai]]
 - [[knowledge-tracing]]
@@ -136,6 +148,7 @@ Süreç düzeyinde ölçümleme, betimleyici katmanın bir alt basamağıdır. [
 - [[higher-ed]]
 - [[k-12]]
 - [[llm]]
+- [[sensor-and-gaze-analytics]]
 - [[simulating-students]]
 - [[self-report-measures]]
 - [[recommender-systems-and-learning-paths]]
@@ -181,3 +194,7 @@ Süreç düzeyinde ölçümleme, betimleyici katmanın bir alt basamağıdır. [
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0.763)
 - [[thomas-breaking-learning-system-wall-2026]] — Towards breaking the learning system wall using multimodal tutoring transcriptions (Thomas et al. 2026)
+- [[kim-ai-embodied-learning-review-2026]] — Bedensel öğrenmede YZ çoğunlukla gözler: kodlanan rol etiketlerinin %62,5’i algılama rolleri ve incelenen hiçbir sistem öğrenen kullanırken çok kipli akışları birleştirmiyor (Kim ve Han 2026)
+- [[liu-teaching-analytics-dashboard-2026]] — Açıklama katmanını yalıtan etkin denetimli mikro-öğretim çalışması: yorum değişti, eylem değişmedi (Liu ve ark. 2026)
+- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight: tıklama akışlarını literatürde tanımlı öğrenme stratejileri üzerinden yorumlamak (Radmehr ve ark. 2026)
+

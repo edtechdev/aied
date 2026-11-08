@@ -1,7 +1,7 @@
 ---
 title: Letramento em feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:51:50-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -96,6 +96,8 @@ Agir sobre o feedback não é o mesmo que melhorar o artefato. Entre 22 professo
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang e Guo (2026)]] tratam o letramento em feedback como algo desenvolvível pela prática: revisores de pares em EFL que trabalharam dialogicamente com a IA generativa para gerar comentários melhoraram sua própria capacidade de julgar e usar feedback, e não apenas os comentários que entregaram.
 
+**O letramento em feedback precisa cobrir uma fonte de máquina tanto quanto uma humana.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] pedem que os estudantes avaliem o feedback de pares e o feedback de um chatbot sobre o mesmo rascunho na mesma reflexão, o que torna a comparação ela mesma a tarefa de aprendizagem. Seus estudantes rebaixaram a autoridade do chatbot em relação à de um instrutor, e os autores leem esse rebaixamento como letramento, e não como relutância.
+
 ## Ideias equivocadas comuns
 
 - **"O feedback por IA melhora o pensamento crítico diretamente."** Em **421 estudantes de graduação chineses**, a associação do uso de GenAI com o [[self-report-measures|pensamento crítico autorrelatado]] **passou pelo letramento em feedback**. O letramento é o mediador, de modo que uma intervenção que acrescenta feedback por IA sem construir a capacidade de lê-lo ataca o termo errado.
@@ -118,6 +120,7 @@ Agir sobre o feedback não é o mesmo que melhorar o artefato. Entre 22 professo
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
+- [[reflection]]
 
 ## Artigos conectados
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Letramento em feedback por IA e engajamento agêntico: um painel de intercepto aleatório de três ondas (Xu 2026)
@@ -146,3 +149,4 @@ Agir sobre o feedback não é o mesmo que melhorar o artefato. Entre 22 professo
 
 - [[genai-use-critical-thinking-moderation-2026]] — O uso de GenAI para o pensamento crítico passou pelo letramento em feedback em GenAI, fortalecendo-se com o pensamento reflexivo
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — A compreensão, e não a acionabilidade, carregou o retorno da revisão
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Avaliar feedback de pares e de chatbot sobre o mesmo rascunho dentro de uma única tarefa de reflexão

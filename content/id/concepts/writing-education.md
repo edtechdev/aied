@@ -10,9 +10,9 @@ discipline: [language learning, writing education]
 level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
-updated: "2026-11-04T02:10:52-05:00"
+updated: "2026-11-08T14:14:01-05:00"
 translation_of: "concepts/writing-education"
-source_updated: "2026-11-01T14:00:00-05:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,7 @@ Kesepakatan adalah properti korpus, bukan properti penilai: [[automated-scoring-
 - **Revisi dan posisi dialogis:** Ketika sebagian besar penelitian umpan balik menulis menanyakan apakah sebuah revisi memperbaiki teks, [[zhao-ji-appraisal-human-ai-revisions-2026|Zhao dan Ji (2026)]] menanyakan posisi apa yang diambil teks hasil revisi. Dengan mengode 168 esai argumentatif EFL memakai Teori Apraisal — draf pertama, revisi setelah [[peer-assessment|umpan balik sejawat]], dan revisi ChatGPT-4 atas draf yang sama — mereka menemukan ketiga kondisi secara statistik tidak dapat dibedakan dalam banyaknya bahasa Engagement yang digunakan, tetapi terkonfigurasi berbeda: revisi hasil umpan balik sejawat menjadi lebih kontraktif (lebih banyak Counter dan Endorse, lebih sedikit Entertain), sedangkan revisi AI mempertahankan campuran Contract/Expand yang lebih seimbang yang memadukan pengajuan bantahan yang lebih kuat dengan lindung nilai yang tetap berjalan. Bacaan mereka adalah bahwa revisi AI paling berguna sebagai teks pembanding yang dibandingkan siswa dengan revisinya sendiri alih-alih sebagai jawaban model, dan bahwa [[ai-feedback-quality|umpan balik AI]] atas argumentasi dapat memperbaiki prosa sekaligus secara diam-diam menutup ruang dialogis penulis — dimensi yang tidak ditangkap rubrik mana pun saat ini.
 
 - **Dukungan proses menulis dan agensi:** [[agency-gap-ai-writing|Penelitian celah agensi]] dan [[ai-writing-support-stage-ownership-2026|penelitian kepemilikan tahap]] mengeksplorasi bagaimana AI mengubah proses menulis dari perencanaan hingga revisi, dan bagaimana [[agency]] siswa terpengaruh ketika AI berpartisipasi pada tahap yang berbeda.
+- **Penalaran harus terhubung ke revisi.** Maike, chatbot Sokratik yang mendiagnosis argumen dan menyasar pertanyaan tanpa menghasilkan teks esai, menghasilkan lebih banyak dialog tingkat gagasan (56% vs 44% giliran) daripada chatbot kontrol ([[favero-thinking-not-writing-chatbot-2026|Favero et al. (2026)]]). Transisi dari gagasan yang didiskusikan ke penyuntingan berasosiasi positif dengan kenaikan skor, dengan sekitar 40% dari 65 siswa sekolah menengah memperbaiki esai mereka.
 
 - **Perspektif posthumanis:** [[posthumanist-ai-literacy-2025|Pendekatan posthumanis terhadap literasi AI]] membingkai ulang menulis sebagai jalinan manusia-AI tempat [[agency]] terdistribusi, menantang baik antropomorfisasi AI yang tidak kritis maupun penolakannya sebagai sekadar alat — pandangan relasional alih-alih transaksional tentang literasi AI.
 
@@ -73,13 +74,13 @@ Kesepakatan adalah properti korpus, bukan properti penilai: [[automated-scoring-
 
 Karena menulis adalah proses kognitif, penelitian tentang AI dalam menulis terhubung ke [[cognitive-offloading]] (apakah dukungan menulis AI melewati pemikiran?), [[metacognition]] (apakah umpan balik AI memperbaiki [[self-assessment]]?), [[self-regulated-learning]] (apakah siswa meregulasi penggunaan umpan balik AI mereka?), dan [[ai-literacy]] (dapatkah siswa mengevaluasi tulisan yang dihasilkan AI secara kritis?). Penelitian [[critical-thinking-genai-scaffolding|perancah berpikir kritis]] dan [[ai-feedback-critical-thinking-writing-2026|umpan balik AI untuk berpikir kritis]] menunjukkan bahwa nilai [[pedagogy|pedagogis]] AI dalam menulis bergantung pada apakah ia mendorong refleksi dan pertimbangan alih-alih penggantian jawaban.
 
-Kepengarangan esai mengikuti volume prompt dalam tugas sintesis — 80% teks ditulis oleh siswa pada klaster dengan prompt minimal berbanding 2% pada klaster terberat — sementara kepadatan konjungtif berkorelasi negatif dengan pengetahuan sebelumnya, bukan dengan jumlah prompt (r = -.30, p = 0.007; [[cognitive-offloading-llm-synthesis-writing|Poquet dkk., 2026]]).
+Kepengarangan esai mengikuti volume prompt dalam tugas sintesis — 80% teks ditulis oleh siswa pada klaster dengan prompt minimal berbanding 2% pada klaster terberat — sementara kepadatan konjungtif berkorelasi negatif dengan [[prior-knowledge|pengetahuan sebelumnya]], bukan dengan jumlah prompt (r = -.30, p = 0.007; [[cognitive-offloading-llm-synthesis-writing|Poquet dkk., 2026]]).
 
 Validasi dua gelombang dengan pembelajar EFL Tionghoa (EFA N = 305; CFA N = 342) memisahkan enam dimensi regulasi dan menambahkan *regulasi lingkungan* — memeriksa konten yang dihasilkan, menyaring sumber yang disarankan, dan membatasi ketergantungan — sebuah segi yang belum dibawa skala menulis L2 yang ada ([[genai-srl-l2-writing-scale-2026|Wang, Zhang dan Zhang (2026)]]).
 
 [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] mempertajam hal ini dengan uraian **sensitif lapisan** tentang [[cognitive-offloading|pembebanan kognitif]] dalam penulisan akademik berbantuan GenAI: mendelegasikan lapisan yang *lebih dalam* (penalaran, logika argumentatif) membawa asosiasi negatif yang lebih kuat dengan kualitas menulis mandiri tanpa AI dan [[critical-thinking|berpikir tingkat tinggi]] daripada mendelegasikan lapisan permukaan (tata bahasa, kosakata). Kolaborasi AI terbuka menghasilkan produk dengan dukungan terbaik tetapi hasil mandiri terburuk, sedangkan dukungan terbatas dengan refleksi mempertahankan kompetensi — bukti bahwa dukungan menulis GenAI tidak merugikan secara seragam, tetapi efeknya bergantung pada lapisan kognitif mana yang didelegasikan siswa.
 
-- **Mengunci keluaran AI di balik keterlibatan sebelumnya memindahkan usaha kembali ke penulis.** Dengan 398 partisipan, [[engage-to-unlock-productive-friction-genai-2026|Su dkk. (2026)]] menemukan penulis menyusun selama 28.02 menit berbanding 23.26 dengan chatbot terbuka, lalu mengevaluasi bagian lebih cepat (17.41 vs 22.21 menit) dengan akurasi setara dan tanpa tambahan waktu tugas. Ketika Chen menempatkan biayanya pada *lapisan mana* yang didelegasikan, rancangan ini memutuskan *kapan* model boleh berbicara sama sekali.
+- **Mengunci keluaran AI di balik keterlibatan sebelumnya memindahkan usaha kembali ke penulis.** Dengan 398 partisipan, [[engage-to-unlock-productive-friction-genai-2026|Su dkk. (2026)]] menemukan penulis menyusun selama 28.02 menit berbanding 23.26 dengan [[conversational-ai|chatbot]] terbuka, lalu mengevaluasi bagian lebih cepat (17.41 vs 22.21 menit) dengan akurasi setara dan tanpa tambahan waktu tugas. Ketika Chen menempatkan biayanya pada *lapisan mana* yang didelegasikan, rancangan ini memutuskan *kapan* model boleh berbicara sama sekali.
 
 [[lu-ai-multimodal-writing-critical-thinking-2026|Lu dkk. (2027)]] memperluas pemikiran ini ke penyusunan *multimodal* oleh penulis yang lebih muda. Dengan membuat 60 siswa [[k-12|kelas 5]] mengeksternalisasi narasi mereka sebagai gambar dan video pendek yang dihasilkan AI, muncul perolehan [[self-report-measures|yang dilaporkan sendiri]] yang bertahan lama pada interpretasi, analisis, evaluasi, dan penjelasan — segi-segi yang dilatih oleh resemiotisasi multimodal — tetapi **tidak ada perolehan pada inferensi**. Membuat makna secara visual eksplisit menurunkan tuntutan untuk menyimpulkan makna implisit dari teks, tepat mekanisme pembebanan yang diuraikan Chen; hanya diskusi sejawat terstruktur yang memulihkan kesempatan untuk inferensi. Studi ini memperingatkan bahwa penyusunan [[multimodal|AI multimodal]] membantu penulis muda merenungkan kejelasan dan koherensi sekaligus berpotensi menyaring habis kerja inferensial yang dipertahankan oleh menulis teks saja — pertimbangan rancangan bagi pengajar menulis yang memadukan [[visualization|visual]] AI dengan [[peer-assessment|umpan balik]] sejawat.
 
@@ -108,6 +109,12 @@ Sikap melatih-bukan-menyusun ini adalah ungkapan ranah menulis dari batas menyel
 
 Pendidikan menulis terhubung ke [[automated-essay-scoring]], [[ai-feedback-quality]], [[academic-integrity]], [[cognitive-offloading]], [[ai-literacy]], [[language-learning]], [[formative-assessment]], [[peer-assessment]], [[metacognition]], [[self-regulated-learning]], dan [[higher-ed]]. Ini adalah domain tempat kemampuan dan risiko AI sama-sama sangat terlihat, menjadikannya situs yang kaya untuk mempelajari bagaimana AI mengubah pedagogi, [[assessment]], dan hakikat kepengarangan serta [[agency]] itu sendiri.
 
+## Apa yang dituntut GenAI dari tugas
+
+Al Nafjan (2026) mengusulkan Kerangka Keselarasan Rigor–Komitmen (RCAF), yang menempatkan keterlibatan pada tugas menulis dan pengajaran di sekitarnya alih-alih pada alatnya ([[al-nafjan-genai-eap-writing-engagement-2026]]). Rigor akademik adalah tuntutan yang ditempatkan tugas pada usaha kognitif yang berkelanjutan dan penalaran disipliner, dan kerangka itu membaginya menjadi tuntutan kognitif, keaslian epistemik, dan akuntabilitas kinerja. Komitmen guru didefinisikan secara sempit, sebagai komitmen pada pembelajaran siswa yang diwujudkan melalui daya tanggap instruksional, dukungan relasional, dan [[scaffolding|perancah kritis]], bukan sebagai sifat yang dimiliki atau tidak dimiliki seorang guru. Penulisnya menegaskan bahwa RCAF bersifat proposisional dan belum divalidasi secara empiris, sehingga ia adalah kosakata desain bagi program menulis alih-alih efek yang telah diuji.
+
+Bagi desain tugas, klaimnya adalah bahwa rigor dan komitmen saling berinteraksi alih-alih bertambah. Tuntutan tinggi dengan dukungan tipis diprediksi mendorong siswa ke arah penyembunyian dan permainan deteksi, sementara kehangatan tanpa tuntutan membiarkan keluaran yang fasih lolos sebagai pembelajaran. Hanya konfigurasi tuntutan tinggi dan dukungan tinggi yang diprediksi menghasilkan keterlibatan mendalam, dengan [[evaluative-judgment|pertimbangan evaluatif]] melakukan kerja memutuskan kapan keluaran berguna, tidak memadai, atau menyesatkan. Karena GenAI dapat menghasilkan prosa akademik yang dapat diterima, kerangka itu memberi penilaian menulis kewajiban spesifik: menuntut penyusunan draf dan revisi yang terlihat agar kinerja tetap terikat pada pemikiran yang seharusnya ia wakili.
+
 ## Implikasi bagi pengajar menulis
 
 - **Bingkai AI sebagai pelengkap, bukan pengganti, proses menulis.** Penelitian basis pengetahuan secara konsisten memperlakukan AI sebagai perancah untuk penyusunan draf, revisi, dan umpan balik sekaligus melindungi kerja kognitif dan audiens manusia yang menjadikan menulis aktivitas belajar — [[coach-not-crutch-ai-writing|melatih alih-alih menopang]].
@@ -135,6 +142,8 @@ Pendidikan menulis terhubung ke [[automated-essay-scoring]], [[ai-feedback-quali
 
 - **"Meminta satu paragraf dan meminta satu esai adalah jenis bantuan yang sama."** Data jejak memisahkan keduanya. Di antara **361 pesan tercatat** dari **77** penulis esai mahasiswa, permintaan yang menyerahkan perencanaan, penyusunan draf, dan revisi sekaligus adalah kategori terbesar: **137** kueri semacam itu dari lebih dari separuh partisipan. Di dalamnya, **20** meminta satu esai utuh, dan **15 dari 77 (19.5%)** mengirim esai tanpa satu kata pun yang mereka ketik sendiri. Meminta satu paragraf di sekitar sebuah gagasan adalah kategori terkecil, dengan **10** partisipan. [[jelson-students-chatgpt-essay-writing-2026|Mengode setiap kueri terhadap proses menulis]] menunjukkan apa yang tidak dapat ditunjukkan esai jadi.
 
+Akun kelas paling lengkap atas rancangan ulang itu adalah penerapan PAIRR. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] melaporkan 13 seksi dari 10 mata kuliah intensif menulis dan 654 siswa pada 2024, mencakup penulisan perkembangan, komposisi tahun pertama, penulisan profesional, dan mata kuliah menulis STEM. Siswa membaca tentang model bahasa lebih dulu, lalu bertukar umpan balik sejawat, dan baru kemudian meminta umpan balik berbasis rubrik dari chatbot. Prompt-nya berbunyi "Jangan tulis ulang makalah saya untuk saya." Argumen penulisnya bagi urutan itu adalah apa yang dapat dikendalikan mata kuliah: model yang diposisikan sebagai satu suara periferal tidak dapat mengambil alih draf tanpa diperhatikan rubrik instruktur.
+
 ## Miskonsepsi Umum
 
 **"Dukungan menulis AI hanyalah menulis lebih cepat."** Menulis adalah proses kognitif, sosial, dan retoris, bukan sekadar keluaran, itulah sebabnya AI dapat menggeser justru kerja mental yang menjadikan menulis aktivitas belajar. Panduan rancangan yang mengikutinya adalah *melatih, bukan menyusun*: biarkan sistem mempertanyakan dan mengkritik kerangka sementara siswa menghasilkan prosanya. Alat yang menghasilkan draf telah menghapus pemikiran yang seharusnya dikembangkan oleh tugas itu, sebaik apa pun drafnya.
@@ -143,7 +152,7 @@ Pendidikan menulis terhubung ke [[automated-essay-scoring]], [[ai-feedback-quali
 
 **"Umpan balik AI dan umpan balik sejawat saling menggantikan."** Keduanya bergabung. Dalam kursus EFL Tionghoa selama 10 minggu, menambahkan umpan balik ChatGPT *sebelum* tinjauan sejawat menaikkan keterlibatan perilaku, afektif, dan kognitif (η² parsial **0.28 hingga 0.32**) dan memperbaiki skor menulis secara menyeluruh. Urutannya yang berperan — lintasan AI menyiapkan siswa untuk lintasan sejawat alih-alih menggantikannya.
 
-**"Siswa menindaklanjuti umpan balik AI ketika ditawarkan."** Penyerapannya selektif. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston dan Long (2026)]] melacak dua tim biologi sarjana yang merevisi pendahuluan proposal terhadap umpan balik AI buatan instruktur: 10 dari 22 komentar ditangani, penghapusan melebihi penambahan, dan komentar yang menuntut siswa menilai koherensi atau dukungan klaim diabaikan sepenuhnya.
+**"Siswa menindaklanjuti umpan balik AI ketika ditawarkan."** Penyerapannya selektif. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston dan Long (2026)]] melacak dua tim [[biology-education|biologi]] sarjana yang merevisi pendahuluan proposal terhadap umpan balik AI buatan instruktur: 10 dari 22 komentar ditangani, penghapusan melebihi penambahan, dan komentar yang menuntut siswa menilai koherensi atau dukungan klaim diabaikan sepenuhnya.
 
 **"Sebuah model dapat menggantikan pola umpan balik guru."** Ia belum melakukannya dalam bukti. Melacak satu guru lintas tahap draf menemukan pergerakan signifikan pada **lima** jenis fokus umpan balik — dengan *Pujian* naik dari **26.9%** pada draf awal menjadi **84.9%** pada draf akhir — sementara model terdekat bergerak pada tiga jenis dan yang terkecil tidak pada satu pun, dan tidak ada model yang mereplikasi polanya. Umpan balik guru mengalokasikan ulang penekanan menurut tahap draf; umpan balik model cenderung mempertahankan distribusinya. Memperlakukan yang kedua sebagai setara berarti kehilangan lintasannya.
 
@@ -169,8 +178,10 @@ Pendidikan menulis terhubung ke [[automated-essay-scoring]], [[ai-feedback-quali
 - [[english-education]]
 - [[assessment]]
 - [[agency]]
+- [[reflection]]
 
 ## Artikel terkait
+- [[favero-thinking-not-writing-chatbot-2026]] — Berpikir Bukan Menulis: Merancang Chatbot AI untuk Menghubungkan Penalaran dan Revisi
 
 - [[gunay-ozden-process-genre-ai-writing-2026]] — Kuasi-eksperimen 32 siswa: pengajaran proses–genre menaikkan tulisan informatif, multimodal, dan berbantuan AI (Günay & Özden 2026)
 - [[wu-lam-genai-writing-assessment-professors-2026]] — 24 profesor menulis tentang penilaian dengan AI: manfaat untuk umpan balik, pergeseran skor, tidak ada aturan institusi
@@ -218,3 +229,5 @@ Pendidikan menulis terhubung ke [[automated-essay-scoring]], [[ai-feedback-quali
 - [[porcaro-ai-grading-benchmark-2026]] — Melampaui kesepakatan: 22 penilai berprompt menghadapi probe yang jawaban benarnya diketahui, dan sebagian besar dapat dibujuk naik (Porcaro 2026)
 - [[porcaro-ai-grader-reliability-2026]] — Konteks pembelajar mengubah nilai penilai LLM pada karya identik, diukur dalam ablasi within-item pada enam model (Porcaro 2026, Makalah VI)
 - [[jelson-students-chatgpt-essay-writing-2026]] — Delegasi yang diukur dari jejak: 137 kueri tugas-penuh, 15 siswa mengirim esai tanpa satu kata pun yang mereka ketik (Jelson dkk. 2026)
+- [[al-nafjan-genai-eap-writing-engagement-2026]] — Rigor dan komitmen guru sebagai dua dimensi keterlibatan menulis era GenAI
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 seksi, 10 mata kuliah, 654 siswa: penerapan PAIRR unggulan dan prompt berbasis umpan baliknya

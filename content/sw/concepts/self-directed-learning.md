@@ -9,7 +9,7 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-10-25T23:15:00-04:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -34,15 +34,21 @@ ai_assist:
 
 ## Utangulizi
 
-Kujifunza kwa kujiongoza mwenyewe umehusika kwa karibu — lakini ni tofauti na — [[self-regulated-learning|kujifunza kwa kujidhibiti (SRL)]]. Wakati SRL inasisitiza udhibiti wa kisaikolojia, wa motisha na wa tabia wa kujifunza katika wakati huo huo (kupanga, kufuatilia, kudhibiti, kufikiri juu ya mchakato), SDL inasisitiza uwajibikishaji mkubwa wa mwanafunzi kuelekea na kusimamia kujifunza kwake mwenyewe katika muda, mara nyingi katika miktadha isiyo rasmi au iliyochaguliwa na mwanafunzi mwenyewe. SDL ni msingi wa [[adult-learning|kujifunza kwa watu wazima]] na [[lifelong-learning|kujifunza maisha yote]], na ni nadharia inayoonekana wazi katika elimu ya mbali na mtandaoni, ambapo wanafunzi lazima wadumishe uhuru bila muda wa darasa uliopangwa. SDL pia inazidi kuwa *inayoweza kuchunguzwa* kwa njia ya kitaalamu: kwa kuchanganua mtiririko wa mawasiliano ya wanafunzi 315 wa mtandaoni waliounda mifano 822 katika VERA, [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] walitambua alama tatu za tabia za kujiongoza mwenyewe — Uchunguzi, Ujenzi, na Ugunduzi — na waligundua wanafunzi wakiongozwa kutoka ujenzi wa vitendo kwenda Ugunduzi kamili unaoendeshwa na dhana, huku Uchunguzi ukidumu katika hatua zote, na kuonyesha kuwa kiwango na aina ya uhuru ambao wanafunzi wanatekeleza katika kazi isiyo na muundo ya mtandaoni inaweza kutofautishwa kutoka kwa data yao ya ufuatiliaji peke yake.
+Kujifunza kwa kujiongoza mwenyewe ni jirani wa karibu wa [[self-regulated-learning|kujifunza kwa kujidhibiti (SRL)]], si kisawe. Wakati SRL inasisitiza udhibiti wa kisaikolojia, wa motisha na wa tabia wa kujifunza katika wakati huo huo (kupanga, kufuatilia, kudhibiti, kufikiri juu ya mchakato), SDL inasisitiza uwajibikishaji mkubwa wa mwanafunzi kuelekea na kusimamia kujifunza kwake mwenyewe katika muda, mara nyingi katika miktadha isiyo rasmi au iliyochaguliwa na mwanafunzi mwenyewe. SDL ni msingi wa [[adult-learning|kujifunza kwa watu wazima]] na [[lifelong-learning|kujifunza maisha yote]], na ni nadharia inayoonekana wazi katika elimu ya mbali na [[online-teaching-and-learning|mtandaoni]], ambapo wanafunzi lazima wadumishe uhuru bila muda wa darasa uliopangwa. SDL pia inazidi kuwa *inayoweza kuchunguzwa* kwa njia ya kitaalamu: kwa kuchanganua mtiririko wa mawasiliano ya wanafunzi 315 wa mtandaoni waliounda mifano 822 katika VERA, [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] walitambua alama tatu za tabia za kujiongoza mwenyewe — Uchunguzi, Ujenzi, na Ugunduzi. Pia waligundua wanafunzi wakiongozwa kutoka ujenzi wa vitendo kwenda Ugunduzi kamili unaoendeshwa na dhana, huku Uchunguzi ukidumu katika hatua zote, wakionyesha kuwa kiwango na aina ya uhuru ambao wanafunzi wanatekeleza katika kazi isiyo na muundo ya mtandaoni inaweza kutofautishwa kutoka kwa data yao ya ufuatiliaji peke yake.
 
 ## Jinsi AI ya kizalishaji inavyobadilisha kujifunza kwa kujiongoza mwenyewe
 
 [[research-methods-aied|Utafiti]] katika hifadhi hii ya maarifa unarekodi pande zote mbili za uhusiano kati ya GenAI na SDL.
 
 - **AI inaweza kuunga mkono SDL.** [[ai-lifelong-learning-policy|AI na kujifunza maisha yote]] na [[self-directed-growth-generative-ai-learning-analytics|kukua kwa kujiongoza mwenyewe kwa GenAI na uchanganuzi wa kujifunza]] zinaonyesha kuwa zana za AI zinaweza [[scaffolding|kuweka ngazi za msaada]] kwa uchunguzi huru, kutoa rasilimali za mahitaji, na kubinafsisha njia za kujifunza kwa njia zinazoimarisha uhuru wa mwanafunzi. [[genai-educational-outcomes-meta-analysis|Ushahidi wa meta-analisi]] juu ya matokeo ya kielimu ya AI ya kizalishaji na [[conversational-ai-informal-learning|AI ya mazungumzo katika kujifunza isiyo rasmi]] zinaonyesha uwezekano chanya wakati AI inatumika kama rasilimali inayoongozwa na mwanafunzi.
-- **Wanafunzi wanataka mshirika wa kufikiri, si nabii.** Wanafunzi wazima waliohojiwa walitaka AI iwahimize kufikiri juu ya mchakato na kuthibitisha badala ya kutoa majibu, na kuwaachia udhibiti wa njia ya kujifunza badala ya kuitekelezewa ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
+- **Wanafunzi wanataka mshirika wa kufikiri, si nabii.** Wanafunzi wazima waliohojiwa walitaka AI iwahimize kufikiri juu ya mchakato na kuthibitisha badala ya kutoa majibu, na kuwaachia udhibiti wa [[recommender-systems-and-learning-paths|njia ya kujifunza]] badala ya kuitekelezewa ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
+
+- **Kukabidhi uchaguzi wa lengo si sawa na kuunga mkono.** Ukurasa unachukulia kuweka lengo kama kitendo cha msingi cha mwanafunzi, na ushahidi wa kipimo unasema mifano hufanya hivyo tofauti. Dhidi ya wanadamu 175, GPT-5, Claude Sonnet 4.5 na Qwen3 32B walichagua upya lengo la awali kwa 0.93, 0.93 na 0.94 ya majaribio, dhidi ya 0.54 ± 0.18 kwa watu. Entropy ya lengo ilikuwa 0.12 hadi 0.20 dhidi ya 1.67 ± 0.14, na ilani za mfululizo wa mawazo na za mtu hazikufunga pengo. Mfumo unaopendekeza kile cha kujifunza kinachofuata unazalisha utafutaji mwembamba zaidi kuliko mwanafunzi anaomsimamia ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
+
 - **Matumizi bila kufikiri yanadhoofisha SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] wanaonyesha kuwa **matumizi ya GenAI bila kufikiri** — kuzitilia siku matokeo ya AI bila utathmini mahususi — yanadhuru kwa kiasi kinachoweza kuthibitishwa SDL ya wanafunzi wa shahada ya kwanza kwa njia ya moja kwa moja na kupitia udhoofu wa [[self-efficacy]] na [[motivation]] (mfano ulielezea 75.3% ya tofauti ya SDL; TUGA β = −0.42). Athari hasi kwa motisha ilikuwa kali zaidi kwa wanafunzi wa kiume na kwa uwezo binafsi kali zaidi kwa wanafunzi wa kike. Hii inaungana na hatari pana ya [[cognitive-offloading|kutegemea kupita kiasi]] iliyorekodiwa katika hifadhi hii ya maarifa.
+
+- **Matumizi yasiyoongozwa katika kipimo cha idadi ya watu.** Kwa wanafunzi 4,062 katika shule 136 za sekondari za Ujerumani, matumizi ya GenAI ya kukamilisha kazi na yenye mwelekeo wa kujifunza yote yalipanda katika mwaka mmoja wa shule (d = 0.35 na 0.33), huku 5% tu ya wanafunzi hawakuwahi kutumia zana; ufaulu wa awali wa chini ulitabiri matumizi zaidi ya baadaye katika masomo yote sita, lakini hakuna aina ya matumizi iliyotabiri ufaulu wa baadaye ([[scherer-self-directed-genai-use-secondary-2026|Scherer et al. (2026)]]).
+
 - **Kupunguza mzigo wa kiakili na kuagiza kazi kwa wengine.** [[andragogy-cognitive-delegation-genai-2026|Andragogy na kuagiza kazi za kiakili]] na [[learning-by-chatting-genai-impact|kujifunza kwa kuzungumza na GenAI]] zinachunguza jinsi wanafunzi wanaweza kuagiza kazi za kiakili kwa AI kwa njia zinazopuuza uchakataji unaohitaji juhudi ambao SDL inahitaji — hali ya kushindwa ya zana zisizo na mkazo lakini zinazounga mkono uhuru. [[critical-thinking-genai-scaffolding|Kuweka ngazi za msaada za ufikiri mahususi kwa GenAI]] na [[test-driven-ai-assisted-learning|kujifunza kusaidiwa na AI kulingana na majaribio]] zinaonyesha mifumo ya kubuni yenye tija zaidi.
 
 ## Tofauti ya SDL–SRL katika mazoezi
@@ -52,7 +58,7 @@ Kwa sababu SDL inasisitiza mwelekeo unaoanzishwa na mwanafunzi, uingiliaji wa ku
 
 ## Utafiti wa Ngazi za Msaada za Utoaji wa AI katika Kujifunza Kulingana na Utafiti
 
-- **Utoaji wa AI kama ngazi za msaada kwa kujifunza kulingana na utafiti.** An na wenzake (2026) wanabuni mfumo wa utoaji wa taarifa unaotumia AI ambao hubadilisha machapisho ya utafiti kuwa seti za data zilizopangwa, zenye ufuatiliaji ili kuunga mkono ukamilishaji wa tasnifu ya shahada ya kwanza katika [[stem-education|STEM]], na kuwekwa kama **ngazi za msaada za maarifa** zinazoruhusu ukaguzi wa uhusiano kati ya ushahidi na madai huku zikipunguza mahitaji ya kiwango cha chini ya kushughulikia data. Katika jaribio la [[mixed-methods-research|mbinu mchanganyiko]] la wanafunzi 20 kwenye nyaraka 80, wanafunzi walitoa zaidi ya 90% ya vigezo vilivyolengwa, muda wa mapitio ya fasihi walioripotiwa wenyewe ulipungua kwa ~65%, na uwezo wao wa kutambua vigezo vya kuathiri uliongezeka kwa 50% — jambo linalounga mkono wazo kwamba [[generative-ai|AI]] inaweza kusawazisha upya mzigo wa kiakili kuelekea ufikiri wa utafiti wa kiwango cha juu, wa kujiongoza mwenyewe, badala ya muhtasari wa kawaida.
+- **Utoaji wa AI kama ngazi za msaada kwa kujifunza kulingana na utafiti.** An na wenzake (2026) wanabuni mfumo wa utoaji wa taarifa unaotumia AI ambao hubadilisha machapisho ya utafiti kuwa seti za data zilizopangwa, zenye ufuatiliaji ili kuunga mkono ukamilishaji wa tasnifu ya shahada ya kwanza katika [[stem-education|STEM]], na kuwekwa kama **ngazi za msaada za maarifa** zinazoruhusu ukaguzi wa uhusiano kati ya ushahidi na madai huku zikipunguza mahitaji ya kiwango cha chini ya kushughulikia data. Katika jaribio la [[mixed-methods-research|mbinu mchanganyiko]] la wanafunzi 20 kwenye nyaraka 80, wanafunzi walitoa zaidi ya 90% ya vigezo vilivyolengwa, muda wa mapitio ya fasihi [[self-report-measures|walioripotiwa wenyewe]] ulipungua kwa ~65%, na uwezo wao wa kutambua vigezo vya kuathiri uliongezeka kwa 50% — jambo linalounga mkono wazo kwamba [[generative-ai|AI]] inaweza kusawazisha upya mzigo wa kiakili kuelekea ufikiri wa utafiti wa kiwango cha juu, wa kujiongoza mwenyewe, badala ya muhtasari wa kawaida.
 
 ## Dhana Potofu za Kawaida
 
@@ -97,6 +103,9 @@ Kwa sababu SDL inasisitiza mwelekeo unaoanzishwa na mwanafunzi, uingiliaji wa ku
 
 ## Makala Zilizounganishwa
 
+- [[scherer-self-directed-genai-use-secondary-2026]] — Matumizi ya GenAI ya kujiongoza mwenyewe na maendeleo ya kitaaluma kati ya wanafunzi wa sekondari: utafiti mkubwa wa wimbo wa mwaka mmoja
+
+
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Matumizi ya GenAI bila kufikiri na kujifunza kwa kujiongoza mwenyewe (SEM, tofauti za jinsia)
 - [[ai-lifelong-learning-policy]] — Sera ya AI na kujifunza maisha yote
 - [[self-directed-growth-generative-ai-learning-analytics]] — Kukua kwa kujiongoza mwenyewe kwa GenAI na uchanganuzi wa kujifunza
@@ -104,3 +113,6 @@ Kwa sababu SDL inasisitiza mwelekeo unaoanzishwa na mwanafunzi, uingiliaji wa ku
 - [[andragogy-cognitive-delegation-genai-2026]] — Andragogy na kuagiza kazi za kiakili kwa GenAI
 - [[kim-ai-andragogy-2026]] — Matumizi ya AI katika Kuunga Mkono Andragogy (Kim et al. 2026)
 - [[an-goel-self-directed-modeling-2026]]
+
+- [[llm-goal-selection-self-directed-learning-2026]] — Mifano haichagui malengo ya kujifunza kama wanadamu katika kazi ya uchaguzi huru (Molinaro et al. 2026)
+

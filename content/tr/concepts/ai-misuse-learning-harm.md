@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ ai_assist:
 
 YZ yanlış kullanımı, YZ kullanımından farklıdır. Kullanım, YZ’yi öğrenmenin bir tamamlayıcısı olarak kullanmayı — öğrenenin bilişsel işinin döngüde kaldığı [[feedback]], beyin fırtınası veya revizyon yardımı — tanımlar. Yanlış kullanım ise ikameyi tanımlar: kalıcı anlayışı inşa eden zihinsel süreçlerin (taslak hazırlama, hatırlama, analiz, revizyon) YZ’ye devredilmesi. Bilgi tabanının kanıt temelinde belgelenen zarar, yanlış kullanımın yardım etmemesi değil; yanlış kullanımın sonraki, desteksiz başarıyı etkin biçimde düşürmesidir.
 
-Öngörülen zararın kendisi de belgelenmiştir: İsveç anket ve odak grubu verilerinde [[gillette-partnership-ethics-genai-higher-education-2026|Gillette ve ark. (2026)]], katılımcıların %51’inin (n = 106) genAI kullanımının bireysel gelişimi engelleyebileceğinden kaygı duyduğunu ve kural ihlali yerine [[critical-thinking|eleştirel düşünme]], yaratıcılık ve özerklik kayıplarını adlandırdığını bulmuştur.
+Öngörülen zararın kendisi de belgelenmiştir: İsveç anket ve odak grubu verilerinde [[gillette-partnership-ethics-genai-higher-education-2026|Gillette ve ark. (2026)]], katılımcıların %51’inin (n = 106) genAI kullanımının bireysel gelişimi engelleyebileceğinden kaygı duyduğunu ve kural ihlali yerine [[critical-thinking|eleştirel düşünme]], [[creativity|yaratıcılık]] ve özerklik kayıplarını adlandırdığını bulmuştur.
 
 ### Performans–öğrenme uçurumu
 
@@ -74,11 +74,11 @@ En önemli pratik incelik, zararın **değerlendirme türüne göre seçici** ol
 
 ### LLM çağında konuşmaysal kopuş
 
-Sistemi atlatma literatürüne (ipucu suiistimali, sistematik tahmin) diyalog çağında bir karşılığı vardır: konuşmaysal kopuş — ajanla alay etmek, kasten yanlış cevap vermek, ona cevap vermemek, metnini aynalamak veya cevapları esirgemek. [[rho-disengaged-conversational-behaviors-2026|Rho ve ark. (2026)]] bu olguya öğrenci–YZ diyalogunda ilk sistematik eleştirisini getirir ve merkezi dersi yorumsaldır, alarmcı değil. Kopuk bir *söz*, kopulmanın kararlı bir hali değil, etkileşimsel bir hamledir. Yanlış cevaplamanın test sonrası puanlarla görünen ilişkisi, insan etiketli bir duyarlılık kontrolünden sağ çıkmadı ve yazarlar bunu, sıklıkla yeniden etkileşime dönen yörüngelerin *içinde* bir yoklama olarak okurlar (en yüksek performans gösteren küme p = 0.42’de toparlandı). Yörüngeleri asıl ayıran davranış, Cevapları Esirgemek — yanıt vermeyi reddetme — oldu; bu, çözülmek bir yana kalıcıydı. Tasarımcılar için bu, olağan öncelikleri tersine çevirir: gürültülü, görünür kopuş sıklıkla kendi kendini düzelten bir şeydir, oysa sessiz çekilme etkileşimin çöktüğüne işaret eder.
+Sistemi atlatma literatürüne (ipucu suiistimali, sistematik tahmin) diyalog çağında bir karşılığı vardır: konuşmaysal kopuş — ajanla alay etmek, kasten yanlış cevap vermek, ona cevap vermemek, metnini aynalamak veya cevapları esirgemek. [[rho-disengaged-conversational-behaviors-2026|Rho ve ark. (2026)]] bu olguya [[student-ai-interaction|öğrenci–YZ diyaloğunda]] ilk sistematik eleştirisini getirir ve merkezi dersi yorumsaldır, alarmcı değil. Kopuk bir *söz*, kopulmanın kararlı bir hali değil, etkileşimsel bir hamledir. Yanlış cevaplamanın test sonrası puanlarla görünen ilişkisi, insan etiketli bir duyarlılık kontrolünden sağ çıkmadı ve yazarlar bunu, sıklıkla yeniden etkileşime dönen yörüngelerin *içinde* bir yoklama olarak okurlar (en yüksek performans gösteren küme p = 0.42’de toparlandı). Yörüngeleri asıl ayıran davranış, Cevapları Esirgemek — yanıt vermeyi reddetme — oldu; bu, çözülmek bir yana kalıcıydı. Tasarımcılar için bu, olağan öncelikleri tersine çevirir: gürültülü, görünür kopuş sıklıkla kendi kendini düzelten bir şeydir, oysa sessiz çekilme etkileşimin çöktüğüne işaret eder.
 
 ## Yaygın yanlış anlamalar
 
-**“Öğrenciler YZ öğrenmelerine zarar veriyorsa bunu fark ederdi.”** Etmezler ve bu, sayfadaki en sonuç doğuran olgudur: **zarar gören gruptaki öğrenciler daha az öğrendiklerini algılamamıştır.** Dolayısıyla öz bildirim, kullanılabilir bir erken uyarı sinyali değildir. Alıştırmada %48 daha yüksek, sınavda %17 daha düşük örüntüsü, bunu yaşayan kişi için görünmezdir; zarar tespitinin tanıklığa değil ölçüme dayanması gerekmesinin nedeni budur.
+**“Öğrenciler YZ öğrenmelerine zarar veriyorsa bunu fark ederdi.”** Etmezler ve bu, sayfadaki en sonuç doğuran olgudur: **zarar gören gruptaki öğrenciler daha az öğrendiklerini algılamamıştır.** Dolayısıyla [[self-report-measures|öz bildirim]], kullanılabilir bir erken uyarı sinyali değildir. Alıştırmada %48 daha yüksek, sınavda %17 daha düşük örüntüsü, bunu yaşayan kişi için görünmezdir; zarar tespitinin tanıklığa değil ölçüme dayanması gerekmesinin nedeni budur.
 
 **“Risk, bir öğrencinin ne kadar YZ kullandığıdır.”** Risk, YZ’nin neyin yerine konduğudur. Burada yanlış kullanım, kalıcı anlayışı inşa eden taslak hazırlama, hatırlama veya analiz işinin devredilmesi anlamına gelir: tamamlama değil ikame; ve bir öğrenci bir görevde yoğun biçimde ikame ederken bir sonrakinde üretken biçimde tamamlayabilir. Yanlış değişken kullanım hacmidir; doğru olan bilişsel iş bölümüdür.
 

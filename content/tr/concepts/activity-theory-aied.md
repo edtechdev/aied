@@ -9,7 +9,7 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 - Etkinlik kuramı öğrenmeyi bireysel biliş değil özne, araçlar, kurallar, topluluk ve iş bölümünden oluşan kolektif bir sistem olarak görür. Sınıfa yeni bir YZ aracı getirirseniz bunların hangisinin değişmesini beklerdiniz — ve hangisinin inatla aynı kalacağını?
 - Temel fikirlerden biri, bir etkinlik sistemi içindeki çelişkilerin ortadan kaldırılacak hatalar değil gelişmenin itici gücü olmasıdır. Kendi işinizde veya çalışmanızda, işleri yapma biçiminizi değiştirmeye sizi gerçekten iten bir gerilimi düşünebilir misiniz?
-- Etkinlik kuramı, bir öğretmenin YZ benimsemesini yalnızca bireysel tutumlar değil — normlar, kurallar, iş yükü dağılımı — bütün sistemin bir özelliği olarak yeniden çerçeveler. Yetenekli bir öğretmenin gerçekten iyi bir YZ aracına neden direndiğini hangi sistemsel nedenler açıklayabilir?
+- Etkinlik kuramı, bir [[teacher-role|öğretmenin]] YZ benimsemesini yalnızca bireysel tutumlar değil — normlar, kurallar, iş yükü dağılımı — bütün sistemin bir özelliği olarak yeniden çerçeveler. Yetenekli bir öğretmenin gerçekten iyi bir YZ aracına neden direndiğini hangi sistemsel nedenler açıklayabilir?
 - YZ görevleri devraldığında kimin ne yaptığını yeniden yapılandırır; öğrenciler, öğretmenler ve araçlar arasındaki iş bölümünü kaydırır. Kendi bağlamınızdaki hangi bilişsel iş sessizce insanlardan makinelere taşındı — ve kim fark etti?
 - Her disiplin kendi etkinlik sistemi olarak işlev gördüğünden, aynı YZ aracı dersler arasında farklı sonuçlar üretebilir. Yazı derslerini dönüştüren bir aracın matematik dersini neden neredeyse hiç değiştirmemesi — veya tersi — olabilir?
 - Etkinlik kuramı hem YZ’nin öğretmeyi nasıl yeniden şekillendirdiğini analiz etmek hem de açığa çıkardığı gerilimleri gideren müdahaleler tasarlamak için kullanılır. Kendi öğretme veya çalışma uygulamanızı bir etkinlik sistemi olarak görmek, bir sorunu nasıl teşhis ettiğinizi nasıl değiştirebilir?
@@ -42,21 +42,27 @@ Etkinlik kuramı, Vygotsky ve Leontiev’in kültür-tarih psikolojisinden gelir
 - **Nesne** — etkinliğin yöneldiği güdü veya hedef; etkinliğin dönüştürdüğü “ham madde”.
 - **Araçlar / aracı yapıtlar** — öznenin nesne üzerinde eylemde bulunduğu araçlar, teknolojiler, işaretler ve dil.
 - **Topluluk** — nesneyi paylaşan ve etkinliğin sosyal bağlamını oluşturan grup.
-- **Kurallar** — etkinliği yöneten açık ve zımni normlar, gelenekler ve düzenlemeler.
+- **Kurallar** — etkinliği yöneten açık ve [[social-norms-ai-use|zımni normlar]], gelenekler ve düzenlemeler.
 - **İş bölümü** — görevlerin, gücün ve sorumluluğun topluluk arasında nasıl dağıtıldığı.
 
 Belirleyici bir özellik **çelişkidir**: etkinlik sistemleri tarihsel olarak biriken yapısal gerilimler içerir (bir öğenin içinde, öğeler arasında ya da eski ile yeni tanıtılan bir öğe/araç arasında). Çelişkiler ortadan kaldırılacak hatalar değil *gelişmenin itici gücüdür* — aşırılaştığında katılımcıları yerleşik normları sorgulamaya ve onlardan sapmaya iterek genişleyici dönüşümün yolunu açar (Engeström, 2001).
+
+**Araçlar yuvası, üretken YZ’nin zorladığı yuvadır.** 2026 tarihli sosyokültürel bir deneme, bir [[llm|LLM]]’in hem etkinliğe aracılık ettiğini hem de onun yörüngesini yeniden şekillendiren koşullu katkılar ürettiğini savunur; dolayısıyla ona araç demek etkisini hafife almak, ona işbirlikçi demek ise sahip olmadığı amaçlılık, hesap verebilirlik ve topluluk üyeliği atfetmek olur ([[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate ve Ritchie, 2026]]). Onların *aracı etmen* kavramı araç konumunda durur ama toplulukta bir konum tutmaz; bu da iş bölümünün yalnızca araçlar çevresinde değil katkılar çevresinde de analiz edilmesi gerektiği anlamına gelir.
+
 
 ### Etkinlik kuramı eğitimde YZ için neden önemlidir
 
 YZ, mevcut eğitim etkinlik sistemlerine yeni **araçlar/aracı yapıtlar** sokar; bu hem fırsatlar hem çelişkiler üretir. Etkinlik kuramı, AIED araştırmasına bu değişiklikleri analiz etmek için bir söz dağarcığı ve yöntem verir:
 
 - **İş bölümünü yeniden yapılandıran aracı yapıt olarak YZ.** YZ sistemleri yalnızca bilgi iletmez; görevleri devralır, kimin ne yaptığını değiştirir ve bilişsel işi insanlar ve makineler arasında yeniden dağıtır. Çalışmalar, YZ’nin öğrenciler, öğretmenler ve araçlar arasındaki iş bölümünü nasıl kaydırdığını incelemek için etkinlik kuramını kullanır — ör. iş birliğine dayalı yazımda veya özel ders sistemlerinde — ve bunun [[agency|insan etkenliği]] için ne anlama geldiğini inceler.
+
+- **İş, kurallar değişmeden önce yeniden dağılır.** Aile eğitiminde LLM’ler üzerine 53 HCI çalışmasının [[meta-analysis-systematic-review|kapsam derlemesi]], sistemlerin materyal ürettiğini, diyaloğu yapılandırdığını, bağlamı yorumladığını ve aileleri dış bilgiye bağladığını, [[parents-and-families|ebeveynlerin]] ise gözden geçirme, uyarlama ve karar verme işini üstlendiğini bulmuştur; doğrulama ve onarım işi belgelenmemiştir ([[llm-family-education-activity-theory-2026|Luo ve ark., 2026]]). Katılımı yöneten kurallar çoğunlukla yürürlüğe konmuş değil öngörülmüştür — çerçevenin öngördüğü, yeni bir araç ile değişmemiş bir kural kümesi arasındaki uyumsuzluk.
+
 - **Öğretmen benimsemesinin ve [[educational-development|mesleki gelişimin]] analizi.** Etkinlik kuramı, öğretmenlerin YZ’yi benimsemesini bireysel tutumların değil bütün etkinlik sisteminin (topluluk normları, kurallar, iş bölümü, [[governance|kurumsal]] beklentiler) bir özelliği olarak yeniden çerçeveler. [[quantitative-research|Nicel]] çalışmalar [[activity-theory-teachers-adoption-ai-sem-2026|altı ET bileşenini ölçülebilir yapılar olarak modeller]], öğretmenlerin YZ benimseme niyetini öngörür; [[qualitative-research|nitel]] çalışmalar [[lee-anson-k12-teachers-ai-activity-theory|öğretmenlerin altı katlı duygularını belgeler]] (uygun olmayan, kişiliksiz, kusurlu, belirsiz, yardımcı, kaçınılmaz); müdahale çalışmaları ise [[activity-theory-teacher-pd-ai-agent-design-2026|teşhis etmek ve yeniden tasarlamak için CHAT’i kullanır]] ve kopuşu ihtiyaçları engelleyen sistemlere rasyonel bir yanıt olarak ele alır.
 - **Norm değişimi ve sistemik bozulma.** YZ etkinlik sistemine yeni bir araç soktuğunden, mevcut kurallar ve normlarla çelişkiler üretir. Öğrencilerin GenAI kullanımı çalışmaları, öğrencilerin uyum sağlarken [[ai-disruption-engineering-education-chat-2026|yeni zımni kuralların nasıl ortaya çıktığını gösterir]]; öz-yönelim, öğrenme hedefleri, öğretmenin rolü ve [[ethics]] çevresindeki normları dönüştürür.
 - **[[learning-analytics|Öğrenme analitiğini]] ve ölçümü çıpalama.** Etkinlik kuramı, ölçüm yüzlerini etkinlik sistemi öğelerine eşleyerek analitiğin *tasarımını* temellendirebilir. CHAT çıpalı bir analitik hattı [[chat-anchored-learning-analytics-ai-literacy-2026|zamansal katılımı, söylem kalitesini ve kavram olgunluğunu CHAT öğelerine eşler]], küçük tartışma temelli sınıflarda erken riskli katılımı saptamak için.
 - **Disiplinsellik ve bağlamlar arası çeşitlilik.** Etkinlik sistemleri tarihsel ve kültürel olarak yerleşik olduğundan, etkinlik kuramı aynı YZ aracının neden disiplinler ve bağlamlar arasında farklı sonuçlar ürettiğini açıklar — her disiplin kendi kuralları, topluluğu ve iş bölümüyle bir etkinlik sistemi olarak işlev görür [[jiang-genai-activity-theory-disciplines-2026|(ör. lisans öğrencilerinin GenAI kullanımı ve beyanında akademik alanlar arasındaki farklar)]].
-- **Bir araç, iki etkinlik sistemi, eşit olmayan nüfuz.** CHAT yoluyla analiz edilen on matematik akademisyeni arasında, GenAI araştırma etkinlik sisteminde çevredeki bir araç olarak kaldı; öğretmede ise öğretmenin rolünü eleştirel muhakemenin aracısına doğru yeniden şekillendirdi; benimseme [[governance|kurumsal]] politika yerine öğrenci kullanımı ve akran ağları yoluyla yayıldı ([[genai-runaway-object-math-higher-ed|Bakogianni ve ark., 2026]]).
+- **Bir araç, iki etkinlik sistemi, eşit olmayan nüfuz.** CHAT yoluyla analiz edilen on matematik akademisyeni arasında, GenAI araştırma etkinlik sisteminde çevredeki bir araç olarak kaldı; öğretmede ise öğretmenin rolünü [[critical-thinking|eleştirel muhakemenin]] aracısına doğru yeniden şekillendirdi; benimseme [[governance|kurumsal]] politika yerine öğrenci kullanımı ve akran ağları yoluyla yayıldı ([[genai-runaway-object-math-higher-ed|Bakogianni ve ark., 2026]]).
 
 ### Etkinlik kuramı ve ilgili çerçeveler
 
@@ -105,3 +111,7 @@ Tasarımcılar ve eğitimciler için etkinlik kuramı, YZ aracının kendisinin 
 - [[ai-disruption-engineering-education-chat-2026]] — CHAT yoluyla mühendislik eğitiminde değişen öğrenci normları
 - [[activity-theory-teacher-pd-ai-agent-design-2026]] — Öğretmen mesleki gelişiminin CHAT-ÖBK yeniden tasarımı
 - [[chat-anchored-learning-analytics-ai-literacy-2026]] — YZ okuryazarlığı için CHAT çıpalı öğrenme analitiği hattı
+
+- [[llm-family-education-activity-theory-2026]] — 53 HCI çalışmasının kapsam derlemesi: LLM’ler ailelerin eğitim emeğini yeniden dağıttı, kurallar ise çoğunlukla yürürlüğe konmak yerine öngörüldü
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Bir aracı etmen olarak GenAI: ne araç ne işbirlikçi
+

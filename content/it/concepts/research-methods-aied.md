@@ -1,7 +1,7 @@
 ---
 title: Metodi di ricerca nell'AIED
 created: "2026-10-14T22:10:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:14:01-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: "concepts/research-methods-aied"
-source_updated: "2026-10-26T13:35:09-04:00"
+source_updated: "2026-11-01T11:00:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -192,6 +192,9 @@ Nella pratica, la ricerca sull'IA nell'istruzione ricade raramente in modo netto
 
 [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] aggiunge un filone bibliometrico che si colloca a parte rispetto a questi quattro: mappando 407 record per rete di co-parole e co-autorialità per tracciare lo sviluppo concettuale di un campo. L'autore è esplicito che la lettura SWOT costruita su di esso è un dispositivo interpretativo anziché una tecnica analitica indipendente, il che segna il confine tra sintesi e analisi in questa tradizione.
 
+- **"Una statistica è affidabile una volta calcolata."** Il benchmark controlla prima il controllo. Ogni sonda e ogni verdetto, tranne sei gruppi nominati di statistiche, è stato eseguito su correttori simulati con un effetto impiantato e senza, e una misura la cui verifica non trovava l'effetto impiantato veniva riportata come non misurata anziché come risultato. I suoi report sono generati dal proprio markdown e dal proprio codice, così ogni numero stampato rimanda al file e al campo da cui proviene ed è ricalcolato alla build. [[porcaro-ai-grading-benchmark-2026|Un verdetto è una decisione di progetto che può essere verificata]] prima che si legga qualsiasi risultato reale.
+
+
 
 ## Idee sbagliate comuni
 
@@ -251,3 +254,6 @@ Nella pratica, la ricerca sull'IA nell'istruzione ricade raramente in modo netto
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis of AI effect on learning
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: flawed AIED meta-analysis audit
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+
+- [[porcaro-ai-grading-benchmark-2026]] — Oltre l'accordo: sonde di cui si conosce la risposta giusta, verifiche con effetto impiantato su correttori simulati e 22 modelli con prompt (Porcaro 2026)
+

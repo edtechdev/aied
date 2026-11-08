@@ -1,13 +1,13 @@
 ---
 title: Tecnologias
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:35:57-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ A [[ai-education|IA na educação]] roda sobre uma pilha técnica específica, e
 
 - **Grandes modelos de linguagem (LLMs).** A espinha dorsal computacional da maior parte da [[ai-education|AIED]] moderna — os [[llm|LLMs]] geram texto semelhante ao humano para tutoria, avaliação e geração de conteúdo, e são a tecnologia mais referenciada nesta base de conhecimento. O [[llm-training-and-fine-tuning|treinamento e o ajuste fino]] adaptam LLMs gerais para uso educacional.
 - **IA generativa.** A categoria mais ampla de sistemas que produzem texto, código, imagens e outros conteúdos — a [[generative-ai|IA generativa]] (impulsionada sobretudo por LLMs) é a tecnologia por trás da atual onda de pesquisa em [[ai-education|AIED]]. Veja também os [[multimodal|modelos multimodais]] (texto, imagem, áudio) e a [[simulation|simulação]].
-- **Robôs e sistemas corporificados.** Os [[educational-robotics|robôs na educação]] acrescentam uma presença corporificada e frequentemente social — kits programáveis para pensamento computacional e robôs humanoides/sociais para tutoria, narrativa e dramatização. A robótica é uma vertente técnica distinta que se sobrepõe à [[agentic-ai|IA agêntica]] e ao desenho [[human-in-the-loop-ai|com humano no circuito]].
+- **Robôs e sistemas corporificados.** Os [[educational-robotics|robôs na educação]] acrescentam uma [[embodied-learning|presença corporificada]] e [[community-of-inquiry|frequentemente social]] — kits programáveis para [[computational-thinking|pensamento computacional]] e robôs humanoides/sociais para tutoria, [[storytelling-in-education|narrativa]] e dramatização. A robótica é uma vertente técnica distinta que se sobrepõe à [[agentic-ai|IA agêntica]] e ao desenho [[human-in-the-loop-ai|com humano no circuito]].
 - **Sistemas baseados em conhecimento.** Os [[knowledge-graph|grafos de conhecimento]] e a [[educational-nlp|PLN educacional]] representam e processam conhecimento de domínio, cada vez mais combinados com LLMs para tutoria fundamentada e explicável.
 
 ## Técnicas e métodos
@@ -59,7 +59,9 @@ A vertente técnica é inseparável dos outros temas da base de conhecimento:
 
 - **Pedagogia:** as escolhas técnicas incorporam suposições pedagógicas — um [[intelligent-tutoring|tutor]] construído sobre [[socratic-method|prompts socráticos]] raciocina junto aos estudantes, enquanto um modelo gerador de respostas pode recorrer à provisão direta por padrão (veja [[pedagogy|pedagogias e estratégias de ensino]]).
 - **Avaliação:** a [[ai-ed-evaluation|avaliação de IA na educação]] e os [[benchmark|benchmarks]] determinam se os sistemas de IA de fato funcionam; a [[assessment|avaliação]] e a [[automated-assessment|avaliação automatizada]] usam a pilha técnica para corrigir e gerar.
-- **Uso responsável:** as técnicas técnicas são centrais para [[reducing-ai-misuse|reduzir o uso indevido de IA]] — o fundamento por [[rag|RAG]], as salvaguardas, o [[prompt-engineering|andaimento]] por [[scaffolding|prompts]] e a supervisão [[human-in-the-loop-ai|humana]] moldam se a IA apoia ou mina a aprendizagem ([[cognitive-offloading|descarregamento cognitivo]], [[hallucination-risk|risco de alucinação]]).
+- **Uso responsável:** as técnicas técnicas são centrais para [[reducing-ai-misuse|reduzir o uso indevido de IA]] — o fundamento por [[rag|RAG]], as [[guardrails|salvaguardas]], o [[prompt-engineering|andaimento]] por [[scaffolding|prompts]] e a supervisão [[human-in-the-loop-ai|humana]] moldam se a IA apoia ou mina a aprendizagem ([[cognitive-offloading|descarregamento cognitivo]], [[hallucination-risk|risco de alucinação]]).
+
+**A atenção da pesquisa se concentra em uma fatia estreita do ecossistema de ferramentas.** Ao mapear 85 ferramentas de IA contra a literatura de STEM e engenharia, [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky et al. (2026)]] constataram que apenas 36 eram visíveis na pesquisa e que a [[conversational-ai|IA conversacional]] e os LLMs respondiam por 73,7% das 927 conexões entre artigos e ferramentas, com 23 publicações em um contexto de laboratório consolidado.
 
 ## Implicações para a IA na educação
 
@@ -102,6 +104,8 @@ A vertente técnica é inseparável dos outros temas da base de conhecimento:
 - [[personalized-learning]]
 
 ## Artigos conectados
+
+- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — Visibilidade na pesquisa de 85 ferramentas de IA na educação em STEM e engenharia (Terkowsky et al. 2026)
 
 - [[agentic-ai-education-scoping-review]] — Revisão de escopo da IA agêntica na educação
 - [[genai-meta-analysis-programming-learning]] — Meta-análise do efeito da GenAI sobre produtividade e aprendizagem em programação

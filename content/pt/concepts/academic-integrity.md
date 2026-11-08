@@ -1,7 +1,7 @@
 ---
 title: Integridade acadêmica
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-08T11:35:57-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -181,6 +181,8 @@ O primeiro estudo de Teoria do Comportamento Planejado sobre intenção de má c
 
 A OCDE (2023) registra que, no início de 2024, nenhum dos dezoito países pesquisados tinha regulação específica de IA generativa para a educação e nove haviam delegado a governança ao nível da escola. Lido pela não-performatividade de Ahmed, o vocabulário expressa responsividade ética sem qualquer mecanismo para efetivá-la, de modo que a responsabilidade é invocada por todos os atores ao mesmo tempo e localizada em nenhum. Hashem nomeia o resultado de **habitus de trapaça** em mudança: disposições para a participação legítima recalibradas sob indeterminação crônica, estratificadas pelo capital acadêmico que os estudantes trazem, com trapacear e ser trapaceado tratados como condições concorrentes em vez de alternativas. Tudo isso é proposto a partir do texto da política, não observado em estudantes.
 
+Em 546 estudantes de graduação, a integridade ficou em primeiro lugar entre cinco dimensões de percepção (3,79 de 5) e não variou por programa de graduação, o que localiza a variação disciplinar no uso da IA e na demanda de habilidades, e não em quanto a integridade importa ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Ideias equivocadas comuns
 
 - **"As ferramentas de detecção identificam escrita por IA."** Texto gerado por IA **passou como autoria humana em até 80% dos casos**, enquanto a evidência sobre detecção situa a **detecção por máquina em cerca de 80% contra 78,4% de avaliadores humanos**. Julgamento humano e de máquina são quase igualmente (pouco) confiáveis, então um veredito de detecção não é evidência de autoria.
@@ -256,3 +258,6 @@ A OCDE (2023) registra que, no início de 2024, nenhum dos dezoito países pesqu
 
 - [[issa-teamwork-framework-academic-integrity-2024]] — Verificação por membro no trabalho em equipe como alternativa à detecção (Issa e Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — O déficit de legitimação da autoria na cocriação humano–IA (Hong et al. 2026)
+
+- [[crisol-moya-integrity-assessment-2026]] — 546 estudantes: a integridade vem em primeiro lugar e é estável entre programas de graduação (Crisol Moya et al. 2026)
+

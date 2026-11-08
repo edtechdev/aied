@@ -9,7 +9,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,10 @@ Ujuzi wa maoni unaeleweka kwa upana kama seti ya uwezo unaohusiana — uwezo wa 
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang na Guo (2026)]] wanachukulia ujuzi wa maoni kama unaoweza kukuzwa kupitia mazoezi: wakaguzi wa marika wa EFL waliofanya kazi kwa mazungumzo na AI ya uzalishaji ili kuzalisha maoni waliboresha uwezo wao wenyewe wa kuhukumu na kutumia maoni, si maoni waliyotoa pekee.
 
+
+**Ujuzi wa maoni lazima ufunike chanzo cha mashine pamoja na cha binadamu.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] wanaomba wanafunzi kutathmini maoni ya marika na maoni ya chatbot kwenye rasimu moja katika tafakari moja, jambo linalofanya kulinganisha yenyewe kuwa kazi ya kujifunza. Wanafunzi wao walipunguza mamlaka ya chatbot ikilinganishwa na ya mkufunzi, na waandishi wanasoma upunguzaji huo kama ujuzi badala ya kusitasita.
+
+
 ### Kwa nini ujuzi wa maoni unamaanisha kwa AI katika elimu
 
 AI hubadilisha maoni katika mwelekeo miwili ambayo yote yanaongeza uzito wa ujuzi wa maoni. Kwanza, AI huongeza sana *wingi na haraka* ya maoni ([[ai-feedback-quality]], [[feedback|Mzunguko wa Maoni]]), hivyo wanafunzi wanakabili maoni mengi zaidi ambayo lazima wayapange na wayatathmini. Pili, maoni yaliyozalishwa na AI yanabeba hatari tofauti — upungufu wa usahihi, [[hallucination-risk|kutunga vitu visivyokuwepo]], na 'dhuluma ya utawala' — ambayo yanahitaji ujuzi wa [[critical-thinking|tathmini mahususi]] na uangalifu dhidi ya Kutegemea Kupita Kiasi na [[llm-fallacy-misattribution|kushindwa kuhusisha kwa njia sahihi]]. Ujuzi wa maoni kwa hivyo unakuwa kijenzi cha msingi cha [[ai-literacy]]: kujua si tu jinsi ya kutoa ilani kwa AI kwa maoni, bali jinsi ya kuhukumu iwapo maoni yanastahili kutendea na jinsi ya kuyabadilisha kuwa kujifunza halisi badala ya kukamilisha kazi.
@@ -104,11 +108,17 @@ Kutenda juu ya maoni si sawa na kuboresha bidhaa. Miongoni mwa walimu 22 wa hisa
 - [[cognitive-offloading]]
 - [[higher-ed]]
 
+- [[reflection]]
+
+
 ## Makala Zilizounganishwa
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Ujuzi wa maoni ya AI na ushirikiano wa wakala: paneli ya mawimbi matatu ya makutano ya nasibu (Xu 2026)
 - [[ai-feedback-literacy-assessment-as-learning-2026]] — Kuzalisha sampuli za kazi zilizopimwa kwa rubriki ili kufundisha ujuzi wa maoni (Pennington & Hock 2026)
 - [[ai-peer-feedback-stem-teacher-education-2026]] — Kupokea kwa uteuzi bila kuboresha bidhaa: pengo la tafsiri ya maoni (Oh 2026)
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — Uelewa, si uwezo wa kutenda, ulibeba faida ya marekebisho
+
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Kutathmini maoni ya marika na ya chatbot kwenye rasimu moja ndani ya kazi moja ya tafakari
+
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Maoni ya AI bila fremu ya mwalimu yanaongeza kiwango cha ujuzi wa maoni (Brunnström & Palmqvist 2026)
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
 - [[mendoza-ai-feedback-feedback-literacy-srl]] — Ujuzi wa maoni unarekebisha maoni ya AI → kujifunza kwa kujidhibiti (Mendoza et al. 2026)

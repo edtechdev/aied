@@ -1,7 +1,7 @@
 ---
 title: Sensör ve Bakış Analitiği
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-08T13:26:06-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-04T16:09:41-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,8 @@ Etiket çoğu zaman en zayıf halkadır. E3Sense öğrenenlerin kendi bölüm de
 Sinirsel bir bağıntı bir puan değildir. EEG’den yeniden oluşturulan görüntüler, 55 katılımcı-video gözleminde test performansıyla R² = 0,79 düzeyinde ilişkiliydi. Doğru yanıtlanan maddeler yanlış olanlara göre daha yüksek anlamsal benzerlik de gösterdi. Ancak bir katılımcı yüksek kaliteli yeniden oluşturmalar üretti ve yanlış yanıtladı; dolayısıyla yeniden oluşturma kalitesi doğruluk olarak okunamaz ([[seeing-cognitive-representations-eeg-reconstruction|Su vd., 2026]]).
 
 Dikkat öğrenme değildir. TutorLoop’ta dikkat öğrenmeyle r = 0,017 düzeyinde ilişkiliydi, iş yükü ise r = -0,168 ile olumsuz yönde ilişkiliydi ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Dikkat sinyalini en üst düzeye çıkaran bir sistem, gürültüye yakın bir şeyi optimize etmiş olurdu.
+
+Bir sensör, bir çalışmanın etkileşim iddia ettiği yerde ortak bulunurluğu kaydedebilir: [[hur-computational-analysis-teacher-group-interactions-2026|Hur ve ark. (2026)]], duruş tabanlı bir dedektörün yalnızca %55 geri çağırmaya ulaştığını ve insan kodlayıcıların öğretmen–öğrenci grup etkileşimlerinde belirlediği 20 olaydan 11’ini yakaladığını buldu. Öğretmen kodlanmış kesitlerin %49,2’sinde grup sınırının içindeydi, oysa öğrenciler öğretmene yalnızca %25,4’ünde bakıyordu ve her iki karşılaştırmada da hiçbir ses özelliği değişmedi; dolayısıyla işlem hattı sürdürülen etkileşimi değil uzamsal ortak bulunurluğu kaydetti.
 
 Fizyolojik bir profil bir tanı değildir. Sınav stresi modelleri uyarılma ve harekete dayanarak bir not kategorisi öngörür; yazarlar ise çıktının yüksek riskli bir karara değil kişisel koşulların ve ruh sağlığı bağlamının yanına ait olduğunda ısrar eder ([[physiological-signals-exam-outcomes-ml|Yamazaki ve Rimal, 2026]]).
 

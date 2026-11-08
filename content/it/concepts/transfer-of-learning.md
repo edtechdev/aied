@@ -1,7 +1,7 @@
 ---
 title: Transfer dell'apprendimento
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:18:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,7 +9,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: "concepts/transfer-of-learning"
-source_updated: "2026-10-25T22:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 
 Il transfer dell'apprendimento è una preoccupazione fondativa nella [[research-methods-aied|ricerca]] educativa, e gli strumenti di IA l'hanno reso urgente. Il pattern empirico definitorio documentato attraverso gli studi sull'IA nell'educazione è un **paradosso del transfer**: gli studenti che usano l'IA mostrano tipicamente guadagni immediati e misurabili nei compiti in cui l'IA è disponibile, ma quei guadagni spesso non persistono — o addirittura si invertono — quando l'IA viene rimossa e gli studenti devono dimostrare la comprensione in modo indipendente. Questo pattern chiama in causa il [[cognitive-offloading|sovra-affidamento]], la Teoria del Carico Cognitivo e la [[metacognition|metacognizione]] come meccanismi in azione, e si collega direttamente ai dibattiti sulla progettazione del [[intelligent-tutoring|tutoring con IA]].
 
-La prontezza non è transfer: la pratica orale assistita dall'IA è stata associata a una minore ansia nel parlare e a una maggiore disponibilità a comunicare con gli esseri umani, eppure nessuno dei due studi ha osservato il parlato umano, lasciando il percorso dalla prova orale con l'IA alla capacità comunicativa umana una proposta pedagogica non verificata ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
+La prontezza non è transfer: la pratica orale assistita dall'IA è stata associata a una minore [[anxiety-and-stress|ansia]] nel parlare e a una maggiore disponibilità a comunicare con gli esseri umani, eppure nessuno dei due studi ha osservato il parlato umano, lasciando il percorso dalla prova orale con l'IA alla capacità comunicativa umana una proposta pedagogica non verificata ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
 ### Il paradosso del transfer
 
@@ -72,7 +72,7 @@ Tutti e cinque gli studi mostrano un pattern di **transfer negativo o nullo** qu
 
 **Performance dipendente dallo strumento.** Gli studenti possono ottimizzare per le affordance specifiche dello strumento di IA ([[prompt-engineering|prompt engineering]], affidamento sulla struttura del codice generato) anziché costruire generalizzazione nel dominio — una forma di [[cognitive-offloading-speedup-illusion|esternalizzazione cognitiva]] che appare produttiva ma sostituisce l'apprendimento duraturo.
 
-Un'aula protetta può anche insegnare l'abitudine sbagliata: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] avvertono che simulazioni con regole fissate in anticipo filtrano l'incertezza e rafforzano il rispetto delle regole, quindi le abitudini decisionali formate al loro interno possono diventare una passività cognitiva una volta che gli studenti incontrano interessi in competizione e informazioni incomplete in contesti reali.
+Un'aula protetta può anche insegnare l'abitudine sbagliata: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] avvertono che [[simulation|simulazioni]] con regole fissate in anticipo filtrano l'incertezza e rafforzano il rispetto delle regole, quindi le abitudini decisionali formate al loro interno possono diventare una passività cognitiva una volta che gli studenti incontrano interessi in competizione e informazioni incomplete in contesti reali.
 **Esternalizzazione sensibile al livello e transfer.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] verifica direttamente la distinzione di Salomon, Perkins & Globerson tra "effetti con vs. effetti della tecnologia" nella scrittura assistita da [[generative-ai|GenAI]]: un quasi-esperimento di otto settimane ha rilevato che la collaborazione aperta con l'IA massimizzava la performance nella scrittura assistita ma produceva gli esiti di near-transfer indipendente *più bassi* senza IA, mentre il supporto delimitato con riflessione preservava la competenza indipendente. Livelli di esternalizzazione più profondi (ragionamento, struttura) prevedevano transfer peggiore rispetto ai livelli superficiali (grammatica). Questa è evidenza diretta dalla classe che i guadagni di performance *con* supporto dell'IA non si trasferiscono alla performance indipendente *senza* supporto — e che la profondità della delega, non solo il fatto che l'IA venga usata, plasma il transfer.
 
 Un'istanza complementare, per quanto confusa, viene dalla [[physics-education|fisica]]: la riprogettazione alla Ruhr University Bochum di un corso introduttivo di fisica nucleare e delle particelle ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) ha visto gli studenti completare con successo problemi di ricerca collaborativi e ricchi di risorse con l'assistenza dell'IA, eppure quegli stessi studenti ottenevano in media 20,6/80 in un esame scritto convenzionale senza aiuti, con diversi tentativi seri incapaci di completare calcoli standard. Gli autori leggono questo come evidenza che la performance assistita non si trasferisce automaticamente alla performance non sollecitata, e il loro rimedio è la progettazione deliberata: rendere l'esame scritto l'unico determinante del voto, rilasciare in anticipo i problemi dei tutorial così che il tempo in classe diventi discussione preparata, e aggiungere preparazione sui prerequisiti, esempi risolti e consolidamento attorno al lavoro esplorativo in cui l'IA è permessa.
@@ -99,6 +99,10 @@ Questo si allinea con la ricerca sul [[intelligent-tutoring|tutoring con IA]] ch
 2. **Differenze di dominio:** il transfer è migliore in domini ben strutturati (matematica) vs. domini mal strutturati (scrittura)?
 3. **Differenze individuali:** gli studenti con [[prior-knowledge|conoscenze pregresse]] solide subiscono una perdita di transfer minore dei novizi?
 4. **Rimediazione delle abilità:** sessioni esplicite di pratica "senza IA" possono invertire la dipendenza dallo strumento?
+
+
+Il problema della scala temporale ha ora una formalizzazione. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] chiama *washout cognitivo* l'intervallo successivo al ritiro del supporto e gli attribuisce quattro esiti candidati: rimbalzo elastico, plateau parziale, impalcatura latente e iper-recupero. La reversibilità, sostiene l'articolo, è ciò che determina la gravità, e propone un protocollo preregistrabile a tre bracci e ventidue settimane per misurarla. Gli studi sopra hanno testato il transfer a poche ore dalla fine dell'assistenza, quindi le settimane successive sono la parte della prima domanda aperta di questa pagina che resta genuinamente non misurata.
+
 
 ### Collegamenti ai concetti correlati
 
@@ -145,3 +149,7 @@ Il transfer dell'apprendimento si collega alla [[metacognition|metacognizione]] 
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — AI-assisted speaking practice raised willingness toward humans but no study observed human speaking
 - [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk
+
+
+- [[cognitive-washout-ai-skill-decay-2026]] — Washout cognitivo: l'intervallo successivo al ritiro e un protocollo di misurazione di 22 settimane (Yajee 2026)
+

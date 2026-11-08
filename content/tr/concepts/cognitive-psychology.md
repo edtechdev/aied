@@ -6,7 +6,7 @@ pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T12:10:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ Bilişsel psikoloji, öğrenmeyi gözlemlenebilir davranışta bir değişim ola
 - **Bilgi işleme (bilgisayar) metaforu.** Zihin, kapasiteleri ve darboğazları olan bir bilgi işleme sistemi olarak ele alınır — gizli yeteneğin [[item-response-theory|ölçümü]], çalışma belleği sınırları, kodlama ve geri çağırma — bu da tam olarak YZ ders sistemini (öğrenen bilişini modelleyen ve ona uyum sağlayan bir bilgisayar programı) doğal bir uyum haline getiren modeldir.
 - **Dikkat ve hafıza sınırlıdır.** Çalışma belleğinin kapasitesi sınırlıdır; kalıcı öğrenme, tekrar, detaylandırma ve [[retrieval-spacing-interleaving|geri çağırma pratiği]] yoluyla uzun süreli belleğe kodlanmayı gerektirir. Bu durum bilişselciliği, [[research-methods-aied|YZ-eğitim araştırmaları]] ile, [[cognitive-offloading]] (hafıza/işlemeyi dış araçlara devretme) üzerine çalışmalarla ve YZ’nin geri çağırmayı ile pratiği atladığı durumlarda ortaya çıkan “performans–öğrenme uyumsuzluğu” ile bağlantılı kılar.
 - **Üst biliş, bilişi düzenler.** [[metacognition]] — kendi düşüncesini izleme ve denetleme — belirgin biçimde bilişselci bir yapıdır ve öğrenenlerin YZ’ye ne zaman güveneceğine ilişkin kalibrasyonlarının neden öğrenme için önemli olduğunu açıklar (bkz. [[cognitive-offloading]] ve [[self-regulated-learning]]).
-- **Bilgi ayrıştırılabilir ve izlenebilirdir.** Bilişselci YZE, öğrenenin bilgisinin bileşenler olarak temsil edilip zaman içinde izlenebileceğini varsayar — bu, [[knowledge-tracing]], [[cognitive-diagnosis]] ve [[item-response-theory]]nın temelidir.
+- **Bilgi ayrıştırılabilir ve izlenebilirdir.** Bilişselci YZE, öğrenenin bilgisinin bileşenler olarak temsil edilip zaman içinde izlenebileceğini varsayar — bu, [[knowledge-tracing]], [[cognitive-diagnosis]] ve [[item-response-theory]]nın temelidir. İzlenebilirlik aynı zamanda bir puanlama kuralıdır. Aynı ASSISTments olay dizileri üzerinde dört [[knowledge-tracing|bilgi izleme]] güncelleme kuralı çalıştırılır: destekli her tamamlamayı puanlamak, öğrenci-beceri çiftlerinin %93,9’unu ustalaşılmış ilan etti; destekli satırlar başarısız ilk denemeler olarak okunduğunda bu oran %72,8 oldu. Hoşgörülü kuralın erken ilan ettiği çiftler sonradan 0,709 desteksiz doğruluğa ulaştı; kuralların anlaştığı yerlerde bu oran 0,857’ydi ([[crediting-assisted-work-inflates-mastery-2026|Srivastava, 2026]]). Model yalnızca kanıt kuralının saymasına izin verdiği şeyi izler.
 
 ## Bilişselcilik ve eğitimde YZ
 
@@ -68,6 +68,10 @@ Mayer’ın Multimedya Öğrenmesinin Bilişsel Kuramı (CTML), aynı çalışma
 ### YZ çağı gerilimi: bilişselciliğin sınırı baskı altında
 
 [[generative-ai|Üretken YZ]] bilişselciliği hem genişletir hem zorlar. Bilgi temsillerini daha güçlü hale getirerek ([[knowledge-tracing]] yoluyla izlenebilen ve [[student-modeling]] yoluyla uyarlanabilen bilgi motorları olarak LLM’ler) genişletir. Bilişin “nerede” olduğunu karmaşıklaştırarak zorlar: YZ muhakeme, hafıza ve hatta üst bilişe benzer işlevleri üstlendiğinde, öğrenmenin bireyin zihnindeki içsel işlem olduğuna dair bilişselci varsayım sarsılır — [[distributed-cognition]], [[ai-cognitive-partner-co-regulation-learning|ortak düzenleme]] ve insan-ötesi çerçeveler, bilişin insan ve yapay sistemler arasında dağılabileceğini savunur. Yine de bilişselci soru, alanın merkezi sorusu olmaya devam eder: *öğrenen bilgiyi içselleştirir mi, yoksa bilgiyi araç mı tutar?* Bu, bilişsel yükü dışarı aktarma ve performans–öğrenme uyumsuzluğu sorusunun en saf halidir.
+
+
+2026 tarihli bir deney, bu sınırın hafıza tarafına somut bir başarısızlık kipi verir. Yanıltıcı bir YZ özeti okuyan 328 yetişkinin yalnızca %44,8’i daha sonra bir video ayrıntısını doğru tanımladı; tutarlı bir özet okuyanlarda bu oran %83,6’ydı. YZ ya da insan etiketi bir fark yaratmadı ve YZ’ye kendiliğinden bildirilen güven de öyle ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger ve Kohno, 2026]]). Bu, sınıf öğrenmesinden çok kaynak hafızasıdır, ancak akıcı bir özet öğrenenin kaynak kaydının üzerine yazabilir; bu da çalışma ve değerlendirme için önemlidir.
+
 
 ## Tasarım ve araştırma için çıkarımlar
 
@@ -106,6 +110,7 @@ Mayer’ın Multimedya Öğrenmesinin Bilişsel Kuramı (CTML), aynı çalışma
 
 ## Bağlı makaleler
 
+- [[sim-ai-summary-memory-distortion-2026]] — Yanıltıcı YZ özetleri, özetin YZ ya da insan tarafından yazıldığından bağımsız olarak yetişkinlerin hatırladıklarını değiştirdi
 - [[cognitive-shift-ai-education]] — The cognitive shift in AI education
 - [[cogtax-cognitive-taxonomy]] — A cognitive taxonomy for AI use
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — Pedagogical LLM agents grounded in knowledge tracing
@@ -114,3 +119,6 @@ Mayer’ın Multimedya Öğrenmesinin Bilişsel Kuramı (CTML), aynı çalışma
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
 
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Effort organization, not effort amount, tracked load and frustration
+
+- [[crediting-assisted-work-inflates-mastery-2026]] — Bilgi izlemeden çıkan ustalık iddiaları, destekli çalışmanın nasıl puanlandığına bağlıdır (Srivastava 2026)
+

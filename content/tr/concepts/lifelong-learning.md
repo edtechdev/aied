@@ -7,7 +7,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, person
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/lifelong-learning
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 ## Dikkate Alınması Gereken Sorular
 
 - Resmî eğitimin dışında öğrendiğiniz son yeni beceri üzerine düşünün — iş yerinde, çevrim içi veya kendi kendine. Neyi öğreneceğinize, nasıl öğreneceğinize ve ne zaman 'bitirdiğinize' kim karar verdi? YZ bu tabloyu nasıl değiştirirdi?
-- Sayfanın merkezindeki soru özerkliktir: YZ öğrenme ihtiyaçlarınızı belirlemeye, hedeflerinizi koymaya ve hatta içerik üretmeye katıldıkça, kendi öğreniminizde gerçekten ne kalır?
+- Sayfanın merkezindeki soru özerkliktir: YZ öğrenme ihtiyaçlarınızı belirlemeye, hedeflerinizi koymaya ve hatta içerik üretmeye katıldıkça, kendi öğreniminizde gerçekten [[self-directed-learning|öz yönelimli]] olarak ne kalır?
 - Resmî eğitim zamanı sabit, müfredaları ise sıralı sayar. Sayfa, öğrenenlerin yaşam boyu esnek biçimde gezindiği birbiriyle bağlantılı bilgi birimlerinden oluşan 'Learnity graphs' (öğrenme grafikleri) önermektedir. Öğrenmeyi sabit bir sıradan kurtarmakla ne kazanırsınız ve neyi kaybetme riskini göze alırsınız?
 - YZ hem yetişkin öğrenenleri destekleyebilir hem de yetişkinlerin sürekli güncellemek zorunda olduğu becerileri değiştirebilir. YZ alanınızı yeniden şekillendirmeye devam ederse, hiçbir aracın size doğrudan veremeyeceği hangi yetilere yatırım yapardınız?
 - Yaşam boyu öğrenme çoğu zaman bir bireyin sorumluluğu olarak çerçevelenir. Ancak yaşam boyu erişim aynı zamanda bir eşitlik sorusudur. Yetişkin olarak öğrenmeye devam etmek için zamanı, kaynakları ve desteği kim alır — ve YZ bu uçurumu nasıl genişletebilir veya daraltabilir?
@@ -38,7 +38,8 @@ Yaşam boyu öğrenme, yaşam boyu süregelen eğitimi — beceri yükseltme, be
 - **Yetişkin öğrenimi için tasarım yönergeleri:** [[ai-adult-learning-guidelines-dis2026|AI-ALOE enstitüsünden çalışma]], YZ destekli yetişkin öğrenme teknolojileri için ampirik temellere dayanan tasarım yönergelerini sentezler ve pratik, bağlama duyarlı desteği öne çıkarır.
 - **YZ rehberli beceri edinme:** [[ai-guided-learning-audiovideo-2026|YZ rehberli ses/video öğrenme]], YZ’nin beceri edinmenin tüket–anla–taklit etme aşamalarını nasıl iskeleleyerek (kademeli destekleyerek) medyayı öğrenene uyarlayabildiğini göstermektedir.
 - **Sabit müfredalardan uyarlanabilir yapılara:** [[learnity-graphs-lifelong-learning-framework-2026|Learnity graphs]], sabit yükseköğretim müfredalarını, öğrenenlerin yaşam boyu esnek biçimde gezinebildiği birbiriyle bağlantılı bilgi birimleri olarak yeniden düşünmeyi önermektedir.
-- **Özerklik ve öz yönelim:** [[andragogy-cognitive-delegation-genai-2026|Andragogi ve bilişsel devir]], yetişkin öğrenme teorisini YZ aracılı bilişsel devir ışığında yeniden ele alır; YZ ihtiyaçları belirlemeye, hedefler koymaya ve içerik üretmeye katıldığında neyin öz yönelimli kaldığını sorar.
+- **Özerklik ve öz yönelim:** [[andragogy-cognitive-delegation-genai-2026|Andragogi ve bilişsel devir]], yetişkin [[learning-theories|öğrenme teorisini]] YZ aracılı bilişsel devir ışığında yeniden ele alır; YZ ihtiyaçları belirlemeye, hedefler koymaya ve içerik üretmeye katıldığında neyin öz yönelimli kaldığını sorar.
+- **Bu devirden yetişkinlerin ne beklediği.** Üç ABD üniversitesinde taranan 60 yetişkin öğrenenden 20’siyle yapılan görüşmelerde öğrenenler, YZ’yi yanıt veren bir kâhin değil, kendisinden ve birlikte öğrendikleri bir [[collaborative-learning|işbirlikçi öğrenme]] etmeni olarak betimledi. Kusursuz, sıfır hatalı bir sistemden çok, döngüde kalan ve kendilerine uyarlanan bir sistem istediklerini söylediler ([[kim-ai-andragogy-2026|Kim ve ark., 2026]]). Bu kanıta göre öz yönelim, yetişkinlerin etkileşimin içinde tutmayı beklediği, ona devretmeyi değil, bir şeydir; özerklik sorusunun ihtiyaç duyduğu tasarım hedefi de budur.
 - **Politika ve topluluk:** [[ai-lifelong-learning-policy|Yaşam boyu öğrenme politikasında YZ]] ve [[community-centered-ai-education-adults|topluluk merkezli YZ eğitimi]], yetişkin YZ öğreniminin kurumsal ve eşitlik boyutlarını ele alır.
 - **Uzmanlığın yeniden üretimi risk altındadır.** YZ’ye en çok maruz kalan ABD mesleklerinde 22–25 yaş arası işçilerde %16’lık göreli istihdam düşüşü (Ekim 2022–Eylül 2025) görülürken 35–49 yaş arasındakiler %8’in üzerinde arttı ve YZ çıktılarını doğrulamak için gereken derin uzmanlık, düşen bu giriş düzeyi rollere bağlıdır ([[cognitive-commons-ai-expertise-regeneration|Lovett (2026)]]).
 
@@ -97,3 +98,4 @@ Yaşam boyu öğrenme, [[adult-learning]] ve [[professional-training]] (temel ba
 - [[ai-lifelong-learning-policy]] — Yaşam boyu öğrenmede YZ: yetişkin eğitimi politikasında fırsatlar ve zorluklar
 - [[community-centered-ai-education-adults]] — Yetişkinler için topluluk merkezli YZ eğitimini ortak tasarlamak
 - [[cognitive-commons-ai-expertise-regeneration]] — Bilişsel mülkün trajedisi: YZ ve uzmanlığın yeniden üretimi
+- [[kim-ai-andragogy-2026]] — Yetişkin öğrenenlerin andragogide YZ’yi işbirlikçi bir öğrenme etmeni olarak görme perspektifleri (Kim ve ark. 2026)

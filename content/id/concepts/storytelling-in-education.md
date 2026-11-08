@@ -7,9 +7,9 @@ technology: [educational-robotics]
 discipline: [language learning]
 level: [k 12]
 confidence: high
-updated: "2026-11-04T02:10:52-05:00"
+updated: "2026-11-08T14:09:36-05:00"
 translation_of: "concepts/storytelling-in-education"
-source_updated: "2026-11-01T09:06:43-05:00"
+source_updated: "2026-11-04T14:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,7 @@ ai_assist:
 
 ## Pendahuluan
 
-Storytelling berakar pada teori-teori [[motivation]], [[student-engagement]], dan [[constructivist]] tentang pembelajaran. Ia mendukung [[language-learning]], [[creativity]], [[social-emotional-learning]], dan pemahaman. Di era AI, storytelling yang digerakkan [[llm|LLM]] dan termediasi robot memungkinkan ko-kreasi, ketika siswa dan [[agentic-ai|agen AI]] membangun cerita bersama, serta narasi interaktif yang merespons siswa.
+Storytelling berakar pada [[motivation]], [[student-engagement]], dan [[constructivist]] [[learning-theories|teori pembelajaran]]. Ia mendukung [[language-learning]], [[creativity]], [[social-emotional-learning]], dan pemahaman. Di era AI, storytelling yang digerakkan [[llm|LLM]] dan termediasi robot memungkinkan ko-kreasi, ketika siswa dan [[agentic-ai|agen AI]] membangun cerita bersama, serta narasi interaktif yang merespons siswa.
 
 ### Bagaimana storytelling muncul dalam penelitian basis pengetahuan
 
@@ -41,7 +41,7 @@ Storytelling berakar pada teori-teori [[motivation]], [[student-engagement]], da
 - **Kenaikan keterlibatan punya besaran, dan motivasi tidak mengikutinya.** MotiBo unggul 27.06% dan 30.00% atas kertas dan PowerPoint pada keterlibatan perilaku dan kognitif (keduanya p < .05), sementara motivasi intrinsik naik 20.21% tanpa mencapai signifikansi (p = .07). Keterlibatan bergerak, motivasi tidak melewati ambangnya, dan kuasi-eksperimen lima hari itu tidak mengukur luaran pembelajaran ([[motibo-digital-storytelling-robots-motivation-2026|Fung & Lui, 2026]]).
 - **HRI naratif ko-kreatif:** [[icub-humanoid-storytelling-llm-hri-2025|Studi naratif iCub]] mengeksplorasi ko-kreasi cerita antara manusia dan robot, dengan mengintegrasikan model generatif untuk interaksi yang sesuai konteks.
 - **Narasi dan kreativitas:** Storytelling mendukung [[creativity]] dan perkembangan [[language-learning|bahasa]], serta digunakan untuk meningkatkan motivasi dan keterlibatan dalam lingkungan [[k-12]].
-- **Storytelling digital sebagai penyeimbang AI:** Ketika [[generative-ai|AI generatif]] makin dominan, storytelling digital dibingkai ulang sebagai wahana bagi kapasitas emosional, kultural, dan naratif yang tidak dimiliki AI. Dalam model [[project-based-learning|pembelajaran berbasis proyek]] untuk pendidikan seni dan desain, siswa menerjemahkan warisan budaya lokal menjadi narasi [[multimodal]] dalam 92 karya storytelling digital, menunjukkan bagaimana storytelling menopang kreativitas manusia di era AI.
+- **Storytelling digital sebagai penyeimbang AI:** Ketika [[generative-ai|AI generatif]] makin dominan, storytelling digital dibingkai ulang sebagai wahana bagi kapasitas emosional, kultural, dan naratif yang tidak dimiliki AI. Dalam model [[project-based-learning|pembelajaran berbasis proyek]] untuk pendidikan seni dan [[design-education|desain]], siswa menerjemahkan warisan budaya lokal menjadi narasi [[multimodal]] dalam 92 karya storytelling digital, menunjukkan bagaimana storytelling menopang kreativitas manusia di era AI.
 - **Narasi hasil generasi mudah diproduksi dan sulit dijaga koherensinya.** Dengan 22 mahasiswa STEM, fiksi interaktif hasil AI dinilai baik pada kejelasan narasi (M = 4.11) dan panjangnya (M = 4.14), tetapi keterlibatan berada di titik netral (M = 3.08) dan koherensi isi cerita paling lemah (M = 2.92) ([[ai-generated-interactive-fiction-education-2026]]). Ko-kreasi mewarisi kelemahan itu justru pada lapisan tempat sebuah cerita seharusnya bekerja.
 
 Storytelling terhubung dengan [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], dan [[educational-robotics]].

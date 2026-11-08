@@ -6,7 +6,7 @@ technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-10-26T13:35:09-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -48,8 +48,8 @@ Mbinu za mtandao zinatumika katika msingi wote wa ushahidi wa hifadhi ya maarifa
 - **Fungua "sanduku jeusi" la mwingiliano wa mwanafunzi–AI.** TNA inafichua *mchakato* — mizunguko ya tabia na njia ambazo wanafunzi huzipata wanapotumia zana za AI (mfano, "mzunguko wa marekebisho" dhidi ya "mzunguko wa gumzo" katika uandishi wa [[writing-education|uandishi]] ulio na ngazi za msaada za [[conversational-ai|chatbot]]) badala ya matokeo ya mwisho tu. ([[penny-transition-network-analysis-efl-writing-2026]])
 - **Linganisha uundaji muundo wa ufikiri kati ya vikundi.** ENA inaonyesha jinsi vikundi tofauti vinavyounganisha usanifu kwa njia tofauti — mfano, jinsi [[metacognition]] inavyoonekana pamoja na uuzaji dhidi ya ufikiri wa binadamu katika ushirikiano wa binadamu–AI, ikifichua hali tofauti za ushirikiano. ([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **Fuatilia sahihi za ujuzi wa AI na mwingiliano.** ENA kwenye kumbukumbu za mwingiliano hutambua mifumo tofauti ya matumizi ya [[llm|LLM]] (uboreshaji mahususi wa kurudia dhidi ya amri za mstari), ikitofautisha [[ai-literacy|ustadi]] na maendeleo ya mwanafunzi. ([[tracing-genai-literacy-interaction-patterns]])
-- **Changanua mazungumzo na uwekaji muktadha.** ENA inatumika kwa data ya [[qualitative-research|kina]] na [[multimodal]] (mfano, mifumo ya YouTube ya ChatGPT katika elimu) ili kufichua muundo wa mazungumzo ya umma au ya kitaaluma. ([[youtube-frames-chatgpt-education]])
-- **Kamilisha vipimo vya kujitangaza na vya bidhaa.** Kwa sababu mbinu za mtandao zinatumia data ya tabia iliyoonekana, zinaweza kufichua tofauti kati ya wanafunzi wanavyodai na wanachofanya kweli — ugunduzi unaojirudia katika fasihi ya kupokea maoni ya hifadhi ya maarifa.
+- **Changanua mazungumzo na uwekaji muktadha.** ENA inatumika kwa data ya [[qualitative-research|kina]] na [[multimodal]] (mfano, mifumo ya YouTube ya [[generative-ai|ChatGPT]] katika elimu) ili kufichua muundo wa mazungumzo ya umma au ya kitaaluma. ([[youtube-frames-chatgpt-education]])
+- **Kamilisha vipimo vya [[self-report-measures|kujitangaza]] na vya bidhaa.** Kwa sababu mbinu za mtandao zinatumia data ya tabia iliyoonekana, zinaweza kufichua tofauti kati ya wanafunzi wanavyodai na wanachofanya kweli — ugunduzi unaojirudia katika fasihi ya kupokea maoni ya hifadhi ya maarifa.
 
 - **Muundo wa grafu kama kiasi cha uthibitishaji, si muhtasari wa kuelezea.** [[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]] wanafuatilia β0 - idadi ya vipengele vilivyounganishwa vya grafu ya ukaribu wa kila wiki juu ya wanafunzi katika kizingiti maalum cha Euclidean - ili kujaribu kama vikundi vilivyotengwa huzaliana na vile halisi, na kuupendelea kwa sababu unategemea grafu peke yake, hauhitaji uboreshaji wala mbegu nasibu kama vile kuongeza modularity, na unabaki ufafanuliwe wakati sehemu ya saba hadi tatu ya wanafunzi wako peke yao katika kipengele kimoja.
 
@@ -77,7 +77,7 @@ Mbinu za mtandao zinatumika katika msingi wote wa ushahidi wa hifadhi ya maarifa
 
 ## Dhana Potofu za Kawaida
 
-- **"Uchanganuzi wa mtandao ni wa haki kwa sababu ni wa kikokotoo."** **Kuweka kodi ni msingi**: aina zote za mtandao hutegemea kuweka kodi kwa data ghafi (matamshi, matukio, uhusiano) katika nodi tofauti kwa njia inayoweza kutumika, na kuweka kodi kiotomatiki kurithi fasili zake kutoka kwa aliyeweka. Taswira inaonekana kama muundo unaojitokeza na nodi zake ni chaguo za tafsiri.
+- **"Uchanganuzi wa mtandao ni wa haki kwa sababu ni wa kikokotoo."** **Kuweka kodi ni msingi**: aina zote za mtandao hutegemea kuweka kodi kwa data ghafi (matamshi, matukio, uhusiano) katika nodi tofauti kwa njia inayoweza kutumika, na kuweka kodi kiotomatiki kurithi fasili zake kutoka kwa aliyeweka. [[visualization|Taswira]] inaonekana kama muundo unaojitokeza na nodi zake ni chaguo za tafsiri.
 - **"Mabadiliko ya muundo wa mtandao ni faida ya kujifunza yenyewe kiotomatiki."** Katika majadiliano ya kesi na **wanafunzi ishirini wa shahada ya kwanza wa masomo mchanganyiko**, **sehemu ya maneno matatu ya pamoja ilipanda kutoka 5.2% hadi 8.0%** wakati **tokeni za maudhui zilishuka hadi takribani mara 0.65 ya kiwango chao cha baada ya kusoma**. Vipimo viwili vya muundo vilisogea pande tofauti, hivyo "mtandao ulibadilika" si ugunduzi hadi useme kwa kipimo kipi na kwa nini ni muhimu.
 - **"Kushiriki maneno zaidi kunamaanisha ushirikiano bora."** Kupanda kwa sehemu ya maneno ya pamoja pamoja na kushuka kwa utofauti wa tokeni za maudhui kunalingana na kukutana katika msamiati mdogo. Makubaliano na upunguzaji ni sawa kimuundo, ndiyo sababu kipimo kinahitaji maudhui ambayo kilihesabiwa kutoka kwake.
 

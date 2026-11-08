@@ -8,9 +8,9 @@ connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T14:01:53-05:00"
 translation_of: "concepts/regulation"
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -54,11 +54,15 @@ Basis pengetahuan mendokumentasikan kesenjangan yang terus-menerus antara kecepa
 
 **Kesenjangan itu soal bukti sekaligus waktu.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski dan Hurley (2025)]] mencirikan satu sektor profesional sebagai membuat kebijakan di bawah tekanan waktu tanpa basis bukti untuk membuatnya: sebagian besar [[legal-education|sekolah hukum]] AS yang disetujui ABA mengambil posisi yang umumnya prohibitif sambil menyisakan diskresi kepada instruktur individual, dan penulis melaporkan tidak ada konsensus tentang praktik pengungkapan atau sitasi serta hanya sekitar 15% tingkat respons terhadap survei kebijakan ABA 2024. Respons normatif mereka — pedoman yang jelas apa pun pendiriannya, keterlibatan [[stakeholders|pemangku kepentingan]] dalam penyusunan, dan tata kelola yang dirancang fleksibel serta ditinjau berkala — sejalan dengan [[crompton-governing-genai-higher-ed-delphi-2026|konsensus Delphi global]], yang juga memperlakukan pemeliharaan kebijakan sebagai mekanisme institusional yang berulang alih-alih tugas sekali jadi. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher dan Calderon (2025)]] menambahkan ketergantungan sebaliknya: program reformasi tata kelola mereka menyimpulkan bahwa pengembangan institusional kecil kemungkinannya membuahkan hasil tanpa affordance eksternal dari regulasi, tolok ukur, dan persaingan antar institusi, menjadikan badan penjaminan mutu dan regulasi — serta perbandingan yang mereka paksakan antar institusi — sebagai kondisi tempat reformasi tata kelola internal mengakar.
 
-Audit atas kebijakan privasi platform EdTech memberi ketergantungan itu contoh konkret. Di 48 platform, pengumpulan data diungkapkan relatif baik (rata-rata 1.81 dari 2) sementara pengungkapan AI (0.90) dan akuntabilitas (1.07) tertinggal, dan 33% tidak membuat pengungkapan AI yang bermakna meski fitur AI terlihat; platform [[k-12]] AS mendapat skor tertinggi secara keseluruhan (M = 7.47 dibanding 5.50 untuk [[higher-ed|pendidikan tinggi]] AS) tetapi tidak memperoleh apa pun pada pengungkapan AI atau akuntabilitas — regulasi, simpul penulis, hanya mengangkat apa yang ia sebut, sehingga aturan yang dapat ditegakkan dan standar pengadaan alih-alih komitmen sukarela harus menjadikan [[privacy|privasi]] sebagai syarat penyebaran ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
+Audit atas kebijakan privasi [[edtech-platform|platform EdTech]] memberi ketergantungan itu contoh konkret. Di 48 platform, pengumpulan data diungkapkan relatif baik (rata-rata 1.81 dari 2) sementara pengungkapan AI (0.90) dan akuntabilitas (1.07) tertinggal, dan 33% tidak membuat pengungkapan AI yang bermakna meski fitur AI terlihat. Platform [[k-12]] AS mendapat skor tertinggi secara keseluruhan (M = 7.47 dibanding 5.50 untuk [[higher-ed|pendidikan tinggi]] AS) tetapi tidak memperoleh apa pun pada pengungkapan AI atau akuntabilitas. Regulasi, simpul penulis, hanya mengangkat apa yang ia sebut, sehingga aturan yang dapat ditegakkan dan standar pengadaan alih-alih komitmen sukarela harus menjadikan [[privacy|privasi]] sebagai syarat penyebaran ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
 ### Koneksi
 
 Regulasi terhubung dengan [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]], [[pedagogical-safety]], dan [[academic-integrity]]. Ia adalah lapisan institusional yang membentuk bagaimana semua praktik pendidikan AI lainnya beroperasi. Regulasi sekaligus membatasi dan memungkinkan: ia menetapkan batas penggunaan AI yang dapat diterima sambil menciptakan kondisi — melalui [[ai-literacy|literasi AI]] dan ekspektasi penggunaan yang bertanggung jawab — bagi integrasi yang [[equity-in-ai-education|adil]] dan aman.
+
+
+Regulasi tidak serta-merta diterjemahkan ke bawah: 32 badan pendanaan yang beroperasi di wilayah tempat aturan AI tingkat negara bagian berlaku menerbitkan kebijakan umum tetapi tidak ada instrumen khusus pendanaan yang membawa aturan-aturan itu ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 
 ## Miskonsepsi Umum
 
@@ -104,3 +108,6 @@ Regulasi terhubung dengan [[educational-policy-ai]], [[governance]], [[ethics]],
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% dosen menulis aturan mereka sendiri di atas lapisan kebijakan institusional yang tipis (Watson & Rainie 2026)
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Pendidikan, AI, dan Penundaan Privasi Siswa di EdTech
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — Tidak ada kebijakan pembanding yang menangani agen AI yang masuk ke LMS atau memegang kredensial siswa (Wong & Sun 2026)
+
+- [[chan-ai-policy-gap-2026]] — Non-penerjemahan vertikal: aturan negara bagian ada sementara pemberi dana di bawahnya tidak menerbitkan instrumen yang mengikat (Chan 2026)
+

@@ -11,7 +11,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-11-04T18:52:58-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -85,11 +85,11 @@ Mstari wa pili wa utafiti unachukua AI kama mshiriki badala ya zana, na matokeo 
 
 ### Hatari ya maarifa ya matokeo yaliyosuguliwa
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]] anaweka dhana ya hatari ya kupungua kwa juhudi ya maarifa wanafunzi wanapotumia AI kuzalisha vitu vya maarifa vilivyosuguliwa — upendeleo wa kiotomatiki upande wa kijamii-na-kiakili na kufungwa kwa maarifa kunakosababishwa na kitu kilichokamilika upande mwingine. Tiba ni kuweka AI kama mshiriki wa majadiliano au mtoaji changamoto ambaye huhifadhi migogoro. Hoja ya kupingana inatoka kwa [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer na wenzake]], ambao waligundua kwamba wakati LLM hufanya kazi kama washiriki wa ukosoaji na wanafunzi huzipinga madai yao kikamilifu, wanafunzi wanafanya kama watumiaji mahususi ambao huhifadhi badala ya kusalimu amuru migogoro ya kiakili ya ukosoaji. Tofauti kati ya mwanachama anayetoa majibu na mshiriki anayetoa changamoto ndicho kinachoamua kama kazi za kikundi na AI zinajenga au zinapita mawazo.
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]] anaweka dhana ya hatari ya kupungua kwa juhudi ya maarifa wanafunzi wanapotumia AI kuzalisha vitu vya maarifa vilivyosuguliwa — [[automation-bias|upendeleo wa kiotomatiki]] upande wa kijamii-na-kiakili na kufungwa kwa maarifa kunakosababishwa na kitu kilichokamilika upande mwingine. Tiba ni kuweka AI kama mshiriki wa majadiliano au mtoaji changamoto ambaye huhifadhi migogoro. Hoja ya kupingana inatoka kwa [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer na wenzake]], ambao waligundua kwamba wakati LLM hufanya kazi kama washiriki wa ukosoaji na wanafunzi huzipinga madai yao kikamilifu, wanafunzi wanafanya kama watumiaji mahususi ambao huhifadhi badala ya [[cognitive-surrender|kusalimu amuru]] migogoro ya kiakili ya ukosoaji. Tofauti kati ya mwanachama anayetoa majibu na mshiriki anayetoa changamoto ndicho kinachoamua kama kazi za kikundi na AI zinajenga au zinapita mawazo.
 
 ### Msaada wa darasa, usio na tathmini
 
-[[breideband-community-builder-cobi-2026|CoBi]] inagundua majadiliano ya kikundi kidogo "yenye kufufua" (heshima, usawa, jamii, kusogeza mawazo mbele) na inarejesha mifano ya kuona ya darasa, isiyo na tathmini — ikiacha kwa makusudi maoni ya wanafunzi au vikundi ili kulinda [[privacy]] na [[trust]]. Wanafunzi walipendelea mifano ya [[qualitative-research|kina]] (mti wa kikaboni) kuliko ile ya [[quantitative-research|idadii]] (chati ya radar). Kwa kipimo cha kihusiano cha kazi za kikundi, maoni ya pamoja ya ngazi ya darasa yanasaidia ujenzi wa jamii ambapo alama za mtu binafsi zingehisiwa kama ufuatiliaji.
+[[breideband-community-builder-cobi-2026|CoBi]] inagundua majadiliano ya kikundi kidogo "yenye kufufua" (heshima, usawa, jamii, kusogeza mawazo mbele) na inarejesha [[visualization|mifano ya kuona]] ya darasa, isiyo na tathmini — ikiacha kwa makusudi maoni ya wanafunzi au vikundi ili kulinda [[privacy]] na [[trust]]. Wanafunzi walipendelea mifano ya [[qualitative-research|kina]] (mti wa kikaboni) kuliko ile ya [[quantitative-research|idadii]] (chati ya radar). Kwa kipimo cha kihusiano cha kazi za kikundi, maoni ya pamoja ya ngazi ya darasa yanasaidia ujenzi wa jamii ambapo alama za mtu binafsi zingehisiwa kama ufuatiliaji.
 
 ## Athari za kubuni
 

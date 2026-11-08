@@ -1,7 +1,7 @@
 ---
 title: Sistemi di raccomandazione e percorsi di apprendimento
 created: "2026-10-14T22:10:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:14:01-05:00"
 type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners, researchers, instructional designers, software
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 translation_of: concepts/recommender-systems-and-learning-paths
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,10 @@ Laddove [[adaptive-learning|apprendimento adattivo]] descrive il meccanismo di a
 ## Come funzionano i sistemi di raccomandazione educativi
 
 I sistemi di raccomandazione comportamentali ereditano la logica del [[machine-learning|collaborative filtering]]: si assume che studenti con storie simili vogliano risorse simili, quindi il sistema prevede dalla co-occorrenza anziché dal contenuto. Questo è potente dove i dati sono densi e fragile dove non lo sono. [[fair-explainable-edu-recommendations|Evangelista e Bukhari (2026)]] enunciano il problema in modo diretto — i sistemi di raccomandazione focalizzati sull'accuratezza offrono un supporto meno affidabile agli studenti con storie di partecipazione limitate, mentre le risorse popolari dominano le liste — e vi rispondono con un framework Hybrid HKG-GRU che incorpora un [[knowledge-graph|grafo di conoscenza]] eterogeneo dei materiali del corso e modella le sequenze degli studenti con una GRU, per poi addestrarsi alla robustezza tra i gruppi di studenti (GroupDRO) e ricalcolare il ranking in base alla diversità di esposizione (Maximal Marginal Relevance). Su log di Moodle relativi a 152 studenti, 59 risorse e circa 150.000 interazioni ha raggiunto HR@10 = 0,68 e MRR = 0,41, ma un sostanziale bias di popolarità è persistito a livello di catalogo — evidenza che la [[bias-mitigation|mitigazione del bias]] è parziale.
+
+
+Anche una baseline leggera può battere direttamente i modelli profondi. [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi e colleghi (2026)]] hanno confrontato sette sistemi di raccomandazione su NedBox, una piattaforma di olandese come seconda lingua, e il modello superficiale item-item EASE ha guidato su ogni misura — AUROC 0,955, MAP 0,283, NDCG@3 0,205, NDCG@5 0,279 — davanti all'autoencoder variazionale profondo MVAE (AUROC 0,949) e all'ensemble PentaForest (0,953), con la fattorizzazione matriciale peggiore (IALS 0,719, UKNN 0,767). Anche i segnali di raccomandazione e di [[knowledge-tracing|tracciamento della conoscenza]] si compongono: riordinare i primi 10 di EASE in base alla competenza prevista ha aumentato NDCG@3 di circa il 3%.
+
 
 I sistemi di raccomandazione semantici sostituiscono la co-occorrenza con la struttura. [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun e Song (2026)]] costruiscono un grafo di conoscenza di risorse didattiche, concetti linguistici, abilità, gruppi di studenti e attributi [[pedagogy|pedagogici]], e scompongono ogni risorsa lungo quattro dimensioni didattiche — contesto di insegnamento, livello cognitivo, caratteristica tecnologica e adattabilità culturale. La raccomandazione si espande su k-hop nel grafo a partire dai requisiti dichiarati di uno studente, affina i candidati con un filtro collaborativo basato sulle feature, e li ordina tramite un coefficiente di fusione che cresce con gli indici di abilità, progresso e interesse dello studente, così che gli studenti meno avanzati ricevano una guida più strutturata dal grafo mentre quelli con maggiore abilità si affidano al proprio pattern comportamentale. Sottoinsieme inglese del dataset MARS (4.800 utenti, 14.200 risorse, 132.000 interazioni, sparsità 0,9981) ha raggiunto NDCG 0,625 e HR 0,751, un guadagno di circa il 7–8% sulla migliore baseline neurale, e ha superato le baseline graph-aware tra cui RippleNet e KGAT su copertura e accuratezza cross-domain. L'ablazione mostra che i segnali sono complementari (solo CF NDCG 0,584, solo KG 0,604), e gli autori notano che si tratta di metriche di ranking, non di evidenza di [[learning-gains|efficacia di apprendimento]].
 

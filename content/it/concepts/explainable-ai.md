@@ -1,7 +1,7 @@
 ---
 title: IA spiegabile
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T13:51:25-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -90,6 +90,10 @@ Due cautele affinano ulteriormente questo punto, ed entrambe sono rese centrali 
 
 La **spiegabilità per progettazione** è una risposta al problema della fedeltà post-hoc. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang e Fang (2025)]] parametrizzano un decodificatore di spiegazioni con la stessa rappresentazione fusa e lo stesso punteggio predetto che decidono la [[assessment|valutazione]], così che un punteggio basso su un interrogatorio [[formative-assessment|formativo]] produce una motivazione che nomina le domande di approfondimento insufficienti, e lo abbina a un'attenzione a doppia lente sugli standard curricolari e sulle mosse della rubrica specifica della materia. L'allineamento attenzione-rubrica raggiunge il 78,0% contro il 41,7% di GPT-4 zero-shot e il 32,1% di BERT, e la fedeltà è sondata mediante cancellazione controfattuale di passaggi critici per la rubrica insieme a valutazioni umane su una checklist ancorata alla rubrica, dando un punteggio di credibilità della spiegazione di 0,78 — un incremento di 0,31 rispetto a BERT-base. L'audit mostra anche dove l'affermazione architetturale si assottiglia: sugli indizi emotivi il modello alloca il 28,4% del peso attentivo contro il 15,2% di un esperto (allineamento 0,53), con un caso di errore che assegna il 28% al token "frustrated", che gli autori leggono come un adattamento eccessivo all'affetto piuttosto che alla pedagogia e indicano come area di perfezionamento. Incorporare le spiegazioni nel percorso decisionale le rende più fedeli delle razionalizzazioni post-hoc; non le rende corrette.
 
+
+**Ciò che un modello dice di aver usato dipende dalla famiglia tanto quanto dai dati.** Su sette modelli su una stessa coorte, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] hanno trovato che gli approcci simbolici si appoggiavano a fattori cognitivi e [[motivation|motivazionali]], i modelli sub-simbolici ad aspetti cognitivi, conoscenza appresa e genere, ed entrambi trascuravano in larga misura i fattori metacognitivi, mentre il modello neuro-simbolico ne usava un insieme più integrato. Gli stessi studenti e gli stessi indicatori hanno prodotto resoconti diversi di ciò che contava, quindi l'allineamento con la [[learning-theories|teoria dell'apprendimento]] diventa un'affermazione sulle attribuzioni anziché sull'accuratezza.
+
+
 ## Insegnare la spiegabilità come pratica di responsabilità
 
 Se la qualità della spiegazione decide se la XAI è utile, allora produrre spiegazioni va insegnato come abitudine professionale, anziché dimostrato come capacità. [[lund-socially-accountable-data-science-xai-2026|Lund e colleghi (2026)]] propongono di farlo attraverso quattro pilastri — **answerability** (l'obbligo di dare ragioni a chi è interessato), **responsabilità** (il danno anticipato lungo l'intero ciclo di vita, non difeso a posteriori), **enforcement** (conseguenze dentro il corso) e **riflessività** (esame documentato delle proprie assunzioni) — ciascuno con i propri compiti e il proprio costo in aula.
@@ -147,4 +151,7 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Teacher- versus AI-made grading decisions: a written rationale widened the fairness gap
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Citazioni e segnali di autorità hanno aumentato la deferenza verso un output errato, con riferimenti talvolta attribuiti male o fittizi
+
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — i modelli simbolici, sub-simbolici e neuro-simbolici su una stessa coorte attribuivano le proprie previsioni a fattori diversi
+
 

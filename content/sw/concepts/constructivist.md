@@ -8,7 +8,7 @@ pedagogy: [active-learning, collaborative-learning, experiential-learning, learn
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-26T10:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,9 @@ Kazi ya kimaanishi (empirical work) inarudia kupata pengo kati ya malengo ya uje
 Muundo huu unajumlisha katika uwanja wote:
 
 - Wakati AI ya kizalishaji inakamilisha uandishi, ufikiri, au kodi kwa wanafunzi, mwanafunzi hupoteza mchakato wa mawazo ya ujenzi ambao kazi ilibuniwa kujenga — wasiwasi ambao ni kiini cha [[cognitive-offloading|kupunguza mzigo wa kiakili]] na [[cognitive-offloading|Kutegemea Kupita Kiasi]].([[generative-refusal-ai-tools-for-thought]])
+
+- Hasara hiyo sasa inapimika, na inafuata kazi badala ya zana. Kati ya wanafunzi 26,811 wa sekondari wa China, AI ya kizalishaji ilipandisha alama za kazi za nyumbani kwa 18% na kupunguza muda wa kukamilisha kwa 30%, wakati alama za [[summative-assessment|mtihani wa kitabu kilichofungwa]] zilishuka kwa 20% ndani ya miezi sita. Kushuka kulijikita kati ya takribani 81% ya watumiaji ambao muda wao wa kukamilisha ulionyesha kuhamishia kazi za nyumbani nje, na watumiaji waliobakisha muda wa kazi za nyumbani sawa na wasiotumia walijifunza kwa ufanisi sawa ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei na Wu (2026)]]). Kigezo kilichotabiri kujifunza hakikuwa matumizi ya AI bali kama mwanafunzi bado alifanya ujenzi.
+
 - Utekelezaji wa AI unaozingatia maoni zinazojifunga na ufanisi mara nyingi huwahudumia kidogo malengo ya wakala wa mwanafunzi, tafakari mahususi, na uamuzi huru ambao ujenzi unahitaji.([[ai-vocational-education-training-review]])
 
 ### Mtego wa majina: matokeo ya AI ya kizalishaji si kujifunza kwa uzalishaji
@@ -162,3 +165,6 @@ Ujenzi wa maarifa pia unaunda jinsi ujuzi wa AI unavyofundishwa. Ikiwa maarifa h
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: wakala wa kizalishaji unaiga mageuko ya kiakili ya wanafunzi
 
 - [[synthetic-position-self-authorship-2026]] — Msimamo wa kupinga wa AI ulioiga unazoeza umbo la mazungumzo lakini unazuia upinzani unaolazimu kufikiria upya
+
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Adhabu ya kujifunza: alama za kazi za nyumbani zilipanda 18%, mitihani ya kitabu kilichofungwa zilishuka 20%, zikijikita kwa wanaohamishia kazi za nyumbani nje
+

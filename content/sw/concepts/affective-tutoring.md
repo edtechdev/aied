@@ -9,7 +9,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-10-29T06:19:06-04:00"
+source_updated: "2026-11-04T13:20:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -56,13 +56,13 @@ Favero na wenzake (2025) wanaonya kuwa mahusiano ya kihisia ya [[student-engagem
 | Faida ya ufadhili wa kihisia | Hatari inayolingana |
 |---|---|
 | Majibu yanayotambua hali ya kihisia yanahisiwa kuwa ya kusaidia | Wanafunzi wanaweza kuunda **utegemezi wa kihisia-para** kwa mwalimu |
-| Huruma inapunguza wasiwasi | Wasiwasi uliopungua unaweza kuficha **kujitoa kwa shughuli za metaji** |
+| Huruma inapunguza [[anxiety-and-stress|wasiwasi]] | [[anxiety-and-stress|Wasiwasi]] uliopungua unaweza kuficha **kujitoa kwa shughuli za metaji** |
 | Usawazishaji wa kihisia hupangilia kasi kwa mtu | [[personalized-learning|Ubinafsishaji]] wa kina unaweza **kupunguza uhamisho** kwa miktadha isiyo na mabadiliko |
 | Ufuatiliaji wa uso unaonyesha umakini | Kunasa video endelee kunainua **wasiwasi wa faragha** |
 
 Waandishi wanadai kuwa hatari za kihisia ni sehemu ya mtindo mpana zaidi wa **kudhoofika kwa [[self-efficacy]], [[agency]], na [[well-being]]** wakati matumizi ya AI hayadhibitiwi.
 
-**Hatari pia humwangukia asiyefungua mwalimu kamwe.** [[shastry-gray-empathy-offloading-2026|Shastry na Gray (2026)]] waligundua kwamba utayari wa kutoa msaada wa kihisia mwenyewe hupungua kadri unavyoamini mfumo unaweza kuutoa, na imani hiyo ilikuwa ya kisababishi katika jaribio lao la pili: kusoma habari za kawaida kuhusu AI yenye huruma kulitosha kuongeza upendeleo huo, kupitia uwezo unaohisiwa pekee. Utafiti wao wa nne unaongeza gharama ya kijamii ambayo mfumo wa ngazi ya mtu hukosa. Walipoambiwa kwamba mwanafunzi alikuwa ameenda kwa chatbot kupata msaada, washiriki walisema wangepunguza msaada kuliko kama mwanafunzi huyo angeenda kwa rafiki. Kisha waliandika maneno machache ya huruma na maneno mengi ya kutojali kumhusu mwanafunzi huyo, na wakampima kama mgeni zaidi na mwenye kukata tamaa zaidi. Utoaji wa [[social-emotional-learning|kijamii na kihisia]] unaweza hivyo kupungua kuzunguka mwalimu hata wakati hakuna mtumiaji wake anayeripoti mabadiliko.
+**Hatari pia humwangukia asiyefungua mwalimu kamwe.** [[shastry-gray-empathy-offloading-2026|Shastry na Gray (2026)]] waligundua kwamba utayari wa kutoa msaada wa kihisia mwenyewe hupungua kadri unavyoamini mfumo unaweza kuutoa, na imani hiyo ilikuwa ya kisababishi katika jaribio lao la pili: kusoma habari za kawaida kuhusu AI yenye huruma kulitosha kuongeza upendeleo huo, kupitia uwezo unaohisiwa pekee. Utafiti wao wa nne unaongeza gharama ya kijamii ambayo mfumo wa ngazi ya mtu hukosa. Walipoambiwa kwamba mwanafunzi alikuwa ameenda kwa [[conversational-ai|chatbot]] kupata msaada, washiriki walisema wangepunguza msaada kuliko kama mwanafunzi huyo angeenda kwa rafiki. Kisha waliandika maneno machache ya huruma na maneno mengi ya kutojali kumhusu mwanafunzi huyo, na wakampima kama mgeni zaidi na mwenye kukata tamaa zaidi. Utoaji wa [[social-emotional-learning|kijamii na kihisia]] unaweza hivyo kupungua kuzunguka mwalimu hata wakati hakuna mtumiaji wake anayeripoti mabadiliko.
 
 ## Kanuni za Ubuni
 

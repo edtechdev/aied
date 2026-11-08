@@ -11,7 +11,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-25T15:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -99,7 +99,7 @@ Faydalar önceki avantajı izlediği için öğrenen tarafı çalışma [[equity
 **Geliştiriciler için**
 
 - Öğrenenlerin kendilerinin bildirmediği zaman tasarruflarını pazarlamayın. Hem kavrayış hem zaman için ölçütler sunun ve bunları ayrı ayrı etiketleyin.
-- Öğrenci olmayan öğrenen için tasarlayın: işyeri ve öz yönelimli kullanıcılar, varsayılanlarınızın öngörebileceği kayıt bağlamından yoksundur.
+- Öğrenci olmayan öğrenen için tasarlayın: işyeri ve [[self-directed-learning|öz yönelimli kullanıcılar]], varsayılanlarınızın öngörebileceği kayıt bağlamından yoksundur.
 
 **Araştırmacılar için**
 

@@ -8,7 +8,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-25T22:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -67,7 +67,7 @@ Bilgi tabanında yinelenen iki olanak daha vardır:
 - **Sorular bilgi boşluklarını belirler.** LbT sistemleri boşlukları ortaya çıkarmak ve kavrayışı pekiştirmek için öğrenenlerin ürettiği soruları kullanır ve [[teaching-ai-vocabulary-lbt-llms-2026|LLM tarafından üretilen sorular]], katı şablon temelli üreticilerin yerini alır.
 - **Geri öğretme, açıklamanın kaçırdığını gün yüzüne çıkarır.** 22 katılımcılı bir ders sonrası inceleme sisteminde, bir Peer aracının yansıtıcı geri öğretmesi, öğrenenlerin anladıklarını sandıkları ile dile getirebildikleri arasındaki boşlukları tutarlı biçimde ortaya çıkardı; derse dayalı açıklama tek başına bunları gün yüzüne çıkarmamıştı ([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).
 - **LbT [[scaffolding|iskeleler]] öz-[[regulation]]’i.** Bir [[conversational-ai|konuşmaya dayalı aracı]] öğretmek, [[self-efficacy]] ve öz düzenlemeli öğrenme stratejilerinin benimsenmesini besler ve LbT’yi [[desirable-difficulties]]’a bağlar — açıklama ve düzeltmenin çaba gerektiren eyleminin kendisi, YZ’nin sürtünmeyi gidermesinin aksi halde silip atacağı verimli bir mücadeledir.
-- **Mentor öğrenmesini öngören şey önceki bilgi değil, bilgi inşasıdır.** 23 ortaokul mentoru boyunca, yanıtları yalnızca tekrarlamak yerine bilgi inşa edenlerin payı kavramsal son test puanlarını öngördü (β = ,138, p < 0,05), oysa önceki test puanları bunları kimin ürettiğini öngörmedi; bilgi inşa eden düşük önceki bilgiye sahip mentorlar, yüksek önceki bilgiye sahip akranlarıyla aynı düzeyde tamamladı ([[knowledge-building-tutor-learning-2026|Ameen ve ark., 2026]]).
+- **Mentor öğrenmesini öngören şey [[prior-knowledge|önceki bilgi]] değil, bilgi inşasıdır.** 23 ortaokul mentoru boyunca, yanıtları yalnızca tekrarlamak yerine bilgi inşa edenlerin payı kavramsal son test puanlarını öngördü (β = ,138, p < 0,05), oysa önceki test puanları bunları kimin ürettiğini öngörmedi; bilgi inşa eden düşük önceki bilgiye sahip mentorlar, yüksek önceki bilgiye sahip akranlarıyla aynı düzeyde tamamladı ([[knowledge-building-tutor-learning-2026|Ameen ve ark., 2026]]).
 
 ## YZ Eğitiminde Neden Önemli
 

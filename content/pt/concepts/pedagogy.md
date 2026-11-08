@@ -1,7 +1,7 @@
 ---
 title: Pedagogias e Estratégias de Ensino
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:17:55-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,10 +61,16 @@ A [[research-methods-aied|pesquisa]] da base de conhecimento examina a pedagogia
 - **A IA como agente pedagógico.** As ferramentas de IA encarnam pedagogias — um [[intelligent-tutoring|tutor]] construído sobre o [[socratic-method|questionamento socrático]] instiga os aprendizes a raciocinar, enquanto um chatbot que gera respostas pode recorrer por padrão ao provimento direto (veja [[reducing-ai-misuse]] sobre por que a postura pedagógica importa). A literatura de [[agentic-ai|IA agentiva]] mostra que fundamentar agentes na teoria do design instrucional supera o [[prompt-engineering|prompting]] cru. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] reenquadram esse papel formalmente: em vez de um [[student-modeling|modelo de estudante]] diádico instrutor–estudante com a GenAI como suplemento ou ameaça externa, eles propõem um **modelo triádico instrutor–estudante–GenAI** aninhado, no qual a GenAI opera como um *mediador didático-pedagógico* delimitado dentro de um espaço de mediação didática compartilhado governado por instituições e partes interessadas — produzindo cinco proposições pesquisáveis sobre mediação da aprendizagem, transformação do papel do instrutor, letramento em IA e agência do aprendiz, [[process-oriented-assessment|avaliação de processo orientada ao processo]] transparente em IA, e [[governance|governança]] institucional.
 - **A pedagogia determina o efeito da IA.** Um achado recorrente é que *como* a IA é usada importa tanto quanto *se* ela é usada. A [[instructional-guidance-genai-learning|pesquisa de orientação instrucional]] e os [[generative-ai-guardrails-harm-learning|RCTs de tutores com guardrails]] mostram que a mesma IA pode prejudicar ou ajudar dependendo do invólucro pedagógico (dicas vs. respostas, uso estruturado vs. aberto).
 - **O conhecimento pedagógico supera o conhecimento técnico.** Ao longo de 46 professores e 2.832 estudantes, o conhecimento pedagógico de IA dos professores previu as percepções dos estudantes sobre a IA para o bem social e sua intenção de aprender IA, enquanto o conhecimento técnico por si só foi insuficiente — e nenhum dos dois previu o conhecimento de IA dos estudantes ([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al. (2026)]]).
-- **A contribuição mais clara da IA é descarregar trabalho administrativo.** Uma revisão PRISMA de 28 estudos descobriu que a IA mais frequentemente melhorou o planejamento instrucional e o design da avaliação, com seu benefício mais relatado sendo a automação da correção, do feedback e do monitoramento de progresso (18 estudos, 64,2%) — enquanto o alinhamento pedagógico foi o desafio mais citado (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).
-**Automação e aprendizagem fazem um trade-off direto.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] passam seis princípios pedagógicos — ativação de conhecimento prévio, [[collaborative-learning|aprendizagem colaborativa]], [[problem-based-learning|aprendizagem baseada em problemas]], [[project-based-learning|aprendizagem baseada em projetos]], [[formative-assessment|avaliação formativa]], [[scaffolding|suporte]], [[metacognition|metacognição]] — pelo que a iniciativa agentiva proativa faz a cada um, argumentando que quanto mais um agente automatiza, menos trabalho cognitivo o aprendiz faz, a menos que atrito, esmaecimento dinâmico e supervisão humana sejam projetados para dentro.
+- **Descarregar trabalho administrativo é onde a IA contribui mais claramente.** Uma revisão PRISMA de 28 estudos descobriu que a IA mais frequentemente melhorou o planejamento instrucional e o [[assessment|design da avaliação]], com seu benefício mais relatado sendo a automação da correção, do feedback e do monitoramento de progresso (18 estudos, 64,2%) — enquanto o alinhamento pedagógico foi o desafio mais citado (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).
+**Automação e aprendizagem fazem um trade-off direto.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] passam seis princípios pedagógicos — ativação de [[prior-knowledge|conhecimento prévio]], [[collaborative-learning|aprendizagem colaborativa]], [[problem-based-learning|aprendizagem baseada em problemas]], [[project-based-learning|aprendizagem baseada em projetos]], [[formative-assessment|avaliação formativa]], [[scaffolding|suporte]], [[metacognition|metacognição]] — pelo que a iniciativa agentiva proativa faz a cada um, argumentando que quanto mais um agente automatiza, menos trabalho cognitivo o aprendiz faz, a menos que atrito, esmaecimento dinâmico e [[human-in-the-loop-ai|supervisão humana]] sejam projetados para dentro.
+
+- **A reflexão é uma pedagogia que a IA tanto possibilita quanto ameaça.** Prompts estruturados, diários e comentários de [[eportfolio|portfólio]] são o mecanismo pelo qual a experiência se torna aprendizagem, e a página [[reflection|reflexão]] carrega a evidência. Um experimento pré-registrado descobriu que prompts que dobraram o tempo no feedback e cortaram o volume de prática em 40% sem elevar o ganho por problema. Uma auditoria codificada de um parceiro de reflexão por IA descobriu que ele quebrou todas as instruções comportamentais sem deixar rastro visível. Desenhe o prompt em torno de uma tentativa concluída, e exija o rastro em vez da entrada polida.
+
 - **Estratégias de ensino para o letramento em IA.** Ensinar os estudantes *a usar bem a IA* é ele mesmo uma tarefa pedagógica — as pesquisas de [[ai-literacy|letramento em IA]] e de [[reducing-ai-misuse|redução do uso indevido da IA]] desenvolvem estratégias (pense primeiro/IA depois/refita, declaração de IA, treinamento de calibragem) que pertencem a esse guarda-chuva.
-- **A instrução de letramento em IA move o conhecimento mais rápido.** Uma meta-análise de três níveis de 59 estudos (172 tamanhos de efeito) descobriu que intervenções focadas em conhecimento (g ≈ ,97) superaram claramente as que visavam habilidades (≈ ,67), atitudes (≈ ,68) ou [[ethics|ética]] (≈ ,64), de modo que emparelhar ensino de conceitos com prática sustentada mira os resultados que resistem à instrução ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
+
+- **Metáfora e analogia como técnica de ensino.** [[metaphors-and-analogies]] reúne a evidência sobre como analogias explicam a IA, onde elas quebram, e como os estudantes podem auditá-las como uma forma de [[critical-thinking|pensamento crítico]].
+
+- **A instrução de letramento em IA move o conhecimento mais rápido.** Uma [[meta-analysis-systematic-review|meta-análise]] de três níveis de 59 estudos (172 tamanhos de efeito) descobriu que intervenções focadas em conhecimento (g ≈ ,97) superaram claramente as que visavam habilidades (≈ ,67), atitudes (≈ ,68) ou [[ethics|ética]] (≈ ,64), de modo que emparelhar ensino de conceitos com prática sustentada mira os resultados que resistem à instrução ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
 - **A pedagogia na prática do professor.** O [[teacher-role|papel do professor]] e a [[teacher-ai-competency|competência do professor em IA]] examinam como os professores adotam a IA dentro de seu repertório pedagógico existente, e o [[llm-training-and-fine-tuning|treinamento e ajuste fino de LLM]] / o [[pedagogical-agent|agente pedagógico]] estudam ferramentas de IA treinadas para seguir princípios pedagógicos.
 
 ## Relação com as teorias da aprendizagem
@@ -108,9 +114,11 @@ Essa ênfase no esforço preservado não é absoluta: um design de [[mixed-metho
 - [[learning-sciences]]
 - [[learning-gains]]
 - [[learning-design]]
+- [[metaphors-and-analogies]] — Metáfora e analogia como técnica de ensino
 - [[active-learning]]
 - [[collaborative-learning]]
 - project-based-learning
+- [[case-based-learning]] — Método de caso e casos contrastantes como técnicas de ensino
 - [[experiential-learning]]
 - [[game-based-learning]]
 - [[socratic-method]]

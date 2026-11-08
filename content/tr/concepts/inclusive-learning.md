@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-10-25T17:35:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 - Bir çalışma, sabit duraklamalarla YZ ile bölümlenen videoların DEHB ve DEHB olmayan öğrenenler arasındaki performans farkını ortadan kaldırdığını buldu. Bir grubun ihtiyaçları için tasarım yapmak herkesin öğrenmesini nasıl iyileştirebilir?
 - YZ sistemleri, eski engelleri kaldırırken yeni erişilebilirlik boşlukları yaratma riski taşır. Metin tabanlı, görsel, her zaman çevrimiçi bir YZ aracı hangi öğrenciyi sessizce dışlayabilir?
 - Kapsayıcı değerlendirme araştırması, hile önleme önlemleri ile görsel işleme ihtiyaçları olan öğrenenlere uyum sağlama arasındaki gerginliği ortaya çıkarır. Güvenlik ve erişilebilirlik çatıştığında bu ödünleşim nasıl — ve kimler tarafından — karara bağlanmalıdır?
-- Bazı araçlar, [[edtech-platform|edtech]]’in görsel olması gerektiği varsayımını tersine çevirir; örneğin görme engelli öğrenenler için ses-öncelikli eşlikçiler. Kendi araçlarınız veya materyalleriniz 'varsayılan' öğrenci hakkında hangi varsayımları yapıyor olabilir?
+- Bazı araçlar, [[edtech-platform|edtech]]’in görsel olması gerektiği varsayımını tersine çevirir; örneğin görme engelli öğrenenler için [[speech-and-voice-technologies|ses-öncelikli]] eşlikçiler eşlikçiler. Kendi araçlarınız veya materyalleriniz 'varsayılan' öğrenci hakkında hangi varsayımları yapıyor olabilir?
 
 ## Giriş
 
@@ -42,7 +42,7 @@ Kapsayıcı öğrenme **şemsiye** kavramdır; aşağıdaki sayfalar onun içind
 
 | Kavram | Yanıtladığı temel soru | Tipik odak |
 |---|---|---|
-| **Kapsayıcı Öğrenme** *(bu sayfa)* | Tüm öğrenenlerin anlamlı biçimde katılabileceği eğitimi nasıl tasarlarız? | Öğrenen değişkenliği boyunca geniş öğretim tasarımı |
+| **Kapsayıcı Öğrenme** *(bu sayfa)* | Tüm öğrenenlerin anlamlı biçimde katılabileceği eğitimi nasıl [[design-education|tasarlarız]]?? | Öğrenen değişkenliği boyunca geniş öğretim tasarımı |
 | **[[accessibility]]** | Herkes *biçimi/ortamı* algılayıp işletebilir mi? | Altyazılar, alternatif metin, transkriptler, kontrast, klavye/ekran okuyucu uyumluluğu, WCAG |
 | **[[assistive-technology]]** | Hangi araçlar/ekipmanlar bir bireyin erişim farkını köprüler? | Ekran okuyucular, metin-ses/ses-metin, braille/dokunsal, altyazılama, YZ uyumları |
 | **[[special-education]]** | Tanı almış engelliliği olan öğrenenlere öğretimi nasıl sunarız? | BEP’ler, bireyselleştirilmiş uyumlar, engelliğe özgü özel ders — **öncelikle bir [[k-12]] terimi (IDEA/hak)** |
@@ -66,7 +66,7 @@ Denklem ağırlıklı video, elle transkribe edilmek yerine erişilebilir hale g
 
 **[[cognitive-offloading|Bilişsel dış kaynak aktarımı]] ve erişim-gelişim ödünleşimi.** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]], öğrenme güçlüğü olan öğrenenler için, okuma ve yazma erişimindeki engelleri düşüren aynı GenAI’nin (metin düzeyleme, özetleme, taslak desteği) korunmadığı takdirde bu öğrenenlerin en çok ihtiyaç duyduğu kavrama, planlama ve izleme pratiğinin yerini alabileceğini göstermiştir — kapsayıcı öğrenmenin merkezinde bir eşitlik gerginliği. Kapsayıcı tasarım bu nedenle yalnızca bir aracın *erişilebilir* olup olmadığını değil, erişimin mümkün kılmayı hedeflediği becerilerin gelişimi için öğrenenin fırsatını koruyup korumadığını da göz önünde bulundurmalıdır.
 
-**Disleksi için YZ: tespit, destek ve [[personalized-learning|kişiselleştirilmiş öğrenme]].** 2026 yılında disleksisi olan öğrencileri destekleyen YZ’yi tespit, yardımcı destek ve kişiselleştirilmiş öğrenme boyunca bulan, PRISMA yönergeli, 2018–2024 arası, n=72’lik disiplinlerarası bir [[meta-analysis-systematic-review|sistematik derleme]] (Dabaghi, D'Urso & Sciarrone), bu eğilimlerin bütünleşmiş değil paralel evrildiğini ve teknolojik olanaktan çok birleşik eğitim kuramına dayanmadığını bulmaktadır. Makine öğrenmesi tabanlı yardım-eğitim araçları beş alana yayılsa da (özgül uygulamalar, katılım, kişiselleştirme, öneri, jenerik destek) teknik performans ve sınıflandırma isabetini öne çıkarırken ekolojik geçerlilik ve pratik sınıf içi uygulamayı göz ardı etmektedir. Tespit araştırması (EEG, göz izleme, ML modelleri), erken müdahale için tanısal vaat göstermekte ancak sıklıkla özel ekipman ve kontrollü ortamlar gerektirmekte; bu da tipik okul ortamlarında ölçeklenebilirliği ve erişilebilirliği sınırlamaktadır. Açık zorluklar arasında sınırlı deneysel doğrulama, ölçeklenebilirlik, hassas öğrenci verileriyle ilgili [[ethics]]/gizlilik kaygıları, sınırlı [[teacher-role|öğretmen]] desteği ve eğitimi ile dil/kültürel engeller (araştırmaların çoğu İngilizce konuşan nüfusları hedef almaktadır) yer alır — kapsayıcı öğrenmenin teknik kapasiteyi doğrulanmış, ölçeklenebilir ve etik temelli uygulamayla eşleştirmesi gerektiğinin altını çizer.
+**Disleksi desteği: tespit, yardım ve [[personalized-learning|kişiselleştirme]].** 2026 yılında disleksisi olan öğrencileri destekleyen YZ’yi tespit, yardımcı destek ve kişiselleştirilmiş öğrenme boyunca bulan, PRISMA yönergeli, 2018–2024 arası, n=72’lik disiplinlerarası bir [[meta-analysis-systematic-review|sistematik derleme]] (Dabaghi, D'Urso & Sciarrone), bu eğilimlerin bütünleşmiş değil paralel evrildiğini ve teknolojik olanaktan çok birleşik eğitim kuramına dayanmadığını bulmaktadır. Makine öğrenmesi tabanlı yardım-eğitim araçları beş alana yayılsa da (özgül uygulamalar, [[student-engagement|katılım]], kişiselleştirme, kişiselleştirme, öneri, jenerik destek) teknik performans ve sınıflandırma isabetini öne çıkarırken ekolojik geçerlilik ve pratik sınıf içi uygulamayı göz ardı etmektedir. Tespit araştırması ([[sensor-and-gaze-analytics|EEG]], göz izleme, göz izleme, ML modelleri), erken müdahale için tanısal vaat göstermekte ancak sıklıkla özel ekipman ve kontrollü ortamlar gerektirmekte; bu da tipik okul ortamlarında ölçeklenebilirliği ve erişilebilirliği sınırlamaktadır. Açık zorluklar arasında sınırlı deneysel doğrulama, ölçeklenebilirlik, hassas öğrenci verileriyle ilgili [[ethics]]/gizlilik kaygıları, sınırlı [[teacher-role|öğretmen]] desteği ve eğitimi ile dil/kültürel engeller (araştırmaların çoğu İngilizce konuşan nüfusları hedef almaktadır) yer alır — kapsayıcı öğrenmenin teknik kapasiteyi doğrulanmış, ölçeklenebilir ve etik temelli uygulamayla eşleştirmesi gerektiğinin altını çizer.
 
 **Engellilik merkezli YZ eleştirisi**, YZ sistemlerinin dışlamak yerine nasıl marjinalleştirebileceğini inceler. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]**, yükseköğretimdeki [[generative-ai|üretici YZ]] sistemlerinin, Anglofon ve Batı-merkezli eğitim verileri nedeniyle engellilik merkezli bilme biçimlerini aktif olarak marjinalleştirdiğini savunur — [[equity-in-ai-education]] kaygılarına epistemik adalet bağlamından bağlanır.
 
@@ -94,7 +94,7 @@ Kapsayıcı öğrenme, [[equity-in-ai-education]] ile derinden bağlantılıdır
 
 **“Yardımcı teknoloji sağlamak, faillik sağlamaktır.”** İkisi ayrıdır ve sayfanın kendi çerçevesi bunu söyler: yardımcı teknoloji anlamlı failliği garanti etmez. Öğrenenin gerekli görevi tamamlamasını sağlayan bir araç onu aynı görevin en dar sürümüne yönlendirebilir ve iskele ile tavan arasındaki fark benimseme ölçütünde görünmez.
 
-**“Zorlanan öğrenciler yalnızca daha iyi istem yazmayı öğrenmelidir.”** Bu, bir sistem kusurunu bir öğrenen eksikliğine dönüştürür. Alttaki görev sabit tutulduğunda model doğruluğu yalnızca **düşük okuryazarlıklı ifadede %82,4’ten uzman ifadesinde %83,4’e** yükselmiştir, bir puanlık bir fark; daha iyi istem yazmayı talep etmek ise var olan dışlamanın üzerine yeni bir dışlama ekler. Kaldıraç, düzeltici istem eğitiminde değil, dil çeşitliliğinin sistem tarafında ele alınmasındadır.
+**“Zorlanan öğrenciler yalnızca daha iyi istem yazmayı öğrenmelidir.”** Bu, bir sistem kusurunu bir öğrenen eksikliğine dönüştürür. Alttaki görev sabit tutulduğunda model doğruluğu yalnızca **düşük okuryazarlıklı ifadede %82,4’ten uzman ifadesinde %83,4’e** yükselmiştir, bir puanlık bir fark; daha iyi [[prompt-engineering|istem yazmayı]] talep etmek ise var olan dışlamanın üzerine yeni bir dışlama ekler. Kaldıraç, düzeltici istem eğitiminde değil, dil çeşitliliğinin sistem tarafında ele alınmasındadır.
 
 **“İyi kaynaklı sınıflar için kurulmuş bir araç, çevrildiğinde düşük kaynaklı bağlamlara hizmet eder.”** Bağlam tasarım kısıtını değiştirir. [[suacode-african-students-motivations|SuaCode]], masaüstü laboratuvar makineleri yerine akıllı telefonlar için tasarlayarak **%1’den azının kodlama becerisi olduğu** düşük kaynaklı Afrika bağlamlarındaki öğrencilere ulaşmıştır; bu aynı tasarımın daha küçük bir sürümü değil, farklı bir tasarımdır.
 

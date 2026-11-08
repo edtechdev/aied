@@ -10,7 +10,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -177,6 +177,9 @@ GAIT temelli suç niyetine ilişkin ilk Planlı Davranış Teorisi çalışması
 
 OECD (2023), 2024 başları itibarıyla ankete katılan on sekiz ülkenin hiçbirinde eğitime özgü üretken YZ düzenlemesi bulunmadığını ve dokuzunun yönetişimi okul düzeyine devrettiğini kaydeder. Ahmed'in edimsizlik kavramıyla okunduğunda, sözcük dağarcığı onu yürürlüğe koyacak hiçbir mekanizma olmadan etik bir yanıt verebilirliği ifade eder; böylece sorumluluk her aktör tarafından aynı anda dile getirilir ve hiçbirinde konumlanmaz. Hashem sonucu değişen bir **kopya çekme habitusu** olarak adlandırır: meşru katılıma yönelik eğilimlerin kronik belirsizlik altında yeniden kalibre edilmesi, öğrencilerin getirdiği akademik sermayeye göre katmanlaşması ve kopya çekme ile kopyalanmanın alternatifler değil eşzamanlı koşullar olarak ele alınması. Bütün bunlar öğrencilerde gözlemlenerek değil, politika metninden önerilmiştir.
 
+546 lisans öğrencisi arasında dürüstlük, beş algı boyutu arasında birinci sırada yer aldı (5 üzerinden 3,79) ve derece programına göre farklılaşmadı; bu, disiplinler arası varyasyonu dürüstlüğün ne kadar önemli olduğunda değil, YZ kullanımı ve beceri talebinde konumlandırır ([[crisol-moya-integrity-assessment-2026|Crisol Moya ve ark., 2026]]).
+
+
 ## Yaygın yanlış anlamalar
 
 - **“Tespit araçları YZ yazımını tanımlar.”** YZ ile üretilmiş metin **olguların %80’ine kadar insan yazımı olarak geçmiştir**, tespit kanıtı ise **makine tespitini insan puanlayıcıların %78,4’üne karşı yaklaşık %80** olarak koyar. İnsan ve makine yargısı neredeyse eşit derecede güvenilmezdir, dolayısıyla bir tespit hükmü yazarlığın kanıtı değildir.
@@ -255,3 +258,6 @@ OECD (2023), 2024 başları itibarıyla ankete katılan on sekiz ülkenin hiçbi
 
 - [[issa-teamwork-framework-academic-integrity-2024]] — üye başına doğrulamayla ekip çalışması değerlendirmesi, bir kimlik doğrulama tasarımı olarak (Issa ve Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Dürüstlük sorunu olarak metin oranı değil yanıtlanabilirlik
+
+- [[crisol-moya-integrity-assessment-2026]] — 546 öğrenci: dürüstlük birinci sırada ve derece programları arasında değişmiyor (Crisol Moya ve ark. 2026)
+

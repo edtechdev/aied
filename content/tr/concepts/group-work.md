@@ -11,7 +11,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-11-04T18:52:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -85,11 +85,11 @@ GenAI ve grup değerlendirmesi üzerine en doğrudan bulgu, [[chen-zou-genai-gro
 
 ### Parlak çıktının epistemik riski
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]], öğrenenlerin bilgiyi parlatılmış bilgi yapıtları üretmek için YZ kullandığında azalan epistemik çaba riskini kavramsallaştırır — bir yanda sosyal-bilişsel tarafta otomasyon önyargısı, diğer yanda bitmiş yapıtın indüklediği epistemik kapanma. Çare, YZ’yi çatışmayı koruyan argümantif bir ortak veya meydan okuyucu olarak yapılandırmaktır. Karşı görüş [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer ve ark.]]’dan gelir; onlar, LLM’ler eleştiri ortağı olarak davrandığında ve öğrenciler iddialarını etkin biçimde çürüttüğünde, öğrenenlerin eleştirinin bilişsel çatışmasını koruyan eleştirel tüketiciler olarak davrandığını buldular. Cevap veren bir takım arkadaşı ile meydan okuyan bir ortak arasındaki fark, YZ ile grup çalışmasının düşünceyi mi inşa ettiğini yoksa atladığını mı belirleyen şeydir.
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]], öğrenenlerin bilgiyi parlatılmış bilgi yapıtları üretmek için YZ kullandığında azalan epistemik çaba riskini kavramsallaştırır — bir yanda sosyal-bilişsel tarafta [[automation-bias|otomasyon önyargısı]], diğer yanda bitmiş yapıtın indüklediği epistemik kapanma. Çare, YZ’yi çatışmayı koruyan argümantif bir ortak veya meydan okuyucu olarak yapılandırmaktır. Karşı görüş [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer ve ark.]]’dan gelir; onlar, LLM’ler eleştiri ortağı olarak davrandığında ve öğrenciler iddialarını etkin biçimde çürüttüğünde, öğrenenlerin eleştirinin bilişsel çatışmasını koruyan, [[cognitive-surrender|bilişsel teslimiyete]] düşmeyen eleştirel tüketiciler olarak davrandığını buldular. Cevap veren bir takım arkadaşı ile meydan okuyan bir ortak arasındaki fark, YZ ile grup çalışmasının düşünceyi mi inşa ettiğini yoksa atladığını mı belirleyen şeydir.
 
 ### Sınıf düzeyinde, değerlendirici olmayan destek
 
-[[breideband-community-builder-cobi-2026|CoBi]], “yükseltici” küçük grup söylemini (saygı, eşitlik, topluluk, düşünceyi ileriye taşıma) tespit eder ve [[privacy]] gizliliği ile [[trust]] güveni korumak için öğrenci veya grup düzeyinde geri bildirimi kasıtlı olarak esirgeyerek değerlendirici olmayan, sınıf düzeyinde görsellemeler döndürür. Öğrenciler [[quantitative-research|quantitative]] nicel görsellemelere (radar grafiği) kıyasla [[qualitative-research|qualitative]] nitel görsellemeleri (organik bir ağaç) tercih etti. Grup çalışmasının ilişkisel boyutu için, bireysel puanlamanın gözetlenmiş hissettireceği yerde sınıf düzeyinde toplulaştırılmış geri bildirim topluluk oluşturmayı destekler.
+[[breideband-community-builder-cobi-2026|CoBi]], “yükseltici” küçük grup söylemini (saygı, eşitlik, topluluk, düşünceyi ileriye taşıma) tespit eder ve [[privacy]] gizliliği ile [[trust]] güveni korumak için öğrenci veya grup düzeyinde geri bildirimi kasıtlı olarak esirgeyerek değerlendirici olmayan, sınıf düzeyinde [[visualization|görsellemeler]] döndürür. Öğrenciler [[quantitative-research|quantitative]] nicel görsellemelere (radar grafiği) kıyasla [[qualitative-research|qualitative]] nitel görsellemeleri (organik bir ağaç) tercih etti. Grup çalışmasının ilişkisel boyutu için, bireysel puanlamanın gözetlenmiş hissettireceği yerde sınıf düzeyinde toplulaştırılmış geri bildirim topluluk oluşturmayı destekler.
 
 ## Tasarım çıkarımları
 

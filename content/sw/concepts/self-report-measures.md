@@ -13,7 +13,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-04T15:40:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 ## Maswali ya Kutafakari
 
 - Je, kama somo linasema wanafunzi "waliripoti mahusiano makubwa," kwa hasa kilichopimwa ni nini — na ungehitaji kuona nini ili kuhitimisha kuwa walihusika kweli?
-- Katika somo moja, vipimo vya kujitangaza na vya lengo vya [[ai-literacy|ujuzi wa AI]] vya mwalimu vilihusishwa kwa r = 0.07 hadi r = 0.24 tu katika vipimo vinne. [[self-assessment]] yako ingetofautiana wapi zaidi na mtihani wa ujuzi ule ule, na kwa nini?
+- Katika somo moja, vipimo vya kujitangaza na vya lengo vya [[ai-literacy|ujuzi wa AI]] vya [[teacher-role|mwalimu]] vilihusishwa kwa r = 0.07 hadi r = 0.24 tu katika vipimo vinne. [[self-assessment]] yako ingetofautiana wapi zaidi na mtihani wa ujuzi ule ule, na kwa nini?
 - Kuridhika ni rahisi kupima na rahisi kuboresha — mfumo uliosongeshwa kuwapendeza watumiaji utapata alama nzuri. Kwa nini hilo linaweza kufanya kuridhika kuwa kipimo dhaifu cha kujifunza, na ungepima nini badala yake?
 - "Karibu wanafunzi wote wanatumia AI kwa kazi za kozi" kinatokana na kuwauliza wanafunzi. Kuuliza badala ya kurekodi kunaweza kupotofuaje kwa mwelekeo mmoja au mwingine?
 - Utafiti wa vidokezo unapata majibu 112 kwa kiwango cha majibu cha 31%, au majibu 90 kutoka kwa mialiko 572. Kabla ya kukubali asilimia zake, unataka kujua nini kuhusu wale wasiojibu?
@@ -41,7 +41,7 @@ ai_assist:
 
 Kujitangaza hujumuisha zaidi ya dodoso. Ni pamoja na [[quantitative-research|utafiti wa vidokezo wa kisehemu]] unaotumia Likert na miundo mingine ya ukadiriaji, mahojiano na vikundi vya lengo vilivyoendeshwa na [[qualitative-research|watafiti wa kina]], dira na sampuli ya uzoefu, ujuzi au ujasiri unaojipima, makadirio yanayokumbukwa ya mara ngapi zana ilitumika, na kujifunza au kuridhika kunachohisiwa kama matokeo. Kinachounganisha ni nafasi ya epistemolojia ya mjibu: wanaripoti juu yao wenyewe badala ya kuchunguzwa.
 
-Hii si udhaifu unaostahili kukata tama. Miundo mingi ya kupendeza — motisha, wasiwasi, [[trust-calibration|uaminifu]], ufaafu unaohisiwa, [[student-engagement|nia ya kuhusika]] — ni hali za ndani ambazo hakuna faili ya kumbukumbu inayorekodi, na kuuliza ni njia pekee inayoweza kutetea ya kuzifikia. Tatizo linajitokeza kipimo cha kujitangaza kinapotumika kuunga mkono dai ambalo hakiwezi kubeba, ambalo kwa msingi ni swali la uhalali: iwapo chombo hupima muundo unaolitaja, na iwapo dai linalofanywa linahusu aina ya kitu ambacho kujitangaza kunaweza kuona. Wasiwasi huo ni wa [[educational-measurement]] na [[assessment-validity]]; ukurasa huu unahusu kinachotokea utafiti wa AI katika elimu unapotegemea kujitangaza mahususi, na mahali hifadhi ya ushahidi inapasipa nguvu.
+Hii si udhaifu unaostahili kukata tama. Miundo mingi ya kupendeza — motisha, [[anxiety-and-stress|wasiwasi]], [[trust-calibration|uaminifu]], ufaafu unaohisiwa, [[student-engagement|nia ya kuhusika]] — ni hali za ndani ambazo hakuna faili ya kumbukumbu inayorekodi, na kuuliza ni njia pekee inayoweza kutetea ya kuzifikia. Tatizo linajitokeza kipimo cha kujitangaza kinapotumika kuunga mkono dai ambalo hakiwezi kubeba, ambalo kwa msingi ni swali la uhalali: iwapo chombo hupima muundo unaolitaja, na iwapo dai linalofanywa linahusu aina ya kitu ambacho kujitangaza kunaweza kuona. Wasiwasi huo ni wa [[educational-measurement]] na [[assessment-validity]]; ukurasa huu unahusu kinachotokea utafiti wa AI katika elimu unapotegemea kujitangaza mahususi, na mahali hifadhi ya ushahidi inapasipa nguvu.
 
 **Jinsi ukurasa huu unavyohusiana na majirani zake.** [[research-methods-aied]] inaorodhesha miundo na nguvu na vikomo vyake, ikijumuisha masudio ya utafiti wa vidokezo na ya SEM. [[quantitative-research]] inashughulikia familia ya mbinu za kihisabati. [[educational-measurement]] inashughulikia maendeleo ya vyombo, [[item-response-theory]], na uthibitisho wa kimetriki. Ukurasa huu ni kipande kidogo zaidi ambako kurasa hizo zinaelekeza: chombo cha kupima na chanzo cha data yenyewe — kile ambacho kujitangaza kunaweza na hakiwezi kuthibitisha, pengo linalojirudia kati ya kile watu wanachoripoti na kile wanachofanya, na jinsi ya kusoma kwa njia ya uhakiki matokeo ya kipimo cha kujitangaza.
 
@@ -72,7 +72,7 @@ Wasifu unaotokana na kujitangaza hufanya vivyo hivyo. [[najem-behavioral-cluster
 
 Alama za tabia zinaweza kutenganisha wanafunzi ambao kipimo cha kujitangaza hakiwezi: [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] waligundua mzigo wa kiakili ulioripotiwa na mwenyewe haukutofautiana kwa umuhimu katika wasifu wa kupunguza mzigo ulioanzia 80% hadi 2% katika uandishi wa insha, huku wale waliopunguza mzigo kwa kiasi kikubwa zaidi wakiripoti mahitaji ya kiakili ya juu zaidi.
 
-[[ai-literacy-assessment-misalignment|Somo lililojenga vipimo sambamba vya kujitangaza na vya lengo vya ujuzi wa AI vya mwalimu]] lilipata **makubaliano madogo kati ya vipengele vya kujitangaza na vya lengo (r = 0.07 hadi r = 0.24)** katika sampuli ya walimu 288, huku uchanganuzi wa kipengele cha kuthibitisha ukisaidia uhalali wa muundo wa vipimo vyote viwili huku ukionyesha **uhusiano mdogo kati ya vipengele vya kujitangaza na vya lengo**. Vyombo viwili vilikuwa vya kuaminika; vilipima tu vitu tofauti. Katika sampuli kamili ya walimu 288 uhusiano kati ya vipengele vya lengo na vya kujitangaza ulitoka r = 0.07 hadi r = 0.24, na uchanganuzi wa wasifu wa siri ulipata walimu 43 waliojipima juu huku wakipata alama za chini katika kipimo cha lengo dhidi ya 59 walioonyesha mtindo wa kinyume.
+[[ai-literacy-assessment-misalignment|Somo lililojenga vipimo sambamba vya kujitangaza na vya lengo vya ujuzi wa AI vya mwalimu]] lilipata **makubaliano madogo kati ya vipengele vya kujitangaza na vya lengo (r = 0.07 hadi r = 0.24)** katika sampuli ya walimu 288. Uchanganuzi wa kipengele cha kuthibitisha ukisaidia uhalali wa muundo wa vipimo vyote viwili huku ukionyesha **uhusiano mdogo kati ya vipengele vya kujitangaza na vya lengo**. Vyombo viwili vilikuwa vya kuaminika; vilipima tu vitu tofauti. Katika sampuli kamili ya walimu 288 uhusiano kati ya vipengele vya lengo na vya kujitangaza ulitoka r = 0.07 hadi r = 0.24, na [[latent-profile-analysis|uchanganuzi wa wasifu wa siri]] ulipata walimu 43 waliojipima juu huku wakipata alama za chini katika kipimo cha lengo dhidi ya 59 walioonyesha mtindo wa kinyume.
 
 [[jin-glat-genai-literacy-assessment|GLAT]] inafika hitimisho lile lile kutoka upande mwingine: mtihani wake wa vipengele 20 unaotegemea utendaji ulitabiri utendaji katika kazi za kujifunza zinazosaidiwa na [[generative-ai|GenAI]] katika somo la ndani ya mtu wa wanafunzi 83, **wakati ujuzi wa ChatGPT unaoripotiwa na mwenyewe haukufanya**. Mtindo wa waandishi ni wa moja kwa moja — vyombo katika eneo hivi kwa wingi hutegemea utafiti wa vidokezo vya kujitangaza, "ambavyo vinanaswa mtazamo badala ya uwezo halisi na ni nyeti kwa upendeleo na kadirio kupita."
 
@@ -84,22 +84,34 @@ Mapitio ya muundo ya 2026 na [[meta-analysis-systematic-review|meta-analysis]] y
 
 Mapitio ya kimfumo ya awamu mbili yanaweka kiwango cha mtengano huo katika kiwango cha hitimisho: kati ya jozi 51 za muundo mmoja kutoka ripoti 47, 30 zilikubaliana, 11 hazikukubaliana na 10 zilichanganyika. Kutokubaliana kulienea pande zote mbili: tofauti tano ziliunganisha matokeo batili ya kujitangaza na matokeo chanya ya utendaji, dhidi ya mbili kinyume chake ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 
+
+Maktaba moja ya chuo kikuu iliweka mito yote mawili dhidi ya madai yale yale na kukuta yanaelekea kando. Mikopo ya machapisho ya mwaka ilishuka kutoka 406,120 mwaka 2017 hadi 46,339 mwaka 2025 na wakopaji wa kipekee kutoka 30,033 hadi 7,278, lakini kushuka kulianza kabla ya kipindi cha GenAI, na kizingiti cha Januari 2023 hakikuonyesha mabadiliko ya kiwango au mteremko. Utafiti uliweka uzito wa maelezo kwenye miundo: mahitaji ya kusoma kwa kina yalitabiri nia ya kuendelea na machapisho kwa H1 β = 0.908, wakati njia iliyodhaniwa ya uingizwaji ilikuwa karibu sifuri (H4 β = 0.038, *p* = 0.631), na sifa za AI za jukwaa zilikuwa 0.53% ya shughuli katika nusu ya kwanza ya 2026. Wajibu hawakuweza kuunganishwa na kumbukumbu za mikopo chini ya kanuni za utawala wa data, hivyo mtengano unaweza kusomwa tu katika ngazi ya idadi ya watu, si mtu kwa mtu ([[huang-genai-academic-information-resources-2026|Huang et al. (2026)]]).
+
+
 Fasihi ya vyombo yenyewe inaweza kusomwa kama ushahidi wa kiwango cha pengo hilo. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore na Maat (2026)]] walitathmini vyombo 33 vya ujuzi wa AI vya walimu na walipata kuwa 31 (93.9%) vilikuwa skela za kujitangaza za ujasiri unaohisiwa, viwili tu (6.1%) vilipima maarifa kwa njia ya lengo, na hakuna kilichotumia kazi zinazotegemea utendaji kati ya 2019 na 2025. Hitimisho lao ni lile ambalo ukurasa huu unafikia kutoka mwelekeo mingine: alama za kujitangaza zinaonyesha ujasiri badala ya uwezo, hivyo haziwezi kuchukua nafasi ya uwezo wakati vikundi au mipango inalinganishwa.
 
-Vipimo vya matokeo hurithi pengo lile lile. [[pramod-agentic-ai-motivational-pathways-2026|Pramod na Patil (2026)]] wanaunda njia kutoka [[agentic-ai|AI ya wakala]] kupitia motisha na uwepo wa kijamii hadi kile wanachokitaja utendaji wa kujifunza na koeffisheni ya 0.671 — uhusiano wenye nguvu zaidi katika somo — na sehemu yao ya vikomo inatamka kuwa kigeugeu hiki kinategemea kinakisi mitazamo ya wenye kujifunza na si matokeo ya mtihani, utendaji wa kazi au uchanganuzi wa kujifunza. Hilo ni mtindo wa kusoma kwa uangalifu katika miundo ya njia kwa ujumla: koeffisheni kubwa kwenye matokeo yanayohisiwa kinaonyesha kwa uthabiti wanafunzi wanaamini kitu kilisaidia kiasi gani, na bado haisemi kama kilisaidia.
+Vipimo vya matokeo hurithi pengo lile lile. [[pramod-agentic-ai-motivational-pathways-2026|Pramod na Patil (2026)]] wanaunda njia kutoka [[agentic-ai|AI ya wakala]] kupitia motisha na [[community-of-inquiry|uwepo wa kijamii]] hadi kile wanachokitaja utendaji wa kujifunza na koeffisheni ya 0.671 — uhusiano wenye nguvu zaidi katika somo. Sehemu yao ya vikomo inatamka kuwa kigeugeu hiki kinategemea kinakisi mitazamo ya wenye kujifunza na si matokeo ya mtihani, utendaji wa kazi au [[learning-analytics|uchanganuzi wa kujifunza]]. Hilo ni mtindo wa kusoma kwa uangalifu katika miundo ya njia kwa ujumla: koeffisheni kubwa kwenye matokeo yanayohisiwa kinaonyesha kwa uthabiti wanafunzi wanaamini kitu kilisaidia kiasi gani, na bado haisemi kama kilisaidia.
 
 Nia ndiyo kisa chenye ukali zaidi wa pengo hilo, kwa sababu alama moja ya nia inaweza kufunika tabia zinazopingana. Kwa kuwasimamia tena vipengele kwa wanafunzi 68 kati ya 340 na kuwahoji wanane, [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi na Lu (2026)]] waligundua nia ile ile iliyotamkwa ikifunika matumizi yanayoelekea kujifunza, yanayoelekea njia za mkato na mchanganyiko, huku watumiaji wa njia za mkato wakitaja kujiamini kwa chini badala ya kutopenda.
+
+
+- **"Wanafunzi huripoti walichofanya."** Alama ilipingana na utafiti kwa mwelekeo wenye manufaa. Katika somo la insha ambapo **15 kati ya 77 (19.5%)** waliwasilisha insha zisizo na maneno yaliyoandikwa, umiliki unaohisiwa ulishuka tu katika kundi hilo lililokabidhi kikamilifu, wakati waandishi waliotumia mfano kwa kupanga au kupitia waliripoti umiliki katika kiwango cha wanafunzi ambao hawakufungua zana kamwe. Kujitangaza kwa hivyo kulitofautisha miisho na kubatilisha kila kitu kati yao, ambayo ni kile kipimo cha mtazamo kinaweza kufanya na kisichoweza. [[jelson-students-chatgpt-essay-writing-2026|Pengo la mtazamo–tabia, lililopimwa kwa mibonyezo]].
+
 
 ## Kuridhika na kujifunza kunachohisiwa kama matokeo
 
 Kuridhika ni matokeo yanayoripotiwa na mwenyewe mara nyingi zaidi katika mkusanyiko huu, yakionekana kwenye kurasa 63 za makala. Ni dhaifu zaidi kama mbadala wa kujifunza, na hifadhi ya maarifa ina hoja zilizo wazi za athari hiyo.
 
 - [[sequenced-ai-feedback-learning|Kazi juu ya maoni ya AI yaliyopangwa kwa mpangilio]] inatamka kanuni ya ubuni moja kwa moja: kuridhika kwa mtumiaji na mahusiano ya tabia si mbadala wa kuaminika wa mapato ya kujifunza, hivyo kujifunza lazima kupimwe moja kwa moja.
-- [[puech-pedagogical-steering-llm-productive-failure-2025|Kuhusu uongozi wa kieledu]] inaona kuwa mifano ya sasa ya lugha imeonyeshwa kwa muundo wa wasaidizi wanaoweza kusaidia wanaopana kuridhika kwa mtumiaji, wakati lengo la msaidizi wa kufundisha ni kupanua kujifunza — malengo haya mawili yanaweza kupingana, ambayo hufanya kuridhika kuwa lengo linaloweza kupotosha badala ya dhaifu tu.
+- [[puech-pedagogical-steering-llm-productive-failure-2025|Kuhusu uongozi wa kieledu]] inaona kuwa mifano ya sasa ya [[llm|lugha]] imeonyeshwa kwa muundo wa wasaidizi wanaoweza kusaidia wanaopana kuridhika kwa mtumiaji, wakati lengo la msaidizi wa kufundisha ni kupanua kujifunza — malengo haya mawili yanaweza kupingana, ambayo hufanya kuridhika kuwa lengo linaloweza kupotosha badala ya dhaifu tu.
 - [[preferred-scaffolding-ai-mathematical-modeling|Somo la ngazi za msaada]] linadai kuwa ufaafu unaohisiwa, urahisi wa matumizi, na kuridhika za haraka hayawezi kutendewa kama viashiria vya kutosha vya ufanisi wa [[scaffolding]].
 - [[nie-personavlm-long-term-personalization-2026|Kuhusu kuunda mfano wa mwanafunzi unaolingana na utu]] inaona kuwa kuboresha kwa kuridhika kwa mtumiaji si sawa na kuboresha matokeo ya kujifunza, na kuwa viwili hivi vinaweza kutengana.
 
 Mtindo unaostahili kubebwa: kuridhika kinajibu vitu visivyo sahihi wakati kujifunza ni lengo. Mfumo unaojibu haraka, unaokubali kwa urahisi, na kupunguza jitihaji utapimwa juu, na sifa hizo hizo ni zile ambazo hifadhi ya maarifa inazihusisha na [[desirable-difficulties|mapambano ya kuunda]] yaliyopungua na utendaji uliopindukwa kwenye kazi zinazosaidiwa na AI. Kuridhika kilichoripotiwa na kujifunza kilichopimwa si maadui; ni mbadala tu, na kutendea kile cha kwanza kama ushahidi wa cha pili ni kutangatanga kwa kawaida zaidi ambako ukurasa huu unarekodi.
+
+
+**Vipimo vya mtazamo vinazidi vipimo vya ujuzi katika fasihi ya uchunguzi wa AI ya kizalishaji.** Katika mapitio ya masudio 66, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] waligundua mitazamo ya watumiaji kuwa kikoa cha matokeo kilichoripotiwa zaidi (masudio 32, 48.5%), kikifuatiwa na matokeo ya kihisia kwa 25, wakati masudio 8 tu (12.1%) yalipima ujuzi wa uchunguzi na 4 kati yao yalikuwa na hali ya kulinganisha. Waandishi hawakukadiria uhakika wowote wa ushahidi, hivyo hesabu za mtazamo zinaeleza kile kilichoulizwa badala ya kile kilichofikiwa.
+
 
 ## Kile kinachofanya chombo cha kujitangaza kuwa cha kuaminika
 
@@ -109,6 +121,10 @@ Sifa nne zinatenga utafiti unaoweza kuunga mkono dai na ule ambao hauwezi.
 - **Uaminifu na muundo.** Vyombo vilivyothibitishwa na kipengele vinajirudia katika mkusanyiko huu, kutoka [[teacher-education-ai-literacy-sdt-2026|vipimo vya ujuzi wa AI vya walimu vilivyojengwa kwenye nadharia ya kujitambua]] hadi skela za kukubalika zilizoundwa kwa [[technology-acceptance-model|TAM]] na SEM katika [[acceptance-ai-english-tools-2026|masudio ya zana za lugha zinazosaidiwa na AI]].
 - **Kutokuwa na mabadiliko, wakati vikundi vinavyolinganishwa.** Skela inayojitenda kwa namna tofauti katika idadi haziwezi kuunga mkono kulinganisha. [[same-ai-different-pathways|Kazi ya SEM ya vikundi vingi]] inaripoti kupima kutokuwa na mabadiliko (ya usanifu, ya kimetriki, ya skela) pamoja na athari zake za moja kwa moja, na [[genai-thoughtless-use-self-directed-learning-2026|kulinganisha kwa Uswisi–Uchina]] kulipata thamani ya ndani pekee ilifikia kutokuwa na mabadiliko kwa kimetriki na si kwa skela — kikomo kilichotamkwa badala ya kufichwa, na kimoja kinachozima kile ambacho tofauti zake za nchi zinaweza kumaanisha.
 - **Mbadala wa utendaji pale uwezo ni muundo.** Vipengele 20 vya chaguo nyingi vya GLAT vipo hasa kwa sababu kujitangaza haiwezi kubeba dai la uwezo.
+
+
+**Vyombo vingi katika nafasi hii huripoti uaminifu na karibu hakuna huripoti uhalali.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] wanataja mapitio ya Su et al. ya masudio 36 ya ujuzi wa AI, yaliyogundua 63.8% ya zana zikiripoti ushahidi wa uaminifu na chini ya 20% zikiripoti ushahidi wa uhalali. Mapitio yale yale yaligundua chombo kimoja tu mahususi kwa AI ya kizalishaji, GAIAS ya vipengele 27, kati ya mifumo 50 ya [[k-12]]. Skela kuwa thabiti ndani yake haisemi chochote kuhusu iwapo inapima muundo unaotajwa katika kichwa chake.
+
 
 ## Sampuli, majibu, na kutojibu
 
@@ -197,3 +213,9 @@ Majibu ya kujenga ya hifadhi ya maarifa ni thabiti, na hakuna kati yao inahitaji
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Mapitio yalipata vyombo 31 kati ya 33 vya ujuzi wa AI vya walimu ni vya kujitangaza na hakuna kinachotegemea utendaji
 - [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Wasifu unaotokana na kujitangaza hufanya vivyo hivyo
 - [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Mapitio ya awamu mbili yanaweka kiwango cha kutokubaliana kwa muundo mmoja kati ya kujitangaza na utendaji (Fan et al. 2026)
+
+- [[jelson-students-chatgpt-essay-writing-2026]] — Umiliki unaohisiwa ulitenganisha ukabidhi wa insha nzima na kila kitu kingine, wakati alama ilitenganisha mengi zaidi (Jelson et al. 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — mitazamo iliripotiwa katika masudio 32 kati ya 66 dhidi ya 8 yaliyopima ujuzi wa uchunguzi
+- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — 63.8% ya zana za ujuzi wa AI huripoti ushahidi wa uaminifu na chini ya 20% huripoti ushahidi wa uhalali
+- [[huang-genai-academic-information-resources-2026]] — Kumbukumbu za maktaba na mitazamo ya utafiti zikielekea pande tofauti
+

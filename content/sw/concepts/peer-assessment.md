@@ -9,7 +9,7 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ Tathmini ya marika ni chaguo la muundo wa tathmini ambalo wanafunzi huchukua seh
 
 Msingi wa utafiti unakubaliana kuwa tathmini ya marika huzalisha ujifunza na unakubaliana juu ya kiasi gani kinategemea muundo. Inawapa wanafunzi hadhira halisi, inaendeleza hukumu ya kutathmini kupitia majibu yanayotegemea vigezo, na inajenga muktadha wa kijamii unaounga mkono [[student-engagement|ushirikiano]] na [[motivation]]. Ubora wake unategemea sana [[scaffolding]] — jinsi inavyopangwa vizuri, na iwapo wanafunzi wanapata vigezo wazi na mafunzo. Utegemezi huo ni mahali AI inapoingia, kama nyongeza thabiti, inayoendeshwa na rubriki ya maoni mahususi na yenye ufahamu wa muktadha ambayo wanafunzi hutoa, na kwa kiwango kinachoongezeka kama ngazi za msaada zilizojengwa ndani ya mchakato wa tathmini ya marika yenyewe.
 
-[[wang-student-ai-collaboration-peer-feedback-2026|Wang na Guo (2026)]] wanagundua kuwa wanafunzi wa EFL waliokagua maandishi ya rika kupitia mazungumzo ya wazi na AI ya kizalishaji walizalisha maoni ambayo wapokeaji waliyapima kuwa ya ubora wa juu, na faida katika mwitikio wa kihisia na ufahamu wa maoni zilitofautiana kwa ubora wa mazungumzo.
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang na Guo (2026)]] wanagundua kuwa wanafunzi wa EFL waliokagua maandishi ya rika kupitia mazungumzo ya wazi na [[generative-ai|AI ya kizalishaji]] walizalisha maoni ambayo wapokeaji waliyapima kuwa ya ubora wa juu, na faida katika mwitikio wa kihisia na ufahamu wa maoni zilitofautiana kwa ubora wa mazungumzo.
 
 ## Wanafunzi hujifunza nini kutoka kuwatathmini wenzao
 
@@ -62,6 +62,9 @@ Hiyo inazuia kile alama ya marika inapaswa kutumika. Alama iliyorekebishwa katik
 ## Tathmini ya marika iliyoongezwa na AI: PAIRR na mgawanyo wa Kocha/Muundaji
 
 Mtindo wa kubuni unaotawala huweka marika katika kituo na kuongeza AI karibu nao. Mfano wa Peer and AI Review + Reflection ni mfano bora zaidi uliorikodiwa. [[pairr-ai-peer-review-2025|Sperber et al. (2025)]] walitekeleza PAIRR katika kozi 10 za uandishi na kozi tatu za [[stem-education|STEM]] zenye mzigo wa uandishi, na wanafunzi 654 (37% wa kizazi cha kwanza, 13% ya kimataifa, 68% [[multilingual-learning|wenye lugha nyingi]]). Wanafunzi walitengeneza rasimu, walibadilishana ukaguzi wa marika, walimliza ChatGPT maoni yanayoendeshwa na rubriki kuhusu rasimu ile ile, walitathmini vyote viwili kwa njia mahususi, walipanga marekebisho, na walitafakari. 58% walipendelea maoni ya pamoja, 36% maoni ya marika peke yake, na 6% tu maoni ya AI peke yake. Vyanzo viwili mara nyingi vilikuwa vinavyofanana (75% waliripoti mifano, iliyoelezewa kama kuthibitisha na kuimarisha kila mmoja) na, vilipotofautiana, vilijazana: maoni ya AI mara nyingi yaliitwa ya jumla kupita kiasi (31%) lakini yalitoa mikakati ya vitendo ya marekebisho kuhusu mpangilio na muundo, wakati maoni ya marika yalikuwa mahususi na yenye undani zaidi (28%) na yalitegemea maarifa ya muktadha ya kazi. [[ai-ed-evaluation|Kutathmini kwa njia mahususi]] matokeo ya AI kulijenga [[ai-literacy]], na wanafunzi 5.3% tu walionyesha kujiamini kupita kiasi juu yake.
+
+Utekelezaji ule ule wa 2024 una andiko la pili linalosoma tafakari kwa jinsi wanafunzi walivyoeleza zana badala ya jinsi walivyopima maoni. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] waliweka kodi katika tafakari za marekebisho za sehemu 13 na kozi 10, na waligundua kuwa karibu nusu tu ya wanafunzi walichukua majukumu ya kibinadamu ambayo ilani ilitoa: kocha (28.6%) na mshirika (23.1%). Wengine walikimbilia zana au rasilimali (9.9%), marafiki au rika (7.7%), roboti au kompyuta (7.7%), au mifumo yao wenyewe. Waandishi wanasoma mpangilio huo kama hoja yenyewe: wanafunzi wanaweka chatbot pembezoni mwa ikolojia ya uandishi ambayo kituo chake ni mwanafunzi, rika na mkufunzi.
+
 
 Mtindo huo unajitangaza kwa uandishi wa kitaaluma. [[gift-ai-pairr-business-writing-2025|MacArthur et al. (2025)]] walitumia PAIRR katika kozi ya uandishi wa biashara ya ngazi ya juu ambapo kazi tano kubwa kila moja zilihitaji rasimu, uchanganuzi wa hadhira, ukaguzi wa marika na wanafunzi 2–3, na marekebisho (wanafunzi 34 kati ya 46 waliojisajili walishiriki; 69% wenye lugha nyingi). Wanafunzi walithamini maoni ya AI lakini wakati mwingine walihisi kuwa ya jumla kupita kiasi, na walithamini maarifa ya muktadha ya wanafunzi — "wanafunzi wangu waliiangalia kwa mtazamo wa mwajiri… ChatGPT haukufanya hivyo kwa kiwango kile." Robo moja ya tafakari zilizowekwa kodi katika utafiti mkubwa wa PAIRR zilieleza shaka kuhusu maoni ya AI au zilibainisha makosa, ambayo waandishi wanayasoma kama maendeleo ya ujuzi wa AI. Utafiti ni wa kuelezea na wa kozi mahususi.
 
@@ -94,8 +97,11 @@ Maswali yaliyo wazi yanahusu nguvu ya ushahidi, si muundo tu. Ushahidi mwingi wa
 ## Dhana Potofu za Kawaida
 
 - **"Utetezi wa mdomo huzuia kazi inayosaidiwa na AI."** Herufi zilizobandikwa kwa jumla **zilipanda kutoka 61.0% hadi 68.1% (p < 0.0001)** baada ya kila kuwasilisha kwa CS1 kuwekwa chini ya **ukaguzi wa mdomo wa msimbo wa dakika 15 wenye thamani ya 70% ya alama**. Tabia iliyolengwa iliongezeka, na **alama za mtihani hazikupungua na muda wa kazi ulibaki tulivu**, wakati **90% ya wanafunzi walisema ukaguzi uliwahamasisha**. Uingiliaji ulifanya kazi kwa ufahamu, si kwa kubandika.
-- **"Kugundua udanganyifu ndiko kusudi la tathmini ya mdomo."** Matokeo yaliyopimwa yalikuwa ufahamu na motisha, si kupungua kwa maandishi yaliyobandikwa. Kuhukumu ubuni kwa kiwango chake cha ugunduzi husoma vibaya kile kilichofikiwa.
+- **"Kugundua udanganyifu ndiko kusudi la [[oral-assessment|tathmini ya mdomo]]."** Matokeo yaliyopimwa yalikuwa ufahamu na motisha, si kupungua kwa maandishi yaliyobandikwa. Kuhukumu ubuni kwa kiwango chake cha ugunduzi husoma vibaya kile kilichofikiwa.
 - **"Ukaguzi wa rika ni mbadala wa bei nafuu wa maoni ya mkufunzi."** [[learning-by-teaching|Kujifunza kwa kufundisha]] ndio mitambo, na huonekana hata miongoni mwa mashine: mazungumzo yanayofanana na kujifunza kwa rika miongoni mwa **mawakala wa AI zaidi ya milioni 2.4** yalikuwa zaidi **madai badala ya uchunguzi**. Kuzalisha uhakiki ni kitendo tofauti na kuupokea.
+
+- **Fomu za tafakari za rika na binafsi kama rekodi nyuma ya alama ya kikundi.** [[issa-teamwork-framework-academic-integrity-2024|Issa na Hall (2024)]] walitumia fomu moja ya tafakari ya rika kwa kila mwenza pamoja na fomu moja ya tafakari binafsi kwa kila mwanafunzi katika kitengo cha shahada ya uzamili cha Usimamizi wa Miradi ya Biashara, pamoja na mkutano wa dakika 30 na kila timu ambapo wanachama waliulizwa kama mchango wao ulikuwa wa awali. Fomu hazikupimwa kama ubadilishanaji wa maoni. Zilikuwa ushahidi wa kila mtu ulioruhusu mkufunzi kutetea alama ya mtu binafsi ndani ya tathmini ya timu ya 40%. Kupanda kwa alama kwa mfumo kutoka 27/40 hadi 31/40 kunachanganywa na mhadhiri mpya na dai lake la uadilifu halijapimwa kwa kiasi, hivyo sehemu inayoweza kuhamishwa ni muundo wa utunzaji wa kumbukumbu, si ukubwa wa athari.
+
 
 ## Dhana Zilizounganishwa
 - [[pedagogical-patterns]] — PAIRR na maoni ya pamoja ya marika-na-AI: mlolongo na ushahidi wao wa kulinganisha
@@ -138,3 +144,7 @@ Maswali yaliyo wazi yanahusu nguvu ya ushahidi, si muundo tu. Ushahidi mwingi wa
 - [[ai-agents-peer-learning-discourse]] — Mazungumzo yanayofanana na kujifunza kwa marika kati ya mawakala milioni 2.4 wa AI (Chen et al. 2026)
 - [[oneill-presumed-effective-meta-analysis-2026]] — Ukaguzi wa meta-analysis 14 za AIED na masudio 59 ya msingi (O'Neill 2026)
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Maoni ya mwalimu dhidi ya maoni ya marika yanayosaidiwa na AI katika uandishi wa L2: wingi, lengo, na mwelekeo wa kuboresha katika kazi mbili (Tang, Li & Luo 2026)
+
+- [[issa-teamwork-framework-academic-integrity-2024]] — Fomu za tafakari binafsi/za rika kama ushahidi wa kila mtu nyuma ya alama ya kikundi (Issa & Hall 2024)
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Msamiati wa majukumu kutoka wanafunzi 654: kocha 28.6%, mshirika 23.1%, zana 9.9%, roboti 7.7%
+

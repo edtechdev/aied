@@ -1,7 +1,7 @@
 ---
 title: Administradores
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:35:57-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-10-26T06:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,10 +35,10 @@ ai_assist:
 
 - A adoção de IA costuma ser enquadrada como uma decisão de sala de aula, mas são os administradores que definem as condições — política, financiamento, infraestrutura. Na sua instituição, quem de fato decide se e como a IA é usada, e quem fica de fora dessa decisão?
 - A pesquisa identifica uma lacuna recorrente entre a ambição da política de alto nível e a implementação no dia a dia. Onde você já viu uma política de IA bem-intencionada não chegar à sala de aula, e por que você acha que ela ficou aquém?
-- Administradores precisam equilibrar a oportunidade pedagógica com risco, equidade e recursos. Se você tivesse que escolher entre financiar uma nova iniciativa de IA e reforçar a governança de dados e a formação docente, qual escolheria e por quê?
+- Administradores precisam equilibrar a oportunidade [[pedagogy|pedagógica]] com risco, equidade e recursos. Se você tivesse que escolher entre financiar uma nova iniciativa de IA e reforçar a governança de dados e a formação docente, qual escolheria e por quê?
 - Decisões de compra tomadas no nível institucional podem habilitar ou restringir o que professores e estudantes realmente conseguem fazer. Que perguntas você gostaria que fossem respondidas antes de a sua instituição assinar um contrato para uma plataforma de tecnologia educacional com IA?
 - Instituições traduzem a capacidade da IA em frameworks de uso aceitável e padrões de dados. Como você pesa a promessa da inovação contra as implicações de privacidade e equidade dos dados que essas ferramentas coletam?
-- As escolhas dos administradores sobre ferramentas de bem-estar com IA moldam diretamente a experiência do estudante. Que evidência você gostaria de ver antes de implantar uma ferramenta de IA destinada a apoiar — e não a monitorar — os estudantes?
+- As escolhas dos administradores sobre ferramentas de [[well-being|bem-estar]] com IA moldam diretamente a experiência do estudante. Que evidência você gostaria de ver antes de implantar uma ferramenta de IA destinada a apoiar — e não a monitorar — os estudantes?
 
 ## Introdução
 
@@ -53,7 +53,7 @@ A adoção de IA na educação não é puramente uma decisão de sala de aula; �
 - **Uma taxonomia de dez domínios para organizar a pilha.** [[sposato-ai-educational-leadership-taxonomy-2025|Sposato (2025)]] sintetizou 314 publicações em dez domínios — da eficiência administrativa à governança e à DEI — dando às lideranças um vocabulário compartilhado para associar um problema institucional declarado aos domínios que o tratam.
 
 - **As estruturas de liderança ficam atrás da intenção estratégica.** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] constatou que apenas 7% das instituições haviam criado cargos seniores de liderança em IA, embora 49% tratassem a IA como prioridade estratégica, com estilos de liderança empoderadora e distributiva associados a maior engajamento docente, e a lacuna entre teoria e implementação mais ampla onde a política e a infraestrutura eram fracas.
-- **Bem-estar e experiência do estudante:** as [[ai-campus-wellbeing-tools|ferramentas de IA para o bem-estar no campus]] examinam como as instituições implantam IA para o apoio ao estudante, ligando as escolhas dos administradores aos resultados de [[student-experience|experiência do estudante]].
+- **Bem-estar e experiência do estudante:** as [[ai-campus-wellbeing-tools|ferramentas de IA para o bem-estar no campus]] examinam como as instituições implantam IA para o [[student-support-and-success|apoio ao estudante]], ligando as escolhas dos administradores aos resultados de [[student-experience|experiência do estudante]].
 - **Governança e regulamentação:** as decisões dos administradores interagem com [[educational-policy-ai|política educacional de IA]], [[governance|governança]] e [[regulation|regulamentação]] — as instituições traduzem a capacidade da IA em frameworks de uso aceitável, regras de avaliação e padrões de governança de dados (ver a [[genai-policies-higher-ed-computing|análise de políticas institucionais de GenAI]]).
 
 ### Conexões

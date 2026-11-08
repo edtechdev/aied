@@ -1,14 +1,14 @@
 ---
 title: Portatori di interesse
 created: "2026-10-14T22:40:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:18:00-05:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/stakeholders
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -78,7 +78,7 @@ L'identità è l'ancora umana del panorama dei portatori di interesse: è ciò c
 
 **"Dare voce a ogni gruppo di portatori di interesse risolve il conflitto."** La consultazione non è ponderazione. L'inquadramento stesso della pagina pone la domanda progettuale su come dare a ogni preoccupazione un peso genuino anziché lasciar vincere la voce più forte: è un problema di procedura — chi decide, con quali evidenze e con quale possibilità di appello — non un problema di comunicazione.
 
-**"L'analisi dei portatori di interesse è un esercizio di fase iniziale."** Le tensioni persistono nell'operatività, perché i ruoli continuano a interpretare lo stesso sistema in modo diverso. Un livello di personalizzazione rivolto agli studenti e una dashboard sull'integrità rivolta al corpo docente sono gli stessi dati visti da due posizioni, e il conflitto si ripresenta ogni volta che se ne modifica uno.
+**"L'analisi dei portatori di interesse è un esercizio di fase iniziale."** Le tensioni persistono nell'operatività, perché i ruoli continuano a interpretare lo stesso sistema in modo diverso. Un livello di [[personalized-learning|personalizzazione]] rivolto agli studenti e una dashboard sull'integrità rivolta al corpo docente sono gli stessi dati visti da due posizioni, e il conflitto si ripresenta ogni volta che se ne modifica uno.
 
 **"Un'identità tra i pubblici significa che un solo messaggio può servirli tutti."** Comunicare tra pubblici richiede di tradurre la stessa decisione in termini diversi senza travisarla, il che è più che riscrivere un messaggio in quattro modi.
 

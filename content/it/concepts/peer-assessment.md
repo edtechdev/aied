@@ -1,7 +1,7 @@
 ---
 title: Valutazione tra pari
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:09:36-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ La valutazione tra pari è una scelta di progettazione della valutazione in cui 
 
 La base di ricerca concorda sul fatto che la valutazione tra pari produca apprendimento e dissente su quanto dipenda dalla progettazione. Essa offre agli studenti un pubblico autentico, sviluppa il giudizio valutativo attraverso la risposta basata su criteri, e costruisce il contesto sociale che sostiene lo [[student-engagement|engagement]] e la [[motivation]]. La sua qualità dipende fortemente dallo [[scaffolding]] — da quanto è strutturata e da se gli studenti ricevono criteri chiari e formazione. Ed è proprio in questa dipendenza che entra l'IA, come complemento coerente e basato su criteri al feedback specifico e sensibile al contesto che i pari forniscono, e sempre più come scaffolding integrato nel processo stesso di valutazione tra pari.
 
-[[wang-student-ai-collaboration-peer-feedback-2026|Wang e Guo (2026)]] rilevano che gli studenti EFL che revisionavano la scrittura dei pari attraverso un dialogo aperto con un'IA generativa producevano feedback che i destinatari valutavano di qualità superiore, con guadagni nella risposta emotiva e nell'alfabetizzazione al feedback che variavano con la qualità del dialogo.
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang e Guo (2026)]] rilevano che gli studenti EFL che revisionavano la scrittura dei pari attraverso un dialogo aperto con un'[[generative-ai|IA generativa]] producevano feedback che i destinatari valutavano di qualità superiore, con guadagni nella risposta emotiva e nell'alfabetizzazione al feedback che variavano con la qualità del dialogo.
 
 ## Ciò che gli studenti apprendono valutando i pari
 
@@ -69,6 +69,10 @@ Questo vincola l'uso che si dovrebbe fare di un voto tra pari. Un voto calibrato
 Il pattern progettuale dominante mantiene il pari al centro e aggiunge l'IA attorno a lui. Il modello Peer and AI Review + Reflection ne è l'istanza meglio documentata. [[pairr-ai-peer-review-2025|Sperber et al. (2025)]] hanno implementato PAIRR in 10 corsi di scrittura e tre corsi [[stem-education|STEM]] ad alta intensità di scrittura, con 654 studenti (37% prima generazione, 13% internazionali, 68% [[multilingual-learning|multilingue]]). Gli studenti redigevano bozze, si scambiavano revisioni tra pari, richiedevano a ChatGPT feedback basati su criteri sulla stessa bozza, valutavano criticamente entrambi, pianificavano le revisioni e riflettevano. Il 58% preferiva il feedback combinato, il 36% il solo feedback tra pari, e solo il 6% il solo feedback dell'IA. Le due fonti erano spesso simili (75% segnalavano somiglianze, descritte come confermantesi e rafforzantesi a vicenda) e, quando differivano, complementari: il feedback dell'IA era spesso giudicato troppo generale (31%) ma forniva strategie di revisione attuabili su organizzazione e struttura, mentre il feedback tra pari era più specifico e dettagliato (28%) e attingeva alla conoscenza contestuale del compito. Valutare criticamente l'output dell'[[ai-ed-evaluation|IA]] costruiva [[ai-literacy]], e solo il 5,3% degli studenti mostrava sovrastima di esso.
 
 Il pattern si generalizza alla scrittura professionale. [[gift-ai-pairr-business-writing-2025|MacArthur et al. (2025)]] hanno applicato PAIRR a un corso avanzato di scrittura business in cui ciascuno dei cinque compiti principali richiedeva una bozza, un'analisi del pubblico, una revisione tra pari di 2–3 pari, e una revisione finale (hanno partecipato 34 dei 46 studenti iscritti; 69% multilingue). Gli studenti apprezzavano il feedback dell'IA ma talvolta lo trovavano troppo generale, e apprezzavano la conoscenza contestuale dei pari — "i miei pari lo guardavano dalla prospettiva del datore di lavoro… ChatGPT non lo faceva allo stesso modo." Un quarto delle riflessioni codificate nel più ampio studio PAIRR esprimeva scetticismo sul feedback dell'IA o ne notava inesattezze, cosa che gli autori leggono come sviluppo dell'alfabetizzazione sull'IA. Lo studio è descrittivo e specifico del corso.
+
+
+La stessa implementazione del 2024 ha un secondo resoconto che legge le riflessioni per come gli studenti descrivevano lo strumento anziché per come hanno valutato il feedback. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] hanno codificato le riflessioni di revisione delle 13 sezioni e dei 10 corsi, e hanno trovato che solo circa la metà degli studenti adottava i ruoli antropomorfi offerti dal prompt: tutor (28,6%) e collaboratore (23,1%). Il resto ricorreva a strumento o risorsa (9,9%), amici o pari (7,7%), robot o computer (7,7%), o a schemi propri. Gli autori leggono quella collocazione come il punto: gli studenti mettono il chatbot alla periferia di un'ecologia della scrittura il cui centro è lo studente, i pari e il docente.
+
 
 ## La GenAI come scaffolding interno al feedback tra pari e alla valutazione di gruppo
 
@@ -99,8 +103,11 @@ Le domande aperte riguardano la solidità delle evidenze, non solo la progettazi
 ## Idee sbagliate comuni
 
 - **«La difesa orale ferma il lavoro assistito dall'IA.»** I caratteri incollati sul totale **sono saliti dal 61,0% al 68,1% (p < 0,0001)** dopo che ogni consegna del CS1 è stata sottoposta a una **revisione orale del codice di 15 minuti valida il 70% del voto**. Il comportamento che mirava a colpire è aumentato — e **i punteggi d'esame non sono calati e il tempo sull'attività è rimasto stabile**, mentre **il 90% degli studenti ha dichiarato che le revisioni li hanno motivati**. L'intervento ha agito sulla comprensione, non sull'incollare.
-- **«Rilevare gli imbrogli è lo scopo della valutazione orale.»** Gli esiti misurati erano comprensione e motivazione, non la riduzione del testo incollato. Giudicare il disegno dal suo tasso di individuazione fraintende ciò che ha ottenuto.
+- **«Rilevare gli imbrogli è lo scopo della [[oral-assessment|valutazione orale]].»** Gli esiti misurati erano comprensione e motivazione, non la riduzione del testo incollato. Giudicare il disegno dal suo tasso di individuazione fraintende ciò che ha ottenuto.
 - **«La revisione tra pari è un sostituto più economico del feedback del docente.»** È l'[[learning-by-teaching|apprendere insegnando]] il meccanismo, e compare persino tra le macchine: il discorso simile all'apprendimento tra pari tra oltre **2,4 milioni di agenti IA** era per lo più **asserzione anziché interrogazione**. Produrre una critica è un atto diverso dal riceverla.
+
+- **Forme riflessive tra pari e di autovalutazione come registro dietro un voto di gruppo.** [[issa-teamwork-framework-academic-integrity-2024|Issa e Hall (2024)]] hanno usato un modulo riflessivo tra pari per ciascun compagno di squadra più un modulo riflessivo di autovalutazione per studente in un'unità post-laurea di Business Project Management, accanto a una riunione di 30 minuti con ogni squadra in cui ai membri veniva chiesto se il loro contributo fosse originale. I moduli non erano valutati come scambio di feedback. Erano l'evidenza per persona che consentiva al docente di difendere un voto individuale dentro una valutazione di squadra del 40%. L'aumento del voto del framework da 27/40 a 31/40 è confuso con un nuovo docente e la sua pretesa di integrità non è quantificata, quindi la parte trasferibile è la struttura di tenuta dei registri, non la dimensione dell'effetto.
+
 
 ## Concetti collegati
 
@@ -143,4 +150,8 @@ Le domande aperte riguardano la solidità delle evidenze, non solo la progettazi
 - [[llm-critical-thinking-teamwork-review]] — Systematic review of LLMs for critical thinking, teamwork, and problem solving (Martínez-Peláez et al. 2025)
 - [[ai-agents-peer-learning-discourse]] — Peer-learning-like discourse among 2.4 million AI agents (Chen et al. 2026)
 - [[oneill-presumed-effective-meta-analysis-2026]] — Audit of 14 AIED meta-analyses and 59 primary studies (O'Neill 2026)
+
+- [[issa-teamwork-framework-academic-integrity-2024]] — moduli riflessivi di autovalutazione e tra pari come evidenza per persona dietro un voto di gruppo (Issa & Hall 2024)
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Vocabolario dei ruoli da 654 studenti: tutor 28,6%, collaboratore 23,1%, strumento 9,9%, robot 7,7%
+
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher feedback vs. AI-assisted peer feedback in L2 writing: quantity, focus, and improvement trajectories over two tasks (Tang, Li & Luo 2026)

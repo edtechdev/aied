@@ -8,7 +8,7 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: concepts/critical-pedagogy
-source_updated: "2026-10-28T19:29:22-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -43,13 +43,13 @@ Mbinu za kufundisha za ujuzi mahusisi ni tofauti na [[critical-thinking]]. Ufiki
 
 - **Kutoka kwa kufuata hadi kustawi kwa binadamu.** Mapitio ya kisoshalisti-kibinadamu yanaweka upya ujuzi wa AI kama mabadiliko badala ya kufuata, yakitaa "AIgemony" — AI inayoimarisha kutokuwa sawa kwa nguvu ya makampuni — na "kazi ya mzuka" ya kazi ya binadamu isiyoonekana ya kuweka lebo, na kusisitiza hali ya "kuwa" ya mahusiano ya kazi juu ya hali ya "kumiliki" ya umiliki ([[mechanical-compliance-human-flourishing-ai-literacy-2026|Rose (2026)]]).
 
-- **AI ya kike na inayolenga haki.** Mbinu ya kike ya AI inatanguliza haki juu ya faida, huuliza maswali mahususi kuhusu asili na umiliki wa maarifa, nani anafaidika kutoka AI, na nani anawajibika mifumo inaposhindwa. Inaitia ujuzi mahusisi wa AI uliowekwa ndani ya mbinu za kufundisha za kike ([[pedagogy|mbinu za kufundisha za kike]]).([[avraamidou-ai-colonization-science-education]])
+- **AI ya kike na inayolenga haki.** Mbinu ya kike ya AI inatanguliza haki juu ya faida, huuliza maswali mahususi kuhusu asili na umiliki wa maarifa, [[differential-effects-across-learner-groups|nani anafaidika kutoka AI]], na nani anawajibika mifumo inaposhindwa. Inaitia ujuzi mahusisi wa AI uliowekwa ndani ya mbinu za kufundisha za kike ([[pedagogy|mbinu za kufundisha za kike]]).([[avraamidou-ai-colonization-science-education]])
 
 - **Kumpinga AI kama mazoezi ya ujuzi mahusisi.** Ujuzi Mahususi wa AI (CAIL) unaweza kujumuisha "kumpinga AI" — msimamo unaokataa kuepukika na teknosolojia ya mazungumzo yanayotawala, na badala yake hulima [[agency]] ya pamoja kupitia mbinu za kufundisha za mazungumzo na za ushirikiano ([[collaborative-learning|za ushirikiano]]) zinazobuni mustakabali mbadala.([[li-mroziak-reorienting-critical-ai-literacy]])
 
 - **Uandishi wa [[multimodal]] [[writing-education|uchanganyiko]] kama mbinu ya kufundisha ya ujuzi mahusisi wa AI.** [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] wanarekodi kipimo cha darasa ambapo wanafunzi 22 wa darasa la kumi na moja walitengeneza matangazo ya huduma ya umma ya video kuhusu maswali ya [[ethics]] ya AI ya chaguo lao, wakitafsiri ufuatiliaji, ridhaa ya data ([[privacy|ridhaa ya data]]) na shutuma ya algoriti katika filamu za sekunde 90 hadi dakika 3 zilizojengwa kutoka sauti, picha, maandishi na miili yao wenyewe. Ikionekezwa na Ujuzi wa Binadamu-Mashine Mahususi Baada ya Mwanadamu, kazi inaonyesha msimamo wa kisiasa katika mazoezi: katika filamu zote saba madhara yalitokana na uwajibikisho wa binadamu-mashine ulioungwa pamoja badala ya zana mbaya, na wanafunzi walifunga kwa [[agency]] — "suluhisho liko mikononi mwetu" — hata mmoja alipopinga kuwa vijana "hawana aina yoyote ya uaminifu." Waandishi wanadai kuwa uandishi wa kibunifu na wa ushirikiano ([[collaborative-learning|wa ushirikiano]]) yenyewe ni aina ya ujuzi mahusisi wa AI, na kuwa dodoso za ujuzi wa AI zilizopo na mifumo ya uwezo, ambayo inadhani utendaji unaoweza kupimwa binafsi, inatenga hiyo kwa mpangilio.
 
-- **Kugawa upya mamlaka ya ujuzi.** Kujifunza AI kwa msingi wa jamii kunaweka mahusiano ya mwanafunzi na AI ([[student-engagement|mahusiano ya mwanafunzi na AI]]) katika njia za kujua za mwanafunzi zinazotokana na maisha na jamii, kukipiga kakitu kuwekwa kwa mifumo ya AI kama vyanzo vya maarifa vya kuaminika.([[ojeda-ramirez-community-based-ai-learning]]) Hii inajumuisha urekebishaji mahususi wa ujuzi, ugawanyaji wa mamlaka, na ubinifu wa hali ([[situated-learning|ulinzi wa hali]]).
+- **Kugawa upya mamlaka ya ujuzi.** Kujifunza AI kwa msingi wa jamii kunaweka mahusiano ya mwanafunzi na AI ([[student-engagement|mahusiano ya mwanafunzi na AI]]) katika njia za kujua za mwanafunzi zinazotokana na maisha na jamii, kukipiga kakitu kuwekwa kwa mifumo ya AI kama vyanzo vya maarifa vya kuaminika.([[ojeda-ramirez-community-based-ai-learning]]) Hii inajumuisha [[llm-training-and-fine-tuning|urekebishaji mahususi]] wa ujuzi, ugawanyaji wa mamlaka, na ubinifu wa hali ([[situated-learning|ulinzi wa hali]]).
 
 - **Mahusiano mahusisi ni ubaguzi, si kanuni.** Katika vipindi 42 vya darasa katika utafiti wa Romania wa sekondari ya chini, 15 (35.71%) vilikuwa vya kutegemea AI na 16 (38.10%) viliongezwa na AI, huku 11 (26.19%) tu vikiwa vya mahususi kwa AI — ambayo inahamasisha [[voicu-ai-interpretive-cognition-ssh-2026|mfumo wa Voicu (2026)]] wa maendeleo-mahusisi wa alama sita kwa uhuru wa kubainisha.
 
@@ -78,7 +78,7 @@ Chini ya mbinu za kufundisha za ujuzi mahusisi, waelimishaji si wawasilishaji wa
 
 **"Kutumia AI kwa mahususi kunamaanisha kuitumia kidogo."** Ushiriki mahusisi ni hali ya matumizi, si kiasi cha matumizi. Katika **vipindi 42 vya darasa** katika utafiti wa Romania wa sekondari ya chini, **15 (35.71%) vilikuwa vya kutegemea AI** na **16 (38.10%) viliongezwa na AI**, huku **11 (26.19%) tu vikiwa vya mahususi kwa AI**, hivyo vipindi vilivyoongezwa na vile vya mahusisi vyote vinahusisha zana, na tofauti ni kama wanafunzi waliichunguza. Uhaba wa hali mahusisi ni tatizo la kufundisha, si tatizo la matumizi.
 
-**"Ujuzi wa AI ni seti ya ujuzi isiyoegemea upande."** Mbinu mahusisi huuchukulia kama mazoezi ya upinzani na mabadiliko ya kijamii, jambo linalofanya fremu yenyewe ibishwe. Mtaala wa ujuzi unaofundisha mbinu ya kuandika ilani na kuacha maslahi ambayo mfumo unautumikia umefundisha ufasaha katika zana huku ukikubali siasa zake bila kuchambua.
+**"Ujuzi wa AI ni seti ya ujuzi isiyoegemea upande."** Mbinu mahusisi huuchukulia kama mazoezi ya upinzani na mabadiliko ya kijamii, jambo linalofanya fremu yenyewe ibishwe. [[curriculum-design|Mtaala]] wa ujuzi unaofundisha mbinu ya kuandika ilani na kuacha maslahi ambayo mfumo unautumikia umefundisha ufasaha katika zana huku ukikubali siasa zake bila kuchambua.
 
 **"Mbinu mahusisi ni ukosoaji unaotolewa kutoka nje ya mazoezi."** Ni msimamo kuhusu jukumu la mwalimu: kuuliza nani ananufaika, maarifa ya nani yanapewa kipaumbele, na jinsi shule inavyozalisha au kupinga mamlaka. Ikitekelezwa kwenye upitishaji wa AI, hiyo inamaanisha kuchunguza mantiki ya kibiashara na ya kibepari inayounda ununuzi: maswali ambayo mwalimu anaweza kuuliza kuhusu chaguzi za taasisi yake mwenyewe, si kuhusu teknolojia kwa ujumla tu.
 
@@ -91,6 +91,9 @@ Chini ya mbinu za kufundisha za ujuzi mahusisi, waelimishaji si wawasilishaji wa
 - Hesabu vipindi vyako vya mahusisi. Kama takwimu ya 26.19% inaelezea mazoezi yako, lengo ni mabadiliko ya hali ya matumizi badala ya matumizi machache.
 - Fanya ununuzi kuwa kitu kinachoweza kufundishwa: uliza pamoja na wanafunzi ni maslahi ya nani zana iliyochaguliwa inayatumikia, na nani anabeba gharama ya hitilafu zake.
 - Chukulia ujuzi wa AI kama uchunguzi wa mfumo, si uwezo wa kuitumia tu.
+
+- Fanya uhalali kuwa kitu kinachopimwa. Katika kipimo cha kozi kilichotumia mtiririko wa uandishi, urekebishaji na kutafakari wa [[benali-genai-academic-writing-2026|Benali na Díaz García (2026)]] na wanafunzi 96 wa mwaka wa mwisho katika makundi 24, AI ilizuiliwa kwa sehemu mbili za pendekezo la utafiti na kila pendekezo la AI lililokubaliwa au kukataliwa ilibidi kuhalalishwa kwa maandishi. Ripoti za kutafakari za wanafunzi zinaelezea kazi hiyo ya uthibitishaji, si uandishi, kama iliyozalisha msimamo mahusisi, ndiyo sababu rekodi ya uamuzi ndiyo kitu cha kupima.
+
 
 **Kwa watengenezaji na wasimamizi**
 
@@ -120,7 +123,7 @@ Chini ya mbinu za kufundisha za ujuzi mahusisi, waelimishaji si wawasilishaji wa
 
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Uandishi wa mchanganyiko kama mbinu ya kufundisha ya ujuzi mahusisi wa AI
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Uchanganuzi mahusisi wa mazungumzo ya ushauri wa kulinganisha kwa ujenzi wa GenAI ya teknosolojia
-- [[benali-genai-academic-writing-2026]]
+- [[benali-genai-academic-writing-2026]] — Urekebishaji unaolazimisha uhalali katika kozi ya uandishi wa kitaaluma: AI ilizuiliwa kwa sehemu mbili za pendekezo, kila pendekezo lililokubaliwa au kukataliwa kwa maandishi (Benali & Díaz García 2026)
 - [[avraamidou-ai-colonization-science-education]] — Ukosoaji mahusisi, wa kike, wa "utawala wa kikoloniale wa AI" juu ya elimu ya sayansi
 - [[li-mroziak-reorienting-critical-ai-literacy]] — "Kumpinga AI" kama mazoezi ya ujuzi mahusisi wa AI yaliyo na mizizi ya jamii
 - [[ojeda-ramirez-community-based-ai-learning]] — Kugawa upya mamlaka ya ujuzi ya AI kupitia kujifunza kwa msingi wa jamii

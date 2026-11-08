@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: "Aprendizagem multilíngue"
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:06:36-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ ai_assist:
 - A maioria dos modelos de IA é treinada principalmente em línguas de alto recurso como o inglês. Se você pensa, estuda ou é avaliado em outra língua, como isso poderia desvantajá-lo sistematicamente — mesmo que a ferramenta pareça "funcionar" em inglês?
 - A página alerta que o viés monolíngue não enfrentado na IA aprofunda a divisão digital e solapa a equidade, especialmente ao longo do Sul Global. O que a equidade genuína exige além de simplesmente traduzir conteúdo de IA para outra língua?
 - A avaliação automatizada pode exibir viés de língua, penalizando quem não fala a língua nativa mesmo pelo mesmo raciocínio. Se você estivesse implementando pontuação por IA, o que verificaria para garantir que ela é justa entre línguas, e não apenas precisa em uma?
-- A página mostra que línguas de baixo recurso podem ser atendidas por meio de ajuste fino de modelos em corpora curados, mesmo sob restrições práticas de hardware. Que trade-offs você esperaria entre eficiência e o quão fielmente o modelo lida com uma língua de baixo recurso?
+- A página mostra que línguas de baixo recurso podem ser atendidas por meio de [[llm-training-and-fine-tuning|ajuste fino]] de modelos em corpora curados, mesmo sob restrições práticas de hardware. Que trade-offs você esperaria entre eficiência e o quão fielmente o modelo lida com uma língua de baixo recurso?
 - A IA multilíngue precisa ir além da tradução para refletir pedagogia culturalmente relevante — conteúdo que é linguisticamente *e* contextualmente adequado. Como um conteúdo perfeitamente traduzido pode ainda falhar com quem aprende se ignora o contexto e a cultura locais?
 
 ## Introdução
@@ -47,13 +47,13 @@ A aprendizagem multilíngue é uma dimensão central de equidade da [[ai-educati
 
 - **Ajuste fino para línguas de baixo recurso:** Nwogo et al. (2026) [[multilingual-adaptive-learning-nigeria-2026|fizeram ajuste fino de um LLM ajustado por instruções em um corpus curado de pidgin nigeriano]] dentro de uma plataforma de [[adaptive-learning|aprendizagem adaptativa]], e analisaram sistematicamente os trade-offs de quantização (4/5/8 bits) entre fidelidade semântica e eficiência computacional — mostrando que línguas de baixo recurso podem ser atendidas com restrições práticas de hardware. Veja também o [[bilingual-llm-lecture-companion-srl-2026|companheiro bilíngue de aula com LLM]] para [[self-regulated-learning|aprendizagem autorregulada]].
 - **Equidade de corpora e dados:** construir corpora curados (por exemplo, pidgin nigeriano, sistemas de conhecimento indiano via [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]]) é uma estratégia recorrente para viabilizar saída de modelo nas próprias línguas de quem aprende.
-- **Contextos de voz primeiro e orais:** os [[kutti-ai-voice-first-learning-companion|companheiros de voz primeiro]] e as [[structural-silence-underrepresented-language-ai-2026|análises de silêncio estrutural]] abordam contextos em que a IA baseada em texto falha com falantes de línguas sub-representadas.
+- **[[speech-and-voice-technologies|Contextos de voz primeiro]] e orais:** os [[kutti-ai-voice-first-learning-companion|companheiros de voz primeiro]] e as [[structural-silence-underrepresented-language-ai-2026|análises de silêncio estrutural]] abordam contextos em que a IA baseada em texto falha com falantes de línguas sub-representadas.
 
 ## Equidade e pedagogia
 
 A IA multilíngue precisa ir além da tradução para refletir [[culturally-relevant-pedagogy|pedagogia culturalmente relevante]] — gerando conteúdo que é linguística e contextualmente adequado. Estudos sobre [[llm-cultural-relevance-k12|relevância cultural de LLMs no K-12]] e [[scaffolding-critical-engagement-genai-minority-students|engajamento crítico com IA generativa entre estudantes minoritários]] mostram que o alinhamento linguístico e cultural molda se os estudantes de fato se beneficiam. Não enfrentado, o viés monolíngue na IA aprofunda a [[digital-divide|divisão digital]] e solapa a [[equity-in-ai-education|equidade]] ao longo do [[global-south|Sul Global]].
 
-A translinguagem é um affordance que os chatbots generativos acrescentam e que as ferramentas linguísticas anteriores não tinham. Em uma revisão sistemática de 24 estudos, os aprendizes pediram frases e explicações contextualizadas na própria língua como ponte para a língua-alvo — um uso que os revisores classificam como um novo subaffordance, e não como algo reembalado ([[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]]).
+A translinguagem é um affordance que os [[conversational-ai|chatbots]] generativos acrescentam e que as ferramentas linguísticas anteriores não tinham. Em uma [[meta-analysis-systematic-review|revisão sistemática]] de 24 estudos, os aprendizes pediram frases e explicações contextualizadas na própria língua como ponte para a língua-alvo — um uso que os revisores classificam como um novo subaffordance, e não como algo reembalado ([[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]]).
 
 ## Viés na avaliação
 
@@ -71,7 +71,7 @@ O julgamento comparativo baseado em LLM é um caso em que o viés acompanhou a l
 
 ## Ideias equivocadas comuns
 
-- **"A língua-alvo deve dominar desde o primeiro dia."** Em uma **revisão sistemática de 24 estudos**, os aprendizes pediram **frases e explicações contextualizadas na própria língua como ponte para a língua-alvo** — um uso que os revisores classificam como um subaffordance genuinamente novo, e não como um contorno. O apoio na língua de casa funcionou como andaimento, não como esquiva.
+- **"A língua-alvo deve dominar desde o primeiro dia."** Em uma **revisão sistemática de 24 estudos**, os aprendizes pediram **frases e explicações contextualizadas na própria língua como ponte para a língua-alvo** — um uso que os revisores classificam como um subaffordance genuinamente novo, e não como um contorno. O apoio na língua de casa funcionou como [[scaffolding|andaimento]], não como esquiva.
 - **"A avaliação linguística por IA é enviesada contra escritores multilíngues."** Aqui o viés acompanhou a **linha de base humana em vez do modelo**: o julgamento comparativo por LLM em **escrita informativa do 3º ao 6º ano convergiu com rubricas de pesquisadores (r = 0,59–0,73)** e mostrou o mesmo padrão que os avaliadores humanos mostraram. Isso não é evidência de justiça em termos absolutos — é evidência de que o modelo não introduziu uma nova distorção sobre a que já existia.
 - **"A saída com qualidade de tradução é a parte útil."** O uso como ponte é explicativo e situado, não substitutivo. Uma ferramenta que substitui a produção do próprio aprendiz elimina a prática que a ponte deveria viabilizar.
 

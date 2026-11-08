@@ -10,7 +10,7 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-06T01:55:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -22,14 +22,14 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Eğitimde önyargı azaltma** — [[intelligent-tutoring|YZ öğretmenlerinde]], puanlayıcılarda, öneri sistemlerinde ve eğitim sistemlerinde haksız ve kimliğe göre örüntülenen davranışın belirlenmesi, ölçülmesi ve azaltılması. Önyargı YZ hattının her aşamasında girebilir — eğitim verisi, model davranışı, istek metinleri, puanlama ve konuşlandırma — ve dil, cinsiyet, ırk, kültür veya diğer kimlik niteliklerine göre öğrenenlerin farklı muamele görmesi biçiminde ortaya çıkar. Azaltma; veri seçkisi, önyargı giderimi algoritmaları, [[prompt-engineering|istek metni tasarımı]], adil puanlama yöntemleri, açıklanabilirlik ve değerlendirmeyi kapsar. [[equity-in-ai-education]]’in teknik karşılığıdır ve eğitimde yapay zekâda [[ethics]]’in temel bir kaygısıdır.
+> **Eğitimde önyargı azaltma** — [[intelligent-tutoring|YZ öğretmenlerinde]], puanlayıcılarda, öneri sistemlerinde ve eğitim sistemlerinde haksız ve kimliğe göre örüntülenen davranışın belirlenmesi, ölçülmesi ve azaltılması. Önyargı YZ hattının her aşamasında girebilir — eğitim verisi, model davranışı, istek metinleri, puanlama ve konuşlandırma — ve dil, cinsiyet, ırk, kültür veya diğer kimlik niteliklerine göre öğrenenlerin farklı muamele görmesi biçiminde ortaya çıkar. Azaltma; veri seçkisi, önyargı giderimi algoritmaları, [[prompt-engineering|istek metni tasarımı]], adil puanlama yöntemleri, [[explainable-ai|açıklanabilirlik]] ve değerlendirmeyi kapsar. [[equity-in-ai-education]]’in teknik karşılığıdır ve eğitimde yapay zekâda [[ethics]]’in temel bir kaygısıdır.
 
 ## Düşünülmesi Gerekenler
 
 - Önyargı, YZ hattının her aşamasında girebilir — eğitim verisi, model davranışı, istek metinleri, puanlama ve konuşlandırma. Okumadan önce: o zincirde önyargının nerede yaşadığını bekliyordunuz? Bu sayfa neredeyse her yerde görünebileceğini öne sürüyor. Düşünmediğiniz bir yer neresi?
 - [[research-methods-aied|Araştırma]], YZ’nin [[physics-education|fizik]] puanlamasının metin temelli açıklamaları dilbilgisel kalitesi daha düşük olan öğrencilerin kavramsal anlayışını sistematik biçimde olduğundan düşük değerlendirdiğini gösteriyor — YZ anlayışı değil dili puanlıyor. İnsan puanlayıcılarla genel olarak iyi uyum sağlayan bir sistem, neden ana dili konuşanı olmayan veya daha az akıcı yazanları istikrarlı biçimde cezalandırmaya devam eder?
 - Bir çalışma, cinsiyete dayalı önyargılı bir istek metninin öğrenci kompozisyonlarında daha geniş bir “etkenlik açığı” ve daha fazla cinsiyet stereotipi içerik görünmesine yol açtığını buldu — önyargı araçtan öğrenenin kendi çalışmasına aktarıldı. Bu durum, önyargının yalnızca haksız bir puan değil aynı zamanda öğrencilerin ne ürettiğini ve kendilerini kim olarak gördüğünü yeniden şekillendirebilen bir güç olması hakkında ne söylüyor?
-- Başka bir çalışma, LLM’lerin öğrenci nitelikleriyle kişiselleştirildiğinde geri bildirimi stereotiple uyumlu biçimde değiştirdiğini gösterdi — özdeş kompozisyonlarda bile “işaretlenmiş” öğrenciler için övgüyü aşırı kullanmak ve eleştiriyi esirgemek. “Kibar” biçimde yanlı bir geri bildirim, tespit edilmesi daha zor olduğu için, açıkça yanlış bir puandan neden daha zararlı olabilir?
+- Başka bir çalışma, LLM’lerin öğrenci nitelikleriyle kişiselleştirildiğinde geri bildirimi stereotiple uyumlu biçimde değiştirdiğini gösterdi — kompozisyonlar özdeş olsa bile “işaretlenmiş” öğrenciler için övgüye yaslanmak ve eleştiriyi yumuşatmak. “Kibar” biçimde yanlı bir geri bildirim, tespit edilmesi daha zor olduğu için, açıkça yanlış bir puandan neden daha zararlı olabilir?
 - Azaltma; veri seçkisi, önyargı giderimi algoritmaları, tarafsız istek metni tasarımı, adil puanlama yöntemleri, açıklanabilirlik ve insan gözetimini kapsar. Güvendiğiniz bir YZ sisteminde en büyük farkı yaratacağını düşündüğünüz tek azaltma kolu hangisi ve işe yarayıp yaramadığını bilmek için neyi denetlemeniz gerekir?
 - Tarafsız bir istek metni, cinsiyete göre farklılaşan dili oluşturmayı büyük ölçüde önler — bu da istek metni tasarımının pratik bir azaltma yolu olduğunu düşündürür. Ancak önyargı veri, puanlama veya konuşlandırma yoluyla yeniden girebiliyorsa, yalnızca istek metnini düzeltmek neden eksik bir yanıt olabilir?
 
@@ -52,12 +52,20 @@ Bilgi tabanının araştırması, önyargının hattın birden fazla noktasında
 - **[[learning-analytics|Öğrenme analitiği]]nde seçki önyargısı:** [[temporal-smoothness-debiased-kt|Önyargısı giderilmiş bilgi izleme]], rastgele olmayan alıştırma önerilerinden doğan seçki önyargısını ele alır: gözlemlenen kayıtlar üzerinde standart ampirik riskle eğitim, ustalık tahminlerinde önyargıya yol açar ve uyarlanabilir öneri döngülerinde hataları büyütür.
 - **Veri ve açıklama önyargısı:** [[data-annotations-pedagogical-hints|veri açıklamaları]] ve [[ground-truth-reliability-aied|zemin gerçeği güvenilirliği]] araştırmaları, YZ modellerinin dayandığı etiketlerin ve puanlayıcılar arası güvenilirliğin önyargı taşıdığını inceleyerek κ > 0,8 değerini ikili bir onay damgası olarak ele almanın karşısında bir argüman sunar.
 - **Marjinalleştirilmiş bilgiler:** [[genai-minoritized-knowledges-disability|Üretici YZ ve azınlıkta kalmış bilgiler]], eğitim verisi ve model davranışının baskın olmayan bilgi sistemlerini ve engellilik bakış açılarını nasıl marjinalleştirdiğini belgeler.
-- **Stereotiple uyumlu otomatik geri bildirim (İşaretlenmiş [[pedagogy|Pedagojiler]]):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan vd. (2026)]], yaygın kullanılan dört LLM’nin, geri bildirim öğrenci nitelikleriyle — ırk, etnik köken, ELL belirlemesi, öğrenme güçlüğü, başarı veya motivasyon — kişiselleştirildiğinde yazma geri bildirimini stereotiple uyumlu biçimde sistematik olarak değiştirdiğini gösterirler; özdeş kompozisyonlarda bile işaretlenmiş öğrenciler için olumlu geri bildirim önyargısı ve geri bildirim esirgeme önyargısı üretirler (övgünün aşırı kullanımı, daha az özsel eleştiri, sınırlı yetenek varsayımları). “Marked Words” yoğunlaşma ölçütü, otomatik geri bildirimdeki bu tür önyargıları denetlemeye yönelik somut bir yöntem sunar.
+
+- **Kimlik tespiti kültürel önyargı taşır.** [[ji-de-identification-personally-identifiable-information-2025|Ji vd. (2025)]], ad düzeyinde KKD tespitini kültür grupları arasında iki yönlü Mann-Whitney U testleriyle sınadı: hazır taban çizgileri Afrika kökenli adları 0,7647–0,9244 geri çağırma ile tespit etti ve diğer gruplara göre anlamlı farklar gösterdi; ince ayarlı GPT-4o-mini ise dört kültür genelinde 0,9748–0,9840 aralığında kaldı ve anlamlı fark göstermedi — önyargı, ayarlanmış modelde değil taban çizgisi dedektörlerdeydi.
+
+- **Stereotiple uyumlu [[ai-feedback-quality|otomatik geri bildirim]] (İşaretlenmiş [[pedagogy|Pedagojiler]]):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan vd. (2026)]], yaygın kullanılan dört LLM’nin, geri bildirim öğrenci nitelikleriyle — ırk, etnik köken, ELL belirlemesi, öğrenme güçlüğü, başarı veya motivasyon — kişiselleştirildiğinde yazma geri bildirimini stereotiple uyumlu biçimde sistematik olarak değiştirdiğini gösterirler; İki önyargı bunu izler: olumlu geri bildirim önyargısı ve geri bildirim esirgeme önyargısı — daha fazla övgü, daha az özsel eleştiri, sınırlı yetenek varsayımları — başka yönlerden özdeş kompozisyonlarda işaretlenmiş öğrenciler için. “Marked Words” yoğunlaşma ölçütü, otomatik geri bildirimdeki bu tür önyargıları denetlemeye yönelik somut bir yöntem sunar.
 - **Metinden görsele araçlarda görsel önyargı:** [[bias-representation-text-to-image-education-2026|Alon, Hadar Shoval ve Levkovich (2026)]], YZ tarafından üretilen metinden görsele dönüştürmenin eğitimsel kullanımlarındaki önyargı ve temsili [[meta-analysis-systematic-review|sistematik biçimde inceleyerek]] 2023–2025 yıllarına ait 31 hakemli dergi çalışmasını gözden geçirir. Altı bölümlü bir analitik çerçeve (cinsiyet; ırk, etnik köken ve SES; kültür ve din; yaş; beden ve (en)gellilik; içerik) kullanarak önyargılı temsilin yaygın olduğunu bulurlar — görseller sık sık beyaz, erkek, Batılı, zayıf ve engelli olmayan figürleri merkeze alırken yaş, beden ve yetenekle ilgili çeşitlilik büyük ölçüde göz ardı edilmiştir. Çalışmaların çoğu görsel denetimlerine ve [[qualitative-research|nitel]] yöntemlere dayanmış; az sayıda deneysel veya müdahale temelli tasarım bulunmuş ve bu durum, eğitim araştırmasının görsel önyargıyı nasıl ölçtüğüne ve yanıtladığına dair önemli kör noktaları ortaya koymuştur.
 
-- **Avatar kimliği ipuçları çevrimdışı önyargıyı yeniden üretir.** İki deney boyunca (N = 396), beyaz avatarlar — ve STEM bağlamlarında Asyalı erkek avatarlar — daha inandırıcı ve yetkin bulunurken yaşlı siyahi kadın avatarlar cezalandırıldı; STEM ve prosedürel görevler önyargıyı yükseltirken yansıtıcı ve kişilerarası görevler onu azalttı ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
+- **[[ai-avatars-and-synthetic-instructors|Avatar]] kimliği ipuçları çevrimdışı önyargıyı yeniden üretir.** İki deney boyunca (N = 396), beyaz avatarlar — ve STEM bağlamlarında Asyalı erkek avatarlar — daha inandırıcı ve yetkin bulunurken yaşlı siyahi kadın avatarlar cezalandırıldı; STEM ve prosedürel görevler önyargıyı yükseltirken yansıtıcı ve kişilerarası görevler onu azalttı ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
 - **Ayrımcılık yapmama temel bir etik değer olarak.** [[agarwal-ethical-values-norms-aied-2026|Agarwal vd. (2026)]], 25 makalenin bir [[meta-analysis-systematic-review|sistematik derlemesi]] olarak, ayrımcılık yapmamayı (önyargı/ayrımcılık/çeşitlilik tanımlarını kullanan tanımlar), veri yönetişimi, insan gözetimi, iyi niyet, açıklanabilirlik ve eğitim uygunluğuyla birlikte [[ai-education|eğitimde yapay zeka]] için altı temel etik değerden biri olarak belirler. Derleme, değerlerin sıkı biçimde birbiriyle bağlı olduğunu ve çatışabileceğini — örneğin ayrımcılık yapmama ile veri yönetişimi arasında — ve bu durumun etik ikilemler ürettiğini, ayrıca ayrımcılık yapmama konusunda hiçbir normun son kullanıcıları doğrudan hedef almadığını ve bunun öğrenenleri etik literatürde büyük ölçüde pasif bıraktığını not eder.
 - **YZ destekli takım oluşturmada paylaştırma önyargısı.** [[genai-social-bias-software-engineering-education-2026|Entezami vd. (2026)]], önyargının puanlama ve geri bildirim dışındaki bir görev sınıfına girdiğini gösterir: üç LLM, 28 öğrencilik yazılım mühendisliği sınıflarını dört takıma atarken erkekleri Arayüz Tasarımı yerine Çekirdek Geliştirme’ye yönlendirmeyi kadınlardan en az yüzde 80 daha az sıklıkta yaptı (GPT-5.2 OR < 0,01) ve uygunluktan bağımsız olarak uyruk yerleşimleri değiştirdi. Becerilerin sağlanması bunu azalttı ama ortadan kaldırmadı — beceri temelli atamaların yüzde 99,2’si iki zemin gerçeği takımından biriyle eşleşti, yine de cinsiyet eşit biçimde geçerli seçenekler arasında karar verdi (OR 2,53 GPT-4.1, 2,81 GPT-5.2, 1,43 DeepSeek) — ve paralel görsel üretimi, tek kişilik görselleri erkek ve açık tenli yönde çarpıttı (cinsiyet V = 0,64 ve 0,65; ten tonu V = 0,57 ve 0,61), çok kişilik görseller ise nispeten dengeli kaldı.
+
+- **Alt grup denetimleri, otomatik bir kodlayıcıda eşitliği belgeleyebilir** — [[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye, Borman ve Borman (2026)]], ince ayarlı bir BERT kompozisyon kodlayıcısının stereotip tehdidi altındaki öğrenciler için 0,92, tehdit altında olmayanlar için 0,94 doğruluğa ulaştığını ve her iki grupta 0,98 geri çağırma elde ettiğini buldu. Cinsiyet doğruluğu 0,95’e karşı 0,93 ve ücretsiz veya indirimli öğle yemeği grupları 0,95’e karşı 0,94 düzeyinde kümelenirken, İngilizce öğrenenler (%8) ve bireyselleştirilmiş eğitim planı olan öğrenciler (%10) alt örneklemler çok küçük olduğu için alt grup analizinden çıkarıldı.
+
+**Toplam doğruluk, zorlanan öğrencileri bulamayan bir modeli gizleyebilir.** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar vd. (2026)]], tek bir Estonya kohortunda üç model ailesi eğitti ve kohortu iki biçimde böldü. Dengeli kümede aileler karşılaştırılabilirdi. Dengesiz bölmede, birinci çeyreğin altında 125 öğrenciye karşı üstünde 328 öğrenci varken, karar ağaçları, bir Bayes ağı ve rastgele ormanlar %80 kesinlikte düşük performanslılar için %8, %12 ve %16 geri çağırma elde etti ve yalnızca nöro-sembolik model %50’yi geçti.
+
 
 ## Azaltma yaklaşımları
 
@@ -96,6 +104,10 @@ Bilgi tabanının araştırması birkaç birbirini tamamlayan stratejiyi gözler
 - **Sistemleri açıklanabilir kılın:** YZ kararlarına ilişkin şeffaflık, önyargının saptanması ve düzeltilmesi için esastır.
 - **Teknik ve insan azaltmasını birleştirin:** önyargı giderimi algoritmalarını insan-çalışmalı gözetimle eşleştirin, özellikle yüksek riskli veya düşük güvenli durumlarda.
 
+
+Bu sayfadaki her şey sistemin içindeki önyargıyla ilgilidir. [[automation-bias]], çıktısını okuyan kişideki önyargıyla ilgilidir — insanın tek başına ulaşsaydı sorgulayacağı bir öneriyi kabul etmesi — ve model doğru olsa bile varlığını sürdürür.
+
+
 ## Yaygın yanlış anlamalar
 
 - **"Önyargı bir puanlama ve geri bildirim sorunudur."** Önyargı **puanlama dışındaki görev sınıflarına** girer: **28 öğrencilik yazılım mühendisliği sınıflarını dört takıma atayan üç LLM, erkekleri referans dağılıma göre en az %80 daha az sıklıkta** yönlendirdi. Takım oluşturma, puanlamaya benzer büyüklükte önyargı taşıdı.
@@ -105,6 +117,7 @@ Bilgi tabanının araştırması birkaç birbirini tamamlayan stratejiyi gözler
 ## Bağlı kavramlar
 
 - [[differential-effects-across-learner-groups]]
+- [[automation-bias]] — bu sayfanın kapsamadığı okuyucu tarafı başarısızlık: bir öneriyi denetlemeden kabul etmek
 - [[explainable-ai]]
 - [[guardrails]]
 - [[equity-in-ai-education]]
@@ -146,3 +159,6 @@ Bilgi tabanının araştırması birkaç birbirini tamamlayan stratejiyi gözler
 
 - [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
+
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — sınıf dengesizliği altında üç model ailesi düşük performanslıları belirleyemedi, oysa dengeli ölçütler sağlıklı görünüyordu
+

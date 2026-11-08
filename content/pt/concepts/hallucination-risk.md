@@ -1,7 +1,7 @@
 ---
 title: Risco de alucinação
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:51:50-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-26T07:30:00-04:00"
+source_updated: "2026-11-07T12:10:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,8 @@ A alucinação na IA educacional assume várias formas documentadas nos artigos 
 
 Uma revisão de 125 estudos estabelece uma faixa para a prevalência e a lacuna de detecção: taxas de alucinação de 10–40%, com estudantes de medicina detectando erros da IA apenas 44–55% das vezes ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
+**Distorção de memória depois da saída.** Um experimento de 2026 constatou que um resumo enganoso gerado por IA fez mais do que desinformar: ele mudou o que 328 adultos lembravam de um vídeo que haviam assistido. Apenas 44,8% dos que leram o resumo enganoso identificaram corretamente o detalhe crítico depois, contra 83,6% dos que leram um resumo consistente, e o efeito se manteve quando o resumo foi rotulado como escrito por humano ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger e Kohno, 2026]]). A omissão foi o erro mais comum na auditoria companheira: todos os 20 resumos continham erros, e 95% omitiram a própria colisão. O estudo não testou estudantes, mas mostra por que uma verificação de alucinação que termina no texto é incompleta: o erro pode persistir na memória do leitor depois que o texto desaparece.
+
 A **alucinação na avaliação** é particularmente danosa. O **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** concluiu que as LLMs fabricam citações de evidência não presentes na escrita à mão dos estudantes ao diagnosticar habilidades cognitivas, com 58,5% dos diagnósticos incorretos acompanhados de afirmações falsas de confiança evidencial. O **[[llm-fallacy-misattribution]]** documentou a sobre-atribuição sistemática de evidência no raciocínio de [[llm|LLMs]] — os modelos afirmam apoio evidencial onde não existe nenhum. Ambos se conectam a preocupações de [[ai-ed-evaluation|avaliação da IAED]] e de [[knowledge-tracing|rastreamento de conhecimento]] sobre [[assessment-validity|validade da avaliação]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] acrescentam dois modos de falha visíveis quando a saída da IA é corrigida em vez de inspecionada: detalhes fabricados que sobrevivem à correção — um artigo revisado que não existe, completo com um DOI irresolúvel, e um tamanho de amostra relatado como 378 onde a fonte dizia 329 — e autocontradição dentro de uma única resposta, em que o modelo raciocinou até a opção correta e depois relatou outra em seu resumo final. Como as listas de referências são atualmente corrigidas pela formatação, e não pela precisão, essa classe de erro alcança nota de aprovação enquanto engana o estudante que usa a mesma ferramenta para revisar.
 
 Em um piloto de desenho de avaliação, [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] encontraram referências fabricadas e estimativas de tempo irrealistas que sobreviveram a repetidos prompting e exigiram revisão acadêmica substancial — alucinação em uma ferramenta de rascunho voltada ao educador, e não no trabalho do estudante.
@@ -52,7 +54,7 @@ Os **[[misconceptions|equívocos]] estratégicos** são um parente mais sutil da
 
 **Evidência manipulada, e não fabricada.** Um modo de falha relacionado na [[automated-assessment|correção automatizada]] é a saída movida de fora. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] fez red team de um fluxo rotineiro de correção por IA e concluiu que instruções escondidas dentro do arquivo submetido elevaram a nota de uma redação reprovada sem aviso visível em 9 de 9 iterações para uma estratégia e 17 de 18 para outra. Dois detalhes importam para a [[trust-calibration|confiança]]: uma injeção detectada foi bloqueada ao desabilitar silenciosamente o chat e nunca foi relatada ao usuário, e, em uma execução em que a ferramenta anunciou que seguiria apenas as instruções oficiais da tarefa, seis reexecuções do mesmo arquivo ainda elevaram a nota. Uma nota obtida dessa forma não carrega nenhuma reivindicação de [[assessment-validity|validade]], e, como a manipulação não deixa rastro duradouro, o [[human-in-the-loop-ai|instrutor]] permanece como o único controle real sobre uma saída desenhada para não ser visível.
 
-Defesas contra tal manipulação carregam seu próprio trade-off: um pipeline de barreiras de proteção de múltiplas camadas deixou 46,34% das injeções bem-sucedidas e o Prompt Guard 38,48%, enquanto o NeMo Guardrails bloqueou todo ataque, mas sinalizou 16,22% das consultas benignas de estudantes — uma taxa de falsos positivos que é, ela mesma, dano pedagógico em um tutor ([[prompt-injection-defenses-educational-llm-tutors|Maiorano (2026)]]).
+Defesas contra tal manipulação carregam seu próprio trade-off: um pipeline de barreiras de proteção de múltiplas camadas deixou 46,34% das injeções bem-sucedidas e o Prompt Guard 38,48%, enquanto o NeMo [[guardrails]] bloqueou todo ataque, mas sinalizou 16,22% das consultas benignas de estudantes — uma taxa de falsos positivos que é, ela mesma, [[pedagogy|dano pedagógico]] em um tutor ([[prompt-injection-defenses-educational-llm-tutors|Maiorano (2026)]]).
 
 A **alucinação na tutoria** afeta a aprendizagem diretamente. O **[[yasir-llm-tutoring-agents-2026]]** concluiu que as LLMs supervalidadam soluções incorretas ao mesmo tempo que rejeitam demais raciocínios válidos, mas subótimos — falhas sistêmicas que enganariam tanto estudantes quanto professores. O **[[eduframetrap-llm-sycophancy-educational-safety]]** e o **[[eduguard-safe-rag-llm-tutor]]** tratam de mecanismos de segurança para LLMs educacionais. Esses riscos se conectam à [[pedagogical-safety|segurança pedagógica]] e às exigências de [[human-in-the-loop-ai|humano no circuito]].
 
@@ -64,7 +66,7 @@ As **abordagens de mitigação** incluem desenhos de [[human-in-the-loop-ai|huma
 
 ## Ideias equivocadas comuns
 
-- **"Os estudantes vão perceber os erros."** Uma **revisão de 125 estudos** situa as taxas de alucinação em **10–40%**, com **estudantes de medicina — entre os aprendizes mais cuidadosamente selecionados do ensino superior — detectando erros da IA apenas 44–55% das vezes**. Taxas de detecção bem abaixo da confiabilidade ao nível do acaso significam que o ônus não pode ficar com o leitor.
+- **"Os estudantes vão perceber os erros."** Uma **revisão de 125 estudos** situa as taxas de alucinação em **10–40%**, com **estudantes de medicina — entre os aprendizes mais cuidadosamente selecionados do [[higher-ed|ensino superior]] — detectando erros da IA apenas 44–55% das vezes**. Taxas de detecção bem abaixo da confiabilidade ao nível do acaso significam que o ônus não pode ficar com o leitor.
 - **"Os erros são óbvios quando aparecem."** Uma IA que diagnostica matemática escrita à mão podia **fabricar citações de evidência que não estavam lá ao mesmo tempo que afirmava confiança**. A falha não era uma resposta plausível, mas errada; era apoio inventado apresentado com certeza, que é o tipo mais difícil de pegar porque se lê exatamente como a evidência que um leitor cuidadoso desejaria.
 - **"Saída sem citações é um problema de formatação."** Em um curso de pós-graduação que substituiu seu livro didático comercial por leituras geradas por IA, apenas **cerca de 0,80% das 4.487 páginas registradas traziam uma citação textual no estilo APA**. Isso é uma ausência de proveniência ao nível do corpus, e não uma omissão ocasional, e significa que a verificação não tem ponto de partida.
 - **"A alucinação é um problema de geração do modelo que modelos mais novos resolvem."** A faixa de taxas abrange 10–40% ao longo de 125 estudos, o que é uma propriedade da tarefa e da implantação tanto quanto do modelo. Reduzir a taxa é progresso real e não muda o fato de que um leitor precisa conseguir verificar.
@@ -85,6 +87,7 @@ As **abordagens de mitigação** incluem desenhos de [[human-in-the-loop-ai|huma
 - [[productive-failure]]
 
 ## Artigos conectados
+- [[sim-ai-summary-memory-distortion-2026]] — Um resumo enganoso de IA distorceu a memória de adultos sobre um vídeo, e o rótulo de IA ou de humano não os protegeu
 - [[frontiers-gai-hallucination-dependence-2026]] — Rotular um diálogo de IAG como fabricado reduziu a confiança e a dependência juntas
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Sinais de credibilidade elevaram a deferência à saída da IA, com alguns casos citados atribuídos erradamente ou fictícios
 - [[ivory-psychology-assessment-integrity-2026]] — Citações fabricadas e saídas autocontraditórias dentro de trabalho estudantil aprovável (Ivory et al. 2026)

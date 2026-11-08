@@ -7,9 +7,9 @@ pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learn
 technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
-updated: "2026-11-04T02:20:32-05:00"
+updated: "2026-11-08T14:14:01-05:00"
 translation_of: "concepts/transfer-of-learning"
-source_updated: "2026-11-01T09:06:43-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 Transfer belajar adalah persoalan mendasar dalam [[research-methods-aied|riset]] pendidikan, dan alat AI membuatnya mendesak. Pola empiris yang menentukan, yang didokumentasikan di seluruh studi AI dalam pendidikan, adalah **paradoks transfer**: siswa yang memakai AI biasanya menunjukkan keuntungan segera yang terukur pada tugas di mana AI tersedia, tetapi keuntungan itu sering gagal bertahan — atau bahkan terbalik — ketika AI diambil dan siswa harus menunjukkan pemahaman secara mandiri. Pola ini melibatkan [[cognitive-offloading|Ketergantungan Berlebih]], Teori Beban Kognitif, dan [[metacognition]] sebagai mekanisme yang bekerja, dan terhubung langsung dengan perdebatan tentang desain [[intelligent-tutoring|Tutoring AI]].
 
 
-Kesiapan bukan transfer: latihan berbicara berbantuan AI berkaitan dengan kecemasan berbicara yang lebih rendah dan kemauan berkomunikasi dengan manusia yang lebih tinggi, namun tidak satu pun dari kedua studi itu mengamati berbicara manusia, sehingga jalur dari latihan AI ke kemampuan komunikatif manusia tetap menjadi usulan pedagogis yang belum teruji ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
+Kesiapan bukan transfer: latihan berbicara berbantuan AI berkaitan dengan [[anxiety-and-stress|kecemasan berbicara]] yang lebih rendah dan kemauan berkomunikasi dengan manusia yang lebih tinggi, namun tidak satu pun dari kedua studi itu mengamati berbicara manusia, sehingga jalur dari latihan AI ke kemampuan komunikatif manusia tetap menjadi usulan pedagogis yang belum teruji ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
 ### Paradoks transfer
 
@@ -70,7 +70,7 @@ Kelima studi menunjukkan pola **transfer negatif atau nol** ketika AI serbaguna 
 **Kinerja yang bergantung pada alat.** Siswa dapat mengoptimalkan untuk affordance spesifik alat AI ([[prompt-engineering|rekayasa prompt]], ketergantungan pada struktur kode yang dihasilkan) alih-alih membangun generalisasi domain — suatu bentuk [[cognitive-offloading-speedup-illusion|pengalihan kognitif]] yang terasa produktif tetapi menggeser pembelajaran tahan lama.
 
 
-Kelas yang terlindungi juga dapat mengajarkan kebiasaan yang salah: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] memperingatkan bahwa simulasi dengan aturan yang ditetapkan lebih dahulu menyaring ketidakpastian dan memperkuat kepatuhan pada aturan, sehingga kebiasaan keputusan yang terbentuk di dalamnya dapat menjadi beban kognitif begitu siswa menghadapi kepentingan yang bersaing dan informasi yang tidak lengkap di latar nyata.
+Kelas yang terlindungi juga dapat mengajarkan kebiasaan yang salah: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] memperingatkan bahwa [[simulation|simulasi]] dengan aturan yang ditetapkan lebih dahulu menyaring ketidakpastian dan memperkuat kepatuhan pada aturan, sehingga kebiasaan keputusan yang terbentuk di dalamnya dapat menjadi beban kognitif begitu siswa menghadapi kepentingan yang bersaing dan informasi yang tidak lengkap di latar nyata.
 **Pengalihan yang sensitif terhadap lapisan dan transfer.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] menguji secara langsung pembedaan Salomon, Perkins & Globerson tentang "efek dengan vs. efek dari teknologi" dalam penulisan berbantuan [[generative-ai|GenAI]]: kuasi-eksperimen delapan pekan menemukan kolaborasi AI terbuka memaksimalkan kinerja menulis-terbantu tetapi menghasilkan luaran near-transfer mandiri tanpa AI yang *paling rendah*, sementara dukungan terbatas dengan refleksi mempertahankan kompetensi mandiri. Lapisan pengalihan yang lebih dalam (penalaran, struktur) memprediksi transfer yang lebih buruk daripada lapisan permukaan (tata bahasa). Ini bukti kelas yang langsung bahwa keuntungan kinerja *dengan*-dukungan AI tidak bertransfer ke kinerja mandiri *tanpa*-dukungan — dan bahwa kedalaman delegasi, bukan hanya apakah AI dipakai, membentuk transfer.
 
 Contoh pelengkap, meski terkacaukan, datang dari [[physics-education|fisika]]: redesain mata kuliah fisika nuklir dan partikel pengantar di Ruhr University Bochum ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) membuat siswa berhasil menyelesaikan masalah riset kolaboratif yang kaya sumber daya dengan bantuan AI, namun siswa yang sama rata-rata memperoleh 20.6/80 pada ujian tertulis tanpa bantuan konvensional, dengan beberapa upaya serius tidak mampu menyelesaikan perhitungan standar. Para penulis membaca ini sebagai bukti bahwa kinerja terbantu tidak otomatis bertransfer ke kinerja tanpa dorongan, dan obat mereka adalah desain yang sengaja: menjadikan ujian tertulis satu-satunya penentu nilai, merilis soal tutorial lebih awal agar waktu kelas menjadi diskusi yang sudah disiapkan, dan menambahkan persiapan prasyarat, contoh kerja, serta konsolidasi di sekitar kerja eksploratif yang mengizinkan AI.

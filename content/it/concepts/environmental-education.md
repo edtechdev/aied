@@ -1,7 +1,7 @@
 ---
 title: "Educazione ambientale"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T13:51:25-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -61,7 +61,7 @@ Questa metà è dove il corpus è più sottile. Una rassegna di tutti i 396 arti
 
 Dal lato di chi apprende, un'interfaccia di eco-feedback che espone il compromesso latenza–carbonio durante l'uso dal vivo di LLM è stata studiata con 89 studenti undergraduate di informatica in un corso di etica dell'informatica: gli studenti sceglievano la modalità a minor carbonio in circa il 45% delle interazioni a bassa latenza ma in meno del 5% ad alta latenza, e la consapevolezza della sostenibilità aumentava significativamente quella scelta. Il campione è piccolo e insolitamente ben informato sul piano tecnico, ma è l'unica evidenza diretta nel corpus che l'informazione sull'impronta sposti gli studenti in generale — e suggerisce che il vincolo vincolante sia la pazienza, non i valori.([[llm-environmental-impact-student-usage-2026]])
 
-L'evidenza sulla mitigazione proviene da un assistente per base di conoscenza di [[cs-education|informatica]] on-premise su una singola GPU di consumo (12 GB di VRAM) con contenuti in licenza aperta: 1,8 mWh per query al meglio — circa 0,54 Wh per una classe di 30 studenti che inviano dieci query ciascuno — con un fine-tuning consapevole della quantizzazione che conteneva sia la perdita di accuratezza sia l'aumento del [[hallucination-risk|rischio di allucinazione]] che la sola compressione aveva causato. È un benchmark ingegneristico, non uno studio di apprendimento, ma mostra che la domanda sull'impronta ha leve di progettazione (grounding, quantizzazione, ubicazione del dispiegamento), non solo leve di disciplina d'uso.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
+L'evidenza sulla mitigazione proviene da un assistente per base di conoscenza di [[cs-education|informatica]] on-premise su una singola GPU di consumo (12 GB di VRAM) con contenuti in licenza aperta: 1,8 mWh per query al meglio — circa 0,54 Wh per una classe di 30 studenti che inviano dieci query ciascuno — con un [[llm-training-and-fine-tuning|fine-tuning]] consapevole della quantizzazione che conteneva sia la perdita di accuratezza sia l'aumento del [[hallucination-risk|rischio di allucinazione]] che la sola compressione aveva causato. È un benchmark ingegneristico, non uno studio di apprendimento, ma mostra che la domanda sull'impronta ha leve di progettazione (grounding, quantizzazione, ubicazione del dispiegamento), non solo leve di disciplina d'uso.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
 
 ## Competenze verdi, coscienza della sostenibilità e capacità dei docenti
 

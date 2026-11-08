@@ -11,7 +11,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,7 @@ Akıllı Özel Öğretim Sistemleri, [[ai-education|Eğitimde YZ]]nin en eski ve
 ### AÖS üzerine temel araştırmalar
 
 - **Bir özel öğretim platformunun mikro-rasgeleleştirilmiş denemeleri:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison ve ark. (2026)]], GCSE [[biology-education|Biyoloji]], [[chemistry-education|Kimya]] ve [[physics-education|Fizik]]’te Medly üzerine dört haftalık çok merkezli bireysel olarak rasgeleleştirilmiş bir değerlendirme yürüttü; 929 öğrenciden 644’ü sınav sonrası testi tamamladı; platforma tahsis, her zamanki gibi [[self-directed-learning|özyönetimli]] tekrara karşı Hedges' g = 0,33 (%95 GA 0,18 ila 0,48) üretti, üç derste de olumlu tahminler ve dezavantaja göre farklı etki kanıtı yoktu (Pupil Premium g = 0,28’e karşılık Pupil Premium dışı g = 0,35).
+- **ABD’de K-12 düzeyinde bir meta-analiz ortalama etkiyi g = 0,271 olarak buluyor.** 18 deney boyunca etkiyi çözümlü örnekler ve öğrenci talep ettiğinde verilen ipuçları taşırken otomatik tetiklenen ipuçları taşımadı ve altı ayı aşan uygulamalar anlamlı olmayan g = 0,110 düzeyine geriledi ([[leite-its-k12-meta-analysis-2025|Leite ve ark., 2025]]).
 - **[[lak2026-hint-button-unproductive-use|İpucu düğmesi araştırması]]**, geleneksel AÖS ipucu tasarımının istemeden atlama stratejilerini mümkün kılabileceğini göstererek daha sofistike [[scaffolding]] yaklaşımları çağırır.
 - **[[deeptutor]]**, atıf temelli özel öğretim ve zorluk ayarlı [[automated-question-generation|soru üretimi]] ile tam [[open-source]] ajan tabanlı bir özel öğretim çerçevesi sunar.
 - **[[huang-interpretable-knowledge-tracing-2026|Yorumlanabilir Bilgi İzleme]]**, LLM logitlerinden yorumlanabilir bilişsel büyüklükler üreterek opaklık problemini ele alır.
@@ -80,6 +81,7 @@ Akıllı Özel Öğretim Sistemleri, [[ai-education|Eğitimde YZ]]nin en eski ve
 - **Uzman insan özel öğretimine istatistiksel denklik.** 2.383 yetişkinden 2.469 oturum boyunca, havuzlanmış YZ destekli özel öğretim, GRE [[learning-gains|öğrenme kazanımlarında]] canlı birebir uzman insan özel öğretimine eşit çıktı (p=.015, ±0,25-SS sınırlarına karşı; ayarlanmış fark −0,58 yüzde puanı) ve her ikisi bir video kontrolünü yaklaşık altı puanla geçti; on iki özel öğretmenden altısı bireysel denklik testlerini geçti, Gemma 4 31B insan kazanımlarına yüzde puan başına 918 kat daha düşük maliyetle eşleşti ([[studentbench-ai-human-tutoring-gre-2026|Northcutt ve ark. (2026)]]).
 
 - **İstek metni temelli mikro-kişiselleştirme (2026):** [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]], Jill Watson [[llm]]/[[rag]] [[teacher-role|öğretim]] yardımcısını bireysel sorular düzeyinde tamamen istek metni mühendisliğiyle kişiselleştirir — yanıtları altı öğrenen boyutuna göre koşullayarak ([[metacognition|üstbilişsel]] [[self-assessment]], soyutlama, sözcük çeşitliliği, algı, işleme, anlama) ve her sorgunun bilişsel talebini bir [[cognitive-diagnosis|Bloom Taksonomisi]] sınıflandırıcıyla sınıflandırarak, model yeniden eğitimi olmadan 96 öğrenen profili üretir. 2.910 yanıt üzerine NLP analizi ve bir insan çalışması, amaçlanan etkilerle uyumlu yanıt soyutlamasında, sözcük çeşitliliğinde, karmaşıklıkta ve işleme tarzında ölçülebilir, algılanabilir farklar buldu. Bu, konuşlandırılmış bir özel öğretmende [[adaptive-learning|uyarlanabilir davranışa]] ölçeklenebilir, modüler bir yol olarak yanıt-biçimi (içerik değil) uyarlamasını gösterir.
+- **Sınıf ölçeğinde standart test kazanımı olmadan yakın transfer.** [[learnlm-eedi-expanded-rct-2026|LearnLM Ekibi, Google ve Eedi (2026)]], Birleşik Krallık’taki 10 devlet okulunda 1.179 öğrenciyi 10 hafta boyunca dört kola rastgele atadı. Destek sonrasında ikinci bir tanısal soruyu doğru yanıtlama oranı %56,5–56,9 iken standart telafide bu oran %43,4’tü; Star Maths etkileri −0,01 ile +0,02 SD arasındaydı. Özel öğretmenler 94.385 taslağın %94,7’sini değiştirmeden onayladı ve 114.935 taslakta 6 hata öğrencilere ulaşmadan yakalandı.
 
 ### AÖS üzerine temel kavramlar
 
@@ -248,3 +250,5 @@ Etkili özel öğretim sürekli uyarlama gerektirir: [[zhang-tutormoments-2026|Z
 - [[llm-tutors-process-synthesis-2026]] — Do LLM Tutors Actually Teach? A Process-Centered Synthesis of the Tutoring Loop
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Ancak hazır modeller bu kanıtı sağlamayabilir: Worden ve ark.
 - [[multi-sourced-ai-tutor-non-native-english-2026]] — Anadili İngilizce olmayan öğrenciler için çok kaynaklı YZ özel öğretmeni
+- [[leite-its-k12-meta-analysis-2025]] — ABD K-12 meta-analizi: 18 deney, g = 0,271 ve bunu değiştiren etmenler (Leite ve ark. 2025)
+- [[learnlm-eedi-expanded-rct-2026]] — Genişletilmiş Birleşik Krallık RAS: yakın transfer kazanımları var, 10 haftada standart test avantajı yok (LearnLM Ekibi, Google ve Eedi 2026)

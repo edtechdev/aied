@@ -1,7 +1,7 @@
 ---
 title: "Quem aprende"
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:02:41-05:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -12,7 +12,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-25T15:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -85,7 +85,7 @@ Leia com [[stakeholders|Partes interessadas]] pelas pessoas em torno de quem apr
 
 ## Ideias equivocadas comuns
 
-**"Quem aprende e estudantes são a mesma população."** Eles não são intercambiáveis de forma útil: *estudantes* nomeia um papel institucional, *quem aprende* nomeia uma atividade, e uma pessoa pode ser um sem ser o outro — um funcionário em [[professional-training|formação no trabalho]] é quem aprende, mas não é estudante. Confundi-los estreita a base de evidências para pessoas com registro de matrícula e descarta silenciosamente exatamente os adultos, profissionais e autodirigidos de que trata a pesquisa sobre [[lifelong-learning|aprendizagem ao longo da vida]].
+**"Quem aprende e estudantes são a mesma população."** Eles não são intercambiáveis de forma útil: *estudantes* nomeia um papel institucional, *quem aprende* nomeia uma atividade, e uma pessoa pode ser um sem ser o outro — um funcionário em [[professional-training|formação no trabalho]] é quem aprende, mas não é estudante. Confundi-los estreita a base de evidências para pessoas com registro de matrícula e descarta silenciosamente exatamente os adultos, profissionais e [[self-directed-learning|autodirigidos]] de que trata a pesquisa sobre [[lifelong-learning|aprendizagem ao longo da vida]].
 
 **"Quem aprende relata que a IA melhora sua compreensão, então ela economiza tempo."** As duas afirmações se separam nos dados de survey. No trabalho sobre produtividade de estudo, **92,3%** disseram que a IA melhorou sua compreensão, enquanto apenas **38,5%** disseram que ela reduziu seu tempo total de estudo. O número de manchete descreve a compreensão sentida; a lacuna abaixo dele mostra que compreensão melhorada e tempo recuperado são desfechos diferentes, e a alegação amplamente repetida de que "a IA economiza tempo" é carregada pelo número menor.
 

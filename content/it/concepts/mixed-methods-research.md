@@ -1,13 +1,13 @@
 ---
 title: Ricerca con metodi misti
 created: "2026-10-14T22:40:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:09:36-05:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: "concepts/mixed-methods-research"
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -37,22 +37,25 @@ ai_assist:
 
 I progetti con metodi misti integrano l'ampiezza, la precisione e il potere causale dei metodi quantitativi con la profondità, il contesto e il significato dei metodi qualitativi. La proposta di valore è la **triangolazione**: quando filoni indipendenti convergono sulla stessa conclusione, la fiducia aumenta; quando divergono, la discrepanza stessa è informativa.
 
-Su 394 studi sull'IA generativa nell'istruzione superiore, i metodi misti sono stati il disegno di ricerca più comune (213 studi, 54%), seguiti dal quantitativo (109, 28%) e dal qualitativo (72, 18%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
+Di 394 studi sull'[[generative-ai|IA generativa]] nell'istruzione superiore, 213 (54%) usavano metodi misti, 109 (28%) disegni quantitativi e 72 (18%) qualitativi — la scelta più comune del campo ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 ## Pattern di progetto comuni
 
 - **Sequenziale esplicativo (QUAN → qual).** I dati quantitativi sono raccolti per primi, poi i dati qualitativi spiegano o contestualizzano i risultati quantitativi sorprendenti o significativi. [[genai-over-reliance-learning-2026|Uno studio con metodi misti sull'IA generativa e l'apprendimento sostenibile]] abbina indagini a tre ondate a colloqui con docenti per spiegare il pattern quantitativo dal potenziamento alla dipendenza eccessiva.
 - **Sequenziale esplorativo (QUAL → quan).** Il lavoro qualitativo costruisce teoria, genera ipotesi o informa la progettazione di strumenti che vengono poi testati quantitativamente. [[becker-chatgpt-typology-physics-2026|Una tipologia qualitativa dell'adozione di ChatGPT]] produce categorie che possono informare la successiva progettazione di un'indagine.
-- **Esplorativo sequenziale con invarianza di misurazione.** [[trust-calibration-genai-collaborative-regulation-2026|Bu e Li (2026)]] codificano i colloqui per identificare le quattro dimensioni del modello, costruiscono da esse uno strumento in 22 item, e poi testano l'invarianza configurale, metrica e scalare tra genere e area disciplinare su un campione analitico di 642 — mostrando un filone qualitativo che alimenta uno strumento di indagine e un test di invarianza che conferma che i costrutti si comportano allo stesso modo tra i gruppi.
+- **Esplorativo sequenziale con invarianza di misurazione.** [[trust-calibration-genai-collaborative-regulation-2026|Bu e Li (2026)]] codificano i colloqui per identificare le quattro dimensioni del modello, costruiscono da esse uno strumento in 22 item, e poi testano l'invarianza configurale, metrica e scalare tra genere e area disciplinare su un campione analitico di 642 — mostrando un filone qualitativo che alimenta un [[self-report-measures|strumento di indagine]] e un test di invarianza che conferma che i costrutti si comportano allo stesso modo tra i gruppi.
+
+- **Un filone quantitativo generato dalla macchina.** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang et al. (2026)]] hanno generato il filone quantitativo BREQ dalle trascrizioni dei colloqui dei partecipanti sotto un disegno di convergenza, una via di integrazione che non si affida solo al lavoro umano. Le correlazioni LLM–umano andavano da medie ad alte (ρ = 0,5-0,73), gli RMSE a livello di item, persona e test quantificavano la distanza dalle risposte umane, e gli item formulati in negativo 6, 7 e 11 segnavano il payoff di triangolazione più chiaro, segnalando dove le evidenze di colloquio e di indagine divergono.
+
 - **Convergente/parallelo.** I filoni quantitativo e qualitativo procedono simultaneamente e sono integrati nell'analisi. [[t2i-competence-paradox-2026|Lo studio sul paradosso della competenza]] usa focus group con docenti, un'indagine tra studenti e colloqui di follow-up in parallelo; [[fouad-bentley-trust-utility-gap-physics-2026|lo studio sulla lacuna fiducia–utilità]] combina evidenza di indagine e di colloquio sull'adozione dell'IA da parte degli studenti di fisica.
 
 ## Come i metodi misti appaiono nella knowledge base
 
 - **Spiegare i meccanismi.** [[same-ai-different-pathways]] combina filoni per scomporre i meccanismi dell'apprendimento mediato dall'IA tra contesti disciplina-istituzione, dove le sole differenze quantitative sarebbero opache.
-- **Complementare i dati di esito con l'esperienza.** [[hazra-safetutors-pedagogical-safety-2026|La sicurezza dei tutor di IA]] abbina indicatori quantitativi di danno a resoconti qualitativi di danno pedagogico; [[t2i-competence-paradox-2026]] abbina risultati quantitativi di indagine a resoconti qualitativi di negoziazione dell'identità.
+- **Complementare i dati di esito con l'esperienza.** [[hazra-safetutors-pedagogical-safety-2026|La sicurezza dei tutor di IA]] abbina indicatori quantitativi di danno a resoconti qualitativi di danno [[pedagogy|pedagogico]]; [[t2i-competence-paradox-2026]] abbina risultati quantitativi di indagine a resoconti qualitativi di negoziazione dell'identità.
 - **Integrazione senza pooling.** [[wang-reflective-ai-use-engagement-programming-2026|Wang e Zhao (2026)]] coordinano un'indagine (N = 131), la codifica umana di 66 testi di Critical Engagement, e log di programmazione (N = 1.423) che provengono da campioni diversi e non vengono mai fusi, assegnando al ramo della traccia senza IA un ruolo di verifica dei limiti anziché uno confermativo — a ciascun filone è assegnato un compito inferenziale distinto invece di essere riportati uno accanto all'altro.
 - **Progettazione e valutazione.** [[genai-feedback-design-multisite-experiment|Un esperimento multisito sulla progettazione del feedback di IA generativa]] combina la misurazione sperimentale degli esiti con feedback qualitativo da chi apprende, integrando la stima quantitativa dell'effetto con la guida alla progettazione.
-- **Evidenza di processo dentro un grande trial.** [[mata-sustaining-ai-enabled-student-support-2026|Mata e colleghi (2026)]] abbinano l'osservazione del sistema e le discussioni con gli amministratori a una valutazione randomizzata quadriennale di 8.708 studenti su otto semestri, potenziata per rilevare effetti di 0,05 deviazioni standard, sicché lo stesso studio spiega le condizioni organizzative che hanno sostenuto un programma di chatbot e riporta nulli strettamente limitati su GPA e persistenza.
+- **Evidenza di processo dentro un grande trial.** [[mata-sustaining-ai-enabled-student-support-2026|Mata e colleghi (2026)]] abbinano l'osservazione del sistema e le discussioni con gli amministratori a una valutazione randomizzata quadriennale di 8.708 studenti su otto semestri, potenziata per rilevare effetti di 0,05 deviazioni standard, sicché lo stesso studio spiega le condizioni organizzative che hanno sostenuto un programma di [[conversational-ai|chatbot]] e riporta nulli strettamente limitati su GPA e persistenza.
 
 - **Triangolare un fenomeno di politica.** Uno studio sul rinvio della privacy degli studenti nell'EdTech abbina dodici colloqui semi-strutturati a un audit documentale di 48 piattaforme valutato da due codificatori per l'affidabilità inter-valutatore (κ di Cohen medio = 0,781), usando i colloqui per spiegare perché la privacy viene rinviata e l'audit per mostrare il pattern di divulgazione che il rinvio produce — un progetto convergente in cui nessun filone da solo potrebbe sostenere l'affermazione ([[edtech-privacy-deferral-2026|Nair e Greenstadt, 2026]]).
 
@@ -70,7 +73,7 @@ I metodi misti si collocano tra le tradizioni [[quantitative-research|quantitati
 ## Idee sbagliate comuni
 
 - **"I metodi misti sono una scelta di nicchia nella ricerca sull'IA in educazione."** Su **394 studi sull'IA generativa nell'istruzione superiore**, i metodi misti sono stati il **disegno di ricerca più comune (213 studi, 54%)**, seguiti dal quantitativo (109, 28%) e dal qualitativo (72, 18%). Il disegno dominante del campo non è quello che i suoi dibattiti metodologici presuppongono.
-- **"Evidenza osservativa e di colloquio può sostenere un'affermazione di sistema."** Abbinare l'osservazione del sistema e le discussioni con gli amministratori a una **valutazione randomizzata quadriennale di 8.708 studenti su otto semestri**, potenziata per rilevare effetti di **0,05 deviazioni standard**, mostra ciò che il filone qualitativo non può fare da solo: rilevare in modo affidabile un effetto piccolo. Mescolare i metodi non è un modo per trasferire potenza tra i filoni.
+- **"Evidenza osservativa e di colloquio può sostenere un'affermazione di sistema."** Abbinare l'osservazione del sistema e le discussioni con gli [[administrator|amministratori]] a una **valutazione randomizzata quadriennale di 8.708 studenti su otto semestri**, potenziata per rilevare effetti di **0,05 deviazioni standard**, mostra ciò che il filone qualitativo non può fare da solo: rilevare in modo affidabile un effetto piccolo. Mescolare i metodi non è un modo per trasferire potenza tra i filoni.
 - **"La triangolazione significa che due metodi deboli producono un'affermazione forte."** Il valore dell'abbinamento è che ciascun filone risponde a una domanda diversa. Un disegno che esegue entrambi e poi riporta il risultato qualitativo come conferma di quello quantitativo non ha triangolato, ha ripetuto.
 
 ## Concetti collegati

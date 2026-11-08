@@ -1,7 +1,7 @@
 ---
 title: Aprender ensinando
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:02:41-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-25T22:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -75,7 +75,7 @@ Duas affordances adicionais recorrem na base de conhecimento:
 - **Perguntas identificam lacunas de conhecimento.** Os sistemas de LbT usam perguntas geradas por quem aprende para expor lacunas e reforçar a compreensão, e as [[teaching-ai-vocabulary-lbt-llms-2026|perguntas geradas por LLM]] substituem geradores rígidos baseados em templates.
 - **O teach-back revela o que o esclarecimento perde.** Em um sistema de revisão pós-aula com 22 participantes, o teach-back reflexivo de um agente Par expôs consistentemente lacunas entre o que quem aprende acreditava ter entendido e o que conseguia articular, o que o esclarecimento fundamentado na aula, sozinho, não havia revelado ([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).
 - **O LbT [[scaffolding|anda]] a auto[[regulation|regulação]].** Ensinar um [[conversational-ai|agente conversacional]] fomenta a [[self-efficacy|autoeficácia]] e a implementação de estratégias de aprendizagem autorregulada, e conecta o LbT às [[desirable-difficulties|dificuldades desejáveis]] — o ato esforçado de explicar e corrigir é, ele mesmo, uma luta produtiva que a remoção de atrito pela IA de outro modo apagaria.
-- **O que prediz a aprendizagem de quem tutora é a construção de conhecimento, e não o conhecimento prévio.** Ao longo de 23 tutores do ensino fundamental e médio, a parcela de respostas que construíam conhecimento, em vez de repeti-lo, predisse as notas conceituais no pós-teste (β = .138, p < 0,05), enquanto as notas prévias no teste não predisseram quem as produzia, e tutores com baixo conhecimento prévio que construíram conhecimento terminaram no nível dos pares com alto conhecimento prévio ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026)]]).
+- **O que prediz a aprendizagem de quem tutora é a construção de conhecimento, e não o [[prior-knowledge|conhecimento prévio]].** Ao longo de 23 tutores do ensino fundamental e médio, a parcela de respostas que construíam conhecimento, em vez de repeti-lo, predisse as notas conceituais no pós-teste (β = .138, p < 0,05), enquanto as notas prévias no teste não predisseram quem as produzia, e tutores com baixo conhecimento prévio que construíram conhecimento terminaram no nível dos pares com alto conhecimento prévio ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026)]]).
 
 ## Por que isso importa na educação com IA
 

@@ -1,7 +1,7 @@
 ---
 title: Lavoro di gruppo
 created: "2026-10-14T22:10:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T13:51:25-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: "concepts/group-work"
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-11-04T18:52:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -90,11 +90,11 @@ Una seconda linea di ricerca tratta l'IA come partecipante piuttosto che come st
 
 ### Il rischio epistemico dell'output rifinito
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]] concettualizza il rischio di ridotto sforzo epistemico quando gli studenti usano l'IA per produrre artefatti di conoscenza rifiniti — automation bias sul versante socio-cognitivo e chiusura epistemica indotta dall'artefatto finito sull'altro. Il rimedio è strutturare l'IA come partner argomentativo o sfidante che preserva il conflitto. La controprova viene da [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], che hanno riscontrato che quando gli LLM agiscono come partner di critica e gli studenti ribattono attivamente le loro affermazioni, gli studenti si comportano come consumatori critici che preservano anziché cedere il conflitto cognitivo della critica. La differenza tra un compagno di squadra che dà risposte e un partner che sfida è ciò che determina se il lavoro di gruppo con l'IA costruisca o eluda il pensiero.
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]] concettualizza il rischio di ridotto sforzo epistemico quando gli studenti usano l'IA per produrre artefatti di conoscenza rifiniti — [[automation-bias|automation bias]] sul versante socio-cognitivo e chiusura epistemica indotta dall'artefatto finito sull'altro. Il rimedio è strutturare l'IA come partner argomentativo o sfidante che preserva il conflitto. La controprova viene da [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], che hanno riscontrato che quando gli LLM agiscono come partner di critica e gli studenti ribattono attivamente le loro affermazioni, gli studenti si comportano come consumatori critici che preservano anziché [[cognitive-surrender|cedere]] il conflitto cognitivo della critica. La differenza tra un compagno di squadra che dà risposte e un partner che sfida è ciò che determina se il lavoro di gruppo con l'IA costruisca o eluda il pensiero.
 
 ### Supporto a livello di classe, non valutativo
 
-[[breideband-community-builder-cobi-2026|CoBi]] rileva il discorso "edificante" nei piccoli gruppi (rispetto, equità, comunità, fare avanzare il pensiero) e restituisce visualizzazioni non valutative a livello di classe — trattenendo deliberatamente il feedback a livello di studente o di gruppo per proteggere la [[privacy]] e la [[trust]]. Gli studenti hanno preferito visualizzazioni [[qualitative-research|qualitative]] (un albero organico) rispetto a quelle [[quantitative-research|quantitative]] (un grafico radar). Per la dimensione relazionale del lavoro di gruppo, il feedback aggregato a livello di classe supporta la costruzione di comunità laddere la valutazione individuale risulterebbe sorvegliante.
+[[breideband-community-builder-cobi-2026|CoBi]] rileva il discorso "edificante" nei piccoli gruppi (rispetto, equità, comunità, fare avanzare il pensiero) e restituisce [[visualization|visualizzazioni]] non valutative a livello di classe — trattenendo deliberatamente il feedback a livello di studente o di gruppo per proteggere la [[privacy]] e la [[trust]]. Gli studenti hanno preferito visualizzazioni [[qualitative-research|qualitative]] (un albero organico) rispetto a quelle [[quantitative-research|quantitative]] (un grafico radar). Per la dimensione relazionale del lavoro di gruppo, il feedback aggregato a livello di classe supporta la costruzione di comunità laddere la valutazione individuale risulterebbe sorvegliante.
 
 ## Implicazioni progettuali
 

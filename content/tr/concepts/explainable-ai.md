@@ -10,7 +10,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -90,6 +90,8 @@ Konuyu daha da keskinleştiren iki uyarı vardır ve ikisi de wiki’nin konu ü
 
 **Tasarım gereği açıklanabilir**, sonradan sadakatin önüne geçmenin bir yanıtıdır. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang ve Fang (2025)]], bir açıklama çözücüsünü [[assessment]]yi karara bağlayan aynı birleştirilmiş gösterim ve tahmin edilen puanla parametreler; böylece [[formative-assessment|biçimlendirici]] sorgulamada düşük bir puan, yetersiz derinlemesine soru sayısını adlandıran bir gerekçe verir ve buna müfredat standartlarına ve alana özgü rubrik hamlelerine çift mercekli dikkat eşlik eder. Rubriğe dikkat hizalaması, GPT-4 sıfır atımlık koşulun %41,7’sine ve BERT’in %32,1’ine karşılık %78,0’a ulaşır ve sadakat, rubrik açısından kritik bölümlerin karşıolgusal silinmesiyle birlikte rubrik temelli bir kontrol listesi üzerindeki insan puanlarıyla sorgulanır; bu da 0,78’lik bir açıklama güvenilirlik puanı verir — BERT-base’e göre 0,31’lik bir artış. Denetim ayrıca mimari iddianın zayıfladığı yeri gösterir: duygusal ipuçlarında model, uzmanın %15,2’sine karşı dikkat ağırlığının %28,4’ünü ayırır (hizalama 0,53); burada bir başarısızlık vakası “sinirli” belirtecine %28 ayırır ve yazarlar bunu pedagojiden çok duyguya aşırı uyum olarak okuyup iyileştirme alanı olarak adlandırır. Açıklamaları karar yoluna gömmek, onları sonradan üretilen gerekçelerden daha sadık kılar; doğru kılmaz.
 
+**Bir modelin neyi kullandığını söylemesi, veri kadar model ailesine de bağlıdır.** Tek bir kohort üzerinde yedi model boyunca [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar ve ark. (2026)]], sembolik yaklaşımların bilişsel ve [[motivation|motivasyonel]] etkenlere, alt-sembolik modellerin bilişsel yönlere, öğrenilmiş bilgiye ve cinsiyete yaslandığını, her ikisinin de üstbilişsel etkenleri büyük ölçüde gözden kaçırdığını, sinir-sembolik modelin ise daha bütünleşik bir küme kullandığını bulmuştur. Aynı öğrenciler ve aynı göstergeler, neyin önemli olduğuna dair farklı anlatılar üretmiştir; böylece [[learning-theories|öğrenme kuramıyla]] uyum, doğrulukla değil atıflarla ilgili bir iddiaya dönüşmektedir.
+
 ## Açıklanabilirliği hesap verebilirlik uygulaması olarak öğretmek
 
 Açıklama niteliği XAI’nin yararlı olup olmadığına karar veriyorsa, açıklama üretmek bir yetkinlik olarak gösterilmek yerine mesleki bir alışkanlık olarak öğretilmelidir. [[lund-socially-accountable-data-science-xai-2026|Lund ve meslektaşları (2026)]], bunu dört sütun boyunca yapmayı önermektedir — **yanıt verebilirlik** (etkilenenlere gerekçe sunma yükümlülüğü), **sorumluluk** (yaşam döngüsü boyunca öngörülen zarar, olaydan sonra savunulandan farklı), **yaptırım** (ders içinde sonuçlar) ve **düşünsel duruş** (kişinin kendi varsayımlarının belgelenmiş olarak incelenmesi) — her biri kendi ödevleri ve kendi sınıf maliyetiyle.
@@ -148,3 +150,5 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[decision-making-agent-student-decision-acceptance-2026]] — Öğretmen kaynaklı ve YZ kaynaklı not verme kararları karşılaştırması: yazılı bir gerekçe adalet boşluğunu genişletti
 
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Citations and authority signals raised deference to incorrect output, some references misattributed or fictitious
+
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — Aynı kohortta sembolik, alt-sembolik ve sinir-sembolik modeller tahminlerini farklı etkenlere atfetti

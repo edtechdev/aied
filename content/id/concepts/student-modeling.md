@@ -5,9 +5,9 @@ type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
-updated: "2026-11-04T02:20:32-05:00"
+updated: "2026-11-08T14:09:36-05:00"
 translation_of: "concepts/student-modeling"
-source_updated: "2026-10-26T10:50:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -49,9 +49,12 @@ Model pembelajar prediktif dapat bersandar pada struktur pendaftaran alih-alih d
 
 Model siswa juga dapat dibangun murni dari jejak perilaku dan tetap mendukung adaptasi. [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] menurunkan tiga profil keterlibatan — Observation, Construction, dan Exploration — dari aliran klik 315 pembelajar daring yang membangun 822 model ekologis di VERA, tanpa data demografis atau kontekstual apa pun, dan menunjukkan bahwa profil-profil ini memprediksi kualitas model (Exploration menghasilkan model paling kompleks dan beragam, sementara Observation didominasi model salinan alih-alih model orisinal). Karakterisasi tingkat keterlibatan semacam ini adalah model siswa berbutir kasar yang dapat dikonsumsi lapisan [[adaptive-learning|pengajaran adaptif]] untuk menargetkan umpan balik.
 
-Pemodelan siswa afektif adalah dimensi lebih lanjut: sebuah tutor matematika menyimpulkan emosi dari teks percakapan dan ekspresi wajah serta memetakan keadaan teragregasi ke strategi tutoring, tetapi fusi multimodalnya hanya mencapai akurasi 60% terhadap anotasi partisipan sendiri, menjadikan pembacaan afek sebagai tautan terlemah alur tersebut ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
+Pemodelan siswa afektif adalah dimensi lebih lanjut: sebuah tutor matematika menyimpulkan emosi dari teks percakapan dan ekspresi wajah serta memetakan keadaan teragregasi ke strategi tutoring, tetapi fusi [[multimodal|multimodal]]nya hanya mencapai akurasi 60% terhadap anotasi partisipan sendiri, menjadikan pembacaan afek sebagai tautan terlemah alur tersebut ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
 
 [[cross-subject-validity-delayed-start|Gutterman et al. (2026)]] menemukan bahwa sinyal penundaan-awal yang terekam selama latihan matematika memprediksi hasil bahasa Inggris, dengan penunda kronis (di atas 13 menit) menunjukkan perolehan lebih rendah (ELA β = -.11 SD) bahkan setelah mengendalikan [[prior-knowledge|pengetahuan awal]] dan waktu-dalam-tugas — sehingga model siswa berbasis perilaku dapat berpindah antar mata pelajaran tanpa pelatihan ulang per mata kuliah, meskipun titik potongnya harus diturunkan ulang.
+
+Kesulitan yang dipersepsikan adalah dimensi pemodelan siswa lebih lanjut, dan dimensi itu dapat diprediksi dari fitur yang berkaitan dengan orang alih-alih statistik teks semata. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al. (2025)]] membangun model pembaca berbasis profil dari penilaian 3,954 kalimat oleh 193 siswa SMA Jerman, dan ansambel KNN-plus-XGBoost mereka mencapai RMSE 0.822 terhadap baseline rata-rata 1.070, dengan R2 = 0.396. Setiap regresor yang menyertakan karakteristik pembaca mengalahkan baseline rata-rata maupun baseline kompleksitas rata-rata, sehingga model pembelajar yang menangkap siapa pembacanya memprediksi seberapa sulit sebuah teks terasa — dimensi persepsi yang tidak dibawa model lain di halaman ini.
+
 
 ## Lapisan pengajaran adaptif
 
@@ -80,16 +83,19 @@ Di seluruh keluarga ini, tantangan validitas yang menentukan adalah sama: repres
 
 Model yang menyimpulkan keadaan siswa dari permainan mencapai AUC 0.848–0.913, namun hanya dua dari 55 studi yang ditinjau mengauditnya untuk bias demografis dan hanya satu yang menelaah hasil diferensial menurut kemampuan siswa ([[ai-game-based-learning-systematic-review-2026|Kaşarcı dan Yurt (2026)]]).
 
-Sebagian sinyal yang dimaksudkan mungkin tidak dapat dipulihkan dari dialog sama sekali: pilot kerangka Learning Context memulihkan miskonsepsi pada 91.4% dan kecemasan pada 100% tetapi keterbukaan hati pada hanya 68.6% dan kemahiran bahasa pada 60%, sehingga model yang sadar konteks sebaiknya menangkap sifat yang lambat muncul alih-alih menunggu dialog menyingkapnya ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
+Sebagian sinyal yang dimaksudkan mungkin tidak dapat dipulihkan dari dialog sama sekali: pilot kerangka Learning Context memulihkan miskonsepsi pada 91.4% dan [[anxiety-and-stress|kecemasan]] pada 100% tetapi keterbukaan hati pada hanya 68.6% dan kemahiran bahasa pada 60%, sehingga model yang sadar konteks sebaiknya menangkap sifat yang lambat muncul alih-alih menunggu dialog menyingkapnya ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
 
-[[edumirror-educational-social-dynamics|Lin et al. (2026)]] menyingkap sirkularitas dalam cara siswa sintetis semacam itu divalidasi: agen EduMirror mereka menyelenggarakan kuesioner psikometrik secara post-hoc dan membaca kesepakatan dengan representasi nilai internal agen sebagai validitas psikologis, tetapi karena Surveyor mengukur dimensi yang sudah terkodekan dalam sistem nilai itu, pemeriksaannya adalah pemeriksaan konsistensi alih-alih validasi independen.
+Sinyal fisiologis dan tatapan memperluas basis pemodelan: pelacakan mata, EEG, aktivitas elektrodermal, dan detak jantung kini digunakan untuk menyimpulkan keterlibatan, perhatian, dan beban kognitif ([[sensor-and-gaze-analytics]]). Inferensi dari sinyal ke keadaan mental adalah tautan lemahnya, karena tubuh dapat direkam tanpa keadaannya teridentifikasi.
+
+
+[[edumirror-educational-social-dynamics|Lin et al. (2026)]] menyingkap sirkularitas dalam cara siswa sintetis semacam itu divalidasi: agen EduMirror mereka menyelenggarakan [[self-report-measures|kuesioner]] psikometrik secara post-hoc dan membaca kesepakatan dengan representasi nilai internal agen sebagai validitas psikologis, tetapi karena Surveyor mengukur dimensi yang sudah terkodekan dalam sistem nilai itu, pemeriksaannya adalah pemeriksaan konsistensi alih-alih validasi independen.
 
 **Kebenaran tidak selalu merupakan sinyal yang setia.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, dan Stamper (2026)]] menunjukkan bahwa model pembelajar yang menyimpulkan penguasaan dari tindakan yang benar dapat salah merepresentasikan keadaan siswa yang sebenarnya: siswa yang menunjukkan *overgeneralisasi menipu* tampak menguasai namun menghilangkan satu batasan penerapan yang kritis, sehingga sistem adaptif dapat menghentikan latihan terlalu dini. Model pembelajar sebaiknya menilai pemahaman bersyarat — termasuk apakah siswa tahu kapan harus menahan suatu tindakan — bukan hanya kebenaran tindakan.
 
 Miskonsepsi tersembunyi menunjukkan kegagalan yang sama dari sisi lain: [[correct-answer-trap-misconceptions|Imran dan Bulathwela (2026)]] menemukan pengklasifikasi yang disetel halus menangkap 57.4% jawaban benar yang dicapai melalui penalaran cacat, dan pada prevalensi 1.6% bahkan model penalaran berakurasi 83.6% meninggalkan 8 alarm palsu per deteksi — sehingga sinyal penguasaan berbasis kebenaran tidak lengkap sekaligus mahal untuk diperbaiki.
 
 **Bagaimana sebuah model divalidasi itu sendiri adalah pertanyaan validitas.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, dan Carvalho (2025)]] menunjukkan bahwa model pembelajar populer (BKT, BKT-with-Forgetting, AFM) tampak menangkap pembelajaran manusia hanya ketika dicocokkan secara retrospektif pada kumpulan data multi-sesi penuh; di bawah validasi silang berbasis waktu (walk-forward) — memprediksi sesi mendatang dari sesi sebelumnya, sebagaimana model semacam itu sebenarnya diterapkan — model tersebut melebih-lebihkan kinerja, melewatkan [[retrieval-spacing-interleaving|efek spasi]], dan salah mengurutkan kondisi latihan. Karena model yang ditambah peluruhan dan yang tanpa peluruhan berkinerja kira-kira setara di seluruh sesi, para penulis menyimpulkan bahwa peluruhan sering kali diserap ke dalam parameter pembelajar alih-alih benar-benar direpresentasikan. Pelajarannya bagi keluarga ini adalah bahwa representasi siswa yang setia harus divalidasi sebagaimana ia digunakan — dan bahwa mencampuradukkan kinerja sesaat dengan retensi jangka panjang menghasilkan model yang tampak akurat namun salah merepresentasikan siswa.
-[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi dan Robb (2026)]] menunjukkan kegagalan yang sama dari sisi pengklasifikasi: menyimpulkan dimensi gaya belajar dari dialog pemecahan masalah 153 mahasiswa tampak sedang pada akurasi hingga recall per kelas menyingkap prediksi label dominan, dengan siswa Intuitive dan Global secara sistematis kurang teridentifikasi dan contoh few-shot kadang memperkuat bias kelas mayoritas.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi dan Robb (2026)]] menunjukkan kegagalan yang sama dari sisi pengklasifikasi: menyimpulkan dimensi gaya belajar dari dialog [[problem-solving|pemecahan masalah]] 153 mahasiswa tampak sedang pada akurasi hingga recall per kelas menyingkap prediksi label dominan, dengan siswa Intuitive dan Global secara sistematis kurang teridentifikasi dan contoh few-shot kadang memperkuat bias kelas mayoritas.
 
 ## Pemodelan era LLM
 
@@ -138,6 +144,7 @@ Pemodelan pembelajar dan pengajaran adaptif mengalir ke [[learning-analytics]] (
 - [[feedback]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — model di balik prediksi risiko dan penargetan dukungan
+- [[sensor-and-gaze-analytics]]
 
 ## Artikel terkait
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Overgeneralisasi menipu: penguasaan adaptif dapat menghentikan latihan sebelum pembelajar tahu kapan harus menahan tindakan (An, McLaren & Stamper 2026)

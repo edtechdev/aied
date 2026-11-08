@@ -2,14 +2,14 @@
 connected_resources: [vibes-diy]
 title: Construtivismo
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:35:57-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-26T10:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,7 @@ O trabalho empírico encontra repetidamente uma lacuna entre os objetivos constr
 Esse padrão se generaliza por todo o campo:
 
 - Quando a IA generativa completa a escrita, o raciocínio ou o código pelos estudantes, o estudante perde o processo de pensamento construtivo que a tarefa foi desenhada para construir — a preocupação central do [[cognitive-offloading|descarregamento cognitivo]] e da [[cognitive-offloading|dependência excessiva]]. ([[generative-refusal-ai-tools-for-thought]])
+- A perda agora é mensurável, e segue o trabalho, não a ferramenta. Em 26.811 estudantes chineses do ensino secundário, a IA generativa elevou as notas de casa em 18% e cortou o tempo de conclusão em 30%, enquanto as notas de [[summative-assessment|exame com livro fechado]] caíram 20% em seis meses. O declínio se concentrou nos cerca de 81% de usuários cujo tempo de conclusão indicava terceirização da tarefa, e os usuários que mantiveram o tempo de casa comparável ao dos não usuários aprenderam com a mesma eficiência ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei e Wu (2026)]]). A variável que previu a aprendizagem não foi o uso de IA, mas se quem aprendia ainda realizava a construção.
 - Implementações de IA que enfatizam feedback adaptativo e eficiência frequentemente deixam de servir as metas de autonomia do estudante, reflexão crítica e decisão autônoma que o construtivismo implica. ([[ai-vocational-education-training-review]])
 
 ### A armadilha do nome: a saída da IA generativa não é aprendizagem generativa
@@ -169,3 +170,4 @@ O construtivismo também molda como o próprio letramento em IA é ensinado. Se 
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: agente generativo que simula a evolução cognitiva dos estudantes
 
 - [[synthetic-position-self-authorship-2026]] — Contraposições simuladas por IA ensaiam a forma do diálogo, mas retêm a resistência que compele a revisão
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — A penalidade de aprendizagem: notas de casa 18% acima, exames com livro fechado 20% abaixo, concentrada entre os que terceirizavam a tarefa

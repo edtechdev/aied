@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-26T13:35:09-04:00"
+source_updated: "2026-11-01T11:00:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -187,6 +187,8 @@ Ayrı bir yöntemsel akım olan [[usability-research|kullanılabilirlik ve HCI a
 
 Pratikte, eğitimde YZ araştırması nadiren tek bir geleneğe temiz biçimde düşer. En güçlü kanıt üçgenleştirir: bir hesaplamalı veya kullanılabilirlik değerlendirmesi sistemin işlediğini, bir deney öğrenmeye neden olduğunu, nicel enstrümanlar kavramları ölçtüğünü ve nitel çalışma mekanizmaları ve anlamları ortaya çıkardığını gösterir — birlikte bir aracın öğrenmeye yardım edip etmediğini ve *nasıl ve neden* yardım ettiğini yanıtlar.
 
+- **“Bir istatistik hesaplandığında güvenilir olur.”** Kıyaslama önce kontrolü sınar. Altı adlandırılmış istatistik kümesi dışındaki her sonda ve her karar, etki yerleştirilmiş ve yerleştirilmemiş benzetilmiş notlandırıcılarla çalıştırıldı ve kontrolü yerleştirilmiş etkiyi bulmayan bir ölçü, sonuç olarak değil ölçülmemiş olarak raporlandı. Raporları kendi markdown ve kodlarından üretilir, böylece basılan her sayı geldiği dosyaya ve alana bağlanır ve derlemede yeniden hesaplanır. [[porcaro-ai-grading-benchmark-2026|Bir karar, herhangi bir gerçek sonuç okunmadan önce sınanabilecek bir tasarım kararıdır]].
+
 ## Yaygın yanlış anlamalar
 
 **“Yüksek kıyaslama doğruluğu eğitim etkililiğini gösterir.”** Göstermez ve bu açık, alanın merkezî ölçüm problemidir: bir sistem doğrulukta yüksek puan alırken hiçbir öğrenme üretmeyebilir, çünkü kıyaslama doğruluğu kıyaslamanın belirlediği koşullar altındaki görev performansını ölçer. Eğitim etkililiği, teknolojinin denetlemediği koşullar altında bir öğrenen çıktısı gerektirir.
@@ -244,4 +246,5 @@ Pratikte, eğitimde YZ araştırması nadiren tek bir geleneğe temiz biçimde d
 - [[weidlich-chatgpt-effect-search-cause-2025]] — Eğitimde ChatGPT: Neden Arayan Bir Etki
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — YZ’nin öğrenme üzerindeki etkisinin meta-meta-analizi
 - [[oneill-presumed-effective-meta-analysis-2026]] — Varsayılan Olarak Etkili: kusurlu AIED meta-analizi denetimi
+- [[porcaro-ai-grading-benchmark-2026]] — Anlaşmanın ötesinde: doğru yanıtı bilinen sondalar, benzetilmiş notlandırıcılarda yerleştirilmiş etki kontrolleri ve 22 istemli model (Porcaro 2026)
 - [[synthetic-educational-data-structural-fidelity-2026]] — Doğruluk Ölçütlerinin Gözden Kaçırdığı: Sentetik Eğitim Verisine Yapısal Bir Bakış

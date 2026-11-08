@@ -7,7 +7,7 @@ audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/stakeholders
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -73,7 +73,7 @@ Utambulisho ni nanga ya kibinadamu ya mazingira ya wahusika: ni kile ambacho AI 
 
 **"Kumpa kila kundi la wahusika sauti hutatua mgogoro."** Ushauri si upimaji wa uzito. Muundo wa ukurasa wenyewe unaweka swali la ubuni katika jinsi ya kumpa kila wasiwasi **uzito wa kweli badala ya kuacha sauti kubwa ishinde**, ambayo ni tatizo la utaratibu, nani anaamua, kwa ushahidi gani, na kwa rufaa gani, si tatizo la mawasiliano.
 
-**"Uchanganuzi wa wahusika ni zoezi la awamu ya awali."** Mivutano huendelea hadi utekelezaji, kwa sababu majukumu yanaendelea kufasiri mfumo ule ule tofauti. Tabaka la ubinafsishaji linalowakabili wanafunzi na dashibodi ya uadilifu inayowakabili wataalam ni data ile ile inayotazamwa kutoka nafasi mbili, na mgogoro hujirudia kila moja inaporekebishwa.
+**"Uchanganuzi wa wahusika ni zoezi la awamu ya awali."** Mivutano huendelea hadi utekelezaji, kwa sababu majukumu yanaendelea kufasiri mfumo ule ule tofauti. Tabaka la [[personalized-learning|ubinafsishaji]] linalowakabili wanafunzi na dashibodi ya uadilifu inayowakabili wataalam ni data ile ile inayotazamwa kutoka nafasi mbili, na mgogoro hujirudia kila moja inaporekebishwa.
 
 **"Utambulisho kote ya hadhira unamaanisha ujumbe mmoja unaweza kuwahudumia wote."** Mawasiliano kote ya hadhira yanahitaji kutafsiri uamuzi ule ule katika maneno tofauti bila kuupotosha, ambayo ni zaidi ya kuandika upya ujumbe mmoja kwa njia nne.
 

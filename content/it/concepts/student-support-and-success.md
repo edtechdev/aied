@@ -1,7 +1,7 @@
 ---
 title: Sostegno e successo degli studenti
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:18:00-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -29,7 +29,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 translation_of: concepts/student-support-and-success
-source_updated: "2026-10-26T01:00:00-04:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 
@@ -47,7 +47,7 @@ translation_note: "*Traduzione automatica della pagina in inglese, non ancora ri
 
 ## Introduzione
 
-Il sostegno agli studenti si colloca sul versante istituzionale della relazione. Il suo lavoro è l'orientamento, il contatto attivo, il rinvio ad altri servizi e l'allocazione di una capacità umana e finanziaria finita; la sua base di evidenze è costituita da registri amministrativi, eventi di iscrizione, crediti acquisiti e dal fatto che lo studente ritorni o meno. L'IA generativa è entrata in questo territorio più tardi di quanto non sia entrata nell'insegnamento, e buona parte della letteratura qui presentata riguarda sistemi **non generativi** — chatbot via SMS, modelli di allerta precoce, predizione del rischio federata — mentre gli strumenti generativi arrivano come tutor, assistenti e sistemi di risposta basati su basi di conoscenza.
+Il sostegno agli studenti si colloca sul versante istituzionale della relazione. Il suo lavoro è l'orientamento, il contatto attivo, il rinvio ad altri servizi e l'allocazione di una capacità umana e finanziaria finita; la sua base di evidenze è costituita da registri amministrativi, eventi di iscrizione, crediti acquisiti e dal fatto che lo studente ritorni o meno. L'[[generative-ai|IA generativa]] è entrata in questo territorio più tardi di quanto non sia entrata nell'insegnamento, e buona parte della letteratura qui presentata riguarda sistemi **non generativi** — [[conversational-ai|chatbot]] via SMS, modelli di allerta precoce, predizione del rischio federata — mentre gli strumenti generativi arrivano come tutor, assistenti e sistemi di risposta basati su basi di conoscenza.
 
 La distinzione che organizza questa pagina è quella tra **ciò che un nudge può fare** e **ciò che una traiettoria richiede**. Le tecnologie di sostegno eccellono in una decisione datata e binaria: iscriversi entro quella data, compilare quel modulo, avviare Early Start. Esse incontrano difficoltà molto maggiori con gli esiti cumulativi — persistenza, crediti, conseguimento del titolo — che sono plasmati dall'insegnamento, dalla situazione finanziaria, dall'occupazione, dalle circostanze familiari e dalla preparazione pregressa. L'evidenza più forte della base di conoscenze al riguardo proviene da una valutazione randomizzata quadriennale che ha mosso nettamente l'iscrizione e per nulla il conseguimento del titolo.
 
@@ -55,15 +55,23 @@ La distinzione che organizza questa pagina è quella tra **ciò che un nudge pu�
 
 La ricerca si raggruppa in cinque funzioni, e i confini tra questi raggruppamenti contano perché portano con sé evidenze diverse.
 
+Una revisione di 61 studi sul sostegno agli studenti abilitato dall'IA ha rilevato che il campo si concentrava nei sistemi adattivi e nella personalizzazione (41 usi) e nella profilazione e previsione (30), con chatbot e sistemi di raccomandazione che gestivano l'accoglienza e le richieste di routine. Ha anche rilevato le lacune: nessun intervento affrontava la fase di transizione dello studente, e solo due studi nominavano un sottogruppo di studenti, quindi lo studente generico della maggior parte dei sistemi era una media statistica ([[cefa-ai-learner-support-review-2026|Cefa et al., 2026]]).
+
+
 **Contatto attivo e comunicazione.** Le istituzioni inviano messaggi agli studenti su larga scala, e le valutazioni più robuste verificano se ciò cambi qualcosa. Uno studio randomizzato quadriennale su CSUNny, un chatbot via SMS non generativo della California State University, Northridge, ha seguito due coorti di studenti universitari (N = 8.708) per otto semestri ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page, 2026]]). Un promemoria di iscrizione inviato il 31 luglio 2018 ha reso gli studenti trattati più propensi a iscriversi entro il 16 agosto di 34 punti percentuali e solo di 2 punti più propensi entro il 15 settembre; i promemoria relativi a Early Start hanno prodotto 11 punti in più di iscrizioni entro il 7 giugno e 20 punti entro il 22 giugno. La ricettività si è mantenuta: i tassi annui di rifiuto non hanno mai superato il 4%. Una sperimentazione multi-semestrale pre-registrata alla Georgia State University ha stimolato gli studenti di due ampi corsi asincroni (N = 1.568 e N = 915) con due o tre messaggi personalizzati alla settimana, aumentando del 4% le probabilità di ottenere un voto A o B rispetto al 61% del gruppo di controllo e spostando i tassi DFW di circa tre punti in ciascun corso ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
 **Orientamento e pianificazione accademica.** La previsione di corsi e voti fornisce l'input per la pianificazione — un modello prevede congiuntamente quali corsi uno studente frequenterà e quali voti otterrà ([[trace-course-grade-prediction-2026|Savala, 2026]]), e un altro prevede il progresso a livello di modulo in ampi corsi di programmazione online mediante un albero decisionale intrinsecamente interpretabile ([[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska, 2026]]). Il trasferimento dei crediti è un problema di orientamento a sé: CourseGraph modella il contenuto dei corsi come grafi di conoscenza per valutare le equivalenze con corsi esterni rivolti a studenti mobili ([[coursegraph-cs-course-comparison-2026|Nijdam et al., 2026]]). A livello istituzionale, una revisione di 155 studi sull'IA e l'erogazione dei servizi nell'istruzione superiore ha riscontrato che l'analisi dell'apprendimento è l'applicazione più comune con 46 studi (29,7%), seguita dai chatbot e dagli assistenti virtuali con 31 (20,0%) e dall'analisi predittiva con 29 (18,7%) ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga, 2026]]).
 
 **Rinvio e allocazione del sostegno.** La previsione non è un piano, e il divario tra i due è il punto in cui si colloca la critica più acuta del campo. SC2R lo formalizza come **divario di azionabilità**: un punteggio di rischio diventa supporto alle decisioni solo quando le sue raccomandazioni sono semanticamente fattibili e verificabili automaticamente — vincolate da tempi, budget, immutabilità e disponibilità, anziché essere semplicemente valide dal punto di vista del modello ([[sc2r-counterfactual-recourse-educational-2026|Le, Abel & Laforge, 2026]]). Che i modelli siano in grado di allocare bene il sostegno è oggetto di discussione sul piano empirico: invitati a raccomandare piani di sostegno per 4.500 vignette sintetiche di studenti, tre LLM hanno mostrato una sensibilità limitata al bisogno dello studente e una marcata incoerenza tra i diversi modelli ([[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al., 2026]]).
 
-**Accesso al sostegno accademico.** I sistemi di recupero specifici per corso si rivolgono agli studenti meno propensi a rivolgersi a un essere umano. Beacon, costruito a partire dai materiali approvati di un singolo modulo di programmazione, ha ottenuto valutazioni di rilevanza elevate (89%) ed è stato giudicato dalla maggior parte degli studenti come un supporto al proprio apprendimento anziché una sua sostituzione (66,7%), in una piccola valutazione su 15 studenti e 4 accademici ([[course-specific-rag-help-seeking-higher-ed-2026|Zhou et al., 2026]]). La fruizione del tutorato è un problema a sé: una sperimentazione randomizzata biennale di uno strato di tutorato virtuale per studenti in difficoltà ha dovuto verificare la fruizione separatamente dall'apprendimento, perché raggiungere gli studenti che hanno bisogno di sostegno non equivale a fornirlo ([[virtual-tutoring-computer-assisted-learning-takeup-2026|Fryer et al., 2026]]).
+**Accesso al sostegno accademico.** I sistemi di recupero specifici per corso si rivolgono agli studenti meno propensi a rivolgersi a un essere umano. Beacon, costruito a partire dai materiali approvati di un singolo modulo di programmazione, ha ottenuto valutazioni di rilevanza elevate (89%) ed è stato giudicato dalla maggior parte degli studenti come un supporto al proprio apprendimento anziché una sua sostituzione (66,7%), in una piccola valutazione su 15 studenti e 4 accademici ([[course-specific-rag-help-seeking-higher-ed-2026|Zhou et al., 2026]]). La fruizione del tutorato è un problema a sé: una [[rct|sperimentazione randomizzata]] biennale di uno strato di tutorato virtuale per studenti in difficoltà ha dovuto verificare la fruizione separatamente dall'apprendimento, perché raggiungere gli studenti che hanno bisogno di sostegno non equivale a fornirlo ([[virtual-tutoring-computer-assisted-learning-takeup-2026|Fryer et al., 2026]]).
 
 **Assistenza amministrativa.** La leadership e l'amministrazione sono studiate come dominio applicativo proprio, con una tassonomia a dieci domini che mappa dove l'IA atterra nella leadership educativa ([[sposato-ai-educational-leadership-taxonomy-2025|Sposato, 2025]]). I servizi gestiti dall'istituzione si estendono oltre l'orientamento fino alla salute: un framework integrato di benessere sul campus abbina la prevenzione — migliorare il modo in cui viene raccolto il riscontro — all'intervento attraverso l'individuazione di problemi di salute mentale ([[ai-campus-wellbeing-tools|Tang, 2026]]). La certificazione si colloca subito accanto: quando un agente può completare un corso per conto di uno studente, una certificazione che dichiara «conseguito» perde il proprio significato, il che trasforma i registri di completamento in un problema di progettazione ([[credentials-carry-evidence-ai-agents-2026|Srivastava, 2026]]).
+
+**Un assistente interno compete con il chatbot pubblico sulla disponibilità, non sulla capacità.** In cinque studi di co-progettazione alla Open University (315 studenti, 20 membri del personale), il punto di forza proposto di i-AIDA era l'accesso a ogni ora, condiviso dal 73% di un'indagine su 96 studenti, e l'uso diretto ha spostato la domanda da 9 su 18 studenti a 16 su 18 (d = ,81) ([[rienties-institutional-ai-assistant-co-design-2026|Rienties et al., 2026]]). Gli studenti lo valutavano 7,58 su 10 rispetto ad altri strumenti generativi, mentre circa il 10–15% obiettava su basi valoriali anziché di usabilità, definendo lo studio assistito dall'IA una diluizione dell'apprendimento legittimo.
+
+Ciò che un canale di sostegno IA sposta merita la stessa contabilità. In quattro studi (N = 249, 494, 743 e 737), la convinzione nella capacità dell'IA di fornire supporto emotivo aumentava la disponibilità a scaricare su di essa quel supporto, e l'effetto passava interamente attraverso la capacità percepita (effetto totale c = 0,83; effetto indiretto ab = 0,73) ([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]). Su una misura comportamentale, i partecipanti che dicevano che non avrebbero scaricato sceglievano meno parole di empatia, quindi instradare gli studenti verso un canale di benessere IA può sottrarre supporto umano in modi che l'[[self-report-measures|autovalutazione]] non mostra.
+
 
 ## Dalla previsione al sostegno
 
@@ -87,7 +95,7 @@ La spiegazione che gli autori danno di questo schema è l'affermazione centrale 
 
 ## Equità e rischi dell'agire in base a un punteggio
 
-I sistemi di sostegno agiscono sugli studenti, il che rende le loro modalità di fallimento diverse da quelle di un tutor. Uno stress test di sei interventi di equità post-hoc su un sistema di allerta precoce replicato e controllato dal fornitore, costruito a partire da 168.550 registri di studenti, ha rilevato che gli interventi non producevano l'equità promessa ([[fairness-theatre-early-warning-systems-2026|McConvey et al., 2026]]). Una revisione condotta nell'interesse degli studenti organizza la superficie di rischio attorno alle ammissioni, al reclutamento e agli aiuti finanziari, e ai **servizi per il successo studentesco** — le aree in cui l'IA istituzionale incide più direttamente sugli studenti ([[students-at-stake-ai-deployment-risks-2026|Student Defense, 2026]]). Privacy ed equità sono qui strutturali anziché accidentali: l'apprendimento federato esiste perché condividere i registri degli studenti tra istituzioni è inaccettabile, e la componente human-in-the-loop del programma CSUN — gli amministratori che rispondono a ciò cui il chatbot non sapeva rispondere, e che poi reinseriscono la risposta nella sua base di conoscenza — è ciò che, secondo gli autori, raggiunge gli studenti che ignorano la posta elettronica e il telefono.
+I sistemi di sostegno agiscono sugli studenti, il che rende le loro modalità di fallimento diverse da quelle di un tutor. Uno stress test di sei interventi di equità post-hoc su un sistema di allerta precoce replicato e controllato dal fornitore, costruito a partire da 168.550 registri di studenti, ha rilevato che gli interventi non producevano l'equità promessa ([[fairness-theatre-early-warning-systems-2026|McConvey et al., 2026]]). Una revisione condotta nell'interesse degli studenti organizza la superficie di rischio attorno alle ammissioni, al reclutamento e agli aiuti finanziari, e ai **servizi per il successo studentesco** — le aree in cui l'IA istituzionale incide più direttamente sugli studenti ([[students-at-stake-ai-deployment-risks-2026|Student Defense, 2026]]). Privacy ed equità sono qui strutturali anziché accidentali: l'apprendimento federato esiste perché condividere i registri degli studenti tra istituzioni è inaccettabile, e la componente [[human-in-the-loop-ai|human-in-the-loop]] del programma CSUN — gli amministratori che rispondono a ciò cui il chatbot non sapeva rispondere, e che poi reinseriscono la risposta nella sua base di conoscenza — è ciò che, secondo gli autori, raggiunge gli studenti che ignorano la posta elettronica e il telefono.
 
 ## Le condizioni istituzionali
 
@@ -131,6 +139,9 @@ Il sostegno agli studenti si collega all'[[student-experience|esperienza student
 
 ## Articoli collegati
 
+- [[cefa-ai-learner-support-review-2026]] — 61-study review of AI-enabled learner support: adaptive systems and prediction dominate; transition phase and diverse learners are absent
+
+
 - [[mata-sustaining-ai-enabled-student-support-2026]] — four-year randomized evaluation of a university support chatbot: task completion moved, graduation and GPA did not
 - [[chatbot-outreach-course-performance-2026]] — pre-registered multi-semester outreach trial: higher A/B rates, modest DFW shifts, one demographic exception
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — 4,500 synthetic vignettes: limited sensitivity to student need and cross-model inconsistency in support recommendations
@@ -150,6 +161,12 @@ Il sostegno agli studenti si collega all'[[student-experience|esperienza student
 - [[sposato-ai-educational-leadership-taxonomy-2025]] — ten-domain taxonomy of AI in educational leadership
 - [[students-at-stake-ai-deployment-risks-2026]] — student-side risk surface: admissions and aid, student-success services, and instruction
 - [[ai-campus-wellbeing-tools]] — campus well-being support spanning prevention and intervention
+
+- [[shastry-gray-empathy-offloading-2026]] — Four studies on empathy offloading: believing AI can supply emotional support lowers what people supply themselves (Shastry & Gray 2026)
+
 - [[coursegraph-cs-course-comparison-2026]] — course equivalence for transfer credit and mobility
 - [[credentials-carry-evidence-ai-agents-2026]] — what a completion record means when an agent can do the work
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk early, and the threshold trade-off for low-stakes outreach
+
+- [[rienties-institutional-ai-assistant-co-design-2026]] — Five co-design studies of an institutional AI study assistant: availability first, values-based resistance last
+

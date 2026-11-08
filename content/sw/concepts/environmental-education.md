@@ -10,7 +10,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Nusu hii ni ambapo maudhui ni nyembamba zaidi. Mapitio ya karatasi zote 396 za m
 
 Upande wa mwanafunzi, interface ya maoni ya ikolojia inayoonyesha biashara ya ucheleweshaji–kaboni wakati wa matumizi ya moja kwa moja ya LLM ilichunguzwa na wanafunzi 89 wa sayansi ya kompyuta katika kozi ya maadili ya kompyuta: wanafunzi walichagua hali ya kaboni ya chini katika takribani 45% ya mwingiliano wa ucheleweshaji wa chini lakini chini ya 5% katika ucheleweshaji wa juu, na ufahamu wa uendelevu uliongeza chaguo hilo kwa kiasi kikubwa. Sampuli ni ndogo na yenye ufahamu wa kiufundi usio wa kawaida, lakini ni ushahidi wa moja kwa moja tu katika maudhui kwamba taarifa za athari zinasogeza wanafunzi kabisa — na inapendekeza kwamba kikomo kinachofunga ni uvumilivu, si thamani.([[llm-environmental-impact-student-usage-2026]])
 
-Ushahidi wa kupunguza unakuja kutoka msaidizi wa hifadhi ya maarifa ya [[cs-education|CS]] ya on-premise kwenye GPU moja ya watumiaji (12 GB VRAM) yenye maudhui yaliyoidhinishwa wazi: 1.8 mWh kwa kila swali kwa bora — takribani 0.54 Wh kwa darasa la wanafunzi 30 wanaowasilisha maswali kumi kila mmoja — zikiwa na fine-tuning inayofahamu quantization ikizuia upotevu wa usahihi na ongezeko la [[hallucination-risk|hallucination]] ambayo compression pekee ilisababisha. Ni benchmark ya uhandisi, si somo la kujifunza, lakini inaonyesha kwamba swali la athari lina vigezo vya ubunifu (uwekezaji, quantization, eneo la utekelezaji), si vigezo vya nidhamu ya matumizi pekee.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
+Ushahidi wa kupunguza unakuja kutoka msaidizi wa hifadhi ya maarifa ya [[cs-education|CS]] ya on-premise kwenye GPU moja ya watumiaji (12 GB VRAM) yenye maudhui yaliyoidhinishwa wazi: 1.8 mWh kwa kila swali kwa bora — takribani 0.54 Wh kwa darasa la wanafunzi 30 wanaowasilisha maswali kumi kila mmoja — zikiwa na [[llm-training-and-fine-tuning|fine-tuning]] inayofahamu quantization ikizuia upotevu wa usahihi na ongezeko la [[hallucination-risk|hallucination]] ambayo compression pekee ilisababisha. Ni benchmark ya uhandisi, si somo la kujifunza, lakini inaonyesha kwamba swali la athari lina vigezo vya ubunifu (uwekezaji, quantization, eneo la utekelezaji), si vigezo vya nidhamu ya matumizi pekee.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
 
 ## Ujuzi wa kijani, ufahamu wa uendelevu, na uwezo wa mwalimu
 

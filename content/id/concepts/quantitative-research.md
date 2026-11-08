@@ -6,9 +6,9 @@ assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
-updated: "2026-11-04T02:37:02-05:00"
+updated: "2026-11-08T14:01:53-05:00"
 translation_of: "concepts/quantitative-research"
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 ## Pertanyaan yang Perlu Dipertimbangkan
 
-- 'Siswa yang menggunakan tutor AI mendapat skor lebih tinggi' — sebelum Anda membaca, apakah ini klaim tentang kausalitas atau korelasi, dan satu bukti apa yang akan mengubah yang satu menjadi yang lain?
+- 'Siswa yang menggunakan [[intelligent-tutoring|tutor AI]] mendapat skor lebih tinggi' — sebelum Anda membaca, apakah ini klaim tentang kausalitas atau korelasi, dan satu bukti apa yang akan mengubah yang satu menjadi yang lain?
 - Survei potong lintang dapat menguji model mediasi yang kompleks namun tidak pernah menetapkan kausalitas. Mengapa dua variabel bisa berkorelasi dalam survei bahkan ketika tidak satu pun menyebabkan yang lain? Dapatkah Anda memikirkan cara agar benar-benar tersesat oleh korelasi semacam itu dalam pendidikan?
 - Instrumen kuantitatif hanya sebaik apa yang diukurnya — dan halaman ini mencatat bahwa instrumen dapat mengukur konstruk yang salah. Ketika Anda mengisi survei laporan diri tentang 'kepercayaan diri' atau 'keterlibatan', apa yang sebenarnya mungkin ditangkapnya, dan bagaimana Anda akan mengetahuinya?
 - RCT secara acak menugaskan siswa ke kondisi untuk mengestimasi efek kausal. Apa yang membuat penugasan acak kuat, dan masalah praktis serta etis apa yang muncul ketika 'perlakuan' adalah alat AI yang mungkin membantu sementara sebagian siswa ditolak aksesnya?
@@ -42,13 +42,13 @@ Survei potong lintang mengukur sikap, persepsi, motivasi, [[self-efficacy]], dan
 
 - **Kekuatan:** sampel besar; cakupan luas dan berbiaya rendah; menguji model mediasi yang kompleks; layak untuk sikap yang sulit diamati.
 - **Keterbatasan:** data potong lintang tidak dapat menetapkan kausalitas; bias laporan diri; pengambilan sampel kemudahan membatasi kemampuan generalisasi; mediator disimpulkan dari kovarians, bukan manipulasi. Lihat [[self-report-measures]] untuk pembahasan batasan ini dari sisi instrumen.
-- **Model mediasi tersaturasi tidak dapat menguji urutannya sendiri.** Survei satu gelombang atas 1,020 mahasiswa keperawatan membagi efek total 1.36 menjadi langsung 0.92 dan tak langsung 0.44 melalui pembelajaran mandiri, 32.35% dari total, dengan model yang memiliki parameter bebas sebanyak kovarians teramati sehingga mereproduksi data secara konstruksi ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
+- **Model mediasi tersaturasi tidak dapat menguji urutannya sendiri.** Survei satu gelombang atas 1,020 mahasiswa keperawatan membagi efek total 1.36 menjadi langsung 0.92 dan tak langsung 0.44 melalui [[self-regulated-learning|pembelajaran mandiri]], 32.35%, 32.35% dari total, dengan model yang memiliki parameter bebas sebanyak kovarians teramati sehingga mereproduksi data secara konstruksi ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
 **Efek tak langsung total yang mendekati nol dapat menyembunyikan dua jalur yang hidup.** Dalam satu gelombang laporan diri dari 568 mahasiswa desain, asosiasi tak langsung berjalan 0.0929 melalui fokus promosi dan -0.0884 melalui fokus pencegahan, berjumlah 0.0045 sementara jalur langsung membawa 98.7% dari total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]).
 
 ### Penelitian eksperimental dan kuasi-eksperimental
 Eksperimen secara acak menugaskan siswa ke kondisi (misalnya, tutor AI vs. tutor manusia, atau berbantuan scaffolding AI vs. tanpa bantuan) untuk mengestimasi efek kausal pada hasil. **Uji terkontrol acak ([[rct]]s)** adalah standar emas untuk validitas internal. [[access-not-enough-ai-tutoring-2026|Studi lapangan acak tentang dukungan manusia plus tutoring AI]] dan [[genai-can-harm-teaching-rct-2026|sebuah RCT tentang AI generatif dalam pengajaran]] menggunakan penugasan untuk mengisolasi efek kausal. Desain **kuasi-eksperimental** (pra/pasca, kelompok dipasangkan tanpa pengacakan) lebih layak di kelas utuh tetapi lebih lemah dalam klaim kausal.
 
-[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] mengadopsi crossover dalam-subjek: setiap siswa menemui konten fisika yang sama dua kali, sekali dalam pelajaran pembelajaran aktif di kelas dan sekali melalui tutor AI milik kursus itu sendiri, dengan pra- dan pasca-tes di sekitar masing-masing, sehingga setiap siswa menjadi kontrol bagi dirinya sendiri dan perbedaan antar-individu saling menghapus.
+[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] mengadopsi crossover dalam-subjek: setiap siswa menemui konten fisika yang sama dua kali, sekali dalam pelajaran [[active-learning|pembelajaran aktif]] di kelas di kelas dan sekali melalui tutor AI milik kursus itu sendiri, dengan pra- dan pasca-tes di sekitar masing-masing, sehingga setiap siswa menjadi kontrol bagi dirinya sendiri dan perbedaan antar-individu saling menghapus.
 
 - **Kekuatan:** inferensi kausal terkuat; pengukuran hasil yang bersih; mendukung estimasi ukuran efek dan klaim khasiat.
 - **Keterbatasan:** mahal dan lambat; kondisi artifisial mengurangi validitas ekologis; alat AI yang berubah cepat membuat eksperimen cepat usang; sampel kecil kurang bertenaga untuk mendeteksi efek; kendala etis dalam menahan alat yang membantu.

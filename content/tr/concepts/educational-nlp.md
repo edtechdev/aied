@@ -6,7 +6,7 @@ confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,8 @@ Gömme modelleri, öğrenci metnini öğretilen yapıya göre değil yüzey biç
 
 - **Okunabilirlik ve [[curriculum-design|müfredat]] uyumu.** Bird (2026), dönüştürücü metin sınıflandırmasını hesaplamalı dilbilim özellikleriyle birleştirerek İngiliz edebiyatını İngiltere Ana Aşamalarına (UK Key Stage) göre sınıflandırır ve 0,996 F1 değerine ulaşır — [[educational-measurement]] ve okuma düzeyi uyumu için [[vocabulary-difficulty-prediction]] ve [[llm-item-difficulty-prediction]]’e veri güdümlü bir tamamlayıcı.
 
+- **Üretilen metin kendi [[reading-education|okunabilirlik yükünü]] taşır.** Clark ve ark. (2026), son modellerin, anlamı koruyan kendi açımlamalarına ve tür eşleşmeli insan temel çizgilerine kıyasla, işlemleme literatürünün anlama maliyetiyle ilişkilendirdiği yapıları — düşük sıklıklı n-gramlar, yığılmış adlar, addan türetilmiş fiiller, uzun bağımlılıklar, indirgenmiş nesne ilgi cümlecikleri — aşırı kullanmasını bulur ve bu kalıbı, netlik yerine bilgi yoğunluğunu ödüllendiren eğitim sonrası sürece bağlar ([[clark-ai-generated-language-readability-2026]]). Dolayısıyla metin zorluğunu ölçmek, yalnızca sadeleştirilmesi istenen öğrenen metnine değil, modelin yazdığı metne de uygulanır.
+
 - **Söylem düzeyinde sınıflandırma, yüzey özelliklerinin gözden kaçırdığını yerele indirir.** Yalnızca son dört dönüştürücü katmanı üzerinde ince ayarlanmış bir BERT modeli, bitişik cümle çiftlerini nedensel, karşıt, ilerleyici veya tutarsız olarak sınıflandırır ve kırılma noktasını bir teşhis olarak yayar; 28.736 cümle çiftinde en az 0,891 ortalama F1 değerine ulaşır ([[bert-discourse-english-teaching-2026|Wang ve ark., 2026]]).
 
 - **Tüm ders modellemesi, sözcük düzeyinde sınıflandırmayı geride bırakır.** Yalıtılmış sözcükler yerine ders deşifre metinlerinin tamamını puanlamak, akıl yürütme zinciri tespitinde en son teknoloji ayrımcı temel çizgilere karşı 14,2 yüzde puanlık artış sağlamış; lehçeden bağımsız bir karşıtlık hedefinin eklenmesi ise Afrikalı Amerikan Konuşma İngilizcesinde yanlış negatifleri 18,4 puan düşürmüştür ([[nspa-neuro-symbolic-pedagogical-alignment-2026|Fang ve Liu, 2026]]).
@@ -71,6 +73,9 @@ Gömme modelleri, öğrenci metnini öğretilen yapıya göre değil yüzey biç
 - **El yazısı cevap kağıtları mevcut ayrıştırıcılara direnir.** Çok satırlı çözümler, iç içe geçmiş düz metin ve formüller, elle çizilmiş tablolar ve üstünü çizme ile silmeden kaynaklanan gürültü, basılı belge ve yalıtılmış ifade kıyaslamalarının dışına çıkar; bu nedenle gerçek sekizinci sınıf matematik kağıtlarından oluşan HANS veri kümesi — 745 öğrenciden 5.213 cevap görüntüsü ve 18 problem türü — bu gürültüyü belgeler ve tanımayı iyileştiren bir gürültü bastırma modelini destekler ([[hans-handwritten-answer-sheet-parsing-2026|Wu ve ark. (2026)]]).
 
 - **Ölçekte konsept etiketleme.** [[srjudge-knowledge-concept-tagging-2026|Yang ve ark. (2026)]], bilgi konsepti etiketlemeyi bir Seç–Gerekçelendir–Yargıla hattına böler — küçük bir model aday konseptleri ön listeler, LLM ön liste üzerinde akıl yürütür, ardından yargılar — modelin karar uzayını daraltarak üç kıyaslama üzerinde etiketleme doğruluğunu yükseltir.
+
+- **ASR deşifre metinlerinin varlık sadakati, sözcüksel doğruluktan ayrı bir sorudur.** Beş konuşma tanıma sistemini insan referans deşifresiyle kıyaslayan [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard ve Rosenberg (2026)]], bilgi tabanının ilk ASR/NER varlık sadakati kanıtını raporlar: sözcük hata oranları %2,43 (TurboScribe) ile %15,32 (Vosk) arasında değişmiş; yedi kategorili altın varlık türü kodlamasında GPT-5.5 0,805 doğruluğa (κ = ,726) ulaşırken spaCy 0,634’te (κ = ,488) kalmıştır.
+Toplam WER tek başına varlık yapısının deşifreden sağ çıktığını belgeleyemez.
 
 ### Özel ders ve ölçmeye bağlantı
 

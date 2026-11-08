@@ -8,7 +8,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-10-25T21:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,7 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-> **Mfumo wa ICAP** (Mwingiliano–Ujenzi–Uendeshaji–Kupitisha) — taksonomia ya mwingiliko wa kiakili iliyotengenezwa na Michelene Chi ambayo inagawanya tabia ya mwanafunzi katika hali nne za mabadiliko ya maarifa, zilizopangwa kutoka kiwango cha chini hadi cha juu cha mwingiliko wa kiakili: *kupitisha*, *kuendeshwa*, *kuunda*, na *kuingiliana*. Katika Akili Bandia katika elimu, ICAP hutoa lengo la kubuni (jenga zana zinazochochea mwingiliano wa kuunda na wa kuingiliana badala ya matumizi ya kupitisha) na lenzi ya tathmini (pima kama wanafunzi na mifumo ya AI wanashiriki kweli katika hali za juu).([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
+> **Mfumo wa ICAP** (Mwingiliano–Ujenzi–Uendeshaji–Kupitisha) — taksonomia ya mwingiliko wa kiakili iliyotengenezwa na Michelene Chi ambayo inagawanya tabia ya mwanafunzi katika hali nne za mabadiliko ya maarifa, zilizopangwa kutoka kiwango cha chini hadi cha juu cha mwingiliko wa kiakili: *kupitisha*, *kuendeshwa*, *kuunda*, na *kuingiliana*. Katika [[ai-education|Akili Bandia katika elimu]], ICAP hutoa lengo la kubuni (jenga zana zinazochochea mwingiliano wa kuunda na wa kuingiliana badala ya matumizi ya kupitisha) na lenzi ya tathmini (pima kama wanafunzi na mifumo ya AI wanashiriki kweli katika hali za juu).([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
 
 ## Maswali ya Kutafakari
 
@@ -33,7 +33,7 @@ ai_assist:
 
 ## Utangulizi
 
-ICAP imejengwa juu ya dhana kwamba *kile wanafunzi wanachofanya* kinabadilisha kiwango na aina ya wanachojifunza. Mfumo wa Chi unadai kuwa kadiri mwingiliko unavyosogea kutoka kupitisha hadi kuendeshwa hadi kuunda hadi kuingiliana, asili ya mabadiliko ya maarifa inakuwa ya kina zaidi — kutoka kuhifadhi, hadi kusikiliza, hadi kuunganisha maarifa mapya na maarifa ya awali, hadi kuunda maarifa pamoja kupitia mazungumzo. Hii inafanya ICAP kuwa chombo chenye nguvu cha kichanganuzi kwa Akili Bandia katika elimu, ambapo swali kuu la kubuni ni kama msaada wa AI unaunga mkono au unahamisha mwingiliko wa kiakili wa wanafunzi.
+ICAP imejengwa juu ya dhana kwamba *kile wanafunzi wanachofanya* kinabadilisha kiwango na aina ya wanachojifunza. Mfumo wa Chi unadai kuwa kadiri mwingiliko unavyosogea kutoka kupitisha hadi kuendeshwa hadi kuunda hadi kuingiliana, asili ya mabadiliko ya maarifa inakuwa ya kina zaidi — kutoka kuhifadhi, hadi kusikiliza, hadi kuunganisha maarifa mapya na [[prior-knowledge|maarifa ya awali]], hadi kuunda maarifa pamoja kupitia mazungumzo. Hii inafanya ICAP kuwa chombo chenye nguvu cha kichanganuzi kwa Akili Bandia katika elimu, ambapo swali kuu la kubuni ni kama msaada wa AI unaunga mkono au unahamisha mwingiliko wa kiakili wa wanafunzi.
 
 ## Hali nne
 
@@ -48,11 +48,11 @@ ICAP imejengwa juu ya dhana kwamba *kile wanafunzi wanachofanya* kinabadilisha k
 
 ### Lengo la kubuni kwa zana za AI
 
-ICAP inaweka upya swali kuu la kubuni kwa Akili Bandia katika elimu: zana ya AI inayojibu *kwa niaba ya* mwanafunzi inamwacha katika hali za kupitisha/kuendeshwa, wakati zana inayotoa *ilani, maswali, na [[scaffolding|ngazi za msaada]]* inaweza kusukuma wanafunzi kuelekea mwingiliko wa kuunda na wa kuingiliana. Hii inalinganisha ICAP na mbinu za kufundisha za [[constructivist]] na utafiti wa [[active-learning]].([[multimodal-learning-genai]])([[hingle-collaborative-ai-literacy-2025]])
+ICAP inaweka upya swali kuu la kubuni kwa Akili Bandia katika elimu: zana ya AI inayojibu *kwa niaba ya* mwanafunzi inamwacha katika hali za kupitisha/kuendeshwa, wakati zana inayotoa *ilani, maswali, na [[scaffolding|ngazi za msaada]]* inaweza kusukuma wanafunzi kuelekea mwingiliko wa kuunda na wa kuingiliana. Hii inalinganisha ICAP na [[pedagogy|mbinu za kufundisha]] za [[constructivist]] na utafiti wa [[active-learning]].([[multimodal-learning-genai]])([[hingle-collaborative-ai-literacy-2025]])
 
 ### Lenzi ya tathmini kwa mawakala wa AI
 
-ICAP pia hutumika kama mfumo wa kupima. Katika utafiti mmoja, watafiti walipanua ICAP hadi kiwango cha pointi 7 ili kuelezea mwingiliko wa kiakili katika mazungumzo ya ushirikiano, kisha walilinganisha wataalam wa kibinadamu waliofunzwa na uwekaji wa lebo unaotegemea LLM (kujifunza kwa muktadha, utoaji wa ilani bila mifano, na mawakala wenye tafakuri). Uaminifu wa kati ya wataalam wa kibinadamu (kappa = 0.906–0.998) ulizidi kwa kiasi kikubwa uwekaji wa lebo wa LLM (kappa = 0.541–0.609), ikionyesha jukumu la ICAP — na vikomo vyake vya sasa — katika upimaji wa kiotomatiki wa mwingiliko kwa [[learning-analytics]].([[icap-cognitive-engagement-llm-agents]])
+ICAP pia hutumika kama mfumo wa kupima. Katika utafiti mmoja, watafiti walipanua ICAP hadi kiwango cha pointi 7 ili kuelezea mwingiliko wa kiakili katika mazungumzo ya ushirikiano, kisha walilinganisha wataalam wa kibinadamu waliofunzwa na uwekaji wa lebo unaotegemea [[llm|LLM]] (kujifunza kwa muktadha, [[prompt-engineering|utoaji wa ilani]] bila mifano, na mawakala wenye tafakuri). Uaminifu wa kati ya wataalam wa kibinadamu (kappa = 0.906–0.998) ulizidi kwa kiasi kikubwa uwekaji wa lebo wa LLM (kappa = 0.541–0.609), ikionyesha jukumu la ICAP — na vikomo vyake vya sasa — katika upimaji wa kiotomatiki wa mwingiliko kwa [[learning-analytics]].([[icap-cognitive-engagement-llm-agents]])
 
 ### Kuongoza urahisishaji wa mazungumzo ya ushirikiano
 
@@ -60,19 +60,22 @@ Kwa sababu mwingiliko wa kuunda ni hali ya juu zaidi ya ICAP, mfumo husaidia kuo
 
 ### ICAP na ubuni wa mifumo ya kuchanganua kujifunza
 
-ICAP imejengwa chini ya ukosoaji wa vipimo dhaifu vya "mwingiliko": kushirikiana na dashibodi kwa kubofya vichujio ni *uendeshaji*, si *mwingiliko*. Miundo yenye ufanisi ya mifumo ya kuchanganua kujifunza huchochea tathmini binafsi na mazungumzo ya pande mbili badala ya kuonyesha data tu — hitimisho lililotolewa moja kwa moja kutoka mfumo wa Chi.([[interactive-learning-dashboards-engagement]])
+ICAP imejengwa chini ya ukosoaji wa vipimo dhaifu vya "mwingiliko": kushirikiana na dashibodi kwa kubofya vichujio ni *uendeshaji*, si *mwingiliko*. Miundo yenye ufanisi ya mifumo ya kuchanganua kujifunza huchochea [[self-assessment|tathmini binafsi]] na mazungumzo ya pande mbili badala ya kuonyesha data tu — hitimisho lililotolewa moja kwa moja kutoka mfumo wa Chi.([[interactive-learning-dashboards-engagement]])
 
 ### Mpito wa Kuendeshaji→Ujenzi kama hatua muhimu
 
 Ingawa ICAP inaelezea mpangilio, mabadiliko yenye athari kubwa zaidi kwa kujifunza ni kuruka kutoka hali za *Kuendeshwa* hadi za *Kuunda* (Chi & Boucher, 2023). Mwingiliko wa kuendeshwa (kutumia maarifa katika hali zinazofanana lakini si sawa) unawatayarisha wanafunzi, lakini ni mwingiliko wa kuunda — kuzalisha maelezo, muhtasari, au vitu vipya — ndiyo unawapa uwezo wa kuunda maarifa mapya. Hii ni kiini cha Akili Bandia katika elimu: zana inayowashika wanafunzi katika hali ya Kuendeshwa (mfano kubofya katika mazoezi yanayobadilika) inaweza kuonekana yenye tija lakini haiwasukumi kamwe kwenye uzalishaji wa kuunda unaotoa ufahamu wa kudumu. Uingiliaji wa ushirikiano na unaozingatia usomaji ambao kwa makusudi hutoa ngazi za msaada kwa kuruka la Kuendeshwa→Ujenzi huonyesha mapato makubwa zaidi.([[hingle-collaborative-ai-literacy-2025]])
 
+Sehemu ya "mapato makubwa zaidi" katika dai hilo ni hitimisho kutoka kwa mfumo badala ya ulinganisho ambao mapitio yalifanya. Mapitio ya masomo tisa nyuma yake (2015–2023) yanahesabu ni uingiliaji upi *ulijumuisha* kila hali (9 kupitisha, 5 kuendeshwa, 7 kuunda, 8 kuingiliana), hayaripoti ukubwa wa athari kwa hali, na yanabainisha kuwa hakuna somo lililojumuishwa lililotegemea hali moja, hivyo hakuna kitu ndani yake kinachotenga kuruka la Kuendeshwa→Ujenzi ([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]]). Mpangilio ni wa Chi; kile mapitio yanaongeza ni kwamba wataalamu huchanganya hali badala ya kuchagua moja.
+
+
 ### ICAP kama ishara ya ngazi za msaada zinazobadilika katika ITS
 
-Hali za ICAP zinaweza kutekelezwa kama *hali za lengo* ambazo mwalimu anayebadilika huchagua kati yao ili kutoa ngazi za msaada kwa mwingiliko wa kiakili kulingana na mfano wa mwanafunzi unaoendelea. Katika ITS ya mantiki, [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al.]] walichagua kwa njia ya kubadilika kati ya hali ya *Kuendeshwa* "Iliyoongozwa" ya mifano ya kazi iliyofanywa na hali ya *Kuunda* ya mfano wa "Makosa". Kulinganisha Bayesian Knowledge Tracing (BKT) dhidi ya Deep Reinforcement Learning (DRL) na msingi usiobadilika juu ya wanafunzi 113, sera zote mbili zinazobadilika ziliboresha utendaji wa mtihani wa baadae — lakini kwa njia tofauti: BKT ilitoa mapato makubwa zaidi kwa wanafunzi wenye maarifa ya awali ya chini (wakisaidia kufikia kiwango sawa), wakati DRL ilizalisha alama za juu zaidi za mtihani wa baadae miongoni mwa wanafunzi wenye maarifa ya awali ya juu. Hii ni onyesho halisi kuwa *kubinafsisha* kwa ufanisi hali ya ICAP ya mwalimu mwenye akili kunategemea kuunda mfano wa maarifa ya sasa ya mwanafunzi — na kuwa hakuna hali moja wala mbinu moja ya kubadilika inayofaa kila mwanafunzi. Inaunganisha mpangilio wa ICAP moja kwa moja na ubuni wa [[adaptive-learning]] na [[knowledge-tracing]].
+Hali za ICAP zinaweza kutekelezwa kama *hali za lengo* ambazo [[intelligent-tutoring|mwalimu anayebadilika]] huchagua kati yao ili kutoa ngazi za msaada kwa mwingiliko wa kiakili kulingana na [[student-modeling|mfano wa mwanafunzi]] unaoendelea. Katika ITS ya mantiki, [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al.]] walichagua kwa njia ya kubadilika kati ya hali ya *Kuendeshwa* "Iliyoongozwa" ya mifano ya kazi iliyofanywa na hali ya *Kuunda* ya mfano wa "Makosa". Kulinganisha Bayesian Knowledge Tracing (BKT) dhidi ya Deep [[reinforcement-learning|Reinforcement Learning]] (DRL) na msingi usiobadilika juu ya wanafunzi 113, sera zote mbili zinazobadilika ziliboresha utendaji wa mtihani wa baadae — lakini kwa njia tofauti: BKT ilitoa mapato makubwa zaidi kwa wanafunzi wenye maarifa ya awali ya chini (wakisaidia kufikia kiwango sawa), wakati DRL ilizalisha alama za juu zaidi za mtihani wa baadae miongoni mwa wanafunzi wenye maarifa ya awali ya juu. Hii ni onyesho halisi kuwa *kubinafsisha* kwa ufanisi hali ya ICAP ya mwalimu mwenye akili kunategemea kuunda mfano wa maarifa ya sasa ya mwanafunzi — na kuwa hakuna hali moja wala mbinu moja ya kubadilika inayofaa kila mwanafunzi. Inaunganisha mpangilio wa ICAP moja kwa moja na ubuni wa [[adaptive-learning]] na [[knowledge-tracing]].
 
 ### ICAP kama mfano wa hali ya kiakili kwa kuzalisha mawakala wanaofanana na binadamu
 
-Zaidi ya kuchagua hali za kazi, ICAP imejumuishwa moja kwa moja katika *mfano wa kiakili* wa wakala wa kielimu wa kizalishaji. [[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]] hujenga "perceptron ya kina ya kiakili" inayotegemea ICAP ambayo huweka miingilizo kwenye usambazaji wa uwezekano katika viwango vinne vya ICAP, ikiunganisha hii na masasisho ya hali yanayochochewa na mageuko na upatikanaji wa kumbukumbu wa nadharia ya majibu ya vitu ili kuiga mageuko ya kiakili ya mwanafunzi (ikijumuisha mpito kama vile mkanganyiko → uchunguzi). Uchanganuzi wa ablation unaonyesha kuwa kuondoa moduli ya utambuzi wa ICAP kunahatarisha uwezo wa wakala wa kutofautisha kujifunza kwa kina kidogo na kwa kina — ushahidi kwamba taksonomia ya ICAP inaweza kutumika kama kipimo cha ndani, cha undani, cha mwingiliko wa kiakili kwa [[simulating-students|kuiga wanafunzi]], si lenzi ya tathmini ya nje tu.
+Zaidi ya kuchagua hali za kazi, ICAP imejumuishwa moja kwa moja katika *mfano wa kiakili* wa wakala wa kielimu wa kizalishaji. [[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]] hujenga "perceptron ya kina ya kiakili" inayotegemea ICAP ambayo huweka miingilizo kwenye usambazaji wa uwezekano katika viwango vinne vya ICAP, ikiunganisha hii na masasisho ya hali yanayochochewa na mageuko na upatikanaji wa kumbukumbu wa [[item-response-theory|nadharia ya majibu ya vitu]] ili kuiga mageuko ya kiakili ya mwanafunzi (ikijumuisha mpito kama vile mkanganyiko → uchunguzi). Uchanganuzi wa ablation unaonyesha kuwa kuondoa moduli ya utambuzi wa ICAP kunahatarisha uwezo wa wakala wa kutofautisha kujifunza kwa kina kidogo na kwa kina — ushahidi kwamba taksonomia ya ICAP inaweza kutumika kama kipimo cha ndani, cha undani, cha mwingiliko wa kiakili kwa [[simulating-students|kuiga wanafunzi]], si lenzi ya tathmini ya nje tu.
 
 ### ICAP inaweka msingi wa tathmini ya mwingiliko wa tafakuri wa GenAI
 

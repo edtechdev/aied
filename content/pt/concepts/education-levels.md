@@ -1,7 +1,7 @@
 ---
 title: "Níveis de ensino"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:45:14-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -14,7 +14,7 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -96,7 +96,7 @@ Um padrão se mantém em todos os níveis pesquisados: a camada humana absorve o
 
 **"A disciplina ensinada importa mais do que o nível de ensino."** A ruptura entre escola e universidade importa mais. O que muda ao atravessar essa fronteira não é o conteúdo, mas a capacidade de autorregulação, a natureza do contrato de avaliação e quem é responsável pela aprendizagem — e é por isso que uma ferramenta que ajuda um seminário de pós-graduação pode prejudicar uma aula do segundo ano mesmo com conteúdo comparável.
 
-**"Um tutor adaptativo ajuda todos os níveis igualmente."** A comparação que isola a variável é instrutiva: duas versões do mesmo tutor de matemática do segundo ano — conteúdo, interface, feedback e dicas faladas idênticos —, diferindo **apenas em se a seleção de tarefas seguia ou não um modelo bayesiano de [[knowledge-tracing|rastreamento de conhecimento]]**. A seleção adaptativa de tarefas é uma intervenção sensível ao nível, e seu benefício depende de se quem aprende naquele nível consegue agir sobre a adaptação.
+**"Um [[intelligent-tutoring|tutor adaptativo]] ajuda todos os níveis igualmente."** A comparação que isola a variável é instrutiva: duas versões do mesmo tutor de matemática do segundo ano — conteúdo, interface, feedback e dicas faladas idênticos —, diferindo **apenas em se a seleção de tarefas seguia ou não um modelo bayesiano de [[knowledge-tracing|rastreamento de conhecimento]]**. A seleção adaptativa de tarefas é uma intervenção sensível ao nível, e seu benefício depende de se quem aprende naquele nível consegue agir sobre a adaptação.
 
 **"A evidência concentrada no ensino superior generaliza para baixo."** Não generaliza, e a distribuição da literatura é um alerta, e não uma conveniência. Onde a evidência é densa e onde ela é escassa é uma propriedade da economia da pesquisa, não de onde a IA é mais usada, de modo que uma afirmação sobre o K-12 extraída de amostras universitárias é uma extrapolação através da fronteira que mais importa.
 

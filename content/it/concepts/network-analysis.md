@@ -1,13 +1,13 @@
 ---
 title: Analisi delle reti
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:09:36-05:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: "concepts/network-analysis"
-source_updated: "2026-10-26T13:35:09-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -53,8 +53,8 @@ I metodi di rete sono utilizzati in tutta la base di evidenze della knowledge ba
 - **Aprire la "scatola nera" dell'interazione discente–IA.** La TNA rivela il *processo* — i cicli comportamentali e i percorsi che i discenti seguono quando usano strumenti di IA (ad esempio un "ciclo di revisione" rispetto a un "ciclo di chat" nella [[writing-education|scrittura]] assistita da [[conversational-ai|chatbot]]) anziché soltanto l'output finale. ([[penny-transition-network-analysis-efl-writing-2026]])
 - **Confrontare la strutturazione cognitiva tra gruppi.** L'ENA mostra come diversi gruppi collegano i costrutti in modo diverso — ad esempio come la [[metacognition]] co-occorra con la delega rispetto al ragionamento umano nella collaborazione umano–IA, rivelando modalità di collaborazione differenti. ([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **Tracciare le firme di alfabetizzazione all'IA e di interazione.** L'ENA sui log di interazione identifica modelli distinti di uso degli [[llm|LLM]] (raffinamento iterativo strategico rispetto a comandi lineari), distinguendo la [[ai-literacy|competenza]] del discente e il suo sviluppo. ([[tracing-genai-literacy-interaction-patterns]])
-- **Analizzare il discorso e il framing.** L'ENA è applicata a dati [[qualitative-research|qualitativi]] e [[multimodal|multimodali]] (ad esempio i frame di YouTube su ChatGPT nell'educazione) per rivelare la struttura del discorso pubblico o disciplinare. ([[youtube-frames-chatgpt-education]])
-- **Integrare l'autovalutazione e le metriche di prodotto.** Poiché i metodi di rete usano dati comportamentali osservati, possono esporre discrepanze tra ciò che i discenti dichiarano e ciò che fanno realmente — un ritrovamento ricorrente nella letteratura della knowledge base sulla recezione del feedback.
+- **Analizzare il discorso e il framing.** L'ENA è applicata a dati [[qualitative-research|qualitativi]] e [[multimodal|multimodali]] (ad esempio i frame di YouTube su [[generative-ai|ChatGPT]] nell'educazione) per rivelare la struttura del discorso pubblico o disciplinare. ([[youtube-frames-chatgpt-education]])
+- **Integrare l'[[self-report-measures|autovalutazione]] e le metriche di prodotto.** Poiché i metodi di rete usano dati comportamentali osservati, possono esporre discrepanze tra ciò che i discenti dichiarano e ciò che fanno realmente — un ritrovamento ricorrente nella letteratura della knowledge base sulla recezione del feedback.
 
 - **La struttura del grafo come quantità di validazione, non come riassunto descrittivo.** [[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]] tracciano β0 — il numero di componenti connesse di un grafo di prossimità settimanale tra discenti a una soglia euclidea fissata — per verificare se le coorti sintetiche riproducono quelle reali, preferendolo perché è fissato dal solo grafo, non richiede ottimizzazione o seme casuale a differenza della massimizzazione della modularità, e resta definito quando da un settimo a un terzo dei discenti si trovano da soli in una componente.
 
@@ -82,7 +82,7 @@ I metodi di rete sono utilizzati in tutta la base di evidenze della knowledge ba
 
 ## Idee sbagliate comuni
 
-- **"L'analisi delle reti è oggettiva perché è computazionale."** **La codifica è il fondamento**: tutte le varianti di rete dipendono dal codificare in modo affidabile i dati grezzi (enunciati, eventi, relazioni) in nodi discreti, e la codifica automatica eredita le proprie definizioni da chi le ha stabilite. La visualizzazione sembra una struttura emergente e i suoi nodi sono scelte interpretative.
+- **"L'analisi delle reti è oggettiva perché è computazionale."** **La codifica è il fondamento**: tutte le varianti di rete dipendono dal codificare in modo affidabile i dati grezzi (enunciati, eventi, relazioni) in nodi discreti, e la codifica automatica eredita le proprie definizioni da chi le ha stabilite. La [[visualization|visualizzazione]] sembra una struttura emergente e i suoi nodi sono scelte interpretative.
 - **"Un cambiamento nella struttura della rete è automaticamente di per sé un guadagno di apprendimento."** In una discussione di caso con **venti studenti di laurea magistrale di discipline miste**, la **quota di termini condivisi di dimensione 3 è salita dal 5,2% all'8,0%** mentre **i token di contenuto sono scesi a circa 0,65× il loro livello post-lettura**. Due misure strutturali si sono mosse in direzioni opposte, quindi "la rete è cambiata" non è un risultato finché non dici lungo quale misura e perché conta.
 - **"Condividere più termini significa collaborare meglio."** Una quota crescente di termini condivisi accompagnata da una diversità decrescente di token di contenuto è coerente con una convergenza su un vocabolario più ristretto. Consenso e restringimento sono strutturalmente simili, ed è per questo che la misura ha bisogno del contenuto da cui è stata calcolata.
 

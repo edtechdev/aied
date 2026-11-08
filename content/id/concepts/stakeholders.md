@@ -6,9 +6,9 @@ foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-04T02:37:02-05:00"
+updated: "2026-11-08T14:09:36-05:00"
 translation_of: "concepts/stakeholders"
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -74,7 +74,7 @@ Identitas adalah jangkar manusia dari lanskap pemangku kepentingan: ia adalah ap
 
 **"Memberi setiap kelompok pemangku kepentingan suara menyelesaikan konflik."** Konsultasi bukan pembobotan. Pembingkaian halaman ini sendiri menempatkan pertanyaan desain pada bagaimana memberi setiap keprihatinan **kekuatan sungguhan alih-alih membiarkan suara paling keras menang**, yang merupakan masalah prosedur — siapa yang memutuskan, dengan bukti apa, dan dengan banding apa — bukan masalah komunikasi.
 
-**"Analisis pemangku kepentingan adalah latihan tahap awal."** Ketegangannya bertahan hingga operasional, karena peran-peran itu terus menafsirkan sistem yang sama secara berbeda. Lapisan personalisasi yang menghadap siswa dan dasbor integritas yang menghadap fakultas adalah data yang sama dilihat dari dua posisi, dan konfliknya berulang setiap kali salah satunya disesuaikan.
+**"Analisis pemangku kepentingan adalah latihan tahap awal."** Ketegangannya bertahan hingga operasional, karena peran-peran itu terus menafsirkan sistem yang sama secara berbeda. Lapisan [[personalized-learning|personalisasi]] yang menghadap siswa dan dasbor integritas yang menghadap fakultas adalah data yang sama dilihat dari dua posisi, dan konfliknya berulang setiap kali salah satunya disesuaikan.
 
 **"Identitas lintas audiens berarti satu pesan dapat melayani semuanya."** Berkomunikasi lintas audiens menuntut menerjemahkan keputusan yang sama ke dalam istilah yang berbeda tanpa salah menggambarkannya, yang lebih dari sekadar menulis ulang satu pesan dalam empat cara.
 

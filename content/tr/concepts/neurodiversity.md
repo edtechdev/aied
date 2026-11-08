@@ -8,7 +8,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -42,8 +42,9 @@ YZ çağında bu çerçeve bir slogan değil, bir tasarım sınavına dönüşü
 Bu alanın biçimini iki derleme belirler ve ikisi de bütünleşmeden çok parçalanmayı tanımlar.
 
 [[assistive-tech-neurodivergent-higher-ed-review-2026|PRISMA-ScR kapsam derlemesi (Rempel ve diğerleri, 2026)]] beş veri tabanını ve on yıllık bir yayın dönemini (2015–2025) tarayarak 766 kaydı inceledikten sonra, [[higher-ed|yükseköğretimdeki]] nörofarklı öğrenciler için dijital yardımcı teknolojilere ilişkin 40 ampirik çalışmaya indirmiştir. Alan, [[generative-ai|üretici YZ]] çevresinde yeniden örgütlenmiştir — 40 çalışmanın 15’i — sürükleyici biçimler 11 çalışmayla ikinci sıradadır. Onun merkezi eleştirisi bir tasarım eleştirisidir: resmi tanı çevresinde örgütlenen bireysel uyarlama ve nörotipe özgü araçlar, nörotipler arasında kesen işlevsel farklılıkları ele alamaz; bu nedenle evrensel tasarım ve katılımcı geliştirme önerir. En sürükleyici araçların en ölçeklenemez olanlar olduğunu da not eder.
+- **İlkokul sınıfları aynı yoğunlaşmayı gösteriyor.** Nöro-kapsayıcı ilkokul sınıfları için eğitim teknolojisi üzerine bir kapsam derlemesi (3.340 kayıt tarandı, 93 çalışma), kanıtın otizmli öğrenenler ile bireyselleştirilmiş akademik ve bilişsel desteğe yoğunlaştığını, sosyal, iletişimsel ve akran etkileşimi sonuçlarının ihmal edildiğini ve eğitim değerinin sınıf kullanıcılarından çok araştırmacılar tarafından doğrulandığını buldu ([[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola ve Goodacre (2026)]]).
 
-[[dabaghi-ai-dyslexia-education-review-2026|Disleksi için YZ üzerine disiplinlerarası derleme (Dabaghi, D'Urso ve Sciarrone, 2026)]], 2018–2024 dönemini 72 çalışma üzerinden kapsar ve YZ’nin tespit, yardımcı destek ve [[personalized-learning|kişiselleştirme]] amacıyla kullanıldığını; bu akımların bütünleşme yerine paralel biçimde evrildiğini ve alanın bütünleşmiş bir eğitim kuramından çok teknolojik olanağın öncülüğünde ilerlediğini bulur. Onun tespit araştırması (EEG, göz izleme, [[machine-learning]] modelleri) erken müdahale için tanısal vaat gösterse de sıklıkla özel ekipman ve kontrollü koşullar gerektirir; bu da sıradan sınıflardaki kullanımını sınırlar. Bu akımın sürekli düştüğü pratik sınav budur: destek, öğrencinin gerçekte aldığı kursun içine yerleştirilmiş olmalıdır.
+[[dabaghi-ai-dyslexia-education-review-2026|Disleksi için YZ üzerine disiplinlerarası derleme (Dabaghi, D'Urso ve Sciarrone, 2026)]], 2018–2024 dönemini 72 çalışma üzerinden kapsar ve YZ’nin tespit, yardımcı destek ve [[personalized-learning|kişiselleştirme]] amacıyla kullanıldığını; bu akımların bütünleşme yerine paralel biçimde evrildiğini ve alanın bütünleşmiş bir eğitim kuramından çok teknolojik olanağın öncülüğünde ilerlediğini bulur. Onun tespit araştırması ([[sensor-and-gaze-analytics|EEG]], göz izleme, [[machine-learning]] modelleri) erken müdahale için tanısal vaat gösterse de sıklıkla özel ekipman ve kontrollü koşullar gerektirir; bu da sıradan sınıflardaki kullanımını sınırlar. Bu akımın sürekli düştüğü pratik sınav budur: destek, öğrencinin gerçekte aldığı kursun içine yerleştirilmiş olmalıdır.
 
 ## Sınıfta otizm ve DEHB
 
@@ -59,11 +60,11 @@ Risk tarafın da kendi literatürü vardır. [[seung-basham-cognitive-offloading
 
 ## Yürütücü işlevler ve bağımlılık
 
-[[genai-reliance-executive-functioning-2026|Klarin, Hoff ve Daukantaitė (2026)]] bağımlılığı dar biçimde tanımlar — üretici YZ’yi kendi çabasına ya da öğretmen desteğine tercih etmek, ona olmadan okul işlerini başlatmada güçlük çekmek — ve bunu ergenlerden oluşan iki İsveç toplum örneklemiyle sınar (849 ortaöğretim alt düzey öğrencisi, analitik n = 735 ve 898 ortaöğretim üst düzey öğrencisi, analitik n = 839). Yürütücü işlev güçlükleri her iki örneklemde de algılanan yararlılık ve alışkanlıksal kullanım üzerinden bağımlılığa gidermiştir; dolaylı etkiler küçüktür (alt düzey örneklemde β = .10, yüzde 95 GA [.06, .14]; üst düzey örneklemde β = .08, yüzde 95 GA [.04, .12]). Pratik okuma: başlatma konusunda en çok desteğe gereksinim duyan öğrenenler, elverişli bir aracın en kolay biçimde varsayılan yol haline geldiği kişilerdir — ve buradaki etki büyüklükleri, bunun bir tasarım kaygısı olduğunu, bir tanı olmadığını gösterecek kadar küçüktür.
+[[genai-reliance-executive-functioning-2026|Klarin, Hoff ve Daukantaitė (2026)]] bağımlılığı dar biçimde tanımlar — üretici YZ’yi kendi çabasına ya da [[teacher-role|öğretmen]] desteğine tercih etmek, ona olmadan okul işlerini başlatmada güçlük çekmek — ve bunu ergenlerden oluşan iki İsveç toplum örneklemiyle sınar (849 ortaöğretim alt düzey öğrencisi, analitik n = 735 ve 898 ortaöğretim üst düzey öğrencisi, analitik n = 839). Yürütücü işlev güçlükleri her iki örneklemde de [[technology-acceptance-model|algılanan yararlılık]] ve alışkanlıksal kullanım üzerinden bağımlılığa gidermiştir; dolaylı etkiler küçüktür (alt düzey örneklemde β = .10, yüzde 95 GA [.06, .14]; üst düzey örneklemde β = .08, yüzde 95 GA [.04, .12]). Pratik okuma: başlatma konusunda en çok desteğe gereksinim duyan öğrenenler, elverişli bir aracın en kolay biçimde varsayılan yol haline geldiği kişilerdir — ve buradaki etki büyüklükleri, bunun bir tasarım kaygısı olduğunu, bir tanı olmadığını gösterecek kadar küçüktür.
 
 ## Tasarım uyarıları
 
-- **Tanıya bağlı destek, adını anmadığı öğrenenleri dışlar.** Kapsam derlemesinin eleştirisi, YZ özelliklerinin nasıl devreye alındığına doğrudan uygulanır: bir özellik bir uyarlama mektubuyla açılıyorsa, işlevsel farklılığı olan ancak tanısı olmayan öğrenenler onu hiç görmez.
+- **Tanıya bağlı destek, adını anmadığı öğrenenleri dışlar.** [[meta-analysis-systematic-review|Kapsam derlemesinin]] eleştirisi, YZ özelliklerinin nasıl devreye alındığına doğrudan uygulanır: bir özellik bir uyarlama mektubuyla açılıyorsa, işlevsel farklılığı olan ancak tanısı olmayan öğrenenler onu hiç görmez.
 - **Araçlar yalnızca zayıf biçimde değil, epistemik olarak da dışlayabilir.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]], İngilizce ağırlıklı ve Batı merkezli eğitim verilerinin hegemonyatik olmayan bilme biçimlerini marjinalleştirdiğini savunur ve bu eleştirinin merkezine engelli öğrenenlerin durumunu koyar — "kapsayıcı" bir YZ’nin yine de hangi bilginin sayıldığını kodlayabileceğine ilişkin bir uyarı.
 - **Davranış sinyalleri, öğrenciyi tanımayan sistemler tarafından okunur.** [[learning-analytics]] ve [[student-modeling]] içinde [[student-engagement|katılımın]], mücadele ya da dikkatin yorumlanması normatif bir yanıt örüntüsü varsayar; bu varsayıma ilişkin eşitlik kanıtları için [[differential-effects-across-learner-groups|Öğrenen Grupları Arasındaki Farklı Etkiler]] başlığına bakın.
 - **Bağımlılık bir tasarım sonucudur, öğrencinin başarısızlığı değil.** Yukarıdaki bağımlılık yolu göz önüne alındığında herhangi bir YZ özelliğine sorulması gereken soru, görevin var olma nedenini oluşturan yüksek düzeyli sürecin yerini alıp almadığıdır — Seung ve Basham’ın öğrenme güçlüğü için belirttiği nokta.
@@ -83,7 +84,7 @@ Nöroçeşitlilik, [[special-education]], [[inclusive-learning]], [[universal-de
 
 ## Yaygın yanlış anlamalar
 
-- **“Nöroçeşitlilik araştırması AIED’in niş bir köşesidir.”** Alan **[[generative-ai|üretken YZ]] etrafında yeniden örgütlenmiştir: 40 çalışmanın 15’i** bu alandadır, ikinci sırada 11 çalışmayla sürükleyici biçimler gelir. Literatür istikrarlı sorular etrafında birikmek yerine teknolojiyle birlikte hareket etmiştir.
+- **“Nöroçeşitlilik araştırması [[ai-education|AIED]]’in niş bir köşesidir.”** Alan **[[generative-ai|üretken YZ]] etrafında yeniden örgütlenmiştir: 40 çalışmanın 15’i** bu alandadır, ikinci sırada 11 çalışmayla sürükleyici biçimler gelir. Literatür istikrarlı sorular etrafında birikmek yerine teknolojiyle birlikte hareket etmiştir.
 - **“Disleksi için daha fazla YZ daha iyi destek demektir.”** [[dabaghi-ai-dyslexia-education-review-2026|Disleksi için YZ üzerine disiplinler arası inceleme (Dabaghi, D’Urso ve Sciarrone, 2026)]] **2018-2024 arasında 72 çalışmayı** kapsar ve YZ’nin çok geniş bir amaç yelpazesinde kullanıldığını bulur. Uygulama genişliği, bunlardan herhangi biri için etkililiğin kanıtı değildir.
 - **“Nöroçeşitli öğrenenler için doğru çerçeve uyarlamalardır.”** [[neurodivergent-computing-students|24 nöroçeşitli bilişim öğrencisi ve 20 nörotipik akranıyla yürütülen bir anket]] ve dört derinlemesine görüşme, ihtiyaçların tanı konulduktan sonra verilen bireysel düzenlemeler değil **genel tasarım gereksinimleri** olduğunu bulmuştur: yapılandırılmış ödevler, küçük ve tutarlı ekipler, açık roller.
 
@@ -102,6 +103,7 @@ Nöroçeşitlilik, [[special-education]], [[inclusive-learning]], [[universal-de
 - [[student-modeling]]
 
 ## Bağlı makaleler
+- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Nöro-kapsayıcı ilkokul sınıfları için eğitim teknolojisinde eğitim değerini yeniden çerçevelemek: bir kapsam derlemesi
 
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Üretici YZ, sanal gerçeklik ve ötesi: yükseköğretimdeki nörofarklı öğrenciler için dijital yardımcı teknolojilere ilişkin kapsam derlemesi
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Engelli öğrenciler için YZ’ye ilişkin 29 çalışma ve kategoriye göre değişen bir etki

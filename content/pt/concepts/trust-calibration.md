@@ -1,7 +1,7 @@
 ---
 title: Calibração da confiança
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:38:41-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai]
 translation_of: concepts/trust-calibration
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T18:35:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -79,7 +79,7 @@ Uma terceira alavanca opera sobre a própria estrutura da interação: substitui
 
 [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] fornecem uma alavanca de desenho que de fato moveu a calibração: mostrar aos revisores critérios de confiabilidade codesenhados enquanto eles comparavam respostas de LLM elevou a concordância interanotadores de alfa de Krippendorff 0,3987 para 0,4931, embora a concordância reunida tenha permanecido abaixo de 0,67 e as medidas extras tenham acrescentado sobrecarga.
 
-Com agentes autônomos, o objeto da calibração muda. [[agentic-literacy-debt|Nama (2026)]] argumenta que o usuário torna-se um principal que delegou autoridade a um sistema cujas ações são em grande parte não observadas e irreversíveis, deslocando a competência de julgar saídas para compreender o que foi autorizado, supervisioná-lo e atribuir responsabilização quando ocorre dano.
+Com [[agentic-ai|agentes autônomos]], o objeto da calibração muda. [[agentic-literacy-debt|Nama (2026)]] argumenta que o usuário torna-se um principal que delegou autoridade a um sistema cujas ações são em grande parte não observadas e irreversíveis, deslocando a competência de julgar saídas para compreender o que foi autorizado, supervisioná-lo e atribuir responsabilização quando ocorre dano.
 Para crianças, a alavanca de desenho pode ser o próprio registro do agente: em uma sondagem baseada em jogo com 12 crianças de 8 a 10 anos, [[children-verification-ai-suggestions-game-2026|Liu et al. (2026)]] constataram que formulações do tipo parceiro as encaminhavam a questionar a IA diretamente, enquanto formulações do tipo ferramenta as encaminhavam a buscar evidência. Crianças que *desenham* chatbots mostram o padrão em outro registro: entre 115 aprendizes de 8 a 18 anos, os mais jovens atribuíram confiança significativamente maior, e alguns construíram deliberadamente bots que davam respostas erradas e ainda assim os avaliaram como confiáveis ([[children-design-trustworthy-ai-chatbots-2026|Ozturk et al. (2026)]]).
 
 A proveniência é tratada como requisito de primeira classe quando a IA toca a correção ou a certificação: as instituições precisam reconstruir como decisões consequentes foram tomadas e quem detinha autoridade para confirmá-las, o que um desenho de blockchain de consórcio ancora como registros à prova de adulteração de eventos educacionais, saídas de IA, ações de correção e certificados ([[large-language-models-teaching-learning-higher-ed|Li et al. (2026)]]).
@@ -98,7 +98,7 @@ A calibração da confiança é central para o [[ai-literacy|letramento em IA]] 
 
 - **Controles de confiança colocados dentro do caminho de inferência (2025):** [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang e Fang (2025)]] tratam a calibração como arquitetura, e não como reporte: a calibração por Monte Carlo dropout é combinada com [[bias-mitigation|debiasing]] adversarial e um portão de rejeitar-e-encaminhar que retém a nota quando a variância de dropout excede um limiar aprendido, alcançando um erro de calibração esperado de 0,032, uma lacuna de justiça de 1,8% e uma redução de 41% na carga de trabalho de [[human-in-the-loop-ai|revisão humana]] no TeacherEval-2023. Sua própria seção de limitações é a ressalva de calibração que vale para qualquer métrica assim: a confiança é difícil de quantificar a partir de métricas de desempenho isoladamente, a adoção pelos professores depende da confiabilidade, da justiça e da relevância [[pedagogy|pedagógica]] percebidas, e ensaios longitudinais de adoção e pesquisas de percepção são a evidência que falta.
 
-- **Construtos de confiança fragmentados, medidos principalmente por autorrelato (2026):** uma revisão sistemática rastreou 1.565 artigos e incluiu 33 estudos empíricos sobre confiança em sistemas habilitados por IA, descobrindo que 21 (63,64%) reportavam uma definição extraída de nove fontes diferentes e 24 (72,73%) mediam a confiança apenas por autorrelato, com apenas dois apoiando-se apenas em medidas comportamentais. A explicabilidade foi o fator de desenho mais estudado (20 estudos), mas seus efeitos foram mistos, já que empilhar vários tipos de explicação elevava a carga cognitiva e às vezes deixava a confiança inalterada. A recomendação da revisão é desenhar para a confiança calibrada, e não para a confiança máxima, julgada por se um desenho ajuda os usuários a separar saídas confiáveis de não confiáveis, o que é o mesmo padrão que esta página aplica ao comportamento de verificação individual ([[abramson-trust-interaction-design-ai-enabled-systems-review-2026|Abramson et al. (2026)]]).
+- **Construtos de confiança fragmentados, medidos principalmente por autorrelato (2026):** uma [[meta-analysis-systematic-review|revisão sistemática]] rastreou 1.565 artigos e incluiu 33 estudos empíricos sobre confiança em sistemas habilitados por IA, descobrindo que 21 (63,64%) reportavam uma definição extraída de nove fontes diferentes e 24 (72,73%) mediam a confiança apenas por autorrelato, com apenas dois apoiando-se apenas em medidas comportamentais. A explicabilidade foi o fator de desenho mais estudado (20 estudos), mas seus efeitos foram mistos, já que empilhar vários tipos de explicação elevava a carga cognitiva e às vezes deixava a confiança inalterada. A recomendação da revisão é desenhar para a confiança calibrada, e não para a confiança máxima, julgada por se um desenho ajuda os usuários a separar saídas confiáveis de não confiáveis, o que é o mesmo padrão que esta página aplica ao comportamento de verificação individual ([[abramson-trust-interaction-design-ai-enabled-systems-review-2026|Abramson et al. (2026)]]).
 
 - **Calibrar as inferências geradas por IA, e não os dados brutos (2026):** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl e Leuders (2026)]] argumentam que a avaliação apoiada por IA muda o objeto da calibração dos professores: uma inferência de dashboard é o resultado de interpretação algorítmica, e não uma pista que o professor observou, de modo que ela precisa ser julgada quanto à plausibilidade e então deliberadamente aceita, rejeitada ou modificada, um processo cognitivo que eles chamam de metadiagnóstico. Como os sistemas atuais repousam principalmente em dados de desempenho, como correção e tempo de conclusão, as pistas de engajamento e motivação ainda precisam vir da própria observação do professor, e os autores enquadram o alvo de treinamento como confiança calibrada, e não confiança acrítica, construída ao lado do letramento de dados e de IA. Essa é uma análise conceitual, de modo que a afirmação é argumentada, e não testada.
 
@@ -112,7 +112,7 @@ A calibração da confiança é central para o [[ai-literacy|letramento em IA]] 
 
 - **A rotação de papéis como estrutura para praticar a crítica (2026):** num estudo baseado em desenho com 62 futuros psicólogos educacionais passando por quatro papéis profissionais rotativos ao longo de oito semanas, [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al. (2026)]] fizeram os participantes compararem recomendações geradas por IA com a teoria psicológica e modificarem ou rejeitarem as que não se encaixavam no caso, mas ainda registraram dependência excessiva de respostas de IA aparentemente autorizadas, com alguns estudantes buscando confirmação da IA antes de oferecer sua própria interpretação, mesmo em ciclos posteriores. A rotação cria ocasiões repetidas para o julgamento de aceitar ou rejeitar sem garanti-lo, e o estudo reporta engajamento durante a intervenção, e não ganhos de competência medidos.
 
-- **Pistas superficiais de identidade movem a confiança independentemente da capacidade.** Ao longo de dois experimentos (N = 396), os estudantes avaliaram avatares brancos — e avatares masculinos asiáticos em STEM — como mais credíveis e competentes, penalizaram avatares de mulheres negras mais velhas em todas as medidas, e adotaram orientação do mesmo grupo racial mais prontamente ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
+- **Pistas superficiais de identidade movem a confiança independentemente da capacidade.** Ao longo de dois experimentos (N = 396), os estudantes avaliaram [[ai-avatars-and-synthetic-instructors|avatares]] brancos — e avatares masculinos asiáticos em STEM — como mais credíveis e competentes, penalizaram avatares de mulheres negras mais velhas em todas as medidas, e adotaram orientação do mesmo grupo racial mais prontamente ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
 - **Um rótulo de fonte move a aceitação sem melhorar a discriminação.** Quando 103 participantes julgaram respostas rotuladas como ChatGPT ou computador, a aceitação foi maior sob o rótulo ChatGPT (68,0% versus 63,4%, p = 0,002), mas a detecção de sinal não encontrou diferença de fonte em sensibilidade (p = 0,930) nem em critério (p = 0,082) ([[chatgpt-source-cue-answer-acceptance-2026|Fabio, Rantuccio e Bruno, 2026]]). O rótulo eleva a confiança sem elevar a acurácia.
 - **A dependência é uma decisão com preço, não apenas uma crença.** Em um benchmark de 324 cenários, cinco de sete modelos compraram verificação com valor esperado de informação zero ou compraram salvaguardas em excesso, e fornecer posteriores explícitos corrigiu alguns erros enquanto criava outros ([[llm-calibrated-reliance-imperfect-partners-2026|Chu e Huang (2026)]]).
 
@@ -136,6 +136,10 @@ A calibração da confiança é central para o [[ai-literacy|letramento em IA]] 
 - Meça a dependência apropriada como um desfecho comportamental contra a verdade de referência, e não como uma pontuação de confiança. As duas se correlacionam negativamente no único estudo que mediu ambas.
 - Relate as taxas de recuperação dos participantes inicialmente errados separadamente da acurácia geral, porque o agregado esconde o número abaixo do acaso que mais importa.
 
+**Os aprendizes que parecem mais resilientes são os que mais confiaram na ferramenta.** Em uma pesquisa com 300 estudantes universitários sul-coreanos, [[kim-overtrust-ai-literacy-2026|Kim, Kim e Zhang (2026)]] constataram que a confiança excessiva se correlacionava com a [[self-efficacy|autoeficácia]] acadêmica (r = 0,230), a [[motivation|motivação]] intrínseca (r = 0,224) e a expectativa de desempenho (r = 0,360), e não com o letramento em IA (r = 0,051). No modelo serial, a autoeficácia previu a confiança excessiva diretamente em B = 0,3901 (IC 95% [0,2190, 0,5612]), acima de seu efeito total de 0,3397, o que os autores leem como supressão. A calibração não pode ser lida a partir da confiança de quem aprende.
+
+A calibração é um estado, não um desfecho, e o desfecho que ela licencia tem página própria. [[automation-bias]] documenta o erro específico de aceitar um julgamento automatizado sem verificá-lo: um professor que aceita um alerta de dashboard pelo valor de face, ou um avaliador que aceita uma nota de máquina em uma redação que não releu.
+
 ## Ideias equivocadas comuns
 
 **"Mais confiança significa melhor uso da ferramenta."** Confiança e calibração divergem, e a correlação corre no sentido errado. Entre **432 estudantes de graduação** que resolviam problemas de Python com sugestões de IA acuradas e deliberadamente enganosas, uma confiança maior previu **menor** dependência apropriada (**r = −,42**), e os estudantes aceitaram **86,03%** das sugestões enganosas. Confiança generalizada não é a meta; confiança correspondente é.
@@ -144,12 +148,13 @@ A calibração da confiança é central para o [[ai-literacy|letramento em IA]] 
 
 **"A calibração pode ser corrigida depois do fato."** A alavanca é protetiva, não corretiva. Participantes que começaram com um julgamento errado recuperaram a decisão correta em apenas **30,6%** e **24,7%** dos ensaios — abaixo do acaso para uma escolha binária. Uma vez que um estudante se compromete com o modelo errado, a correção é pouco confiável, então a intervenção tem de acontecer antes do compromisso, e não depois.
 
-**"Verificar é fácil, então estudantes que se importam vão verificar."** Verificar é barato e raramente feito. Em um estudo de rastreamento passivo com **900 adultos nos EUA**, leitores que viram um resumo gerado por IA clicaram em uma fonte citada dentro dele em apenas **1% das visitas**, e clicaram em qualquer link de resultado cerca de metade das vezes que leitores que não viram resumo algum. O resumo suprime a verificação em vez de provocá-la, de modo que a verificação precisa ser construída na tarefa, e não presumida da diligência.
+**"Verificar é fácil, então estudantes que se importam vão verificar."** Verificar é barato e raramente feito. Um painel de rastreamento passivo de **900 adultos nos EUA** mostra a mesma supressão: leitores que receberam um resumo gerado por IA seguiram uma fonte citada dentro dele em apenas **1% das visitas**, e abriram qualquer link de resultado com metade da frequência daqueles que não viram resumo. O resumo suprime a verificação em vez de [[prompt-engineering|provocá-la]], de modo que a verificação precisa ser construída na tarefa, e não presumida da diligência.
 
 **"Apresentação e substância podem ser separadas por um leitor cuidadoso."** A fluência é o que conquista confiança não merecida, e é por isso que a calibração é um problema de desenho e não apenas uma habilidade de quem aprende. Um sistema cuja interface sinaliza autoridade será confiado nesse nível, independentemente de instruções em contrário.
 
 ## Conceitos conectados
 
+- [[automation-bias]] — o erro de aceitação que a confiança descalibrada licencia
 - [[explainable-ai]]
 - [[ai-literacy]]
 - [[cognitive-offloading]]
@@ -167,7 +172,7 @@ A calibração da confiança é central para o [[ai-literacy|letramento em IA]] 
 ## Artigos conectados
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Calibração reenquadrada: reter a posição do sistema é protetivo, e não corretivo
 - [[children-verification-ai-suggestions-game-2026]] — Comportamentos de verificação de crianças na colaboração humano-IA baseada em jogos
-- - [[student-perspectives-ai-writing-grading-2026]] — Perspectivas dos estudantes sobre a avaliação de escrita transparente assistida por IA (AlGhamdi 2026)
+- [[student-perspectives-ai-writing-grading-2026]] — Perspectivas dos estudantes sobre a avaliação de escrita transparente assistida por IA (AlGhamdi 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Seis critérios diagnósticos que separam a dependência produtiva da dependência prejudicial (Du & Yuan 2026)
 - [[icet-ml-education-trust-2026]] — Abordando a confiança em sistemas de IA por meio da educação: uma perspectiva didática
 - [[pearls-epistemic-verification-2026]] — framework PEARLS para agência epistêmica e verificação da saída de IA (Wang 2026)
@@ -178,6 +183,7 @@ A calibração da confiança é central para o [[ai-literacy|letramento em IA]] 
 - [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — Quando o conselho de IA concorda ou discorda do julgamento humano: confiança, autoeficácia, resiliência psicológica e respostas adaptativas na educação física
 - [[agentic-literacy-debt]] — Dívida de letramento agêntico: a lacuna estrutural de letramento em IA decorrente de agentes autônomos (Nama 2026)
 - [[trust-reliance-ai-education-2026]] — Confiança e dependência da IA na educação
+- [[kim-overtrust-ai-literacy-2026]] — A confiança excessiva correlacionada com autoeficácia e expectativa de desempenho, mas não com letramento em IA, em 300 estudantes
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrando a confiabilidade: codesenhando métricas para LLMs na educação
 - [[llm-fallacy-misattribution]] — A falácia do LLM e a atribuição errônea de competência
 - [[ai-partner-science-epistemic-vigilance]] — A vigilância epistêmica como chave para a ampliação produtiva

@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [designing-educational-ai-software]
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 translation_of: concepts/edtech-platform
-source_updated: "2026-10-25T17:00:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Edtech Platformu** — bir YZ yeteneğinin öğrenenlere ve eğitimcilere ulaştırıldığı dijital sistemler, öğrenme yönetim sistemleri (LMS), özel ders sistemleri ve çevrimiçi öğrenme ortamları. Eğitimde YZ bağlamında platform, bir YZ kapasitesinin öğrencilere ulaşıp ulaşmadığını, nasıl konuşlandırıldığını (açık mı özel mı, bütünleşik mi bağımsız mı) ve kimlerin ona erişebileceğini, uyarlayabileceğini ve değerlendirebileceğini belirleyen *altyapı katmanıdır*. Bu bilgi tabanındaki araştırmalar platformları birden fazla açıdan incelemektedir: tasarımları, benimsenme ve katılım kısıtları, kurumsal yönetişimleri ve eşitlik etkileri. ([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
+> **Edtech Platformu** — bir YZ yeteneğinin öğrenenlere ve eğitimcilere ulaştırıldığı dijital sistemler, öğrenme yönetim sistemleri (LMS), özel ders sistemleri ve [[online-teaching-and-learning|çevrimiçi öğrenme]] ortamları. [[ai-education|Eğitimde YZ]] bağlamında platform, bir YZ kapasitesinin öğrencilere ulaşıp ulaşmadığını, nasıl konuşlandırıldığını (açık mı özel mı, bütünleşik mi bağımsız mı) ve kimlerin ona erişebileceğini, uyarlayabileceğini ve değerlendirebileceğini belirleyen *altyapı katmanıdır*. Bu bilgi tabanındaki araştırmalar platformları birden fazla açıdan incelemektedir: tasarımları, benimsenme ve katılım kısıtları, kurumsal yönetişimleri ve eşitlik etkileri. ([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
 
 ## Üzerinde Düşünülebilecek Sorular
 
@@ -31,7 +31,7 @@ ai_assist:
 - Bir çalışma, öğrencilerin neredeyse yarısının iyi tasarlanmış bir YZ özel ders platformunu hiç kullanmadığını ve yoğun kullanıcıların daha yüksek başarılı öğrencilere doğru yığıldığını buldu. Bir araç “ilke olarak” etkiliyse ama öğrenciler onu kullanmıyorsa, asıl sorun yetenek mi yoksa platform mu? Bu, edtech’i değerlendirme biçiminiz için ne anlama gelirdi?
 - Özel mülk YZ platformları araştırmacıları bir avuç kapalı sisteme hapsedebilirken, OATutor gibi açık platformlar herkesin çatallamasına (fork), denemeler yapmasına ve yayımlamasına izin verir. YZ eğitimi kapalı, opak platformlar aracılığıyla sunulduğunda — araştırma, eşitlik ve kurumsal özerklik açısından — ne kaybedilebilir?
 - Bir platformun iş modeli — kimin ödediği, verinin kimin olduğu, neyin optimize edildiği — üzerinde gerçekte yaşanan öğrenmeyi ne ölçüde şekillendirir? Bu etkiyi görmek için nereye bakardınız?
-- Bazı yeni “YZ-mayın” platformlar, birçok öğrenciye tek bir video sunan MOOC modelini her öğrenci etrafında kurulmuş çok ajanlı bir sınıfla değiştiriyor. Devam etmeden önce, öğretim ajanlarla bire bir, öğretmenlerle birden çoğa dönüştüğünde neyi kaybetmekten kaygılanırdınız?
+- Bazı yeni “YZ-mayın” platformlar, birçok öğrenciye tek bir video sunan MOOC modelini her öğrenci etrafında kurulmuş [[agentic-ai|çok ajanlı]] bir sınıfla değiştiriyor. Devam etmeden önce, öğretim ajanlarla bire bir, öğretmenlerle birden çoğa dönüştüğünde neyi kaybetmekten kaygılanırdınız?
 
 ## Giriş
 
@@ -61,7 +61,7 @@ Sınırlayıcı etken, YZ’nin platformun içinde nerede durduğudur: 6.000 ö�
 
 ### Eğitimcilerin hangi araçları kullandığını bildirdikleri ve erişimi neyin kapattığı
 
-Dokuz ülkeden 211 eğitimciyle kurulmuş 2026 tarihli bir tipolojiden gelen nadir bir sayım, sınıflara ulaşan araçların orantısız biçimde ücretsiz kademeye sahip olanlar olduğunu göstermektedir; çünkü herkesin erişebileceği ücretsiz bir sürüm, kabul ölçütü olarak belirlenmiştir ve en çok aday gösterilen girdiler amaca özgü platformlardan çok genel amaçlı asistanlar ve medya üreticileridir. Listelenen elli aracın yaklaşık yarısı görsel, ses, video veya slayt üretmektedir; belge temelli asistanlar (NotebookLM, Elicit, SciSpace, Humata, Research Rabbit) ise araştırma kategorisindeki en tutarlı kümeyi oluşturmaktadır. Özel [[intelligent-tutoring|özel ders]] sistemler, bildirilen kullanımın merkezinde değil, küçük ve derse özgü bir grup olarak görünür — bu durum yukarıdaki kullanım sorununu daha geniş bir çerçeveye yerleştirir; burada bir platform, öğrencilerin ve öğretmenlerin halihazırda açık tuttukları genel amaçlı araçlara karşı dikkat için yarışır. ([[typology-generative-ai-tools-education-2026]])
+Dokuz ülkeden 211 eğitimciyle kurulmuş 2026 tarihli bir tipolojiden gelen nadir bir sayım, sınıflara ulaşan araçların orantısız biçimde ücretsiz kademeye sahip olanlar olduğunu göstermektedir; çünkü herkesin erişebileceği ücretsiz bir sürüm, kabul ölçütü olarak belirlenmiştir ve en çok aday gösterilen girdiler amaca özgü platformlardan çok genel amaçlı asistanlar ve medya üreticileridir. Listelenen elli aracın yaklaşık yarısı görsel, ses, video veya slayt üretmektedir; belge temelli asistanlar (NotebookLM, Elicit, SciSpace, Humata, Research Rabbit) ise araştırma kategorisindeki en tutarlı kümeyi oluşturmaktadır. Özel [[intelligent-tutoring|özel ders]] sistemler, bildirilen kullanımın merkezinde değil, küçük ve [[discipline-specific-aied|derse özgü]] bir grup olarak görünür — bu durum yukarıdaki kullanım sorununu daha geniş bir çerçeveye yerleştirir; burada bir platform, öğrencilerin ve öğretmenlerin halihazırda açık tuttukları genel amaçlı araçlara karşı dikkat için yarışır. ([[typology-generative-ai-tools-education-2026]])
 
 ### Platform modeli önemlidir: açık mı özel mülk mü
 
@@ -75,11 +75,15 @@ Dokuz ülkeden 211 eğitimciyle kurulmuş 2026 tarihli bir tipolojiden gelen nad
 
 ### YZ-mayın platformlar çevrimiçi eğitimi yeniden şekillendiriyor
 
-Platform paradigmasının kendisi evrim geçiriyor. **MAIC** (Massive AI-empowered Course — YZ Güçlendirmeli Kitlesel Kurs), MOOC’un “N öğrenciye bir video” modelini, öğrenci başına bir ajan anlamına gelen LLM tabanlı çok ajanlı bir sınıfla — “1 öğrenciye N ajan” — değiştirir; uzmanlaşmış Öğretmen, Asistan, Sınıf Arkadaşı ve Çözümleyici ajanlarını kullanarak ölçekte kişiselleştirilmiş, uyarlanabilir öğrenme sunar ve kurs üretimini ~\\$25K/60 saatten 2 \\$’ın altında/30 dakikaya indirir. ([[mooc-to-maic]]) Benzer biçimde, YZ ile bütünleşen LMS tasarımları, yalnızca iş akışı platformlarının ötesine geçerek politika kapılı (sınırlı) YZ, biçimlendirici ipucu verme, aralıklı tekrar ve öğretmen panolarıyla gerçek zamanlı öğretim desteğine geçmeyi önermektedir. ([[ai-lms-middle-school-longitudinal]]) Konuşlandırma yelpazesinin diğer ucunda, sınıfa gömülü YZ’nin canlı fiziksel ortamlarda uygulanabilir olduğunu kanıtlaması gerekir. Community Builder ([[breideband-community-builder-cobi-2026|CoBi]]) — konuşma tanıma ve dil anlama kullanarak küçük grup işbirlikçi söylemini görselleştiren, sınıf geneline yayılan bir platform — gürültülü ortaokul sınıflarında piyasa mikrofonları ve ölçeklenebilir bir bulut hattı kullanılarak başarılı biçimde konuşlandırılmış; gerçek zamanlı konuşma-YZ altyapısının özgün K-12 ortamlarında işleyebildiğini göstermiştir; ancak arayüz uyumsuzlukları (öğretmenin ve öğrencinin geri bildirimin grup mu sınıf düzeyinde mi olduğuna ilişkin görüşleri) konuşlandırma sürtünmesi yaratmıştır.
+Platform paradigmasının kendisi evrim geçiriyor. **MAIC** (Massive AI-empowered Course — YZ Güçlendirmeli Kitlesel Kurs), MOOC’un “N öğrenciye bir video” modelini, öğrenci başına bir ajan anlamına gelen [[llm|LLM]] tabanlı çok ajanlı bir sınıfla — “1 öğrenciye N ajan” — değiştirir; uzmanlaşmış [[teacher-role|Öğretmen]], Asistan, Sınıf Arkadaşı ve Çözümleyici ajanlarını kullanarak ölçekte kişiselleştirilmiş, uyarlanabilir öğrenme sunar. Kurs üretimini ~\\$25K/60 saatten 2 \\$’ın altında/30 dakikaya indirir. ([[mooc-to-maic]]) Benzer biçimde, YZ ile bütünleşen LMS tasarımları, yalnızca iş akışı platformlarının ötesine geçerek politika kapılı (sınırlı) YZ, biçimlendirici ipucu verme, aralıklı tekrar ve öğretmen [[visualization|panolarıyla]] gerçek zamanlı öğretim desteğine geçmeyi önermektedir. ([[ai-lms-middle-school-longitudinal]]) Konuşlandırma yelpazesinin diğer ucunda, sınıfa gömülü YZ’nin canlı fiziksel ortamlarda uygulanabilir olduğunu kanıtlaması gerekir. Community Builder ([[breideband-community-builder-cobi-2026|CoBi]]) — [[speech-and-voice-technologies|konuşma tanıma]] ve dil anlama kullanarak küçük grup işbirlikçi söylemini görselleştiren, sınıf geneline yayılan bir platform — gürültülü ortaokul sınıflarında piyasa mikrofonları ve ölçeklenebilir bir bulut hattı kullanılarak başarılı biçimde konuşlandırılmış; gerçek zamanlı konuşma-YZ altyapısının özgün [[k-12]] ortamlarında işleyebildiğini göstermiştir; ancak arayüz uyumsuzlukları (öğretmenin ve öğrencinin geri bildirimin grup mu sınıf düzeyinde mi olduğuna ilişkin görüşleri) konuşlandırma sürtünmesi yaratmıştır.
 
 ### İlgi temelli ve bağlam duyarlı platform özellikleri
 
 Platformlar performans verisinin ötesinde kişiselleştirme yapabilir. **Taklif.AI**, üniversite ödevlerini öğrencilerin **ders dışı ilgi alanlarına ve kültürel bağlamlarına** göre üreten, LLM güçlü bir platformdur; [[culturally-relevant-pedagogy]] ile uyumludur ve herkese uyan tek biçimli ödevlerden ilgi güdümlü katılıma geçişi sağlar. ([[taklif-ai-interest-based-personalized-assignments]])
+
+### Genel modellerin üzerindeki amaca özgü katmanlar
+
+Platformun katkısı çoğu zaman genel bir modelin eksik bıraktığı yapıdır. [[learnmate2-llm-adaptive-learning|LearnMate^2]], bir LLM’yi çalışma planlaması, bağlam içi yardım ve performansa yanıt veren etkinliklerle sarar ve 16 katılımcılı bir karşılaştırmada iki sınavda da Khan Academy + Gemini 2.5 Pro’yu geçmiştir (M = 13,375’e karşı 10,875, p = .0126; 7,875’e karşı 5,875, p = .0012). [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]], doğal dil talimatlarını yeni başlayanlar için CoppeliaSim robot davranışına çevirir ve 108 vakada basit görevlerin %100’ünde, karmaşık görevlerin ise %88,9’unda başarılı olmuştur.
 
 ## Tasarım ve araştırma için çıkarımlar
 
@@ -98,7 +102,7 @@ Gizlilik politikaya değil hattın içine yerleştirilebilir: anonimleştirilmi�
 
 **“Benimseme girişlerle ölçülür.”** Bilgilendirici boşluk mesaj düzeyindedir, hesap düzeyinde değil. Aynı denemede mesajların yalnızca **~%14,5’i gerçek bir matematiksel soru** taşımıştır. Öğrencilerin %96’sı erişim olayını oluşturmuş; etkileşimlerinin yaklaşık yedide biri entelektüel işi yapmıştır. Burada bir giriş sayısı bildirmek, var olmayan bir başarıyı betimlemek olurdu.
 
-**“Açık ya da tescilli olmak, sonuçları etkilemeyen bir lisans ayrıntısıdır.”** Platform modeli, kurumların sistemle neler yapabileceğini şekillendirir: OATutor gibi [[open-source|açık]] platformlar, MIT lisanslı, Creative Commons cebir içerik kütüphaneli, [[knowledge-tracing]] ustalık tahminli ve yerleşik A/B testli uyarlanabilir bir öğretmen olarak bir bölümün kendi pedagojisini ölçmesine ve değiştirmesine izin verir; kapalı bir platform bunu yapamaz. Lisans, deneyi kimin yürütebileceğini belirler.
+**“Açık ya da tescilli olmak, sonuçları etkilemeyen bir lisans ayrıntısıdır.”** Platform modeli, kurumların sistemle neler yapabileceğini şekillendirir: OATutor gibi [[open-source|açık]] platformlar, MIT lisanslı, Creative Commons cebir içerik kütüphaneli, [[knowledge-tracing]] ustalık tahminli ve yerleşik A/B testli uyarlanabilir bir öğretmen olarak bir bölümün kendi [[pedagogy|pedagojisini]] ölçmesine ve değiştirmesine izin verir; kapalı bir platform bunu yapamaz. Lisans, deneyi kimin yürütebileceğini belirler.
 
 **“Bir kurumda işleyen bir platform, benimsendiği gibi işler.”** Platform etkileri yerel yönetişimden geçer: gizlilik öncelikli mimari, veri asgarileştirmesi, denetlenebilir günlükler ve role dayalı erişim, YZ bütünleşik bir platformu konuşlandırılabilir kılan şeylerdir ve bunlar bir satıcı gösteriminden çıkarılabilecek özellikler değil, kurumsal kararlardır.
 

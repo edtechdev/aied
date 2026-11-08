@@ -8,7 +8,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,8 @@ Buradaki motivasyonel kazancı kolaylık değil özerklik taşımıştır. Üç 
 
 Zıt bir sınıf sonucu, ihtiyaçların birlikte hareket etmediğini gösterir: 2.464 ortaokul öğrencisi arasında, ChatGPT destekli yetkinlik temelli öğrenme, özerklik desteğini ve yetkinlik doyumunu yükseltti, öte yandan düşük kaliteli motivasyon profillerinin daha büyük bir payını üretti ve bağlılık doyumu, YZ olmayan yetkinlik temelli öğrenmedekinden daha zayıftı ([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]]).
 
+- **Erişilebilirlik kullanım demek değildir.** 5–8. sınıflarda 406 öğrenci iki kez yazdı, bir kez dijital araçlar olmadan ve bir kez üretken YZ isteğe bağlıyken; özerklik doyumu düştü (Δ = −0,28), ortalama düzenleme sabit kaldı ve YZ kullanım derecesi hiçbir profil üyeliğini yordamadı ([[schweder-motivational-organization-ai-writing-sdt-2026|Schweder ve Grahl (2026)]]).
+
 Yapılandırmasal bir test noktayı keskinleştirir: 498 tıp lisans öğrencisi arasında, üretici YZ kullanımı yalnızca zayıf biçimde ihtiyaç doyumuyla ilişkiliydi (β = 0,155) ve yüksek katılım için gereksiz olduğu kanıtlandı, oysa yetkinlik ihtiyacı doyumu, en güçlü yapılandırmada çekirdek koşuldu ([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
 
 **Öğrenme ikliminden YZ kullanımına çift yol.** [[dual-ai-learning-pathways-sdt-2026|Shen and Arunrugstichai (2026)]], üretici YZ kullanımının neden yapıcı destekten zorlayıcı bağımlılığa uzandığını açıklamak için SDT'yi davranışsal katılımın Hook modeliyle tümler. Farklı lise geçmişine ve güncel bağlamlara (Çin ve Tayland) sahip **508 üniversite öğrencisinden** oluşan enine kesit anket verisinde, **lise baskısı ile özerklik desteğinin** geriye dönük raporları, öğrencilerin üniversiteye izledikleri iki yoldan hangisini izlediklerini farklı yönetti — biri yapıcı, özerk üretici YZ kullanımına, diğeri zorlayıcı bağımlılığa — sonuçlar bağlamlar arası çok gruplu analizlerde tutarlı. Model, SDT motivasyon süreçlerini YZ destekli öğrenmenin algılanan kalitesine bağlar; özerklik desteğini, öğrencileri verimli yerine bağımlı YZ kullanımına yönlendiren bir kaldıraç olarak çerçeveler.
@@ -56,19 +58,21 @@ Yapılandırmasal bir test noktayı keskinleştirir: 498 tıp lisans öğrencisi
 
 Öğretmenlerin kendileri için YZ işbirliği iki ucu keskin bir iş görür: 468 üniversite öğretmeninin katıldığı üç dalgalı bir çalışma, bunun psikolojik erişilebilirlik yoluyla iş katılımını yükseltirken iş yabancılaşması yoluyla düşürdüğünü buldu ve [[teacher-ai-competency|digital competency]] birinci yolu güçlendirip ikinciyi zayıflattı ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 
-Bir ortak-etkililik çerçevesi, SDT'nin YZ aracılı eğitimdeki erişimini sınırlar: özerkliğin, yetkinliğin ve bağlılığın ortaya çıktığı koşulları değiştirir, güç eşitliğini, veri mülkiyetini ve hesap verebilirliği ise ele alınmamış bırakır; bu nedenle yazarları, insan epistemik hesap verebilirliğini kuramın dışında pazarlık dışı bir koşul olarak belirler ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
+Bir ortak-etkililik çerçevesi, SDT'nin YZ aracılı eğitimdeki erişimini sınırlar: özerkliğin, yetkinliğin ve bağlılığın ortaya çıktığı koşulları değiştirir, [[equity-in-ai-education|güç eşitliğini]], veri mülkiyetini ve hesap verebilirliği ise ele alınmamış bırakır; bu nedenle yazarları, insan epistemik hesap verebilirliğini kuramın dışında pazarlık dışı bir koşul olarak belirler ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
 
-**Çocukların üretici YZ kullanımı için çerçeve olarak özerklik desteği.** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]], sorumlu kullanım sorusunu kısıtlamadan ihtiyaç desteğine taşır; önemli olan ayrımın, bir çocuğun çevresindeki yetişkinlerin özerkliği kontrol etmek yerine destekleyip desteklemediği olduğunu savunur ve bağımlı ile özerk [[cognitive-offloading]] SDT terimleriyle ayırır: bağımlı dışa devretme, [[agency]] devreder ve içsel motivasyonu düşürür; özerk dışa devretme, öğrenen epistemik denetimi elinde tutarken iskeleleme yapar. Derlemenin iki özelliği doğrudan SDT uygulamasına ilişkindir: özerklik desteğinin müsamahasızlık olmadığını ısrarla vurgular ve güncel rehberliğin varsaydığı aile-okul koordinasyonunu test edilmemiş bir hipotez olarak ele alır; yalnızca aile-özel, okul-özel, koordineli ve olağan uygulama rehberliğini karşılaştıran bir etkileşimli deneyin ayırt edebileceği toplayıcı, birlikte işleyen ve telafi edici sürümleri resmîleştirir.
+**Çocukların üretici YZ kullanımı için çerçeve olarak özerklik desteği.** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]], sorumlu kullanım sorusunu kısıtlamadan ihtiyaç desteğine taşır; önemli olan ayrımın, bir çocuğun çevresindeki yetişkinlerin özerkliği kontrol etmek yerine destekleyip desteklemediği olduğunu savunur ve bağımlı ile özerk [[cognitive-offloading]] SDT terimleriyle ayırır: bağımlı dışa devretme, [[agency]] devreder ve içsel motivasyonu düşürür; özerk dışa devretme, öğrenen epistemik denetimi elinde tutarken [[scaffolding|iskeleleme]] yapar. Derlemenin iki özelliği doğrudan SDT uygulamasına ilişkindir: özerklik desteğinin müsamahasızlık olmadığını ısrarla vurgular ve güncel rehberliğin varsaydığı aile-okul koordinasyonunu test edilmemiş bir hipotez olarak ele alır; yalnızca aile-özel, okul-özel, koordineli ve olağan uygulama rehberliğini karşılaştıran bir etkileşimli deneyin ayırt edebileceği toplayıcı, birlikte işleyen ve telafi edici sürümleri resmîleştirir.
 
 ## İlgili kavramlarla bağlantılar
 
 SDT, ana yapısı olarak [[motivation]], duygu farkında YZ tasarımı için [[affective-computing]] ve [[affective-tutoring]]e ve öğrenenlerin YZ aracılı ortamları nasıl deneyimlediğine ilişkin olarak [[student-experience]] doğrudan bağlanır. Kuramın özerklik vurgusu, [[self-regulated-learning]] bağlanır; yetkinlik boyutu ise [[self-efficacy-tutoring-learning]] ve [[teacher-ai-competency]] bağlanır. SDT, [[professional-training]] ve [[educational-development]] için özellikle ilgilidir, çünkü ihtiyaç destekli tasarım, eğitimcileri YZ kullanımına hazırlamada aktarılabilir bir ilkedir.
 
+**Üç ihtiyaç üretken YZ araştırmasında eşit ölçüde işletilmiyor.** [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna ve Jiang (2026)]], 39 çalışmayı 20 etkinlikten oluşan bir sınıflandırmaya göre kodladı ve 14 etkinliğin mevcut olduğunu buldu; yetkinlikle ilgili yedi tür, özerklik için beş ve bağlılık için iki tür vardı. Altı etkinlik hiçbir çalışmada yoktu ve çoğu öğrenciden aracı yargılamasını ya da ona meydan okumasını istiyor: zorlayıcı problemler oluşturmak, aracın çıktılarını önceden tahmin etmek, bu çıktıları notlamak ve onunla tartışmak. Bağlılık, literatürün en az sınadığı ihtiyaçtır.
+
 ## Yaygın yanlış anlamalar
 
 - **“Motivasyonun türü, miktarından daha az önemlidir.”** Bir yıl süren bir çalışma, **üç motivasyonel profil (İlgisiz, Gelişen, Öz Belirleyici) bulmuş ve bunlar zaman içinde kararlı kalmıştır**; **Öz Belirleyici** profile ulaşan öğrenciler **en büyük [[ai-literacy]] kazanımlarını** göstermiştir. Öğrenmeyi öngören motivasyonun niteliğiydi ve profiller yalnızca yukarı doğru kaymamıştır.
 - **“Özerklik desteği, yapıyı kaldırmak demektir.”** SDT’nin mekanizması özerklik, yetkinlik ve bağlılığın birlikte işlemesidir ve boylamsal kanıt, bunların karşılanmasının kazanımlara yalnızca eşlik etmediğini, onları öngördüğünü göstermektedir. Yetkinlik desteği olmayan özerklik müsamahakârlıktır ve kuramın koşullarını karşılamaz.
-- **“Bir sohbet robotu üç ihtiyacı otomatik olarak sağlayabilir.”** Bir çalışma, ChatGPT’nin dil öğreniminde özerkliği, bağlılığı ve yetkinliği destekleyebildiğini bulmuştur; bu bir olanak, bir özellik değildir. Belirli bir etkileşimin bunları destekleyip desteklemediği, nasıl kullanıldığına ilişkin ampirik bir sorudur.
+- **“Bir [[conversational-ai|sohbet robotu]] üç ihtiyacı otomatik olarak sağlayabilir.”** Bir çalışma, ChatGPT’nin dil öğreniminde özerkliği, bağlılığı ve yetkinliği destekleyebildiğini bulmuştur; bu bir olanak, bir özellik değildir. Belirli bir etkileşimin bunları destekleyip desteklemediği, nasıl kullanıldığına ilişkin ampirik bir sorudur.
 
 ## Bağlı kavramlar
 
@@ -88,6 +92,9 @@ SDT, ana yapısı olarak [[motivation]], duygu farkında YZ tasarımı için [[a
 ## Bağlı makaleler
 
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — İpucu esirgeme özerkliği korudu, yanıt verme korumadı
+- [[schweder-motivational-organization-ai-writing-sdt-2026]] — 5–8. sınıflarda YZ erişilebilirliği, özerklik düşüşü ve motivasyon profilleri (Schweder ve Grahl 2026)
+
+- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 20 etkinlikten oluşan bir sınıflandırmaya göre kodlanan 39 çalışma; en çok yetkinlik, en az bağlılık işletiliyor
 - [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
 - [[dual-ai-learning-pathways-sdt-2026]] — Lise baskısı/özerklik desteği ve çift YZ öğrenme yolu (Shen & Arunrugstichai 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]

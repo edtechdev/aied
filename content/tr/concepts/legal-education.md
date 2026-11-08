@@ -14,7 +14,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -40,13 +40,16 @@ Hukuk eğitimi, kendi davranış kurallarına, kendi akreditasyon kurumuna ve ke
 
 Kanıt tabanı şu anda ince ve politika ağırlıklıdır. Sayfayı belirleyen önemli bir makale vardır: [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski ve Hurley (2025)]], ABA onaylı ABD hukuk fakültelerindeki kurumsal üreten YZ politikalarını incelemiş, karşılaştırmış ve bir yönetişim çerçevesi önermiştir. Bu dengesizliğin kendisi bir bulgudur ve sayfa bunu görmezden gelmek yerine açıkça belirtir.
 
+Deneysel kanıt akmaya başlıyor: [[xie-genai-mystery-game-legal-education-2026|Xie ve ark. (2026)]], 84 hukuk lisans öğrencisini üreten YZ tarafından yazılmış bir gizem rol yapma oyununa ya da aynı eğitmenin dersine rastgele atadı ve oyun grubu bilgi ve muhakeme son testinde çok daha yüksek puan aldı (kısmi *η*² = 0,566).
+
 ## YZ’nin hukuk eğitiminde ortaya çıkış biçimi
 
 - **Hukukî araştırma.** Lexis+ AI ve CoCounsel içeren Westlaw Precision gibi ticari platformlar, öğrencilerin zaten eğitim aldığı araçlara üreten YZ özellikleri gömerek "YZ kullanımı"nı sıradan veri tabanı aramasından ayırmayı zorlaştırır. Gutowski ve Hurley bunun tanıdık iş akışının ne kadarını sıkıştırdığına dikkat çeker: yetki alanlarını ve ikincil kaynakları saatler değil dakikalar içinde belirlemek.
 - **Taslak ve yazım desteği.** İlk dava özetleri, anahatlar, muhtıralar, ilk aşama sentezleri ile cümle düzeyinde açıklık ve dilbilgisi geri bildirimi. Yazarlar, YZ tarafından üretilen çıktıyı bir hukuk müşaviri veya kıdemsiz avukatın çıktısıyla aynı denetim ilişkisine yerleştirir: avukat onun doğruluğu ve hukukî yeterliliğinden sorumlu kalır.
 - **Çalışma ve bar hazırlığı.** Zamanlı pratik için alıştırma soruları, olgu örüntüleri ve "hipotetikler" üretmek; tekrarlayan zayıf yönler üzerine özel ders vermek. Gutowski ve Hurley bunu, üreten YZ’nin hem Bar Exam’i hem Multistate Professional Responsibility Exam’i geçtiğine ilişkin gözlemle eşleştirir; bunu model hakkındakinden çok, asgari yeterlilik sınırı hakkında bir şey söylüyor biçiminde okurlar.
 - **Genel görev profilleri, sıralama listesi değil.** Kör bir protokolde, insan bar sınavı düzeyine ulaşan aynı kutudan çıkan modellerin (100 üzerinden 26–79 birikimli puanlar) tamamı noter sınavında başarısız oldu; bu sınav, katı biçimsel kısıtlar altında hedefe yönelik hukukî planlama gerektirir — ve içine bilinçli yerleştirilmiş tuzaklarla yanıltıldı ([[llm-turing-test-italian-legal-exams-2026|Bertoli ve ark. (2026)]]).
-- **Dergiler, mock court ve danışmanlık.** Başvuruları taramak, savunma hazırlamak ve geçmiş sınavlar, model cevaplar ve ders materyalleri üzerine eğitilmiş özel modelleri kullanan akademik destek programları.
+- **Dergiler, mock court ve danışmanlık.** Başvuruları taramak, savunma hazırlamak ve geçmiş sınavlar, model cevaplar ve ders materyalleri üzerine eğitilmiş özel modelleri kullanan [[student-support-and-success|akademik destek]] programları.
+- **82 eserlik bir kapsam derlemesi, çoğunlukla ampirik olmayan.** [[lorteau-sarro-ai-legal-education-2025|Lorteau ve Sarro (2025)]], 26 ülkeden 82 eseri haritalar; %74’ü 2023’ten sonra çıkmış ve yalnızca 22’si ampiriktir. Desteksiz modeller hukuk fakültesi değerlendirmelerini geçer ama öğrencilerin altında sıralanır ve performans ayrıntılı yönergeler ile sağlanan otoriteyle iyileşse de güvenilir hâle gelmez. Derlemenin pratik kullanımları üretilmiş materyaller, benzetimler, yazma koçluğu ve YZ becerileri öğretimidir; temel riski, [[assessment-validity|değerlendirmenin]] baskı noktası olduğu pasif bağımlılıktır.
 - **Değerlendirme ve dürüstlük.** Tekrarlayan problem vakaları: açıklanmayan taslak hazırlama, var olmayan bir yetki alanına atıf yapma ve artık yardımsız analizi ölçmeyen sınavlar.
 
 ## Politika kanıtının gösterdiği
@@ -60,11 +63,13 @@ Ayrıca sektörün kanıt tabanının ne kadar ince olduğunu belgeler. ABA’n�
 - **Öğretim üyesi yönetişimi, hukuk fakültelerine özgü bir güçlüktür.** Hukuk fakülteleri bireysel ve toplu olarak müfreda ve ders standartları üzerinde olağandışı biçimde doğrudan yetki taşır; bu nedenle politika onlara duyurulmak yerine onlarla birlikte kurulmak zorundadır.
 - **Klinik eğitim teknik değil bir [[pedagogy|pedagojik]] itiraz gündeme getirir.** Karr ve Schultz’e atıfta bulunarak, insan yanıtlarını taklit etmek üzere tasarlanan YZ araçlarının, kliniklerin üretmek için var olduğu özgün muhakeme yetisi, müvekkil ilişkisi ve [[ethics|etik]] karar alma becerilerini geliştirmediği, dolayısıyla klinik derslerde hiç kullanılmaması gerektiği görüşünü bildirir.
 
-Öneriler usule yöneliktir: kurumsal duruş ne olursa olsun açık ve kapsamlı yönergeler, taslak hazırlığında tüm paydaşların katılımı, öğrenciler ve öğretim üyeleri için önleyici eğitim, dönemsel olarak gözden geçirilen esnek yönetişim ve ABA’nın politika dikte etmesini beklemek yerine bilgi paylaşımı yoluyla öz düzenleme.
+Öneriler usule yöneliktir: kurumsal duruş ne olursa olsun açık ve kapsamlı yönergeler, taslak hazırlığında tüm paydaşların katılımı, öğrenciler ve öğretim üyeleri için önleyici eğitim, dönemsel olarak gözden geçirilen esnek yönetişim ve ABA’nın politika dikte etmesini beklemek yerine bilgi paylaşımı yoluyla [[self-regulated-learning|öz düzenleme]].
 
 ## Disiplinin ayırt edici olduğu nokta
 
 Üç şey, hukuk eğitimini bir konu alanından fazlası yapar.
+
+Vaka yöntemi, daha geniş [[case-based-learning]] ailesinin bir üyesidir; o sayfa hazırlanmış vakaları ve vaka tartışmasını probleme dayalı sorgulamadan ve benzetimden ayırır.
 
 **Değerlendirme geçerliliği mesleki yeterlilikten ayrılamaz.** Hukuk fakültesi döneminde [[cognitive-offloading|aşırı dış kaynak kullanımının]] mezunları bağımsız hukukî analiz ve savunma gerektiren işe hazırlıksız bırakmasından korkulmaktadır; akıcı çıktıyı ödüllendiren notlandırma, bir öğrencinin kavrayışını bir modelinkinden ayırt edemez. [[assessment-validity|Geçerlilik]] sorunu bu nedenle akademik değildir.
 
@@ -103,6 +108,7 @@ Hukuk bağlamında bir deneyde, mahkeme hukuk davalarında 186 meslekten olmayan
 - [[ai-literacy]] — mesleki bir görev olarak teknolojik yeterlilik
 - [[hallucination-risk]] — alanın ayırt edici başarısızlığı olarak uydurma atıflar
 - [[legal-issues-and-risks]] — yönetişim başarısız olduğunda kurumların karşı karşıya kaldıkları
+- [[case-based-learning]] — bir pedagoji olarak vaka yöntemi ve vaka tartışması
 
 ## Bağlı makaleler
 
@@ -110,3 +116,6 @@ Hukuk bağlamında bir deneyde, mahkeme hukuk davalarında 186 meslekten olmayan
 - [[llm-turing-test-italian-legal-exams-2026]] — İtalyan bar, hâkim ve noter sınavları üzerine kör Turing testi, uzman notlandırmasına karşı ölçülmüş
 
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Sistemin kendi konumunu saklaması, hukuk bağlamındaki kararlarda aşırı güvenmeyi bastırır ama yargı oluşturmaz (hukuk öğrencileri değil, meslekten olmayan karar vericiler)
+- [[lorteau-sarro-ai-legal-education-2025]] — Hukuk eğitiminde yapay zeka: 82 eserlik bir kapsam derlemesi (Lorteau ve Sarro 2025)
+- [[xie-genai-mystery-game-legal-education-2026]] — Üreten YZ tarafından yazılmış gizem rol yapma oyunu ile ders: randomize bir deneme (Xie ve ark. 2026)
+

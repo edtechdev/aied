@@ -1,7 +1,7 @@
 ---
 title: IA explicável
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:51:50-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,9 @@ Duas ressalvas afiam isso ainda mais, ambas tornadas centrais pela contribuiçã
 
 **Explicável por desenho** é uma resposta ao problema de fidelidade do pós-hoc. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang e Fang (2025)]] parametrizam um decodificador de explicação pela mesma representação fundida e pela mesma nota prevista que decidem a [[assessment|avaliação]], de modo que uma nota baixa em questionamento [[formative-assessment|formativo]] produza uma justificativa que nomeia perguntas de sondagem insuficientes, e o combinam com atenção de dupla lente sobre padrões curriculares e movimentos de rubrica específicos da disciplina. O alinhamento atenção-rubrica alcança 78,0%, contra 41,7% do GPT-4 zero-shot e 32,1% do BERT, e a fidelidade é testada pela exclusão contrafactual de trechos críticos para a rubrica, juntamente com avaliações humanas em uma checklist ancorada na rubrica, dando uma pontuação de credibilidade da explicação de 0,78 — um aumento de 0,31 sobre o BERT-base. A auditoria também mostra onde a afirmação arquitetural enfraquece: em pistas emocionais, o modelo aloca 28,4% do peso de atenção contra 15,2% de um especialista (alinhamento 0,53), com um caso de falha atribuindo 28% ao token "frustrated", que os autores leem como overfitting ao afeto em vez de à pedagogia e nomeiam como uma área de refinamento. Embutir explicações no caminho da decisão as torna mais fiéis que justificativas pós-hoc; isso não as torna corretas.
 
+
+**O que um modelo diz que usou depende da família tanto quanto dos dados.** Em sete modelos sobre uma mesma coorte, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] constataram que abordagens simbólicas se apoiavam em fatores cognitivos e [[motivation|motivacionais]], modelos subsimbólicos em aspectos cognitivos, conhecimento aprendido e gênero, e ambos em grande medida ignoravam fatores metacognitivos, enquanto o modelo neuro-simbólico usava um conjunto mais integrado. Os mesmos estudantes e os mesmos indicadores produziram relatos diferentes do que importava, de modo que o alinhamento com a [[learning-theories|teoria da aprendizagem]] se torna uma afirmação sobre atribuições, e não sobre acurácia.
+
 ## Ensinar explicabilidade como prática de responsabilização
 
 Se a qualidade da explicação decide se a XAI é útil, então produzir explicações tem de ser ensinado como um hábito profissional, e não apenas demonstrado como uma capacidade. [[lund-socially-accountable-data-science-xai-2026|Lund e colegas (2026)]] propõem fazer isso ao longo de quatro pilares — **responsividade** (a obrigação de dar razões aos afetados), **responsabilidade** (o dano antecipado ao longo do ciclo de vida, e não defendido depois do fato), **aplicação** (consequências dentro do curso) e **reflexividade** (exame documentado dos próprios pressupostos) — cada um com suas atribuições e seu custo em sala de aula.
@@ -145,4 +148,5 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Decisões de correção feitas pelo professor versus pela IA: uma justificativa escrita ampliou a lacuna de equidade
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Citações e sinais de autoridade elevaram a deferência a uma saída incorreta, com algumas referências mal atribuídas ou fictícias
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — Modelos simbólicos, subsimbólicos e neuro-simbólicos sobre uma mesma coorte atribuíram suas previsões a fatores diferentes
 

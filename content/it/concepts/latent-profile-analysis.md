@@ -1,12 +1,12 @@
 ---
 title: "Analisi del profilo latente"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:01:53-05:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ La LPA assume che il campione sia tratto da una mistura di sottogruppi, ciascuno
 
 - **LCA — indicatori categorici.** Becker e colleghi hanno convertito in variabili indicatrici le categorie di risposta codificate tratte dalle risposte aperte di 1.189 studenti di fisica, trattenendo due classi: Pragmatic Users (Utenti pragmatici, 70 per cento) e Skeptical Non-Users (Non utenti scettici, 30 per cento); poiché un argomento non menzionato conta come "nessun avallo", gli autori segnalano un'inflazione di zeri nel dataframe di analisi.
 - **LPA — indicatori continui** come punteggi di scala e medie di costrutti. Chen e colleghi hanno profilato 128 insegnanti taiwanesi in formazione su cinque costrutti [[technology-acceptance-model|TAM]]/UTAUT2; Acquah e colleghi hanno profilato 509 studenti universitari ghanesi su tre dimensioni di consapevolezza etica; Schweder e colleghi hanno profilato 2.464 studenti sul soddisfacimento dei bisogni [[motivation|motivazionali]].
-- **L'analisi della transizione (di profilo) latente** estende la famiglia nel tempo, stimando i profili per ogni ondata e la probabilità di passaggio tra essi. Liang e colleghi hanno seguito la motivazione all'apprendimento con l'IA di 2.086 studenti per un anno; Wu ha seguito 457 apprendenti di lingua giapponese su tre ondate, con il profilo disadattivo che si riduce dal 26,48 al 17,74 per cento.
+- **L'analisi della transizione (di profilo) latente** estende la famiglia nel tempo, stimando i profili per ogni ondata e la probabilità di passaggio tra essi. Liang e colleghi hanno seguito la motivazione all'apprendimento con l'IA di 2.086 studenti per un anno; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] ha seguito 457 apprendenti di lingua giapponese su tre ondate, con il profilo disadattivo che si riduce dal 26,48 al 17,74 per cento.
 
 L'aggregazione ordinaria ([[machine-learning|k-means]] e gerarchica) persegue la stessa intenzione centrata sulla persona, ma partiziona i casi per distanza geometrica anziché stimando un modello probabilistico. Ricorrete alla LPA o alla LCA quando la domanda riguarda i sottogruppi — se "lo studente" è una finzione al livello di aggregazione del vostro campione, e se i sottogruppi differiscono nella forma oltre che nel livello. Non ricorrete quando vi serve un effetto medio del trattamento: una soluzione a cinque profili all'interno di un [[rct|trial randomizzato]] di un [[intelligent-tutoring|tutor adattivo]] ha predetto differenze al post-test (η² parziale = 0,27) ma non ha trovato un'interazione condizione × profilo (ps ≥ 0,198).
 

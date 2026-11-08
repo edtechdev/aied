@@ -10,7 +10,7 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-06T01:55:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -22,14 +22,14 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-> **Kupunguza upendeleo katika elimu ya AI** — kutambua, kupima, na kupunguza tabia isiyo ya haki, iliyowekwa na mtindo wa utambulisho katika [[intelligent-tutoring|makufunzi wa AI]], watiaji alama, wapendekezi, na mifumo ya kielimu. Upendeleo unaweza kuingia katika hatua yoyote ya mfumo wa AI — data ya mafunzo, tabia ya mfano, ilani, utiaji alama, na utekelezaji — na kuonekana kama matibabu tofauti ya wanafunzi kulingana na lugha, jinsia, rangi, utamaduni, au sifa zingine za utambulisho. Kupunguza kunahusisha upangaji wa data, algoriti za kupunguza upendeleo, [[prompt-engineering|ubuni wa ilani]], mbinu za haki za utiaji alama, uwazi, na tathmini. Ni mwenzake wa kiufundi wa [[equity-in-ai-education]] na wasiwasi kuu wa [[ethics|maadili]] katika elimu ya AI.
+> **Kupunguza upendeleo katika elimu ya AI** — kutambua, kupima, na kupunguza tabia isiyo ya haki, iliyowekwa na mtindo wa utambulisho katika [[intelligent-tutoring|makufunzi wa AI]], watiaji alama, wapendekezi, na mifumo ya kielimu. Upendeleo unaweza kuingia katika hatua yoyote ya mfumo wa AI — data ya mafunzo, tabia ya mfano, ilani, utiaji alama, na utekelezaji — na kuonekana kama matibabu tofauti ya wanafunzi kulingana na lugha, jinsia, rangi, utamaduni, au sifa zingine za utambulisho. Kupunguza kunahusisha upangaji wa data, algoriti za kupunguza upendeleo, [[prompt-engineering|ubuni wa ilani]], mbinu za haki za utiaji alama, [[explainable-ai|uwazi]], na tathmini. Ni mwenzake wa kiufundi wa [[equity-in-ai-education]] na wasiwasi kuu wa [[ethics|maadili]] katika elimu ya AI.
 
 ## Maswali ya Kutafakari
 
 - Upendeleo unaweza kuingia katika hatua yoyote ya mfumo wa AI — data ya mafunzo, tabia ya mfano, ilani, utiaji alama, na utekelezaji. Kabla ya kusoma, wapi katika mlolongo huo ulitarajia upendeleo kuishi? Ukurasa huu unapendekeza kuwa unaweza kuonekana karibu popote. Ni wapi mahali ambapo hukuwa umewaza?
 - [[research-methods-aied|Utafiti]] unaonyesha kuwa utiaji alama wa [[physics-education|fizikia]] wa AI unakadiri kupita kwa njia ya mfumo uelewa wa dhana wa wanafunzi ambao maelezo yao ya maandishi yana ubora wa chini wa lugha — AI hupima lugha, sio uelewa. Kwa nini mfumo unaokubaliana vizuri na watiaji alama wa binadamu kwa ujumla bado unaweza kuadhibu kwa kudumu waandishi wasio wa asili au wasio na ufasaha?
 - Utafiti mmoja uligundua kuwa ilani yenye upendeleo wa jinsia inawahimiza insha za wanafunzi kuonyesha "pengo kubwa zaidi la wakala" na maudhui zaidi ya dhana potofu za kijinsia — upendeleo unahamishwa kutoka zana kwenda kazi ya mwanafunzi mwenyewe. Hii inasema nini kuhusu upendeleo kama si tu alama isiyo ya haki bali nguvu inayoweza kuunda upya kile wanafunzi wanachozalisha na kile wanachojiona wenyewe?
-- Utafiti mwingine ulionyesha kuwa LLM hubadilisha maoni kwa njia zinazolingana na dhana potofu zinapogeuzwa kwa sifa za mwanafunzi — kutumia kupita kiasi sifa na kuzuia ukosoaji kwa wanafunzi "waliotiwa alama" hata kwenye insha zinazolingana. Jinsi gani maoni yenye "upendeleo mzuri" yanaweza kuwa yenye madhara zaidi ya alama iliyo wazi potofu, kwa sababu ni vigumu kugundua?
+- Utafiti mwingine ulionyesha kuwa LLM hubadilisha maoni kwa njia zinazolingana na dhana potofu zinapogeuzwa kwa sifa za mwanafunzi — kuegemea sifa na kulainisha ukosoaji kwa wanafunzi "waliotiwa alama" hata pale insha zinapolingana. Jinsi gani maoni yenye "upendeleo mzuri" yanaweza kuwa yenye madhara zaidi ya alama iliyo wazi potofu, kwa sababu ni vigumu kugundua?
 - Kupunguza kunahusisha upangaji wa data, algoriti za kupunguza upendeleo, ubuni wa ilani za neutral, mbinu za haki za utiaji alama, uwazi, na usimamizi wa binadamu. Ni kigezo kimoja kipi cha kupunguza ambayo unafikiri kingefanya tofauti kubwa zaidi katika mfumo wa AI unaoutegemea, na ni nini ambacho ungehitaji kukagua kujua ilifanya kazi?
 - Ilani ya neutral kwa kiasi kikubwa inaepuka kusababisha lugha iliyotofautishwa kwa jinsia — ikipendekeza kuwa ubuni wa ilani ni mbinu ya kupunguza ya vitendo. Lakini ikiwa upendeleo unaweza kurudiwa kupitia data, utiaji alama, au utekelezaji, kwa nini kurekebisha ilani peke yale kunaweza kuwa jibu lisilo kamili?
 
@@ -50,14 +50,22 @@ Utafiti wa hifadhi hii ya maarifa unarekodi upendeleo ukiingia katika sehemu nyi
 - **Kukataa kwa njia tofauti na dhuluma ya maarifa:** [[paternalistic-filter-llm-history-education|Kichujio cha Kibaba]] kinakagua LLM nne kama makufunzi wa historia (majibu 1,800) na kinabainisha "kichujio cha kibaba": miundo hukataa, hurahisisha, au hubadilisha maudhui nyeti kwa njia tofauti kwa wanafunzi tofauti — dhuluma ya maarifa yenye athari za moja kwa moja za usawa.
 - **Upendeleo wa uteuzi katika [[learning-analytics|uchanganuzi wa kujifunza]]:** [[temporal-smoothness-debiased-kt|kufuatilia maarifa bila upendeleo]] kunashughulikia upendeleo wa uteuzi unaotokana na mapendekezo ya mazoezi yasiyo ya nasibu: kufunza kwa kumbukumbu zilizoshuhudiwa na hatari ya kiutafiti ya kawaida huzalisha makadirio ya ujuzi yenye upendeleo ambayo hukusanya makosa katika miduara ya mapendekezo ya kubadilika.
 - **Upendeleo wa data na wa ufafanuzi:** [[data-annotations-pedagogical-hints|ufafanuzi wa data]] na [[ground-truth-reliability-aied|uaminifu wa ukweli wa msingi]] huchunguza jinsi lebo na uaminifu kati ya watiaji alama wanaowapa msingi miundo ya AI hubeba upendeleo — wakidai dhidi ya kuchukulia κ > 0.8 kama muhuri wa binary wa kukubaliwa.
+
+- **Utambuzi wa utambulisho unabeba upendeleo wa kitamaduni.** [[ji-de-identification-personally-identifiable-information-2025|Ji et al. (2025)]] walijaribu utambuzi wa PII wa kiwango cha jina kati ya vikundi vya tamaduni kwa majaribio ya Mann-Whitney U ya mikia miwili: misingi iliyopo tayari ilitambua majina ya Kiafrika kwa urejeshaji 0.7647–0.9244 na mapengo makubwa dhidi ya vikundi vingine, wakati GPT-4o-mini iliyorekebishwa ilianzia 0.9748–0.9840 kati ya tamaduni nne bila tofauti kubwa — upendeleo ulikaa katika vigunduzi vya msingi, si katika mfano uliorekebishwa.
+
 - **Maarifa yaliyotengwa:** [[genai-minoritized-knowledges-disability|Akili Bandia ya Kizalishaji na maarifa yaliyotengwa]] yanarekodi jinsi data ya mafunzo na tabia ya mfano yanawatenga wanafunzi wa mifumo ya maarifa yasiyo ya kutawala na mitazamo ya ulemavu.
-- **Maoni ya kiotomatiki yanayolingana na dhana potofu (Mbinu za [[pedagogy|Kufundisha]] Zilizotiwa Alama):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] wanaonyesha LLM nne zinazotumiwa kwa wingi hubadilisha maoni ya uandishi kwa njia zinazolingana na dhana potofu zinapogeuzwa kwa sifa za mwanafunzi — rangi, asili, utambulisho wa ELL, ulemavu wa kujifunza, mafanikio, au motisha — kuzalisha upendeleo wa maoni chanya na upendeleo wa kuzuia maoni (kutumia kupita kiasi sifa, ukosoaji mdogo wa maneno, dhana potofu za uwezo mdogo) kwa wanafunzi waliotiwa alama hata kwenye insha zinazolingana. Kipimo cha mgawanyo wa "Maneno Yaliyotiwa Alama" kinatoa mbinu ya dhuluma ya kukagua upendeleo kama huo katika maoni ya kiotomatiki.
+- **Maoni ya [[ai-feedback-quality|kiotomatiki]] yanayolingana na dhana potofu (Mbinu za [[pedagogy|Kufundisha]] Zilizotiwa Alama):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] wanaonyesha LLM nne zinazotumiwa kwa wingi hubadilisha maoni ya uandishi kwa njia zinazolingana na dhana potofu zinapogeuzwa kwa sifa za mwanafunzi — rangi, asili, utambulisho wa ELL, ulemavu wa kujifunza, mafanikio, au motisha — Ubaguzi mbili hufuata: upendeleo wa maoni chanya na upendeleo wa kuzuia maoni — sifa zaidi, ukosoaji mdogo wa maneno, dhana za uwezo mdogo — kwa wanafunzi waliotiwa alama kwenye insha ambazo kwa njia nyingine zilikuwa sawa. Kipimo cha mgawanyo wa "Maneno Yaliyotiwa Alama" kinatoa mbinu ya dhuluma ya kukagua upendeleo kama huo katika maoni ya kiotomatiki.
 - **Upendeleo wa kuona katika zana za maandishi-hadi-picha:** [[bias-representation-text-to-image-education-2026|Alon, Hadar Shoval, na Levkovich (2026)]] wana [[meta-analysis-systematic-review|kagua kwa njia ya mfumo]] masudio 31 ya mapitio ya rika (2023–2025) juu ya upendeleo na uwakilishi katika matumizi ya kielimu ya maandishi-hadi-picha yanayozalishwa na AI. Kwa kutumia mfumo wa kichanganuzi wa sehemu sita (jinsia; rangi, asili, na SES; utamaduni na dini; umri; mwili na ulemavu; maudhui), wanagundua uwakilishi wenye upendeleo ueneapo — picha mara nyingi zikizunguka takwimu nyeupe, wanaume, wa Magharibi, wadogo, na wasiolemavu, huku ubaguzi unaohusiana na umri, mwili, na uwezo ukiwa umeachwa kwa kiasi kikubwa. Masudio mengi yalitegemea ukaguzi wa picha na mbinu za [[qualitative-research|kina]], na mifumo michache ya kijaribio au ya uingiliaji, yakibainisha mapengo makubwa ya uangalifu katika jinsi utafiti wa kielimu unavyopima na kujibu upendeleo wa kuona.
 
-- **Ishara za utambulisho wa avatar zinarudia upendeleo wa nje ya mtandao.** Katika majaribio mawili (N = 396), avatar nyeupe — na, katika miktadha ya STEM, avatar wanaume wa Kiasia — walitiwa alama kuwa waaminifu na wenye uwezo zaidi huku avatar wanawake weusi wazima wakipata adhabu; kazi za STEM na za taratibu ziliongeza upendeleo na kazi za kutafakari na za kijamii zilipunguza ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
+- **Ishara za utambulisho wa [[ai-avatars-and-synthetic-instructors|avatar]] zinarudia upendeleo wa nje ya mtandao.** Katika majaribio mawili (N = 396), avatar nyeupe — na, katika miktadha ya STEM, avatar wanaume wa Kiasia — walitiwa alama kuwa waaminifu na wenye uwezo zaidi huku avatar wanawake weusi wazima wakipata adhabu; kazi za STEM na za taratibu ziliongeza upendeleo na kazi za kutafakari na za kijamii zilipunguza ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
 - **Kutofautiana kama thamani kuu ya maadili.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], mapitio ya [[meta-analysis-systematic-review|kimfumo]] ya makala 25, wanatambua kutofautiana (ufafanuzi unaotumia upendeleo/utofautishaji/ubaguzi) kama moja ya thamani sita kuu za maadili kwa [[ai-education|AI katika elimu]], pamoja na uwazi wa data, usimamizi wa binadamu, ukarimu, ufafanuzi, na ufaa wa kielimu. Mapitio yanabainisha kuwa thamani zimeunganishwa kwa uthabiti na zinaweza kugongana — mfano, kutofautiana dhidi ya uwazi wa data — kuzalisha matatizo ya maadili, na kuwa hakuna kanuni za kutofautiana zinazowahusu watumiaji wa mwisho moja kwa moja, kwa hivyo wanafunzi wakibaki wenye kupitisha kwa kiasi kikubwa katika fasihi ya maadili.
 
 - **Upendeleo wa ugawanyaji katika kuunda timu kwa msaada wa AI.** [[genai-social-bias-software-engineering-education-2026|Entezami et al. (2026)]] wanaonyesha upendeleo ukiingia katika darasa la kazi nje ya utiaji alama na maoni: LLM tatu zinazogawa madarasa ya wanafunzi 28 ya uhandisi wa programu kwa timu nne zilielekeza wanaume kwa asilimia 80 au zaidi mara chache zaidi ya wanawake kwa Ubuni wa Kiolesura badala ya Maendeleo ya Msingi (GPT-5.2 OR < 0.01), na utaifa ulibadilisha uwekaji kwa njia huria bila kuzingatia ustahiki. Kutoa ujuzi kulipunguza lakini haukuiondoa - 99.2% ya migawanyo iliyotegemea ujuzi ililingana na moja ya timu mbili za ukweli wa msingi, lakini jinsia bado iliamua kati ya chaguo zinazofaa kwa njia sawa (OR 2.53 GPT-4.1, 2.81 GPT-5.2, 1.43 DeepSeek) - na uzalishaji wa picha wa sambamba ulipendelea picha za watu mmoja kuwa wanaume na wenye ngozi nyepesi (jinsia V = 0.64 na 0.65; ngozi V = 0.57 na 0.61) huku picha za watu wengi zikibaki zilizolinganishwa kwa usawa.
+
+- **Ukaguzi wa vikundi ndogo unaweza kuonyesha usawa katika kigawa kodi cha kiotomatiki** — [[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye, Borman na Borman (2026)]] waligundua kigawa kodi cha insha cha BERT kilichorekebishwa kilifika usahihi 0.92 kwa wanafunzi waliotishiwa na dhana potofu na 0.94 kwa wasiotishiwa, na urejeshaji 0.98 katika vikundi vyote. Usahihi wa jinsia ulijikita 0.95 dhidi ya 0.93 na vikundi vya chakula cha mchana cha bei nafuu au bila malipo 0.95 dhidi ya 0.94, wakati wanafunzi wa Kiingereza (8%) na wanafunzi wenye mipango ya elimu ya mtu binafsi (10%) waliondolewa kwenye uchanganuzi wa vikundi kwa sababu sampuli ndogo zilikuwa ndogo mno.
+
+**Usahihi wa jumla unaweza kuficha mfano ambao hauwezi kuwapata wanafunzi wanaohangaika.** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] walifunza familia tatu za mifano kwenye kohoti moja ya Estonia na kuigawanya kwa njia mbili. Kwenye seti iliyosawazishwa familia zilikuwa zinazolingana. Kwenye mgawanyo usio sawa, ukiwa na wanafunzi 125 chini ya robo ya kwanza dhidi ya 328 juu yake, miti ya maamuzi, mtandao wa Bayesian na misitu ya nasibu zilifika urejeshaji 8%, 12% na 16% kwa wanaofanya vibaya kwa usahihi 80%, na mfano wa neva-simboliki pekee ulipita 50%.
+
 
 ## Mbinu za kupunguza
 
@@ -96,6 +104,9 @@ Kupunguza upendeleo ni mbinu ya kiufundi ambayo [[equity-in-ai-education|Usawa]]
 - **Fanya mifumo kuwa ya uwazi:** uwazi katika maamuzi ya AI ni muhimu kwa kugundua na kurekebisha upendeleo.
 - **Unganisha mbinu za kiufundi na za binadamu:** unganisha algoriti za kupunguza upendeleo na usimamizi wa binadamu-ndani-ya-mzunguko, hasa kwa hali za matokeo makubwa au za uaminifu wa chini.
 
+Kila kitu katika ukurasa huu kinahusu upendeleo ndani ya mfumo. [[automation-bias]] inahusu upendeleo kwa mtu anayesoma pato lake — kukubali pendekezo ambalo mwanadamu angehoji kama angefikia peke yake — na inaendelea hata pale mfano ni sahihi.
+
+
 ## Dhana Potofu za Kawaida
 
 - **"Upendeleo ni tatizo la utiaji alama na maoni."** Upendeleo unaingia **katika madaraja ya kazi nje ya utiaji alama**: LLM tatu zilizoweka madarasa ya uhandisi wa programu ya wanafunzi 28 katika timu nne zilipanga wanaume angalau 80% mara chache zaidi kuliko usambazaji wa marejeleo. Uundaji wa timu ulibeba upendeleo kwa ukubwa unaolingana na utiaji alama.
@@ -104,6 +115,9 @@ Kupunguza upendeleo ni mbinu ya kiufundi ambayo [[equity-in-ai-education|Usawa]]
 
 ## Dhana Zilizounganishwa
 - [[differential-effects-across-learner-groups]]
+
+- [[automation-bias]] — kushindwa kwa upande wa msomaji ambao ukurasa huu haushughulikii: kukubali pendekezo bila kulikagua
+
 - [[explainable-ai]]
 - [[guardrails]]
 - [[equity-in-ai-education]]
@@ -145,3 +159,6 @@ Kupunguza upendeleo ni mbinu ya kiufundi ambayo [[equity-in-ai-education|Usawa]]
 
 - [[genai-social-bias-software-engineering-education-2026]] — Akili Bandia ya Kizalishaji Inaweza Kuimarisha Upendeleo wa Kijamii katika Elimu ya Uhandisi wa Programu
 - [[fairness-theatre-early-warning-systems-2026]] — Ukumbi wa Haki: Kutathmini Uingiliaji wa Haki wa Baada ya Tukio katika Mifumo ya Onyo la Mapema Inayodhibitiwa na Muuzaji
+
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — chini ya usawa mbaya wa madaraja familia tatu za mifano hazikuweza kuwatambua wanaofanya vibaya wakati vipimo vilivyosawazishwa vilionekana vizuri
+

@@ -1,7 +1,7 @@
 ---
 title: "Comunidade de investigação"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:35:57-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -59,12 +59,15 @@ A IA generativa desestabiliza a premissa de que os indicadores de presença poss
 - **Inflar a presença cognitiva** — explicações fluentes geradas por máquina aceleram a construção de sentido, mas arriscam um fechamento prematuro quando a coerência é confundida com fundamento.
 - **Mimetizar a presença social** — enunciados produzidos por máquina podem se assemelhar a empatia e responsividade com alta credibilidade linguística, complicando a responsabilidade relacional.
 - **Redistribuir a presença docente** — desenho, facilitação e instrução direta tornam-se realizações distribuídas, com os professores modelando como interrogar resultados gerados e detectar citações alucinadas.
+- **Intervir com excesso de prontidão** — em um estudo de discussão on-line, facilitadores especialistas foram consistentemente mais cautelosos em intervir do que juízes LLM, que eram excessivamente ávidos por facilitar; o melhor classificador treinado ainda atingiu um teto baixo imposto pelos conjuntos de dados disponíveis ([[llm-facilitation-timing-online-discussions|Tsirmpas, Korre e Pavlopoulos, 2026]]). A presença docente redistribuída, portanto, muda o limiar de intervenção, e um modelo vai interromper onde uma pessoa teria esperado, que é o modo de falha que um fórum de discussão percebe.
 
-A evidência empírica de redes agora sustenta essas afirmações: em um quase-experimento em que 63 graduandos chineses (33 com, 30 sem um chatbot GPT-4o mini) anotaram leituras compartilhadas no CollaboRead ao longo de cinco tarefas semanais, a [[network-analysis|análise de redes epistêmicas]] mostrou a turma assistida ligando a presença social à integração e à resolução, enquanto a turma de controle ligava a presença social ao disparo e à exploração (eixo X U = 25,00, p = 0,01, r = 1,00; eixo Y U = 13,00, p = 1,00, r = 0,04), com maior engajamento cognitivo e emocional autorrelatado na turma assistida. As presenças então se separam dentro da condição, e não entre elas: os grupos de alto desempenho iniciaram 1407 solicitações de feedback em 2319 anotações (60,7%), contra 737 em 2167 (34,0%) no grupo de baixo desempenho, que permaneceu em um ciclo autorreferente e aproveitou fracamente o andaimento.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
+Uma revisão de escopo de 21 estudos constatou que a evidência é desigual entre as três presenças: a presença social foi examinada em 13 estudos, a cognitiva em 10, e a docente em apenas 5, e todo estudo de presença docente a examinou ao lado de outra presença. A presença cognitiva se concentrou em exploração e integração, a resolução foi a menos evidente, e desenhos de discussão ou baseados em tarefas se associaram à presença cognitiva, enquanto agentes pedagógicos e desenhos socialmente expressivos se associaram à presença social ([[doo-genai-community-of-inquiry-scoping-review-2026|Doo & Park, 2026]]).
+
+A evidência empírica de redes agora sustenta essas afirmações: em um quase-experimento em que 63 graduandos chineses (33 com, 30 sem um chatbot GPT-4o mini) anotaram leituras compartilhadas no CollaboRead ao longo de cinco tarefas semanais. A [[network-analysis|análise de redes epistêmicas]] mostrou a turma assistida ligando a presença social à integração e à resolução, enquanto a turma de controle ligava a presença social ao disparo e à exploração (eixo X U = 25,00, p = 0,01, r = 1,00; eixo Y U = 13,00, p = 1,00, r = 0,04). O engajamento cognitivo e emocional [[self-report-measures|autorrelatado]] foi maior na turma assistida. As presenças então se separam dentro da condição, e não entre elas: os grupos de alto desempenho iniciaram 1407 solicitações de feedback em 2319 anotações (60,7%), contra 737 em 2167 (34,0%) no grupo de baixo desempenho, que permaneceu em um ciclo autorreferente e aproveitou fracamente o andaimento.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
 
 Em vez de uma ferramenta, um parceiro dialógico ou uma especulativa "quarta presença", a IA generativa é melhor compreendida como uma **condição epistêmica** — uma influência difusa que reconfigura como as presenças são encenadas, interpretadas, evidenciadas e governadas, tanto por resultados visíveis quanto por lógicas invisíveis de dados de treinamento, algorítmicas e de plataforma.
 
-Os próprios autores do framework fornecem uma taxonomia de papéis para essa condição: [[ai-communities-of-inquiry-2026|Stenbom e Garrison (2026)]] posicionam a IA como apoio ao desenho de aprendizagem, um recurso independente do estudante, uma função de apoio ao professor via analítica, um membro da comunidade e um parceiro dialógico sustentado, e propõem a [[metacognition|metacognição]] compartilhada — auto- e co-[[self-regulated-learning|regulação]] — como o que mantém os estudantes auditando os resultados da IA.
+Os próprios autores do framework fornecem uma taxonomia de papéis para essa condição: [[ai-communities-of-inquiry-2026|Stenbom e Garrison (2026)]] posicionam a IA como apoio ao [[learning-design|desenho de aprendizagem]], um recurso independente do estudante, uma função de apoio ao professor via [[learning-analytics|analítica]], um membro da comunidade e um parceiro dialógico sustentado, e propõem a [[metacognition|metacognição]] compartilhada — auto- e co-[[self-regulated-learning|regulação]] — como o que mantém os estudantes auditando os resultados da IA.
 
 ## Implicações práticas
 
@@ -99,8 +102,10 @@ Os próprios autores do framework fornecem uma taxonomia de papéis para essa co
 
 ## Artigos conectados
 
+- [[doo-genai-community-of-inquiry-scoping-review-2026]] — Revisão de escopo de 21 estudos: a evidência das presenças é desigual, a presença docente é a menos estudada, e a configuração de desenho ordena os desfechos (Doo & Park 2026)
 - [[genai-social-annotation-epistemic-network-analysis-2026]] — Desempacotando as interações dos estudantes na anotação social assistida por IA generativa: uma análise de redes epistêmicas das presenças cognitiva e social
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceituando a CoI na era da IA generativa
 - [[ai-communities-of-inquiry-2026]] — IA em comunidades de investigação
 - [[ai-online-education-engagement-satisfaction-2026]] — IA e engajamento na educação on-line
 - [[reflective-triangle-model-teacher-ai-2026]] — Modelo do Triângulo Reflexivo: a IA como mediadora cognitiva
+- [[llm-facilitation-timing-online-discussions]] — Facilitadores humanos versus LLM: os modelos intervêm com mais avidez do que humanos especialistas (Tsirmpas et al. 2026)

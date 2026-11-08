@@ -6,7 +6,7 @@ pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T12:10:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ Saikolojia ya kiakili ni mapokeo ya kinadharia ya kujifunza yanayochukulia kujif
 - **Tashbihi ya kuchakata habari (kompyuta).** Akili huchukuliwa kama mfumo wa kuchakata habari wenye uwezo na vikwazo — [[item-response-theory|kipimo]] cha uwezo wa siri, vikomo vya kumbukumbu ya kazi, kusimba na kurejesha — ambayo ni hasa mfano uliofanya ufundishaji kwa AI (programu ya kompyuta inayoiga kiakili cha mwanafunzi na kubadilika nacho) kuwa linganifu la kawaida.
 - **Mwelekeo na kumbukumbu vina vikomo.** Kumbukumbu ya kazi ina uwezo mdogo; kujifunza kwa kudumu kunahitaji kusimba kwenye kumbukumbu ya muda mrefu kupitia mazoezi, upanuzi, na [[retrieval-spacing-interleaving|mazoezi ya kurejesha]]. Hii inaunganisha cognitivism na [[research-methods-aied|utafiti]] juu ya [[cognitive-offloading]] (kupunguza mzigo wa kumbukumbu/kuchakata kwa zana za nje) na "pengo la utendaji–kujifunza" AI inapozuia kurejesha na mazoezi.
 - **Metaji inadhibiti kiakili.** [[metacognition]] — kufuatilia na kudhibiti mawazo yako mwenyewe — ni dhana ya kiakili kwa kutofautiana, na inaeleza kwa nini usawazishaji wa mwanafunzi wa lini kutegemea AI ni muhimu kwa kujifunza (tazama [[cognitive-offloading]] na [[self-regulated-learning]]).
-- **Maarifa yanagawanyika na yanafuatiliwa.** AIED ya kiakili inadhani maarifa ya mwanafunzi yanaweza kuwakilishwa kama vipengele na kufuatiliwa kwa wakati — msingi wa [[knowledge-tracing]], [[cognitive-diagnosis]], na [[item-response-theory]].
+- **Maarifa yanagawanyika na yanafuatiliwa.** AIED ya kiakili inadhani maarifa ya mwanafunzi yanaweza kuwakilishwa kama vipengele na kufuatiliwa kwa wakati — msingi wa [[knowledge-tracing]], [[cognitive-diagnosis]], na [[item-response-theory]]. Ufuatiliaji pia ni kanuni ya kupima. Kanuni nne za sasisho za [[knowledge-tracing]] zinaendeshwa juu ya matukio yale yale ya ASSISTments: kuthamini ukomo wowote uliosaidiwa kulitangaza 93.9% ya jozi za mwanafunzi–ujuzi kuwa zimefahamika, dhidi ya 72.8% wakati safu zilizosaidiwa zinasomwa kama majaribio ya kwanza yaliyoshindwa. Jozi ambazo kanuni laini ilitangaza mapema ziliendelea hadi usahihi wa 0.709 bila msaada, dhidi ya 0.857 pale kanuni zilikubaliana ([[crediting-assisted-work-inflates-mastery-2026|Srivastava, 2026]]). Mfano hufuatilia tu kile kanuni ya ushahidi inairuhusu kuhesabu.
 
 ## Cognitivism na AI katika elimu
 
@@ -66,6 +66,9 @@ Nadharia ya Kiakili ya Mayer ya Kujifunza kwa Vyombo vingi (CTML) inatumia dhana
 ### Mvutano wa zama za AI: mpaka wa cognitivism unakabiliwa na shinikizo
 
 [[generative-ai|AI ya kizalishaji]] inapanua na inachangia cognitivism. Inaipanua kwa kufanya uwakilishi wa maarifa kuwa na nguvu zaidi (LLM kama injini za maarifa zinazoweza kufuatiliwa kupitia [[knowledge-tracing]] na kubadilishwa kupitia [[student-modeling]]). Inaichangia kwa kutatua mahali kiakili "ni": AI inapofanya kufikiri, kumbukumbu, na hata kazi zinazofanana na metaji, dhana ya kiakili kuwa kujifunza ni kuchakata kwa ndani katika akili ya mtu binafsi haijatulia — kama [[distributed-cognition]], [[ai-cognitive-partner-co-regulation-learning|co-regulation]], na mifumo ya baada ya binadamu yanavyodai kiakili kinaweza kusambaa katika mifumo ya binadamu na bandia. Bado swali la kiakili linabaki kuwa la kati la uwanja: *je, mwanafunzi hujifunza kwa ndani maarifa, au zana huyashikilia?* Hii ni swali la kupunguza mzigo wa kiakili na pengo la utendaji–kujifunza katika umbo lake safi zaidi.
+
+Jaribio la 2026 linatoa upande wa kumbukumbu wa mpaka huo hali halisi ya kushindwa. Ni 44.8% tu ya watu wazima 328 waliosoma muhtasari wa AI wenye kupotosha walitambua baadaye maelezo ya video kwa usahihi, dhidi ya 83.6% waliosoma muhtasari unaolingana. Lebo ya AI au ya binadamu haikufanya tofauti, na uaminifu ulioripotiwa kwa AI haukufanya tofauti ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). Hiyo ni kumbukumbu ya chanzo badala ya kujifunza darasani, lakini muhtasari fasaha unaweza kufuta rekodi ya mwanafunzi ya chanzo, jambo linalojalisha kwa masomo na tathmini.
+
 
 ## Athari kwa muundo na utafiti
 
@@ -104,9 +107,15 @@ Nadharia ya Kiakili ya Mayer ya Kujifunza kwa Vyombo vingi (CTML) inatumia dhana
 ## Makala Zilizounganishwa
 
 - [[cognitive-shift-ai-education]] — Mabadiliko ya kiakili katika elimu ya AI
+
+- [[sim-ai-summary-memory-distortion-2026]] — Muhtasari wa AI wenye kupotosha ulibadilisha kile watu wazima walichokumbuka, bila kujali muhtasari uliwekwa lebo ya AI au ya binadamu
+
 - [[cogtax-cognitive-taxonomy]] — Taksonomia ya kiakili kwa matumizi ya AI
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — Mawakala wa LLM wa kielimu waliowekwa kwenye kufuatilia maarifa
 - [[nie-personavlm-long-term-personalization-2026]] — Kuiga mwanafunzi na kumbukumbu ya LLM
 - [[ai-cognitive-partner-co-regulation-learning]] — AI kama mshirika wa kiakili katika kujifunza kwa udhibiti wa pamoja
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: kufikiri kama mwingiliano wa binadamu–AI
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Mpangilio wa jitihada, si kiasi cha jitihada, ulifuatilia mzigo na kuchanganyikiwa
+
+- [[crediting-assisted-work-inflates-mastery-2026]] — Madai ya umahiri kutoka kufuatilia maarifa hutegemea jinsi kazi iliyosaidiwa inavyohesabiwa (Srivastava 2026)
+

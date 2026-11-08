@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-10-26T06:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -30,10 +30,10 @@ ai_assist:
 
 - Kupitishwa kwa AI mara nyingi huelekezwa kama uamuzi wa darasa, lakini wasimamizi huweka masharti — sera, ufadhili, miundombinu. Katika taasisi yako, ni nani hasa anaamua kama na jinsi AI inatumika, na ni nani anayeachwa nje ya uamuzi huo?
 - Utafiti unagundua pengo linalojirudia kati ya nia ya sera ya ngazi ya juu na utekelezaji wa kila siku. Umewahi kuona sera ya AI yenye nia njema ikishindwa kufika darasani, na unafikiri ni kwa nini ilishindikana?
-- Wasimamizi ni lazima wasawazishe fursa ya kielimu dhidi ya hatari, usawa, na upatikanaji wa rasilimali. Kama ungelazimika kuchagua kati ya kufadhili mpango mmoja mpya wa AI na kuboresha utawala wa data na mafunzo ya wagumu, ungelichagua gani na kwa nini?
+- Wasimamizi ni lazima wasawazishe [[pedagogy|fursa ya kielimu]] dhidi ya hatari, usawa, na upatikanaji wa rasilimali. Kama ungelazimika kuchagua kati ya kufadhili mpango mmoja mpya wa AI na kuboresha utawala wa data na mafunzo ya wagumu, ungelichagua gani na kwa nini?
 - Maamuzi ya manunuzi yanayofanywa katika ngazi ya taasisi yanaweza kuwezesha au kuzuia kile walimu na wanafunzi wanaweza kufanya hasa. Ni maswali gani ungetaka yajibiwe kabla ya taasisi yako kusaini mkataba wa jukwaa la teknolojia ya elimu la AI?
 - Taasisi hufasiri uwezo wa AI kuwa mifumo ya matumizi yanayokubalika na viwango vya data. Unapima jinsi gani ahadi ya uvumbuzi dhidi ya athari za faragha na usawa za data ambazo zana hizi zinakusanya?
-- Chaguzi za wasimamizi kuhusu zana za ustawi wa AI zinaunda moja kwa moja uzoefu wa mwanafunzi. Ni ushahidi gani ungetaka kuona kabla ya kuanzisha zana ya AI inayokusudiwa kusaidia — badala ya kufuatilia — wanafunzi?
+- Chaguzi za wasimamizi kuhusu zana za [[well-being|ustawi]] wa AI zinaunda moja kwa moja uzoefu wa mwanafunzi. Ni ushahidi gani ungetaka kuona kabla ya kuanzisha zana ya AI inayokusudiwa kusaidia — badala ya kufuatilia — wanafunzi?
 
 ## Utangulizi
 
@@ -47,7 +47,7 @@ Kupitishwa kwa AI katika elimu si uamuzi wa darasa peke yake; ni uamuzi wa taasi
 
 - **Taksonomia ya nyanja kumi kuandaa mrundiko.** [[sposato-ai-educational-leadership-taxonomy-2025|Sposato (2025)]] alifupisha machapisho 314 katika nyanja kumi — kuanzia ufanisi wa kiutawala hadi utawala na DEI — akivipa viongozi msamiati wa pamoja wa kulinganisha tatizo lililosemwa la taasisi na nyanja zinazolishughulikia.
 - **Miundo ya uongozi inachelewa nia ya kimkakati.** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] aligundua kuwa asilimia 7 tu ya taasisi zilikuwa zimeunda nafasi za uongozi wa AI wa ngazi ya juu ingawa asilimia 49 zilichukulia AI kama kipaumbele cha kimkakati, hali mitindo ya uongozi inayowezesha na inayogawa inahusishwa na mshikamano mkubwa wa wagumu na pengo la nadharia-tekelezaji likiwa pana zaidi pale sera na miundombinu zilivyo dhaifu.
-- **Ustawi na uzoefu wa mwanafunzi:** [[ai-campus-wellbeing-tools|zana za ustawi wa AI katika chuo]] zinachunguza jinsi taasisi zinavyotumia AI kwa msaada wa wanafunzi, zikihusisha chaguzi za wasimamizi na matokeo ya [[student-experience]].
+- **Ustawi na uzoefu wa mwanafunzi:** [[ai-campus-wellbeing-tools|zana za ustawi wa AI katika chuo]] zinachunguza jinsi taasisi zinavyotumia AI kwa [[student-support-and-success|msaada wa wanafunzi]], zikihusisha chaguzi za wasimamizi na matokeo ya [[student-experience]].
 - **Utawala na kanuni:** Maamuzi ya wasimamizi huingiliana na [[educational-policy-ai]], [[governance]], na [[regulation]] — taasisi hufasiri uwezo wa AI kuwa mifumo ya matumizi yanayokubalika, kanuni za tathmini, na viwango vya utawala wa data (tazama [[genai-policies-higher-ed-computing|uchanganuzi wa sera ya GenAI ya taasisi]]).
 
 ### Mahusiano

@@ -7,9 +7,9 @@ pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, me
 technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
-updated: "2026-11-04T01:21:13-05:00"
+updated: "2026-11-08T13:14:21-05:00"
 translation_of: "concepts/productive-failure"
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 - **سیکھنے والوں کو ہدایت سے سیکھنے کے لیے تیار کرتی ہے** — وہ جانتے ہیں کہ کیا نہیں جانتے اور نئے مواد کو اپنی کوششوں سے جوڑ سکتے ہیں۔
 - **علم کی منتقلی اور پائیدار مہارتیں بڑھاتی ہے** ([[critical-thinking|تنقیدی سوچ]]، لچک، رابطہ)، غلطی کرنے کا خوف کم کرتی ہے، اور سیکھنے کی طرف مثبت رویے پروان چڑھاتی ہے۔
 
-PF فریم ورک کو متعلقہ ڈیزائنوں کے ذریعے بڑھایا گیا ہے، جن میں **بالواسطہ ناکامی**، **حل کا تنوع** اور **موافق رہنمائی** شامل ہیں (Braas et al., 2025; Brand et al., 2025)۔
+PF فریم ورک کو متعلقہ ڈیزائنوں کے ذریعے بڑھایا گیا ہے، جن میں **بالواسطہ ناکامی**، **حل کا تنوع** اور **موافق رہنمائی** شامل ہیں (Braas et al., 2025; Brand et al., 2025)۔ کیسز اُس پہلی کوشش کے لیے مشترکہ مسئلہ کی جگہ مہیا کر سکتے ہیں، اگرچہ کیس پر مبنی شواہد کی بنیاد نے اِس جوڑ کو ابھی براہِ راست نہیں جانچا ([[case-based-learning]])۔
 
 ## غلطیوں سے سیکھنا اور خطاؤں سے سیکھنا
 
@@ -104,6 +104,7 @@ PF فریم ورک کو متعلقہ ڈیزائنوں کے ذریعے بڑھای
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+- [[case-based-learning]] — پہلی کوشش کے لیے مشترکہ مسئلہ کی جگہ کے طور پر کیسز
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

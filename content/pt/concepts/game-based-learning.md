@@ -1,13 +1,13 @@
 ---
 title: "Aprendizagem baseada em jogos"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:51:50-05:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-10-30T06:18:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,9 +43,13 @@ A GBL se fundamenta nas teorias de [[motivation|motivação]], [[student-engagem
 - **[[conversational-ai|Agentes conversacionais]] de IA em jogos de simulação:** Wenzel, Geiger e Liening (2026) derivam o framework CAIS-GBL — quatro princípios de design e quinze características de design para agentes conversacionais de IA na aprendizagem baseada em jogos digitais — a partir de metarrequisitos orientados por teoria que abrangem engajamento cognitivo, motivacional, [[affective-computing|afetivo]] e [[sociocultural-learning|sociocultural]], com uma postura de [[equity-in-ai-education|equidade por design]]. O agente instanciado deles (Lara) em um jogo de simulação de negócios foi recebido positivamente por presença cognitiva e [[community-of-inquiry|social]] e apoio à [[self-regulated-learning|aprendizagem autorregulada]], enfrentando a lacuna comum de feedback [[formative-assessment|formativo]] limitado e reflexão estruturada em jogos de simulação.
 
 
-- **Eficácia da GBL com IA:** uma revisão sistemática de 55 estudos de aprendizagem baseada em jogos com apoio de IA encontra efeitos positivos sobre conhecimento, motivação intrínseca e engajamento afetivo, mas apenas 4 estudos (7%) atingiram seu limiar de alta qualidade e apenas 4 (7%) eram [[rct|RCTs]] ([[ai-game-based-learning-systematic-review-2026|Kaşarcı e Yurt, 2026]]). A eficácia dependia de alinhar o mecanismo de IA a uma [[learning-theories|teoria da aprendizagem]] declarada.
+- **Eficácia da GBL com IA:** uma [[meta-analysis-systematic-review|metanálise]] cobrindo 55 estudos de aprendizagem baseada em jogos com apoio de IA relata ganhos sobre conhecimento, motivação intrínseca e engajamento afetivo, embora apenas 4 estudos (7%) tenham superado seu critério de alta qualidade e apenas 4 (7%) fossem [[rct|ECRs]] ([[ai-game-based-learning-systematic-review-2026|Kaşarcı e Yurt, 2026]]). A eficácia dependia de alinhar o mecanismo de IA a uma [[learning-theories|teoria da aprendizagem]] declarada.
 
-- **Estudantes como designers de jogos, e não como jogadores:** [[karampa-students-game-designers-ai-literacy-2026|Karampa et al. (2026)]] pediram a 22 estudantes do ensino fundamental de 8 a 12 anos que desenhassem um jogo de tabuleiro de fuga aumentado sobre desinformação, empilhando [[project-based-learning|aprendizagem baseada em projetos]] com [[design-thinking|design thinking]] e o framework de sala de fuga Room2Educ8. O [[ai-literacy|letramento em IA]] compósito em um questionário DigComp 3.0 de 20 itens subiu de 3,684 para 4,309 em uma escala de 5 pontos, t(21) = −21,086, p < ,001, com todas as cinco áreas de competência melhorando. A turma gerou 11 propostas com prompts de IA e as fundiu em um único jogo construível. Autorrelato, uma turma e nenhum grupo de controle.
+- **A [[generative-ai|IA generativa]] como autora do jogo, e não sua jogadora:** [[xie-genai-mystery-game-legal-education-2026|Xie et al. (2026)]] pediram a um modelo que redigisse sete personagens e material narrativo para um jogo de role-play de mistério offline, e o jogo então superou a aula expositiva do mesmo instrutor em um ensaio randomizado de 42 por braço (η² parcial = 0,566). Os estudantes nunca usaram a IA, de modo que o efeito pertence ao formato.
+
+- **Estudantes como designers de jogos, e não como jogadores:** [[karampa-students-game-designers-ai-literacy-2026|Karampa et al. (2026)]] pediram a 22 estudantes do ensino fundamental de 8 a 12 anos que desenhassem um jogo de tabuleiro de fuga aumentado sobre desinformação, empilhando [[project-based-learning|aprendizagem baseada em projetos]] com [[design-thinking|design thinking]] e o framework de sala de fuga Room2Educ8. O [[ai-literacy|letramento em IA]] compósito em um questionário DigComp 3.0 de 20 itens subiu de 3,684 para 4,309 em uma escala de 5 pontos, t(21) = −21,086, p < ,001, com todas as cinco áreas de competência melhorando. A turma gerou 11 propostas com prompts de IA e as fundiu em um único jogo construível. [[self-report-measures|Autorrelato]], uma turma e nenhum grupo de controle.
+
+- **Separe a IA em um treinador de diálogo e um motor de dificuldade.** Um ambiente Roblox aprimorado por IA para pensamento computacional no ensino médio pareou um personagem não jogável de GPT-4, limitado a duas ou três frases e impedido de dar respostas, com um motor baseado em regras que definia a dificuldade a partir do tempo até a solução e da taxa de erro ([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang e Kanjug, 2026]]).
 
 ### Gamificação
 
@@ -83,7 +87,7 @@ A GBL e a gamificação, juntas, se conectam a [[educational-robotics|robótica 
 
 - Eleve a qualidade de desenho do campo, e não seu volume; uma taxa de 7% de alta qualidade é a restrição vinculante sobre o que se pode concluir.
 
-- **O feedback conversacional em uma simulação eleva a carga cognitiva relevante sem reduzir a extrínseca.** Em um jogo de simulação de negócios de cinco semanas com **234 estudantes**, usuários regulares de um chatbot de feedback baseado em GPT-4o relataram **carga cognitiva relevante significativamente maior** do que os usuários com acesso que não se engajaram (β = −,468, p < ,001) e do que o controle com feedback estático (β = −,253, p = ,028) — enquanto **a carga extrínseca não mostrou efeito** em nenhuma das especificações (F(1, 219) = 0,499, p = ,481). Ambas as cargas **declinaram ao longo das cinco semanas** (extrínseca β = −,388, p < ,001), um efeito de novidade medido na carga cognitiva, e não no engajamento ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger e Liening, 2026]]). O ponto de desenho é que o feedback carregava personalização, sinalização, segmentação e estrutura de feed-forward ao longo de 19 indicadores concretos — a superfície do chatbot sozinha não é o tratamento.
+- **O feedback conversacional em uma simulação eleva a carga cognitiva relevante sem reduzir a extrínseca.** Em um jogo de simulação de negócios de cinco semanas com **234 estudantes**, usuários regulares de um chatbot de feedback baseado em GPT-4o relataram **carga cognitiva relevante significativamente maior** do que os usuários com acesso que não se engajaram (β = −,468, p < ,001) e do que o controle com feedback estático (β = −,253, p = ,028) — enquanto **a carga extrínseca não mostrou efeito** em nenhuma das especificações (F(1, 219) = 0,499, p = ,481). Ambas as cargas **declinaram ao longo das cinco semanas** (extrínseca β = −,388, p < ,001), um efeito de novidade medido na carga cognitiva, e não no engajamento ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger e Liening, 2026]]). O ponto de desenho é que o feedback carregava [[personalized-learning|personalização]], sinalização, segmentação e estrutura de feed-forward ao longo de 19 indicadores concretos — a superfície do chatbot sozinha não é o tratamento.
 
 ## Conceitos conectados
 - [[educational-robotics]]
@@ -110,3 +114,5 @@ A GBL e a gamificação, juntas, se conectam a [[educational-robotics|robótica 
 - [[genai-motivation-engagement-2026]] — IA generativa, motivação e engajamento
 - [[nasa-tlx-workload-gamified-ai-2026]] — Carga de trabalho NASA-TLX entre condições gamificadas/com IA
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — Motivação ARCS e gamificação com apoio de IA
+- [[xie-genai-mystery-game-legal-education-2026]] — Jogo de role-play de mistério escrito por GenAI versus aula expositiva na educação jurídica (Xie et al. 2026)
+- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Desenho e validação preliminar de um ambiente de aprendizagem baseada em jogos aprimorado por IA para pensamento computacional

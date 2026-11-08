@@ -7,7 +7,7 @@ technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ Kırsal ve kaynakları sınırlı bölgelerdeki sekiz hizmet içi öğretmenle y
 
 53 çalışma üzerinde havuzlandığında, GenAI destekli eğitim başarıda (g = 0,40), üst düzey düşünmede (g = 0,72), güdülenmede (g = 0,81) ve yazımda (g = 0,76) GenAI kullanmayan yaklaşımları geride bıraktı; oysa oyun destekli GenAI anlamlı bir yarar katmadı (g = 0,24) ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
 
-Ayrı bir 42 çalışmalık yalnızca güdülenme meta-analizi havuzlanmış etkiyi daha düşük bulur (g = 0,764) ve [−0,689, 2,217] aralığına yayılan %95 öngörü aralığı bildirir; dolayısıyla güdüleyici avantaj yeni bir ortam için güvenilir biçimde olumlu değildir ([[genai-learning-motivation-meta-analysis-2026|Fang ve ark. (2026)]]).
+Ayrı bir 42 çalışmalık yalnızca güdülenme meta-analizi havuzlanmış etkiyi daha düşük bulur (g = 0,764) ve [−0,689, 2,217] aralığına yayılan %95 öngörü aralığı bildirir; dolayısıyla [[motivation|güdüleyici]] avantaj yeni bir ortam için güvenilir biçimde olumlu değildir ([[genai-learning-motivation-meta-analysis-2026|Fang ve ark. (2026)]]).
 
 Üretici arayüz bu dizideki en yeni yetenektir: düz metin yerine çalışan bir etkileşimli ürün — kaydırıcılar, elle işlenebilir simülasyonlar — yayan modeller. [[generative-ui-education-learning-interactives-2026|Kovshov ve ark. (2026)]] (bir Google Araştırma ekibi), raf özeni üretici arayüzün karmaşık yapılar için henüz pedagojik olarak yeterince kesin olmadığını, ama bir öğrenme hedefini kademeli seviyelenmiş hedeflere ayrıştırmanın ve üretimi eleştiri ile öz-iyileştirme döngülerine sarmanın, uzman öğretmenlerin kabul edilebilir bulduğu etkileşimli öğeler ürettiğini bildirir. Onlarınki bir orkestrasyon tasarımıdır: öğretmenler hedefleri belirtir, onaylar ve aday simülasyonlar arasından seçer; dolayısıyla özel [[simulation|etkileşimli öğrenme materyali]] üzerindeki bağlayıcı kısıt üretimden belirtime kayar ve [[guardrails|pedagojik koruyucu çerçeveleme]] sonradan öğretmen tetiktesine bırakılmak yerine üretim hattına gömülür.
 
@@ -72,7 +72,7 @@ Bu çekirdek dizilerin ötesinde, son çalışmalar kanıt tabanını [[governan
 
 ### Üretici YZ özelleşmiş alanlarda: disleksi desteği
 
-PRISMA kılavuzlu, 2018–2024 yıllarını kapsayan, n=72’lik 2026 disiplinler arası sistematik bir derleme (Dabaghi, D’Urso ve Sciarrone), **üretici YZ’nin disleksi desteği alanında yeterince kullanılmadığını** bulur. GAI araştırmaları (tamamenı 2024’ten) akıllı [[conversational-ai|sohbet robotları]], [[teacher-education|öğretmen eğitimi]] desteği ve keşfedici çalışmalar çevresinde toplanır ve tercih edilen araç olarak klasik [[machine-learning|ML]]’yi hızla geride bırakır — oysa titiz deneysellik ve gerçek dünya doğrulaması büyük ölçüde yoktur. Derlemenin gelecek eğilimleri analizi, GAI destekli kişiselleştirilmiş materyallere ve gerçek zamanlı uyarlanabilir geri bildirime, göz izleme, EEG ve davranışsal [[learning-analytics|analitiğini]] bütünleştiren [[multimodal|çok kipli]] teşhis modellerine, NLP kaynaklı [[intelligent-tutoring|akıllı özel öğretmen sistemleri]]ne ve konuşma aracılarına ve eğitimciye yönelik destek araçlarına işaret eder. Bu, özelleşmiş ve yüksek ihtiyaçlı bir alanda içerik üretimi ve etkileşimli desteğe ilişkin üretici YZ’nin vaadini ve onun benimsemesinin kanıt tabanını aşma riskini birlikte gösterir.
+PRISMA kılavuzlu, 2018–2024 yıllarını kapsayan, n=72’lik 2026 disiplinler arası sistematik bir derleme (Dabaghi, D’Urso ve Sciarrone), **üretici YZ’nin disleksi desteği alanında yeterince kullanılmadığını** bulur. GAI araştırmaları (tamamenı 2024’ten) akıllı [[conversational-ai|sohbet robotları]], [[teacher-education|öğretmen eğitimi]] desteği ve keşfedici çalışmalar çevresinde toplanır ve tercih edilen araç olarak klasik [[machine-learning|ML]]’yi hızla geride bırakır — oysa titiz deneysellik ve gerçek dünya doğrulaması büyük ölçüde yoktur. Derlemenin gelecek eğilimleri analizi, GAI destekli kişiselleştirilmiş materyallere ve gerçek zamanlı uyarlanabilir geri bildirime, [[sensor-and-gaze-analytics|göz izleme]], EEG ve davranışsal [[learning-analytics|analitiğini]] bütünleştiren [[multimodal|çok kipli]] teşhis modellerine, NLP kaynaklı [[intelligent-tutoring|akıllı özel öğretmen sistemleri]]ne ve konuşma aracılarına ve eğitimciye yönelik destek araçlarına işaret eder. Bu, özelleşmiş ve yüksek ihtiyaçlı bir alanda içerik üretimi ve etkileşimli desteğe ilişkin üretici YZ’nin vaadini ve onun benimsemesinin kanıt tabanını aşma riskini birlikte gösterir.
 
 ## Yaygın yanlış anlamalar
 
@@ -110,6 +110,7 @@ PRISMA kılavuzlu, 2018–2024 yıllarını kapsayan, n=72’lik 2026 disiplinle
 - [[ai-technologies]] — YZ tekniklerinin ve modellerinin şemsiyyesi
 - [[higher-ed]] — temel bir kullanım bağlamı
 - [[k-12]] — temel bir kullanım bağlamı
+- [[reflection]]
 
 ## Bağlı makaleler
 

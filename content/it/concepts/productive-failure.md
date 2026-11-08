@@ -1,7 +1,7 @@
 ---
 title: Fallimento produttivo
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:09:36-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ Gli studenti generano soluzioni senza supporto cognitivo, facendo affidamento su
 - **Prepara gli studenti a imparare dall'istruzione** — sanno ciò che non sanno e possono collegare il nuovo materiale ai loro tentativi.
 - **Potenzia il trasferimento delle conoscenze e le competenze durevoli** (il [[critical-thinking|pensiero critico]], la resilienza, la comunicazione), riduce la paura di sbagliare e promuove atteggiamenti positivi verso l'apprendimento.
 
-Il framework del fallimento produttivo è stato esteso attraverso progetti correlati, tra cui il **fallimento vicario**, la **diversificazione delle soluzioni** e la **guida adattiva** (Braas et al., 2025; Brand et al., 2025).
+Il framework del fallimento produttivo è stato esteso attraverso progetti correlati, tra cui il **fallimento vicario**, la **diversificazione delle soluzioni** e la **guida adattiva** (Braas et al., 2025; Brand et al., 2025). I casi possono fornire lo spazio problematico condiviso per quel primo tentativo, sebbene la base di evidenze sui casi non abbia ancora testato direttamente l'abbinamento ([[case-based-learning]]).
 
 ## Apprendere dagli sbagli e apprendere dagli errori
 
@@ -108,6 +108,7 @@ Il fallimento produttivo si collega alle [[learning-theories|teorie dell'apprend
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+- [[case-based-learning]] — I casi come spazio problematico condiviso per il primo tentativo
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]
@@ -132,3 +133,4 @@ Il fallimento produttivo si collega alle [[learning-theories|teorie dell'apprend
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Trattenere le soluzioni ha evitato il costo della frustrazione ma ha perso sulla preferenza degli studenti
+

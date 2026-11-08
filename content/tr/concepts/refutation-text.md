@@ -8,7 +8,7 @@ discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/refutation-text
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Çürütme metni** — yaygın bir yanlış kanıyı açıkça ortaya koyan, doğrudan çürüten ve ardından bilimsel olarak doğru kavramı sunan bir metinle gerçekleştirilen yanlış kanı düzeltme tekniği. Fen eğitiminin [[misconceptions|kavramsal değişim]] alanındaki literatürden doğan çürütme metinleri, sıradan öğretime direnen, sezgiyle uyumlu istikrarlı yanlış kanıları yerinden oynatmak için kanıtlanmış, düşük teknolojili bir müdahaledir. Eğitimde YZ’de çürütme metinleri giderek iki yolla kullanılmaktadır: YZ temelli müdahalelerde (kişiselleştirilmiş diyalog, LLM tarafından üretilen içerik) bir **karşılaştırma koşulu** olarak ve **YZ tarafından üretilen içerik** olarak — inançları düzeltmek ya da işbirlikçi tartışmayı beslemek için [[generative-ai|üretken YZ]] ile üretilen kavramsal değişim metinleri ve yanlış kanı metinleri.
+> **Çürütme metni** — yaygın bir yanlış kanıyı açıkça ortaya koyan, doğrudan çürüten ve ardından bilimsel olarak doğru kavramı sunan bir metinle gerçekleştirilen yanlış kanı düzeltme tekniği. [[science-education|Fen eğitiminin]] [[misconceptions|kavramsal değişim]] alanındaki literatürden doğan çürütme metinleri, sıradan öğretime direnen, sezgiyle uyumlu istikrarlı yanlış kanıları yerinden oynatmak için kanıtlanmış, düşük teknolojili bir müdahaledir. [[ai-education|Eğitimde YZ’de]] çürütme metinleri giderek iki yolla kullanılmaktadır: YZ temelli müdahalelerde (kişiselleştirilmiş diyalog, [[llm|LLM]] tarafından üretilen içerik) bir **karşılaştırma koşulu** olarak ve **YZ tarafından üretilen içerik** olarak — inançları düzeltmek ya da işbirlikçi tartışmayı beslemek için [[generative-ai|üretken YZ]] ile üretilen kavramsal değişim metinleri ve yanlış kanı metinleri.
 
 ## Üzerinde Düşünülmesi Gereken Sorular
 
@@ -28,7 +28,7 @@ ai_assist:
 - Bir çürütme metni yanlış kanıyı açıkça belirtir, onu çürütür ve doğru kavramı sunar — yalnızca doğruyu ortaya koyan standart bir anlatı metninin aksine. Yanlış fikri yüksek sesle adlandırmak, neden onu değiştirmeye yardım eder — üstelik doğru fikri öğretmenin görünüşe göre yeterli olmadığı bir durumda?
 - Kişiselleştirilmiş YZ diyalogunun statik çürütme metnini geçip geçmediğine dair araştırma sonuçları karışıktır: bir çalışmada etkileşimli diyalog daha büyük ve daha hızlı inanç değişimi üretti; bir başkasında ise iyi hazırlanmış metinler, istek metniyle yönlendirilen bir YZ sohbetini geride bıraktı. Bu çelişkili sonuçları ne açıklayabilir ve bu, "etkileşimlilik her zaman daha iyidir" fikrine ilişkin size ne söyler?
 - YZ artık uzman kalitesindeki etkili çürütme metinleri üretebilir ve hatta yapılandırılmış akran tartışmasını beslemek için yanlış kanılar üretebilir. Kasıtlı olarak YZ tarafından üretilen yanlış fikirlerden öğretme fikri size riskli mi yoksa verimli mi geliyor — ve hangi koşullarda bunu denemeyi seçerdiniz?
-- Çürütme etkileri başarılı öğrenciler arasında yoğunlaşmış görünmekte ve epistemoloji ile üstbiliş tarafından yönlendirilmektedir. Teknik en çok güçlü olanlara yardım ediyorsa, bu, onu karma bir sınıfta kullanan bir eğitmen için ne tür yükümlülükler doğurur?
+- Çürütme etkileri başarılı öğrenciler arasında yoğunlaşmış görünmekte ve epistemoloji ile [[metacognition|üstbiliş]] tarafından yönlendirilmektedir. Teknik en çok güçlü olanlara yardım ediyorsa, bu, onu karma bir sınıfta kullanan bir eğitmen için ne tür yükümlülükler doğurur?
 - Daha fazla okumadan önce, öğrettiğiniz bir konuda şu anda taşıdığınız bir yanlış kanı adlandırın ve açık "yanlış" iddiayı ile onun çürütmesini kendinizin yazdığını hayal edin. Bu alıştırma, iyi bir çürütme yazmanın ne kadar zor olduğuna dair size ne ortaya koydu?
 
 ## Giriş
@@ -41,14 +41,16 @@ Eğitimde YZ’de merkezî bulgu, düzeltmenin *biçimi* ile *etkileşimliliğin
 
 ### Çürütme metninin eğitimde YZ için neden önemli olduğu
 
-- **Düzelten olarak YZ.** Konuşkan YZ öğretmenleri *kişiselleştirilmiş* çürütme sunabilir — önceden yazılmış metinlerin yapamayacağı biçimde, çürütmeyi anında öğrencinin özgül yanlış kanısına uyarlar. Bu, statik çürütmeye kıyasla daha güçlü anlık inanç değişimi ve daha yüksek katılım/güven üretir ([[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026|Corbett ve Tangen 2026]]), ancak etkilerin sürmesi için aralıklı pekiştirme gerekebilir.
+- **Düzelten olarak YZ.** [[conversational-ai|Konuşkan YZ]] öğretmenleri *kişiselleştirilmiş* çürütme sunabilir — önceden yazılmış metinlerin yapamayacağı biçimde, çürütmeyi anında öğrencinin özgül yanlış kanısına uyarlar. Bu, statik çürütmeye kıyasla daha güçlü anlık inanç değişimi ve daha yüksek katılım/güven üretir ([[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026|Corbett ve Tangen 2026]]), ancak etkilerin sürmesi için aralıklı pekiştirme gerekebilir.
 - **Çürütme içeriğinin üreticisi olarak YZ.** [[generative-ai|Üretken YZ]], uzman yazımı kalitesine eşdeğer etkili kavramsal değişim metinleri üretebilir ([[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan 2025]]) ve bağlama özgü yanlış kanı metinlerinin büyük sayıda örneğini düşük maliyetle üretebilir — aksi halde eğitmen deneyimine bağlı olacak yanlış kanı temelli öğrenmeyi ölçeklendirerek ([[llms-misconception-collaborative-learning-healthcare-2026|Cheah ve ark. 2026]]).
-- **Öğrenme kaynağı olarak YZ tarafından üretilen yanlış kanılar.** YZ tarafından üretilen yanlış kanıları zararlı olarak görmek yerine, onlarla işbirlikçi bir tartışma — çürütme yoluyla işbirliğinin bir biçimi — kavramsal değişimi ve eleştirel düşünceyi destekleyebilir ([[llms-misconception-collaborative-learning-healthcare-2026|Cheah ve ark. 2026]]).
+- **Öğrenme kaynağı olarak YZ tarafından üretilen yanlış kanılar.** YZ tarafından üretilen yanlış kanıları zararlı olarak görmek yerine, onlarla işbirlikçi bir tartışma — çürütme yoluyla işbirliğinin bir biçimi — kavramsal değişimi ve [[critical-thinking|eleştirel düşünceyi]] destekleyebilir ([[llms-misconception-collaborative-learning-healthcare-2026|Cheah ve ark. 2026]]).
 - **Yanlış kanı eğitimini tamamlamak.** Çürütme metinleri, öğrencilerin YZ’nin kendisine ilişkin yanlış inançlarının temelindeki kavramsal yanlış kanıları düzeltmek için önerilen bir stratejidir (bkz. [[misconceptions]] ve [[critical-genai-use-predictors]]).
 
 ### Çürütme metni karşısında ilgili teknikler
 
-Çürütme metinleri, analojiler, tutarsız olaylar ve etkileşimli diyalogla birlikte kavramsal değişim araç setinin bir üyesidir. Avantajları **ölçeklenebilir, düşük maliyetli ve gösterilebilir biçimde etkili** olmalarıdır; sınırlılıkları ise statik metinlerin öğrene adapte olamamasıdır. YZ diyalogu uyum boşluğunu giderir, ancak tasarıma bağımlılık (kişiselleştirme, istek metni kalitesi) ve bazı çalışmalarda iyi hazırlanmış metne karşı hiçbir avantaj olmaması getirir. Çürütme metni ile YZ diyalogu arasındaki ilişki bu nedenle tamamlayıcıdır: metin ölçekte güvenilir bir taban düzeltme sunar; kişiselleştirilmiş YZ diyalogu ise iyi tasarlandığında daha güçlü, daha hızlı ve daha motive edici bir düzeltme sunar.
+Çürütme metinleri, analojiler, tutarsız olaylar ve etkileşimli diyalogla birlikte kavramsal değişim araç setinin bir üyesidir. Avantajları **ölçeklenebilir, düşük maliyetli ve gösterilebilir biçimde etkili** olmalarıdır; sınırlılıkları ise statik metinlerin öğrene adapte olamamasıdır. YZ diyalogu uyum boşluğunu giderir, ancak tasarıma bağımlılık ([[personalized-learning|kişiselleştirme]], istek metni kalitesi) ve bazı çalışmalarda iyi hazırlanmış metne karşı hiçbir avantaj olmaması getirir. Çürütme metni ile YZ diyalogu arasındaki ilişki bu nedenle tamamlayıcıdır: metin ölçekte güvenilir bir taban düzeltme sunar; kişiselleştirilmiş YZ diyalogu ise iyi tasarlandığında daha güçlü, daha hızlı ve daha motive edici bir düzeltme sunar.
+
+Bu tasarım bağımlılığının arkasındaki iki çalışma, alan bakımından göründüğünden daha fazla ayrışır. Corbett ve Tangen, 19 ile 78 yaş arasındaki 375 yetişkini rastgele atadı ve tek bir üç turlu diyalogda her katılımcının kendi en yüksek puanlı yanlış kanısını hedef aldı; diyalogun ders kitabı çürütmesine üstünlüğü 10. günde sürdü, ancak iki ayda kapandı ([[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026|Corbett ve Tangen, 2026]]). Akdoğan’ın Ankara’daki 413 onuncu sınıf öğrencisi kişiselleştirilmiş bir oturum yerine tek bir betikli istek oturumu aldı ve etkileşimli koşul kontrole karşı hiçbir avantaj göstermezken hem uzman yazımı hem de YZ tarafından üretilen metinler avantaj gösterdi ([[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan, 2025]]). Sonuçları ayıran şey etkileşimlilik olarak değil, kişiselleştirme ve kalıcılık penceresidir; pratik bulgu ise bozulma eğrisidir: bir diyalog haftalarca süren düzeltme satın alır, kalıcı inanç değişimi değil.
 
 ### Temel araştırma temaları
 
@@ -60,7 +62,7 @@ Eğitimde YZ’de merkezî bulgu, düzeltmenin *biçimi* ile *etkileşimliliğin
 
 ### Pratik çıkarımlar
 
-Eğitmenler için çürütme metinleri, inatçı yanlış kanıları düzeltmenin güvenilir ve düşük eşikli bir yolu olmaya devam etmektedir. YZ’yi bütünleştirenler için kanıtlar şunu önermektedir: (1) YZ’yi ölçekte etkili çürütme/kavramsal değişim içeriği *üretmek* için kullanın; (2) mümkün olduğunda çürütmeyi, daha güçlü anlık katılım ve inanç değişimi için kişiselleştirilmiş YZ diyalogu yoluyla sunun; (3) YZ tarafından üretilen yanlış kanıların, onlarla yüzleşmek için yapılandırılmış tartışma kullanıldığında pedagojik olarak yararlı olmasını bekleyin; ve (4) öğrenen için tasarlayın — çürütme etkileri başarılı öğrencilerde yoğunlaşabilir ve epistemoloji ile üstbiliş tarafından yönlendirilebilir, bu nedenle iskeleleme ve izleme önemlidir.
+Eğitmenler için çürütme metinleri, inatçı yanlış kanıları düzeltmenin güvenilir ve düşük eşikli bir yolu olmaya devam etmektedir. YZ’yi bütünleştirenler için kanıtlar şunu önermektedir: (1) YZ’yi ölçekte etkili çürütme/kavramsal değişim içeriği *üretmek* için kullanın; (2) mümkün olduğunda çürütmeyi, daha güçlü anlık katılım ve inanç değişimi için kişiselleştirilmiş YZ diyalogu yoluyla sunun; (3) YZ tarafından üretilen yanlış kanıların, onlarla yüzleşmek için yapılandırılmış tartışma kullanıldığında pedagojik olarak yararlı olmasını bekleyin; ve (4) öğrenen için tasarlayın — çürütme etkileri başarılı öğrencilerde yoğunlaşabilir ve epistemoloji ile üstbiliş tarafından yönlendirilebilir, bu nedenle [[scaffolding|iskeleleme]] ve izleme önemlidir.
 
 ## Yaygın yanlış anlamalar
 

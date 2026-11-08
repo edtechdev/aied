@@ -1,7 +1,7 @@
 ---
 title: "Analitik Sensor dan Tatapan"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-08T14:01:53-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: "concepts/sensor-and-gaze-analytics"
-source_updated: "2026-11-04T16:09:41-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,10 @@ Labelnya sering menjadi mata rantai terlemah. E3Sense memprediksi penilaian segm
 Korelat neural bukanlah skor. Gambar yang direkonstruksi dari EEG berkorelasi dengan kinerja tes pada R² = 0.79 pada 55 pengamatan peserta-video. Butir yang dijawab benar juga menunjukkan kemiripan semantik yang lebih tinggi daripada yang salah. Namun satu peserta menghasilkan rekonstruksi berkualitas tinggi dan menjawab salah, sehingga kualitas rekonstruksi tidak dapat dibaca sebagai kebenaran ([[seeing-cognitive-representations-eeg-reconstruction|Su dkk., 2026]]).
 
 Perhatian bukanlah pembelajaran. Dalam TutorLoop, perhatian berkorelasi dengan pembelajaran pada r = 0.017, sementara beban kerja berkorelasi negatif pada r = -0.168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Sistem yang memaksimalkan sinyal perhatian akan mengoptimalkan sesuatu yang mendekati derau.
+
+
+Sensor dapat merekam ko-koberadaan di tempat sebuah studi mengklaim interaksi: [[hur-computational-analysis-teacher-group-interactions-2026|Hur dkk. (2026)]] menemukan detektor berbasis pose hanya mencapai recall 55%, menangkap 11 dari 20 peristiwa yang diidentifikasi pengode manusia dalam interaksi kelompok guru–siswa. Guru hadir di dalam batas kelompok pada 49.2% segmen yang dikodekan sementara siswa memandang guru hanya pada 25.4%, dan tidak ada fitur audio yang berubah pada kedua perbandingan itu, sehingga pipeline mencatat ko-koberadaan spasial alih-alih interaksi yang berkelanjutan.
+
 
 Profil fisiologis bukanlah diagnosis. Model stres ujian memprediksi kategori nilai dari gairah dan gerakan, dan para penulis menegaskan bahwa keluarannya berada di samping keadaan pribadi dan konteks kesehatan mental, bukan di dalam keputusan bertaruh tinggi ([[physiological-signals-exam-outcomes-ml|Yamazaki dan Rimal, 2026]]).
 

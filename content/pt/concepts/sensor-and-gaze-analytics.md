@@ -1,7 +1,7 @@
 ---
 title: Analítica de sensores e do olhar
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-08T12:22:14-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-04T16:09:41-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,12 @@ A [[assessment-validity|validação]] pode inflar o modelo. Um benchmark de quin
 Um correlato neural não é uma nota. Imagens reconstruídas a partir de EEG se correlacionaram com o desempenho no teste em R² = 0,79 em 55 observações participante-vídeo. Itens respondidos corretamente também mostraram maior similaridade semântica que os incorretos. Ainda assim, um participante produziu reconstruções de alta qualidade e respondeu incorretamente, de modo que a qualidade da reconstrução não pode ser lida como acerto ([[seeing-cognitive-representations-eeg-reconstruction|Su et al., 2026]]).
 
 Atenção não é aprendizagem. No TutorLoop, a atenção se correlacionou com a aprendizagem em r = 0,017, enquanto a carga de trabalho se correlacionou negativamente em r = -0,168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Um sistema que maximizasse o sinal de atenção teria otimizado algo próximo do ruído.
+
+
+Um sensor pode registrar copresença onde um estudo afirma interação: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] constataram que um detector baseado em pose alcançou apenas 55% de recall, capturando 11 de 20 eventos que codificadores humanos identificaram em interações professor–grupo de estudantes. O professor estava presente dentro do limite do grupo em 49,2% dos segmentos codificados, enquanto os estudantes olhavam para o professor em apenas 25,4%, e nenhuma característica de áudio mudou em qualquer das comparações, de modo que o pipeline registrou copresença espacial, e não interação sustentada.
+
+
+
 
 Um perfil fisiológico não é um diagnóstico. Modelos de estresse em provas preveem uma categoria de nota a partir de ativação e movimento, e os autores insistem que a saída pertence ao lado de circunstâncias pessoais e do contexto de saúde mental, não a uma decisão de alto impacto ([[physiological-signals-exam-outcomes-ml|Yamazaki e Rimal, 2026]]).
 

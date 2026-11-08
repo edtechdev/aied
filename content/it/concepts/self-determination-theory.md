@@ -1,7 +1,7 @@
 ---
 title: Teoria dell'autodeterminazione
 created: "2026-10-14T21:58:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:14:01-05:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,7 +9,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,9 @@ La SDT è usata in misura crescente nella [[research-methods-aied|ricerca]] sull
 
 Un risultato di classe in contrasto mostra che i bisogni non si muovono insieme: tra 2.464 studenti della secondaria di primo grado, l'apprendimento per competenze sostenuto da ChatGPT ha aumentato il sostegno all'autonomia e la soddisfazione della competenza, eppure ha prodotto una quota maggiore di profili motivazionali di bassa qualità, e la soddisfazione della relazione era più debole che nell'apprendimento per competenze senza IA ([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]]).
 
+- **La disponibilità non è l'uso.** Con 406 studenti delle classi 5–8 che hanno scritto due volte, una senza strumenti digitali e una con la GenAI facoltativa, la soddisfazione dell'autonomia è calata (Δ = −0,28) mentre la regolazione media è rimasta stabile e il grado di uso dell'IA non prediceva alcuna appartenenza a un profilo ([[schweder-motivational-organization-ai-writing-sdt-2026|Schweder e Grahl (2026)]]).
+
+
 È stata l'autonomia, non la facilità, a portare il guadagno motivazionale in questo caso. Un [[rct|RCT]] a tre bracci ha rilevato che un tutor che tratteneva i suggerimenti, mantenendo i discenti impegnati a costruire la propria soluzione, era l'unico braccio ad aumentare la motivazione intrinseca (2,82 contro 2,42), mentre ChatGPT senza restrizioni, che fornisce la risposta, non lo faceva (2,64, p = ,076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 
 Una verifica configurazionale acuisce il punto: tra 498 studenti di medicina del primo anno, l'uso dell'IA generativa era solo debolmente associato alla soddisfazione dei bisogni (β = 0,155) ed è risultato non necessario per un elevato coinvolgimento, mentre la soddisfazione del bisogno di competenza era la condizione centrale nella configurazione più forte ([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
@@ -60,19 +63,23 @@ Una verifica configurazionale acuisce il punto: tra 498 studenti di medicina del
 
 Per gli insegnanti stessi, la collaborazione con l'IA taglia in due sensi: uno studio a tre ondate su 468 docenti universitari ha trovato che essa aumentava il coinvolgimento lavorativo attraverso la disponibilità psicologica e lo abbassava attraverso l'alienazione lavorativa, e la [[teacher-ai-competency|competenza digitale]] rafforzava il primo percorso e indeboliva il secondo ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 
-Una cornice di co-agency delimita la portata della SDT nell'educazione mediata dall'IA: essa cambia le circostanze in cui sorgono autonomia, competenza e relazione, ma lascia non affrontate l'equità di potere, la proprietà dei dati e la responsabilità, ed è per questo che i suoi autori pongono la responsabilità epistemica umana come condizione non negoziabile al di fuori della teoria ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
+Una cornice di co-agency delimita la portata della SDT nell'educazione mediata dall'IA: essa cambia le circostanze in cui sorgono autonomia, competenza e relazione, ma lascia non affrontate l'[[equity-in-ai-education|equità]] di potere, la proprietà dei dati e la responsabilità, ed è per questo che i suoi autori pongono la responsabilità epistemica umana come condizione non negoziabile al di fuori della teoria ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
 
-**Il sostegno all'autonomia come cornice per l'uso dell'IA generativa da parte dei bambini.** [[family-school-autonomy-support-genai-2026|Fan, Li e Zhang (2026)]] spostano la questione dell'uso responsabile dalla restrizione al sostegno ai bisogni, sostenendo che la distinzione che conta è se gli adulti attorno a un bambino sostengano l'autonomia piuttosto che controllarla, e distinguendo tra [[cognitive-offloading|scaricamento cognitivo]] dipendente e autonomo nei termini della SDT: lo scaricamento dipendente trasferisce l'[[agency|agency]] e abbassa la motivazione intrinseca, lo scaricamento autonomo fornisce supporto graduale mentre lo studente conserva il controllo epistemico. Due caratteristiche della revisione sono direttamente rilevanti per l'applicazione della SDT: essa insiste che il sostegno all'autonomia non è permissività, e tratta il coordinamento famiglia-scuola che le linee guida attuali danno per assunto come un'ipotesi non verificata, formalizzando versioni additive, sinergiche e compensative che solo una sperimentazione fattoriale che contrapponga indicazioni solo familiari, solo scolastiche, coordinate e di pratica usuale potrebbe discriminare.
+**Il sostegno all'autonomia come cornice per l'uso dell'IA generativa da parte dei bambini.** [[family-school-autonomy-support-genai-2026|Fan, Li e Zhang (2026)]] spostano la questione dell'uso responsabile dalla restrizione al sostegno ai bisogni, sostenendo che la distinzione che conta è se gli adulti attorno a un bambino sostengano l'autonomia piuttosto che controllarla, e distinguendo tra [[cognitive-offloading|scaricamento cognitivo]] dipendente e autonomo nei termini della SDT: lo scaricamento dipendente trasferisce l'[[agency|agency]] e abbassa la motivazione intrinseca, lo scaricamento autonomo [[scaffolding|fornisce supporto graduale]] mentre lo studente conserva il controllo epistemico. Due caratteristiche della revisione sono direttamente rilevanti per l'applicazione della SDT: essa insiste che il sostegno all'autonomia non è permissività, e tratta il coordinamento famiglia-scuola che le linee guida attuali danno per assunto come un'ipotesi non verificata, formalizzando versioni additive, sinergiche e compensative che solo una sperimentazione fattoriale che contrapponga indicazioni solo familiari, solo scolastiche, coordinate e di pratica usuale potrebbe discriminare.
 
 ## Connessioni con i concetti correlati
 
 La SDT si collega direttamente alla [[motivation|motivazione]] come suo costrutto genitore, al [[affective-computing|calcolo affettivo]] e alla [[affective-tutoring|tutoring affettivo]] per la progettazione di IA emotivamente consapevole, e all'[[student-experience|esperienza studentesca]] per il modo in cui gli studenti vivono gli ambienti mediati dall'IA. L'enfasi della teoria sull'autonomia si collega all'[[self-regulated-learning|apprendimento autoregolato]], mentre la sua dimensione della competenza si collega all'[[self-efficacy-tutoring-learning|autoefficacia]] e alla [[teacher-ai-competency|competenza in IA degli insegnanti]]. La SDT è particolarmente rilevante per la [[professional-training|formazione professionale]] e lo [[educational-development|sviluppo educativo]] perché la progettazione di sostegno ai bisogni è un principio trasferibile per preparare gli educatori a usare l'IA.
 
+
+**I tre bisogni non sono esercitati in modo uniforme dalla ricerca sull'IA generativa.** [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna e Jiang (2026)]] hanno codificato 39 studi rispetto a una classificazione di 20 attività e hanno trovato 14 attività presenti, con sette tipi legati alla competenza contro cinque per l'autonomia e due per la relazione. Sei attività erano assenti da ogni studio, e la maggior parte chiede allo studente di giudicare o sfidare lo strumento: creare problemi impegnativi, anticipare gli output dello strumento, valutarli e discuterne con esso. La relazione è il bisogno meno testato dalla letteratura.
+
+
 ## Idee sbagliate comuni
 
 - **"Il tipo di motivazione conta meno della quantità di motivazione."** Uno studio della durata di un anno ha rilevato **tre profili motivazionali — Disimpegnato, In sviluppo, Autodeterminato — stabili nel tempo**, e gli studenti che raggiungevano il profilo **Autodeterminato** mostravano i **maggiori guadagni di [[ai-literacy|alfabetizzazione sull'IA]]**. La qualità della motivazione prediceva l'apprendimento, e i profili non derivavano semplicemente verso l'alto.
 - **"Sostenere l'autonomia significa rimuovere la struttura."** Il meccanismo della SDT è autonomia, competenza e relazione insieme, e le evidenze longitudinali mostrano che soddisfarle prediceva i guadagni anziché semplicemente accompagnarli. L'autonomia senza sostegno alla competenza è permissivismo, e non soddisfa le condizioni della teoria.
-- **"Un chatbot può fornire i tre bisogni automaticamente."** Uno studio ha rilevato che ChatGPT poteva sostenere autonomia, relazione e competenza nell'apprendimento delle lingue — una possibilità, non una proprietà. Se una data interazione li sostenga è una questione empirica su come viene usata.
+- **"Un [[conversational-ai|chatbot]] può fornire i tre bisogni automaticamente."** Uno studio ha rilevato che ChatGPT poteva sostenere autonomia, relazione e competenza nell'apprendimento delle lingue — una possibilità, non una proprietà. Se una data interazione li sostenga è una questione empirica su come viene usata.
 
 ## Concetti collegati
 
@@ -106,3 +113,7 @@ La SDT si collega direttamente alla [[motivation|motivazione]] come suo costrutt
 - [[genai-learning-engagement-medical-undergraduates-2026]] — GAI use is weakly tied to need satisfaction and unnecessary for high engagement (He et al. 2026)
 - [[teacher-ai-collaboration-work-engagement-2026]] — Dual pathways from teacher–AI collaboration to work engagement, moderated by digital competency
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Trattenere i suggerimenti ha preservato l'autonomia dove fornire la risposta non lo ha fatto
+
+- [[schweder-motivational-organization-ai-writing-sdt-2026]] — Disponibilità dell'IA, calo dell'autonomia e profili motivazionali nelle classi 5–8 (Schweder e Grahl 2026)
+- [[pan-generative-ai-student-motivation-sdt-review-2026]] - 39 studi codificati rispetto a una classificazione di 20 attività; la competenza è la più esercitata, la relazione la meno
+

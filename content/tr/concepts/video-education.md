@@ -8,7 +8,7 @@ audience: [instructors, instructional designers]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/video-education
-source_updated: "2026-10-25T15:20:00-04:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Eğitimde video** — videonun [[teacher-role|öğretim]] ve öğrenme aracı olarak kullanımı ve [[generative-ai|üreten YZ]]’nin bunu nasıl yeniden şekillendirdiği: YZ tarafından üretilen ve YZ [[personalized-learning|kişiselleştirilmiş]] öğretim videoları, YZ avatarları ve sunucuları, uyarlanabilir video üretimi, video temelli [[learning-analytics|öğrenme analitiği]] ve dikkat/[[student-engagement|bağlılık]] algılama ve ders videosu tüketimi için YZ desteği. Bilgi tabanı, videoyu hem yerleşik bir çevrimiçi öğrenme aracı hem de [[online-teaching-and-learning|çevrimiçi]], karma ve yüz yüze öğretimi kapsayan hızla evrilen bir YZ yenilik alanı olarak ele alır.
+> **Eğitimde video** — videonun [[teacher-role|öğretim]] ve öğrenme aracı olarak kullanımı ve [[generative-ai|üreten YZ]]’nin bunu nasıl yeniden şekillendirdiği: YZ tarafından üretilen ve YZ [[personalized-learning|kişiselleştirilmiş]] öğretim videoları, YZ [[ai-avatars-and-synthetic-instructors|avatarları]] ve sunucuları, uyarlanabilir video üretimi, video temelli [[learning-analytics|öğrenme analitiği]] ve dikkat/[[student-engagement|bağlılık]] algılama ve ders videosu tüketimi için YZ desteği. Bilgi tabanı, videoyu hem yerleşik bir çevrimiçi öğrenme aracı hem de [[online-teaching-and-learning|çevrimiçi]], karma ve yüz yüze öğretimi kapsayan hızla evrilen bir YZ yenilik alanı olarak ele alır.
 
 ## Üzerine Düşünülmesi Gereken Sorular
 
@@ -40,11 +40,15 @@ Video, çağdaş eğitimin bir köşe taşıdır — özellikle [[online-teachin
 - **Uyarlanabilir ve yapılandırılmış video üretimi.** [[courseblueprint-adaptive-video-generation|CourseBlueprint]], kurs derlemelerine dayalı uyarlanabilir pedagojik video üreten yapılandırılmış bir iş hattı sunar; açık pedagojik yapının — salt [[ai-literacy|YZ akıcılığından]] değil — etkili YZ videoyu yönlendirdiğini gösterir. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]], aynı mantığı tüm ders ölçeğinde uygular: 31 lisansüstü dersten sağlık, finans, enerji ve jenerik bir kitle için 209 video üretmiştir; bunların 92’sini değerlendiren 25 alan uzmanı, “standart bir MOOC dersinin kalitesi” olarak yazılan orta noktanın üstünde ya da eşitte %87’sini konumlandırmıştır (5 üzerinden ortalama 3,42), dakika başına yaklaşık \\$0,22 API maliyetiyle — ses, slayt zamanlaması ve yerleşim, yinelenen kusurlardır.
 - **Öğrenme döngüsü, daha iyi bir işlemeden üstündür.** [[pivot-generative-video-tutors-stem-2026|Ma ve ark. (2026)]], her videoyi hedefler, ön koşul etkinleştirme, işlenmiş örnekler ve tanısal sorguları içeren bir hikâye panosu olarak planlar; videonun örneklerinden kaçınan bir sınav ve her yanlış seçenek için bir telafi hamlesiyle eşler. 32 öğretmenden %96,9’u döngüyü bağımsız bir videodan daha etkili bulmuştur.
 
-- **Videonun kodlanmasına ilişkin sinirsel bir okuma.** İzlenen video karelerinin EEG yeniden yapılandırmaları, doğru yanıtlanan sorular için (M = 71.43) yanlış yanıtlananlara (M = 62.30, p < .001) göre anlamsal olarak daha benzerdi ve sistematik zamansal yanlış hizalanma, yani önceki karelere benzeyen yeniden yapılandırmalar, performansla ilişkili bir dağılım ölçüsü olarak nicelendirilebildi ([[seeing-cognitive-representations-eeg-reconstruction|Su ve ark. (2026)]]).
+- [[zhou-gaiva-human-ai-video-analysis-2026|Zhou, Kang ve Nguyen (2026)]], sınıf videosu analizine insan düzeyinde güvenilirlik kazandırmak için GAIVA’da bir MLLM transkripsiyon aşamasını yalnızca metinle çalışan bir LLM kodlama aşamasıyla eşler. Rol atama istemleri en dengeli transkriptleri üretmiş (doğruluk M = 3,24, bütünlük M = 3,86), değerlendirici çift kodlaması 0,89 ile 0,99 arasında ICC değerlerine ulaşmış ve GPT-4o’nun transkript temelli kodlaması Koordineli İşbirliği için κ = 0,91’e ulaşarak insan–insan κ = 0,83’ün üzerine çıkmıştır.
+
+- **Videonun kodlanmasına ilişkin sinirsel bir okuma.** İzlenen video karelerinin [[sensor-and-gaze-analytics|EEG]] yeniden yapılandırmaları, doğru yanıtlanan sorular için (M = 71.43) yanlış yanıtlananlara (M = 62.30, p < .001) göre anlamsal olarak daha benzerdi ve sistematik zamansal yanlış hizalanma, yani önceki karelere benzeyen yeniden yapılandırmalar, performansla ilişkili bir dağılım ölçüsü olarak nicelendirilebildi ([[seeing-cognitive-representations-eeg-reconstruction|Su ve ark. (2026)]]).
 - **Video öğrenme analitiği ve dikkat.** Videoyu enstrümanla ölçmek, öğrenenlerin nasıl bağlandığını ortaya koyar. [[engagement-assessment-video|Video öğrenmede bağlılık değerlendirmesi]] ve [[savvy-student-attention-video-learning|SAVVY]], video temelli öğrenme sırasında öğrenci dikkatini görselleştirir; [[learning-analytics|öğrenme analitiğini]], [[self-regulated-learning|öz düzenlemeyi]] ve kopma konusunda erken uyarıyı destekler. Bölütleme çalışmaları (örneğin [[adhd-video-segmentation-computing-education|zamansal video bölütleme]]), videoyu bireysel farklılıklara uyarlar.
 - **Avatarlar ve varlık.** YZ avatarları — sanal sunucular ve pedagojik etmenler — kimlik, [[community-of-inquiry|sosyal varlık]] ve güven sorularını gündeme getirir. [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Avatar kimliği ve epistemik güven]], bir sunucunun görünür kimliğinin öğrenenlerin güvenini nasıl şekillendirdiğini inceler; [[ai-psychotherapy-training-avatars|eğitimde YZ avatarları]] ise kalıbı profesyonel uygulamaya taşır.
 - **Video içi iskele yorumları — ve YZ’nin hâlâ yanlış yaptığı.** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du ve Jin (2026)]], kare düzeyinde entropi hesaplayarak ve desteği yalnızca düşük bilgili aralıklara yerleştirerek, videonun çerçevesi içinde içeriğe eşzamanlı biçimde işlenen, [[scaffolding]] (iskele) mesajları olan *i-Comments*’ı üretir. Deneyimli öğretmenlerden gelen 120 yorumla karşılaştırıldığında, ChatGPT’nin 1.000 yorumu daha yoğun, yapısal olarak çok daha az çeşitli (POS 3-gram çeşitliliği %5,5–6,2’ye karşı %25,1–38,5), her okunabilirlik indeksinde okunması daha zor ve konu olarak daha az hizalı olmuştur (duygusal destek BERTScore’u 0,317’ye karşı 0,574); 40 öğrenci insan yorumları zamanlama ve yardımlılık açısından anlamlı biçimde daha yüksek puanlamıştır; ancak daha yeni bir model bu uçurumu daraltmıştır. Argüman, bir otomasyon argümanı kadar bir tasarım argümanıdır: ortama gömülü destek, ayrı bir [[conversational-ai|sohbet robotuna]] sormak için duraklatmanın dikkat ve bilişsel maliyetinden kaçınır ([[ai-feedback-quality|geri bildirim kalitesi]], [[social-emotional-learning|duygusal destek]]).
 - **Ders videosu tüketimi için YZ desteği.** Üretimin ötesinde, YZ öğrenenlerin ve öğretmenlerin mevcut videoyla çalışmasına yardımcı olur: [[bilingual-llm-lecture-companion-srl-2026|iki dilli LLM ders eşlikçileri]], kaydedilmiş derslerle öz düzenlemeli öğrenmeyi destekler; [[gemini-lualatex-physics-video-transcription-2026|transkripsiyon iş hatları]], ders videosunu erişilebilir metne dönüştürür.
+- **Transkript sadakati, metnin videonun yerini ne ölçüde tutabileceğini belirler.** [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard ve Rosenberg (2026)]], Crash Course U.S. History bölümlerinde beş ASR sistemini insan referans transkriptine karşı kıyaslamış; kelime hata oranları %2,43 (TurboScribe) ile %15,32 (Vosk) arasında değişmiştir. 48 transkriptin GPT-5.5 ile kodlanması, PERSON’u en sık adlandırılmış varlık kategorisi olarak bulmuş (toplam 2.033; bölüm başına M = 42,35) ve önceden tanımlanmış bir K-taraması K = 5’i seçmiş; burada LLM referans genişletmesi ASR temel çizgisinden daha net konu ayrımı üretmiştir.
+- **Bölge düzeyinde yakınlaştırma, anlatımlı slaytların eksik bıraktığı katmandır.** 24 izleyiciyle yapılan bir iç konu tasarımlı çalışma, otomatik yakınlaştırma ile eşzamanlı vurguların NASA-TLX iş yükünü 5,74’ten 4,53’e düşürdüğünü (d = 0,84) ve anlık kavrayışı yükselttiğini (d = 0,46), ancak 24 saatlik avantajın anlamlılığı kaçırdığını bulmuştur (p = ,054) ([[lian-guideslide-narrated-slides-visual-guidance-2026|Lian ve ark., 2026]]).
 
 ### Kişiselleştirme ve insan varlığı karşı karşıya
 
@@ -81,7 +85,7 @@ Etkili YZ videosu üretmek, pedagojik yapı ve insan denetimi gerektirir ve ayr�
 **Araştırmacılar için**
 
 - Tercih ve sonuç ölçülerini birlikte bildirin ve bir çalışmanın yalnızca ilkine sahip olduğu durumları açıkça belirtin.
-- Video içeriği ile bilişsel işleme arasındaki uyumsuzluk sinirsel veride göründüğünden, zamansal hizalanmayı açıkça bildirin.
+- Video içeriği ile [[cognitive-psychology|bilişsel işleme]] arasındaki uyumsuzluk sinirsel veride göründüğünden, zamansal hizalanmayı açıkça bildirin.
 
 ## Bağlı kavramlar
 
@@ -112,3 +116,4 @@ Etkili YZ videosu üretmek, pedagojik yapı ve insan denetimi gerektirir ve ayr�
 - [[ai-psychotherapy-training-avatars]] — Psikoterapi eğitiminde YZ avatarları
 - [[gemini-lualatex-physics-video-transcription-2026]] — Fizik ders videosunu erişilebilir metne dönüştürmek
 - [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
+- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — Bak oraya! YZ anlatımlı slaytlar için dinamik görsel yönlendirme

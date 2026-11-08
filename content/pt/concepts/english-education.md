@@ -1,7 +1,7 @@
 ---
 title: "Ensino de inglês (EAP / EFL / ESL)"
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:51:50-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ Este conceito organiza a [[research-methods-aied|pesquisa]] sobre IA no **ensino
 - **Inglês acadêmico (EAP):** apoio de IA ao inglês baseado em gêneros e específico de disciplina usado na escrita, leitura e feedback do ensino superior — distinto do ensino geral de escrita.
 - **Ensino de língua inglesa (EFL/ESL/L2):** [[intelligent-tutoring|tutores de IA]], interlocutores e ferramentas de [[feedback|feedback]] para quem está adquirindo inglês.
 - **[[assessment|Avaliação]] específica do inglês:** avaliação e feedback automatizados sobre escrita e fala em inglês, incluindo revisão de escrita em EAP e avaliação de escrita em L2.
-- **Legibilidade de leitura e literatura:** [[bird-multimodal-educational-literature-2026|Bird (2026)]] funde classificação de texto por transformers com atributos da linguística computacional para classificar literatura inglesa por Key Stage do Reino Unido, alcançando F1 de 0,996 — um complemento escalável e orientado por dados ao apoio à leitura baseado em gêneros do EAP e ao alinhamento por nível de leitura.
+- **[[reading-education|Legibilidade]] de leitura e literatura:** [[bird-multimodal-educational-literature-2026|Bird (2026)]] funde classificação de texto por transformers com atributos da linguística computacional para classificar literatura inglesa por Key Stage do Reino Unido, alcançando F1 de 0,996 — um complemento escalável e orientado por dados ao apoio à leitura baseado em gêneros do EAP e ao alinhamento por nível de leitura.
 - **Equidade linguística:** a tensão entre a dominância do inglês na IA e as necessidades de quem escreve em contexto multilíngue e em variedades do inglês.
 
 ## Como o ensino de inglês difere da aprendizagem de línguas
@@ -57,7 +57,7 @@ A [[language-learning|aprendizagem de línguas]] é o guarda-chuva mais amplo pa
 | Dimensão | [[language-learning|Aprendizagem de línguas]] | **Ensino de inglês (esta página)** |
 |-----------|----------------------|-----------------------------------|
 | Língua-alvo | Qualquer L2 (francês, espanhol, japonês, …) | Inglês especificamente |
-| Foco | Aquisição de L2 em geral: diálogo falado, pronúncia, letramento | Inglês como língua-alvo + o registro do inglês acadêmico |
+| Foco | Aquisição de L2 em geral: [[speech-and-voice-technologies|diálogo falado]], pronúncia, letramento | Inglês como língua-alvo + o registro do inglês acadêmico |
 | Contextos característicos | Conversação, pronúncia, fluência geral | **EAP**: escrita acadêmica, leitura, feedback, gênero |
 | IA representativa | Interlocutores de L2, [[speech-and-voice-technologies|feedback de pronúncia]], L2 assistido por robô | Ferramentas de escrita EAP, feedback entre pares em EFL, avaliação de escrita acadêmica em inglês |
 
@@ -87,18 +87,18 @@ Muitos artigos de educação em escrita são inglês-primeiro (por exemplo, [[ma
 
 A dominância do inglês na IA é uma característica definidora desta vertente. Como os modelos são mais fortes em inglês e especificamente no inglês acadêmico padrão, o ensino de inglês se beneficia desproporcionalmente (andaimes poderosos para EAP) e carrega riscos distintivos (viés monolíngue, discriminação contra variedades do inglês e contra quem escreve em contexto multilíngue). A pesquisa aqui se conecta a [[equity-in-ai-education|equidade]], [[bias-mitigation|mitigação de viés]], [[automated-assessment|avaliação automatizada]], [[ai-feedback-quality|qualidade do feedback de IA]] e [[academic-integrity|integridade acadêmica]].
 
-Uma síntese baseada na Scopus de 54 estudos de EFL situa as [[limitations-in-aied-research|limitações]] mais relatadas do campo na autonomia de quem aprende: [[cognitive-offloading|dependência excessiva]] da IA em 27 estudos (50%) e redução do [[critical-thinking|pensamento crítico]] em 25 (46%), contra resultados gerados por IA não confiáveis em 22 (41%) como o principal problema técnico ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
+Uma síntese baseada na Scopus de 54 estudos de EFL situa as [[limitations-in-aied-research|limitações]] mais relatadas do campo na [[agency|autonomia]] de quem aprende: [[cognitive-offloading|dependência excessiva]] da IA em 27 estudos (50%) e redução do [[critical-thinking|pensamento crítico]] em 25 (46%), contra resultados gerados por IA não confiáveis em 22 (41%) como o principal problema técnico ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
 
 ## Implicações para instrutores de inglês / EAP / EFL-ESL
 
 - **Explore deliberadamente a força da IA para o inglês acadêmico.** Como os modelos são mais fortes em inglês e no inglês acadêmico padrão, instrutores de EAP podem empregar IA para escrita baseada em gêneros, diferenciação de materiais de leitura ([[genai-differentiated-eap-reading-materials-2026|materiais EAP]]) e feedback de revisão — mas devem enquadrar a IA como parceira de rascunho/feedback, não como um motor de respostas.
-- **Proteja o registro do inglês acadêmico e o letramento em feedback.** A [[feedback-literacy-scripts-eap-writing|revisão de escrita EAP]] mostra que o feedback é tão produtivo quanto o letramento em feedback de quem aprende — ensine os estudantes a interpretar, julgar e agir sobre o feedback da IA, e use mecanismos de segundo corretor para verificar a qualidade da IA.
+- **Proteja o registro do inglês acadêmico e o [[feedback-literacy|letramento em feedback]].** A [[feedback-literacy-scripts-eap-writing|revisão de escrita EAP]] mostra que o feedback é tão produtivo quanto o letramento em feedback de quem aprende — ensine os estudantes a interpretar, julgar e agir sobre o feedback da IA, e use mecanismos de segundo corretor para verificar a qualidade da IA.
 - **Observe a tensão de equidade da dominância do inglês.** Os modelos privilegiam o inglês acadêmico padrão, marginalizando variedades do inglês e quem escreve em contexto multilíngue ([[genai-linguistic-diversity-academic-writing|World Englishes]], [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]) — audite o feedback por viés monolíngue e expectativas rebaixadas.
 - **Integre a IA ao EAP de forma ética.** [[alharbi-ethical-genai-eap-2026|IA generativa ética no EAP]] pede uso transparente e responsável no ensino de inglês no [[higher-ed|ensino superior]] que preserve a integridade acadêmica.
 - **Espere uma adoção cautelosa, com preparação primeiro.** Uma [[li-language-educators-genai-review-2026|revisão sistemática de 23 estudos]] (Li et al. 2026) conclui que educadores de línguas valorizam mais a [[generative-ai|IA generativa]] para a preparação nos bastidores — planejamento de aulas, criação de materiais e apoio/feedback de escrita — enquanto hesitam quanto ao uso direto em sala de aula, com preocupações centradas na [[academic-integrity|integridade acadêmica]] (plágio e [[assessment-validity|validade da avaliação]]). A adoção é moldada por fatores de identidade profissional, [[pedagogy|pedagógicos]], técnicos, [[governance|institucionais]] e de integridade, e as lacunas de competência mapeiam-se em episteme (compreender capacidades/limites da IA), techne ([[prompt-engineering|prompt engineering]], desenho de tarefas/avaliações aprimorado por IA, detecção de texto gerado por IA) e phronesis (julgamento [[ethics|ético]], tratamento de viés/privacidade) — portanto instrutores de EAP/EFL devem construir essas competências deliberadamente e planejar uma implementação "bastidores primeiro, depois sala de aula".
 - **Diferencie por proficiência e necessidade.** A [[ai-vs-human-assessment-efl-tpck-2026|avaliação em EFL]] e a pesquisa sobre tutoria adaptativa sustentam ajustar o apoio e a avaliação da IA ao nível de quem aprende, em vez de adotar uma abordagem única.
 
-- **Pondere a tecnologia rumo à produção.** Uma metanálise de 33 estudos de TEFL encontrou um efeito geral de pequeno a moderado (g = 0,38, reduzido para 0,28 pelo trim-and-fill) que crescia com o nível educacional e favorecia as competências produtivas — fala e escrita — sobre as receptivas ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
+- **Pondere a tecnologia rumo à produção.** Em 33 estudos de TEFL, a estimativa agrupada foi de pequeno a moderado (g = 0,38, reduzido para 0,28 pelo trim-and-fill) e crescia com o nível educacional, favorecendo as competências produtivas — fala e escrita — sobre as receptivas ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
 
 ## Ideias equivocadas comuns
 
@@ -111,6 +111,7 @@ Uma síntese baseada na Scopus de 54 estudos de EFL situa as [[limitations-in-ai
 
 - [[language-learning]]
 - [[writing-education]]
+- [[reading-education]]
 - [[multilingual-learning]]
 - [[higher-ed]]
 - [[k-12]]

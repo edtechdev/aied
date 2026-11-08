@@ -1,7 +1,7 @@
 ---
 title: "Medidas de autorrelato"
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:22:14-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-04T15:40:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 ## Perguntas para considerar
 
 - Se um estudo diz que estudantes "relataram alto engajamento", o que exatamente foi medido — e o que você precisaria ver para concluir que eles de fato se engajaram?
-- Em um estudo, as medidas autorrelatadas e objetivas de [[ai-literacy|letramento em IA]] de professores se correlacionaram em apenas r = 0,07 a r = 0,24 ao longo de quatro dimensões. Onde sua própria [[self-assessment|autoavaliação]] tenderia mais a divergir de um teste da mesma habilidade, e por quê?
+- Em um estudo, as medidas autorrelatadas e objetivas de [[teacher-role|professores]] e do [[ai-literacy|letramento em IA]] se correlacionaram em apenas r = 0,07 a r = 0,24 ao longo de quatro dimensões. Onde sua própria [[self-assessment|autoavaliação]] tenderia mais a divergir de um teste da mesma habilidade, e por quê?
 - A satisfação é fácil de medir e fácil de melhorar — um sistema ajustado para agradar usuários vai pontuar bem nela. Por que isso poderia tornar a satisfação uma medida de desfecho ruim para a aprendizagem, e o que você mediria em vez disso?
 - "Quase todos os estudantes usam IA para trabalhos do curso" vem de perguntar aos estudantes. O que perguntar, em vez de registrar em log, poderia errar em qualquer das duas direções?
 - Uma pesquisa obtém 112 respostas com taxa de resposta de 31%, ou 90 respostas de 572 convites. Antes de aceitar suas porcentagens, o que você quer saber sobre quem não respondeu?
@@ -46,7 +46,7 @@ ai_assist:
 
 O autorrelato abrange muito mais que o questionário. Ele inclui [[quantitative-research|pesquisas transversais]] usando formatos de classificação Likert e outros, entrevistas e grupos focais conduzidos por pesquisadores [[qualitative-research|qualitativos]], diários e amostragem de experiência, habilidade ou confiança autoavaliadas, estimativas recordadas de quantas vezes uma ferramenta foi usada, e aprendizagem ou satisfação percebidas tratadas como desfechos. O que os une é a posição epistêmica de quem responde: ele está se reportando a si mesmo, em vez de ser observado.
 
-Essa não é uma fraqueza de que se pedir desculpas. Muitos construtos de interesse — motivação, ansiedade, [[trust-calibration|confiança]], utilidade percebida, intenções de [[student-engagement|engajamento]] — são estados internos que nenhum arquivo de log registra, e perguntar é a única forma defensável de alcançá-los. O problema surge quando um autorrelato é usado para sustentar uma afirmação que ele não consegue carregar, o que é em essência uma questão de validade: se o instrumento mede o construto que nomeia, e se a afirmação feita é sobre o tipo de coisa que o autorrelato consegue ver. Essa preocupação pertence à [[educational-measurement|medição educacional]] e à [[assessment-validity|validade da avaliação]]; esta página trata do que acontece quando a pesquisa em IA na educação se apoia especificamente em autorrelato, e de onde a base de evidências mostra que ele se rompe.
+Essa não é uma fraqueza de que se pedir desculpas. Muitos construtos de interesse — motivação, [[anxiety-and-stress|ansiedade]], [[trust-calibration|confiança]], utilidade percebida, intenções de [[student-engagement|engajamento]] — são estados internos que nenhum arquivo de log registra, e perguntar é a única forma defensável de alcançá-los. O problema surge quando um autorrelato é usado para sustentar uma afirmação que ele não consegue carregar, o que é em essência uma questão de validade: se o instrumento mede o construto que nomeia, e se a afirmação feita é sobre o tipo de coisa que o autorrelato consegue ver. Essa preocupação pertence à [[educational-measurement|medição educacional]] e à [[assessment-validity|validade da avaliação]]; esta página trata do que acontece quando a pesquisa em IA na educação se apoia especificamente em autorrelato, e de onde a base de evidências mostra que ele se rompe.
 
 **Como esta página se relaciona com suas vizinhas.** Os [[research-methods-aied|métodos de pesquisa em AIED]] catalogam designs e seus pontos fortes e limitações, incluindo estudos de survey e SEM. A [[quantitative-research|pesquisa quantitativa]] cobre a família de métodos numéricos. A [[educational-measurement|medição educacional]] cobre desenvolvimento de instrumentos, [[item-response-theory|teoria da resposta ao item]] e validação psicométrica. Esta página é a fatia mais estreita que essas páginas apontam: o próprio instrumento de medição e fonte de dados — o que o autorrelato pode e não pode estabelecer, a lacuna recorrente entre o que as pessoas relatam e o que fazem, e como ler criticamente um achado de autorrelato.
 
@@ -78,7 +78,7 @@ Perfis derivados do autorrelato se comportam da mesma forma. [[najem-behavioral-
 
 Rastros comportamentais conseguem separar aprendizes que uma escala de autorrelato não consegue: [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] constataram que a carga cognitiva autorrelatada não diferiu significativamente entre perfis de descarga que iam de 80% a 2% na autoria de ensaios, enquanto os que mais descarregavam ainda assim relataram a maior demanda mental.
 
-[[ai-literacy-assessment-misalignment|Um estudo que construiu medidas paralelas autorrelatadas e objetivas de letramento em IA de professores]] concluiu **concordância fraca entre os fatores de autorrelato e objetivos (r = 0,07 a r = 0,24)** em uma amostra de 288 professores, com análise fatorial confirmatória apoiando a validade de construto de ambas as medidas, ao mesmo tempo que mostrava uma **correlação baixa entre os fatores de autorrelato e objetivos**. Os dois instrumentos eram críveis; eles simplesmente mediam coisas diferentes. Na amostra completa de 288 professores, as correlações entre os fatores objetivos e autorrelatados iam de r = 0,07 a r = 0,24, e a análise de perfis latentes encontrou 43 professores que se classificaram alto enquanto pontuavam mais baixo na medida objetiva, contra 59 que mostravam o padrão inverso.
+[[ai-literacy-assessment-misalignment|Um estudo que construiu medidas paralelas autorrelatadas e objetivas de letramento em IA de professores]] concluiu **concordância fraca entre os fatores de autorrelato e objetivos (r = 0,07 a r = 0,24)** em uma amostra de 288 professores. A análise fatorial confirmatória apoiou a validade de construto de ambas as medidas, ao mesmo tempo que mostrava uma **correlação baixa entre os fatores de autorrelato e objetivos**. Os dois instrumentos eram críveis; eles simplesmente mediam coisas diferentes. Na amostra completa de 288 professores, as correlações entre os fatores objetivos e autorrelatados iam de r = 0,07 a r = 0,24, e a [[latent-profile-analysis|análise de perfis latentes]] encontrou 43 professores que se classificaram alto enquanto pontuavam mais baixo na medida objetiva, contra 59 que mostravam o padrão inverso.
 
 O [[jin-glat-genai-literacy-assessment|GLAT]] chega à mesma conclusão pela outra direção: seu teste de desempenho de 20 itens previu o desempenho em tarefas de aprendizagem com apoio de [[generative-ai|IA generativa]] em um estudo *within-subject* com 83 estudantes, **enquanto o letramento autorrelatado em ChatGPT não o fez**. O enquadramento dos autores é direto — os instrumentos dessa área dependem esmagadoramente de pesquisas autorrelatadas, "que capturam competência percebida em vez de real e são propensas a viés e superestimação".
 
@@ -90,22 +90,37 @@ Uma revisão estruturada e [[meta-analysis-systematic-review|metanálise]] explo
 
 Uma revisão sistemática de duas fases quantifica essa divergência no nível das conclusões: de 51 pares de mesmo construto provenientes de 47 relatos, 30 concordaram, 11 discordaram e 10 foram mistos. A discordância correu nos dois sentidos: cinco contrastes parearam um resultado nulo de autorrelato com um resultado positivo de desempenho, contra dois no sentido inverso ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 
+
+Uma biblioteca universitária colocou os dois fluxos contra as mesmas proposições e os encontrou apontando para lados diferentes. Os empréstimos anuais de material impresso caíram de 406.120 em 2017 para 46.339 em 2025, e os tomadores únicos, de 30.033 para 7.278, mas a queda começou antes do período de IA generativa, e o ponto de quebra de janeiro de 2023 não mostrou mudança de nível ou de inclinação. A pesquisa depositou o peso explicativo nos construtos: a demanda por leitura profunda previu a intenção de continuidade do impresso em H1 β = 0,908, enquanto o caminho de substituição hipotetizado foi próximo de zero (H4 β = 0,038, *p* = 0,631), e os recursos de IA da plataforma representaram 0,53% das operações no primeiro semestre de 2026. Os respondentes não puderam ser vinculados aos registros de empréstimo sob as regras de governança de dados, de modo que a divergência só pode ser lida no nível populacional, e não pessoa a pessoa ([[huang-genai-academic-information-resources-2026|Huang et al. (2026)]]).
+
+
+
+
 A própria literatura de instrumentos pode ser lida como evidência da escala da lacuna. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore e Maat (2026)]] avaliaram 33 instrumentos de letramento em IA de professores e concluíram que 31 (93,9%) eram escalas de autorrelato de confiança percebida, apenas dois (6,1%) testavam conhecimento objetivamente, e nenhum usava tarefas baseadas em desempenho entre 2019 e 2025. Sua conclusão é a que esta página continua a alcançar por outras direções: pontuações de autorrelato indexam confiança em vez de capacidade, de modo que não podem substituir competência quando grupos ou programas são comparados.
 
-As medidas de desfecho herdam a mesma lacuna. [[pramod-agentic-ai-motivational-pathways-2026|Pramod e Patil (2026)]] modelam o caminho da [[agentic-ai|IA agêntica]] pela motivação e pela presença social até o que eles rotulam como desempenho de aprendizagem com um coeficiente de 0,671 — a relação mais forte do estudo —, e a própria seção de limitações deles afirma que essa variável dependente reflete as percepções de quem aprende, e não resultados de prova, desempenho em tarefas ou análise de aprendizagem. Esse é o padrão a ler com cuidado em modelos de caminho em geral: um coeficiente grande sobre um desfecho percebido quantifica o quão consistentemente os estudantes acreditam que algo ajudou, e ainda não diz nada sobre se ajudou.
+As medidas de desfecho herdam a mesma lacuna. [[pramod-agentic-ai-motivational-pathways-2026|Pramod e Patil (2026)]] modelam o caminho da [[agentic-ai|IA agêntica]] pela motivação e pela [[community-of-inquiry|presença social]] até o que eles rotulam como desempenho de aprendizagem com um coeficiente de 0,671 — a relação mais forte do estudo —, e a própria seção de limitações deles afirma que essa variável dependente reflete as percepções de quem aprende, e não resultados de prova, desempenho em tarefas ou [[learning-analytics|análise de aprendizagem]]. Esse é o padrão a ler com cuidado em modelos de caminho em geral: um coeficiente grande sobre um desfecho percebido quantifica o quão consistentemente os estudantes acreditam que algo ajudou, e ainda não diz nada sobre se ajudou.
 
 A intenção é o caso mais agudo dessa lacuna, porque uma única pontuação de intenção pode cobrir comportamentos opostos. Reaplicando itens a 68 dos 340 estudantes e entrevistando oito, [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi e Lu (2026)]] constataram que a mesma intenção declarada cobria uso orientado à aprendizagem, orientado ao atalho e uso misto — os usuários de atalho citando baixa confiança, e não desinteresse.
+
+- **"Os estudantes relatam o que fizeram."** O rastro contradisse a pesquisa numa direção útil. Em um estudo de redação em que **15 de 77 (19,5%)** submeteram ensaios sem nenhuma palavra digitada, a propriedade percebida caiu apenas nesse grupo que delegou integralmente, enquanto os escritores que usaram o modelo para planejar ou revisar relataram propriedade no nível dos estudantes que nunca o abriram. O autorrelato, portanto, distinguiu os extremos e achatou tudo entre eles, que é o que uma medida de percepção consegue fazer e o que não consegue. [[jelson-students-chatgpt-essay-writing-2026|A lacuna percepção–comportamento, medida por teclas]].
+
 
 ## Satisfação e aprendizagem percebida como desfechos
 
 A satisfação é o desfecho autorrelatado mais frequente neste corpus, aparecendo em 63 páginas de artigo. Ela também é o mais fraco como proxy de aprendizagem, e a base de conhecimento contém argumentos explícitos nesse sentido.
 
 - O [[sequenced-ai-feedback-learning|trabalho sobre feedback sequenciado de IA]] enuncia o princípio de design diretamente: satisfação do usuário e engajamento comportamental não são proxies confiáveis para ganhos de aprendizagem, de modo que a aprendizagem precisa ser medida diretamente.
-- O [[puech-pedagogical-steering-llm-productive-failure-2025|estudo sobre direcionamento pedagógico]] observa que os modelos de linguagem atuais são ajustados por instrução para serem assistentes prestativos que maximizam a satisfação do usuário, enquanto o objetivo de um tutor é maximizar a aprendizagem — os dois objetivos podem conflitar, o que torna a satisfação um alvo potencialmente enganoso, e não meramente fraco.
+- O [[puech-pedagogical-steering-llm-productive-failure-2025|estudo sobre direcionamento pedagógico]] observa que os [[llm|modelos de linguagem]] atuais são ajustados por instrução para serem assistentes prestativos que maximizam a satisfação do usuário, enquanto o objetivo de um tutor é maximizar a aprendizagem — os dois objetivos podem conflitar, o que torna a satisfação um alvo potencialmente enganoso, e não meramente fraco.
 - O [[preferred-scaffolding-ai-mathematical-modeling|estudo de andaime]] argumenta que utilidade percebida, facilidade de uso e satisfação imediata não deveriam ser tratados como indicadores suficientes da eficácia do [[scaffolding|andaime]].
 - O [[nie-personavlm-long-term-personalization-2026|trabalho sobre modelagem de estudantes alinhada à personalidade]] observa que otimizar para a satisfação do usuário não é o mesmo que otimizar para resultados de aprendizagem, e que os dois podem se separar.
 
 O padrão que vale carregar: a satisfação é responsiva às coisas erradas quando a aprendizagem é a meta. Um sistema que responde rápido, concorda prontamente e reduz o esforço será avaliado positivamente, e essas mesmas propriedades são as que a base de conhecimento associa à [[desirable-difficulties|luta produtiva]] reduzida e ao desempenho inflado em trabalho assistido por IA. Satisfação relatada e aprendizagem medida não são inimigas; elas simplesmente não são substitutas, e tratar a primeira como evidência da segunda é o deslize mais comum que esta página documenta.
+
+
+**Medidas de percepção superam medidas de habilidade na literatura de investigação com IA generativa.** Em uma revisão de 66 estudos, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] encontraram as percepções dos usuários como o domínio de desfecho mais relatado (32 estudos, 48,5%), seguidas dos desfechos afetivos com 25, enquanto apenas 8 estudos (12,1%) mediram habilidades de investigação e 4 deles tinham condição de comparação. Os autores não atribuíram grau algum de certeza à evidência, de modo que as contagens de percepção descrevem o que foi perguntado, e não o que foi alcançado.
+
+
+
 
 ## O que torna um instrumento de autorrelato crível
 
@@ -115,6 +130,12 @@ Quatro propriedades separam uma pesquisa que consegue sustentar uma afirmação 
 - **Confiabilidade e estrutura.** Instrumentes validados por fatores recorrem neste corpus, desde [[teacher-education-ai-literacy-sdt-2026|medidas de letramento em IA de professores fundamentadas na teoria da autodeterminação]] até escalas de aceitação modeladas com [[technology-acceptance-model|TAM]] e SEM em [[acceptance-ai-english-tools-2026|estudos de ferramentas de língua assistidas por IA]].
 - **Invariância, quando grupos são comparados.** Uma escala que se comporta de forma diferente entre populações não consegue sustentar uma comparação. O trabalho de [[same-ai-different-pathways|SEM multigrupo]] relata testes de invariância de medição (configuracional, métrica, escalar) junto com seus efeitos indiretos, e a [[genai-thoughtless-use-self-directed-learning-2026|comparação Suíça–China]] concluiu que apenas o valor intrínseco alcançou invariância métrica, e não escalar — uma limitação declarada em vez de escondida, e que restringe o que suas diferenças entre países podem significar.
 - **Uma alternativa de desempenho onde competência é o construto.** Os 20 itens de múltipla escolha do GLAT existem precisamente porque o autorrelato não consegue carregar uma afirmação de competência.
+
+
+**A maioria dos instrumentos nesse espaço relata confiabilidade e quase nenhum relata validade.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] citam a revisão de Su et al. de 36 estudos de letramento em IA, que constatou que 63,8% das ferramentas relatavam evidência de confiabilidade e menos de 20% relatavam evidência de validade. A mesma revisão encontrou apenas um instrumento específico de IA generativa, o GAIAS de 27 itens, entre 50 frameworks de [[k-12|K-12]]. Uma escala ser internamente consistente não diz nada sobre se ela mede o construto nomeado em seu título.
+
+
+
 
 ## Amostragem, resposta e não resposta
 
@@ -203,3 +224,9 @@ As respostas construtivas da base de conhecimento são consistentes, e nenhuma d
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Revisão concluindo que 31 de 33 instrumentos de letramento em IA de professores são de autorrelato e nenhum é baseado em desempenho
 - [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Perfis derivados do autorrelato se comportam da mesma forma
 - [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Revisão de duas fases que quantifica a discordância entre autorrelato e desempenho no mesmo construto (Fan et al. 2026)
+
+- [[jelson-students-chatgpt-essay-writing-2026]] — A propriedade percebida separou a delegação integral do ensaio de todo o resto, enquanto o rastro separou muito mais (Jelson et al. 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — percepções relatadas em 32 de 66 estudos contra 8 que mediram habilidades de investigação
+- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — 63,8% das ferramentas de letramento em IA relatam evidência de confiabilidade e menos de 20% relatam evidência de validade
+- [[huang-genai-academic-information-resources-2026]] — Logs de biblioteca e atitudes de pesquisa apontando para direções diferentes
+

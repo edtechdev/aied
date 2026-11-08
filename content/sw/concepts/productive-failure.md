@@ -8,7 +8,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ Wanafunzi huzalisha suluhisho bila msaada wa kiakili, wakitegemea maarifa ya awa
 - **Huwaandaa wanafunzi kujifunza kutoka kwa mafunzo** — wanajua wasichowajua na wanaweza kuunganisha nyenzo mpya na majaribu yao.
 - **Huimarisha uhamisho wa maarifa na ujuzi wa kudumu** ([[critical-thinking]], ustahimilivu, mawasiliano), hupunguza hofu ya kufanya makosa, na kukuza mitazamo chanya kuelekea kujifunza.
 
-Mfumo wa PF umeenezwa kupitia miundo inayohusiana ikiwa ni pamoja na **kushindwa kwa njia ya kushuhudia** (vicarious failure), **utofauti wa suluhisho**, na **mwongozo unaobadilika** (Braas et al., 2025; Brand et al., 2025).
+Mfumo wa PF umeenezwa kupitia miundo inayohusiana ikiwa ni pamoja na **kushindwa kwa njia ya kushuhudia** (vicarious failure), **utofauti wa suluhisho**, na **mwongozo unaobadilika** (Braas et al., 2025; Brand et al., 2025). Kesi zinaweza kutoa nafasi ya pamoja ya tatizo kwa jaribio hilo la kwanza, ingawa msingi wa ushahidi wa kujifunza kwa msingi wa kesi haujajaribu mchanganyiko huo moja kwa moja ([[case-based-learning]]).
 
 ## Kujifunza kutoka kwa makosa na kujifunza kutoka kwa makosa makubwa
 
@@ -103,6 +103,9 @@ Kushindwa kwa zao unahusiana na [[learning-theories]] (ujenzi), [[desirable-diff
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+
+- [[case-based-learning]] — Kesi kama nafasi ya pamoja ya tatizo kwa jaribio la kwanza
+
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

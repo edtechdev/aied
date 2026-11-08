@@ -1,7 +1,7 @@
 ---
 title: "Parcerias pedagógicas"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:17:55-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-28T18:53:18-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -63,7 +63,9 @@ A interseção da parceria pedagógica com a IA é uma das vertentes da base de 
 - **Estudantes como codesenhistas de política de IA.** Em vez de as instituições imporem regras de IA aos estudantes, a parceria posiciona os estudantes como cocriadores da política de IA no nível do curso e da instituição. Por exemplo, uma atividade de investigação guiada em que os estudantes codesenharam uma política de curso de [[generative-ai|IA generativa]] revelou prioridades dos estudantes em torno de treinamento, divulgação padronizada, apoio institucional e envolvimento na tomada de decisões ([[guided-inquiry-genai-course-policy-2026]]).
 - **Estudantes como cocriadores de ferramentas de IA.** Em frameworks de estudantes como parceiros, os estudantes codesenharam e refinaram [[conversational-ai|chatbots]] de IA sob medida alinhados a metas pedagógicas — uma abordagem que estende o paradigma do SaP para incluir as próprias ferramentas de IA e posiciona a voz do estudante como central para a inovação responsável em IA ([[lo-co-creating-custom-gpts-sap-2026]]).
 
-- **Codesenho de turma inteira, avaliado por autoavaliação.** Um programa de primeiro ano de estudos da informação teve estudantes e corpo docente codesenhando metas e políticas de curso na primeira semana e revisitando-as ao longo do período, com estudantes atribuindo notas a si mesmos e a seus grupos em relação a metas pessoais, metas de equipe e uma rubrica compartilhada, em vez de produtos finais ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
+- **Cocriação em escala, medida com cautela.** Num curso de desenho de software com 710 estudantes, os estudantes construíram um [[intelligent-tutoring|tutor de IA]] para um par em vez de usá-lo. A liberdade de desenho foi o tema positivo principal (22,3%) e as instruções pouco claras a principal queixa (23,7%), mas a aprendizagem percebida se correlacionou com as notas do quiz apenas em r = 0,161 a 0,315 e o desenho não tinha grupo de controle ([[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]). Construir a ferramenta é uma pedagogia plausível e, com esta evidência, não comprovada, razão pela qual o caso para ela repousa sobre a atividade de desenho, e não sobre ganhos de resultado.
+
+- **Codesenho de turma inteira, avaliado por [[self-assessment|autoavaliação]].** Um programa de primeiro ano de estudos da informação teve estudantes e corpo docente codesenhando metas e políticas de curso na primeira semana e revisitando-as ao longo do período, com estudantes atribuindo notas a si mesmos e a seus grupos em relação a metas pessoais, metas de equipe e uma rubrica compartilhada, em vez de produtos finais ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
 
 - **Cocriação em avaliação e IA.** Parcerias entre estudantes e equipe coavaliaram saídas geradas por IA em avaliações de curso e codesenharam critérios de avaliação, melhorando a compreensão dos benefícios e limites da IA e apoiando a [[self-regulated-learning|aprendizagem autorregulada]] ([[williams-ingle-assessment-co-creation-ai-2025]]).
 
@@ -144,3 +146,4 @@ Para educadores e instituições que buscam adotar a parceria pedagógica, a pes
 - [[anastasia-shared-agency-partnership-framework-2026]] — Agência Compartilhada: O Framework de Parceria de Agência para a Colaboração Instrutor–Estudante
 - [[maybee-disruptive-partnerships-sap-2025]] — Parcerias Perturbadoras: Colaborando com Estudantes em Estudos da Informação
 - [[student-centered-genai-responsible-framework-2026]] — Framework centrado no estudante para o uso responsável de IA generativa
+- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Estudantes construíram um tutor de IA para pares em escala de 710 estudantes: engajamento alto, evidência de aprendizagem exploratória (Zangari et al. 2026)

@@ -9,7 +9,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -45,8 +45,8 @@ AI inaweza kuwasaidia walimu kufanya mafunzo kujibu kitamaduni, lakini matokeo y
 
 Zaidi ya uzalishaji wa masomo, CRP inaungana na ukosoaji wa kina zaidi: data ya mafunzo ya AI na michakato ya ubuni yanaweka mifumo ya maarifa ya Magharibi na ya lugha ya Kiingereza inayohifadhi kando njia zingine za kujua.
 
-- **Ukoloni wa maarifa:** Tali-Otmani (2026) anadai kuwa mifumo ya GenAI si ya upatano wa maarifa — data ya mafunzo yenye mwelekeo mkubwa wa Magharibi **inawahifadhi kwa njia inayofanya kazi watu wenye maarifa yaliyowekwa kando**, ikizalisha "uhifadhishaji maradufu" kwa wanafunzi wenye ulemavu ambao mifumo yao ya maarifa haiwakilishi vizuri katika data ya mafunzo na imetengwa kutoka ubuni. Hii inapanua mazungumzo ya [[equity-in-ai-education|usawa]] kutoka *ufikiaji* hadi *maarifa ya nani yanathibitishwa*.
-- **Kugawa upya mamlaka ya maarifa:** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles na Peppler (2026)]] wanapendekeza **kujifunza kwa AI kwa msingi wa jamii**, mfumo unaoweka upya mifumo ya maarifa ya maisha na ya jamii ya wanafunzi kama kiwango cha kutathmini matokeo ya AI. Ahadi zake tatu — **kurekebisha kwa ufahamu**, **kugawa upya mamlaka**, na **[[situated-learning|hali]] ya kupambanua** — husawazisha uaminifu dhidi ya historia za mahali pao na utaalam wa jamii, ikichukulia kukataa na kutotumia kwa makusudi kama majibu halali ya CRP kwa AI.
+- **Ukoloni wa maarifa:** Tali-Otmani (2026) anadai kuwa mifumo ya GenAI si ya upatano wa maarifa — data ya mafunzo yenye mwelekeo mkubwa wa Magharibi **inawahifadhi kwa njia inayofanya kazi watu wenye maarifa yaliyowekwa kando**, ikizalisha "uhifadhishaji maradufu" kwa [[inclusive-learning|wanafunzi wenye ulemavu]] ambao mifumo yao ya maarifa haiwakilishi vizuri katika data ya mafunzo na imetengwa kutoka ubuni. Hii inapanua mazungumzo ya [[equity-in-ai-education|usawa]] kutoka *ufikiaji* hadi *maarifa ya nani yanathibitishwa*.
+- **Kugawa upya mamlaka ya maarifa:** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles na Peppler (2026)]] wanapendekeza **kujifunza kwa AI kwa msingi wa jamii**, mfumo unaoweka upya mifumo ya maarifa ya maisha na ya jamii ya wanafunzi kama kiwango cha kutathmini matokeo ya AI. Ahadi zake tatu — **[[llm-training-and-fine-tuning|kurekebisha kwa ufahamu]]**, **kugawa upya mamlaka**, na **[[situated-learning|hali]] ya kupambanua** — husawazisha uaminifu dhidi ya historia za mahali pao na utaalam wa jamii, ikichukulia kukataa na kutotumia kwa makusudi kama majibu halali ya CRP kwa AI.
 
 ### Data Yenye Msingi wa Kitamaduni na Tathmini
 
@@ -70,7 +70,7 @@ Kwa kutegemea makala za hifadhi ya maarifa yenyewe, waelimishaji na wabuni wanaw
 
 ## Dhana Potofu za Kawaida
 
-**"Matokeo ya AI hayana upendeleo wa kitamaduni isipokuwa ukisie ilani kuhusu utamaduni."** Chaguo-msingi si upande wowote, ni tawala. Uchanganuzi wa **mipango 310 ya masomo ya elimu ya uraia iliyozalishwa na AI (shughuli 2,230)** uligundua kuwa **asilimia 94 haikuwa na maudhui ya kitamaduni mbalimbali yanayoweza kutambulika**, na kati ya shughuli 144 zilizokuwa nazo, **137 zilikaa katika kiwango cha chini cha "Nyongeza", moja tu ilifika "Mabadiliko", na hakuna iliyofika "Hatua ya Kijamii".** Zikiachwa bila kuombwa, miundo ilizalisha chaguo-msingi lisilo na mseto, hivyo kuomba utamaduni si upunguzaji wa upendeleo, ni sababu pekee ya kuonekana kwa chochote kati ya hivyo.
+**"Matokeo ya AI hayana upendeleo wa kitamaduni isipokuwa ukisie ilani kuhusu utamaduni."** Chaguo-msingi si upande wowote, ni tawala. Uchanganuzi wa **mipango 310 ya masomo ya elimu ya uraia iliyozalishwa na AI (shughuli 2,230)** uligundua kuwa **asilimia 94 haikuwa na maudhui ya kitamaduni mbalimbali yanayoweza kutambulika**, na kati ya shughuli 144 zilizokuwa nazo, **137 zilikaa katika kiwango cha chini cha "Nyongeza", moja tu ilifika "Mabadiliko", na hakuna iliyofika "Hatua ya Kijamii".** Zikiachwa bila kuombwa, miundo ilizalisha chaguo-msingi lisilo na mseto, hivyo [[prompt-engineering|kuomba]] utamaduni si [[bias-mitigation|upunguzaji wa upendeleo]], ni sababu pekee ya kuonekana kwa chochote kati ya hivyo.
 
 **"Kuongeza mifano ya kitamaduni mbalimbali ni mbinu za kufundisha zinazohusiana na kitamaduni."** Ngazi za mfumo wenyewe zinasema kinyume, na matokeo yaliyozalishwa yanaonyesha kwa nini tofauti hiyo ni muhimu kiutendaji. Maudhui ya nyongeza yanaacha muundo na dhana za kitengo bila kuguswa; mabadiliko hubadilisha jinsi maudhui yanavyowekwa; hatua ya kijamii inawaomba wanaojifunza kutenda juu yake. Kuchanganya uwakilishi na mabadiliko ndiyo njia ambayo korpusi inaweza kuwa asilimia 6 isiyo tupu kuhusu mseto na bado isiwe karibu na mwitiko wa kitamaduni.
 

@@ -24,7 +24,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-11-04T17:29:51-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
@@ -37,7 +37,7 @@ translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından g
 - Bir kalıp bir *dizi*dir, bir araç değil. Verdiğiniz bir ödevi alın ve bir öğrencinin attığı adımların sırasını yazın. Bu sıranın neresinde yapay zeka yardımcı olur, neresinde öğrencinin yapması gereken işi yapar?
 - Buradaki bazı kalıplar yapay zekaya bilerek *zayıf* bir rol verir — yanıt yerine ipucu, düzeltme yerine soru. Bilerek daha az yardımcı bir özel ders öğretmeni neden daha iyi öğrenme üretir ve bu, kurumunuzun satın aldığı YZ araçları hakkında ne anlama gelir?
 - Bu sayfadaki en iyi kanıtlanmış kalıp (bir yapay zekaya [[learning-by-teaching|learning by teaching]]) öğrencilerden açıklama yapmalarını ister ve açıklama ile soru niteliğini iyileştirir ama *nesnel hatırlamayı* iyileştirmez. Benimsenseniz değerlendirmenizde neyi değiştirirdiniz?
-- [[ai-feedback-quality|AI feedback]] öğretmen geri bildiriminden daha nitelikli olduğunda öğrenciler daha fazla revizyon yapmamıştır. Bu, geri bildirim üretmek ile öğrencilerin onu kullanmasını sağlamak arasındaki fark hakkında ne söyler?
+- [[ai-feedback-quality|AI feedback]] [[teacher-role|öğretmen]] geri bildiriminden daha nitelikli olduğunda öğrenciler daha fazla revizyon yapmamıştır. Bu, geri bildirim üretmek ile öğrencilerin onu kullanmasını sağlamak arasındaki fark hakkında ne söyler?
 - Bağlamlar yanıtı değiştirir: bazı kalıplar çevrimiçi ve eşzamansız denenmiş, bazıları yüz yüze laboratuvarla. Bunların hangilerini kendi ortamınızda yeni araç olmadan yürütebilir, hangileri elinizde olmayan bir altyapı gerektirir?
 - Neredeyse her kalıp yargı noktasında bir insanı korur — notlandırma, doğrulama ya da yorumlama. Bu bir tasarım tercihi mi, kanıta dayalı bir zorunluluk mu, yoksa şimdiye kadar sınananların bir sınırlılığı mı?
 
@@ -63,6 +63,8 @@ Bu kalıplar yapısal bir iddiayı paylaşır: öğrenen, yapay zeka katkıda bu
 
 Uyarlanabilir aralıklı geri çağırma koşulu en yüksek sınav sonrası puanları üretmiştir (M = 78,19) ve harmanlanmış bir istatistik kursunda 89 öğrenci arasında öğrenen yönelimli YZ çalışmasını anlamlı biçimde geride bırakmıştır (M = 67,28, d = 0,92, p = ,003); sabit aralıklama ise istatistiksel olarak uyarlanabilir koşuldan ayırt edilemezdi ([[adaptive-pretesting-retention|Akgun & Toker, 2026]]). Karşıtlık durumu kesindir: 120 öğrencili bir [[rct|randomized trial]], sınırsız ChatGPT ile çalışan grup 45 gün sonraki sürpriz testte daha azını korumuştur — \%57,5 doğru, geleneksel öğrenenlerde \%68,5’e karşılık, t(83) = −3,19, p = ,002, d = 0,68 — ve yaklaşık \%45 daha az çalışmıştır; dezavantaj, çalışma süresi değişkeniyle kontrol edildiğinde de sürmüştür ([[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui, 2025]]). Çevrimiçi bir MBA’da önceden kaydedilmiş bir rastgele saha deneyi, kazanımların maruz kalınan dakikalarından çok *tamamlanan haftaları* izlediğini bulmuştur (her ek tamamlanmış özel ders haftası için +2,00 puan, p = ,018); bu, toplam süreden çok [[retrieval-spacing-interleaving|spaced practice]]nın önemli olduğu şeklinde okunur ([[ai-tutor-modality-randomized-field-experiment-2026|Yang et al., 2026]]).
 
+Kuralın nedensel gerekçesi, yaklaşık 50 Türk lise matematik sınıfında yaklaşık 1.000 öğrenciyle yürütülen bir saha deneyidir ([[generative-ai-guardrails-harm-learning|Bastani ve ark., 2025]]). Sınırsız GPT-4, destekli alıştırma performansını kontrol grubuna göre \%48 artırmış, desteksiz sınavı ise \%17 düşürmüştür; koruyucu tedbirli GPT-4 ise alıştırmayı \%127 artırırken sınavı esasen değiştirmemiştir. [[guardrails|Koruyucu tedbirler]] yalnızca ikiydi: yanıt yerine ipuçları ve ipuçlarının doğru olması için istek metnine eklenen öğretmen yazımı probleme özgü içerik (doğru çözüm, yaygın hatalar). Etkileşim verileri zararı kopyalamaya yerleştirmiştir; çünkü korumasız öğrenciler çoğunlukla yanıt istemiştir ve her iki YZ kolundaki öğrenciler kendi öğrenmelerini yanlış değerlendirmiştir.
+
 ### Verimli başarısızlık: öğretimden önce deneme
 
 **Kanıt: karma ve itibarından zayıf.** Öğrenciler, hiç öğretilmediği bir kavramı hedef alan bir problemi denemeye çalışır; özel ders öğretmeni çözümü gizler ve birden fazla deneme çıkarır; yardım yalnızca kesinlikle gerekli olduğunda gelir ve sonrasında karşılaştırma ile doğrudan öğretimle pekiştirme olur.
@@ -81,6 +83,8 @@ Sarmalı bir özel ders öğretmeniyle bütün diziyi sınayan tek saha çalış
 
 Kılavuzlu ve hatalı örneklerin uyarlanabilir biçimde atanması, 113 öğrencili bir sınıf çalışmasında rastgele problem türü atamasını geride bırakmıştır (sınav sonrası M = 72,3 ve 72,5’e karşılık denetimde 65,7, A = ,58, p = ,005 ve p = ,002) ve [[knowledge-tracing]] varyantı düşük [[prior-knowledge]] öğrencilerde başarı boşluğunu \%77,1 daraltmıştır (β = 9,4, p = ,001) ([[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al., 2026]]). Ancak öz açıklama adımının ayrıntılı YZ geri bildirimine *eklenmesi*, 302 katılımcıyla önceden kaydedilmiş bir denemde her ölçütte kaybetmiştir: geri bildirim süresini ikiye katlamış (4,1’e karşı 2,1 dk, p < ,001), tamamlanan problem sayısını \%40 düşürmüş (2,0’a karşı 3,4, p < ,001), bölüm başına kazanım üretmemiş (OR = 1,03, p = ,486) ve oturum sonu ustalığını düşürmüştür (\%65’e karşı \%79, d = ,41, p < ,001) ([[structured-reflection-ai-explanatory-feedback-2026|Asher et al., 2025]]).
 
+Alıştırmadan önce kaç örnek verileceği de içeriğe bağlıdır; bölümün "önce çözümlenmiş örnekler, sonra problemler" çerçevesi bunu açık bırakır. Geometri alanı materyalleri üzerinde 95 katılımcıyla yapılan 2×2 bir deneyde, yalnızca alıştırma temelli eğitim birebir olgular için daha büyük kazanım üretirken örnekleri alıştırmayla dönüşümlü vermek genellenebilir beceriler için daha büyük kazanım üretmiştir (β = 0,41, p = ,038, d = 0,38) ([[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger ve Carvalho, 2025]]). Bir dizi, soyut olarak çözümlenmiş örnekler ile alıştırma karşılaştırmasıyla yargılanamaz; çünkü doğru karışım hedefin olgu mu beceri mi olduğundan doğar.
+
 ## YZ geri bildirimini insan geri bildirimiyle eşleyen kalıplar
 
 YZ geri bildirimi üzerine bilgi tabanının en çok tekrarlanan bulgusu, onun yalnız bırakıldığından *insan geri bildirimiyle birleştirildiğinde* daha iyi işlediğidir — ve niteliğinin, öğrencilerin onu kullanıp kullanmadığını belirleyen şey olmadığıdır.
@@ -90,6 +94,8 @@ YZ geri bildirimi üzerine bilgi tabanının en çok tekrarlanan bulgusu, onun y
 **Kanıt: karma (yaygın biçimde uygulanmış, denetimli değil).** Öğrenciler yapay zeka ve geri bildirimlerin nasıl işlediğini okuyup yansıtır, taslak yazar, akran değerlendirmesi verir ve alır, aynı taslak üzerine ölçüt odaklı geri bildirim için yapay zekaya istek metni gönderir, ikisini eleştirel biçimde karşılaştırır, bir revizyon planı yazar, revize eder ve hangi geri bildirimin neyi değiştirdiğini yansıtır.
 
 Bugüne kadarki üniversite öğrencilerinin YZ geri bildirimi kullanımına ilişkin en büyük çalışması, on yazma kursu ve üç yazma yoğun [[stem-education|STEM]] kursunda 654 öğrenciyi izlemiştir: \%58’i birleşik ChatGPT ve [[peer-assessment|peer feedback]] tercih etmiş, \%36’sı yalnızca akranı, yalnızca \%6’sı yalnızca YZ’yi tercih etmiştir; \%75’i ikisini benzer ve birbirini güçlendiren bulmuştur; YZ geri bildirimi \%31 tarafından "aşırı genel", akran geri bildirimi \%28 için daha özgül olarak değerlendirilmiştir; ve yalnızca \%5,3’ü YZ geri bildiriminde aşırı güven göstermiştir ([[pairr-ai-peer-review-2025|Sperber et al., 2025]]). Model ayrıca 34 öğrencinin katıldığı üst düzey bir işletme yazma kursunda yürütülmüş, kodlanan yansıtmaların yaklaşık dörtte biri YZ geri bildirimi hakkında kuşku ya da yanlışlık tespiti belirtmiştir ([[gift-ai-pairr-business-writing-2025|MacArthur et al., 2025]]). İkisi de algı verisi bildirir; ikisinin de denetim koşulu yoktur ve bu kalıbın *karma* değil *sınanmış* olmadığının nedenidir.
+
+Aynı 2024 uygulamasının üçüncü bir yazımı, öğrencilerin geri bildirimi nasıl puanladığını değil araca ne ad verdiklerini sorar. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman ve ark. (2026)]], 10 yazma yoğun kursun 13 bölümünü ve 654 öğrenciyi betimler ve yalnızca yaklaşık yarısının (\%51,7) yansıtma istek metninin sunduğu özel ders öğretmeni ya da işbirlikçi rollerini benimsediğini bildirir. Geri kalanlar bir araç, program, robot ya da bilgisayar adlandırmış veya geri bildirim otomatı gibi kendi metaforlarını uydurmuştur. Yazarlar bu sözlüğü okuryazarlık sonucu ve yazarsal etkenliğin kanıtı olarak okur; verileri de aynı biçimde algısal olduğundan yukarıdaki kanıt derecesi değişmez.
 
 ### Birleşik akran ve YZ geri bildirimi
 
@@ -137,7 +143,7 @@ Kendi hızında ilerleyen bir kuantum bilgisi kursunda 5 lisansüstü öğrencin
 
 **Kanıt: sınanmış, ancak sıradan sınıflar yerine denetimli ya da denetimsiz ortamlarda.** İki öğrenen bir yapay zekayı paylaşır ve döndürme kurallarıyla açık roller alır; yapay zeka gerektiğinde bir rol üstlenmek üzere yapılandırılır ve çıktısı bütün gruba gider. Eşli programlama varyantında paylaşılan YZ, ikilinin ortak dikkatini ve çabasını modeller, bir çözümlemeyi 30 saniyeye kadar önceden öngörür ve iskeleleri hiçbir şey yapmamadan buyurucu bir ipucuna kadar kademeler halinde yükseltir.
 
-26 ikiliyle öznel-içinde bir denemde geri bildirim koşulu daha yüksek hata ayıklama başarısı elde etmiştir (t[49,96] = −13,51, p < ,0001) ve daha hızlı bitirmiştir (t[44,70] = 4,39, p < ,0001); ancak çift göz izleme ve pupillometri donanımı gerektirmiş ve denetimsiz eşli işe aktarımı sınamamıştır ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). 16 grupta 58 lisansüstü öğrenciyle yarı deneyde rol tasarımı, zihin haritası içerik puanlarını 1–5 SOLO ölçeğinde 3,65’ten 4,59’a yükseltmiş, düğüm ve dal sayıları sabit kalmıştır — ancak denetim grubu olmadığı için alıştırma etkileri dışlanamaz ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
+26 ikiliyle öznel-içinde bir denemde geri bildirim koşulu daha yüksek hata ayıklama başarısı elde etmiştir (t[49,96] = −13,51, p < ,0001) ve daha hızlı bitirmiştir (t[44,70] = 4,39, p < ,0001); ancak çift [[sensor-and-gaze-analytics|göz izleme]] ve pupillometri donanımı gerektirmiş ve denetimsiz eşli işe aktarımı sınamamıştır ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). 16 grupta 58 lisansüstü öğrenciyle yarı deneyde rol tasarımı, zihin haritası içerik puanlarını 1–5 SOLO ölçeğinde 3,65’ten 4,59’a yükseltmiş, düğüm ve dal sayıları sabit kalmıştır — ancak denetim grubu olmadığı için alıştırma etkileri dışlanamaz ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
 
 ### YZ destekli tartışma
 
@@ -155,7 +161,7 @@ Ekonomi etkinliği bir YZ hatasını bilerek kullanır — şarkının betimledi
 
 ## Bağlamlar ve disiplinler
 
-Kalıp, bağlamın ne gerektirdiğini belirler ve bazı kalıplar yalnızca tek bir ortamda sınanmıştır:
+Kalıp, bağlamın ne gerektirdiğini belirler ve bazı kalıplar yalnızca tek bir ortamda sınanmıştır. Havuzlanmış tahminler bu bağımlılığı [[quantitative-research|nicel]] kılar. 35 deneysel ve yarı deneysel çalışma ile 175 etki büyüklüğü genelinde, üretici YZ’nin lisans [[learning-gains|akademik performans]] üzerindeki havuzlanmış etkisi g = 0,46 oldu ve öğretim modeli bunu denetledi (Q = 14,63, p = 0,001). Ters yüz edilmiş sınıflar 7 etki büyüklüğünden g = 1,96’ya ulaşırken geleneksel sınıflar g = 0,46 ve [[self-directed-learning|öz yönelimli öğrenme]] g = 0,26 düzeyinde kaldı ([[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing ve ark., 2026]]). Müdahale süresi de denetleyiciydi; akademik performans etkisi 0–4 haftada g = 5,07 iken 12 haftadan sonra g = 0,01’e düştü. Yazarlar çok büyük kısa süreli tahminleri genellenebilir değil betimleyici sayar; dolayısıyla "öğretimde YZ" için bir etki büyüklüğü bir tasarıma ilişkin bir iddiadır ve buradaki kalıplar o tasarımlardır.
 
 - **Çevrimiçi ve eşzamansız.** Geri çağırma ve aralıklama, Sokratik varyantlar, öz açıklamalı çözümlenmiş örnekler, istek metniyle iskelelenmiş kullanım, eşzamansız [[oral-assessment|oral assessment]] ve öğreterek öğrenme uygulamaları. Eşzamansız ortamlar *sıralamayı* yük taşıyan hale getirir, çünkü sistem öğrencinin önce deneyip denemediğini göremez.
 - **Yüz yüze ve harmanlanmış.** [[productive-failure|Productive failure]], hata analizi, ters yüz edilmiş varyantlar, sözlü kod incelemesi, betimlenmiş işbirliği ve kavramsal değişim çalışmaları. Sınıf süresi genellikle değiştirilmekten çok yeniden tahsis edilir — sözlü inceleme kalıbında, sınıf süresinin görüşmeleri barındırabilmesi için dersler videoya taşınmıştır.
@@ -188,7 +194,7 @@ Kılavuzun kendi uyarıları geçerlidir: kaydedilmiş video, yansıtmalar ve ka
 ## Yaygın yanlış anlamalar
 
 - **“YZ tarafından sağlanan her alıştırma alıştırmadır.”** Uyarlanabilir aralıklı geri çağırma koşulu **en yüksek son test puanlarını (M = 78,19)** üretmiş ve **öğrenen yönetimindeki YZ çalışmasından (M = 67,28) anlamlı biçimde daha iyi performans göstermiştir**. Öğrenen yönetimindeki düzenleme yapılandırılmış bir düzenlemenin altında kalmıştır; yani özerklik otomatik olarak daha iyi tasarım değildir.
-- **“Bir sohbet robotuyla çalışmak, onsuz çalışmaktan iyidir.”** **Karşıt vaka belirleyicidir**: **120 öğrenciyle** yürütülen bir [[rct|randomize denemede]], sınırsız ChatGPT ile çalışan grup **sürpriz bir testte daha az** akılda tutmuştur. Araç, sınanan düzenlemede kalıcılığa zarar vermiştir.
+- **“Bir [[conversational-ai|sohbet robotu]]yla çalışmak, onsuz çalışmaktan iyidir.”** **Karşı örnek bunu kesin biçimde çözer**: **120 öğrenciyle** yürütülen bir [[rct|randomize denemede]], sınırsız ChatGPT ile çalışanlar **uyarı olmadan sınandıklarında**, çalışmayanlara kıyasla **daha az** hatırlamıştır. Araç, sınanan düzenlemede kalıcılığa zarar vermiştir.
 - **“Kalıbın kanıtı büyük ve havuzlanmış bir denemedir.”** **En güçlü destek dolaylıdır** ve **26 öğrenciyle yürütülen randomize bir özne içi deneyden** gelir; burada anında yanıtlayan [[scaffolding|iskeleleme]] anlamlı biçimde farklı performans göstermiştir. Kanıt kalıbı destekler ve ölçek açısından ince kalır; sayfa da bu şekilde okunmalıdır.
 
 ## Bağlı kavramlar
@@ -228,6 +234,7 @@ Kılavuzun kendi uyarıları geçerlidir: kaydedilmiş video, yansıtmalar ve ka
 
 - [[pairr-ai-peer-review-2025]] — Akran ve YZ Değerlendirmesi + Yansıtma (PAIRR): amiral gemisi dizi, N = 654 (Sperber ve ark. 2025)
 - [[gift-ai-pairr-business-writing-2025]] — Bir işletme yazma kursunda uygulanan PAIRR (MacArthur ve ark. 2025)
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654 öğrencinin sohbet botuna ne ad verdiği: %51,7'si sunulan özel ders öğretmeni ya da işbirlikçi rollerini benimsedi (Stillman ve ark. 2026)
 - [[ai-peer-feedback-l2-writing-engagement-2026]] — Birleşik YZ artı akran geri bildirimi katılımı ve dört IELTS boyutunun tamamını yükseltti (Liu 2026)
 - [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — İşbirlikçi savunmada istek metniyle iskelelenmiş GenAI akran geri bildirimi (Chang ve ark. 2026)
 - [[rethinking-ai-writing-feedback-literacy|Dai (2026)]] — Öğrencilerin YZ geri bildirimini süzmeyi ve değerlendirmeyi öğretmeleri: FRAC ve APCA koşulları

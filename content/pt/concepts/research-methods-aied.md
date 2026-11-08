@@ -1,7 +1,7 @@
 ---
 title: Métodos de pesquisa em AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:22:14-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-26T13:35:09-04:00"
+source_updated: "2026-11-01T11:00:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -190,6 +190,9 @@ Na prática, a pesquisa em IA na educação raramente se encaixa liminarmente em
 
 [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] acrescenta uma vertente bibliométrica que se distingue dessas quatro: mapear 407 registros por co-ocorrência de palavras e rede de coautoria para traçar o desenvolvimento conceitual de um campo. O autor é explícito que a leitura SWOT construída sobre isso é um dispositivo interpretativo, e não uma técnica analítica independente, o que marca a fronteira entre síntese e análise nessa tradição.
 
+- **"Uma estatística pode ser confiada assim que é calculada."** O benchmark verifica a verificação primeiro. Cada sonda e cada veredito, exceto seis conjuntos nomeados de estatísticas, foi executado em avaliadores simulados com um efeito plantado e sem ele, e uma medida cuja verificação não encontrou o efeito plantado foi relatada como não medida, e não como resultado. Seus relatórios são gerados a partir de seu próprio markdown e código, de modo que cada número impresso se vincula ao arquivo e ao campo de onde veio e é recalculado na construção. [[porcaro-ai-grading-benchmark-2026|Um veredito é uma decisão de design que pode ser testada]] antes que qualquer resultado real seja lido.
+
+
 ## Ideias equivocadas comuns
 
 **"Alta acurácia em benchmark mostra eficácia educacional."** Não mostra, e a lacuna é o problema central de mensuração do campo: um sistema pode pontuar alto em acurácia sem produzir aprendizagem alguma, porque a acurácia de benchmark mede desempenho na tarefa sob as condições que o benchmark estabeleceu. Eficácia educacional exige um resultado de aprendizagem sob condições que a tecnologia não controla.
@@ -248,3 +251,6 @@ Na prática, a pesquisa em IA na educação raramente se encaixa liminarmente em
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Metameta-análise do efeito da IA na aprendizagem
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: auditoria de meta-análise defeituosa da AIED
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+
+- [[porcaro-ai-grading-benchmark-2026]] — Além da concordância: sondas cuja resposta certa é conhecida, verificações de efeito plantado em avaliadores simulados e 22 modelos com prompt (Porcaro 2026)
+

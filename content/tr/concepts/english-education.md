@@ -10,7 +10,7 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ Bu kavram, **İngilizce eğitimindeki** YZ [[research-methods-aied|research]] d�
 - **Akademik İngilizce (EAP):** Yükseköğretimde yazma, okuma ve geri bildirimde kullanılan türe dayalı, disipline özgü İngilizce için YZ desteği — genel yazma öğretiminden farklı.
 - **İngilizce dil öğretimi (EFL/ESL/L2):** İngilizce edinen öğrenenler için [[intelligent-tutoring|AI tutors]], konuşma ortakları ve [[feedback]] araçları.
 - **İngilizceye özgü [[assessment]]:** EAP yazma düzenleme ve L2 yazma değerlendirmesi dâhil olmak üzere İngilizce yazma ve konuşmada otomatik değerlendirme ve geri bildirim.
-- **Okuma ve edebiyatın okunabilirliği:** [[bird-multimodal-educational-literature-2026|Bird (2026)]], İngiliz edebiyatını Birleşik Krallık Key Stage'e göre sınıflandırmak üzere dönüştürücü metin sınıflandırmasını hesaplamalı dilbilim özellikleriyle birleştirerek 0,996 F1 değerine ulaşmaktadır — türe dayalı EAP okuma desteği ve okuma düzeyi uyumuna ölçeklenebilir, veri kaynaklı bir tamamlayıcı.
+- **Okuma ve edebiyatın [[reading-education|okunabilirliği]]:** [[bird-multimodal-educational-literature-2026|Bird (2026)]], İngiliz edebiyatını Birleşik Krallık Key Stage'e göre sınıflandırmak üzere dönüştürücü metin sınıflandırmasını hesaplamalı dilbilim özellikleriyle birleştirerek 0,996 F1 değerine ulaşmaktadır — türe dayalı EAP okuma desteği ve okuma düzeyi uyumuna ölçeklenebilir, veri kaynaklı bir tamamlayıcı.
 - **Dilsel eşitlik:** YZ'nin İngilizce üstünlüğü ile çok dilli ve Dünya İngilizcesi yazarlarının ihtiyaçları arasındaki gerilim.
 
 ## İngilizce eğitimi dil öğreniminden nasıl farklıdır
@@ -52,7 +52,7 @@ Bu kavram, **İngilizce eğitimindeki** YZ [[research-methods-aied|research]] d�
 | Boyut | [[language-learning]] | **İngilizce eğitimi (bu sayfa)** |
 |-----------|----------------------|-----------------------------------|
 | Hedef dil | Herhangi bir L2 (Fransızca, İspanyolca, Japonca, …) | Özel olarak İngilizce |
-| Odak | Genel olarak L2 edinimi: sözlü diyalog, telaffuz, okuryazarlık | Hedef dil olarak İngilizce + akademik İngilizce yazı dili |
+| Odak | Genel olarak L2 edinimi: [[speech-and-voice-technologies|sözlü diyalog]], telaffuz, okuryazarlık | Hedef dil olarak İngilizce + akademik İngilizce yazı dili |
 | İmza bağlamları | Konuşma, telaffuz, genel akıcılık | **EAP**: akademik yazma, okuma, geri bildirim, tür |
 | Temsilî YZ | L2 konuşma ortakları, [[speech-and-voice-technologies|pronunciation feedback]], robot destekli L2 | EAP yazma araçları, EFL akran geri bildirimi, İngilizce akademik yazma değerlendirmesi |
 
@@ -83,18 +83,18 @@ Birçok yazma eğitimi makalesi İngilizce öncelikli olsa da (örneğin [[marke
 YZ'nin İngilizce üstünlüğü bu akımın belirleyici bir özelliğidir. Modeller İngilizcede ve özellikle standart akademik İngilizcede en güçlü olduğundan, İngilizce eğitimi hem orantısız biçimde yararlanır (güçlü EAP iskelelemeleri) hem de kendine özgü riskler taşır (tek dilci yanlılık, Dünya İngilizcesi ve çok dilli yazarlara karşı ayrımcılık). Buradaki araştırmalar [[equity-in-ai-education|equity]], [[bias-mitigation|bias mitigation]], [[automated-assessment|automated assessment]], [[ai-feedback-quality|AI feedback quality]] ve [[academic-integrity|academic integrity]] ile bağlantılıdır.
 
 
-Scopus tabanlı 54 EFL çalışması sentezi, alanın en sık bildirilen [[limitations-in-aied-research|sınırlılıklarını]] öğrenen özerkliğinde konumlandırır: 27 çalışmada (%50) YZ’ye [[cognitive-offloading|aşırı bel bağlama]] ve 25’inde (%46) azalan [[critical-thinking|eleştirel düşünme]], teknik sorunların başında gelen 22 çalışmadaki (%41) güvenilmez YZ üretimli çıktıya karşı ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi ve Vargas-Saritama (2026)]]).
+Scopus tabanlı 54 EFL çalışması sentezi, alanın en sık bildirilen [[limitations-in-aied-research|sınırlılıklarını]] öğrenen [[agency|özerkliğinde]] konumlandırır: 27 çalışmada (%50) YZ’ye [[cognitive-offloading|aşırı bel bağlama]] ve 25’inde (%46) azalan [[critical-thinking|eleştirel düşünme]], teknik sorunların başında gelen 22 çalışmadaki (%41) güvenilmez YZ üretimli çıktıya karşı ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi ve Vargas-Saritama (2026)]]).
 
 ## İngilizce / EAP / EFL-ESL öğretim görevlileri için çıkarımlar
 
 - **YZ'nin akademik İngilizce üstünlüğünü bilinçli biçimde yararlanın.** Modeller İngilizcede ve standart akademik İngilizcede en güçlü olduğundan, EAP öğretim görevlileri YZ'yi türe dayalı yazma, okuma materyali farklılaştırma ([[genai-differentiated-eap-reading-materials-2026|EAP materials]]) ve düzenleme geri bildirimi için kullanabilir — ancak YZ'yi bir taslak/geri bildirim ortağı olarak çerçevelemeli, bir cevap motoru olarak değil.
-- **Akademik İngilizce yazı dilini ve geri bildirim okuryazarlığını koruyun.** [[feedback-literacy-scripts-eap-writing|EAP writing revision]], geri bildirimin yalnızca öğrenenin geri bildirim okuryazarlığı kadar üretken olduğunu göstermektedir — öğrencilere YZ geri bildirimini yorumlamayı, değerlendirmeyi ve buna göre hareket etmeyi öğretin ve YZ kalitesini denetlemek için ikinci değerlendirici mekanizmalarını kullanın.
+- **Akademik İngilizce yazı dilini ve [[feedback-literacy|geri bildirim okuryazarlığını]] koruyun.** [[feedback-literacy-scripts-eap-writing|EAP writing revision]], geri bildirimin yalnızca öğrenenin geri bildirim okuryazarlığı kadar üretken olduğunu göstermektedir — öğrencilere YZ geri bildirimini yorumlamayı, değerlendirmeyi ve buna göre hareket etmeyi öğretin ve YZ kalitesini denetlemek için ikinci değerlendirici mekanizmalarını kullanın.
 - **İngilizce üstünlüğü eşitlik gerilimini izleyin.** Modeller standart akademik İngilizceyi ayrıcalıklı kılarak Dünya İngilizcesi ve çok dilli yazarları dışlar ([[genai-linguistic-diversity-academic-writing|World Englishes]], [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]) — geri bildirimi tek dilci yanlılık ve düşürülmüş beklentiler açısından denetleyin.
 - **YZ'yi EAP'a etik biçimde bütünleştirin.** [[alharbi-ethical-genai-eap-2026|Ethical GenAI in EAP]], akademik dürüstlüğü koruyan [[higher-ed]] İngilizce öğretiminde şeffaf ve sorumlu kullanım çağrısında bulunmaktadır.
 - **Temkinli, hazırlık öncelikli benimseme bekleyin.** [[li-language-educators-genai-review-2026|systematic review of 23 studies]] (Li ve ark. 2026), dil eğitimcilerinin [[generative-ai|GenAI]]'yi en çok sahne arkası hazırlık için — ders planlama, materyal üretimi ve yazma desteği/geri bildirimi — değerli bulduğunu, doğrudan sınıf içi kullanımda ise çekindiğini bulmaktadır; temel kaygılar [[academic-integrity|academic integrity]] (intihal ve [[assessment-validity|assessment validity]]) üzerinde yoğunlaşmaktadır. Benimseme; mesleki kimlik, [[pedagogy|pedagogical]], teknik, [[governance|institutional]] ve dürüstlük etkenleri tarafından şekillenir ve yetkinlik boşlukları episteme (YZ'nin yeteneklerini/sınırlarını anlama), techne ([[prompt-engineering]], YZ destekli görev/değerlendirme tasarımı, YZ üretimi metni tespiti) ve phronesis ([[ethics|ethical]] muhakeme, yanlılık/gizlilik yönetimi) biçiminde eşlenir — bu nedenle EAP/EFL öğretim görevlileri bu yetkinlikleri bilinçli biçimde geliştirmeli ve “önce arka uç, sonra sınıf” düzeninde bir uygulamayı planlamalıdır.
 - **Yeterliliğe ve ihtiyaca göre farklılaştırın.** [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment]] ve uyarlanabilir özel ders araştırmaları, YZ desteği ve değerlendirmesini öğrenenlerin düzeyine göre uyarlamayı, hepsine tek ölçü yaklaşım yerine desteklemektedir.
 
-- **Teknolojiyi üretime doğru ağırlıklandırın.** 33 TEFL çalışmasını kapsayan bir meta analiz, küçük-orta düzeyde genel bir etki bulmuştur (g = 0,38; trim-and-fill ile 0,28'e düşmüştür); bu etki eğitim düzeyiyle artmakta ve alıcı beceriler yerine üretken becerileri — konuşma ve yazma — öne çıkarmaktadır ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
+- **Teknolojiyi üretime doğru ağırlıklandırın.** 33 TEFL çalışması genelinde havuzlanmış tahmin küçük-orta düzeydeydi (g = 0,38; trim-and-fill ile 0,28'e düşmüştür); bu etki eğitim düzeyiyle artmakta ve alıcı beceriler yerine üretken becerileri — konuşma ve yazma — öne çıkarmaktadır ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
 
 ## Yaygın yanlış anlamalar
 
@@ -107,6 +107,7 @@ Scopus tabanlı 54 EFL çalışması sentezi, alanın en sık bildirilen [[limit
 
 - [[language-learning]]
 - [[writing-education]]
+- [[reading-education]]
 - [[multilingual-learning]]
 - [[higher-ed]]
 - [[k-12]]

@@ -8,9 +8,9 @@ assessment: [ai-feedback-quality, formative-assessment, group-work]
 confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
-updated: "2026-11-04T02:28:53-05:00"
+updated: "2026-11-08T13:51:25-05:00"
 translation_of: "concepts/peer-assessment"
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Penilaian sejawat adalah pilihan desain penilaian di mana siswa mengambil sebagi
 
 Basis riset sepakat bahwa penilaian sejawat menghasilkan pembelajaran dan tidak sepakat tentang seberapa besar hal itu bergantung pada desain. Praktik ini memberi siswa audiens yang autentik, mengembangkan pertimbangan evaluatif melalui tanggapan berbasis kriteria, dan membangun konteks sosial yang mendukung [[student-engagement|keterlibatan]] dan [[motivation]]. Kualitasnya sangat bergantung pada [[scaffolding|perancah]] — seberapa baik terstruktur, dan apakah siswa mendapat kriteria serta pelatihan yang jelas. Ketergantungan itulah pintu masuk AI, sebagai pelengkap yang konsisten dan digerakkan rubrik bagi umpan balik spesifik dan sadar konteks dari sejawat, dan semakin sering sebagai perancah yang dibangun ke dalam proses penilaian sejawat itu sendiri.
 
-[[wang-student-ai-collaboration-peer-feedback-2026|Wang dan Guo (2026)]] menemukan bahwa siswa EFL yang meninjau tulisan sejawat melalui dialog terbuka dengan AI generatif menghasilkan umpan balik yang dinilai penerima lebih berkualitas, dengan keuntungan pada respons emosional dan literasi umpan balik yang bervariasi menurut kualitas dialog tersebut.
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang dan Guo (2026)]] menemukan bahwa siswa EFL yang meninjau tulisan sejawat dengan [[generative-ai|AI generatif]] menghasilkan umpan balik yang dinilai penerima lebih berkualitas, dengan keuntungan pada respons emosional dan literasi umpan balik yang bervariasi menurut kualitas dialog tersebut.
 
 ## Apa yang dipelajari siswa dari menilai teman sebaya
 
@@ -63,6 +63,8 @@ Itu membatasi untuk apa nilai sejawat sebaiknya digunakan. Nilai yang terkalibra
 ## Penilaian sejawat yang diperkuat AI: PAIRR dan pembagian Trainer/Synthesizer
 
 Pola desain yang dominan menjaga sejawat sebagai pusat dan menambahkan AI di sekitarnya. Model Peer and AI Review + Reflection adalah contoh yang paling terdokumentasi. [[pairr-ai-peer-review-2025|Sperber et al. (2025)]] menerapkan PAIRR di 10 mata kuliah menulis dan tiga mata kuliah [[stem-education|STEM]] padat menulis, dengan 654 siswa (37% generasi pertama, 13% internasional, 68% [[multilingual-learning|multibahasa]]). Siswa menyusun draf, bertukar tinjauan sejawat, meminta umpan balik berbasis rubrik dari ChatGPT atas draf yang sama, menilai keduanya secara kritis, merencanakan revisi, dan melakukan refleksi. 58% lebih memilih umpan balik gabungan, 36% umpan balik sejawat saja, dan hanya 6% umpan balik AI saja. Kedua sumber itu sering serupa (75% melaporkan kesamaan, yang digambarkan saling meneguhkan dan memperkuat) dan, ketika berbeda, saling melengkapi: umpan balik AI sering disebut terlalu umum (31%) tetapi memberi strategi revisi yang dapat ditindaklanjuti tentang organisasi dan struktur, sedangkan umpan balik sejawat lebih spesifik dan rinci (28%) serta bersandar pada pengetahuan kontekstual tentang tugas. [[ai-ed-evaluation|Mengevaluasi]] output AI secara kritis membangun [[ai-literacy]], dan hanya 5.3% siswa menunjukkan kepercayaan diri berlebih terhadapnya.
+
+Implementasi 2024 yang sama memiliki tulisan kedua yang membaca refleksi untuk melihat bagaimana siswa menggambarkan alat itu alih-alih bagaimana mereka menilai umpan baliknya. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman dkk. (2026)]] mengkodekan refleksi revisi dari 13 bagian dan 10 mata kuliah, dan menemukan hanya sekitar separuh siswa yang mengadopsi peran antropomorfis yang ditawarkan prompt: tutor (28.6%) dan kolaborator (23.1%). Sisanya memilih alat atau sumber daya (9.9%), teman atau sejawat (7.7%), robot atau komputer (7.7%), atau skema mereka sendiri. Para penulis membaca penempatan itu sebagai intinya: siswa menempatkan chatbot di pinggiran ekologi menulis yang pusatnya adalah siswa, para sejawat, dan instruktur.
 
 Pola itu menggeneralisasi ke penulisan profesional. [[gift-ai-pairr-business-writing-2025|MacArthur et al. (2025)]] menerapkan PAIRR pada mata kuliah penulisan bisnis tingkat atas di mana lima tugas besar masing-masing menuntut draf, analisis audiens, tinjauan sejawat oleh 2–3 sejawat, dan revisi (34 dari 46 siswa terdaftar berpartisipasi; 69% multibahasa). Siswa menghargai umpan balik AI tetapi kadang merasa terlalu umum, dan menghargai pengetahuan kontekstual sejawat — "sejawat saya melihatnya dari perspektif pemberi kerja… ChatGPT tidak begitu melakukannya." Seperempat refleksi terkode dalam studi PAIRR yang lebih besar menyatakan skeptisisme terhadap umpan balik AI atau mencatat ketidakakuratan, yang dibaca para penulis sebagai perkembangan literasi AI. Studi ini deskriptif dan khas mata kuliah.
 
@@ -96,8 +98,10 @@ Pertanyaan terbukanya adalah tentang kekuatan bukti, bukan hanya tentang desain.
 ## Miskonsepsi umum
 
 - **"Pertahanan lisan menghentikan karya berbantuan AI."** Proporsi karakter hasil tempel terhadap total **naik dari 61.0% menjadi 68.1% (p < 0.0001)** setelah setiap kiriman CS1 tunduk pada **tinjauan kode lisan 15 menit senilai 70% dari nilai**. Perilaku yang disasar justru meningkat — dan **skor ujian tidak menurun serta waktu pengerjaan tetap stabil**, sementara **90% siswa mengatakan tinjauan itu memotivasi** mereka. Intervensinya berhasil pada pemahaman, bukan pada penempelan.
-- **"Deteksi kecurangan adalah tujuan penilaian lisan."** Hasil yang diukur adalah pemahaman dan motivasi, bukan pengurangan teks hasil tempel. Menilai desain itu berdasarkan tingkat deteksinya salah membaca apa yang dicapainya.
+- **tujuan [[oral-assessment|penilaian lisan]]."** Hasil yang diukur adalah pemahaman dan motivasi, bukan pengurangan teks hasil tempel. Menilai desain itu berdasarkan tingkat deteksinya salah membaca apa yang dicapainya.
 - **"Tinjauan sejawat adalah pengganti yang lebih murah bagi umpan balik instruktur."** [[learning-by-teaching|Belajar dengan mengajar]] adalah mekanismenya, dan itu muncul bahkan di antara mesin: wacana yang mirip pembelajaran sejawat di antara lebih dari **2.4 juta agen AI** sebagian besar berupa **asersi alih-alih penyelidikan**. Menghasilkan kritik adalah tindakan yang berbeda dari menerimanya.
+
+- **Formulir reflektif sejawat dan diri sebagai catatan di balik nilai kelompok.** [[issa-teamwork-framework-academic-integrity-2024|Issa dan Hall (2024)]] menggunakan satu formulir reflektif sejawat per anggota tim plus satu formulir reflektif diri per siswa dalam unit Manajemen Proyek Bisnis pascasarjana, bersama pertemuan 30 menit dengan setiap tim di mana anggota ditanya apakah kontribusi mereka orisinal. Formulir-formulir itu tidak dinilai sebagai pertukaran umpan balik. Mereka adalah bukti per orang yang memungkinkan instruktur mempertahankan nilai individual di dalam penilaian tim sebesar 40%. Kenaikan nilai kerangka itu dari 27/40 menjadi 31/40 tercampur dengan dosen baru dan klaim integritasnya tidak terkuantifikasi, sehingga bagian yang dapat ditransfer adalah struktur pencatatan, bukan ukuran efeknya.
 
 ## Konsep terkait
 
@@ -141,3 +145,5 @@ Pertanyaan terbukanya adalah tentang kekuatan bukti, bukan hanya tentang desain.
 - [[ai-agents-peer-learning-discourse]] — Wacana yang mirip pembelajaran sejawat di antara 2.4 juta agen AI (Chen et al. 2026)
 - [[oneill-presumed-effective-meta-analysis-2026]] — Audit atas 14 meta-analisis AIED dan 59 studi primer (O'Neill 2026)
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Umpan balik guru vs. umpan balik sejawat berbantuan AI dalam penulisan L2: kuantitas, fokus, dan lintasan peningkatan pada dua tugas (Tang, Li & Luo 2026)
+- [[issa-teamwork-framework-academic-integrity-2024]] — formulir reflektif diri/sejawat sebagai bukti per orang di balik nilai kelompok (Issa & Hall 2024)
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Kosakata peran dari 654 siswa: tutor 28.6%, kolaborator 23.1%, alat 9.9%, robot 7.7%

@@ -1,7 +1,7 @@
 ---
 title: La regolamentazione dell'IA nell'istruzione
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:14:01-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: "concepts/regulation"
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -58,11 +58,15 @@ I sistemi [[agentic-ai|agentici]] aprono un ulteriore divario. In un'analisi doc
 
 **Il divario è anche di evidenze, non solo di tempistica.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] caratterizzano un settore professionale come intento a fare politica sotto la pressione del tempo e senza una base di evidenze con cui farla: la maggior parte delle [[legal-education|law schools]] statunitensi accreditate ABA ha assunto posizioni generalmente proibitive, riservando al tempo stesso la discrezionalità ai singoli docenti, e gli autori riportano l'assenza di consenso sulle pratiche di disclosure o di citazione e un tasso di risposta di circa il 15% all'indagine sulle politiche dell'ABA del 2024. La loro risposta normativa — linee guida chiare qualunque sia la posizione, il coinvolgimento degli [[stakeholders|stakeholder]] nella stesura, e una governance progettata per essere flessibile e rivista periodicamente — coincide con il [[crompton-governing-genai-higher-ed-delphi-2026|global Delphi consensus]], che tratta analogamente il mantenimento delle politiche come un meccanismo istituzionale ricorrente anziché un compito una tantum. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]] aggiungono la dipendenza inversa: il loro programma di riforma della governance conclude che è improbabile che lo sviluppo istituzionale dia i suoi frutti senza un abilitazione esterna da parte della regolamentazione, del benchmarking e della competizione tra istituzioni, rendendo gli enti di qualità e le agenzie regolamentari — e il confronto che impongono tra istituzioni — la condizione perché la riforma interna della governance metta radici.
 
-Un audit delle politiche di privacy delle piattaforme EdTech offre a questa dipendenza un'istanza concreta. Su 48 piattaforme, la raccolta dei dati è stata divulgata in modo relativamente buono (media 1,81 su 2), mentre la disclosure sull'IA (0,90) e la responsabilità (1,07) erano in ritardo, e il 33% non forniva alcuna disclosure significativa sull'IA nonostante funzionalità di IA visibili; le piattaforme [[k-12]] statunitensi hanno ottenuto il punteggio complessivo più alto (M = 7,47 contro 5,50 per l'istruzione superiore [[higher-ed|higher education]] statunitense) senza però guadagnare nulla in disclosure sull'IA o responsabilità — la regolamentazione, concludono gli autori, eleva solo ciò che nomina, per cui regole applicabili e standard di procurement piuttosto che impegni volontari devono rendere la [[privacy]] una condizione dell'adozione ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
+Un audit delle politiche di privacy delle [[edtech-platform|piattaforme EdTech]] offre a questa dipendenza un'istanza concreta. Su 48 piattaforme, la raccolta dei dati è stata divulgata in modo relativamente buono (media 1,81 su 2), mentre la disclosure sull'IA (0,90) e la responsabilità (1,07) erano in ritardo, e il 33% non forniva alcuna disclosure significativa sull'IA nonostante funzionalità di IA visibili. Le piattaforme [[k-12]] statunitensi hanno ottenuto il punteggio complessivo più alto (M = 7,47 contro 5,50 per l'istruzione superiore [[higher-ed|higher education]] statunitense) senza però guadagnare nulla in disclosure sull'IA o responsabilità. La regolamentazione, concludono gli autori, eleva solo ciò che nomina, per cui regole applicabili e standard di procurement piuttosto che impegni volontari devono rendere la [[privacy]] una condizione dell'adozione ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
 ### Connessioni
 
 La regolamentazione si collega a [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]], [[pedagogical-safety]] e [[academic-integrity]]. È lo strato istituzionale che modella il funzionamento di tutte le altre pratiche di istruzione con l'IA. La regolamentazione al tempo stesso vincola e abilita: fissa i confini dell'uso accettabile dell'IA e crea al tempo stesso le condizioni — attraverso l'[[ai-literacy]] e le attese di uso responsabile — per un'integrazione [[equity-in-ai-education|equa]] e sicura.
+
+
+La regolamentazione non si traduce automaticamente verso il basso: 32 enti finanziatori che operano dove esistono regole statali sull'IA hanno pubblicato politiche generali ma nessuno strumento specifico per il finanziamento che le recepisse ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 
 ## Idee sbagliate comuni
 
@@ -108,3 +112,6 @@ La regolamentazione si collega a [[educational-policy-ai]], [[governance]], [[et
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% of faculty write their own rules against a thin institutional policy layer (Watson & Rainie 2026)
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — No comparator policy addressed an AI agent logging into an LMS or holding student credentials (Wong & Sun 2026)
+
+- [[chan-ai-policy-gap-2026]] — Mancata traduzione verticale: le regole statali esistono mentre gli enti finanziatori sotto di esse non emanano alcuno strumento vincolante (Chan 2026)
+

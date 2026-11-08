@@ -6,7 +6,7 @@ foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 - **Büyük dil modelleri (LLM’ler).** Çoğu modern [[ai-education|AIED]] uygulamasının hesaplama omurgası — [[llm|LLM’ler]], özel ders, değerlendirme ve içerik üretimi için insana benzer metin üretir ve bilgi tabanında en çok atıf yapılan teknolojidir. [[llm-training-and-fine-tuning|Eğitim ve ince ayar]], genel LLM’leri eğitim kullanımı için uyarlar.
 - **Üretken YZ.** Metin, kod, görüntü ve diğer içerikleri üreten sistemlerin daha geniş kategorisi — [[generative-ai|üretken YZ]] (başlıca LLM’ler tarafından yönlendirilen), günümüz [[ai-education|AIED]] araştırma dalgasının arkasındaki teknolojidir. Ayrıca bkz. [[multimodal|çok kipli modeller]] (metin, görüntü, ses) ve [[simulation]].
-- **Robotlar ve gömülü sistemler.** [[educational-robotics|Eğitimde robotlar]], gömülü ve genellikle sosyal bir varlık ekler — hesaplamalı düşünme için programlanabilir kitler ve özel ders, hikâye anlatımı ve rol yapma için insansı/sosyal robotlar. Robotik, [[agentic-ai|ajan YZ]] ve [[human-in-the-loop-ai|insan-razı-döngüde]] tasarımla kesişen ayrı bir teknik çizgidir.
+- **Robotlar ve [[embodied-learning|gömülü]] sistemler.** [[educational-robotics|Eğitimde robotlar]], gömülü ve genellikle [[community-of-inquiry|sosyal bir varlık]] ekler — [[computational-thinking|hesaplamalı düşünme]] için programlanabilir kitler ve özel ders, [[storytelling-in-education|hikâye anlatımı]] ve rol yapma için insansı/sosyal robotlar. Robotik, [[agentic-ai|ajan YZ]] ve [[human-in-the-loop-ai|insan-razı-döngüde]] tasarımla kesişen ayrı bir teknik çizgidir.
 - **Bilgi temelli sistemler.** [[knowledge-graph|Bilgi grafikleri]] ve [[educational-nlp|eğitsel NLP]], alan bilgisini temsil eder ve işler; giderek daha fazla temellendirilmiş, açıklanabilir özel ders için LLM’lerle birleştirilmektedir.
 
 ## Teknikler ve yöntemler
@@ -55,7 +55,10 @@ Teknik çizgi, bilgi tabanının diğer temalarından ayrılamaz:
 
 - **Pedagoji:** teknik tercihler pedagojik varsayımları somutlaştırır — [[socratic-method|Sokratik istek metni yazımı]] üzerine kurulu bir [[intelligent-tutoring|eğitmen]] öğrenenlerle birlikte akıl yürütürken, cevap üreten bir model doğrudan sunuma yönelebilir (bkz. [[pedagogy|pedagojiler ve öğretim stratejileri]]).
 - **Değerlendirme ve değerlendirme çalışması:** [[ai-ed-evaluation]] ve [[benchmark|kıyas ölçütleri]], YZ sistemlerinin gerçekten çalışıp çalışmadığını belirler; [[assessment]] ve [[automated-assessment]], not vermek ve üretmek için teknik yığını kullanır.
-- **Sorumlu kullanım:** teknik teknikler [[reducing-ai-misuse|YZ kötüye kullanımını azaltmak]] için merkezîdir — [[rag]] temellendirmesi, güvenceler, [[prompt-engineering]] [[scaffolding]] ve [[human-in-the-loop-ai|insan denetimi]], YZ’nin öğrenmeyi destekleyip desteklemediğini şekillendirir ([[cognitive-offloading]], [[hallucination-risk]]).
+- **Sorumlu kullanım:** teknik teknikler [[reducing-ai-misuse|YZ kötüye kullanımını azaltmak]] için merkezîdir — [[rag]] temellendirmesi, [[guardrails|güvenceler]], [[prompt-engineering]] [[scaffolding]] ve [[human-in-the-loop-ai|insan denetimi]], YZ’nin öğrenmeyi destekleyip desteklemediğini şekillendirir ([[cognitive-offloading]], [[hallucination-risk]]).
+
+**Araştırma ilgisi araç ekosisteminin dar bir diliminde yoğunlaşmaktadır.** 85 YZ aracını STEM ve mühendislik literatürüne karşı haritalandıran [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky ve ark. (2026)]], bunlardan yalnızca 36’sının araştırmada görünür olduğunu ve [[conversational-ai|konuşmaya dayalı YZ]]/LLM’lerin 927 makale–araç bağlantısının %73,7’sini oluşturduğunu, yerleşik bir laboratuvar bağlamında 23 yayın bulunduğunu bulmuştur.
+
 
 ## Eğitimde Yapay Zeka açısından çıkarımlar
 
@@ -98,6 +101,9 @@ Teknik çizgi, bilgi tabanının diğer temalarından ayrılamaz:
 - [[personalized-learning]]
 
 ## Bağlı makaleler
+
+- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — STEM ve mühendislik eğitiminde 85 YZ aracının araştırmadaki görünürlüğü (Terkowsky ve ark. 2026)
+
 
 - [[agentic-ai-education-scoping-review]] — Eğitimde ajan YZ’nin kapsam derlemesi
 - [[genai-meta-analysis-programming-learning]] — Programlama öğreniminde GenAI’nin üretkenlik ve öğrenme üzerindeki etkisine dair meta analiz

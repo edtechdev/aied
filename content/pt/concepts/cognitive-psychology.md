@@ -1,13 +1,13 @@
 ---
 title: Psicologia cognitiva
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:35:57-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T12:10:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ A psicologia cognitiva é a tradição da teoria da aprendizagem que trata a apr
 - **A metáfora do processamento de informação (computacional).** A mente é tratada como um sistema de processamento de informação com capacidades e gargalos — a [[item-response-theory|mensuração]] da habilidade latente, os limites da memória de trabalho, a codificação e a recuperação —, que é exatamente o modelo que tornou a tutoria por IA (um programa de computador que modela a cognição de quem aprende e se adapta a ela) um encaixe natural.
 - **Atenção e memória são limitadas.** A memória de trabalho tem capacidade limitada; a aprendizagem durável exige codificação na memória de longo prazo por meio de repetição, elaboração e [[retrieval-spacing-interleaving|prática de recuperação]]. Isso conecta o cognitivismo à [[research-methods-aied|pesquisa]] sobre [[cognitive-offloading]] (delegar memória/processamento a ferramentas externas) e à "lacuna entre desempenho e aprendizagem" quando a IA contorna a recuperação e a prática.
 - **A metacognição regula a cognição.** A [[metacognition]] — monitorar e controlar o próprio pensamento — é um construto distintivamente cognitivista, e explica por que a calibração de quem aprende sobre quando confiar na IA importa para a aprendizagem (veja [[cognitive-offloading]] e [[self-regulated-learning]]).
-- **O conhecimento é decomponível e rastreável.** A AIED cognitivista pressupõe que o conhecimento de quem aprende pode ser representado como componentes e rastreado ao longo do tempo — a base do [[knowledge-tracing]], do [[cognitive-diagnosis]] e da [[item-response-theory]].
+- **O conhecimento é decomponível e rastreável.** A AIED cognitivista pressupõe que o conhecimento de quem aprende pode ser representado como componentes e rastreado ao longo do tempo — a base do [[knowledge-tracing]], do [[cognitive-diagnosis]] e da [[item-response-theory]]. A rastreabilidade também é uma regra de pontuação. Quatro regras de atualização do [[knowledge-tracing]] rodam sobre as mesmas sequências de eventos do ASSISTments: creditar qualquer conclusão assistida declarou 93,9% dos pares estudante-habilidade como dominados, contra 72,8% quando as linhas assistidas eram lidas como primeiras tentativas falhas. Os pares que a regra leniente declarou cedo chegaram a 0,709 de acurácia sem assistência, contra 0,857 onde as regras concordaram ([[crediting-assisted-work-inflates-mastery-2026|Srivastava, 2026]]). O modelo rastreia apenas o que a regra de evidência deixa contar.
 
 ## O cognitivismo e a IA na educação
 
@@ -71,6 +71,9 @@ A Teoria Cognitiva da Aprendizagem Multimídia (CTML), de Mayer, aplica os mesmo
 ### A tensão da era da IA: a fronteira do cognitivismo está sob pressão
 
 A [[generative-ai|IA generativa]] ao mesmo tempo estende e desafia o cognitivismo. Ela o estende ao tornar as representações de conhecimento mais poderosas (LLMs como motores de conhecimento que podem ser rastreados via [[knowledge-tracing]] e adaptados via [[student-modeling]]). Ela o desafia ao complicar onde a cognição "está": quando a IA realiza raciocínio, memória e até funções metacognitivas, o pressuposto cognitivista de que a aprendizagem é processamento interno na mente individual fica abalado — como argumentam a [[distributed-cognition]], a [[ai-cognitive-partner-co-regulation-learning|corregulação]] e os enquadramentos pós-humanos, para quem a cognição pode ser distribuída entre sistemas humanos e artificiais. Ainda assim, a pergunta cognitivista permanece a questão central do campo: *quem aprende internaliza o conhecimento, ou a ferramenta o retém?* É a pergunta do descarregamento cognitivo e da lacuna entre desempenho e aprendizagem em sua forma mais pura.
+
+Um experimento de 2026 dá ao lado da memória dessa fronteira um modo de falha concreto. Apenas 44,8% de 328 adultos que leram um resumo de IA enganoso depois identificaram corretamente um detalhe do vídeo, contra 83,6% que leram um resumo consistente. O rótulo de IA ou humano não fez diferença, e nem a confiança autorrelatada na IA. ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). Isso é memória da fonte, e não aprendizagem de sala de aula, mas um resumo fluente pode sobrescrever o registro que quem aprende tem da fonte, o que importa para estudo e avaliação.
+
 
 ## Implicações para o desenho e a pesquisa
 
@@ -109,6 +112,7 @@ A [[generative-ai|IA generativa]] ao mesmo tempo estende e desafia o cognitivism
 
 ## Artigos conectados
 
+- [[sim-ai-summary-memory-distortion-2026]] — Resumos de IA enganosos mudaram o que os adultos lembravam, independentemente de o resumo ser rotulado como escrito por IA ou por humano
 - [[cognitive-shift-ai-education]] — A mudança cognitiva na educação com IA
 - [[cogtax-cognitive-taxonomy]] — Uma taxonomia cognitiva para o uso de IA
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — Agentes de LLM pedagógicos fundamentados no rastreamento de conhecimento
@@ -116,3 +120,4 @@ A [[generative-ai|IA generativa]] ao mesmo tempo estende e desafia o cognitivism
 - [[ai-cognitive-partner-co-regulation-learning]] — A IA como parceira cognitiva na aprendizagem corregulada
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: pensar como interação humano–IA
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Organização do esforço, e não quantidade de esforço, acompanhou a carga e a frustração
+- [[crediting-assisted-work-inflates-mastery-2026]] — As alegações de domínio do rastreamento de conhecimento dependem de como o trabalho assistido é creditado (Srivastava 2026)

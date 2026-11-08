@@ -9,8 +9,8 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: "concepts/feedback-literacy"
-updated: "2026-10-31T06:30:00-04:00"
-source_updated: "2026-10-26T09:10:00-04:00"
+updated: "2026-11-08T13:51:25-05:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -86,6 +86,10 @@ Agire sul feedback non equivale a migliorare l'artefatto. Tra 22 docenti di mate
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang e Guo (2026)]] trattano la literacy del feedback come sviluppabile attraverso la pratica: i revisori tra pari EFL che lavoravano dialogicamente con l'IA generativa per produrre commenti miglioravano la propria capacità di giudicare e usare il feedback, non solo i commenti che erogavano.
 
+
+**La literacy del feedback deve coprire una fonte macchina oltre a una umana.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] chiedono agli studenti di valutare il feedback dei pari e quello di un chatbot sulla stessa bozza nella stessa riflessione, il che rende il confronto stesso il compito di apprendimento. I loro studenti ridimensionavano l'autorità del chatbot rispetto a quella di un docente, e gli autori leggono quel ridimensionamento come literacy anziché come riluttanza.
+
+
 ## Idee sbagliate comuni
 
 - **"Il feedback dell'IA migliora direttamente il pensiero critico."** In **421 studenti universitari cinesi**, l'associazione tra uso della GenAI e pensiero critico [[self-report-measures|auto-riportato]] **passava attraverso la literacy del feedback**. La literacy è il mediatore, quindi un intervento che aggiunge feedback dell'IA senza costruire la capacità di leggerlo interviene sul termine sbagliato.
@@ -108,6 +112,9 @@ Agire sul feedback non equivale a migliorare l'artefatto. Tra 22 docenti di mate
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
+
+- [[reflection]]
+
 
 ## Articoli collegati
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Literacy del feedback IA e agentic engagement: un panel a tre ondate con intercetta casuale (Xu 2026)
@@ -136,3 +143,6 @@ Agire sul feedback non equivale a migliorare l'artefatto. Tra 22 docenti di mate
 
 - [[genai-use-critical-thinking-moderation-2026]] — GenAI use to critical thinking ran through GenAI feedback literacy, strengthening with reflective thinking
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — La comprensione, non l'azionabilità, ha portato il guadagno di revisione
+
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Valutare il feedback dei pari e quello del chatbot sulla stessa bozza dentro un unico compito di riflessione
+

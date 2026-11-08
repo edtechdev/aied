@@ -9,7 +9,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-28T18:53:18-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -57,8 +57,9 @@ Pedagojik işbirliği ile yapay zekanın kesişimi, bilgi tabanının en hızlı
 
 - **YZ politikasının eş tasarımcıları olarak öğrenciler.** Kurumların öğrencilere YZ kuralları dayatması yerine, işbirliği öğrencileri kurs ve kurum düzeyinde YZ politikasının eş yaratıcıları olarak konumlandırır. Örneğin, öğrencilerin bir [[generative-ai]] kurs politikasını eş tasarladığı yönlendirilmiş araştırma etkinliği, eğitim, standartlaştırılmış açıklama, kurumsal destek ve karar alma süreçlerine katılım çevresinde öğrenci önceliklerini ortaya çıkarmıştır ([[guided-inquiry-genai-course-policy-2026]]).
 - **YZ araçlarının eş yaratıcıları olarak öğrenciler.** Öğrenciler-ortak-olarak çerçevelerinde öğrenciler, pedagojik hedeflerle uyumlu özel YZ [[conversational-ai|chatbots]] tasarlamış ve bunları iyileştirmiştir; bu yaklaşım SaP paradigmasını YZ araçlarını da içerecek biçimde genişletir ve öğrenci sesini sorumlu YZ yeniliğinin merkezine yerleştirir ([[lo-co-creating-custom-gpts-sap-2026]]).
+- **Ölçekte eş yaratım, temkinli ölçüm.** 710 öğrencili bir yazılım tasarımı kursunda öğrenciler, bir YZ özel ders öğretmenini kullanmak yerine akranları için bir [[intelligent-tutoring|YZ özel ders öğretmeni]] inşa etmiştir. Tasarım özgürlüğü en çok anılan olumlu tema (\%22,3), belirsiz yönergeler ise en çok anılan şikâyet (\%23,7) olmuştur; ancak algılanan öğrenme, test puanlarıyla yalnızca r = 0,161 ile 0,315 arasında ilişkiliydi ve tasarımın denetim grubu yoktu ([[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari ve ark. (2026)]]). Aracı inşa etmek makul bir pedagojidir ve bu kanıtla sınanmamış bir pedagojidir; bu yüzden gerekçesi sonuç kazanımlarına değil tasarım etkinliğine dayanır.
 
-- **Öz değerlendirmeyle değerlendirilen bütün sınıf eş tasarımı.** Bir bilgi çalışmaları birinci sınıf programında, öğrenciler ve personel ilk hafta kurs hedeflerini ve politikalarını eş tasarlamış ve dönem boyunca bunları yeniden ele almışlardır; öğrenciler nihai ürünler yerine kişisel hedeflere, takım hedeflerine ve paylaşılan bir değerlendirme anahtarına karşı kendilerini ve gruplarını notlamıştır ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
+- **[[self-assessment|Öz değerlendirme]]yle değerlendirilen bütün sınıf eş tasarımı.** Bir bilgi çalışmaları birinci sınıf programında, öğrenciler ve personel ilk hafta kurs hedeflerini ve politikalarını eş tasarlamış ve dönem boyunca bunları yeniden ele almışlardır; öğrenciler nihai ürünler yerine kişisel hedeflere, takım hedeflerine ve paylaşılan bir değerlendirme anahtarına karşı kendilerini ve gruplarını notlamıştır ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
 - **Değerlendirme ve yapay zekada eş yaratım.** Öğrenci-personel işbirliği, ders değerlendirmelerinde YZ tarafından üretilen çıktıları birlikte değerlendirmiş ve değerlendirme ölçütlerini birlikte tasarlamıştır; bu, YZ’nin fayda ve sınırlarının anlaşılmasını geliştirmiş ve [[self-regulated-learning]] desteklemiştir ([[williams-ingle-assessment-co-creation-ai-2025]]).
 - **Pedagojik güveni korumaya yönelik işbirliği.** YZ kaynaklı belirsizlik ve "YZ utancı" karşısında, belirsizliğe açık ve diyalog yoluyla birlikte gezilen güvenli, karşılıklı bir öğrenme ilişkisi olan *pedagojik güveni* besileyen işbirliği uygulamaları, eğitimin ilişkisel çekirdeğini sürdürmenin bir yolunu sunar ([[matthews-five-guiding-principles-ai-sap-trust-2025]]).
 - **YZ sistemlerinin eş tasarımcıları olarak gençlik.** Katılımcı tasarım yaklaşımları, tarihsel olarak azınlıkta kalmış öğrencileri sınıflarına etki edecek YZ sistemlerinin tasarımında ortaklar olarak sürece çeker ve öğrencilerin değerlerini ve [[ethics|ethical]] bağlılıklarını ortaya çıkarır ([[chang-co-designing-ai-youth-relational-privacy-2025]]).
@@ -138,3 +139,4 @@ Pedagojik işbirliğini benimsemek isteyen eğitimciler ve kurumlar için bilgi 
 - [[anastasia-shared-agency-partnership-framework-2026]] — Paylaşılan Etkenlik: Öğretmen–Öğrenci İşbirliği İçin Etkenlik İşbirliği Çerçevesi
 - [[maybee-disruptive-partnerships-sap-2025]] — Yıkıcı İşbirlikleri: Bilgi Çalışmaları’nda Öğrencilerle İşbirliği Yapmak
 - [[student-centered-genai-responsible-framework-2026]] — Sorumlu üretici YZ kullanımı için öğrenci merkezli çerçeve
+- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Öğrenciler 710 öğrenci ölçeğinde akranları için bir YZ özel ders öğretmeni inşa etti: katılım yüksek, öğrenme kanıtı keşifsel (Zangari ve ark. 2026)

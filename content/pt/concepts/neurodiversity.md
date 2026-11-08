@@ -1,7 +1,7 @@
 ---
 title: "Neurodiversidade"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:06:36-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,9 @@ Duas revisões definem a forma do campo, e ambas descrevem fragmentação em vez
 
 A [[assistive-tech-neurodivergent-higher-ed-review-2026|revisão de escopo PRISMA-ScR (Rempel et al., 2026)]] pesquisou cinco bases de dados e uma década de publicações (2015–2025), triando 766 registros até 40 estudos empíricos de tecnologias digitais assistivas para estudantes neurodivergentes no [[higher-ed|ensino superior]]. O campo se reorganizou em torno da [[generative-ai|IA generativa]] — 15 dos 40 estudos —, com formatos imersivos em segundo lugar, em 11. Sua crítica central é uma crítica de desenho: a acomodação individual e as ferramentas específicas de neurotipo organizadas em torno do diagnóstico formal não conseguem abordar diferenças funcionais que cortam entre neurotipos, portanto ela recomenda desenho universal e desenvolvimento participativo em seu lugar. Ela também nota que as ferramentas mais imersivas são as menos escaláveis.
 
-A [[dabaghi-ai-dyslexia-education-review-2026|revisão interdisciplinar de IA para dislexia (Dabaghi, D'Urso e Sciarrone, 2026)]] cobre 2018–2024 ao longo de 72 estudos e conclui haver IA usada para detecção, apoio assistivo e [[personalized-learning|personalização]], com essas vertentes evoluindo em paralelo em vez de em integração, e o campo sendo mais impulsionado por oportunidade tecnológica que por teoria educacional consolidada. Sua pesquisa de detecção (EEG, rastreamento ocular, modelos de [[machine-learning|aprendizado de máquina]]) mostra promessa diagnóstica para intervenção precoce, mas frequentemente precisa de equipamento especializado e condições controladas, o que limita o uso em salas de aula comuns. Esse é o teste prático que toda essa vertente continua falhando: o apoio precisa estar embutido na disciplina que o estudante realmente está cursando.
+- **As salas de aula do ensino fundamental mostram a mesma concentração.** Uma revisão de escopo de EdTech para salas de aula primárias neuroinclusivas (3.340 registros triados, 93 estudos) constatou evidência concentrada em aprendizes autistas e apoio acadêmico e cognitivo individualizado, com desfechos sociais, comunicativos e de interação entre pares negligenciados e o valor educacional validado principalmente por pesquisadores, e não pelos usuários da sala de aula ([[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola e Goodacre (2026)]]).
+
+A [[dabaghi-ai-dyslexia-education-review-2026|revisão interdisciplinar de IA para dislexia (Dabaghi, D'Urso e Sciarrone, 2026)]] cobre 2018–2024 ao longo de 72 estudos e conclui haver IA usada para detecção, apoio assistivo e [[personalized-learning|personalização]], com essas vertentes evoluindo em paralelo em vez de em integração, e o campo sendo mais impulsionado por oportunidade tecnológica que por teoria educacional consolidada. Sua pesquisa de detecção ([[sensor-and-gaze-analytics|EEG]], rastreamento ocular, modelos de [[machine-learning|aprendizado de máquina]]) mostra promessa diagnóstica para intervenção precoce, mas frequentemente precisa de equipamento especializado e condições controladas, o que limita o uso em salas de aula comuns. Esse é o teste prático que toda essa vertente continua falhando: o apoio precisa estar embutido na disciplina que o estudante realmente está cursando.
 
 ## Autismo e TDAH na sala de aula
 
@@ -64,11 +66,11 @@ O lado do risco tem sua própria literatura. [[seung-basham-cognitive-offloading
 
 ## Função executiva e dependência
 
-[[genai-reliance-executive-functioning-2026|Klarin, Hoff e Daukantaitė (2026)]] definem dependência de forma estrita — preferir a IA generativa ao próprio esforço ou ao apoio do professor, mais dificuldade de iniciar o trabalho escolar sem ela — e a testam em duas amostras comunitárias suecas de adolescentes (849 estudantes do ensino médio inicial, n analítico = 735, e 898 do ensino médio final, n analítico = 839). As dificuldades de funcionamento executivo passavam pela utilidade percebida e pelo uso habitual até a dependência em ambas as amostras, com efeitos indiretos pequenos (β = ,10, IC 95% [,06, ,14] na amostra do ensino médio inicial; β = ,08, IC 95% [,04, ,12] na do ensino médio final). A leitura prática: os estudantes que mais precisam de apoio com a iniciação são aqueles para quem uma ferramenta conveniente se torna mais facilmente a rota padrão em vez de uma opção — e os tamanhos de efeito aqui são pequenos o bastante para que isso seja uma preocupação de desenho, e não um diagnóstico.
+[[genai-reliance-executive-functioning-2026|Klarin, Hoff e Daukantaitė (2026)]] definem dependência de forma estrita — preferir a IA generativa ao próprio esforço ou ao apoio do [[teacher-role|professor]], mais dificuldade de iniciar o trabalho escolar sem ela — e a testam em duas amostras comunitárias suecas de adolescentes (849 estudantes do ensino médio inicial, n analítico = 735, e 898 do ensino médio final, n analítico = 839). As dificuldades de funcionamento executivo passavam pela [[technology-acceptance-model|utilidade percebida]] e pelo uso habitual até a dependência em ambas as amostras, com efeitos indiretos pequenos (β = ,10, IC 95% [,06, ,14] na amostra do ensino médio inicial; β = ,08, IC 95% [,04, ,12] na do ensino médio final). A leitura prática: os estudantes que mais precisam de apoio com a iniciação são aqueles para quem uma ferramenta conveniente se torna mais facilmente a rota padrão em vez de uma opção — e os tamanhos de efeito aqui são pequenos o bastante para que isso seja uma preocupação de desenho, e não um diagnóstico.
 
 ## Cautelas de desenho
 
-- **O apoio condicionado a diagnóstico exclui quem ele não nomeia.** A crítica da revisão de escopo aplica-se diretamente a como as funcionalidades de IA são implantadas: se uma funcionalidade é destravada por uma carta de acomodação, quem tem diferenças funcionais, mas nenhum diagnóstico, nunca a vê.
+- **O apoio condicionado a diagnóstico exclui quem ele não nomeia.** A crítica da [[meta-analysis-systematic-review|revisão de escopo]] aplica-se diretamente a como as funcionalidades de IA são implantadas: se uma funcionalidade é destravada por uma carta de acomodação, quem tem diferenças funcionais, mas nenhum diagnóstico, nunca a vê.
 - **Processos dirigidos por detectores podem deter o uso legítimo de acomodações.** Quando uma tecnologia de linguagem funciona como acomodação eficaz para quem aprende de forma neurodivergente, uma proibição generalizada ou um processo dirigido por detectores que desencoraja seu uso legítimo levanta considerações de igualdade — o caso de má conduta anulado que a literatura sobre [[ai-detection|detecção]] documenta envolvia um estudante em um programa de apoio ao espectro autista ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 - **Ferramentas podem excluir epistemicamente, e não apenas de forma ruim.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] argumenta que dados de treinamento anglófonos e ocidentalocêntricos marginalizam modos de conhecer não hegemônicos, e coloca a situação de pessoas com deficiência no centro dessa crítica — um aviso de que uma IA "inclusiva" ainda pode codificar cujo conhecimento conta.
 - **Sinais comportamentais são lidos por sistemas que não conhecem quem aprende.** A interpretação de [[student-engagement|engajamento]], dificuldade ou atenção em [[learning-analytics|analytics de aprendizagem]] e [[student-modeling|modelagem do estudante]] presume um padrão normativo de resposta; ver [[differential-effects-across-learner-groups|Efeitos diferenciais entre grupos de estudantes]] para a evidência de justiça sobre essa presunção.
@@ -87,7 +89,7 @@ A neurodiversidade se conecta à [[special-education|educação especial]], à [
 
 ## Ideias equivocadas comuns
 
-- **"A pesquisa em neurodiversidade é um canto nichado da AIED."** O campo se **reorganizou em torno da [[generative-ai|IA generativa]] — 15 dos 40 estudos** —, com formatos imersivos em segundo lugar, com 11. A literatura se moveu com a tecnologia, em vez de se acumular em torno de questões estáveis.
+- **"A pesquisa em neurodiversidade é um canto nichado da [[ai-education|AIED]]."** O campo se **reorganizou em torno da [[generative-ai|IA generativa]] — 15 dos 40 estudos** —, com formatos imersivos em segundo lugar, com 11. A literatura se moveu com a tecnologia, em vez de se acumular em torno de questões estáveis.
 - **"Mais IA para dislexia significa melhor apoio."** [[dabaghi-ai-dyslexia-education-review-2026|A revisão interdisciplinar da IA para dislexia (Dabaghi, D'Urso e Sciarrone, 2026)]] cobre **72 estudos entre 2018 e 2024** e constata que a IA é usada em uma ampla variedade de finalidades. A amplitude de aplicação não é evidência de eficácia para nenhuma delas.
 - **"Acomodações são o enquadramento certo para quem aprende de forma neurodivergente."** [[neurodivergent-computing-students|Uma pesquisa com 24 estudantes de computação neurodivergentes e 20 colegas neurotípicos]], com quatro entrevistas em profundidade, encontrou necessidades que são **requisitos gerais de desenho** — tarefas estruturadas, equipes pequenas e consistentes, papéis explícitos —, e não ajustes individuais concedidos depois de um diagnóstico.
 
@@ -106,6 +108,7 @@ A neurodiversidade se conecta à [[special-education|educação especial]], à [
 - [[student-modeling]]
 
 ## Artigos conectados
+- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Reenquadrando o valor educacional em EdTech para salas de aula primárias neuroinclusivas: uma revisão de escopo
 
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidade virtual e além: uma revisão de escopo de tecnologias digitais assistivas para estudantes neurodivergentes no ensino superior
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 estudos de IA para estudantes com deficiência, e um efeito que difere por categoria

@@ -1,7 +1,7 @@
 ---
 title: Sensori e analisi dello sguardo
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-08T14:14:01-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-04T16:09:41-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,10 @@ La [[assessment-validity|validazione]] può gonfiare il modello. Un benchmark di
 Un correlato neurale non è un punteggio. Le immagini ricostruite dall'EEG correlavano con la prestazione al test a R² = 0,79 su 55 osservazioni partecipante-video. Gli item risposti correttamente mostravano anche una similarità semantica più alta di quelli sbagliati. Eppure un partecipante ha prodotto ricostruzioni di alta qualità e ha risposto in modo errato, quindi la qualità della ricostruzione non può essere letta come correttezza ([[seeing-cognitive-representations-eeg-reconstruction|Su et al., 2026]]).
 
 L'attenzione non è apprendimento. In TutorLoop l'attenzione correlava con l'apprendimento a r = 0,017, mentre il carico correlava negativamente a r = -0,168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Un sistema che massimizzasse il segnale di attenzione avrebbe ottimizzato qualcosa di molto vicino al rumore.
+
+
+Un sensore può registrare la co-presenza dove uno studio afferma l'interazione: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] hanno trovato che un rilevatore basato sulla posa raggiungeva solo il 55% di recall, cogliendo 11 dei 20 eventi identificati dai codificatori umani nelle interazioni di gruppo insegnante–studenti. L'insegnante era presente dentro il confine del gruppo nel 49,2% dei segmenti codificati mentre gli studenti guardavano l'insegnante solo nel 25,4%, e nessuna caratteristica audio cambiava in nessuno dei due confronti, quindi la pipeline registrava la co-presenza spaziale anziché l'interazione sostenuta.
+
 
 Un profilo fisiologico non è una diagnosi. I modelli di stress da esame predicono una categoria di voto da attivazione e movimento, e gli autori insistono che l'output appartenga accanto alle circostanze personali e al contesto di salute mentale, non dentro una decisione ad alta posta in gioco ([[physiological-signals-exam-outcomes-ml|Yamazaki e Rimal, 2026]]).
 

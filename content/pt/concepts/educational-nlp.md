@@ -1,13 +1,13 @@
 ---
 title: PLN educacional
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:45:14-05:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,9 @@ O processamento de linguagem natural na educação aplica métodos computacionai
 - **Análise da linguagem dos estudantes.** [[llm-sentiment-analysis-education-research|A análise de sentimento por LLM]] aplica análise de sentimento baseada em LLM à pesquisa em educação, extraindo sinais emocionais e avaliativos do texto dos estudantes em escala, alimentando os [[learning-analytics|learning analytics]] e a [[affective-computing|computação afetiva]].
 - **Predição e mensuração.** [[llm-item-difficulty-prediction|A predição de dificuldade de itens por LLM]] e a [[vocabulary-difficulty-prediction|predição de dificuldade de vocabulário]] usam modelos de linguagem para estimar a dificuldade de itens e de textos — insumos centrais para a [[educational-measurement|mensuração educacional]], a [[adaptive-learning|aprendizagem adaptativa]] e os modelos de [[item-response-theory|teoria de resposta ao item]].
 - **Legibilidade e alinhamento com o [[curriculum-design|currículo]].** Bird (2026) funde classificação de texto por transformer com características de linguística computacional para classificar literatura inglesa por Key Stage do Reino Unido, alcançando um F1 de 0,996 — um complemento orientado por dados à [[vocabulary-difficulty-prediction|predição de dificuldade de vocabulário]] e à [[llm-item-difficulty-prediction|predição de dificuldade de itens por LLM]] para [[educational-measurement|mensuração educacional]] e alinhamento de nível de leitura.
+
+- **O texto gerado carrega seu próprio [[reading-education|fardo de legibilidade]].** Clark et al. (2026) constatam que modelos recentes usam em excesso construções que a literatura de processamento associa a custo de compreensão — n-gramas de baixa frequência, substantivos empilhados, verbos denominais, dependências longas, orações relativas de objeto reduzidas — em relação às suas próprias paráfrases preservadoras de sentido e a linhas de base humanas pareadas por gênero, e rastreiam o padrão ao pós-treinamento que recompensa densidade informacional em vez de clareza ([[clark-ai-generated-language-readability-2026]]). Medir a dificuldade de texto, portanto, vale para o que o modelo escreve, e não apenas para o texto voltado ao aprendiz que ele é solicitado a simplificar.
+
 - **A similaridade semântica é um sinal fraco para o alinhamento curricular.** Triando 3.837 pares de objetivo–resumo odontológicos, a recuperação por embeddings mais uma checagem de inferência em linguagem natural julgou neutras ou contraditórias 22,9% das correspondências de alta similaridade (cosseno 0,90–1,00) e elevou a acurácia rotulada por especialistas de 0,69 para 0,73 ([[nlp-reading-lists-dental-education-2026|Yasmin et al. (2026)]]).
 
 - **A classificação no nível do discurso localiza o que as características superficiais perdem.** Um modelo BERT ajustado em apenas suas últimas quatro camadas de transformer classifica pares de frases adjacentes como causais, contrastivas, progressivas ou incoerentes e emite o ponto de ruptura como diagnóstico, alcançando um F1 médio de pelo menos 0,891 em 28.736 pares de frases ([[bert-discourse-english-teaching-2026|Wang et al., 2026]]).
@@ -64,6 +67,9 @@ O processamento de linguagem natural na educação aplica métodos computacionai
 - **Codificação auditável ao separar asserções de interpretação.** [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] substituem o prompting de rótulo único por um esquema de 221 asserções legíveis por humanos — 74 derivadas do corpus, 48 derivadas de construto e 100 verificações automáticas de presença de palavras — que um classificador transparente mapeia para o rótulo de construto, alcançando macro-F1 de 0,673 e κ de Cohen de 0,688 no corpus de fala docente TalkMoves, contra um máximo publicado de prompting direto de 0,61 de macro-F1 e 0,58 de κ, ao mesmo tempo que ficam atrás de um classificador RoBERTa-base ajustado em 0,76. Exigir α de Krippendorff ≥ 0,5 manteve apenas 33 das 74 asserções derivadas do corpus, e uma linha de base apenas com palavras pontuou 0,339 de macro-F1, então o ganho vem de asserções comportamentais aprendidas, e não da frequência de palavras-chave.
 - **Marcação de conceitos em escala.** [[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]] dividem a marcação de conceitos de conhecimento em um pipeline Selecionar–Raciocinar–Julgar — um modelo pequeno pré-seleciona conceitos candidatos, a LLM raciocina sobre a pré-seleção, depois julga — elevando a precisão da marcação em três benchmarks ao reduzir o espaço de decisão do modelo.
 - **Folhas de respostas manuscritas resistem aos parsers existentes.** Derivações em várias linhas, prosa e fórmulas intercaladas, tabelas desenhadas à mão e ruído de riscos e rasuras escapam aos benchmarks de documentos impressos e de expressões isoladas, de modo que o conjunto de dados HANS de folhas reais de matemática do oitavo ano — 5.213 imagens de respostas de 745 estudantes em 18 tipos de problema — anota esse ruído e sustenta um modelo de supressão de ruído que melhora o reconhecimento ([[hans-handwritten-answer-sheet-parsing-2026|Wu et al. (2026)]]).
+
+- **A fidelidade de entidades em transcrições de ASR é uma questão separada da acurácia lexical.** Comparando cinco sistemas de reconhecimento de fala com uma transcrição de referência humana, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard e Rosenberg (2026)]] relatam a primeira evidência de fidelidade de entidades ASR/NER da base de conhecimento: as taxas de erro de palavra variaram de 2,43% (TurboScribe) a 15,32% (Vosk), enquanto a codificação de tipos de entidades-ouro em sete categorias viu o GPT-5.5 alcançar acurácia de 0,805 (κ = 0,726) contra 0,634 do spaCy (κ = 0,488). A WER agregada, sozinha, não pode certificar que a estrutura de entidades sobreviveu à transcrição.
+
 
 ### Conexão com a tutoria e a mensuração
 

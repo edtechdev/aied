@@ -6,7 +6,7 @@ connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-26T10:50:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -48,9 +48,11 @@ Bu kavramlar, "bu öğrenen ne biliyor, ne hissediyor ve neye ihtiyaç duyuyor?"
 
 Öğrenci modelleri ayrıca tamamen davranışsal izlerden oluşturulabilir ve yine de uyarlamayı destekleyebilir. [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]], 315 çevrimiçi öğrenenin VERA'da 822 ekolojik model kurarken ürettiği tıklama akışlarından — herhangi bir demografik veya bağlamsal veri olmadan — Gözlem, İnşa ve Keşif olmak üzere üç katılım profili türetti ve bu profillerin model kalitesini öngördüğünü gösterdi (Keşif en karmaşık ve çeşitli modelleri üretirken, Gözlem kopyalanmış özgün olmayan modellerle yoğunlaşır). Bu tür katılım düzeyinde karakterizasyonlar, [[adaptive-learning|adaptive-instruction]] katmanının geri bildirimi hedeflemek için tüketebileceği kaba taneli öğrenci modelleridir.
 
-Duygusal öğrenci modellemesi bir başka boyuttur: bir matematik öğretmeni, duyguyu konuşma metninden ve yüz ifadesinden çıkardı ve toplanan durumu öğretim stratejilerine eşledi, ancak çok kipli füzyon katılımcıların kendi etiketlemelerine karşı yalnızca %60 doğrulukla ulaştı; bu da duygu okumasını işlem hattının en zayıf halkası yapar ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
+Duygusal öğrenci modellemesi bir başka boyuttur: bir matematik öğretmeni, duyguyu konuşma metninden ve yüz ifadesinden çıkardı ve toplanan durumu öğretim stratejilerine eşledi, ancak [[multimodal|çok kipli]] füzyon katılımcıların kendi etiketlemelerine karşı yalnızca %60 doğrulukla ulaştı; bu da duygu okumasını işlem hattının en zayıf halkası yapar ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
 
 [[cross-subject-validity-delayed-start|Gutterman et al. (2026)]], matematik alıştırması sırasında kaydedilen gecikmeli başlama sinyalinin İngilizce sonuçlarını öngördüğünü buldu; kronik geciktirenlerde (13 dakikadan fazla) [[prior-knowledge|prior knowledge]] ve göreve ayrılan zaman denetlendikten sonra bile daha düşük kazanımlar görüldü (ELA β = -,11 SS) — böylece davranışsal öğrenci modelleri, ders başına yeniden eğitim olmadan dallar arasında aktarılabilir; ancak eşik noktaları yeniden türetilmelidir.
+
+Algılanan zorluk bir başka öğrenen modelleme boyutudur ve yalnızca metin istatistiklerinden değil, kişiyle ilgili özelliklerden de öngörülebilir. [[thome-perceived-text-complexity-student-profiles-2025|Thome ve ark. (2025)]], 193 Alman lise öğrencisinin 3.954 cümleyi değerlendirmesinden profile dayalı okur modelleri kurmuş; KNN-artı-XGBoost toplulukları 1,070’lik ortalama temel çizgisine karşı RMSE 0,822’ye ulaşmış ve R2 = 0,396 elde etmiştir. Okur özelliklerini içeren her regresör hem ortalama hem de ortalama karmaşıklık temel çizgilerini geçmiştir; dolayısıyla okurun kim olduğunu yakalayan bir öğrenen modeli, bir metnin ne kadar zor hissettirdiğini öngörür — bu sayfadaki diğer modellerin taşımadığı bir algı boyutu.
 
 ## Uyarlanabilir öğretim katmanı
 
@@ -78,16 +80,18 @@ Ailenin tamamında belirleyici geçerlilik sorunu aynıdır: öğrenen temsili, 
 
 Oyun oynanışından öğrenen durumu çıkaran modeller 0,848–0,913 AUC'ye ulaştı, ancak incelenen 55 çalışmadan yalnızca ikisi bunları demografik önyargı açısından denetledi ve yalnızca biri öğrenen yeteneğine göre farklı sonuçları inceledi ([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]]).
 
-Bazı hedeflenen sinyaller diyalogdan hiç çıkarılamayabilir: Öğrenme Bağlamı çerçevesinin pilotu yanlış kanıları %91,4 ve kaygıyı %100 oranında yakalarken vicdanlılığı yalnızca %68,6 ve dil yeterliliğini %60 oranında yakaladı; bu nedenle bağlamdan haberdar bir model, diyalogun ortaya çıkarmasını beklemek yerine yüzeye çıkması yavaş özellikleri yakalamalıdır ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
+Bazı hedeflenen sinyaller diyalogdan hiç çıkarılamayabilir: Öğrenme Bağlamı çerçevesinin pilotu yanlış kanıları %91,4 ve [[anxiety-and-stress|kaygıyı]] %100 oranında yakalarken vicdanlılığı yalnızca %68,6 ve dil yeterliliğini %60 oranında yakaladı; bu nedenle bağlamdan haberdar bir model, diyalogun ortaya çıkarmasını beklemek yerine yüzeye çıkması yavaş özellikleri yakalamalıdır ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
 
-[[edumirror-educational-social-dynamics|Lin et al. (2026)]], bu tür sentetik öğrenenlerin doğrulanma biçimindeki döngüselliği ortaya çıkarır: EduMirror ajanları sonradan psikometrik anketler uygular ve ajanın iç değer temsiliyle olan uyumu psikolojik geçerlilik olarak okur; ancak Surveyor zaten bu değer sisteminde kodlanmış boyutları ölçtüğünden, bu kontrol bağımsız bir doğrulama yerine bir tutarlılık kontrolüdür.
+[[edumirror-educational-social-dynamics|Lin et al. (2026)]], bu tür sentetik öğrenenlerin doğrulanma biçimindeki döngüselliği ortaya çıkarır: EduMirror ajanları sonradan psikometrik [[self-report-measures|anketler]] uygular ve ajanın iç değer temsiliyle olan uyumu psikolojik geçerlilik olarak okur; ancak Surveyor zaten bu değer sisteminde kodlanmış boyutları ölçtüğünden, bu kontrol bağımsız bir doğrulama yerine bir tutarlılık kontrolüdür.
+
+Fizyolojik ve bakış sinyalleri modelleme tabanını genişletir: göz izleme, EEG, elektrodermal aktivite ve kalp atış hızı artık kavrama, dikkat ve bilişsel yükü çıkarmak için kullanılmaktadır ([[sensor-and-gaze-analytics]]). Sinyalden zihinsel duruma çıkarım zayıf halkadır, çünkü bir beden kaydedilebilir ama durumu tanımlanamayabilir.
 
 **Doğruluk her zaman inançlı bir sinyal değildir.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]], ustalığı doğru eylemlerden çıkaran bir öğrenen modelinin bir öğrenenin gerçek durumunu yanlış temsil edebileceğini gösterir: *aldatıcı aşırı genelleme* sergileyen öğrenenler öğrenilmiş görünür, ancak kritik bir uygulama kısıtını atlar; böylece uyarlanabilir sistemler alıştırmayı erken bırakabilir. Öğrenen modelleri koşullu anlayışı — öğrenenin bir eylemi ne zaman geri tutacağını bilip bilmediğini de içerecek biçimde — yalnızca eylem doğruluğunu değerlendirmelidir.
 
 Gizli yanlış kanılar aynı hatayı ters yönden gösterir: [[correct-answer-trap-misconceptions|Imran and Bulathwela (2026)]], ince ayarlı bir sınıflandırıcının hatalı akıl yürütmeyle ulaşılan doğru yanıtların %57,4'ünü yakaladığını ve %1,6 yaygınlıkta bile %83,6 doğruluklu bir akıl yürütme modelinin her tespit başına 8 yanlış alarm bıraktığını buldu — böylece doğruluk temelli ustalık sinyalleri hem eksiktir hem de onarımı pahalıdır.
 
 **Bir modelin nasıl doğrulandığı da doğrudan bir geçerlilik sorusudur.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, and Carvalho (2025)]], popüler öğrenen modellerinin (BKT, BKT-with-Forgetting, AFM) yalnızca tam çok oturumlu bir veri kümesine geriye dönük uyduğunda insan öğrenmesini yakalıyor gibi göründüğünü gösterir; zaman temelli (yürüyen ileri) çapraz doğrulamada — gelecek bir oturumu öncekilerden öngörerek, bu modellerin gerçekte dağıtıldığı biçimde — performansı aşırı tahmin ederler, [[retrieval-spacing-interleaving|spacing effect]] kaçırır ve alıştırma koşullarını yanlış sıralarlar. Unutmayla güçlendirilmiş ve unutmasız modeller oturumlar boyunca yaklaşık eşit performans gösterdiğinden, yazarlar unutmanın genellikle gerçekten temsil edilmekten ziyade öğrenen parametrelerine sindirildiği sonucuna varır. Aile için ders şudur: inançlı bir öğrenen temsili, kullanıldığı biçimde doğrulanmalıdır — ve anlık performansı uzun süreli hatırlamayla karıştırmak, doğru görünen ama öğrenenleri yanlış temsil eden modeller üretir.
-[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi ve Robb (2026)]], aynı başarısızlığı sınıflandırıcının tarafından gösterir: 153 lisans öğrencisinin problem çözme diyaloglarından öğrenme stili boyutlarını çıkarmak, sınıf başına geri çağırma baskın etiketi öngörmeyi ortaya çıkarana kadar doğruluk açısından orta düzeyde görünüyordu; Sezgisel ve Küresel öğrenenler sistematik olarak yetersiz tanımlandı ve az sayıda örnek bazen çoğunluk sınıfı yanlılığını güçlendirdi.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi ve Robb (2026)]], aynı başarısızlığı sınıflandırıcının tarafından gösterir: 153 lisans öğrencisinin [[problem-solving|problem çözme]] diyaloglarından öğrenme stili boyutlarını çıkarmak, sınıf başına geri çağırma baskın etiketi öngörmeyi ortaya çıkarana kadar doğruluk açısından orta düzeyde görünüyordu; Sezgisel ve Küresel öğrenenler sistematik olarak yetersiz tanımlandı ve az sayıda örnek bazen çoğunluk sınıfı yanlılığını güçlendirdi.
 
 ## LLM çağında modelleme
 
@@ -134,6 +138,7 @@ Kara kutu bir tahminci ayrıca küçük, kendini açıklayan bir modele damıtı
 - [[feedback]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — risk tahmininin ve destek hedeflemenin altındaki modeller
+- [[sensor-and-gaze-analytics]]
 
 ## Bağlı makaleler
 

@@ -1,7 +1,7 @@
 ---
 title: Aprendizagem baseada em investigação
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:02:41-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ A aprendizagem baseada em investigação se centra nas questões colocadas pelo 
 
 ## Como a aprendizagem baseada em investigação aparece na base de conhecimento
 
-**A IA como co-investigador.** Uma [[meta-analysis-systematic-review|revisão sistemática]] do ChatGPT para a aprendizagem baseada em investigação em STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 estudos) constatou que o ChatGPT foi usado principalmente nas fases de conceituação, investigação e discussão — como ferramenta de aprendizagem, tutor, par de aprendizagem, especialista de domínio e assistente de [[teacher-role|ensino]] —, melhorando desempenho, [[critical-thinking|pensamento crítico]], [[student-engagement|engajamento]] e motivação, ao mesmo tempo que colocava riscos de excesso de confiança, alucinação e conclusões superficiais quando o produto era tratado como autoritativo.
+**A IA como co-investigador.** Uma [[meta-analysis-systematic-review|revisão sistemática]] do ChatGPT para a aprendizagem baseada em investigação em STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 estudos) constatou que o ChatGPT foi usado principalmente nas fases de conceituação, investigação e discussão — como ferramenta de aprendizagem, tutor, par de aprendizagem, especialista de domínio e assistente de [[teacher-role|ensino]]. Esse uso melhorou o desempenho, o [[critical-thinking|pensamento crítico]], o [[student-engagement|engajamento]] e a motivação, ao mesmo tempo que colocava riscos de excesso de confiança, [[hallucination-risk|alucinação]] e conclusões superficiais quando o produto era tratado como autoritativo.
 
 **A colocação de problemas como ponto de partida.** Um quase-experimento com 97 alunos do terceiro ano ([[dai-chatbots-problem-posing-primary-2026]]) mostrou que os [[conversational-ai|chatbots]] de GenAI superaram significativamente os motores de busca na colocação de problemas de ciências, melhorando a qualidade das questões e produzindo [[network-analysis|redes]] epistêmicas mais integradas, ao mesmo tempo que reduziram a carga cognitiva.
 
@@ -52,19 +52,23 @@ A aprendizagem baseada em investigação se centra nas questões colocadas pelo 
 
 [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] isolou a contribuição da IA da própria investigação em um estudo climático de três grupos: a investigação assistida por IA superou os pares apenas com investigação na tomada de decisão (d = 0,69), com os maiores ganhos em monitoramento e gestão adaptativa (d = 1,37), enquanto a coleta básica de dados melhorou igualmente em todas as condições.
 
-**[[equity-in-ai-education|Equidade]] e contexto.** Um framework conceitual faz a ponte entre a cocriação com IA generativa e as práticas educacionais abertas para apoiar o ensino STEM conduzido pela investigação em contextos com poucos recursos, usando [[simulation|simulações]] geradas por IA, [[multilingual-learning|multilíngues]] e contextualmente relevantes.
+**[[equity-in-ai-education|Equidade]] e contexto.** Um framework conceitual faz a ponte entre a cocriação com IA generativa e as [[open-education|práticas educacionais abertas]] para apoiar o ensino STEM conduzido pela investigação em contextos com poucos recursos, usando [[simulation|simulações]] geradas por IA, [[multilingual-learning|multilíngues]] e contextualmente relevantes.
 
 **Comparação de evidências andaimentada por IA.** [[ai-information-extraction-undergraduate-thesis-2026|An e colegas (2026)]] mostram como um sistema de extração de informações movido por IA desloca a revisão de literatura de graduação da sumarização para a **organização e comparação de evidências** — estudantes passando da leitura isolada para a comparação entre estudos e a justificativa baseada em evidências, em apoio à aprendizagem baseada em pesquisa e à conclusão da tese. Isso concretiza como a [[generative-ai|IA]] pode andaimentar processos de investigação na pesquisa de graduação em [[stem-education|STEM]].
 
 ## Por que a aprendizagem baseada em investigação importa para a integração da IA
 
-A estrutura da IBL, movida por questões e focada no processo, é a casa natural para o uso produtivo da IA: os estudantes aprendem *com* a IA como parceira, e não *dela* como substituta. A evidência da base de conhecimento converge em uma tensão central — a IA pode reduzir o atrito da recuperação de informação e da formulação de questões (reduzindo a [[cognitive-offloading|carga cognitiva]] e possibilitando [[metacognition|reflexão]] mais profunda), mas, sem andaimento de desenho, arrisca o excesso de confiança e o contorno da cognição de ordem superior. O papel do facilitador, o desenho dos andaimentos e o ensino explícito de habilidades de avaliação são as alavancas que decidem se a IA aprofunda ou desloca a investigação.
+A estrutura da IBL, movida por questões e focada no processo, é a casa natural para o uso produtivo da IA: os estudantes aprendem *com* a IA como parceira, e não *dela* como substituta. A evidência da base de conhecimento converge em uma tensão central — a IA pode reduzir o atrito da recuperação de informação e da formulação de questões (reduzindo a [[cognitive-offloading|carga cognitiva]] e possibilitando [[reflection|reflexão]] mais profunda), mas, sem andaimento de desenho, arrisca o excesso de confiança e o contorno da cognição de ordem superior. O papel do facilitador, o desenho dos andaimentos e o ensino explícito de habilidades de avaliação são as alavancas que decidem se a IA aprofunda ou desloca a investigação.
+
+Um estudo substitui o facilitador, em vez de acrescentar uma ferramenta ao lado dele. Em um curso de farmacologia de quatro semanas, 136 estudantes do segundo ano de medicina foram divididos entre aprendizagem baseada em problemas conduzida por facilitador e conduzida por IA. Ambos os braços ganharam significativamente nos testes de múltipla escolha pré/pós e a diferença entre grupos não foi significativa (p = 0,474), mas os grupos conduzidos por facilitador pontuaram mais alto em pensamento crítico (14,75 contra 13,09, p < 0,001) e na rubrica de [[group-work|avaliação em grupo]] (26,51 contra 24,74, p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty e Rao, 2026]]). Os resultados de investigação se dividiram por tipo: o conhecimento de conteúdo sobreviveu à substituição e o processo de raciocínio não, que é o que significa dizer que o facilitador é a alavanca.
 
 ### Falha produtiva e investigação
 
 A [[productive-failure|falha produtiva (PF)]] é a prima mais estruturada da aprendizagem baseada em investigação: os estudantes exploram problemas e geram soluções *antes* da instrução direta, depois consolidam. Ambas compartilham a premissa de que as tentativas geradas pelo estudante (mesmo as fracassadas) [[prior-knowledge|ativam o conhecimento prévio]] e preparam os estudantes para aprender com a instrução. A [[research-methods-aied|pesquisa]] sobre FP da era da IA afia como a IA deveria andaimentar a investigação sem atalhá-la: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derivam princípios de desenho de IA para preservar a dificuldade por meio da exploração de problemas e da geração de soluções; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] mostram que tutores de LLM podem ser orientados a reter respostas e eliciar múltiplas tentativas; as tarefas de [[lukesova-clue-before-correction-2026|pista-antes-da-correção]] exemplificam o andaimento baseado em pistas (em vez do direto) que mantém os estudantes fazendo o raciocínio. Esses trabalhos conectam a investigação e a FP ao imperativo mais amplo de que a IA não deve remover as [[desirable-difficulties|dificuldades produtivas]] através das quais a aprendizagem durável se forma.
 
 Em contextos de campo ao ar livre, o mesmo imperativo se torna espacial: a GenAI pode pré-estruturar o que os estudantes notam antes de encontrarem a evidência, então uma sequência campo-primeiro que retém a explicação gerada até que observações e interpretações iniciais sejam registradas protege a investigação ([[geoscience-field-learning-genai-2026|Choi, 2026)]]).
+
+**Um mapa de 66 estudos coloca a IA generativa ao lado da investigação e menos frequentemente na orientação.** [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] codificaram o uso de GenAI nas cinco fases de investigação e constataram apoio relatado com mais frequência na investigação (45 estudos, 68,2%), depois na conclusão (29, 43,9%), na discussão (28, 42,4%) e na conceituação (27, 40,9%), com a orientação por último (20, 30,3%). Onze estudos cobriram todas as cinco fases, 19 cobriram uma e nove não nomearam nenhuma. Apenas 8 estudos (12,1%) mediram habilidades de investigação, e 4 deles tinham uma condição de comparação, de modo que este é um mapa de onde as ferramentas foram colocadas, e não do que a investigação ganhou.
 
 ## Ideias equivocadas comuns
 
@@ -109,3 +113,5 @@ Em contextos de campo ao ar livre, o mesmo imperativo se torna espacial: a GenAI
 - [[ai-information-extraction-undergraduate-thesis-2026]] — Extração de informações movida por IA apoiando a tese de graduação e a aprendizagem baseada em pesquisa (An et al. 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — Investigação assistida por IA em questões sociocientíficas sobre mudança climática
 - [[geoscience-field-learning-genai-2026]] — Um modelo instrucional campo-primeiro que impede a GenAI de pré-estruturar o que os estudantes notam (Choi 2026)
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitador humano versus aprendizagem baseada em problemas mediada por IA: ganhos de conteúdo iguais, pensamento crítico mais fraco sem o facilitador (Shetty & Rao 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Mapa de 66 estudos sobre IA generativa nas cinco fases de investigação, com apenas 8 estudos medindo habilidades de investigação

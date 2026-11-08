@@ -8,7 +8,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-10-25T22:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 Öğrenmenin aktarımı eğitim [[research-methods-aied|araştırmasında]] temel bir kaygıdır ve YZ araçları bunu acil hale getirmiştir. Eğitimde YZ çalışmalarında belgelenen tanımlayıcı ampirik örüntü bir **aktarım paradoksudur**: YZ kullanan öğrenciler YZ’nin erişilebilir olduğu görevlerde tipik olarak anında, ölçülebilir kazanımlar gösterir, ama YZ kaldırıldığında ve öğrencilerin anlayışı bağımsız olarak göstermesi gerektiğinde bu kazanımlar sıklıkla sürdürülemez — hatta tersine döner. Bu örüntü, iş başındaki mekanizmalar olarak [[cognitive-offloading|Aşırı Bel Bağlama]], Bilişsel Yük Kuramı ve [[metacognition]] sorumlu tutar ve [[intelligent-tutoring|YZ Öğreticilik]] tasarımına ilişkin tartışmalarla doğrudan bağlantılıdır.
 
-Hazırbulunuşluk aktarım değildir: YZ destekli konuşma pratiği, insanlarla konuşma kaygısında düşüş ve insanlarla iletişim kurma isteğinde yükseklikle ilişkilidir; ancak her iki çalışma da insan konuşmasını gözlemlememiştir; YZ provasından insan iletişim yeteneğine giden yol, test edilmemiş bir pedagojik öneri olarak kalmıştır ([[ai-speaking-practice-communicative-readiness-2026|Wang ve Li (2026)]]).
+Hazırbulunuşluk aktarım değildir: YZ destekli konuşma pratiği, insanlarla konuşma [[anxiety-and-stress|kaygısında]] düşüş ve insanlarla iletişim kurma isteğinde yükseklikle ilişkilidir; ancak her iki çalışma da insan konuşmasını gözlemlememiştir; YZ provasından insan iletişim yeteneğine giden yol, test edilmemiş bir pedagojik öneri olarak kalmıştır ([[ai-speaking-practice-communicative-readiness-2026|Wang ve Li (2026)]]).
 
 ### Aktarım paradoksu
 
@@ -67,7 +67,7 @@ Beş çalışmanın tamamı, genel amaçlı YZ müdahale olduğunda **olumsuz ve
 
 **Araca bağımlı performans.** Öğrenciler, alan genellemesi inşa etmek yerine YZ aracının özgün imkânlarına göre optimize edebilir ([[prompt-engineering|istek metni mühendisliği]], üretilen kod yapısına bel bağlama) — üretken görünen ama kalıcı öğrenmeyi yerinden eden bir [[cognitive-offloading-speedup-illusion|bilişsel dış kaynaklığa yükleme]] biçimi.
 
-Korumalı bir sınıf da yanlış alışkanlık öğretebilir: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai ve Zhang (2026)]], kuralları önceden sabitlenmiş simülasyonların belirsizliği süzerek kurala uymayı pekiştirdiğini; bu nedenle içinde oluşan karar alışkanlıklarının, öğrenciler gerçek ortamlarda çatışan çıkarlar ve eksik bilgiyle karşılaştığında bilişsel bir yük haline gelebileceğini uyarır.
+Korumalı bir sınıf da yanlış alışkanlık öğretebilir: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai ve Zhang (2026)]], kuralları önceden sabitlenmiş [[simulation|simülasyonların]] belirsizliği süzerek kurala uymayı pekiştirdiğini; bu nedenle içinde oluşan karar alışkanlıklarının, öğrenciler gerçek ortamlarda çatışan çıkarlar ve eksik bilgiyle karşılaştığında bilişsel bir yük haline gelebileceğini uyarır.
 **Katmana duyarlı dış kaynaklığa yükleme ve aktarım.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]], Salomon, Perkins ve Globerson’ın "teknolojinin içindeki etkiler ile onun etkisi" ayrımını [[generative-ai|GenAI]] destekli yazmada doğrudan test eder: sekiz haftalık bir yarı-deneysel çalışma, açık YZ işbirliğinin desteklenen yazma performansını en üst düzeye çıkardığını ama YZ’siz bağımsız yakın aktarım sonuçlarını en *düşük* düzeyde bıraktığını; yansımayla sınırlandırılmış desteğin ise bağımsız yetkinliği koruduğunu bulmuştur. Daha derin dış kaynaklığa yükleme katmanları (muhakeme, yapı) yüzeysel katmanlardan (dilbilgisi) daha kötü aktarımı öngörmüştür. Bu, YZ’nin *içindeki* destek performans kazanımlarının *onun etkisi* bağımsız performansa aktarılmadığına ilişkin doğrudan sınıf kanıtıdır — ve aktarımı şekillendiren şeyin YZ kullanılıp kullanılmadığı değil, devrin derinliği olduğunu gösterir.
 
 Tamamlayıcı, karışık gibi görünen bir örnek [[physics-education|fizik]] alanından gelir: Bochum Ruhr Üniversitesi’nin giriş düzeyi nükleer ve parçacık fizik kursunun yeniden tasarımında ([[ai-particle-physics-education-redesign-2026|Mikhasenko ve ark., 2026]]) öğrenciler işbirlikçi, kaynak zengini araştırma problemlerini YZ desteğiyle başarıyla tamamlamış; ancak aynı öğrenciler geleneksel yardımsız bir yazılı sınavda 80 üzerinden ortalama 20,6 almış ve ciddi çaba gösteren birkaçı standart hesaplamaları tamamlayamamıştır. Yazarlar bunu, yardımlı performansın kendiliğinden istenmeyen performansa aktarılmadığına ilişkin kanıt olarak okur ve çözümlerini bilinçli tasarımdır: yazılı sınavı tek not belirleyici yapmak, çözümlü problemleri önceden yayımlamak ki sınıf zamanı hazırlıklı tartışmaya dönüşsün ve keşif amaçlı YZ’ye izin verilen çalışmanın çevresine ön koşul hazırlığı, çözümlü örnekler ve pekiştirme eklemek.
@@ -93,6 +93,8 @@ Bu, pedagojik koruyucu raylara sahip öğreticiliğe özgü araçların genel am
 2. **Alan farkları:** Aktarım iyi yapılandırılmış alanlarda (matematik) mi kötü yapılandırılmış alanlara (yazma) göre daha mı iyi?
 3. **Bireysel farklar:** Yüksek [[prior-knowledge]] sahip öğrenciler acemilere göre daha az aktarım kaybı mı yaşar?
 4. **Beceri düzeltme:** Açık "YZ-kapalı" pratik seansları araç bağımlılığını tersine çevirebilir mi?
+
+Zaman ölçeği sorusunun artık bir biçimselleştirmesi var. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]], yardım çekildikten sonraki aralığı bilişsel yıkanma olarak adlandırır ve ona dört aday sonuç verir: esnek geri sıçrama, kısmi plato, gizil iskele ve aşırı toparlanma. Makale, ciddiyeti belirleyen şeyin geri döndürülebilirlik olduğunu savunur ve bunu ölçmek için ön kayda açık üç kollu, yirmi iki haftalık bir protokol önerir. Yukarıdaki çalışmalar aktarımı yardım sona erdikten saatler sonra sınamıştı; dolayısıyla sonraki haftalar, bu sayfanın ilk açık sorusunun gerçekten ölçülmemiş kısmıdır.
 
 ### İlgili kavramlarla bağlantılar
 
@@ -139,3 +141,4 @@ Bu, pedagojik koruyucu raylara sahip öğreticiliğe özgü araçların genel am
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — YZ destekli konuşma pratiği insanlara yönelik isteği yükseltmiş ama hiçbir çalışma insan konuşmasını gözlemlememiştir
 - [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: Masa Başında İşlevsel Robotik Gömülmeyle Geliştirilmiş Öğrenme
+- [[cognitive-washout-ai-skill-decay-2026]] — Bilişsel yıkanma: yardım sonrası aralık ve 22 haftalık bir ölçüm protokolü (Yajee 2026)

@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: Istruzione superiore
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T13:51:25-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: "concepts/higher-ed"
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -87,7 +87,7 @@ Una terza via irrobustisce il compito stesso: rendere i prompt come immagini per
 ## Implicazioni per i docenti dell'istruzione superiore
 
 - **Progetta la valutazione per un corpo studentesco capace di usare l'IA.** Gli approcci all'integrità centrati sul rilevamento stanno cedendo il passo alla valutazione [[authentic-assessment|autentica]] e basata sul processo ([[beyond-detection-authentic-assessment-ai-2025|oltre il rilevamento]], [[ai-assessment-scale-reform|riforma della valutazione]]) — ripensa cosa valuti, non solo come lo controlli.
-- **Smetti di trattare un divieto in aula come una garanzia.** Occhiali intelligenti e apparecchi acustici abilitati all'IA sono doppiamente trasparenti — nessun calo dello sguardo o cambio di postura da rilevare — quindi un esame o un orale sorvegliato non può più acquistare fiducia probatoria con la separazione fisica ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
+- **Smetti di trattare un divieto in aula come una garanzia.** Occhiali intelligenti e apparecchi acustici abilitati all'IA sono doppiamente trasparenti — nessun calo dello [[sensor-and-gaze-analytics|sguardo]] o cambio di postura da rilevare — quindi un esame o un orale sorvegliato non può più acquistare fiducia probatoria con la separazione fisica ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 - **Ripensa la domanda "cosa dovrebbero ancora imparare a fare a mano gli studenti?".** Proprio come nell'informatica, decidi quali competenze devono essere preservate (verifica, giudizio, processo) e rendile il nucleo valutato, piuttosto che presumere che le competenze di IA si trasferiscano automaticamente.
 - **Tratta la prontezza del corpo docente come sociotecnica, non solo tecnica.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]] inquadra la prontezza attraverso domini epistemici, pedagogici, istituzionali e di qualità — allinea la tua [[pedagogy|pratica didattica]] alla governance istituzionale, non solo alla fluidità con gli strumenti.
 - **Finanzia l'alfabetizzazione all'IA, non solo la fiducia negli strumenti, per il corpo docente.** [[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]] hanno trovato che il supporto sociale e organizzativo raggiungeva il benessere del corpo docente universitario rispetto all'IA solo indirettamente, attraverso l'alfabetizzazione all'IA (β = 0,713), quindi i programmi che costruiscono comprensione concettuale, etica e pedagogica fanno di più per i docenti della sola fluidità pratica.

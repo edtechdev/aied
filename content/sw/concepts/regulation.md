@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -53,11 +53,15 @@ Mifumo ya [[agentic-ai|mawakala]] inafungua pengo zaidi. Katika uchanganuzi wa n
 
 **Pengo ni la ushahidi na vile vile la wakati.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski na Hurley (2025)]] wanachanganua sekta moja ya kitaalamu kama inayofanya sera chini ya shinikizo la wakati bila msingi wa ushahidi wa kufanya nayo: shule za [[legal-education|sheria]] za Marekani zilizoidhinishwa na ABA zilichukua msimamo kwa ujumla wa kuzuia huku zikihifadhi uamuzi kwa wanachuo binafsi, na waandishi wanaripoti hakuna makubaliano juu ya mazoea ya kufichua au cha kutoa, na viwango vya majibu vya ~15% tu kwa utafiti wa sera wa ABA wa 2024. Majibu yao ya kanuni — miongozo wazi bila kujali msimamo, [[stakeholders|ushirikiano wa wadau]] katika kuandika, na utawala uliobuniwa kuwa rahisi kubadilika na kupitiwa kila baada ya muda — yanalingana na [[crompton-governing-genai-higher-ed-delphi-2026|makubaliano ya Delphi ya kimataifa]], ambayo vile vile inachukua matengenezo ya sera kama mfumo wa taasisi unaojirudia badala ya kazi ya mara moja. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher na Calderon (2025)]] wanaongeza utegemezi wa kinyume: mpango wao wa mageuzi ya utawala unahitimisha kuwa maendeleo ya taasisi haitafanikiwa bila ruhusa ya nje kutoka udhibiti, upimaji na mashindano kati ya taasisi, na kufanya ubora na mashirika ya udhibiti — na kulinganisha wanakolazimisha kati ya taasisi — kuwa sharti ambalo chini yake mageuzi ya utawala ya ndani huchukua mkia.
 
-Ukaguzi wa sera za faragha za mifumo ya EdTech unatoa mfano halisi wa utegemezi huo. Katika mifumo 48, ukusanyaji wa data ulifichuliwa vyema zaidi (wastani 1.81 ya 2) wakati kufichua kwa AI (0.90) na uwajibikishaji (1.07) vilikuwa nyuma, na 33% hawakufanya kufichua kwa AI kwa maana yoyote licha ya sifa za AI zinazoonekana; mifumo ya [[k-12]] ya Marekani ilipata alama ya juu zaidi kwa ujumla (M = 7.47 dhidi ya 5.50 kwa elimu ya juu ya [[higher-ed|Marekani]]) lakini haikupata chochote kwa kufichua kwa AI au uwajibikishaji — udhibiti, waandishi wanahitimisha, unainua tu kile inachotaja, hivyo kanuni zinazotekelezwa na viwango cha manunuzi badala ya ahadi za kujitolea lazima zifanye [[privacy]] kuwa sharti la matumizi ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
+Ukaguzi wa sera za faragha za [[edtech-platform|mifumo ya EdTech]] unatoa mfano halisi wa utegemezi huo. Katika mifumo 48, ukusanyaji wa data ulifichuliwa vyema zaidi (wastani 1.81 ya 2) wakati kufichua kwa AI (0.90) na uwajibikishaji (1.07) vilikuwa nyuma, na 33% hawakufanya kufichua kwa AI kwa maana yoyote licha ya sifa za AI zinazoonekana. Mifumo ya [[k-12]] ya Marekani ilipata alama ya juu zaidi kwa ujumla (M = 7.47 dhidi ya 5.50 kwa elimu ya juu ya [[higher-ed|Marekani]]) lakini haikupata chochote kwa kufichua kwa AI au uwajibikishaji. Udhibiti, waandishi wanahitimisha, unainua tu kile inachotaja, hivyo kanuni zinazotekelezwa na viwango cha manunuzi badala ya ahadi za kujitolea lazima zifanye [[privacy]] kuwa sharti la matumizi ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
 ### Mahusiano
 
 Udhibiti unaungana na [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]], [[pedagogical-safety]], na [[academic-integrity]]. Ni safu ya taasisi inayounda jinsi mazoezi yote ya elimu ya AI yanavyofanya kazi. Udhibiti unazuia na kuwezesha: unaweka mipaka ya matumizi yanayokubalika ya AI huku ukianzisha masharti — kupitia [[ai-literacy]] na matarajio ya matumizi yenye uwajibikisho — ya muunganisho [[equity-in-ai-education|salama]], salama.
+
+
+Udhibiti hautafsiriwi chini kiotomatiki: mashirika 32 ya ufadhili yanayofanya kazi pale ambapo kanuni za AI za ngazi ya majimbo zipo yalichapisha sera za jumla lakini hakuna kifaa mahususi cha ufadhili kilichobeba kanuni hizo ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 
 ## Dhana Potofu za Kawaida
 
@@ -104,3 +108,6 @@ Udhibiti unaungana na [[educational-policy-ai]], [[governance]], [[ethics]], [[p
 - [[coates-governing-academic-integrity-indicators-2025]] — Shinikizo la udhibiti wa nje kama sharti la mageuzi ya utawala (Coates, Croucher & Calderon 2025)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — Wanachuo 87% wanaandika kanuni zao wenyewe dhidi ya safu nyembamba ya sera ya taasisi (Watson & Rainie 2026)
 - [[edtech-privacy-deferral-2026]] — "Tutarekebisha Baadaye": Elimu, AI, na Kuahirisha Faragha ya Wanafunzi katika EdTech"
+
+- [[chan-ai-policy-gap-2026]] — Kutotafsiriwa kwa wima: kanuni za majimbo zipo wakati wafadhili chini yao hawatoi kifaa chochote kinachofunga (Chan 2026)
+

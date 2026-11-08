@@ -5,7 +5,7 @@ type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ LPA inadhani sampuli imetolewa kutoka mchanganyiko wa vikundi vidogo, kila kimoj
 
 - **LCA — viashiria vya kategoria.** Becker na wenzake walibadilisha kategoria za majibu zilizowekwa kodi kutoka majibu wazi ya wanafunzi 1,189 wa fizikia kuwa vigezo vya kiashiria na walibaki na tabaka mbili: Watumiaji wa Vitendo (asilimia 70) na Wasiotumiaji Wenye Shaka (asilimia 30); kwa sababu mada isiyotajwa inahesabiwa kama "kutokuthibitisha," waandishi wanataja mfumuko wa sifuri katika dataframe ya uchanganuzi.
 - **LPA — viashiria endelevu** kama alama za skela na maanisho ya muundo. Chen na wenzake walipanga wasifu wa wataalamu 128 wa Taiwan wanaojiandaa kwenye miundo mitano ya [[technology-acceptance-model|TAM]]/UTAUT2; Acquah na wenzake walipanga wasifu wa wanafunzi 509 wa Ghana wa chuo kikuu kwenye vipimo vitatu vya ufahamu wa maadili; Schweder na wenzake walipanga wasifu wa wanafunzi 2,464 kwenye kuridhika kwa mahitaji ya [[motivation|motisha]].
-- **Uchanganuzi wa mpito (wasifu)** unapanua familia kwa muda, ukikadiria wasifu kwa kila mawimbi na uwezekano wa kuhama kati yao. Liang na wenzake walifuatilia motisha ya kujifunza ya AI ya wanafunzi 2,086 kwa mwaka mmoja; Wu alifuatilia wanafunzi 457 wa Kijapani kwa mawimbi mitatu, wasifu usiofaa ukishuka kutoka asilimia 26.48 hadi 17.74.
+- **Uchanganuzi wa mpito (wasifu)** unapanua familia kwa muda, ukikadiria wasifu kwa kila mawimbi na uwezekano wa kuhama kati yao. Liang na wenzake walifuatilia motisha ya kujifunza ya AI ya wanafunzi 2,086 kwa mwaka mmoja; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] alifuatilia wanafunzi 457 wa Kijapani kwa mawimbi mitatu, wasifu usiofaa ukishuka kutoka asilimia 26.48 hadi 17.74.
 
 Kukusanya kwa kawaida ([[machine-learning|k-means]] na kihierarkia) kinafuata nia ile ile inayozingatia mtu lakini hugawa kesi kwa umbali wa jiometri badala ya kukadiria mfano wa uwezekano. Fikia LPA au LCA wakati swali linahusu vikundi vidogo — iwapo "mwanafunzi" ni uchanganuzi wa uwongo katika kiwango cha mkusanyiko wa sampuli yako, na iwapo vikundi vidogo vinatofautiana katika umbo pamoja na kiwango. Usifikie wakati unahitaji athari ya wastani ya matibabu: suluhisho la wasifu watano ndani ya [[rct|jaribio la nasibu]] la [[intelligent-tutoring|mkufunzi anayebadilika]] lilitabiri tofauti za baada ya majaribio (partial η² = .27) lakini halikupata mwingiliano wa hali × wasifu (ps ≥ .198).
 

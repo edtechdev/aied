@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -55,11 +55,16 @@ CoI, [[online-teaching-and-learning]] alanında ortaya çıkmış ve en güçlü
 - **Sosyal varlığı taklit etmek** — makine üretimi ifadeler, yüksek dilsel inandırıcılıkla empati ve duyarlılığa benzer bir görünüm elde edebilir ve ilişkisel sorumluluğu karmaşıklaştırır.
 - **Öğretimsel varlığı yeniden dağıtmak** — tasarım, kolaylaştırma ve doğrudan öğretim dağıtılmış başarılara dönüşür; öğretmenler üretilen çıktıları nasıl sorgulayacaklarını ve uydurma atıfları nasıl tespit edeceklerini modellemeye başlar.
 
-Bu iddiaların altında artık ampirik ağ kanıtları yer almaktadır: 63 Çinli üniversite öğrencisinin (33’ü GPT-4o mini sohbet botuyla, 30’u botsuz) beş haftalık görev boyunca CollaboRead üzerinde ortak okumaları işaretlediği yarı-deneysel bir çalışmada, [[network-analysis|epistemic network analysis]] desteklenen sınıfın sosyal varlığı bütünleştirme ve çözüme bağladığını, kontrol sınıfının ise sosyal varlığı tetikleyici olaya ve keşfe bağladığını gösterdi (X ekseni U = 25,00, p = 0,01, r = 1,00; Y ekseni U = 13,00, p = 1,00, r = 0,04); desteklenen sınıfta kendinden bildirilen bilişsel ve duygusal katılım daha yüksekti. Varlıklar daha sonra koşullar arasında değil, koşulun içinde ayrışır: yüksek başarılı gruplar 2319 işaretleme içinde 1407 geri bildirim isteğinde bulunurken (%60,7), düşük başarılı grup 2167 işaretleme içinde 737 istekte bulundu (%34,0) ve öz atıflı bir döngüde kalarak iskeleyi zayıf biçimde kullandı.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
+- **Aşırı hevesli müdahale** — çevrim içi tartışma çalışmasında uzman kolaylaştırıcılar, aşırı hevesli biçimde kolaylaştırmaya çalışan LLM yargıçlarına kıyasla müdahale etme konusunda tutarlı biçimde daha temkinliydi; en iyi eğitilmiş sınıflandırıcı bile mevcut veri kümelerinin dayattığı düşük bir tavana takıldı ([[llm-facilitation-timing-online-discussions|Tsirmpas, Korre ve Pavlopoulos, 2026]]). Yeniden dağıtılan öğretimsel varlık bu nedenle müdahale eşiğini değiştirir ve bir model, bir insanın bekleyeceği yerde söze girer; bu da bir tartışma forumunun fark ettiği başarısızlık kipidir.
+
+21 çalışmalık bir kapsam derlemesi, kanıtı üç varlık boyunca eşit olmayan biçimde buldu: sosyal varlık 13 çalışmada, bilişsel varlık 10 çalışmada ve öğretimsel varlık yalnızca 5 çalışmada incelendi; her öğretimsel varlık çalışması onu başka bir varlıkla birlikte ele aldı. Bilişsel varlık keşif ve bütünleştirmede kümelendi, çözüm en az belirgindi; tartışma veya görev temelli tasarımlar bilişsel varlıkla, pedagojik ajanlar ve sosyal açıdan dışavurumcu tasarımlar sosyal varlıkla ilişkilendirildi ([[doo-genai-community-of-inquiry-scoping-review-2026|Doo ve Park, 2026]]).
+
+
+Bu iddiaların altında artık ampirik ağ kanıtları yer almaktadır: 63 Çinli üniversite öğrencisinin (33’ü GPT-4o mini sohbet botuyla, 30’u botsuz) beş haftalık görev boyunca CollaboRead üzerinde ortak okumaları işaretlediği yarı-deneysel bir çalışmada. [[network-analysis|Epistemic network analysis]], desteklenen sınıfın sosyal varlığı bütünleştirme ve çözüme bağladığını, kontrol sınıfının ise sosyal varlığı tetikleyici olaya ve keşfe bağladığını gösterdi (X ekseni U = 25,00, p = 0,01, r = 1,00; Y ekseni U = 13,00, p = 1,00, r = 0,04); [[self-report-measures|Kendinden bildirilen]] bilişsel ve duygusal katılım desteklenen sınıfta daha yüksekti. Varlıklar daha sonra koşullar arasında değil, koşulun içinde ayrışır: yüksek başarılı gruplar 2319 işaretleme içinde 1407 geri bildirim isteğinde bulunurken (%60,7), düşük başarılı grup 2167 işaretleme içinde 737 istekte bulundu (%34,0) ve öz atıflı bir döngüde kalarak iskeleyi zayıf biçimde kullandı.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
 
 Bir araç, diyalojik bir ortak ya da spekülatif bir "dördüncü varlık" olmaktan ziyade, üretken YZ en iyi bir **epistemik koşul** olarak anlaşılır: görünür çıktıların ve görünmez eğitim verisi, algoritmik ve platform mantıklarının ikisini aracılığıyla varlıkların nasıl yerine getirildiğini, yorumlandığını, kanıtlandığını ve yönetildiğini yeniden yapılandıran yaygın bir etki.
 
-Çerçevenin kendi yazarları bu koşul için bir rol sınıflandırması sunar: [[ai-communities-of-inquiry-2026|Stenbom and Garrison (2026)]] yapay zekayı öğrenme tasarımı desteği, bağımsız bir öğrenen kaynağı, analitik yoluyla öğretmen destek işlevi, bir topluluk üyesi ve sürdürülen diyalojik ortak olarak konumlandırır ve öğrenenlerin YZ çıktısını denetlemeye devam etmesini sağlayan şeyin paylaşılan [[metacognition]] — öz düzenleme ve ortak düzenleme (self- ve co-[[self-regulated-learning|regulation]]) — olduğunu öne sürer.
+Çerçevenin kendi yazarları bu koşul için bir rol sınıflandırması sunar: [[ai-communities-of-inquiry-2026|Stenbom and Garrison (2026)]] yapay zekayı [[learning-design|öğrenme tasarımı]] desteği, bağımsız bir öğrenen kaynağı, [[learning-analytics|analitik]] yoluyla öğretmen destek işlevi, bir topluluk üyesi ve sürdürülen diyalojik ortak olarak konumlandırır ve öğrenenlerin YZ çıktısını denetlemeye devam etmesini sağlayan şeyin paylaşılan [[metacognition]] — öz düzenleme ve ortak düzenleme (self- ve co-[[self-regulated-learning|regulation]]) — olduğunu öne sürer.
 
 ## Pratik çıkarımlar
 
@@ -93,9 +98,13 @@ Bir araç, diyalojik bir ortak ya da spekülatif bir "dördüncü varlık" olmak
 - [[trust-calibration]]
 
 ## Bağlı makaleler
+- [[doo-genai-community-of-inquiry-scoping-review-2026]] — 21 çalışmalık kapsam derlemesi: varlık kanıtı eşit değil, öğretimsel varlık en az çalışılan ve tasarım yapılanması sonuçları ayrıştırıyor (Doo & Park 2026)
 - [[genai-social-annotation-epistemic-network-analysis-2026]] — Unpacking student interactions in GenAI-assisted social annotation: An epistemic network analysis of cognitive and social presence
 
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing CoI in the age of generative AI
 - [[ai-communities-of-inquiry-2026]] — AI in communities of inquiry
 - [[ai-online-education-engagement-satisfaction-2026]] — AI and online education engagement
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+
+- [[llm-facilitation-timing-online-discussions]] — İnsan ve LLM kolaylaştırıcılar: modeller uzman insanlardan daha hevesli müdahale ediyor (Tsirmpas vd. 2026)
+

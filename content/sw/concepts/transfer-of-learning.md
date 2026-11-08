@@ -8,7 +8,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-10-25T22:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 Uhamishaji wa kujifunza ni wasiwasi wa msingi katika elimu ya [[research-methods-aied|utafiti]], na zana za AI zimeifanya kuwa ya haraka. Muundo halisi wa kihalisia unaoandaliwa katika masudio ya AI katika elimu ni **paradoksi ya uhamishaji**: wanafunzi wanaotumia AI kwa kawaida wanaonyesha faida za papo hapo, zinazoweza kupimwa kwenye kazi ambapo AI inapatikana, lakini faida hizo mara nyingi hazidumu — au hata zinageuka — wakati AI inaondolewa na wanafunzi wanahitajika kuonyesha ufahamu peke yao. Muundo huu unahusisha [[cognitive-offloading|Kutegemea Kupita Kiasi]], Nadharia ya Mzigo wa Kiakili, na [[metacognition]] kama mbinu zinazofanya kazi, na inaungana moja kwa moja na mijadala kuhusu ubuni wa [[intelligent-tutoring|Mafunzo ya AI]].
 
-Utayari sio uhamishaji: mazoezi ya kuzungumza yanayosaidiwa na AI yalihusishwa na wasiwasi mdogo wa kuzungumza na nia ya juu ya kuwasiliana na binadamu, hata hivyo hakuna somo lililoona binadamu akizungumza, ikiruhusu njia kutoka mazoezi ya AI hadi uwezo wa mawasiliano ya binadamu kubaki pendekezo la kieledu ambalo halijajaribiwa ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
+Utayari sio uhamishaji: mazoezi ya kuzungumza yanayosaidiwa na AI yalihusishwa na [[anxiety-and-stress|wasiwasi]] mdogo wa kuzungumza na nia ya juu ya kuwasiliana na binadamu, hata hivyo hakuna somo lililoona binadamu akizungumza, ikiruhusu njia kutoka mazoezi ya AI hadi uwezo wa mawasiliano ya binadamu kubaki pendekezo la kieledu ambalo halijajaribiwa ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
 ### Paradoksi ya uhamishaji
 
@@ -67,7 +67,7 @@ Masudio yote matano yanaonyesha muundo wa **uhamishaji hasi au batili** wakati A
 
 **Utendaji unaotegemea zana.** Wanafunzi wanaweza kuboresha kwa sifa maalum za zana ya AI ([[prompt-engineering|uhandisi wa ilani]], utegemezi kwa muundo wa kodi iliyozalishwa) badala ya kujenga ujumuishaji wa taaluma — aina ya [[cognitive-offloading-speedup-illusion|kuweka kiakili kwa wengine]] inayohisiwa kama yenye tija lakini inachukua nafasi ya kujifunza kudumu.
 
-Darasa lililolindwa linaweza pia kufundisha tabia potofu: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] wanaonya kwamba uigaji wenye kanuni zilizowekwa awali huchuja kutokuwa na uhakika na kuimarisha kufuata kanuni, hivyo tabia za uamuzi zilizoundwa ndani yao zinaweza kuwa mzigo wa kiakili wanafunzi wanapokutana na maslahi yanayoshindana na habari isiyokamilika katika mipangilio halisi.
+Darasa lililolindwa linaweza pia kufundisha tabia potofu: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] wanaonya kwamba [[simulation|uigaji]] wenye kanuni zilizowekwa awali huchuja kutokuwa na uhakika na kuimarisha kufuata kanuni, hivyo tabia za uamuzi zilizoundwa ndani yao zinaweza kuwa mzigo wa kiakili wanafunzi wanapokutana na maslahi yanayoshindana na habari isiyokamilika katika mipangilio halisi.
 **Uweka kwa wengine unaolingana na tabaka na uhamishaji.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] anajaribu moja kwa moja tofauti ya Salomon, Perkins & Globerson ya "athari na dhidi ya athari za teknolojia" katika uandishi unaosaidiwa na [[generative-ai|GenAI]]: majaribio ya kijaribio-kwa-majaribio ya wiki nane yaligundua ushirikiano wazi wa AI ulipandisha utendaji wa uandishi unaosaidiwa lakini ulizalisha matokeo ya *chini kabisa* ya uhamishaji wa karibu wa huru bila AI, wakati msaada ulio na mipaka na tafakari ulihifadhi uwezo huru. Tabaka za kina za kuweka kwa wengine (ufikiri, muundo) zilitabiri uhamishaji mbaya zaidi ya tabaka za uso (sarufi). Hii ni ushahidi wa moja kwa moja wa darasa kuwa faida za utendaji za AI zilizosaidiwa *na* msaada hazihamishwi kwa utendaji huru unaosaidiwa *bila* — na kuwa kina cha kuweka kwa wengine, sio tu iwapo AI inatumika, huunda uhamishaji.
 
 Mfano wa nyongeza, hata kama ni wa kuchanganyika, unakuja kutoka [[physics-education|fizikia]]: kubuni upya na Chuo Kikuu cha Bochum cha kozi ya utangulizi ya fizikia ya nyuklia na chembechembe ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) ilikuwa na wanafunzi walikamilisha matatizo ya utafiti ya ushirikiano, yenye rasilimali zaidi kwa msaada wa AI, hata hivyo wanafunzi wale wale walipata wastani wa 20.6/80 katika mtihani wa kawaida wa kuandika bila msaada, na majaribio kadhaa makubwa yalishindwa kukamilisha mahesabu ya kawaida. Waandishi wanasoma hili kama ushahidi kwamba utendaji unaosaidiwa hauhamishwi kiotomatiki hadi utendaji usioombwa, na dawa yao ni ubuni wa makusudi: kufanya mtihani wa kuandika kuwa uamuzi pekee wa alama, kutoa matatizo ya mafunzo mapema ili muda wa darasa uwe majadiliano yaliyoandaliwa, na kuongeza maandalizi ya sharti, mifano iliyofanya kazi na kuimarisha kuzunguka kazi ya uchunguzi ya AI inayoruhusiwa.
@@ -92,6 +92,9 @@ Hii inalingana na utafiti wa [[intelligent-tutoring|Mafunzo ya AI]] unaoonyesha 
 2. **Tofauti za nyanja:** Je, uhamishaji ni bora zaidi katika nyanja zilizo na muundo mzuri (hisabati) dhidi ya zisizo na muundo (uandishi)?
 3. **Tofauti za kibinafsi:** Je, wanafunzi wenye [[prior-knowledge]] wanasumbuliwa kidogo na upotevu wa uhamishaji kuliko wanaoanza?
 4. **Urekebishaji wa ujuzi:** Je, vipindi vya mazoezi ya wazi ya "AI-imezimwa" vinaweza kubadilisha utegemezi wa zana?
+
+Swali la kipimo cha muda sasa lina usanifu rasmi. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] analiita kipindi cha baada ya kuondolewa "cognitive washout" na kutoa matokeo manne yanayowezekana: urejeshaji wa elastic, uwanda wa sehemu, kiunzi fichu na urejeshaji kupita kiasi. Kurudishika, karatasi inadai, ndiko kunakoamua ukali, na inapendekeza itifaki ya majaribio ya mikono mitatu ya wiki ishirini na mbili inayoweza kusajiliwa mapema ili kuipima. Masudio yaliyo hapo juu yalijaribu uhamishaji saa chache baada ya msaada kuisha, hivyo wiki zilizofuata ni sehemu ya swali la kwanza lililo wazi la ukurasa huu ambalo bado halijapimwa kweli.
+
 
 ### Mahusiano na dhana zinazohusiana
 
@@ -139,3 +142,6 @@ Uhamishaji wa kujifunza unaungana na [[metacognition]] (kujifuatilia mwenyewe uf
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — Mazoezi ya kuzungumza yanayosaidiwa na AI yalipandisha nia kuelekea binadamu lakini hakuna somo lililoona binadamu akizungumza
 - [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: Kujifunza Kwa Kupanuliwa Kupitia Uwepo wa Roboti wa Kazi mezani
+
+- [[cognitive-washout-ai-skill-decay-2026]] — Kuosha kiakili: kipindi cha baada ya kuondolewa na itifaki ya upimaji ya wiki 22 (Yajee 2026)
+

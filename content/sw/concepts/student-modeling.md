@@ -6,7 +6,7 @@ connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-26T10:50:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -48,9 +48,12 @@ Mfano wa utabiri wa mwanafunzi unaweza kutegemea muundo wa usajili badala ya dat
 
 Mifano ya wanafunzi inaweza pia kujengwa kutoka nyenzo za tabia pekee na bado ikasaidia mabadiliko. [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] walitoa wasifu watatu wa ushiriki — Uchunguzi, Ujenzi, na Utafutaji — kutoka kwa mtiririko wa kubofya wa wanafunzi 315 mtandaoni wanaojenga mifano 822 ya kiikolojia katika VERA, bila data yoyote ya demografia au ya muktadha, na wakaonyesha kuwa wasifu huu unatabiri ubora wa mfano (Utafutaji huzalisha mifano yenye ugumu na utofauti zaidi, wakati Uchunguzi unatawaliwa na mifano yaliyonakiliwa badala ya ya asili). Uainishaji kama huu wa kiwango cha ushiriki ni mifano ya wanafunzi ya undani kwa wingi ambayo tabaka la [[adaptive-learning|mafunzo yanayobadilika]] linaweza kutumia kulenga maoni.
 
-Uundaji wa mfano wa kihisia wa mwanafunzi ni kipengele kingine zaidi: mwalimu wa hesabu alibainisha hisia kutoka maandishi ya mazungumzo na mwonekano wa uso na kupanga hali iliyokusanywa kuelekea mikakati ya kufundisha, lakini muunganisho wa njia nyingi ulifika usahihi wa 60% pekee dhidi ya maelezo ya washiriki wenyewe, na kufanya usomaji wa hisia kuwa kiungo dhaifu zaidi katika mlolongo ([[kar-mathbuddy-affective-math-tutoring-2025|Kar na wenzake (2025)]]).
+Uundaji wa mfano wa kihisia wa mwanafunzi ni kipengele kingine zaidi: mwalimu wa hesabu alibainisha hisia kutoka maandishi ya mazungumzo na mwonekano wa uso na kupanga hali iliyokusanywa kuelekea mikakati ya kufundisha, lakini [[multimodal|muunganisho wa njia nyingi]] ulifika usahihi wa 60% pekee dhidi ya maelezo ya washiriki wenyewe, na kufanya usomaji wa hisia kuwa kiungo dhaifu zaidi katika mlolongo ([[kar-mathbuddy-affective-math-tutoring-2025|Kar na wenzake (2025)]]).
 
 [[cross-subject-validity-delayed-start|Gutterman na wenzake (2026)]] waligundua kuwa ishara ya kuanza kwa kuchelewa iliyorekodiwa wakati wa mazoezi ya hesabu ilitabiri matokeo ya Kiingereza, huku wanaochelewa kwa muda mrefu (zaidi ya dakika 13) wakionyesha mapungufu madogo (ELA β = -.11 SD) hata baada ya kudhibiti [[prior-knowledge|maarifa ya awali]] na muda kwenye kazi — hivyo mifano ya tabia ya wanafunzi inaweza kuhamishwa kati ya masomo bila kufundisha upya kwa kila kozi, ingawa pointi zao za kukata zinapaswa kutolewa upya.
+
+Ugumu unaohisiwa ni kipimo kingine cha uundaji wa mfano wa mwanafunzi, na unaweza kutabiriwa kutoka sifa zinazohusiana na mtu badala ya takwimu za maandishi peke yake. [[thome-perceived-text-complexity-student-profiles-2025|Thome na wenzake (2025)]] walijenga mifano ya wasomaji inayotegemea wasifu kutoka tathmini za sentensi 3,954 na wanafunzi 193 wa shule ya upili wa Ujerumani, na mkusanyiko wao wa KNN-pamoja-na-XGBoost ulifikia RMSE 0.822 dhidi ya wastani wa msingi wa 1.070, ukiwa na R2 = 0.396. Kila kirejeleo kilichojumuisha sifa za msomaji kilishinda wastani na msingi wa wastani wa utata, hivyo mfano wa mwanafunzi unaonasa msomaji ni nani hutabiri jinsi maandishi yanavyohisiwa magumu — kipimo cha utambuzi ambacho mifano mingine kwenye ukurasa huu haibebi.
+
 
 ## Tabaka la mafunzo yanayobadilika
 
@@ -79,16 +82,19 @@ Kote katika familia hii, changamoto inayoainisha ya uhalali ni ile ile: uwakilis
 
 Mifano inayoamua hali ya mwanafunzi kutoka michezo ilifikia AUC ya 0.848–0.913, lakini masudio mawili tu kati ya 55 yaliyokaguliwa yalikagua upendeleo wa kidemografia na moja tu ilichunguza matokeo tofauti kulingana na uwezo wa mwanafunzi ([[ai-game-based-learning-systematic-review-2026|Kaşarcı na Yurt (2026)]]).
 
-Ishara zilizokusudiwa zinaweza kushindwa kurejeshwa kutoka mazungumzo kabisa: jaribio la mfumo wa Muktadha wa Kujifunza lilirejesha dhana potofu kwa 91.4% na wasiwasi kwa 100% lakini bidii kwa 68.6% tu na ustadi wa lugha kwa 60%, hivyo mfano unaoelewa muktadha unapaswa kukamata sifa zinazochukua muda kudhihirika badala ya kusubiri mazungumzo yazifichue ([[learning-context-framework-context-aware-ai-education-2026|Liu na wenzake (2026)]]).
+Ishara zilizokusudiwa zinaweza kushindwa kurejeshwa kutoka mazungumzo kabisa: jaribio la mfumo wa Muktadha wa Kujifunza lilirejesha dhana potofu kwa 91.4% na [[anxiety-and-stress|wasiwasi]] kwa 100% lakini bidii kwa 68.6% tu na ustadi wa lugha kwa 60%, hivyo mfano unaoelewa muktadha unapaswa kukamata sifa zinazochukua muda kudhihirika badala ya kusubiri mazungumzo yazifichue ([[learning-context-framework-context-aware-ai-education-2026|Liu na wenzake (2026)]]).
 
-[[edumirror-educational-social-dynamics|Lin na wenzake (2026)]] wanadhihirisha duara katika jinsi wanafunzi bandia kama hao wanavyothibitishwa: mawakala wao wa EduMirror hutoa dodoso za kisaikolojia baada ya tukio na kusoma makubaliano na uwakilishi wa thamani wa ndani ya mwakala kama uhalali wa kisaikolojia, lakini kwa sababu Surveyor hupima vipimo vilivyowekwa tayari katika mfumo huo wa thamani ukaguzi ni ukaguzi wa uthabiti badala ya uthibitisho huru.
+Ishara za kisaikolojia na za mtazamo hupanua msingi wa uundaji wa mfano: ufuatiliaji wa macho, EEG, shughuli za umeme wa ngozi na mapigo ya moyo sasa hutumika kudhania mahusiano, umakini na mzigo wa kiakili ([[sensor-and-gaze-analytics]]). Udhanio kutoka ishara hadi hali ya akili ni kiungo dhaifu, kwa kuwa mwili unaweza kurekodiwa bila hali yake kutambuliwa.
+
+
+[[edumirror-educational-social-dynamics|Lin na wenzake (2026)]] wanadhihirisha duara katika jinsi wanafunzi bandia kama hao wanavyothibitishwa: mawakala wao wa EduMirror hutoa [[self-report-measures|dodoso za kisaikolojia]] baada ya tukio na kusoma makubaliano na uwakilishi wa thamani wa ndani ya mwakala kama uhalali wa kisaikolojia, lakini kwa sababu Surveyor hupima vipimo vilivyowekwa tayari katika mfumo huo wa thamani ukaguzi ni ukaguzi wa uthabiti badala ya uthibitisho huru.
 
 **Usahihi sio ishara ya uaminifu kila wakati.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, na Stamper (2026)]] wanaonyesha kuwa mfano wa mwanafunzi unaoamua umahiri kutoka vitendo sahihi unaweza kuwakilisha vibaya hali halisi ya mwanafunzi: wanafunzi wanaoonyesha *overgeneralization ya kudanganya* wanaonekana wamepata ujuzi lakini wanapuuza kizuizi muhimu cha matumizi, hivyo mifumo inayobadilika inaweza kusitisha mazoezi mapema. Mifano ya wanafunzi inapaswa kutathmini uelewa wa masharti — ikijumuisha kama mwanafunzi anajua lini kujizuia kutenda — si usahihi wa kitendo tu.
 
 Dhana potofu zilizofichwa zinaonyesha kushindwa huo huo kutoka upande mwingine: [[correct-answer-trap-misconceptions|Imran na Bulathwela (2026)]] waligundua kuwa kigawanyaji kilichorekebishwa kwa ufafanuzi kilikamata 57.4% ya majibu sahihi yaliyofikiwa kupitia hoja zenye kasoro, na kwa kiwango cha kuenea cha 1.6% hata mfano wa hoja wenye usahihi wa 83.6% uliacha tahadhari 8 za uongo kwa kila kugunduliwa — hivyo ishara za umahiri zinazotegemea usahihi ni zisizo kamili na ghali kurekebisha.
 
 **Jinsi mfano unavyothibitishwa yenyewe ni swali la uhalali.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, na Carvalho (2025)]] wanaonyesha kuwa mifano maarufu ya wanafunzi (BKT, BKT-na-Kusahau, AFM) inaonekana kukamata kujifunza kwa binadamu tu inapolinganishwa nyuma na seti kamili ya data ya vipindi vingi; chini ya uthibitishaji wa msalaba unaotegemea wakati (kuelekea mbele) — kutabiri kipindi cha baadaye kutoka yale ya awali, jinsi mifano hii inavyotumika kwa kweli — inakadiri kupita utendaji, haikubali [[retrieval-spacing-interleaving|athari ya nafasi]], na hupanga vibaya mpangilio wa masharti ya mazoezi. Kwa sababu mifano yenye ongezeko la kusahau na yasiyo na kusahau yalifanya kazi kwa kiasi kile kile kati ya vipindi, waandishi wanahitimisha kuwa kusahau mara nyingi hunyunyuliwa ndani ya vigezo vya mwanafunzi badala ya kuwakilishwa kwa kweli. Somo kwa familia ni kwamba uwakilishi unaoaminika wa mwanafunzi lazima uthibitishwe jinsi unavyotumika — na kwamba kuchanganya utendaji wa muda huo na kuhifadhi kwa muda mrefu huzalisha mifano yanayoonekana sahihi lakini yanayowakilisha vibaya wanafunzi.
-[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi na Robb (2026)]] wanaonyesha kushindwa huko huko kutoka upande wa kigawanyaji: kuamua vipimo vya mtindo wa kujifunza kutoka kwa mazungumzo ya utatuzi wa matatizo ya wanafunzi 153 wa shahada ya kwanza kulionekana kuwa wastani katika usahihi hadi ukumbukaji wa kila darasa ulipofichua utabiri wa lebo inayotawala, huku wanafunzi wa Intuitive na Global wakibainishwa vibaya kwa utaratibu na mifano ya few-shot wakati mwingine ikiongeza upendeleo wa darasa la wengi.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi na Robb (2026)]] wanaonyesha kushindwa huko huko kutoka upande wa kigawanyaji: kuamua vipimo vya mtindo wa kujifunza kutoka kwa mazungumzo ya [[problem-solving|utatuzi wa matatizo]] ya wanafunzi 153 wa shahada ya kwanza kulionekana kuwa wastani katika usahihi hadi ukumbukaji wa kila darasa ulipofichua utabiri wa lebo inayotawala, huku wanafunzi wa Intuitive na Global wakibainishwa vibaya kwa utaratibu na mifano ya few-shot wakati mwingine ikiongeza upendeleo wa darasa la wengi.
 
 ## Kuunda mifano katika zama za LLM
 
@@ -136,6 +142,9 @@ Uundaji wa mfano wa mwanafunzi na mafunzo yanayobadilika huchangia katika [[lear
 - [[feedback]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — mifano iliyo chini ya utabiri wa hatari na kulenga msaada
+
+- [[sensor-and-gaze-analytics]]
+
 
 ## Makala Zilizounganishwa
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Overgeneralization ya udanganyifu: umahiri unaobadilika unaweza kusitisha mazoezi kabla wanafunzi kujua lini kujizuia kutenda (An, McLaren & Stamper 2026)

@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-26T07:30:00-04:00"
+source_updated: "2026-11-07T12:10:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,8 @@ Eğitim YZ’sinde halüsinasyon, bu bilgi tabanının makalelerinde belgelenen 
 
 125 çalışmalık bir inceleme, yaygınlık ve tespit boşluğuna bir aralık koyar: %10–40 halüsinasyon oranları, tıp öğrencilerinin YZ hatalarını yalnızca zamanın %44–55’inde tespit etmesiyle ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
+**Çıktıdan sonra bellek çarpıtması.** 2026’da yürütülen bir deney, yanıltıcı bir YZ özetinin yalnızca yanlış bilgilendirmekle kalmadığını, 328 yetişkinin izledikleri bir video hakkında hatırladıklarını değiştirdiğini bulmuştur. Yanıltıcı özeti okuyanların yalnızca %44,8’i kritik ayrıntıyı sonradan doğru tanımlarken, tutarlı bir özet okuyanlarda bu oran %83,6’dır; etki, özet insan yazımı olarak etiketlendiğinde de sürmüştür ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger ve Kohno, 2026]]). Eşlik eden denetimde en sık hata eksiltmeydi: 20 özetin tamamı hata içeriyordu ve %95’i çarpışmanın kendisini atlamıştı. Çalışma öğrencilerle yapılmamıştır, ancak metinle biten bir halüsinasyon kontrolünün neden eksik olduğunu gösterir: hata, metin ortadan kalktıktan sonra da okuyucunun belleğinde sürebilir.
+
 **Değerlendirme halüsinasyonu** özellikle zararlıdır. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]**, bilişsel becerileri teşhis ederken LLM’lerin öğrenci el yazısında bulunmayan kanıt alıntıları uydurduğunu buldu; hatalı teşhislerin %58,5’i kanıtsal güvenin yanlış iddiasıyla birlikteydi. **[[llm-fallacy-misattribution]]**, [[llm]] muhakemesinde kanıtın sistematik aşırı atfedilmesini belgeledi — modeller var olmayan yerde kanıtsal destek iddia eder. İkisi de [[assessment-validity]] değerlendirme geçerliliğine ilişkin [[ai-ed-evaluation]] ve [[knowledge-tracing]] kaygılarına bağlanır. [[ivory-psychology-assessment-integrity-2026|Ivory ve ark. (2026)]], YZ çıktısı incelenmek yerine notlandırıldığında görülen iki hata kipi ekler: notlandırmadan geçen uydurma ayrıntılar — var olmayan, çözülemez bir DOI tamamlanmış bir incelenmiş makale ve kaynağın 329 dediği yerde 378 olarak bildirilen bir örneklem büyüklüğü — ve tek bir yanıt içinde kendi kendini çürütme, modelin doğru seçeneğe muhakeme yoluyla ulaşıp kapanış özetinde farklı bir seçenek bildirdiği yer. Referans listeleri şu anda doğruluktan ziyade biçimlendirme için notlandırıldığından, bu hata sınıfı, aynı aracı tekrar için kullanan öğrenciyi yanıltırken geçer notu alır.
 
 Bir değerlendirme tasarım pilotunda, [[authentic-assessments-generative-ai-pilot-2026|Paula ve ark. (2026)]], tekrarlanan istem çalışmalarından sağ çıkan ve önemli akademik revizyon gerektiren uydurma referanslar ve gerçekçi olmayan zaman tahminleri buldu — öğrenci çalışmasında değil, eğitimciye yönelik bir taslak aracında halüsinasyon.
@@ -47,7 +49,7 @@ Bir değerlendirme tasarım pilotunda, [[authentic-assessments-generative-ai-pil
 
 **Uydurulmamış, manipüle edilmiş kanıt.** [[automated-assessment|automated grading]] otomatik notlandırmada ilgili bir hata kipi, dışarıdan taşınmış çıktıdır. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]], rutin bir YZ notlandırma iş akışını kırmızı takımla test etti ve teslim edilen dosyanın içine gizlenmiş talimatların bir strateji için 9 tekerrürün 9’unda ve başka bir strateji için 18’inin 17’sinde görünür bir uyarı olmadan başarısız bir kompozisyonun notunu yükselttiğini buldu. İki ayrıntı [[trust-calibration|trust]] güveni etkiler: tespit edilen bir enjeksiyon, sohbeti sessizce devre dışı bırakarak engellendi ve kullanıcıya asla bildirilmedi; ve aracın yalnızca resmi ödev talimatlarını izleyeceğini duyurduğu bir çalıştırmada, aynı dosyanın altı yeniden çalıştırması yine de notu yükseltti. Bu şekilde elde edilen bir not hiçbir [[assessment-validity|validity]] geçerlilik iddiası taşımaz ve manipülasyon kalıcı bir iz bırakmadığından, görünmez olacak biçimde tasarlanmış çıktı üzerindeki tek gerçek denetim [[human-in-the-loop-ai|instructor]] öğretmende kalır.
 
-Bu tür bir manipülasyona karşı savunmalar kendi ödünleşimlerini taşır: çok katmanlı bir güvenlik rayı hattı enjeksiyonların %46,34’ünü başarılı bıraktı ve Prompt Guard %38,48 bıraktı, oysa NeMo Guardrails her saldırıyı engelledi ama iyi niyetli öğrenci sorgularının %16,22’sini işaretledi — bir özel ders aracında kendisi pedagojik zarar olan bir yanlış pozitif oranı ([[prompt-injection-defenses-educational-llm-tutors|Maiorano (2026)]]).
+Bu tür bir manipülasyona karşı savunmalar kendi ödünleşimlerini taşır: çok katmanlı bir güvenlik rayı hattı enjeksiyonların %46,34’ünü başarılı bıraktı ve Prompt Guard %38,48 bıraktı, oysa NeMo [[guardrails|Guardrails]] her saldırıyı engelledi ama iyi niyetli öğrenci sorgularının %16,22’sini işaretledi — bir özel ders aracında kendisi [[pedagogy|pedagojik]] zarar olan bir yanlış pozitif oranı ([[prompt-injection-defenses-educational-llm-tutors|Maiorano (2026)]]).
 
 **Özel ders halüsinasyonu** öğrenmeyi doğrudan etkiler. **[[yasir-llm-tutoring-agents-2026]]**, LLM’lerin hatalı çözümleri aşırı derecede doğrular ve geçerli ama en uygun olmayan muhakemeyi aşırı derecede reddettiğini buldu — hem öğrencileri hem öğretmenleri yanıltacak sistemik başarısızlıklar. **[[eduframetrap-llm-sycophancy-educational-safety]]** ve **[[eduguard-safe-rag-llm-tutor]]**, eğitim LLM’leri için güvenlik mekanizmalarını ele alır. Bu riskler [[pedagogical-safety]] ve [[human-in-the-loop-ai]] gereksinimlerine bağlanır.
 
@@ -59,7 +61,7 @@ Bu tür bir manipülasyona karşı savunmalar kendi ödünleşimlerini taşır: 
 
 ## Yaygın yanlış anlamalar
 
-- **“Öğrenciler hataları fark eder.”** **125 çalışmalık bir inceleme** halüsinasyon oranlarını **%10-40** olarak koyar; **tıp öğrencileri, yükseköğretimde en dikkatli seçilmiş öğrenenler arasında olmalarına rağmen YZ hatalarını zamanın yalnızca %44-55’inde tespit etmiştir**. Şans düzeyindeki güvenilirliğin çok altında kalan tespit oranları, yükün okuyucuda kalamayacağı anlamına gelir.
+- **“Öğrenciler hataları fark eder.”** **125 çalışmalık bir inceleme** halüsinasyon oranlarını **%10-40** olarak koyar; **tıp öğrencileri, [[higher-ed|yükseköğretimde]] en dikkatli seçilmiş öğrenenler arasında olmalarına rağmen YZ hatalarını zamanın yalnızca %44-55’inde tespit etmiştir**. Şans düzeyindeki güvenilirliğin çok altında kalan tespit oranları, yükün okuyucuda kalamayacağı anlamına gelir.
 - **“Hatalar ortaya çıktığında apaçıktır.”** El yazısı matematik teşhis eden bir YZ, **kendinden eminlik iddia ederken orada olmayan kanıt alıntıları uydurabilmiştir**. Başarısızlık makul ama yanlış bir cevap değil, kesinlikle sunulmuş uydurma bir dayanaktı; yakalanması en zor tür budur, çünkü tam olarak dikkatli bir okuyucunun isteyeceği kanıt gibi okunur.
 - **“Atıfsız çıktı bir biçimlendirme problemidir.”** Ticari ders kitabını YZ tarafından üretilmiş okumalarla değiştiren bir lisansüstü derste, **kaydedilen 4.487 sayfanın yalnızca yaklaşık %0,80’i APA tarzı metin içi atıf taşıyordu**. Bu, ara sıra bir atlama değil, külliyat düzeyinde bir köken yokluğudur ve doğrulamanın hiçbir başlangıç noktası olmadığı anlamına gelir.
 - **“Halüsinasyon, yeni modellerin çözdüğü bir model üretim problemidir.”** Oran aralığı 125 çalışma boyunca %10-40’ı kapsar; bu, model kadar görevin ve konuşlandırmanın da bir özelliğidir. Oran düşüşü gerçek bir ilerlemedir ve bir okuyucunun denetleyebilmesi gerektiği gerçeğini değiştirmez.
@@ -83,6 +85,9 @@ Bu tür bir manipülasyona karşı savunmalar kendi ödünleşimlerini taşır: 
 
 - [[frontiers-gai-hallucination-dependence-2026]] — Labeling a GAI dialogue as fabricated lowered trust and dependence together
 - [[ivory-psychology-assessment-integrity-2026]] — Fabricated citations and self-contradicting outputs inside passable student work (Ivory et al. 2026)
+
+- [[sim-ai-summary-memory-distortion-2026]] — Yanıltıcı bir YZ özeti yetişkinlerin video belleğini çarpıttı ve YZ ya da insan etiketi onları korumadı
+
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]
 - [[yasir-llm-tutoring-agents-2026]]

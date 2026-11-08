@@ -9,7 +9,7 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Akran değerlendirmesi, öğrencilerin normalde öğretmenlere ayrılmış olan 
 Araştırma temeli, akran değerlendirmesinin öğrenme ürettiği konusunda hemfikirdir ve bunun ne kadarının tasarıma bağlı olduğu konusunda ayrışır. Öğrencilere otantik bir kitle sunar, ölçütlere dayalı yanıt verme yoluyla değerlendirme yargısını geliştirir ve [[student-engagement|katılımı]] ile [[motivation]]'ı destekleyen toplumsal bağlamı inşa eder. Kalitesi büyük ölçüde [[scaffolding]]'e bağlıdır — ne kadar iyi yapılandırıldığına ve öğrencilerin net ölçütler ile eğitim alıp almadığına. YZ, akranların verdiği özgün, bağlam farkında geri bildirime tutarlı, ölçüt odaklı bir tamamlayıcı olarak ve giderek artan biçimde akran değerlendirme sürecinin içine inşa edilmiş bir iskele olarak, tam bu bağımlılık noktasında girer.
 
 
-[[wang-student-ai-collaboration-peer-feedback-2026|Wang ve Guo (2026)]], akranlarının yazılarını üretken YZ ile açık uçlu diyalog üzerinden inceleyen EFL öğrencilerinin, alıcıların nitelik açısından daha yüksek puanladığı geri bildirim ürettiğini; duygusal yanıt ve geri bildirim okuryazarlığındaki kazanımların ise diyaloğun niteliğine göre değiştiğini bulmuştur.
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang ve Guo (2026)]], akranlarının yazılarını [[generative-ai|üretken YZ]] ile açık uçlu diyalog üzerinden inceleyen EFL öğrencilerinin, alıcıların nitelik açısından daha yüksek puanladığı geri bildirim ürettiğini; duygusal yanıt ve geri bildirim okuryazarlığındaki kazanımların ise diyaloğun niteliğine göre değiştiğini bulmuştur.
 
 ## Öğrencilerin akranları değerlendirmekten ne öğrendiği
 
@@ -63,6 +63,8 @@ Bu, bir akran notunun ne için kullanılması gerektiğini sınırlar. Dağılı
 ## YZ destekli akran değerlendirmesi: PAIRR ve Trainer/Synthesizer ayrımı
 
 Baskın tasarım deseni akranı merkezde tutar ve çevresine YZ ekler. Peer and AI Review + Reflection modeli, en iyi belgelenmiş örnektir. [[pairr-ai-peer-review-2025|Sperber ve ark. (2025)]], PAIRR'ı 10 yazma kursunda ve üç yazma yoğun [[stem-education|STEM]] kursunda, 654 öğrenciyle (%37 birinci nesil, %13 uluslararası, %68 [[multilingual-learning|çok dilli]]) uyguladı. Öğrenciler taslak yazdı, akran incelemesi değiş tokuş etti, aynı taslak üzerine ölçüt odaklı geri bildirim için ChatGPT'ye istek metni yazdı, her ikisini de eleştirel biçimde değerlendirdi, revizyon planladı ve yansıdı. %58 birleşik geri bildirimi tercih etti, %36 yalnızca akran geri bildirimini ve yalnızca %6 yalnızca YZ geri bildirimini tercih etti. İki kaynak sıklıkla benzerdi (%75 benzerlik bildirdi; bu, birbirini doğrulayan ve güçlendiren olarak tanımlandı) ve farklı olduğunda birbirini tamamlıyordu: YZ geri bildirimi sıklıkla aşırı genel olarak nitelendirildi (%31) ancak organizasyon ve yapı üzerinde uygulanabilir revizyon stratejileri verdi, oysa akran geri bildirimi daha özgün ve ayrıntılıydı (%28) ve ödevin bağlamsal bilgisinden yararlandı. YZ çıktısını eleştirel biçimde [[ai-ed-evaluation|değerlendirmek]] [[ai-literacy]] geliştirdi ve öğrencilerin yalnızca %5,3'ü bu konuda aşırı güven gösterdi.
+
+Aynı 2024 uygulamasının ikinci bir yazımı, yansımaları öğrencilerin geri bildirimi nasıl puanladığından çok aracı nasıl adlandırdığı açısından okur. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman ve ark. (2026)]], 13 bölüm ve 10 kurstaki revizyon yansımalarını kodlamış ve öğrencilerin yalnızca yaklaşık yarısının istek metninin sunduğu insanbiçimci rollere başvurduğunu bulmuştur: özel ders öğretmeni (\%28,6) ve işbirlikçi (\%23,1). Geri kalanlar araç ya da kaynak (\%9,9), arkadaş ya da akran (\%7,7), robot ya da bilgisayar (\%7,7) ya da kendi şemalarını seçmiştir. Yazarlar bu yerleştirmeyi meselenin kendisi olarak okur: öğrenciler sohbet botunu, merkezinde öğrencinin, akranların ve öğretim elemanının bulunduğu bir yazma ekolojisinin çevresine yerleştirir.
 
 Desen, profesyonel yazmaya da genelleşir. [[gift-ai-pairr-business-writing-2025|MacArthur ve ark. (2025)]], PAIRR'ı üst düzey bir işletme yazma kursuna uyguladı; beş büyük ödevin her biri bir taslak, kitle analizi, 2–3 akran tarafından yapılan inceleme ve revizyon gerektiriyordu (kayıtlı 46 öğrencinin 34'ü katıldı; %69 çok dilli). Öğrenciler YZ geri bildirimine değer verdi ama onu bazen aşırı genel buldu ve akranların bağlamsal bilgisine değer verdi — "meslektaşlarım onu işverenin bakış açısıyla değerlendirdi… ChatGPT bunu o kadar yapmadı." Daha büyük PAIRR çalışmasındaki kodlanmış yansımaların dörtte biri, YZ geri bildirimine ilişkin şüphecilik veya yanlışlıklar bildirdi; yazarlar bunu gelişmekte olan YZ okuryazarlığı olarak okudu. Çalışma betimleyici ve kursa özgüdür.
 
@@ -95,7 +97,8 @@ Açık sorular yalnızca tasarımla değil, kanıtın gücüyle ilgilidir. Akran
 ## Yaygın yanlış anlamalar
 
 - **“Sözlü savunma, YZ destekli çalışmayı durdurur.”** Her CS1 teslimi **notun %70'ini taşıyan 15 dakikalık sözlü kod incelemesine** tabi tutulduktan sonra yapıştırılmış metnin toplam karakterlere oranı **%61,0'dan %68,1'e yükseldi (p < 0.0001)**. Hedeflediği davranış artmıştır; buna karşılık **sınav puanları düşmedi ve görev üzerinde geçirilen süre sabit kaldı**, öğrencilerin **%90'ı incelemelerin kendilerini motive ettiğini** söyledi. Müdahale anlama üzerinde işledi, yapıştırma üzerinde değil.
-- **“Sözlü değerlendirme hile tespiti içindir.”** Ölçülen sonuçlar anlama ve motivasyondu, yapıştırılmış metnin azalması değil. Tasarımı tespit oranıyla yargılamak, onun ne başardığını yanlış okumaktır.
+- **“[[oral-assessment|Sözlü değerlendirme]] hile tespiti içindir.”** Ölçülen sonuçlar anlama ve motivasyondu, yapıştırılmış metnin azalması değil. Tasarımı tespit oranıyla yargılamak, onun ne başardığını yanlış okumaktır.
+- **Grup notunun ardındaki kayıt olarak yansıtıcı akran ve öz formları.** [[issa-teamwork-framework-academic-integrity-2024|Issa ve Hall (2024)]], lisansüstü bir İş Projesi Yönetimi biriminde takım arkadaşı başına bir akran yansıtma formu ve öğrenci başına bir öz yansıtma formu kullanmış; ayrıca her takımla, üyelerin katkısının özgün olup olmadığının sorulduğu 30 dakikalık bir toplantı yapmıştır. Formlar geri bildirim alışverişi olarak notlanmamıştır. Bir \%40'lık takım değerlendirmesi içinde öğretim elemanının bireysel bir notu savunmasını sağlayan kişi başına kanıt bunlardı. Çerçevenin notu 40 üzerinden 27'den 31'e çıkarması yeni bir öğretim elemanıyla karışmıştır ve bütünlük iddiası nicelleştirilmemiştir; dolayısıyla aktarılabilir olan kısım etki büyüklüğü değil, kayıt tutma yapısıdır.
 - **“Akran incelemesi, öğretmen geri bildiriminin daha ucuz bir yedeğidir.”** Mekanizma [[learning-by-teaching|öğretirerek öğrenmedir]] ve makineler arasında bile ortaya çıkar: **2,4 milyondan fazla YZ aracı** arasındaki akran öğrenmeye benzer söylem çoğunlukla **sorgulama değil iddia** idi. Eleştiri üretmek, onu almaktan farklı bir edimdir.
 
 ## Bağlı kavramlar
@@ -141,3 +144,5 @@ Açık sorular yalnızca tasarımla değil, kanıtın gücüyle ilgilidir. Akran
 - [[ai-agents-peer-learning-discourse]] — 2.4 milyon YZ aracı arasındaki akran öğrenmeye benzer söylem (Chen ve ark. 2026)
 - [[oneill-presumed-effective-meta-analysis-2026]] — 14 AIED meta-analizi ve 59 birincil çalışmanın denetimi (O'Neill 2026)
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — L2 yazmada öğretmen geri bildirimi ve YZ destekli akran geri bildiriminin karşılaştırılması: miktar, odak ve iki görev boyunca iyileşme eğilimleri (Tang, Li & Luo 2026)
+- [[issa-teamwork-framework-academic-integrity-2024]] — grup notunun ardındaki kişi başına kanıt olarak öz/akran yansıtma formları (Issa & Hall 2024)
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654 öğrenciden rol sözlüğü: özel ders öğretmeni %28,6, işbirlikçi %23,1, araç %9,9, robot %7,7

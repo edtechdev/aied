@@ -8,9 +8,9 @@ technology: [generative-ai]
 discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
-updated: "2026-11-04T02:28:53-05:00"
+updated: "2026-11-08T13:51:25-05:00"
 translation_of: "concepts/problem-based-learning"
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-> **Pembelajaran berbasis masalah (PBL)** — pedagogi yang berpusat pada siswa tempat siswa memperoleh pengetahuan dan keterampilan dengan berupaya memahami dan menyelesaikan sebuah masalah yang realistis dan sering kali berstruktur buruk, dengan seorang fasilitator yang memandu inkuiri alih-alih menyampaikan pengajaran. Di era AI, ciri-ciri struktural PBL — inkuiri yang digerakkan oleh masalah, [[collaborative-learning|konstruksi pengetahuan kolaboratif]], fasilitasi alih-alih pengajaran, dan [[metacognition|refleksi metakognitif]] — telah muncul sebagai kondisi yang sama di mana integrasi [[generative-ai|AI generatif]] menjadi produktif secara edukatif alih-alih substitutif.
+> **Pembelajaran berbasis masalah (PBL)** — pedagogi yang berpusat pada siswa tempat siswa memperoleh pengetahuan dan keterampilan dengan berupaya memahami dan menyelesaikan sebuah masalah yang realistis dan sering kali berstruktur buruk, dengan seorang fasilitator yang memandu inkuiri alih-alih menyampaikan pengajaran. Di era AI, ciri-ciri struktural PBL — inkuiri yang digerakkan oleh masalah, [[collaborative-learning|konstruksi pengetahuan kolaboratif]], fasilitasi alih-alih pengajaran, dan [[reflection|refleksi metakognitif]] — telah muncul — telah muncul sebagai kondisi yang sama di mana integrasi [[generative-ai|AI generatif]] menjadi produktif secara edukatif alih-alih substitutif.
 
 ## Pertanyaan yang Perlu Dipertimbangkan
 
@@ -43,11 +43,11 @@ PBL berawal dari pendidikan kedokteran (McMaster University, 1960-an) dan sejak 
 
 [[research-methods-aied|Penelitian]] dalam basis pengetahuan ini menunjukkan bahwa PBL telah menjadi titik fokus bagi pemikiran tentang integrasi AI yang produktif.
 
-- **Kondisi struktural PBL membuat integrasi AI produktif.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]] berargumen bahwa ciri-ciri inti PBL — inkuiri yang digerakkan masalah, konstruksi kolaboratif, fasilitasi, refleksi metakognitif — justru merupakan kondisi di mana AI berfungsi sebagai mitra dalam [[educational-development|pengembangan profesional]] alih-alih jalan pintas yang menghindarinya. Keselarasan itu bersifat struktural, bukan retrospektif: PBL dirancang di sekitar kondisi-kondisi ini sebelum AI ada, berakar pada pengakuan bahwa kompetensi profesional menuntut pertimbangan adaptif alih-alih eksekusi rutin.
+- **Kondisi struktural PBL membuat integrasi AI produktif.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]] berargumen bahwa ciri-ciri inti PBL — inkuiri yang digerakkan masalah, konstruksi kolaboratif, fasilitasi, [[metacognition|refleksi metakognitif]] — justru merupakan kondisi di mana AI berfungsi sebagai mitra dalam [[educational-development|pengembangan profesional]] alih-alih jalan pintas yang menghindarinya. Keselarasan itu bersifat struktural, bukan retrospektif: PBL dirancang di sekitar kondisi-kondisi ini sebelum AI ada, berakar pada pengakuan bahwa kompetensi profesional menuntut pertimbangan adaptif alih-alih eksekusi rutin.
 - **AI menaikkan batas atas kompleksitas masalah.** Argumen yang sama menyatakan bahwa AI memperluas kategori masalah apa yang dapat dijangkau PBL, membuat "masalah jahat" dan kasus dunia nyata yang kompleks dapat diakses oleh siswa yang sebelumnya tidak dapat menjangkaunya.
 - **Masalah artefak-sebagai-proksi.** AI memutus kaitan antara artefak yang dikumpulkan dan [[student-engagement|keterlibatan]] yang menghasilkannya — masalah yang posisinya tepat bagi PBL untuk ditangani karena PBL menilai *proses* dan pemahaman yang ditunjukkan, bukan hanya produk. Ini menghubungkan PBL dengan penilaian [[authentic-assessment|autentik]] dan [[process-oriented-assessment|berbasis proses]] serta dengan literatur [[cognitive-offloading|ketergantungan berlebih]] dalam basis pengetahuan ini.
 
-Meta-analisis tiga tingkat yang menggabungkan PBL yang didukung GenAI dengan pembelajaran berbasis proyek menempatkan kinerja produk dan solusi dalam model terpisah justru karena ia mengukur keluaran kolaboratif manusia-AI alih-alih pembelajaran yang terinternalisasi, dan estimasi itu adalah yang terbesar yang dilaporkan para peninjau (g = 1.958) meskipun hanya bertumpu pada enam studi dan membawa interval prediksi 95% perkiraan sebesar [−0.740, 4.656] yang melewati nol — bentuk kuantitatif dari peringatan artefak-sebagai-proksi di atas ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen dkk. 2026]]).
+Meta-analisis tiga tingkat yang menggabungkan PBL yang didukung GenAI dengan pembelajaran berbasis proyek menempatkan kinerja produk dan solusi dalam model terpisah justru karena ia mengukur keluaran kolaboratif manusia-AI alih-alih pembelajaran yang terinternalisasi, dan estimasi itu adalah yang terbesar yang dilaporkan para peninjau (g = 1.958) meskipun hanya bertumpu pada enam studi dan membawa interval prediksi 95% perkiraan sebesar [−0.740, 4.656] yang melewati nol — bentuk [[quantitative-research|kuantitatif]] dari peringatan artefak-sebagai-proksi di atas ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen dkk. 2026]]).
 - **ChatGPT sebagai [[scaffolding|perancah adaptif]].** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|La Sunra dkk. (2026)]] menunjukkan ChatGPT yang diintegrasikan sebagai perancah adaptif dalam kerangka PBL yang diperkaya AI untuk meningkatkan [[critical-thinking|berpikir kritis]] dan [[personalized-learning|pembelajaran yang dipersonalisasi]] di K-12 (120 siswa kelas delapan). Ini memperlakukan AI sebagai dukungan di dalam PBL alih-alih mesin jawaban.
 - **Agen yang menyuntikkan kontroversi dapat melawan pemikiran kelompok.** Agen genAI yang disuarakan pada tiga titik dalam sesi PBL interprofesional memperkenalkan perspektif kontroversial, dan siswa melaporkan bahwa membantahnya memberi mereka cara yang dapat diterima secara sosial untuk bersuara, dengan ketidaksepakatan itu merangsang refleksi bahkan ketika mereka menolak respons agen ([[genai-counter-learner-groupthink-2025|Wiss dkk. (2025)]]).
 - **Bukti kuasi-eksperimental dari persiapan guru prajabatan.** [[chen-osman-preservice-physics-tpack-ctd-pbl-2026|Chen dan Osman (2026)]] membandingkan modul CTD-PBL yang didukung AI selama delapan minggu dengan pengajaran konvensional pada 130 guru [[physics-education|fisika]] prajabatan tahun ketiga (65 per kondisi), dengan DeepSeek digunakan melalui templat prompt khusus tugas sebagai perancah terbatas — pembuatan ide pelajaran, pengorganisasian sumber daya, perbandingan penjelasan, prompt umpan balik sejawat, dan perencanaan revisi — dan setiap keluaran AI diharuskan lolos verifikasi terhadap akurasi konten, kelayakan pedagogis, kelayakan pelaksanaan, dan [[ethics|etika]] sebelum masuk ke artefak instruksional. Kelompok modul melaporkan [[tpack|TPACK]] pascates yang lebih tinggi (M = 4.04 vs. 3.40, d = 1.02) dan [[problem-solving|pemecahan masalah kolaboratif]] yang dipersepsikan lebih tinggi (M = 3.62 vs. 3.05, d = 0.88), dan efek interaksi terbesar jatuh pada pembangunan pengetahuan bersama dan regulasi sosial — justru dimensi proses kolaboratif yang diprediksi argumen struktural di atas akan diperkuat AI alih-alih dipintas. Para penulis menegaskan bahwa AI tidak diisolasi sebagai variabel independen: perubahan diferensial melekat pada keseluruhan kondisi tugas berbasis masalah, kolaborasi terstruktur, perancahan [[teacher-role|instruktur]], [[peer-assessment|umpan balik sejawat]], dan revisi reflektif, dan kedua hasil merupakan persepsi [[self-report-measures|laporan diri]] alih-alih praktik yang diamati.
@@ -61,6 +61,8 @@ Meta-analisis tiga tingkat yang menggabungkan PBL yang didukung GenAI dengan pem
 ## PBL vs. pedagogi terkait
 
 PBL berkaitan erat dengan [[project-based-learning|pembelajaran berbasis proyek]] — keduanya berpusat pada siswa dan digerakkan oleh masalah/konteks — tetapi PBL berpusat pada *masalah* berstruktur buruk yang solusinya menuntut inkuiri dan konstruksi pengetahuan, sedangkan pembelajaran berbasis proyek berpusat pada menghasilkan *artefak* atau proyek yang berwujud. PBL juga bersaudara dengan pembelajaran berbasis kasus dan [[inquiry-based-learning|pembelajaran berbasis inkuiri]], yang berbagi struktur yang digerakkan masalah dan dipimpin fasilitasi. Dalam pemetaan basis pengetahuan ini, argumen struktural untuk integrasi AI yang produktif berlaku bagi pedagogi apa pun yang berbagi ciri-ciri tersebut, bukan hanya PBL.
+
+[[case-based-learning|Pembelajaran berbasis kasus]] adalah tetangga yang lebih dekat: ia mulai dari kasus yang telah disiapkan dan target instruksional yang terdefinisi, sementara PBL membiarkan masalahnya lebih terbuka dan inkuirinya digerakkan siswa.
 
 ## Mengapa PBL penting bagi integrasi AI
 
@@ -79,6 +81,7 @@ Karena PBL mengedepankan proses, kolaborasi, dan pemahaman yang ditunjukkan di a
 ## Konsep terkait
 
 - [[project-based-learning]]
+- [[case-based-learning]] — Kasus yang disiapkan dan diskusi kasus, berbeda dari inkuiri terbuka PBL
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[scaffolding]]

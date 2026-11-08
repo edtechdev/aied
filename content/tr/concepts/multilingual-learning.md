@@ -8,7 +8,7 @@ ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, g
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 - Çoğu YZ modeli öncelikle İngilizce gibi yüksek kaynaklı dillerde eğitilir. Farklı bir dilde düşünüyor, çalışıyor ya da değerlendiriliyorsanız, araç İngilizce'de 'çalışıyor' gibi görünse bile bu sizi nasıl sistematik şekilde dezavantajlı konuma getirebilir?
 - Sayfa, YZ’de ele alınmayan tek dilli önyargının dijital uçurumu derinleştirdiğini ve eşitliği, özellikle Küresel Güney genelinde zarara uğrattığını uyarıyor. Gerçek eşitlik, YZ içeriğini başka bir dile basitçe çevirmenin ötesinde neyi gerektirir?
 - Otomatik değerlendirme dil önyargısı sergileyebilir, hatta aynı akıl yürütme için bile ana dili konuşan olmayanları cezalandırarak. YZ puanlama uyguluyor olsaydınız, yalnızca tek bir dilde doğru olması yerine diller arasında adil olduğundan emin olmak için neyi denetlerdiniz?
-- Sayfa, düşük kaynaklı dillerin pratik donanım sınırları altında bile derlenmiş külliyatlarda ince ayar yapılarak hizmet görebileceğini gösterir. Verimlilik ile modelin düşük kaynaklı bir dili ne kadar sadakatle ele alması arasında hangi ödünleşimleri beklersiniz?
+- Sayfa, düşük kaynaklı dillerin pratik donanım sınırları altında bile derlenmiş külliyatlarda [[llm-training-and-fine-tuning|ince ayar]] yapılarak hizmet görebileceğini gösterir. Verimlilik ile modelin düşük kaynaklı bir dili ne kadar sadakatle ele alması arasında hangi ödünleşimleri beklersiniz?
 - Çok dilli YZ, kültürel olarak ilgili pedagojiyi yansıtacak şekilde çevirinin ötesine geçmelidir — dilsel *ve* bağlamsal olarak uygun içerik. Kusursuz çevrilmiş içerik, yerel bağlamı ve kültürü göz ardı ederse bir öğrenci için nasıl başarısız olabilir?
 
 ## Giriş
@@ -42,14 +42,14 @@ ai_assist:
 
 - **Düşük kaynaklı diller için ince ayar:** Nwogo ve ark. (2026), bir talimat ayarlı YZ’yi bir [[adaptive-learning]] platformu içinde derlenmiş bir Nijerya Pidgin külliyatında [[multilingual-adaptive-learning-nigeria-2026|ince ayar yaptı]] ve nicelemedeki (4/5/8-bit) ödünleşimleri anlamsal doğruluk ile hesaplama verimliliği arasında sistematik olarak analiz etti — düşük kaynaklı dillerin pratik donanım sınırlarıyla hizmet görebileceğini gösterdi. Ayrıca [[self-regulated-learning|öz-düzenlemeli öğrenme]] için [[bilingual-llm-lecture-companion-srl-2026|iki dilli YZ ders arkadaşına]] bkz.
 - **Külliyat ve veri eşitliği:** derlenmiş külliyatlar kurmak (örneğin Nijerya Pidgin, [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] üzerinden Hint bilgi sistemleri), modellerin öğrenenlerin kendi dillerinde çıktı üretmesini sağlamanın yinelenen bir stratejisidir.
-- **Ses öncelikli ve sözlü bağlamlar:** [[kutti-ai-voice-first-learning-companion|ses öncelikli arkadaşlar]] ve [[structural-silence-underrepresented-language-ai-2026|yapısal sessizlik analizleri]], metin tabanlı YZ’nin yetersiz temsil edilen dillerin konuşucuları için başarısız olduğu bağlamları ele alır.
+- **[[speech-and-voice-technologies|Ses öncelikli]] ve sözlü bağlamlar:** [[kutti-ai-voice-first-learning-companion|ses öncelikli arkadaşlar]] ve [[structural-silence-underrepresented-language-ai-2026|yapısal sessizlik analizleri]], metin tabanlı YZ’nin yetersiz temsil edilen dillerin konuşucuları için başarısız olduğu bağlamları ele alır.
 
 ## Eşitlik ve pedagoji
 
 Çok dilli YZ, [[culturally-relevant-pedagogy|kültürel olarak ilgili pedagojiyi]] yansıtacak şekilde çevirinin ötesine geçmelidir — dilsel ve bağlamsal olarak uygun içerik üretmelidir. [[llm-cultural-relevance-k12|K-12’de YZ kültürel ilgisi]] ve [[scaffolding-critical-engagement-genai-minority-students|azınlık öğrenciler arasında Üretken YZ ile eleştirel etkileşim]] çalışmaları, dilsel ve kültürel uyumun öğrencilerin gerçekten yarar görüp görmediğini şekillendirdiğini gösterir. Ele alınmadığında, YZ’deki tek dilli önyargı [[digital-divide]] derinleştirir ve [[equity-in-ai-education|Küresel Güney genelinde Eşitliği]] [[global-south|Küresel Güney genelinde]] zarara uğratır.
 
 
-Diller arası geçiş (translanguaging), üretken sohbet robotlarının eklediği ve önceki dil araçlarının sahip olmadığı bir olanaktır. 24 çalışma üzerine bir sistematik derlemede öğrenenler, hedef dile köprü olarak kendi dillerinde bağlamsallaştırılmış ifadeler ve açıklamalar istedi; derleyiciler bu kullanımı yeniden paketlenmiş değil yeni bir alt olanak olarak sınıflandırır ([[genai-chatbots-language-learning-affordances-review-2026|Lopez ve Arabadzhy (2026)]]).
+Diller arası geçiş (translanguaging), üretken [[conversational-ai|sohbet robotlarının]] eklediği ve önceki dil araçlarının sahip olmadığı bir olanaktır. 24 çalışma üzerine bir [[meta-analysis-systematic-review|sistematik derlemede]] öğrenenler, hedef dile köprü olarak kendi dillerinde bağlamsallaştırılmış ifadeler ve açıklamalar istedi; derleyiciler bu kullanımı yeniden paketlenmiş değil yeni bir alt olanak olarak sınıflandırır ([[genai-chatbots-language-learning-affordances-review-2026|Lopez ve Arabadzhy (2026)]]).
 
 ## Değerlendirme önyargısı
 
@@ -67,7 +67,7 @@ YZ tabanlı karşılaştırmalı yargı, önyargının modelden çok insan temel
 
 ## Yaygın yanlış anlamalar
 
-- **"Hedef dil ilk günden egemen olmalıdır."** **24 çalışma üzerine bir sistematik derlemede**, öğrenenler **hedef dile köprü olarak kendi dillerinde bağlamsallaştırılmış ifadeler ve açıklamalar** istedi; derleyiciler bu kullanımı bir geçici çözüm değil gerçekten yeni bir alt olanak olarak sınıflandırır. Ana dili desteği kaçınma değil iskeleleme işlevi gördü.
+- **"Hedef dil ilk günden egemen olmalıdır."** **24 çalışma üzerine bir sistematik derlemede**, öğrenenler **hedef dile köprü olarak kendi dillerinde bağlamsallaştırılmış ifadeler ve açıklamalar** istedi; derleyiciler bu kullanımı bir geçici çözüm değil gerçekten yeni bir alt olanak olarak sınıflandırır. Ana dili desteği kaçınma değil [[scaffolding|iskeleleme]] işlevi gördü.
 - **"YZ dil değerlendirmesi çok dilli yazarlara karşı yanlıdır."** Burada önyargı modelden çok **insan temel çizgisini** izledi: **3-6. sınıf bilgilendirici yazımı** üzerine LLM tabanlı karşılaştırmalı yargı **araştırmacı rubrikleriyle yakınsadı (r = ,59-,73)** ve insan değerlendiricilerin gösterdiği örüntünün aynısını gösterdi. Bu, mutlak anlamda adillik kanıtı değildir; modelin mevcut çarpıklığın üzerine yeni bir çarpıklık eklemediğinin kanıtıdır.
 - **"Yararlı olan kısım çeviri kalitesindeki çıktıdır."** Köprü kullanımı açıklayıcı ve bağlamsaldır, ikame edici değil. Öğrenenin kendi üretiminin yerine geçen bir araç, köprünün mümkün kılmayı amaçladığı alıştırmayı ortadan kaldırır.
 

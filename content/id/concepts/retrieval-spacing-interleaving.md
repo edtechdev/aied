@@ -10,9 +10,9 @@ level: [higher ed, k 12]
 audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-04T02:37:02-05:00"
+updated: "2026-11-08T14:01:53-05:00"
 translation_of: "concepts/retrieval-spacing-interleaving"
-source_updated: "2026-10-25T22:20:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,10 @@ Logika yang sama mengalir melalui studi lembar contekan: [[student-cheat-sheets-
 Efek jeda — bahwa total latihan yang sama menghasilkan pembelajaran lebih tahan lama ketika disebar lintas sesi daripada dipadatkan dalam satu sesi — adalah yang paling banyak dieksploitasi secara algoritmik di antara ketiga teknik, dan sistem terapan dalam korpus dibangun di sekitarnya.
 
 [[memdora-ai-spaced-repetition|Memdora]] adalah contoh paling jelas jeda yang diperlakukan sebagai masalah rekayasa. Ia mendasari penjadwalan pada kurva lupa Ebbinghaus, mengutip angka bahwa sekitar **70% materi yang baru dipelajari terlupakan dalam 24 jam** tanpa peninjauan, dan mengintegrasikan **FSRS-6**, yang dijelaskan sebagai algoritma repetisi berjeda terkini. Argumennya adalah penjadwalan saja tidak cukup: alat yang ada mereduksi interaksi kartu kilat menjadi satu gestur biner, "balik dan nilai sendiri", yang oleh penulis disebut model miskin yang gagal memanfaatkan bukti ilmu kognitif tentang praktik pengambilan. Kontribusi Memdora karenanya adalah **taksonomi 17 jenis interaksi berlandaskan kognitif** di kategori Language, By Heart, dan Exam, masing-masing dipetakan ke bukti terulas sejawat yang ditampilkan pada kartu, ditambah sistem reward berbasis usaha yang mengompensasi keterlibatan kognitif nyata alih-alih kehadiran aplikasi, pipeline pembangkitan terpadu yang membuat kartu pada titik membaca, dan lapisan kelas yang melaporkan [[learning-gains|hasil belajar]] pada tingkat kartu individual.
+
+
+[[bilingual-llm-lecture-companion-srl-2026|Pendamping kuliah bilingual Malhotra (2026)]] menyerang biaya penulisan itu dari ujung yang lain: ia mentranskripsi kuliah bahasa Inggris–Hindi di peramban dan menghasilkan kartu kilat di perangkat, dirancang untuk ruang kelas India tempat data UDISE+ menempatkan akses internet pada sekitar 54% sekolah.
+
 
 [[adaptive-pretesting-retention|Akgun dan Toker (2026)]] menyediakan bukti eksperimental terkuat dalam korpus tentang bagaimana jeda *distrukturkan*. Dalam studi acak tiga lengan atas 89 mahasiswa sarjana pada mata kuliah statistika terapan, ketiga kelompok berlatih dalam sesi berjeda dengan jumlah dan waktu yang identik selama tujuh minggu; hanya struktur interaksinya yang berbeda. Pengambilan berjeda adaptif (G1) mencapai skor pascates tertinggi (M = 78.19) dan usaha latihan teramati tertinggi (M = 0.85); pengambilan berjeda tetap (G2) menyusul (M = 74.55, usaha 0.74); belajar dengan AI yang diarahkan pembelajar tanpa pengambilan yang ditegakkan berada terakhir pada keduanya (M = 67.28, usaha 0.49). Efek multivariatnya signifikan (Wilks' Λ = .664, partial η² = .185), dengan G1 di depan G3 pada retensi sebesar d = 0.92 (p = .003). Detail yang penting secara pedagogis adalah bahwa agen G1 dikonfigurasi untuk *menahan*: probe yang bergantung pada respons untuk [[misconceptions]], permintaan elaborasi setelah jawaban superfisial, kemajuan hanya pada keterlibatan konseptual yang memadai, dan solusi langsung secara eksplisit dikecualikan dari keluaran yang diizinkan. Bacaan penulis sendiri adalah bahwa pretesting merupakan katalis yang dimuat di depan alih-alih intervensi mandiri yang manfaatnya bertahan terhadap akses AI terbuka.
 

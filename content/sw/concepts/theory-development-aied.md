@@ -9,7 +9,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,9 @@ Kutunga nadharia upande wa mwalimu sasa unafanya dhamana ileile ya kufanyiwa maj
 - **Mifumo ya [[student-engagement|ushirikiano]] wa binadamu-GAI.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] anashughulikia "upungufu wa nadharia" wa uwanja kwa kuziweka mifumo saba ya ushirikiano wa binadamu-GAI yanayotekelezwa (ya kulinda, inayozingatia uwezekano, iliyoimarishwa, ya uwanzi, ya kushirikiana, inayozingatia thamani, [[equity-in-ai-education|usawa]]) katika mfano wa vipimo vingi wa Schommer wa imani za kiakili za kibinafsi — nadharia ya kiakili, badala ya inayozingatia zana, ya jinsi watu wanavyojisimamia kwa njia tofauti kuhusiana na AI.
 - **Mfumo wa Wakala Mwenza wa Kiikolojia.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] anadai kuwa [[generative-ai|AI inayozalisha]] inahamisha mamlaka ya kiakili kutoka kwa walimu kwenda kwa wanafunzi kwenda kwa mashine, na anaanzisha mfumo unaofafanua wakala mwenza kupitia vipimo vitatu vinavyotegemeana — vya mahusiano, vya kudhibiti (vilivyoramaniwa kwenye [[self-regulated-learning|mzunguko wa SRL]]), na [[pedagogy|ya mbinu za kufundisha]] (mfululizo wa kupitisha wa mwalimu) — vyote vilivyowekewa kikomo na hali isiyoweza kupingwa ya uwajibikisho wa binadamu wa kiakili (uwezo wa kupingwa, asili, na kutokukabidhiwa kwa sifa za maadili/za kiakili). Inaweka [[agency]] kama tatizo la [[usability-research|ubora]] wa *kiakili* badala ya kigezo cha matumizi, ikitoa taasisi lugha sahihi zaidi kuliko "usawa" wa kusimamia uunganishaji wa GenAI.
 - **Wakala wa kiakili wa mahusiano na utegemezi wa kiakili.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] wanachangia akaunti ya kukusanya-kwa-mahususi ya wakati utegemezi unaoendeshwa na AI unahifadhi dhidi ya kuondoa uamuzi. Wanaweka uendeshaji wa mpaka wa utegemezi wenye tija/utegemezi wenye madhara kupitia vigezo sita vya uchanganuzi (uwezo wa kupingwa, urejeshaji, uhamisho, ufuatiliaji, uwajibikisho uliogawanywa, utofauti wa kiakili) na kufuatilia njia nne za kiteknolojia-jamii (mamlaka yenye ufasaha, ukabidhiwa usio na mwendo, muunganisho usio na uwazi, utegemezi uliowekwa katika taasisi). Pendekezo lao la kanuni, **wakala wa kiakili wa mahusiano**, unapanua mistari ya uhuru wa mahusiano na wakala mwenza wa kiakili kwa kuhifadhi ukosefu wa usawa wazi — AI inaweza kuunda ufikiri bila uwajibikisho wa kupishana au mamlaka halali — huku ikijumuisha uwajibikisho na haki ya kiakili katika ngazi ya taasisi. Kama nadharia ya kujifunza na AI, inahamisha swali la uwanja kutoka kama AI inasaidia au inadhuru kwenda ni hatua zipi za kiakili zinahifadhiwa, zinabadilishwa, au zinaondolewa, na inafanya *ubunifu wa utegemezi* badala ya matumizi ya kawaida kuwa kitu cha hatua ya mbinu za kufundisha na taasisi.
+
+Matokeo ya mfano huo yanapanda hadi hadhi ya maarifa ya pamoja bila uthibitisho wa jumuiya ambao hadhi hiyo inahitaji — kile Webb et al. (2026) wanakiita pseudo-cPCK, na sababu uwanja unahitaji dhana mpya ya kinadharia badala ya kiolesura bora ([[webb-pck-genai-2026|Webb et al., 2026]]).
+
 
 ## Kusukuma nadharia zilizokwishakithiri
 
@@ -166,3 +169,6 @@ Maendeleo ya nadharia na [[philosophy-of-ai-in-education|falsafa ya AI katika el
 - [[synthetic-position-self-authorship-2026]] — Msimamo wa bandia: ombi la nafsi-ya-mazungumzo linalotaja matangazo ya bandia na usimamizi wa uandishi pamoja na utabiri wa kupishana
 - [[capability-decision-model-teacher-readiness-2026]] — Mfano wa utayari wa mwalimu wa uwezo-kwanza unaoweza kukanushwa wenye hali nne za kukanusha
 - [[ai-connectedness-adolescent-mental-health-2026]] — Muunganisho wa akili bandia: dhana ya vipimo vitatu yenye madhai sita yanayoweza kukanushwa kwa majaribio ya baadaye
+
+- [[webb-pck-genai-2026]] — Visa vitatu na dhana mpya, pseudo-cPCK, kwa matokeo yanayoiga maarifa yaliyothibitishwa kwa pamoja bila uthibitisho (Webb et al. 2026)
+

@@ -1,7 +1,7 @@
 ---
 title: Supervisão Remota
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:22:11-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-10-26T10:00:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -54,13 +54,13 @@ A supervisão remota existe em um espectro. A **supervisão online** tipicamente
 
 - **Danos à confiança e à relação estudante-instrutor.** O custo mais consequente da supervisão remota é frequentemente relacional. A vigilância contínua comunica que os estudantes são presumidos desonestos, o que pode corroer a [[trust|confiança]], corroer a relação estudante–instrutor e minar o senso de propósito compartilhado que sustenta a integridade acadêmica. O monitoramento como imposição pode sufocar a abordagem educativa e baseada em confiança da integridade, que constrói o uso responsável.
 - **Vigilância acadêmica.** A supervisão remota é uma forma de vigilância acadêmica que estende o monitoramento institucional para o ambiente doméstico privado do estudante. Além do exame em si, esses sistemas capturam o espaço de convivência, o rosto, a voz e o comportamento do estudante continuamente — um nível de escrutínio com poucos precedentes no [[higher-ed|ensino superior]]. Críticos argumentam que isso normaliza uma cultura de vigilância na qual os estudantes são presumidos culpados até que se prove honestos, remodelando a relação entre instituições e aprendizes e levantando questões sobre proporcionalidade: se os ganhos de integridade justificam submeter todo estudante a monitoramento invasivo pelos deslizes de poucos. ([[privacy]]), [[trust]]
-- **Privacidade e consentimento.** Os AIPS acessam continuamente imagens faciais, padrões de voz, olhar e dinâmica de teclas, frequentemente por meio de vigilância audiovisual persistente. O tratamento de dados deve cumprir frameworks como o GDPR e o Projeto de Lei PDP da Índia, e exige consentimento claro e tratamento seguro de dados biométricos. Os estudantes frequentemente têm pouca escolha a não ser aceitar o monitoramento se desejam fazer um exame, levantando questões sobre se o consentimento é genuinamente voluntário. ([[privacy]])
+- **Privacidade e consentimento.** Os AIPS acessam continuamente imagens faciais, padrões de voz, [[sensor-and-gaze-analytics|olhar]] e dinâmica de teclas, frequentemente por meio de vigilância audiovisual persistente. O tratamento de dados deve cumprir frameworks como o GDPR e o Projeto de Lei PDP da Índia, e exige consentimento claro e tratamento seguro de dados biométricos. Os estudantes frequentemente têm pouca escolha a não ser aceitar o monitoramento se desejam fazer um exame, levantando questões sobre se o consentimento é genuinamente voluntário. ([[privacy]])
 - **Falsos positivos, falsas acusações e ansiedade.** Os sistemas podem sinalizar comportamento benigno (olhar para longe, ajustar a postura) como suspeito, corroendo a confiança dos estudantes e produzindo falsas acusações de má conduta — especialmente onde supervisores ou candidatos não têm proficiência.
 - **Estresse e ansiedade de prova.** Fazer um exame supervisionado é ele mesmo uma fonte significativa de estresse e ansiedade. A vigilância contínua, o medo de ser falsamente sinalizado e a pressão de ser observado podem aumentar a ansiedade de prova e prejudicar o desempenho — e, segundo a evidência, estudantes estressados podem ser *mais* propensos a recorrer ao comportamento desonesto, o que significa que o monitoramento pode ser contraproducente. Ser monitorado é estressante e pode ele mesmo induzir o comportamento antiético que visa prevenir.
 - **A justificativa da integridade não sobreviveu ao maior teste.** Ao longo de quatro ondas e 1.760 estudantes em 105 cursos, a supervisão aumentou a ansiedade de prova (β = 0,60, p < 0,001), mas não teve efeito sobre a tentação de trapacear, a dificuldade percebida ou as notas, de modo que o custo da vigilância não foi compensado pela dissuasão ([[conijn-fear-big-brother-proctored-exams-2022|Conijn et al. (2022)]]).
 - **Equidade e a divisão digital.** A dependência de dispositivos, a internet instável, a iluminação e a variabilidade de hardware desfavorecem desproporcionalmente estudantes rurais e de baixa largura de banda; a acurácia do modelo pode variar entre demografias e ambientes, arriscando sinalizações injustas. ([[digital-divide|divisão digital]]), [[equity-in-ai-education|equidade na educação com IA]] Uma revisão de escopo da supervisão na [[nursing-education|avaliação de enfermagem]] mostra que esse não é um caso de borda: quatro de seus seis estudos incluídos relataram problemas de conectividade com a internet, um relatou racionamento de carga junto com pacotes de dados limitados, e incompatibilidade de dispositivos, falhas de extensão de navegador e varreduras ambientais malsucedidas eram rotineiras — de modo que a inequidade infraestrutural, e não apenas o viés do modelo, determina quem pode ser avaliado. ([[harerimana-remote-proctoring-nursing-scoping-2026]])
 - **Lacunas de detecção e a corrida armamentista.** A falsificação de identidade (fotos/vídeos de máscara), o uso de navegadores e o copiar-colar seguem difíceis de captar de forma confiável; a acurácia da detecção é limitada por limitações dos conjuntos de dados, pela avaliação de modelo único e por lacunas de reprodutibilidade. A supervisão não resolve plenamente a integridade e pode criar uma falsa sensação de segurança.
-- A IA vestível remove o sinal comportamental de que a supervisão depende: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argumentam que óculos de IA, fones e aparelhos auditivos habilitados por IA entregam assistência encoberta sem mudança de olhar, de atenção ou de postura, de modo que a vigilância e a entrega de dispositivos perdem as pistas em que se apoiam.
+- A IA vestível remove o sinal comportamental de que a supervisão depende: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argumentam que óculos de IA, fones e aparelhos auditivos habilitados por IA entregam assistência encoberta sem mudança de olhar, de atenção ou de postura, de modo que a vigilância e a [[cognitive-surrender|entrega de dispositivos]] perdem as pistas em que se apoiam.
 - **A questão da governança.** Se a vigilância é a resposta certa versus o [[authentic-assessment|redesenho da avaliação]] (oral, baseada em processo, [[eportfolio|portfólio]]) é uma decisão institucional aberta; a supervisão remota é uma ferramenta, e não uma solução completa. ([[governance|governança]]) A exposição que decorre quando a imposição dá errado — acusações que repousam sobre escores e registros de eventos, retenção e processamento posterior dos dados capturados, e regras que caem desigualmente sobre estudantes com deficiência ou não nativos — está mapeada em [[legal-issues-and-risks|questões legais e riscos]].
 
 ## Base de evidências
@@ -107,7 +107,7 @@ A supervisão remota existe em um espectro. A **supervisão online** tipicamente
 - [[corbin-ai-glasses-wearable-ai-assessment-2026]] — A IA vestível remove o sinal comportamental de que a supervisão depende (Corbin, Sharpe e Dawson 2026)
 - [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Comprehensive review of academic dishonesty in automated proctoring
-- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity: systematic review
+
 - [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
 - [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing student assessment

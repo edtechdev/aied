@@ -8,7 +8,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -56,10 +56,15 @@ Hifadhi ya maarifa inadhibitisha seti tajiri ya mikakati binafsi ya kufundisha n
 - **AI kama wakala wa mbinu za kufundisha.** Zana za AI zinatekeleza mbinu za kufundisha — [[intelligent-tutoring|mwalimu wa zana]] aliyejengwa juu ya [[socratic-method|maswali ya Sokrati]] anawahimiza wanaojifunza kufikiri, huku chatbot inayozalisha majibu ikiweza kudhaniwa kutoa moja kwa moja (ona [[reducing-ai-misuse]] kuhusu kwa nini msimamo wa mbinu za kufundisha ni muhimu). Fasihi ya [[agentic-ai|AI ya wakala]] inaonyesha kuwa kuweka wakala katika nadharia ya ubini wa mafunzo hufanya vizuri zaidi kuliko [[prompt-engineering|kutoa ilani]] ghafi. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] wanaifanya rasmi jukumu hili: badala ya mfano wa [[student-modeling|mwanafunzi]] wa mkufunzi–mwanafunzi wa pande mbili na GenAI kama nyongeza ya nje au tishio, wanapendekeza mfano wa pande tatu **mkufunzi–mwanafunzi–GenAI uliojengeka** ambao GenAI inafanya kazi kama *mwasilishaji wa didaktiki-mbinu za kufundisha* wenye mipaka ndani ya nafasi ya upatanishi wa didaktiki inayosimamiwa na taasisi na wenye maslahi — ikizalisha mapendekezo matano yanayoweza kufanyiwa utafiti kuhusu upatanishi wa kujifunza, mabadiliko ya jukumu la mkufunzi, ujuzi wa AI na wakala wa mwanafunzi, [[process-oriented-assessment|tathmini inayozingatia mchakato]] ya AI iliyo wazi, na [[governance]] wa taasisi.
 - **Mbinu za kufundisha huamua athari ya AI.** Ugunduzi unaojirudia ni kuwa *jinsi* AI inavyotumika ni muhimu kiasi kama *iwapo* inatumika. [[instructional-guidance-genai-learning|Utafiti wa mwongozo wa mafunzo]] na [[generative-ai-guardrails-harm-learning|RCT za mwalimu wa zana wenye vizuizi]] zinaonyesha AI ile ile inaweza kudhuru au kusaidia kulingana na kifuniko cha mbinu za kufundisha (vidokezo dhidi ya majibu, matumizi yaliyopangwa dhidi ya wazi).
 - **Maarifa ya mbinu za kufundisha yanazidi maarifa ya kiufundi.** Katika walimu 46 na wanafunzi 2,832, maarifa ya mbinu za kufundisha ya AI ya mwalimu yalitabiri mitazamo ya wanafunzi ya AI kwa ustawi wa kijamii na nia yao ya kujifunza AI, huku maarifa ya kiufundi peke yakitosha — na hakuna moja iliyotabiri maarifa ya AI ya wanafunzi ([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al. (2026)]]).
-- **Mchango wazi zaidi wa AI ni kupunguza kazi za kiutawala.** Mapitio ya PRISMA ya masudio 28 yaligundua AI mara nyingi iliimarisha upangaji wa mafunzo na ubini wa tathmini, huku faida yake iliyoripotiwa zaidi ikiwa uendeshaji otomatiki wa kutoa alama, maoni na ufuatiliaji wa maendeleo (masudio 18, 64.2%) — huku upatanisho wa mbinu za kufundisha ukiwa changamoto iliyotajwa zaidi (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).
-**Uendeshaji otomatiki na kujifunza hupatana moja kwa moja.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] wanapitia kanuni sita za mbinu za kufundisha — uanzishaji wa maarifa ya awali, [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]] — kupitia kile ambacho mpango wa wakala wa AI unafanya kwa kila moja, wakidai kwamba kadiri wakala anavyotoa otomatiki, ndivyo mwanafunzi anafanya kazi ndogo zaidi ya kiakili isipokuwa usuguano, kupungua kwa nguvu, na uangalizi wa binadamu vimebuniwa ndani.
+- **Kuondoa kazi za kiutawala ndipo AI inachangia kwa uwazi zaidi.** Mapitio ya PRISMA ya masudio 28 yaligundua AI mara nyingi iliimarisha upangaji wa mafunzo na [[assessment|ubini wa tathmini]], huku faida yake iliyoripotiwa zaidi ikiwa uendeshaji otomatiki wa kutoa alama, maoni na ufuatiliaji wa maendeleo (masudio 18, 64.2%) — huku upatanisho wa mbinu za kufundisha ukiwa changamoto iliyotajwa zaidi (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).
+**Uendeshaji otomatiki na kujifunza hupatana moja kwa moja.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] wanapitia kanuni sita za mbinu za kufundisha — uanzishaji wa [[prior-knowledge|maarifa ya awali]], [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]] — kupitia kile ambacho mpango wa wakala wa AI unafanya kwa kila moja, wakidai kwamba kadiri wakala anavyotoa otomatiki, ndivyo mwanafunzi anafanya kazi ndogo zaidi ya kiakili isipokuwa usuguano, kupungua kwa nguvu, na [[human-in-the-loop-ai|uangalizi wa binadamu]] vimebuniwa ndani.
+
+- **Kujitafakari ni mbinu ya kufundisha ambayo AI inaiwezesha na kuitishia kwa wakati mmoja.** Ilani zilizopangwa, majarida na maoni ya [[eportfolio|jalada]] ndio utaratibu ambao uzoefu unakuwa kujifunza, na ukurasa wa [[reflection]] unabeba ushahidi. Jaribio moja lililosajiliwa mapema liligundua ilani zilizoongeza mara mbili muda wa maoni na kupunguza kiasi cha mazoezi kwa 40% bila kuinua faida kwa kila tatizo. Ukaguzi wa kodi wa mshirika wa tafakari wa AI uligundua ulivunja kila maelekezo ya tabia bila kuacha alama inayoonekana. Buni ilani kuzunguka jaribio lililokamilika, na hitaji alama badala ya andiko lililosafishwa.
 - **Mikakati ya kufundisha ya ujuzi wa AI.** Kufundisha wanafunzi *kutumia AI vizuri* ni yenyewe kazi ya mbinu za kufundisha — utafiti wa [[ai-literacy]] na [[reducing-ai-misuse]] unakuza mikakati (fikiri-kwanza/AI-pili/tafakari, tangazo la AI, mafunzo ya kurekebisha) ambayo ni ya mwanya huu.
-- **Mafunzo ya ujuzi wa AI yanasogeza maarifa kwa haraka zaidi.** Uchanganuzi wa meta ya kiwango tatu cha masudio 59 (vipimo 172 vya athari) viligundua uingiliaji unaozingatia maarifa (g ≈ .97) vilifanya vizuri zaidi kuliko vile vinavyolenga ujuzi (≈ .67), mitazamo (≈ .68), au [[ethics]] (≈ .64), hivyo kuunganisha kufundisha dhana na mazoezi yanayoendelea yanalenga matokeo yanayopinga mafunzo ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
+
+- **Sitiari na mfano kama mbinu ya kufundisha.** [[metaphors-and-analogies]] inakusanya ushahidi kuhusu jinsi sitiari zinavyoeleza AI, pale zinapovunjika, na jinsi wanafunzi wanavyoweza kuzikagua kama aina ya [[critical-thinking|fikra makini]].
+
+- **Mafunzo ya ujuzi wa AI yanasogeza maarifa kwa haraka zaidi.** [[meta-analysis-systematic-review|Uchanganuzi wa meta]] wa kiwango tatu cha masudio 59 (vipimo 172 vya athari) viligundua uingiliaji unaozingatia maarifa (g ≈ .97) vilifanya vizuri zaidi kuliko vile vinavyolenga ujuzi (≈ .67), mitazamo (≈ .68), au [[ethics]] (≈ .64), hivyo kuunganisha kufundisha dhana na mazoezi yanayoendelea yanalenga matokeo yanayopinga mafunzo ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
 - **Mbinu za kufundisha katika mazoezi ya mwalimu.** [[teacher-role]] na [[teacher-ai-competency]] zinachunguza jinsi walimu wanachukua AI katika hisia zao zilizopo za mbinu za kufundisha, na [[llm-training-and-fine-tuning]] / [[pedagogical-agent]] zinatafiti zana za AI zilizofunzwa kufuata kanuni za mbinu za kufundisha.
 
 ## Uhusiano na nadharia za kujifunza
@@ -105,9 +110,15 @@ Mwingiliano wa mwanafunzi na [[student-ai-interaction|AI]] unapaswa kusomwa kama
 - [[learning-sciences]]
 - [[learning-gains]]
 - [[learning-design]]
+
+- [[metaphors-and-analogies]] — Sitiari na mifano kama mbinu ya kufundisha
+
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[project-based-learning]]
+
+- [[case-based-learning]] — Njia ya kesi na kesi tofauti kama mbinu za kufundisha
+
 - [[experiential-learning]]
 - [[game-based-learning]]
 - [[socratic-method]]

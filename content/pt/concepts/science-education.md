@@ -6,9 +6,9 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:22:14-05:00"
 translation_of: concepts/science-education
-source_updated: "2026-10-28T19:28:52-04:00"
+source_updated: "2026-11-04T17:10:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,13 @@ A correção por IA está avançando rapidamente em trabalho de alto impacto. [[
 
 A prontidão dos professores é decisiva. [[pre-service-science-teachers-ai-perceptions-2026|Amponsah et al.]] concluíram que professores de ciências em formação ganeses têm atitudes positivas e fortes intenções em relação à IA, mas apenas uso moderado real em sala de aula — uma lacuna intenção–uso que aponta a [[teacher-ai-competency|competência docente em IA]] e o apoio [[governance|institucional]] como as alavancas reais. [[becker-chatgpt-typology-physics-2026|Becker et al.]] e [[fouad-bentley-trust-utility-gap-physics-2026|Fouad e Bentley]] documentam que estudantes de física são céticos calibrados ao domínio, e não adotantes acríticos: uma lacuna confiança-utilidade de 50 pontos (91% de uso, 41% de confiança) e dois perfis distintos de usuário (Usuários Pragmáticos contra Não Usuários Céticos) que desafiam políticas únicas. Contrabalançando o tecno-otimismo, [[avraamidou-ai-colonization-science-education|Avraamidou]] alerta sobre uma "colonização pela IA" da educação científica — extração sem consentimento, monocultura algorítmica e reforma desumanizada e centrada no lucro — e pede uma IA feminista e centrada no humano que priorize a justiça sobre o lucro, enquanto a revisão sistemática de 18 estudos de [[ai-science-chemistry-education-systematic-review-2025|Erümit e Özdemir Sarıalioğlu]] enfatiza riscos [[ethics|éticos]] (viés, alucinação, [[academic-integrity|plágio]], erosão do pensamento independente) e a necessidade de [[teacher-education|formação docente]] e uso consciente. A lição coletiva ao longo dos treze artigos é que a IA na educação científica entrega ganhos quando incorporada a um design sólido de investigação, [[scaffolding|andaime]] e [[assessment|avaliação]] — e solapa a aprendizagem quando desloca o trabalho epistêmico que os próprios estudantes precisam fazer.
 
-[[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]] perguntam quão bem os modelos gerais tratam o próprio conteúdo científico: em conjuntos de itens alinhados ao NGSS para ensino fundamental 2 (1.078 itens) e ensino médio (1.150 itens), nove modelos de pesos abertos em sua maioria superaram 90%, sem relação entre tamanho do modelo e acurácia, e um professor de ciências julgou 236 de 240 itens amostrados (98,3%) como alinhados, ao mesmo tempo que apontou a ausência de diagramas, interpretação de dados e representação matemática — itens apenas de texto não conseguem exercitar toda expectativa de desempenho do NGSS. A alta dificuldade dos itens e a baixa discriminação deixam em aberto se os itens precisam de melhoria ou se as ciências do ensino médio se tornaram tratáveis para essa classe de modelos, e os autores pedem o feedback multivolta e baseado em evidência como o padrão ausente.
+
+**O conforto geral com IA não se transferiu para as ferramentas próprias da disciplina.** Entre 100 estudantes de geografia de uma universidade cazaque, a prontidão para ensinar com IA e GIS acompanhou a familiaridade com GIS (ρ = 0,508) e o conhecimento de GeoAI (ρ = 0,425), mas não a familiaridade geral com IA (ρ = 0,071, p = 0,485) — uma lição para a [[teacher-education|formação docente]] em qualquer disciplina moldada por ferramentas ([[laiskhanov-ai-gis-geography-education-2026|Laiskhanov et al. (2026)]]). Sessenta e sete por cento se declararam prontos de alguma forma, mas apenas 6% haviam usado a combinação na prática e 43% julgaram a instrução disponível adequada. A avaliação é [[self-report-measures|autorrelatada]] e não validada, de modo que descreve o que esses estudantes dizem sobre si mesmos.
+
+
+
+
+[[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]] perguntam quão bem os modelos gerais tratam o próprio conteúdo científico: em conjuntos de itens alinhados ao NGSS para ensino fundamental 2 (1.078 itens) e ensino médio (1.150 itens), nove modelos de pesos abertos em sua maioria superaram 90%, sem relação entre tamanho do modelo e acurácia. Um professor de ciências julgou 236 de 240 itens amostrados (98,3%) como alinhados, ao mesmo tempo que apontou a ausência de diagramas, interpretação de dados e representação matemática — itens apenas de texto não conseguem exercitar toda expectativa de desempenho do NGSS. A alta [[item-response-theory|dificuldade dos itens]] e a baixa discriminação deixam em aberto se os itens precisam de melhoria ou se as ciências do ensino médio se tornaram tratáveis para essa classe de modelos, e os autores pedem o feedback multivolta e baseado em evidência como o padrão ausente.
 
 Em uma metanálise de 42 estudos sobre GenAI e motivação, o menor efeito por domínio disciplinar foi em ciências (g = 0,109, IC 95% [−0,107, 0,325], k = 3), o único domínio cujo intervalo cruzou o zero, de modo que a evidência agrupada não sustenta um argumento [[motivation|motivacional]] para a GenAI especificamente em ciências ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
@@ -114,3 +120,6 @@ Como framework, e não como estudo, [[zhai-science-literacy-generative-ai-cohere
 - [[nature-of-science-generative-ai-2026]] — A natureza da ciência na era da inteligência artificial generativa: autoridade epistêmica, materialidade e uma resposta sinérgica
 - [[ai-university-physics-education-review-2026]] — O acesso estruturado em equipe superou o acesso individual ilimitado em uma revisão de IA na física universitária
 - [[genai-learning-motivation-meta-analysis-2026]] — O único domínio cujo intervalo motivacional cruza o zero (g = 0,109, k = 3)
+
+- [[laiskhanov-ai-gis-geography-education-2026]] — O conforto geral com IA não se transferiu para a prontidão em GeoAI
+

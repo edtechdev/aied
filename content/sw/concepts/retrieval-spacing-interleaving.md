@@ -11,7 +11,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-10-25T22:20:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,10 @@ Mantiki ileile inapitia utafiti wa karatasi ya msaada: [[student-cheat-sheets-ma
 Athari ya kueneza muda — kwamba jumla ya mazoezi ileile huzalisha kujifunza kudumu zaidi inaposambazwa katika vipindi badala ya kukusanywa katika kimoja — ndiyo inayotumiwa zaidi na algoriti kati ya mbinu tatu, na mifumo ya mkusanyiko iliyotumika imejengwa kuzunguka hiyo.
 
 [[memdora-ai-spaced-repetition|Memdora]] ni mfano wazi zaidi wa kueneza muda kuchukuliwa kama tatizo ya uhandisi. Inaipa msingi kupanga kwa mkondo wa kusahau wa Ebbinghaus, inataja takwimu kwamba takribani **70% ya nyenzo mapya yaliyojifunza yanasahauliwa katika masaa 24** bila mapitio, na inaunganisha **FSRS-6**, inayoelezewa kama algoriti ya kurudia kwa vipindi iliyo katika hali ya juu zaidi ya sasa. Hoja yake ni kuwa kupanga peke yale haitoshi: zana zilizopo hupunguza mwingiliano wa kadi flash kuwa ishara moja ya binary, "geuza na kujitoa alama", ambao waandishi wanakiita mfano maskini ambao unashindwa kutumia ushahidi wa sayansi ya kiakili juu ya mazoezi ya kujaribu kukumbuka. Mchango wa Memdora kwa hivyo ni **taksonomia ya aina 17 za mwingiliano zilizowekwa na msingi wa kiakili** katika makundi ya Lugha, Kwa Kumbukumbu na Mtihani, kila moja ikiwa imeunganishwa na ushahidi wa mapitio ya rika unaoonyeshwa kwenye kadi, pamoja na mfumo wa thawabu unaotegemea juhudi unaolipiza ushiriki halisi wa kiakili badala ya uwepo wa programu, mfumo mmoja wa uzalishaji unaounda kadi wakati wa kusoma, na safu ya darasa inayoripoti [[learning-gains|matokeo ya kujifunza]] katika ngazi ya kadi binafsi.
+
+
+[[bilingual-llm-lecture-companion-srl-2026|Mshirika wa hotuba wa lugha mbili wa Malhotra (2026)]] unashambulia gharama hiyo ya uandishi kutoka upande mwingine: hunakili mihadhara ya Kiingereza–Kihindi katika kivinjari na kuzalisha kadi flash kwenye kifaa chenyewe, uliobuniwa kwa madarasa ya India ambapo data ya UDISE+ inaweka upatikanaji wa mtandao karibu 54% ya shule.
+
 
 [[adaptive-pretesting-retention|Akgun na Toker (2026)]] wanatoa ushahidi thabiti zaidi wa majaribio katika mkusanyiko juu ya jinsi kueneza muda *kulivyopangwa*. Katika utafiti wa nasibu wa mikono mitatu ya wanafunzi 89 wa shahada ya kwanza katika kozi ya takwimu zinazotumika, vikundi vyote vitatu vilifanya mazoezi katika vipindi vilivyoenea na idadi na muda vinavyolingana katika wiki saba; ni muundo wa mwingiliano pekee uliotofautiana. Kurudia kwa kujaribu kukumbuka kwa kiwango cha kubadilika (G1) kilifika alama ya juu zaidi ya mtihani wa mwisho (M = 78.19) na juhudi ya juu zaidi iliyoonekana ya mazoezi (M = 0.85); kurudia kwa kujaribu kukumbuka kwa kiwango cha kudumu (G2) kilifuata (M = 74.55, juhudi 0.74); somo la AI linaloelekezwa na mwanafunzi bila kujaribu kukumbuka kulilazimishwa kulitokea mwishoni kwa vyote viwili (M = 67.28, juhudi 0.49). Athari ya multivariable ilikuwa kubwa (Wilks' Λ = .664, partial η² = .185), huku G1 ikiwa mbele ya G3 kwenye kuhifadhi kwa d = 0.92 (p = .003). Kisasi kinachomuhimu kielimu ni kuwa wakala wa G1 alipangwa *kuzuia*: uchunguzi unaotegemea majibu kwa [[misconceptions]], maombi ya kupanua baada ya majibu ya juu ya uso, maendeleo tu kwenye ushiriki wa kiwango cha dhana, na masuluhisho ya moja kwa moja yalitengwa wazi kutoka kwa matokeo yake yanayoruhusiwa. Soma lao wenyewe ni kwamba upimaji wa awali ni kichocheo cha mbele badala ya uingiliaji huru ambao faida zake zinadumu kupitia upatikanaji wa AI bila mpangilio.
 

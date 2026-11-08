@@ -8,7 +8,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ Kujifunza kwa uchunguzi kinazingatia maswali yanayoendeshwa na mwanafunzi na mch
 
 ## Jinsi kujifunza kwa uchunguzi kinavyoonekana katika hifadhi ya maarifa
 
-**AI kama mchunguzi mwenzio.** [[meta-analysis-systematic-review|Mapitio ya kimfumo]] ya ChatGPT kwa kujifunza kwa uchunguzi katika STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], masudio 24) yaligundua ChatGPT ikitumika hasa katika hatua za ufafanuzi wa dhana, uchunguzi, na majadiliano — kama chombo cha kujifunza, mwalimu binafsi, mwenzio wa kujifunza, mtaalam wa kikoa, na msaidizi wa [[teacher-role|kufundisha]] — ikiboresha utendaji, [[critical-thinking|ufikiri mahususi]], [[student-engagement|ushiriki]], na motisha, huku ikileta hatari za kutegemea kupita kiasi, kutunga vitu visivyokuwepo, na hitimisho za juu ya uso wakati matokeo yanachukuliwa kama ya kuaminika.
+**AI kama mchunguzi mwenzio.** [[meta-analysis-systematic-review|Mapitio ya kimfumo]] ya ChatGPT kwa kujifunza kwa uchunguzi katika STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], masudio 24) yaligundua ChatGPT ikitumika hasa katika hatua za ufafanuzi wa dhana, uchunguzi, na majadiliano — kama chombo cha kujifunza, mwalimu binafsi, mwenzio wa kujifunza, mtaalam wa kikoa, na msaidizi wa [[teacher-role|kufundisha]]. Matumizi hayo yaliboresha utendaji, [[critical-thinking|ufikiri mahususi]], [[student-engagement|ushiriki]], na motisha, huku ikileta hatari za kutegemea kupita kiasi, [[hallucination-risk|kutunga vitu visivyokuwepo]], na hitimisho za juu ya uso wakati matokeo yanachukuliwa kama ya kuaminika.
 
 **Kuuliza matatizo kama sehemu ya kuanzia.** Jaribio la quasi-experimental na wanafunzi 97 wa darasa la tatu ([[dai-chatbots-problem-posing-primary-2026]]) lilionyesha kuwa [[conversational-ai|chatbot]] za GenAI zilifanya vizuri zaidi kwa kiasi kikubwa kulika injini za utaftaji katika kuuliza maswali ya sayansi, zikiboresha ubora wa maswali na kutoa [[network-analysis|mitandao]] ya ki-epistemiki iliyounganishwa zaidi huku zikipunguza mzigo wa kiakili.
 
@@ -47,19 +47,25 @@ Kujifunza kwa uchunguzi kinazingatia maswali yanayoendeshwa na mwanafunzi na mch
 
 [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] alitenganisha mchango wa AI kutoka kwa uchunguzi yenyewe katika utafiti wa kikundi tatu wa hali ya hewa: uchunguzi unaosaidiwa na AI uliwapita wenzio wa uchunguzi-tu katika kufanya maamuzi (d = 0.69), na maendeleo makubwa zaidi katika ufuatiliaji na usimamizi unaobadilika (d = 1.37), huku ukusanyaji wa data wa msingi ukiboreka sawa katika hali zote.
 
-**[[equity-in-ai-education|Usawa]] na muktadha.** Mfumo wa dhana unaunganisha ushirikiano wa ubuni wa AI ya kizalishaji na mazoezi ya elimu ya wazi kuunga mkono ufundishaji wa STEM unaoongozwa na uchunguzi katika miktadha yenye rasilimali ndogo, kwa kutumia [[multilingual-learning|lugha nyingi]] na [[simulation|mifumo ya kuiga]] inayofaa kwa muktadha iliyotolewa na AI.
+**[[equity-in-ai-education|Usawa]] na muktadha.** Mfumo wa dhana unaunganisha ushirikiano wa ubuni wa AI ya kizalishaji na [[open-education|mazoezi ya elimu ya wazi]] kuunga mkono ufundishaji wa STEM unaoongozwa na uchunguzi katika miktadha yenye rasilimali ndogo, kwa kutumia [[multilingual-learning|lugha nyingi]] na [[simulation|mifumo ya kuiga]] inayofaa kwa muktadha iliyotolewa na AI.
 
 **Ulinganisho wa ushahidi unaopatikana kwa ngazi za msaada za AI.** [[ai-information-extraction-undergraduate-thesis-2026|An na wenzake (2026)]] wanaonyesha jinsi mfumo wa uchimbaji wa taarifa unaoendeshwa na AI unavyobadilisha mapitio ya lugha ya wanafunzi wa digrii ya kwanza kutoka muhtasari kwenda **upangaji na ulinganisho wa ushahidi** — wanafunzi wakisonga kutoka kusoma kwa upweke hadi kulinganisha masudio mbalimbali na udhulumisho unaotegemea ushahidi katika kujifunza kwa msingi wa utafiti na kukamilisha tesi. Hii inafanya dhahiri jinsi [[generative-ai|AI]] inaweza kutoa ngazi za msaada kwa mchakato wa uchunguzi katika utafiti wa wanafunzi wa [[stem-education|STEM]].
 
 ## Kwa nini kujifunza kwa uchunguzi ni muhimu kwa muunganishaji wa AI
 
-Muundo wa IBL unaoelekezwa na maswali na unaozingatia mchakato ni nyenzo halisi ya matumizi ya AI ya uzalifu: wanafunzi hujifunza *pamoja* na AI kama mshirika badala ya *kutoka* kwake kama mbadala. Ushahidi wa hifadhi ya maarifa unakusanyika kwenye msongo wa msingi — AI inaweza kupunguza ugumu wa upataaji wa taarifa na uundaji wa maswali (ikipunguza [[cognitive-offloading|mzigo wa kiakili]] na kuruhusu [[metacognition|tafakari]] ya kina), lakini bila ngazi za msaada za ubuni inahatarisha kutegemea kupita kiasi na kupuuza ufahamu wa kiwango cha juu. Jukumu la mwelekezi, ubuni wa ngazi za msaada, na ufundishaji mahususi wa ujuzi wa kutathmini ni vifaa vinavyodhamiria kama AI inaongeza kina au inachukua nafasi ya uchunguzi.
+Muundo wa IBL unaoelekezwa na maswali na unaozingatia mchakato ni nyenzo halisi ya matumizi ya AI ya uzalifu: wanafunzi hujifunza *pamoja* na AI kama mshirika badala ya *kutoka* kwake kama mbadala. Ushahidi wa hifadhi ya maarifa unakusanyika kwenye msongo wa msingi — AI inaweza kupunguza ugumu wa upataaji wa taarifa na uundaji wa maswali (ikipunguza [[cognitive-offloading|mzigo wa kiakili]] na kuruhusu [[reflection|tafakari]] ya kina), lakini bila ngazi za msaada za ubuni inahatarisha kutegemea kupita kiasi na kupuuza ufahamu wa kiwango cha juu. Jukumu la mwelekezi, ubuni wa ngazi za msaada, na ufundishaji mahususi wa ujuzi wa kutathmini ni vifaa vinavyodhamiria kama AI inaongeza kina au inachukua nafasi ya uchunguzi.
+
+Utafiti mmoja unachukua nafasi ya mwelekezi badala ya kuongeza zana kando yake. Katika kozi ya famakolojia ya wiki nne, wanafunzi 136 wa mwaka wa pili wa tiba waligawanywa kati ya kujifunza kwa msingi wa matatizo kunaoongozwa na mwelekezi na kunaoongozwa na AI. Mikono yote miwili ilipata maendeleo makubwa kwenye majaribio ya chaguo-msingi kabla/baada na tofauti kati ya vikundi haikuwa na umuhimu (p = 0.474), lakini vikundi vilivyoongozwa na mwelekezi vilipata alama za juu kwenye ufikiri mahususi (14.75 dhidi ya 13.09, p < 0.001) na kwenye rubriki ya [[group-work|tathmini ya kikundi]] (26.51 dhidi ya 24.74, p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty na Rao, 2026]]). Matokeo ya uchunguzi yaligawanyika kwa aina: maarifa ya maudhui yalistahimili ubadilishaji na mchakato wa hoja haukustahimili, ambayo ndiyo maana ya kusema mwelekezi ndiye kigezo.
+
 
 ### Kushindwa kwa uzalifu na uchunguzi
 
 [[productive-failure|Kushindwa kwa uzalifu (PF)]] ni ndugu wa karibu zaidi aliye na muundo wa kujifunza kwa uchunguzi: wanafunzi huchunguza matatizo na kutoa suluhisho *kabla ya* mafunzo ya moja kwa moja, kisha huyashikilia. Vyote viwili vinashiriki msingi kwamba majaribio yaliyotolewa na mwanafunzi (hata yale yaliyoshindwa) [[prior-knowledge|huanzisha maarifa ya awali]] na kuwaandaa wanafunzi kujifunza kutoka kwa mafunzo. [[research-methods-aied|Utafiti]] wa PF katika zama za AI unaboresha jinsi AI inapaswa kutoa ngazi za msaada kwa uchunguzi bila kuukata kifupi: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] wanatoa kanuni za ubuni za AI za kuhifadhi pigano kupitia uchunguzi wa matatizo na utoaji wa suluhisho; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] wanaonyesha kuwa walimu wa LLM wanaweza kuelekezwa kuzuia majibu na kudai majaribio mengi; kazi za [[lukesova-clue-before-correction-2026|dokezo-kabla-ya-marekebisho]] ni mfano wa ngazi za msaada za dokezo (badala ya za moja kwa moja) zinazoweka wanafunzi kuendelea kufanya hoja. Hizi zinaunganisha uchunguzi na PF na amri pana kuwa AI haiwezi kuondoa [[desirable-difficulties|pigano la uzalifu]] ambalo kupitia wake kujifunza kwa kudumu hujengwa.
 
 Katika miktadha ya shamba ya nje, amri ileile inakuwa ya kijiografia: GenAI inaweza kupanga mapema kile wanafunzi wanachogundua kabla ya kukutana na ushahidi, hivyo mlolongo wa shamba-kwanza unaozuia maelezo yaliyotolewa hadi uchunguzi na tafsiri za awali zimeandikwa unahifadhi uchunguzi ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
+**Ramani ya masudio 66 inaweka AI ya kizalishaji kando ya uchunguzi na mara chache zaidi kwenye mwelekeo.** [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya na wenzake (2026)]] waliweka kodi ya matumizi ya GenAI kwenye awamu tano za uchunguzi na kugundua msaada ulioripotiwa mara nyingi zaidi katika uchunguzi (masudio 45, 68.2%), kisha hitimisho (29, 43.9%), majadiliano (28, 42.4%) na ufafanuzi wa dhana (27, 40.9%), huku mwelekeo ukiwa wa mwisho (20, 30.3%). Masudio kumi na moja yalifunika awamu zote tano, 19 yalifunika moja na tisa hayakutaja yoyote. Masudio 8 pekee (12.1%) yalipima ujuzi wa uchunguzi, na 4 kati ya hayo yalikuwa na hali ya ulinganisho, hivyo hii ni ramani ya mahali zana ziliwekwa badala ya kile uchunguzi ulipata.
+
 
 ## Dhana Potofu za Kawaida
 
@@ -104,3 +110,7 @@ Katika miktadha ya shamba ya nje, amri ileile inakuwa ya kijiografia: GenAI inaw
 - [[ai-information-extraction-undergraduate-thesis-2026]] — Uchimbaji wa taarifa unaoendeshwa na AI unaounga mkono tisi na kujifunza kwa msingi wa utafiti wa wanafunzi wa digrii ya kwanza (An et al. 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — Uchunguzi Unaosaidiwa na AI katika Masuala ya Kijamii-Sayansi kuhusu Mabadiliko ya Hali ya Hewa
 - [[geoscience-field-learning-genai-2026]] — Mfano wa mafunzo wa shamba-kwanza unaozuia GenAI kupanga mapema kile wanafunzi wanachogundua (Choi 2026)
+
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Mwelekezi wa binadamu dhidi ya kujifunza kwa msingi wa matatizo kunaoongozwa na AI: faida sawa za maudhui, ufikiri mahususi hafifu bila mwelekezi (Shetty & Rao 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Ramani ya masudio 66 ya AI ya kizalishaji katika awamu tano za uchunguzi, huku masudio 8 pekee yakipima ujuzi wa uchunguzi
+

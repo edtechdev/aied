@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -55,11 +55,16 @@ GenAI inazua dhana kwamba viashiria vya uwepo vinaweza kuhusishwa zaidi na wanao
 - **Kuiga uwepo wa kijamii** — maneno yaliyozalishwa na mashine yanaweza kufanana na hisia na majibu yenye uaminifu mkubwa wa lugha, yanatatiza uwajibikisho wa mahusiano.
 - **Kusambaza upya uwepo wa kufundisha** — ubini, urahisishaji, na mafunzo ya moja kwa moja huwa mafanikio yaliyosambazwa, huku waongozaji wakionesha jinsi ya kuhoji matokeo yaliyozalishwa na kugundua rejea za uwongo.
 
-Ushahidi wa mtandao wa kiushahidi sasa upo chini ya madai haya: katika majaribio ya karibu ambapo wanafunzi 63 wa Kichina (33 na, 30 bila chatbot ya GPT-4o mini) walitia alama masomo yaliyoshirikiwa kwenye CollaboRead katika kazi tano za kila wiki, [[network-analysis|uchanganuzi wa mtandao wa maarifa]] ulionyesha darasa lililosaidiwa linaunganisha uwepo wa kijamii na muunganisho na suluhisho wakati darasa la kudhibiti liliunganisha uwepo wa kijamii na kuchochea na uchunguzi (X-axis U = 25.00, p = 0.01, r = 1.00; Y-axis U = 13.00, p = 1.00, r = 0.04), huku ushiriki wa juu wa kiakili na wa kihisia ulioripotiwa na mwenyewe ukiwa katika darasa lililosaidiwa. Uwepo kisha hutofautika ndani ya hali badala ya kati yao: vikundi vya mafanikio ya juu vilizindua maombi 1407 ya maoni katika alama 2319 (60.7%) dhidi ya 737 katika 2167 (34.0%) katika kikundi cha mafanikio ya chini, ambacho kilibaki katika mzunguko wa kujirejelea na kulitumia kwa udhaifu ngazi za msaada.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
+- **Kuingilia kwa haraka kupita kiasi** — katika utafiti wa majadiliano mtandaoni, wezeshaji wataalam walikuwa kwa uthabiti waangalifu zaidi kuhusu kuingilia kuliko mahakimu wa LLM, ambao walikuwa na shauku kupita kiasi ya kuwezesha; kigawanyaji bora kilichopata mafunzo bado kilifikia kikomo cha chini kilichowekwa na seti za data zilizopo ([[llm-facilitation-timing-online-discussions|Tsirmpas, Korre na Pavlopoulos, 2026]]). Uwepo wa kufundisha uliosambazwa kwa hivyo hubadilisha kizingiti cha kuingilia, na mfano utaingilia pale mtu angekuwa amesubiri, ambayo ni hali ya kushindwa ambayo jukwaa la majadiliano huiona.
+
+Mapitio ya upeo ya masudio 21 yaligundua ushahidi usio sawa katika uwepo watatu: uwepo wa kijamii ulichunguzwa katika masudio 13, wa kiakili katika 10, na wa kufundisha katika 5 tu, na kila utafiti wa uwepo wa kufundisha uliuchunguza pamoja na uwepo mwingine. Uwepo wa kiakili ulijikita katika uchunguzi na muunganisho, suluhisho lilikuwa dhahiri kidogo zaidi, na miundo ya majadiliano au ya kazi ilifungamana na uwepo wa kiakili wakati mawakala wa kielimu na miundo ya kujieleza kijamii ilifungamana na uwepo wa kijamii ([[doo-genai-community-of-inquiry-scoping-review-2026|Doo & Park, 2026]]).
+
+
+Ushahidi wa mtandao wa kiushahidi sasa upo chini ya madai haya: katika majaribio ya karibu ambapo wanafunzi 63 wa Kichina (33 na, 30 bila chatbot ya GPT-4o mini) walitia alama masomo yaliyoshirikiwa kwenye CollaboRead katika kazi tano za kila wiki. [[network-analysis|Uchanganuzi wa mtandao wa maarifa]] ulionyesha darasa lililosaidiwa linaunganisha uwepo wa kijamii na muunganisho na suluhisho wakati darasa la kudhibiti liliunganisha uwepo wa kijamii na kuchochea na uchunguzi (X-axis U = 25.00, p = 0.01, r = 1.00; Y-axis U = 13.00, p = 1.00, r = 0.04). Ushiriki wa kiakili na wa kihisia [[self-report-measures|ulioripotiwa na mwenyewe]] ulikuwa wa juu zaidi katika darasa lililosaidiwa. Uwepo kisha hutofautika ndani ya hali badala ya kati yao: vikundi vya mafanikio ya juu vilizindua maombi 1407 ya maoni katika alama 2319 (60.7%) dhidi ya 737 katika 2167 (34.0%) katika kikundi cha mafanikio ya chini, ambacho kilibaki katika mzunguko wa kujirejelea na kulitumia kwa udhaifu ngazi za msaada.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
 
 Badala ya zana, mshirika wa mazungumzo, au "uwepo wa nne" wa kubuni, GenAI inaeleweka vizuri zaidi kama **hali ya maarifa** — mvuto wa kuwepo unaobadilisha jinsi uwepo unavyotekelezwa, kuelezewa, kuthibitishwa, na kudhibitiwa kupitia matokeo yanayoonekana na mantiki zisizoonekana za data ya mafunzo, za algoriti, na za jukwaa.
 
-Waandishi wenyewe wa mfumo wanatoa taksonomia ya majukumu kwa hali hiyo: [[ai-communities-of-inquiry-2026|Stenbom na Garrison (2026)]] wanaweka AI kama msaada wa ubini wa kujifunza, rasilimali huru ya mwanafunzi, kitengo cha msaada wa mkufunzi kupitia uchanganuzi, mwanachama wa jamii, na mshirika wa mara kwa mara wa mazungumzo, na wanapendekeza [[metacognition]] ya pamoja — udhibiti wa mwenyewe na wa [[self-regulated-learning|pamoja]] — kama kile kinachowafanya wanaojifunza wakagua matokeo ya AI.
+Waandishi wenyewe wa mfumo wanatoa taksonomia ya majukumu kwa hali hiyo: [[ai-communities-of-inquiry-2026|Stenbom na Garrison (2026)]] wanaweka AI kama msaada wa [[learning-design|ubini wa kujifunza]], rasilimali huru ya mwanafunzi, kitengo cha msaada wa mkufunzi kupitia [[learning-analytics|uchanganuzi]], mwanachama wa jamii, na mshirika wa mara kwa mara wa mazungumzo, na wanapendekeza [[metacognition]] ya pamoja — udhibiti wa mwenyewe na wa [[self-regulated-learning|pamoja]] — kama kile kinachowafanya wanaojifunza wakagua matokeo ya AI.
 
 ## Athari za vitendo
 
@@ -94,7 +99,13 @@ Waandishi wenyewe wa mfumo wanatoa taksonomia ya majukumu kwa hali hiyo: [[ai-co
 ## Makala Zilizounganishwa
 - [[genai-social-annotation-epistemic-network-analysis-2026]] — Kufungua mwingiliano wa wanafunzi katika alama za kijamii zinazosaidiwa na GenAI: Uchanganuzi wa mtandao wa maarifa wa uwepo wa kiakili na wa kijamii
 
+- [[doo-genai-community-of-inquiry-scoping-review-2026]] — Mapitio ya upeo ya masudio 21: ushahidi wa uwepo hauna usawa, uwepo wa kufundisha ndio uliosomwa kidogo zaidi, na usanidi wa ubuni hupanga matokeo (Doo & Park 2026)
+
+
 - [[reconceptualizing-community-inquiry-generative-ai]] — Kudhania upya CoI katika zama za AI ya kizalishaji
 - [[ai-communities-of-inquiry-2026]] — AI katika jamii za uchunguzi
 - [[ai-online-education-engagement-satisfaction-2026]] — AI na ushiriki wa elimu mtandaoni
 - [[reflective-triangle-model-teacher-ai-2026]] — Mfano wa Pembetatu wa Kutafakari: AI kama mpatanishi wa kiakili
+
+- [[llm-facilitation-timing-online-discussions]] — Wezeshaji wa binadamu dhidi ya LLM: mifano huingilia kwa shauku zaidi kuliko wataalam binadamu (Tsirmpas et al. 2026)
+

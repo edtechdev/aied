@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-10-30T10:52:00-04:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -67,13 +67,13 @@ Bu bilgi tabanındaki araştırmalar, özellikle [[intelligent-tutoring|intellig
 
 ### Öğrencilerin nasıl sorduğunu iskelelemek
 
-**Muhakeme odaklı yardım arama** konusunda açık eğitim — son cevaplar yerine adım adım ipuçları ve doğrulama istemek — sorgusuz güvenme karşılığında daha iyi sonuçlar üretir. Yarı-deneysel bir lisans istatistik çalışmasında, kılavuzlu LLM erişimi (muhakeme odaklı yardım arama eğitimiyle) sınırsız LLM erişimine kıyasla daha güçlü bağımsız performansa ve daha iyi öz-değerlendirme kalibrasyonuna yol açtı. Ders: **yalnızca LLM erişimi eksik bir müdahaledir**; tasarım mücadelesi, öğrencilerin YZ’yi bir cevap alma aracından ziyade bir muhakeme ortağı olarak işlemesini sağlamak için *nasıl* kullandıklarını iskelemektir.([[guided-llm-scaffolding-independent-learning]])
+**Muhakeme odaklı yardım arama** konusunda açık eğitim — son cevaplar yerine adım adım ipuçları ve doğrulama istemek — sorgusuz güvenme karşılığında daha iyi sonuçlar üretir. Yarı-deneysel bir lisans istatistik çalışmasında, kılavuzlu LLM erişimi (muhakeme odaklı yardım arama eğitimiyle) sınırsız LLM erişimine kıyasla daha güçlü bağımsız performansa ve daha iyi [[self-assessment|öz-değerlendirme]] kalibrasyonuna yol açtı. Ders: **yalnızca LLM erişimi eksik bir müdahaledir**; tasarım mücadelesi, öğrencilerin YZ’yi bir cevap alma aracından ziyade bir muhakeme ortağı olarak işlemesini sağlamak için *nasıl* kullandıklarını iskelemektir.([[guided-llm-scaffolding-independent-learning]])
 
 Etkileşim maliyeti aynı sorunun bir parçasıdır. [[penquiry-pen-based-llm-qa-2026|Rhee ve ark. (2026)]], kalem tabanlı öğrenenleri bir [[llm|LLM]] ’e hiçbir şey sormaktan alıkoyan bir **Gösterme Bariyeri** ve bir **Anlatım Bariyeri** tanımlar: bir diyagram bölgesini veya bir denklem terimini işaret etmek yazılı düz metinde ifade edilemez ve formülleme çabası tam olarak bir sorunun en kırılgan olduğu ana denk gelir. Penquiry sistemi gösterimi, mürekkep işaretlerini belge öğelerine çekerek çözer ve seyrek mürekkep anahtar kelimelerini otomatik tamamlama yoluyla tam sorgulara genişletir; her biri 16 katılımcıdan oluşan iki yinelemeli çalışma, sorgulamanın bilişsel ve fiziksel yükünün önemli biçimde düştüğünü buldu. Daha düşük sorma maliyetinin *daha iyi* yardım arama mı yoksa yalnızca daha fazla mı ürettiği açık bırakılmıştır ve yazarlar, azalmış sürtünmeden kalıcı bir koltuk değneği yerine [[scaffolding|fading support]] azalan desteğe giden bir yol olarak zamana uyarlamalı otomatik tamamlama önerir — bir oturumun başında temel doğrulama, sonra üst düzey istemler.
 
 İskeleleme görevden önce değil, görevin içinde de sunulabilir. [[helpcoach-ai-help-seeking-scaffolding-2026|Jin ve ark. (2026)]], bir öğrencinin yardımı ne kadar özgün istediğini değerlendiren ve bir soru çok belirsiz olduğunda revizyon isteyen, sohbet arayüzlerine eklenen HelpCoach’u inşa etti; böylece bilgi bileşenini ve iskele türünü açık kıldı. Web programlama öğrenen 40 üniversite öğrencisiyle katılımcılar arası bir çalışmada, HelpCoach katılımcıları görev öncesi eğitim karşılaştırma grubundan ilk taslaklarında önemli ölçüde daha yüksek oranda özgün soru yazdı (%57,3 karşı %40,5) ve bir hafta sonra önemli ölçüde daha fazla bilgi korudu (d = 1,100), oysa üçüncü görev özgüllük farkı artık anlamlı değildi (%43,7 karşı %32,1). Yazarlar, koruma kazancının henüz daha hedefli sohbet robotu yanıtlarına atfedilemeyeceğini uyarır.
 
-Sorma maliyeti üzerindeki üçüncü kaldıraç, yardımın *nereden* geldiğidir. [[course-specific-rag-help-seeking-higher-ed-2026|Gray ve Hobbs (2026)]], tek bir programlama modülünün onaylanmış materyallerinde temellendirilmiş, kursa özgü bir [[rag|retrieval-augmented]] getiri ile güçlendirilmiş asistan olan Beacon’u inşa etti ve on beş bilişim öğrencisi ve dört akademisyenle değerlendirdi. Katılımcıların %89’u cevaplarını kurs materyalleriyle yüksek düzeyde uyumlu buldu ve %66,7’si öğrenmelerini desteklediğini söyledi, oysa yalnızca yaklaşık yarıdan %60’a kadar olan kısım anlama veya güven artışı bildirdi. Motivasyon, bu bölümün belgelediği bariyerdir: bu öğrencilerin %62,5’i ihtiyaç duyduklarında bazen yardım istemekten kaçındıklarını ve %75’i bir konuyu anlamadıklarında kaygı duyduklarını bildirdi, böylece özel, modüle temellendirilmiş bir kanal bir hocaya başvurmadan önceki ilk basamak olarak sunulur. Görüşülen akademisyenler karşı argümanı canlı tuttular — Beacon’un tam çözümleri esirgemesini değerli buldular ve sınırsız araçların öğrencilerin bir gelişim aşamasını atlamalarına izin verdiğinden endişe ettiler — bu yüzden tasarım yerini işi tamamlamayı reddederek kazanır.
+Sorma maliyeti üzerindeki üçüncü kaldıraç, yardımın *nereden* geldiğidir. [[course-specific-rag-help-seeking-higher-ed-2026|Gray ve Hobbs (2026)]], tek bir programlama modülünün onaylanmış materyallerinde temellendirilmiş, kursa özgü bir [[rag|retrieval-augmented]] getiri ile güçlendirilmiş asistan olan Beacon’u inşa etti ve on beş bilişim öğrencisi ve dört akademisyenle değerlendirdi. Katılımcıların %89’u cevaplarını kurs materyalleriyle yüksek düzeyde uyumlu buldu ve %66,7’si öğrenmelerini desteklediğini söyledi, oysa yalnızca yaklaşık yarıdan %60’a kadar olan kısım anlama veya güven artışı bildirdi. Motivasyon, bu bölümün belgelediği bariyerdir: bu öğrencilerin %62,5’i ihtiyaç duyduklarında bazen yardım istemekten kaçındıklarını ve %75’i bir konuyu anlamadıklarında [[anxiety-and-stress|kaygı]] duyduklarını bildirdi, böylece özel, modüle temellendirilmiş bir kanal bir hocaya başvurmadan önceki ilk basamak olarak sunulur. Görüşülen akademisyenler karşı argümanı canlı tuttular — Beacon’un tam çözümleri esirgemesini değerli buldular ve sınırsız araçların öğrencilerin bir gelişim aşamasını atlamalarına izin verdiğinden endişe ettiler — bu yüzden tasarım yerini işi tamamlamayı reddederek kazanır.
 
 ### Şeffaflık yoluyla güveni kalibre etmek
 
@@ -84,7 +84,12 @@ Sorma maliyeti üzerindeki üçüncü kaldıraç, yardımın *nereden* geldiğid
 Yardımı kaldırmak yerine, araştırmalar bunun nasıl sunulduğunu yeniden tasarlamayı önerir:
 
 - **Gecikmeli ipucu erişilebilirliği** — ipuçların (özellikle en kapsamlı ipuçların) erişilebilir olmasından önce asgari angajman süresi veya çözüm denemesi gerektirmek.([[lak2026-hint-button-unproductive-use]])
+
+- **Soluklaşan bir merdiven, yükseldikçe daha az tırmanılır.** Her yanıtsız kararda bir basamak yükselen ve öğrenen basamağı aldığında geri inen bir özel ders aracı olan CoMeT’te, kodlanan 515 soluklaşma episodunun yalnızca 282’si bir yanıtı izlemiştir: benimseme ilk sormadan sonra %37,0, üçüncüden sonra %21,8’dir ([[adaptive-scaffolding-contingency-comet-tutor-2026|Hou ve ark. (2026)]]). Dolayısıyla yardımı geciktirmek, istemi yanıtlamayı sürdüren bir öğrenene bağlıdır ve ölçülen düşüş, iskelemin sonraki basamaklarının hâlâ takılı kalan öğrencilerin çok azına ulaştığı anlamına gelir.
+
 - ***İstenip istenmediğinden nasıla* geçmek** — anahtar tasarım sorusu, ipuçların tam olarak sağlanıp sağlanmayacağı değil, ipucu sunumunun verimli mücadele ilkeleriyle uyumlu biçimde nasıl yapılandırılacağıdır.([[lak2026-hint-button-unproductive-use]])
+
+- **Öğrenci denetimli sunum için meta-analitik destek.** 18 ABD K-12 deneyini havuzlayan çalışmada çözümlü örnekler (g = 0,324) ve talep üzerine ipuçları (g = 0,316) anlamlıyken otomatik tetiklenen tam zamanında ipuçları anlamlı değildi — ancak yazarlar, öz-düzenlemesi daha zayıf öğrenenlerin talep üzerine özellikleri oyunlaştırabileceği konusunda uyarır ([[leite-its-k12-meta-analysis-2025|Leite ve ark., 2025]]).
 
 ### LLM özel ders araçlarında benimseme sorunu
 
@@ -94,7 +99,7 @@ Gerçek dünyadaki öğrenciler sıklıkla bir [[conversational-ai|chatbot]] soh
 - **Mesaj uzunluğu, teslim araştırmasının gerçekten ölçtüğü kaldıraçtır.** Canlı bir programlama dersinde, daha uzun LLM ipuçları bir sonraki gönderimin doğruluğunun daha kötü olmasını, daha fazla kalan denemeyi ve daha yavaş yeniden göndermeyi öngörmüştür; 14.809 öğrenci-alıştırma çiftinde 204,9 karakterlik standart sapma başına ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova ve ark., 2026]]). Okunabilirlik hiçbir çıktıyı neredeyse hiç hareket ettirmemiştir; dolayısıyla hacim, güçlükten daha önemliydi.
 - **Aynı ders bölümündeki önceki ipuçları, bütünleştirici adımda daha düşük başarıyla izlenmiştir.** Bir projenin önceki adımlarında geri bildirim alan öğrenciler son adımlarını %95,6 oranında çözmüş, almayanlarda bu oran %98,1 olmuştur; log-odds katsayısı −1,096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova ve ark., 2026]]). Yazarlar bunu zarar olarak okumaz, çünkü ipucu arayan öğrenciler büyük olasılıkla orada zaten zorlanacak olanlardır; bu da sayfanın gündeme getirdiği [[self-regulated-learning|izleme]] sorusudur.
 
-- **İsteğe bağlı bir yardım düğmesine tıklanmaz.** Üç beşinci sınıf sınıfında öğrenciler, tasarımın özerkliği korumak için bilerek isteğe bağlı bıraktığı yardımcı aracıyı nadiren çağırmış, bunun yerine bir öğretmeni çağırmış ve aracın kurulduğu kafa karışıklığı sürmüştür ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg ve ark., 2025]]).
+- **İsteğe bağlı bir yardım düğmesine tıklanmaz.** Üç beşinci sınıf sınıfında öğrenciler, tasarımın özerkliği korumak için bilerek isteğe bağlı bıraktığı yardımcı aracıyı nadiren çağırmış, bunun yerine [[teacher-role|bir öğretmen]]i çağırmış ve aracın kurulduğu kafa karışıklığı sürmüştür ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg ve ark., 2025]]).
 
 ## Yardım arama ve öz-düzenleyici öğrenme
 
@@ -125,7 +130,7 @@ Tamamen çevrimiçi [[english-education|composition]] yazım dersinde, aracın e
 
 ## Yaygın yanlış anlamalar
 
-- **“Yardıma ihtiyacı olan öğrenciler bunu istemez.”** Büyük kayıtlı lisans derslerinde yürütülen **önceden kayıtlı bir deney**, öğrencilere bir akademik sohbet robotu üzerinden mesaj göndermiş ve **özel ders ile destekleyici desteğe katılımın arttığını** bulmuştur. Dürtme davranışı hareket ettirmiştir; dolayısıyla engel isteklilik değil, hatırlatmaydı.
+- **“Yardıma ihtiyacı olan öğrenciler bunu istemez.”** Büyük kayıtlı lisans derslerinde yürütülen **önceden kayıtlı bir deney**, öğrencilere bir akademik sohbet robotu üzerinden mesaj göndermiş ve **özel ders ile destekleyici desteğe katılımın arttığını** bulmuştur. Dürtme davranışı hareket ettirmiştir; dolayısıyla engel isteklilik değil, [[prompt-engineering|istemle yönlendirme]]ydi.
 - **“Yardım arama talepleri öğrenmeyle ilgilidir.”** **İşletimsel destek talebi** bu varsayımı karmaşıklaştırır: **4.093 sorgu** genelinde en az **%20,4’ü bilgi değil, bekleyen bir teslimin durumunu sormuştur**. Yardım talebinin beşte biri idariydi.
 - **“Bir YZ öğretmeni kullanmak, kendi öğrenmesini izlemek anlamına gelir.”** Bir GenAI öğretmeni kullanan **98 dokuzuncu sınıf öğrencisi** üzerine yapılan bir çalışmada etkileşimler, **kendi öğrenmelerini izleme veya değerlendirme neredeyse hiç olmadan araçsal taleplerce yönetilmiştir**. Yanıt istemek, yapının kastettiği anlamda yardım arama değildir.
 
@@ -154,6 +159,9 @@ Tamamen çevrimiçi [[english-education|composition]] yazım dersinde, aracın e
 ## Bağlı makaleler
 
 - [[taufer-human-ai-interaction-haidl-2026]] — Birinci sınıf veri olarak etkileşimler: bir sorguyu çevresindeki yürütme durumuna göre sınıflandırmak
+
+- [[leite-its-k12-meta-analysis-2025]] — Etkiyi hangi özel ders desteklerinin taşıdığı: otomatik istemler yerine talep üzerine örnekler ve ipuçları
+
 - [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — Yardım aramanın düzeyi değil yörüngesi, yardımsız matematik performansını öngörüyor
 - [[mihaylova-llm-feedback-live-programming-course-2026]] — Canlı bir programlama dersinde ipucu uzunluğunun sonraki gönderim doğruluğuna, denemelere ve süreye karşı ölçülmesi
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Kimsenin çağırmadığı bir yardımcı aracı (Humburg ve ark. 2025)

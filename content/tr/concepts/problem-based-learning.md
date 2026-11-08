@@ -9,7 +9,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Problem temelli öğrenme (PBL)** — öğrenci merkezli bir pedagoji; öğrenciler gerçekçi, sıklıkla kötü yapılandırılmış bir problemi anlamak ve çözmek için çalışarak bilgi ve beceri kazanır, öğretim sunan değil sorgulamayı yönlendiren bir kolaylaştırıcı eşlik eder. YZ çağında, PBL’nin yapısal özellikleri — problem güdümlü sorgulama, [[collaborative-learning|işbirlikçi bilgi inşası]], öğretim yerine kolaylaştırma ve [[metacognition|üst bilişsel yansıtma]] — [[generative-ai|üretici YZ]] bütünleştirmesinin ikame edici değil, eğitimsel açıdan üretken hale geldiği koşullar olarak öne çıkmıştır.
+> **Problem temelli öğrenme (PBL)** — öğrenci merkezli bir pedagoji; öğrenciler gerçekçi, sıklıkla kötü yapılandırılmış bir problemi anlamak ve çözmek için çalışarak bilgi ve beceri kazanır, öğretim sunan değil sorgulamayı yönlendiren bir kolaylaştırıcı eşlik eder. YZ çağında, PBL’nin yapısal özellikleri — problem güdümlü sorgulama, [[collaborative-learning|işbirlikçi bilgi inşası]], öğretim yerine kolaylaştırma ve [[reflection|üst bilişsel yansıtma]] — [[generative-ai|üretici YZ]] bütünleştirmesinin ikame edici değil, eğitimsel açıdan üretken hale geldiği koşullar olarak öne çıkmıştır.
 
 ## Dikkate Alınması Gereken Sorular
 
@@ -43,11 +43,11 @@ PBL, tıp eğitiminde doğdu (McMaster Üniversitesi, 1960’lar) ve o zamandan 
 
 Bilgi tabanının [[research-methods-aied|araştırması]], PBL’nin üretken YZ bütünleştirmesini düşünmenin odak noktası haline geldiğini gösterir.
 
-- **PBL’nin yapısal koşulları YZ bütünleştirmesini üretken kılar.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]], PBL’nin çekirdek özelliklerinin — problem güdümlü sorgulama, işbirlikçi inşa, kolaylaştırma, üst bilişsel yansıtma — YZ’nin çevresinden kısayol değil, [[educational-development|mesleki gelişimde]] bir ortak olarak işlev gördüğü koşullar olduğunu savunur. Uyum yapısaldır, sonradan gözlemlenen değildir: PBL, mesleki yeterliliğin rutin uygulamadan çok uyarlamalı yargı gerektirdiğine dair farkındalıktan beslenerek, YZ var olmadan önce bu koşullar çevresinde tasarlanmıştır.
+- **PBL’nin yapısal koşulları YZ bütünleştirmesini üretken kılar.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]], PBL’nin çekirdek özelliklerinin — problem güdümlü sorgulama, işbirlikçi inşa, kolaylaştırma, [[metacognition|üst bilişsel]] yansıtma — YZ’nin çevresinden kısayol değil, [[educational-development|mesleki gelişimde]] bir ortak olarak işlev gördüğü koşullar olduğunu savunur. Uyum yapısaldır, sonradan gözlemlenen değildir: PBL, mesleki yeterliliğin rutin uygulamadan çok uyarlamalı yargı gerektirdiğine dair farkındalıktan beslenerek, YZ var olmadan önce bu koşullar çevresinde tasarlanmıştır.
 - **YZ, problem karmaşıklığının tavanını yükseltir.** Aynı argüman, YZ’nin PBL’nin ele alabileceği problem kategorisini genişlettiğini, “inatçı problemleri” ve karmaşık gerçek dünya vakalarını önceden ona ulaşamayan öğrencilere erişilebilir kıldığını savurur.
 - **Ürün-vekil sorunu.** YZ, teslim edilen bir ürün ile onu üreten [[student-engagement|katılım]] arasındaki bağı koparır — PBL’nin ele almaya iyi durumda olduğu bir sorundur; çünkü PBL yalnızca ürünü değil, *süreci* ve gösterilen anlayışı değerlendirir. Bu, PBL’yi [[authentic-assessment|özgün]] ve [[process-oriented-assessment|süreç temelli değerlendirmeye]] ve bilgi tabanının [[cognitive-offloading|aşırı bağımlılık]] literatürüne bağlar.
 
-Üretici YZ destekli PBL’yi proje temelli öğrenme ile birleştiren üç düzeyli meta analiz, ürün ve çözüm performansını ayrı bir modelde tutar; çünkü bu, içselleştirilmiş öğrenmeden çok insan–YZ işbirlikçi çıktısını ölçer ve bu tahmin, eleştirmenlerin bildirdiği en büyük tahmindir (g = 1,958) — ancak yalnızca altı çalışmaya dayanır ve sıfırı kesen kabaca [−0,740, 4,656] %95 tahmin aralığını taşır: yukarıdaki ürün-vekil uyarısının nicel biçimi ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen ve ark. 2026]]).
+Üretici YZ destekli PBL’yi proje temelli öğrenme ile birleştiren üç düzeyli meta analiz, ürün ve çözüm performansını ayrı bir modelde tutar; çünkü bu, içselleştirilmiş öğrenmeden çok insan–YZ işbirlikçi çıktısını ölçer ve bu tahmin, eleştirmenlerin bildirdiği en büyük tahmindir (g = 1,958) — ancak yalnızca altı çalışmaya dayanır ve sıfırı kesen kabaca [−0,740, 4,656] %95 tahmin aralığını taşır: yukarıdaki ürün-vekil uyarısının [[quantitative-research|nicel]] biçimi ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen ve ark. 2026]]).
 - **ChatGPT, [[scaffolding|uyarlamalı iskeleleme]] olarak.** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|La Sunra ve ark. (2026)]], YZ destekli bir PBL çerçevesi içinde uyarlamalı iskeleleme olarak bütünleştirilen ChatGPT’nin, K-12’de (120 sekizinci sınıf öğrencisi) [[critical-thinking|eleştirel düşünceyi]] ve [[personalized-learning|kişiselleştirilmiş öğrenmeyi]] iyileştirdiğini gösterir. Bu, YZ’yi bir yanıt makinesi değil, PBL içinde bir destek olarak ele alır.
 - **Tartışma aşılayan bir ajan grup düşüncesini kırabilir.** Meslekler arası bir PBL oturumunda üç sabit noktada seslendirilen bir üretici YZ ajanı, tartışmalı bakış açıları sundu; öğrenciler, onu çürütmenin kendilerine sosyal açıdan hoş görülebilir bir ses yükseltme yolu verdiğini bildirdi; anlaşmazlık, ajanın yanıtlarını reddettiklerinde bile yansıtmayı teşvik etti ([[genai-counter-learner-groupthink-2025|Wiss ve ark. (2025)]]).
 - **Öğretmen adayı hazırlığından yarı-deneysel kanıt.** [[chen-osman-preservice-physics-tpack-ctd-pbl-2026|Chen ve Osman (2026)]], sekiz haftalık YZ destekli bir CTD-PBL modülünü 130 üçüncü sınıf [[physics-education|fizik]] öğretmen adayıyla (her koşulda 65) geleneksel öğretimle karşılaştırdı; DeepSeek, göreve özgü istek metni şablonlarıyla sınırlı bir iskele olarak kullanıldı — ders fikri üretimi, kaynak düzenleme, açıklama karşılaştırma, akran geri bildirim istemleri ve revizyon planlaması — ve her YZ çıktısının, bir öğretim ürününe girmeden önce içerik doğruluğu, pedagojik uygunluk, uygulanabilirlik ve [[ethics]] karşılaştırmasıyla doğrulanması şart koşuldu. Modül grubu daha yüksek son-test [[tpack|TPACK]] (M = 4,04’e karşı 3,40, d = 1,02) ve daha yüksek algılanan [[problem-solving|işbirlikçi problem çözme]] (M = 3,62’ye karşı 3,05, d = 0,88) bildirdi; en büyük etkileşim etkileri paylaşılan bilgi kurma ve sosyal düzenleme üzerine düştü — yukarıdaki yapısal argümanın YZ’nin kısayol değil güçlendirmesi gerektiğini öngördüğü, tam olarak işbirlikçi süreç boyutları. Yazarlar, YZ’nin bağımsız bir değişken olarak izole edilmediğini açıkça belirtir: farklı değişim, problem temelli görevlerin, yapılandırılmış işbirliğin, [[teacher-role|öğretim elemanı]] iskelelemesinin, [[peer-assessment|akran geri bildiriminin]] ve yansıtarak revizyonun bütün koşuluna bağlıdır; her iki sonuç da gözlemlenen uygulama değil, [[self-report-measures|öz bildirimle]] algılanan özelliklerdi.
@@ -61,6 +61,8 @@ Bilgi tabanının [[research-methods-aied|araştırması]], PBL’nin üretken Y
 ## PBL ve ilgili pedagojiler
 
 PBL, [[project-based-learning|proje temelli öğrenme]] ile yakından ilişkilidir — ikisi de öğrenci merkezli ve problem/bağlam güdümlüdür — ancak PBL, çözümü sorgulama ve bilgi inşası gerektiren kötü yapılandırılmış bir *problem* üzerinde odaklanır; proje temelli öğrenme ise somut bir *ürün* veya proje üretmeye. PBL ayrıca, problem güdümlü ve kolaylaştırmacı yapıyı paylaşan vaka temelli ve [[inquiry-based-learning|sorgulama temelli öğrenmeye]] benzerdir. Bilgi tabanının eşlemelemesinde, üretken YZ bütünleştirmesi lehindeki yapısal argüman, yalnızca PBL değil, bu özellikleri paylaşan her pedagoji için geçerlidir.
+
+[[case-based-learning|Vaka temelli öğrenme]] daha yakın komşudur: hazırlanmış bir vakadan ve tanımlı bir öğretim hedefinden başlar; PBL ise problemi daha açık ve sorgulamayı öğrenci güdümlü bırakır.
 
 ## YZ bütünleştirmesi açısından PBL neden önemlidir
 
@@ -81,6 +83,7 @@ PBL, süreci, işbirliğini ve ürün üretimi karşısında gösterilen anlayı
 ## Bağlı kavramlar
 
 - [[project-based-learning]]
+- [[case-based-learning]] — PBL’nin açık sorgulamasından ayrı olarak hazırlanmış vakalar ve vaka tartışması
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[scaffolding]]

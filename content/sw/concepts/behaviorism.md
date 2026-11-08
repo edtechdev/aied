@@ -8,7 +8,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/behaviorism
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -39,19 +39,22 @@ Behaviorism inashikilia kuwa kujifunza ni kuimarisha au kudhoofisha viunganishi 
 - **Kujifunza ni mabadiliko ya tabia.** Lengo ni mabadiliko unaoweza kupimwa katika utendaji, si uelewa uliowekwa ndani. Hii inafanya mifumo ya behaviorism iwe ya asili kwa matokeo yanayoweza kuonekana kama ufasaha, kasi, na usahihi.
 - **Kuimarisha husukuma kujifunza.** Majibu sahihi yanaimarishwa na makosa yanarekebishwa, kwa kawaida na maoni ya papo hapo — mfumo wa ubuni unaopatikana kote katika ualimu wa AI na mifumo ya mazoezi.([[ai-vocational-education-training-review]])
 - **Hatua ndogo na ngazi za msaada kwa kupanga muda.** Mafunzo yanagawanywa katika vitengo vinavyoongezeka na maoni katika kila hatua, vinavyofanana na jinsi mifumo yanayobadilika yanavyopanga mazoezi.
+
+- **Hatua ndogo ni dhana ya ubuni, na jaribio la nasibu la upangaji muda liliipinga.** Pamoja na wanafunzi 199 wa chuo kikuu cha Marekani, maoni yaliyopangwa kama kutiwa moyo, kisha vidokezo, kisha jibu yalizalisha kujifunza duni kuliko maoni ya suluhisho kamili yaliyotolewa papo hapo, ingawa wanafunzi waliona toleo lililopangwa kuwa la kutiwa moyo zaidi. Faida ya kihisia ilifutwa na njia ya tabia, uwasilishaji upya zaidi kwa kila kazi, na athari halisi ilikuwa kujifunza duni ([[sequenced-ai-feedback-learning]]).
+
 - **Mwanafunzi ni wa kupitisha kwa kiasi kikubwa katika ujenzi wa maarifa.** Mazingira (au mfumo) yanapanga na kulipa majibu; mwanafunzi anajibu badala ya kujenga maana — kinyume cha moja kwa moja na dhana za [[constructivist]].
 
 ## Behaviorism na AI katika elimu
 
 ### Mifumo ya behaviorism inatawala mazoezi
 
-Kazi za kisayansi zinapata kwa kurudia kuwa utekelezaji halisi wa AI ni wa **behaviorism au wa kiakili** kwa kiasi kikubwa — ikisisitiza mazoezi ya kawaida, [[feedback]] ya papo hapo, na mpangilio wa kasi unaobadilika — hata pale mazungumzo yanahubiri nadharia zilizo tajiri zaidi. [[meta-analysis-systematic-review|Mapitio ya kimfumo]] ya AI katika elimu ya ufundi na mafunzo (VET) ilihitimisha kuwa nadharia za ukustruktivisti zinahubiriwa katika mazungumzo ya VET huku **utekelezaji wa AI wa behaviorism ukitawala katika mazoezi**, na ilionya juu ya "Mtego wa Turing" wa kielimu — kutumia AI kurudia badala ya kuimarisha ufundishaji wa binadamu.([[ai-vocational-education-training-review]])
+Kazi za kisayansi zinapata kwa kurudia kuwa utekelezaji halisi wa AI ni wa **behaviorism au wa kiakili** kwa kiasi kikubwa — ikisisitiza mazoezi ya kawaida, [[feedback]] ya papo hapo, na mpangilio wa kasi unaobadilika — hata pale mazungumzo yanahubiri nadharia zilizo tajiri zaidi. [[meta-analysis-systematic-review|Mapitio ya kimfumo]] ya AI katika [[vocational-education|elimu ya ufundi na mafunzo]] (VET) ilihitimisha kuwa nadharia za ukustruktivisti zinahubiriwa katika mazungumzo ya VET huku **utekelezaji wa AI wa behaviorism ukitawala katika mazoezi**, na ilionya juu ya "Mtego wa Turing" wa kielimu ambapo AI inarudia ufundishaji wa binadamu badala ya kuuimarisha.([[ai-vocational-education-training-review]])
 
 ### Uwiano wa matokeo: wakati tabia haithibitishi tena kujifunza
 
 Behaviorism inafafanua kujifunza kama mabadiliko ya tabia inayoweza kuonekana, ambayo inafanya iwe nadharia inayoaibika zaidi na moja kwa moja na akili bandia ya kuzalisha: mwanafunzi anaweza sasa kuzalisha insha, uchanganuzi, au msimbo unaofanya kazi usio tofautishika na kazi ya mtu anayeshikilia uwezo ambao kazi inakusudiwa kuthibitisha. Tabia inayoweza kuonekana ni sawa wakati kujifunza kinaweza kutoonekana, hali ya kushindwa ambayo [[generativism-learning-theory|Uzalishaji]] inaiita tatizo la uwiano wa tabia.
 
-Pengo kati ya utendaji na kujifunza si jipya, lakini AI linapana. Katika jaribio la uwanja lenye wanafunzi wa karibu elfu moja wa hisabati ya shule ya upili, upatikanaji bila vikomo wa msaidizi wa kawaida uliongeza utendaji wa mazoezi kwa asilimia 48 huku wanafunzi hao wakipata alama za asilimia 17 chini ya marika waliozoea bila AI katika mtihani bila msaada; toleo la mwalimu lililo na vizuizi liliondoa hasa upungufu huo ([[genai-performance-vs-learning]]). Kwa kusoma kwa tabia, somo ni kuhusu upimaji badala ya mbinu za kielimu: mfumo unaoboresha matokeo unaweza kuridhisha kigezo cha kujifunza cha nadharia yenyewe huku ukishindwa kusudi lake.
+Pengo kati ya utendaji na kujifunza si jipya, lakini AI linapana. Katika jaribio la uwanja lenye wanafunzi wa karibu elfu moja wa hisabati ya shule ya upili, upatikanaji bila vikomo wa msaidizi wa kawaida uliongeza utendaji wa mazoezi kwa asilimia 48 huku wanafunzi hao wakipata alama za asilimia 17 chini ya marika waliozoea bila AI katika mtihani bila msaada; toleo la [[guardrails|mwalimu lililo na vizuizi]] liliondoa hasa upungufu huo ([[genai-performance-vs-learning]]). Kwa kusoma kwa tabia, somo ni kuhusu upimaji badala ya [[pedagogy|mbinu za kielimu]]: mfumo unaoboresha matokeo unaweza kuridhisha kigezo cha kujifunza cha nadharia yenyewe huku ukishindwa kusudi lake.
 
 ### Mvutano na ukustruktivisti na wakala
 
@@ -69,7 +72,7 @@ Swali la ubuni si kama behaviorism ni "sahihi" bali kama mbinu za behaviorism za
 
 ## Behaviorism na "elimu kuhusu AI"
 
-Behaviorism pia inaonekana katika jinsi wanafunzi wanavyokutana na AI kama somo. Nadharia ni mojawapo ya [[learning-theories|nadharia nne zinazotawala]] za kujifunza — behaviorism, ufahamu wa kiakili, ukustruktivisti, na uunganishaji — ambazo [[generative-ai|akili bandia ya kuzalisha]] inawahimiza waelimishaji kuzibadilisha.([[generativism-learning-theory]]) Pia inarejelewa katika miktadha ya ushirikiano na ubuni kama sehemu ya mandhari ya nadharia wanafunzi wanayofundishwa.([[ccct-cooperative-learning-technique]]) Kuelewa behaviorism husaidia wanafunzi kuona kwa nini zana nyingi za AI (na bidhaa zilizojengwa juu yake) zimebuniwa kwa majibu-na-kuimarisha badala ya ujenji wa kina zaidi.
+Behaviorism pia inaonekana katika jinsi wanafunzi wanavyokutana na AI kama somo. Nadharia ni mojawapo ya [[learning-theories|nadharia nne zinazotawala]] za kujifunza — behaviorism, ufahamu wa kiakili, ukustruktivisti, na uunganishaji — ambazo [[generative-ai|akili bandia ya kuzalisha]] [[prompt-engineering|inawahimiza]] waelimishaji kuzibadilisha.([[generativism-learning-theory]]) Pia inarejelewa katika miktadha ya ushirikiano na ubuni kama sehemu ya mandhari ya nadharia wanafunzi wanayofundishwa.([[ccct-cooperative-learning-technique]]) Kuelewa behaviorism husaidia wanafunzi kuona kwa nini zana nyingi za AI (na bidhaa zilizojengwa juu yake) zimebuniwa kwa majibu-na-kuimarisha badala ya ujenji wa kina zaidi.
 
 ## Athari kwa ubini na utafiti
 
@@ -108,3 +111,6 @@ Behaviorism pia inaonekana katika jinsi wanafunzi wanavyokutana na AI kama somo.
 - [[generativism-learning-theory]] — Behaviorism miongoni mwa nadharia nne zinazotawala ambazo akili bandia ya kuzalisha inahimiza kuzibadilisha
 - [[ccct-cooperative-learning-technique]] — Behaviorism inarejelewa katika ubini wa kujifunza kwa ushirikiano kwa elimu ya juu
 - [[wang-multi-agent-systems-learning-designers-2025]] — Tabia ya behaviorism miongoni mwa mbinu za ubini za wakala wengi wa kushirikiana
+
+- [[sequenced-ai-feedback-learning]] — Maoni ya vidokezo yaliyopangwa yalifanya vibaya kuliko maoni ya suluhisho kamili ya papo hapo katika jaribio la nasibu la washiriki 199
+

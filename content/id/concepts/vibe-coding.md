@@ -9,9 +9,9 @@ audience: [instructors, curriculum designers, researchers, software developers]
 level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T14:14:01-05:00"
 translation_of: "concepts/vibe-coding"
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,7 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-> **Vibe coding** — membangun perangkat lunak dengan mem-prompt model bahasa besar secara iteratif dan menilai perilaku yang dihasilkan, tanpa membaca atau menyunting kode sumber yang mendasarinya secara langsung. Dipopulerkan Andrej Karpathy pada 2025 sebagai alur kerja di mana seseorang "melupakan bahwa kodenya bahkan ada," vibe coding adalah perwujudan asli LLM dari pemrograman bahasa alami dan pengembangan pengguna akhir — pembingkaian yang kini diperlakukan sebagai sinonim dalam basis pengetahuan ini — di mana prosa menjadi antarmuka pemrograman utama.
+> **Vibe coding** — membangun perangkat lunak dengan mem-prompt [[llm|model bahasa besar]] secara iteratif dan menilai perilaku yang dihasilkan, tanpa membaca atau menyunting kode sumber yang mendasarinya secara langsung. Dipopulerkan Andrej Karpathy pada 2025 sebagai alur kerja di mana seseorang "melupakan bahwa kodenya bahkan ada," vibe coding adalah perwujudan asli LLM dari pemrograman bahasa alami dan pengembangan pengguna akhir — pembingkaian yang kini diperlakukan sebagai sinonim dalam basis pengetahuan ini — di mana prosa menjadi antarmuka pemrograman utama.
 
 ## Pertanyaan yang Perlu Dipertimbangkan
 
@@ -49,7 +49,7 @@ Studi lintas-seksi terpreregistrasi (N = 100 mahasiswa tersier) memberikan bukti
 
 ### Vibe coding sebagai pengembangan pengguna akhir dan perkakas guru
 
-Janji utama vibe coding adalah ia memungkinkan non-pemrogram — termasuk [[teacher-role|guru]] dan pakar domain — membangun perangkat lunak mereka sendiri, suatu bentuk pengembangan pengguna akhir di era LLM. [[gaide-vibe-coding-k12-teachers|Studi kerangka GAIDE]] menunjukkan guru K-12 (non-pemrogram) menggunakan vibe coding dalam lokakarya delapan pekan untuk menciptakan alat pembelajaran berbasis AI, menaikkan [[ai-literacy|literasi AI]] mereka dan mendemonstrasikan "belajar-dengan-menciptakan" sebagai model pengembangan profesional. Di pendidikan tinggi, seorang instruktur dengan cepat membangun [[vibe-coding-programming-process-visualizer|visualisator proses pemrograman dari log aktivitas IDE]] melalui vibe coding dalam hitungan hari, membuat proses pemrograman siswa terlihat untuk pengajaran dan tinjauan [[academic-integrity|integritas akademik]]. Kasus-kasus ini memosisikan vibe coding bukan sekadar keterampilan pembelajar melainkan kapabilitas pengarangan yang [[educational-development|membentuk ulang siapa yang dapat menciptakan teknologi pendidikan]].
+Janji utama vibe coding adalah ia memungkinkan non-pemrogram — termasuk [[teacher-role|guru]] dan pakar domain — membangun perangkat lunak mereka sendiri, suatu bentuk pengembangan pengguna akhir di era LLM. [[gaide-vibe-coding-k12-teachers|Studi kerangka GAIDE]] menunjukkan guru [[k-12|K-12]] (non-pemrogram) menggunakan vibe coding dalam lokakarya delapan pekan untuk menciptakan alat pembelajaran berbasis AI, menaikkan [[ai-literacy|literasi AI]] mereka dan mendemonstrasikan "belajar-dengan-menciptakan" sebagai model pengembangan profesional. Di [[higher-ed|pendidikan tinggi]], seorang instruktur dengan cepat membangun [[vibe-coding-programming-process-visualizer|visualisator proses pemrograman dari log aktivitas IDE]] melalui vibe coding dalam hitungan hari, membuat proses pemrograman siswa terlihat untuk pengajaran dan tinjauan [[academic-integrity|integritas akademik]]. Kasus-kasus ini memosisikan vibe coding bukan sekadar keterampilan pembelajar melainkan kapabilitas pengarangan yang [[educational-development|membentuk ulang siapa yang dapat menciptakan teknologi pendidikan]].
 
 ### Homogenisasi desain: akses tanpa keragaman
 
@@ -59,7 +59,7 @@ Janji pengembangan pengguna akhir vibe coding adalah tentang siapa yang dapat me
 
 Vibe coding membuka kembali pertanyaan inti tentang apa yang dipelajari ketika AI mengotomasi implementasi. Karena pengguna tidak membaca kode, mereka harus memercayai perilaku model — yang menjadikan vibe coding kasus berisiko tinggi dari ketegangan antara [[agency|agensi]] dan [[cognitive-offloading|ketergantungan berlebih]] yang mengalir melalui pemrograman berbantuan AI. Kurikulum merespons dengan bergeser dari mengajarkan implementasi menuju mengajarkan cara mengarahkan, memverifikasi, dan mengaudit artefak yang dihasilkan AI (lihat [[reshaping-cs-education-genai|membentuk ulang sarjana ilmu komputer]] dan [[agentic-ai|rekayasa perangkat lunak agensik]]). Vibe coding juga mengubah posisi epistemik pembelajar: keberhasilan kurang bergantung pada menulis kode daripada pada mengungkapkan niat secara tepat dan mengevaluasi perilaku terhadap tujuan, kompetensi yang lebih dekat ke [[computational-thinking|berpikir komputasional]] dan penulisan terstruktur daripada penguasaan sintaksis tradisional.
 
-Batas kedua muncul dalam proses membangunnya sendiri: menghilangkan hambatan pengodean dapat membiarkan beban diagnosis tak tersentuh. Dua studi kasus teknik meminta seorang instruktur membangun simulasi web yang berfungsi untuk sistem manajemen termal baterai dan tiga protokol ARQ dengan mem-prompt Gemini dalam bahasa biasa dalam beberapa jam ([[caee-vibe-coding-simulation-development-engineering-education-2026|Tarasak et al. (2026)]]). Kesalahan paket duplikat kemudian bertahan melalui prompt berulang, termasuk satu yang menyatakan perilaku yang dibutuhkan. Kesalahan itu hanya diperbaiki ketika instruktur menalar dari perilaku protokol menuju interval timeout yang tidak memadai, parameter yang tidak pernah diekspos antarmukanya. Efek kedua simulasi terhadap pembelajaran tidak diukur, sehingga laporannya menetapkan kelayakan alih-alih efektivitas.
+Batas kedua muncul dalam proses membangunnya sendiri: menghilangkan hambatan pengodean dapat membiarkan beban diagnosis tak tersentuh. Dua studi kasus teknik meminta seorang instruktur membangun [[simulation|simulasi]] web yang berfungsi untuk sistem manajemen termal baterai dan tiga protokol ARQ dengan mem-prompt Gemini dalam bahasa biasa dalam beberapa jam ([[caee-vibe-coding-simulation-development-engineering-education-2026|Tarasak et al. (2026)]]). Kesalahan paket duplikat kemudian bertahan melalui prompt berulang, termasuk satu yang menyatakan perilaku yang dibutuhkan. Kesalahan itu hanya diperbaiki ketika instruktur menalar dari perilaku protokol menuju interval timeout yang tidak memadai, parameter yang tidak pernah diekspos antarmukanya. Efek kedua simulasi terhadap pembelajaran tidak diukur, sehingga laporannya menetapkan kelayakan alih-alih efektivitas.
 
 ### Koneksi ke konsep terkait
 
@@ -81,7 +81,7 @@ Studi kasus tingkat fakultas dalam basis pengetahuan ini menyediakan lapisan org
 
 **Bagi instruktur dan pendidik guru**
 
-- Ajarkan perbedaan antara vibe coding murni dan yang terlihat kodenya secara eksplisit, dan tuntut yang kedua untuk apa pun yang akan menangani data siswa. Perbedaan itu adalah kebiasaan yang dapat diajarkan, bukan kehalusan filosofis.
+- Ajarkan perbedaan antara vibe coding murni dan yang terlihat kodenya secara eksplisit, dan tuntut yang kedua untuk apa pun yang akan menangani data siswa. Perbedaan itu adalah kebiasaan yang dapat diajarkan, bukan kehalusan [[philosophy-of-ai-in-education|filosofis]].
 - Pertahankan satu jalur pemrograman nyata di samping pekerjaan vibe coding, karena prestasi ilmu komputer membawa sekitar dua kali varians prediktif unik. Memperlakukan spesifikasi bahasa alami sebagai pengganti penuh membuang prediktor yang lebih kuat.
 - Minta siswa mengevaluasi artefak secara perilaku *dan* memeriksa sumber dari apa pun yang mereka terapkan. Membaca kode yang dihasilkan adalah keterampilan tinjauan, dan itu tidak otomatis bagi siswa yang dapat mem-prompt.
 
@@ -93,7 +93,7 @@ Studi kasus tingkat fakultas dalam basis pengetahuan ini menyediakan lapisan org
 
 **Bagi peneliti**
 
-- Laporkan kondisi vibe coding (murni versus terlihat kodenya) bersama hasilnya, dan gunakan tugas berorientasi GUI yang tervalidasi pakar alih-alih keberhasilan yang dilaporkan sendiri, agar hasil dapat dibandingkan antarstudi.
+- Laporkan kondisi vibe coding (murni versus terlihat kodenya) bersama hasilnya, dan gunakan tugas berorientasi GUI yang tervalidasi pakar alih-alih [[self-report-measures|keberhasilan yang dilaporkan sendiri]], agar hasil dapat dibandingkan antarstudi.
 - Ukur keragaman artefak, bukan hanya jumlah artefak atau jumlah pembangun, jika argumen akses sedang diuji.
 
 ## Konsep terkait

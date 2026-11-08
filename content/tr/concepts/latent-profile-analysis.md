@@ -5,7 +5,7 @@ type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ LPA, örneklemin göstergeler üzerinde kendi ortalamalarına ve varyanslarına 
 
 - **LCA — kategorik göstergeler.** Becker ve arkadaşları, 1.189 fizik öğrencisinin açık uçlu yanıtlarından kodlanmış yanıt kategorilerini gösterge değişkenlerine dönüştürdü ve iki sınıf elde tuttu: Pragmatik Kullanıcılar (%70) ve Şüpheci Kullanmayanlar (%30); sözü edilmeyen bir konu “onay yok” olarak sayıldığından yazarlar analiz veri çerçevesinde sıfır-şişkinliğe dikkat çeker.
 - **LPA — sürekli göstergeler**, örneğin ölçek puanları ve yapı ölçütleri. Chen ve arkadaşları 128 Tayvanlı hizmet öncesi öğretmeni beş [[technology-acceptance-model|TAM]]/UTAUT2 yapısında profillendi; Acquah ve arkadaşları 509 Ganalı lisans öğrencisini üç etik farkındalık boyutunda profillendi; Schweder ve arkadaşları 2.464 öğrenciyi [[motivation|motivasyonel]] ihtiyaç doyumu üzerinden profillendi.
-- **Gizli (profil) geçiş analizi** aileyi zaman içinde genişletir; her dalga için profilleri ve bunlar arasında geçiş olasılığını tahmin eder. Liang ve arkadaşları 2.086 öğrencinin YZ öğrenme motivasyonunu bir yıl boyunca izledi; Wu 457 Japonca öğrencisini üç dalga boyunca izledi ve uyumsuz profil %26,48’den %17,74’e küçüldü.
+- **Gizli (profil) geçiş analizi** aileyi zaman içinde genişletir; her dalga için profilleri ve bunlar arasında geçiş olasılığını tahmin eder. Liang ve arkadaşları 2.086 öğrencinin YZ öğrenme motivasyonunu bir yıl boyunca izledi; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] 457 Japonca öğrencisini üç dalga boyunca izledi ve uyumsuz profil %26,48’den %17,74’e küçüldü.
 
 Sıradan kümeleme ([[machine-learning|k-ortalamalar]] ve hiyerarşik) aynı kişi merkezli amacı izler ama durumları olasılık modeli tahmin etmek yerine geometrik uzaklıkla böler. Soru alt gruplarla ilgiliyse — “öğrenen”nin örnekleminizin toplulaştırma düzeyinde bir kurgu olup olmadığı ve alt grupların düzeyin yanı sıra şekilce de farklılaşıp farklılaşmadığı — LPA ya da LCA’ya başvurun. Ortalama bir tedavi etkisine gereksiniminiz olduğunda başvurmayın: bir [[intelligent-tutoring|uyarlanabilir özel ders asistanının]] [[rct|rastgele denemesi]] içindeki beş profilli çözüm, son test farklılıklarını öngördü (kısmi η² = ,27) ama koşul × profil etkileşimi bulmadı (ps ≥ ,198).
 

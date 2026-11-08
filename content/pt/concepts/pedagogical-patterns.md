@@ -1,7 +1,7 @@
 ---
 title: Padrões pedagógicos
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:17:55-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-11-04T17:29:51-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 - Um padrão é uma *sequência*, não uma ferramenta. Pegue uma tarefa que você ensina e escreva a ordem dos movimentos que um estudante faz. Onde nessa ordem a IA ajudaria, e onde ela faria o trabalho que o estudante deveria fazer?
 - Vários padrões aqui dão deliberadamente à IA um papel *fraco* — dicas em vez de respostas, perguntas em vez de correções. Por que um tutor deliberadamente menos prestativo produziria melhor aprendizagem, e o que isso implica sobre as ferramentas de IA que sua instituição está comprando?
 - O padrão mais bem evidenciado nesta página ([[learning-by-teaching|aprender ensinando]] a uma IA) pede aos estudantes que expliquem, e melhora a qualidade da explicação e das questões, mas *não* o recall objetivo. Se você o adotasse, o que mudaria na forma como você avalia?
-- Quando o [[ai-feedback-quality|feedback da IA]] era de qualidade mais alta que o do professor, os estudantes não revisaram mais. O que isso sugere sobre a diferença entre produzir feedback e fazer os estudantes o usarem?
+- Quando o [[ai-feedback-quality|feedback da IA]] era de qualidade mais alta que o do [[teacher-role|professor]], os estudantes não revisaram mais. O que isso sugere sobre a diferença entre produzir feedback e fazer os estudantes o usarem?
 - Contextos mudam a resposta: alguns padrões foram testados online e de forma assíncrona, outros presencialmente com laboratório. Quais destes você conseguiria executar no seu contexto sem novas ferramentas, e quais precisariam de infraestrutura que você não tem?
 - Quase todo padrão aqui mantém um humano no ponto de julgamento — correção, verificação ou interpretação. Isso é uma escolha de desenho, uma necessidade baseada em evidência, ou uma limitação do que foi testado até agora?
 
@@ -60,6 +60,8 @@ Esses padrões compartilham uma afirmação estrutural: o estudante precisa se c
 
 Uma condição de recuperação espaçada adaptativa produziu as maiores notas no pós-teste (M = 78,19) e superou significativamente o estudo com IA dirigido pelo estudante (M = 67,28, d = 0,92, p = ,003) ao longo de 89 estudantes num curso misto de estatística, enquanto o espaçamento fixo foi estatisticamente indistinguível do adaptativo ([[adaptive-pretesting-retention|Akgun & Toker, 2026]]). O caso de contraste é decisivo: num [[rct|ensaio randomizado]] com 120 estudantes, o grupo que estudou *com* o ChatGPT irrestrito reteve menos num teste surpresa 45 dias depois — 57,5% de acerto contra 68,5% dos estudantes tradicionais, t(83) = −3,19, p = ,002, d = 0,68 — e também havia estudado cerca de 45% menos, com a desvantagem sobrevivendo a uma covariável de tempo de estudo ([[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui, 2025]]). Um experimento de campo randomizado e pré-registrado num MBA online descobriu que os ganhos acompanhavam as *semanas concluídas*, e não os minutos de exposição (+2,00 pontos por semana adicional de tutoria concluída, p = ,018), lido como a [[retrieval-spacing-interleaving|prática espaçada]] importando mais que o tempo total ([[ai-tutor-modality-randomized-field-experiment-2026|Yang et al., 2026]]).
 
+O caso causal para a regra é um experimento de campo em cerca de 50 turmas de matemática do ensino médio turco, com quase 1.000 estudantes ([[generative-ai-guardrails-harm-learning|Bastani et al., 2025]]). O GPT-4 irrestrito elevou o desempenho na prática assistida em 48% e cortou em 17% o do exame sem assistência contra o controle, enquanto um GPT-4 com salvaguardas elevou a prática em 127% e deixou o exame essencialmente inalterado. As [[guardrails|salvaguardas]] eram apenas duas: dicas em vez de respostas, e conteúdo específico do problema redigido pelo professor (solução correta, erros comuns) semeado no prompt para que as dicas fossem precisas. Os dados de engajamento localizaram o dano na cópia, já que os estudantes sem salvaguardas majoritariamente pediam respostas, e os estudantes de ambos os braços de IA julgaram mal a própria aprendizagem.
+
 ### Falência produtiva: tentar antes da instrução
 
 **Evidência: mista, e mais rarefeita do que sua reputação.** Os estudantes tentam um problema que visa um conceito que não lhes foi ensinado, o tutor retém a solução e elicia múltiplas tentativas, a ajuda vem apenas quando estritamente necessária, e a consolidação se segue com comparação e instrução direta.
@@ -78,6 +80,8 @@ Um estudo pré-pós com 13 estudantes num curso online de banco de dados subiu d
 
 Atribuir adaptativamente exemplos guiados e buggy superou a atribuição aleatória de tipos de problema num estudo de sala de aula com 113 estudantes (pós-teste M = 72,3 e 72,5 contra 65,5 do controle, A = ,58, p = ,005 e p = ,002), e a variante de [[knowledge-tracing|rastreamento de conhecimento]] estreitou a lacuna de desempenho em 77,1% para estudantes de baixo [[prior-knowledge|conhecimento prévio]] (β = 9,4, p = ,001) ([[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al., 2026]]). Mas *acrescentar* o passo de autoexplicação ao feedback elaborado de IA perdeu em todas as medidas num experimento pré-registrado com 302 participantes: dobrou o tempo de feedback (4,1 vs. 2,1 min, p < ,001), cortou os problemas concluídos em 40% (2,0 vs. 3,4, p < ,001), não produziu ganho por episódio (OR = 1,03, p = ,486) e reduziu a maestria ao fim da sessão (65% vs. 79%, d = ,41, p < ,001) ([[structured-reflection-ai-explanatory-feedback-2026|Asher et al., 2025]]).
 
+Quantos exemplos dar antes da prática é, ele mesmo, dependente do conteúdo, algo que o enquadre da seção de "exemplos resolvidos e então problemas" deixa em aberto. Num experimento 2×2 com 95 participantes sobre materiais de área de geometria, o treino apenas com prática produziu ganhos maiores para fatos literais, enquanto alternar exemplos com prática produziu ganhos maiores para habilidades generalizáveis (β = 0,41, p = ,038, d = 0,38) ([[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger e Carvalho, 2025]]). Uma sequência não pode ser julgada como exemplos resolvidos contra prática no abstrato, porque a mistura correta decorre de o alvo ser um fato ou uma habilidade.
+
 ## Padrões que emparelham feedback de IA com feedback humano
 
 O achado mais replicado da base de conhecimento sobre o feedback da IA é que ele funciona melhor *combinado* com feedback humano do que isoladamente — e que sua qualidade não é o que determina se os estudantes o usam.
@@ -87,6 +91,8 @@ O achado mais replicado da base de conhecimento sobre o feedback da IA é que el
 **Evidência: mista (amplamente implementado, não controlado).** Os estudantes leem e refletem sobre como a IA e o feedback funcionam, rascunham, dão e recebem revisão por pares, solicitam à IA feedback orientado por critérios sobre o mesmo rascunho, comparam criticamente ambos, escrevem um plano de revisão, revisam e refletem sobre qual feedback mudou o quê.
 
 O maior estudo até hoje sobre o uso de feedback de IA por estudantes universitários acompanhou 654 estudantes ao longo de dez cursos de escrita e três cursos de [[stem-education|STEM]] intensivos em escrita: 58% preferiram feedback combinado de ChatGPT e de [[peer-assessment|pares]], 36% apenas de pares e apenas 6% apenas de IA; 75% acharam os dois similares e mutuamente reforçadores; o feedback da IA foi chamado de \"excessivamente geral\" por 31%, enquanto o feedback dos pares foi mais específico para 28%; e apenas 5,3% mostraram excesso de confiança no feedback da IA ([[pairr-ai-peer-review-2025|Sperber et al., 2025]]). O modelo também foi executado num curso de escrita de negócios de divisão superior com 34 estudantes, onde cerca de um quarto das reflexões codificadas expressou ceticismo ou notou imprecisões no feedback da IA ([[gift-ai-pairr-business-writing-2025|MacArthur et al., 2025]]). Ambos reportam dados de percepção; nenhum tem condição de controle, e é por isso que o padrão é *misto* em vez de *testado*.
+
+Um terceiro relato da mesma implementação de 2024 pergunta como os estudantes chamam a ferramenta, e não como a avaliaram. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] descrevem 13 seções de 10 cursos intensivos em escrita e 654 estudantes, e relatam que apenas cerca de metade (51,7%) adotou os papéis de tutor ou colaborador que o prompt de reflexão oferecia. O restante nomeou uma ferramenta, um programa, um robô ou um computador, ou inventou metáforas como uma máquina de venda automática de feedback. Os autores leem esse vocabulário como o desfecho de letramento e como evidência de agência de escritor, e seus dados são perceptuais da mesma forma, de modo que o grau de evidência acima não muda.
 
 ### Feedback combinado de pares e de IA
 
@@ -134,7 +140,7 @@ Um quase-experimento com 68 futuros professores descobriu que explicar a um apre
 
 **Evidência: testada, mas em contextos controlados ou não controlados, e não em salas de aula comuns.** Dois estudantes compartilham uma IA e recebem papéis explícitos com regras de rotação; a IA é configurada para assumir um papel conforme necessário, e sua saída vai para todo o grupo. Numa variante de programação em dupla, a IA compartilhada modela a atenção e o esforço conjuntos da díade, prevê um colapso até 30 segundos antes e escala scaffolds em níveis, de não fazer nada até uma dica diretiva.
 
-Um experimento within-subjects com 26 díades descobriu que a condição de feedback alcançou maior sucesso em depuração (t[49,96] = −13,51, p < ,0001) e terminou mais rápido (t[44,70] = 4,39, p < ,0001), embora tenha exigido hardware duplo de rastreamento ocular e pupilometria e não tenha testado a transferência para trabalho em dupla não supervisionado ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). Um quase-experimento com 58 estudantes de pós-graduação em 16 grupos descobriu que o desenho de papéis elevou as notas de conteúdo de mapas mentais de 3,65 para 4,59 numa escala SOLO de 1–5 (z = 3,771, p < 0,001), enquanto as contagens de nós e ramos ficaram estáveis — mas sem grupo controle, efeitos de prática não podem ser descartados ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
+Um experimento within-subjects com 26 díades descobriu que a condição de feedback alcançou maior sucesso em depuração (t[49,96] = −13,51, p < ,0001) e terminou mais rápido (t[44,70] = 4,39, p < ,0001), embora tenha exigido hardware duplo de [[sensor-and-gaze-analytics|rastreamento ocular]] e pupilometria e não tenha testado a transferência para trabalho em dupla não supervisionado ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). Um quase-experimento com 58 estudantes de pós-graduação em 16 grupos descobriu que o desenho de papéis elevou as notas de conteúdo de mapas mentais de 3,65 para 4,59 numa escala SOLO de 1–5 (z = 3,771, p < 0,001), enquanto as contagens de nós e ramos ficaram estáveis — mas sem grupo controle, efeitos de prática não podem ser descartados ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
 
 ### Discussão assistida por IA
 
@@ -152,7 +158,7 @@ Um experimento pré-registrado com 375 adultos descobriu que o diálogo de IA pe
 
 ## Contextos e disciplinas
 
-O padrão determina o que o contexto exige, e vários padrões foram testados em apenas um contexto:
+O padrão determina o que o contexto exige, e vários padrões foram testados em apenas um contexto. Estimativas agrupadas tornam essa dependência [[quantitative-research|quantitativa]]. Ao longo de 35 estudos experimentais e quase experimentais e 175 tamanhos de efeito, o efeito agrupado da IA generativa no [[learning-gains|desempenho acadêmico]] de graduandos foi g = 0,46, e o modelo de ensino o moderou (Q = 14,63, p = 0,001). Salas de aula invertidas alcançaram g = 1,96 a partir de 7 tamanhos de efeito, salas tradicionais g = 0,46, e a [[self-directed-learning|aprendizagem autodirigida]] g = 0,26 ([[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing et al., 2026]]). A duração da intervenção também o moderou, com o efeito no desempenho acadêmico caindo de g = 5,07 em 0 a 4 semanas para g = 0,01 além de 12 semanas. Os autores tratam as estimativas muito grandes de curta duração como descritivas e não generalizáveis, de modo que um tamanho de efeito para "IA no ensino" é uma afirmação sobre um desenho, e os padrões aqui são esses desenhos.
 
 - **Online e assíncrono.** Recuperação e espaçamento, as variantes socráticas, exemplos resolvidos com autoexplicação, uso com scaffolding de prompt, [[oral-assessment|avaliação oral]] assíncrona, e as implantações de aprender ensinando. Contextos assíncronos tornam o *sequenciamento* portador de carga, porque o sistema não consegue ver se o estudante tentou primeiro.
 - **Presencial e misto.** [[productive-failure|Falência produtiva]], análise de erros, as variantes invertidas, revisão oral de código, colaboração roteirizada e os estudos de mudança conceitual. O tempo de aula é frequentemente realocado em vez de substituído — no padrão de revisão oral, as aulas migraram para vídeo para que o tempo de aula pudesse abrigar as entrevistas.
@@ -185,7 +191,7 @@ As próprias ressalvas do guia se aplicam: vídeo gravado, reflexões e registro
 ## Ideias equivocadas comuns
 
 - **"Qualquer prática fornecida por IA é prática."** Uma condição de recuperação espaçada adaptativa produziu **as maiores notas no pós-teste (M = 78,19)** e **superou significativamente o estudo com IA dirigido pelo estudante (M = 67,28)**. O arranjo dirigido pelo estudante ficou abaixo de um arranjo estruturado, de modo que autonomia não é automaticamente o melhor desenho.
-- **"Estudar com um chatbot é melhor do que estudar sem."** O **caso de contraste é decisivo**: em um [[rct|ensaio randomizado]] com **120 estudantes**, o grupo que estudou **com** ChatGPT irrestrito reteve **menos em um teste surpresa**. A ferramenta foi prejudicial à retenção no arranjo testado.
+- **"Estudar com um [[conversational-ai|chatbot]] é melhor do que estudar sem."** **O contraexemplo é decisivo**: em um [[rct|ensaio randomizado]] com **120 estudantes**, os que trabalharam com ChatGPT irrestrito lembraram **menos quando testados sem aviso** do que os que não trabalharam. A ferramenta foi prejudicial à retenção no arranjo testado.
 - **"A evidência do padrão é um grande ensaio agrupado."** O **apoio mais forte é indireto** e vem de um **experimento randomizado intrassujeitos com 26 estudantes**, no qual o [[scaffolding]] de resposta imediata teve desempenho significativamente diferente. A evidência sustenta o padrão e segue limitada em escala, e a página deve ser lida assim.
 
 ## Conceitos conectados
@@ -224,7 +230,8 @@ As próprias ressalvas do guia se aplicam: vídeo gravado, reflexões e registro
 ## Artigos conectados
 
 - [[pairr-ai-peer-review-2025]] — Revisão por pares e por IA + Reflexão (PAIRR): a sequência carro-chefe, N = 654 (Sperber et al. 2025)
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR aplicado num curso de escrita de negócios (MacArthur et al. 2025)
+- [[gift-ai-pairr-business-writing-2025]] — PAIRR aplicado em um curso de escrita de negócios (MacArthur et al. 2025)
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Como 654 estudantes chamaram o chatbot: 51,7% assumiram os papéis de tutor ou colaborador oferecidos (Stillman et al. 2026)
 - [[ai-peer-feedback-l2-writing-engagement-2026]] — O feedback integrado de IA mais pares elevou o engajamento e todas as quatro dimensões do IELTS (Liu 2026)
 - [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Feedback de pares com GenAI e scaffolding de prompt na argumentação colaborativa (Chang et al. 2026)
 - [[rethinking-ai-writing-feedback-literacy|Dai (2026)]] — Treinar estudantes a filtrar e avaliar o feedback da IA: as condições FRAC e APCA

@@ -1,7 +1,7 @@
 ---
 title: "Transferência da aprendizagem"
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:38:41-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,7 +9,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-10-25T22:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 A transferência da aprendizagem é uma preocupação fundacional na [[research-methods-aied|pesquisa]] em educação, e as ferramentas de IA a tornaram urgente. O padrão empírico definidor documentado ao longo dos estudos de IA em educação é um **paradoxo da transferência**: os estudantes que usam IA tipicamente mostram ganhos imediatos e mensuráveis nas tarefas em que a IA está disponível, mas esses ganhos frequentemente deixam de persistir — ou até se invertem — quando a IA é removida e os estudantes precisam demonstrar compreensão de forma independente. Esse padrão implica a [[cognitive-offloading|dependência excessiva]], a Teoria da Carga Cognitiva e a [[metacognition|metacognição]] como os mecanismos em ação, e se conecta diretamente aos debates sobre o desenho da [[intelligent-tutoring|tutoria por IA]].
 
 
-Prontidão não é transferência: a prática falada assistida por IA foi associada a menor ansiedade de falar e maior vontade de se comunicar com humanos, mas nenhum dos estudos observou a fala humana, deixando a rota do ensaio com IA para a capacidade comunicativa humana como uma proposta pedagógica não testada ([[ai-speaking-practice-communicative-readiness-2026|Wang e Li (2026)]]).
+Prontidão não é transferência: a prática falada assistida por IA foi associada a menor [[anxiety-and-stress|ansiedade]] de falar e maior vontade de se comunicar com humanos, mas nenhum dos estudos observou a fala humana, deixando a rota do ensaio com IA para a capacidade comunicativa humana como uma proposta pedagógica não testada ([[ai-speaking-practice-communicative-readiness-2026|Wang e Li (2026)]]).
 
 ### O paradoxo da transferência
 
@@ -74,7 +74,7 @@ Os cinco estudos mostram um padrão de **transferência negativa ou nula** quand
 **Desempenho dependente da ferramenta.** Os estudantes podem otimizar para as affordances específicas da ferramenta de IA ([[prompt-engineering|prompt engineering]], dependência da estrutura de código gerada) em vez de construir generalização de domínio — uma forma de [[cognitive-offloading-speedup-illusion|descarregamento cognitivo]] que parece produtiva, mas desloca a aprendizagem durável.
 
 
-Uma sala de aula protegida também pode ensinar o hábito errado: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai e Zhang (2026)]] advertem que simulações com regras fixadas com antecedência filtram a incerteza e reforçam o seguimento de regras, portanto hábitos de decisão formados dentro delas podem se tornar um passivo cognitivo quando os estudantes encontram interesses concorrentes e informação incompleta em contextos reais.
+Uma sala de aula protegida também pode ensinar o hábito errado: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai e Zhang (2026)]] advertem que [[simulation|simulações]] com regras fixadas com antecedência filtram a incerteza e reforçam o seguimento de regras, portanto hábitos de decisão formados dentro delas podem se tornar um passivo cognitivo quando os estudantes encontram interesses concorrentes e informação incompleta em contextos reais.
 **Descarregamento sensível a camadas e transferência.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] testa diretamente a distinção de Salomon, Perkins e Globerson entre "efeitos com vs. efeitos da tecnologia" na escrita assistida por [[generative-ai|IA generativa]]: um quase-experimento de oito semanas concluiu que a colaboração aberta com IA maximizou o desempenho de escrita apoiada, mas produziu os *menores* desfechos de transferência próxima independentes sem IA, enquanto o apoio delimitado com reflexão preservou a competência independente. Camadas de descarregamento mais profundas (raciocínio, estrutura) previram pior transferência que as camadas de superfície (gramática). Essa é evidência direta de sala de aula de que os ganhos de desempenho de apoio *com* a IA não se transferem ao desempenho independente *de* apoio sem ela — e de que a profundidade da delegação, e não apenas se a IA é usada, modela a transferência.
 
 Uma instância complementar, ainda que confundida, vem da [[physics-education|física]]: o redesenho da Universidade Ruhr Bochum de uma disciplina introdutória de física nuclear e de partículas ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) fez estudantes completarem com sucesso problemas de pesquisa colaborativos e ricos em recursos com assistência de IA, mas esses mesmos estudantes tiveram média 20,6/80 em uma prova escrita convencional sem ajuda, com várias tentativas sérias incapazes de completar cálculos-padrão. Os autores leem isso como evidência de que o desempenho assistido não se transfere automaticamente ao desempenho não solicitado, e seu remédio é o desenho deliberado: tornar a prova escrita o único determinante da nota, liberar os problemas de tutoria com antecedência para que o tempo de aula se torne discussão preparada, e acrescentar preparação de pré-requisitos, exemplos resolvidos e consolidação em torno do trabalho exploratório em que a IA é permitida.
@@ -100,6 +100,8 @@ Isso se alinha à pesquisa sobre [[intelligent-tutoring|tutoria por IA]] que mos
 2. **Diferenças de domínio:** A transferência é melhor em domínios bem estruturados (matemática) vs. domínios mal estruturados (escrita)?
 3. **Diferenças individuais:** Estudantes com muito [[prior-knowledge|conhecimento prévio]] sofrem menos perda de transferência que novatos?
 4. **Remediação de competência:** Sessões explícitas de prática "sem IA" conseguem reverter a dependência da ferramenta?
+
+A questão da escala temporal agora tem uma formalização. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] nomeia de *washout* cognitivo o intervalo posterior à retirada do apoio e lhe dá quatro desfechos candidatos: rebote elástico, platô parcial, andaime latente e sobre-recuperação. A reversibilidade, argumenta o artigo, é o que determina a gravidade, e ele propõe um protocolo pré-registrável de três braços e vinte e duas semanas para medi-la. Os estudos acima testaram a transferência horas depois de a assistência terminar, de modo que as semanas seguintes são a parte da primeira pergunta em aberto desta página que permanece genuinamente sem medição.
 
 ### Conexões com conceitos relacionados
 
@@ -146,3 +148,4 @@ A transferência da aprendizagem se conecta à [[metacognition|metacognição]] 
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — A prática de fala assistida por IA elevou a vontade para com humanos, mas nenhum estudo observou a fala humana
 - [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: aprendizagem aumentada por meio de incorporação robótica funcional na mesa
+- [[cognitive-washout-ai-skill-decay-2026]] — Washout cognitivo: o intervalo posterior à retirada e um protocolo de medição de 22 semanas (Yajee 2026)

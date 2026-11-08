@@ -1,7 +1,7 @@
 ---
 title: Formazione giuridica
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:01:53-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -45,14 +45,21 @@ La formazione giuridica prepara gli studenti a una professione regolamentata, co
 
 L'attuale base di evidenze è sottile e dominata dalle policy. Un articolo sostanzioso costituisce l'ancora della pagina: [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski e Hurley (2025)]] hanno rilevato e confrontato le policy istituzionali sull'IA generativa nelle facoltà di giurisprudenza statunitensi approvate dall'ABA e hanno proposto un quadro di governance. Questo squilibrio è esso stesso un risultato, e la pagina lo segnala anziché mascherarlo.
 
+
+L'evidenza sperimentale comincia ad arrivare: [[xie-genai-mystery-game-legal-education-2026|Xie et al. (2026)]] hanno randomizzato 84 studenti universitari di giurisprudenza a un gioco di ruolo investigativo scritto dalla GenAI o alla lezione dello stesso docente, e il gruppo del gioco ha segnato molto più alto in un post-test di conoscenza e ragionamento (η² parziale = 0,566).
+
+
 ## Come l'IA compare nella formazione giuridica
 
 - **Ricerca giuridica.** Piattaforme commerciali come Lexis+ AI e Westlaw Precision con CoCounsel integrano funzioni generative negli strumenti su cui gli studenti sono già formati, il che rende difficile separare l'«uso dell'IA» dall'ordinaria interrogazione di banche dati. Gutowski e Hurley rilevano quanto questo comprima il flusso di lavoro familiare: identificare autorità e fonti secondarie in minuti anziché in ore.
 - **Supporto alla redazione e alla scrittura.** Schede dei casi iniziali, strutture, memorie, sintesi di primo livello e feedback a livello di frase su chiarezza e grammatica. Gli autori collocano il lavoro generato dall'IA nella stessa relazione di supervisione del lavoro di un paralegale o di un collaboratore junior: l'avvocato resta responsabile della sua accuratezza e della sua sufficienza giuridica.
 - **Studio e preparazione all'esame di abilitazione.** Generare domande di esercitazione, modelli di fatto e «ipotesi» per la pratica a tempo, e tutoring sulle debolezze ricorrenti. Gutowski e Hurley affiancano a ciò l'osservazione che l'IA generativa supera ormai sia il Bar Exam sia il Multistate Professional Responsibility Exam, che essi leggono come un'indicazione più sulla soglia minima di competenza che sul modello.
 - **Profili specifici per compito, non una classifica.** In un protocollo in cieco, gli stessi modelli disponibili di serie che avevano raggiunto livelli da esame di abilitazione umano (punteggi cumulativi 26–79 su 100) hanno tutti fallito l'esame da notaio, che richiede pianificazione giuridica orientata all'obiettivo entro rigorosi vincoli formali — e sono stati tratti in inganno dalle trappole deliberate in esso inserite ([[llm-turing-test-italian-legal-exams-2026|Bertoli et al. (2026)]]).
-- **Riviste, moot court e orientamento.** Selezione dei contributi, preparazione dell'argomentazione e programmi di supporto accademico che utilizzano modelli personalizzati addestrati su esami passati, risposte modello e materiali dei corsi.
+- **Riviste, moot court e orientamento.** Selezione dei contributi, preparazione dell'argomentazione e programmi di [[student-support-and-success|supporto accademico]] che utilizzano modelli personalizzati addestrati su esami passati, risposte modello e materiali dei corsi.
 - **Valutazione e integrità.** I casi problematici ricorrenti: redazione non dichiarata, citazione di autorità inesistenti ed esami che non misurano più l'analisi senza aiuti.
+
+- **Una revisione esplorativa di 82 lavori, per lo più non empirici.** [[lorteau-sarro-ai-legal-education-2025|Lorteau e Sarro (2025)]] mappano 82 lavori da 26 paesi; il 74% è apparso dopo il 2023 e solo 22 erano empirici. I modelli senza aiuti superano le valutazioni delle facoltà di giurisprudenza ma si collocano sotto gli studenti, e la prestazione migliora con istruzioni dettagliate e autorità fornite senza diventare affidabile. Gli usi pratici della rassegna sono materiali generati, simulazioni, coaching di scrittura e istruzione sulle competenze di IA; il suo rischio centrale è l'affidamento passivo, con la [[assessment-validity|valutazione]] come punto di pressione.
+
 
 ## Cosa mostra l'evidenza delle policy
 
@@ -65,11 +72,15 @@ Due ulteriori punti plasmano le loro raccomandazioni:
 - **La governance del corpo docente è una complicazione specifica delle facoltà di giurisprudenza.** I corpi docenti, individualmente e collettivamente, detengono un'autorità insolitamente diretta sul curricolo e sugli standard dei corsi, per cui la policy va costruita con loro anziché essere annunciata loro.
 - **La formazione clinica solleva un'obiezione [[pedagogy|pedagogica]], non tecnica.** Citando Karr e Schultz, riportano la posizione secondo cui gli strumenti di IA progettati per imitare le risposte umane non sviluppano il giudizio originale, l'interazione con il cliente e la decisione [[ethics|etica]] che i clinic esistono per produrre, e che pertanto non dovrebbero essere affatto usati nei corsi clinici.
 
-Le raccomandazioni sono procedurali: linee guida chiare e complete qualunque sia la posizione istituzionale, pieno coinvolgimento delle parti interessate nella redazione, formazione proattiva per studenti e docenti, governance flessibile rivista periodicamente e autoregolazione attraverso la condivisione di informazioni anziché attendere che l'ABA detti la policy.
+Le raccomandazioni sono procedurali: linee guida chiare e complete qualunque sia la posizione istituzionale, pieno coinvolgimento delle parti interessate nella redazione, formazione proattiva per studenti e docenti, governance flessibile rivista periodicamente e [[self-regulated-learning|autoregolazione]] attraverso la condivisione di informazioni anziché attendere che l'ABA detti la policy.
 
 ## Perché la disciplina è distintiva
 
 Tre cose fanno della formazione giuridica più di un'ulteriore area disciplinare.
+
+
+Il metodo dei casi è un membro della più ampia famiglia dell'[[case-based-learning]]; quella pagina distingue i casi preparati e la discussione dei casi dall'indagine basata sui problemi e dalla simulazione.
+
 
 **La validità della valutazione è inseparabile dalla competenza professionale.** Si teme che l'[[cognitive-offloading|iperaffidamento]] durante gli studi di giurisprudenza lasci i laureati impreparati a un lavoro che richiede analisi e argomentazione giuridica indipendenti, e che una valutazione che premia l'output fluente non possa distinguere la comprensione dello studente da quella di un modello. La questione della [[assessment-validity|validità]] non è pertanto accademica.
 
@@ -100,6 +111,9 @@ In un esperimento in contesto giuridico, 186 decisori laici su casi civili di tr
 - [[governance]] — la governance del corpo docente e la creazione di policy come la praticano le facoltà di giurisprudenza
 - [[educational-policy-ai]] — la policy istituzionale sull'IA come oggetto di studio
 - [[critical-thinking]] — il ragionamento che il metodo dei casi intende costruire
+
+- [[case-based-learning]] — il metodo dei casi e la discussione dei casi come pedagogia
+
 - [[socratic-method]] — dialogo dipendente dalla preparazione dello studente
 - [[experiential-learning]] — clinic e formazione basata sulla pratica
 - [[professional-training]] — la famiglia più ampia delle professioni regolamentate
@@ -110,6 +124,10 @@ In un esperimento in contesto giuridico, 186 decisori laici su casi civili di tr
 
 ## Articoli collegati
 
+- [[lorteau-sarro-ai-legal-education-2025]] — L'intelligenza artificiale nella formazione giuridica: una revisione esplorativa di 82 lavori (Lorteau & Sarro 2025)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Five-factor comparison of law school generative AI policies and a governance framework
 - [[llm-turing-test-italian-legal-exams-2026]] — Blind Turing test on Italian bar, judges and notary examinations, benchmarked against expert marking
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Omettere la posizione del sistema riduce l'iperaffidamento nelle decisioni in contesto giuridico senza costruire giudizio (decisori laici, non studenti di giurisprudenza)
+
+- [[xie-genai-mystery-game-legal-education-2026]] — Gioco di ruolo investigativo scritto dalla GenAI contro lezione: un trial randomizzato (Xie et al. 2026)
+

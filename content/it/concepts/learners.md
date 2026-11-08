@@ -1,7 +1,7 @@
 ---
 title: "Studenti"
 created: "2026-10-14T22:20:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:01:53-05:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -12,7 +12,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-25T15:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -85,7 +85,7 @@ Da leggere con [[stakeholders]] per le persone intorno allo studente, e con [[pe
 
 ## Idee sbagliate comuni
 
-**"Studenti e discenti sono la stessa popolazione."** Non sono intercambiabili in modo utile: *studenti* nomina un ruolo istituzionale, *discenti* nomina un'attività, e una persona può essere l'una senza essere l'altra — un dipendente in [[professional-training|formazione in azienda]] è un discente ma non uno studente. Confonderli restringe la base di evidenza a chi ha un'iscrizione registrata e scarta silenziosamente proprio gli adulti, i professionisti e i discenti autodiretti di cui si occupa la ricerca sull'[[lifelong-learning|apprendimento permanente]].
+**"Studenti e discenti sono la stessa popolazione."** Non sono intercambiabili in modo utile: *studenti* nomina un ruolo istituzionale, *discenti* nomina un'attività, e una persona può essere l'una senza essere l'altra — un dipendente in [[professional-training|formazione in azienda]] è un discente ma non uno studente. Confonderli restringe la base di evidenza a chi ha un'iscrizione registrata e scarta silenziosamente proprio gli adulti, i professionisti e i discenti [[self-directed-learning|autodiretti]] di cui si occupa la ricerca sull'[[lifelong-learning|apprendimento permanente]].
 
 **"Gli studenti riferiscono che l'IA migliora la loro comprensione, quindi fa risparmiare loro tempo."** Le due affermazioni si separano nei dati d'indagine. Nel lavoro sulla produttività dello studio, il **92,3%** ha detto che l'IA migliorava la propria comprensione, mentre solo il **38,5%** ha detto che riduceva il tempo di studio complessivo. Il numero di apertura descrive la comprensione percepita; il divario sotto di esso mostra che comprensione migliorata e tempo recuperato sono esiti diversi, e l'affermazione largamente ripetuta "l'IA fa risparmiare tempo" è portata dalla cifra più piccola.
 

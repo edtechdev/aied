@@ -10,7 +10,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -87,6 +87,10 @@ Onyo mawili yanapunguza hili zaidi, wote wawili yanayofanya kitu kuu katika mcha
 
 **Inayoelezekana kwa ubini** ni jibu moja kwa tatizo la uaminifu wa baada ya tukio. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang na Fang (2025)]] wanabainisha msomaji wa maelezo na uwakilishi uliounganishwa na alama iliyotabiriwa ule ule unaoamua [[assessment|tathmini]], na hivyo alama ya chini katika [[formative-assessment|maswali ya kiumbo]] hutoa maelezo yanayotaja maswali ya kuchunguza yasiyo ya kutosha, na kuunganisha na uangalifu wa lenzi mbili kwenye viwango vya mtaala na hatua za rubriki mahususi za taaluma. Ulinganifu wa uangalifu-kwa-rubriki unafikia 78.0% ikilinganishwa na 41.7% ya GPT-4 bila mafunzo na 32.1% ya BERT, na uaminifu hupimwa na kufuta kwa counterfactual sehemu muhimu za rubriki pamoja na alama za binadamu kwenye orodha ya ukaguzi iliyoungwa na rubriki, na kutoa alama ya uaminifu wa maelezo ya 0.78 — ongezeko la 0.31 juu ya BERT-base. Ukaguzi pia unaonyesha mahali madai ya usanifu yanapungua: kwenye ishara za kihisia mfano hutoa 28.4% ya uzito wa uangalifu dhidi ya 15.2% ya mtaalam (ulinganifu 0.53), na hali moja ya kushindwa ikitoa 28% kwa tokeni "kukasirika", ambayo waandishi wanasoma kuwa na mifano kupita kiasi ya kihisia badala ya kielimu na wanaita kama eneo la kuboresha. Kujumlisha maelezo katika njia ya uamuzi huyafanya kuwa ya kweli zaidi ya maelezo ya baada ya tukio; haifanyi sahihi.
 
+
+**Kile mfano unachosema kilitumia kinategemea familia kama vile data.** Katika mifano saba kwenye kohorti moja, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] waligundua mbinu za ishara zikiegemea vipengele vya kiakili na vya [[motivation|motisha]], mifano ya chini ya ishara kwenye vipengele vya kiakili, maarifa yaliyojifunza na jinsia, na zote mbili zikipuuza kwa kiasi kikubwa vipengele vya metaji, wakati mfano wa neva-ishara ulitumia seti iliyounganishwa zaidi. Wanafunzi wale wale na viashiria vile vile vilizalisha maelezo tofauti ya kile kilichokuwa muhimu, hivyo ulinganifu na [[learning-theories|nadharia ya kujifunza]] unakuwa dai kuhusu ugawaji wa sifa badala ya usahihi.
+
+
 ## Kufundisha kuelezekana kama mazoezi ya uwajibikisho
 
 Kama ubora wa maelezo unaamua kama XAI ni yenye ufanisi, basi kuzalisha maelezo inapaswa kufundishwa kama tabia ya kitaalamu badala ya kuonyeshwa kama uwezo. [[lund-socially-accountable-data-science-xai-2026|Lund na wenzake (2026)]] wanapendekeza kufanya hivi katika nguzo nne — **uwezekano wa kujibu** (wajibu wa kutoa sababu kwa walioathirika), **uwajibikisho** (madhara yanayotarajiwa katika mzunguko wote wa maisha, si kutetea baada ya tukio), **utekelezaji** (matokeo ndani ya kozi) na **kujifikiria** (uchunguzi uliorekodiwa wa dhana za mtu mwenyewe) — kila moja na kazi zake na gharama yake ya darasa.
@@ -144,3 +148,6 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Maamuzi ya kupima ya mwalimu dhidi ya ya AI: maelezo ya maandishi yalipanua pengo la usawa
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Rejea na ishara za mamlaka zilipandisha kukubali pato lisilo sahihi, baadhi ya marejeo yakihusishwa vibaya au kuwa ya kubuni
+
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — mifano ya ishara, ya chini ya ishara na ya neva-ishara kwenye kohorti moja ilihusisha utabiri wao na vipengele tofauti
+

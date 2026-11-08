@@ -1,7 +1,7 @@
 ---
 title: Normas sociais de uso de IA
 created: "2026-09-23T09:54:12-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:38:41-05:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -13,7 +13,7 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
-> **Normas sociais de uso de IA** — as regras informais, aplicadas localmente, que decidem quando estudantes e instrutores podem usar IA generativa, quão abertamente podem admiti-lo, e o que conta como [[academic-integrity|trapaça]] na prática, e não na política. O corpus é rarefeito em normas como tópico e espesso nos mecanismos que as produzem. Os estudantes não conseguem inferir de forma confiável o uso de IA uns dos outros: a correlação mediana entre as estimativas de quem percebe e seu próprio perfil de uso autorreportado foi r = ,73 em ambas as ondas, e a acurácia de posto para o *tipo* de uso de IA foi r = ,34 na segunda onda. [[shame-guilt-ai-regulation-computing-education|Vergonha e culpa regulam a visibilidade, não o uso]], produzindo ocultação e revelação seletiva em vez de mudança de comportamento. As normas disciplinares divergem agudamente: tarefas com IA integrada apareceram em 27% dos planos de curso de negócios e 5% dos de humanidades, ao longo de 31.000 cursos. E a literatura formal de [[ethics|ética]] encaminha as normas menos numerosas e menos acionáveis aos usuários finais, o que significa que as pessoas sujeitas às normas de sala de aula estão amplamente ausentes dos documentos que as discutem.
+> **Normas sociais de uso de IA** — as regras informais, aplicadas localmente, que decidem quando estudantes e instrutores podem usar IA generativa, quão abertamente podem admiti-lo, e o que conta como [[academic-integrity|trapaça]] na prática, e não na política. O corpus é rarefeito em normas como tópico e espesso nos mecanismos que as produzem. Os estudantes não conseguem inferir de forma confiável o uso de IA uns dos outros: a correlação mediana entre as estimativas de quem percebe e seu próprio perfil de uso [[self-report-measures|autorreportado]] foi r = ,73 em ambas as ondas, e a acurácia de posto para o *tipo* de uso de IA foi r = ,34 na segunda onda. [[shame-guilt-ai-regulation-computing-education|Vergonha e culpa regulam a visibilidade, não o uso]], produzindo ocultação e revelação seletiva em vez de mudança de comportamento. As normas disciplinares divergem agudamente: tarefas com IA integrada apareceram em 27% dos planos de curso de negócios e 5% dos de humanidades, ao longo de 31.000 cursos. E a literatura formal de [[ethics|ética]] encaminha as normas menos numerosas e menos acionáveis aos usuários finais, o que significa que as pessoas sujeitas às normas de sala de aula estão amplamente ausentes dos documentos que as discutem.
 
 ## Perguntas para refletir
 
@@ -43,9 +43,9 @@ ai_assist:
 
 ## Introdução
 
-A [[regulation|regulação]] formal da IA na educação chega como política: declarações de uso aceitável, cláusulas de plano de curso, procedimentos de [[ai-detection|detecção]], sistemas de [[remote-proctoring|supervisão]], códigos de honra. Tudo o que os estudantes de fato vivenciam, porém, está por baixo dessa camada. Um colega de turma que nunca menciona usar o ChatGPT, um instrutor que diz \"não me importa como você escreve\" e depois o proíbe no plano de curso, um grupo de estudo que silenciosamente assentiu no que é justo, um departamento onde todos presumem que a curva de notas já se deslocou. Essas são normas: expectativas compartilhadas sobre comportamento aceitável, aplicadas por aprovação, desaprovação e o risco de ser visto.
+A [[regulation|regulação]] formal da [[ai-education|IA na educação]] chega como política: declarações de uso aceitável, cláusulas de plano de curso, procedimentos de [[ai-detection|detecção]], sistemas de [[remote-proctoring|supervisão]], códigos de honra. Tudo o que os estudantes de fato vivenciam, porém, está por baixo dessa camada. Um colega de turma que nunca menciona usar o ChatGPT, um instrutor que diz \"não me importa como você escreve\" e depois o proíbe no plano de curso, um grupo de estudo que silenciosamente assentiu no que é justo, um departamento onde todos presumem que a curva de notas já se deslocou. Essas são normas: expectativas compartilhadas sobre comportamento aceitável, aplicadas por aprovação, desaprovação e o risco de ser visto.
 
-Esta página reúne o que a base de evidência diz sobre essa camada. Vale separar cuidadosamente, porque \"currículo oculto\" é frequentemente usado de forma frouxa para significar qualquer coisa não oficial. Aqui o assunto é mais estreito: as regras operativas sobre o uso de IA, como se formam, como são aplicadas e quão fraca é a conexão entre elas e as regras escritas. O corpus quase não tem estudo que meça normas diretamente, o que é ele mesmo um achado. O que ele tem é evidência repetida sobre os mecanismos: inferência, revelação, emoção e a variação disciplinar que molda o que qualquer norma local pode se tornar.
+Esta página reúne o que a base de evidência diz sobre essa camada. Vale separar cuidadosamente, porque \"[[curriculum-design|currículo]] oculto\" é frequentemente usado de forma frouxa para significar qualquer coisa não oficial. Aqui o assunto é mais estreito: as regras operativas sobre o uso de IA, como se formam, como são aplicadas e quão fraca é a conexão entre elas e as regras escritas. O corpus quase não tem estudo que meça normas diretamente, o que é ele mesmo um achado. O que ele tem é evidência repetida sobre os mecanismos: inferência, revelação, emoção e a variação disciplinar que molda o que qualquer norma local pode se tornar.
 
 ## O que os estudantes acreditam uns sobre os outros
 
@@ -55,13 +55,15 @@ Dois detalhes importam para as normas. Primeiro, o desalinhamento não encolheu 
 
 ## Visibilidade, vergonha e revelação seletiva
 
-Se os pares não conseguem ver o uso de IA com acurácia, então as regras que se desenvolvem em torno dele são aplicadas em grande parte por meio do risco social. O [[shame-guilt-ai-regulation-computing-education|estudo de entrevistas com 19 estudantes de computação]] examinou vergonha e culpa como reguladores sociais e descobriu que elas governam a revelação, não o uso. Os estudantes descreveram comportamentos de ocultação e revelação seletiva, e reportaram envergonhar-se a si mesmos, a seus pares e a seu corpo docente. O resultado negativo importante é que essas emoções coexistiram com o uso continuado de IA, gerando ciclos de [[agency|agência]] reduzida e de tensão moral, em vez de levar alguém a parar.
+Se os pares não conseguem ver o uso de IA com acurácia, então as regras que se desenvolvem em torno dele são aplicadas em grande parte por meio do risco social. O [[shame-guilt-ai-regulation-computing-education|estudo de entrevistas com 19 estudantes de computação]] examinou vergonha e culpa como reguladores sociais e descobriu que elas governam a revelação, não o uso. Os estudantes descreveram comportamentos de ocultação e revelação seletiva, e reportaram envergonhar-se a si mesmos, a seus pares e a seu corpo docente. O resultado negativo importante é que essas emoções coexistiram com o uso continuado de IA, gerando ciclos de [[agency|agência]] reduzida e de tensão moral, em vez de [[prompt-engineering|incitar]] alguém a parar.
 
 Esse padrão realoca a norma de \"use ou não use\" para \"admita ou não admita\". Uma sala de aula pode ter uma forte norma anti-IA no papel, uso disseminado na prática e um equilíbrio de silêncio no meio, sem que ninguém esteja confuso sobre o que a regra diz. Isso também prevê onde o custo recai: sobre os estudantes menos capazes de gerir o risco social, e sobre os [[equity-in-ai-education|estudantes cujo uso visível carrega consequências diferentes]].
 
 O lado do instrutor da mesma emoção é mensurável. A [[vassallo-ai-guilt-complex-faculty-2026|pesquisa com corpo docente]] usando um Índice de Culpa com IA de quatro itens (alfa de Cronbach = 0,88) descobriu que a culpa antecipatória excedia o remorso experenciado: a nota média do índice foi 2,39 (DP = 1,01), com 22,9% dos participantes acima do ponto médio. Não usuários de IA reportaram culpa *mais alta* (M = 3,25, DP = 1,04, n = 8) que usuários (n = 101, M = 2,32, DP = 0,97), t(8,39) = 2,00, p = ,078, e o item de remorso separou os grupos de forma mais aguda, t(7,79) = 2,44, p = ,041. A análise de agrupamentos produziu quatro perfis: Adotantes Confortáveis (26,6%), Não Usuários Culpados (29,4%), Usuários Cautelosos (28,4%) e Evitadores Moralmente Angustiados (15,6%), com diferenças confirmadas em culpa, F(3, 105) = 22,13, p < ,001, eta-quadrado = 0,39.
 
 Uma norma que faz as pessoas que não agiram se sentirem culpadas está realizando seu trabalho por meio da antecipação. Esse é um mecanismo regulatório real, e ele é invisível a qualquer auditoria de política que olhe apenas para o que docentes e estudantes fazem.
+
+Uma pesquisa com 409 estudantes de graduação insere o mesmo mecanismo numa regressão: a revelação percebida dos pares e o conforto com os instrutores foram os preditores mais fortes da própria revelação de um estudante, à frente do desengajamento moral ([[qu-wang-disclose-or-not-genai-2026|Qu e Wang (2026)]]). O que um estudante trata como norma é o que ele acredita que seus pares fazem, que é justamente a impressão que o estudo de percepção acima mostra ser sistematicamente grosseira. A revelação, segundo essa evidência, é uma resposta a uma norma acreditada, e não a uma regra escrita ou a um padrão ético pessoal.
 
 ## O livro de regras local: disciplinas e salas de aula
 
@@ -79,7 +81,7 @@ O resultado é uma literatura que especifica obrigações para as pessoas que co
 
 ## Por que a vigilância não assenta as normas
 
-Quando as instituições tentam substituir normas informais por monitoramento formal, a evidência é consistente e pouco lisonjeira. O [[conijn-fear-big-brother-proctored-exams-2022|estudo de quatro ondas com 1.760 estudantes em 105 cursos]] descobriu que a supervisão online aumentou significativamente a ansiedade em prova e não teve efeito sobre a tentação de trapacear. Ela também não mudou a dificuldade percebida nem o desempenho em exame. O custo de ansiedade se concentrou entre estudantes já vulneráveis, incluindo aqueles com ambientes domésticos mais fracos e tecnologia menos confiável.
+Quando as instituições tentam substituir normas informais por monitoramento formal, a evidência é consistente e pouco lisonjeira. O [[conijn-fear-big-brother-proctored-exams-2022|estudo de quatro ondas com 1.760 estudantes em 105 cursos]] descobriu que a supervisão online aumentou significativamente a [[anxiety-and-stress|ansiedade em prova]] e não teve efeito sobre a tentação de trapacear. Ela também não mudou a dificuldade percebida nem o desempenho em exame. O custo de ansiedade se concentrou entre estudantes já vulneráveis, incluindo aqueles com ambientes domésticos mais fracos e tecnologia menos confiável.
 
 Dois estudos mais explicam por que a vigilância é uma ferramenta ruim para estabelecer normas. A [[harerimana-remote-proctoring-nursing-scoping-2026|revisão de escopo da supervisão remota]] descobriu que o monitoramento era amplamente percebido como dissuasor de má conduta, mas docentes sul-africanos reportaram desonestidade continuada apesar do monitoramento ativo, uma situação que Khalil et al. (2022) chamam de \"ética subterrânea\", e alertas menores frequentes geravam falsos positivos e trabalho de revisão do corpo docente. A vigilância compra conformidade pelo medo de detecção, e não pelo compromisso com um padrão compartilhado. O [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|modelo de avaliação sob informação imperfeita]] aguça o mecanismo: a dissuasão depende da capacidade de um detector de discriminar entre uso oculto e trabalho legítimo, e não de sua taxa de captura, e, quando os falsos positivos sobem mais rápido que os verdadeiros positivos, os estudantes se desengajam do sistema em vez de se conformarem a ele. Seu outro resultado é o que incide diretamente sobre as normas: o monitoramento reduz a atratividade do uso oculto, mas não aumenta a [[ai-use-disclosure|revelação]]. Os estudantes se movem em direção à abertura apenas quando reportar é mais seguro ou mais valioso que esconder, e uma proibição pode tornar o encobrimento mais atraente que a conformidade.
 
@@ -140,3 +142,4 @@ O custo dessa substituição aparece em onde docentes e estudantes de fato conve
 - [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Trapaça ou competição? A IA na educação em marketing
 - [[chen-zou-genai-group-assessment-agency-2026]] — Agência na avaliação em grupo apoiada por GenAI
 - [[reddit-genai-education-discourse-analysis-2026]] — Análise de discurso no Reddit: o contato corpo docente–estudante se concentra em disputas de detecção e aplicação (Yüce et al. 2026)
+- [[qu-wang-disclose-or-not-genai-2026]] — 409 estudantes de graduação: a revelação percebida dos pares e o conforto com instrutores previram a revelação à frente do desengajamento moral (Qu & Wang 2026)

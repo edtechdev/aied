@@ -1,14 +1,14 @@
 ---
 title: "Apprendimento permanente"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:09:36-05:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/lifelong-learning
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 ## Domande da considerare
 
 - Pensa all'ultima nuova competenza che hai acquisito al di fuori della scuola formale — sul lavoro, online o in autonomia. Chi ha deciso cosa imparare, come impararlo e quando eri "pronto"? Come cambierebbe quel quadro con l'IA?
-- Una domanda centrale della pagina è l'autonomia: man mano che l'IA partecipa all'identificazione dei tuoi bisogni di apprendimento, alla definizione dei tuoi obiettivi e persino alla produzione di contenuti, cosa resta genuinamente auto-diretto nel tuo apprendimento?
+- Una domanda centrale della pagina è l'autonomia: man mano che l'IA partecipa all'identificazione dei tuoi bisogni di apprendimento, alla definizione dei tuoi obiettivi e persino alla produzione di contenuti, cosa resta genuinamente [[self-directed-learning|auto-diretto]] nel tuo apprendimento?
 - L'educazione formale tratta il tempo come fisso e i curricoli come sequenziali. La pagina propone i "grafi Learnity" — unità interconnesse di conoscenza che chi apprende attraversa in modo flessibile nell'arco di una vita. Cosa guadagni, e cosa rischi di perdere, liberando l'apprendimento da una sequenza fissa?
 - L'IA può sia supportare chi apprende da adulto sia cambiare quali competenze gli adulti devono aggiornare continuamente. Se l'IA continua a rimodellare il tuo campo, in quali capacità investiresti che nessuno strumento può semplicemente darti?
 - L'apprendimento permanente è spesso inquadrato come una responsabilità individuale. Ma l'accesso lungo l'arco della vita è anche una questione di equità. Chi ha il tempo, le risorse e il supporto per continuare a imparare da adulto — e come l'IA potrebbe allargare o restringere quel divario?
@@ -43,7 +43,10 @@ L'apprendimento permanente si riferisce all'educazione continua lungo tutto l'ar
 - **Linee guida progettuali per l'apprendimento degli adulti:** [[ai-adult-learning-guidelines-dis2026|la ricerca dell'istituto AI-ALOE]] sintetizza linee guida progettuali fondate su evidenze empiriche per tecnologie di apprendimento degli adulti basate sull'IA, con enfasi su un supporto pratico e sensibile al contesto.
 - **Acquisizione di competenze guidata dall'IA:** [[ai-guided-learning-audiovideo-2026|l'apprendimento audio/video guidato dall'IA]] mostra come l'IA possa sostenere con impalcature le fasi di consumo–comprensione–imitazione dell'acquisizione di competenze, adattando i media a chi apprende.
 - **Da curricoli fissi a strutture adattive:** i [[learnity-graphs-lifelong-learning-framework-2026|grafi Learnity]] propongono di ripensare i curricoli fissi dell'istruzione superiore come unità interconnesse di conoscenza che chi apprende può attraversare in modo flessibile nell'arco di una vita.
-- **Autonomia e auto-direzione:** [[andragogy-cognitive-delegation-genai-2026|andragogia e delega cognitiva]] riesamina la teoria dell'apprendimento degli adulti alla luce della delega cognitiva mediata dall'IA, chiedendosi cosa resti auto-diretto quando l'IA partecipa all'identificazione dei bisogni, alla definizione degli obiettivi e alla produzione di contenuti.
+- **Autonomia e auto-direzione:** [[andragogy-cognitive-delegation-genai-2026|andragogia e delega cognitiva]] riesamina la [[learning-theories|teoria dell'apprendimento]] degli adulti alla luce della delega cognitiva mediata dall'IA, chiedendosi cosa resti auto-diretto quando l'IA partecipa all'identificazione dei bisogni, alla definizione degli obiettivi e alla produzione di contenuti.
+
+- **Cosa vogliono gli adulti da questa delega.** In interviste a 20 di 60 adulti selezionati in tre università statunitensi, chi apprende ha descritto l'IA come un [[collaborative-learning|agente di apprendimento collaborativo]] da cui e con cui imparare, non come un oracolo che fornisce risposte. Hanno detto di non volere un sistema perfetto e privo di errori, quanto piuttosto uno che resti nel ciclo e si adatti a loro ([[kim-ai-andragogy-2026|Kim et al., 2026]]). L'auto-direzione, su queste evidenze, è qualcosa che gli adulti si aspettano di mantenere dentro l'interazione anziché affidarla a essa, che è l'obiettivo progettuale che la questione dell'autonomia deve affrontare.
+
 - **Politiche e comunità:** le [[ai-lifelong-learning-policy|politiche sull'IA nell'apprendimento permanente]] e [[community-centered-ai-education-adults|l'educazione all'IA centrata sulla comunità]] affrontano le dimensioni istituzionali e di equità dell'apprendimento con l'IA degli adulti.
 - **La rigenerazione dell'expertise è essa stessa a rischio.** Nelle occupazioni statunitensi più esposte all'IA, i lavoratori di età compresa tra 22 e 25 anni hanno visto un calo occupazionale relativo del 16% (ottobre 2022–settembre 2025) mentre quelli tra 35 e 49 anni sono cresciuti di oltre l'8%, e l'expertise approfondita necessaria per validare gli output dell'IA dipende dai ruoli di livello base la cui diminuzione rimuove ([[cognitive-commons-ai-expertise-regeneration|Lovett (2026)]]).
 
@@ -102,3 +105,6 @@ L'apprendimento permanente si collega all'[[adult-learning]] e alla [[profession
 - [[ai-lifelong-learning-policy]] — AI in lifelong learning: opportunities and challenges in adult-education policy
 - [[community-centered-ai-education-adults]] — Co-designing community-centered AI education for adults
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+
+- [[kim-ai-andragogy-2026]] — Adult learners' perspectives on AI as a collaborative learning agent in andragogy (Kim et al. 2026)
+

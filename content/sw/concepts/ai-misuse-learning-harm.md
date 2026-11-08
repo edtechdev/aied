@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 
 ## Utangulizi
 
-Matarajio ya madhara yenyewe yanaandikwa: katika data ya dodoso na vikundi lengwa vya Uswidi, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] waligundua asilimia 51 ya washiriki (n = 106) wakiwa na wasiwasi kuwa matumizi ya genAI yanaweza kuzuia maendeleo ya mtu binafsi, wakitaja upotevu wa [[critical-thinking|ufikiri wa kina]], ubunifu na uhuru badala ya kuvunja kanuni.
+Matarajio ya madhara yenyewe yanaandikwa: katika data ya dodoso na vikundi lengwa vya Uswidi, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] wanaripoti hofu hiyo hiyo: asilimia 51 ya washiriki (n = 106) walidhani matumizi ya genAI yanaweza kudhoofisha maendeleo ya mtu binafsi, wakielekeza kwenye mmomonyoko wa [[critical-thinking|ufikiri wa kina]], [[creativity|ubunifu]] na uhuru badala ya kuvunja kanuni.
 
 Matumizi mabaya ya AI ni tofauti na matumizi ya AI. Matumizi yanaelezea kutumia AI kama nyongeza ya kujifunza — [[feedback]], kuzalisha mawazo, au msaada wa marekebisho unaoendelea kumuweka mwanafunzi katika kazi ya kiakili. Matumizi mabaya yanaelezea kubadilisha: kuhamisha kwa AI michakato hiyo hiyo ya kiakili (kuandika, kukumbuka, kuchanganua, marekebisho) ambayo hujenga ufahamu unaodumu. Madhara yaliyorekodiwa katika msingi wa ushahidi wa hifadhi ya maarifa si kuwa matumizi mabaya yanashindwa kusaidia; ni kwamba matumizi mabaya yanaharibu kwa njia inayotenda mafanikio ya baadaye yasiyosaidiwa.
 
@@ -74,11 +74,11 @@ Ufafanuzi wa vitendo muhimu zaidi ni kwamba madhara **yanateua kwa aina ya tathm
 
 ### Kutokuwa na mahusiano ya mazungumzo katika zama za LLM
 
-Fasihi ya mchezo wa mfumo (dhuluma ya dokezo, niajo za kimfumo) ina mwenza wa zama ya mazungumzo: kutokuwa na mahusiano ya mazungumzo — kumdhalilisha wakala, kujibu kwa makusudi vibaya, kumtenga, kuiga maandishi yake, au kuzuia majibu. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] wanatoa toleo la kwanza la kimfumo la jambo hili katika mazungumzo ya mwanafunzi–AI, na somo lake kuu ni la tafsiri badala ya la tahadhari. *Geugeu* lisilo na mahusiano ni hatua ya mwingiliano, si hali thabiti ya kutokuwa na mahusiano. Uhusiano unaoonekana wa Kujibu Kwa Makosa na alama za baada ya jaribio haukustahimili ukaguzi wa ufahamu wa binadamu, na waandizi wanaisoma kama kuchunguza *ndani ya* njia ambazo mara nyingi hurudi kwenye mahusiano (kikundi chenye utendaji wa juu zaidi kilirudi kwa p = 0.42). Tabia ambayo kweli ilitenganisha njia ilikuwa Kuzuia — kukataa kujibu, ambayo kilidumu badala ya kutatuliwa. Kwa wabuni hii hubadilisha kipaumbele cha kawaida: kutokuwa na mahusiano kwa kelele, kinachoonekana, mara nyingi hujirekebisha, huku kujiondoa kwa utulivu kukiashiria kuwa mwingiliano umevunjika.
+Fasihi ya mchezo wa mfumo (dhuluma ya dokezo, niajo za kimfumo) ina mwenza wa zama ya mazungumzo: kutokuwa na mahusiano ya mazungumzo — kumdhalilisha wakala, kujibu kwa makusudi vibaya, kumtenga, kuiga maandishi yake, au kuzuia majibu. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] wanatoa toleo la kwanza la kimfumo la jambo hili katika [[student-ai-interaction|mazungumzo ya mwanafunzi–AI]], na somo lake kuu ni la tafsiri badala ya la tahadhari. *Geugeu* lisilo na mahusiano ni hatua ya mwingiliano, si hali thabiti ya kutokuwa na mahusiano. Uhusiano unaoonekana wa Kujibu Kwa Makosa na alama za baada ya jaribio haukustahimili ukaguzi wa ufahamu wa binadamu, na waandizi wanaisoma kama kuchunguza *ndani ya* njia ambazo mara nyingi hurudi kwenye mahusiano (kikundi chenye utendaji wa juu zaidi kilirudi kwa p = 0.42). Tabia ambayo kweli ilitenganisha njia ilikuwa Kuzuia — kukataa kujibu, ambayo kilidumu badala ya kutatuliwa. Kwa wabuni hii hubadilisha kipaumbele cha kawaida: kutokuwa na mahusiano kwa kelele, kinachoonekana, mara nyingi hujirekebisha, huku kujiondoa kwa utulivu kukiashiria kuwa mwingiliano umevunjika.
 
 ## Dhana Potofu za Kawaida
 
-**"Wanafunzi wangeona kama AI ingekuwa inadhuru kujifunza kwao."** Hawaoni, na hili ni jambo lenye matokeo makubwa zaidi katika ukurasa huu: **wanafunzi katika kikundi kilichodhurika hawakuhisi kuwa walijifunza kidogo.** Kujitangaza kwa hivyo si ishara ya mapema inayoweza kutumika. Muundo wa mazoezi yaliyo juu kwa asilimia 48 na mtihani ulio chini kwa asilimia 17 hauonekani kwa mtu anayeupitia, ndiyo sababu ugunduzi wa madhara unapaswa kutegemea upimaji badala ya ushuhuda.
+**"Wanafunzi wangeona kama AI ingekuwa inadhuru kujifunza kwao."** Hawaoni, na hili ni jambo lenye matokeo makubwa zaidi katika ukurasa huu: **wanafunzi katika kikundi kilichodhurika hawakuhisi kuwa walijifunza kidogo.** [[self-report-measures|Kujiripoti]] kwa hivyo si ishara ya mapema inayoweza kutumika. Muundo wa mazoezi yaliyo juu kwa asilimia 48 na mtihani ulio chini kwa asilimia 17 hauonekani kwa mtu anayeupitia, ndiyo sababu ugunduzi wa madhara unapaswa kutegemea upimaji badala ya ushuhuda.
 
 **"Hatari ni kiasi cha AI anachotumia mwanafunzi."** Hatari ni kile ambacho AI inabadilishwa nacho. Matumizi mabaya hapa yanamaanisha kukabidhi uandishi wa rasimu, ukumbusho au uchanganuzi unaojenga ufahamu wa kudumu: uingizwaji badala ya nyongeza, na mwanafunzi anaweza kuweka uingizwaji mwingi katika kazi moja na kuongeza kwa tija katika inayofuata. Kiasi cha matumizi ni kigezo kibaya; mgawanyo wa kazi ya kiakili ndicho kigezo sahihi.
 

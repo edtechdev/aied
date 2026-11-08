@@ -1,7 +1,7 @@
 ---
 title: "Recuperação, espaçamento e entrelaçamento"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:22:14-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-10-25T22:20:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,12 @@ A mesma lógica corre pelo estudo da cola: [[student-cheat-sheets-make-or-take|C
 O efeito do espaçamento — que a mesma prática total produz aprendizagem mais durável quando distribuída ao longo das sessões do que massificada em uma — é a mais algoritmicamente explorada das três técnicas, e os sistemas aplicados do corpus são construídos em torno dela.
 
 O [[memdora-ai-spaced-repetition|Memdora]] é o exemplo mais claro de espaçamento tratado como problema de engenharia. Ele ancora o agendamento na curva de esquecimento de Ebbinghaus, cita o número de que aproximadamente **70% do material recém-aprendido é esquecido dentro de 24 horas** sem revisão, e integra o **FSRS-6**, descrito como o algoritmo de repetição espaçada de estado da arte atual. Seu argumento é que o agendamento sozinho não basta: ferramentas existentes reduzem a interação com flashcards a um único gesto binário, "virar e se autoavaliar", o que os autores chamam de modelo empobrecido que deixa de explorar a evidência de ciência cognitiva sobre prática de recuperação. A contribuição do Memdora é, portanto, uma **taxonomia de 17 tipos de interação fundamentados cognitivamente** ao longo das categorias Idioma, De Cor e Prova, cada um mapeado a evidência revisada por pares exibida no cartão, mais um sistema de recompensa baseado em esforço que compensa o engajamento cognitivo real, e não a presença no app, um pipeline unificado de geração que cria cartões no momento da leitura, e uma camada de sala de aula que relata [[learning-gains|resultados de aprendizagem]] no nível do cartão individual.
+
+
+[[bilingual-llm-lecture-companion-srl-2026|O companheiro de palestras bilíngue de Malhotra (2026)]] ataca esse custo de autoria pela outra ponta: ele transcreve palestras em inglês–hindi no navegador e gera flashcards no próprio dispositivo, feito para salas de aula indianas onde os dados do UDISE+ situam o acesso à internet em cerca de 54% das escolas.
+
+
+
 
 [[adaptive-pretesting-retention|Akgun e Toker (2026)]] fornecem a evidência experimental mais forte do corpus sobre como o espaçamento é *estruturado*. Em um estudo randomizado de três braços com 89 graduandos de uma disciplina de estatística aplicada, os três grupos praticaram em sessões espaçadas com número e momento idênticos ao longo de sete semanas; apenas a estrutura de interação diferiu. A recuperação espaçada adaptativa (G1) alcançou a maior nota no pós-teste (M = 78,19) e o maior esforço de prática observado (M = 0,85); a recuperação espaçada fixa (G2) veio em seguida (M = 74,55, esforço 0,74); o estudo com IA dirigido por quem aprende, sem recuperação imposta, ficou por último em ambos (M = 67,28, esforço 0,49). O efeito multivariado foi significativo (Λ de Wilks = ,664, η² parcial = ,185), com G1 à frente de G3 em retenção em d = 0,92 (p = ,003). O detalhe que importa pedagogicamente é que o agente de G1 foi configurado para *reter*: sondas contingentes à resposta para [[misconceptions|concepções errôneas]], pedidos de elaboração após respostas superficiais, avanço apenas com engajamento conceitual adequado, e soluções diretas explicitamente excluídas de suas saídas permitidas. A leitura dos próprios autores é que o pré-teste é um catalisador front-loaded, e não uma intervenção autônoma cujos benefícios sobrevivem ao acesso aberto à IA.
 

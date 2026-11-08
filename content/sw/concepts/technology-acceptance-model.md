@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-10-26T10:25:00-04:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,11 @@ ai_assist:
 Uliopendekezwa na Davis (1989), TAM inaeleza kupokea kupitia imani mbili za msingi — **Ufaafu Unaotambatika (PU)** na **Urahisi wa Matumizi Unaotambatika (PEOU)** — ambazo huunda **Mitazamo (ATT)** ya watumiaji, kisha **Nia ya Tabia (BI)**, kisha matumizi halisi. Ikiwa imejengwa juu ya nadharia ya mifumo ya habari (kurekebishwa kutoka Nadharia ya Kitendo chenye Hoja), TAM imekuwa mfumo unaotawala kwa kupokea [[generative-ai|GenAI]] katika elimu. Katika utafiti wa GenAI wa kielimu mara nyingi inapanuliwa kwa [[ai-literacy]], [[trust]], ushawishi wa kijamii, [[self-determination-theory|kujitambua]], na **matumizi mahususi** ili kukamata utata wa kupokea zaidi ya kupitishwa rahisi.
 
 ### UTAUT / UTAUT2 / UTAUT3
+
+**Katika sampuli iliyokwisha pokea, tabia inabeba mfano na matarajio yanakaa kimya.** [[pinedo-genai-adoption-marketing-students-2026|Pinedo na wenzake (2026)]] walijaribu UTAUT2 kwa wanafunzi 310 wa [[business-education|masoko]] katika vyuo vikuu viwili vya Amerika Kusini: tabia ilitabiri nia kwa β = 0.426 na matumizi kwa β = 0.412, na nia ilitabiri matumizi kwa 0.324. Matarajio ya utendaji (0.037), matarajio ya juhudi (0.054) na ushawishi wa kijamii (0.048) hayakuwa na umuhimu, katika mfano ulioelezea R² = 0.665 ya nia na 0.707 ya matumizi. Waandishi wanasoma njia zisizo na matokeo kama upungufu wa tofauti katika idadi ambayo tayari ilikuwa imepokea chombo; matokeo ni matumizi [[self-report-measures|yaliyoripotiwa]], si tabia iliyorekodiwa.
+
+**Wasiwasi, si ushawishi wa kijamii, ulibeba njia ya kihisia katika mazingira yenye rasilimali chache.** Upanuzi wa UTAUT kwa wanafunzi 350 wa shahada ya kwanza wa humanities wa Ghana uligundua matarajio ya utendaji kuwa kitabiri chenye nguvu zaidi cha nia (β = 0.377) na matarajio ya juhudi ya pili (β = 0.281), ushawishi wa kijamii bila matokeo (β = −0.038), na wasiwasi wa kujifunza kidijitali kwa β = −0.281 ([[davor-digital-learning-anxiety-utaut-genai-ghana-2026|Davor na wenzake, 2026]]). Matarajio ya juhudi pia yalipunguza wasiwasi (β = −0.126), hivyo urahisi wa matumizi ulifanya kazi kwa sehemu kwa kuupunguza.
+
 **Nadharia Iliyounganishwa ya Kukubalika na Matumizi ya Teknolojia** inaunganisha TAM na mifano minane ya awali katika vigezo vinne vya msingi — matarajio ya utendaji, matarajio ya juhudi, ushawishi wa kijamii, na hali zinazorahisisha (na UTAUT2 ikiongeza motisha ya kufurahia, thamani ya bei, na tabia; UTAUT3 ikiongeza ubunifu binafsi). Hifadhi ya maarifa inatumia UTAUT katika idadi ya walimu na wanafunzi: [[mathematics-teachers-chatbot-motivation-2026|walimu wa hisabati wa sekondari wa Austria]] (UTAUT na walimu 448), [[pre-service-science-teachers-ai-perceptions-2026|walimu wa sayansi wa kabla ya huduma nchini Ghana]] (UTAUT + TPB), na [[tian-genai-learning-adoption-pathways-2026|wanafunzi nchini Lesotho]] (UTAUT3 + ARCS, wakitumia PLS-SEM na fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] wanapanua UTAUT2 na AI inayoeleweka (Random Forest, SHAP, NCA, IPMA, K-Means) kwa wanafunzi 522 wa chuo kikuu, wakipata **tabia** kuwa mtabiri mwenye nguvu zaidi wa nia ya ChatGPT na kuonyesha kuwa **matarajio ya juhudi ni hali muhimu badala ya msukumo wa mstari** — matokeo yanayoonekana tu wakati XAI inakamilisha uchanganuzi wa kurudia.
 
 ### Nadharia ya Kitendo chenye Mpango (TPB)
@@ -63,8 +68,11 @@ Miundo ya kupokea inatumika katika hifadhi yote ya maarifa kuunda mfano wa kupit
 
 - **Upanuzi wa matumizi mahususi:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] walipanua TAM na *matumizi mahususi* kwa wanafunzi wa uhandisi/informatics, wakipata kuwa mitazamo na matumizi mahususi hutabiri moja kwa moja nia — na kuwa matumizi mahususi yanalinda dhidi ya [[cognitive-offloading|kutegemea kupita kiasi]].
 - **Mfano mmoja wa kisosholojia-kisosholojia:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] waliunganisha TAM na UTAUT kwa wanafunzi wa uhandisi nchini Bangladesh (wakielezea 64% ya tofauti ya matumizi).
-- **Wasifu unaozingatia mtu:** Badala ya miundo inayozingatia vigezo, [[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed]] hufanya makundi ya wahusika wa kupokea GenAI, na [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al.]] wanatumia uchanganuzi wa wasifu la „latent” kutambua wasifu wanne wa kukubalika ChatGPT miongoni mwa walimu wa kabla ya huduma — wakionyesha mwendo wa uwanja zaidi ya akaunti za mstari, za mfano mmoja.
+- **[[latent-profile-analysis|Wasifu unaozingatia mtu]]:** Badala ya miundo inayozingatia vigezo, [[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed]] hufanya makundi ya wahusika wa kupokea GenAI, na [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al.]] wanatumia uchanganuzi wa wasifu la „latent” kutambua wasifu wanne wa kukubalika ChatGPT miongoni mwa walimu wa kabla ya huduma — wakionyesha mwendo wa uwanja zaidi ya akaunti za mstari, za mfano mmoja.
 - **Uthibitisho wa kitamaduni mbalimbali:** [[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al.]] wanathibitisha kivitamaduni dhana za motisha zinazohusiana na kupokea katika Uswisi na Uchina.
+
+- **Mpatanishi wa maarifa kando ya wapatanishi wa matarajio:** [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] huweka [[ai-literacy|ujuzi wa AI]] kati ya [[self-efficacy|uwezo binafsi wa AI]] na kukubalika kwa wanafunzi 622 wa shahada ya kwanza nchini Türkiye. Njia isiyo ya moja kwa moja ilikuwa na umuhimu (B = 0.15, 95% CI [0.12, 0.19]) na ikaacha njia ya moja kwa moja ikiwa kamili (B = 0.43, R² = 0.29); kukubalika pia kulionyesha uhusiano mdogo hasi na [[anxiety-and-stress|wasiwasi wa AI]] (B = -0.34, R² = 0.05). Pale kazi ya [[trust-calibration|kuzidi kwa imani]] hapa chini inavyopitisha kujiamini kupitia matarajio ya utendaji, utafiti huu unaipitisha kupitia kile wanafunzi wanachojua kuhusu teknolojia.
+
 - **Vigezo vya kisaikolojia:** [[acceptance-ai-english-tools-2026|Wu et al.]] hujenga juu ya TAM kuhusisha motisha, [[self-efficacy]], wasiwasi, na hisia ya hatari na kukubalika kwa zana za kielimu cha Kiingereza zinazosaidiwa na AI.
 - **Upinzani wa uwezo wa [[regulation|kisheria]]:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] anadai kuwa miundo ya TAM inayozingatia kupokea huchukulia matumizi kama uamuzi thabiti, wakati matumizi yenye ufanisi ya AI ni mchakato unaoendelea wa hukumu, marekebisho, na kupitisha kwa uteuzi — ikirekebisha [[ai-literacy]] kama uwezo wa kisheria na [[critical-thinking]] badala ya kukubalika.
 
@@ -73,6 +81,10 @@ Kuongeza uwezo wa familia ya [[tpack|TPACK]] kando ya mifumo ya imani kama Nadha
 - **Vigezo vya ML vya kupokea ChatGPT:** Mbinu ya uchunguzi ya ML ilichunguza jinsi hisia na demografia za wanafunzi zinavyohusiana na matumizi ya ChatGPT ya kitaaluma yaliyokusudiwa, kwa kutumia uchanganuzi wa SHAP kutambua dhana muhimu zinazohusiana na kujifunza — kwa kipaumbele cha maana ya kielimu badala ya kuongeza utendaji wa algorithmi ([[determinants-chatgpt-use-higher-education-2026]]).
 
 - **[[explainable-ai|Uelewevu]] na umuhimu wa taaluma kama mifumo ya kukubalika kwa walimu:** Kwa kurekebisha nadharia ya uaminifu kwa otomatiki kuendana na kukubalika kwa walimu kwa mapendekeo ya AI, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] walipata kuwa uelewevu (unaoinuliwa na AI inayoeleweka) ulihusiana kwa chanya na uaminifu na kukubalika kwa zana ya kupanga vikundi ya AI, na kuwa maelezo yanayosukumwa na taaluma katika lugha ya [[curriculum-design|mtaala]] yalifanya vizuri zaidi kuliko yale yanayosukumwa na data ya umuhimu wa kipengele katika zote tatu. Kukubalika pia kulisukumwa na upatanishaji wa [[pedagogy|kibunifu]] na uwezo wa kupunguza mzigo wa kazi — mambo ya hali zaidi ya uaminifu ambayo dhana za kawaida za TAM/UTAUT mara chache huzicamata, zikithibitisha hoja ya kupanua miundo ya kupokea na muktadha na uelewevu.
+
+
+Katika utafiti wa mahojiano ya mawimbi mawili kwa wataalam 22, kujifunza zaidi kuhusu AI kuliwafanya wengine kuwa waangalifu zaidi badala ya kukubali zaidi, kikipindua mwelekeo unaodhaniwa wa mfano kutoka uzoefu hadi urahisi wa matumizi ([[stalboerger-faculty-perceptions-2026|Stalboerger na wenzake, 2026]]).
+
 - **Kukubalika kupimwa katika kiwango cha nyenzo za kufundisha (2026).** [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang na Wu (2026)]] waliweka Matarajio ya Utendaji, Matarajio ya Juhudi, Kuchezesha Kunachohisiwa, na Nia ya Tabia katika vitabu viwili vya ujuzi wa AI vilivyo na kizingiti cha umri vilivyotumiwa na wanafunzi 794 wa [[k-12]] na walimu 37, wakithibitisha muundo wa vipengele vinne kwa EFA na CFA za sampuli mbili na kusaidia kutokuwa na mabadiliko ya upimaji katika matoleo ya 9-12 na 13-18. Wanafunzi wadogo waliripoti viwango vya juu zaidi katika dhana zote nne, na kuchezesha kulikuwa na mahusiano makubwa zaidi na nia katika makundi yote mawili — huku koeffisheni ya kuchezesha-hadi-nia iliyosawazwa ikizidi 1.00 katika kikundi cha wanafunzi wadogo na HTMT ya .950 kati ya dhana hizo mbili. Waandishi husoma hilo kama mwingiliano wa dhana na uwezekano wa kuzuia badala ya athari kubwa, kikumbusho chenye manufaa kwamba vyombo vya kukubalika vilivyotumika kwa nyenzo vinaweza kuzalisha vipengele vilivyounganishwa kwa kimaana ambavyo hupata ugumu katika tafsiri ya kimuundo.
 
 ## Vizuizi na upanuzi
@@ -85,7 +97,21 @@ Mwelekeo wa kikognitivi wa TAM pia unakamata kwa kiwango kidogo vipimo vya kihis
 
 Kiungo cha hatari na matumizi pia kinategemea mfumo: katika mifumo 49 ya TALIS 2024 iliyotoa vitu hivyo, ufaafu wa AI unaotambatika ulihusishwa chanya na matumizi ya AI katika yote 49, wakati hatari inayotambatika ilihusishwa hasi katika 40 na chanya katika tisa ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
-Upanuzi wa hivi karibuni unapindua mwelekeo wa kawaida, ukiweka imani za motisha mahususi kwa somo juu ya mitazamo ya TAM badala ya kando yao. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] wanaripoti thamani ya manufaa ikitabiri ufaafu unaohisiwa kwa β = 0.43 na matarajio ya mafanikio yakitabiri urahisi wa matumizi kwa β = 0.39, wakati njia za msingi za TAM zikipungua lakini zikibaki na umuhimu.
+**Matarajio ya utendaji yanaweza kubeba uhusiano ambao utafiti wa kupokea huusoma kama nia ya kutumia.** Katika [[kim-overtrust-ai-literacy-2026|Kim, Kim na Zhang (2026)]] matarajio ya utendaji yalitabiri kuzidi kwa imani kwa AI kwa B = 0.6107 na yalikuwa mpatanishi wa kwanza ambao uwezo binafsi, motisha ya ndani na [[motivation|motisha ya nje]] zilifikia kuzidi kwa imani. Njia isiyo ya moja kwa moja ya matarajio pekee ilikuwa chanya kwa vitabiri vyote vitatu, 0.1355 (95% CI [0.0542, 0.2330]) kwa uwezo binafsi, hivyo matarajio hayakuwa yanatabiri tu iwapo wanafunzi wangeitumia zana.
+
+
+Upanuzi wa hivi karibuni unapindua mwelekeo wa kawaida, ukiweka imani ya [[discipline-specific-aied|taaluma mahususi]] za motisha mahususi kwa somo juu ya mitazamo ya TAM badala ya kando yao. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] wanaripoti thamani ya manufaa ikitabiri ufaafu unaohisiwa kwa β = 0.43 na matarajio ya mafanikio yakitabiri urahisi wa matumizi kwa β = 0.39, wakati njia za msingi za TAM zikipungua lakini zikibaki na umuhimu.
+
+**Kufaa kwa kazi na teknolojia kama njia sambamba, na ulazima kama swali tofauti.** Upanuzi mwingi juu unaongeza vipimo *ndani* ya mfano wa imani. Mfumo mmoja wa ndugu ambao masudio ya TAM mara chache huubeba ni Kufaa kwa Kazi na Teknolojia, unaouliza iwapo uwezo wa chombo unalingana na mahitaji ya kazi mahususi. [[chu-design-students-ai-agent-tam-ttf-2026|Chu na Liu (2026)]] waliunganisha hizi mbili kwa wanafunzi 405 wa uzamili wa ubuni katika vyuo vikuu vya China, na kufaa kulifanya kazi kama njia ya pili kwenye mtazamo badala ya kiini cha manufaa.
+
+Sifa za kazi ziliingiza kufaa kwa β = 0.322 na sifa za teknolojia kwa β = 0.266. Kufaa kisha kuliingiza mtazamo kwa β = 0.224, kando ya manufaa yanayohisiwa (0.376) na urahisi wa matumizi unaohisiwa (0.185), na mtazamo uliingiza nia kwa β = 0.388. Uwezo binafsi ulibeba vihesabu vikubwa zaidi vya juu, 0.458 kwenye manufaa na 0.394 kwenye urahisi wa matumizi. Furaha iliyohisiwa iliongeza urahisi wa matumizi (0.220) na ikaacha manufaa bila kuguswa (−0.033, p = 0.483) — mgawanyiko wa kifaa/kihisia ambao mfano wa kawaida hautoi.
+
+Nyongeza ya kimbinu ndiyo sehemu inayohamishika zaidi. Mtandao wa perceptron wa tabaka nyingi ulizalisha upangaji wa umuhimu wa PLS-SEM katika mifano yote minne. Uchanganuzi wa sharti la lazima kisha uligundua sakafu mbili tu: uwezo binafsi kwa manufaa (d = 0.125, p = 0.015) na mtazamo kwa nia (d = 0.132, p < 0.001). Mtazamo kwa 22.1%, 34.3% na 46.4% ya kipimo chake ulihitajika kwa nia kwa 80%, 90% na 100%, hivyo mtazamo hufanya kazi kama lango badala ya uzito, ambayo ni dai tofauti na mgawo wa njia wa 0.388. Tahadhari iko katika tokeo: R² = 0.150 na Q² = 0.011 kwa nia zinasema njia kumi zilizodhaniwa zinaacha mengi ya tofauti mahali pengine.
+
+**Sifa za ubuni juu ya imani, na umuhimu ambao si ulazima.** [[zhang-ai-enhanced-systems-adoption-ann-nca-2026|Zhang, Xin na Qing (2026)]] waliweka sifa sita za mfumo mbele ya imani mbili za TAM kwa wanafunzi 301 wa chuo kikuu cha China, wakiazima fremu ya kichocheo–kiumbe–jibu. Ubinafsishaji na mwingiliano vilisogeza manufaa yanayohisiwa peke yake, wakati akili na ukamilifu wa maudhui vilisogeza urahisi wa matumizi peke yake. Mwitikio ulisogeza vyote viwili; ubinadamu haukusogeza kimoja. Mfano ulielezea R² = 0.244 ya nia (SRMR = 0.033), huku urahisi wa matumizi ukiwa mbele ya manufaa kwenye nia (β = 0.340 dhidi ya 0.265). Umuhimu wa mtandao uliothibitishwa kwa mara kumi ulikubaliana, ukipanga urahisi wa matumizi kwa 100% dhidi ya 84.70% kwa manufaa.
+
+Uchanganuzi wa sharti la lazima kisha ulitenganisha ushawishi na sharti. Urahisi wa matumizi, kitabiri kilichopangwa juu, ulishindwa kabisa (d = 0, p = 0.592). Manufaa yalikuwa ya lazima lakini madogo (d = 0.027, p = 0.011). Waandishi wanasoma mgawanyiko huo kama tahadhari dhidi ya kuchukulia mgawo wa njia kama sakafu. Mgawo wenye nguvu unasema kitengo cha urahisi hununua nia kwa wastani; ni ulazima pekee unaosema iwapo imani nyingine inaweza kukosekana.
+
 
 ## Dhana Potofu za Kawaida
 
@@ -136,5 +162,13 @@ Upanuzi wa hivi karibuni unapindua mwelekeo wa kawaida, ukiweka imani za motisha
 - [[risk-perception-genai-perceived-benefits-2026]] — CAT + PMT zilizounganishwa katika TAM/UTAUT2: athari za hatari maalum za kipengele na zisizo za mstari juu ya faida za GenAI zinazotambatika (Du, Ning, Shi & Chen 2026)
 
 - [[capability-decision-model-teacher-readiness-2026]] — Mbadala uliopangwa wa kubandika uwezo wa TPACK juu ya miundo ya kupokea ya Nadharia ya Kitendo chenye Mpango
+
+- [[pinedo-genai-adoption-marketing-students-2026]] — UTAUT2 kwa wanafunzi 310 wa masoko: tabia inabeba nia na matumizi, matarajio yanakaa kimya
+- [[stalboerger-faculty-perceptions-2026]] — Wataalam 22: kujifunza zaidi kuhusu AI kunaweza kuongeza uangalifu badala ya kukubali
+- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — Ujuzi wa AI kama mpatanishi kati ya uwezo binafsi na kukubalika kwa wanafunzi 622
+- [[chu-design-students-ai-agent-tam-ttf-2026]] — Kufaa kwa kazi na teknolojia kama njia ya pili kwenye mtazamo kwa wanafunzi 405 wa ubuni
+- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Sifa za mfumo juu ya imani: ubinafsishaji, mwingiliano, akili na ukamilifu wa maudhui
+- [[kim-overtrust-ai-literacy-2026]] — Matarajio ya utendaji yanatabiri kuzidi kwa imani, si nia ya kutumia tu
+
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Wasifu wa TALIS 2024 unaozingatia mtu wa ufaafu na hatari ya AI inayotambatika katika mifumo 49
 - [[genai-learning-procrastination-planned-behavior-2026]] — Upanuzi wa TPB unaopima ucheleweshaji wa kujifunza unaosaidiwa na GenAI na udhibiti wa wasiwasi juu ya kiungo cha nia–ucheleweshaji

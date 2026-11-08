@@ -1,7 +1,7 @@
 ---
 title: Teoria da autodeterminação
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:22:14-05:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,7 +9,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,9 @@ O **desenvolvimento profissional de professores baseado na TAD** aplica os princ
 
 **A TAD no engajamento de aprendizagem mediado por IA** examina como as ferramentas de [[generative-ai|IA generativa]] moldam a motivação dos estudantes. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combinaram a TAD com a [[network-analysis|análise de redes epistêmicas]] para estudar o engajamento dos estudantes com IA generativa na aprendizagem acadêmica. **[[ai-availability-student-motivation]]** explora como a disponibilidade de IA afeta a motivação e a persistência dos estudantes, conectando-se às preocupações de [[cognitive-offloading|excesso de dependência]] sobre a erosão da motivação. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** estendem a TAD à aprendizagem com IA com uma análise de transição latente de **2.086 estudantes do ensino médio** em um [[curriculum-design|currículo]] de IA de um ano, identificando **três perfis motivacionais (Desengajado, Em Desenvolvimento, Autodeterminado)** que foram estáveis ao longo do tempo e mostrando que a maioria dos estudantes manteve ou avançou para perfis mais altos. Crucialmente, os estudantes que alcançaram ou permaneceram no perfil Autodeterminado mostraram os **maiores ganhos de [[ai-literacy|letramento em IA]]** — evidência longitudinal direta de que satisfazer autonomia, competência e vínculo prevê melhores resultados de aprendizagem com IA, e de que a motivação é uma propriedade de quem aprende desenvolvimental (não fixa).
 
+- **Disponibilidade não é uso.** Com 406 estudantes do 5º ao 8º ano escrevendo duas vezes, uma sem ferramentas digitais e outra com IA generativa opcional, a satisfação de autonomia caiu (Δ = −0,28) enquanto a regulação média permaneceu estável e o grau de uso de IA não predisse pertencimento a perfil ([[schweder-motivational-organization-ai-writing-sdt-2026|Schweder & Grahl (2026)]]).
+
+
 Um resultado contrastante em sala de aula mostra que as necessidades não se movem juntas: entre 2.464 estudantes do segundo ciclo do fundamental, a aprendizagem baseada em competências apoiada pelo ChatGPT elevou o apoio à autonomia e a satisfação de competência, mas produziu uma parcela maior de perfis motivacionais de baixa qualidade, e a satisfação de vínculo foi mais fraca que na aprendizagem baseada em competências sem IA ([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]]).
 
 A autonomia, e não a facilidade, carregou o ganho motivacional aqui. Um [[rct|RCT]] de três braços constatou que um tutor que retém dicas, mantendo os aprendizes construindo a própria solução, foi o único braço a elevar a motivação intrínseca (2,82 vs 2,42), enquanto o ChatGPT irrestrito, que entrega a resposta, não o fez (2,64, p = ,076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
@@ -60,19 +63,25 @@ Um teste configuracional afia o ponto: entre 498 estudantes de graduação em me
 
 Para os próprios professores, a colaboração com a IA corta nos dois sentidos: um estudo de três ondas com 468 professores universitários constatou que ela elevou o engajamento no trabalho por meio da disponibilidade psicológica, ao mesmo tempo que o reduziu por meio da alienação no trabalho, e a [[teacher-ai-competency|competência digital]] fortaleceu a primeira via e enfraqueceu a segunda ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 
-Um framework de co-agência delimita o alcance da TAD na educação mediada por IA: ele muda as circunstâncias sob as quais autonomia, competência e vínculo surgem, mas deixa sem tratamento a equidade de poder, a propriedade dos dados e a responsabilização, e é por isso que seus autores estabelecem a responsabilização epistêmica humana como condição inegociável fora da teoria ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
+Um framework de co-agência delimita o alcance da TAD na educação mediada por IA: ele muda as circunstâncias sob as quais autonomia, competência e vínculo surgem, mas deixa sem tratamento a [[equity-in-ai-education|equidade]] de poder, a propriedade dos dados e a responsabilização, e é por isso que seus autores estabelecem a responsabilização epistêmica humana como condição inegociável fora da teoria ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
 
-**O apoio à autonomia como enquadramento para o uso de IA generativa pelas crianças.** [[family-school-autonomy-support-genai-2026|Fan, Li e Zhang (2026)]] deslocam a questão do uso responsável da restrição para o apoio às necessidades, argumentando que a distinção que importa é se os adultos em torno de uma criança apoiam a autonomia, em vez de controlá-la, e distinguindo o [[cognitive-offloading|descarregamento]] dependente do autônomo nos termos da TAD: o descarregamento dependente transfere [[agency|agência]] e reduz a motivação intrínseca, enquanto o autônomo dá andaimento enquanto quem aprende retém o controle epistêmico. Duas características da revisão são diretamente relevantes à aplicação da TAD: ela insiste que o apoio à autonomia não é permissividade, e trata a coordenação família–escola que a orientação atual pressupõe como uma hipótese não testada, formalizando versões aditiva, sinérgica e compensatória que apenas um ensaio fatorial contrastando orientação apenas familiar, apenas escolar, coordenada e de prática usual poderia discriminar.
+**O apoio à autonomia como enquadramento para o uso de IA generativa pelas crianças.** [[family-school-autonomy-support-genai-2026|Fan, Li e Zhang (2026)]] deslocam a questão do uso responsável da restrição para o apoio às necessidades, argumentando que a distinção que importa é se os adultos em torno de uma criança apoiam a autonomia, em vez de controlá-la, e distinguindo o [[cognitive-offloading|descarregamento]] dependente do autônomo nos termos da TAD. O descarregamento dependente transfere [[agency|agência]] e reduz a motivação intrínseca; o autônomo [[scaffolding|dá andaimento]] enquanto quem aprende retém o controle epistêmico. Duas características da revisão são diretamente relevantes à aplicação da TAD: ela insiste que o apoio à autonomia não é permissividade, e trata a coordenação família–escola que a orientação atual pressupõe como uma hipótese não testada, formalizando versões aditiva, sinérgica e compensatória que apenas um ensaio fatorial contrastando orientação apenas familiar, apenas escolar, coordenada e de prática usual poderia discriminar.
 
 ## Conexões com conceitos afins
 
 A TAD se conecta diretamente à [[motivation|motivação]] como seu construto-mãe, à [[affective-computing|computação afetiva]] e à [[affective-tutoring|tutoria afetiva]] para o desenho de IA consciente das emoções, e à [[student-experience|experiência do estudante]] para como quem aprende vivencia ambientes mediados por IA. A ênfase da teoria na autonomia se conecta à [[self-regulated-learning|aprendizagem autorregulada]], enquanto sua dimensão de competência se conecta à [[self-efficacy-tutoring-learning]] e à [[teacher-ai-competency|competência em IA do professor]]. A TAD é particularmente relevante para a [[professional-training|formação profissional]] e o [[educational-development|desenvolvimento educacional]] porque o desenho que apoia as necessidades é um princípio transferível para preparar educadores a usar a IA.
 
+
+**As três necessidades não são exercitadas de forma uniforme pela pesquisa em IA generativa.** [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna e Jiang (2026)]] codificaram 39 estudos contra uma classificação de 20 atividades e encontraram 14 atividades presentes, com sete tipos relacionados à competência contra cinco para autonomia e dois para vínculo. Seis atividades estavam ausentes de todos os estudos, e a maioria pede ao estudante que julgue ou desafie a ferramenta: criar problemas desafiadores, antecipar as saídas da ferramenta, avaliar essas saídas e debater com ela. O vínculo é a necessidade que a literatura menos testa.
+
+
+
+
 ## Ideias equivocadas comuns
 
 - **"O tipo de motivação importa menos do que a quantidade de motivação."** Um estudo de um ano encontrou **três perfis motivacionais — Desengajado, Em desenvolvimento, Autodeterminado — estáveis ao longo do tempo**, e os estudantes que chegaram ao perfil **Autodeterminado** mostraram os **maiores ganhos de [[ai-literacy|letramento em IA]]**. A qualidade da motivação predisse a aprendizagem, e os perfis não simplesmente derivaram para cima.
 - **"Apoio à autonomia significa remover estrutura."** O mecanismo da TAD é autonomia, competência e vínculo juntos, e a evidência longitudinal mostra que satisfazê-los predisse ganhos, e não apenas os acompanhou. Autonomia sem apoio à competência é permissividade, e não satisfaz as condições da teoria.
-- **"Um chatbot consegue suprir as três necessidades automaticamente."** Um estudo constatou que o ChatGPT podia apoiar autonomia, vínculo e competência na aprendizagem de línguas — uma possibilidade, não uma propriedade. Se uma dada interação as apoia é uma questão empírica sobre como ela é usada.
+- **"Um [[conversational-ai|chatbot]] consegue suprir as três necessidades automaticamente."** Um estudo constatou que o ChatGPT podia apoiar autonomia, vínculo e competência na aprendizagem de línguas — uma possibilidade, não uma propriedade. Se uma dada interação as apoia é uma questão empírica sobre como ela é usada.
 
 ## Conceitos conectados
 
@@ -105,3 +114,7 @@ A TAD se conecta diretamente à [[motivation|motivação]] como seu construto-m�
 - [[genai-learning-engagement-medical-undergraduates-2026]] — O uso de IAG se liga fracamente à satisfação de necessidades e é desnecessário para o alto engajamento (He et al. 2026)
 - [[teacher-ai-collaboration-work-engagement-2026]] — Vias duplas da colaboração professor–IA para o engajamento no trabalho, moderadas pela competência digital
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — A retenção de dicas preservou a autonomia onde entregar a resposta não preservou
+
+- [[schweder-motivational-organization-ai-writing-sdt-2026]] — Disponibilidade de IA, declínio da autonomia e perfis motivacionais do 5º ao 8º ano (Schweder & Grahl 2026)
+- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 39 estudos codificados contra uma classificação de 20 atividades; competência mais exercitada, vínculo menos
+

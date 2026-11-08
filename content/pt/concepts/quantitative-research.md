@@ -1,14 +1,14 @@
 ---
 title: Pesquisa quantitativa
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:22:14-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 ## Perguntas para refletir
 
-- \"Estudantes que usam um tutor de IA pontuam mais alto\" — antes de ler, essa é uma afirmação sobre causação ou sobre correlação, e qual peça única de evidência converteria uma na outra?
+- \"Estudantes que usam um [[intelligent-tutoring|tutor de IA]] pontuam mais alto\" — antes de ler, essa é uma afirmação sobre causação ou sobre correlação, e qual peça única de evidência converteria uma na outra?
 - Uma pesquisa transversal pode testar um modelo mediacional complexo, mas nunca estabelecer causação. Por que duas variáveis poderiam se correlacionar numa pesquisa mesmo quando nenhuma causa a outra? Você consegue pensar numa forma de ser genuinamente enganado por tal correlação na educação?
 - Instrumentos quantitativos são tão bons quanto aquilo que medem — e a página nota que instrumentos podem medir o construto errado. Quando você preenche uma pesquisa de autorrelato sobre \"confiança\" ou \"engajamento\", o que ela poderia de fato estar capturando em seu lugar, e como você descobriria?
 - Um RCT atribui aleatoriamente estudantes a condições para estimar um efeito causal. O que torna a atribuição aleatória poderosa, e que problemas práticos e éticos surgem quando o \"tratamento\" é uma ferramenta de IA possivelmente útil que está sendo negada a alguns estudantes?
@@ -46,13 +46,13 @@ Pesquisas transversais medem atitudes, percepções, motivação, [[self-efficac
 
 - **Pontos fortes:** amostras grandes; cobertura ampla e de baixo custo; testa modelos mediacionais complexos; viável para atitudes difíceis de observar.
 - **Limitações:** dados transversais não podem estabelecer causação; viés de autorrelato; amostragem por conveniência limita a generalizabilidade; mediadores inferidos a partir de covariância, não de manipulação. Ver [[self-report-measures]] para o tratamento do lado do instrumento desses limites.
-- **Um modelo de mediação saturado não consegue testar sua própria ordenação.** Um levantamento de uma única onda com 1.020 estudantes de enfermagem dividiu um efeito total de 1,36 em um direto de 0,92 e um indireto de 0,44 via aprendizagem autorregulada, 32,35% do total, com um modelo que tem tantos parâmetros livres quanto covariâncias observadas e, portanto, reproduz os dados por construção ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
+- **Um modelo de mediação saturado não consegue testar sua própria ordenação.** Um levantamento de uma única onda com 1.020 estudantes de enfermagem dividiu um efeito total de 1,36 em um direto de 0,92 e um indireto de 0,44 via [[self-regulated-learning|aprendizagem autorregulada]], 32,35% do total, com um modelo que tem tantos parâmetros livres quanto covariâncias observadas e, portanto, reproduz os dados por construção ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
 
-**Um efeito indireto total próximo de zero pode esconder dois caminhos vivos.** Em uma onda de autorrelato com 568 estudantes de design, a associação indireta correu 0,0929 pela focalização na promoção e −0,0884 pela focalização na prevenção, somando 0,0045, enquanto o caminho direto carregou 98,7% do total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]])
+**Um efeito indireto total próximo de zero pode esconder dois caminhos vivos.** Em uma onda de autorrelato com 568 estudantes de design, a associação indireta correu 0,0929 pela focalização na promoção e −0,0884 pela focalização na prevenção, somando 0,0045, enquanto o caminho direto carregou 98,7% do total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]])..
 
 ### Pesquisa experimental e quase-experimental
 Experimentos atribuem aleatoriamente estudantes a condições (ex., tutor de IA vs. tutor humano, ou com |scaffolding de IA vs. sem assistência) para estimar efeitos causais sobre os resultados. **Ensaios controlados randomizados ([[rct|RCTs]])** são o padrão-ouro para validade interna. [[access-not-enough-ai-tutoring-2026|Um estudo de campo randomizado de apoio humano mais tutoria por IA]] e [[genai-can-harm-teaching-rct-2026|um RCT sobre IA generativa no ensino]] usam a atribuição para isolar efeitos causais. Desenhos **quase-experimentais** (pré/pós, grupos pareados sem randomização) são mais viáveis em salas de aula intactas, mas mais fracos em alegações causais.
-[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adotam em vez disso um crossover within-subject: cada estudante encontra o mesmo conteúdo de física duas vezes, uma numa aula ativa em sala e outra pelo próprio tutor de IA do curso, com pré- e pós-testes em torno de cada, de modo que cada estudante serve como seu próprio controle, e as diferenças entre pessoas se cancelam.
+[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adotam em vez disso um crossover within-subject: cada estudante encontra o mesmo conteúdo de física duas vezes, uma numa [[active-learning|aula ativa]] em sala e outra pelo próprio tutor de IA do curso, com pré- e pós-testes em torno de cada, de modo que cada estudante serve como seu próprio controle, e as diferenças entre pessoas se cancelam.
 
 - **Pontos fortes:** inferência causal mais forte; mensuração limpa dos resultados; sustenta estimativa de tamanho de efeito e alegações de eficácia.
 - **Limitações:** custoso e lento; condições artificiais reduzem a validade ecológica; ferramentas de IA que mudam rápido datam os experimentes rapidamente; amostras pequenas têm pouco poder para detectar efeitos; restrições éticas de reter ferramentas úteis.

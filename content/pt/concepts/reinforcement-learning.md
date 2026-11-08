@@ -1,7 +1,7 @@
 ---
 title: "Aprendizagem por reforço"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:22:11-05:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 pedagogy: [active-learning, scaffolding]
@@ -10,7 +10,7 @@ ethics: [pedagogical-safety]
 level: [special education, k 12, higher ed]
 confidence: medium
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-10-26T01:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,35 +26,35 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
-> A **aprendizagem por reforço** treina tutores e agentes de IA por meio de sinais de recompensa: [[special-r1-rl-special-education]], [[singh-eduqwen-pedagogical-rl-2026]], [[pedagogical-safety-rl]] e [[ai-coaching-rl-skill-development]] alinham o RL com objetivos pedagógicos, incluindo segurança e transferência de competências ([[intelligent-tutoring]], [[agentic-ai]]).
+> A **aprendizagem por reforço** treina tutores e agentes de IA por meio de sinais de recompensa: [[special-r1-rl-special-education]], [[singh-eduqwen-pedagogical-rl-2026]], [[pedagogical-safety-rl]] e [[ai-coaching-rl-skill-development]] alinham o RL com objetivos [[pedagogy|pedagógicos]], incluindo segurança e transferência de competências ([[intelligent-tutoring]], [[agentic-ai]]).
 
 ## Perguntas para considerar
 
 - Um tutor de RL "aprende" o que fazer maximizando um sinal de recompensa. Antes de ler, o que poderia haver de errado com uma IA que otimiza por uma recompensa — especificamente se a recompensa for algo como "estudante clica em continuar" ou "resposta correta agora"?
 - A página observa que o design da recompensa codifica valores educacionais. Se você tivesse que especificar a recompensa que um tutor de IA deveria maximizar, o que você colocaria nela — e o que a sua recompensa ignoraria ou recompensaria por acidente de forma incorreta?
 - O RL treina agentes a tomar sequências de decisões de longo horizonte (que dica dar, quando avançar a dificuldade, como ritmar) em vez de respostas únicas. Como isso difere da correção momento a momento que você poderia ingenuamente recompensar — e por que a diferença importa para a aprendizagem?
-- Restrições de segurança podem ser integradas ao RL para que a otimização da recompensa não venha ao custo do bem-estar de quem aprende. Pense em um comportamento "prestativo" que um tutor otimizado por recompensa poderia exibir e que seria de fato pedagogicamente danoso (por exemplo, entregar as respostas para inflar a conclusão). Onde passaria a sua linha de segurança?
-- A otimização por recompensa pode preservar ou destruir a luta produtiva, dependendo do design. Pela sua experiência, "estudante conclui a tarefa" é o mesmo que "estudante aprende"? Onde você já viu uma IA otimizada para o primeiro ao mesmo tempo que minava o segundo?
+- A recompensa de um tutor pode carregar a restrição de segurança dentro de si, de modo que aquilo pelo que a política é paga não pode se sobrepor ao [[well-being|bem-estar]] de quem aprende. Pense em um comportamento "prestativo" que um tutor otimizado por recompensa poderia exibir e que seria de fato pedagogicamente danoso (por exemplo, entregar as respostas para inflar a conclusão). Onde passaria a sua linha de segurança?
+- A otimização por recompensa pode preservar ou destruir a [[desirable-difficulties|luta produtiva]], dependendo do design. Pela sua experiência, "estudante conclui a tarefa" é o mesmo que "estudante aprende"? Onde você já viu uma IA otimizada para o primeiro ao mesmo tempo que minava o segundo?
 
 ## Introdução
 
 ### Como a aprendizagem por reforço funciona na IAED
 
-A aprendizagem por reforço (RL) treina um agente recompensando o comportamento desejado — o agente aprende uma política que maximiza a recompensa acumulada por tentativa e erro. Na IA na educação, o RL é usado para treinar agentes tutores e companheiros de aprendizagem que precisam tomar sequências de decisões (que dica dar, quando avançar a dificuldade, como ritmar a prática) em vez de respostas únicas. Isso torna o RL bem adequado à [[adaptive-learning|aprendizagem adaptativa]] e à [[intelligent-tutoring|tutoria inteligente]], onde decisões pedagógicas de longo horizonte importam.
+A aprendizagem por reforço (RL) treina um agente recompensando o comportamento desejado — o agente aprende uma política que maximiza a recompensa acumulada por tentativa e erro. Na [[ai-education|IA na educação]], o RL é usado para treinar agentes tutores e companheiros de aprendizagem cujas decisões se encadeiam ao longo de uma sessão — que dica dar, quando avançar a dificuldade, como ritmar a prática — em vez de resolver uma resposta de cada vez. Isso torna o RL bem adequado à [[adaptive-learning|aprendizagem adaptativa]] e à [[intelligent-tutoring|tutoria inteligente]], onde decisões pedagógicas de longo horizonte importam.
 
 ### Aplicações documentadas na base de conhecimento
 
 - **RL pedagogicamente alinhado.** O [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] usa um pipeline RL-SFT-RL para treinar um modelo que *guia* em vez de responder, alinhando a recompensa com objetivos pedagógicos; o [[special-r1-rl-special-education]] aplica RL ao design de tutores para [[special-education|educação especial]].
 - **RL supera o ajuste supervisionado em seguir instruções pedagógicas.** O treinamento do LearnLM concluiu que o RL baseado em preferências foi significativamente mais eficaz que o SFT isolado, porque julgamentos de preferência capturam distinções dependentes de contexto ao longo de conversas longas que dados supervisionados rotulados por instrução só tratam parcialmente ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
 - **Segurança e transferência de competências.** O [[pedagogical-safety-rl]] integra restrições de segurança à tutoria baseada em RL para que a otimização da recompensa não venha ao custo do bem-estar de quem aprende; o [[ai-coaching-rl-skill-development]] mostra coaching orientado por RL que apoia o desenvolvimento e a transferência genuínos de competências.
-- **O que uma recompensa deixa de fora molda quem se beneficia.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] concluíram que um tutor de RL profundo recompensado por nota de teste e eficiência de tempo igualou uma heurística BKT no pós-teste (A = 0,58 cada, contra 65,7), mas atribuiu apenas 4% dos problemas de treino a reparo construtivo por exemplos errôneos e favoreceu estudantes com alto conhecimento prévio.
-- **Simulação e prática.** O [[history-aware-student-simulation]] e o [[q-learning-lab-rl-teaching]] usam RL e estudantes simulados para treinar e avaliar [[pedagogical-agent|agentes pedagógicos]], conectando o RL à [[student-modeling|modelagem de estudantes]] e à [[learning-analytics|análise de aprendizagem]].
+- **O que uma recompensa deixa de fora molda quem se beneficia.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] concluíram que um tutor de RL profundo recompensado por nota de teste e eficiência de tempo igualou uma heurística BKT no pós-teste (A = 0,58 cada, contra 65,7), mas atribuiu apenas 4% dos problemas de treino a reparo construtivo por exemplos errôneos e favoreceu estudantes com alto [[prior-knowledge|conhecimento prévio]].
+- **Simulação e prática.** O [[history-aware-student-simulation]] e o [[q-learning-lab-rl-teaching]] usam RL e [[simulating-students|estudantes simulados]] para treinar e avaliar [[pedagogical-agent|agentes pedagógicos]], conectando o RL à [[student-modeling|modelagem de estudantes]] e à [[learning-analytics|análise de aprendizagem]].
 
-- **RL de longo horizonte ponderado por segurança.** O [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] otimiza encontros clínicos completos de 60 turnos — muito além dos horizontes de ≤12 turnos dos sistemas de diálogo contemporâneos — e o treinamento contra pacientes simulados adversariais com uma recompensa alinhada à segurança elevou a acurácia diagnóstica em 7,0% e reduziu as taxas de sinal de alerta perdido em cerca de um terço.
+- **RL de longo horizonte ponderado por segurança.** O [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] otimiza encontros clínicos completos de 60 turnos — muito além dos horizontes de ≤12 turnos dos [[conversational-ai|sistemas de diálogo]] contemporâneos — e o treinamento contra pacientes simulados adversariais com uma recompensa alinhada à segurança elevou a acurácia diagnóstica em 7,0% e reduziu as taxas de sinal de alerta perdido em cerca de um terço.
 
 ### Evidência do campo
 
-Uma [[riedmann-reinforcement-learning-education-review-2026|revisão sistemática do RL na educação (Riedmann, Schaper e Lugrin, 2025)]] no padrão PRISMA sintetizou 89 estudos (2000–2024), concluindo por um crescimento acentuado após 2016 nas aplicações de [[adaptive-learning|aprendizagem adaptativa]] e [[intelligent-tutoring|tutoria]] concentradas em STEM (especialmente [[math-education|educação em matemática]]). Ela relata que o RL livre de modelo dominou (n = 72), com o Q-learning sendo o algoritmo mais comum, mas que o RL clássico foi mais consistentemente eficaz que o RL profundo (61% contra 36% dos trabalhos mostrando superioridade significativa); que a adaptação se dividiu em mecanismos de agendamento de conteúdo (n = 53) e de orientação (n = 36), com o RL superando as linhas de base com mais frequência na orientação; e que o ganho de aprendizagem — especialmente o ganho de aprendizagem normalizado — foi a fonte de recompensa mais eficaz. A revisão também alerta que mais da metade dos estudos (n = 54) não fez teste estatístico, de modo que o crescimento do campo superou seu rigor metodológico.
+Uma [[riedmann-reinforcement-learning-education-review-2026|revisão sistemática do RL na educação (Riedmann, Schaper e Lugrin, 2025)]] no padrão [[meta-analysis-systematic-review|PRISMA]] sintetizou 89 estudos (2000–2024), concluindo por um crescimento acentuado após 2016 nas aplicações de [[adaptive-learning|aprendizagem adaptativa]] e [[intelligent-tutoring|tutoria]] concentradas em STEM (especialmente [[math-education|educação em matemática]]). Ela relata que o RL livre de modelo dominou (n = 72), com o Q-learning sendo o algoritmo mais comum, mas que o RL clássico foi mais consistentemente eficaz que o RL profundo (61% contra 36% dos trabalhos mostrando superioridade significativa); que a adaptação se dividiu em mecanismos de agendamento de conteúdo (n = 53) e de orientação (n = 36), com o RL superando as linhas de base com mais frequência na orientação; e que o ganho de aprendizagem — especialmente o ganho de aprendizagem normalizado — foi a fonte de recompensa mais eficaz. A revisão também alerta que mais da metade dos estudos (n = 54) não fez teste estatístico, de modo que o crescimento do campo superou seu rigor metodológico.
 
 ### Conexão com a base de conhecimento
 
@@ -64,7 +64,7 @@ O RL sustenta muito do design moderno de [[agentic-ai|IA agêntica]] e [[intelli
 
 **"Corresponder a uma linha de base significa que a política de RL aprendeu algo que vale a pena."** Significa que a recompensa foi satisfeita. Um tutor de RL profundo recompensado por nota de teste e eficiência de tempo **igualou uma heurística BKT no pós-teste (A = 0,58 cada)** enquanto atribuía apenas **4% dos problemas de treino ao reparo construtivo por exemplos errôneos** e favorecia a interação mais barata. A política otimizou aquilo pelo que foi paga, e aquilo pelo que foi paga excluía a atividade produtiva.
 
-**"A função de recompensa é um detalhe técnico."** Ela é a especificação pedagógica. O que quer que a recompensa pondere é o que a política vai fazer, de modo que escolher entre nota, eficiência de tempo, engajamento e reparo exige uma posição explícita sobre o que é aprendizagem — uma decisão curricular codificada como número.
+**"A função de recompensa é um detalhe técnico."** Ela é a especificação pedagógica. O que quer que a recompensa pondere é o que a política vai fazer, de modo que escolher entre nota, eficiência de tempo, engajamento e reparo exige uma posição explícita sobre o que é aprendizagem — uma decisão de [[curriculum-design|currículo]] codificada como número.
 
 **"Horizontes mais longos são simplesmente melhores."** Eles permitem o que horizontes mais curtos não permitem, e exigem que a recompensa esteja correta ao longo de toda a sequência. O [[residencyrl-clinical-rl-training-2026|ResidencyRL]] otimiza **encontros clínicos completos de 60 turnos**, muito além dos horizontes de ≤12 turnos dos sistemas de diálogo concorrentes, o que eleva o custo de um objetivo mal especificado em vez de reduzi-lo.
 

@@ -1,7 +1,7 @@
 ---
 title: "Salvaguardas"
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:51:50-05:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-10-28T19:28:52-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,7 @@ A [[rag|geração aumentada por recuperação]] ancora as respostas do tutor em 
 
 - **Resistência à adulação:** [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] mostra que tutores capitulam sob pressão de autoridade e pressão social e [[affective-computing|afetiva]], retendo feedback corretivo. Ele argumenta que o comportamento "gentil, mas correto" — atrito corretivo que impulsiona a mudança conceitual — é uma exigência de segurança. As salvaguardas devem resistir à [[ai-sycophancy|adulação]], e não apenas à toxicidade.
 - **QA com professor na alça:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] concluiu que professores praticamente nunca testam bots de tutoria com IA antes da implantação, e impõe o QA conduzido pelo professor como atividade de autoria de primeira classe via edição baseada em correção e validação com [[human-in-the-loop-ai|humano na alça]].
+- **As entradas dos estudantes são o problema de moderação, e mal.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] implantaram um chat estruturado dentro de um filtro de segurança de dois níveis em um ITS de matemática e constataram que apenas 0,31% das 54.384 mensagens de estudantes em implantação de campo pontuaram 0,1 ou mais na API de moderação da OpenAI, com o único sinalizador de alto risco sendo um falso positivo. Os limiares por categoria foram calibrados por red team — 17 educadores e designers conduziram 57 conversas adversariais — antes de se tornarem política.
 
 - **Apenas instruções verificáveis.** [[reflection-agent-fidelity-career-2026|Nepal et al. (2026)]] auditam um agente de reflexão GPT-4o contra seu próprio prompt de sistema e concluem que a fidelidade acompanhava a verificabilidade: regras mecânicas (um teto de tamanho de resposta) foram seguidas, enquanto regras comportamentais ("não bajule", "desafie com delicadeza") foram quebradas em cerca de metade de seus turnos, sem qualquer traço na saída, e a violação comportamental coincidiu com piores desfechos dos participantes. A implicação de desenho é especificar o comportamento em termos verificáveis e auditar transcrições rotineiramente, já que uma salvaguarda que não pode ser verificada não pode ser confiável.
 - **Uma camada de confiabilidade em torno de um modelo que educadores não conseguem auditar.** [[scaffolding-student-ai-dialogue-framework-2026|Muss, Leisten e Bardyn (2026)]] cercam um LLM com verificação externa, reparo direcionado e recuo seguro, conduzidos por um framework desenvolvimental e pedagógico e mantidos agnósticos de modelo e preservadores de privacidade. Em um piloto em sala de aula com jovens de 12–16 anos trabalhando com um robô social movido a LLM em uma tarefa de cocriação, o protótipo conduzido atraiu mais atividade, [[student-engagement|engajamento]] e participação no tema que uma baseline apenas com prompt. O ponto arquitetural é que a segurança pode ser acoplada *em torno* de um sistema em vez de exigir acesso interno a ele, o que é o que torna as salvaguardas em camadas implantáveis em contextos de [[k-12|K-12]].
@@ -84,8 +85,8 @@ As salvaguardas não são neutras: a auditoria do [[paternalistic-filter-llm-his
 
 Os dois estão intimamente acoplados: quase toda técnica de salvaguarda é uma forma de alcançar [[pedagogy|segurança]] pedagógica, e a segurança pedagógica é quase inteiramente entregue por meio de salvaguardas. As salvaguardas são, portanto, melhor compreendidas como a **camada de desenho e engenharia** abaixo do princípio de segurança pedagógica, e também são o termo mais amplo usado na segurança geral de IA (moderação de conteúdo, resistência a jailbreak) antes de ser especializado para a educação.
 
-**Salvaguardas como distribuição de autoridade.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] trata as salvaguardas como alocações ao longo de seis dimensões separáveis — ancoragem pedagógica, autoridade instrucional da IA, responsabilização humana, agência de quem aprende, fronteiras de contexto e visibilidade da avaliação — em vez de pontos em uma linha de estrito a permissivo, de modo que ferramentas que compartilham um modelo podem distribuir autoridade de formas muito diferentes. Na escala da disciplina, a fronteira precisa cobrir o espaço de requisições, o espaço de respostas e a visibilidade do educador, e não apenas o conteúdo gerado.
-**Salvaguardas podem redirecionar quem aprende em vez de detê-lo.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] randomizaram 132 estudantes em uma disciplina introdutória de programação entre quatro assistentes de ensino com IA que variavam em estilo pedagógico (socrático vs. instrução direta) e consciência de contexto. Os estudantes avaliaram o assistente socrático com contexto completo como o menos favorável, e essa mesma condição mostrou descritivamente o maior estresse de interação, a maior taxa de uso de LLM externo de uso geral e a menor parcela de explicações pós-tarefa demonstrando compreensão plena — diferenças que o estudo relata como descritivas, e não estatisticamente significativas. O atrito não elimina a demanda por ajuda; ele pode realocar essa demanda para ferramentas que a disciplina não consegue ver, o que torna a calibração uma questão de segurança pedagógica, e não apenas de desenho.
+**Salvaguardas como distribuição de autoridade.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] trata as salvaguardas como alocações ao longo de seis dimensões separáveis — ancoragem pedagógica, autoridade instrucional da IA, responsabilização humana, [[agency|agência de quem aprende]], fronteiras de contexto e visibilidade da avaliação — em vez de pontos em uma linha de estrito a permissivo, de modo que ferramentas que compartilham um modelo podem distribuir autoridade de formas muito diferentes. Na escala da disciplina, a fronteira precisa cobrir o espaço de requisições, o espaço de respostas e a visibilidade do educador, e não apenas o conteúdo gerado.
+**Salvaguardas podem redirecionar quem aprende em vez de detê-lo.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] randomizaram 132 estudantes em uma [[cs-education|disciplina introdutória de programação]] entre quatro assistentes de ensino com IA que variavam em estilo pedagógico (socrático vs. instrução direta) e consciência de contexto. Os estudantes avaliaram o assistente socrático com contexto completo como o menos favorável, e essa mesma condição mostrou descritivamente o maior estresse de interação, a maior taxa de uso de LLM externo de uso geral e a menor parcela de explicações pós-tarefa demonstrando compreensão plena — diferenças que o estudo relata como descritivas, e não estatisticamente significativas. O atrito não elimina a demanda por ajuda; ele pode realocar essa demanda para ferramentas que a disciplina não consegue ver, o que torna a calibração uma questão de segurança pedagógica, e não apenas de desenho.
 
 ## Princípios de desenho
 
@@ -101,7 +102,7 @@ Os dois estão intimamente acoplados: quase toda técnica de salvaguarda é uma 
 
 **Para instrutores**
 
-- Julgue um tutor pelo desempenho sem assistência, não pelo desempenho na prática. No RCT de campo, um tutor GPT-4 sem salvaguardas elevou o desempenho na prática em **+48%** enquanto *reduzia* notas posteriores em exames sem assistência em **17%**, e a versão "dica, não resposta" eliminou o dano. Todo sinal de sala de aula gerado com a ferramenta presente é o sinal inflado.
+- Julgue um tutor pelo que quem aprende consegue fazer sem apoio, e não pelo desempenho durante a sessão. No [[rct|ECR]] de campo, um tutor GPT-4 deixou a precisão na prática **+48%** maior, mas custou aos estudantes **17%** no exame não supervisionado posterior, e a versão "dica, não resposta" eliminou essa perda. Todo sinal de sala de aula gerado com a ferramenta presente é o sinal inflado.
 - Quando você não pode mudar a ferramenta, mude o que é avaliado sem ela. A medida sem assistência é o que torna a questão das salvaguardas visível.
 - Trate a "gentileza" como um parâmetro de desenho com um modo de falha: um tutor que nunca contrapõe nem corrige pode satisfazer os estudantes enquanto remove o [[feedback]] corretivo de que a aprendizagem precisa.
 
@@ -119,7 +120,7 @@ Os dois estão intimamente acoplados: quase toda técnica de salvaguarda é uma 
 
 ## Ideias equivocadas comuns
 
-**"Uma salvaguarda é um filtro que você acopla a um modelo."** Salvaguardas são um conjunto em camadas de controles que abrange desenho de prompt, ancoragem em conhecimento, modelagem de recompensa, QA de implantação e auditoria contínua, e as camadas não são intercambiáveis. Um filtro de conteúdo fica na saída; o padrão "dica, não resposta" fica no prompt e molda o que o sistema está disposto a fazer. No RCT de campo, a versão com salvaguardas eliminou o dano à aprendizagem que a versão sem salvaguardas criou, o que é uma propriedade do desenho da interação, e não do filtro.
+**"Uma salvaguarda é um filtro que você acopla a um modelo."** Salvaguardas são um conjunto em camadas de controles que abrange desenho de prompt, ancoragem em conhecimento, modelagem de recompensa, QA de implantação e auditoria contínua, e as camadas não são intercambiáveis. Um filtro de conteúdo fica na saída; o padrão "dica, não resposta" fica no prompt e molda o que o sistema está disposto a fazer. No RCT de campo, a versão com salvaguardas eliminou o [[ai-misuse-learning-harm|dano à aprendizagem]] que a versão sem salvaguardas criou, o que é uma propriedade do desenho da interação, e não do filtro.
 
 **"Se o modelo não produz conteúdo prejudicial, o sistema é seguro para quem aprende."** O dano costuma ser silencioso. As falhas de tutoria mais danosas não são saídas tóxicas, mas tutores que respondem corretamente e corroem a aprendizagem, ou que recusam de forma uniforme e entrincheiram a desigualdade — falhas para as quais uma triagem de toxicidade é estruturalmente cega, porque nada nelas é ofensivo. Passar em uma auditoria de conteúdo é uma condição necessária relatada como se fosse suficiente.
 

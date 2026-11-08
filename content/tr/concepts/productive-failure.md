@@ -8,7 +8,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ Verimli başarısızlık, diğer "zorluktan öğrenme" yapılarıyla yakından i
 - **Öğrenenleri öğretimden öğrenmeye hazırlar** — neyi bilmediklerini bilir ve yeni materyali denemelerine bağlayabilir.
 - **Bilgi transferini ve kalıcı becerileri güçlendirir** ([[critical-thinking]], dayanıklılık, iletişim), hata yapma korkusunu azaltır ve öğrenmeye yönelik olumlu tutumları destekler.
 
-VB çerçevesi, **dolaylı başarısızlık**, **çözüm çeşitliliği** ve **uyarlanabilir yönlendirme** dahil ilgili tasarımlarla genişletilmiştir (Braas ve ark., 2025; Brand ve ark., 2025).
+VB çerçevesi, **dolaylı başarısızlık**, **çözüm çeşitliliği** ve **uyarlanabilir yönlendirme** dahil ilgili tasarımlarla genişletilmiştir (Braas ve ark., 2025; Brand ve ark., 2025). Vakalar, bu ilk deneme için paylaşılan problem alanını sağlayabilir; ancak vaka temelli kanıt tabanı bu eşleştirmeyi henüz doğrudan sınamamıştır ([[case-based-learning]]).
 
 ## Hatalardan ve yanlışlardan öğrenme
 
@@ -104,6 +104,7 @@ Verimli başarısızlık [[learning-theories]] (yapılandırmacılık), [[desira
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+- [[case-based-learning]] — İlk deneme için paylaşılan problem alanı olarak vakalar
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

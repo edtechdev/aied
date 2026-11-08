@@ -1,7 +1,7 @@
 ---
 title: Apprendimento autodiretto
 created: "2026-10-14T22:02:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:14:01-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [matt-pocock-skills]
 translation_of: concepts/self-directed-learning
-source_updated: "2026-10-25T23:15:00-04:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -39,16 +39,22 @@ ai_assist:
 
 ## Introduzione
 
-L'apprendimento autodiretto è strettamente correlato a — ma distinto da — l'[[self-regulated-learning|apprendimento autoregolato (SRL)]]. Mentre l'SRL enfatizza la regolazione cognitiva, motivazionale e comportamentale dell'apprendimento nel momento (pianificazione, monitoraggio, controllo, riflessione), l'SDL enfatizza la responsabilità complessiva dello studente per la direzione e la gestione del proprio apprendimento nel tempo, spesso in contesti informali o scelti da sé. L'SDL è fondante per l'[[adult-learning|apprendimento degli adulti]] e l'[[lifelong-learning|apprendimento lungo tutto l'arco della vita]], ed è una teoria di rilievo nell'istruzione a distanza e online, dove gli studenti devono sostenere l'autonomia senza orari di lezione programmati. L'SDL è inoltre sempre più *trattabile* allo studio empirico: analizzando i clickstream di 315 studenti online che hanno costruito 822 modelli in VERA, [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] hanno individuato tre firme comportamentali dell'autodirezione — Osservazione, Costruzione ed Esplorazione — e hanno trovato che gli studenti progredivano dalla costruzione pratica verso un'Esplorazione più piena e guidata da ipotesi, mentre l'Osservazione persisteva in tutte le fasi, mostrando che il grado e il tipo di autonomia che gli studenti esercitano in un compito online non strutturato possono essere distinti dai soli dati di traccia.
+L'apprendimento autodiretto è un vicino stretto dell'[[self-regulated-learning|apprendimento autoregolato (SRL)]], non un sinonimo. Mentre l'SRL enfatizza la regolazione cognitiva, motivazionale e comportamentale dell'apprendimento nel momento (pianificazione, monitoraggio, controllo, riflessione), l'SDL enfatizza la responsabilità complessiva dello studente per la direzione e la gestione del proprio apprendimento nel tempo, spesso in contesti informali o scelti da sé. L'SDL è fondante per l'[[adult-learning|apprendimento degli adulti]] e l'[[lifelong-learning|apprendimento lungo tutto l'arco della vita]], ed è una teoria di rilievo nell'istruzione a distanza e [[online-teaching-and-learning|online]], dove gli studenti devono sostenere l'autonomia senza orari di lezione programmati. L'SDL è inoltre sempre più *trattabile* allo studio empirico: analizzando i clickstream di 315 studenti online che hanno costruito 822 modelli in VERA, [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] hanno individuato tre firme comportamentali dell'autodirezione — Osservazione, Costruzione ed Esplorazione — Osservazione, Costruzione ed Esplorazione. Hanno anche trovato che gli studenti progredivano dalla costruzione pratica verso un'Esplorazione più piena e guidata da ipotesi, mentre l'Osservazione persisteva in tutte le fasi, mostrando che il grado e il tipo di autonomia che gli studenti esercitano in un compito online non strutturato possono essere distinti dai soli dati di traccia.
 
 ## Come l'IA generativa ridisegna l'apprendimento autodiretto
 
 La [[research-methods-aied|ricerca]] di questa base di conoscenza documenta entrambi i lati della relazione tra IA generativa e SDL.
 
 - **L'IA può sostenere l'SDL.** [[ai-lifelong-learning-policy|L'IA e l'apprendimento lungo tutto l'arco della vita]] e [[self-directed-growth-generative-ai-learning-analytics|la crescita autodiretta con IA generativa e analisi di apprendimento]] mostrano che gli strumenti di IA possono [[scaffolding|fornire supporto graduale]] all'indagine indipendente, offrire risorse su richiesta e personalizzare i percorsi di apprendimento in modi che rafforzano l'autonomia dello studente. Le [[genai-educational-outcomes-meta-analysis|evidenze metaanalitiche]] sugli esiti educativi dell'IA generativa e la [[conversational-ai-informal-learning|IA conversazionale nell'apprendimento informale]] suggeriscono un potenziale positivo quando l'IA è usata come una risorsa che lo studente dirige.
-- **Gli studenti vogliono un compagno di pensiero, non un oracolo.** Gli studenti adulti intervistati volevano che l'IA sollecitasse la riflessione e verificasse, anziché fornire risposte, e che li lasciasse al controllo del percorso di apprendimento anziché prescriverlo ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
+- **Gli studenti vogliono un compagno di pensiero, non un oracolo.** Gli studenti adulti intervistati volevano che l'IA sollecitasse la riflessione e verificasse, anziché fornire risposte, e che li lasciasse al controllo del [[recommender-systems-and-learning-paths|percorso di apprendimento]] anziché prescriverlo ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
+
+- **Delegare la scelta dell'obiettivo non è lo stesso che sostenerla.** La pagina tratta la fissazione dell'obiettivo come l'atto centrale dello studente, e le evidenze del benchmark dicono che i modelli lo fanno diversamente. Contro 175 esseri umani, GPT-5, Claude Sonnet 4.5 e Qwen3 32B hanno riselezionato l'obiettivo precedente in 0,93, 0,93 e 0,94 delle prove, contro 0,54 ± 0,18 per le persone. L'entropia degli obiettivi era da 0,12 a 0,20 contro 1,67 ± 0,14, e i prompt di catena di pensiero e di persona non hanno colmato il divario. Un sistema che propone cosa imparare dopo riproduce una ricerca più ristretta di quella dello studente che sostituisce ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
+
 
 - **L'uso acritico mina l'SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] mostrano che l'**uso acritico dell'IA generativa** — adottare gli output dell'IA senza valutazione critica — danneggia significativamente l'SDL degli studenti della laurea triennale sia direttamente sia attraverso l'erosione dell'[[self-efficacy|autoefficacia]] e della [[motivation|motivazione]] (il modello spiegava il 75,3% della varianza dell'SDL; TUGA β = −0,42). L'effetto negativo sulla motivazione era più forte per gli studenti di sesso maschile e sull'autoefficacia più forte per quelli di sesso femminile. Questo si collega al rischio più ampio di [[cognitive-offloading|eccessiva dipendenza]] documentato in questa base di conoscenza.
+
+- **Uso non guidato su scala di popolazione.** Su 4.062 studenti in 136 scuole secondarie tedesche, l'uso della GenAI per completare compiti e quello orientato all'apprendimento sono entrambi cresciuti nell'arco di un anno scolastico (d = 0,35 e 0,33), con solo il 5% degli studenti che non ha mai usato gli strumenti; un rendimento precedente più basso prediceva un uso successivo maggiore in tutte e sei le materie, eppure nessuna delle due forme d'uso prediceva il rendimento successivo ([[scherer-self-directed-genai-use-secondary-2026|Scherer et al. (2026)]]).
+
 
 - **Scaricamento cognitivo e delega.** [[andragogy-cognitive-delegation-genai-2026|Andragogia e delega cognitiva]] e [[learning-by-chatting-genai-impact|l'apprendere conversando con l'IA generativa]] esaminano come gli studenti possano delegare lavoro cognitivo all'IA in modi che aggirano l'elaborazione faticosa richiesta dall'SDL — una modalità di fallimento di strumenti peraltro di sostegno all'autonomia. [[critical-thinking-genai-scaffolding|Il supporto graduale al pensiero critico con l'IA generativa]] e l'[[test-driven-ai-assisted-learning|apprendimento assistito dall'IA guidato dai test]] modellano progettazioni più produttive.
 
@@ -58,7 +64,7 @@ Poiché l'SDL enfatizza la direzione avviata dallo studente, gli interventi per 
 
 ## Ricerca sul supporto graduale all'estrazione informativa nell'apprendimento basato sulla ricerca
 
-- **L'estrazione informativa come supporto graduale per l'apprendimento basato sulla ricerca.** An e colleghi (2026) progettano un sistema di estrazione informativa basato sull'IA che converte le pubblicazioni di ricerca in dataset strutturati e tracciabili per sostenere il completamento della tesi triennale in ambito [[stem-education|STEM]], posizionandosi come uno **supporto epistemico** che consente di ispezionare le relazioni tra evidenza e affermazione riducendo al contempo le richieste di gestione dei dati a basso livello. In uno studio pilota [[mixed-methods-research|con metodi misti]] su 20 studenti e 80 documenti, gli studenti hanno estratto oltre il 90% dei parametri obiettivo, il tempo autodichiarato per la revisione della letteratura è calato di circa il 65% e la loro capacità di individuare le variabili influenti è cresciuta del 50% — a sostegno dell'idea che l'[[generative-ai|IA]] possa riequilibrare il carico cognitivo verso un ragionamento di ricerca autodiretto di ordine superiore, anziché verso la sintesi di routine.
+- **L'estrazione informativa come supporto graduale per l'apprendimento basato sulla ricerca.** An e colleghi (2026) progettano un sistema di estrazione informativa basato sull'IA che converte le pubblicazioni di ricerca in dataset strutturati e tracciabili per sostenere il completamento della tesi triennale in ambito [[stem-education|STEM]], posizionandosi come uno **supporto epistemico** che consente di ispezionare le relazioni tra evidenza e affermazione riducendo al contempo le richieste di gestione dei dati a basso livello. In uno studio pilota [[mixed-methods-research|con metodi misti]] su 20 studenti e 80 documenti, gli studenti hanno estratto oltre il 90% dei parametri obiettivo, il tempo [[self-report-measures|autodichiarato]] per la revisione della letteratura è calato di circa il 65% e la loro capacità di individuare le variabili influenti è cresciuta del 50% — a sostegno dell'idea che l'[[generative-ai|IA]] possa riequilibrare il carico cognitivo verso un ragionamento di ricerca autodiretto di ordine superiore, anziché verso la sintesi di routine.
 
 ## Idee sbagliate comuni
 
@@ -103,6 +109,9 @@ Poiché l'SDL enfatizza la direzione avviata dallo studente, gli interventi per 
 
 ## Articoli collegati
 
+- [[scherer-self-directed-genai-use-secondary-2026]] — Uso autodiretto dell'IA generativa e sviluppo accademico tra studenti della scuola secondaria: uno studio longitudinale su larga scala della durata di un anno
+
+
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning (SEM, gender differences)
 - [[ai-lifelong-learning-policy]] — AI and lifelong learning policy
 - [[self-directed-growth-generative-ai-learning-analytics]] — Self-directed growth with GenAI and learning analytics
@@ -110,3 +119,6 @@ Poiché l'SDL enfatizza la direzione avviata dallo studente, gli interventi per 
 - [[andragogy-cognitive-delegation-genai-2026]] — Andragogy and cognitive delegation with GenAI
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
 - [[an-goel-self-directed-modeling-2026]]
+
+- [[llm-goal-selection-self-directed-learning-2026]] — I modelli non selezionano gli obiettivi di apprendimento come gli umani in un compito a scelta libera (Molinaro et al. 2026)
+

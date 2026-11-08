@@ -11,7 +11,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-10-25T22:20:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ Aynı mantık, kopya kağıdı çalışmasında da işler: [[student-cheat-sheet
 Aralıklılık etkisi — aynı toplam çalışmanın, tek bir oturumda toplu yapıldığında değil oturumlara dağıtıldığında daha kalıcı öğrenme üretmesi — bu üç teknikten algoritmik olarak en çok kullanılanıdır ve derlemin uygulamalî sistemleri bunun çevresinde kurulmuştur.
 
 [[memdora-ai-spaced-repetition|Memdora]], aralıklılığı bir mühendislik problemi olarak ele alan en açık örnektir. Planlamayı Ebbinghaus unutma eğrisine dayandırır, inceleme yapılmadığında yeni öğrenilen materyalin kabaca **%70'inin 24 saat içinde unutulduğu** rakamini gösterir ve güncel en gelişmiş aralıklı tekrar algoritması olarak tanımlanan **FSRS-6**'yı tümleştirir. Argümanı, planlamanın tek başına yeterli olmadığıdır: mevcut araçlar, kart etkileşimini yazarların yetersiz bir model olarak nitelendirdiği, hatırlatma uygulamasına ilişkin bilişsel bilim kanıtlarından yararlanamayan tek ikili bir hareket olan "çevir ve kendi kendine puanla"ya indirger. Memdora’nın katkısı bu nedenle Dil, Ezbere ve Sınav kategorileri boyunca, her biri hakemli dergilerde yayınlanmış kanıtlarla eşlenen **17 bilişsel temelli etkileşim türünden oluşan bir sınıflandırmasıdır**; ayrıca gerçek bilişsel katılımı telafi eden, uygulamada geçirilen zamana göre değil, çaba temelli bir ödül sistemi, kartları okuma anında oluşturan birleşik bir üretim hattı ve tek tek kart düzeyinde [[learning-gains|öğrenme çıktılarını]] raporlayan bir sınıf katmanıdır.
+
+[[bilingual-llm-lecture-companion-srl-2026|Malhotra’nın (2026) iki dilli ders yardımcısı]], bu üretim maliyetine diğer uçtan saldırır: İngilizce–Hintçe dersleri tarayıcıda yazıya döker ve kartları cihaz üzerinde üretir; UDISE+ verilerinin internet erişimini okulların yaklaşık %54’üne yerleştirdiği Hint sınıfları için tasarlanmıştır.
 
 [[adaptive-pretesting-retention|Akgun ve Toker (2026)]], derlemin aralıklılığın nasıl *yapılandırıldığına** dair en güçlü deneysel kanıtını sağlar. Uygulamalî istatistik dersinde 87 lisans öğrencisinin katıldığı üç kollu bir randomize çalışmada, üç grup da yedi hafta boyunca sayı ve zamanlaması aynı aralıklı oturumlarda çalıştı; yalnızca etkileşim yapısı farklıydı. Uyarlanabilir aralıklı hatırlatma (G1) en yüksek test sonrası puanına (M = 78,19) ve gözlemlenen en yüksek çalışma çabasına (M = 0,85) ulaştı; sabit aralıklı hatırlatma (G2) onu izledi (M = 74,55, çaba 0,74); dayatılan hatırlatma olmadan öğrenci yönlendirmeli YZ çalışması her ikisinde de sonuncu oldu (M = 67,28, çaba 0,49). Çok değişkenli etki anlamlıydı (Wilks' Λ = ,664, kısmi η² = ,185), kalıcılıkta G1, G3'ün d = 0,92 (p = ,003) önüne geçti. Pedagojik olarak önemli olan ayrıntı, G1'in aracısının *saklayacak* biçimde yapılandırılmış olmasıdır: [[misconceptions]] için yanıta bağlı sorgulamalar, yüzeysel cevaplardan sonra açıklama talepleri, yalnızca yeterli kavramsal katılımda ilerleme ve doğrudan çözümlerin izin verilen çıktılarından açıkça çıkarılması. Yazarların kendi okumaları, ön testin bağımsız bir müdahale değil, önceden yüklenen bir katalizör olduğu ve yararlarının açık uçlu YZ erişiminden sağ çıkmadığıdır.
 

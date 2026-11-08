@@ -6,7 +6,7 @@ foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 - **Mifano mikubwa ya lugha (LLM).** Mgongo wa kikokotoo wa [[ai-education|AIED]] ya kisasa zaidi — [[llm|LLM]] huzalisha maandishi yanayofanana na ya binadamu kwa mafunzo, tathmini, na uzalishaji wa maudhui, na ni teknolojia inayorejelewa zaidi katika hifadhi ya maarifa. [[llm-training-and-fine-tuning|Mafunzo na marekebisho ya upole]] hubadilisha LLM za jumla kwa matumizi ya elimu.
 - **AI ya kizalishaji.** Kategoria pana zaidi ya mifumo inayozalisha maandishi, kodi, picha, na maudhui mengine — [[generative-ai|AI ya kizalishaji]] (inayoendeshwa hasa na LLM) ni teknolojia nyuma ya wimbi la sasa la utafiti wa [[ai-education|AIED]]. Ona pia [[multimodal|mifano ya modaliti nyingi]] (maandishi, picha, sauti) na [[simulation]].
-- **Roboti na mifumo ya kihisia.** [[educational-robotics|Roboti katika elimu]] huongeza uwepo wa kihisia na mara nyingi wa kijamii — vifaa vinavyoweza kupangwa kwa ufikiri wa kikokotozi na roboti za kibinadamu/kijamii kwa mafunzo, hadithi, na kuigiza. Robotik ni safu mahususi ya kiufundi inayopitana na [[agentic-ai|AI ya wakala]] na ubini wa [[human-in-the-loop-ai|binadamu-ndani-ya-mzunguko]].
+- **Roboti na mifumo [[embodied-learning|iliyojumuishwa]].** [[educational-robotics|Roboti katika elimu]] huongeza uwepo uliojumuishwa na mara nyingi [[community-of-inquiry|uwepo wa kijamii]] — vifaa vinavyoweza kupangwa kwa [[computational-thinking|ufikiri wa kikokotozi]] na roboti za kibinadamu/kijamii kwa mafunzo, [[storytelling-in-education|hadithi]], na kuigiza. Robotik ni safu mahususi ya kiufundi inayopitana na [[agentic-ai|AI ya wakala]] na ubini wa [[human-in-the-loop-ai|binadamu-ndani-ya-mzunguko]].
 - **Mifumo ya msingi wa maarifa.** [[knowledge-graph|Grafiki za maarifa]] na [[educational-nlp|NLP ya elimu]] huwakilisha na kuchakata maarifa ya taaluma, zikichanganywa kwa kiwango kinachoongezeka na LLM kwa mafunzo yaliyozuiwa na yanayoweza kueleweka.
 
 ## Mbinu na mifumo
@@ -55,7 +55,10 @@ Safu ya kiufundi haiwezi kutenganishwa na mada zingine za hifadhi ya maarifa:
 
 - **Mbinu za kufundisha:** chaguzi za kiufundi zinaingiza dhana za mbinu za kufundisha — [[intelligent-tutoring|mwalimu wa zana]] aliyejengwa juu ya [[socratic-method|ilani za Sokrati]] anafikiri na wanaojifunza, huku mfano unaozalisha majibu ukiweza kudhaniwa kutoa moja kwa moja (ona [[pedagogy|mbinu za kufundisha na mikakati ya kufundisha]]).
 - **Tathmini na tathmini:** [[ai-ed-evaluation]] na [[benchmark|viwango]] huamua iwapo mifumo ya AI inafanya kazi kweli; [[assessment]] na [[automated-assessment]] hutumia safu ya kiufundi kupanga alama na kuzalisha.
-- **Matumizi yenye uwajibikisho:** mbinu za kiufundi ni za kati kwa [[reducing-ai-misuse|kupunguza matumizi mabaya ya AI]] — kuzuia kwa [[rag]], vizuizi, [[prompt-engineering]] [[scaffolding]], na uangalizi wa [[human-in-the-loop-ai|binadamu]] zinaunda iwapo AI inasaidia au inaharibu kujifunza ([[cognitive-offloading]], [[hallucination-risk]]).
+- **Matumizi yenye uwajibikisho:** mbinu za kiufundi ni za kati kwa [[reducing-ai-misuse|kupunguza matumizi mabaya ya AI]] — kuzuia kwa [[rag]], [[guardrails|vizuizi]], [[prompt-engineering]] [[scaffolding]], na uangalizi wa [[human-in-the-loop-ai|binadamu]] zinaunda iwapo AI inasaidia au inaharibu kujifunza ([[cognitive-offloading]], [[hallucination-risk]]).
+
+**Utafiti umejikita katika sehemu nyembamba ya ikolojia ya zana.** Kwa kuweka ramani zana 85 za AI dhidi ya fasihi ya STEM na uhandisi, [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky et al. (2026)]] waligundua 36 tu zinazoonekana katika utafiti, na [[conversational-ai|AI ya mazungumzo]]/LLM zikichukua 73.7% ya miunganisho 927 ya karatasi–zana, huku machapisho 23 yakiwa katika muktadha ulioimarika wa maabara.
+
 
 ## Maana kwa AI katika elimu
 
@@ -99,6 +102,7 @@ Safu ya kiufundi haiwezi kutenganishwa na mada zingine za hifadhi ya maarifa:
 
 ## Makala Zilizounganishwa
 
+- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — Uonekano wa utafiti wa zana 85 za AI katika elimu ya STEM na uhandisi (Terkowsky et al. 2026)
 - [[agentic-ai-education-scoping-review]] — Mapitio ya upeo wa AI ya wakala katika elimu
 - [[genai-meta-analysis-programming-learning]] — Uchanganuzi wa meta ya athari ya GenAI kwenye tija na kujifunza katika upangaji programu
 - [[cstutorbench-slm-tutors]] — Viwango vya mafunzo ya mfano mdogo wa lugha

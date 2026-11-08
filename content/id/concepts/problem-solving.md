@@ -6,9 +6,9 @@ foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T13:51:25-05:00"
 translation_of: "concepts/problem-solving"
-source_updated: "2026-11-01T09:12:59-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ Pada sisi pengukuran, [[llm-computational-thinking-physics-2026|LLM dapat mencer
 
 ### Bagaimana AI membantu sekaligus menghambat
 
-Karakter ganda AI bagi pemecahan masalah konsisten di seluruh studi. Pada sisi membantu, [[conversational-ai|chatbot]] mengungguli mesin pencari untuk pengajuan masalah dengan memperbaiki kualitas pertanyaan dan mengintegrasikan jaringan kognitif; perancah adaptif meningkatkan kinerja; dan desain AI kolaboratif menaikkan skor [[critical-thinking|berpikir kritis]] sekaligus pemecahan masalah sementara siswa tetap menjadi pengambil keputusan utama. Pada sisi menghambat, pelimpahan yang berlebihan mengurangi keterlibatan regulatoris, umpan balik langsung tanpa refleksi mendorong penerimaan pasif, dan ketergantungan berat pada AI untuk membangun konsensus mengancam perkembangan keterampilan interpersonal dan [[motivation|motivasi intrinsik]]. Yang patut dicatat, [[genai-feedback-design-multisite-experiment|sebuah eksperimen acak multisitus]] menemukan desain umpan balik reflektif dan hibrida mengungguli [[ai-feedback-quality|umpan balik AI]] langsung pada transfer tertunda yang bebas AI — bukti bahwa nilai pendidikan AI bergantung bukan pada akses melainkan pada pemeliharaan [[agency|agensi siswa]], pertimbangan evaluatif, dan kepemilikan selama revisi. Prinsip desain yang muncul dari literatur mencakup mengutamakan ketegangan dialogis di atas efisiensi yang mulus, memungkinkan ko-regulasi proaktif, dan mempertahankan perancah metakognitif serta pengawasan "pikiran-dalam-lingkar".
+Karakter ganda AI bagi pemecahan masalah konsisten di seluruh studi. Pada sisi membantu, [[conversational-ai|chatbot]] mengungguli mesin pencari untuk pengajuan masalah dengan memperbaiki kualitas pertanyaan dan mengintegrasikan jaringan kognitif; perancah adaptif meningkatkan kinerja; dan desain AI kolaboratif menaikkan skor [[critical-thinking|berpikir kritis]] sekaligus pemecahan masalah sementara siswa tetap menjadi pengambil keputusan utama. Pada sisi menghambat, pelimpahan yang berlebihan mengurangi keterlibatan regulatoris, umpan balik langsung tanpa refleksi mendorong penerimaan pasif, dan ketergantungan berat pada AI untuk membangun konsensus mengancam perkembangan keterampilan interpersonal dan [[motivation|motivasi intrinsik]]. Yang patut dicatat, [[genai-feedback-design-multisite-experiment|sebuah eksperimen acak multisitus]] menemukan desain umpan balik reflektif dan hibrida mengungguli [[ai-feedback-quality|umpan balik AI]] langsung pada transfer tertunda yang bebas AI — bukti bahwa nilai pendidikan AI bergantung bukan pada akses melainkan pada pemeliharaan [[agency|agensi siswa]], [[evaluative-judgment|pertimbangan evaluatif]], dan kepemilikan, dan kepemilikan selama revisi. Prinsip desain yang muncul dari literatur mencakup mengutamakan ketegangan dialogis di atas efisiensi yang mulus, memungkinkan ko-regulasi proaktif, dan mempertahankan perancah metakognitif serta pengawasan "pikiran-dalam-lingkar".
 
 ### Implikasi
 
@@ -70,7 +70,7 @@ Pemecahan masalah adalah hasil terapan dari [[critical-thinking|berpikir kritis]
 
 **"AI yang membantu siswa mengeksplorasi perspektif sedang membantu mereka berpikir."** Perilaku yang sama mendukung dua hasil yang sangat berbeda: alat AI membantu siswa mengeksplorasi berbagai perspektif dan menghasilkan masalah mereka sendiri, dan juga dapat mendorong kemalasan metakognitif. Pertanyaan pembedanya adalah apakah siswa yang melakukan pembingkaian atau menerimanya — sistem yang memasok perspektif kandidat telah mengerjakan langkah generatif yang seharusnya dituntut oleh latihan itu.
 
-**"Pemecahan masalah adalah sasarannya, jadi pengajuan masalah adalah bonus."** Pengajuan masalah adalah tempat transfer dibangun, karena ia menuntut siswa mengonstruksi struktur alih-alih beroperasi di dalam struktur yang disediakan sistem. Kurikulum yang hanya memasok masalah yang telah tersusun baik melatih kinerja pada masalah yang telah tersusun baik, yang bukanlah kondisi yang dihadapi siswa setelahnya.
+**"Pemecahan masalah adalah sasarannya, jadi pengajuan masalah adalah bonus."** Pengajuan masalah adalah tempat transfer dibangun, karena ia menuntut siswa mengonstruksi struktur alih-alih beroperasi di dalam struktur yang disediakan sistem. [[curriculum-design|Kurikulum]] yang hanya memasok masalah yang telah tersusun baik melatih kinerja pada masalah yang telah tersusun baik, yang bukanlah kondisi yang dihadapi siswa setelahnya.
 
 **"Simulasi pemecahan masalah kolaboratif adalah pengganti kolaborasinya."** Simulasi mereproduksi pola interaksi, sementara keterampilan yang dikembangkan adalah regulasi atas masalah bersama oleh partisipan yang benar-benar hadir. Agen spesifik per partisipan yang memodelkan kolaborator nyata adalah instrumen penelitian untuk mempelajari regulasi itu — berguna karena apa yang ia ungkapkan tentang prosesnya, bukan cara memberi siswa latihan tanpa rekan.
 

@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-10-26T06:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -30,10 +30,10 @@ ai_assist:
 
 - YZ benimsemesi sıklıkla bir sınıf kararı olarak çerçevelenir, ama koşulları yöneticiler belirler — politika, finansman, altyapı. Kendi kurumunuzda YZ’nin kullanılıp kullanılmayacağına ve nasıl kullanılacağına fiilen kim karar verir ve bu kararın dışında kim kalır?
 - Araştırmalar, üst düzey politika hırsı ile günlük uygulama arasında yinelenen bir boşluk bulmaktadır. İyi niyetli bir YZ politikanın sınıfa ulaşamadığını nerede gördünüz ve neden yetersiz kaldığını düşünüyorsunuz?
-- Yöneticiler pedagojik fırsatı risk, eşitlik ve kaynak sağlama ile dengelemek zorundadır. Bir yeni YZ girişimini finanse etmek ile veri yönetişimini ve öğretim üyesi eğitimini güçlendirmek arasında seçim yapmak zorunda olsaydınız hangisini seçerdiniz ve neden?
+- Yöneticiler [[pedagogy|pedagojik]] fırsatı risk, eşitlik ve kaynak sağlama ile dengelemek zorundadır. Bir yeni YZ girişimini finanse etmek ile veri yönetişimini ve öğretim üyesi eğitimini güçlendirmek arasında seçim yapmak zorunda olsaydınız hangisini seçerdiniz ve neden?
 - Kurum düzeyinde alınan tedarik kararları, öğretmenlerin ve öğrencilerin fiilen yapabileceklerini olanaklı kılabilir veya kısıtlayabilir. Kurumunuzun bir YZ eğitim teknolojisi platformu için sözleşme imzalamadan önce hangi soruların yanıtlanmasını isterdiniz?
 - Kurumlar YZ yeteneğini kabul edilebilir kullanım çerçevelerine ve veri standartlarına çevirir. İnovasyon vaadini bu araçların topladığı verinin gizlilik ve eşitlik sonuçlarına karşı nasıl tartarsınız?
-- Yöneticilerin YZ iyi oluş araçlarına ilişkin tercihleri öğrenci deneyimini doğrudan şekillendirir. Öğrencileri desteklemek — izlemek değil — için tasarlanmış bir YZ aracını yayımlamadan önce hangi kanıtı görmek isterdiniz?
+- Yöneticilerin YZ [[well-being|iyi oluş]] araçlarına ilişkin tercihleri öğrenci deneyimini doğrudan şekillendirir. Öğrencileri desteklemek — izlemek değil — için tasarlanmış bir YZ aracını yayımlamadan önce hangi kanıtı görmek isterdiniz?
 
 ## Giriş
 
@@ -47,7 +47,7 @@ Eğitimde YZ benimsemesi salt bir sınıf kararı değildir; kurumsal bir karard
 - **Politika ve kurumsal karar alma:** [[ai-uk-higher-education-policy-2026|Birleşik Krallık yükseköğretim YZ politika araştırması]], YZ tümleşmesinin hızlandığını ama parçalı olduğunu, üst düzey politika hırsı ile kurumsal uygulama arasında boşluk bulunduğunu ortaya koyar — net işletimsel rehberlik olmadan strateji belirleyen yöneticiler için yinelenen bir tema.
 - **Yığını düzenlemek için on alanlı bir sınıflandırma.** [[sposato-ai-educational-leadership-taxonomy-2025|Sposato (2025)]], idari verimlilikten yönetişim ve DEI’ya uzanan on alanda 314 yayını sentezlemiş; liderlere, belirtilmiş bir kurumsal sorunu onu ele alan alanlarla eşlemek için ortak bir söz dağarcığı sunmuştur.
 - **Liderlik yapıları stratejik niyetin gerisinde kalır.** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]], %49’u YZ’yi stratejik bir öncelik olarak gördüğü halde kurumların yalnızca %7’sinin üst düzey YZ liderlik rolleri oluşturduğunu bulmuştur; yetkilendiren ve dağıtıcı liderlik biçimleri daha yüksek öğretim üyesi katılımıyla ilişkili olup politika ve altyapı zayıf olduğunda kuram-uygulama boşluğu en geniş olmaktadır.
-- **İyi oluş ve öğrenci deneyimi:** [[ai-campus-wellbeing-tools|YZ kampüs iyi oluş araçları]], kurumların öğrenci desteği için YZ’yi nasıl yayımladığını inceleyerek yönetici tercihlerini [[student-experience]] sonuçlarına bağlar.
+- **İyi oluş ve öğrenci deneyimi:** [[ai-campus-wellbeing-tools|YZ kampüs iyi oluş araçları]], kurumların [[student-support-and-success|öğrenci desteği]] için YZ’yi nasıl yayımladığını inceleyerek yönetici tercihlerini [[student-experience]] sonuçlarına bağlar.
 - **Yönetişim ve düzenleme:** Yönetici kararları [[educational-policy-ai]], [[governance]] ve [[regulation]] ile etkileşir — kurumlar YZ yeteneğini kabul edilebilir kullanım çerçevelerine, değerlendirme kurallarına ve veri yönetişimi standartlarına çevirir (bkz. [[genai-policies-higher-ed-computing|kurumsal GenAI politika analizi]]).
 
 ### Bağlantılar

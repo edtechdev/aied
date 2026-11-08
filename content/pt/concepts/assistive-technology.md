@@ -1,7 +1,7 @@
 ---
 title: Tecnologia assistiva
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:35:57-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
-> **Tecnologia assistiva** — dispositivos, softwares e serviços que ajudam pessoas com deficiência a perceber, operar, comunicar-se e participar da aprendizagem e da vida cotidiana. Na [[ai-education|IA na educação]], a tecnologia assistiva abrange leitores de tela, fala para texto e texto para fala, legendagem, saída em braile e tátil, ferramentas de língua de sinais e, cada vez mais, acomodações movidas por IA que adaptam conteúdo e interação às necessidades individuais.
+> **Tecnologia assistiva** — dispositivos, softwares e serviços que ajudam pessoas com deficiência a perceber, operar, comunicar-se e participar da aprendizagem e da vida cotidiana. Na [[ai-education|IA na educação]], a tecnologia assistiva abrange leitores de tela, fala para texto e [[speech-and-voice-technologies|texto para fala]], legendagem, saída em braile e tátil, ferramentas de língua de sinais e, cada vez mais, acomodações movidas por IA que adaptam conteúdo e interação às necessidades individuais.
 
 ## Perguntas para refletir
 
@@ -56,7 +56,7 @@ Uma revisão de escopo de 2026 das tecnologias assistivas digitais [[ai-technolo
 - **Combine a ferramenta ao estudante e à tarefa.** Leitores de tela, legendas, fala e saída tátil abordam barreiras diferentes — escolha com base nas necessidades do indivíduo e no formato do conteúdo.
 - **Aproveite a IA para reduzir o custo das adaptações assistivas.** A IA pode legendar automaticamente, simplificar textos e gerar alternativas, mas avalie a qualidade do produto quanto à precisão pedagógica.
 - **Fundamente a provisão na política.** Recorra à Lei de Tecnologia Assistiva, à IDEA e à WCAG ao adquirir ou construir ferramentas de IA.
-- **Diga qual função o apoio cumpre — e avalie em função dessa função.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguem compensação (avaliada pelo acesso e pela participação) de andaimento (decisões com apoio) de desenvolvimento (uso de estratégias após a retirada do apoio ou transferência). Acrescentam uma regra voltada à cautela desta página: o apoio de acessibilidade não é remediação — se uma ferramenta é uma acomodação, instrução em estratégias ou apoio temporário de prática "deve ser declarado no plano de aprendizagem".
+- **Diga qual função o apoio cumpre — e avalie em função dessa função.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguem compensação (avaliada pelo acesso e pela participação) de [[scaffolding|andaimento]] (decisões com apoio) de desenvolvimento (uso de estratégias após a retirada do apoio ou transferência). Acrescentam uma regra voltada à cautela desta página: o apoio de acessibilidade não é remediação — se uma ferramenta é uma acomodação, instrução em estratégias ou apoio temporário de prática "deve ser declarado no plano de aprendizagem".
 
 ## Ideias equivocadas comuns
 

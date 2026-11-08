@@ -7,9 +7,9 @@ pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, me
 technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T13:51:25-05:00"
 translation_of: "concepts/productive-failure"
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Siswa menghasilkan solusi tanpa dukungan kognitif, bersandar pada pengetahuan aw
 - **Menyiapkan siswa untuk belajar dari pengajaran** — mereka tahu apa yang tidak mereka ketahui dan dapat menghubungkan materi baru dengan upaya mereka.
 - **Meningkatkan transfer pengetahuan dan keterampilan yang tahan lama** ([[critical-thinking]], ketangguhan, komunikasi), mengurangi rasa takut membuat kesalahan, dan menumbuhkan sikap positif terhadap belajar.
 
-Kerangka PF telah diperluas melalui desain terkait termasuk **kegagalan vikarius**, **keragaman solusi**, dan **panduan adaptif** (Braas et al., 2025; Brand et al., 2025).
+Kerangka PF telah diperluas melalui desain terkait termasuk **kegagalan vikarius**, **keragaman solusi**, dan **panduan adaptif** (Braas et al., 2025; Brand et al., 2025). Kasus dapat menyediakan ruang masalah bersama untuk upaya pertama itu, meskipun basis bukti berbasis kasus belum menguji pasangan itu secara langsung ([[case-based-learning]]).
 
 ## Belajar dari kekeliruan dan belajar dari galat
 
@@ -104,6 +104,7 @@ Kegagalan produktif terhubung ke [[learning-theories]] (konstruktivisme), [[desi
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+- [[case-based-learning]] — Kasus sebagai ruang masalah bersama untuk upaya pertama
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

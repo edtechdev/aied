@@ -9,7 +9,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-10-29T06:19:06-04:00"
+source_updated: "2026-11-04T13:20:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -55,14 +55,14 @@ Favero ve ark. (2025), YZ öğretmenleriyle duygusal [[student-engagement|katıl
 | Duygusal öğretmenlik faydası | Karşılık gelen risk |
 |---|---|
 | Duygusal olarak farkında yanıtlar destekleyici hissedilir | Öğrenciler öğretmene **parasosyal bağımlılıklar** geliştirebilir |
-| Empati kaygıyı azaltır | Azalan kaygı, **üstbilişsel uzaklaşmayı** maskeleyebilir |
+| Empati [[anxiety-and-stress|kaygıyı]] azaltır | Azalan [[anxiety-and-stress|kaygı]], **üstbilişsel uzaklaşmayı** maskeleyebilir |
 | Duygusal kalibrasyon, hızı kişiselleştirir | Derin [[personalized-learning|kişiselleştirme]] uyarlanabilir olmayan bağlamlara **aktarımı azaltabilir** |
 | Yüz izleme dikkati işaret eder | Sürekli video yakalama **gizlilik endişeleri** doğurur |
 
 Yazarlar, duygusal risklerin YZ kullanımı denetlenmediğinde [[self-efficacy]], [[agency]] ve [[well-being]] **aşınmasının** daha geniş bir örüntüsünün parçası olduğunu savunur.
 
 
-**Risk, öğretmeni hiç açmayan kişilere de düşer.** [[shastry-gray-empathy-offloading-2026|Shastry ve Gray (2026)]], bir sistemin duygusal destek sağlayabileceğine inanıldıkça kişinin kendi duygusal desteğini sağlama isteğinin azaldığını bulmuş ve bu inanç ikinci deneylerinde nedensel çıkmıştır: empatik YZ hakkında sıradan bir haber metni okumak, tamamen algılanan kapasite üzerinden, destek yükünü devretmeyi artırmaya yetmiştir. Dördüncü çalışmaları, birey düzeyindeki çerçevenin gözden kaçırdığı bir toplumsal maliyet ekler. Bir öğrencinin destek için bir sohbet robotuna gittiği söylenen katılımcılar, öğrenci bir arkadaşına gitmiş olsaydı yükü daha az devredeceklerini söylemiştir. Ardından o öğrenci hakkında daha az empati, daha çok kayıtsızlık sözcüğü yazmış ve öğrenciyi daha yabancı ve daha çaresiz olarak derecelendirmiştir. Dolayısıyla [[social-emotional-learning|sosyal-duygusal]] desteğin sağlanması, onu kullanan hiç kimse bir değişiklik bildirmese bile öğretmenin çevresinde seyrelebilir.
+**Risk, öğretmeni hiç açmayan kişilere de düşer.** [[shastry-gray-empathy-offloading-2026|Shastry ve Gray (2026)]], bir sistemin duygusal destek sağlayabileceğine inanıldıkça kişinin kendi duygusal desteğini sağlama isteğinin azaldığını bulmuş ve bu inanç ikinci deneylerinde nedensel çıkmıştır: empatik YZ hakkında sıradan bir haber metni okumak, tamamen algılanan kapasite üzerinden, destek yükünü devretmeyi artırmaya yetmiştir. Dördüncü çalışmaları, birey düzeyindeki çerçevenin gözden kaçırdığı bir toplumsal maliyet ekler. Bir öğrencinin destek için bir [[conversational-ai|sohbet robotuna]] gittiği söylenen katılımcılar, öğrenci bir arkadaşına gitmiş olsaydı yükü daha az devredeceklerini söylemiştir. Ardından o öğrenci hakkında daha az empati, daha çok kayıtsızlık sözcüğü yazmış ve öğrenciyi daha yabancı ve daha çaresiz olarak derecelendirmiştir. Dolayısıyla [[social-emotional-learning|sosyal-duygusal]] desteğin sağlanması, onu kullanan hiç kimse bir değişiklik bildirmese bile öğretmenin çevresinde seyrelebilir.
 
 ## Tasarım İlkeleri
 

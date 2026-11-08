@@ -8,7 +8,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-25T22:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -67,7 +67,7 @@ Vipaumbele viwili zaidi vinajirudia katika hifadhi ya maarifa:
 - **Maswali yanabainisha mapengo ya maarifa.** Mifumo ya LbT hutumia maswali yaliyozalishwa na mwanafunzi kufichua mapengo na kuimarisha ufahamu, na [[teaching-ai-vocabulary-lbt-llms-2026|maswali yaliyozalishwa na LLM]] yanabadilisha vizalishaji thabiti vya kiolezo.
 - **Kufundisha-nyuma hufichua kile ambacho ufafanuzi haufichi.** Katika mfumo wa mapitio ya baada ya hotuba wenye washiriki 22, mwakala wa Mwanafunzi-mwenzake wa tafakari kwa kuwapa wanafunzi kufundisha-nyuma alifichua mapengo kati ya kile wanafunzi waliamini wanakielewa na kile wangeweza kutamka, ambayo ufafanuzi uliotegemea hotuba peke yake haukuwa umefichua ([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).
 - **LbT [[scaffolding|inaweka ngazi za msaada]] kwa kujidhibiti-[[regulation]].** Kufundisha [[conversational-ai|wakala wa mazungumzo]] hukuza [[self-efficacy]] na utekelezaji wa mikakati ya kujidhibiti kwa kujifunza, na kuunganisha LbT na [[desirable-difficulties]] — kitendo chenye juhudi cha kuelezea na kurekebisha ni mapambano yenye tija yenyewe ambayo kuondoa msuguano wa AI ungefuta.
-- **Kile kinachotabiri kujifunza kwa mwalimu ni kujenga maarifa, si maarifa ya awali.** Katika walimu 23 wa shule ya kati, sehemu ya majibu ambayo yalijenga maarifa badala ya kuyarudia ilitabiri alama za jaribio la baada ya dhana (β = .138, p < 0.05) huku alama za awali za jaribio hazikutabiri nani alizizalisha, na walimu wenye maarifa ya awali ya chini waliojenga maarifa walimaliza sawa na wenzao wenye maarifa ya awali ya juu ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
+- **Kile kinachotabiri kujifunza kwa mwalimu ni kujenga maarifa, si [[prior-knowledge|maarifa ya awali]]**. Katika walimu 23 wa shule ya kati, sehemu ya majibu ambayo yalijenga maarifa badala ya kuyarudia ilitabiri alama za jaribio la baada ya dhana (β = .138, p < 0.05) huku alama za awali za jaribio hazikutabiri nani alizizalisha, na walimu wenye maarifa ya awali ya chini waliojenga maarifa walimaliza sawa na wenzao wenye maarifa ya awali ya juu ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 
 ## Kwa Nini Inamuhimu katika Elimu ya AI
 

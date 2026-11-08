@@ -9,7 +9,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ Sentetik pozisyon, önerme ortaya koyan rakip bir girişim ekler: *sentetik terf
 - **İnsan-üretken YZ [[student-engagement|katılımı]] paradigmaları.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]], alanın “teori açığı”yla, korumacı, olanak odaklı, artırılmış, öncü, sembiyotik, değer temelli ve [[equity-in-ai-education|eşitlik]] olmak üzere yedi gerçekleşen insan-üretken YZ katılımı paradigmasını Schommer’in kişisel epistemolojik inançların çok boyutlu modeline dayandırarak ilgilenir — bireylerin YZ’ye göre kendilerini farklı biçimde konumlandırdığının araç odaklı değil, epistemolojik bir kuramı.
 - **Ekolojik Ortak-Etkenlik Çerçevesi.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]], [[generative-ai|üretken YZ’nin]] epistemolojik otoriteyi öğretmenden öğrencilere ve makinelere yeniden atadığını savunur ve ortak-etkenliği ilişkisel, düzenleyici ([[self-regulated-learning|ÖDB döngüsü]]ne eşlenmiş) ve [[pedagogy|pedagojik]] (öğretmen benimseme sürekliliği) olmak üzere üç birbirine bağımlı boyut üzerinden tanımlayan bir çerçeve sunar — tümü, pazarlık dışı bir insan epistemik sorumluluk koşuluyla (itiraz edilebilirlik, köken ve ahlaki/entelektüel kredinin devredilememesiği) sınırlanır. Üretken YZ bütünleştirmesinin yönetiminde “denge”den daha kesin bir dil sunarak [[agency]]’yi bir *epistemik* tasarım sorunu olarak, bir [[usability-research|kullanılabilirlik]] kaygısı olmaktan çok konumlandırır.
 - **İlişkisel epistemik etkenlik ve epistemik bağımlılık.** [[du-yuan-epistemic-dependence-2026|Du ve Yuan (2026)]], YZ aracılı güvenmenin yargıyı ne zaman koruduğuna karşılık yerinden ettiğine dair eleştirel-bütünleştirici bir hesap katkıda bulunur. Üretken güvenme/zararlı bağımlılık sınırını altı tanı kriteri üzerinden uygulanabilir kılarlar (itiraz edilebilirlik, geri kazanılabilirlik, aktarım, izlenebilirlik, dağıtık sorumluluk, epistemik çoğulculuk) ve dört sosyoteknik yol izlerler (akıcı otorite, sürtünmesiz devretme, opak sentez, kurumsallaşmış bağımlılık). Normatif önermeleri **ilişkisel epistemik etkenlik**, ilişkisel özerklik ve epistemik-ortak-etkenlik hatlarını, karşılıklı sorumluluk ya da meşru otorite olmadan YZ’nin akıl yürütmeyi şekillendirebileceği açık bir asimetriyi koruyarak genişletir; sorumluluğu ve epistemik adaleti kurumsal düzeyde bütünleştirir. YZ ile öğrenmenin bir kuramı olarak alanın sorusunu, YZ’nin yardım edip etmediğinden hangi epistemik eylemlerin korunduğuna, dönüştürüldüğüne ya da yerinden edildiğine taşır ve pedagojik ve kurumsal müdahalenin nesnesini salt kullanım değil, *bağımlılığın tasarımı* yapar.
+
+Modelin çıktısı, o statünün gerektirdiği topluluk güvencesi olmadan kolektif bilgi statüsüne yükselir — Webb ve ark. (2026) bunu sözde-cPCK olarak adlandırır ve alanın daha iyi bir arayüz yerine yeni bir kuramsal yapıya neden ihtiyaç duyduğunu gösterir ([[webb-pck-genai-2026|Webb ve ark., 2026]]).
 
 ## Yerleşik teoriyi geliştirmek
 
@@ -165,3 +167,4 @@ Teori geliştirme ile [[philosophy-of-ai-in-education|eğitimde yapay zeka felse
 - [[metacognitive-ownership-human-ai-regulation-2026]] — Üstbilişsel mülkiyet: yapı tanımı, sınırlar ve bir araştırma gündemi
 - [[synthetic-position-self-authorship-2026]] — Sentetik pozisyon: sentetik terfi ve yetkisizliği bir çapraz öngörüyle adlandıran diyalojik benlik girişimi
 - [[capability-decision-model-teacher-readiness-2026]] — Dört çürütme koşuluyla yanlışlanabilir, yetenek öncelikli öğretmen hazır olma modeli
+- [[webb-pck-genai-2026]] — Toplulukça doğrulanmış bilgiyi taklit eden, güvence olmadan üretilmiş çıktı için üç vinyet ve yeni bir yapı: sözde-cPCK (Webb ve ark. 2026)

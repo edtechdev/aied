@@ -1,7 +1,7 @@
 ---
 title: "E-portfolio (portafoglio elettronico)"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T13:51:25-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/eportfolio
-source_updated: "2026-10-25T19:50:00-04:00"
+source_updated: "2026-11-04T11:20:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -33,26 +33,26 @@ ai_assist:
 - Un e-portfolio cattura il processo di apprendimento — bozze, revisioni, riflessioni — non solo il manufatto finale. Perché il processo potrebbe essere esattamente ciò che l'IA non può facilmente fabbricare, e cosa rende i portfolio utili in una classe fortemente basata sull'IA?
 - Con l'IA in grado di produrre prodotti finali rifiniti su richiesta, il 'manufatto-come-proxy' dell'apprendimento è crollato. Cosa pensi che un valutatore possa apprendere da un portfolio che non può più trarre da un singolo saggio o esame consegnato?
 - Alcune ricerche raccomandano portfolio annotati, difese orali e percorsi registrati per sondare il ragionamento in tempo reale, a specchio della pratica professionale. Quanto diverso renderebbe tutto ciò la valutazione rispetto ai saggi e agli esami che avete sostenuto — ed equo o più difficile da scalare?
-- L'IA può supportare il processo stesso del portfolio — fornendo feedback, aiutando la stesura e sollecitando la riflessione. Dov'è il confine tra l'IA che aiuta genuinamente uno studente a imparare e l'IA che compie silenziosamente il ragionamento che il portfolio è destinato a rivelare?
+- L'IA può supportare il processo stesso del portfolio — fornendo feedback, aiutando la stesura e [[prompt-engineering|sollecitando]] la riflessione. Dov'è il confine tra l'IA che aiuta genuinamente uno studente a imparare e l'IA che compie silenziosamente il ragionamento che il portfolio è destinato a rivelare?
 
 ## Introduzione
 
-Gli e-portfolio sono una forma di [[authentic-assessment|valutazione autentica]] e di [[formative-assessment|valutazione formativa]]: raccolgono il lavoro degli studenti nel tempo, spesso con commenti riflessivi, in un corpo di evidenze che può essere valutato in modo olistico. La loro forza è che mettono in luce il *processo* di apprendimento — bozze, revisioni, feedback e autoriflessione — che è esattamente ciò che l'IA non può facilmente fabbricare e che i valutatori devono esaminare per valutare l'apprendimento genuino. Questo rende i portfolio un candidato privilegiato per la riprogettazione della valutazione nell'era dell'IA generativa.
+Gli e-portfolio sono una forma di [[authentic-assessment|valutazione autentica]] e di [[formative-assessment|valutazione formativa]]: raccolgono il lavoro degli studenti nel tempo, spesso con commenti riflessivi, in un corpo di evidenze che può essere valutato in modo olistico. La loro forza è che mettono in luce il *processo* di apprendimento — bozze, revisioni, feedback e [[reflection|autoriflessione]] — che è esattamente ciò che l'IA non può facilmente fabbricare e che i valutatori devono esaminare per valutare l'apprendimento genuino. Questo rende i portfolio un candidato privilegiato per la riprogettazione della valutazione nell'era dell'IA generativa.
 
 ## E-portfolio nell'era dell'IA
 
 La ricerca della knowledge base mostra che gli e-portfolio sono sempre più centrali per un'integrazione produttiva dell'IA e per la riprogettazione della valutazione.
 
 - **La valutazione tramite portfolio è relativamente robusta rispetto all'IA generativa.** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du (2025)]] individuano i **portfolio di contributo sociale** e i manufatti co-creati con catene di provenienza verificabili tra le forme di valutazione autentica più robuste rispetto all'IA generativa. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection (2025)]] raccomanda analogamente **portfolio annotati / difese orali / percorsi registrati** per sondare il ragionamento in tempo reale, a specchio della pratica professionale.
-- **Valutazione del portfolio assistita dall'IA.** [[ni-lam-multiliteracies-ai-portfolio-2026|Ni & Lam (2026)]] studiano le percezioni degli studenti sulla **valutazione del portfolio assistita dall'IA** per lo sviluppo delle multialfabetizzazioni, mostrando che l'IA può supportare il *processo* del portfolio (feedback, stesura, riflessione) e aumentare il coinvolgimento, mentre gli studenti valutano criticamente il feedback dell'IA.
-- **ChatGPT + e-portfolio per l'apprendimento delle lingue.** [[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]] combinano ChatGPT con la valutazione tramite e-portfolio (modello CEA) per il parlato in EFL: la MANOVA ha mostrato guadagni significativi nella performance oratoria (F(1)=48,554, p<.001) e nella [[feedback-literacy|competenza sul feedback]] (F(1)=16,135, p<.001), con gli e-portfolio che supportano sia la capacità oratoria sia le abilità metacognitive per usare il feedback in modo efficace.
+- **Valutazione del portfolio assistita dall'IA.** [[ni-lam-multiliteracies-ai-portfolio-2026|Ni & Lam (2026)]] studiano le percezioni degli studenti sulla **valutazione del portfolio assistita dall'IA** per lo sviluppo delle multialfabetizzazioni, mostrando che l'IA può supportare il *processo* del portfolio (feedback, stesura, riflessione) e aumentare il coinvolgimento, mentre gli studenti valutano criticamente il [[ai-feedback-quality|feedback dell'IA]].
+- **ChatGPT + e-portfolio per l'[[language-learning|apprendimento delle lingue]].** [[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]] combinano ChatGPT con la valutazione tramite e-portfolio (modello CEA) per il parlato in EFL: la MANOVA ha mostrato guadagni significativi nella performance oratoria (F(1)=48,554, p<.001) e nella [[feedback-literacy|competenza sul feedback]] (F(1)=16,135, p<.001), con gli e-portfolio che supportano sia la capacità oratoria sia le abilità [[metacognition|metacognitive]] per usare il feedback in modo efficace.
 - **Portfolio come strategia di valutazione nell'era dell'IA.** [[responsible-assessment-ai-era-stanford-2026|Responsible assessment (2026)]] sostiene il passaggio dai test una tantum alla **valutazione continua e incorporata tramite portfolio** e ad approcci basati sulle competenze. [[pbl-structural-conditions-ai-2026|Rowe (2026)]] indica i portfolio (con gli orali e la pratica osservata) come risposte parziali al problema aperto della valutazione su larga scala quando il manufatto-come-proxy si è rotto.
 - **Portfolio come tracce di apprendimento valutabili.** [[learn-framework-responsible-genai-pbl-2026|Uden & Hwang (2026)]] utilizzano i **portfolio di apprendimento personale** come meccanismo del framework LEARN — tracce di apprendimento valutabili (portfolio, dichiarazione dell'uso dell'IA) che rendono trasparente e verificabile il ricorso all'IA.
 - **Portfolio simbiotici per chi apprende in modo ibrido.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] propone un **Portfolio Simbiotico** per chi apprende in modo post-umano/ibrido, valutato con una rubrica a cinque criteri (Dialogo Generativo, Revisione Epistemica, Riflessione Critica, ecc.) — un modello esplicito per valutare il lavoro collaborativo umano+IA.
 
 ## Perché gli e-portfolio contano per l'integrazione dell'IA
 
-Poiché gli e-portfolio mettono in primo piano **processo, riflessione e comprensione dimostrata** rispetto a un singolo manufatto finale, affrontano direttamente il problema centrale dell'IA: quando l'IA può produrre un prodotto rifinito, il prodotto non testimonia più il coinvolgimento che sta dietro di esso. Gli e-portfolio spostano la valutazione verso le evidenze che sopravvivono — bozze, revisioni, tracce di ragionamento e autovalutazione riflessiva — mentre l'IA stessa può assistere nella generazione di feedback, nell'impalcatura della riflessione e (con un'adeguata progettazione della rubrica) nel supporto alla valutazione. Questo rende gli e-portfolio un caposaldo della [[authentic-assessment|valutazione autentica]], della [[formative-assessment|valutazione formativa]] e della [[process-oriented-assessment|valutazione basata sul processo]] nell'era dell'[[generative-ai|IA generativa]], e una sede naturale per la [[feedback-literacy|competenza sul feedback]] e l'[[self-regulated-learning|apprendimento autoregolato]].
+Poiché gli e-portfolio mettono in primo piano **processo, riflessione e comprensione dimostrata** rispetto a un singolo manufatto finale, affrontano direttamente il problema centrale dell'IA: quando l'IA può produrre un prodotto rifinito, il prodotto non testimonia più il coinvolgimento che sta dietro di esso. Gli e-portfolio spostano la valutazione verso le evidenze che sopravvivono — bozze, revisioni, tracce di ragionamento e [[self-assessment|autovalutazione]] riflessiva — mentre l'IA stessa può assistere nella generazione di feedback, nell'[[scaffolding|impalcatura]] della riflessione e (con un'adeguata progettazione della rubrica) nel supporto alla valutazione. Questo rende gli e-portfolio un caposaldo della [[authentic-assessment|valutazione autentica]], della [[formative-assessment|valutazione formativa]] e della [[process-oriented-assessment|valutazione basata sul processo]] nell'era dell'[[generative-ai|IA generativa]], e una sede naturale per la [[feedback-literacy|competenza sul feedback]] e l'[[self-regulated-learning|apprendimento autoregolato]].
 
 ## Idee sbagliate comuni
 
@@ -74,7 +74,7 @@ Poiché gli e-portfolio mettono in primo piano **processo, riflessione e compren
 
 **Per gli sviluppatori**
 
-- Progetta per la cronologia delle revisioni e il versioning anziché per una vista finale rifinita; la pedagogia vive nel diff.
+- Progetta per la cronologia delle revisioni e il versioning anziché per una vista finale rifinita; la [[pedagogy|pedagogia]] vive nel diff.
 - Rendi i prompt di riflessione abbastanza strutturati da essere valutabili, poiché la riflessione non strutturata è dove il testo generato dall'IA passa più facilmente.
 
 **Per i ricercatori**
@@ -94,6 +94,9 @@ Poiché gli e-portfolio mettono in primo piano **processo, riflessione e compren
 - [[student-engagement]]
 - [[language-learning]]
 - [[higher-ed]]
+
+- [[reflection]]
+
 
 ## Articoli collegati
 

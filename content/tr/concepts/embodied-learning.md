@@ -7,7 +7,7 @@ pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -36,11 +36,12 @@ Vüut bulmuş öğrenme, [[active-learning]], [[experiential-learning]] ve durum
 
 - **Temellendirilmiş programlama:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]], [[cs-education|blok programlamayı]] vüut bulmuş robot uygulamasında temellendirerek yazma, çalıştırma, gözlemleme ve revize etme döngüsünü sıkı biçimde kurar; böylece öğrenenler kodlarının davranışa dönüştüğünü görür.
 - **Sosyal-robotik etkileşim:** [[storytelling-in-education|hikâye anlatımı]] için kullanılan [[educational-robotics|sosyal robotlar]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), rol oyunu ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]) ve işaret dili ([[pepper-robot-sign-language-lis-2025|Pepper]]), ilişkisel ve [[social-emotional-learning|duygusal]] öğrenmeyi destekleyen vüut bulmuş sosyal etkileşim sağlar.
-- **Vüut bulma özellikleri sonuçları yönlendiren şey değildir.** 11 RALL çalışmasını (N = 595, g = 0,83, I² = %84,4) kapsayan bir meta analiz, robot morfolojisinin, modalitenin, özerkliğin ve sosyal rolün ikinci dil öğrenimini yönlendirmediğini bulmuştur; grup temelli biçimler birebiri formatları geçmiş, böylece etkiyi taşıyan robotun gömülmesi değil konumu olmuştur ([[robot-assisted-language-learning-meta-analysis-2026|Wang ve ark. (2026)]]).
+- **Vüut bulma özellikleri sonuçları yönlendiren şey değildir.** 11 RALL çalışmasını (N = 595, g = 0,83, I² = %84,4) kapsayan bir [[meta-analysis-systematic-review|meta analiz]], robot morfolojisinin, modalitenin, özerkliğin ve sosyal rolün ikinci dil öğrenimini yönlendirmediğini bulmuştur; grup temelli biçimler birebiri formatları geçmiş, böylece etkiyi taşıyan robotun gömülmesi değil konumu olmuştur ([[robot-assisted-language-learning-meta-analysis-2026|Wang ve ark. (2026)]]).
 - **Vücut izleme, düzenlemeyi ölçülebilir bir sinyale dönüştürür.** Hareket etiketlerinin öğrenci ajanlarını yansıtılmış bir model üzerinde hareket ettirdiği karma gerçeklik bir fotosentez simülasyonunda, bir LLM hattı 40 dakikalık videoda kendini düzenleme davranışının 470 bölümünü etiketlemiş ve baskın olma davranışı %66,4 oranında gerçekleşmiştir ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles ve ark., 2026]]).
 - **Vüut bulma ve yaratıcı yazma:** [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Yaratıcı yazmada robot-BBÜ bütünleşmesi araştırması]], vüut bulmanın öğrenenlerin etkileşimini ve sonuçlarını nasıl etkilediğini incelemektedir.
 - **İnsan–robot etkileşimi:** [[educational-robotics|HRI]] araştırması ([[task-context-trust-educational-hri-2026|güven]], [[human-autonomy-agency-hri-review-2025|etki]]), fiziksel gömülmenin güveni, [[student-engagement|katılımı]] ve [[agency|özerkliği]] nasıl şekillendirdiğini inceler.
 - **Anlamanın kanıtı olarak jest:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew ve ark.]], bilgisayarlı görü jest izlemesini konuşmanın [[llm]] analiziyle bütünleştirerek, mühendislik öğrencilerinin istatistiğe ilişkin kavramsal anlayışının hem konuşma hem jest yoluyla ifade edildiğini göstermektedir. Yüksek güvenilirlikli açıklayıcı jestler belirli kavramlar (özellikle ortalama) çevresinde kümelenmekte ve sıkı jest–konuşma eşleşmesi, tutarlı kavramsal konuşmayı işaret ederken ayrışma, gelişmekte olan fikirleri işaret etmektedir — bu durum, vüut bulmuş eylemi yalnızca bir öğrenme mekanizması olarak değil, [[multimodal|çok kipli öğrenme analitiği]] yoluyla [[assessment-validity|değerlendirmede]] bir kanıt olarak konumlandırmaktadır.
+- **Yalnızca dille çalışan bir kolaylaştırıcı, sorgulamayı söylenebilene doğru çeker.** Bir yüksek lisans akışkanlar statiği laboratuvarında öğrenciler kaldırma kuvveti modelini önce elle kurdular; ardından Gemini temelli bir kolaylaştırıcı modeli yeni bir olguya uygulamak için katıldı. Üç ikili boyunca YZ, ISLE dizisini korudu, ancak “sadece söyle” baskısı altında kimsenin ölçmediği kütle değerleri üretti ve uzaktaki bir katılımcı fiziksel olarak doğru ama temiz ve bedensiz bir döngü tamamladı ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino ve Damiani, 2026]]). Tasarım dersi ikame değil sıradır: modeli önce bedende kurun, sonra dil modelinin onu uygulamasına izin verin.
 
 ### Vüut bulmuş zekâ ve bedensiz YZ eleştirisi
 
@@ -52,9 +53,13 @@ Bilgi tabanının vüut bulma araştırmalarının ikinci, daha teorik akımı, 
 
 Vüut bulmuş öğrenme; [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]] ve [[social-emotional-learning]] ile bağlantılıdır.
 
+- **YZ çoğunlukla bedeni izler, ona katılmaz.** YZ destekli vücut bulmuş öğrenme üzerine 23 çalışmanın PRISMA derlemesinde, kodlanan 40 YZ rolüne algılama egemendi: analiz ve değerlendirme %40,0, tanıma ve tespit %22,5; etkinliğin içinde hareket eden roller ise %35,0’taydı (geri bildirim ve koçluk %15,0, etkileşim %12,5, içerik üretimi %7,5). Düşük puanlı üç ve değerlendirilemeyen dört makale çıkarıldığında etkileşim %6,7’ye, içerik üretimi %3,3’e düşüyor; yani YZ’nin vücut bulmuş döngüye katıldığına dair kanıt en zayıf makalelere dayanıyor ([[kim-ai-embodied-learning-review-2026|Kim ve Han (2026)]]).
+
+- **En bedensel literatür bedeni en az ölçer.** 32 sonuç etiketinden bilişsel sonuçlar %43,8’i, duyuşsal sonuçlar %34,4’ü ve psikomotor sonuçlar %21,9’u aldı; bu sıralama daha yüksek puanlı 16 makalede de korundu (25 etiketin %24,0’ü). Yazarlar bunu psikomotor ölçüt seçmenin zorluğuna ve bilişsel kazanımları önceleme alışkanlığına bağlıyor; bedensel beceri üzerindeki zayıf bir etkiye değil. İncelenen sistemlerin hiçbiri birlikte hareket eden öğrenenler için tasarlanmamıştı; görünen işbirliği [[teacher-role|öğretmen]] ile YZ arasındaki eşgüdümdür ([[kim-ai-embodied-learning-review-2026|Kim ve Han (2026)]]).
+
 ## Yaygın yanlış anlamalar
 
-- **“Vücut, vücut bulmuş öğrenmeyi işler kılan şeydir.”** **11 RALL çalışmasını (N = 595, g = 0.83, I² = %84,4)** kapsayan bir meta analiz, **robot morfolojisinin, modalitenin, özerkliğin ve sosyal rolün** ikinci dil öğrenme çıktılarını **yönlendirmediğini** bulmuştur. Vücut bulma özellikleri etkin bileşen değildi ve heterojenlik yeterince yüksekti (I² = %84,4) ki havuzlanmış etki çok karışık bir müdahale kümesini betimler.
+- **“Vücut, vücut bulmuş öğrenmeyi işler kılan şeydir.”** **11 RALL çalışmasını (N = 595, g = 0.83, I² = %84,4)** kapsayan bir meta analiz, **robot morfolojisinin, modalitenin, özerkliğin ve sosyal rolün** [[language-learning|ikinci dil öğrenme]] çıktılarını **yönlendirmediğini** bulmuştur. Vücut bulma özellikleri etkin bileşen değildi ve heterojenlik yeterince yüksekti (I² = %84,4) ki havuzlanmış etki çok karışık bir müdahale kümesini betimler.
 - **“Büyük bir etki mekanizmayı çözer.”** 11 çalışma genelinde 595 katılımcıyla g = 0.83 gerçek bir sinyaldir ve neyin ürettiğini tanımlamaz. Tasarım özellikleri etkiyi yönlendirmediğine göre akla yatkın mekanizma donanımda değil pedagojik etkinlikte durur; bu da neye yatırım yapılacağını değiştirir.
 - **“Vücut bulma ölçülemez, dolayısıyla kuramsal kalır.”** Vücut izleme, düzenlemeyi **ölçülebilir bir sinyale** dönüştürebilir: hareket etiketlerinin öğrenci ajanlarını yansıtılmış bir model üzerinde hareket ettirdiği karma gerçeklik bir fotosentez simülasyonunda bir LLM hattı, **470 bölümü** düzenleme davranışı olarak etiketlemiştir. Yapı, tanımlanması zor olduğu yerde bile işlevselleştirilebilir.
 
@@ -85,3 +90,5 @@ Vüut bulmuş öğrenme; [[educational-robotics]], [[educational-robotics]], [[e
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[videla-embodied-ai-education-choreography]]
+- [[embodied-inquiry-ai-facilitator-physics-2026]] — Elle kurulan modellerden sonra kolaylaştırıcı olarak YZ: dile dayalı bir YZ vücut bulmuş sorgulamayı izleyemez (Tufino ve Damiani 2026)
+- [[kim-ai-embodied-learning-review-2026]] — Vücut bulmuş öğrenmede YZ çoğunlukla gözlemler: kodlanan rol etiketlerinin %62,5’i algılama rolleri ve incelenen hiçbir sistem öğrenenler kullanırken çok kipli akışları birleştirmedi (Kim ve Han 2026)

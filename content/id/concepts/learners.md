@@ -10,9 +10,9 @@ level: [higher ed, k 12, adult learning]
 audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
-updated: "2026-11-04T02:37:02-05:00"
+updated: "2026-11-08T13:51:25-05:00"
 translation_of: "concepts/learners"
-source_updated: "2026-10-25T15:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -81,7 +81,7 @@ Bacalah bersama [[stakeholders]] untuk orang-orang di sekitar pembelajar, dan be
 
 ## Miskonsepsi Umum
 
-**"Pembelajar dan siswa adalah populasi yang sama."** Keduanya tidak dapat dipertukarkan secara berguna: *siswa* menamai peran institusional, *pembelajar* menamai sebuah aktivitas, dan seseorang bisa menjadi yang satu tanpa yang lain — seorang karyawan dalam [[professional-training|pelatihan kerja]] adalah pembelajar tetapi bukan siswa. Mencampuradukkan keduanya mempersempit basis bukti menjadi orang-orang dengan catatan pendaftaran dan diam-diam membuang justru orang dewasa, profesional, dan pembelajar yang mengarahkan diri sendiri yang menjadi pokok penelitian [[lifelong-learning|pembelajaran sepanjang hayat]].
+**"Pembelajar dan siswa adalah populasi yang sama."** Keduanya tidak dapat dipertukarkan secara berguna: *siswa* menamai peran institusional, *pembelajar* menamai sebuah aktivitas, dan seseorang bisa menjadi yang satu tanpa yang lain — seorang karyawan dalam [[professional-training|pelatihan kerja]] adalah pembelajar tetapi bukan siswa. Mencampuradukkan keduanya mempersempit basis bukti menjadi orang-orang dengan catatan pendaftaran dan diam-diam membuang justru orang dewasa, profesional, dan [[self-directed-learning|pembelajar yang mengarahkan diri sendiri]] yang menjadi pokok penelitian [[lifelong-learning|pembelajaran sepanjang hayat]].
 
 **"Pembelajar melaporkan AI meningkatkan pemahaman mereka, jadi AI menghemat waktu mereka."** Kedua klaim itu terpisah dalam data survei. Dalam karya tentang produktivitas belajar, **92.3%** mengatakan AI meningkatkan pemahaman mereka, sementara hanya **38.5%** yang mengatakan AI mengurangi waktu belajar keseluruhan mereka. Angka utama menggambarkan pemahaman yang dirasakan; kesenjangan di bawahnya menunjukkan bahwa pemahaman yang membaik dan waktu yang kembali adalah hasil yang berbeda, dan klaim "AI menghemat waktu" yang banyak diulang ditopang oleh angka yang lebih kecil.
 

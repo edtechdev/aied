@@ -1,7 +1,7 @@
 ---
 title: Pais e famílias
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:17:55-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-10-26T01:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -84,7 +84,7 @@ Os resultados mais fortes voltados à família nesta base de conhecimento dizem 
 
 O que falta é mais conspicuoso. Os relatos dos próprios pais são raros: os professores em [[k12-teachers-ai-companion-literacy-2026|Xiao et al. (2026)]] excluíram os pais de sua amostra por desenho, e os pais que aparecem são entrevistados como uma voz entre meninas, praticantes ou professores. Não há aqui evidência direta sobre como as famílias aprendem a [[educational-policy-ai|política de IA]] de uma escola, o que lhes é dito sobre monitoramento ou divulgação, ou como respondem a isso, e a coordenação família–escola foi teorizada, e não testada. Desenhos de tutoria em casa como o ParaTutor foram avaliados com 23 díades em um único contexto nacional, e as comparações de companheiros repousam sobre 19 estudantes de uma única escola.
 
-Uma revisão de escopo de 2026 mapeia até onde o campo chegou. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] analisaram 53 estudos de IHC a partir de 6.540 registros em 19 veículos por meio da teoria da atividade, e constataram que a literatura se centra na interação entre criança e pais e na linguagem, no [[ai-literacy|letramento em IA]] e na aprendizagem relacional, com 44 dos 53 estudos (83%) situados em configurações de criança e pais. Sistemas conversacionais, corporificados e espaciais geram apoio a partir do contexto de uma interação em desenrolamento, e os LLMs redistribuem o trabalho educacional enquanto famílias e instituições permanecem responsáveis por interpretar as saídas e decidir como elas entram na prática. A [[personalized-learning|personalização]] sustentada, o trabalho de reparo e como as famílias negociam autoridade e regras são as lacunas que a revisão nomeia, o que é a mesma ausência que esta seção documenta a partir da outra direção.
+Uma [[meta-analysis-systematic-review|revisão de escopo]] de 2026 mapeia até onde o campo chegou. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] analisaram 53 estudos de IHC a partir de 6.540 registros em 19 veículos por meio da [[activity-theory-aied|teoria da atividade]], e constataram que a literatura se centra na interação entre criança e pais e na linguagem, no [[ai-literacy|letramento em IA]] e na aprendizagem relacional, com 44 dos 53 estudos (83%) situados em configurações de criança e pais. Sistemas conversacionais, corporificados e espaciais geram apoio a partir do contexto de uma interação em desenrolamento, e os LLMs redistribuem o trabalho educacional enquanto famílias e instituições permanecem responsáveis por interpretar as saídas e decidir como elas entram na prática. A [[personalized-learning|personalização]] sustentada, o trabalho de reparo e como as famílias negociam autoridade e regras são as lacunas que a revisão nomeia, o que é a mesma ausência que esta seção documenta a partir da outra direção.
 
 **Relação com outras páginas.** [[stakeholders|Partes interessadas]] é a visão geral curta de todo o conjunto de partes interessadas, com as famílias listadas como um público ainda não coberto em profundidade; esta página é essa profundidade. [[early-childhood-elementary-ai-education|Educação infantil e fundamental com IA]] cobre o domínio desenvolvimental e [[pedagogy|pedagógico]] para quem aprende sendo jovem, atravessando escola e casa; esta página acompanha a família ao longo das idades, das atividades lúdicas na educação infantil à lição de casa do ensino médio. [[ai-use-disclosure|Divulgação do uso de IA]] cobre se quem aprende conta aos outros que usou IA; esta página cobre a questão adjacente de se essa informação chega aos adultos em casa, e o que é dito às famílias sobre o uso de IA na escola.
 

@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic, learnharness]
 title: Tutoria inteligente
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:02:41-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,7 @@ Os Sistemas de Tutoria Inteligente representam uma das áreas mais antigas e mai
 ### Pesquisa central sobre ITS
 
 - **Ensaios microrrandomizados de uma plataforma de tutoria:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] realizaram uma avaliação individualmente randomizada, multissítios, de quatro semanas do Medly em [[biology-education|Biologia]], [[chemistry-education|Química]] e [[physics-education|Física]] do GCSE, com 644 de 929 estudantes completando o pós-teste; a alocação à plataforma produziu g de Hedges = 0,33 (IC 95% 0,18 a 0,48) contra a revisão [[self-directed-learning|autodirigida]] usual como grupo de controle, com estimativas positivas nas três disciplinas e nenhuma evidência de impacto diferencial por desvantagem (Pupil Premium g = 0,28 versus não Pupil Premium g = 0,35).
+- **Uma metanálise dos EUA sobre K-12 situa o efeito médio em g = 0,271.** Em 18 experimentos, exemplos resolvidos e dicas solicitadas pelos estudantes carregaram o efeito, enquanto dicas acionadas automaticamente não; implantações além de seis meses caíram para um g = 0,110 não significativo ([[leite-its-k12-meta-analysis-2025|Leite et al., 2025]]).
 - **A [[lak2026-hint-button-unproductive-use|pesquisa sobre o botão de dicas]]** mostra que o desenho de dicas tradicional dos ITS pode inadvertidamente habilitar estratégias de contorno, o que pede abordagens de [[scaffolding|andaimento]] mais sofisticadas.
 - **O [[deeptutor]]** oferece um framework de tutoria agêntica inteiramente [[open-source|código aberto]], com tutoria fundamentada em citações e [[automated-question-generation|geração de questões]] calibrada por dificuldade.
 - **O [[huang-interpretable-knowledge-tracing-2026|Rastreamento de Conhecimento Interpretável]]** enfrenta o problema da opacidade ao produzir quantidades cognitivas interpretáveis a partir dos logits de LLM.
@@ -82,6 +83,8 @@ Os Sistemas de Tutoria Inteligente representam uma das áreas mais antigas e mai
 - **E a dose impulsiona o efeito dentro disso (mesmo estudo):** um desenho de propensão ponderada associou o uso a 0,11 DP de crescimento no MAP dentro do distrito (0,24 DP no Índice de Crescimento Condicional nacional), com um gradiente de dose limpo — 0,18 DP em 10–19 problemas por semana e 0,31 DP em 20 ou mais, com todas as dosagens acima de 3 por semana significativas (p < 0,01). Subgrupos exploratórios mostraram associações maiores para estudantes com PEI (+0,122 DP), [[multilingual-learning|aprendizes de inglês]] (+0,191 DP) e estudantes hispânicos (+0,084 DP). O desenho é quase-experimental — a autosseleção para o uso é a vulnerabilidade que os autores nomeiam —, mas a fidelidade e a resposta à dose instanciam diretamente a lição da restrição vinculante.
 - **Equivalência estatística à tutoria humana especialista.** Ao longo de 2.469 sessões de 2.383 adultos, a tutoria com IA agrupada igualou a tutoria humana especialista individual ao vivo nos [[learning-gains|ganhos de aprendizagem]] do GRE (p=.015 contra limites de ±0,25 DP; diferença ajustada de −0,58 pontos percentuais) e ambas superaram um controle por vídeo em cerca de seis pontos; seis de doze tutores passaram em testes individuais de equivalência, com o Gemma 4 31B igualando os ganhos humanos a um custo 918× menor por ponto percentual ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
 - **Micropersonalização baseada em prompt de um tutor de LLM (2026):** [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] personalizam o assistente de [[teacher-role|ensino]] Jill Watson [[llm]]/[[rag]] no nível de questões individuais inteiramente por engenharia de prompts — condicionando as respostas a seis dimensões de quem aprende ([[metacognition|metacognitiva]] [[self-assessment|autoavaliação]], abstração, verbosidade, percepção, processamento, compreensão) e classificando a demanda cognitiva de cada consulta com um classificador da [[cognitive-diagnosis|Taxonomia de Bloom]], produzindo 96 perfis de quem aprende sem nenhum reajuste de modelo. A análise de PLN de 2.910 respostas e um estudo com humanos encontraram diferenças mensuráveis e perceptíveis em abstração, verbosidade, complexidade e estilo de processamento das respostas, alinhadas aos efeitos pretendidos. Isso demonstra a adaptação da forma da resposta (em vez do conteúdo) como uma rota escalável e modular para o [[adaptive-learning|comportamento adaptativo]] em um tutor implantado.
+
+- **Transferência próxima sem ganhos em testes padronizados na escala da sala de aula.** [[learnlm-eedi-expanded-rct-2026|LearnLM Team, Google e Eedi (2026)]] randomizaram 1.179 estudantes em 10 escolas estaduais do Reino Unido em quatro braços por 10 semanas. Após o apoio, 56,5–56,9% responderam corretamente a uma segunda questão diagnóstica, contra 43,4% sob remediação padrão; os efeitos no Star Maths foram de −0,01 a +0,02 DP. Tutores aprovaram 94,7% de 94.385 rascunhos sem alteração, e 6 erros em 114.935 rascunhos foram detectados antes de chegar aos estudantes.
 
 ### Conceitos centrais de ITS
 
@@ -195,6 +198,8 @@ A tutoria eficaz exige adaptação contínua: [[zhang-tutormoments-2026|Zhang et
 - [[speech-and-voice-technologies]]
 
 ## Artigos conectados
+- [[leite-its-k12-meta-analysis-2025]] — Metanálise dos EUA sobre K-12: 18 experimentos, g = 0,271, e o que o modera (Leite et al. 2025)
+- [[learnlm-eedi-expanded-rct-2026]] — RCT ampliado no Reino Unido: ganhos de transferência próxima, mas nenhuma vantagem em testes padronizados em 10 semanas (LearnLM Team, Google & Eedi 2026)
 - [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: revelando lacunas de responsividade de tutores de LLM em problemas de programação com múltiplas soluções (Cen & Sonkar 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — Apoiar ou substituir o raciocínio dos estudantes? Descarregamento cognitivo na aprendizagem de provas assistida por IA (Chen et al. 2026)
 - [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: avaliando tutores de LLM com estudantes de comportamentos desafiadores (Park et al. 2026)

@@ -8,7 +8,7 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,9 @@ ai_assist:
 - **Bir işletme eğitimi alternatifi konuyu değil süreci notlar.** Birinci sınıf bir İş Analisti derece çıraklığında notlandırma, belgelenmiş yinelemeyi ve akran [[collaborative-learning|işbirliğini]] gerektirmiş ve GenAI kullanan öğrenciler onun karşı savlarını sunmak yerine onlarla tartışmıştır ([[alam-process-oriented-collaborative-essays-2026|Alam ve Jackson, 2026]]).
 
 - **Öğrenci kaynaklı çerçeveler.** [[drummond-genai-business-schools-framework-2026|Drummond & Dale (2026)]], üretici YZ’yi işletme lisans programları boyunca bütünleştirmeye yönelik öğrenci kaynaklı kavramsal bir çerçeve sunar; bu çerçeve 149 öğrenciden oluşan bir Birleşik Krallık vaka çalışmasına dayanır. Öğrenciler yüksek düzeyde katıldı, kariyerleri için üretici YZ becerilerine duyulan ihtiyacı fark etti ve bilmeden akademik usulsüzlüğe girmeden YZ kullanmak istedi.
+
+- **Sonuç çalışması değil, değere dayalı bir strateji analizi.** [[csaszar-ai-management-education-2026|Csaszar vd. (2026)]], MBA ve ona komşu programlara ödeme istekliliği ile sunum maliyetini uygular. YZ, eğitimin yerini alabilir ya da yargı, etik ve liderliğin değerini yükselterek onu tamamlayabilir; öğretim içeriği, yöntemi ve hedef kitlesi henüz oturmamıştır ve okulların tamamlanıp tamamlanmayacağını ya da yerlerinden edilip edilmeyeceğini belirleyen değişken araştırma kapasitesidir.
+
 - **On yıllık bir araştırma.** [[espino-ai-business-education-review-2026|Espino & Espino (2026)]], işletme eğitiminde yapay zekâya ilişkin 213 makaleyi (2015–2024) bibliyometrik olarak haritalayarak dört küme belirledi: YZ kaynaklı işletme eğitimi dönüşümü, yenilikçi dijital pedagojiler, YZ ile güçlendirilmiş [[personalized-learning|kişiselleştirme]] ve dijital ekonomiyle uyumlu işletme eğitimi — müfredat tutarlılığı, eğitmen hazırlığı ve değerlendirme geçerliliği alanlarında süregelen boşluklarla birlikte.
 - **Yapıcı hizalama.** [[zhou-constructive-alignment-genai-business-2026|Zhou vd. (2026)]], Birleşik Krallık’ta bir işletme okulunda üretici YZ benimsemesine ilişkin 17 vakayı inceleyerek pedagojik yararlarla riskler arasındaki dengenin **müfredat bütünleşme düzeyiyle** şekillendiğini — yapıcı bütünleşmenin daha iyi sonuçlar ürettiğini — buldu.
 - **Müfredat konusunda öğrenci görüşleri.** [[rook-plumb-genai-curricula-student-insights-2026|Rook & Plumb (2026)]], bir bitirme dersindeki 166 lisans işletme öğrencisinden yararlanarak üretici YZ’yi müfredata bütünleştirmeye yönelik güçlü bir destek ve üç öncelikli alan buldu: üretici YZ işlevselliğini anlama/iyileştirme, bağlamlar arasında uygulamaları keşfetme ve etik/hukuki boyutlarda yol bulma.
@@ -48,8 +51,8 @@ ai_assist:
 - **Örgütsel benimseme.** [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi (2026)]], [[higher-ed|yükseköğretim]]de YZ benimsemesinin örgütsel ve teknolojik itici güçlerini inceledi (TOE + Yeniliklerin Yayılımı çerçevelerini kullanarak, n=300 personel); bu, işletme okullarının ve kurumlarının YZ kaynaklı karar desteği ile akıllı öğrenme platformlarını nasıl benimsediğiyle ilgilidir.
 - **İşletme [[simulation]] oyunlarında konuşma tabanlı etmenler.** [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger ve Liening (2026)]], deneyimsel girişimcilik öğrenimi için kullanılan işletme benzetim oyunlarında uyarlanabilir öğretim desteği amacıyla YZ ile güçlendirilmiş bir [[conversational-ai|konuşma tabanlı etmen]] (Lara) geliştirir ve değerlendirir. Bir [[equity-in-ai-education|eşitlik]]-tasarımı bakış açısına ve [[universal-design-for-learning|evrensel öğrenme tasarımı]]na dayanan CAIS-GBL çerçevesi, bilişsel, [[motivation|motivasyonel]], [[affective-computing|duygusal]] ve [[sociocultural-learning|sosyo-kültürel]] [[student-engagement|katılımı]] hedefler; öğretmen adayları ve BSG katılımcıları arasındaki değerlendirmeler, bilişsel/[[community-of-inquiry|sosyal varlık]] ve [[self-regulated-learning]] desteğine ilişkin olumlu algılar göstermiştir — [[game-based-learning|benzetim temelli]] işletme eğitiminde [[formative-assessment|biçimlendirici]] geri bildirimi ölçeklendirmeye yönelik bir model.
 - **Karmaşık uygulamalı görevler için etken GAI.** [[ilieva-agentic-genai-higher-education-2026|Ilieva vd. (2026)]], **e-ticaret** dersi çevresinde AGAI-HE çerçevesini geliştirir; burada öğrenme görevi iş modellerini karşılaştırmayı, piyasa ve operasyonel kısıtları tartmayı ve stratejik önerileri savunmayı gerektirir — istek metni–yanıt sohbet robotlarının zayıf desteklediği çok adımlı uygulamalı bir iş. 130 öğrencilik algı çalışmaları, hem sohbet robotu hem etken desteğin geleneksel [[online-teaching-and-learning|e-öğrenme]]den öğrenme güçlendirmesi, kişiselleştirme, karar verme desteği ve iş akışı düzenlemesi açısından daha yüksek puan aldığını, ancak etken ile sohbet robotu arasında anlamlı bir fark olmadığını buldu; en güçlü destek üç kipi birlikte kullanmaya gitti. İşletme programları için okuma şudur: benimseme, YZ desteğinin nasıl sıralandığı ve yönetildiğine ilişkin bir [[curriculum-design|öğretim tasarımı]] sorusudur, yalnızca bir araç yükseltmesi değildir ([[agentic-ai]]).
-- **Değerlendirme ve notlandırma yeniliği yetersiz araştırılmıştır.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais ve Galy (2026)]], dört önde gelen yönetim eğitimi dergisinde (AMLE, JME, Management Learning, IJME) 20 yıl boyunca yayımlanan 58 değerlendirme konulu makaleyi inceledi — yılda yaklaşık üç tane, çoğu 2010 ve 2014 özel sayılarında — ve değerlendirme ile notlandırmanın, öğrenmeyi şekillendirmedeki merkezî rolüne kıyasla yetersiz araştırıldığını buldu. Öz ve akran değerlendirmesi söylemde baskındır (derlemin neredeyse yarısı, temel olarak [[group-work|grup çalışması]]nın [[summative-assessment|toplayıcı]] değerlendirmesi için); [[authentic-assessment|otantik değerlendirme]] başlıca teknoloji aracılı [[simulation|benzetimler]] yoluyla görünür ve sık sık [[experiential-learning|deneyimsel öğrenme]] ile karıştırılır; yeniden değerlendirme, standart temelli notlandırma ve notlandırma kaldırma ise neredeyse hiç yoktur. Yazarlar yönetim eğitimcilerini bu yeniliklere daha etkin ve karşılıklı biçimde katılmaya çağırır; notlandırma kaldırılmış ödevler, tek bir görev için yeniden değerlendirme, standart temelli rubrikler gibi kademeli denemeleri, program düzeyinde koordinasyon ve belgelenmiş Öğretim ve Öğrenme Alanındaki Bilimsel Çalışmalar kanıtıyla destekler.
-- **İşletme ders çalışmalarının otomatik puanlanması derleme özgüsü doğrulama gerektirir.** Bir BrandSim benzetiminden 60 öğrenci pazarlama gönderisi üzerinde, [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]], bir [[llm|LLM]]’nin insan ortalamasıyla yalnızca ICC(2,1) = .435 ulaştığını buldu — deterministik kurallar .091, eşit ağırlıklı hibrit .266 — araştırmacı yazarlı çıpaların eklenmesi ise hiçbir öğrenci puanını değiştirmeden LLM’yi .846’ya yükseltti.
+- **Değerlendirme ve notlandırma yeniliği yetersiz araştırılmıştır.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais ve Galy (2026)]], dört önde gelen yönetim eğitimi dergisinde (AMLE, JME, Management Learning, IJME) 20 yıl boyunca yayımlanan 58 değerlendirme konulu makaleyi inceledi — yılda yaklaşık üç tane, çoğu 2010 ve 2014 özel sayılarında — ve değerlendirme ile notlandırmanın, öğrenmeyi şekillendirmedeki merkezî rolüne kıyasla yetersiz araştırıldığını buldu. Öz ve [[peer-assessment|akran değerlendirmesi]] söylemde baskındır (derlemin neredeyse yarısı, temel olarak [[group-work|grup çalışması]]nın [[summative-assessment|toplayıcı]] değerlendirmesi için); [[authentic-assessment|otantik değerlendirme]] başlıca teknoloji aracılı [[simulation|benzetimler]] yoluyla görünür ve sık sık [[experiential-learning|deneyimsel öğrenme]] ile karıştırılır; yeniden değerlendirme, standart temelli notlandırma ve notlandırma kaldırma ise neredeyse hiç yoktur. Yazarlar yönetim eğitimcilerini bu yeniliklere daha etkin ve karşılıklı biçimde katılmaya çağırır; notlandırma kaldırılmış ödevler, tek bir görev için yeniden değerlendirme, standart temelli rubrikler gibi kademeli denemeleri, program düzeyinde koordinasyon ve belgelenmiş Öğretim ve Öğrenme Alanındaki Bilimsel Çalışmalar kanıtıyla destekler.
+- **İşletme ders çalışmalarının [[automated-assessment|otomatik puanlanması]] derleme özgüsü doğrulama gerektirir.** Bir BrandSim benzetiminden 60 öğrenci pazarlama gönderisi üzerinde, [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]], bir [[llm|LLM]]’nin insan ortalamasıyla yalnızca ICC(2,1) = .435 ulaştığını buldu — deterministik kurallar .091, eşit ağırlıklı hibrit .266 — araştırmacı yazarlı çıpaların eklenmesi ise hiçbir öğrenci puanını değiştirmeden LLM’yi .846’ya yükseltti.
 - **YZ’nin birinci sınıf bir süreç tasarımı unsuru olarak öğretilmesi.** [[ai-decision-checkpoints-bpm-education-2026|Jalali (2026)]], 152 öğrencili bir dersin altı modülünün her birindeki BPM yaşam döngüsü aşamasına bir YZ-kararı denetim noktası yerleştirir; böylece öğrenciler çalışan bir LLM giriş etmeni kurar ve ardından bir denetim noktasında gerçek darboğazın iki kişilik bir dolandırıcılık soruşturma kuyruğu olduğunu keşfeder.
 
 ## Ekonomi ve yönetim eğitimi
@@ -59,6 +62,10 @@ ai_assist:
 ## İşletme eğitiminde yapay zeka neden önemlidir
 
 İşletme, üretici YZ benimsemesinin en hızlı olduğu alanlardan biridir; bu nedenle işletme okulları öğrencileri YZ bütünleşik bir iş hayatına hazırlamak konusunda keskin bir baskıyla karşı karşıyadır. Araştırma, etkili bütünleşmenin **müfredat kaynaklı ve öğrenci kaynaklı** olduğunu vurgular — YZ araçları eklemek değil, programları yeniden tasarlamak; böylece üretici YZ okuryazarlığı, etik yargı ve otantik uygulama diploma yapıları boyunca dokunur. Bu, işletme eğitimini bilgi tabanının daha geniş [[ai-literacy|YZ okuryazarlığı]], [[teacher-role|eğitmen]] hazırlığı, [[assessment]] yeniden tasarımı ve YZ çağında [[curriculum-design|müfredat]] reformu temalarına bağlar.
+
+
+Vaka çalışmaları ve benzetimler bu literatüre en yakın öğretim biçimleridir, ancak yönetim kanıtları vaka temelli bir müdahaleyi yalıtmaz; pedagoji ve sınırları için [[case-based-learning]] sayfasına bakın.
+
 
 ## İşletme öğretmenleri için çıkarımlar
 
@@ -79,6 +86,7 @@ ai_assist:
 - [[discipline-specific-aied]]
 - [[generative-ai]]
 - [[ai-literacy]]
+- [[case-based-learning]] — Vaka çalışmaları, vaka yöntemi ve vaka tartışması
 - [[curriculum-design]]
 - [[assessment]]
 - [[ethics]]
@@ -94,6 +102,9 @@ ai_assist:
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Ders içinde kurulmuş bir RAG sohbet robotu beklentileri hareket ettirdi, sonuçları değil
 
 - [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
+
+- [[csaszar-ai-management-education-2026]] — YZ’nin yönetim eğitimi üzerindeki etkileri: değere dayalı bir strateji analizi (Csaszar vd. 2026)
+
 
 - [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentic GAI support in an e-commerce course, perceived benefits and risks (Ilieva et al. 2026)
 - [[drummond-genai-business-schools-framework-2026]] — Student-informed framework for GenAI in business schools (Drummond & Dale 2026)

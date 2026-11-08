@@ -7,9 +7,9 @@ foundations: [ai-education, learning-design]
 pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-04T02:42:40-05:00"
+updated: "2026-11-08T13:51:25-05:00"
 translation_of: "concepts/pedagogy"
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -57,11 +57,13 @@ Basis pengetahuan ini mendokumentasikan seperangkat strategi pengajaran dan peda
 - **AI sebagai agen pedagogis.** Alat AI mewujudkan pedagogi — [[intelligent-tutoring|tutor]] yang dibangun atas [[socratic-method|pertanyaan Sokratik]] mendorong pembelajar untuk bernalar, sementara chatbot pembangkit jawaban mungkin secara default memberikan jawaban langsung (lihat [[reducing-ai-misuse]] tentang mengapa sikap pedagogis itu penting). Literatur [[agentic-ai|AI agentik]] menunjukkan bahwa mendasarkan agen pada teori desain instruksional mengungguli [[prompt-engineering|prompting]] mentah. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] membingkai ulang peran ini secara formal: alih-alih instruktur–[[student-modeling|model siswa]] diadik dengan GenAI sebagai suplemen atau ancaman eksternal, mereka mengusulkan **model triadik instruktur–siswa–GenAI** yang bersarang di mana GenAI beroperasi sebagai *mediator didaktis-pedagogis* yang berbatas di dalam ruang mediasi didaktis bersama yang diperintah institusi dan pemangku kepentingan — menghasilkan lima proposisi yang dapat diteliti tentang mediasi pembelajaran, transformasi peran instruktur, literasi AI dan agensi pembelajar, [[process-oriented-assessment|penilaian berorientasi proses]] yang transparan terhadap AI, dan [[governance]] institusional.
 - **Pedagogi menentukan efek AI.** Temuan yang berulang adalah bahwa *bagaimana* AI digunakan sama pentingnya dengan *apakah* AI digunakan. [[instructional-guidance-genai-learning|Penelitian panduan instruksional]] dan [[generative-ai-guardrails-harm-learning|RCT tutor berpagar pengaman]] menunjukkan AI yang sama dapat merugikan atau membantu tergantung pembungkus pedagogisnya (petunjuk vs. jawaban, penggunaan terstruktur vs. terbuka).
 - **Pengetahuan pedagogis lebih berat daripada pengetahuan teknis.** Di seluruh 46 guru dan 2,832 siswa, pengetahuan AI pedagogis guru memprediksi persepsi siswa tentang AI untuk kebaikan sosial dan niat mereka mempelajari AI, sementara pengetahuan teknis semata tidak memadai — dan keduanya tidak memprediksi pengetahuan AI siswa ([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al. (2026)]]).
-- **Kontribusi terjelas AI adalah mengalihkan pekerjaan administratif.** Tinjauan PRISMA atas 28 studi menemukan AI paling sering meningkatkan perencanaan instruksional dan desain penilaian, dengan manfaat yang paling banyak dilaporkan adalah otomatisasi penilaian, umpan balik dan pemantauan kemajuan (18 studi, 64.2%) — sementara keselarasan pedagogis adalah tantangan yang paling banyak dikutip (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).
-**Otomatisasi dan pembelajaran saling bertukar langsung.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] menelusuri enam prinsip pedagogis — aktivasi pengetahuan awal, [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]] — melalui apa yang dilakukan inisiatif agentik proaktif terhadap masing-masing, berargumen bahwa makin banyak agen mengotomatisasi, makin sedikit kerja kognitif yang dilakukan pembelajar kecuali gesekan, penghilangan dinamis, dan pengawasan manusia dirancang masuk.
+- **Mengalihkan pekerjaan administratif adalah tempat AI berkontribusi paling jelas.** Tinjauan PRISMA atas 28 studi menemukan AI [[assessment|desain penilaian]], dengan manfaat yang paling banyak dilaporkan adalah otomatisasi penilaian, umpan balik dan pemantauan kemajuan (18 studi, 64.2%) — sementara keselarasan pedagogis adalah tantangan yang paling banyak dikutip (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).
+**Otomatisasi dan pembelajaran saling bertukar langsung.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] menelusuri enam prinsip pedagogis — aktivasi [[prior-knowledge|pengetahuan awal]], [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]] — melalui apa yang dilakukan inisiatif agentik proaktif terhadap masing-masing, berargumen bahwa makin banyak agen mengotomatisasi, makin sedikit kerja kognitif yang dilakukan pembelajar kecuali gesekan, penghilangan dinamis, dan [[human-in-the-loop-ai|pengawasan manusia]] dirancang masuk.
+- **Refleksi adalah pedagogi yang AI sekaligus memungkinkan dan mengancam.** Prompt terstruktur, jurnal, dan komentar [[eportfolio|portofolio]] adalah mekanisme yang mengubah pengalaman menjadi pembelajaran, dan halaman [[reflection]] membawa buktinya. Satu eksperimen terpreregistrasi menemukan prompt yang menggandakan waktu pada umpan balik dan memangkas volume latihan sebesar 40% tanpa menaikkan keuntungan per soal. Audit terkode atas mitra refleksi AI menemukan alat itu melanggar setiap instruksi perilaku tanpa meninggalkan jejak yang terlihat. Rancang prompt di sekitar upaya yang telah selesai, dan tuntut jejaknya alih-alih entri yang sudah dipoles.
 - **Strategi pengajaran untuk literasi AI.** Mengajari siswa *menggunakan AI dengan baik* itu sendiri merupakan tugas pedagogis — penelitian [[ai-literacy]] dan [[reducing-ai-misuse]] mengembangkan strategi (berpikir dulu/AI kemudian/refleksi, deklarasi AI, pelatihan kalibrasi) yang termasuk dalam payung ini.
+- **Metafora dan analogi sebagai teknik pengajaran.** [[metaphors-and-analogies]] mengumpulkan bukti tentang bagaimana analogi menjelaskan AI, di mana analogi itu patah, dan bagaimana siswa dapat mengauditnya sebagai bentuk [[critical-thinking|berpikir kritis]].
 
-- **Instruksi literasi AI menggerakkan pengetahuan paling cepat.** Meta-analisis tiga tingkat atas 59 studi (172 ukuran efek) menemukan intervensi yang berfokus pada pengetahuan (g ≈ .97) jelas mengungguli intervensi yang menyasar keterampilan (≈ .67), sikap (≈ .68), atau [[ethics]] (≈ .64), sehingga memasangkan pengajaran konsep dengan latihan berkelanjutan menyasar hasil yang menolak instruksi ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
+- **Instruksi literasi AI menggerakkan pengetahuan paling cepat.** [[meta-analysis-systematic-review|Meta-analisis]] tiga tingkat atas 59 studi (172 ukuran efek) menemukan intervensi yang berfokus pada pengetahuan (g ≈ .97) jelas mengungguli intervensi yang menyasar keterampilan (≈ .67), sikap (≈ .68), atau [[ethics]] (≈ .64), sehingga memasangkan pengajaran konsep dengan latihan berkelanjutan menyasar hasil yang menolak instruksi ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
 - **Pedagogi dalam praktik guru.** [[teacher-role]] dan [[teacher-ai-competency]] memeriksa bagaimana guru mengadopsi AI dalam repertoar pedagogis yang sudah ada, dan [[llm-training-and-fine-tuning]] / [[pedagogical-agent]] mempelajari alat AI yang dilatih untuk mengikuti prinsip pedagogis.
 
 ## Hubungan dengan teori pembelajaran
@@ -104,9 +106,11 @@ Penekanan pada usaha yang dipertahankan itu tidak absolut: desain [[mixed-method
 - [[learning-sciences]]
 - [[learning-gains]]
 - [[learning-design]]
+- [[metaphors-and-analogies]] — Metafora dan analogi sebagai teknik pengajaran
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[project-based-learning]]
+- [[case-based-learning]] — Metode kasus dan kasus pembanding sebagai teknik pengajaran
 - [[experiential-learning]]
 - [[game-based-learning]]
 - [[socratic-method]]

@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -54,11 +54,13 @@ Bilgi tabanı, YZ yayılım hızı ile regülasyon olgunluğu arasındaki ısrar
 
 **Açık, zamanlamanın yanı sıra bir kanıt açığıdır.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski ve Hurley (2025)]] bir meslek sektörünü, yapabileceği bir kanıt tabanı olmadan zaman baskısı altında politika yapmak olarak nitelendirir: ABA onaylı ABD’li [[legal-education|hukuk fakültelerinin]] çoğu genel olarak yasaklayıcı tutum alırken takdir yetkisini bireysel öğretim elemanlarına bıraktı ve yazarlar, açıklama veya atıf uygulamasına ilişkin bir uzlaşı olmadığını ve ABA’nın 2024 politika anketine yalnızca ~%15’lik bir yanıt oranı bildirir. Onların normatif yanıtı — tutum ne olursa olsun net kılavuzlar, hüküm metninin hazırlanmasında [[stakeholders|ilgili tarafların]] katılımı ve esnek ve dönemsel olarak gözden geçirilecek biçimde tasarlanan yönetişim — [[crompton-governing-genai-higher-ed-delphi-2026|küresel Delphi uzlaşısıyla]] eşleşir; o da politika sürdürümünü bir kerelik bir görev değil, yinelenen bir kurumsal mekanizma olarak ele alır. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher ve Calderon (2025)]] ters bağımlılığı ekler: yönetişim reform programı, kurumsal gelişimin regülasyondan, kıyaslamadan ve kurumlar arası rekabetten gelen dış imkân olmadan büyük olasılıkla verim getirmeyeceği sonucuna varır; bu da kalite ve regülasyon kurumlarını — ve kurumlar arasında zorunlu kıldıkları karşılaştırmayı — iç yönetişim reformunun tuttuğu koşul haline getirir.
 
-EdTech platformu gizlilik politikalarının bir denetimi, bu bağımlılığa somut bir örnek verir. 48 platform boyunca veri toplama nispeten iyi açıklandı (ortalama 2 üzerinden 1,81), buna karşılık YZ açıklaması (0,90) ve hesap verebilirlik (1,07) geride kaldı ve %33’ü görünür YZ özelliklerine rağmen anlamlı bir YZ açıklaması yapmadı; ABD [[k-12]] platformları genel olarak en yüksek puanı aldı (ABD [[higher-ed|yükseköğretiminin]] 5,50’sine karşılık M = 7,47) ancak YZ açıklaması veya hesap verebilirlikte hiçbir kazanım elde etmedi — yazarların sonucuna göre regülasyon yalnızca adlandırdığı şeyi yükseltir; bu nedenle uygulanabilir kurallar ve sağlama standartları, gönüllü taahhütler yerine [[privacy]]’yi yayılımın bir koşulu haline getirmek zorundadır ([[edtech-privacy-deferral-2026|Nair ve Greenstadt, 2026]]).
+[[edtech-platform|EdTech platformu]] gizlilik politikalarının bir denetimi, bu bağımlılığa somut bir örnek verir. 48 platform boyunca veri toplama nispeten iyi açıklandı (ortalama 2 üzerinden 1,81), buna karşılık YZ açıklaması (0,90) ve hesap verebilirlik (1,07) geride kaldı ve %33’ü görünür YZ özelliklerine rağmen anlamlı bir YZ açıklaması yapmadı; ABD [[k-12]] platformları genel olarak en yüksek puanı aldı (ABD [[higher-ed|yükseköğretiminin]] 5,50’sine karşılık M = 7,47) ancak YZ açıklaması veya hesap verebilirlikte hiçbir kazanım elde etmedi — yazarların sonucuna göre regülasyon yalnızca adlandırdığı şeyi yükseltir; bu nedenle uygulanabilir kurallar ve sağlama standartları, gönüllü taahhütler yerine [[privacy]]’yi yayılımın bir koşulu haline getirmek zorundadır ([[edtech-privacy-deferral-2026|Nair ve Greenstadt, 2026]]).
 
 ### Bağlantılar
 
 Regülasyon; [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]], [[pedagogical-safety]] ve [[academic-integrity]] ile bağlantılıdır. Diğer tüm YZ eğitim uygulamalarının nasıl işlediğini şekillendiren kurumsal katmandır. Regülasyon hem kısıtlar hem olanak tanır: kabul edilebilir YZ kullanımının sınırlarını belirlerken — [[ai-literacy]] ve sorumlu kullanım beklentileri yoluyla — [[equity-in-ai-education|eşitlikçi]], güvenli bütünleşme için koşullar yaratır.
+
+Regülasyon otomatik olarak aşağıya çevrilmez: eyalet düzeyinde YZ kurallarının bulunduğu yerlerde faaliyet gösteren 32 finansman kuruluşu genel politikalar yayımlamış, ancak bu kuralları taşıyan finansmana özgü hiçbir araç yayımlamamıştır ([[chan-ai-policy-gap-2026|Chan, 2026]]).
 
 ## Yaygın yanlış anlamalar
 
@@ -107,3 +109,4 @@ Regülasyon; [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]],
 - [[edtech-privacy-deferral-2026]] — "Sonra Düzeltiriz": Eğitim, YZ ve EdTech’te Öğrenci Gizliliğinin Ertelenmesi
 
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — Hiçbir karşılaştırma politikası bir öğrenme yönetim sistemine giriş yapan ya da öğrenci kimlik bilgilerini tutan bir YZ aracısını ele almadı (Wong ve Sun 2026)
+- [[chan-ai-policy-gap-2026]] — Dikey aktarılmama: eyalet kuralları varken onların altındaki finansörler bağlayıcı bir araç yayımlamıyor (Chan 2026)

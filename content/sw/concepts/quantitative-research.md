@@ -7,7 +7,7 @@ research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,7 @@ ai_assist:
 
 ## Maswali ya Kutafakari
 
-- 'Wanafunzi wanaotumia mwalimu wa AI wanapata alama za juu' — kabla ya kusoma, je, huu ni dai kuhusu sababu au uhusiano, na ni ushahidi mmoja upi unaweza kubadilisha mmoja kuwa mwingine?
+- 'Wanafunzi wanaotumia [[intelligent-tutoring|mwalimu wa AI]] wanapata alama za juu' — kabla ya kusoma, je, huu ni dai kuhusu sababu au uhusiano, na ni ushahidi mmoja upi unaweza kubadilisha mmoja kuwa mwingine?
 - Utafiti wa makundi ya kupitisha unaweza kupima mfano mgumu wa ujumla na bado hauwezi kuthibitisha sababu. Kwa nini vigezo viwili vinaweza kuwa na uhusiano katika utafiti hata hakuna linalosababisha lingine? Unaweza kufikiria njia ya kupotoshwa kweli na uhusiano kama huo katika elimu?
 - Vyombo vya kiasi ni vizuri tu kwa kiwango kile cha kile vinavyopima — na ukurasa unaonya vyombo vinaweza kupima dhana isiyo sahihi. Unapojaza dodoso la kujitangaza kuhusu 'ujasiri' au 'mahusiano,' inaweza kukamata nini badala yake, na ungejua vipi?
 - RCT hugawa wanafunzi kwa nasibu kwa hali ili kukadiria athari ya sababu. Nini kinafanya mgawanyo wa nasibu kuwa na nguvu, na ni matatizo ya vitendo na ya maadili yapi yanatokea wakati 'matibabu' ni zana ya AI inayoweza kuwa na msaada ambayo wanafunzi wengine wananyimwa?
@@ -42,12 +42,13 @@ Dodoso za makundi ya kupitisha hupima mitazamo, mitazamo ya kisaikolojia, motish
 - **Nguvu:** sampuli kubwa; ufikiaji mpana, wa bei ndogo; hupima mifano mgumu ya ujumla; inawezekana kwa mitazamo ambayo ni ngumu kutazamwa.
 - **Vikomo:** data za makundi ya kupitisha haziwezi kuthibitisha sababu; upendeleo wa kujitangaza; sampuli za urahisi zinazuia uwezo wa kujumuishwa; waamuzi wanaohitimishwa kutoka covariance, si udhibiti. Ona [[self-report-measures]] kwa matibabu ya upande wa kipimo vya vikomo hivi.
 
-- **Muundo wa upatanishi uliojaa hauwezi kupima mpangilio wake wenyewe.** Dodoso ya wimbi moja ya wanafunzi 1,020 wa uuguzi iligawanya athari ya jumla ya 1.36 katika ya moja kwa moja 0.92 na isiyo ya moja kwa moja 0.44 kupitia kujifunza kwa kujidhibiti, asilimia 32.35 ya jumla, kwa muundo wenye vigezo huru vingi kama ushirikiano wa data zilizoonekana na hivyo unazalisha data kwa muundo wake ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
-
+- **Muundo wa upatanishi uliojaa hauwezi kupima mpangilio wake wenyewe.** Dodoso ya wimbi moja ya wanafunzi 1,020 wa uuguzi iligawanya athari ya jumla ya 1.36 katika ya moja kwa moja 0.92 na isiyo ya moja kwa moja 0.44 kupitia [[self-regulated-learning|kujifunza kwa kujidhibiti]], asilimia 32.35 ya jumla, kwa muundo wenye vigezo huru vingi kama ushirikiano wa data zilizoonekana na hivyo unazalisha data kwa muundo wake ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
 **Athari ya jumla isiyo ya moja kwa moja karibu na sifuri inaweza kuficha njia mbili hai.** Katika wimbi moja la kujitangaza la wanafunzi 568 wa ubuni, uhusiano usio wa moja kwa moja ulikwenda 0.0929 kupitia mwelekeo wa kukuza na -0.0884 kupitia mwelekeo wa kuzuia, ukijumlisha 0.0045 wakati njia ya moja kwa moja ilibeba asilimia 98.7 ya jumla ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]).
 
 ### Utafiti wa majaribio na wa karibu-jaribio
-Majraribio hugawa wanafunzi kwa nasibu kwa hali (mfano, mwalimu wa AI dhidi ya mwalimu wa binadamu, au AI-inayosaidiwa dhidi ya isiyosaidiwa) ili kukadiria athari za sababu kwa matokeo. **Majraribio ya nasibu yaliyodhibitiwa ([[rct]])** ni kiwango cha dhahabu kwa uhalali wa ndani. [[access-not-enough-ai-tutoring-2026|Utafiti wa uwanja wa nasibu wa msaada wa binadamu pamoja na ufundishaji wa AI]] na [[genai-can-harm-teaching-rct-2026|RCT juu ya AI ya kizalishaji katika ufundishaji]] hutumia mgawanyo kutenganisha athari za sababu. Miundo ya **karibu-jaribio** (pre/post, makundi yaliyolinganishwa bila nasibu) ni inawezekana zaidi katika madarasa kamili lakini dhaifu zaidi kwa madai ya sababu. [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] wanachukua crossover ya ndani ya mtu badala: kila mwanafunzi anakutana na maudhui yale yale ya fizikia mara mbili, mara katika somo la kujifunza hai la darasani na mara kupitia mwalimu wa AI wa kozi yenyewe, na pre- na post-test kuzunguka kila moja, hivyo kila mwanafunzi anahudumu kama kudhibiti chake na tofauti kati ya watu zinaghairi.
+Majraribio hugawa wanafunzi kwa nasibu kwa hali (mfano, mwalimu wa AI dhidi ya mwalimu wa binadamu, au AI-inayosaidiwa dhidi ya isiyosaidiwa) ili kukadiria athari za sababu kwa matokeo. **Majraribio ya nasibu yaliyodhibitiwa ([[rct]])** ni kiwango cha dhahabu kwa uhalali wa ndani. [[access-not-enough-ai-tutoring-2026|Utafiti wa uwanja wa nasibu wa msaada wa binadamu pamoja na ufundishaji wa AI]] na [[genai-can-harm-teaching-rct-2026|RCT juu ya AI ya kizalishaji katika ufundishaji]] hutumia mgawanyo kutenganisha athari za sababu. Miundo ya **karibu-jaribio** (pre/post, makundi yaliyolinganishwa bila nasibu) ni inawezekana zaidi katika madarasa kamili lakini dhaifu zaidi kwa madai ya sababu.
+
+[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] wanachukua crossover ya ndani ya mtu badala: kila mwanafunzi anakutana na maudhui yale yale ya fizikia mara mbili, mara katika somo la [[active-learning|kujifunza hai]] la darasani na mara kupitia mwalimu wa AI wa kozi yenyewe, na pre- na post-test kuzunguka kila moja, hivyo kila mwanafunzi anahudumu kama kudhibiti chake na tofauti kati ya watu zinaghairi.
 
 - **Nguvu:** uhojofu wa nguvu zaidi wa sababu; upimaji safi wa matokeo; unategemeza kukadiria ukubwa wa athari na madai ya ufanisi.
 - **Vikomo:** ghali na polepole; hali bandia zinapunguza uhalali wa kiikolojia; zana za AI zinazobadilika haraka huzua umri kwa majaribio kwa haraka; sampuli ndogo hazina nguvu ya kugundua athari; vikomo vya maadili vya kunyima zana za msaada.

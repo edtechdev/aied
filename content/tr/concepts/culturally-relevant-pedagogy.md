@@ -9,7 +9,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -45,8 +45,8 @@ YZ, öğretmenlerin öğretimi kültürel olarak duyarlı hale getirmesine deste
 
 Ders üretiminin ötesinde, kültürel olarak duyarlı pedagoji daha derin bir eleştiriye bağlanır: YZ eğitim verileri ve tasarım süreçleri, diğer bilme biçimlerini marjinalleştiren Batı merkezli, İngilizce epistemik çerçeveleri kodlar.
 
-- **Epistemik kolonyalite:** Tali-Otmani (2026), üretken YZ sistemlerinin epistemik olarak tarafsız olmadığını; ağırlıklı olarak Batı merkezli eğitim verilerinin **azınlıkta kalan bilgileri aktif biçimde marjinalleştirdiğini** ve epistemolojileri hem eğitim verilerinde yeterince temsil edilmeyen hem de tasarımdan dışlanan engelli öğrenenler için “çifte marjinalleşme” ürettiğini savunuyor. Bu, [[equity-in-ai-education|eşitlik]] tartışmasını *erişimden* *kimin bilgisinin geçerli sayıldığına* taşır.
-- **Epistemik otoritenin yeniden dağıtımı:** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]], öğrenenlerin yaşadıkları ve topluluk temelli epistemolojilerini YZ çıktıları üzerinde değerlendirme standardı olarak yeniden konumlandıran **topluluk temelli YZ öğrenme** çerçevesini öne sürüyor. Üç taahhüdü — **epistemik ince ayar**, **otoritenin yeniden dağıtımı** ve **[[situated-learning|durumsal]] ayırt etme** — güveni yerel tarihlere ve topluluk uzmanlığına göre kalibre eder; reddetmeyi ve stratejik kullanmamayı YZ’ye ilişkin geçerli kültürel olarak duyarlı pedagoji yanıtları olarak ele alır.
+- **Epistemik kolonyalite:** Tali-Otmani (2026), üretken YZ sistemlerinin epistemik olarak tarafsız olmadığını; ağırlıklı olarak Batı merkezli eğitim verilerinin **azınlıkta kalan bilgileri aktif biçimde marjinalleştirdiğini** ve epistemolojileri hem eğitim verilerinde yeterince temsil edilmeyen hem de tasarımdan dışlanan [[inclusive-learning|engelli öğrenenler]] için “çifte marjinalleşme” ürettiğini savunuyor. Bu, [[equity-in-ai-education|eşitlik]] tartışmasını *erişimden* *kimin bilgisinin geçerli sayıldığına* taşır.
+- **Epistemik otoritenin yeniden dağıtımı:** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]], öğrenenlerin yaşadıkları ve topluluk temelli epistemolojilerini YZ çıktıları üzerinde değerlendirme standardı olarak yeniden konumlandıran **topluluk temelli YZ öğrenme** çerçevesini öne sürüyor. Üç taahhüdü — **epistemik [[llm-training-and-fine-tuning|ince ayar]]**, **otoritenin yeniden dağıtımı** ve **[[situated-learning|durumsal]] ayırt etme** — güveni yerel tarihlere ve topluluk uzmanlığına göre kalibre eder; reddetmeyi ve stratejik kullanmamayı YZ’ye ilişkin geçerli kültürel olarak duyarlı pedagoji yanıtları olarak ele alır.
 
 ### Kültürel temelli veriler ve değerlendirme
 
@@ -71,7 +71,7 @@ Bilgi tabanının kendi makalelerine dayanarak eğitimciler ve tasarımcılar k�
 
 ## Yaygın yanlış anlamalar
 
-**“YZ çıktıları, kültür için istek metni yazmadıkça kültürel olarak nötrdür.”** Varsayılan nötr değil, baskındır. **310 YZ tarafından üretilmiş yurttaşlık ders planının (2.230 etkinlik)** analizi, **%94'ünün ayırt edilebilir çok kültürlü içerik taşımadığını** buldu ve taşıyan 144 etkinlikten **137'si en düşük "Katkı" düzeyinde kaldı, yalnızca biri "Dönüşüm" düzeyine ulaştı ve hiçbiri "Sosyal Eylem" düzeyine ulaşmadı.** Yönlendirilmeden bırakıldığında modeller çeşitlilik içermeyen bir varsayılanı yeniden üretti; bu nedenle kültür için istek metni yazmak bir önyargı azaltma değil, bunlardan herhangi birinin görünmesinin tek nedenidir.
+**“YZ çıktıları, kültür için istek metni yazmadıkça kültürel olarak nötrdür.”** Varsayılan nötr değil, baskındır. **310 YZ tarafından üretilmiş yurttaşlık ders planının (2.230 etkinlik)** analizi, **%94'ünün ayırt edilebilir çok kültürlü içerik taşımadığını** buldu ve taşıyan 144 etkinlikten **137'si en düşük "Katkı" düzeyinde kaldı, yalnızca biri "Dönüşüm" düzeyine ulaştı ve hiçbiri "Sosyal Eylem" düzeyine ulaşmadı.** Yönlendirilmeden bırakıldığında modeller çeşitlilik içermeyen bir varsayılanı yeniden üretti; bu nedenle kültür için [[prompt-engineering|istek metni yazmak]] bir [[bias-mitigation|önyargı azaltma]] değil, bunlardan herhangi birinin görünmesinin tek nedenidir.
 
 **“Çok kültürlü örnekler eklemek kültürel olarak duyarlı pedagoji oluşturur.”** Çerçevenin kendi hiyerarşisi bunun tersini söyler ve üretilen çıktı ayrımın neden işlevsel olarak önemli olduğunu gösterir. Katkı düzeyindeki içerik yapıyı ve ünitenin varsayımlarını olduğu gibi bırakır; Dönüşüm içeriğin nasıl çerçevelendiğini değiştirir; Sosyal Eylem öğrenenlerden bu içerik üzerine eylemde bulunmalarını ister. Temsili dönüşümle karıştırmak, bir korpusun çeşitlilikte %6 oranında dolu olup kültürel olarak duyarlı olmaktan yine de uzak kalmasının yoludur.
 

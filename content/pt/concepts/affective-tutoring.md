@@ -1,7 +1,7 @@
 ---
 title: Tutoria afetiva
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:35:57-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-10-29T06:19:06-04:00"
+source_updated: "2026-11-04T13:20:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,13 +60,13 @@ Favero et al. (2025) alertam que o engajamento [[student-engagement|emocional]] 
 | Benefício da tutoria afetiva | Risco correspondente |
 |---|---|
 | Respostas com consciência emocional parecem acolhedoras | Os estudantes podem formar **dependências parassociais** do tutor |
-| A empatia reduz a ansiedade | A redução da ansiedade pode mascarar o **desengajamento metacognitivo** |
+| A empatia [[anxiety-and-stress|reduz a ansiedade]] | A [[anxiety-and-stress|redução da ansiedade]] pode mascarar o **desengajamento metacognitivo** |
 | A calibração afetiva personaliza o ritmo | A [[personalized-learning|personalização]] profunda pode **reduzir a transferência** para contextos não adaptativos |
 | O monitoramento facial sinaliza atenção | A captura contínua de vídeo levanta **preocupações de privacidade** |
 
 Os autores argumentam que os riscos emocionais fazem parte de um padrão mais amplo de **erosão da [[self-efficacy|autoeficácia]], da [[agency|autonomia]] e do [[well-being|bem-estar]]** quando o uso de IA não é controlado.
 
-**O risco também recai sobre quem nunca abre o tutor.** [[shastry-gray-empathy-offloading-2026|Shastry e Gray (2026)]] constataram que a disposição de oferecer apoio emocional você mesmo diminui à medida que você acredita que um sistema pode oferecê-lo, e essa crença foi causal no segundo experimento deles: ler uma cobertura jornalística comum sobre IA empática bastou para elevar o deslocamento, inteiramente por meio da capacidade percebida. O quarto estudo deles acrescenta um custo social que o enquadramento individual não capta. Ao saber que um estudante havia recorrido a um chatbot em busca de apoio, os participantes disseram que se deslocariam menos do que se o estudante tivesse recorrido a um amigo. Em seguida, escreveram menos palavras de empatia e mais palavras de indiferença sobre esse estudante, e o avaliaram como mais estranho e mais desesperado. A oferta [[social-emotional-learning|socioemocional]] pode, portanto, rarear ao redor do tutor mesmo quando ninguém que o usa relata mudança.
+**O risco também recai sobre quem nunca abre o tutor.** [[shastry-gray-empathy-offloading-2026|Shastry e Gray (2026)]] constataram que a disposição de oferecer apoio emocional você mesmo diminui à medida que você acredita que um sistema pode oferecê-lo, e essa crença foi causal no segundo experimento deles: ler uma cobertura jornalística comum sobre IA empática bastou para elevar o deslocamento, inteiramente por meio da capacidade percebida. O quarto estudo deles acrescenta um custo social que o enquadramento individual não capta. Ao saber que um estudante havia recorrido a um [[conversational-ai|chatbot]] em busca de apoio, os participantes disseram que se deslocariam menos do que se o estudante tivesse recorrido a um amigo. Em seguida, escreveram menos palavras de empatia e mais palavras de indiferença sobre esse estudante, e o avaliaram como mais estranho e mais desesperado. A oferta [[social-emotional-learning|socioemocional]] pode, portanto, rarear ao redor do tutor mesmo quando ninguém que o usa relata mudança.
 
 ## Princípios de desenho
 

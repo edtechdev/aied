@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [designing-ai-into-learning]
 contributors: [editor]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-11-04T17:29:51-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -37,7 +37,7 @@ ai_assist:
 - Mfumo ni *mpangilio*, si zana. Chukua kazi moja unayofundisha na andika mpangilio wa hatua ambazo mwanafunzi huzifanya. Katika mpangilio huo, AI ingesaidia wapi, na wapi ingefanya kazi ambayo mwanafunzi anapaswa kuifanya?
 - Mifumo kadhaa hapa huwapa AI kwa makusudi jukumu *dhaifu* — vidokezo badala ya majibu, maswali badala ya masahihisho. Kwa nini mwalimu asiye msaada kwa makusudi angezalisha kujifunza bora zaidi, na hiyo inamaanisha nini kuhusu zana za AI ambazo taasisi yako inanunua?
 - Mfumo bora zaidi wa ushahidi katika ukurasa huu ([[learning-by-teaching|kujifunza kwa kufundisha]] AI) unauliza wanafunzi kuelezea, na unaboresha ubora wa maelezo na maswali lakini *si* kukumbua kwa njia ya kichanganuzi. Kama ungechukua, ungebadilisha nini kuhusu jinsi unavyotathmini?
-- Wakati [[ai-feedback-quality|maoni ya AI]] yalikuwa ya ubora wa juu kuliko maoni ya mwalimu, wanafunzi hawakufanya marekebisho zaidi. Hiyo inapendekeza nini kuhusu tofauti kati ya kutoa maoni na kuwafanya wanafunzi wayatumie?
+- Wakati [[ai-feedback-quality|maoni ya AI]] yalikuwa ya ubora wa juu kuliko maoni ya [[teacher-role|mwalimu]], wanafunzi hawakufanya marekebisho zaidi. Hiyo inapendekeza nini kuhusu tofauti kati ya kutoa maoni na kuwafanya wanafunzi wayatumie?
 - Miktadha hubadilisha jibu: mifumo mingine ilijaribiwa mtandaoni na bila kufuatana, mingine ana kwa ana na maabara. Ni ipi kati ya hizi ungeweza kuendesha katika mazingira yako bila zana mpya, na ipi ingehitaji miundombinu ambayo huna?
 - Karibu kila mfumo hapa huweka kibinadamu katika hatua ya hukumu — kupima, kuthibitisha, au kutafsiri. Je, hiyo ni chaguo la kubuni, hitaji linalotokana na ushahidi, au kikomo cha kile kilichojaribiwa hadi sasa?
 
@@ -63,6 +63,9 @@ Mifumo hii inashirikiana dai la kimuundo: mwanafunzi lazima ajitolee kufanya jar
 
 Masharti ya nafasi ya kukumbua yanayobadilika yalizalisha alama za juu zaidi za majaribio ya baadae (M = 78.19) na yalishinda kwa kiasi kikubwa kijiashiria somo la AI linaloongozwa na mwanafunzi (M = 67.28, d = 0.92, p = .003) kwa wanafunzi 89 katika kozi ya takwimu ya mchanganyiko, wakati nafasi iliyowekwa haikuwa na tofauti ya kitaalamu kutoka ile inayobadilika ([[adaptive-pretesting-retention|Akgun & Toker, 2026]]). Kisa cha kulinganisha ni cha kuamua: katika [[rct|jaribio nasibu]] la wanafunzi 120, kikundi kilichosoma *na* ChatGPT bila vikomo kilihifadhi kidogo katika jaribio la kushangaza siku 45 baadaye — 57.5% sahihi dhidi ya 68.5% kwa wanafunzi wa kawaida, t(83) = −3.19, p = .002, d = 0.68 — na pia kilikuwa kimesoma takribani 45% kidogo, hali hasara ilidumu licha ya kigezo cha muda wa kusoma ([[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui, 2025]]). Jaribio la uwanja nasibu lililosajiliwa mapema katika MBA ya mtandaoni liligundua kuwa mapato yalifuatilia *wiki zilizokamilika* badala ya dakika za mwonekano (+2.00 pointi kwa kila wiki ya ziada ya ualimu iliyokamilika, p = .018), likisomwa kama [[retrieval-spacing-interleaving|mazoezi ya nafasi]] kuwa muhimu zaidi kuliko muda wa jumla ([[ai-tutor-modality-randomized-field-experiment-2026|Yang et al., 2026]]).
 
+Hoja ya sababu kwa kanuni hii ni jaribio la uwanja katika takriban madarasa 50 ya hisabati ya shule za upili za Kituruki yenye karibu wanafunzi 1,000 ([[generative-ai-guardrails-harm-learning|Bastani et al., 2025]]). GPT-4 isiyo na vikomo iliongeza utendaji wa mazoezi yaliyosaidiwa kwa 48% na kupunguza mtihani usiosaidiwa kwa 17% dhidi ya kikundi cha kudhibiti, wakati GPT-4 iliyolindwa iliongeza mazoezi kwa 127% na kuacha mtihani bila mabadiliko makubwa. [[guardrails]] zilikuwa mbili tu: vidokezo badala ya majibu, na maudhui maalum ya tatizo yaliyoandikwa na mwalimu (suluhisho sahihi, makosa ya kawaida) yaliyowekwa kwenye ilani ili vidokezo vifae. Data ya ushiriki iliweka madhara kwenye kunakili, kwa kuwa wanafunzi wasiolindwa waliomba majibu mara nyingi, na wanafunzi katika mikono yote miwili ya AI walikosea kuhukumu kujifunza kwao wenyewe.
+
+
 ### Kushindwa kwa tija: jaribu kabla ya maelekezo
 
 **Ushahidi: mchanganyiko, na nyembamba zaidi kuliko sifa yake.** Wanafunzi hujaribu tatizo linalolenga dhana ambayo hawajafundishwa, mwalimu anazuia suluhisho na huchochea majaribio mengi, msaada huja tu unapohitajika kabisa, na uimarishaji hufuata na kulinganisha na maelekezo ya moja kwa moja.
@@ -81,6 +84,9 @@ Somo la kabla-baada ya wanafunzi 13 katika kozi ya hifadhidata ya mtandaoni lili
 
 Kugawa kwa njia inayobadilika mifano iliyoongozwa na yenye makosa kulishinda mgawanyo nasibu wa aina ya tatizo katika somo la darasa la wanafunzi 113 (majaribio ya baada ya M = 72.3 na 72.5 dhidi ya 65.7 kudhibiti, A = .58, p = .005 na p = .002), na toleo la [[knowledge-tracing]] lilipunguza pengo la mafanikio kwa 77.1% kwa wanafunzi wenye [[prior-knowledge]] madogo (β = 9.4, p = .001) ([[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al., 2026]]). Lakini *kuongeza* hatua ya kujielezea kwenye maoni ya AI yaliyoboreshwa kulipotea katika kila kipimo katika jaribio lililosajiliwa mapema la washiriki 302: liliongeza mara mbili muda wa maoni (4.1 dhidi ya 2.1 min, p < .001), lilipunguza matatizo yaliyokamilishwa kwa 40% (2.0 dhidi ya 3.4, p < .001), hakutoa faida kwa kila kipindi (OR = 1.03, p = .486), na lilipunguza ujuzi wa mwisho wa kipindi (65% dhidi ya 79%, d = .41, p < .001) ([[structured-reflection-ai-explanatory-feedback-2026|Asher et al., 2025]]).
 
+Ni mifano mingapi ya kutoa kabla ya mazoezi ni suala linalotegemea maudhui yenyewe, jambo ambalo uundaji wa sehemu hii wa "mifano iliyofanyiwa kazi kisha matatizo" unaacha wazi. Katika jaribio la 2×2 la washiriki 95 kwenye nyenzo za eneo la jiometri, mafunzo ya mazoezi peke yake yalizalisha faida kubwa kwa ukweli wa neno kwa neno wakati kupishanisha mifano na mazoezi kulizalisha faida kubwa kwa ujuzi unaoweza kujumuishwa (β = 0.41, p = .038, d = 0.38) ([[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger na Carvalho, 2025]]). Mfululizo hauwezi kuhukumiwa kama mifano iliyofanyiwa kazi dhidi ya mazoezi kwa ujumla, kwa sababu mchanganyiko sahihi unafuata kama lengo ni ukweli au ujuzi.
+
+
 ## Mifumo inayounga maoni ya AI na maoni ya kibinadamu
 
 Matokeo yanayorudiwa zaidi katika hifadhi ya maarifa kuhusu maoni ya AI ni kwamba yanafanya kazi vizuri zaidi *yanapoungwa* na maoni ya kibinadamu kuliko peke yake — na kwamba ubora wake hauumui kama wanafunzi wanayatumia.
@@ -90,6 +96,9 @@ Matokeo yanayorudiwa zaidi katika hifadhi ya maarifa kuhusu maoni ya AI ni kwamb
 **Ushahidi: mchanganyiko (imetekelezwa kwa upana, haikudhibitiwa).** Wanafunzi husoma na hufikiria jinsi AI na maoni yanavyofanya kazi, hutengeneza, hutoa na kupokea mapitio ya marika, huomba AI maoni yanayolenga vigezo kwenye rasimu ile ile, hulinganisha vyote kwa njia mahususi, huandika mpango wa marekebisho, wanarekebisha, na hufikiria maoni yapi yalibadilisha nini.
 
 Somo kubwa zaidi hadi leo la matumizi ya maoni ya AI na wanafunzi wa chuo kikuu lilifuatia wanafunzi 654 katika kozi kumi za uandishi na kozi tatu za [[stem-education|STEM]] zenye msongamano wa uandishi: 58% walipendelea ChatGPT iliyoungwa na [[peer-assessment|maoni ya marika]], 36% marika peke yake na 6% tu AI peke yake; 75% waliona viwili vimefanana na kuimarisha; maoni ya AI yalitiwa sahihiwa "ya jumla kupita kiasi" na 31% wakati maoni ya marika yalikuwa mahususi zaidi kwa 28%; na 5.3% tu yalionesha kujiamini kupita kiasi katika maoni ya AI ([[pairr-ai-peer-review-2025|Sperber et al., 2025]]). Muundo pia uliendeshwa katika kozi ya uandishi wa biashara ya ngazi ya juu ya wanafunzi 34, ambapo karibu robo ya tafakari zilizowekewa kodi zilionyesha shaka juu ya au ziligundua upungufu wa usahihi katika maoni ya AI ([[gift-ai-pairr-business-writing-2025|MacArthur et al., 2025]]). Zote mbili zinaripoti data ya mtazamo; hakuna hali ya kudhibiti katika yoyote, ndiyo maana mfumo ni *mchanganyiko* badala ya *imejaribiwa*.
+
+Andiko la tatu la utekelezaji ule ule wa 2024 linauliza wanafunzi wanaiita zana nini badala ya jinsi walivyoipima. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] wanaeleza sehemu 13 za kozi 10 zenye msongamano wa uandishi na wanafunzi 654, na wanaripoti kuwa karibu nusu tu (51.7%) walichukua majukumu ya kocha au mwenza ambayo ilani ya tafakari ilitoa. Wengine waliiita zana, programu, roboti au kompyuta, au walibuni sitiari kama mashine ya kuuza maoni. Waandishi wanasoma msamiati huo kama matokeo ya ujuzi na kama ushahidi wa wakala wa mwandishi, na data yao ni ya mtazamo kwa njia ile ile, hivyo daraja la ushahidi hapo juu haliendi.
+
 
 ### Maoni ya marika na ya AI yaliyoungwa
 
@@ -137,7 +146,7 @@ Majaribio ya karibu na waelimishaji 68 wa awali yaligundua kuelezea kwa mwanafun
 
 **Ushahidi: imejaribiwa, lakini katika mazingira yanayodhibitiwa au yasiyodhibitiwa badala ya madarasa ya kawaida.** Wanafunzi wawili hushiriki AI moja na kupewa majukumu wazi na kanuni za mzunguko; AI inasanidiwa kuchukua jukumu inapohitajika na pato lake linaenda kwa kikundi kizima. Katika toleo la upangaji wa jozi AI iliyoshirikiwa huiga mwingiliano wa pamoja na juhudi za jozi, hutabiri kushindwa hadi sekunde 30 mapema, na huongeza ngazi za msaada kwa tabaka kutoka kutofanya chochote hadi kidokezo cha moja kwa moja.
 
-Majaribio ya ndani ya mada na jozi 26 ziligundua hali ya maoni ilipata mafanikio ya juu zaidi ya urekebishaji wa kosa (t[49.96] = −13.51, p < .0001) na kumaliza haraka zaidi (t[44.70] = 4.39, p < .0001), ingawa ilihitaji vifaa vya ufuatiliaji wa macho maradufu na pupilometri na haikujaribu uhamishaji kwenye kazi ya jozi bila usimamizi ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). Majaribio ya karibu na wanafunzi 58 wa nyumbani katika vikundi 16 yaligundua ubunifu wa jukumu liliinua alama za maudhui ya ramani ya mawazo kutoka 3.65 hadi 4.59 katika skela ya SOLO 1–5 (z = 3.771, p < 0.001) huku idadi ya nodi na matawi ikisalia sawa — lakini bila kikundi cha kudhibiti, athari za mazoezi haziwezi kutolewa ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
+Majaribio ya ndani ya mada na jozi 26 ziligundua hali ya maoni ilipata mafanikio ya juu zaidi ya urekebishaji wa kosa (t[49.96] = −13.51, p < .0001) na kumaliza haraka zaidi (t[44.70] = 4.39, p < .0001), ingawa ilihitaji vifaa vya [[sensor-and-gaze-analytics|ufuatiliaji wa macho]] maradufu na pupilometri na haikujaribu uhamishaji kwenye kazi ya jozi bila usimamizi ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). Majaribio ya karibu na wanafunzi 58 wa nyumbani katika vikundi 16 yaligundua ubunifu wa jukumu liliinua alama za maudhui ya ramani ya mawazo kutoka 3.65 hadi 4.59 katika skela ya SOLO 1–5 (z = 3.771, p < 0.001) huku idadi ya nodi na matawi ikisalia sawa — lakini bila kikundi cha kudhibiti, athari za mazoezi haziwezi kutolewa ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
 
 ### Majadiliano yanayosaidiwa na AI
 
@@ -155,7 +164,7 @@ Jaribio lililosajiliwa mapema na watu wazima 375 liligundua mazungumzo ya dhanap
 
 ## Miktadha na taaluma
 
-Mfumo huamua kile muktadha unahitaji, na mifumo kadhaa ilijaribiwa katika mazingira moja tu:
+Mfumo huamua kile muktadha unahitaji, na mifumo kadhaa ilijaribiwa katika mazingira moja tu. Makadirio yaliyoungwa hufanya utegemezi huo kuwa [[quantitative-research|wa kiasi]]. Katika masudio 35 ya majaribio na ya karibu-majaribio na athari 175, athari iliyoungwa ya AI ya kizalishaji kwenye [[learning-gains|utendaji wa kitaaluma]] wa shahada ya kwanza ilikuwa g = 0.46, na mtindo wa kufundisha uliidhibiti (Q = 14.63, p = 0.001). Madarasa yaliyogeuzwa yalifikia g = 1.96 kutoka athari 7, madarasa ya kawaida g = 0.46, na [[self-directed-learning|kujifunza kwa kujiongoza]] g = 0.26 ([[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing et al., 2026]]). Muda wa uingiliaji uliidhibiti pia, huku athari ya utendaji wa kitaaluma ikishuka kutoka g = 5.07 kwa wiki 0 hadi 4 hadi g = 0.01 zaidi ya wiki 12. Waandishi wanachukulia makadirio makubwa sana ya muda mfupi kama ya maelezo badala ya ya jumla, hivyo ukubwa wa athari kwa "AI katika kufundisha" ni dai kuhusu ubuni, na mifumo hapa ndio ubuni hizo.
 
 - **Mtandaoni na bila kufuatana.** Kukumbua na nafasi, toleo vya Socratic, mifano iliyofanyiwa kazi pamoja na kujielezea, matumizi yaliyozungukwa na ngazi za msaada za ilani, [[oral-assessment|tathmini ya mdomo]] bila kufuatana, na utekelezaji wa kujifunza kwa kufundisha. Mipangilio bila kufuatana hufanya *mpangilio* kuwa muhimu, kwa sababu mfumo hauwezi kuona kama mwanafunzi alijaribu kwanza.
 - **Ana kwa ana na mchanganyiko.** [[productive-failure|Kushindwa kwa tija]], uchanganuzi wa makosa, toleo vya kubadilisha, mapitio ya kodi ya mdomo, ushirikiano ulioandikwa, na masudio ya mabadiliko ya dhana. Wakati wa darasa mara nyingi hutengwa upya badala ya kubadilishwa — katika mfumo wa mapitio ya mdomo, hotuba zilihamia kwenye video ili wakati wa darasa uweze kushikilia mahojiano.
@@ -188,7 +197,7 @@ Onyo la mwongozo lenyewe linatumika: video zilizorekodiwa, tafakari na kumbukumb
 ## Dhana Potofu za Kawaida
 
 - **"Mazoezi yoyote yanayotolewa na AI ni mazoezi."** Hali ya kurejesha kumbukumbu kwa vipindi iliyobadilika ilizalisha **alama za juu zaidi za mtihani wa baada (M = 78.19)** na **ilishinda kwa kiasi kikubwa masomo ya AI yanayoongozwa na mwanafunzi (M = 67.28)**. Mpangilio unaoongozwa na mwanafunzi ulifanya vibaya kuliko ule uliopangwa, hivyo uhuru si ubuni bora kiotomatiki.
-- **"Kusoma na chatbot ni bora kuliko kusoma bila."** **Kesi pinzani ni ya maamuzi**: katika [[rct|jaribio la nasibu]] la **wanafunzi 120**, kikundi kilichosoma **na** ChatGPT isiyo na mipaka kilihifadhi **kidogo zaidi kwenye mtihani wa ghafla**. Zana ilikuwa na madhara kwa uhifadhi katika mpangilio uliojaribiwa.
+- **"Kusoma na [[conversational-ai|chatbot]] ni bora kuliko kusoma bila."** **Kisa pinzani kinaamua**: katika [[rct|jaribio la nasibu]] la **wanafunzi 120**, wale waliokisoma **na** ChatGPT isiyo na mipaka walikumbuka **kidogo zaidi walipojaribiwa bila tahadhari** kuliko wale ambao hawakufanya hivyo. Zana ilikuwa na madhara kwa uhifadhi katika mpangilio uliojaribiwa.
 - **"Ushahidi wa muundo ni jaribio kubwa la pamoja."** **Msaada imara zaidi ni wa moja kwa moja** na unatoka katika **jaribio la nasibu la ndani ya washiriki lenye wanafunzi 26**, ambapo [[scaffolding|ngazi za msaada]] za jibu la papo zilifanya kazi kwa njia tofauti kwa kiasi kikubwa. Ushahidi unaunga mkono muundo na unabaki mwembamba kwa kiwango, na ukurasa unapaswa kusomwa hivyo.
 
 ## Dhana Zilizounganishwa
@@ -228,6 +237,9 @@ Onyo la mwongozo lenyewe linatumika: video zilizorekodiwa, tafakari na kumbukumb
 
 - [[pairr-ai-peer-review-2025]] — PAIRR: mpangilio wa msingi, N = 654 (Sperber et al. 2025)
 - [[gift-ai-pairr-business-writing-2025]] — PAIRR inayotekelezwa katika kozi ya uandishi wa biashara (MacArthur et al. 2025)
+
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Wanafunzi 654 waliiita chatbot nini: asilimia 51.7 walichukua majukumu ya kocha au mwenza waliotolewa (Stillman et al. 2026)
+
 - [[ai-peer-feedback-l2-writing-engagement-2026]] — Maoni ya AI-na-marika yaliyoungwa yaliinua mwingiliano na vipimo vyote vinne vya IELTS (Liu 2026)
 - [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Maoni ya marika ya GenAI yaliyozungukwa na ngazi za msaada za ilani katika ubainishaji wa ushirikiano (Chang et al. 2026)
 - [[rethinking-ai-writing-feedback-literacy|Dai (2026)]] — Kuwafundisha wanafunzi kuchuja na kutathmini maoni ya AI: hali za FRAC na APCA

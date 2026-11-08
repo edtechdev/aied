@@ -8,9 +8,9 @@ ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
-updated: "2026-11-04T02:28:53-05:00"
+updated: "2026-11-08T14:09:36-05:00"
 translation_of: "concepts/special-education"
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -50,7 +50,7 @@ Pendidikan khusus adalah domain tempat kapasitas AI untuk personalisasi dan adap
 **Konten intervensi yang dihasilkan AI memerlukan kontrol sebelum generasi, bukan hanya tinjauan.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] menemukan praktisi menilai alat Social Story rancangan bersama sangat mudah digunakan (SUS 86.8) namun menyebut gambarnya generik dan berorientasi Barat serta pelacak perilakunya tidak selaras pertimbangan klinis terkait tujuan — batasan yang akan mereka tetapkan sebelum generasi.
 
 [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] bertolak dari materi, bukan dari percakapan: model bahasa-visi membaca foto Shoebox Tasks — dirancang agar tujuan terlihat pada objek — dan mengubahnya menjadi rencana yang dieksekusi atau didemonstrasikan oleh humanoid Nao, melaporkan akurasi rencana pada enam tugas dan tanpa data siswa.
-- **Perilaku menantang adalah titik henti tolok ukur tutor.** Dari 923 dialog berlandaskan kasus dari literatur pendidikan khusus dan psikologi pendidikan, model terbaik dari 11 model memenuhi intervensi terdokumentasi pada 55.8% kasus terbuka dan 43.3% rencana jangka panjang ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
+- **Perilaku menantang adalah titik henti [[benchmark|tolok ukur]] tutor.** Dari 923 dialog berlandaskan kasus dari literatur pendidikan khusus dan psikologi pendidikan, model terbaik dari 11 model memenuhi intervensi terdokumentasi pada 55.8% kasus terbuka dan 43.3% rencana jangka panjang ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
 
 ## Implikasi bagi instruktur pendidikan khusus
 
@@ -63,8 +63,8 @@ Pendidikan khusus adalah domain tempat kapasitas AI untuk personalisasi dan adap
 
 ## Miskonsepsi umum
 
-- **"Penilaian kegunaan memvalidasi alat bantu."** Praktisi menilai alat Social Story rancangan bersama **sangat mudah digunakan (SUS 86.8)** namun menyebut **gambarnya generik dan berorientasi Barat** serta **pelacak perilakunya tidak selaras pertimbangan klinis terkait tujuan**. Kegunaan tinggi berjalan bersama kegagalan substantif, jadi skor SUS bukan pengesahan kecocokan.
-- **"Tolok ukur generik memberi tahu Anda bagaimana tutor menangani kasus pendidikan khusus."** Dari **923 dialog berlandaskan kasus** dari literatur pendidikan khusus dan psikologi pendidikan, **model terbaik dari 11 model** memenuhi kriteria terdokumentasi — dan **perilaku menantang adalah titik henti tolok ukur tutor**. Evaluasi standar tidak menjangkau kasus yang paling membutuhkan bantuan.
+- **"[[usability-research|Penilaian kegunaan]] memvalidasi alat bantu."** Praktisi memberi alat Social Story yang mereka rancang bersama penilaian kegunaan yang lulus (SUS 86.8) sambil menyalahkan citra Barat yang seragam dan pelacak perilaku yang melewatkan pertimbangan klinis terkait tujuan. Kegunaan tinggi berjalan bersama kegagalan substantif, jadi skor SUS bukan pengesahan kecocokan.
+- **"Tolok ukur generik memberi tahu Anda bagaimana tutor menangani kasus pendidikan khusus."** Dari **923 dialog berlandaskan kasus** dari literatur pendidikan khusus dan psikologi pendidikan, **model terbaik dari 11 model** memenuhi kriteria terdokumentasi — dan **itulah batas cakupan tolok ukur tutor**. Evaluasi standar tidak menjangkau kasus yang paling membutuhkan bantuan.
 - **"Siswa neurodivergen membutuhkan akomodasi, bukan persyaratan desain."** [[neurodivergent-computing-students|Zastudil et al.]] menemukan siswa komputasi neurodivergen membutuhkan **tugas yang terstruktur, tim kecil yang konsisten, dan definisi peran yang eksplisit** — persyaratan desain umum yang bermanfaat bagi semua orang, bukan penyesuaian individual yang diberikan setelah diagnosis.
 
 ## Konsep terkait

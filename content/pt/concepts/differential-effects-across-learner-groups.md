@@ -1,7 +1,7 @@
 ---
 title: "Efeitos diferenciais entre grupos de estudantes"
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:45:14-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-26T10:50:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,9 @@ Ela deliberadamente não duplica suas vizinhas. [[equity-in-ai-education|Equidad
 
 **Atributos demográficos costumam ser simulados.** Raramente dados demográficos reais dos estudantes são anexados às entradas do modelo, então as auditorias fornecem personas em seu lugar. [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto e Hovy (2026)]] executaram seis modelos ajustados por instrução em três tarefas educacionais sob condições de padrão do modelo, persona explícita e histórico implícito — 192.480 chamadas de inferência — e concluíram que tanto as personas explícitas quanto os históricos de conversa *implícitos* movem o comportamento do modelo. Sua distinção vale a pena guardar: a consciência das diferenças entre quem aprende pode ser desejável (ajustar o feedback para a primeira língua de alguém), enquanto a mesma sensibilidade é um dano quando desloca o julgamento de trabalhos idênticos.
 
+**Auditorias com estudantes reais existem, e podem sustentar afirmações interseccionais.** [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar et al. (2026)]] analisaram dois anos de logs do MATHia de 8.549 estudantes e encontraram evidências que auditorias com personas simuladas não podem fornecer: uma lacuna de taxa-base de leitores emergentes de 0,1007 entre estudantes do sexo feminino em 2021–2022, diferenças chegando a 0,0926 entre estudantes hispânicos em 2022–2023, e 8 de 12 estatísticas de raça por grupo de leitura significativas entre não leitores emergentes, contra apenas 1 de 12 entre leitores emergentes.
+
+
 **Correções de justiça podem não generalizar.** [[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]] reduziram lacunas de erro por gênero e idade na estimação de atenção de estudantes em dados de [[assessment-validity|validação]], mas os ganhos não se transferiram de forma consistente para sujeitos retidos nem para divisões repetidas no nível do sujeito.
 
 **Rótulos de grupo escondem a variação interna.** Na mesma metanálise sobre deficiência, estudantes com dificuldades específicas de aprendizagem, com deficiência intelectual e do desenvolvimento, ou surdos, mostraram efeito maior (g = 0,952) do que estudantes com transtorno do espectro autista (g = 0,368) — diferença que os autores relatam como não estatisticamente significativa ao longo de 239 tamanhos de efeito de 41 amostras independentes. "Deficiência" não é um grupo só, e "estudante de L2" também não.
@@ -67,6 +70,9 @@ Esta é a vertente mais profunda da base de conhecimento, e aquela em que o rela
 - **Alguns apoios de IA igualam em vez de diferenciar.** [[adhd-video-segmentation-computing-education|Pimenova, Begel e colegas]] segmentaram [[video-education|vídeos instrucionais]] em blocos de instrução única com pausas fixas em um estudo intra-participantes (17 TDAH, 10 não-TDAH); todos melhoraram, e os erros e hesitações dos participantes com TDAH caíram à paridade com seus pares não-TDAH. Essa é a forma mais forte de evidência disponível para o [[universal-design-for-learning|Desenho Universal para a Aprendizagem]] por meio de transformação automatizada de conteúdo: uma mudança geral que fecha uma lacuna, em vez de uma correção dirigida a um grupo.
 - **O que estudantes neurodivergentes dizem precisar costuma ser mundano.** [[neurodivergent-computing-students|Um levantamento com 24 estudantes de computação neurodivergentes e 20 pares neurotípicos]], com quatro entrevistas, encontrou desconforto significativo com tarefas sem estrutura clara ou com expectativas ambíguas — uma acomodação que não custa nada fornecer.
 - **Escolhas de desenho também podem excluir epistemicamente.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] argumenta que dados de treinamento anglófonos e ocidentalocêntricos marginalizam modos de conhecer não hegemônicos e colocam a situação de estudantes com deficiência no centro dessa crítica.
+
+- **"Na mesma nota humana, um corretor trata estudantes identificados e não identificados da mesma forma."** Em **3.000** redações do ASAP 2.0 emparelhadas exatamente pela nota adjudicada, **todos os 22 modelos** deram nota mais baixa ao grupo identificado com deficiência, de **−0,086** a **−0,429** em uma escala de seis pontos, e **20** foram lidos como GAP REPLICATES. Erros de convenção e comprimento explicaram no máximo um quinto disso para **17 de 20** modelos, e como o ASAP 2.0 divulga uma única nota, o desenho não consegue separar um viés compartilhado pelo painel humano de um compartilhado pelos modelos ([[porcaro-ai-grading-benchmark-2026|a leitura é SHARED GAP, não viés do modelo]]).
+
 
 ## Língua: segunda língua, multilíngues e estudantes de inglês
 
@@ -114,12 +120,15 @@ A formação disciplinar é um eixo diferencial que o mapa grupo a grupo desta p
 O achado honesto deste levantamento é quão finos são alguns grupos. Cada um destes é uma lacuna real na base de evidência, não uma lacuna desta página.
 
 - **Estudantes de primeira geração:** um estudo relata uma diferença de uso, e não de efeito. Em [[student-ai-inquiry-types-cs2-2026|um estudo de investigação em CS2]], estudantes de gerações continuadas trataram a IA como parceira ativa de [[problem-solving|resolução de problemas]], enquanto estudantes de primeira geração assumiram um papel confirmatório, orientado à validação, e fizeram menos perguntas no geral.
-- **Estudantes de primeira geração: a primeira estimativa de efeito, e ela aponta para o lado errado.** O [[rct|ensaio randomizado]] de [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] de um [[intelligent-tutoring|tutor de IA]] integrado à disciplina fornece o que falta à entrada acima — um diferencial medido em vez de um padrão de uso. Na amostra completa, o efeito do acesso ao tutor sobre as notas finais foi 2,87 pontos (0,28 DPs) mais negativo para estudantes de primeira geração, implicando −5,10 pontos (−0,50 DPs) para eles contra −2,23 pontos (−0,22 DPs) para seus pares; o diferencial foi maior na amostra de emparelhamento exato (−3,89 pontos, −0,35 DPs), e estudantes de primeira geração também perderam mais pontos de lição de casa e visualizações de página na plataforma. O estudo não relata mecanismo e sua precisão varia por resultado, mas a direção é oposta à história de redução da lacuna: os estudantes com menos acesso prévio a apoio acadêmico carregaram o maior custo medido.
+- **Estudantes de primeira geração: a primeira estimativa de efeito, e ela aponta para o lado errado.** O [[rct|ensaio randomizado]] de [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] de um [[intelligent-tutoring|tutor de IA]] integrado à disciplina fornece o que falta à entrada acima — um diferencial medido em vez de um padrão de uso. Na amostra completa, o efeito do acesso ao tutor sobre as notas finais foi 2,87 pontos (0,28 DPs) mais negativo para estudantes de primeira geração, implicando −5,10 pontos (−0,50 DPs) para eles contra −2,23 pontos (−0,22 DPs) para seus pares; o diferencial foi maior na amostra de emparelhamento exato (−3,89 pontos, −0,35 DPs), e estudantes de primeira geração também perderam mais pontos de lição de casa e visualizações de página na plataforma. O estudo não relata mecanismo e sua precisão varia por resultado, mas a direção é oposta à história de redução da lacuna: os estudantes com menos acesso prévio a [[student-support-and-success|apoio acadêmico]] carregaram o maior custo medido.
 - **Estudantes internacionais:** um estudo [[mixed-methods-research|de métodos mistos]] (levantamento n = 60, entrevistas n = 14) sobre [[international-students-conversational-ai-adaptation|apoio à adaptação intercultural]].
 - **Estudantes internacionais: um padrão de engajamento medido, não uma estimativa de efeito.** Ao longo de 270 estudantes internacionais de minorias étnicas em sete [[business-education|escolas de negócios]] do Reino Unido, o uso relatado de [[generative-ai]] associou-se positivamente às quatro vertes de [[student-engagement|engajamento]] — mais fortemente ao engajamento agêntico (β = 0,429) —, com as condições facilitadoras (β = 0,369) como o preditor mais forte da intenção de uso ([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]).
 - **Estudantes superdotados e de alto desempenho:** efetivamente não estudados como grupo neste corpus.
 - **Estudantes refugiados, imigrantes e deslocados:** nenhum estudo.
 - **Gênero ainda é analisado como binário** na maior parte do trabalho acima, e as categorias de deficiência variam entre estudos, de modo que a comparação entre estudos do "mesmo" grupo tem limites.
+
+- **"O contexto do estudante torna um corretor mais justo."** Uma ablação em **3.000** redações corrigidas por dois modelos constatou que a lacuna entre rótulo alto e baixo era a mesma para todos os grupos que podia testar, com toda diferença dentro de **0,045** de um nível. No Qwen, o rótulo baixo ainda tirou **0,06 a 0,08 pontos** a mais de estudantes de inglês, economicamente desfavorecidos e identificados com deficiência do que de seus pares. Sem rótulo, ambos os modelos ainda deram nota inferior aos dois últimos grupos com a mesma nota humana. [[porcaro-ai-grader-reliability-2026|Um registro que pode estar errado desloca notas, e desloca com mais força quem já é subestimado]].
+
 
 ## Usando esta evidência sem sobrequadrar um rótulo de grupo
 
@@ -128,6 +137,9 @@ O achado honesto deste levantamento é quão finos são alguns grupos. Cada um d
 - **Prefira desenhos que igualam onde a evidência permite.** O resultado de segmentação de vídeo para TDAH — todos melhoram, a lacuna fecha — é uma meta mais adequada para uma turma geral do que um complemento dirigido a um grupo.
 - **Tenha cuidado com a personalização que consome atributos demográficos.** O achado das [[marked-pedagogies-linguistic-bias-writing-feedback|pedagogias marcadas]] é diretamente sobre esse mecanismo, e se aplica a check-ins de [[well-being|bem-estar]], [[affective-computing|tutores afetivos]] e [[recommender-systems-and-learning-paths|sistemas de recomendação]] que fazem perfil de quem aprende.
 - **Teste localmente, sobre o grupo de que você cuida, com um resultado medido sem a ferramenta.** Ver [[interpreting-and-applying-aied-research|Interpretar e aplicar a pesquisa em AIEd]] para os hábitos de avaliação crítica e [[research-methods-aied|Métodos de pesquisa em IA em educação]] para os desenhos que tornam um teste local defensável.
+
+- **A variável de agrupamento com a evidência de processo mais direta é baseada em conhecimento, não demográfica.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] emparelharam grupos por [[prior-knowledge|conhecimento prévio]] (U = 293,50, p = 0,515) e ainda assim constataram que a forma como os estudantes raciocinam moldou o que aconteceu. Oito grupos com preconcepções diferentes e seis com preconcepções semelhantes fizeram os mesmos tipos de perguntas, mas a IA serviu como hub de integração nos grupos diversos e ficou em um caminho linear nos semelhantes, com avaliação sustentada oposta. Isso repousa em catorze grupos em uma única tarefa de 60 minutos, então trate como hipótese sobre como compor grupos, e não como regra.
+
 
 ## Ideias equivocadas comuns
 
@@ -181,3 +193,6 @@ O achado honesto deste levantamento é quão finos são alguns grupos. Cada um d
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: avaliando intervenções de justiça pós-hoc em sistemas de alerta precoce controlados por fornecedor
 - [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — O ChatGPT beneficiou estudantes de STEM e de outras áreas de forma desigual na aprendizagem interdisciplinar
 - [[bjet-genai-engagement-minority-ethnic-students-2026]] — Uso de GenAI e engajamento de quatro vertentes entre estudantes internacionais de minorias étnicas
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Uma variável de agrupamento baseada em conhecimento com evidência direta de processo: grupos emparelhados por conhecimento prévio, mas diferindo na diversidade de preconcepções, adotaram a mesma IA de formas diferentes (Wang et al. 2026)
+- [[porcaro-ai-grading-benchmark-2026]] — Além da concordância: 22 corretores com prompting enfrentam sondas cuja resposta certa é conhecida, e a maioria deles pode ser convencida a subir a nota (Porcaro 2026)
+- [[porcaro-ai-grader-reliability-2026]] — O contexto do estudante muda as notas de um corretor com LLM sobre o mesmo trabalho, e a concordância com o professor não registra isso (Porcaro 2026, Paper VI)

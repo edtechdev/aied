@@ -1,7 +1,7 @@
 ---
 title: "ECA (ensaio controlado aleatorizado)"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:22:11-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -53,7 +53,7 @@ A randomização é o que distingue um RCT de outros designs: ao atribuir aleato
 - **Escala que converte nulos em evidência.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] acompanharam 8.708 estudantes ao longo de oito semestres com poder para detectar efeitos de 0,05 DP e descobriram movimentos grandes e imediatos em tarefas binárias datadas — 34 pontos percentuais a mais de registro até 16 de agosto após um único lembrete —, enquanto desempenho acadêmico, persistência e graduação não mostraram efeito detectável. A escala é a lição de design: com esse N, os nulos acadêmicos são resultados precisos, e não falhas de detecção, o que é o que licencia a conclusão de que uma ferramenta de comunicação move o que ela pode abordar, e não resultados cumulativos de aprendizagem.
 - **Uma média nula pode mascarar heterogeneidade com sinais opostos.** Um RCT pré-registrado que randomizou 538 professores em 24 escolas turcas no nível de departamento escolar descobriu que o desempenho caiu 0,129 DP entre professores abaixo da mediana, enquanto subiu 0,054 entre os acima da mediana, e a motivação caiu 0,111 DP, com um exame comprimido por efeito teto (média de controle 89,2/100) limitando o poder. ([[genai-can-harm-teaching-rct-2026|Sungu, Lira & Duckworth (2026)]]))
 - **A pré-registro que fixa a questão e o efeito detectável.** [[chatbot-outreach-course-performance-2026|Meyer et al. (2026)]] registraram ambos os ensaios de curso no Registry of Efficacy and Effectiveness Studies, comprometendo-se de antemão com a estimação por intenção-de-tratar e um tamanho de efeito mínimo detectável de cerca de 0,157, e randomizaram estudantes consentidos a cada período com uma segunda onda no add/drop, de modo que os que se matricularam tarde entravam no design em vez de na amostra de análise padrão. Agrupando 2.483 estudantes em dois cursos, o efeito fica no limiar de A/B (quatro pontos percentuais), enquanto a mudança agregada na nota numérica não sobrevive à correção de comparações múltiplas — um lembrete de que um resultado primário registrado disciplina qual de vários resultados correlacionados é acreditado.
-- **Randomizar dentro de turmas intactas, com uma linha de base pré-tratamento.** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni & Fryer (2026)]] randomizaram 454 graduandos dentro de três turmas intactas de marketing após o drop/add e mediram todos os quatro resultados em T1, antes que qualquer estudante tivesse acesso ao chatbot, de modo que a comparação do semestre repousa sobre uma linha de base medida, e não sobre uma assumida. O resultado plano (nenhuma interação grupo × tempo alcançou significância; o maior efeito relatado foi d = 0,050, sobre interesse) é relatado junto com a adoção — 0,89 logins por semana contra um atribuído uma vez por semana —, o que evita que um nulo sobre um tratamento fracamente usado seja lido como um nulo sobre a ferramenta.
+- **Randomizar dentro de turmas intactas, com uma linha de base pré-tratamento.** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni & Fryer (2026)]] randomizaram 454 graduandos dentro de três turmas intactas de marketing após o drop/add e mediram todos os quatro resultados em T1, antes que qualquer estudante tivesse acesso ao [[conversational-ai|chatbot]], de modo que a comparação do semestre repousa sobre uma linha de base medida, e não sobre uma assumida. O resultado plano (nenhuma interação grupo × tempo alcançou significância; o maior efeito relatado foi d = 0,050, sobre interesse) é relatado junto com a adoção — 0,89 logins por semana contra um atribuído uma vez por semana —, o que evita que um nulo sobre um tratamento fracamente usado seja lido como um nulo sobre a ferramenta.
 - **Crossover dentro do sujeito, e um controle posto na melhor prática.** [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] fizeram cada um dos 194 estudantes de ciências da vida de Harvard trabalhar em duas aulas de física — uma em uma sessão de [[active-learning|aprendizado ativo]] em sala de aula e outra com o próprio tutor de IA do curso, em ordem contrabalançada com pré e pós-testes em torno de cada uma —, de modo que cada estudante serve como seu próprio controle, e a comparação dos *modos de entrega* não é confundida por quem foi atribuído a qual. A segunda escolha do design importa tanto: o comparador foi o aprendizado ativo baseado em pesquisa, e não uma aula, de modo que a vantagem (mediana de pós-teste 4,5 vs. 3,5) é medida contra a melhor prática atual e não pode ser lida como "a IA supera o ensino".
 
 ### Forças e limitações

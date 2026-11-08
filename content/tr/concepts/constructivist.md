@@ -8,7 +8,7 @@ pedagogy: [active-learning, collaborative-learning, experiential-learning, learn
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-26T10:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,9 @@ Ampirik çalışmalar yinelenen biçimde, ileri sürülen yapılandırmacı hede
 Bu örüntü alan boyunca genelleşir:
 
 - Üretken yapay zeka öğrenciler adına yazıyı, akıl yürütmeyi ya da kodu tamamladığında, öğrenci görevin inşa etmek üzere tasarlandığı yapılandırmacı düşünce sürecini kaybeder — [[cognitive-offloading]] ile [[cognitive-offloading|Aşırı Bağımlılık]] merkezinde olan kaygı.([[generative-refusal-ai-tools-for-thought]])
+
+- Kayıp artık ölçülebilirdir ve araçtan çok işin peşinden gider. 26.811 Çinli ortaöğretim öğrencisinde üretken YZ ev ödevi puanlarını %18 artırıp tamamlama süresini %30 kısalttı, ancak altı ay içinde [[summative-assessment|kapalı kitap sınav]] puanları %20 düştü. Düşüş, tamamlama süreleri ev ödevi dışsallaştırmasına işaret eden yaklaşık %81’lik kullanıcı kesiminde yoğunlaştı; ev ödevi süresini kullanmayanlarla karşılaştırılabilir tutan kullanıcılar ise aynı verimlilikle öğrendi ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei ve Wu (2026)]]). Öğrenmeyi yordayan değişken YZ kullanımı değil, öğrenenin inşayı hâlâ kendisinin yapıp yapmadığıydı.
+
 - Uyarlanabilir geri bildirim ve verimliliği öne çıkaran yapay zeka uygulamaları, yapılandırmacılığın ima ettiği öğrenen etkenliği, eleştirel yansıtma ve özerk karar hedeflerine sıklıkla yetersiz hizmet eder.([[ai-vocational-education-training-review]])
 
 ### İsim tuzağı: üretken yapay zeka çıktısı üretken öğrenme değildir
@@ -162,3 +165,6 @@ Yapılandırmacılık, YZ okuryazarlığının kendisinin nasıl öğretildiğin
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 
 - [[synthetic-position-self-authorship-2026]] — Simulated AI counter-positions rehearse dialogue's form but withhold the resistance that compels revision
+
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Öğrenme cezası: ev ödevi puanları %18 yukarı, kapalı kitap sınavları %20 aşağı, en çok ev ödevini dışsallaştıranlarda
+

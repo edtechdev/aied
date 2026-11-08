@@ -9,7 +9,7 @@ level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-10-28T18:53:18-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 ## Maswali ya Kutafakari
 
 - Ukurasa unatofautisha njia mbili: "AI kwa uendelevu" (kutumia AI kusogeza matokeo ya uendelevu) na "AI endelevu" (kupunguza athari za mazingira na maadili za AI yenyewe). Je, unaweza kufikiria jinsi zana ya AI inaweza kusogeza lengo moja huku ikidhoofisha jingine?
-- Mafunzo na uendeshaji wa mifano mikubwa ya lugha hubeba alama ya kweli ya kaboni na maji. Wakati taasisi inakuza uendelevu kama thamani huku ikitekeleza AI inayotumia nishati nyingi, mivutano gani inajitokeza — na ni nani anapaswa kuipima?
+- Mafunzo na uendeshaji wa [[llm|mifano mikubwa ya lugha]] hubeba alama ya kweli ya kaboni na maji. Wakati taasisi inakuza uendelevu kama thamani huku ikitekeleza AI inayotumia nishati nyingi, mivutano gani inajitokeza — na ni nani anapaswa kuipima?
 - Kabla ya kusoma zaidi, ungeelezaje "elimu endelevu" vipi? Ukurasa unaihudumia kama mradi unaozingatia thamani na binadamu, tofauti na kutumia elimu kama chombo cha uendelevu — haya yanatofautianaje?
 - Ikiwa elimu inatarajiwa kujenga "fahamu ya uendelevu ya wanafunzi", AI inaweza kuwa na jukumu gani katika hilo — na je, uunganishaji wa AI katika mtaala unaweza kufundisha uendelevu wakati alama yake yenyewe inakanusha kimya somo?
 - Inge maanisha nini kwa taasisi ya kieledu kuwa endelevu kweli katika matumizi yake ya AI, na ni maamuzi yapi yake (ununuzi, utekelezaji, kufundisha) unafikiri ni muhimu zaidi?
@@ -35,7 +35,7 @@ ai_assist:
 
 Uendelevu katika AIED unahusisha mifumo mitatu inayojirudia: **elimu endelevu** (mradi wa kieledu unaozingatia thamani na binadamu), **uendelevu katika elimu** (kutumia elimu kama chombo cha uendelevu), na **elimu kwa maendeleo endelevu** (ESD, mpango wa sera ya kimataifa, hasa [[k-12|Lengo la Maendeleo Endelevu 4]]). AI inaingia katika kila moja ya hizi kwa njia tofauti — na uwanja unatofautisha njia mbili kuu: **AI kwa uendelevu** (AI kama zana ya kufikia matokeo ya uendelevu) na **AI endelevu** (kupunguza athari za mazingira na maadili za AI yenyewe).
 
-Njia ya mazingira ina pengo lililoandikwa: [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] wanaripoti kwamba athari za kimazingira za genAI hazikujadiliwa katika nyaraka za sera za chuo kikuu katika eneo la utafiti, na wanadai kwamba mwongozo wa kitaasisi unaoziacha bila kuzungumziwa unashindwa kushughulikia wasiwasi ambao walimu na wanafunzi wanayo.
+Njia ya mazingira ina pengo lililoandikwa: [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] wanaripoti kwamba athari za kimazingira za [[generative-ai|genAI]] hazikujadiliwa katika nyaraka za sera za chuo kikuu katika eneo la utafiti, na wanadai kwamba mwongozo wa kitaasisi unaoziacha bila kuzungumziwa unashindwa kushughulikia wasiwasi ambao walimu na wanafunzi wanayo.
 
 ## Taksonomia ya sehemu mbili
 
@@ -46,7 +46,7 @@ Ushiriki wa hifadhi hii ya maarifa, unaoegemezwa na [[daniel-ai-sustainability-s
 
 ## Kutumia AI kwa uendelevu katika elimu
 
-Mwili unaokua wa kazi unachukua AI kama zana *kwa* elimu na matokeo ya uendelevu:
+Mwili unaokua wa kazi unachukua AI kama zana *kwa* [[environmental-education|elimu]] na matokeo ya uendelevu:
 
 - **Mitaala iliyounganishwa na AI inayojenga fahamu ya uendelevu.** [[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]] wanapendekeza mfumo wa AI-SEE (inayoongozwa na akili, inayowezeshwa na kijani, inayoongoza uwajibikisho, iliyounganishwa na mazoezi), ambao unajumuisha AI katika [[curriculum-design|mtaala]] kama [[scaffolding|ngazi za msaada]] za kiakili na rasilimali kwa uchanganuzi wa uendelevu wa kiwango cha mfumo. Katika kesi ya uhandisi ya wanafunzi 144, iliboresha fahamu ya uendelevu na ilizalisha [[student-engagement|ushiriki]] wa tabia katika viwango vya kibinafsi, kitaaluma, kitaalamu, na kijamii, na usambazaji wa kijamii zaidi ya darasa.
 - **AI katika elimu ya kijani na endelevu.** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] aligundua kwamba ubuni wa [[learning-design|mafunzo]] unaosaidiwa na AI chini ya vizingiti vya Pedagogia ya Maendeleo Endelevu uliboresha mtiririko wa kazi wa mwalimu na ubuni wa [[pedagogy|kieledu]]. [[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]] waligundua kwamba matumizi ya vitendo ya walimu ya AI katika sayansi/nishati ya kijani na ushiriki wao katika kuendeleza nyenzo zilizolingana na ESD — zaidi ya maarifa ya AI ya dhuluma au mitazamo — yalitabiri uwezo wao wa kujumuisha AI katika [[k-12|elimu ya nishati ya kijani]].

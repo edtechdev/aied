@@ -10,7 +10,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -81,7 +81,7 @@ Utafiti wa [[educational-development]] unachunguza jinsi waelimishaji wanavyopit
 
 ## Mabadiliko kwa waelimishaji wa elimu ya juu
 
-- **Acha kuchukua marufuku ya ndani ya chumba kama uhakikisho.** Miwani mahiri na vifaa vya kusikia vinavyowezeshwa na AI ni vya uwazi mara mbili, hakuna kushuka kwa macho au kubadilika kwa mkao wa kutambua, hivyo mtihani wenye uangalizi au wa mdomo hauwezi tena kununua uhakika wa kiushahidi kwa kutenganisha kimwili ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
+- **Acha kuchukua marufuku ya ndani ya chumba kama uhakikisho.** Miwani mahiri na vifaa vya kusikia vinavyowezeshwa na AI ni vya uwazi mara mbili, hakuna [[sensor-and-gaze-analytics|kushuka kwa macho]] au kubadilika kwa mkao wa kutambua, hivyo mtihani wenye uangalizi au wa mdomo hauwezi tena kununua uhakika wa kiushahidi kwa kutenganisha kimwili ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 - **Fadhili ujuzi wa AI, si ujasiri wa zana tu, kwa waelimishaji.** [[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]] waligundua kuwa msaada wa kijamii na wa kitaasisi ulifikia ustawi wa AI wa waelimishaji wa chuo kikuu kwa njia isiyo ya moja kwa moja tu, kupitia ujuzi wa AI (β = 0.713), hivyo programu zinazojenga uelewa wa kimawazo, wa maadili na wa kielimu hufanya zaidi kwa waelimishaji kuliko ufasaha wa vitendo peke yake.
 - **Andika mwongozo mahususi wa mbinu, si sera moja ya kampasi nzima kuhusu AI.** Katika mahojiano na walimu 25 wa lugha wa chuo kikuu, somo lilibaini mivutano 20 ya maadili, minne kwa kila mbinu ya mtandaoni, iliyowekwa katika makundi ya uhalisi wa kujifunza (11), changamoto ya mamlaka (4) na mienendo ya ushirikiano (5), na linaeleza kuwa sera ya jumla isiyojali mbinu haiwezi kushughulikia shinikizo tofauti ambazo kila mbinu ya mtandaoni huweka kwa uadilifu na [[collaborative-learning|ushirikiano]] ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi na Khan (2026)]]).
 

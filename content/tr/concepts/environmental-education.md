@@ -10,7 +10,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Bilgi tabanının en ince olduğu yer bu yarısıdır. AIED 2025 bildiri metinle
 
 Öğrenen tarafında, canlı LLM kullanımı sırasında gecikme–karbon ödünleşimini gösteren bir eko-geri bildirim arayüzü, bir bilgisayar etiği dersindeki 89 bilgisayar bilimi lisans öğrencisiyle çalışıldı: öğrenciler düşük gecikmeli etkileşimlerin yaklaşık %45’inde daha düşük karbonlu modu seçti, ancak yüksek gecikmede %5’in altında kaldı; sürdürülebilirlik bilinci bu seçimi belirgin biçimde artırdı. Örneklem küçük ve olağandışı teknik bilgilendirmeye sahip, fakat ayak izi bilgisinin öğrenenleri hareket ettirdiğine dair bilgi tabanındaki tek doğrudan kanıt — ve bağlayıcı kısıtlamanın değerler değil sabır olduğunu düşündürüyor.([[llm-environmental-impact-student-usage-2026]])
 
-Azaltım kanıtı, açık lisanslı içerikle çalışan, tek bir tüketici sınıfı GPU (12 GB VRAM) üzerinde çalışan yerinde bir [[cs-education|CS]] bilgi tabanı asistanından geliyor: sorgu başına en iyi durumda 1.8 mWh — her biri on sorgu gönderen 30 öğrencilik bir sınıf için yaklaşık 0.54 Wh — niceleme farkında ince ayar, hem doğruluk kaybını hem de yalnızca sıkıştırmanın neden olduğu [[hallucination-risk|halüsinasyon]] artışını sınırlandırıyor. Bu bir mühendislik kıyaslaması, öğrenme çalışması değil, ancak ayak izi sorusunun yalnızca kullanım disiplini kolları değil, tasarım kolları (temellendirme, niceleme, dağıtım yeri) olduğunu gösteriyor.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
+Azaltım kanıtı, açık lisanslı içerikle çalışan, tek bir tüketici sınıfı GPU (12 GB VRAM) üzerinde çalışan yerinde bir [[cs-education|CS]] bilgi tabanı asistanından geliyor: sorgu başına en iyi durumda 1.8 mWh — her biri on sorgu gönderen 30 öğrencilik bir sınıf için yaklaşık 0.54 Wh — niceleme farkında [[llm-training-and-fine-tuning|ince ayar]], hem doğruluk kaybını hem de yalnızca sıkıştırmanın neden olduğu [[hallucination-risk|halüsinasyon]] artışını sınırlandırıyor. Bu bir mühendislik kıyaslaması, öğrenme çalışması değil, ancak ayak izi sorusunun yalnızca kullanım disiplini kolları değil, tasarım kolları (temellendirme, niceleme, dağıtım yeri) olduğunu gösteriyor.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
 
 ## Yeşil beceriler, sürdürülebilirlik bilinci ve öğretmen kapasitesi
 

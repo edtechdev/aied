@@ -7,9 +7,9 @@ discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 connected_resources: [teacher-dev]
-updated: "2026-11-04T02:20:32-05:00"
+updated: "2026-11-08T14:01:53-05:00"
 translation_of: "concepts/science-education"
-source_updated: "2026-10-28T19:28:52-04:00"
+source_updated: "2026-11-04T17:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -66,7 +66,11 @@ Penilaian jawaban oleh AI maju cepat pada pekerjaan berisiko tinggi. [[ai-gradin
 
 Kesiapan guru menentukan. [[pre-service-science-teachers-ai-perceptions-2026|Amponsah dkk.]] menemukan guru sains prajabatan Ghana bersikap positif dan berniat kuat terhadap AI tetapi hanya moderat dalam pemakaian kelas aktual — jurang niat–penggunaan yang menunjuk [[teacher-ai-competency]] dan dukungan [[governance|kelembagaan]] sebagai tuas sesungguhnya. [[becker-chatgpt-typology-physics-2026|Becker dkk.]] dan [[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]] mendokumentasikan mahasiswa fisika sebagai skeptis yang terkalibrasi domain, bukan pengadopsi tanpa kritik: jurang kepercayaan–kegunaan 50 poin (91% menggunakan, 41% mempercayai) dan dua profil pengguna berbeda (Pengguna Pragmatis vs. Bukan-Pengguna Skeptis) yang menantang kebijakan seragam. Mengimbangi teknosentrisme, [[avraamidou-ai-colonization-science-education|Avraamidou]] memperingatkan "kolonisasi AI" atas pendidikan sains — ekstraksi tanpa persetujuan, monokultur algoritmik, dan reformasi tak manusiawi yang berpusat laba — dan menyerukan AI feminis berpusat manusia yang memprioritaskan keadilan di atas laba, sementara tinjauan sistematis [[ai-science-chemistry-education-systematic-review-2025|Erümit & Özdemir Sarıalioğlu]] atas 18 studi menekankan risiko [[ethics|etis]] (bias, halusinasi, [[academic-integrity|plagiarisme]], erosi pemikiran mandiri) dan perlunya [[teacher-education|pelatihan guru]] serta penggunaan sadar. Pelajaran kolektif ketiga belas artikel: AI dalam pendidikan sains memberi perolehan bila tertanam dalam inkuiri sehat, [[scaffolding]], dan desain [[assessment|asesmen]] — dan melemahkan pembelajaran ketika menggantikan kerja epistemik yang harus dikerjakan siswa sendiri.
 
-[[llm-benchmark-secondary-science-topics-2026|Schroeder dkk. (2026)]] bertanya seberapa baik model umum menangani konten sains itu sendiri: pada set butir selaras NGSS untuk sekolah menengah pertama (1,078 butir) dan menengah atas (1,150 butir), sembilan model berbobot terbuka sebagian besar melampaui 90%, dengan ukuran model tak terkait akurasi, dan seorang guru sains menilai 236 dari 240 butir sampel (98.3%) selaras sambil menandai ketiadaan diagram, interpretasi data, dan representasi matematis — butir hanya-teks tak dapat melatih semua ekspektasi kinerja NGSS. Kesulitan butir yang tinggi dan daya beda rendah menyisakan pertanyaan apakah butirnya perlu diperbaiki atau sains menengah sudah terkelola bagi kelas model ini, dan para penulis menyebut umpan balik multitahap berbasis bukti sebagai standar yang hilang.
+
+**Kenyamanan AI yang umum tidak berpindah ke alat disiplin itu sendiri.** Di antara 100 mahasiswa geografi di satu universitas Kazakhstan, kesiapan mengajar dengan AI dan GIS mengikuti keakraban GIS (ρ = 0.508) dan pengetahuan GeoAI (ρ = 0.425) tetapi bukan keakraban AI umum (ρ = 0.071, p = 0.485) — pelajaran bagi [[teacher-education|persiapan guru]] di disiplin apa pun yang berbentuk alat ([[laiskhanov-ai-gis-geography-education-2026|Laiskhanov dkk. (2026)]]). Enam puluh tujuh persen menyebut diri mereka siap dalam beberapa bentuk, namun hanya 6% yang pernah menggunakan kombinasi itu dalam praktik dan 43% menilai instruksi yang tersedia memadai. Evaluasinya bersifat [[self-report-measures|laporan diri]] dan belum tervalidasi, sehingga ia menggambarkan apa yang dikatakan para mahasiswa tentang diri mereka sendiri.
+
+
+[[llm-benchmark-secondary-science-topics-2026|Schroeder dkk. (2026)]] bertanya seberapa baik model umum menangani konten sains itu sendiri: pada set butir selaras NGSS untuk sekolah menengah pertama (1,078 butir) dan menengah atas (1,150 butir), sembilan model berbobot terbuka sebagian besar melampaui 90%, dengan ukuran model tak terkait akurasi. Seorang guru sains menilai 236 dari 240 butir sampel (98.3%) selaras sambil menandai ketiadaan diagram, interpretasi data, dan representasi matematis — butir hanya-teks tak dapat melatih semua ekspektasi kinerja NGSS. [[item-response-theory|Kesulitan butir]] yang tinggi dan daya beda rendah menyisakan pertanyaan apakah butirnya perlu diperbaiki atau sains menengah sudah terkelola bagi kelas model ini, dan para penulis menyebut umpan balik multitahap berbasis bukti sebagai standar yang hilang.
 
 Dalam meta-analisis 42 studi tentang GenAI dan motivasi, efek domain mata pelajaran terkecil ada pada sains (g = 0.109, 95% CI [−0.107, 0.325], k = 3), satu-satunya domain yang intervalnya melintasi nol, sehingga bukti terkumpul tak mendukung argumen [[motivation|motivasional]] bagi GenAI khususnya dalam sains ([[genai-learning-motivation-meta-analysis-2026|Fang dkk. (2026)]]).
 
@@ -110,3 +114,6 @@ Sebagai kerangka alih-alih studi, [[zhai-science-literacy-generative-ai-coherenc
 - [[nature-of-science-generative-ai-2026]] — Hakikat sains di era kecerdasan buatan generatif: otoritas epistemik, materialitas, dan respons sinergis
 - [[ai-university-physics-education-review-2026]] — Akses tim yang terstruktur mengungguli akses individu tanpa batas dalam tinjauan AI fisika universitas
 - [[genai-learning-motivation-meta-analysis-2026]] — Satu-satunya domain yang interval motivasionalnya melintasi nol (g = 0.109, k = 3)
+
+- [[laiskhanov-ai-gis-geography-education-2026]] — Kenyamanan AI umum tidak berpindah ke kesiapan GeoAI
+

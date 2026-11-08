@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -51,7 +51,7 @@ ai_assist:
 
 [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] konuşmadan değil materyallerden başlar: bir görsel-dil modeli, hedefin nesnelerde görünür olması için tasarlanmış Shoebox Tasks fotoğraflarını okur ve bunları bir Nao insansı robotunun yürüttüğü ya da gösterdiği bir plana dönüştürür; altı görev boyunca plan doğruluğu bildirilir ve hiçbir öğrenen verisi kullanılmaz.
 
-- **Zorlayıcı davranış, öğretmen kıyaslamalarının durduğu yerdir.** Özel eğitim ve eğitim psikolojisi literatüründen derlenen 923 vakaya dayalı diyalogda 11 modelin en iyisi, açık uçlu vakaların %55,8’inde ve uzun vadeli planların %43,3’ünde belgelenmiş bir müdahaleyi karşılamıştır ([[tutor-case-bench-challenging-behaviors-2026|Park ve ark. (2026)]]).
+- **Zorlayıcı davranış, öğretmen [[benchmark|kıyaslamalarının]] durduğu yerdir.** Özel eğitim ve eğitim psikolojisi literatüründen derlenen 923 vakaya dayalı diyalogda 11 modelin en iyisi, açık uçlu vakaların %55,8’inde ve uzun vadeli planların %43,3’ünde belgelenmiş bir müdahaleyi karşılamıştır ([[tutor-case-bench-challenging-behaviors-2026|Park ve ark. (2026)]]).
 
 ## Özel eğitim öğretim elemanları için çıkarımlar
 
@@ -64,9 +64,9 @@ ai_assist:
 
 ## Yaygın yanlış anlamalar
 
-- **“Kullanılabilirlik derecelendirmeleri bir yardımcı aracı doğrular.”** Uygulayıcılar ortak tasarlanmış bir Sosyal Hikâye aracını **yüksek kullanılabilirlikte (SUS 86,8)** derecelendirmiş, yine de **görsellerini genel olarak Batılı** ve **davranış izleyicisini hedefe bağlı klinik yargıyla uyumsuz** bulmuştur. Yüksek kullanılabilirlik esaslı başarısızlıklarla bir arada bulunmuştur; dolayısıyla bir SUS puanı uygunluğun onayı değildir.
+- **“[[usability-research|Kullanılabilirlik]] derecelendirmeleri bir yardımcı aracı doğrular.”** Uygulayıcılar, birlikte tasarladıkları bir Sosyal Hikâye aracına kullanılabilirlik testini geçmiş (SUS 86,8) derken hazır Batılı görsellerini ve hedefe bağlı klinik yargıyı ıskalayan davranış izleyicisini kusurlu bulmuştur. Yüksek kullanılabilirlik, esaslı başarısızlıklarla bir arada bulunmuştur; dolayısıyla bir SUS puanı uygunluğun onayı değildir.
 
-- **“Genel kıyaslamalar bir öğretmenin özel eğitim vakalarını nasıl ele aldığını söyler.”** Özel eğitim ve eğitim psikolojisi literatüründen derlenen **923 vakaya dayalı diyalogda 11 modelin en iyisi** belgelenmiş bir ölçütü karşılamıştır ve **zorlayıcı davranış, öğretmen kıyaslamalarının durduğu yerdir**. Standart değerlendirmeler, uygulayıcıların en çok yardıma ihtiyaç duyduğu vakalara ulaşmaz.
+- **“Genel kıyaslamalar bir öğretmenin özel eğitim vakalarını nasıl ele aldığını söyler.”** Özel eğitim ve eğitim psikolojisi literatüründen derlenen **923 vakaya dayalı diyalogda 11 modelin en iyisi** belgelenmiş bir ölçütü karşılamıştır ve **bir öğretmen kıyaslamasının kapsadığının sınırı budur**. Standart değerlendirmeler, uygulayıcıların en çok yardıma ihtiyaç duyduğu vakalara ulaşmaz.
 
 - **“Nöroçeşitli öğrenenler uyarlamalara ihtiyaç duyar, tasarım gerekliliklerine değil.”** [[neurodivergent-computing-students|Zastudil ve ark.]], nöroçeşitli bilişim öğrencilerinin **yapılandırılmış ödevlere, küçük ve tutarlı takımlara ve açık rol tanımlarına** ihtiyaç duyduğunu bulmuştur; bunlar herkese yarar sağlayan genel tasarım gereklilikleridir, tanı sonrası verilen bireysel uyarlamalar değil.
 

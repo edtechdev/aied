@@ -8,7 +8,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 - Biyoloji öğrenenlerden kendine özgü şeyler ister — özel terminoloji, görsel-uzamsal ve sistem düşüncesi, uygulamalı laboratuvar çalışması. Okumadan önce: bu özelliklerin biyolojide YZ’nin gerçekten neye yardımcı olabileceğini ve neyi baltalayabileceğini nasıl değiştirdiğini düşünüyorsunuz?
 - Bir sanal laboratuvar öğretmen asistanı çalışmasında insan asistanların ChatGPT’den daha doğru ve etkili olduğu bulunurken, öğrenciler yine de YZ yanıtını yüzde 40 oranında tercih etti ve YZ çıktısını yalnızca yüzde 45 oranında saptayabildi. Öğrenciler neden daha az doğru bir YZ yanıtını tercih edebilir — ve bu, laboratuvar öğretiminde gereken “güvenlik ağı” hakkında ne söyler?
 - YZ biyoloji araştırmasını (AlphaFold, hesaplamalı biyoloji) kökten değiştirirken, biyoloji eğitimindeki benimsemesi kopya çekme ve eleştirel düşüncenin aşınmasına ilişkin kaygılar arasında temkinli olmuştur. Bilimsel keşfi güçlendiren aynı araçlar neden sınıfta bu kadar temkinle karşılanıyor?
-- Bir çalışma, makine öğrenmesi kavramlarını bir lise biyoloji dersine yerleştirdi ve biyoloji bağlamının YZ öğrenmesini fiilen desteklediğini buldu — bu, YZ okuryazarlığını müfredata gömmek yerine bir ek olarak bırakmanın karşısında kanıttır. Bir biyoloji dersinde YZ kavramları doğal olarak nerede ortaya çıkar?
+- Bir çalışma, [[machine-learning|makine öğrenmesi]] kavramlarını bir lise biyoloji dersine yerleştirdi ve biyoloji bağlamının YZ öğrenmesini fiilen desteklediğini buldu — bu, YZ okuryazarlığını bir ek olarak bırakmak yerine [[curriculum-design|müfredata]] gömmek lehine kanıttır. Bir biyoloji dersinde YZ kavramları doğal olarak nerede ortaya çıkar?
 - Araştırmacılar, YZ biyolojik araştırmayı yeniden şekillendirdikçe eleştirel düşüncenin — kuşkuculuk, bağlamsal anlayış, etik muhakeme — insan gözetimiyle bilinçli olarak yetiştirilmesi gerektiğini savunur. YZ artık türleri tanıyabiliyor, görüntüleri yorumlayabiliyor ve sonuçları öngörebiliyorsa, öğrencilerin kendilerinin yapmayı öğrenmesi gereken hangi zihinsel iş kalıyor?
 
 ## Giriş
@@ -44,11 +44,11 @@ YZ konusundaki biyoloji eğitimi araştırması bir gerginlik çevresinde kümel
 
 **Öğretmen yetiştirmede Sokratik YZ argümantasyon uygulaması.** 124 aday biyoloji öğretmeniyle yürütülen bir yarı-deneysel çalışmada, sosyo-bilimsel konularda ChatGPT-4 tabanlı bir [[socratic-method|Sokratik öğretmen]]in, çevrimdışı akran tartışmasına kıyasla argümantasyon kalitesini yükselttiği bulundu (düzeltilmiş 3,91’e karşı 3,21, F(1,121) = 14,23, p < .001); kazanımlar çürütme ve karşı kanıt becerilerinde en yüksek oldu ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva vd., 2026]]).
 
-**Özel YZ araçları ve daha geniş derleme.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]]**, biyolojik eğitimdeki YZ araçlarının tam manzarasını gözden geçirir; tür tanıma için **iNaturalist ve Google Lens**, biyogörüntüleme ve makine öğrenmesi araçları, yardımcı teknolojiler ve risk altındaki öğrencilerin öngörüsel modellenmesi — üretici YZ’nin dürüstlük, değerlendirme tasarımı, yanlış bilgilendirme ve eleştirel düşünme sorunlarıyla birlikte.
+**Özel YZ araçları ve daha geniş derleme.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]]**, biyolojik eğitimdeki YZ araçlarının tam manzarasını gözden geçirir; tür tanıma için **iNaturalist ve Google Lens**, biyogörüntüleme ve makine öğrenmesi araçları, yardımcı teknolojiler ve risk altındaki öğrencilerin öngörüsel modellenmesi — [[generative-ai|üretici YZ’nin]] dürüstlük, değerlendirme tasarımı, yanlış bilgilendirme ve eleştirel düşünme sorunlarıyla birlikte.
 
 **Notun ne kadarı aslında maruz kalıyor.** Bir bölümün 38 temel ders müfredatında her puanlanan kategorinin, öğretmen değerlendirmesine göre savunmasızlığa göre ağırlıklandırılması, kurs puanlarının yüzde 33’ünün yüksek maruziyette, yüzde 81’inin en azından bir ölçüde maruz kaldığını — çevrim içi olanlarda yüzde 41 ve yüzde 100 — ve yalnızca yüz yüze gözetimli sınavların asgari düzeyde savunmasız bulunduğunu ortaya koydu ([[biology-degree-integrity-genai-cheating-2026|Chan vd., 2026]]).
 
-- **LLM’ler işaretlemediklerinden daha iyi yanıtlar.** Bloom düzeylerini kapsayan 336 açık uçlu biyolojik istatistik sorusuna verilen 1.344 yanıt genelinde [[llm-open-ended-questions-biology-statistics-2026|Nguyen ve ark. (2026)]], üç modelin 20 öğrencilik bir karşılaştırma grubunun üzerinde puan aldığını, ancak tek bir LLM işaretleyicisinin deneyimli bir öğretim elemanıyla o kadar zayıf uyuştuğunu bulmuştur ki hiçbir öğrenci makul bir uyuma ulaşamamıştır.
+- **LLM’ler işaretlemediklerinden daha iyi yanıtlar.** Bloom düzeylerini kapsayan 336 açık uçlu biyolojik istatistik sorusuna verilen 1.344 yanıt genelinde [[llm-open-ended-questions-biology-statistics-2026|Nguyen ve ark. (2026)]], üç modelin 20 öğrencilik bir karşılaştırma grubunun üzerinde puan aldığını, ancak tek bir [[llm|LLM]] işaretleyicisinin deneyimli bir öğretim elemanıyla o kadar zayıf uyuştuğunu bulmuştur ki hiçbir öğrenci makul bir uyuma ulaşamamıştır.
 
 ### İlgili kavramlarla bağlantılar
 
@@ -60,7 +60,7 @@ Biyoloji eğitimi daha geniş [[stem-education]] alanı içinde yer alır ve [[c
 - **YZ okuryazarlığını biyoloji müfredatına bir ek olarak değil gömün.** [[zha-ai-literacy-biology-case-study|Zha vd.]], biyoloji bağlamının YZ öğrenmesini desteklediğini gösterir; ML/sinir ağı kavramlarını doğal olarak ortaya çıktıkları yerlerde ders çalışmasına yerleştirin.
 - **YZ çağında eleştirel düşünceyi bilinçli olarak yetiştirin.** [[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]], kuşkuculuk, bağlamsal anlayış ve etik muhakemenin açıkça öğretilmesi ve YZ çıktılarını doğrulamak ile önyargıyı önlemek için insan gözetimi gerektiğini savunur.
 - **Meydan okunmaya dayalı öğrenmeyle birlikte sorumlu kullanımı öğretin.** [[chatgpt-math-biology-challenge-based-learning-2025|MBÖ çalışmaları]], öğrencilerin aciliyeti değerli bulduğunu ama doğruluk ve beceri aşınmasını kaygılandığını bulur — akademik dürüstlük kurallarını ve YZ kullanım etiğini benimsemeyle paralel olarak güncelleyin.
-- **Özel araç manzarasını tarayın.** [[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]], öğretmenlerin saha çalışması, tür tanıma ve öğrenci desteği için konuşlandırabileceği araçları (iNaturalist, Google Lens, biyogörüntüleme, risk öngörüsü) haritalar — uydukları yerlerde genel sohbet robotları yerine amaca özel araçları seçin.
+- **Özel araç manzarasını tarayın.** [[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]], öğretmenlerin saha çalışması, tür tanıma ve [[student-support-and-success|öğrenci desteği]] için konuşlandırabileceği araçları (iNaturalist, Google Lens, biyogörüntüleme, risk öngörüsü) haritalar — uydukları yerlerde genel [[conversational-ai|sohbet robotları]] yerine amaca özel araçları seçin.
 
 ## Yaygın yanlış anlamalar
 

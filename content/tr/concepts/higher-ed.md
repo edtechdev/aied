@@ -10,7 +10,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -83,7 +83,7 @@ Bir saatlik YZ ile özel ders, 2.383 yetişkinle yürütülen 2.469 oturum boyun
 
 - **Değerlendirmeyi YZ yetisine sahip bir öğrenci kitlesi için tasarlayın.** Tespit merkezli dürüstlük yaklaşımları yerini [[authentic-assessment|özgün]] ve süreç temelli değerlendirmeye bırakıyor ([[beyond-detection-authentic-assessment-ai-2025|tespitin ötesinde]], [[ai-assessment-scale-reform|değerlendirme reformu]]) — neyi değerlendirdiğinizi yeniden tasarlayın, yalnızca onu nasıl denetlediğinizi değil.
 
-- **Sınıf içi yasağı bir güvence olarak ele almayı bırakın.** Akıllı gözlükler ve YZ etkin işitme cihazları çift yönlü olarak şeffaftır: saptanacak bir bakış düşmesi ya da duruş değişikliği yoktur, bu nedenle gözetimli bir sınav ya da sözlü sınav fiziksel ayrılık yoluyla artık kanıtsal bir güven satın alamaz ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin ve ark., 2026]]).
+- **Sınıf içi yasağı bir güvence olarak ele almayı bırakın.** Akıllı gözlükler ve YZ etkin işitme cihazları çift yönlü olarak şeffaftır: saptanacak bir [[sensor-and-gaze-analytics|bakış]] düşmesi ya da duruş değişikliği yoktur, bu nedenle gözetimli bir sınav ya da sözlü sınav fiziksel ayrılık yoluyla artık kanıtsal bir güven satın alamaz ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin ve ark., 2026]]).
 - **“Öğrenciler hangi beceriyi hâlâ elle yaparak öğrenmeli?” sorusunu yeniden tasarlayın.** Tıpkı bilişimde olduğu gibi, hangi becerilerin korunması gerektiğine (doğrulama, muhakeme, süreç) karar verin ve bunları değerlendirilen çekirdek haline getirin; YZ becerilerinin kendiliğinden aktarıldığını varsaymayın.
 - **Öğretim üyesi hazır bulunuşluğunu yalnızca teknik değil sosyoteknik olarak ele alın.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]], hazır bulunuşluğu epistemik, pedagojik, kurumsal ve kalite alanlarında çerçeveler — [[pedagogy|öğretim uygulamanızı]] yalnızca araç akıcılığına değil kurumsal yönetişime de hizalayın.
 

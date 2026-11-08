@@ -8,7 +8,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-10-25T21:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **ICAP Çerçevesi** (Interactive–Constructive–Active–Passive; Etkileşimli–Yapıcı–Etkin–Edilgen) — Michelene Chi tarafından geliştirilen, öğrenen davranışını biliş açıdan en az katılımdan en çok katılıma doğru sıralanan dört bilgi değişimi kipine ayıran bir bilişsel katılım taksonomisi: *edilgen*, *etkin*, *yapıcı* ve *etkileşimli*. Eğitimde yapay zeka bağlamında ICAP hem bir tasarım hedefi (pasif tüketim yerine yapıcı ve etkileşimli katılımı çağrıştıran araçlar oluşturmak) hem de bir değerlendirme merceği (öğrenenlerin ve yapay zeka sistemlerinin gerçekten üst düzey kiplerde katılım gösterip göstermediğini ölçmek) sağlar.([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
+> **ICAP Çerçevesi** (Interactive–Constructive–Active–Passive; Etkileşimli–Yapıcı–Etkin–Edilgen) — Michelene Chi tarafından geliştirilen, öğrenen davranışını biliş açıdan en az katılımdan en çok katılıma doğru sıralanan dört bilgi değişimi kipine ayıran bir bilişsel katılım taksonomisi: *edilgen*, *etkin*, *yapıcı* ve *etkileşimli*. [[ai-education|Eğitimde yapay zeka]] bağlamında ICAP hem bir tasarım hedefi (pasif tüketim yerine yapıcı ve etkileşimli katılımı çağrıştıran araçlar oluşturmak) hem de bir değerlendirme merceği (öğrenenlerin ve yapay zeka sistemlerinin gerçekten üst düzey kiplerde katılım gösterip göstermediğini ölçmek) sağlar.([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
 
 ## Düşünülmesi Gereken Sorular
 
@@ -33,7 +33,7 @@ ai_assist:
 
 ## Giriş
 
-ICAP, *öğrenenlerin ne yaptığının* ne kadar ve ne öğrendiklerini belirlediği varsayımına dayanır. Chi’nin çerçevesi, katılım edilgenden etkine, etkinden yapıcıya, yapıcıdan etkileşimliye geçtikçe bilgi değişiminin doğasının derinleştiğini ileri sürer: depolamadan dikkat etmeye, yeni bilgiyi önceki bilgiyle bütünlemeye, diyalog aracılığıyla bilgiyi birlikte üretmeye. Bu durum ICAP’ı — merkezinde yapay zeka desteğinin öğrenenlerin bilişsel katılımını destekleyip desteklemediği yoksa onun yerine mi geçtiği sorusunun yattığı — eğitimde yapay zeka için güçlü bir analitik araca dönüştürür.
+ICAP, *öğrenenlerin ne yaptığının* ne kadar ve ne öğrendiklerini belirlediği varsayımına dayanır. Chi’nin çerçevesi, katılım edilgenden etkine, etkinden yapıcıya, yapıcıdan etkileşimliye geçtikçe bilgi değişiminin doğasının derinleştiğini ileri sürer: depolamadan dikkat etmeye, yeni bilgiyi [[prior-knowledge|önceki bilgiyle]] bütünlemeye, diyalog aracılığıyla bilgiyi birlikte üretmeye. Bu durum ICAP’ı — merkezinde yapay zeka desteğinin öğrenenlerin bilişsel katılımını destekleyip desteklemediği yoksa onun yerine mi geçtiği sorusunun yattığı — eğitimde yapay zeka için güçlü bir analitik araca dönüştürür.
 
 ## Dört kip
 
@@ -48,11 +48,11 @@ ICAP, *öğrenenlerin ne yaptığının* ne kadar ve ne öğrendiklerini belirle
 
 ### Yapay zeka araçları için bir tasarım hedefi
 
-ICAP, eğitimde yapay zeka için merkezi tasarım sorusunu yeniden çerçeveliyor: öğrenenin *yerine yanıt veren* bir yapay zeka aracı onu edilgen/etkin kiplerde tutar; *yönlendiren, soru soran ve [[scaffolding|iskele kuran]]* bir araç ise öğrenenleri yapıcı ve etkileşimli katılıma doğru iter. Bu durum ICAP’ı [[constructivist]] pedagojisiyle ve [[active-learning]] araştırmalarıyla hizalar.([[multimodal-learning-genai]])([[hingle-collaborative-ai-literacy-2025]])
+ICAP, eğitimde yapay zeka için merkezi tasarım sorusunu yeniden çerçeveliyor: öğrenenin *yerine yanıt veren* bir yapay zeka aracı onu edilgen/etkin kiplerde tutar; *yönlendiren, soru soran ve [[scaffolding|iskele kuran]]* bir araç ise öğrenenleri yapıcı ve etkileşimli katılıma doğru iter. Bu durum ICAP’ı [[constructivist]] [[pedagogy|pedagojisiyle]] ve [[active-learning]] araştırmalarıyla hizalar.([[multimodal-learning-genai]])([[hingle-collaborative-ai-literacy-2025]])
 
 ### Yapay zeka ajanları için bir değerlendirme merceği
 
-ICAP aynı zamanda bir ölçüm çerçevesi olarak da işlev görür. Bir çalışmada araştırmacılar, işbirlikçi diyalogdaki bilişsel katılımı nitelemek için ICAP’ı 7 kademeli bir ölçeğe genişletti, ardından eğitilmiş insan etiketleyicileri LLM tabanlı etiketlemeyle karşılaştırdı (bağlam içi öğrenme, sıfır atışlı istek metni yazımı ve yansıtıcı ajanlar). İnsan etiketleyiciler arası güvenilirlik (kappa = 0,906–0,998), LLM etiketlemesini (kappa = 0,541–0,609) çok aştı; bu durum [[learning-analytics]] hatlarında otomatik katılım ölçümünde ICAP’ın rolünü — ve güncel sınırlarını — ortaya koyuyor.([[icap-cognitive-engagement-llm-agents]])
+ICAP aynı zamanda bir ölçüm çerçevesi olarak da işlev görür. Bir çalışmada araştırmacılar, işbirlikçi diyalogdaki bilişsel katılımı nitelemek için ICAP’ı 7 kademeli bir ölçeğe genişletti, ardından eğitilmiş insan etiketleyicileri [[llm|LLM]] tabanlı etiketlemeyle (bağlam içi öğrenme, sıfır atışlı [[prompt-engineering|istek metni yazımı]] ve yansıtıcı ve yansıtıcı ajanlar). İnsan etiketleyiciler arası güvenilirlik (kappa = 0,906–0,998), LLM etiketlemesini (kappa = 0,541–0,609) çok aştı; bu durum [[learning-analytics]] hatlarında otomatik katılım ölçümünde ICAP’ın rolünü — ve güncel sınırlarını — ortaya koyuyor.([[icap-cognitive-engagement-llm-agents]])
 
 ### İşbirlikçi diyalog kolaylaştırmasına yön vermek
 
@@ -60,19 +60,21 @@ Etkileşimli katılım ICAP’ın en üst kipi olduğundan, çerçeve, [[collabo
 
 ### ICAP ve öğrenme analitiği tasarımı
 
-ICAP, yüzeysel ‘katılım’ ölçütlerine yönelik eleştirilerin temelini oluşturur: süzgeçlere tıklayarak bir panoyla etkileşime geçmek *etkin* katılımdır, *etkileşimli* değil. Etkin öğrenme analitiği tasarımları yalnızca veri göstermek yerine öz değerlendirme ve iki yönlü diyalogu çağrıştırır — doğrudan Chi’nin çerçevesinden çıkarılan bir çıkarım.([[interactive-learning-dashboards-engagement]])
+ICAP, yüzeysel ‘katılım’ ölçütlerine yönelik eleştirilerin temelini oluşturur: süzgeçlere tıklayarak bir panoyla etkileşime geçmek *etkin* katılımdır, *etkileşimli* değil. Etkin öğrenme analitiği tasarımları yalnızca veri göstermek yerine [[self-assessment|öz değerlendirme]] ve iki yönlü ve iki yönlü diyalogu çağrıştırır — doğrudan Chi’nin çerçevesinden çıkarılan bir çıkarım.([[interactive-learning-dashboards-engagement]])
 
 ### Etkin→Yapıcı dönüşümü dönüm noktası olarak
 
 ICAP bir hiyerarşi betimlese de, öğrenme açısından en önemli sonucu doğuran dönüşüm *Etkin* kiplerden *Yapıcı* kiplere atlayıştır (Chi & Boucher, 2023). Etkin katılım (bilgiyi benzer ama özdeş olmayan senaryolara uygulamak) öğrenenleri hazırlar; ancak yeni bilgi üretmeye onları donatan şey Yapıcı katılımdır — açıklama, özet veya yeni eser üretmek. İşte bu, eğitimde yapay zeka için asıl mesele: öğrenenleri Etkin kipte tutan bir araç (örneğin uyarlanabilir alıştırmalarda ilerlemek için tıklamak) verimli görünebilir ama onları hiçbir zaman kalıcı anlayış sağlayan yapıcı üretime yöneltmez. Etkin→Yapıcı sıçrayışını bilinçli biçimde iskeleye alan işbirlikçi ve okuryazarlık odaklı müdahaleler genellikle en güçlü kazanımları göstermektedir.([[hingle-collaborative-ai-literacy-2025]])
 
+Bu iddianın “en güçlü kazanımlar” kısmı, derlemenin yürüttüğü bir karşılaştırma değil çerçeveden yapılan bir çıkarımdır. Ardındaki dokuz çalışmalık derleme (2015–2023), her kipe kaç müdahalenin *dahil olduğunu* sayar (9 edilgen, 5 etkin, 7 yapıcı, 8 etkileşimli), kipe göre hiçbir etki büyüklüğü bildirmez ve dahil edilen hiçbir çalışmanın tek bir kipe dayanmadığını not eder; dolayısıyla içindeki hiçbir şey Etkin→Yapıcı sıçramasını yalıtmaz ([[hingle-collaborative-ai-literacy-2025|Hingle ve ark., 2025]]). Sıralama Chi’nindir; derlemenin eklediği şey, uygulayıcıların bir kip seçmek yerine kipleri birleştirdiğidir.
+
 ### ITS’te uyarlanabilir iskeleleme sinyali olarak ICAP
 
-ICAP’ın kipleri, evrilen bir öğrenci modeline dayanarak bilişsel katılımı iskeleye almak için uyarlanabilir bir öğretmenin seçebileceği *hedef durumlar* biçiminde işlevselleştirilebilir. Bir mantık ITS’inde [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi ve ark.]], bir *Etkin* “Yönlendirilmiş” çözümlü örnek kipi ile bir *Yapıcı* “Hatalı” örnek kipi arasında dinamik biçimde seçim yaptı. Bayes Bilgi İzleme’yi (BKT) Derin Pekiştirmeli Öğrenme (DRL) ve uyarlanabilir olmayan bir temel çizgiyle 113 öğrenci üzerinde karşılaştırdıklarında, iki uyarlanabilir politika da son test performansını iyileştirdi — ancak farklılaşmış biçimde: BKT önceki bilgisi düşük öğrencilere en büyük kazanımları sağladı (onların geri kalanlara yetişmesine yardımcı oldu), DRL ise önceki bilgisi yüksek öğrenciler arasında en yüksek son test puanlarını üretti. Bu, bir akıllı öğretmenin ICAP kipini etkin biçimde *kişiselleştirmenin* öğrenenin güncel bilgisini modellemeye bağlı olduğunun somut bir gösterimidir — ve hiçbir tek kip ya da uyarlanabilir yöntemin her öğrenene uymadığının. Bu bağlantı, ICAP hiyerarşisini doğrudan [[adaptive-learning]] ve [[knowledge-tracing]] tasarımına bağlar.
+ICAP’ın kipleri, evrilen bir [[student-modeling|öğrenci modeline]] dayanarak dayanarak bilişsel katılımı iskeleye almak için [[intelligent-tutoring|uyarlanabilir bir öğretmenin]] seçebileceği seçebileceği *hedef durumlar* biçiminde işlevselleştirilebilir. Bir mantık ITS’inde [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi ve ark.]], bir *Etkin* “Yönlendirilmiş” çözümlü örnek kipi ile bir *Yapıcı* “Hatalı” örnek kipi arasında dinamik biçimde seçim yaptı. Bayes Bilgi İzleme’yi (BKT) Derin [[reinforcement-learning|Pekiştirmeli Öğrenme]] (DRL) ve uyarlanabilir olmayan bir temel çizgiyle 113 öğrenci üzerinde karşılaştırdıklarında, iki uyarlanabilir politika da son test performansını iyileştirdi — ancak farklılaşmış biçimde: BKT önceki bilgisi düşük öğrencilere en büyük kazanımları sağladı (onların geri kalanlara yetişmesine yardımcı oldu), DRL ise önceki bilgisi yüksek öğrenciler arasında en yüksek son test puanlarını üretti. Bu, bir akıllı öğretmenin ICAP kipini etkin biçimde *kişiselleştirmenin* öğrenenin güncel bilgisini modellemeye bağlı olduğunun somut bir gösterimidir — ve hiçbir tek kip ya da uyarlanabilir yöntemin her öğrenene uymadığının. Bu bağlantı, ICAP hiyerarşisini doğrudan [[adaptive-learning]] ve [[knowledge-tracing]] tasarımına bağlar.
 
 ### İnsana benzer ajanlar üretmek için bilişsel durum modeli olarak ICAP
 
-Görev kiplerini seçmenin ötesinde, ICAP doğrudan üretken bir eğitim ajanının *bilişsel modeline* gömülmüştür. [[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]], girdileri dört ICAP düzeyi üzerinde bir olasılık dağılımına eşleyen ICAP tabanlı bir “bilişsel derinlik perseptronu” kurar ve bunu, evrimsel esinli durum güncellemeleriyle ve madde-tepki kuramı bellek erişimiyle birleştirerek bir öğrencinin bilişsel evrimini (kafa karışıklığı → kavrayış gibi geçişler dahil) benzetimler. Yapılan sınama deneyleri, ICAP algı modülünün çıkarılmasının ajanın yüzeysel öğrenmeyi derin öğrenmeden ayırt etme yeteneğini çökerttiğini gösteriyor — bu da ICAP taksonomisinin yalnızca dışsal bir değerlendirme merceği olmaktan öte, [[simulating-students|öğrenci benzetimi]] için ince ayarlı, içsel bir bilişsel katılım ölçüsü olarak hizmet edebileceğinin kanıtıdır.
+Görev kiplerini seçmenin ötesinde, ICAP doğrudan üretken bir eğitim ajanının *bilişsel modeline* gömülmüştür. [[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]], girdileri dört ICAP düzeyi üzerinde bir olasılık dağılımına eşleyen ICAP tabanlı bir “bilişsel derinlik perseptronu” kurar ve bunu, evrimsel esinli durum güncellemeleriyle ve [[item-response-theory|madde-tepki kuramı]] bellek erişimiyle bellek erişimiyle birleştirerek bir öğrencinin bilişsel evrimini (kafa karışıklığı → kavrayış gibi geçişler dahil) benzetimler. Yapılan sınama deneyleri, ICAP algı modülünün çıkarılmasının ajanın yüzeysel öğrenmeyi derin öğrenmeden ayırt etme yeteneğini çökerttiğini gösteriyor — bu da ICAP taksonomisinin yalnızca dışsal bir değerlendirme merceği olmaktan öte, [[simulating-students|öğrenci benzetimi]] için ince ayarlı, içsel bir bilişsel katılım ölçüsü olarak hizmet edebileceğinin kanıtıdır.
 
 ### ICAP, yansıtıcı GenAI etkileşiminin değerlendirilmesine zemin sağlar
 

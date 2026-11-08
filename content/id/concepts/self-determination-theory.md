@@ -7,9 +7,9 @@ pedagogy: [motivation, self-determination-theory]
 technology: [affective-computing]
 audience: [learners]
 confidence: high
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T14:01:53-05:00"
 translation_of: "concepts/self-determination-theory"
-source_updated: "2026-11-01T09:13:47-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -57,9 +57,9 @@ Sebuah uji konfigurasional mempertajam poin itu: di antara 498 mahasiswa kedokte
 
 Bagi guru sendiri, kolaborasi AI bekerja dua arah: studi tiga gelombang terhadap 468 dosen universitas menemukan bahwa ia menaikkan keterlibatan kerja melalui ketersediaan psikologis sekaligus menurunkannya melalui alienasi kerja, dan [[teacher-ai-competency|kompetensi digital]] memperkuat jalur pertama dan melemahkan jalur kedua ([[teacher-ai-collaboration-work-engagement-2026|Sun dkk. (2026)]]).
 
-Sebuah kerangka ko-agensi membatasi jangkauan SDT dalam pendidikan bermediasi AI: ia mengubah keadaan yang memunculkan otonomi, kompetensi, dan keterhubungan tetapi membiarkan keadilan kekuasaan, kepemilikan data, dan akuntabilitas tak terjawab, itulah sebabnya para penulisnya menetapkan akuntabilitas epistemik manusia sebagai kondisi non-negosiabel di luar teori ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
+Sebuah kerangka ko-agensi membatasi jangkauan SDT dalam pendidikan bermediasi AI: ia mengubah keadaan yang memunculkan otonomi, kompetensi, dan keterhubungan tetapi membiarkan [[equity-in-ai-education|keadilan]] kekuasaan, kepemilikan data, dan akuntabilitas tak terjawab, itulah sebabnya para penulisnya menetapkan akuntabilitas epistemik manusia sebagai kondisi non-negosiabel di luar teori ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
 
-**Dukungan otonomi sebagai kerangka penggunaan GenAI oleh anak.** [[family-school-autonomy-support-genai-2026|Fan, Li dan Zhang (2026)]] memindahkan pertanyaan penggunaan yang bertanggung jawab dari pembatasan ke dukungan kebutuhan, dengan berargumen bahwa pembedaan yang penting adalah apakah orang dewasa di sekitar anak mendukung otonomi alih-alih mengendalikannya, dan membedakan [[cognitive-offloading|pelimpahan kognitif]] yang bergantung dari yang otonom dalam istilah SDT: pelimpahan yang bergantung memindahkan [[agency|agensi]] dan menurunkan motivasi intrinsik, pelimpahan otonom merancah sementara siswa mempertahankan kendali epistemik. Dua ciri tinjauan itu langsung relevan bagi penerapan SDT: ia menegaskan bahwa dukungan otonomi bukan permisif, dan ia memperlakukan koordinasi keluarga-sekolah yang diasumsikan panduan saat ini sebagai hipotesis yang belum teruji, dengan merumuskan versi aditif, sinergistik, dan kompensatoris yang hanya dapat dibedakan oleh uji faktorial yang membandingkan panduan keluarga saja, sekolah saja, terkoordinasi, dan praktik biasa.
+**Dukungan otonomi sebagai kerangka penggunaan GenAI oleh anak.** [[family-school-autonomy-support-genai-2026|Fan, Li dan Zhang (2026)]] memindahkan pertanyaan penggunaan yang bertanggung jawab dari pembatasan ke dukungan kebutuhan, dengan berargumen bahwa pembedaan yang penting adalah apakah orang dewasa di sekitar anak mendukung otonomi alih-alih mengendalikannya, dan membedakan [[cognitive-offloading|pelimpahan kognitif]] yang bergantung dari yang otonom dalam istilah SDT. Pelimpahan yang bergantung memindahkan [[agency|agensi]] dan menurunkan motivasi intrinsik; pelimpahan otonom [[scaffolding|merancah]] sementara siswa mempertahankan kendali epistemik. Dua ciri tinjauan itu langsung relevan bagi penerapan SDT: ia menegaskan bahwa dukungan otonomi bukan permisif, dan ia memperlakukan koordinasi keluarga-sekolah yang diasumsikan panduan saat ini sebagai hipotesis yang belum teruji, dengan merumuskan versi aditif, sinergistik, dan kompensatoris yang hanya dapat dibedakan oleh uji faktorial yang membandingkan panduan keluarga saja, sekolah saja, terkoordinasi, dan praktik biasa.
 
 ## Kaitan dengan konsep terkait
 
@@ -72,7 +72,7 @@ SDT terhubung langsung ke [[motivation]] sebagai konstruk induknya, ke [[affecti
 
 - **"Jenis motivasi kurang penting daripada jumlah motivasi."** Studi selama setahun menemukan **tiga profil motivasional — Tidak Terlibat, Berkembang, Determinasi Diri — stabil sepanjang waktu**, dan siswa yang mencapai profil **Determinasi Diri** menunjukkan **keuntungan [[ai-literacy|literasi AI]] terbesar**. Kualitas motivasi memprediksi pembelajarannya, dan profil-profil itu tidak sekadar bergeser naik.
 - **"Dukungan otonomi berarti menghapus struktur."** Mekanisme SDT adalah otonomi, kompetensi, dan keterhubungan bersama-sama, dan bukti longitudinal menunjukkan bahwa terpenuhinya ketiganya memprediksi keuntungan alih-alih sekadar menyertainya. Otonomi tanpa dukungan kompetensi adalah permisif, dan ia tidak memenuhi syarat teori ini.
-- **"Chatbot dapat memasok ketiga kebutuhan secara otomatis."** Sebuah studi menemukan ChatGPT dapat mendukung otonomi, keterhubungan, dan kompetensi dalam pembelajaran bahasa — sebuah kemungkinan, bukan sifat. Apakah suatu interaksi mendukungnya adalah pertanyaan empiris tentang bagaimana ia digunakan.
+- **"[[conversational-ai|Chatbot]] dapat memasok ketiga kebutuhan secara otomatis."** Sebuah studi menemukan ChatGPT dapat mendukung otonomi, keterhubungan, dan kompetensi dalam pembelajaran bahasa — sebuah kemungkinan, bukan sifat. Apakah suatu interaksi mendukungnya adalah pertanyaan empiris tentang bagaimana ia digunakan.
 
 ## Konsep terkait
 

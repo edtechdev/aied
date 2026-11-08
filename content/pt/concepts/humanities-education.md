@@ -1,14 +1,14 @@
 ---
 title: Educação em humanidades e ciências sociais
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T12:02:41-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-26T09:45:00-04:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,29 +39,34 @@ ai_assist:
 
 A educação em HCS é uma área de matérias distinta na base de conhecimento, complementar à [[stem-education|educação STEM]] e à [[language-learning|aprendizagem de línguas]]. Como as humanidades premiam a profundidade interpretativa, a autoria e o julgamento contextual, elas colocam desafios de integração da IA diferentes dos das STEM — e se conectam ao [[higher-ed|ensino superior]] e ao [[ai-literacy|letramento em IA]] de formas [[discipline-specific-aied|específicas do domínio]].
 
+A educação cívica e política é uma área de matérias irmã dessas disciplinas, e não um ramo delas, e [[civic-and-political-education]] a trata por direito próprio. A evidência da base de conhecimento ali é escassa: oito fontes tocam o tema e nenhuma mede a aprendizagem cívica.
+
 ### Como a IA aparece na educação em humanidades e ciências sociais
 
 - **Reestruturando a cognição interpretativa.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] argumenta que a IA generativa age como um *mediador epistêmico* que reconfigura a construção de sentido, a autoria e a [[agency|agência]] de quem aprende na educação em HCS. Ele identifica três transformações — externalização da cognição interpretativa, hibridização da autoria e emergência de agência epistêmica distribuída — e três trajetórias de desenvolvimento (interpretação dependente da IA, potencializada pela IA e crítica em relação à IA). Isso fundamenta um modelo [[pedagogy|pedagógico]] desenvolvimental-crítico para preservar a profundidade interpretativa.
+- **O que uma tarefa permite que um leitor veja decide se a autoria é avaliável.** Em uma simulação de modelo de 148 textos, memorandos e defesas de revisão pontuaram 3,16 e 3,10 em visibilidade argumentativa, contra 2,63 para ensaios de posição, porque o próprio formato exigia explicação de fontes ou uma resposta a objeções ([[liu-argumentative-work-visible-genai-assessment-2026|Liu & Liu (2026)]]).
 - **Educação em história.** A [[paternalistic-filter-llm-history-education|pesquisa sobre LLMs na educação em história]] examina como a IA molda o raciocínio histórico e a interpretação de fontes.
 - **As experiências dos estudantes de humanidades e ciências sociais.** [[genai-impact-chinese-students-hss|O impacto da GenAI sobre estudantes chineses de humanidades e ciências sociais]] e [[acceptance-ai-english-tools-2026|a aceitação da IA entre aprendentes de línguas e inglês]] documentam efeitos voltados aos estudantes nas disciplinas de HCS.
 - **Dimensões críticas e filosóficas.** O [[voicu-ai-interpretive-cognition-ssh-2026|letramento crítico em IA]] e a [[philosophy-of-ai-in-education|filosofia da IA na educação]] são especialmente salientes nas HCS, onde questões de sentido, valores e autoridade epistêmica são centrais.
-- **[[governance|Transformação digital institucional]].** Qin (2026) documenta como a Lingnan University se reposicionou como uma \"Instituição de Artes Liberais de Pesquisa Intensiva na Era Digital\", tornando obrigatório o letramento em GenAI para todos os estudantes de graduação (incluindo um curso obrigatório de primeiro ano no Núcleo Comum sobre IA generativa, cobrindo espaços latentes, GANs, modelos de difusão, [[prompt-engineering|prompting]], ajuste fino, viés e desinformação). O position paper argumenta que a mudança rumo à IA para a educação é uma *transformação intelectual*, e não uma ampliação tecnocêntrica, posicionando a [[ai-literacy|fluência digital]] como uma competência central das artes liberais, ao mesmo tempo que um modelo de [[human-in-the-loop-ai|humano no circuito]] coloca em primeiro plano o raciocínio [[ethics|ético]], o julgamento crítico e a responsabilidade social — um modelo concreto para o [[higher-ed|ensino superior]] equilibrar a inovação em [[generative-ai|GenAI]] com fundamentos humanísticos.
+- **[[governance|Transformação digital institucional]].** Qin (2026) documenta como a Lingnan University se reposicionou como uma \"Instituição de Artes Liberais de Pesquisa Intensiva na Era Digital\", tornando obrigatório o letramento em GenAI para todos os estudantes de graduação (incluindo um curso obrigatório de primeiro ano no Núcleo Comum sobre IA generativa, cobrindo espaços latentes, GANs, modelos de difusão, [[prompt-engineering|prompting]], [[llm-training-and-fine-tuning|ajuste fino]], viés e desinformação). O position paper argumenta que a mudança rumo à IA para a educação é uma *transformação intelectual*, e não uma ampliação tecnocêntrica, posicionando a [[ai-literacy|fluência digital]] como uma competência central das artes liberais, ao mesmo tempo que um modelo de [[human-in-the-loop-ai|humano no circuito]] coloca em primeiro plano o raciocínio [[ethics|ético]], o julgamento crítico e a responsabilidade social — um modelo concreto para o [[higher-ed|ensino superior]] equilibrar a inovação em [[generative-ai|GenAI]] com fundamentos humanísticos.
 - **A exposição da avaliação no setor já está mensurada, e ela é concentrada, e não difusa.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] auditou 15.587 registros de unidade de Artes e Humanidades das universidades do Group of Eight da Austrália e concluiu que 58,6% dos itens de avaliação de 2026 estavam altamente expostos à [[generative-ai|GenAI]], com redações para casa e relatórios de pesquisa respondendo por 71,4% dessa exposição uma vez ponderados pelas notas.
 
 ### Por que isso importa
 
 A educação em HCS coloca em primeiro plano as próprias capacidades que a IA generativa mais desafia — autoria original, julgamento interpretativo, análise crítica e construção de sentido sensível ao contexto. A base de conhecimento trata esse domínio como um contrapeso crítico aos enquadramentos instrumentais e baseados em habilidades da IA: ela pergunta se a aprendizagem apoiada por IA preserva o [[critical-thinking|pensamento crítico]], a responsabilidade epistêmica e a autonomia interpretativa, conectando-se à [[critical-pedagogy|pedagogia crítica]] e ao [[ai-literacy|letramento em IA]].
 
+O ensino de humanidades começou a usar IA agêntica para montagem de fontes e redação, o que desloca a questão avaliativa da disciplina de se o texto foi gerado para se a interpretação pode ser atribuída ao estudante ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
+
 ## Implicações para instrutores de humanidades e ciências sociais
 
-- **Trate a IA como um mediador epistêmico, não como uma tutora de conteúdo.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] mostra que a IA reconfigura a construção de sentido, a autoria e a agência nas HCS — desenhe a pedagogia em torno das três trajetórias (dependente da IA, potencializada pela IA e crítica em relação à IA) e mire na ponta crítica em relação à IA.
+- **Trate a IA como um mediador epistêmico, não como uma tutora de conteúdo.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] mostra que a IA reconfigura a construção de sentido, a autoria e a agência nas HCS — [[design-education|projete a pedagogia]] em torno das três trajetórias (dependente da IA, potencializada pela IA e crítica em relação à IA) e mire na ponta crítica em relação à IA.
 - **Proteja a profundidade interpretativa e a autoria.** Como as humanidades premiam o julgamento e a autoria original, proteja-se contra a IA que achata a análise; torne a [[ai-ed-evaluation|avaliação crítica]] da saída da IA uma meta de aprendizagem ([[critical-thinking|pensamento crítico]], [[ai-literacy|letramento em IA]]).
 - **Use a IA deliberadamente no trabalho com fontes.** A [[paternalistic-filter-llm-history-education|pesquisa em história]] mostra que a IA pode moldar o raciocínio e a interpretação de fontes — ensine os estudantes a interrogar as afirmações históricas mediadas pela IA e os filtros que ela aplica.
 - **Considere os impactos voltados aos estudantes.** Os [[genai-impact-chinese-students-hss|estudos de experiência dos estudantes]] documentam como a GenAI afeta quem aprende em HCS; adapte o apoio e o enquadramento de integridade ao uso real, em vez de a suposições.
 
 ## Ideias equivocadas comuns
 
-**"As humanidades são a parte do currículo menos exposta à IA."** A exposição foi mensurada e ela é concentrada, não difusa: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] auditou **15.587 registros de unidade de Artes e Humanidades** para estabelecer onde a exposição está. Ela se distribui de forma desigual entre as unidades em vez de se espalhar fina, o que torna a reformulação da avaliação um problema direcionado, e não setorial.
+**"As humanidades são a parte do [[curriculum-design|currículo]] menos exposta à IA."** A exposição foi mensurada e ela é concentrada, não difusa: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] auditou **15.587 registros de unidade de Artes e Humanidades** para estabelecer onde a exposição está. Ela se distribui de forma desigual entre as unidades em vez de se espalhar fina, o que torna a reformulação da avaliação um problema direcionado, e não setorial.
 
 **"A IA na educação em humanidades é ampliação tecnocêntrica."** O position paper em que esta página se baseia argumenta que a mudança é uma *transformação intelectual*, e não uma ampliação, posicionando a [[ai-literacy|fluência digital]] como competência central das artes liberais. Acrescentar uma ferramenta a um curso inalterado confunde a transformação com o seu instrumento.
 
@@ -83,6 +88,7 @@ A educação em HCS coloca em primeiro plano as próprias capacidades que a IA g
 - [[stem-education]]
 - [[ai-education]]
 - [[discipline-specific-aied]]
+- [[civic-and-political-education]]
 
 ## Artigos conectados
 
@@ -92,3 +98,5 @@ A educação em HCS coloca em primeiro plano as próprias capacidades que a IA g
 - [[acceptance-ai-english-tools-2026]] — A aceitação da IA entre aprendentes de línguas e humanidades
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Auditoria computacional de 15.587 unidades de Artes e Humanidades do Go8: 58,6% dos itens de avaliação de 2026 altamente expostos à IA, concentrados em redações e relatórios
 - [[genai-values-education-affordances-risks-2026]] — IA generativa na educação em valores: affordances, riscos éticos e implicações para o ensino (Chen 2026)
+- [[liu-argumentative-work-visible-genai-assessment-2026]] — Formato da tarefa e instruções de uso de IA como aquilo que o artefato pode evidenciar (Liu & Liu 2026)
+- [[capodieci-humanities-hil-2026]] — IA agêntica na aprendizagem de humanidades, e a mudança da autoria do texto para a atribuição da interpretação (Capodieci et al. 2026)

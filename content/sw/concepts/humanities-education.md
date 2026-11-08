@@ -7,7 +7,7 @@ level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-26T09:45:00-04:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -34,29 +34,38 @@ ai_assist:
 
 Elimu ya SSH ni eneo tofauti la somo katika hifadhi hii ya maarifa, linalokamilisha [[stem-education]] na [[language-learning]]. Kwa sababu sayansi za binadamu zinathamini kina cha tafsiri, uandishi, na uamuzi wa muktadha, zinaleta changamoto tofauti za kuunganisha AI kuliko STEM — na zinaungana na [[higher-ed]] na [[ai-literacy]] kwa njia [[discipline-specific-aied|mahususi kwa taaluma]].
 
+Elimu ya kiraia na kisiasa ni eneo la somo ndugu kwa taaluma hizi badala ya tawi lao, na [[civic-and-political-education]] linashughulikia eneo hilo kwa haki yake yenyewe. Ushahidi wa hifadhi hii ya maarifa katika eneo hilo ni mwembamba: vyanzo vinane vinagusa mada hiyo na hakuna hata kimoja kinachopima kujifunza kwa kiraia.
+
+
 ### Jinsi AI inavyoonekana katika elimu ya sayansi za binadamu na jamii
 
 - **Kubadilisha upya ufahamu wa tafsiri.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] anadai AI ya kizalishaji hutenda kama *mpatanishi wa maarifa* ambayo hubadilisha upya kujenga maana, uandishi, na [[agency]] ya mwanafunzi katika elimu ya SSH. Inatambua mabadiliko matatu — upitishaji wa ufahamu wa tafsiri nje ya mtu, kuchanganywa kwa uandishi, na kutokea kwa wakala wa maarifa unaosambazwa — na njia tatu za maendeleo (tafsiri inayotegemea AI, iliyoboreshwa na AI, iliyo mahususi kwa AI). Hii inaweka msingi wa mfano wa [[pedagogy|maendeleo-mahususi]] wa kufundisha kwa kuhifadhi kina cha tafsiri.
+
+- **Kile kazi inachowezesha msomaji kuona ndicho huamua kama uandishi unaweza kutathminiwa.** Katika uigaji wa mfano wa maandishi 148, memeoranda na utetezi wa marekebisho yalipata 3.16 na 3.10 kwa uonekano wa hoja dhidi ya 2.63 kwa insha za msimamo, kwa sababu muundo wenyewe ulihitaji maelezo ya chanzo au jibu kwa pingamizi ([[liu-argumentative-work-visible-genai-assessment-2026|Liu & Liu (2026)]]).
+
 - **Elimu ya historia.** [[paternalistic-filter-llm-history-education|Utafiti juu ya LLM katika elimu ya historia]] unachunguza jinsi AI inavyounda ufikiri wa kihistoria na tafsiri ya chanzo.
 - **Uzoefu wa wanafunzi wa sayansi za binadamu na jamii.** [[genai-impact-chinese-students-hss|Athari ya GenAI kwa wanafunzi wa Kichina wa sayansi za binadamu na jamii]] na [[acceptance-ai-english-tools-2026|kukubali AI miongoni mwa wanafunzi wa lugha/Kiingereza]] yanarekodi athari zinazohusiana na wanafunzi katika taaluma za SSH.
 - **Vipimo mahususi na vya kifalsafa.** [[voicu-ai-interpretive-cognition-ssh-2026|Ujuzi mahususi wa AI]] na [[philosophy-of-ai-in-education|falsafa ya AI katika elimu]] ni muhimu hasa katika SSH, ambapo maswali ya maana, maadili, na mamlaka ya maarifa ni ya kati.
-- **[[governance|Mabadiliko ya kidijitali ya taasisi]].** Qin (2026) anarekodi jinsi Chuo Kikuu cha Lingnan kilivyojirekebisha kama 'Taasisi ya Sanaa za Huruma Inayozingatia Utafiti katika Enzi ya Kidijitali,' na kutangaza ujuzi wa GenAI kwa wanafunzi wote wa shahada (ikijumuisha kozi ya lazima ya mwaka wa kwanza ya Common Core juu ya AI ya kizalishaji inayofunika nafasi za siri, GAN, mifano ya usambazaji, [[prompt-engineering|kutoa ilani]], marekebisho, upendeleo, na habari potofu). Karatasi ya nafasi inadai kuwa mabadiliko ya AI-kwa-elimu ni *mabadiliko ya kiakili* badala ya kuongeza ya kitaasisi, huku ikibaika [[ai-literacy|uwezo wa kidijitali]] kama ujuzi msingi wa sanaa za huruma wakati mfano wa [[human-in-the-loop-ai|binadamu-katika-mzunguko]] unatangaza mbele [[ethics|ufikiri wa maadili]], uamuzi mahususi, na uwajibikisho wa kijamii — mpango halisi wa [[higher-ed|elimu ya juu]] unaosawazisha uvumbuzi wa [[generative-ai|GenAI]] na misingi ya kibinadamu.
+- **[[governance|Mabadiliko ya kidijitali ya taasisi]].** Qin (2026) anarekodi jinsi Chuo Kikuu cha Lingnan kilivyojirekebisha kama 'Taasisi ya Sanaa za Huruma Inayozingatia Utafiti katika Enzi ya Kidijitali,' na kutangaza ujuzi wa GenAI kwa wanafunzi wote wa shahada (ikijumuisha kozi ya lazima ya mwaka wa kwanza ya Common Core juu ya AI ya kizalishaji inayofunika nafasi za siri, GAN, mifano ya usambazaji, [[prompt-engineering|kutoa ilani]], [[llm-training-and-fine-tuning|marekebisho]], upendeleo, na habari potofu). Karatasi ya nafasi inadai kuwa mabadiliko ya AI-kwa-elimu ni *mabadiliko ya kiakili* badala ya kuongeza ya kitaasisi, huku ikibaika [[ai-literacy|uwezo wa kidijitali]] kama ujuzi msingi wa sanaa za huruma wakati mfano wa [[human-in-the-loop-ai|binadamu-katika-mzunguko]] unatangaza mbele [[ethics|ufikiri wa maadili]], uamuzi mahususi, na uwajibikisho wa kijamii — mpango halisi wa [[higher-ed|elimu ya juu]] unaosawazisha uvumbuzi wa [[generative-ai|GenAI]] na misingi ya kibinadamu.
 - **Uwepo wa tathmini wa sekta sasa umepimwa, na unakusanywa badala ya kusambaa.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] alikagua rekodi 15,587 za vitengo vya Sanaa na Sayansi za Binadamu katika vyuo vikuu vya Kundi la Nane vya Australia na akagundua 58.6% ya vipengele vya tathmini vya 2026 vilivyowekwa wazi sana kwa [[generative-ai|GenAI]], huku insha za kuchukua nyumbani na ripoti za utafiti zikichukua 71.4% ya uwepo huo mara moja zilipowekwa uzito kwa alama.
 
 ### Kwa nini inamaanisha
 
 Elimu ya SSH inatangaza mbele uwezo ambao AI ya kizalishaji inautia changamoto zaidi — uandishi wa asili, uamuzi wa tafsiri, uchanganuzi mahususi, na kujenga maana unaojali muktadha. Hifadhi hii ya maarifa inatendea eneo hili kama tuzo muhimu kwa ufafanuzi wa zana, unaotegemea ujuzi wa AI: inauliza iwapo kujifunza kunaoungwa mkono na AI kuhifadhi [[critical-thinking]], uwajibikisho wa maarifa, na uhuru wa tafsiri, na kuungana na [[critical-pedagogy]] na [[ai-literacy]].
 
+Ufundishaji wa sayansi za binadamu umeanza kutumia AI ya wakala kwa kukusanya vyanzo na kuandika rasimu, jambo linalohamisha swali la tathmini la taaluma hiyo kutoka kama maandishi yalizalishwa hadi kama tafsiri inaweza kuhusishwa na mwanafunzi ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
+
+
 ## Maana kwa waelimishaji wa sayansi za binadamu na jamii
 
-- **Tendea AI kama mpatanishi wa maarifa, si mwalimu wa maudhui.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] anaonyesha AI hubadilisha upya kujenga maana, uandishi, na wakala katika SSH — buni mbinu za kufundisha kuzunguka njia tatu (zinazotegemea AI, zilizoboreshwa na AI, za AI-mahususi) na kuelekea mwisho wa AI-mahususi.
+- **Tendea AI kama mpatanishi wa maarifa, si mwalimu wa maudhui.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] anaonyesha AI hubadilisha upya kujenga maana, uandishi, na wakala katika SSH — [[design-education|buni mbinu za kufundisha]] kuzunguka njia tatu (zinazotegemea AI, zilizoboreshwa na AI, za AI-mahususi) na kuelekea mwisho wa AI-mahususi.
 - **Linda kina cha tafsiri na uandishi.** Kwa sababu sayansi za binadamu zinathamini uamuzi na uandishi wa asili, lindia dhidi ya AI inayopunguza uchanganuzi; fanya [[ai-ed-evaluation|tathmini mahususi ya matokeo ya AI]] kuwa lengo la kujifunza ([[critical-thinking]], [[ai-literacy]]).
 - **Tumia AI kwa makusudi katika kazi ya chanzo.** [[paternalistic-filter-llm-history-education|Utafiti wa historia]] unaonyesha AI inaweza kuunda ufikiri na tafsiri ya chanzo — fundisha wanafunzi kuchunguza madai ya kihistoria yanayopitishwa na AI na vichujio inavyotumia.
 - **Zingatia athari zinazohusiana na wanafunzi.** [[genai-impact-chinese-students-hss|Masudio ya uzoefu wa mwanafunzi]] yanarekodi jinsi GenAI inavyoathiri wanafunzi wa SSH; badilisha msaada na ufafanuzi wa uadilifu ili kulingana na matumizi halisi badala ya dhana.
 
 ## Dhana Potofu za Kawaida
 
-**"Sayansi za binadamu ni sehemu ya mtaala isiyowekwa wazi kwa AI kwa kiwango cha chini zaidi."** Uwepo umepimwa na umekusanywa badala ya kusambaa: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] alikagua **rekodi 15,587 za vitengo vya Sanaa na Sayansi za Binadamu** ili kubaini mahali uwepo upo. Umesambazwa bila usawa kati ya vitengo badala ya kusambaa kwa usawa, jambo linalofanya kubuni upya tathmini kuwa tatizo linalolengwa badala ya la sekta nzima.
+**"Sayansi za binadamu ni sehemu ya [[curriculum-design|mtaala]] isiyowekwa wazi kwa AI kwa kiwango cha chini zaidi."** Uwepo umepimwa na umekusanywa badala ya kusambaa: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] alikagua **rekodi 15,587 za vitengo vya Sanaa na Sayansi za Binadamu** ili kubaini mahali uwepo upo. Umesambazwa bila usawa kati ya vitengo badala ya kusambaa kwa usawa, jambo linalofanya kubuni upya tathmini kuwa tatizo linalolengwa badala ya la sekta nzima.
 
 **"AI katika elimu ya sayansi za binadamu ni nyongeza inayozingatia teknolojia."** Karatasi ya msimamo ambayo ukurasa huu unategemea inadai kuwa mabadiliko ni *mabadiliko ya kiakili* badala ya nyongeza, ikiiweka [[ai-literacy|uwezo wa kidijitali]] kama ujuzi msingi wa sanaa za huruma. Kuongeza zana kwenye kozi isiyobadilika hukosea mabadiliko kwa chombo chake.
 
@@ -79,6 +88,9 @@ Elimu ya SSH inatangaza mbele uwezo ambao AI ya kizalishaji inautia changamoto z
 - [[ai-education]]
 - [[discipline-specific-aied]]
 
+- [[civic-and-political-education]]
+
+
 ## Makala Zilizounganishwa
 
 - [[genai-values-education-affordances-risks-2026]] — Generative AI in Values Education: Affordances, Ethical Risks and Implications for Teaching (Chen 2026)
@@ -88,3 +100,7 @@ Elimu ya SSH inatangaza mbele uwezo ambao AI ya kizalishaji inautia changamoto z
 - [[genai-impact-chinese-students-hss]] — Athari ya GenAI kwa wanafunzi wa sayansi za binadamu na jamii
 - [[acceptance-ai-english-tools-2026]] — Kukubali AI miongoni mwa wanafunzi wa lugha na sayansi za binadamu
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Ukaguzi wa kikokotozi wa vitengo 15,587 vya Go8 vya Sanaa na Sayansi za Binadamu: 58.6% ya vipengele vya tathmini vya 2026 vilivyowekwa wazi sana kwa AI, vilivyokusanywa katika insha na ripoti
+
+- [[liu-argumentative-work-visible-genai-assessment-2026]] — Muundo wa kazi na maelekezo ya matumizi ya AI kama kile ambacho zao linaweza kushuhudia (Liu & Liu 2026)
+- [[capodieci-humanities-hil-2026]] — AI ya wakala katika kujifunza sayansi za binadamu, na mabadiliko kutoka uandishi wa maandishi hadi uhusishaji wa tafsiri (Capodieci et al. 2026)
+

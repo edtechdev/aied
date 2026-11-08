@@ -1,14 +1,14 @@
 ---
 title: Aprendizagem Incorporada
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T11:45:14-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,10 +41,13 @@ A aprendizagem incorporada está intimamente relacionada ao [[active-learning|ap
 
 - **Programação fundamentada:** o [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] ancora a [[cs-education|programação em blocos]] na execução incorporada de robôs, criando um laço apertado de autoria, execução, observação e revisão para que os aprendizes vejam seu código se tornar comportamento.
 - **Interação social-robótica:** [[educational-robotics|Robôs sociais]] usados para [[storytelling-in-education|narração de histórias]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), role-play ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]) e linguagem de sinais ([[pepper-robot-sign-language-lis-2025|Pepper]]) fornecem interação social incorporada que apoia a aprendizagem relacional e [[social-emotional-learning|emocional]].
-- **Os recursos de incorporação não são o que dirige os resultados.** Uma meta-análise de 11 estudos de RALL (N = 595, g = 0,83, I² = 84,4%) descobriu que morfologia do robô, modalidade, autonomia e papel social não moderaram a aprendizagem de L2; formatos em grupo superaram o um-a-um, de modo que a posição do robô, não sua incorporação, carregou o efeito ([[robot-assisted-language-learning-meta-analysis-2026|Wang et al. (2026)]]).
+- **Os recursos de incorporação não são o que dirige os resultados.** Uma [[meta-analysis-systematic-review|meta-análise]] de 11 estudos de RALL (N = 595, g = 0,83, I² = 84,4%) descobriu que morfologia do robô, modalidade, autonomia e papel social não moderaram a aprendizagem de L2; formatos em grupo superaram o um-a-um, de modo que a posição do robô, não sua incorporação, carregou o efeito ([[robot-assisted-language-learning-meta-analysis-2026|Wang et al. (2026)]]).
 - **Incorporação e escrita criativa:** a [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|pesquisa sobre a integração robô-LLM na escrita criativa]] examina como a incorporação afeta a interação e os resultados dos aprendizes.
 - **Interação humano-robô:** a pesquisa de [[educational-robotics|HRI]] ([[task-context-trust-educational-hri-2026|confiança]], [[human-autonomy-agency-hri-review-2025|agência]]) examina como a incorporação física molda confiança, [[student-engagement|engajamento]] e [[agency|autonomia]].
 - **O gesto como evidência de compreensão:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] integram rastreamento de gestos por visão computacional com análise de fala por [[llm|LLM]] para mostrar que a compreensão conceitual de estatística dos estudantes de engenharia se expressa tanto pela fala quanto pelo gesto. Gestos explicativos de alta confiança se agrupam em torno de conceitos específicos (especialmente a média), e um acoplamento estreito entre gesto e fala sinaliza uma fala conceitual coerente, enquanto a divergência marca ideias em desenvolvimento — posicionando a ação incorporada como evidência na [[assessment-validity|avaliação]] via análise de aprendizagem [[multimodal|multimodal]], e não apenas como um mecanismo de aprendizagem.
+
+- **Um facilitador apenas de linguagem puxa a investigação para o que pode ser dito.** Em um laboratório de hidrostática de mestrado, os estudantes construíram o modelo de empuxo à mão antes de um facilitador baseado em Gemini se juntar para aplicá-lo a um novo fenômeno. Ao longo de três duplas, a IA sustentou a sequência ISLE, mas, pressionada a "apenas nos diga", produziu valores de massa que ninguém havia medido, e um participante remoto completou um ciclo fisicamente correto que era limpo, mas desincorporado ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino e Damiani, 2026]]). A lição de desenho é a sequência, e não a substituição: construir o modelo no corpo primeiro, e só então deixar o modelo de linguagem trabalhar na aplicação dele.
+
 
 ### Inteligência incorporada e a crítica da IA desincorporada
 
@@ -57,9 +60,14 @@ Uma segunda vertente, mais teórica, da pesquisa em incorporação da base de co
 A aprendizagem incorporada se conecta à [[educational-robotics|robótica educacional]], [[educational-robotics]], [[educational-robotics]], ao [[active-learning|aprendizado ativo]], à [[experiential-learning|aprendizagem experiencial]], ao [[situated-learning|aprendizado situado]], à [[distributed-cognition|cognição distribuída]], ao [[computational-thinking|pensamento computacional]] e à [[social-emotional-learning|aprendizagem socioemocional]].
 - **O rastreamento corporal transforma a regulação em um sinal mensurável.** Em uma simulação de fotossíntese em realidade mista, na qual etiquetas de movimento deslocavam agentes-estudante por um modelo projetado, um pipeline de LLM rotulou 470 segmentos de comportamento autorregulado em 40 minutos de vídeo, com o modo dominante respondendo por 66,4% ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
 
+- **A IA em geral observa o corpo em vez de juntar-se a ele.** Em uma revisão PRISMA de 23 estudos de IA para aprendizagem incorporada, os 40 papéis de IA codificados foram dominados pelo sensoriamento: análise e avaliação 40,0% e reconhecimento e detecção 22,5%, contra 35,0% de papéis que atuam dentro da atividade (feedback e coaching 15,0%, interação 12,5%, criação de conteúdo 7,5%). Descartar os três artigos com avaliação Baixa e os quatro não avaliáveis reduz a interação a 6,7% e a criação de conteúdo a 3,3%, de modo que a evidência de que a IA se junta ao laço incorporado repousa nos artigos mais fracos ([[kim-ai-embodied-learning-review-2026|Kim e Han (2026)]]).
+
+- **A literatura mais corporal é a que menos mede o corpo.** De 32 etiquetas de desfecho, os desfechos cognitivos ficaram com 43,8%, os afetivos com 34,4% e os psicomotores com 21,9%, uma ordenação que se manteve entre os 16 artigos mais bem avaliados (24,0% de 25 etiquetas). Os autores culpam a dificuldade de selecionar medidas psicomotoras e o hábito de priorizar ganhos cognitivos, e não um efeito fraco sobre a habilidade corporal. Nenhum dos sistemas revisados foi desenhado para aprendizes agindo em conjunto; a colaboração que aparece é a cooperação entre [[teacher-role|professor]] e IA ([[kim-ai-embodied-learning-review-2026|Kim e Han (2026)]]).
+
+
 ## Ideias equivocadas comuns
 
-- **"O corpo é o que faz a aprendizagem incorporada funcionar."** Uma meta-análise de **11 estudos de RALL (N = 595, g = 0,83, I² = 84,4%)** constatou que **morfologia do robô, modalidade, autonomia e papel social não moderaram** os resultados de aprendizagem de segunda língua. Os recursos de incorporação não eram o ingrediente ativo, e a heterogeneidade era alta o bastante (I² = 84,4%) para que o efeito agrupado descreva um conjunto muito misto de intervenções.
+- **"O corpo é o que faz a aprendizagem incorporada funcionar."** Uma meta-análise de **11 estudos de RALL (N = 595, g = 0,83, I² = 84,4%)** constatou que **morfologia do robô, modalidade, autonomia e papel social não moderaram** os resultados de [[language-learning|aprendizagem de segunda língua]]. Os recursos de incorporação não eram o ingrediente ativo, e a heterogeneidade era alta o bastante (I² = 84,4%) para que o efeito agrupado descreva um conjunto muito misto de intervenções.
 - **"Um efeito grande resolve o mecanismo."** g = 0,83 com 595 participantes em 11 estudos é um sinal real, e ele não identifica o que o produziu. Como os recursos de desenho não moderaram o efeito, o mecanismo plausível está na atividade pedagógica, e não no hardware — o que muda em que investir.
 - **"A incorporação não pode ser medida, então permanece teórica."** O rastreamento corporal pode transformar a regulação em um **sinal mensurável**: em uma simulação de fotossíntese em realidade mista, na qual etiquetas de movimento deslocavam agentes-estudante por um modelo projetado, um pipeline de LLM rotulou **470 segmentos** de comportamento de regulação. O construto é operacionalizável mesmo onde é difícil de definir.
 
@@ -92,3 +100,6 @@ A aprendizagem incorporada se conecta à [[educational-robotics|robótica educac
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[videla-embodied-ai-education-choreography]]
+
+- [[embodied-inquiry-ai-facilitator-physics-2026]] — A IA como facilitadora depois de modelos construídos à mão: uma IA baseada em linguagem não consegue acompanhar a investigação incorporada (Tufino & Damiani 2026)
+- [[kim-ai-embodied-learning-review-2026]] — A IA na aprendizagem incorporada sobretudo observa: papéis de sensoriamento em 62,5% das etiquetas de papel codificadas, e nenhum sistema revisado fundiu fluxos multimodais enquanto os aprendizes o usavam (Kim & Han 2026)

@@ -6,7 +6,7 @@ technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-10-26T13:35:09-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -49,8 +49,8 @@ Ağ yöntemleri, toplulaştırma ölçütlerinin yanıtlayamadığı soruları y
 - **Öğrenen–YZ etkileşiminin "kara kutusunu" açın.** TNA, *süreci* — YZ araçlarını kullanırken öğrenenlerin izlediği davranışsal döngüleri ve yolları (örn. [[conversational-ai|sohbet robotu]] ile iskelelenen [[writing-education|yazma]] etkinliğinde "düzeltme döngüsü" ile "sohbet döngüsü" karşılaştırması) — yalnızca nihai çıktı değil, ortaya çıkarır. ([[penny-transition-network-analysis-efl-writing-2026]])
 - **Gruplar arasında bilişsel yapılandırmayı karşılaştırın.** ENA, farklı grupların oluşumları nasıl farklı bağladığını gösterir — örn. insan–YZ işbirliğinde [[metacognition]] devrinin insan akıl yürütmesiyle nasıl birlikte ortaya çıktığını ortaya koyarak farklı işbirliği kiplerini belirir. ([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **YZ okuryazarlığı ve etkileşim imzalarını izleyin.** Etkileşim kayıtları üzerinde ENA, [[llm|LLM]] kullanımının belirgin örüntülerini (yinelemeli stratejik iyileştirme ile doğrusal komutlar) tanımlayarak öğrenen [[ai-literacy|yeterliliğini]] ve gelişimini ayırt eder. ([[tracing-genai-literacy-interaction-patterns]])
-- **Söylemi ve çerçevelemeyi analiz edin.** ENA, [[qualitative-research|nitel]] ve [[multimodal]] verilere (örn. eğitimde ChatGPT’nin YouTube çerçeveleri) uygulanarak kamusal ya da disiplinsel söylemin yapısını ortaya çıkarır. ([[youtube-frames-chatgpt-education]])
-- **Öz bildirim ve ürün ölçütlerini tamamlayın.** Ağ yöntemleri gözlemlenen davranışsal veri kullandığından, öğrenenlerin iddia ettikleri ile gerçekte yaptıkları arasındaki tutarsızlıkları açığa çıkarabilir — bilgi tabanının geri bildirim benimseme literatüründe yinelenen bir bulgu.
+- **Söylemi ve çerçevelemeyi analiz edin.** ENA, [[qualitative-research|nitel]] ve [[multimodal]] verilere (örn. eğitimde [[generative-ai|ChatGPT]]’nin YouTube çerçeveleri) uygulanarak kamusal ya da disiplinsel söylemin yapısını ortaya çıkarır. ([[youtube-frames-chatgpt-education]])
+- **[[self-report-measures|Öz bildirim]] ve ürün ölçütlerini tamamlayın.** Ağ yöntemleri gözlemlenen davranışsal veri kullandığından, öğrenenlerin iddia ettikleri ile gerçekte yaptıkları arasındaki tutarsızlıkları açığa çıkarabilir — bilgi tabanının geri bildirim benimseme literatüründe yinelenen bir bulgu.
 
 - **Graf yapısı, betimleyici bir özet değil, doğrulama büyüklüğü olarak.** [[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]], sentetik kohortların gerçekleri yeniden üretip üretmediğini sınamak için öğrenenler üzerinde sabit bir Öklid eşiğinde haftalık bir yakınlık grafinin bağlı bileşen sayısını — β0 — izler ve bunu tercih eder; çünkü yalnızca grafın belirlediği bir büyüklüktür, modülerlik en üst düzeye çıkarmadan farklı olarak hiçbir optimizasyona ya da rastgele tohumlamaya gerek duymaz ve bileşenin yedide birinden üçte birine kadar bölümünde tek başına kalan öğrenenler için de tanımlı kalır.
 
@@ -79,7 +79,7 @@ Ağ yöntemleri, toplulaştırma ölçütlerinin yanıtlayamadığı soruları y
 
 ## Yaygın yanlış anlamalar
 
-- **“Ağ analizi hesaplamalı olduğu için nesneldir.”** **Kodlama temeldir**: tüm ağ varyantları ham verilerin (söylemler, olaylar, ilişkiler) ayrık düğümlere güvenilir biçimde kodlanmasına dayanır ve otomatik kodlama tanımlarını onları kimin belirlediğinden miras alır. Görselleştirme ortaya çıkan bir yapı gibi görünür, oysa düğümleri yorumsal tercihlerdir.
+- **“Ağ analizi hesaplamalı olduğu için nesneldir.”** **Kodlama temeldir**: tüm ağ varyantları ham verilerin (söylemler, olaylar, ilişkiler) ayrık düğümlere güvenilir biçimde kodlanmasına dayanır ve otomatik kodlama tanımlarını onları kimin belirlediğinden miras alır. [[visualization|Görselleştirme]] ortaya çıkan bir yapı gibi görünür, oysa düğümleri yorumsal tercihlerdir.
 - **“Ağ yapısındaki bir değişim kendi başına öğrenme kazancıdır.”** **Yirmi karma disiplinli lisansüstü öğrencisiyle** yürütülen bir vaka tartışmasında **boyut-3 ortak terim payı %5,2’den %8,0’a yükselirken içerik belirteçleri okuma sonrası düzeylerinin kabaca 0,65 katına düşmüştür**. İki yapısal ölçüt zıt yönlerde hareket etmiştir; bu nedenle “ağ değişti” ifadesi, hangi ölçüt boyunca ve neden önemli olduğu söylenene kadar bir bulgu değildir.
 - **“Daha fazla terim paylaşmak daha iyi işbirliği demektir.”** Ortak terim payının yükselmesi ile içerik belirteçi çeşitliliğinin düşmesi, daha küçük bir sözcük dağarcığında yakınsamayla tutarlıdır. Uzlaşı ile daralma yapısal olarak benzerdir; bu yüzden ölçütün, hesaplandığı içeriğe ihtiyacı vardır.
 

@@ -1,7 +1,7 @@
 ---
 title: "Recupero, spaziatura e interleaving"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T14:14:01-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-10-25T22:20:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,10 @@ La stessa logica attraversa lo studio sul biglietto d'aiuto: [[student-cheat-she
 L'effetto della spaziatura — il fatto che la stessa pratica totale produca un apprendimento più durevole quando distribuita su più sessioni anziché concentrata in una — è la più algoritmicamente sfruttata delle tre tecniche, e i sistemi applicati del corpus sono costruiti attorno a essa.
 
 [[memdora-ai-spaced-repetition|Memdora]] è l'esempio più chiaro di spaziatura trattata come problema di ingegneria. Fondamenta la schedulazione nella curva dell'oblio di Ebbinghaus, cita la cifra per cui circa il **70% del materiale appena appreso viene dimenticato entro 24 ore** senza revisione, e integra **FSRS-6**, descritto come l'algoritmo di ripetizione spaziata allo stato dell'arte. La sua argomentazione è che la sola schedulazione non basta: gli strumenti esistenti riducono l'interazione con le flashcard a un singolo gesto binario, "gira e autovaluta", che gli autori definiscono un modello impoverito e incapace di sfruttare le evidenze delle scienze cognitive sul recupero. Il contributo di Memdora è quindi una **tassonomia di 17 tipologie di interazione fondate su basi cognitive** nelle categorie Lingue, A memoria ed Esame, ciascuna mappata su evidenze peer-reviewed mostrate sulla carta, oltre a un sistema di ricompensa basato sullo sforzo che compensa il reale impegno cognitivo anziché la presenza nell'app, una pipeline di generazione unificata che crea le carte nel momento della lettura, e uno strato per la classe che riporta i [[learning-gains|risultati di apprendimento]] a livello di singola carta.
+
+
+[[bilingual-llm-lecture-companion-srl-2026|Il compagno di lezione bilingue di Malhotra (2026)]] attacca quel costo di authoring dall'altro capo: trascrive lezioni inglese–hindi nel browser e genera flashcard sul dispositivo, costruito per le classi indiane dove i dati UDISE+ collocano l'accesso a internet a circa il 54% delle scuole.
+
 
 [[adaptive-pretesting-retention|Akgun e Toker (2026)]] forniscono l'evidenza sperimentale più forte del corpus su come la spaziatura venga *strutturata*. In uno studio randomizzato a tre bracci su 89 studenti universitari in un corso di statistica applicata, tutti e tre i gruppi si esercitavano in sessioni spaziate con numero e tempistica identici nell'arco di sette settimane; differiva soltanto la struttura dell'interazione. Il recupero spaziato adattivo (G1) ha raggiunto il punteggio più alto al post-test (M = 78,19) e lo sforzo di pratica osservato più alto (M = 0,85); il recupero spaziato fisso (G2) seguiva (M = 74,55, sforzo 0,74); lo studio con IA guidato da chi apprende, senza recupero imposto, arrivava ultimo su entrambe le misure (M = 67,28, sforzo 0,49). L'effetto multivariato era significativo (Λ di Wilks = ,664, η² parziale = ,185), con G1 in vantaggio su G3 nella ritenzione a d = 0,92 (p = ,003). Il dettaglio che conta sul piano pedagogico è che l'agente di G1 era configurato per *trattenere*: probe contingenti alla risposta per le [[misconceptions]], richieste di elaborazione dopo risposte superficiali, avanzamento solo in presenza di un adeguato impegno concettuale, e soluzioni dirette esplicitamente escluse dai suoi output consentiti. L'interpretazione degli autori è che il pretest sia un catalizzatore iniziale anziché un intervento autonomo i cui benefici sopravvivono a un accesso aperto all'IA.
 
