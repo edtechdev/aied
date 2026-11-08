@@ -1,7 +1,7 @@
 ---
 title: "Was sollten Studierende für Berufe lernen, in denen KI alltäglich ist?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,9 +12,9 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -25,9 +25,9 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-Eine studierende Person fragt, warum sie etwas lernen soll, das ein Chatbot bereits erledigt. Eine Programmbeiratsgruppe sagt, Arbeitgeber wollten Absolventinnen und Absolventen, die KI bei der Arbeit nutzen können. Ihr Syllabus muss beides erfüllen, und niemand von beiden hat gesagt, was die Absolventin ohne Hilfe können soll.
+Eine studierende Person fragt, warum sie etwas lernen soll, das ein [[conversational-ai|Chatbot]] bereits erledigt. Eine Programmbeiratsgruppe sagt, Arbeitgeber wollten Absolventinnen und Absolventen, die KI bei der Arbeit nutzen können. Ihr Syllabus muss beides erfüllen, und niemand von beiden hat gesagt, was die Absolventin ohne Hilfe können soll.
 
-Kurze Antwort für eine Kollegin: Lehren Sie die ganze berufliche Aufgabe, nicht die Bedienung des Werkzeugs, und bewerten Sie sowohl das unterstützte Produkt als auch die unabhängige Fähigkeit der studierenden Person. Die Evidenz stützt es, Berufsreife als Fachwissen plus Urteil plus Verifikation plus Transfer zu behandeln, und sie stützt keine Liste von Fertigkeiten als Beschäftigungsgarantie. Eine Befragung von 500 US-College-Lehrenden gegen ein Arbeitgeberpanel ergab, dass die beiden Gruppen bei genau einer von 26 KI-bezogenen Fertigkeiten übereinstimmten, nämlich *realistische Erwartungen an KI-gestützte Arbeit zu setzen*; die Lehrenden gewichteten kritische und verantwortungsvolle Nutzung, die Arbeitgeber Workflow, Automatisierung und Mensch-KI-Teamarbeit ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Das sind berichtete Prioritäten, keine Einstellungsevidenz. Der schärfere Befund für ein Curriculum liegt woanders: In einer Befragung von 455 Studierenden im Abschlussjahr erreichte KI-Kompetenz die wahrgenommene Beschäftigungsfähigkeit vor allem über eine höhere [[career-development-and-readiness|Karriere-Adaptabilität]], mit einem indirekten Effekt von β = 0.173 neben einem direkten β = 0.447 ([[ai-literacy-graduate-employability-2026|Hendrawan und Lestari, 2026]]). Adaptabilität ist eine Fähigkeit, die Sie lehren können. Ein Tool-Tipp ist es nicht.
+Kurze Antwort für eine Kollegin: Lehren Sie die ganze berufliche Aufgabe, nicht die Bedienung des Werkzeugs, und bewerten Sie sowohl das unterstützte Produkt als auch die unabhängige Fähigkeit der studierenden Person. Die Evidenz stützt es, Berufsreife als Fachwissen plus Urteil plus Verifikation plus Transfer zu behandeln, und sie stützt keine Liste von Fertigkeiten als Beschäftigungsgarantie. Eine Befragung von 500 US-College-Lehrenden gegen ein Arbeitgeberpanel ergab, dass die beiden Gruppen bei genau einer von 26 KI-bezogenen Fertigkeiten übereinstimmten, nämlich *realistische Erwartungen an KI-gestützte Arbeit zu setzen*; die Lehrenden gewichteten kritische und verantwortungsvolle Nutzung, die Arbeitgeber Workflow, Automatisierung und [[human-ai-collaboration|Mensch-KI-Teamarbeit]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Das sind berichtete Prioritäten, keine Einstellungsevidenz. Der schärfere Befund für ein [[curriculum-design|Curriculum]] liegt woanders: In einer Befragung von 455 Studierenden im Abschlussjahr erreichte KI-Kompetenz die wahrgenommene Beschäftigungsfähigkeit vor allem über eine höhere [[career-development-and-readiness|Karriere-Adaptabilität]], mit einem indirekten Effekt von β = 0.173 neben einem direkten β = 0.447 ([[ai-literacy-graduate-employability-2026|Hendrawan und Lestari, 2026]]). Adaptabilität ist eine Fähigkeit, die Sie lehren können. Ein Tool-Tipp ist es nicht.
 
 ## Die Kurzfassung
 
@@ -73,13 +73,13 @@ Das sind Anpassungen der Forschungsthemen, keine getesteten Beschäftigungsinter
 
 Textproduktion und Wirtschaftskommunikation: Lassen Sie Studierende eine KI-entworfene Antwort auf eine Kundenbeschwerde kritisieren und überarbeiten. Der Nachweis der Fähigkeit besteht darin, die nicht gestützten Versprechen zu benennen, die Adressatenentscheidungen zu erklären und die endgültige Formulierung zu verteidigen.
 
-Ein quantitativer Kurs kann dasselbe mit einer KI-erzeugten Schätzung für ein realistisches Planungsproblem tun, wobei Studierende ihre eigene Schätzung erstellen, die Annahmen nennen und die Plausibilität prüfen.
+Ein [[quantitative-research|quantitativer]] Kurs kann dasselbe mit einer KI-erzeugten Schätzung für ein realistisches Planungsproblem tun, wobei Studierende ihre eigene Schätzung erstellen, die Annahmen nennen und die Plausibilität prüfen.
 
 Für einen Tabellenkalkulations- oder Informatikkurs geben Sie eine generierte Formel und synthetische Daten aus und verlangen dann Testfälle, eine Erklärung der Bezüge und eine Fehlerbedingung.
 
-Gesundheitsberufe: Studierende bewerten eine generierte Erklärung für einen fiktiven Fall gegen genehmigte Quellen, benennen ihre Grenzen und sagen, wann eine qualifizierte Fachperson entscheiden muss.
+[[medical-education|Gesundheitsberufe]]: Studierende bewerten eine generierte Erklärung für einen fiktiven Fall gegen genehmigte Quellen, benennen ihre Grenzen und sagen, wann eine qualifizierte Fachperson entscheiden muss.
 
-Die Berufserkundung hat ihre eigene Variante: Vergleichen Sie die Aufgabenzusammensetzung zweier Berufe anhand glaubwürdiger Berufsinformationen und planen Sie dann einen konkreten Schritt zur Kompetenzentwicklung oder zur Inanspruchnahme von Hilfe.
+Die Berufserkundung hat ihre eigene Variante: Vergleichen Sie die Aufgabenzusammensetzung zweier Berufe anhand glaubwürdiger Berufsinformationen und planen Sie dann einen konkreten Schritt zur Kompetenzentwicklung oder zur [[help-seeking|Inanspruchnahme von Hilfe]].
 
 Für asynchrone Durchführung verlangen Sie einen ersten Versuch, ein kurzes Verifikationsprotokoll und eine Notiz von zwei Sätzen zu einer folgenreichen Entscheidung. In einem Labor oder Seminar kann die Erklärung im Gespräch stattfinden. Nutzen Sie synthetische oder autorisierte Materialien, wann immer die Alternative vertrauliche Arbeitsplatz- oder Studierendendaten sind.
 
@@ -89,19 +89,21 @@ Ein poliertes Artefakt sagt Ihnen, was unter den erlaubten Bedingungen entstande
 
 Wählen Sie diese Anforderungen, weil sie eine erklärte Fähigkeit stützen, und sagen Sie, welche jede Bewertung misst. Studierende akzeptieren unabhängige Übung, wenn sie mit dem verbunden ist, worauf sie vorbereitet werden; „das brauchen Sie irgendwann" leistet weniger, als zu zeigen, wie die Berechnung es ihnen später erlaubt, eine falsche Schätzung zu erkennen.
 
-Die Unterstützungsseite hat ihr eigenes Risiko. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] fanden GenAI-Nutzung positiv mit GenAI-Abhängigkeit assoziiert und Abhängigkeit negativ mit kritischem Denken und Beschäftigungsfähigkeit in ihrem Befragungsmodell. Das ist eine Assoziation und keine Kausalaussage, und sie zeigt auf die Designfrage: Ein Kurs, der nur unterstützte Leistung bewertet, trainiert möglicherweise die Abhängigkeit, über die er berichtet.
+Die Unterstützungsseite hat ihr eigenes Risiko. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] fanden [[generative-ai|GenAI]]-Nutzung positiv mit GenAI-Abhängigkeit assoziiert und Abhängigkeit negativ mit [[critical-thinking|kritischem Denken]] und Beschäftigungsfähigkeit in ihrem Befragungsmodell. Das ist eine Assoziation und keine Kausalaussage, und sie zeigt auf die Designfrage: Ein Kurs, der nur unterstützte Leistung bewertet, trainiert möglicherweise die Abhängigkeit, über die er berichtet.
+
+Dieselbe Logik gilt, bevor Studierende in den Arbeitsmarkt eintreten. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener et al. (2026)]] modellieren KI-Unterstützung als eine Sequenz, in der Fertigkeit durch unabhängige Übung wächst und verfällt, wenn Arbeitende KI-Antworten akzeptieren. In ihrem Modell können Novizen bei niedriger Fertigkeit gefangen bleiben, und Expertise kann verloren gehen, selbst während die Ausgabegenauigkeit hoch bleibt; strategische Arbeitende können unabhängig lösen, selbst wenn die KI genauer ist, weil künftige Fertigkeit Wert hat. Das Papier ist theoretisch und keine Intervention, aber es schärft die Curriculumfrage: Planen Sie unabhängige Übung ein und belohnen Sie sie, statt anzunehmen, dass KI-gestützte Ausgabe die Fähigkeit aufbaut, die Arbeit zu beaufsichtigen.
 
 Für die Programmrüfung trennen Sie die Maße. Kursleistung, nachgewiesene KI-Kompetenz, Bewertung durch die Praktikumsbetreuung, Beschäftigungsstatus und Arbeitsplatzqualität sind unterschiedliche Ergebnisse mit unterschiedlichen Zeithorizonten, und eine einzelne Intervention kann nicht alle belegen. [[ai-literacy-evidence|Die Evidenzseite zur KI-Kompetenz]] ist das ehrliche Inventar dessen, was Interventionsstudien tatsächlich stützen.
 
 ## Behandeln Sie Karriereangst, ohne Gewissheit zu versprechen
 
-Studierende kommen mit echten Ängsten, und die Befragungsliteratur dazu ist eine Beschreibung der Ängste und keine Prognose des Arbeitsmarkts. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] fanden KI-Angst als direkten negativen Prädiktor von Karriereentscheidungen, was ein Befund über Entscheidungslähmung ist und nicht über Jobs. [[ai-anxiety-wellbeing|Das Bild zum Wohlbefinden]] deckt die breitere Evidenz ab.
+Studierende kommen mit echten Ängsten, und die Befragungsliteratur dazu ist eine Beschreibung der Ängste und keine Prognose des Arbeitsmarkts. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] fanden [[anxiety-and-stress|KI-Angst]] als direkten negativen Prädiktor von Karriereentscheidungen, was ein Befund über Entscheidungslähmung ist und nicht über Jobs. [[ai-anxiety-wellbeing|Das Bild zum Wohlbefinden]] deckt die breitere Evidenz ab.
 
 Was hilft, ist Untersuchung in einem Maßstab, in dem eine studierende Person handeln kann: welche Aufgaben enthält diese Rolle tatsächlich, wie sieht eine Woche aus, was müsste ich können, wer kann es mir sagen. Career Services, Alumni und Platzierungsstellen haben diese Informationen. Eine Werkzeugdemonstration, der Eindruck einer Lehrkraft oder die Präsentation eines Anbieters ist keine Arbeitsmarktprognose, und eine als Prognose zu präsentieren ist der Weg, auf dem Programme ihre Glaubwürdigkeit bei Studierenden verlieren, die dann nachprüfen.
 
 ## Was auf Sie zurückkommen wird
 
-**„Studierende brauchen einfach bessere Prompts."** Prompting ist eine Klausel eines der sechs Teile. Eine gut spezifizierte Anfrage liefert nicht das Wissen, das nötig ist, um ein schlechtes Ergebnis zu erkennen, und auch die Arbeitgeber im Ithaka-Panel haben Prompt-Handwerk nicht an die Spitze gesetzt.
+**„Studierende brauchen einfach bessere [[prompt-engineering|Prompts]]."** Prompting ist eine Klausel eines der sechs Teile. Eine gut spezifizierte Anfrage liefert nicht das Wissen, das nötig ist, um ein schlechtes Ergebnis zu erkennen, und auch die Arbeitgeber im Ithaka-Panel haben Prompt-Handwerk nicht an die Spitze gesetzt.
 
 **„Wenn Arbeitsplätze KI erlauben, sollte die Kursarbeit sie erlauben."** Ein Kurs baut auch die Fähigkeit auf, die verantwortungsvolle Nutzung möglich macht. Sagen Sie, welche der beiden Sie in jeder Aufgabe bewerten, und der Einwand wird zu einer Designfrage statt zu einem Widerspruch.
 
@@ -125,4 +127,4 @@ Was hilft, ist Untersuchung in einem Maßstab, in dem eine studierende Person ha
 
 [[career-development-and-readiness]] ist die Konzeptseite für Beschäftigungsfähigkeit, Adaptabilität und Arbeitsmarktevidenz, und [[ai-literacy]] deckt ab, was Kompetenz über die Werkzeugbedienung hinaus bedeutet. Für den Einbau in einen konkreten Kurs siehe [[incorporating-ai-literacy|KI-Kompetenz einbinden]] und [[faculty-ai-competencies|welche Kompetenzen Lehrende brauchen]].
 
-Für das Assessment-Design, das unterstützte und unabhängige Leistung unterscheidbar macht, siehe [[redesign-assessment-ai-era|Assessment im KI-Zeitalter neu gestalten]] und [[ai-grading-fairness-reliability|KI-Benotung]]. Wie Sie verhindern, dass Unterstützung zu Abhängigkeit wird, behandelt [[reducing-over-reliance|Überabhängigkeit reduzieren]].
+Für das [[assessment|Assessment-Design]], das unterstützte und unabhängige Leistung unterscheidbar macht, siehe [[redesign-assessment-ai-era|Assessment im KI-Zeitalter neu gestalten]] und [[ai-grading-fairness-reliability|KI-Benotung]]. Wie Sie verhindern, dass Unterstützung zu Abhängigkeit wird, behandelt [[reducing-over-reliance|Überabhängigkeit reduzieren]].

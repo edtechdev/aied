@@ -1,7 +1,7 @@
 ---
 title: "Was belegen die Studien zu KI-Kompetenz-Interventionen in der Hochschulbildung?"
 created: "2026-08-24T09:52:00-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ level: [higher ed]
 audience: [instructors, researchers, administrators]
 translation_of: faqs/ai-literacy-evidence
 source_updated: "2026-10-28T11:47:13-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -56,7 +56,7 @@ Hingles und Johris [[meta-analysis-systematic-review|systematische Übersicht]] 
 
 Das **AI Literacy Continuum** der NC State beschreibt eine Progression von *Not Yet Engaged* und *Uncritical Use* über *Informed Use*, *[[critical-thinking|Critical Evaluation]]* und *Improvement* und wurde mit mehr als 330 Teilnehmenden in Kursen und Workshops umgesetzt ([[ai-literacy-continuum-higher-education]]). Seine Beobachtungen legen eine Aufteilung nahe: Kurze Erfahrungen bewegten Studierende in Richtung informierter Nutzung, während kritische Bewertung und Verbesserung vor allem in anhaltender, fachlich eingebetteter Arbeit auftraten. Es gab kein validiertes Prä-/Postmaß und keine Vergleichsgruppe, also ist das praxisbasierte Evidenz.
 
-Die Lehrkräftebildung zeigt dieselbe Obergrenze aus einem anderen Blickwinkel. Die [[design-based-research|designbasierte]] Intervention von Le et al. wurde mit 14 Masterstudierenden pilotiert und mit 29 Studierenden der [[teacher-education|Lehrkräftebildung]] evaluiert. Die berichtete [[self-efficacy|Selbstwirksamkeit]] in KI-Kompetenz stieg, und Studierende verschoben sich zu einer kritischeren [[pedagogy|pädagogischen]] Betrachtung generativer KI, während die Zuwächse bei Ethik nur marginale Signifikanz erreichten. Eine kleine designbasierte Studie dieser Form kann Kompetenz nicht belegen ([[genai-literacy-training-teacher-education-dbr-2026]]).
+Die [[teacher-role|Lehrkräftebildung]] zeigt dieselbe Obergrenze aus einem anderen Blickwinkel. Die [[design-based-research|designbasierte]] Intervention von Le et al. wurde mit 14 Masterstudierenden pilotiert und mit 29 Studierenden der [[teacher-education|Lehrkräftebildung]] evaluiert. Die berichtete [[self-efficacy|Selbstwirksamkeit]] in KI-Kompetenz stieg, und Studierende verschoben sich zu einer kritischeren [[pedagogy|pädagogischen]] Betrachtung generativer KI, während die Zuwächse bei Ethik nur marginale Signifikanz erreichten. Eine kleine designbasierte Studie dieser Form kann Kompetenz nicht belegen ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
 ## Messen Sie, was Studierende können
 
@@ -90,7 +90,7 @@ Die Frage, die daraus folgt, ist die, die Sie Ihrem eigenen Programm stellen sol
 
 ## Was dieses Publikum falsch macht
 
-Ein Workshop ist ein Curriculum. Die Beobachtungen des Continuum verorten kritische Bewertung und Verbesserung in anhaltender, fachlich eingebetteter Arbeit, und Le et al. bewegten Selbstwirksamkeit, ohne Kompetenz zu belegen.
+Ein Workshop ist ein [[curriculum-design|Curriculum]]. Die Beobachtungen des Continuum verorten kritische Bewertung und Verbesserung in anhaltender, fachlich eingebetteter Arbeit, und Le et al. bewegten Selbstwirksamkeit, ohne Kompetenz zu belegen.
 
 Selbstvertrauen ist ein Proxy für Kompetenz. Das GLAT-Ergebnis ist direkt: Ein Performanztest sagte die Aufgabenleistung vorher, ein Selbstauskunftsmaß nicht.
 

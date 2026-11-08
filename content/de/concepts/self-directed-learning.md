@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Selbstgesteuertes Lernen
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,8 +10,8 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-10-25T23:15:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-06T09:20:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -39,26 +39,30 @@ ai_assist:
 
 ## Einführung
 
-Selbstgesteuertes Lernen ist eng verwandt mit —, aber verschieden von — [[self-regulated-learning|selbstreguliertem Lernen (SRL)]]. Während SRL die kognitive, motivationale und verhaltensmäßige Regulierung von Lernen im Moment betont (planen, überwachen, kontrollieren, reflektieren), betont SDL die übergreifende Verantwortung der lernenden Person für die Richtung und das Management ihres eigenen Lernens über die Zeit hinweg, oft in informellen oder selbstgewählten Kontexten. SDL ist fundamental für [[adult-learning|Erwachsenenlernen]] und [[lifelong-learning|lebenslanges Lernen]], und ist eine prominente Theorie in Fern- und Onlinebildung, wo Lernende Autonomie ohne geplante Unterrichtszeit aufrechterhalten müssen. SDL ist auch zunehmend *empirisch untersuchbar*: durch die Analyse der Clickstreams von 315 Online-Lernenden, die 822 Modelle in VERA bauten, identifizierten [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] drei Verhaltenssignaturen von Selbststeuerung — Observation, Construction und Exploration —, und fanden Lernende, die von hands-on-Konstruktion hin zu umfassenderer, hypothesengetriebener Exploration fortschreiten, während Observation über alle Phasen hinweg persistiert, was zeigt, dass der Grad und die Art von Autonomie, die Lernende in einer unstrukturierten Onlineaufgabe ausüben, aus ihren Trace-Daten allein unterschieden werden können.
+Selbstgesteuertes Lernen ist eng verwandt mit —, aber verschieden von — [[self-regulated-learning|selbstreguliertem Lernen (SRL)]]. Während SRL die kognitive, motivationale und verhaltensmäßige Regulierung von Lernen im Moment betont (planen, überwachen, kontrollieren, reflektieren), betont SDL die übergreifende Verantwortung der lernenden Person für die Richtung und das Management ihres eigenen Lernens über die Zeit hinweg, oft in informellen oder selbstgewählten Kontexten. SDL ist fundamental für [[adult-learning|Erwachsenenlernen]] und [[lifelong-learning|lebenslanges Lernen]], und ist eine prominente Theorie in Fern- und [[online-teaching-and-learning|Onlinebildung]], wo Lernende Autonomie ohne geplante Unterrichtszeit aufrechterhalten müssen. SDL ist auch zunehmend *empirisch untersuchbar*: durch die Analyse der Clickstreams von 315 Online-Lernenden, die 822 Modelle in VERA bauten, identifizierten [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] drei Verhaltenssignaturen von Selbststeuerung — Observation, Construction und Exploration —, und fanden Lernende, die von hands-on-Konstruktion hin zu umfassenderer, hypothesengetriebener Exploration fortschreiten, während Observation über alle Phasen hinweg persistiert, was zeigt, dass der Grad und die Art von Autonomie, die Lernende in einer unstrukturierten Onlineaufgabe ausüben, aus ihren Trace-Daten allein unterschieden werden können.
 
 ## Wie generative KI selbstgesteuertes Lernen umformt
 
 Die [[research-methods-aied|Forschung]] der Wissensbasis dokumentiert beide Seiten der GenAI-SDL-Beziehung.
 
 - **KI kann SDL stützen.** [[ai-lifelong-learning-policy|KI und lebenslanges Lernen]] und [[self-directed-growth-generative-ai-learning-analytics|selbstgesteuertes Wachstum mit GenAI + Learning Analytics]] zeigen, dass KI-Werkzeuge unabhängige Inquiry [[scaffolding|gerüsten]], On-Demand-Ressourcen liefern und Lernpfade auf Weisen personalisieren können, die die Autonomie der Lernenden stärken. [[genai-educational-outcomes-meta-analysis|Metaanalytische Evidenz]] zu Bildungsergebnissen generativer KI und [[conversational-ai-informal-learning|konversationelle KI im informellen Lernen]] legen positives Potenzial nahe, wenn KI als eine Ressource genutzt wird, die die lernende Person steuert.
-- **Lernende wollen einen Denkpartner, kein Orakel.** Interviewte erwachsene Lernende wollten, dass KI Reflexion anregt und verifiziert, statt Antworten zu liefern, und sie den Lernpfad kontrollieren lässt statt ihn vorzuschreiben ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
+- **Lernende wollen einen Denkpartner, kein Orakel.** Interviewte erwachsene Lernende wollten, dass KI Reflexion anregt und verifiziert, statt Antworten zu liefern, und sie den [[recommender-systems-and-learning-paths|Lernpfad]] kontrollieren lässt statt ihn vorzuschreiben ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
+
+- **Zielwahl zu delegieren ist nicht dasselbe, wie sie zu unterstützen.** Die Seite behandelt das Setzen des Ziels als Kernakt der lernenden Person, und die Benchmark-Evidenz zeigt, dass Modelle es anders tun. Gegenüber 175 Menschen wählten GPT-5, Claude Sonnet 4.5 und Qwen3 32B in 0,93, 0,93 und 0,94 der Durchläufe das vorherige Ziel erneut, gegenüber 0,54 ± 0,18 bei Menschen. Die Zielentropie lag bei 0,12 bis 0,20 gegenüber 1,67 ± 0,14, und Chain-of-Thought- und Persona-Prompts schlossen die Lücke nicht. Ein System, das vorschlägt, was als Nächstes zu lernen ist, reproduziert eine engere Suche als die lernende Person, die es vertritt ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
 
 - **Gedankenloser Einsatz untergräbt SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] zeigen, dass der **gedankenlose Einsatz von GenAI** — KI-Outputs ohne kritische Evaluation zu übernehmen — das SDL von Undergraduates sowohl direkt als auch durch Erosion von [[self-efficacy|Selbstwirksamkeit]] und [[motivation|Motivation]] signifikant schädigt (das Modell erklärte 75,3% der SDL-Varianz; TUGA β = −0,42). Die negative Wirkung auf Motivation war bei männlichen Studierenden stärker und auf Selbstwirksamkeit stärker bei weiblichen Studierenden. Das verbindet sich mit dem breiteren [[cognitive-offloading|Überabhängigkeitsrisiko]], das in der Wissensbasis dokumentiert ist.
+
+- **Ungeführter Einsatz im Bevölkerungsumfang.** Über 4.062 Lernende an 136 deutschen Sekundarschulen stiegen aufgabenorientierter und lernorientierter GenAI-Einsatz im Verlauf eines Schuljahres (d = 0,35 und 0,33), wobei nur 5 % der Lernenden die Werkzeuge nie nutzten; geringere Vorleistungen sagten in allen sechs Fächern mehr spätere Nutzung voraus, doch keine der beiden Nutzungsformen sagte spätere Leistungen voraus ([[scherer-self-directed-genai-use-secondary-2026|Scherer et al. (2026)]]).
+
 - **Kognitive Auslagerung und Delegation.** [[andragogy-cognitive-delegation-genai-2026|Andragogik und kognitive Delegation]] und [[learning-by-chatting-genai-impact|Lernen durch Chatten mit GenAI]] untersuchen, wie Lernende kognitive Arbeit auf Weisen an KI delegieren können, die die aufwändige Verarbeitung umgehen, die SDL erfordert —, ein Versagensmodus ansonsten autonomiestützender Werkzeuge. [[critical-thinking-genai-scaffolding|Kritisches Denken mit GenAI gerüsten]] und [[test-driven-ai-assisted-learning|testgetriebenes KI-unterstütztes Lernen]] modellieren produktivere Designs.
 
 ## Die SDL-SRL-Unterscheidung in der Praxis
 
 Weil SDL lernendeninitiierte Steuerung betont, fokussieren Interventionen zu ihrem Schutz darauf, [[agency|Handlungsfähigkeit]] und Selbstwirksamkeit zu bewahren, statt bloß Moment-zu-Moment-Verhalten zu regulieren. Die Evidenz, dass gedankenloser KI-Einsatz Motivation und Selbstwirksamkeit erodiert —, die psychologischen Ressourcen, von denen SDL abhängt —, legt nahe, dass [[ai-literacy|verantwortungsvolle KI-Nutzung]] zu fördern nicht nur eine Integritätsfrage ist, sondern eine entwicklungsbezogene: die Fähigkeit der Studierenden zu schützen, ihr eigenes Lernen zu steuern.
 
-
 ## AI-Extraktionsgerüst für forschungsbasiertes Lernen
 
-- **KI-Extraktion als Gerüst für forschungsbasiertes Lernen.** An und Kolleginnen und Kollegen (2026) gestalten ein KI-gestütztes Informationsextraktionssystem, das Forschungspublikationen in strukturierte, nachvollziehbare Datensätze verwandelt, um Undergraduatethesis-Abschluss in [[stem-education|STEM]] zu stützen, positioniert als **epistemisches Gerüst**, das die Inspektion von Beleg-Behauptungs-Beziehungen ermöglicht, während es Anforderungen auf niedriger Datenebene reduziert. In einem 20-Studierende-[[mixed-methods-research|Mixed-Methods]]-Piloten über 80 Dokumente hinweg extrahierten Studierende über 90% der Zielparameter, sank die selbstberichtete Literaturreview-Zeit ~65%, und stieg ihre Fähigkeit, einflussreiche Variablen zu identifizieren, um 50% —, was die Idee stützt, dass [[generative-ai|KI]] kognitive Last hin zu höherstufigem, selbstgesteuertem Forschungsschlussfolgern rebalancieren kann statt zu routinemäßiger Zusammenfassung.
+- **KI-Extraktion als Gerüst für forschungsbasiertes Lernen.** An und Kolleginnen und Kollegen (2026) gestalten ein KI-gestütztes Informationsextraktionssystem, das Forschungspublikationen in strukturierte, nachvollziehbare Datensätze verwandelt, um Undergraduatethesis-Abschluss in [[stem-education|STEM]] zu stützen, positioniert als **epistemisches Gerüst**, das die Inspektion von Beleg-Behauptungs-Beziehungen ermöglicht, während es Anforderungen auf niedriger Datenebene reduziert. In einem 20-Studierende-[[mixed-methods-research|Mixed-Methods]]-Piloten über 80 Dokumente hinweg extrahierten Studierende über 90% der Zielparameter, sank die [[self-report-measures|selbstberichtete]] Literaturreview-Zeit ~65%, und stieg ihre Fähigkeit, einflussreiche Variablen zu identifizieren, um 50% —, was die Idee stützt, dass [[generative-ai|KI]] kognitive Last hin zu höherstufigem, selbstgesteuertem Forschungsschlussfolgern rebalancieren kann statt zu routinemäßiger Zusammenfassung.
 
 ## Verbreitete Fehlvorstellungen
 
@@ -103,6 +107,8 @@ Weil SDL lernendeninitiierte Steuerung betont, fokussieren Interventionen zu ihr
 
 ## Verbundene Artikel
 
+- [[scherer-self-directed-genai-use-secondary-2026]] — Selbstgesteuerter Einsatz generativer KI und akademische Entwicklung bei Sekundarschülerinnen und -schülern: eine groß angelegte Längsschnittstudie über ein Jahr
+
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Gedankenlose GenAI-Nutzung und selbstbestimmtes Lernen (SEM, Geschlechterunterschiede)
 - [[ai-lifelong-learning-policy]] — KI und Politik zum lebenslangen Lernen
 - [[self-directed-growth-generative-ai-learning-analytics]] — Selbstbestimmtes Wachstum mit GenAI und Lernanalytik
@@ -110,3 +116,6 @@ Weil SDL lernendeninitiierte Steuerung betont, fokussieren Interventionen zu ihr
 - [[andragogy-cognitive-delegation-genai-2026]] — Andragogik und kognitive Delegation mit GenAI
 - [[kim-ai-andragogy-2026]] — KI-Anwendungen zur Unterstützung der Andragogik (Kim et al. 2026)
 - [[an-goel-self-directed-modeling-2026]]
+
+- [[llm-goal-selection-self-directed-learning-2026]] — Modelle wählen Lernziele in einer freien Wahlaufgabe nicht wie Menschen (Molinaro et al. 2026)
+

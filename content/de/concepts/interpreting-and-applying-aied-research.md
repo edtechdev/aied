@@ -1,7 +1,7 @@
 ---
 title: AIED-Forschung interpretieren und anwenden
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:55-05:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,8 +13,8 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-25T16:25:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -74,7 +74,7 @@ Wenn Sie sich eine Sache von dieser Seite merken, merken Sie, dass die Schlagzei
 - **Die eigenen Reviews des Felds überstehen Prüfung nicht.** [[oneill-presumed-effective-meta-analysis-2026|O'Neills (2026)]] Prüfung von **14 begutachteten Metaanalysen**, die behaupten, KI verbessere Bildung, fand, dass **keine** eine gültige Basis für die von ihr vertretene Behauptung lieferte, und unter 46 zufällig ausgewählten Primärstudien präsentierten **61%** Validitätsbedenken. Das Problem ist nicht ein schlechtes Papier; es ist eine Berichtskultur.
 - **Ein Review kann die Berichtsverzerrung in seinem eigenen Korpus quantifizieren.** Ein systematischer Review von 155 Hochschulstudien fand, dass 117 (75,5 %) eine erfolgreiche Umsetzung berichteten, 124 (80,0 %) nur kurzfristige Wirkung abdeckten und nur 23 (14,8 %) über [[ethics|Ethik]]-, Gerechtigkeits- oder Governance-Missstände berichteten — das Ungleichgewicht, das die Prüfungen oben beschreiben, gemessen auf der eigenen Evidenzbasis des Reviews ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 - **Selbstauskünfte schmeicheln jedem.** Menschen bewerten ihre eigenen [[ai-literacy|KI-Fähigkeiten]] etwa **40%** höher, als Leistungsmaße zeigen, weshalb Zufriedenheits- und Konfidenzerhebungen die schwächste Evidenz sind, nach der Sie handeln können ([[self-report-measures|Selbstauskunftsmaße]], [[educational-measurement|Bildungsmessung]]).
-- **Die meisten bereits in Klassenräumen befindlichen Produkte haben überhaupt keine unabhängige Evidenz.** Die [[instruction-partners-ai-in-action-learning-tour-2026|Learning Tour von Instruction Partners 2025–26]] profilierte 20 studierendenorientierte KI-Produkte und fand, dass von den 16 mit vollständigen Profilen nur sieben einen unabhängigen Review hatten, der studentische Leistung über Studierendengruppen hinweg in den USA untersuchte; zwei wurden nur im Ausland untersucht, vier hatten Studien in Arbeit und drei stützten sich auf interne Daten allein. Die Autorinnen und Autoren argumentieren, dass unabhängige kausale Studien, die prioritäre Gruppen abdecken, die Erwartung für alle studierendenorientierten Produkte sein sollten – noch nicht die Norm für Werkzeuge, die Schulen bereits nutzen.
+- **Die meisten bereits in Klassenräumen befindlichen Produkte haben überhaupt keine unabhängige Evidenz.** Die [[instruction-partners-ai-in-action-learning-tour-2026|Learning Tour von Instruction Partners 2025–26]] profilierte 20 studierendenorientierte KI-Produkte und fand, dass von den 16 mit vollständigen Profilen nur sieben einen unabhängigen Review hatten, der [[learning-gains|studentische Leistung]] über Studierendengruppen hinweg in den USA untersuchte; zwei wurden nur im Ausland untersucht, vier hatten Studien in Arbeit und drei stützten sich auf interne Daten allein. Die Autorinnen und Autoren argumentieren, dass unabhängige kausale Studien, die prioritäre Gruppen abdecken, die Erwartung für alle studierendenorientierten Produkte sein sollten – noch nicht die Norm für Werkzeuge, die Schulen bereits nutzen.
 
 ## Einen Befund in eine Entscheidung verwandeln
 

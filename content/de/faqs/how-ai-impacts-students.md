@@ -1,7 +1,7 @@
 ---
 title: "Wie beeinflusst KI Studierende?"
 created: "2026-08-27T07:59:08-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education]
 audience: [learners]
 translation_of: faqs/how-ai-impacts-students
 source_updated: "2026-10-28T11:14:23-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -25,7 +25,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-Sie nutzen KI für Kursarbeiten und kommen zurecht, außer dass sich die Klausur ohne Hilfsmittel anfühlte, als würden Sie die Notizen von jemand anderem lesen. Oder jemand sagt, er habe nichts geschrieben und trotzdem eine 1 bekommen, und Sie fragen sich, was das für Sie bedeutet. Oder Sie stellen einem Chatbot inzwischen mehr Fragen als Ihrer Lehrperson.
+Sie nutzen KI für Kursarbeiten und kommen zurecht, außer dass sich die [[summative-assessment|Klausur ohne Hilfsmittel]] anfühlte, als würden Sie die Notizen von jemand anderem lesen. Oder jemand sagt, er habe nichts geschrieben und trotzdem eine 1 bekommen, und Sie fragen sich, was das für Sie bedeutet. Oder Sie stellen einem Chatbot inzwischen mehr Fragen als Ihrer Lehrperson.
 
 Die kurze Antwort, in einer Form, die Sie weitergeben können: KI ist nützlich, wo Sie Feedback brauchen, und wenig hilfreich, wo Sie Übung brauchen. Behalten Sie den Denkschritt für sich, testen Sie sich ohne das Werkzeug, bevor Sie abgeben, und seien Sie ehrlich darüber, was Sie genutzt haben. Der Rest dieser Seite erklärt, warum das gilt und wie es an einem Dienstagabend aussieht.
 

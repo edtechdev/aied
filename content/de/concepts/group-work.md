@@ -1,7 +1,7 @@
 ---
 title: Gruppenarbeit
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-04T18:52:13-05:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-11-04T18:52:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -90,11 +90,11 @@ Eine zweite Forschungsrichtung behandelt KI als Teilnehmer statt als Werkzeug, u
 
 ### Das epistemische Risiko polierten Outputs
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]] konzeptualisiert das Risiko reduzierten epistemischen Aufwands, wenn Lernende KI nutzen, um polierte Wissensartefakte zu erzeugen — [[automation-bias|Automatisierungsbias]] auf der sozial-kognitiven Seite und epistemische Schließung, induziert vom fertigen Artefakt auf der anderen. Das Gegenmittel ist, KI als argumentativen Partner oder Herausforderer zu strukturieren, der Konflikt bewahrt. Der Gegenpunkt kommt von [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], die fanden, dass, wenn LLMs als Kritikpartner agieren und Studierende ihre Behauptungen aktiv widerlegen, Lernende sich als kritische Konsumenten verhalten, die den kognitiven Konflikt der Kritik bewahren statt ihn aufzugeben. Der Unterschied zwischen einem antwortgebenden Teamkollegen und einem herausfordernden Partner bestimmt, ob Gruppenarbeit mit KI Denken aufbaut oder umgeht.
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]] konzeptualisiert das Risiko reduzierten epistemischen Aufwands, wenn Lernende KI nutzen, um polierte Wissensartefakte zu erzeugen — [[automation-bias|Automatisierungsbias]] auf der sozial-kognitiven Seite und epistemische Schließung, induziert vom fertigen Artefakt auf der anderen. Das Gegenmittel ist, KI als argumentativen Partner oder Herausforderer zu strukturieren, der Konflikt bewahrt. Der Gegenpunkt kommt von [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], die fanden, dass, wenn LLMs als Kritikpartner agieren und Studierende ihre Behauptungen aktiv widerlegen, Lernende sich als kritische Konsumenten verhalten, die den kognitiven Konflikt der Kritik bewahren, statt ihn [[cognitive-surrender|aufzugeben]]. Der Unterschied zwischen einem antwortgebenden Teamkollegen und einem herausfordernden Partner bestimmt, ob Gruppenarbeit mit KI Denken aufbaut oder umgeht.
 
 ### Klassenweite, nicht-evaluative Unterstützung
 
-[[breideband-community-builder-cobi-2026|CoBi]] erkennt „aufbauenden“ Kleingruppendiskurs (Respekt, Gerechtigkeit, Gemeinschaft, Denken voranbringen) und gibt nicht-evaluative, klassenweite Visualisierungen zurück — wobei es studierenden- oder gruppenebenes Feedback bewusst vorenthält, um [[privacy|Datenschutz]] und [[trust|Vertrauen]] zu schützen. Studierende bevorzugten [[qualitative-research|qualitative]] Visualisierungen (einen organischen Baum) gegenüber [[quantitative-research|quantitativen]] (einem Radardiagramm). Für die relationale Dimension der Gruppenarbeit stützt klassenweites aggregiertes Feedback den Gemeinschaftsaufbau, wo individuelle Benotung sich überwacht anfühlen würde.
+[[breideband-community-builder-cobi-2026|CoBi]] erkennt „aufbauenden“ Kleingruppendiskurs (Respekt, Gerechtigkeit, Gemeinschaft, Denken voranbringen) und gibt nicht-evaluative, klassenweite [[visualization|Visualisierungen]] zurück — wobei es studierenden- oder gruppenebenes Feedback bewusst vorenthält, um [[privacy|Datenschutz]] und [[trust|Vertrauen]] zu schützen. Studierende bevorzugten [[qualitative-research|qualitative]] Visualisierungen (einen organischen Baum) gegenüber [[quantitative-research|quantitativen]] (einem Radardiagramm). Für die relationale Dimension der Gruppenarbeit stützt klassenweites aggregiertes Feedback den Gemeinschaftsaufbau, wo individuelle Benotung sich überwacht anfühlen würde.
 
 ## Designfolgerungen
 

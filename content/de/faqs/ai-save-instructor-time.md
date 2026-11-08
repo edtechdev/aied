@@ -1,7 +1,7 @@
 ---
 title: "Wie kann mir KI als Lehrkraft Zeit sparen?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -9,7 +9,7 @@ assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
 translation_of: faqs/ai-save-instructor-time
 source_updated: "2026-10-28T11:21:07-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -54,7 +54,7 @@ Das ist Umverteilung, nicht Reduktion: Was Sie durch [[generative-ai|generative 
 
 Die Qualität ist ungleichmäßig, in einem Muster, das stabil genug ist, um damit zu planen. Verblindete Gutachtende bevorzugten KI-Versionen von Stundenabschlüssen und Exit-Tickets in 59.7 % der Fälle gegenüber von Fachleuten gestaltetem Material und bevorzugten KI-Material für Inhalte der Oberstufe in 59.2 % der Fälle. Die Ersparnis wächst zudem dort, wo Ihr Selbstvertrauen am niedrigsten ist: Unterricht außerhalb Ihres eigenen Fachs ist der Fall mit der weitesten Lücke zwischen dem, was das Werkzeug Ihnen gibt, und dem, was Sie allein geschrieben hätten.
 
-Zwei Kategorien laufen in die andere Richtung. Bei Material für die Grundschule wurden Menschen in etwa 65 % der Fälle für die entwicklungsangemessene Passung bevorzugt. Gezielte [[scaffolding|Scaffolds]] für [[multilingual-learning|mehrsprachige]] Lernende und für Studierende in der [[special-education|Sonderpädagogik]] kamen neutral statt falsch zurück, was schlimmer ist, als es klingt, denn ein neutrales Scaffold ist eines, das Sie von Grund auf neu bauen.
+Zwei Kategorien laufen in die andere Richtung. Bei Material für die Grundschule wurden Menschen in etwa 65 % der Fälle für die entwicklungsangemessene Passung bevorzugt. Gezielte [[scaffolding|Scaffolds]] für [[multilingual-learning|mehrsprachige]] [[learners|Lernende]] und für Studierende in der [[special-education|Sonderpädagogik]] kamen neutral statt falsch zurück, was schlimmer ist, als es klingt, denn ein neutrales Scaffold ist eines, das Sie von Grund auf neu bauen.
 
 Der Test, der das vorhersagt, bevor Sie einen Abend darauf verwenden: Können Sie die Spezifikation präzise genug formulieren, um die Ausgabe zu prüfen? Ein Exit-Ticket zu einem Lernziel: ja. Ob ein Absatz zu einem bestimmten neunjährigen Mädchen passt, das zwei Jahre unter ihrer Klasse liest: nein.
 
@@ -84,7 +84,7 @@ Sie können [[automated-essay-scoring|automatische Aufsatzbewertung]] nutzen, we
 
 ## Was Lehrende falsch machen
 
-**„Die 31 % sind meine Zahl.“** Es sind 259 Lehrkräfte aus dem K-12-Bereich im Fach [[science-education|Naturwissenschaften]] bei der Stundenplanung. Die Richtung überträgt sich; die Größe nicht. Ein Seminar, das auf Diskussion gebaut ist, spart vielleicht weniger, und ein Laborkurs mit Sicherheitsauflagen spart vielleicht nichts an dem Teil, für den Sie am meisten Hilfe wollten.
+**„Die 31 % sind meine Zahl.“** Es sind 259 Lehrkräfte aus dem [[k-12|K-12-Bereich]] im Fach [[science-education|Naturwissenschaften]] bei der Stundenplanung. Die Richtung überträgt sich; die Größe nicht. Ein Seminar, das auf Diskussion gebaut ist, spart vielleicht weniger, und ein Laborkurs mit Sicherheitsauflagen spart vielleicht nichts an dem Teil, für den Sie am meisten Hilfe wollten.
 
 **„Zeit sparen ist das Ziel.“** Das Brasilien-Experiment ist das Gegenbeispiel. Die Stunden kamen gratis, und das unterste Quartil gewann nichts. Das Ziel ist, was die Stunden kaufen.
 

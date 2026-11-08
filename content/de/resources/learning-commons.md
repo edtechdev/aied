@@ -1,7 +1,7 @@
 ---
 title: "Learning Commons"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: resource
 summary: "Offene KI-Infrastruktur aus der Bildungsinitiative von Mark Zuckerberg und Priscilla Chan: ein Wissensgraph aus Standards, Curricula und Daten der Lernwissenschaft, Evaluatoren zur Beurteilung von LLM-Ausgaben und modellagnostische Agent Skills für Abläufe von Lehrkräften."
 url: https://learningcommons.org/
@@ -18,8 +18,8 @@ audience: [software developers, educational technology developers, curriculum de
 level: [k 12]
 confidence: high
 translation_of: resources/learning-commons
-source_updated: "2026-11-04T18:11:18-05:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-05T02:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -30,19 +30,25 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-**Learning Commons** ist die Bildungsinitiative von Mark Zuckerberg und Priscilla Chan, 2025 gestartet, um die lernwissenschaftliche Arbeit der Chan Zuckerberg Initiative in die Infrastruktur zu tragen, auf der Edtech-Produkte tatsächlich gebaut werden. Ihr Argument ist infrastrukturell und nicht pädagogisch: Forschung gibt es, akademische Standards gibt es, und hochwertige Curricula gibt es, aber sie liegen in getrennten Systemen, sodass Entwickler auf dem aufbauen, was am leichtesten erreichbar ist. Die Organisation veröffentlicht drei offene Werkzeuge auf GitHub — einen Knowledge Graph, eine Reihe von Evaluatoren und [[agentic-ai|Agent Skills]] — und betreibt eine Plattform, die Curriculum Sync ergänzt, um Curricula in ein [[edtech-platform|Lernmanagementsystem]] zu laden.
+**Learning Commons** veröffentlicht drei offene Werkzeuge, um KI-Funktionen auf echte Curriculum-Inhalte zu setzen — einen **[[knowledge-graph|Knowledge Graph]]** aus akademischen Standards, Curricula und Forschung der Lernwissenschaft, eine Bibliothek von **Evaluatoren** zur Beurteilung generierten Texts und modellagnostische **[[agentic-ai|Agent Skills]]** für gängige Abläufe von Lehrkräften — und betreibt eine Plattform, die Curriculum Sync ergänzt, um Curricula in ein [[edtech-platform|Lernmanagementsystem]] zu laden.
 
 ## Was man damit tun kann
 
-Der **Knowledge Graph** modelliert akademische Standards, Curricula und Forschung der Lernwissenschaft als Entitäten und Beziehungen unter einem gemeinsamen Schema, sodass ein Werkzeug generierte Inhalte an einen Standard ausrichten kann, ohne eine eigene Datenpipeline zu bauen. Die **Evaluators** messen Merkmale von [[llm|LLM-Ausgaben]] durch die Brille der Lernwissenschaft — Textkomplexität, [[feedback]], Ausrichtung an akademischen Standards und dauerhafte Kompetenzen — und kommen mit Python- und TypeScript-SDKs, veröffentlicht auf npm und PyPI, um generierte Inhalte zu bewerten oder Kandidatenmodelle zu vergleichen. **Agent Skills** bündeln Anweisungen, Referenzen und Leitplanken für gängige Abläufe von Lehrkräften in einem offenen, modellagnostischen Format: eine Verständnisprüfung, gestufte Differenzierung von Unterrichtsstunden, standardkonforme Unterrichtspläne und Unterrichtsvorbereitung. In der Praxis ist der Graph das, was die anderen beiden glaubwürdig macht: Die Ausrichtung von Inhalten ist die Behauptung, und der Graph ist die Referenz, gegen die sie geprüft wird.
+**Generierte Inhalte an einen Standard ausrichten.** Der Knowledge Graph modelliert Standards, [[curriculum-design|Curricula]] und Forschung als Entitäten und Beziehungen unter einem gemeinsamen Schema. Ein Produkt kann den Standard nachschlagen, den ein Item adressieren soll, Voraussetzungsbeziehungen durchlaufen oder den Inhalt eines Tutors in dem Curriculum verankern, das er unterrichten soll, ohne eine eigene Datenpipeline zu bauen und zu pflegen.
+
+**Generierte Ausgabe bewerten, bevor Studierende sie sehen.** Die **Evaluatoren** messen Merkmale von [[llm|LLM-Ausgaben]] — Textkomplexität, [[feedback|Feedback]], Ausrichtung an Standards und dauerhafte Kompetenzen — und erscheinen als Python- und TypeScript-SDKs auf npm und PyPI. In der Praxis wirken sie als Regressionsprüfung, wenn sich ein Prompt oder Modell ändert, als Vergleich über Kandidatenmodelle oder als Filter für generierte Items und Erklärungen.
+
+**Einen Ablauf für Lehrkräfte bündeln.** **Agent Skills** bündeln Anweisungen, Referenzen und Leitplanken in einem offenen, modellagnostischen Format: eine Verständnisprüfung, gestufte Differenzierung von Unterrichtsstunden, ein standardkonformer Unterrichtsplan und Unterrichtsvorbereitung. Sie lassen sich in ein Agenten-Framework einsetzen oder als ausgearbeitete Vorlagen dafür lesen, wie viel Struktur ein verlässlicher Klassenraumablauf braucht.
+
+**Ein Curriculum in ein Lernmanagementsystem bringen.** Curriculum Sync ist der Plattformschritt, der eine Standardlandkarte in etwas verwandelt, das ein Kurs im LMS tatsächlich nutzen kann.
 
 ## Für wen es gedacht ist
 
-Entwickler, die KI-Funktionen in Produkte für [[curriculum-design|Curriculum]] und Bewertung einbauen, und die Curriculum- oder Standardteams, die die Daten liefern, an denen diese Produkte ausgerichtet werden. Lehrkräfte können die Agent Skills eigenständig nutzen, doch die Rahmung des Repositories selbst ist Infrastruktur für Menschen, die Werkzeuge ausliefern.
+Entwickler, die KI-Funktionen in Produkte für Curriculum und [[assessment|Bewertung]] einbauen, und die Curriculum- oder Standardteams, die die Daten liefern, an denen diese Produkte ausgerichtet werden. [[teacher-role|Lehrkräfte]] können die Agent Skills eigenständig nutzen, doch die Rahmung des Repositories selbst ist Infrastruktur für Menschen, die Werkzeuge ausliefern.
 
 ## Anmerkungen und Vorbehalte
 
-Offen im [[open-source|Quellcode]] zu sein macht die Daten nicht offen. Der Code des Knowledge Graph steht unter MIT, während jeder Datensatz sein eigenes Zugangslabel trägt — Open, Open + Gated oder Gated — und Gated-Inhalte ausdrücklich nicht von den offenen Lizenzen abgedeckt sind, die das Repository nennt; prüfen Sie also den Datensatzkatalog, bevor Sie Nutzungsrechte annehmen. Der Code der Evaluatoren steht unter MIT und sein Prompt-Inhalt unter CC BY 4.0, doch die annotierten Korpora CLEAR und PERSUADE 2.0, die er verwendet, stehen unter CC BY-NC-SA 4.0. Die Plattform und die dahinterliegenden Datensätze erfordern ein Konto. Aktivität der Repositories nach Stand vom 2026-11-04: 167 Sterne für den Knowledge Graph, 88 für Evaluators, 41 für Agent Skills. Die Initiative wird von CZI finanziert, und ihre Darstellung des Problems ist die des Geldgebers selbst.
+Offen im [[open-source|Quellcode]] zu sein macht die Daten nicht offen. Der Code von Knowledge Graph und Evaluatoren steht unter MIT, Agent Skills unter Apache-2.0, während jeder Datensatz sein eigenes Zugangslabel trägt — Open, Open + Gated oder Gated —, und Gated-Inhalte sind nicht von den offenen Lizenzen abgedeckt, die das Repository nennt; prüfen Sie also den Datensatzkatalog, bevor Sie Nutzungsrechte annehmen. Der Prompt-Inhalt der Evaluatoren steht unter CC BY 4.0, doch die annotierten Korpora CLEAR und PERSUADE 2.0, die er verwendet, stehen unter CC BY-NC-SA 4.0. Die Plattform und die dahinterliegenden Datensätze erfordern ein Konto.
 
 ## Verbundene Konzepte
 

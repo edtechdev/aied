@@ -1,9 +1,9 @@
 ---
 title: "Kann ich KI einsetzen, um die Arbeiten von Studierenden fair und verlässlich zu benoten?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,9 +11,9 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -26,7 +26,7 @@ ai_assist:
 
 Sie haben eine Rubrik, an die Sie glauben, mehr Abgaben als Stunden und ein Werkzeug, das in der Zeit, die eine einzige Arbeit zu lesen braucht, eine Punktzahl plus mehrere selbstsichere Absätze zurückgibt. Sie probieren es an Arbeiten aus, die Sie bereits benotet haben. Die Hälfte der Punktzahlen sieht richtig aus. Eine ist seltsam großzügig, eine seltsam streng, und Sie können noch nicht sagen, ob das am Werkzeug liegt oder an der Arbeit.
 
-Kurze Antwort für eine Kollegin: KI-Benotung verdient ihren Platz als beaufsichtigte Assistenz oder als zweite Leserin, und zwar bei Aufgaben, die Sie gegen bereits benotete Arbeiten geprüft haben. Übereinstimmung überträgt sich nicht von einem Assessmenttyp auf den anderen. In einer Pharmazieprüfung mit sechzehn Studierenden fand [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] nahezu vollständige Übereinstimmung bei objektiven Itemtypen und unzuverlässige Übereinstimmung bei offenen Antworten. An drei englischen Universitäten fand [[opraise-automated-marking-ai-assessment-2026|das OpRaise-Projekt]], dass KI und menschliche Bewertende je nach Institution in 35% bis 65% der Fälle dieselbe Notenstufe vergaben, mit zur Mitte hin zusammengedrückten Noten. Eine flüssige Begründung ist kein Beleg dafür, dass Ihre Kriterien angewendet wurden. Ob das Ergebnis [[assessment-validity|für Ihre Entscheidung gültig ist]], ist eine lokale Frage, die Sie selbst beantworten müssen, und für alles, was zu einer dokumentierten Note wird, [[human-in-the-loop-ai|bleibt ein Mensch rechenschaftspflichtig]].
+Hier die kurze Antwort: KI-Benotung verdient ihren Platz als beaufsichtigte Assistenz oder als zweite Leserin, und zwar bei Aufgaben, die Sie gegen bereits benotete Arbeiten geprüft haben. Übereinstimmung überträgt sich nicht von einem Assessmenttyp auf den anderen. In einer Pharmazieprüfung mit sechzehn Studierenden fand [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] nahezu vollständige Übereinstimmung bei objektiven Itemtypen und unzuverlässige Übereinstimmung bei offenen Antworten. An drei englischen Universitäten fand [[opraise-automated-marking-ai-assessment-2026|das OpRaise-Projekt]], dass KI und menschliche Bewertende je nach Institution in 35% bis 65% der Fälle dieselbe Notenstufe vergaben, mit zur Mitte hin zusammengedrückten Noten. Eine flüssige Begründung ist kein Beleg dafür, dass Ihre Kriterien angewendet wurden. Ob das Ergebnis [[assessment-validity|für Ihre Entscheidung gültig ist]], ist eine lokale Frage, die Sie selbst beantworten müssen, und für alles, was zu einer dokumentierten Note wird, [[human-in-the-loop-ai|bleibt ein Mensch rechenschaftspflichtig]].
 
 ## Die Kurzfassung
 
@@ -48,7 +48,7 @@ Drei Arrangements werden „KI-Benotung" genannt, und sie tragen unterschiedlich
 
 Eine **Feedback-Assistenz** entwirft Kommentare oder markiert mögliche Auslassungen, die Sie annehmen, umschreiben oder verwerfen. Das Risiko bleibt auf die Kommentarqualität begrenzt, und Sie lesen alles, bevor es eine studierende Person erreicht. Eine **zweite Leserin** schlägt Kriterienpunktzahlen vor oder markiert Unstimmigkeiten, um Ihre eigene Bewertung zu strukturieren. Ihre Fehler müssen nützlich sein, nicht bloß falsch: eine Markierung, die Sie zu einer Abgabe zurückschickt, die Sie sonst nachlässig benotet hätten, ist es wert. Eine **primäre Benotung** erzeugt Punktzahlen, die zu dokumentierten Noten werden. Das ist das Arrangement, das die Evidenz in dieser Wissensbasis über enge, lokal validierte Fälle hinaus nicht stützt.
 
-Wählen Sie die niedrigste Sprosse, die Ihre tatsächliche Einschränkung adressiert. Wenn Ihre Bewertungslast aus dem Prüfen eines festen Lösungsschlüssels besteht, ist gewöhnliche deterministische Benotung transparenter und prüfbarer als ein Sprachmodell, und die Pharmaziestudie legt nahe, dass der Vorteil des LLM bei objektiven Items teilweise ein Artefakt davon war, dass ihm während der Benotung die richtigen Antworten vorlagen. Sparen Sie das Modell für Arbeit, die Interpretation braucht, und prüfen Sie dann diese Interpretation.
+Wählen Sie die niedrigste Sprosse, die Ihre tatsächliche Einschränkung adressiert. Wenn Ihre Bewertungslast aus dem Prüfen eines festen Lösungsschlüssels besteht, ist gewöhnliche deterministische Benotung transparenter und prüfbarer als ein [[llm|Sprachmodell]], und die Pharmaziestudie legt nahe, dass der Vorteil des LLM bei objektiven Items teilweise ein Artefakt davon war, dass ihm während der Benotung die richtigen Antworten vorlagen. Sparen Sie das Modell für Arbeit, die Interpretation braucht, und prüfen Sie dann diese Interpretation.
 
 [[automated-assessment|Automatisiertes Assessment]] deckt die weitere Maschinerie von Benotung, Moderation und Feedbackerzeugung ab. Diese Seite ist die Urteilsfrage darunter.
 

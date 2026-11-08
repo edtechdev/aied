@@ -19,7 +19,7 @@ audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
 source_updated: "2026-10-03T02:57:43-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

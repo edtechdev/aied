@@ -1,7 +1,7 @@
 ---
 title: Behaviorismus
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories]
@@ -9,7 +9,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/behaviorism
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -44,19 +44,22 @@ Der Behaviorismus vertritt, dass Lernen das Stärken oder Schwächen von Reiz-Re
 - **Lernen ist Verhaltensveränderung.** Das Ziel ist eine messbare Veränderung der Leistung, kein verinnerlichtes Verständnis. Das macht behavioristische Designs natürlich für beobachtbare Ergebnisse wie Geläufigkeit, Geschwindigkeit und Genauigkeit.
 - **Verstärkung treibt Lernen an.** Richtige Antworten werden verstärkt und Fehler korrigiert, typischerweise mit unmittelbarem Feedback – ein Designmuster, das in KI-Tutoring und Übungssystemen allgegenwärtig ist.([[ai-vocational-education-training-review]])
 - **Kleine Schritte und Gerüst durch Tempogebung.** Der Unterricht wird in inkrementelle Einheiten mit Feedback an jedem Schritt zerlegt, analog dazu, wie adaptive Systeme Übung sequenzieren.
+
+- **Kleine Schritte sind eine Designannahme, und ein randomisierter Test der Tempogebung lief dagegen.** Mit 199 US-amerikanischen Studierenden erzeugte Feedback, das als Ermutigung, dann Hinweise, dann Antwort sequenziert war, schlechteres Lernen als sofort geliefertes Feedback mit der vollständigen Lösung, obwohl Studierende die sequenzierte Variante ermutigender fanden. Der affektive Gewinn wurde durch einen Verhaltenspfad aufgehoben — mehr Wiedereinreichungen pro Aufgabe —, und der Nettoeffekt war schlechteres Lernen ([[sequenced-ai-feedback-learning]]).
+
 - **Die lernende Person ist in der Wissenskonstruktion weitgehend passiv.** Die Umgebung (oder das System) strukturiert und belohnt Antworten; die lernende Person reagiert, statt Bedeutung zu konstruieren – das direkte Gegenteil von [[constructivist|konstruktivistischen]] Annahmen.
 
 ## Behaviorismus und KI in der Bildung
 
 ### Behavioristische Designs dominieren die Praxis
 
-Empirische Arbeiten finden wiederholt, dass tatsächliche KI-Implementierungen überwiegend **behavioristisch oder kognitiv orientiert** sind – mit Betonung auf Üben und Wiederholen, unmittelbares [[feedback]] und adaptive Tempogebung – selbst dort, wo der Diskurs reichere Theorien vertritt. Ein [[meta-analysis-systematic-review|systematischer Review]] zu KI in der beruflichen Bildung und Ausbildung (VET) schlussfolgerte, dass konstruktivistische Theorien im VET-Diskurs vertreten werden, während **behavioristische KI-Implementierungen in der Praxis dominieren**, und warnte vor einer bildungsbezogenen „Turing-Falle" – KI zu nutzen, um menschlichen Unterricht zu replizieren statt zu erweitern.([[ai-vocational-education-training-review]])
+Empirische Arbeiten finden wiederholt, dass tatsächliche KI-Implementierungen überwiegend **behavioristisch oder kognitiv orientiert** sind – mit Betonung auf Üben und Wiederholen, unmittelbares [[feedback]] und adaptive Tempogebung – selbst dort, wo der Diskurs reichere Theorien vertritt. Ein [[meta-analysis-systematic-review|systematischer Review]] zu KI in der [[vocational-education|beruflichen Bildung und Ausbildung]] (VET) schlussfolgerte, dass konstruktivistische Theorien im VET-Diskurs vertreten werden, während **behavioristische KI-Implementierungen in der Praxis dominieren**, und warnte vor einer bildungsbezogenen „Turing-Falle" – KI zu nutzen, um menschlichen Unterricht zu replizieren statt zu erweitern.([[ai-vocational-education-training-review]])
 
 ### Output-Äquivalenz: wenn Verhalten Lernen nicht mehr bescheinigt
 
 Der Behaviorismus definiert Lernen als Veränderung beobachtbaren Verhaltens, was ihn zur Theorie macht, die durch generative KI am direktesten in Verlegenheit gebracht wird: Eine lernende Person kann heute einen Essay, eine Analyse oder funktionierenden Code erzeugen, die nicht von der Arbeit jemandes zu unterscheiden sind, der die Kompetenz hält, die das Artefakt bescheinigen soll. Das beobachtbare Verhalten ist identisch, während das Lernen womöglich nicht stattgefunden hat – ein Fehlschlagmodus, den [[generativism-learning-theory|Generativismus]] das Problem der Verhaltensäquivalenz nennt.
 
-Die Lücke zwischen Leistung und Lernen ist nicht neu, aber KI weitet sie. In einem Feldexperiment mit nahezu tausend Schülerinnen und Schülern der gymnasialen Oberstufe in Mathematik erhöhte uneingeschränkter Zugang zu einem Standardassistenten die Übungsleistung um 48 Prozent, während dieselben Schülerinnen und Schüler später in einer Prüfung ohne Hilfe 17 Prozent unter Peers lagen, die ohne KI geübt hatten; eine mit Leitplanken versehene Tutor-Version beseitigte dieses Defizit weitgehend ([[genai-performance-vs-learning]]). Verhaltensbezogen gelesen geht es bei der Lehre eher um Messung als um Pädagogik: Ein System, das den Output optimiert, kann das eigene Kriterium der Theorie für Lernen erfüllen und zugleich ihren Zweck verfehlen.
+Die Lücke zwischen Leistung und Lernen ist nicht neu, aber KI weitet sie. In einem Feldexperiment mit nahezu tausend Schülerinnen und Schülern der gymnasialen Oberstufe in Mathematik erhöhte uneingeschränkter Zugang zu einem Standardassistenten die Übungsleistung um 48 Prozent, während dieselben Schülerinnen und Schüler später in einer Prüfung ohne Hilfe 17 Prozent unter Peers lagen, die ohne KI geübt hatten; eine mit [[guardrails|Leitplanken]] versehene Tutor-Version beseitigte dieses Defizit weitgehend ([[genai-performance-vs-learning]]). Verhaltensbezogen gelesen geht es bei der Lehre eher um Messung als um [[pedagogy|Pädagogik]]: Ein System, das den Output optimiert, kann das eigene Kriterium der Theorie für Lernen erfüllen und zugleich ihren Zweck verfehlen.
 
 ### Die Spannung zum Konstruktivismus und zur Handlungsfähigkeit
 
@@ -73,7 +76,7 @@ Die Designfrage lautet nicht, ob der Behaviorismus „richtig" ist, sondern ob d
 
 ## Behaviorismus und „Bildung über KI"
 
-Der Behaviorismus tritt auch darin auf, wie Lernende KI als Thema begegnen. Die Theorie ist eine der vier dominanten [[learning-theories|Lerntheorien]] – Behaviorismus, Kognitivismus, Konstruktivismus und Konnektivismus –, die [[generative-ai|generative KI]] Lehrende dazu veranlasst, neu zu befragen.([[generativism-learning-theory]]) Sie wird außerdem in kooperativen Lern- und Designkontexten als Teil des theoretischen Hintergrunds referenziert, den Lernende vermittelt bekommen.([[ccct-cooperative-learning-technique]]) Den Behaviorismus zu verstehen hilft Lernenden zu sehen, warum viele KI-Werkzeuge (und die darauf gebauten Produkte) für Antwort und Verstärkung statt für tiefere Konstruktion gestaltet sind.
+Der Behaviorismus tritt auch darin auf, wie Lernende KI als Thema begegnen. Die Theorie ist eine der vier dominanten [[learning-theories|Lerntheorien]] – Behaviorismus, Kognitivismus, Konstruktivismus und Konnektivismus –, die [[generative-ai|generative KI]] Lehrende durch [[prompt-engineering|Prompting]] dazu veranlasst, neu zu befragen.([[generativism-learning-theory]]) Sie wird außerdem in kooperativen Lern- und Designkontexten als Teil des theoretischen Hintergrunds referenziert, den Lernende vermittelt bekommen.([[ccct-cooperative-learning-technique]]) Den Behaviorismus zu verstehen hilft Lernenden zu sehen, warum viele KI-Werkzeuge (und die darauf gebauten Produkte) für Antwort und Verstärkung statt für tiefere Konstruktion gestaltet sind.
 
 ## Implikationen für Design und Forschung
 
@@ -112,3 +115,4 @@ Der Behaviorismus tritt auch darin auf, wie Lernende KI als Thema begegnen. Die 
 - [[generativism-learning-theory]] — Behaviorismus unter den vier dominanten Theorien, die generative KI zum Überdenken anregt
 - [[ccct-cooperative-learning-technique]] — Behaviorismus, zitiert im Design kooperativen Lernens für die Hochschulbildung
 - [[wang-multi-agent-systems-learning-designers-2025]] — Behavioristische Persona unter kollaborativen Multi-Agenten-Designansätzen
+- [[sequenced-ai-feedback-learning]] — Sequenziertes Hinweis-Feedback schnitt in einem randomisierten Experiment mit 199 Teilnehmenden schlechter ab als sofortiges Feedback mit der vollständigen Lösung

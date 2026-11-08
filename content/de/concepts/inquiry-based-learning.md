@@ -1,7 +1,7 @@
 ---
 title: Erkundungsbasiertes Lernen
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,8 +9,8 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-26T01:30:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -42,7 +42,7 @@ Erkundungsbasiertes Lernen zentriert sich auf studierendengesteuerte Fragen und 
 
 ## Wie erkundungsbasiertes Lernen in der Wissensbasis erscheint
 
-**KI als Mit-Erkundende.** Ein [[meta-analysis-systematic-review|systematisches Review]] zu ChatGPT für erkundungsbasiertes Lernen in STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 Studien) fand ChatGPT hauptsächlich in den Phasen Konzeptualisierung, Untersuchung und Diskussion genutzt — als Lernwerkzeug, Tutor, Lernpeer, Fachexperte und [[teacher-role|Lehr]]-Assistent —, wobei Leistung, [[critical-thinking|kritisches Denken]], [[student-engagement|Engagement]] und Motivation verbessert wurden, während Risiken von Überabhängigkeit, Halluzination und oberflächlichen Schlussfolgerungen bestanden, wenn Ausgabe als autoritativ behandelt wurde.
+**KI als Mit-Erkundende.** Ein [[meta-analysis-systematic-review|systematisches Review]] zu ChatGPT für erkundungsbasiertes Lernen in STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 Studien) fand ChatGPT hauptsächlich in den Phasen Konzeptualisierung, Untersuchung und Diskussion genutzt — als Lernwerkzeug, Tutor, Lernpeer, Fachexperte und [[teacher-role|Lehr]]-Assistent —, wobei Leistung, [[critical-thinking|kritisches Denken]], [[student-engagement|Engagement]] und Motivation verbessert wurden, während Risiken von Überabhängigkeit, [[hallucination-risk|Halluzination]] und oberflächlichen Schlussfolgerungen bestanden, wenn Ausgabe als autoritativ behandelt wurde.
 
 **Problemstellung als Ausgangspunkt.** Ein Quasiexperiment mit 97 Drittklässlern ([[dai-chatbots-problem-posing-primary-2026]]) zeigte, dass GenAI-[[conversational-ai|Chatbots]] Suchmaschinen bei der Problemstellung in Naturwissenschaft deutlich übertrafen, die Fragenqualität verbesserten und stärker integrierte epistemische [[network-analysis|Netzwerke]] erzeugten, während sie kognitive Last senkten.
 
@@ -52,19 +52,23 @@ Erkundungsbasiertes Lernen zentriert sich auf studierendengesteuerte Fragen und 
 
 [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] isolierte den KI-Beitrag von der Erkundung selbst in einer Dreigruppen-Klimastudie: KI-unterstützte Erkundung übertraf reine Erkundungspeers bei Entscheidungsfindung (d = 0,69), mit den größten Gewinnen in Monitoring und adaptivem Management (d = 1,37), während sich grundlegende Datenerhebung über alle Bedingungen hinweg gleich verbesserte.
 
-**[[equity-in-ai-education|Gerechtigkeit]] und Kontext.** Ein konzeptionelles Framework überbrückt generative KI-Mitgestaltung mit offenen Bildungspraktiken, um erkundungsgeführte STEM-Lehre in unterversorgten Kontexten zu unterstützen, unter Nutzung KI-erzeugter, [[multilingual-learning|mehrsprachiger]], kontextuell relevanter [[simulation|Simulationen]].
+**[[equity-in-ai-education|Gerechtigkeit]] und Kontext.** Ein konzeptionelles Framework überbrückt generative KI-Mitgestaltung mit [[open-education|offenen Bildungspraktiken]], um erkundungsgeführte STEM-Lehre in unterversorgten Kontexten zu unterstützen, unter Nutzung KI-erzeugter, [[multilingual-learning|mehrsprachiger]], kontextuell relevanter [[simulation|Simulationen]].
 
 **KI-begleiteter Evidenzvergleich.** [[ai-information-extraction-undergraduate-thesis-2026|An und Kollegen (2026)]] zeigen, wie ein KI-gestütztes Informationsextraktionssystem die Literaturübersicht im Grundstudium von Zusammenfassung hin zu **Evidenzorganisation und -vergleich** verschiebt — Studierende bewegen sich von isoliertem Lesen zu studienübergreifendem Vergleich und evidenzbasierter Begründung zur Unterstützung forschungsbasierten Lernens und des Abschlusses der Thesis. Das konkretisiert, wie [[generative-ai|KI]] Erkundungsprozesse in der [[stem-education|STEM]]-Grundstudienforschung begleiten kann.
 
 ## Warum erkundungsbasiertes Lernen für KI-Integration zählt
 
-Die fragengesteuerte, prozessfokussierte Struktur des IBL ist das natürliche Zuhause produktiver KI-Nutzung: Studierende lernen *mit* KI als Partnerin statt *von* ihr als Ersatz. Die Evidenz der Wissensbasis konvergiert auf eine Kernspannung — KI kann die Friktion von Informationsabruf und Formulierung von Fragen senken (und so [[cognitive-offloading|kognitive Last]] senken und tiefere [[metacognition|Reflexion]] ermöglichen), riskiert aber ohne Designbegleitung Überabhängigkeit und das Umgehen höherer Kognition. Die Rolle der Facilitatorin, das Design der Gerüste und das explizite Lehren von Evaluationsfähigkeiten sind die Hebel, die entscheiden, ob KI Erkundung vertieft oder verdrängt.
+Die fragengesteuerte, prozessfokussierte Struktur des IBL ist das natürliche Zuhause produktiver KI-Nutzung: Studierende lernen *mit* KI als Partnerin statt *von* ihr als Ersatz. Die Evidenz der Wissensbasis konvergiert auf eine Kernspannung — KI kann die Friktion von Informationsabruf und Formulierung von Fragen senken (und so [[cognitive-offloading|kognitive Last]] senken und tiefere [[reflection|Reflexion]] ermöglichen), riskiert aber ohne Designbegleitung Überabhängigkeit und das Umgehen höherer Kognition. Die Rolle der Facilitatorin, das Design der Gerüste und das explizite Lehren von Evaluationsfähigkeiten sind die Hebel, die entscheiden, ob KI Erkundung vertieft oder verdrängt.
+
+Eine Studie ersetzt die Facilitatorin, statt ein Werkzeug neben sie zu stellen. In einem vierwöchigen Pharmakologiekurs wurden 136 Medizinstudierende im zweiten Jahr zwischen facilitatorinnengeleiteter und KI-geleiteter problembasierter Lernarbeit aufgeteilt. Beide Arme gewannen signifikant in Prä-/Post-Multiple-Choice-Tests, und der Unterschied zwischen den Gruppen war nicht signifikant (p = 0,474), doch facilitatorinnengeleitete Gruppen punkteten höher beim kritischen Denken (14,75 gegenüber 13,09, p < 0,001) und bei der Rubrik zur [[group-work|Gruppenarbeit]] (26,51 gegenüber 24,74, p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty und Rao, 2026]]). Erkundungsergebnisse teilen sich nach Art: Inhaltswissen überstand die Substitution, der Schlussfolgerungsprozess nicht — genau das heißt es, die Facilitatorin sei der Hebel.
 
 ### Produktives Scheitern und Erkundung
 
 [[productive-failure|Produktives Scheitern (PF)]] ist der strukturierteste Vetter des erkundungsbasierten Lernens: Lernende erkunden Probleme und erzeugen Lösungen *vor* direkter Instruktion und konsolidieren dann. Beide teilen die Prämisse, dass von Lernenden erzeugte Versuche (selbst gescheiterte) [[prior-knowledge|Vorwissen aktivieren]] und Lernende darauf vorbereiten, von Instruktion zu lernen. Die KI-Zeitalter-PF-[[research-methods-aied|Forschung]] schärft, wie KI Erkundung begleiten sollte, ohne sie kurzzuschließen: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] leiten KI-Designprinzipien ab, um den Kampf durch Problemerkundung und Lösungserzeugung zu bewahren; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] zeigen, dass LLM-Tutoren so gesteuert werden können, dass sie Antworten zurückhalten und mehrere Versuche hervorlocken; [[lukesova-clue-before-correction-2026|Hinweis-vor-Korrektur]]-Aufgaben exemplifizieren hinweisbasierte (statt direkte) Begleitung, die Lernende weiter schlussfolgern lässt. Diese verbinden Erkundung und PF mit dem übergreifenden Imperativ, dass KI den [[desirable-difficulties|produktiven Kampf]] nicht beseitigen darf, durch den dauerhaftes Lernen entsteht.
 
 In Außen-Settings wird derselbe Imperativ räumlich: GenAI kann vorstrukturieren, was Lernende bemerken, bevor sie der Evidenz begegnen, daher schützt eine Feld-zuerst-Sequenz, die erzeugte Erklärung zurückhält, bis Beobachtungen und erste Interpretationen aufgezeichnet sind, die Erkundung ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
+**Eine Karte über 66 Studien verortet generative KI neben der Untersuchung und am seltensten bei der Orientierung.** [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] kodierten die GenAI-Nutzung auf die fünf Erkundungsphasen und fanden Unterstützung am häufigsten in der Untersuchung (45 Studien, 68,2%), dann Schlussfolgerung (29, 43,9%), Diskussion (28, 42,4%) und Konzeptualisierung (27, 40,9%), mit der Orientierung zuletzt (20, 30,3%). Elf Studien deckten alle fünf Phasen ab, 19 eine und neun nannten keine. Nur 8 Studien (12,1%) maßen Erkundungsfähigkeiten, und 4 davon hatten eine Vergleichsbedingung, sodass dies eine Karte davon ist, wo Werkzeuge platziert wurden, statt dessen, was Erkundung gewann.
 
 ## Verbreitete Fehlvorstellungen
 
@@ -109,3 +113,5 @@ In Außen-Settings wird derselbe Imperativ räumlich: GenAI kann vorstrukturiere
 - [[ai-information-extraction-undergraduate-thesis-2026]] — KI-gestützte Informationsextraktion unterstützt Thesis im Grundstudium und forschungsbasiertes Lernen (An et al. 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — KI-unterstützte Erkundung zu sozio-wissenschaftlichen Fragen des Klimawandels
 - [[geoscience-field-learning-genai-2026]] — Ein Feld-zuerst-Instruktionsmodell, das verhindert, dass GenAI vorstrukturiert, was Lernende bemerken (Choi 2026)
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Menschliche Facilitatorin versus KI-vermitteltes problembasiertes Lernen: gleiche Inhaltsgewinne, schwächeres kritisches Denken ohne die Facilitatorin (Shetty & Rao 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — 66-Studien-Karte generativer KI über die fünf Erkundungsphasen, wobei nur 8 Studien Erkundungsfähigkeiten messen

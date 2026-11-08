@@ -1,7 +1,7 @@
 ---
 title: Kulturell relevante Pädagogik
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -50,8 +50,8 @@ KI kann Lehrkräfte dabei unterstützen, Unterricht kulturell responsiv zu gesta
 
 Über die Generierung von Unterricht hinaus verbindet sich CRP mit einer tieferen Kritik: KI-Trainingsdaten und Gestaltungsprozesse kodieren westliche, anglophone epistemische Rahmenwerke, die andere Weisen des Wissens marginalisieren.
 
-- **Epistemische Kolonialität:** Tali-Otmani (2026) argumentiert, dass GenAI-Systeme nicht epistemisch neutral sind — überwiegend westlich-zentrierte Trainingsdaten **marginalisieren minorisiertes Wissen aktiv** und erzeugen eine „doppelte Marginalisierung“ für lernende Menschen mit Behinderungen, deren Erkenntnisweisen sowohl in den Trainingsdaten unterrepräsentiert als auch von der Gestaltung ausgeschlossen sind. Dies erweitert die [[equity-in-ai-education|Gerechtigkeits]]debatte von *Zugang* zu *wessen Wissen validiert wird*.
-- **Verteilung epistemischer Autorität:** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]] schlagen **community-basiertes KI-Lernen** vor, einen Rahmen, der die gelebten und community-basierten Erkenntnisweisen der Lernenden als Bewertungsmaßstab für KI-Ergebnisse neu positioniert. Seine drei Verpflichtungen — **epistemisches Feinabstimmen**, **Verteilung von Autorität** und **[[situated-learning|situiertes]] Urteilsvermögen** — kalibrieren Vertrauen an lokalen Geschichten und Community-Expertise und behandeln Ablehnung und strategische Nicht-Nutzung als gültige CRP-Antworten auf KI.
+- **Epistemische Kolonialität:** Tali-Otmani (2026) argumentiert, dass GenAI-Systeme nicht epistemisch neutral sind — überwiegend westlich-zentrierte Trainingsdaten **marginalisieren minorisiertes Wissen aktiv** und erzeugen eine „doppelte Marginalisierung“ für [[special-education|lernende Menschen mit Behinderungen]], deren Erkenntnisweisen sowohl in den Trainingsdaten unterrepräsentiert als auch von der Gestaltung ausgeschlossen sind. Dies erweitert die [[equity-in-ai-education|Gerechtigkeits]]debatte von *Zugang* zu *wessen Wissen validiert wird*.
+- **Verteilung epistemischer Autorität:** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]] schlagen **community-basiertes KI-Lernen** vor, einen Rahmen, der die gelebten und community-basierten Erkenntnisweisen der Lernenden als Bewertungsmaßstab für KI-Ergebnisse neu positioniert. Seine drei Verpflichtungen — **epistemisches [[llm-training-and-fine-tuning|Feinabstimmen]]**, **Verteilung von Autorität** und **[[situated-learning|situiertes]] Urteilsvermögen** — kalibrieren Vertrauen an lokalen Geschichten und Community-Expertise und behandeln Ablehnung und strategische Nicht-Nutzung als gültige CRP-Antworten auf KI.
 
 ### Kulturell begründete Daten und Evaluation
 
@@ -75,7 +75,7 @@ Auf der Grundlage der eigenen Artikel der Wissensdatenbank können Lehrende und 
 
 ## Verbreitete Fehlvorstellungen
 
-**„KI-Ausgaben sind kulturell neutral, solange man nicht nach Kultur fragt.“** Der Standard ist nicht neutral, sondern dominant. Eine Analyse von **310 KI-generierten Unterrichtsplänen für politische Bildung (2.230 Aktivitäten)** fand **94% ohne erkennbaren multikulturellen Inhalt** — und von den 144 Aktivitäten, die welchen hatten, lagen **137 auf der niedrigsten „Additive“-Stufe, nur eine erreichte „Transformation“, und keine erreichte „Social Action“.** Ohne entsprechenden Prompt reproduzierten die Modelle einen nicht-diversen Standard, sodass das Fragen nach Kultur keine Bias-Minderung ist, sondern der einzige Grund, warum überhaupt etwas davon auftaucht.
+**„KI-Ausgaben sind kulturell neutral, solange man nicht nach Kultur fragt.“** Der Standard ist nicht neutral, sondern dominant. Eine Analyse von **310 KI-generierten Unterrichtsplänen für politische Bildung (2.230 Aktivitäten)** fand **94% ohne erkennbaren multikulturellen Inhalt** — und von den 144 Aktivitäten, die welchen hatten, lagen **137 auf der niedrigsten „Additive“-Stufe, nur eine erreichte „Transformation“, und keine erreichte „Social Action“.** Ohne entsprechenden Prompt reproduzierten die Modelle einen nicht-diversen Standard, sodass das [[prompt-engineering|Fragen nach Kultur]] keine [[bias-mitigation|Bias-Minderung]] ist, sondern der einzige Grund, warum überhaupt etwas davon auftaucht.
 
 **„Multikulturelle Beispiele hinzuzufügen ist kulturell relevante Pädagogik.“** Die Hierarchie des Rahmenwerks sagt etwas anderes, und die generierte Ausgabe zeigt, warum die Unterscheidung operativ wichtig ist. Additiver Inhalt lässt Struktur und Annahmen der Einheit unberührt; Transformation verändert, wie der Inhalt gerahmt wird; Social Action verlangt von Lernenden, darauf zu handeln. Repräsentation mit Transformation zu verwechseln, ist der Grund, warum ein Korpus zu 6% nicht leer an Diversität sein und dennoch weit von kulturell responsiv entfernt sein kann.
 

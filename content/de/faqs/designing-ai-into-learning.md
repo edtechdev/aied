@@ -1,7 +1,7 @@
 ---
 title: "Wie sollte KI in die Lernerfahrung designed werden?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-01T11:34:42-05:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, pedagogy, scaffolding]
 audience: [instructional designers, instructors]
 translation_of: faqs/designing-ai-into-learning
 source_updated: "2026-10-31T14:05:47-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -28,7 +28,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-Die Modulübersicht enthält eine Zeile „KI-Aktivität", und niemand kann sagen, was sie ersetzt. Oder eine Lehrkraft hat gebeten, einem Kurs, der bereits funktioniert, einen Chatbot hinzuzufügen, und Ihre Aufgabe ist, ihn so zu platzieren, dass der Teil nicht bricht, der den Kurs zum Funktionieren gebracht hat.
+Die Modulübersicht enthält eine Zeile „KI-Aktivität", und niemand kann sagen, was sie ersetzt. Oder eine Lehrkraft hat gebeten, einem Kurs, der bereits funktioniert, einen [[conversational-ai|Chatbot]] hinzuzufügen, und Ihre Aufgabe ist, ihn so zu platzieren, dass der Teil nicht bricht, der den Kurs zum Funktionieren gebracht hat.
 
 Gehen Sie vom Lernziel aus und von der Aktivität, die es erzeugt. Dasselbe Modell kann ein Gerüst, ein [[socratic-method|sokratischer]] Partner, ein Leser von Entwürfen, eine [[simulation|Simulation]] oder eine Antwortmaschine sein, und welches Sie bekommen, hängt vom Design ab und nicht vom Modell. Benennen Sie den Modus, den Sie bauen, setzen Sie den Versuch der lernenden Person vor jede erscheinende Hilfe, und halten Sie mindestens einen Weg durch den Kurs offen, der ohne das Werkzeug läuft.
 
@@ -76,7 +76,7 @@ Zwei Lehren folgen daraus für das KI-Design. Setzen Sie das Werkzeug dorthin, w
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] behandelt Zeit als gestaltetes Gerüst und nicht als Eigenschaft der lernenden Person: Ein Kurs im eigenen Tempo hat ein wöchentliches Zeitbudget von etwa 100 Minuten bei einem Ziel von nahezu 20 Minuten pro Tag, zeitbewusste Erinnerungen, ein Fortschrittsdashboard und eine kurze Prüfung am Ende jedes Unterkapitels mit 3 bis 12 Fragen. Die Ausgangslage, auf die dieses Design antwortet, ist deutlich: Fast 25 Prozent von über 600 Lernenden beginnen erst in der letzten Woche, und 95 Prozent dieser Gruppe scheitern.
 
-Lesen Sie das als Designhinweis, nicht als belegten Effekt. Die Arbeit vergleicht einen späteren Kurs mit einem früheren, statt eine kontrollierte Studie durchzuführen, sodass sich die Verbesserung nicht vom Wechsel von Kohorte und Fach trennen lässt, und Erinnerungen, die stark genug sind, den Lernzeitpunkt zu verschieben, sind zugleich eine [[privacy|Datenschutz]]frage, die Sie im Syllabus beantworten müssen.
+Lesen Sie das als Designhinweis, nicht als belegten Effekt. Die Arbeit vergleicht einen späteren Kurs mit einem früheren, statt eine [[rct|kontrollierte Studie]] durchzuführen, sodass sich die Verbesserung nicht vom Wechsel von Kohorte und Fach trennen lässt, und Erinnerungen, die stark genug sind, den Lernzeitpunkt zu verschieben, sind zugleich eine [[privacy|Datenschutz]]frage, die Sie im Syllabus beantworten müssen.
 
 ## Entscheiden Sie, was Sie zurückhalten, und wann Sie es wieder freigeben
 
@@ -104,7 +104,7 @@ Effizienz ist das Ziel der Neugestaltung. Lernziele und Rubriken mit einem Model
 
 **„Wir haben keine Zeit, einen ganzen Kurs neu zu sequenzieren."** Dann sequenzieren Sie ein Modul und eine Prüfung neu. Der Übergang von Zurückhalten zu Verstärken ist ein Prüfpunkt, und die Sequenz aus erst denken, dann KI sind drei Anweisungen auf einem Handout.
 
-**„Unsere KI-Funktion enthält bereits Leitplanken."** Leitplanken beschränken, was das Modell sagt. Sie entscheiden nicht, ob die lernende Person zuerst einen Versuch gemacht hat, ob die Unterstützung ausblendet oder ob ein Weg ohne KI existiert. Das sind Designentscheidungen in Ihrem Kurs, nicht Einstellungen im Produkt.
+**„Unsere KI-Funktion enthält bereits Leitplanken."** [[guardrails|Leitplanken]] beschränken, was das Modell sagt. Sie entscheiden nicht, ob die lernende Person zuerst einen Versuch gemacht hat, ob die Unterstützung ausblendet oder ob ein Weg ohne KI existiert. Das sind Designentscheidungen in Ihrem Kurs, nicht Einstellungen im Produkt.
 
 ## Was Sie diese Woche tun können
 

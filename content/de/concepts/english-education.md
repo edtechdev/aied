@@ -1,7 +1,7 @@
 ---
 title: Englischunterricht (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -11,8 +11,8 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-10-26T08:45:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-06T03:00:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -48,7 +48,7 @@ Dieses Konzept organisiert KI-[[research-methods-aied|Forschung]] im **Englischu
 - **Akademisches Englisch (EAP):** KI-Unterstützung für das genrebasierte, fachspezifische Englisch, das in Schreiben, Lesen und Feedback in der Hochschulbildung verwendet wird — unterschieden von allgemeinem Schreibunterricht.
 - **Englischunterricht (EFL/ESL/L2):** [[intelligent-tutoring|KI-Tutoren]], Gesprächspartnerinnen und -partner und [[feedback|Feedback]]-Werkzeuge für Lernende, die Englisch erwerben.
 - **Englissspezifisches [[assessment|Assessment]]:** automatisierte Bewertung und Feedback zu englischem Schreiben und Sprechen, einschließlich Überarbeitung von EAP-Texten und Assessment von L2-Schreiben.
-- **Lesbarkeit von Lektüre und Literatur:** [[bird-multimodal-educational-literature-2026|Bird (2026)]] verschmilzt transformerbasierte Textklassifikation mit Merkmalen der Computerlinguistik, um englische Literatur nach UK Key Stage zu klassifizieren, und erreicht ein F1 von 0.996 — eine skalierbare, datengetriebene Ergänzung zu genrebasierter EAP-Leseunterstützung und Ausrichtung an Leseniveaus.
+- **[[reading-education|Lesbarkeit]] von Lektüre und Literatur:** [[bird-multimodal-educational-literature-2026|Bird (2026)]] verschmilzt transformerbasierte Textklassifikation mit Merkmalen der Computerlinguistik, um englische Literatur nach UK Key Stage zu klassifizieren, und erreicht ein F1 von 0.996 — eine skalierbare, datengetriebene Ergänzung zu genrebasierter EAP-Leseunterstützung und Ausrichtung an Leseniveaus.
 - **Sprachliche Gerechtigkeit:** die Spannung zwischen der Englischdominanz der KI und den Bedürfnissen mehrsprachiger und World-Englishes-Schreibender.
 
 ## Wie Englischunterricht sich von Sprachenlernen unterscheidet
@@ -58,7 +58,7 @@ Dieses Konzept organisiert KI-[[research-methods-aied|Forschung]] im **Englischu
 | Dimension | [[language-learning]] | **Englischunterricht (diese Seite)** |
 |-----------|----------------------|-----------------------------------|
 | Zielsprache | Jede L2 (Französisch, Spanisch, Japanisch, …) | Englisch spezifisch |
-| Fokus | L2-Erwerb allgemein: gesprochener Dialog, Aussprache, Literalität | Englisch als Zielsprache + das akademisch-englische Register |
+| Fokus | L2-Erwerb allgemein: [[speech-and-voice-technologies|gesprochener Dialog]], Aussprache, Literalität | Englisch als Zielsprache + das akademisch-englische Register |
 | Kennzeichnende Kontexte | Konversation, Aussprache, allgemeine Flüssigkeit | **EAP**: akademisches Schreiben, Lesen, Feedback, Genre |
 | Repräsentative KI | L2-Gesprächspartner, [[speech-and-voice-technologies|Aussprache-Feedback]], robotergestützte L2 | EAP-Schreibwerkzeuge, EFL-Peer-Feedback, Assessment akademischen englischen Schreibens |
 
@@ -88,12 +88,12 @@ Viele Artikel zu Schreibunterricht sind englischfirst (z. B. [[marked-pedagogies
 
 Die Englischdominanz der KI ist ein bestimmendes Merkmal dieses Strangs. Weil Modelle am stärksten im Englischen und spezifisch im Standard-Akademisch-Englisch sind, profitiert Englischunterricht sowohl überproportional (mächtige EAP-Stützen) als auch trägt er kennzeichnende Risiken (monolinguale Voreingenommenheit, Diskriminierung von World Englishes und mehrsprachigen Schreibenden). Forschung hier verbindet sich mit [[equity-in-ai-education|Gerechtigkeit]], [[bias-mitigation|Bias-Minderung]], [[automated-assessment|automatisiertem Assessment]], [[ai-feedback-quality|Qualität von KI-Feedback]] und [[academic-integrity|akademischer Integrität]].
 
-Eine auf Scopus basierende Synthese von 54 EFL-Studien verortet die am häufigsten berichteten [[limitations-in-aied-research|Grenzen]] des Felds in der Autonomie der Lernenden: [[cognitive-offloading|Übernutzung]] von KI in 27 Studien (50%) und vermindertes [[critical-thinking|kritisches Denken]] in 25 (46%), gegenüber unzuverlässiger KI-generierter Ausgabe in 22 (41%) als dem führenden technischen Problem ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
+Eine auf Scopus basierende Synthese von 54 EFL-Studien verortet die am häufigsten berichteten [[limitations-in-aied-research|Grenzen]] des Felds in der [[agency|Autonomie]] der Lernenden: [[cognitive-offloading|Übernutzung]] von KI in 27 Studien (50%) und vermindertes [[critical-thinking|kritisches Denken]] in 25 (46%), gegenüber unzuverlässiger KI-generierter Ausgabe in 22 (41%) als dem führenden technischen Problem ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
 
 ## Implikationen für Lehrende in Englisch / EAP / EFL-ESL
 
 - **Die Stärke der KI für akademisches Englisch gezielt nutzen.** Weil Modelle im Englischen und im Standard-Akademisch-Englisch am stärksten sind, können EAP-Lehrende KI für genrebasiertes Schreiben, Differenzierung von Lesematerial ([[genai-differentiated-eap-reading-materials-2026|EAP-Material]]) und Überarbeitungsfeedback einsetzen — sollten KI aber als Partner für Entwurf und Feedback rahmen, nicht als Antwortmaschine.
-- **Akademisch-englisches Register und Feedback-Kompetenz schützen.** [[feedback-literacy-scripts-eap-writing|EAP-Textüberarbeitung]] zeigt, dass Feedback nur so produktiv ist wie die Feedback-Kompetenz der lernenden Person — bringen Sie Studierenden bei, KI-Feedback zu interpretieren, zu beurteilen und darauf zu reagieren, und nutzen Sie Zweitbewertungsmechanismen, um KI-Qualität zu prüfen.
+- **Akademisch-englisches Register und [[feedback-literacy|Feedback-Kompetenz]] schützen.** [[feedback-literacy-scripts-eap-writing|EAP-Textüberarbeitung]] zeigt, dass Feedback nur so produktiv ist wie die Feedback-Kompetenz der lernenden Person — bringen Sie Studierenden bei, KI-Feedback zu interpretieren, zu beurteilen und darauf zu reagieren, und nutzen Sie Zweitbewertungsmechanismen, um KI-Qualität zu prüfen.
 - **Die Gerechtigkeitsspannung der Englischdominanz im Blick behalten.** Modelle privilegieren Standard-Akademisch-Englisch und marginalisieren dabei World Englishes und mehrsprachige Schreibende ([[genai-linguistic-diversity-academic-writing|World Englishes]], [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]) — prüfen Sie Feedback auf monolingualen Bias und gesenkte Erwartungen.
 - **KI ethisch in EAP integrieren.** [[alharbi-ethical-genai-eap-2026|Ethisches GenAI in EAP]] fordert transparenten, verantwortungsvollen Einsatz im Englischunterricht der [[higher-ed|Hochschulbildung]], der akademische Integrität wahrt.
 - **Vorsichtige, vorbereitungsfirstige Übernahme erwarten.** Ein [[li-language-educators-genai-review-2026|systematischer Review von 23 Studien]] (Li et al. 2026) findet, dass Sprachlehrende [[generative-ai|GenAI]] am meisten für hinter-den-Kulissen-Vorbereitung schätzen — Unterrichtsplanung, Materialerstellung und Unterstützung/Feedback beim Schreiben —, während sie bei direkter Nutzung im Kursraum zögern, wobei sich die zentralen Bedenken auf [[academic-integrity|akademische Integrität]] (Plagiat und [[assessment-validity|Assessment-Validität]]) konzentrieren. Übernahme wird durch berufsidentitätsbezogene, [[pedagogy|pädagogische]], technische, [[governance|institutionelle]] und integritätsbezogene Faktoren geprägt, und Kompetenzlücken bilden sich ab auf episteme (Fähigkeiten und Grenzen der KI verstehen), techne ([[prompt-engineering]], KI-ergänztes Aufgaben-/Assessment-Design, Erkennen KI-erzeugter Texte) und phronesis ([[ethics|ethisches]] Urteilen, Umgang mit Bias/Datenschutz) — EAP/EFL-Lehrende sollten diese Kompetenzen daher absichtlich aufbauen und eine Umsetzung nach dem Muster „zuerst Backend, dann Kursraum“ planen.
@@ -111,6 +111,7 @@ Eine auf Scopus basierende Synthese von 54 EFL-Studien verortet die am häufigst
 
 - [[language-learning]]
 - [[writing-education]]
+- [[reading-education]]
 - [[multilingual-learning]]
 - [[higher-ed]]
 - [[k-12]]

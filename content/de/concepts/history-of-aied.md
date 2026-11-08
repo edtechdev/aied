@@ -1,15 +1,15 @@
 ---
 title: Geschichte der KI in der Bildung
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 translation_of: concepts/history-of-aied
-source_updated: "2026-10-25T13:10:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-05T15:16:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -24,7 +24,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **Geschichte der KI in der Bildung** — die Untersuchung, wie künstliche Intelligenz und Bildung seit der Mitte des 20. Jahrhunderts ko-evolviert sind, und wie vergangene konzeptuelle, terminologische und Design-Entscheidungen die heutigen Debatten über KI beim Lernen weiterhin formen. Statt generative KI als plötzliche, beispiellose Kraft zu behandeln, offenbart eine historische Linse wiederkehrende Spannungen — Kontrolle gegenüber Handlungsfähigkeit, Standardisierung gegenüber Kreativität, Automatisierung gegenüber Anreicherung —, die KI in der Bildung seit ihren Anfängen strukturiert haben.
+> **Geschichte der [[ai-education|KI in der Bildung]]** — die Untersuchung, wie künstliche Intelligenz und Bildung seit der Mitte des 20. Jahrhunderts ko-evolviert sind, und wie vergangene konzeptuelle, terminologische und Design-Entscheidungen die heutigen Debatten über KI beim Lernen weiterhin formen. Statt generative KI als plötzliche, beispiellose Kraft zu behandeln, offenbart eine historische Linse wiederkehrende Spannungen — Kontrolle gegenüber Handlungsfähigkeit, Standardisierung gegenüber [[creativity|Kreativität]], Automatisierung gegenüber Anreicherung —, die KI in der Bildung seit ihren Anfängen strukturiert haben.
 
 ## Fragen zum Nachdenken
 
@@ -33,7 +33,7 @@ ai_assist:
 - Die Seite rahmt die Geschichte der AIED als Spannung zwischen Kontrolle (Andersons kognitive Tutoren, die Instruktion optimieren) und Handlungsfähigkeit (Paperts Konstruktionismus, der Lernende ermächtigt). Wo fallen Ihre eigenen KI-in-der-Bildung-Entscheidungen auf diesem Spektrum — und warum?
 - Personalisierung, so argumentiert die Seite, hat zwei Bedeutungen: den Weg zum selben Ergebnis variieren, oder vielfältige, lernendengeleitete Ergebnisse ermöglichen. Welche Art von Personalisierung verfolgt Ihre Institution tatsächlich, und welche sollte sie Ihrer Meinung nach verfolgen?
 - Wenn die heutigen GenAI-Debatten diese historischen Spannungen „spiegeln", welche vergangenen Fehler könnten wir wiederholen — und was könnten wir vermeiden, indem wir uns an sie erinnern?
-- Die Seite behauptet, technische Designentscheidungen betteten Werturteile über den Zweck des Lernens ein. Können Sie eine Designentscheidung in einem KI-Bildungswerkzeug identifizieren, das Sie genutzt haben, das heimlich Standardisierung gegenüber lernendenseitiger Handlungsfähigkeit begünstigte — oder umgekehrt?
+- Die Seite behauptet, technische Designentscheidungen betteten Werturteile über den Zweck des Lernens ein. Können Sie eine Designentscheidung in einem KI-Bildungswerkzeug identifizieren, das Sie genutzt haben, das heimlich Standardisierung gegenüber [[agency|lernendenseitiger Handlungsfähigkeit]] begünstigte — oder umgekehrt?
 
 ## Einführung
 
@@ -45,11 +45,13 @@ Die Geschichte des Felds ist keine lineare Progression, sondern eine Serie konti
 
 **Die kognitive Revolution und die Wurzeln der ITS.** Frühe Pioniere — Herbert Simon, Allen Newell, Marvin Minsky, John Anderson — modellierten nicht bloß Kognition; sie untersuchten grundlegende Fragen über Lernen und Instruktion. Ihre Arbeit produzierte informationsverarbeitende Modelle menschlicher Kognition, die grundlegend für die pädagogische Psychologie wurden, und führte zu [[intelligent-tutoring|Intelligent Tutoring Systems (ITS)]], verwurzelt in den heuristischen Such- und Expertensystem-Paradigmen der KI der 1960er–70er Jahre. Diese Systeme stimmten natürlich mit bestehenden Strukturen von Assessment und Standardisierung überein und schlossen sich schließlich zur AIED-Gemeinschaft zusammen.
 
-**Kontrolle gegenüber Handlungsfähigkeit: Anderson und Papert.** Zwei konkurrierende Visionen entstanden, verkörpert in John Anderson und Seymour Papert. **Andersons** [[intelligent-tutoring|kognitive Tutoren]] (ACT/ACT-R-Theorie) zerlegten Wissen in Produktionsregeln, lieferten präzises individualisiertes Feedback und verstärkten traditionelle Bildungsstrukturen — eine Vision von KI als Werkzeug zur Optimierung von Instruktion. **Paperts** [[constructivist|Konstruktionismus]] (Logo, „microworlds", debugging-as-learning) sah Computer als Umgebungen, in denen Kinder Wissen durch kreatives Experimentieren konstruieren — eine Vision von KI als Instrument intellektueller Ermächtigung, das institutionelle Hierarchien herausforderte. Diese „wesentliche Spannung" zwischen Kontrolle und Handlungsfähigkeit ist der rote Faden der Geschichte des Felds.
+**Kontrolle gegenüber Handlungsfähigkeit: Anderson und Papert.** Zwei konkurrierende Visionen entstanden, [[embodied-learning|verkörpert]] in John Anderson und Seymour Papert. **Andersons** [[intelligent-tutoring|kognitive Tutoren]] (ACT/ACT-R-Theorie) zerlegten Wissen in Produktionsregeln, lieferten präzises individualisiertes Feedback und verstärkten traditionelle Bildungsstrukturen — eine Vision von KI als Werkzeug zur Optimierung von Instruktion. **Paperts** [[constructivist|Konstruktionismus]] (Logo, „microworlds", debugging-as-learning) sah Computer als Umgebungen, in denen Kinder Wissen durch kreatives Experimentieren konstruieren — eine Vision von KI als Instrument intellektueller Ermächtigung, das institutionelle Hierarchien herausforderte. Diese „wesentliche Spannung" zwischen Kontrolle und Handlungsfähigkeit ist der rote Faden der Geschichte des Felds.
 
-**Zwei Formen der Personalisierung.** [[personalized-learning|Personalisierung]] hat zwei verschiedene Interpretationen, die auf diese Visionen abbilden. Die erste behält gleichförmige Ergebnisse bei, während sie den Weg variiert (verwurzelt in Skinners Lehrmaschinen; die Khan-Academy-Vision von Tutoring zur Meisterschaft). Die zweite umarmt vielfältige Ergebnisse — Lernende, die individuelle Interessen und Talente verfolgen, ungebunden durch Grenzen des Standardcurriculums (Zhao, 2024). Das ITS-Modell stützt die erstere; Konstruktionismus die letztere.
+**Zwei Formen der Personalisierung.** [[personalized-learning|Personalisierung]] hat zwei verschiedene Interpretationen, die auf diese Visionen abbilden. Die erste behält gleichförmige Ergebnisse bei, während sie den Weg variiert (verwurzelt in Skinners Lehrmaschinen; die Khan-Academy-Vision von Tutoring zur Meisterschaft). Die zweite umarmt vielfältige Ergebnisse — Lernende, die individuelle Interessen und Talente verfolgen, ungebunden durch Grenzen des [[curriculum-design|Standardcurriculums]] (Zhao, 2024). Das ITS-Modell stützt die erstere; Konstruktionismus die letztere.
 
-**Lektionen für das GenAI-Zeitalter.** Die heutigen Debatten über generative KI spiegeln diese historischen Spannungen eng. GenAI wird oft als intelligenter Tutor der nächsten Generation positioniert (Anderson fortschreibend), was Bedenken über Überwachung, Datensammlung und Standardisierung aufwirft. Alternativ kann sie ein Werkzeug für kreative Handlungsfähigkeit sein (Papert fortschreibend), was von uns verlangt, Assessment neu zu denken und mehrdeutigere Ergebnisse zu akzeptieren. Wie [[mishra-control-vs-agency-history-2025|Mishra et al.]] schließen, begünstigen institutionelle Kräfte wiederholt Ansätze, die bestehende Strukturen verstärken — und die Sprache und Metaphern, die wir wählen, werden künftige Möglichkeiten formen. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudis AI×Ed-Rahmenwerk]] gibt dieser Intuition empirische Grundlage: indem sie Beiträge aus AIED-Tagungsbänden (1985, 1993, 2021, 2024) und IJAIED (2004, 2014, 2021) entlang zweier Achsen verorten — die Rolle von KI (angewandtes Werkzeug gegenüber Analogie zu menschlicher Intelligenz) und der Endnutzer —, zeichnen sie ein Feld nach, das sich von einer vielfältigen Mischung, einschließlich erheblicher früher Forschung, die KI als Analogie zu menschlicher Intelligenz nutzte (Rechenmodelle des Lernens, Paperts microworlds, agentenbasierte Modelle des Wissenserwerbs), hin zu einem nahezu ausschließlichen Fokus auf angewandte, instrumentelle Nutzungen bis in die 2000er bewegte. Bemerkenswerterweise scheint das Zeitalter generativer KI diese Trajektorie teilweise umzukehren: auf der AIED 2024 waren drei der vier Beiträge im Quadranten „KI-als-Analogie" des Felds LLM-basiert, einschließlich Best-Paper-Arbeit zu LLM-basierten lehrbaren Agenten.
+**Lektionen für das GenAI-Zeitalter.** Die heutigen Debatten über generative KI spiegeln diese historischen Spannungen eng. GenAI wird oft als intelligenter Tutor der nächsten Generation positioniert (Anderson fortschreibend), was Bedenken über Überwachung, Datensammlung und Standardisierung aufwirft. Alternativ kann sie ein Werkzeug für kreative Handlungsfähigkeit sein (Papert fortschreibend), was von uns verlangt, Assessment neu zu denken und mehrdeutigere Ergebnisse zu akzeptieren. Wie [[mishra-control-vs-agency-history-2025|Mishra et al.]] schließen, begünstigen institutionelle Kräfte wiederholt Ansätze, die bestehende Strukturen verstärken — und die Sprache und Metaphern, die wir wählen, werden künftige Möglichkeiten formen. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudis AI×Ed-Rahmenwerk]] gibt dieser Intuition empirische Grundlage: indem sie Beiträge aus AIED-Tagungsbänden (1985, 1993, 2021, 2024) und IJAIED (2004, 2014, 2021) entlang zweier Achsen verorten — die Rolle von KI (angewandtes Werkzeug gegenüber Analogie zu menschlicher Intelligenz) und der Endnutzer —, zeichnen sie ein Feld nach, das sich von einer vielfältigen Mischung, einschließlich erheblicher früher Forschung, die KI als Analogie zu menschlicher Intelligenz nutzte (Rechenmodelle des Lernens, Paperts microworlds, agentenbasierte Modelle des Wissenserwerbs), hin zu einem nahezu ausschließlichen Fokus auf angewandte, instrumentelle Nutzungen bis in die 2000er bewegte. Bemerkenswerterweise scheint das Zeitalter generativer KI diese Trajektorie teilweise umzukehren: auf der AIED 2024 waren drei der vier Beiträge im Quadranten „KI-als-Analogie" des Felds LLM-basiert, und einer davon gewann einen Best-Paper-Preis für LLM-basierte [[learning-by-teaching|lehrbare Agenten]].
+
+**Der Zeitschriftenbefund wendet sich zweimal.** Ein strukturelles Themenmodell über 5.387 Artikel aus *Computers & Education* (1976–2026) fand KI in 390 Datensätzen (7,2 %), verteilt auf 17 der 18 Themen. Die jährliche Chance, dass ein Artikel KI-bezogen war, stieg bis 1989 um 21,8 % pro Jahr, fiel bis 2018 jährlich um 3,7 % und stieg dann bis 2025 jährlich um 40,1 % ([[wu-fifty-years-ai-reach-computers-education-2026|Wu et al., 2026]]). Die Wende von 2018 liegt vier Jahre vor ChatGPT, sodass das Zeitalter der generativen KI einen bereits laufenden Trend beschleunigte, statt einen neuen zu beginnen.
 
 ## Die jüngste Wirkung generativer KI
 
@@ -59,7 +61,7 @@ Das Aufkommen [[generative-ai|generativer KI]] — einer breiten Familie, die [[
 
 **Eine neue Art von Fähigkeit.** Frühere AIED-Systeme modellierten Kognition und lieferten strukturierte Instruktion (die Anderson-Tradition). LLMs performen offene Generierung — Essays, Erklärungen, Code und Dialog produzierend —, was Handlungsfähigkeit und Kreativität der Lernenden (die Papert-Tradition) auf Weisen in den Vordergrund stellt, die frühere ITS nicht konnten. Deshalb entzündet der aktuelle Moment die Spannung zwischen Kontrolle und Handlungsfähigkeit so scharf: dasselbe Werkzeug kann als intelligenter Tutor der nächsten Generation eingesetzt werden (der Ergebnisse kontrolliert) oder als kreative Co-Autorin und Denkpartnerin (die Handlungsfähigkeit verstärkt).
 
-**Eine Umkehrung der Zugangsgleichung.** Historisch war personalisiertes Tutoring knapp und teuer; GenAI machte adaptive Eins-zu-eins-Unterstützung nahezu frei und universell — und senkte die Zugangs- und Kostenbarrieren dramatisch, die frühere AIED formten. Aber sie führte auch neue Risiken ein: algorithmischen Bias, Halluzination, Überwachung, Datensammlung und die Dequalifizierung von Bildungsakteuren.
+**Eine Umkehrung der Zugangsgleichung.** Historisch war personalisiertes Tutoring knapp und teuer; GenAI machte adaptive Eins-zu-eins-Unterstützung nahezu frei und universell — und senkte die Zugangs- und Kostenbarrieren dramatisch, die frühere AIED formten. Aber sie führte auch neue Risiken ein: [[bias-mitigation|algorithmischen Bias]], [[hallucination-risk|Halluzination]], Überwachung, Datensammlung und die Dequalifizierung von Bildungsakteuren.
 
 **Erneute Sorge um KI-Kompetenz und Missbrauch.** Das Zeitalter generativer KI machte [[ai-literacy|KI-Kompetenz]] dringend und rahmte Debatten über [[academic-integrity|akademische Integrität]] neu (Detektion gegenüber Dialog), während es langjährige Sorgen über Automatisierung, Standardisierung und epistemische Abhängigkeit wiederbelebte. Das sind die modernen Ausdrücke der ursprünglichen Spannungen des Felds.
 
@@ -86,14 +88,14 @@ Das Aufkommen [[generative-ai|generativer KI]] — einer breiten Familie, die [[
 
 **Für Lehrende und Instruktionsdesignerinnen und -designer**
 
-- Benennen Sie die Tradition, zu der Ihr Werkzeug gehört, bevor Sie es übernehmen. Fragen Sie, ob es auf feste Ergebnisse hin optimiert oder Lernendemrichtung öffnet, denn diese Antwort — nicht die Funktionsliste — bestimmt, was es mit Ihrem Assessment-Design tun wird.
+- Benennen Sie die Tradition, zu der Ihr Werkzeug gehört, bevor Sie es übernehmen. Fragen Sie, ob es auf feste Ergebnisse hin optimiert oder Lernendemrichtung öffnet, denn diese Antwort — nicht die Funktionsliste — bestimmt, was es mit Ihrem [[assessment|Assessment-Design]] tun wird.
 - Hinterfragen Sie das Wort „personalisiert" in jeder Anbieteraussage und verlangen Sie eine Antwort in den beiden oben genannten Bedeutungen. Ein Produkt, das das Tempo auf einen gemeinsamen Standard hin variiert, und eines, das Studierende divergieren lässt, sind keine Substitute.
 - Wenn Studierende GenAI als beispiellos darstellen, ist die Geschichte selbst lehrbarer Inhalt. Die Anderson-Papert-Rahmung gibt ihnen ein Vokabular, um über KI zu streiten, statt sie nur zu nutzen.
 
 **Für Entwicklerinnen und Entwickler**
 
 - Die Sprache der Oberfläche ist eine Designentscheidung mit einer Linie. Ihr System „KI-Tutor" zu nennen, erbt Andersons Rahmung und die Erwartung, auf Standardergebnisse hin zu optimieren; es „microworld" oder „Lernumgebung" zu nennen, erbt Paperts. Nichts davon ist neutral, wählen Sie also absichtsvoll.
-- Wenn Sie in der Analogietradition bauen (Lernmodelle, lehrbare Agenten, Simulationen des Wissenserwerbs), sagen Sie es. Dieser Quadrant war zwei Jahrzehnte nahezu leer und füllt sich wieder; die Positionierung ist ein Unterscheidungsmerkmal, und die Evaluationskriterien sind andere.
+- Wenn Sie in der Analogietradition bauen (Lernmodelle, lehrbare Agenten, [[simulation|Simulationen]] des Wissenserwerbs), sagen Sie es. Dieser Quadrant war zwei Jahrzehnte nahezu leer und füllt sich wieder; die Positionierung ist ein Unterscheidungsmerkmal, und die Evaluationskriterien sind andere.
 
 **Für Forschende**
 
@@ -124,3 +126,6 @@ Das Aufkommen [[generative-ai|generativer KI]] — einer breiten Familie, die [[
 - [[lak2026-hint-button-unproductive-use]] — Der Hinweis-Knopf in kognitiven Tutoren erneut betrachtet
 - [[socrates-students-instructors-llms-lbt-2025]] — Lernen durch Lehren mit LLMs (Paperts Konstruktionismus-Linie)
 - [[rismanchian-ai-education-four-decades-aixed-2026]]
+
+- [[wu-fifty-years-ai-reach-computers-education-2026]] — Fünfzig Jahre Themen in *Computers & Education*: Die KI-Prävalenz drehte nach 2018 nach oben, vier Jahre vor ChatGPT
+

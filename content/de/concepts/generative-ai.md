@@ -1,15 +1,15 @@
 ---
 title: Generative KI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-10-28T19:13:23-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T16:51:25-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -60,8 +60,7 @@ Mit mehr als 80 Artikeln ist generative KI der größte Technologiestrang der Wi
 
 Eine Metaanalyse auf drei Ebenen mit 22 Studien findet, dass GenAI-unterstütztes problem- und [[project-based-learning|projektbasierte Lernen]] einen großen gebündelten Effekt auf lernende-interne Ergebnisse erzeugt (g = 0,819), obwohl eine PET-PEESE-Korrektur ihn auf g = 0,378 senkt; auch die Einbettung zählte, wobei allgemeine Chatbots bei g = 0,970 poolten gegenüber g = 0,455 für eigene oder API-Systeme ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
 
-
-Eine separate Metaanalyse von 42 Studien zu Motivation allein setzt den gebündelten Effekt niedriger an (g = 0.764) und berichtet ein 95%-Prädiktionsintervall über [−0.689, 2.217], weshalb der Motivationsvorteil für ein neues Setting nicht verlässlich positiv ist ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
+Eine separate Metaanalyse von 42 Studien zu Motivation allein setzt den gebündelten Effekt niedriger an (g = 0.764) und berichtet ein 95%-Prädiktionsintervall über [−0.689, 2.217], weshalb der [[motivation|Motivationsvorteil]] für ein neues Setting nicht verlässlich positiv ist ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 Generative UI ist die neueste Fähigkeit in diesem Strang: Modelle, die ein funktionierendes interaktives Artefakt ausgeben — Schieberegler, manipulierbare Simulationen — statt Prosa. [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]], ein Team von Google Research, berichten, dass generative UI von der Stange noch nicht pädagogisch präzise genug für komplexe Konstrukte ist, dass aber das Zerlegen eines Lernziels in progressive gestufte Ziele und das Umhüllen der Erzeugung mit Kritik- und Selbstverbesserungsschleifen Interaktive erzeugt, die erfahrene Lehrkräfte als akzeptabel bewerten. Ihr Design ist ein Orchestrierungsdesign: Lehrende benennen Ziele, genehmigen sie und wählen unter Kandidatensimulationen, weshalb sich die bindende Beschränkung für maßgeschneidertes [[simulation|interaktives Lernmaterial]] von der Produktion hin zur Spezifikation verschiebt, und [[guardrails|pädagogische Leitplanken]] in die Erzeugungspipeline eingebettet sind statt der Wachsamkeit der Lehrenden im Nachhinein überlassen.
 
@@ -77,7 +76,7 @@ Inhaltserzeugung reicht ebenfalls über die [[math-education|Mathematik]] hinaus
 
 ### Generative KI in spezialisierten Bereichen: Legasthenie-Unterstützung
 
-Ein interdisziplinärer systematischer Review aus dem Jahr 2026 (Dabaghi, D'Urso & Sciarrone, PRISMA-gestützt, 2018–2024, n=72) findet, dass **generative KI im Bereich der Legasthenie-Unterstützung untergenutzt ist**. GAI-Forschung (alle aus 2024) bündelt sich in intelligente [[conversational-ai|Chatbots]], Unterstützung für [[teacher-education|Lehrkräfteschulung]] und explorative Studien und überholt rasch klassisches [[machine-learning|ML]] als Werkzeug der Wahl — doch bleiben rigoroses Experimentieren und reale Validierung weitgehend abwesend. Die Zukunfts-Trend-Analyse des Reviews zeigt auf GAI-gestützte personalisierte Materialien und Echtzeit-adaptives Feedback, [[multimodal|multimodale]] diagnostische Modelle, die Blickbewegungsmessung, EEG und verhaltensbezogene [[learning-analytics|Analytics]] integrieren, NLP-getriebene [[intelligent-tutoring|intelligente Tutoring-Systeme]] und konversationelle Agenten, und auf Lehrende zielende Unterstützungswerkzeuge. Das illustriert sowohl das Versprechen generativer KI für Inhaltserzeugung und interaktive Unterstützung in einem spezialisierten Bereich mit hohem Bedarf als auch das Risiko, dass ihre Annahme der Evidenzbasis davonläuft.
+Ein interdisziplinärer systematischer Review aus dem Jahr 2026 (Dabaghi, D'Urso & Sciarrone, PRISMA-gestützt, 2018–2024, n=72) findet, dass **generative KI im Bereich der Legasthenie-Unterstützung untergenutzt ist**. GAI-Forschung (alle aus 2024) bündelt sich in intelligente [[conversational-ai|Chatbots]], Unterstützung für [[teacher-education|Lehrkräfteschulung]] und explorative Studien und überholt rasch klassisches [[machine-learning|ML]] als Werkzeug der Wahl — doch bleiben rigoroses Experimentieren und reale Validierung weitgehend abwesend. Die Zukunfts-Trend-Analyse des Reviews zeigt auf GAI-gestützte personalisierte Materialien und Echtzeit-adaptives Feedback, [[multimodal|multimodale]] diagnostische Modelle, die [[sensor-and-gaze-analytics|Blickbewegungsmessung]], EEG und verhaltensbezogene [[learning-analytics|Analytics]] integrieren, NLP-getriebene [[intelligent-tutoring|intelligente Tutoring-Systeme]] und konversationelle Agenten, und auf Lehrende zielende Unterstützungswerkzeuge. Das illustriert sowohl das Versprechen generativer KI für Inhaltserzeugung und interaktive Unterstützung in einem spezialisierten Bereich mit hohem Bedarf als auch das Risiko, dass ihre Annahme der Evidenzbasis davonläuft.
 
 ## Verbreitete Fehlvorstellungen
 
@@ -115,6 +114,7 @@ Ein interdisziplinärer systematischer Review aus dem Jahr 2026 (Dabaghi, D'Urso
 - [[ai-technologies]] — der Dachbegriff der KI-Verfahren und -Modelle
 - [[higher-ed]] — ein primärer Einsatzkontext
 - [[k-12]] — ein primärer Einsatzkontext
+- [[reflection]]
 
 ## Verbundene Artikel
 - [[genai-learning-motivation-meta-analysis-2026]] — Metaanalyse der Wirkung von GenAI auf die Lernmotivation, mit einem Prädiktionsintervall von Schaden bis Nutzen

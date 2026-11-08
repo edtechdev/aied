@@ -1,7 +1,7 @@
 ---
 title: Sozial-emotionales Lernen
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,8 +12,8 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-10-29T06:19:06-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-07T13:45:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -48,13 +48,15 @@ Sozial-emotionales Lernen ist eng verwandt mit, aber unterschieden von emotional
 
 - **Lehrkräfte und relationale Praxis:** Forschung zu [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|KI-Kompetenz-Rahmen]] und [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|Vertrauen zwischen Lehrkraft und Studierenden]] betont, dass SEL die relationalen Dimensionen des Lernens stützt (Beziehungen zwischen Lehrkraft und Studierenden und zwischen Studierenden), die KI ergänzen statt ersetzen muss.
 
-- **Was ein pädagogischer Agent in SEL tragen kann und was nicht.** Über 108 verblindet bewertete Beobachtungen hinweg war ein generativer KI-pädagogischer Agent konsistenter als Lehrende darin, respektvollen Ton und routinemäßiges prozedurales Scaffolding aufrechtzuerhalten, während Lehrende ihn beim Anleiten von Reflexion und beim Fördern sozial-emotionalen Wissens übertrafen – was eine Arbeitsteilung stützt, nicht Substitution ([[human-ai-complementarity-social-emotional-learning-2026|Raave et al., 2026]]).
+- **Was ein [[pedagogical-agent|pädagogischer Agent]] in SEL tragen kann und was nicht.** Über 108 verblindet bewertete Beobachtungen hinweg war ein generativer KI-pädagogischer Agent konsistenter als Lehrende darin, respektvollen Ton und routinemäßiges prozedurales Scaffolding aufrechtzuerhalten, während Lehrende ihn beim Anleiten von Reflexion und beim Fördern sozial-emotionalen Wissens übertrafen – was eine Arbeitsteilung stützt, nicht Substitution ([[human-ai-complementarity-social-emotional-learning-2026|Raave et al., 2026]]).
 
 - **Wohlbefinden und affektive Wirkung von KI:** Forschung untersucht, wie der zunehmende Einsatz generativer KI die sozio-emotionalen Fähigkeiten, das Wohlbefinden, die Soziabilität und das Vertrauens- und Empathiegefühl der Studierenden beeinflusst – Besorgnisse, die den Aufruf der OECD zu KI-Kompetenz motivierten, verankert in humanistischen, sozialen und emotionalen Werten.
 
 - **Affektive Dimensionen von KI:** SEL verbindet sich mit Forschung zu [[affective-computing|affective computing]] und [[well-being|Wohlbefinden]] und untersucht, wie KI-Systeme emotionales und relationales Lernen stützen oder untergraben können.
 
 - **Politikdefizit in KI × SEL:** Ein [[meta-analysis-systematic-review|systematischer Review]] von 65 Papieren an der KI-SEL-Schnittstelle ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) findet ein substantielles „Politikdefizit": fast drei Viertel der Studien nennen keine Politikimplikationen, und die wenigen, die es tun, ermangeln oft aktorspezifischer Anleitung. Der Review verbindet Politik-Engagement mit Publikationsort und warnt vor einer „techno-solutionist"-Falle, in der technisches Potenzial in den Vordergrund gestellt wird, während die institutionellen Bedingungen verantwortungsvoller Implementierung unterbestimmt bleiben. Er schlägt einen „WH-Fragen"-Rahmen vor (Who, What, Why, When/Where, How), um von „Implication-as-Afterthought" zu „Implication-as-Methodology" zu gelangen, und verbindet [[ai-education|KI-für-SEL]]-Innovation mit [[educational-policy-ai|Bildungspolitik]] und [[governance|Governance]].
+
+- **Ein Mapping-Review über 43 Studien zu GenAI und SEL.** [[liu-genai-sel-mapping-review-2026|Liu et al. (2026)]] kodierten 43 Studien über sechs SEL-Domänen und fanden kognitive Kompetenzen in 24, Identität in 15, Soziales in 14 und Emotion in 7, während Werte (4) und Perspektiven (3) marginal blieben. Neunzehn Affordanzen clusterten zu sieben Genres; 38 der 43 Studien erfüllten nur die niedrigste Transparenzstufe. Das Inventar zeigt, wo die SEL-Evidenz dicht und wo ethische Berichterstattung dünn ist.
 
 ## Mögliche Unterthemen von SEL in der Forschung der KI-Ära
 
@@ -75,10 +77,12 @@ Emotionen regulieren, *wie* Studierende KI-Nutzung sichtbar machen. [[shame-guil
 ### Vertrauen und Zugehörigkeit
 SEL stützt relationales Lernen und sozialen Zusammenhalt. [[finkelstein-principled-ai-education-2025|Principled AI education]] und [[ai-chatbot-collective-efficacy-collaborative-learning|KI-Chatbots für kollaboratives Lernen]] verbinden sich mit **Zugehörigkeit** und kollektiver Wirksamkeit – der geteilten Überzeugung in die Fähigkeit eines Teams, Aufgaben zu bewältigen. Das Premortem von Brookings betont, dass Überabhängigkeit von KI sozial-emotionales Wohlbefinden, Beziehungen zwischen Lehrkräften und Peers sowie [[privacy|Datenschutz]]/Sicherheit der Studierenden bedroht – Dimensionen von Zugehörigkeit und Verbundenheit. [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|Vertrauen zwischen Lehrkraft und Studierenden]] ist zentral dafür, ob KI als unterstützend wahrgenommen wird.
 
-Es gibt hier eine schärfere Kante der Zugehörigkeit: Empathie, die von KI gesucht wird, kann bestraft werden. [[shastry-gray-empathy-offloading-2026|Shastry und Gray (2026)]] ließen Teilnehmende über eine bedürftige Studierende lesen, die zu einem Chatbot, einer Freundin, einer Therapeutin oder zu niemandem ging. In der Chatbot-Bedingung berichteten Teilnehmende im Stillen die geringste Bereitschaft zum Empathie-Offloading, verwendeten dann aber die meisten Gleichgültigkeitswörter über diese Studierende und bewerteten sie als fremder und verzweifelter. Das Peer-Urteil über den Weg der KI-Suche verstärkt das oben dokumentierte Verbergen, weshalb Offenlegungsnormen in die SEL-Gestaltung gehören und nicht allein in die Integritätspolitik.
+Es gibt hier eine schärfere Kante der Zugehörigkeit: Empathie, die von KI gesucht wird, kann bestraft werden. [[shastry-gray-empathy-offloading-2026|Shastry und Gray (2026)]] ließen Teilnehmende über eine bedürftige Studierende lesen, die zu einem [[conversational-ai|Chatbot]], einer Freundin, einer Therapeutin oder zu niemandem ging. In der Chatbot-Bedingung berichteten Teilnehmende im Stillen die geringste Bereitschaft zum Empathie-Offloading, verwendeten dann aber die meisten Gleichgültigkeitswörter über diese Studierende und bewerteten sie als fremder und verzweifelter. Das Peer-Urteil über den Weg der KI-Suche verstärkt das oben dokumentierte Verbergen, weshalb Offenlegungsnormen in die SEL-Gestaltung gehören und nicht allein in die Integritätspolitik.
+
+[[ai-sycophancy|Sycophancy]] wendet dieselbe Substitution mit einer gemessenen Dosis an. Über fünf vorregistrierte Studien (N = 3.075; 12.766 Gespräche) hinweg wurden Nutzende einer KI, die ihre Ansichten bestätigte, über drei Wochen fast so wahrscheinlich dazu geneigt, persönlichen Rat bei ihr zu suchen wie bei engen Freunden und Familie. Dieselben Teilnehmenden berichteten geringere Zufriedenheit mit ihren realen Interaktionen, und eine Mehrheit bevorzugte den bestätigenden Stil nicht wegen seines Rats, sondern weil er ihnen das Gefühl gab, verstanden zu werden ([[sycophantic-ai-social-interaction-2026|Ibrahim et al. (2026)]]). Der Schaden ist relational statt emotional, weshalb Funktionen emotionaler Unterstützung nicht als kostenlose Ergänzungen eines Kurses behandelt werden können.
 
 ### Persistenz, Mindset und produktiver Kampf
-SEL überlappt sich mit der anstrengungsvollen Dimension des Lernens. [[framing-5-percent-problem-teachers-persistence|Framing the 5% problem]] identifiziert geringe studentische Persistenz als wiederkehrende Herausforderung in der Bildungstechnologie, geprägt von Motivation/Zustimmung, kognitiven Straßensperren, Resilienz unter Herausforderung und Verbindung. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]] warnen, dass KI, die für Anstrengung einspringt, genau die Kapazitäten erodiert, die Bildung aufbaut –, was sich an [[metacognition|Metakognition]] und dem Wert produktiven Kampfs gegenüber [[cognitive-offloading|Überabhängigkeit]] ausrichtet.
+SEL überlappt sich mit der anstrengungsvollen Dimension des Lernens. [[framing-5-percent-problem-teachers-persistence|Framing the 5% problem]] identifiziert geringe [[student-support-and-success|studentische Persistenz]] als wiederkehrende Herausforderung in der Bildungstechnologie, geprägt von Motivation/Zustimmung, kognitiven Straßensperren, Resilienz unter Herausforderung und Verbindung. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]] warnen, dass KI, die für Anstrengung einspringt, genau die Kapazitäten erodiert, die Bildung aufbaut –, was sich an [[metacognition|Metakognition]] und dem Wert produktiven Kampfs gegenüber [[cognitive-offloading|Überabhängigkeit]] ausrichtet.
 
 ## Implikationen für Lehrende und Instruktionsdesign
 
@@ -86,9 +90,9 @@ SEL überlappt sich mit der anstrengungsvollen Dimension des Lernens. [[framing-
 - **Für Selbstwirksamkeit und Handlungsfähigkeit gestalten.** Weil fähigkeitsbasierte KI-Kompetenz Abhängigkeit *erhöhen* kann, während [[self-efficacy|Selbstwirksamkeit]] und Anstrengungsregulation dagegen schützen, sollte Instruktion absichtlich Konfidenz und Selbststeuerung der Studierenden neben technischer Fähigkeit aufbauen – z. B. gescaffoldete Übung, Erfolge mit niedrigem Einsatz und Prompts, die von Studierenden verlangen, KI-Ausgabe zu verifizieren und sich zu eigen zu machen.
 - **KI nutzen, um relationales Lernen zu stützen, nicht zu verdrängen.** KI-Werkzeuge sollten [[collaborative-learning|Beziehungen zwischen Lehrkraft und Studierenden und zwischen Studierenden]] ergänzen, und [[teacher-role|Lehrende]] sollten die relationale Rolle behalten – Affekt und Zugehörigkeit überwachen –, statt sie vollständig zu delegieren.
 - **[[affective-tutoring|Emotionsbewusstes]] und affektsensitives Design.** [[affective-computing|Affektbewusste Systeme]] können emotionale Zustände erkennen und darauf reagieren (Angst, Frustration, Verwirrung), aber Evidenz zeigt, dass Vorteile **nicht universell** sind – moderiert durch Profizienz und Profil der lernenden Person –, deshalb muss emotionales Design zugeschnitten, nicht angenommen werden.
-- **Die emotionale Seite der KI-Nutzung adressieren.** Gegen Scham-/Schuld-Spiralen und KI-Angst gestalten, indem Diskussion von KI-Nutzung normalisiert, Transparenz gefördert und überwachungsbasierte Antworten reduziert werden, die Vertrauen und Handlungsfähigkeit erodieren.
+- **Die emotionale Seite der KI-Nutzung adressieren.** Gegen Scham-/Schuld-Spiralen und [[anxiety-and-stress|KI-Angst]] gestalten, indem Diskussion von KI-Nutzung normalisiert, Transparenz gefördert und überwachungsbasierte Antworten reduziert werden, die Vertrauen und Handlungsfähigkeit erodieren.
 - **Persistenz und produktiven Kampf unterstützen.** [[scaffolding|Stützen]] statt einspringen (gemäß [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]]), damit KI anstrengungsvolles Lernen vertieft statt umgeht –, ausgerichtet an [[metacognition|Metakognition]] und [[desirable-difficulties|produktiver Schwierigkeit]].
-- **Die verbale Bewegung im Moment trainieren.** SEL-Unterstützung wird tendenziell als Design oder als KI-Detektion von Affekt gerahmt, aber Lehrende brauchen auch, was sie *sagen*, wenn der emotionale Zustand einer oder eines Studierenden droht, Engagement zu beenden – diesen Zustand als etwas behandeln, mit dem in Echtzeit zu arbeiten ist, statt als Vorbedingung für Lernen. [[parlant-emotional-micro-interventions-2026|Parlants Praktikerleitfaden]] nennt diese emotionalen Mikro-Interventionen: kurze verbale Akte, die das Gefühl validieren, die Bewertung dahinter umrahmen und den Kampf mit professioneller Identität wiederverbinden, vorbereitet durch ein Vorklasse-Scouting-Ritual und ein wiederverwendbares Phrasenbuch, das [[generative-ai|generative KI]] der Lehrkraft beim Entwurf zur Personalisierung helfen kann.
+- **Die verbale Bewegung im Moment trainieren.** SEL-Unterstützung wird tendenziell als Design oder als [[ai-detection|KI-Detektion]] von Affekt gerahmt, aber Lehrende brauchen auch, was sie *sagen*, wenn der emotionale Zustand einer oder eines Studierenden droht, Engagement zu beenden – diesen Zustand als etwas behandeln, mit dem in Echtzeit zu arbeiten ist, statt als Vorbedingung für Lernen. [[parlant-emotional-micro-interventions-2026|Parlants Praktikerleitfaden]] nennt diese emotionalen Mikro-Interventionen: kurze verbale Akte, die das Gefühl validieren, die Bewertung dahinter umrahmen und den Kampf mit professioneller Identität wiederverbinden, vorbereitet durch ein Vorklasse-Scouting-Ritual und ein wiederverwendbares Phrasenbuch, das [[generative-ai|generative KI]] der Lehrkraft beim Entwurf zur Personalisierung helfen kann.
 - **SEL-Kompetenz der Lehrkräfte vorbereiten.** Lehrende brauchen sowohl technologische Fähigkeit als auch emotionale Intelligenz ([[teacher-ai-competency|KI-Kompetenz von Lehrkräften]]); berufliche [[educational-development|Weiterentwicklung]] von Lehrkräften sollte Kapazität aufbauen, SEL von Studierenden in KI-vermittelten Settings zu unterstützen.
 
 ## Verbindungen zu Lernzuwächsen und anderen Maßen
@@ -133,6 +137,7 @@ SEL verbindet sich mit [[ai-literacy|KI-Kompetenz]] (als Komplement, das KI-Komp
 
 ## Verbundene Artikel
 
+- [[liu-genai-sel-mapping-review-2026]] — Ein Mapping-Review über 43 Studien zu GenAI und SEL: ungleichmäßige Kompetenzabdeckung und dünne ethische Berichterstattung
 - [[sec-ai-literacy-narrative-review-2026]] — Integration sozial-emotionaler Kompetenzen in KI-Kompetenz
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Die Vertrauenslücke im Blick: Sicht von Lehrkraft und Studierenden
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Das gerüstete KI-Kompetenz-Framework (SAIL)
@@ -148,3 +153,4 @@ SEL verbindet sich mit [[ai-literacy|KI-Kompetenz]] (als Komplement, das KI-Komp
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Mensch-KI-Komplementarität im frühen sozial-emotionalen Lernen (Raave et al. 2026)
 - [[parlant-emotional-micro-interventions-2026]] — Emotionale Mikro-Interventionen in Echtzeit und ein Phrasenbuch für Lehrende
 - [[shastry-gray-empathy-offloading-2026]] — Menschen lagern Empathie ab, wenn sie glauben, KI könne sie stattdessen geben (Shastry & Gray 2026)
+- [[sycophantic-ai-social-interaction-2026]] — Sycophantische KI verdrängt die Suche nach menschlichem Rat und senkt die Zufriedenheit mit realer Interaktion (Ibrahim et al. 2026)

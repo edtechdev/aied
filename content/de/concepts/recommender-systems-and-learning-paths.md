@@ -1,7 +1,7 @@
 ---
 title: Empfehlungssysteme und Lernpfade
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
@@ -12,8 +12,8 @@ audience: [instructors, learners, researchers, instructional designers, software
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 translation_of: concepts/recommender-systems-and-learning-paths
-source_updated: "2026-10-26T02:00:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-05T21:30:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -48,6 +48,8 @@ Wo [[adaptive-learning|adaptives Lernen]] den Mechanismus beschreibt, Inhalt, Te
 ## Wie pädagogische Empfehlungssysteme funktionieren
 
 Verhaltensbasierte Empfehlungssysteme erben die Logik [[machine-learning|kollaborativen Filterns]]: Lernende mit ähnlichen Historien wird unterstellt, ähnliche Ressourcen zu wollen, daher sagt das System aus Kookkurrenz statt aus Inhalt voraus. Das ist mächtig, wo Daten dicht sind, und brüchig, wo sie es nicht sind. [[fair-explainable-edu-recommendations|Evangelista und Bukhari (2026)]] stellen das Problem schlicht fest — genauigkeitsfokussierte Empfehlungssysteme geben Lernenden mit begrenzten Partizipationshistorien weniger verlässliche Unterstützung, während beliebte Ressourcen die Listen dominieren —, und beantworten es mit einem Hybrid-HKG-GRU-Rahmenwerk, das einen heterogenen [[knowledge-graph|Wissensgraphen]] von Kursmaterialien einbettet und Lernendensequenzen mit einer GRU modelliert, dann auf Robustheit über Lernendengruppen hinweg trainiert (GroupDRO) und für Vielfalt der Exposition rerankt (Maximal Marginal Relevance). Auf Moodle-Logs von 152 Lernenden, 59 Ressourcen und etwa 150,000 Interaktionen erreichte es HR@10 = 0.68 und MRR = 0.41, doch erheblicher Popularitätsbias blieb auf Katalogebene bestehen —, Evidenz dafür, dass [[bias-mitigation|Bias-Minderung]] partiell ist.
+
+Auch eine leichtgewichtige Basislinie kann die tiefen Modelle direkt schlagen. [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi et al. (2026)]] verglichen sieben Empfehlungssysteme auf NedBox, einer Plattform für Niederländisch als Zweitsprache, und das flache Item-Item-Modell EASE führte bei jeder Kennzahl — AUROC 0,955, MAP 0,283, NDCG@3 0,205, NDCG@5 0,279 — vor dem tiefen variationalen Autoencoder MVAE (AUROC 0,949) und dem Ensemble PentaForest (0,953), während Matrixfaktorisierung am schlechtesten abschnitt (IALS 0,719, UKNN 0,767). Empfehlungs- und [[knowledge-tracing|Knowledge-Tracing-]]Signale lassen sich außerdem verbinden: Das Reranking der Top-10 von EASE nach vorhergesagter Kompetenz hob NDCG@3 um etwa 3 %.
 
 Semantische Empfehlungssysteme ersetzen Kookkurrenz durch Struktur. [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun und Song (2026)]] bauen einen Wissensgraphen aus Unterrichtsressourcen, Sprachkonzepten, Fähigkeiten, Lernendengruppen und [[pedagogy|pädagogischen]] Attributen und zerlegen jede Ressource entlang von vier Instruktionsdimensionen — Unterrichtskontext, kognitives Niveau, technologisches Merkmal und kulturelle Anpassungsfähigkeit. Empfehlung expandiert k-hop über den Graphen von den angegebenen Anforderungen einer lernenden Person aus, verfeinert Kandidaten mit einem merkmalsbasierten kollaborativen Filter und rankt sie nach einem Fusionskoeffizienten, der mit den Indizes für Fähigkeit, Fortschritt und Interesse der lernenden Person steigt, sodass weniger fortgeschrittene Lernende strukturiertere Anleitung aus dem Graphen erhalten, während höherfähige Lernende auf ihr Verhaltensmuster setzen. Auf der englischen Teilmenge des MARS-Datensatzes (4,800 Nutzende, 14,200 Ressourcen, 132,000 Interaktionen, Sparsamkeit 0.9981) erreichte sie NDCG 0.625 und HR 0.751, etwa 7–8% Gewinn gegenüber der besten neuronalen Basislinie, und schlug graphenbewusste Basislinien einschließlich RippleNet und KGAT bei Abdeckung und domänenübergreifender Genauigkeit. Ablation zeigt, dass die Signale komplementär sind (nur CF NDCG 0.584, nur KG 0.604), und die Autoren vermerken, dass dies Ranking-Metriken sind, keine Evidenz für [[learning-gains|Lernwirksamkeit]].
 

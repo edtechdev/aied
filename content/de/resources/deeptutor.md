@@ -20,7 +20,7 @@ confidence: high
 connected_resources: [openmaic]
 translation_of: resources/deeptutor
 source_updated: "2026-09-20T17:30:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

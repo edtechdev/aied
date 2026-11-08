@@ -1,7 +1,7 @@
 ---
 title: Offenlegung der KI-Nutzung
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,8 +12,8 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-10-28T15:48:01-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -32,7 +32,7 @@ ai_assist:
 
 ## Fragen zum Nachdenken
 
-- Wenn Sie als lernende Person generative KI für eine Aufgabe genutzt hätten, würden Sie es Ihrem Lehrpersonal sagen? Diese Seite legt nahe, dass die ehrliche Antwort stark von Angst geformt wird — Forschung findet, dass Offenlegung selten ist und von „penalty anxiety" und Sorge um Selbstbelastung getrieben wird. Welche Annahmen über Ihr eigenes Offenlegungsverhalten müssten Sie hinterfragen?
+- Wenn Sie als lernende Person generative KI für eine Aufgabe genutzt hätten, würden Sie es Ihrem Lehrpersonal sagen? Diese Seite legt nahe, dass die ehrliche Antwort stark von [[anxiety-and-stress|Angst]] geformt wird — Forschung findet, dass Offenlegung selten ist und von „penalty anxiety" und Sorge um Selbstbelastung getrieben wird. Welche Annahmen über Ihr eigenes Offenlegungsverhalten müssten Sie hinterfragen?
 - Die zentrale Designfrage hier ist, ob Offenlegung als Überwachung oder als Gerüst für ethisches Engagement funktioniert. Was haben Sie vor der Lektüre angenommen, was ein Offenlegungsformular zu leisten versucht — und können Sie sich einen Weg vorstellen, wie dasselbe Formular den gegenteiligen Zweck erfüllen könnte?
 - Ein markanter Befund ist, dass Lernende, die immer offenlegten, über dreifach höhere Chancen hatten, des Betrugs bezichtigt zu werden — Transparenz lud Verdacht ein. Wenn Ehrlichkeit Verdacht erhöhen kann, was sagt das darüber, wie wir Vertrauen zwischen Lernenden und Lehrenden gestalten sollten?
 - Diese Seite unterscheidet verbindliche Compliance-Mechanismen von formativen Offenlegungspraktiken, die KI-Kompetenz und Selbstregulation aufbauen. Welchem davon ähnelt der Ansatz Ihrer eigenen Institution am ehesten, und was müsste sich ändern, damit er zum anderen wird?
@@ -72,7 +72,7 @@ Die Modellierung von [[mohamed-temimi-assessment-imperfect-information-disclosur
 
 In einer Erhebung der GenAI-Leitlinien der 50 innovativsten US-Universitäten verortet [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] Offenlegung an der Grenze zwischen Unterstützung und Falschdarstellung: wo KI erlaubt ist, weisen Institutionen Studierende an, KI-Unterstützung anzuerkennen, zu zitieren oder anderweitig zu dokumentieren, statt Ausgaben als ganz eigene darzustellen, wobei Bibliotheken — nicht Integritätsbüros — die Autorität über Zitations- und Provenienzstandards halten. Das Framing der MIT Libraries, dass KI kein Urheber ist und Urheber für die Dokumentation verantwortlich bleiben, wie Werkzeuge beitrugen, exemplifiziert das Muster, und Qian liest Offenlegung zugleich als Integritätsnorm, als Designprinzip, das Mehrdeutigkeit vor der Einreichung reduziert, und als eine von vier Integritätssäulen neben Verantwortung, [[equity-in-ai-education|Gerechtigkeit]] und [[privacy|Datenschutz]]. Das ist dieselbe nicht-forensische Verwendung, die der Abschnitt beschreibt, und es ist der Grund, warum Qian empfiehlt, Bibliotheken als Zitationsautorität zu institutionalisieren, statt Detektion auszubauen.
 
-- **Offenlegung trägt eine Vertrauensstrafe, und Legitimität ist der argumentierte Mechanismus.** In dreizehn Experimenten, überwiegend mit US-Online-Panelisten und gebündelt bei 4.093 Beobachtungen (θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]), wurde einer Akteurin, die KI-Nutzung offenlegte, weniger vertraut als einer, die schwieg ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke und Reimann (2025)]]). Der Effekt überstand sechs Offenlegungs-Framings, eine bewertende Person, die bereits wusste, dass KI benutzt worden war, und sowohl verbindliche als auch freiwillige Regimes. Er ist das experimentelle Gegenstück zum obigen Befund aus der Befragung, dass immer offenlegende Lernende über dreifach höhere Chancen einer Bezichtigung gegenüberstanden: Transparenz selbst kann die offenlegende Person kosten. Das eine studierendenbezogene Ergebnis der Studie ist, dass Studierende einer Professorin weniger vertrauten, als diese KI-Bewertung offenlegte.
+- **Offenlegung trägt eine Vertrauensstrafe, und Legitimität ist der argumentierte Mechanismus.** In dreizehn Experimenten, überwiegend mit US-Online-Panelisten und gebündelt bei 4.093 Beobachtungen (θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]), wurde einer Akteurin, die KI-Nutzung offenlegte, weniger vertraut als einer, die schwieg ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke und Reimann (2025)]]). Der Effekt überstand sechs Offenlegungs-Framings, eine bewertende Person, die bereits wusste, dass KI benutzt worden war, und sowohl verbindliche als auch freiwillige Regimes. Er ist das experimentelle Gegenstück zum obigen Befund aus der Befragung, dass immer offenlegende Lernende über dreifach höhere Chancen einer Bezichtigung gegenüberstanden: Transparenz selbst kann die offenlegende Person kosten. Das eine studierendenbezogene Ergebnis der Studie ist, dass Studierende einer Professorin weniger vertrauten, als diese [[automated-assessment|KI-Bewertung]] offenlegte.
 - **Ein Inhaltslabel ändert die Beschreibung, nicht das Urteil.** Mit 617 Erwachsenen, die zufällig zugewiesen wurden, ein Label „AI-Generated Content/Synthetic Video" zu sehen oder nicht, senkte das Label die wahrgenommene Authentizität (Mittelwerte 4,92 ohne und 4,21 mit), ließ aber Vertrauen (B = -0,130, p = 0,216), Risiko, Übernahme und Teilen unverändert ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang und Zhang (2026)]]).
 
 ## Wirksame Offenlegung gestalten
@@ -93,7 +93,7 @@ Offenlegung der KI-Nutzung liegt an der Schnittstelle von [[academic-integrity|a
 - **„Pflichtangaben-Richtlinien erzeugen Offenlegung."** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] dokumentierte **74% Nichtbefolgung** einer Pflichtangabe an einer Wirtschaftshochschule. Die Vorgabe erzeugte nicht das Verhalten, das sie vorschrieb.
 - **„Studierende verbergen KI-Nutzung, weil sie unehrlich sind."** Die Treiber sind dokumentiert und spezifisch: nur **etwa 34% der Wirtschaftsstudierenden gaben KI-Nutzung zu**, wobei Offenlegung seltener war, getrieben von **Strafangst**, während eine andere Studie **66%** fand, die **nie oder selten offenlegten**, mit **Angst vor akademischer Strafe als häufigstem Grund**. Das Politikdesign, nicht der Charakter, ist es, was die Daten belasten.
 - **„Eine Offenlegungspflicht ist eine billige Kontrolle."** Eine **Nichtbefolgungsquote von 74%** macht den resultierenden Datensatz schlechter als keinen Datensatz: Es ist ein Datensatz, der vollständig wirkt und es nicht ist, sodass die Institution Entscheidungen auf einer Stichprobe trifft, der sie nicht trauen kann.
-- **„Zu offenzulegen, wie das Modell genutzt wurde, reicht."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] argumentiert, Offenlegung dokumentiere die Modellnutzung, während verantwortungsvolle Nutzung einen Urheberschaftsanspruch auf Aussagenebene erfordere — die Fähigkeit der beitragenden Person, die Aussagen zu verstehen, zu begründen und zu verteidigen —, was kognitive Delegation, bei der Ausgaben substanzielle Entscheidungen prägen, von routinemäßiger Delegation trennt, bei der das nicht geschieht.
+- **„Zu offenzulegen, wie das Modell genutzt wurde, reicht."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] argumentiert, Offenlegung dokumentiere die Modellnutzung, während verantwortungsvolle Nutzung einen Urheberschaftsanspruch auf Aussagenebene erfordere — die Fähigkeit der beitragenden Person, die Aussagen zu verstehen, zu begründen und zu verteidigen —, was [[cognitive-offloading|kognitive Delegation]], bei der Ausgaben substanzielle Entscheidungen prägen, von routinemäßiger Delegation trennt, bei der das nicht geschieht.
 
 ## Verbundene Konzepte
 

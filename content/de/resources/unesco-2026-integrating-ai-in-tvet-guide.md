@@ -18,7 +18,7 @@ ethics: [equity-in-ai-education]
 audience: [administrators, institutions, instructors, policymakers]
 source_updated: "2026-10-28T17:05:00-04:00"
 translation_of: resources/unesco-2026-integrating-ai-in-tvet-guide
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

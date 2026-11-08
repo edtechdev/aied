@@ -1,7 +1,7 @@
 ---
 title: "Wie gestalte ich Assessment neu, damit eine Note weiterhin etwas Vertretbares darüber sagt, was die Person weiß oder kann?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 audience: [instructors, assessment designers]
@@ -9,7 +9,7 @@ foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
 translation_of: faqs/redesign-assessment-ai-era
 source_updated: "2026-10-28T10:45:41-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -90,7 +90,7 @@ Der Zweck zählt so viel wie die Mechanik. [[ai-agents-joyful-assessment-third-s
 
 **„Akkreditierung und Studiengangsgenehmigung bewegen sich nicht so schnell."** Die Studie oben nennt lange Vorlaufzeiten und Akkreditierungszwänge bei großen Kohorten als zentrale Reibung. Ein einzelner Kurs kann ändern, was innerhalb einer bestehenden Prüfung geschieht, ohne deren Namen, Gewicht oder Lernziele zu ändern, und das reicht meist zum Anfangen.
 
-**„Das benachteiligt ängstliche Studierende und Studierende mit Behinderungen."** Das kann es. Mündliche Live-Komponenten brauchen vorab geplante Nachteilsausgleiche, eine Formatwahl, wo das Konstrukt es zulässt, und Aufmerksamkeit für sprachliche Unterschiede und Beurteilungsbias. Prüfen Sie die Fähigkeit, nicht die Aufführungsbedingungen.
+**„Das benachteiligt ängstliche Studierende und [[special-education|Studierende mit Behinderungen]]."** Das kann es. Mündliche Live-Komponenten brauchen vorab geplante Nachteilsausgleiche, eine Formatwahl, wo das Konstrukt es zulässt, und Aufmerksamkeit für sprachliche Unterschiede und Beurteilungsbias. Prüfen Sie die Fähigkeit, nicht die Aufführungsbedingungen.
 
 **„Wir sollten einfach einen Detektor kaufen."** Das Trennschärfe-Ergebnis spricht dagegen, ihn zum Rückgrat des Designs zu machen: Wenn falsch positive Befunde schneller steigen als richtig positive, macht stärkere Überwachung das Verbergen relativ attraktiver. Erkennung kann in einer Antwort einen Platz haben, die auch die Aufgabe neu gestaltet, und [[should-we-use-ai-detectors]] behandelt dieses Argument.
 

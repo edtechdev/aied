@@ -1,15 +1,15 @@
 ---
 title: Lebenslanges Lernen
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/lifelong-learning
-source_updated: "2026-10-28T19:13:23-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -29,7 +29,7 @@ ai_assist:
 ## Fragen zum Nachdenken
 
 - Denken Sie an die letzte neue Fähigkeit, die Sie außerhalb formaler Schulbildung lernten — im Job, online oder autodidaktisch. Wer entschied, was zu lernen, wie es zu lernen, und wann Sie „fertig“ waren? Wie würde KI dieses Bild verändern?
-- Eine zentrale Frage auf der Seite ist Autonomie: während KI an der Identifikation Ihrer Lernbedarfe, der Setzung Ihrer Ziele und sogar der Produktion von Inhalten teilhat, was bleibt in Ihrem eigenen Lernen echt selbstgesteuert?
+- Eine zentrale Frage auf der Seite ist Autonomie: während KI an der Identifikation Ihrer Lernbedarfe, der Setzung Ihrer Ziele und sogar der Produktion von Inhalten teilhat, was bleibt in Ihrem eigenen Lernen echt [[self-directed-learning|selbstgesteuert]]?
 - Formale Bildung behandelt Zeit als fix und Curricula als sequenziell. Die Seite schlägt „Learnity-Graphen“ vor — miteinander verbundene Wissenseinheiten, die Lernende flexibel über eine Lebensspanne navigieren. Was gewinnen Sie, und was riskieren Sie zu verlieren, wenn Sie Lernen von einer festen Sequenz befreien?
 - KI kann sowohl Erwachsene unterstützen als auch verändern, welche Fähigkeiten Erwachsene kontinuierlich aktualisieren müssen. Wenn KI Ihr Feld weiter umformt, in welche Fähigkeiten würden Sie investieren, die Ihnen kein Werkzeug einfach geben kann?
 - Lebenslanges Lernen wird oft als Verantwortung einer Einzelperson gerahmt. Aber Zugang über die Lebensspanne ist auch eine Gerechtigkeitsfrage. Wer bekommt die Zeit, die Ressourcen und die Unterstützung, als Erwachsener weiterzulernen —, und wie könnte KI diese Lücke verbreitern oder verengen?
@@ -43,7 +43,10 @@ Lebenslanges Lernen bezieht sich auf kontinuierliche Bildung über das Leben hin
 - **Designleitlinien für Erwachsenenlernen:** [[ai-adult-learning-guidelines-dis2026|Forschung vom AI-ALOE-Institut]] synthetisiert empirisch gegründete Designleitlinien für KI-gestützte Erwachsenenlerntechnologien, betont praktische, kontextsensible Unterstützung.
 - **KI-gelenkter Fähigkeitserwerb:** [[ai-guided-learning-audiovideo-2026|KI-gelenktes Audio-/Videolernen]] zeigt, wie KI die Konsumieren-Verstehen-Imitieren-Stufen des Fähigkeitserwerbs gerüsten kann, wobei Medien an die lernende Person angepasst werden.
 - **Von festen Curricula zu adaptiven Strukturen:** [[learnity-graphs-lifelong-learning-framework-2026|Learnity-Graphen]] schlagen vor, feste Hochschulcurricula als miteinander verbundene Wissenseinheiten zu überdenken, die Lernende flexibel über eine Lebensspanne navigieren können.
-- **Autonomie und Selbststeuerung:** [[andragogy-cognitive-delegation-genai-2026|Andragogik und kognitive Delegation]] überdenken Erwachsenenlerntheorie unter KI-vermittelter kognitiver Delegation und fragen, was selbstgesteuert bleibt, wenn KI an der Identifikation von Bedarfen, der Setzung von Zielen und der Produktion von Inhalten teilhat.
+- **Autonomie und Selbststeuerung:** [[andragogy-cognitive-delegation-genai-2026|Andragogik und kognitive Delegation]] überdenken Erwachsenen-[[learning-theories|Lerntheorie]] unter KI-vermittelter kognitiver Delegation und fragen, was selbstgesteuert bleibt, wenn KI an der Identifikation von Bedarfen, der Setzung von Zielen und der Produktion von Inhalten teilhat.
+
+- **Was Erwachsene von dieser Delegation erwarten.** In Interviews mit 20 von 60 vorab geprüften erwachsenen Lernenden an drei US-Universitäten beschrieben Lernende KI als [[collaborative-learning|kollaborativen Lern]]agenten, von und mit dem sie lernen, nicht als antwortgebendes Orakel. Sie sagten, sie wollten kein perfektes, fehlerfreies System, sondern eines, das im Gespräch bleibt und sich an sie anpasst ([[kim-ai-andragogy-2026|Kim et al., 2026]]). Selbststeuerung ist dieser Evidenz zufolge etwas, das Erwachsene im Austausch behalten wollen, statt es an ihn abzugeben — und das ist das Designziel, das die Autonomiefrage braucht.
+
 - **Politik und Gemeinschaft:** [[ai-lifelong-learning-policy|KI in der Politik zum lebenslangen Lernen]] und [[community-centered-ai-education-adults|gemeinschaftszentrierte KI-Bildung]] adressieren die institutionellen und Gerechtigkeitsdimensionen des KI-Lernens von Erwachsenen.
 - **Expertiseregneration selbst ist gefährdet.** In den KI-exponiertesten US-Berufen sahen Arbeitskräfte im Alter von 22–25 einen 16% relativen Beschäftigungsrückgang (Okt. 2022–Sep. 2025), während jene von 35–49 über 8% wuchsen, und die tiefe Expertise, die zur Validierung von KI-Output nötig ist, hängt von den Einstiegsrollen ab, die der Rückgang entfernt ([[cognitive-commons-ai-expertise-regeneration|Lovett (2026)]]).
 
@@ -102,4 +105,6 @@ Lebenslanges Lernen verbindet sich mit [[adult-learning|Erwachsenenbildung]] und
 - [[ai-lifelong-learning-policy]] — KI im lebenslangen Lernen: Chancen und Herausforderungen in der Erwachsenenbildungspolitik
 - [[community-centered-ai-education-adults]] — Mitgestaltung von gemeinschaftsorientierter KI-Bildung für Erwachsene
 - [[cognitive-commons-ai-expertise-regeneration]] — Die Tragödie des kognitiven Gemeinguts: KI und Regeneration von Expertise
+
+- [[kim-ai-andragogy-2026]] — Perspektiven erwachsener Lernender auf KI als kollaborativen Lernagenten in der Andragogik (Kim et al. 2026)
 

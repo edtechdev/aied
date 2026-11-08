@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Vibe-Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,8 +11,8 @@ level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
 translation_of: concepts/vibe-coding
-source_updated: "2026-10-25T14:15:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -27,7 +27,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **Vibe Coding** — Software bauen, indem man ein großes Sprachmodell iterativ promptet und das resultierende Verhalten beurteilt, ohne den zugrunde liegenden Quellcode direkt zu lesen oder zu bearbeiten. Von Andrej Karpathy 2025 populär gemacht als jener Arbeitsablauf, in dem man „vergisst, dass der Code überhaupt existiert“, ist Vibe Coding die LLM-native Realisierung von Programmierung in natürlicher Sprache und End-User-Development — Rahmungen, die in dieser Wissensbasis inzwischen als Synonyme behandelt werden —, in der Prosa zur primären Programmierschnittstelle wird.
+> **Vibe Coding** — Software bauen, indem man ein [[llm|großes Sprachmodell]] iterativ promptet und das resultierende Verhalten beurteilt, ohne den zugrunde liegenden Quellcode direkt zu lesen oder zu bearbeiten. Von Andrej Karpathy 2025 populär gemacht als jener Arbeitsablauf, in dem man „vergisst, dass der Code überhaupt existiert“, ist Vibe Coding die LLM-native Realisierung von Programmierung in natürlicher Sprache und End-User-Development — Rahmungen, die in dieser Wissensbasis inzwischen als Synonyme behandelt werden —, in der Prosa zur primären Programmierschnittstelle wird.
 
 ## Fragen zum Nachdenken
 
@@ -53,7 +53,7 @@ Eine vorregistrierte Querschnittstudie (N = 100 Studierende im Tertiärbereich) 
 
 ### Vibe Coding als End-User-Development und Werkzeug für Lehrkräfte
 
-Ein großes Versprechen von Vibe Coding ist, dass es Nichtprogrammierenden — einschließlich [[teacher-role|Lehrkräften]] und Domänenexpertinnen und -experten — erlaubt, eigene Software zu bauen, eine Form von End-User-Development im LLM-Zeitalter. Eine [[gaide-vibe-coding-k12-teachers|GAIDE-Rahmenwerk-Studie]] zeigte Lehrkräfte der K-12-Stufen (Nichtprogrammierende), die Vibe Coding in einem achtwöchigen Workshop nutzten, um KI-gestützte Lernwerkzeuge zu bauen, und dabei ihre [[ai-literacy|KI-Kompetenz]] erhöhten sowie „Lernen durch Erschaffen“ als Modell der Professionalisierung demonstrierten. In der Hochschulbildung baute eine Lehrkraft in wenigen Tagen per Vibe Coding einen [[vibe-coding-programming-process-visualizer|Programmierprozess-Visualisierer aus IDE-Aktivitätslogs]], der die Programmierprozesse der Studierenden für Lehren und [[academic-integrity|Prüfung]] sichtbar machte. Diese Fälle positionieren Vibe Coding nicht bloß als Fähigkeit der Lernenden, sondern als Autorenfähigkeit, die [[educational-development|neu formt, wer Bildungstechnologie erschaffen kann]].
+Ein großes Versprechen von Vibe Coding ist, dass es Nichtprogrammierenden — einschließlich [[teacher-role|Lehrkräften]] und Domänenexpertinnen und -experten — erlaubt, eigene Software zu bauen, eine Form von End-User-Development im LLM-Zeitalter. Eine [[gaide-vibe-coding-k12-teachers|GAIDE-Rahmenwerk-Studie]] zeigte [[k-12|K-12]]-Lehrkräfte (Nichtprogrammierende), die Vibe Coding in einem achtwöchigen Workshop nutzten, um KI-gestützte Lernwerkzeuge zu bauen, und dabei ihre [[ai-literacy|KI-Kompetenz]] erhöhten sowie „Lernen durch Erschaffen“ als Modell der Professionalisierung demonstrierten. In der [[higher-ed|Hochschulbildung]] baute eine Lehrkraft in wenigen Tagen per Vibe Coding einen [[vibe-coding-programming-process-visualizer|Programmierprozess-Visualisierer aus IDE-Aktivitätslogs]], der die Programmierprozesse der Studierenden für Lehren und [[academic-integrity|Prüfung]] sichtbar machte. Diese Fälle positionieren Vibe Coding nicht bloß als Fähigkeit der Lernenden, sondern als Autorenfähigkeit, die [[educational-development|neu formt, wer Bildungstechnologie erschaffen kann]].
 
 ### Homogenisierung des Designs: Zugang ohne Vielfalt
 
@@ -63,7 +63,7 @@ Das End-User-Development-Versprechen von Vibe Coding betrifft, wer bauen kann, n
 
 Vibe Coding eröffnet Kernfragen darüber neu, was gelernt wird, wenn KI die Implementierung automatisiert. Weil die nutzende Person keinen Code liest, muss sie dem Verhalten des Modells vertrauen — was Vibe Coding zu einem folgenreichen Fall der Spannung zwischen [[agency|Handlungsfähigkeit]] und [[cognitive-offloading|Übervertrauen]] macht, die sich durch KI-gestütztes Programmieren zieht. Curricula reagieren darauf, indem sie sich vom Lehren der Implementierung zum Lehren verlagern, wie man KI-erzeugte Artefakte anleitet, verifiziert und prüft (siehe [[reshaping-cs-education-genai|die Neugestaltung des Informatik-Grundstudiums]] und [[agentic-ai|agentisches Software Engineering]]). Vibe Coding verändert auch die erkenntnistheoretische Position der lernenden Person: Erfolg hängt weniger davon ab, Code zu schreiben, als Absicht präzise auszudrücken und Verhalten an Zielen zu messen — Kompetenzen, die näher an [[computational-thinking|computational thinking]] und strukturiertem Schreiben liegen als an klassischer Syntaxbeherrschung.
 
-Eine zweite Grenze zeigt sich im Bauen selbst: Die Code-Hürde zu entfernen kann die Diagnoselast unberührt lassen. Zwei Ingenieur-Fallstudien ließen eine Lehrkraft per Prompting von Gemini in gewöhnlicher Sprache innerhalb weniger Stunden lauffähige Websimulationen eines Batterie-Thermomanagementsystems und dreier ARQ-Protokolle bauen ([[caee-vibe-coding-simulation-development-engineering-education-2026|Tarasak et al. (2026)]]). Ein Duplicate-Packet-Fehler überlebte dann wiederholte Prompts, einschließlich eines, der das geforderte Verhalten benannte. Er wurde erst behoben, als die Lehrkraft aus dem Protokollverhalten auf ein unzureichendes Timeout-Intervall schloss, einen Parameter, den die Schnittstelle nie exponierte. Die Wirkung beider Simulationen auf das Lernen wurde nicht gemessen, sodass der Bericht Machbarkeit statt Wirksamkeit belegt.
+Eine zweite Grenze zeigt sich im Bauen selbst: Die Code-Hürde zu entfernen kann die Diagnoselast unberührt lassen. Zwei Ingenieur-Fallstudien ließen eine Lehrkraft per Prompting von Gemini in gewöhnlicher Sprache innerhalb weniger Stunden lauffähige [[simulation|Websimulationen]] eines Batterie-Thermomanagementsystems und dreier ARQ-Protokolle bauen ([[caee-vibe-coding-simulation-development-engineering-education-2026|Tarasak et al. (2026)]]). Ein Duplicate-Packet-Fehler überlebte dann wiederholte Prompts, einschließlich eines, der das geforderte Verhalten benannte. Er wurde erst behoben, als die Lehrkraft aus dem Protokollverhalten auf ein unzureichendes Timeout-Intervall schloss, einen Parameter, den die Schnittstelle nie exponierte. Die Wirkung beider Simulationen auf das Lernen wurde nicht gemessen, sodass der Bericht Machbarkeit statt Wirksamkeit belegt.
 
 ### Verbindungen zu verwandten Konzepten
 
@@ -85,7 +85,7 @@ Eine Fallstudie auf Ebene der Fakultät in dieser Wissensbasis liefert die organ
 
 **Für Lehrende und Lehrkräftebildende**
 
-- Lehren Sie den Unterschied zwischen reinem und code-sichtbarem Vibe Coding explizit, und verlangen Sie das zweite für alles, was mit Daten von Lernenden umgehen wird. Die Unterscheidung ist eine lehrbare Gewohnheit und keine philosophische Feinheit.
+- Lehren Sie den Unterschied zwischen reinem und code-sichtbarem Vibe Coding explizit, und verlangen Sie das zweite für alles, was mit Daten von Lernenden umgehen wird. Die Unterscheidung ist eine lehrbare Gewohnheit und keine [[philosophy-of-ai-in-education|philosophische]] Feinheit.
 - Halten Sie einen echten Programmierstrang neben der Vibe-Coding-Arbeit aufrecht, denn die Informatikleistung trug etwa doppelt so viel eindeutige Vorhersagevarianz. Natürlichsprachige Spezifikation als vollen Ersatz zu behandeln verwirft den stärkeren Prädiktor.
 - Lassen Sie Studierende das Artefakt verhaltensbezogen bewerten *und* den Quellcode von allem inspizieren, was sie einsetzen. Erzeugten Code zu lesen ist eine Prüfkompetenz, und sie ist für Studierende, die prompten können, nicht automatisch gegeben.
 
@@ -97,7 +97,7 @@ Eine Fallstudie auf Ebene der Fakultät in dieser Wissensbasis liefert die organ
 
 **Für Forschende**
 
-- Berichten Sie die Vibe-Coding-Bedingung (rein versus code-sichtbar) zusammen mit den Ergebnissen und nutzen Sie expertengeprüfte, GUI-orientierte Aufgaben statt selbst berichteten Erfolg, damit Ergebnisse über Studien hinweg vergleichbar sind.
+- Berichten Sie die Vibe-Coding-Bedingung (rein versus code-sichtbar) zusammen mit den Ergebnissen und nutzen Sie expertengeprüfte, GUI-orientierte Aufgaben statt [[self-report-measures|selbst berichteten]] Erfolg, damit Ergebnisse über Studien hinweg vergleichbar sind.
 - Messen Sie die Vielfalt der Artefakte und nicht nur die Zahl der Artefakte oder der Erstellenden, wenn das Zugangsargument geprüft wird.
 
 ## Verbundene Konzepte

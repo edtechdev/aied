@@ -1,14 +1,14 @@
 ---
 title: Spielbasiertes Lernen
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-10-30T06:18:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -42,9 +42,13 @@ GBL gründet in [[motivation|Motivation]]-, [[student-engagement|Studierendeneng
 - **Robotervermittelte Spiele:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] ist ein robotervermitteltes Rollenspiel zur Anti-Mobbing-Intervention, und [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] nutzt interaktives [[storytelling-in-education|digitales Storytelling]], um Motivation zu steigern.
 - **KI-[[conversational-ai|Konversationsagenten]] in Simulationsspielen:** Wenzel, Geiger, and Liening (2026) leiten den CAIS-GBL-Rahmen ab —, vier Gestaltungsprinzipien und fünfzehn Gestaltungsmerkmale für KI-Konversationsagenten in digitalem spielbasiertem Lernen —, aus theoriegetriebenen Meta-Anforderungen, die kognitives, motivationales, [[affective-computing|affektives]] und [[sociocultural-learning|soziokulturelles]] Engagement umspannen, mit einer [[equity-in-ai-education|Gerechtigkeit]]-durch-Gestaltung-Haltung. Ihr instanziierter Agent (Lara) in einem Unternehmenssimulationsspiel wurde positiv für kognitive und [[community-of-inquiry|soziale Präsenz]] und [[self-regulated-learning|Selbstregulations]]unterstützung aufgenommen und adressierte die verbreitete Lücke begrenzten [[formative-assessment|formativen]] Feedbacks und strukturierter Reflexion in Simulationsspielen.
 
+- **KI-GBL-Wirksamkeit:** Eine [[meta-analysis-systematic-review|Metaanalyse]] über 55 Studien zu KI-unterstütztem spielbasiertem Lernen findet positive Effekte auf Wissen, intrinsische Motivation und affektives Engagement, doch nur 4 Studien (7%) erreichten seine Hochqualitäts-Schwelle und nur 4 (7%) waren [[rct|RCTs]] ([[ai-game-based-learning-systematic-review-2026|Kaşarcı & Yurt, 2026]]). Wirksamkeit hing daran, den KI-Mechanismus mit einer benannten [[learning-theories|Lerntheorie]] auszurichten.
 
-- **KI-GBL-Wirksamkeit:** Ein systematischer Review von 55 Studien zu KI-unterstütztem spielbasiertem Lernen findet positive Effekte auf Wissen, intrinsische Motivation und affektives Engagement, doch nur 4 Studien (7%) erreichten seine Hochqualitäts-Schwelle und nur 4 (7%) waren [[rct|RCTs]] ([[ai-game-based-learning-systematic-review-2026|Kaşarcı & Yurt, 2026]]). Wirksamkeit hing daran, den KI-Mechanismus mit einer benannten [[learning-theories|Lerntheorie]] auszurichten.
-- **Studierende als Spielgestaltende statt als Spielende:** [[karampa-students-game-designers-ai-literacy-2026|Karampa et al. (2026)]] ließen 22 Grundschulkinder im Alter von 8–12 Jahren ein erweitertes Escape-Brettspiel zum Thema Desinformation gestalten und stapelten dabei [[project-based-learning|projektbasiertes Lernen]] mit [[design-thinking|Design Thinking]] und dem Room2Educ8-Escape-Room-Rahmenwerk. Die zusammengesetzte [[ai-literacy|KI-Kompetenz]] auf einem 20-Item-DigComp-3.0-Fragebogen stieg von 3,684 auf 4,309 auf einer 5-Punkte-Skala, t(21) = −21,086, p < .001, wobei sich alle fünf Kompetenzbereiche verbesserten. Die Klasse erzeugte 11 Vorschläge mit KI-Prompts und führte sie zu einem baubaren Spiel zusammen. Selbstauskunft, eine Klasse und keine Kontrollgruppe.
+- **[[generative-ai|GenAI]] als Autor des Spiels, nicht als sein Spieler:** [[xie-genai-mystery-game-legal-education-2026|Xie et al. (2026)]] ließen ein Modell sieben Figuren und Erzählmaterial für ein Offline-Krimi-Rollenspiel entwerfen, und das Spiel schlug danach die Vorlesung derselben Lehrkraft in einem randomisierten Versuch mit 42 Personen pro Arm (partielles *η*² = 0,566). Studierende nutzten die KI nie, sodass der Effekt dem Format gehört.
+
+- **Studierende als Spielgestaltende statt als Spielende:** [[karampa-students-game-designers-ai-literacy-2026|Karampa et al. (2026)]] ließen 22 Grundschulkinder im Alter von 8–12 Jahren ein erweitertes Escape-Brettspiel zum Thema Desinformation gestalten und stapelten dabei [[project-based-learning|projektbasiertes Lernen]] mit [[design-thinking|Design Thinking]] und dem Room2Educ8-Escape-Room-Rahmenwerk. Die zusammengesetzte [[ai-literacy|KI-Kompetenz]] auf einem 20-Item-DigComp-3.0-Fragebogen stieg von 3,684 auf 4,309 auf einer 5-Punkte-Skala, t(21) = −21,086, p < .001, wobei sich alle fünf Kompetenzbereiche verbesserten. Die Klasse erzeugte 11 Vorschläge mit KI-Prompts und führte sie zu einem baubaren Spiel zusammen. [[self-report-measures|Selbstauskunft]], eine Klasse und keine Kontrollgruppe.
+
+- **Die KI in einen Dialogcoach und eine Schwierigkeitsmaschine teilen.** Eine KI-erweiterte Roblox-Umgebung für informatisches Denken in der Oberstufe paarte einen GPT-4-Nichtspielercharakter, auf zwei bis drei Sätze begrenzt und daran gehindert, Antworten zu geben, mit einer regelbasierten Engine, die die Schwierigkeit aus Zeit bis zur Lösung und Fehlerrate setzte ([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang & Kanjug, 2026]]).
 
 ### Gamifizierung
 
@@ -82,7 +86,7 @@ GBL und Gamifizierung verbinden sich zusammen mit [[educational-robotics]], [[st
 
 - Heben Sie die Designqualität des Felds statt seines Umfangs; eine Hochqualitätsquote von 7% ist die bindende Einschränkung dessen, was geschlossen werden kann.
 
-- **Konversationelles Feedback in einer Simulation hebt die germane Last, ohne die extrinsische zu senken.** In einem fünfwöchigen betriebswirtschaftlichen Simulationsspiel mit **234 Studierenden** berichteten regelmäßige Nutzende eines GPT-4o-basierten Feedback-Chatbots von **signifikant höherer germaner kognitiver Last** als Nutzende mit Zugang, die sich nicht einließen (β = −.468, p < .001), und als die statische Feedback-Kontrolle (β = −.253, p = .028) — während die **extrinsische Last in beiden Spezifikationen keinen Effekt zeigte** (F(1, 219) = 0.499, p = .481). Beide Lasten **sanken über die fünf Wochen** (extrinsisch β = −.388, p < .001), ein Neuheitseffekt, gemessen auf kognitiver Last statt auf Engagement ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger und Liening, 2026]]). Der Designpunkt ist, dass das Feedback Personalisierung, Signalisierung, Segmentierung und Feed-Forward-Struktur über 19 konkrete Indikatoren trug — die Chatbot-Oberfläche allein ist nicht die Behandlung.
+- **Konversationelles Feedback in einer Simulation hebt die germane Last, ohne die extrinsische zu senken.** In einem fünfwöchigen betriebswirtschaftlichen Simulationsspiel mit **234 Studierenden** berichteten regelmäßige Nutzende eines GPT-4o-basierten Feedback-Chatbots von **signifikant höherer germaner kognitiver Last** als Nutzende mit Zugang, die sich nicht einließen (β = −.468, p < .001), und als die statische Feedback-Kontrolle (β = −.253, p = .028) — während die **extrinsische Last in beiden Spezifikationen keinen Effekt zeigte** (F(1, 219) = 0.499, p = .481). Beide Lasten **sanken über die fünf Wochen** (extrinsisch β = −.388, p < .001), ein Neuheitseffekt, gemessen auf kognitiver Last statt auf Engagement ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger und Liening, 2026]]). Der Designpunkt ist, dass das Feedback [[personalized-learning|Personalisierung]], Signalisierung, Segmentierung und Feed-Forward-Struktur über 19 konkrete Indikatoren trug — die Chatbot-Oberfläche allein ist nicht die Behandlung.
 
 ## Verbundene Konzepte
 - [[educational-robotics]]
@@ -109,3 +113,7 @@ GBL und Gamifizierung verbinden sich zusammen mit [[educational-robotics]], [[st
 - [[genai-motivation-engagement-2026]] — Generative KI, Motivation und Engagement
 - [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX-Arbeitslast über gamifizierte/KI-Bedingungen hinweg
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS-Motivation und KI-unterstützte Gamifizierung
+
+- [[xie-genai-mystery-game-legal-education-2026]] — Von GenAI verfasstes Krimi-Rollenspiel gegen die Vorlesung derselben Lehrkraft in der juristischen Ausbildung (Xie et al. 2026)
+- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Design und vorläufige Validierung einer KI-erweiterten spielbasierten Lernumgebung für informatisches Denken
+

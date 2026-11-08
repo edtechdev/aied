@@ -22,7 +22,7 @@ confidence: high
 connected_resources: [pedagogical-promptbook, student-guide-to-ai, process-feedback, id-toolbox]
 translation_of: resources/ai-infused-assignment-playbook
 source_updated: "2026-10-10T10:25:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

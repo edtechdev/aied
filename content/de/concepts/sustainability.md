@@ -1,7 +1,7 @@
 ---
 title: Nachhaltigkeit
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,8 +10,8 @@ level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-10-28T18:53:18-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -31,7 +31,7 @@ ai_assist:
 ## Fragen zum Nachdenken
 
 - Die Seite unterscheidet zwei Wege: „KI für Nachhaltigkeit“ (KI nutzen, um Nachhaltigkeitsergebnisse voranzubringen) und „nachhaltige KI“ (den eigenen ökologischen und ethischen Fußabdruck von KI verringern). Können Sie sich eine Weise vorstellen, wie ein KI-Werkzeug das eine Ziel voranbringen und das andere untergraben könnte?
-- Das Trainieren und Betreiben großer Sprachmodelle trägt einen echten CO₂- und Wasserfußabdruck. Wenn eine Institution Nachhaltigkeit als Wert bewirbt und zugleich energieintensive KI einsetzt, welche Spannungen entstehen — und wer sollte sie abwägen?
+- Das Trainieren und Betreiben [[llm|großer Sprachmodelle]] trägt einen echten CO₂- und Wasserfußabdruck. Wenn eine Institution Nachhaltigkeit als Wert bewirbt und zugleich energieintensive KI einsetzt, welche Spannungen entstehen — und wer sollte sie abwägen?
 - Bevor Sie weiterlesen: Wie würden Sie „nachhaltige Bildung“ definieren? Die Seite behandelt sie als wertbasiertes, menschenzentriertes Projekt, ausgeprägt vom Einsatz von Bildung als Instrument für Nachhaltigkeit — wie unterscheiden sich diese?
 - Wenn von Bildung erwartet wird, „Nachhaltigkeitsbewusstsein“ der Lernenden aufzubauen, welche Rolle könnte KI dabei spielen — und könnte die Integration von KI in das Curriculum Nachhaltigkeit lehren, während ihr eigener Fußabdruck die Lektion stillschweigend widerspricht?
 - Was würde es bedeuten, dass eine Bildungseinrichtung in ihrer KI-Nutzung echt nachhaltig ist, und welche ihrer Entscheidungen (Beschaffung, Einsatz, Unterrichten) zählen Ihrer Meinung nach am meisten?
@@ -40,7 +40,7 @@ ai_assist:
 
 Nachhaltigkeit in der AIED erstreckt sich über drei überlappende Rahmungen: **nachhaltige Bildung** (ein wertbasiertes, menschenzentriertes Bildungsprojekt), **Nachhaltigkeit in der Bildung** (Bildung als Instrument für Nachhaltigkeit nutzen), und **Bildung für nachhaltige Entwicklung** (BNE, die globale Politikagenda, besonders [[k-12|Nachhaltigkeitsziel 4]]). KI schneidet jede davon unterschiedlich — und das Feld unterscheidet zwei Kernwege: **KI für Nachhaltigkeit** (KI als Werkzeug, um Nachhaltigkeitsergebnisse zu erreichen) und **nachhaltige KI** (den eigenen ökologischen und ethischen Fußabdruck von KI verringern).
 
-Der ökologische Weg hat eine dokumentierte Lücke: [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] berichten, dass die ökologischen Folgen von GenAI in den Richtliniendokumenten der Universität am Studienstandort nicht diskutiert wurden, und argumentieren, dass institutionelle Orientierung, die sie auslässt, die Anliegen von Lehrenden und Studierenden nicht adressiert.
+Der ökologische Weg hat eine dokumentierte Lücke: [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] berichten, dass die ökologischen Folgen von [[generative-ai|GenAI]] in den Richtliniendokumenten der Universität am Studienstandort nicht diskutiert wurden, und argumentieren, dass institutionelle Orientierung, die sie auslässt, die Anliegen von Lehrenden und Studierenden nicht adressiert.
 
 ## Die zweiteilige Taxonomie
 
@@ -51,7 +51,7 @@ Die Abdeckung der Wissensbasis, verankert durch [[daniel-ai-sustainability-scopi
 
 ## KI für Nachhaltigkeit in der Bildung nutzen
 
-Ein wachsender Korpus von Arbeit behandelt KI als Werkzeug *für* Nachhaltigkeitsbildung und -ergebnisse:
+Ein wachsender Korpus von Arbeit behandelt KI als Werkzeug *für* [[environmental-education|Nachhaltigkeitsbildung]] und -ergebnisse:
 
 - **KI-integrierte Curricula, die Nachhaltigkeitsbewusstsein aufbauen.** [[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]] schlagen das AI-SEE-Rahmenwerk vor (intelligenzgetrieben, grün-ermächtigt, verantwortungsführend, praxisintegriert), das KI über das [[curriculum-design|Curriculum]] hinweg als kognitives [[scaffolding|Scaffold]] und Ressource für Nachhaltigkeitsanalyse auf Systemebene integriert. In einem ingenieurbezogenen Fall mit 144 Studierenden erhöhte es Nachhaltigkeitsbewusstsein und erzeugte verhaltensbezogenes [[student-engagement|Engagement]] auf persönlicher, akademischer, professioneller und sozialer Ebene, mit sozialer Diffusion über das Klassenzimmer hinaus.
 - **KI in grüner und nachhaltiger Bildung.** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] fand, dass KI-assistiertes [[learning-design|Unterrichtsdesign]] unter den Beschränkungen der Nachhaltigkeitsentwicklungspädagogik Arbeitsabläufe der Lehrenden und [[pedagogy|pädagogisches]] Design verbesserte. [[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]] fanden, dass der praktische Einsatz von KI durch Lehrende in Naturwissenschaften/grüner Energie und ihre Beteiligung an der Entwicklung BNE-ausgerichteter Materialien — mehr als abstraktes KI-Wissen oder Einstellungen — ihre Fähigkeit vorhersagten, KI in die [[k-12|Bildung zu grüner Energie]] zu integrieren.

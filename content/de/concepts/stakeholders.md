@@ -1,15 +1,15 @@
 ---
 title: Akteure in der KI-Bildung
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/stakeholders
-source_updated: "2026-10-26T02:00:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -78,7 +78,7 @@ Identität ist der menschliche Anker der Akteurslandschaft: Sie ist das, was KI 
 
 **„Jeder Akteursgruppe eine Stimme zu geben, löst den Konflikt."** Konsultation ist keine Gewichtung. Die Rahmung dieser Seite selbst legt die Designfrage darauf, wie jedem Anliegen **echtes Gewicht gegeben wird, statt die lauteste Stimme gewinnen zu lassen**, was ein Verfahrensproblem ist — wer entscheidet, mit welcher Evidenz und mit welcher Berufungsmöglichkeit —, kein Kommunikationsproblem.
 
-**„Akteursanalyse ist eine Übung der frühen Phase."** Die Spannungen bestehen im Betrieb fort, weil die Rollen dasselbe System weiterhin unterschiedlich interpretieren. Eine studierendengerichtete Personalisierungsschicht und ein lehrkräftegerichtetes Integritäts-Dashboard sind dieselben Daten aus zwei Positionen betrachtet, und der Konflikt kehrt zurück, sobald eines davon angepasst wird.
+**„Akteursanalyse ist eine Übung der frühen Phase."** Die Spannungen bestehen im Betrieb fort, weil die Rollen dasselbe System weiterhin unterschiedlich interpretieren. Eine studierendengerichtete [[personalized-learning|Personalisierungsschicht]] und ein lehrkräftegerichtetes Integritäts-Dashboard sind dieselben Daten aus zwei Positionen betrachtet, und der Konflikt kehrt zurück, sobald eines davon angepasst wird.
 
 **„Eine Identität über Zielgruppen hinweg heißt, dass eine Botschaft allen dienen kann."** Über Zielgruppen hinweg zu kommunizieren verlangt, dieselbe Entscheidung in verschiedene Begriffe zu übersetzen, ohne sie falsch darzustellen, was mehr ist als das Umschreiben einer Botschaft in vier Varianten.
 

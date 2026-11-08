@@ -1,15 +1,15 @@
 ---
 title: Vorwissen
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-29T04:19:20-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-28T01:09:26-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -42,8 +42,11 @@ Vorwissensaktivierung ist einer der robustesten Befunde in den [[learning-scienc
 ## Die Rolle von Vorwissen
 
 - **Es ist der stärkste Prädiktor von Lernen.** Jahrzehnte von [[research-methods-aied|Forschung]] zeigen, dass das, was eine lernende Person bereits weiß, stärker mit [[learning-gains|Lernergebnissen]] korreliert als fast jeder andere Faktor, weil neue Informationen relativ zu existierenden mentalen Modellen enkodiert werden. KI-Systeme, die sich an den Vorwissensstand jeder lernenden Person anpassen, versprechen daher besondere Effizienz und [[transfer-of-learning|Transfer]].
+
+- **Wie viel stärker, in einem randomisierten Vergleich.** Zwei ansonsten identische Mathematik-Tutoren für die zweite Klasse, die sich nur darin unterschieden, ob die Aufgabenauswahl einer Bayesian-Knowledge-Tracing-Meisterschaftsschätzung folgte, zeigten keinen Unterschied in den Posttest-Werten. Vorwissen sagte diese Werte mit η²p = .63 vorher (F(1, 124) = 206.99, p < .001), während die adaptive Sequenz η²p = .00 erklärte ([[adaptive-intelligent-tutoring-primary-mathematics-2026|Sibley, Berner und Schmalfeldt (2026)]]). Anpassung ordnet die Reihenfolge der Übung neu; was die lernende Person mitbrachte, trug das Ergebnis weiterhin.
+
 - **Aktivierung zählt, nicht nur Besitz.** Vorwissen zu haben genügt nicht —, es muss aktiv abgerufen und mit dem neuen Material verbunden werden. Das ist, warum „Vorwissen aktivieren“ ein standardmäßiger [[pedagogy|instruktionaler]] Zug ist, und warum Abrufübung (abrufen, was Sie wissen, bevor Sie es ergänzen) Lernen über bloße Wiederaussetzung hinaus verbessert.
-- **Es sagt nicht immer vorher, wer die Arbeit tut, die Lernen treibt.** In einer fünftägigen Lernen-durch-Lehren-Studie mit 23 Mittelstufentutorinnen und -tutoren sagten vorherige Testergebnisse nicht den Anteil wissensaufbauender Antworten vorher, die eine Tutorin oder ein Tutor produzierte, und Tutorinnen und Tutoren mit geringem Vorwissen, die Wissen aufbauten, endeten statistisch auf Niveau mit Peers mit hohem Vorwissen ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
+- **Es sagt nicht immer vorher, wer die Arbeit tut, die Lernen treibt.** In einer fünftägigen [[learning-by-teaching|Lernen-durch-Lehren-Studie]] mit 23 Mittelstufentutorinnen und -tutoren sagten vorherige Testergebnisse nicht den Anteil wissensaufbauender Antworten vorher, die eine Tutorin oder ein Tutor produzierte, und Tutorinnen und Tutoren mit geringem Vorwissen, die Wissen aufbauten, endeten statistisch auf Niveau mit Peers mit hohem Vorwissen ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **Es prägt Interpretation.** Lernende interpretieren neue Informationen durch das, was sie bereits glauben. Wenn diese Überzeugungen falsch sind ([[misconceptions|Missverständnisse]]), kann Vorwissen mit Lernen *interferieren*, weshalb Instruktion Missverständnisse aufdecken und adressieren muss, statt einen neutralen Startpunkt anzunehmen.
 - **Es treibt Lernendenmodellierung.** Um zu personalisieren, muss ein KI-System den Vorwissensstand der lernenden Person schätzen —, die Basis von [[knowledge-tracing|Knowledge Tracing]], Lernendenmodellierung und adaptivem [[scaffolding|Gerüstbau]]. Die Qualität dieser Schätzungen bestimmt, ob Anpassung echt hilfreich oder irreführend ist.
 - **Wissensinhalt bestimmt, welcher Prozess durch Übung rekrutiert wird.** Ob Lernen an Gedächtnis oder an Induktion hängt, wird durch die Vorwissensstruktur des Ziels gesetzt: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] folgen dem KLI-Rahmenwerk in der Unterscheidung von Wissenskomponenten mit konstanten Bedingungen und Reaktionen (Fakten, erworben durch Gedächtnis und Abrufübung) von jenen mit variablen Bedingungen und Reaktionen (Fähigkeiten, erworben durch Induktion und Generalisierung auf neue Inputs) —, weshalb sich die optimale Mischung aus ausgearbeiteten Beispielen und Übung für Fakteninhalt vs. Fähigkeitsinhalt unterscheidet.
@@ -105,3 +108,6 @@ Generative KI hat Vorwissen zu einer zentralen Designbetrachtung statt zu einer 
 - [[bridging-instructional-design-framework-math]] — Ein Rahmenwerk des instruktionalen Designs für Mathematik
 - [[knowledge-building-tutor-learning-2026]] — Wissensaufbau sagt Tutorinnen- und Tutorlernen stärker voraus als Vorwissen, und Tutorinnen und Tutoren mit geringem Vorwissen holen auf, wenn sie Wissen aufbauen
 - [[rachatasumrit-example-problem-ratio-2026]]
+
+- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Vorwissen trug den Posttest (η²p = .63), während adaptive Aufgabenauswahl nichts trug (Sibley et al. 2026)
+

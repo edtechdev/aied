@@ -1,7 +1,7 @@
 ---
 title: Lerntransfer
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,8 +9,8 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-10-25T22:20:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -40,7 +40,7 @@ ai_assist:
 
 Lerntransfer ist ein fundamentales Anliegen in der Bildungs[[research-methods-aied|forschung]], und KI-Werkzeuge haben es dringend gemacht. Das definierende empirische Muster, das über Studien zu KI in der Bildung dokumentiert ist, ist ein **Transferparadox**: Studierende, die KI nutzen, zeigen typischerweise unmittelbare, messbare Gewinne bei Aufgaben, bei denen KI verfügbar ist, doch diese Gewinne bestehen oft nicht –, oder kehren sich sogar um –, wenn KI entfernt wird und Studierende ihr Verständnis unabhängig demonstrieren müssen. Dieses Muster verwickelt [[cognitive-offloading|übermäßige Abhängigkeit]], die Theorie der kognitiven Last und [[metacognition|Metakognition]] als die wirksamen Mechanismen und verbindet sich direkt mit Debatten über das Design von [[intelligent-tutoring|KI-Tutoring]].
 
-Bereitschaft ist nicht Transfer: KI-assistierte Sprechpraxis war mit niedrigerer Sprechangst und höherer Bereitschaft assoziiert, mit Menschen zu sprechen, doch beobachtete keine Studie menschliches Sprechen, wodurch die Route von KI-Probe zu menschlicher kommunikativer Fähigkeit ein ungetesteter pädagogischer Vorschlag bleibt ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
+Bereitschaft ist nicht Transfer: KI-assistierte Sprechpraxis war mit niedrigerer [[anxiety-and-stress|Sprechangst]] und höherer Bereitschaft assoziiert, mit Menschen zu sprechen, doch beobachtete keine Studie menschliches Sprechen, wodurch die Route von KI-Probe zu menschlicher kommunikativer Fähigkeit ein ungetesteter pädagogischer Vorschlag bleibt ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
 ### Das Transferparadox
 
@@ -72,7 +72,7 @@ Alle fünf Studien zeigen ein Muster **negativen oder ausbleibenden Transfers**,
 
 **Werkzeugabhängige Leistung.** Studierende können auf die spezifischen Anmutungen des KI-Werkzeugs optimieren ([[prompt-engineering|Prompt-Engineering]], Rückgriff auf generierte Codestruktur) statt Domänengeneralisierung aufzubauen –, eine Form [[cognitive-offloading-speedup-illusion|kognitiver Entlastung]], die produktiv fühlt, aber dauerhaftes Lernen verdrängt.
 
-Ein geschütztes Klassenzimmer kann auch die falsche Gewohnheit lehren: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] warnen, Simulationen mit vorab festgelegten Regeln filterten Unsicherheit heraus und verstärkten Regeltreue, daher könnten in ihnen gebildete Entscheidungsgewohnheiten zu einer kognitiven Haftung werden, sobald Studierende in realen Settings auf konkurrierende Interessen und unvollständige Information treffen.
+Ein geschütztes Klassenzimmer kann auch die falsche Gewohnheit lehren: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] warnen, [[simulation|Simulationen]] mit vorab festgelegten Regeln filterten Unsicherheit heraus und verstärkten Regeltreue, daher könnten in ihnen gebildete Entscheidungsgewohnheiten zu einer kognitiven Haftung werden, sobald Studierende in realen Settings auf konkurrierende Interessen und unvollständige Information treffen.
 **Schichtempfindliche Entlastung und Transfer.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] testet Salomon, Perkins & Globersons Unterscheidung „Effekte mit gegenüber Effekten von Technologie“ direkt im [[generative-ai|GenAI]]-assistierten Schreiben: Ein achtwöchiges Quasiexperiment fand, dass offene KI-Kollaboration die gestützte Schreibleistung maximierte, aber die *niedrigsten* unabhängigen No-KI-Nahtransfer-Ergebnisse erzeugte, während begrenzte Unterstützung mit Reflexion unabhängige Kompetenz bewahrte. Tiefere Entlastungsschichten (Schlussfolgern, Struktur) sagten schlechteren Transfer vorher als Oberflächenschichten (Grammatik). Das ist direkte Klassenzimmerevidenz, dass die Leistungsgewinne der KI bei *mit*-Unterstützung sich nicht auf unabhängige Leistung bei *von*-Unterstützung übertragen –, und dass die Tiefe der Delegation, nicht nur ob KI genutzt wird, Transfer prägt.
 
 Ein komplementäres, wenn auch konfundiertes Beispiel kommt aus der [[physics-education|Physik]]: Das Redesign eines Einführungskurses zu Kern- und Teilchenphysik an der Ruhr-Universität Bochum ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) ließ Studierende kollaborative, ressourcenreiche Forschungsprobleme mit KI-Assistenz erfolgreich bewältigen, doch dieselben Studierenden erreichten im Mittel 20,6/80 in einer konventionellen schriftlichen Prüfung ohne Hilfsmittel, wobei mehrere ernsthafte Versuche Standardberechnungen nicht vollenden konnten. Die Autoren lesen das als Evidenz, dass assistierte Leistung sich nicht automatisch auf unaufgeforderte Leistung überträgt, und ihr Mittel ist absichtsvolles Design: die schriftliche Prüfung zum alleinigen Notenmaßstab zu machen, Übungsaufgaben vorab freizugeben, damit die Unterrichtszeit zu vorbereiteter Diskussion wird, und Vorkenntnisvorbereitung, durchgearbeitete Beispiele und Festigung rund um die erkundende KI-erlaubte Arbeit zu ergänzen.
@@ -98,6 +98,8 @@ Das richtet sich an der Forschung zu [[intelligent-tutoring|KI-Tutoring]] aus, d
 2. **Domänenunterschiede:** Ist Transfer besser in wohlstrukturierten Domänen (Mathematik) gegenüber schlecht strukturierten Domänen (Schreiben)?
 3. **Individuelle Unterschiede:** Leiden Studierende mit hohem [[prior-knowledge|Vorwissen]] weniger Transferverlust als Novizen?
 4. **Fähigkeitsbehebung:** Können explizite „KI-aus“-Übungssitzungen Werkzeugabhängigkeit umkehren?
+
+Die Frage der Zeitskala hat inzwischen eine Formalisierung. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] nennt das Intervall nach dem Rückzug kognitives Auswaschen (cognitive washout) und gibt ihm vier mögliche Verläufe: elastischer Rückprall, teilweises Plateau, latentes Gerüst und Übererholung. Die Umkehrbarkeit, argumentiert die Arbeit, entscheidet über die Schwere, und sie schlägt ein vorregistrierbares drearmiges Protokoll über zweiundzwanzig Wochen vor, um sie zu messen. Die oben genannten Studien prüften Transfer Stunden nach Ende der Unterstützung, sodass die Wochen danach der Teil der ersten offenen Frage dieser Seite sind, der wirklich ungemessen bleibt.
 
 ### Verbindungen zu verwandten Konzepten
 
@@ -144,3 +146,5 @@ Lerntransfer verbindet sich mit [[metacognition|Metakognition]] (Selbstüberwach
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — KI-gestützte Sprechpraxis erhöhte die Bereitschaft gegenüber Menschen, doch keine Studie beobachtete menschliches Sprechen
 - [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: gesteigertes Lernen durch funktionale robotische Verkörperung am Schreibtisch
+
+- [[cognitive-washout-ai-skill-decay-2026]] — Cognitive Washout: das Intervall nach dem Rückzug und ein 22-Wochen-Messprotokoll (Yajee 2026)

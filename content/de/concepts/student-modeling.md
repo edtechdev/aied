@@ -1,14 +1,14 @@
 ---
 title: "Modellierung der Lernenden und adaptive Instruktion"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-26T10:50:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-05T21:30:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -53,9 +53,11 @@ Ein prädiktives Lernendenmodell kann auf der Struktur der Einschreibung ruhen s
 
 Modelle der Studierenden können auch rein aus Verhaltensspuren gebaut werden und dennoch Anpassung stützen. [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] leiteten drei Engagementprofile — Beobachtung, Konstruktion und Exploration — aus den Clickstreams von 315 Online-Lernenden ab, die 822 ökologische Modelle in VERA bauten, ohne jede demografische oder kontextuelle Daten, und zeigten, dass diese Profile die Modellqualität vorhersagen (Exploration erzeugt die komplexesten und vielfältigsten Modelle, während Beobachtung von kopierten statt originalen Modellen dominiert wird). Solche Charakterisierungen auf Engagementebene sind die grobkörnigen Studierendenmodelle, die die [[adaptive-learning|Adaptive-Instruktion]]-Schicht konsumieren kann, um Feedback zu zielen.
 
-Affektive Modellierung der Studierenden ist eine weitere Dimension: ein Mathe-Tutor schloss Emotion aus konversationellem Text und Gesichtsausdruck und bildete den aggregierten Zustand auf Tutoringstrategien ab, aber die multimodale Fusion erreichte nur 60% Genauigkeit gegenüber den eigenen Annotationen der Teilnehmenden, was die Affektlesart zum schwächsten Glied der Pipeline macht ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
+Affektive Modellierung der Studierenden ist eine weitere Dimension: ein Mathe-Tutor schloss Emotion aus konversationellem Text und Gesichtsausdruck und bildete den aggregierten Zustand auf Tutoringstrategien ab, aber die [[multimodal|multimodale]] Fusion erreichte nur 60% Genauigkeit gegenüber den eigenen Annotationen der Teilnehmenden, was die Affektlesart zum schwächsten Glied der Pipeline macht ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
 
 [[cross-subject-validity-delayed-start|Gutterman et al. (2026)]] fanden, dass ein während Mathematikübungen aufgezeichnetes Verzögerungsstartsignal Englischergebnisse vorhersagte, wobei chronisch Verzögernde (über 13 Minuten) geringere Zugewinne zeigten (ELA β = -.11 SD), sogar nach Kontrolle für [[prior-knowledge|Vorwissen]] und Zeit-auf-Aufgabe — weshalb verhaltensbezogene Studierendenmodelle über Fächer hinweg ohne Neu-Training pro Kurs übertragen können, obwohl ihre Schnittpunkte neu abgeleitet werden müssen.
+
+Wahrgenommene Schwierigkeit ist eine weitere Dimension der Lernendenmodellierung, und sie lässt sich aus personenbezogenen Merkmalen statt allein aus Textstatistiken vorhersagen. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al. (2025)]] bauten profilbasierte Lesermodelle aus Bewertungen von 3.954 Sätzen durch 193 deutsche Oberstufenschülerinnen und -schüler, und ihr KNN-plus-XGBoost-Ensemble erreichte einen RMSE von 0,822 gegenüber einer Mittelwert-Baseline von 1,070, mit R² = 0,396. Jede Regression, die Lesermerkmale einschloss, schlug sowohl die Mittelwert- als auch die Durchschnittskomplexitäts-Baseline, sodass ein Lernendenmodell, das erfasst, wer die lesende Person ist, vorhersagt, wie schwer sich ein Text anfühlt — eine Wahrnehmungsdimension, die die anderen Modelle dieser Seite nicht tragen.
 
 ## Die Adaptive-Instruktion-Schicht
 
@@ -81,19 +83,20 @@ Die Konzepte bilden eine Pipeline statt Konkurrenten: **Modellierung der Studier
 
 Über die gesamte Familie hinweg ist die definierende Validitätsherausforderung dieselbe: die Repräsentation der lernenden Person muss **den wahren Zustand einer lernenden Person treu widerspiegeln** statt der Standardannahmen des Systems. Für **Modellierung der Studierenden** und [[knowledge-tracing|Knowledge Tracing]] bedeutet das, dass das Modell echt erfassen muss, was eine lernende Person weiß ([[ai-ed-evaluation|Evaluation]] und [[assessment-validity|Messvalidität]]). Für [[simulating-students|Simulation]] bedeutet es, dass die synthetische lernende Person realistische Unvollkommenheit zeigen muss statt der vollen Kompetenz des Modells oder [[ai-sycophancy|sykophantischer]] Zustimmung. Adaptive Systeme, die fehlerbehaftete Modelle konsumieren, erben und propagieren diesen Fehler.
 
-
 Modelle, die den Zustand der Lernenden aus Gameplay erschließen, erreichten AUCs von 0.848–0.913, doch nur zwei der 55 reviewten Studien auditieren sie auf demografischen Bias, und genau eine untersuchte unterschiedliche Ergebnisse nach Fähigkeit der lernenden Person ([[ai-game-based-learning-systematic-review-2026|Kaşarcı und Yurt (2026)]]).
 
-Manche beabsichtigte Signale sind aus dem Dialog vielleicht überhaupt nicht zurückholbar: der Pilot des Learning-Context-Rahmenwerks holte Fehlvorstellungen zu 91.4% und Angst zu 100% zurück, aber Gewissenhaftigkeit nur zu 68.6% und Sprachkompetenz zu 60%, weshalb ein kontextbewusstes Modell langsam auftauchende Merkmale erfassen sollte, statt zu warten, dass der Dialog sie offenlegt ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
+Manche beabsichtigte Signale sind aus dem Dialog vielleicht überhaupt nicht zurückholbar: der Pilot des Learning-Context-Rahmenwerks holte Fehlvorstellungen zu 91.4% und [[anxiety-and-stress|Angst]] zu 100% zurück, aber Gewissenhaftigkeit nur zu 68.6% und Sprachkompetenz zu 60%, weshalb ein kontextbewusstes Modell langsam auftauchende Merkmale erfassen sollte, statt zu warten, dass der Dialog sie offenlegt ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
 
-[[edumirror-educational-social-dynamics|Lin et al. (2026)]] legen eine Zirkularität offen darin, wie solche synthetischen Lernenden validiert werden: ihre EduMirror-Agenten verabreichen psychometrische Fragebögen nachträglich und lesen Übereinstimmung mit der internen Werterepräsentation des Agenten als psychologische Validität, aber weil der Surveyor Dimensionen misst, die bereits in diesem Wertsystem kodiert sind, ist die Prüfung eine Konsistenzprüfung statt unabhängige Validierung.
+Physiologische und Blick-Signale erweitern die Modellierungsbasis: Eye-Tracking, EEG, elektrodermale Aktivität und Herzrate werden heute genutzt, um Engagement, Aufmerksamkeit und kognitive Last zu erschließen ([[sensor-and-gaze-analytics]]). Die Inferenz vom Signal zum mentalen Zustand ist das schwache Glied, denn ein Körper lässt sich aufzeichnen, ohne dass sein Zustand identifiziert wird.
+
+[[edumirror-educational-social-dynamics|Lin et al. (2026)]] legen eine Zirkularität offen darin, wie solche synthetischen Lernenden validiert werden: ihre EduMirror-Agenten verabreichen psychometrische [[self-report-measures|Fragebögen]] nachträglich und lesen Übereinstimmung mit der internen Werterepräsentation des Agenten als psychologische Validität, aber weil der Surveyor Dimensionen misst, die bereits in diesem Wertsystem kodiert sind, ist die Prüfung eine Konsistenzprüfung statt unabhängige Validierung.
 
 **Korrektheit ist nicht immer ein treues Signal.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren und Stamper (2026)]] zeigen, dass ein Lernendenmodell, das Meisterschaft aus korrekten Handlungen erschließt, den wahren Zustand einer lernenden Person falsch darstellen kann: Lernende, die *täuschende Übergeneralisierung* zeigen, erscheinen als meisternd, lassen aber eine kritische Anwendungsbeschränkung aus, weshalb adaptive Systeme Übung vorzeitig stoppen können. Lernendenmodelle sollten bedingtes Verständnis bewerten — einschließlich ob die lernende Person weiß, wann eine Handlung zu unterlassen ist —, nicht nur Handlungskorrektheit.
 
 Verborgene Fehlvorstellungen zeigen dasselbe Versagen von der anderen Seite: [[correct-answer-trap-misconceptions|Imran und Bulathwela (2026)]] fanden, dass ein feinabgestimmter Klassifikator 57.4% der durch fehlerhaftes Schlussfolgern erreichten korrekten Antworten fing, und bei einer Prävalenz von 1.6% ließ selbst ein 83.6%-genaues Schlussfolgermodell 8 Fehlalarme pro Detektion — weshalb auf Korrektheit beruhende Meisterschaftssignale sowohl unvollständig als auch teuer zu reparieren sind.
 
 **Wie ein Modell validiert wird, ist selbst eine Validitätsfrage.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan und Carvalho (2025)]] zeigen, dass populäre Lernendenmodelle (BKT, BKT-with-Forgetting, AFM) menschliches Lernen nur zu erfassen scheinen, wenn sie rückwirkend auf einen vollständigen mehrsitzungsbasierten Datensatz angepasst werden; unter zeitbasierter (walk-forward) Kreuzvalidierung — eine künftige Sitzung aus früheren vorherzusagen, wie solche Modelle tatsächlich eingesetzt werden — überschätzen sie Leistung, verfehlen den [[retrieval-spacing-interleaving|Spacing-Effekt]] und ordnen Übungsbedingungen falsch. Weil vergessenserweiterte und vergessensfreie Modelle über Sitzungen hinweg etwa gleich abschnitten, schließen die Autoren, dass Vergessen oft in Lernendenparameter absorbiert wird statt echt repräsentiert zu sein. Die Lektion für die Familie ist, dass eine treue Repräsentation der lernenden Person so validiert werden muss, wie sie genutzt wird — und dass das Vermengen von Leistung im Moment mit langfristigem Behalten Modelle erzeugt, die genau aussehen, Lernende aber falsch darstellen.
-[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi und Robb (2026)]] zeigen dasselbe Versagen aus der Seite des Klassifikators: das Ableiten von Lernstildimensionen aus den Problemlösedialogen von 153 Studierenden im Grundstudium wirkte bei der Genauigkeit moderat, bis der Recall pro Klasse Mehrheitsklassen-Prädiktion offenlegte, wobei intuitive und globale Lernende systematisch unteridentifiziert wurden und Few-Shot-Beispiele den Bias der Mehrheitsklasse manchmal verstärkten.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi und Robb (2026)]] zeigen dasselbe Versagen aus der Seite des Klassifikators: das Ableiten von Lernstildimensionen aus den Dialogen zum [[problem-solving|Problemlösen]] von 153 Studierenden im Grundstudium wirkte bei der Genauigkeit moderat, bis der Recall pro Klasse Mehrheitsklassen-Prädiktion offenlegte, wobei intuitive und globale Lernende systematisch unteridentifiziert wurden und Few-Shot-Beispiele den Bias der Mehrheitsklasse manchmal verstärkten.
 
 ## Modellierung im LLM-Zeitalter
 
@@ -101,11 +104,9 @@ Neuere Fortschritte nutzen [[llm|LLMs]] für reichhaltigere Modellierung. Das [[
 
 Sprache kann ID-Embeddings als Repräsentation ersetzen: PLCD baut LLM-abgeleitete Konzeptschemata und Aufgaben-Prozess-Graphen als Priors auf und erreicht 83.51% Genauigkeit auf XES3G5M, mit den größten Zugewinnen im Kaltstart — 4.60 ACC-Punkte über KCD für neue Konzepte und 4.00 für neue Aufgaben —, wo ID-basierte Modelle keine Historie haben ([[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]]).
 
-
 Simulatorqualität trennt sich in zwei Achsen: eine Pool-dann-Spezialisieren-Pipeline, die geteilte Verhaltensmuster trainiert, bevor ein Adapter pro studierender Person Verhaltenstreue 0.51 und Anleitungsreagibilität 0.91 im Schach erreichte, gegenüber 0.23 und 0.72 für eine Grenzmodell-Rollenspiel-Baseline, was zeigt, dass ein Simulator sowohl eine studierende Person treffen als auch steuerbar sein muss ([[studentsim-llm-student-simulators|Yang et al. (2026)]]).
 
 Risikowerte können genau und dennoch ungestützt sein: [[at-risk-students-ml-prediction|Gheisari und Salarian (2026)]] erreichten 99% Genauigkeit bei der Vorhersage des Abbruchs aus Einschreibungs- und Leistungsdatensätzen, aber auf 1,027 bereinigten Datensätzen einer einzelnen Institution ohne externe Validierung, ohne getestete Intervention, und mit Fairness-Audits als künftige Arbeit — der Wert unterstützt Triage, nicht ein Urteil über eine studierende Person.
-
 
 Ein Lernendenmodell, das nur Risiko vorhersagt, genügt nicht für Entscheidungsunterstützung: das Koppeln eines kalibrierten Gefährdetenmodells mit ganzzahliger Programmierung von Rekurs über diskrete Handlungen — validiert gegen Timing-, Budget-, Unveränderlichkeits- und Verfügbarkeitsbeschränkungen — erzeugte kompakte Interventionspläne, wo Optimierung allein nicht vollziehbare akzeptierte ([[sc2r-counterfactual-recourse-educational-2026|Le, Abel & Laforge (2026)]]).
 
@@ -142,6 +143,7 @@ Modellierung der Lernenden und adaptive Instruktion speisen [[learning-analytics
 - [[feedback]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — die Modelle unter Risikovorhersage und Zielung von Unterstützung
+- [[sensor-and-gaze-analytics]]
 
 ## Verbundene Artikel
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Trügerische Übergeneralisierung: adaptive Beherrschung kann das Üben beenden, bevor Lernende wissen, wann eine Handlung zu unterlassen ist (An, McLaren & Stamper 2026)

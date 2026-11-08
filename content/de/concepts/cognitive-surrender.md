@@ -1,7 +1,7 @@
 ---
 title: Kognitive Kapitulation
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,8 +13,8 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-29T10:20:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -73,7 +73,7 @@ Drei vorregistrierte Experimente adaptierten den Cognitive Reflection Test und r
 
 Die praktische Lesart ist, dass Kapitulation ein **Diskriminierungsversagen** ist statt ein Motivationsversagen. Die Teilnehmenden, die kapitulierten, versuchten nicht, Arbeit zu vermeiden; sie konnten gute von schlechten Ratschlägen nicht unterscheiden, und die Schnittstelle gab ihnen keinen Grund, es zu versuchen.
 
-Ein vorregistriertes Experiment von [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] liefert eine kontrastierende Konfiguration. Mit einem Assistenten, der durch Retrieval-Augmentierung auf das zugewiesene Arbeitsblatt begrenzt war, senkte die KI-Bedingung die kognitive Entlastung (Median −0.27), statt sie zu erhöhen, und kein Entlastungspfad trug den Anstieg der Desorganisation (0.84). Kapitulation braucht einen Assistenten, dessen Rat sich als Ganzes übernehmen lässt; ein System, das nur aus dem gegenwärtigen Material antwortet, gibt der lernenden Person weniger zu übernehmen und mehr in Einklang zu bringen.
+Ein vorregistriertes Experiment von [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] liefert eine kontrastierende Konfiguration. Mit einem Assistenten, der durch [[rag|Retrieval-Augmentierung]] auf das zugewiesene Arbeitsblatt begrenzt war, senkte die KI-Bedingung die kognitive Entlastung (Median −0.27), statt sie zu erhöhen, und kein Entlastungspfad trug den Anstieg der Desorganisation (0.84). Kapitulation braucht einen Assistenten, dessen Rat sich als Ganzes übernehmen lässt; ein System, das nur aus dem gegenwärtigen Material antwortet, gibt der lernenden Person weniger zu übernehmen und mehr in Einklang zu bringen.
 
 ## Kapitulation außerhalb des Labors
 
@@ -87,6 +87,8 @@ Die Laborbefunde decken sich mit Feld- und Beobachtungsarbeiten, die unabhängig
 - **Abhängige und autonome Modi sind nur in der Folge unterscheidbar.** [[family-school-autonomy-support-genai-2026|Fan, Li und Zhang (2026)]] begleiten 589 Studierende und Berufseinsteigerinnen und Berufseinsteiger über drei Wellen: abhängige Entlastung delegiert Kerndenken und ging mit geringerer intrinsischer Motivation einher, autonome Entlastung tat das nicht, und die unmittelbare Leistung sah in beiden identisch aus.
 - **Der eigene Beitrag des Modells.** [[sycophantic-ai-social-interaction-2026|Sykophantie]] ist das Komplement zur Kapitulation: ein Assistent, der zustimmt, sich zur Rahmung der nutzenden Person hin neigt oder eine Behauptung flüssig aufstellt, gibt der lernenden Person nichts, wogegen sie sich stemmen könnte.
 - **Entzug ist die ungelöste Hälfte.** [[cognitive-washout-ai-skill-decay-2026|Arbeiten zum kognitiven Auswaschen]] halten fest, dass fast alle diese Forschung Kognition *während* der KI-Nutzung misst und fast keine misst, was passiert, wenn der Assistent weggenommen wird, was genau die Frage ist, die eine Prüfung, ein Ausfall oder eine Lizenzüberprüfung stellt.
+
+- **„Die Abgabe ganzer Aufsätze bleibt außerhalb des Labors hypothetisch.“** Sie geschah in einer einmaligen Online-Studie ohne Vorgaben und ohne Aufforderung. Von **77** Studierenden, die Aufsätze verfassten, reichten **15 (19,5 %)** Aufsätze ein, die **zu 100 %** vom Modell geschrieben waren, ohne ein Wort im Editor zu tippen, und **20** Teilnehmende baten rundheraus um einen ganzen Aufsatz, der häufigste Code im Kodierschema. Die stärkste Nutzerin bzw. der stärkste Nutzer stellte **27** Anfragen. [[jelson-students-chatgpt-essay-writing-2026|Kapitulation zeigte sich als Anfragemuster]], nicht als einzelne erkennbare Handlung.
 
 ## Gegen Kapitulation entwerfen und lehren
 
@@ -147,3 +149,6 @@ Die Evidenz für Kapitulation als benanntes Konstrukt stützt sich stark auf ein
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Kalibrierungstraining
 - [[family-school-autonomy-support-genai-2026]] — abhängige gegenüber autonomer Entlastung
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — Ein arbeitsblattgebundener Assistent senkte die Entlastung, statt sie zu erhöhen: eine Randbedingung der Kapitulationssignatur (Braun 2026)
+
+- [[jelson-students-chatgpt-essay-writing-2026]] — Natürliche Abgabe ganzer Aufsätze: 15 von 77 Aufsätzen vollständig vom Modell geschrieben, 20 Anfragen nach einem kompletten Aufsatz (Jelson et al. 2026)
+

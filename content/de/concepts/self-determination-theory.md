@@ -1,7 +1,7 @@
 ---
 title: Selbstbestimmungstheorie
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:55-05:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,8 +9,8 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-10-26T08:20:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -48,6 +48,8 @@ SDT wird in der [[research-methods-aied|Forschung]] zu KI in der Bildung zunehme
 
 Ein gegenteiliges Kursraumergebnis zeigt, dass sich die Bedürfnisse nicht gemeinsam bewegen: Unter 2.464 Studierenden der unteren Sekundarstufe erhöhte ChatGPT-unterstütztes kompetenzbasiertes Lernen die Autonomieunterstützung und die Kompetenzzufriedenheit, erzeugte aber einen größeren Anteil an Motivationsprofilen geringer Qualität, und die Zufriedenheit mit Verbundenheit war schwächer als bei kompetenzbasiertem Lernen ohne KI ([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]]).
 
+- **Verfügbarkeit ist nicht Nutzung.** Mit 406 Studierenden der Klassen 5–8, die zweimal schrieben — einmal ohne digitale Werkzeuge und einmal mit optionaler GenAI —, sank die Autonomiezufriedenheit (Δ = −0,28), während die mittlere Regulation stabil blieb und der Umfang der KI-Nutzung keine Profilzugehörigkeit vorhersagte ([[schweder-motivational-organization-ai-writing-sdt-2026|Schweder & Grahl (2026)]]).
+
 Autonomie, nicht Leichtigkeit, trug hier den motivationalen Gewinn. Ein [[rct|Drei-Arm-RCT]] fand, dass ein Tutor, der Hinweise zurückhielt und Lernende ihre eigene Lösung bauen ließ, der einzige Arm war, der intrinsische Motivation erhöhte (2,82 gegenüber 2,42), während uneingeschränktes ChatGPT, das die Antwort liefert, dies nicht tat (2,64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 
 Ein konfigurativer Test verschärft den Punkt: Unter 498 Medizinstudierenden im Bachelor war die GAI-Nutzung nur schwach mit Bedürfniszufriedenheit assoziiert (β = 0.155) und erwies sich als unnötig für hohes Engagement, während die Zufriedenheit des Kompetenzbedürfnisses die Kernbedingung in der stärksten Konfiguration war ([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
@@ -60,19 +62,21 @@ Ein konfigurativer Test verschärft den Punkt: Unter 498 Medizinstudierenden im 
 
 Für Lehrende selbst schneidet KI-Zusammenarbeit in beide Richtungen: eine Drei-Wellen-Studie mit 468 Universitätslehrenden fand, dass sie das Arbeitsengagement durch psychologische Verfügbarkeit erhöhte und durch Arbeitsentfremdung senkte, und dass [[teacher-ai-competency|digitale Kompetenz]] den ersten Pfad stärkte und den zweiten schwächte ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 
-Ein Ko-Handlungsfähigkeits-Rahmenwerk begrenzt die Reichweite von SDT in der KI-vermittelten Bildung: Es verändert die Umstände, unter denen Autonomie, Kompetenz und Verbundenheit entstehen, lässt aber Gleichheit der Macht, Dateneigentum und Rechenschaftspflicht unadressiert, weshalb seine Autoren menschliche epistemische Rechenschaftspflicht als nicht verhandelbare Bedingung außerhalb der Theorie setzen ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
+Ein Ko-Handlungsfähigkeits-Rahmenwerk begrenzt die Reichweite von SDT in der KI-vermittelten Bildung: Es verändert die Umstände, unter denen Autonomie, Kompetenz und Verbundenheit entstehen, lässt aber [[equity-in-ai-education|Gerechtigkeit]] der Macht, Dateneigentum und Rechenschaftspflicht unadressiert, weshalb seine Autoren menschliche epistemische Rechenschaftspflicht als nicht verhandelbare Bedingung außerhalb der Theorie setzen ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
 
-**Autonomieunterstützung als Rahmen für den GenAI-Gebrauch von Kindern.** [[family-school-autonomy-support-genai-2026|Fan, Li und Zhang (2026)]] verlegen die Frage verantwortungsvollen Gebrauchs von Beschränkung zu Bedürfnisunterstützung und argumentieren, die Unterscheidung, die zählt, sei, ob die Erwachsenen um ein Kind herum Autonomie unterstützen statt sie zu kontrollieren, und unterscheiden in SDT-Begriffen abhängiges von autonomen [[cognitive-offloading|Offloading]]: Abhängiges Offloading überträgt [[agency|Handlungsfähigkeit]] und senkt intrinsische Motivation, autonomes Offloading stützt, während die lernende Person epistemische Kontrolle behält. Zwei Merkmale des Reviews sind für die Anwendung von SDT unmittelbar relevant: Er besteht darauf, dass Autonomieunterstützung nicht Permissivität ist, und er behandelt die Familien-Schule-Koordination, die aktuelle Leitlinien voraussetzen, als ungeprüfte Hypothese und formalisiert additive, synergistische und kompensatorische Versionen, die nur eine faktorielle Studie unterscheiden könnte, die Anleitung nur für Familien, nur für Schulen, koordiniert und übliche Praxis gegenüberstellt.
+**Autonomieunterstützung als Rahmen für den GenAI-Gebrauch von Kindern.** [[family-school-autonomy-support-genai-2026|Fan, Li und Zhang (2026)]] verlegen die Frage verantwortungsvollen Gebrauchs von Beschränkung zu Bedürfnisunterstützung und argumentieren, die Unterscheidung, die zählt, sei, ob die Erwachsenen um ein Kind herum Autonomie unterstützen statt sie zu kontrollieren, und unterscheiden in SDT-Begriffen abhängiges von autonomen [[cognitive-offloading|Offloading]]: Abhängiges Offloading überträgt [[agency|Handlungsfähigkeit]] und senkt intrinsische Motivation, autonomes Offloading [[scaffolding|stützt]], während die lernende Person epistemische Kontrolle behält. Zwei Merkmale des Reviews sind für die Anwendung von SDT unmittelbar relevant: Er besteht darauf, dass Autonomieunterstützung nicht Permissivität ist, und er behandelt die Familien-Schule-Koordination, die aktuelle Leitlinien voraussetzen, als ungeprüfte Hypothese und formalisiert additive, synergistische und kompensatorische Versionen, die nur eine faktorielle Studie unterscheiden könnte, die Anleitung nur für Familien, nur für Schulen, koordiniert und übliche Praxis gegenüberstellt.
 
 ## Verbindungen zu verwandten Konzepten
 
 SDT verbindet sich unmittelbar mit [[motivation|Motivation]] als ihrem übergeordneten Konstrukt, mit [[affective-computing|affective computing]] und [[affective-tutoring|affektivem Tutoring]] für emotionsbewusstes KI-Design und mit [[student-experience|dem Erleben der Studierenden]] dafür, wie Lernende KI-vermittelte Umgebungen erfahren. Die Betonung der Autonomie in der Theorie verbindet sich mit [[self-regulated-learning|selbstreguliertem Lernen]], während sich ihre Kompetenzdimension mit [[self-efficacy-tutoring-learning|Selbstwirksamkeit]] und [[teacher-ai-competency|KI-Kompetenz von Lehrkräften]] verbindet. SDT ist besonders relevant für [[professional-training|berufliche Weiterbildung]] und [[educational-development|Lehr- und Curriculumsentwicklung]], weil bedürfnisunterstützendes Design ein übertragbares Prinzip ist, um Lehrende auf die Nutzung von KI vorzubereiten.
 
+**Die drei Bedürfnisse werden von der Generativ-KI-Forschung nicht gleichmäßig bearbeitet.** [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna und Jiang (2026)]] kodierten 39 Studien gegen eine Klassifikation mit 20 Aktivitäten und fanden 14 Aktivitäten vor, davon sieben kompetenzbezogene Typen gegenüber fünf für Autonomie und zwei für Verbundenheit. Sechs Aktivitäten fehlten in jeder Studie, und die meisten verlangen von der lernenden Person, das Werkzeug zu beurteilen oder herauszufordern: anspruchsvolle Probleme erstellen, die Ausgaben des Werkzeugs antizipieren, diese Ausgaben bewerten und mit ihm debattieren. Verbundenheit ist das Bedürfnis, das die Literatur am wenigsten prüft.
+
 ## Verbreitete Fehlvorstellungen
 
 - **„Die Art der Motivation zählt weniger als ihre Menge.“** Eine einjährige Studie fand **drei Motivationsprofile — Disengaged, Developing, Self-Determined —, die über die Zeit stabil blieben**, und Studierende, die das **Self-Determined**-Profil erreichten, zeigten die **größten [[ai-literacy|KI-Kompetenz]]-Zuwächse**. Die Qualität der Motivation sagte das Lernen vorher, und die Profile drifteten nicht einfach nach oben.
 - **„Autonomieunterstützung bedeutet, Struktur zu entfernen.“** Der SDT-Mechanismus ist Autonomie, Kompetenz und Verbundenheit zusammen, und die Längsschnitt-Evidenz zeigt, dass ihre Befriedigung Zuwächse vorhersagte, statt sie nur zu begleiten. Autonomie ohne Kompetenzunterstützung ist Permissivität, und sie erfüllt die Bedingungen der Theorie nicht.
-- **„Ein Chatbot kann die drei Bedürfnisse automatisch liefern.“** Eine Studie fand, dass ChatGPT Autonomie, Verbundenheit und Kompetenz im Sprachenlernen unterstützen konnte — eine Möglichkeit, keine Eigenschaft. Ob eine gegebene Interaktion sie unterstützt, ist eine empirische Frage darüber, wie sie genutzt wird.
+- **„Ein [[conversational-ai|Chatbot]] kann die drei Bedürfnisse automatisch liefern.“** Eine Studie fand, dass ChatGPT Autonomie, Verbundenheit und Kompetenz im Sprachenlernen unterstützen konnte — eine Möglichkeit, keine Eigenschaft. Ob eine gegebene Interaktion sie unterstützt, ist eine empirische Frage darüber, wie sie genutzt wird.
 
 ## Verbundene Konzepte
 
@@ -106,3 +110,7 @@ SDT verbindet sich unmittelbar mit [[motivation|Motivation]] als ihrem übergeor
 - [[genai-learning-engagement-medical-undergraduates-2026]] — GAI-Nutzung ist schwach mit Bedürfniszufriedenheit verbunden und für hohes Engagement unnötig (He et al. 2026)
 - [[teacher-ai-collaboration-work-engagement-2026]] — Zwei Pfade von Lehrkräfte-KI-Zusammenarbeit zum Arbeitsengagement, moderiert durch digitale Kompetenz
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Zurückhaltende Hinweise bewahrten Autonomie dort, wo das Geben von Antworten es nicht tat
+
+- [[schweder-motivational-organization-ai-writing-sdt-2026]] — KI-Verfügbarkeit, Autonomieabfall und Motivationsprofile in den Klassen 5–8 (Schweder & Grahl 2026)
+- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 39 Studien gegen eine Klassifikation mit 20 Aktivitäten kodiert; Kompetenz am stärksten, Verbundenheit am wenigsten bearbeitet
+

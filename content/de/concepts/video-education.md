@@ -1,7 +1,7 @@
 ---
 title: Video in der Bildung
 created: "2026-09-05T01:05:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 pedagogy: [online-teaching-and-learning, student-engagement, video-education]
 technology: [adaptive-learning, generative-ai, learning-analytics, llm, multimodal, personalized-learning]
@@ -9,8 +9,8 @@ audience: [instructors, instructional designers]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/video-education
-source_updated: "2026-10-25T15:20:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-05T23:00:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -25,7 +25,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **Video in der Bildung** — der Einsatz von Video als Medium für [[teacher-role|Lehren]] und Lernen, und wie [[generative-ai|generative KI]] es umformt: KI-generierte und KI-[[personalized-learning|personalisierte]] Unterrichtsvideos, KI-Avatare und Präsentierende, adaptive Videogenerierung, videobasierte [[learning-analytics|Learning Analytics]] und Aufmerksamkeits-/[[student-engagement|Engagement]]-Erfassung, und KI-Unterstützung für den Konsum von Vorlesungsvideos. Die Wissensbasis behandelt Video sowohl als etabliertes Medium des Online-Lernens als auch als rasch evolvierenden Ort der KI-Innovation, überspannend [[online-teaching-and-learning|Online-]], hybride und Präsenz-Lehre.
+> **Video in der Bildung** — der Einsatz von Video als Medium für [[teacher-role|Lehren]] und Lernen, und wie [[generative-ai|generative KI]] es umformt: KI-generierte und KI-[[personalized-learning|personalisierte]] Unterrichtsvideos, KI-[[ai-avatars-and-synthetic-instructors|Avatare]] und Präsentierende, adaptive Videogenerierung, videobasierte [[learning-analytics|Learning Analytics]] und Aufmerksamkeits-/[[student-engagement|Engagement]]-Erfassung, und KI-Unterstützung für den Konsum von Vorlesungsvideos. Die Wissensbasis behandelt Video sowohl als etabliertes Medium des Online-Lernens als auch als rasch evolvierenden Ort der KI-Innovation, überspannend [[online-teaching-and-learning|Online-]], hybride und Präsenz-Lehre.
 
 ## Fragen zum Nachdenken
 
@@ -45,10 +45,13 @@ Video ist ein Eckpfeiler zeitgenössischer Bildung — besonders [[online-teachi
 - **Adaptive und strukturierte Videogenerierung.** [[courseblueprint-adaptive-video-generation|CourseBlueprint]] bietet eine strukturierte Pipeline, die adaptives pädagogisches Video erzeugt, in Kurskorpora verankert, und zeigt, dass explizite pädagogische Struktur — nicht nur [[ai-literacy|KI-Flüssigkeit]] — wirksames KI-Video treibt. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] wendet dieselbe Logik auf der Ebene ganzer Vorlesungen an: Aus 31 Graduiertenvorlesungen erzeugte es 209 Videos für Gesundheitswesen, Finanzen, Energie und ein generisches Publikum, und 25 domänenpassende Expertinnen und Experten, die 92 davon bewerteten, platzierten 87% auf oder über der Mitte, formuliert als „die Qualität einer Standard-MOOC-Vorlesung“ (Mittelwert 3.42 von 5), bei etwa \$0.22 API-Kosten pro Minute —, wobei Stimme, Folien-Timing und Layout die wiederkehrenden Defekte waren.
 - **Eine Lernschleife schlägt ein besseres Rendering.** [[pivot-generative-video-tutors-stem-2026|Ma et al. (2026)]] planen jedes Video als Storyboard aus Zielen, Aktivierung von Vorwissen, durchgearbeiteten Beispielen und diagnostischen Sonden, gepaart mit einem Quiz, das die Beispiele des Videos vermeidet, und einer Förderung für jede falsche Option; 96.9% von 32 Lehrenden urteilten, die Schleife sei wirksamer als ein alleinstehendes Video.
 - **Video-Learning-Analytics und Aufmerksamkeit.** Video zu instrumentieren legt offen, wie Lernende sich engagieren. [[engagement-assessment-video|Engagement-Assessment im Video-Lernen]] und [[savvy-student-attention-video-learning|SAVVY]] visualisieren die Aufmerksamkeit von Studierenden während videobasierten Lernens und stützen damit [[learning-analytics|Learning Analytics]], [[self-regulated-learning|Selbstregulation]] und Frühwarnung bei Disengagement. Segmentierungsarbeit (etwa [[adhd-video-segmentation-computing-education|zeitliche Videosegmentierung]]) schneidet Video auf individuelle Unterschiede zu.
-- **Ein neuronales Ablesen der Videoenkodierung.** EEG-Rekonstruktionen der gesehenen Videoframes waren für richtig beantwortete Fragen semantisch ähnlicher (M = 71,43) als für falsch beantwortete (M = 62,30, p < .001), und eine systematische zeitliche Verschiebung — Rekonstruktionen, die früheren Frames ähneln — ließ sich zu einem mit der Leistung verbundenen Dispersionsmaß quantifizieren ([[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]]).
+- [[zhou-gaiva-human-ai-video-analysis-2026|Zhou, Kang und Nguyen (2026)]] verbinden in GAIVA eine MLLM-Transkriptionsstufe mit einer rein textbasierten LLM-Kodierungsstufe, um Klassenraumvideo-Analyse auf menschliche Zuverlässigkeit zu bringen. Rollenzuweisungs-Prompts erzeugten die ausgewogensten Transkripte (Genauigkeit M = 3,24, Vollständigkeit M = 3,86), die Doppelkodierung durch Bewertende erreichte ICCs von 0,89 bis 0,99, und die transkriptbasierte Kodierung von GPT-4o traf κ = 0,91 für „Coordinated Collaboration“ — über dem menschlichen κ = 0,83.
+- **Ein neuronales Ablesen der Videoenkodierung.** [[sensor-and-gaze-analytics|EEG]]-Rekonstruktionen der gesehenen Videoframes waren für richtig beantwortete Fragen semantisch ähnlicher (M = 71,43) als für falsch beantwortete (M = 62,30, p < .001), und eine systematische zeitliche Verschiebung — Rekonstruktionen, die früheren Frames ähneln — ließ sich zu einem mit der Leistung verbundenen Dispersionsmaß quantifizieren ([[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]]).
 - **Avatare und Präsenz.** KI-Avatare — virtuelle Präsentierende und pädagogische Agenten — werfen Fragen über Identität, [[community-of-inquiry|soziale Präsenz]] und Vertrauen auf. [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Avatar-Identität und epistemisches Vertrauen]] untersucht, wie die scheinbare Identität einer Präsentierenden das Vertrauen der Lernenden prägt, während [[ai-psychotherapy-training-avatars|KI-Avatare im Training]] das Muster auf professionelle Praxis ausweiten.
 - **Scaffolding-Kommentare im Video — und was KI noch falsch macht.** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du und Jin (2026)]] erzeugen *i-Comments*, [[scaffolding|Scaffolding]]-Nachrichten, die innerhalb des Videoframes gerendert und mit dem Inhalt synchronisiert sind, indem sie Frame-Ebenen-Entropie berechnen und Unterstützung nur in Intervallen mit geringer Information einfügen. Gebenchmarkt gegen 120 Kommentare erfahrener Lehrender waren ChatGPTs 1.000 Kommentare dichter, weit weniger strukturell vielfältig (POS-3-Gramm-Diversität 5.5–6.2% gegenüber 25.1–38.5%), schwerer zu lesen auf jedem Lesbarkeitsindex, und weniger thematisch abgestimmt (Emotional-Support-BERTScore 0.317 gegenüber 0.574); 40 Lernende bewerteten die menschlichen Kommentare signifikant höher bei Timing und Hilfsamkeit, wenngleich ein neueres Modell diese Lücke verengte. Das Argument ist ein Designargument so sehr wie ein Automatisierungsargument: in das Medium eingebettete Unterstützung vermeidet die Aufmerksamkeits- und kognitiven Kosten des Pausierens, um einen separaten [[conversational-ai|Chatbot]] zu befragen ([[ai-feedback-quality|Feedback-Qualität]], [[social-emotional-learning|emotionale Unterstützung]]).
 - **KI-Unterstützung für den Konsum von Vorlesungsvideos.** Jenseits der Erzeugung hilft KI Lernenden und Lehrenden, mit bestehendem Video zu arbeiten: [[bilingual-llm-lecture-companion-srl-2026|zweisprachige LLM-Vorlesungsbegleiter]] stützen selbstreguliertes Lernen mit aufgenommenen Vorlesungen, und [[gemini-lualatex-physics-video-transcription-2026|Transkriptions-Pipelines]] wandeln Vorlesungsvideo in zugänglichen Text um.
+- **Transkripttreue bestimmt, wofür Text an die Stelle von Video treten kann.** [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard und Rosenberg (2026)]] benchmarkten fünf ASR-Systeme gegen ein menschliches Referenztranskript bei Episoden von Crash Course U.S. History, mit Wortfehlerraten von 2,43 % (TurboScribe) bis 15,32 % (Vosk). Die GPT-5.5-Kodierung der 48 Transkripte fand PERSON als häufigste Kategorie benannter Entitäten (2.033 insgesamt; M = 42,35 pro Episode), und ein vordefinierter K-Scan wählte K = 5, wo die LLM-Referenzerweiterung eine klarere Themenseparation erzeugte als die ASR-Basislinie.
+- **Zoom auf Regionsebene ist die Ebene, die kommentierte Folien vermissen ließen.** Eine Within-Subjects-Studie mit 24 Betrachtenden fand, dass automatischer Zoom plus synchronisierte Hervorhebungen die NASA-TLX-Arbeitslast von 5,74 auf 4,53 senkten (d = 0,84) und das unmittelbare Verständnis hoben (d = 0,46), wenngleich der Vorteil nach 24 Stunden die Signifikanz verfehlte (p = .054) ([[lian-guideslide-narrated-slides-visual-guidance-2026|Lian et al., 2026]]).
 
 ### Personalisierung versus menschliche Präsenz
 
@@ -85,7 +88,7 @@ Wirksames KI-Video zu produzieren erfordert pädagogische Struktur und menschlic
 **Für Forschende**
 
 - Berichten Sie Präferenz- und Ergebnismaße gemeinsam und sagen Sie klar, wenn eine Studie nur das erste hat.
-- Berichten Sie die zeitliche Ausrichtung ausdrücklich, da sich die Fehlausrichtung zwischen Videoinhalt und kognitiver Verarbeitung in den neuronalen Daten zeigt.
+- Berichten Sie die zeitliche Ausrichtung ausdrücklich, da sich die Fehlausrichtung zwischen Videoinhalt und [[cognitive-psychology|kognitiver Verarbeitung]] in den neuronalen Daten zeigt.
 
 ## Verbundene Konzepte
 - [[online-teaching-and-learning]] — Video als Kernmedium von Online- und Hybridunterricht
@@ -114,3 +117,4 @@ Wirksames KI-Video zu produzieren erfordert pädagogische Struktur und menschlic
 - [[ai-psychotherapy-training-avatars]] — KI-Avatare in der Psychotherapie-Ausbildung
 - [[gemini-lualatex-physics-video-transcription-2026]] — Physik-Vorlesungsvideo in zugänglichen Text transkribieren
 - [[pivot-generative-video-tutors-stem-2026]] — Von der Inhaltsgenerierung zur Lernunterstützung: pädagogisch geführte generative Videotutoren für MINT-Lernen
+- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — Look Over There! Dynamische visuelle Führung für KI-kommentierte Folien

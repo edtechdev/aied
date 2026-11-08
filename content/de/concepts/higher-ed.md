@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: Hochschulbildung
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:55-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -11,8 +11,8 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-26T11:15:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T16:51:25-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -87,7 +87,7 @@ Ein dritter Weg härten die Aufgabe selbst: das Rendern von Prompts als perturbi
 ## Implikationen für Lehrende in der Hochschulbildung
 
 - **Gestalten Sie Assessment für einen KI-fähigen Studierendenkörper.** Detektionszentrierte Integritätsansätze weichen [[authentic-assessment|authentischer]] und prozessbasierter Evaluation ([[beyond-detection-authentic-assessment-ai-2025|beyond detection]], [[ai-assessment-scale-reform|Assessment-Reform]]) — gestalten Sie neu, was Sie bewerten, nicht nur, wie Sie es überwachen.
-- **Behandeln Sie ein Verbot im Prüfungsraum nicht als Sicherung.** Smartglasses und KI-gestützte Hörgeräte sind dual transparent —, es gibt weder einen Blickabfall noch einen Haltungswechsel, der erkannt werden könnte —, sodass eine beaufsichtigte Klausur oder eine mündliche Prüfung sich durch physische Trennung keine Beweiskraft mehr erkaufen kann ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
+- **Behandeln Sie ein Verbot im Prüfungsraum nicht als Sicherung.** Smartglasses und KI-gestützte Hörgeräte sind dual transparent —, es gibt weder einen [[sensor-and-gaze-analytics|Blick]]abfall noch einen Haltungswechsel, der erkannt werden könnte —, sodass eine beaufsichtigte Klausur oder eine mündliche Prüfung sich durch physische Trennung keine Beweiskraft mehr erkaufen kann ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 - **Gestalten Sie die Frage „Was sollten Lernende noch von Hand lernen?" neu.** Entscheiden Sie wie im Computing, welche Fähigkeiten erhalten bleiben müssen (Verifikation, Urteilsvermögen, Prozess), und machen Sie diese zum bewerteten Kern, statt anzunehmen, KI-Fähigkeiten übertragen sich automatisch.
 - **Behandeln Sie Bereitschaft der Fakultäten als soziotechnisch, nicht nur technisch.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]] rahmt Bereitschaft über epistemische, pädagogische, institutionelle und Qualitätsdomänen hinweg — richten Sie Ihre [[pedagogy|Unterrichtspraxis]] an institutioneller Governance aus, nicht nur an Werkzeugflüssigkeit.
 - **Finanzieren Sie KI-Kompetenz für Fakultäten, nicht nur Werkzeugvertrautheit.** [[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]] fanden, dass soziale und organisationale Unterstützung das KI-Wohlbefinden von Universitätsfakultäten nur indirekt erreichte, über KI-Kompetenz (β = 0,713), sodass Programme, die konzeptuelles, ethisches und pädagogisches Verständnis aufbauen, für Fakultäten mehr tun als reine Handwerksflüssigkeit.

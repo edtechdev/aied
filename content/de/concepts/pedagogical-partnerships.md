@@ -1,7 +1,7 @@
 ---
 title: "Pädagogische Partnerschaften"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,8 +10,8 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-28T18:53:18-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -63,7 +63,9 @@ Die Schnittmenge von pädagogischer Partnerschaft und KI ist einer der am schnel
 - **Studierende als Mit-Gestaltende von KI-Politik.** Statt Institutionen, die Studierenden KI-Regeln auferlegen, positioniert Partnerschaft Studierende als Mit-Erzeugende von KI-Politik auf Kurs- und Institutionsebene. Zum Beispiel brachte eine angeleitet-erkundende Aktivität, in der Studierende eine [[generative-ai]]-Kursrichtlinie mitgestalteten, Studierendenprioritäten um Training, standardisierte Offenlegung, institutionelle Unterstützung und Beteiligung an Entscheidungsfindung an die Oberfläche ([[guided-inquiry-genai-course-policy-2026]]).
 - **Studierende als Mit-Erzeugende von KI-Werkzeugen.** In Frameworks für Studierende als Partner haben Studierende maßgeschneiderte KI-[[conversational-ai|Chatbots]] mitgestaltet und verfeinert, die an pädagogische Ziele ausgerichtet sind — ein Ansatz, der das SaP-Paradigma erweitert, um KI-Werkzeuge selbst einzubeziehen, und die Stimme der Studierenden als zentral für verantwortungsvolle KI-Innovation positioniert ([[lo-co-creating-custom-gpts-sap-2026]]).
 
-- **Mitgestaltung der ganzen Klasse, evaluiert durch Selbstbewertung.** Ein Informationsstudien-Programm des ersten Jahres ließ Studierende und Fakultät Kursziele und Richtlinien in der ersten Woche mitgestalten und sie über den Term hinweg erneut besuchen, wobei Studierende sich selbst und ihre Gruppen an persönlichen Zielen, Teamzielen und einer geteilten Rubrik benoteten statt an Endprodukten ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
+- **Mit-Erzeugung im großen Maßstab, vorsichtig gemessen.** In einem Softwaredesign-Kurs mit 710 Studierenden bauten Studierende einen [[intelligent-tutoring|KI-Tutor]] für eine Peergruppe, statt einen zu nutzen. Gestaltungsfreiheit war das häufigste positive Thema (22,3%) und unklare Anweisungen die häufigste Beschwerde (23,7%), doch das wahrgenommene Lernen korrelierte nur mit r = 0.161 bis 0.315 mit Quizwerten, und das Design hatte keine Kontrollgruppe ([[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]). Das Werkzeug zu bauen ist eine plausible Pädagogik und, nach dieser Evidenz, eine unerwiesene, weshalb der Fall dafür auf der Gestaltungsaktivität ruht statt auf Ergebnisgewinnen.
+
+- **Mitgestaltung der ganzen Klasse, evaluiert durch [[self-assessment|Selbstbewertung]].** Ein Informationsstudien-Programm des ersten Jahres ließ Studierende und Fakultät Kursziele und Richtlinien in der ersten Woche mitgestalten und sie über den Term hinweg erneut besuchen, wobei Studierende sich selbst und ihre Gruppen an persönlichen Zielen, Teamzielen und einer geteilten Rubrik benoteten statt an Endprodukten ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
 - **Mit-Erzeugung in Assessment und KI.** Partnerschaften zwischen Studierenden und Personal haben KI-erzeugte Ausgabe in Studienleistungs-Assessments gemeinsam evaluiert und Evaluationskriterien mitgestaltet, was Verständnis der Vorzüge und Grenzen von KI verbesserte und [[self-regulated-learning]] unterstützte ([[williams-ingle-assessment-co-creation-ai-2025]]).
 - **Partnerschaft zur Bewahrung pädagogischen Vertrauens.** Angesichts KI-getriebener Unsicherheit und „KI-Scham“ bieten Partnerschaftspraktiken, die *pädagogisches Vertrauen* nähren — eine sichere, reziproke Lernbeziehung, offen für Unsicherheit und gemeinsam durch Dialog navigiert —, einen Weg, den relationalen Kern von Bildung aufrechtzuerhalten ([[matthews-five-guiding-principles-ai-sap-trust-2025]]).
 - **Jugend als Mit-Gestaltende von KI-Systemen.** Partizipative Designansätze binden historisch minoritisierte Studierende als Partnerinnen in der Gestaltung der KI-Systeme ein, die ihre Klassenzimmer betreffen werden, und bringen die Werte und [[ethics|ethischen]] Verpflichtungen der Studierenden an die Oberfläche ([[chang-co-designing-ai-youth-relational-privacy-2025]]).
@@ -142,3 +144,5 @@ Für Bildungsfachkräfte und Institutionen, die pädagogische Partnerschaft einf
 - [[anastasia-shared-agency-partnership-framework-2026]] — Geteilte Handlungsfähigkeit: Das Agency-Partnership-Framework für die Zusammenarbeit von Lehrenden und Studierenden
 - [[maybee-disruptive-partnerships-sap-2025]] — Disruptive Partnerschaften: Zusammenarbeit mit Studierenden in den Informationswissenschaften
 - [[student-centered-genai-responsible-framework-2026]] — Studierendenzentriertes Framework für verantwortungsvolle generative KI-Nutzung
+
+- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Studierende bauten einen KI-Tutor für Peers im Maßstab von 710 Studierenden: hohes Engagement, explorative Lernbelege (Zangari et al. 2026)

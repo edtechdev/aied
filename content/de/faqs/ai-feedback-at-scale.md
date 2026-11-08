@@ -1,7 +1,7 @@
 ---
 title: "Wie kann mir KI helfen, im Maßstab besseres Feedback zu geben?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-01T11:35:15-05:00"
+updated: "2026-11-07T20:05:54-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -12,8 +12,8 @@ research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-31T10:05:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-06T03:00:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -34,7 +34,7 @@ ai_assist:
 
 Es ist Woche sechs. Sie haben einen Stapel Entwürfe, ein Rubric, an das Sie glauben, und den wachsenden Verdacht, dass ein Drittel Ihrer Kommentare überflogen und vergessen wird. Eine Kollegin erwähnt, dass ein Werkzeug inzwischen jeden Entwurf innerhalb einer Stunde kommentiert. Die Fachbereichssitzung braucht eine Antwort: Ist das ein Fortschritt oder ein schnellerer Weg, Text zu produzieren, den niemand liest?
 
-Die kurze Antwort, die Sie einer Kollegin geben können: KI-Feedback verdient seinen Platz bei Abdeckung, Rechtzeitigkeit und Konsistenz, innerhalb eines schmalen Bands. Sprachliche Arbeit im Korrekturlese-Maßstab und rubric-geleitete Kommentare zum ersten Durchgang sind es wert, automatisiert zu werden. Die Reichweite ist der billige Teil. In einem cluster-randomisierten Experiment mit 1.176 Erstsemesterstudierenden schlugen reflexive und hybride Designs die direkte KI-Kritik beim verzögerten, KI-freien [[transfer-of-learning|Transfer]]. In einem randomisierten Essay-Experiment mit 70 Studierenden erzeugte besser bewertetes KI-Feedback keine besseren Überarbeitungen als das einer erfahrenen Lehrkraft. Was eine Studierende mit einem Kommentar tut, entscheidet das Ergebnis, und [[feedback-literacy|Feedbackkompetenz]] trennt die Studierenden, die profitieren, von denen, die abschreiben.
+Die kurze Antwort, die Sie einer Kollegin geben können: KI-Feedback verdient seinen Platz bei Abdeckung, Rechtzeitigkeit und Konsistenz, innerhalb eines schmalen Bands. Sprachliche Arbeit im Korrekturlese-Maßstab und rubric-geleitete Kommentare zum ersten Durchgang sind es wert, automatisiert zu werden. Die Reichweite ist der billige Teil. In einem cluster-randomisierten Experiment mit 1.176 Erstsemesterstudierenden schlugen reflexive und hybride Designs die direkte KI-Kritik beim verzögerten, KI-freien [[transfer-of-learning|Transfer]]. In einem randomisierten Essay-Experiment mit 70 Studierenden erzeugte besser bewertetes KI-Feedback keine besseren Überarbeitungen als das einer erfahrenen [[teacher-role|Lehrkraft]]. Was eine Studierende mit einem Kommentar tut, entscheidet das Ergebnis, und [[feedback-literacy|Feedbackkompetenz]] trennt die Studierenden, die profitieren, von denen, die abschreiben.
 
 ## Die Kurzfassung
 
@@ -42,7 +42,7 @@ Die kurze Antwort, die Sie einer Kollegin geben können: KI-Feedback verdient se
 
 **2.** Sortieren Sie Ihre eigenen Kommentare in Korrekturen auf Sprachebene und Entscheidungen auf Urteilsebene. Nur die erste Kategorie ist ein Kandidat für Automatisierung.
 
-**3.** Staffeln Sie die Quellen. Zuerst Selbsteinschätzung, dann Peer-Feedback, dann KI-Kritik. Zwei Quellen nebeneinandergestellt erzeugen passive Übernahme.
+**3.** Staffeln Sie die Quellen. Zuerst Selbsteinschätzung, dann [[peer-assessment|Peer-Feedback]], dann KI-Kritik. Zwei Quellen nebeneinandergestellt erzeugen passive Übernahme.
 
 **4.** Geben Sie dem Modell Ihr Rubric und lassen Sie es Schritt für Schritt begründen. Eine bloße Anweisung erzeugt generische Ausgabe.
 
@@ -54,7 +54,7 @@ Die kurze Antwort, die Sie einer Kollegin geben können: KI-Feedback verdient se
 
 Die verführerische Kennzahl ist die Qualität dessen, was das Modell schreibt. Sie ist auch die Kennzahl, die in die Irre führt.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] randomisierten 70 Studierende, die argumentative Essays auf Persisch schrieben, in drei Gruppen. Chain-of-Thought-Prompting erzeugte signifikant höher bewertetes Feedback (M = 12.90) als Zero-Shot-Prompting (M = 11.25, p = 0.01) und als eine erfahrene menschliche Lehrkraft (M = 11.20, p = 0.008). Die Chain-of-Thought-Gruppe überarbeitete ihre Essays nicht signifikant stärker als die Gruppe mit Lehrkraft-Feedback, die vergleichbare Zugewinne erzielte. Bessere Kommentare, dieselben Überarbeitungen. Wenn Ihr Erfolgskriterium die Kommentarqualität ist, liest sich diese Studie als Erfolg. Wenn es das ist, was sich im Essay verändert hat, dann nicht.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] randomisierten 70 Studierende, die argumentative Essays auf Persisch schrieben, in drei Gruppen. [[prompt-engineering|Chain-of-Thought-Prompting]] erzeugte signifikant höher bewertetes Feedback (M = 12.90) als Zero-Shot-Prompting (M = 11.25, p = 0.01) und als eine erfahrene menschliche Lehrkraft (M = 11.20, p = 0.008). Die Chain-of-Thought-Gruppe überarbeitete ihre Essays nicht signifikant stärker als die Gruppe mit Lehrkraft-Feedback, die vergleichbare Zugewinne erzielte. Bessere Kommentare, dieselben Überarbeitungen. Wenn Ihr Erfolgskriterium die Kommentarqualität ist, liest sich diese Studie als Erfolg. Wenn es das ist, was sich im Essay verändert hat, dann nicht.
 
 Zwei weitere Signale schmeicheln einer Pilotierung, die schlecht läuft, also legen Sie sie vorab fest. Die Studierendenzufriedenheit ist das eine. In der hochschulweiten Deakin-Pilotierung, über die [[tubino-adachi-ai-automated-feedback-literacy|Tubino und Adachi (2022)]] berichten, koexistierten positive Durchschnittsbewertungen mit von Studierenden gemeldeten Fehlern, ein Smiley-Fragebogen ist also kein Genauigkeitsbeleg. Die Nutzung ist das andere. Das Deakin-Werkzeug war optional, und die Nutzung lag im Durchschnitt bei etwa 13% der Bachelor- und 12% der Masterstudierenden, obwohl fast 4.000 Studierende Zugang hatten. Proaktive, leistungsstarke Studierende nutzten es häufiger. Das ist es, was es bringt, ein Werkzeug verfügbar zu machen.
 
@@ -76,7 +76,7 @@ Die reflexive Bedingung verlangte Selbsteinschätzung vor der KI-Kritik. Die hyb
 
 Der Mechanismus erklärt, warum die Abfolge mehr zählt als das Werkzeug. Direkte Kritik lädt zur passiven Übernahme ein: Die Studierende liest ein Urteil und wendet es an. Reflexive und hybride Designs zwingen sie, den Kommentar zu interpretieren, ihn gegen Kriterien zu halten, seine Relevanz zu beurteilen und dann zu überarbeiten. Der Bildungswert hängt weniger vom KI-Zugang ab als davon, ob die Feedback-Umgebung [[agency|Handlungsfähigkeit]] und [[evaluative-judgment|evaluatives Urteil]] beim Überarbeiten erhält.
 
-Peer-Feedback verdient seinen eigenen Platz in der Abfolge. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen und Yan (2026)]] führten zwei parallele Englischkurse (N = 118 Erstsemesterstudierende in China; GenAI n = 56, Peer n = 62) durch drei Selbsteinschätzungszyklen über ein Semester. GenAI-Scaffolding verbesserte die Feedbackkompetenz leicht, aber signifikant gegenüber menschlichem Peer-Review (ANCOVA p = 0.049, ηp² = 0.03). GenAI-Studierende verfeinerten Prompts iterativ und verifizierten oder hinterfragten ungenaue Ausgabe. Studierende in der Peer-Gruppe wählten Quellen nach sozialer Bequemlichkeit und ließen ihr evaluatives Urteil durch Freundschaftsbias verzerren. Peer-Review behielt einen eigenständigen Wert für die Adressatenbewusstheit, weshalb die Autorinnen und Autoren mehrstufige Designs mit anonymem Peer-Feedback vorschlagen statt eines Ersatzes.
+Peer-Feedback verdient seinen eigenen Platz in der Abfolge. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen und Yan (2026)]] führten zwei parallele Englischkurse (N = 118 Erstsemesterstudierende in China; GenAI n = 56, Peer n = 62) durch drei [[self-assessment|Selbsteinschätzungszyklen]] über ein Semester. GenAI-[[scaffolding|Scaffolding]] verbesserte die Feedbackkompetenz leicht, aber signifikant gegenüber menschlichem Peer-Review (ANCOVA p = 0.049, ηp² = 0.03). GenAI-Studierende verfeinerten Prompts iterativ und verifizierten oder hinterfragten ungenaue Ausgabe. Studierende in der Peer-Gruppe wählten Quellen nach sozialer Bequemlichkeit und ließen ihr evaluatives Urteil durch Freundschaftsbias verzerren. Peer-Review behielt einen eigenständigen Wert für die Adressatenbewusstheit, weshalb die Autorinnen und Autoren mehrstufige Designs mit anonymem Peer-Feedback vorschlagen statt eines Ersatzes.
 
 Der Vorteil von Gu et al. war klein, und sie lesen ihn als real, aber nicht für sich genommen transformativ. Teacher-Scaffolding, Prompt-Leitlinien und Arbeitsblätter leisteten die unterstützende Arbeit.
 
@@ -84,15 +84,15 @@ Der Vorteil von Gu et al. war klein, und sie lesen ihn als real, aber nicht für
 
 Rubric-bezogene Generierung ist der automatisierbare Teil.
 
-Der Qualitätsgewinn von Farrokhnia et al. kam aus einem Chain-of-Thought-Prompt, der das Modell durch eine schrittweise Bewertung gegen ein Argumentations-Rubric führte, nicht aus einer bloßen Anweisung, Feedback zu geben. Gu et al. gaben ihrer GenAI-Gruppe ChatGPT-4o mit vorab trainierten Rubrics und Prompt-Leitlinien, und das war es, was die Ausgabe gegen ausgewiesene Kriterien prüfbar machte. In beiden Fällen ist der Prompt der Ort, an dem Ihre Kriterien ins System gelangen, und die Begründungsspur ist das, was Ihnen zeigt, ob das Modell sie angewendet hat.
+Der Qualitätsgewinn von Farrokhnia et al. kam aus einem Chain-of-Thought-Prompt, der das Modell durch eine schrittweise Bewertung gegen ein Argumentations-Rubric führte, nicht aus einer bloßen Anweisung, Feedback zu geben. Gu et al. gaben ihrer [[generative-ai|GenAI]]-Gruppe ChatGPT-4o mit vorab trainierten Rubrics und Prompt-Leitlinien, und das war es, was die Ausgabe gegen ausgewiesene Kriterien prüfbar machte. In beiden Fällen ist der Prompt der Ort, an dem Ihre Kriterien ins System gelangen, und die Begründungsspur ist das, was Ihnen zeigt, ob das Modell sie angewendet hat.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson und Yan (2025)]] machen die Prompt-Qualität zum Angelpunkt des ganzen Prozesses. Vage Prompts ergeben generische, nutzlose Ausgabe, und generierte Kommentare können halluziniert, verzerrt oder überlappend sein, was das evaluative Urteil wieder der Leserin aufbürdet. Die Kalibrierung ist noch schärfer. Bei Farrokhnia et al. hing die Qualität des GenAI-Feedbacks signifikant mit der Stärke des ersten Entwurfs einer Studierenden zusammen, die Qualität des Lehrkraft-Feedbacks nicht. Die Lehrkraft kalibrierte konsistenter. Volumen skaliert. Kalibrierung nicht.
 
 ## Behalten Sie das letzte Wort und den Datensatz bei Menschen
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma und Cobos (2026)]] beschreiben AICoFE, das drei unabhängig feinabgestimmte Modelle (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) über Rubric-Werte und qualitative Beobachtungen laufen lässt, um unabhängige Entwurfskommentare zu erzeugen. Die Lehrkraft stellt dann die endgültige Nachricht zusammen, indem sie Sätze oder Absätze auswählt, mit einer Legende, die zeigt, welches Modell was beigetragen hat. Das Modell entwirft. Die Lehrkraft liefert, und das Lieferobjekt ist von einer Person unterzeichnet, die den Entwurf gelesen hat.
+[[becerra-aicofe-feedback-2026|Becerra, Palma und Cobos (2026)]] beschreiben AICoFE, das drei unabhängig feinabgestimmte Modelle (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) über Rubric-Werte und [[qualitative-research|qualitative]] Beobachtungen laufen lässt, um unabhängige Entwurfskommentare zu erzeugen. Die Lehrkraft stellt dann die endgültige Nachricht zusammen, indem sie Sätze oder Absätze auswählt, mit einer Legende, die zeigt, welches Modell was beigetragen hat. Das Modell entwirft. Die Lehrkraft liefert, und das Lieferobjekt ist von einer Person unterzeichnet, die den Entwurf gelesen hat.
 
-Aldino et al. finden dasselbe Muster von Unterstützen und dann Verifizieren in der alltäglichen Praxis. Die Machine-Learning-Komponente markierte am häufigsten „Meeting Learning Objective" als fehlend (20 von 21 Lehrkräften hatten es ausgelassen; 16 akzeptierten die Markierung) und „Student-Teacher Relationship" (14 ausgelassen; 12 akzeptiert). Die Lehrkräfte entschieden über jeden Vorschlag nach professionellem Urteil, und genau darum geht es, sie in den Kreislauf zu setzen.
+Aldino et al. finden dasselbe Muster von Unterstützen und dann Verifizieren in der alltäglichen Praxis. Die [[machine-learning|Machine-Learning]]-Komponente markierte am häufigsten „Meeting Learning Objective" als fehlend (20 von 21 Lehrkräften hatten es ausgelassen; 16 akzeptierten die Markierung) und „Student-Teacher Relationship" (14 ausgelassen; 12 akzeptiert). Die Lehrkräfte entschieden über jeden Vorschlag nach professionellem Urteil, und genau darum geht es, sie in den Kreislauf zu setzen.
 
 Zwölf der 21 Lehrkräfte von Aldino et al. nahmen weitere Überarbeitungen auf Satzebene vor, und das dominante Muster war das Kalibrieren des Tons: Lob heruntersetzen (f = 11), Vorschläge entfernen (f = 9), Ermutigung entfernen (f = 8). Die Überarbeitungen clusterten in der relationalen Dimension, besonders bei Student-Teacher Relationship (f = 24). Sie schützten Authentizität und professionelle Stimme, und diese Arbeit automatisiert sich nicht.
 
@@ -122,7 +122,7 @@ Zufriedenheitswerte sagen Ihnen, dass die Kommentare genau sind. In der Deakin-P
 
 ## Welche Einwände zurückkommen werden
 
-**„KI-Feedback ist nicht persönlich."** Oft wahr, und das ist der Grund, das letzte Wort beim Menschen zu lassen. AICoFE existiert, weil generische Modellprosa nicht das ist, was eine Studierende erhalten sollte: Die Lehrkraft wählt aus, bearbeitet und unterzeichnet die endgültige Nachricht. Die 21 Lehrkräfte bei Aldino et al. schrieben den Ton aus demselben Grund um. Personalisierung ist in diesem Design Ihre Aufgabe, und das Modell leistet die Vorarbeit.
+**„KI-Feedback ist nicht persönlich."** Oft wahr, und das ist der Grund, das letzte Wort beim Menschen zu lassen. AICoFE existiert, weil generische Modellprosa nicht das ist, was eine Studierende erhalten sollte: Die Lehrkraft wählt aus, bearbeitet und unterzeichnet die endgültige Nachricht. Die 21 Lehrkräfte bei Aldino et al. schrieben den Ton aus demselben Grund um. [[personalized-learning|Personalisierung]] ist in diesem Design Ihre Aufgabe, und das Modell leistet die Vorarbeit.
 
 **„Meine Studierenden lesen Feedback ohnehin nicht."** Sie lesen weniger, als wir hoffen, und die Evidenz sagt, dass die Behebung im Design liegt, nicht im Volumen. Die Übernahme in der Deakin-Pilotierung lag bei etwa 13% und 12%. Die höher bewerteten Kommentare von Farrokhnia et al. erzeugten keine zusätzliche Überarbeitung. Was den Unterschied machte, war eine Abfolge, die Auseinandersetzung erzwingt – Selbsteinschätzung, dann Peer-Feedback, dann KI-Kritik –, plus drei Überarbeitungszyklen über ein Semester, die messbare Unterschiede in der Feedbackkompetenz erzeugten.
 

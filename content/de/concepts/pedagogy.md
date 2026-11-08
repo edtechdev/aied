@@ -1,7 +1,7 @@
 ---
 title: Pädagogiken und Lehrstrategien
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,8 +9,8 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-10-26T09:35:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-07T13:20:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -61,11 +61,13 @@ Die [[research-methods-aied|Forschung]] der Wissensbasis untersucht Pädagogik a
 - **KI als pädagogischer Agent.** KI-Werkzeuge verkörpern Pädagogiken — ein [[intelligent-tutoring|Tutor]], der auf [[socratic-method|sokratischem Fragen]] aufbaut, fordert Lernende zum Schlussfolgern auf, während ein antwortgenerierender Chatbot zu direkter Bereitstellung neigen kann (siehe [[reducing-ai-misuse|Missbrauch reduzieren]] dazu, warum die pädagogische Haltung bedeutsam ist). Die Literatur zu [[agentic-ai|agentischer KI]] zeigt, dass Agenten, die in Instruktionsdesigntheorie fundiert sind, rohes [[prompt-engineering|Prompting]] übertreffen. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] rahmen diese Rolle formal neu: statt eines dyadischen Modells aus Lehrkraft und [[student-modeling|Lernendenmodell]] mit GenAI als externem Zusatz oder Bedrohung schlagen sie ein verschachteltes **triadisches Modells aus Lehrkraft, lernender Person und GenAI** vor, in dem GenAI als begrenzter *didaktisch-pädagogischer Mediator* innerhalb eines gemeinsamen didaktischen Vermittlungsraums operiert, der von Einrichtungen und Akteuren bestimmt wird — und daraus fünf erforschbare Propositionen über Lernvermittlung, Verwandlung der Rolle der Lehrkraft, KI-Kompetenz und Handlungsfähigkeit der lernenden Person, KI-transparentes [[process-oriented-assessment|prozessorientiertes Assessment]] und institutionelle [[governance|Governance]] erwachsen.
 - **Pädagogik bestimmt die Wirkung von KI.** Ein wiederkehrender Befund ist, dass *wie* KI genutzt wird ebenso viel zählt wie *ob* sie genutzt wird. [[instructional-guidance-genai-learning|Forschung zu Instruktionsanleitung]] und [[generative-ai-guardrails-harm-learning|RCTs zu Tutoren mit Leitplanken]] zeigen, dass dieselbe KI je nach pädagogischer Hülle helfen oder schaden kann (Hinweise gegenüber Antworten, strukturierte gegenüber offener Nutzung).
 - **Pädagogisches Wissen überwiegt technisches Wissen.** Über 46 Lehrkräfte und 2,832 Lernende sagte pädagogisches KI-Wissen der Lehrkräfte die Wahrnehmungen der Lernenden von KI für das Gemeinwohl und ihre Absicht voraus, KI zu lernen, während technisches Wissen allein unzureichend war — und keines sagte das KI-Wissen der Lernenden voraus ([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al. (2026)]]).
-- **KIs klarster Beitrag ist das Auslagern administrativer Arbeit.** Ein PRISMA-Review von 28 Studien fand, dass KI am häufigsten Unterrichtsplanung und Assessment-Design verbesserte, wobei ihr am meisten berichteter Nutzen die Automatisierung von Benotung, Feedback und Fortschrittsüberwachung war (18 Studien, 64.2%) —, während pädagogische Ausrichtung die am häufigsten genannte Herausforderung war (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).
-**Automation und Lernen stehen in direktem Kompromiss.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] führen sechs pädagogische Prinzipien — Aktivierung von Vorwissen, [[collaborative-learning|kollaboratives Lernen]], [[problem-based-learning|problemlösendes Lernen]], [[formative-assessment|formatives Prüfen]], [[scaffolding|Scaffolding]], [[metacognition|Metakognition]] — durch, was proaktive agentische Initiative mit jedem einzelnen tut, und argumentieren, je mehr ein Agent automatisiere, desto weniger kognitive Arbeit leiste die lernende Person, sofern nicht Reibung, dynamisches Ausblenden und menschliche Aufsicht eingebaut würden.
+- **Das Auslagern administrativer Arbeit ist, wo KI am klarsten beiträgt.** Ein PRISMA-Review von 28 Studien fand, dass KI am häufigsten Unterrichtsplanung und [[assessment|Assessment-Design]] verbesserte, wobei ihr am meisten berichteter Nutzen die Automatisierung von Benotung, Feedback und Fortschrittsüberwachung war (18 Studien, 64.2%) —, während pädagogische Ausrichtung die am häufigsten genannte Herausforderung war (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).
+**Automation und Lernen stehen in direktem Kompromiss.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] führen sechs pädagogische Prinzipien — [[prior-knowledge|Aktivierung von Vorwissen]], [[collaborative-learning|kollaboratives Lernen]], [[problem-based-learning|problemlösendes Lernen]], [[formative-assessment|formatives Prüfen]], [[scaffolding|Scaffolding]], [[metacognition|Metakognition]] — durch, was proaktive agentische Initiative mit jedem einzelnen tut, und argumentieren, je mehr ein Agent automatisiere, desto weniger kognitive Arbeit leiste die lernende Person, sofern nicht Reibung, dynamisches Ausblenden und [[human-in-the-loop-ai|menschliche Aufsicht]] eingebaut würden.
 
+- **Reflexion ist eine Pädagogik, die KI sowohl ermöglicht als auch bedroht.** Strukturierte Prompts, Journale und [[eportfolio|Portfolio]]-Kommentare sind der Mechanismus, durch den Erfahrung zu Lernen wird, und die Seite zu [[reflection]] trägt die Evidenz. Ein vorregistriertes Experiment fand, dass Prompts die Zeit mit Feedback verdoppelten und das Übungsvolumen um 40 % senkten, ohne den Gewinn pro Aufgabe zu heben. Ein kodiertes Audit eines KI-Reflexionspartners fand, dass er jede Verhaltensanweisung brach, ohne eine sichtbare Spur zu hinterlassen. Gestalten Sie den Prompt um einen abgeschlossenen Versuch herum und verlangen Sie die Spur statt des polierten Eintrags.
 - **Lehrstrategien für KI-Kompetenz.** Lernenden beizubringen, *KI gut zu nutzen*, ist selbst eine pädagogische Aufgabe — Forschung zu [[ai-literacy|KI-Kompetenz]] und [[reducing-ai-misuse|Missbrauch reduzieren]] entwickelt Strategien (erst denken/KI danach/reflektieren, KI-Deklaration, Kalibrierungstraining), die zu diesem Schirm gehören.
-- **KI-Kompetenz-Unterricht verändert Wissen am schnellsten.** Eine Metaanalyse auf drei Ebenen von 59 Studien (172 Effektstärken) fand, dass wissensfokussierte Interventionen (g ≈ .97) jene klar übertrafen, die auf Fähigkeiten (≈ .67), Haltungen (≈ .68) oder [[ethics|Ethik]] (≈ .64) zielten, sodass das Paaren von Konzeptunterricht mit anhaltender Übung auf jene Ergebnisse zielt, die sich Instruktion widersetzen ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
+- **Metapher und Analogie als Lehrtechnik.** [[metaphors-and-analogies]] sammelt die Evidenz dazu, wie Analogien KI erklären, wo sie brechen und wie Lernende sie als Form von [[critical-thinking|kritischem Denken]] prüfen können.
+- **KI-Kompetenz-Unterricht verändert Wissen am schnellsten.** Eine Drei-Ebenen-[[meta-analysis-systematic-review|Metaanalyse]] von 59 Studien (172 Effektstärken) fand, dass wissensfokussierte Interventionen (g ≈ .97) jene klar übertrafen, die auf Fähigkeiten (≈ .67), Haltungen (≈ .68) oder [[ethics|Ethik]] (≈ .64) zielten, sodass das Paaren von Konzeptunterricht mit anhaltender Übung auf jene Ergebnisse zielt, die sich Instruktion widersetzen ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
 - **Pädagogik in der Praxis der Lehrkräfte.** [[teacher-role|Lehre]] und [[teacher-ai-competency|KI-Kompetenz von Lehrkräften]] untersuchen, wie Lehrkräfte KI innerhalb ihres bestehenden pädagogischen Repertoires übernehmen, und [[llm-training-and-fine-tuning|LLM-Training und Feinjustierung]] / [[pedagogical-agent|pädagogische Agenten]] untersuchen KI-Werkzeuge, die darauf trainiert sind, pädagogischen Prinzipien zu folgen.
 
 ## Verhältnis zu Lerntheorien
@@ -109,9 +111,11 @@ Jene Betonung erhaltener Anstrengung ist nicht absolut: ein vierstudien-[[mixed-
 - [[learning-sciences]]
 - [[learning-gains]]
 - [[learning-design]]
+- [[metaphors-and-analogies]] — Metapher und Analogie als Lehrtechnik
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[project-based-learning]]
+- [[case-based-learning]] — Fallmethode und kontrastierende Fälle als Lehrtechniken
 - [[experiential-learning]]
 - [[game-based-learning]]
 - [[socratic-method]]

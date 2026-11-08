@@ -1,7 +1,7 @@
 ---
 title: Affektives Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -10,8 +10,8 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-10-29T06:19:06-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T13:20:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -60,13 +60,13 @@ Favero et al. (2025) warnen, dass emotionales [[student-engagement|Engagement]] 
 | Nutzen affektiven Tutorings | Entsprechendes Risiko |
 |---|---|
 | Emotional bewusste Antworten fühlen sich unterstützend an | Studierende können **parasoziale Abhängigkeiten** gegenüber dem Tutor entwickeln |
-| Empathie reduziert Angst | Reduzierte Angst kann **metakognitive Abkopplung** verdecken |
+| Empathie reduziert [[anxiety-and-stress|Angst]] | Reduzierte [[anxiety-and-stress|Angst]] kann **metakognitive Abkopplung** verdecken |
 | Affektive Kalibrierung personalisiert das Tempo | Tiefe [[personalized-learning|Personalisierung]] kann den Transfer auf nicht-adaptive Kontexte **verringern** |
 | Gesichtsbeobachtung signalisiert Aufmerksamkeit | Kontinuierliche Videoerfassung wirft **Datenschutzbedenken** auf |
 
 Die Autoren argumentieren, emotionale Risiken seien Teil eines breiteren Musters der **Erosion von [[self-efficacy|Selbstwirksamkeit]], [[agency|Handlungsfähigkeit]] und [[well-being|Wohlbefinden]]**, wenn KI-Nutzung unkontrolliert bleibt.
 
-**Das Risiko trifft auch Menschen, die den Tutor nie öffnen.** [[shastry-gray-empathy-offloading-2026|Shastry und Gray (2026)]] fanden, dass die Bereitschaft, selbst emotionale Unterstützung zu geben, sinkt, wenn man glaubt, ein System könne sie bieten, und dieser Glaube war in ihrem zweiten Experiment kausal: das Lesen gewöhnlicher Nachrichtenberichterstattung über empathische KI genügte, um die Auslagerung zu erhöhen, vollständig vermittelt über die wahrgenommene Fähigkeit. Ihre vierte Studie fügt soziale Kosten hinzu, die die individualbezogene Rahmung übersieht. Erfuhren Teilnehmende, dass eine studierende Person sich für Unterstützung an einen Chatbot gewandt hatte, gaben sie an, weniger auszulagern, als wenn sie sich an eine Freundin oder einen Freund gewandt hätte. Sie schrieben dann weniger Empathiewörter und mehr Gleichgültigkeitswörter über diese Person und bewerteten sie als fremder und verzweifelter. [[social-emotional-learning|Sozial-emotionale]] Versorgung kann daher rund um den Tutor ausdünnen, selbst wenn niemand, der ihn nutzt, eine Veränderung berichtet.
+**Das Risiko trifft auch Menschen, die den Tutor nie öffnen.** [[shastry-gray-empathy-offloading-2026|Shastry und Gray (2026)]] fanden, dass die Bereitschaft, selbst emotionale Unterstützung zu geben, sinkt, wenn man glaubt, ein System könne sie bieten, und dieser Glaube war in ihrem zweiten Experiment kausal: das Lesen gewöhnlicher Nachrichtenberichterstattung über empathische KI genügte, um die Auslagerung zu erhöhen, vollständig vermittelt über die wahrgenommene Fähigkeit. Ihre vierte Studie fügt soziale Kosten hinzu, die die individualbezogene Rahmung übersieht. Erfuhren Teilnehmende, dass eine studierende Person sich für Unterstützung an einen [[conversational-ai|Chatbot]] gewandt hatte, gaben sie an, weniger auszulagern, als wenn sie sich an eine Freundin oder einen Freund gewandt hätte. Sie schrieben dann weniger Empathiewörter und mehr Gleichgültigkeitswörter über diese Person und bewerteten sie als fremder und verzweifelter. [[social-emotional-learning|Sozial-emotionale]] Versorgung kann daher rund um den Tutor ausdünnen, selbst wenn niemand, der ihn nutzt, eine Veränderung berichtet.
 
 ## Designprinzipien
 

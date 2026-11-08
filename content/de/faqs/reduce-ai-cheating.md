@@ -1,15 +1,15 @@
 ---
 title: "Wie kann ich KI-Betrug in meinem Kurs reduzieren?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-28T11:06:17-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-06T13:58:13-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -58,11 +58,13 @@ Starten Sie mit einem Label. Die [[ai-assessment-scale-reform|AI Assessment Scal
 
 Dann ändern Sie das Artefakt. Ein [[meta-analysis-systematic-review|systematischer Review]] von 72 Studien zu generativer KI in der [[cs-education|Informatikbildung]] bewertet Redesign als sowohl machbar als auch am wirksamsten und hebt eine Maßnahme hervor: Fügen Sie mindestens einem Assessment mit hohen Einsätzen pro Kurs ein mündliches oder anderweitig prozesssichtbares Element hinzu. Er nennt das die einzelne wirksamste Intervention im Korpus. Detektion ist der dünnste Bereich, den das Review abdeckt, mit nur 3 Studien – gegen 60–80% der Informatikstudierenden, die generative KI in der Kursarbeit nutzen, typischerweise ohne ausdrückliche Billigung durch die Lehrkraft, und 70% einer nationalen Fakultätsstichprobe, die ausdrücklich Schulung zu KI-resistentem Assessmentdesign erbitten ([[kumar-genai-computing-education-systematic-review-2026]]).
 
+Ein dreijähriger Informatikkurs zeigt, wie weit ein gerüsteter Offenlegungs-Workflow Verhalten verschieben kann. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil et al. (2026)]] verlangten einen unabhängigen Entwurf mit einer vierteiligen Checkliste, einen KI-Schritt zum Verfeinern statt Neuschreiben, ein Offenlegungsformular und eine strukturierte Reflexion, wobei ein fehlender Entwurf oder ein fehlendes Formular mit null bewertet wurde. Die Annahme stieg von etwa zwei Dritteln der Studierenden unter freiwilliger Regelung auf 93% im gerüsteten Jahr; 81% und 84% der KI-Nutzenden gaben an, Vorschläge abgelehnt oder verändert zu haben, Bewertende kodierten 77–81% der Abgaben auf kritisches Engagement, und die KI-Nutzung sagte die Essayqualität nicht unabhängig vorher, nachdem die frühere Schreibfähigkeit kontrolliert worden war. Das ist ein Erfahrungsbericht aus einem einzelnen Kurs, keine kontrollierte Studie, aber er zeigt, wie die Integritätsarbeit von der Detektion zu den Bedingungen wandert, unter denen Studierende offenlegen und überarbeiten.
+
 Das Menü, grob in der Reihenfolge, in der jede Option eine große Klasse übersteht.
 
-Ohne Hilfsmittel, im Kurs, ohne Unterlagen: beaufsichtigte Prüfungen, Quizze, Schreiben unter Zeitdruck. Gewichten Sie diese stärker als früher, weil Hausarbeit das Artefakt ist, das KI aufbläht. Mündliche Prüfungen und Verteidigungen wirken aus demselben Grund, denn Echtzeitdialog lässt sich schwer auslagern ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
+Ohne Hilfsmittel, im Kurs, ohne Unterlagen: beaufsichtigte Prüfungen, Quizze, Schreiben unter Zeitdruck. Gewichten Sie diese stärker als früher, weil Hausarbeit das Artefakt ist, das KI aufbläht. [[oral-assessment|Mündliche Prüfungen]] und Verteidigungen wirken aus demselben Grund, denn Echtzeitdialog lässt sich schwer auslagern ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-Prozessartefakte: Entwürfe, Argumentationsspuren, kommentiertes „zeigen Sie Ihr Denken“, Revisionsprotokolle, damit der *Prozess* sichtbar wird und nicht nur das Produkt ([[authentic-products-authenticated-processes-2026]]). Authentische Aufgaben wirken daneben: lokale Fälle, Praktikumsmaterial, die eigenen Daten der studierenden Person, alles, was sich schwer delegieren lässt ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
+Prozessartefakte: Entwürfe, Argumentationsspuren, kommentiertes „zeigen Sie Ihr Denken“, Revisionsprotokolle, damit der *Prozess* sichtbar wird und nicht nur das Produkt ([[authentic-products-authenticated-processes-2026]]). [[authentic-assessment|Authentische Aufgaben]] wirken daneben: lokale Fälle, Praktikumsmaterial, die eigenen Daten der studierenden Person, alles, was sich schwer delegieren lässt ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
 Aufgabenvariation pro Person, bei der jede studierende Person eine oberflächlich unterscheidbare, aber konstruktäquivalente Version erhält, macht Abschreiben strukturell nutzlos. Behandeln Sie die Garantie als fähigkeitsabhängig: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] fand, dass Frontier-Generatoren nur 0.81–0.88 auf einem gemeinsamen Integritätsscore erreichten, während Nicht-Frontier-Modelle auf 0.50–0.55 einbrechen. Wenn Ihre Varianten nicht äquivalent sind, haben Sie Schutz gegen Teilen zusammen mit Ungerechtigkeit zwischen Studierenden gekauft.
 
@@ -100,7 +102,7 @@ Formulieren Sie die Regel außerdem präzise. [[wright-transcription-not-generat
 
 Das Werkzeug zu verbieten und es ohne Struktur zu erlauben erzeugen dasselbe Ergebnis: Studierende stehen außerhalb der kognitiven Arbeit.
 
-Die Synthese zur Reduktion von KI-Missbrauch legt acht Designprinzipien für die erlaubte Variante dar, darunter: [[desirable-difficulties|kognitive Reibung]] erhalten, KI als vorläufigen Denkpartner statt als Autorität positionieren, Evaluationskontrollpunkte einbetten und [[metacognition|metakognitives]] Journaling und Prompt-Protokolle verlangen.
+Die Synthese zur Reduktion von KI-Missbrauch legt acht Designprinzipien für die erlaubte Variante dar, darunter: [[desirable-difficulties|kognitive Reibung]] erhalten, KI als vorläufigen Denkpartner statt als Autorität positionieren, Evaluationskontrollpunkte einbetten und [[metacognition|metakognitives]] [[reflection|Journaling]] und Prompt-Protokolle verlangen.
 
 Die Sequenz, die diese Prinzipien trägt, ist kurz genug für ein Aufgabenblatt:
 
@@ -126,7 +128,7 @@ Das gemessene Beispiel ist ein [[k-12]]-Modul mit szenariobasiertem Prompt-Train
 
 Was Studierende tatsächlich glauben, ist weniger zynisch, als die Panik nahelegt. Unter 504 Soziologiestudierenden hatten 65% generative KI für Kursarbeit genutzt, aber nur 3% zur Erzeugung von Aufgabentext und 2% zur Erzeugung eines vollen Entwurfs. 81% hatten irgendeine KI-Orientierung erhalten, und nur 46% fanden sie sehr klar ([[student-genai-use-views-writing]]). Mehrdeutigkeit, nicht Widersetzlichkeit, ist das praktische Problem, weshalb eine klare Regel plus eine gezeigte Sequenz mehr Verhalten verschiebt als eine Warnung. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa und Mezgebu (2026)]] beschreiben Studierende, die fragen, ob generative KI ein Werkzeug ist, das Betrug erleichtert, oder ein Partner, der Lernen unterstützt, und genau diese Frage sollten Ihre Erwartungen beantworten.
 
-Der Schaden, den es sich lohnt, ausdrücklich zu lehren, ist die [[ai-misuse-learning-harm|Leistungs-Lern-Lücke]]: Die Leistung steigt jetzt, das Lernen fällt später, und die studierende Person erlebt nur das Erste. [[ai-tools-academic-work-cheating-2026]] und [[student-rationalization-ai-writing]] behandeln die Seite der Peer-Normen und der Rationalisierung, einschließlich der Verteidigung „alle tun es“, die eine klare Norm entlüftet. Wie stark diese Grundlage ist, zeigen [[ai-literacy-evidence]] und [[top-10-findings-ai-education-instructors]].
+Der Schaden, den es sich lohnt, ausdrücklich zu lehren, ist die [[ai-misuse-learning-harm|Leistungs-Lern-Lücke]]: Die Leistung steigt jetzt, das Lernen fällt später, und die [[student-experience|studierende Person]] erlebt nur das Erste. [[ai-tools-academic-work-cheating-2026]] und [[student-rationalization-ai-writing]] behandeln die Seite der Peer-Normen und der Rationalisierung, einschließlich der Verteidigung „alle tun es“, die eine klare Norm entlüftet. Wie stark diese Grundlage ist, zeigen [[ai-literacy-evidence]] und [[top-10-findings-ai-education-instructors]].
 
 ## Was Lehrende hier falsch machen
 

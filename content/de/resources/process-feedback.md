@@ -1,7 +1,7 @@
 ---
 title: "Process Feedback"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-10-24T08:38:48-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: resource
 summary: "Eine kostenlose, prozessbasierte Alternative zur KI-Erkennung: Sie erfasst, wie ein Text entstanden ist, und macht daraus einen Bericht für ein Gespräch über das Lernen statt ein Urteil."
 url: https://processfeedback.org/
@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: resources/process-feedback
 source_updated: "2026-10-24T08:37:08-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -33,7 +33,7 @@ ai_assist:
 
 ## Was man damit tun kann
 
-Eine Lehrkraft kann einen Bericht für eine lernende Person ansehen oder Hunderte auf einmal aus einem Lehrkräfte-Dashboard laden, und Lernende können ihre eigenen Berichte ansehen und darüber [[metacognition|reflektieren]]. Es funktioniert in Google Docs über eine Browser-Erweiterung, im eigenen Schreibraum des Projekts und in LMS-Editoren wie Canvas, mit verfügbarer LTI-Integration; ein Bericht kann außerdem als PDF heruntergeladen und auf jede Plattform hochgeladen werden. Das Projekt veröffentlicht Reflexionsaufforderungen für die Selbstprüfung der Lernenden, Anleitungen zum Lesen von Mustern der KI-Nutzung, und Leitfäden für Lehrkräfte.
+Eine Lehrkraft kann einen Bericht für eine lernende Person ansehen oder Hunderte auf einmal aus einem Lehrkräfte-Dashboard laden, und Lernende können ihre eigenen Berichte ansehen und darüber [[reflection|reflektieren]]. Es funktioniert in Google Docs über eine Browser-Erweiterung, im eigenen Schreibraum des Projekts und in LMS-Editoren wie Canvas, mit verfügbarer LTI-Integration; ein Bericht kann außerdem als PDF heruntergeladen und auf jede Plattform hochgeladen werden. Das Projekt veröffentlicht Reflexionsaufforderungen für die Selbstprüfung der Lernenden, Anleitungen zum Lesen von Mustern der KI-Nutzung, und Leitfäden für Lehrkräfte.
 
 ## Für wen es gedacht ist
 

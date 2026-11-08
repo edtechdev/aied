@@ -1,7 +1,7 @@
 ---
 title: Technologieadoptionsmodelle
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:55-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,8 +10,8 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-10-26T10:25:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-05T09:35:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -50,9 +50,12 @@ Von Davis (1989) vorgeschlagen, erklärt TAM Adoption über zwei Kernüberzeugun
 ### UTAUT / UTAUT2 / UTAUT3
 Die **Unified Theory of Acceptance and Use of Technology** konsolidiert TAM mit acht früheren Modellen zu vier Kerndeterminanten —, Leistungserwartung, Aufwandserwartung, sozialer Einfluss und erleichternde Bedingungen (wobei UTAUT2 hedonische Motivation, Preisnutzen und Gewohnheit hinzufügt; UTAUT3 persönliche Innovationsfreude). Die Wissensdatenbank wendet UTAUT über Lehrkraft- und Studierendenpopulationen an: [[mathematics-teachers-chatbot-motivation-2026|österreichische Sekundarstufen-Mathematiklehrkräfte]] (UTAUT mit 448 Lehrkräften), [[pre-service-science-teachers-ai-perceptions-2026|angehende Naturwissenschaftslehrkräfte in Ghana]] (UTAUT + TPB) und [[tian-genai-learning-adoption-pathways-2026|Studierende in Lesotho]] (UTAUT3 + ARCS, unter Nutzung von PLS-SEM und fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] erweitern UTAUT2 um erklärbare KI (Random Forest, SHAP, NCA, IPMA, K-Means) für 522 Universitätsstudierende und finden **Gewohnheit** als stärksten Prädiktor der ChatGPT-Absicht, und zeigen, dass **Aufwandserwartung eine notwendige Bedingung statt eines linearen Treibers ist** —, ein Ergebnis, das nur sichtbar wird, wenn XAI die Regression ergänzt.
 
+**In einer bereits adoptierenden Stichprobe trägt die Gewohnheit das Modell, und die Erwartungen werden still.** [[pinedo-genai-adoption-marketing-students-2026|Pinedo et al. (2026)]] testeten UTAUT2 an 310 [[business-education|Marketingstudierenden]] zweier lateinamerikanischer Universitäten: Gewohnheit sagte Absicht bei β = 0,426 und Nutzung bei β = 0,412 voraus, und Absicht sagte Nutzung bei 0,324 voraus. Leistungserwartung (0,037), Aufwandserwartung (0,054) und sozialer Einfluss (0,048) waren nicht signifikant, in einem Modell, das R² = 0,665 der Absicht und 0,707 der Nutzung erklärte. Die Autoren lesen die Nullpfade als Varianzeinschränkung in einer Population, die das Werkzeug bereits übernommen hatte; das Ergebnis ist [[self-report-measures|selbstberichtete]] Nutzung, kein protokolliertes Verhalten.
+
+**Angst, nicht sozialer Einfluss, trug den affektiven Pfad in einem ressourcenschwachen Setting.** Eine UTAUT-Erweiterung mit 350 ghanaischen Geisteswissenschaftsstudierenden im Grundstudium fand Leistungserwartung als stärksten Prädiktor der Absicht (β = 0,377) und Aufwandserwartung an zweiter Stelle (β = 0,281), sozialen Einfluss null (β = −0,038) und digitale Lernangst bei β = −0,281 ([[davor-digital-learning-anxiety-utaut-genai-ghana-2026|Davor et al., 2026]]). Aufwandserwartung senkte auch die Angst (β = −0,126), sodass einfache Nutzung teilweise wirkte, indem sie sie verringerte.
+
 ### Theory of Planned Behavior (TPB)
 TPB erklärt Absicht über Einstellung, subjektive Normen und wahrgenommene Verhaltenskontrolle. Sie wird in KI-Adoptionsstudien häufig mit TAM/UTAUT gepaart —, z. B. integrieren [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] TAM, TPB, UTAUT und den FATE-Rahmen ([[bias-mitigation|Fairness]], Rechenschaftspflicht, Transparenz, Ethik), um die verhaltensbezogenen und [[ethics|ethischen]] Treiber der ChatGPT-Adoption durch Studierende zu modellieren.
-
 
 Adoptionsforschung endet üblicherweise bei der Absicht; eine TPB-Erweiterung, die stattdessen Verzögerung trotz echter Absicht maß, fand wahrgenommene Verhaltenskontrolle als stärksten negativen Prädiktor von GenAI-gestützter Lernprokrastination (β = −0.331) über 1.243 Studierende, wobei die Absicht-Verzögerung-Verbindung nur bei mäßiger bis hoher Lern-GenAI-Angst signifikant war ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
 
@@ -68,11 +71,13 @@ Adoptionsmodelle werden über die Wissensdatenbank angewandt, um die Übernahme 
 
 - **Kritischer-Gebrauch-Erweiterung:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] erweiterten TAM um *kritischen Gebrauch* für Ingenieur- und Informatikstudierende und fanden, dass Einstellungen und kritischer Gebrauch Absicht direkt vorhersagen —, und dass kritischer Gebrauch gegen [[cognitive-offloading|Überabhängigkeit]] schützt.
 - **Einheitliches sozio-kognitives Modell:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrierten TAM mit UTAUT für Ingenieurstudierende in Bangladesch (64% der Nutzungsvarianz erklärend).
-- **Personenzentrierte Profile:** Statt variablenzentrierter Modelle clustern [[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed]] GenAI-Adoptions-Personas, und [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al.]] nutzen latente Profilanalyse, um vier ChatGPT-Akzeptanzprofile unter angehenden Lehrkräften zu identifizieren —, was den Schritt des Feldes über einmodellige, lineare Konten hinaus zeigt.
+- **Personenzentrierte Profile:** Statt variablenzentrierter Modelle clustern [[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed]] GenAI-Adoptions-Personas, und [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al.]] nutzen [[latent-profile-analysis|latente Profilanalyse]], um vier ChatGPT-Akzeptanzprofile unter angehenden Lehrkräften zu identifizieren —, was den Schritt des Feldes über einmodellige, lineare Konten hinaus zeigt.
 - **Kulturvergleichende Validierung:** [[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al.]] validieren adoptionsbezogene Motivationskonstrukte kulturvergleichend über die Schweiz und China.
+
+- **Ein Wissensmediator neben den Erwartungsmediatoren:** [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] platzieren [[ai-literacy|KI-Kompetenz]] zwischen [[self-efficacy|KI-Selbstwirksamkeit]] und Akzeptanz bei 622 Studierenden im Grundstudium in der Türkei. Der indirekte Pfad war signifikant (B = 0,15, 95 % KI [0,12, 0,19]) und ließ einen direkten Pfad intakt (B = 0,43, R² = 0,29); die Akzeptanz zeigte zudem eine schwache negative Assoziation mit [[anxiety-and-stress|KI-Angst]] (B = -0,34, R² = 0,05). Wo die [[trust-calibration|Übervertrauens]]-Arbeit unten Zuversicht über Leistungserwartung leitet, leitet diese Studie sie darüber, was Studierende über die Technologie wissen.
+
 - **Psychologische Korrelate:** [[acceptance-ai-english-tools-2026|Wu et al.]] bauen auf TAM auf, um Motivation, [[self-efficacy|Selbstwirksamkeit]], Angst und Risikowahrnehmung auf die Akzeptanz KI-unterstützten Englischlernens zu beziehen.
 - **[[regulation|Regulatorische]] Kompetenzkritik:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argumentiert, adoptionszentrierte TAM-Modelle behandelten Nutzung als stabile Entscheidung, während wirksame KI-Nutzung ein laufender Prozess aus Urteil, Überarbeitung und selektiver Aufnahme sei —, was [[ai-literacy|KI-Kompetenz]] als regulatorische Kompetenz und [[critical-thinking|kritisches Denken]] statt als Akzeptanz neu rahmt.
-
 
 Das Hinzufügen einer [[tpack|TPACK]]-Familien-Fähigkeit neben Glaubensrahmen wie der Theory of Planned Behavior als parallele Prädiktoren lädt zu Konstruktüberlappung ein und lässt die kausale Ordnung von Fähigkeit, Einstellung und Kontrolle unentschieden; das Capability–Decision-Modell platziert stattdessen AI-TPACK-Fähigkeit stromaufwärts von Einstellung und wahrgenommener Verhaltenskontrolle ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
@@ -88,10 +93,21 @@ TAMs kognitiver Fokus erfasst auch emotionale und relationale Dimensionen der KI
 
 **Risikowahrnehmung als dimensionsspezifische Erweiterung.** Eine Befragung von 814 chinesischen Universitätsstudierenden ([[risk-perception-genai-perceived-benefits-2026|Du, Ning, Shi & Chen (2026)]]) faltet Cognitive Appraisal Theory und Protection Motivation Theory in TAM/UTAUT2, um nicht zu fragen, ob Studierende [[generative-ai|generative KI]] übernehmen, sondern was sie daraus gewinnen. Die Annahme der Modellfamilie, dass Risiko Adoption gleichmäßig unterdrücke, überlebt nicht: Risikowahrnehmung spaltet sich in Informations-, Sicherheits-, technische, [[ethics|ethische]] und rechtliche Dimensionen, die Nutzen in entgegengesetzte Richtungen bewegen. Sicherheitsrisiko —, eine Bedrohung, von der Studierende glauben, sie durch [[privacy|Datenschutzpraxis]] bewältigen zu können —, war *positiv* mit wahrgenommener akademischer Unterstützung und Fertigkeitsentwicklung assoziiert, konsistent mit problemfokussierter Bewältigung, während Informationsrisiko, das Lernende nicht leicht verifizieren können, psychologische und emotionale Unterstützung, Alltags- und Freizeitnutzen über Vermeidung erodierte. Schwellenwertanalysen zeigten zudem Effekte, die jenseits dimensionsspezifischer Cut-Points das Vorzeichen wechseln, und Nutzungserfahrung zählte unabhängig: Studierende mit über einem Jahr GenAI-Nutzung berichteten höheren Nutzen über vier Domänen. Die praktische Implikation für Akzeptanzforschung ist, dass „wahrgenommenes Risiko“ ein zu grobes Konstrukt zum Modellieren ist —, Kontrollierbarkeit, nicht die bloße Gegenwart von Risiko, bestimmt, ob Studierende sich engagieren oder zurückziehen.
 
-Eine jüngere Erweiterung kehrt die übliche Richtung um und platziert fachspezifische motivationale Überzeugungen stromaufwärts der TAM-Wahrnehmungen statt neben ihnen. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] berichten, dass der Nutzwert die wahrgenommene Nützlichkeit mit β = 0.43 vorhersagt und die Erfolgserwartung die wahrgenommene einfache Nutzung mit β = 0.39, während die Kern-TAM-Pfade abgeschwächt, aber signifikant bleiben.
+Eine jüngere Erweiterung kehrt die übliche Richtung um und platziert [[discipline-specific-aied|fachspezifische]] motivationale Überzeugungen stromaufwärts der TAM-Wahrnehmungen statt neben ihnen. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] berichten, dass der Nutzwert die wahrgenommene Nützlichkeit mit β = 0.43 vorhersagt und die Erfolgserwartung die wahrgenommene einfache Nutzung mit β = 0.39, während die Kern-TAM-Pfade abgeschwächt, aber signifikant bleiben.
 
+**Task-Technology Fit als paralleler Pfad und Notwendigkeit als separate Frage.** Die meisten Erweiterungen oben fügen Konstrukte *innerhalb* des Überzeugungsmodells hinzu. Ein Schwesterrahmenwerk, das TAM-Studien selten mitführen, ist Task–Technology Fit, das fragt, ob die Fähigkeiten eines Werkzeugs zu den Anforderungen der konkreten Aufgabe passen. [[chu-design-students-ai-agent-tam-ttf-2026|Chu und Liu (2026)]] verbanden beide bei 405 Design-Postgraduierten an chinesischen Universitäten, und Fit wirkte als zweiter Weg in die Einstellung statt als Determinante der Nützlichkeit.
+
+Aufgabenmerkmale speisten Fit bei β = 0,322 und Technologiemerkmale bei β = 0,266. Fit speiste dann die Einstellung bei β = 0,224, neben wahrgenommener Nützlichkeit (0,376) und wahrgenommener einfacher Nutzung (0,185), und die Einstellung speiste die Absicht bei β = 0,388. Selbstwirksamkeit trug die größten stromaufwärtigen Koeffizienten, 0,458 auf Nützlichkeit und 0,394 auf einfache Nutzung. Wahrgenommener Genuss erhöhte die einfache Nutzung (0,220) und ließ die Nützlichkeit unberührt (−0,033, p = 0,483) — eine instrumentell-affektive Trennung, die das klassische Modell nicht zieht.
+
+Die methodische Ergänzung ist der übertragbarere Teil. Ein Multilayer-Perceptron-Netzwerk reproduzierte die PLS-SEM-Wichtigkeitsrangfolge in allen vier Modellen. Eine Necessary-Condition-Analyse fand dann nur zwei Untergrenzen: Selbstwirksamkeit für Nützlichkeit (d = 0,125, p = 0,015) und Einstellung für Absicht (d = 0,132, p < 0,001). Einstellung war bei 22,1 %, 34,3 % und 46,4 % ihrer Skala erforderlich für Absicht bei 80 %, 90 % und 100 %, sodass Einstellung als Tor statt als Gewicht wirkt, was eine andere Behauptung ist als ein Pfadkoeffizient von 0,388. Die Vorsicht liegt im Ergebnis: R² = 0,150 und Q² = 0,011 für Absicht sagen, dass die zehn hypothetisierten Pfade den größten Teil der Varianz anderswo lassen.
+
+**Designmerkmale stromaufwärts der Überzeugungen, und Wichtigkeit, die nicht Notwendigkeit ist.** [[zhang-ai-enhanced-systems-adoption-ann-nca-2026|Zhang, Xin und Qing (2026)]] stellten sechs Systemmerkmale vor die zwei TAM-Überzeugungen bei 301 chinesischen Universitätsstudierenden und liehen sich einen Stimulus–Organismus–Response-Rahmen. Personalisierung und Interaktivität bewegten allein die wahrgenommene Nützlichkeit, während Intelligenz und inhaltliche Vollständigkeit allein die einfache Nutzung bewegten. Reaktionsfähigkeit bewegte beide; Anthropomorphismus bewegte keines. Das Modell erklärte R² = 0,244 der Absicht (SRMR = 0,033), mit einfacher Nutzung vor Nützlichkeit bei der Absicht (β = 0,340 gegenüber 0,265). Eine zehnfach kreuzvalidierte Netzwerkwichtigkeit stimmte zu und rangierte einfache Nutzung bei 100 % gegenüber 84,70 % für Nützlichkeit.
+
+Eine Necessary-Condition-Analyse trennte dann Einfluss von Anforderung. Einfache Nutzung, der am höchsten rangierte Prädiktor, scheiterte rundheraus (d = 0, p = 0,592). Nützlichkeit war notwendig, aber klein (d = 0,027, p = 0,011). Die Autoren lesen die Trennung als Warnung davor, einen Pfadkoeffizienten als Untergrenze zu behandeln. Ein starker Koeffizient sagt, dass eine Einheit einfacher Nutzung im Durchschnitt Absicht kauft; nur Notwendigkeit sagt, ob die andere Überzeugung fehlen kann.
 
 Die Verbindung von Risiko zu Nutzung hängt auch am System: Über die 49 TALIS-2024-Systeme, die die Items administrierten, war wahrgenommener KI-Nutzen in allen 49 positiv mit KI-Nutzung assoziiert, während wahrgenommenes Risiko in 40 negativ und in neun positiv assoziiert war ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
+
+**Leistungserwartung kann eine Beziehung tragen, die die Adoptionsforschung als Nutzungsabsicht liest.** In [[kim-overtrust-ai-literacy-2026|Kim, Kim und Zhang (2026)]] sagte Leistungserwartung KI-Übervertrauen bei B = 0,6107 voraus und war der erste Mediator, über den Selbstwirksamkeit, intrinsische Motivation und [[motivation|extrinsische Motivation]] Übervertrauen erreichten. Der indirekte Pfad allein über die Erwartung war für alle drei Prädiktoren positiv, 0,1355 (95 % KI [0,0542, 0,2330]) für Selbstwirksamkeit, sodass Erwartung nicht bloß vorhersagte, ob Studierende das Werkzeug nutzen würden.
 
 ## Verbreitete Fehlvorstellungen
 
@@ -143,3 +159,10 @@ Die Verbindung von Risiko zu Nutzung hängt auch am System: Über die 49 TALIS-2
 - [[capability-decision-model-teacher-readiness-2026]] — Geordnete Alternative zum Anschrauben von TPACK-Fähigkeit an Adoptionsmodelle der Theory of Planned Behavior
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Personenzentrierte TALIS-2024-Profile der wahrgenommenen KI-Nützlichkeit und des Risikos über 49 Systeme hinweg
 - [[genai-learning-procrastination-planned-behavior-2026]] — TPB-Erweiterung, die GenAI-gestützte Lernprokrastination misst und die Moderation des Absicht–Verzögerung-Zusammenhangs durch Angst
+
+- [[kim-overtrust-ai-literacy-2026]] — Leistungserwartung vermittelte den Pfad von Motivation und Selbstwirksamkeit zu KI-Übervertrauen
+- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — KI-Kompetenz als Mediator zwischen Selbstwirksamkeit und Akzeptanz, mit einer unbereinigten Angst-Assoziation (İşbulan et al. 2026)
+- [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM mit Task–Technology Fit verbunden, plus neuronale Netzwerk-Wichtigkeitsrangfolge und Necessary-Condition-Schwellen (Chu & Liu 2026)
+- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Designmerkmale stromaufwärts der TAM-Überzeugungen, und Wichtigkeit, die nicht Notwendigkeit ist
+- [[pinedo-genai-adoption-marketing-students-2026]] — Gewohnheit trägt UTAUT2 in einer bereits adoptierenden Population
+

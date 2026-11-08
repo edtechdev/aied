@@ -1,7 +1,7 @@
 ---
 title: Die Einordnung der KI-Nutzung für Studierende
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-10-24T20:10:02-04:00"
+updated: "2026-11-07T20:05:55-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,8 +11,8 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -28,7 +28,7 @@ ai_assist:
 ## Fragen zum Nachdenken
 
 - Die bloße Bereitstellung von KI für Studierende war mit ineffektiver oder sogar unethischer Nutzung assoziiert, während explizite Einordnung und Einbettung angemessener Nutzung die Ergebnisse verbesserte. Wenn die Anwesenheit des Werkzeugs weniger zählt als seine Einordnung, was sagt das über die Betonung, Studierenden einfach „KI zu geben"?
-- Die meisten Studierenden nutzen generative KI, viele sind unsicher, ob ihre Nutzung konform ist, und sie stützen sich auf privat zugängliche Werkzeuge statt auf institutionell bereitgestellte. Wenn das Wissen um die Regeln kaum ändert, was Studierende tun, was könnte dann überzeugen statt nur zu informieren?
+- Die meisten Studierenden nutzen [[generative-ai|generative KI]], wenige sind sich sicher, ob ihre eigene Nutzung konform ist, und sie bevorzugen Werkzeuge, auf die sie privat zugreifen, gegenüber institutionell bereitgestellten. Wenn das Wissen um die Regeln kaum ändert, was Studierende tun, was könnte dann überzeugen statt nur zu informieren?
 - Wenn Institutionen auf KI mit Angst und Verurteilung reagieren, verbergen oder rationalisieren Lernende ihre Nutzung möglicherweise, statt zu lernen, sie gut zu nutzen. Haben Sie schon einmal gesehen, wie eine Reaktion der „moral panic" Studierende in Heimlichkeit getrieben hat? Wie würde ein neu eingeordneter, gelegenheitsfokussierter Ansatz aussehen?
 - Angst vor KI ist nicht rein eine Barriere: Lernende, die sich über Richtigkeit und Plagiat sorgten, waren *wahrscheinlicher* dabei, KI-Ausgaben zu verifizieren und zu überarbeiten, statt sie unkritisch zu akzeptieren. Wie könnte produktive Angst in Bewertungskompetenz kanalisiert werden, statt unterdrückt zu werden?
 - Studierende konstruieren ihr eigenes Gefühl davon, was akzeptabel ist, über „Orte" — Absichten des Lehrkörpers, Kursdokumente, Peer-Normen und institutionelle Botschaften —, die oft auseinandergehen. Wenn diese Botschaften sich widersprechen, welche gewinnt Ihrer Meinung nach tatsächlich, und wie schließt Einordnung diese Lücke?
@@ -41,7 +41,7 @@ Das Konzept liegt zwischen zwei vertrauteren. Wo das [[technology-acceptance-mod
 
 Einordnung ist wichtig, weil **Richtlinien und Regeln Verhalten nicht verlässlich von selbst verändern**. Befragungs-[[research-methods-aied|Forschung]] zum Bewusstsein für [[regulation|Regulierung]] findet, dass das Wissen der Studierenden über institutionelle GenAI-Regeln nur schwache bis mäßige Assoziationen mit dem zeigt, was sie tatsächlich tun ([[student-regulatory-awareness-genai]]). Die Regeln zu kennen ist notwendig, aber nicht hinreichend; die Botschaft muss *überzeugen*, nicht nur informieren.
 
-Unterschiedliche Einordnung kann auch innerhalb einer einzigen Richtlinie entstehen statt nur zwischen Orten: Eine Stimmungsanalyse von 36 Hochschulrichtlinien fand, dass Lehrstatement positiv gerahmt waren, während GenAI- und Ethik-Statements negativ gerahmt waren, sodass Studierende in einem Dokument Ermutigung und Zurückhaltung trafen ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
+Unterschiedliche Einordnung kann auch innerhalb einer einzigen Richtlinie entstehen statt nur zwischen Orten: Eine [[affective-computing|Stimmungsanalyse]] von 36 Hochschulrichtlinien fand, dass Lehrstatement positiv gerahmt waren, während GenAI- und Ethik-Statements negativ gerahmt waren, sodass Studierende in einem Dokument Ermutigung und Zurückhaltung trafen ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 Der Rahmen formt auch, ob Studierende KI als **Bedrohung, die zu meiden oder zu umgehen ist**, gegenüber einer **Ressource, die absichtsvoll zu nutzen ist**, erleben. Wenn Institutionen auf KI mit Angst und Verurteilung reagieren — was eine Arbeitsrichtung eine wiederkehrende „moral panic" nennt —, treiben sie Studierende dazu, ihre Nutzung zu verbergen oder zu rationalisieren, statt zu lernen, sie gut zu nutzen.([[moral-panic-genai-classroom]]) Angst und Verurteilung in strukturierte Gelegenheit umzurahmen verändert die gesamte Dynamik des [[student-engagement|Engagements der Studierenden]] mit KI.
 
@@ -61,7 +61,7 @@ Der direkteste Einordnungshebel in der Wissensbasis ist, den *Grund* für eine G
 
 ### Angst und Unsicherheit in Bewertungskompetenz umrahmen
 
-Eine [[mixed-methods-research|Mixed-Methods]]-Studie zum akademischen [[writing-education|Schreiben]] fand, dass KI-Angst nicht einfach eine Barriere ist: Lernende, die sich über Richtigkeit und Plagiat sorgten, verifizierten, kreuzprüften und überarbeiteten KI-Ausgaben *wahrscheinlicher*, statt sie unkritisch zu akzeptieren. Die Studie rahmt [[ai-literacy|KI-Kompetenz]] weniger als Akzeptanz und mehr als **regulatorische Kompetenz** — die Fähigkeit, Ausgaben infrage zu stellen, selektiv zu überarbeiten und Autorschaftsverantwortung zu behalten.([[ai-anxiety-strategic-regulation-writing-2026]]) Die Einordnung der KI-Nutzung für Studierende bedeutet, produktive Angst zur Evaluation hin zu kanalisieren, nicht sie zu unterdrücken.
+Eine [[mixed-methods-research|Mixed-Methods]]-Studie zum akademischen [[writing-education|Schreiben]] fand, dass [[anxiety-and-stress|KI-Angst]] nicht einfach eine Barriere ist: Lernende, die sich über Richtigkeit und Plagiat sorgten, verifizierten, kreuzprüften und überarbeiteten KI-Ausgaben *wahrscheinlicher*, statt sie unkritisch zu akzeptieren. Die Studie rahmt [[ai-literacy|KI-Kompetenz]] weniger als Akzeptanz und mehr als **regulatorische Kompetenz** — die Fähigkeit, Ausgaben infrage zu stellen, selektiv zu überarbeiten und Autorschaftsverantwortung zu behalten.([[ai-anxiety-strategic-regulation-writing-2026]]) Die Einordnung der KI-Nutzung für Studierende bedeutet, produktive Angst zur Evaluation hin zu kanalisieren, nicht sie zu unterdrücken.
 
 ### Gezielte Botschaften nutzen, um spezifische Verhaltensweisen zu formen
 

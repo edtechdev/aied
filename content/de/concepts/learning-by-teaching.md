@@ -1,7 +1,7 @@
 ---
 title: Lernen durch Lehren
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,8 +9,8 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-25T22:50:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -72,7 +72,7 @@ Zwei weitere Erschwinglichkeiten (affordances) kehren über die Wissensdatenbank
 - **Fragen identifizieren Wissenslücken.** LbT-Systeme nutzen von Lernenden generierte Fragen, um Lücken offenzulegen und Verständnis zu verstärken, und [[teaching-ai-vocabulary-lbt-llms-2026|LLM-generierte Fragen]] ersetzen starre vorlagenbasierte Generatoren.
 - **Teach-back legt offen, was Klärung verpasst.** In einem Review-System nach der Vorlesung mit 22 Teilnehmenden legte das reflektierende Teach-back eines Peer-Agenten konsistent Lücken offen zwischen dem, was Lernende zu verstehen glaubten, und dem, was sie artikulieren konnten, die vorlesungsbegründete Klärung allein nicht offenbart hatte ([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).
 - **LbT-[[scaffolding|Gerüste]] stützen Selbst-[[regulation]].** Das Lehren eines [[conversational-ai|Konversationsagenten]] fördert [[self-efficacy|Selbstwirksamkeit]] und die Umsetzung selbstregulierter Lernstrategien und verbindet LbT mit [[desirable-difficulties]] —, die anstrengende Tat des Erklärens und Korrigierens ist selbst produktives Ringen, das die Reibungsbeseitigung der KI sonst tilgen würde.
-- **Was Tutor-Lernen vorhersagt, ist Wissensaufbau, nicht Vorwissen.** Über 23 Mittelstufen-Tutorinnen und Tutoren sagte der Anteil der Antworten, die Wissen aufbauten statt es zu wiederholen, konzeptuelle Post-Test-Werte voraus (β = .138, p < 0.05), während frühere Testwerte nicht vorhersagten, wer sie produzierte, und Tutorinnen und Tutoren mit geringem Vorwissen, die Wissen aufbauten, auf gleichem Niveau wie Peers mit hohem Vorwissen abschlossen ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
+- **Was Tutor-Lernen vorhersagt, ist Wissensaufbau, nicht [[prior-knowledge|Vorwissen]].** Über 23 Mittelstufen-Tutorinnen und Tutoren sagte der Anteil der Antworten, die Wissen aufbauten statt es zu wiederholen, konzeptuelle Post-Test-Werte voraus (β = .138, p < 0.05), während frühere Testwerte nicht vorhersagten, wer sie produzierte, und Tutorinnen und Tutoren mit geringem Vorwissen, die Wissen aufbauten, auf gleichem Niveau wie Peers mit hohem Vorwissen abschlossen ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 
 ## Warum es in der KI-Bildung zählt
 

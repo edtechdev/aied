@@ -1,7 +1,7 @@
 ---
 title: Neurodiversität
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,8 +9,8 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-10-26T09:10:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-06T09:20:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -48,7 +48,9 @@ Zwei Reviews bestimmen die Form des Feldes, und beide beschreiben Fragmentierung
 
 Ein [[assistive-tech-neurodivergent-higher-ed-review-2026|PRISMA-ScR-Scoping-Review (Rempel et al., 2026)]] durchsuchte fünf Datenbanken und ein Jahrzehnt der Publikation (2015–2025) und screente 766 Datensätze auf 40 empirische Studien zu digitalen assistiven Technologien für neurodivergente Studierende in der [[higher-ed|Hochschulbildung]] herunter. Das Feld hat sich um [[generative-ai|generative KI]] reorganisiert – 15 der 40 Studien –, mit immersiven Formaten an zweiter Stelle bei 11. Seine zentrale Kritik ist eine Designkritik: Individuelle Anpassung und neurotypspezifische Werkzeuge, die um formale Diagnose organisiert sind, können funktionale Unterschiede nicht adressieren, die über Neurotypen hinweggehen, daher empfiehlt er universelles Design und partizipative Entwicklung. Er hält auch fest, dass die immersivsten Werkzeuge die am wenigsten skalierbaren sind.
 
-Der [[dabaghi-ai-dyslexia-education-review-2026|interdisziplinäre Review zu KI bei Legasthenie (Dabaghi, D'Urso und Sciarrone, 2026)]] deckt 2018–2024 über 72 Studien hinweg ab und findet KI eingesetzt für Erkennung, assistive Unterstützung und [[personalized-learning|Personalisierung]], wobei diese Stränge sich parallel statt integriert entwickeln, und das Feld mehr von technologischer Gelegenheit getrieben wird als von konsolidierter Bildungstheorie. Seine Erkennungsforschung (EEG, Eyetracking, [[machine-learning|Machine-Learning]]-Modelle) zeigt diagnostisches Potenzial für frühe Intervention, braucht aber oft Spezialausstattung und kontrollierte Bedingungen, was den Einsatz in gewöhnlichen Klassenzimmern einschränkt. Das ist der praktische Test, an dem dieser ganze Strang dauerhaft scheitert: Unterstützung muss in den Kurs eingebettet sein, den ein Studierender tatsächlich belegt.
+- **Grundschulklassenzimmer zeigen dieselbe Konzentration.** Ein Scoping-Review zu EdTech für neuro-inklusive Grundschulklassenzimmer (3.340 gescreente Datensätze, 93 Studien) fand Evidenz konzentriert auf autistische Lernende und individualisierte akademische und kognitive Unterstützung, während soziale, kommunikative und Peer-Interaktions-Ergebnisse vernachlässigt wurden und der Bildungswert vor allem von Forschenden statt von Nutzenden im Klassenzimmer validiert wurde ([[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola & Goodacre (2026)]]).
+
+Der [[dabaghi-ai-dyslexia-education-review-2026|interdisziplinäre Review zu KI bei Legasthenie (Dabaghi, D'Urso und Sciarrone, 2026)]] deckt 2018–2024 über 72 Studien hinweg ab und findet KI eingesetzt für Erkennung, assistive Unterstützung und [[personalized-learning|Personalisierung]], wobei diese Stränge sich parallel statt integriert entwickeln, und das Feld mehr von technologischer Gelegenheit getrieben wird als von konsolidierter Bildungstheorie. Seine Erkennungsforschung ([[sensor-and-gaze-analytics|EEG]], Eyetracking, [[machine-learning|Machine-Learning]]-Modelle) zeigt diagnostisches Potenzial für frühe Intervention, braucht aber oft Spezialausstattung und kontrollierte Bedingungen, was den Einsatz in gewöhnlichen Klassenzimmern einschränkt. Das ist der praktische Test, an dem dieser ganze Strang dauerhaft scheitert: Unterstützung muss in den Kurs eingebettet sein, den ein Studierender tatsächlich belegt.
 
 ## Autismus und ADHS im Klassenzimmer
 
@@ -64,11 +66,11 @@ Die Risikoseite hat ihre eigene Literatur. [[seung-basham-cognitive-offloading-s
 
 ## Exekutive Funktionen und Abhängigkeit
 
-[[genai-reliance-executive-functioning-2026|Klarin, Hoff und Daukantaitė (2026)]] definieren Abhängigkeit eng – generative KI der eigenen Anstrengung oder der Lehrendenunterstützung vorzuziehen, plus Schwierigkeit, Schularbeit ohne sie zu beginnen – und testen sie in zwei schwedischen Gemeinschaftsstichproben von Jugendlichen (849 Schülerinnen und Schüler der unteren Sekundarstufe, analytisches n = 735, und 898 der oberen Sekundarstufe, analytisches n = 839). Schwierigkeiten mit exekutiven Funktionen liefen über wahrgenommene Nützlichkeit und gewohnheitsmäßige Nutzung zu Abhängigkeit in beiden Stichproben, mit kleinen indirekten Effekten (β = 0,10, 95%-KI [0,06, 0,14] in der unteren Sekundarstichprobe; β = 0,08, 95%-KI [0,04, 0,12] in der oberen Sekundarstichprobe). Die praktische Lesart: Die Studierenden, die am meisten Unterstützung beim Anfangen brauchen, sind die, für die ein bequemes Werkzeug am leichtesten zur Standardroute statt zu einer Option wird –, und die Effektstärken hier sind klein genug, dass dies ein Designanliegen ist, keine Diagnose.
+[[genai-reliance-executive-functioning-2026|Klarin, Hoff und Daukantaitė (2026)]] definieren Abhängigkeit eng – generative KI der eigenen Anstrengung oder der Unterstützung durch [[teacher-role|Lehrende]] vorzuziehen, plus Schwierigkeit, Schularbeit ohne sie zu beginnen – und testen sie in zwei schwedischen Gemeinschaftsstichproben von Jugendlichen (849 Schülerinnen und Schüler der unteren Sekundarstufe, analytisches n = 735, und 898 der oberen Sekundarstufe, analytisches n = 839). Schwierigkeiten mit exekutiven Funktionen liefen über [[technology-acceptance-model|wahrgenommene Nützlichkeit]] und gewohnheitsmäßige Nutzung zu Abhängigkeit in beiden Stichproben, mit kleinen indirekten Effekten (β = 0,10, 95%-KI [0,06, 0,14] in der unteren Sekundarstichprobe; β = 0,08, 95%-KI [0,04, 0,12] in der oberen Sekundarstichprobe). Die praktische Lesart: Die Studierenden, die am meisten Unterstützung beim Anfangen brauchen, sind die, für die ein bequemes Werkzeug am leichtesten zur Standardroute statt zu einer Option wird –, und die Effektstärken hier sind klein genug, dass dies ein Designanliegen ist, keine Diagnose.
 
 ## Designwarnungen
 
-- **Diagnoseabhängige Unterstützung schließt die Lernenden aus, die sie nicht benennt.** Die Kritik des Scoping-Reviews gilt direkt dafür, wie KI-Merkmale eingesetzt werden: Wenn ein Merkmal durch ein Anpassungsschreiben freigeschaltet wird, sehen Lernende mit funktionalen Unterschieden, aber ohne Diagnose es nie.
+- **Diagnoseabhängige Unterstützung schließt die Lernenden aus, die sie nicht benennt.** Die Kritik des [[meta-analysis-systematic-review|Scoping-Reviews]] gilt direkt dafür, wie KI-Merkmale eingesetzt werden: Wenn ein Merkmal durch ein Anpassungsschreiben freigeschaltet wird, sehen Lernende mit funktionalen Unterschieden, aber ohne Diagnose es nie.
 - **Detektorgetriebene Prozesse können legitime Anpassungsnutzung abschrecken.** Wo eine Sprachtechnologie als wirksame Anpassung für eine neurodivergente lernende Person funktioniert, werfen ein pauschales Verbot oder ein detektorgetriebener Prozess, der ihre legitime Nutzung abschreckt, Gleichstellungsfragen auf – der annullierte Fehlverhaltensfall, den die [[ai-detection|Detektions]]-Literatur dokumentiert, betraf eine Studierende in einem Unterstützungsprogramm für Menschen im Autismus-Spektrum ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 - **Werkzeuge können epistemisch ausschließen, nicht nur schlecht.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] argumentiert, anglophone, westlich-zentrierte Trainingsdaten marginalisierten nicht-hegemoniale Weisen des Wissens, und stelle die Situation behinderter Lernender in das Zentrum jener Kritik –, eine Warnung, dass „inklusive“ KI dennoch kodieren kann, wessen Wissen zählt.
 - **Verhaltenssignale werden von Systemen gelesen, die den Lernenden nicht kennen.** Die Interpretation von [[student-engagement|Engagement]], Kampf oder Aufmerksamkeit in [[learning-analytics|Learning Analytics]] und [[student-modeling|Modellierung von Studierenden]] setzt ein normatives Antwortmuster voraus; siehe [[differential-effects-across-learner-groups|Unterschiedliche Effekte zwischen Gruppen von Lernenden]] für die Fairnessevidenz zu jener Annahme.
@@ -87,7 +89,7 @@ Neurodiversität verbindet sich mit [[special-education|Sonderpädagogik]], [[in
 
 ## Verbreitete Fehlvorstellungen
 
-- **„Forschung zu Neurodiversität ist eine Nische in der AIED.“** Das Feld hat sich **um [[generative-ai|generative KI]] neu organisiert — 15 der 40 Studien** —, mit immersiven Formaten an zweiter Stelle (11). Die Literatur bewegte sich mit der Technologie, statt sich um stabile Fragen zu sammeln.
+- **„Forschung zu Neurodiversität ist eine Nische in der [[ai-education|AIED]].“** Das Feld hat sich **um [[generative-ai|generative KI]] neu organisiert — 15 der 40 Studien** —, mit immersiven Formaten an zweiter Stelle (11). Die Literatur bewegte sich mit der Technologie, statt sich um stabile Fragen zu sammeln.
 - **„Mehr KI bei Legasthenie bedeutet bessere Unterstützung.“** [[dabaghi-ai-dyslexia-education-review-2026|Der interdisziplinäre Review zu KI bei Legasthenie (Dabaghi, D'Urso und Sciarrone, 2026)]] umfasst **72 Studien aus 2018–2024** und findet KI über eine breite Spanne von Zwecken eingesetzt. Breite der Anwendung ist kein Beleg für Wirksamkeit in einem dieser Zwecke.
 - **„Anpassungen sind der richtige Rahmen für neurodivergente Lernende.“** [[neurodivergent-computing-students|Eine Befragung von 24 neurodivergenten Informatikstudierenden und 20 neurotypischen Peers]] mit vier Tiefeninterviews fand Bedürfnisse, die **allgemeine Designanforderungen** sind — strukturierte Aufgaben, kleine konsistente Teams, explizite Rollen —, statt individueller Anpassungen, die nach einer Diagnose gewährt werden.
 
@@ -105,6 +107,7 @@ Neurodiversität verbindet sich mit [[special-education|Sonderpädagogik]], [[in
 - [[student-modeling]]
 
 ## Verbundene Artikel
+- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Reframing Educational Value in EdTech for Neuro-Inclusive Primary School Classrooms: A Scoping Review
 
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative KI, Virtual Reality und darüber hinaus: ein Scoping-Review digitaler assistiver Technologien für neurodivergente Studierende in der Hochschulbildung
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 Studien zu KI für Studierende mit Behinderung, und ein Effekt, der nach Kategorie differiert

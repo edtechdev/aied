@@ -1,7 +1,7 @@
 ---
 title: "Bibliothekarinnen"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -13,7 +13,7 @@ level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/librarians
 source_updated: "2026-10-25T20:50:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -39,7 +39,7 @@ ai_assist:
 
 ## Einführung
 
-Bibliothekarinnen sind die Fachkräfte, die zwischen der Frage einer Lernenden und dem wissenschaftlichen Bestand sitzen: Referenz- und Verbindungsbibliothekarinnen, Fachspezialistinnen, lehrende Bibliothekarinnen, die Informationskompetenz-Unterricht durchführen, und das Personal, das Bestände und Repositorien verwaltet. In der [[ai-education|KI-Bildung]] werden sie weit seltener benannt als [[teacher-role|Lehrkräfte]] und [[administrator|Verwaltung]], doch gibt das Korpus ihnen eine spezifische, prüfbare Rolle. Sie sind die menschliche Antwort auf das Glaubwürdigkeitsproblem, das [[generative-ai]] erzeugt, die Instruierenden, die [[evaluative-judgment]] und Suchstrategie lehren statt bloß Quellen zu liefern, und — im stärksten Fall der Wissensbasis — eine gestaltete Komponente eines KI-Systems statt ein Dienst daneben.
+Bibliothekarinnen sind die Fachkräfte, die zwischen der Frage einer Lernenden und dem wissenschaftlichen Bestand sitzen: Referenz- und Verbindungsbibliothekarinnen, Fachspezialistinnen, lehrende Bibliothekarinnen, die Informationskompetenz-Unterricht durchführen, und das Personal, das Bestände und Repositorien verwaltet. In der [[ai-education|KI-Bildung]] werden sie weit seltener benannt als [[teacher-role|Lehrkräfte]] und [[administrator|Verwaltung]], doch gibt das Korpus ihnen eine spezifische, prüfbare Rolle. Sie sind die menschliche Antwort auf das Glaubwürdigkeitsproblem, das [[generative-ai]] erzeugt, die Instruierenden, die [[information-and-media-literacy|Informationskompetenz]] sowie [[evaluative-judgment]] und Suchstrategie lehren statt bloß Quellen zu liefern, und — im stärksten Fall der Wissensbasis — eine gestaltete Komponente eines KI-Systems statt ein Dienst daneben.
 
 Diese Seite behandelt die Rolle als unterscheidbar von ihren Nachbarn. [[educational-technology-developers]] bauen die Abruf- und Empfehlungssysteme; Bibliothekarinnen entscheiden, was diesen Systemen nicht zu schlussfolgern zugetraut werden sollte. [[academic-integrity]] rahmt KI-Nutzung als Autorschaft und Offenlegung; die Rahmung der Bibliothekarin — Zuschreibung, Herkunft, Zugang — ist benachbart, aber konkreter.
 
@@ -82,6 +82,10 @@ Zwei weitere Stränge setzen die Grenzen der Rolle. [[pearls-epistemic-verificat
 ## Verbundene Konzepte
 
 - [[ai-literacy]]
+
+- [[information-and-media-literacy]]
+- [[libraries]]
+
 - [[evaluative-judgment]]
 - [[critical-thinking]]
 - [[academic-integrity]]

@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: Edtech-Plattform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -12,8 +12,8 @@ ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/edtech-platform
-source_updated: "2026-10-25T17:00:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T16:51:25-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -28,7 +28,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **Edtech-Plattform** — die digitalen Systeme, Lernmanagementsysteme (LMS), Tutorsysteme und Online-Lernumgebungen, über die KI an Lernende und Lehrende geliefert wird. In der KI-Bildung ist die Plattform die *Infrastrukturschicht*, die bestimmt, ob eine KI-Fähigkeit die Studierenden erreicht, wie sie eingesetzt wird (offen vs. proprietär, integriert vs. eigenständig) und wer auf sie zugreifen, sie anpassen und evaluieren kann. Forschung in dieser Wissensdatenbank untersucht Plattformen aus mehreren Blickwinkeln: ihre Gestaltung, ihre Annahme- und Engagement-Restriktionen, ihre institutionelle Steuerung und ihre Gerechtigkeitsimplikationen.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
+> **Edtech-Plattform** — die digitalen Systeme, Lernmanagementsysteme (LMS), Tutorsysteme und [[online-teaching-and-learning|Online-Lernumgebungen]], über die KI an Lernende und Lehrende geliefert wird. In der [[ai-education|KI-Bildung]] ist die Plattform die *Infrastrukturschicht*, die bestimmt, ob eine KI-Fähigkeit die Studierenden erreicht, wie sie eingesetzt wird (offen vs. proprietär, integriert vs. eigenständig) und wer auf sie zugreifen, sie anpassen und evaluieren kann. Forschung in dieser Wissensdatenbank untersucht Plattformen aus mehreren Blickwinkeln: ihre Gestaltung, ihre Annahme- und Engagement-Restriktionen, ihre institutionelle Steuerung und ihre Gerechtigkeitsimplikationen.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
 
 ## Fragen zum Nachdenken
 
@@ -36,7 +36,7 @@ ai_assist:
 - Eine Studie fand, dass nahezu die Hälfte der Studierenden eine gut gestaltete KI-Tutoring-Plattform nie nutzte, und dass Vielnutzende eher zu den leistungsstärkeren Studierenden gehörten. Wenn ein Werkzeug „im Prinzip“ wirksam ist, die Studierenden es aber nicht nutzen, ist dann die Fähigkeit oder die Plattform das eigentliche Problem? Was würde das für Ihre Evaluation von Edtech bedeuten?
 - Proprietäre KI-Plattformen können Forschende auf eine Handvoll geschlossener Systeme beschränken, während offene Plattformen wie OATutor jedem erlauben, abzuzweigen (fork), zu experimentieren und zu veröffentlichen. Was könnte verloren gehen — für Forschung, Gerechtigkeit und institutionelle Autonomie —, wenn KI-Bildung über geschlossene, intransparente Plattformen geliefert wird?
 - Wie sehr prägt das Geschäftsmodell einer Plattform — wer zahlt, wem die Daten gehören, was optimiert wird — das Lernen, das tatsächlich auf ihr stattfindet? Wo würden Sie nachsehen, um diesen Einfluss zu sehen?
-- Einige neue „KI-native“ Plattformen ersetzen das MOOC-Modell „ein Video für viele Studierende“ durch ein Multi-Agenten-Klassenzimmer, das um jede lernende Person herum gebaut ist. Was würden Sie, bevor Sie weiterlesen, fürchten zu verlieren, wenn Unterricht eins-zu-eins mit Agenten wird statt eins-zu-viele mit Lehrenden?
+- Einige neue „KI-native“ Plattformen ersetzen das MOOC-Modell „ein Video für viele Studierende“ durch ein [[agentic-ai|Multi-Agenten]]-Klassenzimmer, das um jede lernende Person herum gebaut ist. Was würden Sie, bevor Sie weiterlesen, fürchten zu verlieren, wenn Unterricht eins-zu-eins mit Agenten wird statt eins-zu-viele mit Lehrenden?
 
 ## Einleitung
 
@@ -66,7 +66,7 @@ Die bindende Restriktion ist, wo die KI innerhalb der Plattform sitzt: In einem 
 
 ### Welche Werkzeuge Lehrende nutzen und was den Zugang beschränkt
 
-Eine seltene Erhebung der von Lehrenden berichteten Plattformwahl stammt aus einer Typologie von 2026, aufgebaut aus 211 Lehrenden über neun Länder: Die Werkzeuge, die Klassenzimmer erreichen, sind überproportional diejenigen mit einer kostenlosen Stufe, weil eine öffentlich verfügbare kostenlose Version ein Einschlusskriterium war, und die am häufigsten genannten Einträge sind allgemeine Assistenten und Mediengeneratoren statt zweckgebauter Plattformen. Etwa die Hälfte der fünfzig gelisteten Werkzeuge erzeugt Bilder, Audio, Video oder Präsentationsdecks, während dokumentengestützte Assistenten (NotebookLM, Elicit, SciSpace, Humata, Research Rabbit) den kohärentesten Cluster in der Forschungskategorie bilden. Dedizierte [[intelligent-tutoring|Tutoring]]systeme erscheinen als kleine, fachspezifische Gruppe statt als Zentrum der berichteten Nutzung —, was das obige Annahmeproblem in einem weiteren Rahmen verortet, in dem eine Plattform mit allgemeinen Werkzeugen um Aufmerksamkeit konkurriert, die Studierende und Lehrende bereits offen haben.([[typology-generative-ai-tools-education-2026]])
+Eine seltene Erhebung der von Lehrenden berichteten Plattformwahl stammt aus einer Typologie von 2026, aufgebaut aus 211 Lehrenden über neun Länder: Die Werkzeuge, die Klassenzimmer erreichen, sind überproportional diejenigen mit einer kostenlosen Stufe, weil eine öffentlich verfügbare kostenlose Version ein Einschlusskriterium war, und die am häufigsten genannten Einträge sind allgemeine Assistenten und Mediengeneratoren statt zweckgebauter Plattformen. Etwa die Hälfte der fünfzig gelisteten Werkzeuge erzeugt Bilder, Audio, Video oder Präsentationsdecks, während dokumentengestützte Assistenten (NotebookLM, Elicit, SciSpace, Humata, Research Rabbit) den kohärentesten Cluster in der Forschungskategorie bilden. Dedizierte [[intelligent-tutoring|Tutoring]]systeme erscheinen als kleine, [[discipline-specific-aied|fachspezifische]] Gruppe statt als Zentrum der berichteten Nutzung —, was das obige Annahmeproblem in einem weiteren Rahmen verortet, in dem eine Plattform mit allgemeinen Werkzeugen um Aufmerksamkeit konkurriert, die Studierende und Lehrende bereits offen haben.([[typology-generative-ai-tools-education-2026]])
 
 ### Das Plattformmodell ist entscheidend: offen vs. proprietär
 
@@ -79,11 +79,15 @@ Eine seltene Erhebung der von Lehrenden berichteten Plattformwahl stammt aus ein
 
 ### KI-native Plattformen gestalten Online-Bildung neu
 
-Das Plattformparadigma selbst entwickelt sich. **MAIC** (Massive AI-empowered Course) ersetzt das MOOC-Modell „ein Video für N Studierende“ durch ein LLM-getriebenes Multi-Agenten-Klassenzimmer — „N Agenten für 1 Studierende Person“ — unter Nutzung spezialisierter Teacher-, Assistant-, Classmate- und Analyzer-Agenten, um personalisiertes, adaptives Lernen in großem Maßstab zu liefern, und senkt die Kursproduktion von ~\\$25K/60 Stunden auf unter \\$2/30 Minuten.([[mooc-to-maic]]) Ebenso schlagen KI-integrierte LMS-Gestaltungen vor, über reine Workflow-Plattformen hinauszugehen hin zu Echtzeit-Unterrichtsunterstützung mit richtlinienbegrenzter (bounded) KI, formativem Andeuten, verteilter Wiederholung und Lehrkraft-Dashboards.([[ai-lms-middle-school-longitudinal]]) Am anderen Ende des Einsatzspektrums muss klassenraumeingebettete KI ihre Machbarkeit in lebendigen physischen Umgebungen beweisen. Der Community Builder ([[breideband-community-builder-cobi-2026|CoBi]]) — eine klassenraumweite Plattform, die Spracherkennung und Sprachverständnis nutzt, um kollaborativen Diskurs in Kleingruppen zu visualisieren — wurde erfolgreich über laute Mittelstufenklassenzimmer hinweg eingesetzt, mit handelsüblichen Mikrofonen und einer skalierbaren Cloud-Pipeline, was zeigt, dass Echtzeit-Sprach-KI-Infrastruktur in authentischen K-12-Umgebungen funktionieren kann, auch wenn Schnittstellen-Fehlanpassungen (Lehrkraft- vs. Studierendensicht darauf, ob Feedback Gruppen- oder Klassenebene betraf) Einsatzreibung erzeugten.
+Das Plattformparadigma selbst entwickelt sich. **MAIC** (Massive AI-empowered Course) ersetzt das MOOC-Modell „ein Video für N Studierende“ durch ein [[llm|LLM]]-getriebenes Multi-Agenten-Klassenzimmer — „N Agenten für 1 Studierende Person“ — unter Nutzung spezialisierter [[teacher-role|Teacher]]-, Assistant-, Classmate- und Analyzer-Agenten, um personalisiertes, adaptives Lernen in großem Maßstab zu liefern, und senkt die Kursproduktion von ~\\$25K/60 Stunden auf unter \\$2/30 Minuten.([[mooc-to-maic]]) Ebenso schlagen KI-integrierte LMS-Gestaltungen vor, über reine Workflow-Plattformen hinauszugehen hin zu Echtzeit-Unterrichtsunterstützung mit richtlinienbegrenzter (bounded) KI, formativem Andeuten, verteilter Wiederholung und Lehrkraft-[[visualization|Dashboards]].([[ai-lms-middle-school-longitudinal]]) Am anderen Ende des Einsatzspektrums muss klassenraumeingebettete KI ihre Machbarkeit in lebendigen physischen Umgebungen beweisen. Der Community Builder ([[breideband-community-builder-cobi-2026|CoBi]]) — eine klassenraumweite Plattform, die [[speech-and-voice-technologies|Spracherkennung]] und Sprachverständnis nutzt, um kollaborativen Diskurs in Kleingruppen zu visualisieren — wurde erfolgreich über laute Mittelstufenklassenzimmer hinweg eingesetzt, mit handelsüblichen Mikrofonen und einer skalierbaren Cloud-Pipeline, was zeigt, dass Echtzeit-Sprach-KI-Infrastruktur in authentischen [[k-12|K-12]]-Umgebungen funktionieren kann, auch wenn Schnittstellen-Fehlanpassungen (Lehrkraft- vs. Studierendensicht darauf, ob Feedback Gruppen- oder Klassenebene betraf) Einsatzreibung erzeugten.
 
 ### Interessenbasierte und kontextbewusste Plattformfunktionen
 
 Plattformen können über Leistungsdaten hinaus personalisieren. **Taklif.AI** ist eine LLM-gestützte Plattform, die Hochschulaufgaben auf Basis der **außerunterrichtlichen Interessen und kulturellen Kontexte** der Studierenden erzeugt, ausgerichtet an [[culturally-relevant-pedagogy]], und weg von Einheitsaufgaben hin zu interessengetriebenem Engagement.([[taklif-ai-interest-based-personalized-assignments]])
+
+### Zweckgebaute Schichten über allgemeinen Modellen
+
+Der Beitrag der Plattform ist oft die Struktur, die einem allgemeinen Modell fehlt. [[learnmate2-llm-adaptive-learning|LearnMate^2]] bettet ein LLM in Studienplanung, kontextuelle Hilfe und leistungsreaktive Aktivitäten ein und schlug in einem Vergleich mit 16 Teilnehmenden Khan Academy in Kombination mit Gemini 2.5 Pro bei beiden Quizzen (M = 13,375 gegenüber 10,875, p = .0126; 7,875 gegenüber 5,875, p = .0012). [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] übersetzt natürlichsprachliche Anweisungen in CoppeliaSim-Roboterverhalten für Anfängerinnen und Anfänger und gelang bei 100 % der einfachen, aber 88,9 % der komplexen Aufgaben über 108 Fälle.
 
 ## Implikationen für Gestaltung und Forschung
 
@@ -102,7 +106,7 @@ Datenschutz kann in die Pipeline statt in die Richtlinie eingebaut werden: Ein K
 
 **„Annahme wird an Logins gemessen."** Die informative Lücke liegt auf Nachrichtenebene, nicht auf Kontoebene. In demselben Versuch trugen nur **~14,5% der Nachrichten eine echte mathematische Frage**. Sechsundneunzig Prozent der Studierenden erzeugten das Zugriffsereignis; etwa eine von sieben ihrer Interaktionen leistete die intellektuelle Arbeit. Eine Login-Zahl zu berichten hätte hier einen Erfolg beschrieben, den es nicht gab.
 
-**„Offen versus proprietär ist ein Lizenzdetail ohne Folgen für die Ergebnisse."** Das Plattformmodell prägt, was Institutionen mit dem System tun können: [[open-source|offene]] Plattformen wie OATutor — ein MIT-lizenzierter adaptiver Tutor mit einer Creative-Commons-Algebra-Inhaltsbibliothek, [[knowledge-tracing|Knowledge-Tracing]]-Meisterschaftsschätzung und eingebautem A/B-Testing — lassen ein Fach seine eigene Pädagogik instrumentieren und verändern, was eine geschlossene Plattform nicht kann. Die Lizenz bestimmt, wer das Experiment durchführen darf.
+**„Offen versus proprietär ist ein Lizenzdetail ohne Folgen für die Ergebnisse."** Das Plattformmodell prägt, was Institutionen mit dem System tun können: [[open-source|offene]] Plattformen wie OATutor — ein MIT-lizenzierter adaptiver Tutor mit einer Creative-Commons-Algebra-Inhaltsbibliothek, [[knowledge-tracing|Knowledge-Tracing]]-Meisterschaftsschätzung und eingebautem A/B-Testing — lassen ein Fach seine eigene [[pedagogy|Pädagogik]] instrumentieren und verändern, was eine geschlossene Plattform nicht kann. Die Lizenz bestimmt, wer das Experiment durchführen darf.
 
 **„Eine Plattform, die an einer Institution funktioniert, funktioniert auch wie übernommen."** Plattformeffekte laufen durch lokale Governance: Datenschutz-zuerst-Architektur, Datenminimierung, prüfbare Protokolle und rollenbasierter Zugang sind das, was eine KI-integrierte Plattform überhaupt einsetzbar macht, und sie sind institutionelle Entscheidungen statt Merkmale, die sich aus einer Anbieterdemonstration ableiten lassen.
 

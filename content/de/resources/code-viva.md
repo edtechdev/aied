@@ -1,7 +1,7 @@
 ---
 title: "Code Viva"
 created: "2026-10-24T05:33:18-04:00"
-updated: "2026-10-30T12:00:00-04:00"
+updated: "2026-11-07T20:06:11-05:00"
 type: resource
 summary: "Ein kostenloses Browser-Werkzeug, das für jede studierende Person in einem Programmierkurs eine schriftliche, zeitlich begrenzte Fassung einer mündlichen Code-Verteidigung durchführt und Bewertungen mit zitierten Belegen zur Freigabe durch die Lehrkraft vorschlägt."
 url: https://code-viva.netlify.app/
@@ -16,8 +16,8 @@ discipline: [cs education]
 audience: [instructors]
 level: [higher ed]
 translation_of: resources/code-viva
-source_updated: "2026-10-24T08:37:08-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T17:55:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

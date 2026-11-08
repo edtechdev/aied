@@ -1,7 +1,7 @@
 ---
 title: Soziale Normen der KI-Nutzung
 created: "2026-09-23T09:54:12-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -13,8 +13,8 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-10-26T00:30:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -29,7 +29,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **Soziale Normen der KI-Nutzung** — die informellen, lokal durchgesetzten Regeln, die entscheiden, wann Lernende und Lehrende generative KI nutzen dürfen, wie offen sie dazu stehen können, und was in der Praxis statt in der Politik als [[academic-integrity|Schummeln]] gilt. Der Korpus ist dünn zu Normen als Thema und dick zu den Mechanismen, die sie produzieren. Lernende können die KI-Nutzung der jeweils anderen nicht verlässlich inferieren: die mediane Korrelation zwischen den Schätzungen einer wahrnehmenden Person und ihrem eigenen selbstberichteten Nutzungsprofil war r = .73 bei beiden Wellen, und die Ranggenauigkeit für die *Art* der KI-Nutzung war r = .34 bei der zweiten Welle. [[shame-guilt-ai-regulation-computing-education|Scham und Schuld regulieren Sichtbarkeit statt Nutzung]] und produzieren Verbergen und selektive Offenlegung statt Verhaltensänderung. Disziplinäre Normen divergieren scharf: KI-integrierte Aufgaben erschienen in 27% der Betriebswirtschafts- und 5% der Geisteswissenschafts-Syllabi über 31.000 Kurse hinweg. Und die formale [[ethics|Ethik]]literatur routet die wenigsten und am wenigsten umsetzbaren Normen zu Endnutzenden, was bedeutet, dass die Menschen, die Klassenzimmernormen unterworfen sind, in den Dokumenten, die sie diskutieren, weitgehend abwesend sind.
+> **Soziale Normen der KI-Nutzung** — die informellen, lokal durchgesetzten Regeln, die entscheiden, wann Lernende und Lehrende generative KI nutzen dürfen, wie offen sie dazu stehen können, und was in der Praxis statt in der Politik als [[academic-integrity|Schummeln]] gilt. Der Korpus ist dünn zu Normen als Thema und dick zu den Mechanismen, die sie produzieren. Lernende können die KI-Nutzung der jeweils anderen nicht verlässlich inferieren: die mediane Korrelation zwischen den Schätzungen einer wahrnehmenden Person und ihrem eigenen [[self-report-measures|selbstberichteten]] Nutzungsprofil war r = .73 bei beiden Wellen, und die Ranggenauigkeit für die *Art* der KI-Nutzung war r = .34 bei der zweiten Welle. [[shame-guilt-ai-regulation-computing-education|Scham und Schuld regulieren Sichtbarkeit statt Nutzung]] und produzieren Verbergen und selektive Offenlegung statt Verhaltensänderung. Disziplinäre Normen divergieren scharf: KI-integrierte Aufgaben erschienen in 27% der Betriebswirtschafts- und 5% der Geisteswissenschafts-Syllabi über 31.000 Kurse hinweg. Und die formale [[ethics|Ethik]]literatur routet die wenigsten und am wenigsten umsetzbaren Normen zu Endnutzenden, was bedeutet, dass die Menschen, die Klassenzimmernormen unterworfen sind, in den Dokumenten, die sie diskutieren, weitgehend abwesend sind.
 
 ## Fragen zum Nachdenken
 
@@ -43,9 +43,9 @@ ai_assist:
 
 ## Einführung
 
-Formale [[regulation|Regulierung]] von KI in der Bildung trifft als Politik ein: Acceptable-Use-Statements, Syllabuskauseln, [[ai-detection|Detektions]]prozeduren, [[remote-proctoring|Proctoring]]systeme, Ehrenkodices. Alles, was Studierende tatsächlich erleben, sitzt jedoch unter dieser Schicht. Eine Kommilitonin, die nie erwähnt, ChatGPT zu nutzen, eine Lehrperson, die sagt „Mir ist egal, wie Sie es schreiben“ und es dann im Syllabus verbietet, eine Lerngruppe, die sich stillschweigend darauf geeinigt hat, was fair ist, ein Department, in dem alle annehmen, die Benotungskurve habe sich bereits verschoben. Das sind Normen: geteilte Erwartungen an akzeptables Verhalten, durchgesetzt durch Zustimmung, Ablehnung und das Risiko, gesehen zu werden.
+Formale [[regulation|Regulierung]] von [[ai-education|KI in der Bildung]] trifft als Politik ein: Acceptable-Use-Statements, Syllabuskauseln, [[ai-detection|Detektions]]prozeduren, [[remote-proctoring|Proctoring]]systeme, Ehrenkodices. Alles, was Studierende tatsächlich erleben, sitzt jedoch unter dieser Schicht. Eine Kommilitonin, die nie erwähnt, ChatGPT zu nutzen, eine Lehrperson, die sagt „Mir ist egal, wie Sie es schreiben“ und es dann im Syllabus verbietet, eine Lerngruppe, die sich stillschweigend darauf geeinigt hat, was fair ist, ein Department, in dem alle annehmen, die Benotungskurve habe sich bereits verschoben. Das sind Normen: geteilte Erwartungen an akzeptables Verhalten, durchgesetzt durch Zustimmung, Ablehnung und das Risiko, gesehen zu werden.
 
-Diese Seite sammelt, was die Evidenzbasis über diese Schicht sagt. Es lohnt, sorgfältig zu trennen, weil „verstecktes Curriculum“ oft locker für alles Inoffizielle genutzt wird. Hier ist das Thema enger: die operativen Regeln zur KI-Nutzung, wie sie sich bilden, wie sie durchgesetzt werden, und wie schwach die Verbindung zwischen ihnen und den geschriebenen Regeln ist. Der Korpus hat fast keine Studie, die Normen direkt misst, was selbst ein Befund ist. Was er hat, ist wiederholte Evidenz über die Mechanismen: Inferenz, Offenlegung, Emotion und die disziplinäre Variation, die prägt, was jede lokale Norm werden kann.
+Diese Seite sammelt, was die Evidenzbasis über diese Schicht sagt. Es lohnt, sorgfältig zu trennen, weil „verstecktes [[curriculum-design|Curriculum]]“ oft locker für alles Inoffizielle genutzt wird. Hier ist das Thema enger: die operativen Regeln zur KI-Nutzung, wie sie sich bilden, wie sie durchgesetzt werden, und wie schwach die Verbindung zwischen ihnen und den geschriebenen Regeln ist. Der Korpus hat fast keine Studie, die Normen direkt misst, was selbst ein Befund ist. Was er hat, ist wiederholte Evidenz über die Mechanismen: Inferenz, Offenlegung, Emotion und die disziplinäre Variation, die prägt, was jede lokale Norm werden kann.
 
 ## Was Studierende übereinander glauben
 
@@ -55,13 +55,15 @@ Zwei Details zählen für Normen. Erstens: Fehlabstimmung schrumpfte nicht bei w
 
 ## Sichtbarkeit, Scham und selektive Offenlegung
 
-Wenn Peers KI-Nutzung nicht akkurat sehen können, dann werden die Regeln, die sich darum bilden, weitgehend durch soziales Risiko durchgesetzt. [[shame-guilt-ai-regulation-computing-education|Eine Interviewstudie mit 19 Informatikstudierenden]] untersuchte Scham und Schuld als soziale Regulatoren und fand, dass sie Offenlegung statt Nutzung regieren. Studierende beschrieben Verbergensverhalten und selektive Offenlegung, und sie berichteten, sich selbst, ihre Peers und ihre Fakultät zu beschämen. Das wichtige negative Ergebnis ist, dass diese Emotionen mit fortgesetzter KI-Nutzung koexistierten und Zyklen reduzierter [[agency|Handlungsfähigkeit]] und moralischer Spannung erzeugten, statt jemanden zum Aufhören zu bewegen.
+Wenn Peers KI-Nutzung nicht akkurat sehen können, dann werden die Regeln, die sich darum bilden, weitgehend durch soziales Risiko durchgesetzt. [[shame-guilt-ai-regulation-computing-education|Eine Interviewstudie mit 19 Informatikstudierenden]] untersuchte Scham und Schuld als soziale Regulatoren und fand, dass sie Offenlegung statt Nutzung regieren. Studierende beschrieben Verbergensverhalten und selektive Offenlegung, und sie berichteten, sich selbst, ihre Peers und ihre Fakultät zu beschämen. Das wichtige negative Ergebnis ist, dass diese Emotionen mit fortgesetzter KI-Nutzung koexistierten und Zyklen reduzierter [[agency|Handlungsfähigkeit]] und moralischer Spannung erzeugten, statt jemanden dazu zu [[prompt-engineering|bewegen]], aufzuhören.
 
 Dieses Muster verlagert die Norm von „nutzen oder nicht nutzen“ zu „zugeben oder nicht zugeben“. Ein Klassenzimmer kann auf Papier eine starke Anti-KI-Norm haben, verbreitete Nutzung in der Praxis, und ein Gleichgewicht des Schweigens dazwischen, ohne dass jemand verwirrt darüber wäre, was die Regel sagt. Es sagt auch vorher, wo die Kosten landen: auf Lernenden, die am wenigsten fähig sind, das soziale Risiko zu managen, und auf [[equity-in-ai-education|Lernenden, deren sichtbare Nutzung verschiedene Folgen trägt]].
 
 Die lehrkraftseitige Seite derselben Emotion ist messbar. [[vassallo-ai-guilt-complex-faculty-2026|Eine Umfrage unter Lehrenden]] mit einem vierteiligen AI Guilt Index (Cronbach's alpha = 0,88) fand antizipatorische Schuld über erfahrener Reue: der mittlere Indexscore war 2,39 (SD = 1,01), mit 22,9% der Teilnehmenden über dem Mittelpunkt. Nichtnutzende von KI berichteten *höhere* Schuld (M = 3,25, SD = 1,04, n = 8) als Nutzende (n = 101, M = 2,32, SD = 0,97), t(8.39) = 2,00, p = .078, und das Reue-Item trennte die Gruppen schärfer, t(7.79) = 2,44, p = .041. Clusteranalyse produzierte vier Profile: Comfortable Adopters (26,6%), Guilty Non-Users (29,4%), Cautious Users (28,4%) und Morally Distressed Avoiders (15,6%), mit Unterschieden bestätigt auf Schuld, F(3, 105) = 22,13, p < .001, eta-squared = 0,39.
 
 Eine Norm, die Menschen, die nicht gehandelt haben, schuldig fühlen lässt, wirkt durch Antizipation. Das ist ein echter regulatorischer Mechanismus, und er ist unsichtbar für jeden Politikaudit, der nur darauf schaut, was Lehrende und Studierende tun.
+
+Eine Umfrage unter 409 Studierenden im Grundstudium bringt denselben Mechanismus in eine Regression: die wahrgenommene Offenlegung durch Peers und das Komfortempfinden mit Lehrenden waren die stärksten Prädiktoren für die eigene Offenlegung einer lernenden Person, noch vor moralischer Distanzierung ([[qu-wang-disclose-or-not-genai-2026|Qu und Wang (2026)]]). Was eine lernende Person als Norm behandelt, ist das, was sie glaubt, dass ihre Peers tun — der Eindruck, den die Wahrnehmungsstudie oben als systematisch grob erweist. Offenlegung ist auf dieser Evidenz eine Reaktion auf eine geglaubte Norm statt auf eine geschriebene Regel oder einen persönlichen ethischen Standard.
 
 ## Das lokale Regelbuch: Disziplinen und Klassenzimmer
 
@@ -79,7 +81,7 @@ Das Ergebnis ist eine Literatur, die Verpflichtungen für die Menschen spezifizi
 
 ## Warum Überwachung Normen nicht klärt
 
-Wenn Institutionen versuchen, informelle Normen durch formales Monitoring zu ersetzen, ist die Evidenz konsistent und wenig schmeichelhaft. [[conijn-fear-big-brother-proctored-exams-2022|Eine vierwellige Studie mit 1.760 Studierenden über 105 Kurse hinweg]] fand, dass Online-Proctoring Testangst signifikant erhöhte und keinen Effekt auf die Versuchung zum Schummeln hatte. Es veränderte auch nicht wahrgenommene Schwierigkeit oder Klausurleistung. Die Angstkosten waren konzentriert auf bereits verwundbare Studierende, einschließlich jener mit schwächeren häuslichen Umgebungen und weniger verlässlicher Technologie.
+Wenn Institutionen versuchen, informelle Normen durch formales Monitoring zu ersetzen, ist die Evidenz konsistent und wenig schmeichelhaft. [[conijn-fear-big-brother-proctored-exams-2022|Eine vierwellige Studie mit 1.760 Studierenden über 105 Kurse hinweg]] fand, dass Online-Proctoring [[anxiety-and-stress|Testangst]] signifikant erhöhte und keinen Effekt auf die Versuchung zum Schummeln hatte. Es veränderte auch nicht wahrgenommene Schwierigkeit oder Klausurleistung. Die Angstkosten waren konzentriert auf bereits verwundbare Studierende, einschließlich jener mit schwächeren häuslichen Umgebungen und weniger verlässlicher Technologie.
 
 Zwei weitere Studien erklären, warum Überwachung ein schlechtes Werkzeug für Normsetzung ist. [[harerimana-remote-proctoring-nursing-scoping-2026|Ein Scoping Review zu Fern-Proctoring]] fand, dass Monitoring weithin als Abschreckung von Fehlverhalten wahrgenommen wurde, doch südafrikanische Dozierende berichteten fortgesetzte Unehrlichkeit trotz aktiven Monitorings, eine Situation, die Khalil et al. (2022) „subterrane Ethik“ nennen, und häufige kleinere Alerts generierten False Positives und Fakultätsreview-Arbeit. Überwachung kauft Compliance durch Angst vor Detektion statt durch Verpflichtung auf einen geteilten Standard. [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Ein Modell des Assessments unter unvollkommener Information]] schärft den Mechanismus: Abschreckung hängt von der Fähigkeit eines Detektors ab, zwischen versteckter Nutzung und legitimer Arbeit zu diskriminieren, statt von seiner Fangrate, und wenn False Positives schneller steigen als True Positives, distanzieren sich Studierende vom System, statt ihm zu entsprechen. Sein weiteres Ergebnis ist das, was direkt für Normen zählt: Monitoring senkt die Attraktivität versteckter Nutzung, erhöht aber nicht [[ai-use-disclosure|Offenlegung]]. Studierende bewegen sich hin zu Offenheit nur, wenn Berichten sicherer oder wertvoller ist als Verbergen, und ein Verbot kann Verbergen attraktiver machen als Compliance.
 
@@ -140,3 +142,6 @@ Die Kosten dieser Substitution zeigen sich darin, wo Lehrende und Studierende ta
 - [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Schummeln oder mithalten? KI in der Marketingausbildung
 - [[chen-zou-genai-group-assessment-agency-2026]] — Handlungsfähigkeit in GenAI-gestützter Gruppenbewertung
 - [[reddit-genai-education-discourse-analysis-2026]] — Reddit-Diskursanalyse: Fakultäts-Studierenden-Kontakt konzentriert sich auf Streit um Detektion und Durchsetzung (Yüce et al. 2026)
+
+- [[qu-wang-disclose-or-not-genai-2026]] — 409 Studierende im Grundstudium: wahrgenommene Peer-Offenlegung und Komfort mit Lehrenden sagten Offenlegung vor moralischer Distanzierung vorher (Qu & Wang 2026)
+

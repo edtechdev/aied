@@ -1,7 +1,7 @@
 ---
 title: Theorien und Rahmenwerke
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,8 +9,8 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-25T18:35:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -44,7 +44,7 @@ Jeder KI-Tutor, jedes Feedbacksystem und jedes Dashboard bettet Annahmen darübe
 Diese erklären Mechanismen: sie benennen die Teile, die die Arbeit tun, und sagen vorher, was folgt, wenn jene Teile sich verändern. In der KI-Literatur sind sie meist aus der Psychologie und den [[learning-sciences|Lernwissenschaften]] geborgt und als interpretative Rahmen rund um ein neues Werkzeug genutzt.
 
 - **[[learning-theories|Lerntheorien (Überblick)]]** — die Familie als Ganzes, einschließlich der klassischen Pole [[behaviorism|Behaviorismus]] und [[constructivist|Konstruktivismus]] und der Lücke „Konstruktivismus dem Namen nach, Behaviorismus in der Praxis", die in KI-Umsetzungen wiederkehrt. Konnektivismus und kognitive Lasttheorie sind hier auch abgedeckt.
-- **[[constructivist|Konstruktivismus]]** — Lernen als aktive Wissenskonstruktion. Er untermauert projektbasierte Arbeit, dialogbasiertes KI-Tutoring, und die Kritik, dass Drill-and-Feedback-Systeme ihre eigene erklärte Pädagogik verletzen.
+- **[[constructivist|Konstruktivismus]]** — Lernen als aktive Wissenskonstruktion. Er untermauert [[project-based-learning|projektbasierte]] Arbeit, dialogbasiertes [[intelligent-tutoring|KI-Tutoring]], und die Kritik, dass Drill-and-Feedback-Systeme ihre eigene erklärte Pädagogik verletzen.
 - **[[sociocultural-learning|Soziokulturelle Theorie]]** — Lernen als durch Werkzeuge und soziale Interaktion vermittelt, weshalb KI als vermittelndes Artefakt statt als bloße Hilfe theorisiert wird.
 - **[[activity-theory-aied|Aktivitätstheorie]]** — nimmt das gesamte Aktivitätssystem, Widersprüche eingeschlossen, als Analyseeinheit. Verbreitet in lehrkraftseitigen KI-Studien, wo der interessante Befund meist die Spannung zwischen Werkzeugen, Regeln und Gemeinschaft ist.
 - **[[situated-learning|Situiertes Lernen]]** und **[[embodied-learning|verkörpertes Lernen]]** — Lernen als an Kontext und Körper gebunden, das Gegengewicht zur Behandlung von KI als rein sprachliches Medium.
@@ -52,8 +52,8 @@ Diese erklären Mechanismen: sie benennen die Teile, die die Arbeit tun, und sag
 - **[[community-of-inquiry|Community of Inquiry]]** — die sozialen, kognitiven und lehrenden Präsenzen, die eine Online-Erfahrung funktionieren lassen; eine Theorie der Erfahrung und ein Designrahmen zugleich.
 - **[[self-determination-theory|Selbstbestimmungstheorie]]** — Autonomie, Kompetenz und Verbundenheit als motivationale Vorbedingungen. Oft die angebotene Erklärung, wenn KI-Nutzung Engagement erhöht, ohne Lernen zu erhöhen.
 - **[[cognitive-psychology|Kognitivismus]]** — Informationsverarbeitung, Arbeitsgedächtnis und die Divergenz zwischen dem Gefühl des Lernens und tatsächlichem Lernen.
-- **Sozialwahrnehmungstheorie (Wärme und Kompetenz)** — importiert aus Sozialkognition und Service-Roboter-Forschung, rahmt sie, wie Nutzende die Glaubwürdigkeit eines KI-Agenten beurteilen: wahrgenommene Kompetenz sagte die Feedback-Glaubwürdigkeit von ChatGPT direkt voraus, während Wärme nur über menschenähnliche Empathie wirkte (SEM, 230 Studierende; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
-- **Eine vierte Affordanz-Kategorie wurde vorgeschlagen, nicht getestet.** Die Reviewer codierten 24 Studien gegen ein dreiteiliges Affordanzschema, fanden, dass Engagement, Sicherheit und Selbstwirksamkeit nicht in die technologischen, pädagogischen oder sozialen Kategorien passten, und schlugen emotionale Affordanzen vor, die auf Banduras reziprokem Determinismus beruhen ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+- **Sozialwahrnehmungstheorie (Wärme und Kompetenz)** — importiert aus Sozialkognition und Service-Roboter-Forschung, rahmt sie, wie Nutzende die Glaubwürdigkeit eines [[agentic-ai|KI-Agenten]] beurteilen: wahrgenommene Kompetenz sagte die Feedback-Glaubwürdigkeit von ChatGPT direkt voraus, während Wärme nur über menschenähnliche Empathie wirkte (SEM, 230 Studierende; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
+- **Eine vierte Affordanz-Kategorie wurde vorgeschlagen, nicht getestet.** Die Reviewer codierten 24 Studien gegen ein dreiteiliges Affordanzschema, fanden, dass Engagement, Sicherheit und Selbstwirksamkeit nicht in die technologischen, [[pedagogy|pädagogischen]] oder sozialen Kategorien passten, und schlugen emotionale Affordanzen vor, die auf Banduras reziprokem Determinismus beruhen ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
 ## Modelle der lernenden Person und des Lernprozesses
 
@@ -69,16 +69,16 @@ Diese erklären Mechanismen: sie benennen die Teile, die die Arbeit tun, und sag
 
 - **[[tpack|TPACK]]** — das Lehrkraftwissen, das Technologie, Pädagogik und Inhalt verschmilzt; das Standardrahmenwerk für lehrkraftseitige KI-Studien.
 - **[[technology-acceptance-model|Adoptionsmodelle]]** — Absicht als Funktion von wahrgenommener Nützlichkeit und Nutzungsleichtigkeit. Weit genug genutzt, dass das Vertrauen des Felds auf Absicht statt auf Verhalten eine stehende Kritik ist.
-- **[[icap-framework|ICAP]]** — ordnet Engagement als passiv, aktiv, konstruktiv, interaktiv; nützlich, um zu fragen, welchen Modus eine KI-Interaktion tatsächlich ermöglicht.
+- **[[icap-framework|ICAP]]** — ordnet Engagement als passiv, aktiv, konstruktiv, interaktiv; nützlich, um zu fragen, welchen Modus eine [[student-ai-interaction|KI-Interaktion]] tatsächlich ermöglicht.
 - **[[samr-model|SAMR]]** — Substitution bis Redefinition. Populär als Reifegeschichte, schwach als Messinstrument.
-- **[[universal-design-for-learning|Universal Design for Learning]]**, **[[inclusive-learning|inklusives Lernen]]** und **[[accessibility|Barrierefreiheit]]** — Designrahmen dafür, wer bedient wird, und diejenigen, die am häufigsten in Behinderungs- und Gerechtigkeitsarbeit herangezogen werden.
+- **[[universal-design-for-learning|Universal Design for Learning]]**, **[[inclusive-learning|inklusives Lernen]]** und **[[accessibility|Barrierefreiheit]]** — Designrahmen dafür, wer bedient wird, und diejenigen, die am häufigsten in Behinderungs- und [[equity-in-ai-education|Gerechtigkeitsarbeit]] herangezogen werden.
 - **[[learning-design|Lerndesign]]**, **[[curriculum-design|Curriculum-Design]]** und **[[design-thinking|Design Thinking]]** — wie Aufgaben, Sequenzen und Programme strukturiert werden, bevor ein Werkzeug gewählt wird.
 - **[[change-management|Change-Management]]** — ob ein System überhaupt angenommen wird, was meist eine institutionelle Frage statt einer pädagogischen ist.
 
 ## Mess- und Rechenmodelle
 
 - **[[item-response-theory|Item-Response-Theorie]]** — Item- und Fähigkeitsschätzung, und das Modell, das die Zahlen eines Tests interpretierbar macht.
-- **[[educational-measurement|Bildungsmessung]]** — die Instrumentlandschaft, einschließlich der spezifisch für KI-Kompetenz gebauten Maße.
+- **[[educational-measurement|Bildungsmessung]]** — die Instrumentlandschaft, einschließlich der spezifisch für [[ai-literacy|KI-Kompetenz]] gebauten Maße.
 - **[[assessment-validity|Validität]]** — ob ein Instrument das Konstrukt misst, das es behauptet, was entscheidet, ob ein berichtetes Ergebnis die daran geknüpfte theoretische Behauptung stützt.
 - **[[self-report-measures|Selbstauskunftsmaße]]** — die dominante und fragilste Evidenzquelle in dieser Literatur; mehrere Konstrukte oben sind dafür bekannt, zwischen Selbstauskunft und Leistung stark auseinanderzugehen.
 - **[[knowledge-tracing|Knowledge Tracing]]** und **[[student-modeling|Modellierung von Lernenden]]** — den Zustand einer lernenden Person über die Zeit aus Interaktionsdaten schätzen.
@@ -90,7 +90,7 @@ Diese erklären Mechanismen: sie benennen die Teile, die die Arbeit tun, und sag
 
 Vier Vorschläge in der Wissensbasis bauen Theorie, statt sie zu borgen. Sie sind Artikelseiten statt Konzeptknoten, weil jeder ein einzelnes Argument ist:
 
-- **[[generativism-learning-theory|Generativismus]]** — eine neue Lerntheorie, die argumentiert, dass die klassischen vier signifikante konzeptuelle Grenzen zeigen, während generative KI sich ausbreitet.
+- **[[generativism-learning-theory|Generativismus]]** — eine neue Lerntheorie, die argumentiert, dass die klassischen vier signifikante konzeptuelle Grenzen zeigen, während [[generative-ai|generative KI]] sich ausbreitet.
 - **[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Epistemische Ko-Handlungsfähigkeit]]** — ein Modell, wie Lernende und KI-Systeme gemeinsam Wissen und Verstehen produzieren.
 - **[[absent-cognitive-baseline-2026|Die abwesende kognitive Baseline]]** — theorisiert, warum KI-native Lernende ihr eigenes Lernen überschätzen, wenn KI Leistung aufbläht.
 - **[[yan-agentivism-learning-theory-ai-2026|Agentivismus]]** — eine Mid-Range-Theorie, die vier Mechanismen benennt (delegierte Handlungsfähigkeit, epistemische Überwachung und Verifikation, rekonstruktive Internalisierung und Transfer bei reduzierter Unterstützung) und sechs testbare Propositionen aufstellt.
@@ -106,7 +106,7 @@ Die Wörter werden in der Literatur lose genutzt, und der Unterschied ist einen 
 
 ## Verwandte Schichten
 
-Zwei benachbarte Seiten handeln absichtsvoll von etwas anderem. [[philosophy-of-ai-in-education|Philosophie der KI in der Bildung]] stellt normative und konzeptuelle Fragen —, wozu Bildung *da ist*, ob eine Maschine lehren kann —, und sagt keine Effektstärken vorher; eine Studie kann philosophisch naiv und theoretisch solide sein, oder umgekehrt. [[theory-development-aied|Theorieentwicklung]] ist die Meta-Aktivität des Bauens, Borgens und Revidierens von Theorie, einschließlich der stehenden Kritik, dass viel AIED-Arbeit bestehende Theorie anwendet, statt sie zu testen. Diese Seite ist das Inventar; Theorieentwicklung handelt davon, das Inventar zu produzieren und zu revidieren.
+Zwei benachbarte Seiten handeln absichtsvoll von etwas anderem. [[philosophy-of-ai-in-education|Philosophie der KI in der Bildung]] stellt normative und konzeptuelle Fragen —, wozu Bildung *da ist*, ob eine Maschine lehren kann —, und sagt keine Effektstärken vorher; eine Studie kann philosophisch naiv und theoretisch solide sein, oder umgekehrt. [[theory-development-aied|Theorieentwicklung]] ist die Meta-Aktivität des Bauens, Borgens und Revidierens von Theorie, einschließlich der stehenden Kritik, dass viel [[ai-education|AIED]]-Arbeit bestehende Theorie anwendet, statt sie zu testen. Diese Seite ist das Inventar; Theorieentwicklung handelt davon, das Inventar zu produzieren und zu revidieren.
 
 ## Eine Linse wählen, wenn die Frage praktisch ist
 
@@ -118,7 +118,6 @@ Zwei benachbarte Seiten handeln absichtsvoll von etwas anderem. [[philosophy-of-
 ## Was Rahmenwerke nicht können
 
 Rahmenwerke sind keine Evidenz. Sie sind meist aus Vor-LLM-Kontexten geborgt und von demjenigen lokalisiert, der sie anwendet, sie können als Branding funktionieren, und Stadienmodelle laden zu Kontrollkästchen-Übernahme ein, die Bewegung durch Ebenen statt Lernen berichtet. Behauptungen, die auf einem Rahmenwerk ruhen, sollten neben [[limitations-in-aied-research|den übergreifenden Grenzen des Felds]], der [[assessment-validity|Validität]] dessen, was das Ergebnis maß, und den bekannten Grenzen von [[self-report-measures|Selbstauskunft]] gelesen werden.
-
 
 Mechanismus-zu-Theorie-Ausrichtung kann dennoch entscheidend sein: eine thematische Synthese von 55 KI-unterstützten Spielbasiertes-Lernen-Studien fand, dass Wirksamkeit davon abhing, ob der KI-Mechanismus die Pädagogik umsetzte, der er dienen sollte, statt von algorithmischer Ausgefeiltheit ([[ai-game-based-learning-systematic-review-2026|Kaşarcı und Yurt (2026)]]).
 
@@ -148,7 +147,7 @@ Mechanismus-zu-Theorie-Ausrichtung kann dennoch entscheidend sein: eine thematis
 ## Verbundene Artikel
 
 - [[genai-chatbots-language-learning-affordances-review-2026]] — Emotionale Affordanzen als vierte Kategorie in einer Affordanz-Taxonomie vorgeschlagen
-- [[ai-game-based-learning-systematic-review-2026]] — Mechanismus-zu-Theorie-Ausrichtung, nicht algorithmische Ausgefeiltheit, trieb die Wirksamkeit in 55 KI-unterstützten spielbasierten Lernstudien an
+- [[ai-game-based-learning-systematic-review-2026]] — Mechanismus-zu-Theorie-Ausrichtung, nicht algorithmische Ausgefeiltheit, trieb die Wirksamkeit in 55 KI-unterstützten [[game-based-learning|spielbasierten Lernstudien]] an
 
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — vier Jahrzehnte AIED durch das AI×Ed-Rahmenwerk
 - [[educating-minds-generative-ai-2026]] — theorielastige Synthese von generativer KI und Lernen

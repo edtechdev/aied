@@ -2,15 +2,15 @@
 connected_resources: [vibes-diy]
 title: Konstruktivismus
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-26T10:25:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -77,6 +77,9 @@ Empirische Arbeit findet wiederholt eine Lücke zwischen bekundeten konstruktivi
 Dieses Muster verallgemeinert sich über das Feld hinweg:
 
 - Wenn generative KI Schreiben, Schlussfolgern oder Code für Studierende erledigt, verliert die lernende Person den konstruktiven Denkprozess, den die Aufgabe aufzubauen beabsichtigte — das Anliegen, das zentral ist für [[cognitive-offloading|kognitive Auslagerung]] und [[cognitive-offloading|Überabhängigkeit]].([[generative-refusal-ai-tools-for-thought]])
+
+- Der Verlust ist jetzt messbar, und er folgt der Arbeit statt dem Werkzeug. Bei 26.811 chinesischen Sekundarschülerinnen und -schülern hob generative KI die Hausaufgabennoten um 18 % und senkte die Bearbeitungszeit um 30 %, während die Ergebnisse in [[summative-assessment|geschlossenen Prüfungen]] innerhalb von sechs Monaten um 20 % fielen. Der Rückgang konzentrierte sich auf die rund 81 % der Nutzenden, deren Bearbeitungszeiten auf Hausaufgaben-Outsourcing hindeuteten, und Nutzende, die ihre Hausaufgabenzeit vergleichbar mit Nichtnutzenden hielten, lernten ebenso effizient ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei und Wu (2026)]]). Die Variable, die Lernen vorhersagte, war nicht die KI-Nutzung, sondern ob die lernende Person die Konstruktion noch selbst ausführte.
+
 - KI-Implementierungen, die adaptives Feedback und Effizienz betonen, bedienen häufig die Ziele der Handlungsfähigkeit, kritischen Reflexion und autonomen Entscheidung unzureichend, die der Konstruktivismus impliziert.([[ai-vocational-education-training-review]])
 
 ### Die Namensfalle: Output generativer KI ist nicht generatives Lernen
@@ -95,7 +98,6 @@ Das spiegelt die [[icap-framework|ICAP]]-Hierarchie — konstruktives und intera
 - **Generative Verweigerung** — KI-Werkzeuge, die generierten Text strategisch zurückhalten und stattdessen Fragen stellen, womit sie [[desirable-difficulties|kognitive Reibung]] an die nutzende Person zurückgeben, sodass die Arbeit der Artikulation selbst Verstehen aufbaut.([[generative-refusal-ai-tools-for-thought]])
 - **Denkwerkzeuge über Antwortmaschinen** — GenAI als [[genai-mindtool-generative-learning|Mindtool]] nutzen, in dem die lernende Person das Werkzeug treibt, statt dass das Werkzeug die lernende Person ersetzt.([[genai-mindtool-generative-learning]])
 - **Konstruktiver Konflikt** — adversariale KI-Agenten, die das Design oder Schlussfolgern einer lernenden Person herausfordern, was Überdenken und tiefere Konstruktion von Alternativen anregt, in der Tradition sokratischen Tutorings.([[ai-agents-constructive-conflict-design-education-2026]])
-
 
 - **Simulierte Opposition ist keine Opposition.** Eine Gegenposition, die auf Abruf geäußert, aber nie widerstanden werden kann, probt die Choreografie des Dialogs, während sie vorenthält, was ihn potenz macht: sie hat keine Verkörperung, kein Engagement und keine Folgenwirkung, bietet also anders als ein menschliches Gegenüber keinen Weg zur Reparatur ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **Internes Feedback durch Vergleich** — Lernende ihre eigene Arbeit gegen KI-erzeugte Beispiele vergleichen lassen, sodass der Akt des Vergleichs selbst Lernen erzeugt.([[ai-internal-feedback-evaluative-judgments]])
@@ -168,3 +170,6 @@ Der Konstruktivismus prägt auch, wie KI-Kompetenz selbst gelehrt wird. Wenn Wis
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generativer Agent, der die kognitive Evolution von Studierenden simuliert
 
 - [[synthetic-position-self-authorship-2026]] — Simulierte KI-Gegenpositionen proben die Form des Dialogs, enthalten aber den Widerstand vor, der Revision erzwingt
+
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Die Lernstrafe: Hausaufgabennoten plus 18 %, geschlossene Prüfungen minus 20 %, konzentriert bei Hausaufgaben-Outsourcern
+

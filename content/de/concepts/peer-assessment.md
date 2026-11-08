@@ -1,7 +1,7 @@
 ---
 title: Peer-Prüfung
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,8 +10,8 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-10-26T11:15:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T17:45:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -44,7 +44,7 @@ Peer-Prüfung ist eine Prüfungsgestaltungswahl, in der Studierende einen Teil d
 
 Die Forschungsbasis ist sich einig, dass Peer-Prüfung Lernen erzeugt, und uneinig darüber, wie viel davon vom Design abhängt. Sie gibt Studierenden ein authentisches Publikum, entwickelt Bewertungsurteil durch kriterienbasiertes Antworten, und baut den sozialen Kontext, der [[student-engagement|Engagement]] und [[motivation|Motivation]] stützt. Ihre Qualität hängt stark von [[scaffolding|Gerüstbildung]] ab —, wie gut sie strukturiert ist, und ob Studierende klare Kriterien und Training erhalten. Jene Abhängigkeit ist, wo KI eintritt, als konsistente, rastergetriebene Ergänzung zum spezifischen, kontextbewussten Feedback, das Peers geben, und zunehmend als Gerüst, eingebaut in den Peer-Prüfungs-Prozess selbst.
 
-[[wang-student-ai-collaboration-peer-feedback-2026|Wang und Guo (2026)]] finden, dass EFL-Studierende, die die Texte ihrer Peers in einem offenen Dialog mit einer generativen KI prüften, Feedback produzierten, das die Empfängerinnen und Empfänger als qualitativ besser bewerteten, mit Gewinnen in emotionaler Reaktion und Feedbackkompetenz, die mit der Qualität des Dialogs variierten.
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang und Guo (2026)]] finden, dass EFL-Studierende, die die Texte ihrer Peers in einem offenen Dialog mit einer [[generative-ai|generativen KI]] prüften, Feedback produzierten, das die Empfängerinnen und Empfänger als qualitativ besser bewerteten, mit Gewinnen in emotionaler Reaktion und Feedbackkompetenz, die mit der Qualität des Dialogs variierten.
 
 ## Was Studierende aus dem Bewerten von Peers lernen
 
@@ -68,12 +68,13 @@ Das begrenzt, wofür eine Peer-Note genutzt werden sollte. Eine in der Mitte der
 
 Das dominante Gestaltungsmuster hält die Peer-Person zentral und fügt KI um sie herum hinzu. Das Peer-and-AI-Review-+-Reflection-Modell ist die am besten dokumentierte Instanz. [[pairr-ai-peer-review-2025|Sperber et al. (2025)]] implementierten PAIRR über 10 Schreibkurse und drei schreibintensive [[stem-education|STEM]]-Kurse mit 654 Studierenden (37% Erste-Generation, 13% international, 68% [[multilingual-learning|mehrsprachig]]). Studierende entwarfen, tauschten Peer-Review, prompteten ChatGPT um rastergetriebenes Feedback zum selben Entwurf, bewerteten beide kritisch, planten Überarbeitungen und reflektierten. 58% bevorzugten kombiniertes Feedback, 36% Peer-Feedback allein, und nur 6% KI-Feedback allein. Die zwei Quellen waren oft ähnlich (75% berichteten Ähnlichkeiten, beschrieben als sich gegenseitig bestätigend und verstärkend) und, wo sie sich unterschieden, komplementär: KI-Feedback wurde oft als übermäßig allgemein bezeichnet (31%), gab aber umsetzbare Überarbeitungsstrategien zu Organisation und Struktur, während Peer-Feedback spezifischer und detaillierter war (28%) und auf kontextuellem Wissen über die Aufgabe zehrte. Kritisches [[ai-ed-evaluation|Evaluieren von KI]]-Ausgabe baute [[ai-literacy|KI-Kompetenz]], und nur 5.3% der Studierenden zeigten Übervertrauen darin.
 
+Die gleiche Umsetzung von 2024 hat eine zweite Auswertung, die die Reflexionen daraufhin liest, wie Studierende das Werkzeug beschrieben, statt daraufhin, wie sie das Feedback bewerteten. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] kodierten die Überarbeitungsreflexionen der 13 Sektionen und 10 Kurse und fanden, dass nur etwa die Hälfte der Studierenden die anthropomorphen Rollen übernahm, die der Prompt anbot: Tutor (28,6%) und Kollaborateur (23,1%). Die übrigen griffen zu Werkzeug oder Ressource (9,9%), Freunden oder Peers (7,7%), Roboter oder Computer (7,7%) oder eigenen Schemata. Die Autoren lesen diese Verortung als den Punkt: Studierende stellten den Chatbot an die Peripherie einer Schreibökologie, deren Zentrum die studierende Person, die Peers und die Lehrkraft sind.
+
 Das Muster generalisiert auf professionelles Schreiben. [[gift-ai-pairr-business-writing-2025|MacArthur et al. (2025)]] wandten PAIRR auf einen Wirtschaftsschreibkurs im höheren Studienabschnitt an, wo jede von fünf Hauptaufgaben einen Entwurf, eine Publikumsanalyse, Peer-Review durch 2–3 Peers und eine Überarbeitung verlangte (34 von 46 eingeschriebenen Studierenden nahmen teil; 69% mehrsprachig). Studierende schätzten KI-Feedback, fanden es aber manchmal zu allgemein, und schätzten das kontextuelle Wissen der Peers —, „meine Peers betrachteten es aus der Perspektive der Arbeitgebenden … ChatGPT tat das nicht so sehr.“ Ein Viertel der kodierten Reflexionen in der größeren PAIRR-Studie drückte Skepsis über KI-Feedback aus oder bemerkte Inkorrektheiten, was die Autoren als sich entwickelnde KI-Kompetenz lesen. Die Studie ist deskriptiv und kursspezifisch.
 
 ## GenAI als Gerüst innerhalb von Peer-Feedback und Gruppenprüfung
 
 Der strengste Test dafür, wie sehr Design zählt, ist ein multizentrisches cluster-randomisiertes Experiment. [[genai-feedback-design-multisite-experiment|Ateş (2026)]] randomisierte 48 Sektionen über 4 Hochschulen —, 1.176 Erstsemesterstudierende in [[biology-education|Biologie]], [[chemistry-education|Chemie]] und [[physics-education|Physik]] —, auf vier Bedingungen für wissenschaftliches Argumentieren: nur Peer-Feedback, direktes GenAI-Feedback, reflektierendes GenAI-Feedback (Selbstbewertung dann KI-Kritik), und eine Hybride aus Selbstbewertung → Peer-Feedback → GenAI-Kritik. Direktes GenAI besiegte Peer-Feedback bei unmittelbarer Argumentqualität, zeigte aber schwächeren [[transfer-of-learning|Transfer]]; reflektierende und hybride Designs produzierten stärkere Feedbackaufnahme und selbstreguliertes Lernen; die Hybride zeigte den klarsten Vorteil bei konzeptuellem Lernen; beide übertrafen direktes GenAI bei verzögertem KI-freiem Transfer. Der Wert von GenAI, schließen die Autoren, hänge weniger am Zugang als daran, ob die Umgebung Studierendenhandlungsfähigkeit und Eigentum während der Überarbeitung bewahre.
-
 
 Die Abfolge von KI-Feedback vor der Peer-Diskussion statt danach erhöhte ebenfalls die Ergebnisse: Gegenüber nur Peer-Feedback berichteten 122 chinesische EFL-Studierende mit integriertem KI-plus-Peer-Feedback höheres affektives, verhaltensbezogenes und kognitives Engagement (partielles η² = 0.29, 0.28, 0.32) und übertrafen in allen vier IELTS-Schreibdimensionen, am größten bei Aufgabenerfüllung (d = 1.41) ([[ai-peer-feedback-l2-writing-engagement-2026|Liu (2026)]]).
 
@@ -100,8 +101,10 @@ Die offenen Fragen betreffen die Stärke der Evidenz, nicht nur das Design. Viel
 ## Verbreitete Fehlvorstellungen
 
 - **„Eine mündliche Verteidigung stoppt KI-gestützte Arbeit."** Der Anteil eingefügter Zeichen **stieg von 61,0% auf 68,1% (p < 0,0001)**, nachdem jede CS1-Einreichung einer **15-minütigen mündlichen Code-Review im Wert von 70% der Note** unterworfen wurde. Das Verhalten, auf das sie zielte, nahm zu — und **die Prüfungsergebnisse fielen nicht, und die Bearbeitungszeit blieb stabil**, während **90% der Studierenden sagten, die Reviews motivierten** sie. Die Intervention wirkte auf das Verständnis, nicht auf das Einfügen.
-- **„Betrugserkennung ist der Zweck mündlicher Prüfung."** Die gemessenen Ergebnisse waren Verständnis und Motivation, nicht die Verringerung eingefügten Textes. Das Design an seiner Erkennungsrate zu beurteilen, verfehlt, was es erreicht hat.
+- **„Betrugserkennung ist der Zweck [[oral-assessment|mündlicher Prüfung]]."** Die gemessenen Ergebnisse waren Verständnis und Motivation, nicht die Verringerung eingefügten Textes. Das Design an seiner Erkennungsrate zu beurteilen, verfehlt, was es erreicht hat.
 - **„Peer-Review ist ein billigerer Ersatz für Feedback von Lehrenden."** [[learning-by-teaching|Lernen durch Lehren]] ist der Mechanismus, und er zeigt sich selbst unter Maschinen: peer-lernartiger Diskurs unter über **2,4 Millionen KI-Agenten** war überwiegend **Behauptung statt Erkundung**. Kritik zu produzieren ist ein anderer Akt, als sie zu empfangen.
+
+- **Reflektierende Peer- und Selbstformulare als der Beleg hinter einer Gruppennote.** [[issa-teamwork-framework-academic-integrity-2024|Issa und Hall (2024)]] nutzten ein peer-reflektierendes Formular pro Teammitglied plus ein selbstreflektierendes Formular pro studierender Person in einem postgradualen Kurs zu Business Project Management, zusammen mit einem 30-minütigen Treffen mit jedem Team, in dem die Mitglieder gefragt wurden, ob ihr Beitrag originär war. Die Formulare wurden nicht als Feedbackaustausch benotet. Sie waren die personenbezogene Evidenz, mit der die Lehrperson eine individuelle Note innerhalb einer 40%-Teamprüfung verteidigen konnte. Der Anstieg der Bewertung im Rahmenwerk von 27/40 auf 31/40 ist mit einer neuen Lehrperson konfundiert, und seine Integritätsbehauptung ist nicht quantifiziert, sodass der übertragbare Teil die Struktur der Dokumentation ist, nicht die Effektstärke.
 
 ## Verbundene Konzepte
 
@@ -145,3 +148,5 @@ Die offenen Fragen betreffen die Stärke der Evidenz, nicht nur das Design. Viel
 - [[ai-agents-peer-learning-discourse]] — Peer-Lernen-ähnlicher Diskurs unter 2,4 Millionen KI-Agenten (Chen et al. 2026)
 - [[oneill-presumed-effective-meta-analysis-2026]] — Prüfung von 14 AIED-Meta-Analysen und 59 Primärstudien (O'Neill 2026)
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Lehrkraft-Feedback vs. KI-unterstütztes Peer-Feedback im L2-Schreiben: Quantität, Fokus und Verbesserungsverläufe über zwei Aufgaben hinweg (Tang, Li & Luo 2026)
+- [[issa-teamwork-framework-academic-integrity-2024]] — Selbst- und Peer-Reflexionsformulare als personenbezogene Evidenz hinter einer Gruppennote (Issa & Hall 2024)
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Rollenvokabular von 654 Studierenden: Tutor 28,6%, Kollaborateur 23,1%, Werkzeug 9,9%, Roboter 7,7%

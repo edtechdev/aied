@@ -22,7 +22,7 @@ confidence: high
 connected_resources: [pedagogical-promptbook, id-toolbox, claw-ed]
 translation_of: resources/intelligent-textbooks
 source_updated: "2026-10-10T11:10:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

@@ -1,7 +1,7 @@
 ---
 title: "Woran erkennen wir, dass eine Bildungs-KI richtig funktioniert und nicht nur gut punktet?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
 weight: 73
 type: faq
@@ -17,7 +17,7 @@ methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
 translation_of: faqs/checking-whether-educational-ai-works
 source_updated: "2026-10-28T11:26:02-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -62,7 +62,7 @@ Der Kursassistent für Lineare Regelungssysteme berichtet das auf die richtige W
 
 ## Bewerten Sie jede Ausgabe einzeln
 
-Im Projekt WrAFT erreichte ein feinabgestimmtes Modell einen Übereinstimmungswert von **0.84** mit menschlichen Bewertenden über 360 zurückgehaltene TOEFL-Essays. Das ist ein starkes Ergebnis für das Bewerten. Das auf Feedback-Texterstellung trainierte Modell desselben Projekts produzierte Ausgabe, die abgeschnitten und nicht parsebar war, während das bloße Prompting eines anderen Modells Feedback erzeugte, das Lehrkräfte bevorzugten ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+Im Projekt WrAFT erreichte ein feinabgestimmtes Modell einen Übereinstimmungswert von **0.84** mit menschlichen Bewertenden über 360 zurückgehaltene TOEFL-Essays. Das ist ein starkes Ergebnis für das Bewerten. Das auf Feedback-Texterstellung trainierte Modell desselben Projekts produzierte Ausgabe, die abgeschnitten und nicht parsebar war, während das bloße [[prompt-engineering|Prompting]] eines anderen Modells Feedback erzeugte, das Lehrkräfte bevorzugten ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
 Die Wissensbasis trägt denselben Fehler in einer zweiten Form: eine Bereitstellung, deren Bewertungsmodul gut abschnitt und deren Feedback mitten im Satz abgeschnitten und unlesbar ankam. Nichts in der Schlagzeilenzahl sagte das.
 
@@ -88,13 +88,13 @@ Die praktische Version: Nehmen Sie eine Stichprobe von etwa fünfzig Ausgaben, l
 
 Die sauberste Lösung ist, das Modell auf dieselbe Größe zu trainieren, die Sie messen wollen. Ein feinabgestimmtes Modell wurde darauf trainiert, die statistischen Eigenschaften von Testfragen zu reproduzieren: wie schwer jeder Item ist, wie gut er stärkere von schwächeren Studierenden trennt. Es lernte diese Muster, statt sie genannt zu bekommen ([[multimodal-item-parameter-estimation-2026]]). Weil das Ziel eine Eigenschaft des Assessments selbst war, konnte die Evaluation diese Eigenschaft betreffen statt die Formulierung.
 
-Berichten Sie den Verlauf ebenso wie den Endpunkt. Der Schreibsimulator von SWIM veröffentlichte die Werte jeder Stufe nebeneinander: Rubric-basiertes Prompting **0.577**, Feinabstimmung **0.474 ± 0.023**, Reinforcement Learning **0.618 ± 0.005** ([[swim-student-writing-simulation-2026]]). Eine Leserin kann aus dieser Tabelle ersehen, ob das Training etwas bewirkt hat. Eine einzelne Endzahl kann ihr das nicht sagen, und sie verbirgt eine Stufe, in der das feinabgestimmte Modell schlechter abschnitt als das Prompting.
+Berichten Sie den Verlauf ebenso wie den Endpunkt. Der [[simulation|Schreibsimulator]] von SWIM veröffentlichte die Werte jeder Stufe nebeneinander: Rubric-basiertes Prompting **0.577**, Feinabstimmung **0.474 ± 0.023**, [[reinforcement-learning|Reinforcement Learning]] **0.618 ± 0.005** ([[swim-student-writing-simulation-2026]]). Eine Leserin kann aus dieser Tabelle ersehen, ob das Training etwas bewirkt hat. Eine einzelne Endzahl kann ihr das nicht sagen, und sie verbirgt eine Stufe, in der das feinabgestimmte Modell schlechter abschnitt als das Prompting.
 
 ## Vergleichen Sie gegen etwas außerhalb Ihres Projekts
 
 Holen Sie sich zuerst eine Baseline, auch eine billige. Das Modell des Kursassistenten ohne Grounding schnitt schlechter ab als eine einfache Stichwortsuche – die Art von Ergebnis, die die Roadmap verändert und einen Tag zu finden kostet.
 
-Ein externer Benchmark sagt Ihnen dann, ob Ihr Wert überhaupt etwas taugt. Im CDPK-Pädagogik-Benchmark erreichte EduQwen **96.52%** gegen **90.55%** von Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Der Pedagogy Benchmark, gebaut aus echten Prüfungen der Lehrkräftefortbildung und **97 Modelle** abdeckend, fand Genauigkeiten von **28% bis 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+Ein externer Benchmark sagt Ihnen dann, ob Ihr Wert überhaupt etwas taugt. Im CDPK-[[pedagogy|Pädagogik]]-Benchmark erreichte EduQwen **96.52%** gegen **90.55%** von Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Der Pedagogy Benchmark, gebaut aus echten Prüfungen der [[teacher-role|Lehrkräfte]]fortbildung und **97 Modelle** abdeckend, fand Genauigkeiten von **28% bis 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
 
 Bei einer Aufgabe über das Lehren reichten die Modelle also von schlecht bis gut, ein Benchmark-Ergebnis verortet Ihr System irgendwo in einer breiten Spanne.
 
@@ -106,7 +106,7 @@ Führen Sie die Prüfung über vollständige Gespräche durch, und schreiben Sie
 
 ## Prüfen Sie die simulierte Studierende, bevor Sie ihr trauen
 
-Simulierte Studierende zu erzeugen, statt echte zu rekrutieren, macht Evaluation erheblich billiger. Eine simulierte Studierende ist aber auch ein Messinstrument, und sie kann auf die Weise falsch sein, in der Instrumente falsch sind: zu kooperativ, zu flüssig, zu schnell bereit, einen Hinweis anzunehmen.
+[[simulating-students|Simulierte Studierende]] zu erzeugen, statt echte zu rekrutieren, macht Evaluation erheblich billiger. Eine simulierte Studierende ist aber auch ein Messinstrument, und sie kann auf die Weise falsch sein, in der Instrumente falsch sind: zu kooperativ, zu flüssig, zu schnell bereit, einen Hinweis anzunehmen.
 
 Der direkteste Test in der Wissensbasis verglich simulierte und gepromptete Studierende gegen **382 zurückgehaltene Dialoge** aus der größten öffentlichen Sammlung echter Mathematik-Dialoge zwischen Studierenden und Tutor, mit sieben Maßen zu Sprache, Verhalten und Denken ([[simulated-students-tutoring-dialogues-2026]]). Andere Arbeiten drängen aus unterschiedlichen Richtungen auf Realismus: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] trainiert Modelle darauf, sowohl wie Studierende zu handeln als auch zu denken, und verlaufsbewusste Profile konditionieren die Simulation auf die Vergangenheit einer Studierenden statt auf eine feste Persona ([[history-aware-student-simulation]]).
 

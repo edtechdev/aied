@@ -8,7 +8,7 @@ assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
 source_updated: "2026-10-27T10:05:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -52,7 +52,6 @@ Während Knowledge Tracing typischerweise einen skalaren Beherrschungswert über
 - **Sprachverankerte Diagnose anstelle von ID-Embeddings.** [[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]] ersetzen diskrete Studierenden-, Aufgaben- und Konzeptidentifikatoren durch LLM-erstellte Konzeptschemata und prozessverankerte Belege und kalibrieren den posterioren Zustand jeder Person aus Antwortdatensätzen. Über drei [[math-education|Mathematik]]-[[online-teaching-and-learning|Plattform]]-Datensätze hinweg erreicht das Framework 83.51% ACC / 85.37% AUC auf XES3G5M und 87.16% ACC auf MOOC, wobei der Zugewinn genau dort konzentriert ist, wo klassische kognitive Diagnosemodelle degradieren: neue Konzepte (+4.60 ACC gegenüber KCD) und fehlende Q-Matrix-Einträge (+4.52). Das Abtragen der strukturierten Belege lässt die MOOC-Genauigkeit von 87.16% auf 78.95% fallen, sodass die Verbesserung von der sprachabgeleiteten Struktur kommt und nicht von der Modellskala. ([[process-grounded-language-cognitive-diagnosis-2026]])
 - **Kulturell eingebettete Aufgaben können der KI-Analyse vorausgehen.** [[culturally-embedded-ai-diagnostic-assessment-2026|Anggara et al. (2026)]] ließen 178 Schülerinnen und Schüler der Sekundarstufe in Indonesien kulturell kontextualisierte offene Aufgaben bearbeiten, bevor die KI-Antwortanalyse erfolgte; die KI-Diagnosen stimmten mit der Expertinnen- und Expertenbewertung überein (ICC = 0,81), während kulturelle Einbettung mit symbolischer mathematischer Leistung (β = 0,42) und Engagement (β = 0,37) assoziiert war.
 - **Strategiekonfiguration lässt sich diagnostizieren, nicht nur der Wissenszustand.** Fünf Dimensionen, geschätzt aus 36.234 Grammatikspiel-Aktionen, sagten den nächsten Erfolg mit AUC 0.826 vorher, während aktuelle Fehlerzahlen ausgeschlossen blieben, und variierten innerhalb von Studierenden (ICC = 0.14) statt zwischen ihnen ([[configuration-aware-diagnostic-adaptive-scaffolding-2026|Geoffre et al. (2026)]]).
-
 
 ## Warum das wichtig ist
 

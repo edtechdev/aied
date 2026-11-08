@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Inklusives Lernen
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,8 +10,8 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-10-25T17:35:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T16:51:25-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -35,7 +35,7 @@ ai_assist:
 - Eine Studie fand, dass KI-segmentierte Videos mit festen Pausen die Leistungslücke zwischen ADHS- und Nicht-ADHS-Lernenden beseitigten. Wie könnte das Gestalten für die Bedürfnisse einer Gruppe das Lernen für alle verbessern?
 - KI-Systeme laufen Gefahr, neue Zugänglichkeitslücken zu erzeugen, selbst während sie alte beseitigen. Welche Art von Lernenden könnte ein textbasiertes, visuelles, stets online verfügbares KI-Werkzeug stillschweigend ausschließen?
 - Forschung zum inklusiven Assessment legt eine Spannung zwischen Maßnahmen gegen Betrug und der Aufnahme von Lernenden mit Bedürfnissen der visuellen Verarbeitung offen. Wenn Sicherheit und Zugänglichkeit in Konflikt geraten, wie sollte der Trade-off entschieden werden — und von wem?
-- Mehrere Werkzeuge kehren die Annahme um, dass [[edtech-platform|Edtech]] visuell sein muss — z. B. sprachorientierte Begleiter für sehbehinderte Lernende. Welche Annahmen über die „Standard“-Lernende könnten Ihre eigenen Werkzeuge oder Materialien machen?
+- Mehrere Werkzeuge kehren die Annahme um, dass [[edtech-platform|Edtech]] visuell sein muss — z. B. [[speech-and-voice-technologies|sprachorientierte]] Begleiter für sehbehinderte Lernende. Welche Annahmen über die „Standard“-Lernende könnten Ihre eigenen Werkzeuge oder Materialien machen?
 
 ## Einführung
 
@@ -47,7 +47,7 @@ Inklusives Lernen ist das **Dach**-Konzept; die Seiten unten sitzen darin, jede 
 
 | Konzept | Kernfrage, die sie beantwortet | Typischer Fokus |
 |---|---|---|
-| **Inklusives Lernen** *(diese Seite)* | Wie gestalten wir Bildung, damit alle Lernenden bedeutungsvoll teilnehmen können? | Das breite Design der Instruktion über Variabilität der Lernenden hinweg |
+| **Inklusives Lernen** *(diese Seite)* | Wie [[design-education|gestalten wir Bildung]], damit alle Lernenden bedeutungsvoll teilnehmen können? | Das breite Design der Instruktion über Variabilität der Lernenden hinweg |
 | **[[accessibility]]** | Kann jeder das *Format/Medium* wahrnehmen und bedienen? | Untertitel, Alternativtext, Transkripte, Kontrast, Tastatur-/Screenreader-Kompatibilität, WCAG |
 | **[[assistive-technology]]** | Welche Werkzeuge/Geräte überbrücken die Zugangslücke einer Einzelperson? | Screenreader, TTS/STT, Braille/taktil, Untertitelung, KI-Aufnahmen |
 | **[[special-education]]** | Wie führen wir Instruktion an Lernende mit diagnostizierten Behinderungen durch? | IEPs, individualisierte Aufnahmen, behinderungsspezifisches Tutoring — **primär ein [[k-12]]-Begriff (IDEA/Anspruch)** |
@@ -71,7 +71,7 @@ Gleichungsreiches Video kann zugänglich gemacht statt manuell transkribiert wer
 
 **[[cognitive-offloading|Kognitives Auslagern]] und der Zugang-versus-Entwicklung-Trade-off.** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]] zeigen, dass für Studierende mit Lernbehinderungen dieselbe GenAI, die Barrieren für Zugang zu Lesen und Schreiben senkt (Textnivellierung, Zusammenfassen, Entwurfsunterstützung), ungeschützt die Übung von Verständnis, Planung und Monitoring ersetzen kann, die diese Lernenden am meisten brauchen — eine Gerechtigkeitsspannung, die für inklusives Lernen zentral ist. Inklusives Design muss daher bedenken, nicht nur ob ein Werkzeug *zugänglich* ist, sondern ob es die Gelegenheit der Lernenden bewahrt, genau die Fähigkeiten zu entwickeln, die der Zugang ermöglichen soll.
 
-**KI für Legasthenie: Erkennung, Unterstützung und [[personalized-learning|personalisiertes Lernen]].** Ein [[meta-analysis-systematic-review|systematisches Review]] aus dem Jahr 2026 von mehreren Disziplinen (Dabaghi, D'Urso & Sciarrone, PRISMA-geleitet, 2018–2024, n=72) findet KI, die Studierende mit Legasthenie über Erkennung, assistive Unterstützung und personalisiertes Lernen unterstützt — aber mit diesen Strängen, die eher parallel laufen als integriert, getrieben mehr von technologischer Gelegenheit als von konsolidierter Bildungstheorie. ML-basierte Hilfe-Bildungs-Werkzeuge überspannen fünf Bereiche (spezifische Anwendungen, Engagement, Personalisierung, Empfehlung, generische Unterstützung), betonen aber technische Leistung und Klassifikationsgenauigkeit, während sie ökologische Validität und praktischen Einsatz im Klassenzimmer übersehen. Erkennungsforschung (EEG, Blickbewegungsmessung, ML-Modelle) zeigt diagnostisches Versprechen für frühe Intervention, erfordert aber oft spezialisierte Ausrüstung und kontrollierte Umgebungen, was Skalierbarkeit und Zugänglichkeit in typischen Schulumgebungen einschränkt. Offene Herausforderungen sind begrenzte experimentelle Validierung, Skalierbarkeit, [[ethics]]/Datenschutzbedenken bei sensiblen Studierendendaten, begrenzte [[teacher-role|Lehrkraft]]-Unterstützung und -Training sowie Sprach-/Kulturbarrieren (die meiste Forschung zielt auf englischsprachige Populationen) — was unterstreicht, dass inklusives Lernen technische Fähigkeit mit validiertem, skalierbarem und ethisch geerdetem Einsatz paaren muss.
+**Legasthenie-Unterstützung: Erkennung, Begleitung und [[personalized-learning|Personalisierung]].** Ein [[meta-analysis-systematic-review|systematisches Review]] aus dem Jahr 2026 von mehreren Disziplinen (Dabaghi, D'Urso & Sciarrone, PRISMA-geleitet, 2018–2024, n=72) findet KI, die Studierende mit Legasthenie über Erkennung, assistive Unterstützung und personalisiertes Lernen unterstützt — aber mit diesen Strängen, die eher parallel laufen als integriert, getrieben mehr von technologischer Gelegenheit als von konsolidierter Bildungstheorie. ML-basierte Hilfe-Bildungs-Werkzeuge überspannen fünf Bereiche (spezifische Anwendungen, [[student-engagement|Engagement]], Personalisierung, Empfehlung, generische Unterstützung), betonen aber technische Leistung und Klassifikationsgenauigkeit, während sie ökologische Validität und praktischen Einsatz im Klassenzimmer übersehen. Erkennungsforschung ([[sensor-and-gaze-analytics|EEG]], Blickbewegungsmessung, ML-Modelle) zeigt diagnostisches Versprechen für frühe Intervention, erfordert aber oft spezialisierte Ausrüstung und kontrollierte Umgebungen, was Skalierbarkeit und Zugänglichkeit in typischen Schulumgebungen einschränkt. Offene Herausforderungen sind begrenzte experimentelle Validierung, Skalierbarkeit, [[ethics]]/Datenschutzbedenken bei sensiblen Studierendendaten, begrenzte [[teacher-role|Lehrkraft]]-Unterstützung und -Training sowie Sprach-/Kulturbarrieren (die meiste Forschung zielt auf englischsprachige Populationen) — was unterstreicht, dass inklusives Lernen technische Fähigkeit mit validiertem, skalierbarem und ethisch geerdetem Einsatz paaren muss.
 
 **Behindertenzentrierte KI-Kritik** untersucht, wie KI-Systeme marginalisieren statt einbeziehen können. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** argumentiert, [[generative-ai|generative KI]]-Systeme in der Hochschulbildung marginalisierten behindertenzentrierte Arten des Wissens aktiv aufgrund anglophoner, westlich-zentrierter Trainingsdaten — verbunden mit Sorgen um [[equity-in-ai-education]] in Bezug auf epistemische Gerechtigkeit.
 
@@ -99,7 +99,7 @@ Inklusives Lernen ist tief mit [[equity-in-ai-education]] verbunden — Zugängl
 
 **„Assistive Technologie zu liefern liefert Handlungsfähigkeit."** Beides ist verschieden, und die Rahmung dieser Seite sagt es selbst: Assistive Technologie garantiert keine bedeutsame Handlungsfähigkeit. Ein Werkzeug, das eine lernende Person die geforderte Aufgabe erledigen lässt, kann sie auch zur engsten Version davon leiten, und der Unterschied zwischen einem Gerüst und einer Decke ist in einer Übernahmekennzahl unsichtbar.
 
-**„Studierende, die Schwierigkeiten haben, sollten einfach besser prompten lernen."** Das verwandelt einen Systemdefekt in ein Lernendendefizit. Bei festgehaltener zugrunde liegender Aufgabe stieg die Modellgenauigkeit nur von **82,4 % bei Formulierung für geringe Schriftlichkeit auf 83,4 % bei Expertenformulierung** — ein Unterschied von einem Punkt —, während das Verlangen nach besserem Prompting einen neuen Ausschluss auf den bestehenden legt. Der Hebel liegt im systemseitigen Umgang mit Sprachvariation, nicht in nachholendem Prompt-Training.
+**„Studierende, die Schwierigkeiten haben, sollten einfach besser prompten lernen."** Das verwandelt einen Systemdefekt in ein Lernendendefizit. Bei festgehaltener zugrunde liegender Aufgabe stieg die Modellgenauigkeit nur von **82,4 % bei Formulierung für geringe Schriftlichkeit auf 83,4 % bei Expertenformulierung** — ein Unterschied von einem Punkt —, während das Verlangen nach besserem [[prompt-engineering|Prompting]] einen neuen Ausschluss auf den bestehenden legt. Der Hebel liegt im systemseitigen Umgang mit Sprachvariation, nicht in nachholendem Prompt-Training.
 
 **„Ein Werkzeug, das für gut ausgestattete Klassenräume gebaut wurde, dient ressourcenarmen Kontexten, sobald es übersetzt ist."** Der Kontext verändert die Designrandbedingung. [[suacode-african-students-motivations|SuaCode]] erreichte Studierende in ressourcenarmen afrikanischen Kontexten, wo **weniger als 1 % Programmierfähigkeiten haben**, indem es für Smartphones statt für Desktop-Labormaschinen baute — ein anderes Design, nicht eine kleinere Version desselben.
 

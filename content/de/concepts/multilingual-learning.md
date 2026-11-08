@@ -2,15 +2,15 @@
 connected_resources: [mglearn]
 title: Mehrsprachiges Lernen
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-10-26T07:55:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -32,7 +32,7 @@ ai_assist:
 - Die meisten KI-Modelle werden vorrangig an ressourcenstarken Sprachen wie Englisch trainiert. Wenn Sie in einer anderen Sprache denken, lernen oder geprüft werden: Wie könnte Sie das systematisch benachteiligen — selbst wenn das Werkzeug auf Englisch zu „funktionieren“ scheint?
 - Die Seite warnt, dass unthematisierte monolinguale Voreingenommenheit in der KI die digitale Kluft vertieft und Gerechtigkeit untergräbt, besonders im Globalen Süden. Was erfordert echte Gerechtigkeit über die bloße Übersetzung von KI-Inhalten in eine andere Sprache hinaus?
 - Automatisiertes Assessment kann Sprachbias zeigen und dabei Nicht-Muttersprachlerinnen und Nicht-Muttersprachler selbst bei derselben Schlussfolgerung bestrafen. Wenn Sie KI-Bewertung einführen würden: Was würden Sie prüfen, um Fairness über Sprachen hinweg sicherzustellen statt bloß Genauigkeit in einer?
-- Die Seite zeigt, dass ressourcenarme Sprachen durch Feinjustierung von Modellen an kuratierten Korpora bedient werden können, sogar unter praktischen Hardware-Einschränkungen. Welche Kompromisse würden Sie zwischen Effizienz und der Treue erwarten, mit der das Modell eine ressourcenarme Sprache handhabt?
+- Die Seite zeigt, dass ressourcenarme Sprachen durch [[llm-training-and-fine-tuning|Feinjustierung]] von Modellen an kuratierten Korpora bedient werden können, sogar unter praktischen Hardware-Einschränkungen. Welche Kompromisse würden Sie zwischen Effizienz und der Treue erwarten, mit der das Modell eine ressourcenarme Sprache handhabt?
 - Mehrsprachige KI muss über Übersetzung hinausgehen und kulturell relevante Pädagogik abbilden — Inhalte, die sprachlich *und* kontextuell angemessen sind. Wie könnte ein perfekt übersetzter Inhalt eine lernende Person dennoch scheitern lassen, wenn er lokalen Kontext und Kultur ignoriert?
 
 ## Einführung
@@ -47,13 +47,13 @@ Mehrsprachiges Lernen ist eine zentrale Gerechtigkeitsdimension von [[ai-educati
 
 - **Feinjustierung für ressourcenarme Sprachen:** Nwogo et al. (2026) [[multilingual-adaptive-learning-nigeria-2026|justierten ein instruction-justiertes LLM an einem kuratierten Nigerian-Pidgin-Korpus]] innerhalb einer [[adaptive-learning]]-Plattform fein und analysierten systematisch die Quantisierungskompromisse (4/5/8-Bit) zwischen semantischer Treue und Recheneffizienz — und zeigten damit, dass ressourcenarme Sprachen unter praktischen Hardware-Einschränkungen bedient werden können. Siehe auch den [[bilingual-llm-lecture-companion-srl-2026|bilingualen LLM-Vorlesungsbegleiter]] für [[self-regulated-learning|selbstreguliertes Lernen]].
 - **Korpus- und Datengerechtigkeit:** Der Aufbau kuratierter Korpora (z. B. Nigerian Pidgin, indische Wissenssysteme über [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]]) ist eine wiederkehrende Strategie, Modellausgaben in der eigenen Sprache der Lernenden zu ermöglichen.
-- **Sprachdominierte und mündliche Kontexte:** [[kutti-ai-voice-first-learning-companion|Sprachdominierte Begleiter]] und [[structural-silence-underrepresented-language-ai-2026|Analysen strukturellen Schweigens]] behandeln Kontexte, in denen textbasierte KI Sprechern unterrepräsentierter Sprachen versagt.
+- **[[speech-and-voice-technologies|Sprachdominierte]] und mündliche Kontexte:** [[kutti-ai-voice-first-learning-companion|Sprachdominierte Begleiter]] und [[structural-silence-underrepresented-language-ai-2026|Analysen strukturellen Schweigens]] behandeln Kontexte, in denen textbasierte KI Sprechern unterrepräsentierter Sprachen versagt.
 
 ## Gerechtigkeit und Pädagogik
 
 Mehrsprachige KI muss über Übersetzung hinausgehen und [[culturally-relevant-pedagogy|kulturell relevante Pädagogik]] abbilden — Inhalte erzeugen, die sprachlich und kontextuell angemessen sind. Studien zu [[llm-cultural-relevance-k12|LLM-Kulturrelevanz in K-12]] und [[scaffolding-critical-engagement-genai-minority-students|kritischer Auseinandersetzung mit GenAI unter Studierenden mit Minderheitenhintergrund]] zeigen, dass sprachliche und kulturelle Passung darüber entscheidet, ob Lernende tatsächlich profitieren. Unbehandelt vertieft monolinguale Voreingenommenheit in der KI die [[digital-divide]] und untergräbt [[equity-in-ai-education|Gerechtigkeit]] im [[global-south|Globalen Süden]].
 
-Translanguaging ist ein Angebot, das generative Chatbots hinzufügen und das frühere Sprachwerkzeuge nicht hatten. In einem systematischen Review von 24 Studien forderten Lernende kontextualisierte Phrasen und Erklärungen in ihrer eigenen Sprache als Brücke in die Zielsprache an — eine Nutzung, die die Rezensentinnen und Rezensenten als neue Teil-Angebotsform einstufen statt als umgepackte bestehende ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+Translanguaging ist ein Angebot, das generative [[conversational-ai|Chatbots]] hinzufügen und das frühere Sprachwerkzeuge nicht hatten. In einem [[meta-analysis-systematic-review|systematischen Review]] von 24 Studien forderten Lernende kontextualisierte Phrasen und Erklärungen in ihrer eigenen Sprache als Brücke in die Zielsprache an — eine Nutzung, die die Rezensentinnen und Rezensenten als neue Teil-Angebotsform einstufen statt als umgepackte bestehende ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
 ## Bias im Assessment
 
@@ -71,7 +71,7 @@ LLM-basiertes komparatives Urteilen ist ein Fall, in dem der Bias dem menschlich
 
 ## Verbreitete Fehlvorstellungen
 
-- **„Die Zielsprache sollte vom ersten Tag an dominieren."** In einem **systematischen Review von 24 Studien** forderten Lernende **kontextualisierte Phrasen und Erklärungen in ihrer eigenen Sprache als Brücke in die Zielsprache** an — eine Nutzung, die die Rezensentinnen und Rezensenten als echte neue Teil-Angebotsform einstufen statt als Behelf. Herkunftssprachliche Unterstützung funktionierte als Gerüst, nicht als Vermeidung.
+- **„Die Zielsprache sollte vom ersten Tag an dominieren."** In einem **systematischen Review von 24 Studien** forderten Lernende **kontextualisierte Phrasen und Erklärungen in ihrer eigenen Sprache als Brücke in die Zielsprache** an — eine Nutzung, die die Rezensentinnen und Rezensenten als echte neue Teil-Angebotsform einstufen statt als Behelf. Herkunftssprachliche Unterstützung funktionierte als [[scaffolding|Gerüst]], nicht als Vermeidung.
 - **„KI-Sprachassessment ist gegenüber mehrsprachigen Schreibenden voreingenommen."** Hier folgte der Bias der **menschlichen Baseline statt dem Modell**: LLM-basiertes komparatives Urteilen zu **informationsorientiertem Schreiben der Klassenstufen 3–6 konvergierte mit den Rubriken der Forschenden (r = .59–.73)** und zeigte dasselbe Muster wie die menschlichen Bewertenden. Das ist kein Beleg für Fairness in absoluten Begriffen — es ist ein Beleg dafür, dass das Modell keine neue Verzerrung auf die bestehende legte.
 - **„Die Übersetzungsqualität der Ausgabe ist der nützliche Teil."** Die Brückennutzung ist erklärend und situiert, nicht substitutiv. Ein Werkzeug, das die eigene Produktion der lernenden Person ersetzt, entfernt die Übung, die die Brücke ermöglichen sollte.
 

@@ -1,7 +1,7 @@
 ---
 title: Forschungsmethoden in der AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,8 +12,8 @@ confidence: high
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-26T13:35:09-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-01T11:00:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -189,6 +189,7 @@ Ein eigener methodischer Strang –, [[usability-research|Usability- und HCI-For
 In der Praxis fällt Forschung zu KI in der Bildung selten saufig in eine Tradition. Die stärkste Evidenz trianguliert: Eine rechnerische oder Usability-Evaluation etabliert, dass ein System funktioniert, ein Experiment etabliert, dass es Lernen verursacht, quantitative Instrumente messen die Konstrukte, und qualitative Arbeit legt die Mechanismen und Bedeutungen offen –, und beantwortet zusammen sowohl *ob* ein Werkzeug Lernen hilft als auch *wie und warum*.
 
 [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] ergänzt einen bibliometrischen Strang, der sich von diesen vier abhebt: 407 Datensätze über Co-Word- und Co-Autorenschaftsnetzwerke zu kartieren, um die konzeptuelle Entwicklung eines Feldes nachzuzeichnen. Der Autor ist ausdrücklich, dass die darauf aufgebaute SWOT-Lesart ein interpretatives Instrument ist und keine unabhängige Analysetechnik, was die Grenze zwischen Synthese und Analyse in dieser Tradition markiert.
+- **„Eine Statistik ist vertrauenswürdig, sobald sie berechnet ist.“** Der Benchmark prüft zuerst die Prüfung. Jede Probe und jedes Urteil außer sechs benannten Statistik-Sets wurde an simulierten Bewertenden mit einem eingepflanzten Effekt und ohne einen solchen ausgeführt, und ein Maß, dessen Prüfung den eingepflanzten Effekt nicht fand, wurde als ungemessen statt als Ergebnis berichtet. Seine Berichte werden aus ihrem eigenen Markdown und Code erzeugt, sodass jede gedruckte Zahl mit der Datei und dem Feld verknüpft ist, aus dem sie stammt, und beim Build neu berechnet wird. [[porcaro-ai-grading-benchmark-2026|Ein Verdikt ist eine Designentscheidung, die getestet werden kann]], bevor ein echtes Ergebnis gelesen wird.
 
 ## Verbreitete Fehlvorstellungen
 
@@ -248,3 +249,6 @@ In der Praxis fällt Forschung zu KI in der Bildung selten saufig in eine Tradit
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-Meta-Analyse des KI-Effekts auf Lernen
 - [[oneill-presumed-effective-meta-analysis-2026]] — Vermutlich wirksam: fehlerhafter AIED-Meta-Analyse-Audit
 - [[synthetic-educational-data-structural-fidelity-2026]] — Was Fidelitätsmetriken übersehen: Eine strukturelle Prüfung synthetischer Bildungsdaten
+
+- [[porcaro-ai-grading-benchmark-2026]] — Jenseits der Übereinstimmung: Proben mit bekannter richtiger Antwort, Prüfungen mit eingepflanztem Effekt an simulierten Bewertenden und 22 gepromptete Modelle (Porcaro 2026)
+

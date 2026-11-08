@@ -1,7 +1,7 @@
 ---
 title: Unterschiedliche Effekte zwischen Gruppen von Lernenden
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -11,10 +11,10 @@ research_method: [quasi-experiment, survey]
 audience: [instructors, instructional designers, administrators, researchers, learners]
 page_kind: [evaluation, synthesis]
 confidence: medium
-connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
+connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-26T10:50:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-06T03:00:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -54,6 +54,8 @@ Sie ist absichtlich keine Dublette ihrer Nachbarseiten. [[equity-in-ai-education
 
 **Demografische Attribute werden meist simuliert.** Echte Demografien der Lernenden werden selten an Modelleingaben angehängt, daher liefern Audits stattdessen Personas. [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto und Hovy (2026)]] fuhren sechs instruktionsabgestimmte Modelle über drei Bildungsaufgaben unter den Bedingungen Modell-Default, explizite Persona und implizite Historie — 192.480 Inferenzaufrufe — und fanden, dass sowohl explizite Personas als auch *implizite* Gesprächshistorien das Modellverhalten bewegen. Ihre Unterscheidung lohnt zu behalten: Bewusstsein für Unterschiede zwischen Lernenden kann wünschenswert sein (Feedback an die Erstsprache einer lernenden Person anzupassen), während dieselbe Sensitivität ein Schaden ist, wenn sie das Urteil über identische Arbeit verschiebt.
 
+**Audits an echten Lernenden existieren, und sie können intersektionale Aussagen stützen.** [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar et al. (2026)]] analysierten zwei Jahre MATHia-Logs von 8.549 Studierenden und fanden Belege, die Audits mit simulierten Personas nicht liefern können: eine Basisratenlücke bei aufstrebenden Lesenden von ,1007 innerhalb weiblicher Studierender 2021–2022, Unterschiede bis ,0926 innerhalb hispanischer Studierender 2022–2023, und 8 von 12 Statistiken zu Rasse mal Lesegruppe signifikant unter nicht-aufstrebenden Lesenden gegenüber nur 1 von 12 unter aufstrebenden Lesenden.
+
 **Fairness-Korrekturen generalisieren womöglich nicht.** [[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]] reduzierten geschlechts- und altersspezifische Fehlerlücken bei der Schätzung studentischer Aufmerksamkeit an [[assessment-validity|Validierungs]]daten, aber die Zugewinne übertrugen sich nicht konsistent auf zurückgehaltene Subjekte oder wiederholte Subjekt-Splits.
 
 **Gruppenlabels verbergen die Variation in ihnen.** In derselben Metaanalyse zu Behinderung zeigten Studierende mit spezifischen Lernbehinderungen, intellektuellen und Entwicklungsbehinderungen oder Taubheit einen größeren Effekt (g = 0.952) als Studierende mit Autismus-Spektrum-Störung (g = 0.368) — ein Unterschied, den die Autoren als statistisch nicht signifikant über 239 Effektstärken aus 41 unabhängigen Stichproben berichten. „Behinderung“ ist nicht eine Gruppe, und „L2-Lernende“ auch nicht.
@@ -67,6 +69,8 @@ Dies ist der tiefste Strang in der Wissensbasis und der, in dem die Berichtersta
 - **Manche KI-Unterstützungen egalisieren eher, als dass sie differenzieren.** [[adhd-video-segmentation-computing-education|Pimenova, Begel und Kollegen]] segmentierten [[video-education|Unterrichtsvideos]] in Einzelanweisungs-Häppchen mit festen Pausen in einer Within-Participants-Studie (17 ADHS, 10 ohne ADHS); alle verbesserten sich, und die Fehler und Zögern der ADHS-Teilnehmenden fielen zur Parität mit ihren Peers ohne ADHS. Das ist die stärkste verfügbare Form von Belegen für [[universal-design-for-learning|Universal Design for Learning]] durch automatisierte Inhaltstransformation: eine allgemeine Veränderung, die eine Lücke schließt, statt einer gruppenspezifischen Nachbesserung.
 - **Was neurodivergente Studierende sagen, dass sie brauchen, ist oft banal.** [[neurodivergent-computing-students|Eine Befragung von 24 neurodivergenten Informatikstudierenden und 20 neurotypischen Peers]], mit vier Interviews, fand erhebliches Unbehagen mit Aufgaben, denen klare Struktur fehlt oder die mehrdeutige Erwartungen tragen — eine Anpassung, die nichts kostet, sie bereitzustellen.
 - **Designentscheidungen können auch epistemisch ausschließen.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] argumentiert, dass anglophone, westlich-zentrierte Trainingsdaten nicht-hegemoniale Wege des Wissens marginalisieren und die Situation behinderter Lernender ins Zentrum dieser Kritik stellen.
+
+- **„Bei gleicher menschlicher Note behandelt ein Bewerter identifizierte und nicht identifizierte Studierende gleich."** Über **3.000** exakt auf die adjudizierte Note abgeglichene ASAP-2.0-Aufsätze bewertete **jedes der 22 Modelle** die Gruppe mit Behinderungsangabe niedriger, von **−0,086** bis **−0,429** auf einer Sechs-Punkte-Skala, und **20** lasen GAP REPLICATES. Konventionsfehler und Länge erklärten höchstens ein Fünftel davon bei **17 von 20** Modellen, und weil ASAP 2.0 eine Note veröffentlicht, kann das Design eine vom menschlichen Panel geteilte Verzerrung nicht von einer von den Modellen geteilten trennen ([[porcaro-ai-grading-benchmark-2026|die Lesart ist SHARED GAP, nicht Modellbias]]).
 
 ## Sprache: Zweitsprache, Mehrsprachigkeit und Englischlernende
 
@@ -114,12 +118,14 @@ Der fachliche Hintergrund ist eine Differenzachse, die die gruppenweise Karte di
 Der ehrliche Befund dieser Übersicht ist, wie dünn manche Gruppen sind. Jede davon ist eine echte Lücke in der Evidenzbasis, keine Lücke auf dieser Seite.
 
 - **Studierende der ersten Generation:** eine Studie berichtet einen Nutzungsunterschied statt einen Effekt. In [[student-ai-inquiry-types-cs2-2026|einer CS2-Anfragestudie]] behandelten Studierende der weiterführenden Generation die KI als aktive [[problem-solving|Problemlöse]]-Partnerin, während Studierende der ersten Generation eine bestätigende, validierungsorientierte Rolle einnahmen und insgesamt weniger Fragen stellten.
-- **Studierende der ersten Generation: die erste Effektschätzung, und sie läuft in die falsche Richtung.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]s [[rct|randomisierte Studie]] eines kursintegrierten [[intelligent-tutoring|KI-Tutors]] liefert, was dem Eintrag oben fehlt — einen gemessenen Unterschied statt ein Nutzungsmuster. In der vollen Stichprobe war der Effekt des Tutorzugangs auf die Abschlussnoten für Studierende der ersten Generation um 2.87 Punkte (0.28 SDs) negativer, was −5.10 Punkte (−0.50 SDs) für sie gegenüber −2.23 Punkten (−0.22 SDs) für ihre Peers impliziert; der Unterschied war in der Exakt-Match-Stichprobe größer (−3.89 Punkte, −0.35 SDs), und Studierende der ersten Generation verloren auch mehr Hausaufgabpunkte und Plattform-Seitenaufrufe. Die Studie berichtet keinen Mechanismus und ihre Präzision variiert nach Ergebnis, aber die Richtung ist das Gegenteil der Lücke-schließenden Geschichte: die Studierenden mit dem geringsten früheren Zugang zu akademischer Unterstützung trugen die größte gemessene Kostenlast.
+- **Studierende der ersten Generation: die erste Effektschätzung, und sie läuft in die falsche Richtung.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]s [[rct|randomisierte Studie]] eines kursintegrierten [[intelligent-tutoring|KI-Tutors]] liefert, was dem Eintrag oben fehlt — einen gemessenen Unterschied statt ein Nutzungsmuster. In der vollen Stichprobe war der Effekt des Tutorzugangs auf die Abschlussnoten für Studierende der ersten Generation um 2.87 Punkte (0.28 SDs) negativer, was −5.10 Punkte (−0.50 SDs) für sie gegenüber −2.23 Punkten (−0.22 SDs) für ihre Peers impliziert; der Unterschied war in der Exakt-Match-Stichprobe größer (−3.89 Punkte, −0.35 SDs), und Studierende der ersten Generation verloren auch mehr Hausaufgabpunkte und Plattform-Seitenaufrufe. Die Studie berichtet keinen Mechanismus und ihre Präzision variiert nach Ergebnis, aber die Richtung ist das Gegenteil der Lücke-schließenden Geschichte: die Studierenden mit dem geringsten früheren Zugang zu [[student-support-and-success|akademischer Unterstützung]] trugen die größte gemessene Kostenlast.
 - **Internationale Studierende:** eine [[mixed-methods-research|Mixed-Methods]]-Studie (Befragung n = 60, Interviews n = 14) zu [[international-students-conversational-ai-adaptation|Unterstützung bei kultureller Anpassung]].
 - **Internationale Studierende: ein gemessenes Engagementmuster, keine Effektschätzung.** Über 270 minoritäre ethnische internationale Studierende in sieben britischen [[business-education|Business Schools]] war berichtete [[generative-ai]]-Nutzung positiv mit allen vier [[student-engagement|Engagement]]-Strängen assoziiert — am stärksten mit agentischem Engagement (β = 0,429) —, wobei erleichternde Bedingungen (β = 0,369) der stärkste Prädiktor der Nutzungsabsicht waren ([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]).
 - **Begabte und leistungsstarke Studierende:** als Gruppe in diesem Korpus praktisch unerforscht.
 - **Geflüchtete, migrantische und vertriebene Lernende:** keine Studien.
 - **Geschlecht wird in den meisten der obigen Arbeiten noch binär analysiert**, und Behinderungskategorien variieren zwischen Studien, sodass studienübergreifender Vergleich „derselben“ Gruppe Grenzen hat.
+
+- **„Lernendenkontext macht einen Bewerter fairer."** Eine Ablation an **3.000** Aufsätzen, die von zwei Modellen benotet wurden, fand die Lücke zwischen hohem und niedrigem Label für jede testbare Gruppe gleich, jede Differenz innerhalb von **0,045** einer Stufe. Bei Qwen nahm das niedrige Label bei Englischlernenden, wirtschaftlich benachteiligten und behinderungsidentifizierten Studierenden weiterhin **0,06 bis 0,08 Punkte** mehr weg als bei ihren Peers. Ohne Label benoteten beide Modelle die letzten beiden Gruppen weiterhin unter ihren Peers bei gleicher menschlicher Punktzahl. [[porcaro-ai-grader-reliability-2026|Eine Akte, die falsch sein kann, verschiebt Noten, und sie verschiebt am härtesten bei denen, die bereits unterschätzt werden]].
 
 ## Diese Belege nutzen, ohne ein Gruppenlabel zu überanpassen
 
@@ -128,6 +134,7 @@ Der ehrliche Befund dieser Übersicht ist, wie dünn manche Gruppen sind. Jede d
 - **Egalisierende Designs bevorzugen, wo die Belege es erlauben.** Das ADHS-Videosegmentierungs-Ergebnis — alle verbessern sich, die Lücke schließt sich — ist ein besser passendes Ziel für ein allgemeines Klassenzimmer als ein gruppenspezifisches Add-on.
 - **Vorsichtig sein mit Personalisierung, die demografische Attribute konsumiert.** Der [[marked-pedagogies-linguistic-bias-writing-feedback|Marked-Pedagogies]]-Befund handelt direkt von diesem Mechanismus, und er gilt für [[well-being|Wohlbefindens]]-Check-ins, [[affective-computing|affektive Tutoren]] und [[recommender-systems-and-learning-paths|Empfehlungssysteme]], die Lernende profilieren.
 - **Lokal testen, an der Gruppe, die Ihnen wichtig ist, mit einem Ergebnis, das ohne das Werkzeug gemessen wird.** Siehe [[interpreting-and-applying-aied-research|Interpretation und Anwendung von AIEd-Forschung]] für die Bewertungsgewohnheiten und [[research-methods-aied|Forschungsmethoden in der KI-Bildung]] für die Designs, die einen lokalen Test vertretbar machen.
+- **Die Gruppierungsvariable mit der direktesten Prozessevidenz ist wissensbasiert, nicht demografisch.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] matchten Gruppen nach [[prior-knowledge|Vorwissen]] (U = 293,50, p = 0,515) und fanden dennoch, dass die Art des Schlussfolgerns der Lernenden prägte, was geschah. Acht Gruppen mit unterschiedlichen und sechs mit ähnlichen Vorkonzeptionen stellten dieselben Arten von Fragen, doch die KI diente in den diversen Gruppen als Integrationsknoten und lag in den ähnlichen auf einem linearen Pfad, mit entgegengesetzter anhaltender Evaluation. Das ruht auf vierzehn Gruppen in einer 60-minütigen Aufgabe, sodass es als Hypothese darüber zu behandeln ist, wie Sie Gruppen zusammensetzen, nicht als Regel.
 
 ## Verbreitete Fehlvorstellungen
 
@@ -179,3 +186,6 @@ Der ehrliche Befund dieser Übersicht ist, wie dünn manche Gruppen sind. Jede d
 - [[international-students-conversational-ai-adaptation]] — Die einzige internationale Studierenden-Studie des Korpus
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Die erste Effektschätzung des Korpus für Studierende der ersten Generation: Tutorzugang kostete sie 0.50 SDs der Abschlussnote gegenüber 0.22 für ihre Peers (Liu et al. 2026)
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Bewertung von Post-hoc-Fairness-Interventionen in Anbietergesteuerten Frühwarnsystemen
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Eine wissensbasierte Gruppierungsvariable mit direkter Prozessevidenz: nach Vorwissen gematchte Gruppen, die sich in der Vielfalt ihrer Vorkonzeptionen unterschieden, nahmen dieselbe KI unterschiedlich auf (Wang et al. 2026)
+- [[porcaro-ai-grading-benchmark-2026]] — Jenseits von Übereinstimmung: 22 gepromptete Bewerter treffen Sonden mit bekannter richtiger Antwort, und die meisten lassen sich überreden (Porcaro 2026)
+- [[porcaro-ai-grader-reliability-2026]] — Lernendenkontext verändert die Noten eines LLM-Bewerters bei identischer Arbeit, und Übereinstimmung mit der Lehrkraft registriert das nicht (Porcaro 2026, Paper VI)

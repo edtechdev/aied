@@ -1,7 +1,7 @@
 ---
 title: Randomisierte kontrollierte Studie (RCT)
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,8 +10,8 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-10-26T09:10:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -54,7 +54,7 @@ Randomisierung ist es, was eine RCT von anderen Designs unterscheidet: indem Ler
 - **Skala, die Nullresultate in Evidenz verwandelt.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] begleiteten 8,708 Studierende über acht Semester hinweg mit der Power, Effekte von 0.05 SD zu detektieren, und fanden große, unmittelbare Bewegung bei datierten binären Aufgaben — 34 Prozentpunkte mehr Registrierung bis zum 16. August nach einer einzigen Erinnerung —, während akademische Leistung, Persistenz und Abschluss keinen detektierbaren Effekt zeigten. Die Skala ist die Designlektion: bei diesem N sind die akademischen Nullresultate präzise Ergebnisse statt Detektionsversagen, was die Schlussfolgerung lizenziert, dass ein Kommunikationswerkzeug das bewegt, was es adressieren kann, und nicht kumulative Lernergebnisse.
 - **Ein Null-Mittelwert kann ausgleichende Heterogenität verdecken.** Eine vorregistrierte RCT, die 538 Lehrkräfte über 24 türkische Schulen auf Schule-Fachbereichs-Ebene randomisierte, fand, dass Leistung um 0.129 SD unter Lehrenden unter dem Median fiel, während sie um 0.054 unter denen über dem Median stieg, und Motivation um 0.111 SD fiel, wobei eine deckenkomprimierte Prüfung (Kontrollmittelwert 89.2/100) die Power begrenzte.([[genai-can-harm-teaching-rct-2026|Sungu, Lira & Duckworth (2026)]])
 - **Vorregistrierung, die die Frage und den detektierbaren Effekt festsetzt.** [[chatbot-outreach-course-performance-2026|Meyer et al. (2026)]] registrierten beide Kursstudien im Registry of Efficacy and Effectiveness Studies und verpflichteten sich im Voraus auf Intent-to-treat-Schätzung und eine minimal detektierbare Effektstärke von etwa 0.157, und randomisierten einwilligende Studierende jedes Semester mit einer zweiten Welle bei Add/Drop, sodass späte Einschreibende ins Design eintraten statt in die Standard-Analysestichprobe. Über 2,483 Studierende über zwei Kurse hinweg gebündelt liegt der Effekt an der A/B-Schwelle (vier Prozentpunkte), während die gebündelte Veränderung der numerischen Note die Korrektur für multiples Testen nicht überlebt — eine Erinnerung daran, dass ein registriertes primäres Ergebnis diszipliniert, welches von mehreren korrelierten Ergebnissen geglaubt wird.
-- **Innerhalb intakter Seminare randomisieren, mit einer Prä-Behandlungs-Baseline.** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni & Fryer (2026)]] randomisierten 454 Studierende im Grundstudium innerhalb dreier intakter Marketing-Seminare nach Drop/Add und maßen alle vier Ergebnisse zu T1, bevor eine studierende Person Chatbot-Zugang hatte, sodass der semesterlange Vergleich auf einer gemessenen Baseline ruht statt einer angenommenen. Das flache Ergebnis (keine Gruppe-×-Zeit-Interaktion erreichte Signifikanz; der größte berichtete Effekt war d = 0.050, beim Interesse) wird neben der Annahme berichtet — 0.89 Logins pro Woche gegenüber einem zugewiesenen einmal pro Woche —, was verhindert, dass ein Nullresultat über eine schwach genutzte Behandlung als ein Nullresultat über das Werkzeug gelesen wird.
+- **Innerhalb intakter Seminare randomisieren, mit einer Prä-Behandlungs-Baseline.** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni & Fryer (2026)]] randomisierten 454 Studierende im Grundstudium innerhalb dreier intakter Marketing-Seminare nach Drop/Add und maßen alle vier Ergebnisse zu T1, bevor eine studierende Person [[conversational-ai|Chatbot]]-Zugang hatte, sodass der semesterlange Vergleich auf einer gemessenen Baseline ruht statt einer angenommenen. Das flache Ergebnis (keine Gruppe-×-Zeit-Interaktion erreichte Signifikanz; der größte berichtete Effekt war d = 0.050, beim Interesse) wird neben der Annahme berichtet — 0.89 Logins pro Woche gegenüber einem zugewiesenen einmal pro Woche —, was verhindert, dass ein Nullresultat über eine schwach genutzte Behandlung als ein Nullresultat über das Werkzeug gelesen wird.
 - **Within-Subject-Crossover, und eine Kontrolle auf bestem Praxisstand.** [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] ließen jede bzw. jeden von 194 Studierenden der Lebenswissenschaften in Harvard zwei Physiklektionen bearbeiten — einmal in einer [[active-learning|Aktiv-lernen]]-Sitzung im Kurs und einmal mit dem eigenen KI-Tutor des Kurses, in kreuz-balancierter Reihenfolge mit Prä- und Posttests um jede herum —, sodass jede studierende Person ihre eigene Kontrolle dient und der Vergleich der *Vermittlungsmodi* nicht dadurch konfundiert ist, wer was zugewiesen bekam. Die zweite Wahl des Designs zählt ebenso sehr: der Vergleichswert war forschungsbasiertes aktives Lernen statt einer Vorlesung, sodass der Vorteil (medianer Posttest 4.5 gegenüber 3.5) gegen aktuelle Bestpractice gemessen ist und nicht als „KI schlägt Unterrichten“ gelesen werden kann.
 
 ### Stärken und Grenzen

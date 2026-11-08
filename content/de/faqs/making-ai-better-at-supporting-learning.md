@@ -1,7 +1,7 @@
 ---
 title: "Wie können wir KI darin besser machen, Lernen in unserem eigenen Fach zu unterstützen?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
 weight: 74
 type: faq
@@ -17,7 +17,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: faqs/making-ai-better-at-supporting-learning
 source_updated: "2026-10-28T11:21:19-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -56,7 +56,7 @@ Training ist real und manchmal notwendig. Es ist die dritte oder vierte Sache, d
 
 Bevor Sie etwas ändern, protokollieren Sie, was ein einfacher Prompt zurückgibt. Dann protokollieren Sie, was eine triviale Methode zurückgibt.
 
-Die Studie zum [[shen-sustainable-ai-knowledge-base-cs-education-2026|Kurs-Wissensbasis-Assistenten]] ist allein dafür lesenswert. Ein lokales LLM ohne Suche erreichte **52.3%** Genauigkeit. Eine TF-IDF-Baseline, eine jahrzehntealte lexikalische Methode, erreichte **55.4%**. Das Modell war schlechter als die klassische Methode.
+Die Studie zum [[shen-sustainable-ai-knowledge-base-cs-education-2026|Kurs-Wissensbasis-Assistenten]] ist allein dafür lesenswert. Ein lokales [[llm|LLM]] ohne Suche erreichte **52.3%** Genauigkeit. Eine TF-IDF-Baseline, eine jahrzehntealte lexikalische Methode, erreichte **55.4%**. Das Modell war schlechter als die klassische Methode.
 
 Überspringen Sie diesen Schritt, und Sie können nicht sagen, ob Ihr Fine-Tuning geholfen hat. Schlimmer noch, Sie können ein System ausliefern, das eine Stichwortsuche schlägt, und es erst erfahren, wenn eine Tutorin oder ein Tutor es erwähnt. Zwei Zahlen in einer Tabelle, an einem Nachmittag erhoben, schützen den Rest des Budgets.
 
@@ -64,9 +64,9 @@ Die Studie zum [[shen-sustainable-ai-knowledge-base-cs-education-2026|Kurs-Wisse
 
 [[rag|Retrieval-augmented Generation]] über die Kursmaterialien, ohne jedes Fine-Tuning, hob dasselbe System von 52.3% auf **66.6%**. Dieser Zugewinn kam aus einem Index, und er bringt eine Eigenschaft mit, die ein Trainingslauf nicht hat: Wenn sich Ihre Dokumente ändern, indizieren Sie neu.
 
-Zwei weitere Ergebnisse zeigen in dieselbe Richtung. Ein PRISMA-Review über 23 empirische Studien zur Anpassung von KI für den [[writing-education|Schreibunterricht]] fand **Prompt-Engineering dominant (N = 13), vor Fine-Tuning (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Wo eine Wissensbasis aktuell bleiben muss, ist die Suche der einzige Hebel, der aktuell bleibt, ohne einen Trainingslauf zu wiederholen.
+Zwei weitere Ergebnisse zeigen in dieselbe Richtung. Ein [[meta-analysis-systematic-review|PRISMA-Review]] über 23 empirische Studien zur Anpassung von KI für den [[writing-education|Schreibunterricht]] fand **[[prompt-engineering|Prompt-Engineering]] dominant (N = 13), vor Fine-Tuning (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Wo eine Wissensbasis aktuell bleiben muss, ist die Suche der einzige Hebel, der aktuell bleibt, ohne einen Trainingslauf zu wiederholen.
 
-Die Suche hat auch eine pädagogische Form. Ein Modell in Ihren eigenen bearbeiteten Beispielen und Rubriken zu verankern ist der Weg, auf dem es innerhalb des [[scaffolding|Gerüsts]] bleibt, das Sie entworfen haben, und auf dem von Ihnen gesetzten Niveau antwortet, statt in allgemeine Ratschläge abzudriften. Diese Drift ist die häufigste Beschwerde über fertig gekaufte Tutoren, und sie ist öfter ein Suchproblem als ein Gewichtsproblem.
+Die Suche hat auch eine [[pedagogy|pädagogische]] Form. Ein Modell in Ihren eigenen bearbeiteten Beispielen und Rubriken zu verankern ist der Weg, auf dem es innerhalb des [[scaffolding|Gerüsts]] bleibt, das Sie entworfen haben, und auf dem von Ihnen gesetzten Niveau antwortet, statt in allgemeine Ratschläge abzudriften. Diese Drift ist die häufigste Beschwerde über fertig gekaufte Tutoren, und sie ist öfter ein Suchproblem als ein Gewichtsproblem.
 
 ## Schreiben Sie den Prompt gegen Ihre Rubrik, und achten Sie auf das Plateau
 
@@ -85,7 +85,7 @@ Anpassung zahlt sich aus, wenn das Modell eine Eigenschaft zuverlässig halten s
 
 - Drei **8B**-Modelle, fine-tuned auf einem von Expertinnen und Experten gestalteten Kinderlesecurriculum, übertrafen Zero-Shot-GPT-4o und Llama 3.3 70B bei schwierigkeitsbezogenen Kennzahlen, mit vernachlässigbaren Sicherheitsproblemen. Die Autoren und Autorinnen rahmen das als **Kontrollierbarkeit statt Skalierung** ([[llm-children-reading-story-generation]]).
 - Ein Anweisungsdatensatz mit **24.795 Beispielen**, verankert in Indian Knowledge Systems, ergab ein **7B**-Fine-Tune mit **6.39** auf einem externen Panel aus fünf Gutachtenden, innerhalb von **0.15** eines starken allgemeinen Referenzmodells bei einem Bruchteil der Deployment-Kosten. Dasselbe Basismodell erreichte **nahe null auf fachspezifischen Dimensionen** ohne das Fine-Tuning ([[iks-instruct-dataset-indian-knowledge]]). Diese Lücke zwischen allgemein kompetent und hier kompetent ist die ganze Begründung für Domänenanpassung.
-- Ein einzelner [[llm-training-and-fine-tuning|LoRA]]-Adapter, trainiert auf rund **3.900** gepoolten benoteten Beispielen, brachte fünf kleine offene Modelle (4B bis 30B) auf Parität oder besser mit einer menschlichen Bewertung über zwei Informatikprüfungen ([[llm-graders-computer-science-exams-2026]]). Ein Adapter, ein Datensatz, mehrere Basismodelle: Das ist die Form des Deployments, die ein kleines Team betreiben kann.
+- Ein einzelner [[llm-training-and-fine-tuning|LoRA]]-Adapter, trainiert auf rund **3.900** gepoolten benoteten Beispielen, brachte fünf kleine [[open-source|offene Modelle]] (4B bis 30B) auf Parität oder besser mit einer menschlichen Bewertung über zwei Informatikprüfungen ([[llm-graders-computer-science-exams-2026]]). Ein Adapter, ein Datensatz, mehrere Basismodelle: Das ist die Form des Deployments, die ein kleines Team betreiben kann.
 
 Das Wort *stabil* in der Überschrift trägt das Gewicht. Format, Rubrik, Leseniveau und Fachvokabular sind stabile Ziele. Urteilslastige Prosa hat kein solches Ziel, und dort scheitert die Anpassung, wie die beiden nächsten Abschnitte zeigen.
 
@@ -93,7 +93,7 @@ Das Wort *stabil* in der Überschrift trägt das Gewicht. Format, Rubrik, Leseni
 
 Anpassung bringt einem Modell bei, *was es produzieren soll*. Nachtraining bringt ihm bei, *wie es sich verhalten soll*. Für Nachhilfe ist diese Unterscheidung das ganze Problem: Allgemeine Modelle sind auf menschliche Präferenz für Hilfsbereitschaft nachtrainiert, was heißt, prompt zu antworten, und Lehren verlangt, die Antwort zurückzuhalten.
 
-Die stärksten pädagogischen Ergebnisse dieses Bestands liegen hier. Das Belohnungsmodell von EduQwen priorisierte ausdrücklich **anleitende Antworten gegenüber direkten Antworten**, und seine dreistufige Pipeline erreichte **96.52%** auf dem CDPK-Benchmark gegenüber **90.55%** bei Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Der Schreibsimulator von SWIM bewegte sich von rubrikgestütztem Prompting (bestes QWK **0.577**) über überwachtes Fine-Tuning (**0.474 ± 0.023**) zu Reinforcement Learning (**0.618 ± 0.005**) über jedes Merkmal und jeden Prompt hinweg ([[swim-student-writing-simulation-2026]]).
+Die stärksten pädagogischen Ergebnisse dieses Bestands liegen hier. Das Belohnungsmodell von EduQwen priorisierte ausdrücklich **anleitende Antworten gegenüber direkten Antworten**, und seine dreistufige Pipeline erreichte **96.52%** auf dem CDPK-Benchmark gegenüber **90.55%** bei Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Der [[simulation|Schreibsimulator]] von SWIM bewegte sich von rubrikgestütztem Prompting (bestes QWK **0.577**) über überwachtes Fine-Tuning (**0.474 ± 0.023**) zu [[reinforcement-learning|Reinforcement Learning]] (**0.618 ± 0.005**) über jedes Merkmal und jeden Prompt hinweg ([[swim-student-writing-simulation-2026]]).
 
 Lesen Sie die SWIM-Zahlen aufmerksam, denn der mittlere Schritt ging rückwärts. Überwachtes Fine-Tuning auf Demonstrationen machte den Simulator schlechter als der Prompt, von dem er ausging, und erst das Belohnungssignal holte den Verlust zurück und übertraf dann die Baseline. Wenn Ihr Plan beim überwachten Fine-Tuning endet, ist der Plan vielleicht ein Umweg.
 
@@ -129,7 +129,7 @@ Die Kosten, die man leicht unterschätzt, sind die Evaluation, und sie ist grö�
 
 ## Kalibrieren Sie Ihre Erwartungen
 
-Modell- und Promptwahl zusammen erklären nur etwa **15%** der Fehlausrichtung zwischen LLMs und Lernzuwächsen von Studierenden, und in dieser Studie machten Benchmark-Gewichtung und Einstimmigkeits-Ensembles die Ausrichtung *schlechter* ([[educational-llm-alignment]]). Vortrainingsdaten sind der dominante Hebel dafür, wie sich ein Modell verhält, und es ist der einzige Hebel, den Sie nicht ziehen können.
+Modell- und Promptwahl zusammen erklären nur etwa **15%** der Fehlausrichtung zwischen LLMs und [[learning-gains|Lernzuwächsen]] von Studierenden, und in dieser Studie machten Benchmark-Gewichtung und Einstimmigkeits-Ensembles die Ausrichtung *schlechter* ([[educational-llm-alignment]]). Vortrainingsdaten sind der dominante Hebel dafür, wie sich ein Modell verhält, und es ist der einzige Hebel, den Sie nicht ziehen können.
 
 Nichts davon spricht gegen die Arbeit oben. Es spricht dagegen, von einem Fine-Tuning die Behebung eines Designproblems zu erwarten. Wenn das Problem ist, dass Ihr Tutor zu bereitwillig antwortet, kann Training es adressieren. Wenn das Problem ist, dass Ihre Lernenden sich nicht darauf einlassen, wird Training das nicht, und die 15%-Zahl sagt, dass das Geld anderswo besser eingesetzt ist.
 
@@ -137,7 +137,7 @@ Nichts davon spricht gegen die Arbeit oben. Es spricht dagegen, von einem Fine-T
 
 Fine-Tuning ist der Weg, einem Modell Ihren Kurs beizubringen. Die Suche über Ihre eigenen Materialien hob dasselbe System von 52.3% auf 66.6% ohne jedes Training, und ein gegen eine Rubrik verfeinerter Prompt bewegte die Übereinstimmung von 54.75% auf 81.25%. Training bringt einem Modell Verhalten und Format weit zuverlässiger bei als Inhalte.
 
-Ein größeres Basismodell macht all das überflüssig. Ein auf einem Kinderlesecurriculum fine-tuntes 8B-Modell schlug Zero-Shot-GPT-4o und Llama 3.3 70B bei Schwierigkeitskennzahlen, und ein 7B-Fine-Tune landete innerhalb von 0.15 eines starken allgemeinen Referenzmodells bei einem Bruchteil der Deployment-Kosten. Größe und Passung sind verschiedene Achsen, und nur eine davon ist pro Token käuflich.
+Ein größeres Basismodell macht all das überflüssig. Ein auf einem [[curriculum-design|Kinderlesecurriculum]] fine-tuntes 8B-Modell schlug Zero-Shot-GPT-4o und Llama 3.3 70B bei Schwierigkeitskennzahlen, und ein 7B-Fine-Tune landete innerhalb von 0.15 eines starken allgemeinen Referenzmodells bei einem Bruchteil der Deployment-Kosten. Größe und Passung sind verschiedene Achsen, und nur eine davon ist pro Token käuflich.
 
 Mehr Daten reparieren einen falsch gebauten Trainingssatz. Beaufsichtigung nur mit Antworten ließ die Genauigkeit in der Fehlvorstellungsstudie bei jeder Datengröße unter 30%. Skalierung repariert kein Ziel, dem die Information fehlt, die das Modell braucht.
 

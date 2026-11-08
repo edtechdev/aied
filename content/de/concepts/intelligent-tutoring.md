@@ -1,8 +1,8 @@
 ---
-connected_resources: [deeptutor, openmaic]
+connected_resources: [deeptutor, openmaic, learnharness]
 title: Intelligentes Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -12,8 +12,8 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-28T19:24:33-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-07T13:45:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -59,7 +59,6 @@ Das Aufkommen von [[llm|LLMs]] hat eine produktive Spannung im Tutoringfeld erze
 
 Pädagogie in das Modell zu trainieren ist ein von seinem Prompten verschiedener Weg: LearnLM mischte pädagogische Daten in Geminis [[llm-training-and-fine-tuning|Post-Training]], wurde von Bildungsexpertinnen und -experten gegenüber GPT-4o (+31%), Claude 3.5 Sonnet (+11%) und Basis-Gemini 1.5 Pro (+13%) bevorzugt und – weil co-trainiert statt nachträglich feinjustiert – überleben die Zuwächse künftige Basismodell-Releases ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
 
-
 TeachLM argumentiert, die knappe Zutat sei authentische Interaktion zwischen Lernenden und Tutor: feinjustiert auf 100,000 Stunden Einzeltutoring, verdoppelte es etwa die studentische Sprechzeit und erhöhte Dialogzüge um 50%, nachdem ein früher prompt-engineerter Tutor die Lücke zu menschlichen Tutorinnen und Tutoren nicht schließen konnte ([[teachlm-post-training-llms-education|Perczel, Chow & Demszky (2025)]]).
 - **Bereitstellung von Referenzstrategien hebt schwache Tutoren, nicht starke.** Das Modellen die dokumentierte Strategie der Fallliteratur bereitzustellen hob den Erfolg unmittelbarer Antworten bei 10 von 11 Modellen im Mittel um 9,9 Punkte — Llama 4 Maverick von 41,0% auf 64,8% —, während das stärkste Modell unverändert bei 71,3% blieb ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
 - **Zugang zu einem Tutor ist nicht dasselbe wie Lernen von ihm.** Die Randomisierung von 153 Studierenden eines Beweiskurses auf früheren Zugang zu einem Chatbot und einer Feedback-Oberfläche erhöhte die Hausaufgabenpunktzahl um 2,56 Punkte und ließ die ungestützte Prüfung unverändert, wobei je 100 Chatbot-Nachrichten 3,02 Punkte weniger erzielten ([[ai-proof-learning-cognitive-offloading-2026|Chen et al. (2026)]]).
@@ -85,6 +84,8 @@ Intelligente Tutoring-Systeme repräsentieren eines der ältesten und am besten 
 - **Statistische Äquivalenz zu menschlichem Tutoring durch Expertinnen und Experten.** Über 2,469 Sitzungen von 2,383 Erwachsenen hinweg entsprach gepooltes KI-Tutoring menschlichem Einzeltutoring durch Expertinnen und Experten bei GRE-[[learning-gains|Lernzuwächsen]] (p=.015 gegenüber ±0.25-SD-Grenzen; adjustierte Differenz -0.58 Prozentpunkte), und beide schlugen eine Videokontrolle um etwa sechs Punkte; sechs von zwölf Tutoren bestanden individuelle Äquivalenztests, wobei Gemma 4 31B menschliche Zuwächse bei 918× niedrigeren Kosten pro Prozentpunkt erreichte ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
 
 - **Prompt-basierte Mikropersonalisierung eines LLM-Tutors (2026):** [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] personalisieren den Jill-Watson-[[llm]]/[[rag]]-[[teacher-role|Lehr]]assistenten auf der Ebene einzelner Fragen vollständig durch Prompt Engineering – konditionieren Antworten auf sechs Dimensionen der lernenden Person ([[metacognition|metakognitive]] [[self-assessment|Selbstbewertung]], Abstraktion, Verbosität, Wahrnehmung, Verarbeitung, Verständnis) und klassifizieren die kognitive Anforderung jeder Anfrage mit einem Klassifikator nach [[cognitive-diagnosis|Blooms Taxonomie]], was 96 Lernendenprofile ohne Modell-Retraining ergibt. NLP-Analyse von 2,910 Antworten und eine Humanstudie fanden messbare, wahrnehmbare Unterschiede in Antwortabstraktion, Verbosität, Komplexität und Verarbeitungsstil, ausgerichtet an beabsichtigten Effekten. Es demonstriert Anpassung der Antwortform (statt des Inhalts) als skalierbaren, modularen Weg zu [[adaptive-learning|adaptivem Verhalten]] in einem eingesetzten Tutor.
+
+- **Naher Transfer ohne Zuwächse bei standardisierten Tests im Klassenmaßstab.** [[learnlm-eedi-expanded-rct-2026|LearnLM Team, Google und Eedi (2026)]] randomisierten 1.179 Studierende an 10 staatlichen Schulen im Vereinigten Königreich über 10 Wochen auf vier Arme. Nach der Unterstützung beantworteten 56,5–56,9 % eine zweite Diagnosefrage korrekt gegenüber 43,4 % unter Standard-Remediation; die Star-Maths-Effekte lagen bei −0,01 bis +0,02 SD. Tutorinnen und Tutoren genehmigten 94,7 % von 94.385 Entwürfen unverändert, und 6 Fehler in 114.935 Entwürfen wurden erkannt, bevor sie Studierende erreichten.
 
 ### Zentrale ITS-Konzepte
 
@@ -198,6 +199,9 @@ Wirksames Tutoring erfordert fortlaufende Anpassung: [[zhang-tutormoments-2026|Z
 - [[speech-and-voice-technologies]]
 
 ## Verbundene Artikel
+
+- [[learnlm-eedi-expanded-rct-2026]] — Erweiterter UK-RCT: Nahtransfergewinne, aber kein Vorteil bei standardisierten Tests nach 10 Wochen (LearnLM Team, Google & Eedi 2026)
+
 - [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: Responsivitätslücken von LLM-Tutoren bei Programmierproblemen mit mehreren Lösungen (Cen & Sonkar 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — Das Argumentieren der Studierenden unterstützen oder ersetzen? Kognitive Entlastung im KI-gestützten Beweislernen (Chen et al. 2026)
 - [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: Bewertung von LLM-Tutoren an Studierenden mit herausforderndem Verhalten (Park et al. 2026)

@@ -1,14 +1,14 @@
 ---
 title: NLP in der Bildung
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-26T08:45:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-05T23:00:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -43,6 +43,9 @@ Natural Language Processing in der Bildung wendet rechnerische Methoden auf die 
 - **Analyse studentischer Sprache.** [[llm-sentiment-analysis-education-research]] wendet LLM-basierte Stimmungsanalyse auf Bildungsforschung an, extrahiert emotionale und evaluative Signale aus studentischem Text im großen Maßstab und speist damit [[learning-analytics|Learning Analytics]] und [[affective-computing|affective computing]].
 - **Vorhersage und Messung.** [[llm-item-difficulty-prediction]] und [[vocabulary-difficulty-prediction]] nutzen Sprachmodelle, um Item- und Textschwierigkeit zu schätzen — zentrale Eingaben für [[educational-measurement|Bildungsmessung]], [[adaptive-learning|adaptives Lernen]] und [[item-response-theory|Item-Response-Theorie]]-Modelle.
 - **Lesbarkeit und [[curriculum-design|Curriculum]]-Ausrichtung.** Bird (2026) fusioniert Transformer-Textklassifikation mit Merkmalen der Computerlinguistik, um englische Literatur nach UK Key Stage zu klassifizieren, und erreicht ein F1 von 0.996 — eine datengetriebene Ergänzung zu [[vocabulary-difficulty-prediction]] und [[llm-item-difficulty-prediction]] für [[educational-measurement|Bildungsmessung]] und Leseniveau-Ausrichtung.
+
+- **Erzeugter Text trägt seine eigene [[reading-education|Lesbarkeitslast]].** Clark et al. (2026) finden, dass neuere Modelle Konstruktionen übermäßig nutzen, die die Verarbeitungsliteratur mit Verstehenskosten verbindet — niederfrequente n-Gramme, gestapelte Nomina, denominale Verben, lange Dependenzen, reduzierte Objektrelativsätze —, relativ zu ihren eigenen bedeutungserhaltenden Paraphrasen und zu genreabgeglichenen menschlichen Baselines, und führen das Muster auf Post-Training zurück, das Informationsdichte statt Klarheit belohnt ([[clark-ai-generated-language-readability-2026]]). Die Messung von Textschwierigkeit gilt daher auch für das, was das Modell schreibt, nicht nur für den lernerorientierten Text, den es vereinfachen soll.
+
 - **Semantische Ähnlichkeit ist ein schwaches Signal für Curriculum-Ausrichtung.** Beim Screening von 3.837 dentalen Ziel–Abstract-Paaren beurteilten Embedding-Retrieval plus eine Prüfung auf natürliche Sprachinferenz 22.9% der Treffer mit hoher Ähnlichkeit (Kosinus 0.90–1.00) als neutral oder widersprüchlich und hoben die von Expertinnen und Experten markierte Genauigkeit von 0.69 auf 0.73 ([[nlp-reading-lists-dental-education-2026|Yasmin et al. (2026)]]).
 
 - **Diskursebenen-Klassifikation lokalisiert, was Oberflächenmerkmale verpassen.** Ein BERT-Modell, das nur auf seinen letzten vier Transformer-Schichten feinabgestimmt ist, klassifiziert benachbarte Satzpaare als kausal, kontrastiv, progressiv oder inkohärent und gibt den Bruchpunkt als Diagnose aus, wobei es ein mittleres F1 von mindestens 0.891 an 28.736 Satzpaaren erreicht ([[bert-discourse-english-teaching-2026|Wang et al., 2026]]).
@@ -50,6 +53,8 @@ Natural Language Processing in der Bildung wendet rechnerische Methoden auf die 
 - **Feedback und Klassifikation.** [[teaching-feedback-classification-benchmark]] bietet einen [[benchmark|Benchmark]] zur Klassifikation von Lehr-Feedback und bringt damit [[feedback|Feedbackschleifen]]-Forschung und [[llm-training-and-fine-tuning|LLM-Training und Feinabstimmung]] voran.
 - **NLP auf Evaluationskommentaren skalieren, ohne zur Nutzung zu gelangen.** Ein PRISMA-ScR-Scoping-Review und eine Evidence Map von 421 Studien, die NLP auf offene studentische Lehrveranstaltungsevaluation anwenden (2015–2026), findet Stimmungsanalyse weiterhin als modale Aufgabe (300/421, 71.3%) und eine Diskontinuität der Umsetzbarkeit von 49.7 Punkten: 258 Studien (61.3%) demonstrierten eine nutzbare Ausgabe, aber nur 49 (11.6%) erreichten die Evaluation durch eine intendierte Nutzerin oder einen intendierten Nutzer, mit einer formalen Fairness-Kennzahl in nur 8 Studien (1.9%) und externer Validierung in 33 (7.8%) ([[nlp-student-evaluation-teaching-scoping-review-2026|Eicher & da Silva (2026)]]).
 - **Handschriftliche Antwortblätter widerstehen bestehenden Parsern.** Mehrzeilige Ableitungen, eingefügte Prosa und Formeln, handgezeichnete Tabellen und Rauschen von Durchstreichungen und Korrekturen entziehen sich Benchmarks zu gedruckten Dokumenten und zu isolierten Ausdrücken; daher annotiert der HANS-Datensatz realer Mathematik-Antwortblätter aus der achten Klasse — 5.213 Antwortbilder von 745 Studierenden über 18 Problemtypen — jenes Rauschen und stützt ein Rauschunterdrückungsmodell, das die Erkennung verbessert ([[hans-handwritten-answer-sheet-parsing-2026|Wu et al. (2026)]]).
+- **Entitätsgenauigkeit von ASR-Transkripten ist eine eigene Frage neben lexikalischer Genauigkeit.** Beim Benchmarking von fünf Spracherkennungssystemen gegen ein menschliches Referenztranskript berichten [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]] die erste Evidenz der Wissensbasis zur Entitätsgenauigkeit von ASR und NER: Die Wortfehlerraten reichten von 2,43% (TurboScribe) bis 15,32% (Vosk), während die Kodierung der Gold-Entitätstypen über sieben Kategorien für GPT-5.5 eine Genauigkeit von 0,805 (κ = .726) gegenüber 0,634 für spaCy (κ = .488) ergab.
+Die aggregierte Wortfehlerrate allein kann nicht belegen, dass die Entitätsstruktur die Transkription überstanden hat.
 
 - **Erklärungen sind nicht austauschbar mit Attributionen.** [[shap-llm-rationales-teaching-quality-assessment|Bueno et al. (2026)]] fanden, dass SHAP-Attributionen die Sätze identifizierten, die die Rubrikbewertungen zuverlässig trieben, und über Modellfamilien hinweg übertrugen, während LLM-generierte Begründungen begrenzten, inkonsistenten Einfluss ausübten — obwohl feinabgestimmte PLMs bei Genauigkeit über promptenden LLMs lagen.
 - **Kurzantwort-Assessment in den Naturwissenschaften.** Der [[meta-analysis-systematic-review|Scoping-Review]] von Morley et al. zu transformerbasiertem Auto-Marking von Kurzantwort-Fragen in Naturwissenschaften (2017–frühes 2024) zeigt, dass BERT-Familien-Modelle zum dominierenden Arbeitstier des Felds für [[automated-assessment|Freitext-Bewertung]] wurden, bevor größere [[llm|LLMs]] über [[prompt-engineering|Prompting]] übernommen wurden, und dass Modelle, die mit Domänenwissen angereichert waren — zusätzliches Vortraining, Rubrik- oder Lehrbuchdaten, Meta-Lernen —, durchgehend jene ohne übertrafen ([[auto-marking-short-answer-science-2026]]).

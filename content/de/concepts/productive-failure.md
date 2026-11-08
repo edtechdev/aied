@@ -1,7 +1,7 @@
 ---
 title: Produktives Scheitern
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,8 +9,8 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-26T09:10:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-07T13:20:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -48,7 +48,7 @@ Lernende erzeugen Lösungen ohne kognitive Unterstützung, stützen sich auf Vor
 - **Bereitet Lernende darauf vor, aus Anweisung zu lernen** — sie wissen, was sie nicht wissen, und können neues Material mit ihren Versuchen verbinden.
 - **Verbessert Wissenstransfer und dauerhafte Fertigkeiten** ([[critical-thinking|kritisches Denken]], Resilienz, Kommunikation), verringert die Angst vor Fehlern, und fördert positive Einstellungen zum Lernen.
 
-Das PF-Rahmenwerk ist durch verwandte Designs erweitert worden, darunter **stellvertretendes Scheitern**, **Lösungsvielfalt** und **adaptive Anleitung** (Braas et al., 2025; Brand et al., 2025).
+Das PF-Rahmenwerk ist durch verwandte Designs erweitert worden, darunter **stellvertretendes Scheitern**, **Lösungsvielfalt** und **adaptive Anleitung** (Braas et al., 2025; Brand et al., 2025). Fälle können den gemeinsamen Problemraum für diesen ersten Versuch liefern, obwohl die fallbasierte Evidenzbasis diese Kombination noch nicht direkt getestet hat ([[case-based-learning]]).
 
 ## Aus Fehlern lernen und aus Irrtümern lernen
 
@@ -110,6 +110,9 @@ Produktives Scheitern verbindet sich mit [[learning-theories|Lerntheorien]] (Kon
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+
+- [[case-based-learning]] — Fälle als gemeinsamer Problemraum für den ersten Versuch
+
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

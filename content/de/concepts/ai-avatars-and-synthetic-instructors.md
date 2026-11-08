@@ -15,7 +15,7 @@ confidence: medium
 contributors: [editor]
 translation_of: concepts/ai-avatars-and-synthetic-instructors
 source_updated: "2026-11-04T17:45:00-05:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation

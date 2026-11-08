@@ -1,7 +1,7 @@
 ---
 title: Sensoren und Blickanalyse
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -13,8 +13,8 @@ level: [higher ed, k 12]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-04T16:09:41-05:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-05T22:30:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
@@ -82,6 +82,8 @@ Das Label ist oft das schwächste Glied. E3Sense sagte die eigenen Segmentbewert
 Ein neuronales Korrelat ist kein Score. Aus EEG rekonstruierte Bilder korrelierten mit der Testleistung bei R² = 0,79 über 55 Teilnehmenden-Video-Beobachtungen. Richtig beantwortete Items zeigten zudem höhere semantische Ähnlichkeit als falsche. Dennoch produzierte ein Teilnehmender hochwertige Rekonstruktionen und antwortete falsch, sodass Rekonstruktionsqualität nicht als Korrektheit gelesen werden kann ([[seeing-cognitive-representations-eeg-reconstruction|Su et al., 2026]]).
 
 Aufmerksamkeit ist nicht Lernen. In TutorLoop korrelierte Aufmerksamkeit mit Lernen bei r = 0,017, während Arbeitslast negativ mit r = -0,168 korrelierte ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Ein System, das das Aufmerksamkeitssignal maximierte, hätte etwas nahezu Rauschhaftes optimiert.
+
+Ein Sensor kann Ko-Präsenz erfassen, wo eine Studie Interaktion behauptet: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] fanden, dass ein haltungsbasierter Detektor nur 55% Recall erreichte und 11 von 20 Ereignissen erfasste, die menschliche Codierende in Interaktionen zwischen Lehrkraft und Schülergruppen identifizierten. Die Lehrkraft war in 49,2% der kodierten Segmente innerhalb der Gruppengrenze anwesend, während Studierende nur in 25,4% zur Lehrkraft blickten, und kein Audio-Merkmal änderte sich in einem der beiden Vergleiche, sodass die Pipeline räumliche Ko-Präsenz statt anhaltender Interaktion registrierte.
 
 Ein physiologisches Profil ist keine Diagnose. Prüfungsstressmodelle sagen aus Erregung und Bewegung eine Notenkategorie voraus, und die Autorinnen und Autoren bestehen darauf, dass die Ausgabe neben persönliche Umstände und psychosozialen Kontext gehört statt in eine Entscheidung mit hohem Einsatz ([[physiological-signals-exam-outcomes-ml|Yamazaki und Rimal, 2026]]).
 

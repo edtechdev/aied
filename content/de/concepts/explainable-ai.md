@@ -1,7 +1,7 @@
 ---
 title: Erklärbare KI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,8 +11,8 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-10-27T10:05:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -89,6 +89,8 @@ Zwei Vorsichtshinweise schärfen dies weiter, die beide den neuesten Beitrag des
 
 **Erklärbar durch Design** ist eine Antwort auf das Treue-Problem post hoc. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang und Fang (2025)]] parametrisieren einen Erklärungsdecoder durch dieselbe fusionierte Repräsentation und denselben vorhergesagten Score, die über das [[assessment]] entscheiden, sodass ein niedriger Score bei [[formative-assessment|formativen]] Fragen eine Begründung ergibt, die unzureichende Sondierungsfragen benennt, und paaren ihn mit Aufmerksamkeit über zwei Linsen auf Curriculumsstandards und fachspezifische Rubrik-Züge. Die Aufmerksamkeit-zu-Rubrik-Ausrichtung erreicht 78,0 % gegenüber 41,7 % bei GPT-4 Zero-Shot und 32,1 % bei BERT, und Treue wird durch kontrafaktisches Löschen rubrik-kritischer Spannen neben menschlichen Bewertungen an einer rubrikverankerten Checkliste geprüft, was einen Erklärungs-Glaubwürdigkeitswert von 0,78 ergibt — ein Anstieg von 0,31 gegenüber BERT-base. Das Audit zeigt auch, wo der architektonische Anspruch dünnt: bei emotionalen Hinweisen legt das Modell 28,4 % des Aufmerksamkeitsgewichts gegenüber einer Expertin 15,2 % (Ausrichtung 0,53), wobei ein Fehlerfall 28 % dem Token „frustrated“ zuweist, was die Autoren als Überanpassung an Affekt statt an Pädagogik lesen und als Bereich der Verfeinerung benennen. Erklärungen in den Entscheidungspfad einzubetten macht sie treuer als post-hoc Begründungen; es macht sie nicht richtig.
 
+**Was ein Modell angibt, genutzt zu haben, hängt ebenso von der Familie wie von den Daten ab.** Über sieben Modelle auf einer Kohorte fand [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]], dass symbolische Ansätze sich auf kognitive und [[motivation|motivationale]] Faktoren stützten, subsymbolische Modelle auf kognitive Aspekte, gelerntes Wissen und Geschlecht, und beide metakognitive Faktoren weitgehend übersahen, während das neuronalsymbolische Modell ein integrierteres Set nutzte. Dieselben Studierenden und dieselben Indikatoren erzeugten unterschiedliche Darstellungen dessen, was zählte, sodass die Übereinstimmung mit [[learning-theories|Lerntheorie]] zu einer Behauptung über Zuschreibungen statt über Genauigkeit wird.
+
 ## Erklärbarkeit als Praxis der Verantwortlichkeit lehren
 
 Wenn Erklärungsqualität entscheidet, ob XAI nützlich ist, muss das Erzeugen von Erklärungen als professionelle Gewohnheit gelehrt werden statt als Fähigkeit demonstriert. [[lund-socially-accountable-data-science-xai-2026|Lund und Kollegen (2026)]] schlagen vor, dies über vier Säulen zu tun — **Antwortbarkeit** (die Pflicht, Gründen denen zu geben, die betroffen sind), **Verantwortung** (Schaden über den Lebenszyklus hinweg antizipiert, nicht nachträglich verteidigt), **Durchsetzung** (Konsequenzen innerhalb des Kurses) und **Reflexivität** (dokumentierte Prüfung der eigenen Annahmen) —, jede mit ihren eigenen Aufgaben und ihren eigenen Kosten im Klassenzimmer.
@@ -147,3 +149,6 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation vortrainierter Modelle für pädagogisches Assessment neuer KI-unterstützter Bildungsfragen
 - [[decision-making-agent-student-decision-acceptance-2026]] — Lehrkraft- versus KI-getroffene Benotungsentscheidungen: eine schriftliche Begründung erweiterte die Fairness-Lücke
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Zitate und Autoritätssignale erhöhten die Nachgiebigkeit gegenüber falscher Ausgabe, einige Referenzen waren falsch zugeordnet oder fiktiv
+
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — symbolische, subsymbolische und neuronalsymbolische Modelle auf einer Kohorte schrieben ihre Vorhersagen unterschiedlichen Faktoren zu
+

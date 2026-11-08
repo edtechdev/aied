@@ -22,7 +22,7 @@ confidence: high
 connected_resources: [fpds-apps-and-resources]
 translation_of: resources/teacher-dev
 source_updated: "2026-10-24T10:44:33-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

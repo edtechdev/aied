@@ -1,7 +1,7 @@
 ---
 title: "Wie bringen wir einen simulierten Studenten dazu, sich wie ein echter Lernender zu verhalten?"
 created: "2026-10-02T08:36:18-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 weight: 71
 type: faq
 connected_faqs: [checking-whether-educational-ai-works, addressing-common-misconceptions-ai-education, making-ai-better-at-supporting-learning]
@@ -15,7 +15,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
 translation_of: faqs/making-simulated-students-behave-like-learners
 source_updated: "2026-10-28T11:26:02-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -48,11 +48,11 @@ Vor der nächsten Demo brauchen Sie so viel Klarheit: Ein Modell aufzufordern, e
 
 ## Entscheiden Sie, welche Frage der Simulator beantwortet
 
-Unter „simulierte Studierende“ fallen drei Aufgaben zusammen, und sie brauchen unterschiedliche Maschinerie. Das Einüben einer Lehrperson oder eines Tutors braucht einen Partner, der sich unter Druck plausibel verhält. Das Prüfen, wie eine KI mit unterschiedlichen Lernendenprofilen umgeht, braucht Abdeckung der Profile, die Ihnen wichtig sind. Die Vorhersage von Ergebnissen für einen Kurs braucht eine Verteilung von Lernenden statt eines überzeugenden Individuums. Ein Simulator, der für die erste Aufgabe gebaut wurde, wird Sie bei der dritten enttäuschen, und die Belege unten trennen die drei immer wieder.
+Unter „simulierte Studierende“ fallen drei Aufgaben zusammen, und sie brauchen unterschiedliche Maschinerie. Das Einüben einer [[teacher-role|Lehrperson]] oder eines Tutors braucht einen Partner, der sich unter Druck plausibel verhält. Das Prüfen, wie eine KI mit unterschiedlichen Lernendenprofilen umgeht, braucht Abdeckung der Profile, die Ihnen wichtig sind. Die Vorhersage von Ergebnissen für einen Kurs braucht eine Verteilung von Lernenden statt eines überzeugenden Individuums. Ein Simulator, der für die erste Aufgabe gebaut wurde, wird Sie bei der dritten enttäuschen, und die Belege unten trennen die drei immer wieder.
 
 ## Benennen Sie die Lernenden, die Sie nicht abdecken
 
-Der nützlichste Befund für alle, die einem Simulator vertrauen wollen, betrifft die Abdeckung. Zwölf Lehrkräfte, die LLM-Studierende tutorten, berichteten über zu komplexe Sprache, fehlende Emotion, unnatürliche Aufmerksamkeit und unerklärte Wissenssprünge, und die Simulationen deckten nur eines von vier Quadranten realen Studierendenverhaltens ab ([[llm-student-simulation-teacher-insights|Martynova et al., 2026]]). Der Quadrant, den sie abdeckten, war der am leichtesten zu simulierende.
+Der nützlichste Befund für alle, die einem Simulator vertrauen wollen, betrifft die Abdeckung. Zwölf Lehrkräfte, die [[llm|LLM]]-Studierende tutorten, berichteten über zu komplexe Sprache, fehlende Emotion, unnatürliche Aufmerksamkeit und unerklärte Wissenssprünge, und die [[simulation|Simulationen]] deckten nur eines von vier Quadranten realen Studierendenverhaltens ab ([[llm-student-simulation-teacher-insights|Martynova et al., 2026]]). Der Quadrant, den sie abdeckten, war der am leichtesten zu simulierende.
 
 Das ist wichtig, weil fast niemand prüft. Nur 3 % der Studien, die Lernende simulieren, validieren ihren Simulator nach der Nutzung. Wenn Sie einen bauen und die Validierung überspringen, sind Sie in der überwältigenden Mehrheit, und Sie sind auch der Grund, warum diese Zahl zitierbar bleibt.
 
@@ -68,13 +68,13 @@ Zwei Anmerkungen zu dieser Studie. Die Modellwahl ist nicht eindimensional, denn
 
 Wenn das Modell zu viel weiß, können Sie den Zustand benennen, in dem es sein sollte, oder das Wissen abziehen, das es nicht haben sollte.
 
-**Auf einen epistemischen Zustand konditionieren.** Ein trainierungsfreies Framework baut aus einem [[knowledge-graph|Wissensgraphen]] einen kognitiven Prototyp für jede studierende Person und bewertet Beam-Search-Kandidaten dagegen; es berichtet eine Verbesserung der Simulationsgenauigkeit um 100 % ([[simulating-students-diverse-cognitive-levels-2025|Wu et al., 2025]]). Die Qualität steigt mit dem kognitiven Niveau der studierenden Person, also bleiben schwächere Lernende der schwierigere Fall, was bedauerlich ist, da sie meist der Punkt sind. Kognitive Dynamik statt einer statischen Persona zu modellieren, geht weiter: Die ICAP-basierten Zustandsaktualisierungen von CogEvolution erreichten R²LC = 0.92, wo statische Agenten 0.45 erreichten, und fielen ohne ihr ICAP-Modul auf 0.58 ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al., 2026]]).
+**Auf einen epistemischen Zustand konditionieren.** Ein trainierungsfreies Framework baut aus einem [[knowledge-graph|Wissensgraphen]] einen kognitiven Prototyp für jede studierende Person und bewertet Beam-Search-Kandidaten dagegen; es berichtet eine Verbesserung der Simulationsgenauigkeit um 100 % ([[simulating-students-diverse-cognitive-levels-2025|Wu et al., 2025]]). Die Qualität steigt mit dem kognitiven Niveau der studierenden Person, also bleiben schwächere Lernende der schwierigere Fall, was bedauerlich ist, da sie meist der Punkt sind. Kognitive Dynamik statt einer statischen Persona zu modellieren, geht weiter: Die [[icap-framework|ICAP]]-basierten Zustandsaktualisierungen von CogEvolution erreichten R²LC = 0.92, wo statische Agenten 0.45 erreichten, und fielen ohne ihr ICAP-Modul auf 0.58 ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al., 2026]]).
 
 **Das Wissen entfernen.** Die Unterdrückung von 16 gezielten Wissenskomponenten in Mistral-7B senkte die Genauigkeit von etwa 0.75 bei einem Vergessensanteil von 10 % auf unter 0.5 bei 40 %, während das Basismodell nahe 0.85 blieb. Das unterdrückte Wissen erwies sich durch überwachtes Wiederlernen und coach-geführten Dialog als wiederherstellbar ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]]). Das ist das Nächste an einer direkten Herstellung eines Novizen, und die Wiederherstellbarkeit wird zum Vorteil, wenn Sie wollen, dass der Simulator während einer Sitzung lernt.
 
 ## Skripten Sie die Züge, nicht die Persona
 
-Personastabilität erweist sich als Problem des Interaktionsdesigns und nicht der Modellwahl. Bei der Kreuzung von fünf LLMs mit drei Prompt-Designs und vier ADHD-Intensitätspersonas beseitigten skriptgesteuerte, aufgabenverankerte Interaktionen die von Beobachtern bewertete Verhaltensdrift um bis zu 97 % gegenüber ungeskriptetem Dialog. Ohne ausdrückliche Personaanweisungen neigte die Baseline-Studierendendarstellung zu hohen ADHD-Symptomen ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase & Leins, 2026]]).
+Personastabilität erweist sich als Problem des Interaktionsdesigns und nicht der Modellwahl. Bei der Kreuzung von fünf LLMs mit drei Prompt-Designs und vier [[neurodiversity|ADHD]]-Intensitätspersonas beseitigten skriptgesteuerte, aufgabenverankerte Interaktionen die von Beobachtern bewertete Verhaltensdrift um bis zu 97 % gegenüber ungeskriptetem Dialog. Ohne ausdrückliche Personaanweisungen neigte die Baseline-Studierendendarstellung zu hohen ADHD-Symptomen ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase & Leins, 2026]]).
 
 Wenn Ihr Simulator driftet, sehen Sie sich an, was Sie ihn Zug um Zug tun lassen, bevor Sie Modelle wechseln oder die Beschreibung der studierenden Person neu schreiben.
 
@@ -90,9 +90,9 @@ Handlungstreue hat ihre eigene Grenze. Studierendensimulatoren reproduzieren beo
 
 Zwei Vergleiche zeigen, was Validierung kostet.
 
-Ein Benchmarking von neun Simulationsmethoden gegen sieben referenzbasierte Metriken an 382 zurückgehaltenen Dialogen aus dem größten öffentlichen Korpus echter Mathematik-Dialoge zwischen Studierenden und Tutoren ergab, dass Prompting beim Fine-Tuning zurücklag: bei Dialogakten (0.4998 gegen 0.6840), bei ROUGE-L (0.1648 gegen 0.3212) und bei der Kosinusähnlichkeit (0.5460 gegen 0.7390). Die beste getestete Methode, Präferenzoptimierung an einem 8B-Modell, schlug überwachtes Fine-Tuning nur marginal und war bei Fehlern schlechter, und eine menschliche Bewertung mit drei Tutoren reproduzierte diese Rangfolge ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Die Spitze dieser Leiter liegt nahe der Mitte, also entscheidet die Baseline, die Sie berichten, wie beeindruckend Ihre eigene Zahl aussieht.
+Ein Benchmarking von neun Simulationsmethoden gegen sieben referenzbasierte Metriken an 382 zurückgehaltenen Dialogen aus dem größten öffentlichen Korpus echter Mathematik-Dialoge zwischen Studierenden und Tutoren ergab, dass Prompting beim [[llm-training-and-fine-tuning|Fine-Tuning]] zurücklag: bei Dialogakten (0.4998 gegen 0.6840), bei ROUGE-L (0.1648 gegen 0.3212) und bei der Kosinusähnlichkeit (0.5460 gegen 0.7390). Die beste getestete Methode, Präferenzoptimierung an einem 8B-Modell, schlug überwachtes Fine-Tuning nur marginal und war bei Fehlern schlechter, und eine menschliche Bewertung mit drei Tutoren reproduzierte diese Rangfolge ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Die Spitze dieser Leiter liegt nahe der Mitte, also entscheidet die Baseline, die Sie berichten, wie beeindruckend Ihre eigene Zahl aussieht.
 
-SWIM ist der klarste Vergleich von Prompting, Fine-Tuning und Verstärkungslernen, weil es jeden generierten Aufsatz gegen ein Zielmerkmalprofil bewertet, statt ihn impressionistisch zu beurteilen. Rubrikgestütztes Prompting gab selbst starken proprietären Modellen begrenzte Kontrolle, mit einem besten durchschnittlichen Merkmals-QWK von 0.577 (Claude Sonnet) und 0.422 (GPT-5.4) und nahe null für ein offenes 7B-Modell. Überwachtes Fine-Tuning an echten Paaren aus Punktzahl und Aufsatz erreichte 0.474 ± 0.023 für dieses 7B-Modell. GRPO mit einer aus automatischer Aufsatzbewertung abgeleiteten Belohnung erreichte 0.618 ± 0.005, wobei die Gewinne an zwei unabhängigen Bewertern hielten, gegen die die Policy nie trainiert hatte ([[swim-student-writing-simulation-2026]]).
+SWIM ist der klarste Vergleich von Prompting, Fine-Tuning und Verstärkungslernen, weil es jeden generierten Aufsatz gegen ein Zielmerkmalprofil bewertet, statt ihn impressionistisch zu beurteilen. Rubrikgestütztes Prompting gab selbst starken proprietären Modellen begrenzte Kontrolle, mit einem besten durchschnittlichen Merkmals-QWK von 0.577 (Claude Sonnet) und 0.422 (GPT-5.4) und nahe null für ein offenes 7B-Modell. Überwachtes Fine-Tuning an echten Paaren aus Punktzahl und Aufsatz erreichte 0.474 ± 0.023 für dieses 7B-Modell. GRPO mit einer aus [[automated-essay-scoring|automatischer Aufsatzbewertung]] abgeleiteten Belohnung erreichte 0.618 ± 0.005, wobei die Gewinne an zwei unabhängigen Bewertern hielten, gegen die die Policy nie trainiert hatte ([[swim-student-writing-simulation-2026]]).
 
 Prompting erzeugte zudem eine idealisierte Population statt einer realistischen: einen mittleren normalisierten Gesamtwert von 0.74 gegenüber 0.58 bei echten Studierenden und eine mediane Länge von 304 Wörtern gegenüber 167. Die trainierten Modelle gewannen die menschlichen Verteilungen von Punktzahl und Länge ohne jede Längenüberwachung zurück. Eine Sache blieb schwer: authentische Form niedriger Kompetenz. Trainierte Modelle gewannen die Syntax zurück, schrieben aber zu wenige Rechtschreib- und Grammatikfehler, während Prompting Schwäche durch oberflächliche Verfälschung simulierte, mit Rechtschreibfehlern, die über ansonsten kompetente Prosa gesprüht wurden.
 
@@ -100,7 +100,7 @@ Oberflächlicher Realismus ist in beide Richtungen ein schwacher Test. In einer 
 
 ## Prüfen Sie, ob eine Beschreibung genügen würde
 
-Bevor Sie eine Kohorte bauen, prüfen Sie die billigere Option. Für die Bewertung einer Online-Lernerfahrung, bevor Studierende sich darauf einlassen, für die Vorhersage von Abbruch und Abschluss und für Design-Feedback übertraf ein einzelner „beschreibender“ Web-Agent, der die Lektion durchläuft und eine reichhaltige Beschreibung der Erfahrung erzeugt, die direkte Simulation einer Studierendenpopulation.
+Bevor Sie eine Kohorte bauen, prüfen Sie die billigere Option. Für die Bewertung einer [[online-teaching-and-learning|Online-Lernerfahrung]], bevor Studierende sich darauf einlassen, für die Vorhersage von Abbruch und Abschluss und für Design-Feedback übertraf ein einzelner „beschreibender“ Web-Agent, der die Lektion durchläuft und eine reichhaltige Beschreibung der Erfahrung erzeugt, die direkte Simulation einer Studierendenpopulation.
 
 Die simulierten Studierenden in diesem Vergleich zeigten weit weniger Verhaltensbreite als echte Lernende: Über 100 Agenten in fünf Testlektionen reproduzierten sie nur etwa 4 % der Wege, die echte Studierende nahmen, und kosteten dabei deutlich mehr Rechenzeit. Die Pipeline aus Beschreiben und Vorhersagen erreichte die beste Vorhersage der Abbruchverteilung in einem massiven globalen CS1-Kurs, mit einem mittleren JSD von 0.060 ([[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech, 2025]]).
 

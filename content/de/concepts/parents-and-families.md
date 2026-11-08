@@ -1,7 +1,7 @@
 ---
 title: Eltern und Familien
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -11,8 +11,8 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-10-26T01:00:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -84,7 +84,7 @@ Die stärksten familienbezogenen Ergebnisse in dieser Wissensbasis betreffen Ver
 
 Was fehlt, ist auffälliger. Eigene Berichte der Eltern sind selten: Die Lehrenden in [[k12-teachers-ai-companion-literacy-2026|Xiao et al. (2026)]] schlossen Eltern per Design aus ihrer Stichprobe aus, und die Eltern, die erscheinen, werden als eine Stimme unter Mädchen, Praktikerinnen und Praktikern oder Lehrenden interviewt. Es gibt hier keine direkte Evidenz darüber, wie Familien die [[educational-policy-ai|KI-Politik]] einer Schule lernen, was ihnen über Überwachung oder Offenlegung gesagt wird, oder wie sie darauf antworten, und Familie-Schule-Koordination wurde eher theoretisiert als getestet. Hausunterrichtsdesigns wie ParaTutor wurden mit 23 Dyaden in einem nationalen Kontext evaluiert, und Begleitervergleiche ruhen auf 19 Lernenden in einer Schule.
 
-Ein Scoping-Review 2026 kartiert, wie weit das Feld gekommen ist. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] analysierten 53 HCI-Studien aus 6,540 Datensätzen über 19 Veranstaltungen hinweg durch Aktivitätstheorie und fanden die Literatur zentriert auf Kind-Eltern-Interaktion und auf Sprache, [[ai-literacy|KI-Kompetenz]] und relationales Lernen, wobei 44 der 53 Studien (83%) in Kind-Eltern-Konfigurationen angesiedelt waren. Konversationelle, verkörperte und räumliche Systeme erzeugen Unterstützung aus dem Kontext einer sich entfaltenden Interaktion, und LLMs verteilen Bildungsarbeit neu, während Familien und Institutionen dafür verantwortlich bleiben, Ausgaben zu interpretieren und zu entscheiden, wie sie in die Praxis eingehen. Anhaltende [[personalized-learning|Personalisierung]], Reparaturarbeit, und wie Familien Autorität und Regeln verhandeln, sind die Lücken, die der Review nennt, was dieselbe Abwesenheit ist, die dieser Abschnitt aus der anderen Richtung dokumentiert.
+Ein [[meta-analysis-systematic-review|Scoping-Review]] 2026 kartiert, wie weit das Feld gekommen ist. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] analysierten 53 HCI-Studien aus 6,540 Datensätzen über 19 Veranstaltungen hinweg durch [[activity-theory-aied|Aktivitätstheorie]] und fanden die Literatur zentriert auf Kind-Eltern-Interaktion und auf Sprache, [[ai-literacy|KI-Kompetenz]] und relationales Lernen, wobei 44 der 53 Studien (83%) in Kind-Eltern-Konfigurationen angesiedelt waren. Konversationelle, verkörperte und räumliche Systeme erzeugen Unterstützung aus dem Kontext einer sich entfaltenden Interaktion, und LLMs verteilen Bildungsarbeit neu, während Familien und Institutionen dafür verantwortlich bleiben, Ausgaben zu interpretieren und zu entscheiden, wie sie in die Praxis eingehen. Anhaltende [[personalized-learning|Personalisierung]], Reparaturarbeit, und wie Familien Autorität und Regeln verhandeln, sind die Lücken, die der Review nennt, was dieselbe Abwesenheit ist, die dieser Abschnitt aus der anderen Richtung dokumentiert.
 
 **Beziehung zu anderen Seiten.** [[stakeholders|Akteure in der KI-Bildung]] ist der kurze Überblick über die gesamte Stakeholdermenge, mit Familien als Publikum, das noch nicht vertieft abgedeckt ist; diese Seite ist diese Tiefe. [[early-childhood-elementary-ai-education|Frühe Kindheit und Grundschule]] umfasst die Entwicklungs- und [[pedagogy|pädagogische]] Domäne für junge Lernende über Schule und Zuhause hinweg; diese Seite folgt der Familie über Alter hinweg, von Vorschulspielaktivitäten bis zu Sekundarstufenhausaufgaben. [[ai-use-disclosure|Offenlegung der KI-Nutzung]] umfasst, ob Lernende anderen sagen, dass sie KI genutzt haben; diese Seite umfasst die angrenzende Frage, ob diese Information die Erwachsenen zu Hause erreicht, und was Familien über KI-Nutzung in der Schule gesagt wird.
 

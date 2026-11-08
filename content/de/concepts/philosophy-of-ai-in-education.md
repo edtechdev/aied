@@ -1,15 +1,15 @@
 ---
 title: Philosophie von KI in der Bildung
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-10-25T19:20:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-05T15:16:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -44,8 +44,11 @@ Dies ist eine Konzeptseite zu den philosophischen und theoretischen Grundlagen v
 - **Das Wesen von Geist und Kognition.** Erfordert Denken Bewusstsein und einen Körper? Kann KI an genuin kognitiven Prozessen teilhaben? Rahmenwerke wie die **ensemble cognition** argumentieren, dass KI *funktionale Handlungsfähigkeit* ausübt — genuine kausale Wirksamkeit in kognitiven Prozessen — ohne Bewusstsein, und dass Denken aus dynamischer Mensch-[[student-ai-interaction|KI-Interaktion]] entsteht.([[ensemble-cognition-philosophy-ai-education]]) [[distributed-cognition|Verteilte Kognition]] und die Extended-Mind-These machen verwandte Aussagen darüber, dass Kognition über Systeme hinweg ausgebreitet ist.
 - **Was ist die lernende Person?** Posthumanistische Philosophie konzeptualisiert die lernende Person als „post-humane" Entität neu, deren kognitive Prozesse tatsächlich hybrid sind und über [[biology-education|biologische]] und künstliche Systeme verteilt sind.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Das stellt die Annahme infrage, die lernende Person sei ein begrenzter, autonomer individueller Geist.
 - **Verkörperung und die Grenzen entkörperter KI.** [[embodied-learning|Verkörperte]] und post-kognitivistische Philosophie kritisiert die Dominanz symbolischer, entkörperter KI-Modelle und argumentiert, Kognition sei in Situiertheit, Emergenz und sensomotorischer Kopplung begründet, der es [[generative-ai|generativer KI]] gegenwärtig mangele.([[videla-embodied-ai-education-choreography]])
+
+- **Emotionale Arbeit als Testfall für maschinelle Geister.** Die Debatten des Felds darüber, ob KI lehren kann, drehen sich oft darum, ob sie *fürsorgen* kann — eine Frage, die lange vor der [[affective-computing|affektiven Informatik]] erörtert wurde. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] rekonstruiert die Debatte von 1950 bis 1996, in der Ziffs Behauptung, nur lebende Wesen könnten buchstäblich Gefühle haben, von Smarts Identitätstheorie und Putnams Verhaltenskriterium beantwortet wurde, sodass drei konkurrierende Ontologien ungeklärt blieben. Seine Schlussfolgerung ist eine Begründungslast statt einer Unmöglichkeitsbehauptung — Repräsentation, Simulation und Mimikry unterbestimmen emotionale Arbeit —, was die Last all jenen auferlegt, die pastorale Arbeit an ein System delegieren würden.
+
 - **Handlungsfähigkeit, Urheberschaft und Bedeutung.** Wenn KI Interpretation und Sinnbildung vermittelt, fragt die Philosophie, wie Urheberschaft, epistemische [[agency|Handlungsfähigkeit]] und interpretative Autonomie neu konfiguriert werden.([[voicu-ai-interpretive-cognition-ssh-2026]])
-- **Die Ontologie KI-generierter wissenschaftlicher Objekte.** In der Chemie besetzen KI-vorhergesagte Verbindungen und Titrationskurven einen „liminalen ontologischen Raum" — bis zum empirischen Beweis weder ganz hypothetisch noch vollständig real —, was das Fach von einem Realismus hin zu einer konstruktivistischen Sicht verschiebt, in der Realität eine Kollaboration von Mensch und Maschine ist ([[philosophy-experimentation-ai-chemistry-2026|Reyes und Regala (2026)]]).
+- **Die Ontologie KI-generierter wissenschaftlicher Objekte.** In der [[chemistry-education|Chemie]] besetzen KI-vorhergesagte Verbindungen und Titrationskurven einen „liminalen ontologischen Raum" — bis zum empirischen Beweis weder ganz hypothetisch noch vollständig real —, was das Fach von einem Realismus hin zu einer konstruktivistischen Sicht verschiebt, in der Realität eine Kollaboration von Mensch und Maschine ist ([[philosophy-experimentation-ai-chemistry-2026|Reyes und Regala (2026)]]).
 - **Kognitive Passivität als epistemischer Schaden.** Bai und Costa (2026) stützen sich auf Arendts Darstellung des Denkens als nach innen gerichtete, nicht übertragbare Tätigkeit und argumentieren, dass GenAI, die die Arbeit liefert, Denken nicht bloß auslagert, sondern es verunmöglicht, wobei Bourdieus Feld und Habitus das Risiko in institutionellen Strukturen verorten ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
 - **Werte, Gerechtigkeit und der Zweck von Bildung.** Philosophische Analyse untersucht, ob KI-gesteuerte Bildung menschlichem Gedeihen und Bildungsgerechtigkeit dient oder ob sie Lernen im Dienst von Produktivität instrumentalisiert.([[avraamidou-ai-colonization-science-education]]) Das verbindet sich mit [[critical-pedagogy|kritischer Pädagogik]] und [[ethics|Ethik]].
 - **„Menschenzentriert“ als anthropozentrischer Diskurs, nicht als neutrale Ethik.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang & Jin (2026)]] lesen Dokumente von UNESCO, OECD und der Montréal-Deklaration und argumentieren, dass menschenzentrierte AIED die Ausschlüsse des Humanismus der Aufklärung erbt, dass Transhumanismus sie bewahrt und dass das Label kommerzielle Infrastruktur legitimieren kann.
@@ -122,3 +125,6 @@ Die Philosophie von KI in der Bildung und [[theory-development-aied|Theorieentwi
 - [[daoism-ai-education-philosophy-2026]] — Alternative KI-Philosophie: Daoismus als Methode für KI in der Bildung
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Wer handelt, wer weiß, wer antwortet? Eine korpusgestützte Diskursanalyse von Handlungsfähigkeit, epistemischer Verantwortung und Rechenschaftspflicht in der generativen KI-Forschung zur Hochschulbildung
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — „Menschenzentrierte“ AIED gelesen als anthropozentrischer Diskurs mit kommerziellen Verwendungen (Wang & Jin 2026)
+
+- [[khan-machines-emotional-labor-education-2026]] — Können Maschinen emotionale Arbeit leisten? Die Debatte 1950–1996 und warum Mimikry Fürsorge unterbestimmt
+

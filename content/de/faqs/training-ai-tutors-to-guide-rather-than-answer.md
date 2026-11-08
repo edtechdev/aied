@@ -1,7 +1,7 @@
 ---
 title: "Wie trainieren wir einen KI-Tutor, Studierende anzuleiten statt ihnen zu antworten?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, developing-ai-tutor, ai-agents-support-students-instructors]
 weight: 72
 type: faq
@@ -17,7 +17,7 @@ methods: [benchmark]
 ethics: [ai-sycophancy, pedagogical-safety]
 translation_of: faqs/training-ai-tutors-to-guide-rather-than-answer
 source_updated: "2026-10-28T11:26:02-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -32,9 +32,9 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-Ihr Tutor gibt die Antwort preis. Die Demo hat es nicht gezeigt, weil die Frage leicht war und die studierende Person kooperierte. Die Pilotprotokolle schon: Eine studierende Person fragt zweimal, das Modell wiederholt die Methode und löst dann. Eine Lehrkraft sieht sich eine Sitzung an und sagt, es sei ein Chatbot mit freundlicher Stimme. Jetzt entscheiden Sie, ob Sie ein Viertel der Engineering-Zeit in Post-Training stecken oder mit einem besseren System-Prompt ausliefern.
+Ihr Tutor gibt die Antwort preis. Die Demo hat es nicht gezeigt, weil die Frage leicht war und die studierende Person kooperierte. Die Pilotprotokolle schon: Eine studierende Person fragt zweimal, das Modell wiederholt die Methode und löst dann. Eine [[teacher-role|Lehrkraft]] sieht sich eine Sitzung an und sagt, es sei ein [[conversational-ai|Chatbot]] mit freundlicher Stimme. Jetzt entscheiden Sie, ob Sie ein Viertel der Engineering-Zeit in Post-Training stecken oder mit einem besseren System-Prompt ausliefern.
 
-Die kurze Antwort: Prompting beseitigt den Sog zur Antwort nicht, denn Hilfsbereitschaft ist das, worauf das Basismodell trainiert wurde. Wenn anleitendes Verhalten das Produkt ist, muss es trainiert werden, und die Variable, die über das Ergebnis entscheidet, ist die **Belohnung**. Schreiben Sie die Belohnung gegen einen Benchmark, bringen Sie schrittweises Schlussfolgern in die Trainingsdaten, und beurteilen Sie das Training am nächsten pädagogischen Zug, den das Modell wählt.
+Die kurze Antwort: Prompting beseitigt den Sog zur Antwort nicht, denn Hilfsbereitschaft ist das, worauf das Basismodell trainiert wurde. Wenn anleitendes Verhalten das Produkt ist, muss es trainiert werden, und die Variable, die über das Ergebnis entscheidet, ist die **Belohnung**. Schreiben Sie die Belohnung gegen einen Benchmark, bringen Sie schrittweises Schlussfolgern in die Trainingsdaten, und beurteilen Sie das Training am nächsten [[pedagogy|pädagogischen]] Zug, den das Modell wählt.
 
 ## Die kurze Version
 
@@ -44,7 +44,7 @@ Die kurze Antwort: Prompting beseitigt den Sog zur Antwort nicht, denn Hilfsbere
 
 **3.** Trainieren Sie auf schrittweisen Spuren. Ein Korpus aus Frage-und-richtige-Antwort-Paaren kann einem Modell nicht beibringen zu sehen, wo eine studierende Person falsch abgebogen ist.
 
-**4.** Bevorzugen Sie Reinforcement Learning gegenüber Imitation, wenn Urteil zählt, und behalten Sie die Zwischenstufen-Scores.
+**4.** Bevorzugen Sie [[reinforcement-learning|Reinforcement Learning]] gegenüber Imitation, wenn Urteil zählt, und behalten Sie die Zwischenstufen-Scores.
 
 **5.** Machen Sie die Belohnung dicht genug, dass sie bei den meisten Antworten auslöst, und führen Sie die Evaluation über ganze Gespräche.
 
@@ -66,13 +66,13 @@ Daraus folgen zwei Dinge. Erwarten Sie, dass die Belohnung ausgespielt wird, wei
 
 ## Machen Sie die Belohnung so dicht, dass sie lehrt
 
-Eine Exact-Match-Belohnung ist zu dünn gesät, wenn das, was Ihnen wichtig ist, mehrere Dimensionen hat. Der Schreibsimulator SWIM zeigt den Verlauf sauber: Rastergestütztes Prompting erreichte einen besten durchschnittlichen Trait-QWK von **0.577** mit Claude Sonnet und **0.422** mit GPT-5.4, nahe null bei einem offenen 7B-Modell; überwachte Feinabstimmung erreichte **0.474 ± 0.023** für dieses 7B-Modell; GRPO mit einer dichten, trait-normalisierten Genauigkeitsbelohnung erreichte **0.618 ± 0.005** über jedes Merkmal und jeden Prompt ([[swim-student-writing-simulation-2026]]).
+Eine Exact-Match-Belohnung ist zu dünn gesät, wenn das, was Ihnen wichtig ist, mehrere Dimensionen hat. Der [[simulation|Schreibsimulator]] SWIM zeigt den Verlauf sauber: Rastergestütztes Prompting erreichte einen besten durchschnittlichen Trait-QWK von **0.577** mit Claude Sonnet und **0.422** mit GPT-5.4, nahe null bei einem offenen 7B-Modell; überwachte Feinabstimmung erreichte **0.474 ± 0.023** für dieses 7B-Modell; GRPO mit einer dichten, trait-normalisierten Genauigkeitsbelohnung erreichte **0.618 ± 0.005** über jedes Merkmal und jeden Prompt ([[swim-student-writing-simulation-2026]]).
 
 Das Belohnungsdesign erzeugte diesen Abstand. Ein dichtes, trait-normalisiertes Signal schlägt Exact Match in einem Setting mit mehreren Merkmalen, und wenn Ihre Belohnung nur bei einer perfekten Antwort auslöst, ist der größte Teil Ihres Trainingssignals Schweigen.
 
 ## Bringen Sie das Schlussfolgern in die Beispiele
 
-Der am besten umsetzbare Befund in diesem Bereich betrifft, was die Trainingsdaten enthalten müssen. Instruktionsfeinabgestimmte Modelle lernten Algebra-Fehlvorstellungen nur, wenn sie auf **schrittweisen Lösungsspuren** trainiert wurden. Nur auf Endantworten trainiert, blieb die Genauigkeit **bei jeder Datengröße unter 30%** ([[misconception-acquisition-dynamics-llms-2026]]).
+Der am besten umsetzbare Befund in diesem Bereich betrifft, was die Trainingsdaten enthalten müssen. Instruktionsfeinabgestimmte Modelle lernten Algebra-[[misconceptions|Fehlvorstellungen]] nur, wenn sie auf **schrittweisen Lösungsspuren** trainiert wurden. Nur auf Endantworten trainiert, blieb die Genauigkeit **bei jeder Datengröße unter 30%** ([[misconception-acquisition-dynamics-llms-2026]]).
 
 Zwei Details aus dieser Studie sind für alle wichtig, die eine der beiden Seiten eines Tutors bauen. Die Studierendenrolle übergeneralisierte den gelernten Fehler, bis korrekte Beispiele in Anteilen von nur **einem von vier** beigemischt wurden. Die Tutorenrolle zeigte keinen solchen Preis und hielt die korrekte Genauigkeit über zehn gemeinsam trainierte Fehlvorstellungen hinweg von **93% auf 98%**.
 
@@ -88,7 +88,7 @@ Die praktische Lesart: Wenn Ihr Versagen ein falscher Ton oder ein fehlendes For
 
 ## Versehen Sie jedes Beispiel mit dem Verhalten, das es lehrt
 
-Wenn die Überwachung das Schlussfolgern enthalten muss, ist das Etikettierschema eine Curriculum-Entscheidung. Eine Studie zu Überwachungsetiketten fand, dass die Zuweisung genau eines Zielverhaltens zu jedem Trainingsbeispiel — unter Fachkompetenz, Curriculum-Verankerung, diagnostischem Schlussfolgern und Scaffolding — die Scores bei jeder getesteten Modellgröße hob, mit den größten Gewinnen bei Scaffolding und bei der Nutzung der Vorgeschichte einer lernenden Person. Die Diagnose des Wissensstands blieb das schwächste Verhalten bei **54.04%** ([[omniedu-open-educational-foundation-models-2026]]). Diagnose ist der schwerste Punkt auf dieser Liste, planen Sie also dafür.
+Wenn die Überwachung das Schlussfolgern enthalten muss, ist das Etikettierschema eine [[curriculum-design|Curriculum]]-Entscheidung. Eine Studie zu Überwachungsetiketten fand, dass die Zuweisung genau eines Zielverhaltens zu jedem Trainingsbeispiel — unter Fachkompetenz, Curriculum-Verankerung, diagnostischem Schlussfolgern und [[scaffolding|Scaffolding]] — die Scores bei jeder getesteten Modellgröße hob, mit den größten Gewinnen bei Scaffolding und bei der Nutzung der Vorgeschichte einer lernenden Person. Die Diagnose des Wissensstands blieb das schwächste Verhalten bei **54.04%** ([[omniedu-open-educational-foundation-models-2026]]). Diagnose ist der schwerste Punkt auf dieser Liste, planen Sie also dafür.
 
 Datenauswahl ist ein eigenes Trainingsproblem. Edu-QuRating überträgt Präferenzdestillation auf die Kuration von Bildungsdaten und ersetzt einen einzelnen Score „ist das bildungsbezogen?" durch **20 Rasterdimensionen**, die sachliche Genauigkeit, pädagogische Struktur und Angemessenheit des Niveaus abdecken ([[garrod-edu-qurating-educational-data-curation-2026]]). Wenn Sie einen Korpus aus Webtext zusammenstellen, entscheidet dieser Filter, wie Ihr Modell klingen lernt.
 
@@ -106,7 +106,7 @@ Ein billigerer Weg ist Destillation. Pedagogy-R1 wurde in den Größen 1.5B und 
 
 Post-Training muss nicht nur formen, was das Modell sagt. TACT trainierte einen Tutor auf einer Taxonomie von 13 Strategien plus einer zweiachsigen Taxonomie studentischer Züge nach und gewann **20.30 Punkte** gegenüber seinem Qwen3.5-4B-Backbone, mit einem diagnostischen Benchmark, der **die Labels zum Lernendenzustand zurückhält**, die während des Trainings verfügbar waren, sodass das Modell den Zustand aus dem Dialog erschließen muss ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-Dieselbe Logik zieht sich durch das Alignment für [[special-education|Sonderpädagogik]] ([[special-r1-rl-special-education]]) und durch heuristische RL-Arbeit, die Modelle als sokratische Guides statt als Antworter ausrichtet ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Eine Plattform geht weiter und trainiert die Policy statt der Prosa: Ein Reinforcement-Learning-Agent wählt die nächste Übungsaufgabe, sodass das, was die lernende Person als Nächstes tut, vom trainierten Modell entschieden wird ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+Dieselbe Logik zieht sich durch das Alignment für [[special-education|Sonderpädagogik]] ([[special-r1-rl-special-education]]) und durch heuristische RL-Arbeit, die Modelle als [[socratic-method|sokratische]] Guides statt als Antworter ausrichtet ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Eine Plattform geht weiter und trainiert die Policy statt der Prosa: Ein Reinforcement-Learning-Agent wählt die nächste Übungsaufgabe, sodass das, was die lernende Person als Nächstes tut, vom trainierten Modell entschieden wird ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Der letzte Fall ist der Test dafür, ob Sie einen Tutor entworfen haben oder einen Textgenerator. Wenn die einzige Ausgabe des Modells Prosa ist, lebt die Pädagogik in Ihrem Orchestrierungscode. Wenn das Modell die nächste Aufgabe wählt, ist die Pädagogik in den Gewichten.
 
@@ -116,7 +116,7 @@ Training macht ein Modell über ein langes Gespräch nicht sicher. SafeTutors ze
 
 ## Was Trainingsteams falsch machen
 
-Mehr Prompting wird irgendwann halten. Sycophancy bleibt nach Prompting und Alignment bestehen, und Autoritätsdruck öffnet das Verhalten wieder, das ein Kontextwechsel-Test geschlossen hatte. Das Transkript aus Ihrem eigenen Drucktest ist der Beleg dafür in Ihrem Produkt.
+Mehr Prompting wird irgendwann halten. [[ai-sycophancy|Sycophancy]] bleibt nach Prompting und Alignment bestehen, und Autoritätsdruck öffnet das Verhalten wieder, das ein Kontextwechsel-Test geschlossen hatte. Das Transkript aus Ihrem eigenen Drucktest ist der Beleg dafür in Ihrem Produkt.
 
 Die Leaderboard-Zahl ist das Ergebnis. 96.52% auf CDPK beschreibt die Leistung auf den Pädagogikaufgaben eines Benchmarks. Ihre Studierenden treffen Ihr Curriculum, Ihre Notation und eine studierende Person, die seit zwanzig Minuten feststeckt.
 

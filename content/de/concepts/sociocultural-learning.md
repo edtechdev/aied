@@ -1,15 +1,15 @@
 ---
 title: Soziokulturelles Lernen
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-10-26T01:30:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -48,17 +48,22 @@ Soziokulturelle Theorie (Wygotski, 1978; Lurija; Leontjew) geht davon aus, dass 
 
 Die ZPD (Wygotski) ist das am breitesten angewandte soziokulturelle Konzept im [[intelligent-tutoring|KI-Tutoring]]: der Raum zwischen dem, was eine lernende Person allein kann, und dem, was sie mit Unterstützung kann. Lernen geschieht am wirksamsten, wenn Unterricht diese Zone adressiert — herausfordernd genug, um Entwicklung voranzutreiben, unterstützt genug, um Fortschritt zu ermöglichen. Sie ist das theoretische Fundament von [[scaffolding|Scaffolding]]: temporäre, anpassbare Unterstützung, die zurückgenommen wird, wenn Kompetenz wächst. In KI in der Bildung rahmt die ZPD die zentrale Designfrage, wie viel Unterstützung ein [[intelligent-tutoring|KI-Tutor]] geben sollte, damit Lernen vorankommt, ohne verschenkt zu werden — siehe [[stanford-evidence-base-ai-k12-2026]].
 
+Von Maschinen erzeugte Hilfe kann in dieser Zone landen. In einer randomisierten Studie mit 274 [[adult-learning|erwachsenen Lernenden]] über vier Mathematikfächer erzeugten von ChatGPT generierte Hinweise auf ausgearbeitete Lösungen einen Vorher-Nachher-Zuwachs von 17,00 % gegenüber 1,85 % ohne Hinweise, während von menschlichen Tutorinnen und Tutoren verfasste Hinweise 11,62 % erbrachten; die beiden Hilfebedingungen waren statistisch nicht trennbar ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos und Bhandari, 2024]]). Die Fehlerquote relativiert die Äquivalenz: 32 % der generierten Hinweise scheiterten an Qualitätsprüfungen, bis Selbstkonsistenz-[[prompt-engineering|Prompting]] diese in den drei Algebrafächern auf nahezu null und in der Statistik auf 13 % senkte. Eine kundigere Person, die in einem von drei Fällen falsch liegt, ist immer noch ein mediationaler Agent — deshalb muss der Beitrag der Maschine geprüft werden, bevor eine lernende Person darauf aufbaut.
+
 ### Soziokulturelles Lernen in der KI-Bildung
 
 Soziokulturelle Theorie prägt die [[research-methods-aied|Forschung]] zur AIED auf mehrere unterschiedliche Weisen:
 
 - **KI als mediationaler Agent.** Generative KI verkompliziert die soziokulturelle Unterscheidung zwischen Vermittlungsmitteln und sozialer Interaktion: Sie vermittelt Tätigkeit *und* erzeugt kontextsensitive, kontingente Beiträge, die Interaktion prägen, ohne Intentionalität, soziale Zugehörigkeit oder Rechenschaftspflicht zu besitzen. Warschauer, Tate und Ritchie (2026) schlagen den *mediationalen Agenten* als hybride Kategorie vor und leiten menschlich-zuerst-Gewohnheiten der Teilhabe ab (Primat menschlicher Kognition, absichtsvolles [[student-engagement|Engagement]], überwachende Handlungsfähigkeit, epistemische Wachsamkeit, reflexive [[self-regulated-learning|Selbstregulation]]), um die [[agency|Handlungsfähigkeit der Lernenden]] zu bewahren.([[generative-ai-mediational-agent-sociocultural-2026]])
-- **Eine stufensensitive Darstellung der regulativen Rolle von KI.** [[ai-cognitive-partner-co-regulation-learning|Ein Entwicklungsrahmenwerk menschlicher KI-Koregulation]] gibt KI vier Rollen — Scaffold, metakognitive Unterstützung, externes Gedächtnis und Entscheidungspartnerin — und ordnet sie nach Stufe: strukturierte externe Regulation in der frühen Kindheit, ein [[metacognition|metakognitiver]] Partner in mittlerer Kindheit und Adoleszenz und eine Mitarbeitende bei komplexer Kognition im Erwachsenenalter.
+- **Eine stufensensitive Darstellung der regulativen Rolle von KI.** [[ai-cognitive-partner-co-regulation-learning|Ein Entwicklungsrahmenwerk menschlicher KI-Koregulation]] gibt KI vier Rollen — Scaffold, metakognitive Unterstützung, externes Gedächtnis und Entscheidungspartnerin — und ordnet sie nach Stufe: strukturierte externe Regulation in der [[early-childhood-elementary-ai-education|frühen Kindheit]], ein [[metacognition|metakognitiver]] Partner in mittlerer Kindheit und Adoleszenz und eine Mitarbeitende bei komplexer Kognition im Erwachsenenalter.
 - **ZPD-kalibriertes Scaffolding.** [[intelligent-tutoring|KI-Tutoren]] sollten Hilfe dynamisch so kalibrieren, dass sie innerhalb der Zone jeder lernenden Person liegt. [[stanford-evidence-base-ai-k12-2026]] zeigt, wie Tutoren, die auf das Niveau einer lernenden Person abgestimmt sind, allgemeine Unterstützung übertreffen; [[adaptive-learning|adaptives Lernen]] und [[golrang-propact-pair-programming-2026]] operationalisieren die ZPD durch Anpassung von Schwierigkeit und Hinweisen; und prinzipiengeleitete Rahmenwerke wie [[finkelstein-principled-ai-education-2025]] argumentieren, Unterstützung solle zurückgenommen werden, wenn Kompetenz wächst.
+
+- **Das Signal, die Zone zu verlassen, ist die Zielrichtung, nicht die Tiefe.** Ein Tutor, der pro Entscheidungspunkt eskaliert und ausblendet, gab 65,0 % der Zeit nach einem Zug zu einer *anderen* Entscheidung nach, doppelt so häufig wie bei Zügen, die auf die unterstützte Entscheidung zielten, und die Tiefe der Antwort ordnete die Ergebnisse nicht ([[adaptive-scaffolding-contingency-comet-tutor-2026|Hou et al. (2026)]]). Die Rücknahme setzt eine lernende Person voraus, die antwortet: Die Inanspruchnahme fiel von 37,0 % nach der ersten Nachfrage auf 21,8 % nach der dritten, sodass Stille kein Beleg für Bereitschaft ist.
+
 - **Eine vierte Zone: was das Modell weiß.** [[scan-framework-task-assignment-generative-ai-2025|Tsim und Gutoreva (2025)]] erweitern Wygotskis Diagramm statt die Tutoringschleife und fügen der ZPD eine Zone *bekannt für [[generative-ai|GenAI]]* hinzu, aus der sich vier Subzonen ablesen lassen, die klassifizieren, wem eine Aufgabe zugewiesen werden sollte: Substitute (kein aufgabenspezifisches Wissen, also trägt die allgemeine Kompetenz des Modells sie), Aid (partielles Wissen, augmentiert), Complement (genug Wissen, um die Ausgaben des Modells zu überwachen) und Non-negotiable (genug, um sie ohne Hilfe zu tun, also bringt Delegation wenig). [[scaffolding|Scaffolding]] wird als Aufgabenzuweisung ausgedrückt statt als Hinweislieferung, und eine [[metacognition|metakognitive]] Schleife aus Echtzeit-Evaluation, Reflexion und Lernen ist das, was eine Aufgabe über die Zeit zwischen Subzonen bewegt.
 - **Lehre und Gemeinschaft.** Soziokulturelle Vorstellungen stützen kognitive Lehre, Modellierung, Coaching und Ausblenden; Praxisgemeinschaften rahmen Lernen als Bewegung hin zu vollerer Teilhabe an den Praktiken einer Gemeinschaft.
 - **Kultureller und [[governance|institutioneller]] Kontext.** Der [[constructivist|konstruktivismus]]-nahe soziokulturelle Strang betont, dass die kulturelle Dimension prägt, was als Wissen zählt, wer Autorität ist und was Anstrengung bedeutet — siehe die Rahmung von Lernenden, Kontexten und Kulturen im [[young-people-learning-generative-ai-rapid-review-2026|Sydney-PreK-12-Rapid-Review]].
-- **Maße für Sprechhandlungen zu validieren erfordert die Jugend, deren Sprechhandlungen gemessen werden.** Die Rekontextualisierung von Sprechhandlungsdefinitionen mit vier Fokusstudierenden erhöhte die LLM-Klassifikations-F1 um +0.104 für Claim und um +0.23 für Question, und die eigenen Interpretationen der Studierenden wichen von denen Erwachsener und des Modells ab — eine strukturelle Grenze textbasierter Klassifikation, kein Problem der Datenmenge ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
+- **Maße für Sprechhandlungen zu validieren erfordert die Jugend, deren Sprechhandlungen gemessen werden.** Die Rekontextualisierung von Sprechhandlungsdefinitionen mit vier Fokusstudierenden erhöhte die [[llm|LLM]]-Klassifikations-F1 um +0.104 für Claim und um +0.23 für Question, und die eigenen Interpretationen der Studierenden wichen von denen Erwachsener und des Modells ab — eine strukturelle Grenze textbasierter Klassifikation, kein Problem der Datenmenge ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
 
 ### Verbindung zu kognitiver Last und Metakognition
 
@@ -101,5 +106,9 @@ Der soziokulturelle Strang ist eng mit [[cognitive-offloading|Cognitive-Load-The
 - [[golrang-propact-pair-programming-2026]] — Kollaboratives KI-Tutoring
 - [[finkelstein-principled-ai-education-2025]] — Prinzipiengeleitete KI-Bildungs-Rahmenwerke
 - [[stanford-evidence-base-ai-k12-2026]] — Stanforder Evidenzbasis für KI in K-12
+
+- [[chatgpt-hints-human-tutor-learning-gains-2024]] — Von LLM verfasste Hinweise erreichten menschliche Tutorhinweise bei Mathematik-Lernzuwächsen (Pardos & Bhandari 2024)
+- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Ausblenden nach dem, worauf der Zug der lernenden Person zielt, nicht nach der Tiefe der Antwort
+
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney-Rapid-Review zu GenAI in PreK-12
 - [[ai-cognitive-partner-co-regulation-learning]] — KI als kognitiver Partner und Koregulation

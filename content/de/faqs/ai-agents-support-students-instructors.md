@@ -1,7 +1,7 @@
 ---
 title: "Wie können KI-Agenten Studierende und Lehrende unterstützen?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
 audience: [instructors, learners, administrators]
@@ -9,7 +9,7 @@ foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
 translation_of: faqs/ai-agents-support-students-instructors
 source_updated: "2026-10-28T11:29:19-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -44,7 +44,7 @@ Ein [[agentic-ai|Agent]] plant, ruft Werkzeuge auf, hält Kontext, zerlegt Arbei
 
 [[agentic-workflows-education|Agentische Workflows in der Bildung]] benennt vier wiederkehrende Fähigkeiten: Reflexion, Planung, Werkzeugnutzung und Multiagenten-Kollaboration. Jede fügt eine Möglichkeit und zugleich Kosten hinzu, bei [[explainable-ai|Interpretierbarkeit]], Koordination, [[trust-calibration|Vertrauen]], Latenz und Aufsicht.
 
-Die Rollen auf Seiten der Studierenden reichen von [[adaptive-learning|adaptiver]] Nachhilfe und Lernplanung über [[formative-assessment|formatives]] Feedback, angeleitetes [[problem-solving|Problemlösen]] und Übungsgenerierung bis zu Empfehlungen zu Voraussetzungen und reflexivem [[metacognition|metakognitivem]] [[prompt-engineering|Prompting]]. Die Rollen auf Seiten der Lehrenden umfassen Materialentwicklung, [[automated-question-generation|Fragengenerierung]] und -validierung, Feedback-Triage, Kurs-[[learning-analytics|Analytics]], Instructional Design, Ressourcenabruf und die Orchestrierung spezialisierter Subagenten.
+Die Rollen auf Seiten der Studierenden reichen von [[adaptive-learning|adaptiver]] Nachhilfe und Lernplanung über [[formative-assessment|formatives]] Feedback, angeleitetes [[problem-solving|Problemlösen]] und Übungsgenerierung bis zu Empfehlungen zu Voraussetzungen und reflexivem [[metacognition|metakognitivem]] [[prompt-engineering|Prompting]]. Die Rollen auf Seiten der Lehrenden umfassen Materialentwicklung, [[automated-question-generation|Fragengenerierung]] und -validierung, Feedback-Triage, Kurs-[[learning-analytics|Analytics]], [[learning-design|Instructional Design]], Ressourcenabruf und die Orchestrierung spezialisierter Subagenten.
 
 Zwei davon sind früh sicherer, weil beide ein Artefakt erzeugen, das ein Mensch liest, bevor es Studierende lesen: ein Fragengenerator mit einem Validator und Entwürfe, die eine Lehrkraft bearbeitet.
 

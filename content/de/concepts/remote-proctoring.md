@@ -1,7 +1,7 @@
 ---
 title: Fernaufsicht bei Prüfungen
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,8 +10,8 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-10-26T10:00:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T16:51:25-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -54,13 +54,13 @@ Fernaufsicht existiert auf einem Spektrum. **Online-Aufsicht** umfasst typischer
 
 - **Schäden für Vertrauen und die Beziehung zwischen Studierenden und Lehrenden.** Die folgenreichste Kostenposition der Fernaufsicht ist oft relational. Kontinuierliche Überwachung kommuniziert, dass Studierende für unehrlich gehalten werden, was [[trust|Vertrauen]] erodieren, die Beziehung zwischen Studierenden und Lehrenden zerfressen und das Gefühl gemeinsamer Zielsetzung untergraben kann, das akademische Integrität stützt. Überwachung als Durchsetzung kann den vertrauensbasierten, erzieherischen Ansatz zu Integrität verdrängen, der verantwortungsvollen Umgang aufbaut.
 - **Akademische Überwachung.** Fernaufsicht ist eine Form akademischer Überwachung, die institutionelle Überwachung in die private Wohnumgebung der Studierenden ausdehnt. Jenseits der Prüfung selbst erfassen diese Systeme den Wohnraum, das Gesicht, die Stimme und das Verhalten der Studierenden kontinuierlich — ein Maß an Prüfung mit wenigen Präzedenzfällen in der [[higher-ed|Hochschulbildung]]. Kritikerinnen und Kritiker argumentieren, das normalisiere eine Überwachungskultur, in der Studierende für schuldig gehalten werden, bis sie Ehrlichkeit bewiesen haben, und forme die Beziehung zwischen Institutionen und Lernenden neu, wobei es Fragen der Verhältnismäßigkeit aufwerfe: ob die Integritätsgewinne es rechtfertigen, jede lernende Person wegen der Vergehen weniger einer durchdringenden Überwachung zu unterziehen.([[privacy]]), [[trust]]
-- **Datenschutz und Zustimmung.** AIPS greifen kontinuierlich auf Gesichtsbilder, Stimmprofile, Blickrichtung und Tastendynamik zu, oft durch anhaltende audiovisuelle Überwachung. Datenhandhabung muss Rahmenwerken wie GDPR und Indiens PDP Bill genügen und erfordert klare Zustimmung und sicheren Umgang mit biometrischen Daten. Studierende haben oft wenig Wahl, als Überwachung zu akzeptieren, wenn sie eine Prüfung ablegen wollen, was Fragen aufwirft, ob Zustimmung tatsächlich freiwillig ist.([[privacy]])
+- **Datenschutz und Zustimmung.** AIPS greifen kontinuierlich auf Gesichtsbilder, Stimmprofile, [[sensor-and-gaze-analytics|Blickrichtung]] und Tastendynamik zu, oft durch anhaltende audiovisuelle Überwachung. Datenhandhabung muss Rahmenwerken wie GDPR und Indiens PDP Bill genügen und erfordert klare Zustimmung und sicheren Umgang mit biometrischen Daten. Studierende haben oft wenig Wahl, als Überwachung zu akzeptieren, wenn sie eine Prüfung ablegen wollen, was Fragen aufwirft, ob Zustimmung tatsächlich freiwillig ist.([[privacy]])
 - **Falsch-positive Meldungen, falsche Anschuldigungen und Angst.** Systeme können harmloses Verhalten (Wegblicken, Haltungsanpassung) als verdächtig markieren, was Vertrauen der Studierenden erodiert und falsche Verstoßanschuldigungen erzeugt — besonders wo Aufsichten oder Prüflingen es an Proficiency mangelt.
 - **Stress und Prüfungsangst.** Eine aufgesehene Prüfung abzulegen ist selbst eine Quelle signifikanten Stresses und signifikanter Angst. Kontinuierliche Überwachung, Angst, falsch markiert zu werden, und der Druck, beobachtet zu werden, können Prüfungsangst erhöhen und Leistung beeinträchtigen — und, per der Evidenz, gestresste Studierende können *eher* zu unredlichem Verhalten greifen, was bedeutet, dass die Überwachung kontraproduktiv sein kann. Beobachtet zu werden ist stressig und kann selbst das unethische Verhalten induzieren, das es verhindern will.
 - **Die Integritätsbegründung überlebte den größten Test nicht.** Über vier Wellen und 1.760 Studierende in 105 Kursen erhöhte Aufsicht die Prüfungsangst (β = 0,60, p < 0,001), hatte aber keinen Effekt auf die Versuchung zu fälschen, die wahrgenommene Schwierigkeit oder die Noten, sodass die Überwachungskosten nicht durch Abschreckung ausgeglichen wurden ([[conijn-fear-big-brother-proctored-exams-2022|Conijn et al. (2022)]]).
 - **Gerechtigkeit und digitale Kluft.** Geräteabhängigkeit, instabile Internetverbindung, Beleuchtung und Hardwarevariabilität benachteiligen ländliche und geringbandbreitige Studierende unverhältnismäßig; Modellgenauigkeit kann über demografische Gruppen und Umgebungen hinweg variieren, was unfaires Markieren riskiert.([[digital-divide]]), [[equity-in-ai-education]] Ein Scoping-Review zur Aufsicht im [[nursing-education|Pflege]]-Assessment zeigt, dass das kein Randfall ist: Vier seiner sechs eingeschlossenen Studien berichteten Probleme mit der Internetkonnektivität, eine berichtete Lastabwurf neben begrenzten Datenpaketen, und Geräteinkompatibilität, Browser-Extension-Fehler und gescheiterte Umgebungsscans waren Routine — sodass infrastrukturelle Ungerechtigkeit, nicht nur Modellbias, bestimmt, wer überhaupt bewertet werden kann.([[harerimana-remote-proctoring-nursing-scoping-2026]])
 - **Erkennungslücken und das Wettrüsten.** Identitäts-Spoofing (Foto-/Videomaskierung), Browsernutzung und Copy-Paste bleiben schwer verlässlich zu erkennen; Erkennungsgenauigkeit ist durch Grenzen der Datensätze, Einzelmodell-Evaluation und Reproduzierbarkeitslücken begrenzt. Aufsicht löst Integrität nicht vollständig und kann ein falsches Sicherheitsgefühl erzeugen.
-- Tragbare KI entfernt das Verhaltenssignal, auf das Proctoring angewiesen ist: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argumentieren, dass KI-Brillen, Ohrstöpsel und KI-fähige Hörgeräte verdeckte Unterstützung liefern, ohne Blickverlagerung, Aufmerksamkeitsverlagerung oder Haltungshinweis, sodass Aufsicht und die Aufforderung, Geräte abzugeben, die Hinweise verlieren, auf die sie angewiesen sind.
+- Tragbare KI entfernt das Verhaltenssignal, auf das Proctoring angewiesen ist: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argumentieren, dass KI-Brillen, Ohrstöpsel und KI-fähige Hörgeräte verdeckte Unterstützung liefern, ohne Blickverlagerung, Aufmerksamkeitsverlagerung oder Haltungshinweis, sodass Aufsicht und die [[cognitive-surrender|Aufgabe]] von Geräten, die Hinweise verlieren, auf die sie angewiesen sind.
 - **Die Governance-Frage.** Ob Überwachung die richtige Antwort ist gegenüber [[authentic-assessment|Assessment-Neugestaltung]] (mündlich, prozessbasiert, [[eportfolio|Portfolio]]) ist eine offene institutionelle Entscheidung; Fernaufsicht ist ein Werkzeug, keine vollständige Lösung.([[governance]]) Das Risiko, das folgt, wenn Durchsetzung schiefgeht — Anschuldigungen, die auf Punktzahlen und Ereignisprotokollen beruhen, Retention und Weiterverarbeitung erfasster Daten, und Regeln, die ungleich auf beeinträchtigte oder nicht-muttersprachliche Studierende fallen —, ist auf [[legal-issues-and-risks|rechtliche Fragen und Risiken]] kartiert.
 
 ## Evidenzbasis
@@ -108,7 +108,6 @@ Fernaufsicht existiert auf einem Spektrum. **Online-Aufsicht** umfasst typischer
 
 - [[automated-online-exam-proctoring-decade-review-2026]] — Zehnjähriger systematischer Review automatisierten Online-Prüfungs-Proctorings
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Umfassender Review akademischer Unehrlichkeit beim automatisierten Proctoring
-- [[ssaho-ai-academic-integrity-review-2025]] — KI und akademische Integrität: systematischer Review
 - [[conijn-fear-big-brother-proctored-exams-2022]] — Die Angst vor Big Brother: die negativen Nebenwirkungen von Proctoring auf die Prüfungsangst
 - [[biology-degree-integrity-genai-cheating-2026]] — Können Studierende sich mit Schummelei zu einem Biologie-Abschluss schummeln? Eine Fallstudie zur Verwundbarkeit von Biologie-Kursnoten für akademische Unehrlichkeit im Zeitalter generativer KI
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — Unter Überwachung: Fern-Proctoring-Praktiken im Pflegeassessment kartieren

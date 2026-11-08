@@ -1,7 +1,7 @@
 ---
 title: "Welche Kompetenzen braucht die Fakultät in Bezug auf KI?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
@@ -9,7 +9,7 @@ audience: [faculty developers, instructors]
 level: [adult learning]
 translation_of: faqs/faculty-ai-competencies
 source_updated: "2026-10-28T11:29:19-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -107,7 +107,7 @@ Fachexpertinnen und -experten erarbeiten die Integration selbst. Inhaltswissen s
 
 Ein Framework deckt alle ab. Der Standard mit sechs Rollen existiert, weil TPACK, SAMR und die großen Lehrkräftestandards K-12-Lehrkräfte oder allein die Lehrdimension abdecken.
 
-Widerstand ist eine Wissenslücke, die gefüllt werden muss. Risikoaversion sagte die Absicht negativ voraus, und die Identitätsarbeit beschreibt Fakultätsangehörige, die aus pädagogischen Werten argumentieren. Ein Teil dessen, was wie Widerwillen aussieht, ist eine vertretbare Position zur Überabhängigkeit von Studierenden.
+Widerstand ist eine Wissenslücke, die gefüllt werden muss. Risikoaversion sagte die Absicht negativ voraus, und die [[learner-identity|Identitätsarbeit]] beschreibt Fakultätsangehörige, die aus pädagogischen Werten argumentieren. Ein Teil dessen, was wie Widerwillen aussieht, ist eine vertretbare Position zur Überabhängigkeit von Studierenden.
 
 ## Was Ihnen entgegenkommen wird
 

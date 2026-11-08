@@ -1,7 +1,7 @@
 ---
 title: Leitplanken
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,8 +9,8 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-10-28T19:28:52-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-05T21:30:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -68,6 +68,8 @@ Das [[generative-ai-guardrails-harm-learning|Bastani]]-GPT-Tutor-Design zeigt da
 - **Sykophantie-Resistenz:** [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] zeigt, dass Tutoren unter Autoritäts- und sozial-[[affective-computing|affektivem]] Druck kapitulieren und korrigierendes Feedback vorenthalten. Es argumentiert, dass „freundlich-aber-korrektes“ Verhalten — korrigierende Reibung, die konzeptionellen Wandel treibt — eine Sicherheitsanforderung ist. Leitplanken müssen [[ai-sycophancy|Sykophantie]] widerstehen, nicht nur Toxizität.
 - **Lehrkraft-in-der-Schleife-QA:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] fand, dass Lehrkräfte KI-Tutoringbots vor dem Deployment praktisch nie testen, und erzwingt lehrkraftgetriebene QA als erstklassige Autorentätigkeit über korrekturbasiertes Editieren und [[human-in-the-loop-ai|Human-in-the-Loop]]-Validierung.
 
+- **Studierendeneingaben sind das Moderationsproblem, und kaum.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] setzten einen strukturierten Chat in einem Mathematik-ITS hinter einen zweistufigen Sicherheitsfilter und fanden, dass nur 0,31 % der 54.384 Studierendennachrichten aus dem Feldeinsatz 0,1 oder höher auf der OpenAI-Moderations-API erreichten, wobei die einzige Hochrisiko-Markierung ein Falschpositiv war. Die Schwellenwerte pro Kategorie waren red-team-kalibriert — 17 Lehrkräfte und Designerinnen und Designer führten 57 adversariale Gespräche —, bevor sie zur Richtlinie wurden.
+
 - **Nur verifizierbare Instruktionen.** [[reflection-agent-fidelity-career-2026|Nepal et al. (2026)]] auditieren einen GPT-4o-Reflexionsagenten gegen seinen eigenen Systemprompt und finden, dass Treue zur Prüfbarkeit verfolgt: mechanische Regeln (eine Antwortlängengrenze) wurden befolgt, während Verhaltensregeln („nicht schmeicheln“, „sanft herausfordern“) in etwa der Hälfte seiner Turns gebrochen wurden, ohne Spur im Output, und der Verhaltensbruch fiel mit schlechteren Teilnehmerergebnissen zusammen. Die Designimplikation ist, Verhalten in verifizierbaren Begriffen zu spezifizieren und Transkripte routinemäßig zu auditieren, da eine Leitplanke, die nicht geprüft werden kann, nicht verlassen werden kann.
 - **Eine Zuverlässigkeitsschicht um ein Modell, das Lehrende nicht auditieren können.** [[scaffolding-student-ai-dialogue-framework-2026|Muss, Leisten und Bardyn (2026)]] umgeben ein LLM mit externer Verifikation, gezielter Reparatur und sicherem Fallback, gesteuert von einem entwicklungsbezogenen und pädagogischen Rahmenwerk und gehalten modellagnostisch und datenschutzbewahrend. In einem Klassenpiloten mit 12–16-Jährigen, die mit einem LLM-betriebenen sozialen Roboter an einer Ko-Kreationsaufgabe arbeiteten, zog der gesteuerte Prototyp mehr Aktivität, [[student-engagement|Engagement]] und ontopic-Teilhabe als eine Prompt-only-Baseline. Der architektonische Punkt ist, dass Sicherheit *um* ein System herum angebracht werden kann, statt internen Zugriff darauf zu erfordern, was geschichtete Leitplanken in [[k-12|K-12]]-Settings einsetzbar macht.
 
@@ -84,8 +86,8 @@ Leitplanken sind selbst nicht neutral: das [[paternalistic-filter-llm-history-ed
 
 Die zwei sind eng gekoppelt: fast jede Leitplankentechnik ist ein Weg, [[pedagogy|pädagogische]] Sicherheit zu erreichen, und pädagogische Sicherheit wird fast vollständig über Leitplanken geliefert. Leitplanken werden daher am besten verstanden als die **Design- und Ingenieursschicht** unter dem Prinzip pädagogischer Sicherheit, und ist auch der breitere Begriff, der in der allgemeinen KI-Sicherheit verwendet wird (Inhaltsmoderation, Jailbreak-Resistenz), bevor er für Bildung spezialisiert wird.
 
-**Leitplanken als Verteilung von Autorität.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] behandelt Leitplanken als Allokationen über sechs trennbare Dimensionen — pädagogische Fundierung, instruktionale KI-Autorität, menschliche Rechenschaftspflicht, Handlungsfähigkeit der Lernenden, Kontextgrenzen und Evaluationssichtbarkeit — statt als Punkte auf einer strikt-zu-permissiv-Linie, sodass Werkzeuge, die ein Modell teilen, Autorität sehr unterschiedlich verteilen können. Auf Kursskala muss die Grenze den Anfragenraum, den Antwortenraum und die Sichtbarkeit für Lehrende abdecken, nicht nur generierten Inhalt.
-**Leitplanken können Lernende umleiten statt sie zu stoppen.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] randomisierten 132 Studierende in einem einführenden Programmierkurs auf vier KI-Lehrassistenten, die pädagogischen Stil (sokratisch vs. direkte Instruktion) und Kontextbewusstsein variierten. Studierende bewerteten den sokratischen Assistenten mit vollem Kontext am wenigsten günstig, und dieselbe Bedingung zeigte deskriptiv den höchsten Interaktionsstress, die höchste Rate externer Allzweck-LLM-Nutzung, und den geringsten Anteil an Post-Task-Erklärungen, die volles Verstehen demonstrierten — Unterschiede, die die Studie als deskriptiv statt statistisch signifikant berichtet. Reibung entfernt die Nachfrage nach Hilfe nicht; sie kann diese Nachfrage zu Werkzeugen verlagern, die der Kurs nicht sehen kann, was Kalibrierung zu einer Frage pädagogischer Sicherheit und nicht nur einer Designfrage macht.
+**Leitplanken als Verteilung von Autorität.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] behandelt Leitplanken als Allokationen über sechs trennbare Dimensionen — pädagogische Fundierung, instruktionale KI-Autorität, menschliche Rechenschaftspflicht, [[agency|Handlungsfähigkeit der Lernenden]], Kontextgrenzen und Evaluationssichtbarkeit — statt als Punkte auf einer strikt-zu-permissiv-Linie, sodass Werkzeuge, die ein Modell teilen, Autorität sehr unterschiedlich verteilen können. Auf Kursskala muss die Grenze den Anfragenraum, den Antwortenraum und die Sichtbarkeit für Lehrende abdecken, nicht nur generierten Inhalt.
+**Leitplanken können Lernende umleiten statt sie zu stoppen.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] randomisierten 132 Studierende in einem [[cs-education|einführenden Programmierkurs]] auf vier KI-Lehrassistenten, die pädagogischen Stil (sokratisch vs. direkte Instruktion) und Kontextbewusstsein variierten. Studierende bewerteten den sokratischen Assistenten mit vollem Kontext am wenigsten günstig, und dieselbe Bedingung zeigte deskriptiv den höchsten Interaktionsstress, die höchste Rate externer Allzweck-LLM-Nutzung, und den geringsten Anteil an Post-Task-Erklärungen, die volles Verstehen demonstrierten — Unterschiede, die die Studie als deskriptiv statt statistisch signifikant berichtet. Reibung entfernt die Nachfrage nach Hilfe nicht; sie kann diese Nachfrage zu Werkzeugen verlagern, die der Kurs nicht sehen kann, was Kalibrierung zu einer Frage pädagogischer Sicherheit und nicht nur einer Designfrage macht.
 
 ## Designprinzipien
 
@@ -101,7 +103,7 @@ Die zwei sind eng gekoppelt: fast jede Leitplankentechnik ist ein Weg, [[pedagog
 
 **Für Lehrende**
 
-- Beurteilen Sie einen Tutor an unbegleiteter Leistung, nicht an der Übungsleistung. Im Feld-RCT hob ein ungeschützter GPT-4-Tutor die Übungsleistung um **+48%**, während er spätere unbegleitete Prüfungsergebnisse um **17%** *senkte*, und die „Hinweis-statt-Antwort"-Version beseitigte den Schaden. Jedes Klassenzimmersignal, das mit dem Werkzeug anwesend erzeugt wird, ist das aufgeblähte.
+- Beurteilen Sie einen Tutor an unbegleiteter Leistung, nicht an der Übungsleistung. Im [[rct|Feld-RCT]] hob ein ungeschützter GPT-4-Tutor die Übungsleistung um **+48%**, während er spätere unbegleitete Prüfungsergebnisse um **17%** *senkte*, und die „Hinweis-statt-Antwort"-Version beseitigte den Schaden. Jedes Klassenzimmersignal, das mit dem Werkzeug anwesend erzeugt wird, ist das aufgeblähte.
 - Wenn Sie das Werkzeug nicht ändern können, ändern Sie, was ohne es bewertet wird. Das unbegleitete Maß ist es, das die Leitplankenfrage überhaupt sichtbar macht.
 - Behandeln Sie „Freundlichkeit" als Designparameter mit einem Fehlermodus: ein Tutor, der nie widerspricht oder korrigiert, kann Studierende zufriedenstellen und dabei das korrigierende [[feedback|Feedback]] entfernen, das Lernen braucht.
 
@@ -119,7 +121,7 @@ Die zwei sind eng gekoppelt: fast jede Leitplankentechnik ist ein Weg, [[pedagog
 
 ## Verbreitete Fehlvorstellungen
 
-**„Eine Leitplanke ist ein Filter, den man an ein Modell anhängt."** Leitplanken sind ein geschichtetes Set von Kontrollen über Prompt-Design, Wissensverankerung, Reward-Shaping, Deployment-QA und laufende Audits, und die Schichten sind nicht austauschbar. Ein Inhaltsfilter sitzt auf der Ausgabe; das „Hinweis-statt-Antwort"-Muster sitzt im Prompt und prägt, was das System überhaupt zu tun bereit ist. Im Feld-RCT beseitigte die Version mit Leitplanken den Lernschaden, den die Version ohne sie erzeugte, und das ist eine Eigenschaft des Interaktionsdesigns, nicht des Filters.
+**„Eine Leitplanke ist ein Filter, den man an ein Modell anhängt."** Leitplanken sind ein geschichtetes Set von Kontrollen über Prompt-Design, Wissensverankerung, Reward-Shaping, Deployment-QA und laufende Audits, und die Schichten sind nicht austauschbar. Ein Inhaltsfilter sitzt auf der Ausgabe; das „Hinweis-statt-Antwort"-Muster sitzt im Prompt und prägt, was das System überhaupt zu tun bereit ist. Im Feld-RCT beseitigte die Version mit Leitplanken den [[ai-misuse-learning-harm|Lernschaden]], den die Version ohne sie erzeugte, und das ist eine Eigenschaft des Interaktionsdesigns, nicht des Filters.
 
 **„Wenn das Modell keine schädlichen Inhalte erzeugt, ist das System für Lernende sicher."** Schaden ist oft leise. Die schädlichsten Tutoring-Fehler sind keine toxischen Ausgaben, sondern Tutoren, die korrekt antworten und Lernen erodieren, oder die gleichmäßig ablehnen und Ungleichheit verfestigen — Fehler, für die ein Toxizitätsfilter strukturell blind ist, weil an ihnen nichts Beleidigendes ist. Ein bestandenes Inhaltsaudit ist eine notwendige Bedingung, die berichtet wird, als wäre sie hinreichend.
 

@@ -1,7 +1,7 @@
 ---
 title: "Bildungsstufen"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -14,8 +14,8 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-10-25T20:50:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -96,7 +96,7 @@ Ein Muster gilt auf jeder untersuchten Stufe: Die menschliche Schicht absorbiert
 
 **„Das unterrichtete Fach zählt mehr als die Bildungsstufe."** Der Bruch zwischen Schule und Universität zählt mehr. Was sich über diese Grenze hinweg ändert, ist nicht der Inhalt, sondern die Kapazität zur Selbstregulation, die Natur des Assessment-Vertrags und wer für das Lernen verantwortlich ist — weshalb ein Werkzeug, das einem Graduiertenseminar hilft, einer Zweitklass-Stunde auch bei vergleichbarem Inhalt schaden kann.
 
-**„Ein adaptiver Tutor hilft jeder Stufe gleichermaßen."** Der Vergleich, der die Variable isoliert, ist aufschlussreich: zwei Versionen desselben Zweitklass-Mathematiktutors — identischer Inhalt, identische Oberfläche, identisches Feedback und identische gesprochene Hinweise —, die sich **nur darin unterschieden, ob die Aufgabenauswahl einem Bayesschen [[knowledge-tracing]]-Modell folgte**. Adaptive Aufgabenauswahl ist eine stufenempfindliche Intervention, und ihr Nutzen hängt davon ab, ob Lernende auf dieser Stufe auf die Anpassung reagieren können.
+**„Ein [[intelligent-tutoring|adaptiver Tutor]] hilft jeder Stufe gleichermaßen.“** Der Vergleich, der die Variable isoliert, ist aufschlussreich: zwei Versionen desselben Zweitklass-Mathematiktutors — identischer Inhalt, identische Oberfläche, identisches Feedback und identische gesprochene Hinweise —, die sich **nur darin unterschieden, ob die Aufgabenauswahl einem Bayesschen [[knowledge-tracing]]-Modell folgte**. Adaptive Aufgabenauswahl ist eine stufenempfindliche Intervention, und ihr Nutzen hängt davon ab, ob Lernende auf dieser Stufe auf die Anpassung reagieren können.
 
 **„Evidenz, die sich in der Hochschulbildung konzentriert, lässt sich nach unten verallgemeinern."** Das lässt sie nicht, und die Verteilung der Literatur ist eine Warnung statt einer Bequemlichkeit. Wo die Evidenz dicht und wo sie dünn ist, ist eine Eigenschaft der Forschungsökonomie, nicht dessen, wo KI am häufigsten genutzt wird; eine Aussage über K-12, die aus Universitätsstichproben gezogen wird, ist also eine Extrapolation über die Grenze, die am meisten zählt.
 

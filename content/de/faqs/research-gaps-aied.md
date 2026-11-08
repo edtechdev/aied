@@ -1,7 +1,7 @@
 ---
 title: "Was sind bemerkenswerte Lücken in der Forschungsliteratur zu KI in der Bildung?"
 created: "2026-08-24T14:10:00-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 weight: 45
 type: faq
@@ -16,7 +16,7 @@ page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-28T11:47:13-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -71,7 +71,7 @@ Die verbleibende Lücke betrifft Verläufe von Fähigkeit, und ein zusätzlicher
 
 „KI-unterstütztes Lernen“ bündelt meist mehrere Änderungen: neues Feedback, ergänzte Reflexion, Peer-Diskussion, andere Aufgabenfolgen, veränderte Assessment-Anreize. Ein Paket, das gelingt, sagt Ihnen nicht, welche Komponenten notwendig waren.
 
-[[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design]] ist ein echter Fortschritt bei dieser Frage. Unter 1.176 Erstsemesterstudierenden übertrafen reflektierende und hybride Designs direktes [[ai-feedback-quality|KI-Feedback]] bei verzögertem KI-freiem Transfer. Die hybride Bedingung kombinierte Selbstevaluation, [[peer-assessment|Peer-Feedback]] und KI-Kritik. Das trennt, wie Feedback organisiert und genutzt wird, davon, ob Studierende überhaupt Zugang zu Feedback haben.
+[[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design]] ist ein echter Fortschritt bei dieser Frage. Unter 1.176 Erstsemesterstudierenden übertrafen reflektierende und hybride Designs direktes [[ai-feedback-quality|KI-Feedback]] bei verzögertem KI-freiem Transfer. Die hybride Bedingung kombinierte [[self-assessment|Selbstevaluation]], [[peer-assessment|Peer-Feedback]] und KI-Kritik. Das trennt, wie Feedback organisiert und genutzt wird, davon, ob Studierende überhaupt Zugang zu Feedback haben.
 
 Weiterhin offen: der Beitrag und das Timing erster unabhängiger Versuche, von Selbsterklärung, Peer-Input, korrigierendem Feedback, Hinweisen und auslaufender Unterstützung, und wie jedes davon mit [[prior-knowledge|Vorwissen]] und Aufgabenschwierigkeit interagiert.
 
@@ -81,7 +81,7 @@ Die Theorielücke läuft daneben her. Eine [[learning-theories|Lerntheorie]] zu 
 
 Konstrukte wie Engagement, [[critical-thinking|kritisches Denken]], KI-Kompetenz und [[personalized-learning|Personalisierung]] werden in dieser Literatur inkonsistent gemessen. Selbstauskünfte beschreiben Wahrnehmungen; sie können nicht für demonstrierte Kompetenz einstehen. Technische Genauigkeit, von Fachleuten bewertete Ausgabequalität und studentisches Lernen sind drei verschiedene Evaluationsziele. [[educational-measurement|Bildungsmessung]] und [[ai-ed-evaluation|Evaluation von KI in der Bildung]] behandeln diese Unterscheidungen als grundlegend.
 
-Eine Lücke sitzt im Messproblem selbst: [[ai-technologies|KI-Systeme]], die andere KI-Systeme bewerten. In [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]] gaben [[simulating-students|simulierte Studierende]] zugewiesene [[misconceptions|Fehlvorstellungen]] nach korrigierendem Feedback häufig auf, unabhängig davon, ob das Feedback die Fehlvorstellung adressierte, sodass ihre Antworten unwirksame Instruktion erfolgreich aussehen lassen konnten. Gezieltes Training verbesserte das Faithfulness-Maß der Studie, und eine Verbesserung auf diesem Maß ist keine Validierung gegen menschliches Lernen.
+Eine Lücke sitzt im Messproblem selbst: [[ai-technologies|KI-Systeme]], die andere KI-Systeme bewerten. In der [[ai-sycophancy|Sykophantie]]-Studie [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]] gaben [[simulating-students|simulierte Studierende]] zugewiesene [[misconceptions|Fehlvorstellungen]] nach korrigierendem Feedback häufig auf, unabhängig davon, ob das Feedback die Fehlvorstellung adressierte, sodass ihre Antworten unwirksame Instruktion erfolgreich aussehen lassen konnten. Gezieltes Training verbesserte das Faithfulness-Maß der Studie, und eine Verbesserung auf diesem Maß ist keine Validierung gegen menschliches Lernen.
 
 Was fehlt, ist die Validierung der gesamten Evaluationskette – vom Modellverhalten über [[pedagogy|pädagogisches]] Urteil und Lernendenreaktion bis zum Bildungsergebnis –, an Lernenden und in Settings, die während der Entwicklung nicht genutzt wurden. Menschliches Urteil braucht dieselbe Prüfung, denn Übereinstimmung zwischen Beurteilenden ist kein Beleg dafür, dass das richtige Konstrukt erfasst wurde.
 
@@ -91,7 +91,7 @@ KI erzeugt zwei miteinander verbundene Assessment-Probleme: Sie hilft, die bewer
 
 Die [[ai-agents-complete-lms-assessment-validity-2026|Studie der Wissensbasis zu KI-Agenten, die bewertete LMS-Aufgaben erledigen]] dokumentiert Agenten, die sich in einem laufenden Grundstudienkurs zurechtfinden und bewertete Aktivitäten abschließen. Das zeigt eine Fähigkeit, die Annahmen über von Studierenden produzierte Belege infrage stellt. Es etabliert nicht, wie verbreitet solche Nutzung ist, und es entwertet asynchrones Assessment nicht als Kategorie.
 
-Die Forschungsfrage ist, welche Designs noch verteidigbare Schlüsse über die lernende Person stützen. [[eportfolio|Portfolios]], Reflexionen, gestufte Abgaben und Aktivitätsprotokolle müssen als Belege validiert werden, statt dass man annimmt, sie stellten Urheberschaft oder Verständnis fest. Studien sollten Kombinationen von Belegen gegen unabhängig beobachtete Kompetenz testen und dabei Barrierefreiheit, Arbeitsbelastung, Datenschutz und Prüfungsangst von Studierenden berücksichtigen. [[assessment-validity|Assessmentvalidität]] hält die Details.
+Die Forschungsfrage ist, welche Designs noch verteidigbare Schlüsse über die lernende Person stützen. [[eportfolio|Portfolios]], Reflexionen, gestufte Abgaben und Aktivitätsprotokolle müssen als Belege validiert werden, statt dass man annimmt, sie stellten Urheberschaft oder Verständnis fest. Studien sollten Kombinationen von Belegen gegen unabhängig beobachtete Kompetenz testen und dabei Barrierefreiheit, Arbeitsbelastung, Datenschutz und [[anxiety-and-stress|Prüfungsangst von Studierenden]] berücksichtigen. [[assessment-validity|Assessmentvalidität]] hält die Details.
 
 Für [[automated-assessment|automatisierte Bewertung]] berichtet [[llms-do-not-grade-essays-like-humans-2026|LLMs Do Not Grade Essays Like Humans]] systematische Nichtübereinstimmung zwischen unveränderten Modellen und menschlichen Beurteilenden. Die Befunde sind konfigurationsspezifisch, und sie zeigen, warum interne Konsistenz keine Validitätsbehauptung tragen kann.
 
@@ -109,11 +109,11 @@ Das zu klären braucht leistungsbasierte Bewertung kombiniert mit Beobachtung ta
 
 ## Berichten Sie, wen der Befund ausschließt
 
-Befunde aus einem Kurs, einer Institution, einer Sprache oder einer Lernendenpopulation rechtfertigen selten Entscheidungen anderswo – ein Problem, das die Synthese [[limitations-in-aied-research|Grenzen in der AIED-Forschung]] als wiederkehrend behandelt. Wie Effekte über Entwicklungsstufe, Disziplin, Vorwissen, Behinderung, Sprache und Ressourcenbedingungen variieren, bleibt weitgehend ungemessen.
+Befunde aus einem Kurs, einer Institution, einer Sprache oder einer [[learners|Lernendenpopulation]] rechtfertigen selten Entscheidungen anderswo – ein Problem, das die Synthese [[limitations-in-aied-research|Grenzen in der AIED-Forschung]] als wiederkehrend behandelt. Wie Effekte über Entwicklungsstufe, Disziplin, Vorwissen, Behinderung, Sprache und Ressourcenbedingungen variieren, bleibt weitgehend ungemessen.
 
 Gerechtigkeitsforschung muss außerdem Zugang, Fähigkeiten und Outcomes trennen. Die Synthese [[digital-divide|Digitale Spaltung]] ist eindeutig, dass Geräte und Werkzeugzugang keine gleiche Fähigkeit zum Nutzen begründen. [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] begleitete 752 Schülerinnen und Schüler der Junior-Sekundarstufe in Hongkong: Psychologische Bereitschaftslücken verengten sich, während Unterschiede in einem objektiven KI-Kompetenztest bestehen blieben. Jede Gruppe verbesserte sich, und die Ungleichheit schloss sich nicht. Vorlernprofile waren nicht zufällig zugewiesen, ihre kausale Rolle bleibt also unbekannt.
 
-Die Abdeckung ist an bestimmten Stellen dünn. [[differential-effects-across-learner-groups|Unterschiedliche Effekte über Lernendengruppen hinweg]] zählt die Literatur nach Population: Zweitsprach- und mehrsprachige Lernende sowie Studierende mit Behinderungen sind die tiefsten Stränge, Geschlecht und Neurodiversität folgen als Nächstes, Erststudierende und internationale Studierende haben je eine Studie in diesem Korpus, begabte und leistungsstarke Studierende sind praktisch unerforscht, und geflüchtete, eingewanderte und vertriebene Lernende erscheinen in keiner. Eine Belegbasis mit dieser Form kann eine Gerechtigkeitsfrage nicht durch Aggregation beantworten.
+Die Abdeckung ist an bestimmten Stellen dünn. [[differential-effects-across-learner-groups|Unterschiedliche Effekte über Lernendengruppen hinweg]] zählt die Literatur nach Population: Zweitsprach- und [[multilingual-learning|mehrsprachige Lernende]] sowie [[special-education|Studierende mit Behinderungen]] sind die tiefsten Stränge, Geschlecht und [[neurodiversity|Neurodiversität]] folgen als Nächstes, Erststudierende und internationale Studierende haben je eine Studie in diesem Korpus, begabte und leistungsstarke Studierende sind praktisch unerforscht, und geflüchtete, eingewanderte und vertriebene Lernende erscheinen in keiner. Eine Belegbasis mit dieser Form kann eine Gerechtigkeitsfrage nicht durch Aggregation beantworten.
 
 Auch innerhalb eines einzigen nationalen Systems variiert die Kapazität. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] bewerteten die KI-Integration an 45 nigerianischen Universitäten und fanden eine moderate Gesamtdurchdringung (M = 4.79, Spanne 1.83-7.83 auf einer 10-Punkte-Skala), wobei der Institutionstyp die Integration nicht vorhersagte, sobald Alter und Geografie kontrolliert wurden (Alter β = 0.43; Lage im Südwesten β = 0.31). Interne Kapazitäten korrelierten untereinander mit r = 0.79-0.80 und internationale Kooperationen mit Industriepartnerschaften mit r = 0.74, sodass vernetzte Institutionen kumulierende Vorteile anhäufen. Welche Kapazitätsaufbau-Designs an neueren, weniger vernetzten Institutionen Outcomes verändern, ist ungetestet.
 

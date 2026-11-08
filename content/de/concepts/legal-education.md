@@ -1,7 +1,7 @@
 ---
 title: "Rechtswissenschaftliche Bildung"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,8 +15,8 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-10-26T08:20:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-07T13:45:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -45,6 +45,8 @@ Rechtswissenschaftliche Bildung bereitet Studierende auf einen lizenzierten Beru
 
 Die Evidenzbasis ist gegenwärtig dünn und richtlinienlastig. Ein substanzieller Artikel verankert die Seite: [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski und Hurley (2025)]] befragten und verglichen institutionelle Richtlinien zu generativer KI über von der ABA zugelassene US-amerikanische Law Schools hinweg und schlugen ein Governance-Rahmenwerk vor. Dieses Ungleichgewicht ist selbst ein Befund, und die Seite markiert es, statt es zu übertünchen.
 
+Experimentelle Evidenz beginnt einzutreffen: [[xie-genai-mystery-game-legal-education-2026|Xie et al. (2026)]] randomisierten 84 Jurastudierende im Grundstudium auf ein von GenAI verfasstes Mystery-Rollenspiel oder auf die Vorlesung derselben Lehrkraft, und die Spielgruppe erzielte deutlich höhere Werte in einem Wissens- und Schlussfolgerungs-Posttest (partielles *η*² = 0,566).
+
 ## Wie KI in der rechtswissenschaftlichen Bildung erscheint
 
 - **Rechtsrecherche.** Kommerzielle Plattformen wie Lexis+ AI und Westlaw Precision mit CoCounsel betten generative Merkmale in die Werkzeuge ein, in denen Studierende bereits trainiert sind, was „KI-Nutzung" schwer trennbar von gewöhnlicher Datenbanksuche macht. Gutowski und Hurley halten fest, wie viel von dem vertrauten Arbeitsablauf dies komprimiert: das Identifizieren von Autoritäten und Sekundärquellen in Minuten statt Stunden.
@@ -52,8 +54,10 @@ Die Evidenzbasis ist gegenwärtig dünn und richtlinienlastig. Ein substanzielle
 - **Studium und Bar-Vorbereitung.** Übungsfragen, Faktenmuster und „hypotheticals" für zeitbegrenzte Übung generieren, und zu wiederkehrenden Schwächen tutoren. Gutowski und Hurley paaren dies mit der Beobachtung, dass generative KI heute sowohl die Bar Exam als auch die Multistate Professional Responsibility Exam besteht, was sie als mehr über die minimal kompetente Hürde als über das Modell sprechend lesen.
 
 - **Aufgabenspezifische Profile, keine Rangliste.** Unter einem blinden Protokoll scheiterten dieselben Out-of-the-Box-Modelle, die menschliches Bar-Exam-Niveau erreichten (kumulative Punktewerte 26–79 von 100), alle an der Notarprüfung, die zielgerichtete Rechtsplanung unter strengen formalen Randbedingungen erfordert — und ließen sich durch absichtsvoll darin eingebettete Fallen in die Irre führen ([[llm-turing-test-italian-legal-exams-2026|Bertoli et al. (2026)]]).
-- **Zeitschriften, moot court und Beratung.** Einreichungen sichten, Advocacy vorbereiten, und Programme akademischer Unterstützung mit eigenen, auf vergangenen Prüfungen, Musterantworten und Kursmaterialien trainierten Modellen.
+- **Zeitschriften, moot court und Beratung.** Einreichungen sichten, Advocacy vorbereiten, und Programme [[student-support-and-success|akademischer Unterstützung]] mit eigenen, auf vergangenen Prüfungen, Musterantworten und Kursmaterialien trainierten Modellen.
 - **Assessment und Integrität.** Die wiederkehrenden Problemfälle: nicht offengelegtes Entwerfen, Zitieren nicht existenter Autorität, und Prüfungen, die ununterstützte Analyse nicht mehr messen.
+
+- **Ein Scoping-Review über 82 Arbeiten, überwiegend nicht empirisch.** [[lorteau-sarro-ai-legal-education-2025|Lorteau und Sarro (2025)]] kartieren 82 Arbeiten aus 26 Ländern; 74 % erschienen nach 2023 und nur 22 waren empirisch. Ununterstützte Modelle bestehen Assessments der Law School, rangieren aber unter Studierenden, und die Leistung verbessert sich mit detaillierten Anweisungen und gelieferter Autorität, ohne verlässlich zu werden. Der praktische Nutzen des Reviews sind generierte Materialien, Simulationen, Schreibcoaching und Unterricht in KI-Kompetenz; sein zentrales Risiko ist passive Abhängigkeit, mit [[assessment-validity|Assessment]] als Druckpunkt.
 
 ## Was die Richtlinienevidenz zeigt
 
@@ -66,11 +70,13 @@ Zwei weitere Punkte formen ihre Empfehlungen:
 - **Governance durch das Lehrpersonal ist eine Law-School-spezifische Komplikation.** Lehrkörper, individuell und kollektiv, halten ungewöhnlich direkte Autorität über Curriculum und Kursstandards, sodass Richtlinie mit ihnen erarbeitet statt ihnen verkündet werden muss.
 - **Klinische Bildung wirft einen [[pedagogy|pädagogischen]] Einwand, keinen technischen.** Karr und Schultz zitierend berichten sie die Position, dass KI-Werkzeuge, die dazu ausgelegt sind, menschliche Antworten zu imitieren, das originäre Urteil, die Mandanteninteraktion und die [[ethics|ethische]] Entscheidungsfindung nicht entwickeln, die Clinics zu produzieren existieren, und daher in klinischen Kursen überhaupt nicht genutzt werden sollten.
 
-Die Empfehlungen sind prozedural: klare und umfassende Leitlinien unabhängig von der institutionellen Haltung, volle Einbeziehung aller Stakeholder bei der Ausarbeitung, proaktives Training für Studierende und Lehrkörper, flexible Governance, die periodisch überprüft wird, und Selbstregulierung durch Informationsaustausch statt darauf zu warten, dass die ABA Richtlinie diktiert.
+Die Empfehlungen sind prozedural: klare und umfassende Leitlinien unabhängig von der institutionellen Haltung, volle Einbeziehung aller Stakeholder bei der Ausarbeitung, proaktives Training für Studierende und Lehrkörper, flexible Governance, die periodisch überprüft wird, und [[self-regulated-learning|Selbstregulierung]] durch Informationsaustausch statt darauf zu warten, dass die ABA Richtlinie diktiert.
 
 ## Warum die Disziplin unterscheidend ist
 
 Drei Dinge machen rechtswissenschaftliche Bildung zu mehr als nur einem weiteren Fachbereich.
+
+Die Fallmethode ist ein Mitglied der breiteren Familie [[case-based-learning]]; jene Seite unterscheidet vorbereitete Fälle und Falldiskussion von problembasierter Erkundung und Simulation.
 
 **Assessmentvalidität ist von professioneller Kompetenz untrennbar.** [[cognitive-offloading|Überabhängigkeit]] während der Law School wird befürchtet, Absolventinnen und Absolventen unvorbereitet für Arbeit zu hinterlassen, die unabhängige Rechtsanalyse und Advocacy verlangt, und Benoten, das flüssige Ausgabe belohnt, kann das Verständnis einer lernenden Person nicht von dem eines Modells unterscheiden. Die [[assessment-validity|Validitäts]]frage ist daher nicht akademisch.
 
@@ -101,6 +107,7 @@ In einem Experiment im Rechtskontext folgten 186 laische Entscheidungsträger in
 - [[governance]] — Governance durch das Lehrpersonal und Richtlinienerstellung, wie Law Schools sie praktizieren
 - [[educational-policy-ai]] — institutionelle KI-Richtlinie als Untersuchungsgegenstand
 - [[critical-thinking]] — das Schlussfolgern, das die Fallmethode aufzubauen beabsichtigt
+- [[case-based-learning]] — die Fallmethode und Falldiskussion als Pädagogik
 - [[socratic-method]] — Dialog, abhängig von Vorbereitung der Studierenden
 - [[experiential-learning]] — Clinics und praxisbasiertes Training
 - [[professional-training]] — die weitere Familie lizenzierter Berufe
@@ -111,6 +118,8 @@ In einem Experiment im Rechtskontext folgten 186 laische Entscheidungsträger in
 
 ## Verbundene Artikel
 
+- [[lorteau-sarro-ai-legal-education-2025]] — Artificial Intelligence in Legal Education: ein Scoping-Review über 82 Arbeiten (Lorteau & Sarro 2025)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Fünf-Faktoren-Vergleich von Richtlinien zu generativer KI an Law Schools und ein Governance-Rahmenwerk
 - [[llm-turing-test-italian-legal-exams-2026]] — Blinder Turing-Test bei italienischen Anwalts-, Richter- und Notarprüfungen, benchmarkt gegen Expertenbewertung
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Zurückhalten der Systemposition unterdrückt Überabhängigkeit bei Entscheidungen im Rechtskontext, ohne Urteilsvermögen aufzubauen (laiche Entscheidungsträger, keine Jurastudierenden)
+- [[xie-genai-mystery-game-legal-education-2026]] — Von GenAI verfasstes Mystery-Rollenspiel versus Vorlesung: eine randomisierte Studie (Xie et al. 2026)

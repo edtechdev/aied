@@ -1,7 +1,7 @@
 ---
 title: Problembasiertes Lernen
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,8 +10,8 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-26T08:45:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-07T13:20:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -26,7 +26,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **Problembasiertes Lernen (PBL)** — eine lernendenzentrierte Pädagogik, in der Lernende Wissen und Fähigkeiten erwerben, indem sie ein realistisches, oft schlecht strukturiertes Problem zu verstehen und zu lösen suchen, wobei eine moderierende Person die Untersuchung begleitet, statt Unterricht zu halten. Im KI-Zeitalter haben sich PBLs strukturelle Merkmale — problemgetriebene Untersuchung, [[collaborative-learning|kollaborative Wissenskonstruktion]], Moderation statt Instruktion und [[metacognition|metakognitive Reflexion]] — als genau jene Bedingungen erwiesen, unter denen die Integration [[generative-ai|generativer KI]] pädagogisch produktiv statt substitiv wird.
+> **Problembasiertes Lernen (PBL)** — eine lernendenzentrierte Pädagogik, in der Lernende Wissen und Fähigkeiten erwerben, indem sie ein realistisches, oft schlecht strukturiertes Problem zu verstehen und zu lösen suchen, wobei eine moderierende Person die Untersuchung begleitet, statt Unterricht zu halten. Im KI-Zeitalter haben sich PBLs strukturelle Merkmale — problemgetriebene Untersuchung, [[collaborative-learning|kollaborative Wissenskonstruktion]], Moderation statt Instruktion und [[reflection|metakognitive Reflexion]] — als genau jene Bedingungen erwiesen, unter denen die Integration [[generative-ai|generativer KI]] pädagogisch produktiv statt substitiv wird.
 
 ## Fragen zum Nachdenken
 
@@ -47,11 +47,11 @@ PBL entstand in der Medizinbildung (McMaster University, 1960er Jahre) und hat s
 
 Die [[research-methods-aied|Forschung]] der Wissensbasis zeigt, dass PBL zu einem Brennpunkt für das Nachdenken über produktive KI-Integration geworden ist.
 
-- **PBLs strukturelle Bedingungen machen KI-Integration produktiv.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]] argumentiert, PBLs Kernmerkmale — problemgetriebene Untersuchung, kollaborative Konstruktion, Moderation, metakognitive Reflexion — seien genau die Bedingungen, unter denen KI als Partner in der [[educational-development|Professionalisierung]] funktioniert statt als Abkürzung um sie herum. Die Ausrichtung ist strukturell, nicht nachträglich: PBL wurde um diese Bedingungen herum entworfen, bevor KI existierte, begründet in der Erkenntnis, dass berufliche Kompetenz adaptives Urteilsvermögen statt Routineausführung erfordert.
+- **PBLs strukturelle Bedingungen machen KI-Integration produktiv.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]] argumentiert, PBLs Kernmerkmale — problemgetriebene Untersuchung, kollaborative Konstruktion, Moderation, [[metacognition|metakognitive]] Reflexion — seien genau die Bedingungen, unter denen KI als Partner in der [[educational-development|Professionalisierung]] funktioniert statt als Abkürzung um sie herum. Die Ausrichtung ist strukturell, nicht nachträglich: PBL wurde um diese Bedingungen herum entworfen, bevor KI existierte, begründet in der Erkenntnis, dass berufliche Kompetenz adaptives Urteilsvermögen statt Routineausführung erfordert.
 - **KI hebt die Decke für die Komplexität von Problemen.** Dasselbe Argument besagt, dass KI erweitert, welche Kategorie von Problem PBL überhaupt angehen kann, und „verwickelte Probleme“ sowie komplexe reale Fälle für Lernende zugänglich macht, die sie zuvor nicht erreichen konnten.
 - **Das Problem „Artefakt als Stellvertreter“.** KI zerreißt die Verbindung zwischen einem eingereichten Artefakt und dem [[student-engagement|Engagement]], das es erzeugt hat — ein Problem, mit dem PBL gut gerüstet ist, weil es den *Prozess* und demonstriertes Verstehen bewertet, nicht nur das Produkt. Das verbindet PBL mit [[authentic-assessment|authentischem]] und [[process-oriented-assessment|prozessbasiertem Assessment]] sowie mit der Literatur der Wissensbasis zu [[cognitive-offloading|Übervertrauen]].
 
-Die Metaanalyse auf drei Ebenen, die GenAI-unterstütztes PBL mit projektbasiertem Lernen zusammenführt, hält Produkt- und Lösungsleistung genau deshalb in einem separaten Modell, weil sie die kollaborative Mensch-KI-Ausgabe statt internalisiertes Lernen misst, und diese Schätzung ist die größte, die die Reviewenden berichten (g = 1.958), während sie auf nur sechs Studien beruht und ein approximatives 95%-Prädiktionsintervall von [−0.740, 4.656] trägt, das die Null kreuzt — die quantitative Form der obigen Mahnung zum „Artefakt als Stellvertreter“ ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
+Die Metaanalyse auf drei Ebenen, die GenAI-unterstütztes PBL mit projektbasiertem Lernen zusammenführt, hält Produkt- und Lösungsleistung genau deshalb in einem separaten Modell, weil sie die kollaborative Mensch-KI-Ausgabe statt internalisiertes Lernen misst, und diese Schätzung ist die größte, die die Reviewenden berichten (g = 1.958), während sie auf nur sechs Studien beruht und ein approximatives 95%-Prädiktionsintervall von [−0.740, 4.656] trägt, das die Null kreuzt — die [[quantitative-research|quantitative]] Form der obigen Mahnung zum „Artefakt als Stellvertreter“ ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
 
 - **ChatGPT als [[scaffolding|adaptives Scaffolding]].** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|La Sunra et al. (2026)]] zeigen ChatGPT, integriert als adaptives Scaffolding in ein KI-ergänztes PBL-Rahmenwerk, das [[critical-thinking|kritisches Denken]] und [[personalized-learning|personalisiertes Lernen]] in K-12 verbessert (120 Achtklässlerinnen und Achtklässler). Das behandelt KI als Unterstützung innerhalb von PBL statt als Antwortmaschine.
 - **Ein kontroverse Perspektiven einbringender Agent kann Gruppendenken entgegenwirken.** Ein GenAI-Agent, der an drei festen Punkten in einer interprofessionellen PBL-Sitzung zu Wort kam, brachte kontroverse Perspektiven ein, und Lernende berichteten, das Widerlegen des Agenten habe ihnen einen sozial zulässigen Weg gegeben, sich zu Wort zu melden, wobei die Uneinigkeit Reflexion anregte, selbst wenn sie die Antworten des Agenten zurückwiesen ([[genai-counter-learner-groupthink-2025|Wiss et al. (2025)]]).
@@ -65,6 +65,8 @@ Die Metaanalyse auf drei Ebenen, die GenAI-unterstütztes PBL mit projektbasiert
 ## PBL gegenüber verwandten Pädagogiken
 
 PBL ist eng mit [[project-based-learning|projektbasiertem Lernen]] verwandt — beide sind lernendenzentriert und problem-/kontextgetrieben —, doch PBL zentriert ein schlecht strukturiertes *Problem*, dessen Lösung Untersuchung und Wissenskonstruktion erfordert, während projektbasiertes Lernen auf die Herstellung eines greifbaren *Artefakts* oder Projekts zentriert. PBL ist außerdem fällebasiertem und [[inquiry-based-learning|forschendem Lernen]] verwandt, die die problemgetriebene, von Moderation geführte Struktur teilen. In der Kartierung der Wissensbasis gilt das strukturelle Argument für produktive KI-Integration für jede Pädagogik, die diese Merkmale teilt, nicht nur für PBL.
+
+[[case-based-learning|Fallbasiertes Lernen]] ist der nähere Nachbar: Es beginnt mit einem vorbereiteten Fall und einem definierten Lehrziel, während PBL das Problem offener lässt und die Untersuchung von den Lernenden gesteuert wird.
 
 ## Warum PBL für KI-Integration bedeutsam ist
 
@@ -83,6 +85,9 @@ Weil PBL Prozess, Kollaboration und demonstriertes Verstehen gegenüber Artefakt
 ## Verbundene Konzepte
 
 - [[project-based-learning]]
+
+- [[case-based-learning]] — vorbereitete Fälle und Falldiskussion, abweichend von PBLs offener Untersuchung
+
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[scaffolding]]

@@ -1,7 +1,7 @@
 ---
 title: "Wie sollte Forschung zu KI in der Bildung Gerechtigkeit, Barrierefreiheit, Datenschutz, Ethik und pädagogische Sicherheit einbeziehen?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 audience: [researchers, instructors, instructional designers]
@@ -10,7 +10,7 @@ ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy,
 methods: [research-methods-aied]
 translation_of: faqs/equity-ethics-pedagogical-safety-research
 source_updated: "2026-10-28T11:47:13-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -51,7 +51,7 @@ Zwei Designimplikationen folgen daraus. Zielen Sie auf neuere Institutionen und 
 
 ## Holen Sie behinderte Lernende in den Designraum
 
-Beziehen Sie Lernende mit Behinderungen in Design und Evaluation ein, testen Sie tatsächliche Oberflächen gegen Barrierefreiheitsanforderungen und bieten Sie gleichwertige Wege, teilzunehmen und Gelerntes zu zeigen. Technische Konformität und inklusive Lehre sind getrennte Prüfungen, und [[accessibility|Barrierefreiheit]] deckt beide ab.
+Beziehen Sie [[special-education|Lernende mit Behinderungen]] in Design und Evaluation ein, testen Sie tatsächliche Oberflächen gegen Barrierefreiheitsanforderungen und bieten Sie gleichwertige Wege, teilzunehmen und Gelerntes zu zeigen. Technische Konformität und [[inclusive-learning|inklusive Lehre]] sind getrennte Prüfungen, und [[accessibility|Barrierefreiheit]] deckt beide ab.
 
 Eine [[ko-hughes-vsd-student-centered-its-2026|werteorientierte Designstudie]] mit Community-College-Studierenden, Lehrkräften und Entwickelnden zeigt die Arbeit in der Praxis. Sie erzeugte 16 wertausgerichtete Merkmale über [[explainable-ai|Erklärbarkeit]] (E1-E5), [[human-in-the-loop-ai|Human-in-the-Loop]]-Kontrolle (H1-H9) und [[privacy|Datenschutz]] (P1-P4) und brachte Spannungen ans Licht statt ordentlicher Antworten: Transparenz gegen Interpretierbarkeit, Datenschutz gegen didaktische Einsicht, [[agency|Handlungsfähigkeit]] der Lernenden gegen systemgeführte [[scaffolding|Scaffolds]]. Rechnen Sie damit, diese abwägen zu müssen, und halten Sie fest, wie Sie entschieden haben.
 
@@ -69,7 +69,7 @@ Die Praxis konvergiert auf ein kompatibles Design. In einer [[reichert-human-cen
 
 ## Kombinieren Sie Methoden und zeigen Sie den Weg von Daten zur Behauptung
 
-Disaggregierte [[quantitative-research|quantitative]] Ergebnisse können [[differential-effects-across-learner-groups|unterschiedliche Effekte]] sichtbar machen. Interviews, Beobachtungen, Fokusgruppen und Co-Design bringen Barrieren, Schäden, kulturelle Annahmen und Lernerfahrung ans Licht, die aggregierte Werte übersehen. Die Synthese zu den [[research-methods-aied|Forschungsmethoden in der AIED]] behandelt Triangulation als notwendig, weil keine einzelne [[qualitative-research|qualitative]] oder quantitative Methode kausale Inferenz, ökologische Validität, kontextuelles Verständnis und Generalisierbarkeit zugleich maximiert.
+Disaggregierte [[quantitative-research|quantitative]] Ergebnisse können [[differential-effects-across-learner-groups|unterschiedliche Effekte]] sichtbar machen. Interviews, Beobachtungen, Fokusgruppen und Co-Design bringen Barrieren, Schäden, kulturelle Annahmen und [[student-experience|Lernerfahrung]] ans Licht, die aggregierte Werte übersehen. Die Synthese zu den [[research-methods-aied|Forschungsmethoden in der AIED]] behandelt Triangulation als notwendig, weil keine einzelne [[qualitative-research|qualitative]] oder quantitative Methode kausale Inferenz, ökologische Validität, kontextuelles Verständnis und Generalisierbarkeit zugleich maximiert.
 
 Ihre eigene Analyse braucht dieselbe Disziplin. [[chain-behind-claim-warrantability-2026|Der Vorschlag zur Begründbarkeit]] argumentiert, dass eine KI-gestützte Interpretation prüfbar, bestreitbar und revidierbar bleibt, wenn sie mit Artefakten ausgeliefert wird – etwa quellenverknüpften Thementabellen, Linsenstapeln und Evidenzflüssen. Eine flüssige Zusammenfassung sollte den Weg, der sie erzeugt hat, nicht verbergen.
 

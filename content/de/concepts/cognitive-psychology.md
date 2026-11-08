@@ -1,14 +1,14 @@
 ---
 title: Kognitionspsychologie
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-10-26T08:45:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-07T12:10:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -46,7 +46,7 @@ Kognitionspsychologie ist die Lerntheorietradition, die Lernen als Veränderung 
 - **Die Informationsverarbeitungs-(Computer-)Metapher.** Der Geist wird als informationsverarbeitendes System mit Kapazitäten und Engpässen behandelt — [[item-response-theory|Messung]] latenter Fähigkeit, Arbeitsgedächtnisgrenzen, Enkodierung und Abruf —, was genau das Modell ist, das KI-Tutoring (ein Computerprogramm, das die Kognition der Lernenden modelliert und sich anpasst) zur natürlichen Passung machte.
 - **Aufmerksamkeit und Gedächtnis sind begrenzt.** Das Arbeitsgedächtnis hat begrenzte Kapazität; dauerhaftes Lernen erfordert Enkodierung in das Langzeitgedächtnis durch Wiederholung, Elaboration und [[retrieval-spacing-interleaving|Abrufübung]]. Das verbindet Kognitivismus mit [[research-methods-aied|Forschung]] zu [[cognitive-offloading|kognitiver Auslagerung]] (Delegation von Gedächtnis/Verarbeitung an externe Werkzeuge) und zur „Leistungs-Lernen-Lücke“, wenn KI Abruf und Übung umgeht.
 - **Metakognition reguliert Kognition.** [[metacognition|Metakognition]] — das Überwachen und Kontrollieren des eigenen Denkens — ist ein ausgeprägt kognitivistisches Konstrukt, und es erklärt, warum die Kalibrierung der Lernenden darüber, wann sie sich auf KI verlassen, für das Lernen zählt (siehe [[cognitive-offloading]] und [[self-regulated-learning]]).
-- **Wissen ist zerlegbar und verfolgbar.** Kognitivistische AIED nimmt an, dass Wissen der Lernenden als Komponenten repräsentiert und über die Zeit verfolgt werden kann — die Grundlage von [[knowledge-tracing|Knowledge Tracing]], [[cognitive-diagnosis|kognitiver Diagnose]] und [[item-response-theory|Item-Response-Theorie]].
+- **Wissen ist zerlegbar und verfolgbar.** Kognitivistische AIED nimmt an, dass Wissen der Lernenden als Komponenten repräsentiert und über die Zeit verfolgt werden kann — die Grundlage von [[knowledge-tracing|Knowledge Tracing]], [[cognitive-diagnosis|kognitiver Diagnose]] und [[item-response-theory|Item-Response-Theorie]]. Verfolgbarkeit ist auch eine Zurechnungsregel. Vier [[knowledge-tracing]]-Aktualisierungsregeln liefen über dieselben ASSISTments-Ereignissequenzen: Jede unterstützte Erledigung zu verbuchen erklärte 93,9% der Studierenden-Kompetenz-Paare als beherrscht, gegenüber 72,8%, wenn unterstützte Zeilen als fehlgeschlagene erste Versuche gelesen wurden. Paare, die die großzügige Regel früh als beherrscht erklärte, erreichten später 0,709 unassistierte Genauigkeit, gegenüber 0,857, wo die Regeln übereinstimmten ([[crediting-assisted-work-inflates-mastery-2026|Srivastava, 2026]]). Das Modell verfolgt nur, was die Evidenzregel zu zählen erlaubt.
 
 ## Kognitivismus und KI in der Bildung
 
@@ -71,6 +71,8 @@ Mayers Cognitive Theory of Multimedia Learning (CTML) wendet dieselben Arbeitsge
 ### Die KI-Zeitalter-Spannung: die Grenze des Kognitivismus steht unter Druck
 
 [[generative-ai|Generative KI]] erweitert und hinterfragt den Kognitivismus zugleich. Sie erweitert ihn, indem sie Wissensrepräsentationen mächtiger macht (LLMs als Wissensmaschinen, die über [[knowledge-tracing]] verfolgt und über [[student-modeling|Lernendenmodellierung]] angepasst werden können). Sie hinterfragt ihn, indem sie verkompliziert, *wo* Kognition „ist“: wenn KI Schlussfolgern, Gedächtnis und sogar metakognitionähnliche Funktionen ausführt, wird die kognitivistische Annahme erschüttert, dass Lernen interne Verarbeitung im individuellen Geist ist — wie [[distributed-cognition|verteilte Kognition]], [[ai-cognitive-partner-co-regulation-learning|Ko-Regulation]] und posthumanistische Rahmungen argumentieren, dass Kognition über menschliche und künstliche Systeme verteilt sein kann. Dennoch bleibt die kognitivistische Frage die zentrale des Feldes: *internalisiert die lernende Person das Wissen, oder hält es das Werkzeug?* Das ist die Frage der kognitiven Auslagerung und der Leistungs-Lernen-Lücke in ihrer reinsten Form.
+
+Ein Experiment von 2026 gibt der Gedächtnisseite dieser Grenze einen konkreten Fehlermodus. Nur 44,8% von 328 Erwachsenen, die eine irreführende KI-Zusammenfassung gelesen hatten, identifizierten später ein Videodetail korrekt, gegenüber 83,6% mit einer konsistenten Zusammenfassung. Die Kennzeichnung als KI oder als menschlich machte keinen Unterschied, und das selbstberichtete Vertrauen in KI ebenso wenig ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). Das ist Quellengedächtnis statt Kurslernen, aber eine flüssige Zusammenfassung kann die Aufzeichnung einer lernenden Person über die Quelle überschreiben, was für Lernen und Assessment zählt.
 
 ## Folgerungen für Design und Forschung
 
@@ -109,6 +111,8 @@ Mayers Cognitive Theory of Multimedia Learning (CTML) wendet dieselben Arbeitsge
 
 ## Verbundene Artikel
 
+- [[sim-ai-summary-memory-distortion-2026]] — Irreführende KI-Zusammenfassungen veränderten, woran Erwachsene sich erinnerten, unabhängig davon, ob die Zusammenfassung als KI- oder menschlich verfasst gekennzeichnet war
+
 - [[cognitive-shift-ai-education]] — Der kognitive Wandel in der KI-Bildung
 - [[cogtax-cognitive-taxonomy]] — Eine kognitive Taxonomie für KI-Nutzung
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — Pädagogische LLM-Agenten, gegründet in Knowledge Tracing
@@ -116,3 +120,6 @@ Mayers Cognitive Theory of Multimedia Learning (CTML) wendet dieselben Arbeitsge
 - [[ai-cognitive-partner-co-regulation-learning]] — KI als kognitiver Partner im ko-regulierten Lernen
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: Denken als Mensch-KI-Interaktion
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Die Organisation der Anstrengung, nicht ihre Menge, war mit Last und Frustration verknüpft
+
+- [[crediting-assisted-work-inflates-mastery-2026]] — Beherrschungsaussagen aus Knowledge Tracing hängen davon ab, wie unterstützte Arbeit verbucht wird (Srivastava 2026)
+

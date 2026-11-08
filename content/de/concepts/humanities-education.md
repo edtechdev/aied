@@ -1,15 +1,15 @@
 ---
 title: Bildung in Geistes- und Sozialwissenschaften
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-26T09:45:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T15:58:10-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -39,13 +39,16 @@ ai_assist:
 
 SSH-Bildung ist ein unterscheidender Fachbereich in der Wissensbasis, komplementär zu [[stem-education]] und [[language-learning]]. Weil die Geisteswissenschaften interpretative Tiefe, Autorschaft und kontextuelles Urteil schätzen, stellen sie andere KI-Integrationsherausforderungen als STEM — und verbinden sich mit [[higher-ed]] und [[ai-literacy]] in [[discipline-specific-aied|domänenspezifischen]] Weisen.
 
+Bürgerschaftliche und politische Bildung ist ein Schwesterfachbereich zu diesen Disziplinen, nicht ein Zweig von ihnen, und [[civic-and-political-education]] behandelt sie eigenständig. Die Evidenz der Wissensbasis ist dort dünn: acht Quellen berühren das Thema, und keine misst bürgerschaftliches Lernen.
+
 ### Wie KI in der Bildung in Geistes- und Sozialwissenschaften erscheint
 
 - **Interpretative Kognition neu strukturieren.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] argumentiert, generative KI agiere als *epistemische Vermittlerin*, die Sinnstiftung, Autorschaft und [[agency]] der Lernenden in der SSH-Bildung neu konfiguriert. Sie identifiziert drei Transformationen — Externalisierung interpretativer Kognition, Hybridisierung von Autorschaft und Aufkommen verteilter epistemischer Handlungsfähigkeit — und drei Entwicklungstrajektorien (KI-abhängige, KI-verstärkte, KI-kritische Interpretation). Das gründet ein entwicklungs-kritisches [[pedagogy|pädagogisches]] Modell zur Bewahrung interpretativer Tiefe.
+- **Was eine Aufgabe eine Leserin sehen lässt, entscheidet, ob Autorschaft beurteilbar ist.** In einer Modellsimulation von 148 Texten erzielten Memoranden und Revisionsverteidigungen 3,16 bzw. 3,10 bei der argumentativen Sichtbarkeit gegenüber 2,63 für Positionsaufsätze, weil das Format selbst Quellenerklärung oder eine Antwort auf Einwände verlangte ([[liu-argumentative-work-visible-genai-assessment-2026|Liu & Liu (2026)]]).
 - **Geschichtsbildung.** [[paternalistic-filter-llm-history-education|Forschung zu LLMs in der Geschichtsbildung]] untersucht, wie KI historisches Schlussfolgern und Quelleninterpretation prägt.
 - **Erfahrungen von Studierenden der Geistes- und Sozialwissenschaften.** [[genai-impact-chinese-students-hss|GenAIs Wirkung auf chinesische Studierende der Geistes- und Sozialwissenschaften]] und [[acceptance-ai-english-tools-2026|KI-Akzeptanz unter Sprach-/Englisch-Lernenden]] dokumentieren studierendenseitige Effekte über SSH-Disziplinen hinweg.
 - **Kritische und philosophische Dimensionen.** [[voicu-ai-interpretive-cognition-ssh-2026|Kritische KI-Kompetenz]] und die [[philosophy-of-ai-in-education|Philosophie der KI in der Bildung]] sind in SSH besonders salient, wo Fragen von Bedeutung, Werten und epistemischer Autorität zentral sind.
-- **[[governance|Institutionelle]] digitale Transformation.** Qin (2026) dokumentiert, wie sich die Lingnan University als „Research-Intensive Liberal Arts Institution in the Digital Era“ neu positionierte und GenAI-Kompetenz für alle Studierenden des Grundstudiums verordnete (einschließlich eines verpflichtenden Common-Core-Kurses des ersten Jahres über generative KI, der latente Räume, GANs, Diffusionsmodelle, [[prompt-engineering|Prompting]], Feinabstimmung, Bias und Fehlinformation abdeckt). Das Positionspapier argumentiert, die Verschiebung hin zu KI-für-Bildung sei eine *intellektuelle Transformation* statt technozentrische Augmentation, und positioniert [[ai-literacy|digitale Flüssigkeit]] als Kernkompetenz der freien Künste, während ein [[human-in-the-loop-ai|Human-in-the-Loop]]-Modell [[ethics|ethisches]] Schlussfolgern, kritisches Urteil und soziale Verantwortung in den Vordergrund stellt — eine konkrete Blaupause für [[higher-ed|Hochschulbildung]], die [[generative-ai|GenAI]]-Innovation mit humanistischen Fundamenten ausbalanciert.
+- **[[governance|Institutionelle]] digitale Transformation.** Qin (2026) dokumentiert, wie sich die Lingnan University als „Research-Intensive Liberal Arts Institution in the Digital Era“ neu positionierte und GenAI-Kompetenz für alle Studierenden des Grundstudiums verordnete (einschließlich eines verpflichtenden Common-Core-Kurses des ersten Jahres über generative KI, der latente Räume, GANs, Diffusionsmodelle, [[prompt-engineering|Prompting]], [[llm-training-and-fine-tuning|Feinabstimmung]], Bias und Fehlinformation abdeckt). Das Positionspapier argumentiert, die Verschiebung hin zu KI-für-Bildung sei eine *intellektuelle Transformation* statt technozentrische Augmentation, und positioniert [[ai-literacy|digitale Flüssigkeit]] als Kernkompetenz der freien Künste, während ein [[human-in-the-loop-ai|Human-in-the-Loop]]-Modell [[ethics|ethisches]] Schlussfolgern, kritisches Urteil und soziale Verantwortung in den Vordergrund stellt — eine konkrete Blaupause für [[higher-ed|Hochschulbildung]], die [[generative-ai|GenAI]]-Innovation mit humanistischen Fundamenten ausbalanciert.
 - **Die Assessment-Aussetzung des Sektors ist inzwischen gemessen, und sie ist konzentriert statt diffus.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] prüfte 15.587 Einheitenaufzeichnungen aus Kunst und Geisteswissenschaften über Australiens Group-of-Eight-Universitäten hinweg und fand 58,6 % der Assessment-Aufgaben von 2026 hoch ausgesetzt gegenüber [[generative-ai|GenAI]], wobei Take-Home-Essays und Forschungsberichte 71,4 % dieser Aussetzung ausmachten, einmal nach Noten gewichtet.
 
 ### Warum es zählt
@@ -54,14 +57,14 @@ SSH-Bildung stellt genau die Fähigkeiten in den Vordergrund, die generative KI 
 
 ## Implikationen für Lehrende in Geistes- und Sozialwissenschaften
 
-- **KI als epistemische Vermittlerin behandeln, nicht als Inhalts-Tutorin.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] zeigt, dass KI Sinnstiftung, Autorschaft und Handlungsfähigkeit in SSH neu konfiguriert — Pädagogik um die drei Trajektorien gestalten (KI-abhängig, KI-verstärkt, KI-kritisch) und auf das KI-kritische Ende zielen.
+- **KI als epistemische Vermittlerin behandeln, nicht als Inhalts-Tutorin.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] zeigt, dass KI Sinnstiftung, Autorschaft und Handlungsfähigkeit in SSH neu konfiguriert — [[design-education|gestalten Sie die Pädagogik]] um die drei Trajektorien (KI-abhängig, KI-verstärkt, KI-kritisch) und auf das KI-kritische Ende zielen.
 - **Interpretative Tiefe und Autorschaft schützen.** Weil die Geisteswissenschaften Urteil und originale Autorschaft schätzen, gegen KI wachen, die Analyse abflacht; kritische [[ai-ed-evaluation|Evaluation von KI]]-Ausgabe zum Lernziel machen ([[critical-thinking]], [[ai-literacy]]).
 - **KI absichtsvoll in der Quellenarbeit nutzen.** [[paternalistic-filter-llm-history-education|Geschichtsforschung]] zeigt, dass KI Schlussfolgern und Quelleninterpretation prägen kann — Studierenden lehren, KI-vermittelte historische Behauptungen und die Filter, die sie anwendet, zu hinterfragen.
 - **Studierendenseitige Wirkungen bedenken.** [[genai-impact-chinese-students-hss|Studien zu Studierendenerfahrung]] dokumentieren, wie GenAI SSH-Lernende beeinflusst; Unterstützung und Integritätsrahmung an echte Nutzung anpassen statt an Annahmen.
 
 ## Verbreitete Fehlvorstellungen
 
-**„Die Geisteswissenschaften sind der am wenigsten KI-exponierte Teil des Curriculums."** Die Exposition ist gemessen worden, und sie ist konzentriert statt diffus: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] auditierte **15.587 Einheitenaufzeichnungen aus Kunst und Geisteswissenschaften**, um festzustellen, wo die Exposition liegt. Sie ist ungleich über Einheiten verteilt statt dünn gestreut, was Assessment-Neugestaltung zu einem gezielten Problem macht statt zu einem sektorweiten.
+**„Die Geisteswissenschaften sind der am wenigsten KI-exponierte Teil des [[curriculum-design|Curriculums]]."** Die Exposition ist gemessen worden, und sie ist konzentriert statt diffus: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] auditierte **15.587 Einheitenaufzeichnungen aus Kunst und Geisteswissenschaften**, um festzustellen, wo die Exposition liegt. Sie ist ungleich über Einheiten verteilt statt dünn gestreut, was Assessment-Neugestaltung zu einem gezielten Problem macht statt zu einem sektorweiten.
 
 **„KI in der geisteswissenschaftlichen Bildung ist technozentrische Anreicherung."** Das Positionspapier, auf das diese Seite sich stützt, argumentiert, die Verschiebung sei eine *intellektuelle Transformation* statt einer Anreicherung, und positioniert [[ai-literacy|digitale Geläufigkeit]] als Kernkompetenz der freien Künste. Ein Werkzeug zu einem unveränderten Kurs hinzuzufügen verwechselt die Transformation mit ihrem Instrument.
 
@@ -83,6 +86,7 @@ SSH-Bildung stellt genau die Fähigkeiten in den Vordergrund, die generative KI 
 - [[stem-education]]
 - [[ai-education]]
 - [[discipline-specific-aied]]
+- [[civic-and-political-education]]
 
 ## Verbundene Artikel
 
@@ -92,3 +96,4 @@ SSH-Bildung stellt genau die Fähigkeiten in den Vordergrund, die generative KI 
 - [[acceptance-ai-english-tools-2026]] — KI-Akzeptanz unter Sprach- und Geisteswissenschaftslernenden
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Rechnerisches Audit von 15.587 Go8-Einheiten aus Kunst und Geisteswissenschaften: 58,6 % der Assessment-Aufgaben von 2026 hoch KI-ausgesetzt, konzentriert in Aufsätzen und Berichten
 - [[genai-values-education-affordances-risks-2026]] — Generative KI in der Werteerziehung: Affordanzen, ethische Risiken und Implikationen für den Unterricht (Chen 2026)
+- [[liu-argumentative-work-visible-genai-assessment-2026]] — Aufgabenformat und KI-Nutzungsanweisungen als das, was das Artefakt belegen kann (Liu & Liu 2026)

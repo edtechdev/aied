@@ -1,14 +1,14 @@
 ---
 title: Technologien
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-10-26T02:00:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -42,7 +42,7 @@ ai_assist:
 
 - **Große Sprachmodelle (LLMs).** Das rechnerische Rückgrat der meisten modernen [[ai-education|AIED]] — [[llm|LLMs]] erzeugen menschenähnlichen Text für Tutoring, Assessment und Inhaltserstellung und sind die am häufigsten referenzierte Technologie der Wissensbasis. [[llm-training-and-fine-tuning|Training und Feinabstimmung]] passt allgemeine LLMs für den Bildungseinsatz an.
 - **Generative KI.** Die breitere Kategorie von Systemen, die Text, Code, Bilder und andere Inhalte erzeugen — [[generative-ai|generative KI]] (vorrangig durch LLMs angetrieben) ist die Technologie hinter der aktuellen Welle der [[ai-education|AIED]]-Forschung. Siehe auch [[multimodal|multimodale Modelle]] (Text, Bild, Audio) und [[simulation|Simulation]].
-- **Roboter und verkörperte Systeme.** [[educational-robotics|Roboter in der Bildung]] fügen eine verkörperte und oft soziale Präsenz hinzu — programmierbare Bausätze für computational thinking sowie humanoide/soziale Roboter für Tutoring, Storytelling und Rollenspiel. Robotik ist ein eigener technischer Strang, der [[agentic-ai|agentische KI]] und [[human-in-the-loop-ai|Human-in-the-Loop]]-Design überschneidet.
+- **Roboter und [[embodied-learning|verkörperte]] Systeme.** [[educational-robotics|Roboter in der Bildung]] fügen eine verkörperte und oft [[community-of-inquiry|soziale Präsenz]] hinzu — programmierbare Bausätze für [[computational-thinking|computational thinking]] sowie humanoide/soziale Roboter für Tutoring, [[storytelling-in-education|Storytelling]] und Rollenspiel. Robotik ist ein eigener technischer Strang, der [[agentic-ai|agentische KI]] und [[human-in-the-loop-ai|Human-in-the-Loop]]-Design überschneidet.
 - **Wissensbasierte Systeme.** [[knowledge-graph|Wissensgraphen]] und [[educational-nlp|NLP in der Bildung]] repräsentieren und verarbeiten Domänenwissen, zunehmend kombiniert mit LLMs für verankertes, erklärbares Tutoring.
 
 ## Verfahren und Methoden
@@ -60,7 +60,9 @@ Der technische Strang ist untrennbar mit den anderen Themen der Wissensbasis ver
 
 - **Pädagogik:** technische Entscheidungen verkörpern pädagogische Annahmen — ein auf [[socratic-method|sokratischem Prompting]] aufbauender [[intelligent-tutoring|Tutor]] argumentiert mit Lernenden, während ein antwortgenerierendes Modell standardmäßig direkte Bereitstellung wählen kann (siehe [[pedagogy|Pädagogiken und Lehrstrategien]]).
 - **Assessment und Evaluation:** [[ai-ed-evaluation|Evaluation von KI in der Bildung]] und [[benchmark|Benchmarks]] bestimmen, ob KI-Systeme tatsächlich funktionieren; [[assessment|Assessment]] und [[automated-assessment|automatisiertes Prüfen]] nutzen den technischen Stack zum Bewerten und Generieren.
-- **Verantwortungsvoller Einsatz:** technische Verfahren sind zentral für [[reducing-ai-misuse|die Reduktion von KI-Missbrauch]] — [[rag|RAG]]-Verankerung, Leitplanken, [[prompt-engineering|Prompt Engineering]]-[[scaffolding|Scaffolding]] und [[human-in-the-loop-ai|menschliche Aufsicht]] prägen, ob KI Lernen stützt oder untergräbt ([[cognitive-offloading|kognitive Entlastung]], [[hallucination-risk|Halluzinationsrisiko]]).
+- **Verantwortungsvoller Einsatz:** technische Verfahren sind zentral für [[reducing-ai-misuse|die Reduktion von KI-Missbrauch]] — [[rag|RAG]]-Verankerung, [[guardrails|Leitplanken]], [[prompt-engineering|Prompt Engineering]]-[[scaffolding|Scaffolding]] und [[human-in-the-loop-ai|menschliche Aufsicht]] prägen, ob KI Lernen stützt oder untergräbt ([[cognitive-offloading|kognitive Entlastung]], [[hallucination-risk|Halluzinationsrisiko]]).
+
+**Die Forschungsaufmerksamkeit konzentriert sich auf einen schmalen Ausschnitt des Werkzeug-Ökosystems.** Bei der Zuordnung von 85 KI-Werkzeugen zur MINT- und Ingenieurliteratur fanden [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky et al. (2026)]] nur 36 überhaupt forschungssichtbar und [[conversational-ai|konversationelle KI]]/LLMs für 73,7 % von 927 Paper-Werkzeug-Verbindungen verantwortlich, mit 23 Publikationen in einem etablierten Laborkontext.
 
 ## Folgerungen für KI in der Bildung
 
@@ -102,6 +104,7 @@ Der technische Strang ist untrennbar mit den anderen Themen der Wissensbasis ver
 - [[personalized-learning]]
 
 ## Verbundene Artikel
+- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — Forschungssichtbarkeit von 85 KI-Werkzeugen in der MINT- und Ingenieurbildung (Terkowsky et al. 2026)
 - [[agentic-ai-education-scoping-review]] — Scoping Review zu agentischer KI in der Bildung
 - [[genai-meta-analysis-programming-learning]] — Metaanalyse der Wirkung von GenAI auf Produktivität und Lernen im Programmieren
 - [[cstutorbench-slm-tutors]] — Benchmarks für Tutoring mit kleinen Sprachmodellen

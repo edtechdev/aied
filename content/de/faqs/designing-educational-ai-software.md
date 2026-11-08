@@ -1,7 +1,7 @@
 ---
 title: "Was sind Best Practices und Tipps für das Design wirksamer Bildungs-KI-Software?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 audience: [educational technology developers, software developers, instructional designers]
@@ -9,8 +9,8 @@ foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T09:40:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -33,7 +33,7 @@ Die Antwort ist enger, als die meisten Produktspezifikationen annehmen. Bildungs
 
 **1.** Schreiben Sie auf, was das System entscheidet und was eine Lehrkraft entscheidet. Diese Grenze wird zur Architektur.
 
-**2.** Bewerten Sie Mehrzug-Interaktion mit Fachbezug gegen echten Lehrplan, nicht einzelne Prompts gegen ein allgemeines Sicherheitsraster.
+**2.** Bewerten Sie Mehrzug-Interaktion mit Fachbezug gegen echten [[curriculum-design|Lehrplan]], nicht einzelne Prompts gegen ein allgemeines Sicherheitsraster.
 
 **3.** Verankern Sie Antworten in freigegebenen Inhalten und halten Sie die prüfende Komponente von der konversationellen getrennt.
 
@@ -69,7 +69,7 @@ Das Übertragbare ist die Trennung: Die Komponenten, die prüfen, führen kein G
 
 ## Behandeln Sie studentische Arbeiten als nicht vertrauenswürdige Eingabe
 
-Das Bedrohungsmodell, das die meisten Designempfehlungen auslassen, sitzt in dem Artefakt, das bewertet wird. [[humble-prompt-injection-ai-grading-red-team-2026|Humbles (2026) adversariale Red-Team-Evaluierung]] testete, ob Studierende einen LLM-basierten Bewerter durch Prompt-Injection in ihren Abgaben manipulieren konnten, und die Manipulation funktionierte: Injectionen, die den Bewerter anweisen, umrahmen oder in eine Rolle versetzen, verschieben die Punktzahl, ohne die Arbeit zu verändern.
+Das Bedrohungsmodell, das die meisten Designempfehlungen auslassen, sitzt in dem Artefakt, das bewertet wird. [[humble-prompt-injection-ai-grading-red-team-2026|Humbles (2026) adversariale Red-Team-Evaluierung]] testete, ob Studierende einen [[llm|LLM]]-basierten Bewerter durch Prompt-Injection in ihren Abgaben manipulieren konnten, und die Manipulation funktionierte: Injectionen, die den Bewerter anweisen, umrahmen oder in eine Rolle versetzen, verschieben die Punktzahl, ohne die Arbeit zu verändern.
 
 Halten Sie Raster und Anweisungen außerhalb des von Studierenden kontrollierten Kontextfensters, entfernen oder markieren Sie anweisungsartige Inhalte, lassen Sie nie zu, dass eine Abgabe ihre eigenen Kriterien setzt, und halten Sie bei jeder folgenreichen Note eine menschliche Entscheidung. Ein Bewerter, der seine Anweisungen aus dem Text liest, den er beurteilt, hat das Raster an die Kandidatin übergeben.
 
@@ -100,6 +100,8 @@ Ein größeres Modell wird die Pädagogik reparieren. Skalierung verbesserte die
 Ein guter Retrieval-Index bedeutet, dass die Inhalte erledigt sind. EduGuard paart Retrieval mit einem separaten Prüfer und testet adversariale Direktantwort-Prompts, weil verankertes Retrieval weiterhin einen Weg zur übermäßigen Offenlegung lässt.
 
 Die Lehrkraft ist der Rückfallpfad. Alle sechs Lehrkräfte in der Designstudie verlangten Protokollierung, Warnungen und Übersteuerung als Bedingung professioneller Verantwortung. Ein Support-Ticket ist keine Übersteuerung.
+
+Genuss ist kein Ersatz für Passung. In einer Befragung von 405 Design-Studierenden im Aufbaustudium ([[chu-design-students-ai-agent-tam-ttf-2026|Chu & Liu (2026)]]) trug Task-Technology-Fit einen eigenen Pfad zur Einstellung (β = 0.224) neben [[technology-acceptance-model|wahrgenommener Nützlichkeit]], und die Merkmale der Aufgabe trieben die Passung stärker als die Merkmale des Werkzeugs (β = 0.322 gegenüber 0.266). Wahrgenommener Genuss erhöhte die Leichtigkeit der Nutzung und bewirkte nichts für die Nützlichkeit (β = −0.033, p = 0.483). Freude lohnt sich zu bauen, ersetzt aber nicht die Abstimmung der Funktionen auf die Schritte der Aufgabe.
 
 Barrierefreiheit ist ein späteres Ticket. Sie steht in der Spezifikation oder wird zur Neuentwicklung, und generierte Alternativtexte und Untertitel brauchen weiterhin eine menschliche Prüfung.
 

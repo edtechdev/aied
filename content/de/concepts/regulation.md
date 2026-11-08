@@ -1,7 +1,7 @@
 ---
 title: KI-Regulierung in der Bildung
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ Die Wissensbasis dokumentiert eine anhaltende Lücke zwischen KI-Einsatzgeschwin
 
 **Die Lücke ist eine der Belege ebenso wie des Timings.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski und Hurley (2025)]] charakterisieren einen professionellen Sektor als politisch unter Zeitdruck ohne Evidenzbasis, mit der man Politik machen könnte: Die meisten ABA-anerkannten US-amerikanischen [[legal-education|Juristischen Fakultäten]] nahmen allgemein prohibitive Positionen ein, während sie Entscheidungsfreiheit für einzelne Lehrende vorbehielten, und die Autoren berichten keinen Konsens über Offenlegung oder Zitationspraxis und nur eine Antwortrate von etwa 15% auf die ABA-Politikbefragung von 2024. Ihre normative Antwort — klare Leitlinien gleich welcher Position, Beteiligung von [[stakeholders|Interessengruppen]] am Entwurf, und Governance, die gestaltet ist, flexibel zu sein und periodisch überprüft zu werden —, passt zum [[crompton-governing-genai-higher-ed-delphi-2026|globalen Delphi-Konsens]], der Politikpflege ebenfalls als wiederkehrenden institutionellen Mechanismus behandelt statt als einmalige Aufgabe. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher und Calderon (2025)]] fügen die umgekehrte Abhängigkeit hinzu: Ihr Programm zur Governance-Reform kommt zu dem Schluss, dass institutionelle Entwicklung ohne externe Ermöglichung durch Regulierung, Benchmarking und institutionenübergreifenden Wettbewerb unwahrscheinlich ausschüttet, was die Qualitäts- und Regulierungsagenturen — und den Vergleich, den sie zwischen Einrichtungen erzwingen — zur Bedingung macht, unter der interne Governance-Reform greift.
 
-Ein Audit der Datenschutzrichtlinien von EdTech-Plattformen gibt dieser Abhängigkeit eine konkrete Instanz. Über 48 Plattformen hinweg wurde Datenerhebung vergleichsweise gut offengelegt (Mittelwert 1.81 von 2), während KI-Offenlegung (0.90) und Rechenschaftspflicht (1.07) hinterherhinkten, und 33% machten keine aussagekräftige KI-Offenlegung trotz sichtbarer KI-Merkmale; US-amerikanische [[k-12|K-12]]-Plattformen erzielten insgesamt die höchsten Werte (M = 7.47 gegenüber 5.50 für US-amerikanische [[higher-ed|Hochschulbildung]]), gewannen aber nichts bei KI-Offenlegung oder Rechenschaftspflicht — Regulierung, so folgern die Autoren, hebt nur das, was sie benennt, weshalb durchsetzbare Regeln und Beschaffungsstandards statt freiwilliger Selbstverpflichtungen [[privacy|Datenschutz]] zu einer Bedingung des Einsatzes machen müssen ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
+Ein Audit der Datenschutzrichtlinien von [[edtech-platform|EdTech-Plattformen]] gibt dieser Abhängigkeit eine konkrete Instanz. Über 48 Plattformen hinweg wurde Datenerhebung vergleichsweise gut offengelegt (Mittelwert 1.81 von 2), während KI-Offenlegung (0.90) und Rechenschaftspflicht (1.07) hinterherhinkten, und 33% machten keine aussagekräftige KI-Offenlegung trotz sichtbarer KI-Merkmale; US-amerikanische [[k-12|K-12]]-Plattformen erzielten insgesamt die höchsten Werte (M = 7.47 gegenüber 5.50 für US-amerikanische [[higher-ed|Hochschulbildung]]), gewannen aber nichts bei KI-Offenlegung oder Rechenschaftspflicht — Regulierung, so folgern die Autoren, hebt nur das, was sie benennt, weshalb durchsetzbare Regeln und Beschaffungsstandards statt freiwilliger Selbstverpflichtungen [[privacy|Datenschutz]] zu einer Bedingung des Einsatzes machen müssen ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
 ### Verbindungen
 

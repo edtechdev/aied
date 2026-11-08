@@ -1,7 +1,7 @@
 ---
 title: "Wie prüfe ich, ob KI-generierte Quiz- und Prüfungsfragen wirklich gut sind?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,9 +11,9 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -46,7 +46,7 @@ Kurze Antwort für eine Kollegin: generierte Fragen sind Kandidaten, kein Assess
 
 Generierung ist billig genug, dass das Ausgabeformat still zur Spezifikation wird. Wenn Ihre Notizen ordentliche Multiple-Choice-Items ergeben, messen Sie am Ende, ob Studierende unter plausiblen Aussagen wählen können, welches Lernziel der Syllabus auch immer behauptet.
 
-Legen Sie zuerst das Lernziel fest, dann die Evidenz, die eine zufriedenstellende Antwort liefern würde, dann das Wissen, das Studierende mitbringen sollen. Nehmen Sie die Kursmaterialien auf, die Fehlvorstellungen, die Sie erwarten, alle erlaubten Werkzeuge und das Antwortformat. Wenn Sie wollen, dass Studierende Evidenz interpretieren, muss das Item Interpretation verlangen, und das Wort zu einer Definitionsfrage hinzuzufügen leistet das nicht. Ein langes Szenario kann immer noch durch eine einzige vertraute Wendung beantwortbar sein, die alles verrät.
+Legen Sie zuerst das Lernziel fest, dann die Evidenz, die eine zufriedenstellende Antwort liefern würde, dann das Wissen, das Studierende mitbringen sollen. Nehmen Sie die Kursmaterialien auf, die [[misconceptions|Fehlvorstellungen]], die Sie erwarten, alle erlaubten Werkzeuge und das Antwortformat. Wenn Sie wollen, dass Studierende Evidenz interpretieren, muss das Item Interpretation verlangen, und das Wort zu einer Definitionsfrage hinzuzufügen leistet das nicht. Ein langes Szenario kann immer noch durch eine einzige vertraute Wendung beantwortbar sein, die alles verrät.
 
 Ein Assessment-Blueprint ist eine Tabelle von Lernzielen gegen Items, und sein Wert liegt darin, dass er Lücken sichtbar macht, bevor es die Studierenden tun. Er macht auch den Zielkonflikt sichtbar: jedes Item, das Sie aus dem einfachsten Material generieren, ist ein Item, das Sie nicht für das Lernziel ausgegeben haben, das Ihnen am meisten bedeutet.
 
@@ -68,7 +68,7 @@ Ein zweites Modell kann Ihnen helfen, Probleme zu finden, und Übereinstimmung z
 
 ## Lassen Sie nicht das Schwierigkeitslabel entscheiden
 
-Die Literatur zur [[automated-question-generation|Fragengenerierung]] ist nützlicher zum Scheitern der Labels als zum Erfolg der Generierung. [[student-llm-use-ai-question-difficulty-data-science-2026|An und Wang (2026)]] untersuchten 378 verfasste Fragen in Data-Science-Kursen, von denen 311 an 54 Studierende mit 7.888 Antworten ausgeliefert wurden. Die Labels leicht, mittel und schwer des Modells korrelierten mit seinen eigenen mitgenerierten Bloom-Stufen bei ρ = 0.90 und mit der empirischen Itemschwierigkeit bei ρ = 0.06. Rund 70% der eingesetzten Items wurden von jeder studierenden Person richtig beantwortet, was fast keine Variation für ein Schwierigkeitslabel übrig ließ, selbst im Prinzip.
+Die Literatur zur [[automated-question-generation|Fragengenerierung]] ist nützlicher zum Scheitern der Labels als zum Erfolg der Generierung. [[student-llm-use-ai-question-difficulty-data-science-2026|An und Wang (2026)]] untersuchten 378 verfasste Fragen in Data-Science-Kursen, von denen 311 an 54 Studierende mit 7.888 Antworten ausgeliefert wurden. Die Labels leicht, mittel und schwer des Modells korrelierten mit seinen eigenen mitgenerierten Bloom-Stufen bei ρ = 0.90 und mit der empirischen [[item-response-theory|Itemschwierigkeit]] bei ρ = 0.06. Rund 70% der eingesetzten Items wurden von jeder studierenden Person richtig beantwortet, was fast keine Variation für ein Schwierigkeitslabel übrig ließ, selbst im Prinzip.
 
 Daraus folgen zwei Lehren. Erstens ist Schwierigkeit eine Eigenschaft der Interaktion zwischen einem Item und einer Population, sodass kein Label, das vor der Administration des Items entsteht, als gemessener Wert gelten kann. Zweitens ist eine Itembank, die alle richtig beantworten, kein leichtes Assessment, sondern ein nutzloses: Sie trägt fast keine Information darüber, wer was weiß.
 
@@ -91,6 +91,8 @@ Prüfen Sie dann, wie die Items funktionieren: der Anteil richtiger Antworten, w
 In einem Einführungskurs Soziologie könnte das Lernziel darin bestehen, eine strukturelle Erklärung von einer individuellen zu unterscheiden. Ein schwaches Item verlangt, „strukturell" zu definieren, was Worterkennung misst. Ein stärkerer Kandidat gibt ein kurzes Szenario über eine Familie und eine Beschäftigungsentscheidung und fragt dann, welche Erklärung eine strukturelle Einschränkung am besten identifiziert, mit Distraktoren, die plausible, aber andere Interpretationen darstellen.
 
 Die Lehrkraft prüft, ob das Szenario den Schlüssel tatsächlich stützt, ob zwei Optionen dieselbe Idee ausdrücken und ob die Beantwortung von Terminologie abhängt, die der Kurs nie eingeführt hat. Eine einzeilige Nachfrage, „Welches Detail stützt Ihre Wahl?", macht die Begründung sichtbar, die die gewählte Option verdeckt. Die Anpassung ist als Itemformat ungetestet, und ihr Wert ist enger: Die Prüffragen oben lassen sich beantworten, bevor ein Item administriert wird, und ein schlechter Schlüssel lässt sich reparieren, bevor Studierende ihn sehen.
+
+Wenn Studierende Ablehnung im großen Maßstab signalisieren, hat das Signal Struktur. In einer Analyse von 5.214.211 Sitzungen mit Übungsfragen, die in einer Lehrbuchplattform präsentiert wurden, kamen Daumen-nach-unten mit 2,00 pro 1.000 Sitzungen gegenüber 3,31 Daumen-nach-oben, und nur 22.844 von 809.848 Fragen erhielten jemals eine Bewertung ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al., 2025]]). Das Muster in den Stimmen war nicht zufällig: Fragen, die Adverb-Antworten verlangten, zogen 5,23 Daumen-nach-unten pro 1.000 gegenüber 1,76 bei Adjektiv-Antworten, und Satzwichtigkeit (Odds Ratio 2,38) sowie Antworttext-Ähnlichkeit (1,64) bewegten die Bewertung ebenfalls. Die abgestimmte Faustregel der Autoren lag bei etwa 1,62 Ablehnungen pro 1.000, wenn beide Wichtigkeitssignale vorlagen. Der praktische Punkt ist, dass Studierendenbewertungen ein langsamer, aber realer Messkanal sind: Eine Plattform, die wiederholt abgelehnte Fragen entfernt, schließt die Schleife, und eine Lehrkraft, die einige Items pilotiert, erhält dasselbe Signal schneller, indem sie fragt, an welchem Detail die studierende Person zweifelte.
 
 Für Studierende, die eigene Übungsfragen generieren, gilt dieselbe Regel auf ihrem Niveau: Versuchen Sie das Item, prüfen Sie die Erklärung gegen Kursquellen und bringen Sie die unauflösbaren Fälle zu jemandem, der das Fach kennt. [[study-with-ai|Lernpraxis]], die Studierende darauf trainiert, generierte Schlüssel unkritisch zu übernehmen, lehrt die falsche Gewohnheit.
 

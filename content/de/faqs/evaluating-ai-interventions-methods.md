@@ -1,7 +1,7 @@
 ---
 title: "Welche Maße und Forschungsmethoden kann eine Lehrkraft nutzen, um KI-bezogene Interventionen zu evaluieren?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 audience: [instructors, researchers, faculty developers]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/evaluating-ai-interventions-methods
 source_updated: "2026-10-28T11:47:13-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -73,7 +73,7 @@ Ein Prä-/Post-Zugewinn zeigt, dass die Intervention gewirkt hat. Er zeigt, dass
 
 Veröffentlichte Effektstärken übertragen sich auf meine Klasse. Die 14 Metaanalysen von O'Neill konnten die auf ihnen gebauten Behauptungen nicht stützen, und beide berichteten Prädiktionsintervalle schlossen null ein.
 
-Plattformanalytik misst Lehrqualität. Zhangs drittplatzierter Agent war auf einem Expertenrubric der letzte.
+[[learning-analytics|Plattformanalytik]] misst Lehrqualität. Zhangs drittplatzierter Agent war auf einem Expertenrubric der letzte.
 
 ## Welche Einwände zurückkommen werden
 

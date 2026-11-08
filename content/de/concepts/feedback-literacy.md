@@ -1,7 +1,7 @@
 ---
 title: Feedback-Kompetenz
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:55-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,8 +10,8 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-26T09:10:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T17:45:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -54,7 +54,6 @@ Feedback-Kompetenz wird weithin als eine Menge zusammenhängender Fähigkeiten g
 
 - **Feedback-Kompetenz als Moderator des Werts von KI-Feedback:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] zeigen, dass Feedback-Kompetenz die Verbindung zwischen ChatGPT-Akzeptanz und [[self-regulated-learning|selbstreguliertem Lernen]] moderiert: Studierende mit stärkerer Kompetenz nehmen größeren SRL-Nutzen von KI-Feedback wahr, während Studierende mit schwächerer Kompetenz minimale oder sogar negative ([[cognitive-offloading|Überabhängigkeits]]) Wirkungen zeigen. Feedback-Kompetenz ist eine Randbedingung dafür, ob Studierende KI-Feedback „verstehen“ können.
 
-
 - **Feedback-Kompetenz als Pfad von GenAI-Nutzung zu kritischem Denken:** bei 421 chinesischen Undergraduates lief der Zusammenhang von GenAI-Nutzung mit [[self-report-measures|selbstberichtetem]] kritischen Denken fast vollständig über GenAI-Feedback-Kompetenz (β=0,185, 71,98% des Gesamteffekts), und dieser Pfad verstärkte sich mit steigendem reflexiven Denken (Index der moderierten Vermittlung = 0,030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
 
 - **Feedback-Kompetenz sagt Lernen beim KI-gestützten Schreiben vorher:** [[hawkins-feedback-literacy-ai-essay-writing|Hawkins et al. (2026)]] finden, dass Feedback-Kompetenz der einzige signifikante positive Prädiktor der Aufsatznote in einer KI-erweiterten Aufsatzschreibaufgabe war, während [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] eine AI Feedback Literacy (AIFL)-Skala entwickeln und validieren und zeigen, dass sie die Übernahme von Feedback vorhersagt.
@@ -88,6 +87,8 @@ Danach zu handeln ist nicht dasselbe wie das Artefakt zu verbessern. Unter 22 Ma
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang und Guo (2026)]] behandeln Feedback-Kompetenz als durch Praxis entwickelbar: EFL-Peer-Reviewende, die dialogisch mit generativer KI zusammenarbeiteten, um Kommentare zu erzeugen, verbesserten ihre eigene Fähigkeit, Feedback zu beurteilen und zu nutzen, nicht nur die Kommentare, die sie lieferten.
 
+**Feedback-Kompetenz muss eine maschinelle Quelle ebenso abdecken wie eine menschliche.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] lassen Studierende Peer-Feedback und Chatbot-Feedback zum selben Entwurf in derselben Reflexion beurteilen, was den Vergleich selbst zur Lernaufgabe macht. Ihre Studierenden stuften die Autorität des Chatbots gegenüber der einer Lehrkraft herab, und die Autorinnen und Autoren lesen diese Herabstufung als Kompetenz statt als Widerwillen.
+
 ## Verbreitete Fehlvorstellungen
 
 - **„KI-Feedback verbessert kritisches Denken direkt."** Bei **421 chinesischen Undergraduates** lief die Assoziation der GenAI-Nutzung mit [[self-report-measures|selbst berichtetem]] kritischem Denken **durch die Feedback-Kompetenz**. Die Kompetenz ist der Mediator, sodass eine Intervention, die KI-Feedback hinzufügt, ohne die Fähigkeit aufzubauen, es zu lesen, den falschen Term adressiert.
@@ -110,6 +111,8 @@ Danach zu handeln ist nicht dasselbe wie das Artefakt zu verbessern. Unter 22 Ma
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
+
+- [[reflection]]
 
 ## Verbundene Artikel
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — KI-Feedback-Kompetenz und agentisches Engagement: ein Drei-Wellen-Random-Intercept-Panel (Xu 2026)
@@ -138,3 +141,6 @@ Danach zu handeln ist nicht dasselbe wie das Artefakt zu verbessern. Unter 22 Ma
 
 - [[genai-use-critical-thinking-moderation-2026]] — GenAI-Nutzung zu kritischem Denken lief über GenAI-Feedback-Kompetenz und verstärkte sich mit reflexivem Denken
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — Verständnis trug den Überarbeitungsertrag, nicht Umsetzbarkeit
+
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Peer- und Chatbot-Feedback zum selben Entwurf in einer Reflexionsaufgabe beurteilen
+

@@ -1,14 +1,14 @@
 ---
 title: Netzwerkanalyse
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-10-26T13:35:09-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -53,8 +53,8 @@ Netzwerkmethoden werden über die Evidenzbasis der Wissensbasis hinweg genutzt, 
 - **Die „Black Box" der Lernenden-KI-Interaktion öffnen.** TNA offenbart den *Prozess* — die Verhaltensschleifen und -pfade, die Lernende bei der Nutzung von KI-Werkzeugen nehmen (z. B. eine „revision loop" gegenüber einer „chat loop" in [[conversational-ai|Chatbot]]-gerüstetem [[writing-education|Schreiben]]) statt nur der abschließenden Ausgabe. ([[penny-transition-network-analysis-efl-writing-2026]])
 - **Kognitive Strukturierung über Gruppen hinweg vergleichen.** ENA zeigt, wie verschiedene Gruppen Konstrukte unterschiedlich verbinden — z. B. wie [[metacognition|Metakognition]] mit Delegation gegenüber menschlichem Schlussfolgern in Mensch-KI-Zusammenarbeit ko-okkurriert, was verschiedene Kollaborationsmodi offenbart. ([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **KI-Kompetenz und Interaktionssignaturen nachzeichnen.** ENA auf Interaktionslogs identifiziert distincte Muster der [[llm|LLM]]-Nutzung (iterative strategische Verfeinerung gegenüber linearen Befehlen) und unterscheidet so [[ai-literacy|Proficiency]] und Entwicklung der Lernenden. ([[tracing-genai-literacy-interaction-patterns]])
-- **Diskurs und Rahmung analysieren.** ENA wird auf [[qualitative-research|qualitative]] und [[multimodal|multimediale]] Daten angewandt (z. B. YouTube-Frames von ChatGPT in der Bildung), um die Struktur öffentlichen oder fachlichen Diskurses zu offenbaren. ([[youtube-frames-chatgpt-education]])
-- **Selbstauskunft und Produktmetriken ergänzen.** Weil Netzwerkmethoden beobachtete Verhaltensdaten nutzen, können sie Diskrepanzen zwischen dem, was Lernende behaupten, und dem, was sie tatsächlich tun, offenlegen — ein wiederkehrender Befund in der Literatur der Wissensbasis zur Feedbackaufnahme.
+- **Diskurs und Rahmung analysieren.** ENA wird auf [[qualitative-research|qualitative]] und [[multimodal|multimediale]] Daten angewandt (z. B. YouTube-Frames von [[generative-ai|ChatGPT]] in der Bildung), um die Struktur öffentlichen oder fachlichen Diskurses zu offenbaren. ([[youtube-frames-chatgpt-education]])
+- **[[self-report-measures|Selbstauskunft]] und Produktmetriken ergänzen.** Weil Netzwerkmethoden beobachtete Verhaltensdaten nutzen, können sie Diskrepanzen zwischen dem, was Lernende behaupten, und dem, was sie tatsächlich tun, offenlegen — ein wiederkehrender Befund in der Literatur der Wissensbasis zur Feedbackaufnahme.
 
 - **Graphstruktur als Validierungsgröße, nicht als deskriptive Zusammenfassung.** [[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]] verfolgen β0 — die Anzahl verbundener Komponenten eines wöchentlichen Nähegraphen über Lernende bei einem festen euklidischen Schwellenwert —, um zu testen, ob synthetische Kohorten die realen reproduzieren, und bevorzugen ihn, weil er vom Graphen allein festgelegt ist, anders als Modularitätsmaximierung keine Optimierung und keinen Zufallsstartwert braucht, und definiert bleibt, wenn ein Siebtel bis ein Drittel der Lernenden allein in einer Komponente sitzt.
 
@@ -76,14 +76,13 @@ Netzwerkmethoden werden über die Evidenzbasis der Wissensbasis hinweg genutzt, 
 3. **Automatisierte Codierung validieren.** Bei großen Log-Datensätzen ist [[llm|LLM]]-basierte Klassifikation mächtig, muss aber gegen menschliche Codierung geprüft werden (Inter-Rater-Übereinstimmung berichten), bevor Netzwerkstruktur interpretiert wird.
 4. **Auf Differenzierung hin gestalten.** Netzwerkanalyse offenbart oft, dass *dasselbe* KI-Werkzeug verschiedene Interaktionsmuster über Lernendengruppen hinweg produziert — was adaptives Design informiert statt one-size-fits-all-Evaluation.
 
-
 ## ENA-Validierung simulierten kollaborativen Dialogs
 
 - **ENA als Validierung für simulierten Dialog.** Fang (2026) wendet Epistemic Network Analysis an, um zu evaluieren, ob feinjustierte LLM-Agenten die Struktur echten kollaborativen [[problem-solving|Problemlöse]]dialogs reproduzieren. Simulierte Adjazenzvektoren mit dem empirischen Netzwerk vergleichend berichtet er eine ENA-Distanz von 0.17 — innerhalb der 95-Perzentil-Schwelle der Nullverteilung, mit einem Permutations-p-Wert von 0.65 —, was ENAs Kraft als [[quantitative-research|quantitative]] Prüfung der Fidelity generativer [[simulation|Simulationen]] von Diskurs demonstriert, neben anderen Anwendungen von ENA/SNA/TNA in der Bildungsforschung.
 
 ## Verbreitete Fehlvorstellungen
 
-- **„Netzwerkanalyse ist objektiv, weil sie computational ist."** **Die Codierung ist das Fundament**: alle Netzwerkvarianten hängen davon ab, Rohdaten (Äußerungen, Ereignisse, Beziehungen) verlässlich in diskrete Knoten zu codieren, und automatisierte Codierung erbt ihre Definitionen von denen, die sie gesetzt haben. Die Visualisierung sieht wie eine emergente Struktur aus, und ihre Knoten sind interpretative Entscheidungen.
+- **„Netzwerkanalyse ist objektiv, weil sie computational ist."** **Die Codierung ist das Fundament**: alle Netzwerkvarianten hängen davon ab, Rohdaten (Äußerungen, Ereignisse, Beziehungen) verlässlich in diskrete Knoten zu codieren, und automatisierte Codierung erbt ihre Definitionen von denen, die sie gesetzt haben. Die [[visualization|Visualisierung]] sieht wie eine emergente Struktur aus, und ihre Knoten sind interpretative Entscheidungen.
 - **„Eine Verschiebung der Netzwerkstruktur ist für sich genommen ein Lernzuwachs."** In einer Falldiskussion mit **zwanzig Graduierten aus gemischten Disziplinen** stieg der **Anteil geteilter Begriffe der Größe 3 von 5,2% auf 8,0%**, während **Inhaltstoken auf etwa das 0,65-Fache ihres Niveaus nach der Lektüre fielen**. Zwei strukturelle Maße bewegten sich in entgegengesetzte Richtungen, sodass „das Netzwerk hat sich verändert" kein Befund ist, bevor man sagt, entlang welches Maßes und warum es zählt.
 - **„Mehr geteilte Begriffe bedeuten bessere Zusammenarbeit."** Ein steigender Anteil geteilter Begriffe neben fallender Vielfalt der Inhaltstoken ist mit Konvergenz auf ein kleineres Vokabular vereinbar. Konsens und Verengung sind strukturell ähnlich, weshalb das Maß den Inhalt braucht, aus dem es berechnet wurde.
 

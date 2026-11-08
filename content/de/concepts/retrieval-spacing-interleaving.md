@@ -1,7 +1,7 @@
 ---
 title: "Abruf, Spacing und Interleaving"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,8 +12,8 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-10-25T22:20:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T16:51:25-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -58,6 +58,8 @@ Dieselbe Logik läuft durch die Spickzettel-Studie: [[student-cheat-sheets-make-
 Der Spacing-Effekt — dass dieselbe Gesamtübungsmenge dauerhafteres Lernen erzeugt, wenn sie über Sitzungen verteilt statt in einer geballt wird — ist die algorithmisch am meisten ausgebeutete der drei Techniken, und die angewandten Systeme des Korpus sind darum herum gebaut.
 
 [[memdora-ai-spaced-repetition|Memdora]] ist das klarste Beispiel für Spacing als Ingenieursproblem. Es fundiert Planung in der Ebbinghaus-Vergessenskurve, nennt die Zahl, dass etwa **70% neu gelernten Materials innerhalb von 24 Stunden** ohne Überprüfung vergessen werden, und integriert **FSRS-6**, beschrieben als den aktuellen State-of-the-Art-Algorithmus für verteilte Wiederholung. Sein Argument ist, dass Planung allein nicht genügt: bestehende Werkzeuge reduzieren Karteikarten-Interaktion auf eine einzelne binäre Geste, „umdrehen und selbst bewerten“, was die Autoren ein verarmtes Modell nennen, das die kognitionswissenschaftliche Evidenz zu Abrufübung nicht ausbeutet. Memdoras Beitrag ist daher eine **Taxonomie von 17 kognitiv fundierten Interaktionstypen** über die Kategorien Language, By Heart und Exam hinweg, jeder abgebildet auf begutachtete Evidenz, die auf der Karte angezeigt wird, plus ein anstrengungsbasiertes Belohnungssystem, das tatsächliches kognitives Engagement kompensiert statt App-Präsenz, eine einheitliche Erzeugungspipeline, die Karten im Moment des Lesens erstellt, und eine Kursraumschicht, die [[learning-gains|Lernleistungen]] auf Ebene der einzelnen Karte berichtet.
+
+[[bilingual-llm-lecture-companion-srl-2026|Malhotras (2026) zweisprachiger Vorlesungsbegleiter]] greift diese Autorisierungskosten vom anderen Ende an: Er transkribiert englisch–hindi Vorlesungen im Browser und erzeugt Karteikarten auf dem Gerät, gebaut für indische Klassenzimmer, in denen UDISE+-Daten den Internetzugang bei etwa 54% der Schulen verorten.
 
 [[adaptive-pretesting-retention|Akgun und Toker (2026)]] liefern die stärkste experimentelle Evidenz des Korpus dazu, wie Spacing *strukturiert* wird. In einer randomisierten Studie mit drei Armen über 89 Studierende in einem angewandten Statistik-Kurs übten alle drei Gruppen in verteilten Sitzungen mit identischer Anzahl und Timing über sieben Wochen; nur die Interaktionsstruktur unterschied sich. Adaptiver verteilter Abruf (G1) erreichte den höchsten Nachtest-Score (M = 78.19) und die höchste beobachtete Übungsanstrengung (M = 0.85); fixierter verteilter Abruf (G2) folgte (M = 74.55, Anstrengung 0.74); lernendengesteuertes KI-Studium ohne erzwungenen Abruf kam bei beidem zuletzt (M = 67.28, Anstrengung 0.49). Der multivariate Effekt war signifikant (Wilks' Λ = .664, partielles η² = .185), wobei G1 bei der Behaltensleistung vor G3 lag mit d = 0.92 (p = .003). Das pädagogisch bedeutsame Detail ist, dass G1s Agent so konfiguriert war, dass er *zurückhielt*: antwortskontingente Sonden für [[misconceptions|Missverständnisse]], Bitten um Elaboration nach oberflächlichen Antworten, Voranschreiten nur bei angemessenem konzeptuellem Engagement, und direkte Lösungen ausdrücklich aus seinen erlaubten Ausgaben ausgeschlossen. Die eigene Lesart der Autoren ist, dass Pretesting ein vorgeladener Katalysator ist statt eine eigenständige Intervention, deren Nutzen offenen KI-Zugang überlebt.
 

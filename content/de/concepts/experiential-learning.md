@@ -1,14 +1,14 @@
 ---
 title: Erfahrensorientiertes Lernen
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-10-28T15:48:01-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -46,14 +46,16 @@ Erfahrensorientiertes Lernen ist eng verwandt mit [[active-learning]], [[project
 
 - **KI als Infrastruktur für Unsicherheit, nicht für Effizienz.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] geben einer generativen KI-Rolle die Aufgabe, disruptive Ereignisse und kaskadierende Konsequenzen in einer Unternehmenssimulation zu erzeugen, damit Teams Pläne unter unvollständiger Information überarbeiten, und warnen, dass geschützte Simulationen Entscheidungsgewohnheiten hinterlassen können, die außerhalb des Klassenzimmers zur Verbindlichkeit werden.
 
+- **Tun gegenüber belehrt werden, über fünf Wochen gemessen.** In einem Quasi-Experiment mit 126 Erstsemesterstudierenden der Ingenieurwissenschaften erzeugte eine zweistündige erfahrungsorientierte Sitzung zum Lernen mit generativer KI einen Zuwachs an [[metacognition|metakognitivem]] Wissen von +0,25 gegenüber etwa null bei einer Vorlesung. Das ist ein mittlerer Effekt (d = −0,37), der nach Mehrfachvergleichskorrektur mit p = .055 die Signifikanz verfehlte, und das [[self-report-measures|selbstberichtete]] KI-Engagement war in beiden Gruppen nach fünf Wochen vergleichbar (3,99 und 3,93) ([[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio et al., 2026]]). Die Grenze, die das der Begründung dieser Seite setzt, ist es wert, klar benannt zu werden: Eine praktische Sitzung bewegt metakognitives Wissen in die richtige Richtung, ohne den Vergleich zu entscheiden, sodass der Vorteil des Tuns aus wiederholten Zyklen aufgebaut werden muss statt aus einem einzelnen Labor angenommen zu werden.
+
 ### Zwei Formen handlungsnahen Lernens in einem KI-unterstützten Curriculum
 
-Ein thematischer Review von 32 begutachteten Studien zu handlungsnahem Lernen in KI-unterstützter Designbildung
+Ein thematischer Review von 32 begutachteten Studien zu handlungsnahem Lernen in KI-unterstützter [[design-education|Designbildung]]
 ([[hands-on-learning-necessity-age-of-ai-review-2026|Yu, Liu & Zhu, 2026]]) argumentiert, dass KI erfahrensorientiertes Lernen eher reorganisiert als ersetzt, und zieht eine Unterscheidung, die die anderen Quellen der Wissensdatenbank tendenziell einebnen: *Verkörpert Handlungsnah* (Embodied Hands-on), das von körperlicher Handlung, Werkzeugen und Materialien abhängt, und *Kognitiv Handlungsnah* (Cognitive Hands-on), das sich durch fortgesetzte Operation, Urteil und Anpassung KI-generierter Ausgaben entwickelt. Beide durchlaufen denselben Handlung-Feedback-Reflexion-Verfeinerung-Zyklus, doch sie beziehen Feedback aus verschiedenen Quellen — realer materieller Widerstand im ersten Fall, sprachliche und visuelle Ergebnisse im zweiten —, sodass sie nicht als äquivalent oder als Substitute behandelt werden sollten. Die Warnung des Reviews ist, dass Generationseffizienz die explorative Phase komprimieren kann: Mehrere eingeschlossene Studien berichten reduziertes exploratives Skizzieren und schrittweises Versuch-und-Irrtum, sodass mehr durch KI ermöglichte Iterationen nicht größere iterative Tiefe bedeuten müssen, und Studierende die Fehlschlag- und Materialrestriktions-Begegnungen verpassen können, die handlungsnahe Arbeit lehrreich machen. Damit konsistent erhöhte [[prompt-engineering|Prompting]] allein [[creativity]] in der reviewten Arbeit nicht, während mehrstufige Operationen (erzeugen, verändern, auswählen) es taten —, was das Lernen erneut im Urteil der lernenden Person verortet statt in der Generation.
 
 Erfahrensorientiertes Lernen verbindet sich mit [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]] und der beruflichen Vorbereitung in [[higher-ed]].
 
-Arbeitsintegrierte Erfahrung kann die bindende Bedingung für fortgeschrittene Kompetenz sein: Über 89 geförderte Capstone-Projekte in einem Smart-Manufacturing-Labor war der Fortschritt vom Workforce Readiness Level 6 auf 7 an in der Industrie eingebettete Praktika gebunden statt an zusätzliche Kursarbeit ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+Arbeitsintegrierte Erfahrung kann die bindende Bedingung für fortgeschrittene Kompetenz sein: Über 89 geförderte Capstone-Projekte in einem Smart-Manufacturing-Labor war der Fortschritt vom [[career-development-and-readiness|Workforce Readiness]] Level 6 auf 7 an in der Industrie eingebettete Praktika gebunden statt an zusätzliche Kursarbeit ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
 
 ## Verbreitete Fehlvorstellungen
 
@@ -61,9 +63,9 @@ Arbeitsintegrierte Erfahrung kann die bindende Bedingung für fortgeschrittene K
 
 **„KI kann die Erfahrung im erfahrungsorientierten Lernen ersetzen.“** Sie kann manche Systeme simulieren und die Erfahrung nicht liefern, die in angewandten Domänen wie KI, Cybersicherheit und Robotik Kompetenz formt, wo Studierende Fähigkeiten durch die Arbeit mit den echten Werkzeugen und Systemen entwickeln. Eine simulierte Sicherheitsumgebung lehrt das Verfahren; ein laufendes System lehrt die Folge einer Fehlkonfiguration.
 
-**„Authentischere Aufgaben sind schlicht besser.“** Authentizität erhöht den Transferwert und das Assessmentproblem zugleich: echte Systeme erzeugen variable, schwer zu benotende Belege, und je authentischer die Aufgabe, desto weniger ähnelt das Ergebnis einer Punktzahl. Das Design muss beides halten, weshalb die Reflexionsstruktur so viel Gewicht trägt wie die Aufgabe.
+**„[[authentic-assessment|Authentischere Aufgaben]] sind schlicht besser.“** Authentizität erhöht den Transferwert und das Assessmentproblem zugleich: echte Systeme erzeugen variable, schwer zu benotende Belege, und je authentischer die Aufgabe, desto weniger ähnelt das Ergebnis einer Punktzahl. Das Design muss beides halten, weshalb die Reflexionsstruktur so viel Gewicht trägt wie die Aufgabe.
 
-**„KI-Tutoring passt zu erfahrungsorientiertem Lernen so wie zu Vorlesungsinhalten.“** Die Passung ist schwächer, weil ein Tutor Erklärung liefern und die Begegnung mit dem System nicht liefern kann. Ihr natürlicher Ort in dieser Pädagogik liegt um die Reflexions- und Konzeptualisierungsphasen, in denen eine lernende Person sinnstiftend verarbeitet, was geschehen ist — nicht anstelle des Tuns. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] erzeugen die Begegnung, statt sie zu skripten: aus den Zielen einer lernenden Person baut GELLI zur Laufzeit situierte Szenen mit Figuren, Unterstützung und Reflexion, und in einer Within-Subjects-Studie mit 40 japanischen Lernenden übertraf es von Expertinnen und Experten verfasste Videos bei der Vokabelerinnerung (d = 0.45) und beim Selbstvertrauen (d = 0.45), nicht aber beim Sprechen.
+**„[[intelligent-tutoring|KI-Tutoring]] passt zu erfahrungsorientiertem Lernen so wie zu Vorlesungsinhalten.“** Die Passung ist schwächer, weil ein Tutor Erklärung liefern und die Begegnung mit dem System nicht liefern kann. Ihr natürlicher Ort in dieser [[pedagogy|Pädagogik]] liegt um die Reflexions- und Konzeptualisierungsphasen, in denen eine lernende Person sinnstiftend verarbeitet, was geschehen ist — nicht anstelle des Tuns. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] erzeugen die Begegnung, statt sie zu skripten: aus den Zielen einer lernenden Person baut GELLI zur Laufzeit situierte Szenen mit Figuren, Unterstützung und Reflexion, und in einer Within-Subjects-Studie mit 40 japanischen Lernenden übertraf es von Expertinnen und Experten verfasste Videos bei der Vokabelerinnerung (d = 0.45) und beim Selbstvertrauen (d = 0.45), nicht aber beim Sprechen.
 
 ## Implikationen für die Praxis
 
@@ -76,7 +78,7 @@ Arbeitsintegrierte Erfahrung kann die bindende Bedingung für fortgeschrittene K
 **Für Entwickelnde**
 
 - Bauen Sie Reflexions-Prompts und eine Aufzeichnung dessen, was die lernende Person getan hat, damit die sinnstiftende Phase Material hat und die Belege prüfbar sind.
-- Stellen Sie eine Simulation nicht als Ersatz für den Betrieb eines realen Systems in Domänen dar, in denen die Folge eines Fehlers das Curriculum ist.
+- Stellen Sie eine Simulation nicht als Ersatz für den Betrieb eines realen Systems in Domänen dar, in denen die Folge eines Fehlers das [[curriculum-design|Curriculum]] ist.
 
 **Für Programmgestaltende**
 
@@ -92,6 +94,7 @@ Arbeitsintegrierte Erfahrung kann die bindende Bedingung für fortgeschrittene K
 - [[learning-theories]]
 - [[pedagogy]] — Dachbegriff: Pädagogien und Lehrstrategien in der KI-Bildung
 - [[virtual-and-augmented-reality]] — immersives Üben als absichtsvolle Erfahrung
+- [[reflection]]
 
 ## Verbundene Artikel
 - [[genai-counter-learner-groupthink-2025]]
@@ -109,3 +112,6 @@ Arbeitsintegrierte Erfahrung kann die bindende Bedingung für fortgeschrittene K
 - [[gelli-experiential-language-learning-2026]] — GELLI: ein Generator für erfahrungsorientierte Sprachlerninteraktionen (Symonette et al. 2026)
 
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — KI-unterstütztes virtuelles Labor für flipped Physiklernen: Wirkung auf Leistung, Motivation und kognitive Belastung von Mittelstufenschülerinnen und -schülern
+
+- [[metacognitive-awareness-experiential-vs-instructional-2026]] — Erfahrungsorientierte gegenüber instruktionalen Sitzungen für metakognitives Bewusstsein beim KI-gestützten Lernen (Benazet i Montobbio et al. 2026)
+

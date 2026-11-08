@@ -1,7 +1,7 @@
 ---
 title: Assistive Technologien
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,8 +9,8 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-26T07:05:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -25,7 +25,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **Assistive Technologien** – Geräte, Software und Dienste, die Menschen mit Behinderungen helfen, wahrzunehmen, zu handeln, zu kommunizieren und am Lernen und Alltagsleben teilzuhaben. In der [[ai-education|KI in der Bildung]] umfassen assistive Technologien Screenreader, Sprache-zu-Text und Text-zu-Sprache, Untertitel, Braille- und taktile Ausgabe, Gebärdensprach-Werkzeuge und zunehmend KI-gestützte Anpassungen, die Inhalte und Interaktion an individuelle Bedürfnisse angleichen.
+> **Assistive Technologien** – Geräte, Software und Dienste, die Menschen mit Behinderungen helfen, wahrzunehmen, zu handeln, zu kommunizieren und am Lernen und Alltagsleben teilzuhaben. In der [[ai-education|KI in der Bildung]] umfassen assistive Technologien Screenreader, Sprache-zu-Text und [[speech-and-voice-technologies|Text-zu-Sprache]], Untertitel, Braille- und taktile Ausgabe, Gebärdensprach-Werkzeuge und zunehmend KI-gestützte Anpassungen, die Inhalte und Interaktion an individuelle Bedürfnisse angleichen.
 
 ## Fragen zum Nachdenken
 
@@ -56,7 +56,7 @@ Ein Scoping Review aus dem Jahr 2026 zu digitalen assistiven [[ai-technologies|T
 - **Passen Sie das Werkzeug zum Lernenden und zur Aufgabe an.** Screenreader, Untertitel, Sprache und taktile Ausgabe adressieren jeweils unterschiedliche Barrieren – wählen Sie nach den Bedürfnissen der Einzelperson und dem Format der Inhalte.
 - **Nutzen Sie KI, um die Kosten assistiver Anpassungen zu senken.** KI kann automatisch untertiteln, Texte vereinfachen und Alternativen erzeugen, prüfen Sie aber die Qualität der Ausgabe auf pädagogische Genauigkeit.
 - **Verankern Sie die Bereitstellung in der Politik.** Beziehen Sie sich auf den Assistive Technology Act, IDEA und WCAG, wenn Sie KI-Werkzeuge beschaffen oder bauen.
-- **Benennen Sie, welche Funktion die Unterstützung erfüllt — und evaluieren Sie gegen diese Funktion.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] unterscheiden Kompensation (evaluiert über Zugang und Teilhabe) von Gerüstbau (Entscheidungen mit Unterstützung) von Entwicklung (Strategienutzung nach Ausblenden oder Transfer). Sie fügen eine Regel hinzu, die auf die Mahnung dieser Seite abzielt: Unterstützung bei Barrierefreiheit ist keine Remediation — ob ein Werkzeug eine Anpassung, Strategieinstruktion oder vorübergehende Übungsunterstützung ist, „sollte im Lernplan festgehalten werden“.
+- **Benennen Sie, welche Funktion die Unterstützung erfüllt — und evaluieren Sie gegen diese Funktion.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] unterscheiden Kompensation (evaluiert über Zugang und Teilhabe) von [[scaffolding|Gerüstbau]] (Entscheidungen mit Unterstützung) von Entwicklung (Strategienutzung nach Ausblenden oder Transfer). Sie fügen eine Regel hinzu, die auf die Mahnung dieser Seite abzielt: Unterstützung bei Barrierefreiheit ist keine Remediation — ob ein Werkzeug eine Anpassung, Strategieinstruktion oder vorübergehende Übungsunterstützung ist, „sollte im Lernplan festgehalten werden“.
 
 ## Verbreitete Fehlvorstellungen
 

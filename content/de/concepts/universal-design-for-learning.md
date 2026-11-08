@@ -1,7 +1,7 @@
 ---
 title: Universelles Design für das Lernen (UDL)
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,8 +10,8 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-10-28T15:48:01-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -54,7 +54,7 @@ UDL ruht auf der Einsicht, dass Variabilität unter Lernenden die Norm ist, nich
 Gerechtigkeit-durch-Design ist eine konkrete Weise, diese Haltung zu operationalisieren. Wenzel, Geiger und Liening (2026) verankern ihr CAIS-GBL-Rahmenwerk für KI-[[conversational-ai|konversationelle Agenten]] in Wirtschafts[[simulation|simulationsspielen]] in einem expliziten **Gerechtigkeit-durch-Design**-Ansatz, ausgerichtet an Universal Design for Learning, und leiten Meta-Anforderungen ab, die kognitives, [[motivation|motivationales]], [[affective-computing|affektives]] und [[sociocultural-learning|soziokulturelles]] Engagement umspannen. Ihre Designprinzipien und -merkmale zielen darauf, individuelle Unterschiede zwischen Lernenden in Stärken, Herausforderungen und Interessen zu adressieren –, eine konkrete Anwendung von UDL-Prinzipien auf das Design adaptiven, KI-gestützten [[game-based-learning|spielbasierten Lernens]].
 Ein Werkzeug kann alle drei UDL-Prinzipien bedienen und dennoch einengen, was eine Lehrperson entscheidet. [[alenezi-ai-universal-design-learning-kuwait-2026|Alenezi (2026)]] argumentiert aus genau diesem Grund, dass die Zuordnung eines Werkzeugs zu einem UDL-Prinzip notwendig, aber nicht hinreichend ist, und schlägt als Teil seiner Prüfungen ein jährliches Deprofessionalisierungs-Audit und ein Register der Anbieterabhängigkeit vor.
 
-KI erscheint in dieser Literatur auch als Hindernis für UDL statt als Instrument davon. In der [[faculty-accessible-course-design-ai-2026|Mixed-Methods-Studie von Sidhu, Atif und Newland (2026)]] an 69 Professorinnen und Professoren einer ontarischen Universität ist eines der vier Schlüsselthemen, dass [[generative-ai|generative KI]] den Fortschritt beim zugänglichen Kursdesign umkehre; das Titelzitat „AI is reducing options I had used“ stammt aus ihren Interviews, denn die Take-home- und entwurfsbasierten Aufgaben, die Inklusionsarbeit getan hatten, sind genau die, die eine KI nun komplett erledigen kann. Ihre Fakultätsbefunde zeigen, warum dieser Rückschlag auf einer bereits dünnen Basis landet: 90% der Antwortenden glaubten, sie schafften eine zugängliche Lernumgebung, und 87% sagten, sie berücksichtigten aktiv Barrierefreiheit, doch weniger als die Hälfte (46%) dachte, die Universität biete dafür ausreichende Ressourcen, und etwa ein Fünftel hatte nie von Techniken so grundlegender Art wie OCR-lesbaren PDFs oder farbunabhängigen Links gehört. Die Nachfrage überholt das Angebot –, Einschreibungen an ontarischen Universitäten wuchsen 17% von 2013 bis 2022, während Registrierungen bei Barrierefreiheitsdiensten um 126% stiegen –, daher ist der Fall, den die Studie macht, dass UDL-Unterstützung ressourciert sein muss, um die Assessmentoptionen zu kompensieren, die KI entfernte.
+KI erscheint in dieser Literatur auch als Hindernis für UDL statt als Instrument davon. In der [[mixed-methods-research|Mixed-Methods-Studie]] von [[faculty-accessible-course-design-ai-2026|Sidhu, Atif und Newland (2026)]] an 69 Professorinnen und Professoren einer ontarischen Universität ist eines der vier Schlüsselthemen, dass [[generative-ai|generative KI]] den Fortschritt beim zugänglichen Kursdesign umkehre; das Titelzitat „AI is reducing options I had used“ stammt aus ihren Interviews, denn die Take-home- und entwurfsbasierten Aufgaben, die Inklusionsarbeit getan hatten, sind genau die, die eine KI nun komplett erledigen kann. Ihre Fakultätsbefunde zeigen, warum dieser Rückschlag auf einer bereits dünnen Basis landet: 90% der Antwortenden glaubten, sie schafften eine zugängliche Lernumgebung, und 87% sagten, sie berücksichtigten aktiv Barrierefreiheit, doch weniger als die Hälfte (46%) dachte, die Universität biete dafür ausreichende Ressourcen, und etwa ein Fünftel hatte nie von Techniken so grundlegender Art wie OCR-lesbaren PDFs oder farbunabhängigen Links gehört. Die Nachfrage überholt das Angebot –, Einschreibungen an ontarischen Universitäten wuchsen 17% von 2013 bis 2022, während Registrierungen bei Barrierefreiheitsdiensten um 126% stiegen –, daher ist der Fall, den die Studie macht, dass UDL-Unterstützung ressourciert sein muss, um die Assessmentoptionen zu kompensieren, die KI entfernte.
 
 ### Verbindungen
 

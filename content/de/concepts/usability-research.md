@@ -1,7 +1,7 @@
 ---
 title: Usability-Forschung
 created: "2026-08-24T02:15:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -9,8 +9,8 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-10-26T01:30:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -31,9 +31,9 @@ ai_assist:
 
 - Erinnern Sie sich an ein Softwarewerkzeug — pädagogisch oder nicht —, das didaktisch sauber oder tatsächlich leistungsfähig war, das Sie aber nicht mehr benutzt haben, weil es verwirrend oder frustrierend war? Genau dieses Scheitern versucht Usability-Forschung zu erklären, bevor es Lernen kostet.
 - Eine verbreitete Annahme ist, dass die pädagogische Wirksamkeit eines Werkzeugs danach beurteilt werden kann, ob sich Lernzuwächse verbessern. Die Seite argumentiert jedoch, dass ein Werkzeug unbedienbar sein und in einer Studie dennoch „funktionieren“ kann, oder bedienbar und dennoch nicht in der Lage, etwas beizubringen. Warum könnte eine Studie mit Lernzuwächsen übersehen, dass das Werkzeug in der Praxis mühsam zu nutzen ist?
-- Wie würden Sie vor der Lektüre der Methoden herausfinden, ob ein KI-Tutor für Lernende verwirrend, frustrierend oder fehleranfällig ist? Was würden Sie tatsächlich tun oder beobachten — und was würde die eigene Zufriedenheitsaussage einer nutzenden Person übersehen, die sorgfältige Beobachtung einfängt?
+- Wie würden Sie vor der Lektüre der Methoden herausfinden, ob ein [[intelligent-tutoring|KI-Tutor]] für Lernende verwirrend, frustrierend oder fehleranfällig ist? Was würden Sie tatsächlich tun oder beobachten — und was würde die eigene Zufriedenheitsaussage einer nutzenden Person übersehen, die sorgfältige Beobachtung einfängt?
 - Lautes Denken ist eine Kernmethode: Nutzende sprechen ihre Gedanken während der Arbeit aus und legen dabei Verwirrung und mentale Modelle in Echtzeit offen. Wenn Sie als lernende Person ein KI-Werkzeug benutzen würden: Was könnten Sie über Ihre Verwirrung artikulieren, das eine einfache „Hat es Ihnen gefallen?“-Umfrage nie erfassen würde?
-- Die Seite vermerkt, dass berichtete Zufriedenheit von objektiver Leistung abweichen kann — Menschen können sagen, sie liebten ein Werkzeug, das sie heimlich bremst, oder eines unterschätzen, das tatsächlich hilft. Wo haben Sie diese Lücke zwischen dem, was Menschen sagen, und dem, was ihr Verhalten zeigt, gesehen?
+- Die Seite vermerkt, dass [[self-report-measures|berichtete Zufriedenheit]] von objektiver Leistung abweichen kann — Menschen können sagen, sie liebten ein Werkzeug, das sie heimlich bremst, oder eines unterschätzen, das tatsächlich hilft. Wo haben Sie diese Lücke zwischen dem, was Menschen sagen, und dem, was ihr Verhalten zeigt, gesehen?
 - Usability-Forschung sagt Ihnen, ob ein Werkzeug bedienbar ist, nicht ob es lehrt. Wenn Sie ein KI-Lernwerkzeug bewerten: Wie würden Sie Usability-Belege mit Belegen für Lernen verbinden — und was könnte ein Werkzeug, das beides besteht, dennoch nicht erreichen?
 
 ## Einführung
@@ -43,8 +43,8 @@ Usability- und UX-Forschung beantworten Fragen wie: Finden Studierende heraus, w
 ## Kernmethoden
 
 - **Protokolle lauten Denkens.** Nutzende verbalisieren ihre Gedanken während der Aufgabenerledigung und legen dabei Verständnis, Verwirrung und mentale Modelle in Echtzeit offen. [[code-anchor-multi-view-visualization|Eine Studie zu Multi-View-Code-Visualisierungen]] und [[learn-framework-responsible-genai-pbl-2026|das LEARN-Rahmenwerk]] nutzen lautes Denken, um zu verstehen, wie Lernende KI-gestützten Werkzeugen Sinn abgewinnen; [[feedback-futures-genai|Feedback Futures]] untersucht, wie Lernende KI-erzeugtes Feedback verarbeiten.
-- **Nutzungsstudien.** Strukturierte, aufgabenbasierte Evaluationen messen Effizienz, Fehlerraten, Zufriedenheit und Vervollständigung. [[rhaimi-productivemath-2025|ProductiveMath]] bewertet die Usability einer generativen KI-App zur Unterstützung von Unterricht nach produktivem Scheitern; [[supplynet-visual-exploratory-learning|SupplyNet]] führt eine Nutzungsstudie zu einem visuellen explorativen Lernwerkzeug durch; [[llm-chatbots-cs-multiple-choice|LLM-Chatbots für Multiple-Choice-Fragen in der Informatik]] bewerten Interaktionsqualität.
-- **Interviews und Beobachtung.** Qualitative Usability-Interviews und Beobachtung erfassen Nutzungserlebnis, Präferenzen und Schmerzpunkte. [[icub-humanoid-storytelling-llm-hri-2025|Eine Usability-Studie zu einem erzählenden humanoiden Roboter]] nutzt strukturierte Evaluation, um zu fragen, ob Eltern den Roboter mit einem Kind interagieren ließen; [[genai-architectural-design-studios|KI in Designstudios]] beobachtet und interviewt Studierende, die KI in authentischer Entwurfsarbeit einsetzen.
+- **Nutzungsstudien.** Strukturierte, aufgabenbasierte Evaluationen messen Effizienz, Fehlerraten, Zufriedenheit und Vervollständigung. [[rhaimi-productivemath-2025|ProductiveMath]] bewertet die Usability einer [[generative-ai|generativen KI]]-App zur Unterstützung von Unterricht nach [[productive-failure|produktivem Scheitern]]; [[supplynet-visual-exploratory-learning|SupplyNet]] führt eine Nutzungsstudie zu einem visuellen explorativen Lernwerkzeug durch; [[llm-chatbots-cs-multiple-choice|LLM-Chatbots für Multiple-Choice-Fragen in der Informatik]] bewerten Interaktionsqualität.
+- **Interviews und Beobachtung.** Qualitative Usability-Interviews und Beobachtung erfassen Nutzungserlebnis, Präferenzen und Schmerzpunkte. [[icub-humanoid-storytelling-llm-hri-2025|Eine Usability-Studie zu einem erzählenden humanoiden Roboter]] nutzt strukturierte Evaluation, um zu fragen, ob [[parents-and-families|Eltern]] den Roboter mit einem Kind interagieren ließen; [[genai-architectural-design-studios|KI in Designstudios]] beobachtet und interviewt Studierende, die KI in authentischer Entwurfsarbeit einsetzen.
 - **Systematische Usability-Evaluation.** Heuristische Evaluation, Cognitive Walkthrough und fragebogenbasierte UX-Maße (z. B. SUS) bewerten Usability systematisch an etablierten Kriterien.
 
 ## Wie Usability-Forschung in der Wissensbasis auftritt
@@ -53,7 +53,7 @@ Usability- und UX-Forschung beantworten Fragen wie: Finden Studierende heraus, w
 - **Mensch-Roboter- und [[conversational-ai|konversationelle KI]]-Interaktion.** [[icub-humanoid-storytelling-llm-hri-2025|Die Studie zum humanoiden Erzähler]] ist eine ausdrückliche Usability-Studie zu [[llm]]-gestützter Interaktion; [[conversational-ai-agents-umbrella-review-2026|ein Überblicksreview zu konversationellen KI-Agenten]] benennt Usability und Interaktionsqualität als wiederkehrendes Thema.
 - **Design und Verfeinerung.** Usability-Befunde speisen iteratives Design (siehe [[design-thinking]] und [[learning-design]]) und verbessern Werkzeuge vor oder neben Wirksamkeitstests.
 - **Ein Instrument über Kontexte hinweg, und die Decke, die es begrenzt.** [[mendonca-llm-feedback-perceived-usefulness-programming-2026|Mendonça et al. (2026)]] hielten Domäne, Aufgabe und Instrument konstant, während die Bildungsstufe variierte, sodass die Bewertungen von 144 Studierenden zu 893 Feedbackantworten und 237 Berichten Kontexte statt Disziplinen vergleichen — und allein die wahrgenommene Genauigkeit unterschied sich zwischen den Stufen. Die Studie benennt auch die Grenze dieser Art von Nutzungsevaluation: 72.2 bis 86.4 Prozent der Studierenden lagen im Mittel bei mindestens 4 von 5, und die Autoren stellen fest, dass ihre nicht-signifikanten Unterschiede keine Äquivalenz belegen, weil keine Marge vorab festgelegt wurde.
-- **Bewertendendesign als Teil des Befunds berichtet.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] ließen 25 domänenpassende Expertinnen und Experten 92 neu erzeugte Vorlesungen an einer Rubrik beurteilen, die bei „der Qualität einer Standard-MOOC-Vorlesung“ verankert war, und wiesen jedes Video einer einzelnen begutachtenden Person zu (k = 1), um das Panel über einen größeren Teil des Korpus zu verteilen, statt wiederholte Bewertungen zu erheben. Der Kompromiss wird modelliert statt verborgen: Ein Random-Intercept-Modell schreibt etwa 35 Prozent der Restvarianz der begutachtenden Person zu (ICC = 0.35), und die Intervalle sind nach begutachtenden Personen geclustert — so kann ein Expertinnen- und Expertenpanel „87 Prozent auf oder über der Schwelle“ mit einem ehrlichen Bereich berichten.
+- **Bewertendendesign als Teil des Befunds berichtet.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] ließen 25 domänenpassende Expertinnen und Experten 92 neu erzeugte Vorlesungen an einer Rubrik beurteilen, die bei „der Qualität einer [[online-teaching-and-learning|Standard-MOOC-Vorlesung]]“ verankert war, und wiesen jedes Video einer einzelnen begutachtenden Person zu (k = 1), um das Panel über einen größeren Teil des Korpus zu verteilen, statt wiederholte Bewertungen zu erheben. Der Kompromiss wird modelliert statt verborgen: Ein Random-Intercept-Modell schreibt etwa 35 Prozent der Restvarianz der begutachtenden Person zu (ICC = 0.35), und die Intervalle sind nach begutachtenden Personen geclustert — so kann ein Expertinnen- und Expertenpanel „87 Prozent auf oder über der Schwelle“ mit einem ehrlichen Bereich berichten.
 
 ## Verhältnis zu anderen Forschungsfamilien
 
@@ -68,7 +68,7 @@ Usability-Forschung teilt Methoden der Datenerhebung mit [[qualitative-research|
 
 **„Ein benutzbares System ist ein gutes Bildungssystem."** Usability-Forschung behandelt die Interaktion zwischen Person und System, nicht Lernendenergebnisse, und beides fällt in beide Richtungen auseinander: Ein pädagogisch mächtiges Werkzeug kann aufgegeben werden, weil es frustrierend ist, und ein reibungsloses Werkzeug kann gar nichts lehren. Leichtigkeit ist eine Vorbedingung der Nutzung, kein Beleg dafür, dass die Nutzung wertvoll war.
 
-**„Usability ist eine Politur-Aktivität am Ende der Entwicklung."** Sie ist eine Methodenfamilie mit Kerntechniken — Beobachtung, Aufgabenanalyse, lautes Denken, heuristische Prüfung —, die das Design formen statt es abzuschließen. Die Reibung erst zu entdecken, nachdem die Pädagogik festgelegt ist, führt tendenziell entweder zur Neugestaltung der Oberfläche um das Problem herum oder zur Aufgabe des Werkzeugs.
+**„Usability ist eine Politur-Aktivität am Ende der Entwicklung."** Sie ist eine Methodenfamilie mit Kerntechniken — Beobachtung, Aufgabenanalyse, lautes Denken, heuristische Prüfung —, die das Design formen statt es abzuschließen. Die Reibung erst zu entdecken, nachdem die [[pedagogy|Pädagogik]] festgelegt ist, führt tendenziell entweder zur Neugestaltung der Oberfläche um das Problem herum oder zur Aufgabe des Werkzeugs.
 
 **„Studierende, die ein Werkzeug aufgeben, hatten keine Motivation."** Aufgabe ist oft die korrekte Lesart der Nutzenden von Interaktionskosten, die das Design nie gemessen hat. Da ein Werkzeug, das niemand nutzt, keine Wirkung haben kann, ist die Abbruchrate selbst ein Bildungsoutcome.
 

@@ -1,7 +1,7 @@
 ---
 title: Aktivitätstheorie
 created: "2026-08-26T08:20:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -10,8 +10,8 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-10-25T20:20:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -32,7 +32,7 @@ ai_assist:
 
 - Aktivitätstheorie sieht Lernen nicht als individuelle Kognition, sondern als kollektives System aus Subjekt, Werkzeugen, Regeln, Gemeinschaft und Arbeitsteilung. Wenn Sie ein neues KI-Werkzeug in einen Kursraum bringen: Welches davon erwarten Sie zu verändern — und welches beharrlich gleich bleiben zu sehen?
 - Eine Schlüsselidee ist, dass Widersprüche innerhalb eines Aktivitätssystems die treibende Kraft der Entwicklung sind, keine Fehler, die es zu beseitigen gilt. Fällt Ihnen eine Spannung in Ihrer eigenen Arbeit oder Ihrem eigenen Studium ein, die Sie tatsächlich dazu gebracht hat, Ihre Vorgehensweise zu ändern?
-- Aktivitätstheorie rahmt die Übernahme von KI durch eine Lehrkraft als Eigenschaft des ganzen Systems — Normen, Regeln, Verteilung der Arbeitslast — statt als individuelle Einstellung. Welche systemischen Gründe könnten erklären, warum eine fähige Lehrkraft einem tatsächlich guten KI-Werkzeug widersteht?
+- Aktivitätstheorie rahmt die Übernahme von KI durch eine [[teacher-role|Lehrkraft]] als Eigenschaft des ganzen Systems — Normen, Regeln, Verteilung der Arbeitslast — statt als individuelle Einstellung. Welche systemischen Gründe könnten erklären, warum eine fähige Lehrkraft einem tatsächlich guten KI-Werkzeug widersteht?
 - Wenn KI Aufgaben übernimmt, konfiguriert sie neu, wer was tut, und verschiebt die Arbeitsteilung zwischen Lernenden, Lehrenden und Werkzeugen. Welche kognitive Arbeit ist in Ihrem eigenen Kontext unbemerkt von Menschen zu Maschinen übergegangen — und wer hat es gemerkt?
 - Weil jedes Fach als eigenes Aktivitätssystem funktioniert, kann dasselbe KI-Werkzeug in verschiedenen Fächern unterschiedliche Ergebnisse hervorbringen. Warum könnte ein Werkzeug, das Schreibkurse verwandelt, einen Mathematikkurs kaum verändern, oder umgekehrt?
 - Aktivitätstheorie dient sowohl dazu zu analysieren, wie KI Lehren neu formt, als auch dazu, Interventionen zu entwerfen, die die von ihr aufgedeckten Spannungen beheben. Wie könnte es Ihre Problemlösung verändern, Ihre eigene Lehr- oder Lernpraxis als Aktivitätssystem zu sehen?
@@ -47,21 +47,26 @@ Aktivitätstheorie stammt von Wygotskis und Leontjews kulturhistorischer Psychol
 - **Objekt** — das Motiv oder Ziel, auf das die Aktivität gerichtet ist; das „Rohmaterial“, das die Aktivität verwandelt.
 - **Werkzeuge / vermittelnde Artefakte** — die Instrumente, Technologien, Zeichen und Sprache, durch die das Subjekt auf das Objekt einwirkt.
 - **Gemeinschaft** — die Gruppe, die das Objekt teilt und den sozialen Kontext der Aktivität bildet.
-- **Regeln** — die expliziten und impliziten Normen, Konventionen und Vorschriften, die die Aktivität bestimmen.
+- **Regeln** — die expliziten und [[social-norms-ai-use|impliziten Normen]], Konventionen und Vorschriften, die die Aktivität bestimmen.
 - **Arbeitsteilung** — wie Aufgaben, Macht und Verantwortung über die Gemeinschaft verteilt sind.
 
 Ein bestimmendes Merkmal ist der **Widerspruch**: Aktivitätssysteme enthalten historisch angehäufte strukturelle Spannungen (innerhalb eines Elements, zwischen Elementen oder zwischen einem alten und einem neu eingeführten Element/Werkzeug). Widersprüche sind keine zu beseitigenden Fehler, sondern die *treibende Kraft der Entwicklung* — wenn sie verschärft werden, bringen sie Beteiligte dazu, etablierte Normen in Frage zu stellen und von ihnen abzuweichen, und öffnen so den Weg für expansive Verwandlung (Engeström, 2001).
+
+Der Werkzeug-Slot ist der, den generative KI strapaziert. Ein soziokultureller Essay aus dem Jahr 2026 argumentiert, dass ein [[llm|LLM]] die Aktivität sowohl vermittelt als auch kontingente Beiträge erzeugt, die ihre Bahn umformen, sodass die Bezeichnung als Werkzeug seinen Einfluss unterschätzt, während die Bezeichnung als Kollaborateur Intentionalität, Rechenschaft und Gemeinschaftszugehörigkeit zuschreibt, die es nicht hat ([[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate und Ritchie, 2026]]). Ihr *vermittelnder Akteur* sitzt in der Werkzeugposition, ohne eine Position in der Gemeinschaft zu halten, was bedeutet, dass die Arbeitsteilung um Beiträge und nicht nur um Instrumente herum analysiert werden muss.
 
 ### Warum Aktivitätstheorie für KI in der Bildung bedeutsam ist
 
 KI bringt neue **Werkzeuge/vermittelnde Artefakte** in bestehende pädagogische Aktivitätssysteme ein, was sowohl Chancen als auch Widersprüche erzeugt. Aktivitätstheorie gibt der AIED-Forschung ein Vokabular und eine Methode, diese Veränderungen zu analysieren:
 
 - **KI als vermittelndes Artefakt, das die Arbeitsteilung neu konfiguriert.** KI-Systeme übermitteln nicht einfach Information; sie übernehmen Aufgaben, verändern, wer was tut, und verteilen kognitive Arbeit über Menschen und Maschinen hinweg neu. Studien nutzen Aktivitätstheorie, um zu untersuchen, wie KI die Arbeitsteilung zwischen Lernenden, Lehrenden und Werkzeugen verschiebt — z. B. beim kollaborativen Schreiben oder Tutoring — und was das für [[agency|menschliche Handlungsfähigkeit]] bedeutet.
+
+- **Die Arbeit verteilt sich schneller neu als die Regeln sich ändern.** Ein [[meta-analysis-systematic-review|Scoping-Review]] von 53 HCI-Studien zu LLMs in der Familienbildung fand Systeme, die Materialien erzeugten, Dialog strukturierten, Kontext interpretierten und Familien mit externem Wissen verbanden, während [[parents-and-families|Eltern]] das Prüfen, Anpassen und Entscheiden behielten; Verifikations- und Reparaturarbeit blieb undokumentiert ([[llm-family-education-activity-theory-2026|Luo et al., 2026]]). Regeln für die Teilnahme wurden überwiegend antizipiert statt umgesetzt — die Diskrepanz zwischen einem neuen Werkzeug und einem unveränderten Regelsatz, die das Rahmenwerk vorhersagt.
+
 - **Analyse der Übernahme durch Lehrende und der [[educational-development|Professionalisierung]].** Aktivitätstheorie rahmt die Aufnahme von KI durch Lehrkräfte als Eigenschaft des gesamten Aktivitätssystems (Normen der Gemeinschaft, Regeln, Arbeitsteilung, [[governance|institutionelle]] Erwartungen) statt allein individueller Einstellungen. [[quantitative-research|Quantitative]] Arbeit [[activity-theory-teachers-adoption-ai-sem-2026|modelliert die sechs AT-Komponenten als messbare Konstrukte]], die die Absicht von Lehrkräften zur Übernahme von KI vorhersagen; [[qualitative-research|qualitative]] Arbeit [[lee-anson-k12-teachers-ai-activity-theory|dokumentiert sechsfache Haltungen von Lehrkräften]] (ungeeignet, unpersönlich, unvollkommen, unsicher, unterstützend, unvermeidlich); und Interventionsarbeit [[activity-theory-teacher-pd-ai-agent-design-2026|nutzt CHAT zur Diagnose und Neugestaltung]] der Professionalisierung von Lehrkräften und behandelt Desengagement als rationale Antwort auf Systeme, die Bedürfnisse durchkreuzen.
 - **Normwandel und systemische Störung.** Weil KI ein neues Werkzeug in das Aktivitätssystem einführt, erzeugt sie Widersprüche mit bestehenden Regeln und Normen. Studien zur GenAI-Nutzung von Lernenden [[ai-disruption-engineering-education-chat-2026|zeigen, wie neue implizite Regeln entstehen]], während sich Lernende anpassen — und dabei Normen rund um Selbststeuerung, Lernziele, die Rolle der Lehrkraft und [[ethics|Ethik]] verwandeln.
 - **Verankerung von [[learning-analytics|Learning Analytics]] und Messung.** Aktivitätstheorie kann das *Design* von Analytik fundieren, indem sie Messfacetten auf Elemente des Aktivitätssystems abbildet. Eine CHAT-verankerte Analytik-Pipeline [[chat-anchored-learning-analytics-ai-literacy-2026|bildet zeitliche Partizipation, Diskursqualität und Konzeptreife auf CHAT-Elemente ab]], um frühe riskierte Partizipation in kleinen diskussionsbasierten Kursen zu erkennen.
 - **Disziplinarität und Variation über Kontexte hinweg.** Weil Aktivitätssysteme historisch und kulturell situiert sind, erklärt Aktivitätstheorie, warum dasselbe KI-Werkzeug in verschiedenen Disziplinen und Kontexten unterschiedliche Ergebnisse hervorbringt — jedes Fach funktioniert als Aktivitätssystem mit eigenen Regeln, eigener Gemeinschaft und eigener Arbeitsteilung [[jiang-genai-activity-theory-disciplines-2026|(z. B. Unterschiede in der GenAI-Nutzung und Offenlegung von Studierenden über akademische Domänen hinweg)]].
-- **Ein Werkzeug, zwei Aktivitätssysteme, ungleichmäßige Durchdringung.** Unter zehn Mathematikwissenschaftlerinnen und -wissenschaftlern, die über CHAT analysiert wurden, blieb GenAI ein peripheres Werkzeug im Forschungsaktivitätssystem, während es im Unterricht die Rolle der Lehrkraft hin zur Vermittlerin bzw. zum Vermittler kritischen Denkens neu formte, wobei sich die Übernahme über Nutzung durch Lernende und Peer-Netzwerke statt über [[governance|institutionelle]] Politik verbreitete ([[genai-runaway-object-math-higher-ed|Bakogianni et al., 2026]]).
+- **Ein Werkzeug, zwei Aktivitätssysteme, ungleichmäßige Durchdringung.** Unter zehn Mathematikwissenschaftlerinnen und -wissenschaftlern, die über CHAT analysiert wurden, blieb GenAI ein peripheres Werkzeug im Forschungsaktivitätssystem, während es im Unterricht die Rolle der Lehrkraft hin zur Vermittlerin bzw. zum Vermittler [[critical-thinking|kritischen Denkens]] neu formte, wobei sich die Übernahme über Nutzung durch Lernende und Peer-Netzwerke statt über [[governance|institutionelle]] Politik verbreitete ([[genai-runaway-object-math-higher-ed|Bakogianni et al., 2026]]).
 
 ### Aktivitätstheorie und verwandte Rahmenwerke
 
@@ -110,3 +115,7 @@ Für Gestaltende und Lehrende rät Aktivitätstheorie, über das KI-Werkzeug sel
 - [[ai-disruption-engineering-education-chat-2026]] — Wandel der Normen von Lernenden in der Ingenieurbildung über CHAT
 - [[activity-theory-teacher-pd-ai-agent-design-2026]] — CHAT-SDT-Neugestaltung der Professionalisierung von Lehrkräften
 - [[chat-anchored-learning-analytics-ai-literacy-2026]] — CHAT-verankerte Learning-Analytics-Pipeline für KI-Kompetenz
+
+- [[llm-family-education-activity-theory-2026]] — Scoping-Review von 53 HCI-Studien: LLMs verteilten die Bildungsarbeit in Familien neu, während Regeln überwiegend antizipiert statt umgesetzt wurden
+- [[generative-ai-mediational-agent-sociocultural-2026]] — GenAI als vermittelnder Akteur: weder Werkzeug noch Kollaborateur
+

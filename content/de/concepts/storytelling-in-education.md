@@ -1,7 +1,7 @@
 ---
 title: Storytelling in der Bildung
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,8 +9,8 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-10-26T01:30:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T14:10:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -37,14 +37,18 @@ ai_assist:
 
 ## Einführung
 
-Storytelling gründet in [[motivation]], [[student-engagement]] und [[constructivist|konstruktivistischen]] Lerntheorien. Es stützt [[language-learning]], [[creativity]], [[social-emotional-learning]] und Textverstehen. Im KI-Zeitalter ermöglichen [[llm|LLM-gestütztes]] und robotervermitteltes Storytelling Mitgestaltung, bei der Lernende und [[agentic-ai|KI-Agenten]] gemeinsam Geschichten bauen, sowie interaktive Erzählung, die auf die lernende Person reagiert.
+Storytelling gründet in [[motivation]], [[student-engagement]] und [[constructivist|konstruktivistischen]] [[learning-theories|Lerntheorien]]. Es stützt [[language-learning]], [[creativity]], [[social-emotional-learning]] und Textverstehen. Im KI-Zeitalter ermöglichen [[llm|LLM-gestütztes]] und robotervermitteltes Storytelling Mitgestaltung, bei der Lernende und [[agentic-ai|KI-Agenten]] gemeinsam Geschichten bauen, sowie interaktive Erzählung, die auf die lernende Person reagiert.
 
 ### Wie Storytelling in der Forschung der Wissensbasis auftritt
 
 - **Robotervermitteltes Storytelling:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] nutzt einen menschenähnlichen interaktiven Roboter für digitales Storytelling und findet signifikante Zuwächse beim behavioralen und kognitiven Engagement gegenüber Methoden auf Papier und in PowerPoint; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] lässt Lehrkräfte aus [[curriculum-design|Curriculum]]-Inhalten LLM-gestützte, szenariobasierte Storytelling-Aktivitäten erzeugen.
+
+- **Engagement-Zuwächse haben eine Größe, und die Motivation folgte nicht.** MotiBo lag beim behavioralen und kognitiven Engagement 27,06 % bzw. 30,00 % vor Papier und PowerPoint (beide p < 0,05), während die intrinsische Motivation um 20,21 % stieg, ohne Signifikanz zu erreichen (p = 0,07). Das Engagement bewegte sich, die Motivation verfehlte ihre Schwelle, und das fünftägige Quasi-Experiment maß kein Lernergebnis ([[motibo-digital-storytelling-robots-motivation-2026|Fung & Lui, 2026]]).
+
 - **Mitgestaltende Erzählung in der Mensch-Roboter-Interaktion:** [[icub-humanoid-storytelling-llm-hri-2025|Die iCub-Erzählstudie]] untersucht die Mitgestaltung von Geschichten zwischen Mensch und Roboter und bindet generative Modelle für kontextangemessene Interaktion ein.
 - **Erzählung und Kreativität:** Storytelling stützt [[creativity]] und [[language-learning|Sprachentwicklung]] und wird eingesetzt, um Motivation und Engagement im [[k-12]]-Kontext zu steigern.
-- **Digitales Storytelling als Gegengewicht zur KI:** Während [[generative-ai|generative KI]] aufsteigt, wird digitales Storytelling als Träger jener emotionalen, kulturellen und erzählerischen Fähigkeiten neu gerahmt, an denen es KI mangelt. In einem Modell [[project-based-learning|projektbasierten Lernens]] für Kunst- und Designbildung übersetzten Studierende lokales kulturelles Erbe in [[multimodal|multimodale]] Erzählungen über 92 Werke digitalen Storytellings hinweg und zeigten damit, wie Storytelling menschliche Kreativität im KI-Zeitalter erhält.
+- **Digitales Storytelling als Gegengewicht zur KI:** Während [[generative-ai|generative KI]] aufsteigt, wird digitales Storytelling als Träger jener emotionalen, kulturellen und erzählerischen Fähigkeiten neu gerahmt, an denen es KI mangelt. In einem Modell [[project-based-learning|projektbasierten Lernens]] für Kunst- und [[design-education|Designbildung]] übersetzten Studierende lokales kulturelles Erbe in [[multimodal|multimodale]] Erzählungen über 92 Werke digitalen Storytellings hinweg und zeigten damit, wie Storytelling menschliche Kreativität im KI-Zeitalter erhält.
+- **Erzeugte Erzählung ist leicht zu produzieren und schwer kohärent zu halten.** Mit 22 MINT-Studierenden bewertete KI-generierte interaktive Fiktion die erzählerische Klarheit (M = 4,11) und die Länge (M = 4,14) gut, doch das Engagement lag am neutralen Mittelpunkt (M = 3,08) und die Kohärenz des Story-Inhalts war am schwächsten (M = 2,92) ([[ai-generated-interactive-fiction-education-2026]]). Mitgestaltung erbt diese Schwäche auf jener Ebene, auf der eine Geschichte ihre Wirkung entfalten soll.
 
 Storytelling verbindet sich mit [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]] und [[educational-robotics]].
 
@@ -74,3 +78,6 @@ Storytelling verbindet sich mit [[student-engagement]], [[motivation]], [[creati
 - [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[white-wu-robotics-ai-education-2026]] — Robotik und KI in der Bildung
+
+- [[ai-generated-interactive-fiction-education-2026]] — KI-generierte interaktive Fiktion: Kohärenz als schwache Dimension in einer Pilotstudie mit 22 Studierenden
+

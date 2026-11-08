@@ -1,7 +1,7 @@
 ---
 title: KI-Missbrauch und Lernschaden
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -10,8 +10,8 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-25T16:25:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -41,7 +41,7 @@ ai_assist:
 
 KI-Missbrauch ist von KI-Nutzung verschieden. Nutzung beschreibt den Einsatz von KI als Ergänzung zum Lernen — [[feedback|Feedback]], Brainstorming oder Überarbeitungshilfe, die die kognitive Arbeit der lernenden Person in der Schleife hält. Missbrauch beschreibt Substitution: das Delegieren genau jener mentalen Prozesse (Entwurf, Abruf, Analyse, Überarbeitung) an KI, die dauerhaftes Verstehen aufbauen. Der in der Evidenzbasis der Wissensbasis dokumentierte Schaden ist nicht, dass Missbrauch nicht hilft; er ist, dass Missbrauch spätere, ungestützte Leistung aktiv verschlechtert.
 
-Antizipierter Schaden ist selbst dokumentiert: In schwedischen Befragungs- und Fokusgruppendaten fanden [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]], dass 51% der Teilnehmenden (n = 106) befürchteten, die GenAI-Nutzung könne die individuelle Entwicklung behindern, und dabei Verluste bei [[critical-thinking|kritischem Denken]], Kreativität und Autonomie nannten statt Regelverstöße.
+Antizipierter Schaden ist selbst dokumentiert: In schwedischen Befragungs- und Fokusgruppendaten fanden [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]], dass 51% der Teilnehmenden (n = 106) befürchteten, die GenAI-Nutzung könne die individuelle Entwicklung behindern, und dabei Verluste bei [[critical-thinking|kritischem Denken]], [[creativity|Kreativität]] und Autonomie nannten statt Regelverstöße.
 
 ### Die Leistungs-Lern-Lücke
 
@@ -54,7 +54,6 @@ Das Kernkonzept, in [[genai-performance-vs-learning]] artikuliert, ist, dass gen
 - **Erosion der Motivation** — die wahrgenommene Verfügbarkeit einer mühelosen KI-Abkürzung reduziert autonome Motivation und Persistenz, gemäß [[self-determination-theory|Selbstbestimmungstheorie]]. Weil Persistenz das ist, was tiefes Lernen hervorbringt, verstärkt ihre Erosion den direkten Schaden.
 - **Lernverdrängung** — die Substitution von KI-Ausgabe für jene anstrengungsvollen Prozesse (Elaboration, Abruf, Selbsterklärung), die Wissen konsolidieren, im Einklang mit [[cognitive-offloading|Over-Reliance]].
 - **Verwirrung als Absicht gelesen.** Wenn Lehrende die beabsichtigte Rolle der KI in einer Aufgabe nicht benennen, definieren Lernende sie über das, was am leichtesten ist, und Lehrkräfte lesen die resultierende Fehlanpassung als Betrug statt als eine Grenze, die nie formuliert wurde ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
-
 
 ### Die Evidenzbasis
 
@@ -90,11 +89,11 @@ Die wichtigste praktische Differenzierung ist, dass der Schaden **selektiv nach 
 
 ### Konversationelles Desengagement im Zeitalter von LLMs
 
-Die Literatur zum Gaming-the-System (Hinweismissbrauch, systematisches Raten) hat ein Pendant im Dialogzeitalter: konversationelles Desengagement — den Agenten verhöhnen, absichtlich falsch antworten, ihn ignorieren, seinen Text spiegeln oder Antworten vorenthalten. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] geben diesem Phänomen in der Dialogforschung zu Studierenden und KI seine erste systematische Behandlung, und seine zentrale Lehre ist interpretativ statt alarmistisch. Eine desengagierte *Wendung* ist ein interaktionaler Zug, kein stabiler Zustand des Desengagements. Die scheinbare Assoziation des False Answering mit Post-Test-Punkten überlebte eine menschlich annotierte Sensitivitätsprüfung nicht, und die Autor:innen lesen sie als Sondierung *innerhalb* von Trajektorien, die oft zum Engagement zurückkehren (das leistungsstärkste Cluster erholte sich bei p = 0.42). Das Verhalten, das die Trajektorien tatsächlich trennte, war Withholding — die Weigerung zu antworten, die eher persistierte, als dass sie sich auflöste. Für Gestaltende kehrt das die übliche Priorität um: lautes, sichtbares Desengagement korrigiert sich oft selbst, während stiller Rückzug signalisiert, dass die Interaktion zusammengebrochen ist.
+Die Literatur zum Gaming-the-System (Hinweismissbrauch, systematisches Raten) hat ein Pendant im Dialogzeitalter: konversationelles Desengagement — den Agenten verhöhnen, absichtlich falsch antworten, ihn ignorieren, seinen Text spiegeln oder Antworten vorenthalten. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] geben diesem Phänomen in der [[student-ai-interaction|Dialogforschung zu Studierenden und KI]] seine erste systematische Behandlung, und seine zentrale Lehre ist interpretativ statt alarmistisch. Eine desengagierte *Wendung* ist ein interaktionaler Zug, kein stabiler Zustand des Desengagements. Die scheinbare Assoziation des False Answering mit Post-Test-Punkten überlebte eine menschlich annotierte Sensitivitätsprüfung nicht, und die Autor:innen lesen sie als Sondierung *innerhalb* von Trajektorien, die oft zum Engagement zurückkehren (das leistungsstärkste Cluster erholte sich bei p = 0.42). Das Verhalten, das die Trajektorien tatsächlich trennte, war Withholding — die Weigerung zu antworten, die eher persistierte, als dass sie sich auflöste. Für Gestaltende kehrt das die übliche Priorität um: lautes, sichtbares Desengagement korrigiert sich oft selbst, während stiller Rückzug signalisiert, dass die Interaktion zusammengebrochen ist.
 
 ## Verbreitete Fehlvorstellungen
 
-**„Studierende würden bemerken, wenn KI ihrem Lernen schadet."** Sie bemerken es nicht, und das ist der folgenreichste Einzelbefund dieser Seite: **Studierende in der geschädigten Gruppe nahmen nicht wahr, dass sie weniger lernten.** Selbstauskunft ist damit kein brauchbares Frühwarnsignal. Das Muster von 48% höherer Übungsleistung und 17% niedrigerem Prüfungsergebnis ist für die Person, die es erlebt, unsichtbar, weshalb Schadenserkennung messbasiert statt aussagebasiert sein muss.
+**„Studierende würden bemerken, wenn KI ihrem Lernen schadet."** Sie bemerken es nicht, und das ist der folgenreichste Einzelbefund dieser Seite: **Studierende in der geschädigten Gruppe nahmen nicht wahr, dass sie weniger lernten.** [[self-report-measures|Selbstauskunft]] ist damit kein brauchbares Frühwarnsignal. Das Muster von 48% höherer Übungsleistung und 17% niedrigerem Prüfungsergebnis ist für die Person, die es erlebt, unsichtbar, weshalb Schadenserkennung messbasiert statt aussagebasiert sein muss.
 
 **„Das Risiko ist, wie viel KI eine studierende Person nutzt."** Das Risiko ist, wofür die KI substituiert wird. Missbrauch bedeutet hier, das Entwerfen, Abrufen oder Analysieren zu delegieren, das dauerhaftes Verständnis aufbaut — Substitution statt Ergänzung, und eine studierende Person kann in einer Aufgabe stark substituieren und in der nächsten produktiv ergänzen. Die Nutzungsmenge ist die falsche Variable; die Teilung der kognitiven Arbeit ist die richtige.
 

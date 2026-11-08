@@ -1,7 +1,7 @@
 ---
 title: "Wie kann KI Bildungsforschung unterstützen?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -16,8 +16,8 @@ level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-28T11:26:02-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-06T13:58:13-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -52,7 +52,7 @@ Die kurze Antwort für dieses Treffen: KI kann die Suche, einen ersten Screening
 
 ## Entscheiden Sie vor Projektbeginn, was KI berühren darf
 
-Die Reichweitenentscheidung gehört in die Projektakte und nicht in das Gedächtnis von jemandem. In [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai und Chans (2026) Fokusgruppenstudie]] kalibrierten Forschende, die darüber nachgedacht hatten, die Nutzung nach Tragweite und intellektueller Zentralität: stärker bei wenig riskanter Verfahrensarbeit, vorsichtig dort, wo der wissenschaftliche Beitrag zentral war. 27 der 28 Nachwuchsforschenden in dieser Studie hatten GenAI irgendwo im Arbeitsablauf genutzt, einschließlich wissenschaftlichen Schreibens und Übersetzens; für die meisten Teams ist die Frage also, wo die Linie liegt, nicht ob es eine gibt.
+Die Reichweitenentscheidung gehört in die Projektakte und nicht in das Gedächtnis von jemandem. In [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai und Chans (2026) Fokusgruppenstudie]] kalibrierten Forschende, die darüber nachgedacht hatten, die Nutzung nach Tragweite und intellektueller Zentralität: stärker bei wenig riskanter Verfahrensarbeit, vorsichtig dort, wo der wissenschaftliche Beitrag zentral war. 27 der 28 Nachwuchsforschenden in dieser Studie hatten [[generative-ai|GenAI]] irgendwo im Arbeitsablauf genutzt, einschließlich [[writing-education|wissenschaftlichen Schreibens]] und Übersetzens; für die meisten Teams ist die Frage also, wo die Linie liegt, nicht ob es eine gibt.
 
 Schreiben Sie die Linie als Liste mit einem Urteil für jede Aufgabe: Literatursuche, Abstract-Screening, Extraktion, qualitative Kodierung, statistische Analyse, Entwerfen, Referenzformatierung. Lesen Sie diese Studie als Landkarte dessen, was Forschende berichteten zu tun. Sie ist ein Fokusgruppenbericht, kein Wirksamkeitsergebnis.
 
@@ -68,27 +68,29 @@ Der größte Teil des Nutzens kommt aus zwei Designentscheidungen. Schreiben Sie
 
 Delegation kann feinkörniger sein als alles oder nichts. [[agreement-not-quality-llm-coding-verification|Eine Blindverifikationsstudie]] klassifizierte 15 von 72 Codebuch-Items als nachweislich menschliche Expertise erfordernd, 12 als besser durch ein Modell bedient und 16 als für zuversichtsbasierte Triage geeignet. Sortieren Sie Ihre eigenen Items so, und die Arbeitsersparnis landet dort, wo sie sicher ist.
 
+Themenmodellierung kann diese Struktur erweitern, ohne die Interpretation zu übernehmen. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey und Flor (2026)]] kombinierten grounded coding, SentenceBERT-Embeddings, geclustert mit Affinity Propagation, und GPT-4-Labeling an sechs Fokusgruppen mit 13 Lehrkräften. Die menschliche Prüfung verwarf 18 Kommunikations- und 16 Digital-Literacy-Cluster, die Gesprächsfüllstoff waren, sodass 14 bzw. 16 aussagekräftige Cluster blieben; ChatGPT-4o und Copilot stimmten bei 33,3 % und 43,8 % der Labels überein, mit Kosinusähnlichkeit 0,835–0,880, und die menschliche Prüfung fand keine klaren Halluzinationen. Die Studie ist eine ausgearbeitete Pipeline, kein Vergleich: Sie hat keinen rein menschlichen oder rein KI-Arm, und 13 Lehrkräfte können keine Generalisierbarkeit begründen. Nutzen Sie sie, um die Arbeitsteilung zu sehen, nicht als Beleg, dass der Hybrid Alternativen schlägt.
+
 ## Entscheiden Sie, was Prüfung bedeutet und wer sie unterschreibt
 
-Hohe Übereinstimmung zwischen einem Modell und einer menschlichen Kodiererin wird berichtet, als ob sie Korrektheit belegt. Das tut sie nicht. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] ließen eine unabhängige Expertin 855 paarweise Codesätze blind gegenüber der Quelle beurteilen. Die Übereinstimmung Mensch-LLM (mittlerer Jaccard 0.30) lag deutlich unter der Übereinstimmung Mensch-Mensch (0.52), dennoch bevorzugte die blinde Prüferin menschliche und maschinelle Kodierung in Raten, die sie nicht unterscheiden konnte (51.5% gegen 48.5%, p = 0.537). In einigen Fällen kodierte der menschliche Konsens eine geteilte Verzerrung, die die Prüferin zugunsten des Modells verwarf.
+Hohe Übereinstimmung zwischen einem Modell und einer menschlichen Kodiererin wird berichtet, als ob sie Korrektheit belegt. Das tut sie nicht. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] ließen eine unabhängige Expertin 855 paarweise Codesätze blind gegenüber der Quelle beurteilen. Die Übereinstimmung Mensch-[[llm|LLM]] (mittlerer Jaccard 0.30) lag deutlich unter der Übereinstimmung Mensch-Mensch (0.52), dennoch bevorzugte die blinde Prüferin menschliche und maschinelle Kodierung in Raten, die sie nicht unterscheiden konnte (51.5% gegen 48.5%, p = 0.537). In einigen Fällen kodierte der menschliche Konsens eine geteilte Verzerrung, die die Prüferin zugunsten des Modells verwarf.
 
 Der Prüfschritt braucht also einen Goldstandard, der weder die Ausgabe des Modells noch die Übereinstimmung der Kodiererin mit ihr ist, plus eine benannte Person, die die Uneinigkeiten entschieden hat. Berichten Sie beides. Eine Ähnlichkeitsstatistik beschreibt, wie eng zwei Lesarten übereinstimmen, und sie sagt nichts darüber, ob eine der beiden richtig ist.
 
 ## Suchen Sie schnell, prüfen Sie dann jede Quelle selbst
 
-Generative Suche fasst zusammen, empfiehlt, synthetisiert und dialogisiert, was die ältere Anordnung verunsichert, in der das System findet und die Leserin interpretiert ([[genai-academic-search-workshop]]). Behandeln Sie sie als Entdeckungswerkzeug. Der Workshop-Bericht enthält zwei Warnungen: Die Fähigkeit ist ungleich, wobei viel zitierte Forschende mit etwa doppelter Rate rekonstruiert wurden wie weniger zitierte Peers, und eine Bibliothekarin beschrieb eine Vertrauenslücke, in der Studierende generativer Suche zu sehr vertrauten, während Lehrende ihr misstrauten.
+Generative Suche fasst zusammen, empfiehlt, synthetisiert und dialogisiert, was die ältere Anordnung verunsichert, in der das System findet und die Leserin interpretiert ([[genai-academic-search-workshop]]). Behandeln Sie sie als Entdeckungswerkzeug. Der Workshop-Bericht enthält zwei Warnungen: Die Fähigkeit ist ungleich, wobei viel zitierte Forschende mit etwa doppelter Rate rekonstruiert wurden wie weniger zitierte Peers, und eine [[librarians|Bibliothekarin]] beschrieb eine Vertrauenslücke, in der Studierende generativer Suche zu sehr vertrauten, während Lehrende ihr misstrauten.
 
 Die Referenzprüfung ist der Punkt, an dem das nicht verhandelbar wird, und die Fehler ballen sich im Autorenfeld, dem Feld, das die Anerkennung trägt. [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] prüften 723.930 Publikationen und 15.872.533 Referenzen und verifizierten 30 erfundene Referenzen in 14 informatischen Bildungsarbeiten, alle aus 2025 und 2026. 17 der 30 waren Hybride: ein echter Titel, verbunden mit erfundenen oder falschen Autorinnen und Autoren. Die verifizierte Zahl bei einem technischen Symposium stieg von 3 im Jahr 2025 auf 17 im Jahr 2026, in 2.3% der Verfahrensbeiträge dieses Jahres. Ihre Summe ist eine bewusste Untergrenze, und automatisierte Prüfer erben die Fehler der Metadaten, die sie als Wahrheit behandeln. Prüfen Sie zuerst die Autorinnen und Autoren.
 
 ## Behandeln Sie einen automatisierten Score als Hypothese
 
-Automatisierte Messfunktionen können präzise und prädiktiv wirken und dabei undurchsichtig bleiben. [[ai-methodologies-science-education-research-2026|Martin et al.]] rahmen das mit Changs nomischem Messproblem: Eine Größe zu messen verlangt ein Gesetz, das sie auf etwas Beobachtbares bezieht, und dieses Gesetz lässt sich nicht prüfen, ohne die Größe bereits zu kennen. KI-abgeleitete Messfunktionen entstehen aus Trainingsdaten und Optimierung und nicht aus der Forscherin, deshalb ist Arbeit an Erklärbarkeit wichtig, um zu zeigen, ob ein Modell semantisches Verstehen verfolgt oder nur Schlüsselwörter.
+Automatisierte Messfunktionen können präzise und prädiktiv wirken und dabei undurchsichtig bleiben. [[ai-methodologies-science-education-research-2026|Martin et al.]] rahmen das mit Changs nomischem Messproblem: Eine Größe zu messen verlangt ein Gesetz, das sie auf etwas Beobachtbares bezieht, und dieses Gesetz lässt sich nicht prüfen, ohne die Größe bereits zu kennen. KI-abgeleitete Messfunktionen entstehen aus Trainingsdaten und Optimierung und nicht aus der Forscherin, deshalb ist Arbeit an [[explainable-ai|Erklärbarkeit]] wichtig, um zu zeigen, ob ein Modell semantisches Verstehen verfolgt oder nur Schlüsselwörter.
 
 Der Fehler ist konkret. In [[zhang-platform-scores-miss-ai-teaching-agents-2026|einer Evaluation von acht KI-Lehragenten]] landete der Agent, der nach dem eigenen Score der Plattform Dritter war, auf einem expertenvalidierten Raster auf dem letzten Platz. Mensch-Maschine-Uneinigkeit ist systematisch und nicht zufällig, und die Operationalisierung des Rasters ist oft wichtiger als die Kunstfertigkeit des Prompts ([[machines-misread-pedagogical-quality|Tseng et al., 2026]]). Bevor ein automatisierter Score Ihr Instrument wird, validieren Sie ihn gegen ein Maß, das an die Fähigkeit gebunden ist, die Sie untersuchen wollen. Zu den Maßen selbst siehe [[evaluating-ai-interventions-methods]].
 
 ## Schreiben Sie den Methodenteil so, dass eine außenstehende Person ihn prüfen kann
 
-Die Verbreitung ist der Berichterstattung vorausgelaufen. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta und Lin (2026)]] analysierten 888 Arbeiten zur Review-Automatisierung: Seit 2023 berichteten 38.0% der Software- und Produktarbeiten überhaupt keine Evaluation, gegenüber 9.3% der LLM-Arbeiten, und der Modellzugang war überwiegend proprietär (84.1%). Eine günstige Gesamtbewertung implizierte auch keine Eignung für Delegation, denn 52% von 118 ausschließlich positiven LLM-Arbeiten berichteten weiterhin eine Sorge, dass der Arbeitsablauf unter der Schwelle blieb, die ihre Rolle verlangt. Ihr PRISMA-LLM-Rahmenwerk trennt die Offenlegung der Implementierung von der folgenbewussten Evaluation und behandelt seine fünf Stufen als Offenlegungsstufen, nicht als Risikostufen.
+Die Verbreitung ist der Berichterstattung vorausgelaufen. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta und Lin (2026)]] analysierten 888 Arbeiten zur Review-Automatisierung: Seit 2023 berichteten 38.0% der Software- und Produktarbeiten überhaupt keine Evaluation, gegenüber 9.3% der LLM-Arbeiten, und der Modellzugang war überwiegend proprietär (84.1%). Eine günstige Gesamtbewertung implizierte auch keine Eignung für Delegation, denn 52% von 118 ausschließlich positiven LLM-Arbeiten berichteten weiterhin eine Sorge, dass der Arbeitsablauf unter der Schwelle blieb, die ihre Rolle verlangt. Ihr [[meta-analysis-systematic-review|PRISMA]]-LLM-Rahmenwerk trennt die Offenlegung der Implementierung von der folgenbewussten Evaluation und behandelt seine fünf Stufen als Offenlegungsstufen, nicht als Risikostufen.
 
 Die praktische Version: Nennen Sie das System und seine Version, die Prompts, die Korpusversion, was ein Mensch geprüft hat und wo es versagt hat. Führen Sie Prompt-und-Antwort-Protokolle, denn eine flüssige generierte Themenliste wirkt lange unvermeidlich, bevor ihre beweisende Arbeit überhaupt begonnen hat ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
@@ -108,7 +110,7 @@ Legen Sie Ihre Kriterien vorab fest und halten Sie sie sichtbar. Eine kleine lok
 
 Berichten Sie die Rolle der KI, die Prüfung, die Sie vorgenommen haben, und die Grenzen eines Designs mit einem einzigen Kurs und einer einzigen Forscherin. Ein Bericht über einen Arbeitsablauf ist kein Wirksamkeitsergebnis.
 
-Behandeln Sie die Simulation einer Kohorte als fortgeschrittene Option und nicht als Standard. Simulierte Lernende decken tendenziell den einfachsten Quadranten realen Studierendenverhaltens ab und werden nach der Nutzung selten validiert ([[simulating-students]]). Lesen Sie [[making-simulated-students-behave-like-learners]], bevor Sie dem Urteil eines Simulators vertrauen.
+Behandeln Sie die Simulation einer Kohorte als fortgeschrittene Option und nicht als Standard. Simulierte Lernende decken tendenziell den einfachsten Quadranten realen Studierendenverhaltens ab und werden nach der Nutzung selten validiert ([[simulating-students]]). Lesen Sie [[making-simulated-students-behave-like-learners]], bevor Sie dem Urteil eines [[simulation|Simulators]] vertrauen.
 
 ## Was Forschende hier falsch machen
 

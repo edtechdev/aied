@@ -21,7 +21,7 @@ confidence: high
 connected_resources: [clarity, education-agent-skills]
 translation_of: resources/matt-pocock-skills
 source_updated: "2026-09-27T03:31:33-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

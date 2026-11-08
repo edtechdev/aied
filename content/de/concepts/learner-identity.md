@@ -1,7 +1,7 @@
 ---
 title: Identität der Lernenden
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,8 +10,8 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-26T01:30:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -46,7 +46,6 @@ Identität ist ein motivationales und entwicklungsbezogenes Konstrukt, untersche
 
 - **Autorschaft und Kompetenz unter Bedrohung.** Wenn KI Text, Bilder oder Code produziert, können Lernende infrage stellen, ob das Ergebnis wahrhaft „ihres“ ist — eine Herausforderung an die Autorschaftsdimension der Identität. **[[t2i-competence-paradox-2026|Liu et al. (2026)]]** dokumentieren ein *Kompetenzparadox* bei Kunst- und Designstudierenden, die Text-zu-Bild-GenAI nutzen: die Werkzeuge fühlen sich leicht und nützlich an, dennoch bedroht ihre Nutzung zugleich die **kreative Identität**, die Studierende aus manuellem Handwerk und Autorschaft beziehen, und erzeugt eine echte Spannung zwischen Leichtigkeit und Selbstwert.
 
-
 Eine eigene Bedingung der Autorschaft, nicht nur eine Bedrohung der Autorschaft: Wenn selbstformativer Dialog habituell an ein konversationelles Modell delegiert wird, argumentieren die Autoren, die integrative Arbeit des Verfassens sei *delegiert* statt unentwickelt oder abwesend — ein dicht geäußertes, aber unverfasstes Selbst, für das sie sagen, dass bestehende Konstrukte keinen Platz haben ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **Scham und versteckte Nutzung.** **[[shame-guilt-ai-regulation-computing-education|Lin et al.]]** zeigen, dass Informatikstudierende Scham und Schuld rund um KI-Nutzung erleben, die als soziale Regulatoren wirken und *Verbergen* und selektive Offenlegung treiben — Verhaltensweisen, die akademische Identität fragmentieren und ehrliches Engagement mit Lernen untergraben können.
 - **Identität als etwas, das KI scaffolden kann.** KI muss Identität nicht nur bedrohen. **[[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]** argumentieren, dass verantwortliche, relational orientierte [[pedagogy|pädagogische]] Begleitung die Entwicklung der **STEM-Identität** der Lernenden stützen kann, indem sie transparente, begrenzte Unterstützung bietet, die der lernenden Person Raum lässt, ihren eigenen Weg zu besitzen.
@@ -61,6 +60,8 @@ Eine eigene Bedingung der Autorschaft, nicht nur eine Bedrohung der Autorschaft:
 - **Wie Studierende das Werkzeug rahmen, prägt ihr professionelles Werden.** Studierende, die GenAI allein als sozio-emotionalen Partner rahmten, produzierten weniger differenzierte Reflexionen über ihr professionelles Lernen als jene, die es auch als Technik, Lernmaterial oder Struktur rahmten ([[genai-professionalization-metaphors-2026|Bohmer et al., 2026]]).
 
 - **Bewachte Übernahme: selektive KI-Nutzung als Identitätsschutz.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] befragte 484 Studierende an einer australischen Universität und fand, dass leistungsstärkere Studierende *geringeres* aktives [[generative-ai|generative KI]]-Engagement, geringeren positiven Affekt gegenüber KI, geringeren [[self-report-measures|empfundenen Lerneinfluss]] und geringeres KI-bezogenes Disengagement berichteten, mit den stärksten Zusammenhängen bei rho = -0.395 für empfundenen Lerneinfluss und rho = -0.359 für positiven Affekt. Ihre offenen Antworten beschrieben Nutzung, die selektiv (Klärung, Zusammenfassung, Arbeitsablaufunterstützung), verifiziert und dem eigenen Urteil untergeordnet war, und Ergebnisse auf Item-Ebene zeigten größere Zustimmung, dass Abhängigkeit von KI [[critical-thinking|kritisches Denken]] und unabhängiges [[problem-solving|Problemlösen]] behindert. Die Autoren lesen dies als Identitätsarbeit: Für Studierende, deren Selbstempfinden als erfolgreiche Lernende auf eigener Anstrengung und eigenem Urteil ruht, verteidigt das Begrenzen von KI-Nutzung die [[agency|epistemische Handlungsfähigkeit]], von der die Identität abhängt —, was auch bedeutet, dass das Muster weder Technophobie noch geringes Engagement ist.
+
+- **Ein erklärter Zweck bestimmt nicht zwangsläufig eine KI-Entscheidung.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] befragten 14 Grundstudierende und kodierten jedes Interview auf die Beziehung zwischen dem [[self-determination-theory|Zweck]] der Person — einer persönlich bedeutsamen Absicht, über sich selbst hinaus beizutragen — und ihren KI-Entscheidungen. Nur einige stellten die Verbindung her: eine Person lehnte KI ab, weil ihre ökologischen und menschlichen Kosten ihrem Zweck widersprachen, und drei ließen die künftige professionelle Identität ihre Entscheidungen prägen („trägt zu der Psychologin bei, die ich eines Tages in der Welt sein werde“). Andere mit ebenso klarem Zweck stellten keine solche Verbindung her und beschrieben Zweck und KI als „irgendwie getrennt“, sodass eine zu schützende Identität nicht dasselbe war wie sich auf sie zu stützen. Die Arbeit trennt zudem die Gründe, die Studierende dafür nennen, Arbeit bei sich zu behalten — Fähigkeitsentwicklung, [[evaluative-judgment|Autorschaft und Stolz]] und moralischer Einwand —, die über verschiedene Mechanismen zustande kommen und nicht zu einem Motiv zusammenfließen sollten.
 
 ## Beziehung zur Handlungsfähigkeit der Lernenden
 
@@ -89,7 +90,7 @@ Identität der Lernenden verbindet sich mit [[agency|Handlungsfähigkeit]] (Iden
 
 **„KI-Unterstützung senkt Barrieren und erweitert daher die Teilhabe."** Sie kann die Barriere zum Erzeugen von Arbeit senken und zugleich die Barriere zum Beanspruchen von Autorschaft verengen. Eine lernende Person, die ein flüssiges Artefakt einreicht, das sie nicht verfasst hat, hat Zugang zum Ergebnis erhalten und die Anerkennung verweigert bekommen, die die Identität dahinter aufbaut.
 
-**„Die Identität einer lernenden Person anzuerkennen ist eine Frage der Repräsentation im Inhalt."** Repräsentation zählt, und Anerkennung wird in der Praxis vollzogen: wessen Fragen aufgegriffen werden, wessen Beitrag zugeschrieben wird und wer als fähig behandelt wird. Ein Curriculum kann repräsentativ sein und dennoch die Anerkennung vorenthalten, die Identitätsbildung verlangt.
+**„Die Identität einer lernenden Person anzuerkennen ist eine Frage der Repräsentation im Inhalt."** Repräsentation zählt, und Anerkennung wird in der Praxis vollzogen: wessen Fragen aufgegriffen werden, wessen Beitrag zugeschrieben wird und wer als fähig behandelt wird. Ein [[curriculum-design|Curriculum]] kann repräsentativ sein und dennoch die Anerkennung vorenthalten, die Identitätsbildung verlangt.
 
 ## Verbundene Konzepte
 - [[learners]] — Lernende: die Überblicksseite für die Konzepte auf der Seite der Lernenden
@@ -109,6 +110,9 @@ Identität der Lernenden verbindet sich mit [[agency|Handlungsfähigkeit]] (Iden
 - [[k-12]]
 
 ## Verbundene Artikel
+
+- [[ting-ai-learning-ownership-purpose-2026]] — 14 Grundstudierende darüber, was sie selbst weiter tun, und warum der Zweck es selten entscheidet
+
 - [[guarded-adoption-genai-higher-education-2026]] — Bewachte Übernahme generativer KI in der Hochschulbildung
 - [[t2i-competence-paradox-2026]] — Das Kompetenzparadox: kreative Identität bei der Nutzung von Text-zu-Bild-GenAI
 - [[shame-guilt-ai-regulation-computing-education]] — Scham und Schuld als soziale Regulatoren der KI-Nutzung

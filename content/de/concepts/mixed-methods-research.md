@@ -1,14 +1,14 @@
 ---
 title: Mixed-Methods-Forschung
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-10-26T07:55:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-05T22:30:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -37,22 +37,24 @@ ai_assist:
 
 Mixed-Methods-Designs integrieren die Breite, Präzision und kausale Kraft quantitativer Methoden mit der Tiefe, dem Kontext und der Bedeutung qualitativer Methoden. Das Wertversprechen ist **Triangulation**: wenn unabhängige Stränge auf dieselbe Schlussfolgerung konvergieren, steigt die Konfidenz; wenn sie divergieren, ist die Diskrepanz selbst informativ.
 
-Über 394 GenAI-Hochschulbildungsstudien hinweg war Mixed Methods das häufigste Forschungsdesign (213 Studien, 54%), gefolgt von quantitativer (109, 28%) und qualitativer (72, 18%) Forschung ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
+Über 394 [[generative-ai|GenAI]]-Hochschulbildungsstudien hinweg war Mixed Methods das häufigste Forschungsdesign (213 Studien, 54%), gefolgt von quantitativer (109, 28%) und qualitativer (72, 18%) Forschung ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 ## Verbreitete Designmuster
 
 - **Sequenziell erklärend (QUAN → qual).** Quantitative Daten werden zuerst erhoben, dann erklären oder kontextualisieren qualitative Daten überraschende oder signifikante quantitative Befunde. [[genai-over-reliance-learning-2026|Eine Mixed-Methods-Studie zu generativer KI und nachhaltigem Lernen]] paart dreiwellige Erhebungen mit Interviews von Lehrenden, um das quantitative Muster von Erweiterung zu Überabhängigkeit zu erklären.
 - **Sequenziell explorativ (QUAL → quan).** Qualitative Arbeit baut Theorie, erzeugt Hypothesen oder informiert Instrumentendesign, das dann quantitativ getestet wird. [[becker-chatgpt-typology-physics-2026|Eine qualitative Typologie der ChatGPT-Adoption]] ergibt Kategorien, die späteres Erhebungsdesign informieren können.
-- **Explorativ sequenziell mit Messinvarianz.** [[trust-calibration-genai-collaborative-regulation-2026|Bu und Li (2026)]] kodieren Interviews, um die vier Dimensionen des Modells zu identifizieren, bauen ein 22-Item-Instrument daraus und testen dann konfigurale, metrische und skalare Invarianz über Geschlecht und Fachbereich hinweg an einer analytischen Stichprobe von 642 – und zeigen so einen qualitativen Strang, der ein Erhebungsinstrument speist, und einen Invarianztest, der bestätigt, dass die Konstrukte sich über Gruppen hinweg gleich verhalten.
+- **Explorativ sequenziell mit Messinvarianz.** [[trust-calibration-genai-collaborative-regulation-2026|Bu und Li (2026)]] kodieren Interviews, um die vier Dimensionen des Modells zu identifizieren, bauen ein 22-Item-Instrument daraus und testen dann konfigurale, metrische und skalare Invarianz über Geschlecht und Fachbereich hinweg an einer analytischen Stichprobe von 642 – und zeigen so einen qualitativen Strang, der ein [[self-report-measures|Erhebungsinstrument]] speist, und einen Invarianztest, der bestätigt, dass die Konstrukte sich über Gruppen hinweg gleich verhalten.
 - **Konvergent/parallel.** Quantitative und qualitative Stränge laufen gleichzeitig und werden in der Analyse integriert. [[t2i-competence-paradox-2026|Die Kompetenzparadox-Studie]] nutzt Fokusgruppen von Dozierenden, eine Studierenden-Erhebung und Folge-Interviews parallel; [[fouad-bentley-trust-utility-gap-physics-2026|die Studie zur Vertrauens-Nutzen-Lücke]] kombiniert Erhebungs- und Interview-Evidenz zur KI-Adoption von Physikstudierenden.
+
+- **Ein maschinell erzeugter quantitativer Strang.** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang et al. (2026)]] erzeugten den quantitativen BREQ-Strang aus den Interviewtranskripten der Teilnehmenden unter einem Konvergenzdesign, einem Integrationsweg, der nicht allein auf menschlicher Arbeit beruht. LLM-Mensch-Korrelationen reichten von mittel bis hoch (ρ = .5 bis .73), RMSEs auf Item-, Personen- und Testebene quantifizierten den Abstand zu menschlichen Antworten, und die negativ formulierten Items 6, 7 und 11 markierten den klarsten Triangulationsgewinn, indem sie zeigten, wo Interview- und Umfrageevidenz auseinandergehen.
 
 ## Wie Mixed Methods in der Wissensbasis erscheinen
 
 - **Mechanismen erklären.** [[same-ai-different-pathways]] kombiniert Stränge, um die Mechanismen KI-vermittelten Lernens über Fach-Institutions-Kontexte hinweg zu entpacken, wo quantitative Unterschiede allein opak wären.
-- **Ergebnisdaten mit Erleben ergänzen.** [[hazra-safetutors-pedagogical-safety-2026|Sicherheit von KI-Tutoren]] paart quantitative Schadensindikatoren mit qualitativen Berichten pädagogischen Schadens; [[t2i-competence-paradox-2026]] paart quantitative Erhebungsergebnisse mit qualitativen Berichten zur Aushandlung von Identität.
+- **Ergebnisdaten mit Erleben ergänzen.** [[hazra-safetutors-pedagogical-safety-2026|Sicherheit von KI-Tutoren]] paart quantitative Schadensindikatoren mit qualitativen Berichten [[pedagogy|pädagogischen]] Schadens; [[t2i-competence-paradox-2026]] paart quantitative Erhebungsergebnisse mit qualitativen Berichten zur Aushandlung von Identität.
 - **Integration ohne Pooling.** [[wang-reflective-ai-use-engagement-programming-2026|Wang und Zhao (2026)]] koordinieren eine Erhebung (N = 131), menschliche Kodierung von 66 Critical-Engagement-Texten und Programmier-Logs (N = 1,423), die aus verschiedenen Stichproben kommen und nie verschmolzen werden, und weisen dem KI-freien Spuren-Zweig eine Grenztest-Rolle statt einer bestätigenden zu – jeder Strang bekommt eine eigene inferentielle Aufgabe statt nebeneinander berichtet zu werden.
 - **Gestaltung und Evaluation.** [[genai-feedback-design-multisite-experiment|Ein multiständiges Experiment zu GenAI-Feedback-Design]] kombiniert experimentelle Ergebnismessung mit qualitativem Feedback von Lernenden und integriert quantitative Effektschätzung mit Designanleitung.
-- **Prozess-Evidenz innerhalb einer großen Studie.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] paaren Systembeobachtung und Diskussionen mit Administratorinnen und Administratoren gegen eine vierjährige randomisierte Evaluation von 8,708 Studierenden über acht Semester hinweg, gepowert um Effekte von 0.05 Standardabweichungen zu detektieren, sodass dieselbe Studie die organisatorischen Bedingungen erklärt, die ein Chatbot-Programm aufrechterhielten, und eng begrenzte Nulls auf GPA und Persistenz berichtet.
+- **Prozess-Evidenz innerhalb einer großen Studie.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] paaren Systembeobachtung und Diskussionen mit Administratorinnen und Administratoren gegen eine vierjährige randomisierte Evaluation von 8,708 Studierenden über acht Semester hinweg, gepowert um Effekte von 0.05 Standardabweichungen zu detektieren, sodass dieselbe Studie die organisatorischen Bedingungen erklärt, die ein [[conversational-ai|Chatbot]]-Programm aufrechterhielten, und eng begrenzte Nulls auf GPA und Persistenz berichtet.
 
 - **Ein Politikphänomen triangulieren.** Eine Studie zu Aufschieben von Studierendendatenschutz in EdTech paart zwölf semi-strukturierte Interviews mit einer Prüfung von 48 Plattform-Dokumenten, gepunktet von zwei Kodiererinnen und Kodierern auf Inter-Rater-Reliabilität (mean Cohen's κ = 0.781), und nutzt die Interviews, um zu erklären, warum Datenschutz aufgeschoben wird, und die Prüfung, um das Offenlegungsmuster zu zeigen, das Aufschieben produziert – ein konvergentes Design, in dem keiner der Stränge allein die Behauptung stützen könnte ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
@@ -70,7 +72,7 @@ Mixed Methods sitzt zwischen den [[quantitative-research|quantitativen]] und [[q
 ## Verbreitete Fehlvorstellungen
 
 - **„Mixed Methods ist eine Nischenwahl in der KI-Bildungsforschung."** Über **394 GenAI-Hochschulstudien** war Mixed Methods das **häufigste Forschungsdesign (213 Studien, 54%)**, gefolgt von quantitativ (109, 28%) und qualitativ (72, 18%). Das dominante Design des Felds ist nicht das, von dem seine methodologischen Debatten ausgehen.
-- **„Beobachtungs- und Interviewevidenz können eine Systembehauptung tragen."** Die Paarung von Systembeobachtung und Gesprächen mit Administratorinnen und Administratoren gegen eine **vierjährige randomisierte Evaluation von 8.708 Studierenden über acht Semester**, ausgelegt auf die Erkennung von Effekten von **0,05 Standardabweichungen**, zeigt, was der qualitative Strang allein nicht leisten kann: einen kleinen Effekt verlässlich zu erkennen. Methoden zu mischen ist kein Weg, Aussagekraft zwischen Strängen zu übertragen.
+- **„Beobachtungs- und Interviewevidenz können eine Systembehauptung tragen."** Die Paarung von Systembeobachtung und Gesprächen mit [[administrator|Administratorinnen und Administratoren]] gegen eine **vierjährige randomisierte Evaluation von 8.708 Studierenden über acht Semester**, ausgelegt auf die Erkennung von Effekten von **0,05 Standardabweichungen**, zeigt, was der qualitative Strang allein nicht leisten kann: einen kleinen Effekt verlässlich zu erkennen. Methoden zu mischen ist kein Weg, Aussagekraft zwischen Strängen zu übertragen.
 - **„Triangulation heißt, zwei schwache Methoden ergeben eine starke Behauptung."** Der Wert der Paarung liegt darin, dass jeder Strang eine andere Frage beantwortet. Ein Design, das beide durchführt und dann den qualitativen Befund als Bestätigung des quantitativen berichtet, hat nicht trianguliert, sondern wiederholt.
 
 ## Verbundene Konzepte

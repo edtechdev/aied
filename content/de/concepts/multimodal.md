@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Multimodale KI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -11,8 +11,8 @@ discipline: [stem education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/multimodal
-source_updated: "2026-10-27T07:23:49-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-05T21:30:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -63,8 +63,11 @@ Wenn LLM-basierte Tutoren Probleme lösen müssen, die Bedeutung in Graphen, Kra
 - **Visuelle Verarbeitungsfehler** — Versagen, Informationen aus Graphen oder Diagrammen zu extrahieren — dominieren die Fehlertaxonomie und sind der korrigierbarste Fehlermodus.
 - Eine einfache strukturierte-Dialog-Intervention (das Modell beschreiben lassen, was es sieht, nur *beobachtbare* Fehllesungen korrigieren, ohne Physik zu verraten, dann erneut prompten) stellt Genauigkeit auf **~95%** wieder her, ohne Neutraining.([[syal-multimodal-dialogue-stem-2026]])
 - Das ist ein **Gerechtigkeitsanliegen**: Studierende, die an bildreichen Problemen arbeiten — genau die Probleme, die tiefes konzeptionelles Verstehen in STEM aufbauen —, erhalten derzeit weniger verlässliche KI-Unterstützung als jene an rein-textlichen Übungen.
+
+- **Die Obergrenze ist niedrig bei curriculumsauthentischer, abbildungsabhängiger Mathematik — und Ablehnung ist der kalibrierte Rückfall.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau & Heffernan (2025)]] evaluierten sechs multimodale Modelle an 376 bildpflichtigen [[math-education|Mittelstufen]]-Items, deren Abbildungen aufgabenkritische Randbedingungen tragen.
+
 - **Eine visuelle Hilfe zu konstruieren ist schwerer als eine zu lesen.** Auf GeoVAD-Bench hob das Liefern eines expertenhaften Hilfsdiagramms die Genauigkeit (+3.3 bis +7.0 Punkte), aber Modelle ihre eigene Hilfslinie konstruieren zu lassen verbreiterte die Lücke um 10.0 bis 13.5 Punkte —, zwei Modelle erzielten schlechtere Ergebnisse als ohne visuelles Schlussfolgern ([[geovad-bench-visual-chain-of-thought-geometry-2026|Dong et al., 2026]]).
-- **Die Grenze ist ein Profil, kein Niveau —, und künstlerische Bildsprache sitzt außerhalb der Region, die Modelle gut handhaben.** [[muse-vlm-artistic-image-benchmark-2026|MUSE (Zhu et al., 2026)]] evaluiert 30 offene und proprietäre VLMs auf 12 Aufgaben über 1.174 beauftragte Kunstwerke, und die Fähigkeitsstreuung über Dimensionen hinweg ist breiter als jeder aggregierte Score nahelegt: Szenenklassifikation ist fast ausgereift (23 von 30 Modellen über 75.0, Median 81.0), während Emotionserkennung bei 39.5 endet und die offenen Aufgaben, die von Modellen verlangen, ihren Beleg zu *artikulieren*, bei 50.90 (visuelle Hinweisidentifikation) und 49.18 (Emotionsursacheninferenz) auf semantischer Ähnlichkeit erzielen. Kompositionales und sichtpunktabhängiges Schlussfolgern versagen am härtesten —, wo die Ground Truth keine bestimmte laterale oder vertikale Relation spezifiziert, behaupten 90.0% und 73.3% der Modelle dennoch eine, nur 43.3% platzieren das Mädchen korrekt in der Tiefe, und kein Modell löst alle drei Dimensionen eines einzelnen Items. Versagen kaskadieren auch: eine falsch gegründete Figur wird dann mit einer flüssigen Begründung aus naher visueller Semantik (Schmetterlinge, Vögel) gerechtfertigt, was das im Tutoring gefährlichste Ergebnis ist, weil die Erklärung als kompetent liest. Für bildbasiertes [[language-learning|Sprachenlernen]] argumentiert das für dimensionsniveau Validierung an der Bildsprache, die ein Kurs tatsächlich nutzt, statt einen allgemeinen multimodalen Score zu importieren, und für die Ausweitung des unten beschriebenen Grounding-Checkpoints — beschreiben, was gesehen wird, und wo, bevor daraus geschlossen wird —, auf [[situated-learning|situierte]] künstlerische Inhalte ([[muse-vlm-artistic-image-benchmark-2026]]).
+- **Die Grenze ist ein Profil, kein Niveau —, und künstlerische Bildsprache sitzt außerhalb der Region, die Modelle gut handhaben.** [[muse-vlm-artistic-image-benchmark-2026|MUSE (Zhu et al., 2026)]] evaluiert 30 offene und proprietäre VLMs auf 12 Aufgaben über 1.174 beauftragte Kunstwerke, und die Fähigkeitsstreuung über Dimensionen hinweg ist breiter als jeder aggregierte Score nahelegt: Szenenklassifikation ist fast ausgereift (23 von 30 Modellen über 75.0, Median 81.0), während [[affective-computing|Emotionserkennung]] bei 39.5 endet und die offenen Aufgaben, die von Modellen verlangen, ihren Beleg zu *artikulieren*, bei 50.90 (visuelle Hinweisidentifikation) und 49.18 (Emotionsursacheninferenz) auf semantischer Ähnlichkeit erzielen. Kompositionales und sichtpunktabhängiges Schlussfolgern versagen am härtesten —, wo die Ground Truth keine bestimmte laterale oder vertikale Relation spezifiziert, behaupten 90.0% und 73.3% der Modelle dennoch eine, nur 43.3% platzieren das Mädchen korrekt in der Tiefe, und kein Modell löst alle drei Dimensionen eines einzelnen Items. Versagen kaskadieren auch: eine falsch gegründete Figur wird dann mit einer flüssigen Begründung aus naher visueller Semantik (Schmetterlinge, Vögel) gerechtfertigt, was das im Tutoring gefährlichste Ergebnis ist, weil die Erklärung als kompetent liest. Für bildbasiertes [[language-learning|Sprachenlernen]] argumentiert das für dimensionsniveau Validierung an der Bildsprache, die ein Kurs tatsächlich nutzt, statt einen allgemeinen multimodalen Score zu importieren, und für die Ausweitung des unten beschriebenen Grounding-Checkpoints — beschreiben, was gesehen wird, und wo, bevor daraus geschlossen wird —, auf [[situated-learning|situierte]] künstlerische Inhalte ([[muse-vlm-artistic-image-benchmark-2026]]).
 
 Die praktische Designimplikation ist ein **visueller Grounding-Checkpoint** in multimodalem Tutoring: ein bewusster Schritt, wo das System beschreibt, was es sieht, bevor es eine Lösung versucht, was der oder dem Studierenden oder einer menschlichen Aufsicht die Chance gibt, Wahrnehmungsfehler zu korrigieren.([[syal-multimodal-dialogue-stem-2026]])
 
@@ -83,6 +86,8 @@ Multimodale KI verbreitert sowohl den *Inhalt* von Assessment als auch das *Sign
 - **Multimodale Benotung kann ein Selektionsergebnis reproduzieren, selbst wo Itembenotung nachhinkt.** Beim Benoten von 10.364 händischen Olympiade- und Universitätsseiten erreichte ein LLM Prüfgesamtwerte bei r = 0.93–0.96 und platzierte dieselben fünf Studierenden auf das Olympiadeteam, doch erreichte die Teileübereinstimmung 70%: Zweitleser-Beweis, nicht ein Benotender vom Dienst ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **Diagrammgenerierung ist eine Fähigkeitsgrenze, keine gelöste.** Auf einem 15.246-Fragen-Physik-Benchmark, der multimodalen Output benotet, erwies sich das Synthetisieren oder Editieren strukturierter Physikdiagramme als schwerer als das Antworten, und führende Modelle blieben unter 70% strikter Meisterschaft —, ein Beleg, dass visuelle *Produktion* hinter visuellem *Verstehen* zurückbleibt ([[omniphys-multimodal-physics-benchmark-2026|Chen et al., 2026]]).
 
+Multimodalität hat eine zweite Bedeutung: das Fusionieren von Signalen aus dem Körper der lernenden Person statt aus Inhalten, wobei Blickverfolgung, EEG, elektrodermale Aktivität, Herzfrequenzvariabilität und Kamerapose Schätzungen von Aufmerksamkeit, Engagement und kognitiver Last speisen. Dieser Sensing-Strang lebt auf [[sensor-and-gaze-analytics]], und seine Validitäts- und Einwilligungsprobleme sind nicht die, die multimodaler Inhalt aufwirft.
+
 ## Multimodale KI für Sprach- und zugängliches Lernen
 
 Multimodale Systeme erweitern auch Zugang und [[personalized-learning|Personalisierung]]. KI-gelenkte Audio-[[video-education|Video]]lernwerkzeuge passen Wiedergabegeschwindigkeit an, produzieren multimodale Videozusammenfassungen und stützen Ausspracheübung.([[ai-guided-learning-audiovideo-2026]]) Multimodale Wissensgraphen schlussfolgern über Bilder und Text für Bildungsaufgaben,([[multimodal-knowledge-graph-educational-reasoning]]) und multimodale Repräsentationen verbessern [[inclusive-learning|inklusives Lernen]], indem sie Informationen über Modi hinweg übersetzen (z. B. Text zu Audio oder Visuellem). Domänenanwendungen umfassen Benotung und Diagnose händischer Mathematik,([[llm-cognitive-diagnosis-handwritten-math]]) [[affective-tutoring|affektives Tutoring]] mit multimodalen Signalen,([[multimodal-affective-its-presentation]])([[kar-mathbuddy-affective-math-tutoring-2025]]) Text-zu-Bild-Lernen in spezialisierten Fächern,([[nuclear-diffusion-text-to-image-learning-2026]]) und datenschutzbewusstes multimodales Klassenzimmer-Sensing.([[privacy-aware-classroom-incident-recognition-2026]]) Bird (2026) demonstriert eine textinterne Form von Multimodalität: einen feinabgestimmten ELECTRA-Transformer mit computational-linguistics-Merkmalsanalyse zu fusionieren, um englische Literatur nach UK Key Stage zu klassifizieren, wo das fusionierte Modell (F1 0.996) jede unimodale Baseline weit übertraf —, ein Beleg, dass das Kombinieren von Repräsentationsformen, selbst innerhalb von Text, Einzelmodellansätze übertreffen kann.
@@ -95,6 +100,7 @@ Multimodale Systeme erweitern auch Zugang und [[personalized-learning|Personalis
 4. **Evaluation auf multimodale Validität ausweiten.** [[assessment-validity|Assessmentvalidität]], Bias und Verlässlichkeit müssen untersucht werden, wenn KI multimodale Artefakte benotet oder generiert.([[multimodal-item-parameter-estimation-2026]])([[ai-ed-evaluation]])
 5. **Gerechtigkeit und Datenschutz beobachten.** Unzuverlässige Unterstützung bei bildreichen Problemen und die Datenanforderungen multimodalen Sensings tragen beide Gerechtigkeits- und Datenschutzimplikationen.([[syal-multimodal-dialogue-stem-2026]])([[privacy-aware-classroom-incident-recognition-2026]])
 6. **Die Pipeline auf den Inhalt abstimmen.** Das multimodale LLM eines Cybersecurity-Labassistenten handhabte dichte visuelle Folien besser, während eine OCR-plus-LLM-Pipeline auf textzentrierten Folien vergleichbaren instruktionalen Wert bei signifikant geringeren Rechenkosten lieferte.([[genai-cybersecurity-ocr-multimodal-instruction-2025|Patel et al. (2025)]])
+7. **Mehrere Ströme zu erfassen heißt nicht, sie zu integrieren.** Eine Übersicht über 23 Studien zu KI für [[embodied-learning|verkörpertes Lernen]] ordnete multimodale Arbeiten drei Ebenen zu — parallel erhobene Ströme, auf einer gemeinsamen Zeitachse ausgerichtete Ströme und in einem einzigen Modell fusionierte Ströme, das den Zustand der lernenden Person schätzt — und verortete die meisten Studien auf der ersten Ebene, die Bild mit Text oder Bewegung mit Text kombinierten, ohne sie je zusammenzuführen. Eine Studie richtete Gesichtsaffekt, Blick und Gesichtserkennung nachträglich aus; der Fusion am nächsten kam eine Modellierung gemeinsamer Zustände aus Armbang- und Skelettsignalen mit einem Markov-Prozess, die nach der Sitzung lief, statt das Feedback der Lernenden zu informieren. Kein untersuchtes System fusionierte seine Eingaben während der Nutzung ([[kim-ai-embodied-learning-review-2026|Kim und Han (2026)]]).
 
 ## Verbreitete Fehlvorstellungen
 
@@ -102,9 +108,9 @@ Multimodale Systeme erweitern auch Zugang und [[personalized-learning|Personalis
 
 **„Ein Bild zum Prompt hinzuzufügen löst das Diagrammproblem."** Die Eingabemodalität ist nicht der Engpass; die Interferenz ist es. Ein Modell, das das Diagramm erhält und dennoch aus der umgebenden Prosa schlussfolgert, hat die Information bekommen und nicht genutzt, weshalb das Versagen unsichtbar bleibt, sofern niemand die beiden Problemformate vergleicht.
 
-**„Multimodale Fähigkeit ist eine einzige Leiter, also ist das insgesamt beste Modell das beste für die bildreiche Aufgabe."** Fähigkeit ist aufgabenspezifisch, und ein Modell, das in allgemeinen Benchmarks führt, kann bei Kraftediagrammen zurückliegen. Für bildreiche Disziplinen ist der einschlägige Test der mit der in das Bild eingebetteten Bedeutung.
+**„Multimodale Fähigkeit ist eine einzige Leiter, also ist das insgesamt beste Modell das beste für die bildreiche Aufgabe."** Fähigkeit ist aufgabenspezifisch, und ein Modell, das in allgemeinen [[benchmark|Benchmarks]] führt, kann bei Kraftediagrammen zurückliegen. Für bildreiche Disziplinen ist der einschlägige Test der mit der in das Bild eingebetteten Bedeutung.
 
-**„Grenzen rein textlichen Tutorings sind ein Ärgernis statt ein Curriculumproblem."** In Disziplinen, in denen das Diagramm *das Problem ist* — Physik, Chemie, Geometrie, Ingenieurwesen, Medizin —, fällt die Kompetenzgrenze eines rein textlichen Tutors quer durch den bewerteten Inhalt statt an seine Ränder.
+**„Grenzen rein textlichen Tutorings sind ein Ärgernis statt ein [[curriculum-design|Curriculum]]problem."** In Disziplinen, in denen das Diagramm *das Problem ist* — Physik, Chemie, Geometrie, Ingenieurwesen, Medizin —, fällt die Kompetenzgrenze eines rein textlichen Tutors quer durch den bewerteten Inhalt statt an seine Ränder.
 
 ## Verbundene Konzepte
 - [[generative-ai]]
@@ -131,6 +137,7 @@ Multimodale Systeme erweitern auch Zugang und [[personalized-learning|Personalis
 - [[virtual-and-augmented-reality]] — Gestik, Stimme und räumliche Eingabe als Lernkanäle
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
+- [[sensor-and-gaze-analytics]]
 
 ## Verbundene Artikel
 - [[elkington-human-centred-assessment-value-2026]] — Menschzentriertes Assessment, Assemblagen und generative Einschränkungen (Elkington 2026)
@@ -159,3 +166,4 @@ Multimodale Systeme erweitern auch Zugang und [[personalized-learning|Personalis
 - [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Jenseits von Generierung und Genauigkeit: Diagnose und Verbesserung des visuellen Denkpfads bei Geometrie-Aufgaben
 - [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 12 Aufgaben über 1.174 Kunstwerke zeigen die VLM-Fähigkeit als dimensionsspezifisches Profil, am schwächsten in affektiver Interpretation und sichtpunktabhängigem räumlichem Schlussfolgern (Zhu et al. 2026)
 - [[ai-assisted-physics-lab-report-assessment-2026]] — KI-gestütztes Assessment experimenteller Physik-Laborberichte: Potenzial, Grenzen und Unterstützung der Unterrichtspraxis
+- [[kim-ai-embodied-learning-review-2026]] — KI im verkörperten Lernen beobachtet überwiegend: Sensing-Rollen in 62.5% der codierten Rollen-Tags, und kein untersuchtes System fusionierte multimodale Ströme, während Lernende es nutzten (Kim & Han 2026)

@@ -20,7 +20,7 @@ audience: [administrators, researchers, policymakers]
 confidence: high
 translation_of: resources/institutional-ai-readiness-pack
 source_updated: "2026-09-20T13:49:11-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

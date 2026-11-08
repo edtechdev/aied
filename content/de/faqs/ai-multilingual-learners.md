@@ -1,9 +1,9 @@
 ---
 title: "Wie kann KI mehrsprachige Lernende unterstützen, ohne ihr Wissen falsch zu beurteilen oder ihre Stimme zu löschen?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,9 +12,9 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -27,7 +27,7 @@ ai_assist:
 
 Eine studierende Person versteht das Konzept und braucht vier zusätzliche Minuten, um es auf Englisch zu sagen. Die KI kann den Prompt übersetzen, die Terminologie erklären, die Erklärung mit ihr einüben oder die ganze Antwort schreiben. Drei davon sind Lehre. Eines ist das Erledigen der Aufgabe.
 
-Kurze Antwort für eine Kollegin: Entscheiden Sie, was die Sprache in dieser Aufgabe leistet, bevor Sie entscheiden, was das Werkzeug darf. Wo Sprache beiläufig ist, kann KI eine Barriere entfernen, die nichts mit Ihrem Konstrukt zu tun hat. Wo die Sprache das Konstrukt ist, umgeht dasselbe Werkzeug das Lernen. Das Risiko läuft in beide Richtungen zugleich: [[multilingual-learning|Sprachliche Unterstützung]] kann den Zugang verbessern, und automatisierte Bewertung kann die studierende Person dennoch falsch lesen. In einer Physikstudie wurden Erklärungen von geringerer sprachlicher Qualität von jedem getesteten KI-Bewertungsansatz systematisch unter das Expertenurteil benotet, neun Machine-Learning- und zwei Sprachmodellsysteme bei 116 Schülerinnen und Schülern der Sekundarstufe ([[ai-scoring-language-bias-physics|Feser und Tschisgale, 2026]]). Flüssigkeit und Verständnis wurden als eine Sache benotet.
+Kurze Antwort für eine Kollegin: Entscheiden Sie, was die Sprache in dieser Aufgabe leistet, bevor Sie entscheiden, was das Werkzeug darf. Wo Sprache beiläufig ist, kann KI eine Barriere entfernen, die nichts mit Ihrem Konstrukt zu tun hat. Wo die Sprache das Konstrukt ist, umgeht dasselbe Werkzeug das Lernen. Das Risiko läuft in beide Richtungen zugleich: [[multilingual-learning|Sprachliche Unterstützung]] kann den Zugang verbessern, und [[automated-assessment|automatisierte Bewertung]] kann die studierende Person dennoch falsch lesen. In einer Physikstudie wurden Erklärungen von geringerer sprachlicher Qualität von jedem getesteten KI-Bewertungsansatz systematisch unter das Expertenurteil benotet, neun [[machine-learning|Machine-Learning]]- und zwei Sprachmodellsysteme bei 116 Schülerinnen und Schülern der Sekundarstufe ([[ai-scoring-language-bias-physics|Feser und Tschisgale, 2026]]). Flüssigkeit und Verständnis wurden als eine Sache benotet.
 
 ## Die Kurzfassung
 
@@ -45,13 +45,13 @@ Kurze Antwort für eine Kollegin: Entscheiden Sie, was die Sprache in dieser Auf
 
 ## Entscheiden Sie, was die Sprache leistet
 
-In einer biologischen Erklärung ist Grammatik weitgehend beiläufig für das Konzept, das bewertet wird. In einem Sprachkurs ist das Produzieren und Überarbeiten bestimmter Strukturen das Lernen. In professioneller Kommunikation zählen fachliche Genauigkeit, Adressaten und Register. Dasselbe Übersetzungswerkzeug ist im ersten Fall angemessen, im zweiten fragwürdig und im dritten verhandelbar.
+In einer [[biology-education|biologischen]] Erklärung ist Grammatik weitgehend beiläufig für das Konzept, das bewertet wird. In einem Sprachkurs ist das Produzieren und Überarbeiten bestimmter Strukturen das Lernen. In professioneller Kommunikation zählen fachliche Genauigkeit, Adressaten und Register. Dasselbe Übersetzungswerkzeug ist im ersten Fall angemessen, im zweiten fragwürdig und im dritten verhandelbar.
 
-Schreiben Sie die Entscheidung dort auf, wo Studierende sie lesen können. Wenn Studierende Anweisungen übersetzen dürfen, aber eine Erklärung in der Zielsprache ohne Hilfe produzieren müssen, sagen Sie das ausdrücklich. Wenn Terminologieunterstützung erlaubt ist, legen Sie fest, was die studierende Person weiterhin erklären und verifizieren muss. Prüfen Sie das Arrangement dann gegen Anforderungen des Nachteilsausgleichs und institutionelle Politik, statt jede Form von Sprachhilfe als austauschbar zu behandeln. Eine studierende Person mit dokumentiertem Nachteilsausgleich und eine, die Übung vermeidet, können dasselbe verlangen, und nur der zweite Fall ist Ihr Lehrproblem.
+Schreiben Sie die Entscheidung dort auf, wo Studierende sie lesen können. Wenn Studierende Anweisungen übersetzen dürfen, aber eine Erklärung in der Zielsprache ohne Hilfe produzieren müssen, sagen Sie das ausdrücklich. Wenn Terminologieunterstützung erlaubt ist, legen Sie fest, was die studierende Person weiterhin erklären und verifizieren muss. Prüfen Sie das Arrangement dann gegen Anforderungen des Nachteilsausgleichs und [[educational-policy-ai|institutionelle Politik]], statt jede Form von Sprachhilfe als austauschbar zu behandeln. Eine studierende Person mit dokumentiertem Nachteilsausgleich und eine, die Übung vermeidet, können dasselbe verlangen, und nur der zweite Fall ist Ihr Lehrproblem.
 
 ## Was die Forschung stützt und was nicht
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez und Arabadzhy (2026)]] werteten 24 empirische Studien zu generativen Chatbots im Sprachenlernen aus. Ihr Beitrag ist taxonomisch: Jede für prägenerative Chatbots katalogisierte Teilaffordanz besteht fort, und drei sind neu, darunter **Translanguaging**, die bewusste Bewegung zwischen Sprachen als Teil des Lernens. Das ist eine Landkarte berichteter Nutzungen und Erfahrungen und keine gepoolte Schätzung, und der Korpus ist geografisch konzentriert, wobei China, Iran, Taiwan und die Türkei 19 der 24 Studien stellen und alle bis auf ein Set in formalen Institutionen liegen. Stützung dafür, sprachübergreifende Erklärung als Lernbewegung zu nutzen, ist keine Stützung dafür, jede Aufgabe zu übersetzen.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez und Arabadzhy (2026)]] werteten 24 empirische Studien zu generativen [[conversational-ai|Chatbots]] im [[language-learning|Sprachenlernen]] aus. Ihr Beitrag ist taxonomisch: Jede für prägenerative Chatbots katalogisierte Teilaffordanz besteht fort, und drei sind neu, darunter **Translanguaging**, die bewusste Bewegung zwischen Sprachen als Teil des Lernens. Das ist eine Landkarte berichteter Nutzungen und Erfahrungen und keine gepoolte Schätzung, und der Korpus ist geografisch konzentriert, wobei China, Iran, Taiwan und die Türkei 19 der 24 Studien stellen und alle bis auf ein Set in formalen Institutionen liegen. Stützung dafür, sprachübergreifende Erklärung als Lernbewegung zu nutzen, ist keine Stützung dafür, jede Aufgabe zu übersetzen.
 
 Das Assessment ist der Ort, an dem die Evidenz schärfer wird und die Einsätze steigen. [[ai-scoring-language-bias-physics|Feser und Tschisgale (2026)]] verglichen elf automatisierte Bewertungsansätze mit menschlichen Expertenbewertungen für Physikerklärungen von 116 Schülerinnen und Schülern der Sekundarstufe und fanden eine systematische Unterschätzung des konzeptuellen Verständnisses bei sprachlich schwächeren Erklärungen, in jedem einzelnen Ansatz. Das Design isoliert den Mechanismus: derselbe konzeptuelle Inhalt, in schwächerer Prosa ausgedrückt, wurde niedriger benotet. Das ist keine Aussage über die mehrsprachigen Studierenden eines bestimmten Landes, und es ist genau das Muster, das die Übereinstimmung der Gesamtbewertung zu einem schlechten Diagnostikum macht. Eine Bewertung kann im Durchschnitt mit menschlichen Bewertenden übereinstimmen und sich dabei in eine konsistente Richtung irren, und zwar für die Studierenden, deren Sprache sich noch entwickelt.
 
@@ -116,7 +116,7 @@ Bieten Sie brauchbare Alternativen. Studierende brauchen einen klaren Weg zu men
 
 **4.** Fügen Sie eine Prüfung hinzu, die die eigene Bedeutung oder Entscheidung der studierenden Person festhält, etwa eine Notiz von zwei Sätzen zu einer Änderung, die sie angenommen oder abgelehnt hat.
 
-**5.** Wenn Ihre Rubrik Schreibqualität benotet, trennen Sie dieses Kriterium vom konzeptuellen und lesen Sie zwei Abgaben von jedem Fall mit dieser Trennung im Kopf erneut.
+**5.** Wenn Ihre Rubrik [[writing-education|Schreibqualität]] benotet, trennen Sie dieses Kriterium vom konzeptuellen und lesen Sie zwei Abgaben von jedem Fall mit dieser Trennung im Kopf erneut.
 
 ## Wohin als Nächstes
 

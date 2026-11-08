@@ -1,13 +1,13 @@
 ---
 title: Latent-Profile-Analyse
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-10-26T09:35:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T16:51:25-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -41,7 +41,7 @@ LPA nimmt an, dass die Stichprobe aus einer Mischung von Untergruppen gezogen wi
 
 - **LCA — kategoriale Indikatoren.** Becker und Kolleginnen und Kollegen wandelten kodierte Antwortkategorien aus den offenen Antworten von 1.189 Physikstudierenden in Indikatorvariablen um und behielten zwei Klassen: Pragmatic Users (70 Prozent) und Skeptical Non-Users (30 Prozent); weil ein nicht erwähntes Thema als „keine Zustimmung“ zählt, markieren die Autoren Zero-Inflation im Analysedatensatz.
 - **LPA — stetige Indikatoren** wie Skalenwerte und Konstruktmittelwerte. Chen und Kolleginnen und Kollegen profilierten 128 taiwanesische Lehramtsstudierende auf fünf [[technology-acceptance-model|TAM]]/UTAUT2-Konstrukten; Acquah und Kolleginnen und Kollegen profilierten 509 ghanaische Undergraduates auf drei Dimensionen ethischen Bewusstseins; Schweder und Kolleginnen und Kollegen profilierten 2.464 Studierende auf [[motivation|motivationaler]] Bedürfnisbefriedigung.
-- **Latent-(Profil-)Transitionsanalyse** erweitert die Familie über die Zeit, schätzt Profile pro Welle und die Wahrscheinlichkeit des Wechsels zwischen ihnen. Liang und Kolleginnen und Kollegen verfolgten die KI-Lernmotivation von 2.086 Studierenden über ein Jahr; Wu folgte 457 Japanischlernenden über drei Wellen, wobei das maladaptive Profil von 26,48 auf 17,74 Prozent schrumpfte.
+- **Latent-(Profil-)Transitionsanalyse** erweitert die Familie über die Zeit, schätzt Profile pro Welle und die Wahrscheinlichkeit des Wechsels zwischen ihnen. Liang und Kolleginnen und Kollegen verfolgten die KI-Lernmotivation von 2.086 Studierenden über ein Jahr; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] folgte 457 Japanischlernenden über drei Wellen, wobei das maladaptive Profil von 26,48 auf 17,74 Prozent schrumpfte.
 
 Gewöhnliches Clustering ([[machine-learning|k-means]] und hierarchisch) verfolgt dieselbe personenzentrierte Absicht, partitioniert Fälle aber durch geometrische Distanz statt durch Schätzung eines Wahrscheinlichkeitsmodells. Greifen Sie zu LPA oder LCA, wenn die Frage Untergruppen betrifft — ob „die lernende Person“ eine Fiktion auf dem Aggregationsniveau Ihrer Stichprobe ist, und ob sich Untergruppen in Form ebenso wie in Niveau unterscheiden. Greifen Sie nicht dazu, wenn Sie einen durchschnittlichen Behandlungseffekt brauchen: eine Fünf-Profil-Lösung innerhalb eines [[rct|randomisierten Versuchs]] eines [[intelligent-tutoring|adaptiven Tutors]] sagte Posttestunterschiede vorher (partielles η² = .27), fand aber keine Bedingung × Profil-Interaktion (ps ≥ .198).
 
@@ -65,7 +65,6 @@ Keine einzelne Statistik wählt die Lösung; der Korpus behandelt Retention als 
 - **[[explainable-ai|Interpretierbarkeit]] und Profilgröße.** Die Vertrauen-in-KI-Profilierungsstudie behielt drei Cluster, obwohl der Calinski–Harabasz-Index zwei bevorzugte, weil drei interpretierbar waren, und bemerkt, dass ein Silhouette-Koeffizient von 0,288 schwache oder grenzwertige Trennung signalisiert. Chen und Kolleginnen und Kollegen warnen, dass ihr kleinstes Profil (14,06 Prozent von 128 Fällen) instabil sein könnte, und das kleinste Profil der Ghana-Studie hält nur 23 Studierende, was die Autoren zum Mergen vorschlagen.
 - **Stabilität unter Resampling.** Bootstrap-Stabilität ist die ehrliche Prüfung, ob Profile in einer neuen Stichprobe wieder auftreten würden: der mittlere adjustierte Rand-Index war 0,385 für die ukrainische Sechs-Klassen-Lösung, aber 0,989 über 100 zufällige Initialisierungen in der Vertrauen-in-KI-Studie — dasselbe nominale Design, sehr verschiedenes Beweisgewicht.
 - **Bootstrap-Likelihood-Ratio-Tests (BLRT)** und der Lo–Mendell–Rubin-Test sind Standardbegleiter von BIC und Entropie in der weiteren Mischmodellliteratur, aber die Profilstudien in dieser Wissensbasis berichten sie nicht. Wo eine Seite nur BIC und Entropie berichtet, behandeln Sie die Klassenzahl als provisorisch.
-
 
 - **Der Likelihood-Ratio-Check, den dieser Korpus sonst auslässt.** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] behielten vier Profile (Entropie 0,824) aus 379 Betriebswirtschaftsstudierenden und berichteten die Lo–Mendell–Rubin-Entscheidung: signifikant bei vier (p = 0,035) und nicht signifikant bei fünf (p = 0,376).
 - **Retention verteidigt mit der Rivallösung und einem Likelihood-Ratio-Test.** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] berichten, dass eine Vier-Profil-Lösung die 102 Studierenden etwas besser passte, aber nicht signifikant verbesserte und eine kleinste Klasse bei 12,7 Prozent beließ, sodass sie drei Profile (Entropie .89) behalten statt das numerisch besser passende Modell. Die verlierende Lösung und was sie disqualifizierte zu berichten ist das, was die behaltene Klassenzahl zu einem Urteil macht, das Lesende prüfen können, und das zweckgebaute 12-Item-KI-Nutzungsmaß der Studie — validiert an einer separaten Stichprobe von 85, die die Autoren als vorläufig bezeichnen — markiert die andere Grenze ihrer Evidenz.

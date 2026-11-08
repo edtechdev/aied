@@ -1,7 +1,7 @@
 ---
 title: Erleben der Studierenden
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -11,8 +11,8 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-10-28T19:24:33-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -60,6 +60,9 @@ KI beeinflusst Studierende über kognitive, motivationale, [[affective-computing
 ### Motivationale Effekte
 
 - **Positiv:** KI kann [[motivation|Motivation]] und [[student-engagement|Engagement]] heben, indem sie personalisierte, unmittelbare und risikoarme Unterstützung bietet — was Studierenden hilft durchzuhalten und sich kompetent zu fühlen (siehe [[self-determination-theory|selbstbestimmungstheoretische]] Perspektiven zu Autonomie, Kompetenz und Verbundenheit).
+
+- **Der motivationale Effekt läuft über Motivation, nicht über Zugang.** Unter 297 Studierenden hatten Autonomieunterstützung und autonome Motivation für die KI-Nutzung keinen direkten Effekt auf Engagement (β = 0.070 jeweils), während die Motivation der Studierenden Engagement bei β = 0.74 vorhersagte ([[genai-motivation-engagement-2026|Ahmed und Sultan (2026)]]).
+
 - **Negativ:** Zu wissen, dass KI verfügbar ist, kann studentische Anstrengung und Motivation, produktiv zu kämpfen, senken ([[ai-availability-student-motivation|KI-Verfügbarkeit und Motivation]], [[wang-safety-gap-productive-struggle-2026|die Sicherheitslücke]]). Übermäßige Abhängigkeit kann [[agency|Handlungsfähigkeit]] und das Empfinden von Leistung erodieren, das davon kommt, Arbeit selbst zu tun.
 
 ### Affektive und Wohlbefindens-Effekte
@@ -75,10 +78,12 @@ KI beeinflusst Studierende über kognitive, motivationale, [[affective-computing
 ### Effekte auf akademische Integrität und Fairness
 
 - **Negativ:** KI ermöglicht neue Formen [[academic-integrity|akademischer Unredlichkeit]] (KI-generierte Aufsätze, unautorisierte Fertigstellung) und treibt Debatten über [[reduce-ai-cheating|Detektion und Reduktion]]. Das interagiert mit [[equity-in-ai-education|Gerechtigkeit]]: ungleicher Zugang zu und ungleiches Verständnis von KI-Werkzeugen können Lücken zwischen Studierenden verbreitern.
-- **Positiv/konstruktiv:** KI kann [[authentic-assessment|authentisches]], [[process-oriented-assessment|prozessorientiertes]] Assessment und reflexive Praxis stützen (etwa [[pedlow-genai-selfassessment-2026|geleitete Selbstbewertung]]) und damit Integritätsanliegen in Gelegenheiten für [[ai-literacy|KI-Kompetenz]] und Verantwortung verwandeln.
 
-Darstellungen von Integrität durch Studierende sind weniger geklärt, als die Unredlichkeitsrahmung nahelegt. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa und Mezgebu (2026)]] interviewten 27 Studierende an einer äthiopischen Universität und fanden die Studierendenschaft in sich gespalten: fast alle nutzten GenAI oder sahen Peers es nutzen und die meisten schrieben ihm zu, ihre Leistung gehoben zu haben, eine Minderheit nannte Kursarbeit-Nutzung glatt Fehlverhalten, und die schärfste und am weitesten geteilte Beschwerde war Fairness — KI-Nutzende, die über Studierenden punkteten, die ehrlich arbeiteten, was manche als Tötung ihres Empfindens von Fleiß beschrieben und einen Teilnehmenden unsicher ließ, „ob wir vom Einsatz von KI profitieren oder darunter leiden.“ Die Verfahrensseite zählt ebenfalls: [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] kodierten 1.162 GenAI-Fehlverhaltensfälle und fanden, dass die am häufigsten angeführten Belege — Detektor-Ausgabe, Ähnlichkeitsberichte, KI-typische Inhaltsmuster — den schwächsten Beweiswert trugen, und dass bei fehlender Mindest-Evidenzschwelle in der Pipeline Studierende mit dünnen Fällen hin zu Berufungen gedrängt wurden. Überinklusive Definitionen erweitern jene Exposition: [[wright-transcription-not-generation-2026|Wright (2026)]] zeigt, dass Verbote, die auf „[[generative-ai|generative KI]]“ zielen, Werkzeuge erfangen können, die bloß das Format von Arbeit umwandeln, die eine Person bereits verfasst hat, eine Überinklusion, die am stärksten auf behinderte und [[equity-in-ai-education|gerechtigkeits]]-exponierte Studierende fällt. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] zeigt den konstruktiven Ausweg, indem er Integrität als [[pedagogy|pädagogische]] Praxis behandelt, die durch [[evaluative-judgment|Urteil]] vollzogen wird — annotierte Entscheidungsspuren, Verifikation, mündliche Verteidigung, Versionshistorie — statt als Konformität, die durch Überwachung gesichert wird.
+- **Ob eine Nutzung als Betrug zählt, hängt von der Disziplin ab.** Ein [[meta-analysis-systematic-review|systematischer Review]] von 89 Studien fand bei [[stem-education|STEM]]-Studierenden eine Netto-Zustimmung von +42%, dass KI die Leistung verbessert, während [[humanities-education|geisteswissenschaftliche]] Studierende die höchste Netto-Zustimmung zeigten, dass KI-Nutzung Betrug darstellt (+44%) und ethische Bedenken aufwirft (+58%) ([[ai-tools-academic-work-cheating-2026|Padhy (2026)]]). Das Integritätsproblem eines Kurses ist damit teilweise ein disziplinäres Urteil statt ein fester Standard, weshalb die Regeln, denen Studierende begegnen, je nach Fachbereich ebenso variieren wie nach Hochschulpolitik.
 
+- **Positiv/konstruktiv:** KI kann [[authentic-assessment|authentisches]], [[process-oriented-assessment|prozessorientiertes]] Assessment und [[reflection|reflexive Praxis]] stützen (etwa [[pedlow-genai-selfassessment-2026|geleitete Selbstbewertung]]) und damit Integritätsanliegen in Gelegenheiten für [[ai-literacy|KI-Kompetenz]] und Verantwortung verwandeln.
+
+Darstellungen von Integrität durch Studierende sind weniger geklärt, als die Unredlichkeitsrahmung nahelegt. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa und Mezgebu (2026)]] interviewten 27 Studierende an einer äthiopischen Universität und fanden die Studierendenschaft in sich gespalten: fast alle nutzten GenAI oder sahen Peers es nutzen und die meisten schrieben ihm zu, ihre Leistung gehoben zu haben, eine Minderheit nannte Kursarbeit-Nutzung glatt Fehlverhalten, und die schärfste und am weitesten geteilte Beschwerde war Fairness — KI-Nutzende, die über Studierenden punkteten, die ehrlich arbeiteten, was manche als Tötung ihres Empfindens von Fleiß beschrieben und einen Teilnehmenden unsicher ließ, „ob wir vom Einsatz von KI profitieren oder darunter leiden.“ Die Verfahrensseite zählt ebenfalls: [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] kodierten 1.162 GenAI-Fehlverhaltensfälle und fanden, dass die am häufigsten angeführten Belege — Detektor-Ausgabe, Ähnlichkeitsberichte, KI-typische Inhaltsmuster — den schwächsten Beweiswert trugen, und dass bei fehlender Mindest-Evidenzschwelle in der Pipeline Studierende mit dünnen Fällen hin zu Berufungen gedrängt wurden. Überinklusive Definitionen erweitern jene Exposition: [[wright-transcription-not-generation-2026|Wright (2026)]] zeigt, dass Verbote, die auf „[[generative-ai|generative KI]]“ zielen, Werkzeuge erfangen können, die bloß das Format von Arbeit umwandeln, die eine Person bereits verfasst hat, eine Überinklusion, die am stärksten auf behinderte und [[equity-in-ai-education|gerechtigkeits]]-exponierte Studierende fällt. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] zeigt den konstruktiven Ausweg, indem er Integrität als [[pedagogy|pädagogische]] Praxis behandelt, die durch [[evaluative-judgment|Urteil]] vollzogen wird — annotierte Entscheidungsspuren, Verifikation, [[oral-assessment|mündliche Verteidigung]], Versionshistorie — statt als Konformität, die durch Überwachung gesichert wird.
 
 Verifikation kann verschieben, wie Studierende die Frage erleben: Eine Bitte, ihre Arbeit zuerst zu erklären, wurde zuerst als Anschuldigung gelesen, aber sobald der Syllabus sie im Voraus als Pädagogik statt als Überwachung rahmte, legten sie KI-Nutzung offener dar und behandelten Aufgaben als Lernaufgaben, in Gesprächen von fünf bis zehn Minuten ([[best-response-student-ai-dialog-2026|Mandernach, 2026)]]).
 
@@ -187,6 +192,9 @@ Erleben der Studierenden verbindet sich mit [[cognitive-offloading|übermäßige
 - [[dollinger-equitable-assessment-ai-2026]] — Gerechte Bewertung in einer KI-Ära
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Langzeitliche GenAI-Nutzung, Ethik und Politik in der Lehrerbildung (Parker et al. 2026)
 - [[genai-use-usefulness-student-experience-australia-2026]] — Erfahrungen von Studierenden mit der Nützlichkeit von GenAI in der australischen Hochschulbildung (Chung et al. 2026)
+
+- [[genai-motivation-engagement-2026]] — 297 Studierende: Motivation sagte Engagement vorher; Autonomieunterstützung für KI-Nutzung hatte keinen direkten Effekt (Ahmed & Sultan 2026)
+
 - [[genai-decision-capability-cognitive-load-2026]] — GenAI und die wahrgenommene Entscheidungsfähigkeit von Studierenden (kognitive-Belastung-Perspektive)
 - [[genai-professionalization-metaphors-2026]] — GenAI-Konzeptualisierungen und die Professionalisierung von Studierenden
 - [[sidorkin-ai-generated-course-readings-2026]] — Studierende als Auditorinnen und Auditoren ihres eigenen KI-generierten Curriculums (Sidorkin 2026)

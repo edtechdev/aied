@@ -1,15 +1,15 @@
 ---
 title: Quantitative Forschung
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-28T15:48:01-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -28,7 +28,7 @@ ai_assist:
 
 ## Fragen zum Nachdenken
 
-- „Studierende, die einen KI-Tutor nutzen, punkten höher" — ist das vor der Lektüre eine Behauptung über Kausalität oder Korrelation, und welches einzelne Stück Evidenz würde eine in die andere verwandeln?
+- „Studierende, die einen [[intelligent-tutoring|KI-Tutor]] nutzen, punkten höher" — ist das vor der Lektüre eine Behauptung über Kausalität oder Korrelation, und welches einzelne Stück Evidenz würde eine in die andere verwandeln?
 - Eine Querschnitt-Erhebung kann ein komplexes mediationales Modell testen und dennoch nie Kausalität etablieren. Warum könnten zwei Variablen in einer Erhebung korrelieren, selbst wenn keine die andere verursacht? Können Sie an eine Weise denken, in der man in der Bildung durch solche Korrelation echt irregeführt werden könnte?
 - Quantitative Instrumente sind nur so gut wie das, was sie messen – und die Seite hält fest, dass Instrumente das falsche Konstrukt messen können. Wenn Sie eine Selbstauskunfts-Erhebung zu „Konfidenz" oder „Engagement" ausfüllen, was könnte sie stattdessen tatsächlich erfassen, und wie würden Sie das herausfinden?
 - Ein RCT weist Lernende zufällig Bedingungen zu, um einen kausalen Effekt zu schätzen. Was macht zufällige Zuweisung mächtig, und welche praktischen und ethischen Probleme entstehen, wenn die „Behandlung" ein möglicherweise hilfreiches KI-Werkzeug ist, das manchen Studierenden vorenthalten wird?
@@ -46,13 +46,13 @@ Querschnitt-Erhebungen messen selbstberichtete Einstellungen, Wahrnehmungen, Mot
 
 - **Stärken:** große Stichproben; breite, kostengünstige Abdeckung; testet komplexe mediationale Modelle; praktikabel für Einstellungen, die schwer zu beobachten sind.
 - **Grenzen:** Querschnitt-Daten können keine Kausalität etablieren; Selbstauskunfts-Bias; Convenience-Sampling begrenzt Generalisierbarkeit; Mediatoren aus Kovarianz inferiert, nicht aus Manipulation. Siehe [[self-report-measures|Selbstauskunftsmaße]] für die instrumentenseitige Behandlung dieser Grenzen.
-- **Ein saturiertes Mediationsmodell kann seine eigene Ordnung nicht prüfen.** Eine Ein-Wellen-Befragung von 1.020 Pflegestudierenden zerlegte einen Gesamteffekt von 1.36 in einen direkten von 0.92 und einen indirekten von 0.44 über selbstreguliertes Lernen, 32,35% des Gesamten, mit einem Modell, das so viele freie Parameter hat wie beobachtete Kovarianzen und die Daten daher per Konstruktion reproduziert ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
+- **Ein saturiertes Mediationsmodell kann seine eigene Ordnung nicht prüfen.** Eine Ein-Wellen-Befragung von 1.020 Pflegestudierenden zerlegte einen Gesamteffekt von 1.36 in einen direkten von 0.92 und einen indirekten von 0.44 über [[self-regulated-learning|selbstreguliertes Lernen]], 32,35% des Gesamten, mit einem Modell, das so viele freie Parameter hat wie beobachtete Kovarianzen und die Daten daher per Konstruktion reproduziert ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
 **Ein nahezu null Indirekteffekt kann zwei lebendige Pfade verbergen.** In einer Selbstauskunfts-Welle von 568 Designstudierenden verlief der indirekte Zusammenhang mit 0.0929 über Promotion-Fokus und mit -0.0884 über Prevention-Fokus, zusammen 0.0045, während der direkte Pfad 98,7% des Gesamten trug ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]).
 
 ### Experimentelle und quasi-experimentelle Forschung
 Experimente weisen Lernende zufällig Bedingungen zu (z. B. KI-Tutor gegenüber menschlichem Tutor, oder KI-gescaffoldet gegenüber unassistiert), um kausale Effekte auf Ergebnisse zu schätzen. **Randomisierte kontrollierte Studien ([[rct|RCTs]])** sind der Goldstandard für interne Validität. [[access-not-enough-ai-tutoring-2026|Eine randomisierte Feldstudie zu menschlicher Unterstützung plus KI-Tutoring]] und [[genai-can-harm-teaching-rct-2026|ein RCT zu generativer KI im Unterricht]] nutzen Zuweisung, um kausale Effekte zu isolieren. **Quasi-experimentelle** Designs (Pre/Post, gematchte Gruppen ohne Randomisierung) sind in intakten Klassenräumen praktikabler, aber schwächer bei Kausalbehauptungen.
 
-[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] wählen stattdessen ein Within-Subject-Crossover: jede und jeder Studierende begegnet demselben Physikinhalt zweimal, einmal in einer Active-Learning-Stunde im Klassenraum und einmal durch den eigenen KI-Tutor des Kurses, mit Pre- und Post-Tests um jede davon, sodass jede lernende Person ihre eigene Kontrolle ist und Zwischenpersonen-Unterschiede sich aufheben.
+[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] wählen stattdessen ein Within-Subject-Crossover: jede und jeder Studierende begegnet demselben Physikinhalt zweimal, einmal in einer [[active-learning|Active-Learning]]-Stunde im Klassenraum und einmal durch den eigenen KI-Tutor des Kurses, mit Pre- und Post-Tests um jede davon, sodass jede lernende Person ihre eigene Kontrolle ist und Zwischenpersonen-Unterschiede sich aufheben.
 
 - **Stärken:** stärkste kausale Schlussfolgerung; saubere Ergebnismessung; unterstützt Effektstärkenschätzung und Wirksamkeitsbehauptungen.
 - **Grenzen:** kostspielig und langsam; künstliche Bedingungen reduzieren ökologische Validität; sich schnell verändernde KI-Werkzeuge datieren Experimente schnell; kleine Stichproben unterpowern die Detektion von Effekten; ethische Einschränkungen beim Vorenthalten hilfreicher Werkzeuge.
@@ -60,7 +60,6 @@ Experimente weisen Lernende zufällig Bedingungen zu (z. B. KI-Tutor gegenüber 
 
 ### Longitudinale Forschung
 Longitudinale Designs verfolgen dieselben Lernenden über Zeit und erfassen Veränderung, Wachstum und dauerhaftes Lernen, das Messung zu einem einzigen Zeitpunkt verpasst. [[ai-lms-middle-school-longitudinal|Eine longitudinale LMS-Studie]] verfolgt Studierende über ein Schuljahr. Longitudinale Designs sind unverzichtbar, um KI-aufgeblähte Leistung von [[genai-performance-vs-learning|dauerhaftem Lernen]] zu unterscheiden.
-
 
 Zwischen-Datensatz-Vergleiche brauchen einen fixierten Arbeitspunkt: eine strukturelle Prüfung synthetischer Bildungsdaten fand, dass die Analyse jedes Datensatzes an seiner eigenen Schwelle einen Kontrast umkehrte, der an einem geteilten Punkt hielt, und dass ihr Surrogat-Vergleich nur die synthetischen Daten und Permutationen ihrer selbst brauchte – eine permutationsbasierte Null statt einer absoluten Schwelle ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 

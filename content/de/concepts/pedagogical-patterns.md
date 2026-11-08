@@ -1,7 +1,7 @@
 ---
 title: Pädagogische Muster
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -12,8 +12,8 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-10-26T12:05:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T17:29:51-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -35,7 +35,7 @@ ai_assist:
 - Ein Muster ist eine *Sequenz*, kein Werkzeug. Nehmen Sie eine Aufgabe, die Sie unterrichten, und schreiben Sie die Reihenfolge der Züge auf, die eine studierende Person macht. Wo in dieser Reihenfolge würde KI helfen, und wo würde sie die Arbeit tun, die die studierende Person tun soll?
 - Mehrere Muster hier geben KI bewusst eine *schwache* Rolle — Hinweise statt Antworten, Fragen statt Korrekturen. Warum sollte ein bewusst weniger hilfreicher Tutor besseres Lernen erzeugen, und was bedeutet das für die KI-Werkzeuge, die Ihre Institution kauft?
 - Das am besten belegte Muster auf dieser Seite ([[learning-by-teaching|Lernen durch Lehren]] einer KI) bittet Studierende zu erklären, und es verbessert Erklärung und Fragenqualität, aber *nicht* objektiven Abruf. Wenn Sie es übernähmen, was würden Sie daran ändern, wie Sie bewerten?
-- Wenn [[ai-feedback-quality|KI-Feedback]] höherer Qualität war als Lehrkräftefeedback, überarbeiteten Studierende nicht mehr. Was legt das nahe über den Unterschied zwischen dem Produzieren von Feedback und dem Bringen von Studierenden, es zu nutzen?
+- Wenn [[ai-feedback-quality|KI-Feedback]] höherer Qualität war als [[teacher-role|Lehrkräfte]]feedback, überarbeiteten Studierende nicht mehr. Was legt das nahe über den Unterschied zwischen dem Produzieren von Feedback und dem Bringen von Studierenden, es zu nutzen?
 - Kontexte verändern die Antwort: manche Muster wurden online und asynchron getestet, andere face-to-face mit einem Labor. Welche davon könnten Sie in Ihrem eigenen Setting ohne neue Werkzeuge durchführen, und welche würden Infrastruktur brauchen, die Sie nicht haben?
 - Fast jedes Muster hier behält einen Menschen am Punkt des Urteils — Benotung, Verifikation oder Interpretation. Ist das eine Designentscheidung, eine evidenzbasierte Notwendigkeit, oder eine Grenze dessen, was bisher getestet wurde?
 
@@ -61,6 +61,8 @@ Diese Muster teilen eine strukturelle Behauptung: die lernende Person muss sich 
 
 Eine adaptive verteilte-Abruf-Bedingung erzielte die höchsten Posttest-Werte (M = 78.19) und übertraf signifikant lernendengesteuertes KI-Studium (M = 67.28, d = 0.92, p = .003) über 89 Studierende in einem blended Statistik-Kurs, während feste Verteilung statistisch nicht von adaptiver zu unterscheiden war ([[adaptive-pretesting-retention|Akgun & Toker, 2026]]). Der Kontrastfall ist entscheidend: in einer [[rct|randomisierten Studie]] mit 120 Studierenden behielt die Gruppe, die *mit* uneingeschränktem ChatGPT studierte, bei einem Überraschungstest 45 Tage später weniger — 57.5% korrekt gegenüber 68.5% bei traditionellen Lernenden, t(83) = −3.19, p = .002, d = 0.68 —, und hatte auch etwa 45% weniger gelernt, wobei der Nachteil eine Kovariate für die Lernzeit überlebte ([[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui, 2025]]). Ein vorregistriertes randomisiertes Feldexperiment in einem Online-MBA fand, dass Zugewinne *abgeschlossenen Wochen* folgten statt Minuten der Exposition (+2.00 Punkte pro zusätzlicher abgeschlossener Tutoring-Woche, p = .018), was sich als [[retrieval-spacing-interleaving|verteilte Übung]] liest, die mehr zählt als Gesamtzeit ([[ai-tutor-modality-randomized-field-experiment-2026|Yang et al., 2026]]).
 
+Der kausale Fall für die Regel ist ein Feldexperiment in rund 50 türkischen Mathematikklassen der Oberstufe mit fast 1.000 Schülerinnen und Schülern ([[generative-ai-guardrails-harm-learning|Bastani et al., 2025]]). Uneingeschränktes GPT-4 steigerte die Leistung in begleiteter Übung um 48% und senkte die ungestützte Prüfung um 17% gegenüber der Kontrolle, während ein gebändigtes GPT-4 die Übung um 127% steigerte und die Prüfung im Wesentlichen unverändert ließ. Die [[guardrails|Leitplanken]] waren nur zwei: Hinweise statt Antworten und von der Lehrkraft verfasste aufgabenspezifische Inhalte (korrekte Lösung, häufige Fehler), die in den Prompt eingespielt wurden, damit die Hinweise akkurat waren. Engagement-Daten verorteten den Schaden im Kopieren, da ungeschützte Studierende überwiegend nach Antworten fragten, und Studierende in beiden KI-Armen schätzten ihr eigenes Lernen falsch ein.
+
 ### Produktives Scheitern: Versuch vor Anweisung
 
 **Evidenz: gemischt, und dünner als ihr Ruf.** Studierende versuchen ein Problem, das auf ein Konzept zielt, das ihnen nicht gelehrt wurde, der Tutor hält die Lösung zurück und evoziert mehrere Versuche, Hilfe kommt nur, wenn strikt notwendig, und Konsolidierung folgt mit Vergleich und direkter Anweisung.
@@ -79,6 +81,8 @@ Eine Prä-Post-Studie mit 13 Studierenden in einem Online-Datenbankkurs stieg vo
 
 Adaptives Zuweisen geleiteter und fehlerbehafteter Beispiele übertraf zufällige Zuweisung von Problemtypen in einer Klassenraumstudie mit 113 Studierenden (Posttest M = 72.3 und 72.5 gegenüber 65.7 Kontrolle, A = .58, p = .005 und p = .002), und die [[knowledge-tracing|Knowledge-Tracing]]-Variante verringerte die Leistungslücke um 77.1% für Studierende mit geringem [[prior-knowledge|Vorwissen]] (β = 9.4, p = .001) ([[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al., 2026]]). Aber das *Hinzufügen* des Selbsterklärungsschritts zu elaboriertem KI-Feedback verlor in einem vorregistrierten Experiment mit 302 Teilnehmenden bei jedem Maß: es verdoppelte die Feedbackzeit (4.1 gegenüber 2.1 min, p < .001), senkte die abgeschlossenen Probleme um 40% (2.0 gegenüber 3.4, p < .001), erzeugte keinen Zugewinn pro Episode (OR = 1.03, p = .486), und senkte die Meisterschaft am Sitzungsende (65% gegenüber 79%, d = .41, p < .001) ([[structured-reflection-ai-explanatory-feedback-2026|Asher et al., 2025]]).
 
+Wie viele Beispiele vor der Übung zu geben sind, ist selbst inhaltsabhängig, was die Rahmung dieses Abschnitts als „ausgearbeitete Beispiele, dann Probleme“ offenlässt. In einem 2×2-Experiment mit 95 Teilnehmenden zu Geometrie-Flächenmaterialien erzeugte reines Übungstraining größere Zugewinne bei wörtlichen Fakten, während der Wechsel von Beispielen und Übung größere Zugewinne bei generalisierbaren Fähigkeiten erzeugte (β = 0.41, p = .038, d = 0.38) ([[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger und Carvalho, 2025]]). Eine Sequenz lässt sich nicht abstrakt als ausgearbeitete Beispiele gegen Übung beurteilen, weil die richtige Mischung daraus folgt, ob das Ziel ein Fakt oder eine Fähigkeit ist.
+
 ## Muster, die KI-Feedback mit menschlichem Feedback paaren
 
 Der am häufigsten replizierte Befund der Wissensbasis über KI-Feedback ist, dass es *kombiniert* mit menschlichem Feedback besser wirkt als allein — und dass seine Qualität nicht bestimmt, ob Studierende es nutzen.
@@ -88,6 +92,8 @@ Der am häufigsten replizierte Befund der Wissensbasis über KI-Feedback ist, da
 **Evidenz: gemischt (breit implementiert, nicht kontrolliert).** Studierende lesen und reflektieren, wie KI und Feedback wirken, entwerfen, geben und empfangen Peer-Review, prompten die KI um kriteriengesteuertes Feedback zum selben Entwurf, vergleichen beide kritisch, schreiben einen Überarbeitungsplan, überarbeiten, und reflektieren, welches Feedback was verändert hat.
 
 Die größte Studie zur Nutzung von KI-Feedback durch Studierende bis heute begleitete 654 Studierende über zehn Schreibkurse und drei schreibintensive [[stem-education|STEM]]-Kurse hinweg: 58% bevorzugten kombiniertes ChatGPT- und [[peer-assessment|Peer-Feedback]], 36% nur Peer und nur 6% nur KI; 75% fanden die beiden ähnlich und gegenseitig verstärkend; KI-Feedback wurde von 31% „übermäßig allgemein“ genannt, während Peer-Feedback für 28% spezifischer war; und nur 5.3% zeigten Überzuversicht in KI-Feedback ([[pairr-ai-peer-review-2025|Sperber et al., 2025]]). Das Modell wurde auch in einem Schreibkurs für Wirtschaft im fortgeschrittenen Studium mit 34 Studierenden durchgeführt, wo etwa ein Viertel der kodierten Reflexionen Skepsis gegenüber KI-Feedback äußerte oder Ungenauigkeiten darin notierte ([[gift-ai-pairr-business-writing-2025|MacArthur et al., 2025]]). Beide berichten Wahrnehmungsdaten; keiner hat eine Kontrollbedingung, weshalb das Muster *gemischt* statt *getestet* ist.
+
+Eine dritte Auswertung derselben Umsetzung von 2024 fragt, wie Studierende das Werkzeug nennen, statt wie sie es bewerteten. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] beschreiben 13 Sektionen von 10 schreibintensiven Kursen und 654 Studierende und berichten, dass nur etwa die Hälfte (51,7%) die Tutor- oder Kollaborateurrollen übernahm, die der Reflexionsprompt anbot. Die übrigen nannten ein Werkzeug, ein Programm, einen Roboter oder einen Computer oder erfanden Metaphern wie einen Feedback-Automaten. Die Autoren lesen dieses Vokabular als das Kompetenzergebnis und als Beleg schriftstellerischer Handlungsfähigkeit, und ihre Daten sind in derselben Weise wahrnehmungsbasiert, sodass sich die Evidenzstufe oben nicht verschiebt.
 
 ### Kombiniertes Peer- und KI-Feedback
 
@@ -135,7 +141,7 @@ Ein Quasi-Experiment mit 68 angehenden Lehrkräften fand, dass das Erklären geg
 
 **Evidenz: getestet, aber in kontrollierten oder unkontrollierten Settings statt gewöhnlichen Klassenzimmern.** Zwei Lernende teilen eine KI und erhalten explizite Rollen mit Rotationsregeln zugewiesen; die KI ist so konfiguriert, dass sie bei Bedarf eine Rolle übernimmt, und ihre Ausgabe geht an die gesamte Gruppe. In einer Pair-Programming-Variante modelliert die geteilte KI die gemeinsame Aufmerksamkeit und Anstrengung des Dyaden und sagt einen Zusammenbruch bis zu 30 Sekunden voraus, und eskaliert Scaffolds in Stufen vom Nichts-Tun bis zu einem direktiven Hinweis.
 
-Ein Within-Subjects-Experiment mit 26 Dyaden fand, dass die Feedbackbedingung höheren Debugging-Erfolg erzielte (t[49.96] = −13.51, p < .0001) und schneller fertig wurde (t[44.70] = 4.39, p < .0001), obwohl sie Dual-Eye-Tracking- und Pupillometrie-Hardware verlangte und den Transfer auf unüberwachte Paararbeit nicht testete ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). Ein Quasi-Experiment mit 58 Graduierten in 16 Gruppen fand, dass Rollendesign die Mind-Map-Inhaltswerte von 3.65 auf 4.59 auf einer SOLO-Skala von 1–5 erhöhte (z = 3.771, p < 0.001), während Knoten- und Zweigzahlen flach blieben — aber ohne Kontrollgruppe können Übungseffekte nicht ausgeschlossen werden ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
+Ein Within-Subjects-Experiment mit 26 Dyaden fand, dass die Feedbackbedingung höheren Debugging-Erfolg erzielte (t[49.96] = −13.51, p < .0001) und schneller fertig wurde (t[44.70] = 4.39, p < .0001), obwohl sie Dual-[[sensor-and-gaze-analytics|Eye-Tracking]]- und Pupillometrie-Hardware verlangte und den Transfer auf unüberwachte Paararbeit nicht testete ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). Ein Quasi-Experiment mit 58 Graduierten in 16 Gruppen fand, dass Rollendesign die Mind-Map-Inhaltswerte von 3.65 auf 4.59 auf einer SOLO-Skala von 1–5 erhöhte (z = 3.771, p < 0.001), während Knoten- und Zweigzahlen flach blieben — aber ohne Kontrollgruppe können Übungseffekte nicht ausgeschlossen werden ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
 
 ### KI-assistierte Diskussion
 
@@ -153,7 +159,7 @@ Ein vorregistriertes Experiment mit 375 Erwachsenen fand, dass personalisierter 
 
 ## Kontexte und Fächer
 
-Das Muster bestimmt, was der Kontext verlangt, und mehrere Muster wurden in nur einem Setting getestet:
+Das Muster bestimmt, was der Kontext verlangt, und mehrere Muster wurden in nur einem Setting getestet. Gebündelte Schätzungen machen diese Abhängigkeit [[quantitative-research|quantitativ]]. Über 35 experimentelle und quasi-experimentelle Studien und 175 Effektstärken hinweg betrug der gebündelte Effekt generativer KI auf die akademische [[learning-gains|Leistung]] von Undergraduates g = 0,46, und das Unterrichtsmodell moderierte ihn (Q = 14,63, p = 0,001). Flipped Classrooms erreichten g = 1,96 aus 7 Effektstärken, traditionelle Klassenzimmer g = 0,46 und [[self-directed-learning|selbstgesteuertes Lernen]] g = 0,26 ([[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing et al., 2026]]). Auch die Interventionsdauer moderierte ihn, wobei der Effekt auf die akademische Leistung von g = 5,07 bei 0 bis 4 Wochen auf g = 0,01 jenseits von 12 Wochen fiel. Die Autoren behandeln die sehr großen Kurzdauer-Schätzungen als deskriptiv statt generalisierbar, sodass eine Effektstärke für „KI im Unterricht“ eine Aussage über ein Design ist, und die Muster hier sind diese Designs.
 
 - **Online und asynchron.** Abruf und Verteilung, die sokratischen Varianten, ausgearbeitete Beispiele mit Selbsterklärung, prompt-umhüllte Nutzung, asynchrone [[oral-assessment|mündliche Bewertung]], und die Lernen-durch-Lehren-Einführungen. Asynchrone Settings machen die *Sequenzierung* tragend, weil das System nicht sehen kann, ob die studierende Person zuerst versucht hat.
 - **Face-to-face und blended.** [[productive-failure|Produktives Scheitern]], Fehleranalyse, die Flipped-Varianten, mündliche Code-Review, skriptgesteuerte Zusammenarbeit, und die konzeptuellen-Wandel-Studien. Klassenzeit wird oft neu zugewiesen statt ersetzt — im Muster der mündlichen Review zogen Vorlesungen auf Video, damit Klassenzeit die Gespräche halten konnte.
@@ -186,7 +192,7 @@ Die eigenen Vorsichten des Leitfadens gelten: aufgezeichnete Videos, Reflexionen
 ## Verbreitete Fehlvorstellungen
 
 - **„Jede von KI gelieferte Übung ist Übung."** Eine adaptive Spaced-Retrieval-Bedingung erzeugte **die höchsten Nachtestwerte (M = 78,19)** und **übertraf lernendengesteuertes KI-Studium signifikant (M = 67,28)**. Die lernendengesteuerte Anordnung schnitt schlechter ab als eine strukturierte, sodass Autonomie nicht automatisch das bessere Design ist.
-- **„Mit einem Chatbot zu lernen ist besser als ohne."** Der **Kontrastfall ist entscheidend**: In einem [[rct|randomisierten Versuch]] mit **120 Studierenden** behielt die Gruppe, die **mit** uneingeschränktem ChatGPT lernte, **weniger in einem Überraschungstest**. Das Werkzeug war in der getesteten Anordnung dem Behalten abträglich.
+- **„Mit einem [[conversational-ai|Chatbot]] zu lernen ist besser als ohne.“** **Das Gegenbeispiel entscheidet es**: In einem [[rct|randomisierten Versuch]] mit **120 Studierenden** erinnerten sich diejenigen, die mit uneingeschränktem ChatGPT arbeiteten, **weniger, als sie ohne Vorwarnung getestet wurden**, als diejenigen, die es nicht taten. Das Werkzeug war in der getesteten Anordnung dem Behalten abträglich.
 - **„Die Evidenz für das Muster ist eine große gepoolte Studie."** Die **stärkste Stützung ist indirekt** und stammt aus einem **randomisierten Within-Subjects-Experiment mit 26 Studierenden**, in dem [[scaffolding]] mit unmittelbarer Antwort sich signifikant anders verhielt. Die Evidenz stützt das Muster und bleibt im Umfang dünn, und die Seite sollte so gelesen werden.
 
 ## Verbundene Konzepte
@@ -226,6 +232,7 @@ Die eigenen Vorsichten des Leitfadens gelten: aufgezeichnete Videos, Reflexionen
 
 - [[pairr-ai-peer-review-2025]] — Peer- und KI-Review + Reflexion (PAIRR): die Flaggschiff-Sequenz, N = 654 (Sperber et al. 2025)
 - [[gift-ai-pairr-business-writing-2025]] — PAIRR eingesetzt in einem Wirtschafts-Schreibkurs (MacArthur et al. 2025)
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Wie 654 Studierende den Chatbot nannten: 51,7% übernahmen die angebotenen Tutor- oder Kollaborateurrollen (Stillman et al. 2026)
 - [[ai-peer-feedback-l2-writing-engagement-2026]] — Integriertes KI-plus-Peer-Feedback erhöhte Engagement und alle vier IELTS-Dimensionen (Liu 2026)
 - [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Prompt-gerüstetes GenAI-Peer-Feedback in kollaborativer Argumentation (Chang et al. 2026)
 - [[rethinking-ai-writing-feedback-literacy|Dai (2026)]] — Studierende trainieren, KI-Feedback zu filtern und zu bewerten: die FRAC- und APCA-Bedingungen

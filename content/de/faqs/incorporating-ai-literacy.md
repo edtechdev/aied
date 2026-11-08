@@ -1,7 +1,7 @@
 ---
 title: "Wie soll ich KI-Kompetenz in meinen Kurs einbringen?"
 created: "2026-08-24T09:50:00-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
@@ -10,7 +10,7 @@ level: [higher ed]
 audience: [instructors, instructional designers]
 translation_of: faqs/incorporating-ai-literacy
 source_updated: "2026-10-28T11:06:17-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -43,7 +43,7 @@ Das Fazit: Hängen Sie einen Schritt an eine Arbeit, die Sie ohnehin bewerten, i
 
 ## Bauen Sie keine Lektion ein, sondern einen Schritt in eine Arbeit, die Sie ohnehin bewerten
 
-Der institutionelle Standardzug ist ein eigenständiges Modul, meist früh im Semester, dazu, wie große Sprachmodelle funktionieren und wie man Prompts schreibt. Die Synthese unter [[ai-literacy]] argumentiert für eine andere Anordnung: Studierende entwickeln eine nützlichere Kompetenz, wenn sie KI innerhalb authentischer Kursaufgaben nutzen, hinterfragen, prüfen, kritisieren und über sie entscheiden, und zwar wiederholt. Die Bewegung hin zur kritischen Bewertung ist dort am deutlichsten, wo diese Erfahrungen anhalten und eingebettet sind, statt einmal geliefert zu werden ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
+Der institutionelle Standardzug ist ein eigenständiges Modul, meist früh im Semester, dazu, wie große [[llm|Sprachmodelle]] funktionieren und wie man Prompts schreibt. Die Synthese unter [[ai-literacy]] argumentiert für eine andere Anordnung: Studierende entwickeln eine nützlichere Kompetenz, wenn sie KI innerhalb authentischer Kursaufgaben nutzen, hinterfragen, prüfen, kritisieren und über sie entscheiden, und zwar wiederholt. Die Bewegung hin zur kritischen Bewertung ist dort am deutlichsten, wo diese Erfahrungen anhalten und eingebettet sind, statt einmal geliefert zu werden ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
 
 Die [[quantitative-research|quantitative]] Evidenz weist in dieselbe Richtung. Eine [[liu-ai-literacy-interventions-meta-analysis-2026|Metaanalyse von 59 KI-Kompetenz-Interventionen]] fand die größten Effekte für integrierte und reflexive Pädagogik. Sie warnt zugleich, dass wissensorientierte Interventionen größere *gemessene* Effekte zeigen als solche, die auf Fähigkeiten, Haltungen oder Ethik zielen. Behalten Sie das im Blick, wenn Sie entscheiden, was Sie messen.
 
@@ -83,11 +83,11 @@ Sie müssen das Design nicht erfinden. Mehrere sind dokumentiert, und jedes ist 
 
 Studierende der Volkswirtschaftslehre lösen zuerst ein Problem, holen sich eine GenAI-Antwort, vergleichen sie mit ihrer eigenen Argumentation, kritisieren die KI, reflektieren und diskutieren dann mit Peers ([[beck-genai-literacy-economics-hands-on|Fostering Generative AI Literacy in Economics]]).
 
-Studierende der Psychologie bewerten eine von ChatGPT erzeugte Pressemitteilung gegen ein Kursraster, identifizieren die Schwächen und überarbeiten sie, was fachliche Kompetenz und Feedbackkompetenz in derselben Aufgabe entwickelt ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]).
+Studierende der Psychologie bewerten eine von ChatGPT erzeugte Pressemitteilung gegen ein Kursraster, identifizieren die Schwächen und überarbeiten sie, was fachliche Kompetenz und [[feedback-literacy|Feedbackkompetenz]] in derselben Aufgabe entwickelt ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]).
 
 Die Biologie integriert die Aktivitäten in das fachliche Lernen, statt ein separates technisches Thema zu unterrichten ([[zha-ai-literacy-biology-case-study|Integrating AI Literacy Education in a Biology Class]]). Kursarbeiten zu Datenbanken und Design nutzen die Fehleranalyse als Lernaktivität, wobei Studierende KI-generierte Fehler analysieren und Prompts und Lösungen iterativ verbessern ([[pedagogy-ai-mistakes|The Pedagogy of AI Mistakes]]). Das LearnAI-Modell bettet Just-in-Time-Ko-Kreation mit KI über Disziplinen hinweg ein, statt ein generisches Modul durchzuführen ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: Just-in-Time AI Co-Creation Across Disciplines]]).
 
-Eine Warnung kommt mit einer Zahl. Ein neu gestalteter Einführungskurs zur Elementarteilchenphysik erlaubte generative KI als ausdrücklichen Partner bei forschungsförmigen Problemen, und eine schriftliche Prüfung ohne Hilfsmittel ergab einen Mittelwert von 20.6 von 80, wobei nur zwei Studierende 40 erreichten ([[ai-particle-physics-education-redesign-2026|AI in particle physics education]]). Unterstützte Leistung und eigenständig abrufbares Wissen sind verschiedene Errungenschaften. Die Autorinnen und Autoren plädieren dafür, KI-Kompetenz früh zu vermitteln, einschließlich Prüfung und der Behandlung von KI als Lehrerin statt als Kopierer, zusammen mit gezielter Übung ohne Hilfsmittel. [[physics-education|Physikdidaktik]] hat die ausführlichere Darstellung.
+Eine Warnung kommt mit einer Zahl. Ein neu gestalteter Einführungskurs zur Elementarteilchenphysik erlaubte generative KI als ausdrücklichen Partner bei forschungsförmigen Problemen, und eine schriftliche Prüfung ohne Hilfsmittel ergab einen Mittelwert von 20.6 von 80, wobei nur zwei Studierende 40 erreichten ([[ai-particle-physics-education-redesign-2026|AI in particle physics education]]). Unterstützte Leistung und eigenständig abrufbares Wissen sind verschiedene Errungenschaften. Die Autorinnen und Autoren plädieren dafür, KI-Kompetenz früh zu vermitteln, einschließlich Prüfung und der Behandlung von KI als [[teacher-role|Lehrerin]] statt als Kopierer, zusammen mit gezielter Übung ohne Hilfsmittel. [[physics-education|Physikdidaktik]] hat die ausführlichere Darstellung.
 
 Es gibt auch eine Version, in der Studierende etwas für ein echtes Publikum herstellen. Burriss et al. ließen 22 Studierende der elften Klasse Video-Spots im Stil öffentlicher Informationskampagnen zu den KI-[[ethics|Ethik]]-Fragen produzieren, mit denen sie lebten: Überwachung in der Schule, elektronische „hall passes" und algorithmische [[academic-integrity|Plagiats]]beschuldigungen. Die Einheit stützte sich auf Critical Posthumanist Literacy und [[multimodal|multimodales Verfassen]]. Die Studierenden stellten Schaden als Ergebnis verflochtener menschlich-maschineller Verantwortung dar statt als bösartiges Werkzeug, drehten die Betrugserzählung in Richtung der Überabhängigkeit Erwachsener von fehlerhafter KI und schlossen mit [[agency|Handlungsfähigkeit]] („the solution is in our reach"). Die Autorinnen und Autoren stellen [[storytelling-in-education|Storytelling]] und kollaborative Produktion ins Zentrum [[critical-pedagogy|kritischer KI-Kompetenzpädagogik]] und argumentieren, dass das Verfassen *über* KI für ein echtes Publikum eine kritische Kompetenz entwickelt, die Kompetenzskalen nicht sehen können ([[burriss-multimodal-composition-critical-ai-literacy-2026|"Young Scholar[s] on the Beat"]]). Diese Behauptung ist ein Argument aus einer Einheit mit 22 Studierenden, lesen Sie sie also als Designidee und nicht als Effektgröße.
 
@@ -121,7 +121,7 @@ Besseres Prompting behebt das Modell nicht. In der Forschung zu kontextueller Sy
 
 KI-Kompetenz bedeutet, Prompting zu unterrichten. Prompting ist der sichtbare Teil. Studierende können mit diesen Werkzeugen technisch versiert werden und trotzdem schlechte Beurteiler dessen bleiben, was herauskommt, und der Befund zur Abhängigkeit oben weist in dieselbe Richtung.
 
-Eine Sitzung deckt das ab. Eine Sitzung kann Vokabular einführen. Die Evidenz für wiederholte Übung an echtem Kursmaterial ist stärker, und die Metaanalyse von 59 Interventionen fand die größten Effekte dort, wo die Arbeit integriert und reflexiv war.
+Eine Sitzung deckt das ab. Eine Sitzung kann Vokabular einführen. Die Evidenz für wiederholte Übung an echtem Kursmaterial ist stärker, und die [[meta-analysis-systematic-review|Metaanalyse]] von 59 Interventionen fand die größten Effekte dort, wo die Arbeit integriert und reflexiv war.
 
 Studierende, die diese Werkzeuge täglich nutzen, können Ausgaben bereits bewerten. Yan et al. fanden 76.32% von 38 Studierenden im Grundstudium in einem Ein-Runden-Muster, und die Informatik-Synthese fand Studierende signifikant schlechter darin, KI-generierten Code zu korrigieren, als bei gewöhnlichen Programmierprüfungsaufgaben. Vertrautheit mit der Oberfläche ist keine Kalibrierung.
 

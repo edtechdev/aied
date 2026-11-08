@@ -1,7 +1,7 @@
 ---
 title: Unterstützung und Erfolg von Studierenden
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -25,8 +25,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 translation_of: concepts/student-support-and-success
-source_updated: "2026-10-26T01:00:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-07T14:45:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -43,7 +43,7 @@ translation_note: "Automatische Übersetzung der englischen Seite; noch nicht vo
 
 ## Einführung
 
-Studierendenunterstützung sitzt auf der institutionellen Seite der Beziehung. Ihre Arbeit ist Beratung, Ansprache, Weitervermittlung und die Zuteilung endlicher menschlicher und finanzieller Kapazität; ihre Evidenzbasis sind Verwaltungsdaten, Einschreibungsereignisse, erworbene Credits, und ob eine Person zurückkehrt. Generative KI betrat dieses Territorium später als den Unterricht, und ein großer Teil der Literatur hier betrifft **nicht-generative** Systeme — SMS-Chatbots, Frühwarnmodelle, föderierte Risikovorhersage —, wobei generative Werkzeuge als Beraterinnen, Assistentinnen und Wissensbasis-Antworterinnen ankommen.
+Studierendenunterstützung sitzt auf der institutionellen Seite der Beziehung. Ihre Arbeit ist Beratung, Ansprache, Weitervermittlung und die Zuteilung endlicher menschlicher und finanzieller Kapazität; ihre Evidenzbasis sind Verwaltungsdaten, Einschreibungsereignisse, erworbene Credits, und ob eine Person zurückkehrt. [[generative-ai|Generative KI]] betrat dieses Territorium später als den Unterricht, und ein großer Teil der Literatur hier betrifft **nicht-generative** Systeme — SMS-[[conversational-ai|Chatbots]], Frühwarnmodelle, föderierte Risikovorhersage —, wobei generative Werkzeuge als Beraterinnen, Assistentinnen und Wissensbasis-Antworterinnen ankommen.
 
 Die Unterscheidung, die diese Seite organisiert, ist die zwischen **was ein Nudge tun kann** und **was eine Trajektorie erfordert**. Unterstützungstechnologien exzellieren bei einer datierten, binären Entscheidung: bis zu diesem Datum einschreiben, dieses Formular ausfüllen, Early Start beginnen. Sie haben weit größere Schwierigkeiten mit kumulativen Ergebnissen — Persistenz, Credits, Graduierung —, die Unterricht, Finanzen, Beschäftigung, familiäre Umstände und frühere Vorbereitung alle prägen. Die stärksten Belege der Wissensbasis dazu kommen von einer vierjährigen randomisierten Evaluation, die Einschreibung scharf bewegte und Graduierung überhaupt nicht.
 
@@ -51,15 +51,21 @@ Die Unterscheidung, die diese Seite organisiert, ist die zwischen **was ein Nudg
 
 Die Forschung clustert in fünf Funktionen, und die Clustergrenzen zählen, weil sie unterschiedliche Evidenz tragen.
 
+Ein Review von 61 Studien zu KI-gestützter Lernendenunterstützung fand das Feld konzentriert auf adaptive Systeme und Personalisierung (41 Nutzungen) sowie Profiling und Vorhersage (30), wobei Chatbots und Recommender Aufnahme und Routineanfragen abdeckten. Es fand auch die Lücken: Keine Intervention adressierte die Übergangsphase der Lernenden, und nur zwei Studien nannten eine Studierendengruppe, sodass die generische lernende Person in den meisten Systemen ein statistischer Durchschnitt war ([[cefa-ai-learner-support-review-2026|Cefa et al., 2026]]).
+
 **Ansprache und Kommunikation.** Einrichtungen kontaktieren Studierende im großen Maßstab, und die stärksten Evaluationen testen, ob es irgendetwas verändert. Eine vierjährige randomisierte Studie von CSUNny, einem nicht-generativen SMS-Chatbot an der California State University, Northridge, begleitete zwei grundständige Kohorten (N = 8.708) über acht Semester ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page, 2026]]). Eine am 31. Juli 2018 gesendete Einschreibungserinnerung machte behandelte Studierende 34 Prozentpunkte wahrscheinlicher, bis zum 16. August einzuschreiben, und nur 2 Punkte wahrscheinlicher bis zum 15. September; Early-Start-Erinnerungen erzeugten 11 Punkte mehr Einschreibung bis zum 7. Juni und 20 Punkte bis zum 22. Juni. Aufnahmebereitschaft hielt: jährliche Opt-out-Raten überschritten nie 4%. Eine vorregistrierte Mehrsemester-Studie an der Georgia State University stieß Studierende in zwei großen asynchronen Kursen (N = 1.568 und N = 915) mit zwei bis drei angepassten Nachrichten pro Woche an und hob die Chancen, ein A oder B zu erzielen, um vier Prozentpunkte gegenüber 61% der Kontrollen und verschob DFW-Raten um etwa drei Punkte in jedem Kurs ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026)]]).
 
 **Beratung und akademische Planung.** Kurs- und Notenvorhersage liefert die Planungseingabe — ein Modell sagt gemeinsam vorher, welche Kurse eine Person belegen und welche Noten sie erhalten wird ([[trace-course-grade-prediction-2026|Savala, 2026]]), und ein anderes sagt modulstufigen Fortschritt in großen Online-Programmierkursen mit einem intrinsisch interpretierbaren Entscheidungsbaum vorher ([[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska, 2026]]). Übertragbare Leistungsnachweise sind ein Beratungsproblem für sich: CourseGraph modelliert Kursinhalte als Wissensgraphen, um externe Kursäquivalenzen für mobile Studierende zu evaluieren ([[coursegraph-cs-course-comparison-2026|Nijdam et al., 2026)]]). Auf institutioneller Ebene fand ein Review von 155 Studien zu KI und Servicebereitstellung in der Hochschulbildung Learning Analytics als häufigste Anwendung mit 46 Studien (29.7%), vor Chatbots und virtuellen Assistentinnen mit 31 (20.0%) und prädiktiver Analytik mit 29 (18.7%) ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga, 2026]]).
 
 **Weitervermittlung und Unterstützungszuteilung.** Vorhersage ist kein Plan, und die Lücke zwischen ihnen ist da, wo die schärfste Kritik des Felds sitzt. SC2R formalisiert sie als **Machbarkeitslücke**: ein Risikowert wird nur dann zu Entscheidungsunterstützung, wenn seine Empfehlungen semantisch machbar und maschinell prüfbar sind — begrenzt durch Timing, Budget, Unveränderbarkeit und Verfügbarkeit statt bloß modellvalid ([[sc2r-counterfactual-recourse-educational-2026|Le, Abel & Laforge, 2026)]]). Ob Modelle Unterstützung gut zuteilen können, ist empirisch umstritten: gebeten, Unterstützungspläne für 4.500 synthetische Studierenden-Vignetten zu empfehlen, zeigten drei LLMs begrenzte Sensitivität für studentischen Bedarf und scharfe Inkonsistenz über Modelle hinweg ([[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al., 2026]]).
 
-**Zugang zu akademischer Unterstützung.** Kursspezifische Retrieval-Systeme zielen auf die Studierenden, die am wenigsten wahrscheinlich einen Menschen fragen. Beacon, gebaut aus den freigegebenen Materialien eines einzelnen Programmiermoduls, zog hohe Relevanzbewertungen (89%) und wurde von den meisten Studierenden so beurteilt, ihr Lernen zu stützen statt zu ersetzen (66.7%), in einer kleinen Evaluation mit 15 Studierenden und 4 Wissenschaftlerinnen und Wissenschaftlern ([[course-specific-rag-help-seeking-higher-ed-2026|Zhou et al., 2026)]]). Tutoring-Inanspruchnahme ist ihr eigenes Problem: Eine zweijährige randomisierte Studie einer virtuellen Tutoring-Schicht für kämpfende Studierende musste Inanspruchnahme getrennt von Lernen testen, weil die Studierenden zu erreichen, die Unterstützung brauchen, nicht dasselbe ist wie sie bereitzustellen ([[virtual-tutoring-computer-assisted-learning-takeup-2026|Fryer et al., 2026)]]).
+**Zugang zu akademischer Unterstützung.** Kursspezifische Retrieval-Systeme zielen auf die Studierenden, die am wenigsten wahrscheinlich einen Menschen fragen. Beacon, gebaut aus den freigegebenen Materialien eines einzelnen Programmiermoduls, zog hohe Relevanzbewertungen (89%) und wurde von den meisten Studierenden so beurteilt, ihr Lernen zu stützen statt zu ersetzen (66.7%), in einer kleinen Evaluation mit 15 Studierenden und 4 Wissenschaftlerinnen und Wissenschaftlern ([[course-specific-rag-help-seeking-higher-ed-2026|Zhou et al., 2026)]]). Tutoring-Inanspruchnahme ist ihr eigenes Problem: Eine zweijährige [[rct|randomisierte Studie]] einer virtuellen Tutoring-Schicht für kämpfende Studierende musste Inanspruchnahme getrennt von Lernen testen, weil die Studierenden zu erreichen, die Unterstützung brauchen, nicht dasselbe ist wie sie bereitzustellen ([[virtual-tutoring-computer-assisted-learning-takeup-2026|Fryer et al., 2026)]]).
 
 **Administrative Assistenz.** Leitung und Administration werden als eigene Anwendungsdomäne untersucht, mit einer Taxonomie aus zehn Domänen, die kartiert, wo KI in der Bildungsleitung ankommt ([[sposato-ai-educational-leadership-taxonomy-2025|Sposato, 2025]]). Von Einrichtungen betriebene Dienste reichen über Beratung hinaus in die Gesundheit: ein integriertes Campus-Wohlbefindens-Framework paart Prävention — verbessern, wie Feedback erhoben wird — mit Intervention durch Erkennung psychischer Gesundheit ([[ai-campus-wellbeing-tools|Tang, 2026]]). Beglaubigung sitzt daneben: Wenn ein Agent einen Kurs im Namen einer Person abschließen kann, verliert ein Zertifikat, das „erworben“ sagt, seine Bedeutung, was Abschlussaufzeichnungen zu einem Designproblem macht ([[credentials-carry-evidence-ai-agents-2026|Srivastava, 2026)]]).
+
+**Ein hausinterner Assistent konkurriert mit dem öffentlichen Chatbot über Verfügbarkeit, nicht über Fähigkeit.** In fünf Co-Design-Studien an der Open University (315 Studierende, 20 Beschäftigte) war das stärkste Argument des vorgeschlagenen i-AIDA der Rund-um-die-Uhr-Zugang, dem 73 % einer Befragung von 96 Studierenden zustimmten, und die direkte Nutzung verschob die Nachfrage von 9 von 18 Studierenden auf 16 von 18 (d = .81) ([[rienties-institutional-ai-assistant-co-design-2026|Rienties et al., 2026]]). Studierende bewerteten ihn mit 7,58 von 10 gegenüber anderen generativen Werkzeugen, während rund 10–15 % aus Wertgründen statt aus Gründen der Nutzbarkeit Einspruch erhoben und KI-gestütztes Studieren als Verwässerung legitimen Lernens bezeichneten.
+
+Was ein KI-Unterstützungskanal verdrängt, verdient dieselbe Bilanz. Über vier Studien (N = 249, 494, 743 und 737) erhöhte der Glaube an die Fähigkeit von KI, emotionale Unterstützung zu leisten, die Bereitschaft, diese Unterstützung an sie auszulagern, und der Effekt lief vollständig über die wahrgenommene Kapazität (Gesamteffekt c = 0,83; indirekter Effekt ab = 0,73) ([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]). Auf einem Verhaltensmaß wählten Teilnehmende, die angaben, nicht auszulagern, weniger Empathiewörter, sodass die Weiterleitung von Studierenden an einen KI-Wohlbefindenskanal menschliche Unterstützung subtrahieren kann, was [[self-report-measures|Selbstauskunft]] nicht zeigt.
 
 ## Von Vorhersage zu Unterstützung
 
@@ -83,7 +89,7 @@ Die Erklärung der Autoren für das Muster ist die zentrale Behauptung der Seite
 
 ## Gerechtigkeit und die Risiken, auf einen Wert hin zu handeln
 
-Unterstützungssysteme handeln an Studierenden, was ihre Fehlermodi von denen eines Tutors unterscheidet. Ein Stresstest von sechs Post-hoc-Fairness-Interventionen auf einem replizierten anbieterkontrollierten Frühwarnsystem, gebaut aus 168.550 Studierendendatensätzen, fand die Interventionen dabei, wie sie die versprochene Fairness nicht liefern ([[fairness-theatre-early-warning-systems-2026|McConvey et al., 2026)]]). Ein Review aus Studierendenanwaltschaft organisiert die Risikooberfläche rund um Zulassung, Rekrutierung und Finanzhilfe, und **Studierendenerfolgs-Dienste** — die Bereiche, in denen institutionelle KI am direktesten auf Studierende wirkt ([[students-at-stake-ai-deployment-risks-2026|Student Defense, 2026]]). Datenschutz und Gerechtigkeit sind hier strukturell statt nebensächlich: föderiertes Lernen existiert, weil das Teilen von Studierendendaten über Einrichtungen hinweg inakzeptabel ist, und die Human-in-the-Loop-Komponente im CSUN-Programm — Administrierende, die beantworten, was der Chatbot nicht konnte, und die Antwort dann in seine Wissensbasis zurückführen —, ist das, was die Autoren argumentieren, die Studierenden erreicht, die E-Mail und Telefon ignorieren.
+Unterstützungssysteme handeln an Studierenden, was ihre Fehlermodi von denen eines Tutors unterscheidet. Ein Stresstest von sechs Post-hoc-Fairness-Interventionen auf einem replizierten anbieterkontrollierten Frühwarnsystem, gebaut aus 168.550 Studierendendatensätzen, fand die Interventionen dabei, wie sie die versprochene Fairness nicht liefern ([[fairness-theatre-early-warning-systems-2026|McConvey et al., 2026)]]). Ein Review aus Studierendenanwaltschaft organisiert die Risikooberfläche rund um Zulassung, Rekrutierung und Finanzhilfe, und **Studierendenerfolgs-Dienste** — die Bereiche, in denen institutionelle KI am direktesten auf Studierende wirkt ([[students-at-stake-ai-deployment-risks-2026|Student Defense, 2026]]). Datenschutz und Gerechtigkeit sind hier strukturell statt nebensächlich: föderiertes Lernen existiert, weil das Teilen von Studierendendaten über Einrichtungen hinweg inakzeptabel ist, und die [[human-in-the-loop-ai|Human-in-the-Loop]]-Komponente im CSUN-Programm — Administrierende, die beantworten, was der Chatbot nicht konnte, und die Antwort dann in seine Wissensbasis zurückführen —, ist das, was die Autoren argumentieren, die Studierenden erreicht, die E-Mail und Telefon ignorieren.
 
 ## Die institutionellen Bedingungen
 
@@ -125,6 +131,7 @@ Studierendenunterstützung verbindet sich mit [[student-experience|Erleben der S
 - [[rct]] — das Design hinter der stärksten Evidenz hier
 
 ## Verbundene Artikel
+- [[cefa-ai-learner-support-review-2026]] — 61-Studien-Review zu KI-gestützter Lernendenunterstützung: adaptive Systeme und Vorhersage dominieren; Übergangsphase und vielfältige Lernende fehlen
 - [[mata-sustaining-ai-enabled-student-support-2026]] — vierjährige randomisierte Evaluation eines Unterstützungs-Chatbots an einer Hochschule: der Aufgabenabschluss bewegte sich, Studienabschluss und GPA nicht
 - [[chatbot-outreach-course-performance-2026]] — vorregistrierter Outreach-Versuch über mehrere Semester: höhere A/B-Raten, bescheidene DFW-Verschiebungen, eine demografische Ausnahme
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — 4.500 synthetische Vignetten: begrenzte Sensitivität für das Bedürfnis der Studierenden und inkonsistente Unterstützungsempfehlungen zwischen Modellen
@@ -144,6 +151,12 @@ Studierendenunterstützung verbindet sich mit [[student-experience|Erleben der S
 - [[sposato-ai-educational-leadership-taxonomy-2025]] — Zehn-Domänen-Taxonomie von KI in der Bildungsführung
 - [[students-at-stake-ai-deployment-risks-2026]] — Risikofläche aus Studierendensicht: Zulassung und Förderung, Dienstleistungen für Studienerfolg und Unterricht
 - [[ai-campus-wellbeing-tools]] — Unterstützung des Wohlbefindens auf dem Campus von Prävention bis Intervention
+
+- [[shastry-gray-empathy-offloading-2026]] — Vier Studien zum Empathie-Auslagern: der Glaube, KI könne emotionale Unterstützung bieten, senkt, was Menschen selbst bieten (Shastry & Gray 2026)
+
 - [[coursegraph-cs-course-comparison-2026]] — Kursequivalenz für Anrechnung von Leistungen und Mobilität
 - [[credentials-carry-evidence-ai-agents-2026]] — was ein Abschlussnachweis bedeutet, wenn ein Agent die Arbeit erledigen kann
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — KI-gestütztes Schummelrisiko früh vorhersagen und den Schwellenwert-Kompromiss bei Outreach mit geringer Relevanz
+
+- [[rienties-institutional-ai-assistant-co-design-2026]] — Fünf Co-Design-Studien zu einem institutionellen KI-Studienassistenten: Verfügbarkeit zuerst, wertebasierter Widerstand zuletzt
+

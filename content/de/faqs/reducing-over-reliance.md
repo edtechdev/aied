@@ -1,7 +1,7 @@
 ---
 title: "Wie halte ich Studierende davon ab, übermäßig von KI abhängig zu werden?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 weight: 80
 type: faq
@@ -14,7 +14,7 @@ audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
 translation_of: faqs/reducing-over-reliance
 source_updated: "2026-10-28T11:14:24-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -45,7 +45,7 @@ Das Fazit: Überabhängigkeit ist überwiegend ein Platzierungsproblem. Die Desi
 
 **5.** Timen Sie den Reflexions-Prompt auf die Phase der Aufgabe, die er noch verändern kann.
 
-**6.** Sehen Sie sich an, wen Ihr Design zurücklässt – nach Vorwissen, nicht nach Durchschnitt.
+**6.** Sehen Sie sich an, wen Ihr Design zurücklässt – nach [[prior-knowledge|Vorwissen]], nicht nach Durchschnitt.
 
 ## Entscheiden Sie, ob Sie ein Problem haben oder nur intensive Nutzung
 
@@ -63,7 +63,7 @@ Verhaltensinstrumente sind dünner. [[pause-ai-cognitive-offloading-self-reflect
 
 ## Setzen Sie den Versuch der Studierenden vor das Werkzeug
 
-Die klarste getestete Abfolge ist „zuerst denken, ChatGPT später". [[think-first-chatgpt-later-2026|Wong und Qiu (2026)]] teilten N = 196 Studierende zu, entweder eigenständig zu arbeiten, ChatGPT frei zu nutzen oder in einer regulierten Bedingung zu arbeiten: eigene Ideen generieren, mit ChatGPT zusammenarbeiten, um sie zu verbessern und zu bewerten, dann eigenständig eine Lösung verfeinern und einreichen. Die Freinutzungsgruppe erzeugte mehr kreative Arbeit bei der unterstützten Aufgabe und fiel bei einer späteren, härteren Aufgabe, die ohne ChatGPT erledigt wurde, auf das Niveau rein menschlicher Arbeit zurück. Die regulierte Gruppe zeigte keinen unmittelbaren Vorteil und übertraf danach beide anderen Gruppen bei eigenständiger Kreativität.
+Die klarste getestete Abfolge ist „zuerst denken, [[generative-ai|ChatGPT]] später". [[think-first-chatgpt-later-2026|Wong und Qiu (2026)]] teilten N = 196 Studierende zu, entweder eigenständig zu arbeiten, ChatGPT frei zu nutzen oder in einer regulierten Bedingung zu arbeiten: eigene Ideen generieren, mit ChatGPT zusammenarbeiten, um sie zu verbessern und zu bewerten, dann eigenständig eine Lösung verfeinern und einreichen. Die Freinutzungsgruppe erzeugte mehr kreative Arbeit bei der unterstützten Aufgabe und fiel bei einer späteren, härteren Aufgabe, die ohne ChatGPT erledigt wurde, auf das Niveau rein menschlicher Arbeit zurück. Die regulierte Gruppe zeigte keinen unmittelbaren Vorteil und übertraf danach beide anderen Gruppen bei eigenständiger [[creativity|Kreativität]].
 
 Die Prompt-Daten erklären den Unterschied. In der regulierten Gruppe waren 88.6% der Prompts kollaborativ, und das war der einzige Prompttyp, der signifikant mit späterer eigenständiger Originalität korrelierte. In der Freinutzungsgruppe waren 70.9% der Prompts nicht-kollaborativ, und 59.6% baten ChatGPT schlicht darum, Ideen direkt zu generieren. Dasselbe Werkzeug, auf zwei verschiedene Weisen gefragt, erzeugte zwei verschiedene Lernende.
 
@@ -79,7 +79,7 @@ Zwei Details im Unterricht entscheiden, ob die Abfolge hält. Das erste ist die 
 
 Praktisch heißt das: gehütete KI in der Mitte der Aufgabe, wo Hinweise, ausgearbeitete Beispiele und Übungsitems die Arbeit tun, und eine gesicherte Prüfung am Ende. Es verwandelt außerdem eine KI-Nutzungsrichtlinie in eine Platzierungsregel pro Fertigkeit, die leichter zu schreiben und leichter zu verteidigen ist als eine Liste von Verboten.
 
-Ein Hinweis ist eine Frage nach dem nächsten Schritt der Studierenden, ein ausgearbeitetes Beispiel für eine ähnliche Aufgabe oder ein Verweis auf die relevante Passage. Eine Antwort ist ein fertiger Satz, den die Studierende einfügen kann. Die meisten Allzweck-Chatbots erzeugen standardmäßig das Zweite, in flüssiger Prosa, die wie Hilfe klingt – weshalb die Konfiguration mehr zählt als die Absichten der Studierenden.
+Ein Hinweis ist eine Frage nach dem nächsten Schritt der Studierenden, ein ausgearbeitetes Beispiel für eine ähnliche Aufgabe oder ein Verweis auf die relevante Passage. Eine Antwort ist ein fertiger Satz, den die Studierende einfügen kann. Die meisten Allzweck-[[conversational-ai|Chatbots]] erzeugen standardmäßig das Zweite, in flüssiger Prosa, die wie Hilfe klingt – weshalb die Konfiguration mehr zählt als die Absichten der Studierenden.
 
 ## Verlangen Sie die Prüfung und machen Sie sie sichtbar
 
@@ -101,7 +101,7 @@ Wählen Sie einen Fehler, der bescheiden und prüfbar ist, etwa eine Zitation, d
 
 Das unterstützte Produkt ist ein schlechter Stellvertreter für Können, also muss mindestens ein bewerteter Moment ohne das Werkzeug stattfinden. [[think-first-chatgpt-later-2026|Wong und Qius (2026)]] spätere Aufgabe ohne Unterstützung ist diese Messung. Ihre rein menschliche Gruppe fiel bei der härteren Nachfolgeaufgabe ebenfalls ab, was die einfache Version der Lösung ausschließt: das Werkzeug zu entfernen, ohne die Lernenden zu unterstützen, ist keine Intervention.
 
-Abwechselnde Modi haben Belege. PAUSE berichtet Kosmyna et al.s (2025) Ergebnis aus der vierten Sitzung, in dem Teilnehmende, die ausschließlich mit dem Kopf arbeiteten und später ChatGPT nutzten, dauerhafte LLM-Nutzende übertrafen. Rechenschaftspflicht wirkt auch über Erklärung: Makransky et al. (2025) fanden, dass ein Tutoring-Chatbot, der Studierende dazu anhielt, Ideen zu verbinden und ihre Argumentation zu erklären, bessere Prüfungsleistungen erzeugte als traditionelle Lehre.
+Abwechselnde Modi haben Belege. PAUSE berichtet Kosmyna et al.s (2025) Ergebnis aus der vierten Sitzung, in dem Teilnehmende, die ausschließlich mit dem Kopf arbeiteten und später ChatGPT nutzten, dauerhafte [[llm|LLM]]-Nutzende übertrafen. Rechenschaftspflicht wirkt auch über Erklärung: Makransky et al. (2025) fanden, dass ein Tutoring-Chatbot, der Studierende dazu anhielt, Ideen zu verbinden und ihre Argumentation zu erklären, bessere Prüfungsleistungen erzeugte als traditionelle Lehre.
 
 Für einen Kurs heißt das: abwechseln – unterstützte Arbeit im Üben, unbegleitete Arbeit dort, wo es zählt. Lesen Sie das unterstützte Stück als Protokoll einer Leistung unter guten Bedingungen und das unbegleitete Stück als Beleg über das Lernen. Beides zu vergleichen ist auch das nützlichste Gespräch, das Sie mit einer Studierenden führen können, die eine Note nicht versteht.
 
@@ -131,7 +131,7 @@ Die Formulierung des Prompts zählt weniger als seine Position. Fragen Sie vor e
 
 ## Rechnen Sie damit, dass sich das Risiko ballt
 
-[[lodge-loble-cognitive-offloading-2026|Lodge und Loble (2026)]] verorten das Risiko in Vorwissen und Selbstregulation und benennen eine **metakognitive Gerechtigkeitslücke**: KI gut zu nutzen verlangt Ressourcen, die Novizen fehlen, also sind die Studierenden, die die Übung am meisten brauchen, die wahrscheinlichsten, das Lernen selbst zu delegieren. Sie berichten, dass 80% der australischen Studierenden KI bereits nutzen und dass zwei Drittel der Lehrkräfte in der frühen Sekundarstufe es tun (OECD 2025).
+[[lodge-loble-cognitive-offloading-2026|Lodge und Loble (2026)]] verorten das Risiko in Vorwissen und Selbstregulation und benennen eine **metakognitive [[equity-in-ai-education|Gerechtigkeitslücke]]**: KI gut zu nutzen verlangt Ressourcen, die Novizen fehlen, also sind die Studierenden, die die Übung am meisten brauchen, die wahrscheinlichsten, das Lernen selbst zu delegieren. Sie berichten, dass 80% der australischen Studierenden KI bereits nutzen und dass zwei Drittel der Lehrkräfte in der frühen Sekundarstufe es tun (OECD 2025).
 
 Alter und Gewohnheit korrelieren mit demselben Muster. [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] fand, dass Teilnehmende im Alter von 17–25 höhere KI-Abhängigkeit und Auslagerung sowie niedrigeres kritisches Denken zeigten als jene im Alter von 46 und darüber, und dass der Bildungsabschluss besseres kritisches Denken unabhängig von der KI-Nutzung vorhersagte (r = +0.34), mit einer signifikanten Interaktion, die zeigt, dass der Abschluss den negativen Effekt abmildert. [[genai-over-reliance-learning-2026|Gao, Sun und Khan (2026)]] fanden, dass Polychronizität, eine Neigung zum Multitasking, den Pfad moderiert, wobei Studierende mit hoher Polychronizität stärker gefährdet sind.
 
@@ -143,27 +143,27 @@ Kontext zählt so viel wie Person, und Ihr Kurs steuert einen Teil des Kontexts.
 
 Nichts in diesem Korpus prüft, ob eine bestimmte Intervention gegen Überabhängigkeit über Settings oder Semester hinweg hält. Das Zuerst-Denken ruht auf einem Experiment mit N = 196. Das Zurückhaltungsergebnis stammt aus der Synthese von [[brcic-effortless-trap-productive-struggle-2026|Brcic und Frljic (2026)]] und nicht aus einer eigenen Studie. Das Reibungsargument ist ein konzeptioneller Kommentar ohne neue Daten. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] benennt die Grenzen des Modells: exogene stationäre KI-Qualität, ein festes Netzwerk, stilisierte Verifikation. Die realen Werte zu schätzen, bräuchte longitudinale Spuren der Verifikationsraten pro Aufgabe, der Stärke des sozialen Beweises und der Art, wie Vertrauen sich nach verifizierter gegenüber unverifizierter Nutzung aktualisiert.
 
-Die Messung bleibt das schwächste Glied. Befragungsdesigns dominieren, und sowohl [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] als auch [[genai-over-reliance-learning-2026|Gao, Sun und Khan (2026)]] fordern longitudinale und experimentelle Nachfolgearbeiten. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] hat keine Psychometrie und wurde für Erwachsene gebaut. Ob die Gerechtigkeitslücke durch Unterweisung geschlossen werden kann, ist theoretisiert statt gezeigt.
+Die Messung bleibt das schwächste Glied. Befragungsdesigns dominieren, und sowohl [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] als auch [[genai-over-reliance-learning-2026|Gao, Sun und Khan (2026)]] fordern longitudinale und experimentelle Nachfolgearbeiten. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] hat keine [[educational-measurement|Psychometrie]] und wurde für Erwachsene gebaut. Ob die Gerechtigkeitslücke durch Unterweisung geschlossen werden kann, ist theoretisiert statt gezeigt.
 
 Damit bleibt Ihnen eine vernünftige Wette, günstig gemacht. Ändern Sie eine Aufgabe, behalten Sie die unbegleitete Messung und prüfen Sie, ob die Lücke zwischen unterstützter und unbegleiteter Arbeit kleiner wird. Bauen Sie keinen Kurs auf der Kraft dieser Zahlen um.
 
 ## Was Lehrende hier falsch machen
 
-**Die Studierenden, die es am meisten nutzen, sind die in Schwierigkeiten.** Häufigkeit ist das, was Befragungen erfassen und Dashboards anzeigen, und sie ist nicht das Konstrukt. Eine Studierende, die jede Antwort prüft und Ihre Materialien zitiert, kann KI täglich nutzen und damit gut fahren. Eine Studierende, die einmal pro Woche die erste Ausgabe einreicht, hat das Problem.
+**Die Studierenden, die es am meisten nutzen, sind die in Schwierigkeiten.** Häufigkeit ist das, was Befragungen erfassen und [[visualization|Dashboards]] anzeigen, und sie ist nicht das Konstrukt. Eine Studierende, die jede Antwort prüft und Ihre Materialien zitiert, kann KI täglich nutzen und damit gut fahren. Eine Studierende, die einmal pro Woche die erste Ausgabe einreicht, hat das Problem.
 
 **Ein Verbot beseitigt das Risiko.** Die stärksten Ergebnisse hier kommen aus der Platzierung, und der rein menschliche Arm von Wong und Qius Experiment fiel bei der härteren Nachfolgeaufgabe ebenfalls ab. Das Werkzeug zu entfernen, ohne die Lernenden zu unterstützen, lässt die Schwierigkeit, wo sie war.
 
-**Billigeres Prüfen behebt die Verifikation.** Das Prüfen einfacher zu machen, war der schwächste Hebel in Biswass Modell, weil das Hindernis sozial ist. Ein besserer Plagiatsprüfer bringt eine Studierende nicht dazu, die Quelle zu lesen.
+**Billigeres Prüfen behebt die Verifikation.** Das Prüfen einfacher zu machen, war der schwächste Hebel in Biswass Modell, weil das Hindernis sozial ist. Ein besserer [[academic-integrity|Plagiatsprüfer]] bringt eine Studierende nicht dazu, die Quelle zu lesen.
 
 **Ein Nutzungs-Dashboard zeigt mir, wer auslagert.** Die Items von PAUSE halten fest, wann und wie oft KI einen Workflow betritt, und die Autorinnen und Autoren benennen das Validitätsproblem selbst. Eine sorgfältige Person, die scaffoldet, punktet als auslagernd; nach diesen Zahlen zu handeln, bestraft also die Studierenden, die Sie behalten wollen.
 
 **Flüssigkeit und Zufriedenheit zeigen, dass das Design funktioniert.** Das ist die Illusion, die [[lodge-loble-cognitive-offloading-2026|Lodge und Loble (2026)]] in ihrem Leistungsparadox beschreiben: Die Arbeit fühlt sich flüssig an und Studierende schneiden im Moment gut ab, während sie weniger behalten. Unbegleitete Leistung und verzögerter [[transfer-of-learning|Transfer]] sind die Maße, die die Frage beantworten.
 
-**Bringen Sie den Studierenden KI-Kompetenz bei, und das Problem verschwindet.** [[lodge-loble-cognitive-offloading-2026|Lodge und Loble (2026)]] warnen, dass eine Überinvestition in KI-Kompetenz auf der Seite der Studierenden angesichts dessen, was Novizen fehlt, die falsche Allokation sein könnte.
+**Bringen Sie den Studierenden [[ai-literacy|KI-Kompetenz]] bei, und das Problem verschwindet.** [[lodge-loble-cognitive-offloading-2026|Lodge und Loble (2026)]] warnen, dass eine Überinvestition in KI-Kompetenz auf der Seite der Studierenden angesichts dessen, was Novizen fehlt, die falsche Allokation sein könnte.
 
 ## Was Ihnen entgegenkommen wird
 
-**„Das ist einfach gute Pädagogik mit einem neuen Namen."** Teilweise. Scaffolding, formatives Feedback und produktives Ringen sind alte Ideen. Neuer ist die Reihenfolge: sichtbare Verifikation schlug billigere Verifikation, und die zwei Momente, die Schutz verdienen, sind der erste harte Versuch und die abschließende unbegleitete Prüfung. Tun Sie die vertrauten Dinge in der neuen Reihenfolge.
+**„Das ist einfach gute [[pedagogy|Pädagogik]] mit einem neuen Namen."** Teilweise. [[scaffolding]], formatives Feedback und produktives Ringen sind alte Ideen. Neuer ist die Reihenfolge: sichtbare Verifikation schlug billigere Verifikation, und die zwei Momente, die Schutz verdienen, sind der erste harte Versuch und die abschließende unbegleitete Prüfung. Tun Sie die vertrauten Dinge in der neuen Reihenfolge.
 
 **„Ich kann das nicht kontrollieren."** Können Sie nicht, und die Belege sagen, Sie sollen es nicht versuchen. Die Platzierung erzeugte das stärkste Ergebnis. Gestalten Sie die Aufgabe so, dass die Nutzung des Werkzeugs im falschen Moment in der Arbeit selbst auftaucht – als eine Antwort, die die Studierende nicht erklären kann, oder als ein fehlender Verifikationsschritt.
 

@@ -1,7 +1,7 @@
 ---
 title: "Was sind Best Practices für Schreibunterweisung im Kontext von KI?"
 created: "2026-09-12T08:13:03-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
@@ -10,8 +10,8 @@ weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-06T13:58:13-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -26,7 +26,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-Sie überarbeiten ein Aufgabenblatt, und der Satz vor Ihnen besagt, dass KI mit Quellenangabe erlaubt ist – was einer studierenden Person nichts darüber sagt, ob das Werkzeug das Argument liefern darf. Eine Kollegin hat ein kursweites Verbot vorgeschlagen, und Sie vermuten, dass es die mehrsprachigen Schreibenden im Raum am härtesten trifft. Oder ein Stapel Aufsätze kam glatter zurück als die Seminarsitzung, die dahinterlag, und Sie brauchen eine Regel, die Sie im nächsten Curriculumsausschuss verteidigen können.
+Sie überarbeiten ein Aufgabenblatt, und der Satz vor Ihnen besagt, dass KI mit Quellenangabe erlaubt ist – was einer studierenden Person nichts darüber sagt, ob das Werkzeug das Argument liefern darf. Eine Kollegin hat ein kursweites Verbot vorgeschlagen, und Sie vermuten, dass es die mehrsprachigen Schreibenden im Raum am härtesten trifft. Oder ein Stapel Aufsätze kam glatter zurück als die Seminarsitzung, die dahinterlag, und Sie brauchen eine Regel, die Sie im nächsten [[curriculum-design|Curriculumsausschuss]] verteidigen können.
 
 **Das Fazit:** Benennen Sie die intellektuelle Arbeit, für die es die Aufgabe gibt, lassen Sie diesen Schritt bei der studierenden Person, und geben Sie dem Werkzeug Aufgaben, die etwas zurückgeben, das die studierende Person beurteilen muss. Eine so formulierte Regel sagt einer studierenden Person, welchen Schritt sie schützt.
 
@@ -82,7 +82,7 @@ Eine Abfolge, die es wert ist, übernommen zu werden, hält KI in einer beratend
 | **8. Überarbeiten** | Substanzielle Änderungen vornehmen und begründen | Klarheit prüfen, Alternativen anbieten | Überarbeitung |
 | **9. Verifizieren** | Jede faktische oder quellenabhängige Behauptung prüfen | Kann die eigene Ausgabe nicht verifizieren | Quellen und Belege |
 | **10. Reflektieren und offenlegen** | Die Rolle der KI erklären und was sich in ihrem Denken verändert hat | Nichts | Kurze Prozessreflexion |
-| **11. Unabhängige Prüfung** | Das Schlussfolgern ohne KI erklären oder anwenden | Nichts | Mündliche Verteidigung, Kurztext, neuer Fall |
+| **11. Unabhängige Prüfung** | Das Schlussfolgern ohne KI erklären oder anwenden | Nichts | [[oral-assessment|Mündliche Verteidigung]], Kurztext, neuer Fall |
 
 Dies ist eine Erweiterung von [[pairr-ai-peer-review-2025|PAIRR]]: Entwurf, menschliches Feedback, KI-Feedback, Vergleich, Überarbeitung, Reflexion, mit einer unabhängigen Baseline und einer engeren Grenze um das Schlussfolgern. Nutzen Sie die mittlere Spalte als Aufgabe und die rechte Spalte als das, worauf eine Note ruhen kann.
 
@@ -93,6 +93,8 @@ Elf Zeilen sind mehr, als die meisten Aufgaben brauchen. Reduzieren Sie die Tabe
 Die größte Unterrichtsstudie hier ist [[pairr-ai-peer-review-2025|PAIRR]]: 654 Studierende in zehn Schreibkursen und drei schreibintensiven [[stem-education|STEM]]-Kursen. Sie entwarfen, absolvierten [[peer-assessment|Peer-Bewertung]], holten rubrikbasiertes KI-Feedback ein, verglichen und bewerteten beide Quellen, schrieben Überarbeitungspläne, überarbeiteten und reflektierten. 58 Prozent bevorzugten kombiniertes Peer- und KI-Feedback. 6 Prozent bevorzugten KI-Feedback allein. Studierende fanden KI nützlich für breite, rubrikorientierte Überarbeitungshinweise, und Peers lieferten Kontextwissen und eine authentische Publikumsreaktion.
 
 Seien Sie präzise bei der Behauptung. PAIRR maß die Erfahrung und die Bewertung von Feedback durch Studierende, nicht langfristige [[learning-gains|Lernzuwächse]]; es ist also ein starker Beleg für ein Feedback-Design und ein schwächerer Beleg dafür, dass sich das Schreiben Monate später verbessert. Behalten Sie den Peer-Schritt, auch wenn der KI-Schritt schneller ist. Ein Großteil der Arbeit an [[feedback]] findet im Vergleich zwischen den beiden Quellen statt, und ihn wegzulassen entfernt genau den Teil, den Studierende nach eigener Aussage wertschätzten.
+
+Das Werkzeug selbst lässt sich so gestalten, dass es den Schritt des Schlussfolgerns schützt. [[favero-thinking-not-writing-chatbot-2026|Favero et al. (2026)]] bauten MAIKE, einen [[socratic-method|sokratischen]] Chatbot, der Argumente diagnostiziert und gezielte Fragen stellt, ohne Aufsatztext zu erzeugen. In einer Unterrichtsstudie mit 65 Lernenden der Sekundarstufe verbrachten MAIKE-Nutzende mehr Züge im Dialog auf Ideenebene als die Kontrollgruppe (56 % vs. 44 %) und wechselten zwischen Diskussion und Editieren; etwa 40 % der Studierenden verbesserten ihre Aufsatzpunktzahlen. Die Studie zeigte keinen allgemeinen Notenvorteil gegenüber der Kontrolle, sodass sie als Designdemonstration dafür zu behandeln ist, wie Gespräch und Überarbeitung verbunden werden, nicht als Beleg dafür, dass der Chatbot die Schreibqualität hebt.
 
 ## Bewerten Sie, was die studierende Person mit dem Feedback getan hat
 

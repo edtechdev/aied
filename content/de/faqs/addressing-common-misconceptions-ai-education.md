@@ -1,7 +1,7 @@
 ---
 title: "Wie können wir verbreitete Fehlvorstellungen über KI in der Bildung ausräumen?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-07T20:28:28-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
@@ -12,8 +12,8 @@ weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-06T03:00:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -32,7 +32,7 @@ Ihre Vizepräsidentin möchte ein einseitiges Blatt „KI-Mythen" für die Fakul
 
 Jede Überzeugung auf dieser Seite beginnt mit etwas, das eine vernünftige Person gesehen hat. Flüssige Prosa liest sich tatsächlich als zutreffend. Eine polierte Einreichung sieht tatsächlich nach Lernen aus. Ein Tutor, der die Frage beantwortet, fühlt sich tatsächlich wie Hilfe an, und eine Richtlinie mit dem Wort „verboten" darin fühlt sich tatsächlich wie eine Entscheidung an. Die Korrektur, die funktioniert, benennt, was die Beobachtung Ihnen nicht sagen kann, und übergibt dann eine Prüfung, die die Person am Montag laufen lassen kann.
 
-Die Antwort, die Sie einer Kollegin in einem Atemzug geben: Die Bildungswirkung von KI hängt davon ab, wer sie nutzt, für welche Aufgabe, welches Denken das Werkzeug ausführt, welche Verantwortung bei der Person bleibt und wie das Lernen bewertet wird. Selbstsicherheit, Geschwindigkeit, Engagement und Aufgabenerledigung sind Merkmale der Nutzung. Keines davon ist ein Beleg dafür, dass sich die Fähigkeit verändert hat.
+Hier ist die Antwort in einem Atemzug: Die Bildungswirkung von KI hängt davon ab, wer sie nutzt, für welche Aufgabe, welches Denken das Werkzeug ausführt, welche Verantwortung bei der Person bleibt und wie das Lernen bewertet wird. Selbstsicherheit, Geschwindigkeit, Engagement und Aufgabenerledigung sind Merkmale der Nutzung. Keines davon ist ein Beleg dafür, dass sich die Fähigkeit verändert hat.
 
 ## Die kurze Version
 
@@ -66,7 +66,7 @@ Durchschnitte verbergen genau die Variation, die eine Gerechtigkeitsfrage entsch
 
 ### „Sie berichteten, dass sie viel gelernt haben."
 
-Selbstauskunft misst Wahrnehmung, Akzeptanz, Angst und [[self-efficacy]], und sie ist in allen vier Bereichen gut. Sie ist kein Maß für nachgewiesene Fähigkeit, weil Menschen selbstsicher und falsch liegen können oder kompetent und zu wenig selbstsicher. Die Synthese der Wissensbasis zur KI-Kompetenzforschung unter Lehrkräften berichtet eine erhebliche Lücke zwischen Selbsteinschätzung und gemessener Leistung, und die Lehrkräfte darin überschätzten ihre Kompetenz beträchtlich ([[ai-literacy-assessment-misalignment|KI-Kompetenzbewertung: Abweichung zwischen Selbstauskunft und Leistung]]). Paaren Sie jede Selbstauskunft mit einer Aufgabe: einen Fehler in einer Ausgabe finden, eine Quelle prüfen, eine Nutzungsstrategie wählen, Bias oder Sycophancy erkennen, eine fehlerhafte Antwort überarbeiten, Selbstvertrauen gegen Genauigkeit kalibrieren. Ein solches Item in einer Umfrage verwandelt eine Meinung in ein Ergebnis.
+[[self-report-measures|Selbstauskunft]] misst Wahrnehmung, Akzeptanz, [[anxiety-and-stress|Angst]] und [[self-efficacy]], und sie ist in allen vier Bereichen gut. Sie ist kein Maß für nachgewiesene Fähigkeit, weil Menschen selbstsicher und falsch liegen können oder kompetent und zu wenig selbstsicher. Die Synthese der Wissensbasis zur KI-Kompetenzforschung unter Lehrkräften berichtet eine erhebliche Lücke zwischen [[self-assessment|Selbsteinschätzung]] und gemessener Leistung, und die Lehrkräfte darin überschätzten ihre Kompetenz beträchtlich ([[ai-literacy-assessment-misalignment|KI-Kompetenzbewertung: Abweichung zwischen Selbstauskunft und Leistung]]). Paaren Sie jede Selbstauskunft mit einer Aufgabe: einen Fehler in einer Ausgabe finden, eine Quelle prüfen, eine Nutzungsstrategie wählen, Bias oder Sycophancy erkennen, eine fehlerhafte Antwort überarbeiten, Selbstvertrauen gegen Genauigkeit kalibrieren. Ein solches Item in einer Umfrage verwandelt eine Meinung in ein Ergebnis.
 
 ### „Eine simulierte Studierende ist ein billiger Ersatz für eine echte."
 
@@ -184,7 +184,7 @@ Aufsicht hängt von der Expertise ab, die starke Automatisierung Menschen davon 
 
 ### „Kritische und ethische KI-Nutzung zu lehren kostet Produktivität."
 
-Ungeprüfte Automatisierung erzeugt Nacharbeit, Sicherheitsvorfälle, diskriminierende Entscheidungen, rechtliche Risiken, Reputationsschäden und falsches Selbstvertrauen, und jedes davon sind Kosten, die die Produktivitätszahl nicht gezählt hat. Der Angestellte, den man einstellen möchte, ist derjenige, der Arbeit zwischen Menschen und Werkzeugen aufteilt und dabei Qualität, Vertraulichkeit, Rechenschaft und professionelles Urteil hält. Das ist ein Produktivitätsargument, in die Richtung vorgebracht, die die Bilanz gewöhnlich übersieht ([[human-ai-collaboration|Mensch-KI-Zusammenarbeit]], [[governance|KI-Governance]]).
+Ungeprüfte Automatisierung erzeugt Nacharbeit, Sicherheitsvorfälle, diskriminierende Entscheidungen, [[legal-issues-and-risks|rechtliche Risiken]], Reputationsschäden und falsches Selbstvertrauen, und jedes davon sind Kosten, die die Produktivitätszahl nicht gezählt hat. Der Angestellte, den man einstellen möchte, ist derjenige, der Arbeit zwischen Menschen und Werkzeugen aufteilt und dabei Qualität, Vertraulichkeit, Rechenschaft und professionelles Urteil hält. Das ist ein Produktivitätsargument, in die Richtung vorgebracht, die die Bilanz gewöhnlich übersieht ([[human-ai-collaboration|Mensch-KI-Zusammenarbeit]], [[governance|KI-Governance]]).
 
 ## Antworten Sie auf das, was Studierende glauben
 
@@ -267,7 +267,7 @@ Die ausgearbeitete Version, die Sie an jedes Element dieser Seite anpassen könn
 > **Fehlvorstellung:** „Eine gute KI-generierte Aufgabe zeigt, dass der Studierende gelernt hat."
 > **Widerlegung:** „Das ist nicht zwingend wahr. Das Produkt zeigt, was der Studierende und die KI zusammen erzeugt haben, aber es offenbart nicht, welche Argumentation der Studierende selbst geleistet hat."
 > **Ersatz:** „Lernen zeigt sich besser, wenn der Studierende die Fähigkeit erklären, übertragen, anpassen und reproduzieren kann."
-> **Anwendung:** „Lassen Sie auf KI-gestützte Arbeit eine Erklärung, eine mündliche Verteidigung, eine Prozessdokumentation oder eine Anwendung ohne Hilfsmittel folgen."
+> **Anwendung:** „Lassen Sie auf KI-gestützte Arbeit eine Erklärung, eine [[oral-assessment|mündliche Verteidigung]], eine Prozessdokumentation oder eine Anwendung ohne Hilfsmittel folgen."
 
 Der Ersatz trägt das Gewicht. Eine Fehlvorstellung zu entfernen, ohne eine bessere Erklärung zu liefern, lässt die Person mit nichts zum Denken zurück, und die alte Überzeugung kehrt zurück, wenn die Erfahrung sie das nächste Mal bestätigt.
 
@@ -289,11 +289,11 @@ Fragen Sie, was der Benchmark gemessen hat und ob ein Studierender irgendetwas g
 
 ### „Lehrkräfte brauchen nur mehr Fortbildung."
 
-Lehrkräfte überschätzten ihre KI-Kompetenz erheblich, wenn Selbstauskunft auf Leistung traf, also muss Fortbildung danach bewertet werden, was Menschen tun können, statt nach dem, was sie zu wissen sagen. Sie muss außerdem Zweck, Arbeitsbelastung und die Option der Ablehnung abdecken, sonst sind diejenigen mit dem größten Ansehen, sich zu widersetzen, die, die das Problem am besten verstehen.
+Lehrkräfte überschätzten ihre KI-Kompetenz erheblich, wenn Selbstauskunft auf Leistung traf, also muss Fortbildung danach bewertet werden, was Menschen tun können, statt nach dem, was sie zu wissen sagen. Sie muss außerdem Zweck, Arbeitsbelastung und die Option der Ablehnung abdecken, sonst sind diejenigen mit dem größten Ansehen, sich zu widersetzen, die, die das Problem am besten verstehen. Eine einmalige Feature-Demonstration löst keinen professionellen und [[change-management|organisatorischen Wandel]] (Personalentwicklung).
 
 ### „Eltern akzeptieren nichts außer einem Verbot."
 
-Eltern fragen, ob die Sache vor ihrem Kind sicher ist und ob die Qualifikation etwas bedeutet. Antworten Sie auf beides direkt, mit den Fragen zur pädagogischen Sicherheit statt mit dem Inhaltsfilter, und das Verbotargument verliert seine Kraft. Die Frage des Gremiums ist enger als die Schlagzeile und leichter zu verteidigen.
+[[parents-and-families|Eltern]] fragen, ob die Sache vor ihrem Kind sicher ist und ob die Qualifikation etwas bedeutet. Antworten Sie auf beides direkt, mit den Fragen zur pädagogischen Sicherheit statt mit dem Inhaltsfilter, und das Verbotargument verliert seine Kraft. Die Frage des Gremiums ist enger als die Schlagzeile und leichter zu verteidigen.
 
 ### „Wir können keine mündlichen Verteidigungen für eine Vorlesung dieser Größe durchführen."
 

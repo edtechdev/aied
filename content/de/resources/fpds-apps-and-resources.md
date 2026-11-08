@@ -21,7 +21,7 @@ confidence: high
 connected_resources: [edugems, gemini-notebook, liascript]
 translation_of: resources/fpds-apps-and-resources
 source_updated: "2026-10-24T11:51:12-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

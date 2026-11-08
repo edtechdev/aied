@@ -1,7 +1,7 @@
 ---
 title: "Umweltbildung"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:55-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,8 +11,8 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-10-26T08:45:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -61,7 +61,7 @@ Diese Hälfte ist, wo der Korpus am dünnsten ist. Ein Review aller 396 AIED-202
 
 Auf der Seite der Lernenden wurde ein Öko-Feedback-Interface, das den Latenz-Kohlenstoff-Trade-off während der Live-LLM-Nutzung exponiert, mit 89 Informatik-Undergraduates in einem Kurs zu Computingethik studiert: Studierende wählten den kohlenstoffärmeren Modus in etwa 45% der Interaktionen mit geringer Latenz, aber unter 5% bei hoher Latenz, und Nachhaltigkeitsbewusstsein hob diese Wahl signifikant an. Die Stichprobe ist klein und ungewöhnlich technisch informiert, aber es ist der einzige direkte Beleg im Korpus, dass Fußabdruckinformationen Lernende überhaupt bewegen — und er legt nahe, dass die bindende Bedingung Geduld ist, nicht Werte.([[llm-environmental-impact-student-usage-2026]])
 
-Minderungsbelege kommen von einem on-premise-[[cs-education|CS]]-Wissensbasis-Assistenten auf einer einzelnen Verbraucher-GPU (12 GB VRAM) mit offen lizenzierten Inhalten: 1,8 mWh pro Anfrage im besten Fall — etwa 0,54 Wh für eine Klasse von 30 Studierenden, die je zehn Anfragen stellen —, wobei quantisierungsbewusste Feinabstimmung sowohl den Genauigkeitsverlust als auch das [[hallucination-risk|Halluzinations]]ansteigen eindämmte, das Kompression allein verursachte. Es ist ein Ingenieur-Benchmark, keine Lernstudie, aber es zeigt, dass die Fußabdruckfrage Designhebel hat (Grounding, Quantisierung, Einsatzort), nicht nur Nutzungsdisziplinhebel.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
+Minderungsbelege kommen von einem on-premise-[[cs-education|CS]]-Wissensbasis-Assistenten auf einer einzelnen Verbraucher-GPU (12 GB VRAM) mit offen lizenzierten Inhalten: 1,8 mWh pro Anfrage im besten Fall — etwa 0,54 Wh für eine Klasse von 30 Studierenden, die je zehn Anfragen stellen —, wobei quantisierungsbewusste [[llm-training-and-fine-tuning|Feinabstimmung]] sowohl den Genauigkeitsverlust als auch das [[hallucination-risk|Halluzinations]]ansteigen eindämmte, das Kompression allein verursachte. Es ist ein Ingenieur-Benchmark, keine Lernstudie, aber es zeigt, dass die Fußabdruckfrage Designhebel hat (Grounding, Quantisierung, Einsatzort), nicht nur Nutzungsdisziplinhebel.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
 
 ## Grüne Fähigkeiten, Nachhaltigkeitsbewusstsein und Lehrkräftekapazität
 

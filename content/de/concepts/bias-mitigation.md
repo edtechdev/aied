@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Minderung von Bias
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -11,8 +11,8 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-10-26T09:35:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-06T01:55:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -27,7 +27,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **Minderung von Bias in der KI-Bildung** — die Identifikation, Messung und Reduktion unfairen, an Identitätsmerkmalen ausgerichteten Verhaltens in [[intelligent-tutoring|KI-Tutoren]], Bewertungssystemen, Empfehlungssystemen und Bildungssystemen. Bias kann in jeder Stufe der KI-Pipeline eintreten – Trainingsdaten, Modellverhalten, Prompts, Bewertung und Einsatz – und sich als unterschiedliche Behandlung von Lernenden aufgrund von Sprache, Geschlecht, Ethnizität, Kultur oder anderen Identitätsmerkmalen zeigen. Minderung erstreckt sich über Datenkuratierung, Debiasing-Algorithmen, [[prompt-engineering|Prompt-Design]], faire Bewertungsverfahren, Erklärbarkeit und Evaluation. Sie ist das technische Gegenstück zu [[equity-in-ai-education]] und ein zentrales Anliegen von [[ethics]] in der KI-Bildung.
+> **Minderung von Bias in der KI-Bildung** — die Identifikation, Messung und Reduktion unfairen, an Identitätsmerkmalen ausgerichteten Verhaltens in [[intelligent-tutoring|KI-Tutoren]], Bewertungssystemen, Empfehlungssystemen und Bildungssystemen. Bias kann in jeder Stufe der KI-Pipeline eintreten – Trainingsdaten, Modellverhalten, Prompts, Bewertung und Einsatz – und sich als unterschiedliche Behandlung von Lernenden aufgrund von Sprache, Geschlecht, Ethnizität, Kultur oder anderen Identitätsmerkmalen zeigen. Minderung erstreckt sich über Datenkuratierung, Debiasing-Algorithmen, [[prompt-engineering|Prompt-Design]], faire Bewertungsverfahren, [[explainable-ai|Erklärbarkeit]] und Evaluation. Sie ist das technische Gegenstück zu [[equity-in-ai-education]] und ein zentrales Anliegen von [[ethics]] in der KI-Bildung.
 
 ## Fragen zum Nachdenken
 
@@ -55,13 +55,20 @@ Die Forschung der Wissensbasis dokumentiert Bias, der an mehreren Punkten der Pi
 - **Unterschiedliche Verweigerungen und epistemische Ungerechtigkeit:** [[paternalistic-filter-llm-history-education|The Paternalistic Filter]] prüft vier LLMs als Geschichtstutoren (1,800 Antworten) und legt einen „paternalistic filter" offen: Modelle verweigern, mildern oder rahmen sensible Inhalte für verschiedene Lernende unterschiedlich – eine epistemische Ungerechtigkeit mit direkten Gerechtigkeitsfolgen.
 - **Selektionsbias in [[learning-analytics|Learning Analytics]]:** [[temporal-smoothness-debiased-kt|Debiased Knowledge Tracing]] adressiert Selektionsbias, der aus nicht-zufälligen Übungsempfehlungen entsteht: Training auf beobachteten Logs mit gewöhnlichem empirischem Risiko erzeugt biasede Beherrschungsschätzungen, die Fehler in adaptiven Empfehlungsschleifen fortpflanzen.
 - **Daten- und Annotationsbias:** Forschung zu [[data-annotations-pedagogical-hints|Datenannotationen]] und [[ground-truth-reliability-aied|Verlässlichkeit von Ground Truth]] untersucht, wie die Labels und die Inter-Rater-Reliabilität hinter KI-Modellen Bias tragen – und argumentiert dagegen, κ > 0.8 als binäres Gütesiegel zu behandeln.
+
+- **Identitätserkennung trägt kulturellen Bias.** [[ji-de-identification-personally-identifiable-information-2025|Ji et al. (2025)]] testeten PII-Erkennung auf Namensebene über Kulturgruppen mit zweiseitigen Mann-Whitney-U-Tests: Die vortrainierten Baselines erkannten afrikanische Namen mit Recall 0,7647–0,9244 und signifikanten Lücken gegenüber anderen Gruppen, während feinabgestimmtes GPT-4o-mini über die vier Kulturen hinweg 0,9748–0,9840 erreichte, ohne signifikante Unterschiede — der Bias lag in den Baseline-Detektoren, nicht im abgestimmten Modell.
+
 - **Marginalisiertes Wissen:** [[genai-minoritized-knowledges-disability|Generative KI und minoritized knowledges]] dokumentiert, wie Trainingsdaten und Modellverhalten nicht-dominante Wissenssysteme und Perspektiven von Menschen mit Behinderung marginalisieren.
-- **Stereotypkonformes automatisiertes Feedback (Marked [[pedagogy|Pedagogies]]):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] zeigen, dass vier weit verbreitete LLMs Feedback zum Schreiben systematisch in stereotypkonformer Weise verschieben, wenn es mit Merkmalen der Studierenden personalisiert wird – Ethnizität, Rasse, ELL-Kennzeichnung, Lernbehinderung, Leistung oder Motivation – und dabei für markierte Studierende einen positive feedback bias und einen feedback withholding bias erzeugen (Übernutzung von Lob, weniger substanzielle Kritik, Annahmen begrenzter Fähigkeit) selbst bei identischen Essays. Die Konzentrationsmetrik „Marked Words" bietet eine konkrete Methode, solchen Bias in automatisiertem Feedback zu prüfen.
+- **Stereotypkonformes [[ai-feedback-quality|automatisiertes Feedback]] (Marked [[pedagogy|Pedagogies]]):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] zeigen, dass vier weit verbreitete LLMs Feedback zum Schreiben systematisch in stereotypkonformer Weise verschieben, wenn es mit Merkmalen der Studierenden personalisiert wird – Ethnizität, Rasse, ELL-Kennzeichnung, Lernbehinderung, Leistung oder Motivation – und dabei für markierte Studierende einen positive feedback bias und einen feedback withholding bias erzeugen (Übernutzung von Lob, weniger substanzielle Kritik, Annahmen begrenzter Fähigkeit) selbst bei identischen Essays. Die Konzentrationsmetrik „Marked Words" bietet eine konkrete Methode, solchen Bias in automatisiertem Feedback zu prüfen.
 - **Visueller Bias in Text-zu-Bild-Werkzeugen:** [[bias-representation-text-to-image-education-2026|Alon, Hadar Shoval und Levkovich (2026)]] [[meta-analysis-systematic-review|sichten systematisch]] 31 begutachtete Studien (2023–2025) zu Bias und Repräsentation in pädagogischen Einsätzen KI-generierter Text-zu-Bild-Werkzeuge. Mit einem sechsteiligen analytischen Rahmen (Geschlecht; Rasse, Ethnizität und SES; Kultur und Religion; Alter; Körper und (Nicht-)Behinderung; Inhalt) finden sie, dass biasede Repräsentation allgegenwärtig ist – Bilder zentrierten häufig weiße, männliche, westliche, schlanke und nicht-behinderte Figuren, während Diversität in Bezug auf Alter, Körper und Behinderung weitgehend übersehen wurde. Die meisten Studien stützten sich auf Bildprüfungen und [[qualitative-research|qualitative]] Methoden, mit wenigen experimentellen oder interventionsbasierten Designs, was signifikante blinde Flecken darin offenlegt, wie die Bildungsforschung visuellen Bias misst und auf ihn reagiert.
 
-- **Avatar-Identitätshinweise reproduzieren Offline-Bias.** Über zwei Experimente hinweg (N = 396) wurden weiße Avatare – und in STEM-Kontexten asiatische männliche Avatare – als glaubwürdiger und kompetenter bewertet, während ältere schwarze weibliche Avatare benachteiligt wurden; STEM- und prozedurale Aufgaben verstärkten den Bias, während reflexive und interpersonale Aufgaben ihn abschwächten ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
+- **[[ai-avatars-and-synthetic-instructors|Avatar]]-Identitätshinweise reproduzieren Offline-Bias.** Über zwei Experimente hinweg (N = 396) wurden weiße Avatare – und in STEM-Kontexten asiatische männliche Avatare – als glaubwürdiger und kompetenter bewertet, während ältere schwarze weibliche Avatare benachteiligt wurden; STEM- und prozedurale Aufgaben verstärkten den Bias, während reflexive und interpersonale Aufgaben ihn abschwächten ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
 - **Nichtdiskriminierung als zentraler ethischer Wert.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], ein [[meta-analysis-systematic-review|systematischer Review]] von 25 Artikeln, identifizieren Nichtdiskriminierung (Definitionen mit Bias/Diskriminierung/Diversität) als einen von sechs zentralen ethischen Werten für [[ai-education|KI in der Bildung]], neben Datenverantwortung, menschlicher Aufsicht, Wohlwollen, Erklärbarkeit und pädagogischer Angemessenheit. Der Review hält fest, dass die Werte eng gekoppelt sind und in Konflikt geraten können – z. B. Nichtdiskriminierung gegenüber Datenverantwortung –, was ethische Dilemmata erzeugt, und dass keine Normen zur Nichtdiskriminierung Endnutzende direkt adressieren, wodurch Lernende in der ethischen Literatur weitgehend passiv bleiben.
 - **Allokationsbias bei KI-gestützter Teamzusammenstellung.** [[genai-social-bias-software-engineering-education-2026|Entezami et al. (2026)]] zeigen Bias, der in eine Aufgabenklasse außerhalb von Bewertung und Feedback eintritt: drei LLMs, die 28-köpfige Software-Engineering-Kurse vier Teams zuwiesen, führten Männer mindestens 80% seltener als Frauen dem Interface Design statt der Core Development zu (GPT-5.2 OR < 0.01), und Nationalität verschob die Zuweisungen unabhängig von Leistung. Die Angabe von Fähigkeiten reduzierte ihn, beseitigte ihn aber nicht – 99.2% der fähigkeitsbasierten Zuweisungen trafen eines von zwei Ground-Truth-Teams, dennoch entschied das Geschlecht zwischen gleichwertig gültigen Optionen (OR 2.53 GPT-4.1, 2.81 GPT-5.2, 1.43 DeepSeek) –, und parallele Bildgenerierung verzerrte Einzelpersonen-Bilder hin zu männlich und hellhäutig (Geschlecht V = 0.64 und 0.65; Hautton V = 0.57 und 0.61), während Mehrpersonen-Bilder vergleichsweise ausgewogen blieben.
+
+- **Subgruppen-Audits können Parität in einem automatisierten Kodierer dokumentieren** — [[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye, Borman und Borman (2026)]] fanden, dass ein feinabgestimmter BERT-Essay-Kodierer eine Genauigkeit von 0,92 für stereotypbedrohte Studierende und 0,94 für nicht bedrohte erreichte, mit Recall 0,98 in beiden Gruppen. Die Genauigkeit nach Geschlecht lag bei 0,95 gegenüber 0,93 und bei Gruppen mit kostenlosem oder reduziertem Mittagessen bei 0,95 gegenüber 0,94, während Englischlernende (8 %) und Studierende mit individuellen Bildungsplänen (10 %) von der Subgruppenanalyse ausgeschlossen wurden, weil die Teilstichproben zu klein waren.
+
+**Aggregatgenauigkeit kann ein Modell verbergen, das die kämpfenden Studierenden nicht findet.** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] trainierten drei Modellfamilien auf einer estnischen Kohorte und teilten sie auf zwei Arten. Auf dem balancierten Set waren die Familien vergleichbar. Auf dem unbalancierten Split, mit 125 Studierenden unter dem ersten Quartil gegenüber 328 darüber, erreichten Entscheidungsbäume, ein Bayes-Netz und Random Forests 8 %, 12 % und 16 % Recall für leistungsschwache Studierende bei 80 % Präzision, und nur das neuro-symbolische Modell überschritt 50 %.
 
 ## Minderungsansätze
 
@@ -100,6 +107,8 @@ Minderung von Bias ist der technische Mechanismus, durch den [[equity-in-ai-educ
 - **Systeme erklärbar machen:** Transparenz über KI-Entscheidungen ist unverzichtbar, um Bias zu erkennen und zu korrigieren.
 - **Technische und menschliche Minderung kombinieren:** paaren Sie Debiasing-Algorithmen mit menschlicher Aufsicht in der Schleife, besonders bei Fällen mit hohem Einsatz oder geringer Konfidenz.
 
+Alles auf dieser Seite betrifft Bias im System. [[automation-bias|Automation Bias]] betrifft Bias in der Person, die seine Ausgabe liest — eine Empfehlung anzunehmen, die ein Mensch in Frage gestellt hätte, wäre er selbst darauf gekommen —, und er überlebt selbst dann, wenn das Modell korrekt ist.
+
 ## Verbreitete Fehlvorstellungen
 
 - **„Bias ist ein Problem von Scoring und Feedback."** Bias tritt in **Aufgabenklassen außerhalb des Scorings** ein: Drei LLMs, die **28-köpfige Software-Engineering-Kurse auf vier Teams verteilten, ordneten Männer mindestens 80% seltener zu** als die Referenzverteilung. Teamzusammenstellung trug Bias in einer Größenordnung, die dem Benoten vergleichbar war.
@@ -108,6 +117,9 @@ Minderung von Bias ist der technische Mechanismus, durch den [[equity-in-ai-educ
 
 ## Verbundene Konzepte
 - [[differential-effects-across-learner-groups]]
+
+- [[automation-bias]] — die leserseitige Fehlform, die diese Seite nicht abdeckt: eine Empfehlung annehmen, ohne sie zu prüfen
+
 - [[explainable-ai]]
 - [[guardrails]]
 - [[equity-in-ai-education]]
@@ -149,3 +161,6 @@ Minderung von Bias ist der technische Mechanismus, durch den [[equity-in-ai-educ
 
 - [[genai-social-bias-software-engineering-education-2026]] — Generative KI kann soziale Biases in der Software-Engineering-Bildung verstärken
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
+
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — bei Klassenungleichgewicht konnten drei Modellfamilien Leistungsschwache nicht identifizieren, während balancierte Metriken gesund aussahen
+

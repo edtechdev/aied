@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Sonderpädagogik
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,8 +10,8 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-10-26T08:20:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -54,7 +54,7 @@ Sonderpädagogik ist eine Domäne, in der KI-Fähigkeit zu Personalisierung und 
 **KI-generierte Interventionsinhalte brauchen Vorgenerierungs-Kontrollen, nicht nur Review.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] fanden, dass Praktikerinnen und Praktiker das co-gestaltete Social-Story-Werkzeug als hoch gebrauchstauglich bewerteten (SUS 86.8), seine Bilder dennoch als generisch westlich und seinen Verhaltenstracker als fehlangepasst an zielverbundene klinische Urteilskraft bezeichneten — Einschränkungen, die sie schon vor der Generierung festgelegt hätten.
 
 [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] startet bei den Materialien statt bei der Konversation: Ein Vision-Language-Modell liest Fotografien von Shoebox-Tasks — so gestaltet, dass das Ziel in den Objekten sichtbar ist — und verwandelt sie in einen Plan, den ein Nao-Humanoid ausführt oder vorführt, wobei sie Planungsgenauigkeit über sechs Aufgaben berichtet und keine Lernendendaten.
-- **Herausforderndes Verhalten ist, wo Tutor-Benchmarks aufhören.** Von 923 fallgegründeten Dialogen aus der Literatur der Sonderpädagogik und Bildungspsychologie erfüllte das beste von 11 Modellen eine dokumentierte Intervention in 55,8 % der offenen Fälle und 43,3 % der Langzeitpläne ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
+- **Herausforderndes Verhalten ist, wo Tutor-[[benchmark|Benchmarks]] aufhören.** Von 923 fallgegründeten Dialogen aus der Literatur der Sonderpädagogik und Bildungspsychologie erfüllte das beste von 11 Modellen eine dokumentierte Intervention in 55,8 % der offenen Fälle und 43,3 % der Langzeitpläne ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
 
 ## Implikationen für Lehrende in der Sonderpädagogik
 
@@ -67,8 +67,8 @@ Sonderpädagogik ist eine Domäne, in der KI-Fähigkeit zu Personalisierung und 
 
 ## Verbreitete Fehlvorstellungen
 
-- **„Gebrauchstauglichkeitsbewertungen validieren ein assistives Werkzeug."** Praktikerinnen und Praktiker bewerteten ein co-gestaltetes Social-Story-Werkzeug als **hoch gebrauchstauglich (SUS 86,8)** und nannten seine **Bilder generisch westlich** und seinen **Verhaltenstracker fehlangepasst an zielverbundene klinische Urteilskraft**. Hohe Gebrauchstauglichkeit bestand neben substanziellen Mängeln, ein SUS-Wert ist also keine Bestätigung der Passung.
-- **„Generische Benchmarks sagen Ihnen, wie ein Tutor mit sonderpädagogischen Fällen umgeht."** Von **923 fallgegründeten Dialogen** aus der Literatur der Sonderpädagogik und Bildungspsychologie erfüllte **das beste von 11 Modellen** ein dokumentiertes Kriterium — und **herausforderndes Verhalten ist, wo Tutor-Benchmarks aufhören**. Standardevaluationen erreichen die Fälle nicht, bei denen Praktikerinnen und Praktiker am meisten Hilfe brauchen.
+- **„[[usability-research|Gebrauchstauglichkeitsbewertungen]] validieren ein assistives Werkzeug."** Praktikerinnen und Praktiker bewerteten ein co-gestaltetes Social-Story-Werkzeug als **hoch gebrauchstauglich (SUS 86,8)** und nannten seine **Bilder generisch westlich** und seinen **Verhaltenstracker fehlangepasst an zielverbundene klinische Urteilskraft**. Hohe Gebrauchstauglichkeit bestand neben substanziellen Mängeln, ein SUS-Wert ist also keine Bestätigung der Passung.
+- **„Generische Benchmarks sagen Ihnen, wie ein Tutor mit sonderpädagogischen Fällen umgeht."** Von **923 fallgegründeten Dialogen** aus der Literatur der Sonderpädagogik und Bildungspsychologie erfüllte **das beste von 11 Modellen** ein dokumentiertes Kriterium — und **damit ist die Grenze dessen erreicht, was ein Tutor-Benchmark abdeckt**. Standardevaluationen erreichen die Fälle nicht, bei denen Praktikerinnen und Praktiker am meisten Hilfe brauchen.
 - **„Neurodivergente Lernende brauchen Nachteilsausgleiche, keine Designanforderungen."** [[neurodivergent-computing-students|Zastudil et al.]] fanden, dass neurodivergente Informatik-Studierende **strukturierte Aufgaben, kleine konsistente Teams und explizite Rollendefinitionen** brauchen — allgemeine Designanforderungen, die allen nützen, statt individueller Anpassungen, die nach einer Diagnose gewährt werden.
 
 ## Verbundene Konzepte

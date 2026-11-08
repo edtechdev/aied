@@ -1,7 +1,7 @@
 ---
 title: Halluzinationsrisiko
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:28:28-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,8 +11,8 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-26T07:30:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-07T12:10:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -44,6 +44,8 @@ Halluzination in Bildungs-KI nimmt mehrere Formen an, die in den Artikeln dieser
 
 Ein Review von 125 Studien grenzt die Prävalenz und die Erkennungslücke ein: Halluzinationsraten von 10–40%, wobei Medizinstudierende KI-Fehler nur in 44–55% der Fälle erkannten ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
+**Gedächtnisverzerrung nach der Ausgabe.** Ein Experiment von 2026 fand, dass eine irreführende KI-Zusammenfassung mehr tat, als falsch zu informieren: Sie veränderte, woran sich 328 Erwachsene zu einem Video erinnerten, das sie gesehen hatten. Nur 44,8 % derjenigen, die die irreführende Zusammenfassung lasen, identifizierten das entscheidende Detail später korrekt, gegenüber 83,6 % derjenigen, die eine stimmige Zusammenfassung lasen, und der Effekt hielt, als die Zusammenfassung als von Menschen geschrieben gekennzeichnet war ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). Auslassung war der häufigste Fehler im begleitenden Audit: Alle 20 Zusammenfassungen enthielten Fehler, und 95 % ließen die Kollision selbst aus. Die Studie testete keine Studierenden, aber sie zeigt, warum eine Halluzinationsprüfung, die am Text endet, unvollständig ist: Der Fehler kann im Gedächtnis der lesenden Person fortbestehen, wenn der Text nicht mehr da ist.
+
 **Assessment-Halluzination** ist besonders schädlich. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** fand, dass LLMs beim Diagnostizieren kognitiver Fähigkeiten Belegzitate erfinden, die in der Handschrift der Studierenden nicht vorkommen, wobei 58.5% der falschen Diagnosen von falschen Behauptungen beleglicher Konfidenz begleitet waren. **[[llm-fallacy-misattribution]]** dokumentierte systematische Überattribution von Belegen im [[llm|LLM]]-Schließen — Modelle behaupten belegliche Unterstützung, wo keine existiert. Beides verbindet sich mit Anliegen an [[ai-ed-evaluation|Evaluation von KI in der Bildung]] und [[knowledge-tracing|Knowledge Tracing]] hinsichtlich der [[assessment-validity|Validität von Assessments]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] fügen zwei Fehlermodi hinzu, die sichtbar werden, wenn KI-Ausgaben bewertet statt inspiziert werden: erfundene Einzelheiten, die die Bewertung überleben — ein rezensiertes Paper, das es nicht gibt, samt nicht auflösbarer DOI, und ein als 378 berichteter Stichprobenumfang, wo die Quelle 329 sagte —, und Selbstwiderspruch innerhalb einer einzelnen Antwort, wo das Modell sich zur richtigen Option hinschloss und dann in seiner abschließenden Zusammenfassung eine andere berichtete. Weil Literaturlisten derzeit auf Formatierung statt auf Genauigkeit bewertet werden, erreicht diese Fehlerklasse eine bestehende Note, während sie die Person in die Irre führt, die dasselbe Werkzeug zum Wiederholen nutzt.
 
 In einem Design-Piloten für Assessments fanden [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] erfundene Referenzen und unrealistische Zeitschätzungen, die wiederholtes Prompting überlebten und erhebliche akademische Überarbeitung erforderten — Halluzination in einem auf Lehrende gerichteten Entwurfswerkzeug statt in studentischer Arbeit.
@@ -52,7 +54,7 @@ In einem Design-Piloten für Assessments fanden [[authentic-assessments-generati
 
 **Manipulierte statt erfundene Belege.** Ein verwandter Fehlermodus in der [[automated-assessment|automatisierten Bewertung]] ist von außen bewegte Ausgabe. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] red-teamte einen routinemäßigen KI-Bewertungsarbeitsablauf und fand, dass Anweisungen, die in der eingereichten Datei versteckt waren, die Note eines durchfallenden Aufsatzes ohne sichtbare Warnung hoben — in 9 von 9 Iterationen bei einer Strategie und 17 von 18 bei einer anderen. Zwei Details betreffen [[trust-calibration|Vertrauenskalibrierung]]: eine erkannte Injektion wurde blockiert, indem der Chat stillschweigend deaktiviert und der Nutzerin oder dem Nutzer nie gemeldet wurde, und bei einem Lauf, bei dem das Werkzeug ankündigte, nur den offiziellen Aufgabenanweisungen zu folgen, hoben sechs Wiederholungen derselben Datei die Note dennoch. Eine auf diese Weise erhaltene Note trägt keinen Anspruch auf [[assessment-validity|Validität]], und weil die Manipulation keine dauerhafte Spur hinterlässt, bleibt [[human-in-the-loop-ai|die Lehrkraft]] die einzige echte Prüfung für Ausgabe, die darauf angelegt ist, nicht sichtbar zu sein.
 
-Verteidigungen gegen solche Manipulation tragen ihren eigenen Trade-off: eine mehrschichtige Leitplanken-Pipeline ließ 46.34% der Injektionen erfolgreich und Prompt Guard 38.48%, während NeMo Guardrails jeden Angriff blockierte, aber 16.22% harmloser Studierendenanfragen markierte — eine False-Positive-Rate, die in einem Tutor selbst pädagogischer Schaden ist ([[prompt-injection-defenses-educational-llm-tutors|Maiorano (2026)]]).
+Verteidigungen gegen solche Manipulation tragen ihren eigenen Trade-off: eine mehrschichtige Leitplanken-Pipeline ließ 46.34% der Injektionen erfolgreich und Prompt Guard 38.48%, während NeMo [[guardrails|Guardrails]] jeden Angriff blockierte, aber 16.22% harmloser Studierendenanfragen markierte — eine False-Positive-Rate, die in einem Tutor selbst [[pedagogy|pädagogischer]] Schaden ist ([[prompt-injection-defenses-educational-llm-tutors|Maiorano (2026)]]).
 
 **Tutoring-Halluzination** beeinflusst das Lernen unmittelbar. **[[yasir-llm-tutoring-agents-2026]]** fand, dass LLMs falsche Lösungen übervalidierten, während sie gültige, aber suboptimale Argumentation übermäßig zurückwiesen — systemische Fehler, die sowohl Studierende als auch Lehrende in die Irre führen würden. **[[eduframetrap-llm-sycophancy-educational-safety]]** und **[[eduguard-safe-rag-llm-tutor]]** adressieren Sicherheitsmechanismen für Bildungs-LLMs. Diese Risiken verbinden sich mit [[pedagogical-safety|pädagogischer Sicherheit]] und Anforderungen an [[human-in-the-loop-ai|Human-in-the-Loop-KI]].
 
@@ -64,7 +66,7 @@ Verteidigungen gegen solche Manipulation tragen ihren eigenen Trade-off: eine me
 
 ## Verbreitete Fehlvorstellungen
 
-- **„Studierende werden Fehler bemerken."** Ein **Review von 125 Studien** verortet die Halluzinationsraten bei **10–40 %**, wobei **Medizinstudierende — unter den am sorgfältigsten ausgewählten Lernenden der Hochschulbildung — KI-Fehler nur in 44–55 % der Fälle erkennen**. Erkennungsraten weit unter einer zuverlässigen Zufallsschwelle bedeuten, dass die Last nicht bei der lesenden Person liegen kann.
+- **„Studierende werden Fehler bemerken."** Ein **Review von 125 Studien** verortet die Halluzinationsraten bei **10–40 %**, wobei **Medizinstudierende — unter den am sorgfältigsten ausgewählten Lernenden der [[higher-ed|Hochschulbildung]] — KI-Fehler nur in 44–55 % der Fälle erkennen**. Erkennungsraten weit unter einer zuverlässigen Zufallsschwelle bedeuten, dass die Last nicht bei der lesenden Person liegen kann.
 - **„Fehler sind offensichtlich, wenn sie auftreten."** Eine KI, die handgeschriebene Mathematik diagnostizierte, konnte **Belegzitate erfinden, die nicht vorhanden waren, und dabei Konfidenz behaupten**. Der Fehler war keine plausibel-falsche Antwort, sondern erfundene Unterstützung, mit Gewissheit präsentiert — die am schwersten zu fangende Art, weil sie genau als der Beleg liest, den eine sorgfältige Leserin oder ein sorgfältiger Leser suchen würde.
 - **„Ausgaben ohne Zitate sind ein Formatierungsproblem."** In einem Graduiertenkurs, der sein kommerzielles Lehrbuch durch KI-generierte Lektüren ersetzte, trugen nur **etwa 0,80 % von 4.487 protokollierten Seiten ein In-Text-Zitat im APA-Stil**. Das ist eine Absenz von Provenienz auf Korpusebene, keine gelegentliche Auslassung, und sie bedeutet, dass Verifikation keinen Ausgangspunkt hat.
 - **„Halluzination ist ein Problem der Modellgenerierung, das neuere Modelle lösen."** Die Raten reichen über **125 Studien hinweg von 10–40 %**, was ebenso eine Eigenschaft der Aufgabe und des Einsatzes ist wie des Modells. Die Senkung der Rate ist echter Fortschritt und ändert nichts daran, dass eine lesende Person prüfen können muss.
@@ -84,6 +86,9 @@ Verteidigungen gegen solche Manipulation tragen ihren eigenen Trade-off: eine me
 - [[productive-failure]]
 
 ## Verbundene Artikel
+
+- [[sim-ai-summary-memory-distortion-2026]] — Eine irreführende KI-Zusammenfassung verzerrte das Gedächtnis Erwachsener für ein Video; Auslassungen waren der häufigste Fehler
+
 - [[frontiers-gai-hallucination-dependence-2026]] — Das Markieren eines GAI-Dialogs als gefälscht senkte Vertrauen und Abhängigkeit gemeinsam
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Glaubwürdigkeitssignale erhöhten die Gefolgschaft gegenüber KI-Ausgaben, wobei einige zitierte Fälle fehlattributiert oder fiktiv waren
 - [[ivory-psychology-assessment-integrity-2026]] — Erfundene Zitate und sich selbst widersprechende Ausgaben in bestehenden studentischen Arbeiten (Ivory et al. 2026)

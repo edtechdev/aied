@@ -1,7 +1,7 @@
 ---
 title: "Lernende"
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-07T20:05:54-05:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -12,8 +12,8 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-25T15:20:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-04T12:05:00-05:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -85,7 +85,7 @@ Lesen Sie sie mit [[stakeholders|Akteure]] für die Menschen um die lernende Per
 
 ## Verbreitete Fehlvorstellungen
 
-**„Lernende und Studierende sind dieselbe Population."** Sie sind nicht auf nützliche Weise austauschbar: *Studierende* benennt eine institutionelle Rolle, *Lernende* benennt eine Tätigkeit, und eine Person kann das eine ohne das andere sein — ein Angestellter in der [[professional-training|betrieblichen Weiterbildung]] ist eine lernende Person, aber kein Studierender. Sie zu verwechseln, verengt die Evidenzbasis auf Menschen mit Einschreibungsakten und lässt genau die Erwachsenen, Berufstätigen und selbstgesteuert Lernenden stillschweigend fallen, um die es in der Forschung zum [[lifelong-learning|lebenslangen Lernen]] geht.
+**„Lernende und Studierende sind dieselbe Population."** Sie sind nicht auf nützliche Weise austauschbar: *Studierende* benennt eine institutionelle Rolle, *Lernende* benennt eine Tätigkeit, und eine Person kann das eine ohne das andere sein — ein Angestellter in der [[professional-training|betrieblichen Weiterbildung]] ist eine lernende Person, aber kein Studierender. Sie zu verwechseln, verengt die Evidenzbasis auf Menschen mit Einschreibungsakten und lässt genau die Erwachsenen, Berufstätigen und [[self-directed-learning|selbstgesteuert]] Lernenden stillschweigend fallen, um die es in der Forschung zum [[lifelong-learning|lebenslangen Lernen]] geht.
 
 **„Lernende berichten, dass KI ihr Verständnis verbessert, also spart sie ihnen Zeit."** Die beiden Behauptungen trennen sich in den Umfragedaten. In Arbeiten zur Lernproduktivität sagten **92,3%**, KI habe ihr Verständnis verbessert, während nur **38,5%** sagten, sie habe ihre gesamte Lernzeit reduziert. Die Schlagzeilenzahl beschreibt gefühltes Verstehen; die Lücke darunter zeigt, dass verbessertes Verständnis und zurückgewonnene Zeit verschiedene Ergebnisse sind, und die viel wiederholte Behauptung „KI spart Zeit" wird von der kleineren Zahl getragen.
 
