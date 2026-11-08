@@ -1,7 +1,7 @@
 ---
 title: 교육과정 설계
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:06:30-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -11,9 +11,9 @@ discipline: [stem education]
 audience: [instructors, faculty developers]
 level: [higher ed]
 confidence: high
-connected_resources: [intelligent-textbooks]
+connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-10-26T10:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -44,27 +44,30 @@ ai_assist:
 
 **AI 시대를 위한 교육과정 재설계**가 핵심 과제입니다. **[[reshaping-cs-education-genai|Lee et al.]]**는 학부 [[cs-education|컴퓨터 과학 교육]]의 재편에 관한 국제 워크숍의 결과를 종합하며, 생성 AI가 구현 수준의 프로그래밍을 자동화함에 따라 교육과정이 시스템 설계, 추상화, 비판적 평가 쪽으로 옮겨가고 저수준 구현 세부사항은 덜 강조되어야 한다고 주장합니다. **[[ase-26-agentic-software-engineering-curriculum|Gorsky]]**는 에이전트형 소프트웨어 공학(Agentic Software Engineering)을, [[agentic-ai|AI 에이전트]]를 관리하는 데 필요한 "의도의 진화"와 실무자의 규율에 초점을 둔 21개 모듈 교육과정으로 독자적인 학문으로 체계화했습니다. 둘 다 [[ai-literacy]]와 [[scaffolding]]과 연결됩니다.
 
-변화를 가산적이지 않은 체계적 변화로 검토하며, [[rewriting-curriculum-genai-pedagogy-2026|Sabani et al. (2026)]]는 범위 검토, 209개 기록의 서지학적 매핑, 36개 논문, 10명의 학술 리더 인터뷰를 삼각검증하여 다섯 가지 전환을 도출합니다. 지식 전달이 역량 개발에 자리를 내주는 것과, 국지적 실험이 기관 거버넌스로 옮겨가는 것이 그중 하나입니다.
+변화를 가산적이지 않은 체계적 변화로 검토하며, [[rewriting-curriculum-genai-pedagogy-2026|Sabani et al. (2026)]]는 [[meta-analysis-systematic-review|범위 검토]], 209개 기록의 서지학적 매핑, 36개 논문, 10명의 학술 리더 인터뷰를 삼각검증하여 다섯 가지 전환을 도출합니다. 지식 전달이 역량 개발에 자리를 내주는 것과, 국지적 실험이 기관 거버넌스로 옮겨가는 것이 그중 하나입니다.
 
 **교육과정 매핑과 분석**은 AI를 활용해 기존 교육과정을 이해합니다. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]**는 AI 지원 소프트웨어 공학 과정의 강의계획서 23개를 분석해 공통 주제 — [[prompt-engineering|프롬프트 엔지니어링]], AI를 활용한 코드 리뷰, [[ethics|윤리적 고려사항]] — 를 찾아내고, 도구 활용 능력과 기초 지식의 균형을 강조하는 설계 지침을 도출했습니다. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]**는 계산적 방법을 적용해 여러 기관의 컴퓨터 과학 강좌 구조를 비교합니다.
 
 가중치는 교육과정 분석이 보고하는 것을 바꿉니다. [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]]은 GPT-o3-mini가 48개 평가 각각에 대해 일곱 가지 기업 역량 전반에 100%를 배분하도록 하여 전문가 가중치에 대해 Krippendorff's alpha 0.81에 이르렀으나, 기술 설명이 명시적으로 언급하지 않는 역량에서는 일치도가 음수(-0.19)로 돌아섰습니다.
 
+
+**모듈 구조는 현재 내용보다 오래갑니다.** 분야가 검토 주기보다 빠르게 움직이는 패턴이 반복됩니다: [[ai-literacy|AI 리터러시]], 비판적 평가, 편향 탐지, [[ethics|윤리]]의 안정적 핵심을 두고, 전공별·지역에서 이용 가능한 도구 내용을 모듈로 붙여 6~12개월마다 재검토하는 것입니다([[bursic-ai-residency-education-curriculum-2026|Bursic 등(2026)]]). 대학원 [[medical-education|의학 교육]]이 제시된 사례지만 원칙은 일반화됩니다: 프로그램은 도구 교체에도 살아남는 역량에 헌신하고, 도구 특화 층위는 교체 일정을 잡습니다.
+
 **AI 리터러시 통합**은 여러 학문에 걸쳐 AI 역량을 내장합니다. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]**은 모든 연령과 교육 단계에 적용 가능한 단계적 AI 리터러시 프레임워크를 제공하며 2·3차 [[digital-divide|디지털 격차]]를 다룹니다. **[[tracing-genai-literacy-interaction-patterns]]**는 AI 리터러시가 상호작용 양식을 통해 어떻게 발달하는지를 검토합니다. **[[hingle-collaborative-ai-literacy-2025]]**는 AI 리터러시 교육과정 개발의 협력적 접근을 탐구하며 [[collaborative-learning]]과 연결됩니다.
 
 LearnAI는 내장형이 어떤 모습인지를 보여 줍니다. 5개 학문의 기존 강좌 18개 안에 짧은 발표로 이루어진 폭넓은 노출 층위(학생 293명)를 두고, 훈련된 학부생 또래 튜터가 진행하는 자발적 참여 1:1 공동 창작 세션을 짝지어, 다양한 수준의 학습자가 자신의 수준에서 AI 과제를 만나도록 합니다([[learnai-just-in-time-ai-cocreation-university-2026|Qu et al. (2026)]]).
 
-실천에서의 통합은 프레임워크를 뒤따르지 못합니다. [[critical-media-literacy-education-2026|Santos-Albardía et al. (2025)]]는 응답한 교육·저널리즘 학생 중 13.8%만이 수강 과목에서 비판적 미디어 분석을 다루었다고 답한 반면, 97.8%가 그것이 중요하다고 평가했음을 발견했으며, 전문가 인터뷰는 이 격차를 미디어 교육보다 기술적·교수적 기술을 우선시하는 교사 연수로 추적했습니다.
+실천에서의 통합은 프레임워크를 뒤따르지 못합니다. [[critical-media-literacy-education-2026|Santos-Albardía et al. (2025)]]는 응답한 교육·저널리즘 학생 중 13.8%만이 수강 과목에서 비판적 미디어 분석을 다루었다고 답한 반면, 97.8%가 그것이 중요하다고 평가했음을 발견했으며, 전문가 인터뷰는 이 격차를 미디어 교육보다 기술적·교수적 기술을 우선시하는 [[teacher-education|교사 연수]]로 추적했습니다.
 
-39개의 STEAM 연구(2016–2025)를 대상으로 한 PRISMA 검토는 AI 리터러시 요소에서 유사한 불균형을 발견했습니다. 실행 사례들은 기술적 리터러시(AI의 기초 개념, 컴퓨팅 사고, 데이터 리터러시)는 발달시켰으나 윤리 인식, 창의적 상상력, 그리고 AI로의 창작·관리·설계는 충분히 발달시키지 않아, 각 단원을 이에 비추어 점검하는 것이 실천적 대응입니다([[niri-steam-ai-literacy-review-2026|Niri et al., 2026]]).
+39개의 STEAM 연구(2016–2025)를 대상으로 한 PRISMA 검토는 AI 리터러시 요소에서 유사한 불균형을 발견했습니다. 실행 사례들은 기술적 리터러시(AI의 기초 개념, [[computational-thinking|컴퓨팅 사고]], [[statistics-and-data-science-education|데이터 리터러시]])는 발달시켰으나 윤리 인식, 창의적 상상력, 그리고 AI로의 창작·관리·설계는 충분히 발달시키지 않아, 각 단원을 이에 비추어 점검하는 것이 실천적 대응입니다([[niri-steam-ai-literacy-review-2026|Niri et al., 2026]]).
 
-학생의 목소리는 또 하나의 설계 투입물입니다. 경영학 4학년 학생 166명 중 84%가 과목에서 생성 AI를 가르치길 원했고 85%가 취업을 위해 필수적이라고 보았으나, 단 7%만이 대학에서 이에 관해 배웠다고 답했습니다([[rook-plumb-genai-curricula-student-insights-2026|Rook & Plumb (2026)]]).
+[[student-experience|학생의 목소리]]는 또 하나의 설계 투입물입니다. 경영학 4학년 학생 166명 중 84%가 과목에서 생성 AI를 가르치길 원했고 85%가 취업을 위해 필수적이라고 보았으나, 단 7%만이 대학에서 이에 관해 배웠다고 답했습니다([[rook-plumb-genai-curricula-student-insights-2026|Rook & Plumb (2026)]]).
 
-대학 입학 전 AI 교육에 대한 42개 연구의 검토는 교육과정이 AI4K12와 AI의 다섯 가지 큰 아이디어 같은 프레임워크에 기반한 역량 중심 모델로 옮겨가고 있음을 발견하며, [[ai-literacy]]는 학제를 가로지르는 역량으로 다뤄지지만 이를 평가할 표준화된 도구는 여전히 부재합니다([[caruana-pre-university-ai-education-slr-2026|Caruana et al. (2026)]]).
+대학 입학 전 [[ai-education|AI 교육]]에 대한 42개 연구의 검토는 교육과정이 AI4K12와 AI의 다섯 가지 큰 아이디어 같은 프레임워크에 기반한 역량 중심 모델로 옮겨가고 있음을 발견하며, [[ai-literacy]]는 학제를 가로지르는 역량으로 다뤄지지만 이를 평가할 표준화된 도구는 여전히 부재합니다([[caruana-pre-university-ai-education-slr-2026|Caruana et al. (2026)]]).
 
 교수자와 고용주는 26가지 AI 기술 중 단 하나 — AI로 보조된 업무에 대해 현실적인 기대를 설정하는 것 — 의 중요성에만 동의했으며, 26가지 중 3가지만이 절반 이상의 교수자에 의해 가르쳐졌습니다. 이 보고서의 증거는 고등 교육과 고용주 사이의 AI 기술 격차를 보여 줍니다([[ithaka-sr-ai-skills-college-graduates-2026|Fried (2026)]]).
 
-K-12 머신러닝 활동 설계는 표면에 머물러 있습니다. ICE-T 프레임워크를 뒷받침하는 검토에서 보이지 않는 사용, 버튼 상호작용, 모델 배포가 부호화된 지도 학습 활동의 거의 60%를 차지했고, 개방적 창작은 단 두 번만 나타났으며, 기술적·사회적 관점이 함께 나타난 활동은 약 3%에 불과했습니다([[icet-ml-education-trust-2026|Haritz et al., 2026]]).
+K-12 [[machine-learning|머신러닝]] 활동 설계는 표면에 머물러 있습니다. ICE-T 프레임워크를 뒷받침하는 검토에서 보이지 않는 사용, 버튼 상호작용, 모델 배포가 부호화된 지도 학습 활동의 거의 60%를 차지했고, 개방적 창작은 단 두 번만 나타났으며, 기술적·사회적 관점이 함께 나타난 활동은 약 3%에 불과했습니다([[icet-ml-education-trust-2026|Haritz et al., 2026]]).
 
 **[[discipline-specific-aied|전공 분야별]] 교육과정 혁신**은 교육과정 설계를 특정 분야에 적용합니다. **[[genai-architecture-education]]**는 생성 AI가 건축 설계 [[pedagogy]]를 어떻게 재편하는지를 탐구합니다. **[[talebzadeh-ai-green-education-2026]]**는 녹색 교육 교육과정에서의 AI 통합을 검토합니다. **[[connected-ai-lesson-planning-vietnam]]**과 **[[llm-cultural-relevance-k12]]**는 [[culturally-relevant-pedagogy|문화적으로 반응적인 교육과정 설계]]를 다룹니다.
 
@@ -76,7 +79,7 @@ K-12 머신러닝 활동 설계는 표면에 머물러 있습니다. ICE-T 프�
 
 **프로그램 전반에 AI를 배열하기.** [[refrain-amplify-genai-curriculum-2026|Torres-Sahli et al.]]는 "물렀다가 증폭하라(refrain, then amplify)" 프레임워크를 제안하며 생성 AI를 프로그램 수준에서 배열합니다. 어떤 역량이 형성되는 동안에는 생성 도구를 보류하고, 학생이 그것을 지휘하고 그 산출을 판단할 수 있게 된 뒤에야 그 역량을 증폭하기 위해 되돌려 줍니다. 형성-대-대리의 기준(어떤 작업 구간이 역량을 쌓는지, 아니면 도구를 통해 그냥 통과시키는지)에 따라 작동하며, 이 프레임워크는 교육과정 설계를 [[cognitive-offloading]], [[self-regulated-learning]], [[academic-integrity]]와 연결하고, 각 물림-증폭 전환점에 위조하기 어려운 검증 지점을 둡니다.
 
-가장 높은 단계로 가는 지렛대는 더 많은 수업이 아닙니다. 후원된 캡스톤 프로젝트 89개에서, Workforce Readiness Level 6에서 7로의 상승은 산업에 내장된 경험(인턴십과 Manufacturing Extension Partnership 프로젝트)에 의해 관문 지어졌으므로, 학위에는 또 하나의 기술 선택과목이 아니라 일과 통합된 학습이 필요합니다([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+가장 높은 단계로 가는 지렛대는 더 많은 수업이 아닙니다. 후원된 캡스톤 프로젝트 89개에서, [[career-development-and-readiness|Workforce Readiness]] Level 6에서 7로의 상승은 산업에 내장된 경험(인턴십과 Manufacturing Extension Partnership 프로젝트)에 의해 관문 지어졌으므로, 학위에는 또 하나의 기술 선택과목이 아니라 일과 통합된 학습이 필요합니다([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
 
 모델 역량의 교육과정 수준 결과는 AI 저항형 설계가 유통기한을 갖는다는 것입니다. 컴퓨팅 교육자들은 모델이 아직 할 수 없는 것에 맞춰 과제를 조정하다가 그 조정이 무너지는 것을 목격했습니다. 한 사이버보안 교수의 문제는 7~8개월 전에는 진정한 [[problem-solving|문제 해결]]을 요구했는데 그 후에는 간단히 풀렸습니다. 한 진행자는 유통기한을 약 한 학기로 추정했습니다. 워크숍의 구조적 발견은 거의 모든 적응이 기관의 조정 없이 한 강좌 안에서 개별 교수자에 의해 이루어졌다는 것으로, 지속 가능한 교육과정적 대응이 요구하는 조정이 부재했음을 보여 줍니다([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026)]]).
 
@@ -88,17 +91,20 @@ K-12 머신러닝 활동 설계는 표면에 머물러 있습니다. ICE-T 프�
 
 **교육과정에 정렬된 모델링 과제 생성.** AI 기반 플랫폼은 설계 원칙과 [[rag|검색 증강]] 생성에 기반한 교육과정 정렬 문제와 교수법적 권고를 생성함으로써, 양질의 [[math-education|수학적 모델링]] 과제 설계에 필요한 교사의 시간과 자원 부족을 해결할 수 있습니다. 이 접근은 중등 학교 수학의 정비례 사례로 제시되었습니다([[ai-modeling-problem-generation-platform-2026]]). 강의 읽을거리 자체도 이제 생성 대상입니다. Sidorkin (2026)은 대학원 교육 리더십 강좌에서 상업 교과서를 매주 AI 생성 읽을거리로 대체했고, 학생들은 유용하다고 평가했으며 75%가 비교 가능한 다른 강좌보다 더 많이 배웠다고 동의했으나, 4,487쪽의 기록에서 APA 형식의 인용이 실린 쪽은 약 0.80%에 불과했고, 확인 가능한 출처 없이 단정적인 정책 주장을 캠퍼스나 시스템 이름과 짝지은 쪽은 약 1.03%였습니다. 교육과정 자료에 대한 교훈은 생성된 읽을거리를 교수 검토 아래의 초안 생산물로 다루고, 프롬프트 설계와 검증의 교수 노동을 예산에 반영하며, 출처 품질을 학생이 맥락에서 추론하도록 두지 않고 검증된 출처를 조수에게 큐레이팅하는 것입니다.
 
-**교육과정에서 교실로의 층위에서 AI 지원 수업 계획.** 교육과정이 가르쳐지는 수업이 되는 지점에서, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir (2025)]]는 아동 [[stem-education|STEAM]] 예술 교육에서 교사 생성 계획과 ChatGPT 보조 계획을 실험적으로 비교하여, AI 보조 계획이 여섯 명의 전문 교수에 의해 유의하게 높게 평가받음을(중앙값 20.5 대 17.6, p = .002, 큰 효과) 발견했습니다. 그 성과는 교사가 어떻게 위임하느냐에 달려 있습니다. 권장 방법은 전체 계획을 위임하는 대신 스스로 개요를 잡은 수업의 내용 공백을 채우는 것(교수 설계 [[agency|자율성]]을 보존)이며, 이들은 재현 가능하고 품질 관리된 생성을 위한 역할–지시–최종 목표 프롬프트 템플릿을 제시합니다. 이는 AI 수업 계획이 교사의 교육과정 결정을 대체하지 않고 그 안에 내장될 때 가장 강력하다는 증거입니다. 과학교육에서 전문가 검증은 플랫폼 설계에 대해 평행한 결론에 이릅니다. [[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu, Surmeli and Yildirim (2026)]]은 11명의 [[science-education]] 전문가에게 터키 개정 교육과정과 공학 [[design-based-research|설계 기반]] 학습 모델에 정렬된 6학년 계획에 대해 ChatGPT-4와 교육 특화 도구(Teacher's Buddy)를 평가하게 했습니다. 교육 특화 플랫폼은 피드백 집약적 단계와 교육과정 정렬을 포함한 여덟 가지 품질 기준 전반에서 더 높은 점수를 받았는데, 이는 교수법적 구조를 AI에 내장하는 것이 더 잘 정렬된 산출물을 낳는다는 증거입니다. 그러나 일부 전문가는 사회정서적 강조가 더 강한 범용 계획을 여전히 선호했고, 11명 중 7명은 계획을 직접 사용 가능하다기보다 "수정하여 적용 가능하다"고 판단했습니다. 생성된 계획이 교육과정 기준과 과정 모델에 얼마나 잘 정렬되는지는 AI 자체뿐 아니라 플랫폼의 선택과 프롬프트 틀에 의해 좌우됩니다.
+**교육과정에서 교실로의 층위에서 AI 지원 수업 계획.** 교육과정이 가르쳐지는 수업이 되는 지점에서, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir (2025)]]는 아동 [[stem-education|STEAM]] [[arts-design-and-media-education|예술 교육]]에서 교사 생성 계획과 ChatGPT 보조 계획을 실험적으로 비교하여, AI 보조 계획이 여섯 명의 전문 교수에 의해 유의하게 높게 평가받음을(중앙값 20.5 대 17.6, p = .002, 큰 효과) 발견했습니다. 그 성과는 교사가 어떻게 위임하느냐에 달려 있습니다. 권장 방법은 전체 계획을 위임하는 대신 스스로 개요를 잡은 수업의 내용 공백을 채우는 것(교수 설계 [[agency|자율성]]을 보존)이며, 이들은 재현 가능하고 품질 관리된 생성을 위한 역할–지시–최종 목표 프롬프트 템플릿을 제시합니다. 이는 AI 수업 계획이 교사의 교육과정 결정을 대체하지 않고 그 안에 내장될 때 가장 강력하다는 증거입니다. 과학교육에서 전문가 검증은 플랫폼 설계에 대해 평행한 결론에 이릅니다. [[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu, Surmeli and Yildirim (2026)]]은 11명의 [[science-education]] 전문가에게 터키 개정 교육과정과 공학 [[design-based-research|설계 기반]] 학습 모델에 정렬된 6학년 계획에 대해 ChatGPT-4와 교육 특화 도구(Teacher's Buddy)를 평가하게 했습니다. 교육 특화 플랫폼은 피드백 집약적 단계와 교육과정 정렬을 포함한 여덟 가지 품질 기준 전반에서 더 높은 점수를 받았는데, 이는 교수법적 구조를 AI에 내장하는 것이 더 잘 정렬된 산출물을 낳는다는 증거입니다. 그러나 일부 전문가는 사회정서적 강조가 더 강한 범용 계획을 여전히 선호했고, 11명 중 7명은 계획을 직접 사용 가능하다기보다 "수정하여 적용 가능하다"고 판단했습니다. 생성된 계획이 교육과정 기준과 과정 모델에 얼마나 잘 정렬되는지는 AI 자체뿐 아니라 플랫폼의 선택과 프롬프트 틀에 의해 좌우됩니다.
 
-구조가 — 프롬프트 문구가 아니라 — AI 초안 작성을 실제 운영에서 신뢰할 만하게 만드는 것입니다. [[curriculum-as-code-instructional-design-2026|Paiva (2026)]]의 Curriculum-as-Code 파이프라인은 맥락을 적극적으로 가지치기하고 28개 프로젝트 맥락에서 자료를 절차별로 생성하여, 교수의 준비 시간을 지시당 약 8시간에서 2시간으로 줄였고 사람이 검토해 잡아낼 개념적·수학적 환각을 남기지 않았습니다.
+구조가 — 프롬프트 문구가 아니라 — AI 초안 작성을 실제 운영에서 신뢰할 만하게 만드는 것입니다. [[curriculum-as-code-instructional-design-2026|Paiva (2026)]]의 Curriculum-as-Code 파이프라인은 맥락을 적극적으로 가지치기하고 28개 프로젝트 맥락에서 자료를 절차별로 생성하여, 교수의 준비 시간을 지시당 약 8시간에서 2시간으로 줄였고 [[human-in-the-loop-ai|사람이 검토해]] 잡아낼 개념적·수학적 [[hallucination-risk|환각]]을 남기지 않았습니다.
 
 ### 관련 개념과의 연결
 
 교육과정 설계는 [[learning-design]]과 직접 연결됩니다. 교육과정은 무엇을, 수업은 어떻게를 규정하기 때문입니다. AI 역량의 내장이 교육과정의 주요 과제이므로 [[ai-literacy]], 교육과정 변경이 교육자 준비를 요구하므로 [[teacher-role]]과 [[educational-development]], 잘 설계된 교육과정이 강좌와 여러 해에 걸쳐 기술 발달을 뒷받침하므로 [[scaffolding]]과 연결됩니다. [[higher-ed]]와 [[k-12]] 연결은 교육과정 설계가 여러 교육 수준에 걸쳐 관련됨을 반영합니다.
 
+
+**하나의 AI 리터러시 프레임워크를 고르는 것은 아무도 상호 대조하지 않은 어휘를 고르는 일입니다.** K-12 프레임워크 50개에 대한 범위 검토에서 [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach 등(2026)]]은 역량 정의가 인지적, 정의적, 행동적, 윤리적, 사회적 차원으로 수렴하는 반면 라벨과 구성개념은 정렬되지 않았음을 발견했습니다. ABCE 프레임워크만이 홍콩, 상하이, 대만에서 검증된 공유 측정 전통에 가까웠고, 학년 간 진전은 반복해서 제안되었으나 어디에서도 시험되지 않았습니다.
+
 ## 흔한 오해
 
-- **"LLM은 높은 신뢰도로 타당화되면 교육과정을 매핑할 수 있다."** GPT-o3-mini는 **48개 평가 각각에 대해 일곱 기업 역량 전반에 100%를 배분**하여 전문가 가중치에 대해 **Krippendorff's alpha 0.81**에 이르렀고, **일치도**는 특정 역량에서 무너졌습니다. 전체 신뢰도가 높으면서 일치도가 고르지 않은 것이 매핑을 신뢰하기 전에 점검해야 할 양상입니다.
+- **"[[llm|LLM]]은 높은 신뢰도로 타당화되면 교육과정을 매핑할 수 있다."** GPT-o3-mini는 **48개 평가 각각에 대해 일곱 기업 역량 전반에 100%를 배분**하여 전문가 가중치에 대해 **Krippendorff's alpha 0.81**에 이르렀고, **일치도**는 특정 역량에서 무너졌습니다. 전체 신뢰도가 높으면서 일치도가 고르지 않은 것이 매핑을 신뢰하기 전에 점검해야 할 양상입니다.
 - **"AI 리터러시를 내장한다는 것은 강좌를 추가한다는 뜻이다."** LearnAI는 내장형을 보여 줍니다. **다섯 학문의 기존 강좌 18개 안에 짧은 발표로 이루어진 폭넓은 노출 층위(학생 293명)** 입니다. 노출은 한 단원에 모인 것이 아니라 교육과정 전반에 분산되었습니다.
 - **"학생들은 이미 미디어를 비판적으로 평가할 수 있는 상태로 온다."** 응답한 교육·저널리즘 학생 중 **13.8%만이** 수강 과목에서 비판적 미디어 분석을 다루었다고 답한 반면, **97.8%가 그것을 중요하다고 평가**했습니다. 기술을 가치 있게 여기는 것과 그것을 배우는 것 사이의 격차가 교육과정의 기회입니다.
 
@@ -152,3 +158,5 @@ K-12 머신러닝 활동 설계는 표면에 머물러 있습니다. ICE-T 프�
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]] — 과학 교육 전문가의 관점에서 본 AI 지원 수업 계획의 적합성
 - [[ai-particle-physics-education-redesign-2026]] — 입자 물리 교육에서의 AI: 연구 문제와 기초 역량
 - [[computing-assessment-genai-workshop-report-2026]] — AI가 여러분의 숙제를 해 줄 수 있습니다. 이제 무엇을 할까요? 생성형 AI 시대의 컴퓨팅 평가에 관한 온라인 워크숍 보고서
+- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 역량 프레임워크는 공유 어휘나 상호 대조 없이 다섯 차원에 수렴합니다
+- [[bursic-ai-residency-education-curriculum-2026]] — 레지던시 교육과정에 AI를 통합하는 장벽: 의사 리더 12명과의 질적 면담

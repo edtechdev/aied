@@ -1,7 +1,7 @@
 ---
 title: 모둠 활동
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-04T18:52:13-05:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-11-04T18:52:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -86,11 +86,11 @@ GenAI와 모둠 평가에 관한 가장 직접적인 발견은 [[chen-zou-genai-
 
 ### 다듬어진 출력의 인식론적 위험
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]]는 학습자가 AI를 사용해 다듬어진 지식 산출물을 만들어낼 때 인식론적 노력이 줄어드는 위험을 개념화합니다. 한편에는 사회인지적 차원의 [[automation-bias|자동화 편향]], 다른 한편에는 완성된 산출물이 유발하는 인식론적 폐쇄가 그것입니다. 해법은 AI를 갈등을 보존하는 논증적 동료이자 도전자로 구조화하는 것입니다. 반론은 [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]]에게서 나옵니다. 그들은 LLM이 비판의 동료로 작동하고 학생들이 그 주장을 적극적으로 반박할 때, 학습자들이 비판의 인지적 갈등을 항복하지 않고 보존하는 비판적 소비자로 행동한다는 것을 발견했습니다. 답을 주는 팀원과 도전하는 동료 사이의 차이가, AI와 함께하는 모둠 활동이 사고를 키우는지 아니면 사고를 우회하는지를 결정하는 것입니다.
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]]는 학습자가 AI를 사용해 다듬어진 지식 산출물을 만들어낼 때 인식론적 노력이 줄어드는 위험을 개념화합니다. 한편에는 사회인지적 차원의 [[automation-bias|자동화 편향]], 다른 한편에는 완성된 산출물이 유발하는 인식론적 폐쇄가 그것입니다. 해법은 AI를 갈등을 보존하는 논증적 동료이자 도전자로 구조화하는 것입니다. 반론은 [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]]에게서 나옵니다. 그들은 LLM이 비판의 동료로 작동하고 학생들이 그 주장을 적극적으로 반박할 때, 학습자들이 비판의 인지적 갈등을 [[cognitive-surrender|항복]]하지 않고 보존하는 비판적 소비자로 행동한다는 것을 발견했습니다. 답을 주는 팀원과 도전하는 동료 사이의 차이가, AI와 함께하는 모둠 활동이 사고를 키우는지 아니면 사고를 우회하는지를 결정하는 것입니다.
 
 ### 학급 단위의 비평가적 지원
 
-[[breideband-community-builder-cobi-2026|CoBi]]는 "고양하는" 소규모 모둠 담론(존중, 형평성, 공동체, 사고를 앞으로 나아가게 하는 것)을 감지하고 비평가적이며 학급 단위의 시각화를 돌려줍니다. [[privacy]]와 [[trust]]를 보호하기 위해 학생 단위나 모둠 단위의 피드백을 의도적으로 보류하면서 말입니다. 학생들은 [[quantitative-research|정량적]] 시각화(방사형 차트)보다 [[qualitative-research|질적]] 시각화(유기적인 나무)를 선호했습니다. 모둠 활동의 관계적 차원에 대해, 개인 점수가 감시로 느껴질 곳에서 학급 단위 집합 피드백은 공동체 형성을 뒷받침합니다.
+[[breideband-community-builder-cobi-2026|CoBi]]는 "고양하는" 소규모 모둠 담론(존중, 형평성, 공동체, 사고를 앞으로 나아가게 하는 것)을 감지하고 비평가적이며 학급 단위의 [[visualization|시각화]]를 돌려줍니다. [[privacy]]와 [[trust]]를 보호하기 위해 학생 단위나 모둠 단위의 피드백을 의도적으로 보류하면서 말입니다. 학생들은 [[quantitative-research|정량적]] 시각화(방사형 차트)보다 [[qualitative-research|질적]] 시각화(유기적인 나무)를 선호했습니다. 모둠 활동의 관계적 차원에 대해, 개인 점수가 감시로 느껴질 곳에서 학급 단위 집합 피드백은 공동체 형성을 뒷받침합니다.
 
 ## 설계에의 시사점
 

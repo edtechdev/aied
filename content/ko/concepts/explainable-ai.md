@@ -1,7 +1,7 @@
 ---
 title: 설명 가능한 AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -84,6 +84,9 @@ XAI-ED 프레임워크는 주요 설명 양상들을 목록화합니다. **시�
 
 **설명 가능성을 설계에 내장하는 것**은 사후 충실성 문제에 대한 하나의 답입니다. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang and Fang (2025)]]는 설명 디코더를 [[assessment]]를 결정하는 것과 같은 융합 표현과 예측 점수로 매개변수화하여, [[formative-assessment|형성적]] 질문에 대한 낮은 점수가 불충분한 탐색 질문을 지명하는 근거 제시를 산출하게 하고, 여기에 교육과정 기준과 학문 특정 루브릭 조치에 대한 이중 렌즈 주의를 짝지었습니다. 루브릭에 대한 주의 정렬은 GPT-4 제로샷의 41.7%, BERT의 32.1% 대비 78.0%에 도달하며, 충실성은 루브릭 핵심 구간의 대안적 삭제와 루브릭 고정 체크리스트에 대한 인간 평정을 함께 사용해 검증되어 0.78의 설명 신빙성 점수를 줍니다. 이는 BERT-base 대비 0.31의 증가입니다. 감사는 또한 그 구조적 주장이 얇아지는 지점을 보여줍니다. 정서 단서에서 모델은 주의 가중치의 28.4%를 배정하는 반면 전문가는 15.2%를 배분하며(정렬 0.53), 한 실패 사례는 "frustrated" 토큰에 28%를 할당했는데, 저자들은 이것을 교수학이 아니라 정서에 대한 과적합으로 읽고 개선이 필요한 영역으로 지명합니다. 설명을 결정 경로에 내장하면 그것들을 사후적 정당화보다 더 충실하게 만듭니다. 그것이 옳게 만들지는 못합니다.
 
+**모형이 사용했다고 말하는 것은 데이터만큼이나 모형 계열에 달려 있습니다.** 한 코호트의 일곱 모형에 걸쳐, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar 등(2026)]]은 기호적 접근이 인지적·[[motivation|동기]] 요인에 기대고, 아기호적 모형은 인지적 측면과 학습된 지식, 성별에 기대며, 둘 다 메타인지 요인은 대체로 간과한 반면, 신경-기호 모형은 더 통합된 집합을 사용했음을 발견했습니다. 같은 학생과 같은 지표가 무엇이 중요했는지에 대해 서로 다른 설명을 산출했으므로, [[learning-theories|학습 이론]]과의 정렬은 정확성에 관한 주장이 아니라 귀인에 관한 주장이 됩니다.
+
+
 인용은 정확성의 증거가 아니라 신뢰성 단서로 작동합니다. 토론 인터페이스에 인용과 권위 신호를 붙이자 올바른 판단을 버리고 AI 입장을 채택하는 비율이 15.0%에서 31.8%로 올랐고, 인용된 사례는 때때로 잘못 귀인되거나 허구였습니다([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
 ## 설명 가능성을 책임의 실천으로 가르치기
@@ -145,3 +148,4 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — 탐지가 사용자에게 결코 보고되지 않은 AI 매개 채점에서의 프롬프트 인젝션 (Humble 2026)
 - [[bloom-classifier-ai-assisted-questions-2026]] — 새로운 AI 보조 교육 질문의 교수학적 평가를 위한 사전 훈련 모델의 평가
 - [[decision-making-agent-student-decision-acceptance-2026]] — 교사 대 AI가 낸 채점 결정: 서면 근거 제시가 공정성 간극을 넓힘
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — 한 코호트의 일곱 모형이 서로 다른 요인에 예측을 귀인했다: 기호적, 아기호적, 신경-기호 모형

@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: 고등 교육
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -83,7 +83,7 @@ ai_assist:
 ## 고등 교육 교수자를 위한 함의
 
 - **AI 활용 능력을 갖춘 학생 집단을 위해 평가를 설계하십시오.** 탐지 중심의 정직성 접근은 [[authentic-assessment|실제적]]·과정 기반 평가([[beyond-detection-authentic-assessment-ai-2025|탐지를 넘어서]], [[ai-assessment-scale-reform|평가 개혁]])에 자리를 내주고 있습니다. 무엇을 평가하는지를 재설계하십시오. 단지 그것을 단속하는 방식만이 아니라.
-- **교실 내 금지를 보증으로 다루지 마십시오.** 스마트 안경과 AI 지원 보청기는 이중으로 투명합니다 — 시선이 떨어지거나 자세가 흐트러지는 신호가 없습니다 — 따라서 감독 시험이나 구술 시험은 물리적 분리로 증거적 확신을 살 수 없습니다([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin 외, 2026]]).
+- **교실 내 금지를 보증으로 다루지 마십시오.** 스마트 안경과 AI 지원 보청기는 이중으로 투명합니다 — [[sensor-and-gaze-analytics|시선]]이 떨어지거나 자세가 흐트러지는 신호가 없습니다 — 따라서 감독 시험이나 구술 시험은 물리적 분리로 증거적 확신을 살 수 없습니다([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin 외, 2026]]).
 - **"학생이 손으로 여전히 배워야 할 것은 무엇인가?"라는 질문을 다시 설계하십시오.** 컴퓨팅에서와 마찬가지로 어떤 기술을 보존해야 하는지(검증, 판단, 과정)를 정하고 그것을 평가의 핵심으로 삼으십시오. AI 기술이 자동으로 전이된다고 가정하지 마십시오.
 - **교수 준비도를 사회기술적으로 다루십시오.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]]는 준비도를 인식론적, 교수법적, 기관적, 질적 영역에 걸쳐 틀짓합니다. 도구 숙달이 아니라 기관 거버넌스와 자신의 [[pedagogy|교수 실천]]을 정렬하십시오.
 - **교수진에게 도구 자신감이 아니라 AI 리터러시를 지원하십시오.** [[faculty-ai-well-being-social-supports-2026|Liu 외(2026)]]는 사회적·조직적 지원이 AI 리터러시(β = 0.713)를 통해 간접적으로만 대학 교수진의 AI 웰빙에 도달한다는 것을 발견했습니다. 개념적·윤리적·교수법적 이해를 쌓는 프로그램이 실습 유창성만 제공하는 것보다 교수진에게 더 많은 일을 합니다.

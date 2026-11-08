@@ -1,7 +1,7 @@
 ---
 title: 피드백 리터러시
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -81,6 +81,9 @@ AI는 피드백을 두 방향으로 바꾸어 피드백 리터러시의 중요�
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang and Guo (2026)]]은 피드백 리터러시를 실천을 통해 함양 가능한 것으로 다룹니다. 생성형 AI와 대화적으로 협력하여 논평을 만들어 낸 EFL 동료 평가자들은 자신이 전달한 논평만이 아니라 피드백을 판단하고 활용하는 자신의 역량도 향상시켰습니다.
 
+**피드백 리터러시는 사람 원천뿐 아니라 기계 원천도 포괄해야 합니다.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman 등(2026)]]은 학생들에게 같은 초안에 대한 또래 피드백과 챗봇 피드백을 같은 성찰 안에서 평가하게 하여, 비교 자체를 학습 과제로 만듭니다. 그들의 학생들은 교수자의 권위에 비해 챗봇의 권위를 낮추어 평가했고, 저자들은 그 낮춤을 주저가 아니라 리터러시로 읽습니다.
+
+
 ## 흔한 오해
 
 - **"AI 피드백은 비판적 사고를 직접 개선한다."** **중국 학부생 421명**에서 생성형 AI 사용과 [[self-report-measures|자기보고식]] 비판적 사고의 연관성은 **피드백 리터러시를 통해** 나타났습니다. 리터러시가 매개자이므로, 그것을 읽어 낼 역량을 기르지 않은 채 AI 피드백을 더하는 개입은 잘못된 항을 다루는 셈입니다.
@@ -103,6 +106,7 @@ AI는 피드백을 두 방향으로 바꾸어 피드백 리터러시의 중요�
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
+- [[reflection]]
 
 ## 연결된 문서
 
@@ -131,3 +135,4 @@ AI는 피드백을 두 방향으로 바꾸어 피드백 리터러시의 중요�
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI 피드백 리터러시와 주체적 관여: 3차 웨이브 확률절편 패널(Xu 2026)
 - [[ai-feedback-literacy-assessment-as-learning-2026]] — 루브릭 등급 작업 표본을 생성하여 피드백 리터러시 가르치기(Pennington & Hock 2026)
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — 수정의 이득을 지고 간 것은 행동 가능성이 아니라 이해
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 하나의 성찰 과제 안에서 같은 초안에 대한 또래 피드백과 챗봇 피드백 평가하기

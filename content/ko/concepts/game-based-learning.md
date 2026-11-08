@@ -1,13 +1,13 @@
 ---
 title: 게임 기반 학습
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:36-05:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-10-26T13:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,8 +38,12 @@ GBL은 [[motivation]], [[student-engagement]], [[active-learning]] 이론에 뿌
 - **로봇 매개 게임:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]]는 따돌림 방지 개입을 위한 로봇 매개 역할극 게임이고, [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]]는 동기를 높이기 위해 상호작용적 [[storytelling-in-education|디지털 스토리텔링]]을 사용합니다.
 - **모의 게임에서의 AI [[conversational-ai|대화 에이전트]]:** Wenzel, Geiger, and Liening (2026)은 디지털 게임 기반 학습에서의 AI 대화 에이전트를 위한 네 가지 설계 원칙과 열다섯 가지 설계 특성으로 이루어진 CAIS-GBL 틀을 인지적, 동기적, [[affective-computing|정서적]], [[sociocultural-learning|사회문화적]] 참여에 걸친 이론 기반 메타 요건으로부터 도출하며, [[equity-in-ai-education|형평성]]에 의한 설계 입장을 취합니다. 경영 모의 게임에서의 그들이 구현한 에이전트(Lara)는 인지적·[[community-of-inquiry|사회적 현존]]과 [[self-regulated-learning]] 지원에 대해 긍정적으로 받아들여졌으며, 모의 게임에서 흔한 간극인 제한된 [[formative-assessment|형성적]] 피드백과 구조화된 성찰의 부재를 다룹니다.
 
+- **AI-GBL 효과:** AI 지원 게임 기반 학습에 관한 55개 연구의 [[meta-analysis-systematic-review|메타분석]]은 지식, 내재적 동기, 정서적 참여에 긍정적 효과를 발견하지만, 단 4개 연구(7%)만이 High-quality 기준을 충족했고 단 4개(7%)만이 [[rct|RCT]]였습니다([[ai-game-based-learning-systematic-review-2026|Kaşarcı & Yurt, 2026]]). 효과는 AI 메커니즘을 명시된 [[learning-theories|학습 이론]]과 정렬하는 데 달렸습니다.
 
-- **AI-GBL 효과:** AI 지원 게임 기반 학습에 관한 55개 연구의 체계적 검토는 지식, 내재적 동기, 정서적 참여에 긍정적 효과를 발견하지만, 단 4개 연구(7%)만이 High-quality 기준을 충족했고 단 4개(7%)만이 [[rct|RCT]]였습니다([[ai-game-based-learning-systematic-review-2026|Kaşarcı & Yurt, 2026]]). 효과는 AI 메커니즘을 명시된 [[learning-theories|학습 이론]]과 정렬하는 데 달렸습니다.
+- **플레이어가 아니라 게임의 저자로서의 [[generative-ai|GenAI]]:** [[xie-genai-mystery-game-legal-education-2026|Xie et al. (2026)]]는 모델이 오프라인 추리 역할극 게임을 위해 일곱 인물과 서사 자료의 초안을 쓰게 했고, 그 게임은 42명 단위 무작위 시험에서 같은 교수자의 강의를 앞섰습니다(부분 *η*² = 0.566). 학생들은 AI를 전혀 사용하지 않았으므로, 효과는 형식에 속합니다.
+- **플레이어가 아니라 게임 설계자로서의 학생들:** [[karampa-students-game-designers-ai-literacy-2026|Karampa et al. (2026)]]는 8-12세 초등학생 22명이 허위정보에 관한 증강 현실 탈출 보드게임을 설계하게 했고, [[project-based-learning|프로젝트 기반 학습]]에 [[design-thinking|디자인 사고]]와 Room2Educ8 탈출방 틀을 쌓았습니다. 20문항 DigComp 3.0 설문의 종합 [[ai-literacy|AI 리터러시]]는 5점 척도에서 3.684에서 4.309로 상승했고, t(21) = −21.086, p < .001이었으며, 다섯 역량 영역이 모두 향상되었습니다. 학급은 AI 프롬프트로 11개의 제안을 만들어 하나의 만들 수 있는 게임으로 합쳤습니다. [[self-report-measures|자기보고]]이며, 한 학급이고, 통제 집단이 없습니다.
+- **AI를 대화 코치와 난이도 엔진으로 나누십시오.** 상위 중등 컴퓨팅 사고를 위한 AI 강화 Roblox 환경은 두세 문장으로 제한되고 답을 주지 못하는 GPT-4 비플레이어 캐릭터를, 해결 시간과 오류율로 난이도를 설정하는 규칙 기반 엔진과 짝지었습니다([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang & Kanjug, 2026]]).
+
 
 ### 게임화
 
@@ -77,7 +81,7 @@ GBL과 게임화는 함께 [[educational-robotics]], [[student-engagement]], [[m
 
 - 분야의 양이 아니라 설계 품질을 높이십시오. 7%의 고품질 비율이 무엇을 결론지을 수 있는지를 제한하는 구속 조건입니다.
 
-- **모의 게임에서의 대화형 피드백은 외재적 부하를 낮추지 않고 유관 부하를 높입니다.** **학생 234명**이 참여한 5주 경영 모의 게임에서 GPT-4o 기반 피드백 챗봇의 규칙적 사용자는 참여하지 않은 접근권자보다(**β = -.468, p < .001**), 그리고 정적 피드백 통제 집단보다(**β = -.253, p = .028**) 유관 인지 부하가 유의하게 높다고 보고했습니다. 반면 **외재적 부하는 두 명세 모두에서 효과가 없었습니다**(F(1, 219) = 0.499, p = .481). 두 부하는 **5주에 걸쳐 함께 감소했으며**(외재적 β = -.388, p < .001), 이는 참여가 아니라 인지 부하로 측정한 새로움 효과입니다([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger와 Liening, 2026]]). 설계상의 요점은 그 피드백이 19개의 구체적 지표에 걸쳐 개인화, 신호, 분절, 전방 제시 구조를 담았다는 것입니다. 챗봇 표면만이 처치가 아닙니다.
+- **모의 게임에서의 대화형 피드백은 외재적 부하를 낮추지 않고 유관 부하를 높입니다.** **학생 234명**이 참여한 5주 경영 모의 게임에서 GPT-4o 기반 피드백 챗봇의 규칙적 사용자는 참여하지 않은 접근권자보다(**β = -.468, p < .001**), 그리고 정적 피드백 통제 집단보다(**β = -.253, p = .028**) 유관 인지 부하가 유의하게 높다고 보고했습니다. 반면 **외재적 부하는 두 명세 모두에서 효과가 없었습니다**(F(1, 219) = 0.499, p = .481). 두 부하는 **5주에 걸쳐 함께 감소했으며**(외재적 β = -.388, p < .001), 이는 참여가 아니라 인지 부하로 측정한 새로움 효과입니다([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger와 Liening, 2026]]). 설계상의 요점은 그 피드백이 19개의 구체적 지표에 걸쳐 [[personalized-learning|개인화]], 신호, 분절, 전방 제시 구조를 담았다는 것입니다. 챗봇 표면만이 처치가 아닙니다.
 
 ## 연결된 개념
 - [[educational-robotics]]
@@ -96,6 +100,10 @@ GBL과 게임화는 함께 [[educational-robotics]], [[student-engagement]], [[m
 - [[ai-game-based-learning-systematic-review-2026]] — AI 지원 게임 기반 학습 연구 55건의 체계적 검토: 긍정적 결과, 얇은 증거 기반
 
 - [[game-based-gamified-robotics-education-review-2026]] — 게임 기반·게임화 로봇공학 교육
+
+- [[xie-genai-mystery-game-legal-education-2026]] — 법학교육에서 강의와 비교한 GenAI 저작 추리 역할극 게임 (Xie et al. 2026)
+- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — 컴퓨팅 사고를 위한 AI 강화 게임 기반 학습 환경의 설계와 예비 타당화
+
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — 목격자 개입을 위한 로봇 매개 역할극 게임 (응용 드라마)
 - [[motibo-digital-storytelling-robots-motivation-2026]] — 동기를 위한 로봇 매개 디지털 스토리텔링(MotiBo)
 - [[bots-blocks-project-based-robotics-education-2026]] — 프로젝트 기반 로봇공학 교육을 위한 봇과 블록
@@ -103,3 +111,6 @@ GBL과 게임화는 함께 [[educational-robotics]], [[student-engagement]], [[m
 - [[genai-motivation-engagement-2026]] — 생성형 AI, 동기, 참여
 - [[nasa-tlx-workload-gamified-ai-2026]] — 게임화/AI 조건에 걸친 NASA-TLX 업무량
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS 동기와 AI 지원 게임화
+
+- [[karampa-students-game-designers-ai-literacy-2026]] — 초등학생이 탈출 보드게임을 설계하고, 한 번의 e-course 실습 안에서 AI 리터러시가 상승한다
+

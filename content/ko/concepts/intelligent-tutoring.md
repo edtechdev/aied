@@ -1,8 +1,8 @@
 ---
-connected_resources: [deeptutor, openmaic]
+connected_resources: [deeptutor, openmaic, learnharness]
 title: 지능형 튜터링
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:36-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,9 @@ TeachLM은 희소한 재료가 진정한 학습자–튜터 상호작용이라�
 - **튜터링 하네스는 약한 기반 모형은 돕지만 강한 것은 해칠 수 있다.** [[regulatutor-long-term-personalized-tutoring-2026|RegulaTutor (Li et al. 2026)]]는 모형을 증거에 연결되고 [[self-regulated-learning|SRL]]에 기반한 단계들로 감싸 네 개의 로컬 검사점에 걸쳐 역사적 증거 정확도를 평균 25.7포인트 끌어올렸습니다. 판단된 교수의 질은 거의 움직이지 않았고(+0.016), 증거 이득은 검증된 가장 강한 기반 모형에서는 역전되었습니다(GPT-5.6-sol −4.87포인트).
 - **교사의 중재가 구현 충실도를 대략 두 배로 만든다(전 구역 현장 증거):** [[alam-goblins-math-platform-2026|Goblins (Alam et al. 2026)]] — 교사가 매개하는 [[multimodal|다중 양식]] AI 수학 플랫폼으로, 애리조나의 대형 구역에 있는 모든 6~8학년 수학 교사에게 도입되었습니다 — 이는 문제 2개/주라는 겸손한 참여 기준에서 6,065명의 학생 중 약 51%에 도달했으며, 이전 평가들의 5%(Khan Academy)와 12%(IXL) 기준선과 대비됩니다.
 - **그리고 그 안에서 용량이 효과를 이끕니다(같은 연구).** 가중 성향 설계는 사용을 구역 내 MAP 성장 0.11 SD(전국 조건부 성장 지수 0.24 SD)와 연관 지었고, 깨끗한 용량 기울기를 보였습니다. 주 10~19문제에서 0.18 SD, 20문제 이상에서 0.31 SD였고, 주 3문제를 넘는 모든 용량이 유의했습니다(p < 0.01). 탐색적 하위 집단은 IEP 학생(+0.122 SD), [[multilingual-learning|영어 학습자]](+0.191 SD), 히스패닉 학생(+0.084 SD)에서 더 큰 연관을 보였습니다. 설계는 준실험적이며 사용에의 자기 선택이 저자들이 지목한 취약점이지만, 충실도와 용량-반응은 구속 조건 교훈을 직접 예시합니다.
+
+- **교실 규모에서 표준화 시험 성과 없이 근전이는 나타납니다.** [[learnlm-eedi-expanded-rct-2026|LearnLM Team, Google & Eedi (2026)]]는 영국 공립학교 10곳의 학생 1,179명을 10주간 네 개 군으로 무작위 배정했습니다. 지원 후 두 번째 진단 질문에 정답을 낸 비율은 56.5~56.9%로, 표준 교정 하의 43.4%보다 높았습니다. Star Maths 효과는 −0.01에서 +0.02 SD였습니다. 튜터는 94,385건의 초안 가운데 94.7%를 수정 없이 승인했고, 114,935건의 초안에서 6건의 오류가 학생에게 도달하기 전에 잡혔습니다.
+
 
 ### 주요 ITS 개념
 
@@ -233,3 +236,6 @@ AI 튜터를 배치하는 강사와 그것을 만드는 개발자에게, 이 지
 - [[visual-access-proactive-ai-tutoring-handwritten-math-2026]] — 손글씨 작업 위의 카메라: 시각적 접근과 능동적 수리(Kotalwar 외 2026)
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — 기성 모형은 그 증거를 제공하지 못할 수 있다: Worden 외
 - [[multi-sourced-ai-tutor-non-native-english-2026]] — 비원어민 영어 사용자 학생을 위한 다중 출처 AI 튜터
+
+- [[learnlm-eedi-expanded-rct-2026]] — 확대된 영국 RCT: 10주에 근전이 이득은 있으나 표준화 시험 우위는 없음 (LearnLM Team, Google & Eedi 2026)
+

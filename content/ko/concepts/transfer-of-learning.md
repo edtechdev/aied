@@ -1,7 +1,7 @@
 ---
 title: 학습의 전이
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:36-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,7 +9,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-10-25T22:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ ai_assist:
 
 학습의 전이는 교육 [[research-methods-aied|연구]]의 기초적 관심사이며, AI 도구가 그것을 긴박하게 만들었습니다. AI in education 연구 전반에 문서화된 결정적 경험적 패턴은 **전이 역설**입니다: AI를 사용하는 학생들은 AI가 사용 가능한 작업에서 전형적으로 즉각적이고 측정 가능한 향상을 보이지만, AI가 제거되고 학생들이 독립적으로 이해를 입증해야 할 때 그 향상은 종종 지속되지 못하거나 — 심지어 역전됩니다. 이 패턴은 [[cognitive-offloading|과잉 의존(Over-Reliance)]], 인지 부하 이론, 그리고 [[metacognition]]을 작용하는 메커니즘으로 연루시키며, [[intelligent-tutoring|AI 튜터링]] 설계에 대한 논쟁에 직접 연결됩니다.
 
-준비 상태는 전이가 아닙니다: AI 지원 말하기 연습은 말하기 불안 감소와 인간과의 의사소통 의지 증가와 연관되었으나, 두 연구 모두 인간의 말하기를 관찰하지 않아, AI 리허설에서 인간 의사소통 능력으로 가는 경로는 검증되지 않은 교수법적 제안으로 남아 있습니다([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
+준비 상태는 전이가 아닙니다: AI 지원 말하기 연습은 말하기 [[anxiety-and-stress|불안]] 감소와 인간과의 의사소통 의지 증가와 연관되었으나, 두 연구 모두 인간의 말하기를 관찰하지 않아, AI 리허설에서 인간 의사소통 능력으로 가는 경로는 검증되지 않은 교수법적 제안으로 남아 있습니다([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
 ### 전이 역설
 
@@ -68,7 +68,7 @@ AI를 사용하는 학생들은 AI가 사용 가능한 작업에서 **즉각적�
 
 **도구 의존적 수행.** 학생들은 영역 일반화를 구축하기보다 AI 도구의 특정 가능성([[prompt-engineering|프롬프트 엔지니어링]], 생성된 코드 구조에 대한 의존)에 최적화할 수 있습니다 — 생산적으로 느껴지지만 지속 가능한 학습을 대체하는 [[cognitive-offloading-speedup-illusion|인지적 오프로딩]]의 한 형태입니다.
 
-보호된 교실 역시 잘못된 습관을 가르칠 수 있습니다: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]]은 규칙이 사전에 고정된 시뮬레이션이 불확실성을 걸러내고 규칙 따르기를 강화하므로, 그 안에서 형성된 의사결정 습관은 학생들이 실제 환경에서 경쟁하는 이해관계와 불완전한 정보를 만날 때 인지적 부담이 될 수 있다고 경고합니다.
+보호된 교실 역시 잘못된 습관을 가르칠 수 있습니다: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]]은 규칙이 사전에 고정된 [[simulation|시뮬레이션]]이 불확실성을 걸러내고 규칙 따르기를 강화하므로, 그 안에서 형성된 의사결정 습관은 학생들이 실제 환경에서 경쟁하는 이해관계와 불완전한 정보를 만날 때 인지적 부담이 될 수 있다고 경고합니다.
 **층 민감적 오프로딩과 전이.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]]는 Salomon, Perkins & Globerson의 "기술과 함께하는 효과 대 기술의 결과로서 생기는 효과" 구분을 [[generative-ai|GenAI]] 지원 글쓰기에서 직접 검증합니다: 8주 준실험에서 개방적 AI 협업은 지원된 글쓰기 수행을 극대화했지만 AI 없는 독립적 근전이(near-transfer) 결과는 *가장 낮았고*, 성찰을 동반한 제한적 지원은 독립적 능력을 보존했습니다. 더 깊은 오프로딩 층(추론, 구조)은 표면 층(문법)보다 더 나쁜 전이를 예측했습니다. 이것은 AI의 *함께하는* 지원 하의 수행 향상이 *결과로서*의 독립적 수행으로 전이되지 않는다는 직접적인 교실 증거이며 — 위임의 깊이가 AI 사용 여부뿐 아니라 전이를 형성한다는 증거입니다.
 
 [[physics-education|물리학]]에서 온 보완적이나 다소 교란된 사례: Ruhr University Bochum의 입문 핵물리학과 입자물리학 과정 재설계([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]])에서 학생들은 AI 도움으로 협업적이고 자료가 풍부한 연구 문제를 성공적으로 완료했지만, 동일한 학생들은 전통적인 무보조 서술 시험에서 80점 만점에 평균 20.6점을 기록했고, 여러 진지한 시도가 표준 계산을 완료하지 못했습니다. 저자들은 이것을 지원된 수행이 촉발되지 않은 수행으로 자동 전이되지 않는다는 증거로 읽으며, 그들의 해결책은 의도적인 설계입니다: 서술 시험을 유일한 성적 결정 요인으로 만들고, 수업 시간이 준비된 토론이 되도록 튜토리얼 문제를 미리 공개하고, 탐색적 AI 허용 작업 주변에 선수 준비, 풀이 제시된 예시, 통합을 추가하는 것입니다.
@@ -93,6 +93,9 @@ AI를 사용하는 학생들은 AI가 사용 가능한 작업에서 **즉각적�
 2. **영역 차이:** 잘 구조화된 영역(수학) 대 잘 구조화되지 않은 영역(글쓰기)에서 전이가 더 좋습니까?
 3. **개인차:** 높은 [[prior-knowledge]] 학생들이 초보자보다 전이 손실을 덜 겪습니까?
 4. **기술 교정:** 명시적인 "AI 제외" 연습 세션이 도구 의존을 역전시킬 수 있습니까?
+
+시간 규모 질문에는 이제 형식화가 있습니다. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]]는 지원이 철회된 뒤의 구간을 인지적 세척(cognitive washout)이라고 명명하고, 네 가지 후보 결과를 제시합니다. 탄성적 반등, 부분적 정체, 잠재적 비계, 그리고 과잉 회복입니다. 이 논문은 가역성이 심각도를 결정한다고 주장하며, 그것을 측정하기 위한 사전 등록 가능한 3군 22주 프로토콜을 제안합니다. 위의 연구들은 지원이 끝난 뒤 몇 시간 시점의 전이를 시험했으므로, 그 이후의 몇 주는 이 페이지의 첫 번째 미해결 질문 가운데 진정으로 측정되지 않은 부분으로 남아 있습니다.
+
 
 ### 관련 개념들과의 연결
 
@@ -139,3 +142,6 @@ AI를 사용하는 학생들은 AI가 사용 가능한 작업에서 **즉각적�
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — AI 지원 말하기 연습이 인간에 대한 의지를 높였지만 어떤 연구도 인간의 말하기를 관찰하지 않음
 - [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: 책상에서의 기능적 로봇 구현을 통한 증강 학습
+
+- [[cognitive-washout-ai-skill-decay-2026]] — 인지적 세척: 지원 철회 이후의 구간과 22주 측정 프로토콜 (Yajee 2026)
+

@@ -1,7 +1,7 @@
 ---
 title: 총괄평가
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-10-30T05:04:45-04:00"
+updated: "2026-11-07T23:52:36-05:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -40,9 +40,12 @@ ai_assist:
 
 이 문서고의 연구는 생성형 AI가 총괄평가의 지형을 두 방향으로 근본적으로 재편했음을 보여줍니다. AI는 대규모로 시험을 **채점**하는 데 쓰이고, AI는 학생들에 의해 자신의 학습에 대한 시험 기반 측정을 **회피**하는 데 쓰일 수 있습니다.
 
-- **채점자로서의 AI.** 총괄평가는 시험, 에세이, 단답형의 [[automated-assessment|자동 채점]]에 점점 더 의존합니다. [[llms-do-not-grade-essays-like-humans-2026|LLM 에세이 채점에 관한 연구]]는 [[llm|LLM]]이 인간과 같은 방식으로 에세이를 채점하지 않는다는 것을 발견하여, 고부담 자동 채점에 대한 타당도와 공정성 문제를 제기합니다. [[llm-automated-assessment-student-self-explanations|학생 자기 설명을 평가하는 LLM]]와 [[cong-confidence-asag-2026|자동 단답형 채점]]은 총괄 맥락에서 LLM 채점의 신뢰성을 탐구하고, [[psyscore-essay-scoring-zpd-feedback|심리측정학적으로 인식하는 틀]]은 자동 채점을 신뢰할 수 있고 적응적으로 유지하고자 합니다. 296명의 학생이 손으로 푼 일반화학 시험이 왜 선택적 감독이 필요한지를 보여줍니다. 멀티모달 LLM의 총점은 조교 채점과 높은 일치를 보였으나(R² = 0.91) 문항 수준 신뢰성은 형식에 따라 크게 달랐고, 거짓 양성(실제로 틀린 답에 점수를 주는 것)은 학생들이 거의 이의를 제기하지 않아 드러나지 않는 경향이 있습니다. 따라서 '모든 것을 채점하는' 균일한 AI 채점자는 신뢰도에 기반한 인간 이관 없이는 고부담 사용에 정당화될 수 없습니다([[cvengros-grading-handwritten-chemistry-ai-2026]]).
+- **채점자로서의 AI.** 총괄평가는 시험, 에세이, 단답형의 [[automated-assessment|자동 채점]]에 점점 더 의존합니다. [[llms-do-not-grade-essays-like-humans-2026|LLM 에세이 채점에 관한 연구]]는 [[llm|LLM]]이 인간과 같은 방식으로 에세이를 채점하지 않는다는 것을 발견하여, 고부담 자동 채점에 대한 타당도와 공정성 문제를 제기합니다. [[llm-automated-assessment-student-self-explanations|학생 자기 설명을 평가하는 LLM]]와 [[cong-confidence-asag-2026|자동 단답형 채점]]은 총괄 맥락에서 LLM 채점의 신뢰성을 탐구하고, [[psyscore-essay-scoring-zpd-feedback|심리측정학적으로 인식하는 틀]]은 자동 채점을 신뢰할 수 있고 적응적으로 유지하고자 합니다. 296명의 학생이 손으로 푼 일반[[chemistry-education|화학]] 시험이 왜 선택적 감독이 필요한지를 보여줍니다. [[multimodal|멀티모달]] LLM의 총점은 조교 채점과 높은 일치를 보였으나(R² = 0.91) 문항 수준 신뢰성은 형식에 따라 크게 달랐고, 거짓 양성(실제로 틀린 답에 점수를 주는 것)은 학생들이 거의 이의를 제기하지 않아 드러나지 않는 경향이 있습니다. 따라서 '모든 것을 채점하는' 균일한 AI 채점자는 신뢰도에 기반한 인간 이관 없이는 고부담 사용에 정당화될 수 없습니다([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 - **부정확한 문항 채점 속에서도 결과 합의는 살아남을 수 있다.** 공식 성적에 대해 멀티모달 LLM이 10,364쪽의 손으로 푼 물리 올림피아드 및 대학 시험을 채점했을 때 r = 0.93–0.96으로 상관되었고 동일한 다섯 명의 국제 대표팀을 복원했으나, 정확한 문항 부분 합의는 70%에 그쳤습니다 — 채점자는 그것이 알리는 결정에 의해 판단됩니다([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **회피 수단으로서의 AI.** 생성형 AI가 서면 질문에 답을 만들어낼 수 있으므로, 감독이 없고 과제형인 총괄평가 과제는 타당도를 잃습니다. [[generative-ai-reduced-study-time-math|감독 하의 무보조 측정이 필수적]]인데, 비감독 수행은 AI에 의해 부풀려지며, [[generative-ai-guardrails-harm-learning|가드레일이 있는(정답이 아닌 힌트를 주는) 도구]]는 방치된 AI가 일으키는 시험 페널티를 없앨 수 있습니다. [[chirikov-ai-grade-inflation-2026|Chirikov(2026)]]의 500,000개 이상의 성적에 대한 준실험은 그 메커니즘을 구체적으로 보여줍니다. ChatGPT 출시 이후 AI 노출 과제가 더 많은 강좌에서 A 학점의 비중이 13퍼센트 포인트 상승했고, 효과는 **과제 중심 강좌**에 집중되었습니다(삼중차분 추정에서 추가 16 pp) — 이는 감독 없는 과제가 진정한 [[learning-gains|학습 성과]]가 아니라 AI가 총괄 결과를 부풀리는 곳이라는 직접적 증거입니다.
+
+- **응시자와 채점자는 같은 능력입니다.** Java OOP 입문 강좌 자체의 시험과 시험에서, 학생 루브릭으로 채점한 2026년 시스템 다섯 개가 한 경우를 제외하고 모든 경우에 집단 평균을 앞섰습니다(시험 1에서 14.61 대 13.76, 시험 2에서 14.87 대 13.39). 이들은 더 긴 과제에서 만점을 받는 경우가 많았으나 인터페이스, 추상 클래스, 이미지 기반 문항에서는 여전히 실패했습니다([[genai-oop-programming-assessments-2026|Lepp and Kaimre (2026)]]).
+
 - **AI가 생성한 시험.** [[assessing-quality-ai-generated-exams-field-2025|대규모 현장 연구]]와 [[ai-vs-human-assessment-efl-tpck-2026|EFL 평가 연구]]는 AI가 고품질 시험과 평가 과제를 *생성*할 수 있는지를 살핍니다 — 이것은 AI의 새로운 총괄 설계 용도입니다.
 
 - **학생은 AI가 만든 문항을 신뢰성 있게 알아채지 못합니다.** 학점이 부여되는 가정의학 시험에서 [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt 외(2026)]]는 AI 생성 30문항과 면허 시험 30문항 사이에 출처 귀인의 유의미한 차이가 없음을 발견했고, 평균 정답 인식률은 68.6~77.5퍼센트였으며, 생성된 문항의 18.2퍼센트가 [[human-in-the-loop-ai|인간 검토]]에서 제거되었습니다.
@@ -51,7 +54,7 @@ ai_assist:
 
 이 문서고의 핵심 주제는 **총괄평가 형식이 AI 저항성을 결정한다**는 것입니다 — 과제가 살아 있고, 대면이며, 개별적으로 추궁되는 수행을 요구할수록, 학생들이 자신의 학습을 AI로 대체하기가 더 어려워집니다.
 
-- **구술 시험과 평가.** [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton(2025)]]는 구술 시험이 저기술적이고 본질적으로 AI에 저항하는 총괄 형식이라고 주장합니다. 실시간의 상호작용적 대화는 암기가 아니라 이해, [[critical-thinking|비판적 사고]], 추론을 시험하고, 학생이 AI로 답을 생성하여 외우는 것을 막으며, 전문가의 실제 수행을 반영합니다. [[socratic-tests-conversational-assessment|소크라테스식 시험]]과 [[code-review-genai-cs1|코드 리뷰 면접]]은 이를 동적이고 대화적이며 면접 기반의 총괄평가로 확장합니다.
+- **[[oral-assessment|구술 시험]]과 평가.** [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton(2025)]]는 구술 시험이 저기술적이고 본질적으로 AI에 저항하는 총괄 형식이라고 주장합니다. 실시간의 상호작용적 대화는 암기가 아니라 이해, [[critical-thinking|비판적 사고]], 추론을 시험하고, 학생이 AI로 답을 생성하여 외우는 것을 막으며, 전문가의 실제 수행을 반영합니다. [[socratic-tests-conversational-assessment|소크라테스식 시험]]과 [[code-review-genai-cs1|코드 리뷰 면접]]은 이를 동적이고 대화적이며 면접 기반의 총괄평가로 확장합니다.
 - **폐쇄북, 감독 하의, 무보조 측정.** [[generative-ai-reduced-study-time-math|증거]]와 [[stromberg-generative-ai-learning-penalty-secondary-2026|대규모 현장 데이터]]는 학생들이 AI를 사용할 때 부풀려진 과제나 재택 과제가 아니라 감독 하의 폐쇄북 시험이 실제 학습의 신뢰할 만한 신호임을 보여줍니다. [[responsible-assessment-ai-era-stanford-2026|책임 있는 평가]] 틀은 이러한 무보조 측정을 타당도 기반 재설계 안에 내장합니다. 시험이 온라인으로 남는 곳에서는 [[remote-proctoring|원격 감독]]이 그 역할을 떠맡으며, 이 문서고의 자동 감독에 관한 두 편의 고찰은 탐지 성과와 더불어 프라이버시와 [[bias-mitigation|공정성]] 우려를 발견합니다([[automated-online-exam-proctoring-decade-review-2026]], [[academic-dishonesty-automated-proctoring-ai-2026]]).
 
 - **취약한 과제를 확인하는 쌍둥이와 짝짓기.** [[roe-assessment-twins-2026|Roe, Perkins & Giray(2026)]]는 학습적 가치를 위해 GenAI에 취약한 과제를 유지하되, 같은 성취를 평가하는 두 번째 과제와 짝지어 확인 임계값이나 가중치를 통해 성적을 상호의존적으로 만들어 쌍둥이가 결과를 인증하게 합니다.
@@ -71,7 +74,7 @@ ai_assist:
 - **자동 채점은 심리측정학적 검토가 필요하다:** 고부담 시험에 LLM을 채점에 쓰는 것은 정확도뿐 아니라 신뢰성, 공정성, 타당도의 평가를 요구합니다.
 - 채점 오류는 또한 학점에 따라 다릅니다. 32건의 공중보건 시험 응답에서 LLM은 척도의 양 끝을 피했습니다(빠른 모드에서는 E나 F가 나타나지 않음), 최고 모델은 인간 학점과 50.0%에서 정확히 일치하고 90.6%에서 ±1 학점 이내였습니다([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **AI는 시험을 생성할 수도 있다:** AI 지원 시험 및 과제 생성은 그 자체로 품질 평가가 필요한 새로운 총괄 설계 응용입니다.
-- **형식뿐 아니라 채점의 목적을 재고하라.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy(2026)]]는 피상적이고 파편화된 학습을 부추기고, 학생에게 통제나 투명성을 거의 주지 않으며, 내재적 [[motivation]]을 해치고, 스트레스와 [[well-being|불안]]을 부추르며, 실제 응용보다 회상을 주로 평가하면서 불평등을 영속화하는 전통적 총괄·규준참조 채점을 비판합니다. 이들은 재평가, [[mastery-learning|기준 기반 채점]], ungrading을 총괄 중심 관행을 누그러뜨릴 수 있는 채점 중심 혁신으로 자리매김하되, 이것들이 규범적 장벽 — 성적 곡선 그레이딩, 외적 신호(순위, 인턴십, 인증), 학생들의 도구적 태도 — 때문에 경영 교육에서는 여전히 주변에 머물러 있음을 인정하며, 제도적 지원 아래 점진적 실험을 권고합니다.
+- **형식뿐 아니라 채점의 목적을 재고하라.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy(2026)]]는 피상적이고 파편화된 학습을 부추기고, 학생에게 통제나 투명성을 거의 주지 않으며, 내재적 [[motivation]]을 해치고, 스트레스와 [[well-being|불안]]을 부추르며, 실제 응용보다 회상을 주로 평가하면서 불평등을 영속화하는 전통적 총괄·규준참조 채점을 비판합니다. 이들은 재평가, [[mastery-learning|기준 기반 채점]], ungrading을 총괄 중심 관행을 누그러뜨릴 수 있는 채점 중심 혁신으로 자리매김하되, 이것들이 규범적 장벽 — 성적 곡선 그레이딩, 외적 신호(순위, 인턴십, 인증), 학생들의 도구적 태도 — 때문에 [[business-education|경영 교육]]에서는 여전히 주변에 머물러 있음을 인정하며, 제도적 지원 아래 점진적 실험을 권고합니다.
 
 ## 흔한 오해
 

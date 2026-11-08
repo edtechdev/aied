@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: 자기주도 학습
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-10-25T23:15:00-04:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -35,15 +35,21 @@ ai_assist:
 
 ## 들어가며
 
-자기주도 학습은 [[self-regulated-learning|자기조절 학습(SRL)]]과 긴밀하게 관련되면서도 그것과 뚜렷합니다. SRL이 학습의 순간순간의 인지적, 동기적, 행동적 조절(계획하기, 점검하기, 통제하기, 성찰하기)을 강조하는 반면, SDL은 흔히 비형식적이거나 스스로 선택한 맥락에서 시간에 걸쳐 자신의 학습의 방향과 관리에 대한 학습자의 전반적인 책임을 강조합니다. SDL은 [[adult-learning|성인 학습]]과 [[lifelong-learning|평생 학습]]에 기초적이며, 학습자가 예정된 수업 시간 없이 자율성을 유지해야 하는 원격 및 온라인 교육에서 두드러진 이론입니다. SDL은 또한 점점 더 경험적 연구가 *가능한* 대상이 되고 있습니다. VERA에서 822개의 모형을 만든 온라인 학습자 315명의 클릭스트림을 분석하여, [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]]는 자기주도의 세 가지 행동적 지표 — 관찰(Observation), 구성(Construction), 탐구(Exploration) — 를 규명하고, 학습자가 직접 손으로 하는 구성을 넘어 가설 주도의 탐구로 더 완전히 나아가는 가운데 관찰은 모든 단계에 걸쳐 지속됨을 발견했습니다. 이는 비구조화된 온라인 과업에서 학습자가 행사하는 자율성의 정도와 종류가 그들의 추적 자료만으로도 구별될 수 있음을 보여 줍니다.
+자기주도 학습은 [[self-regulated-learning|자기조절 학습(SRL)]]과 긴밀하게 관련되면서도 그것과 뚜렷합니다. SRL이 학습의 순간순간의 인지적, 동기적, 행동적 조절(계획하기, 점검하기, 통제하기, 성찰하기)을 강조하는 반면, SDL은 흔히 비형식적이거나 스스로 선택한 맥락에서 시간에 걸쳐 자신의 학습의 방향과 관리에 대한 학습자의 전반적인 책임을 강조합니다. SDL은 [[adult-learning|성인 학습]]과 [[lifelong-learning|평생 학습]]에 기초적이며, 학습자가 예정된 수업 시간 없이 자율성을 유지해야 하는 원격 및 [[online-teaching-and-learning|온라인 교육]]에서 두드러진 이론입니다. SDL은 또한 점점 더 경험적 연구가 *가능한* 대상이 되고 있습니다. VERA에서 822개의 모형을 만든 온라인 학습자 315명의 클릭스트림을 분석하여, [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]]는 자기주도의 세 가지 행동적 지표 — 관찰(Observation), 구성(Construction), 탐구(Exploration) — 를 규명하고, 학습자가 직접 손으로 하는 구성을 넘어 가설 주도의 탐구로 더 완전히 나아가는 가운데 관찰은 모든 단계에 걸쳐 지속됨을 발견했습니다. 이는 비구조화된 온라인 과업에서 학습자가 행사하는 자율성의 정도와 종류가 그들의 추적 자료만으로도 구별될 수 있음을 보여 줍니다.
 
 ## 생성형 AI가 자기주도 학습을 어떻게 재구성하는가
 
 지식베이스의 [[research-methods-aied|연구]]는 GenAI–SDL 관계의 양면을 기록합니다.
 
 - **AI는 SDL을 지원할 수 있습니다.** [[ai-lifelong-learning-policy|AI와 평생 학습]]과 [[self-directed-growth-generative-ai-learning-analytics|GenAI와 학습 분석을 통한 자기주도적 성장]]은 AI 도구가 독립적 탐구를 [[scaffolding|비계처럼 떠받치고]], 요청에 따른 자원을 제공하며, 학습 경로를 개인화하여 학습자의 자율성을 강화할 수 있다는 것을 보여 줍니다. 생성형 AI의 교육적 결과에 관한 [[genai-educational-outcomes-meta-analysis|메타분석적 근거]]와 [[conversational-ai-informal-learning|비형식 학습에서의 대화형 AI]]는 AI가 학습자가 주도하는 자원으로 쓰일 때 긍정적 잠재력이 있음을 시사합니다.
-- **학습자는 신탁이 아니라 생각하는 동료를 원합니다.** 면접한 성인 학습자들은 AI가 답을 공급하기보다 성찰을 촉진하고 검증하기를, 그리고 학습 경로를 규정하기보다 스스로 통제할 수 있게 두기를 원했습니다([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
+- **학습자는 신탁이 아니라 생각하는 동료를 원합니다.** 면접한 성인 학습자들은 AI가 답을 공급하기보다 성찰을 촉진하고 검증하기를, 그리고 [[recommender-systems-and-learning-paths|학습 경로]]를 규정하기보다 스스로 통제할 수 있게 두기를 원했습니다([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
+
+- **목표 선택을 위임하는 것은 그것을 지원하는 것과 다릅니다.** 이 페이지는 목표를 세우는 일을 학습자의 핵심 행위로 다루며, 벤치마크 근거는 모형이 그것을 다르게 한다고 말합니다. 인간 175명과 비교해 GPT-5, Claude Sonnet 4.5, Qwen3 32B는 이전 목표를 시행의 0.93, 0.93, 0.94에서 다시 선택했으며, 사람은 0.54 ± 0.18이었습니다. 목표 엔트로피는 0.12에서 0.20인 반면 사람은 1.67 ± 0.14였고, 사고 연쇄와 페르소나 프롬프트는 격차를 좁히지 못했습니다. 다음에 무엇을 배울지 제안하는 시스템은 그것이 대신하는 학습자보다 더 좁은 탐색을 재현합니다([[llm-goal-selection-self-directed-learning-2026|Molinaro 등, 2026]]).
+
 - **무분별한 사용은 SDL을 약화시킵니다.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]]는 **GenAI의 무분별한 사용** — AI 산출물을 비판적 평가 없이 받아들이는 것 — 이 학부생의 SDL에 직접적으로, 그리고 [[self-efficacy]]과 [[motivation]]의 잠식을 통해서도 유의미한 해를 끼친다는 것을 보여 줍니다(모형이 SDL 분산의 75.3%를 설명했습니다. TUGA β = −0.42). 동기에 대한 부정적 효과는 남학생에게서, 자기효능감에 대한 부정적 효과는 여학생에게서 더 강했습니다. 이것은 지식베이스에 기록된 더 넓은 [[cognitive-offloading|과의존]] 위험과 연결됩니다.
+
+- **대규모에서의 무지도 사용.** 독일 중등학교 136곳의 학생 4,062명을 대상으로 한 연구에서 과제 완수형과 학습 지향형 GenAI 사용은 한 학년 동안 모두 늘었고(d = 0.35와 0.33), 도구를 전혀 쓰지 않은 학생은 5%뿐이었습니다. 낮은 사전 성취는 여섯 교과 모두에서 이후의 더 많은 사용을 예측했지만, 어느 형태의 사용도 이후 성취를 예측하지 못했습니다([[scherer-self-directed-genai-use-secondary-2026|Scherer 등(2026)]]).
+
 - **인지적 전가와 위임.** [[andragogy-cognitive-delegation-genai-2026|성인교육학과 인지적 위임]]과 [[learning-by-chatting-genai-impact|GenAI와의 대화를 통한 학습]]은 학습자가 SDL이 요구하는 노력이 드는 처리를 우회하는 방식으로 인지적 작업을 AI에 위임할 수 있음을 검토합니다 — 달리 말하면 자율성을 지원하는 도구의 실패 양식입니다. [[critical-thinking-genai-scaffolding|GenAI로 비판적 사고를 비계처럼 떠받치기]]와 [[test-driven-ai-assisted-learning|테스트 주도 AI 지원 학습]]은 더 생산적인 설계를 모델링합니다.
 
 ## 실제에서의 SDL–SRL 구분
@@ -52,7 +58,7 @@ SDL이 학습자가 주도하는 방향을 강조하기 때문에, 그것을 보
 
 ## 연구 기반 학습을 위한 AI 추출 비계
 
-- **연구 기반 학습을 위한 비계로서의 AI 추출.** An과 동료들(2026)은 연구 간행물을 구조화되고 추적 가능한 자료 집합으로 변환하는 AI 기반 정보 추출 시스템을 설계하여, [[stem-education|STEM]]에서 학부 논문 완성을 지원합니다. 이것은 증거-주장 관계를 검사할 수 있게 하면서 저수준의 자료 처리 부담을 줄이는 **인식론적 비계**로 자리매김됩니다. 80개의 문서에 걸친 20명의 학생 [[mixed-methods-research|혼합 방법]] 파일럿에서, 학생들은 목표로 한 매개변수의 90% 이상을 추출했고, 자기 보고된 문헌 검토 시간은 약 65% 감소했으며, 영향력 있는 변수를 파악하는 능력은 50% 향상되었습니다 — 이는 [[generative-ai|AI]]가 인지적 부하를 일상적인 요약이 아니라 고차원적이고 자기주도적인 연구 추론 쪽으로 재균형 잡을 수 있다는 생각을 뒷받침합니다.
+- **연구 기반 학습을 위한 비계로서의 AI 추출.** An과 동료들(2026)은 연구 간행물을 구조화되고 추적 가능한 자료 집합으로 변환하는 AI 기반 정보 추출 시스템을 설계하여, [[stem-education|STEM]]에서 학부 논문 완성을 지원합니다. 이것은 증거-주장 관계를 검사할 수 있게 하면서 저수준의 자료 처리 부담을 줄이는 **인식론적 비계**로 자리매김됩니다. 80개의 문서에 걸친 20명의 학생 [[mixed-methods-research|혼합 방법]] 파일럿에서, 학생들은 목표로 한 매개변수의 90% 이상을 추출했고, [[self-report-measures|자기 보고된]] 문헌 검토 시간은 약 65% 감소했으며, 영향력 있는 변수를 파악하는 능력은 50% 향상되었습니다 — 이는 [[generative-ai|AI]]가 인지적 부하를 일상적인 요약이 아니라 고차원적이고 자기주도적인 연구 추론 쪽으로 재균형 잡을 수 있다는 생각을 뒷받침합니다.
 
 ## 흔한 오해
 
@@ -97,6 +103,7 @@ SDL이 학습자가 주도하는 방향을 강조하기 때문에, 그것을 보
 
 ## 연결된 문서
 
+- [[scherer-self-directed-genai-use-secondary-2026]] — 중등학생의 자기주도적 생성 AI 사용과 학업 발달: 대규모 1년 종단 연구
 - [[genai-thoughtless-use-self-directed-learning-2026]] — 무분별한 GenAI 사용과 자기주도 학습(SEM, 성별 차이)
 - [[ai-lifelong-learning-policy]] — AI와 평생 학습 정책
 - [[self-directed-growth-generative-ai-learning-analytics]] — GenAI와 학습 분석을 통한 자기주도적 성장
@@ -104,3 +111,4 @@ SDL이 학습자가 주도하는 방향을 강조하기 때문에, 그것을 보
 - [[andragogy-cognitive-delegation-genai-2026]] — GenAI와 함께하는 성인교육학과 인지적 위임
 - [[kim-ai-andragogy-2026]] — 성인교육학을 지원하는 AI의 적용(Kim et al. 2026)
 - [[an-goel-self-directed-modeling-2026]]
+- [[llm-goal-selection-self-directed-learning-2026]] — 모형은 자유 선택 과제에서 인간처럼 학습 목표를 선택하지 않는다(Molinaro 등 2026)

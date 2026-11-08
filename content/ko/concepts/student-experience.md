@@ -1,7 +1,7 @@
 ---
 title: 학생 경험
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T05:04:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,9 @@ AI는 인지적, 동기적, [[affective-computing|정서적]], 정체성, 사회
 ### 동기적 영향
 
 - **긍정적:** AI는 개인화되고 즉각적이며 부담이 낮은 지원을 제공하여 [[motivation]]과 [[student-engagement|참여]]를 높이고, 학생들이 끈기 있고 유능하다고 느끼도록 도울 수 있습니다([[self-determination-theory|자기결정]] 관점 — 자율성, 유능감, 관계감 — 참조).
+
+- **동기 효과는 접근이 아니라 동기를 통해 작동합니다.** 학생 297명 가운데 AI 사용에 대한 자율성 지지와 자율적 동기는 참여에 직접 효과가 없었고(각각 β = 0.070), 학생의 동기는 참여를 β = 0.74로 예측했습니다([[genai-motivation-engagement-2026|Ahmed와 Sultan (2026)]]).
+
 - **부정적:** AI를 사용할 수 있다는 것을 아는 것만으로도 학생의 노력과 생산적으로 씨름하려는 동기를 줄일 수 있습니다([[ai-availability-student-motivation|AI 가용성과 동기]], [[wang-safety-gap-productive-struggle-2026|안전의 격차]]). 과도한 의존은 [[agency]]와 스스로 일을 해내며 오는 성취감을 침식할 수 있습니다.
 
 ### 정서적·웰빙 영향
@@ -71,9 +74,12 @@ AI는 인지적, 동기적, [[affective-computing|정서적]], 정체성, 사회
 ### 학문적 진실성과 공정성 영향
 
 - **부정적:** AI는 [[academic-integrity|학문적 부정행위]]의 새로운 형태(AI가 쓴 에세이, 허가받지 않은 과제 완수)를 가능하게 하여, [[reduce-ai-cheating|탐지와 억제]]에 관한 논쟁을 부추깁니다. 이것은 [[equity-in-ai-education|형평성]]과 상호작용합니다. AI 도구에 대한 불평등한 접근과 이해는 학생 사이 격차를 넓힐 수 있습니다.
-- **긍정적/건설적:** AI는 [[authentic-assessment|진정한]], [[process-oriented-assessment|과정 지향적]] 평가와 성찰적 실천을 지원할 수 있습니다([[pedlow-genai-selfassessment-2026|안내된 자기평가]] 등). 이것은 진실성 문제를 [[ai-literacy]]와 책임의 기회로 돌립니다.
 
-학생들이 진실성에 대해 하는 이야기는 부정행위 틀이 시사하는 것보다 덜 확정적입니다. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]]는 에티오피아의 한 대학에서 학부생 27명을 인터뷰하여 학생 집단이 스스로에게 갈라져 있음을 발견했습니다. 거의 모두가 생성형 AI를 사용하거나 동료가 사용하는 것을 보았고 대다수가 그것이 성취를 높였다고 평가했으며, 소수는 과제에서의 사용을 명백한 비행이라고 불렀고, 가장 날카롭고 널리 공유된 불만은 공정성이었습니다 — 정직하게 일한 학생들 위로 AI 사용자가 점수를 따내는 것, 일부는 그것이 자신들의 성실감을 죽인다고 표현하고, 한 참가자는 "우리가 AI 사용으로 이득을 보고 있는지 고통받고 있는지" 확신하지 못했습니다. 절차 쪽도 중요합니다. [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]]는 생성형 AI 비행 사건 1,162건을 코딩하여 가장 흔히 인용되는 증거 — 탐지기 출력, 유사도 보고서, AI 전형적 내용 양식 — 이 가장 약한 입증 가치를 지닌다는 사실과, 파이프라인에 최소 증거 임계값이 없어 사건이 빈약한 학생들이 항소 쪽으로 밀려났음을 발견했습니다. 지나치게 포괄적인 정의는 그 노출을 넓힙니다. [[wright-transcription-not-generation-2026|Wright (2026)]]는 "[[generative-ai|생성형 AI]]"를 겨냥한 금지가 학생이 이미 저술한 작업의 형식만 변환하는 도구까지 잡아챌 수 있음을 보여주는데, 이 지나친 포괄성은 장애를 지닌 학생과 [[equity-in-ai-education|형평성]]에 노출된 학생에게 가장 무겁게 떨어집니다. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]]는 건설적인 출구를 가리킵니다. 진실성을 [[evaluative-judgment|판단]]을 통해 실현되는 [[pedagogy|교수법적]] 실천으로 다루는 것입니다 — 주석이 달린 결정의 흔적, 검증, 구두 방어, 버전 이력 — 감시를 통해 확보되는 순응이 아니라 말입니다.
+- **어떤 사용이 부정행위로 간주되는지는 학문 분야에 달려 있습니다.** 89개 연구에 대한 [[meta-analysis-systematic-review|체계적 고찰]]에서 [[stem-education|STEM]] 학생들은 AI가 수행을 향상시킨다는 데 순동의 +42%를 보인 반면, [[humanities-education|인문학]] 학생들은 AI 사용이 부정행위를 구성한다는 데(+44%)와 윤리적 우려를 제기한다는 데(+58%) 가장 높은 순동의를 보였습니다([[ai-tools-academic-work-cheating-2026|Padhy (2026)]]). 따라서 한 강좌의 진실성 문제는 고정된 기준이 아니라 부분적으로 학문적 판단이며, 학생들이 마주치는 규칙이 정책만큼이나 학과에 따라 달라지는 이유입니다.
+
+- **긍정적/건설적:** AI는 [[authentic-assessment|진정한]], [[process-oriented-assessment|과정 지향적]] 평가와 [[reflection|성찰적 실천]]을 지원할 수 있습니다([[pedlow-genai-selfassessment-2026|안내된 자기평가]] 등). 이것은 진실성 문제를 [[ai-literacy]]와 책임의 기회로 돌립니다.
+
+학생들이 진실성에 대해 하는 이야기는 부정행위 틀이 시사하는 것보다 덜 확정적입니다. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]]는 에티오피아의 한 대학에서 학부생 27명을 인터뷰하여 학생 집단이 스스로에게 갈라져 있음을 발견했습니다. 거의 모두가 생성형 AI를 사용하거나 동료가 사용하는 것을 보았고 대다수가 그것이 성취를 높였다고 평가했으며, 소수는 과제에서의 사용을 명백한 비행이라고 불렀고, 가장 날카롭고 널리 공유된 불만은 공정성이었습니다 — 정직하게 일한 학생들 위로 AI 사용자가 점수를 따내는 것, 일부는 그것이 자신들의 성실감을 죽인다고 표현하고, 한 참가자는 "우리가 AI 사용으로 이득을 보고 있는지 고통받고 있는지" 확신하지 못했습니다. 절차 쪽도 중요합니다. [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]]는 생성형 AI 비행 사건 1,162건을 코딩하여 가장 흔히 인용되는 증거 — 탐지기 출력, 유사도 보고서, AI 전형적 내용 양식 — 이 가장 약한 입증 가치를 지닌다는 사실과, 파이프라인에 최소 증거 임계값이 없어 사건이 빈약한 학생들이 항소 쪽으로 밀려났음을 발견했습니다. 지나치게 포괄적인 정의는 그 노출을 넓힙니다. [[wright-transcription-not-generation-2026|Wright (2026)]]는 "[[generative-ai|생성형 AI]]"를 겨냥한 금지가 학생이 이미 저술한 작업의 형식만 변환하는 도구까지 잡아챌 수 있음을 보여주는데, 이 지나친 포괄성은 장애를 지닌 학생과 [[equity-in-ai-education|형평성]]에 노출된 학생에게 가장 무겁게 떨어집니다. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]]는 건설적인 출구를 가리킵니다. 진실성을 [[evaluative-judgment|판단]]을 통해 실현되는 [[pedagogy|교수법적]] 실천으로 다루는 것입니다 — 주석이 달린 결정의 흔적, 검증, [[oral-assessment|구두 방어]], 버전 이력 — 감시를 통해 확보되는 순응이 아니라 말입니다.
 
 검증은 학생들이 그 질문을 경험하는 방식을 바꿀 수 있습니다. 자신의 작업을 먼저 설명해 달라는 요청은 처음에는 고발로 읽혔지만, 일단 교육과정이 그것을 감시가 아니라 교수법으로 미리 틀 지어 준 뒤에는 학생들이 AI 사용을 더 공개적으로 밝히고 과제를 학습 과제로 다루었습니다. 5–10분의 대화에서였습니다([[best-response-student-ai-dialog-2026|Mandernach, 2026]]).
 
@@ -192,3 +198,6 @@ AI는 인지적, 동기적, [[affective-computing|정서적]], 정체성, 사회
 - [[wright-transcription-not-generation-2026]] — 지나치게 포괄적인 AI 규칙과 그것이 잡아채는 학생들
 - [[sharma-judgment-visible-genai-assessment-2026]] — 순응이 아니라 평가적 판단으로서의 진실성
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — 원격 감독이 학생에게 끼치는 정서적·형평성 대가
+
+- [[genai-motivation-engagement-2026]] — 학생 297명: 동기가 참여를 예측했고, AI 사용에 대한 자율성 지지는 직접 효과가 없었다(Ahmed & Sultan 2026)
+

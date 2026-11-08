@@ -1,7 +1,7 @@
 ---
 title: 가르치며 배우기
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-10-30T05:04:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-25T22:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -67,7 +67,7 @@ LLM 기반 teachable agents의 중심 설계 과제는, LLM이 기본적으로 �
 - **질문은 지식 격차를 식별합니다.** LbT 시스템은 학습자가 생성한 질문을 사용하여 격차를 드러내고 이해를 강화하며, [[teaching-ai-vocabulary-lbt-llms-2026|LLM 생성 질문]]은 경직된 템플릿 기반 생성기를 대체합니다.
 - **teach-back은 명확화가 놓치는 것을 표면화합니다.** 22명 참가자의 강의 후 복습 시스템에서, Peer 에이전트의 성찰적 teach-back은 학습자가 이해했다고 믿는 것과 그들이 명료하게 말할 수 있는 것 사이의 격차를 일관되게 드러냈는데, 강의에 기반한 명확화만으로는 드러나지 않았던 것입니다([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).
 - **LbT [[scaffolding|스캐폴딩]]은 자기-[[regulation]]을 조성합니다.** [[conversational-ai|대화형 에이전트]]를 가르치는 것은 [[self-efficacy]]과 자기조절 학습 전략의 실행을 북돋우고, LbT를 [[desirable-difficulties]]에 연결합니다. 설명하고 바로잡는 노력의 행위 자체가 AI의 마찰 제거가 지워버릴 생산적인 투쟁입니다.
-- **학습자 학습을 예측하는 것은 사전 지식이 아니라 지식 구성입니다.** 중학교 학습자 23명에 걸쳐, 지식을 재진술하는 대신 지식을 구성하는 응답의 비율이 개념 후 검사 점수를 예측했으나(β = .138, p < 0.05), 사전 검사 점수는 누가 그것을 산출하는지를 예측하지 못했고, 지식을 구성한 저사전 학습자들은 고사전 또래와 같은 수준으로 마쳤습니다([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
+- **학습자 학습을 예측하는 것은 [[prior-knowledge|사전 지식]]이 아니라 지식 구성입니다.** 중학교 학습자 23명에 걸쳐, 지식을 재진술하는 대신 지식을 구성하는 응답의 비율이 개념 후 검사 점수를 예측했으나(β = .138, p < 0.05), 사전 검사 점수는 누가 그것을 산출하는지를 예측하지 못했고, 지식을 구성한 저사전 학습자들은 고사전 또래와 같은 수준으로 마쳤습니다([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 
 ## AI 교육에서 이것이 중요한 이유
 

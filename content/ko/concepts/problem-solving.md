@@ -1,14 +1,14 @@
 ---
 title: 문제 해결
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-10-28T19:28:52-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -41,11 +41,14 @@ ai_assist:
 
 이 지식베이스의 글들은 구별되지만 수렴하는 렌즈들을 통해 문제 해결에 접근합니다. [[llm-critical-thinking-teamwork-review|A PRISMA systematic review]]는 LLM이 종종 불완전하거나 틀린 응답을 만들어 학생들이 정보를 질문하고, 검증하고, 개선하도록 촉구함을 발견합니다 — 모델의 불완전함을 [[critical-thinking|critical thinking]]과 정신적 독립성을 강화하는 검증과 교정의 순환으로 전환합니다. 문제를 주어진 것으로 대신하지 않고, 다른 작업은 *문제 제기*를 전면에 내세웁니다. [[genai-assisted-problem-posing-physics-2026|학생들이 자신만의 물리 문제를 생성하도록 훈련시키는 것]]은 [[transfer-of-learning|transfer]]와 자기 학습을 떠받치며, [[dai-chatbots-problem-posing-primary-2026|GenAI chatbots]]는 [[inquiry-based-learning|inquiry-based learning]]에서 초등 학생들의 문제 제기 질을 개선하고 인지 부하를 줄였습니다.
 
-스캐폴딩과 평가도 마찬가지로 핵심적입니다. [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Adaptive AI scaffolds]]는 개별 학생들의 과정 패턴을 시퀀스 마이닝하여 도출되며, 협력적 [[math-education|mathematics]] 문제 해결에서 과제 수행을 끌어올립니다 — 비록 최대의 스캐폴딩이 스크립팅 행동도 증가시켰습니다. 측정의 측면에서, [[llm-computational-thinking-physics-2026|LLMs can mirror human raters]]는 대규모 [[physics-education|physics]] 강좌에 걸쳐 [[computational-thinking|computational thinking]]의 성장을 감지하는 데 있어서입니다. 한편 [[computational-thinking-educational-robotics-secondary-2026|computational thinking]]은 [[educational-robotics|educational robotics]]가 고립된 기술 연습이 아니라 진정한 문제 해결을 키우게 하는 명시적 개념 접착제로 제안됩니다.
+스캐폴딩과 평가도 마찬가지로 핵심적입니다. [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Adaptive AI scaffolds]]는 개별 학생들의 과정 패턴을 시퀀스 마이닝하여 도출되며, 협력적 [[math-education|mathematics]] 문제 해결에서 과제 수행을 끌어올립니다 — 비록 최대의 스캐폴딩이 스크립팅 행동도 증가시켰습니다. 구조는 비계 안에 있어야 하며, 단지 존재하는 것만으로는 답 제공으로 무너집니다. 진단, 의도 선택, 제약된 응답 생성으로 구축된 규칙 기반 LLM 튜터는 40개의 실제 5학년 세션 가운데 36개(90%)에서 튜터와 학생을 의도된 발화 순서로 유지했고, 스포일러 방지 및 완성 전용 게이트가 조기 답 제공을 줄였습니다([[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu and Sun, 2026]]). 저자들의 가장 강한 설계 주장은 감산적입니다: 산술은 튜터의 역할 밖에 남아 학생에게 돌아갔고, 그것은 튜터가 40개 세션 중 4개에서 잘못된 산술을 산출한 뒤였습니다.
+
+측정 측면에서, [[llm-computational-thinking-physics-2026|LLM은 인간 평정자를 닮을 수 있습니다]] — 대규모 [[physics-education|물리]] 강좌에서 [[computational-thinking|컴퓨터적 사고]]의 성장을 탐지하는 데서 — 한편 [[computational-thinking-educational-robotics-secondary-2026|컴퓨터적 사고]]는 [[educational-robotics|교육용 로봇공학]]이 고립된 기술 연습이 아니라 진정한 문제 해결을 기르게 하는 명시적 개념적 접착제로 제안됩니다.
+
 
 ### AI가 돕기도 방해하기도 하는 방식
 
-문제 해결에 대한 AI의 이중적 성격은 연구들에 걸쳐 일관됩니다. 돕는 쪽에서는, [[conversational-ai|chatbots]]는 질문의 질을 개선하고 인지적 네트워크를 통합하여 문제 제기에 검색 엔진을 능가합니다. 적응형 스캐폴드는 수행을 개선하며, 협력적 AI 설계는 학생들이 주된 의사결정자로 남는 동안 [[critical-thinking|critical thinking]]과 문제 해결 점수를 함께 높입니다. 방해하는 쪽에서는, 과잉 위임은 규제적 참여를 줄이며, 성찰 없는 직접 피드백은 수동적 흡수를 부추기고, 합의를 형성하는 데 대한 AI에의 중증 의존은 대인 관계 기술 발달과 [[motivation|intrinsic motivation]]을 위협합니다. 특히, [[genai-feedback-design-multisite-experiment|a multisite randomized experiment]]는 성찰적이고 하이브리드인 피드백 설계가 지연되고 AI가 없는 전이에서 직접적 [[ai-feedback-quality|AI feedback]]을 능가함을 발견했습니다 — 이것은 AI의 교육적 가치가 접근보다 수정 중 [[agency|student agency]], 평가적 판단, 그리고 소유를 보존하는 데 덜 달려 있지 않다는 증거입니다. 이 문헌에서 떠오르는 설계 원칙들은 매끄러운 효율보다 대화적 긴장을 우선시하고, 능동적 공동 조절을 가능하게 하며, 메타인지적 스캐폴딩과 "mind-in-the-loop" 감독을 유지하는 것을 포함합니다.
+문제 해결에 대한 AI의 이중적 성격은 연구들에 걸쳐 일관됩니다. 돕는 쪽에서는, [[conversational-ai|chatbots]]는 질문의 질을 개선하고 인지적 네트워크를 통합하여 문제 제기에 검색 엔진을 능가합니다. 적응형 스캐폴드는 수행을 개선하며, 협력적 AI 설계는 학생들이 주된 의사결정자로 남는 동안 [[critical-thinking|critical thinking]]과 문제 해결 점수를 함께 높입니다. 방해하는 쪽에서는, 과잉 위임은 규제적 참여를 줄이며, 성찰 없는 직접 피드백은 수동적 흡수를 부추기고, 합의를 형성하는 데 대한 AI에의 중증 의존은 대인 관계 기술 발달과 [[motivation|intrinsic motivation]]을 위협합니다. 특히, [[genai-feedback-design-multisite-experiment|a multisite randomized experiment]]는 성찰적이고 하이브리드인 피드백 설계가 지연되고 AI가 없는 전이에서 직접적 [[ai-feedback-quality|AI feedback]]을 능가함을 발견했습니다 — 이것은 AI의 교육적 가치가 접근보다 수정 중 [[agency|student agency]], [[evaluative-judgment|평가적 판단]], 그리고 소유를 보존하는 데 덜 달려 있지 않다는 증거입니다. 이 문헌에서 떠오르는 설계 원칙들은 매끄러운 효율보다 대화적 긴장을 우선시하고, 능동적 공동 조절을 가능하게 하며, 메타인지적 스캐폴딩과 "mind-in-the-loop" 감독을 유지하는 것을 포함합니다.
 
 ### 함의
 
@@ -67,7 +70,7 @@ ai_assist:
 
 **"학생이 관점을 탐색하도록 돕는 AI는 사고를 돕는 것이다."** 같은 행동이 매우 다른 두 결과를 뒷받침합니다. AI 도구는 학생이 여러 관점을 탐색하고 스스로 문제를 만들도록 돕기도 하고, 메타인지적 나태를 부추기기도 합니다. 구별하는 질문은 학생이 틀 짓기를 하는지 받고 있는지입니다. 후보 관점을 제공하는 시스템은 그 활동이 요구하려 존재했던 생성적 단계를 대신 수행한 것입니다.
 
-**"목표는 문제 해결이므로 문제 제기는 덤이다."** 문제를 제기하는 곳에서 전이가 형성됩니다. 학습자가 시스템이 제공한 구조 안에서 작동하는 대신 구조를 구성해야 하기 때문입니다. 잘 형성된 문제만 공급하는 교육과정은 잘 형성된 문제에 대한 수행을 훈련하며, 그것은 학생이 나중에 만나는 조건이 아닙니다.
+**"목표는 문제 해결이므로 문제 제기는 덤이다."** 문제를 제기하는 곳에서 전이가 형성됩니다. 학습자가 시스템이 제공한 구조 안에서 작동하는 대신 구조를 구성해야 하기 때문입니다. 잘 형성된 문제만 공급하는 [[curriculum-design|교육과정]]은 잘 형성된 문제에 대한 수행을 훈련하며, 그것은 학생이 나중에 만나는 조건이 아닙니다.
 
 **"협력적 문제 해결의 시뮬레이션은 협력의 대체물이다."** 시뮬레이션은 상호작용 패턴을 재현하며, 개발되는 기술은 실제로 참여한 사람들이 공동의 문제를 조절하는 것입니다. 실제 협력자를 모형화한 참여자 특정 에이전트는 그 조절을 연구하는 도구이며, 과정에 관해 드러내는 것에 유용할 뿐 동료 없이 연습을 제공하는 방법은 아닙니다.
 

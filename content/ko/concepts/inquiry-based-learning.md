@@ -1,7 +1,7 @@
 ---
 title: 탐구 기반 학습
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 ## 지식 기반에 나타나는 탐구 기반 학습
 
-**공동 탐구자로서의 AI.** STEAM에서 탐구 기반 학습을 위한 ChatGPT에 관한 [[meta-analysis-systematic-review|체계적 검토]]([[jiang-chatgpt-inquiry-steam-review-2026]], 24개 연구)는 ChatGPT가 주로 개념화, 조사, 토론 단계에서 사용되었다는 것을 발견했습니다. 학습 도구, 튜터, 학습 동료, 영역 전문가, 그리고 [[teacher-role|교수]] 보조로서 사용되었으며, 수행, [[critical-thinking|비판적 사고]], [[student-engagement|참여]], 동기를 향상시키는 한편, 출력이 권위 있는 것으로 다루어질 때 과잉 의존, 환각, 피상적인 결론의 위험을 제기했습니다.
+**공동 탐구자로서의 AI.** STEAM에서 탐구 기반 학습을 위한 ChatGPT에 관한 [[meta-analysis-systematic-review|체계적 검토]]([[jiang-chatgpt-inquiry-steam-review-2026]], 24개 연구)는 ChatGPT가 주로 개념화, 조사, 토론 단계에서 사용되었다는 것을 발견했습니다. 학습 도구, 튜터, 학습 동료, 영역 전문가, 그리고 [[teacher-role|교수]] 보조로서 사용되었으며, 수행, [[critical-thinking|비판적 사고]], [[student-engagement|참여]], 동기를 향상시키는 한편, 출력이 권위 있는 것으로 다루어질 때 과잉 의존, [[hallucination-risk|환각]], 피상적인 결론의 위험을 제기했습니다.
 
 **시작점으로서의 문제 제기.** 97명의 3학년생을 대상으로 한 준실험([[dai-chatbots-problem-posing-primary-2026]])은 GenAI [[conversational-ai|챗봇]]이 과학 문제 제기에서 검색 엔진을 유의미하게 능가했음을 보여 주었습니다. 질문의 질을 향상시키고, 더 통합된 인식론적 [[network-analysis|네트워크]]를 만들어 내면서 인지 부하를 낮췄습니다.
 
@@ -48,19 +48,23 @@ ai_assist:
 
 [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]]는 3집단 기후 연구에서 AI의 기여를 탐구 자체로부터 분리했습니다. AI 지원 탐구는 의사결정에서 탐구만 한 또래들을 앞질렀으며(d = 0.69), 모니터링과 적응적 관리에서 가장 큰 향상을 보였고(d = 1.37), 기초적인 자료 수집은 모든 조건에서 똑같이 향상되었습니다.
 
-**[[equity-in-ai-education|형평성]]과 맥락.** 한 개념적 프레임워크는 생성 AI 공동 설계와 열린 교육 실천을 연결하여, 자원이 부족한 맥락에서 탐구 주도 STEM 교수를 뒷받침합니다. AI가 생성하고, [[multilingual-learning|다국어]]이며, 맥락적으로 관련 있는 [[simulation|시뮬레이션]]을 사용합니다.
+**[[equity-in-ai-education|형평성]]과 맥락.** 한 개념적 프레임워크는 생성 AI 공동 설계와 [[open-education|열린 교육 실천]]을 연결하여, 자원이 부족한 맥락에서 탐구 주도 STEM 교수를 뒷받침합니다. AI가 생성하고, [[multilingual-learning|다국어]]이며, 맥락적으로 관련 있는 [[simulation|시뮬레이션]]을 사용합니다.
 
 **AI 비계에 의한 근거 비교.** [[ai-information-extraction-undergraduate-thesis-2026|An and colleagues (2026)]]는 AI 기반 정보 추출 시스템이 학부 문헌 검토를 요약에서 **근거 조직과 비교**로 이동시키는 방식을 보여 줍니다. 학생들이 고립된 읽기에서 연구 간 비교와 연구 기반 학습 및 논문 완수를 뒷받침하는 근거 기반 정당화로 이동합니다. 이것은 [[generative-ai|AI]]가 [[stem-education|STEM]] 학부 연구에서 탐구 과정에 어떻게 비계를 떠받칠 수 있는지를 구체화합니다.
 
 ## AI 통합에 탐구 기반 학습이 중요한 이유
 
-IBL의 질문 주도적이고 과정 중심적인 구조는 생산적인 AI 사용의 자연스러운 터전입니다. 학생들은 AI를 대체물이 아니라 동료로 *함께* 배웁니다. 지식 기반의 근거는 하나의 핵심 긴장으로 수렴합니다. AI는 정보 검색과 질문 형식화의 마찰을 낮출 수 있고([[cognitive-offloading|인지 부하]]를 줄이고 더 깊은 [[metacognition|성찰]]을 가능하게 함), 그러나 설계 비계 없이는 과잉 의존과 고차원적 인지의 우회를 위험에 빠뜨립니다. 촉진자의 역할, 비계의 설계, 그리고 평가 기술의 명시적 교수가 AI가 탐구를 심화시키는지 대체하는지를 결정하는 지렛대입니다.
+IBL의 질문 주도적이고 과정 중심적인 구조는 생산적인 AI 사용의 자연스러운 터전입니다. 학생들은 AI를 대체물이 아니라 동료로 *함께* 배웁니다. 지식 기반의 근거는 하나의 핵심 긴장으로 수렴합니다. AI는 정보 검색과 질문 형식화의 마찰을 낮출 수 있고([[cognitive-offloading|인지 부하]]를 줄이고 더 깊은 [[reflection|성찰]]을 가능하게 함), 그러나 설계 비계 없이는 과잉 의존과 고차원적 인지의 우회를 위험에 빠뜨립니다. 촉진자의 역할, 비계의 설계, 그리고 평가 기술의 명시적 교수가 AI가 탐구를 심화시키는지 대체하는지를 결정하는 지렛대입니다.
+
+한 연구는 도구를 옆에 더하는 것이 아니라 촉진자를 대체합니다. 4주 약리학 강좌에서 2학년 의대생 136명을 촉진자 주도 문제기반 학습과 AI 주도 문제기반 학습으로 나누었습니다. 두 집단 모두 사전/사후 다지선다 시험에서 유의하게 향상되었고 집단 간 차이는 유의하지 않았지만(p = 0.474), 촉진자 주도 집단은 비판적 사고(14.75 대 13.09, p < 0.001)와 [[group-work|모둠 평가]] 루브릭(26.51 대 24.74, p = 0.035)에서 더 높은 점수를 받았습니다([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty와 Rao, 2026]]). 탐구 성과는 종류별로 갈렸습니다. 내용 지식은 대체를 견뎠고 추론 과정은 그렇지 않았으며, 이것이 촉진자가 지렛대라는 말의 의미입니다.
 
 ### 생산적 실패와 탐구
 
 [[productive-failure|생산적 실패(PF)]]는 탐구 기반 학습의 가장 구조화된 사촌입니다. 학습자는 직접 교수에 *앞서* 문제를 탐구하고 해결책을 생성한 뒤 정착합니다. 둘은 학습자가 생성한 시도(실패한 것까지)가 [[prior-knowledge|선행 지식을 활성화하고]] 교수로부터 배울 준비를 시킨다는 전제를 공유합니다. AI 시대의 PF [[research-methods-aied|연구]]는 AI가 탐구를 단락시키지 않으면서 어떻게 비계를 떠받쳐야 하는지를 예리하게 합니다. [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]]는 문제 탐구와 해결책 생성을 통해 고군분투를 보존하는 AI 설계 원칙을 도출합니다. [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]는 LLM 튜터가 답을 주지 않고 여러 번의 시도를 이끌어내도록 조종될 수 있음을 보여 줍니다. [[lukesova-clue-before-correction-2026|clue-before-correction]] 과업은 학습자가 추론을 계속하게 하는 단서 기반(대 직접적인) 비계를 예시합니다. 이것들은 탐구와 PF를 AI가 지속 가능한 학습이 형성되는 [[desirable-difficulties|생산적 고군분투]]를 제거해서는 안 된다는 더 넓은 명제와 연결합니다.
 
 야외 현장 환경에서 그 같은 명제는 공간적으로 변합니다. GenAI는 학습자가 근거를 만나기 전에 무엇을 알아차릴지를 미리 구조화할 수 있으므로, 관찰과 초기 해석이 기록될 때까지 생성된 설명을 주지 않는 현장 우선 서열이 탐구를 보호합니다([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
+**66개 연구 지도는 생성형 AI를 탐구 단계 중 조사(investigation) 옆에 가장 많이 두고 오리엔테이션에는 가장 적게 둡니다.** [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya 외(2026)]]는 생성형 AI 사용을 다섯 탐구 단계에 코딩하여, 지원이 조사에서 가장 자주 보고되었고(45개 연구, 68.2%), 그다음이 결론(29, 43.9%), 토론(28, 42.4%), 개념화(27, 40.9%)였으며 오리엔테이션이 마지막(20, 30.3%)임을 발견했습니다. 11개 연구는 다섯 단계 모두를 다루었고, 19개는 한 단계, 9개는 어느 단계도 지명하지 않았습니다. 탐구 기술을 측정한 연구는 8개(12.1%)뿐이었고 그중 4개만 비교 조건을 갖추었으므로, 이것은 탐구가 무엇을 얻었는지가 아니라 도구가 어디에 배치되었는지의 지도입니다.
 
 ## 흔한 오해
 
@@ -105,3 +109,6 @@ IBL의 질문 주도적이고 과정 중심적인 구조는 생산적인 AI 사�
 - [[ai-information-extraction-undergraduate-thesis-2026]] — 학부 논문과 연구 기반 학습을 뒷받침하는 AI 기반 정보 추출(An et al. 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — 기후 변화에 관한 사회과학적 쟁점에서의 AI 지원 탐구
 - [[geoscience-field-learning-genai-2026]] — GenAI가 학습자가 알아차리는 것을 미리 구조화하지 못하게 하는 현장 우선 교수 모형(Choi 2026)
+
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — 인간 촉진자 대 AI 매개 문제기반 학습: 내용 이득은 같지만 촉진자 없이는 비판적 사고가 약함(Shetty & Rao 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — 다섯 탐구 단계에 걸친 66개 연구 지도, 탐구 기술을 측정한 연구는 8개뿐

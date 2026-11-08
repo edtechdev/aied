@@ -1,14 +1,14 @@
 ---
 title: 신뢰
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T05:04:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
 translation_of: concepts/trust
-source_updated: "2026-10-28T09:45:00-04:00"
+source_updated: "2026-11-04T15:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 AI에 대한 신뢰는 인지된 능력, 투명성, 일관성, 그리고 시스템이 학습자의 목표에 부합해 보이는지에 의해 형성되며, [[ai-literacy]](무엇을 신뢰할지 아는 것), [[critical-thinking]](산출물을 평가하는 것), 책임 있는 AI의 설계와 긴밀히 연결되어 있습니다. 반면 대인 간 신뢰는 관계, 자기 개방, 피드백, 그리고 [[pedagogy|교수법적]] 배려를 통해 쌓입니다. 이것이 학생들이 교수자나 AI를 믿을 만한 조언의 원천으로 여길 때 의지하는 자질입니다. 두 영역은 점점 더 상호작용합니다. AI가 교수자-학생 관계 속으로 짜여 들어가기 때문에, 학생들이 교수자를 어떻게 신뢰하는지가 그 교수가 추천하는 AI 도구를 신뢰하거나 의심하는 방식을 형성합니다.
 
-신뢰는 원칙만이 아니라 측정된 피해입니다. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette 외(2026)]]에서 학생들은 모둠 작업에서 밝히지 않은 생성형 AI 사용을 발견한 뒤 동료를 덜 신뢰하게 되었다고 말했고, 이를 "학계의 신뢰와 윤리에 해롭다"고 표현했습니다. 일부는 교사가 생성형 AI를 쓰면서 학생들에게 숨겼다고 의심했습니다.
+신뢰는 원칙만이 아니라 측정된 피해입니다. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette 외(2026)]]에서 학생들은 [[group-work|모둠 작업]]에서 밝히지 않은 생성형 AI 사용을 발견한 뒤 동료를 덜 신뢰하게 되었다고 말했고, 이를 "학계의 신뢰와 윤리에 해롭다"고 표현했습니다. 일부는 교사가 생성형 AI를 쓰면서 학생들에게 숨겼다고 의심했습니다.
 
 ## AI 시스템에 대한 신뢰
 
@@ -43,7 +43,7 @@ AI에 대한 신뢰는 인지된 능력, 투명성, 일관성, 그리고 시스�
 
 *시스템이 무엇을 할 수 있는지*뿐 아니라 *시스템이 무엇인지*에 대한 투명성 역시 보정을 형성합니다. Amico 동행 프로토타입은 자신의 정체와 한계를 명시했고, 이탈리아-중국 파일럿에서 학습자들은 그것을 자율적 튜터나 관계적 대체물이 아니라 경계가 분명한 지원 도구로 인식하여, 의인화된 과신을 피했습니다([[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]).
 
-고등교육 기관에서는 규칙보다 효용이 지렛대가 될 수 있습니다. 한 대학의 학생, 교수, 교직원 2,121명을 대상으로 한 조사에서 AI에 대한 신뢰의 가장 강한 상관요인은 인지된 효용(β = 0.402)이었고, 인지된 정책 명확성은 양의 방향이지만 더 약했습니다(β = 0.223)([[ai-adaptation-gap-higher-education-2026|Braun & Khafizov, 2026]]).
+고등교육 기관에서는 규칙보다 효용이 지렛대가 될 수 있습니다. 한 대학의 학생, 교수, 교직원 2,121명을 대상으로 한 조사에서 AI에 대한 신뢰의 가장 강한 상관요인은 [[technology-acceptance-model|인지된 효용]](β = 0.402)이었고, 인지된 정책 명확성은 양의 방향이지만 더 약했습니다(β = 0.223)([[ai-adaptation-gap-higher-education-2026|Braun & Khafizov, 2026]]).
 **정확성에 대한 불신은 도구를 다루는 능력에 대한 확신과 공존할 수 있습니다.** 호주 네 대학의 학생 8,021명을 대상으로 한 조사에서 51%는 GenAI의 사실적 정확성을 불신했지만 76%는 자신이 원하는 산출물을 얻는 능력에 확신했으며, 그들의 활용을 이끈 것은 신뢰나 규칙 준수가 아니라 효용이었습니다([[genai-use-usefulness-student-experience-australia-2026|Chung et al., 2026]]).
 
 [[ai-overreliance-complex-adaptive-system-2026|AI 과의존을 복잡적응 시스템으로 모델링한 연구]]는 신뢰를 인구 집단 수준의 과정으로 재규정합니다. 사람들이 어시스턴트가 옳을 때 신뢰하고 틀릴 때 검증하는지는 개인의 판단만이 아니라 사회적 역학과 피드백 고리에 달려 있습니다. 아첨은 반대 방향에서 보정을 위협합니다. [[ai-sycophancy|늘 동의하는 AI]]는 사용자에게 이의를 제기하지 않기 때문에 오히려 믿을 만하게 느껴져 비판 없는 수용을 초래할 수 있습니다([[contextual-sycophancy-ai-literacy|맥락적 아첨]]과 [[sycophantic-ai-social-interaction-2026|사회적 상호작용에서의 아첨적 AI]]). [[embodied-learning|체화된]] 맥락인 [[educational-robotics]]에서는 신뢰가 로봇의 외양보다 행동에 의해 더 많이 형성됩니다([[task-context-trust-educational-hri-2026|교육용 HRI에서의 과업 맥락과 신뢰]]), 그리고 [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|아바타 정체성]]은 학습자가 AI 콘텐츠에 두는 인식론적 신뢰를 형성합니다. [[learning-analytics|분석]] 도구에 대한 신뢰 역시 맥락에 의존합니다. [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]]은 교사들의 우려와 도입 장벽이 학습 맥락에 따라 크게 갈라졌음을 발견했습니다. 플립드 클래스룸(대학) 교사들은 데이터 익명화와 학생의 거부 옵션을 가장 우려한 반면, 성찰 글쓰기(직업 교육) 교사들은 동료 교육자에 의한 도구의 오용을 우려하고 데이터를 맥락화할 필요를 강조했습니다. 두 집단 모두 AI에 대한 신뢰 설문에서 비슷한 [[self-efficacy]]와 인지된 이점을 보고했음에도 그랬습니다. 도구에 대한 신뢰가 데이터 거버넌스와 사회적 사용에 대한 신뢰와 분리되어 있다는 이 발견은, 분석 도구에 대한 적절한 신뢰를 쌓는 일이 시스템의 겉으로 드러난 능력뿐 아니라 맥락별 우려에 유의해야 함을 보여 줍니다.
@@ -55,6 +55,11 @@ AI에 대한 신뢰는 인지된 능력, 투명성, 일관성, 그리고 시스�
 AI에 대한 신뢰는 단일한 태도가 아니라 평가에서 의지로 향하는 경로로 작동합니다. 인지된 AI 역량 강화와 인지된 AI 위협은 거의 독립적이었으나(r=0.030) 신뢰를 반대 방향으로 움직였고(β=0.576, β=−0.328), 신뢰는 양방향으로 GenAI 의존과 유의미한 간접 연관성을 지녔습니다([[ai-empowerment-threat-genai-dependence-2026|Zhu et al. (2026)]]).
 
 구조 모형은 그 연결 역할에 실증적 시험을 제공합니다. [[trust-calibration-genai-collaborative-regulation-2026|Bu와 Li(2026)]]의 대학생 642명 조사에서 맥락적 지원이 신뢰 보정을 예측했고(β = 0.56), 신뢰 보정은 [[collaborative-learning|협력적]] [[regulation|조절]](β = 0.49)과 인지된 [[transfer-of-learning|전이]] 이득(β = 0.22)을 예측했으며, 맥락적 지원에서 이득으로 가는 직접 경로는 유의하지 않았습니다.
+
+**모든 고전적 수용 경로를 앞서는 신뢰.** [[zhu-creative-agency-trust-genai-art-2026|Zhu (2026)]]는 저장성의 예술·디자인 전공 학생 450명을 대상으로 한 조사에서 UTAUT에 신뢰를 추가했고, 신뢰가 [[generative-ai|생성형 AI]] 사용 의도의 가장 강력한 직접 예측요인임을 발견했습니다(β = 0.425). 사회적 영향(0.155), 메타인지적 통제(0.146), 성과 기대(0.128)가 그 뒤를 따랐습니다. 사회적 영향은 신뢰로 향하는 가장 큰 경로도 지녀(β = 0.262), 사용 의도와의 총 연관성 가운데 42.1%가 신뢰를 거쳐 갔습니다.
+
+구성개념은 계수가 시사하는 것보다 얇습니다. 이는 예술 가치를 덧붙인 도구적 기술 신뢰, 즉 보정된 신뢰성이 아니라 진술된 확신을 측정하며, 121명 파일럿에서 별도의 요인을 형성한 두 창작성 문항은 제외되었습니다. 학생은 이 모형을 적절히 신뢰할 수도, 무분별하게 신뢰할 수도 있지만, 도구는 그 둘을 구별하지 못합니다.
+
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]]는 알고리즘에 대한 신뢰에 대해 **기능별이면서 전체적이지 않은** 설명을 뒷받침합니다. 알고리즘 혐오도 알고리즘 선호도 이 학생 13명을 설명하지 못했습니다. 이들은 동시에 표면적 피드백에는 ChatGPT를 신뢰하면서 채점자로서는 불신했습니다. 그들의 신뢰는 교수자의 감독을 조건으로 했고, 회의는 기술 공포가 아니라 AI의 맥락적 한계에서 비롯되었습니다. 스캔한 손글씨를 잘못 읽는 것("제 성을 틀리게 써서 제가 철자를 틀렸다고 생각해요"), 교수자의 채점 체계를 모르는 것, 만성적인 긍정성이 그것입니다. 이는 신뢰 측정이 AI가 수행하는 기능과 그것에 얽힌 이해관계에 따라 분해되어야 함을 시사합니다.
 
@@ -165,3 +170,4 @@ AI에 대한 신뢰는 국가적 사용률도 따르지 않습니다. 루마니�
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — 신뢰성 단서가 틀린 AI 입장으로의 전환을 높였고, 권고를 제시하지 않자 억제되었다
 - [[trust-calibration-genai-collaborative-regulation-2026]] — 맥락적 지원에서 신뢰 보정을 거쳐 협력적 조절과 전이 이득으로 가는 구조 모형
 - [[lucau-uneven-use-similar-trust-genai-2026]] — 고르지 않은 사용, 비슷한 신뢰: 덴마크와 루마니아의 생성형 AI(Lucau, Voicu와 Christensen 2026)
+- [[zhu-creative-agency-trust-genai-art-2026]] — 예술 전공 학생의 GenAI 사용 의도에 대한 가장 강력한 예측요인으로서의 도구적 신뢰

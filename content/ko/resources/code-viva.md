@@ -22,7 +22,7 @@ ai_assist:
     date: "2026-11-02"
     agent: hermes-agent
 translation_of: resources/code-viva
-source_updated: "2026-10-24T08:37:08-04:00"
+source_updated: "2026-11-04T17:55:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 ---
 

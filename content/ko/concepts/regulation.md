@@ -1,7 +1,7 @@
 ---
 title: 교육에서의 AI 규제
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ ai_assist:
 
 **격차는 시기의 문제일 뿐만 아니라 증거의 문제이기도 합니다.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski와 Hurley(2025)]]는 한 전문직 분야를 증거 기반 없이 시간 압박 아래에서 정책을 만드는 곳으로 특징짓습니다. ABA 공인 미국 [[legal-education|법학전문대학원]] 대부분은 전반적으로 금지적 입장을 취하면서 개별 교원에게 재량권을 유보했으며, 저자들은 공개나 인용 실천에 관한 합의가 없고 ABA의 2024년 정책 조사 응답률이 약 15%에 불과했다고 보고합니다. 그들의 규범적 대응 — 입장이 무엇이든 명확한 지침, 작성 단계에서의 [[stakeholders|이해관계자]] 참여, 유연하고 주기적으로 검토되도록 설계된 거버넌스 — 는 [[crompton-governing-genai-higher-ed-delphi-2026|글로벌 델파이 합의]]와 일치하며, 이 역시 정책의 유지를 일회성 과제가 아니라 반복되는 기관 메커니즘으로 다룹니다. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher와 Calderon(2025)]]은 그 반대 방향의 의존관계를 더합니다. 그들의 거버넌스 개혁 프로그램은 규제, 벤치마킹, 기관 간 경쟁으로부터의 외부적 조력 없이는 기관의 발전이 성과로 이어지기 어렵다고 결론 내리며, 품질 및 규제 기관과 그것이 기관들 사이에서 강제하는 비교가 내부 거버넌스 개혁이 자리 잡는 조건이 된다고 봅니다.
 
-에듀테크 플랫폼 프라이버시 정책에 대한 감사는 그 의존관계에 구체적인 사례를 제공합니다. 플랫폼 48곳에 걸쳐 데이터 수집은 비교적 잘 공개된 반면(평균 2점 만점에 1.81), AI 공개(0.90)와 책임성(1.07)은 뒤처졌으며, 33%는 눈에 띄는 AI 기능이 있음에도 의미 있는 AI 공개를 전혀 하지 않았습니다. 미국 [[k-12]] 플랫폼은 전반적으로 가장 높은 점수를 받았으나(M = 7.47, 미국 [[higher-ed|고등교육]]의 5.50에 대해) AI 공개나 책임성에서는 아무것도 얻지 못했습니다 — 규제는 저자들의 결론대로 자기가 지명하는 것만을 끌어올리므로, 집행 가능한 규칙과 조달 기준이 자발적 약속이 아니라 [[privacy]]를 배치의 조건으로 만들어야 합니다([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
+[[edtech-platform|에듀테크 플랫폼]] 프라이버시 정책에 대한 감사는 그 의존관계에 구체적인 사례를 제공합니다. 플랫폼 48곳에 걸쳐 데이터 수집은 비교적 잘 공개된 반면(평균 2점 만점에 1.81), AI 공개(0.90)와 책임성(1.07)은 뒤처졌으며, 33%는 눈에 띄는 AI 기능이 있음에도 의미 있는 AI 공개를 전혀 하지 않았습니다. 미국 [[k-12]] 플랫폼은 전반적으로 가장 높은 점수를 받았으나(M = 7.47, 미국 [[higher-ed|고등교육]]의 5.50에 대해) AI 공개나 책임성에서는 아무것도 얻지 못했습니다 — 규제는 저자들의 결론대로 자기가 지명하는 것만을 끌어올리므로, 집행 가능한 규칙과 조달 기준이 자발적 약속이 아니라 [[privacy]]를 배치의 조건으로 만들어야 합니다([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
 ### 연결
 

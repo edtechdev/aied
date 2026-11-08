@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: 평가
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T05:04:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -13,7 +13,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -77,7 +77,7 @@ AI는 근본적인 [[assessment-validity|타당성]] 질문을 던집니다. AI�
 - **실제적이고 과정 기반인 과제**로, AI 사용이 보이게 하고 평가되게 합니다. [[authentic-assessment]] — 가치 있고 현실적인 과제에서의 학생 수행을 살피는 것 — 은 AI의 도전에 대한 주된 대응입니다. [[llm]]이 설득력 있게 흉내 낼 수 있는 과제는 타당성을 잃으므로, 실제적임은 실시간 [[collaborative-learning|협력]], 디지털 및 사회적 기여, 개인의 의미 구성을 중심으로 재설계되어야 합니다. 이는 [[zhan-boud-du-authentic-assessment-scoping-review-2025|실제적 평가의 설계 프레임워크]], [[authentic-products-authenticated-processes-2026|실제적 산출물과 입증된 과정]], [[tool-invariant-framework-agentic-ai|과정의 도구 불변 평가]]와 연결됩니다.
 - **타당성 증거에 뿌리를 둔 책임 있는 평가 설계**([[responsible-assessment-ai-era-stanford-2026]])
 - **평가 목표에서 도출된 과제 수준의 AI 허용 범위:** [[mccorkle-aligned-genai-course-policy-2025|McCorkle(2025)]]는 [[educational-policy-ai|AI 정책]]에 앞서 이루어지는 평가 설계 작업을 보여 줍니다. 프로젝트의 모든 과제를 목록화하고, 무엇이 어느 목표에 비추어 평가되는지를 명시하며, 그에 근거해 과제별로 AI를 허용하거나 금지하는 것(브레인스토밍과 이미지 큐레이션은 허용, 학습 목표 작성과 슬라이드 설계는 금지)입니다. 이 같은 정렬 작업은 평가가 뒷받침하는 추론에 대한 점검이기도 합니다. 성적이 보증하도록 의도된 수행을 교수자 스스로 이름 붙이게 하기 때문입니다([[assessment-validity]]).
-- **언어적 양식을 넘어서는 평가:** Jiang 외(2026)는 제2언어 교사를 위한 다중양식 평가 리터러시를, 언어적·시각적·청각적·몸짓적·공간적 양식에 걸쳐 응답을 끌어내는 과제를 위한 지식, 가치, 역량으로 정의합니다. 홍콩 영어 교사 30명을 대상으로 한 1년 프로그램은 평가 전략에 대한 지식을 5점 만점에 3.13에서 4.15로(부분 η² = 0.571), 학생 지원 역량을 3.05에서 3.98로(0.482) 높였으며, 세 가치 하위 영역은 모두 그대로였습니다. 교사들 자신의 경험은 프레임워크에 두 차원을 더했습니다. 경쟁하는 교육과정 우선순위 속에서 실천을 지속하는 것, 그리고 생성형 AI를 비판적으로 동원하는 것입니다([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang 외(2026)]]).
+- **언어적 양식을 넘어서는 평가:** Jiang 외(2026)는 [[language-learning|제2언어]] 교사를 위한 [[multimodal|다중양식]] 평가 리터러시를, 언어적·시각적·청각적·몸짓적·공간적 양식에 걸쳐 응답을 끌어내는 과제를 위한 지식, 가치, 역량으로 정의합니다. 홍콩 영어 교사 30명을 대상으로 한 1년 프로그램은 평가 전략에 대한 지식을 5점 만점에 3.13에서 4.15로(부분 η² = 0.571), 학생 지원 역량을 3.05에서 3.98로(0.482) 높였으며, 세 가치 하위 영역은 모두 그대로였습니다. 교사들 자신의 경험은 프레임워크에 두 차원을 더했습니다. 경쟁하는 교육과정 우선순위 속에서 실천을 지속하는 것, 그리고 생성형 AI를 비판적으로 동원하는 것입니다([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang 외(2026)]]).
 - **평가 계약의 일부로서의 공동 저작과 선언**
 - **산출물이 아니라 상호작용을 채점하는 과정 기반 루브릭 기준.** [[rubrics-genai-process-based-assessment-2026|Oviedo and Díaz (2026)]]는 Biggs의 3P 모델을 세 가지 핵심 채점 차원으로 읽습니다. 인간의 행위성과 비판적 감독, [[prompt-engineering|프롬프트 엔지니어링]]과 결부된 대화적 스캐폴딩, 그리고 [[academic-integrity|정직성]]과 투명성에 뿌리내린 인지적 주권입니다. 완성된 파일은 더 이상 누구의 추론이 그것을 만들어 냈는지에 대한 정보를 담지 않는다는 것입니다.
 - **하나의 역량으로서의 생산** — 도구를 지휘하고 전문가 수준의 작업물을 만들어 내는 학습자의 능력을 평가하는 것([[competency-based-education-genai-production-2026]])
@@ -92,7 +92,7 @@ AI는 근본적인 [[assessment-validity|타당성]] 질문을 던집니다. AI�
 - **자동화는 엄정하게 평가되어야 합니다:** 자동화된 평가자는 정확도 주장만이 아니라 심리측정적·[[bias-mitigation|공정성]] 평가가 필요합니다.
 - **정직성은 탐지에서 설계로 옮아갑니다:** 평가에서의 AI에 대한 가장 튼튼한 대응은 AI 사용이 기대되고 선언되고 검토되는 과제를 설계하는 것입니다.
 - **혁신적 실천은 여러 문제를 한꺼번에 다룰 수 있습니다.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy(2026)]]는 서로를 강화하는 다섯 실천 — [[authentic-assessment]], 자기 평가와 [[peer-assessment]], 재평가, [[mastery-learning|기준 기반 채점]], 그리고 채점 폐지(ungrading) — 이 "학습을 위한 평가" 패러다임에 맞춰질 때, 전통적이고 총괄적이며 규준 참조적인 채점이 초래하는 해(피상적 학습, [[motivation|내적 동기]]의 침식, 스트레스와 불안, 불평등, 훼손된 [[academic-integrity|정직성]])를 생성형 AI 시대에 상쇄할 수 있다고 주장합니다. 이들은 채택이 분야별로 고르지 않음을 발견했습니다. 자기 평가와 동료 평가가 우세한 반면 채점 중심의 혁신은 주변에 머물렀습니다. 그리고 교육자들이 점진적 실험과 [[governance|제도적]] 지원을 바탕으로 평가와 채점 혁신에 더 능동적이고 상호적으로 참여할 것을 촉구합니다.
-- **AI 매개 평가는 다양해지고 있습니다.** [[aivaluate-anxiety-assessment-2026|AIvaluate]]는 LLM이 보강한 [[conversational-ai|대화형 에이전트]]가 수행 기반 평가 중 학생의 불안을 줄였음을 보여 줍니다. [[asynchronous-oral-assessment-2026|Pentland(2026)]]는 비동기 구두 평가가 더 높은 참여를 이끌었고 직업적으로 관련 있다고 인식되었다고 보고합니다. [[graph-its-adaptive-algorithms-2026|그래프 기반 ITS]]는 평가에 정보를 제공하기 위해 적응형 지식 상태 추적을 사용합니다.
+- **AI 매개 평가는 다양해지고 있습니다.** [[aivaluate-anxiety-assessment-2026|AIvaluate]]는 LLM이 보강한 [[conversational-ai|대화형 에이전트]]가 수행 기반 평가 중 학생의 [[anxiety-and-stress|불안]]을 줄였음을 보여 줍니다. [[asynchronous-oral-assessment-2026|Pentland(2026)]]는 비동기 구두 평가가 더 높은 참여를 이끌었고 직업적으로 관련 있다고 인식되었다고 보고합니다. [[graph-its-adaptive-algorithms-2026|그래프 기반 ITS]]는 평가에 정보를 제공하기 위해 적응형 지식 상태 추적을 사용합니다.
 
 ## 흔한 오해
 

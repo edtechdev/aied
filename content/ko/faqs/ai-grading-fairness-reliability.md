@@ -1,9 +1,9 @@
 ---
 title: "AI로 학생 과제를 공정하고 신뢰롭게 채점할 수 있을까요?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
@@ -48,7 +48,7 @@ ai_assist:
 
 **피드백 조교**는 코멘트 초안을 쓰거나 빠진 부분이 있을 수 있다고 표시하며, 여러분이 그것을 받아들이거나 다시 쓰거나 버립니다. 위험은 코멘트 품질에 국한되고, 학생에게 도달하기 전에 여러분이 모든 것을 읽습니다. **두 번째 채점자**는 기준별 점수를 제안하거나 이견을 표시해 여러분의 채점을 구조화합니다. 그 오류는 단순히 틀린 것이 아니라 유용해야 합니다. 부주의하게 채점했을 제출물로 여러분을 되돌려 보내는 표시는 가질 만한 가치가 있습니다. **주 채점자**는 기록되는 성적으로 이어지는 점수를 산출합니다. 이 지식 기반의 증거가 좁고 국소적으로 타당화된 사례를 넘어 지지하지 않는 배치가 바로 그것입니다.
 
-여러분의 실제 제약을 해결하는 가장 낮은 단계를 고르십시오. 채점 부담이 고정된 정답 키를 확인하는 데서 온다면, 평범한 결정적 채점이 언어 모델보다 더 투명하고 감사 가능합니다. 약학 연구는 객관식 문항에서 LLM의 우위가 부분적으로는 채점 중에 정답을 건네받은 데서 생긴 인공물임을 시사합니다. 해석이 필요한 과제에 모델을 남겨 두고, 그 해석을 확인하십시오.
+여러분의 실제 제약을 해결하는 가장 낮은 단계를 고르십시오. 채점 부담이 고정된 정답 키를 확인하는 데서 온다면, 평범한 결정적 채점이 [[llm|언어 모델]]보다 더 투명하고 감사 가능합니다. 약학 연구는 객관식 문항에서 LLM의 우위가 부분적으로는 채점 중에 정답을 건네받은 데서 생긴 인공물임을 시사합니다. 해석이 필요한 과제에 모델을 남겨 두고, 그 해석을 확인하십시오.
 
 [[automated-assessment|자동 평가]]는 채점, 조정, 피드백 생성의 더 넓은 체계를 포괄합니다. 이 페이지는 그 아래에 있는 판단의 문제입니다.
 

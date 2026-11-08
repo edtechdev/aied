@@ -1,7 +1,7 @@
 ---
 title: 센서 및 시선 분석
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-08T00:06:30-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-04T16:09:41-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,9 @@ AI와 [[embodied-learning|체화 학습]]을 짝지은 23편의 연구에 대한
 신경 상관물은 점수가 아닙니다. EEG에서 재구성한 이미지는 55개의 참가자-영상 관측에 걸쳐 시험 수행과 R² = 0.79로 상관했습니다. 정답 문항은 오답보다 더 높은 의미 유사성도 보였습니다. 그러나 한 참가자는 고품질 재구성을 산출하고도 틀리게 답했으므로, 재구성 품질을 정답성으로 읽을 수는 없습니다([[seeing-cognitive-representations-eeg-reconstruction|Su et al., 2026]]).
 
 주의는 학습이 아닙니다. TutorLoop에서 주의는 학습과 r = 0.017로 상관했고, 작업 부하는 r = -0.168로 부정적으로 상관했습니다([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). 주의 신호를 최대화한 시스템은 잡음에 가까운 무언가를 최적화했을 것입니다.
+
+
+센서는 연구가 상호작용이라고 주장하는 곳에서 공존을 기록할 수 있습니다: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]]는 자세 기반 검출기가 재현율 55%에 그쳐, 교사–학생 집단 상호작용에서 인간 코더가 확인한 20개 사건 가운데 11개만 잡아냈음을 발견했습니다. 코딩된 구간의 49.2%에서 교사가 집단 경계 안에 있었으나 학생들이 교사를 바라본 경우는 25.4%에 그쳤고, 어느 비교에서도 오디오 특징은 변하지 않았으므로, 이 파이프라인은 지속적 상호작용이 아니라 공간적 공존을 등록했습니다.
 
 생리적 프로파일은 진단이 아닙니다. 시험 스트레스 모형은 각성과 움직임으로 성적 범주를 예측하며, 저자들은 그 산출물이 고부담 결정이 아니라 개인적 상황과 정신 건강 맥락 곁에 놓여야 한다고 강조합니다([[physiological-signals-exam-outcomes-ml|Yamazaki and Rimal, 2026]]).
 

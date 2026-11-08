@@ -1,7 +1,7 @@
 ---
 title: 경영학 교육
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,9 @@ ai_assist:
 ## 지식베이스의 연구 속 경영학 교육에서의 AI
 
 - **학생이 알려준 틀들.** [[drummond-genai-business-schools-framework-2026|Drummond & Dale(2026)]]는 영국 149명의 학생 사례 연구에 토대를 두고, GenAI를 경영 학위 프로그램 전반에 걸쳐 통합하기 위한 학생이 알려준 개념 틀을 제시합니다. 학생들은 높게 참여했고, 진로를 위한 GenAI 기술의 필요성을 인식했으며, 의도하지 않게 학문적 부정행위를 저지르지 않고 AI를 사용하고 싶어 했습니다.
+
+- **결과 연구가 아니라 가치 기반 전략 분석.** [[csaszar-ai-management-education-2026|Csaszar 외(2026)]]는 지불 의향과 전달 비용을 MBA 및 인접 프로그램에 적용합니다. AI는 훈련을 대체할 수도 있고, 판단·윤리·리더십의 가치를 높여 그것을 보완할 수도 있습니다. 교수 내용, 방법, 대상은 모두 미정이며, 연구 역량이 학교가 보완될지 대체될지를 결정하는 변수입니다.
+
 - **십 년의 연구.** [[espino-ai-business-education-review-2026|Espino & Espino(2026)]]는 2015–2024년 경영학 교육에서의 AI에 관한 213편의 글을 서지학적으로 지도화하여 네 개의 군집을 확인했습니다. AI가 이끄는 경영 교육 변혁, 혁신적 디지털 교수법, AI가 강화하는 [[personalized-learning|개인화]], 그리고 디지털 경제에 부합하는 경영 교육입니다. 교육과정의 정합성, 교육자의 준비도, 평가의 타당도에 지속적인 간극이 드러났습니다.
 - **건설적 정합성.** [[zhou-constructive-alignment-genai-business-2026|Zhou et al.(2026)]]는 영국 경영대 한 곳에서의 GenAI 도입 사례 17건을 분석하여, 교수법적 이익과 위험 사이의 균형이 **교육과정 통합의 정도**에 의해 형성된다는 것을 발견했습니다. 건설적 통합이 더 나은 결과를 산출했습니다.
 - **교육과정에 관한 학생의 통찰.** [[rook-plumb-genai-curricula-student-insights-2026|Rook & Plumb(2026)]]는 캡스톤 단위의 학부 경영학 학생 166명에게서 자료를 얻어, GenAI를 교육과정에 통합하는 것에 대한 강한 지지와 세 가지 우선 영역을 발견했습니다. GenAI 기능의 이해·최적화, 맥락에 걸친 응용 탐구, 윤리·법적 차원의 항해입니다.
@@ -46,8 +49,8 @@ ai_assist:
 - **경영 [[simulation]] 게임 속의 대화형 도구.** [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger, and Liening(2026)]]는 경험적 기업가 학습에 쓰이는 경영 시뮬레이션 게임에서 적응적 교수 지원을 위한 AI가 강화한 [[conversational-ai|대화형 도구]](Lara)를 개발하고 평가합니다. [[equity-in-ai-education|형평성]] 우선 설계 입장과 [[universal-design-for-learning|보편적 학습 설계]]에 토대를 두어, CAIS-GBL 틀은 인지적, [[motivation|동기]]적, [[affective-computing|정서적]], [[sociocultural-learning|사회문화적]] [[student-engagement|참여]]를 겨냥하며, 예비 교사와 BSG 참가자들 사이의 평가는 인지적·[[community-of-inquiry|사회적 존재감]]과 [[self-regulated-learning]] 지원에 대한 긍정적 인식을 보였습니다. 이는 [[game-based-learning|시뮬레이션 기반]] 경영 교육에서 [[formative-assessment|형성적]] 피드백을 확장하는 모델입니다.
 - **복잡한 응용 과제를 위한 에이전틱 GAI.** [[ilieva-agentic-genai-higher-education-2026|Ilieva et al.(2026)]]는 **전자상거래** 수업을 중심으로 AGAI-HE 틀을 개발합니다. 학습 과제는 사업 모델을 비교하고, 시장과 운영상의 제약을 저울질하며, 전략적 권고를 방어하는 것을 요구합니다. 프롬프트–응답 챗봇이 잘 뒷받침하지 못하는 여러 단계의 응용 작업입니다. 130명의 학생을 대상으로 한 인식 연구에서 챗봇 지원과 에이전트 지원 모두 전통적 [[online-teaching-and-learning|이러닝]]보다 학습 향상, 개인화, 의사결정 지원, 작업 흐름 조직에서 높게 평가되었으나, 에이전트 대 챗봇의 유의미한 차이는 없었고, 가장 강한 지지는 세 가지 양식을 모두 결합하는 데 돌아갔습니다. 경영 프로그램을 위한 읽기는, 도입이 단순한 도구 업그레이드가 아니라 AI 지원이 어떻게 순서 지어지고 통제되는가에 관한 [[curriculum-design|교수설계]] 문제라는 것입니다([[agentic-ai]]).
 - **수업에서 구축한 [[rag|RAG]] 챗봇은 결과가 아니라 기대를 움직였습니다.** 마케팅 원론 수업의 학부생 454명을 대상으로 한 한 학기 [[rct|무작위 시험]]에서, [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni와 Fryer(2026)]]는 흥미, [[self-efficacy|자기효능감]], 참여, 시험 수행에 유의한 집단×시점 효과를 발견하지 못했습니다. 학생들이 주당 0.89회 로그인했고 즐거움을 80.4로 평가했음에도 그러했습니다.
-- **평가와 채점 혁신은 연구가 부족합니다.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy(2026)]]는 네 개의 주요 경영 교육 학술지(AMLE, JME, Management Learning, IJME)에 걸쳐 20년간 평가 관련 글 58편을 조사했습니다. 대략 연 3편으로, 많은 것이 2010년과 2014년의 특별호에 실렸으며, 학습을 형성하는 데 있어 중심적 역할에 비해 평가와 채점이 연구가 부족하다는 것을 발견했습니다. 자기평가와 동료평가가 담론을 지배하며(말뭉치의 거의 절반, 주로 [[group-work|모둠 활동]]의 [[summative-assessment|총괄적]] 평가를 위해), [[authentic-assessment|진본 평가]]는 주로 기술이 매개하는 [[simulation|시뮬레이션]]을 통해 나타나고 종종 [[experiential-learning|경험 학습]]과 혼동되며, 재평가와 기준 기반 채점, 그리고 비채점(ungrading)은 사실상 없습니다. 저자들은 경영 교육자들이 이러한 혁신에 더 능동적이고 상호적으로 참여할 것을 촉구하며, 프로그램 단위의 조정과 문서화된 교수학습 장학(Scholarship of Teaching and Learning) 증거로 뒷받침되는 점진적 실험(비채점 과제, 단일 과제에 대한 재평가, 기준 기반 루브릭)을 권고합니다.
-- **경영 학업의 자동 채점은 말뭉치별 검증이 필요합니다.** BrandSim 시뮬레이션의 학생 마케팅 게시물 60건에 대해, [[automated-scoring-marketing-posts-agreement-2026|Li(2026)]]는 [[llm|LLM]]이 인간 평균과 ICC(2,1) = .435에만 이르렀음을 발견했습니다. 결정론적 규칙은 .091, 등가중치 하이브리드는 .266이었으며, 연구자가 작성한 앵커를 더하자 학생 점수는 전혀 바뀌지 않은 채 LLM은 .846으로 올랐습니다.
+- **평가와 채점 혁신은 연구가 부족합니다.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy(2026)]]는 네 개의 주요 경영 교육 학술지(AMLE, JME, Management Learning, IJME)에 걸쳐 20년간 평가 관련 글 58편을 조사했습니다. 대략 연 3편으로, 많은 것이 2010년과 2014년의 특별호에 실렸으며, 학습을 형성하는 데 있어 중심적 역할에 비해 평가와 채점이 연구가 부족하다는 것을 발견했습니다. 자기평가와 [[peer-assessment|동료평가]]가 담론을 지배하며(말뭉치의 거의 절반, 주로 [[group-work|모둠 활동]]의 [[summative-assessment|총괄적]] 평가를 위해), [[authentic-assessment|진본 평가]]는 주로 기술이 매개하는 [[simulation|시뮬레이션]]을 통해 나타나고 종종 [[experiential-learning|경험 학습]]과 혼동되며, 재평가와 기준 기반 채점, 그리고 비채점(ungrading)은 사실상 없습니다. 저자들은 경영 교육자들이 이러한 혁신에 더 능동적이고 상호적으로 참여할 것을 촉구하며, 프로그램 단위의 조정과 문서화된 교수학습 장학(Scholarship of Teaching and Learning) 증거로 뒷받침되는 점진적 실험(비채점 과제, 단일 과제에 대한 재평가, 기준 기반 루브릭)을 권고합니다.
+- **경영 학업의 [[automated-assessment|자동 채점]]은 말뭉치별 검증이 필요합니다.** BrandSim 시뮬레이션의 학생 마케팅 게시물 60건에 대해, [[automated-scoring-marketing-posts-agreement-2026|Li(2026)]]는 [[llm|LLM]]이 인간 평균과 ICC(2,1) = .435에만 이르렀음을 발견했습니다. 결정론적 규칙은 .091, 등가중치 하이브리드는 .266이었으며, 연구자가 작성한 앵커를 더하자 학생 점수는 전혀 바뀌지 않은 채 LLM은 .846으로 올랐습니다.
 - **경영학 교육의 한 대안은 주제가 아니라 과정을 채점합니다.** 1학년 비즈니스 분석가 도제 학위 과정에서 채점은 문서화된 반복과 동료 [[collaborative-learning|협력]]을 요구했고, GenAI를 사용한 학생들은 그 반론을 제출하는 대신 그것에 맞서 논쟁했습니다([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 - **1급 공정 설계 요소로서의 AI 가르치기.** [[ai-decision-checkpoints-bpm-education-2026|Jalali(2026)]]는 152명의 학생 수업 여섯 모듈에 걸친 BPM 생애주기 각 단계에 AI 의사결정 검사 지점을 둡니다. 학생들이 작동하는 LLM 접수 도구를 만든 뒤, 실제 병목이 2인으로 이루어진 사기 조사 대기열이라는 것을 검사 지점에서 발견하게 되는 것입니다.
 
@@ -58,6 +61,10 @@ ai_assist:
 ## 경영학 교육에서의 AI가 중요한 이유
 
 경영은 생성 AI 도입이 가장 빠른 분야 가운데 하나이므로, 경영대는 AI가 통합된 직장을 위해 학생을 준비시켜야 한다는 절박한 압력을 받습니다. 이 연구는 효과적인 통합이 **교육과정이 이끌고 학생이 알려주는** 것임을 강조합니다. AI 도구를 더하는 것이 아니라, GenAI 리터러시와 윤리적 판단, 진본적 응용이 학위 구조를 통해 짜이도록 프로그램을 재설계하는 것입니다. 이것은 경영학 교육을 지식베이스의 더 넓은 주제 — [[ai-literacy|AI 리터러시]], [[teacher-role|교육자]] 준비, [[assessment]] 재설계, AI 시대의 [[curriculum-design|교육과정]] 개혁 — 와 연결합니다.
+
+
+사례 연구와 시뮬레이션은 이 문헌에 가장 가까운 교수 형식이지만, 경영학 증거는 사례 기반 개입을 분리해 내지 못합니다. 교수법과 그 한계는 [[case-based-learning]]을 참조하십시오.
+
 
 ## 경영 교수자를 위한 시사점
 
@@ -78,6 +85,8 @@ ai_assist:
 - [[discipline-specific-aied]]
 - [[generative-ai]]
 - [[ai-literacy]]
+
+- [[case-based-learning]] — 사례 연구, 사례 방법, 사례 토론
 - [[curriculum-design]]
 - [[assessment]]
 - [[ethics]]
@@ -102,3 +111,6 @@ ai_assist:
 - [[shi-genai-experiential-learning-management-education-2026]] — 경영 교육 교수법을 재구성하기 위한 세 가지 생성 AI 기제
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 수업에서 구축한 RAG 챗봇은 결과가 아니라 기대를 움직였다 (Thoeni & Fryer 2026)
 - [[alam-process-oriented-collaborative-essays-2026]] — 비즈니스 분석가 도제 과정의 과정 중심 협력 에세이: 주제가 아니라 문서화된 반복을 채점
+
+- [[csaszar-ai-management-education-2026]] — 경영학 교육에 대한 AI의 효과: 가치 기반 전략 분석(Csaszar 외 2026)
+

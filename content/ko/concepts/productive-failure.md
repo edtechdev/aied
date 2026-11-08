@@ -1,7 +1,7 @@
 ---
 title: 생산적 실패
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 - **교수로부터 배울 준비를 시킵니다.** 학습자는 자신이 모르는 것을 알고, 새로운 내용을 자신의 시도에 연결할 수 있습니다.
 - **지식 전이와 지속 가능한 기술**([[critical-thinking]], 회복 탄력성, 의사소통)을 향상시키고, 실수에 대한 두려움을 줄이며, 학습에 대한 긍정적인 태도를 촉진합니다.
 
-생산적 실패 프레임워크는 **대리 실패(vicarious failure)**, **해결책 다양성(solution diversity)**, **적응적 안내(adaptive guidance)** 등의 관련 설계를 통해 확장되었습니다(Braas et al., 2025; Brand et al., 2025).
+생산적 실패 프레임워크는 **대리 실패(vicarious failure)**, **해결책 다양성(solution diversity)**, **적응적 안내(adaptive guidance)** 등의 관련 설계를 통해 확장되었습니다(Braas et al., 2025; Brand et al., 2025). 사례는 그 첫 시도를 위한 공유된 문제 공간을 제공할 수 있지만, 사례 기반 근거 기반은 아직 그 짝짓기를 직접 시험하지 않았습니다([[case-based-learning]]).
 
 ## 실수로부터의 학습과 오류로부터의 학습
 
@@ -104,6 +104,7 @@ ai_assist:
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+- [[case-based-learning]] — 첫 시도를 위한 공유된 문제 공간으로서의 사례
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

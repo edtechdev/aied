@@ -1,7 +1,7 @@
 ---
 title: AIED 연구 방법
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-26T13:35:09-04:00"
+source_updated: "2026-11-01T11:00:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -186,6 +186,10 @@ AIED 연구 전체에 영향을 미치는 **관통하는 한계**를 의식하�
 
 [[bulut-technology-supported-formative-assessment-2026|Bulut(2026)]]는 이 넷과 구분되는 서지학적 갈래를 더합니다. 407건의 기록을 동시출현 단어와 공저 네트워크로 지도화하여 한 분야의 개념적 발달을 추적하는 것입니다. 저자는 그 위에 세운 SWOT 독해가 독립적인 분석 기법이 아니라 해석적 장치임을 분명히 밝히며, 이것이 이 전통에서 종합과 분석의 경계를 표시합니다.
 
+
+- **"통계는 계산되면 신뢰할 수 있다."** 그 벤치마크는 먼저 검사 자체를 검사합니다. 명명된 여섯 통계 집합을 제외한 모든 탐침과 모든 판정은 효과를 심어 놓은 경우와 심지 않은 경우의 모의 채점자에게 실행되었고, 검사가 심어 놓은 효과를 찾지 못한 측정은 결과가 아니라 미측정으로 보고되었습니다. 그 보고서는 자체 마크다운과 코드에서 생성되므로, 인쇄된 모든 숫자는 그것이 나온 파일과 필드에 연결되고 빌드 시 다시 계산됩니다. 실제 결과를 읽기 전에 [[porcaro-ai-grading-benchmark-2026|판정은 검사할 수 있는 설계 결정]]입니다.
+
+
 ## 흔한 오해
 
 **"높은 벤치마크 정확도는 교육적 효과를 보여 줍니다."** 그렇지 않으며, 그 간극이 이 분야의 중심적인 측정 문제입니다. 시스템은 정확도에서 높은 점수를 받으면서도 학습을 전혀 산출하지 않을 수 있습니다. 벤치마크 정확도는 벤치마크가 설정한 조건에서의 과제 수행을 측정하기 때문입니다. 교육적 효과는 기술이 통제하지 않는 조건에서의 학습자 결과를 요구합니다.
@@ -243,3 +247,6 @@ AIED 연구 전체에 영향을 미치는 **관통하는 한계**를 의식하�
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — 학습에 대한 AI 효과의 메타-메타분석
 - [[oneill-presumed-effective-meta-analysis-2026]] — 효과가 있다고 추정된 것들: 결함 있는 AIED 메타분석 감사
 - [[synthetic-educational-data-structural-fidelity-2026]] — 충실도 지표가 놓치는 것: 합성 교육 자료에 대한 구조적 점검
+
+- [[porcaro-ai-grading-benchmark-2026]] — 합의를 넘어서: 정답을 아는 탐침, 모의 채점자에 대한 효과 심기 검사, 22개 프롬프트 모형(Porcaro 2026)
+

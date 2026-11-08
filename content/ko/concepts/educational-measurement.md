@@ -1,7 +1,7 @@
 ---
 title: 교육 측정
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -45,14 +45,15 @@ ai_assist:
 - **분류학적 라벨은 문항의 행동을 예측하지 않는다.** 수학 문항 265개에 걸쳐, 의도된 Bloom 수준은 난이도 분산의 5% 미만을 설명했고(ε² = .043) 변별도는 전혀 설명하지 못한 반면(Kruskal–Wallis H = 0.54, p = .77), [[llm|LLM]] 분류는 전문가 코더와 다소 일치할 뿐이었으며(Cohen's κ = .22) 문항들을 apply/analyze 영역 쪽으로 끌어당겼습니다([[bloom-taxonomy-llm-item-classification-2026|Altaweel & Moussa (2026)]]).
 - **생성된 문항은 문장이 아니라 해법 경로로 판단하라.** 각 문항의 검증된 추론 트리를 부호화하는 것이 개념 평가에서 7.5%, 난이도 추정에서 6.3%, 역량 평가에서 19.5%의 성능 향상을 두 번째로 좋은 방법보다 가져왔으며, 제로샷 기준선은 서식을 따르는 문항을 "추론"으로, 기하 문항을 "알기"로 잘못 분류했습니다([[proiqa-math-item-quality-assessment-2026|Tong 등(2026)]]).
 - **AI [[assessment]]에서의 심리측정적 인식:** [[psychometrically-aware-ai|심리측정적으로 인식하는 AI]]는 AI 기반 평가가 측정 이론과 정렬되어야 한다는 표준 — 보정되고, 불확실성을 인식하며, 타당도를 보존하는 — 입니다([[automated-assessment|Confidence Aware AI Assessment]] 참조).
-- **숙달 레이블은 관찰되는 것이 아니라 구성되는 것이다.** 진단에 확실한 진실이 필요한 곳에서, [[personalized-neural-cognitive-architecture-search-2026|Jia와 Dong(2026)]]은 교육과정 개념 그래프, 교수자가 검토한 지식점 매핑, 수렴적 평가 증거를 통한 타당도 통제 절차로 그것을 구축하여, 행동 흔적을 직접 변환하지 않았고, 그들의 진단은 교육심리학자와 Cohen's kappa 0.78로 일치하여 IRT의 0.65를 앞질렀습니다.
+- **숙달 레이블은 관찰되는 것이 아니라 구성되는 것이다.** 진단에 확실한 진실이 필요한 곳에서, [[personalized-neural-cognitive-architecture-search-2026|Jia와 Dong(2026)]]은 [[curriculum-design|교육과정]] 개념 그래프, 교수자가 검토한 지식점 매핑, 수렴적 평가 증거를 통한 타당도 통제 절차로 그것을 구축하여, 행동 흔적을 직접 변환하지 않았고, 그들의 진단은 교육심리학자와 Cohen's kappa 0.78로 일치하여 IRT의 0.65를 앞질렀습니다.
 - **자동 채점과 타당도:** [[ai-scoring-language-bias-physics|AI 채점과 언어 편향]]과 [[multimodal-item-parameter-estimation-2026|다중 양식 문항 모수 추정]]은 자동 채점과 다중 양식 자료가 측정의 질에 어떻게 영향을 미치는지를 검토합니다.
 - **타당도 프레임워크:** [[assessment-validity]]와 [[educational-nlp]]는 LLM 기반 측정을 타당화하기 위한 기준과 도구를 제공합니다.
 - **잠재 구조 비교:** [[assessment-latent-structure-human-llm-2026|Strugatski 등(2026)]]은 평가 도구가 인간과 LLM에 대해 *동일한 요인 구조*를 보이는지 검정함으로써 교육 측정을 LLM 설정으로 확장합니다. 탐색적 요인분석, 요인 합치도, 재표집을 사용하여, 저자들은 LLM-인간 잠재 구조가 [[chemistry-education|화학]]과 양적 추론 도구 전반에 걸쳐 체계적으로 갈라진다는 것을 보여 주며, 이는 측정되는 구인이 모집단 간에 다르다는 것을 함의합니다. 이것은 인간에 대한 타당도 증거가 AI로 전이된다고 가정하기 전에 필요한 점검입니다.
+- **동일한 전사에 대한 평가자 간 답.** [[ober-persistence-pedagogical-agent-dialogues-2026|Ober 등(2026)]]은 같은 대화 발화를 여덟 가지 LLM 구성과 두 명의 인간 코더로 다시 코딩하여, 자기 일관성(Cohen's kappa 0.865–0.890)이 인간–LLM 정렬(kappa 0.000–0.419)보다 훨씬 높다는 것을 발견했습니다. 지속성은 유병률 역설이 작동하는 모습을 보여 주었습니다. kappa 0.043–0.426에서 78.23%–92.41%의 일치율이었고, 지배적인 무코드 범주에 대한 높은 일치가 드문 긍정 사례의 불일치를 가렸습니다.
 - **측정 가능한 오류를 지닌 채점자로서의 AI:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]]는 AI가 부여한 점수를 일반화 가능성 이론과 Kane의 논증 기반 타당도 아래에서, 여러 오차 원천(문항, 실행, 과제)을 지닌 오류 가능한 관찰로 다룹니다. 296명 학생의 손글씨 일반화학 시험에 대한 신뢰도 분석은 다섯 번의 AI 실행에 걸쳐 *총점*의 높은 안정성(ICC(A,1) = 0.967, Kendall's W = 0.959, 95% 반복성 계수 60점 중 5.33)과 더 낮은 문항 수준 안정성(ICC(A,1) = 0.836)을 보였습니다. 비체계적 오류들이 합산될 때 부분적으로 상쇄되기 때문입니다(총점 일치를 R² = 0.91로 끌어올리는 Spearman–Brown 집합 효과). 한편 기울기 < 1인 작은 양의 절편은 "소극적인 채점자"의 점수 압축 편향을 드러냈습니다. 이것은 실행 평균화와 집합을 측정 설계의 결정으로 틀 짓고, 자동화된 측정이 신뢰되기 전에 타당도 안전장치로 [[item-response-theory|IRT]] 위험에 보정된 신뢰도 필터를 동기를 부여합니다.
 - **모형 버전은 하나의 측정 조건이다.** [[semantic-variability-llm-conversation-assessment-2026|Hao(2026)]]은 네 개 LLM에 걸쳐 모형 내 응답 유사도(0.715–0.795)가 일관되게 모형 간 유사도(0.443–0.604)를 넘었음을 발견하여, 한 배포를 위해 확립된 채점 논증이 그 후속 버전으로 자동 전이되지는 않는다는 것을 보여 줍니다.
 
-- **귀무 결과는 경계가 제시되지 않으면 동등성의 증거가 아니다.** StudentBench는 풀링된 AI 튜터링이 전문가 인간 튜터링과 일치하는지를 차이에 대한 검정이 아니라 풀링된 표준편차 ±0.25에 대한 두 개의 단측 검정으로 시험하여, −0.58퍼센트포인트의 조정된 차이(90% CI [−2.18, 1.03])를 보고했습니다. 이것이 검정력이 부족한 귀무 결과를 동등성 주장으로 바꾸는 선택입니다([[studentbench-ai-human-tutoring-gre-2026|Northcutt 등(2026)]]).
+- **귀무 결과는 경계가 제시되지 않으면 동등성의 증거가 아니다.** StudentBench는 풀링된 [[intelligent-tutoring|AI 튜터링]]이 전문가 인간 튜터링과 일치하는지를 차이에 대한 검정이 아니라 풀링된 표준편차 ±0.25에 대한 두 개의 단측 검정으로 시험하여, −0.58퍼센트포인트의 조정된 차이(90% CI [−2.18, 1.03])를 보고했습니다. 이것이 검정력이 부족한 귀무 결과를 동등성 주장으로 바꾸는 선택입니다([[studentbench-ai-human-tutoring-gre-2026|Northcutt 등(2026)]]).
 - **전체 이력이 아니라 새 자료와 함께 보정되는 것:** [[bayesian-consensus-irt-item-banks-2026|Jewsbury 등(2026)]]은 AI 문항 생성의 운영상 결과 — 전통적인 것보다 더 크고, 더 희소하며, 더 자주 갱신되는 문항 은행 — 에 맞섭니다. 그곳에서는 갱신마다 축적된 모든 응답 자료를 재맞춤하는 것이 비용이 많이 들고 가용 메모리를 넘어설 수 있습니다. 그들의 *합의 보정*은 독립적으로 보정된 분기별 기간을, 각 기간의 사후 표본 추출을 공통 척도에 대응시키는 표본 추출별 강건 Haebara 링크로 결합하여(링크의 불확실성이 고정된 변환으로 다루어지지 않고 전파되도록 함), 이어서 각 기간의 *추정된 위계적* 사전확률이 차감된 가우시안 사후확률의 곱으로 집합하고, 합의 사전확률을 복원합니다. 네 기간에 걸친 운영상 Duolingo English Test 자료에서, 집합값은 사후 평균에서 풀링된 단일 실행 기준선과 일치했으며(r = .998 난이도, .991 로그 변별도의 경우) 표준편차에서도 그러했습니다(r = .970과 .920), 노출 3분위에 걸친 합의/풀링 SD 비율에서 0.91–0.98의 잔여 저분산이 나타났습니다. 이것은 가장 희소한 문항 3분위에 집중되어, 사전 확률의 이중 계산이 가장 심하게 작동하는 곳입니다. 측정의 교훈은 두 가지입니다. 추정된 사전확률은 병렬 베이지안 계산의 표준 부분집합 사전확률 장치로 다룰 수 없으며, 사후 *분산* — 적응 선택과 채점이 소비하는 불확실성 — 은 사후 평균만큼이나 이 보정의 대상입니다.
 - **두 개의 공개된 숫자에서 한 체계의 분산을 식별하기:** [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales 등(2026)]]은 [[learning-gains|성취]] 분포의 표준편차가 공개된 요약 통계만으로 — 평균과 고정된 숙련도 기준점 이상의 학생 비율 — 회복될 수 있음을 보여 줍니다. 분포 가정 아래에서 σ = (c − μ) / z(1 − p)이기 때문입니다. PISA 2025 엘살바도르([[math-education|수학]] 평균 346, 2수준 기준 420.07 이상이 12.28%)에 적용하면, 도출되는 σ는 63.8(읽기 76.8, 과학 63.8)로, 국제 기준치 100을 크게 밑돕니다. 이는 척도의 바닥에 분포가 눌려 있을 때 예상되는 바입니다. 세 추정치는 서로 독립적인 숫자 쌍에서 얻어졌고 서로 약 13포인트 이내에 있어, 온건한 내적 일관성 점검이 됩니다. 2수준 이상의 비율은 모든 PISA 체계에 보고되고 SDG 4.1.1 지표의 기반이 되므로, 이 식별은 미시자료를 필요로 하지 않으며, 같은 논문은 한 수학 격차를 세 가지로 보고함으로써 효과 크기의 분모 문제를 보여 줍니다. 129점, 1.29 국제 표준편차, 또는 엘살바도르 분포 자체의 표준편차 2.02배. 그 근거는, 자신의 표본 분산으로 나눈 표준화된 효과 크기는 연구 간에 정당하게 비교될 수 없다는 것입니다.
 
@@ -66,7 +67,7 @@ AI 리터러시는 이 지식 기반에서 가장 풍부한 검사 도구 보유
 
 - **수행 기반(객관적) 측정.** 대표작은 [[jin-glat-genai-literacy-assessment|GLAT(Generative AI Literacy Assessment Test)]]로, 네 차원(알고 이해하기, 사용하고 적용하기, 평가하고 만들기, [[ethics]])에 걸친 25개 개념 설계도를 기반으로 한 20문항 객관식 검사 도구이며, 355명의 학생을 대상으로 CTT + 2PL IRT로 타당화되었습니다(RMSEA = 0.03, CFI = 0.97, α = 0.80, ω = 0.81). 결정적으로, GLAT 점수는 자기보고가 그렇지 못한 곳에서 AI 지원 과제 수행을 예측했습니다. 이것은 AI 리터러시에 대해 **수행 기반 측정이 자기보고를 능가한다**는 증거입니다. [[ai-literacy-assessment-misalignment]]의 관련 연구는 자기보고된 AI 리터러시와 수행 기반 AI 리터러시 사이의 격차를 정량화하며(교사가 약 40% 과대평가), [[tracing-genai-literacy-interaction-patterns]]는 보고된 사용에 의존하지 않고 실제 학생-AI 상호작용 양상을 추적합니다.
 - **교사가 아는 것만이 아니라 하는 것을 측정하기.** 486명의 교사를 대상으로 한 타당화는 교사의 생성형 AI 교육적 사용에 대한 6차원 검사 도구 — 관리, 자료 제작, 평가, 역량 강화, 다양성, 동기 — 를 만들어 냈으며, 사용이 다차원적임을 확인했습니다. 다만 자기보고는 교실 실제 수행에 관한 주장을 담을 수는 없습니다([[questionnaire-teachers-genai-uses-validation-2026|Pérez-Montesdeoca 등(2026)]]).
-- **자기보고 척도.** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]은 세 영역(AI 개념; 응용과 기술 기술; AI 디지털 시민성)과 네 개의 비계화된 수준에 걸쳐 AI 리터러시를 실행 가능하게 하며, [[ai-literacy-heptagon-2026|AI Literacy Heptagon]]은 일곱 차원(기술, 응용, [[critical-thinking|비판적 사고]], 윤리, 사회적 영향, 통합, 법적/[[regulation|규제]])과 네 개의 Bloom 정렬 숙련 수준으로 구조화합니다. [[genai-skill-bypass-literacy]]는 학생 대 교직원의 상이한 AI 리터러시 경로를 지도화하고, [[panciroli-ai-literacy-episodes-situated-learning]]은 리터러시 평가를 [[situated-learning|상황 학습]] 장면에 기반을 둡니다. 어린 학습자를 위한 검사 도구 개발도 진전되고 있습니다. [[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan과 Srikoon(2025)]]의 AI 리터러시 자기평가 질문지(AIL-SAQ)는 4~6학년 학생을 위한 15문항 자기보고 척도로, AI에 대해 배우기, AI가 어떻게 작동하는지 배우기, AI와 함께 살아가기 위해 배우기를 중심으로 구성되었으며, 335명의 학생에게 탐색적 요인분석으로, 추가 579명에게 확인적 요인분석으로 타당화되었고, 전체 Cronbach's alpha는 .934입니다.
+- **자기보고 척도.** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]은 세 영역(AI 개념; 응용과 기술 기술; AI 디지털 시민성)과 네 개의 비계화된 수준에 걸쳐 AI 리터러시를 실행 가능하게 하며, [[ai-literacy-heptagon-2026|AI Literacy Heptagon]]은 일곱 차원(기술, 응용, [[critical-thinking|비판적 사고]], 윤리, 사회적 영향, 통합, 법적/[[regulation|규제]])과 네 개의 Bloom 정렬 숙련 수준으로 구조화합니다. [[genai-skill-bypass-literacy]]는 학생 대 교직원의 상이한 AI 리터러시 경로를 지도화하고, [[panciroli-ai-literacy-episodes-situated-learning]]은 리터러시 평가를 [[situated-learning|상황 학습]] 장면에 기반을 둡니다. 어린 학습자를 위한 검사 도구 개발도 진전되고 있습니다. [[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan과 Srikoon(2025)]]의 AI 리터러시 [[self-assessment|자기평가]] 질문지(AIL-SAQ)는 4~6학년 학생을 위한 15문항 자기보고 척도로, AI에 대해 배우기, AI가 어떻게 작동하는지 배우기, AI와 함께 살아가기 위해 배우기를 중심으로 구성되었으며, 335명의 학생에게 탐색적 요인분석으로, 추가 579명에게 확인적 요인분석으로 타당화되었고, 전체 Cronbach's alpha는 .934입니다.
 - **[[discipline-specific-aied|영역 특화]] AI 리터러시.** [[teacher-education-ai-literacy-sdt-2026]]는 [[self-determination-theory]] 프레임워크 안에서 [[teacher-role|교사]] AI 리터러시 측정을 개발하며(교사 382명, 요인 타당화), [[conceptualizing-preservice-teachers-ai-readiness-2026]]는 지능형-[[tpack]]을 통해 예비 [[teacher-ai-competency|교사 AI 준비도]]를 측정하며, [[ai-literacy-career-adaptability-business-2026]]는 [[business-education|경영 교육]]에서 학생의 AI 준비도와 [[career-development-and-readiness|경력 적응성]]을 평가하며, [[llm-critical-thinking-teamwork-review]]는 LLM 지원 비판적 사고와 팀워크 결과를 위한 검사 도구를 검토합니다. 교육자 측정으로 확장하여, 교사 AI 리터러시 척도(TAILS)는 ED-AI 프레임워크의 여섯 차원을 실행 가능하게 하여, 특히 [[teacher-education|언어 교사 교육]] 안에서 AI 리터러시를 측정하며(요인분석으로 타당화), 학생이나 일반 사용자를 대상으로 하는 평가의 공백을 메웁니다.
 
 ### 태도, 수용, 동기 검사 도구
@@ -92,9 +93,10 @@ AI 리터러시는 이 지식 기반에서 가장 풍부한 검사 도구 보유
 
 **신뢰도는 부분적으로 모형 자체에서 회복될 수 있다.** [[know-when-to-trust-ai-scoring-reliability-2026|Organisciak와 Acar(2026)]]은 Alternative Uses Test에 대한 20,000개 이상의 응답에서 LLM 기반 채점의 세 가지 값싼 개선을 평가합니다. 모형 자신의 토큰 수준 신뢰도를 읽는 것, 단 하나의 최선 추정 대신 상위 n개 예측 점수의 확률 가중 평균을 취하는 것, 그리고 여러 모형에 걸친 앙상블입니다. 각각은 인간 점수와의 합치도를 향상시켰으며(최선 구성에서 상관이 r = 0.781에서 0.823로, RMSE가 0.599에서 0.498로 하락), 그들의 진단은 단일 패스 채점의 특정한 실패 지점을 찾아냅니다. 모형이 표현한 신뢰도는 그 정확도와 음의 관계였습니다(β = −0.602). 이것은 모형 결과가 아니라 측정 접근의 결과입니다. 같은 모형도 채점 방식이 다르면 더 신뢰할 만한 검사 도구가 되며, 이것은 위의 자료 집합 수준 합치도 증거와 나란히 놓입니다.
 
-2026년의 교사 AI 리터러시 검사 도구 33개에 대한 평가는 검사 도구 개발이 어디서 성숙하고 어디서 그렇지 않은지를 보여 줍니다. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore, Maat(2026)]]은 COSMIN과 Terwee 등(2007)에서 개작한 의사결정 행렬에 비추어 검사 도구를 등급화하여, 내적 일관성이 가장 강한 영역(33개 중 28개가 A등급, 84.8%)이고 공정성이 가장 취약하며, 측정 불변성이나 차별 문항 기능 증거를 보고한 검사 도구는 5개(15.2%)뿐임을 발견했습니다. 구조 타당도는 강하여, 24개 검사 도구(72.7%)가 확인적 요인분석, PLS-SEM 또는 IRT 모형화를 통해 A등급에 이르렀으나, 내용 타당도는 대부분 질적 검토에 기대어, 21개 검사 도구(63.6%)가 양적 전문가 합치도 통계가 없어 B등급이었습니다.
+2026년의 교사 AI 리터러시 검사 도구 33개에 대한 평가는 검사 도구 개발이 어디서 성숙하고 어디서 그렇지 않은지를 보여 줍니다. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore, Maat(2026)]]은 COSMIN과 Terwee 등(2007)에서 개작한 의사결정 행렬에 비추어 검사 도구를 등급화하여, 내적 일관성이 가장 강한 영역(33개 중 28개가 A등급, 84.8%)이고 공정성이 가장 취약하며, 측정 불변성이나 차별 문항 기능 증거를 보고한 검사 도구는 5개(15.2%)뿐임을 발견했습니다. 구조 타당도는 강하여, 24개 검사 도구(72.7%)가 확인적 요인분석, PLS-SEM 또는 IRT 모형화를 통해 A등급에 이르렀으나, 내용 타당도는 대부분 [[qualitative-research|질적]] 검토에 기대어, 21개 검사 도구(63.6%)가 양적 전문가 합치도 통계가 없어 B등급이었습니다.
 
 자동화된 문항 선택은 검사 도구를 형태를 바꾸지 않으면서 단축할 수 있습니다. 병합된 두 물결 표본(N = 305, 342)에 대한 개미 군집 최적화는 각 차원에서 전체 척도와 r = 0.910–0.944로 상관하는 12문항 단축형을 만들어 냈으나, 차원당 두 문항은 더 좁은 내용 범위를 다룹니다([[genai-srl-l2-writing-scale-2026|Wang, Zhang, Zhang(2026)]]).
+- **AI 특화 구인을 위한 척도 타당화.** [[chang-ai-cognitive-offloading-scale-2026|Chang(2026)]]은 [[cognitive-offloading|인지적 오프로딩]]을 위한 절차를 따라갑니다. 26개 후보 문항을 세 기능(기억 5개, 보조 10개, 사고 5개)에 걸쳐 20개로 줄였고, N = 665의 연구 1은 추출 전에 KMO = 0.965, χ²(325) = 8904.89를 보고했습니다. N = 1,123의 연구 2는 2차 모형을 CFI = 0.951, TLI = 0.944, RMSEA = 0.047, SRMR = 0.036으로 적합했으며, CR 0.840–0.906, AVE 0.501–0.570, α = 0.944, 한 달 재검사 0.937(n = 99)이었습니다. 성별에 걸친 완전한 스칼라 불변성이 ΔCFI ≤ 0.001로 성립했습니다. 한계도 같은 설명에 속합니다. CVI, HTMT, 잠재 요인 상관이 보고되지 않아 판별 타당도와 내용 타당도는 입증된 것이 아니라 주장된 것입니다. 1차 3요인 모형은 또한 SRMR = 0.158을 기록했는데, 이는 1요인 모형의 0.051과 대비되며, 여러 문항은 행동이 아니라 의존에 대한 태도를 지칭합니다.
 
 ## 문제와 한계: 측정이 놓치거나 틀릴 수 있는 것
 
@@ -198,3 +200,4 @@ AI 리터러시는 이 지식 기반에서 가장 풍부한 검사 도구 보유
 - [[llm-benchmark-secondary-science-topics-2026]] — 합성 벤치마크: 생성 파이프라인이 측정 품질을 좌우한다
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — 난이도는 맞히고 변별력은 놓치는 LLM 난이도 판단
 - [[same-construct-same-conclusion-self-report-vs-performance-2026]] — 같은 구인, 같은 결론? 자기보고 대 수행 측정
+- [[chang-ai-cognitive-offloading-scale-2026]] — AI 인지적 오프로딩 척도의 타당화, 그리고 그것이 생략한 타당도 점검

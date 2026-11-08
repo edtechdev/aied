@@ -1,7 +1,7 @@
 ---
 title: 학습 설계
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:06:30-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-10-28T00:58:16-04:00"
+source_updated: "2026-11-05T01:53:02-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 
 설계 작업이 실제로 무엇을 수반하는지는 그 자체로 경험적 질문입니다. 설계 도구에 내장된 챗봇과 함께 작업한 신진 학습 설계자 5명의 설계자-챗봇 대화 1,378회를 분석한 [[tang-chatbots-learning-design-2026|Tang 등(2026)]]은 대화가 의도한 학습 결과와 교수법적 접근에 집중되고 콘텐츠 생성에 집중되지 않음을 발견했습니다. 설계자들은 교육과정 구성 요소를 구체적인 과제로 바꾸는 동안 정렬을 확인하는 차원에서 학습 결과에 반복해서 되돌아갔고, 조력자의 역할은 용어를 분명히 하는 것에서 과제 설계를 지원하는 것으로, 그리고 마감 전 검증 점검을 수행하는 것으로 단계에 따라 옮겨갔습니다. 이러한 근거에 따르면 설계 지원은 자료를 만들어 내는 것보다 설계 의도의 일관성을 유지하는 데 더 가깝습니다.
 
-학습 분석과 생성형 AI는 설계의 서로 다른 부분을 뒷받침합니다. 한 호주 대학의 포커스 그룹 11개를 대상으로 한 조사에서 분석에 관한 담론은 맥락과 강좌 차원의 문제 해결과 가장 많이 함께 나타났고(0.32), GenAI에 관한 담론은 평가 설계(0.26)와 학습자 자기결정을 위한 설계(0.15)에 집중되었습니다([[claassen-learning-analytics-genai-learning-design-2026|Claassen 등(2026)]]).
+[[learning-analytics|학습 분석]]과 생성형 AI는 설계의 서로 다른 부분을 뒷받침합니다. 한 호주 대학의 포커스 그룹 11개를 대상으로 한 조사에서 분석에 관한 담론은 맥락과 강좌 차원의 [[problem-solving|문제 해결]]과 가장 많이 함께 나타났고(0.32), GenAI에 관한 담론은 [[assessment|평가 설계]](0.26)와 학습자 자기결정을 위한 설계(0.15)에 집중되었습니다([[claassen-learning-analytics-genai-learning-design-2026|Claassen 등(2026)]]).
 
 ### 주요 연구 주제
 
@@ -52,7 +52,11 @@ ai_assist:
 
 Aila 시험은 그 양상에 계획 시간 수치를 붙입니다. 무작위 배정된 초등학교의 교사들은 이 도구로 주당 2.51시간을 수업 준비에 썼고 도구 없이는 3.32시간을 썼지만, 중앙값 교사는 수업의 21%에서 40%만을 처음부터 계획했으며, 이는 처음부터 설계하는 도구가 다루는 사례입니다([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]).
 
-생성된 자료가 부족한 지점은 교육과정과의 적합성입니다. 수학 교사 일곱 명은 AI가 생성한 생산적 실패 문제를 전반적 품질에서는 인간이 만든 문제에 근접하게 평가했으나(25점 만점에 M = 17.19 대 17.43), 교육과정 정렬에서는 더 낮게 평가했습니다(M = 2.57 대 3.29). 따라서 생성된 문제는 길이, 읽기 난이도, 시각 자료에 대한 수정이 여전히 필요했습니다([[rhaimi-productivemath-2025|Rhaimi 등(2025)]]).
+생성된 자료가 부족한 지점은 교육과정과의 적합성입니다. 수학 교사 일곱 명은 AI가 생성한 [[productive-failure|생산적 실패]] 문제를 전반적 품질에서는 인간이 만든 문제에 근접하게 평가했으나(25점 만점에 M = 17.19 대 17.43), 교육과정 정렬에서는 더 낮게 평가했습니다(M = 2.57 대 3.29). 따라서 생성된 문제는 길이, [[reading-education|읽기 난이도]], 시각 자료에 대한 수정이 여전히 필요했습니다([[rhaimi-productivemath-2025|Rhaimi 등(2025)]]).
+
+
+산문의 질은 또 다른 부족이며, 읽기 수준과 같은 것이 아닙니다. Clark 외(2026)는 모형 출력이 이해 비용이 알려진 구성 — 저빈도 n-그램, 겹친 명사, 명사화 동사, 긴 의존 관계, 축약된 목적어 관계절 — 을 의미 보존 바꿔쓰기와 인간 기준선보다 과도하게 사용하므로, AI가 쓴 설명과 읽기 자료에는 학년 수준 공식이 잡아내지 못할 편집 과정이 필요하다고 보여줍니다([[clark-ai-generated-language-readability-2026]]).
+
 
 **교수법에 기반한 AI 튜터링**은 수업 설계 원칙을 AI 시스템 설계에 적용합니다. **[[didactical-teacher-assistant-dimensional-modeling|Brisson 등]]**은 교수 전략이 명시적인 외부 층위에 부호화된 교수법 중심의 [[llm]] 교수 조력자를 만들었습니다. 이로써 콘텐츠 선택과 교수법적 구조화가 추적 가능하고 재현 가능해져, [[rethinking-scaffolding-llm-tutors]]의 불투명성 우려를 직접적으로 다룹니다. **[[instructional-guidance-genai-learning|Hou 등]]**은 생성형 [[learning-theories|학습 이론]]에 기반한 5단계 [[prompt-engineering|프롬프트 설계]] 프레임워크가 상위 수준의 인지적 성과를 유의미하게 개선했음을 보여 주며, 학습 효과를 결정하는 것이 AI에의 접근이 아니라 교수적 안내임을 드러냈습니다. 이 둘은 [[scaffolding]]와 [[intelligent-tutoring]]과 연결됩니다.
 
@@ -60,15 +64,21 @@ Aila 시험은 그 양상에 계획 시간 수치를 붙입니다. 무작위 배
 
 **도달 범위를 염두에 둔 설계.** Halani의 7개 지렛대 프레임워크는 각 강좌 환경에서 학생이 AI와 단둘인 상황에서도 여전히 작동하는 것은 어느 것인지를 묻습니다. 성적이 증명하는 것을 바꾸거나, 사유 없이는 완수할 수 없는 과제를 두는 것과 같은 구조적 조치는 과정이 중요하다고 말하는 것보다 더 멀리 도달합니다([[halani-designing-for-reach-2026|Halani, 2026]]).
 
-**사고를 보호하도록 도구를 제약하기.** 9주에 걸친 논증적 글쓰기 설계는 질문을 던지고 학생의 산문 작성을 거부하는 교수자가 경계를 정한 챗봇을 순차적으로 배치했습니다. 고등학생 네 명이 AI의 수동적 소비자에서 산출물에 이의를 제기하는 평가자로 옮겨갔으며, 향상을 이끈 것은 무제한적 생성성이 아니라 전략적 제약이었습니다([[making-ai-annoying-constrained-writing-2026|Konradt, Boote & Taub (2026)]]).
+**사고를 보호하도록 도구를 제약하기.** 9주에 걸친 논증적 글쓰기 설계는 질문을 던지고 학생의 산문 작성을 거부하는 교수자가 경계를 정한 [[conversational-ai|챗봇]]을 순차적으로 배치했습니다. 고등학생 네 명이 AI의 수동적 소비자에서 산출물에 이의를 제기하는 평가자로 옮겨갔으며, 향상을 이끈 것은 무제한적 생성성이 아니라 전략적 제약이었습니다([[making-ai-annoying-constrained-writing-2026|Konradt, Boote & Taub (2026)]]).
 
 **설계 지렛대로서의 루브릭 기반 프롬프트 설계.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar 등(2026)]]은 루브릭이 인간의 교수법적 의도와 기계의 추론 사이의 매개 인터페이스로 기능함을 보여 주었습니다. 평가 기준을 고정된 도구가 아니라 수정 가능한 설계 산출물로 다루고 LLM과 반복적으로 함께 다듬었을 때, 학생 설계 과제에 대한 LLM-인간 일치도가 54.75%에서 81.25%로 높아졌습니다. LLM용으로 설계된 루브릭은 정밀성과 유연성 사이의 균형을 잡아야 합니다. 너무 모호하면 자유로운 해석을 부르고, 너무 경직되면 모델을 패턴 매칭으로 전락시킵니다. 역할을 인식하는 프롬프트 설계(강사, 동료 검토자, 연구비 검토자)는 서로 다른 평가적 피드백을 산출했습니다. 이는 루브릭 엔지니어링이 AI 평가 행위를 규정하는 구체적인 학습 설계 실천임을 뜻하며, 인간 참여형 감독은 필수적으로 남습니다.
 
-**수업 설계를 위한 AI 에이전트**는 이 분야를 [[agentic-ai|에이전트형 AI]]로 확장합니다. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]**는 LLM 기반 수업 설계 에이전트를 평가하기 위한 최초의 표준화되고 이론에 기반한 벤치마크입니다. 그 25,795개 시나리오로 이루어진 Context Matrix(51개 맥락 변수 × ADDIE의 33개 ISD 하위 단계)는 고전적 ISD 프레임워크(ADDIE, Dick & Carey, Rapid Prototyping ISD)에 기반한 에이전트가 이론에 기반하지 않은 에이전트를 능가함을 보여 주며, 수업 설계가 일반적인 프롬프트 과제가 아니라 구조화된 학문 분야임을 경험적으로 검증합니다. 에이전트는 설계의 *제작자*일 뿐 아니라 *비평가*이기도 합니다. [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]]는 학생처럼 다단계 온라인 수업을 탐색하는 단일 자율 웹 에이전트를 사용하여 실제 학습자가 참여하기 *전에* 학습 설계를 평가합니다. 이 에이전트가 기술한 학습자 경험은 초보자가 이탈할 지점을 예측하고 실행 가능한 설계 피드백을 드러내며, 모든 기준선은 물론 시뮬레이션된 학습자 집단보다도 뛰어난 성과를 냈습니다. 이는 출시 전 에이전트 평가를 인간의 설계 반복에 대한 저비용 보완으로 자리매김합니다. **[[wang-multi-agent-systems-learning-designers-2025]]**와 **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**는 수업 설계 모형을 중심으로 역할 기반 에이전트를 조율하는 다중 에이전트 프레임워크를 탐구하고, **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]**는 교수자와 에이전트가 기술적·교수법적·내용 지식을 어떻게 함께 적용하는지를 살핍니다. 이 작업은 수업 설계를 [[benchmark|벤치마킹]], [[ai-ed-evaluation]], 그리고 대규모의 [[curriculum-design|교육과정]] 설계에 연결합니다.
+**수업 설계를 위한 AI 에이전트**는 이 분야를 [[agentic-ai|에이전트형 AI]]로 확장합니다. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]**는 LLM 기반 수업 설계 에이전트를 평가하기 위한 최초의 표준화되고 이론에 기반한 벤치마크입니다. 그 25,795개 시나리오로 이루어진 Context Matrix(51개 맥락 변수 × ADDIE의 33개 ISD 하위 단계)는 고전적 ISD 프레임워크(ADDIE, Dick & Carey, Rapid Prototyping ISD)에 기반한 에이전트가 이론에 기반하지 않은 에이전트를 능가함을 보여 주며, 수업 설계가 일반적인 프롬프트 과제가 아니라 구조화된 학문 분야임을 경험적으로 검증합니다. 에이전트는 설계의 *제작자*일 뿐 아니라 *비평가*이기도 합니다. [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]]는 학생처럼 다단계 온라인 수업을 탐색하는 단일 자율 웹 에이전트를 사용하여 실제 학습자가 참여하기 *전에* 학습 설계를 평가합니다. 이 에이전트가 기술한 [[student-experience|학습자 경험]]은 초보자가 이탈할 지점을 예측하고 실행 가능한 설계 피드백을 드러내며, 모든 기준선은 물론 시뮬레이션된 학습자 집단보다도 뛰어난 성과를 냈습니다. 이는 출시 전 에이전트 평가를 인간의 설계 반복에 대한 저비용 보완으로 자리매김합니다. **[[wang-multi-agent-systems-learning-designers-2025]]**와 **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**는 수업 설계 모형을 중심으로 역할 기반 에이전트를 조율하는 다중 에이전트 프레임워크를 탐구하고, **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]**는 교수자와 에이전트가 기술적·교수법적·내용 지식을 어떻게 함께 적용하는지를 살핍니다. 이 작업은 수업 설계를 [[benchmark|벤치마킹]], [[ai-ed-evaluation]], 그리고 대규모의 [[curriculum-design|교육과정]] 설계에 연결합니다.
 
 ### 관련 개념과의 연결
 
-학습 설계는 [[ai-education|교육에서의 인공지능]]의 가교 역할을 하는 분야입니다. 이는 [[curriculum-design]](무엇을 가르칠지)와 [[scaffolding]](학습자를 어떻게 지원할지), [[educational-development]](교육자를 어떻게 준비시킬지), [[generative-ai]](도구 그 자체)를 연결합니다. AI 도구가 학습 설계자와 교수자가 하는 일을 다시 규정하므로 [[teacher-role]]과 밀접하게 결합되고, 효과적인 AI 통합에 교육자가 AI의 역량과 한계를 이해해야 하므로 [[ai-literacy]]과도 결합됩니다. 설계 작업은 결국 *활동의 질서*로 귀결됩니다. [[pedagogical-patterns|교수법적 패턴]]은 검증된 움직임의 순서들을 목록화하여, 설계자가 무엇을 포함할지뿐 아니라 수업의 어디에 AI가 자리할지를 결정할 수 있게 합니다. [[learning-sciences|학습과학]]은 이 원칙들 뒤에 놓인 연구 분야입니다. 이 페이지가 학습 경험을 만드는 전문적 실천을 다룬다면, 학습과학은 그 실천과 그 설계를 경험적으로 연구하고, 학습 설계가 이후에 실행에 옮기는 인지적·동기적·사회적 원칙을 만들어 냅니다.
+학습 설계는 [[ai-education|교육에서의 인공지능]]의 가교 역할을 하는 분야입니다. 이는 [[curriculum-design]](무엇을 가르칠지)와 [[scaffolding]](학습자를 어떻게 지원할지), [[educational-development]](교육자를 어떻게 준비시킬지), [[generative-ai]](도구 그 자체)를 연결합니다. AI 도구가 학습 설계자와 교수자가 하는 일을 다시 규정하므로 [[teacher-role]]과 밀접하게 결합되고, 효과적인 AI 통합에 교육자가 AI의 역량과 한계를 이해해야 하므로 [[ai-literacy]]과도 결합됩니다. 설계 작업은 결국 *활동의 질서*로 귀결됩니다. [[pedagogical-patterns|교수법적 패턴]]은 검증된 움직임의 순서들을 목록화하여, 설계자가 무엇을 포함할지뿐 아니라 수업의 어디에 AI가 자리할지를 결정할 수 있게 합니다. [[learning-sciences|학습과학]]은 이 원칙들 뒤에 놓인 연구 분야입니다. 이 페이지가 학습 경험을 만드는 전문적 실천을 다룬다면, 학습과학은 그 실천과 그 설계를 경험적으로 연구하고, 학습 설계가 이후에 실행에 옮기는 인지적·[[motivation|동기적]]·사회적 원칙을 만들어 냅니다.
+
+
+### 공동 설계, 그리고 인간으로 남아야 하는 것
+
+공동 설계는 관계적 작업이 가장 대체 불가능한 설계 실천의 부분입니다. [[zeivots-postdigital-co-design-genai-2025|Zeivots 외(2025)]]는 [[generative-ai|생성 AI]]를 초안 작성 도구가 아니라 신뢰할 수 없는 협력자로 다루고, 그 불안정성 주위에 세 단계 순서를 세웁니다: 모형은 자극하고, 다원화하고, 촉진하는 반면, 집단은 그 프레이밍을 심문하고, 대항 서사를 생성하며, 숙의 자체를 지탱합니다. 인간으로 남는 것은 협상입니다 — 어떤 목소리가 빠졌는지, 집단이 어떤 프레이밍을 채택할지, 공유된 이해가 무엇일지. 이 글은 실험 없이 열아홉 명의 저자가 쓴 집단 포럼이므로, 그 순서는 하나의 제안입니다.
+
 
 ### 학습 설계가 학습 향상을 결정하는 방식
 
@@ -175,3 +185,6 @@ Fowlin 등(2026)은 AI가 어디에 들어갈지를 결정하는 실행적 방�
 - [[wang-teacher-ai-co-design-review-2026]] — 학습 과제의 교사-AI 공동 설계: 경향과 관점 (Wang et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — AI가 설계한 차등화 집단 활동에서의 역할 구조 (Talebzadeh 2026)
 - [[yasar-llms-iterative-pedagogical-design-2026]] — 반복적 교수법 설계의 주체로서의 LLM
+
+- [[zeivots-postdigital-co-design-genai-2025]] — 공동 설계에서 신뢰할 수 없는 협력자로서의 GenAI
+

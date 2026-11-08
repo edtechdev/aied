@@ -1,7 +1,7 @@
 ---
 title: "교육에서의 AI 연구는 형평성, 접근성, 프라이버시, 윤리, 교수법적 안전을 어떻게 통합해야 하는가?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T10:37:54-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 
@@ -50,7 +50,7 @@ ai_assist:
 
 ## 장애가 있는 학습자를 설계실에 들이십시오
 
-장애가 있는 학습자를 설계와 평가에 포함하고, 실제 인터페이스를 접근성 요구 사항에 비추어 시험하고, 참여하고 학습을 입증할 동등한 경로를 제공하십시오. 기술적 준수와 포용적 교수는 별개의 시험이며, [[accessibility|접근성]]은 둘 다를 다룹니다.
+[[special-education|장애가 있는 학습자]]를 설계와 평가에 포함하고, 실제 인터페이스를 접근성 요구 사항에 비추어 시험하고, 참여하고 학습을 입증할 동등한 경로를 제공하십시오. 기술적 준수와 [[inclusive-learning|포용적 교수]]는 별개의 시험이며, [[accessibility|접근성]]은 둘 다를 다룹니다.
 
 지역대학 학생, 교수자, 개발자와 함께한 [[ko-hughes-vsd-student-centered-its-2026|가치 민감 설계 연구]]는 그 작업이 실제로 어떤 모습인지 보여 줍니다. 이 연구는 [[explainable-ai|설명가능성]](E1-E5), [[human-in-the-loop-ai|인간 참여]] 통제(H1-H9), [[privacy|프라이버시]](P1-P4)에 걸쳐 가치 정렬된 기능 16개를 만들어 냈고, 깔끔한 답이 아니라 긴장을 드러냈습니다. 투명성 대 해석가능성, 프라이버시 대 교수적 통찰, 학습자 [[agency|주체성]] 대 시스템 안내 [[scaffolding|비계]]입니다. 그런 것들을 판정할 각오를 하고, 어느 쪽을 택했는지 기록하십시오.
 
@@ -68,7 +68,7 @@ ai_assist:
 
 ## 방법을 결합하고, 데이터에서 주장으로 가는 경로를 보여 주십시오
 
-분해된 [[quantitative-research|양적]] 성과는 [[differential-effects-across-learner-groups|차등 효과]]를 드러낼 수 있습니다. 인터뷰, 관찰, 포커스 그룹, 공동 설계는 집계 점수가 놓치는 장벽, 해악, 문화적 전제, 학습자 경험을 표면화합니다. [[research-methods-aied|AIED 연구 방법]] 종합은 삼각검증을 필요로 봅니다. 어떤 단일 [[qualitative-research|질적]] 또는 양적 방법도 인과 추론, 생태적 타당성, 맥락 이해, 일반화가능성을 동시에 극대화하지 못하기 때문입니다.
+분해된 [[quantitative-research|양적]] 성과는 [[differential-effects-across-learner-groups|차등 효과]]를 드러낼 수 있습니다. 인터뷰, 관찰, 포커스 그룹, 공동 설계는 집계 점수가 놓치는 장벽, 해악, 문화적 전제, [[student-experience|학습자 경험]]을 표면화합니다. [[research-methods-aied|AIED 연구 방법]] 종합은 삼각검증을 필요로 봅니다. 어떤 단일 [[qualitative-research|질적]] 또는 양적 방법도 인과 추론, 생태적 타당성, 맥락 이해, 일반화가능성을 동시에 극대화하지 못하기 때문입니다.
 
 여러분 자신의 분석에도 같은 규율이 필요합니다. [[chain-behind-claim-warrantability-2026|정당화가능성 제안]]은 AI 지원 해석이 출처 연결 주제 표, 렌즈 스택, 증거 흐름도 같은 산출물과 함께 제공될 때 검사 가능하고 이의 제기 가능하며 수정 가능한 상태로 남는다고 주장합니다. 유창한 요약이 그것을 만들어 낸 경로를 가려서는 안 됩니다.
 

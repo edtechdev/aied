@@ -1,13 +1,13 @@
 ---
 title: 기술
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 - **대규모 언어 모형(LLM).** 현대 [[ai-education|AIED]]의 계산적 중추입니다. [[llm|LLM]]은 튜터링, 평가, 콘텐츠 생성을 위해 사람과 같은 텍스트를 생성하며, 지식베이스에서 가장 많이 참조되는 기술입니다. [[llm-training-and-fine-tuning|훈련과 미세 조정]]은 범용 LLM을 교육 용도에 맞춥니다.
 - **생성형 AI.** 텍스트, 코드, 이미지, 그 밖의 콘텐츠를 산출하는 시스템의 더 넓은 범주입니다. [[generative-ai|생성형 AI]](주로 LLM에 의해 구동됨)는 현재의 [[ai-education|AIED]] 연구 물결 뒤에 있는 기술입니다. [[multimodal|멀티모달 모형]](텍스트, 이미지, 오디오)과 [[simulation]]도 함께 보십시오.
-- **로봇과 구현된 시스템.** [[educational-robotics|교육에서의 로봇]]은 구현되어 있고 때로 사회적인 존재감을 더합니다. 계산적 사고를 위한 프로그래밍 키트, 그리고 튜터링과 스토리텔링, 역할 놀이를 위한 휴머노이드·사회적 로봇이 그것입니다. 로보틱스는 [[agentic-ai|에이전트형 AI]]와 [[human-in-the-loop-ai|인간 참여형]] 설계와 겹치는 별도의 기술 갈래입니다.
+- **로봇과 [[embodied-learning|구현된]] 시스템.** [[educational-robotics|교육에서의 로봇]]은 구현되어 있고 때로 [[community-of-inquiry|사회적인 존재감]]을 더합니다. [[computational-thinking|계산적 사고]]를 위한 프로그래밍 키트, 그리고 튜터링과 [[storytelling-in-education|스토리텔링]], 역할 놀이를 위한 휴머노이드·사회적 로봇이 그것입니다. 로보틱스는 [[agentic-ai|에이전트형 AI]]와 [[human-in-the-loop-ai|인간 참여형]] 설계와 겹치는 별도의 기술 갈래입니다.
 - **지식 기반 시스템.** [[knowledge-graph|지식 그래프]]와 [[educational-nlp|교육 분야 NLP]]는 영역 지식을 표상하고 처리하며, 근거에 붙잡히고 설명 가능한 튜터링을 위해 LLM과 점점 더 결합됩니다.
 
 ## 기법과 방법
@@ -56,7 +56,11 @@ ai_assist:
 
 - **교수법:** 기술적 선택은 교수법적 가정을 구현합니다. [[intelligent-tutoring|튜터]]를 [[socratic-method|소크라테스식 프롬프트]]로 만들면 학습자와 함께 추론하는 반면, 답을 생성하는 모형은 직접 제시로 기본값을 택할 수 있습니다([[pedagogy|교수법과 교수 전략]] 참고).
 - **평가와 검증:** [[ai-ed-evaluation]]과 [[benchmark|벤치마크]]는 AI 시스템이 실제로 작동하는지를 판단하며, [[assessment]]과 [[automated-assessment]]는 채점과 문항 생성을 위해 기술 스택을 씁니다.
-- **책임 있는 사용:** 기술적 기법은 [[reducing-ai-misuse|AI 오용 줄이기]]의 핵심입니다. [[rag]] 근거 확보, 가드레일, [[prompt-engineering]] [[scaffolding]], 그리고 [[human-in-the-loop-ai|인간 감독]]이 AI가 학습을 뒷받침하는지 아니면 해치는지를 규정합니다([[cognitive-offloading]], [[hallucination-risk]]).
+- **책임 있는 사용:** 기술적 기법은 [[reducing-ai-misuse|AI 오용 줄이기]]의 핵심입니다. [[rag]] 근거 확보, [[guardrails|가드레일]], [[prompt-engineering]] [[scaffolding]], 그리고 [[human-in-the-loop-ai|인간 감독]]이 AI가 학습을 뒷받침하는지 아니면 해치는지를 규정합니다([[cognitive-offloading]], [[hallucination-risk]]).
+
+
+**연구 관심은 도구 생태계의 좁은 부분에 집중되어 있습니다.** 85개의 AI 도구를 STEM 및 공학 문헌과 매핑하면서, [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky 외(2026)]]는 36개만이 연구에서 가시적이며 [[conversational-ai|대화형 AI]]/LLM이 927개 논문–도구 연결의 73.7%를 차지하고, 확립된 실험실 맥락의 출판물은 23편임을 발견했습니다.
+
 
 ## 교육에서의 인공지능에 대한 시사점
 
@@ -109,3 +113,6 @@ ai_assist:
 - [[elbench-education-llm-benchmark-2026]] — 교육 LLM 벤치마크
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini 생성형 사회적 로봇
 - [[benzion-ai-physics-simulations-virtual-lab]] — 교실을 위한 LLM 생성 물리 시뮬레이션
+
+- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — STEM 및 공학 교육에서 85개 AI 도구의 연구 가시성 (Terkowsky et al. 2026)
+

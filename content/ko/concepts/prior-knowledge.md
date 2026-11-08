@@ -1,14 +1,14 @@
 ---
 title: 사전 지식
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-30T05:04:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-28T01:09:26-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,8 +38,11 @@ ai_assist:
 ## 사전 지식의 역할
 
 - **사전 지식은 학습의 가장 강력한 예측 요인입니다.** 수십 년간의 [[research-methods-aied|연구]]는 학습자가 이미 아는 것이 다른 거의 모든 요인보다 [[learning-gains|학습 결과]]와 더 강하게 상관된다는 것을 보여 줍니다. 새로운 정보가 기존의 심성 모델에 상대적으로 부호화되기 때문입니다. 따라서 각 학습자의 사전 지식 상태에 적응하는 AI 시스템은 효율성과 [[transfer-of-learning|전이]] 면에서 특별한 가능성을 지닙니다.
+
+- **얼마나 더 강한지, 한 번의 무작위 비교.** 그 밖에는 동일한 두 2학년 수학 튜터가 과제 선택이 베이지안 지식 추적 숙달 추정을 따르는지 여부만 달랐는데, 사후 시험 점수에는 차이가 없었습니다. 사전 지식은 그 점수를 η²p = .63(F(1, 124) = 206.99, p < .001)으로 예측한 반면, 적응적 순서는 η²p = .00을 설명했습니다([[adaptive-intelligent-tutoring-primary-mathematics-2026|Sibley, Berner와 Schmalfeldt(2026)]]). 적응은 연습의 순서를 재배열할 뿐이며, 학습자가 가지고 온 것이 여전히 결과를 담당했습니다.
+
 - **소유가 아니라 활성화가 중요합니다.** 사전 지식을 갖는 것만으로는 충분하지 않습니다. 적극적으로 인출되어 새로운 자료와 연결되어야 합니다. 이것이 '사전 지식 활성화'가 표준적인 [[pedagogy|수업]] 기법이며, 인출 연습(무엇을 더하기 전에 아는 것을 떠올리는 것)이 단순한 재노출을 넘어 학습을 향상하는 이유입니다.
-- **사전 지식은 학습을 이끄는 일을 누가 하는지를 항상 예측하지는 않습니다.** 중학교 교사 23명을 대상으로 한 5일간의 러닝 바이 티칭(learning-by-teaching) 연구에서, 교사의 사전 시험 점수는 교사가 산출한 지식 구축 응답의 비율을 예측하지 못했으며, 지식을 구축한 사전 수준이 낮은 교사들은 사전 수준이 높은 또래들과 통계적으로 동등한 수준으로 마무리했습니다([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
+- **사전 지식은 학습을 이끄는 일을 누가 하는지를 항상 예측하지는 않습니다.** 중학교 교사 23명을 대상으로 한 5일간의 [[learning-by-teaching|러닝 바이 티칭]] 연구에서, 교사의 사전 시험 점수는 교사가 산출한 지식 구축 응답의 비율을 예측하지 못했으며, 지식을 구축한 사전 수준이 낮은 교사들은 사전 수준이 높은 또래들과 통계적으로 동등한 수준으로 마무리했습니다([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **사전 지식은 해석의 틀을 만듭니다.** 학습자는 이미 믿고 있는 것을 통해 새로운 정보를 해석합니다. 그 믿음이 잘못되었을 때([[misconceptions]]), 사전 지식은 학습을 *방해*할 수 있으며, 이것이 수업이 중립적인 출발점을 가정하기보다 오개념을 드러내고 다루어야 하는 이유입니다.
 - **사전 지식은 학생 모델링을 이끕니다.** 개인화를 위해 AI 시스템은 학습자의 사전 지식 상태를 추정해야 합니다. 이것이 [[knowledge-tracing]], 학생 모델링, 적응적 [[scaffolding]]의 기반입니다. 이러한 추정의 질이 적응이 진정으로 도움이 되는지, 아니면 오도하는지를 결정합니다.
 - **지식의 내용이 어떤 과정 연습을 끌어들이는지를 결정합니다.** 학습이 기억에 달려 있는지 귀납에 달려 있는지는 목표가 되는 것의 사전 지식 구조에 의해 정해집니다. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]]는 KLI 틀에 따라 조건과 반응이 일정한 지식 요소(사실 — 기억과 인출 연습을 통해 습득됨)와 조건과 반응이 변하는 지식 요소(기술 — 귀납과 새로운 입력에 대한 일반화를 통해 습득됨)를 구분합니다. 이것이 사실 내용과 기술 내용에 대해 풀이 예시와 연습의 최적 배합이 다른 이유입니다.
@@ -101,3 +104,4 @@ ai_assist:
 - [[bridging-instructional-design-framework-math]] — 수학을 위한 교수설계 틀
 - [[knowledge-building-tutor-learning-2026]] — 사전 지식이 아니라 지식 구축이 교사 학습을 예측하며, 지식을 구축한 사전 수준이 낮은 교사들이 따라잡는다
 - [[rachatasumrit-example-problem-ratio-2026]]
+- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — 두 2학년 수학 튜터의 무작위 비교: 사전 지식이 η²p = .63을 예측하고 적응적 순서는 .00이었다 (Sibley, Berner & Schmalfeldt 2026)

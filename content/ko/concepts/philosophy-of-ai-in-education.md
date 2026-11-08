@@ -1,14 +1,14 @@
 ---
 title: 교육에서의 AI의 철학
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:36-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-10-25T19:20:00-04:00"
+source_updated: "2026-11-05T15:16:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -40,8 +40,11 @@ ai_assist:
 - **마음과 인지의 본성.** 사유는 의식과 몸을 필요로 합니까? AI가 진정으로 인지적 과정에 참여할 수 있습니까? **앙상블 인지** 같은 틀은 AI가 의식 없이도 *기능적 자율성*, 즉 인지 과정에서의 진정한 인과적 효능을 행사하며, 사유가 동적인 인간–[[student-ai-interaction|AI 상호작용]]에서 떠오른다고 주장합니다.([[ensemble-cognition-philosophy-ai-education]]) [[distributed-cognition|분산 인지]]와 확장된 마음 논제는 인지가 시스템에 걸쳐 퍼져 있다는 관련 주장을 펼칩니다.
 - **학습자는 무엇인가?** 포스트휴머니스트 철학은 학습자를 [[biology-education|생물학적]]·인공적 시스템에 걸쳐 인지 과정이 진정으로 혼합적이고 분산된 "포스트휴먼" 존재로 재개념화합니다.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) 이것은 학습자가 경계 지어지고 자율적인 개인의 마음이라는 가정에 도전합니다.
 - **구현화와 탈신체 AI의 한계.** [[embodied-learning|구현화]] 및 후인지주의 철학은 상징적·탈신체적 AI 모형의 지배를 비판하며, 인지가 현재의 [[generative-ai|생성형 AI]]가 결여한 상황성, 창발, 감각운동적 결합에 뿌리를 둔다고 주장합니다.([[videla-embodied-ai-education-choreography]])
+
+- **기계적 마음의 시험 사례로서의 정서 노동.** AI가 가르칠 수 있는지에 관한 이 분야의 논증은 흔히 그것이 *돌볼* 수 있는지로 귀결되는데, 이 질문은 [[affective-computing|정동 컴퓨팅]]이 존재하기 훨씬 전부터 논의되었습니다. [[khan-machines-emotional-labor-education-2026|Khan (2026)]]은 1950–1996년의 논쟁을 재구성합니다. 그 논쟁에서 살아 있는 존재만이 문자 그대로 감정을 가질 수 있다는 Ziff의 주장에는 Smart의 동일론과 Putnam의 행동적 준거가 응답되었고, 세 가지 경쟁하는 존재론이 미해결로 남았습니다. 그의 결론은 불가능성 주장이 아니라 정당화의 부담입니다. 즉 표상, 시뮬레이션, 모방은 정서 노동을 충분히 결정하지 못하며, 이는 돌봄의 일을 시스템에 위임하려는 누구에게나 그 부담이 놓인다는 뜻입니다.
+
 - **자율성, 저자됨, 의미.** AI가 해석과 의미 구성을 매개할 때, 철학은 저자됨, 인식론적 [[agency]], 해석의 자율성이 어떻게 재구성되는지를 묻습니다.([[voicu-ai-interpretive-cognition-ssh-2026]])
-- **AI가 생성한 과학적 존재의 존재론.** 화학에서 AI가 예측한 화합물과 적정 곡선은 "경계적 존재론적 공간"을 차지합니다. 즉 경험적으로 입증될 때까지 온전히 가설적인 것도 완전히 실재하는 것도 아니며, 이것은 이 학문을 실재가 인간과 기계의 협업인 구성주의적 관점 쪽으로 이동시킵니다([[philosophy-experimentation-ai-chemistry-2026|Reyes and Regala (2026)]]).
+- **AI가 생성한 과학적 존재의 존재론.** [[chemistry-education|화학]]에서 AI가 예측한 화합물과 적정 곡선은 "경계적 존재론적 공간"을 차지합니다. 즉 경험적으로 입증될 때까지 온전히 가설적인 것도 완전히 실재하는 것도 아니며, 이것은 이 학문을 실재가 인간과 기계의 협업인 구성주의적 관점 쪽으로 이동시킵니다([[philosophy-experimentation-ai-chemistry-2026|Reyes and Regala (2026)]]).
 - **인식론적 해로서의 인지적 수동성.** Bai와 Costa(2026)는 사유를 안으로 향하고 전달 불가능한 활동으로 본 Arendt의 설명에 의지하여, 그 일을 공급하는 GenAI가 단순히 사유를 외주화하는 것이 아니라 그것을 원천 봉쇄한다고 주장하며, Bourdieu의 장과 아비투스로 그 위험이 제도적 구조에 놓여 있음을 위치시킵니다([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
 - **가치, 정의, 교육의 목적.** 철학적 분석은 AI가 이끄는 교육이 인간의 번영과 교육적 정의를 섬기는지, 아니면 학습을 생산성에 봉사하는 쪽으로 수단화하는지를 검토합니다.([[avraamidou-ai-colonization-science-education]]) 이것은 [[critical-pedagogy]] 및 [[ethics]]와 연결됩니다.
 
@@ -119,3 +122,6 @@ ai_assist:
 - [[strydom-human-gai-paradigms-2026]] — 인간-AI 역학 틀짓기: 일곱 가지 GAI 관여 패러다임(Strydom 2026)
 - [[daoism-ai-education-philosophy-2026]] — 대안적 AI 철학: 교육에서의 AI를 위한 방법으로서의 도가
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — 누가 행위하는가, 누가 아는가, 누가 답하는가? 생성형 AI 고등교육 연구에서의 자율성, 인식론적 책임, 책무성에 대한 말뭉치 지원 담화 분석
+
+- [[khan-machines-emotional-labor-education-2026]] — 기계는 정서 노동을 수행할 수 있는가? 1950–1996년 논쟁, 그리고 모방이 돌봄을 충분히 결정하지 못하는 이유
+

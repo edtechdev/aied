@@ -1,7 +1,7 @@
 ---
 title: 교수법과 교수 전략
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:36-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -57,11 +57,17 @@ ai_assist:
 - **교수법적 주체로서의 AI.** AI 도구는 교수법을 구현합니다. [[intelligent-tutoring|튜터]]를 [[socratic-method|소크라테스식 문답]]에 기반지우면 학습자가 추론하도록 촉구하는 반면, 답안을 생성하는 챗봇은 직접 제공으로 기본 설정되는 경향이 있습니다(교수법적 태도가 왜 중요한지는 [[reducing-ai-misuse]] 참고). [[agentic-ai|에이전트형 AI]] 문헌은 에이전트를 교수설계 이론에 근거지우는 것이 날것의 [[prompt-engineering|프롬프팅]]보다 성과가 높다는 것을 보여 줍니다. [[genai-didactic-pedagogical-mediator-2026|Moganadas 외(2026)]]는 이 역할을 형식적으로 재규정합니다. GenAI를 외부 보충물이나 위협으로 두는 교수자-[[student-modeling|학습자 모델]]의 이원적 관계 대신, GenAI가 기관과 이해관계자가 관장하는 공유된 교수적 매개 공간 안에서 경계 지어진 *교수법적-교수적 매개자*로 작동하는 **교수자–학습자–GenAI 삼원 모델**을 제안하며, 이를 통해 학습 매개, 교수자 역할의 전환, AI 리터러시와 학습자 주체성, AI 투명한 [[process-oriented-assessment|과정 중심 평가]], 제도적 [[governance]]에 관한 다섯 가지 연구 가능한 명제를 도출합니다.
 - **교수법이 AI의 효과를 결정한다.** 되풀이되는 발견은 AI를 *사용하는가*만큼 *어떻게* 사용하는가가 중요하다는 것입니다. [[instructional-guidance-genai-learning|교수적 안내 연구]]와 [[generative-ai-guardrails-harm-learning|가드레일을 둔 튜터 RCT]]는 같은 AI가 교수법적 포장(답 대신 힌트, 구조화된 사용 대신 개방된 사용)에 따라 해가 되기도 하고 도움이 되기도 한다는 것을 보여 줍니다.
 - **교수법적 지식이 기술적 지식을 앞선다.** 교사 46명과 학생 2,832명을 대상으로 한 연구에서, 교사의 교수법적 AI 지식이 학생들이 AI를 사회적 선에 관해 어떻게 인식하는지와 AI를 배우려는 의도를 예측한 반면, 기술적 지식만으로는 불충분했습니다. 그리고 어느 쪽도 학생의 AI 지식을 예측하지 못했습니다([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen 외(2026)]]).
-- **AI의 가장 분명한 기여는 행정 업무의 오프로딩이다.** 연구 28편에 대한 PRISMA 고찰은 AI가 가장 빈번히 수업 설계와 평가 설계를 향상시켰으며, 가장 많이 보고된 이점은 채점, 피드백, 진도 모니터링의 자동화(18편, 64.2%)였다고 밝혔습니다. 반면 교수법적 정합성이 가장 많이 지적된 난제였습니다(14편)([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz(2026)]]).
-**자동화와 학습은 직접 상충합니다.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston 외(2026)]]는 여섯 가지 교수법적 원칙 — 선행 지식 활성화, [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]] — 을 따라가며, 능동적인 에이전트 주도성이 각 원칙에 무엇을 하는지 검토하고, 마찰과 동적 페이딩, 인간 감독을 설계하지 않는 한 에이전트가 자동화하는 정도만큼 학습자가 하는 인지적 작업은 줄어든다고 주장합니다.
+- **AI의 가장 분명한 기여는 행정 업무의 오프로딩이다.** 연구 28편에 대한 PRISMA 고찰은 AI가 가장 빈번히 수업 설계와 [[assessment|평가]] 설계를 향상시켰으며, 가장 많이 보고된 이점은 채점, 피드백, 진도 모니터링의 자동화(18편, 64.2%)였다고 밝혔습니다. 반면 교수법적 정합성이 가장 많이 지적된 난제였습니다(14편)([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz(2026)]]).
+**자동화와 학습은 직접 상충합니다.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston 외(2026)]]는 여섯 가지 교수법적 원칙 — [[prior-knowledge|선행 지식]] 활성화, [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]] — 을 따라가며, 능동적인 에이전트 주도성이 각 원칙에 무엇을 하는지 검토하고, 마찰과 동적 페이딩, [[human-in-the-loop-ai|인간 감독]]을 설계하지 않는 한 에이전트가 자동화하는 정도만큼 학습자가 하는 인지적 작업은 줄어든다고 주장합니다.
+
+- **성찰은 AI가 가능하게도 하고 위협하기도 하는 교수법입니다.** 구조화된 프롬프트, 저널, [[eportfolio|포트폴리오]] 논평은 경험이 학습이 되는 기제이며, [[reflection]] 페이지가 그 증거를 담고 있습니다. 한 사전등록 실험은 피드백에 쓰는 시간을 두 배로 늘리고 연습량을 40% 줄이면서도 문제당 향상을 끌어올리지 못한 프롬프트를 발견했습니다. AI 성찰 파트너에 대한 코딩 감사는 그것이 눈에 보이는 흔적을 남기지 않고 모든 행동 지시를 어겼음을 발견했습니다. 완료된 시도에 맞춰 프롬프트를 설계하고, 다듬어진 글보다 흔적을 요구하십시오.
+
 - **AI 리터러시를 위한 교수 전략.** 학생이 *AI를 잘 사용하도록* 가르치는 것 자체가 하나의 교수법적 과제입니다. [[ai-literacy]]와 [[reducing-ai-misuse]] 연구는 이 상위 개념에 속하는 전략들(먼저 생각하고/AI는 다음에/성찰하기, AI 사용 선언, 보정 훈련)을 발전시킵니다.
 
-- **AI 리터러시 교수가 지식을 가장 빠르게 움직인다.** 연구 59편(효과크기 172개)에 대한 세 수준 메타분석에서, 지식 중심 개입(g ≈ .97)이 기술(≈ .67), 태도(≈ .68), [[ethics]](≈ .64)를 겨냥한 개입을 분명히 앞질렀습니다. 따라서 개념 교수와 지속적 실천을 짝지어야 교수에 저항하는 결과를 겨냥할 수 있습니다([[liu-ai-literacy-interventions-meta-analysis-2026|Liu 외(2026)]]).
+- **교수 기법으로서의 은유와 유추.** [[metaphors-and-analogies]]는 유추가 AI를 설명하는 방식, 그것이 무너지는 지점, 그리고 학생들이 그것을 [[critical-thinking|비판적 사고]]의 한 형태로 감사할 수 있는 방법에 관한 증거를 모읍니다.
+
+
+- **AI 리터러시 교수가 지식을 가장 빠르게 움직인다.** 연구 59편(효과크기 172개)에 대한 세 수준 [[meta-analysis-systematic-review|메타분석]]에서, 지식 중심 개입(g ≈ .97)이 기술(≈ .67), 태도(≈ .68), [[ethics]](≈ .64)를 겨냥한 개입을 분명히 앞질렀습니다. 따라서 개념 교수와 지속적 실천을 짝지어야 교수에 저항하는 결과를 겨냥할 수 있습니다([[liu-ai-literacy-interventions-meta-analysis-2026|Liu 외(2026)]]).
 - **교사 실제에서의 교수법.** [[teacher-role]]과 [[teacher-ai-competency]]은 교사가 기존의 교수법적 레퍼토리 안에서 AI를 어떻게 받아들이는지를 살피며, [[llm-training-and-fine-tuning]]과 [[pedagogical-agent]]는 교수법적 원칙을 따르도록 훈련된 AI 도구를 연구합니다.
 
 ## 학습 이론과의 관계
@@ -79,7 +85,6 @@ ai_assist:
 - **소크라테스식·대화 기반 전략**([[socratic-method]])은 고차원적 사고와 추론을 겨냥합니다. 이 성과는 기술 성과보다 측정하기 어렵지만 [[critical-thinking]]에 중심적입니다.
 
 지식베이스의 [[learning-gains]] 연구와 일관되게 나타나는 관통하는 핵심 발견은, **전략이 학습에 미치는 효과는 그것이 붙이는 이름보다 학습자의 노력과 생산적 투쟁을 얼마나 보존하는가에 더 크게 좌우된다**는 것입니다. 즉 AI가 그것이 이끌어내려던 인지적 작업을 우회하도록 설정된다면, "좋은" 교수법조차 실패합니다([[cognitive-offloading]], [[desirable-difficulties]] 참고).
-
 
 학생과 [[student-ai-interaction|AI의 상호작용]]은 고정된 의존이 아니라 인지적 분배의 변화하는 과정으로 읽는 편이 낫습니다. 횡학문적 [[engineering-education|공학]] 강좌의 ChatGPT 대화 53개에서, 확장(긴밀하고 반복적인 공동 사고)이 321개의 프롬프트 수준 코드 가운데 53.3%로 가장 빈번한 상호작용 유형이었고, 아웃소싱이 29.6%로 그 뒤를 이었습니다([[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane & Arikan (2026)]]).
 
@@ -105,9 +110,15 @@ ai_assist:
 - [[learning-sciences]]
 - [[learning-gains]]
 - [[learning-design]]
+
+- [[metaphors-and-analogies]] — 교수 기법으로서의 은유와 유추
+
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[project-based-learning]]
+
+- [[case-based-learning]] — 교수 기법으로서의 사례 방법과 대조 사례
+
 - [[experiential-learning]]
 - [[game-based-learning]]
 - [[socratic-method]]

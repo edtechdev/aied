@@ -1,7 +1,7 @@
 ---
 title: 사회정서학습
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-30T05:04:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-10-29T06:19:06-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -41,10 +41,12 @@ ai_assist:
 
 - **AI 리터러시에 SEC 통합하기:** [[sec-ai-literacy-narrative-review-2026|The narrative review by Palmquist et al.]]는 AI 리터러시와 사회정서 역량을 결합한 통합 틀을 제안하며, 기술적 숙련도만으로는 불충분하다고 논증합니다. 교육자와 학생 모두 AI가 매개되는 학습 환경을 항해하기 위해 기술적 지능과 정서적 지능이 모두 필요하며, 이는 [[personalized-learning|personalized learning]], 협력, 윤리적 [[student-engagement|engagement]]를 촉진합니다.
 - **교사와 관계적 실천:** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|AI literacy frameworks]]과 [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|teacher-student trust]]에 관한 연구는 SEL이 학습의 관계적 차원들(교사–학생 관계와 학생–학생 관계)을 뒷받침하며, AI가 그것을 보완해야지 대체해서는 안 된다고 강조합니다.
-- **교수법적 에이전트가 SEL에서 나를 수 있는 것과 나를 수 없는 것.** 맹점 평가된 관찰 108건에 걸쳐, 생성 AI 교수법적 에이전트는 존중하는 어조와 일상적인 절차적 비계를 유지하는 데 교육자보다 더 일관적이었으나, 성찰을 안내하고 사회정서적 지식을 촉진하는 데서는 교육자에게 뒤졌습니다. 이는 대체가 아닌 노동 분업을 뒷받침합니다([[human-ai-complementarity-social-emotional-learning-2026|Raave et al., 2026]]).
+- **교수법적 에이전트가 SEL에서 나를 수 있는 것과 나를 수 없는 것.** 맹점 평가된 관찰 108건에 걸쳐, 생성 AI [[pedagogical-agent|교수법적 에이전트]]는 존중하는 어조와 일상적인 절차적 비계를 유지하는 데 교육자보다 더 일관적이었으나, 성찰을 안내하고 사회정서적 지식을 촉진하는 데서는 교육자에게 뒤졌습니다. 이는 대체가 아닌 노동 분업을 뒷받침합니다([[human-ai-complementarity-social-emotional-learning-2026|Raave et al., 2026]]).
 - **웰빙과 AI의 정서적 영향:** 연구는 생성 AI의 사용 증가가 학생들의 사회정서 기술, 웰빙, 사교성, 신뢰와 공감의 감각에 어떤 영향을 미치는지를 살핍니다. 이는 인문주의적·사회적·정서적 가치에 뿌리둔 AI 리터러시에 대한 OECD의 요청을 촉발한 우려들입니다.
 - **AI의 정서적 차원:** SEL은 AI 체계가 정서적·관계적 학습을 지원하거나 손상시킬 수 있는 방식을 살피는 [[affective-computing]] 및 [[well-being]] 연구에 연결됩니다.
 - **AI × SEL에서의 정책 결손:** [[meta-analysis-systematic-review|systematic review]] 65편([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]])은 상당한 "정책 결손"을 발견합니다. 연구의 거의 4분의 3이 정책적 함의를 제시하지 않으며, 제시하는 소수의 경우에도 종종 행위자 특수적 안내가 결여되어 있습니다. 이 검토는 정책 참여를 출판 매체와 연결하고, 기술적 가능성이 부각되는 반면 책임 있는 이행을 위한 제도적 조건은 미명시된 채 남는 "기술 해결주의"의 덫을 경고합니다. 이는 "함의를 사후 덧붙임"에서 "함의를 방법론"으로 옮기기 위한 "WH 질문" 틀(Who, What, Why, When/Where, How)을 제안하여, [[ai-education|AI-for-SEL]] 혁신을 [[educational-policy-ai|educational policy]]과 [[governance]]에 연결합니다.
+
+- **GenAI와 SEL에 관한 43개 연구 매핑 검토.** [[liu-genai-sel-mapping-review-2026|Liu et al. (2026)]]는 여섯 SEL 영역에 걸쳐 43개 연구를 코딩하여 인지 역량이 24개, 정체성이 15개, 사회성이 14개, 정서가 7개에서 나타난 반면 가치(4)와 관점(3)은 주변적이었음을 발견했습니다. 열아홉 개의 어포던스는 일곱 장르로 군집되었고, 43개 연구 중 38개는 가장 낮은 투명성 등급만 충족했습니다. 이 목록은 SEL 증거가 두꺼운 곳과 윤리적 보고가 얇은 곳을 보여줍니다.
 
 ## AI 시대 연구에서 SEL의 잠재적 하위 주제들
 
@@ -65,10 +67,14 @@ ai_assist:
 ### 신뢰와 소속감
 SEL은 관계적 학습과 사회적 응집을 뒷받침합니다. [[finkelstein-principled-ai-education-2025|Principled AI education]]과 [[ai-chatbot-collective-efficacy-collaborative-learning|AI chatbots for collaborative learning]]은 **소속감**과 집단 효능감 — 팀이 과제를 수행할 수 있다는 공유된 믿음 — 에 연결됩니다. 브루킹스 사전 검토(premortem)는 AI에 대한 과잉 의존이 사회정서적 웰빙, 교사–동료 관계, 학생 [[privacy]]/안전을 위협한다고 강조합니다. 이는 소속감과 연결감의 차원들입니다. [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|Teacher-student trust]]는 AI가 지원적으로 지각되는지의 중심에 있습니다.
 
-여기 소속감에는 더 날카로운 모서리가 있습니다. AI에게 구하는 공감은 벌을 받을 수 있습니다. [[shastry-gray-empathy-offloading-2026|Shastry and Gray (2026)]]는 참가자들에게 고통받는 학생이 챗봇, 친구, 치료자, 혹은 아무에게도 가지 않은 이야기를 읽게 했습니다. 챗봇 조건에서 참가자들은 사적으로는 공감을 위임하겠다는 의지가 가장 낮다고 보고했지만, 그 학생에 대해 가장 많은 무관심 단어를 사용하고 그를 더 낯설고 더 절박한 사람으로 평가했습니다. AI를 찾는 경로에 대한 또래의 판단은 위에서 기록된 은폐를 더합니다. 그래서 공개 규범은 무결성 정책만이 아니라 SEL 설계에도 속합니다.
+여기 소속감에는 더 날카로운 모서리가 있습니다. AI에게 구하는 공감은 벌을 받을 수 있습니다. [[shastry-gray-empathy-offloading-2026|Shastry and Gray (2026)]]는 참가자들에게 고통받는 학생이 [[conversational-ai|챗봇]], 친구, 치료자, 혹은 아무에게도 가지 않은 이야기를 읽게 했습니다. 챗봇 조건에서 참가자들은 사적으로는 공감을 위임하겠다는 의지가 가장 낮다고 보고했지만, 그 학생에 대해 가장 많은 무관심 단어를 사용하고 그를 더 낯설고 더 절박한 사람으로 평가했습니다. AI를 찾는 경로에 대한 또래의 판단은 위에서 기록된 은폐를 더합니다. 그래서 공개 규범은 무결성 정책만이 아니라 SEL 설계에도 속합니다.
+
+
+[[ai-sycophancy|아첨]]은 같은 대체를 측정된 용량으로 적용합니다. 다섯 개의 사전 등록 연구(N = 3,075; 대화 12,766건)에서, 사용자의 견해를 긍정하는 AI의 사용자는 3주에 걸쳐 가까운 친구와 가족에게서만큼이나 그것에서 개인적 조언을 구할 가능성이 높아졌습니다. 같은 참가자들은 현실 상호작용에 대한 만족도가 더 낮다고 보고했고, 다수는 그 긍정적 문체를 조언 때문이 아니라 자신이 이해받는다고 느끼게 해서 선호했습니다([[sycophantic-ai-social-interaction-2026|Ibrahim 외(2026)]]). 해악은 정서적이라기보다 관계적이며, 그래서 정서 지원 기능은 교과에 비용 없는 추가물로 다루어질 수 없습니다.
+
 
 ### 끈기, 심성, 생산적 투쟁
-SEL은 학습의 노력적 차원과 겹칩니다. [[framing-5-percent-problem-teachers-persistence|Framing the 5% problem]]는 동기/몰입, 인지적 장벽, 도전 아래의 회복탄력성, 연결에 의해 형성되는 교육 기술에서 반복되는 과제로서 학생의 낮은 끈기를 확인합니다. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]]은 노력을 대체하는 AI가 교육이 구축하는 바로 그 역량들을 침식한다고 경고하며, [[metacognition]]와 [[cognitive-offloading|over-reliance]]에 맞선 생산적 투쟁의 가치와 일치합니다.
+SEL은 학습의 노력적 차원과 겹칩니다. [[framing-5-percent-problem-teachers-persistence|Framing the 5% problem]]는 동기/몰입, 인지적 장벽, 도전 아래의 회복탄력성, 연결에 의해 형성되는 교육 기술에서 반복되는 과제로서 [[student-support-and-success|학생의 낮은 끈기]]를 확인합니다. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]]은 노력을 대체하는 AI가 교육이 구축하는 바로 그 역량들을 침식한다고 경고하며, [[metacognition]]와 [[cognitive-offloading|over-reliance]]에 맞선 생산적 투쟁의 가치와 일치합니다.
 
 ## 교사와 교수 설계를 위한 함의
 
@@ -76,9 +82,9 @@ SEL은 학습의 노력적 차원과 겹칩니다. [[framing-5-percent-problem-t
 - **자기효능감과 행위성을 위해 설계하십시오.** 기술 기반 AI 리터러시가 의존을 *증가*시킬 수 있는 반면 [[self-efficacy]]과 노력 규제는 그것으로부터 보호하기 때문에, 수업은 기술과 함께 학생들의 자신감과 자기 관리를 의도적으로 구축해야 합니다. 예를 들어 비계화된 연습, 낮은 위험의 성공, AI 산출물을 검증하고 자신의 것으로 만들 것을 요구하는 프롬프트입니다.
 - **AI를 관계적 학습을 지원하는 데 쓰되 대체하지는 마십시오.** AI 도구는 [[collaborative-learning|teacher-student and student-student relationships]]를 보완해야 하며, [[teacher-role|educators]]는 그것을 완전히 위임하기보다는 관계적 역할 — 정서와 소속감을 감시하는 것 — 을 유지해야 합니다.
 - **[[affective-tutoring|Emotion-aware]]이고 정서에 민감한 설계.** [[affective-computing|Affect-aware systems]]들은 정서 상태(불안, 좌절, 혼란)를 탐지하고 대응할 수 있으나, 증거는 그 이득이 **보편적이지 않다**는 것을 보여줍니다. 학습자의 숙련도와 프로파일에 따라 조절됩니다. 따라서 정서적 설계는 가정이 아니라 맞춤화되어야 합니다.
-- **AI 사용의 정서적 측면을 다루십시오.** AI 사용에 관한 논의를 정상화하고, 투명성을 조성하며, 신뢰와 행위성을 침식하는 감시 기반 대응을 줄임으로써 수치심/죄책감의 나선과 AI 불안에 맞서 설계하십시오.
+- **AI 사용의 정서적 측면을 다루십시오.** AI 사용에 관한 논의를 정상화하고, 투명성을 조성하며, 신뢰와 행위성을 침식하는 감시 기반 대응을 줄임으로써 수치심/죄책감의 나선과 [[anxiety-and-stress|AI 불안]]에 맞서 설계하십시오.
 - **끈기와 생산적 투쟁을 지원하십시오.** 대체가 아니라 [[scaffolding|Scaffold]]하십시오([[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]]에 따름). 그래야 AI가 노력적인 학습을 심화하지 우회하지 않으며, [[metacognition]]와 [[desirable-difficulties|productive difficulty]]과 일치합니다.
-- **즉각적인 언어적 조치를 훈련하십시오.** SEL 지원은 설계나 정서의 AI 탐지로 틀지어지는 경향이 있지만, 교사는 학생의 정서 상태가 참여를 끝내게 할 위협이 있을 때 *무엇을 말할지*도 필요합니다. 그 상태를 학습의 전제 조건이 아니라 실시간으로 함께 다룰 대상으로 취급하는 것입니다. [[parlant-emotional-micro-interventions-2026|Parlant's practitioner guide]]는 이것을 정서적 미세 개입이라 부릅니다. 감정을 인정하고, 그 뒤에 있는 평가를 재구성하며, 투쟁을 전문가 정체성에 다시 연결하는 짧은 언어적 행위이며, 수업 전 정찰 의식과 교육자가 개인화할 수 있도록 [[generative-ai]]가 초안을 잡는 데 도움을 줄 수 있는 재사용 가능한 표현집을 통해 준비됩니다.
+- **즉각적인 언어적 조치를 훈련하십시오.** SEL 지원은 설계나 정서의 [[ai-detection|AI 탐지]]로 틀지어지는 경향이 있지만, 교사는 학생의 정서 상태가 참여를 끝내게 할 위협이 있을 때 *무엇을 말할지*도 필요합니다. 그 상태를 학습의 전제 조건이 아니라 실시간으로 함께 다룰 대상으로 취급하는 것입니다. [[parlant-emotional-micro-interventions-2026|Parlant's practitioner guide]]는 이것을 정서적 미세 개입이라 부릅니다. 감정을 인정하고, 그 뒤에 있는 평가를 재구성하며, 투쟁을 전문가 정체성에 다시 연결하는 짧은 언어적 행위이며, 수업 전 정찰 의식과 교육자가 개인화할 수 있도록 [[generative-ai]]가 초안을 잡는 데 도움을 줄 수 있는 재사용 가능한 표현집을 통해 준비됩니다.
 - **교사의 SEL 역량을 준비하십시오.** 교육자는 기술과 정서 지능이 모두 필요합니다([[teacher-ai-competency]]). 교사의 [[educational-development|professional development]]은 AI가 매개되는 환경에서 학생의 SEL을 지원할 역량을 구축해야 합니다.
 
 ## 학습 이득과 다른 측정치들과의 연결
@@ -139,3 +145,8 @@ SEL은 [[ai-literacy]](AI 리터러시를 관계적이고 윤리적으로 만드
 - [[human-ai-complementarity-social-emotional-learning-2026]] — 초기 사회정서학습에서의 인간–AI 보완성(Raave 등 2026)
 - [[parlant-emotional-micro-interventions-2026]] — 실시간 정서적 미세 개입과 교사를 위한 표현집
 - [[shastry-gray-empathy-offloading-2026]] — 사람들은 AI가 공감을 줄 수 있다고 생각할 때 공감을 위임한다 (Shastry & Gray 2026)
+
+- [[sycophantic-ai-social-interaction-2026]] — 아첨하는 AI는 인간 조언 구하기를 대체하고 현실 상호작용 만족도를 낮춘다 (Ibrahim et al. 2026)
+
+- [[liu-genai-sel-mapping-review-2026]] — GenAI와 SEL에 관한 43개 연구 매핑 검토: 고르지 않은 역량 커버리지와 얇은 윤리 보고
+

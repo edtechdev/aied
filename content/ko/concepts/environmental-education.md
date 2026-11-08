@@ -1,7 +1,7 @@
 ---
 title: 환경 교육
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ ai_assist:
 
 학습자 측면에서, 실시간 LLM 사용 중 지연(latency)과 탄소의 절충을 드러내는 에코 피드백 인터페이스가 컴퓨팅 윤리 강의의 컴퓨터 과학 학부생 89명을 대상으로 연구되었습니다. 학생들은 지연이 낮은 상호작용의 약 45%에서 저탄소 모드를 선택했으나 지연이 높을 때는 5% 미만에서 선택했으며, 지속가능성 인식은 그 선택을 유의미하게 높였습니다. 표본은 작고 이례적으로 기술에 정통하지만, 이것은 발자국 정보가 학습자들을 움직인다는 이 말뭉치에서 유일한 직접 증거입니다. 그리고 그것이 구속 조건은 가치가 아니라 인내심임을 시사합니다.([[llm-environmental-impact-student-usage-2026]])
 
-완화(mitigation) 증거는 단일 소비자용 GPU(VRAM 12 GB)에 공개 라이선스 콘텐츠를 갖춘 사내([[cs-education|CS]]) 지식 기반 조수에서 나옵니다. 최상의 경우 질의당 1.8 mWh — 10개 질의씩을 내는 학생 30명의 한 수업에 약 0.54 Wh — 이며, 양자화 인식 미세 조정(quantization-aware fine-tuning)이 정확도 손실과 [[hallucination-risk|환각]] 상승을 모두 압축 단독이 야기한 수준 안에 억제했습니다. 이것은 공학 벤치마크이지 학습 연구가 아니지만, 발자국 문제가 사용 절제의 도구뿐 아니라 설계 도구(접지(grounding), 양자화, 배치 위치)를 지닌다는 것을 보여 줍니다.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
+완화(mitigation) 증거는 단일 소비자용 GPU(VRAM 12 GB)에 공개 라이선스 콘텐츠를 갖춘 사내([[cs-education|CS]]) 지식 기반 조수에서 나옵니다. 최상의 경우 질의당 1.8 mWh — 10개 질의씩을 내는 학생 30명의 한 수업에 약 0.54 Wh — 이며, [[llm-training-and-fine-tuning|양자화 인식 미세 조정]](quantization-aware fine-tuning)이 정확도 손실과 [[hallucination-risk|환각]] 상승을 모두 압축 단독이 야기한 수준 안에 억제했습니다. 이것은 공학 벤치마크이지 학습 연구가 아니지만, 발자국 문제가 사용 절제의 도구뿐 아니라 설계 도구(접지(grounding), 양자화, 배치 위치)를 지닌다는 것을 보여 줍니다.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
 
 ## 녹색 기술, 지속가능성 의식, 그리고 교사 역량
 

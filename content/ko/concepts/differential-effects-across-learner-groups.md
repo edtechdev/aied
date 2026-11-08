@@ -1,7 +1,7 @@
 ---
 title: 학습자 집단에 따른 차등적 효과
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:36-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -11,9 +11,9 @@ research_method: [quasi-experiment, survey]
 audience: [instructors, instructional designers, administrators, researchers, learners]
 page_kind: [evaluation, synthesis]
 confidence: medium
-connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
+connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-26T10:50:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,9 @@ ai_assist:
 
 **인구통계 속성은 대개 모의된다.** 실제 학습자 인구통계는 모델 입력에 거의 부착되지 않으므로, 감사는 대신 페르소나를 제공합니다. [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto and Hovy (2026)]]는 모델 기본값, 명시적 페르소나, 암묵적 이력 조건 하에서 세 가지 교육 과업에 걸쳐 여섯 개의 지시 튜닝된 모델을 실행했습니다. 192,480회 추론 호출. 그리고 명시적 페르소나와 *암묵적* 대화 이력 둘 다 모델 행동을 움직인다는 것을 발견했습니다. 그들의 구분은 간직할 가치가 있습니다: 학습자 차이에 대한 인식은 바람직할 수 있는 반면(학습자의 모국어에 맞춰 피드백을 조정하는 것), 동일한 민감성은 동일한 작업에 대한 판단을 변화시킬 때는 해악입니다.
 
+**실제 학습자 감사는 존재하며, 교차적 주장을 뒷받침할 수 있습니다.** [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar et al. (2026)]]는 8,549명 학생의 MATHia 로그 2년치를 분석하여, 모의 페르소나 감사가 공급할 수 없는 증거를 발견했습니다. 2021–2022년 여학생 안에서 나타난 초기 독자 기저율 격차 .1007, 2022–2023년 히스패닉 학생 안에서 .0926에 이른 차이, 그리고 비초기 독자 가운데 12개 인종×읽기 집단 통계 중 8개가 유의한 반면 초기 독자 가운데서는 12개 중 1개만 유의했다는 점입니다.
+
+
 **공정성 수정은 일반화되지 않을 수 있다.** [[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]]는 학생 주의 추정에서 성별 및 연령 표적 오차 격차를 [[assessment-validity|검증]] 데이터에서 줄였지만, 그 향상은 홀드아웃 피험자나 반복된 피험자 수준 분할에 일관되게 이전되지 않았습니다.
 
 **집단 라벨은 그 안의 변동을 숨긴다.** 같은 장애 메타분석에서, 특정 학습 장애, 지적·발달 장애가 있거나 농성 학생들은 더 큰 효과(g = 0.952)를 보인 반면, 자폐 스펙트럼 장애 학생은 더 작은 효과(g = 0.368)를 보였습니다. 저자들이 41개 독립 표본의 239개 효과 크기에 걸쳐 통계적으로 유의하지 않다고 보고한 차이입니다. "장애"는 하나의 집단이 아니며, "L2 학습자"도 마찬가지입니다.
@@ -63,6 +66,9 @@ ai_assist:
 - **어떤 AI 지원은 차별하기보다 평등하게 만든다.** [[adhd-video-segmentation-computing-education|Pimenova, Begel and colleagues]]는 피험자 내 연구(ADHD 17명, 비ADHD 10명)에서 [[video-education|수업 영상]]을 단일 지시 단위로 분할하고 고정된 일시정지를 두었습니다. 모두가 향상되었고, ADHD 참가자들의 오류와 망설임은 비ADHD 또래와 동등한 수준으로 떨어졌습니다. 이것이 자동화된 콘텐츠 변환을 통한 [[universal-design-for-learning|보편적 학습 설계]]에 대해 이용 가능한 가장 강한 형태의 증거입니다: 집단 표적 수정이 아니라 격차를 메우는 일반적 변화입니다.
 - **신경다양성 학생들이 필요하다고 말하는 것은 종종 평범하다.** 네 개의 인터뷰와 함께한 [[neurodivergent-computing-students|24명의 신경다양성 컴퓨팅 학생과 20명의 신경전형 또래에 대한 설문]]은 명확한 구조가 없거나 모호한 기대를 담은 과제에 대한 유의한 불편함을 발견했습니다. 제공하는 데 아무것도 들지 않는 수용 조치입니다.
 - **설계 선택은 인식론적으로 배제할 수도 있다.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]]는 영어 중심, 서구 중심 훈련 데이터가 비패권적 인식 방식을 주변화하고 장애 학습자의 상황을 그 비판의 중심에 놓는다고 주장합니다.
+
+- **"동일한 인간 성적에서, 채점자는 신원이 드러난 학생과 그렇지 않은 학생을 똑같이 대한다."** 판정된 성적에서 정확히 일치시킨 **3,000**개의 ASAP 2.0 에세이에서, **22개 모델 모두** 장애가 식별된 집단에 더 낮은 점수를 주었고, 6점 척도에서 **−0.086**에서 **−0.429**까지였으며, **20개**는 GAP REPLICATES로 읽혔습니다. 관례 오류와 길이는 **20개 중 17개** 모델에서 그 차이의 최대 5분의 1을 설명했을 뿐이며, ASAP 2.0이 성적을 하나만 공개하므로 이 설계는 인간 패널이 공유한 편향과 모델이 공유한 편향을 분리할 수 없습니다([[porcaro-ai-grading-benchmark-2026|이 해석은 모델 편향이 아니라 SHARED GAP입니다]]).
+
 
 ## 언어: 제2언어, 다중언어, 영어 학습자
 
@@ -110,12 +116,15 @@ ai_assist:
 이 조사의 정직한 발견은 어떤 집단들이 얼마나 빈약한가입니다. 이들 각각은 증거 기반의 실제 공백이며, 이 페이지의 공백이 아닙니다.
 
 - **첫 세대 학생들:** 한 연구가 효과가 아닌 사용 차이를 보고합니다. [[student-ai-inquiry-types-cs2-2026|한 CS2 탐구 연구]]에서, 계속 세대 학생들은 AI를 능동적인 [[problem-solving]] 파트너로 대한 반면, 첫 세대 학생들은 확인적이고 검증 지향적인 역할을 취하고 전반적으로 더 적은 질문을 했습니다.
-- **첫 세대 학생들: 첫 효과 추정치이며, 그것은 잘못된 방향으로 향한다.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]의 강좌 통합 [[intelligent-tutoring|AI 튜터]]의 [[rct|무작위 시험]]은 위 항목이 결여한 것을 제공합니다. 즉 사용 패턴이 아닌 측정된 차등. 전체 표본에서 튜터 접근의 기말 성적에 대한 효과는 첫 세대 학생에게 2.87점(0.28 SD) 더 부정적이었으며, 그들에게 −5.10점(−0.50 SD)을 암시하고 또래에게는 −2.23점(−0.22 SD)을 암시합니다. 차등은 정확 일치 표본에서 더 컸으며(−3.89점, −0.35 SD), 첫 세대 학생들은 또한 더 많은 숙제 점수와 플랫폼 페이지 조회를 잃었습니다. 이 연구는 메커니즘을 보고하지 않으며 정밀도는 결과에 따라 다르지만, 방향은 격차 축소 이야기의 반대입니다: 학업 지원에 대한 사전 접근이 가장 적었던 학생들이 측정된 가장 큰 비용을 짊어졌습니다.
+- **첫 세대 학생들: 첫 효과 추정치이며, 그것은 잘못된 방향으로 향한다.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]의 강좌 통합 [[intelligent-tutoring|AI 튜터]]의 [[rct|무작위 시험]]은 위 항목이 결여한 것을 제공합니다. 즉 사용 패턴이 아닌 측정된 차등. 전체 표본에서 튜터 접근의 기말 성적에 대한 효과는 첫 세대 학생에게 2.87점(0.28 SD) 더 부정적이었으며, 그들에게 −5.10점(−0.50 SD)을 암시하고 또래에게는 −2.23점(−0.22 SD)을 암시합니다. 차등은 정확 일치 표본에서 더 컸으며(−3.89점, −0.35 SD), 첫 세대 학생들은 또한 더 많은 숙제 점수와 플랫폼 페이지 조회를 잃었습니다. 이 연구는 메커니즘을 보고하지 않으며 정밀도는 결과에 따라 다르지만, 방향은 격차 축소 이야기의 반대입니다: [[student-support-and-success|학업 지원]]에 대한 사전 접근이 가장 적었던 학생들이 측정된 가장 큰 비용을 짊어졌습니다.
 - **국제 학생들:** [[international-students-conversational-ai-adaptation|문화 간 적응 지원]]에 관한 한 개의 [[mixed-methods-research|혼합 방법]] 연구(설문 n = 60, 인터뷰 n = 14).
 - **국제 학생들: 측정된 참여 패턴이며, 효과 추정치가 아니다.** 영국 일곱 개 [[business-education|경영대학]]의 270명의 소수 민족 국제 학생에 걸쳐, 보고된 [[generative-ai]] 사용은 네 가지 [[student-engagement|참여]] 계열 모두와 긍정적으로 연관되었으며, 주체적 참여(agentic engagement)에서 가장 강하게(β = 0.429), 사용 의도의 가장 강한 예측 변인은 촉진 조건(β = 0.369)이었습니다([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]).
 - **영재 및 고성취 학생들:** 이 코퍼스에서 집단으로서 사실상 연구되지 않았습니다.
 - **난민, 이주, 실향 학습자들:** 연구 없음.
 - **성별은 여전히 대부분의 위 작업에서 이분법적으로 분석되며**, 장애 범주는 연구마다 다르므로, "같은" 집단의 연구 간 비교에는 한계가 있습니다.
+
+- **"학습자 맥락은 채점자를 더 공정하게 만든다."** 두 모델이 채점한 **3,000**개 에세이에 대한 절제 실험에서, 시험할 수 있었던 모든 집단에 대해 상-하위 레이블 격차가 같았고, 모든 차이는 한 수준의 **0.045** 이내였습니다. Qwen에서는 낮은 레이블이 영어 학습자, 경제적으로 불리한 학생, 장애가 식별된 학생에게서 또래보다 **0.06~0.08점** 더 깎았습니다. 레이블이 없을 때도 두 모델 모두 동일한 인간 점수에서 마지막 두 집단을 또래 아래로 표시했습니다. [[porcaro-ai-grader-reliability-2026|틀릴 수 있는 기록은 점수를 움직이며, 이미 과소평가된 이들에게 가장 세게 움직입니다]].
+
 
 ## 집단 라벨에 과대적합하지 않고 이 증거를 사용하기
 
@@ -124,6 +133,9 @@ ai_assist:
 - **증거가 허락하는 곳에서는 평등하게 만드는 설계를 선호하기.** ADHD 영상 분할 결과 — 모두가 향상되고 격차가 메워짐 — 은 집단 표적 애드온보다 일반 교실에 더 잘 맞는 목표입니다.
 - **인구통계 속성을 소비하는 개인화에 주의하기.** [[marked-pedagogies-linguistic-bias-writing-feedback|marked pedagogies]] 발견은 바로 그 메커니즘에 관한 것이며, 학습자를 프로파일링하는 [[well-being|웰빙]] 체크인, [[affective-computing|정서적 튜터]], [[recommender-systems-and-learning-paths|추천 시스템]]에도 적용됩니다.
 - **여러분이 관심 갖는 집단에서, 도구 없이 측정된 결과로 지역적으로 검증하기.** 평가 습관은 [[interpreting-and-applying-aied-research|Interpreting and Applying AIEd Research]]를, 지역 검증을 방어 가능하게 만드는 설계는 [[research-methods-aied|Research Methods in AI in Education]]를 보십시오.
+
+- **가장 직접적인 과정 증거를 지닌 집단 구분 변수는 인구통계가 아니라 지식 기반입니다.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]]는 [[prior-knowledge|사전 지식]]에서 집단을 매칭했고(U = 293.50, p = 0.515), 그런데도 학습자가 추론하는 방식이 일어난 일을 형성함을 발견했습니다. 서로 다른 선개념을 지닌 여덟 집단과 유사한 선개념을 지닌 여섯 집단이 같은 종류의 질문을 했지만, AI는 다양한 집단에서 통합 허브로 기능했고 유사한 집단에서는 선형 경로에 머물렀으며, 지속적 평가는 반대였습니다. 이는 60분짜리 과제 하나의 열네 집단에 기반하므로, 규칙이 아니라 집단을 어떻게 구성하는지에 관한 가설로 다루십시오.
+
 
 ## 흔한 오해
 
@@ -176,3 +188,8 @@ ai_assist:
 - [[international-students-conversational-ai-adaptation]] — 코퍼스에 담긴 유일한 국제학생 연구
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — 최초 세대 학생에 관한 코퍼스 최초의 효과 추정: 튜터 접근으로 최종 성적이 또래의 0.22 SD에 비해 0.50 SD 손해였음 (Liu et al. 2026)
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: 공급업체가 통제하는 조기경보 체계의 사후적 공정성 개입 평가
+
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 직접적인 과정 증거를 지닌 지식 기반 집단 구분 변수: 사전 지식은 매칭되었으나 선개념 다양성이 다른 집단은 같은 AI를 다르게 받아들였다 (Wang et al. 2026)
+- [[porcaro-ai-grading-benchmark-2026]] — 일치를 넘어서: 22개의 프롬프트된 채점자가 정답이 알려진 탐침을 만나고, 대부분은 설득될 수 있다 (Porcaro 2026)
+- [[porcaro-ai-grader-reliability-2026]] — 학습자 맥락은 동일한 작업에 대한 LLM 채점자의 점수를 바꾸며, 교사와의 일치는 그것을 포착하지 못한다 (Porcaro 2026, Paper VI)
+

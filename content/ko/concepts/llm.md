@@ -1,7 +1,7 @@
 ---
 title: 대규모 언어 모델(LLM)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:36-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -61,13 +61,16 @@ LLM은 거의 모든 AI 교육 응용의 기반이 되므로 지식베이스에�
 또 다른 연구 계열은 LLM을 정적 채점자에서 [[pedagogy|교수법적]] 추론의 모방자로 재규정합니다. [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]]는 의미론적으로 정밀하고 반복적으로 공동 정제된 루브릭으로 받침을 받은 GPT-4가 [[design-based-research|설계 기반 학습]]에서 인간 [[evaluative-judgment|평가적 판단]]을 근사할 수 있음을 보였습니다. 초기 LLM-인간 일치는 낮았고(Cronbach's Alpha = 0.393; Kappa −0.06~0.18), 루브릭의 반복적 정제로 평균 일치가 54.75%에서 81.25%로 올랐으며(최종 Alpha = 0.798, Kappa 0.40~0.55), 인간과 LLM 점수 행렬의 K-means 군집화는 높게 상관된 중심점을 보였습니다(r = 0.89). 이 연구는 루브릭을 인간의 교수법적 의도와 기계 추론 사이의 매개 인터페이스로 자리매김합니다. 기성품 LLM이 평가자로서도 서로 대체 가능하지 않고, 그 평가 행동이 주어진 루브릭과 프롬프트에 의해 형성되는 설계의 결과라는 증거입니다. 원시 모델 역량도 채점을 구분합니다. 1,885개의 개방형 [[automated-assessment|응답]]에서 열한 개의 GenAI와 문장 임베딩 모델을 [[benchmark|벤치마킹]]한 [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]]은 전문 인간 채점자와 거의 완벽한 일치에 이른 모델은 GPTo1뿐이었고(Fleiss' Kappa 0.82), Claude3와 PaLM2가 약간 뒤처졌으며, BERT 같은 참조 정합 모델은 크게 뒤처졌음을 발견했습니다. 이는 신뢰할 만한 개방형 평가에서 최전선 모델의 맥락 민감성이 중요함을 보여줍니다. 모델 차이는 고위험 하위 용법에서도 드러납니다. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]]은 세 LLM이 같은 [[learning-analytics|학습 분석]] 입력에 대해 뚜렷이 다른 학생 지원 처방을 내놓고, 생성한 학습자 프로필에 각기 다른 인구통계학적 사전 확률을 부과했음을 보였습니다. 기성품 LLM이 규범적 조언자로서 서로 대체 가능하지 않다는 증거입니다. 마찬가지로 [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]]은 GPT-4가 임상 전 단계 [[medical-education|의학]] 개방형 문항의 채점이 교수와의 상당~거의 완벽한 평가자 간 일치(가중 카파 최대 0.94)에 이른 것은 세 차례의 반복적 루브릭 정제 이후뿐이며, 전체적 루브릭 문항에서는 중간 수준(κw = 0.54)으로 떨어졌음을 발견했습니다. 이는 루브릭 설계가 원시 역량만이 아니라 LLM 채점 신뢰도의 결정적 수단이라는 점을 뒷받침합니다. 모델별 행동은 회의적 사용자에 대한 LLM의 반응에서도 드러납니다. 한 알고리즘 감사가 몬태나 주 시골의 [[k-12]] AI 회의자 페르소나로 열 개의 최전선 LLM에 각각 500회 질의하여, 회의적 사용자가 참고하는 [[ai-technologies|AI 시스템]]이 도입을 권하도록 편향되어 있는지 검사했습니다. 열 개 중 여덟 개가 사용자의 우려를 인정한 뒤 AI [[student-engagement|참여]] 프레이밍으로 방향을 틀었고, 종합 점수는 3.85(Claude Sonnet)에서 7.52(Gemini 3.1 Pro Preview)까지 분포했으며, 교차 모델 AI 채점자 패널은 Cohen's kappa >= 0.70을 넘었습니다. 이는 모델 의존적 설계의 결과였습니다. 모델 역량은 모델을 어떻게 결합하는지에도 달립니다. Bird(2026)는 여덟 개의 최신 트랜스포머(BERT, ELECTRA, RoBERTa, XLNet, ERNIE, ALBERT, DistilBERT, Longformer)를 영국 Key Stage별 영문학 분류에 파인튜닝하여, 최고의 단일 모달 트랜스포머(BERT)는 F1 0.75에 그친 반면, 파인튜닝된 ELECTRA와 전산언어학 신경망의 융합은 F1 0.996으로 올라, 트랜스포머 텍스트 분류만으로는 한계가 있고 이득은 보완적 특징과의 융합에 있음을 보였습니다.
 
 
-LLM은 또한 선호적으로 추인합니다. 11개 모델에 걸쳐 AI 응답은 인간 응답보다 사용자를 49% 더 추인했고, 더 아부적인 답변이 더 높은 평점을 받아 신뢰와 지속 사용을 높였습니다. 이는 건설적 도전이 핵심인 코칭, 튜터링, 피드백에서의 실패 양식입니다([[ai-personal-coach-review-benefits-risks-2026|Potel & Kumashiro (2026)]]).
+LLM은 또한 선호적으로 추인합니다. 11개 모델에 걸쳐 AI 응답은 인간 응답보다 사용자를 49% 더 추인했고, 더 [[ai-sycophancy|아부적인]] 답변이 더 높은 평점을 받아 신뢰와 지속 사용을 높였습니다. 이는 건설적 도전이 핵심인 코칭, 튜터링, 피드백에서의 실패 양식입니다([[ai-personal-coach-review-benefits-risks-2026|Potel & Kumashiro (2026)]]).
+
+NER 코딩 증거는 단일한 최선의 모델이 아니라 과제 의존적 우위를 보여 줍니다. 600토큰의 인간 합의 개체명 벤치마크에서 [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]]는 GPT-5.5가 41개 정답 개체명 행의 일곱 유형 코딩에서 spaCy(0.634, κ = .488)를 앞섰고(정확도 0.805, κ = .726), 이진 탐지에서는 spaCy가 F1 0.734로 GPT-5.5의 0.654를 앞섰습니다. 즉 모델 선택은 보편적인 최선이 아니라 하류 분석 과제를 따릅니다.
+
 
 ## 흔한 오해
 
 - **"모델의 원시 역량이 오류 진단 능력을 결정한다."** 실제로 결정하는 것은 **근거 부여**입니다. [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora, MacLellan (2025)]]은 GPT-4에 튜터 인터페이스를 제공하는 것만으로 **오류 진단이 크게 달라졌음**을 보여주었습니다. 어떤 모델인지보다 학습자의 맥락에 관해 모델이 무엇을 제공받는지가 더 많은 일을 합니다.
-- **"어떤 프런티어 모델이든 학습 파트너로서 똑같이 작동한다."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash, Connell Pensky (2025)]]가 교실 비교에서 **세 프런티어 계열**, 즉 ChatGPT, Gemini, Claude를 살핀 이유가 바로 그것입니다. 협력자로서 이 계열들은 서로 대체 가능하지 않기 때문입니다.
-- **"모델이 더 좋아지면 비계가 덜 필요하다."** GPT-4는 **의미적으로 정교하고 반복적으로 함께 다듬은 루브릭의 비계를 받았을 때** [[design-based-research|설계 기반 연구]]에서 인간의 [[evaluative-judgment|평가적 판단]]에 근접할 수 있었습니다. 그 근접은 모델 단독이 아니라 여러 차례 반복하며 다듬은 루브릭에서 나왔습니다.
+- **"어떤 프런티어 모델이든 [[pedagogical-agent|학습 파트너]]로서 똑같이 작동한다."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash, Connell Pensky (2025)]]가 교실 비교에서 **세 프런티어 계열**, 즉 ChatGPT, Gemini, Claude를 살핀 이유가 바로 그것입니다. 협력자로서 이 계열들은 서로 대체 가능하지 않기 때문입니다.
+- **"모델이 더 좋아지면 [[scaffolding|비계]]가 덜 필요하다."** GPT-4는 **의미적으로 정교하고 반복적으로 함께 다듬은 루브릭의 비계를 받았을 때** [[design-based-research|설계 기반 연구]]에서 인간의 [[evaluative-judgment|평가적 판단]]에 근접할 수 있었습니다. 그 근접은 모델 단독이 아니라 여러 차례 반복하며 다듬은 루브릭에서 나왔습니다.
 
 ## 연결된 개념
 

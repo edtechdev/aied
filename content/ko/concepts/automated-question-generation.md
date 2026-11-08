@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: 자동 문항 생성
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:36-05:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-10-25T21:20:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -56,9 +56,10 @@ AQG의 핵심 과제는 **품질 관리**입니다:
 - **풀이 과정을 평가하고, 문제 줄기를 평가하지 말라:** [[proiqa-math-item-quality-assessment-2026|ProIQA]]는 문항 품질 검토가 전문가가 하는 일 — 풀이를 시뮬레이션하는 것 — 을 따라야 한다고 주장하며, 문항당 LLM 생성 추론 트리를 구축하고 수학적 정확성을 90.38–97.80%로 검증한 뒤, 줄기 전용 시각과 함께 그 의존 구조를 그래프 [[machine-learning|신경망]]으로 부호화합니다. 이 방법은 두 번째로 좋은 방법 대비 개념 평가 7.5%, 난이도 추정 6.3%, 역량 평가 19.5%의 평균 향상을 보고하며, 오류 분석은 주목할 만한 실패 양상을 지목합니다: 논리적으로 옳지만 구조적으로 얕은 추론 트리가 어려운 문항을 쉬워 보이게 남겨둔다는 것입니다.
 - **환각 위험:** LLM은 사실과 다른 문항을 생성할 수 있습니다. [[generate-then-validate-question-gen|Generate-Then-Validate]]는 전용 검증 단계가 이를 크게 줄인다는 것을 보여주며, [[hallucination-risk|환각 위험]]은 전반에 걸쳐 인정된 우려입니다.
 - **난이도 보정:** 생성된 문항은 적절한 난이도로 보정되어야 합니다. [[llm-difficulty-calibration-programming-exams-2026|난이도 보정 연구]]는 AI 난이도 추정이 학생 성과와 강하게 상관한다는 것(예: rho ≈ −0.87)을 보여 더 나은 문항 선별을 가능하게 하면서도, 고위험 [[ai-misuse-learning-harm|오용]]을 경계합니다. [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]]는 이것을 K-5 수학 및 읽기 문항(N = 5170)으로 확장하여 Rasch IRT 모델 하에서 보정했습니다: GPT-4o의 제로샷 난이도 평정은 실제 난이도와 중등도-강하게 상관했고(r = 0.83 수학, r = 0.81 읽기) 학년에 따라 달랐으며, 특징 기반 접근법 — LLM 추출 인지·언어적 특징을 트리 기반 모델에 투입 — 은 최대 r = 0.87의 상관에 도달했습니다. 이 연구의 구조화된 특징 추출(예: 통제문법 복잡성, [[cognitive-offloading|인지 부하]], 오답의 교활함)과 실용적인 7단계 워크플로는 생성 문항을 보정하기 위한 템플릿을 제공하며, 저학년 범위 제한 발견과 일반화 주의사항은 고위험 사용을 경계합니다.
-- **생성된 난이도 레이블은 보정 오류가 아닌 구성 타당성 실패가 될 수 있다.** 378개의 생성 문항에 걸쳐 모델의 쉬움/보통/어려움 레이블은 함께 생성된 Bloom 수준(ρ=0.90)과 표면 형식 — 평균 문제 줄기 길이가 15.9에서 22.1, 30.2 단어로 증가 — 을 추적했지만, 54명 학생의 7,888개 응답에서 실증적 문항 난이도와는 ρ=0.06으로만 상관했습니다. 이는 함께 생성된 태그를 신뢰하기보다 생성된 메타데이터를 응답 데이터에 맞춰 보정해야 한다는 근거입니다([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
-- **대규모 심리측정 현장 검증:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]]는 반복 정제 AQG 파이프라인(생성→판정→수정, Self-Refine 방식)을 91개의 실제 대학 강의(약 1,686명 학생)에서 검증합니다. 베이지안 계층적 2PL [[item-response-theory|IRT]] 분석은 AI 생성 문항이 전문가가 작성한 표준화 시험 문항과 동등한 성과를 낸다는 것을 보여줍니다 — 다소 쉽지만(β̄ = −0.45 대 0.35), 변별력은 약간 더 높고(ᾱ = 1.3 대 1.2), 최고 검사 정보량이 더 높으며(신뢰도 0.79 대 0.72) — AQG가 강의 맞춤형이고 심리측정학적으로 타당한 평가를 대규모로 만들어낼 수 있음을 입증합니다.
-- 평균 심리측정 동등성은 문항 수준의 부족을 가릴 수 있습니다: 의학교육 보고서 153건에 대한 범위 검토에서 AI 문항 생성이 때로 인간 난이도와 변별력에 부합했으나, 한 생리학 비교에서는 40개의 ChatGPT 문항 중 9개만이 모든 이상 기준을 충족한 반면 교수 문항은 40개 중 19개가 충족했습니다([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
+- **대규모 학생 인식 증거:** [[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al. (2025)]]는 VitalSource Bookshelf 전자책 리더의 CoachMe 연습 기능에서 자동 생성된 빈칸 채우기 문항에 대한 5,214,211건의 학생-문항 세션을 분석했습니다.
+평가는 드물었습니다. 세션 1,000건당 좋아요 3.31건과 싫어요 2.00건이었고, 싫어요는 생성기가 통제하는 특징들 — 문장 중요도(승산비 2.38), 정답 중요도(1.64), 정답의 품사 — 를 추적했으며, 좋아요 모델은 거의 비어 있었습니다. 두 중요도 변수를 임계값으로 처리하면 싫어요 비율이 세션 1,000건당 약 1.62건으로 줄어들어, 학생 최종 사용자 평점이 생성을 조정하는 실용적인 품질 신호가 됩니다.
+
+- 평균 심리측정 동등성은 문항 수준의 부족을 가릴 수 있습니다: 의학교육 보고서 153건에 대한 [[meta-analysis-systematic-review|범위 검토]]에서 AI 문항 생성이 때로 인간 난이도와 변별력에 부합했으나, 한 생리학 비교에서는 40개의 ChatGPT 문항 중 9개만이 모든 이상 기준을 충족한 반면 교수 문항은 40개 중 19개가 충족했습니다([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
 - **실제 시험에서의 식별 가능성, 그리고 검토가 실제로 제거하는 것:** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]]는 AI 생성 객관식 30개와 국가 면허 시험 객관식 30개를 119명의 5학년 [[medical-education|의대생]]이 치르는 채점된 태블릿 기반 시험에 넣었으며, AI 문항은 ChatGPT-4o와 Gemini 1.5 Pro가 강의 자체 자료로 작성하고 전문가 패널이 82%를 수락하고 18.2%를 사용 불가로 제거했습니다. 학생들의 출처 추정은 두 종류의 문항 간에 차이가 없었고, 문항 난이도, 오답 분포, 인식된 교육과정 정렬성은 통계적으로 구별되지 않았습니다 — 이것은 품질 결과가 아닌 *식별(recognition)* 결과이며, 저자들이 이 워크플로의 이점을 문항 작성을 없애는 것이 아니라 초안 작성에서 검토로 교수자의 노력을 옮기는 것이라고 설명하는 이유입니다. 하나의 탐색적 차이만 살아남았습니다: Gemini 문항은 면허 시험 문항보다 어려웠고(p = 0.028), ChatGPT 문항은 그렇지 않았습니다(p = 0.984).
 - **과제 의존성:** 생성 신뢰성은 문항 유형에 따라 다릅니다. [[cong-confidence-asag-2026|단답형 채점]]과 [[self-referential-l2-writing-llm-assessment|분석적 글쓰기 평가]]는 개방형 응답과 글쓰기 문항이 구조화된 문항보다 생성하고 채점하기가 더 어렵다는 것을 보여줍니다.
 - **인지 품질:** [[llm-educational-question-cognitive-depth|인지 깊이 평가]]는 생성 문항이 고차원 결과를 위해 명시적으로 설계되지 않으면 저차원 사고로 치우칠 수 있다는 것을 보여줍니다.

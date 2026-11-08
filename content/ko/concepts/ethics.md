@@ -1,7 +1,7 @@
 ---
 title: 윤리
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-04T15:58:10-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -55,7 +55,7 @@ ai_assist:
 - **교수자 대 학생.** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever(2026)]]는 학생 971명과 교수자 135명에 대한 [[mixed-methods-research|혼합 방법]] 연구로, 두 집단 모두 윤리적 AI 사용을 지지하지만 서로 다른 어조로 그런다는 것을 발견했습니다. 교수자는 윤리 원리를 강조하면서 기관 지침의 부재를 지적한 반면, 학생은 AI의 학습 이점을 중시하면서 누가 윤리적 책임을 나누는지에 관해 불확실함을 표했습니다. 둘 다 지나친 AI 사용이 [[critical-thinking|인지 기술]]을 약화시킬 수 있다고 우려했으며, 이 우려는 윤리적 통합을 도구 사용의 규제가 아니라 학습자의 인지 발달을 보존하는 것으로 틀짓합니다. 교수자는 개인적 책임에서 높은 점수를 받았으나 기관 지침의 적절성은 가장 낮게 평가했습니다(M = 2.99). 이는 개인 윤리와 구조적 지원 사이의 간극을 드러냅니다.
 - **준비도에서의 학생 대 교수자.** [[fekete-ethical-ai-literacy-gaps-2026|Fekete(2026)]]는 학생이 교수자보다 더 높은 윤리 인식을 보고한다는 것을(4.03 대 2.44) 발견했으며, 그런데도 교수자는 AI를 사용하려는 의지가 더 강합니다. 학생은 윤리를 당면한 학업 활동을 통해 해석하고 교사는 그것을 기관적 명확성과 정직성으로 다룹니다. 둘 다 기관 지원이 약하다고 보고하며, 준비도는 서로 다른 경로를 통해 발달합니다. 교수자의 도덕 인식은 기관적·사회적 지원과 함께 자라며, 학생의 확신은 [[self-efficacy]]과 협업과 관련되며 형식적 교수와는 관련되지 않습니다.
 
-- **사용이 윤리 합의보다 빠르게 상승한다.** 미국 교사 교육 프로그램의 네 학기에 걸쳐, 학생의 GenAI 사용은 평가 준비에서는 57%에서 83%로, 공부에서는 44%에서 76%로 상승한 반면, '확신 없음' 윤리 응답은 꾸준히 늘었고, AI 사용자가 비사용자보다 그것의 학업적 사용을 더 윤리적으로 평가했습니다([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker 외(2026)]]).
+- **사용이 윤리 합의보다 빠르게 상승한다.** 미국 [[teacher-education|교사 교육]] 프로그램의 네 학기에 걸쳐, 학생의 GenAI 사용은 평가 준비에서는 57%에서 83%로, 공부에서는 44%에서 76%로 상승한 반면, '확신 없음' 윤리 응답은 꾸준히 늘었고, AI 사용자가 비사용자보다 그것의 학업적 사용을 더 윤리적으로 평가했습니다([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker 외(2026)]]).
 
 **윤리는 이 분야의 중심이지만 좀처럼 결과로 다뤄지지 않습니다.** 생성형 AI 고등교육 연구 394편에 걸쳐 윤리와 학문적 정직성은 가장 적게 겨냥된 결과에 속했고, 거버넌스 실천은 과소 보고되었습니다([[mapping-genai-higher-ed-scoping-review|Lin 외(2026)]]).
 
@@ -76,6 +76,8 @@ ai_assist:
 - **AIED 윤리를 위한 통합된 가치 틀.** [[agarwal-ethical-values-norms-aied-2026|Agarwal 외(2026)]]는 25편의 논문에 대한 [[meta-analysis-systematic-review|체계적 고찰]]로, 파편화된 윤리 문헌을 [[ai-education|교육에서의 AI]]를 위한 여섯 가지 주요 윤리 가치로 통합합니다. 차별 금지, 자료 관리, [[human-in-the-loop-ai|인간 감독]], 선의, 설명 가능성, 교육적 적합성이 그것이며, 문헌에서 추출한 윤리 규범을 이해관계자×가치 매트릭스(개발자, 교육 기관, 최종 사용자, 규제 당국)에 대응시킵니다. 이 고찰은 규범이 고르지 않게 분포되어 있음을 발견합니다. 개발자가 가장 많이 끌어들이고, 최종 사용자는 가장 적고 실행 가능성이 낮은 규범을 받으며, 차별 금지, 자료 관리, 교육적 적합성에 관한 규범 가운데 어느 것도 최종 사용자를 직접 다루지 않습니다. 학생의 목소리는 사실상 부재하며, "최종 사용자" 규범은 대체로 다른 이해관계자가 교수자를 가능하게 하기 위해 취하는 행동입니다. 저자들은 최종 사용자가 수동적 수혜자로 다루어지기보다 주체성과 능동적 역할을 가져야 한다고 주장하며, 이 가치들이 단단히 결합되어 있고 충돌할 수 있음을(예: 설명 가능성 대 정확성/[[privacy]], 차별 금지 대 자료 관리) 지적합니다. 이것은 윤리적 딜레마와 이해관계자 집합 사이의 권력 비대칭을 함께 만들어 냅니다.
 - **관계 없이 이름 붙여진 책임.** GenAI 고등 교육 초록 366편에 대한 문헌 집합 분석은 이 분야의 책임 어휘가 대체로 형용사적이라는 것을 보여 줍니다. "responsible AI/GenAI"가 59개 문서에 83회 등장하고 "responsible use"가 44개 문서에 66회 등장하는 반면, "AI responsibility"와 "student responsibility"는 정확한 구로는 한 번도 나타나지 않으며, 문법적 제거가 일상적입니다. 피동 구성 800건 가운데 780건은 어떤 행위자 지칭도 없고, 책임 관련 명사화가 1,152건입니다. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal(2026)]]는 어떤 시스템에 귀결을 붙이는 절을 발견하지 못하므로, 책임은 그것을 행동으로 바꿀 관계적 주체성 없이 인식되는 말로 남습니다.
 
+시민적 프레이밍은 정직성과는 다른 질문을 던집니다. [[civic-and-political-education]]은 AI가 매개한 공적 논증의 집단적·민주적 결과를 다루며, 그곳에서 해악은 오귀속된 에세이가 아니라 잘못된 정보에 기반한 대중입니다.
+
 ## 상황적·생태학적 AI 윤리를 향하여
 
 지식베이스의 주요 이론적 전환은 보편주의적이고 원리 기반인 "점검표" 윤리에 대한 비판이며, 상황적·생태학적·변혁적 설명으로 옮겨 가는 것입니다.
@@ -88,11 +90,12 @@ ai_assist:
 
 ## 실천에서의 윤리
 
-지식베이스의 윤리 문서는 이론적 틀([[ethical-ai-higher-ed-game-theory|게임 이론 접근]])에서 실천적 지침([[cost-of-ethics-crisis-cs-ethics-education|CS 윤리 교육]]), [[ai-ethics-education-public-discourse|공적 담화 분석]]에서 [[adarkwah-genai-unesco-policy-2026|UNESCO 정책 틀]]에 이릅니다. 이 범위에 걸쳐 일관된 실천적 메시지가 나타납니다. 윤리는 오용을 단속하는 것에서 [[ai-literacy]]와 윤리적 사용 역량을 쌓는 것으로 옮겨 가야 하며, 그것은 기관 지침, 교수자의 전문성 개발, 그리고 학습자의 판단을 대체하지 않고 보존하는 설계에 의해 뒷받침되어야 합니다.
+지식베이스의 윤리 문서는 [[theories-and-frameworks|이론적 틀]]([[ethical-ai-higher-ed-game-theory|게임 이론 접근]])에서 실천적 지침([[cost-of-ethics-crisis-cs-ethics-education|CS 윤리 교육]]), [[ai-ethics-education-public-discourse|공적 담화 분석]]에서 [[adarkwah-genai-unesco-policy-2026|UNESCO 정책 틀]]에 이릅니다. 이 범위에 걸쳐 일관된 실천적 메시지가 나타납니다. 윤리는 오용을 단속하는 것에서 [[ai-literacy]]와 윤리적 사용 역량을 쌓는 것으로 옮겨 가야 하며, 그것은 기관 지침, 교수자의 전문성 개발, 그리고 학습자의 판단을 대체하지 않고 보존하는 설계에 의해 뒷받침되어야 합니다.
 
 그 실천적 논거는 윤리가 AI 리터러시 자체 안에서 어떻게 기능하는지에 관한 경험적 작업에 의해 강화됩니다. Zhu와 Kong(2026)은 AI 윤리 인식이 — AI [[problem-solving]]에서의 역능 강화와 함께 — 인지된 [[project-based-learning|프로젝트 기반 학습]]과 AI 리터러시 강좌에 대한 만족 사이의 관계를 매개한다는 것을 보여 줍니다. 이들의 검증된 AI-PBLS 척도와 SEM 결과(학생 1,027명)는 PBL이 학생이 AI에 관한 윤리적 추론을 위한 개인적 틀을 쌓는 조건을 만든다는 것을 시사하며, 윤리가 덧붙임이 아니라 의미 있는 AI 리터러시 발달의 핵심 메커니즘이라는 주장을 강화합니다.
+**가르치면 인식만이 아니라 [[evaluative-judgment|판단]]을 바꿉니다.** 16개 학급(n = 240)을 대상으로 한 군집 [[rct|무작위 대조 시험]]에서, 4주 정보 윤리 모듈은 채점된 윤리적 판단을 0.35 척도점 높였고(d = 0.75), 그 이득의 59.9%가 4주 후에도 유지되었으며, 가장 많이 생성형 AI를 사용하는 학생들에게서 가장 컸습니다([[qi-information-ethics-ai-judgment-2026|Qi, 2026]]).
 
-**그 메커니즘의 부호는 뒤에 무엇이 놓이는지에 달려 있다.** AI 역량을 독학으로 얻은 학부생 584명 가운데, 역량은 AI 윤리 인식을 높였으며(β = 0.644, p < .001), 윤리 인식은 그것을 낮추기보다 AI 불안을 높였습니다(β = 0.439, p < .001). 간접 전용 매개로, 저자들은 이를 대처 틀 없이 각성한 인식으로 읽습니다([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu 외(2026)]]). 윤리 교육에 관한 이들의 결론은 그것이 인지적 수준에서 멈출 수 없다는 것입니다. 투명성이나 프라이버시에 관한 우려는 그것에 답하는 거버넌스 경로와 함께 도달해야 하며, 이것이 그들이 제안하는 모듈이 법률 교육 안에 놓이는 이유입니다.
+**그 메커니즘의 부호는 뒤에 무엇이 놓이는지에 달려 있다.** AI 역량을 독학으로 얻은 학부생 584명 가운데, 역량은 AI 윤리 인식을 높였으며(β = 0.644, p < .001), 윤리 인식은 그것을 낮추기보다 [[anxiety-and-stress|AI 불안]]을 높였습니다(β = 0.439, p < .001). 간접 전용 매개로, 저자들은 이를 대처 틀 없이 각성한 인식으로 읽습니다([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu 외(2026)]]). 윤리 교육에 관한 이들의 결론은 그것이 인지적 수준에서 멈출 수 없다는 것입니다. 투명성이나 프라이버시에 관한 우려는 그것에 답하는 거버넌스 경로와 함께 도달해야 하며, 이것이 그들이 제안하는 모듈이 [[legal-education|법률 교육]] 안에 놓이는 이유입니다.
 
 윤리적 인식, 성찰적 추론, [[self-report-measures|자기 보고된]] 책임 있는 실천은 대체로 독립적으로 발달합니다. 나이지리아 컴퓨팅 [[higher-ed|학부생]] 350명을 대상으로 한 세 차례 연차 조사에서 [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale 외(2026)]]는 세 가지가 모두 상당히 상승했으나 그 성장 요인들은 거의 상관이 없었고 초기 인식이 이후의 성장을 예측하지 못했다는 것을 발견했습니다.
 
@@ -104,7 +107,7 @@ ai_assist:
 
 - **"부정행위 틀은 생성형 AI 윤리를 생각하기에 충분한 방식입니다."** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]]는 기관이 생성형 AI 문제를 **부정행위 틀이 아니라 파트너십 윤리**를 통해 결정해야 한다고 주장합니다. 틀이 어떤 질문이 제기되는지를 결정하며, 위법 행위 틀은 교육적 목적에 관해 물을 수 없습니다.
 - **"교수자와 학생은 무엇이 윤리적인지에 합의합니다."** **학생 971명과 교수자 135명**을 대상으로 한 [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç와 Sever(2026)]]의 [[mixed-methods-research|혼합 방법]] 연구는 윤리적 차원이 두 집단 사이에서 갈린다는 것을 발견합니다. 한 관점에서 쓰인 정책은 다른 관점을 잘못 규정할 것입니다.
-- **"윤리적 합의가 사용에 앞섭니다."** **사용은 윤리적 합의보다 빠르게 상승합니다.** 미국 교사 교육 프로그램의 네 학기에 걸쳐 학생의 생성형 AI 사용은 **평가 준비에서 57%에서 83%로** 올랐습니다. 규범은 그 반대가 아니라 실천에 의해 형성되고 있습니다.
+- **"윤리적 합의가 사용에 앞섭니다."** **채택은 윤리적 합의보다 앞섭니다.** 미국 교사 교육 프로그램의 네 학기에 걸쳐 학생의 생성형 AI 사용은 **평가 준비에서 57%에서 83%로** 올랐습니다. 규범은 그 반대가 아니라 실천에 의해 형성되고 있습니다.
 
 ## 연결된 개념
 - [[business-education]]
@@ -122,6 +125,8 @@ ai_assist:
 - [[teacher-education]]
 - [[chemistry-education]] — 화학 교육과 AI: 실험실, 형성평가, LLM의 한계, 실험의 철학
 - [[biology-education]] — 생물 교육과 AI: 실험실 조교, 생물에서의 AI 리터러시, 비판적 사고, 특수 도구
+
+- [[civic-and-political-education]]
 
 ## 연결된 문서
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 대처 틀이 가르쳐지지 않은 곳에서 윤리 인식이 AI 불안을 증폭했다: 584명의 학생 사이에서 간접 전용 매개
@@ -152,3 +157,5 @@ ai_assist:
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — 누가 행동하고, 누가 알며, 누가 답하는가? 생성형 AI 고등 교육 연구에서 주체성, 인식론적 책임, 책무에 관한 문헌 집합 지원 담화 분석
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — 파트너십 윤리가 부정행위 틀 대신 기관의 생성형 AI 결정을 이끌어야 한다고 주장하는 스웨덴 설문 및 포커스 그룹 연구
 - [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — 윤리적 인식, 성찰, 보고된 책임 있는 실천이 세 차례 연차 조사에서 대체로 독립적으로 성장했다(Ayanwale 외 2026)
+
+- [[qi-information-ethics-ai-judgment-2026]] — 대학생의 정보 윤리 교육과 인공지능 윤리적 판단

@@ -1,7 +1,7 @@
 ---
 title: "교수진은 AI와 관련하여 어떤 역량을 갖춰야 합니까?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T10:37:54-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
@@ -107,7 +107,7 @@ ai_assist:
 
 하나의 프레임워크가 모두를 포괄할 것이다. 여섯 역할 표준이 존재하는 이유는 TPACK, SAMR, 주요 교육자 표준이 K-12 교사나 가르치는 차원만 포괄하기 때문입니다.
 
-저항은 채워야 할 지식 격차다. 위험 회피는 의도를 부적으로 예측했고, 정체성 연구는 교수진이 교수법적 가치에서 추론함을 보여 줍니다. 주저처럼 보이는 것의 일부는 학생의 과잉 의존에 관한 방어 가능한 입장입니다.
+저항은 채워야 할 지식 격차다. 위험 회피는 의도를 부적으로 예측했고, [[learner-identity|정체성 연구]]는 교수진이 교수법적 가치에서 추론함을 보여 줍니다. 주저처럼 보이는 것의 일부는 학생의 과잉 의존에 관한 방어 가능한 입장입니다.
 
 ## 여러분이 듣게 될 반론
 

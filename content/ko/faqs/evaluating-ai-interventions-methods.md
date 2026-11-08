@@ -1,7 +1,7 @@
 ---
 title: "교수자가 AI 관련 개입을 평가하는 데 사용할 수 있는 측정과 연구 방법은 무엇입니까?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T10:37:54-04:00"
+updated: "2026-11-08T00:06:30-05:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 assessment: [assessment, self-report-measures]
@@ -72,7 +72,7 @@ AI 지원 질적 분석은 조건을 붙여 그 목록에 들어갑니다. 그�
 
 발표된 효과 크기가 내 반에도 옮겨진다고 생각하기 쉽습니다. O'Neill의 메타분석 14개는 그 위에 세워진 주장을 뒷받침하지 못했고, 보고된 두 예측 구간 모두 0을 포함했습니다.
 
-플랫폼 분석이 교수의 질을 측정한다고 생각하기 쉽습니다. Zhang의 3위 에이전트는 전문가 루브릭에서 최하위였습니다.
+[[learning-analytics|플랫폼 분석]]이 교수의 질을 측정한다고 생각하기 쉽습니다. Zhang의 3위 에이전트는 전문가 루브릭에서 최하위였습니다.
 
 ## 여러분에게 되돌아올 말
 

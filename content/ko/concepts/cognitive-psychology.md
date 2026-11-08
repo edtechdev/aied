@@ -1,13 +1,13 @@
 ---
 title: 인지 심리학
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T12:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 - **정보 처리(컴퓨터) 은유.** 마음은 역량과 병목을 지닌 정보 처리 체계로 다루어집니다. 잠재 능력의 [[item-response-theory|measurement]], 작업 기억의 한계, 부호화와 인출이 그것이며, 이것이야말로 AI 조력(학습자의 인지를 모형화하고 적응하는 컴퓨터 프로그램)을 자연스러운 결합으로 만든 바로 그 모형입니다.
 - **주의와 기억은 제한되어 있다.** 작업 기억은 제한된 역량을 지니며, 지속적인 학습은 복습, 정교화, [[retrieval-spacing-interleaving|retrieval practice]]을 통한 장기 기억으로의 부호화를 요구합니다. 이것은 인지주의를 [[cognitive-offloading]](기억/처리를 외부 도구에 위임하는 것)에 관한 [[research-methods-aied|research]]와 AI가 인출과 연습을 우회할 때의 "수행–학습 격차"에 연결합니다.
 - **메타인지는 인지를 규제한다.** [[metacognition]] — 자신의 사고를 감시하고 통제하는 것 — 은 특징적으로 인지주의적인 구성물이며, 언제 AI에 의존할지에 대한 학습자의 보정이 학습에 왜 중요한지를 설명합니다([[cognitive-offloading]]과 [[self-regulated-learning]] 참조).
-- **지식은 분해 가능하고 추적 가능하다.** 인지주의적 AIED는 학습자의 지식이 구성 요소들로 표상되고 시간에 따라 추적될 수 있다고 가정합니다. 이것이 [[knowledge-tracing]], [[cognitive-diagnosis]], [[item-response-theory]]의 기반입니다.
+- **지식은 분해 가능하고 추적 가능하다.** 인지주의적 AIED는 학습자의 지식이 구성 요소들로 표상되고 시간에 따라 추적될 수 있다고 가정합니다. 이것이 [[knowledge-tracing]], [[cognitive-diagnosis]], [[item-response-theory]]의 기반입니다. 추적 가능성은 채점 규칙이기도 합니다. 네 가지 [[knowledge-tracing]] 갱신 규칙을 동일한 ASSISTments 사건 시퀀스에 적용한 결과, 보조를 받은 완료를 모두 인정하는 규칙은 학생-기술 쌍의 93.9%를 숙달로 판정한 반면, 보조를 받은 행을 실패한 첫 시도로 읽는 규칙에서는 72.8%였습니다. 관대한 규칙이 조기에 숙달로 판정한 쌍은 이후 무보조 정확도 0.709에 그쳤고, 두 규칙이 일치한 경우에는 0.857이었습니다([[crediting-assisted-work-inflates-mastery-2026|Srivastava, 2026]]). 모형은 증거 규칙이 세도록 허용하는 것만 추적합니다.
 
 ## AI 교육에서의 인지주의
 
@@ -66,6 +66,10 @@ Mayer의 멀티미디어 학습 인지 이론(CTML)은 같은 작업 기억 가�
 ### AI 시대의 긴장: 인지주의의 경계가 압박받고 있다
 
 [[generative-ai|Generative AI]]는 인지주의를 연장하기도 하고 도전하기도 합니다. 지식 표상을 더 강력하게 만들어([[knowledge-tracing]]으로 추적되고 [[student-modeling]]로 적응될 수 있는 지식 엔진으로서의 LLM) 연장합니다. 인지가 "어디 있는가"를 복잡하게 만들어 도전합니다. AI가 추론, 기억, 심지어 메타인지와 유사한 기능까지 수행할 때, 학습이 개인의 마음에서 일어나는 내면의 처리라는 인지주의적 가정은 동요합니다. [[distributed-cognition]], [[ai-cognitive-partner-co-regulation-learning|co-regulation]], 탈인간적 구상들은 인지가 인간과 인공 체계에 걸쳐 분산될 수 있다고 논증하기 때문입니다. 그럼에도 인지주의적 질문은 이 분야의 중심 질문으로 남습니다. *학습자가 지식을 내면화하는가, 아니면 도구가 그것을 담고 있는가?* 이것이 가장 순수한 형태의 인지 부하 외주화와 수행–학습 격차의 질문입니다.
+
+
+2026년의 한 실험은 그 경계의 기억 측면에 구체적인 실패 양상을 부여합니다. 오해를 부르는 AI 요약을 읽은 성인 328명 가운데 44.8%만이 나중에 영상 세부 내용을 정확히 식별한 반면, 일관된 요약을 읽은 집단에서는 83.6%가 그랬습니다. AI 또는 인간이라는 표시는 차이를 만들지 않았고, AI에 대한 자기보고 신뢰도 마찬가지였습니다([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). 이는 교실 학습이 아니라 출처 기억에 관한 것이지만, 유창한 요약은 학습자의 출처 기록을 덮어쓸 수 있으며, 이는 학습과 평가에 중요합니다.
+
 
 ## 설계와 연구를 위한 함의
 
@@ -104,6 +108,7 @@ Mayer의 멀티미디어 학습 인지 이론(CTML)은 같은 작업 기억 가�
 
 ## 연결된 문서
 
+- [[sim-ai-summary-memory-distortion-2026]] — 오해를 부르는 AI 요약이 성인들이 기억하는 내용을 바꾸었으며, 요약이 AI 또는 인간 작성으로 표시되었는지와 무관했다
 - [[cognitive-shift-ai-education]] — AI 교육의 인지적 전환
 - [[cogtax-cognitive-taxonomy]] — AI 사용을 위한 인지 분류
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — 지식 추적에 뿌리를 둔 교수법적 LLM 에이전트
@@ -111,3 +116,6 @@ Mayer의 멀티미디어 학습 인지 이론(CTML)은 같은 작업 기억 가�
 - [[ai-cognitive-partner-co-regulation-learning]] — 공동 규제된 학습에서의 인지적 동반자로서의 AI
 - [[ensemble-cognition-philosophy-ai-education]] — 앙상블 인지: 인간–AI 상호작용으로서의 사고
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 노력의 양이 아니라 노력의 조직이 부하와 좌절을 추적했다
+
+- [[crediting-assisted-work-inflates-mastery-2026]] — 지식 추적의 숙달 주장은 보조 작업을 어떻게 인정하는가에 달려 있다(Srivastava 2026)
+

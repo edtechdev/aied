@@ -1,13 +1,13 @@
 ---
 title: "제 강좌에서 AI 부정행위를 줄이려면 어떻게 해야 합니까?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T10:37:54-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -57,11 +57,14 @@ ai_assist:
 
 그다음 산출물을 바꾸십시오. 생성형 AI에 관한 72개 연구를 대상으로 한 [[meta-analysis-systematic-review|체계적 문헌고찰]]은 [[cs-education|컴퓨팅 교육]] 분야에서 재설계를 실행 가능하면서 지렛대 효과가 가장 큰 것으로 평가하고, 한 가지 움직임을 따로 지목합니다. 강좌마다 비중 있는 평가 가운데 최소 하나에 구술 또는 과정이 드러나는 요소를 더하는 것입니다. 그것을 그 코퍼스에서 가장 효과적인 단일 개입이라고 부릅니다. 탐지는 그 검토가 다루는 가장 얇은 영역으로 연구가 3건뿐인데, 컴퓨팅 학생의 60-80%가 교과 작업에서 생성형 AI 사용을 보고하고 대개 교수자의 명시적 승인이 없으며, 한 전국 교수진 표본의 70%가 AI에 강한 평가 설계에 관한 훈련을 명시적으로 요청합니다([[kumar-genai-computing-education-systematic-review-2026]]).
 
+3년에 걸친 컴퓨팅 강좌는 비계화된 공개 워크플로가 행동을 얼마나 멀리 움직일 수 있는지를 보여 줍니다. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil 등(2026)]]은 네 항목 체크리스트가 딸린 독립 초안, AI로 다듬되 다시 쓰지 않는 단계, 공개 양식, 구조화된 성찰을 요구했고, 초안이나 양식이 없으면 0점을 주었습니다. 채택률은 자발적 정책 아래 약 3분의 2에서 비계화된 해에는 93%로 올랐습니다. AI 사용자의 81%와 84%는 제안을 거부하거나 수정했다고 보고했고, 채점자는 제출물의 77~81%에서 비판적 참여를 코딩했으며, 사전 작문 능력을 통제한 뒤 AI 사용은 에세이 품질을 독립적으로 예측하지 않았습니다. 이것은 통제된 시험이 아니라 단일 강좌 경험 보고이지만, 진실성 작업이 탐지에서 학생들이 공개하고 수정하는 조건으로 옮겨가는 것을 보여 줍니다.
+
+
 선택지 목록이며, 대략 큰 강의에서 각 선택지가 얼마나 잘 견디는지 순서입니다.
 
-도움 없이, 수업 중, 폐쇄 도서: 감독 시험, 쪽지 시험, 시간 제한 작문. 이것들의 비중을 예전보다 높이십시오. 과제물이야말로 AI가 부풀리는 산출물이기 때문입니다. 구술 시험과 구술 변론도 같은 이유로 작동합니다. 실시간 대화는 외주화하기 어렵기 때문입니다([[fenton-oral-exams-ai-authentic-assessment-2025]]).
+도움 없이, 수업 중, 폐쇄 도서: 감독 시험, 쪽지 시험, 시간 제한 작문. 이것들의 비중을 예전보다 높이십시오. 과제물이야말로 AI가 부풀리는 산출물이기 때문입니다. [[oral-assessment|구술 시험]]과 구술 변론도 같은 이유로 작동합니다. 실시간 대화는 외주화하기 어렵기 때문입니다([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-과정 산출물: 초안, 추론 흔적, 주석이 달린 "생각을 보여 주기", 수정 기록입니다. 그래야 산출물만이 아니라 *과정*이 보입니다([[authentic-products-authenticated-processes-2026]]). 진정한 과제도 그와 나란히 작동합니다. 지역 사례, 인턴십 자료, 학생 자신의 데이터, 위임하기 어려운 무엇이든 좋습니다([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
+과정 산출물: 초안, 추론 흔적, 주석이 달린 "생각을 보여 주기", 수정 기록입니다. 그래야 산출물만이 아니라 *과정*이 보입니다([[authentic-products-authenticated-processes-2026]]). [[authentic-assessment|진정한 과제]]도 그와 나란히 작동합니다. 지역 사례, 인턴십 자료, 학생 자신의 데이터, 위임하기 어려운 무엇이든 좋습니다([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
 학생별 과제 변형, 즉 각 학생이 표면적으로는 다르지만 구성개념상 동등한 판본을 받게 하는 방식은 베끼기를 구조적으로 무용하게 만듭니다. 그 보장은 역량 조건부로 다루십시오. [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]]는 최전선 생성기가 결합 정직성 점수에서 0.81-0.88에 그친 반면, 비최전선 모델은 0.50-0.55로 무너진다는 것을 발견했습니다. 여러분의 변형이 동등하지 않다면, 여러분은 공유에 대한 보호를 학생 간 불공정과 함께 산 것입니다.
 
@@ -107,7 +110,7 @@ AI 오용 줄이기 종합 문서는 허용하는 판본을 위한 여덟 가지
 
 **2.** 그다음 AI입니다. 이미 가진 사고에 대해 비판하고, 확장하고, 대안을 생성하는 데 사용합니다.
 
-**3.** 세 번째는 성찰입니다. 무엇에 사용했고, 무엇을 받아들이고 거부했으며, 왜 그랬는지 기록합니다. 프롬프트와 수정 기록이면 충분합니다.
+**3.** 세 번째는 [[reflection|성찰]]입니다. 무엇에 사용했고, 무엇을 받아들이고 거부했으며, 왜 그랬는지 기록합니다. 프롬프트와 수정 기록이면 충분합니다.
 
 ## 공개를 구체적이고, 채우기 쉽게 만드십시오
 
@@ -125,7 +128,7 @@ AI 오용 줄이기 종합 문서는 [[ai-literacy|AI 리터러시]]와 [[prompt
 
 학생들이 실제로 믿는 것은 그 공황이 시사하는 것보다 덜 냉소적입니다. 사회학 학생 504명 가운데 65%가 교과 작업에 생성형 AI를 사용했지만, 과제 텍스트를 생성하는 데 사용한 사람은 3%, 완전한 초안을 생성하는 데 사용한 사람은 2%였습니다. 81%가 어떤 형태의 AI 지침을 받았고, 매우 명확하다고 느낀 사람은 46%뿐이었습니다([[student-genai-use-views-writing]]). 반항이 아니라 모호성이 실제 문제이며, 그래서 명확한 규칙에 가르친 순서를 더한 것이 경고보다 더 많은 행동을 바꿉니다. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]]는 학생들이 생성형 AI가 부정행위를 돕는 도구인지 학습을 지원하는 파트너인지 묻는다고 서술하는데, 여러분의 기대는 바로 그 질문에 답해야 합니다.
 
-명시적으로 가르칠 가치가 있는 해는 [[ai-misuse-learning-harm|수행-학습 격차]]입니다. 수행은 지금 오르고 학습은 나중에 떨어지며, 학생은 첫 번째만 경험합니다. [[ai-tools-academic-work-cheating-2026]]와 [[student-rationalization-ai-writing]]은 동료 규범과 합리화 쪽을 다루며, 명확한 규범이 깎아 내리는 "모두가 하고 있다"는 변명도 포함합니다. 이 기반이 얼마나 튼튼한지는 [[ai-literacy-evidence]]와 [[top-10-findings-ai-education-instructors]]를 보십시오.
+명시적으로 가르칠 가치가 있는 해는 [[ai-misuse-learning-harm|수행-학습 격차]]입니다. 수행은 지금 오르고 학습은 나중에 떨어지며, [[student-experience|학생]]은 첫 번째만 경험합니다. [[ai-tools-academic-work-cheating-2026]]와 [[student-rationalization-ai-writing]]은 동료 규범과 합리화 쪽을 다루며, 명확한 규범이 깎아 내리는 "모두가 하고 있다"는 변명도 포함합니다. 이 기반이 얼마나 튼튼한지는 [[ai-literacy-evidence]]와 [[top-10-findings-ai-education-instructors]]를 보십시오.
 
 ## 교수자들이 흔히 오해하는 것
 

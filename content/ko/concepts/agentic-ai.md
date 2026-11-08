@@ -1,8 +1,8 @@
 ---
-connected_resources: [deeptutor]
+connected_resources: [deeptutor, learnharness]
 title: 에이전틱 AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-25T17:35:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -57,15 +57,15 @@ ai_assist:
 
 ## 역할에 기반한 이 분야의 지도
 
-[[agentic-ai-education-scoping-review|the 474-study scoping review]]와 [[kostopoulos-agentic-ai-education-2025|Kostopoulos et al.'s conceptual survey]]가 연구의 폭과 능력을 지도화하는 데서, [[baradziej-agentic-ai-higher-education-2026|Baradziej (2026)]]는 에이전틱 AI를 **그가 맡는 역할**로 조직합니다 — 이 시스템들을 어디에 배치하고 거버넌스할지를 결정하기 위한 [[governance|institutional]] 틀 짓기입니다. 고등 교육 연구 48개를 가로질러, 증거의 무게 순서로 여섯 역할이 나타납니다. 개인화된 학습과 적응형 튜터링(18/48), [[automated-assessment]]과 피드백(12), 교수 조력과 증강(11), 행정과 학생 지원(8), 교육 과정 설계와 인력 정합(5), 그리고 연구 지원과 학술 운영(4)입니다. 역할 렌즈는 모든 배치에 되돌아오는 한 가지 설계 선택을 전면에 내세웁니다. 인간이 순간순간 얼마나 많은 통제를 유지하는가("Copilot" 관계) 대 에이전트가 얼마나 많은 것을 소유하는가("Autopilot" 관계) — 이것이 에이전트가 학습을 조력하는지 대체하는지를 결정하는 자율성 축입니다.
+[[agentic-ai-education-scoping-review|the 474-study scoping review]]와 [[kostopoulos-agentic-ai-education-2025|Kostopoulos et al.'s conceptual survey]]가 연구의 폭과 능력을 지도화하는 데서, [[baradziej-agentic-ai-higher-education-2026|Baradziej (2026)]]는 에이전틱 AI를 **그가 맡는 역할**로 조직합니다 — 이 시스템들을 어디에 배치하고 거버넌스할지를 결정하기 위한 [[governance|institutional]] 틀 짓기입니다. 고등 교육 연구 48개를 가로질러, 증거의 무게 순서로 여섯 역할이 나타납니다. 개인화된 학습과 적응형 튜터링(18/48), [[automated-assessment]]과 피드백(12), 교수 조력과 증강(11), 행정과 [[student-support-and-success|학생 지원]](8), 교육 과정 설계와 인력 정합(5), 그리고 연구 지원과 학술 운영(4)입니다. 역할 렌즈는 모든 배치에 되돌아오는 한 가지 설계 선택을 전면에 내세웁니다. 인간이 순간순간 얼마나 많은 통제를 유지하는가("Copilot" 관계) 대 에이전트가 얼마나 많은 것을 소유하는가("Autopilot" 관계) — 이것이 에이전트가 학습을 조력하는지 대체하는지를 결정하는 자율성 축입니다.
 
 ## 에이전틱 시스템의 설계와 평가
 
 이 지식베이스의 [[research-methods-aied|Research]]는 설계와 평가에 걸칩니다.
 
 - **이론에 기반한 하이브리드 에이전트가 순수한 [[prompt-engineering|prompting]]을 이깁니다:** [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]는 **25,795개의 교수 설계 시나리오**로 이루어진 벤치마크로, 최선의 접근법이 고전적 ISD 프레임워크(ADDIE, Dick & Carey, Rapid Prototyping)를 현대적 ReAct 방식의 추론과 결합함을 발견합니다 — 하이브리드(이론 + 기법) > 순수 이론 > 기법만. 확립된 교육 설계 이론에 [[llm]] 에이전트를 기반을 두는 것은 날것의 프롬프트가 재현할 수 없는 구조적 이점을 제공합니다.
-- **에이전틱 도구를 위한 평가 프레임워크:** [[tool-invariant-framework-agentic-ai|The tool-invariant framework]]는 특정 AI 도구에 의존하지 않는 방식으로 [[teacher-role|teaching]]과 계산적 방법의 평가를 제안하며, [[computational-thinking]]의 기본 원리, 구술 변론을 통한 [[authentic-assessment]], 그리고 검증을 강조합니다 — [[cognitive-offloading|Over-Reliance]] 우려와 관련됩니다.
-- **보고와 거버넌스를 위한 척도: 자율성–감독–증거(AOE) 프레임워크.** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]]는 *agentic AI*라는 용어가 너무 일관성 없이 쓰여 연구 간에 증거와 감독을 비교할 수 없다고 논합니다. 계획하고, 기억하고, 도구를 쓰거나, 여러 에이전트를 조율하는 시스템들이 정적인 GenAI 인터페이스와 전통적인 [[pedagogical-agent|pedagogical agents]]와 한데 묶입니다. 동료 심사를 거친 고찰 15편에 대한 그의 비판적 통합적 고찰은 증거가 산출물 수준의 결과(피드백 정확도, 환각 감소)에서 가장 강하고 지속적인 학습, 형평성, 업무량, 또는 제도적 결과에서 가장 약함을 발견하며, 실제 배치는 대개 짧고, 단일 기관이며, 감독과 느슨하게 연결되어 있습니다. 해법은 구체적인 보고 삼중항입니다 — **자율성 수준 A0–A4**(반응형 생성 → 제한된 오케스트레이션 → 위임된 과제 자율성 → 워크플로 자율성 → 채점/입학/진급에 대한 *결과적 자율성*), **감독 수준 O0–O4**(명시되지 않음 → 사후 감사 → 사용 전 승인 → 점검 지점 통제 → *지속적인 제한된 감독*), 그리고 **증거 성숙 단계 M0–M5**(개념 → 프로토타입/벤치마크 → 참가자 평가 → 실제 배치 → 확장/다기관 → *반복/제도 규모*) — 여기에 **비례 원칙**을 더합니다. 허용되는 자율성은 증거 성숙도나 감독 강도를 넘어서는 일이 없어야 합니다(예컨대 A4 결과적 시스템은 M4–M5 증거, 법적 검증, 그리고 인간의 최종 권한을 지닌 O4를 요구합니다). *A2–O3–M3*를 보고하는 것은 모호한 "에이전틱 배치" 주장을 비교 가능하고 시험 가능한 명세로 전환하며, 제도에 단계적 도입, 기록, 그리고 롤백의 문법을 제공합니다 — 위의 [[baradziej-agentic-ai-higher-education-2026|Copilot-to-Autopilot]] 스펙트럼에 대한 증거적 보완재입니다.
+- **에이전틱 도구를 위한 평가 프레임워크:** [[tool-invariant-framework-agentic-ai|The tool-invariant framework]]는 특정 AI 도구에 의존하지 않는 방식으로 [[teacher-role|teaching]]과 계산적 방법의 평가를 제안하며, [[computational-thinking]]의 기본 원리, [[oral-assessment|구술 변론]]을 통한 [[authentic-assessment]], 그리고 검증을 강조합니다 — [[cognitive-offloading|Over-Reliance]] 우려와 관련됩니다.
+- **보고와 거버넌스를 위한 척도: 자율성–감독–증거(AOE) 프레임워크.** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]]는 *agentic AI*라는 용어가 너무 일관성 없이 쓰여 연구 간에 증거와 감독을 비교할 수 없다고 논합니다. 계획하고, 기억하고, 도구를 쓰거나, 여러 에이전트를 조율하는 시스템들이 정적인 GenAI 인터페이스와 전통적인 [[pedagogical-agent|pedagogical agents]]와 한데 묶입니다. 동료 심사를 거친 고찰 15편에 대한 그의 비판적 통합적 고찰은 증거가 산출물 수준의 결과(피드백 정확도, [[hallucination-risk|환각]] 감소)에서 가장 강하고 지속적인 학습, 형평성, 업무량, 또는 제도적 결과에서 가장 약함을 발견하며, 실제 배치는 대개 짧고, 단일 기관이며, 감독과 느슨하게 연결되어 있습니다. 해법은 구체적인 보고 삼중항입니다 — **자율성 수준 A0–A4**(반응형 생성 → 제한된 오케스트레이션 → 위임된 과제 자율성 → 워크플로 자율성 → 채점/입학/진급에 대한 *결과적 자율성*), **감독 수준 O0–O4**(명시되지 않음 → 사후 감사 → 사용 전 승인 → 점검 지점 통제 → *지속적인 제한된 감독*), 그리고 **증거 성숙 단계 M0–M5**(개념 → 프로토타입/벤치마크 → 참가자 평가 → 실제 배치 → 확장/다기관 → *반복/제도 규모*) — 여기에 **비례 원칙**을 더합니다. 허용되는 자율성은 증거 성숙도나 감독 강도를 넘어서는 일이 없어야 합니다(예컨대 A4 결과적 시스템은 M4–M5 증거, 법적 검증, 그리고 인간의 최종 권한을 지닌 O4를 요구합니다). *A2–O3–M3*를 보고하는 것은 모호한 "에이전틱 배치" 주장을 비교 가능하고 시험 가능한 명세로 전환하며, 제도에 단계적 도입, 기록, 그리고 롤백의 문법을 제공합니다 — 위의 [[baradziej-agentic-ai-higher-education-2026|Copilot-to-Autopilot]] 스펙트럼에 대한 증거적 보완재입니다.
 - **적대적 강건성 검사:** [[adversarial-stress-testing-role-playing-agents|Multi-agent stress testing]]는 Interrogator, Target, Judge 에이전트를 조율하여 단일 전략 검사에는 보이지 않는 실패 양상을 드러내며, 강건성 점수를 0.17–0.20포인트 낮춥니다 — 인격 일관성과 학습자와의 [[pedagogical-safety|safe deployment]]에 결정적입니다.
 - **영역 적용:** 에이전틱 시스템은 [[learnmate2-llm-adaptive-learning|adaptive learning agents]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogical LLM agents]], [[guided-llm-scaffolding-independent-learning|guided LLM scaffolding]], [[cyberagents-gamified-cybersecurity-learning-2026|gamified cybersecurity learning agents]], 그리고 [[hdr-brachytherapy-agentic-ai-simulation-2026|clinical simulation agents]] 등 여러 영역에 나타납니다.
 - **학습 경험 평가자로서의 웹 에이전트:** 온라인 [[learning-design|lesson]]을 학생처럼 탐색하는 단일 자율 "서술" 웹 에이전트 — [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] — 는 학생 이탈을 예측하고 실제 학습자가 참여하기 전에 설계자에게 실행 가능한 피드백을 줄 만큼 풍부한 서술을 산출하여, 전체 CS1 강좌에서 전체 모의 집단과 모든 기준선을 능가합니다. 이는 에이전틱 평가(학습 경험의 대리 비평자로서의 에이전트)를 가르치거나 설계하는 에이전트들과 나란히 에이전틱 AI의 구별되고 저비용인 용도를 자리매김합니다.
@@ -76,10 +76,14 @@ ai_assist:
 
 두 개의 2026년 시스템이 역할 전문화가 사는 것 — 그리고 그것이 값을 치르지 않는 지점 — 을 날카롭게 만듭니다. MeduAI-SP([[ai-standardized-patient-scaffolding-medical-2026|Yang et al., 2026]])는 임상 면접 교수를 네 개의 LLM 에이전트에 나눕니다 — 환자 에이전트, 소크라테스식 튜터 에이전트, 차회 수준 평가자, 그리고 최종 평가자 — 각각 구별되는 교수 기능을 짊어집니다. 이 아키텍처는 설계상 답을 공개하지 않습니다. 튜터는 진단이나 사례 답을 밝히는 것이 금지되었고, 최종 평가자의 OSCE 점수는 생생한 면담 중에 감추어졌습니다. 날것의 모델 능력이 아니라 역할 전문화가 개선된 상담 행동(최종 시험에서 71.8% 대 55.6%)에 공이 돌려가는 것입니다 — 교수법에 정렬된 다중 에이전트 설계를 위한 구체적인 틀을 제공합니다. 두 번째 연구는 그 패턴의 한계를 가리킵니다. 45명의 학생, 15개 집단으로 이루어진 윤리 토론 시스템([[ethics-training-agents-group-ethics-discussion-2026|Seo et al., 2026]])에서, 배려, 의무론, 실용주의 윤리를 구현한 세 LLM 인격은 서로 간에 유의미한 차이를 내지 못했고, 기여·다양성·영향력 모두에서 인간 동료보다 낮게 평가되었습니다(모두 Kruskal-Wallis p < .001). 저자들은 그 차이를 [[ai-sycophancy|sycophantic]] 합의 — 에이전트들이 완전히 틀리지 않은 한 거의 모든 기여를 받아들인 것 — 과 가시적 추론의 부재에 돌리며, 과제 중심의 에이전트 설계가 과정 투명성을 안전장치(오류 가능한 동료 틀 짓기, 전담 Questioning 단계)와 짝지어 [[cognitive-offloading|over-reliance]]를 피해야 한다고 논합니다.
 
-몇몇의 전문화된 에이전트를 조율하는 것을 넘어서는 것은 [[sudarshan-agentic-ai-ecosystems-higher-education-2026|Sudarshan et al. (2026)]]가 제안하는 **완전한 에이전틱 다중 에이전트 생태계**입니다. 기능 간 [[feedback|feedback loops]]와 분산 지능을 통해 학습, 교수, 행정 에이전트를 조율하는 기관 전체 플랫폼입니다. 그것의 구별되는 움직임은 [[inclusive-learning|inclusivity]]를 일류 아키텍처 관심사로 다루는 것입니다 — [[accessibility]], 인지 지원, [[well-being]] 에이전트를 조율하여, 고립된 보조 도구에 의해 봉사받기보다는 [[special-education|special educational needs]]를 지닌 학습자들이 인지적, 감각적, 정서적 차원에 걸쳐 실시간으로 지원되게 합니다. 이 논문은 이것을 **human–AI co-evolution** 루프 안에 놓습니다(인간의 행동과 결정이 AI 적응을 형성하고, 그것이 다시 인간의 능력을 향상합니다) — 이것이 인간을 루프 안에 유지합니다.
+몇몇의 전문화된 에이전트를 조율하는 것을 넘어서는 것은 [[sudarshan-agentic-ai-ecosystems-higher-education-2026|Sudarshan et al. (2026)]]가 제안하는 **완전한 에이전틱 다중 에이전트 생태계**입니다. 기능 간 [[feedback|feedback loops]]와 [[distributed-cognition|분산 지능]]을 통해 학습, 교수, 행정 에이전트를 조율하는 기관 전체 플랫폼입니다. 그것의 구별되는 움직임은 [[inclusive-learning|inclusivity]]를 일류 아키텍처 관심사로 다루는 것입니다 — [[accessibility]], 인지 지원, [[well-being]] 에이전트를 조율하여, 고립된 보조 도구에 의해 봉사받기보다는 [[special-education|special educational needs]]를 지닌 학습자들이 인지적, 감각적, 정서적 차원에 걸쳐 실시간으로 지원되게 합니다. 이 논문은 이것을 **human–AI co-evolution** 루프 안에 놓습니다(인간의 행동과 결정이 AI 적응을 형성하고, 그것이 다시 인간의 능력을 향상합니다) — 이것이 인간을 루프 안에 유지합니다.
 
 - **협력적 문제 해결을 위한 참가자 특정 LLM 에이전트.** Fang (2026)은 협력적 문제 해결 모의에서 각 참가자를 표현하기 위해 실제 참가자들의 대화 데이터로 개별 LLM 에이전트를 미세조정하며, 확률적 화자와 주제 코드 선택, 그리고 슬라이딩 윈도우와 요약된 기억을 사용합니다. [[network-analysis|Epistemic Network Analysis]]로 검증된 이 모의 대화들은 실제 대화들과 통계적으로 구별되지 않습니다(ENA 거리 0.17, 순열 p = 0.65) — 진정한 협력적 담론을 재현하는 에이전틱 AI의 실증입니다.
-- **사회적으로 지능적인 다중 에이전트 튜터링.** ASTRA 같은 사회적으로 지능적인 다중 에이전트 튜터링 프로토타입은 학습자들이 AI와 짝을 이루어 어떻게 조율하는지를 연구하며, 조율과 균형 잡힌 참여를 촉구하기 위해 차별화된 Tutor와 Facilitator 에이전트를 사용합니다. 이 프레임워크의 궤적 기반 평가는 도입 프로그래밍에서의 상호작용, 참여 균형, 그리고 검증의 재현 가능한 분석을 가능하게 합니다.
+- **사회적으로 지능적인 다중 에이전트 튜터링.** ASTRA 같은 사회적으로 지능적인 다중 에이전트 튜터링 프로토타입은 학습자들이 AI와 짝을 이루어 어떻게 조율하는지를 연구하며, 조율과 균형 잡힌 참여를 촉구하기 위해 차별화된 Tutor와 Facilitator 에이전트를 사용합니다. 이 프레임워크의 궤적 기반 평가는 [[cs-education|도입 프로그래밍]]에서의 상호작용, 참여 균형, 그리고 검증의 재현 가능한 분석을 가능하게 합니다.
+
+
+**조직적 답: 수용자가 아니라 참여 구성원으로서의 학습자.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan 외(2026)]]는 인간이 참여하는 다중 에이전트 조직을 구현합니다. 전문화된 에이전트들이 개인 목표, [[multimodal]] 활동, 층위화된 평가를 연결하는 수정 가능한 역량 프로그램(Capability Program)을 유지하고, 수정 가능한 "인간 노드(Human Node)"가 학습자 자신의 증거와 도전을 이후 개정으로 이어 나릅니다. 96개의 모의 학습자 사례에서 가장 가까운 다중 에이전트 기준선과 비교했을 때, 우위는 [[assessment|평가 설계]]에 집중되었습니다. [[assessment-validity|평가 타당성]]에서 19.32점(95% CI [17.55, 21.04]), 역량 포괄 범위에서 5.89점 높았으며, 개인화는 차이를 내지 못했습니다(1.35점, 구간이 0을 가로지름). 무작위 배정된 학습자 32명 연구에서 객관적 50점 시험의 지식 이득은 12.19점 대 5.61점이었습니다.
+
 
 ## 핵심 긴장: 자동화 대 학습
 
@@ -95,7 +99,7 @@ ai_assist:
 
 잘 설계될 때, 에이전틱 AI는 실질적인 이점을 제공합니다.
 
-- **더 깊고, 더 적응적인 개인화.** 지속적인 에이전트는 여러 차회에 걸친 학습 대화를 유지하며, 학습자가 아는 것을 추적하고, 난이도를 적응시키며, 다단계 [[scaffolding]]을 배열할 수 있습니다 — 초기 챗봇의 일회성 응답을 넘어섭니다. 이것은 규모 있게 [[adaptive-learning|adaptive]]와 [[personalized-learning|personalized]] 학습을 떠받칩니다. [[baradziej-agentic-ai-higher-education-2026|Baradziej's (2026)]] 종합에서 이 역할에 대한 가장 강한 증거는 **15–25%**의 학업 향상과 최대 **+40%**의 참여 증가를 보고하며, 일률적 교수법에 의해 제대로 봉사받지 못해 온 학습자들(첫 세대 학생, 학습 차이, 제2언어 학습자)에게 특별한 잠재력을 지닙니다.
+- **더 깊고, 더 적응적인 개인화.** 지속적인 에이전트는 여러 차회에 걸친 학습 대화를 유지하며, 학습자가 아는 것을 추적하고, 난이도를 적응시키며, 다단계 [[scaffolding]]을 배열할 수 있습니다 — 초기 챗봇의 일회성 응답을 넘어섭니다. 이것은 규모 있게 [[adaptive-learning|adaptive]]와 [[personalized-learning|personalized]] 학습을 떠받칩니다. [[baradziej-agentic-ai-higher-education-2026|Baradziej's (2026)]] 종합에서 이 역할에 대한 가장 강한 증거는 **15–25%**의 학업 향상과 최대 **+40%**의 참여 증가를 보고하며, 일률적 교수법에 의해 제대로 봉사받지 못해 온 학습자들(첫 세대 학생, 학습 차이, [[multilingual-learning|제2언어 학습자]])에게 특별한 잠재력을 지닙니다.
 - **일상적 교수 업무에서의 부담 덜기.** 에이전트는 수업을 계획하고, 질문을 생성하고 검증하며, 피드백 초안을 작성하고, 전문화된 하위 에이전트를 조율할 수 있습니다(예컨대 질문 생성을 위한 생성기 + 검증기). 이는 교수자들을 더 높은 가치의 상호작용을 위해 자유롭게 합니다. 이것이 [[ai-tpack-teacher-multi-agent-workflow|teacher-facing multi-agent workflows]]의 약속입니다. 특히 평가 에이전트는 **인간 채점자와 90–95%의 일치와 채점 시간 50–70% 감소**를 보고하지만, 같은 증거가 [[bias-mitigation|bias]]와 즉각적이고 성찰 없는 피드백의 [[metacognition|metacognitive]] 비용을 표시합니다.
 - **풍부하고 다양한 상호작용.** 다중 에이전트 교실과 모의 동료들은 단일 에이전트 시스템이 할 수 없는 다양한 상호작용 역학(동료 같은 담론, 건설적 반대, 역할극)을 만들어내어, [[collaborative-learning]], [[socratic-method|Socratic-style probing]], 그리고 [[simulation]]을 떠받칩니다.
 - **생산적 마찰.** 동의하기보다 도전하도록 설계된 에이전트는 학습자를 더 깊은 재고로 밀 수 있습니다. [[ai-agents-constructive-conflict-design-education-2026|Research on adversarial design agents]]는 건설적 갈등 에이전트가 유의미하게 더 많은 설계 반복, 더 넓은 탐색, 그리고 더 높이 평가된 최종 설계(N=48)를 촉구했음을 보이며, 이것은 [[desirable-difficulties|desirable difficulty]]의 한 형태입니다.
@@ -134,7 +138,7 @@ ai_assist:
 
 모든 에이전틱 행동이 매끄러운 조력일 필요는 없습니다. [[ai-agents-constructive-conflict-design-education-2026|Research on adversarial design agents]]는 **건설적 갈등**을 실천하는 에이전트가 초보 상호작용 설계자들(N=48) 사이에서 유의미하게 더 많은 설계 반복, 대안들의 더 넓은 탐색, 그리고 더 높이 평가된 최종 설계를 촉구했음을 보이며, 이것은 *생산적 마찰* 역학으로, 갈등 에이전트는 좌절스러웠으나 궁극에는 도움이 되었습니다. 이것은 [[socratic-method|Socratic questioning]]과 [[design-thinking]]과 연결되며, 에이전틱 AI가 수동적 수용보다 깊은 재고를 어떻게 떠받칠 수 있는지를 보여줍니다.
 
-에이전틱 AI가 학습 결과에 이르는 방식이 *기술적*이 아니라 *심리적* 경로를 통한다는 한 연구가 빠진 측정 각도를 제공합니다. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]]는 인도의 경영학 학생 398명을 대상으로 설문하여, 상호작용성, 정보 공유, 그리고 지각된 [[community-of-inquiry|social presence]]와 나란히 자율성, 유능감, 관계성을 모델링했습니다. 자율성이 가장 강한 동기 동인이었고(β = 0.504), 상호작용성이 가장 강한 사회적 동인이었으며(0.468), 동기와 사회적 존재가 거의 같은 강도로 [[student-engagement|engagement]]를 먹여(0.533과 0.493), 그것이 다시 지각된 학습 수행을 예측했습니다(0.671). 설계 교훈은 사회적 경로가 자동적이지 않다는 것입니다. 협력적 환경 구성 개념이 지각된 사회적 존재를 움직인 것은 단순한 응답성과 정보 공유보다 덜했으므로, 에이전트를 참가자가 아니라 채팅 인터페이스로 대하는 것은 그 경로의 대부분을 쓰지 않은 채 남겨둡니다.
+에이전틱 AI가 학습 결과에 이르는 방식이 *기술적*이 아니라 *심리적* 경로를 통한다는 한 연구가 빠진 측정 각도를 제공합니다. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]]는 인도의 경영학 학생 398명을 대상으로 설문하여, 상호작용성, 정보 공유, 그리고 지각된 [[community-of-inquiry|social presence]]와 나란히 자율성, 유능감, 관계성을 모델링했습니다. 자율성이 가장 강한 [[motivation|동기]] 동인이었고(β = 0.504), 상호작용성이 가장 강한 사회적 동인이었으며(0.468), 동기와 사회적 존재가 거의 같은 강도로 [[student-engagement|engagement]]를 먹여(0.533과 0.493), 그것이 다시 지각된 학습 수행을 예측했습니다(0.671). 설계 교훈은 사회적 경로가 자동적이지 않다는 것입니다. 협력적 환경 구성 개념이 지각된 사회적 존재를 움직인 것은 단순한 응답성과 정보 공유보다 덜했으므로, 에이전트를 참가자가 아니라 채팅 인터페이스로 대하는 것은 그 경로의 대부분을 쓰지 않은 채 남겨둡니다.
 
 ## 교수자와 교수 설계자를 위한 함의
 
@@ -230,3 +234,6 @@ ai_assist:
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — 소프트웨어 PBL에서의 AI 에이전트를 활용한 SDD; 자동화 대 이해
 - [[ai-standardized-patient-scaffolding-medical-2026]] — 임상 면접 훈련을 위한 스캐폴딩 지향 다중 에이전트 대규모 언어 모델 시스템의 평가
 - [[ethics-training-agents-group-ethics-discussion-2026]] — 윤리 훈련 에이전트: 윤리적 성찰과 탐구를 위한 역할극과 토론을 통한 집단 기반 윤리 교육 촉진
+
+- [[jingru-fan-agentic-university-collaborative-agents-2026]] — 수정 가능한 역량 프로그램을 중심으로 조직된 에이전트, 구성원으로서의 학습자
+

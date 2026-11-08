@@ -1,7 +1,7 @@
 ---
 title: 문제 기반 학습
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:36-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 
-> **문제 기반 학습(PBL)** — 학생들이 현실적이고 종종 비구조적인 문제를 이해하고 해결하기 위해 일하면서 지식과 기술을 습득하는 학습자 중심 교수법으로, 촉진자가 교수를 전달하기보다 탐구를 안내합니다. AI 시대에 PBL의 구조적 특징 — 문제 주도 탐구, [[collaborative-learning|협업적 지식 구성]], 교수보다 촉진, 그리고 [[metacognition|초인지적 성찰]] — 은 [[generative-ai|생성 AI]] 통합이 대체적이 아니라 교육적으로 생산적이 되는 바로 그 조건으로 부상했습니다.
+> **문제 기반 학습(PBL)** — 학생들이 현실적이고 종종 비구조적인 문제를 이해하고 해결하기 위해 일하면서 지식과 기술을 습득하는 학습자 중심 교수법으로, 촉진자가 교수를 전달하기보다 탐구를 안내합니다. AI 시대에 PBL의 구조적 특징 — 문제 주도 탐구, [[collaborative-learning|협업적 지식 구성]], 교수보다 촉진, 그리고 [[reflection|초인지적 성찰]] — 은 [[generative-ai|생성 AI]] 통합이 대체적이 아니라 교육적으로 생산적이 되는 바로 그 조건으로 부상했습니다.
 
 ## 생각해 볼 질문들
 
@@ -37,18 +37,17 @@ ai_assist:
 
 PBL은 의학 교육(McMaster University, 1960년대)에서 비롯하여 이후 [[medical-education|보건 전문직]], 공학, 그리고 [[k-12]]로 퍼졌습니다. 학습자는 학습 욕구를 진단하고, 자원을 파악하며, 해결책을 구성할 책임을 지는 반면, 촉진자는 그 과정에 비계를 떠받칩니다. PBL의 독특한 주장은 *문제*가 교과 과정의 동력이라는 것 — 다른 곳에서 가르친 내용의 예시가 아니라 내용이 학습되는 맥락이라는 것 — 입니다.
 
-
 [[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi and van der Merwe (2026)]]는 직접적인 비교를 제시합니다. 문제 기반 대화 열 개는 대화를 지속하며 더 깊은 설명에 이르렀고, 구조화된 절차적 대화 서른 개는 묻고 답하고 고맙다고 말하는 형태로 무너져 끝났습니다.
 
 ## AI 시대의 PBL
 
 지식 기반의 [[research-methods-aied|연구]]는 PBL이 생산적인 AI 통합에 대한 사유의 초점이 되었음을 보여 줍니다.
 
-- **PBL의 구조적 조건이 AI 통합을 생산적으로 만든다.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]]는 PBL의 핵심 특징 — 문제 주도 탐구, 협업적 구성, 촉진, 초인지적 성찰 — 이 AI가 지름길이 아니라 [[educational-development|전문성 개발]]의 동료로 기능하는 바로 그 조건이라고 주장합니다. 이 조화는 구조적이며 소급적이지 않습니다. PBL은 AI가 존재하기 전에 전문적 역량이 반복적 실행이 아니라 적응적 판단을 필요로 한다는 인식에 뿌리를 두고 이러한 조건들을 중심으로 설계되었습니다.
+- **PBL의 구조적 조건이 AI 통합을 생산적으로 만든다.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]]는 PBL의 핵심 특징 — 문제 주도 탐구, 협업적 구성, 촉진, [[metacognition|초인지적]] 성찰 — 이 AI가 지름길이 아니라 [[educational-development|전문성 개발]]의 동료로 기능하는 바로 그 조건이라고 주장합니다. 이 조화는 구조적이며 소급적이지 않습니다. PBL은 AI가 존재하기 전에 전문적 역량이 반복적 실행이 아니라 적응적 판단을 필요로 한다는 인식에 뿌리를 두고 이러한 조건들을 중심으로 설계되었습니다.
 - **AI가 문제 복잡성의 상한을 높인다.** 같은 논증은 AI가 PBL이 다룰 수 있는 문제의 범주를 확장하여, "wicked problems"와 복잡한 실제 사례를 이전에는 이르지 못했던 학생들에게 접근 가능하게 만든다고 합니다.
 - **artifact-as-proxy 문제.** AI는 제출된 산출물과 그것을 만들어 낸 [[student-engagement|참여]] 사이의 연결을 끊습니다. 이것은 PBL이 산출물이 아니라 *과정*과 드러난 이해를 평가하기 때문에 잘 대처할 수 있는 문제입니다. 이것은 PBL을 [[authentic-assessment|진정한]] 평가 및 [[process-oriented-assessment|과정 기반 평가]], 그리고 지식 기반의 [[cognitive-offloading|과잉 의존]] 문헌과 연결합니다.
 
-GenAI 지원 PBL을 프로젝트 기반 학습과 함께 묶는 3수준 메타 분석은 산출물과 해결책 수행을 별도의 모형에 두는데, 그것이 내면화된 학습이 아니라 인간-AI 협업 산출물을 측정하기 때문이며, 그 추정치는 검토자들이 보고한 것 가운데 가장 큽니다(g = 1.958). 하지만 단 6개 연구에만 기반하고 0을 가로지르는 대략 [−0.740, 4.656]의 95% 예측 구간을 지니고 있어, 위의 artifact-as-proxy 주의의 양적 형태가 됩니다([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
+GenAI 지원 PBL을 프로젝트 기반 학습과 함께 묶는 3수준 메타 분석은 산출물과 해결책 수행을 별도의 모형에 두는데, 그것이 내면화된 학습이 아니라 인간-AI 협업 산출물을 측정하기 때문이며, 그 추정치는 검토자들이 보고한 것 가운데 가장 큽니다(g = 1.958). 하지만 단 6개 연구에만 기반하고 0을 가로지르는 대략 [−0.740, 4.656]의 95% 예측 구간을 지니고 있어, 위의 artifact-as-proxy 주의의 [[quantitative-research|양적]] 형태가 됩니다([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
 - **[[scaffolding|적응적 비계]]로서의 ChatGPT.** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|La Sunra et al. (2026)]]는 AI 강화 PBL 프레임워크 안에 적응적 비계로 통합된 ChatGPT가 K-12(8학년 120명)에서 [[critical-thinking|비판적 사고]]와 [[personalized-learning|개인화된 학습]]을 향상시키는 것을 보여 줍니다. 이것은 AI를 답을 내는 기계가 아니라 PBL 안의 지원으로 다룹니다.
 - **집단사고에 맞서는 이견 주입 에이전트.** 직업 간 PBL 세션에서 세 개의 지정된 시점에 목소리를 낸 genAI 에이전트가 논쟁적인 관점을 도입했고, 학생들은 그것을 반박하는 것이 발언할 수 있는 사회적으로 허용되는 방법을 주었다고 보고했습니다. 에이전트의 응답을 거부할 때에도 그 불일치가 성찰을 자극했습니다([[genai-counter-learner-groupthink-2025|Wiss et al. (2025)]]).
 - **예비 교사 준비로부터의 준실험적 근거.** [[chen-osman-preservice-physics-tpack-ctd-pbl-2026|Chen and Osman (2026)]]는 130명의 3학년 예비 [[physics-education|물리]] 교사(조건당 65명)에게 8주간의 AI 지원 CTD-PBL 모듈을 전통적 교수와 비교하며, 과업별 프롬프트 템플릿을 통해 DeepSeek을 제한된 비계로 사용했습니다. 수업 아이디어 생성, 자원 조직, 설명 비교, 또래 피드백 프롬프트, 수정 계획이 그것이며, 모든 AI 출력은 내용의 정확성, 교수법적 적절성, 실현 가능성, 그리고 [[ethics]]에 대한 검증을 통과해야 교수 인공물로 들어갈 수 있었습니다. 모듈 집단은 더 높은 사후 [[tpack|TPACK]](M = 4.04 대 3.40, d = 1.02)과 더 높은 지각된 [[problem-solving|협업적 문제 해결]](M = 3.62 대 3.05, d = 0.88)을 보고했으며, 가장 큰 상호작용 효과는 공유된 지식 구성과 사회적 규제에 나타났습니다. 이것은 바로 위의 구조적 논증이 AI가 강화하기보다 지름길로 만들 것이라고 예측하는 협업적 과정 차원입니다. 저자들은 AI가 독립 변수로 분리되지 않았다고 명시합니다. 그 차이는 문제 기반 과업, 구조화된 협업, [[teacher-role|교수자]] 비계, [[peer-assessment|또래 피드백]], 성찰적 수정이라는 전체 조건에 부착되며, 두 결과 모두 관찰된 실행이 아니라 [[self-report-measures|자기 보고]] 인식이었습니다.
@@ -62,6 +61,10 @@ GenAI 지원 PBL을 프로젝트 기반 학습과 함께 묶는 3수준 메타 �
 ## PBL과 관련 교수법
 
 PBL은 [[project-based-learning|프로젝트 기반 학습]]과 밀접하게 관련되어 있습니다. 둘 다 학습자 중심이고 문제/맥락 주도적입니다. 그러나 PBL은 탐구와 지식 구성을 요구하는 비구조적인 *문제*를 중심에 두는 반면, 프로젝트 기반 학습은 유형의 *산출물*이나 프로젝트를 만들어 내는 것을 중심에 둡니다. PBL은 사례 기반 학습과 [[inquiry-based-learning|탐구 기반 학습]]과도 가까운 친척이며, 이들은 문제 주도적이고 촉진 주도적인 구조를 공유합니다. 지식 기반의 지도에서 생산적인 AI 통합을 위한 구조적 논증은 PBL만이 아니라 이러한 특징을 공유하는 모든 교수법에 적용됩니다.
+
+
+[[case-based-learning|사례 기반 학습]]이 더 가까운 이웃입니다. 그것은 준비된 사례와 정의된 교수 목표에서 출발하는 반면, PBL은 문제를 더 열린 채로 두고 탐구를 학생 주도로 남깁니다.
+
 
 ## AI 통합에 PBL이 중요한 이유
 
@@ -80,6 +83,9 @@ PBL은 산출물 생산보다 과정, 협업, 드러난 이해를 전면에 내�
 ## 연결된 개념
 
 - [[project-based-learning]]
+
+- [[case-based-learning]] — 준비된 사례와 사례 토론, PBL의 열린 탐구와 구별됨
+
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[scaffolding]]

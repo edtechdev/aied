@@ -1,7 +1,7 @@
 ---
 title: 이론과 틀
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-25T18:35:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 이것들은 메커니즘을 설명합니다. 즉 일을 하는 부분들의 이름을 짓고, 그 부분들이 변할 때 무엇이 뒤따르는지를 예측합니다. AI 문헌에서 이것들은 대부분 심리학과 [[learning-sciences|학습과학]]에서 빌려 와서, 새로운 도구를 두르는 해석적 틀로 쓰입니다.
 
 - **[[learning-theories|학습 이론(총괄)]]** — 전체 계열로, [[behaviorism|행동주의]]와 [[constructivist|구성주의]]라는 고전적 두 극과 AI 구현에서 되풀이되는 "이름으로는 구성주의, 실천으로는 행동주의" 간극을 포함합니다. 연결주의와 인지 부하 이론도 여기서 다룹니다.
-- **[[constructivist|구성주의]]** — 능동적 지식 구성을 학습으로 봅니다. 이것은 프로젝트 기반 작업, 대화 기반 AI 튜터링, 그리고 연습-피드백 시스템이 자신이 표명한 교수법을 위반한다는 비판을 떠받칩니다.
+- **[[constructivist|구성주의]]** — 능동적 지식 구성을 학습으로 봅니다. 이것은 [[project-based-learning|프로젝트 기반]] 작업, 대화 기반 [[intelligent-tutoring|AI 튜터링]], 그리고 연습-피드백 시스템이 자신이 표명한 교수법을 위반한다는 비판을 떠받칩니다.
 - **[[sociocultural-learning|사회문화 이론]]** — 학습을 도구와 사회적 상호작용에 의해 매개되는 것으로 보며, 이것이 AI가 단순한 보조물이 아니라 매개의 산출물로 이론화되는 이유입니다.
 - **[[activity-theory-aied|활동 이론]]** — 모순을 포함한 활동 시스템 전체를 분석 단위로 삼습니다. 교사 대상 AI 연구에서 흔하며, 거기서 흥미로운 발견은 대개 도구·규칙·공동체 사이의 긴장입니다.
 - **[[situated-learning|상황 학습]]**과 **[[embodied-learning|구현화 학습]]** — 학습을 맥락과 몸에 묶인 것으로 보며, AI를 순전히 언어적 매체로 대하는 것에 대한 균형추입니다.
@@ -48,8 +48,8 @@ ai_assist:
 - **[[community-of-inquiry|탐구 공동체]]** — 온라인 경험이 작동하게 만드는 사회적·인지적·교수적 존재이며, 경험의 이론이자 동시에 설계 틀입니다.
 - **[[self-determination-theory|자기결정 이론]]** — 동기의 선행 조건으로서의 자율성, 유능감, 관계성. AI 사용이 학습을 높이지 않으면서 참여를 높일 때 흔히 제시되는 설명입니다.
 - **[[cognitive-psychology|인지주의]]** — 정보처리, 작업 기억, 그리고 학습의 느낌과 실제 학습 사이의 괴리.
-- **사회적 지각 이론(따뜻함과 유능함)** — 사회 인지와 서비스 로봇 연구에서 들여온 이론으로, 사용자가 AI 에이전트의 신빙성을 어떻게 판단하는지를 틀 짓습니다. 지각된 유능함은 ChatGPT 피드백의 신빙성을 직접 예측한 반면, 따뜻함은 인간다운 공감을 통해서만 작동했습니다(구조방정식, 학생 230명; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
-- **네 번째 어포던스 범주는 시험된 것이 아니라 제안되었습니다.** 세 갈래 어포던스 체계에 24편의 연구를 코딩한 검토자들은 참여, 안전, 자기효능감이 기술적, 교수법적, 사회적 범주에 들어맞지 않는다는 것을 발견하고, Bandura의 상호 결정론에 근거한 정서적 어포던스를 제안했습니다([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+- **사회적 지각 이론(따뜻함과 유능함)** — 사회 인지와 서비스 로봇 연구에서 들여온 이론으로, 사용자가 [[agentic-ai|AI 에이전트]]의 신빙성을 어떻게 판단하는지를 틀 짓습니다. 지각된 유능함은 ChatGPT 피드백의 신빙성을 직접 예측한 반면, 따뜻함은 인간다운 공감을 통해서만 작동했습니다(구조방정식, 학생 230명; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
+- **네 번째 어포던스 범주는 시험된 것이 아니라 제안되었습니다.** 세 갈래 어포던스 체계에 24편의 연구를 코딩한 검토자들은 참여, 안전, 자기효능감이 기술적, [[pedagogy|교수법적]], 사회적 범주에 들어맞지 않는다는 것을 발견하고, Bandura의 상호 결정론에 근거한 정서적 어포던스를 제안했습니다([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
 ## 학습자와 학습 과정의 모형
 
@@ -65,16 +65,16 @@ ai_assist:
 
 - **[[tpack|TPACK]]** — 기술, 교수법, 내용을 혼합하는 교사 지식이며, 교사 대상 AI 연구의 기본 틀입니다.
 - **[[technology-acceptance-model|수용 모형]]** — 지각된 유용성과 사용 용이성의 함수로서의 의도. 이 분야가 행동이 아니라 의도에 의존하는 것이 오래된 비판이 될 만큼 널리 쓰입니다.
-- **[[icap-framework|ICAP]]** — 참여를 수동적·능동적·구성적·상호작용적으로 위계화하며, 한 AI 상호작용이 실제로 어떤 방식을 제공하는지를 묻는 데 유용합니다.
+- **[[icap-framework|ICAP]]** — 참여를 수동적·능동적·구성적·상호작용적으로 위계화하며, 한 [[student-ai-interaction|AI 상호작용]]이 실제로 어떤 방식을 제공하는지를 묻는 데 유용합니다.
 - **[[samr-model|SAMR]]** — 대체에서 재정의에 이르는 것. 성숙 서사로서는 인기 있지만, 측정 기구로서는 약합니다.
-- **[[universal-design-for-learning|보편적 학습 설계]]**, **[[inclusive-learning|포용적 학습]]**, and **[[accessibility|접근성]]** — 누구에게 서비스가 닿는지를 위한 설계 틀이며, 장애와 형평성 작업에서 가장 자주 불러 쓰이는 것들입니다.
+- **[[universal-design-for-learning|보편적 학습 설계]]**, **[[inclusive-learning|포용적 학습]]**, and **[[accessibility|접근성]]** — 누구에게 서비스가 닿는지를 위한 설계 틀이며, 장애와 [[equity-in-ai-education|형평성]] 작업에서 가장 자주 불러 쓰이는 것들입니다.
 - **[[learning-design|학습 설계]]**, **[[curriculum-design|교육과정 설계]]**, **[[design-thinking|디자인 사고]]** — 어떤 도구를 고르기에 앞서 과제, 순서, 프로그램이 어떻게 구조화되는가입니다.
 - **[[change-management|변화 관리]]** — 한 시스템이 전혀 채택되는가이며, 이것은 대개 교수법적 질문이라기보다 제도적 질문입니다.
 
 ## 측정과 계산 모형
 
 - **[[item-response-theory|문항 반응 이론]]** — 문항과 능력 추정이며, 한 시험의 숫자를 해석 가능하게 만드는 모형입니다.
-- **[[educational-measurement|교육 측정]]** — 기구의 지형으로, AI 리터러시를 위해 특별히 만들어진 측정 도구들을 포함합니다.
+- **[[educational-measurement|교육 측정]]** — 기구의 지형으로, [[ai-literacy|AI 리터러시]]를 위해 특별히 만들어진 측정 도구들을 포함합니다.
 - **[[assessment-validity|타당성]]** — 한 기구가 자신이 주장하는 구성 개념을 측정하는지의 여부이며, 보고된 결과가 그것에 붙은 이론적 주장을 떠받치는지를 결정합니다.
 - **[[self-report-measures|자기보고 측정]]** — 이 문헌에서 지배적이면서도 가장 연약한 증거 원천이며, 위의 여러 구성 개념은 자기보고와 수행 사이에서 크게 달라지는 것으로 알려져 있습니다.
 - **[[knowledge-tracing|지식 추적]]**과 **[[student-modeling|학생 모형화]]** — 상호작용 자료로부터 시간에 따른 학습자의 상태를 추정하기.
@@ -86,7 +86,7 @@ ai_assist:
 
 지식베이스의 네 가지 제안은 이론을 빌리지 않고 세웁니다. 이것들은 각각이 단 하나의 논증이므로 개념 노드가 아니라 논문 페이지입니다.
 
-- **[[generativism-learning-theory|생성주의]]** — 고전적 네 이론이 생성형 AI의 확산에 따라 상당한 개념적 한계를 보인다고 주장하는 새로운 학습 이론.
+- **[[generativism-learning-theory|생성주의]]** — 고전적 네 이론이 [[generative-ai|생성형 AI]]의 확산에 따라 상당한 개념적 한계를 보인다고 주장하는 새로운 학습 이론.
 - **[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|인식론적 공동 자율성]]** — 학습자와 AI 시스템이 어떻게 공동으로 지식과 이해를 생산하는지에 관한 모형.
 - **[[absent-cognitive-baseline-2026|결여된 인지 기저선]]** — AI가 수행을 부풀릴 때 AI 토착 학생들이 자신의 학습을 과대평가하는 이유를 이론화합니다.
 - **[[yan-agentivism-learning-theory-ai-2026|에이전티비즘]]** — 네 메커니즘(위임된 자율성, 인식론적 점검과 검증, 재구성적 내면화, 축소된 지원하에서의 전이)에 이름을 붙이고 여섯 검증 가능 명제를 제시하는 중범위 이론.
@@ -102,7 +102,7 @@ ai_assist:
 
 ## 관련 층위
 
-두 이웃 페이지는 의도적으로 다른 무언가에 관한 것입니다. [[philosophy-of-ai-in-education|교육에서의 AI의 철학]]은 규범적·개념적 질문, 즉 교육이 *무엇을 위한* 것인지, 기계가 가르칠 수 있는지를 묻으며, 효과크기를 예측하지 않습니다. 한 연구는 철학적으로 순진하면서도 이론적으로 건전할 수 있고, 그 반대도 가능합니다. [[theory-development-aied|이론 개발]]은 이론을 세우고, 빌리고, 개정하는 메타 활동으로, AIED 작업의 상당수가 기존 이론을 검정하기보다 적용한다는 오래된 비판을 포함합니다. 이 페이지는 목록이고, 이론 개발은 그 목록을 생산하고 개정하는 일에 관한 것입니다.
+두 이웃 페이지는 의도적으로 다른 무언가에 관한 것입니다. [[philosophy-of-ai-in-education|교육에서의 AI의 철학]]은 규범적·개념적 질문, 즉 교육이 *무엇을 위한* 것인지, 기계가 가르칠 수 있는지를 묻으며, 효과크기를 예측하지 않습니다. 한 연구는 철학적으로 순진하면서도 이론적으로 건전할 수 있고, 그 반대도 가능합니다. [[theory-development-aied|이론 개발]]은 이론을 세우고, 빌리고, 개정하는 메타 활동으로, [[ai-education|AIED]] 작업의 상당수가 기존 이론을 검정하기보다 적용한다는 오래된 비판을 포함합니다. 이 페이지는 목록이고, 이론 개발은 그 목록을 생산하고 개정하는 일에 관한 것입니다.
 
 ## 질문이 실천적일 때 렌즈를 고르기
 
@@ -116,7 +116,7 @@ ai_assist:
 틀은 증거가 아닙니다. 그것들은 대개 LLM 이전의 맥락에서 빌려 와서 적용하는 사람에 따라 현지화되고, 브랜딩으로 기능할 수 있으며, 단계 모형은 학습이 아니라 단계 사이의 이동을 보고하는 체크박스 채택을 부추깁니다. 틀에 기대는 주장은 [[limitations-in-aied-research|이 분야의 관통하는 한계]], 결과를 측정한 것의 [[assessment-validity|타당성]], 그리고 [[self-report-measures|자기보고]]의 알려진 한계와 나란히 읽혀야 합니다.
 
 
-메커니즘-이론 정렬은 그럼에도 결정적일 수 있습니다. 즉 AI 지원 게임 기반 학습 연구 55편에 대한 주제적 종합은 효과가 알고리즘의 정교함이 아니라 AI 메커니즘이 그것이 섬기기로 된 교수법을 실행했는지에 달려 있음을 발견했습니다([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]]).
+메커니즘-이론 정렬은 그럼에도 결정적일 수 있습니다. 즉 AI 지원 [[game-based-learning|게임 기반 학습]] 연구 55편에 대한 주제적 종합은 효과가 알고리즘의 정교함이 아니라 AI 메커니즘이 그것이 섬기기로 된 교수법을 실행했는지에 달려 있음을 발견했습니다([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]]).
 
 ## 흔한 오해
 

@@ -1,7 +1,7 @@
 ---
 title: 웰빙
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:06:30-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ ai_assist:
 - **[[ai-literacy|AI 리터러시]]와 사회정서 학습:** [[sec-ai-literacy-narrative-review-2026|SEC를 AI 리터러시에 통합하는 연구]]는 교육자와 학생의 정서 지능과 웰빙을 기르는 것이 AI-[[sociocultural-learning|매개 학습]] 환경을 항해하는 데 필수적이라고 논하며, [[social-emotional-learning]]과 AI의 정서적 차원에 연결됩니다.
 - **AI 불안과 학생 경험:** 학생의 AI 참여에 관한 연구들(예: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDT 기반 연구]])은 AI 사용이 불안, 신뢰, 자신감과 얽혀 있으며, 학문적 정직성, [[creativity]], [[cognitive-offloading|과잉 의존]]에 대한 우려로 학생의 웰빙이 영향받음을 발견합니다.
 - **시험 불안은 제거되는 것이 아니라 재분배됩니다.** [[mulvenon-test-anxiety-ai-accountability-2026|Mulvenon(2026)]]은 [[assessment]]가 일회적 고부담 시험에서 지속적이고 자료 기반인 평가로 옮겨감에 따라, 알고리즘적 책무성이 새로운 압력 체계를 더한다고 논합니다. 그 기제, 즉 즉시성, 가시성, 자료의 영속성은 급성 시험 스트레스를 좀처럼 보고되지 않는 확산적이고 지속적인 수행 감시로 바꿉니다.
-- **불안 감소가 반드시 이로운 것은 아닙니다.** 대학 입학 전 학생 35명을 대상으로 한 균형설계 개인 내 연구에서, LLM 증강 대화형 에이전트는 구술 평가 중 자기보고 불안을 낮췄으나(차분함 6.50 대 5.86, p = .028), 저자들은 중간 수준의 불안이 촉진적일 수 있음을 경계하고 성취 점수는 기록하지 않았습니다([[aivaluate-anxiety-assessment-2026|Yusuf, Money와 Daylamani-Zad(2026)]]).
+- **불안 감소가 반드시 이로운 것은 아닙니다.** 대학 입학 전 학생 35명을 대상으로 한 균형설계 개인 내 연구에서, LLM 증강 대화형 에이전트는 [[oral-assessment|구술 평가]] 중 [[self-report-measures|자기보고]] 불안을 낮췄으나(차분함 6.50 대 5.86, p = .028), 저자들은 중간 수준의 불안이 촉진적일 수 있음을 경계하고 성취 점수는 기록하지 않았습니다([[aivaluate-anxiety-assessment-2026|Yusuf, Money와 Daylamani-Zad(2026)]]).
 
 - **높은 승인이 부담과 공존할 수 있으며, AI 과업 압력이 그 이익을 약화시킵니다.** 1학년 학생 551명 가운데 82.76%가 디지털·지능형 내용의 통합을 승인한 반면 69.51%는 [[anxiety-and-stress|불안]]이나 긴장을 보고했고, AI 숙련도-적응 기울기는 AI 과업 압력이 오르며 0.42에서 0.20으로 떨어졌습니다([[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin(2026)]]).
 
@@ -55,7 +55,7 @@ ai_assist:
 - **문화적으로 [[situated-learning|상황화된]] 웰빙 지원과 그 한계:** [[culturally-aware-student-stress-chatbot-2026|Bashir와 Afzal(2026)]]은 파키스탄 대학 학생을 위한 하이브리드 웰빙 시스템 Sukoon을 설명합니다 — Random Forest 스트레스 분류기(세 가지 심각도 수준에 대해 89.09% 정확도; 설문 특성 20개)와 Stepped Care Model에 따라 세 단계로 어조와 지원 강도를 높이는 [[llm]] 대화 층위의 결합입니다. 이것은 서구 설계 정신 건강 도구가 영어로 되어 있고, 우르두어나 로만 우르두어로 고통을 표현하고 학업·재정·가족·관계 스트레스를 동시에 맞는 학생들에게 문화적으로 맞지 않기에 만들어졌습니다. 저자들은 이것이 [[medical-education|임상]] 진단이나 치료 도구가 아니며, 고강도 고통 반응은 전문 상담을 향해야 하고, 챗봇 층위는 학생을 대상으로 문화적 적절성이나 정서적 안전에 대해 아직 평가되지 않았음을 명확히 합니다.
 - **교사 웰빙과 역할:** AI가 [[teacher-role|교사]]에 미치는 영향 — 업무량, 파괴적 기술로 가르치는 것에 대한 불안, 정서적 지원을 제공할 역량 포함 — 은 되풀이되는 우려이며, [[teacher-ai-competency]]와 [[educational-development|전문성 개발]]에 연결됩니다.
 
-502명 대학 교원에 대한 구조 방정식 모형은 AI 리터러시가 기술적 자기효능감(β = 0.082)보다 훨씬 강하게(β = 0.713) AI 웰빙을 예측하고, 사회적·조직적 지원은 웰빙에 간접적으로만 이르렀음을 발견했습니다 — 역량이, 격려가 아니라 효과를 나른 것입니다([[faculty-ai-well-being-social-supports-2026|Liu 등(2026)]]).
+502명 대학 교원에 대한 구조 방정식 모형은 AI 리터러시가 기술적 [[self-efficacy|자기효능감]](β = 0.082)보다 훨씬 강하게(β = 0.713) AI 웰빙을 예측하고, 사회적·조직적 지원은 웰빙에 간접적으로만 이르렀음을 발견했습니다 — 역량이, 격려가 아니라 효과를 나른 것입니다([[faculty-ai-well-being-social-supports-2026|Liu 등(2026)]]).
 
 - **AI 지원 교사 발달의 평가 기준으로서의 관계 밀집화:** [[ai-emotional-intelligence-teacher-development-2026|Aponte 등(2026)]]은 AI가 인간 동반의 상징적 대체물이 아니라 관계적 기반시설로 기능할 때에만 교사의 사회정서 발달을 뒷받침한다고 논합니다. 이들은 AI 지원 전문성 개발 이니셔티브를 판단하는 기준으로 **관계 밀집화**를 제안합니다 — 신뢰, 멘토링, 동료 지원, 협력, 심리적 안전, 고립 감소를 강화하는지 여부 — 그리고 이 관계들이 교실 풍토, [[pedagogy|교수법적]] 반응성, 사회정서 지원을 통해 학생에게 하류 효과를 가짐을 지적합니다. 이 종합은 또한 정서적 데이터 [[governance]]와 교육 AI의 정치경제가 뚜렷한 윤리적 위험을 지님을 경계하며, [[ai-literacy|비판적 AI 리터러시]]를 사회정서 역량으로 틉니다.
 
@@ -65,6 +65,9 @@ ai_assist:
 ### 설계 고려사항으로서의 웰빙
 
 되풀이되는 주제는 웰빙이 AI 교육에서 의도적인 설계 고려사항이어야지 사후 고려가 아니라는 것입니다. 이것은 다음을 의미합니다: AI가 인간 관계를 대체하기보다 지원하도록 설계하는 것; 학생이 [[anxiety-and-stress|AI 유발 불안]]이나 과잉 의존을 경험하기보다 주체성과 자신감을 유지하게 하는 것; AI를 통합하는 교육자의 역량과 웰빙을 뒷받침하는 것; 그리고 [[learning-gains|학습 결과]]뿐 아니라 AI 시스템의 학생과 교사 웰빙에 대한 효과에 대해서도 [[ai-ed-evaluation|AI를 평가]]하는 것. [[research-methods-aied|연구]]는 웰빙을 [[motivation]], [[self-regulated-learning]], [[student-experience]](소속과 참여)에 연결합니다. [[daoism-ai-education-philosophy-2026|Xie(2026)]]은 여기에 맞는 교육적 목적을 주장합니다: 도가의 "Zhenren"(真人) 반이상이 마찰 없는 최적화를 "기른 전체성"으로 대체하고, 학습을 자아, 사회, 우주의 조화로운 통합으로 재구상하며, "어떤 학생도 단지 관리될 데이터셋이 아니라 평정을 이룰 수 있는 전체 존재"임을 고집합니다.
+
+
+**사회정서적 증거 기반은 누가 행동해야 하는지를 말하지 않습니다.** AI와 [[social-emotional-learning|사회정서 학습]]이 교차하는 지점의 65개 연구에 대한 [[meta-analysis-systematic-review|체계적 검토]]는 거의 4분의 3이 정책적 함의를 언급하지 않았고, 언급한 소수도 프라이버시, [[teacher-education|교사 훈련]], 자원 배분에 대해 행위자별 지침을 거의 제공하지 않았음을 발견했습니다([[policy-deficit-ai-sel-2026|Tran, Liu and Nguyen (2026)]]). 따라서 설계 고려사항으로서의 웰빙은 효과에 관한 증거는 있으나 책임에 관해서는 거의 없으며, 누가 그것을 위해 설계할 것인가라는 질문을 문헌이 아니라 기관에 남깁니다.
 
 한 개념적 재틀짐은 [[self-regulated-learning|정서 규제]] 지원을 정서 탐지만이 아니라 신체 활동과 캠퍼스 생태에 근거시킵니다: 어떤 단일 표현 채널도 맥락 없이는 고통을 식별하지 못하므로, AI는 운동을 통해 규제를 지원하고 해석은 교사와 상담사가 유지해야 하며, 정서 감시는 출석이나 채점에 묶이는 순간 강제적이 됩니다([[ai-emotion-regulation-sport-exercise-2026|Zhang 등(2026)]]).
 

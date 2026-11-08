@@ -1,7 +1,7 @@
 ---
 title: AIEd 연구의 해석과 적용
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ ai_assist:
 - **도구와 함께하는 수행은 일상적으로 학습으로 오인된다.** 한 [[k-12|K-12]] 수학 연구에서 일반 목적의 [[conversational-ai|챗봇]]으로 연습한 학생들은 더 나은 연습 성적을 얻고 나서 AI 접근이 없는 또래들에 비해 개방되지 않은 기말고사에서 **약 17% 더 나쁘게** 점수했습니다([[stanford-evidence-base-ai-k12-2026|Stanford's evidence base for AI in K-12]]).
 - **이 분야 자신의 고찰들은 감사를 견디지 못한다.** AI가 교육을 개선한다고 주장하는 **14편의 동료 검토된 메타분석**에 대한 [[oneill-presumed-effective-meta-analysis-2026|O'Neill's (2026)]] 감사는 **어느 것도** 그것이 제시한 주장에 타당한 기반을 제공하지 않음을 발견했고, 무작위로 선택된 1차 연구 46편 가운데 **61%**가 타당성 우려를 제시했습니다. 문제는 나쁜 논문 하나가 아니라 보고의 문화입니다.
 - **자기보고는 모두에게 아첨한다.** 사람들은 자신의 [[ai-literacy|AI 기술]]을 수행 측정이 보여 주는 것보다 약 **40%** 더 높게 평가하므로, 이것이 만족도와 확신 설문이 여러분이 행동할 수 있는 가장 약한 증거인 이유입니다([[self-report-measures|자기보고 측정]], [[educational-measurement|교육 측정]]).
-- **이미 교실에 있는 대부분의 제품은 독립적 증거를 전혀 지니지 않는다.** [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners' 2025–26 learning tour]]는 학생 대상 AI 제품 20개를 소개하며, 완전한 프로필을 지닌 16개 가운데 일곱만이 미국의 학생 집단에 걸친 학생 성취를 검사하는 독립적 고찰을 지님을 발견했습니다. 둘은 해외에서만 연구되었고, 넷은 연구가 진행 중이며, 셋은 내부 자료에만 의존했습니다. 저자들은 우선 집단을 포괄하는 독립적 인과 연구가 모든 학생 대상 제품에 대한 기대가 되어야 한다고 주장합니다. 즉 학교가 이미 쓰고 있는 도구들에게는 아직 규범이 아닙니다.
+- **이미 교실에 있는 대부분의 제품은 독립적 증거를 전혀 지니지 않는다.** [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners' 2025–26 learning tour]]는 학생 대상 AI 제품 20개를 소개하며, 완전한 프로필을 지닌 16개 가운데 일곱만이 미국의 학생 집단에 걸친 [[learning-gains|학생 성취]]를 검사하는 독립적 고찰을 지님을 발견했습니다. 둘은 해외에서만 연구되었고, 넷은 연구가 진행 중이며, 셋은 내부 자료에만 의존했습니다. 저자들은 우선 집단을 포괄하는 독립적 인과 연구가 모든 학생 대상 제품에 대한 기대가 되어야 한다고 주장합니다. 즉 학교가 이미 쓰고 있는 도구들에게는 아직 규범이 아닙니다.
 
 - **고찰은 자기 말뭉치의 보고 편향을 정량화할 수 있습니다.** 고등교육 연구 155편에 대한 체계적 검토는 117편(75.5%)이 성공적 구현을 보고했고, 124편(80.0%)이 단기 영향만을 다루었으며, [[ethics|윤리]]·형평성·거버넌스 실패를 보고한 것은 23편(14.8%)뿐임을 발견했습니다. 이는 위의 점검들이 서술하는 불균형을 그 검토 자신의 증거 기반에서 측정한 것입니다([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 

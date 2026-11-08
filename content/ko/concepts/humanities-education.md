@@ -1,14 +1,14 @@
 ---
 title: 인문·사회과학 교육
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-26T09:45:00-04:00"
+source_updated: "2026-11-04T15:58:10-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -34,13 +34,17 @@ ai_assist:
 
 SSH 교육은 지식 기반에서 [[stem-education]]과 [[language-learning]]에 보완적인 독립적인 주제 영역입니다. 인문학이 해석의 깊이, 저작, 맥락적 판단을 가치 있게 여기기 때문에, 이들은 STEM과 다른 AI 통합의 과제들을 제기합니다. 그리고 [[higher-ed]]과 [[ai-literacy]]에 [[discipline-specific-aied|domain-specific]] 방식으로 연결됩니다.
 
+시민 및 정치 교육은 이 학문들의 한 갈래가 아니라 형제 주제 영역이며, [[civic-and-political-education]]가 그것을 독자적으로 다룹니다. 그곳의 지식베이스 증거는 얇습니다: 여덟 개 출처가 이 주제를 건드리지만 어느 것도 시민 학습을 측정하지 않습니다.
+
+
 ### AI가 인문·사회과학 교육에 나타나는 방식
 
 - **해석적 인지의 재구성.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]는 생성 AI가 SSH 교육에서 의미 구축, 저작, 학습자의 [[agency]]을 재구성하는 *인식론적 매개자*로 작동한다고 논증합니다. 세 가지 변환 — 해석적 인지의 외현화, 저작의 혼성화, 분산된 인식론적 행위성의 출현 — 과 세 가지 발달 궤적(AI 의존적, AI 증강, AI 비판적 해석)을 확인합니다. 이것은 해석의 깊이를 보존하기 위한 발달-비판적 [[pedagogy|pedagogical]] 모형의 기반이 됩니다.
+- **과제가 독자에게 무엇을 보게 하는가가 저자됨의 평가 가능성을 결정합니다.** 텍스트 148편에 대한 모형 시뮬레이션에서 메모와 수정 변호는 논증적 가시성에서 3.16과 3.10을 기록해 입장 에세이의 2.63을 앞섰습니다. 형식 자체가 출처 설명이나 반론에 대한 응답을 요구했기 때문입니다([[liu-argumentative-work-visible-genai-assessment-2026|Liu & Liu(2026)]]).
 - **역사 교육.** [[paternalistic-filter-llm-history-education|Research on LLMs in history education]]는 AI가 역사적 추론과 자료 해석을 어떻게 형성하는지를 살핍니다.
 - **인문·사회과학 학생들의 경험.** [[genai-impact-chinese-students-hss|GenAI's impact on Chinese humanities and social science students]]과 [[acceptance-ai-english-tools-2026|AI acceptance among language/English learners]]은 SSH 학문 전반에 걸친 학생 대면 효과를 기록합니다.
 - **비판적·철학적 차원.** [[voicu-ai-interpretive-cognition-ssh-2026|Critical AI literacy]]와 [[philosophy-of-ai-in-education|philosophy of AI in education]]은 의미, 가치, 인식론적 권위의 문제가 중심적인 SSH에서 특히 두드러집니다.
-- **[[governance|Institutional]] 디지털 전환.** Qin(2026)은 링난 대학이 "디지털 시대의 연구 중심 교양 학술 기관"으로 자신을 재배치한 방식을 기록합니다. 모든 학부생에게 GenAI 리터러시를 의무화하고(잠재 공간, GAN, 확산 모형, [[prompt-engineering|prompting]], 파인튜닝, 편향, 오정보를 다루는 필수 1학년 공통 교과목을 포함합니다). 이 입장 논문은 교육을 위한 AI 전환이 기술 중심적 증강이 아니라 *지적 전환*이라고 논증하며, [[ai-literacy|digital fluency]]을 핵심 교양 역량으로 자리매김하는 한편 [[human-in-the-loop-ai|human-in-the-loop]] 모형이 [[ethics|ethical]]적 추론, 비판적 판단, 사회적 책임을 전면에 내세웁니다. 이것은 [[generative-ai|GenAI]] 혁신과 인문주의적 토대의 균형을 잡는 [[higher-ed|higher education]]을 위한 구체적인 설계도입니다.
+- **[[governance|Institutional]] 디지털 전환.** Qin(2026)은 링난 대학이 "디지털 시대의 연구 중심 교양 학술 기관"으로 자신을 재배치한 방식을 기록합니다. 모든 학부생에게 GenAI 리터러시를 의무화하고(잠재 공간, GAN, 확산 모형, [[prompt-engineering|prompting]], [[llm-training-and-fine-tuning|파인튜닝]], 편향, 오정보를 다루는 필수 1학년 공통 교과목을 포함합니다). 이 입장 논문은 교육을 위한 AI 전환이 기술 중심적 증강이 아니라 *지적 전환*이라고 논증하며, [[ai-literacy|digital fluency]]을 핵심 교양 역량으로 자리매김하는 한편 [[human-in-the-loop-ai|human-in-the-loop]] 모형이 [[ethics|ethical]]적 추론, 비판적 판단, 사회적 책임을 전면에 내세웁니다. 이것은 [[generative-ai|GenAI]] 혁신과 인문주의적 토대의 균형을 잡는 [[higher-ed|higher education]]을 위한 구체적인 설계도입니다.
 
 - **이 분야의 평가 노출은 이제 측정되었으며, 분산되어 있지 않고 집중되어 있습니다.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]]는 호주 Group of Eight 대학들의 인문학 단위 기록 15,587건을 감사하여, 2026년 평가 문항의 58.6%가 [[generative-ai|GenAI]]에 크게 노출되어 있음을 발견했으며, 그 노출은 점수로 가중할 때 과제물 에세이와 연구 보고서가 71.4%를 차지했습니다.
 
@@ -50,14 +54,14 @@ SSH 교육은 생성 AI가 가장 큰 도전을 제기하는 바로 그 능력�
 
 ## 인문·사회과학 교사를 위한 함의
 
-- **AI를 내용 조력자가 아니라 인식론적 매개자로 취급하십시오.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]는 AI가 SSH에서 의미 구축, 저작, 행위성을 재구성함을 보여줍니다. 세 가지 궤적(AI 의존적, AI 증강, AI 비판적)을 중심으로 교수법을 설계하고 AI 비판적 쪽을 목표로 삼으십시오.
+- **AI를 내용 조력자가 아니라 인식론적 매개자로 취급하십시오.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]는 AI가 SSH에서 의미 구축, 저작, 행위성을 재구성함을 보여줍니다. 세 가지 궤적(AI 의존적, AI 증강, AI 비판적)을 중심으로 [[design-education|교수법을 설계]]하고 AI 비판적 쪽을 목표로 삼으십시오.
 - **해석의 깊이와 저작을 보호하십시오.** 인문학이 판단과 원본 저작을 가치 있게 여기기 때문에, AI가 분석을 평탄하게 만드는 것을 경계하십시오. AI 산출물의 비판적 [[ai-ed-evaluation|evaluation of AI]]를 학습 목표로 만드십시오([[critical-thinking]], [[ai-literacy]]).
 - **자료 작업에서 AI를 의도적으로 사용하십시오.** [[paternalistic-filter-llm-history-education|History research]]는 AI가 추론과 자료 해석을 형성할 수 있음을 보여줍니다. AI가 매개하는 역사적 주장과 그것이 적용하는 필터를 학생들이 심문하도록 가르치십시오.
 - **학생 대면 영향을 고려하십시오.** [[genai-impact-chinese-students-hss|Student experience studies]]는 GenAI가 SSH 학습자들에게 어떤 영향을 미치는지를 기록합니다. 가정이 아니라 실제 사용에 맞춰 지원과 진실성 틀을 조정하십시오.
 
 ## 흔한 오해
 
-**"인문학은 교육과정에서 AI 노출이 가장 적은 부분이다."** 노출은 측정되었고, 넓게 퍼지기보다 집중되어 있습니다. [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]]는 **예술·인문학 단위 기록 15,587건**을 감사하여 노출이 어디에 있는지를 확립했습니다. 그것은 단위들에 고르지 않게 분포하며 얇게 퍼지지 않으므로, 평가 재설계를 부문 전체의 문제가 아니라 표적화된 문제로 만듭니다.
+**"인문학은 [[curriculum-design|교육과정]]에서 AI 노출이 가장 적은 부분이다."** 노출은 측정되었고, 넓게 퍼지기보다 집중되어 있습니다. [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]]는 **예술·인문학 단위 기록 15,587건**을 감사하여 노출이 어디에 있는지를 확립했습니다. 그것은 단위들에 고르지 않게 분포하며 얇게 퍼지지 않으므로, 평가 재설계를 부문 전체의 문제가 아니라 표적화된 문제로 만듭니다.
 
 **"인문학 교육에서의 AI는 기술 중심의 증강이다."** 이 페이지가 근거하는 입장 논문은 그 전환이 증강이 아니라 *지적 변형*이라고 주장하며, [[ai-literacy|디지털 유창성]]을 핵심 교양 역량으로 위치시킵니다. 변하지 않은 강좌에 도구를 더하는 것은 변형을 그 도구로 착각하는 것입니다.
 
@@ -79,6 +83,7 @@ SSH 교육은 생성 AI가 가장 큰 도전을 제기하는 바로 그 능력�
 - [[stem-education]]
 - [[ai-education]]
 - [[discipline-specific-aied]]
+- [[civic-and-political-education]]
 
 ## 연결된 문서
 
@@ -89,3 +94,4 @@ SSH 교육은 생성 AI가 가장 큰 도전을 제기하는 바로 그 능력�
 - [[genai-impact-chinese-students-hss]] — 인문·사회과학 학생들에 대한 GenAI의 영향
 - [[acceptance-ai-english-tools-2026]] — 언어 및 인문학 학습자들의 AI 수용
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — 15,587개 Go8 인문학 단위의 계산적 감사: 2026년 평가 문항의 58.6%가 AI에 크게 노출, 에세이와 보고서에 집중
+- [[liu-argumentative-work-visible-genai-assessment-2026]] — 과제 형식과 AI 사용 지시가 산출물이 증거할 수 있는 것을 결정한다(Liu & Liu 2026)

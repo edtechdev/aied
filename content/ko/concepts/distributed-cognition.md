@@ -1,13 +1,13 @@
 ---
 title: 분산 인지
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,13 +38,18 @@ ai_assist:
 생성형이면서 상호작용적인 AI 시스템은 이전의 도구들이 하지 못한 방식으로 인지적 작업을 재분배합니다. 지식 기반은 이 이동의 여러 차원을 기록합니다.
 
 - **인지적 동료이자 공동 조절자로서의 AI.** AI는 사고와 학습의 공동 [[regulation]]에서 [[scaffolding|비계]], 초인지적 지원, 외부 기억 시스템, 그리고 의사결정 동료로 기능할 수 있습니다.([[ai-cognitive-partner-co-regulation-learning]]) 이것은 인지를 개별적으로 관리되는 것이 아니라 학습자와 시스템 사이에서 공동 조절되는 것으로 위치 짓습니다.
-- **AI 사용의 양은 어떤 형태의 분산 작업이 일어나는지를 드러내지 않습니다:** [[cognitive-offloading-llm-synthesis-writing|Poquet 외(2026)]]는 97명 학습자의 사용량 기반 프로파일이 사전 지식과 저자십에서는 달랐지만 능동적 역할이나 이해 수준의 프롬프팅에서는 다르지 않았다는 것을 발견했습니다. 따라서 공유된 활동과 노동 분업은 같은 양의 사용과 함께 나타날 수 있습니다.
+- **AI 사용의 양은 어떤 형태의 분산 작업이 일어나는지를 드러내지 않습니다:** [[cognitive-offloading-llm-synthesis-writing|Poquet 외(2026)]]는 97명 학습자의 사용량 기반 프로파일이 [[prior-knowledge|사전 지식]]과 저자십에서는 달랐지만 능동적 역할이나 이해 수준의 [[prompt-engineering|프롬프팅]]에서는 다르지 않았다는 것을 발견했습니다. 따라서 공유된 활동과 노동 분업은 같은 양의 사용과 함께 나타날 수 있습니다.
 - **행위성과 책임의 재분배.** **앙상블 인지(ensemble cognition)**와 같은 프레임워크는 사고를 동적인 인간-[[student-ai-interaction|AI 상호작용]]에서 생겨나는 것으로 재개념화하며, AI의 *기능적 행위성*(의식 없이 결과에 영향을 미치는 능력)을 *도덕적 책임*(인간에게 남는다는 것)과 구별합니다.([[ensemble-cognition-philosophy-ai-education]]) 분산 인지는 이렇게 학습에 대해 누가 책임을 지는가를 다시 틀 짓습니다.
 - **효율성-조절의 긴장.** 경험적 연구는 하나의 상충 관계를 보여 줍니다. 추론을 가장 효율적으로 분산하는 인간-AI 시스템(예: 위임된 추론을 통해)은 더 높은 과업 수행을 달성하지만 학습자의 자기 조절적 [[student-engagement|참여]]를 줄일 수 있습니다.([[hao-human-ai-collaborative-problem-solving-cognition]]) 이것이 지식 기반이 기록하는 [[cognitive-offloading]]와 [[cognitive-offloading|과잉 의존]] 위험의 경험적 얼굴입니다.
 - **협업에서의 매개.** AI는 [[collaborative-learning|협업 학습]]에서 상호작용, 인식론적 의미 만들기, 규제 과정을 조율하는 *[[pedagogy|교수법적]] 매개자*로 기능할 수 있으며, 행위성, 권위, 책임을 인간과 비인간 행위자에 걸쳐 재분배합니다.([[niari-ai-pedagogical-mediator-collaborative-learning]])
 - **접근 구성이 집단 안에서 인지를 분산시킨다.** [[xu-genai-collaborative-space-2026|Xu et al. (2026)]]는 팀이 GenAI를 *어떻게* 공유하는지가 인지의 분배를 결정한다는 것을 보여 줍니다. 단일한 공유 인터페이스 위에서의 동시 작업은 공통된 인지 모델(집단적 프롬프트, 공유된 외부 기억)을 유지하는 반면, 비동기의 사적 사용은 그것을 파편화하며, 출력물은 공유하기 전에 선택적으로 다시 이름 붙여집니다. GenAI는 이렇게 분산된 인지적 참여자이자 대화형 협업 공간으로 기능하며, 그 투과성은 설계되어야 합니다(공유된 맥락은 안으로 흘러들어오지만, 사적 통찰은 자동으로 되돌아 흐르지 않는다).
-- **교사들도 AI 지배적인 분산과 상호보완적인 분산을 경험한다.** 같은 효율성-조절 논리가 수업 설계의 교사 측에도 적용됩니다. [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]]는 초임 교사들이 교수 설계의 인지 부하 상당 부분을 AI 시스템에 위임하는(AI 지배적인 분산으로, 응답을 대체로 받아들이는 것) 반면, 경험이 많고 AI에 능숙한 교사들은 교수법적 전문성과 AI의 계산적 지원이 서로를 강화하는 상호보완적인 분포에 도달한다는 것을 발견했습니다. 그리고 [[generative-ai|GenAI]]가 단순히 정보를 저장하는 것이 아니라 생성하고 공동 구성하기 때문에, 그들은 이것을 단순한 도구 사용이 아닌 *참여적 공유 인지(participatory shared cognition)*로 틀 짓습니다.
-- **단위는 결과가 아니라 상호작용 유형.** [[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane and Arikan (2026)]]는 자기 주도적 ChatGPT 사용의 53개 기록으로부터 **Cognitive Distribution Framework**를 구축했습니다. 다섯 가지 상호작용 유형(확장(extension), 외주화(outsourcing), 정렬(alignment), 전환(transformation), 분리(decoupling))과 네 가지 사용자 역할로, 같은 학생이 한 교환에서는 작업을 외주화하고 다음 교환에서는 함께 사고할 수 있습니다.
+- **교사들도 AI 지배적인 분산과 상호보완적인 분산을 경험한다.** 같은 효율성-조절 논리가 수업 설계의 [[teacher-role|교사]] 측에도 적용됩니다. [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]]는 초임 교사들이 교수 설계의 인지 부하 상당 부분을 AI 시스템에 위임하는(AI 지배적인 분산으로, 응답을 대체로 받아들이는 것) 반면, 경험이 많고 AI에 능숙한 교사들은 교수법적 전문성과 AI의 계산적 지원이 서로를 강화하는 상호보완적인 분포에 도달한다는 것을 발견했습니다. 그리고 [[generative-ai|GenAI]]가 단순히 정보를 저장하는 것이 아니라 생성하고 공동 구성하기 때문에, 그들은 이것을 단순한 도구 사용이 아닌 *참여적 공유 인지(participatory shared cognition)*로 틀 짓습니다.
+- **단위는 결과가 아니라 상호작용 유형.** [[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane and Arikan (2026)]]는 [[self-directed-learning|자기 주도적]] ChatGPT 사용의 53개 기록으로부터 **Cognitive Distribution Framework**를 구축했습니다. 다섯 가지 상호작용 유형(확장(extension), 외주화(outsourcing), 정렬(alignment), 전환(transformation), 분리(decoupling))과 네 가지 사용자 역할로, 같은 학생이 한 교환에서는 작업을 외주화하고 다음 교환에서는 함께 사고할 수 있습니다.
+
+- **거래 기억은 분산에 측정된 메커니즘을 부여합니다.** 미국과 튀르키예의 대학생 891명 가운데, 자기 평가한 사고 능력도 AI 파트너십에 대한 자신감도 [[critical-thinking|비판적 사고]]를 직접 예측하지 못했습니다. 둘 다 축적된 GenAI 경험을 거쳐 작동했고, 그 경험은 노동의 전문화와 조율(b = 0.636)과 산출물의 성찰적 전환(b = 0.367)을 통해서만 중요했습니다([[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun & Toker, 2026]]). 그 두 매개자가 다시 비판적 사고를 예측했고(b = 0.230과 0.175) 직접 경로는 남지 않았으므로, 인간-AI 시스템이 무엇으로 사고하는지는 사용량이 아니라 작업의 배치입니다.
+
+- **도구 속성이 아니라 설계 선택으로서의 확장된 인지.** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa와 Duarte Arias (2026)]]는 생성형 AI가 인지 과제를 수행하기 때문에 기본적으로 대체적이지만, 같은 시스템이 초안을 비평하거나 학습자가 평가해야 할 피드백을 제공할 때 상호보완적이 된다고 주장합니다. 그들의 확장된 마음 틀은 분석 단위를 인공물과 그 사용으로 만들며, 이는 이 페이지의 분산 질문의 규범적 판본입니다.
+
 
 ### 분산 인지와 관련 관점들
 
@@ -54,6 +59,11 @@ ai_assist:
 - **[[embodied-learning|구체화된 인지]]**는 신체와 감각운동적 상호작용의 역할을 강조하며, 사고가 추상적 기호 조작이 아니라 신체적 참여에 뿌리를 둔다고 주장합니다.
 - **[[cognitive-offloading]]**는 인지적 작업이 외부 시스템(AI 포함)으로 넘겨지는 실천적 기제이며, DCog의 서술적 설명에 대한 위험이 가득한 대응물입니다.
 - **확장된 인지 / 확장된 마음 논제**(포스트휴머니즘 연구에서 사용됨)는 외부 인공물이 인지 시스템의 *구성적* 부분일 수 있다 — 단순한 도구가 아니라 — 고 주장하며, AI가 학습자의 마음 자체의 일부라는 더 강한 주장을 합니다.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
+
+### 누구의 인지인가? 분석 단위의 문제
+
+[[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]]는 그 분석 단위 질문을 이 전통의 대부분의 연구보다 더 밀어붙입니다. 그의 주장은 리터러시가 개인의 소유물이 아니라 자료와 기계와 함께 수행되는 것이라는 것이며, 따라서 개별 학습자가 잘못된 분석 단위가 됩니다. 사람을 중심에 둔 역량 프레임워크는 그러므로 기반시설적 또는 비인간적 기여를 등록할 수 없고, 분야는 분산을 명명한 뒤 계속해서 그것을 학습자에게로 되돌려 해결합니다. 형평성 측면의 예리한 지점은 그의 어려움 논증입니다. 성찰성은 살아온 경험과 권력 관계에 달려 있으므로, 언어나 쓰기 실천이 부호화된 규범에서 가장 멀리 있는 학생들이 가장 큰 비용을 부담합니다. 이 논증은 이론적이며 데이터셋을 보고하지 않고, 그 설계 지향은 검증되지 않은 제안으로 남습니다.
+
 
 ### AI 설계와 평가에 중요한 이유
 
@@ -65,7 +75,7 @@ Fowlin et al. (2026)은 그 배분을 2단계 서열로 구현합니다. 먼저 
 
 ## 흔한 오해
 
-- **"공유 문서는 공유 인지를 의미합니다."** **97명 학습자**의 사용량 기반 프로파일은 **사전 지식과 저자십**에서 달랐지만 **능동적 역할이나 이해 수준의 프롬프팅**에서는 다르지 않았습니다. 참여량은 노출을 측정했을 뿐 인지적 작업의 분배를 측정하지 않았으므로, 협업 도구의 사용 분석은 누가 사고하고 있었는지에 관해 거의 말해 주지 않습니다.
+- **"공유 문서는 공유 인지를 의미합니다."** **97명 학습자**의 사용량 기반 프로파일은 **사전 지식과 저자십**에서 달랐지만 **능동적 역할이나 이해 수준의 프롬프팅**에서는 다르지 않았습니다. 참여량은 노출을 측정했을 뿐 인지적 작업의 분배를 측정하지 않았으므로, 협업 도구의 사용 [[learning-analytics|분석]]은 누가 사고하고 있었는지에 관해 거의 말해 주지 않습니다.
 - **"모든 사람이 AI에 똑같이 부담을 전가합니다."** 초임 교사는 **교수 설계의 인지 부하 상당 부분을 AI 시스템에 위임**하여 응답을 대체로 받아들이는 **AI 지배적 분배**에 이르는 반면, 경험이 많고 AI에 대한 지식이 있는 교사는 다르게 분배합니다. 전문성은 AI를 얼마나 쓰는가뿐 아니라 부하가 어디에 놓이는가에 나타납니다.
 - **"AI 개입이 많을수록 지원이 많습니다."** AI 지배적 분배는 주의해야 할 유형입니다. 산출량이 늘어나는 동안 인간이 맡는 인지 작업의 몫은 줄어들기 때문입니다. 사용자가 덜 할수록 시스템은 더 유능해 보일 수 있습니다.
 
@@ -95,3 +105,6 @@ Fowlin et al. (2026)은 그 배분을 2단계 서열로 구현합니다. 먼저 
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — 수업 설계에서의 교사-AI 상호작용: 경험과 능숙도에 따른 AI 지배적 대 상호보완적 분산 인지(Choi et al. 2026)
 - [[xu-genai-collaborative-space-2026]] — 행위자이자 협업 공간으로서의 GenAI: 접근 구성이 집단 인지를 어떻게 분배하는가(Xu et al. 2026)
 - [[cognitive-distribution-student-genai-interaction-2026]] — 자기 주도적 ChatGPT 사용으로부터 얻은 다섯 가지 상호작용 유형과 네 가지 역할의 Cognitive Distribution Framework
+- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — GenAI와의 거래 기억: 노동 분업과 성찰적 전환이 비판적 사고를 매개한다(Akgun & Toker 2026)
+- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — 개별 학습자가 잘못된 분석 단위인 이유
+- [[rivera-novoa-genai-extended-cognition-2026]] — 과학 학습에서의 확장된 인지: GenAI는 기본적으로 대체적이고 설계에 따라 상호보완적이다(Rivera-Novoa & Duarte Arias 2026)

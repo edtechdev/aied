@@ -1,13 +1,13 @@
 ---
 title: 측정심리를 고려한 AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -37,16 +37,16 @@ AI 시스템이 점점 더 많이 반응에 점수를 매기고, 난이도를 �
 ### 측정심리를 고려한 AI가 연구에 드러나는 방식
 
 - **보정과 신뢰도:** [[automated-assessment|불확실성을 인지하는 평가]]와 [[llm-psychometric-calibration-cdp|LLM 심리측정 보정]]은 AI가 지나치게 자신감 있는 점추정 대신 의미 있고 불확실성을 인지하는 점수를 보고하도록 보장합니다.
-- **모델 신뢰도만으로는 충분하지 않다.** SciEntsBank에서 언어화된 신뢰도, 잠재적 신뢰도, 일관성 기반 신뢰도는 각각 정답과 오답인 단답형 문항을 구분하는 데 실패했습니다. 최상의 보정은 Random Forest와 Platt scaling을 통해 포함된 반응의 클러스터 내 엔트로피인 데이터셋 기반 불확실성을 추가하는 것에서 나왔으며, 이를 통해 선택적 자동 채점과 인간 검토가 가능해졌습니다([[cong-confidence-asag-2026|Cong et al. (2026)]]).
+- **모델 신뢰도만으로는 충분하지 않다.** SciEntsBank에서 언어화된 신뢰도, 잠재적 신뢰도, 일관성 기반 신뢰도는 각각 정답과 오답인 단답형 문항을 구분하는 데 실패했습니다. 최상의 보정은 Random Forest와 Platt scaling을 통해 포함된 반응의 클러스터 내 엔트로피인 데이터셋 기반 불확실성을 추가하는 것에서 나왔으며, 이를 통해 선택적 자동 채점과 [[human-in-the-loop-ai|인간 검토]]가 가능해졌습니다([[cong-confidence-asag-2026|Cong et al. (2026)]]).
 - **신뢰도는 검토를 선별하지, 수용을 승인하지 않는다.** 고부담 필기 물리 채점에서 AI 신뢰도 라벨은 높은 신뢰도 문항에서 훨씬 낮은 점수 오차를 보였으나, 일부 높은 신뢰도의 표시되지 않은 문항은 여전히 공식 채점과 불일치했기 때문에, 이 라벨은 자동 수용을 승인하기보다 채점자 검토의 우선순위를 정하는 데 유용합니다([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **난이도 예측:** [[llm-item-difficulty-prediction|문항 난이도 예측]]은 LLM 기반 추정이 심리측정 모델에 대해 검증되어야 하는 방식을 보여줍니다([[item-response-theory]] 참조). [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]]는 대규모 실증을 제공합니다: Rasch IRT 모델로 보정된 5,170개의 K-5 수학·읽기 문항에 걸쳐, GPT-4o의 제로샷 난이도 평가는 실제 난이도와 중등도 이상의 상관을 보였고(r = 0.83 수학, r = 0.81 읽기), 학년에 따라 고르지 않았으며, 특징 기반 접근법(LLM 추출 특징을 트리 기반 모델에 입력)은 최대 r = 0.87의 상관에 도달했습니다. 이 연구의 해석 가능한 [[explainable-ai|특징 중요도]](학년 수준과 단어 수가 최상위 예측 변인)와 실무적 7단계 워크플로는 측정심리를 고려한 AI가 어떻게 운영화될 수 있는지를 보여주며, 저학년 범위 제한 발견과 일반화 가능성에 대한 한계는 LLM 추정을 적합된 심리측정 모수에 대해 검증해야 할 필요를 강조합니다.
-- **곡선을 복원하는 것이 모든 모수를 복원하는 것은 아니다.** [[simulating-students|모의 피험자]]로 미세 조정된 멀티모달 모델은 홀드아웃 문항 난이도를 r = 0.85로 추정하고 추측 모수를 0.48로 복원했지만, 변별도는 0.31로 약했습니다. 따라서 어떤 방법이 어떤 모수를 복원하는지가 곧 발견입니다([[multimodal-item-parameter-estimation-2026|Ormerod & Kim, 2026]]).
+- **곡선을 복원하는 것이 모든 모수를 복원하는 것은 아니다.** [[simulating-students|모의 피험자]]로 미세 조정된 [[multimodal|멀티모달]] 모델은 홀드아웃 문항 난이도를 r = 0.85로 추정하고 추측 모수를 0.48로 복원했지만, 변별도는 0.31로 약했습니다. 따라서 어떤 방법이 어떤 모수를 복원하는지가 곧 발견입니다([[multimodal-item-parameter-estimation-2026|Ormerod & Kim, 2026]]).
 - **측정 타당도:** 이 개념은 타당하고 신뢰할 수 있는 AI 평가가 어떤 모습인지 정의하는 틀인 [[assessment-validity]]와 [[educational-measurement]]에 연결됩니다.
 - **잠재 구조 타당도:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]]는 측정심리를 고려한 입장이 평가가 LLM에서도 인간과 *동일한 잠재 구성개념*을 측정하는지 확인해야 한다고 보여줍니다. 동일한 도구에서 LLM과 인간의 반응 요인 구조가 다르기 때문에, 높은 점수를 받은 모델조차도 시험이 측정한다고 밝힌 구성개념을 측정하지 않을 수 있습니다. 이는 인간 타당도 증거를 차용하는 모든 AI 평가에 대한 주의 사항입니다.
-- **라벨은 그 이름이 뜻하는 것보다 더 많거나 적게 측정할 수 있다.** AI 리터러시 도구 12개의 구성개념 55개와 문항 272개를 임베딩한 결과, jangle 쌍(같은 라벨, 다른 측정)과 jingle 쌍(다른 라벨, 거의 동일한 문장)이 드러났고, 구성개념 구분이 문항 문장까지 살아남는지 확인하는 사전 수집 점검으로서 r = 0.49의 신뢰도를 복원했습니다([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al. (2026)]]).
+- **라벨은 그 이름이 뜻하는 것보다 더 많거나 적게 측정할 수 있다.** [[ai-literacy|AI 리터러시]] 도구 12개의 구성개념 55개와 문항 272개를 임베딩한 결과, jangle 쌍(같은 라벨, 다른 측정)과 jingle 쌍(다른 라벨, 거의 동일한 문장)이 드러났고, 구성개념 구분이 문항 문장까지 살아남는지 확인하는 사전 수집 점검으로서 r = 0.49의 신뢰도를 복원했습니다([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al. (2026)]]).
 - **결과물에 닻을 내리기를 거부하는 의존 척도.** 반성적, 신중한, 사려 없는, 협력적 사용이라는 네 요인이 800개 응답에서 나왔고 형태가 다른 과제에서도 유지되었으며(CFI = .91), 사용을 좋다 나쁘다로 라벨링하는 대신 과제 국면별 행동을 측정합니다([[genai-reliance-scale-problem-solving-2026|Hou et al. (2025)]]).
 - **잠재 능력 파이프라인과 표준 설정:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]]는 국가 시험에서 측정심리를 고려한 채점의 구체적인 템플릿을 제공합니다: 루브릭 문항 점수는 결코 직접 합산되지 않고, [[item-response-theory|IRT]] 모델에 입력되어 잠재 능력 추정치를 산출한 뒤 Bookmark 표준 설정 방법으로 숙달 / 숙달에 근접 / 미흡으로 절단하며, 합격은 최소 두 개 문항에서 숙달이고 나머지 하나는 최소한 숙달에 근접해야 합니다. 저자들은 이 파이프라인을 자동 형태로 재현하여(하위 절단점은 7개 이상 루브릭 문항을 맞힐 확률 67%, 상위 절단점은 10개 이상), AI와 인간의 문항 점수를 원시 일치율이 아니라 동일한 의사결정 기준에 대해 비교할 수 있게 했습니다.
-- **균형 지표는 보정된 것처럼 보이기만 하는 모형을 잡아냅니다.** GPT-4o와 Gemini 2.0 Flash에게 학부생 153명의 대화에서 학습 양식 차원을 추론하게 했을 때 중간 정도의 정확도가 나왔으나, 범주별 재현율은 그것이 다수 라벨 예측임을 보여 주었고, 직관형과 총체형 학습자는 과소 식별되었으며, 소수 예시 프롬프팅은 편향을 제거하기보다 때로 증폭했습니다([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi와 Robb (2026)]]).
+- **균형 지표는 보정된 것처럼 보이기만 하는 모형을 잡아냅니다.** GPT-4o와 Gemini 2.0 Flash에게 학부생 153명의 대화에서 학습 양식 차원을 추론하게 했을 때 중간 정도의 정확도가 나왔으나, 범주별 재현율은 그것이 다수 라벨 예측임을 보여 주었고, 직관형과 총체형 학습자는 과소 식별되었으며, 소수 예시 [[prompt-engineering|프롬프팅]]은 편향을 제거하기보다 때로 증폭했습니다([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi와 Robb (2026)]]).
 
 ### 연결
 

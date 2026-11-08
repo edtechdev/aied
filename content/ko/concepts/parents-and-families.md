@@ -1,7 +1,7 @@
 ---
 title: 부모와 가족
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:36-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-10-26T01:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -80,7 +80,7 @@ ai_assist:
 
 더욱 두드러진 것은 결여된 것입니다. 부모 자신의 서술은 드뭅니다. [[k12-teachers-ai-companion-literacy-2026|Xiao et al. (2026)]]의 교사들은 설계상 부모를 표집에서 배제했고, 나타나는 부모들은 여학생, 실천자, 교사들 사이의 한 목소리로서 인터뷰됩니다. 여기에는 가족이 학교의 [[educational-policy-ai|AI 정책]]을 어떻게 배우는지, 감시나 공개에 관해 무엇을 전해 듣는지, 또는 그것에 어떻게 대응하는지에 관한 직접 증거가 없으며, 가정-학교 협력은 시험되지 않고 이론화되었습니다. ParaTutor 같은 가정 tutoring 설계는 한 국가 맥락에서 23개의 쌍으로 평가되었고, 동반자 비교는 한 학교의 19명 학생에 의존합니다.
 
-2026년 스코핑 리뷰 하나가 이 분야가 어디까지 왔는지를 매핑합니다. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]]는 19개 학회의 6,540건 기록에서 53개의 HCI 연구를 활동 이론을 통해 분석하여, 문헌이 아이-부모 상호작용과 언어, [[ai-literacy]], 관계적 학습에 중심을 두며, 53개 연구 중 44개(83%)가 아이-부모 구성에 놓인다는 것을 발견했습니다. 대화형, 구체화된, 공간적 시스템들은 전개되는 상호작용의 맥락으로부터 지원을 생성하며, LLM은 교육적 노동을 재분배하는 반면 가족과 기관은 산출물을 해석하고 그것들이 어떻게 실천에 들어가는지를 결정할 책임을 집니다. 지속되는 [[personalized-learning|개인화]], 수리 노동(repair labor), 그리고 가족이 권위와 규칙을 협상하는 방식이 리뷰가 지명하는 격차이며, 이는 이 절차가 반대 방향에서 기록하는 같은 부재입니다.
+2026년 [[meta-analysis-systematic-review|스코핑 리뷰]] 하나가 이 분야가 어디까지 왔는지를 매핑합니다. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]]는 19개 학회의 6,540건 기록에서 53개의 HCI 연구를 [[activity-theory-aied|활동 이론]]을 통해 분석하여, 문헌이 아이-부모 상호작용과 언어, [[ai-literacy]], 관계적 학습에 중심을 두며, 53개 연구 중 44개(83%)가 아이-부모 구성에 놓인다는 것을 발견했습니다. 대화형, 구체화된, 공간적 시스템들은 전개되는 상호작용의 맥락으로부터 지원을 생성하며, LLM은 교육적 노동을 재분배하는 반면 가족과 기관은 산출물을 해석하고 그것들이 어떻게 실천에 들어가는지를 결정할 책임을 집니다. 지속되는 [[personalized-learning|개인화]], 수리 노동(repair labor), 그리고 가족이 권위와 규칙을 협상하는 방식이 리뷰가 지명하는 격차이며, 이는 이 절차가 반대 방향에서 기록하는 같은 부재입니다.
 
 **다른 페이지들과의 관계.** [[stakeholders]]는 전체 이해관계자 집합의 간략한 개요이며, 가족은 아직 깊이 다뤄지지 않은 청중으로 열거되어 있습니다. 이 페이지가 바로 그 깊이입니다. [[early-childhood-elementary-ai-education]]은 학교와 가정에 걸쳐 어린 학습자를 위한 발달적·[[pedagogy|교수법]] 영역을 다룹니다. 이 페이지는 유아기 놀이 활동부터 중등 숙제까지 가족을 따라 연령을 넘어갑니다. [[ai-use-disclosure]]는 학습자가 타인에게 AI를 사용했다고 말하는지를 다룹니다. 이 페이지는 그 정보가 집의 어른들에게 도달하는지, 그리고 가족이 학교 AI 사용에 관해 무엇을 전해 듣는지라는 인접한 질문을 다룹니다.
 

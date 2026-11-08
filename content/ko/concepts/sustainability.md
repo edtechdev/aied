@@ -1,7 +1,7 @@
 ---
 title: 지속가능성
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-10-28T18:53:18-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 ## 생각해 볼 질문들
 
 - 이 페이지는 두 가지 경로를 구분합니다. 'AI for sustainability'(지속가능성 성과를 진전시키는 데 AI를 사용하는 것)와 'sustainable AI'(AI 자신의 환경적·윤리적 발자국을 줄이는 것)입니다. 한 목표를 진전시키면서 다른 목표를 저해할 수 있는 AI 도구의 사례를 떠올릴 수 있습니까?
-- 대규모 언어 모형을 훈련하고 운용하는 것은 실질적인 탄소와 물 발자국을 수반합니다. 한 기관이 지속가능성을 가치로 내세우면서 에너지 집약적인 AI를 배치할 때 어떤 긴장이 생기며, 누가 그것을 저울질해야 합니까?
+- [[llm|대규모 언어 모형]]을 훈련하고 운용하는 것은 실질적인 탄소와 물 발자국을 수반합니다. 한 기관이 지속가능성을 가치로 내세우면서 에너지 집약적인 AI를 배치할 때 어떤 긴장이 생기며, 누가 그것을 저울질해야 합니까?
 - 읽어보시기 전에, '지속가능한 교육'을 어떻게 정의하시겠습니까? 이 페이지는 이를 교육을 지속가능성을 위한 수단으로 삼는 것과 구별되는 가치 기반의 인간 중심적 프로젝트로 다룹니다 — 이 둘은 어떻게 다릅니까?
 - 교육이 학습자의 '지속가능성 의식'을 기르는 것을 기대받는다면, AI는 거기서 어떤 역할을 할 수 있을까요? 그리고 교육과정에의 AI 통합은 지속가능성을 가르치면서도, 그 자신의 발자국이 그 교훈을 조용히 모순할 수 있을까요?
 - 한 교육기관이 AI 사용에서 진정으로 지속가능하다는 것은 무엇을 의미하며, 그 결정들(조달, 배치, 교수) 중 어떤 것이 가장 중요하다고 보십니까?
@@ -36,7 +36,7 @@ ai_assist:
 
 AIED에서 지속가능성은 서로 겹치는 세 가지 틀짓기에 걸쳐 있습니다. **지속가능한 교육**(가치 기반의 인간 중심적 교육 프로젝트), **교육에서의 지속가능성**(지속가능성을 위한 수단으로서의 교육 사용), 그리고 **지속가능 발전을 위한 교육**(ESD, 특히 [[k-12|Sustainable Development Goal 4]]인 세계적 정책 의제)입니다. AI는 이 각각과 다르게 교차합니다 — 그리고 이 분야는 두 가지 핵심 경로를 구분합니다. **AI for sustainability**(지속가능성 성과를 달성하는 도구로서의 AI)와 **sustainable AI**(AI 자신의 환경적·윤리적 발자국 줄이기)입니다.
 
-환경 경로에는 기록된 공백이 있습니다. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette 외(2026)]]는 연구 현장의 대학 정책 문서에서 생성형 AI의 환경적 결과가 논의되지 않았음을 보고하며, 그것을 빠뜨린 기관 지침은 교사와 학생이 지닌 우려를 다루지 못한다고 주장합니다.
+환경 경로에는 기록된 공백이 있습니다. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette 외(2026)]]는 연구 현장의 대학 정책 문서에서 [[generative-ai|생성형 AI]]의 환경적 결과가 논의되지 않았음을 보고하며, 그것을 빠뜨린 기관 지침은 교사와 학생이 지닌 우려를 다루지 못한다고 주장합니다.
 
 
 ## 두 부분으로 된 분류 체계
@@ -48,7 +48,7 @@ AIED에서 지속가능성은 서로 겹치는 세 가지 틀짓기에 걸쳐 �
 
 ## 교육에서 지속가능성을 위한 AI 사용
 
-AI를 지속가능성 교육과 성과를 *위한* 도구로 다루는 연구가 늘어나고 있습니다.
+AI를 [[environmental-education|지속가능성 교육]]과 성과를 *위한* 도구로 다루는 연구가 늘어나고 있습니다.
 
 - **지속가능성 의식을 기르는 AI 통합 교육과정.** [[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]]은 AI-SEE 프레임워크(intelligence-driven, green-empowered, responsibility-leading, practice-integrated)를 제안하는데, 이는 AI를 [[curriculum-design|교육과정]] 전반에 걸쳐 인지적 [[scaffolding|비계]]이자 시스템 수준의 지속가능성 분석을 위한 자원으로 통합합니다. 144명의 공학 사례에서, 이것은 지속가능성 의식을 높이고 개인적·학업적·직업적·사회적 수준에 걸친 행동적 [[student-engagement|참여]]를 산출했으며, 교실을 넘어선 사회적 확산이 나타났습니다.
 - **녹색 및 지속가능 교육에서의 AI.** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]]은 Sustainable Development Pedagogy의 제약 아래 AI가 지원하는 [[learning-design|교수 설계]]가 교사의 워크플로와 [[pedagogy|교수법적]] 설계를 개선했음을 발견했습니다. [[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]]은 교사들의 과학/녹색 에너지에서의 AI 실천적 사용과 ESD에 정렬된 자료 개발에의 참여가 — 추상적인 AI 지식이나 태도보다 — 그들이 AI를 [[k-12|녹색 에너지 교육]]에 통합할 역량을 예측했음을 발견했습니다.

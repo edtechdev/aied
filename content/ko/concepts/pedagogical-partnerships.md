@@ -1,7 +1,7 @@
 ---
 title: 교육학적 동반자 관계
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-28T18:53:18-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -59,7 +59,9 @@ ai_assist:
 - **AI 정책의 공동 설계자로서의 학생.** 기관이 학생에게 AI 규칙을 부과하는 대신, 동반자 관계는 학생을 강좌 및 기관 차원 AI 정책의 공동 창작자로 자리매김합니다. 예를 들어, 학생들이 [[generative-ai]] 강좌 정책을 공동 설계한 안내된 탐구(guided-inquiry) 활동은 교육, 표준화된 공개, 기관 지원, 의사결정 참여를 둘러싼 학생들의 우선순위를 드러냈습니다([[guided-inquiry-genai-course-policy-2026]]).
 - **AI 도구의 공동 창작자로서의 학생.** 학생을 동반자로 하는 틀 안에서 학생들은 교수학적 목표에 부합하는 맞춤 AI [[conversational-ai|챗봇]]을 공동 설계하고 개선해 왔습니다 — 이는 SaP 패러다임을 AI 도구 자체에까지 확장하며, 학생의 목소리를 책임 있는 AI 혁신의 중심에 놓는 접근입니다([[lo-co-creating-custom-gpts-sap-2026]]).
 
-- **자기 평가로 평가된 학급 전체 공동 설계.** 한 1학년 정보학 프로그램에서는 학생과 교수가 첫 주에 강좌 목표와 정책을 공동 설계하고 학기 내내 이를 재방문했으며, 학생들이 최종 산출물이 아닌 개인 목표, 팀 목표, 공유 루브릭에 비추어 자신과 자신의 조를 채점했습니다([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
+- **규모에서의 공동 창작, 신중하게 측정됨.** 710명 규모의 소프트웨어 설계 강좌에서 학생들은 AI 튜터를 쓰는 대신 동료를 위한 [[intelligent-tutoring|AI 튜터]]를 만들었습니다. 설계의 자유가 가장 큰 긍정 주제(22.3%)였고 불명확한 지침이 가장 큰 불만(23.7%)이었지만, 지각된 학습은 퀴즈 점수와 r = 0.161에서 0.315로만 상관했고 설계에는 통제군이 없었습니다([[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari 외(2026)]]). 도구를 만드는 것은 그럴듯한 교수법이며, 이 증거로는 입증되지 않은 교수법입니다. 그래서 그 사례는 성과 이득이 아니라 설계 활동에 기대어 있습니다.
+
+- **[[self-assessment|자기 평가]]로 평가된 학급 전체 공동 설계.** 한 1학년 정보학 프로그램에서는 학생과 교수가 첫 주에 강좌 목표와 정책을 공동 설계하고 학기 내내 이를 재방문했으며, 학생들이 최종 산출물이 아닌 개인 목표, 팀 목표, 공유 루브릭에 비추어 자신과 자신의 조를 채점했습니다([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
 - **평가와 AI에서의 공동 창작.** 학생-교직원 동반자 관계는 강좌 평가에서 AI로 생성된 출력을 공동 평가하고 평가 기준을 공동 설계하여, AI의 이점과 한계에 대한 이해를 높이고 [[self-regulated-learning]]을 뒷받침했습니다([[williams-ingle-assessment-co-creation-ai-2025]]).
 - **교수학적 신뢰를 보존하는 동반자 관계.** AI로 인한 불확실성과 "AI 수치심(AI shame)"에 직면하여, *교수학적 신뢰* — 불확실성에 열려 있고 대화를 통해 함께 항해하는 자신감 있고 호혜적인 학습 관계 — 를 키우는 동반자 관계 실천은 교육의 관계적 핵심을 유지하는 길을 제공합니다([[matthews-five-guiding-principles-ai-sap-trust-2025]]).
 - **AI 시스템의 공동 설계자로서의 청소년.** 참여적 설계 접근은 역사적으로 소외된 학생들을 자신들의 교실에 영향을 미칠 AI 시스템을 설계하는 데 동반자로 참여시켜, 학생들의 가치와 [[ethics|윤리]]적 헌신을 드러냅니다([[chang-co-designing-ai-youth-relational-privacy-2025]]).
@@ -139,3 +141,6 @@ ai_assist:
 - [[anastasia-shared-agency-partnership-framework-2026]] — 공유 주도성: 교수-학생 협력을 위한 주도성 동반자 관계 틀
 - [[maybee-disruptive-partnerships-sap-2025]] — 교란적 동반자 관계: 정보학에서 학생들과 협력하기
 - [[student-centered-genai-responsible-framework-2026]] — 책임 있는 생성형 AI 사용을 위한 학생 중심 틀
+
+- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — 학생들이 710명 규모로 동료를 위한 AI 튜터를 만들었다: 참여는 높고 학습 증거는 탐색적 (Zangari et al. 2026)
+

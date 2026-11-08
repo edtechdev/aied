@@ -1,7 +1,7 @@
 ---
 title: "AI 에이전트는 학생과 교수자를 어떻게 지원할 수 있는가?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T10:37:54-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
@@ -43,7 +43,7 @@ ai_assist:
 
 [[agentic-workflows-education|교육에서의 에이전트 워크플로]]는 되풀이되는 네 가지 역량을 꼽습니다. 성찰, 계획, 도구 사용, 다중 에이전트 협업입니다. 각각은 가능성과 함께 [[explainable-ai|해석 가능성]], 조정, [[trust-calibration|신뢰]], 지연, 감독이라는 비용을 더합니다.
 
-학생 측 역할은 [[adaptive-learning|적응형]] 튜터링과 학습 계획에서 시작해 [[formative-assessment|형성평가]] 피드백, 안내된 [[problem-solving|문제 해결]], 연습 문제 생성, 선수 요건 추천, 성찰적 [[metacognition|메타인지]] [[prompt-engineering|프롬프팅]]까지 이어집니다. 교수자 측 역할은 자료 개발, [[automated-question-generation|문항 생성]]과 검증, 피드백 분류, 강좌 [[learning-analytics|학습 분석]], 수업 설계, 자원 검색, 특화된 하위 에이전트의 오케스트레이션을 아우릅니다.
+학생 측 역할은 [[adaptive-learning|적응형]] 튜터링과 학습 계획에서 시작해 [[formative-assessment|형성평가]] 피드백, 안내된 [[problem-solving|문제 해결]], 연습 문제 생성, 선수 요건 추천, 성찰적 [[metacognition|메타인지]] [[prompt-engineering|프롬프팅]]까지 이어집니다. 교수자 측 역할은 자료 개발, [[automated-question-generation|문항 생성]]과 검증, 피드백 분류, 강좌 [[learning-analytics|학습 분석]], [[learning-design|수업 설계]], 자원 검색, 특화된 하위 에이전트의 오케스트레이션을 아우릅니다.
 
 그중 둘은 초기에 더 안전합니다. 둘 다 학생보다 사람이 먼저 읽는 산출물을 내놓기 때문입니다. 문항 생성기와 검증기의 짝, 그리고 교사가 편집하는 초안 작성이 그것입니다.
 

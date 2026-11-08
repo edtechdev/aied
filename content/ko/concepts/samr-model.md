@@ -1,7 +1,7 @@
 ---
 title: SAMR 모형
 created: "2026-09-10T09:50:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -10,7 +10,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-02T09:55:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,9 @@ SAMR은 [[icap-framework|ICAP 프레임워크]]와 자주 짝지어지는데, �
 - **SAMR은 포스트휴머니스트 비판의 대상입니다.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed(2026)]]는 TPACK, SAMR, [[ai-literacy]] 모형들이 인지가 기술적 매개에 의해 근본적으로 변하지 않는 경계 지어진 학습자를 전제하는 휴머니스트 존재론을 공유한다고 비판하며, 이런 도구주의적 프레임워크들은 인지에 대한 AI의 구성적 역할을 다룰 수 없다고 주장합니다.
 - **통합을 위한 프레임워크이지, 권력을 위한 프레임워크가 아닙니다.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal(2026)]]는 SAMR을 TPACK 및 다른 통합 프레임워크와 함께 평가하여 어느 것도 공평한 권력, 데이터 소유, 책무를 다루지 않음을 발견하고, 대안적 생태학적 공동 에이전시 프레임워크를 동기로 삼습니다.
 - **학생 활용도 마찬가지로 SAMR에 대응되며, 피드백은 모든 수준에 걸칩니다.** [[physics-education|물리]] 단원에서 31–36명 학생의 생성 AI 선언을 코딩한 결과, 학습은 대체–보강에, 서식은 대체에, 과제 수행은 수정–재정의에 놓였으며, 한편 피드백 — 확인, 명료화, 검증 — 은 네 수준 모두에 나타났습니다([[genai-use-changing-institutional-policy-physics-2026|Quince and Faulconer(2026)]]).
+
+- **깊이와 포용은 별개의 축입니다.** [[jita-ai-mathematics-classrooms-inclusion-2026|Jita, Jita & Omoniyi (2026)]]는 38개 출처에 걸쳐 SAMR을 [[universal-design-for-learning|UDL]]과 짝지으며, 재정의 수준 과제도 언어, 기기, 연결성이 설계에 맞지 않는 학생을 여전히 배제할 수 있다고 주장합니다.
+
 
 ## SAMR, TPACK, 그리고 기술 수용: 어떻게 다른가
 
@@ -102,3 +105,4 @@ SAMR은 계획과 평가에 쓰이는 통합 깊이 렌즈로 이해하는 것�
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — SAMR의 휴머니스트 존재론에 대한 포스트휴머니스트 비판
 - [[reclaiming-epistemic-agency-co-agency-2026]] — 권력, 데이터 소유, 책무에 대한 SAMR의 침묵
 - [[genai-use-changing-institutional-policy-physics-2026]] — 변화하는 기관 정책 아래 학생의 생성 AI 활용: SAMR 수준에 대응된 활용 기능(Quince & Faulconer 2026)
+- [[jita-ai-mathematics-classrooms-inclusion-2026]] — 수학 교실에서의 AI: 다양성과 포용성을 위한 상승 전략

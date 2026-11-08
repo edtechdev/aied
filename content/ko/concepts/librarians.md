@@ -1,7 +1,7 @@
 ---
 title: 사서
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -35,7 +35,7 @@ ai_assist:
 
 ## 들어가며
 
-사서는 학습자의 질문과 학술 기록 사이에 자리하는 전문가들입니다. 참고 및 교수연락(reference and liaison) 사서, 주제 전문 사서, 정보 리터러시 수업을 제공하는 교수 사서, 그리고 장서와 저장소를 관리하는 직원이 그것입니다. [[ai-education|교육에서의 AI]]에서 그들은 [[teacher-role|교사]]나 [[administrator|관리자]]보다 훨씬 덜 자주 이름 불립니다. 그럼에도 이 말뭉치는 그들에게 구체적이고 시험 가능한 역할을 부여합니다. 그들은 [[generative-ai]]가 만들어 내는 신빙성 문제에 대한 인간의 답이며, 단순히 출처를 공급하는 것이 아니라 [[evaluative-judgment]]과 검색 전략을 가르치는 교수자이며, 그리고 — 지식 기반에서 가장 강한 사례에서 — 서비스 옆에 있는 사람이 아니라 AI 시스템의 설계된 구성 요소입니다.
+사서는 학습자의 질문과 학술 기록 사이에 자리하는 전문가들입니다. 참고 및 교수연락(reference and liaison) 사서, 주제 전문 사서, [[information-and-media-literacy|정보 리터러시]] 수업을 제공하는 교수 사서, 그리고 장서와 저장소를 관리하는 직원이 그것입니다. [[ai-education|교육에서의 AI]]에서 그들은 [[teacher-role|교사]]나 [[administrator|관리자]]보다 훨씬 덜 자주 이름 불립니다. 그럼에도 이 말뭉치는 그들에게 구체적이고 시험 가능한 역할을 부여합니다. 그들은 [[generative-ai]]가 만들어 내는 신빙성 문제에 대한 인간의 답이며, 단순히 출처를 공급하는 것이 아니라 [[evaluative-judgment]]과 검색 전략을 가르치는 교수자이며, 그리고 — 지식 기반에서 가장 강한 사례에서 — 서비스 옆에 있는 사람이 아니라 AI 시스템의 설계된 구성 요소입니다.
 
 이 페이지는 그 역할을 이웃들과 구별하여 다룹니다. [[educational-technology-developers]]는 검색 및 추천 시스템을 만듭니다. 사서는 그 시스템들이 무엇을 결론 내어서는 안 되는지를 결정합니다. [[academic-integrity]]는 AI 사용을 저작권과 공개의 문제로 규정합니다. 사서의 규정 — 귀속, 출처(provenance), 접근 — 은 인접하지만 더 구체적입니다.
 
@@ -78,6 +78,9 @@ ai_assist:
 ## 연결된 개념
 
 - [[ai-literacy]]
+- [[information-and-media-literacy]]
+- [[libraries]]
+
 - [[evaluative-judgment]]
 - [[critical-thinking]]
 - [[academic-integrity]]

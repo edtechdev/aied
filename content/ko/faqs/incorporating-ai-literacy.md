@@ -1,7 +1,7 @@
 ---
 title: "제 강의에 AI 리터러시를 어떻게 통합해야 할까요?"
 created: "2026-08-24T09:50:00-04:00"
-updated: "2026-10-29T10:37:54-04:00"
+updated: "2026-11-08T00:06:30-05:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
@@ -42,7 +42,7 @@ ai_assist:
 
 ## 수업을 하나 더하지 말고, 이미 채점하는 과제에 단계를 하나 더하십시오
 
-기관의 기본 행보는 대개 학기 초에 대규모 언어모델이 어떻게 작동하는지, 프롬프트를 어떻게 쓰는지를 다루는 독립 모듈을 두는 것입니다. [[ai-literacy]] 종합은 다른 배치를 주장합니다. 학생들은 실제 강좌 과제 안에서 AI를 사용하고, 의심하고, 검증하고, 비판하고, 결정할 때 더 유용한 리터러시를 발달시키며, 그것도 반복해서 그렇습니다. 비판적 평가로의 이동은 그러한 경험이 한 번 전달되는 것이 아니라 지속적으로 내장될 때 가장 분명하게 드러납니다 ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
+기관의 기본 행보는 대개 학기 초에 [[llm|대규모 언어모델]]이 어떻게 작동하는지, 프롬프트를 어떻게 쓰는지를 다루는 독립 모듈을 두는 것입니다. [[ai-literacy]] 종합은 다른 배치를 주장합니다. 학생들은 실제 강좌 과제 안에서 AI를 사용하고, 의심하고, 검증하고, 비판하고, 결정할 때 더 유용한 리터러시를 발달시키며, 그것도 반복해서 그렇습니다. 비판적 평가로의 이동은 그러한 경험이 한 번 전달되는 것이 아니라 지속적으로 내장될 때 가장 분명하게 드러납니다 ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
 
 [[quantitative-research|양적]] 증거도 같은 방향을 가리킵니다. [[liu-ai-literacy-interventions-meta-analysis-2026|AI 리터러시 중재 59편의 메타분석]]은 통합적이고 성찰적인 교수법에서 가장 큰 효과를 발견했습니다. 다만 지식 중심 중재가 기술, 태도, 윤리를 겨냥한 중재보다 *측정된* 효과가 더 크다는 점도 경고합니다. 무엇을 측정할지 고를 때 이를 염두에 두십시오.
 
@@ -82,11 +82,11 @@ ai_assist:
 
 경제학 학생들은 먼저 문제를 풀고, GenAI 응답을 얻고, 그것을 자기 추론과 비교하고, AI를 비판하고, 성찰한 뒤 동료와 토론합니다 ([[beck-genai-literacy-economics-hands-on|Fostering Generative AI Literacy in Economics]]).
 
-심리학 학생들은 ChatGPT가 생성한 보도자료를 강좌 루브릭에 비추어 평가하고, 약점을 찾아내고, 수정하는데, 이는 한 과제에서 분과 리터러시와 피드백 리터러시를 함께 발달시킵니다 ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]).
+심리학 학생들은 ChatGPT가 생성한 보도자료를 강좌 루브릭에 비추어 평가하고, 약점을 찾아내고, 수정하는데, 이는 한 과제에서 분과 리터러시와 [[feedback-literacy|피드백 리터러시]]를 함께 발달시킵니다 ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]).
 
 생물학은 별도의 기술 주제를 가르치는 대신 그 활동들을 분과 학습에 통합합니다 ([[zha-ai-literacy-biology-case-study|Integrating AI Literacy Education in a Biology Class]]). 데이터베이스와 디자인 강좌는 실패 분석을 학습 활동으로 사용해, 학생들이 AI가 만든 오류를 분석하고 프롬프트와 해법을 반복 개선합니다 ([[pedagogy-ai-mistakes|The Pedagogy of AI Mistakes]]). LearnAI 모델은 하나의 일반 모듈을 운영하는 대신 여러 학문 분야에 걸쳐 적시의 AI 공동 창작을 내장합니다 ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: Just-in-Time AI Co-Creation Across Disciplines]]).
 
-주의 하나에는 숫자가 따라붙습니다. 재설계된 입문 입자물리학 강좌가 연구형 문제에서 생성형 AI를 명시적 파트너로 허용했는데, 도움 없는 필기 시험의 평균은 80점 만점에 20.6점이었고 40점에 도달한 학생은 두 명뿐이었습니다 ([[ai-particle-physics-education-redesign-2026|AI in particle physics education]]). 도움을 받은 수행과 독립적으로 인출 가능한 지식은 별개의 성취입니다. 저자들은 검증을 포함한 AI 리터러시를, 그리고 AI를 베끼는 도구가 아니라 교사로 다루는 태도를 일찍 가르치면서 전용의 도움 없는 연습을 함께 두라고 주장합니다. 더 완전한 사례는 [[physics-education|물리교육]]에 있습니다.
+주의 하나에는 숫자가 따라붙습니다. 재설계된 입문 입자물리학 강좌가 연구형 문제에서 생성형 AI를 명시적 파트너로 허용했는데, 도움 없는 필기 시험의 평균은 80점 만점에 20.6점이었고 40점에 도달한 학생은 두 명뿐이었습니다 ([[ai-particle-physics-education-redesign-2026|AI in particle physics education]]). 도움을 받은 수행과 독립적으로 인출 가능한 지식은 별개의 성취입니다. 저자들은 검증을 포함한 AI 리터러시를, 그리고 AI를 베끼는 도구가 아니라 [[teacher-role|교사]]로 다루는 태도를 일찍 가르치면서 전용의 도움 없는 연습을 함께 두라고 주장합니다. 더 완전한 사례는 [[physics-education|물리교육]]에 있습니다.
 
 실제 독자를 위해 학생들이 무언가를 만드는 판본도 있습니다. Burriss 등은 11학년 학생 22명에게 자신들이 겪은 AI [[ethics]] 문제, 곧 학교 감시, 전자 "복도 통행증", 알고리즘에 의한 [[academic-integrity|표절]] 고발에 관한 공익광고 영상을 제작하게 했습니다. 이 단원은 Critical Posthumanist Literacy와 [[multimodal|복합양식 작문]]에 기대었습니다. 학생들은 해악을 악당 같은 도구가 아니라 인간과 기계의 뒤엉킨 책임에서 나오는 것으로 그렸고, 부정행위 서사를 결함 있는 AI에 과잉 의존하는 어른들 쪽으로 돌려세웠으며, [[agency]]로 마무리했습니다("해법은 우리 손이 닿는 곳에 있습니다"). 저자들은 [[storytelling-in-education|스토리텔링]]과 협력적 제작을 [[critical-pedagogy|비판적 AI 리터러시 교수법]]의 중심에 두고, 실제 독자를 위해 AI *에 관해* 작문하는 일이 역량 척도로는 볼 수 없는 비판적 능력을 발달시킨다고 주장합니다 ([[burriss-multimodal-composition-critical-ai-literacy-2026|"Young Scholar[s] on the Beat"]]). 그 주장은 학생 22명의 한 단원에서 나온 논변이므로, 효과 크기가 아니라 설계 아이디어로 읽으십시오.
 
@@ -120,7 +120,7 @@ ai_assist:
 
 AI 리터러시란 프롬프트를 가르치는 것이다. 프롬프트는 눈에 보이는 부분입니다. 학생들은 이 도구들에 기술적으로 숙련되면서도 그것에서 나오는 것에 대한 형편없는 판단자가 될 수 있고, 위의 의존 관련 발견도 같은 방향을 가리킵니다.
 
-한 세션이면 충분하다. 한 세션은 어휘를 소개할 수 있습니다. 실제 강좌 자료에 대한 반복 연습의 증거가 더 강하고, 59편의 중재 메타분석은 작업이 통합적이고 성찰적일 때 가장 큰 효과를 발견했습니다.
+한 세션이면 충분하다. 한 세션은 어휘를 소개할 수 있습니다. 실제 강좌 자료에 대한 반복 연습의 증거가 더 강하고, 59편의 중재 [[meta-analysis-systematic-review|메타분석]]은 작업이 통합적이고 성찰적일 때 가장 큰 효과를 발견했습니다.
 
 이 도구를 매일 쓰는 학생들은 이미 출력을 평가할 수 있다. Yan 등은 학부생 38명 중 76.32%가 단일 턴 패턴에 있었음을 발견했고, 컴퓨팅 종합은 학생들이 AI 생성 코드를 교정하는 데서 평범한 프로그래밍 시험 과제보다 유의하게 나쁘다는 것을 발견했습니다. 인터페이스에 익숙한 것은 교정이 아닙니다.
 

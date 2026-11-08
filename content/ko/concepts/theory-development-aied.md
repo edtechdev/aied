@@ -1,7 +1,7 @@
 ---
 title: 교육에서의 인공지능의 이론 개발
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-10-25T15:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 ## 들어가며
 
-AIEd에서의 이론 개발은 이 분야가 의존하는 응용 [[learning-theories|학습 이론]]과 AI 시대가 생산하는 새로운 구성 개념들 사이의 경계에 놓여 있습니다. [[learning-theories]]가 AI에 적용되는 확립된 이론들(행동주의, 구성주의, 인지 부하, 자기결정 등)을 목록화한다면, 이 개념은 *이론화 그 자체의 과정과 산출물*을 추적합니다. 즉 어떤 새로운 이론과 틀이 태어나고 있는지, 확립된 이론들이 어떻게 발전되고 있는지, 그리고 AIEd 연구가 이론화를 잘하는가의 방법론적 질문을 다룹니다.
+AIEd에서의 이론 개발은 이 분야가 의존하는 응용 [[learning-theories|학습 이론]]과 AI 시대가 생산하는 새로운 구성 개념들 사이의 경계에 놓여 있습니다. [[learning-theories]]가 AI에 적용되는 확립된 이론들(행동주의, 구성주의, 인지 부하, 자기결정 등)을 목록화한다면, 이 개념은 *이론화 그 자체의 과정과 산출물*을 추적합니다. 즉 어떤 새로운 [[theories-and-frameworks|이론과 틀]]이 태어나고 있는지, 확립된 이론들이 어떻게 발전되고 있는지, 그리고 AIEd 연구가 이론화를 잘하는가의 방법론적 질문을 다룹니다.
 - **자신의 비교 조건을 명시하는 틀.** Nakamura (2026)는 인지 노동의 분할을 설명 단위로 다루고, 조작들을 주변적-구성적 연속선 위에 등급화하여 놓으며, 증강과 침식이 정의되는 비교 조건을 명명하고, 조건화된 일곱 가지 검증 가능 명제를 도출합니다([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). 명제들이 구성들 사이의 차이를 예측하기 때문에, 평균 효과만 보고하는 연구는 그것들을 확인할 수도 반박할 수도 없습니다.
 
 ## AI와 함께하는 학습에 관한 새로운 이론들
@@ -48,19 +48,19 @@ AIEd에서의 이론 개발은 이 분야가 의존하는 응용 [[learning-theo
 - **AI 연결성.** [[ai-connectedness-adolescent-mental-health-2026|Fu and Zhao (2026)]]는 돌봄의 윤리와 신생태 이론을 통해 AI 시대를 위한 연결성을 재구성하며, 심리적으로 실재하면서도 윤리적으로 비대칭인 유대인 "인공지능 연결성"을 세 차원과 검증을 기다리는 여섯 명제로 정의합니다.
 
 종합적 입장은 명제를 제시하는 경쟁적 시도를 하나 더합니다. 그것은 *합성 촉진*과 *저자됨의 유예* — 밀도 높게 목소리를 내면서도 저자 지어지지 않은 자아 — 에 이름을 붙이고, 한 인생 결정 서사의 평정된 저자됨과 일관성이 반대 방향으로 움직이는 교차 상호작용을 예측합니다([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
-- **에이전티비즘.** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]]는 에이전티비즘을 인간-AI 상호작용을 위한 중범위 학습 이론으로 제안하며, 학습을 AI와 함께하는 과제 완수의 성공이 아니라 인간 능력의 지속적 성장으로 정의하고, 네 메커니즘을 명시합니다. 즉 위임된 자율성, 인식론적 점검과 검증, 재구성적 내면화, 축소된 지원하에서의 전이입니다. 이 페이지의 다른 시도들과 그것을 갈라놓는 것은 반증 가능성입니다. 이것은 여섯 명제를 제시하는데, AI가 문제 틀짓기, 기준 설정, 정당화에 관한 학습자의 책임을 보존할 때 그것이 답을 공급할 때보다 학습이 더 강하며, 검증을 요구하는 것이 지연된 수행을 향상시키는 반면 재구성 없는 되풀이되는 저마찰 위임은 학습자의 자신의 유능감에 관한 보정을 약화시켜야 한다는 것이 포함됩니다.
+- **에이전티비즘.** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]]는 에이전티비즘을 [[human-ai-collaboration|인간-AI 상호작용]]을 위한 중범위 학습 이론으로 제안하며, 학습을 AI와 함께하는 과제 완수의 성공이 아니라 인간 능력의 지속적 성장으로 정의하고, 네 메커니즘을 명시합니다. 즉 위임된 자율성, 인식론적 점검과 검증, 재구성적 내면화, 축소된 지원하에서의 전이입니다. 이 페이지의 다른 시도들과 그것을 갈라놓는 것은 반증 가능성입니다. 이것은 여섯 명제를 제시하는데, AI가 문제 틀짓기, 기준 설정, 정당화에 관한 학습자의 책임을 보존할 때 그것이 답을 공급할 때보다 학습이 더 강하며, 검증을 요구하는 것이 지연된 수행을 향상시키는 반면 재구성 없는 되풀이되는 저마찰 위임은 학습자의 자신의 유능감에 관한 보정을 약화시켜야 한다는 것이 포함됩니다.
 
 
 교사 측 이론화는 이제 같은 검증 가능성 약속을 합니다. 역량–결정 모형은 [[tpack|AI-TPACK]] 역량을 태도와 지각된 행동 통제의 상류에 놓고 네 반증 조건 — 매개의 실패, 판별 붕괴, 조절 무효, 맥락 중복 — 에 이름을 붙이지만, 모형은 검정되지 않은 채 남아 있습니다([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 - **인식론적 공동 자율성.** [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Learning with Machines]]는 학습자와 GenAI 시스템이 어떻게 공동으로 지식과 이해를 생산하는지에 관한 이론에 기초한 모형인 "인식론적 공동 자율성의 이론을 향하여"를 세웁니다.
 - **인지적 동반자 관계 순환.** [[page-cognitive-partnership-cycle-human-ai-2026|Page (2026)]]는 여섯 단계의 재귀적 모형인 인지적 동반자 관계 순환(인간의 질문, AI의 확장, 인간의 성찰, 통합, 수정, 새로운 질문)을 제안하며, 학습을 프롬프트의 정교함이 아니라 학습자의 인지적 위치의 변화에 위치시키고, 같은 재귀가 사고를 대체하거나 왜곡하는 네 가지 실패 양식을 명명합니다.
-- **결여된 인지 기저선(ACB).** [[absent-cognitive-baseline-2026|The Absent Cognitive Baseline]]은 AI 토착 학생들의 학업 자기평가에 있는 구조적 간극을 이론화합니다. 즉 AI가 수행을 부풀릴 때 학생들이 자신의 학습을 과대평가하는 이유를 설명하는 세 차원 틀입니다.
+- **결여된 인지 기저선(ACB).** [[absent-cognitive-baseline-2026|The Absent Cognitive Baseline]]은 AI 토착 학생들의 학업 [[self-assessment|자기평가]]에 있는 구조적 간극을 이론화합니다. 즉 AI가 수행을 부풀릴 때 학생들이 자신의 학습을 과대평가하는 이유를 설명하는 세 차원 틀입니다.
 - **인지 공유지.** [[cognitive-commons-ai-expertise-regeneration|Cognitive commons and expertise regeneration]]은 공유자원 이론과 [[distributed-cognition|분산 인지]]에 의지하여, 합리적인 AI 도입 결정이 직업들이 갱신에 요구하는 공유 전문성의 웅덩이를 고갈시킬 수 있는 방식을 설명합니다.
 - **수행 대 학습.** [[genai-performance-vs-learning|Performance-vs-learning]]은 AI에 의해 부풀려진 과제 수행과 지속적인 학습 사이의 날카로운 괴리를 이론화하며, 이 구별은 지식베이스의 [[learning-gains]] 증거에 걸쳐 되풀이됩니다.
 - **인식론적 [[ai-literacy|AI 리터러시]](EAIL).** [[constructing-epistemic-ai-literacy-student-ai-co-programming|Epistemic AI Literacy]]는 AI 리터러시를 학생들이 생성형 AI와 공동으로 프로그래밍할 때 지식이 어떻게 구성되고 정당화되는가를 중심에 둔 과정 지향적 인식론적 역량으로 다시 틀짓습니다.
 
-- **삼중 시스템 이론.** [[shaw-nave-cognitive-surrender-2026|Shaw and Nave (2026)]]는 이중 과정 설명을 **시스템 3** — 시스템 1과 시스템 2를 보충하고, 대체하고, 억제할 수 있는 AI로부터의 외적·자동화된·자료 기반 추론 — 으로 확장하며, 그 특징적 실패로서 AI 산출물의 비판적이지 않은 수용인 **인지 항복**에 이름을 붙입니다.
+- **삼중 시스템 이론.** [[shaw-nave-cognitive-surrender-2026|Shaw and Nave (2026)]]는 이중 과정 설명을 **시스템 3** — 시스템 1과 시스템 2를 보충하고, 대체하고, 억제할 수 있는 AI로부터의 외적·자동화된·자료 기반 추론 — 으로 확장하며, 그 특징적 실패로서 AI 산출물의 비판적이지 않은 수용인 **[[cognitive-surrender|인지 항복]]**에 이름을 붙입니다.
 - **인지 관리.** [[credential-cognitive-stewardship-ai-assessment|Credential and cognitive stewardship]]는 AI가 만연한 평가 맥락에서 지식과 학습을 보호할 [[governance|제도적]] 책임을 이론화합니다.
 - **공동 [[regulation]]과 인식론적 선제성.** [[ai-cognitive-partner-co-regulation-learning|공동 조절에서의 인지적 동반자로서의 AI]]는 집행 기능, [[metacognition]], 분산 인지, [[sociocultural-learning|사회문화]]적 발달을 발달 모형으로 통합하며, [[epistemic-proactivity-math|인식론적 선제성]]은 [[math-education|수학]]에서 AI에 대한 학생들의 행위자적 태도를 이론화합니다.
 - **인간-GAI [[student-engagement|참여]] 패러다임.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]]는 개인적 인식론적 신념의 다차원 모형에 토대를 둔 일곱 실행되는 인간-GAI 참여 패러다입(경계하는, 가능성 중심의, 증강된, 개척하는, 공생하는, 가치 기반의, [[equity-in-ai-education|형평성]])을 제시하여 이 분야의 "이론 결핍"을 다룹니다. 이것은 개인들이 AI에 관해 스스로를 다르게 위치시키는 방식에 관한 도구 중심이 아니라 인식론적 이론입니다.
@@ -71,7 +71,7 @@ AIEd에서의 이론 개발은 이 분야가 의존하는 응용 [[learning-theo
 
 다른 작업들은 새로운 패러다임을 세우기보다 기존 이론을 AI 맥락으로 확장합니다. [[critical-thinking-paradox-genai-learning-2026|critical-thinking-paradox]] 작업은 [[cognitive-offloading|인지 부하 이론]]과 부하 감소 교수를 세 수준 틀로 통합하며, [[dollinger-equitable-assessment-ai-2026|equitable assessment]]는 GenAI의 붕괴 아래에서 [[assessment]]를 다시 이론화합니다. [[reconceptualizing-community-inquiry-generative-ai|Ba, Gašević, Lim & Anderson (2026)]]는 [[community-of-inquiry|탐구 공동체]] 틀 자체를 재개념화합니다. 즉 GenAI를 도구, 대화적 동반자, 또는 추측적인 "네 번째 존재"로 틀짓기보다, 그것이 인지적·사회적·[[teacher-role|교수적]] 존재가 어떻게 실행되고, 증명되고, 다스려지는지를 재구성하는 *인식론적 조건*으로 재위치시켜, CoI 존재들을 인간–GenAI 집합체의 사회기술적 성취로 다시 만들어 내고, GenAI의 관여와 탐구의 질질이 인간 책무성을 통해 조건적으로 관련되는 구성 기반 휴리스틱을 제안합니다. 이것의 상당수는 실천을 위해 이론을 운용화하는 개념 틀 작업입니다([[drummond-genai-business-schools-framework-2026|비즈니스 스쿨 틀]], [[valid-student-simulation-llm-2026|valid simulation]]).
 
-[[metacognitive-ownership-human-ai-regulation-2026|Lin and Chang (2026)]]는 [[self-regulated-learning]]과 인간–AI 조절을, 학습자가 지배하는 것이 무엇인지 — 기준, 평가적 판단, 통제의 위임 — 를 AI가 하는 것이 무엇인지만이 아니라 이름 붙여 확장합니다.
+[[metacognitive-ownership-human-ai-regulation-2026|Lin and Chang (2026)]]는 [[self-regulated-learning]]과 인간–AI 조절을, 학습자가 지배하는 것이 무엇인지 — 기준, [[evaluative-judgment|평가적 판단]], 통제의 위임 — 를 AI가 하는 것이 무엇인지만이 아니라 이름 붙여 확장합니다.
 
 마찰의 역설은 확립된 이론의 또 다른 확장을 제공합니다. [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]]는 Bjork와 Bjork의 [[desirable-difficulties|바람직한 어려움]]과 Kapur의 [[productive-failure|생산적 실패]]를 해외 교육의 관계적 만남에 적용하여, 중요한 것은 생성형 조수가 얼마나 자주 쓰이는가가 아니라 학생이 그것에 얼마나 많은 해석적 자율성을 [[transfer-of-learning|전이]]하는가라고 논합니다. 이 틀은 개념적이며 다섯 명제를 경쟁 가설로 제시합니다.
 

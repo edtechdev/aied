@@ -1,14 +1,14 @@
 ---
 title: 사회문화적 학습
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -44,18 +44,24 @@ ai_assist:
 
 ZPD(비고츠키)는 [[intelligent-tutoring|AI 튜터링]]에서 가장 널리 적용되는 사회문화적 개념입니다. 학습자가 혼자서 할 수 있는 것과 도움을 받아 할 수 있는 것 사이의 공간입니다. 학습은 교수가 이 영역을 겨냥할 때 가장 효과적으로 일어납니다 — 발달을 밀기에 충분히 도전적이면서 진전을 가능하게 하기에 충분히 지원되는. 이것은 [[scaffolding]]의 이론적 기반입니다. 역량이 성장함에 따라 물러나는 일시적이고 조절 가능한 지원. AI 교육에서 ZPD는 학습이 넘겨지지 않고 전진하도록 [[intelligent-tutoring|AI 튜터]]가 얼마나 많은 지원을 제공해야 하는지의 중심 설계 질문을 틀 짓습니다 — [[stanford-evidence-base-ai-k12-2026]]를 참조하십시오.
 
+기계가 만든 도움도 그 영역 안에 들어올 수 있습니다. 네 가지 수학 과목에 걸친 [[adult-learning|성인 학습자]] 274명의 무작위 연구에서, ChatGPT가 생성한 풀이 과정 힌트는 사전-사후 이득 17.00%를 냈고 힌트가 없을 때는 1.85%, 인간 튜터가 작성한 힌트는 11.62%였으며, 두 도움 조건은 통계적으로 분리되지 않았습니다([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos와 Bhandari, 2024]]). 오류율은 그 동등성을 조건화합니다. 생성된 힌트의 32%가 품질 점검을 통과하지 못했으며, 자기 일관성 [[prompt-engineering|프롬프팅]]이 그것을 세 대수 과목에서는 거의 0으로, 통계학에서는 13%로 낮추었습니다. 세 번에 한 번 틀리는 더 잘 아는 타자도 여전히 매개 행위자이며, 그래서 학습자가 그 위에 쌓기 전에 기계의 기여를 점검해야 합니다.
+
+
 ### AI 교육에서의 사회문화적 학습
 
 사회문화적 이론은 AIED [[research-methods-aied|연구]]를 여러 구별되는 방식으로 형성합니다.
 
 - **매개 행위자로서의 AI.** 생성형 AI는 매개 수단과 사회적 상호작용 사이의 사회문화적 구분을 복잡하게 만듭니다. 그것은 활동을 *매개할 뿐 아니라* 의도성, 사회적 구성원 자격, 책임성을 지니지 않으면서도 상호작용을 형성하는 맥락 민감하고 우연적인 기여를 생성합니다. 와샤우어, 테이트, 리치(2026)는 *매개 행위자*를 혼합 범주로 제안하고, [[agency|학습자 주체성]]을 보존하는 인간 우선적 참여 습관(인지의 우위, 목적적 [[student-engagement|참여]], 감독적 주체성, 인식론적 경계심, 성찰적 [[self-regulated-learning|자기조절]])을 도출합니다.([[generative-ai-mediational-agent-sociocultural-2026]])
-- **AI의 규제 역할에 대한 단계 민감한 설명.** [[ai-cognitive-partner-co-regulation-learning|인간–AI 공동 규제의 발달 틀]]은 AI에게 네 역할 — 비계, 메타인지 지원, 외부 기억, 의사결정 동반자 — 을 부여하고 그것들을 단계별로 배치합니다. 초기 아동기의 구조화된 외부 규제, 중기 아동기와 청소년기의 [[metacognition|메타인지]] 동반자, 성년기의 복잡한 인지에 대한 협력자.
+- **AI의 규제 역할에 대한 단계 민감한 설명.** [[ai-cognitive-partner-co-regulation-learning|인간–AI 공동 규제의 발달 틀]]은 AI에게 네 역할 — 비계, 메타인지 지원, 외부 기억, 의사결정 동반자 — 을 부여하고 그것들을 단계별로 배치합니다. [[early-childhood-elementary-ai-education|초기 아동기]]의 구조화된 외부 규제, 중기 아동기와 청소년기의 [[metacognition|메타인지]] 동반자, 성년기의 복잡한 인지에 대한 협력자.
 - **ZPD로 보정된 비계.** [[intelligent-tutoring|AI 튜터]]는 각 학습자의 영역 안에 머물도록 도움을 동적으로 보정해야 합니다. [[stanford-evidence-base-ai-k12-2026]]는 학습자의 수준에 맞춰진 튜터가 범용 지원보다 나음을 보여줍니다; [[adaptive-learning]]과 [[golrang-propact-pair-programming-2026]]은 난이도와 힌트를 조정하여 ZPD를 작동화합니다; 그리고 [[finkelstein-principled-ai-education-2025]]와 같은 원리적 틀은 지원이 역량이 성장함에 따라 물러나야 한다고 주장합니다.
+
+- **영역을 떠나는 신호는 깊이가 아니라 겨냥입니다.** 결정 지점마다 지원을 높이고 줄이는 튜터는 *다른* 결정에 관한 발화 뒤에 65.0%의 경우 양보했는데, 이는 지원 대상 결정을 겨냥한 발화의 두 배였고, 응답의 깊이는 결과를 정렬하지 못했습니다([[adaptive-scaffolding-contingency-comet-tutor-2026|Hou et al. (2026)]]). 철회는 대답하는 학습자를 전제합니다. 수용률은 첫 질문 뒤 37.0%에서 세 번째 뒤 21.8%로 떨어졌으므로, 침묵은 준비됨의 증거가 아닙니다.
+
 - **네 번째 영역: 모형이 아는 것.** [[scan-framework-task-assignment-generative-ai-2025|Tsim과 Gutoreva(2025)]]는 튜터링 고리가 아니라 비고츠키의 도형을 확장하여, ZPD에 *[[generative-ai|GenAI]]가 아는* 영역을 더하고 과제가 어디에 배정되어야 하는지를 분류하는 네 하위 영역을 읽어냅니다. 대체(과제 특수 지식이 없으므로 모형의 일반 역량이 그것을 담당), 보조(부분적 지식, 증강됨), 보완(모형의 출력을 감독하기에 충분한 지식), 양보 불가(혼자서 하기에 충분하므로 위임이 별로 덧붙이지 않음). [[scaffolding|비계]]는 힌트 전달이 아니라 과제 배정으로 표현되며, 실시간 평가, 성찰, 학습의 [[metacognition|메타인지]] 고리가 시간이 지나며 과제를 하위 영역 사이에서 움직이게 하는 것입니다.
 - **도제와 공동체.** 사회문화적 생각은 인지적 도제, 모델링, 코칭, 걷히기의 기반이 됩니다. 실천 공동체는 학습을 공동체의 실천에 대한 더 충만한 참여로의 이동으로 틀 짓습니다.
 - **문화적이고 [[governance|제도적인]] 맥락.** [[constructivist|구성주의]]에 인접한 사회문화적 갈래는 문화적 차원이 무엇이 앎으로 셈되는지, 누가 권위인지, 노력이 무엇을 의미하는지를 형성한다고 강조합니다 — [[young-people-learning-generative-ai-rapid-review-2026|시드니 PreK-12 신속 고찰의]] 학습자–맥락–문화 틀을 참조하십시오.
 
-- **발화 측정의 검증에는 그 발화가 측정되는 청년들이 필요하다.** 발화 전이 정의를 네 명의 초점 학생들과 함께 재맥락화하는 것은 LLM 분류 F1을 Claim에 +0.104, Question에 +0.23 올렸고, 학생들 자신의 해석은 성인과 모형의 틀에서 벗어났습니다 — 이것은 데이터 규모의 문제가 아니라 텍스트 기반 분류의 구조적 한계입니다([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
+- **발화 측정의 검증에는 그 발화가 측정되는 청년들이 필요하다.** 발화 전이 정의를 네 명의 초점 학생들과 함께 재맥락화하는 것은 [[llm|LLM]] 분류 F1을 Claim에 +0.104, Question에 +0.23 올렸고, 학생들 자신의 해석은 성인과 모형의 틀에서 벗어났습니다 — 이것은 데이터 규모의 문제가 아니라 텍스트 기반 분류의 구조적 한계입니다([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
 
 ### 인지 부하와 메타인지와의 연결
 
@@ -99,3 +105,5 @@ ZPD(비고츠키)는 [[intelligent-tutoring|AI 튜터링]]에서 가장 널리 �
 - [[stanford-evidence-base-ai-k12-2026]] — K-12에서의 AI를 위한 스탠퍼드 증거 기반
 - [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12에서의 생성형 AI에 관한 시드니 신속 고찰
 - [[ai-cognitive-partner-co-regulation-learning]] — 인지적 동반자이자 공동 조절자로서의 AI
+- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT 힌트는 인간 튜터 힌트와 구별되지 않았다: 성인 학습자 274명의 무작위 연구
+- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — 적응적 비계의 우연성: 영역을 떠나는 신호는 겨냥이다

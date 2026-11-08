@@ -1,14 +1,14 @@
 ---
 title: 생성형 AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,7 @@ ai_assist:
 22개 연구에 대한 삼수준 메타분석은 생성형 AI 지원 문제 기반 및 [[project-based-learning|프로젝트 기반 학습]]이 학습자 내적 결과에 큰 통합 효과(g = 0.819)를 낸다고 발견하지만, PET-PEESE 보정은 그것을 g = 0.378로 낮춥니다. 내장 방식도 중요했습니다. 범용 챗봇은 g = 0.970으로 통합된 반면 맞춤형 또는 API 시스템은 g = 0.455였습니다([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
 
 
-별도의 42개 동기 연구 메타분석은 종합 효과를 더 낮게 잡고(g = 0.764) 95% 예측 구간이 [−0.689, 2.217]에 걸친다고 보고하여, 동기 우위가 새로운 상황에서 믿을 만하게 양의 값은 아님을 보여줍니다([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
+별도의 42개 동기 연구 메타분석은 종합 효과를 더 낮게 잡고(g = 0.764) 95% 예측 구간이 [−0.689, 2.217]에 걸친다고 보고하여, [[motivation|동기]] 우위가 새로운 상황에서 믿을 만하게 양의 값은 아님을 보여줍니다([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 생성형 UI는 이 줄기의 가장 새로운 역량입니다. 산문이 아니라 작동하는 인터랙티브 산출물(슬라이더, 조작 가능한 시뮬레이션)을 내놓는 모델입니다. Google Research 팀인 [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]]는 기성품 생성형 UI가 복잡한 구성 개념에 대해 아직 교수법적으로 정밀하지 않으나, 학습 목표를 점진적 수준별 목표로 분해하고 생성을 비판과 자기개선 루프로 감싸면 전문가 교사가 수용 가능하다고 평가하는 인터랙티브가 나온다고 보고합니다. 이들의 것은 오케스트레이션 설계입니다. 교사가 목표를 진술하고 승인하며 후보 시뮬레이션 중에서 선택하므로, 맞춤 [[simulation|인터랙티브 학습 자료]]에 대한 구속 제약은 생산에서 명세로 옮겨가고, [[guardrails|교수법적 가드레일]]은 교수자의 사후 경계가 아니라 생성 파이프라인에 내장됩니다.
 
@@ -73,7 +73,7 @@ ai_assist:
 
 ### 전문 영역에서의 생성형 AI: 난독증 지원
 
-2026년 학제 간 체계적 고찰(Dabaghi, D'Urso와 Sciarrone, PRISMA 기반, 2018–2024, n=72)은 **생성형 AI가 난독증 지원 영역에서 충분히 활용되지 않고 있음**을 발견합니다. GAI 연구(모두 2024년)는 지능형 [[conversational-ai|챗봇]], [[teacher-education|교사 훈련]] 지원, 탐구적 연구로 묶이며, 선택의 도구로서 고전 [[machine-learning|ML]]을 빠르게 추월하고 있습니다. 그러나 엄밀한 실험과 실제 검증은 대체로 부재합니다. 이 고찰의 미래 동향 분석은 GAI 기반 맞춤 자료와 실시간 적응 피드백, 시선 추적·EEG·행동 [[learning-analytics|분석]]을 통합한 [[multimodal|멀티모달]] 진단 모델, NLP 기반 [[intelligent-tutoring|지능형 튜터링 시스템]]과 대화 에이전트, 교육자 대상 지원 도구를 지목합니다. 이는 생성형 AI가 전문적이고 수요가 큰 영역에서 콘텐츠 생성과 인터랙티브 지원을 위한 가능성과, 그 도입이 근거 기반을 앞지를 수 있다는 위험을 함께 보여줍니다.
+2026년 학제 간 체계적 고찰(Dabaghi, D'Urso와 Sciarrone, PRISMA 기반, 2018–2024, n=72)은 **생성형 AI가 난독증 지원 영역에서 충분히 활용되지 않고 있음**을 발견합니다. GAI 연구(모두 2024년)는 지능형 [[conversational-ai|챗봇]], [[teacher-education|교사 훈련]] 지원, 탐구적 연구로 묶이며, 선택의 도구로서 고전 [[machine-learning|ML]]을 빠르게 추월하고 있습니다. 그러나 엄밀한 실험과 실제 검증은 대체로 부재합니다. 이 고찰의 미래 동향 분석은 GAI 기반 맞춤 자료와 실시간 적응 피드백, [[sensor-and-gaze-analytics|시선 추적]]·EEG·행동 [[learning-analytics|분석]]을 통합한 [[multimodal|멀티모달]] 진단 모델, NLP 기반 [[intelligent-tutoring|지능형 튜터링 시스템]]과 대화 에이전트, 교육자 대상 지원 도구를 지목합니다. 이는 생성형 AI가 전문적이고 수요가 큰 영역에서 콘텐츠 생성과 인터랙티브 지원을 위한 가능성과, 그 도입이 근거 기반을 앞지를 수 있다는 위험을 함께 보여줍니다.
 
 ## 흔한 오해
 
@@ -111,6 +111,9 @@ ai_assist:
 - [[ai-technologies]] — AI 기법과 모델의 포괄 개념
 - [[higher-ed]] — 주요 배치 맥락
 - [[k-12]] — 주요 배치 맥락
+
+- [[reflection]]
+
 
 ## 연결된 문서
 - [[genai-learning-motivation-meta-analysis-2026]] — GenAI가 학습 동기에 미치는 영향의 메타분석, 해악부터 이득까지 걸친 예측 구간

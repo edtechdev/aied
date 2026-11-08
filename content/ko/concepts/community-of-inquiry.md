@@ -1,7 +1,7 @@
 ---
 title: "탐구 공동체"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -55,11 +55,15 @@ GenAI는 현존의 지표들이 주로 인간 학습자와 [[teacher-role|instru
 - **사회적 현존을 모방하기** — 기계가 생산한 발화가 높은 언어적 신빙성으로 공감과 응답성을 닮을 수 있어, 관계적 책임을 복잡하게 만듭니다.
 - **교수적 현존을 재분배하기** — 설계, 촉진, 직접 교수가 분산된 성취가 되어, 교사가 생성된 산출물을 심문하고 환각된 인용을 탐지하는 방법을 모델링하게 됩니다.
 
-이제 이 주장들 아래에 경험적 네트워크 증거가 놓입니다. 63명의 중국 학부생(33명은 GPT-4o mini 챗봇 있음, 30명은 없음)이 다섯 개의 주간 과제에 걸쳐 CollaboRead에서 공유된 읽기를 주석 단 준실험에서, [[network-analysis|epistemic network analysis]]은 보조 집단이 사회적 현존을 통합과 해결에 결속한 반면 통제 집단은 사회적 현존을 유발과 탐색에 결속했음을 보여주었습니다(X축 U = 25.00, p = 0.01, r = 1.00; Y축 U = 13.00, p = 1.00, r = 0.04). 보조 집단에서 자기 보고된 인지적·정서적 참여가 더 높았습니다. 현존들은 그런 다음 집단 사이가 아니라 조건 안에서 분리됩니다. 고성취 집단은 2,319건의 주석에 걸쳐 1,407건의 피드백 요청(60.7%)을 개시한 반면, 저성취 집단은 2,167건에 걸쳐 737건(34.0%)을 개시하여 자기 지시적 순환에 머물고 비계를 약하게 활용했습니다.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
+- **너무 성급하게 개입하기** — 온라인 토론 연구에서 전문 촉진자들은 LLM 판정자들보다 개입에 일관되게 더 신중했고, LLM 판정자들은 촉진에 지나치게 열의를 보였습니다. 가장 잘 훈련된 분류기도 가용 데이터셋이 부과하는 낮은 천장에 부딪혔습니다([[llm-facilitation-timing-online-discussions|Tsirmpas, Korre and Pavlopoulos, 2026]]). 따라서 재분배된 교수적 현존은 개입의 문턱을 바꾸고, 모델은 사람이라면 기다렸을 자리에서 끼어들게 되는데, 이것이 토론 포럼이 알아차리는 실패 양식입니다.
+
+21개 연구에 대한 범위 고찰은 세 가지 현존에 걸쳐 증거가 고르지 않다는 것을 발견했습니다. 사회적 현존은 13개 연구에서, 인지적 현존은 10개에서 검토되었고, 교수적 현존은 단 5개에서만 검토되었으며, 모든 교수적 현존 연구는 그것을 다른 현존과 함께 검토했습니다. 인지적 현존은 탐색과 통합에 몰려 있었고 해결은 가장 덜 드러났으며, 토론이나 과제 기반 설계는 인지적 현존과, 교수학적 에이전트와 사회적으로 표현적인 설계는 사회적 현존과 연관되었습니다([[doo-genai-community-of-inquiry-scoping-review-2026|Doo & Park, 2026]]).
+
+이제 이 주장들 아래에 경험적 네트워크 증거가 놓입니다. 63명의 중국 학부생(33명은 GPT-4o mini 챗봇 있음, 30명은 없음)이 다섯 개의 주간 과제에 걸쳐 CollaboRead에서 공유된 읽기를 주석 단 준실험에서, [[network-analysis|epistemic network analysis]]은 보조 집단이 사회적 현존을 통합과 해결에 결속한 반면 통제 집단은 사회적 현존을 유발과 탐색에 결속했음을 보여주었습니다(X축 U = 25.00, p = 0.01, r = 1.00; Y축 U = 13.00, p = 1.00, r = 0.04). 보조 집단에서 [[self-report-measures|자기 보고된]] 인지적·정서적 참여가 더 높았습니다. 현존들은 그런 다음 집단 사이가 아니라 조건 안에서 분리됩니다. 고성취 집단은 2,319건의 주석에 걸쳐 1,407건의 피드백 요청(60.7%)을 개시한 반면, 저성취 집단은 2,167건에 걸쳐 737건(34.0%)을 개시하여 자기 지시적 순환에 머물고 비계를 약하게 활용했습니다.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
 
 도구나, 대화적 동반자나, 또는 추측적인 "네 번째 현존"이 아니라, GenAI는 **인식론적 조건**으로 가장 잘 이해됩니다. 보이는 산출물과 보이지 않는 훈련 자료, 알고리즘, 플랫폼 논리를 통해 현존들이 어떻게 enact되고 해석되고 증거화되고 거버넌스되는지를 재구성하는 만연한 영향입니다.
 
-그 조건에 대한 역할 분류는 이 틀의 저자들 자신이 제공합니다. [[ai-communities-of-inquiry-2026|Stenbom and Garrison (2026)]]은 AI를 학습 설계 지원, 독립적인 학습자 자원, 분석을 통한 교사 지원 기능, 공동체 구성원, 지속적인 대화적 동반자로 배치하고, 학습자가 AI 산출물을 감사하게 하는 것이 공유된 [[metacognition]] — 자기 및 공동 [[self-regulated-learning|regulation]] — 임을 제안합니다.
+그 조건에 대한 역할 분류는 이 틀의 저자들 자신이 제공합니다. [[ai-communities-of-inquiry-2026|Stenbom and Garrison (2026)]]은 AI를 [[learning-design|학습 설계]] 지원, 독립적인 학습자 자원, [[learning-analytics|분석]]을 통한 교사 지원 기능, 공동체 구성원, 지속적인 대화적 동반자로 배치하고, 학습자가 AI 산출물을 감사하게 하는 것이 공유된 [[metacognition]] — 자기 및 공동 [[self-regulated-learning|regulation]] — 임을 제안합니다.
 
 ## 실천적 함의
 
@@ -94,8 +98,12 @@ GenAI는 현존의 지표들이 주로 인간 학습자와 [[teacher-role|instru
 
 ## 연결된 문서
 
+- [[doo-genai-community-of-inquiry-scoping-review-2026]] — 21개 연구 범위 고찰: 현존 증거는 고르지 않고, 교수적 현존이 가장 적게 연구되었으며, 설계 구성이 결과를 가른다 (Doo & Park 2026)
 - [[genai-social-annotation-epistemic-network-analysis-2026]] — GenAI 지원 사회적 주석에서의 학생 상호작용 풀기: 인지적·사회적 현존의 인식론적 네트워크 분석
 - [[reconceptualizing-community-inquiry-generative-ai]] — 생성 AI 시대에 CoI 재개념화하기
 - [[ai-communities-of-inquiry-2026]] — 탐구 공동체들에서의 AI
 - [[ai-online-education-engagement-satisfaction-2026]] — AI와 온라인 교육 참여
 - [[reflective-triangle-model-teacher-ai-2026]] — 성찰 삼각 모형: 인지적 매개자로서의 AI
+
+- [[llm-facilitation-timing-online-discussions]] — 인간 대 LLM 촉진자: 모델이 전문가 인간보다 더 성급하게 개입한다 (Tsirmpas et al. 2026)
+

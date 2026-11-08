@@ -2,14 +2,14 @@
 connected_resources: [vibes-diy]
 title: 구성주의
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-07T23:52:37-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-26T10:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,9 @@ ai_assist:
 이 양식은 이 분야 전반에 걸쳐 일반화됩니다.
 
 - 생성형 AI가 학생을 위해 글쓰기, 추론, 코드를 완성할 때, 학습자는 그 과제가 기르도록 설계된 구성적 사고 과정을 잃습니다 — 이것은 [[cognitive-offloading]]과 [[cognitive-offloading|과잉 의존]]의 중심적 우려입니다.([[generative-refusal-ai-tools-for-thought]])
+
+- 손실은 이제 측정 가능하며, 도구가 아니라 작업을 따라갑니다. 중국 중등학생 26,811명을 대상으로 한 연구에서 생성형 AI는 숙제 점수를 18% 높이고 완료 시간을 30% 줄였지만, 6개월 안에 [[summative-assessment|폐쇄형 시험]] 점수는 20% 떨어졌습니다. 하락은 완료 시간이 숙제 외주를 시사한 약 81%의 사용자에 집중되었고, 숙제 시간을 비사용자와 비슷하게 유지한 사용자는 같은 효율로 학습했습니다([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei and Wu (2026)]]). 학습을 예측한 변인은 AI 사용 여부가 아니라 학습자가 여전히 구성을 수행했는지였습니다.
+
 - 적응적 피드백과 효율을 강조하는 AI 구현은 구성주의가 함의하는 학습자 주체성, 비판적 성찰, 자율적 결정의 목표를 자주 충족시키지 못합니다.([[ai-vocational-education-training-review]])
 
 ### 이름의 덫: 생성형 AI의 출력은 생성적 학습이 아니다
@@ -165,3 +168,6 @@ ai_assist:
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: 학생의 인지 진화를 모의하는 생성 에이전트
 
 - [[synthetic-position-self-authorship-2026]] — 모의된 AI 반대 입장은 대화의 형식을 연습하지만 수정을 강요하는 저항을 삼긴다
+
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 학습 벌점: 숙제 점수 18% 상승, 폐쇄형 시험 20% 하락, 숙제 외주 사용자에 집중
+

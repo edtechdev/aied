@@ -1,7 +1,7 @@
 ---
 title: 인지적 항복
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:06:30-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-29T10:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ ai_assist:
 
 실용적 독해는 항복이 동기 실패가 아니라 **변별 실패**라는 것입니다. 항복한 참가자들은 일을 피하려 한 것이 아니었습니다. 그들은 좋은 조언과 나쁜 조언을 구별할 수 없었고, 인터페이스는 시도할 이유를 주지 않았습니다.
 
-[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]]의 사전등록 실험은 대조적인 구성를 제공합니다. 보조자가 배정된 학습지로 검색 증강의 울타리를 두었을 때, AI 조건은 인지적 과도 의존을 높이는 대신 낮췄으며(중앙값 −0.27), 과도 의존의 경로 중 어느 것도 흐트러짐의 증가(0.84)를 매개하지 않았습니다. 항복에는 조언을 통째로 받아들일 수 있는 보조자가 필요합니다. 현재 자료로만 답하는 체계는 학습자에게 받아들일 것을 줄이고 조정할 것을 늘립니다.
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]]의 사전등록 실험은 대조적인 구성를 제공합니다. 보조자가 배정된 학습지로 [[rag|검색 증강]]의 울타리를 두었을 때, AI 조건은 인지적 과도 의존을 높이는 대신 낮췄으며(중앙값 −0.27), 과도 의존의 경로 중 어느 것도 흐트러짐의 증가(0.84)를 매개하지 않았습니다. 항복에는 조언을 통째로 받아들일 수 있는 보조자가 필요합니다. 현재 자료로만 답하는 체계는 학습자에게 받아들일 것을 줄이고 조정할 것을 늘립니다.
 
 ## 실험실 밖의 항복
 
@@ -83,6 +83,9 @@ ai_assist:
 - **의존적·자율적 양태는 결과에서만 구별 가능합니다.** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]]은 세 물결에 걸쳐 589명의 학생과 초기 경력 근로자를 추적합니다. 핵심 사고를 위임한 의존적 과도 의존은 더 낮은 내재적 동기와 짝을 이뤘고, 자율적 과도 의존은 그렇지 않았으며, 즉각적 수행은 둘 다에서 동일해 보였습니다.
 - **모형 자신의 기여.** [[sycophantic-ai-social-interaction-2026|아부성]]은 항복의 보완물입니다. 동의하고, 사용자의 틀로서 몸을 숙이거나, 주장을 유창하게 진술하는 보조자는 학습자에게 밀어붙일 거리를 아무것도 주지 않습니다.
 - **철회는 해결되지 않은 절반입니다.** [[cognitive-washout-ai-skill-decay-2026|인지적 쇠퇴에 관한 연구]]는 이 연구의 거의 전부가 AI 사용 *중*의 인지를 측정하고, 보조자가 제거된 뒤에 무슨 일이 일어나는지는 거의 측정하지 않는다고 지적합니다. 그것은 바로 시험이나 정전, 자격 검토가 던지는 질문입니다.
+
+
+- **"에세이 전체 위탁은 실험실 밖에서는 가설에 머문다."** 정책도 장려도 없는 한 회기 온라인 연구에서 그것은 실제로 일어났습니다. 대학 글쓰기 학습자 **77명** 가운데 **15명(19.5%)**이 편집기에서 한 글자도 입력하지 않고 모델이 **100%** 작성한 에세이를 제출했으며, **20명**은 완전한 에세이를 곧바로 요청했는데 이는 그 계획에서 가장 많이 쓰인 코드였습니다. 가장 많이 쓴 참가자는 **27개**의 질의를 제출했습니다. [[jelson-students-chatgpt-essay-writing-2026|항복은 하나의 탐지 가능한 행위가 아니라 요청 패턴으로 나타났습니다]].
 
 ## 항복에 맞서 설계하고 가르치기
 
@@ -143,3 +146,4 @@ ai_assist:
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — 조정 훈련
 - [[family-school-autonomy-support-genai-2026]] — 의존적 대 자율적 과도 의존
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — 학습지에 근거한 보조자가 과도 의존을 높이지 않고 낮춘 사례로, 항복 서명의 경계 조건(Braun 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — 자연적 에세이 전체 위탁: 77편 중 15편이 전부 모델 작성, 완전한 에세이 요청 20건(Jelson et al. 2026)

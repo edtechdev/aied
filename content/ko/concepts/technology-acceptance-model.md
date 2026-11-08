@@ -1,7 +1,7 @@
 ---
 title: 기술 수용 모형
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-30T05:04:45-04:00"
+updated: "2026-11-07T23:52:36-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-10-26T10:25:00-04:00"
+source_updated: "2026-11-05T09:35:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -46,8 +46,15 @@ Davis (1989)가 제안한 TAM은 두 핵심 신념 — **인지된 유용성(PU)
 ### UTAUT / UTAUT2 / UTAUT3
 **통합 기술 수용 및 사용 이론**은 TAM을 기존 여덟 모형과 통합하여 네 핵심 결정요인 — 성과 기대, 노력 기대, 사회적 영향, 촉진 조건 — 으로 압축합니다(UTAUT2는 쾌락적 동기, 가격 가치, 습관을 더하고; UTAUT3는 개인 혁신성을 더합니다). 이 지식베이스는 교사와 학생 집단에 UTAUT를 적용합니다. [[mathematics-teachers-chatbot-motivation-2026|오스트리아 중등 수학 교사]](448명 교사를 대상으로 한 UTAUT), [[pre-service-science-teachers-ai-perceptions-2026|가나의 예비 과학 교사]](UTAUT + TPB), [[tian-genai-learning-adoption-pathways-2026|레소토의 학생들]](UTAUT3 + ARCS, PLS-SEM과 fsQCA 사용). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]]는 522명의 대학생을 대상으로 UTAUT2를 설명 가능한 AI(Random Forest, SHAP, NCA, IPMA, K-Means)로 확장하여, **습관**이 ChatGPT 사용 의도의 가장 강한 예측변수임을 발견하고 **노력 기대가 선형적 동인이 아니라 필요 조건**임을 보여 줍니다. 이 결과는 XAI가 회귀분석을 보완할 때에만 보입니다.
 
+
+**이미 도입한 표본에서는 습관이 모형을 떠받치고 기대 요인들은 조용해집니다.** [[pinedo-genai-adoption-marketing-students-2026|Pinedo et al. (2026)]]는 라틴 아메리카 두 대학의 [[business-education|마케팅 학생]] 310명을 대상으로 UTAUT2를 검증했습니다. 습관은 의도를 β = 0.426, 사용을 β = 0.412로 예측했고, 의도는 사용을 0.324로 예측했습니다. 성과 기대(0.037), 노력 기대(0.054), 사회적 영향(0.048)은 유의하지 않았으며, 모형은 의도의 R² = 0.665와 사용의 0.707을 설명했습니다. 저자들은 이 무효 경로를 이미 도구를 도입한 집단에서의 변량 제한으로 읽습니다. 결과 변수는 기록된 행동이 아니라 [[self-report-measures|자기보고]] 사용입니다.
+
+**저자원 환경에서는 사회적 영향이 아니라 불안이 정서 경로를 떠받쳤습니다.** 가나의 인문학 학부생 350명을 대상으로 한 UTAUT 확장 연구는 성과 기대가 의도의 가장 강한 예측변수(β = 0.377), 노력 기대가 두 번째(β = 0.281)임을 발견했고, 사회적 영향은 무효(β = −0.038)였으며, 디지털 학습 불안은 β = −0.281이었습니다([[davor-digital-learning-anxiety-utaut-genai-ghana-2026|Davor et al., 2026]]). 노력 기대는 불안도 낮췄으므로(β = −0.126), 사용 용이성은 부분적으로 불안을 낮춤으로써 작동했습니다.
+
+
 ### 계획된 행위 이론 (TPB)
 TPB는 태도, 주관적 규범, 인지된 행동 통제를 통해 의도를 설명합니다. AI 도입 연구에서 TAM/UTAUT와 자주 짝을 이룹니다. 예를 들어 [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]]는 TAM, TPB, UTAUT, FATE([[bias-mitigation|공정성]], 책임성, 투명성, 윤리) 틀을 통합하여 학생의 ChatGPT 도입 행동 및 [[ethics|윤리]] 동인을 모형화합니다.
+
 도입 연구는 대개 의도에서 멈춥니다. 한 TPB 확장 연구는 진정한 의도에도 불구하고 지연을 측정하여, 1,243명의 학부생에 걸쳐 인지된 행동 통제가 GenAI 보조 학습 미루기의 가장 강한 부적 예측변수(β = −0.331)임을 발견했으며, 의도-지연 연결은 학습 GenAI 불안이 중간 이상인 경우에만 유의했습니다([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
 
 ### 확산 이론 (DOI)
@@ -63,8 +70,11 @@ TOE는 도입이 기술적, 조직적, 환경적 맥락에 의해 형성된다�
 
 - **비판적 사용 확장:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]]는 공학/CS 학생을 위해 TAM을 *비판적 사용*으로 확장하여, 태도와 비판적 사용이 의도를 직접 예측하며 — 비판적 사용이 [[cognitive-offloading|과의존]]에 대비하는 안전장치 역할을 한다는 것을 발견했습니다.
 - **통합 사회인지 모형:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]]은 방글라데시 공학 학생을 위해 TAM과 UTAUT를 통합했습니다(사용 분산의 64% 설명).
-- **사람 중심 프로파일:** 변수 중심 모형이 아니라, [[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed]]는 GenAI 도입 페르소나를 군집화하고, [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al.]]는 잠재 프로파일 분석을 사용하여 예비 교사들 사이의 ChatGPT 수용 프로파일 네 개를 식별합니다. 이는 단일 모형과 선형적 설명을 넘어서려는 이 분야의 움직임을 보여 줍니다.
+- **사람 중심 프로파일:** 변수 중심 모형이 아니라, [[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed]]는 GenAI 도입 페르소나를 군집화하고, [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al.]]는 [[latent-profile-analysis|잠재 프로파일 분석]]을 사용하여 예비 교사들 사이의 ChatGPT 수용 프로파일 네 개를 식별합니다. 이는 단일 모형과 선형적 설명을 넘어서려는 이 분야의 움직임을 보여 줍니다.
 - **문화 간 검증:** [[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al.]]는 스위스와 중국에 걸쳐 도입 관련 동기 구성개념을 문화 간 검증합니다.
+
+- **기대 매개변수 옆의 지식 매개자:** [[isbulan-ai-self-efficacy-acceptance-literacy-2026]]는 튀르키예 학부생 622명에서 [[ai-literacy|AI 리터러시]]를 [[self-efficacy|AI 자기효능감]]과 수용 사이에 놓습니다. 간접 경로는 유의했고(B = 0.15, 95% CI [0.12, 0.19]) 직접 경로도 그대로 남았습니다(B = 0.43, R² = 0.29). 수용은 [[anxiety-and-stress|AI 불안]]과 약한 부적 연관도 보였습니다(B = -0.34, R² = 0.05). 아래의 [[trust-calibration|과신]] 연구가 확신을 성과 기대를 통해 연결하는 반면, 이 연구는 학생이 기술에 관해 아는 것을 통해 연결합니다.
+
 - **심리적 연관 변수:** [[acceptance-ai-english-tools-2026|Wu et al.]]는 TAM에 기반하여 동기, [[self-efficacy]], 불안, 위험 인식을 AI 지원 영어 학습의 수용에 연결합니다.
 - **[[regulation|규제]] 역량 비판:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]]은 도입 중심 TAM 모형이 사용을 안정적 결정으로 다루지만, 효과적 AI 사용은 판단, 수정, 선택적 수용의 지속적 과정이라고 주장하며, [[ai-literacy]]를 수용이 아니라 규제 역량과 [[critical-thinking]]으로 재규정합니다.
 
@@ -82,9 +92,25 @@ TAM의 인지적 초점은 또한 AI 사용의 정서적·관계적 차원을 �
 
 **위험 인식을 차원 특정 확장으로.** 중국 대학생 814명을 대상으로 한 설문([[risk-perception-genai-perceived-benefits-2026|Du, Ning, Shi & Chen (2026)]]))은 인지 평가 이론과 보호 동기 이론을 TAM/UTAUT2에 접목하여, 학생들이 [[generative-ai|생성형 AI]]를 도입하는지가 아니라 그것에서 무엇을 얻는지를 묻습니다. 위험이 도입을 균일하게 억제한다는 모형 계열의 가정은 살아남지 못합니다. 위험 인식은 정보, 보안, 기술, [[ethics|윤리]], 법적 차원으로 갈라지고, 이들은 혜택을 서로 반대 방향으로 움직입니다. 학생들이 [[privacy|프라이버시 관행]]을 통해 관리할 수 있다고 믿는 위협인 보안 위험은 인지된 학업 지원과 기술 발달에 *양으로* 연관되었는데, 문제 중심 대처와 일치합니다. 반면 학습자가 쉽게 검증할 수 없는 정보 위험은 회피를 통해 심리적·정서적 지원, 일상생활, 여가 혜택을 침식했습니다. 한계점 분석은 또한 차원 특정 절단점을 넘어 부호가 바뀌는 효과들을 보여 주었고, 사용 경험은 독립적으로 중요했습니다. 1년 이상 GenAI를 사용한 학생들은 네 영역 전반에 걸쳐 더 높은 혜택을 보고했습니다. 수용 연구에 대한 실천적 함의는 "인지된 위험"이 모형화하기에 너무 거친 구성개념이라는 것입니다. 학생들이 참여하는지 물러서는지를 결정하는 것은 위험의 단순한 존재가 아니라 통제 가능성입니다.
 
-최근의 한 확장은 방향을 뒤집어, 교과 특정 동기 신념을 TAM 지각 옆이 아니라 그 상류에 놓습니다. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]는 효용 가치가 인지된 유용성을 β = 0.43으로, 성공 기대가 사용 용이성을 β = 0.39로 예측하는 반면, 핵심 TAM 경로는 약화되지만 유의하게 남는다고 보고합니다.
+최근의 한 확장은 방향을 뒤집어, [[discipline-specific-aied|교과 특정]] 동기 신념을 TAM 지각 옆이 아니라 그 상류에 놓습니다. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]는 효용 가치가 인지된 유용성을 β = 0.43으로, 성공 기대가 사용 용이성을 β = 0.39로 예측하는 반면, 핵심 TAM 경로는 약화되지만 유의하게 남는다고 보고합니다.
+
+
+**병렬 경로로서의 과업–기술 적합성, 그리고 별개의 질문으로서의 필요성.** 위의 확장 대부분은 신념 모형 *안에* 구성개념을 더합니다. TAM 연구가 좀처럼 다루지 않는 형제 틀이 과업–기술 적합성(Task–Technology Fit)이며, 이는 도구의 역량이 특정 과업의 요구와 맞는지를 묻습니다. [[chu-design-students-ai-agent-tam-ttf-2026|Chu and Liu (2026)]]는 중국 대학의 디자인 대학원생 405명에게 두 틀을 결합했고, 적합성은 유용성의 결정요인이 아니라 태도로 들어가는 두 번째 경로로 작동했습니다.
+
+과업 특성은 적합성을 β = 0.322로, 기술 특성은 β = 0.266으로 예측했습니다. 적합성은 다시 인지된 유용성(0.376), 인지된 사용 용이성(0.185)과 나란히 태도를 β = 0.224로 예측했고, 태도는 의도를 β = 0.388로 예측했습니다. 자기효능감은 상류에서 가장 큰 계수를 보였습니다. 유용성에 0.458, 사용 용이성에 0.394입니다. 인지된 즐거움은 사용 용이성을 높이고(0.220) 유용성은 건드리지 않았으며(−0.033, p = 0.483), 이는 고전 모형이 그리지 않는 도구적/정서적 분할입니다.
+
+방법론적 추가가 더 이전 가능한 부분입니다. 다층 퍼셉트론 신경망은 네 모형 모두에서 PLS-SEM의 중요도 순위를 재현했습니다. 이어서 필요 조건 분석은 두 개의 하한만을 찾았습니다. 유용성에 대한 자기효능감(d = 0.125, p = 0.015)과 의도에 대한 태도(d = 0.132, p < 0.001)입니다. 태도는 그 척도의 22.1%, 34.3%, 46.4% 수준이 각각 의도 80%, 90%, 100%에 요구되었으므로, 태도는 가중치가 아니라 관문처럼 작동하며, 이는 경로 계수 0.388과는 다른 주장입니다. 주의점은 결과 변수에 있습니다. 의도의 R² = 0.150과 Q² = 0.011은 가설화된 열 개 경로가 분산의 대부분을 다른 곳에 남긴다고 말합니다.
+
+**신념의 상류에 있는 설계 특징, 그리고 필요성이 아닌 중요도.** [[zhang-ai-enhanced-systems-adoption-ann-nca-2026|Zhang, Xin and Qing (2026)]]는 자극–유기체–반응 틀을 빌려, 중국 대학생 301명을 대상으로 여섯 가지 시스템 특징을 두 TAM 신념 앞에 놓았습니다. 개인화와 상호작용성은 인지된 유용성만을 움직였고, 지능과 콘텐츠 완전성은 사용 용이성만을 움직였습니다. 반응성은 둘 다를 움직였고, 의인화는 어느 쪽도 움직이지 않았습니다. 모형은 의도의 R² = 0.244를 설명했으며(SRMR = 0.033), 의도에 대한 영향에서 사용 용이성이 유용성보다 앞섰습니다(β = 0.340 대 0.265). 열 겹 교차 검증 신경망 중요도도 같은 결론이었습니다. 사용 용이성이 100%, 유용성이 84.70%였습니다.
+
+이어서 필요 조건 분석이 영향력과 요구를 분리했습니다. 최상위 예측변수인 사용 용이성은 완전히 실패했습니다(d = 0, p = 0.592). 유용성은 필요했지만 작았습니다(d = 0.027, p = 0.011). 저자들은 이 분리를 경로 계수를 하한으로 다루지 말라는 경고로 읽습니다. 강한 계수는 사용 용이성 한 단위가 평균적으로 의도를 산다는 것을 말하지만, 다른 신념이 없을 수 있는지를 말하는 것은 필요성뿐입니다.
+
 
 위험과 사용의 연결은 체계에 따라서도 다릅니다. 해당 문항을 시행한 TALIS 2024 체계 49개에 걸쳐, 인지된 AI 유용성은 49개 모두에서 AI 사용에 양으로 연관되었으나, 인지된 위험은 40개에서는 음으로, 9개에서는 양으로 연관되었습니다([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
+
+
+**성과 기대는 수용 연구가 사용 의도로 읽는 관계를 대신 실어 나를 수 있습니다.** [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]]에서 성과 기대는 AI 과신을 B = 0.6107로 예측했으며, 자기효능감, 내적 동기, [[motivation|외적 동기]]가 과신에 이르는 첫 번째 매개변수였습니다. 기대만을 통한 간접 경로는 세 예측변수 모두에서 양이었고, 자기효능감의 경우 0.1355(95% CI [0.0542, 0.2330])였으므로, 기대는 학생들이 도구를 쓸지 여부만을 예측한 것이 아닙니다.
+
 
 ## 흔한 오해
 
@@ -137,3 +163,10 @@ TAM의 인지적 초점은 또한 AI 사용의 정서적·관계적 차원을 �
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — 49개 체계에 걸친 인지된 AI 유용성과 위험의 사람 중심 TALIS 2024 프로파일
 - [[genai-learning-procrastination-planned-behavior-2026]] — GenAI 보조 학습 미루기와 의도-지연 연결에 대한 불안의 조절 효과를 측정한 TPB 확장
 - [[high-school-genai-acceptance-tam-physics-2026]] — 교과 특정 신념을 TAM 지각의 상류에 놓기
+
+- [[kim-overtrust-ai-literacy-2026]] — 성과 기대가 동기와 자기효능감에서 AI 과신으로 가는 경로를 매개했다
+- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — 자기효능감과 수용 사이의 매개자로서의 AI 리터러시, 그리고 보정되지 않은 불안 연관 (İşbulan et al. 2026)
+- [[chu-design-students-ai-agent-tam-ttf-2026]] — 과업–기술 적합성과 결합한 TAM, 신경망 중요도 순위와 필요 조건 임계값 (Chu & Liu 2026)
+- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — TAM 신념의 상류에 있는 설계 특징, 그리고 필요성이 아닌 중요도
+- [[pinedo-genai-adoption-marketing-students-2026]] — 이미 도입한 집단에서 습관이 UTAUT2를 떠받친다
+

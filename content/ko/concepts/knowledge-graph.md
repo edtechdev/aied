@@ -1,13 +1,13 @@
 ---
 title: 지식 그래프
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 confidence: high
 translation_of: concepts/knowledge-graph
-source_updated: "2026-10-25T15:20:00-04:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -45,10 +45,13 @@ ai_assist:
 - **[[cognitive-diagnosis]] 프레임워크**인 [[xie-hillm-cd-2026|HiLLM-CD]]는 LLM을 사용해 교육 텍스트에서 개념 트리를 구축하여 수동 주석을 없앴습니다.
 - **지식 그래프 기반 튜터링:** [[quantum-education-its|ITAS]]는 양자 개념의 지식 그래프(명시적인 선수 관계 포함)를 사용해 다중 에이전트 튜터링 시스템을 구동하며, 직관에 반하는 자료에 대해 다음 주제를 선택하기 위해 그래프를 순회합니다.
 - **교육과정 및 강의 모델링:** [[coursegraph-cs-course-comparison-2026|CourseGraph]]는 그래프 표현을 사용해 여러 기관의 CS 강의 구조를 비교하고, [[learnity-graphs-lifelong-learning-framework-2026|Learnity graphs]]는 [[lifelong-learning|평생학습]] 경로를 모델링합니다.
-- **선수 관계 학습:** [[proprl-prerequisite-relation-learning|ProPrL]]은 개념 간 선수 관계를 학습하며, 지식 그래프가 부호화하는 간선을 형식화합니다.
+- **선수 관계 학습:** [[proprl-prerequisite-relation-learning|ProPrL]]은 개념 간 [[recommender-systems-and-learning-paths|선수 관계]]를 학습하며, 지식 그래프가 부호화하는 간선을 형식화합니다.
+
+- **학습 가능한 선수 발견이 전문가 사전을 대체한다.** [[xu-graph-knowledge-tracing-survey-2026|Xu 외(2026)]]의 설문 종합은 그래프 기반 추적기가 훈련 중 응답 데이터에서 선수 구조를 학습하여 전문가가 만든 사전을 대체할 수 있음을 발견합니다. GKT는 학습 가능한 인접 행렬을 종단 간(end-to-end)으로 매개변수화하고, SKT-L은 훈련하면서 선수 관계를 학습하며, PKT는 L1 정규화를 적용해 희소 선수 그래프를 복원하고 이를 정답 구조와 비교해 F1 점수로 평가하며, PSI-KT의 변분 베이지안 프레임워크는 인간이 주석한 선수 관계와 더 잘 정렬되는 방향성 선수 그래프를 기준 모델보다 잘 추론합니다.
+
 - **지식 공백 탐지:** [[knowledge-gap-detection-ai-tas|지식 공백 탐지]]는 학습자에게 기초 개념이 빠져 있는 곳을 찾기 위해 AI 교수 보조에서 그래프 기반 추론을 사용합니다.
 - **[[multimodal]] 및 설명 가능한 추론:** [[multimodal-knowledge-graph-educational-reasoning|멀티모달 지식 그래프]]는 그래프 구조를 여러 콘텐츠 양식으로 확장하고, [[fair-explainable-edu-recommendations|공정하고 설명 가능한 추천]]은 지식 그래프 임베딩과 순차 모델링(하이브리드 HKG-GRU 프레임워크)을 결합합니다.
-- **자료 추천을 위한 교육적으로 구조화된 그래프:** [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun & Song (2026)]]는 각 교수 자료 엔티티를 네 가지 교육적 차원(교수 맥락, 인지 수준, 기술적 특성, 문화적 적응성)으로 분해하고, 그 차원들 위에서 사용자 의존적 의미 유사도를 계산한 뒤, 능력 및 진행도 인식 계수와 협업 필터링을 융합합니다 — 자료를 소비 항목으로 다루는 대신 추천 신호에 교육적 구조를 직접 부호화하는 것입니다.
+- **자료 추천을 위한 교육적으로 구조화된 그래프:** [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun & Song (2026)]]는 각 교수 자료 엔티티를 네 가지 교육적 차원(교수 맥락, 인지 수준, 기술적 특성, 문화적 적응성)으로 분해하고, 그 차원들 위에서 사용자 의존적 의미 유사도를 계산한 뒤, 능력 및 진행도 인식 계수와 협업 필터링을 융합합니다 — 자료를 소비 항목으로 다루는 대신 추천 신호에 [[pedagogy|교육적 구조]]를 직접 부호화하는 것입니다.
 - **온톨로지 기반 지식베이스:** [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova (2026)]]는 서술 논리(description logic)에 기반한 계층적 하이브리드 지식베이스 아키텍처를 제안하여, 고전 ITS의 단일 온톨로지 모델을 **매핑된 온톨로지들의 시스템(systems of mapped ontologies)**으로 대체하고 — 절차적(규칙 기반), 확률적/퍼지, ML 추출 암묵적 지식을 더하며 — 교육 온톨로지를 기술하고, 발견하고, 재사용하기 위한 메타데이터 프레임워크를 더합니다.
 - **[[scaffolding|스캐폴딩]]과 글쓰기:** [[veriforge-narrative-drafting-scaffolding-2026|Veriforge]]와 [[visual-query-tracer-declarative-logic-learning|시각적 쿼리 추적]]은 서사 작성과 선언적 논리 학습에 그래프 기반 구조를 적용합니다.
 - **사람이 큐레이션한 문학 그래프, 그리고 감사가 드러내는 것:** [[incipit-axiom-grounded-scaffolding-literary-creation-2026|Incipit]]는 문학적 전제를 그래프로 표현합니다 — 1,455개의 공리 기록, 149개 작품에 대한 1,464개의 매핑, 472개의 유형화된 관계 — [[llm|언어 모델]]이 후보 공식을 제안하면 사람 큐레이터가 선택하고 근거를 부여했습니다. 재계산된 감사는 그 구조만큼이나 시사적입니다: 모든 끝점이 해석되고 중복이나 자기 참조 링크가 남지 않지만, 1,455개 공리 중 1,448개가 정확히 하나의 작품에만 매핑되어(작품 간 재사용이 희박함), 맥락 분류체계는 두 맥락 유형을 구분하지 못하며, 어떤 출처 기록도 남아 있지 않아 스냅샷이 자체 파이프라인을 재구성할 수 없습니다. 구조적 타당성은 해석적 품질이 아니며, 출처 없는 큐레이션 그래프는 감사할 수도 갱신할 수도 없습니다.
