@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-08T05:10:57-05:00"
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
@@ -67,7 +67,7 @@ A fennmaradó hiány a képesség pályájára vonatkozik, és egyetlen utótesz
 
 A „MI-támogatott tanulás” általában több változást csomagol egybe: új visszajelzést, hozzáadott reflexiót, társakkal folytatott beszélgetést, eltérő feladatsorrendet, megváltozott értékelési ösztönzőket. Egy sikeres csomag nem mondja meg, mely összetevők voltak szükségesek.
 
-A [[genai-feedback-design-multisite-experiment|Emberközpontú generatív MI visszajelzés-tervezés]] valódi előrelépés ebben a kérdésben. 1 176 elsőéves egyetemi hallgató körében a reflektív és a hibrid tervezés felülmúlta a közvetlen [[ai-feedback-quality|MI-visszajelzést]] a késleltetett, MI nélküli transzferben. A hibrid feltétel az önértékelést, a [[peer-assessment|társak visszajelzését]] és a MI kritikáját kombinálta. Ez elválasztja azt, hogyan szerveződik és használódik a visszajelzés, attól, hogy a diákok egyáltalán hozzáférnek-e visszajelzéshez.
+A [[genai-feedback-design-multisite-experiment|Emberközpontú generatív MI visszajelzés-tervezés]] valódi előrelépés ebben a kérdésben. 1 176 elsőéves egyetemi hallgató körében a reflektív és a hibrid tervezés felülmúlta a közvetlen [[ai-feedback-quality|MI-visszajelzést]] a késleltetett, MI nélküli transzferben. A hibrid feltétel az [[self-assessment|önértékelést]], a [[peer-assessment|társak visszajelzését]] és a MI kritikáját kombinálta. Ez elválasztja azt, hogyan szerveződik és használódik a visszajelzés, attól, hogy a diákok egyáltalán hozzáférnek-e visszajelzéshez.
 
 Továbbra is nyitott: az első önálló próbálkozások, az önmagyarázat, a társak hozzászólása, a korrekciós visszajelzés, a tippek és az elhalványuló támogatás hozzájárulása és időzítése, valamint az, hogy mindegyik hogyan lép kölcsönhatásba az [[prior-knowledge|előzetes tudással]] és a feladat nehézségével.
 
@@ -87,7 +87,7 @@ A MI két összekapcsolt értékelési problémát teremt: segít előállítani
 
 A tudásbázis [[ai-agents-complete-lms-assessment-validity-2026|tanulmánya az értékelt LMS-feladatokat teljesítő MI-ügynökökről]] olyan ügynököket dokumentál, amelyek egy élő egyetemi kurzuson navigáltak és befejezték az értékelt tevékenységeket. Ez olyan képességet mutat, amely megkérdőjelezi a diákok által előállított bizonyítékra vonatkozó feltevéseket. Nem állapítja meg, mennyire gyakori az ilyen használat, és nem teszi érvénytelenné az aszinkron értékelést mint kategóriát.
 
-A kutatási kérdés az, mely tervezések támogatják továbbra is a tanulóról alkotott védhető következtetéseket. A [[eportfolio|portfóliók]], a reflexiók, a szakaszos beadások és a tevékenységnaplók validálást igényelnek bizonyítékként ahelyett, hogy feltételeznénk róluk, hogy megállapítják a szerzőséget vagy a megértést. A vizsgálatoknak a bizonyítékok kombinációit kell tesztelniük függetlenül megfigyelt kompetenciával szemben, miközben számolnak az akadálymentességgel, a munkaterheléssel, a magánélettel és a diákok szorongásával. Az [[assessment-validity|Értékelési érvényesség]] tartalmazza a részleteket.
+A kutatási kérdés az, mely tervezések támogatják továbbra is a tanulóról alkotott védhető következtetéseket. A [[eportfolio|portfóliók]], a reflexiók, a szakaszos beadások és a tevékenységnaplók validálást igényelnek bizonyítékként ahelyett, hogy feltételeznénk róluk, hogy megállapítják a szerzőséget vagy a megértést. A vizsgálatoknak a bizonyítékok kombinációit kell tesztelniük függetlenül megfigyelt kompetenciával szemben, miközben számolnak az akadálymentességgel, a munkaterheléssel, a magánélettel és a [[anxiety-and-stress|diákok szorongásával]]. Az [[assessment-validity|Értékelési érvényesség]] tartalmazza a részleteket.
 
 Az [[automated-assessment|automatizált pontozás]] esetében a [[llms-do-not-grade-essays-like-humans-2026|Az LLM-ek nem úgy osztályozzák az esszéket, mint az emberek]] rendszeres egyet nem értést jelent a kész modellek és az emberi értékelők között. Az eredmények konfigurációfüggők, és megmutatják, miért nem hordozhat érvényességi állítást a belső konzisztencia.
 
@@ -105,11 +105,11 @@ Ennek eldöntéséhez teljesítményalapú értékelés kell, a tényleges dönt
 
 ## Számoljon be arról, kit hagy ki az eredmény
 
-Egy kurzus, intézmény, nyelv vagy tanulói populáció eredményei ritkán jogosítanak döntésekre máshol, amit a [[limitations-in-aied-research|Korlátok az AIED-kutatásban]] szintézis visszatérő problémaként kezel. Hogy a hatások hogyan változnak fejlődési szakasz, tudományterület, előzetes tudás, fogyatékosság, nyelv és erőforrás-feltételek mentén, nagyrészt méretlen marad.
+Egy kurzus, intézmény, nyelv vagy [[learners|tanulói populáció]] eredményei ritkán jogosítanak döntésekre máshol, amit a [[limitations-in-aied-research|Korlátok az AIED-kutatásban]] szintézis visszatérő problémaként kezel. Hogy a hatások hogyan változnak fejlődési szakasz, tudományterület, előzetes tudás, fogyatékosság, nyelv és erőforrás-feltételek mentén, nagyrészt méretlen marad.
 
 A méltányossági kutatásnak szét kell választania a hozzáférést, a készségeket és az eredményeket. A [[digital-divide|Digitális szakadék]] szintézis egyértelmű abban, hogy az eszközök és az eszközhozzáférés nem állapít meg egyenlő haszonképességet. A [[school-ai-education-readiness-gaps-agency-2026|Az iskolai MI-oktatás szűkíti a felkészültségi szakadékokat?]] 752 hongkongi alsó középiskolás diákot követett: a pszichológiai felkészültségi szakadékok szűkültek, míg az objektív MI-írástudás-teszten mutatott különbségek fennmaradtak. Minden csoport javult, és az egyenlőtlenség nem zárult be. Az előzetes tanulási profilokat nem randomizáltan osztották ki, így kauzális szerepük ismeretlen marad.
 
-A lefedettség bizonyos helyeken vékony. A [[differential-effects-across-learner-groups|Különböző hatások a tanulói csoportok között]] populáció szerint számolja a szakirodalmat: a második nyelvi és többnyelvű tanulók, valamint a fogyatékossággal élő diákok a legmélyebb szálak, ezután a nem és a neurodiverzitás következik, az első generációs és nemzetközi diákoknak egy-egy vizsgálatuk van ebben a korpuszban, a tehetséges és kiemelkedően teljesítő diákok gyakorlatilag kutatatlanok, a menekült, bevándorló és kitelepített tanulók pedig egyikben sem jelennek meg. Egy ilyen alakú bizonyítékbázis nem tud méltányossági kérdést megválaszolni összesítéssel.
+A lefedettség bizonyos helyeken vékony. A [[differential-effects-across-learner-groups|Különböző hatások a tanulói csoportok között]] populáció szerint számolja a szakirodalmat: a második nyelvi és [[multilingual-learning|többnyelvű tanulók]], valamint a [[inclusive-learning|fogyatékossággal élő diákok]] a legmélyebb szálak, ezután a nem és a [[neurodiversity|neurodiverzitás]] következik, az első generációs diákoknak két vizsgálatuk van (az egyik a használatbeli különbségről, a másik a hatásbecslésről szól), a nemzetközi diákoknak pedig egy, a tehetséges és kiemelkedően teljesítő diákok gyakorlatilag kutatatlanok, a menekült, bevándorló és kitelepített tanulók pedig egyikben sem jelennek meg. Egy ilyen alakú bizonyítékbázis nem tud méltányossági kérdést megválaszolni összesítéssel.
 
 A kapacitás egyetlen nemzeti rendszeren belül is változik. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye és mtsai (2026)]] 45 nigériai egyetemen pontozták a MI-integrációt, és mérsékelt összesített bevezetést találtak (M = 4,79, tartomány 1,83-7,83 egy 10 pontos skálán), az intézménytípus pedig nem jelezte előre az integrációt, ha az életkort és a földrajzi elhelyezkedést kontrollálták (életkor β = 0,43; délnyugati elhelyezkedés β = 0,31). A belső képességek r = 0,79-0,80 között korreláltak egymással, a nemzetközi együttműködések pedig az ipari partnerségekkel r = 0,74 mellett, így az összekapcsolt intézmények halmozódó előnyöket gyűjtenek. Hogy mely kapacitásépítési tervezések változtatnak az eredményeken az újabb, kevésbé összekapcsolt intézményekben, tesztelés nélkül marad.
 
@@ -183,7 +183,7 @@ Az oktatók, akik a tantermi szintű változatot keresik, kövessék az [[evalua
 
 **„Az összevont hatásméret már megmondja, mi működik.”** A 14 auditált metaanalízis eszközként definiálta a kezelést, összeegyeztethetetlen eredményeket vont össze, és 80% feletti I²-t jelentett a 13 elemzésből 12-ben, amely megadta. Az összevont szám olyan vizsgálatok halmazát írja le, amelyeknek konstruktumproblémája van.
 
-**„A szimulált diákok olcsóbbak, így a validálásuk várhat.”** A hízelgési vizsgálatban a szimulált diákok feladták a tévképzeteiket, függetlenül attól, hogy a visszajelzés foglalkozott-e velük, ami az a hibaüzemmód, amely eredménytelen tutort eredményesnek mutat.
+**„A szimulált diákok olcsóbbak, így a validálásuk várhat.”** A [[ai-sycophancy|hízelgési vizsgálatban]] a szimulált diákok feladták a tévképzeteiket, függetlenül attól, hogy a visszajelzés foglalkozott-e velük, ami az a hibaüzemmód, amely eredménytelen tutort eredményesnek mutat.
 
 ## Mit tegyen ezen a héten
 

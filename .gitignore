@@ -89,3 +89,6 @@ AIED-REJECTED.md
 # Python bytecode (never shipped)
 __pycache__/
 *.pyc
+
+# Local pre-edit snapshots (never published; keep them in scratch, not the repo)
+backups/

@@ -8,7 +8,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-25T18:35:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ Kila mwalimu wa AI, mfumo wa maoni, na dashibodi inaingiza dhana kuhusu jinsi wa
 Hizi zinaeleza mifumo: zinataja sehemu zinazofanya kazi na kutabiri nini kinachofuata zinapobadilika. Katika fasiri ya AI zinakopwa zaidi kutoka kwa saikolojia na [[learning-sciences|sayansi za kujifunza]], na kutumiwa kama fremu za ufasiri kuzunguka zana mpya.
 
 - **[[learning-theories|Nadharia za kujifunza (mwanya)]]** — familia nzima, ikijumuisha nguzo za kimasomo za [[behaviorism|behaviorism]] na [[constructivist|ukustruktivisti]] na pengo la "ukustruktivisti kwa jina, behaviorism kwa mazoezi" linalojirudia katika utekelezaji wa AI. Uunganishaji na nadharia ya mzigo wa kiakili pia vinashughulikiwa hapa.
-- **[[constructivist|Ukustruktivisti]]** — kujifunza kama ujenzi hai wa maarifa. Inategemeza kazi za msingi wa mradi, ualimu wa mazungumzo unaotumia AI, na ukosoaji kwamba mifumo ya mazoezi na maoni inakiuka mbinu zao zilizotangazwa za kielimu.
+- **[[constructivist|Ukustruktivisti]]** — kujifunza kama ujenzi hai wa maarifa. Inategemeza kazi za [[project-based-learning|msingi wa mradi]], ualimu wa mazungumzo unaotumia [[intelligent-tutoring|AI]], na ukosoaji kwamba mifumo ya mazoezi na maoni inakiuka mbinu zao zilizotangazwa za kielimu.
 - **[[sociocultural-learning|Nadharia ya kijamii-kitamaduni]]** — kujifunza kama kinachopatanishwa na zana na mwingiliano wa kijamii, ndiyo maana AI inafikiriwa kama kifaa cha kupatanisha badala ya msaada wa kawaida tu.
 - **[[activity-theory-aied|Nadharia ya shughuli]]** — inachukua mfumo mzima wa shughuli, ikijumuisha migongano, kama kipengele cha uchanganuzi. Ya kawaida katika masomo ya AI yanayowaelekea walimu, ambapo ugunduzi wa kuvutia ni kwa kawaida mvutano kati ya zana, kanuni, na jamii.
 - **[[situated-learning|Kujifunza kwa kuwekwa katika hali]]** na **[[embodied-learning|kujifunza kwa mwili]]** — kujifunza kama kinachounganishwa na muktadha na mwili, kizuizi cha kuchukulia AI kama njia ya lugha pekee.
@@ -47,8 +47,8 @@ Hizi zinaeleza mifumo: zinataja sehemu zinazofanya kazi na kutabiri nini kinacho
 - **[[community-of-inquiry|Jamii ya utafiti]]** — uwepo wa kijamii, wa kiakili, na wa ufundishaji unaofanya uzoefu wa mtandaoni ufanye kazi; nadharia ya uzoefu na fremu ya ubuni kwa wakati mmoja.
 - **[[self-determination-theory|Nadharia ya kujitambua]]** — uhuru, uwezo, na uhusiano kama mahitaji ya awali ya motisha. Mara nyingi ni ufafanuzi unaotolewa wakati matumizi ya AI yanaongeza ushiriki bila kuongeza kujifunza.
 - **[[cognitive-psychology|Kanuni ya kiakili]]** — uchakataji wa habari, kumbukumbu ya kazi, na tofauti kati ya hisia ya kujifunza na kujifunza halisi.
-- **Nadharia ya utambuzi wa kijamii (utulivu na uwezo)** — iliyoletwa kutoka kwa utambuzi wa kijamii na utafiti wa roboti za huduma, inaunda jinsi watumiaji wanavyohukumu uaminifu wa wakala wa AI: uwezo unaohisiwa ulitabiri uaminifu wa maoni ya ChatGPT moja kwa moja wakati utulivu ulifanya kazi tu kupitia huruma inayofanana na ya binadamu (SEM, wanafunzi 230; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
-- **Aina ya nne ya uwezekano ilipendekezwa, haikujaribiwa.** Kwa kusimba masudio 24 dhidi ya mpango wa uwezekano wa sehemu tatu, wakaguzi waligundua ushirikishaji, usalama na kujiamini hakukuendana na makundi ya kiteknolojia, kielimu au kijamii, na walipendekeza uwezekano wa kihisia unaotegemea uamuzi wa kubadilishana wa Bandura ([[genai-chatbots-language-learning-affordances-review-2026|Lopez na Arabadzhy (2026)]]).
+- **Nadharia ya utambuzi wa kijamii (utulivu na uwezo)** — iliyoletwa kutoka kwa utambuzi wa kijamii na utafiti wa roboti za huduma, inaunda jinsi watumiaji wanavyohukumu uaminifu wa [[agentic-ai|wakala wa AI]]: uwezo unaohisiwa ulitabiri uaminifu wa maoni ya ChatGPT moja kwa moja wakati utulivu ulifanya kazi tu kupitia huruma inayofanana na ya binadamu (SEM, wanafunzi 230; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
+- **Aina ya nne ya uwezekano ilipendekezwa, haikujaribiwa.** Kwa kusimba masudio 24 dhidi ya mpango wa uwezekano wa sehemu tatu, wakaguzi waligundua ushirikishaji, usalama na kujiamini hakukuendana na makundi ya kiteknolojia, [[pedagogy|kielimu]] au kijamii, na walipendekeza uwezekano wa kihisia unaotegemea uamuzi wa kubadilishana wa Bandura ([[genai-chatbots-language-learning-affordances-review-2026|Lopez na Arabadzhy (2026)]]).
 
 ## Mifano ya mwanafunzi na ya mchakato wa kujifunza
 
@@ -64,16 +64,16 @@ Hizi zinaeleza mifumo: zinataja sehemu zinazofanya kazi na kutabiri nini kinacho
 
 - **[[tpack|TPACK]]** — maarifa ya mwalimu yanayochanganya teknolojia, mbinu za kufundisha, na maudhui; mfumo chaguomsingi kwa masomo ya AI yanayowaelekea walimu.
 - **[[technology-acceptance-model|Miundo ya upokeaji]]** — nia kama kazi ya manufaa inayohisiwa na urahisi wa matumizi. Inatumika kwa upana kiasi kwamba utegemezi wa uwanja kwa nia badala ya tabia ni ukosoaji unaodumu.
-- **[[icap-framework|ICAP]]** — inapanga ushiriki kama wa kupitisha, hai, wa kujenga, na wa mwingiliano; yenye manufaa kwa kuuliza hali gani ambayo mwingiliano wa AI huwapa kweli.
+- **[[icap-framework|ICAP]]** — inapanga ushiriki kama wa kupitisha, hai, wa kujenga, na wa mwingiliano; yenye manufaa kwa kuuliza hali gani ambayo [[student-ai-interaction|mwingiliano wa AI]] huwapa kweli.
 - **[[samr-model|SAMR]]** — uingizwaji hadi ufafanuzi upya. Inajulikana kama hadithi ya ukomavu, dhaifu kama kifaa cha kupima.
-- **[[universal-design-for-learning|Ubuni wa jumla kwa kujifunza]]**, **[[inclusive-learning|kujifunza kwa wote]]**, na **[[accessibility|upatikanaji]]** — fremu za ubuni za nani anayehudumiwa, na zile zinazoitwa mara nyingi zaidi katika kazi ya ulemavu na usawa.
+- **[[universal-design-for-learning|Ubuni wa jumla kwa kujifunza]]**, **[[inclusive-learning|kujifunza kwa wote]]**, na **[[accessibility|upatikanaji]]** — fremu za ubuni za nani anayehudumiwa, na zile zinazoitwa mara nyingi zaidi katika kazi ya ulemavu na [[equity-in-ai-education|usawa]].
 - **[[learning-design|Ubuni wa kujifunza]]**, **[[curriculum-design|ubuni wa mitaala]]**, na **[[design-thinking|kufikiri kwa ubuni]]** — jinsi kazi, milolongo, na programu zinavyopangwa kabla ya zana yoyote kuchaguliwa.
 - **[[change-management|Usimamizi wa mabadiliko]]** — kama mfumo unachukuliwa kabisa au la, ambayo kwa kawaida ni swali la taasisi badala ya la kielimu.
 
 ## Mifano ya upimaji na ya kikokotozi
 
 - **[[item-response-theory|Nadharia ya majibu ya kipengele]]** — ukadiriaji wa kipengele na uwezo, na mfano unaofanya namba za jaribio ziwe na maana.
-- **[[educational-measurement|Upimaji wa kielimu]]** — mazingira ya vyombo, ikijumuisha vipimo vilivyojengwa mahususi kwa ujuzi wa AI.
+- **[[educational-measurement|Upimaji wa kielimu]]** — mazingira ya vyombo, ikijumuisha vipimo vilivyojengwa mahususi kwa [[ai-literacy|ujuzi wa AI]].
 - **[[assessment-validity|Uhalali]]** — kama kifaa kinapima dhana inayodai, ambayo huamua kama matokeo yaliyoripotiwa yanategemeza dai la nadharia yaliyounganishwa nayo.
 - **[[self-report-measures|Vipimo vya kujitangaza]]** — chanzo kinachotawala na chenye udhaifu zaidi cha ushahidi katika fasiri hii; dhana kadhaa zilizo juu zinajulikana kutofautiana kwa kiasi kikubwa kati ya kujitangaza na utendaji.
 - **[[knowledge-tracing|Kufuatilia maarifa]]** na **[[student-modeling|Kuweka mfano wa mwanafunzi]]** — kukadiria hali ya mwanafunzi kwa wakati kutoka data ya mwingiliano.
@@ -85,7 +85,7 @@ Hizi zinaeleza mifumo: zinataja sehemu zinazofanya kazi na kutabiri nini kinacho
 
 Mapendekezo manne katika hifadhi ya maarifa hujenga nadharia badala ya kuikopa. Ni kurasa za makala badala ya nodi za dhana, kwa sababu kila moja ni hoja moja:
 
-- **[[generativism-learning-theory|Uzalishaji]]** — nadharia mpya ya kujifunza inayodai kuwa nne za kimasomo zinaonyesha mapungufu makubwa ya dhana kadiri akili bandia ya kuzalisha inavyoenea.
+- **[[generativism-learning-theory|Uzalishaji]]** — nadharia mpya ya kujifunza inayodai kuwa nne za kimasomo zinaonyesha mapungufu makubwa ya dhana kadiri [[generative-ai|akili bandia ya kuzalisha]] inavyoenea.
 - **[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Ushirikiano wa maarifa]]** — mfano wa jinsi wanafunzi na mifumo ya AI wanavyozalisha maarifa na uelewa kwa pamoja.
 - **[[absent-cognitive-baseline-2026|Misingi ya kiakili isiyokuwepo]]** — inafafanua kwa nini wanafunzi wenye asili ya AI wanakadiri kupita kujifunza kwao wakati AI inavuja utendaji.
 - **[[yan-agentivism-learning-theory-ai-2026|Uwakala-isti]]** — nadharia ya wastani inayotaja mifumo minne (wakala uliopangwa, ufuatiliaji na uthibitishaji wa maarifa, ujengeaji upya wa ndani, na uhamisho chini ya msaada uliopunguzwa) na kutoa mapendekezo sita yanayoweza kujaribiwa.
@@ -101,7 +101,7 @@ Maneno yanatumika bila mpangilio katika fasiri, na tofauti inastahili aya moja b
 
 ## Tabaka zinazohusiana
 
-Kurasa mbili za jirani zimebuniwa kwa makusudi kuhusu kitu kingine. [[philosophy-of-ai-in-education|Falsafa ya AI katika elimu]] inauliza maswali ya kanuni na ya dhana — elimu ni *kwa ajili ya* nini, kama mashine inaweza kufundisha — na haitabiri ukubwa wa athari; utafiti unaweza kuwa wa kijinga kifalsafa na wa nadharia yenye ufanisi, au kinyume chake. [[theory-development-aied|Maendeleo ya nadharia]] ni shughuli ya juu ya kujenga, kukopwa, na kubadilisha nadharia, ikijumuisha ukosoaji unaodumu kuwa kazi nyingi za AIED zinatumia nadhari za zilizoko badala ya kuzijaribu. Ukurasa huu ni orodha; maendeleo ya nadharia ni kuhusu kuzalisha na kubadilisha orodha.
+Kurasa mbili za jirani zimebuniwa kwa makusudi kuhusu kitu kingine. [[philosophy-of-ai-in-education|Falsafa ya AI katika elimu]] inauliza maswali ya kanuni na ya dhana — elimu ni *kwa ajili ya* nini, kama mashine inaweza kufundisha — na haitabiri ukubwa wa athari; utafiti unaweza kuwa wa kijinga kifalsafa na wa nadharia yenye ufanisi, au kinyume chake. [[theory-development-aied|Maendeleo ya nadharia]] ni shughuli ya juu ya kujenga, kukopwa, na kubadilisha nadharia, ikijumuisha ukosoaji unaodumu kuwa kazi nyingi za [[ai-education|AIED]] zinatumia nadhari za zilizoko badala ya kuzijaribu. Ukurasa huu ni orodha; maendeleo ya nadharia ni kuhusu kuzalisha na kubadilisha orodha.
 
 ## Kuchagua lenzi wakati swali ni la vitendo
 
@@ -114,8 +114,7 @@ Kurasa mbili za jirani zimebuniwa kwa makusudi kuhusu kitu kingine. [[philosophy
 
 Miundo si ushahidi. Kwa kawaida yanakopwa kutoka miktadha ya kabla ya LLM na kuelezewa kwa eneo na yeyote anayeyatumia, yanaweza kufanya kazi kama chapa, na mifano ya hatua yanahimiza upokeaji wa vitufe vinavyoripoti harakati kupitia viwango badala ya kujifunza. Madai yanayotegemea mfumo yanapaswa kusomwa pamoja na [[limitations-in-aied-research|mapungufu ya msamba ya uwanja]], [[assessment-validity|uhalali]] wa chochote kilichopima matokeo, na mapungufu yanayojulikana ya [[self-report-measures|kujitangaza]].
 
-
-Ulinganifu wa mbinu-hadi-nadharia unaweza kuwa wa kuamua hata hivyo: muunganisho wa mada wa masudio 55 ya kujifunza kwa michezo unaosaidiwa na AI ulipata kuwa ufanisi ulitegemea kama mbinu ya AI ilitekeleza mbinu za kielimu ambayo ilikusudiwa kuhudumia badala ya ustadi wa algoriti ([[ai-game-based-learning-systematic-review-2026|Kaşarcı na Yurt (2026)]]).
+Ulinganifu wa mbinu-hadi-nadharia unaweza kuwa wa kuamua hata hivyo: muunganisho wa mada wa masudio 55 ya [[game-based-learning|kujifunza kwa michezo]] unaosaidiwa na AI ulipata kuwa ufanisi ulitegemea kama mbinu ya AI ilitekeleza mbinu za kielimu ambayo ilikusudiwa kuhudumia badala ya ustadi wa algoriti ([[ai-game-based-learning-systematic-review-2026|Kaşarcı na Yurt (2026)]]).
 
 ## Dhana Potofu za Kawaida
 

@@ -10,8 +10,8 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
-updated: "2026-10-27T16:47:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:31:30-05:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Pitanja za razmatranje
 
 - Samo stavljanje umjetne inteligencije na raspolaganje učenicima bilo je povezano s neučinkovitom ili čak neetičkom upotrebom, dok je izričito uokvirivanje i ugrađivanje primjerene upotrebe poboljšalo ishode. Ako je prisutnost alata manje važna od toga kako je uokviren, što to govori o naglasku na pukom „davanju umjetne inteligencije učenicima“?
-- Većina učenika upotrebljava generativnu umjetnu inteligenciju, mnogi nisu sigurni je li njihova upotreba u skladu s pravilima, a oslanjaju se na alate kojima pristupaju privatno, a ne na one koje osigurava institucija. Ako poznavanje pravila jedva mijenja ono što učenici čine, što bi ih moglo uvjeriti umjesto samo informirati?
+- Većina učenika upotrebljava [[generative-ai|generativnu umjetnu inteligenciju]], mnogi nisu sigurni je li njihova upotreba u skladu s pravilima, a oslanjaju se na alate kojima pristupaju privatno, a ne na one koje osigurava institucija. Ako poznavanje pravila jedva mijenja ono što učenici čine, što bi ih moglo uvjeriti umjesto samo informirati?
 - Kad institucije na umjetnu inteligenciju reagiraju strahom i osudom, učenici mogu skrivati ili opravdavati svoju upotrebu umjesto da nauče dobro je upotrebljavati. Jeste li vidjeli da reakcija „moralne panike“ tjera učenike u tajnovitost? Kako bi izgledao preokrenut pristup usmjeren na prilike?
 - Anksioznost zbog umjetne inteligencije nije samo prepreka: učenici koji su brinuli o točnosti i plagiranju bili su *više* skloni provjeravati i revidirati rezultate umjetne inteligencije umjesto da ih nekritički prihvate. Kako bi se produktivna anksioznost mogla usmjeriti u procjenjivačku kompetenciju umjesto da se potiskuje?
 - Učenici sami konstruiraju osjećaj onoga što je prihvatljivo kroz „mjesta“ - namjere nastavnika, dokumente kolegija, norme vršnjaka i institucionalne poruke - koja se često razilaze. Kad se te poruke sukobe, što mislite koja na kraju pobjeđuje, i kako uokvirivanje zatvara taj jaz?
@@ -41,7 +41,7 @@ Koncept se nalazi između dva poznatija koncepta. Dok [[technology-acceptance-mo
 
 Uokvirivanje je važno jer **politike i pravila sama po sebi ne mijenjaju ponašanje pouzdano**. Anketno [[research-methods-aied|istraživanje]] o svijesti o [[regulation|regulatornim]] pravilima pokazuje da je poznavanje institucionalnih pravila o generativnoj umjetnoj inteligenciji samo slabo do umjereno povezano s onim što učenici doista čine ([[student-regulatory-awareness-genai]]). Poznavanje pravila nužno je, ali nije dovoljno; poruka mora *uvjeriti*, a ne samo informirati.
 
-Diferencirano uokvirivanje može proizaći iz same politike, a ne samo između različitih mjesta: analiza osjećaja 36 sveučilišnih politika pokazala je da su izjave o poučavanju uokvirivane pozitivno, dok su izjave o generativnoj umjetnoj inteligenciji i etici uokvirivane negativno, pa su učenici u jednom dokumentu susreli i poticaj i obuzdavanje ([[sun-governing-genai-policy-cross-national-2026|Sun i sur. (2026)]]).
+Diferencirano uokvirivanje može proizaći iz same politike, a ne samo između različitih mjesta: [[affective-computing|analiza osjećaja]] 36 sveučilišnih politika pokazala je da su izjave o poučavanju uokvirivane pozitivno, dok su izjave o generativnoj umjetnoj inteligenciji i etici uokvirivane negativno, pa su učenici u jednom dokumentu susreli i poticaj i obuzdavanje ([[sun-governing-genai-policy-cross-national-2026|Sun i sur. (2026)]]).
 
 Okvir također oblikuje hoće li učenici umjetnu inteligenciju doživljavati kao **prijetnju koju treba izbjegavati ili zaobići** ili kao **resurs koji treba namjerno upotrebljavati**. Kad institucije na umjetnu inteligenciju reagiraju strahom i osudom - što jedna linija rada naziva ponavljajućom „moralnom panikom“ - one tjeraju učenike u skrivanje ili opravdavanje upotrebe umjesto u učenje kako je dobro upotrebljavati.([[moral-panic-genai-classroom]]) Preokretanje anksioznosti i osude u strukturiranu priliku mijenja cijelu dinamiku [[student-engagement|angažmana učenika]] s umjetnom inteligencijom.
 
@@ -61,7 +61,7 @@ Najizravnija poluga uokvirivanja u bazi znanja jest navođenje *razloga* za gran
 
 ### Preokrenite anksioznost i nesigurnost u procjenjivačku kompetenciju
 
-[[mixed-methods-research|Mješovito]] istraživanje akademskog [[writing-education|pisanja]] pokazalo je da anksioznost zbog umjetne inteligencije nije samo prepreka: učenici koji su brinuli o točnosti i plagiranju bili su *više* skloni provjeravati, unakrsno provjeravati i revidirati rezultate umjetne inteligencije umjesto da ih nekritički prihvate. Studija [[ai-literacy|pismenost o umjetnoj inteligenciji]] uokviruje manje kao prihvaćanje, a više kao **regulatornu kompetenciju** - sposobnost preispitivanja rezultata, selektivnog revidiranja i zadržavanja odgovornosti za autorstvo.([[ai-anxiety-strategic-regulation-writing-2026]]) Uokvirivanje upotrebe umjetne inteligencije za učenike znači usmjeravati produktivnu anksioznost prema procjeni, a ne je potiskivati.
+[[mixed-methods-research|Mješovito]] istraživanje akademskog [[writing-education|pisanja]] pokazalo je da [[anxiety-and-stress|anksioznost zbog umjetne inteligencije]] nije samo prepreka: učenici koji su brinuli o točnosti i plagiranju bili su *više* skloni provjeravati, unakrsno provjeravati i revidirati rezultate umjetne inteligencije umjesto da ih nekritički prihvate. Studija [[ai-literacy|pismenost o umjetnoj inteligenciji]] uokviruje manje kao prihvaćanje, a više kao **regulatornu kompetenciju** - sposobnost preispitivanja rezultata, selektivnog revidiranja i zadržavanja odgovornosti za autorstvo.([[ai-anxiety-strategic-regulation-writing-2026]]) Uokvirivanje upotrebe umjetne inteligencije za učenike znači usmjeravati produktivnu anksioznost prema procjeni, a ne je potiskivati.
 
 ### Upotrijebite ciljane poruke za oblikovanje određenih ponašanja
 

@@ -12,7 +12,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-29T10:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ Gizli tohum istemleriyle *YZ doğruluğunu* rastgele atayan, önceden kaydedilmi
 Pratik okuma, teslimiyetin bir motivasyon başarısızlığından ziyade bir **ayırt etme başarısızlığı** olduğudur. Teslim olan katılımcılar çalışmaktan kaçınmaya çalışmıyordu; iyi öneriyi kötüsünden ayırt edemiyorlardı ve arayüz onlara denemek için hiçbir neden sunmuyordu.
 
 
-[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] tarafından önceden kaydedilmiş bir deney, karşıt bir yapılandırma sunar. Asistan, getirimle güçlendirme yoluyla atanan çalışma kâğıdına sınırlandırıldığında, YZ koşulu bilişsel yük dışarı aktarmayı yükseltmek yerine düşürdü (ortanca −0,27) ve hiçbir yük dışarı aktarma yolu, düzensizlikteki artışı (0,84) taşımadı. Teslimiyet, önerisi bütünüyle benimsenebilecek bir asistan gerektirir; yalnızca eldeki materyalden yanıt veren bir sistem, öğrenene benimsenecek daha az ve uzlaştırılacak daha çok şey verir.
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] tarafından önceden kaydedilmiş bir deney, karşıt bir yapılandırma sunar. Asistan, [[rag|getirimle güçlendirme]] yoluyla atanan çalışma kâğıdına sınırlandırıldığında, YZ koşulu bilişsel yük dışarı aktarmayı yükseltmek yerine düşürdü (ortanca −0,27) ve hiçbir yük dışarı aktarma yolu, düzensizlikteki artışı (0,84) taşımadı. Teslimiyet, önerisi bütünüyle benimsenebilecek bir asistan gerektirir; yalnızca eldeki materyalden yanıt veren bir sistem, öğrenene benimsenecek daha az ve uzlaştırılacak daha çok şey verir.
 
 ## Laboratuvar dışında teslimiyet
 
@@ -83,6 +83,9 @@ Laboratuvar bulguları, bağımsız olarak aynı kelimeye ulaşan alan ve gözle
 - **Bağımlı ve özerk kipler yalnızca sonuçlarıyla ayırt edilebilir.** [[family-school-autonomy-support-genai-2026|Fan, Li ve Zhang (2026)]], üç dalga boyunca 589 öğrenciyi ve kariyerinin başındaki çalışanları izler: bağımlı yük dışarı aktarma çekirdek düşünceyi devretti ve daha düşük içsel motivasyonla izledi, özerk yük dışarı aktarma ise izlemedi ve her iki durumda da anlık performans özdeş göründü.
 - **Modelin kendi katkısı.** [[sycophantic-ai-social-interaction-2026|Yağcılık]], teslimiyetin tamamlayıcısıdır: hemfikir olan, kullanıcının çerçevesine doğru yumuşayan veya bir iddiayı akıcı biçimde ifade eden bir asistan, öğrene karşı çıkabileceği hiçbir şey bırakmaz.
 - **Geri çekilme, çözülmemiş yarısıdır.** [[cognitive-washout-ai-skill-decay-2026|Bilişsel erime üzerine çalışmalar]], bu araştırmaların neredeyse tamamının bilişi YZ *kullanımı sırasında* ölçtüğünü ve asistanın elinden alındığında ne olduğunu neredeyse hiçbirinin ölçmediğini belirtir — oysa bu, tam olarak bir sınavın, bir kesintinin veya bir lisans incelemesinin sorduğu sorudur.
+
+
+- **“Tüm makaleyi devretmek laboratuvar dışında varsayımsal kalır.”** Oldu: politika ve teşvikin bulunmadığı tek oturumluk bir çevrimiçi çalışmada. **77** üniversite yazarından **15'i (%19,5)**, editöre tek kelime yazmadan **%100** model tarafından yazılmış makaleler teslim etti ve **20** katılımcı doğrudan tam bir makale istedi; bu, şemadaki en çok kullanılan koddur. En ağır kullanıcı **27** sorgu gönderdi. [[jelson-students-chatgpt-essay-writing-2026|Teslimiyet, tek bir tespit edilebilir eylem olarak değil bir istek örüntüsü olarak göründü]].
 
 ## Teslimiyete karşı tasarlamak ve öğretmek
 
@@ -144,3 +147,5 @@ Adlandırılmış bir yapı olarak teslimiyete dair kanıt, büyük ölçüde te
 - [[brcic-effortless-trap-productive-struggle-2026]] — placing AI so the task stays effortful
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — calibration training
 - [[family-school-autonomy-support-genai-2026]] — dependent versus autonomous offloading
+
+- [[jelson-students-chatgpt-essay-writing-2026]] — Naturalistic whole-essay delegation: 15 of 77 essays entirely model-written, 20 requests for a complete essay (Jelson et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Resa cognitiva
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T06:32:22-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-29T10:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -73,7 +73,7 @@ Tre esperimenti preregistrati hanno adattato il Cognitive Reflection Test e rand
 
 La lettura pratica è che la resa è un **fallimento di discriminazione** piuttosto che un fallimento di motivazione. I partecipanti che si arrendevano non stavano cercando di evitare il lavoro; non riuscivano a distinguere il consiglio buono da quello cattivo, e l'interfaccia non dava loro alcuna ragione di provarci.
 
-Un esperimento preregistrato di [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] fornisce una configurazione contrastante. Con l'assistente confinato tramite retrieval augmentation al foglio di lavoro assegnato, la condizione IA abbassava lo scaricamento cognitivo (mediana −0,27) anziché alzarlo, e nessun percorso di scaricamento portava l'aumento della disorganizzazione (0,84). La resa ha bisogno di un assistente il cui consiglio possa essere adottato in blocco; un sistema che risponde solo dal materiale presente dà al discente meno da adottare e più da riconciliare.
+Un esperimento preregistrato di [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] fornisce una configurazione contrastante. Con l'assistente confinato tramite [[rag|retrieval augmentation]] al foglio di lavoro assegnato, la condizione IA abbassava lo scaricamento cognitivo (mediana −0,27) anziché alzarlo, e nessun percorso di scaricamento portava l'aumento della disorganizzazione (0,84). La resa ha bisogno di un assistente il cui consiglio possa essere adottato in blocco; un sistema che risponde solo dal materiale presente dà al discente meno da adottare e più da riconciliare.
 
 ## La resa fuori dal laboratorio
 
@@ -87,6 +87,8 @@ I risultati di laboratorio si allineano con lavori sul campo e osservativi che a
 - **Le modalità dipendente e autonoma si distinguono solo nelle conseguenze.** [[family-school-autonomy-support-genai-2026|Fan, Li e Zhang (2026)]] seguono 589 studenti e lavoratori all'inizio della carriera attraverso tre ondate: lo scaricamento dipendente delegava il pensiero centrale e si associava a una minore motivazione intrinseca, mentre lo scaricamento autonomo no, e la performance immediata appariva identica in entrambi.
 - **Il contributo del modello stesso.** La [[sycophantic-ai-social-interaction-2026|sycophancy]] è il complemento della resa: un assistente che concorda, sfuma verso l'inquadratura dell'utente, o enuncia un'affermazione con fluidità non dà a chi apprende nulla contro cui spingere.
 - **L'abbandono è la metà irrisolta.** [[cognitive-washout-ai-skill-decay-2026|I lavori sul cognitive washout]] fanno notare che quasi tutta questa ricerca misura la cognizione *durante* l'uso dell'IA, e quasi nessuna misura ciò che accade quando l'assistente viene rimosso, che è esattamente la domanda che pongono un esame, un'interruzione o una revisione di licenza.
+
+- **"La delega dell'intero tema resta ipotetica fuori dal laboratorio."** È accaduto in uno studio online di una sola sessione, senza politiche e senza incoraggiamento. Di **77** scrittori universitari, **15 (19,5%)** hanno inviato saggi scritti al **100%** dal modello, senza digitare una parola nell'editor, e **20** partecipanti hanno chiesto apertamente un tema completo, il codice più usato nello schema. L'utente più intenso ha inviato **27** query. [[jelson-students-chatgpt-essay-writing-2026|La resa si è manifestata come schema di richiesta]], non come un singolo atto rilevabile.
 
 ## Progettare e insegnare contro la resa
 
@@ -147,3 +149,5 @@ L'evidenza della resa come costrutto nominato poggia pesantemente su un unico pr
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — calibration training
 - [[family-school-autonomy-support-genai-2026]] — dependent versus autonomous offloading
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — A worksheet-grounded assistant lowered offloading rather than raising it, a boundary condition for the surrender signature (Braun 2026)
+
+- [[jelson-students-chatgpt-essay-writing-2026]] — Naturalistic whole-essay delegation: 15 of 77 essays entirely model-written, 20 requests for a complete essay (Jelson et al. 2026)

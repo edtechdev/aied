@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T14:48:09-04:00"
+updated: "2026-11-08T05:10:57-05:00"
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
@@ -67,7 +67,7 @@ Kesenjangan yang tersisa berkaitan dengan lintasan kemampuan, dan satu postes ta
 
 "Pembelajaran berbantuan AI" biasanya membungkus beberapa perubahan sekaligus: umpan balik baru, refleksi tambahan, diskusi teman sebaya, urutan tugas yang berbeda, insentif penilaian yang berubah. Paket yang berhasil tidak memberi tahu Anda komponen mana yang diperlukan.
 
-[[genai-feedback-design-multisite-experiment|Rancangan umpan balik GenAI yang berpusat pada manusia]] adalah kemajuan nyata atas pertanyaan itu. Di antara 1.176 mahasiswa tingkat pertama, rancangan reflektif dan hibrida mengungguli [[ai-feedback-quality|umpan balik AI]] langsung pada transfer tertunda tanpa AI. Kondisi hibrida menggabungkan evaluasi diri, [[peer-assessment|umpan balik teman sebaya]], dan kritik AI. Itu memisahkan bagaimana umpan balik diorganisasikan dan digunakan dari apakah siswa memiliki akses ke umpan balik sama sekali.
+[[genai-feedback-design-multisite-experiment|Rancangan umpan balik GenAI yang berpusat pada manusia]] adalah kemajuan nyata atas pertanyaan itu. Di antara 1.176 mahasiswa tingkat pertama, rancangan reflektif dan hibrida mengungguli [[ai-feedback-quality|umpan balik AI]] langsung pada transfer tertunda tanpa AI. Kondisi hibrida menggabungkan [[self-assessment|evaluasi diri]], [[peer-assessment|umpan balik teman sebaya]], dan kritik AI. Itu memisahkan bagaimana umpan balik diorganisasikan dan digunakan dari apakah siswa memiliki akses ke umpan balik sama sekali.
 
 Yang masih terbuka: kontribusi dan waktu percobaan mandiri awal, penjelasan diri, masukan teman sebaya, umpan balik korektif, petunjuk, dan bantuan yang memudar, serta bagaimana masing-masing berinteraksi dengan [[prior-knowledge|pengetahuan awal]] dan kesulitan tugas.
 
@@ -87,7 +87,7 @@ AI menciptakan dua masalah penilaian yang saling terhubung: ia membantu menghasi
 
 [[ai-agents-complete-lms-assessment-validity-2026|Studi basis pengetahuan tentang agen AI yang menyelesaikan tugas penilaian di LMS]] mendokumentasikan agen yang menavigasi kursus sarjana yang berjalan langsung dan menyelesaikan aktivitas yang dinilai. Itu menunjukkan kemampuan yang menantang asumsi tentang bukti yang dihasilkan siswa. Itu tidak menetapkan seberapa umum penggunaan semacam itu, dan tidak membatalkan penilaian asinkron sebagai sebuah kategori.
 
-Pertanyaan penelitiannya adalah rancangan mana yang masih mendukung kesimpulan yang dapat dipertahankan tentang pembelajar. [[eportfolio|Portofolio]], refleksi, pengumpulan bertahap, dan log aktivitas perlu divalidasi sebagai bukti, bukan diasumsikan menetapkan kepengarangan atau pemahaman. Studi harus menguji kombinasi bukti terhadap kompetensi yang diamati secara independen sambil memperhitungkan aksesibilitas, beban kerja, privasi, dan kecemasan siswa. [[assessment-validity|Validitas Penilaian]] memuat rinciannya.
+Pertanyaan penelitiannya adalah rancangan mana yang masih mendukung kesimpulan yang dapat dipertahankan tentang pembelajar. [[eportfolio|Portofolio]], refleksi, pengumpulan bertahap, dan log aktivitas perlu divalidasi sebagai bukti, bukan diasumsikan menetapkan kepengarangan atau pemahaman. Studi harus menguji kombinasi bukti terhadap kompetensi yang diamati secara independen sambil memperhitungkan aksesibilitas, beban kerja, privasi, dan [[anxiety-and-stress|kecemasan siswa]]. [[assessment-validity|Validitas Penilaian]] memuat rinciannya.
 
 Untuk [[automated-assessment|penilaian otomatis]], [[llms-do-not-grade-essays-like-humans-2026|LLMs Do Not Grade Essays Like Humans]] melaporkan ketidaksepakatan sistematis antara model bawaan dan penilai manusia. Temuan itu spesifik pada konfigurasi, dan menunjukkan mengapa konsistensi internal tidak dapat menanggung klaim validitas.
 
@@ -105,11 +105,11 @@ Menyelesaikannya membutuhkan penilaian berbasis kinerja yang digabungkan dengan 
 
 ## Laporkan siapa yang ditinggalkan oleh temuan itu
 
-Temuan dari satu kursus, institusi, bahasa, atau populasi pembelajar jarang dapat menjadi dasar keputusan di tempat lain, sebuah masalah yang diperlakukan sintesis [[limitations-in-aied-research|Keterbatasan dalam Penelitian AIEd]] sebagai hal yang berulang. Bagaimana efek bervariasi menurut tahap perkembangan, disiplin, pengetahuan awal, disabilitas, bahasa, dan kondisi sumber daya sebagian besar masih belum terukur.
+Temuan dari satu kursus, institusi, bahasa, atau [[learners|populasi pembelajar]] jarang dapat menjadi dasar keputusan di tempat lain, sebuah masalah yang diperlakukan sintesis [[limitations-in-aied-research|Keterbatasan dalam Penelitian AIEd]] sebagai hal yang berulang. Bagaimana efek bervariasi menurut tahap perkembangan, disiplin, pengetahuan awal, disabilitas, bahasa, dan kondisi sumber daya sebagian besar masih belum terukur.
 
 Penelitian ekuitas juga harus memisahkan akses, keterampilan, dan hasil. Sintesis [[digital-divide|Kesenjangan Digital]] jelas bahwa perangkat dan akses alat tidak menetapkan kapasitas yang setara untuk memperoleh manfaat. [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] mengikuti 752 siswa sekolah menengah pertama di Hong Kong: kesenjangan kesiapan psikologis menyempit sementara perbedaan pada tes literasi AI yang objektif tetap ada. Setiap kelompok membaik, dan ketidaksetaraan tidak menutup. Profil pembelajaran sebelumnya tidak ditetapkan secara acak, sehingga peran kausalnya tetap tidak diketahui.
 
-Cakupannya tipis di tempat-tempat tertentu. [[differential-effects-across-learner-groups|Efek Diferensial Lintas Kelompok Pembelajar]] menghitung literatur menurut populasi: pembelajar bahasa kedua dan multibahasa serta siswa dengan disabilitas adalah untaian terdalam, gender dan neurodiversitas menyusul, siswa generasi pertama dan siswa internasional masing-masing memiliki satu studi dalam korpus ini, siswa berbakat dan berprestasi tinggi secara efektif belum diteliti, dan pembelajar pengungsi, imigran, serta yang terlantar tidak muncul sama sekali. Basis bukti dengan bentuk seperti itu tidak dapat menjawab pertanyaan ekuitas melalui agregasi.
+Cakupannya tipis di tempat-tempat tertentu. [[differential-effects-across-learner-groups|Efek Diferensial Lintas Kelompok Pembelajar]] menghitung literatur menurut populasi: pembelajar bahasa kedua dan [[multilingual-learning|multibahasa]] serta [[inclusive-learning|siswa dengan disabilitas]] adalah untaian terdalam, gender dan [[neurodiversity|neurodiversitas]] menyusul, siswa generasi pertama memiliki dua studi, satu tentang perbedaan penggunaan dan satu tentang estimasi efek, sedangkan siswa internasional satu, siswa berbakat dan berprestasi tinggi secara efektif belum diteliti, dan pembelajar pengungsi, imigran, serta yang terlantar tidak muncul sama sekali. Basis bukti dengan bentuk seperti itu tidak dapat menjawab pertanyaan ekuitas melalui agregasi.
 
 Kapasitas juga bervariasi di dalam satu sistem nasional. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] menilai integrasi AI di 45 universitas Nigeria dan menemukan adopsi keseluruhan yang moderat (M = 4,79, rentang 1,83-7,83 pada skala 10 poin), sementara jenis institusi tidak memprediksi integrasi setelah usia dan geografi dikendalikan (usia β = 0,43; lokasi South-West β = 0,31). Kapabilitas internal saling berkorelasi pada r = 0,79-0,80 dan kolaborasi internasional dengan kemitraan industri pada r = 0,74, sehingga institusi yang terhubung mengakumulasi keuntungan yang berlipat. Rancangan pembangunan kapasitas mana yang mengubah hasil di institusi yang lebih baru dan kurang terhubung belum diuji.
 
@@ -183,7 +183,7 @@ Pengajar yang menginginkan versi tingkat kelas dapat mengikuti [[evaluating-ai-i
 
 **"Ukuran efek gabungan sudah memberi tahu saya apa yang berhasil."** Keempat belas meta-analisis yang diaudit mendefinisikan perlakuan sebagai sebuah alat, menggabungkan hasil yang tidak kompatibel, dan melaporkan I² di atas 80% pada 12 dari 13 analisis yang menyebutkannya. Angka gabungan itu menggambarkan sekumpulan studi dengan masalah konstruk.
 
-**"Siswa simulasi lebih murah, jadi validasinya bisa menunggu."** Dalam studi kesikofanan, siswa simulasi meninggalkan miskonsepsi terlepas dari apakah umpan balik menanganinya, dan itulah mode kegagalan yang membuat tutor tidak efektif tampak efektif.
+**"Siswa simulasi lebih murah, jadi validasinya bisa menunggu."** Dalam studi [[ai-sycophancy|kesikofanan]], siswa simulasi meninggalkan miskonsepsi terlepas dari apakah umpan balik menanganinya, dan itulah mode kegagalan yang membuat tutor tidak efektif tampak efektif.
 
 ## Yang perlu dilakukan pekan ini
 

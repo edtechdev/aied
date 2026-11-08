@@ -12,8 +12,8 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-11-01T14:00:00-05:00"
-updated: "2026-11-04T02:10:49-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:32:22-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -74,7 +74,7 @@ Tiga eksperimen terpreregistrasi mengadaptasi Cognitive Reflection Test dan mera
 
 Pembacaan praktisnya adalah bahwa penyerahan merupakan **kegagalan diskriminasi** dan bukan kegagalan motivasi. Peserta yang menyerah tidak berusaha menghindari kerja; mereka tidak dapat membedakan saran baik dari saran buruk, dan antarmuka tidak memberi mereka alasan untuk mencoba.
 
-Eksperimen terpreregistrasi oleh [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] memasok konfigurasi yang berlawanan. Dengan asisten yang dipagari oleh augmentasi pengambilan pada lembar kerja yang ditugaskan, kondisi AI menurunkan offloading kognitif (median -0,27) alih-alih menaikkannya, dan tidak ada jalur offloading yang membawa kenaikan ketidakteraturan (0,84). Penyerahan membutuhkan asisten yang sarannya dapat diadopsi secara utuh; sistem yang hanya menjawab dari materi yang ada memberi pembelajar lebih sedikit untuk diadopsi dan lebih banyak untuk direkonsiliasi.
+Eksperimen terpreregistrasi oleh [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] memasok konfigurasi yang berlawanan. Dengan asisten yang dipagari oleh [[rag|augmentasi pengambilan]] pada lembar kerja yang ditugaskan, kondisi AI menurunkan offloading kognitif (median -0,27) alih-alih menaikkannya, dan tidak ada jalur offloading yang membawa kenaikan ketidakteraturan (0,84). Penyerahan membutuhkan asisten yang sarannya dapat diadopsi secara utuh; sistem yang hanya menjawab dari materi yang ada memberi pembelajar lebih sedikit untuk diadopsi dan lebih banyak untuk direkonsiliasi.
 
 ## Penyerahan di luar laboratorium
 

@@ -8,7 +8,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-25T18:35:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ Her YZ öğretmeni, geri bildirim sistemi ve panosu, tasarımcılar bunları bel
 Bunlar mekanizmaları açıklar: işi yapan parçaları adlandırır ve bu parçalar değiştiğinde ne izleyeceğini öngörür. YZ literatüründe çoğunlukla psikolojiden ve [[learning-sciences|öğrenme bilimlerinden]] ödünç alınır ve yeni bir aracın çevresinde yorumlayıcı çerçeve olarak kullanılır.
 
 - **[[learning-theories|Öğrenme teorileri (şemsiye)]]** — ailenin tamamı; [[behaviorism|davranışçılık]] ile [[constructivist|yapılandırmacılığın]] klasik kutuplarını ve YZ uygulamalarında tekrarlayan “adı yapılandırmacılık, uygulaması davranışçılık” uyumsuzluğunu içerir. Bağlantıcılık ve bilişsel yük kuramı da burada ele alınır.
-- **[[constructivist|Yapılandırmacılık]]** — öğrenmeyi etkin bilgi inşası olarak görür. Proje tabanlı çalışmaları, diyalog temelli YZ öğretmenliğini ve alıştırma-geri bildirim sistemlerinin kendi ilan ettikleri pedagojiyi ihlal ettiğine dair eleştiriyi besler.
+- **[[constructivist|Yapılandırmacılık]]** — öğrenmeyi etkin bilgi inşası olarak görür. [[project-based-learning|Proje tabanlı]] çalışmaları, diyalog temelli [[intelligent-tutoring|YZ öğretmenliğini]] ve alıştırma-geri bildirim sistemlerinin kendi ilan ettikleri pedagojiyi ihlal ettiğine dair eleştiriyi besler.
 - **[[sociocultural-learning|Sosyokültürel kuram]]** — öğrenmeyi araçlar ve sosyal etkileşim tarafından aracılık edilen bir süreç olarak görür; YZ’nin sıradan bir yardımcı değil, aracılık eden bir yapı olarak kuramsallaştırılmasının sebebi budur.
 - **[[activity-theory-aied|Eylem kuramı]]** — çelişkiler dâhil tüm eylem sistemini analiz birimi olarak alır. Öğretmen yönelimli YZ çalışmalarında yaygındır; ilginç bulgu genellikle araçlar, kurallar ve topluluk arasındaki gerilimdir.
 - **[[situated-learning|Durumsal öğrenme]]** ve **[[embodied-learning|Gövdeleştirilmiş öğrenme]]** — öğrenmeyi bağlama ve bedene bağlı olarak görür; YZ’yi salt dilsel bir ortam olarak ele almanın karşı ağırlığıdır.
@@ -47,8 +47,8 @@ Bunlar mekanizmaları açıklar: işi yapan parçaları adlandırır ve bu parç
 - **[[community-of-inquiry|Soruşma topluluğu]]** — çevrimiçi bir deneyimi işleyen kılan sosyal, bilişsel ve öğretim varlıkları; bir deneyim kuramı ve aynı zamanda bir tasarım çerçevesi.
 - **[[self-determination-theory|Öz-belirleme kuramı]]** — özerklik, yetkinlik ve ilişkililiğin motivasyonel ön koşullar olarak ele alınması. YZ kullanımı öğrenmeyi artırmadan katılımı artırdığında sunulan açıklama çoğu zaman budur.
 - **[[cognitive-psychology|Bilişçilik]]** — bilgi işleme, çalışma belleği ve öğrenme duygusu ile gerçek öğrenme arasındaki ayrım.
-- **Sosyal algı kuramı (sıcaklık ve yetkinlik)**: sosyal biliş ve hizmet robotu araştırmalarından alınmıştır; kullanıcıların bir YZ ajanının inandırıcılığını nasıl yargıladığını çerçeveler: algılanan yetkinlik ChatGPT’nin geri bildirim inandırıcılığını doğrudan yordarken sıcaklık yalnızca insan benzeri empati üzerinden etkili olmuştur (SEM, 230 öğrenci; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López ve ark. (2026)]]).
-- **Dördüncü bir olanak kategorisi önerildi, sınanmadı.** 24 çalışmayı üç parçalı bir olanak şemasına göre kodlayan gözden geçirenler, katılım, güvenlik ve öz yeterliliğin teknolojik, pedagojik veya sosyal kategorilere uymadığını bulmuş ve Bandura’nın karşılıklı belirlenimciliğine dayanan duygusal olanaklar önermiştir ([[genai-chatbots-language-learning-affordances-review-2026|Lopez ve Arabadzhy (2026)]]).
+- **Sosyal algı kuramı (sıcaklık ve yetkinlik)**: sosyal biliş ve hizmet robotu araştırmalarından alınmıştır; kullanıcıların bir [[agentic-ai|YZ ajanının]] inandırıcılığını nasıl yargıladığını çerçeveler: algılanan yetkinlik ChatGPT’nin geri bildirim inandırıcılığını doğrudan yordarken sıcaklık yalnızca insan benzeri empati üzerinden etkili olmuştur (SEM, 230 öğrenci; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López ve ark. (2026)]]).
+- **Dördüncü bir olanak kategorisi önerildi, sınanmadı.** 24 çalışmayı üç parçalı bir olanak şemasına göre kodlayan gözden geçirenler, katılım, güvenlik ve öz yeterliliğin teknolojik, [[pedagogy|pedagojik]] veya sosyal kategorilere uymadığını bulmuş ve Bandura’nın karşılıklı belirlenimciliğine dayanan duygusal olanaklar önermiştir ([[genai-chatbots-language-learning-affordances-review-2026|Lopez ve Arabadzhy (2026)]]).
 
 ## Öğrenen ve öğrenme süreci modelleri
 
@@ -64,16 +64,16 @@ Bunlar mekanizmaları açıklar: işi yapan parçaları adlandırır ve bu parç
 
 - **[[tpack|TPACK]]** — teknolojiyi, pedagojiyi ve içeriği harmanlayan öğretmen bilgisi; öğretmen yönelimli YZ çalışmaları için varsayılan çerçeve.
 - **[[technology-acceptance-model|Benimseme modelleri]]** — niyetin algılanan fayda ve kullanım kolaylığının bir işlevi olarak ele alınması. Alanın davranış yerine niyete dayanmasının kalıcı bir eleştiri olduğu kadar yaygın biçimde kullanılır.
-- **[[icap-framework|ICAP]]** — katılımı pasif, etkin, yapıcı, etkileşimli olarak sıralar; bir YZ etkileşiminin gerçekten ne tür bir kip sağladığını sormak için yararlıdır.
+- **[[icap-framework|ICAP]]** — katılımı pasif, etkin, yapıcı, etkileşimli olarak sıralar; bir [[student-ai-interaction|YZ etkileşiminin]] gerçekten ne tür bir kip sağladığını sormak için yararlıdır.
 - **[[samr-model|SAMR]]** — ikameden yeniden tanımlamaya. Olgunluk öyküsü olarak popüler, ölçüm aracı olarak zayıf.
-- **[[universal-design-for-learning|Evrensel öğrenme tasarımı]]**, **[[inclusive-learning|kapsayıcı öğrenme]]** ve **[[accessibility|erişilebilirlik]]** — kimin hizmet aldığını belirleyen tasarım çerçeveleri; engellilik ve eşitlik çalışmalarında en sık başvurulanlar.
+- **[[universal-design-for-learning|Evrensel öğrenme tasarımı]]**, **[[inclusive-learning|kapsayıcı öğrenme]]** ve **[[accessibility|erişilebilirlik]]** — kimin hizmet aldığını belirleyen tasarım çerçeveleri; engellilik ve [[equity-in-ai-education|eşitlik]] çalışmalarında en sık başvurulanlar.
 - **[[learning-design|Öğrenme tasarımı]]**, **[[curriculum-design|müfredat tasarımı]]** ve **[[design-thinking|Tasarım odaklı düşünme]]** — herhangi bir araç seçilmeden önce görevlerin, dizilerin ve programların nasıl yapılandırıldığı.
 - **[[change-management|Değişim yönetimi]]** — bir sistemin hiç benimsenip benimsenmediği; çoğu zaman pedagojiden çok kurumsal bir soru.
 
 ## Ölçüm ve hesaplama modelleri
 
 - **[[item-response-theory|Madde tepki kuramı]]** — madde ve yetenek tahmini; bir testin sayılarını yorumlanabilir kılan model.
-- **[[educational-measurement|Eğitsel ölçme]]** — araç manzarası; YZ okuryazarlığı için özellikle geliştirilen ölçüler dâhil.
+- **[[educational-measurement|Eğitsel ölçme]]** — araç manzarası; [[ai-literacy|YZ okuryazarlığı]] için özellikle geliştirilen ölçüler dâhil.
 - **[[assessment-validity|Geçerlik]]** — bir aracın iddia ettiği yapıyı ölçüp ölçmediği; bildirilen bir sonucun kendisine eklenen kuramsal iddiayı destekleyip desteklemediğine karar verir.
 - **[[self-report-measures|Öz-bildirim ölçüleri]]** — bu literatürde baskın ve en kırılgan kanıt kaynağı; yukarıdaki yapıların bir kısmının öz-bildirim ile performans arasında sert biçimde ayrıştığı bilinmektedir.
 - **[[knowledge-tracing|Bilgi izleme]]** ve **[[student-modeling|Öğrenci modelleme]]** — etkileşim verilerinden öğrenenin durumunu zaman içinde tahmin etme.
@@ -85,7 +85,7 @@ Bunlar mekanizmaları açıklar: işi yapan parçaları adlandırır ve bu parç
 
 Bilgi tabanındaki dört öneri teoriyi ödünç almak yerine inşa eder. Bunlar kavram düğümleri değil, makale sayfalarıdır; çünkü her biri tek bir argümandır:
 
-- **[[generativism-learning-theory|Üretkencilik]]** — üretken YZ yaygınlaştıkça klasik dördün önemli kavramsal sınırlılıklar gösterdiğini ileri süren yeni bir öğrenme kuramı.
+- **[[generativism-learning-theory|Üretkencilik]]** — [[generative-ai|üretken YZ]] yaygınlaştıkça klasik dördün önemli kavramsal sınırlılıklar gösterdiğini ileri süren yeni bir öğrenme kuramı.
 - **[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Epistemik ortak-etkenlik]]** — öğrenenler ile YZ sistemlerinin bilgiyi ve anlayışı birlikte nasıl ürettiğine dair bir model.
 - **[[absent-cognitive-baseline-2026|Eksik bilişsel taban]]** — YZ performansı şişirdiğinde YZ’ye doğal öğrencilerin kendi öğrenmelerini neden fazla tahmin ettiğini kuramsallaştırır.
 - **[[yan-agentivism-learning-theory-ai-2026|Etkencilik]]** — dört mekanizmaya (devredilmiş etkenlik, epistemik izleme ve doğrulama, yeniden yapılandırıcı içselleştirme ve azaltılmış destek altında aktarım) ad veren ve sınamaya açık altı önerme ortaya koyan orta-ölçekli bir kuram.
@@ -101,7 +101,7 @@ Kelimeler literatürde gevşek kullanılır ve aradaki fark bir sayfa değil, bi
 
 ## İlgili katmanlar
 
-İki komşu sayfa bilerek başka bir şey üzerinedir. [[philosophy-of-ai-in-education|Eğitimde YZ felsefesi]] normatif ve kavramsal sorular sorar — eğitimin *ne için* olduğu, bir makinenin öğretip öğretemeyeceği — ve etki büyüklükleri öngörmez; bir çalışma felsefi olarak naif ve kuramsal olarak sağlam olabilir ya da tersi. [[theory-development-aied|Teori geliştirme]], var olan teoriyi sınamak yerine uygulayan çok sayıdaki AIEd çalışmasına ilişkin kalıcı eleştiri dâhil, teoriyi inşa etme, ödünç alma ve revize etme üst-etkinliğidir. Bu sayfa envanterdir; teori geliştirme, envanteri üretmek ve revize etmekle ilgilidir.
+İki komşu sayfa bilerek başka bir şey üzerinedir. [[philosophy-of-ai-in-education|Eğitimde YZ felsefesi]] normatif ve kavramsal sorular sorar — eğitimin *ne için* olduğu, bir makinenin öğretip öğretemeyeceği — ve etki büyüklükleri öngörmez; bir çalışma felsefi olarak naif ve kuramsal olarak sağlam olabilir ya da tersi. [[theory-development-aied|Teori geliştirme]], var olan teoriyi sınamak yerine uygulayan çok sayıdaki [[ai-education|AIEd]] çalışmasına ilişkin kalıcı eleştiri dâhil, teoriyi inşa etme, ödünç alma ve revize etme üst-etkinliğidir. Bu sayfa envanterdir; teori geliştirme, envanteri üretmek ve revize etmekle ilgilidir.
 
 ## Soru pratik olduğunda mercek seçmek
 
@@ -114,7 +114,7 @@ Kelimeler literatürde gevşek kullanılır ve aradaki fark bir sayfa değil, bi
 
 Çerçeveler kanıt değildir. Genellikle büyük dil modeli öncesi bağlamlardan ödünç alınır ve uygulayan tarafından yerelleştirilir, markalaşma işlevi görebilirler ve aşama modelleri, öğrenmeden ziyade seviyeler arasındaki hareketi bildiren onay kutusu benimsemesini davet eder. Bir çerçeveye dayanan iddialar, [[limitations-in-aied-research|alanın çapraz kesen sınırlılıkları]], sonucu ölçen her neyse onun [[assessment-validity|geçerliliği]] ve [[self-report-measures|öz-bildirimin]] bilinen sınırlarıyla birlikte okunmalıdır.
 
-Mekanizma-kuram uyumu yine de belirleyici olabilir: 55 YZ destekli oyun tabanlı öğrenme çalışmasının tematik sentezinde etkililiğin, algoritmik sofistikelikten ziyade YZ mekanizmasının hizmet etmesi beklenen pedagojiyi hayata geçirip geçirmediğine bağlı olduğu görülmüştür ([[ai-game-based-learning-systematic-review-2026|Kaşarcı ve Yurt (2026)]]).
+Mekanizma-kuram uyumu yine de belirleyici olabilir: 55 YZ destekli [[game-based-learning|oyun tabanlı öğrenme]] çalışmasının tematik sentezinde etkililiğin, algoritmik sofistikelikten ziyade YZ mekanizmasının hizmet etmesi beklenen pedagojiyi hayata geçirip geçirmediğine bağlı olduğu görülmüştür ([[ai-game-based-learning-systematic-review-2026|Kaşarcı ve Yurt (2026)]]).
 
 ## Yaygın yanlış anlamalar
 

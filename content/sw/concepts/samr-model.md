@@ -9,7 +9,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-02T09:55:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,9 @@ SAMR inaunganishwa mara nyingi na [[icap-framework|mfumo wa ICAP]] kwa sababu mb
 - **SAMR ni lengo la upinzani wa posthumanist.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] anapinga mifano ya TPACK, SAMR, na [[ai-literacy]] kwa kushiriki ontolojia ya kibinadumu inayodhani mwanafunzi mwenye mipaka ambaye fikra zake za kiakili hazibadiliki kimsingi na uhusiano wa kiteknolojia, akidai kuwa miundo hii ya zana haiwezi kushughulikia jukumu la AI la kuunda fikra.
 - **Mfumo wa kuunganisha, si mfumo wa nguvu.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] anatathmini SAMR pamoja na TPACK na miundo mingine ya kuunganisha na hagundua hata moja inayoshughulikia nguvu ya haki, umiliki wa data, au uwajibikisho, na kuchochea mfumo mbadala wa ushirikiano wa kiikolojia wa wakala.
 - **Matumizi ya wanafunzi yanapata SAMR pia, na maoni hupitia kila kiwango.** Kuweka kodi matangazo ya GenAI ya wanafunzi 31–36 katika kizio cha [[physics-education|fizikia]] kuliweka kujifunza katika ubadilishaji–uboreshaji, umbizo katika ubadilishaji, na kufanya kazi katika marekebisho–ufafanuzi upya, wakati maoni — kukagua, kufafanua, kuthibitisha — yalitokea katika viwango vyote vinne ([[genai-use-changing-institutional-policy-physics-2026|Quince na Faulconer (2026)]]).
+
+- **Kina na ujumuishaji ni mihimili tofauti.** [[jita-ai-mathematics-classrooms-inclusion-2026|Jita, Jita na Omoniyi (2026)]] wanaunganisha SAMR na [[universal-design-for-learning|UDL]] katika vyanzo 38 na wanadai kuwa kazi za kiwango cha Ufafanuzi upya bado zinaweza kuwatenga wanafunzi ambao lugha, kifaa, au muunganisho wao haufitii ubuni.
+
 
 ## SAMR, TPACK, na kupitisha teknolojia: zinavyotofautiana
 
@@ -98,4 +101,7 @@ SAMR inaeleweka vyema zaidi kama lenzi ya kina cha kuunganisha inayotumika katik
 - [[crompton-faculty-technology-integration-standards-2026]] — SAMR miongoni mwa miundo inayoarifu viwango vya teknolojia ya wataalamu
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Upinzani wa posthumanist kuhusu ontolojia ya kibinadumu ya SAMR
 - [[reclaiming-epistemic-agency-co-agency-2026]] — Ukimya wa SAMR kuhusu nguvu, umiliki wa data, na uwajibikisho
+
+- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI katika madarasa ya hisabati: mkakati wa kuunganisha kwa utofauti na ujumuishaji
+
 - [[genai-use-changing-institutional-policy-physics-2026]] — Matumizi ya GenAI ya wanafunzi chini ya sera za taasisi zinazobadilika: kazi za matumizi zilizopangwa kwenye viwango vya SAMR (Quince & Faulconer 2026)

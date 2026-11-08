@@ -10,8 +10,8 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: "concepts/framing-ai-use-for-students"
-source_updated: "2026-10-25T18:05:00-04:00"
-updated: "2026-10-27T17:23:12-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:31:23-05:00"
 translation_note: "*Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Những câu hỏi cần cân nhắc
 
 - Việc chỉ đơn giản tạo điều kiện tiếp cận AI cho học sinh gắn với việc sử dụng không hiệu quả hoặc thậm chí phi đạo đức, trong khi việc định khung và lồng ghép rõ ràng cách sử dụng phù hợp lại cải thiện kết quả. Nếu sự hiện diện của công cụ ít quan trọng hơn cách nó được định khung, thì điều đó gợi ý gì về sự nhấn mạnh vào việc chỉ "đưa AI cho học sinh"?
-- Phần lớn học sinh dùng AI sinh tạo, nhiều em không chắc việc sử dụng của mình có tuân thủ hay không, và các em dựa vào những công cụ tự truy cập thay vì công cụ do thể chế cung cấp. Nếu việc biết các quy tắc hầu như không thay đổi điều học sinh làm, thì điều gì có thể thuyết phục thay vì chỉ cung cấp thông tin?
+- Phần lớn học sinh dùng [[generative-ai|AI sinh tạo]], nhiều em không chắc việc sử dụng của mình có tuân thủ hay không, và các em dựa vào những công cụ tự truy cập thay vì công cụ do thể chế cung cấp. Nếu việc biết các quy tắc hầu như không thay đổi điều học sinh làm, thì điều gì có thể thuyết phục thay vì chỉ cung cấp thông tin?
 - Khi các thể chế phản ứng với AI bằng sợ hãi và lên án, học sinh có thể che giấu hoặc duy lý hóa việc sử dụng của mình thay vì học cách dùng nó cho tốt. Bạn đã thấy phản ứng "hoảng loạn đạo đức" nào đẩy học sinh vào vòng bí mật chưa? Một cách tiếp cận được định khung lại, hướng tới cơ hội, sẽ trông như thế nào?
 - Lo âu về AI không thuần túy là một rào cản: những học sinh lo về độ chính xác và đạo văn lại *có nhiều khả năng hơn* kiểm chứng và sửa đổi đầu ra AI thay vì chấp nhận nó không phê phán. Làm thế nào để lo âu có lợi được dẫn dòng thành năng lực đánh giá thay vì bị dập tắt?
 - Học sinh tự xây dựng cảm nhận về điều gì là chấp nhận được qua các "điểm" - ý định của giảng viên, tài liệu khóa học, chuẩn mực bạn bè và thông điệp của thể chế - vốn thường xung đột với nhau. Khi những thông điệp đó mâu thuẫn, theo bạn cái nào thực sự thắng, và việc định khung thu hẹp khoảng cách đó như thế nào?
@@ -41,7 +41,7 @@ Khái niệm này nằm giữa hai khái niệm quen thuộc hơn. Nếu [[techn
 
 Định khung quan trọng vì **chính sách và quy tắc không tự thay đổi hành vi một cách đáng tin cậy**. [[research-methods-aied|Nghiên cứu]] khảo sát về nhận thức [[regulation|quy định]] cho thấy hiểu biết của học sinh về các quy tắc GenAI của thể chế chỉ có liên hệ yếu đến trung bình với điều các em thực sự làm ([[student-regulatory-awareness-genai]]). Biết quy tắc là cần nhưng chưa đủ; thông điệp phải *thuyết phục*, không chỉ cung cấp thông tin.
 
-Việc định khung khác biệt có thể bắt nguồn từ bên trong một chính sách duy nhất chứ không chỉ giữa các điểm khác nhau: một phân tích sắc thái của 36 chính sách đại học cho thấy các tuyên bố về giảng dạy được định khung tích cực trong khi các tuyên bố về GenAI và đạo đức được định khung tiêu cực, nên học sinh gặp cả sự khuyến khích lẫn sự kìm hãm trong cùng một văn bản ([[sun-governing-genai-policy-cross-national-2026|Sun và cộng sự (2026)]]).
+Việc định khung khác biệt có thể bắt nguồn từ bên trong một chính sách duy nhất chứ không chỉ giữa các điểm khác nhau: một [[affective-computing|phân tích sắc thái]] của 36 chính sách đại học cho thấy các tuyên bố về giảng dạy được định khung tích cực trong khi các tuyên bố về GenAI và đạo đức được định khung tiêu cực, nên học sinh gặp cả sự khuyến khích lẫn sự kìm hãm trong cùng một văn bản ([[sun-governing-genai-policy-cross-national-2026|Sun và cộng sự (2026)]]).
 
 Cách định khung cũng định hình việc học sinh trải nghiệm AI như một **mối đe dọa cần né tránh hay lảng tránh** so với một **nguồn lực cần dùng có chủ ý**. Khi các thể chế phản ứng với AI bằng sợ hãi và lên án - điều mà một dòng công trình gọi là "hoảng loạn đạo đức" lặp đi lặp lại - chúng đẩy học sinh vào việc che giấu hoặc duy lý hóa việc sử dụng của mình thay vì học cách dùng nó cho tốt.([[moral-panic-genai-classroom]]) Việc định khung lại lo âu và lên án thành cơ hội có cấu trúc thay đổi toàn bộ động lực [[student-engagement|tham gia của học sinh]] với AI.
 
@@ -61,7 +61,7 @@ Vì nhận thức về quy tắc một mình không dịch chuyển hành vi, vi
 
 ### Định khung lại lo âu và sự không chắc chắn thành năng lực đánh giá
 
-Một nghiên cứu [[mixed-methods-research|phương pháp hỗn hợp]] về [[writing-education|viết học thuật]] phát hiện lo âu về AI không đơn thuần là rào cản: những học sinh lo về độ chính xác và đạo văn lại *có nhiều khả năng hơn* kiểm chứng, đối chiếu chéo và sửa đổi đầu ra AI thay vì chấp nhận nó không phê phán. Nghiên cứu định khung [[ai-literacy|năng lực AI]] ít như sự chấp nhận mà nhiều như **năng lực điều chỉnh** - khả năng chất vấn đầu ra, sửa đổi có chọn lọc và duy trì trách nhiệm tác giả.([[ai-anxiety-strategic-regulation-writing-2026]]) Định khung việc sử dụng AI cho học sinh có nghĩa là dẫn dòng lo âu có lợi về phía đánh giá, không phải dập tắt nó.
+Một nghiên cứu [[mixed-methods-research|phương pháp hỗn hợp]] về [[writing-education|viết học thuật]] phát hiện [[anxiety-and-stress|lo âu về AI]] không đơn thuần là rào cản: những học sinh lo về độ chính xác và đạo văn lại *có nhiều khả năng hơn* kiểm chứng, đối chiếu chéo và sửa đổi đầu ra AI thay vì chấp nhận nó không phê phán. Nghiên cứu định khung [[ai-literacy|năng lực AI]] ít như sự chấp nhận mà nhiều như **năng lực điều chỉnh** - khả năng chất vấn đầu ra, sửa đổi có chọn lọc và duy trì trách nhiệm tác giả.([[ai-anxiety-strategic-regulation-writing-2026]]) Định khung việc sử dụng AI cho học sinh có nghĩa là dẫn dòng lo âu có lợi về phía đánh giá, không phải dập tắt nó.
 
 ### Dùng thông điệp có mục tiêu để định hình hành vi cụ thể
 

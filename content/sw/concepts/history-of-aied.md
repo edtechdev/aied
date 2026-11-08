@@ -7,7 +7,7 @@ pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 translation_of: concepts/history-of-aied
-source_updated: "2026-10-25T13:10:00-04:00"
+source_updated: "2026-11-05T15:16:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -19,7 +19,7 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-> **Historia ya AI katika Elimu** — uchunguzi wa jinsi akili bandia na elimu zilivyobadilishana tangu katikati ya karne ya 20, na jinsi uchaguzi wa zamani wa dhana, istilahi, na muundo unaendelea kuunda mijadala ya leo kuhusu AI katika kujifunza. Badala ya kuchukulia AI ya kizalishaji kama nguvu ya ghafla isiyo na kifani, lenzi ya kihistoria inafichua misongo inayojirudia — udhibiti dhidi ya wakala, usanifu dhidi ya ubunifu, uendeshaji otomatiki dhidi ya kuongeza uwezo — ambayo imeunda AI katika elimu tangu mwanzo wake.
+> **Historia ya [[ai-education|AI katika Elimu]]** — uchunguzi wa jinsi akili bandia na elimu zilivyobadilishana tangu katikati ya karne ya 20, na jinsi uchaguzi wa zamani wa dhana, istilahi, na muundo unaendelea kuunda mijadala ya leo kuhusu AI katika kujifunza. Badala ya kuchukulia AI ya kizalishaji kama nguvu ya ghafla isiyo na kifani, lenzi ya kihistoria inafichua misongo inayojirudia — udhibiti dhidi ya wakala, usanifu dhidi ya [[creativity|ubunifu]], uendeshaji otomatiki dhidi ya kuongeza uwezo — ambayo imeunda AI katika elimu tangu mwanzo wake.
 
 ## Maswali ya Kutafakari
 
@@ -28,7 +28,7 @@ ai_assist:
 - Ukurasa huu unaweka historia ya AIED kama msongo wa mawazo kati ya udhibiti (walimu wa kielektroniki wa Anderson wanaoboresha mafunzo) na wakala (ujenzi wa Papert unaowapa nguvu wanafunzi). Uchaguzi wako mwenyewe wa AI katika elimu huangukia wapi katika spektra hiyo — na kwa nini?
 - Ubinafsishaji, ukurasa huu unadai, una maana mbili: kutofautisha njia inayoelekea matokeo yale yale, au kuruhusu matokeo mbalimbali yanayoongozwa na mwanafunzi. Ni aina gani ya ubinafsishaji taasisi yako inalitekeleza kweli, na ni ipi unafikiri inapaswa?
 - Ikiwa mijadala ya leo ya GenAI "inaakisi" misongo hii ya kihistoria, ni makosa gani ya zamani ambayo yanaweza kuwa tunayarudia — na tunaweza kuyakwepa kwa kuyakumbuka?
-- Ukurasa huu unadai kuwa uchaguzi wa muundo wa kiufundi unajumuisha hukumu za thamani kuhusu kusudi la kujifunza. Unaweza kutambua uamuzi wa muundo katika zana ya elimu ya AI uliyoitumia ambao kwa siri ulipendelea usanifu badala ya wakala wa mwanafunzi — au kinyume chake?
+- Ukurasa huu unadai kuwa uchaguzi wa muundo wa kiufundi unajumuisha hukumu za thamani kuhusu kusudi la kujifunza. Unaweza kutambua uamuzi wa muundo katika zana ya elimu ya AI uliyoitumia ambao kwa siri ulipendelea usanifu badala ya [[agency|wakala wa mwanafunzi]] — au kinyume chake?
 
 ## Utangulizi
 
@@ -40,11 +40,14 @@ Historia ya uwanja huu si mwendelezo wa mstari bali mfululizo wa maamuzi ya kuba
 
 **Mapinduzi ya kufahamu na mizizi ya ITS.** Waanzilishi wa mapema — Herbert Simon, Allen Newell, Marvin Minsky, John Anderson — hawakuwa wanajenga mifano tu ya ufahamu; walikuwa wanachunguza maswali ya msingi kuhusu kujifunza na mafunzo. Kazi zao ilizalisha mifano ya usindikaji wa habari ya ufahamu wa binadamu ambayo ilikuwa msingi wa saikolojia ya kielimu, na ikasababisha [[intelligent-tutoring|Intelligent Tutoring Systems (ITS)]], yenye mizizi katika mifumo ya utafiti-heuristi na mifumo ya wataalam ya AI ya miaka ya 1960–70. Mifumo hii iliambatana kwa asili na miundo iliyopo ya tathmini na usanifu, na hatimaye ikajumuika katika jumuiya ya AIED.
 
-**Udhibiti dhidi ya wakala: Anderson na Papert.** Maono mawili yanayoshindana yalijitokeza, yakitajwa na John Anderson na Seymour Papert. **[[intelligent-tutoring|Walimu wa kielektroniki]] wa Anderson** (nadharia ya ACT/ACT-R) waligawanya maarifa katika kanuni za uzalishaji, walitoa maoni ya kibinafsi sahihi kabisa, na kuimarisha miundo ya kielimu ya jadi — maono ya AI kama zana ya kuboresha mafunzo. **[[constructivist|Ujenzi]] wa Papert** (Logo, "microworlds," kurekebisha-hitilafu-kama-kujifunza) uliona kompyuta kama mazingira ambapo watoto hujenga maarifa kupitia majaribio ya kubuni — maono ya AI kama chombo cha kuwezesha akili ambacho kilipinga miundo ya mamlaka ya taasisi. "Msongo huu muhimu" kati ya udhibiti na wakala ni mstari unaoipitia historia ya uwanja huu.
+**Udhibiti dhidi ya wakala: Anderson na Papert.** Maono mawili yanayoshindana yalijitokeza, yaliyopachikwa katika [[embodied-learning|utendaji]] wa John Anderson na Seymour Papert. **[[intelligent-tutoring|Walimu wa kielektroniki]] wa Anderson** (nadharia ya ACT/ACT-R) waligawanya maarifa katika kanuni za uzalishaji, walitoa maoni ya kibinafsi sahihi kabisa, na kuimarisha miundo ya kielimu ya jadi — maono ya AI kama zana ya kuboresha mafunzo. **[[constructivist|Ujenzi]] wa Papert** (Logo, "microworlds," kurekebisha-hitilafu-kama-kujifunza) uliona kompyuta kama mazingira ambapo watoto hujenga maarifa kupitia majaribio ya kubuni — maono ya AI kama chombo cha kuwezesha akili ambacho kilipinga miundo ya mamlaka ya taasisi. "Msongo huu muhimu" kati ya udhibiti na wakala ni mstari unaoipitia historia ya uwanja huu.
 
-**Aina mbili za ubinafsishaji.** [[personalized-learning|Ubinafsishaji]] una tafsiri mbili tofauti zinazowakilishwa na maono haya. Ya kwanza inahifadhi matokeo ya kawaida huku ikibadilisha njia (yenye mizizi katika mashine za kufundisha za Skinner; maono ya Khan Academy ya ualimu hadi ustadi). Ya pili inakubali matokeo mbalimbali — wanafunzi wakifuatilia maslahi na talanta binafsi, bila kizuizi cha mipaka ya mtaala wa kawaida (Zhao, 2024). Mfano wa ITS unaunga mkono wa kwanza; ujenzi unaunga mkono wa pili.
+**Aina mbili za ubinafsishaji.** [[personalized-learning|Ubinafsishaji]] una tafsiri mbili tofauti zinazowakilishwa na maono haya. Ya kwanza inahifadhi matokeo ya kawaida huku ikibadilisha njia (yenye mizizi katika mashine za kufundisha za Skinner; maono ya Khan Academy ya ualimu hadi ustadi). Ya pili inakubali matokeo mbalimbali — wanafunzi wakifuatilia maslahi na talanta binafsi, bila kizuizi cha mipaka ya [[curriculum-design|mtaala]] wa kawaida (Zhao, 2024). Mfano wa ITS unaunga mkono wa kwanza; ujenzi unaunga mkono wa pili.
 
-**Mafunzo kwa enzi ya GenAI.** Mijadala ya leo kuhusu AI ya kizalishaji inaakisi kwa karibu misongo hii ya kihistoria. GenAI mara nyingi inawekwa kama mwalimu wa kielektroniki wa kizazi kijacho (kupanua Anderson), ikizua wasiwasi kuhusu ufuatiliaji, ukusanyaji wa data, na usanifu. Vinginevyo inaweza kuwa zana ya wakala wa kubuni (kupanua Papert), ikitaka tufikiri upya tathmini na tukubali matokeo yenye utata zaidi. Kama [[mishra-control-vs-agency-history-2025|Mishra et al.]] wanavyohitimisha, nguvu za taasisi zinapendelea kurudi kwa mbinu zinazoimarisha miundo iliyopo — na lugha na sitiari tunazochagua zitaumba uwezekano wa mustakabali. [[rismanchian-ai-education-four-decades-aixed-2026|Mfumo wa AI×Ed wa Rismanchian & Doroudi]] unatoa msingi wa kivitendo kwa hisia hii: wakiweka makala kutoka maandiko ya AIED (1985, 1993, 2021, 2024) na IJAIED (2004, 2014, 2021) kwenye mihimili miwili — jukumu la AI (zana ya matumizi dhidi ya mfano wa akili ya binadamu) na mtumiaji wa mwisho — wanafuatilia uwanja uliohamia kutoka mchanganyiko mbalimbali, ukijumuisha utafiti mwingi wa mapema unaotumia AI kama mfano wa akili ya binadamu (mifano ya kikokotozi ya kujifunza, microworlds za Papert, mifano ya mawakala ya upatikanaji wa maarifa), kuelekea msisitizo wa karibu wa pekee wa matumizi ya zana ifikapo miaka ya 2000. Kwa kushangaza, enzi ya AI ya kizalishaji inaonekana kupunguza mkondo huo kwa sehemu: katika AIED 2024, makala tatu kati ya nne katika kvadranti ya "AI-kama-mfano" ya uwanja huu zilikuwa za msingi wa LLM, ikijumuisha kazi ya karatasi bora juu ya mawakala wanafundishwa wa msingi wa LLM.
+**Mafunzo kwa enzi ya GenAI.** Mijadala ya leo kuhusu AI ya kizalishaji inaakisi kwa karibu misongo hii ya kihistoria. GenAI mara nyingi inawekwa kama mwalimu wa kielektroniki wa kizazi kijacho (kupanua Anderson), ikizua wasiwasi kuhusu ufuatiliaji, ukusanyaji wa data, na usanifu. Vinginevyo inaweza kuwa zana ya wakala wa kubuni (kupanua Papert), ikitaka tufikiri upya [[assessment|tathmini]] na tukubali matokeo yenye utata zaidi. Kama [[mishra-control-vs-agency-history-2025|Mishra et al.]] wanavyohitimisha, nguvu za taasisi zinapendelea kurudi kwa mbinu zinazoimarisha miundo iliyopo — na lugha na sitiari tunazochagua zitaumba uwezekano wa mustakabali. [[rismanchian-ai-education-four-decades-aixed-2026|Mfumo wa AI×Ed wa Rismanchian & Doroudi]] unatoa msingi wa kivitendo kwa hisia hii: wakiweka makala kutoka maandiko ya AIED (1985, 1993, 2021, 2024) na IJAIED (2004, 2014, 2021) kwenye mihimili miwili — jukumu la AI (zana ya matumizi dhidi ya mfano wa akili ya binadamu) na mtumiaji wa mwisho — wanafuatilia uwanja uliohamia kutoka mchanganyiko mbalimbali, ukijumuisha utafiti mwingi wa mapema unaotumia AI kama mfano wa akili ya binadamu (mifano ya kikokotozi ya kujifunza, microworlds za Papert, mifano ya mawakala ya upatikanaji wa maarifa), kuelekea msisitizo wa karibu wa pekee wa matumizi ya zana ifikapo miaka ya 2000. Kwa kushangaza, enzi ya AI ya kizalishaji inaonekana kupunguza mkondo huo kwa sehemu: katika AIED 2024, makala tatu kati ya nne katika kvadranti ya "AI-kama-mfano" ya uwanja huu zilikuwa za msingi wa LLM, ikijumuisha kazi ya karatasi bora juu ya [[learning-by-teaching|mawakala wanafundishwa]] wa msingi wa LLM.
+
+**Rekodi ya majarida inageuka mara mbili.** Mfano wa mada wa kimuundo wa makala 5,387 za *Computers & Education* (1976–2026) ulipata AI katika rekodi 390 (7.2%), katika mada 17 kati ya 18. Uwezekano wa kila mwaka kwamba makala ilihusiana na AI ulipanda 21.8% kwa mwaka hadi 1989, ukashuka 3.7% kila mwaka hadi 2018, kisha ukapanda 40.1% kila mwaka hadi 2025 ([[wu-fifty-years-ai-reach-computers-education-2026|Wu et al., 2026]]). Geuko la 2018 linatangulia ChatGPT kwa miaka minne, hivyo enzi ya kizalishaji iliongeza kasi ya mkondo uliokuwa ukiendelea badala ya kuanzisha mmoja.
+
 
 ## Athari za karibuni za AI ya kizalishaji
 
@@ -54,7 +57,7 @@ Kufika kwa [[generative-ai|AI ya kizalishaji]] — familia pana inayojumuisha [[
 
 **Aina mpya ya uwezo.** Mifumo ya AIED ya mapema ilijenga mifano ya ufahamu na kutoa mafunzo yenye muundo (milki ya Anderson). LLM hufanya uzalishaji wa wazi — kuzalisha insha, maelezo, kodi, na mazungumzo — ambayo yanaweka mbele wakala na ubunifu wa mwanafunzi (milki ya Papert) kwa njia ambazo ITS ya mapema hazikuweza. Hii ni sababu wakati huu unawasha upya msongo wa mawazo wa udhibiti-dhidi-ya-wakala kwa ukali: zana ile ile inaweza kutumika kama mwalimu wa kielektroniki wa kizazi kijacho (kudhibiti matokeo) au kama mwandishi-mwenzake wa kubuni na mwenye kufikiri (kuongeza wakala).
 
-**Kugeuzwa kwa mlinganyo wa ufikiaji.** Kihistoria, ualimu wa kibinafsi ulikuwa haba na wa gharama kubwa; GenAI ilifanya msaada wa moja kwa moja unaobadilika kuwa wa karibu bila malipo na wa ulimwengu wote — ikipunguza kwa kiasi kikubwa vikwazo vya upatikanaji na gharama ambavyo viliumba AIED ya mapema. Lakini ilileta pia hatari mpya: upendeleo wa algoriti, kutunga vitu visivyokuwepo, ufuatiliaji, ukusanyaji wa data, na kupungua kwa ujuzi wa waelimishaji.
+**Kugeuzwa kwa mlinganyo wa ufikiaji.** Kihistoria, ualimu wa kibinafsi ulikuwa haba na wa gharama kubwa; GenAI ilifanya msaada wa moja kwa moja unaobadilika kuwa wa karibu bila malipo na wa ulimwengu wote — ikipunguza kwa kiasi kikubwa vikwazo vya upatikanaji na gharama ambavyo viliumba AIED ya mapema. Lakini ilileta pia hatari mpya: [[bias-mitigation|upendeleo wa algoriti]], [[hallucination-risk|kutunga vitu visivyokuwepo]], ufuatiliaji, ukusanyaji wa data, na kupungua kwa ujuzi wa waelimishaji.
 
 **Wasiwasi uliozuka upya kuhusu ujuzi wa AI na matumizi mabaya.** Enzi ya AI ya kizalishaji ilifanya [[ai-literacy]] kuwa ya dharura na iliweka upya mijadala ya [[academic-integrity]] (kugundua dhidi ya mazungumzo), huku ikizisha wasiwasi wa muda mrefu kuhusu uendeshaji otomatiki, usanifu, na utegemezi wa maarifa. Hizi ni misemo ya kisasa ya misongo ya awali ya uwanja huu.
 
@@ -88,7 +91,7 @@ Kufika kwa [[generative-ai|AI ya kizalishaji]] — familia pana inayojumuisha [[
 **Kwa wasanidi**
 
 - Lugha ya kiolesura ni uamuzi wa ubuni wenye nasaba. Kuita mfumo wako "mwalimu wa AI" unarithi fremu ya Anderson na matarajio ya kuboresha kuelekea matokeo ya kawaida; kuiita "microworld" au "mazingira ya kujifunza" unarithi ya Papert. Hakuna isiyoegemea upande, kwa hivyo chagua kwa makusudi.
-- Ikiwa unajenga katika mapokeo ya mfano (mifano ya kujifunza, mawakala wanafundishwa, simulizi za upatikanaji wa maarifa), sema hivyo. Kvadranti hiyo ilikuwa karibu tupu kwa miongo miwili na inajaa tena; nafasi hiyo ni tofautisho na vigezo vya tathmini ni tofauti.
+- Ikiwa unajenga katika mapokeo ya mfano (mifano ya kujifunza, mawakala wanafundishwa, [[simulation|simulizi]] za upatikanaji wa maarifa), sema hivyo. Kvadranti hiyo ilikuwa karibu tupu kwa miongo miwili na inajaa tena; nafasi hiyo ni tofautisho na vigezo vya tathmini ni tofauti.
 
 **Kwa watafiti**
 
@@ -117,3 +120,6 @@ Kufika kwa [[generative-ai|AI ya kizalishaji]] — familia pana inayojumuisha [[
 - [[lak2026-hint-button-unproductive-use]] — Kutembelea upya kitufe cha vidokezo katika walimu wa kielektroniki
 - [[socrates-students-instructors-llms-lbt-2025]] — Kujifunza kwa kufundisha kwa LLM (nasaba ya ujenzi wa Papert)
 - [[rismanchian-ai-education-four-decades-aixed-2026]]
+
+- [[wu-fifty-years-ai-reach-computers-education-2026]] — Miaka hamsini ya AI kufikia kompyuta katika elimu: mgeuko wa mada katika rekodi ya jarida (Wu et al. 2026)
+

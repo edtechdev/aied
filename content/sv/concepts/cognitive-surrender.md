@@ -12,8 +12,8 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: "concepts/cognitive-surrender"
-source_updated: "2026-10-25T20:20:00-04:00"
-updated: "2026-10-27T17:23:12-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:31:23-05:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
@@ -69,18 +69,22 @@ Tre förregistrerade experiment anpassade Cognitive Reflection Test och randomis
 
 Den praktiska läsningen är att kapitulation är ett **diskriminationsmisslyckande** snarare än ett motivationsmisslyckande. De deltagare som kapitulerade försökte inte undvika arbete; de kunde inte skilja bra råd från dåliga, och gränssnittet gav dem ingen anledning att försöka.
 
+Ett förregistrerat experiment av [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] ger en kontrasterande konfiguration. Med assistenten inhägnad av [[rag|retrieval-förstärkning]] till det tilldelade arbetsbladet sänkte AI-betingelsen den kognitiva avlastningen (median -0,27) i stället för att höja den, och ingen avlastningsväg bar uppgången i desorganisering (0,84). Kapitulation kräver en assistent vars råd kan anammas i sin helhet; ett system som bara svarar utifrån det aktuella materialet ger eleven mindre att anamma och mer att stämma av.
+
 ## Kapitulation utanför laboratoriet
 
 Laboratoriefynden stämmer med fält- och observationsarbete som självständigt nådde fram till samma ord.
 
 - **Förskjutning på befolkningsnivå.** [[generative-ai-reduced-study-time-math|Rismanchian m.fl. (2026)]] analyserar 3,2 miljoner lärinteraktioner i ALEKS och 12,2 miljoner svarstider från [[assessment|placeringsbedömning]] över en tioårig panel, med gradbaserade problem som kontroller för textbaserade. Eleverna slutförde AI-mottagligt arbete snabbare och fick högre poäng på det, medan övervakade retentionuppgifter visade en kumulativ minskning med 25 % i oddset för ett korrekt svar; författarna kallar mönstret kognitiv kapitulation i befolkningsskala.
 - **Verifiering som den diskriminerande variabeln.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis m.fl. (2026)]] finner att *hur* elever använder generativ AI förutsäger [[learning-gains|prestation]] medan *hur mycket* de använder den inte förutsäger någondera: upptag med låg verifiering - att okritiskt acceptera output - var förknippat med sämre utfall, och värderande integration med bättre.
-- **Tanklös användning urholkar de resurser som självstyrning kräver.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao och Gu (2026)]] modellerar direkt att anamma utan att värdera: över 487 studenter på grundnivå var tanklös användning av generativ AI förknippad med lägre [[self-regulated-learning|självstyrt lärande]] (β = -0,42), delvis genom minskad [[motivation]] och [[self-efficacy]].
+- **Tanklös användning urholkar de resurser som självstyrning kräver.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao och Gu (2026)]] modellerar direkt att anamma utan att värdera: över 487 studenter på grundnivå var tanklös användning av generativ AI förknippad med lägre [[self-directed-learning|självstyrt lärande]] (β = -0,42), delvis genom minskad [[motivation]] och [[self-efficacy]].
 - **Det neurala spåret och ägarskapsspåret.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|EEG-studien om kognitiv skuld]] mätte [[writing-education|uppsatsskrivande]] med en [[llm]], en sökmotor och inget verktyg: LLM-gruppen uppvisade den svagaste neurala konnektiviteten, rapporterade det lägsta ägarskapet över sitt eget arbete och hade svårt att citera vad de hade skrivit.
 - **Kapitulation kan komma oombedd.** [[ai-advice-suppresses-ikt-suspension-2026|Arbetet om uppskjutet omdöme]] fann att bara tillgången till AI-råd kollapsade människors vilja att säga "jag vet inte" (0,06 mot 0,36, och 0,03 mot 0,44 i två studier), medan riktigheten föll och självförtroendet steg från omkring 30 till 76. Insatser återställde inte det uppskjutna omdömet, även om incitament förbättrade riktigheten genom att uppmuntra överridningar. En fjärde studie visade effekten helt utan rådfrågning, mönstret från ett autokompletteringsförslag eller en söksammanfattning snarare än en chattprompt.
 - **Beroende och autonoma lägen går bara att skilja åt i konsekvens.** [[family-school-autonomy-support-genai-2026|Fan, Li och Zhang (2026)]] följer 589 elever och tidiga yrkesverksamma över tre vågor: beroende avlastning delegerade kärntänkande och följde med lägre inre motivation, medan autonom avlastning inte gjorde det, och den omedelbara prestationen såg identisk ut i båda fallen.
 - **Modellens eget bidrag.** [[sycophantic-ai-social-interaction-2026|Smickring]] är komplementet till kapitulation: en assistent som håller med, försiktigt närmar sig användarens inramning eller formulerar ett påstående flytande ger eleven inget att trycka emot.
 - **Tillbakadragandet är den olösta halvan.** [[cognitive-washout-ai-skill-decay-2026|Arbetet om kognitiv uttvättning]] påpekar att nästan all denna forskning mäter kognition *under* AI-användning, och nästan ingen mäter vad som händer när assistenten tas bort, vilket är precis den fråga en tenta, ett avbrott eller en licensgranskning ställer.
+
+- **"Hela uppsatser delegeras bara hypotetiskt utanför laboratoriet."** Det hände i en enkätstudie online under en enda session, utan policy och utan uppmuntran. Av **77** högskolestuderande skribenter lämnade **15 (19,5 %)** in uppsatser som var **100 %** skrivna av modellen, utan att skriva ett enda ord i editorn, och **20** deltagare bad rakt ut om en hel uppsats, den mest använda koden i schemat. Den flitigaste användaren skickade **27** frågor. [[jelson-students-chatgpt-essay-writing-2026|Kapitulation visade sig som ett förfrågningsmönster]], inte som en enskild detekterbar handling.
 
 ## Att designa och undervisa mot kapitulation
 
@@ -140,3 +144,6 @@ Evidensen för kapitulation som ett namngivet konstrukt vilar tungt på ett enda
 - [[brcic-effortless-trap-productive-struggle-2026]] — att placera AI så att uppgiften förblir ansträngande
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibreringsträning
 - [[family-school-autonomy-support-genai-2026]] — beroende kontra autonom avlastning
+
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — en assistent grundad i arbetsbladet sänkte avlastningen i stället för att höja den, ett gränsvillkor för kapitulationssignaturen (Braun 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — naturalistisk delegering av hela uppsatser: 15 av 77 uppsatser helt modellskrivna, 20 förfrågningar om en komplett uppsats (Jelson m.fl. 2026)

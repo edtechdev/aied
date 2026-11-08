@@ -1,7 +1,7 @@
 ---
 title: "Identità dello studente"
 created: "2026-10-14T22:05:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T06:32:22-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,8 @@ Una condizione di paternità distinta, non solo una minaccia alla paternità: qu
 
 - **Adozione guarding: uso selettivo dell'IA come protezione dell'identità.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] ha sondato 484 studenti in un'università australiana e ha trovato che gli studenti con risultati più alti riportavano un impegno attivo *inferiore* verso l'[[generative-ai|IA generativa]], un affetto positivo inferiore verso l'IA, un impatto percepito [[self-report-measures|sull'apprendimento]] inferiore e un distacco legato all'IA inferiore, con le associazioni più forti a rho = -0,395 per l'impatto percepito sull'apprendimento e rho = -0,359 per l'affetto positivo. Le loro risposte aperte descrivevano un uso selettivo (chiarificazione, riassunto, supporto al flusso di lavoro), verificato e tenuto subordinato al proprio giudizio, e i risultati a livello di item mostravano un accordo maggiore sul fatto che l'affidarsi all'IA ostacoli il [[critical-thinking|pensiero critico]] e la [[problem-solving|risoluzione autonoma dei problemi]]. Gli autori lo leggono come lavoro identitario: per studenti il cui senso di sé come studenti di successo poggia sul proprio sforzo e giudizio, delimitare l'uso dell'IA difende l'[[agency|agency epistemica]] da cui l'identità dipende — il che significa anche che il modello non è né tecnofobia né basso impegno.
 
+- **Uno scopo dichiarato non governa necessariamente una decisione sull'IA.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] hanno intervistato 14 studenti universitari e codificato ogni intervista per il rapporto tra lo [[self-determination-theory|scopo]] dello studente — un'intenzione personalmente significativa di contribuire oltre il sé — e le sue scelte sull'IA. Solo alcuni stabilivano il collegamento: una rifiutava l'IA perché i suoi costi ambientali e umani contraddicevano il suo scopo, e tre lasciavano che l'identità professionale futura plasmasse le loro scelte ("contribuisce alla psicologa che sarò nel mondo un giorno"). Altri con un senso di scopo altrettanto chiaro non facevano alcun collegamento, descrivendo scopo e IA come "una cosa separata", quindi avere un'identità da proteggere non equivaleva ad attingervi. Il lavoro separa anche le ragioni che gli studenti danno per tenere proprio il lavoro — sviluppo di competenze, [[evaluative-judgment|paternità e orgoglio]], e obiezione morale — che arrivano attraverso meccanismi diversi e non dovrebbero essere accorpate in un unico motivo.
+
 ## Rapporto con l'agenzia dello studente
 
 L'agenzia dello studente e l'identità dello studente sono costrutti strettamente correlati ma distinti, facili da confondere — ed entrambi sono centrali per il modo in cui l'IA incide sull'apprendimento.
@@ -89,7 +91,7 @@ L'identità dello studente si collega all'[[agency|agenzia]] (l'identità si ese
 
 **"L'assistenza dell'IA abbassa le barriere e quindi allarga la partecipazione."** Può abbassare la barriera a produrre lavoro mentre restringe la barriera a rivendicarne la paternità. A uno studente che consegna un artefatto fluente che non ha scritto è stato dato accesso all'esito e negato il riconoscimento che costruisce l'identità alle spalle.
 
-**"Riconoscere l'identità di un discente è una questione di rappresentazione nei contenuti."** La rappresentazione conta e il riconoscimento si esercita nella pratica: di chi vengono raccolte le domande, a chi viene accreditato il contributo, e chi viene trattato come capace. Un curricolo può essere rappresentativo e comunque negare il riconoscimento che la formazione dell'identità richiede.
+**"Riconoscere l'identità di un discente è una questione di rappresentazione nei contenuti."** La rappresentazione conta e il riconoscimento si esercita nella pratica: di chi vengono raccolte le domande, a chi viene accreditato il contributo, e chi viene trattato come capace. Un [[curriculum-design|curricolo]] può essere rappresentativo e comunque negare il riconoscimento che la formazione dell'identità richiede.
 
 ## Concetti collegati
 
@@ -110,6 +112,7 @@ L'identità dello studente si collega all'[[agency|agenzia]] (l'identità si ese
 - [[k-12]]
 
 ## Articoli collegati
+- [[ting-ai-learning-ownership-purpose-2026]] — 14 undergraduates on what they keep doing themselves, and why purpose rarely decides it
 - [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
 - [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use

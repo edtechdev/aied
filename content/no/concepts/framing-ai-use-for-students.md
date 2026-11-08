@@ -10,8 +10,8 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: "concepts/framing-ai-use-for-students"
-source_updated: "2026-10-25T18:05:00-04:00"
-updated: "2026-10-27T17:08:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "*Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Spørsmål å vurdere
 
 - At AI bare ble gjort tilgjengelig for elever, var forbundet med ineffektiv eller endog uetisk bruk, mens eksplisitt innramming og integrering av hensiktsmessig bruk forbedret resultatene. Hvis tilstedeværelsen av verktøyet betyr mindre enn hvordan det rammes inn, hva sier det om vekten som legges på rett og slett å «gi elevene AI»?
-- De fleste elever bruker generativ AI, mange er usikre på om bruken deres er i tråd med reglene, og de lener seg på verktøy de skaffer seg privat snarere enn på verktøy institusjonen tilbyr. Hvis det å kjenne reglene knapt endrer hva elevene gjør, hva kan da overbevise i stedet for bare å informere?
+- De fleste elever bruker nå [[generative-ai|generativ AI]], få av dem er sikre på om deres egen bruk er i tråd med reglene, og de foretrekker verktøy de skaffer seg privat framfor verktøy institusjonen tilbyr. Hvis det å kjenne reglene knapt endrer hva elevene gjør, hva kan da overbevise i stedet for bare å informere?
 - Når institusjoner møter AI med frykt og fordømmelse, kan elever skjule eller rasjonalisere bruken sin i stedet for å lære å bruke den godt. Har du sett at en «moralsk panikk»-respons har drevet elever inn i hemmelighold? Hvordan ville en innrammet på nytt, mulighetsfokusert tilnærming se ut?
 - Bekymring for AI er ikke bare en barriere: elever som var urolige for nøyaktighet og plagiering, var *mer* tilbøyelige til å verifisere og revidere AI-resultat i stedet for å godta det ukritisk. Hvordan kan produktiv uro kanaliseres inn i evaluerende kompetanse i stedet for å bli undertrykt?
 - Elevene bygger sin egen oppfatning av hva som er akseptabelt gjennom «steder» - undervisernes intensjoner, kursdokumenter, medelevnormer og institusjonelle budskap - som ofte spriker. Når disse budskapene kolliderer, hvilket tror du faktisk vinner, og hvordan lukker innramming det gapet?
@@ -41,7 +41,7 @@ Begrepet ligger mellom to mer kjente begreper. Der [[technology-acceptance-model
 
 Innramming er viktig fordi **policy og regler ikke pålitelig endrer atferd på egen hånd**. Spørreundersøkelses[[research-methods-aied|forskning]] om kjennskap til [[regulation|regulering]] finner at elevenes kunnskap om institusjonelle GenAI-regler bare viser svake til moderate sammenhenger med det de faktisk gjør ([[student-regulatory-awareness-genai]]). Å kjenne reglene er nødvendig, men ikke tilstrekkelig; budskapet må *overbevise*, ikke bare informere.
 
-Differensiert innramming kan oppstå inne i en enkelt policy og ikke bare på tvers av steder: en sentimentanalyse av 36 universitetspolicyer fant at utsagn om undervisning var positivt innrammet, mens utsagn om GenAI og etikk var negativt innrammet, slik at elevene møtte både oppmuntring og tilbakeholdenhet i ett og samme dokument ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
+Differensiert innramming kan oppstå inne i en enkelt policy og ikke bare på tvers av steder: en [[affective-computing|sentimentanalyse]] av 36 universitetspolicyer fant at utsagn om undervisning var positivt innrammet, mens utsagn om GenAI og etikk var negativt innrammet, slik at elevene møtte både oppmuntring og tilbakeholdenhet i ett og samme dokument ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 Innrammingen former også hvorvidt elevene opplever AI som en **trussel som må unngås eller omgås**, kontra en **ressurs som skal brukes med overlegg**. Når institusjoner møter AI med frykt og fordømmelse - det en forskningslinje kaller en tilbakevendende «moralsk panikk» - skyver de elevene inn i å skjule eller rasjonalisere bruken sin i stedet for å lære å bruke den godt.([[moral-panic-genai-classroom]]) Å ramme inn uro og fordømmelse om til strukturert mulighet endrer hele dynamikken i [[student-engagement|elevenes engasjement]] med AI.
 
@@ -61,7 +61,7 @@ Den mest direkte innrammingsspaken i kunnskapsbasen er å oppgi *begrunnelsen* f
 
 ### Gjør uro og usikkerhet om til evaluerende kompetanse
 
-En [[mixed-methods-research|mixed methods]]-studie av akademisk [[writing-education|skriving]] fant at AI-uro ikke bare er en barriere: elever som var urolige for nøyaktighet og plagiering, var *mer* tilbøyelige til å verifisere, kryssjekke og revidere AI-resultat i stedet for å godta det ukritisk. Studien rammer inn [[ai-literacy|AI-kompetanse]] mindre som aksept og mer som **regulatorisk kompetanse** - evnen til å stille spørsmål ved resultat, revidere selektivt og opprettholde ansvar for forfatterskapet.([[ai-anxiety-strategic-regulation-writing-2026]]) Å ramme inn AI-bruk for elever betyr å kanalisere produktiv uro mot evaluering, ikke å undertrykke den.
+En [[mixed-methods-research|mixed methods]]-studie av akademisk [[writing-education|skriving]] fant at [[anxiety-and-stress|AI-uro]] ikke bare er en barriere: elever som var urolige for nøyaktighet og plagiering, var *mer* tilbøyelige til å verifisere, kryssjekke og revidere AI-resultat i stedet for å ta det for pålydende. Studien rammer inn [[ai-literacy|AI-kompetanse]] mindre som aksept og mer som **regulatorisk kompetanse** - evnen til å stille spørsmål ved resultat, revidere selektivt og opprettholde ansvar for forfatterskapet.([[ai-anxiety-strategic-regulation-writing-2026]]) Å ramme inn AI-bruk for elever betyr å kanalisere produktiv uro mot evaluering, ikke å undertrykke den.
 
 ### Bruk målrettede budskap for å forme bestemte atferder
 

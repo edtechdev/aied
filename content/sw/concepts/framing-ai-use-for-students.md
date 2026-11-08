@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 ## Maswali ya Kutafakari
 
 - Kufanya AI kupatikana kwa wanafunzi peke yake kulihusishwa na matumizi yasiyo na ufanisi au hata yasiyo ya maadili, wakati kuelekeza wazi na kujumuisha matumizi yanayofaa kuliboresha matokeo. Ikiwa uwepo wa zana ni muhimu kidogo kuliko jinsi inavyoelekezwa, hilo linapendekeza nini kuhusu msisitizo wa 'kuwapa wanafunzi AI' peke yake?
-- Wanafunzi wengi hutumia AI ya kizalishaji, wengi hawana uhakika kama matumizi yao yanaridhia, na hutegemea zana zinazopatikana kwa faragha badala ya zile zinazotolewa na taasisi. Ikiwa kujua kanuni kunabadilisha kwa kiasi kidogo tu kile wanafunzi wanachofanya, nini kingeweza kushawishi badala ya kutoa taarifa tu?
+- Wanafunzi wengi hutumia [[generative-ai|AI ya kizalishaji]], wengi hawana uhakika kama matumizi yao yanaridhia, na hutegemea zana zinazopatikana kwa faragha badala ya zile zinazotolewa na taasisi. Ikiwa kujua kanuni kunabadilisha kwa kiasi kidogo tu kile wanafunzi wanachofanya, nini kingeweza kushawishi badala ya kutoa taarifa tu?
 - Wakati taasisi zinajibu AI kwa hofu na hukumu, wanafunzi wanaweza kuficha au kuhalalisha matumizi yao badala ya kujifunza kuitumia vizuri. Umewahi kuona jibu la 'hofu ya maadili' likiwasukuma wanafunzi katika siri? Mbinu iliyoelekezwa upya, inayozingatia fursa, ingeonekanaje?
 - Wasiwasi kuhusu AI si kizuizi peke yake: wanafunzi waliokuwa na wasiwasi kuhusu usahihi na wizi wa kitaaluma walikuwa *na uwezekano mkubwa zaidi* wa kuthibitisha na kurekebisha matokeo ya AI badala ya kuyakubali bila uhakiki. Hisia za tija zawezaje kuendekezwa kuwa uwezo wa kutathmini badala ya kuzimwa?
 - Wanafunzi hujenga hisia zao wenyewe ya kile kinachokubalika kupitia 'mahali' — nia za waelimishaji, nyaraka za kozi, kanuni za marika, na ujumbe wa taasisi — ambayo mara nyingi hutofautiana. Wakati ujumbe huo unakinzana, upi unafaa unashinda kweli, na kuelekeza hufunga pengo hilo vipi?
@@ -40,7 +40,7 @@ Dhana hii inaketi kati ya mbili za kawaida zaidi. Wakati [[technology-acceptance
 
 Kuelekeza ni muhimu kwa sababu **sera na kanuni hazibadilishi tabia kwa uaminifu peke yake**. Utafiti wa [[research-methods-aied|utafiti]] juu ya [[regulation|kanuni]] unaona kuwa maarifa ya wanafunzi ya kanuni za GenAI za taasisi yanaonyesha uhusiano dhaifu hadi wa wastani tu na wale wanachofanya kweli ([[student-regulatory-awareness-genai]]). Kujua kanuni ni muhimu lakini haitoshi; ujumbe lazima *ushawishi*, si kutoa taarifa tu.
 
-Uwekaji mfumo tofauti unaweza kuanza ndani ya sera moja badala ya tu kati ya maeneo: uchanganuzi wa hisia za sera 36 za vyuo vikuu uligundua kauli za kufundisha zikiwekwa kwa mtazamo chanya wakati kauli za GenAI na maadili zikiwekwa kwa mtazamo hasi, hivyo wanafunzi walikutana na uhimizo na kizuizi katika hati moja ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
+Uwekaji mfumo tofauti unaweza kuanza ndani ya sera moja badala ya tu kati ya maeneo: [[affective-computing|uchanganuzi wa hisia]] wa sera 36 za vyuo vikuu uligundua kauli za kufundisha zikiwekwa kwa mtazamo chanya wakati kauli za GenAI na maadili zikiwekwa kwa mtazamo hasi, hivyo wanafunzi walikutana na uhimizo na kizuizi katika hati moja ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 Mwelekeo pia huunda kama wanafunzi wanaona AI kama **tisho la kuepukwa au kupuuzwa** dhidi ya **rasilimali ya kutumika kwa makusudi**. Wakati taasisi zinajibu AI kwa hofu na hukumu — kile mtiririko mmoja wa kazi unaita "hofu ya maadili" inayorudiwa — zinasukumwa wanafunzi katika kuficha au kuhalalisha matumizi yao badala ya kujifunza kuitumia vizuri.([[moral-panic-genai-classroom]]) Kuelekeza upya wasiwasi na hukumu katika fursa iliyopangwa hubadilisha mienendo yote ya [[student-engagement|ushirikishwaji wa wanafunzi]] na AI.
 
@@ -60,7 +60,7 @@ Uwezo wa moja kwa moja wa kuelekeza katika hifadhi ya maarifa ni kutoa *sababu* 
 
 ### Elekeza upya wasiwasi na kutokuwa na uhakiki kuwa uwezo wa kutathmini
 
-Utafiti wa [[mixed-methods-research|mbinu mchanganyiko]] juu ya [[writing-education|uandishi]] wa kitaaluma uligundua kuwa wasiwasi wa AI ni kizuizi si rahisi: wanafunzi waliokuwa na wasiwasi kuhusu usahihi na wizi wa kitaaluma walikuwa *na uwezekano mkubwa zaidi* wa kuthibitisha, kulinganisha, na kurekebisha matokeo ya AI badala ya kuyakubali bila uhakiki. Utafiti unaelekeza [[ai-literacy|ujuzi wa AI]] kidogo kama kukubaliwa na zaidi kama **uwezo wa udhibiti** — uwezo wa kuuliza maswali juu ya matokeo, kurekebisha kwa kuteua, na kudumisha uwajibikisho wa uandishi.([[ai-anxiety-strategic-regulation-writing-2026]]) Kuelekeza matumizi ya AI kwa wanafunzi kunamaanisha kuendekeza wasiwasi wa tija kuelekea tathmini, si kuzimwa.
+Utafiti wa [[mixed-methods-research|mbinu mchanganyiko]] juu ya [[writing-education|uandishi]] wa kitaaluma uligundua kuwa [[anxiety-and-stress|wasiwasi wa AI]] ni kizuizi si rahisi: wanafunzi waliokuwa na wasiwasi kuhusu usahihi na wizi wa kitaaluma walikuwa *na uwezekano mkubwa zaidi* wa kuthibitisha, kulinganisha, na kurekebisha matokeo ya AI badala ya kuyakubali bila uhakiki. Utafiti unaelekeza [[ai-literacy|ujuzi wa AI]] kidogo kama kukubaliwa na zaidi kama **uwezo wa udhibiti** — uwezo wa kuuliza maswali juu ya matokeo, kurekebisha kwa kuteua, na kudumisha uwajibikisho wa uandishi.([[ai-anxiety-strategic-regulation-writing-2026]]) Kuelekeza matumizi ya AI kwa wanafunzi kunamaanisha kuendekeza wasiwasi wa tija kuelekea tathmini, si kuzimwa.
 
 ### Tumia ujumbe unaolengwa kuunda tabia mahususi
 

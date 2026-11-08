@@ -7,7 +7,7 @@ foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-10-31T10:35:00-04:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -89,7 +89,11 @@ Bu durum insan–YZ işbirliğini teknik bir kavram kadar *pedagojik* bir kavram
 
 - **Dolanışma türleri öğrenciden ne istedikleri açısından farklılık gösterir ve bazılarının nadir kalmasının nedeni de budur.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn ve Rehm (2026)]], 102 yükseköğretim çalışmasını epistemik işin öğrenci ile sistem arasında nasıl paylaşıldığına göre sınıflandırır (Asistan, Etkinleştirici, Bütünleştirici, Üretici, Yeniden Tasarlayıcı) ve yetkinliğin bireysel öğrenciye atfedilebildiği iki biçimin külliyatın her birinde %42,16’sını oluşturduğunu, yazarlığı dağıtan biçimlerin ise marjinal kaldığını bulur. Açıklamaları teknikten çok kurumsaldır: nadir türler, öğrencilerden üretmedikleri çıktılar için epistemik sorumluluk almayı isterken aynı zamanda bireysel yazarlar olarak değerlendirilmeye devam ederler ve türleri uygulamanın dışında tutan, iş bölümünün kendisi değil tam olarak bu çelişkidir. Tasarım yanıtı, epistemik işin dağılımını açık kılmak, etkinlikleri bu yelpaze boyunca sıralamak ve sorumluluğun nasıl paylaşıldığına ilişkin yansıtma oluşturmaktır.
 
+- **Bir yapıta sahip olmak, onu yazarlamakla aynı şey değildir.** [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026|Hong ve ark. (2026)]] bir *yazarlık meşrulaştırma açığı* adlandırır: bir kişi bir çıktıyı kendisinin olarak deneyimleyebilir ama yazar rolünü gerekçelendiremeyebilir; çünkü psikolojik sahiplik, [[agency|etkenlik]] duygusu ve çalışmayı yayımlama hesap verebilirliği hizalanması gerekmeyen ayrı yollardır. Yazarlığın emek bağıntısı katkıları rol rol sınıflandırır, böylece tek bir kayıt aynı anda editoryal bir iddiayı destekleyip tek yaratıcı iddiasında başarısız olabilir. Açıklama veri ve sınanmış model içermeyen kavramsal bir analizdir; dolayısıyla açık, öngörüleri sınanmamış önerilmiş bir yapıdır.
+
 - **Yönlendirmek, söylemek değil, bir ajanı yargılamak için kendi ölçütünü gerektirir.** Öğretmen kolaylaştırmasını yansıtmayı amaçlayan bir tasarım vakası, küratörlü bir tabana sınırlandırılmış bir bilgi ajanının doğruluk üzerinden değerlendirilebildiğini, öğrencileri kendi yanıtlarına yönlendirmesi beklenen bir ajanın ise değerlendirilemediğini buldu ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg ve ark., 2025]]).
+
+- **Ortaklık yalnızca öğrenci öğrenmesine değil araştırma sürecinin kendisine de uzanır** — [[potter-participatory-design-writing-analytics-2026|Potter ve ark. (2026)]], güvenli bir RAG platformunda GPT-4o'ya kodlar ve ön temalar yazdırırken üç çekirdek araştırmacı ve iki dış doğrulayıcı yorumlayıcı otoriteyi korumuş ve dört nihai temada birleşmiştir. Hibrit iş akışı araştırmacı emeğini ortadan kaldırmak yerine yeniden dağıtmıştır.
 
 ### Bağlantılar
 
@@ -168,3 +172,5 @@ Bu durum insan–YZ işbirliğini teknik bir kavram kadar *pedagojik* bir kavram
 - [[robinson-lesson-study-dialogic-engagement-ai-2026]] — Ders çalışması, öğretmen eğitimcilerinin diyalojik YZ etkileşimi tasarlama kapasitesini geliştirir; pedagojik düşünme olarak istek metni yazımı
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — Beş öğrenci–GenAI dolanışma türü ve yazarlığı dağıtan türlerin neden marjinal kaldığı (Sun, Dohn ve Rehm 2026)
 - [[teacher-ai-collaboration-work-engagement-2026]] — Öğretmen–YZ işbirliğinin psikolojik erişilebilirlik ve işten yabancılaşma üzerinden işe bağlılığa giden zıt yolları, dijital yetkinlikle sınırlandırılmıştır
+
+- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — The authorship legitimation deficit in human–AI co-creation

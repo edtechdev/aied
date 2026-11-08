@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T17:10:58-04:00"
+updated: "2026-11-08T05:10:57-05:00"
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
@@ -67,7 +67,7 @@ Den kvarvarande luckan handlar om kompetensbanor, och ett tillagt eftertest stä
 
 ”AI-stött lärande” buntar vanligen ihop flera förändringar: ny återkoppling, tillagd reflektion, kamratdiskussion, andra uppgiftssekvenser, förändrade bedömningsincitament. Ett paket som lyckas säger inte vilka komponenter som var nödvändiga.
 
-[[genai-feedback-design-multisite-experiment|Människocentrerad design av GenAI-återkoppling]] är ett verkligt framsteg i den frågan. Bland 1 176 förstaårsstudenter överträffade reflekterande och hybrida designer direkt [[ai-feedback-quality|AI-återkoppling]] på fördröjd transfer utan AI. Hybridbetingelsen kombinerade självvärdering, [[peer-assessment|kamratåterkoppling]] och AI-kritik. Det skiljer hur återkoppling organiseras och används från huruvida studenterna har tillgång till återkoppling över huvud taget.
+[[genai-feedback-design-multisite-experiment|Människocentrerad design av GenAI-återkoppling]] är ett verkligt framsteg i den frågan. Bland 1 176 förstaårsstudenter överträffade reflekterande och hybrida designer direkt [[ai-feedback-quality|AI-återkoppling]] på fördröjd transfer utan AI. Hybridbetingelsen kombinerade [[self-assessment|självvärdering]], [[peer-assessment|kamratåterkoppling]] och AI-kritik. Det skiljer hur återkoppling organiseras och används från huruvida studenterna har tillgång till återkoppling över huvud taget.
 
 Fortfarande öppet: bidraget och timingen för inledande självständiga försök, självförklaring, kamratinsats, korrigerande återkoppling, tips och gradvis borttagning av stöttning, och hur vart och ett samspelar med [[prior-knowledge|förkunskaper]] och uppgiftens svårighet.
 
@@ -87,7 +87,7 @@ AI skapar två sammankopplade bedömningsproblem: det hjälper till att producer
 
 Kunskapsbasens [[ai-agents-complete-lms-assessment-validity-2026|studie av AI-agenter som slutför bedömda LMS-uppgifter]] dokumenterar agenter som navigerar en levande grundutbildningskurs och slutför bedömda aktiviteter. Det visar en förmåga som utmanar antaganden om studentproducerad bevisning. Det fastställer inte hur vanlig sådan användning är, och det ogiltigförklarar inte asynkron bedömning som kategori.
 
-Forskningsfrågan är vilka designer som fortfarande stöder försvarbara slutsatser om den lärande. [[eportfolio|Portföljer]], reflektioner, stegvisa inlämningar och aktivitetsloggar behöver valideras som bevis i stället för att antas fastställa författarskap eller förståelse. Studier bör pröva kombinationer av bevis mot oberoende observerad kompetens och samtidigt ta hänsyn till tillgänglighet, arbetsbelastning, integritet och studenters oro. [[assessment-validity|Bedömningsvaliditet]] håller detaljerna.
+Forskningsfrågan är vilka designer som fortfarande stöder försvarbara slutsatser om den lärande. [[eportfolio|Portföljer]], reflektioner, stegvisa inlämningar och aktivitetsloggar behöver valideras som bevis i stället för att antas fastställa författarskap eller förståelse. Studier bör pröva kombinationer av bevis mot oberoende observerad kompetens och samtidigt ta hänsyn till tillgänglighet, arbetsbelastning, integritet och [[anxiety-and-stress|studenters oro]]. [[assessment-validity|Bedömningsvaliditet]] håller detaljerna.
 
 För [[automated-assessment|automatiserad poängsättning]] rapporterar [[llms-do-not-grade-essays-like-humans-2026|LLM:er betygsätter inte uppsatser som människor]] systematisk oenighet mellan modeller direkt ur lådan och mänskliga bedömare. Fynden är konfigurationsspecifika, och de visar varför intern konsistens inte kan bära ett validitetspåstående.
 
@@ -105,11 +105,11 @@ Att avgöra detta kräver prestationsbaserad bedömning kombinerad med observati
 
 ## Redovisa vilka fyndet lämnar utanför
 
-Fynd från en kurs, ett lärosäte, ett språk eller en elevpopulation ger sällan tillstånd att fatta beslut någon annanstans, ett problem som syntesen [[limitations-in-aied-research|Begränsningar i AIEd-forskning]] behandlar som återkommande. Hur effekter varierar över utvecklingsstadium, disciplin, förkunskaper, funktionsnedsättning, språk och resursvillkor är fortfarande till stor del omätt.
+Fynd från en kurs, ett lärosäte, ett språk eller en [[learners|elevpopulation]] ger sällan tillstånd att fatta beslut någon annanstans, ett problem som syntesen [[limitations-in-aied-research|Begränsningar i AIEd-forskning]] behandlar som återkommande. Hur effekter varierar över utvecklingsstadium, disciplin, förkunskaper, funktionsnedsättning, språk och resursvillkor är fortfarande till stor del omätt.
 
 Rättviseforskning måste också skilja på tillgång, färdigheter och utfall. Syntesen om [[digital-divide|den digitala klyftan]] är tydlig med att enheter och verktygstillgång inte fastställer lika förmåga att dra nytta. [[school-ai-education-readiness-gaps-agency-2026|Minskar skolbaserad AI-undervisning beredskapsklyftor?]] följde 752 elever i Hongkongs högstadium: psykologiska beredskapsklyftor minskade medan skillnaderna på ett objektivt AI-kompetenstest bestod. Varje grupp förbättrades, och ojämlikheten slöts inte. Förkunskapliga profiler var inte slumpmässigt tilldelade, så deras kausala roll förblir okänd.
 
-Täckningen är tunn på specifika ställen. [[differential-effects-across-learner-groups|Differentiella effekter mellan elevgrupper]] räknar litteraturen per population: andraspråks- och flerspråkiga lärande och studenter med funktionsnedsättning är de djupaste strängarna, kön och neurodiversitet kommer därnäst, förstagenerationsstudenter och internationella studenter har en studie var i den här korpusen, begåvade och högpresterande studenter är i praktiken ostuderade, och flyktingar, invandrare och fördrivna lärande förekommer inte alls. En evidensbas med den formen kan inte svara på en rättvisefråga genom aggregering.
+Täckningen är tunn på specifika ställen. [[differential-effects-across-learner-groups|Differentiella effekter mellan elevgrupper]] räknar litteraturen per population: andraspråks- och [[multilingual-learning|flerspråkiga lärande]] och [[inclusive-learning|studenter med funktionsnedsättning]] är de djupaste strängarna, kön och [[neurodiversity|neurodiversitet]] kommer därnäst, förstagenerationsstudenter har i den här korpusen två studier (en användningsskillnad och en effektskattning) och internationella studenter en, begåvade och högpresterande studenter är i praktiken ostuderade, och flyktingar, invandrare och fördrivna lärande förekommer inte alls. En evidensbas med den formen kan inte svara på en rättvisefråga genom aggregering.
 
 Kapaciteten varierar också inom ett enda nationellt system. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye m.fl. (2026)]] poängsatte AI-integration vid 45 nigerianska universitet och fann måttlig övergripande adoption (M = 4,79, intervall 1,83-7,83 på en 10-gradig skala), där institutionstyp inte förutsade integration när ålder och geografi kontrollerades (ålder β = 0,43; placering i sydväst β = 0,31). Interna kapaciteter korrelerade med varandra vid r = 0,79-0,80 och internationella samarbeten med branschpartnerskap vid r = 0,74, så sammankopplade institutioner ackumulerar förstärkande fördelar. Vilka kapacitetsuppbyggande designer som förändrar utfall vid nyare, mindre sammankopplade institutioner är oprövat.
 
@@ -183,7 +183,7 @@ Lärare som vill ha klassrumsversionen kan följa [[evaluating-ai-interventions-
 
 **”Den sammanvägda effektstorleken säger mig redan vad som fungerar.”** De 14 granskade metaanalyserna definierade behandlingen som ett verktyg, slog samman inkompatibla utfall och rapporterade I² över 80 % i 12 av 13 analyser som angav det. Den sammanvägda siffran beskriver en uppsättning studier med ett konstruktproblem.
 
-**”Simulerade studenter är billigare, så valideringen kan vänta.”** I inställsamhetsstudien släppte simulerade studenter missuppfattningar oavsett om återkopplingen tog itu med dem, vilket är det felfall som får en ineffektiv handledare att se effektiv ut.
+**”Simulerade studenter är billigare, så valideringen kan vänta.”** I [[ai-sycophancy|inställsamhetsstudien]] släppte simulerade studenter missuppfattningar oavsett om återkopplingen tog itu med dem, vilket är det felfall som får en ineffektiv handledare att se effektiv ut.
 
 ## Vad du ska göra den här veckan
 

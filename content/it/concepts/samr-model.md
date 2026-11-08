@@ -1,7 +1,7 @@
 ---
 title: "Modello SAMR"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T06:32:22-05:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -10,7 +10,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-02T09:55:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,8 @@ SAMR è frequentemente abbinato al [[icap-framework|quadro ICAP]] perché i due 
 - **SAMR è un bersaglio della critica postumanista.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] critica i modelli TPACK, SAMR e [[ai-literacy]] per la condivisione di un'ontologia umanista che presuppone un soggetto che apprende circoscritto, la cui cognizione è fondamentalmente immutata dalla mediazione tecnologica, sostenendo che questi quadri strumentalisti non possono affrontare il ruolo costitutivo dell'IA nella cognizione.
 - **Un quadro per l'integrazione, non un quadro per il potere.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] valuta SAMR accanto a TPACK e ad altri quadri di integrazione e rileva che nessuno affronta il potere equo, la proprietà dei dati o la responsabilità, motivando un quadro alternativo di coagentività ecologica.
 - **Anche l'uso da parte degli studenti si mappa su SAMR, e il feedback attraversa ogni livello.** Codificando le dichiarazioni sull'uso dell'IA generativa di 31–36 studenti in un'unità di [[physics-education|fisica]], l'apprendimento è stato collocato a sostituzione–aumento, la formattazione a sostituzione e lo svolgimento dei compiti a modifica–ridefinizione, mentre il feedback — verificare, chiarire, controllare — appariva a tutti e quattro i livelli ([[genai-use-changing-institutional-policy-physics-2026|Quince e Faulconer (2026)]]).
+
+- **Profondità e inclusione sono assi separati.** [[jita-ai-mathematics-classrooms-inclusion-2026|Jita, Jita e Omoniyi (2026)]] abbinano SAMR all'[[universal-design-for-learning|UDL]] su 38 fonti e sostengono che compiti di livello Ridefinizione possono comunque escludere studenti la cui lingua, dispositivo o connettività non si adatta alla progettazione.
 
 ## SAMR, TPACK e adozione della tecnologia: in che cosa differiscono
 
@@ -106,3 +108,5 @@ SAMR si comprende al meglio come una lente sulla profondità di integrazione usa
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — La critica postumanista all'ontologia umanista di SAMR
 - [[reclaiming-epistemic-agency-co-agency-2026]] — Il silenzio di SAMR su potere, proprietà dei dati e responsabilità
 - [[genai-use-changing-institutional-policy-physics-2026]] — Uso dell'IA generativa da parte degli studenti sotto politiche istituzionali in cambiamento: funzioni d'uso mappate sui livelli SAMR (Quince & Faulconer 2026)
+
+- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI in Mathematics Classrooms: A Synergistic Strategy for Diversity and Inclusivity

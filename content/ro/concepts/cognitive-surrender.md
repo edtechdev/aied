@@ -12,8 +12,8 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
-updated: "2026-10-27T17:15:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "*Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*"
 contributors: [editor]
 ai_assist:
@@ -69,18 +69,24 @@ Trei experimente preregistrate au adaptat Testul de Reflecție Cognitivă și au
 
 Citirea practică este că capitularea este un **eșec de discriminare**, nu un eșec de motivație. Participanții care au capitulat nu încercau să evite munca; nu puteau distinge sfatul bun de cel rău, iar interfața nu le dădea niciun motiv să încerce.
 
+Un experiment preregistrat al lui [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] furnizează o configurație contrastantă. Cu asistentul îngrădit prin [[rag|generare augmentată prin recuperare]] la fișa de lucru asignată, condiția IA a scăzut descărcarea cognitivă (mediană −0,27) în loc să o ridice, iar nicio cale de descărcare nu a purtat creșterea dezorganizării (0,84). Capitularea are nevoie de un asistent al cărui sfat poate fi adoptat în bloc; un sistem care răspunde doar din materialul prezent îi dă învățăcelului mai puțin de adoptat și mai mult de reconciliat.
+
+
 ## Capitularea în afara laboratorului
 
 Constatările de laborator se aliniază cu munca de teren și observațională care a ajuns independent la același cuvânt.
 
 - **Deplasare la nivel de populație.** [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] analizează 3,2 milioane de interacțiuni de învățare ALEKS și 12,2 milioane de timpi de răspuns la [[assessment|evaluarea de plasare]] într-un panou de zece ani, cu probleme bazate pe grafuri ca martori pentru cele bazate pe text. Elevii au finalizat mai repede munca susceptibilă la IA și au obținut scoruri mai mari la ea, în timp ce itemii de retenție supravegheați au arătat o scădere cumulată de 25% a șanselor unui răspuns corect; autorii numesc tiparul capitulare cognitivă la scară populațională.
 - **Verificarea ca variabilă discriminantă.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] constată că *modul* în care elevii folosesc IA generativă prezice [[learning-gains|performanța]], în timp ce *cât* o folosesc nu prezice niciuna: adoptarea cu verificare scăzută - acceptarea necritică a rezultatului - a fost asociată cu rezultate mai slabe, iar integrarea evaluativă cu rezultate mai bune.
-- **Folosirea fără gândire erodează resursele de care are nevoie autodirecția.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao și Gu (2026)]] modelează direct adoptarea fără evaluare: la 487 de studenți, folosirea fără gândire a IA generative a fost asociată cu o [[self-regulated-learning|învățare autodirijată]] mai scăzută (β = −0,42), parțial prin [[motivation|motivație]] și [[self-efficacy|autoeficacitate]] reduse.
+- **Folosirea fără gândire erodează resursele de care are nevoie autodirecția.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao și Gu (2026)]] modelează direct adoptarea fără evaluare: la 487 de studenți, folosirea fără gândire a IA generative a fost asociată cu o [[self-directed-learning|învățare autodirijată]] mai scăzută (β = −0,42), parțial prin [[motivation|motivație]] și [[self-efficacy|autoeficacitate]] reduse.
 - **Urma neurală și cea a autoriei.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|studiul EEG al datoriei cognitive]] a măsurat [[writing-education|scrierea de eseuri]] cu un [[llm|LLM]], cu un motor de căutare și fără niciun instrument: grupul cu LLM a arătat cea mai slabă conectivitate neurală, a raportat cea mai mică autoritate asupra propriei lucrări și a avut dificultăți în a cita ce scrisese.
 - **Capitularea poate sosi nesolicitată.** [[ai-advice-suppresses-ikt-suspension-2026|Lucrarea despre suspendarea judecății]] a constatat că simpla disponibilitate a sfatului IA a prăbușit disponibilitatea oamenilor de a spune „nu știu” (0,06 față de 0,36 și 0,03 față de 0,44 în două studii), în timp ce corectitudinea a scăzut și încrederea a crescut de la circa 30 la 76. Miza nu a restaurat suspendarea, deși stimulentele au îmbunătățit acuratețea încurajând infirmările. Un al patrulea studiu a arătat efectul fără nicio consultare, tiparul unui autocomplete sau al unui rezumat de căutare, nu al unui prompt de chat.
 - **Modurile dependent și autonom se disting doar în consecință.** [[family-school-autonomy-support-genai-2026|Fan, Li și Zhang (2026)]] urmăresc 589 de elevi și lucrători la început de carieră în trei valuri: descărcarea dependentă delega gândirea centrală și se asocia cu motivație intrinsecă mai scăzută, în timp ce descărcarea autonomă nu, iar performanța imediată arăta identic în ambele cazuri.
 - **Contribuția modelului însuși.** [[sycophantic-ai-social-interaction-2026|Sincofanția]] este complementul capitulării: un asistent care este de acord, se ferește spre formularea utilizatorului sau enunță fluent o afirmație nu îi dă învățăcelului nimic împotriva căruia să împingă.
 - **Retragerea este jumătatea nerezolvată.** [[cognitive-washout-ai-skill-decay-2026|Lucrarea despre spălarea cognitivă]] arată că aproape toată această cercetare măsoară cogniția *în timpul* folosirii IA și aproape niciuna nu măsoară ce se întâmplă când asistentul este retras, exact întrebarea pe care o pune un examen, o pană de curent sau o revizuire a licenței.
+
+- **„Delegarea întregului eseu rămâne ipotetică în afara laboratorului.”** S-a întâmplat într-un studiu online de o singură sesiune, fără politică și fără încurajare. Dintre **77** de studenți scriitori, **15 (19,5%)** au trimis eseuri scrise **100%** de model, fără să tasteze un cuvânt în editor, iar **20** de participanți au cerut direct un eseu întreg, cel mai folosit cod din schemă. Cel mai intens utilizator a trimis **27** de interogări. [[jelson-students-chatgpt-essay-writing-2026|Capitularea a apărut ca tipar de cerere]], nu ca act unic detectabil.
+
 
 ## Proiectarea și predarea împotriva capitulării
 
@@ -140,3 +146,7 @@ Dovezile pentru capitulare ca construct numit se sprijină în mare măsură pe 
 - [[brcic-effortless-trap-productive-struggle-2026]] — plasarea IA astfel încât sarcina să rămână efortuoasă
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — antrenamentul de calibrare
 - [[family-school-autonomy-support-genai-2026]] — descărcare dependentă versus autonomă
+
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Un asistent limitat la fișa de lucru a scăzut descărcarea în loc să o ridice, o condiție-limită pentru semnătura capitulării (Braun 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Delegarea naturalistă a întregului eseu: 15 din 77 de eseuri scrise integral de model, 20 de cereri pentru un eseu complet (Jelson et al. 2026)
+

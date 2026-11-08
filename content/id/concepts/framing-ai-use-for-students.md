@@ -10,8 +10,8 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
-updated: "2026-10-27T17:07:52-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:32:22-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Pertanyaan untuk Dipertimbangkan
 
 - Sekadar menyediakan AI bagi siswa berkaitan dengan penggunaan yang tidak efektif atau bahkan tidak etis, sementara membingkai secara eksplisit dan menyematkan penggunaan yang tepat memperbaiki hasil. Jika kehadiran alat lebih tidak penting daripada cara ia dibingkai, apa implikasinya bagi penekanan pada sekadar 'memberi AI kepada siswa'?
-- Sebagian besar siswa menggunakan AI generatif, banyak yang tidak yakin apakah penggunaan mereka patuh, dan mereka bersandar pada alat yang diakses secara pribadi alih-alih yang disediakan institusi. Jika mengetahui aturan hampir tidak mengubah apa yang dilakukan siswa, apa yang mungkin lebih meyakinkan daripada sekadar menginformasikan?
+- Sebagian besar siswa menggunakan [[generative-ai|AI generatif]], banyak yang tidak yakin apakah penggunaan mereka patuh, dan mereka bersandar pada alat yang diakses secara pribadi alih-alih yang disediakan institusi. Jika mengetahui aturan hampir tidak mengubah apa yang dilakukan siswa, apa yang mungkin lebih meyakinkan daripada sekadar menginformasikan?
 - Ketika institusi merespons AI dengan ketakutan dan kecaman, siswa mungkin menyembunyikan atau merasionalisasi penggunaan mereka alih-alih belajar menggunakannya dengan baik. Pernahkah Anda melihat respons 'kepanikan moral' yang mendorong siswa ke kerahasiaan? Bagaimana bentuk pendekatan yang dibingkai ulang dan berfokus pada peluang?
 - Kecemasan tentang AI bukan sekadar penghalang: siswa yang khawatir tentang akurasi dan plagiarisme *lebih* cenderung memverifikasi dan merevisi keluaran AI alih-alih menerimanya tanpa kritik. Bagaimana kecemasan yang produktif dapat disalurkan menjadi kompetensi evaluatif alih-alih ditekan?
 - Siswa membangun pemahaman sendiri tentang apa yang dapat diterima melalui 'situs', yaitu niat dosen, dokumen mata kuliah, norma sebaya, dan pesan institusi, yang sering berbeda satu sama lain. Ketika pesan-pesan itu bertentangan, menurut Anda mana yang sebenarnya menang, dan bagaimana pembingkaian menutup celah itu?
@@ -41,7 +41,7 @@ Konsep ini berada di antara dua konsep yang lebih familiari. Jika [[technology-a
 
 Pembingkaian penting karena **kebijakan dan aturan tidak dapat diandalkan untuk mengubah perilaku dengan sendirinya**. [[research-methods-aied|Penelitian]] survei tentang kesadaran [[regulation|regulasi]] menemukan bahwa pengetahuan siswa tentang aturan GenAI institusional hanya menunjukkan asosiasi lemah sampai sedang dengan apa yang benar-benar mereka lakukan ([[student-regulatory-awareness-genai]]). Mengetahui aturan itu perlu tetapi tidak cukup; pesannya harus *meyakinkan*, bukan hanya menginformasikan.
 
-Pembingkaian yang terdiferensiasi dapat berasal dari dalam satu kebijakan, bukan hanya antarsitus: analisis sentimen atas 36 kebijakan universitas menemukan pernyataan tentang pengajaran dibingkai secara positif sementara pernyataan tentang GenAI dan etika dibingkai secara negatif, sehingga siswa menemui dorongan dan pengekangan dalam satu dokumen yang sama ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
+Pembingkaian yang terdiferensiasi dapat berasal dari dalam satu kebijakan, bukan hanya antarsitus: [[affective-computing|analisis sentimen]] atas 36 kebijakan universitas menemukan pernyataan tentang pengajaran dibingkai secara positif sementara pernyataan tentang GenAI dan etika dibingkai secara negatif, sehingga siswa menemui dorongan dan pengekangan dalam satu dokumen yang sama ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 Bingkai itu juga membentuk apakah siswa mengalami AI sebagai **ancaman yang harus dihindari atau dielakkan** versus **sumber daya yang harus digunakan secara sengaja**. Ketika institusi merespons AI dengan ketakutan dan kecaman, yang oleh satu lini karya disebut sebagai "kepanikan moral" yang berulang, mereka mendorong siswa untuk menyembunyikan atau merasionalisasi penggunaan mereka alih-alih belajar menggunakannya dengan baik.([[moral-panic-genai-classroom]]) Membingkai ulang kecemasan dan kecaman menjadi peluang yang terstruktur mengubah seluruh dinamika [[student-engagement|keterlibatan siswa]] dengan AI.
 
@@ -61,7 +61,7 @@ Tuas pembingkaian paling langsung dalam basis pengetahuan adalah menyediakan *al
 
 ### Membingkai ulang kecemasan dan ketidakpastian menjadi kompetensi evaluatif
 
-Sebuah studi [[mixed-methods-research|metode campuran]] tentang [[writing-education|penulisan]] akademik menemukan bahwa kecemasan AI bukan sekadar penghalang: siswa yang khawatir tentang akurasi dan plagiarisme *lebih* cenderung memverifikasi, memeriksa silang, dan merevisi keluaran AI alih-alih menerimanya tanpa kritik. Studi itu membingkai [[ai-literacy|literasi AI]] kurang sebagai penerimaan dan lebih sebagai **kompetensi regulatif**, yaitu kapasitas untuk mempertanyakan keluaran, merevisi secara selektif, dan mempertahankan tanggung jawab kepengarangan.([[ai-anxiety-strategic-regulation-writing-2026]]) Membingkai penggunaan AI bagi siswa berarti menyalurkan kecemasan yang produktif menuju evaluasi, bukan menekannya.
+Sebuah studi [[mixed-methods-research|metode campuran]] tentang [[writing-education|penulisan]] akademik menemukan bahwa [[anxiety-and-stress|kecemasan AI]] bukan sekadar penghalang: siswa yang khawatir tentang akurasi dan plagiarisme *lebih* cenderung memverifikasi, memeriksa silang, dan merevisi keluaran AI alih-alih menerimanya tanpa kritik. Studi itu membingkai [[ai-literacy|literasi AI]] kurang sebagai penerimaan dan lebih sebagai **kompetensi regulatif**, yaitu kapasitas untuk mempertanyakan keluaran, merevisi secara selektif, dan mempertahankan tanggung jawab kepengarangan.([[ai-anxiety-strategic-regulation-writing-2026]]) Membingkai penggunaan AI bagi siswa berarti menyalurkan kecemasan yang produktif menuju evaluasi, bukan menekannya.
 
 ### Gunakan pesan bertarget untuk membentuk perilaku tertentu
 

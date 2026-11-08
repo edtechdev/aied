@@ -7,7 +7,7 @@ pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-10-25T19:20:00-04:00"
+source_updated: "2026-11-05T15:16:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -39,8 +39,10 @@ Bu sayfa, [[ai-education|AI in education]]’nin felsefi ve kuramsal temellerine
 - **Aklın ve bilişin doğası.** Düşünmek bilinç ve beden gerektirir mi? YZ gerçekten bilişsel süreçlere katılabilir mi? **Topluluk bilişi (ensemble cognition)** gibi çerçeveler, YZ’nin *işlevsel eylemselliği* — bilişsel süreçlerde gerçek nedensel etki — bilinç olmaksızın sergilediğini ve düşüncenin dinamik insan–[[student-ai-interaction|AI interaction]] doğduğunu savunur.([[ensemble-cognition-philosophy-ai-education]]) [[distributed-cognition|Distributed cognition]] ve genişletilmiş akıl tezi, bilişin sistemler arasında yayıldığına dair benzer iddialarda bulunur.
 - **Öğrenen nedir?** Posthümanist felsefe, bilişsel süreçleri gerçekten melez olan ve [[biology-education|biological]] ile yapay sistemler arasında dağılan “post-insan” bir varlık olarak öğreneni yeniden kavramsallaştırır.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Bu, öğrenenin sınırlandırılmış, özerk bir bireysel akıl olduğu varsayımına meydan okur.
 - **Bedensiz YZ’nin bedene dâhil oluşu ve sınırları.** [[embodied-learning|Embodied]] ve biliş-sonrası felsefe, sembolik ve bedensiz YZ modellerinin hâkimiyetine eleştiri getirir; bilişin, mevcut [[generative-ai|generative AI]]’de bulunmayan durumsallık, belirme ve duyumsal-hareket bağlantısına dayandığını savunur.([[videla-embodied-ai-education-choreography]])
+
+- **Makine zihinlerinin sınavı olarak duygusal emek.** Alanın YZ'nin öğretip öğretemeyeceğine dair tartışmaları çoğu zaman *özen gösterebilip göstermediğine* döner; bu soru [[affective-computing|duygusal hesaplama]] var olmadan çok önce tartışılmıştır. [[khan-machines-emotional-labor-education-2026|Khan (2026)]], Ziff'in yalnızca canlı varlıkların kelimenin tam anlamıyla duygu taşıyabileceği iddiasına Smart'ın özdeşlik kuramı ve Putnam'ın davranışsal ölçütüyle yanıt verildiği 1950–1996 tartışmasını yeniden kurar ve üç rakip ontolojinin çözülmeden kaldığını gösterir. Vardığı sonuç bir imkânsızlık iddiası değil gerekçelendirme yüküdür — temsil, simülasyon ve taklit duygusal emeği eksik belirler — ve bu yükü pastoral işi bir sisteme devretmek isteyen herkesin omzuna koyar.
 - **Eylemsellik, yazarlık ve anlam.** YZ yorumu ve anlam üretimini aracılık ettiğinde, felsefe yazarlığın, epistemik [[agency]] ve yorumsal özerkliğin nasıl yeniden biçimlendiğini sorar.([[voicu-ai-interpretive-cognition-ssh-2026]])
-- **YZ tarafından üretilen bilimsel nesnelerin ontolojisi.** Kimyada, YZ’nin öngördüğü bileşikler ve titrasyon eğrileri — ampirik olarak kanıtlanana kadar ne tamamen hipotetik ne de tamamen gerçek — bir “sınır ontolojik alan” işgal eder; bu durum disiplini, gerçekliğin insan ve makine işbirliği olduğu yapılandırmacı bir görüşe doğru realizmden uzaklaştırır ([[philosophy-experimentation-ai-chemistry-2026|Reyes and Regala (2026)]]).
+- **YZ tarafından üretilen bilimsel nesnelerin ontolojisi.** [[chemistry-education|Kimyada]], YZ’nin öngördüğü bileşikler ve titrasyon eğrileri — ampirik olarak kanıtlanana kadar ne tamamen hipotetik ne de tamamen gerçek — bir “sınır ontolojik alan” işgal eder; bu durum disiplini, gerçekliğin insan ve makine işbirliği olduğu yapılandırmacı bir görüşe doğru realizmden uzaklaştırır ([[philosophy-experimentation-ai-chemistry-2026|Reyes and Regala (2026)]]).
 - **Bilişsel edilgenlik, epistemik bir zarar olarak.** Bai ve Costa (2026), düşünmeyi içe dönük, devredilemez bir etkinlik olarak ele alan Arendt’ın hesabından yararlanarak, işi hazır sunan üretici YZ’nin düşünmeyi yalnızca dışa aktarmadığını, onu kapatıyor olduğunu savunur; Bourdieu’nun alan ve habitus kavramları riski kurumsal yapılarda konumlar ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
 - **Değerler, adalet ve eğitimin amacı.** Felsefi analiz, YZ kaynaklı eğitimin insanın gelişimini ve eğitim adaletini mi yoksa öğrenmeyi üretkenlik hizmetinde araçsallaştırarak mı hizmet ettiğini inceler.([[avraamidou-ai-colonization-science-education]]) Bu, [[critical-pedagogy]] ve [[ethics]] ile bağlantılıdır.
 
@@ -120,3 +122,5 @@ Eğitimde YZ felsefesi ile [[theory-development-aied|theory development in AIEd]
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
 
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — 'İnsan merkezli' YZED, ticari kullanımları olan insan merkezli bir söylem olarak okunur (Wang ve Jin 2026)
+
+- [[khan-machines-emotional-labor-education-2026]] — Can machines perform emotional labor? The 1950–1996 debate, and why mimicry underdetermines care

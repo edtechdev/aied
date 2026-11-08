@@ -10,8 +10,8 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
-updated: "2026-10-27T17:14:13-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Pytania do rozważenia
 
 - Samo udostępnienie studentom SI wiązało się z nieefektywnym, a nawet nieetycznym użyciem, podczas gdy wyraźne ramowanie i wbudowanie odpowiedniego użycia poprawiało wyniki. Jeśli obecność narzędzia ma mniejsze znaczenie niż to, jak jest ramowane, co to mówi o akcentowaniu samego „dania studentom SI"?
-- Większość studentów korzysta z generatywnej SI, wielu nie jest pewnych, czy ich użycie jest zgodne z zasadami, i opierają się na narzędziach dostępnych prywatnie, a nie tych zapewnianych przez instytucję. Jeśli wiedza o zasadach ledwie zmienia to, co studenci robią, co mogłoby przekonywać, a nie tylko informować?
+- Większość studentów korzysta obecnie z [[generative-ai|generatywnej SI]], niewielu z nich ma pewność, że ich własne użycie jest zgodne z zasadami, i wolą narzędzia dostępne prywatnie od tych zapewnianych przez instytucję. Jeśli wiedza o zasadach ledwie zmienia to, co studenci robią, co mogłoby przekonywać, a nie tylko informować?
 - Gdy instytucje reagują na SI lękiem i potępieniem, studenci mogą ukrywać lub racjonalizować swoje użycie, zamiast uczyć się korzystać z niego dobrze. Czy widziałeś reakcję „paniki moralnej", która pcha studentów ku tajemnicy? Jak wyglądałoby przeformułowane, zorientowane na szanse podejście?
 - Lęk wobec SI nie jest wyłącznie barierą: studenci, którzy martwili się o trafność i plagiat, *częściej* weryfikowali i poprawiali wynik SI, zamiast przyjmować go bezkrytycznie. Jak można kanalizować produktywny lęk w kompetencję oceniającą, zamiast go tłumić?
 - Studenci konstruują własne poczucie tego, co dopuszczalne, przez „miejsca" - intencje kadry, dokumenty kursu, normy rówieśnicze i komunikaty instytucji - które często się rozchodzą. Gdy te komunikaty są sprzeczne, który, jak sądzisz, faktycznie wygrywa, i jak ramowanie zamyka tę lukę?
@@ -41,7 +41,7 @@ Koncepcja leży między dwiema bardziej znanymi. Tam, gdzie [[technology-accepta
 
 Ramowanie ma znaczenie, ponieważ **polityka i reguły same z siebie nie zmieniają wiarygodnie zachowania**. Badania ankietowe [[research-methods-aied|nad]] świadomością [[regulation|regulacji]] wskazują, że wiedza studentów o uczelnianych zasadach dotyczących generatywnej SI wykazuje jedynie słabe do umiarkowanych związki z tym, co faktycznie robią ([[student-regulatory-awareness-genai]]). Znajomość zasad jest warunkiem koniecznym, ale niewystarczającym; komunikat musi *przekonywać*, a nie tylko informować.
 
-Zróżnicowane ramowanie może pochodzić z wnętrza jednej polityki, a nie tylko z różnych miejsc: analiza sentymentu 36 polityk uczelnianych wykazała, że wypowiedzi o nauczaniu były ramowane pozytywnie, a wypowiedzi o generatywnej SI i etyce negatywnie, więc studenci spotykali w jednym dokumencie zachętę i powściągliwość ([[sun-governing-genai-policy-cross-national-2026|Sun i wsp. (2026)]]).
+Zróżnicowane ramowanie może pochodzić z wnętrza jednej polityki, a nie tylko z różnych miejsc: [[affective-computing|analiza sentymentu]] 36 polityk uczelnianych wykazała, że wypowiedzi o nauczaniu były ramowane pozytywnie, a wypowiedzi o generatywnej SI i etyce negatywnie, więc studenci spotykali w jednym dokumencie zachętę i powściągliwość ([[sun-governing-genai-policy-cross-national-2026|Sun i wsp. (2026)]]).
 
 Rama kształtuje też to, czy studenci doświadczają SI jako **zagrożenia, którego należy unikać lub które trzeba obejść**, czy jako **zasobu do świadomego użycia**. Gdy instytucje reagują na SI lękiem i potępieniem - co jeden nurt pracy nazywa nawracającą „paniką moralną" - pchają studentów ku ukrywaniu lub racjonalizowaniu użycia, zamiast uczenia się korzystania z niego dobrze.([[moral-panic-genai-classroom]]) Przeformułowanie lęku i potępienia w ustrukturyzowaną szansę zmienia całą dynamikę [[student-engagement|zaangażowania studentów]] z SI.
 
@@ -61,7 +61,7 @@ Najbardziej bezpośrednią dźwignią ramowania w bazie wiedzy jest dostarczanie
 
 ### Przeformułuj lęk i niepewność w kompetencję oceniającą
 
-[[mixed-methods-research|Badanie metodami mieszanymi]] nad akademickim [[writing-education|pisaniem]] wykazało, że lęk wobec SI nie jest po prostu barierą: studenci, którzy martwili się o trafność i plagiat, *częściej* weryfikowali, porównywali i poprawiali wynik SI, zamiast przyjmować go bezkrytycznie. Badanie ujmuje [[ai-literacy|kompetencje w zakresie SI]] mniej jako akceptację, a bardziej jako **kompetencję regulacyjną** - zdolność do kwestionowania wyników, wybiórczego poprawiania i utrzymywania odpowiedzialności za autorstwo.([[ai-anxiety-strategic-regulation-writing-2026]]) Ramowanie korzystania z SI dla uczniów oznacza kanalizowanie produktywnego lęku ku ocenie, a nie jego tłumienie.
+[[mixed-methods-research|Badanie metodami mieszanymi]] nad akademickim [[writing-education|pisaniem]] wykazało, że [[anxiety-and-stress|lęk wobec SI]] nie jest po prostu barierą: studenci, którzy martwili się o trafność i plagiat, *częściej* weryfikowali, porównywali i poprawiali wynik SI, zamiast przyjmować go za dobrą monetę. Badanie ujmuje [[ai-literacy|kompetencje w zakresie SI]] mniej jako akceptację, a bardziej jako **kompetencję regulacyjną** - zdolność do kwestionowania wyników, wybiórczego poprawiania i utrzymywania odpowiedzialności za autorstwo.([[ai-anxiety-strategic-regulation-writing-2026]]) Ramowanie korzystania z SI dla uczniów oznacza kanalizowanie produktywnego lęku ku ocenie, a nie jego tłumienie.
 
 ### Używaj ukierunkowanych komunikatów do kształtowania konkretnych zachowań
 

@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 ## Dikkate Alınması Gereken Sorular
 
 - YZ’yi öğrencilerin kullanımına basitçe açmak, etkisiz hatta etik olmayan kullanımla ilişkilendirilirken, uygun kullanımı açıkça çerçevelemek ve yerleştirmek sonuçları iyileştirdi. Aracın varlığından çok onun nasıl çerçelendiği önemliyse, bu, “öğrencilere YZ verme” vurgusu hakkında ne düşündürüyor?
-- Öğrencilerin çoğu üretici YZ kullanır, çoğu kullanımının uygun olup olmadığından emin değildir ve kurum tarafından sağlananlar yerine özel erişimli araçlara yaslanır. Kuralları bilmek öğrencilerin yaptıklarını neredeyse hiç değiştirmiyorsa, yalnızca bilgilendirmek yerine ne ikna edebilir?
+- Öğrencilerin çoğu [[generative-ai|üretici YZ]] kullanır, çoğu kullanımının uygun olup olmadığından emin değildir ve kurum tarafından sağlananlar yerine özel erişimli araçlara yaslanır. Kuralları bilmek öğrencilerin yaptıklarını neredeyse hiç değiştirmiyorsa, yalnızca bilgilendirmek yerine ne ikna edebilir?
 - Kurumlar YZ’ye korku ve kınama ile yanıt verdiğinde, öğrenciler onu iyi kullanmayı öğrenmek yerine kullanımlarını gizleyebilir veya gerekçelendirebilir. Bir “ahlaki panik” yanıtının öğrencileri gizliliğe ittiğini gördünüz mü? Yeniden çerçevelenmiş, fırsat odaklı bir yaklaşım neye benzerdi?
 - YZ kaygısı salt bir engel değildir: doğruluk ve intihal konusunda kaygılanan öğrenciler, YZ çıktısını eleştirel olmadan kabul etmektense onu *doğrulama ve revize etme* olasılığı daha yüksekti. Verimli kaygı, bastırılmak yerine değerlendirici yetkinliğe nasıl yönlendirilebilir?
 - Öğrenciler kabul edilebilir olanın kendi anlayışlarını “siteler” aracılığıyla kurar — fakülte niyetleri, ders belgeleri, akran normları ve kurumsal mesajlar — ve bunlar sıklıkla birbirinden ayrılır. Bu mesajlar çatıştığında, hangisinin gerçekten kazandığını düşünüyorsunuz ve çerçeveleme o boşluğu nasıl kapatır?
@@ -40,7 +40,7 @@ Kavram, daha tanıdık iki kavram arasında yer alır. [[technology-acceptance-m
 
 Çerçeveleme önemlidir; çünkü **politika ve kurallar tek başlarına davranışı güvenilir biçimde değiştirmez**. [[regulation|düzenleyici]] farkındalık üzerine anket [[research-methods-aied|araştırmaları]], öğrencilerin kurumsal GenAI kurallarını bilmesinin gerçekten yaptıklarıyla yalnızca zayıf-orta düzeyde ilişkili olduğunu bulur ([[student-regulatory-awareness-genai]]). Kuralları bilmek gerekli ama yeterli değildir; mesaj *ikna etmek* zorundadır, yalnızca bilgilendirmek değil.
 
-Farklılaştırılmış çerçeveleme yalnızca farklı siteler arasında değil, tek bir politikanın içinde de ortaya çıkabilir: 36 üniversite politikasının duygu analizi, öğretim ifadelerinin olumlu çerçevelendiğini, GenAI ve etik ifadelerinin ise olumsuz çerçevelendiğini buldu; böylece öğrenciler tek bir belgede hem teşvik hem de sınırlamayla karşılaştı ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
+Farklılaştırılmış çerçeveleme yalnızca farklı siteler arasında değil, tek bir politikanın içinde de ortaya çıkabilir: 36 üniversite politikasının [[affective-computing|duygu analizi]], öğretim ifadelerinin olumlu çerçevelendiğini, GenAI ve etik ifadelerinin ise olumsuz çerçevelendiğini buldu; böylece öğrenciler tek bir belgede hem teşvik hem de sınırlamayla karşılaştı ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 Çerçeve ayrıca öğrencilerin YZ’yi **kaçınılması veya atlatılması gereken bir tehdit** olarak mı yoksa **bilinçli biçimde kullanılacak bir kaynak** olarak mı deneyimlediğini şekillendirir. Kurumlar YZ’ye korku ve kınama ile yanıt verdiğinde — bir çalışma çizgisinin yinelenen bir “ahlaki panik” olarak adlandırdığı biçimde — öğrencileri onu iyi kullanmayı öğrenmek yerine kullanımlarını gizlemeye veya gerekçelendirmeye iter. Kaygıyı ve kınamayı yapılandırılmış fırsata yeniden çerçevelemek, [[student-engagement|öğrencinin YZ ile etkileşiminin]] tüm dinamiklerini değiştirir.([[moral-panic-genai-classroom]])
 
@@ -60,7 +60,7 @@ Bilgi tabanındaki en doğrudan çerçeveleme kaldracaı, bir sınır görevi i�
 
 ### Kaygıyı ve belirsizliği değerlendirici yetkinliğe yeniden çerçeveleyin
 
-Akademik [[writing-education|yazım]] üzerine bir [[mixed-methods-research|karma yöntemli]] çalışma, YZ kaygısının basitçe bir engel olmadığını buldu: doğruluk ve intihal konusunda kaygılanan öğrenciler, YZ çıktısını eleştirel olmadan kabul etmektense onu doğrulama, çapraz denetleme ve revize etme olasılığı daha yüksekti. Çalışma, [[ai-literacy|YZ okuryazarlığını]] kabulden çok **düzenleyici yetkinlik** olarak çerçeveler — çıktıları sorgulama, seçici biçimde revize etme ve yazarlık sorumluluğunu sürdürme kapasitesi.([[ai-anxiety-strategic-regulation-writing-2026]]) Öğrenciler için YZ kullanımını çerçevelemek, verimli kaygıyı değerlendirmeye yönlendirmek demektir, onu bastırmak değil.
+Akademik [[writing-education|yazım]] üzerine bir [[mixed-methods-research|karma yöntemli]] çalışma, [[anxiety-and-stress|YZ kaygısının]] basitçe bir engel olmadığını buldu: doğruluk ve intihal konusunda kaygılanan öğrenciler, YZ çıktısını eleştirel olmadan kabul etmektense onu doğrulama, çapraz denetleme ve revize etme olasılığı daha yüksekti. Çalışma, [[ai-literacy|YZ okuryazarlığını]] kabulden çok **düzenleyici yetkinlik** olarak çerçeveler — çıktıları sorgulama, seçici biçimde revize etme ve yazarlık sorumluluğunu sürdürme kapasitesi.([[ai-anxiety-strategic-regulation-writing-2026]]) Öğrenciler için YZ kullanımını çerçevelemek, verimli kaygıyı değerlendirmeye yönlendirmek demektir, onu bastırmak değil.
 
 ### Belirli davranışları şekillendirmek için hedefli mesajlar kullanın
 

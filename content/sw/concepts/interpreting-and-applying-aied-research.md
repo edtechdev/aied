@@ -12,7 +12,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ Kama unakumbuka kitu kimoja kutoka ukurasa huu, kumbuka kuwa namba ya kichwa kwa
 - **Mapitio ya uwanja yenyewe hayastahimili mashtaka.** [[oneill-presumed-effective-meta-analysis-2026|Mashtaka ya O'Neill (2026)]] ya meta-analysis **14 zilizopitiwa mapitio** zinazodai AI inaboresha elimu yaligundua kuwa **hakuna** ilitoa msingi halali kwa madai iliyotangaza, na miongoni mwa masudio 46 ya msingi yaliyochaguliwa kwa nasibu, **61%** yalionesha wasiwasi wa uhalali. Tatizo si karatasi moja mbaya; ni utamaduni wa kuripoti.
 - **Mapitio yanaweza kupima upotoshaji wa uripoti katika korpusi yake mwenyewe.** Mapitio ya kimfumo ya masudio 155 ya elimu ya juu yaligundua 117 (asilimia 75.5) yaliripoti utekelezaji uliofanikiwa, 124 (asilimia 80.0) yalishughulikia athari ya muda mfupi peke yake, na 23 tu (asilimia 14.8) yaliripoti kuhusu kushindwa kwa [[ethics|maadili]], usawa au utawala, usawaziko ambao ukaguzi ulio juu unaelezea, ukipimwa kwenye msingi wake wa ushahidi ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 - **Ripoti za kujitangaza zinasifu kila mtu.** Watu hukadiria [[ai-literacy|ujuzi wao wa AI]] kuwa juu zaidi kwa takribani **40%** kuliko vipimo vya utendaji vinavyoonyesha, ndiyo maana maswali ya kuridhika na ya ujasiri ni ushahidi dhaifu zaidi unaoweza kutumiwa ([[self-report-measures|Vipimo vya Kujitangaza]], [[educational-measurement|Upimaji wa Kielimu]]).
-- **Bidhaa nyingi zilizopo darasani hazina ushahidi huria kabisa.** [[instruction-partners-ai-in-action-learning-tour-2026|Safari ya kujifunza ya Instruction Partners 2025–26]] iliwasilisha bidhaa 20 za AI za wanafunzi na ikagundua kuwa, kati ya zile 16 zenye wasifu kamili, saba tu zilikuwa na mapitio huria yanayochunguza mafanikio ya wanafunzi katika makundi ya wanafunzi katika Marekani; mbili zilichunguzwa nje ya nchi tu, nne zilikuwa na masudio yanayoendelea na tatu zilitegemea data ya ndani peke yake. Waandishi wanadai kuwa masudio ya sababu huria yanayofunika makundi ya kipaumbele yanapaswa kuwa matarajio kwa bidhaa zote za wanafunzi — bado si kiwango cha zana ambazo shule zinatutumia tayari.
+- **Bidhaa nyingi zilizopo darasani hazina ushahidi huria kabisa.** [[instruction-partners-ai-in-action-learning-tour-2026|Safari ya kujifunza ya Instruction Partners 2025–26]] iliwasilisha bidhaa 20 za AI za wanafunzi na ikagundua kuwa, kati ya zile 16 zenye wasifu kamili, saba tu zilikuwa na mapitio huria yanayochunguza [[learning-gains|mafanikio ya wanafunzi]] katika makundi ya wanafunzi katika Marekani; mbili zilichunguzwa nje ya nchi tu, nne zilikuwa na masudio yanayoendelea na tatu zilitegemea data ya ndani peke yake. Waandishi wanadai kuwa masudio ya sababu huria yanayofunika makundi ya kipaumbele yanapaswa kuwa matarajio kwa bidhaa zote za wanafunzi — bado si kiwango cha zana ambazo shule zinatutumia tayari.
 
 ## Kubadilisha matokeo kuwa uamuzi
 

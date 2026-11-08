@@ -7,9 +7,9 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-updated: "2026-11-04T02:42:40-05:00"
+updated: "2026-11-08T06:32:22-05:00"
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-10-25T18:35:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,6 @@ ai_assist:
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
-
 
 > **Teori dan kerangka kerja** — inventaris kerja struktur penjelas dan pengorganisasi yang benar-benar dipakai basis pengetahuan ini. Teori menjelaskan mengapa belajar terjadi ([[learning-theories]], [[self-determination-theory]], [[sociocultural-learning]], [[activity-theory-aied|teori aktivitas]]); kerangka kerja mengorganisasi keputusan desain, pengajaran, dan adopsi ([[tpack]], [[samr-model|SAMR]], [[technology-acceptance-model|model adopsi teknologi]], [[icap-framework|ICAP]], [[universal-design-for-learning|desain universal untuk pembelajaran]]); model membuat klaim pembelajaran dapat diuji dan dikomputasi ([[item-response-theory|teori respons butir]], [[assessment-validity]], [[knowledge-tracing]]). Gunakan halaman ini untuk menemukan lensa yang menjadi landasan sebuah studi, atau untuk memilih satu bagi pekerjaan Anda sendiri.
 
@@ -41,7 +40,7 @@ Setiap tutor AI, sistem umpan balik, dan dasbor menanamkan asumsi tentang bagaim
 Ini menjelaskan mekanisme: mereka menamai bagian yang melakukan kerja dan memprediksi apa yang menyusul ketika bagian itu berubah. Dalam literatur AI, teori-teori ini sebagian besar dipinjam dari psikologi dan [[learning-sciences|ilmu pembelajaran]], dan dipakai sebagai bingkai interpretatif di sekitar alat baru.
 
 - **[[learning-theories|Teori belajar (payung)]]** — keluarga secara keseluruhan, termasuk kutub klasik [[behaviorism]] dan [[constructivist|konstruktivisme]] serta celah "konstruktivisme dalam nama, behaviorisme dalam praktik" yang berulang dalam implementasi AI. Konektivisme dan teori beban kognitif juga dibahas di sini.
-- **[[constructivist|Konstruktivisme]]** — belajar sebagai konstruksi pengetahuan yang aktif. Ia mendasari kerja berbasis proyek, tutoring AI berbasis dialog, dan kritik bahwa sistem latihan-dan-umpan-balik melanggar pedagogi yang mereka nyatakan sendiri.
+- **[[constructivist|Konstruktivisme]]** — belajar sebagai konstruksi pengetahuan yang aktif. Ia mendasari kerja [[project-based-learning|berbasis proyek]], [[intelligent-tutoring|tutoring AI]] berbasis dialog, dan kritik bahwa sistem latihan-dan-umpan-balik melanggar pedagogi yang mereka nyatakan sendiri.
 - **[[sociocultural-learning|Teori sosiokultural]]** — belajar sebagai termediasi oleh alat dan interaksi sosial, itulah sebabnya AI diteorikan sebagai artefak yang memediasi alih-alih sekadar bantuan.
 - **[[activity-theory-aied|Teori aktivitas]]** — mengambil keseluruhan sistem aktivitas, termasuk kontradiksinya, sebagai unit analisis. Lazim dalam studi AI yang berorientasi guru, ketika temuan yang menarik biasanya adalah ketegangan antara alat, aturan, dan komunitas.
 - **[[situated-learning|Pembelajaran tersituasi]]** dan **[[embodied-learning|Pembelajaran terwujud]]** — belajar sebagai terikat pada konteks dan pada tubuh, penyeimbang bagi perlakuan AI sebagai medium yang murni linguistik.
@@ -49,8 +48,8 @@ Ini menjelaskan mekanisme: mereka menamai bagian yang melakukan kerja dan mempre
 - **[[community-of-inquiry|Komunitas inkuiri]]** — kehadiran sosial, kognitif, dan pengajaran yang membuat pengalaman daring berhasil; teori tentang pengalaman sekaligus bingkai desain.
 - **[[self-determination-theory|Teori determinasi diri]]** — otonomi, kompetensi, dan keterhubungan sebagai prasyarat motivasional. Sering menjadi penjelasan yang ditawarkan ketika penggunaan AI menaikkan keterlibatan tanpa menaikkan pembelajaran.
 - **[[cognitive-psychology|Kognitivisme]]** — pemrosesan informasi, memori kerja, dan divergensi antara perasaan belajar dan pembelajaran aktual.
-- **Teori persepsi sosial (kehangatan dan kompetensi)** — diimpor dari kognisi sosial dan riset robot layanan, ia membingkai bagaimana pengguna menilai kredibilitas agen AI: kompetensi yang dipersepsikan memprediksi kredibilitas umpan balik ChatGPT secara langsung sementara kehangatan hanya bekerja melalui empati yang mirip manusia (SEM, 230 siswa; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
-- **Kategori afordans keempat diusulkan, bukan diuji.** Mengodekan 24 studi terhadap skema afordans tiga bagian, para peninjau menemukan keterlibatan, keselamatan, dan efikasi diri tidak cocok dengan kategori teknologi, pedagogis, atau sosial, dan mengusulkan afordans emosional yang berlandaskan determinisme timbal balik Bandura ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+- **Teori persepsi sosial (kehangatan dan kompetensi)** — diimpor dari kognisi sosial dan riset robot layanan, ia membingkai bagaimana pengguna menilai kredibilitas [[agentic-ai|agen AI]]: kompetensi yang dipersepsikan memprediksi kredibilitas umpan balik ChatGPT secara langsung sementara kehangatan hanya bekerja melalui empati yang mirip manusia (SEM, 230 siswa; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
+- **Kategori afordans keempat diusulkan, bukan diuji.** Mengodekan 24 studi terhadap skema afordans tiga bagian, para peninjau menemukan keterlibatan, keselamatan, dan efikasi diri tidak cocok dengan kategori teknologi, [[pedagogy|pedagogis]], atau sosial, dan mengusulkan afordans emosional yang berlandaskan determinisme timbal balik Bandura ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
 ## Model pembelajar dan proses belajar
 
@@ -66,16 +65,16 @@ Ini menjelaskan mekanisme: mereka menamai bagian yang melakukan kerja dan mempre
 
 - **[[tpack|TPACK]]** — pengetahuan guru yang memadukan teknologi, pedagogi, dan konten; kerangka kerja default bagi studi AI yang berorientasi guru.
 - **[[technology-acceptance-model|Model adopsi]]** — niat sebagai fungsi dari kegunaan yang dipersepsikan dan kemudahan penggunaan. Dipakai cukup luas sehingga ketergantungan bidang ini pada niat alih-alih perilaku menjadi kritik yang tetap.
-- **[[icap-framework|ICAP]]** — memeringkat keterlibatan sebagai pasif, aktif, konstruktif, interaktif; berguna untuk menanyakan mode apa yang sebenarnya diafordanskan oleh interaksi AI.
+- **[[icap-framework|ICAP]]** — memeringkat keterlibatan sebagai pasif, aktif, konstruktif, interaktif; berguna untuk menanyakan mode apa yang sebenarnya diafordanskan oleh [[student-ai-interaction|interaksi AI]].
 - **[[samr-model|SAMR]]** — substitusi hingga redefinisi. Populer sebagai kisah kematangan, lemah sebagai instrumen pengukuran.
-- **[[universal-design-for-learning|Desain universal untuk pembelajaran]]**, **[[inclusive-learning|pembelajaran inklusif]]**, dan **[[accessibility]]** — bingkai desain tentang siapa yang dilayani, dan yang paling sering diacu dalam kerja disabilitas dan keadilan.
+- **[[universal-design-for-learning|Desain universal untuk pembelajaran]]**, **[[inclusive-learning|pembelajaran inklusif]]**, dan **[[accessibility]]** — bingkai desain tentang siapa yang dilayani, dan yang paling sering diacu dalam kerja disabilitas dan [[equity-in-ai-education|keadilan]].
 - **[[learning-design|Desain pembelajaran]]**, **[[curriculum-design|Desain kurikulum]]**, dan **[[design-thinking|Berpikir desain]]** — bagaimana tugas, urutan, dan program distrukturkan sebelum alat apa pun dipilih.
 - **[[change-management|Manajemen perubahan]]** — apakah sebuah sistem diadopsi sama sekali, yang biasanya merupakan pertanyaan institusional alih-alih pedagogis.
 
 ## Model pengukuran dan komputasional
 
 - **[[item-response-theory|Teori respons butir]]** — estimasi butir dan kemampuan, dan model yang membuat angka sebuah tes dapat ditafsirkan.
-- **[[educational-measurement|Pengukuran pendidikan]]** — lanskap instrumen, termasuk ukuran yang dibangun khusus untuk literasi AI.
+- **[[educational-measurement|Pengukuran pendidikan]]** — lanskap instrumen, termasuk ukuran yang dibangun khusus untuk [[ai-literacy|literasi AI]].
 - **[[assessment-validity|Validitas]]** — apakah sebuah instrumen mengukur konstruk yang diklaimnya, yang menentukan apakah hasil yang dilaporkan mendukung klaim teoretis yang dilekatkan padanya.
 - **[[self-report-measures|Ukuran laporan diri]]** — sumber bukti yang dominan dan paling rapuh dalam literatur ini; beberapa konstruk di atas diketahui menyimpang tajam antara laporan diri dan kinerja.
 - **[[knowledge-tracing|Pelacakan pengetahuan]]** dan **[[student-modeling|Pemodelan siswa]]** — mengestimasi keadaan pembelajar seiring waktu dari data interaksi.
@@ -87,7 +86,7 @@ Ini menjelaskan mekanisme: mereka menamai bagian yang melakukan kerja dan mempre
 
 Empat usulan dalam basis pengetahuan membangun teori alih-alih meminjamnya. Semuanya halaman artikel alih-alih simpul konsep, karena masing-masing merupakan satu argumen:
 
-- **[[generativism-learning-theory|Generativisme]]** — teori belajar baru yang berargumen bahwa empat teori klasik menunjukkan keterbatasan konseptual signifikan seiring AI generatif berkembang.
+- **[[generativism-learning-theory|Generativisme]]** — teori belajar baru yang berargumen bahwa empat teori klasik menunjukkan keterbatasan konseptual signifikan seiring [[generative-ai|AI generatif]] berkembang.
 - **[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Koagensi epistemik]]** — model tentang bagaimana pembelajar dan sistem AI bersama-sama menghasilkan pengetahuan dan pemahaman.
 - **[[absent-cognitive-baseline-2026|Garis dasar kognitif yang tidak ada]]** — membuat teori tentang mengapa siswa asli AI melebih-lebihkan pembelajaran mereka sendiri ketika AI menggelembungkan kinerja.
 - **[[yan-agentivism-learning-theory-ai-2026|Agentivisme]]** — teori jangkauan menengah yang menamai empat mekanisme (agensi terdelegasi, pemantauan dan verifikasi epistemik, internalisasi rekonstruktif, dan transfer di bawah dukungan yang berkurang) dan menyatakan enam proposisi yang dapat diuji.
@@ -103,7 +102,7 @@ Kata-katanya dipakai secara longgar dalam literatur, dan perbedaannya layak mend
 
 ## Lapisan terkait
 
-Dua halaman tetangga sengaja membahas hal lain. [[philosophy-of-ai-in-education|Filsafat AI dalam pendidikan]] menanyakan pertanyaan normatif dan konseptual — untuk apa pendidikan, apakah mesin dapat mengajar — dan tidak memprediksi ukuran efek; sebuah studi dapat naif secara filosofis dan sehat secara teoretis, atau sebaliknya. [[theory-development-aied|Pengembangan teori]] adalah meta-aktivitas membangun, meminjam, dan merevisi teori, termasuk kritik yang tetap bahwa banyak kerja AIED menerapkan teori yang ada alih-alih mengujinya. Halaman ini adalah inventarisnya; pengembangan teori adalah tentang menghasilkan dan merevisi inventaris itu.
+Dua halaman tetangga sengaja membahas hal lain. [[philosophy-of-ai-in-education|Filsafat AI dalam pendidikan]] menanyakan pertanyaan normatif dan konseptual — untuk apa pendidikan, apakah mesin dapat mengajar — dan tidak memprediksi ukuran efek; sebuah studi dapat naif secara filosofis dan sehat secara teoretis, atau sebaliknya. [[theory-development-aied|Pengembangan teori]] adalah meta-aktivitas membangun, meminjam, dan merevisi teori, termasuk kritik yang tetap bahwa banyak kerja [[ai-education|AIED]] menerapkan teori yang ada alih-alih mengujinya. Halaman ini adalah inventarisnya; pengembangan teori adalah tentang menghasilkan dan merevisi inventaris itu.
 
 ## Memilih lensa ketika pertanyaannya praktis
 
@@ -116,8 +115,7 @@ Dua halaman tetangga sengaja membahas hal lain. [[philosophy-of-ai-in-education|
 
 Kerangka kerja bukan bukti. Mereka biasanya dipinjam dari konteks pra-LLM dan dilokalkan oleh siapa pun yang menerapkannya, mereka dapat berfungsi sebagai branding, dan model tahapan mengundang adopsi kotak centang yang melaporkan pergerakan melalui tingkat alih-alih pembelajaran. Klaim yang bersandar pada kerangka kerja sebaiknya dibaca berdampingan dengan [[limitations-in-aied-research|keterbatasan lintas potong bidang ini]], [[assessment-validity|validitas]] apa pun yang mengukur hasilnya, dan batas yang diketahui dari [[self-report-measures|laporan diri]].
 
-
-Keselarasan mekanisme-ke-teori tetap dapat menentukan: sintesis tematik atas 55 studi pembelajaran berbasis permainan berbantuan AI menemukan bahwa efektivitas bergantung pada apakah mekanisme AI menjalankan pedagogi yang seharusnya dilayaninya alih-alih pada kecanggihan algoritmik ([[ai-game-based-learning-systematic-review-2026|Kaşarcı dan Yurt (2026)]]).
+Keselarasan mekanisme-ke-teori tetap dapat menentukan: sintesis tematik atas 55 studi [[game-based-learning|pembelajaran berbasis permainan]] berbantuan AI menemukan bahwa efektivitas bergantung pada apakah mekanisme AI menjalankan pedagogi yang seharusnya dilayaninya alih-alih pada kecanggihan algoritmik ([[ai-game-based-learning-systematic-review-2026|Kaşarcı dan Yurt (2026)]]).
 
 ## Miskonsepsi Umum
 

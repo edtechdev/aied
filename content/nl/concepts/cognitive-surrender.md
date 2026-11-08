@@ -12,8 +12,8 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
-updated: "2026-10-27T17:07:46-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -69,18 +69,23 @@ Drie vooraf geregistreerde experimenten pasten de Cognitive Reflection Test aan 
 
 De praktische lezing is dat overgave een **discriminatiefout** is en geen motivatiefout. De deelnemers die zich overgaven probeerden geen werk te vermijden; ze konden goed advies niet van slecht advies onderscheiden, en de interface gaf hun geen reden het te proberen.
 
+
+Een vooraf geregistreerd experiment van [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] levert een contrasterende configuratie. Met de assistent door [[rag|retrieval-augmentatie]] beperkt tot het opgegeven werkblad verlaagde de AI-conditie cognitieve offloading (mediaan −0,27) in plaats van haar te verhogen, en geen enkel offloadingpad droeg de toename in desorganisatie (0,84). Overgave vereist een assistent wiens advies in zijn geheel kan worden overgenomen; een systeem dat alleen uit het huidige materiaal antwoordt, geeft de leerling minder om over te nemen en meer om te verzoenen.
+
 ## Overgave buiten het lab
 
 De laboratoriumbevindingen sluiten aan bij veld- en observationeel werk dat onafhankelijk naar hetzelfde woord greep.
 
 - **Verdringing op populatieniveau.** [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] analyseren 3,2 miljoen ALEKS-leerinteracties en 12,2 miljoen reactietijden op [[assessment|plaatsingsbeoordelingen]] over een panel van tien jaar, met graafgebaseerde problemen als controles voor tekstgebaseerde. Studenten voltooiden AI-gevoelig werk sneller en scoorden er hoger op, terwijl bewaakte retentietems een cumulatieve daling van 25% in de odds op een juist antwoord lieten zien; de auteurs noemen het patroon cognitieve overgave op populatieschaal.
 - **Verificatie als de onderscheidende variabele.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] vinden dat *hoe* studenten generatieve AI gebruiken [[learning-gains|prestatie]] voorspelt, terwijl *hoeveel* ze ervan gebruiken geen van beide voorspelt: gebruik met weinig verificatie (kritiekloos output accepteren) hing samen met slechtere uitkomsten, en evaluerende integratie met betere.
-- **Gedachteloos gebruik erodeert de hulpbronnen die zelfsturing nodig heeft.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao en Gu (2026)]] modelleren overnemen-zonder-beoordelen direct: bij 487 bachelorstudenten hing gedachteloos gebruik van generatieve AI samen met minder [[self-regulated-learning|zelfgestuurd leren]] (β = -0,42), deels via verminderde [[motivation|motivatie]] en [[self-efficacy|zelfeffectiviteit]].
+- **Gedachteloos gebruik erodeert de hulpbronnen die zelfsturing nodig heeft.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao en Gu (2026)]] modelleren overnemen-zonder-beoordelen direct: bij 487 bachelorstudenten hing gedachteloos gebruik van generatieve AI samen met minder [[self-directed-learning|zelfgestuurd leren]] (β = -0,42), deels via verminderde [[motivation|motivatie]] en [[self-efficacy|zelfeffectiviteit]].
 - **Het neurale spoor en het spoor van eigenaarschap.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|de EEG-studie naar cognitieve schuld]] mat [[writing-education|het schrijven van essays]] met een [[llm]], met een zoekmachine en zonder tool: de LLM-groep vertoonde de zwakste neurale connectiviteit, rapporteerde het minste eigenaarschap over het eigen werk en had moeite te citeren wat ze had geschreven.
 - **Overgave kan ongevraagd komen.** [[ai-advice-suppresses-ikt-suspension-2026|Werk over het opschorten van oordeel]] vond dat louter de beschikbaarheid van AI-advies de bereidheid om 'ik weet het niet' te zeggen instortte (0,06 tegen 0,36, en 0,03 tegen 0,44 in twee studies), terwijl de juistheid daalde en het vertrouwen steeg van ongeveer 30 naar 76. Inzetten herstelden de opschorting niet, al verbeterden prikkels de nauwkeurigheid door overrides aan te moedigen. Een vierde studie toonde het effect zonder enige consultatie, het patroon van een automatische aanvulling of een zoeksamenvatting eerder dan van een chatprompt.
 - **Afhankelijke en autonome modi zijn alleen in hun gevolg te onderscheiden.** [[family-school-autonomy-support-genai-2026|Fan, Li en Zhang (2026)]] volgen 589 studenten en beginnende beroepsbeoefenaars over drie golven: afhankelijke offloading delegeerde het kerndenken en hing samen met minder intrinsieke motivatie, autonome offloading niet, en de onmiddellijke prestatie leek in beide gevallen identiek.
 - **De eigen bijdrage van het model.** [[sycophantic-ai-social-interaction-2026|Sycophantie]] is het complement van overgave: een assistent die instemt, meebeweegt met de inkadering van de gebruiker of een bewering vloeiend formuleert, geeft de leerling niets om tegen te duwen.
 - **Terugtrekking is de onopgeloste helft.** [[cognitive-washout-ai-skill-decay-2026|Werk over cognitieve uitspoeling]] wijst erop dat bijna al dit onderzoek cognitie *tijdens* AI-gebruik meet, en bijna niets meet wat er gebeurt wanneer de assistent wordt weggenomen, precies de vraag die een tentamen, een storing of een licentiereview stelt.
+
+- **'Hele-essay-delegatie blijft buiten het lab hypothetisch.'** Het gebeurde in een online studie van één sessie zonder beleid en zonder aanmoediging. Van **77** studenten die schrijven, dienden **15 (19,5%)** essays in die **100%** door het model waren geschreven, zonder een woord in de editor te typen, en **20** deelnemers vroegen ronduit om een volledig essay, de meest gebruikte code in het schema. De zwaarste gebruiker diende **27** queries in. [[jelson-students-chatgpt-essay-writing-2026|Overgave bleek een vraagpatroon]], geen enkele detecteerbare daad.
 
 ## Ontwerpen en onderwijzen tegen overgave
 
@@ -140,3 +145,6 @@ Het bewijs voor overgave als benoemd construct leunt zwaar op één programma va
 - [[brcic-effortless-trap-productive-struggle-2026]] — AI zo plaatsen dat de taak inspannend blijft
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibratietraining
 - [[family-school-autonomy-support-genai-2026]] — afhankelijke versus autonome offloading
+
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Een op het werkblad gebaseerde assistent verlaagde offloading in plaats van haar te verhogen, een grensgeval voor de overgavesignatuur (Braun 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Naturalistische hele-essay-delegatie: 15 van 77 essays volledig door het model geschreven, 20 verzoeken om een compleet essay (Jelson et al. 2026)

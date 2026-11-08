@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T14:24:50-04:00"
+updated: "2026-11-08T05:10:57-05:00"
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
@@ -67,7 +67,7 @@ Preostala praznina tiče se putanja sposobnosti, a jedan dodani posttest je ne z
 
 „Učenje potpomognuto umjetnom inteligencijom“ obično objedinjuje nekoliko promjena: nove povratne informacije, dodanu refleksiju, raspravu među vršnjacima, drukčije sljedove zadataka, izmijenjene poticaje u ocjenjivanju. Paket koji uspije ne kaže vam koje su komponente bile nužne.
 
-[[genai-feedback-design-multisite-experiment|Dizajn povratnih informacija generativne UI usmjeren na čovjeka]] stvarni je napredak po tom pitanju. Među 1.176 studenata prve godine refleksivni i hibridni dizajni nadmašili su izravnu [[ai-feedback-quality|UI povratnu informaciju]] u odgođenom prijenosu bez umjetne inteligencije. Hibridni uvjet spojio je samoprocjenu, [[peer-assessment|povratnu informaciju vršnjaka]] i kritiku umjetne inteligencije. To razdvaja kako je povratna informacija ustrojena i upotrijebljena od toga imaju li učenici uopće pristup povratnoj informaciji.
+[[genai-feedback-design-multisite-experiment|Dizajn povratnih informacija generativne UI usmjeren na čovjeka]] stvarni je napredak po tom pitanju. Među 1.176 studenata prve godine refleksivni i hibridni dizajni nadmašili su izravnu [[ai-feedback-quality|UI povratnu informaciju]] u odgođenom prijenosu bez umjetne inteligencije. Hibridni uvjet spojio je [[self-assessment|samoprocjenu]], [[peer-assessment|povratnu informaciju vršnjaka]] i kritiku umjetne inteligencije. To razdvaja kako je povratna informacija ustrojena i upotrijebljena od toga imaju li učenici uopće pristup povratnoj informaciji.
 
 Još je otvoreno: doprinos i vrijeme početnih samostalnih pokušaja, samoobjašnjenja, doprinosa vršnjaka, korektivne povratne informacije, natuknica i postupnog povlačenja pomoći, te kako svaki od njih djeluje s [[prior-knowledge|prethodnim znanjem]] i težinom zadatka.
 
@@ -87,7 +87,7 @@ Umjetna inteligencija stvara dva povezana problema ocjenjivanja: pomaže u proiz
 
 Studija baze znanja o [[ai-agents-complete-lms-assessment-validity-2026|agentima umjetne inteligencije koji dovršavaju ocjenjivane zadatke u LMS-u]] dokumentira agente koji se kreću živim preddiplomskim kolegijem i dovršavaju ocjenjivane aktivnosti. To pokazuje sposobnost koja dovodi u pitanje pretpostavke o dokazima koje proizvode studenti. Ne utvrđuje koliko je takva upotreba česta i ne čini asinkrono ocjenjivanje kao kategoriju nevaljanim.
 
-Istraživačko je pitanje koji dizajni još podupiru obranjive zaključke o učeniku. [[eportfolio|Portfelji]], refleksije, stupnjevite predaje i zapisi aktivnosti trebaju validaciju kao dokazi, a ne pretpostavku da utvrđuju autorstvo ili razumijevanje. Studije bi trebale testirati kombinacije dokaza prema neovisno promatranoj kompetenciji, uzimajući u obzir pristupačnost, radno opterećenje, privatnost i anksioznost studenata. [[assessment-validity|Valjanost ocjenjivanja]] drži pojedinosti.
+Istraživačko je pitanje koji dizajni još podupiru obranjive zaključke o učeniku. [[eportfolio|Portfelji]], refleksije, stupnjevite predaje i zapisi aktivnosti trebaju validaciju kao dokazi, a ne pretpostavku da utvrđuju autorstvo ili razumijevanje. Studije bi trebale testirati kombinacije dokaza prema neovisno promatranoj kompetenciji, uzimajući u obzir pristupačnost, radno opterećenje, privatnost i [[anxiety-and-stress|anksioznost studenata]]. [[assessment-validity|Valjanost ocjenjivanja]] drži pojedinosti.
 
 Za [[automated-assessment|automatizirano bodovanje]], [[llms-do-not-grade-essays-like-humans-2026|LLM-ovi ne ocjenjuju eseje kao ljudi]] izvješćuje o sustavnom neslaganju između gotovih modela i ljudskih ocjenjivača. Nalazi su specifični za konfiguraciju i pokazuju zašto unutarnja dosljednost ne može nositi tvrdnju o valjanosti.
 
@@ -105,11 +105,11 @@ Rješavanje toga traži ocjenjivanje utemeljeno na izvedbi u kombinaciji s proma
 
 ## Izvijestite koga nalaz izostavlja
 
-Nalazi iz jednog kolegija, ustanove, jezika ili populacije učenika rijetko daju pravo na odluke drugdje, problem koji sinteza [[limitations-in-aied-research|Ograničenja u istraživanju UI u obrazovanju]] tretira kao ponavljajući. Kako se učinci razlikuju prema razvojnoj fazi, disciplini, prethodnom znanju, invaliditetu, jeziku i uvjetima resursa, ostaje uglavnom nemjereno.
+Nalazi iz jednog kolegija, ustanove, jezika ili [[learners|populacije učenika]] rijetko daju pravo na odluke drugdje, problem koji sinteza [[limitations-in-aied-research|Ograničenja u istraživanju UI u obrazovanju]] tretira kao ponavljajući. Kako se učinci razlikuju prema razvojnoj fazi, disciplini, prethodnom znanju, invaliditetu, jeziku i uvjetima resursa, ostaje uglavnom nemjereno.
 
 Istraživanje pravednosti također mora razdvojiti pristup, vještine i ishode. Sinteza [[digital-divide|Digitalni jaz]] jasno kaže da uređaji i pristup alatima ne uspostavljaju jednaku sposobnost za korist. [[school-ai-education-readiness-gaps-agency-2026|Smanjuje li školsko obrazovanje o umjetnoj inteligenciji jazove u pripremljenosti?]] pratilo je 752 učenika nižih razreda srednje škole u Hong Kongu: jazovi u psihološkoj pripremljenosti su se smanjili, dok su razlike na objektivnom testu pismenosti u području umjetne inteligencije ostale. Svaka skupina je napredovala, a nejednakost se nije zatvorila. Profili prethodnog učenja nisu bili slučajno dodijeljeni, pa njihova kauzalna uloga ostaje nepoznata.
 
-Pokrivenost je tanka na određenim mjestima. [[differential-effects-across-learner-groups|Različiti učinci među skupinama učenika]] broji literaturu po populaciji: učenici drugog jezika i višejezični učenici te učenici s invaliditetom najdublji su nizovi, slijede rod i neurodivergentnost, učenici prve generacije i međunarodni studenti imaju po jednu studiju u ovom korpusu, daroviti i visokopostignući učenici praktički su neistraženi, a izbjeglice, imigranti i raseljeni učenici ne pojavljuju se ni u jednoj. Baza dokaza takvog oblika ne može odgovoriti na pitanje pravednosti zbrajanjem.
+Pokrivenost je tanka na određenim mjestima. [[differential-effects-across-learner-groups|Različiti učinci među skupinama učenika]] broji literaturu po populaciji: učenici drugog jezika i [[multilingual-learning|višejezični učenici]] te [[inclusive-learning|učenici s invaliditetom]] najdublji su nizovi, slijede rod i [[neurodiversity|neurodivergentnost]], učenici prve generacije imaju dvije studije — jednu o razlikama u upotrebi i jednu o procjeni učinka — a međunarodni studenti jednu, daroviti i visokopostignući učenici praktički su neistraženi, a izbjeglice, imigranti i raseljeni učenici ne pojavljuju se ni u jednoj. Baza dokaza takvog oblika ne može odgovoriti na pitanje pravednosti zbrajanjem.
 
 Kapacitet se razlikuje i unutar jednog nacionalnog sustava. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye i sur. (2026)]] ocijenili su integraciju umjetne inteligencije na 45 nigerijskih sveučilišta i našli umjerenu ukupnu usvojenost (M = 4,79, raspon 1,83-7,83 na ljestvici od 10 bodova), pri čemu tip ustanove nije predviđao integraciju kada su starost i zemljopis kontrolirani (starost β = 0,43; lokacija jugozapad β = 0,31). Unutarnje sposobnosti međusobno su korelirale pri r = 0,79-0,80, a međunarodne suradnje s partnerstvima s industrijom pri r = 0,74, pa povezane ustanove akumuliraju složene prednosti. Koji dizajni izgradnje kapaciteta mijenjaju ishode u novijim, slabije povezanim ustanovama, nije testirano.
 
@@ -183,7 +183,7 @@ Nastavnici koji žele verziju na razini učionice mogu slijediti [[evaluating-ai
 
 **„Objedinjena veličina učinka već mi kaže što djeluje.“** 14 provjerenih meta-analiza definiralo je tretman kao alat, objedinilo nekompatibilne ishode i prijavilo I² iznad 80% u 12 od 13 analiza koje su ga dale. Objedinjeni broj opisuje skup studija s problemom konstrukta.
 
-**„Simulirani studenti jeftiniji su, pa validacija može čekati.“** U studiji ulizivanja simulirani studenti napuštali su zablude bez obzira na to je li se povratna informacija njima bavila, a to je način neuspjeha zbog kojeg nedjelotvoran tutor izgleda djelotvorno.
+**„Simulirani studenti jeftiniji su, pa validacija može čekati.“** U studiji [[ai-sycophancy|ulizivanja]] simulirani studenti napuštali su zablude bez obzira na to je li se povratna informacija njima bavila, a to je način neuspjeha zbog kojeg nedjelotvoran tutor izgleda djelotvorno.
 
 ## Što učiniti ovaj tjedan
 

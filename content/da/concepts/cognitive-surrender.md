@@ -12,8 +12,8 @@ level: [higher ed, adult learning]
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
-updated: "2026-10-27T16:30:15-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*"
 contributors: [editor]
 ai_assist:
@@ -69,18 +69,22 @@ Tre præregistrerede eksperimenter tilpassede Cognitive Reflection Test og rando
 
 Den praktiske læsning er, at overgivelse er en **diskriminationsfejl** snarere end en motivationsfejl. De deltagere, der overgav sig, forsøgte ikke at undgå arbejde; de kunne ikke skelne gode råd fra dårlige, og grænsefladen gav dem ingen grund til at forsøge.
 
+Et præregistreret eksperiment af [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] leverer en kontrasterende konfiguration. Med assistenten indhegnet af [[rag|retrieval-augmentation]] til det tildelte arbejdsark sænkede AI-betingelsen den kognitive udlicitering (median -0,27) i stedet for at hæve den, og ingen udliciteringsvej bar stigningen i desorganisering (0,84). Overgivelse kræver en assistent, hvis råd kan tilegnes i sin helhed; et system, der kun svarer ud fra det nærværende materiale, giver eleven mindre at tilegne sig og mere at forene.
+
 ## Overgivelse uden for laboratoriet
 
 Laboratoriefundene stemmer overens med felt- og observationsarbejde, der uafhængigt nåede frem til det samme ord.
 
 - **Forskydning på befolkningsniveau.** [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] analyserer 3,2 millioner læringsinteraktioner i ALEKS og 12,2 millioner responstider fra [[assessment|placeringsvurdering]] over et tiårigt panel, med grafbaserede opgaver som kontrol for tekstbaserede. Eleverne gennemførte AI-modtageligt arbejde hurtigere og scorede højere på det, mens overvågede tilbageholdelsesopgaver viste et kumulativt fald på 25 % i oddsene for et korrekt svar; forfatterne kalder mønstret kognitiv overgivelse i befolkningsskala.
 - **Verifikation som den diskriminerende variabel.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] finder, at *hvordan* elever bruger generativ AI, forudsiger [[learning-gains|præstation]], mens *hvor meget* de bruger den, ikke forudsiger noget: ibrugtagning med lav verifikation (ukritisk accept af output) var forbundet med dårligere udfald, og evaluerende integration med bedre.
-- **Tankeløs brug eroderer de ressourcer, selvstyring kræver.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao og Gu (2026)]] modellerer tilegnelse-uden-evaluering direkte: blandt 487 bachelorstuderende var tankeløs brug af generativ AI forbundet med lavere [[self-regulated-learning|selvstyret læring]] (β = -0,42), delvist gennem reduceret [[motivation]] og [[self-efficacy]].
+- **Tankeløs brug eroderer de ressourcer, selvstyring kræver.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao og Gu (2026)]] modellerer tilegnelse-uden-evaluering direkte: blandt 487 bachelorstuderende var tankeløs brug af generativ AI forbundet med lavere [[self-directed-learning|selvstyret læring]] (β = -0,42), delvist gennem reduceret [[motivation]] og [[self-efficacy]].
 - **Det neurale og forfatterskabsmæssige spor.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|EEG-studiet om kognitiv gæld]] målte [[writing-education|essayskrivning]] med en [[llm]], en søgemaskine og uden værktøj: LLM-gruppen viste den svageste neurale konnektivitet, rapporterede det laveste forfatterskab over eget arbejde og havde svært ved at citere, hvad de havde skrevet.
 - **Overgivelse kan ankomme uopfordret.** [[ai-advice-suppresses-ikt-suspension-2026|Arbejde om suspension af dømmekraft]] fandt, at blot tilgængeligheden af AI-råd fik folks vilje til at sige "det ved jeg ikke" til at kollapse (0,06 mod 0,36 og 0,03 mod 0,44 i to studier), mens korrektheden faldt og selvtilliden steg fra cirka 30 til 76. Indsatsen gendannede ikke suspensionen, selv om incitamenter forbedrede nøjagtigheden ved at tilskynde til tilsidesættelser. Et fjerde studie viste effekten helt uden konsultation, mønstret fra en autocomplete eller et søgeresumé snarere end fra en chatprompt.
 - **Afhængige og autonome tilstande kan kun skelnes i konsekvens.** [[family-school-autonomy-support-genai-2026|Fan, Li og Zhang (2026)]] følger 589 elever og tidligt karriereaktive over tre bølger: afhængig udlicitering uddelegerede kernetænkning og fulgtes med lavere indre motivation, mens autonom udlicitering ikke gjorde, og den umiddelbare præstation så identisk ud i begge.
 - **Modellens eget bidrag.** [[sycophantic-ai-social-interaction-2026|Smiger]] er komplementet til overgivelse: en assistent, der giver efter, hælder mod brugerens indramning eller fremsætter en påstand flydende, giver eleven intet at skubbe imod.
 - **Tilbagetrækning er den uafklarede halvdel.** [[cognitive-washout-ai-skill-decay-2026|Arbejde om kognitiv udvaskning]] påpeger, at næsten al denne forskning måler kognition *under* AI-brug, og næsten ingen måler, hvad der sker, når assistenten fjernes, hvilket netop er det spørgsmål, en eksamen, et nedbrud eller en licensgennemgang stiller.
+
+- **"Uddelegering af hele essayet forbliver hypotetisk uden for laboratoriet."** Det skete i et enkelt-sessions onlinestudie uden politik og uden opfordring. Af **77** collegestuderende afleverede **15 (19,5 %)** essays, der var **100 %** skrevet af modellen, uden at skrive et ord i editoren, og **20** deltagere bad direkte om et helt essay, den mest brugte kode i skemaet. Den tungeste bruger indsendte **27** forespørgsler. [[jelson-students-chatgpt-essay-writing-2026|Overgivelse viste sig som et anmodningsmønster]], ikke som en enkelt detekterbar handling.
 
 ## At designe og undervise mod overgivelse
 
@@ -140,3 +144,6 @@ Evidensen for overgivelse som et navngivet konstrukt hviler tungt på ét progra
 - [[brcic-effortless-trap-productive-struggle-2026]] — at placere AI, så opgaven forbliver krævende
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibreringstræning
 - [[family-school-autonomy-support-genai-2026]] — afhængig versus autonom udlicitering
+
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — En assistent forankret i arbejdsarket sænkede udliciteringen i stedet for at hæve den, en grænsebetingelse for overgivelsessignaturen (Braun 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Naturalistisk uddelegering af hele essayet: 15 af 77 essays helt modelskrevet, 20 anmodninger om et komplet essay (Jelson et al. 2026)

@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-08T05:10:57-05:00"
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
@@ -67,7 +67,7 @@ Det resterende hul handler om kapabilitetsbaner, og en ekstra eftertest lukker d
 
 »AI-understøttet læring« samler som regel flere ændringer: ny feedback, tilføjet refleksion, peer-diskussion, andre opgavesekvenser, ændrede bedømmelsesincitamenter. En pakke, der lykkes, fortæller dig ikke, hvilke komponenter der var nødvendige.
 
-[[genai-feedback-design-multisite-experiment|Menneskecentreret GenAI-feedbackdesign]] er et reelt fremskridt på det spørgsmål. Blandt 1.176 førsteårsstuderende på bacheloruddannelser klarede reflekterende og hybride design sig bedre end direkte [[ai-feedback-quality|AI-feedback]] på forsinket AI-fri transfer. Den hybride betingelse kombinerede selvevaluering, [[peer-assessment|peer-feedback]] og AI-kritik. Det adskiller, hvordan feedback organiseres og bruges, fra om de studerende overhovedet har adgang til feedback.
+[[genai-feedback-design-multisite-experiment|Menneskecentreret GenAI-feedbackdesign]] er et reelt fremskridt på det spørgsmål. Blandt 1.176 førsteårsstuderende på bacheloruddannelser klarede reflekterende og hybride design sig bedre end direkte [[ai-feedback-quality|AI-feedback]] på forsinket AI-fri transfer. Den hybride betingelse kombinerede [[self-assessment|selvevaluering]], [[peer-assessment|peer-feedback]] og AI-kritik. Det adskiller, hvordan feedback organiseres og bruges, fra om de studerende overhovedet har adgang til feedback.
 
 Stadig åbent: bidraget fra og tidspunktet for indledende uafhængige forsøg, selvforklaring, peer-input, korrigerende feedback, hints og gradvis fjernet støtte, og hvordan hver af dem samspiller med [[prior-knowledge|forudgående viden]] og opgavens sværhedsgrad.
 
@@ -87,7 +87,7 @@ AI skaber to forbundne bedømmelsesproblemer: det hjælper med at producere det 
 
 Vidensbasens [[ai-agents-complete-lms-assessment-validity-2026|undersøgelse af AI-agenter, der løser bedømte LMS-opgaver]] dokumenterer agenter, der navigerer i et kørende bachelorfag og gennemfører bedømte aktiviteter. Det demonstrerer en kapabilitet, som udfordrer antagelser om studerendes egenproducerede evidens. Det fastslår ikke, hvor udbredt en sådan brug er, og det ugyldiggør ikke asynkron bedømmelse som kategori.
 
-Forskningsspørgsmålet er, hvilke designs der stadig understøtter forsvarlige konklusioner om den lærende. [[eportfolio|Portfolioer]], refleksioner, trinvise afleveringer og aktivitetslogge skal valideres som evidens i stedet for at blive antaget at fastslå forfatterskab eller forståelse. Undersøgelser bør teste kombinationer af evidens mod uafhængigt observeret kompetence og samtidig tage højde for tilgængelighed, arbejdsbyrde, privatliv og studerendes ængstelse. [[assessment-validity|Bedømmelsesvaliditet]] har detaljerne.
+Forskningsspørgsmålet er, hvilke designs der stadig understøtter forsvarlige konklusioner om den lærende. [[eportfolio|Portfolioer]], refleksioner, trinvise afleveringer og aktivitetslogge skal valideres som evidens i stedet for at blive antaget at fastslå forfatterskab eller forståelse. Undersøgelser bør teste kombinationer af evidens mod uafhængigt observeret kompetence og samtidig tage højde for tilgængelighed, arbejdsbyrde, privatliv og [[anxiety-and-stress|studerendes ængstelse]]. [[assessment-validity|Bedømmelsesvaliditet]] har detaljerne.
 
 For [[automated-assessment|automatisk scoring]] rapporterer [[llms-do-not-grade-essays-like-humans-2026|LLMs Do Not Grade Essays Like Humans]] systematisk uenighed mellem standardmodeller og menneskelige bedømmere. Funnene er konfigurationsspecifikke, og de viser, hvorfor intern konsistens ikke kan bære en gyldighedspåstand.
 
@@ -105,11 +105,11 @@ At afgøre det kræver præstationsbaseret bedømmelse kombineret med observatio
 
 ## Rapportér, hvem resultatet udelader
 
-Resultater fra et fag, en institution, et sprog eller en bestemt lærendepopulation giver sjældent tilladelse til beslutninger andre steder, et problem som syntesen [[limitations-in-aied-research|Begrænsninger i AIEd-forskning]] behandler som tilbagevendende. Hvordan effekter varierer med udviklingstrin, fag, forudgående viden, handicap, sprog og ressourcetilstande, er fortsat stort set umålt.
+Resultater fra et fag, en institution, et sprog eller en bestemt [[learners|lærendepopulation]] giver sjældent tilladelse til beslutninger andre steder, et problem som syntesen [[limitations-in-aied-research|Begrænsninger i AIEd-forskning]] behandler som tilbagevendende. Hvordan effekter varierer med udviklingstrin, fag, forudgående viden, handicap, sprog og ressourcetilstande, er fortsat stort set umålt.
 
 Lighedsforskning skal også adskille adgang, færdigheder og udfald. Syntesen om det [[digital-divide|digitale skel]] er klar over, at enheder og værktøjsadgang ikke fastslår lige kapacitet til at få gavn af dem. [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] fulgte 752 elever i det lavere gymnasium i Hongkong: huller i psykologisk parathed indsnævredes, mens forskelle i en objektiv AI-kompetencetest bestod. Alle grupper forbedredes, og uligheden blev ikke lukket. Profiler for forudgående læringsniveau var ikke tilfældigt tildelt, så deres kausale rolle er fortsat ukendt.
 
-Dækningen er tynd på bestemte steder. [[differential-effects-across-learner-groups|Differentielle effekter på tværs af lærendegrupper]] tæller litteraturen efter population: andetsprogs- og flersprogede lærende samt studerende med handicap er de dybeste strømme, køn og neurodiversitet kommer derefter, første-generationsstuderende og internationale studerende har hver én undersøgelse i dette korpus, begavede og højtpræsterende studerende er reelt ustuderede, og flygtninge, indvandrere og fordrevne lærende optræder i ingen. En evidensbase med den form kan ikke besvare et lighedsspørgsmål ved aggregering.
+Dækningen er tynd på bestemte steder. [[differential-effects-across-learner-groups|Differentielle effekter på tværs af lærendegrupper]] tæller litteraturen efter population: andetsprogs- og [[multilingual-learning|flersprogede lærende]] samt [[inclusive-learning|studerende med handicap]] er de dybeste strømme, køn og [[neurodiversity|neurodiversitet]] kommer derefter, første-generationsstuderende har to undersøgelser (én forskel i brug og ét effektestimat) og internationale studerende én, begavede og højtpræsterende studerende er reelt ustuderede, og flygtninge, indvandrere og fordrevne lærende optræder i ingen. En evidensbase med den form kan ikke besvare et lighedsspørgsmål ved aggregering.
 
 Kapaciteten varierer også inden for et enkelt nationalt system. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] scorede AI-integration på 45 nigerianske universiteter og fandt moderat samlet adoption (M = 4,79, interval 1,83-7,83 på en 10-punkts skala), hvor institutionstype ikke kunne forudsige integration, når alder og geografi var kontrolleret (alder β = 0,43; placering i sydvest β = 0,31). Interne kapabiliteter korrelerede indbyrdes med r = 0,79-0,80 og internationale samarbejder med industripartnerskaber med r = 0,74, så forbundne institutioner akkumulerer forstærkende fordele. Hvilke kapacitetsopbyggende design der ændrer udfald på nyere, mindre forbundne institutioner, er utestet.
 
@@ -183,7 +183,7 @@ Undervisere, der vil have klasseværelsesversionen, kan følge [[evaluating-ai-i
 
 **»Den samlede effektstørrelse fortæller mig allerede, hvad der virker.«** De 14 granskede metaanalyser definerede behandlingen som et værktøj, slog uforenelige udfald sammen og rapporterede I² over 80 % i 12 af 13 analyser, der oplyste den. Det samlede tal beskriver en række undersøgelser med et konstruktproblem.
 
-**»Simulerede studerende er billigere, så validering kan vente.«** I sykofanti-undersøgelsen droppede simulerede studerende misforståelser, uanset om feedbacken adresserede dem, og det er netop den fejltilstand, der får en ineffektiv vejleder til at se effektiv ud.
+**»Simulerede studerende er billigere, så validering kan vente.«** I [[ai-sycophancy|sykofanti]]-undersøgelsen droppede simulerede studerende misforståelser, uanset om feedbacken adresserede dem, og det er netop den fejltilstand, der får en ineffektiv vejleder til at se effektiv ud.
 
 ## Hvad du kan gøre i denne uge
 

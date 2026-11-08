@@ -10,8 +10,8 @@ level: [higher ed, k 12]
 institutions: [educational-policy-ai, governance]
 confidence: high
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
-updated: "2026-10-27T17:07:46-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Vragen om over na te denken
 
 - AI simpelweg beschikbaar stellen aan studenten hing samen met ineffectief of zelfs onethisch gebruik, terwijl expliciet kaderen en inbedden van passend gebruik de uitkomsten verbeterde. Als de aanwezigheid van de tool minder uitmaakt dan hoe ze wordt gekaderd, wat zegt dat dan over de nadruk op simpelweg 'studenten AI geven'?
-- De meeste studenten gebruiken generatieve AI, velen weten niet zeker of hun gebruik is toegestaan, en ze leunen op privé toegankelijke tools in plaats van op door de instelling aangeboden tools. Als het kennen van de regels nauwelijks verandert wat studenten doen, wat zou dan kunnen overtuigen in plaats van alleen informeren?
+- De meeste studenten gebruiken [[generative-ai|generatieve AI]], velen weten niet zeker of hun gebruik is toegestaan, en ze leunen op privé toegankelijke tools in plaats van op door de instelling aangeboden tools. Als het kennen van de regels nauwelijks verandert wat studenten doen, wat zou dan kunnen overtuigen in plaats van alleen informeren?
 - Wanneer instellingen op AI reageren met angst en veroordeling, verbergen of rationaliseren studenten hun gebruik mogelijk in plaats van te leren het goed te gebruiken. Heeft u een 'morele paniek'-reactie studenten in geheimhouding zien drijven? Hoe zou een herkaderde, op kansen gerichte aanpak eruitzien?
 - Angst over AI is niet louter een belemmering: studenten die zich zorgen maakten over nauwkeurigheid en plagiaat waren *meer* geneigd AI-output te verifiëren en te herzien in plaats van die kritiekloos te accepteren. Hoe kan productieve angst worden gekanaliseerd naar evaluatieve competentie in plaats van te worden onderdrukt?
 - Studenten construeren hun eigen beeld van wat aanvaardbaar is via 'sites' (intenties van docenten, cursusdocumenten, peernormen en institutionele boodschappen) die vaak uiteenlopen. Als die boodschappen met elkaar in conflict komen, welke wint er dan volgens u werkelijk, en hoe dicht kaderen die kloof?
@@ -41,7 +41,7 @@ Het concept ligt tussen twee bekendere concepten in. Waar het [[technology-accep
 
 Kaderen doet ertoe omdat **beleid en regels het gedrag niet betrouwbaar op zichzelf veranderen**. Survey[[research-methods-aied|onderzoek]] naar [[regulation|regelgevende]] bekendheid vindt dat de kennis van studenten over institutionele GenAI-regels slechts zwakke tot matige verbanden vertoont met wat ze feitelijk doen ([[student-regulatory-awareness-genai]]). De regels kennen is noodzakelijk maar niet voldoende; de boodschap moet *overtuigen*, niet alleen informeren.
 
-Gedifferentieerd kaderen kan binnen één beleidsdocument ontstaan in plaats van alleen tussen sites: een sentimentanalyse van 36 universiteitsbeleidsstukken vond dat uitspraken over lesgeven positief waren gekaderd terwijl uitspraken over GenAI en ethiek negatief waren gekaderd, zodat studenten in één document zowel aanmoediging als beteugeling tegenkwamen ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
+Gedifferentieerd kaderen kan binnen één beleidsdocument ontstaan in plaats van alleen tussen sites: een [[affective-computing|sentimentanalyse]] van 36 universiteitsbeleidsstukken vond dat uitspraken over lesgeven positief waren gekaderd terwijl uitspraken over GenAI en ethiek negatief waren gekaderd, zodat studenten in één document zowel aanmoediging als beteugeling tegenkwamen ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 Het kader bepaalt ook of studenten AI ervaren als een **bedreiging die moet worden vermeden of omzeild** dan wel als een **hulpbron die bewust moet worden gebruikt**. Wanneer instellingen op AI reageren met angst en veroordeling (wat één onderzoekslijn een terugkerende 'morele paniek' noemt), drijven ze studenten tot verbergen of rationaliseren in plaats van goed leren gebruiken.([[moral-panic-genai-classroom]]) Angst en veroordeling herkaderen tot gestructureerde gelegenheid verandert de hele dynamiek van [[student-engagement|betrokkenheid van studenten]] bij AI.
 
@@ -61,7 +61,7 @@ De meest directe kaderhefboom in de kennisbank is het leveren van de *reden* voo
 
 ### Herkader angst en onzekerheid tot evaluatieve competentie
 
-Een [[mixed-methods-research|mixed-methods]]-studie naar academisch [[writing-education|schrijven]] vond dat AI-angst niet louter een belemmering is: studenten die zich zorgen maakten over nauwkeurigheid en plagiaat waren *meer* geneigd AI-output te verifiëren, kruiseling te controleren en te herzien in plaats van die kritiekloos te accepteren. De studie kadert [[ai-literacy|AI-geletterdheid]] minder als acceptatie en meer als **regulatieve competentie**: het vermogen om output in twijfel te trekken, selectief te herzien en verantwoordelijkheid voor auteurschap te behouden.([[ai-anxiety-strategic-regulation-writing-2026]]) AI-gebruik voor leerlingen kaderen betekent productieve angst naar evaluatie kanaliseren, niet onderdrukken.
+Een [[mixed-methods-research|mixed-methods]]-studie naar academisch [[writing-education|schrijven]] vond dat [[anxiety-and-stress|AI-angst]] niet louter een belemmering is: studenten die zich zorgen maakten over nauwkeurigheid en plagiaat waren *meer* geneigd AI-output te verifiëren, kruiseling te controleren en te herzien in plaats van die kritiekloos te accepteren. De studie kadert [[ai-literacy|AI-geletterdheid]] minder als acceptatie en meer als **regulatieve competentie**: het vermogen om output in twijfel te trekken, selectief te herzien en verantwoordelijkheid voor auteurschap te behouden.([[ai-anxiety-strategic-regulation-writing-2026]]) AI-gebruik voor leerlingen kaderen betekent productieve angst naar evaluatie kanaliseren, niet onderdrukken.
 
 ### Gebruik gerichte boodschappen om specifiek gedrag te vormen
 

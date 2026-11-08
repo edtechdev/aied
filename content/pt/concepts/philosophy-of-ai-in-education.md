@@ -1,14 +1,14 @@
 ---
 title: Filosofia da IA na educação
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T06:32:22-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-10-25T19:20:00-04:00"
+source_updated: "2026-11-05T15:16:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,8 +44,10 @@ Esta é uma página de conceito para os fundamentos filosóficos e teóricos da 
 - **A natureza da mente e da cognição.** Pensar exige consciência e um corpo? A IA pode participar de processos genuinamente cognitivos? Frameworks como a **cognição de conjunto** argumentam que a IA exerce *agência funcional* — eficácia causal genuína em processos cognitivos — sem consciência, e que o pensamento emerge da interação dinâmica entre humanos e [[student-ai-interaction|IA]].([[ensemble-cognition-philosophy-ai-education]]) A [[distributed-cognition|cognição distribuída]] e a tese da mente estendida fazem afirmações relacionadas sobre a cognição estar espalhada por sistemas.
 - **O que é quem aprende?** A filosofia pós-humanista reconceitua quem aprende como uma entidade \"pós-humana\", cujos processos cognitivos são genuinamente híbridos e distribuídos por sistemas [[biology-education|biológicos]] e artificiais.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Isso desafia a suposição de que quem aprende é uma mente individual, delimitada e autônoma.
 - **A corporificação e os limites da IA descorporificada.** A filosofia [[embodied-learning|corporificada]] e pós-cognitivista critica o domínio dos modelos simbólicos e descorporificados de IA, argumentando que a cognição está ancorada na situacionalidade, na emergência e no acoplamento sensório-motor que a atual [[generative-ai|IA generativa]] não tem.([[videla-embodied-ai-education-choreography]])
+
+- **O trabalho emocional como caso de teste para mentes maquínicas.** Os argumentos do campo sobre se a IA pode ensinar frequentemente giram em torno de se ela pode *se importar*, uma questão debatida muito antes de a [[affective-computing|computação afetiva]] existir. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] reconstrói o debate de 1950–1996, no qual a afirmação de Ziff de que apenas criaturas vivas podem literalmente ter sentimentos foi respondida pela teoria da identidade de Smart e pelo critério comportamental de Putnam, deixando três ontologias rivais sem resolução. Sua conclusão é um ônus da justificação, e não uma afirmação de impossibilidade — representação, simulação e mímica subdeterminam o trabalho emocional — o que põe o ônus sobre quem quer que delegue trabalho pastoral a um sistema.
 - **Agência, autoria e sentido.** Quando a IA medeia a interpretação e a construção de sentido, a filosofia pergunta como autoria, [[agency|agência]] epistêmica e autonomia interpretativa são reconfiguradas.([[voicu-ai-interpretive-cognition-ssh-2026]])
-- **A ontologia dos objetos científicos gerados por IA.** Em química, compostos e curvas de titulação previstos por IA ocupam um \"espaço ontológico liminar\" — nem integralmente hipotéticos nem plenamente reais até que sejam empiricamente provados — o que desloca a disciplina do realismo rumo a uma visão construtivista em que a realidade é uma colaboração entre humanos e máquinas ([[philosophy-experimentation-ai-chemistry-2026|Reyes e Regala (2026)]]).
+- **A ontologia dos objetos científicos gerados por IA.** Em [[chemistry-education|química]], compostos e curvas de titulação previstos por IA ocupam um \"espaço ontológico liminar\" — nem integralmente hipotéticos nem plenamente reais até que sejam empiricamente provados — o que desloca a disciplina do realismo rumo a uma visão construtivista em que a realidade é uma colaboração entre humanos e máquinas ([[philosophy-experimentation-ai-chemistry-2026|Reyes e Regala (2026)]]).
 - **A passividade cognitiva como dano epistêmico.** Bai e Costa (2026) recorrem à explicação de Arendt do pensamento como uma atividade voltada para dentro e intransferível para argumentar que a GenAI que fornece o trabalho não apenas desloca o pensamento, mas o impede, com o campo e o habitus de Bourdieu localizando o risco nas estruturas institucionais ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
 - **Valores, justiça e o propósito da educação.** A análise filosófica examina se a educação movida pela IA serve ao florescimento humano e à justiça educacional, ou se ela instrumentaliza a aprendizagem a serviço da produtividade.([[avraamidou-ai-colonization-science-education]]) Isso se conecta à [[critical-pedagogy|pedagogia crítica]] e à [[ethics|ética]].
 - **'Centrado no humano' como discurso antropocêntrico, e não como ética neutra.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang e Jin (2026)]] leem documentos da UNESCO, da OCDE e da Declaração de Montréal para argumentar que a IAED centrada no humano herda as exclusões do humanismo iluminista, que o transumanismo as preserva, e que o rótulo pode legitimar infraestrutura comercial.
@@ -123,3 +125,5 @@ A filosofia da IA na educação e o [[theory-development-aied|desenvolvimento de
 - [[daoism-ai-education-philosophy-2026]] — Filosofia Alternativa da IA: O Daoísmo como Método para a IA na Educação
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Quem Age, Quem Sabe, Quem Responde? Uma Análise de Discurso Assistida por Corpus de Agência, Responsabilidade Epistêmica e Accountability na Pesquisa sobre GenAI no Ensino Superior
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — A IAED 'centrada no humano' lida como discurso antropocêntrico com usos comerciais (Wang e Jin 2026)
+
+- [[khan-machines-emotional-labor-education-2026]] — Máquinas podem realizar trabalho emocional? O debate de 1950–1996, e por que a mímica subdetermina o cuidado

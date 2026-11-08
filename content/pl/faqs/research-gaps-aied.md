@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-08T05:10:57-05:00"
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
@@ -67,7 +67,7 @@ Pozostała luka dotyczy trajektorii zdolności i jeden dodany test końcowy jej 
 
 „Uczenie się wspierane przez SI” zwykle łączy kilka zmian: nową informację zwrotną, dodaną refleksję, dyskusję rówieśniczą, inne sekwencje zadań, zmienione zachęty w ocenianiu. Pakiet, który się udaje, nie mówi, które komponenty były konieczne.
 
-[[genai-feedback-design-multisite-experiment|Projekt informacji zwrotnej GenAI zorientowany na człowieka]] to realny postęp w tej kwestii. Wśród 1 176 studentów pierwszego roku studiów licencjackich projekty refleksyjne i hybrydowe przewyższyły bezpośrednią [[ai-feedback-quality|informację zwrotną od SI]] pod względem odroczonego transferu bez SI. Warunek hybrydowy łączył samoocenę, [[peer-assessment|informację zwrotną rówieśniczą]] i krytykę SI. To oddziela sposób organizowania i wykorzystania informacji zwrotnej od tego, czy studenci mają do niej dostęp w ogóle.
+[[genai-feedback-design-multisite-experiment|Projekt informacji zwrotnej GenAI zorientowany na człowieka]] to realny postęp w tej kwestii. Wśród 1 176 studentów pierwszego roku studiów licencjackich projekty refleksyjne i hybrydowe przewyższyły bezpośrednią [[ai-feedback-quality|informację zwrotną od SI]] pod względem odroczonego transferu bez SI. Warunek hybrydowy łączył [[self-assessment|samoocenę]], [[peer-assessment|informację zwrotną rówieśniczą]] i krytykę SI. To oddziela sposób organizowania i wykorzystania informacji zwrotnej od tego, czy studenci mają do niej dostęp w ogóle.
 
 Wciąż otwarte pozostaje, jaki jest wkład i moment pierwszych samodzielnych prób, samoobjaśniania, wkładu rówieśników, informacji zwrotnej korygującej, podpowiedzi i wycofywania pomocy oraz jak każdy z tych elementów współdziała z [[prior-knowledge|wcześniejszą wiedzą]] i trudnością zadania.
 
@@ -87,7 +87,7 @@ SI tworzy dwa powiązane problemy oceniania: pomaga wytworzyć ocenianą pracę 
 
 [[ai-agents-complete-lms-assessment-validity-2026|Badanie agentów SI wykonujących oceniane zadania na platformie LMS]] z tej bazy wiedzy dokumentuje, jak agenci poruszali się po działającym kursie licencjackim i kończyli oceniane aktywności. Pokazuje to zdolność, która podważa założenia o dowodach wytwarzanych przez studentów. Nie przesądza jednak, jak powszechne jest takie użycie, i nie unieważnia oceniania asynchronicznego jako kategorii.
 
-Pytanie badawcze brzmi, które projekty wciąż pozwalają na obronne wnioski o uczącym się. [[eportfolio|Portfolio]], refleksje, etapowe oddawanie prac i dzienniki aktywności wymagają walidacji jako dowody, a nie założenia, że ustalają autorstwo lub zrozumienie. Badania powinny testować kombinacje dowodów wobec niezależnie zaobserwowanej kompetencji, uwzględniając dostępność, obciążenie pracą, prywatność i niepokój studentów. Szczegóły zawiera strona [[assessment-validity|Trafność oceniania]].
+Pytanie badawcze brzmi, które projekty wciąż pozwalają na obronne wnioski o uczącym się. [[eportfolio|Portfolio]], refleksje, etapowe oddawanie prac i dzienniki aktywności wymagają walidacji jako dowody, a nie założenia, że ustalają autorstwo lub zrozumienie. Badania powinny testować kombinacje dowodów wobec niezależnie zaobserwowanej kompetencji, uwzględniając dostępność, obciążenie pracą, prywatność i [[anxiety-and-stress|niepokój studentów]]. Szczegóły zawiera strona [[assessment-validity|Trafność oceniania]].
 
 W przypadku [[automated-assessment|oceniania automatycznego]] tekst [[llms-do-not-grade-essays-like-humans-2026|LLMs Do Not Grade Essays Like Humans]] opisuje systematyczną niezgodność między modelami w konfiguracji domyślnej a ludzkimi oceniającymi. Wyniki dotyczą konkretnych konfiguracji i pokazują, dlaczego spójność wewnętrzna nie może dźwigać twierdzenia o trafności.
 
@@ -105,11 +105,11 @@ Rozstrzygnięcie tego wymaga oceniania opartego na wykonaniu, połączonego z ob
 
 ## Raportowanie, kogo wynik pomija
 
-Wyniki z jednego kursu, instytucji, języka lub populacji uczących się rzadko uprawniają decyzje gdzie indziej, a synteza [[limitations-in-aied-research|Ograniczenia w badaniach nad SI w edukacji]] traktuje ten problem jako powracający. To, jak efekty różnią się w zależności od etapu rozwoju, dziedziny, wcześniejszej wiedzy, niepełnosprawności, języka i warunków zasobowych, pozostaje w dużej mierze niezmierzone.
+Wyniki z jednego kursu, instytucji, języka lub [[learners|populacji uczących się]] rzadko uprawniają decyzje gdzie indziej, a synteza [[limitations-in-aied-research|Ograniczenia w badaniach nad SI w edukacji]] traktuje ten problem jako powracający. To, jak efekty różnią się w zależności od etapu rozwoju, dziedziny, wcześniejszej wiedzy, niepełnosprawności, języka i warunków zasobowych, pozostaje w dużej mierze niezmierzone.
 
 Badania nad równością muszą też oddzielić dostęp, umiejętności i wyniki. Synteza [[digital-divide|Przepaść cyfrowa]] jasno mówi, że urządzenia i dostęp do narzędzi nie dają równej zdolności czerpania korzyści. [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] objęło 752 uczniów szkół średnich I stopnia w Hongkongu: luki w gotowości psychologicznej zmniejszyły się, a różnice w obiektywnym teście kompetencji w SI utrzymały się. Każda grupa się poprawiła, a nierówność nie zniknęła. Profile wcześniejszego uczenia się nie były przydzielane losowo, więc ich rola przyczynowa pozostaje nieznana.
 
-Pokrycie jest cienkie w konkretnych miejscach. [[differential-effects-across-learner-groups|Zróżnicowane efekty między grupami uczących się]] liczy literaturę według populacji: najgłębsze wątki dotyczą uczących się drugiego języka i uczących się wielojęzycznych oraz studentów z niepełnosprawnościami, następnie płci i neuroróżnorodności, studenci pierwszego pokolenia i studenci zagraniczni mają w tej bazie po jednym badaniu, uczniowie zdolni i osiągający wysokie wyniki są praktycznie niezbadani, a uczący się będący uchodźcami, imigrantami i osobami wysiedlonymi nie pojawiają się w żadnym badaniu. Baza dowodów o takim kształcie nie może odpowiedzieć na pytanie o równość przez agregację.
+Pokrycie jest cienkie w konkretnych miejscach. [[differential-effects-across-learner-groups|Zróżnicowane efekty między grupami uczących się]] liczy literaturę według populacji: najgłębsze wątki dotyczą uczących się drugiego języka i [[multilingual-learning|uczących się wielojęzycznych]] oraz [[inclusive-learning|studentów z niepełnosprawnościami]], następnie płci i [[neurodiversity|neuroróżnorodności]], studenci pierwszego pokolenia mają dwa badania (jedną różnicę w korzystaniu i jedno oszacowanie efektu), a studenci zagraniczni jedno, uczniowie zdolni i osiągający wysokie wyniki są praktycznie niezbadani, a uczący się będący uchodźcami, imigrantami i osobami wysiedlonymi nie pojawiają się w żadnym badaniu. Baza dowodów o takim kształcie nie może odpowiedzieć na pytanie o równość przez agregację.
 
 Zdolności różnią się także wewnątrz jednego systemu krajowego. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye i wsp. (2026)]] ocenili integrację SI na 45 uniwersytetach nigeryjskich i stwierdzili umiarkowane ogólne przyjęcie (M = 4,79, zakres od 1,83 do 7,83 w skali 10-punktowej), przy czym typ instytucji nie przewidywał integracji po kontroli wieku i położenia geograficznego (wiek β = 0,43; położenie na południowym zachodzie β = 0,31). Zdolności wewnętrzne korelowały ze sobą na poziomie r = 0,79-0,80, a współprace międzynarodowe z partnerstwami z przemysłem na poziomie r = 0,74, więc instytucje dobrze skomunikowane kumulują narastające przewagi. To, jakie projekty budowania zdolności zmieniają wyniki w instytucjach nowszych i słabiej skomunikowanych, pozostaje nieprzetestowane.
 
@@ -183,7 +183,7 @@ Osoby uczące, które chcą wersji na poziomie klasy, mogą przejść do [[evalu
 
 **„Zbiorczy rozmiar efektu już mówi mi, co działa.”** 14 audytowanych metaanaliz definiowało oddziaływanie jako narzędzie, łączyło nieporównywalne wyniki i podawało I² powyżej 80% w 12 z 13 analiz, które je podawały. Liczba zbiorcza opisuje zbiór badań z problemem konstruktu.
 
-**„Symulowani studenci są tańsi, więc ich walidacja może poczekać.”** W badaniu nad schlebianiem symulowani studenci porzucali błędne przekonania niezależnie od tego, czy informacja zwrotna się do nich odnosiła, co jest właśnie trybem awarii, który sprawia, że nieskuteczny tutor wygląda na skutecznego.
+**„Symulowani studenci są tańsi, więc ich walidacja może poczekać.”** W badaniu nad [[ai-sycophancy|schlebianiem]] symulowani studenci porzucali błędne przekonania niezależnie od tego, czy informacja zwrotna się do nich odnosiła, co jest właśnie trybem awarii, który sprawia, że nieskuteczny tutor wygląda na skutecznego.
 
 ## Co zrobić w tym tygodniu
 

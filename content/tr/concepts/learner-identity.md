@@ -9,7 +9,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,8 @@ Kolaylık anlamına gelen ayrı bir yazarlık koşulu, yalnızca yazarlığa bir
 
 - **Korumalı benimseme: kimlik koruması olarak seçici YZ kullanımı.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]], bir Avustralya üniversitesindeki 484 öğrenciyi anketledi ve daha yüksek başarı gösteren öğrencilerin *daha düşük* etkin [[generative-ai|üretken yapay zeka]] etkileşimi, daha düşük olumlu YZ duygusu, daha düşük [[self-report-measures|algılanan öğrenme]] etkisi ve daha düşük YZ kaynaklı kopuş bildirdiğini buldu; en güçlü ilişkiler algılanan öğrenme etkisi için rho = -0,395 ve olumlu duygu için rho = -0,359 oldu. Açık uçlu yanıtları seçici (aydınlatma, özetleme, iş akışı desteği), doğrulanmış ve kendi yargılarına tabi olan bir kullanım tanımladı ve madde düzeyi sonuçlar YZ’ye güvenmenin [[critical-thinking]] ve bağımsız [[problem-solving|sorun çözmeyi]] engellediğine ilişkin daha yüksek uzlaşma gösterdi. Yazarlar bunu kimlik işi olarak okur: kendilerini başarılı öğrenenler olarak görme duygusu kendi çabasına ve yargısına dayanan öğrenciler için YZ kullanımını sınırlamak, kimliğin bağlı olduğu [[agency|epistemik özerkliği]] savunur — bu aynı zamanda örüntünün ne teknofobi ne de düşük katılım olduğu anlamına gelir.
 
+- **Belirtilen bir amaç, bir YZ kararını zorunlu olarak yönetmez.** [[ting-ai-learning-ownership-purpose-2026|Ting ve ark. (2026)]], 14 lisans öğrencisiyle görüşme yapmış ve her görüşmeyi öğrencinin [[self-determination-theory|amacı]] — benliğin ötesine katkıda bulunmaya yönelik kişisel olarak anlamlı bir niyet — ile YZ tercihleri arasındaki ilişki açısından kodlamıştır. Yalnızca bir kısmı bu bağlantıyı kurmuştur: biri, çevresel ve insani maliyetleri amacıyla çeliştiği için YZ'yi reddetmiş, üçü ise gelecekteki mesleki kimliğinin tercihlerini şekillendirmesine izin vermiştir ("bir gün dünyada olacağım psikolog olmaya katkı sağlıyor"). Amacı eşit ölçüde net olan diğerleri böyle bir bağ kurmamış ve amaç ile YZ'yi "neredeyse ayrı" olarak betimlemiştir; yani korunacak bir kimliğe sahip olmak, ondan yararlanmakla aynı şey değildir. Makale ayrıca öğrencilerin çalışmayı kendilerinde tutma gerekçelerini — beceri gelişimi, [[evaluative-judgment|sahiplik ve gurur]] ve ahlaki itiraz — ayırır; bunlar farklı mekanizmalarla gelir ve tek bir güdüde birleştirilmemelidir.
+
 ## Öğrenen özerkliğiyle ilişki
 
 Öğrenen özerkliği ile öğrenen kimliği, karıştırılması kolay ama birbirinden farklı yapılardır — ve ikisi de YZ’nin öğrenmeyi nasıl etkilediğinde merkezîdir.
@@ -83,7 +85,7 @@ Kısacası: **öğrenenlerin hareket etmesine izin vermek için özerkliği besl
 
 **“YZ desteği engelleri düşürür ve dolayısıyla katılımı genişletir.”** İş üretme engelini düşürürken yazarlık iddia etme engelini daraltabilir. Yazarı olmadığı akıcı bir ürün teslim eden öğrenciye sonuca erişim verilmiş, arkasındaki kimliği kuran tanınma ise verilmemiştir.
 
-**“Bir öğrenenin kimliğini tanımak, içerikte temsil sorunudur.”** Temsil önemlidir ve tanınma pratikte edimlenir: kimin soruları ciddiye alınır, kimin katkısı kredilendirilir ve kim muktedir sayılır. Bir müfredat temsili olabilir ve yine de kimlik oluşumunun gerektirdiği tanınmayı esirgeyebilir.
+**“Bir öğrenenin kimliğini tanımak, içerikte temsil sorunudur.”** Temsil önemlidir ve tanınma pratikte edimlenir: kimin soruları ciddiye alınır, kimin katkısı kredilendirilir ve kim muktedir sayılır. Bir [[curriculum-design|müfredat]] temsili olabilir ve yine de kimlik oluşumunun gerektirdiği tanınmayı esirgeyebilir.
 
 ## Bağlı kavramlar
 
@@ -106,6 +108,8 @@ Kısacası: **öğrenenlerin hareket etmesine izin vermek için özerkliği besl
 ## Bağlı makaleler
 
 - [[guarded-adoption-genai-higher-education-2026]] — Yükseköğretimde Üretken YZ’nin Korumalı Benimsemesi
+
+- [[ting-ai-learning-ownership-purpose-2026]] — 14 undergraduates on what they keep doing themselves, and why purpose rarely decides it
 - [[t2i-competence-paradox-2026]] — Yetkinlik paradoksu: metinden görüntüye GenAI kullanımında yaratıcı kimlik
 - [[shame-guilt-ai-regulation-computing-education]] — YZ kullanımının toplumsal düzenleyicileri olarak utanç ve suçluluk
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Bir GenAI geleceğinde yaşanabilir mesleki kimlik için uyarlanabilir yetenekler

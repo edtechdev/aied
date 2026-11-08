@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-08T05:10:58-05:00"
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
@@ -67,7 +67,7 @@ Khoảng trống còn lại nằm ở quỹ đạo của năng lực, và thêm 
 
 “Học tập có AI hỗ trợ” thường gộp nhiều thay đổi: phản hồi mới, thêm phản tư, thảo luận với bạn học, trình tự nhiệm vụ khác, động cơ đánh giá bị thay đổi. Một gói thành công không cho bạn biết thành phần nào là cần thiết.
 
-[[genai-feedback-design-multisite-experiment|Thiết kế phản hồi GenAI lấy con người làm trung tâm]] là một bước tiến thật sự về câu hỏi đó. Trong 1,176 sinh viên năm thứ nhất, các thiết kế phản tư và thiết kế hỗn hợp vượt trội hơn [[ai-feedback-quality|phản hồi AI]] trực tiếp ở khả năng chuyển giao trễ khi không có AI. Điều kiện hỗn hợp kết hợp tự đánh giá, [[peer-assessment|phản hồi từ bạn học]] và phê bình của AI. Điều đó tách cách phản hồi được tổ chức và sử dụng khỏi việc sinh viên có được tiếp cận phản hồi hay không.
+[[genai-feedback-design-multisite-experiment|Thiết kế phản hồi GenAI lấy con người làm trung tâm]] là một bước tiến thật sự về câu hỏi đó. Trong 1,176 sinh viên năm thứ nhất, các thiết kế phản tư và thiết kế hỗn hợp vượt trội hơn [[ai-feedback-quality|phản hồi AI]] trực tiếp ở khả năng chuyển giao trễ khi không có AI. Điều kiện hỗn hợp kết hợp [[self-assessment|tự đánh giá]], [[peer-assessment|phản hồi từ bạn học]] và phê bình của AI. Điều đó tách cách phản hồi được tổ chức và sử dụng khỏi việc sinh viên có được tiếp cận phản hồi hay không.
 
 Vẫn còn mở: đóng góp và thời điểm của những lần thử độc lập ban đầu, tự giải thích, ý kiến bạn học, phản hồi sửa lỗi, gợi ý và việc giảm dần trợ giúp, cùng cách mỗi yếu tố tương tác với [[prior-knowledge|kiến thức tiền đề]] và độ khó nhiệm vụ.
 
@@ -87,7 +87,7 @@ AI tạo ra hai vấn đề đánh giá có liên hệ với nhau: nó giúp t�
 
 [[ai-agents-complete-lms-assessment-validity-2026|Nghiên cứu về các tác nhân AI hoàn thành nhiệm vụ đánh giá trên LMS]] trong cơ sở tri thức ghi lại việc các tác nhân điều hướng một khóa học đại học đang diễn ra và hoàn thành các hoạt động được đánh giá. Điều đó chứng minh một năng lực thách thức các giả định về bằng chứng do sinh viên tạo ra. Nó không xác lập mức độ phổ biến của cách dùng như vậy, và nó không vô hiệu hóa đánh giá không đồng bộ như một phạm trù.
 
-Câu hỏi nghiên cứu là những thiết kế nào vẫn chống đỡ được các kết luận có thể biện minh về người học. [[eportfolio|Hồ sơ học tập điện tử]], phản tư, bài nộp theo giai đoạn và nhật ký hoạt động cần được kiểm định như bằng chứng thay vì được giả định là xác lập quyền tác giả hay sự hiểu biết. Các nghiên cứu nên kiểm tra những tổ hợp bằng chứng đối chiếu với năng lực được quan sát độc lập, đồng thời tính đến khả năng tiếp cận, khối lượng công việc, quyền riêng tư và lo lắng của sinh viên. [[assessment-validity|Giá trị của đánh giá]] chứa phần chi tiết.
+Câu hỏi nghiên cứu là những thiết kế nào vẫn chống đỡ được các kết luận có thể biện minh về người học. [[eportfolio|Hồ sơ học tập điện tử]], phản tư, bài nộp theo giai đoạn và nhật ký hoạt động cần được kiểm định như bằng chứng thay vì được giả định là xác lập quyền tác giả hay sự hiểu biết. Các nghiên cứu nên kiểm tra những tổ hợp bằng chứng đối chiếu với năng lực được quan sát độc lập, đồng thời tính đến khả năng tiếp cận, khối lượng công việc, quyền riêng tư và [[anxiety-and-stress|lo lắng của sinh viên]]. [[assessment-validity|Giá trị của đánh giá]] chứa phần chi tiết.
 
 Với [[automated-assessment|chấm điểm tự động]], [[llms-do-not-grade-essays-like-humans-2026|LLMs Do Not Grade Essays Like Humans]] báo cáo sự bất đồng có hệ thống giữa các mô hình dùng nguyên bản và người chấm là con người. Các phát hiện gắn với cấu hình cụ thể, và chúng cho thấy vì sao tính nhất quán nội tại không thể chống đỡ một khẳng định về giá trị.
 
@@ -105,11 +105,11 @@ Giải quyết điều này cần đánh giá dựa trên thực hiện, kết h
 
 ## Báo cáo phát hiện bỏ sót ai
 
-Phát hiện từ một khóa học, một cơ sở, một ngôn ngữ hay một nhóm người học hiếm khi cho phép đưa ra quyết định ở nơi khác, một vấn đề mà tổng quan [[limitations-in-aied-research|Những hạn chế trong nghiên cứu AIEd]] coi là lặp đi lặp lại. Mức độ hiệu ứng thay đổi theo giai đoạn phát triển, ngành học, kiến thức tiền đề, khuyết tật, ngôn ngữ và điều kiện nguồn lực phần lớn vẫn chưa được đo.
+Phát hiện từ một khóa học, một cơ sở, một ngôn ngữ hay một [[learners|nhóm người học]] hiếm khi cho phép đưa ra quyết định ở nơi khác, một vấn đề mà tổng quan [[limitations-in-aied-research|Những hạn chế trong nghiên cứu AIEd]] coi là lặp đi lặp lại. Mức độ hiệu ứng thay đổi theo giai đoạn phát triển, ngành học, kiến thức tiền đề, khuyết tật, ngôn ngữ và điều kiện nguồn lực phần lớn vẫn chưa được đo.
 
 Nghiên cứu về công bằng cũng phải tách quyền tiếp cận, kỹ năng và kết quả. Tổng quan [[digital-divide|Khoảng cách số]] nói rõ rằng thiết bị và quyền tiếp cận công cụ không xác lập năng lực hưởng lợi ngang nhau. [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] theo dõi 752 học sinh trung học cơ sở ở Hồng Kông: khoảng cách về mức sẵn sàng tâm lý thu hẹp trong khi khác biệt trên một bài kiểm tra năng lực AI khách quan vẫn tồn tại. Mọi nhóm đều tiến bộ, và bất bình đẳng không được thu hẹp. Các hồ sơ học tập trước đó không được phân bổ ngẫu nhiên, nên vai trò nhân quả của chúng vẫn chưa rõ.
 
-Độ phủ mỏng ở những chỗ cụ thể. [[differential-effects-across-learner-groups|Hiệu ứng khác biệt giữa các nhóm người học]] đếm tài liệu theo nhóm người học: người học song ngữ và đa ngữ cùng sinh viên khuyết tật là những mạch sâu nhất, giới tính và đa dạng thần kinh đến tiếp theo, sinh viên thế hệ thứ nhất và sinh viên quốc tế mỗi nhóm có một nghiên cứu trong cơ sở này, học sinh năng khiếu và thành tích cao thực tế chưa được nghiên cứu, và người học tị nạn, nhập cư và di dời không xuất hiện ở nghiên cứu nào. Một nền bằng chứng có hình dạng như vậy không thể trả lời câu hỏi về công bằng bằng cách gộp lại.
+Độ phủ mỏng ở những chỗ cụ thể. [[differential-effects-across-learner-groups|Hiệu ứng khác biệt giữa các nhóm người học]] đếm tài liệu theo nhóm người học: người học song ngữ và [[multilingual-learning|đa ngữ]] cùng [[inclusive-learning|sinh viên khuyết tật]] là những mạch sâu nhất, giới tính và [[neurodiversity|đa dạng thần kinh]] đến tiếp theo, sinh viên thế hệ thứ nhất có hai nghiên cứu trong cơ sở này (một về khác biệt trong cách sử dụng và một về ước lượng tác động), còn sinh viên quốc tế chỉ có một, học sinh năng khiếu và thành tích cao thực tế chưa được nghiên cứu, và người học tị nạn, nhập cư và di dời không xuất hiện ở nghiên cứu nào. Một nền bằng chứng có hình dạng như vậy không thể trả lời câu hỏi về công bằng bằng cách gộp lại.
 
 Năng lực cũng thay đổi trong cùng một hệ thống quốc gia. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye và cộng sự (2026)]] chấm điểm mức tích hợp AI tại 45 trường đại học Nigeria và thấy mức áp dụng tổng thể ở mức trung bình (M = 4.79, khoảng 1.83-7.83 trên thang 10 điểm), với loại hình cơ sở không dự báo được mức tích hợp khi đã kiểm soát tuổi và vị trí địa lý (tuổi β = 0.43; vị trí Tây Nam β = 0.31). Các năng lực nội tại tương quan với nhau ở r = 0.79-0.80 và hợp tác quốc tế tương quan với quan hệ đối tác công nghiệp ở r = 0.74, nên những cơ sở có nhiều kết nối tích lũy lợi thế cộng dồn. Những thiết kế xây dựng năng lực nào thay đổi kết quả tại các cơ sở mới hơn, ít kết nối hơn thì chưa được kiểm nghiệm.
 
@@ -183,7 +183,7 @@ Giảng viên muốn phiên bản ở cấp lớp học có thể theo [[evaluat
 
 **“Cỡ hiệu ứng gộp đã cho tôi biết điều gì hiệu quả.”** 14 phân tích tổng hợp được kiểm toán định nghĩa can thiệp là một công cụ, gộp những kết quả không tương thích, và báo cáo I² trên 80% trong 12 của 13 phân tích có đưa ra chỉ số này. Con số gộp mô tả một tập nghiên cứu có vấn đề về cấu trúc.
 
-**“Người học mô phỏng rẻ hơn, nên việc kiểm định chúng có thể chờ.”** Trong nghiên cứu về sự nịnh bợ, người học mô phỏng từ bỏ quan niệm sai lệch dù phản hồi có giải quyết chúng hay không, và đó chính là kiểu thất bại khiến một gia sư không hiệu quả trông có hiệu quả.
+**“Người học mô phỏng rẻ hơn, nên việc kiểm định chúng có thể chờ.”** Trong nghiên cứu về [[ai-sycophancy|sự nịnh bợ]], người học mô phỏng từ bỏ quan niệm sai lệch dù phản hồi có giải quyết chúng hay không, và đó chính là kiểu thất bại khiến một gia sư không hiệu quả trông có hiệu quả.
 
 ## Việc cần làm trong tuần này
 

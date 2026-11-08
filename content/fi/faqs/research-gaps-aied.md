@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-08T05:10:57-05:00"
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
@@ -67,7 +67,7 @@ Jäljellä oleva aukko koskee kyvykkyyden kehityskulkuja, eikä yksi lisätty lo
 
 ”Tekoälyn tukema oppiminen” kokoaa yleensä useita muutoksia: uutta palautetta, lisättyä reflektiota, vertaiskeskustelua, erilaisia tehtäväsarjoja, muuttuneita arviointikannustimia. Onnistuva paketti ei kerro, mitkä komponentit olivat välttämättömiä.
 
-[[genai-feedback-design-multisite-experiment|Ihmiskeskeinen GenAI-palautteen suunnittelu]] on todellinen edistysaskel tuossa kysymyksessä. 1 176 ensimmäisen vuoden opiskelijan joukossa reflektoivat ja hybridisuunnitelmat päihittivät suoran [[ai-feedback-quality|tekoälypalautteen]] viivästetyssä siirtämisessä ilman tekoälyä. Hybridiehto yhdisti itsearvioinnin, [[peer-assessment|vertaispalautteen]] ja tekoälykritiikin. Se erottaa sen, miten palaute organisoidaan ja miten sitä käytetään, siitä, onko opiskelijoilla ylipäätään pääsy palautteeseen.
+[[genai-feedback-design-multisite-experiment|Ihmiskeskeinen GenAI-palautteen suunnittelu]] on todellinen edistysaskel tuossa kysymyksessä. 1 176 ensimmäisen vuoden opiskelijan joukossa reflektoivat ja hybridisuunnitelmat päihittivät suoran [[ai-feedback-quality|tekoälypalautteen]] viivästetyssä siirtämisessä ilman tekoälyä. Hybridiehto yhdisti [[self-assessment|itsearvioinnin]], [[peer-assessment|vertaispalautteen]] ja tekoälykritiikin. Se erottaa sen, miten palaute organisoidaan ja miten sitä käytetään, siitä, onko opiskelijoilla ylipäätään pääsy palautteeseen.
 
 Yhä avoinna: ensimmäisten itsenäisten yritysten, itse selittämisen, vertaistuen, korjaavan palautteen, vihjeiden ja hiipuvan tuen osuus ja ajoitus sekä se, miten kukin niistä on vuorovaikutuksessa [[prior-knowledge|aiemman tiedon]] ja tehtävän vaikeuden kanssa.
 
@@ -87,7 +87,7 @@ Tekoäly luo kaksi toisiinsa kytkeytyvää arviointiongelmaa: se auttaa tuottama
 
 Tietopohjan [[ai-agents-complete-lms-assessment-validity-2026|tutkimus tekoälyagenteista, jotka suorittavat arvioituja LMS-tehtäviä]] dokumentoi agenttien navigoivan elävässä kandidaattikurssissa ja saavan arvioidut aktiviteetit valmiiksi. Se osoittaa kyvykkyyden, joka haastaa oletukset opiskelijoiden tuottamasta näytöstä. Se ei osoita, miten yleistä tällainen käyttö on, eikä se mitätöi asynkronista arviointia kategoriana.
 
-Tutkimuskysymys on, mitkä suunnitelmat tukevat yhä puolustettavia johtopäätöksiä oppijasta. [[eportfolio|Portfoliot]], reflektiot, vaiheittaiset palautukset ja aktiviteettilokit on validoitava näyttönä sen sijaan, että oletetaan niiden osoittavan tekijyyttä tai ymmärrystä. Tutkimusten tulisi testata näyttöyhdistelmiä itsenäisesti havaittua osaamista vastaan ottaen huomioon saavutettavuus, työmäärä, tietosuoja ja opiskelijoiden ahdistus. [[assessment-validity|Arvioinnin validiteetti]] sisältää yksityiskohdat.
+Tutkimuskysymys on, mitkä suunnitelmat tukevat yhä puolustettavia johtopäätöksiä oppijasta. [[eportfolio|Portfoliot]], reflektiot, vaiheittaiset palautukset ja aktiviteettilokit on validoitava näyttönä sen sijaan, että oletetaan niiden osoittavan tekijyyttä tai ymmärrystä. Tutkimusten tulisi testata näyttöyhdistelmiä itsenäisesti havaittua osaamista vastaan ottaen huomioon saavutettavuus, työmäärä, tietosuoja ja [[anxiety-and-stress|opiskelijoiden ahdistus]]. [[assessment-validity|Arvioinnin validiteetti]] sisältää yksityiskohdat.
 
 [[automated-assessment|Automatisoidun pisteytyksen]] osalta [[llms-do-not-grade-essays-like-humans-2026|LLMs Do Not Grade Essays Like Humans]] raportoi systemaattisesta eriävästä arvioinnista valmiiden mallien ja inhimillisten arvioijien välillä. Havainnot ovat konfiguraatiokohtaisia, ja ne näyttävät, miksi sisäinen johdonmukaisuus ei voi kantaa validiteettiväitettä.
 
@@ -105,11 +105,11 @@ Tämän ratkaiseminen vaatii suoriutumispohjaista arviointia yhdistettynä todel
 
 ## Raportoi, kenet havainto jättää ulkopuolelle
 
-Yhden kurssin, oppilaitoksen, kielen tai oppijapopulaation havainnot harvoin oikeuttavat päätöksiä muualla, minkä [[limitations-in-aied-research|Tekoälykoulutustutkimuksen rajoitukset]] -synteesi käsittelee toistuvana ongelmana. Miten vaikutukset vaihtelevat kehitysvaiheen, alan, aiemman tiedon, vammaisuuden, kielen ja resurssiolosuhteiden mukaan, jää suurelta osin mittaamatta.
+Yhden kurssin, oppilaitoksen, kielen tai [[learners|oppijapopulaation]] havainnot harvoin oikeuttavat päätöksiä muualla, minkä [[limitations-in-aied-research|Tekoälykoulutustutkimuksen rajoitukset]] -synteesi käsittelee toistuvana ongelmana. Miten vaikutukset vaihtelevat kehitysvaiheen, alan, aiemman tiedon, vammaisuuden, kielen ja resurssiolosuhteiden mukaan, jää suurelta osin mittaamatta.
 
 Yhdenvertaisuustutkimuksen on myös erotettava pääsy, taidot ja tulokset. [[digital-divide|Digitaalinen kuilu]] -synteesi on selvä siitä, että laitteet ja työkalupääsy eivät osoita yhtäläistä kykyä hyötyä. [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] seurasi 752 Hongkongin yläkoulun opiskelijaa: psykologisen valmiuden aukot kaventuivat, kun taas erot objektiivisessa tekoälylukutaidon testissä säilyivät. Jokainen ryhmä parani, eikä eriarvoisuus sulkeutunut. Aiempia oppimisprofiileja ei jaettu satunnaisesti, joten niiden kausaalinen rooli jää tuntemattomaksi.
 
-Kattavuus on ohutta tietyissä kohdissa. [[differential-effects-across-learner-groups|Erot oppijaryhmien välisissä vaikutuksissa]] laskee kirjallisuuden populaatioittain: toisen kielen ja monikieliset oppijat sekä oppijat, joilla on vammoja, ovat syvimmät juonteet, sukupuoli ja neurodiversiteetti seuraavat, ensimmäisen sukupolven opiskelijoilla ja kansainvälisillä opiskelijoilla on tässä korpuksessa yksi tutkimus kullakin, lahjakkaat ja hyvin suoriutuvat opiskelijat ovat käytännössä tutkimattomia, eikä pakolaisia, maahanmuuttajia ja siirtymään joutuneita oppijoita esiinny yhdessäkään. Sellaisen muodon näyttöpohja ei voi vastata yhdenvertaisuuskysymykseen aggregoimalla.
+Kattavuus on ohutta tietyissä kohdissa. [[differential-effects-across-learner-groups|Erot oppijaryhmien välisissä vaikutuksissa]] laskee kirjallisuuden populaatioittain: toisen kielen ja [[multilingual-learning|monikieliset oppijat]] sekä [[inclusive-learning|oppijat, joilla on vammoja]], ovat syvimmät juonteet, sukupuoli ja [[neurodiversity|neurodiversiteetti]] seuraavat, ensimmäisen sukupolven opiskelijoilla on tässä korpuksessa kaksi tutkimusta – yksi käytön erosta ja yksi vaikutusarviosta – ja kansainvälisillä opiskelijoilla yksi, lahjakkaat ja hyvin suoriutuvat opiskelijat ovat käytännössä tutkimattomia, eikä pakolaisia, maahanmuuttajia ja siirtymään joutuneita oppijoita esiinny yhdessäkään. Sellaisen muodon näyttöpohja ei voi vastata yhdenvertaisuuskysymykseen aggregoimalla.
 
 Kapasiteetti vaihtelee myös yhden kansallisen järjestelmän sisällä. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] pisteyttivät tekoälyintegraation 45 nigerialaisessa yliopistossa ja havaitsivat kohtalaista kokonaiskäyttöönottoa (M = 4,79, vaihteluväli 1,83-7,83, 10-pisteisellä asteikolla), eikä oppilaitoksen tyyppi ennustanut integraatiota, kun ikä ja maantiede oli kontrolloitu (ikä β = 0,43; sijainti Lounais-Nigeriassa β = 0,31). Sisäiset kyvykkyydet korreloivat keskenään r = 0,79-0,80 ja kansainväliset yhteistyöt toimialakumppanuuksien kanssa r = 0,74, joten verkottuneet oppilaitokset kerryttävät kumuloituvia etuja. Mitkä kapasiteetin rakentamisen mallit muuttavat tuloksia uudemmissa, vähemmän verkottuneissa oppilaitoksissa, on testaamatonta.
 
@@ -183,7 +183,7 @@ Opettajat, jotka haluavat luokkahuonetasoisen version, voivat seurata sivua [[ev
 
 **”Yhdistetty vaikutuskoko jo kertoo, mikä toimii.”** 14 auditoitua meta-analyysiä määrittelivät käsittelyn työkaluksi, yhdistivät yhteensopimattomia tuloksia ja raportoivat I²:n yli 80 %:n 12:ssa 13:sta analyysistä, joissa se raportoitiin. Yhdistetty luku kuvaa tutkimusjoukkoa, jolla on konstruktiongelma.
 
-**”Simuloidut opiskelijat ovat halvempia, joten niiden validointi voi odottaa.”** Mielistelytutkimuksessa simuloidut opiskelijat pudottivat väärinkäsityksiä riippumatta siitä, käsittelikö palaute niitä, mikä on se epäonnistumistapa, joka saa tehottoman ohjaajan näyttämään tehokkaalta.
+**”Simuloidut opiskelijat ovat halvempia, joten niiden validointi voi odottaa.”** [[ai-sycophancy|Mielistelytutkimuksessa]] simuloidut opiskelijat pudottivat väärinkäsityksiä riippumatta siitä, käsittelikö palaute niitä, mikä on se epäonnistumistapa, joka saa tehottoman ohjaajan näyttämään tehokkaalta.
 
 ## Mitä tehdä tällä viikolla
 

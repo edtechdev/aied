@@ -11,7 +11,7 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-27T18:18:05-04:00"
+source_updated: "2026-11-04T17:25:00-05:00"
 updated: "2026-10-27T18:18:05-04:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]

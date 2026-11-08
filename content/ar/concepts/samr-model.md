@@ -1,7 +1,7 @@
 ---
 title: نموذج SAMR
 created: "2026-10-12T20:00:00-04:00"
-updated: "2026-10-30T17:00:00-04:00"
+updated: "2026-11-08T06:32:21-05:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -9,7 +9,7 @@ page_kind: [framework]
 audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-02T09:55:00-05:00"
 translation_of: concepts/samr-model
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
@@ -55,6 +55,7 @@ ai_assist:
 - **SAMR هدف للنقد ما بعد الإنساني.** ينقد [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] نماذج TPACK وSAMR و[[ai-literacy]] لاشتراكها في أنطولوجيا إنسانية تفترض متعلّمًا محدودًا إدراكه لم تتغيّره الوساطة التقنية تغييرًا جوهريًا، زاعمًا أن هذه الأُطر الآلية لا تستطيع معالجة الدور المُؤسِّس للذكاء الاصطناعي في الإدراك.
 - **إطار للدمج لا إطار للسلطة.** يُقيّم [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] SAMR إلى جانب TPACK وأُطر الدمج الأخرى ويجد أنها لا تعالج أيًا منها السلطة العادلة أوملكية البيانات أوالمساءلة، ما يحفّز إطار وكالة مشتركة بيئيًا بديلًا.
 - **يُخصّ استخدام الطلاب على SAMR أيضًا، وتمتد التغذية الراجعة على كل المراحل.** فقد وضع ترميز إفصاحات الـ GenAI لـ 31–36 طالبًا في وحدة [[physics-education|فيزياء]] التعلّم عند الاستبدال–التعزيز، والتنسيق عند الاستبدال، وأداء المهام عند التعديل–إعادة التعريف، بينما ظهرت التغذية الراجعة — التحقق والتوضيح والاستيقان — على المراحل الأربع جميعًا ([[genai-use-changing-institutional-policy-physics-2026|Quince and Faulconer (2026)]]).
+- **العمق والشمول محوران منفصلان.** يقرن [[jita-ai-mathematics-classrooms-inclusion-2026|Jita وJita وOmoniyi (2026)]] SAMR بـ[[universal-design-for-learning|UDL]] عبر 38 مصدرًا، ويجادلون بأن مهام مستوى إعادة التعريف قد تُقصي مع ذلك طلابًا لا تلائمهم لغتهم أو أجهزتهم أو اتصالهم بالتصميم.
 
 ## SAMR وTPACK وتبني التقنية: كيف تختلف
 
@@ -83,7 +84,6 @@ ai_assist:
 
 **«الأداة التي هي تحويلية في مرحلة تحويلية في كل المراحل.»** الأداة التوليدية نفسها قد تدعم استبدالًا في مقرر وإعادة تعريف في آخر، لأن المرحلة خاصية لتصميم المهمة لا للتقنية. فنسبة المرحلة إلى الأداة تنتج قرارات تبنّي مكان قرارات تصميم.
 
-
 ## المفاهيم المرتبطة
 
 - [[ai-education]] — الذكاء الاصطناعي في التعليم (شامل)
@@ -107,3 +107,4 @@ ai_assist:
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — The posthumanist critique of SAMR's humanist ontology
 - [[reclaiming-epistemic-agency-co-agency-2026]] — SAMR's silence on power, data ownership, and accountability
 - [[genai-use-changing-institutional-policy-physics-2026]] — Student GenAI use under changing institutional policies: use functions mapped to SAMR levels (Quince & Faulconer 2026)
+- [[jita-ai-mathematics-classrooms-inclusion-2026]] — الذكاء الاصطناعي في صفوف الرياضيات: استراتيجية تآزرية للتنوع والشمول

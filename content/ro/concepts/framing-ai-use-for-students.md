@@ -10,8 +10,8 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
-updated: "2026-10-27T17:15:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "*Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Întrebări de luat în considerare
 
 - Simpla punere a IA la dispoziția elevilor a fost asociată cu o folosire ineficientă sau chiar lipsită de etică, în timp ce enunțarea explicită și încorporarea folosirii adecvate au îmbunătățit rezultatele. Dacă prezența instrumentului contează mai puțin decât felul în care este enunțat, ce sugerează asta despre accentul pe simpla „ofertă de IA către elevi”?
-- Cei mai mulți elevi folosesc IA generativă, mulți nu sunt siguri dacă propria folosire este conformă, iar ei se sprijină pe instrumente accesate privat, nu pe cele puse la dispoziție de instituție. Dacă simpla cunoaștere a regulilor abia dacă schimbă ce fac elevii, ce i-ar putea convinge, și nu doar informa?
+- Cei mai mulți elevi folosesc [[generative-ai|IA generativă]], mulți nu sunt siguri dacă propria folosire este conformă, iar ei se sprijină pe instrumente accesate privat, nu pe cele puse la dispoziție de instituție. Dacă simpla cunoaștere a regulilor abia dacă schimbă ce fac elevii, ce i-ar putea convinge, și nu doar informa?
 - Când instituțiile răspund la IA cu teamă și condamnare, elevii pot ascunde sau raționaliza folosirea, în loc să învețe să o folosească bine. Ai văzut o reacție de „panică morală” împingând elevii spre secret? Cum ar arăta o abordare reîncadrată, orientată spre oportunitate?
 - Anxietatea legată de IA nu este doar o barieră: elevii îngrijorați de acuratețe și de plagiat erau *mai* predispuși să verifice și să revizuiască rezultatul IA, în loc să îl accepte fără judecată. Cum ar putea fi canalizată anxietatea productivă în competență evaluativă, în loc să fie suprimată?
 - Elevii își construiesc propriul sens al ceea ce este acceptabil prin „situri” - intențiile cadrelor didactice, documentele cursului, normele colegilor și mesajele instituționale - care deseori diverg. Când acele mesaje intră în conflict, care crezi că învinge de fapt, și cum închide enunțarea acest decalaj?
@@ -41,7 +41,7 @@ Conceptul se situează între două concepte mai familiare. Acolo unde [[technol
 
 Enunțarea contează pentru că **politica și regulile nu schimbă de încredere comportamentul prin ele însele**. [[research-methods-aied|Cercetarea]] prin sondaj privind conștientizarea [[regulation|reglementării]] constată că cunoașterea de către elevi a regulilor instituționale privind IA generativă are doar asocieri slabe până la moderate cu ceea ce fac ei efectiv ([[student-regulatory-awareness-genai]]). A cunoaște regulile este necesar, dar nu suficient; mesajul trebuie să *convingă*, nu doar să informeze.
 
-Enunțarea diferențiată poate proveni din interiorul aceleiași politici, nu doar din situri diferite: o analiză de sentiment a 36 de politici universitare a constatat că declarațiile despre predare erau încadrate pozitiv, în timp ce declarațiile despre IA generativă și despre etică erau încadrate negativ, astfel încât elevii întâlneau încurajarea și reținerea în același document ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
+Enunțarea diferențiată poate proveni din interiorul aceleiași politici, nu doar din situri diferite: o [[affective-computing|analiză de sentiment]] a 36 de politici universitare a constatat că declarațiile despre predare erau încadrate pozitiv, în timp ce declarațiile despre IA generativă și despre etică erau încadrate negativ, astfel încât elevii întâlneau încurajarea și reținerea în același document ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 Cadrul de enunțare modelează și dacă elevii trăiesc IA ca pe o **amenințare de evitat sau de eludat** ori ca pe o **resursă de folosit deliberat**. Când instituțiile răspund la IA cu teamă și condamnare - ceea ce o linie de lucru numește o „panică morală” recurentă - ele împing elevii spre ascunderea sau raționalizarea folosirii, în loc să îi învețe să o folosească bine.([[moral-panic-genai-classroom]]) Reîncadrarea anxietății și a condamnării în oportunitate structurată schimbă întreaga dinamică a [[student-engagement|implicării elevilor]] cu IA.
 
@@ -61,7 +61,7 @@ Cea mai directă pârghie de enunțare din baza de cunoștințe este furnizarea 
 
 ### Reîncadrează anxietatea și incertitudinea în competență evaluativă
 
-Un studiu [[mixed-methods-research|cu metode mixte]] despre [[writing-education|scrierea]] academică a constatat că anxietatea legată de IA nu este pur și simplu o barieră: elevii îngrijorați de acuratețe și de plagiat erau *mai* predispuși să verifice, să confrunte și să revizuiască rezultatul IA, în loc să îl accepte fără judecată. Studiul încadrează [[ai-literacy|alfabetizarea în IA]] mai puțin ca acceptare și mai mult ca **competență de reglare** - capacitatea de a pune sub semnul întrebării rezultatele, de a revizui selectiv și de a menține responsabilitatea autoriei.([[ai-anxiety-strategic-regulation-writing-2026]]) A enunța folosirea IA pentru elevi înseamnă a canaliza anxietatea productivă spre evaluare, nu a o suprima.
+Un studiu [[mixed-methods-research|cu metode mixte]] despre [[writing-education|scrierea]] academică a constatat că [[anxiety-and-stress|anxietatea legată de IA]] nu este pur și simplu o barieră: elevii îngrijorați de acuratețe și de plagiat erau *mai* predispuși să verifice, să confrunte și să revizuiască rezultatul IA, în loc să îl accepte fără judecată. Studiul încadrează [[ai-literacy|alfabetizarea în IA]] mai puțin ca acceptare și mai mult ca **competență de reglare** - capacitatea de a pune sub semnul întrebării rezultatele, de a revizui selectiv și de a menține responsabilitatea autoriei.([[ai-anxiety-strategic-regulation-writing-2026]]) A enunța folosirea IA pentru elevi înseamnă a canaliza anxietatea productivă spre evaluare, nu a o suprima.
 
 ### Folosește mesaje țintite pentru a modela comportamente specifice
 

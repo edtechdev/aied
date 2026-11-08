@@ -10,8 +10,8 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
-updated: "2026-10-27T16:52:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "*Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Megfontolandó kérdések
 
 - Pusztán az, hogy az MI elérhetővé vált a diákok számára, hatástalan vagy akár etikátlan használattal járt együtt, míg a megfelelő használat kifejezett keretezése és beágyazása javította az eredményeket. Ha az eszköz jelenléte kevésbé számít, mint a keretezése, mit sugall ez a „adjunk a diákoknak MI-t” hangsúlyozásáról?
-- A legtöbb diák használ generatív MI-t, sokak számára bizonytalan, hogy a használatuk megfelel-e az elvárásoknak, és inkább magánúton elérhető eszközökre támaszkodnak, mint az intézmény által biztosítottakra. Ha a szabályok ismerete alig változtat azon, amit a diákok tesznek, mi győzhetne meg a puszta tájékoztatás helyett?
+- A legtöbb diák használ [[generative-ai|generatív MI-t]], sokak számára bizonytalan, hogy a használatuk megfelel-e az elvárásoknak, és inkább magánúton elérhető eszközökre támaszkodnak, mint az intézmény által biztosítottakra. Ha a szabályok ismerete alig változtat azon, amit a diákok tesznek, mi győzhetne meg a puszta tájékoztatás helyett?
 - Amikor az intézmények félelemmel és elítéléssel válaszolnak az MI-re, a diákok inkább elrejtik vagy racionalizálják a használatukat, ahelyett hogy megtanulnák jól használni. Találkozott már olyan „erkölcsi pánik” típusú válasszal, amely titkolózásba szorította a diákokat? Hogyan nézne ki egy újrakeretezett, lehetőségközpontú megközelítés?
 - Az MI-vel kapcsolatos szorongás nem csupán akadály: azok a diákok, akik aggódtak a pontosság és a plágium miatt, *nagyobb* valószínűséggel ellenőrizték és javították az MI-kimenetet, ahelyett hogy kritikátlanul elfogadták volna. Hogyan lehet a produktív szorongást értékelő kompetenciává csatornázni ahelyett, hogy elnyomnánk?
 - A diákok saját maguk építik fel azt, mit tartanak elfogadhatónak, „helyszíneken” keresztül (az oktatók szándékai, a kurzusdokumentumok, a társnormák és az intézményi üzenetek), amelyek gyakran eltérnek egymástól. Amikor ezek az üzenetek ütköznek, Ön szerint melyik győz valójában, és hogyan zárja be ezt a rést a keretezés?
@@ -41,7 +41,7 @@ A fogalom két ismerősebb fogalom között helyezkedik el. Ahol a [[technology-
 
 A keretezés azért számít, mert **a szabályzat és a szabályok önmagukban nem változtatnak megbízhatóan a viselkedésen**. A [[research-methods-aied|kutatás]] a [[regulation|szabályozási]] tudatosságról azt találja, hogy a diákok intézményi GenAI-szabályokra vonatkozó tudása csak gyenge és közepes erősségű összefüggést mutat azzal, amit valójában tesznek ([[student-regulatory-awareness-genai]]). A szabályok ismerete szükséges, de nem elégséges; az üzenetnek *meg kell győznie*, nem csupán tájékoztatnia kell.
 
-A differenciált keretezés egyetlen szabályzaton belül is eredhet, nem csak a helyszínek között: 36 egyetemi szabályzat érzelem-elemzése azt találta, hogy a tanítási nyilatkozatok pozitívan, a GenAI-ra és az etikára vonatkozó nyilatkozatok negatívan voltak keretezve, így a diákok egyazon dokumentumban találkoztak bátorítással és korlátozással ([[sun-governing-genai-policy-cross-national-2026|Sun és mtsai. (2026)]]).
+A differenciált keretezés egyetlen szabályzaton belül is eredhet, nem csak a helyszínek között: 36 egyetemi szabályzat [[affective-computing|érzelem-elemzése]] azt találta, hogy a tanítási nyilatkozatok pozitívan, a GenAI-ra és az etikára vonatkozó nyilatkozatok negatívan voltak keretezve, így a diákok egyazon dokumentumban találkoztak bátorítással és korlátozással ([[sun-governing-genai-policy-cross-national-2026|Sun és mtsai. (2026)]]).
 
 A keret azt is meghatározza, hogy a diákok az MI-t **elkerülendő vagy kijátszandó fenyegetésként** élik-e meg, vagy **szándékosan használandó erőforrásként**. Amikor az intézmények félelemmel és elítéléssel válaszolnak az MI-re, amit a munka egy vonulata visszatérő „erkölcsi pániknak” nevez, a diákokat a használatuk elrejtésébe vagy racionalizálásába tolják, ahelyett hogy megtanulnák jól használni.([[moral-panic-genai-classroom]]) A szorongás és az elítélés strukturált lehetőséggé alakítása megváltoztatja a diákok MI-vel való [[student-engagement|elköteleződésének]] egész dinamikáját.
 
@@ -61,7 +61,7 @@ A tudásbázis legközvetlenebb keretezési karja az, hogy feladatról feladatra
 
 ### Alakítsuk át a szorongást és a bizonytalanságot értékelő kompetenciává
 
-Egy [[mixed-methods-research|mixed-methods]] vizsgálat az akadémiai [[writing-education|írástudásról]] azt találta, hogy az MI-szorongás nem egyszerűen akadály: azok a diákok, akik aggódtak a pontosság és a plágium miatt, *nagyobb* valószínűséggel ellenőrizték, keresztezték és javították az MI-kimenetet, ahelyett hogy kritikátlanul elfogadták volna. A vizsgálat az [[ai-literacy|MI-írástudást]] kevésbé elfogadásként, inkább **szabályozási kompetenciaként** keretezi: a kimenet megkérdőjelezésének, a szelektív javításnak és a szerzőségi felelősség megtartásának képességeként.([[ai-anxiety-strategic-regulation-writing-2026]]) Az MI-használat keretezése a diákok számára azt jelenti, hogy a produktív szorongást az értékelés felé csatornázzuk, nem hogy elnyomjuk.
+Egy [[mixed-methods-research|mixed-methods]] vizsgálat az akadémiai [[writing-education|írástudásról]] azt találta, hogy az [[anxiety-and-stress|MI-szorongás]] nem egyszerűen akadály: azok a diákok, akik aggódtak a pontosság és a plágium miatt, *nagyobb* valószínűséggel ellenőrizték, keresztezték és javították az MI-kimenetet, ahelyett hogy kritikátlanul elfogadták volna. A vizsgálat az [[ai-literacy|MI-írástudást]] kevésbé elfogadásként, inkább **szabályozási kompetenciaként** keretezi: a kimenet megkérdőjelezésének, a szelektív javításnak és a szerzőségi felelősség megtartásának képességeként.([[ai-anxiety-strategic-regulation-writing-2026]]) Az MI-használat keretezése a diákok számára azt jelenti, hogy a produktív szorongást az értékelés felé csatornázzuk, nem hogy elnyomjuk.
 
 ### Célzott üzenetekkel formáljunk konkrét viselkedéseket
 

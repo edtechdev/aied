@@ -10,8 +10,8 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
-updated: "2026-10-27T16:30:15-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Spørgsmål at overveje
 
 - Blot at gøre AI tilgængelig for elever var forbundet med ineffektiv eller endda uetisk brug, mens eksplicit indramning og indlejring af passende brug forbedrede resultaterne. Hvis tilstedeværelsen af værktøjet betyder mindre end måden, det indrammes på, hvad siger det så om vægten på blot at "give eleverne AI"?
-- De fleste elever bruger generativ AI, mange er usikre på, om deres brug er i overensstemmelse med reglerne, og de læner sig op ad privat tilgåede værktøjer frem for institutionelt udbudte. Hvis kendskabet til reglerne næsten ikke ændrer, hvad eleverne gør, hvad kan så overbevise i stedet for blot at informere?
+- De fleste elever bruger nu [[generative-ai|generativ AI]], få af dem er sikre på, om deres egen brug er i overensstemmelse med reglerne, og de foretrækker værktøjer, de selv tilgår, frem for institutionelt udbudte. Hvis kendskabet til reglerne næsten ikke ændrer, hvad eleverne gør, hvad kan så overbevise i stedet for blot at informere?
 - Når institutioner reagerer på AI med frygt og fordømmelse, kan elever skjule eller rationalisere deres brug i stedet for at lære at bruge den godt. Har du set en "moralsk panik"-reaktion presse elever ud i hemmelighed? Hvordan ville en omformuleret, mulighedsorienteret tilgang se ud?
 - Bekymring om AI er ikke udelukkende en barriere: elever, der var bekymrede for nøjagtighed og plagiering, var *mere* tilbøjelige til at verificere og revidere AI-output frem for at acceptere det ukritisk. Hvordan kan produktiv bekymring kanaliseres til evaluerende kompetence i stedet for at blive undertrykt?
 - Elever konstruerer deres egen fornemmelse af, hvad der er acceptabelt, gennem "steder" (underviseres intentioner, kursusdokumenter, kammeratnormer og institutionelle budskaber), som ofte divergerer. Når disse budskaber er i konflikt, hvilken tror du så vinder i praksis, og hvordan lukker indramning det gab?
@@ -41,7 +41,7 @@ Begrebet ligger mellem to mere velkendte. Hvor [[technology-acceptance-model]] *
 
 Indramning betyder noget, fordi **politik og regler ikke pålideligt ændrer adfærd af sig selv**. Spørgeskema[[research-methods-aied|forskning]] om [[regulation|regulatorisk]] bevidsthed finder, at elevers kendskab til institutionelle GenAI-regler kun viser svage til moderate sammenhænge med, hvad de faktisk gør ([[student-regulatory-awareness-genai]]). At kende reglerne er nødvendigt, men ikke tilstrækkeligt; budskabet skal *overbevise*, ikke blot informere.
 
-Differentieret indramning kan udspringe af en enkelt politik snarere end kun på tværs af forskellige steder: en sentimentanalyse af 36 universitetspolitikker fandt, at udsagn om undervisning var positivt indrammet, mens udsagn om GenAI og etik var negativt indrammet, så eleverne mødte både opbakning og tilbageholdenhed i ét og samme dokument ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
+Differentieret indramning kan udspringe af en enkelt politik snarere end kun på tværs af forskellige steder: en [[affective-computing|sentimentanalyse]] af 36 universitetspolitikker fandt, at udsagn om undervisning var positivt indrammet, mens udsagn om GenAI og etik var negativt indrammet, så eleverne mødte både opbakning og tilbageholdenhed i ét og samme dokument ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 Rammen former også, om elever oplever AI som en **trussel, der skal undgås eller omgås**, versus som en **ressource, der skal bruges bevidst**. Når institutioner reagerer på AI med frygt og fordømmelse, hvad en forskningslinje kalder en tilbagevendende "moralsk panik", skubber de elever ud i at skjule eller rationalisere deres brug frem for at lære at bruge den godt.([[moral-panic-genai-classroom]]) At omformulere bekymring og fordømmelse til struktureret mulighed ændrer hele dynamikken i [[student-engagement|elevers engagement]] med AI.
 
@@ -61,7 +61,7 @@ Den mest direkte indramningsløftestang i vidensbasen er at levere *begrundelsen
 
 ### Omformuler bekymring og usikkerhed til evaluerende kompetence
 
-En [[mixed-methods-research|mixed-methods]]undersøgelse af akademisk [[writing-education|skrivning]] fandt, at AI-bekymring ikke blot er en barriere: elever, der var bekymrede for nøjagtighed og plagiering, var *mere* tilbøjelige til at verificere, krydstjekke og revidere AI-output frem for at acceptere det ukritisk. Undersøgelsen indrammer [[ai-literacy|AI-kompetence]] mindre som accept og mere som **regulatorisk kompetence**, altså evnen til at stille spørgsmålstegn ved output, revidere selektivt og fastholde forfatterskabsansvar.([[ai-anxiety-strategic-regulation-writing-2026]]) At indramme AI-brug for elever betyder at kanalisere produktiv bekymring mod evaluering, ikke at undertrykke den.
+En [[mixed-methods-research|mixed-methods]]undersøgelse af akademisk [[writing-education|skrivning]] fandt, at [[anxiety-and-stress|AI-bekymring]] ikke blot er en barriere: elever, der var bekymrede for nøjagtighed og plagiering, var *mere* tilbøjelige til at verificere, krydstjekke og revidere AI-output frem for at acceptere det ukritisk. Undersøgelsen indrammer [[ai-literacy|AI-kompetence]] mindre som accept og mere som **regulatorisk kompetence**, altså evnen til at stille spørgsmålstegn ved output, revidere selektivt og fastholde forfatterskabsansvar.([[ai-anxiety-strategic-regulation-writing-2026]]) At indramme AI-brug for elever betyder at kanalisere produktiv bekymring mod evaluering, ikke at undertrykke den.
 
 ### Brug målrettede budskaber til at forme specifikke adfærdsmønstre
 

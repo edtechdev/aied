@@ -12,8 +12,8 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
-updated: "2026-10-27T16:45:47-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,9 @@ Kolme esirekisteröityä koetta mukautti kognitiivisen reflektion testiä (Cogni
 
 Käytännön tulkinta on, että antautuminen on **erottelukyvyn epäonnistuminen** eikä motivaation epäonnistuminen. Antautuneet osallistujat eivät yrittäneet välttää työtä; he eivät pystyneet erottamaan hyvää neuvoa huonosta, eikä käyttöliittymä antanut heille mitään syytä yrittää.
 
+
+Esirekisteröity koe, jonka [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] raportoi, tarjoaa vastakkaisen konfiguraation. Kun avustaja oli aidattu [[rag|hakutiivistetyllä generoinnilla]] annettuun työarkkiin, tekoälyehto laski kognitiivista siirtokuormitusta (mediaani −0,27) sen nostamisen sijaan, eikä mikään siirtokuormituspolku kantanut jäsentymättömyyden nousua (0,84). Antautuminen vaatii avustajan, jonka neuvo voidaan omaksua sellaisenaan; järjestelmä, joka vastaa vain käsillä olevasta aineistosta, antaa oppijalle vähemmän omaksuttavaa ja enemmän sovitettavaa.
+
 ## Antautuminen laboratorion ulkopuolella
 
 Laboratoriolöydökset sopivat yhteen kenttä- ja havainnointityön kanssa, joka päätyi itsenäisesti samaan sanaan.
@@ -81,6 +84,8 @@ Laboratoriolöydökset sopivat yhteen kenttä- ja havainnointityön kanssa, joka
 - **Riippuvainen ja autonominen tila erottuvat vain seurauksissa.** [[family-school-autonomy-support-genai-2026|Fan, Li ja Zhang (2026)]] seuraavat 589 opiskelijaa ja uran alkuvaiheen työntekijää kolmen aallon yli: riippuvainen siirtokuormitus siirsi ydinaiheen ajattelua ja seurasi heikompaa sisäistä motivaatiota, kun taas autonominen siirtokuormitus ei, ja välitön suoriutuminen näytti molemmissa samalta.
 - **Mallin oma panos.** [[sycophantic-ai-social-interaction-2026|Mielistely]] on antautumisen vastinpari: avustaja, joka on samaa mieltä, lieventää käyttäjän kehystystä kohti tai esittää väitteen sujuvasti, ei anna oppijalle mitään, mitä vasten työntää.
 - **Vieroitus on ratkaisematon puolisko.** [[cognitive-washout-ai-skill-decay-2026|Kognitiivisen huuhtoutumisen työ]] huomauttaa, että lähes kaikki tämä tutkimus mittaa kognitiota tekoälyn käytön *aikana* ja lähes mikään ei mittaa sitä, mitä tapahtuu, kun avustaja otetaan pois, ja juuri sen kysymyksen tentti, käyttökatko tai lisenssin tarkistus asettaa.
+
+- **"Koko esseen delegointi pysyy hypoteettisena laboratorion ulkopuolella."** Se tapahtui yhden istunnon verkkotutkimuksessa ilman politiikkaa ja ilman kannustusta. **77** korkeakoulukirjoittajasta **15 (19,5 %)** palautti esseitä, jotka olivat **100-prosenttisesti** mallin kirjoittamia, kirjoittamatta sanaakaan editoriin, ja **20** osallistujaa pyysi suoraan kokonaista esseetä, mikä oli suunnitelman käytetyin koodi. Raskain käyttäjä lähetti **27** kyselyä. [[jelson-students-chatgpt-essay-writing-2026|Antautuminen näkyi pyyntökuviona]], ei yksittäisenä havaittavana tekona.
 
 ## Suunnittelu ja opetus antautumista vastaan
 
@@ -116,7 +121,7 @@ Evidenssi antautumisesta nimettynä konstruktiona nojaa vahvasti yhteen laborato
 - [[critical-thinking]]
 - [[agency]]
 - [[metacognition]]
-- [[self-regulated-learning]]
+- [[self-directed-learning]]
 - [[ai-literacy]]
 - [[trust-calibration]]
 - [[human-in-the-loop-ai]]
@@ -140,3 +145,6 @@ Evidenssi antautumisesta nimettynä konstruktiona nojaa vahvasti yhteen laborato
 - [[brcic-effortless-trap-productive-struggle-2026]] — tekoälyn sijoittaminen niin, että tehtävä pysyy vaativana
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibrointiharjoittelu
 - [[family-school-autonomy-support-genai-2026]] — riippuvainen vastaan autonominen siirtokuormitus
+
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — työarkkiin sidottu avustaja laski siirtokuormitusta sen nostamisen sijaan: antautumisen allekirjoituksen rajaehto (Braun 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — naturalistinen koko esseen delegointi: 15 esseetä 77:stä täysin mallin kirjoittamia, 20 pyyntöä kokonaisesta esseestä (Jelson et al. 2026)

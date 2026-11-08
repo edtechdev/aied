@@ -10,8 +10,8 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
-updated: "2026-10-27T16:45:47-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Pohdittavaksi
 
 - Pelkkä tekoälyn saattaminen opiskelijoiden saataville liittyi tehottomaan tai jopa epäeettiseen käyttöön, kun taas asianmukaisen käytön selkeä kehystäminen ja juurruttaminen paransi tuloksia. Jos työkalun olemassaolo merkitsee vähemmän kuin se, miten se kehystetään, mitä se kertoo painotuksesta, jossa opiskelijoille yksinkertaisesti "annetaan tekoäly"?
-- Useimmat opiskelijat käyttävät generatiivista tekoälyä, moni on epävarma siitä, onko heidän käyttönsä sääntöjen mukaista, ja he nojaavat yksityisesti hankittuihin työkaluihin institutionaalisesti tarjottujen sijaan. Jos sääntöjen tunteminen tuskin muuttaa sitä, mitä opiskelijat tekevät, mikä voisi suostutella pelkän tiedottamisen sijaan?
+- Useimmat opiskelijat käyttävät [[generative-ai|generatiivista tekoälyä]], moni on epävarma siitä, onko heidän käyttönsä sääntöjen mukaista, ja he nojaavat yksityisesti hankittuihin työkaluihin institutionaalisesti tarjottujen sijaan. Jos sääntöjen tunteminen tuskin muuttaa sitä, mitä opiskelijat tekevät, mikä voisi suostutella pelkän tiedottamisen sijaan?
 - Kun instituutiot vastaavat tekoälyyn pelolla ja tuomitsemisella, opiskelijat voivat piilottaa tai rationalisoida käyttönsä sen sijaan, että oppisivat käyttämään sitä hyvin. Oletko nähnyt "moraalisen paniikin" reaktion työntävän opiskelijoita salailuun? Miltä uudelleen kehystetty, mahdollisuuksiin keskittyvä lähestymistapa näyttäisi?
 - Tekoälyahdistus ei ole pelkästään este: opiskelijat, jotka olivat huolissaan tarkkuudesta ja plagioinnista, olivat *todennäköisemmin* tarkistamassa ja muokkaamassa tekoälyn tuotosta sen sijaan, että olisivat hyväksyneet sen kritiikittömästi. Miten tuottava ahdistus voitaisiin ohjata arviointikyvyksi sen sijaan, että se tukahdutetaan?
 - Opiskelijat rakentavat oman käsityksensä hyväksyttävästä "paikoista" - opettajien aikomuksista, kurssidokumenteista, vertaisnormeista ja institutionaalisista viesteistä - jotka usein eroavat toisistaan. Kun nämä viestit ovat ristiriidassa, mikä niistä mielestäsi todella voittaa, ja miten kehystäminen sulkee tuon kuilun?
@@ -41,7 +41,7 @@ Konsepti sijoittuu kahden tutumman konseptin väliin. Siinä missä [[technology
 
 Kehystäminen on merkityksellistä siksi, että **käytännöt ja säännöt eivät muuta käyttäytymistä luotettavasti itsestään**. Kyselyihin nojaava [[research-methods-aied|tutkimus]] [[regulation|sääntelytietoisuudesta]] havaitsee, että opiskelijoiden tietämys institutionaalisista GenAI-säännöistä osoittaa vain heikkoja tai kohtalaisia yhteyksiä siihen, mitä he todella tekevät ([[student-regulatory-awareness-genai]]). Sääntöjen tunteminen on välttämätöntä mutta ei riittävää; viestin täytyy *suostutella*, ei vain tiedottaa.
 
-Eriytetty kehystäminen voi syntyä yhden käytännön sisällä eikä vain paikkojen välillä: 36 yliopistokäytännön tunneanalyysi havaitsi, että opetusta koskevat lausumat kehystettiin myönteisesti, kun taas GenAI- ja etiikkalausumat kehystettiin kielteisesti, joten opiskelijat kohtasivat kannustusta ja pidättäytymistä samassa dokumentissa ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
+Eriytetty kehystäminen voi syntyä yhden käytännön sisällä eikä vain paikkojen välillä: 36 yliopistokäytännön [[affective-computing|tunneanalyysi]] havaitsi, että opetusta koskevat lausumat kehystettiin myönteisesti, kun taas GenAI- ja etiikkalausumat kehystettiin kielteisesti, joten opiskelijat kohtasivat kannustusta ja pidättäytymistä samassa dokumentissa ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 Kehys muovaa myös sitä, kokevatko opiskelijat tekoälyn **uhkana, jota pitää välttää tai kiertää**, vai **resurssina, jota käytetään tarkoituksellisesti**. Kun instituutiot vastaavat tekoälyyn pelolla ja tuomitsemisella - mitä eräs tutkimuslinja kutsuu toistuvaksi "moraaliseksi paniikiksi" - ne työntävät opiskelijat piilottamaan tai rationalisoimaan käyttönsä sen sijaan, että he oppisivat käyttämään sitä hyvin.([[moral-panic-genai-classroom]]) Ahdistuksen ja tuomitsemisen kehystäminen uudelleen jäsennellyksi mahdollisuudeksi muuttaa koko dynamiikan siinä, miten opiskelijat [[student-engagement|sitoutuvat]] tekoälyyn.
 
@@ -61,7 +61,7 @@ Suorin kehystämisvipu tietopohjassa on rajan *perustelun* tarjoaminen tehtävä
 
 ### Kehystä ahdistus ja epävarmuus uudelleen arviointikyvyksi
 
-[[mixed-methods-research|Monimenetelmäinen]] tutkimus akateemisesta [[writing-education|kirjoittamisesta]] havaitsi, että tekoälyahdistus ei ole pelkästään este: opiskelijat, jotka olivat huolissaan tarkkuudesta ja plagioinnista, olivat *todennäköisemmin* tarkistamassa, ristiinvalidoimassa ja muokkaamassa tekoälyn tuotosta sen sijaan, että olisivat hyväksyneet sen kritiikittömästi. Tutkimus kehystää [[ai-literacy|tekoälylukutaidon]] vähemmän hyväksynnäksi ja enemmän **sääntelykyvyksi** - kyvyksi kyseenalaistaa tuotoksia, muokata valikoivasti ja säilyttää tekijyyden vastuu.([[ai-anxiety-strategic-regulation-writing-2026]]) Tekoälyn käytön kehystäminen oppilaille tarkoittaa tuottavan ahdistuksen ohjaamista arviointiin, ei sen tukahduttamista.
+[[mixed-methods-research|Monimenetelmäinen]] tutkimus akateemisesta [[writing-education|kirjoittamisesta]] havaitsi, että [[anxiety-and-stress|tekoälyahdistus]] ei ole pelkästään este: opiskelijat, jotka olivat huolissaan tarkkuudesta ja plagioinnista, olivat *todennäköisemmin* tarkistamassa, ristiinvalidoimassa ja muokkaamassa tekoälyn tuotosta sen sijaan, että olisivat hyväksyneet sen kritiikittömästi. Tutkimus kehystää [[ai-literacy|tekoälylukutaidon]] vähemmän hyväksynnäksi ja enemmän **sääntelykyvyksi** - kyvyksi kyseenalaistaa tuotoksia, muokata valikoivasti ja säilyttää tekijyyden vastuu.([[ai-anxiety-strategic-regulation-writing-2026]]) Tekoälyn käytön kehystäminen oppilaille tarkoittaa tuottavan ahdistuksen ohjaamista arviointiin, ei sen tukahduttamista.
 
 ### Käytä kohdennettuja viestejä muokataksesi tiettyjä käyttäytymisiä
 

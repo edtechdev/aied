@@ -6,9 +6,9 @@ confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
-updated: "2026-11-04T02:10:52-05:00"
+updated: "2026-11-08T06:32:22-05:00"
 translation_of: "concepts/human-ai-collaboration"
-source_updated: "2026-10-31T10:35:00-04:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,6 @@ Bukti dalam basis pengetahuan ini menunjukkan bahwa kolaborasi manusia–AI adal
 - **Kepercayaan harus dikalibrasi, bukan diasumsikan.** Kolaborasi yang produktif bergantung pada siswa yang mengkalibrasi secara akurat kapan harus mengandalkan dan kapan harus memverifikasi keluaran AI — terkait dengan [[trust-calibration]] dan [[human-in-the-loop-ai|pengawasan manusia]], bukan penerimaan buta atau penolakan menyeluruh.
 - **Peringatan afektif adalah isyarat yang ditafsirkan guru, bukan instruksi untuk dipatuhi.** Dalam satu pelajaran geometri sekolah menengah, peringatan emosi sistem AI mendahului langkah guru yang sangat berbeda, dan langkah itulah — pembingkaian ulang tugas, penegasan singkat, atau non-intervensi yang disengaja — yang mengubah keterlibatan, sehingga peringatan itu berfungsi sebagai satu masukan di antara hal-hal yang dapat diamati guru ([[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]]).
 
-
 - **Kolaborasi guru–AI bermata dua untuk keterlibatan kerja, bukan hanya untuk pembelajaran.** Dalam survei tiga gelombang terhadap 468 dosen universitas, kolaborasi meningkatkan keterlibatan kerja melalui ketersediaan psikologis (tidak langsung 0.19) tetapi menurunkannya melalui alienasi kerja (tidak langsung −0.03); [[teacher-ai-competency|kompetensi digital]] memoderasi keduanya, mendatarkan kemiringan alienasi dari 0.38 ke 0.17 ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 
 - **Pembagian kerja mengikuti kredibilitas, bukan kapabilitas.** Apa yang siswa tetapkan adalah alokasi berprinsip: AI untuk umpan balik bahasa yang segera dan berlaku luas, dan instruktur untuk bimbingan individual yang relasional, ditetapkan berdasarkan kredibilitas yang dipersepsikan dari masing-masing sumber, bukan akurasinya, karena kendala pengikat bagi ketergantungan adalah kepedulian yang dipersepsikan, bukan kompetensi ([[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor, 2026]]).
@@ -87,10 +86,12 @@ Ini menjadikan kolaborasi manusia–AI sebagai konstruk *pedagogis* sama seperti
 - **Komplementaritas bersifat kondisional, bukan sifat bawaan tim.** [[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al. (2026)]] menemukan bahwa tim manusia–AI mengalahkan manusia dan AI saja hanya pada satu dari enam kondisi — kasus menantang di mana AI *kurang* akurat daripada manusia — dan melaporkan tidak ada keunggulan tim yang konsisten di tempat lain, sehingga menambahkan mitra AI bukan dengan sendirinya jalan menuju kinerja komplementer.
 - **Program profesional mengalihkan pelatihan dari produksi rutin ke kompetensi kolaborasi (sebuah protokol desain):** [[wang-agentic-translation-education-2026|Wang (2026)]] mengusulkan kerangka berbasis desain untuk pendidikan penerjemah yang dibangun di sekitar inventaris perpindahan tugas (18 subtugas dinilai untuk kemungkinan perpindahan oleh AI dengan tag provenans [E]/[P]) dan empat kompetensi yang dialihkan: pengetahuan lintas disiplin, orkestrasi AI, pertimbangan strategis, dan evaluasi AI yang kritis. Kerangka ini adalah protokol yang telah diregistrasi sebelumnya tanpa data empiris; kontribusinya adalah metodenya — analisis perpindahan yang dapat diaudit plus jalur kodesain untuk reformasi kurikulum — yang dapat ditransfer ke program profesional mana pun yang tugas rutinnya semakin banyak dilakukan sistem agentik.
 
-
 - **Jenis keterjalinan berbeda dalam apa yang mereka tuntut dari siswa, dan itulah sebabnya sebagian tetap jarang.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn dan Rehm (2026)]] mengklasifikasikan 102 studi pendidikan tinggi menurut bagaimana kerja epistemik dibagi antara siswa dan sistem (Asisten, Pemungkin, Penseis, Penghasil, Pencipta Ulang) dan menemukan bahwa dua bentuk yang menjaga kompetensi tetap dapat diatribusikan kepada siswa individu masing-masing mencakup 42.16% korpus, sementara bentuk-bentuk yang mendistribusikan kepengarangan tetap marginal. Penjelasan mereka bersifat institusional, bukan teknis: jenis yang jarang meminta siswa mengambil tanggung jawab epistemik atas keluaran yang tidak mereka hasilkan sementara tetap dinilai sebagai penulis individu, dan kontradiksi itulah — bukan pembagian kerja itu sendiri — yang menjauhkan mereka dari praktik. Respons desainnya adalah membuat distribusi kerja epistemik eksplisit, mengurutkan aktivitas di seluruh spektrum, dan membangun refleksi tentang bagaimana tanggung jawab dibagi.
 
 - **Membimbing, bukan memberi tahu, memerlukan kriterianya sendiri untuk menilai agen.** Sebuah kasus desain yang bermaksud meniru fasilitasi guru menemukan bahwa agen pengetahuan yang dibatasi pada basis terkurasi dapat dinilai berdasarkan akurasi, sementara agen yang dimaksudkan untuk menuntun siswa menuju jawaban mereka sendiri tidak dapat ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+
+- **Memiliki sebuah karya tidak sama dengan mengarangnya.** [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026|Hong et al. (2026)]] menamai *defisit legitimasi kepengarangan*: seseorang dapat mengalami keluaran sebagai miliknya sendiri tetapi tidak mampu menjamin peran pengarang, karena kepemilikan psikologis, rasa [[agency|agensi]], dan pertanggungjawaban untuk merilis karya adalah jalur terpisah yang belum tentu selaras. *Labor nexus of authorship* mereka mengklasifikasikan kontribusi per peran, sehingga satu catatan dapat mendukung klaim editorial sekaligus gagal memenuhi klaim pencipta tunggal. Uraian ini adalah analisis konseptual tanpa data dan tanpa model yang diuji, sehingga defisit itu merupakan konstruk yang diusulkan yang prediksinya belum teruji.
+- **Kemitraan meluas ke proses penelitian itu sendiri, bukan hanya pembelajaran siswa** — [[potter-participatory-design-writing-analytics-2026|Potter et al. (2026)]] membiarkan GPT-4o menyusun kode dan tema awal di platform RAG yang aman sementara tiga peneliti inti dan dua validator eksternal mempertahankan otoritas interpretatif, lalu mengonsolidasikan empat tema akhir. Alur kerja hibrida ini mendistribusikan ulang kerja peneliti alih-alih menghapusnya.
 
 ### Koneksi
 
@@ -166,3 +167,5 @@ Kolaborasi manusia–AI terhubung ke [[human-in-the-loop-ai]] (pengawasan), [[ag
 - [[teacher-ai-collaboration-work-engagement-2026]] — Jalur berlawanan kolaborasi guru–AI menuju keterlibatan kerja melalui ketersediaan psikologis dan alienasi kerja, dibatasi oleh kompetensi digital
 - [[wang-agentic-translation-education-2026]] — Protokol desain yang mengalihkan pendidikan penerjemah ke orkestrasi AI, pertimbangan strategis, dan kompetensi evaluasi kritis (belum ada data empiris)
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Peringatan afektif adalah isyarat yang ditafsirkan guru, bukan instruksi untuk dipatuhi
+
+- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Defisit legitimasi kepengarangan dalam ko-kreasi manusia–AI

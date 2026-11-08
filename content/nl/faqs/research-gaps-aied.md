@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T14:57:55-04:00"
+updated: "2026-11-08T05:10:57-05:00"
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
@@ -67,7 +67,7 @@ Het resterende hiaat betreft trajecten van bekwaamheid, en één extra nameting 
 
 „AI-ondersteund leren” bundelt meestal verschillende veranderingen: nieuwe feedback, toegevoegde reflectie, discussie met medestudenten, andere taaksequenties, gewijzigde beoordelingsprikkels. Een pakket dat slaagt, vertelt u niet welke componenten noodzakelijk waren.
 
-[[genai-feedback-design-multisite-experiment|Mensgericht ontwerp van GenAI-feedback]] is op die vraag een echte stap vooruit. Onder 1.176 eerstejaarsstudenten presteerden reflectieve en hybride ontwerpen beter dan directe [[ai-feedback-quality|AI-feedback]] op uitgestelde transfer zonder AI. De hybride conditie combineerde zelfevaluatie, [[peer-assessment|feedback van medestudenten]] en AI-kritiek. Dat scheidt hoe feedback is georganiseerd en gebruikt van de vraag of studenten überhaupt toegang tot feedback hebben.
+[[genai-feedback-design-multisite-experiment|Mensgericht ontwerp van GenAI-feedback]] is op die vraag een echte stap vooruit. Onder 1.176 eerstejaarsstudenten presteerden reflectieve en hybride ontwerpen beter dan directe [[ai-feedback-quality|AI-feedback]] op uitgestelde transfer zonder AI. De hybride conditie combineerde [[self-assessment|zelfevaluatie]], [[peer-assessment|feedback van medestudenten]] en AI-kritiek. Dat scheidt hoe feedback is georganiseerd en gebruikt van de vraag of studenten überhaupt toegang tot feedback hebben.
 
 Nog open: de bijdrage en timing van eerste zelfstandige pogingen, zelfverklaring, inbreng van medestudenten, corrigerende feedback, hints en het afbouwen van hulp, en hoe elk daarvan samenhangt met [[prior-knowledge|voorkennis]] en taakmoeilijkheid.
 
@@ -87,7 +87,7 @@ AI creëert twee samenhangende beoordelingsproblemen: het helpt bij het producer
 
 De [[ai-agents-complete-lms-assessment-validity-2026|studie in de kennisbank naar AI-agenten die beoordeelde LMS-taken uitvoeren]] documenteert agenten die een lopende bachelorcursus doorlopen en beoordeelde activiteiten afronden. Dat toont een bekwaamheid die aannames over door studenten geproduceerd bewijs uitdaagt. Het stelt niet vast hoe vaak zulk gebruik voorkomt, en het maakt asynchrone beoordeling als categorie niet ongeldig.
 
-De onderzoeksvraag is welke ontwerpen nog verdedigbare conclusies over de lerende ondersteunen. [[eportfolio|Portfolio's]], reflecties, gefaseerde inleveringen en activiteitenlogboeken moeten als bewijs worden gevalideerd in plaats van verondersteld auteurschap of begrip vast te stellen. Onderzoek zou combinaties van bewijs moeten toetsen tegen onafhankelijk waargenomen bekwaamheid, met aandacht voor toegankelijkheid, werklast, privacy en spanning bij studenten. [[assessment-validity|Validiteit van beoordeling]] bevat de details.
+De onderzoeksvraag is welke ontwerpen nog verdedigbare conclusies over de lerende ondersteunen. [[eportfolio|Portfolio's]], reflecties, gefaseerde inleveringen en activiteitenlogboeken moeten als bewijs worden gevalideerd in plaats van verondersteld auteurschap of begrip vast te stellen. Onderzoek zou combinaties van bewijs moeten toetsen tegen onafhankelijk waargenomen bekwaamheid, met aandacht voor toegankelijkheid, werklast, privacy en [[anxiety-and-stress|spanning bij studenten]]. [[assessment-validity|Validiteit van beoordeling]] bevat de details.
 
 Voor [[automated-assessment|geautomatiseerde scoring]] rapporteert [[llms-do-not-grade-essays-like-humans-2026|LLM's beoordelen essays niet zoals mensen]] systematische onenigheid tussen standaardmodellen en menselijke beoordelaars. De bevindingen zijn specifiek voor de configuratie, en ze laten zien waarom interne consistentie geen validiteitsclaim kan dragen.
 
@@ -105,11 +105,11 @@ Dat vereist prestatiegerichte beoordeling gecombineerd met observatie van feitel
 
 ## Rapporteer wie de bevinding buiten beschouwing laat
 
-Bevindingen uit één cursus, instelling, taal of leerlingpopulatie rechtvaardigen zelden beslissingen elders, een probleem dat de synthese [[limitations-in-aied-research|Beperkingen in AIEd-onderzoek]] als terugkerend behandelt. Hoe effecten variëren naar ontwikkelingsfase, discipline, voorkennis, beperking, taal en hulpbronnen blijft grotendeels ongemeten.
+Bevindingen uit één cursus, instelling, taal of [[learners|leerlingpopulatie]] rechtvaardigen zelden beslissingen elders, een probleem dat de synthese [[limitations-in-aied-research|Beperkingen in AIEd-onderzoek]] als terugkerend behandelt. Hoe effecten variëren naar ontwikkelingsfase, discipline, voorkennis, beperking, taal en hulpbronnen blijft grotendeels ongemeten.
 
 Onderzoek naar kansengelijkheid moet ook toegang, vaardigheden en uitkomsten scheiden. De synthese [[digital-divide|Digitale kloof]] is duidelijk dat apparaten en toegang tot hulpmiddelen geen gelijk vermogen opleveren om ervan te profiteren. [[school-ai-education-readiness-gaps-agency-2026|Vermindert AI-onderwijs op school de kloven in gereedheid?]] volgde 752 leerlingen in het junior secundair onderwijs in Hongkong: kloven in psychologische gereedheid vernauwden terwijl verschillen op een objectieve AI-geletterdheidstoets bleven bestaan. Elke groep verbeterde, en de ongelijkheid sloot niet. Eerdere leerprofielen waren niet willekeurig toegewezen, dus hun causale rol blijft onbekend.
 
-De dekking is op specifieke plaatsen dun. [[differential-effects-across-learner-groups|Differentiële effecten tussen leerlinggroepen]] telt de literatuur per populatie: tweede-taalleerders en meertalige leerlingen en leerlingen met een beperking vormen de diepste stromen, gender en neurodiversiteit komen daarna, eerste-generatiestudenten en internationale studenten hebben elk één studie in dit corpus, hoogbegaafde en zeer sterk presterende leerlingen zijn feitelijk onbestudeerd, en vluchtelingen, immigranten en ontheemde leerlingen komen in geen enkele studie voor. Een bewijsbasis met die vorm kan een vraag over kansengelijkheid niet door aggregatie beantwoorden.
+De dekking is op specifieke plaatsen dun. [[differential-effects-across-learner-groups|Differentiële effecten tussen leerlinggroepen]] telt de literatuur per populatie: tweede-taalleerders en [[multilingual-learning|meertalige leerlingen]] en [[inclusive-learning|leerlingen met een beperking]] vormen de diepste stromen, gender en [[neurodiversity|neurodiversiteit]] komen daarna, eerste-generatiestudenten hebben twee studies (één verschil in gebruik en één effectschatting), en internationale studenten één, hoogbegaafde en zeer sterk presterende leerlingen zijn feitelijk onbestudeerd, en vluchtelingen, immigranten en ontheemde leerlingen komen in geen enkele studie voor. Een bewijsbasis met die vorm kan een vraag over kansengelijkheid niet door aggregatie beantwoorden.
 
 Ook binnen één nationaal systeem verschilt de capaciteit. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] scoorden AI-integratie bij 45 Nigeriaanse universiteiten en vonden een matige adoptie overall (M = 4,79, bereik 1,83-7,83 op een schaal van 10 punten), waarbij het type instelling de integratie niet voorspelde zodra leeftijd en geografie waren gecontroleerd (leeftijd β = 0,43; ligging in het zuidwesten β = 0,31). Interne capaciteiten correleerden onderling met r = 0,79-0,80 en internationale samenwerkingen met partnerschappen met het bedrijfsleven met r = 0,74, zodat verbonden instellingen elkaar versterkende voordelen opbouwen. Welke ontwerpen voor capaciteitsopbouw uitkomsten veranderen bij nieuwere, minder verbonden instellingen is ongetoetst.
 
@@ -183,7 +183,7 @@ Docenten die de versie op klasniveau willen, kunnen [[evaluating-ai-intervention
 
 **„De gepoolde effectgrootte vertelt me al wat werkt.”** De 14 geauditeerde meta-analyses definieerden de behandeling als een hulpmiddel, poolden onverenigbare uitkomsten en rapporteerden I² boven 80% in 12 van de 13 analyses die het gaven. Het gepoolde getal beschrijft een reeks studies met een constructprobleem.
 
-**„Gesimuleerde leerlingen zijn goedkoper, dus validatie kan wachten.”** In het onderzoek naar vleierij lieten gesimuleerde leerlingen misvattingen vallen ongeacht of de feedback die behandelde, en dat is precies het faalpatroon waardoor een ineffectieve tutor effectief lijkt.
+**„Gesimuleerde leerlingen zijn goedkoper, dus validatie kan wachten.”** In het onderzoek naar [[ai-sycophancy|vleierij]] lieten gesimuleerde leerlingen misvattingen vallen ongeacht of de feedback die behandelde, en dat is precies het faalpatroon waardoor een ineffectieve tutor effectief lijkt.
 
 ## Wat u deze week kunt doen
 

@@ -9,7 +9,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-02T09:55:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,8 @@ SAMR sıkça [[icap-framework|ICAP çerçevesi]] ile eşlenir, çünkü ikisi uy
 - **SAMR, posthümanist eleştirinin hedefidir.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]], TPACK, SAMR ve [[ai-literacy]] modellerini, teknolojik aracılıkla temelden değişmeyen sınırlı bir öğrenen varsayan hümanist bir ontolojiyi paylaşmakla eleştirir ve bu enstrümantalist çerçevelerin YZ’nin bilişteki yapıcı rolünü ele alamayacağını savunur.
 - **Tümleştirme için bir çerçeve, güç için bir çerçeve değil.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]], SAMR’yi TPACK ve diğer tümleştirme çerçeveleriyle birlikte değerlendirir ve bunların hiçbirinin eşit güç, veri mülkiyeti veya hesap verebilirliği ele almadığını bulur; alternatif bir ekolojik ortak-etkililik çerçevesini gerekçelendirir.
 - **Öğrenci kullanımı da SAMR’ye eşlenir ve geri bildirim her düzeyi kapsar.** Bir [[physics-education|fizik]] ünitesinde 31–36 öğrencinin üretici YZ beyanlarını kodlamak, öğrenmeyi yerine koyma–güçlendirmede, biçimlendirmeyi yerine koymada ve görev yapmayı değiştirme–yeniden tanımlamada yerleştirdi; geri bildirim ise — kontrol etme, açıklık getirme, doğrulama — dört düzeyin hepsinde görüldü ([[genai-use-changing-institutional-policy-physics-2026|Quince ve Faulconer (2026)]]).
+
+- **Derinlik ve kapsayıcılık ayrı eksenlerdir.** [[jita-ai-mathematics-classrooms-inclusion-2026|Jita, Jita ve Omoniyi (2026)]], SAMR'yi 38 kaynak genelinde [[universal-design-for-learning|UDL]] ile eşleştirir ve Yeniden Tanımlama düzeyindeki görevlerin bile dili, cihazı veya bağlantısı tasarıma uymayan öğrencileri dışlayabileceğini savunur.
 
 ## SAMR, TPACK ve teknoloji benimseme: nasıl farklılaşırlar
 
@@ -102,3 +104,5 @@ SAMR, planlama ve değerlendirmede kullanılan bir tümleştirme derinliği merc
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — SAMR’nin hümanist ontolojisinin posthümanist eleştirisi
 - [[reclaiming-epistemic-agency-co-agency-2026]] — SAMR’nin güç, veri mülkiyeti ve hesap verebilirlik konusundaki sessizliği
 - [[genai-use-changing-institutional-policy-physics-2026]] — Değişen kurumsal politikalara karşı öğrenci üretici YZ kullanımı: SAMR düzeylerine eşlenen kullanım işlevleri (Quince & Faulconer 2026)
+
+- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI in Mathematics Classrooms: A Synergistic Strategy for Diversity and Inclusivity

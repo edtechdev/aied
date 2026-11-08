@@ -12,8 +12,8 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
-updated: "2026-10-27T16:52:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,9 @@ Tri su predregistrirana eksperimenta prilagodila Test kognitivne refleksije i ra
 
 Praktično čitanje jest da je predaja **neuspjeh razlikovanja**, a ne neuspjeh motivacije. Sudionici koji su predali nisu pokušavali izbjeći rad; nisu mogli razlikovati dobar savjet od lošeg, a sučelje im nije dalo razloga da to pokušaju.
 
+
+Preregistrirani eksperiment koji izvješćuje [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026.)]] daje suprotnu konfiguraciju. Kad je pomoćnik bio omeđen [[rag|dohvaćanjem s potporom]] na zadani radni list, uvjet s umjetnom inteligencijom snizio je kognitivno rasterećenje (medijan −0,27) umjesto da ga podigne, a nikakav put rasterećenja nije nosio porast neorganiziranosti (0,84). Predaja treba pomoćnika čiji se savjet može prihvatiti u cijelosti; sustav koji odgovara samo iz prisutnog materijala daje učeniku manje za prihvatiti i više za uskladiti.
+
 ## Predaja izvan laboratorija
 
 Nalazi iz laboratorija podudaraju se s terenskim i opservacijskim radom koji je neovisno posegnuo za istom riječi.
@@ -81,6 +84,8 @@ Nalazi iz laboratorija podudaraju se s terenskim i opservacijskim radom koji je 
 - **Zavisni i autonomni načini razlikuju se samo po posljedici.** [[family-school-autonomy-support-genai-2026|Fan, Li i Zhang (2026)]] prate 589 učenika i radnika na početku karijere kroz tri vala: zavisno rasterećenje prenosilo je sržno mišljenje i bilo povezano sa slabijom unutarnjom motivacijom, dok autonomno rasterećenje nije, a neposredna je izvedba izgledala jednako u oba slučaja.
 - **Doprinos samog modela.** [[sycophantic-ai-social-interaction-2026|Podlizivanje]] je dopuna predaji: pomoćnik koji se slaže, ograđuje se prema korisnikovu okviru ili tečno iznosi tvrdnju učeniku ne daje ništa protiv čega bi se mogao oduprijeti.
 - **Povlačenje je neriješena polovica.** [[cognitive-washout-ai-skill-decay-2026|Rad o kognitivnom ispiranju]] ističe da gotovo sve to istraživanje mjeri kogniciju *tijekom* upotrebe umjetne inteligencije, a gotovo nijedno ne mjeri što se događa kad se pomoćnik ukloni, a to je upravo pitanje koje postavlja ispit, prekid rada ili revizija licence.
+
+- **„Delegiranje cijelog eseja ostaje hipotetsko izvan laboratorija.“** Dogodilo se u jednosjednoj online studiji bez politike i bez poticaja. Od **77** studenta koji pišu, **15 (19,5 %)** predalo je eseje koje je **100 %** napisao model, bez napisane riječi u editoru, a **20** sudionika izravno je zatražilo cijeli esej, najkorišteniji kod u shemi. Najteži korisnik poslao je **27** upita. [[jelson-students-chatgpt-essay-writing-2026|Predaja se pokazala kao obrazac zahtjeva]], a ne kao jedan uočljiv čin.
 
 ## Oblikovanje i poučavanje protiv predaje
 
@@ -116,7 +121,7 @@ Dokazi za predaju kao imenovani konstrukt uvelike se oslanjaju na jedan program 
 - [[critical-thinking]]
 - [[agency]]
 - [[metacognition]]
-- [[self-regulated-learning]]
+- [[self-directed-learning]]
 - [[ai-literacy]]
 - [[trust-calibration]]
 - [[human-in-the-loop-ai]]
@@ -140,3 +145,6 @@ Dokazi za predaju kao imenovani konstrukt uvelike se oslanjaju na jedan program 
 - [[brcic-effortless-trap-productive-struggle-2026]] — smještanje umjetne inteligencije tako da zadatak ostane zahtjevan
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — obuka u kalibraciji
 - [[family-school-autonomy-support-genai-2026]] — zavisno nasuprot autonomnom rasterećenju
+
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — pomoćnik omeđen radnim listom snizio je rasterećenje umjesto da ga podigne: rubni uvjet za potpis predaje (Braun 2026.)
+- [[jelson-students-chatgpt-essay-writing-2026]] — naturalističko delegiranje cijelog eseja: 15 od 77 eseja potpuno napisao model, 20 zahtjeva za cijeli esej (Jelson i sur. 2026.)

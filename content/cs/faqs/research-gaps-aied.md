@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T11:57:27-04:00"
+updated: "2026-11-08T05:10:57-05:00"
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
@@ -67,7 +67,7 @@ Zbývající mezera se týká trajektorií schopnosti a jeden přidaný posttest
 
 „Učení s podporou AI“ obvykle spojuje několik změn: novou zpětnou vazbu, přidanou reflexi, diskusi se spolužáky, jiné sledy úkolů, pozměněné pobídky v hodnocení. Balík, který uspěje, vám neřekne, které složky byly nutné.
 
-Skutečným pokrokem v této otázce je [[genai-feedback-design-multisite-experiment|design zpětné vazby GenAI zaměřený na člověka]]. U 1 176 studentů prvního ročníku vedly reflektivní a hybridní návrhy k lepšímu odloženému přenosu bez AI než přímá [[ai-feedback-quality|zpětná vazba od AI]]. Hybridní podmínka spojila sebehodnocení, [[peer-assessment|vzájemnou zpětnou vazbu]] a kritiku od AI. To odděluje, jak je zpětná vazba organizována a využívána, od toho, zda k ní studenti vůbec mají přístup.
+Skutečným pokrokem v této otázce je [[genai-feedback-design-multisite-experiment|design zpětné vazby GenAI zaměřený na člověka]]. U 1 176 studentů prvního ročníku vedly reflektivní a hybridní návrhy k lepšímu odloženému přenosu bez AI než přímá [[ai-feedback-quality|zpětná vazba od AI]]. Hybridní podmínka spojila [[self-assessment|sebehodnocení]], [[peer-assessment|vzájemnou zpětnou vazbu]] a kritiku od AI. To odděluje, jak je zpětná vazba organizována a využívána, od toho, zda k ní studenti vůbec mají přístup.
 
 Otevřené zůstává: přínos a načasování prvních samostatných pokusů, sebevysvětlování, vstupu spolužáků, korektivní zpětné vazby, nápověd a postupného odebírání pomoci a to, jak každá z těchto složek interaguje s [[prior-knowledge|předchozími znalostmi]] a obtížností úkolu.
 
@@ -87,7 +87,7 @@ AI vytváří dva spojené problémy hodnocení: pomáhá vyrábět práci, kter
 
 Studie z této znalostní báze o agentech AI, kteří plní [[ai-agents-complete-lms-assessment-validity-2026|hodnocené úkoly v LMS]], dokumentuje agenty, kteří procházeli živým bakalářským kurzem a dokončovali hodnocené aktivity. To ukazuje schopnost, která zpochybňuje předpoklady o dokladech vytvořených studentem. Neustavuje, jak časté takové použití je, a nezbavuje platnosti asynchronní hodnocení jako kategorii.
 
-Výzkumná otázka zní, které designy ještě podporují obhajitelné závěry o žákovi. [[eportfolio|Portfolia]], reflexe, stupňovaná odevzdání a záznamy aktivity potřebují ověření jako důkazy, místo aby se předpokládalo, že ustavují autorství nebo porozumění. Studie by měly testovat kombinace důkazů proti nezávisle pozorované kompetenci a přitom zohlednit přístupnost, pracovní zátěž, soukromí a úzkost studentů. Podrobnosti drží [[assessment-validity|validita hodnocení]].
+Výzkumná otázka zní, které designy ještě podporují obhajitelné závěry o žákovi. [[eportfolio|Portfolia]], reflexe, stupňovaná odevzdání a záznamy aktivity potřebují ověření jako důkazy, místo aby se předpokládalo, že ustavují autorství nebo porozumění. Studie by měly testovat kombinace důkazů proti nezávisle pozorované kompetenci a přitom zohlednit přístupnost, pracovní zátěž, soukromí a [[anxiety-and-stress|úzkost studentů]]. Podrobnosti drží [[assessment-validity|validita hodnocení]].
 
 Pro [[automated-assessment|automatizované známkování]] uvádí [[llms-do-not-grade-essays-like-humans-2026|LLMs Do Not Grade Essays Like Humans]] systematickou neshodu mezi modely bez úprav a lidskými posuzovateli. Zjištění jsou specifická pro konkrétní nastavení a ukazují, proč vnitřní konzistence nemůže unést tvrzení o validitě.
 
@@ -105,11 +105,11 @@ Vyřešit to vyžaduje hodnocení založené na výkonu spojené s pozorováním
 
 ## Uveďte, koho zjištění vynechává
 
-Zjištění z jednoho kurzu, instituce, jazyka nebo populace žáků zřídka opravňují k rozhodnutím jinde, což je problém, který syntéza [[limitations-in-aied-research|Omezení výzkumu AI ve vzdělávání]] označuje za opakující se. Jak se účinky liší podle vývojové fáze, oboru, předchozích znalostí, zdravotního postižení, jazyka a podmínek zdrojů, zůstává z velké části nezměřeno.
+Zjištění z jednoho kurzu, instituce, jazyka nebo [[learners|populace žáků]] zřídka opravňují k rozhodnutím jinde, což je problém, který syntéza [[limitations-in-aied-research|Omezení výzkumu AI ve vzdělávání]] označuje za opakující se. Jak se účinky liší podle vývojové fáze, oboru, předchozích znalostí, zdravotního postižení, jazyka a podmínek zdrojů, zůstává z velké části nezměřeno.
 
 Výzkum spravedlnosti také musí oddělit přístup, dovednosti a výsledky. Syntéza o [[digital-divide|digitální propasti]] jasně říká, že zařízení a přístup k nástrojům neustavují stejnou schopnost těžit z nich. [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] sledovala 752 hongkongských studentů nižšího stupně střední školy: mezery v psychologické připravenosti se zúžily, zatímco rozdíly v objektivním testu gramotnosti v oblasti AI přetrvaly. Každá skupina se zlepšila a nerovnost se nezavřela. Profily předchozího učení nebyly přiřazeny náhodně, takže jejich kauzální role zůstává neznámá.
 
-Pokrytí je na konkrétních místech řídké. Literaturu podle populací počítá [[differential-effects-across-learner-groups|rozdílné účinky napříč skupinami žáků]]: nejhlubší linie tvoří žáci učící se druhý jazyk, vícejazyční žáci a žáci s postižením, následují gender a neurodiverzita, studenti první generace a zahraniční studenti mají v tomto korpusu po jedné studii, nadaní a vysoce výkonní studenti jsou fakticky neprostudovaní a uprchlíci, imigranti a vysídlení žáci se neobjevují v žádné. Důkazní základna takového tvaru nemůže odpovědět na otázku spravedlnosti agregací.
+Pokrytí je na konkrétních místech řídké. Literaturu podle populací počítá [[differential-effects-across-learner-groups|rozdílné účinky napříč skupinami žáků]]: nejhlubší linie tvoří žáci učící se druhý jazyk, [[multilingual-learning|vícejazyční žáci]] a [[inclusive-learning|žáci s postižením]], následují gender a [[neurodiversity|neurodiverzita]], studenti první generace mají v tomto korpusu dvě studie (jeden rozdíl ve využívání a jeden odhad účinku) a zahraniční studenti jednu, nadaní a vysoce výkonní studenti jsou fakticky neprostudovaní a uprchlíci, imigranti a vysídlení žáci se neobjevují v žádné. Důkazní základna takového tvaru nemůže odpovědět na otázku spravedlnosti agregací.
 
 Kapacita se liší i uvnitř jednoho národního systému. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye a kol. (2026)]] ohodnotili integraci AI na 45 nigerijských univerzitách a našli mírnou celkovou adopci (M = 4,79, rozpětí 1,83 až 7,83 na škále o 10 bodech), přičemž typ instituce integraci nepředpovídal, jakmile se kontroloval věk a geografie (věk β = 0,43; umístění na jihozápadě β = 0,31). Vnitřní kapacity spolu korelovaly při r = 0,79 až 0,80 a mezinárodní spolupráce s partnerstvími s průmyslem při r = 0,74, takže propojené instituce kumulují složené výhody. Které designy budování kapacit mění výsledky v novějších a méně propojených institucích, není otestováno.
 
@@ -183,7 +183,7 @@ Pedagogové, kteří chtějí verzi pro úroveň třídy, mohou sledovat [[evalu
 
 **„Sloučená velikost účinku mi už říká, co funguje.“** Čtrnáct auditovaných meta-analýz definovalo intervenci jako nástroj, sloučilo neslučitelné výstupy a vykázalo I² nad 80 % ve 12 ze 13 analýz, které ji uvedly. Sloučené číslo popisuje soubor studií s problémem konstruktu.
 
-**„Simulovaní studenti jsou levnější, takže jejich ověření může počkat.“** Ve studii o přitakávání simulovaní studenti opustili mylné představy, ať už se zpětná vazba týkala jich, nebo ne, což je režim selhání, který neúčinného tutora vykreslí jako účinného.
+**„Simulovaní studenti jsou levnější, takže jejich ověření může počkat.“** Ve studii o [[ai-sycophancy|přitakávání]] simulovaní studenti opustili mylné představy, ať už se zpětná vazba týkala jich, nebo ne, což je režim selhání, který neúčinného tutora vykreslí jako účinného.
 
 ## Co udělat tento týden
 

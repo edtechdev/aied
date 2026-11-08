@@ -1,14 +1,14 @@
 ---
 title: Filosofia dell'IA nell'educazione
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T06:32:22-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-10-25T19:20:00-04:00"
+source_updated: "2026-11-05T15:16:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -44,8 +44,10 @@ Questa è una pagina concettuale sui fondamenti filosofici e teorici dell'[[ai-e
 - **La natura della mente e della cognizione.** Pensare richiede coscienza e un corpo? L'IA può partecipare a processi genuinamente cognitivi? Framework come la **cognizione d'insieme** sostengono che l'IA eserciti *agentività funzionale* — genuina efficacia causale nei processi cognitivi — senza coscienza, e che il pensiero emerga dall'interazione dinamica uomo–[[student-ai-interaction|IA]]. ([[ensemble-cognition-philosophy-ai-education]]) La [[distributed-cognition|cognizione distribuita]] e la tesi della mente estesa avanzano affermazioni analoghe sul fatto che la cognizione si estenda attraverso sistemi.
 - **Chi è lo studente?** La filosofia postumanista riconcettualizza lo studente come un'entità "post-umana" i cui processi cognitivi sono genuinamente ibridi e distribuiti tra sistemi [[biology-education|biologici]] e artificiali. ([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Questo sfida l'assunzione che lo studente sia una mente individuale autonoma e delimitata.
 - **Incarnazione e i limiti dell'IA disincarnata.** La filosofia [[embodied-learning|incarnata]] e post-cognitivista critica il predominio dei modelli di IA simbolici e disincarnati, sostenendo che la cognizione è radicata nella situazionalità, nell'emergenza e nell'accoppiamento sensomotorio di cui l'attuale [[generative-ai|IA generativa]] è priva. ([[videla-embodied-ai-education-choreography]])
+
+- **Il lavoro emotivo come caso di prova per menti artificiali.** Gli argomenti del campo su se l'IA possa insegnare vertono spesso su se possa *prendersi cura*, una questione dibattuta molto prima che esistesse l'[[affective-computing|informatica affettiva]]. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] ricostruisce il dibattito 1950–1996, in cui la tesi di Ziff secondo cui solo le creature viventi possono letteralmente provare sentimenti riceveva risposta dalla teoria dell'identità di Smart e dal criterio comportamentale di Putnam, lasciando tre ontologie rivali irrisolte. La sua conclusione è un onere di giustificazione anziché un'affermazione di impossibilità — rappresentazione, simulazione e mimesi sottodeterminano il lavoro emotivo — il che pone l'onere su chiunque vorrebbe delegare il lavoro di cura a un sistema.
 - **Agentività, autorialità e significato.** Quando l'IA media l'interpretazione e la costruzione di significato, la filosofia chiede come si riconfigurino autorialità, [[agency]] epistemica e autonomia interpretativa. ([[voicu-ai-interpretive-cognition-ssh-2026]])
-- **L'ontologia degli oggetti scientifici generati dall'IA.** In chimica, i composti e le curve di titolazione predetti dall'IA occupano uno "spazio ontologico liminale" — né del tutto ipotetici né pienamente reali finché non sono provati empiricamente — che sposta la disciplina dal realismo verso una visione costruttivista in cui la realtà è una collaborazione tra uomo e macchina ([[philosophy-experimentation-ai-chemistry-2026|Reyes e Regala (2026)]]).
+- **L'ontologia degli oggetti scientifici generati dall'IA.** In [[chemistry-education|chimica]], i composti e le curve di titolazione predetti dall'IA occupano uno "spazio ontologico liminale" — né del tutto ipotetici né pienamente reali finché non sono provati empiricamente — che sposta la disciplina dal realismo verso una visione costruttivista in cui la realtà è una collaborazione tra uomo e macchina ([[philosophy-experimentation-ai-chemistry-2026|Reyes e Regala (2026)]]).
 - **La passività cognitiva come danno epistemico.** Bai e Costa (2026) si richiamano alla concezione arendtiana del pensiero come attività rivolta all'interno e non trasferibile per sostenere che la GenAI che fornisce il lavoro non si limita a scaricare il pensiero ma ne preclude la possibilità, con il campo e l'habitus di Bourdieu che collocano il rischio nelle strutture istituzionali ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
 - **Valori, giustizia e scopo dell'educazione.** L'analisi filosofica esamina se l'educazione guidata dall'IA serva il fiorire umano e la giustizia educativa, o se strumentalizzi l'apprendimento al servizio della produttività. ([[avraamidou-ai-colonization-science-education]]) Questo si collega alla [[critical-pedagogy]] e all'[[ethics]].
 - **"Umano-centrato" come discorso antropocentrico, non come etica neutrale.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang e Jin (2026)]] leggono documenti UNESCO, OCSE e della Dichiarazione di Montréal per sostenere che l'AIED umano-centrata erediti le esclusioni dell'umanesimo illuminista, che il transumanesimo le preservi, e che l'etichetta possa legittimare infrastrutture commerciali.
@@ -121,3 +123,5 @@ La filosofia dell'IA nell'educazione e lo [[theory-development-aied|sviluppo del
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — L'AIED "umano-centrata" letta come discorso antropocentrico con usi commerciali (Wang & Jin 2026)
+
+- [[khan-machines-emotional-labor-education-2026]] — Can machines perform emotional labor? The 1950–1996 debate, and why mimicry underdetermines care

@@ -10,8 +10,8 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
-updated: "2026-10-27T16:30:09-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "*Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Otázky k zamyšlení
 
 - Pouhá dostupnost AI pro studenty byla spojena s neefektivním nebo dokonce neetickým používáním, zatímco explicitní rámcování a zakotvení vhodného používání výsledky zlepšilo. Pokud záleží méně na přítomnosti nástroje než na tom, jak je rámcován, co to říká o důrazu na pouhé „dání AI studentům"?
-- Většina studentů generativní AI používá, mnozí si nejsou jisti, zda jejich používání odpovídá pravidlům, a spoléhají na nástroje dostupné v soukromí, nikoli na ty, které poskytuje instituce. Pokud znalost pravidel sotva mění to, co studenti dělají, co by je mohlo přesvědčit, místo aby je jen informovalo?
+- Většina studentů nyní používá [[generative-ai|generativní AI]], málokdo si je jist, zda jejich používání odpovídá pravidlům, a spoléhají na nástroje dostupné v soukromí, nikoli na ty, které poskytuje instituce. Pokud znalost pravidel sotva mění to, co studenti dělají, co by je mohlo přesvědčit, místo aby je jen informovalo?
 - Když instituce reagují na AI strachem a odsouzením, studenti mohou své používání skrývat nebo racionalizovat, místo aby se ho naučili používat dobře. Viděli jste reakci typu „morální paniky", která studenty zatlačila do tajení? Jak by vypadal přerámovaný přístup zaměřený na příležitost?
 - Úzkost z AI není jen překážkou: studenti, kteří se obávali přesnosti a plagiátorství, byli *více* ochotni výstup AI ověřovat a revidovat, místo aby jej nekriticky přijali. Jak lze produktivní úzkost nasměrovat do hodnotící kompetence, místo aby byla potlačována?
 - Studenti si představu o tom, co je přijatelné, konstruují prostřednictvím „míst" (záměrů vyučujících, dokumentů kurzu, norem vrstevníků a institucionálních sdělení), která se často rozcházejí. Když si tato sdělení odporují, které podle vás skutečně vyhraje, a jak tuto mezeru rámcování uzavírá?
@@ -41,7 +41,7 @@ Koncept leží mezi dvěma známějšími. Zatímco [[technology-acceptance-mode
 
 Rámcování záleží proto, že **politika a pravidla samy o sobě spolehlivě nemění chování**. Dotazníkový [[research-methods-aied|výzkum]] povědomí o [[regulation|regulaci]] zjišťuje, že znalost institucionálních pravidel pro generativní AI vykazuje jen slabé až středně silné souvislosti s tím, co studenti skutečně dělají ([[student-regulatory-awareness-genai]]). Znát pravidla je nutné, ale ne dostačující; sdělení musí *přesvědčit*, ne jen informovat.
 
-Diferencované rámcování může vycházet z jediné politiky, ne jen napříč místy: analýza sentimentu 36 univerzitních politik zjistila, že výroky o výuce byly rámcovány pozitivně, zatímco výroky o generativní AI a etice negativně, takže se studenti v jednom dokumentu setkali s povzbuzením i s omezením ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
+Diferencované rámcování může vycházet z jediné politiky, ne jen napříč místy: [[affective-computing|analýza sentimentu]] 36 univerzitních politik zjistila, že výroky o výuce byly rámcovány pozitivně, zatímco výroky o generativní AI a etice negativně, takže se studenti v jednom dokumentu setkali s povzbuzením i s omezením ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 Rámec také určuje, zda studenti AI zažívají jako **hrozbu, které je třeba se vyhnout nebo ji obejít**, nebo jako **zdroj, který je třeba používat uvážlivě**. Když instituce reagují na AI strachem a odsouzením (což jedna linie prací nazývá opakující se „morální panikou"), zatlačují studenty k tajení nebo racionalizaci používání, místo aby se ho naučili používat dobře.([[moral-panic-genai-classroom]]) Přerámování úzkosti a odsouzení na strukturovanou příležitost mění celou dynamiku [[student-engagement|angažovanosti studentů]] s AI.
 
@@ -61,7 +61,7 @@ Nejpřímější rámcovací pákou ve znalostní bázi je dodat *důvod* pro hr
 
 ### Přerámovat úzkost a nejistotu na hodnotící kompetenci
 
-[[mixed-methods-research|Smíšený]] výzkum akademického [[writing-education|psaní]] zjistil, že úzkost z AI není jen překážkou: studenti, kteří se obávali přesnosti a plagiátorství, byli *více* ochotni výstup AI ověřovat, křížově kontrolovat a revidovat, místo aby jej nekriticky přijali. Studie rámcuje [[ai-literacy|gramotnost v oblasti AI]] méně jako přijetí a více jako **regulační kompetenci**, tedy schopnost zpochybňovat výstupy, selektivně revidovat a nést odpovědnost za autorství.[[ai-anxiety-strategic-regulation-writing-2026]] Rámcovat používání AI pro studenty znamená směrovat produktivní úzkost k hodnocení, ne ji potlačovat.
+[[mixed-methods-research|Smíšený]] výzkum akademického [[writing-education|psaní]] zjistil, že [[anxiety-and-stress|úzkost]] z AI není jen překážkou: studenti, kteří se obávali přesnosti a plagiátorství, byli *více* ochotni výstup AI ověřovat, křížově kontrolovat a revidovat, místo aby jej nekriticky přijali. Studie rámcuje [[ai-literacy|gramotnost v oblasti AI]] méně jako přijetí a více jako **regulační kompetenci**, tedy schopnost zpochybňovat výstupy, selektivně revidovat a nést odpovědnost za autorství.[[ai-anxiety-strategic-regulation-writing-2026]] Rámcovat používání AI pro studenty znamená směrovat produktivní úzkost k hodnocení, ne ji potlačovat.
 
 ### Používat cílené zprávy k ovlivnění konkrétního chování
 

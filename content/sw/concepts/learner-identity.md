@@ -9,7 +9,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,9 @@ Sharti tofauti la uandishi, si tishio tu kwa uandishi: mazungumzo ya kuunda nafs
 
 - **Kupitisha kwa ulinzi: matumizi ya AI ya uteuzi kama ulinzi wa utambulisho.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] walichunguza wanafunzi 484 katika chuo kikuu kimoja cha Australia na walipata kuwa wanafunzi wenye mafanikio makubwa waliripoti mwingiliko *mdogo* wa [[generative-ai|AI ya kizalishaji]], hisia chanya ndogo kuelekea AI, athari ndogo ya [[self-report-measures|kujifunza inayoonekana]], na kujitenga kidogo kuhusiana na AI, na mahusiano yenye nguvu zaidi yalikuwa rho = -0.395 kwa athari ya kujifunza inayoonekana na rho = -0.359 kwa hisia chanya. Majibu yao ya wazi yalielezea matumizi yaliokuwa ya uteuzi (ubainishaji, muhtasari, msaada wa mtiririko wa kazi), yaliyothibitishwa, na yaliyoshikiliwa kuwa ya chini ya uamuzi wao wenyewe, na matokeo ya kiwango cha kipengele yalionyesha makubaliano makubwa zaidi kuwa kutegemea AI kunazuia [[critical-thinking]] na [[problem-solving|utatuzi wa matatizo]] wa kujitegemea. Waandishi wanasoma hii kama kazi ya utambulisho: kwa wanafunzi ambao hisia yao ya nafsi kama wanafunzi wenye mafaniko inategemea juhudi na uamuzi wao wenyewe, kuweka mipaka ya matumizi ya AI hulinda [[agency|wakala wa maarifa]] ambao utambulisho unategemea — ambayo pia inamaanisha kuwa mfumo huo si teknofobia wala mwingiliko mdogo.
 
+- **Kusudi lililotajwa haliathiri kila uamuzi wa AI.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] waliwahoji wanafunzi 14 wa shahada ya kwanza na wakapanga kila mahojiano kwa uhusiano kati ya [[self-determination-theory|kusudi]] la mwanafunzi — nia yenye maana binafsi ya kuchangia zaidi ya nafsi — na chaguo zao za AI. Ni wachache tu waliounganisha: mmoja alikataa AI kwa sababu gharama zake za kimazingira na za kibinadamu zilipingana na kusudi lake, na watatu waliruhusu utambulisho wa kitaalama wa baadaye kuunda chaguo zao ("unachangia kwa mwanasaikolojia nitakayekuwa duniani siku moja"). Wengine wenye hisia sawa ya kusudi hawakufanya uhusiano huo, wakielezea kusudi na AI kama "vitu tofauti kwa kiasi," hivyo kuwa na utambulisho wa kulinda hakukuwa sawa na kuutegemea. Karatasi pia inatenganisha sababu wanafunzi wanazotoa kwa kuhifadhi kazi kuwa zao — maendeleo ya ujuzi, [[evaluative-judgment|umiliki na fahari]], na pingamizi la kimaadili — zinazokuja kupitia mifumo tofauti na hazipaswi kuunganishwa kuwa motisha mmoja.
+
+
 ## Uhusiano na wakala wa mwanafunzi
 
 Wakala wa mwanafunzi na utambulisho wa mwanafunzi ni dhana zinazohusiana kwa karibu lakini tofauti ambazo ni rahisi kuchanganywa — na zote mbili ni muhimu kwa jinsi AI inavyoathiri kujifunza.
@@ -83,7 +86,7 @@ Utambulisho wa mwanafunzi unaungana na [[agency]] (utambulisho unatekelezwa kupi
 
 **"Msaada wa AI hupunguza vizuizi na kwa hivyo hupanua ushiriki."** Unaweza kupunguza kizuizi cha kuzalisha kazi huku ukibana kizuizi cha kudai uandishi. Mwanafunzi anayewasilisha kazi ya ufasaha ambayo hakuandika amepewa ufikiaji wa matokeo na kunyimwa utambuzi unaojenga utambulisho nyuma yake.
 
-**"Kutambua utambulisho wa mwanafunzi ni suala la uwakilishi katika maudhui."** Uwakilishi ni muhimu na utambuzi hutekelezwa katika mazoezi: maswali ya nani yanachukuliwa, mchango wa nani unatambuliwa, na nani anachukuliwa kama mwenye uwezo. Mtaala unaweza kuwa wa uwakilishi na bado ukanyima utambuzi ambao uundaji wa utambulisho unahitaji.
+**"Kutambua utambulisho wa mwanafunzi ni suala la uwakilishi katika maudhui."** Uwakilishi ni muhimu na utambuzi hutekelezwa katika mazoezi: maswali ya nani yanachukuliwa, mchango wa nani unatambuliwa, na nani anachukuliwa kama mwenye uwezo. [[curriculum-design|Mtaala]] unaweza kuwa wa uwakilishi na bado ukanyima utambuzi ambao uundaji wa utambulisho unahitaji.
 
 ## Dhana Zilizounganishwa
 
@@ -118,3 +121,6 @@ Utambulisho wa mwanafunzi unaungana na [[agency]] (utambulisho unatekelezwa kupi
 
 - [[synthetic-position-self-authorship-2026]] — Kusimamishwa kwa uandishi: uandishi uliotolewa kama nafsi yenye sauti nyingi lakini isiyoandikwa (uchanganuzi wa dhana)
 - [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
+
+- [[ting-ai-learning-ownership-purpose-2026]] — Wanafunzi 14 wa shahada ya kwanza kuhusu kile wanachoendelea kufanya wenyewe, na kwa nini kusudi mara chache huamua
+

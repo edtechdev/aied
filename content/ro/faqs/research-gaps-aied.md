@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T15:41:27-04:00"
+updated: "2026-11-08T05:10:57-05:00"
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
@@ -67,7 +67,7 @@ Lacuna rămasă privește traiectoriile de competență, iar un singur post-test
 
 „Învățarea sprijinită de IA” împachetează de obicei mai multe schimbări: feedback nou, reflecție adăugată, discuție între colegi, secvențe de sarcini diferite, stimulente de evaluare modificate. Un pachet care reușește nu îți spune care componente au fost necesare.
 
-[[genai-feedback-design-multisite-experiment|Designul de feedback GenAI centrat pe om]] este un progres real la această întrebare. Dintre cei 1.176 de studenți din anul întâi, designurile reflexive și hibride au depășit [[ai-feedback-quality|feedbackul de IA]] direct la transferul întârziat fără IA. Condiția hibridă combina autoevaluarea, [[peer-assessment|feedbackul între colegi]] și critica IA. Asta separă felul în care feedbackul este organizat și folosit de întrebarea dacă studenții au acces la feedback.
+[[genai-feedback-design-multisite-experiment|Designul de feedback GenAI centrat pe om]] este un progres real la această întrebare. Dintre cei 1.176 de studenți din anul întâi, designurile reflexive și hibride au depășit [[ai-feedback-quality|feedbackul de IA]] direct la transferul întârziat fără IA. Condiția hibridă combina [[self-assessment|autoevaluarea]], [[peer-assessment|feedbackul între colegi]] și critica IA. Asta separă felul în care feedbackul este organizat și folosit de întrebarea dacă studenții au acces la feedback.
 
 Rămân deschise: contribuția și momentul primelor încercări independente, autoexplicarea, contribuția colegilor, feedbackul corectiv, indiciile și retragerea treptată a asistenței, plus modul în care fiecare dintre ele interacționează cu [[prior-knowledge|cunoașterea prealabilă]] și cu dificultatea sarcinii.
 
@@ -87,7 +87,7 @@ IA creează două probleme de evaluare conectate: ajută la producerea lucrării
 
 [[ai-agents-complete-lms-assessment-validity-2026|Studiul bazei de cunoștințe despre agenții de IA care îndeplinesc sarcini evaluate în LMS]] documentează agenți care navighează un curs universitar live și finalizează activități evaluate. Asta demonstrează o capacitate care contestă presupunerile despre dovezile produse de studenți. Nu stabilește cât de răspândită este o astfel de utilizare și nu invalidează evaluarea asincronă ca categorie.
 
-Întrebarea de cercetare este ce designuri mai susțin concluzii defendabile despre învățăcel. [[eportfolio|Portofoliile]], reflecțiile, trimiterile în etape și jurnalele de activitate au nevoie de validare ca dovezi, în loc să se presupună că stabilesc autoratul sau înțelegerea. Studiile ar trebui să testeze combinații de dovezi față de competența observată independent, ținând cont de accesibilitate, volum de muncă, confidențialitate și anxietatea studenților. [[assessment-validity|Validitatea evaluării]] păstrează detaliile.
+Întrebarea de cercetare este ce designuri mai susțin concluzii defendabile despre învățăcel. [[eportfolio|Portofoliile]], reflecțiile, trimiterile în etape și jurnalele de activitate au nevoie de validare ca dovezi, în loc să se presupună că stabilesc autoratul sau înțelegerea. Studiile ar trebui să testeze combinații de dovezi față de competența observată independent, ținând cont de accesibilitate, volum de muncă, confidențialitate și [[anxiety-and-stress|anxietatea studenților]]. [[assessment-validity|Validitatea evaluării]] păstrează detaliile.
 
 Pentru [[automated-assessment|notarea automată]], [[llms-do-not-grade-essays-like-humans-2026|LLMs Do Not Grade Essays Like Humans]] raportează dezacord sistematic între modelele folosite ca atare și evaluatorii umani. Constatările sunt specifice configurației și arată de ce consistența internă nu poate susține o afirmație de validitate.
 
@@ -105,11 +105,11 @@ A lămuri asta cere evaluare bazată pe performanță, combinată cu observarea 
 
 ## Raportează pe cine lasă la o parte constatarea
 
-Constatările dintr-un curs, o instituție, o limbă sau o populație de învățăcei rareori autorizează decizii în altă parte, o problemă pe care sinteza [[limitations-in-aied-research|Limitările cercetării în IA educațională]] o tratează ca recurentă. Cum variază efectele între stadiul de dezvoltare, disciplină, cunoaștere prealabilă, dizabilitate, limbă și condiții de resurse rămâne în mare parte nemăsurat.
+Constatările dintr-un curs, o instituție, o limbă sau o [[learners|populație de învățăcei]] rareori autorizează decizii în altă parte, o problemă pe care sinteza [[limitations-in-aied-research|Limitările cercetării în IA educațională]] o tratează ca recurentă. Cum variază efectele între stadiul de dezvoltare, disciplină, cunoaștere prealabilă, dizabilitate, limbă și condiții de resurse rămâne în mare parte nemăsurat.
 
 Cercetarea despre echitate trebuie să separe și ea accesul, competențele și rezultatele. Sinteza despre [[digital-divide|decalajul digital]] spune clar că dispozitivele și accesul la instrumente nu stabilesc o capacitate egală de a beneficia. [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] a urmărit 752 de elevi din învățământul secundar inferior din Hong Kong: decalajele de pregătire psihologică s-au îngustat, în timp ce diferențele la un test obiectiv de alfabetizare în IA au persistat. Fiecare grup s-a îmbunătățit, iar inegalitatea nu s-a închis. Profilele de învățare prealabilă nu au fost repartizate aleatoriu, așa că rolul lor cauzal rămâne necunoscut.
 
-Acoperirea este subțire în locuri specifice. [[differential-effects-across-learner-groups|Efectele diferențiale între grupurile de învățăcei]] numără literatura după populație: învățăceii de limbă a doua și multilingvi, împreună cu studenții cu dizabilități, sunt firele cele mai adânci, genul și neurodiversitatea urmează, studenții de prima generație și studenții internaționali au câte un studiu fiecare în acest corpus, studenții supradotați și cu performanțe înalte sunt practic necercetați, iar învățăceii refugiați, imigranți și strămutați nu apar în niciunul. O bază de dovezi cu această formă nu poate răspunde la o întrebare de echitate prin agregare.
+Acoperirea este subțire în locuri specifice. [[differential-effects-across-learner-groups|Efectele diferențiale între grupurile de învățăcei]] numără literatura după populație: învățăceii de limbă a doua și [[multilingual-learning|multilingvi]], împreună cu [[inclusive-learning|studenții cu dizabilități]], sunt firele cele mai adânci, genul și [[neurodiversity|neurodiversitatea]] urmează, studenții de prima generație au două studii (o diferență de utilizare și o estimare a efectului), iar studenții internaționali unul, studenții supradotați și cu performanțe înalte sunt practic necercetați, iar învățăceii refugiați, imigranți și strămutați nu apar în niciunul. O bază de dovezi cu această formă nu poate răspunde la o întrebare de echitate prin agregare.
 
 Capacitatea variază și în interiorul unui singur sistem național. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] au evaluat integrarea IA în 45 de universități nigeriene și au găsit o adoptare generală moderată (M = 4,79, interval 1,83-7,83 pe o scală de 10 puncte), tipul instituției nereușind să prezică integrarea odată ce vârsta și geografia au fost controlate (vârsta β = 0,43; localizarea în sud-vest β = 0,31). Capacitățile interne s-au corelat între ele la r = 0,79-0,80, iar colaborările internaționale cu parteneriatele industriale la r = 0,74, așa că instituțiile conectate acumulează avantaje cumulative. Ce designuri de construire a capacității schimbă rezultatele în instituțiile mai noi și mai puțin conectate nu a fost testat.
 
@@ -183,7 +183,7 @@ Instructorii care vor versiunea la nivel de sală de clasă pot urma [[evaluatin
 
 **„Mărimea efectului agregată îmi spune deja ce funcționează.”** Cele 14 meta-analize auditate au definit tratamentul ca un instrument, au agregat rezultate incompatibile și au raportat I² peste 80% în 12 din 13 analize care l-au dat. Numărul agregat descrie un set de studii cu o problemă de construct.
 
-**„Studenții simulați sunt mai ieftini, așa că validarea lor poate aștepta.”** În studiul despre servilism, studenții simulați abandonau concepțiile greșite indiferent dacă feedbackul le aborda, ceea ce este exact modul de eșec care face un tutor ineficace să pară eficace.
+**„Studenții simulați sunt mai ieftini, așa că validarea lor poate aștepta.”** În studiul despre [[ai-sycophancy|servilism]], studenții simulați abandonau concepțiile greșite indiferent dacă feedbackul le aborda, ceea ce este exact modul de eșec care face un tutor ineficace să pară eficace.
 
 ## Ce să faci săptămâna aceasta
 

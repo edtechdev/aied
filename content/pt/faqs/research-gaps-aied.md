@@ -1,7 +1,7 @@
 ---
 title: "Quais são as lacunas notáveis na literatura de pesquisa sobre IA na Educação?"
 created: "2026-08-24T14:10:00-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-08T05:10:57-05:00"
 connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 weight: 45
 type: faq
@@ -70,7 +70,7 @@ A lacuna restante é sobre trajetórias de capacidade, e um pós-teste acrescent
 
 "Aprendizagem apoiada por IA" geralmente agrupa várias mudanças: novo feedback, reflexão acrescentada, discussão entre pares, sequências de tarefas diferentes, incentivos de avaliação alterados. Um pacote que tem sucesso não diz quais componentes eram necessários.
 
-[[genai-feedback-design-multisite-experiment|Desenho de feedback por GenAI centrado no humano]] é um avanço real nessa pergunta. Entre 1.176 calouros, desenhos reflexivos e híbridos superaram o [[ai-feedback-quality|feedback de IA]] direto na transferência adiada sem IA. A condição híbrida combinava autoavaliação, [[peer-assessment|feedback dos pares]] e crítica da IA. Isso separa como o feedback é organizado e usado de se os estudantes têm acesso a feedback.
+[[genai-feedback-design-multisite-experiment|Desenho de feedback por GenAI centrado no humano]] é um avanço real nessa pergunta. Entre 1.176 calouros, desenhos reflexivos e híbridos superaram o [[ai-feedback-quality|feedback de IA]] direto na transferência adiada sem IA. A condição híbrida combinava [[self-assessment|autoavaliação]], [[peer-assessment|feedback dos pares]] e crítica da IA. Isso separa como o feedback é organizado e usado de se os estudantes têm acesso a feedback.
 
 Continua aberto: a contribuição e o momento das tentativas independentes iniciais, da autoexplicação, da contribuição dos pares, do feedback corretivo, das dicas e do esmaecimento da assistência, e como cada um interage com o [[prior-knowledge|conhecimento prévio]] e a dificuldade da tarefa.
 
@@ -90,7 +90,7 @@ A IA cria dois problemas de avaliação conectados: ela ajuda a produzir o traba
 
 O [[ai-agents-complete-lms-assessment-validity-2026|estudo da base de conhecimento sobre agentes de IA completando tarefas avaliadas em um LMS]] documenta agentes navegando por um curso de graduação ao vivo e concluindo atividades avaliadas. Isso demonstra uma capacidade que desafia suposições sobre evidência produzida por estudantes. Não estabelece quão comum esse uso é, e não invalida a avaliação assíncrona como categoria.
 
-A pergunta de pesquisa é quais desenhos ainda sustentam conclusões defensáveis sobre o aprendiz. [[eportfolio|Portfólios]], reflexões, entregas escalonadas e registros de atividade precisam de validação como evidência, em vez de serem presumidos como estabelecedores de autoria ou compreensão. Estudos deveriam testar combinações de evidência contra competência observada de forma independente, ao mesmo tempo que consideram acessibilidade, carga de trabalho, privacidade e ansiedade dos estudantes. [[assessment-validity|Validade da avaliação]] guarda o detalhe.
+A pergunta de pesquisa é quais desenhos ainda sustentam conclusões defensáveis sobre o aprendiz. [[eportfolio|Portfólios]], reflexões, entregas escalonadas e registros de atividade precisam de validação como evidência, em vez de serem presumidos como estabelecedores de autoria ou compreensão. Estudos deveriam testar combinações de evidência contra competência observada de forma independente, ao mesmo tempo que consideram acessibilidade, carga de trabalho, privacidade e [[anxiety-and-stress|ansiedade dos estudantes]]. [[assessment-validity|Validade da avaliação]] guarda o detalhe.
 
 Para a [[automated-assessment|correção automatizada]], [[llms-do-not-grade-essays-like-humans-2026|LLMs não corrigem redações como humanos]] relata discordância sistemática entre modelos prontos de fábrica e avaliadores humanos. Os achados são específicos da configuração, e mostram por que consistência interna não pode sustentar uma alegação de validade.
 
@@ -108,11 +108,11 @@ Resolver isso exige avaliação baseada em desempenho combinada com observação
 
 ## Relate quem o achado deixa de fora
 
-Achados de um curso, instituição, idioma ou população de aprendizes raramente autorizam decisões em outro lugar, problema que a síntese [[limitations-in-aied-research|Limitações na pesquisa em IA na educação]] trata como recorrente. Como os efeitos variam por estágio de desenvolvimento, disciplina, conhecimento prévio, deficiência, idioma e condições de recursos continua em grande parte não medido.
+Achados de um curso, instituição, idioma ou [[learners|população de aprendizes]] raramente autorizam decisões em outro lugar, problema que a síntese [[limitations-in-aied-research|Limitações na pesquisa em IA na educação]] trata como recorrente. Como os efeitos variam por estágio de desenvolvimento, disciplina, conhecimento prévio, deficiência, idioma e condições de recursos continua em grande parte não medido.
 
 A pesquisa sobre equidade também tem de separar acesso, habilidades e resultados. A síntese sobre a [[digital-divide|exclusão digital]] é clara que dispositivos e acesso a ferramentas não estabelecem capacidade igual de se beneficiar. [[school-ai-education-readiness-gaps-agency-2026|A educação em IA baseada na escola reduz lacunas de prontidão?]] acompanhou 752 estudantes do ensino fundamental II de Hong Kong: as lacunas de prontidão psicológica se estreitaram enquanto as diferenças em um teste objetivo de letramento em IA persistiram. Todos os grupos melhoraram, e a desigualdade não se fechou. Os perfis de aprendizagem prévia não foram atribuídos aleatoriamente, então seu papel causal permanece desconhecido.
 
-A cobertura é fina em lugares específicos. [[differential-effects-across-learner-groups|Efeitos diferenciais entre grupos de aprendizes]] conta a literatura por população: aprendizes de segunda língua e multilíngues e estudantes com deficiência são as vertentes mais profundas, gênero e neurodiversidade vêm em seguida, estudantes de primeira geração e internacionais têm um estudo cada neste corpus, estudantes superdotados e de alto desempenho são efetivamente não estudados, e aprendizes refugiados, imigrantes e deslocados não aparecem em nenhum. Uma base de evidência com esse formato não consegue responder a uma questão de equidade por agregação.
+A cobertura é fina em lugares específicos. [[differential-effects-across-learner-groups|Efeitos diferenciais entre grupos de aprendizes]] conta a literatura por população: aprendizes de segunda língua e [[multilingual-learning|multilíngues]] e [[inclusive-learning|estudantes com deficiência]] são as vertentes mais profundas, gênero e [[neurodiversity|neurodiversidade]] vêm em seguida, estudantes de primeira geração têm dois estudos (uma diferença de uso e uma estimativa de efeito), e estudantes internacionais um, estudantes superdotados e de alto desempenho são efetivamente não estudados, e aprendizes refugiados, imigrantes e deslocados não aparecem em nenhum. Uma base de evidência com esse formato não consegue responder a uma questão de equidade por agregação.
 
 A capacidade também varia dentro de um único sistema nacional. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] pontuaram a integração de IA em 45 universidades nigerianas e encontraram adoção geral moderada (M = 4,79, faixa 1,83-7,83 em uma escala de 10 pontos), com o tipo de instituição falhando em prever a integração quando idade e geografia eram controladas (idade β = 0,43; localização no Sudoeste β = 0,31). Capacidades internas se intercorrelacionaram em r = 0,79-0,80 e colaborações internacionais com parcerias com a indústria em r = 0,74, então instituições conectadas acumulam vantagens compostas. Quais desenhos de construção de capacidade mudam resultados em instituições mais novas e menos conectadas não foi testado.
 
@@ -186,7 +186,7 @@ Professores que querem a versão de sala de aula podem seguir [[evaluating-ai-in
 
 **"O tamanho de efeito agrupado já me diz o que funciona."** As 14 metanálises auditadas definiram o tratamento como uma ferramenta, agruparam desfechos incompatíveis e relataram I² acima de 80% em 12 das 13 análises que o informaram. O número agrupado descreve um conjunto de estudos com um problema de construto.
 
-**"Estudantes simulados são mais baratos, então validá-los pode esperar."** No estudo sobre bajulação, estudantes simulados abandonaram concepções errôneas independentemente de o feedback abordá-las, que é o modo de falha que faz um tutor ineficaz parecer eficaz.
+**"Estudantes simulados são mais baratos, então validá-los pode esperar."** No estudo sobre [[ai-sycophancy|bajulação]], estudantes simulados abandonaram concepções errôneas independentemente de o feedback abordá-las, que é o modo de falha que faz um tutor ineficaz parecer eficaz.
 
 ## O que fazer nesta semana
 

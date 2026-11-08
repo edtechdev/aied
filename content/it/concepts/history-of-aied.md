@@ -1,14 +1,14 @@
 ---
 title: Storia dell'IA nell'educazione
 created: "2026-10-14T22:40:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T06:32:22-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 translation_of: "concepts/history-of-aied"
-source_updated: "2026-10-25T13:10:00-04:00"
+source_updated: "2026-11-05T15:16:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> **Storia dell'IA nell'educazione** — lo studio di come l'intelligenza artificiale e l'educazione si siano co-evolute dalla metà del XX secolo, e di come le scelte concettuali, terminologiche e progettuali del passato continuino a plasmare i dibattiti odierni sull'IA nell'apprendimento. Anziché trattare l'IA generativa come una forza improvvisa e senza precedenti, una lente storica rivela tensioni ricorrenti — controllo vs. agentività, standardizzazione vs. creatività, automazione vs. potenziamento — che strutturano l'IA nell'educazione sin dalle sue origini.
+> **Storia dell'[[ai-education|IA nell'educazione]]** — lo studio di come l'intelligenza artificiale e l'educazione si siano co-evolute dalla metà del XX secolo, e di come le scelte concettuali, terminologiche e progettuali del passato continuino a plasmare i dibattiti odierni sull'IA nell'apprendimento. Anziché trattare l'IA generativa come una forza improvvisa e senza precedenti, una lente storica rivela tensioni ricorrenti — controllo vs. agentività, standardizzazione vs. [[creativity|creatività]], automazione vs. potenziamento — che strutturano l'IA nell'educazione sin dalle sue origini.
 
 ## Domande da considerare
 
@@ -33,7 +33,7 @@ ai_assist:
 - La pagina inquadra la storia dell'AIED come una tensione tra controllo (i tutor cognitivi di Anderson che ottimizzano l'istruzione) e agentività (il costruttivismo di Papert che dà potere agli studenti. Dove si collocano le tue scelte sull'IA nell'educazione su quello spettro — e perché?
 - La personalizzazione, sostiene la pagina, ha due significati: variare il percorso verso lo stesso risultato, oppure abilitare risultati diversi e diretti dallo studente. Quale tipo di personalizzazione persegue realmente la tua istituzione, e quale pensi che dovrebbe perseguire?
 - Se i dibattiti odierni sulla GenAI "rispecchiano" queste tensioni storiche, quali errori del passato potremmo stare ripetendo — e cosa potremmo evitare ricordandoli?
-- La pagina sostiene che le scelte di progettazione tecnica incorporano giudizi di valore sullo scopo dell'apprendimento. Riesci a individuare una decisione progettuale in uno strumento di educazione all'IA che hai usato che abbia silenziosamente favorito la standardizzazione rispetto all'agentività dello studente — o viceversa?
+- La pagina sostiene che le scelte di progettazione tecnica incorporano giudizi di valore sullo scopo dell'apprendimento. Riesci a individuare una decisione progettuale in uno strumento di educazione all'IA che hai usato che abbia silenziosamente favorito la standardizzazione rispetto all'[[agency|agentività]] dello studente — o viceversa?
 
 ## Introduzione
 
@@ -45,11 +45,14 @@ La storia del campo non è una progressione lineare ma una serie di decisioni co
 
 **La rivoluzione cognitiva e le radici degli ITS.** I pionieri — Herbert Simon, Allen Newell, Marvin Minsky, John Anderson — non si limitavano a modellare la cognizione; indagavano questioni fondamentali sull'apprendimento e sull'istruzione. Il loro lavoro produsse modelli di elaborazione dell'informazione della cognizione umana che divennero fondativi per la psicologia educativa, e condusse agli [[intelligent-tutoring|Intelligent Tutoring Systems (ITS)]], radicati nei paradigmi della ricerca euristica e dei sistemi esperti dell'IA degli anni '60–'70. Questi sistemi si allineavano naturalmente con le strutture esistenti di valutazione e standardizzazione, e alla fine confluirono nella comunità AIED.
 
-**Controllo vs. agentività: Anderson e Papert.** Emergerono due visioni concorrenti, incarnate da John Anderson e Seymour Papert. I [[intelligent-tutoring|tutor cognitivi]] di **Anderson** (teoria ACT/ACT-R) scomponevano la conoscenza in regole di produzione, fornivano feedback individualizzato preciso e rafforzavano le strutture educative tradizionali — una visione dell'IA come strumento per ottimizzare l'istruzione. Il [[constructivist|costruttivismo]] di **Papert** (Logo, i "micromondi," il debugging come apprendimento) vedeva i computer come ambienti in cui i bambini costruiscono conoscenza attraverso la sperimentazione creativa — una visione dell'IA come strumento di potenziamento intellettuale che sfidava le gerarchie istituzionali. Questa "tensione essenziale" tra controllo e agentività è il filo conduttore della storia del campo.
+**Controllo vs. agentività: Anderson e Papert.** Emergerono due visioni concorrenti, [[embodied-learning|incarnate]] da John Anderson e Seymour Papert. I [[intelligent-tutoring|tutor cognitivi]] di **Anderson** (teoria ACT/ACT-R) scomponevano la conoscenza in regole di produzione, fornivano feedback individualizzato preciso e rafforzavano le strutture educative tradizionali — una visione dell'IA come strumento per ottimizzare l'istruzione. Il [[constructivist|costruttivismo]] di **Papert** (Logo, i "micromondi," il debugging come apprendimento) vedeva i computer come ambienti in cui i bambini costruiscono conoscenza attraverso la sperimentazione creativa — una visione dell'IA come strumento di potenziamento intellettuale che sfidava le gerarchie istituzionali. Questa "tensione essenziale" tra controllo e agentività è il filo conduttore della storia del campo.
 
-**Due forme di personalizzazione.** La [[personalized-learning|personalizzazione]] ha due interpretazioni distinte che si sovrappongono a queste visioni. La prima mantiene esiti uniformi variando il percorso (radicata nelle macchine per insegnare di Skinner; la visione di Khan Academy del tutoraggio verso la padronanza). La seconda abbraccia esiti diversi — studenti che perseguono interessi e talenti individuali, non vincolati dai confini di un curricolo standard (Zhao, 2024). Il modello ITS supporta la prima; il costruttivismo la seconda.
+**Due forme di personalizzazione.** La [[personalized-learning|personalizzazione]] ha due interpretazioni distinte che si sovrappongono a queste visioni. La prima mantiene esiti uniformi variando il percorso (radicata nelle macchine per insegnare di Skinner; la visione di Khan Academy del tutoraggio verso la padronanza). La seconda abbraccia esiti diversi — studenti che perseguono interessi e talenti individuali, non vincolati dai confini di un [[curriculum-design|curricolo]] standard (Zhao, 2024). Il modello ITS supporta la prima; il costruttivismo la seconda.
 
-**Lezioni per l'era della GenAI.** I dibattiti odierni sull'IA generativa rispecchiano da vicino queste tensioni storiche. La GenAI è spesso posizionata come un tutor intelligente di prossima generazione (estensione di Anderson), sollevando preoccupazioni su sorveglianza, raccolta dati e standardizzazione. In alternativa può essere uno strumento per l'agentività creativa (estensione di Papert), richiedendoci di ripensare la valutazione e di accettare esiti più ambigui. Come concludono [[mishra-control-vs-agency-history-2025|Mishra et al.]], le forze istituzionali favoriscono ripetutamente approcci che rafforzano le strutture esistenti — e il linguaggio e le metafore che scegliamo plasmeranno le possibilità future. Il framework AI×Ed di [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian e Doroudi]] dà fondamento empirico a questa intuizione: collocando gli articoli dei proceedings di AIED (1985, 1993, 2021, 2024) e di IJAIED (2004, 2014, 2021) lungo due assi — il ruolo dell'IA (strumento applicato vs. analogia con l'intelligenza umana) e l'utente finale — essi tracciano un campo che si è mosso da un mix diversificato, inclusa una sostanziale ricerca iniziale che usava l'IA come analogia dell'intelligenza umana (modelli computazionali dell'apprendimento, i micromondi di Papert, modelli ad agenti dell'acquisizione di conoscenza), verso un focus quasi esclusivo sugli usi applicati e strumentali entro gli anni 2000. In modo notevole, l'era dell'IA generativa sembra invertire parzialmente quella traiettoria: ad AIED 2024, tre dei quattro articoli nel quadrante "IA-come-analogia" del campo erano basati su LLM, incluso il lavoro di best-paper sugli agenti insegnabili basati su LLM.
+**Lezioni per l'era della GenAI.** I dibattiti odierni sull'IA generativa rispecchiano da vicino queste tensioni storiche. La GenAI è spesso posizionata come un tutor intelligente di prossima generazione (estensione di Anderson), sollevando preoccupazioni su sorveglianza, raccolta dati e standardizzazione. In alternativa può essere uno strumento per l'agentività creativa (estensione di Papert), richiedendoci di ripensare la valutazione e di accettare esiti più ambigui. Come concludono [[mishra-control-vs-agency-history-2025|Mishra et al.]], le forze istituzionali favoriscono ripetutamente approcci che rafforzano le strutture esistenti — e il linguaggio e le metafore che scegliamo plasmeranno le possibilità future. Il framework AI×Ed di [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian e Doroudi]] dà fondamento empirico a questa intuizione: collocando gli articoli dei proceedings di AIED (1985, 1993, 2021, 2024) e di IJAIED (2004, 2014, 2021) lungo due assi — il ruolo dell'IA (strumento applicato vs. analogia con l'intelligenza umana) e l'utente finale — essi tracciano un campo che si è mosso da un mix diversificato, inclusa una sostanziale ricerca iniziale che usava l'IA come analogia dell'intelligenza umana (modelli computazionali dell'apprendimento, i micromondi di Papert, modelli ad agenti dell'acquisizione di conoscenza), verso un focus quasi esclusivo sugli usi applicati e strumentali entro gli anni 2000. In modo notevole, l'era dell'IA generativa sembra invertire parzialmente quella traiettoria: ad AIED 2024, tre dei quattro articoli nel quadrante "IA-come-analogia" del campo erano basati su LLM, incluso il lavoro di best-paper sugli [[learning-by-teaching|agenti insegnabili]] basati su LLM.
+
+
+**Il registro delle riviste gira due volte.** Un modello di argomento strutturale su 5.387 articoli di *Computers & Education* (1976–2026) ha trovato l'IA in 390 record (7,2%), in 17 dei suoi 18 argomenti. Le probabilità annuali che un articolo fosse legato all'IA sono cresciute del 21,8% all'anno fino al 1989, sono calate del 3,7% all'anno fino al 2018, poi sono risalite del 40,1% all'anno fino al 2025 ([[wu-fifty-years-ai-reach-computers-education-2026|Wu et al., 2026]]). La svolta del 2018 precede ChatGPT di quattro anni, quindi l'era generativa ha accelerato una tendenza già in corso anziché avviarne una.
 
 ## L'impatto recente dell'IA generativa
 
@@ -59,7 +62,7 @@ L'arrivo dell'[[generative-ai|IA generativa]] — un'ampia famiglia che include 
 
 **Un nuovo tipo di capacità.** I sistemi AIED precedenti modellavano la cognizione e fornivano istruzione strutturata (la tradizione di Anderson). Gli LLM eseguono generazione aperta — producendo saggi, spiegazioni, codice e dialogo — il che mette in primo piano l'agentività e la creatività dello studente (la tradizione di Papert) in modi in cui gli ITS precedenti non potevano. È per questo che il momento attuale riaccende la tensione controllo-vs-agentività così nettamente: lo stesso strumento può essere impiegato come tutor intelligente di prossima generazione (controllando gli esiti) o come co-scrittore creativo e compagno di pensiero (amplificando l'agentività).
 
-**Un'inversione dell'equazione dell'accesso.** Storicamente il tutoraggio personalizzato era scarso e costoso; la GenAI ha reso il supporto individuale adattivo quasi gratuito e universale — abbassando drasticamente le barriere di accessibilità e costo che avevano modellato l'AIED precedente. Ma ha anche introdotto nuovi rischi: bias algoritmico, allucinazioni, sorveglianza, raccolta dati e dequalificazione degli educatori.
+**Un'inversione dell'equazione dell'accesso.** Storicamente il tutoraggio personalizzato era scarso e costoso; la GenAI ha reso il supporto individuale adattivo quasi gratuito e universale — abbassando drasticamente le barriere di accessibilità e costo che avevano modellato l'AIED precedente. Ma ha anche introdotto nuovi rischi: [[bias-mitigation|bias algoritmico]], [[hallucination-risk|allucinazioni]], sorveglianza, raccolta dati e dequalificazione degli educatori.
 
 **Rinnovata attenzione all'alfabetizzazione sull'IA e all'uso improprio.** L'era dell'IA generativa ha reso urgente l'[[ai-literacy]] e ha riformulato i dibattiti sull'[[academic-integrity]] (rilevamento vs. dialogo), rianimando al contempo preoccupazioni di lunga data su automazione, standardizzazione e dipendenza epistemica. Queste sono le espressioni moderne delle tensioni originarie del campo.
 
@@ -86,14 +89,14 @@ L'arrivo dell'[[generative-ai|IA generativa]] — un'ampia famiglia che include 
 
 **Per docenti e progettisti didattici**
 
-- Nomina la tradizione a cui appartiene il tuo strumento prima di adottarlo. Chiediti se ottimizza verso esiti fissi o apre la direzione dello studente, perché quella risposta, non l'elenco delle funzioni, determina cosa farà al tuo progetto di valutazione.
+- Nomina la tradizione a cui appartiene il tuo strumento prima di adottarlo. Chiediti se ottimizza verso esiti fissi o apre la direzione dello studente, perché quella risposta, non l'elenco delle funzioni, determina cosa farà al tuo progetto di [[assessment|valutazione]].
 - Interroga la parola "personalizzato" in ogni affermazione di un fornitore, e ottieni una risposta nei termini dei due sensi sopra. Un prodotto che varia il ritmo verso uno standard comune e uno che lascia divergere gli studenti non sono sostituti.
 - Quando gli studenti presentano la GenAI come senza precedenti, la storia è contenuto insegnabile di per sé. L'inquadratura Anderson-Papert dà loro un vocabolario per discutere dell'IA anziché solo usarla.
 
 **Per gli sviluppatori**
 
 - Il linguaggio dell'interfaccia è una decisione progettuale con una discendenza. Chiamare il tuo sistema un "tutor di IA" eredita l'inquadratura di Anderson e l'aspettativa di ottimizzare verso esiti standard; chiamarlo un "micromondo" o un "ambiente di apprendimento" eredita quella di Papert. Nessuno dei due è neutrale, quindi scegli deliberatamente.
-- Se stai costruendo nella tradizione dell'analogia (modelli dell'apprendimento, agenti insegnabili, simulazioni dell'acquisizione di conoscenza), dillo. Quel quadrante è rimasto quasi vuoto per due decenni e si sta ripopolando; il posizionamento è un differenziatore e i criteri di valutazione sono diversi.
+- Se stai costruendo nella tradizione dell'analogia (modelli dell'apprendimento, agenti insegnabili, [[simulation|simulazioni]] dell'acquisizione di conoscenza), dillo. Quel quadrante è rimasto quasi vuoto per due decenni e si sta ripopolando; il posizionamento è un differenziatore e i criteri di valutazione sono diversi.
 
 **Per i ricercatori**
 
@@ -124,3 +127,5 @@ L'arrivo dell'[[generative-ai|IA generativa]] — un'ampia famiglia che include 
 - [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
 - [[socrates-students-instructors-llms-lbt-2025]] — Learning-by-teaching with LLMs (Papert's constructionism lineage)
 - [[rismanchian-ai-education-four-decades-aixed-2026]]
+
+- [[wu-fifty-years-ai-reach-computers-education-2026]] — Fifty years of AI's reach into computers and education: a topic-model history of Computers & Education (Wu et al. 2026)

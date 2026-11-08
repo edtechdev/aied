@@ -1,7 +1,7 @@
 ---
 title: "关于教育中人工智能的研究文献有哪些值得注意的空白？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-08T05:07:30-05:00"
 weight: 45
 type: faq
 foundations: [limitations-in-aied-research]
@@ -116,7 +116,7 @@ AI 素养干预研究已经足够多，可以做综合了。[[liu-ai-literacy-in
 
 公平性研究还必须把可及性、技能与结果分开。[[digital-divide|数字鸿沟]]综述明确指出，拥有设备与工具访问权并不等于具备同等的受益能力。[[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]]追踪了 752 名香港初中生：心理准备度上的差距缩小了，而客观 AI 素养测验上的差异依然存在。每一组都有进步，不平等并没有缩小。先前的学习画像不是随机分配的，因此其在因果上的作用仍然未知。
 
-覆盖的薄弱之处也很具体。[[differential-effects-across-learner-groups|不同学习者群体间的差异效应]]按人群清点文献：第二语言与[[multilingual-learning|多语学习者]]和[[inclusive-learning|残障学生]]是最深的两条线，性别与[[neurodiversity|神经多样性]]次之，第一代大学生与国际学生在这个语料库中各只有一项研究，资优与高成就学生实际上无人研究，难民、移民与流离失所的学习者一项都没有。这样形状的证据基础无法靠聚合来回答公平性问题。
+覆盖的薄弱之处也很具体。[[differential-effects-across-learner-groups|不同学习者群体间的差异效应]]按人群清点文献：第二语言与[[multilingual-learning|多语学习者]]和[[inclusive-learning|残障学生]]是最深的两条线，性别与[[neurodiversity|神经多样性]]次之，第一代大学生在这个语料库中有两项研究——一项是使用差异，一项是效应估计——国际学生则只有一项，资优与高成就学生实际上无人研究，难民、移民与流离失所的学习者一项都没有。这样形状的证据基础无法靠聚合来回答公平性问题。
 
 能力在一个国家体系内部也有差异。[[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye 等人（2026）]]给 45 所尼日利亚高校的 AI 整合程度打分，发现总体采用处于中等水平（M = 4.79，10 分制上范围 1.83-7.83），在控制校龄与地理之后，机构类型并不能预测整合程度（校龄 β = 0.43；位于西南部 β = 0.31）。各项内部能力之间相关为 r = 0.79-0.80，国际合作与产业合作之间为 r = 0.74，因此联系紧密的机构会累积起叠加的优势。哪些能力建设设计能改变较新、联系较少的机构的结果，尚未被检验。
 

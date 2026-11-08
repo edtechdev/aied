@@ -9,7 +9,9 @@ queued update only after the previous one has finished.
 The publisher never uses `gh release upload --clobber` for a live asset. It
 uploads a uniquely named staging asset, verifies its bytes and SHA-256, renames
 the old canonical asset to a run-scoped backup, then renames the staged asset to
-the canonical name. The backup is kept for recovery and never wildcard-deleted.
+the canonical name. The backup exists only for rollback within the run: it is
+deleted once the promoted asset re-verifies, so a release never accumulates
+backup copies (and if promotion fails, the backup is restored and kept).
 """
 from __future__ import annotations
 
@@ -286,6 +288,13 @@ def main():
                 'bytes': entry['bytes'],
             }
             record('promoted', filename=filename, asset_id=staged_id)
+            if backup_id is not None:
+                try:
+                    delete_asset(args.repo, backup_id)
+                    journal['assets'][filename]['backup_asset_id'] = None
+                    record('backup_pruned', filename=filename, backup_asset_id=backup_id)
+                except Exception as prune_exc:  # pragma: no cover - live cleanup
+                    record('backup_prune_failed', filename=filename, error=str(prune_exc))
 
         catalog['catalog_verified_at'] = time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
         catalog_tmp = args.journal.parent / 'offline-editions.json'

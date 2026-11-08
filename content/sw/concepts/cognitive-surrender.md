@@ -12,7 +12,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-29T10:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -68,7 +68,7 @@ Majratibu matatu yaliyosajiliwa mapema yalibadilisha Jaribio la Tafakari ya Kiak
 
 Somo la vitendo ni kwamba kujisalimisha ni **kushindwa kwa kutofautisha** badala ya kushindwa kwa motisha. Washiriki waliokujisalimu hawakujaribu kuepuka kazi; hawakuweza kutofautisha ushauri mzuri na mbaya, na kiolesura hakuwapa sababu ya kujaribu.
 
-Jaribio lililosajiliwa mapema la [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] linatoa mipangilio pinzani. Msaidizi alipozungushwa na uongezaji wa urejeshaji hadi kwenye karatasi ya kazi iliyoteuliwa, hali ya AI ilipunguza upitishaji wa kazi ya kiakili (wastani −0.27) badala ya kuuongeza, na hakuna njia ya upitishaji iliyobeba kupanda kwa upungufu wa mpangilio (0.84). Kujisalimisha kunahitaji msaidizi ambaye ushauri wake unaweza kukubaliwa kikamilifu; mfumo unaojibu tu kutoka nyenzo iliyopo unampa mwanafunzi kidogo cha kukubali na kingi cha kupatanisha.
+Jaribio lililosajiliwa mapema la [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] linatoa mipangilio pinzani. Msaidizi alipozungushwa na [[rag|uongezaji wa urejeshaji]] hadi kwenye karatasi ya kazi iliyoteuliwa, hali ya AI ilipunguza upitishaji wa kazi ya kiakili (wastani −0.27) badala ya kuuongeza, na hakuna njia ya upitishaji iliyobeba kupanda kwa upungufu wa mpangilio (0.84). Kujisalimisha kunahitaji msaidizi ambaye ushauri wake unaweza kukubaliwa kikamilifu; mfumo unaojibu tu kutoka nyenzo iliyopo unampa mwanafunzi kidogo cha kukubali na kingi cha kupatanisha.
 
 ## Kujisalimisha nje ya maabara
 
@@ -82,6 +82,9 @@ Matokeo ya maabara yanalingana na kazi ya uwanja na ya uchunguzi ambayo kwa njia
 - **Hali za kutegemea na huru zinatofautishwa tu katika matokeo.** [[family-school-autonomy-support-genai-2026|Fan, Li na Zhang (2026)]] wanafuatia wanafunzi 589 na wafanyakazi wa mapema wa kazi katika mawimbi matatu: kupunguza mzigo kwa kutegemea kuliteua mawazo ya msingi na kufuatana na motisha ya asili ya chini, wakati kupunguza mzigo kwa uhuru hakufanya hivyo, na utendaji wa haraka ulionekana sawa katika zote mbili.
 - **Mchango wa mfano mwenyewe.** [[sycophantic-ai-social-interaction-2026|Kubembeleza]] ni nyongeza ya kujisalimisha: msaidizi anayekubali, anayeelea kuelekea mwelekeo wa mtumiaji, au anayetangaza dai kwa ufasaha anampa mwanafunzi hakuna cha kushindana nacho.
 - **Kuondolewa ni nusu isiyotatuliwa.** [[cognitive-washout-ai-skill-decay-2026|Kazi juu ya kuondolewa kwa ufikiri]] inaonyesha kuwa karibu utafiti wote huu unapima ufikiri *wakati* wa matumizi ya AI, na karibu hakuna unayopima kinachotokea msaidizi akiondolewa, ambayo ni hasa swali ambalo mtihani, kukosekana kwa umeme au mapitio ya leseni yanauliza.
+
+- **"Uteuzi wa insha nzima unabaki kuwa dhahania nje ya maabara."** Ilitokea katika utafiti wa mtandaoni wa kikao kimoja bila sera na bila himizo. Kati ya waandishi 77 wa chuo kikuu, 15 (19.5%) waliwasilisha insha zilizoandikwa **100%** na mfano, bila kuandika neno lolote kwenye kihariri, na washiriki 20 waliomba moja kwa moja insha nzima, msimbo uliotumika zaidi katika mpango. Mtumiaji mzito zaidi aliwasilisha maswali 27. [[jelson-students-chatgpt-essay-writing-2026|Kujisalimisha kulijitokeza kama mchoro wa maombi]], si kama kitendo kimoja kinachoweza kugundulika.
+
 
 ## Kubini na kufundisha dhidi ya kujisalimisha
 
@@ -140,3 +143,6 @@ Ushahidi wa kujisalimisha kama muundo uliotajwa unategemea kwa kiasi kikubwa mpa
 - [[brcic-effortless-trap-productive-struggle-2026]] — kuweka AI ili kazi ibaki yenye juhudi
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — mafunzo ya upimaji
 - [[family-school-autonomy-support-genai-2026]] — kupunguza mzigo kwa kutegemea dhidi ya kwa uhuru
+
+- [[jelson-students-chatgpt-essay-writing-2026]] — Uteuzi wa insha nzima kwa njia ya asili: insha 15 kati ya 77 ziliandikwa kabisa na mfano, maombi 20 ya insha kamili (Jelson et al. 2026)
+

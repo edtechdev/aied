@@ -1,7 +1,7 @@
 ---
 title: מודל SAMR
 created: "2026-10-12T19:09:00-04:00"
-updated: "2026-10-30T19:00:00-04:00"
+updated: "2026-11-08T06:32:22-05:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -10,7 +10,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-02T09:55:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,7 @@ SAMR מצטלפת לעתים קרובות עם [[icap-framework|מסגרת ICAP]
 - **SAMR היא יעד הביקורת הפוסט-הומניסטית.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] מבקר את TPACK, SAMR ומודלי ה[[ai-literacy|אוריינות בבינה מלאכותית]] על שיתוף אונטולוגיה הומניסטית שמניחה לומד מוגבל שקוגניצייתו אינה משתנה מהותית על ידי תיווך טכנולוגי, וטוען שמסגרות אינסטרומנטליסטיות אלה אינן מסוגלות להתמודד עם התפקיד המכונן של הבינה המלאכותית בקוגניציה.
 - **מסגרת לשילוב, לא מסגרת לכוח.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] מעריך את SAMR לצד TPACK ומסגרות שילוב אחרות ומוצא שאף אחת מהן אינה מתייחסת לכוח הוגן, לבעלות על נתונים או לאחריותיות, מה שמניע מסגרת חלופית של סוכנות-משותפת אקולוגית.
 - **שימוש הסטודנטים ממופה ל-SAMR גם כן, ומשוב נפרש על פני כל השלבים.** קידוד הצהרות הבינה המלאכותית היוצרת של 31–36 סטודנטים ביחידה ב[[physics-education|פיזיקה]] מיקם למידה בהחלפה–הרחבה, עיצוב בהחלפה, וביצוע משימות בשינוי–עיצוב מחדש, בעוד שמשוב — בדיקה, הבהרה, אימות — הופיע בכל ארבעת השלבים ([[genai-use-changing-institutional-policy-physics-2026|Quince and Faulconer (2026)]]).
+- **עומק והכלה הם צירים נפרדים.** [[jita-ai-mathematics-classrooms-inclusion-2026|Jita, Jita & Omoniyi (2026)]] מזווגים את SAMR עם [[universal-design-for-learning|UDL]] על פני 38 מקורות וטוענים שמשימות ברמת עיצוב-מחדש עדיין יכולות להדיר סטודנטים ששפתם, המכשיר שלהם או הקישוריות שלהם אינם מתאימים לעיצוב.
 
 ## SAMR, TPACK ואימוץ טכנולוגיה: כיצד הם נבדלים
 
@@ -106,3 +107,4 @@ SAMR מובנת טוב יותר כעדשה לעומק שילוב המשמשת ב
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — הביקורת הפוסט-הומניסטית על האונטולוגיה ההומניסטית של SAMR
 - [[reclaiming-epistemic-agency-co-agency-2026]] — שתיקות SAMR על כוח, בעלות על נתונים ואחריותיות
 - [[genai-use-changing-institutional-policy-physics-2026]] — שימוש סטודנטים בבינה מלאכותית יוצרת תחת מדיניות מוסדית משתנה: פונקציות שימוש הממופות לשלבי SAMR (Quince & Faulconer 2026)
+- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI in Mathematics Classrooms: A Synergistic Strategy for Diversity and Inclusivity

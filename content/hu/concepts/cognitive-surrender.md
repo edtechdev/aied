@@ -12,8 +12,8 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
-updated: "2026-10-27T16:46:11-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "*Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*"
 contributors: [editor]
 ai_assist:
@@ -69,18 +69,23 @@ Három előre regisztrált kísérlet adaptálta a Cognitive Reflection Testet, 
 
 A gyakorlati olvasat az, hogy a megadás **megkülönböztetési kudarc**, nem motivációs kudarc. A megadó résztvevők nem a munkát akarták elkerülni; nem tudták megkülönböztetni a jó tanácsot a rossztól, és az interfész nem adott okot arra, hogy megpróbálják.
 
+
+A [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] által végzett előre regisztrált kísérlet ellentétes elrendezést mutat. Amikor az asszisztenst [[rag|retrieval-augmentációval]] a kijelölt munkalaphoz kötötték, az MI-feltétel csökkentette a kognitív leterhelést (medián −0,27) ahelyett, hogy növelte volna, és semmilyen leterhelési útvonal nem hordozta a dezorganizáció növekedését (0,84). A megadáshoz olyan asszisztens kell, amelynek tanácsa egészében átvehető; egy rendszer, amely csak a jelenlegi anyagból válaszol, kevesebbet kínál átvehetőként és többet összeegyeztetnivalóként a tanulónak.
+
 ## Megadás a laboron kívül
 
 A laboreredmények egybevágnak terepmunkával és megfigyeléses vizsgálatokkal, amelyek függetlenül ugyanahhoz a szóhoz nyúltak.
 
 - **Népességszintű eltolódás.** [[generative-ai-reduced-study-time-math|Rismanchian és mtsai. (2026)]] 3,2 millió ALEKS-tanulási interakciót és 12,2 millió [[assessment|elhelyezési értékelési]] válaszidőt elemez egy tízéves panelen, a gráfalapú feladatokat a szövegalapúak kontrolljaként használva. A diákok az MI-re fogékony munkát gyorsabban végezték el és jobb eredményt értek el rajta, miközben a felügyelt megtartási tételek a helyes válasz esélyének 25%-os kumulatív csökkenését mutatták; a szerzők a mintát népességi léptékű kognitív megadásnak nevezik.
 - **Az ellenőrzés a megkülönböztető változó.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis és mtsai. (2026)]] szerint az, *hogyan* használják a diákok a generatív MI-t, előre jelzi a [[learning-gains|teljesítményt]], míg az, *mennyit* használják, egyiket sem: az alacsony ellenőrzésű átvétel (a kimenet kritikátlan elfogadása) rosszabb eredménnyel járt együtt, az értékelő integráció pedig jobbal.
-- **A gondtalan használat elapasztja az önirányításhoz szükséges erőforrásokat.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao és Gu (2026)]] közvetlenül modellezi az értékelés nélküli átvételt: 487 egyetemi hallgató körében a generatív MI gondtalan használata alacsonyabb [[self-regulated-learning|önirányított tanulással]] járt együtt (β = -0,42), részben a csökkent [[motivation|motiváción]] és [[self-efficacy|önhatékonyságon]] keresztül.
+- **A gondtalan használat elapasztja az önirányításhoz szükséges erőforrásokat.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao és Gu (2026)]] közvetlenül modellezi az értékelés nélküli átvételt: 487 egyetemi hallgató körében a generatív MI gondtalan használata alacsonyabb [[self-directed-learning|önirányított tanulással]] járt együtt (β = -0,42), részben a csökkent [[motivation|motiváción]] és [[self-efficacy|önhatékonyságon]] keresztül.
 - **A neurális és a szerzőségi nyom.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|a kognitív adósság EEG-vizsgálata]] [[writing-education|esszéírást]] mért [[llm|LLM-mel]], keresőmotorral és eszköz nélkül: az LLM-csoport mutatta a leggyengébb neurális konnektivitást, a legalacsonyabb szerzőségérzetet jelentette a saját munkája felett, és nehezen tudta idézni, amit írt.
 - **A megadás kéretlenül is megérkezhet.** [[ai-advice-suppresses-ikt-suspension-2026|Az ítéletfelfüggesztésről szóló munka]] azt találta, hogy pusztán az MI-tanács elérhetősége összeomlasztotta az emberek hajlandóságát arra, hogy azt mondják: „nem tudom” (0,06 versus 0,36, és 0,03 versus 0,44 két vizsgálatban), miközben a helyesség esett, a magabiztosság pedig mintegy 30-ról 76-ra nőtt. A tét nem állította vissza a felfüggesztést, bár az ösztönzők a felülírások ösztönzésével javították a pontosságot. Egy negyedik vizsgálat minden konzultáció nélkül mutatta meg a hatást, ami az automatikus kiegészítés vagy a keresési összefoglaló mintája, nem a csevegőprompté.
 - **A függő és az autonóm mód csak következményében különböztethető meg.** [[family-school-autonomy-support-genai-2026|Fan, Li és Zhang (2026)]] 589 diákot és pályakezdő munkavállalót követ három hullámon át: a függő leterhelés a központi gondolkodást delegálta, és alacsonyabb belső motivációval járt együtt, az autonóm leterhelés nem, és az azonnali teljesítmény mindkettőnél azonosnak látszott.
 - **A modell saját hozzájárulása.** [[sycophantic-ai-social-interaction-2026|A hízelgés]] a megadás kiegészítője: egy asszisztens, amely egyetért, a felhasználó keretezése felé hajlik, vagy folyékonyan állít valamit, nem ad a tanulónak semmit, amihez ellenállást építhetne.
 - **A visszavonás a megoldatlan fél.** [[cognitive-washout-ai-skill-decay-2026|A kognitív kimosódásról szóló munka]] rámutat, hogy e kutatás szinte mindegyike az MI használata *közben* méri a kogníciót, és szinte egyik sem méri, mi történik, amikor az asszisztenst elveszik, pedig pontosan ezt a kérdést teszi fel egy vizsga, egy kiesés vagy egy licencfelülvizsgálat.
+
+- **„A teljes esszé delegálása a laboron kívül hipotetikus marad.”** Megtörtént egyetlen alkalmas online vizsgálatban, szabályzat és bátorítás nélkül. **77** főiskolai író közül **15 (19,5%)** olyan esszét adott be, amelyet **100%-ban** a modell írt, anélkül hogy egy szót is gépelt volna a szerkesztőbe, és **20** résztvevő egyenesen egy teljes esszét kért, ami a kódolási séma leggyakrabban használt kódja volt. A legaktívabb felhasználó **27** lekérdezést küldött. [[jelson-students-chatgpt-essay-writing-2026|A megadás kérésmintaként jelent meg]], nem egyetlen felismerhető aktusként.
 
 ## A megadás elleni tervezés és tanítás
 
@@ -140,3 +145,6 @@ A megadás mint nevesített konstruktum bizonyítéka nagyrészt egyetlen labora
 - [[brcic-effortless-trap-productive-struggle-2026]] — az MI elhelyezése, hogy a feladat erőfeszítéses maradjon
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibrációs tréning
 - [[family-school-autonomy-support-genai-2026]] — függő versus autonóm leterhelés
+
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — A munkalaphoz kötött asszisztens inkább csökkentette, mint növelte a leterhelést: a megadásjelzés határeset-e (Braun 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Természetes körülmények közötti teljes esszédelegálás: 77 esszéből 15 teljesen modellírta, 20 kérés teljes esszére (Jelson és mtsai. 2026)

@@ -6,9 +6,9 @@ foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T06:32:22-05:00"
 translation_of: "concepts/history-of-aied"
-source_updated: "2026-10-25T13:10:00-04:00"
+source_updated: "2026-11-05T15:16:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,7 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-> **Sejarah AI dalam Pendidikan** — kajian tentang bagaimana kecerdasan artifisial dan pendidikan saling berevolusi sejak pertengahan abad ke-20 dan bagaimana pilihan konseptual, terminologis, dan desain masa lalu terus membentuk perdebatan hari ini tentang AI dalam pembelajaran. Alih-alih memperlakukan AI generatif sebagai kekuatan mendadak yang tak berpreseden, lensa historis menyingkap ketegangan yang berulang — kendali vs. agensi, standardisasi vs. kreativitas, otomasi vs. augmentasi — yang telah menstrukturkan AI dalam pendidikan sejak asal-usulnya.
+> **Sejarah [[ai-education|AI dalam Pendidikan]]** — kajian tentang bagaimana kecerdasan artifisial dan pendidikan saling berevolusi sejak pertengahan abad ke-20 dan bagaimana pilihan konseptual, terminologis, dan desain masa lalu terus membentuk perdebatan hari ini tentang AI dalam pembelajaran. Alih-alih memperlakukan AI generatif sebagai kekuatan mendadak yang tak berpreseden, lensa historis menyingkap ketegangan yang berulang — kendali vs. agensi, standardisasi vs. [[creativity|kreativitas]], otomasi vs. augmentasi — yang telah menstrukturkan AI dalam pendidikan sejak asal-usulnya.
 
 ## Pertanyaan yang Perlu Dipertimbangkan
 
@@ -29,7 +29,7 @@ ai_assist:
 - Halaman ini membingkai sejarah AIED sebagai ketegangan antara kendali (tutor kognitif Anderson yang mengoptimalkan pengajaran) dan agensi (konstruksionisme Papert yang memberdayakan pembelajar). Di mana pilihan AI dalam pendidikan Anda sendiri jatuh pada spektrum itu — dan mengapa?
 - Personalisasi, menurut halaman ini, memiliki dua makna: memvariasikan jalur menuju hasil yang sama, atau memungkinkan hasil yang beragam dan diarahkan pembelajar. Jenis personalisasi mana yang sesungguhnya dikejar institusi Anda, dan mana yang menurut Anda seharusnya?
 - Jika perdebatan GenAI hari ini 'mencerminkan' ketegangan historis tersebut, kesalahan masa lalu apa yang mungkin kita ulangi — dan apa yang mungkin kita hindari dengan mengingatnya?
-- Halaman ini mengklaim bahwa pilihan desain teknis menyematkan penilaian nilai tentang tujuan pembelajaran. Dapatkah Anda mengenali keputusan desain dalam alat pendidikan AI yang pernah Anda gunakan yang diam-diam mengutamakan standardisasi di atas agensi pembelajar — atau sebaliknya?
+- Halaman ini mengklaim bahwa pilihan desain teknis menyematkan penilaian nilai tentang tujuan pembelajaran. Dapatkah Anda mengenali keputusan desain dalam alat pendidikan AI yang pernah Anda gunakan yang diam-diam mengutamakan standardisasi di atas [[agency|agensi pembelajar]] — atau sebaliknya?
 
 ## Pendahuluan
 
@@ -41,11 +41,14 @@ Sejarah bidang ini bukanlah kemajuan linear melainkan rangkaian keputusan kontin
 
 **Revolusi kognitif dan akar ITS.** Para perintis awal — Herbert Simon, Allen Newell, Marvin Minsky, John Anderson — bukan sekadar memodelkan kognisi; mereka menyelidiki pertanyaan mendasar tentang pembelajaran dan pengajaran. Karya mereka menghasilkan model pemrosesan informasi kognisi manusia yang menjadi fondasi psikologi pendidikan, dan berujung pada [[intelligent-tutoring|Sistem Tutor Cerdas (ITS)]], yang berakar pada paradigma pencarian heuristik dan sistem pakar AI dekade 1960–70-an. Sistem-sistem ini selaras secara alami dengan struktur penilaian dan standardisasi yang ada, dan akhirnya melebur menjadi komunitas AIED.
 
-**Kendali vs. agensi: Anderson dan Papert.** Dua visi yang bersaing muncul, terwujud pada John Anderson dan Seymour Papert. **Tutor kognitif** [[intelligent-tutoring|Anderson]] (teori ACT/ACT-R) menguraikan pengetahuan menjadi aturan produksi, memberi umpan balik individual yang tepat, dan memperkuat struktur pendidikan tradisional — visi AI sebagai alat untuk mengoptimalkan pengajaran. **Konstruksionisme** [[constructivist|Papert]] (Logo, "mikrodunia", men-debug sebagai belajar) melihat komputer sebagai lingkungan tempat anak mengonstruksi pengetahuan melalui eksperimentasi kreatif — visi AI sebagai instrumen pemberdayaan intelektual yang menantang hierarki institusional. "Ketegangan esensial" antara kendali dan agensi inilah yang menjadi benang merah sejarah bidang ini.
+**Kendali vs. agensi: Anderson dan Papert.** Dua visi yang bersaing muncul, [[embodied-learning|terwujud]] pada John Anderson dan Seymour Papert. **Tutor kognitif** [[intelligent-tutoring|Anderson]] (teori ACT/ACT-R) menguraikan pengetahuan menjadi aturan produksi, memberi umpan balik individual yang tepat, dan memperkuat struktur pendidikan tradisional — visi AI sebagai alat untuk mengoptimalkan pengajaran. **Konstruksionisme** [[constructivist|Papert]] (Logo, "mikrodunia", men-debug sebagai belajar) melihat komputer sebagai lingkungan tempat anak mengonstruksi pengetahuan melalui eksperimentasi kreatif — visi AI sebagai instrumen pemberdayaan intelektual yang menantang hierarki institusional. "Ketegangan esensial" antara kendali dan agensi inilah yang menjadi benang merah sejarah bidang ini.
 
-**Dua bentuk personalisasi.** [[personalized-learning|Personalisasi]] memiliki dua tafsir berbeda yang memetakan ke visi-visi tersebut. Yang pertama mempertahankan hasil yang seragam sambil memvariasikan jalur (berakar pada mesin pengajaran Skinner; visi Khan Academy tentang tutoring hingga penguasaan). Yang kedua merangkul hasil yang beragam — pembelajar mengejar minat dan bakat individual, tanpa dibatasi batas kurikulum standar (Zhao, 2024). Model ITS mendukung yang pertama; konstruksionisme yang kedua.
+**Dua bentuk personalisasi.** [[personalized-learning|Personalisasi]] memiliki dua tafsir berbeda yang memetakan ke visi-visi tersebut. Yang pertama mempertahankan hasil yang seragam sambil memvariasikan jalur (berakar pada mesin pengajaran Skinner; visi Khan Academy tentang tutoring hingga penguasaan). Yang kedua merangkul hasil yang beragam — pembelajar mengejar minat dan bakat individual, tanpa dibatasi batas [[curriculum-design|kurikulum]] standar (Zhao, 2024). Model ITS mendukung yang pertama; konstruksionisme yang kedua.
 
-**Pelajaran bagi era GenAI.** Perdebatan hari ini tentang AI generatif sangat mencerminkan ketegangan historis tersebut. GenAI sering diposisikan sebagai tutor cerdas generasi berikutnya (memperluas Anderson), memunculkan kekhawatiran tentang pengawasan, pengumpulan data, dan standardisasi. Atau ia dapat menjadi alat bagi agensi kreatif (memperluas Papert), yang menuntut kita memikirkan ulang penilaian dan menerima hasil yang lebih ambigu. Sebagaimana disimpulkan [[mishra-control-vs-agency-history-2025|Mishra dkk.]], kekuatan institusional berulang kali mengutamakan pendekatan yang memperkuat struktur yang ada — dan bahasa serta metafora yang kita pilih akan membentuk kemungkinan masa depan. [[rismanchian-ai-education-four-decades-aixed-2026|Kerangka AI×Ed Rismanchian & Doroudi]] memberi intuisi ini landasan empiris: dengan menempatkan makalah dari prosiding AIED (1985, 1993, 2021, 2024) dan IJAIED (2004, 2014, 2021) di sepanjang dua sumbu — peran AI (alat terapan vs. analogi bagi kecerdasan manusia) dan pengguna akhir — mereka melacak bidang yang bergerak dari campuran beragam, termasuk penelitian awal substansial yang menggunakan AI sebagai analogi bagi kecerdasan manusia (model komputasional pembelajaran, mikrodunia Papert, model berbasis agen untuk akuisisi pengetahuan), menuju fokus hampir eksklusif pada penggunaan terapan dan instrumental pada dekade 2000-an. Menariknya, era AI generatif tampak sebagian membalik lintasan itu: pada AIED 2024, tiga dari empat makalah di kuadran "AI-sebagai-analogi" bidang ini berbasis LLM, termasuk makalah terbaik tentang agen yang dapat mengajar berbasis LLM.
+**Pelajaran bagi era GenAI.** Perdebatan hari ini tentang AI generatif sangat mencerminkan ketegangan historis tersebut. GenAI sering diposisikan sebagai tutor cerdas generasi berikutnya (memperluas Anderson), memunculkan kekhawatiran tentang pengawasan, pengumpulan data, dan standardisasi. Atau ia dapat menjadi alat bagi agensi kreatif (memperluas Papert), yang menuntut kita memikirkan ulang penilaian dan menerima hasil yang lebih ambigu. Sebagaimana disimpulkan [[mishra-control-vs-agency-history-2025|Mishra dkk.]], kekuatan institusional berulang kali mengutamakan pendekatan yang memperkuat struktur yang ada — dan bahasa serta metafora yang kita pilih akan membentuk kemungkinan masa depan. [[rismanchian-ai-education-four-decades-aixed-2026|Kerangka AI×Ed Rismanchian & Doroudi]] memberi intuisi ini landasan empiris: dengan menempatkan makalah dari prosiding AIED (1985, 1993, 2021, 2024) dan IJAIED (2004, 2014, 2021) di sepanjang dua sumbu — peran AI (alat terapan vs. analogi bagi kecerdasan manusia) dan pengguna akhir — mereka melacak bidang yang bergerak dari campuran beragam, termasuk penelitian awal substansial yang menggunakan AI sebagai analogi bagi kecerdasan manusia (model komputasional pembelajaran, mikrodunia Papert, model berbasis agen untuk akuisisi pengetahuan), menuju fokus hampir eksklusif pada penggunaan terapan dan instrumental pada dekade 2000-an. Menariknya, era AI generatif tampak sebagian membalik lintasan itu: pada AIED 2024, tiga dari empat makalah di kuadran "AI-sebagai-analogi" bidang ini berbasis LLM, termasuk makalah terbaik tentang [[learning-by-teaching|agen yang dapat mengajar]] berbasis LLM.
+
+
+**Rekam jejak jurnal berbelok dua kali.** Sebuah model topik struktural atas 5,387 artikel *Computers & Education* (1976–2026) menemukan AI pada 390 rekaman (7.2%), di 17 dari 18 topiknya. Peluang tahunan bahwa sebuah artikel terkait AI naik 21.8% per tahun hingga 1989, turun 3.7% setiap tahun hingga 2018, lalu naik 40.1% per tahun hingga 2025 ([[wu-fifty-years-ai-reach-computers-education-2026|Wu dkk., 2026]]). Titik balik 2018 mendahului ChatGPT empat tahun, sehingga era generatif mempercepat tren yang sudah berjalan alih-alih memulainya.
 
 ## Dampak mutakhir AI generatif
 
@@ -55,7 +58,7 @@ Kedatangan [[generative-ai|AI generatif]] — keluarga luas yang mencakup [[llm|
 
 **Jenis kapabilitas baru.** Sistem AIED sebelumnya memodelkan kognisi dan menyampaikan pengajaran terstruktur (tradisi Anderson). LLM melakukan generasi terbuka — menghasilkan esai, penjelasan, kode, dan dialog — yang mengedepankan agensi dan kreativitas pembelajar (tradisi Papert) dengan cara yang tidak dapat dilakukan ITS sebelumnya. Inilah sebabnya momen sekarang menyalakan kembali ketegangan kendali-vs-agensi begitu tajam: alat yang sama dapat diterapkan sebagai tutor cerdas generasi berikutnya (mengendalikan hasil) atau sebagai rekan penulis kreatif dan mitra berpikir (memperkuat agensi).
 
-**Pembalikan persamaan akses.** Secara historis, tutoring terpersonalisasi langka dan mahal; GenAI membuat dukungan adaptif satu-satu nyaris gratis dan universal — sangat menurunkan hambatan aksesibilitas dan biaya yang membentuk AIED sebelumnya. Namun ia juga menghadirkan risiko baru: bias algoritmik, halusinasi, pengawasan, pengumpulan data, dan penurunan keterampilan pendidik.
+**Pembalikan persamaan akses.** Secara historis, tutoring terpersonalisasi langka dan mahal; GenAI membuat dukungan adaptif satu-satu nyaris gratis dan universal — sangat menurunkan hambatan aksesibilitas dan biaya yang membentuk AIED sebelumnya. Namun ia juga menghadirkan risiko baru: [[bias-mitigation|bias algoritmik]], [[hallucination-risk|halusinasi]], pengawasan, pengumpulan data, dan penurunan keterampilan pendidik.
 
 **Kekhawatiran yang diperbarui tentang literasi AI dan penyalahgunaan.** Era AI generatif membuat [[ai-literacy]] mendesak dan membingkai ulang debat [[academic-integrity]] (deteksi vs. dialog), sekaligus menghidupkan kembali kekhawatiran lama tentang otomasi, standardisasi, dan ketergantungan epistemik. Ini adalah ungkapan modern dari ketegangan asli bidang ini.
 
@@ -82,14 +85,14 @@ Kedatangan [[generative-ai|AI generatif]] — keluarga luas yang mencakup [[llm|
 
 **Bagi instruktur dan perancang instruksional**
 
-- Namai tradisi tempat alat Anda berasal sebelum mengadopsinya. Tanyakan apakah alat itu mengoptimalkan ke arah hasil tetap atau membuka arah pembelajar, karena jawaban itu, bukan daftar fiturnya, menentukan apa yang akan dilakukannya pada desain penilaian Anda.
+- Namai tradisi tempat alat Anda berasal sebelum mengadopsinya. Tanyakan apakah alat itu mengoptimalkan ke arah hasil tetap atau membuka arah pembelajar, karena jawaban itu, bukan daftar fiturnya, menentukan apa yang akan dilakukannya pada [[assessment|desain penilaian]] Anda.
 - Interogasi kata "terpersonalisasi" dalam setiap klaim vendor, dan dapatkan jawaban dalam kerangka dua makna di atas. Produk yang memvariasikan tempo menuju standar bersama dan produk yang membiarkan siswa menyimpang bukanlah pengganti satu sama lain.
 - Ketika siswa menyajikan GenAI sebagai tanpa preseden, sejarah adalah materi yang dapat diajarkan dengan sendirinya. Pembingkaian Anderson-Papert memberi mereka kosakata untuk berargumen tentang AI, bukan sekadar menggunakannya.
 
 **Bagi pengembang**
 
 - Bahasa antarmuka adalah keputusan desain dengan garis keturunan. Menyebut sistem Anda "tutor AI" mewarisi pembingkaian Anderson dan ekspektasi mengoptimalkan ke arah hasil standar; menyebutnya "mikrodunia" atau "lingkungan belajar" mewarisi pembingkaian Papert. Keduanya tidak netral, jadi pilihlah dengan sengaja.
-- Jika Anda membangun dalam tradisi analogi (model pembelajaran, agen yang dapat mengajar, simulasi akuisisi pengetahuan), katakan demikian. Kuadran itu nyaris kosong selama dua dekade dan kini terisi kembali; posisinya menjadi pembeda dan kriteria evaluasinya berbeda.
+- Jika Anda membangun dalam tradisi analogi (model pembelajaran, agen yang dapat mengajar, [[simulation|simulasi]] akuisisi pengetahuan), katakan demikian. Kuadran itu nyaris kosong selama dua dekade dan kini terisi kembali; posisinya menjadi pembeda dan kriteria evaluasinya berbeda.
 
 **Bagi peneliti**
 
@@ -120,3 +123,5 @@ Kedatangan [[generative-ai|AI generatif]] — keluarga luas yang mencakup [[llm|
 - [[lak2026-hint-button-unproductive-use]] — Meninjau kembali tombol petunjuk pada tutor kognitif
 - [[socrates-students-instructors-llms-lbt-2025]] — Belajar dengan mengajar bersama LLM (garis keturunan konstruksionisme Papert)
 - [[rismanchian-ai-education-four-decades-aixed-2026]]
+
+- [[wu-fifty-years-ai-reach-computers-education-2026]] — Lima puluh tahun topik Computers & Education: prevalensi AI berbelok naik setelah 2018, empat tahun sebelum ChatGPT

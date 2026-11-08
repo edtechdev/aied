@@ -12,8 +12,8 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
-updated: "2026-10-27T17:14:13-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
 contributors: [editor]
 ai_assist:
@@ -69,18 +69,22 @@ Trzy prerejestrowane eksperymenty zaadaptowały Test Refleksji Poznawczej i rand
 
 Praktyczny odczyt jest taki, że kapitulacja jest **porażką rozróżniania**, a nie porażką motywacji. Uczestnicy, którzy kapitulowali, nie próbowali uniknąć pracy; nie potrafili odróżnić dobrej rady od złej, a interfejs nie dawał im powodu, by próbować.
 
+Prerejestrowany eksperyment [[braun-cognitive-dormancy-ai-affordances-2026|Brauna (2026)]] dostarcza kontrastującej konfiguracji. Gdy asystent był ograniczony przez [[rag|augmentację wyszukiwania]] do przydzielonego arkusza, warunek z SI obniżył odciążanie poznawcze (mediana −0,27), zamiast je podnosić, a żadna ścieżka odciążania nie niosła wzrostu dezorganizacji (0,84). Kapitulacja wymaga asystenta, którego rady można przyjąć w całości; system, który odpowiada wyłącznie na podstawie bieżącego materiału, daje uczniowi mniej do przyjęcia i więcej do uzgodnienia.
+
 ## Kapitulacja poza laboratorium
 
 Ustalenia laboratoryjne układają się w linię z pracą terenową i obserwacyjną, która niezależnie sięgnęła po to samo słowo.
 
 - **Przemieszczenie na poziomie populacji.** [[generative-ai-reduced-study-time-math|Rismanchian i wsp. (2026)]] analizują 3,2 mln interakcji z uczeniem się w ALEKS i 12,2 mln czasów reakcji w [[assessment|ocenianiu diagnostycznym]] na przestrzeni dziesięcioletniego panelu, z zadaniami grafowymi jako kontrolą dla zadań tekstowych. Studenci kończyli pracę podatną na SI szybciej i uzyskiwali w niej wyższe wyniki, podczas gdy nadzorowane pozycje retencyjne wykazały 25-procentowy skumulowany spadek szans na poprawną odpowiedź; autorzy nazywają ten wzorzec kapitulacją poznawczą w skali populacji.
 - **Weryfikacja jako zmienna rozróżniająca.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis i wsp. (2026)]] stwierdzają, że *jak* studenci korzystają z generatywnej SI, przewiduje [[learning-gains|wyniki]], podczas gdy *jak dużo* korzystają, nie przewiduje ani jednego, ani drugiego: przyswajanie o niskiej weryfikacji - bezkrytyczne przyjmowanie wyniku - wiązało się z gorszymi wynikami, a integracja oceniająca z lepszymi.
-- **Bezmyślne użycie eroduje zasoby, których potrzebuje samokierowanie.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao i Gu (2026)]] modelują wprost przyjmowanie bez oceny: wśród 487 studentów licencjackich bezmyślne korzystanie z generatywnej SI wiązało się z niższym [[self-regulated-learning|uczeniem samokierowanym]] (β = -0,42), częściowo przez obniżoną [[motivation|motywację]] i [[self-efficacy|poczucie własnej skuteczności]].
+- **Bezmyślne użycie eroduje zasoby, których potrzebuje samokierowanie.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao i Gu (2026)]] modelują wprost przyjmowanie bez oceny: wśród 487 studentów licencjackich bezmyślne korzystanie z generatywnej SI wiązało się z niższym [[self-directed-learning|uczeniem samokierowanym]] (β = -0,42), częściowo przez obniżoną [[motivation|motywację]] i [[self-efficacy|poczucie własnej skuteczności]].
 - **Ślad neuronowy i ślad autorstwa.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|badanie EEG nad długiem poznawczym]] mierzyło [[writing-education|pisanie eseju]] z [[llm|LLM]], z wyszukiwarką i bez narzędzia: grupa z LLM miała najsłabsze łączność neuronową, zgłaszała najniższe autorstwo własnej pracy i miała trudność z zacytowaniem tego, co napisała.
 - **Kapitulacja może przyjść niezamówiona.** [[ai-advice-suppresses-ikt-suspension-2026|Praca o zawieszaniu osądu]] wykazała, że sama dostępność rady SI załamała gotowość ludzi do powiedzenia „nie wiem" (0,06 wobec 0,36 i 0,03 wobec 0,44 w dwóch badaniach), podczas gdy poprawność spadła, a pewność wzrosła z około 30 do 76. Stawka nie przywróciła zawieszenia, choć zachęty poprawiły trafność przez pobudzanie odrzuceń. Czwarte badanie pokazało ten efekt bez żadnej konsultacji - wzorzec autouzupełniania lub streszczenia wyszukiwania, a nie promptu czatu.
 - **Tryby zależny i autonomiczny są rozróżnialne tylko w skutku.** [[family-school-autonomy-support-genai-2026|Fan, Li i Zhang (2026)]] śledzą 589 uczniów i osób na początku kariery zawodowej przez trzy fale: odciążanie zależne delegowało myślenie rdzeniowe i wiązało się z niższą motywacją wewnętrzną, a odciążanie autonomiczne nie, przy czym bezpośrednie wyniki wyglądały identycznie w obu przypadkach.
 - **Wkład samego modelu.** [[sycophantic-ai-social-interaction-2026|Sycophancy]] jest dopełnieniem kapitulacji: asystent, który potakuje, łagodzi ku ramie użytkownika lub płynnie formułuje twierdzenie, nie daje uczniowi niczego, o co mógłby się oprzeć.
 - **Wycofanie to nierozstrzygnięta połowa.** [[cognitive-washout-ai-skill-decay-2026|Praca o wymywaniu poznawczym]] wskazuje, że niemal wszystkie te badania mierzą poznanie *podczas* korzystania z SI, a niemal żadne nie mierzy tego, co dzieje się, gdy asystent zostaje zabrany - co jest dokładnie pytaniem, jakie stawia egzamin, awaria lub przegląd licencji.
+
+- **„Delegowanie całego eseju pozostaje hipotetyczne poza laboratorium.”** Zdarzyło się w jednosesyjnym badaniu internetowym bez polityki i bez zachęty. Spośród **77** studentów piszących na poziomie licencjackim **15 (19,5%)** oddało eseje w **100%** napisane przez model, nie wpisując ani słowa w edytorze, a **20** uczestników wprost poprosiło o cały esej, co było najczęściej używanym kodem w schemacie. Najcięższy użytkownik wysłał **27** zapytań. [[jelson-students-chatgpt-essay-writing-2026|Kapitulacja ujawniła się jako wzorzec próśb]], a nie jako pojedynczy wykrywalny akt.
 
 ## Projektowanie i nauczanie przeciw kapitulacji
 
@@ -140,3 +144,5 @@ Dowody na kapitulację jako nazwany konstrukt opierają się w dużej mierze na 
 - [[brcic-effortless-trap-productive-struggle-2026]] — rozmieszczenie SI tak, by zadanie pozostało wysiłkowe
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — trening kalibracji
 - [[family-school-autonomy-support-genai-2026]] — odciążanie zależne wobec autonomicznego
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Asystent oparty na arkuszu obniżył odciążanie, zamiast je podnosić: warunek graniczny dla sygnatury kapitulacji (Braun 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Naturalistyczne delegowanie całego eseju: 15 z 77 esejów w całości napisanych przez model, 20 próśb o kompletny esej (Jelson i wsp. 2026)

@@ -1,7 +1,7 @@
 ---
 title: "Interpretar e aplicar a pesquisa em AIEd"
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-08T06:32:22-05:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -74,7 +74,7 @@ Se você se lembrar de uma coisa desta página, lembre-se de que o número de de
 - **As próprias revisões do campo não sobrevivem à auditoria.** A auditoria de [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] de **14 metanálises revisadas por pares** que afirmam que a IA melhora a educação concluiu que **nenhuma** forneceu base válida para as afirmações que avançava, e que, entre 46 estudos primários selecionados aleatoriamente, **61%** apresentavam preocupações de validade. O problema não é um artigo ruim; é uma cultura de relato.
 - **Uma revisão pode quantificar o desvio de relato no próprio corpus.** Uma revisão sistemática de 155 estudos do ensino superior constatou que 117 (75,5%) relatavam implementação bem-sucedida, 124 (80,0%) cobriam apenas impacto de curto prazo, e somente 23 (14,8%) relatavam falhas de [[ethics|ética]], equidade ou governança — o desequilíbrio que as verificações acima descrevem, medido sobre a própria base de evidência da revisão ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 - **Autorrelatos lisonjeiam todos.** As pessoas avaliam suas próprias [[ai-literacy|competências em IA]] cerca de **40%** mais alto que as medidas de desempenho mostram, e é por isso que levantamentos de satisfação e confiança são a evidência mais fraca sobre a qual se pode agir ([[self-report-measures|Medidas de autorrelato]], [[educational-measurement|Medição educacional]]).
-- **A maioria dos produtos já em salas de aula não tem nenhuma evidência independente.** O [[instruction-partners-ai-in-action-learning-tour-2026|tour de aprendizagem 2025–26 da Instruction Partners]] perfilou 20 produtos de IA voltados a estudantes e concluiu que, dos 16 com perfis completos, apenas sete tinham uma revisão independente examinando desempenho de estudantes entre grupos de estudantes nos EUA; dois eram estudados apenas no exterior, quatro tinham estudos em andamento e três dependiam apenas de dados internos. Os autores argumentam que estudos causais independentes cobrindo grupos prioritários deveriam ser a expectativa para todos os produtos voltados a estudantes — ainda não a norma para ferramentas que as escolas já usam.
+- **A maioria dos produtos já em salas de aula não tem nenhuma evidência independente.** O [[instruction-partners-ai-in-action-learning-tour-2026|tour de aprendizagem 2025–26 da Instruction Partners]] perfilou 20 produtos de IA voltados a estudantes e concluiu que, dos 16 com perfis completos, apenas sete tinham uma revisão independente examinando [[learning-gains|desempenho de estudantes]] entre grupos de estudantes nos EUA; dois eram estudados apenas no exterior, quatro tinham estudos em andamento e três dependiam apenas de dados internos. Os autores argumentam que estudos causais independentes cobrindo grupos prioritários deveriam ser a expectativa para todos os produtos voltados a estudantes — ainda não a norma para ferramentas que as escolas já usam.
 
 ## Transformando um achado em uma decisão
 

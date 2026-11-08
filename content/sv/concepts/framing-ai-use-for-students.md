@@ -10,8 +10,8 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: "concepts/framing-ai-use-for-students"
-source_updated: "2026-10-25T18:05:00-04:00"
-updated: "2026-10-27T17:23:12-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:31:23-05:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Frågor att fundera över
 
 - Att helt enkelt göra AI tillgängligt för eleverna förknippades med ineffektiv eller till och med oetisk användning, medan ett uttryckligt inramande och inbäddande av lämplig användning förbättrade resultaten. Om verktygets närvaro betyder mindre än hur det ramas in, vad säger det om betoningen på att bara "ge eleverna AI"?
-- De flesta elever använder generativ AI, många är osäkra på om deras användning är förenlig med reglerna, och de lutar sig mot verktyg de kommer åt privat snarare än sådana som institutionen tillhandahåller. Om kännedom om reglerna knappt förändrar vad eleverna gör, vad skulle då kunna övertyga i stället för att bara informera?
+- De flesta elever använder [[generative-ai|generativ AI]], många är osäkra på om deras användning är förenlig med reglerna, och de lutar sig mot verktyg de kommer åt privat snarare än sådana som institutionen tillhandahåller. Om kännedom om reglerna knappt förändrar vad eleverna gör, vad skulle då kunna övertyga i stället för att bara informera?
 - När institutioner svarar på AI med rädsla och fördömande kan elever dölja eller rationalisera sin användning i stället för att lära sig använda den väl. Har du sett en "moralisk panik" driva elever in i hemlighållande? Hur skulle ett omramat, möjlighetsinriktat förhållningssätt se ut?
 - Oro för AI är inte enbart ett hinder: elever som oroade sig för riktighet och plagiat var *mer* benägna att verifiera och revidera AI-output i stället för att acceptera den okritiskt. Hur kan produktiv oro kanaliseras till värderande kompetens i stället för att tryckas undan?
 - Elever konstruerar sin egen uppfattning om vad som är acceptabelt genom "platser" - lärarnas avsikter, kursdokument, kamratnormer och institutionella budskap - som ofta går isär. När dessa budskap krockar, vilket tror du faktiskt vinner, och hur sluter inramningen det gapet?
@@ -41,7 +41,7 @@ Begreppet ligger mellan två mer bekanta begrepp. Där [[technology-acceptance-m
 
 Inramning spelar roll därför att **policy och regler inte pålitligt förändrar beteende på egen hand**. Enkät[[research-methods-aied|forskning]] om kännedom om [[regulation|reglering]] visar att elevers kunskap om institutionella GenAI-regler bara har svaga till måttliga samband med vad de faktiskt gör ([[student-regulatory-awareness-genai]]). Att känna till reglerna är nödvändigt men inte tillräckligt; budskapet måste *övertyga*, inte bara informera.
 
-Differentierad inramning kan uppstå inom en och samma policy och inte bara mellan olika platser: en sentimentanalys av 36 universitetspolicyer fann att uttalanden om undervisning var positivt inramade medan uttalanden om GenAI och etik var negativt inramade, så eleverna mötte både uppmuntran och återhållsamhet i ett och samma dokument ([[sun-governing-genai-policy-cross-national-2026|Sun m.fl. (2026)]]).
+Differentierad inramning kan uppstå inom en och samma policy och inte bara mellan olika platser: en [[affective-computing|sentimentanalys]] av 36 universitetspolicyer fann att uttalanden om undervisning var positivt inramade medan uttalanden om GenAI och etik var negativt inramade, så eleverna mötte både uppmuntran och återhållsamhet i ett och samma dokument ([[sun-governing-genai-policy-cross-national-2026|Sun m.fl. (2026)]]).
 
 Inramningen avgör också om eleverna upplever AI som ett **hot att undvika eller kringgå** eller som en **resurs att använda medvetet**. När institutioner svarar på AI med rädsla och fördömande - vad en forskningslinje kallar en återkommande "moralisk panik" - driver de elever till att dölja eller rationalisera sin användning i stället för att lära sig använda den väl.([[moral-panic-genai-classroom]]) Att rama om oro och fördömande till strukturerad möjlighet förändrar hela dynamiken i [[student-engagement|elevernas engagemang]] med AI.
 
@@ -61,7 +61,7 @@ Den mest direkta inramningsspaken i kunskapsbasen är att ange *skälet* till en
 
 ### Omvandla oro och osäkerhet till värderande kompetens
 
-En [[mixed-methods-research|blandmetodstudie]] av akademiskt [[writing-education|skrivande]] fann att AI-oro inte bara är ett hinder: elever som oroade sig för riktighet och plagiat var *mer* benägna att verifiera, korsgranska och revidera AI-output i stället för att acceptera den okritiskt. Studien ramar in [[ai-literacy|AI-kompetens]] mindre som acceptans och mer som **reglerande kompetens** - förmågan att ifrågasätta output, revidera selektivt och behålla ansvaret som författare.([[ai-anxiety-strategic-regulation-writing-2026]]) Att rama in AI-användning för elever innebär att kanalisera produktiv oro mot värdering, inte att trycka undan den.
+En [[mixed-methods-research|blandmetodstudie]] av akademiskt [[writing-education|skrivande]] fann att [[anxiety-and-stress|AI-oro]] inte bara är ett hinder: elever som oroade sig för riktighet och plagiat var *mer* benägna att verifiera, korsgranska och revidera AI-output i stället för att acceptera den okritiskt. Studien ramar in [[ai-literacy|AI-kompetens]] mindre som acceptans och mer som **reglerande kompetens** - förmågan att ifrågasätta output, revidera selektivt och behålla ansvaret som författare.([[ai-anxiety-strategic-regulation-writing-2026]]) Att rama in AI-användning för elever innebär att kanalisera produktiv oro mot värdering, inte att trycka undan den.
 
 ### Använd riktade budskap för att forma specifika beteenden
 

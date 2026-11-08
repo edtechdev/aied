@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T12:11:34-04:00"
+updated: "2026-11-08T05:10:57-05:00"
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
@@ -67,7 +67,7 @@ Zostávajúca medzera sa týka trajektórií schopnosti a jeden pridaný posttes
 
 „Učenie podporované AI“ zvyčajne zabalí niekoľko zmien: novú spätnú väzbu, pridanú reflexiu, diskusiu s rovesníkmi, iné poradie úloh, zmenené motivačné nastavenia hodnotenia. Balík, ktorý uspeje, vám nepovie, ktoré komponenty boli nevyhnutné.
 
-[[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design]] je skutočným posunom v tejto otázke. Medzi 1 176 študentmi prvého ročníka si reflexívne a hybridné dizajny viedli lepšie než priama [[ai-feedback-quality|spätná väzba AI]] v oneskorenom transfere bez AI. Hybridná podmienka spájala sebahodnotenie, [[peer-assessment|spätnú väzbu rovesníkov]] a kritiku AI. To oddeľuje, ako je spätná väzba organizovaná a používaná, od toho, či študenti majú k spätnej väzbe prístup vôbec.
+[[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design]] je skutočným posunom v tejto otázke. Medzi 1 176 študentmi prvého ročníka si reflexívne a hybridné dizajny viedli lepšie než priama [[ai-feedback-quality|spätná väzba AI]] v oneskorenom transfere bez AI. Hybridná podmienka spájala [[self-assessment|sebahodnotenie]], [[peer-assessment|spätnú väzbu rovesníkov]] a kritiku AI. To oddeľuje, ako je spätná väzba organizovaná a používaná, od toho, či študenti majú k spätnej väzbe prístup vôbec.
 
 Stále otvorené: prínos a načasovanie prvých nezávislých pokusov, sebarozvíjania vysvetlenia, vstupu rovesníkov, korektívnej spätnej väzby, náznakov a postupného odstraňovania pomoci a to, ako každý z nich interaguje s [[prior-knowledge|predchádzajúcim poznaním]] a náročnosťou úlohy.
 
@@ -87,7 +87,7 @@ AI vytvára dva prepojené problémy hodnotenia: pomáha vytvárať prácu, ktor
 
 [[ai-agents-complete-lms-assessment-validity-2026|štúdia o agentoch AI, ktorí plnia hodnotené úlohy v LMS]] v tejto znalostnej báze dokumentuje agentov, ktorí prechádzajú živým bakalárskym kurzom a dokončujú hodnotené aktivity. To ukazuje schopnosť, ktorá spochybňuje predpoklady o dôkazoch vytváraných študentmi. Neustanovuje, aké bežné je takéto používanie, a neruší platnosť asynchrónneho hodnotenia ako kategórie.
 
-Výskumná otázka je, ktoré dizajny ešte podporujú obhájiteľné závery o študentovi. [[eportfolio|Portfóliá]], reflexie, stupňovité odovzdania a záznamy aktivít potrebujú validáciu ako dôkazy namiesto toho, aby sa predpokladalo, že ustanovujú autorstvo alebo porozumenie. Štúdie by mali testovať kombinácie dôkazov proti nezávisle pozorovanej kompetencii a zároveň počítať s prístupnosťou, pracovnou záťažou, súkromím a úzkosťou študentov. Podrobnosti drží [[assessment-validity|Assessment Validity]].
+Výskumná otázka je, ktoré dizajny ešte podporujú obhájiteľné závery o študentovi. [[eportfolio|Portfóliá]], reflexie, stupňovité odovzdania a záznamy aktivít potrebujú validáciu ako dôkazy namiesto toho, aby sa predpokladalo, že ustanovujú autorstvo alebo porozumenie. Štúdie by mali testovať kombinácie dôkazov proti nezávisle pozorovanej kompetencii a zároveň počítať s prístupnosťou, pracovnou záťažou, súkromím a [[anxiety-and-stress|úzkosťou študentov]]. Podrobnosti drží [[assessment-validity|Assessment Validity]].
 
 Pri [[automated-assessment|automatizovanom bodovaní]] [[llms-do-not-grade-essays-like-humans-2026|LLMs Do Not Grade Essays Like Humans]] uvádza systematickú nezhodu medzi modelmi v predvolenom nastavení a ľudskými hodnotiteľmi. Zistenia sú špecifické pre konfiguráciu a ukazujú, prečo vnútorná konzistencia nemôže niesť nárok na platnosť.
 
@@ -105,11 +105,11 @@ Vyriešiť to vyžaduje hodnotenie založené na výkone spojené s pozorovaním
 
 ## Uveďte, koho zistenie vynecháva
 
-Zistenia z jedného kurzu, inštitúcie, jazyka alebo populácie žiakov zriedka oprávňujú rozhodnutia inde, čo syntéza [[limitations-in-aied-research|Obmedzenia výskumu AIEd]] považuje za opakujúci sa problém. Ako sa efekty líšia podľa vývojovej fázy, disciplíny, predchádzajúceho poznania, postihnutia, jazyka a podmienok zdrojov, zostáva z väčšej časti nezmerané.
+Zistenia z jedného kurzu, inštitúcie, jazyka alebo [[learners|populácie žiakov]] zriedka oprávňujú rozhodnutia inde, čo syntéza [[limitations-in-aied-research|Obmedzenia výskumu AIEd]] považuje za opakujúci sa problém. Ako sa efekty líšia podľa vývojovej fázy, disciplíny, predchádzajúceho poznania, postihnutia, jazyka a podmienok zdrojov, zostáva z väčšej časti nezmerané.
 
 Výskum rovnosti tiež musí oddeliť prístup, zručnosti a výsledky. Syntéza [[digital-divide|digitálnej priepasti]] jasne uvádza, že zariadenia a prístup k nástrojom neustanovujú rovnakú schopnosť mať z nich úžitok. [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] sledovala 752 žiakov nižšieho stredného stupňa v Hongkongu: medzery v psychologickej pripravenosti sa zúžili, kým rozdiely v objektívnom teste AI gramotnosti pretrvávali. Každá skupina sa zlepšila a nerovnosť sa neuzavrela. Profily predchádzajúceho učenia neboli náhodne pridelené, takže ich kauzálna úloha zostáva neznáma.
 
-Pokrytie je na konkrétnych miestach riedke. [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] počíta literatúru podľa populácie: žiaci učiace sa druhý jazyk a viacjazyční žiaci a študenti s postihnutím sú najhlbšími vláknami, rod a neurodiverzita nasledujú, študenti prvej generácie a medzinárodní študenti majú v tomto korpuse po jednej štúdii, nadaní a vysoko výkonní študenti sú v podstate nepreskúmaní a utečenci, imigranti a vysídlení žiaci sa neobjavujú v žiadnej. Dôkazová základňa s takýmto tvarom nemôže na otázku rovnosti odpovedať agregovaním.
+Pokrytie je na konkrétnych miestach riedke. [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] počíta literatúru podľa populácie: žiaci učiace sa druhý jazyk a [[multilingual-learning|viacjazyční žiaci]] a [[inclusive-learning|študenti s postihnutím]] sú najhlbšími vláknami, rod a [[neurodiversity|neurodiverzita]] nasledujú, študenti prvej generácie majú v tomto korpuse dve štúdie (jeden rozdiel v používaní a jeden odhad účinku) a medzinárodní študenti jednu, nadaní a vysoko výkonní študenti sú v podstate nepreskúmaní a utečenci, imigranti a vysídlení žiaci sa neobjavujú v žiadnej. Dôkazová základňa s takýmto tvarom nemôže na otázku rovnosti odpovedať agregovaním.
 
 Kapacita sa líši aj vnútri jedného národného systému. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] ohodnotili integráciu AI na 45 nigérijských univerzitách a našli strednú celkovú adopciu (M = 4,79, rozsah 1,83-7,83 na 10-bodovej škále), pričom typ inštitúcie nepredpovedal integráciu, keď sa kontroloval vek a geografia (vek β = 0,43; poloha juhozápad β = 0,31). Vnútorné kapacity navzájom korelovali pri r = 0,79-0,80 a medzinárodné spolupráce s partnerskými vzťahmi s priemyslom pri r = 0,74, takže prepojené inštitúcie hromadia zložené výhody. Ktoré dizajny budovania kapacít menia výsledky na novších, menej prepojených inštitúciách, je neotestované.
 
@@ -183,7 +183,7 @@ Vyučujúci, ktorí chcú verziu na úrovni triedy, môžu pokračovať na [[eva
 
 **„Zovšeobecnená veľkosť efektu mi už hovorí, čo funguje.“** 14 auditovaných meta-analýz definovalo zásah ako nástroj, zlúčilo nezlučiteľné výsledky a uviedlo I² nad 80 % v 12 z 13 analýz, ktoré ho poskytli. Zovšeobecnené číslo opisuje súbor štúdií s problémom konštruktu.
 
-**„Simulovaní žiaci sú lacnejší, takže ich validácia môže počkať.“** V štúdii patolízalstva simulovaní žiaci odkladali mylné predstavy bez ohľadu na to, či sa im spätná väzba venovala, čo je práve ten spôsob zlyhania, ktorý robí neúčinného doučovateľa účinným.
+**„Simulovaní žiaci sú lacnejší, takže ich validácia môže počkať.“** V štúdii [[ai-sycophancy|patolízalstva]] simulovaní žiaci odkladali mylné predstavy bez ohľadu na to, či sa im spätná väzba venovala, čo je práve ten spôsob zlyhania, ktorý robí neúčinného doučovateľa účinným.
 
 ## Čo urobiť tento týždeň
 

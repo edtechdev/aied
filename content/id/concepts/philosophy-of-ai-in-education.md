@@ -6,9 +6,9 @@ foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T06:32:22-05:00"
 translation_of: "concepts/philosophy-of-ai-in-education"
-source_updated: "2026-10-25T19:20:00-04:00"
+source_updated: "2026-11-05T15:16:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -40,8 +40,10 @@ Ini adalah halaman konsep bagi fondasi filosofis dan teoretis [[ai-education|AI 
 - **Hakikat pikiran dan kognisi.** Apakah berpikir memerlukan kesadaran dan tubuh? Dapatkah AI berpartisipasi dalam proses yang benar-benar kognitif? Kerangka seperti **kognisi ansambel** berargumen bahwa AI menjalankan *agensi fungsional* — keberdayaan kausal yang sungguh-sungguh dalam proses kognitif — tanpa kesadaran, dan bahwa berpikir muncul dari [[student-ai-interaction|interaksi manusia–AI]] yang dinamis.([[ensemble-cognition-philosophy-ai-education]]) [[distributed-cognition|Kognisi terdistribusi]] dan tesis pikiran yang diperluas membuat klaim serupa tentang kognisi yang tersebar di seluruh sistem.
 - **Apa itu siswa?** Filsafat posthumanis merekonseptualisasikan siswa sebagai entitas "pasca-manusia" yang proses kognitifnya benar-benar hibrida dan terdistribusi di antara sistem [[biology-education|biologis]] dan artifisial.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Ini menantang asumsi bahwa siswa adalah pikiran individu yang terbatas dan otonom.
 - **Penubuhan dan batas AI tanpa tubuh.** Filsafat [[embodied-learning|yang tertubuhkan]] dan pascakognitivis mengkritik dominasi model AI simbolik dan tanpa tubuh, dengan berargumen bahwa kognisi berakar pada kesituasian, kemunculan, dan gandengan sensorimotorik yang tidak dimiliki [[generative-ai|AI generatif]] saat ini.([[videla-embodied-ai-education-choreography]])
+
+- **Kerja emosional sebagai kasus uji bagi pikiran mesin.** Perdebatan bidang ini tentang apakah AI dapat mengajar sering bergantung pada apakah ia dapat *peduli*, pertanyaan yang diperdebatkan jauh sebelum [[affective-computing|komputasi afektif]] ada. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] merekonstruksi perdebatan 1950–1996, ketika klaim Ziff bahwa hanya makhluk hidup yang secara literal dapat memiliki perasaan dijawab oleh teori identitas Smart dan kriteria perilaku Putnam, sehingga menyisakan tiga ontologi yang bersaing tanpa penyelesaian. Kesimpulannya adalah beban pembenaran alih-alih klaim ketidakmungkinan — representasi, simulasi, dan mimikri tidak cukup untuk menentukan kerja emosional — yang menempatkan beban itu pada siapa pun yang hendak mendelegasikan kerja pastoral kepada sebuah sistem.
 - **Agensi, kepengarangan, dan makna.** Ketika AI memediasi interpretasi dan pemaknaan, filsafat bertanya bagaimana kepengarangan, [[agency|agensi]] epistemik, dan otonomi interpretatif ditata ulang.([[voicu-ai-interpretive-cognition-ssh-2026]])
-- **Ontologi objek ilmiah hasil AI.** Dalam kimia, senyawa dan kurva titrasi yang diprediksi AI menempati "ruang ontologis liminal" — tidak sepenuhnya hipotetis maupun sepenuhnya nyata sampai terbukti secara empiris — yang menggeser disiplin dari realisme ke pandangan konstruktivis di mana realitas adalah kolaborasi manusia dan mesin ([[philosophy-experimentation-ai-chemistry-2026|Reyes dan Regala (2026)]]).
+- **Ontologi objek ilmiah hasil AI.** Dalam [[chemistry-education|kimia]], senyawa dan kurva titrasi yang diprediksi AI menempati "ruang ontologis liminal" — tidak sepenuhnya hipotetis maupun sepenuhnya nyata sampai terbukti secara empiris — yang menggeser disiplin dari realisme ke pandangan konstruktivis di mana realitas adalah kolaborasi manusia dan mesin ([[philosophy-experimentation-ai-chemistry-2026|Reyes dan Regala (2026)]]).
 - **Kepasifan kognitif sebagai kerugian epistemik.** Bai dan Costa (2026) bersandar pada uraian Arendt tentang berpikir sebagai aktivitas batin yang tak dapat dipindahkan untuk berargumen bahwa GenAI yang menyediakan pekerjaannya bukan sekadar melimpahkan berpikir melainkan menutup kemungkinannya, dengan ranah dan habitus Bourdieu menempatkan risiko itu dalam struktur institusional ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
 - **Nilai, keadilan, dan tujuan pendidikan.** Analisis filosofis mengkaji apakah pendidikan yang digerakkan AI melayani kesejahteraan manusia dan keadilan pendidikan, atau apakah ia menginstrumentalisasi pembelajaran demi produktivitas.([[avraamidou-ai-colonization-science-education]]) Ini terhubung dengan [[critical-pedagogy]] dan [[ethics]].
 - **'Berpusat pada manusia' sebagai wacana antroposentris, bukan etika netral.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang & Jin (2026)]] membaca dokumen UNESCO, OECD, dan Deklarasi Montréal untuk berargumen bahwa AIED yang berpusat pada manusia mewarisi pengecualian humanisme Pencerahan, bahwa transhumanisme mempertahankannya, dan bahwa label itu dapat melegitimasi infrastruktur komersial.
@@ -118,3 +120,5 @@ Filosofi AI dalam pendidikan dan [[theory-development-aied|pengembangan teori da
 - [[daoism-ai-education-philosophy-2026]] — Filosofi AI Alternatif: Daoisme sebagai Metode bagi AI dalam Pendidikan
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Siapa yang Bertindak, Siapa yang Mengetahui, Siapa yang Menjawab? Analisis Wacana Berbantuan Korpus atas Agensi, Tanggung Jawab Epistemik, dan Akuntabilitas dalam Penelitian Pendidikan Tinggi AI Generatif
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — AIED 'berpusat pada manusia' dibaca sebagai wacana antroposentris dengan kegunaan komersial (Wang & Jin 2026)
+
+- [[khan-machines-emotional-labor-education-2026]] — Dapatkah mesin melakukan kerja emosional? Perdebatan 1950–1996, dan mengapa mimikri tidak cukup menentukan kepedulian

@@ -11,9 +11,9 @@ audience: [instructors, administrators, instructional designers, software develo
 page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
-updated: "2026-11-04T02:20:32-05:00"
+updated: "2026-11-08T06:32:22-05:00"
 translation_of: "concepts/interpreting-and-applying-aied-research"
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -70,7 +70,7 @@ Jika Anda mengingat satu hal dari halaman ini, ingatlah bahwa angka utamanya bia
 - **Tinjauan bidang ini sendiri tidak lolos audit.** [[oneill-presumed-effective-meta-analysis-2026|Audit O'Neill (2026)]] atas **14 meta-analisis yang ditelaah sejawat** yang mengklaim AI meningkatkan pendidikan menemukan bahwa **tidak satu pun** memberikan dasar yang valid bagi klaim yang diajukannya, dan di antara 46 studi primer yang dipilih secara acak, **61%** mengemukakan kekhawatiran validitas. Masalahnya bukan satu makalah yang buruk; masalahnya adalah budaya pelaporan.
 - **Sebuah tinjauan dapat mengukur kemencengan pelaporan dalam korpusnya sendiri.** Tinjauan sistematis atas 155 studi pendidikan tinggi menemukan 117 (75.5%) melaporkan implementasi yang berhasil, 124 (80.0%) hanya mencakup dampak jangka pendek, dan hanya 23 (14.8%) melaporkan kegagalan [[ethics]], keadilan, atau tata kelola — ketidakseimbangan yang digambarkan pemeriksaan di atas, diukur pada basis bukti tinjauan itu sendiri ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 - **Laporan diri membuat semua orang tampak lebih baik.** Orang menilai [[ai-literacy|keterampilan AI]] mereka sendiri sekitar **40%** lebih tinggi daripada yang ditunjukkan ukuran kinerja, itulah sebabnya survei kepuasan dan kepercayaan diri adalah bukti terlemah yang dapat Anda tindaklanjuti ([[self-report-measures|Ukuran Laporan Diri]], [[educational-measurement|Pengukuran Pendidikan]]).
-- **Sebagian besar produk yang sudah ada di kelas tidak memiliki bukti independen sama sekali.** [[instruction-partners-ai-in-action-learning-tour-2026|Tur pembelajaran Instruction Partners 2025–26]] memprofilkan 20 produk AI yang berhadapan dengan siswa dan menemukan bahwa, dari 16 yang profilnya lengkap, hanya tujuh memiliki tinjauan independen yang menelaah pencapaian siswa lintas kelompok siswa di AS; dua hanya diteliti di luar negeri, empat memiliki studi yang sedang berjalan, dan tiga hanya mengandalkan data internal. Para penulis berargumen bahwa studi kausal independen yang mencakup kelompok prioritas seharusnya menjadi ekspektasi bagi semua produk yang berhadapan dengan siswa — belum menjadi norma bagi alat yang sudah digunakan sekolah.
+- **Sebagian besar produk yang sudah ada di kelas tidak memiliki bukti independen sama sekali.** [[instruction-partners-ai-in-action-learning-tour-2026|Tur pembelajaran Instruction Partners 2025–26]] memprofilkan 20 produk AI yang berhadapan dengan siswa dan menemukan bahwa, dari 16 yang profilnya lengkap, hanya tujuh memiliki tinjauan independen yang menelaah [[learning-gains|pencapaian siswa]] lintas kelompok siswa di AS; dua hanya diteliti di luar negeri, empat memiliki studi yang sedang berjalan, dan tiga hanya mengandalkan data internal. Para penulis berargumen bahwa studi kausal independen yang mencakup kelompok prioritas seharusnya menjadi ekspektasi bagi semua produk yang berhadapan dengan siswa — belum menjadi norma bagi alat yang sudah digunakan sekolah.
 
 ## Mengubah temuan menjadi keputusan
 

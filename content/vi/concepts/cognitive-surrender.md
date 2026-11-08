@@ -12,8 +12,8 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: "concepts/cognitive-surrender"
-source_updated: "2026-10-25T20:20:00-04:00"
-updated: "2026-10-27T17:23:12-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:31:23-05:00"
 translation_note: "*Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*"
 contributors: [editor]
 ai_assist:
@@ -69,18 +69,22 @@ Ba thử nghiệm đăng ký trước đã điều chỉnh Bài kiểm tra Phả
 
 Cách đọc thực tiễn là việc đầu hàng nhận thức là một **thất bại trong phân biệt** chứ không phải thất bại trong động cơ. Những người tham gia đầu hàng không cố tránh công việc; họ không thể phân biệt lời khuyên tốt với lời khuyên tồi, và giao diện không cho họ lý do nào để thử.
 
+Một thử nghiệm đăng ký trước của [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] cung cấp một cấu hình đối chứng. Khi trợ lý bị giới hạn bằng [[rag|tăng cường truy xuất]] trong phạm vi bài tập được giao, điều kiện có AI làm *giảm* việc giảm tải nhận thức (trung vị -0.27) thay vì làm tăng nó, và không có đường giảm tải nào mang theo sự gia tăng mất tổ chức (0.84). Việc đầu hàng nhận thức cần một trợ lý mà lời khuyên của nó có thể được chấp nhận nguyên khối; một hệ thống chỉ trả lời từ tài liệu hiện có cho người học ít thứ để chấp nhận hơn và nhiều thứ để đối chiếu hơn.
+
 ## Đầu hàng nhận thức ngoài phòng thí nghiệm
 
 Các phát hiện trong phòng thí nghiệm khớp với công trình thực địa và quan sát vốn độc lập đi tới cùng một từ.
 
 - **Dịch chuyển ở cấp dân số.** [[generative-ai-reduced-study-time-math|Rismanchian và cộng sự (2026)]] phân tích 3.2 triệu tương tác học tập trên ALEKS và 12.2 triệu thời gian phản hồi [[assessment|đánh giá xếp lớp]] trong một bảng dữ liệu mười năm, với các bài toán dựa trên đồ thị làm đối chứng cho các bài dựa trên văn bản. Sinh viên hoàn thành công việc dễ chịu tác động của AI nhanh hơn và đạt điểm cao hơn ở đó, trong khi các câu hỏi kiểm tra duy trì có giám sát cho thấy mức giảm tích lũy 25% trong xác suất có câu trả lời đúng; các tác giả gọi mô thức đó là đầu hàng nhận thức ở quy mô dân số.
 - **Kiểm chứng như biến số phân biệt.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis và cộng sự (2026)]] phát hiện rằng *cách* sinh viên sử dụng AI sinh tạo dự đoán [[learning-gains|hiệu quả học tập]] trong khi *mức độ* sử dụng không dự đoán được cả hai: việc tiếp nhận ít kiểm chứng - chấp nhận đầu ra không phê phán - gắn với kết quả tệ hơn, còn việc tích hợp có đánh giá gắn với kết quả tốt hơn.
-- **Sử dụng thiếu suy nghĩ bào mòn các nguồn lực mà tự định hướng cần đến.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao và Gu (2026)]] mô hình hóa trực tiếp việc chấp nhận mà không đánh giá: qua 487 sinh viên đại học, việc sử dụng AI sinh tạo thiếu suy nghĩ gắn với [[self-regulated-learning|học tập tự định hướng]] thấp hơn (β = -0.42), một phần thông qua việc giảm [[motivation|động lực]] và [[self-efficacy|tự hiệu quả]].
+- **Sử dụng thiếu suy nghĩ bào mòn các nguồn lực mà tự định hướng cần đến.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao và Gu (2026)]] mô hình hóa trực tiếp việc chấp nhận mà không đánh giá: qua 487 sinh viên đại học, việc sử dụng AI sinh tạo thiếu suy nghĩ gắn với [[self-directed-learning|học tập tự định hướng]] thấp hơn (β = -0.42), một phần thông qua việc giảm [[motivation|động lực]] và [[self-efficacy|tự hiệu quả]].
 - **Dấu vết thần kinh và quyền tác giả.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|nghiên cứu EEG về món nợ nhận thức]] đo việc [[writing-education|viết bài luận]] với một [[llm|LLM]], một công cụ tìm kiếm và không có công cụ: nhóm dùng LLM cho thấy kết nối thần kinh yếu nhất, báo cáo quyền tác giả thấp nhất đối với tác phẩm của mình, và chật vật khi phải trích dẫn lại những gì họ đã viết.
 - **Đầu hàng nhận thức có thể đến mà không được mời.** [[ai-advice-suppresses-ikt-suspension-2026|Công trình về việc treo phán đoán]] phát hiện rằng chỉ riêng việc có sẵn lời khuyên AI đã làm sụp đổ ý muốn nói "tôi không biết" của người ta (0.06 so với 0.36, và 0.03 so với 0.44 qua hai nghiên cứu), trong khi độ chính xác giảm và độ tin cậy tăng từ khoảng 30 lên 76. Mức độ hệ trọng không khôi phục lại việc treo phán đoán, dù động cơ khuyến khích cải thiện độ chính xác bằng cách khuyến khích việc bác bỏ. Một nghiên cứu thứ tư cho thấy tác động này mà không cần bất kỳ lần tham khảo nào, mô thức của một tính năng tự động hoàn thành hay một bản tóm tắt tìm kiếm hơn là một lời nhắc chat.
 - **Chế độ phụ thuộc và chế độ tự chủ chỉ phân biệt được qua hệ quả.** [[family-school-autonomy-support-genai-2026|Fan, Li và Zhang (2026)]] theo dõi 589 sinh viên và người lao động mới vào nghề qua ba đợt: việc giảm tải phụ thuộc ủy thác tư duy cốt lõi và gắn với động lực nội tại thấp hơn, trong khi việc giảm tải tự chủ thì không, và hiệu suất tức thời trông giống hệt nhau ở cả hai.
 - **Đóng góp của chính mô hình.** [[sycophantic-ai-social-interaction-2026|Sự nịnh bợ]] là phần bù cho việc đầu hàng nhận thức: một trợ lý đồng tình, nghiêng theo cách định khung của người dùng, hoặc phát biểu một khẳng định một cách trôi chảy không cho người học điều gì để phản đối.
 - **Rút lui là nửa còn lại chưa được giải quyết.** [[cognitive-washout-ai-skill-decay-2026|Công trình về sự rửa trôi nhận thức]] chỉ ra rằng gần như toàn bộ nghiên cứu này đo nhận thức *trong khi* dùng AI, và gần như không có nghiên cứu nào đo điều xảy ra khi trợ lý bị lấy đi, mà đó chính là câu hỏi mà một kỳ thi, một sự cố dịch vụ hay một lần xem xét giấy phép đặt ra.
+
+- **"Ủy thác toàn bộ bài luận vẫn chỉ là giả thuyết ngoài phòng thí nghiệm."** Nó đã xảy ra trong một nghiên cứu trực tuyến một phiên, không có chính sách và không có khuyến khích. Trong **77** sinh viên viết, **15 (19.5%)** nộp bài luận do mô hình viết **100%**, không gõ một từ nào trong trình soạn thảo, và **20** người tham gia yêu cầu thẳng một bài luận hoàn chỉnh, mã được dùng nhiều nhất trong sơ đồ. Người dùng nhiều nhất gửi **27** truy vấn. [[jelson-students-chatgpt-essay-writing-2026|Việc đầu hàng nhận thức hiện ra như một mô thức yêu cầu]], không phải một hành vi đơn lẻ có thể phát hiện.
 
 ## Thiết kế và giảng dạy để chống lại việc đầu hàng nhận thức
 
@@ -140,3 +144,6 @@ Bằng chứng cho việc đầu hàng nhận thức như một khái niệm đ�
 - [[brcic-effortless-trap-productive-struggle-2026]] — bố trí AI để nhiệm vụ vẫn đòi hỏi nỗ lực
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — huấn luyện hiệu chỉnh
 - [[family-school-autonomy-support-genai-2026]] — giảm tải phụ thuộc so với giảm tải tự chủ
+
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — một trợ lý neo vào bài tập làm giảm việc giảm tải thay vì làm tăng nó, một điều kiện biên cho dấu hiệu đầu hàng nhận thức (Braun 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — ủy thác toàn bộ bài luận trong điều kiện tự nhiên: 15 trong 77 bài luận hoàn toàn do mô hình viết, 20 yêu cầu một bài luận trọn vẹn (Jelson và cộng sự 2026)

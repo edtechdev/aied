@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T15:11:35-04:00"
+updated: "2026-11-08T05:10:57-05:00"
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
@@ -67,7 +67,7 @@ Det gjenstående hullet handler om utviklingsbaner for kompetanse, og én ekstra
 
 «AI-støttet læring» pakker vanligvis sammen flere endringer: ny tilbakemelding, tilført refleksjon, diskusjon med medstudenter, andre oppgavesekvenser, endrede vurderingsinsentiver. En pakke som lykkes, forteller deg ikke hvilke komponenter som var nødvendige.
 
-[[genai-feedback-design-multisite-experiment|Menneskesentrert design av GenAI-tilbakemelding]] er et reelt framskritt på det spørsmålet. Blant 1 176 førsteårsstudenter presterte refleksive og hybride design bedre enn direkte [[ai-feedback-quality|AI-tilbakemelding]] på forsinket overføring uten AI. Den hybride betingelsen kombinerte egenvurdering, [[peer-assessment|tilbakemelding fra medstudenter]] og AI-kritikk. Det skiller hvordan tilbakemelding er organisert og brukt fra hvorvidt studentene har tilgang til tilbakemelding i det hele tatt.
+[[genai-feedback-design-multisite-experiment|Menneskesentrert design av GenAI-tilbakemelding]] er et reelt framskritt på det spørsmålet. Blant 1 176 førsteårsstudenter presterte refleksive og hybride design bedre enn direkte [[ai-feedback-quality|AI-tilbakemelding]] på forsinket overføring uten AI. Den hybride betingelsen kombinerte [[self-assessment|egenvurdering]], [[peer-assessment|tilbakemelding fra medstudenter]] og AI-kritikk. Det skiller hvordan tilbakemelding er organisert og brukt fra hvorvidt studentene har tilgang til tilbakemelding i det hele tatt.
 
 Fortsatt åpent: bidraget og tidspunktet for første uavhengige forsøk, egenforklaring, innspill fra medstudenter, korrigerende tilbakemelding, hint og gradvis borttaking av støtte, og hvordan hver av dem samvirker med [[prior-knowledge|forkunnskaper]] og oppgavens vanskelighetsgrad.
 
@@ -87,7 +87,7 @@ AI skaper to sammenkoblede vurderingsproblemer: den hjelper til med å produsere
 
 Kunnskapsbasens [[ai-agents-complete-lms-assessment-validity-2026|studie av AI-agenter som fullfører vurderte LMS-oppgaver]] dokumenterer agenter som navigerer i et aktivt bachelorstudium og fullfører vurderte aktiviteter. Det demonstrerer en kapasitet som utfordrer antakelser om studentprodusert evidens. Det etablerer ikke hvor vanlig slik bruk er, og det ugyldiggjør ikke asynkron vurdering som kategori.
 
-Forskningsspørsmålet er hvilke design som fortsatt gir forsvarlige konklusjoner om den som lærer. [[eportfolio|Porteføljer]], refleksjoner, trinnvise innleveringer og aktivitetslogger må valideres som evidens i stedet for å bli antatt å etablere forfatterskap eller forståelse. Studier bør teste kombinasjoner av evidens mot uavhengig observert kompetanse, samtidig som de tar høyde for tilgjengelighet, arbeidsmengde, personvern og studentangst. [[assessment-validity|Vurderingsvaliditet]] har detaljene.
+Forskningsspørsmålet er hvilke design som fortsatt gir forsvarlige konklusjoner om den som lærer. [[eportfolio|Porteføljer]], refleksjoner, trinnvise innleveringer og aktivitetslogger må valideres som evidens i stedet for å bli antatt å etablere forfatterskap eller forståelse. Studier bør teste kombinasjoner av evidens mot uavhengig observert kompetanse, samtidig som de tar høyde for tilgjengelighet, arbeidsmengde, personvern og [[anxiety-and-stress|studentangst]]. [[assessment-validity|Vurderingsvaliditet]] har detaljene.
 
 For [[automated-assessment|automatisk scoring]] rapporterer [[llms-do-not-grade-essays-like-humans-2026|LLM-er vurderer ikke essays som mennesker]] systematisk uenighet mellom ferdigoppsatte modeller og menneskelige vurderere. Funnene er konfigurasjonsspesifikke, og de viser hvorfor intern konsistens ikke kan bære en gyldighetspåstand.
 
@@ -105,11 +105,11 @@ Det skarpere hullet er hvorvidt opplæring i kompetanse endrer hva folk gjør n�
 
 ## Rapporter hvem funnet utelater
 
-Funn fra ett kurs, én institusjon, ett språk eller én studentpopulasjon gir sjelden grunnlag for beslutninger andre steder, et problem som syntesen om [[limitations-in-aied-research|begrensninger i AIEd-forskningen]] behandler som tilbakevendende. Hvordan effekter varierer på tvers av utviklingsstadium, fag, forkunnskaper, funksjonsnedsettelse, språk og ressurssituasjon, er fortsatt stort sett umålt.
+Funn fra ett kurs, én institusjon, ett språk eller én [[learners|studentpopulasjon]] gir sjelden grunnlag for beslutninger andre steder, et problem som syntesen om [[limitations-in-aied-research|begrensninger i AIEd-forskningen]] behandler som tilbakevendende. Hvordan effekter varierer på tvers av utviklingsstadium, fag, forkunnskaper, funksjonsnedsettelse, språk og ressurssituasjon, er fortsatt stort sett umålt.
 
 Likestillingsforskning må også skille tilgang, ferdigheter og utfall. Syntesen om [[digital-divide|digitalt skille]] er tydelig på at enheter og verktøytilgang ikke etablerer lik kapasitet til å dra nytte av det. [[school-ai-education-readiness-gaps-agency-2026|Reduserer skolebasert AI-opplæring beredskapsgap?]] fulgte 752 ungdomsskoleelever i Hongkong: psykologiske beredskapsgap ble mindre, mens forskjeller på en objektiv test i AI-kompetanse besto. Hver gruppe ble bedre, og ulikheten lukket seg ikke. Profilene for forkunnskaper var ikke tilfeldig fordelt, så deres kausale rolle er ukjent.
 
-Dekningen er tynn på bestemte steder. [[differential-effects-across-learner-groups|Differensielle effekter på tvers av studentgrupper]] teller litteraturen etter populasjon: andre-språklige og flerspråklige studenter og studenter med funksjonsnedsettelser er de dypeste trådene, kjønn og nevromangfold kommer deretter, førstegenerasjons- og internasjonale studenter har én studie hver i dette korpuset, evnerike og høytpresterende studenter er i praksis ustudert, og flyktninger, innvandrere og fordrevne studenter forekommer ikke i noen. En evidensbase med den formen kan ikke svare på et likestillingsspørsmål ved aggregering.
+Dekningen er tynn på bestemte steder. [[differential-effects-across-learner-groups|Differensielle effekter på tvers av studentgrupper]] teller litteraturen etter populasjon: andre-språklige og [[multilingual-learning|flerspråklige studenter]] og [[inclusive-learning|studenter med funksjonsnedsettelser]] er de dypeste trådene, kjønn og [[neurodiversity|nevromangfold]] kommer deretter, førstegenerasjonsstudenter har to studier (én forskjell i bruk og ett effektestimat), og internasjonale studenter én, evnerike og høytpresterende studenter er i praksis ustudert, og flyktninger, innvandrere og fordrevne studenter forekommer ikke i noen. En evidensbase med den formen kan ikke svare på et likestillingsspørsmål ved aggregering.
 
 Kapasiteten varierer også innenfor ett og samme nasjonale system. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye mfl. (2026)]] skåret AI-integrasjon ved 45 nigerianske universiteter og fant moderat samlet adopsjon (M = 4,79, spennvidde 1,83-7,83 på en 10-punkts skala), der institusjonstype ikke predikerte integrasjon når alder og geografi var kontrollert (alder β = 0,43; beliggenhet i sørvest β = 0,31). Interne kapabiliteter korrelerte med hverandre på r = 0,79-0,80, og internasjonale samarbeid med bransjesamarbeid på r = 0,74, så tilknyttede institusjoner akkumulerer forsterkende fordeler. Hvilke design for kapasitetsbygging som endrer utfall ved nyere, mindre tilknyttede institusjoner, er utestet.
 
@@ -183,7 +183,7 @@ Undervisere som vil ha klasseromsversjonen, kan følge [[evaluating-ai-intervent
 
 **«Den samlede effektstørrelsen forteller meg allerede hva som virker.»** De 14 granskede metaanalysene definerte behandlingen som et verktøy, slo sammen inkompatible utfall og rapporterte I² over 80 % i 12 av 13 analyser som oppga den. Det samlede tallet beskriver et sett studier med et konstruktproblem.
 
-**«Simulerte studenter er billigere, så validering kan vente.»** I sykofantistudien slapp simulerte studenter misoppfatningene uansett om tilbakemeldingen tok dem opp, og det er feilmekanismen som får en ineffektiv veileder til å se effektiv ut.
+**«Simulerte studenter er billigere, så validering kan vente.»** I [[ai-sycophancy|sykofantistudien]] slapp simulerte studenter misoppfatningene uansett om tilbakemeldingen tok dem opp, og det er feilmekanismen som får en ineffektiv veileder til å se effektiv ut.
 
 ## Hva du kan gjøre denne uken
 

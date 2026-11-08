@@ -8,9 +8,9 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
-updated: "2026-11-04T02:42:40-05:00"
+updated: "2026-11-08T06:32:22-05:00"
 translation_of: "concepts/learner-identity"
-source_updated: "2026-11-02T03:09:00-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,6 @@ Identitas pembelajar menyangkut siapa yang dipahami pembelajar tentang dirinya, 
 Identitas adalah konstruk motivasional dan perkembangan yang berbeda dari (tetapi terkait dengan) kemampuan dan keyakinan yang berhubungan. Ketika [[self-efficacy|efikasi diri]] menyangkut *dapatkah saya melakukan ini?*, identitas menyangkut *siapa saya — dan siapa yang sedang saya menjadi?* Ia dibangun melalui partisipasi, pengakuan, dan kepengarangan — melalui melihat diri tercermin dalam suatu domain dan memiliki pandangan diri itu disahkan. AI membentuk ulang kondisi tempat identitas terbentuk karena ia mengubah *siapa yang mengerjakan pekerjaan*, *apa yang dihitung sebagai kontribusi sendiri*, dan *apakah pembelajar merasa diakui sebagai penulis pembelajarannya*. Ini menjadikan identitas sebagai urusan desain tingkat pertama alih-alih faktor "lunak" yang pinggiran.
 
 - **Kepengarangan dan kompetensi dalam ancaman.** Ketika AI menghasilkan teks, gambar, atau kode, pembelajar mungkin mempertanyakan apakah hasilnya benar-benar "milik mereka" — tantangan bagi dimensi kepengarangan identitas. **[[t2i-competence-paradox-2026|Liu et al. (2026)]]** mendokumentasikan *paradoks kompetensi* pada siswa seni dan desain yang menggunakan GenAI text-to-image: alat itu terasa mudah dan berguna, namun penggunaannya sekaligus mengancam **identitas kreatif** yang siswa peroleh dari keterampilan manual dan kepengarangan, menghasilkan ketegangan nyata antara kemudahan dan harga diri.
-
 
 Kondisi kepengarangan yang berbeda, bukan hanya ancaman terhadap kepengarangan: ketika dialog pembentukan diri secara habitual didelegasikan kepada model percakapan, penulis berargumen bahwa kerja integratif kepengarangan itu *didelegasikan* alih-alih belum berkembang atau tidak ada — diri yang padat suara namun tanpa pengarang, yang menurut mereka tidak memiliki tempat dalam konstruk yang ada ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **Rasa malu dan penggunaan yang disembunyikan.** **[[shame-guilt-ai-regulation-computing-education|Lin et al.]]** menunjukkan bahwa siswa komputasi mengalami rasa malu dan rasa bersalah seputar penggunaan AI, yang berfungsi sebagai pengatur sosial yang mendorong *penyembunyian* dan pengungkapan selektif — perilaku yang dapat memecah identitas akademik dan melemahkan keterlibatan jujur dengan pembelajaran.
@@ -86,7 +85,7 @@ Identitas pembelajar terhubung dengan [[agency|agensi]] (identitas dipentaskan m
 
 **"Bantuan AI menurunkan hambatan dan karena itu memperluas partisipasi."** Ia dapat menurunkan hambatan untuk memproduksi karya sekaligus mempersempit hambatan untuk mengklaim kepengarangan. Siswa yang menyerahkan artefak lancar yang tidak ia karang telah diberi akses ke hasilnya dan ditolak pengakuan yang membangun identitas di baliknya.
 
-**"Mengenali identitas pembelajar adalah soal representasi dalam konten."** Representasi itu penting dan pengakuan dipentaskan dalam praktik: pertanyaan siapa yang diambil, kontribusi siapa yang dikreditkan, dan siapa yang diperlakukan sebagai mampu. Kurikulum dapat representatif dan tetap menahan pengakuan yang dibutuhkan pembentukan identitas.
+**"Mengenali identitas pembelajar adalah soal representasi dalam konten."** Representasi itu penting dan pengakuan dipentaskan dalam praktik: pertanyaan siapa yang diambil, kontribusi siapa yang dikreditkan, dan siapa yang diperlakukan sebagai mampu. [[curriculum-design|Kurikulum]] dapat representatif dan tetap menahan pengakuan yang dibutuhkan pembentukan identitas.
 
 ## Konsep terkait
 

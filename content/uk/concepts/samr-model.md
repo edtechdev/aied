@@ -9,7 +9,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-02T09:55:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ SAMR часто парується з [[icap-framework|рамкою ICAP]], бо
 - **SAMR є мішенню постгуманістичної критики.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] критикує моделі TPACK, SAMR та [[ai-literacy]] за спільну гуманістичну онтологію, яка припускає обмеженого здобувача, чиє пізнання фундаментально незмінне технологічним посередництвом, стверджуючи, що ці інструменталістські рамки не можуть адресувати конститутивну роль ШІ в пізнанні.
 - **Рамка для інтеграції, а не рамка для влади.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] оцінює SAMR поряд із TPACK та іншими рамками інтеграції і виявляє, що жодна з них не адресує справедливу владу, володіння даними чи підзвітність, мотивуючи альтернативну екологічну рамку спів-агенції.
 - **Використання студентами також відображується на SAMR, а зворотний зв’язок охоплює кожен рівень.** Кодування декларацій GenAI 31–36 студентів на [[physics-education|фізичному]] модулі розмістило навчання на substitution–augmentation, форматування на substitution, а виконання завдань на modification–redefinition, тоді як зворотний зв’язок — перевірка, прояснення, верифікація — з’являвся на всіх чотирьох рівнях ([[genai-use-changing-institutional-policy-physics-2026|Quince і Faulconer (2026)]]).
+
+- **Глибина й інклюзія — окремі осі.** [[jita-ai-mathematics-classrooms-inclusion-2026|Jita, Jita & Omoniyi (2026)]] поєднують SAMR з [[universal-design-for-learning|UDL]] на 38 джерелах і стверджують, що завдання рівня перевизначення все одно можуть виключати студентів, чия мова, пристрій або зв’язок не відповідають дизайну.
 
 ## SAMR, TPACK та впровадження технологій: у чому вони відрізняються
 
@@ -105,3 +107,5 @@ SAMR найкраще розуміється як лінза глибини ін
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Постгуманістична критика гуманістичної онтології SAMR
 - [[reclaiming-epistemic-agency-co-agency-2026]] — Мовчазність SAMR щодо влади, володіння даними та підзвітності
 - [[genai-use-changing-institutional-policy-physics-2026]] — Використання GenAI студентами за змінної інституційної політики: функції використання, відображені на рівні SAMR (Quince & Faulconer 2026)
+
+- [[jita-ai-mathematics-classrooms-inclusion-2026]] — ШІ в математичних класах: синергійна стратегія різноманіття та інклюзії

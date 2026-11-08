@@ -10,8 +10,8 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
-updated: "2026-10-27T17:14:20-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Otázky na zamyslenie
 
 - Samotné sprístupnenie AI študentom sa spájalo s neefektívnym alebo dokonca neetickým používaním, kým výslovné formulovanie a zakotvenie primeraného používania výsledky zlepšilo. Ak prítomnosť nástroja záleží menej než to, ako je formulovaný, čo to hovorí o dôraze na jednoduché „danie AI študentom"?
-- Väčšina študentov používa generatívnu AI, mnohí si nie sú istí, či ich používanie je v súlade s pravidlami, a opierajú sa o súkromne dostupné nástroje a nie o tie, ktoré poskytuje inštitúcia. Ak znalosť pravidiel len málo mení to, čo študenti robia, čo by ich mohlo presvedčiť namiesto toho, aby ich len informovalo?
+- Väčšina študentov používa [[generative-ai|generatívnu AI]], mnohí si nie sú istí, či ich používanie je v súlade s pravidlami, a opierajú sa o súkromne dostupné nástroje a nie o tie, ktoré poskytuje inštitúcia. Ak znalosť pravidiel len málo mení to, čo študenti robia, čo by ich mohlo presvedčiť namiesto toho, aby ich len informovalo?
 - Keď inštitúcie reagujú na AI strachom a odsudzovaním, študenti môžu svoje používanie skrývať alebo racionalizovať namiesto toho, aby sa ho naučili používať dobre. Videli ste reakciu „morálnej paniky", ktorá študentov zatlačila do tajenia? Ako by vyzeral preformulovaný prístup zameraný na príležitosť?
 - Úzkosť z AI nie je čisto prekážkou: študenti, ktorí sa obávali presnosti a plagiátorstva, boli *viac* náchylní overovať a revidovať výstup AI, namiesto toho, aby ho prijali nekriticky. Ako by sa dala produktívna úzkosť usmerniť do hodnotiacej kompetencie namiesto toho, aby bola potlačená?
 - Študenti si vytvárajú vlastný zmysel pre to, čo je prijateľné, prostredníctvom „miest", teda zámerov vyučujúcich, dokumentov kurzu, noriem vrstovníkov a inštitucionálnych správ, ktoré sa často rozchádzajú. Keď si tieto správy protirečia, ktorá podľa vás naozaj vyhrá a ako formulovanie túto medzeru uzatvára?
@@ -41,7 +41,7 @@ Koncept stojí medzi dvoma známejšími. Kým [[technology-acceptance-model|mod
 
 Na formulovaní záleží preto, že **politika a pravidlá samy o sebe spoľahlivo nemenia správanie**. Prieskumný [[research-methods-aied|výskum]] o [[regulation|regulačnom]] povedomí zisťuje, že znalosť inštitucionálnych pravidiel generatívnej AI má len slabé až stredné asociácie s tým, čo študenti skutočne robia ([[student-regulatory-awareness-genai]]). Poznať pravidlá je nevyhnutné, ale nie postačujúce; správa musí *presvedčiť*, nielen informovať.
 
-Diferencované formulovanie môže vznikať vnútri jedinej politiky a nie iba naprieč miestami: analýza sentimentu 36 univerzitných politík zistila, že výroky o výučbe boli formulované pozitívne, kým výroky o generatívnej AI a etike boli formulované negatívne, takže študenti sa v jednom dokumente stretli s povzbudením aj s obmedzením ([[sun-governing-genai-policy-cross-national-2026|Sun a spol. (2026)]]).
+Diferencované formulovanie môže vznikať vnútri jedinej politiky a nie iba naprieč miestami: [[affective-computing|analýza sentimentu]] 36 univerzitných politík zistila, že výroky o výučbe boli formulované pozitívne, kým výroky o generatívnej AI a etike boli formulované negatívne, takže študenti sa v jednom dokumente stretli s povzbudením aj s obmedzením ([[sun-governing-genai-policy-cross-national-2026|Sun a spol. (2026)]]).
 
 Rámec tiež formuje, či študenti prežívajú AI ako **hrozbu, ktorej sa treba vyhnúť alebo ktorú treba obísť**, alebo ako **zdroj, ktorý treba používať zámerne**. Keď inštitúcie reagujú na AI strachom a odsudzovaním, čo jedna línia prác nazýva opakujúcou sa „morálnou panikou", ženú študentov do skrývania alebo racionalizovania používania namiesto toho, aby sa ho naučili používať dobre.([[moral-panic-genai-classroom]]) Preformulovanie úzkosti a odsudzovania na štruktúrovanú príležitosť mení celú dynamiku [[student-engagement|zapojenia študentov]] do AI.
 
@@ -61,7 +61,7 @@ Najpriamejšou pákou formulovania vo vedomostnej báze je dodanie *dôvodu* pre
 
 ### Preformulujte úzkosť a neistotu na hodnotiacu kompetenciu
 
-[[mixed-methods-research|Zmiešaný]] výskum akademického [[writing-education|písania]] zistil, že úzkosť z AI nie je jednoducho prekážkou: študenti, ktorí sa obávali presnosti a plagiátorstva, boli *viac* náchylní overovať, krížovo kontrolovať a revidovať výstup AI, namiesto toho, aby ho prijali nekriticky. Štúdia rámcuje [[ai-literacy|AI gramotnosť]] menej ako akceptáciu a viac ako **regulačnú kompetenciu**, teda schopnosť spochybňovať výstupy, selektívne revidovať a zachovať zodpovednosť za autorstvo.([[ai-anxiety-strategic-regulation-writing-2026]]) Formulovať používanie AI pre študentov znamená usmerniť produktívnu úzkosť k hodnoteniu, nie ju potláčať.
+[[mixed-methods-research|Zmiešaný]] výskum akademického [[writing-education|písania]] zistil, že [[anxiety-and-stress|úzkosť z AI]] nie je jednoducho prekážkou: študenti, ktorí sa obávali presnosti a plagiátorstva, boli *viac* náchylní overovať, krížovo kontrolovať a revidovať výstup AI, namiesto toho, aby ho prijali nekriticky. Štúdia rámcuje [[ai-literacy|AI gramotnosť]] menej ako akceptáciu a viac ako **regulačnú kompetenciu**, teda schopnosť spochybňovať výstupy, selektívne revidovať a zachovať zodpovednosť za autorstvo.([[ai-anxiety-strategic-regulation-writing-2026]]) Formulovať používanie AI pre študentov znamená usmerniť produktívnu úzkosť k hodnoteniu, nie ju potláčať.
 
 ### Používajte cielené správy na formovanie konkrétneho správania
 

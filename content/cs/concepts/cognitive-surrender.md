@@ -12,8 +12,8 @@ level: [higher ed, adult learning]
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
-updated: "2026-10-27T16:30:09-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T06:13:34-05:00"
 translation_note: "*Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*"
 contributors: [editor]
 ai_assist:
@@ -69,18 +69,21 @@ Tři předregistrované experimenty adaptovaly Cognitive Reflection Test a rando
 
 Praktické čtení je, že kapitulace je **selhání diskriminace**, nikoli selhání motivace. Účastníci, kteří kapitulovali, se nesnažili vyhnout práci; nedokázali rozeznat dobrou radu od špatné a rozhraní jim nedalo důvod se o to pokusit.
 
+Předregistrovaný experiment [[braun-cognitive-dormancy-ai-affordances-2026|Brauna (2026)]] dodává kontrastní konfiguraci. S asistentem ohrazeným [[rag|retrievalovým obohacením]] na zadaný pracovní list podmínka s AI snížila kognitivní odklánění (medián −0,27), místo aby je zvýšila, a žádná cesta odklánění nenesla vzestup dezorganizace (0,84). Kapitulace potřebuje asistenta, jehož radu lze převzít celou; systém, který odpovídá jen z přítomného materiálu, dává žákovi méně k převzetí a více k sladění.
+
 ## Kapitulace mimo laboratoř
 
 Nálezy z laboratoře ladí s terénní a observační prací, která nezávisle dospěla ke stejnému slovu.
 
 - **Posun na úrovni populace.** [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] analyzují 3,2 milionu učebních interakcí v ALEKS a 12,2 milionu reakčních časů v [[assessment|rozřazovacím hodnocení]] napříč desetiletým panelem, přičemž úlohy založené na grafech slouží jako kontrola vůči textovým. Studenti dokončili práci náchylnou k AI rychleji a dosáhli na ní vyššího skóre, zatímco sledované položky retence ukázaly 25% kumulativní pokles šancí na správnou odpověď; autoři tento vzorec nazývají kognitivní kapitulací v populačním měřítku.
 - **Ověřování jako rozhodující proměnná.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] zjišťují, že *jak* studenti generativní AI používají, předpovídá [[learning-gains|výkon]], zatímco *kolik* ji používají, nepředpovídá ani jedno: přejímání s nízkým ověřováním, tedy nekritické přijímání výstupu, bylo spojeno s horšími výsledky a hodnotící integrace s lepšími.
-- **Bezmyšlenkové používání eroduje zdroje, které sebeřízení potřebuje.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao a Gu (2026)]] modelují přijetí bez hodnocení přímo: u 487 vysokoškolských studentů bylo bezmyšlenkové používání generativní AI spojeno s nižším [[self-regulated-learning|sebeřízeným učením]] (β = -0,42), částečně přes sníženou [[motivation|motivaci]] a [[self-efficacy|sebeúčinnost]].
+- **Bezmyšlenkové používání eroduje zdroje, které sebeřízení potřebuje.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao a Gu (2026)]] modelují přijetí bez hodnocení přímo: u 487 vysokoškolských studentů bylo bezmyšlenkové používání generativní AI spojeno s nižším [[self-directed-learning|sebeřízeným učením]] (β = -0,42), částečně přes sníženou [[motivation|motivaci]] a [[self-efficacy|sebeúčinnost]].
 - **Neurální a autorská stopa.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|EEG studie o kognitivním dluhu]] měřila [[writing-education|psaní esejí]] s [[llm|LLM]], s vyhledávačem a bez nástroje: skupina s LLM vykazovala nejslabší neuronální konektivitu, uváděla nejnižší autorství vlastní práce a měla potíže citovat to, co napsala.
 - **Kapitulace může přijít i nevyžádaná.** [[ai-advice-suppresses-ikt-suspension-2026|Práce o pozastavení úsudku]] zjistila, že pouhá dostupnost rady AI zhroutila ochotu lidí říci „nevím" (0,06 versus 0,36 a 0,03 versus 0,44 ve dvou studiích), zatímco správnost klesla a důvěra vzrostla z přibližně 30 na 76. Sázky pozastavení úsudku neobnovily, ačkoli pobídky zlepšily přesnost tím, že podpořily přepisování. Čtvrtá studie ukázala efekt zcela bez konzultace, tedy vzorec našeptávače nebo shrnutí vyhledávání, nikoli chatového promptu.
 - **Závislý a autonomní režim se rozlišují jen v důsledku.** [[family-school-autonomy-support-genai-2026|Fan, Li a Zhang (2026)]] sledují 589 studentů a lidí na začátku kariéry ve třech vlnách: závislé odklánění delegovalo jádrové myšlení a bylo spojeno s nižší vnitřní motivací, zatímco autonomní odklánění nikoli, a bezprostřední výkon vypadal v obou případech stejně.
 - **Vlastní přínos modelu.** [[sycophantic-ai-social-interaction-2026|Patolízalství]] je doplňkem kapitulace: asistent, který souhlasí, uhýbá k rámování uživatele nebo plynule vysloví tvrzení, nedává studentovi nic, proti čemu by se mohl opřít.
 - **Odnětí je nevyřešená polovina.** [[cognitive-washout-ai-skill-decay-2026|Práce o kognitivním vyplavení]] upozorňuje, že téměř celý tento výzkum měří kognici *během* používání AI a téměř žádný neměří, co se stane, když je asistent odebrán, což je přesně otázka, kterou klade zkouška, výpadek nebo revize licence.
+- **„Celopisecké delegování zůstává mimo laboratoř hypotetické.“** Stalo se v jednosekční online studii bez politiky a bez povzbuzení. Ze **77** vysokoškolských pisatelů **15 (19,5 %)** odevzdalo eseje **100%** napsané modelem, aniž by v editoru napsali slovo, a **20** účastníků požádalo rovnou o celý esej, což byl nejpoužívanější kód ve schématu. Nejtěžší uživatel odevzdal **27** dotazů. [[jelson-students-chatgpt-essay-writing-2026|Kapitulace se objevila jako vzorec požadavků]], nikoli jako jediný detekovatelný akt.
 
 ## Navrhování a výuka proti kapitulaci
 
@@ -140,3 +143,5 @@ Důkazy pro kapitulaci jako pojmenovaný konstrukt stojí silně na jednom progr
 - [[brcic-effortless-trap-productive-struggle-2026]] — umístit AI tak, aby úkol zůstal namáhavý
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — trénink kalibrace
 - [[family-school-autonomy-support-genai-2026]] — závislé versus autonomní odklánění
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Asistent zakotvený v pracovním listu snížil odklánění, místo aby je zvýšil — okrajová podmínka signatury kapitulace (Braun 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Naturalistické delegování celého eseje: 15 ze 77 esejů zcela napsaných modelem, 20 žádostí o kompletní esej (Jelson et al. 2026)
