@@ -1,7 +1,7 @@
 ---
 title: "SAMR मॉडल"
 created: "2026-09-10T09:50:00-04:00"
-updated: "2026-10-30T08:05:00-04:00"
+updated: "2026-11-07T18:36:55-05:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -10,7 +10,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-02T09:55:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,7 @@ SAMR का बार-बार संयोजन [[icap-framework|ICAP ढा�
 - **SAMR, पोस्टह्यूमैनिस्ट आलोचना का लक्ष्य है।** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] TPACK, SAMR और [[ai-literacy]] मॉडलों की आलोचना एक ऐसी साझी मानवतावादी अस्तित्ववाद के आधार पर करते हैं जो एक सीमित शिक्षार्थी की पूर्वधारणा करती है, जिसकी संज्ञान प्रौद्योगिकीय मध्यस्थता से मौलिक रूप से अपरिवर्तित रहती है, और तर्क देते हैं कि ये उपकरणवादी ढाँचे संज्ञान में AI की संघटक भूमिका को संबोधित नहीं कर सकते।
 - **एकीकरण का ढाँचा, शक्ति का ढाँचा नहीं।** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] SAMR का मूल्यांकन TPACK और अन्य एकीकरण ढाँचों के साथ करते हैं और पाते हैं कि इनमें से कोई भी न्यायसंगत शक्ति, डेटा स्वामित्व या उत्तरदायित्व को संबोधित नहीं करता, जो एक वैकल्पिक पारिस्थितिक सह-स्वायत्तता ढाँचे को प्रेरित करता है।
 - **छात्रों का उपयोग भी SAMR पर मैप होता है, और प्रतिपुष्टि हर स्तर पर फैली है।** एक [[physics-education|भौतिकी]] इकाई में 31–36 छात्रों के GenAI घोषणाओं को कोड करने पर सीखना प्रतिस्थापन–संवर्धन पर, स्वरूपण प्रतिस्थापन पर, और कार्य-पूरा करना संशोधन–पुनर्परिभाषा पर रखा गया, जबकि प्रतिपुष्टि — जाँचना, स्पष्ट करना, सत्यापित करना — सभी चार स्तरों पर दिखाई दी ([[genai-use-changing-institutional-policy-physics-2026|Quince और Faulconer (2026)]])।
+- **गहराई और समावेशन अलग-अलग अक्ष हैं।** [[jita-ai-mathematics-classrooms-inclusion-2026|जीता, जीता एंड ओमोनियी (2026)]] SAMR को 38 स्रोतों में [[universal-design-for-learning|UDL]] के साथ जोड़ते हैं और तर्क देते हैं कि पुनर्परिभाषा स्तर के कार्य भी उन छात्रों को बाहर रख सकते हैं जिनकी भाषा, उपकरण या कनेक्टिविटी डिज़ाइन के अनुरूप नहीं है।
 
 ## SAMR, TPACK और प्रौद्योगिकी अपनाना: ये किस प्रकार भिन्न हैं
 
@@ -102,3 +103,4 @@ SAMR को सबसे अच्छी तरह एक एकीकरण-ग
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — SAMR की मानवतावादी अस्तित्ववाद की पोस्टह्यूमैनिस्ट आलोचना
 - [[reclaiming-epistemic-agency-co-agency-2026]] — शक्ति, डेटा स्वामित्व और उत्तरदायित्व पर SAMR की मौनता
 - [[genai-use-changing-institutional-policy-physics-2026]] — बदलती संस्थागत नीतियों के अंतर्गत छात्रों का GenAI उपयोग: उपयोग के कार्य SAMR स्तरों पर मैप किए गए (Quince और Faulconer 2026)
+- [[jita-ai-mathematics-classrooms-inclusion-2026]] — गणित कक्षाओं में AI: विविधता और समावेशिता के लिए एक सहक्रियात्मक रणनीति

@@ -1,7 +1,7 @@
 ---
 title: उत्पादक विफलता
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-10-30T08:05:00-04:00"
+updated: "2026-11-07T18:36:55-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 - **शिक्षार्थियों को निर्देश से सीखने के लिए तैयार करता है** — वे जानते हैं कि वे क्या नहीं जानते और नई सामग्री को अपने प्रयासों से जोड़ सकते हैं।
 - **ज्ञान के स्थानांतरण और टिकाऊ कौशल को बढ़ाता है** ([[critical-thinking]], संकल्पना, संचार), गलतियों के भय को घटाता है, और सीख के प्रति सकारात्मक दृष्टिकोण को बढ़ावा देता है।
 
-पीएफ ढाँचे का विस्तार संबंधित डिज़ाइनों के माध्यम से किया गया है, जिनमें **प्रतिनिधि विफलता** (vicarious failure), **समाधान विविधता** (solution diversity), और **अनुकूली मार्गदर्शन** (adaptive guidance) शामिल हैं (ब्रास एट अल., 2025; ब्रांड एट अल., 2025)।
+पीएफ ढाँचे का विस्तार संबंधित डिज़ाइनों के माध्यम से किया गया है, जिनमें **प्रतिनिधि विफलता** (vicarious failure), **समाधान विविधता** (solution diversity), और **अनुकूली मार्गदर्शन** (adaptive guidance) शामिल हैं (ब्रास एट अल., 2025; ब्रांड एट अल., 2025)। केस पहले प्रयास के लिए साझा समस्या-स्थान उपलब्ध करा सकते हैं, हालाँकि केस-आधारित प्रमाण आधार ने इस युग्मन को अभी सीधे परखा नहीं है ([[case-based-learning]])।
 
 ## गलतियों और त्रुटियों से सीखना
 
@@ -58,7 +58,6 @@ ai_assist:
 
 ### सुधारात्मक प्रतिपुष्टि की भूमिका
 त्रुटियों से सीखना उस प्रतिपुष्टि पर निर्भर करती है जो शिक्षार्थियों को यह देखने में मदद करे कि क्या गलत था और क्यों। संकेत-आधारित और विस्तृत प्रतिपुष्टि (शिक्षार्थियों को सुधार की ओर मार्गदर्शन करना) केवल सही उत्तर देने से अधिक प्रभावी है — यह अंतर्दृष्टि [[feedback]] सिद्धांत को सीधे उत्पादक-विफलता डिज़ाइन से जोड़ती है, और यह भी कि [[intelligent-tutoring|एआई शिक्षकों]] को विद्यार्थियों की त्रुटियों पर कैसे प्रतिक्रिया देनी चाहिए।
-
 
 ## शिक्षा में उत्पादक विफलता और एआई
 
@@ -105,6 +104,9 @@ ai_assist:
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+
+- [[case-based-learning]] — पहले प्रयास के लिए साझा समस्या-स्थान के रूप में केस
+
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]
