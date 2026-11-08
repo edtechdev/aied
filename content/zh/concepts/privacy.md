@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: 隐私
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T13:17:17-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-11-08T08:41:46-05:00"
+source_updated: "2026-11-08T13:09:43-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,27 @@ ai_assist:
 
 ## 核心隐私挑战
 
+- **规模化数据收集。**[[learning-analytics|学习分析]]与[[edtech-platform|教育平台]]收集点击流、写作、击键与交互数据。隐私[[research-methods-aied|研究]]考察的核心问题是，这种收集是否与教育收益相称 —— 而[[learning-analytics-to-educational-interventions-2026|可信 LA 研究]]把隐私与数据治理视为前提而非附加项：伦理合规、数据安全与透明的算法，正是使数据驱动的教育变革真正有意义的前提。
+
+- **同意与透明度。**学生与[[parents-and-families|家长与家庭]]很少理解 AI 工具收集什么数据、如何使用、存储于何处。这种机构与[[learners|学习者]]之间的权力不对称是一个反复出现的主题 —— 学生可能没有有意义的选择，只能使用被指定的平台，使“同意”流于名义而非知情。本知识库将此连接到[[trust-calibration|信任]]与[[ai-use-disclosure|披露]]：学习者对 AI 的使用与机构对学习者数据的使用，都取决于对收集什么、为何收集的透明。
+
+- **委托作为一种隐私机制，而不只是披露。**[[agentic-literacy-debt|Nama（2026）]]认为，[[agentic-ai|自主智能体]]跨会话继承权限且很少撤销，因此每一次不透明的委托都使用户习惯于不加审视地授予访问权 —— 这使关于*智能体而非人何时在行动*的知情同意成为隐私设计的一部分。
+
+- **自主性扩大数据面。**一个智能体式表单填写系统在跨机构服务之间维护一个[[multimodal|多模态]]个人知识库，其评测基于取自 44 家公司招聘网站的 1,301 个唯一字段，作者把隐私保全的知识管理、访问控制与人工确认列为尚未解决的部署要求（[[large-language-models-teaching-learning-higher-ed|Li 等（2026）]]）。
+
+- **安全、匿名化与数据来源。**即便是合法的数据，一旦泄露或被不当处理也会造成伤害。隐私保全技术在本知识库中多处出现 —— [[teachlm-post-training-llms-education|TeachLM]]展示了一条严格的流水线：逐会话同意、在内部服务器上移除 PII、为企业级保密而用真实数据后训练导学模型，表明合乎伦理地获取学习者数据既可能，也是高质量导学的前提。[[ai-lms-middle-school-longitudinal|联邦式与边缘 AI 架构]]使数据留在本地，减少集中收集。浏览器驻留推理把这推得最远：一个 WebLLM 导学系统作为静态站点运行，权重缓存在 IndexedDB 中，学生的代码、提示词与转录从不离开设备，也无需 API 密钥或按次计费 —— 尽管[[equity-in-ai-education|公平]]代价是一种新的硬件能力鸿沟，因为快速、无缝的生成依赖有能力的客户端 GPU（[[browser-sized-agents-slm-webllm-tutor-2026|Suvernev 等（2026）]]）。[[ai-detection|检测]]工具增加了平行的一类数据处理情形：[[bassett-ai-detectors-education-2026|Bassett 等（2026）]]指出，检测器供应商把学生作业存储在第三方服务器上，有时在隐私标准更弱的海外，同时伴随泄露风险与学生写作被商业利用的可能。
+
 - **去标识化取决于可测量的检测质量。** [[ji-de-identification-personally-identifiable-information-2025|Ji 等（2025）]]在学生文本上评测了五种个人身份信息（PII）检测配置。微调后的 GPT-4o-mini 召回率达到 0.9589，成本为每 100 万 token 0.92 美元，约为 Azure AI Language 每 100 万 token 4.90 美元的六分之一。在误报会损害语料可用性的情形下，一个两阶段核验器把精确率提升到 0.8893；而低精确率的失败模式在语义上是破坏性的——把数学段落中的"牛顿"换成"大卫"，或在一个线索是"拿撒勒"的故事里把耶稣基督、马利亚与约瑟标记出来。
+
+- **监视，以及监视与隐私之间的张力。**持续的 AI 监控 —— 即便出于善意 —— 也可能令人感到侵入。关于[[ai-fatigue-academic-contexts|AI 疲劳]]、[[remote-proctoring|远程监考]]与[[cognitive-offloading|过度依赖]]的研究把隐私与学生的[[well-being|福祉]]联系起来：当 AI 持续注视与追踪时，它塑造的是行为与焦虑，而不只是数据流。[[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana 等（2026）]]编目了[[remote-proctoring|监考]]系统实际采集的内容 —— 面部图像、身份文件、包括 360 度环视的房间扫描、麦克风音频、面部识别、屏幕录制、锁定事件，以及击键与鼠标追踪，移动端监考还增加了 GPS 与自拍核验 —— 并发现，在符合其纳入标准的六项研究中，隐私与算法问责基本缺席，只能由相邻研究补足：一项被引调查中 83% 的受访者表达监视恐惧，58% 感到不适，72% 担忧数据隐私，而跨境供应商合同使 GDPR 与南非 POPIA 等工具所能提供的控制有限。保留与处理这些数据所带来的法律暴露 —— 谁是控制者、保存多久、谁可访问、同意是否真正自愿 —— 在[[legal-issues-and-risks|法律问题与风险]]中有梳理。
+
+- **[[sensor-and-gaze-analytics|脑电图]]解码暴露注意力。**神经解码把隐私问题扩展到行为日志之外：[[seeing-cognitive-representations-eeg-reconstruction|Su 等（2026）]]从学习者在视频教学中的脑电图重建了他们所观看的内容，使解码出的表征异常暴露，而敏感神经数据的治理仍未落定。
+
+- **个性化与隐私的权衡。**[[personalized-learning|个性化学习]]需要详尽的学习者数据才能运作，这与隐私形成结构性张力。本知识库探索在个性化与数据最小化之间取得平衡的路径 —— 足够调适的数据，但不至于让学习者被完全暴露。这是“多大程度才算相称？”这一问题的实践形态。
+
+- **数据管理作为一项核心伦理价值。**[[agarwal-ethical-values-norms-aied-2026|Agarwal 等（2026）]]是一项对 25 篇文章的[[meta-analysis-systematic-review|系统综述]]，把数据管理（以数据/信息为定义的条目）列为[[ai-education|教育中的人工智能]]的六项主要伦理价值之一，与不歧视、人类监督、善意、可解释性与教育适切性并列。该综述发现这些价值紧密耦合且可能冲突 —— 例如可解释性对准确性/隐私、不歧视对数据管理 —— 产生伦理困境，且没有任何关于数据管理的规范直接面向终端用户，使学习者在伦理文献中大体处于被动。
+
+- **隐私被推迟，而非被决定。**对教育科技专业人士的十二次访谈与对 48 个平台隐私政策的审计显示，隐私被认可为重要，却在产品生命周期中被一再推迟，责任被下放给云服务商、政策文件与下游学校 —— 这种模式因薄弱的隐私反馈而不可见，因为沉默看起来就像安全的证明（[[edtech-privacy-deferral-2026|Nair 与 Greenstadt，2026]]）。
 
 - **监考的伦理证据基础薄弱。**一项对 80 项研究的综述发现，35% 未披露其数据集，40% 只评价单一模型，30% 无法复现，只有 25% 处理了伦理问题；误报 —— 标记正常行为 —— 仍是一项核心可靠性风险（[[automated-online-exam-proctoring-decade-review-2026|Malhotra 与 Chhabra（2026）]]）。
 
