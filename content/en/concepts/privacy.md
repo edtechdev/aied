@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-08T08:41:46-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -31,7 +31,7 @@ Privacy is the precondition for trustworthy AI in education. Because AI systems 
 ## The core privacy challenges
 
 - **De-identification depends on measurable detection quality.** [[ji-de-identification-personally-identifiable-information-2025|Ji et al. (2025)]] benchmark five PII-detection configurations on student text.
-Fine-tuned GPT-4o-mini reached recall 0.9589 for $0.92 per 1M tokens, about one sixth of Azure AI Language's $4.90 per 1M tokens.
+Fine-tuned GPT-4o-mini reached recall 0.9589 for \$0.92 per 1M tokens, about one sixth of Azure AI Language's \$4.90 per 1M tokens.
 A two-stage verifier lifted precision to 0.8893 where false positives would corrupt corpus utility, and the low-precision failure mode is semantically disruptive, swapping "Newton" for "David" in a math passage or flagging Jesus Christ, Mary and Joseph in a story whose clue is Nazareth.
 
 - **The proctoring evidence base is thin on ethics.** A review of 80 studies found 35% did not disclose their dataset, 40% evaluated a single model, 30% could not be reproduced and only 25% addressed ethical issues; false positives — flagging normal behavior — remain a core reliability risk ([[automated-online-exam-proctoring-decade-review-2026|Malhotra & Chhabra (2026)]]).

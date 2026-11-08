@@ -81,6 +81,7 @@ export const faqIndex: FaqSection[] = [
       'what-personalized-learning-means',
       'verify-ai-output',
       'study-with-ai',
+      'ai-support-reading-comprehension',
     ],
   },
   {
@@ -92,6 +93,7 @@ export const faqIndex: FaqSection[] = [
       'ai-anxiety-wellbeing',
       'ai-guidance-children-under-13',
       'equity-ethics-pedagogical-safety-research',
+      'ai-bias-fairness-education',
     ],
   },
   {

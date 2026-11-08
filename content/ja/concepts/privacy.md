@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-08T08:41:46-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 
 ## 中核的なプライバシーの課題
 
-- **匿名化は、測定可能な検出の質に依存する。** [[ji-de-identification-personally-identifiable-information-2025|Ji ら（2025）]]は、学生のテキストに対して 5 つの個人識別情報（PII）検出の構成をベンチマークしました。微調整した GPT-4o-mini は、100 万トークンあたり $0.92 で再現率 0.9589 に達し、これは Azure AI Language の 100 万トークンあたり $4.90 のおよそ 6 分の 1 です。2 段階の検証器は、偽陽性がコーパスの有用性を損なう場面で精度を 0.8893 まで引き上げました。また、精度の低い構成の失敗の仕方は意味的に破壊的で、数学の文章で「Newton」を「David」に置き換えたり、ナザレが手がかりとなる物語で Jesus Christ、Mary、Joseph に印を付けたりします。
+- **匿名化は、測定可能な検出の質に依存する。** [[ji-de-identification-personally-identifiable-information-2025|Ji ら（2025）]]は、学生のテキストに対して 5 つの個人識別情報（PII）検出の構成をベンチマークしました。微調整した GPT-4o-mini は、100 万トークンあたり \$0.92 で再現率 0.9589 に達し、これは Azure AI Language の 100 万トークンあたり \$4.90 のおよそ 6 分の 1 です。2 段階の検証器は、偽陽性がコーパスの有用性を損なう場面で精度を 0.8893 まで引き上げました。また、精度の低い構成の失敗の仕方は意味的に破壊的で、数学の文章で「Newton」を「David」に置き換えたり、ナザレが手がかりとなる物語で Jesus Christ、Mary、Joseph に印を付けたりします。
 
 - **監督の証拠基盤は倫理において薄い。**80の研究のレビューは、35%がデータセットを開示せず、40%が単一のモデルを評価し、30%は再現できず、25%のみが倫理的な問題に対処したことを見出しました。通常の行動を旗印してしまう偽陽性——は、中核的な信頼性のリスクとして残っています([[automated-online-exam-proctoring-decade-review-2026|Malhotra & Chhabra(2026)]])。
 - **チャットのインターフェースは、会話そのものを漏らす。** 42のAIチャットプラットフォームを監査して、[[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos他(2026)]]は、21が会話のタイトルを第三者のトラッカーに送っていることを見出しました。7つの教育プラットフォームは平均して約367件のトラッカー要求があり、5つが文脈を漏らしていました。

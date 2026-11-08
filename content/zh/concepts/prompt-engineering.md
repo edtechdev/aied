@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-08T08:41:46-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -73,7 +73,7 @@ ai_assist:
 - **一个五部分的脚手架，在四个模型家族上检验过。** 角色—目标—输入—过程—输出式提示把评定输出质量从 3.318 提到 4.603（Δ = +1.285），覆盖 400 对匹配样本，每个模型家族都有改善，基线最弱者增益最大（[[li-who-benefits-llms-prompt-engineering-equity-2026|Li 等（2026）]]）。
 - **角色与约束设计作为自变量。**[[wang-teacher-student-centered-agents-physics-2026|Wang 等（2026）]]比较了构建于同一模型与平台、温度同为 0.3 的两个代理，其唯一差别在于提示如何规定角色、技能与约束：一个从有边界的教科书知识来源作答的专家教师代理，对一个被脚本设定为诊断[[misconceptions]]并检查理解的共情型学生中心代理。仅角色差异就改变了学习表现、认知负荷、心流体验与被感知到的共情，表明角色规定是一个有可测效应的教学设计决策，而非风格上的点缀（[[pedagogical-agent]]）。
 - **提示作为评估设计。**[[ecd-prompts-automated-essay-scoring-2026|Xiong 等（2026）]]把以证据为中心的设计（Evidence-Centered Design）的学生模型、证据模型与任务模型映射到评分提示的各个部分，推导出五项原则——意图性、可追溯性、可问责性、迭代与公平性；他们用 ECD 构建的提示在叙事作文上的评分比零样本、少样本与思维链基线更准确。
-- **决定 LLM 与人类编码一致的是模型身份，而非提示措辞。** 在 [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith 等（2026）]] 控制分解方式后，提示类型不显著（F = 1.77，p = 0.136，partial η² = .03），而模型因子的 partial η² = .19。加入定义或详细指令反而损害了清单式检测，尽管它降低了正确判断定义时的错误；价格也不追踪质量：Gemini 2.5 Pro 花费 $178.13，表现却不如花费 $56.77 的 GPT-4.1 Full。
+- **决定 LLM 与人类编码一致的是模型身份，而非提示措辞。** 在 [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith 等（2026）]] 控制分解方式后，提示类型不显著（F = 1.77，p = 0.136，partial η² = .03），而模型因子的 partial η² = .19。加入定义或详细指令反而损害了清单式检测，尽管它降低了正确判断定义时的错误；价格也不追踪质量：Gemini 2.5 Pro 花费 \$178.13，表现却不如花费 \$56.77 的 GPT-4.1 Full。
 - **注入理论的名称，而不是它的全文。** [[zambrano-llm-human-ai-codebook-development-2026|Zambrano 等（2026）]] 显示，点名理论的提示在有用性（4.40 对 3.20）与具体性（3.80 对 2.40）上胜过提供论文原文的提示，而全文只在理论对齐上占优（4.60 对 3.60）。
 
 ### 与更宽概念的关联

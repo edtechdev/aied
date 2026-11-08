@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-05T22:30:00-05:00"
+updated: "2026-11-08T08:41:46-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -70,7 +70,7 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 - **Role and constraint design as the independent variable.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] compare two agents built on the same model and platform at temperature 0.3 whose only difference is how the prompt specifies role, skills, and constraints: an expert teacher agent answering from a bounded textbook knowledge source versus an empathic student-centered agent scripted to diagnose [[misconceptions]] and check comprehension. The role difference alone shifted learning performance, cognitive load, flow experience, and perceived empathy, showing that role specification is an instructional-design decision with measurable effects rather than a stylistic flourish ([[pedagogical-agent]]).
 - **Prompting as assessment design.** [[ecd-prompts-automated-essay-scoring-2026|Xiong et al. (2026)]] map Evidence-Centered Design's student, evidence, and task models onto the parts of a scoring prompt, deriving five principles — intentionality, traceability, accountability, iteration, and equity; their ECD-built prompts scored narrative essays more accurately than zero-shot, few-shot, and chain-of-thought baselines.
 
-- **Model identity, not prompt wording, drives LLM–human coding agreement.** In [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith et al. (2026)]] controlled decomposition, prompt type was nonsignificant (F = 1.77, p = 0.136, partial η² = .03) while the model factor carried partial η² = .19. Adding definitions or detailed instructions impaired listing detection even as it lowered errors on correct-definition judgments, and price did not track quality: Gemini 2.5 Pro cost $178.13 yet underperformed GPT-4.1 Full at $56.77.
+- **Model identity, not prompt wording, drives LLM–human coding agreement.** In [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith et al. (2026)]] controlled decomposition, prompt type was nonsignificant (F = 1.77, p = 0.136, partial η² = .03) while the model factor carried partial η² = .19. Adding definitions or detailed instructions impaired listing detection even as it lowered errors on correct-definition judgments, and price did not track quality: Gemini 2.5 Pro cost \$178.13 yet underperformed GPT-4.1 Full at \$56.77.
 - **Inject the theory's name, not its full texts.** [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]] show that named-theory prompting beat supplied papers on usefulness (4.40 vs 3.20) and concreteness (3.80 vs 2.40), while full texts won only theoretical alignment (4.60 vs 3.60).
 
 ### Connections to broader concepts

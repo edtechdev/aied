@@ -87,6 +87,7 @@ export interface UiStrings {
     recentlyAddedPages: string;
     recentlyUpdatedConcepts: string;
     viewAllPages: string;
+    viewAllConcepts: string;
     statsArticles: string;
     statsConcepts: string;
     statsFaqs: string;
@@ -189,6 +190,7 @@ const ru: UiStrings = {
     recentlyAddedPages: 'Недавно добавленные страницы',
     recentlyUpdatedConcepts: 'Недавно обновлённые концепции',
     viewAllPages: 'Все страницы →',
+    viewAllConcepts: 'Все концепции →',
     statsArticles: 'статей',
     statsConcepts: 'концепций',
     statsFaqs: 'FAQ',

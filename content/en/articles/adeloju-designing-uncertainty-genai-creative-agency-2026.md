@@ -5,6 +5,7 @@ updated: "2026-11-08T08:39:00-05:00"
 type: article
 page_kind: [framework]
 research_method: [case study]
+evidence_context: educational
 level: [graduate, higher ed]
 audience: [instructors, instructional designers, curriculum designers, faculty developers]
 sources: ['raw/papers/adeloju-designing-uncertainty-genai-creative-agency-2026.md']

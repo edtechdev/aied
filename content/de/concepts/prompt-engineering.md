@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-08T08:41:46-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -84,7 +84,7 @@ Prompt Engineering ist zentral für den wirksamen Einsatz [[generative-ai|genera
 
 - **Ein fünfstufiges Gerüst, über vier Modellfamilien getestet.** Role–Goal–Input–Process–Output-Prompts hoben die bewertete Ausgabequalität von 3.318 auf 4.603 (Δ = +1.285) über 400 gematchte Paare, wobei jede Familie sich verbesserte und die schwächste Baseline am meisten gewann ([[li-who-benefits-llms-prompt-engineering-equity-2026|Li et al. (2026)]]).
 
-- **Modellidentität, nicht Prompt-Formulierung, treibt die Übereinstimmung zwischen LLM und menschlichem Kodieren.** In [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith et al. (2026)]] war bei kontrollierter Zerlegung der Prompt-Typ nicht signifikant (F = 1.77, p = 0.136, partielles η² = .03), während der Modellfaktor partielles η² = .19 trug. Das Hinzufügen von Definitionen oder detaillierten Anweisungen beeinträchtigte die Listing-Erkennung, selbst als es die Fehler bei Urteilen über korrekte Definitionen senkte, und der Preis folgte nicht der Qualität: Gemini 2.5 Pro kostete $178.13 und schnitt doch schlechter ab als GPT-4.1 Full bei $56.77.
+- **Modellidentität, nicht Prompt-Formulierung, treibt die Übereinstimmung zwischen LLM und menschlichem Kodieren.** In [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith et al. (2026)]] war bei kontrollierter Zerlegung der Prompt-Typ nicht signifikant (F = 1.77, p = 0.136, partielles η² = .03), während der Modellfaktor partielles η² = .19 trug. Das Hinzufügen von Definitionen oder detaillierten Anweisungen beeinträchtigte die Listing-Erkennung, selbst als es die Fehler bei Urteilen über korrekte Definitionen senkte, und der Preis folgte nicht der Qualität: Gemini 2.5 Pro kostete \$178.13 und schnitt doch schlechter ab als GPT-4.1 Full bei \$56.77.
 
 - **Den Namen der Theorie injizieren, nicht ihre Volltexte.** [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]] zeigen, dass Prompting mit dem Namen der Theorie das Prompting mit gelieferten Papers bei Nützlichkeit (4.40 gegenüber 3.20) und Konkretheit (3.80 gegenüber 2.40) übertraf, während Volltexte nur bei der theoretischen Passung gewannen (4.60 gegenüber 3.60).
 

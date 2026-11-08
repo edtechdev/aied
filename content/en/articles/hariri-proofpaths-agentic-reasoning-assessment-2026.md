@@ -5,6 +5,7 @@ updated: "2026-11-08T08:46:00-05:00"
 type: article
 page_kind: [framework]
 research_method: [system development]
+evidence_context: educational
 level: [higher ed, undergraduate]
 audience: [instructors, assessment designers, software developers, researchers]
 sources: ['raw/papers/2611.03882.md']

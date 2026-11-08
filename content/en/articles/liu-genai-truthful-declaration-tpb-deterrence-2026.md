@@ -5,6 +5,7 @@ updated: "2026-11-08T08:31:00-05:00"
 type: article
 page_kind: [framework]
 research_method: [structural equation modeling, survey]
+evidence_context: educational
 level: [higher ed, undergraduate]
 audience: [instructors, administrators, assessment designers, policymakers, researchers]
 sources: ['raw/papers/liu-genai-truthful-declaration-tpb-deterrence-2026.md']

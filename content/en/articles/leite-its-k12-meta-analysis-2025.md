@@ -5,6 +5,7 @@ updated: "2026-11-08T08:22:00-05:00"
 type: article
 page_kind: [synthesis]
 research_method: [literature review]
+evidence_context: educational
 level: [k 12, primary education, middle school, secondary]
 audience: [instructors, administrators, researchers]
 sources: ['raw/papers/2511.04997.md']
