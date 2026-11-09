@@ -100,3 +100,7 @@ jobs:
         uses: actions/deploy-pages@v4
         with:
           artifact_name: github-pages
+          # The 1.7 GB dist tree can take GitHub Pages longer than the
+          # action's 10-minute default to sync; three consecutive runs were
+          # cancelled at "deployment_in_progress" while the site was healthy.
+          timeout: 1200000
