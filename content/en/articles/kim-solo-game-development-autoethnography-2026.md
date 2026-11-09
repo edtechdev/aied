@@ -33,7 +33,7 @@ technology: [generative-ai, vibe-coding]
 3. **[[prior-knowledge|Prior knowledge]] shaped both the game and the reading of GenAI.** Bioinformatics expertise produced a dystopian premise, and data-structures reasoning about a depth-10 branching game ruled out a perfect binary tree.
 4. **GenAI use was selective and self-assessed.** The practitioner delegated planning, storywriting, prototyping, and image processing but not playing games, reading community posts, or interrogating creativity — activities they enjoyed or felt competent at.
 5. **Game-development communities did not openly acknowledge GenAI.** At a playtest event GenAI was completely absent from discussion, and social media carried fierce rejections, pushing the design toward conservative systems and Creative Commons Zero resources.
-6. **The budget was a consumer subscription, and it moved.** The practitioner held a $0 computing budget and a daily free quota of five queries for vision models, then raised the ceiling to no more than $20 per month.
+6. **The budget was a consumer subscription, and it moved.** The practitioner held a \$0 computing budget and a daily free quota of five queries for vision models, then raised the ceiling to no more than \$20 per month.
 7. **Identity formation ran at a human pace.** Seventy-three days produced a game and a beginner's grasp of the domain, but the paper argues that a new identity took longer than the capability that prompted the attempt.
 
 ## What the journal recorded
@@ -59,7 +59,7 @@ Bioinformatics did more than supply content. Because the practitioner had expert
 - The design is one autoethnographer over 73 days and 25 journal entries, with no comparison case and no second coder reported; the autoethnographer is also the analyst.
 - Data collection ran through summer, when community gatherings are rarer; the paper notes that more frequent person-to-person engagement might have been achieved with a longer period.
 - Person-to-person contact amounted to one playtest event plus professional communities that were extensions of existing connections, so claims about community norms rest on a thin slice of direct contact.
-- The practitioner was not a full-time game developer and capped GenAI spending at $20 per month, with a daily free quota of five queries for vision models early on, which bounds what could be tested.
+- The practitioner was not a full-time game developer and capped GenAI spending at \$20 per month, with a daily free quota of five queries for vision models early on, which bounds what could be tested.
 - Capability claims are tied to models available in summer 2026, including Anthropic's Fable 5; the paper names no version for the ChatGPT and Claude instances used, and no task-level outcome measure was collected.
 
 ## Citation
