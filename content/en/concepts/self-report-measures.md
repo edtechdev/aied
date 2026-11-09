@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-11-04T15:40:00-05:00"
+updated: "2026-11-09T06:46:53-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -96,6 +96,10 @@ Satisfaction is the most frequently self-reported outcome in this corpus, appear
 - [[nie-personavlm-long-term-personalization-2026|On personality-aligned student modeling]] observes that optimizing for user satisfaction is not the same as optimizing for learning outcomes, and that the two can come apart.
 
 The pattern worth carrying away: satisfaction is responsive to the wrong things when learning is the goal. A system that answers quickly, agrees readily, and reduces effort will be rated highly, and those same properties are the ones the knowledge base associates with reduced [[desirable-difficulties|productive struggle]] and inflated performance on AI-assisted work. Reported satisfaction and measured learning are not enemies; they are simply not substitutes, and treating the first as evidence of the second is the most common slippage this page documents.
+
+The cleanest within-subject case in the corpus measured both quantities on the same students. [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe et al. (2025)]] surveyed business-statistics and economics students across two semesters while integrating a tutor prompt, AI-generated exam review, AI-structured oral exams and AI-assisted topic brainstorming. Self-reported ChatGPT use frequency rose from 2.987 to 4.375 on a 1-7 scale (p < .001), confidence from 3.663 to 4.000 (p = .004), and perceived engagement from 2.433 to 2.65 on a 1-3 scale (p = .006) — a coherent story of students who used the tool more and believed it helped.
+
+Exam scores told a different story: frequency of use was unassociated with performance in the simple model (-5.577, SE 5.566) and negatively associated in the full model (-13.918, SE 7.834, p = .076). The authors do not treat the null as proof of harm, since struggling students may use AI more; what the study does show is significant movement on every perceptual measure with no corresponding movement in graded performance.
 
 
 **Perception measures outnumber skill measures in the generative-AI inquiry literature.** In a 66-study review, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] found user perceptions the most reported outcome domain (32 studies, 48.5%), followed by affective outcomes at 25, while only 8 studies (12.1%) measured inquiry skills and 4 of those had a comparison condition. The authors rated no certainty of evidence, so the perception counts describe what was asked rather than what was achieved.
@@ -204,3 +208,4 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - [[yahya-generative-ai-inquiry-based-learning-review-2026]] - perceptions reported in 32 of 66 studies against 8 that measured inquiry skills
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 63.8% of AI literacy tools report reliability evidence and fewer than 20% report validity evidence
 - [[huang-genai-academic-information-resources-2026]] — Library logs and survey attitudes pointing in different directions
+- [[onodipe-enhance-not-replace-ai-classroom-2026]] — Perceived learning and engagement rose on every survey measure while exam scores did not move

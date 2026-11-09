@@ -1,7 +1,7 @@
 ---
 title: Oral Assessment
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-09T06:46:53-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 connected_resources: [code-viva]
@@ -52,6 +52,8 @@ The formats in the corpus span a wide range of automation and synchronicity, and
 **Recorded and asynchronous.** [[asynchronous-oral-assessment-2026|Asynchronous oral assessments]] replace the room with a time-limited, non-revisable webcam response, roughly thirty seconds of preparation and two to three minutes of speech. In the reported pilot, scores exceeded those of in-person multiple-choice tests: midterm median 92.5 against 70 (p < .001) and final median 94.2 against 86.4 (p = .002), with only moderate cross-format correlations. The authors explicitly attribute the difference to the format rather than to learning, and the design carried 7.5 per cent of the course grade.
 
 **Automated delivery and scoring.** [[ai-supported-oral-assessment-tvet-2026|A voice-based system trialled in vocational automotive and engineering classes]] assessed thirty-three learners, of whom twenty-one agreed the live voice task felt realistic and none disagreed that speaking in real time suited the task better than a written [[eportfolio|portfolio]]. Word counts for identical questions varied five- to eightfold between learners, fluency conferred no accuracy advantage on closed items, and a preliminary agent grade matched the human tutor's in ninety-five per cent of adjacent horticulture and dairy trials. [[socratic-tests-conversational-assessment|A conversational Socratic test]] takes the opposite design route, aiming at conceptual questioning; its evidence is a self-report survey of ninety-eight students, in which 80.6 per cent agreed the AI scaffolded effectively and fifty-two per cent reported lower stress than traditional exams. Both papers measure acceptance rather than learning.
+
+**AI as a logistics scaffold for live, human-monitored orals.** A third arrangement keeps the instructor as examiner and uses AI to make paired rehearsal feasible. In [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe et al.'s (2025) business-statistics courses]], live one-to-one Zoom orals could not reach every student within the time limit, so students worked in breakout-room pairs with a structured ChatGPT prompt covering the kinds of questions the exam would ask, while the instructor rotated through rooms to probe reasoning. The paper reports the logistics and the reduction in instructor load but no outcome comparison, so it is a design to test rather than evidence that AI-mediated rehearsal preserves what an oral certifies. Its interest for this page is that it targets the scheduling and contact-hour constraint Fenton names without automating either the delivery or the scoring.
 
 **Oral evidence as defense rather than examination.** [[tool-invariant-framework-agentic-ai|A tool-invariant assessment framework]] pairs AI-free in-class quizzes with ten-minute oral defenses of comment-stripped, AI-assisted work, scored on code comprehension, method understanding, terminology, interpretation and verification, with verification required to pass regardless of the total. The design is argued rather than validated; the paper's own arithmetic for fifteen students is two and a half contact-hours per assignment and roughly twenty-eight contact-hours per semester across eleven defended assignments.
 
@@ -116,3 +118,4 @@ The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearabl
 - [[pgr-students-genai-uses-qualitative-2026]] — The doctoral viva under generative AI
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
 - [[assessment-feedback-trilemma-model-2026]] — Denies any format a fixed position and reframes feasibility as an educational priority
+- [[onodipe-enhance-not-replace-ai-classroom-2026]] — AI-scaffolded pair orals as a scheduling workaround in a business-statistics course
