@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-09T10:25:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -36,6 +36,8 @@ The knowledge base documents several families of learning theory, each with its 
 - **Cognition and cognitive architecture.** [[cognitive-psychology|Cognitive psychology / cognitivism]] is the umbrella for this family: Cognitive Load Theory (how working-memory limits shape instruction), Dual-Process Theory (fast intuitive vs. slow deliberative processing), and [[metacognition]] (monitoring and regulating one's own learning) explain the *internal* mechanisms that AI tools engage or bypass.
 - **Motivation and self-direction.** [[self-determination-theory]] (autonomy, competence, relatedness), [[self-efficacy]] (confidence in one's capability), [[self-regulated-learning]] (goal-setting, monitoring, and adjustment), and [[motivation]] explain why learners engage with AI the way they do.
 - **Learning context and activity.** [[experiential-learning]], [[active-learning]], [[project-based-learning]], [[collaborative-learning]], [[transfer-of-learning]], [[desirable-difficulties]], and [[embodied-learning]] describe the kinds of activity and context that produce durable learning.
+
+A 2026 systematic review of 163 GenAI studies maps the literature onto five theory traditions and finds constructivist and connectivist designs dominant, with behaviorist reinforcement designs confined largely to primary-level adaptive platforms ([[saranya-pedagogical-practices-genai-learning-theories-2026|Saranya & Saravanan, 2026]]). Its reviewers inferred each study's theory from described practice because primary studies rarely named one, which is itself a finding about how the field reports theory.
 
 ### Learning theories and learning gains
 
@@ -152,3 +154,5 @@ Alongside the classical families, the knowledge base documents theories written 
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[rachatasumrit-example-problem-ratio-2026]]
+- [[saranya-pedagogical-practices-genai-learning-theories-2026]] — Pedagogical practices and generative AI integration across the spectrum of learning theories: a systematic review
+

@@ -6,8 +6,40 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-08
-**Total backlog:** 20 articles awaiting ingest (6 journal RSS + 3 OpenAlex sweep picks still awaiting a PDF; 11 carried from earlier entries) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-09
+**Total backlog:** 34 articles awaiting ingest (11 in-scope candidates from the 2026-11-09 scan + 3 whose full text a publisher blocked + 6 journal RSS + 3 OpenAlex sweep picks still awaiting a PDF; 11 carried from earlier entries) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-09)
+
+The prefetch returned 75 candidates and dropped 21 the maintainer had already rejected. Twelve
+were ingested from full text this run (2 EdArXiv-backed arXiv preprints, 5 EdArXiv preprints, 5
+Frontiers open-access articles). The 11 below cleared relevance but were not reached inside the
+20-article cap or were framework/bibliometric papers ranked below the empirical work; all are
+open access, so a later run can take them without a PDF. The three after them are blocked at the
+publisher and need a supplied PDF.
+
+**EdArXiv (open access)**
+
+- [HAIML: A Human-Centered AI Metacognitive Learning Model](https://osf.io/preprints/edarxiv/qhjgs_v2/) — [DOI: 10.35542/osf.io/qhjgs_v2](https://doi.org/10.35542/osf.io/qhjgs_v2)
+- [From Executor to Partner: A Regulated Learning Framework for Human–Generative AI Collaboration in Systematic Reviews](https://osf.io/preprints/edarxiv/7qd64_v1/) — [DOI: 10.35542/osf.io/7qd64_v1](https://doi.org/10.35542/osf.io/7qd64_v1)
+- [Towards Human-Centered Generative AI for Collaborative Educational Ecosystems](https://osf.io/preprints/edarxiv/m39xg_v1/) — [DOI: 10.35542/osf.io/m39xg_v1](https://doi.org/10.35542/osf.io/m39xg_v1)
+- [PAIDEIA: A Human-Centered Pedagogical Framework for Responsible Generative AI Integration in Ancient Greek Literature in Translation](https://osf.io/preprints/edarxiv/34d5u_v1/) — [DOI: 10.35542/osf.io/34d5u_v1](https://doi.org/10.35542/osf.io/34d5u_v1)
+
+**Frontiers in Education / Psychology (open access)**
+
+- [ChatGPT acceptance in an open distance and e-learning context in Africa](https://doi.org/10.3389/feduc.2026.1949509) — [DOI: 10.3389/feduc.2026.1949509](https://doi.org/10.3389/feduc.2026.1949509)
+- [Generative AI literacy and administrative staff's innovative work behavior in vocational colleges](https://doi.org/10.3389/feduc.2026.1891298) — [DOI: 10.3389/feduc.2026.1891298](https://doi.org/10.3389/feduc.2026.1891298)
+- [Technē, phronēsis, and poiesis: a narrative-humanistic framework for teaching innovation in the age of AI](https://doi.org/10.3389/feduc.2026.1993147) — [DOI: 10.3389/feduc.2026.1993147](https://doi.org/10.3389/feduc.2026.1993147)
+- [A bibliometric mapping of research trends in AI-enabled virtual reality STEM education](https://doi.org/10.1007/s44217-026-02206-1) — [DOI: 10.1007/s44217-026-02206-1](https://doi.org/10.1007/s44217-026-02206-1)
+- [A program evaluation for teaching AI prompt engineering for evidence-based medicine to fourth-year medical students](https://doi.org/10.1186/s12909-026-10790-x) — [DOI: 10.1186/s12909-026-10790-x](https://doi.org/10.1186/s12909-026-10790-x)
+- [Can AI Help Students Explain "Recursion"? A Platform-Based Intervention for Developing Explanatory Competence](https://doi.org/10.3390/educsci16111885) — [DOI: 10.3390/educsci16111885](https://doi.org/10.3390/educsci16111885)
+- [Being Observed by a Tutor Enhances Foreign Speech Production Learning in Video-Mediated Training](https://osf.io/8qxve) — [DOI](https://osf.io/8qxve)
+
+**Full text blocked at the publisher (PDF needed)**
+
+- [Digital literacy, GenAI literacy, and creative thinking disposition in pre-service visual arts teachers](https://doi.org/10.1007/s44217-026-02396-8) — [DOI: 10.1007/s44217-026-02396-8](https://doi.org/10.1007/s44217-026-02396-8) — Springer serves a consent shell to automated requests.
+- [AI-generated level-aligned pre-writing input and EFL reading-to-write development](https://doi.org/10.1080/2331186x.2026.2755655) — [DOI: 10.1080/2331186x.2026.2755655](https://doi.org/10.1080/2331186x.2026.2755655) — Taylor & Francis returned HTTP 403.
+- [Modelling AI-mediated writing feedback in EFL](https://doi.org/10.1080/2331186x.2026.2758530) — [DOI: 10.1080/2331186x.2026.2758530](https://doi.org/10.1080/2331186x.2026.2758530) — Taylor & Francis returned HTTP 403 and the prefetch record carried no abstract.
 
 ## Weekly journal RSS scan (2026-11-08)
 

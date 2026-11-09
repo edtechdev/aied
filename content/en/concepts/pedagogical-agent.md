@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-09T10:25:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -57,6 +57,8 @@ The agent's surface is a separate design axis from its pedagogy. [[ai-avatars-an
 **Stress-test persona robustness over multiple turns.** [[adversarial-stress-testing-role-playing-agents|Shouqi et al. (2026)]] ran six escalating attacks against role-playing agents with an automated Judge: multi-strategy testing cut robustness by 0.17–0.20 versus a single-strategy baseline, and critical failures clustered after turn 5–6, so short or single-turn evaluations overestimate persona stability and ethical adherence.
 
 - **A peer agent whose fallible suggestions are the point.** Copa pairs log-contextualized retrieval with GPT-4o and a fifteen-chunk task-specific knowledge base, and summarizes each student segment agentically: it compares the student's model to an expert version, diagnoses the expressed problem, and names what to retrieve. Across a classroom study with 16 students and two focus groups, all participants said its guidance supported their problem solving and was accurate, and all would use it again. Several also asked for straight answers, and some assumed a suggestion was correct until their model got worse. The authors read that as the cost of designing an agent to prompt evaluation rather than to answer ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
+
+- **A deployed inquiry-cycle companion that initiates rather than waits.** In a 710-student secondary STEM deployment, an AI learning companion structured five phases — Engagement, Hypothesis, Experiment, Analysis and Reflection — offered guidance on its own schedule, and kept every LLM-generated item behind teacher approval ([[anagnostopoulou-ai-companion-stem-self-efficacy-2026|Anagnostopoulou et al., 2026]]). All outcomes were self-reported at one time point, so the design is documented rather than shown to work.
 
 ## Practical guidance
 
@@ -142,3 +144,5 @@ Better feedback is not the same as better learning: customizing an agent with kn
 - [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
 
 - [[agent-type-feedback-style-self-directed-learning-2026]] — Customized agent raised feedback quality but not self-regulation or outcomes; gain edge only under directive feedback
+- [[anagnostopoulou-ai-companion-stem-self-efficacy-2026]] — Self-efficacy, engagement, attitudes, and perceived learning in AI-assisted STEM education
+

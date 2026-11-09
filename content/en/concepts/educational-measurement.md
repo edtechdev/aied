@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-05T22:30:00-05:00"
+updated: "2026-11-09T10:25:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -87,6 +87,8 @@ The knowledge base's evidence repeatedly shows that **how** a construct is measu
 **Reliability is partly recoverable from the model itself.** [[know-when-to-trust-ai-scoring-reliability-2026|Organisciak and Acar (2026)]] evaluate three cheap upgrades to LLM-based scoring on more than 20,000 responses to the Alternative Uses Test: reading the model's own token-level confidence, taking a probability-weighted mean over its top-n predicted scores instead of a single best guess, and ensembling across models. Each improved agreement with human scores (correlation rising from r = 0.781 to 0.823 and RMSE falling from 0.599 to 0.498 in the best configuration), and their diagnostics locate a specific failure of single-pass scoring: the model's expressed confidence was negatively related to its accuracy (β = −0.602). This is a measurement-approach result rather than a model result — the same model, scored differently, is a more reliable instrument — and it sits alongside the corpus-level agreement evidence above.
 
 A 2026 appraisal of 33 teacher AI literacy instruments shows where instrument development is mature and where it is not. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] graded the instruments against a decision matrix adapted from COSMIN and Terwee et al. (2007) and found internal consistency the strongest domain (28 of 33 at Grade A, 84.8%) and fairness the weakest, with only five instruments (15.2%) reporting measurement invariance or differential item functioning evidence. Structural validity was strong, with 24 instruments (72.7%) at Grade A through CFA, PLS-SEM or IRT modeling, yet content validity rested mostly on [[qualitative-research|qualitative]] review, with 21 instruments (63.6%) at Grade B for lacking quantitative expert agreement statistics.
+
+- **A nominally five-dimensional AI-anxiety scale is essentially unidimensional.** After the 23-item, eight-dimension AIAS failed to replicate its structure in 877 undergraduates, the retained 20-item form produced bifactor ωH = .875 against ωtotal = .954 (ratio .918), leaving specific-factor ωHS of .166 to .407 ([[tassilova-ai-anxiety-scale-russian-2026|Tassilova et al., 2026]]). One freed intercept reversed a country comparison's sign, which makes that contrast indeterminate rather than merely biased.
 
 Automated item selection can shorten an instrument without reshaping it: ant colony optimization over a merged two-wave sample (N = 305, 342) yielded a 12-item short form correlating r = 0.910–0.944 with the full scale on each dimension, though two items per dimension cover a narrower content range ([[genai-srl-l2-writing-scale-2026|Wang, Zhang and Zhang (2026)]]).
 
@@ -197,3 +199,5 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Difficulty without discrimination
 - [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Same-construct pairs disagree in 41.2% of cases, and performance measures need their own validity argument (Fan et al. 2026)
 - [[chang-ai-cognitive-offloading-scale-2026]] — Validation of the AI Cognitive Offloading Scale, with the validity checks it omits
+- [[tassilova-ai-anxiety-scale-russian-2026]] — Psychometric properties of the Russian version of the artificial intelligence anxiety scale: dimensionality, measurement invariance, and person-centered profiles
+

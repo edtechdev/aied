@@ -1,7 +1,7 @@
 ---
 title: Oral Assessment
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-11-09T06:46:53-05:00"
+updated: "2026-11-09T10:25:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 connected_resources: [code-viva]
@@ -56,6 +56,8 @@ The formats in the corpus span a wide range of automation and synchronicity, and
 **AI as a logistics scaffold for live, human-monitored orals.** A third arrangement keeps the instructor as examiner and uses AI to make paired rehearsal feasible. In [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe et al.'s (2025) business-statistics courses]], live one-to-one Zoom orals could not reach every student within the time limit, so students worked in breakout-room pairs with a structured ChatGPT prompt covering the kinds of questions the exam would ask, while the instructor rotated through rooms to probe reasoning. The paper reports the logistics and the reduction in instructor load but no outcome comparison, so it is a design to test rather than evidence that AI-mediated rehearsal preserves what an oral certifies. Its interest for this page is that it targets the scheduling and contact-hour constraint Fenton names without automating either the delivery or the scoring.
 
 **Oral evidence as defense rather than examination.** [[tool-invariant-framework-agentic-ai|A tool-invariant assessment framework]] pairs AI-free in-class quizzes with ten-minute oral defenses of comment-stripped, AI-assisted work, scored on code comprehension, method understanding, terminology, interpretation and verification, with verification required to pass regardless of the total. The design is argued rather than validated; the paper's own arithmetic for fifteen students is two and a half contact-hours per assignment and roughly twenty-eight contact-hours per semester across eleven defended assignments.
+
+**Sampled probing, not full coverage.** Deng (2026) proposes examining a random draw from a student's own submitted work face to face, under four credibility conditions: more than one prober, recorded and auditable sessions, an appeal route, and a consultant who is not the certifier ([[deng-certification-consultation-university-teaching-2026|Deng, 2026]]). The design is argued rather than tested, but it meets the contact-hour wall by sampling rather than examining everything.
 
 Interaction format decides what an AI-mediated speaking task can certify. The Duolingo English Test's dialogue tasks, 713 of them in the pilot, required answer selection rather than reactive talk, which the reviewers argue misaligns the cognitive demands of the task with the construct the test claims to measure ([[ai-second-language-listening-speaking-assessment-2025|Goh & Aryadoust (2025)]]).
 
@@ -119,3 +121,5 @@ The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearabl
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
 - [[assessment-feedback-trilemma-model-2026]] — Denies any format a fixed position and reframes feasibility as an educational priority
 - [[onodipe-enhance-not-replace-ai-classroom-2026]] — AI-scaffolded pair orals as a scheduling workaround in a business-statistics course
+- [[deng-certification-consultation-university-teaching-2026]] — University teaching after generative AI: beyond lectures and inquiry to a certification-and-consultation paradigm in which learners become evaluators
+

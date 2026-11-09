@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-07T14:45:00-05:00"
+updated: "2026-11-09T10:25:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -77,6 +77,8 @@ The variables surrounding AI literacy have since been mapped more broadly. [[ai-
 A structural-equation study of 502 faculty respondents at one Chinese research university found AI literacy the strongest predictor of AI well-being (β = 0.713), against a small [[self-efficacy|technological self-efficacy]] path (β = 0.082), with social and organizational support reaching well-being only indirectly ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
 
 One apparent negative association reverses under control: among 303 Hong Kong undergraduates, technology anxiety correlated negatively with AI literacy (r = −0.14) yet predicted β = 0.15 in a joint model, an effect confined to critical evaluation and ethical competence ([[ai-literacy-determinants-university-students-2026|Chow et al. (2026)]]).
+
+**Use arrives before caution.** In an exact-age sample of 1,598 students, the odds of more academic [[generative-ai|GenAI]] use rose each year from 12 to 17 while perceived reliability did not move, and the trajectories diverged first at 14-15 and more strongly at 16-17 ([[cuenca-rodriguez-genai-use-caution-trajectories-2026|Cuenca-Rodríguez et al., 2026]]). The authors read the timing as an argument for teaching verification before the divergence, not after it.
 
 [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] adds an ordered account of what AI literacy predicts rather than what predicts it. Surveying 450 university students in mainland China who already use ChatGPT, the study found AI literacy related directly to continued use (beta = 0.16, p = 0.002) and indirectly along a serial path through [[trust]] and academic [[self-efficacy]] (indirect effect = 0.07, 95% CI [0.04, 0.10]), with the literacy to trust link the largest association in the model (beta = 0.50). [[anxiety-and-stress|AI anxiety]] moderated that first link (interaction beta = -0.25, simple slopes falling from 0.76 to 0.25 across the anxiety range), so the chain thinned for more anxious students and literacy instruction alone should not be assumed to reach them. The design is cross-sectional and the sample is restricted to existing users, so the ordering is a modeling assumption rather than an observed sequence.
 
@@ -326,3 +328,5 @@ Verification is the teachable counterweight, and [[automation-bias]] names what 
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — PAIRR implemented across 13 sections: readings, peer feedback, rubric-driven AI feedback, reflection
 
 - [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Four criteria and four metaphors for teaching critical AI literacy
+- [[cuenca-rodriguez-genai-use-caution-trajectories-2026]] — Students Learn to Use Generative AI Before Learning to Question It: Ordinal Trajectories of Academic Use and Caution from Adolescence to University
+

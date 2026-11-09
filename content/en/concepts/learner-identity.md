@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-09T10:25:00-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -48,6 +48,8 @@ A distinct authorship condition, not only a threat to authorship: when self-form
 
 - **Guarded adoption: selective AI use as identity protection.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] surveyed 484 students at one Australian university and found that higher-achieving students reported *lower* active [[generative-ai|generative AI]] engagement, lower positive affect toward AI, lower [[self-report-measures|perceived learning]] impact and lower AI-related disengagement, with the strongest associations at rho = -0.395 for perceived learning impact and rho = -0.359 for positive affect. Their open-ended responses described use that was selective (clarification, summarization, workflow support), verified, and held subordinate to their own judgment, and item-level results showed greater agreement that reliance on AI hinders [[critical-thinking]] and independent [[problem-solving|problem solving]]. The authors read this as identity work: for students whose sense of themselves as successful learners rests on their own effort and judgment, bounding AI use defends the [[agency|epistemic agency]] the identity depends on — which also means the pattern is neither technophobia nor low engagement.
 - **A stated purpose does not necessarily govern an AI decision.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] interviewed 14 undergraduates and coded each interview for the relationship between the student's [[self-determination-theory|purpose]] — a personally meaningful intention to contribute beyond the self — and their AI choices. Only some made the connection: one refused AI because its environmental and human costs contradicted her purpose, and three let future professional identity shape their choices ("contributes to the psychologist that I will be out in the world one day"). Others with an equally clear sense of purpose made no such link, describing purpose and AI as "kind of separate," so having an identity to protect was not the same as drawing on it. The paper also separates the reasons students give for keeping work their own — skill development, [[evaluative-judgment|ownership and pride]], and moral objection — which arrive through different mechanisms and should not be pooled into one motive.
+
+- **Capability can arrive before belonging.** A 73-day autoethnography of a bioinformatics educator building a game in an unfamiliar domain found that [[generative-ai|GenAI]] supplied the capability but not the identity: belonging came through communities-of-practice participation and repeated sensemaking, and attaining it took a human pace ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
 
 ## Relationship to learner agency
 
@@ -112,3 +114,5 @@ Learner identity connects to [[agency]] (identity is enacted through agentic aut
 
 - [[synthetic-position-self-authorship-2026]] — Authorial suspension: delegated authorship as a self densely voiced yet un-authored (conceptual analysis)
 - [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
+- [[kim-solo-game-development-autoethnography-2026]] — Entering a New Domain in the Era of Generative AI: An Autoethnography of Solo Game Development as a Bioinformatics Educator
+

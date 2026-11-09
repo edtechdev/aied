@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-06T09:20:00-05:00"
+updated: "2026-11-09T10:25:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -68,6 +68,8 @@ A key finding is the **gap between [[self-report-measures|self-reported]] and pe
 The gap is not only between perceived and actual skill but in the *breadth* of what teachers know: a national survey of 2,018 Ukrainian secondary educators found 84% reported using AI in professional practice while only 11% could name a specialized AI service beyond ChatGPT ([[ukraine-ai-literacy-secondary-framework-2026|Marienko, Markova & Semerikov (2026)]]). A second narrowness shows in what teachers volunteer rather than what they can name: 53 in-service teachers tagging their own classroom cases against the OECD AI Literacy Framework described 43 AI-literate practices against only 10 failures ([[ailithub-ai-literacy-case-infrastructure-2026|Wang et al., 2026]]). Their competency selections clustered on practical judgment (evaluating AI outputs, N = 38) and rarely reached societal bias (N = 5), ethical alignment (N = 6) or AI's energy use (N = 9).
 
 A 132-teacher survey in Indonesia found near-universal acceptance alongside thin mechanistic understanding: 96.2% endorsed AI use by teachers, yet only 4.6% named tokenization or decoding and 21.5% believed ChatGPT searched a database or the internet ([[ai-misconceptions-indonesian-k12-teachers-2026|Aji et al. (2026)]]). A favorable attitude is not evidence of a workable mental model of the tool.
+
+- **Use and GenAI training settle attitudes; general confidence does not.** In TALIS 2024, Scandinavian teachers who had used [[generative-ai|GenAI]] scored 0.72 SD higher on benefit agreement and 0.26 SD lower on uncertainty about them, GenAI-specific professional development added 0.20 SD, and users also agreed with misrepresentation concerns more often ([[white-scandinavian-teachers-genai-attitudes-2026|White et al., 2026]]). Among 425 K-12 professionals, epistemic vigilance capacity predicted calibrated AI readiness at β = .675 while autonomous motivation did not (β = .076), and only 143 reported a clear written AI policy ([[song-calibrated-ai-readiness-k12-2026|Song, 2026]]).
 
 The gap is visible in the artifact as well as in the self-report. A [[ai-integration-instructional-design-collaboratory-2026|cross-institutional faculty collaboratory in teacher preparation]], in which teacher educators designed AI into their own methods courses, reported that candidates could produce polished AI-assisted lesson plans while being unable to explain why a plan fit the learners and the standards, since the plan itself says nothing about the reasoning behind it. Grading the justification rather than the product is one response. The [[bondurant-shaughnessy-ai-pedagogies-practice-2026|pedagogies-of-practice frame]] suggests another, treating rehearsal as an approximation of practice: AI-mediated rehearsal with structured post-rehearsal feedback raised candidates' use of probing and exploring questions, yet candidates' own judgments of their performance still diverged from what observers recorded.
 
@@ -222,3 +224,5 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[chen-ai-visualization-teaching-competency-scale-2026]] — Development and validation of the AI-empowered teacher visualization teaching competency scale
 - [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
 - [[yuan-teacher-need-satisfaction-genai-2026]] — Teachers’ basic psychological need satisfactions and their intentions to use generative artificial intelligence: the mediating role of engagement in professional development
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — Scandinavian teachers' attitudes toward generative artificial intelligence: Exploration of associations
+
