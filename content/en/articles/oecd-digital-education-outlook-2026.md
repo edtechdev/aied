@@ -1,7 +1,7 @@
 ---
 title: "OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education"
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-09-19T12:17:22-04:00"
+updated: "2026-11-09T07:16:33-05:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [pedagogy]
@@ -35,7 +35,7 @@ The report draws a sharp line: GenAI tools "designed or used with an intentional
 
 ## Tutoring: The 9-Percentage-Point Effect
 
-A 9-percentage-point increase in student pass rates when low-experience tutors used AI support, with smaller gains for more experienced tutors. Secondary science teachers in England saw a **31% reduction** in time spent on lesson and resource planning. This supports an augmentation model where AI boosts the least experienced practitioners the most. See [[hybrid-human-ai-tutoring-differentiated]].
+A 9-percentage-point increase in student pass rates when low-experience tutors used AI support, with smaller gains for more experienced tutors. Secondary science teachers in England saw a **31% reduction** in time spent on lesson and resource planning. This supports an augmentation model where AI boosts the least experienced practitioners the most. See [[gurung-hybrid-human-ai-tutoring-2026]].
 
 ## Teacher Agency: Three Paradigms
 

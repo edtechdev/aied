@@ -32,4 +32,6 @@ export const ARTICLE_REDIRECTS: Record<string, string> = {
   'multimodal-ai-tutoring': 'syal-multimodal-dialogue-stem-2026',
   'ai-tutor-safety-harms': 'hazra-safetutors-pedagogical-safety-2026',
   'principled-ai-education': 'finkelstein-principled-ai-education-2025',
+  // Duplicate ingestion of the same EDM 2026 study as gurung-hybrid-human-ai-tutoring-2026; consolidated 2026-11-09.
+  'hybrid-human-ai-tutoring-differentiated': 'gurung-hybrid-human-ai-tutoring-2026',
 };

@@ -1,15 +1,15 @@
 ---
 title: Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs
 created: "2026-10-10T18:56:00-04:00"
-updated: "2026-10-16T13:51:50-04:00"
+updated: "2026-11-09T07:16:29-05:00"
 type: article
 foundations: [ai-education]
-technology: [intelligent-tutoring]
-assessment: [feedback]
+technology: [intelligent-tutoring, personalized-learning, learning-analytics]
+assessment: [feedback, learning-gains]
 ethics: [equity-in-ai-education]
-audience: [researchers, administrators]
+audience: [researchers, administrators, instructors]
 level: [k 12]
-sources: ['raw/papers/gurung-hybrid-human-ai-tutoring-2026.md']
+sources: ['raw/papers/2605.11155.md']
 confidence: high
 research_method: [quasi-experiment]
 contributors: [editor]
@@ -26,7 +26,7 @@ The mechanism story is coherent with the prior evidence the paper builds on: aut
 
 ## Key findings
 
-- **Hybrid tutoring beats AI-only substantially:** +25% time on task, +36% skill proficiency, +61% MAP growth vs. the fall AI-only baseline, within the Imbens-Kalyanaraman bandwidth.
+- **Hybrid tutoring beats AI-only substantially:** +25% time on task, +36% skill proficiency, +61% MAP growth vs. the fall AI-only baseline (p = .003), about 2× the expected national NWEA growth norms, within the Imbens-Kalyanaraman bandwidth.
 - **The differentiated policy doesn't trade one group off for the other:** proactive (below-median) and reactive (at/above-median) students achieved comparable time-on-task and skill-proficiency gains through different support mechanisms — proactive sustained engagement for strugglers; reactive preserved independent pacing for strong students.
 - **No cutoff discontinuity in MAP growth** between the two arms, but proactive tutoring averaged marginally higher growth (75%, p = .065), concentrated below the cutoff — the gap-narrowing pattern the authors highlight.
 - **Consistent with Borchers et al.** (25% time-on-task, 38% skill proficiency from human-AI access) — this study's contribution is the *differentiation*, not the hybrid effect itself.
@@ -41,12 +41,13 @@ The mechanism story is coherent with the prior evidence the paper builds on: aut
 
 ## Limitations
 
-- Quasi-experimental DiDC with national growth norms as reference rather than a matched control; the authors themselves call for an RCT of the policy against business-as-usual.
-- Dichotomous allocation (single median cutoff) misses within-group heterogeneity in need.
-- The proactive advantage is marginal (p = .065) and average-level; the "narrowing gaps" claim rests on the below-cutoff concentration, not a significant cutoff interaction.
-- One tutoring provider, one platform (IXL), grades 5–8 math — domain and platform generality untested.
+- Quasi-experimental DiDC with national growth norms as the reference rather than a matched control; the authors call for an RCT of the policy against business-as-usual, complicated ethically once proactive support is known to help.
+- One middle school in a Mid-Atlantic U.S. state during the 2024–2025 school year, with 635 of approximately 1,000 eligible students opting in through informed consent; the provider and platform are single (IXL), grades 5–8 mathematics.
+- Prior-year state test scores existed for 557 of the 635 students; the remaining 78 were newly enrolled, so cutoff placement rested on less information for them.
+- The proactive advantage is marginal (p = .065): the full-sample trend was 26% (p = .086), so the gap-narrowing claim rests on concentration below the cutoff rather than a significant cutoff interaction.
+- A dichotomous median split misses within-group heterogeneity — the students farthest below the cutoff are precisely the ones the design cannot distinguish.
 - Tutor demographic effects are reported as an observation, not analyzed with the design's inferential machinery.
 
 ## Citation
 
-Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., Brunskill, E., Aleven, V., & Koedinger, K. R. (2026). [*Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs*](https://arxiv.org/abs/2605.11155). *arXiv:2605.11155v1* [cs.CY].
+Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., Brunskill, E., Aleven, V., & Koedinger, K. R. (2026). [*Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs*](https://educationaldatamining.org/edm2026/proceedings/2026.EDM.full-papers.266/index.html). *Proceedings of the 19th International Conference on Educational Data Mining (EDM 2026)*, paper 266. arXiv:2605.11155.
