@@ -1,7 +1,7 @@
 ---
 title: Virtual and Augmented Reality
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-11-04T15:58:10-05:00"
+updated: "2026-11-09T09:39:27-05:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -58,6 +58,8 @@ The strongest evidence for VR/AR is comparative and [[discipline-specific-aied|d
 The counter-evidence is just as informative. In the first meta-analysis of AI-based interventions for [[inclusive-learning|students with disabilities]] — 29 studies, 239 effect sizes, medium overall effect g = 0.588 — intelligent VR systems produced g = 0.528, **not statistically significant**, while computer software reached 0.959 and robots 0.509. Publication bias was present and trim-and-fill reduced the overall estimate to g = 0.269. The pattern is not that immersion fails, but that its effects are small, heterogeneous, and sensitive to how the particular intervention was designed and compared.
 
 The clearest negative result in the knowledge base comes from a studio deployment rather than a comparison of modalities: in a 27-student architectural design studio, teams using a GenAI plus multi-user XR pipeline declined more in design [[self-efficacy]] confidence (β = −1.675) and outcome expectancy (β = −2.088) than teams working the normal course workflow, with no significant difference in expert panel ratings of their presentations ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). The authors explain it as phase-dependent complementarity with real friction — GenAI for externalizing tentative ideas, XR for spatial and scale evaluation — alongside control, dimensional-fidelity, shared-attention and motion-comfort problems, a reminder that immersive tooling adds interaction costs as well as capability.
+
+**The literature is young and dispersed.** A bibliometric mapping of AI-enabled VR STEM education found 241 publications in Dimensions between 2005 and 2025, but 84.6% of them appeared in 2023-2025, with the growth inflection in 2023 rather than at the pandemic ([[ajimotokan-ai-vr-stem-bibliometric-2026|Ajimotokan et al., 2026]]). Citation performance was strong: 92 of 127 publications with field-normalized scores sat at or above the global average. The field's social structure was thin, however, with 774 of 789 authors credited on a single paper and 185 of 209 venues appearing once. For a reader weighing the effect studies above, that structure is the caveat: most of the evidence is recent, and few research groups have accumulated a sustained program.
 
 ## Fidelity, presence and the authenticity gap
 

@@ -1,7 +1,7 @@
 ---
 title: Metaphors and Analogies
 created: "2026-11-07T12:10:00-05:00"
-updated: "2026-11-07T12:10:00-05:00"
+updated: "2026-11-09T09:39:27-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 pedagogy: [misconceptions, student-engagement]
@@ -68,6 +68,8 @@ The strongest classroom evidence in the corpus comes from analogy use in computi
 The paper's contribution is the idea of **two-sided analogy auditing**. Target-concept knowledge tells a student which relations an analogy must preserve. Source-domain knowledge tells them whether the source actually has those relations. The sharpest auditors were not always the students whose interests matched the analogy. They were the students who knew the source domain well enough to inspect it. That has a design implication: a familiar source can turn a student from a recipient into an expert auditor. The authors recommend assigning flawed analogies as objects to inspect and repair, rather than filtering them out. The flawed analogy becomes a [[desirable-difficulties|productive difficulty]].
 
 That finding complicates the usual assumption that AI-generated explanations should be polished before students see them. A clean analogy can still encode a wrong mapping, and a flawed one can be more instructive if the task is critique. The important condition is that students have enough target knowledge to know what the analogy must preserve, and enough source knowledge to check whether it does. Without either, the analogy may be memorable for the wrong reason.
+
+A three-week EAP intervention puts that auditing stance into a revision sequence. Students wrote a metaphor for recursion aimed at a non-specialist, revised it against three angles (limit testing, structural fit, audience fit), and then wrote a fresh post-test metaphor; one group did the revision in an AI dialogue platform with peer feedback, the other independently ([[xing-ai-recursion-explanatory-competence-2026|Xing et al., 2026]]). The AI group reported slightly higher perceived clarity, accuracy and audience adaptation (4.15 against 3.93 on one item), but the difference was not significant and the outcomes were self-reported. The more useful evidence is in the dialogue logs: the model named the recursive components the metaphor had to carry, and students kept their image while making its structure explicit. The design lesson is to treat the AI turn as a prompt to revise the mapping, not to generate a better metaphor.
 
 [[anvil-ai-educational-animations|ANVIL]] shows the generation side. It takes a concept definition, generates a textual analogy, compiles it into a screenplay, produces animation code, and repairs failures in a bounded loop. The system was evaluated with computer science educators, who rated most analogies as adequate and valued the tool as a creative collaborator for early lesson planning. The authors also found that instructor control, editability, and pedagogical fit mattered more than raw generation quality. ANVIL is a reminder that an AI-generated analogy is a candidate artifact, not a finished explanation: the teacher still has to decide whether the mapping is structurally sound and appropriate for the class.
 

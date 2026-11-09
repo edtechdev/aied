@@ -1,7 +1,7 @@
 ---
 title: AI-Assisted Educational Research
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-11-08T08:41:46-05:00"
+updated: "2026-11-09T09:39:27-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -73,6 +73,8 @@ Their conclusion is a division of labor rather than a handover: assign automatio
 Favorable assessment did not imply fitness for delegation. Among 118 LLM papers with positive-only evaluations, 52% still reported at least one concern that the workflow fell below the bar required for its role. Model access was overwhelmingly proprietary: 84.1% of LLM usage relied on proprietary or hosted systems, 11.0% was mixed, and only 4.9% was open-weight.
 
 From these patterns the authors derive PRISMA-LLM, a three-layer framework whose five implementation levels are disclosure tiers rather than risk tiers. It is a proposal offered for testing, not an official extension endorsed by the PRISMA Executive. Paper-level silence, they caution, is not proof that validation is absent — it may live in a product report, a protocol, or a repository.
+
+**A regulatory lens on the same automation.** [[zhang-executor-partner-genai-systematic-review-2026|Zhang, Wang and Maeda (2026)]] ask not what GenAI does in a review but who regulates the work. Treating a systematic review as a regulated learning system, they map review activities onto forethought, performance and reflection, then distinguish three roles: GenAI as a delegated executor inside human-defined structures, as a co-regulatory influence on the reviewer's decisions, and as a partner in socially shared regulation. Applying the framework to 60 GenAI-assisted evidence syntheses, they found reported use overwhelmingly in the executor role, with episodic co-regulation and little evidence of shared regulation. That is consistent with the tool-level pattern above, where automation concentrates in screening and extraction, and it adds a diagnostic: a step can be procedurally useful while leaving the reviewer's monitoring, judgment and adaptation untouched.
 
 ## Qualitative coding and analysis
 
