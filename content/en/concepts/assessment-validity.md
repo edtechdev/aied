@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-10T20:10:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -41,6 +41,7 @@ reviewed_by: [editor]
 - **AI-driven grade inflation as a validity threat:** [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] identifies a novel, technology-driven mechanism of [[summative-assessment|grade]] inflation operating *upstream of grading* — on the production of graded work. In a difference-in-differences study of 500,000+ grades across 319 courses (2018–2025), courses with more AI-exposed tasks (writing, coding) saw the share of A grades rise by 13 percentage points after ChatGPT's release, with grade-distribution compression. A triple-differences analysis shows the effect concentrates in homework-heavy courses — evidence that AI **task displacement** (AI performing graded tasks before instructors observe them) inflates grades without a corresponding rise in skill. This reduces the comparability of grades across courses and erodes the informational value of transcripts in ways difficult to detect from grade distributions alone.
 - **Program-level pass/fail susceptibility, and the marking criteria that set it:** [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] judged ChatGPT output for every coursework assessment in a three-year psychology degree (40 assessments, 16 types) with a binary pass/fail, the decision markers actually make on a first read: 36 of 40 passed. Two validity implications follow. First, the operative variable is the pass boundary, not detection — marking that rewards structural fluency and the correct choice of analysis while condoning incorrect values lets fabricated statistics and hallucinated references clear a pass, so the assessment certifies tool output as student understanding because of how it is marked rather than because anyone was fooled. Second, multiple-choice items leaked their own answers: ChatGPT answered statistics questions correctly without the figure or output table shown to students, because the item stem and options implied the answer, which makes answer-option design a validity property of the item rather than a property of the AI.
 - **Accuracy vs. agreement as distinct validity signals:** [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik & Thambi (2026)]] graded a 21-item pharmacy exam with ChatGPT-5 and found that moderate percent accuracy frequently coexisted with low concordance-correlation coefficients — a methodological distinction between *scoring accuracy* and *agreement* that limits AI's reliability as a grading substitute even where raw accuracy looks acceptable. Agreement was strong on objective items (CCC 0.935–1.000) but near-zero on short-answer and modest on essay (0.341–0.854), and rubric provision did not consistently close the gap.
+- **Agreement can coexist with exploitability.** [[roy-premise-rubrics-llm-judges-2026|Roy et al. (2026)]] audited six rubric sources across four preference corpora and found none reliable, preference-predictive, and adversarially robust at once: judges can agree on a flawed reading while rubric wording admits responses that score high by violating the construct (46.4% verified exploits, cut to 36.0% by refinement).
 - **Validity of AI-generated items:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that AI-generated questions, validated via Bayesian [[item-response-theory|IRT]], achieve difficulty and discrimination on par with expert-written standardized-exam items (reliability 0.79 vs. 0.72) — supporting the validity of course-tailored AI-generated assessments when backed by psychometric evaluation.
 - **Authentic assessment:** [[authentic-assessment]] and [[ai-assessment-scale-reform|the AI Assessment Scale]] propose validity-preserving assessment redesigns.
 - **Confidence and calibration:** [[automated-assessment|Confidence-aware systems]] improve validity by flagging uncertain assessments.
@@ -152,6 +153,7 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - [[assessment]]
 
 ## Connected Articles
+- [[roy-premise-rubrics-llm-judges-2026]] — Agreement is not robustness: rubric-conditioned judges can agree while their rubrics remain exploitable (Roy et al. 2026)
 - [[ansari-policing-provenance-designing-for-evidence-2026]] — From policing provenance to designing for evidence: four propositions tested against research and policy (Ansari 2026)
 
 - [[embedding-similarity-clustering-handwritten-physics-2026]] — Embedding similarity correlated with human scores at 0.198 at best

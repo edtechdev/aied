@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T15:25:17-05:00"
+updated: "2026-11-10T20:10:00-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -119,6 +119,8 @@ Combining the three models did not remove that error: because their mistakes wer
 
 A red-team evaluation of an everyday grading workflow shows the attack surface that planning for adversarial use has to cover. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] embedded five indirect prompt injections inside a synthetic essay that Microsoft Copilot (GPT-5.2) had graded fail in six of six baseline runs, iterating each across docx, pdf and htm files. Two strategies changed the grade with no visible warning — an instruction-manipulation and role-playing paragraph at 9 of 9 iterations (100%) and the same paragraph hidden behind an image layer at 17 of 18 (94%) — while a paragraph in small white text at the end of the document failed in all nine iterations, and file-metadata injections never worked, which the author attributes to metadata access being disabled in the version tested. The trust problem outlasted the exploits: after one pdf run detected an embedded instruction and stated it would grade only against the official assignment, re-running the same file raised the grade six more times with no warning, and a chat blocked by a detected attack was silently disabled rather than reported to the user. The author argues the resulting grades carry no [[assessment-validity|validity]] claim in either direction, that an adversary needs only one working combination against layered [[guardrails]], and that the teacher remains the only real [[human-in-the-loop-ai|check on the output]] while the manipulation is designed not to be visible — connecting directly to the input-sanitisation and adversarial-security obligation Venetsanos sets out above.
 
+- **The rubric itself is attack surface.** [[roy-premise-rubrics-llm-judges-2026|Roy et al. (2026)]] show that a response written to satisfy a rubric's wording while violating its intent still earned a high score in 46.4% of verified attempts, even as inter-judge agreement stayed high. Their refinement operators — applicability gates, do-not-reward clauses, score caps — cut the rate to 36.0%.
+
 ### Connections
 
 Automated assessment connects to [[assessment-validity]] (quality assurance), [[formative-assessment]] (use context), [[bias-mitigation]] and [[equity-in-ai-education]] (fairness), [[teacher-role]] (how automation changes instructor work), and [[ai-feedback-quality]] (grading without useful feedback has limited educational value). Confidence-aware assessment is a specific mechanism within the broader agenda of [[psychometrically-aware-ai]] and a contributor to [[trust-calibration|calibrated trust]].
@@ -172,6 +174,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[roy-premise-rubrics-llm-judges-2026]] — Rubric wording as attack surface: 46.4% of verified exploits scored high, cut to 36.0% by rubric refinement (Roy et al. 2026)
 - [[llm-structured-assessment-diagnostic-quality-2026]] — LLM rubric sub-dimensions are near-redundant and feedback rarely names misconceptions (Zhao et al. 2026)
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
