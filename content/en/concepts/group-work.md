@@ -1,7 +1,7 @@
 ---
 title: Group Work
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-04T18:52:58-05:00"
+updated: "2026-11-10T19:35:00-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -69,6 +69,7 @@ A second line of research treats AI as a participant rather than a tool, and its
 - **Controversy can counter groupthink.** [[genai-counter-learner-groupthink-2025|Wiss et al. (2025)]] took the opposite tack deliberately: an AI agent (CALIE) prompted to inject controversial viewpoints into twelve interprofessional [[problem-based-learning|PBL]] teams stimulated [[critical-thinking|critical thinking]] and positive group dynamics, countering the conformity pressure that group work can otherwise produce. The contrast with Jin et al. is instructive — challenge helps when it is the intended design, and hurts when it is an unacknowledged side effect.
 - **The neutral-mediator constraint.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]], an AI that mediates disciplinary boundaries in interdisciplinary teams by surfacing implicit assumptions, was valued as both cognitive support and a relational buffer — but students' trust was load-bearing and eroded the moment the AI moved from neutral mediator to advisor or challenger. Role switches therefore need to be explicit and configurable, not silent.
 - **Collaboration can itself be the object of instruction.** [[golrang-propact-pair-programming-2026|ProPACT]] treats the *dyad* — not the individual — as the unit of analysis, modeling joint attention and effort to predict collaborative breakdowns up to 30 seconds in advance. Dyads receiving proactive feedback achieved higher debugging success and showed sustained gains in collaborative [[regulation]] afterward: AI can teach collaboration itself, not just support a task.
+- **A relational displacer.** In a randomized 33-team experiment, [[nixon-social-cost-ai-teammate-2026|Nixon et al. (2026)]] found the AI teammate took the most airtime yet added the least new information, while students responded to one another less (responsivity g = −0.78) and reported lower belonging (4.58 vs. 5.27). The more the AI dominated airtime, the less valued students felt (r = −0.52).
 
 ### The efficiency–regulation trade-off
 
@@ -125,6 +126,7 @@ A second line of research treats AI as a participant rather than a tool, and its
 
 ## Connected Articles
 
+- [[nixon-social-cost-ai-teammate-2026]] — The AI teammate takes the most airtime, and human-human responsiveness and belonging fall (Nixon et al. 2026)
 - [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of student agency in GenAI-mediated group assessment
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency when AI joins a group: supportive vs. contrarian personas
 - [[genai-counter-learner-groupthink-2025]] — An AI agent that injects controversy to counter groupthink in PBL teams

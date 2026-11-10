@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T22:30:00-05:00"
+updated: "2026-11-10T19:35:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -49,6 +49,8 @@ The one meta-analytic contrast available for AI-supported collaborative work sit
 Field-level mapping reaches the same conclusion from the other direction: a BERTopic analysis of 1,048 AI-in-online-learning publications from 2010 to 2023 found that socially oriented work on AI-supported collaborative learning and community development never emerged as a dominant topic, which the authors attribute to a corpus centered on individual-level [[learning-analytics|analytics]] ([[chen-bertopic-ai-online-learning-research-topics-2026|Chen et al. (2026)]]).
 
 A [[meta-analysis-systematic-review|scoping review]] of 18 studies maps the same trade-off across group work: GenAI supported knowledge development, idea generation and communication efficiency while also reducing the demand for peer interaction, negotiation and collective sensemaking, and randomized evidence found more innovative AI suggestions without a significant gain in participants' overall innovativeness ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei and Perkins (2026)]]).
+
+Randomized evidence puts a number on that relational cost. [[nixon-social-cost-ai-teammate-2026|Nixon et al. (2026)]] assigned 33 student teams to two students plus an AI teammate or three students; in AI teams, students built on one another less (responsivity g = −0.78) and reported lower belonging (4.58 vs. 5.27), with the decline tracking how much airtime the AI took.
 
 **Role design is a lever on the quality, not the volume, of collaborative knowledge construction.** [[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al. (2026)]] assigned rotating moderator, analyst and arguer roles across 58 [[higher-ed|graduate students]] and their AI partner in 16 groups, and found the structure lifted the *content* of group mind maps nearly a full SOLO band (M = 3.65 to 4.59, z = 3.771, p < 0.001) while node and branch counts stayed flat — organization rather than coverage — at the cost of a moderate rise in collaborative [[cognitive-offloading|cognitive load]] (p = 0.023). [[network-analysis|Lag sequential analysis]] added an evaluation self-transition and a conflict-to-defending path the tool alone had not produced, positioning [[human-ai-collaboration|human-AI collaboration]] as a design problem rather than a tool problem.
 
@@ -134,6 +136,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[nixon-social-cost-ai-teammate-2026]] — A randomized test of the relational cost: peer responsivity and belonging fall when an AI joins the team (Nixon et al. 2026)
 - [[lin-ai-peer-collaborative-mathematics-2026]] — What makes an LLM agent read as a peer: safety, tentative reasoning, appropriate imperfection
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus finds one-sided social risk: collaboration processes vulnerable with no enhancement pathway
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
