@@ -34,4 +34,6 @@ export const ARTICLE_REDIRECTS: Record<string, string> = {
   'principled-ai-education': 'finkelstein-principled-ai-education-2025',
   // Duplicate ingestion of the same EDM 2026 study as gurung-hybrid-human-ai-tutoring-2026; consolidated 2026-11-09.
   'hybrid-human-ai-tutoring-differentiated': 'gurung-hybrid-human-ai-tutoring-2026',
+  // Second ingestion of Reardon's HAIML white paper (v2) as a separate page; merged into the v1-named canonical 2026-11-10.
+  'mcclellan-haiml-metacognitive-learning-2026': 'haiml-human-centered-ai-metacognitive-model-2026',
 };
