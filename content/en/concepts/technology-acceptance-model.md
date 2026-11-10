@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-10T18:55:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -48,6 +48,8 @@ Adoption research usually stops at intention; a TPB extension that instead measu
 
 ### Diffusion of Innovation (DOI)
 Rogers' DOI theory explains adoption as a social process in which innovations diffuse through populations over time, emphasizing innovation attributes (relative advantage, compatibility, complexity, trialability, observability) and adopter categories. It appears in the knowledge base's [[governance|institutional]]-level analyses, e.g. [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] combine the Technology–Organization–Environment (TOE) framework with DOI to model organizational AI adoption in Saudi universities.
+
+At the student level, [[gocyla-genai-adoption-diffusion-2026|Gocyła and Strzelecki (2026)]] found relative advantage, compatibility, simplicity and observability predicting intention to use GenAI, explaining 48.7% of the variance, while trialability did not (f² = 0.001): free access may make trial a baseline expectation rather than a differentiator.
 
 ### Technology–Organization–Environment (TOE)
 TOE frames adoption as shaped by technological, organizational, and environmental contexts — a complement to individual-level TAM/UTAUT for studying institutional adoption (see [[alrahmi-org-drivers-ai-adoption-he-2026]]).

@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-08T08:56:00-05:00"
+updated: "2026-11-10T18:55:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -90,6 +90,8 @@ Real-world students frequently **bypass a [[conversational-ai|chatbot]]'s [[scaf
 ## Help-seeking and self-regulated learning
 
 Help-seeking is an integral part of [[self-regulated-learning]]: productive help-seeking requires learners to monitor understanding, judge when help is needed, and select appropriate sources. In GenAI contexts, this becomes even more demanding, since students must also exercise [[agency]] over the AI and maintain epistemic vigilance rather than deferring to it. Research in this knowledge base supports the need for [[scaffolding|scaffolds]] that promote more [[agentic-ai|agentic]] and epistemically proactive AI use, and highlights the risk of [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] when help-seeking degrades into unconditional answer-seeking.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+
+Population-scale evidence complicates the substitution story: among 12,191 PISA 2025 students in four Chinese regions, more frequent GenAI use for schoolwork went with more academic help-seeking (β = 0.169), not less ([[wu-genai-scientific-literacy-china-2026|Wu et al. (2026)]]).
 
 ### LLM-mediated help-seeking as a four-stage process
 

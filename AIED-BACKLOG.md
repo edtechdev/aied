@@ -6,8 +6,24 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-09
-**Total backlog:** 25 articles awaiting ingest (2 still open from the 2026-11-09 scan, one of them blocked at the publisher + 3 older publisher-blocked items + 6 journal RSS + 3 OpenAlex sweep picks still awaiting a PDF; 11 carried from earlier entries) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-10
+**Total backlog:** 28 articles awaiting ingest (3 carried open from the 2026-11-10 scan + 2 still open from the 2026-11-09 scan, one of them blocked at the publisher + 3 older publisher-blocked items + 6 journal RSS + 3 OpenAlex sweep picks still awaiting a PDF; 11 carried from earlier entries) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-10)
+
+The prefetch returned 76 candidates and dropped 21 the maintainer had already rejected. Ten were
+ingested from full text this run (3 arXiv preprints, 2 EdArXiv preprints, 4 Frontiers articles, 1
+MDPI article). Eight more cleared relevance but were already in the wiki under an earlier slug
+(GenAI use-and-caution trajectories, the UK StudentXGenAI survey, the pham tutor-or-shortcut
+review, AI4Design, executor-to-partner, school-community ecosystems, the AI integrity crisis, the
+certification-and-consultation paradigm, the Scandinavian TALIS analysis and the AI-enabled VR STEM
+bibliometric). HAIML (10.35542/osf.io/qhjgs) surfaced again and already has two pages; nothing was
+written. The three below cleared relevance but were not reached inside the cap, or carry no
+intervention whose full text is reachable.
+
+- [Generative AI-supported learning, self-directed learning, and motivation in a graduate seminar: an exploratory single-group study](https://doi.org/10.3389/feduc.2026.2008734) — [DOI: 10.3389/feduc.2026.2008734](https://doi.org/10.3389/feduc.2026.2008734) — full text is open; 13 students in one seminar, eight matched pre/post, so it is a weak design that the next run can take if the cap allows.
+- [Perceived career impacts of artificial intelligence and career decision-making self-efficacy among Chinese college students](https://doi.org/10.3389/fpsyg.2026.1939461) — [DOI: 10.3389/fpsyg.2026.1939461](https://doi.org/10.3389/fpsyg.2026.1939461) — open access; career-development outcomes rather than learning, so it ranks below the learning studies each run.
+- [Silinx: An Open, Browser-Based HDL Design Platform for Teaching Digital Systems on FPGA Boards](https://arxiv.org/abs/2611.11741) — [arXiv: 2611.11741](https://arxiv.org/abs/2611.11741) — a system-description paper for a free AGPL-3.0 teaching platform; also a resource-page candidate (free, open source, public URL) for the maintainer to judge.
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-09)
 

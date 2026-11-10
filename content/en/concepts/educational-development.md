@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T12:15:00-05:00"
+updated: "2026-11-10T18:55:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -35,6 +35,7 @@ Educational development is the professional and institutional work through which
 - **Adoption and confidence:** [[teacher-ai-adoption-confidence|Teacher AI adoption research]] identifies concerns, support, confidence, and attitudes as key predictors. Faculty-development programs must address all four.
 - **Curriculum integration:** [[institutional-change-framework-ai|Institutional change frameworks]] and [[ai-assessment-scale-reform|assessment reform]] require faculty to redesign courses, not just add AI tools.
 - **Training programs:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-tpack-preservice-math-teachers|TPACK-based preservice training]] provide models for structured faculty [[ai-education|AI education]].
+- **Demand is not a needs assessment.** 345 Quebec CEGEP teachers scored lowest on technical understanding (2.706 of 5) yet asked for discipline-specific practical applications, calling earlier sessions too general ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini et al. (2026)]]).
 
 - **AI-mediated professional reflection.** The Reflective Triangle Model positions AI as a cognitive mediator across [[reflection|self-reflection]], collaborative reflection, and community reflection in a professional learning community, tested in a four-week feasibility case with six teachers; the boundary it draws is that individual insight does not automatically become shared professional knowledge ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance]] and policy:** [[genai-policies-higher-ed-computing|Institutional AI policy analysis]] documents the gap between institutional ambitions and faculty support capacity.

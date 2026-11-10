@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-10T18:55:00-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -33,6 +33,7 @@ Cross-sectional surveys measure self-reported attitudes, perceptions, motivation
 - **Strengths:** large samples; broad, low-cost coverage; tests complex mediational models; feasible for attitudes that are hard to observe.
 - **Limitations:** cross-sectional data cannot establish causation; self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation. See [[self-report-measures]] for the instrument-side treatment of these limits.
 - **A saturated mediation model cannot test its own ordering.** A single-wave survey of 1,020 nursing students split a total effect of 1.36 into a direct 0.92 and an indirect 0.44 through [[self-regulated-learning|self-regulated learning]], 32.35% of the total, with a model that has as many free parameters as observed covariances and so reproduces the data by construction ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
+- **A "partial" label can rest on an interval that nearly reaches zero.** Among 438 Chinese university students the direct AI-use-to-performance path ran β = 0.18, 95% CI (0.02, 0.34) ([[yuan-ai-assisted-learning-engagement-performance-2026|Yuan et al. (2026)]]).
 **A near-zero total indirect effect can hide two live paths.** In one self-report wave of 568 design students, the indirect association ran 0.0929 through promotion focus and -0.0884 through prevention focus, summing to 0.0045 while the direct path carried 98.7% of the total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]).
 
 ### Experimental and quasi-experimental research

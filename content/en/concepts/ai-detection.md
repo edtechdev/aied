@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-10T18:55:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -47,6 +47,7 @@ Research consistently cautions against standalone reliance on detection:
 - **Validity and fairness failures:** detection tools can be biased against non-native writers, producing false positives that unfairly penalize students, a concern connecting to [[bias-mitigation]] and [[equity-in-ai-education]].
 - **Notable error rates and trust erosion:** unreliable detection undermines student [[trust]] and the integrity of the assessment process.
 - **Task-dependence:** as the self-detection study shows, accuracy varies sharply by task type, so no single detector is dependable across all assessments.
+- **Granularity changes the verdict.** On provenance-labeled PISA 2025 essays an embedding detector held whole-text AI recall at 0.94 or above under student-style rewriting while sentence-level recall fell as low as 0.59 ([[schaller-ai-text-detection-authentic-writing-2026|Schaller et al. (2026)]]).
 - **Even a validated detector rests on a historical baseline:** A six-year CS2 study validated its detector against a pre-LLM baseline: H-scores were near-zero before LLMs were public and rose to a mean of 11.9 by 2026 ([[argus-academic-integrity-genai-2026|Racovan et al. (2026)]]).
 - **The integrity catch-22, quantified.** [[karr-ai-detection-humanization-2026|A controlled study of 642 published abstracts (Karr et al. 2026)]] shows the [[educational-policy-ai|policy]] failure is not just conceptual but measured: guideline-compliant light AI editing is flagged at 38–80%, unmodified recent originals at 9–15% (non-STEM far above STEM), and humanizer-assisted AI text evades detection in >96% of cases. Because detectors key on surface style (long-token and academic-word density) rather than authorship intent, honest AI assistance draws sanction while deliberate humanizer evasion escapes — the authors argue detector scores should never be standalone misconduct evidence.
 - **Detection and evasion are two sides of one commercial market.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] catalogued 55 AI-humanizer sites — services that rewrite AI text to evade detection — and found all three they analyzed on the first page of Google, sold on freemium tiers with affiliate programs. Their political-economy argument matters for detector policy: vendors of detection sell a classification of authorship while humanizers sell the promise of changing that classification, so a detection-first regime does not merely fail against evasion, it manufactures the demand for paid evasion. The sites perform legitimacy rather than assume it — unexplained university and corporate logos placed under the text box, unverifiable user claims (roughly 3 million, 10,000 students, 1.5 million on the three sites), 99.8%–100% success claims, and "1.6 trillion parameters" mystification — and none carried a registered business address. The consequence for a detector decision is that blocking a tool does not remove the demand structure behind it.

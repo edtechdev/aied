@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-11-08T08:56:00-05:00"
+updated: "2026-11-10T18:55:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -41,6 +41,7 @@ Disclosure is the mechanism that makes AI-assisted work *visible* and therefore 
 
 - **Disclosure is rare and anxiety-driven.** Across studies, most students do not disclose AI use to instructors. [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]] found only ~34% of economics students admitted AI use and disclosure was rarer, driven by "penalty anxiety." [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] found 66% of students never or rarely disclosed, with fear of academic penalty the top reason. [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] documented **74% non-compliance** with a mandatory declaration at King's [[business-education|Business School]].
 - **Ambiguous and punitive policies drive concealment.** When AI-use policies are unclear, unenforced, or bans, students hide use rather than engage. "Limited use in certain situations" policies best predict disclosure; "not allowed" or "not aware" policies predict concealment. Clear, consistent, collaborative policies are repeatedly called for.
+- **The obligation, not only the sanction.** Two rules with the same intent split disclosure from concealment: [[mehreen-genai-policy-wording-2026|Mehreen et al. (2026)]] found dishonesty framing tracked with students hiding their use, while making students accountable for inaccurate output tracked with ownership and transparency.
 - **Disclosure has psychological costs — and hidden costs.** Students view declarations as self-incrimination, and some believe AI use is private like using a calculator. [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] found students who "always" disclosed had over 3× the odds of being accused — transparency can invite suspicion. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] found worry redirects disclosure toward peers rather than suppressing it, cutting students off from instructor feedback.
 - **Disclosure is entangled with self-regulated learning.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] interpret teacher-directed disclosure as adaptive help-seeking — making assistance visible and inviting external calibration — while concealment (especially among heavy AI users) resembles maladaptive regulation. Structured, formative disclosure can promote the [[metacognition|metacognitive]] reflection and ethical reasoning that characterize effective self-regulation.
 - **The deterrence structure splits by target.** Among 466 students, certainty that non-disclosure would be detected tracked more favorable attitudes (β = 0.643), while certainty that declaring would expose improper use tracked less favorable ones (β = −2.175), and heavier non-disclosure penalties were negatively associated with both attitude and control. The improper-use estimates rest on collinear predictors (variance inflation above 9), so they are unstable ([[liu-genai-truthful-declaration-tpb-deterrence-2026|Liu et al., 2026]]).

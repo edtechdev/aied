@@ -1,7 +1,7 @@
 ---
 title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-11-05T22:30:00-05:00"
+updated: "2026-11-10T18:55:00-05:00"
 type: concept
 research_method: [survey]
 confidence: high
@@ -59,6 +59,7 @@ Mixed-methods sits between the [[quantitative-research|quantitative]] and [[qual
 - **"Mixed methods is a niche choice in AI education research."** Across **394 GenAI higher-education studies**, mixed methods was the **most common research design (213 studies, 54%)**, followed by quantitative (109, 28%) and qualitative (72, 18%). The field's dominant design is not the one its methodological debates assume.
 - **"Observational and interview evidence can carry a system claim."** Pairing system observation and [[administrator]] discussions against a **four-year randomized evaluation of 8,708 students across eight semesters**, powered to detect effects of **0.05 standard deviation**, shows what the qualitative strand cannot do alone: detect a small effect reliably. Mixing methods is not a way to transfer power between strands.
 - **"Triangulation means two weak methods make a strong claim."** The value of the pairing is that each strand answers a different question. A design that runs both and then reports the qualitative finding as confirmation of the quantitative one has not triangulated, it has restated.
+- **Convergence can be an admission rule, not a narrative.** [[liu-auditable-assessment-preservice-2026|Liu (2026)]] counted a redesign priority only when it appeared in at least two of five independent sources and in one enactment-facing source, so perception alone could not promote it.
 
 ## Connected Concepts
 

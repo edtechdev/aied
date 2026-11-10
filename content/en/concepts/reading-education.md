@@ -1,7 +1,7 @@
 ---
 title: "Reading Education"
 created: "2026-11-05T02:16:00-05:00"
-updated: "2026-11-06T01:55:00-05:00"
+updated: "2026-11-10T18:55:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding, motivation, cognitive-psychology]
@@ -82,6 +82,8 @@ For learners with dyslexia, a PRISMA-guided review of 72 studies from 2018 to 20
 ## What the Evidence Does and Does Not Show
 
 The strand is measurement-rich and outcome-poor. There are validated instruments (AIR), validated difficulty models (CLARA, Bird), and a growing set of generation and simplification tools. There are very few controlled studies that connect a reading intervention to comprehension gains, and several of the assessment studies confound passage source with delivery or proctoring. Sample sizes are small: 53 students in the reading-assessment case, 24 in the tailored-readings study, 200 seventh-graders in the largest quasi-experiment. The knowledge base should be read as documenting a design space, not an established effect.
+
+Early-elementary fluency is the exception so far: in one school, first and second graders who logged at least 10 minutes a week for 6 weeks outgained low-dosage peers (g = 0.56), a dosage contrast rather than a trial ([[burns-ai-tutor-reading-growth-2026|Burns and Morton (2026)]]).
 
 ## Common Misconceptions
 

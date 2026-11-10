@@ -1,7 +1,7 @@
 ---
 title: ICAP Framework
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-10T18:55:00-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -77,6 +77,8 @@ ICAP's emphasis on generative, process-level engagement has been adopted by asse
 2. **Engage learners across modes.** Effective [[ai-literacy|AI literacy]] instruction engages learners at multiple ICAP levels — passive exposure, active manipulation, constructive generation, and interactive dialogue — selecting the mode that fits the learning goal.([[hingle-collaborative-ai-literacy-2025]])
 3. **Measure engagement honestly.** ICAP gives researchers and designers a common vocabulary for distinguishing genuine cognitive engagement from mere activity — a corrective to shallow [[student-engagement]].([[icap-cognitive-engagement-llm-agents]])
 4. **Watch the human–LLM annotation gap.** If automated systems are used to code engagement, their systematic shortfall relative to trained humans must be accounted for.([[icap-cognitive-engagement-llm-agents]])
+
+Task design, not only tool design, sets the ceiling. Across 829 coded threads in 40 university courses, artifacts produced where dialogue was Constructive or Interactive drew modestly higher peer ratings of final quality ([[zhuang-dialogue-to-task-cognitive-engagement-2026|Zhuang et al. (2026)]]).
 
 ## Common Misconceptions
 
