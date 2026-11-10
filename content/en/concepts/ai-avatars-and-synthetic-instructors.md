@@ -1,7 +1,7 @@
 ---
 title: AI Avatars and Synthetic Instructors
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-04T17:45:00-05:00"
+updated: "2026-11-10T19:10:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -103,6 +103,8 @@ The large samples concern attitudes and preferences — 396 participants on avat
 
 That narrowness matters. Theelen's authors put it directly: fluency and a sense of presence are not [[assessment-validity|validity evidence]].([[theelen-classroom-simulations-four-layer-framework-2026]]) Sounding like a teacher clears the easiest bar in the room.
 
+Adoption is a different question from effectiveness: [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] modeled 653 learners' intention to adopt AI avatars, and perceived transparency was the strongest predictor of trust (β = 0.542). The model explained 38.9% of intention, with relative advantage (β = 0.267) and usefulness (β = 0.247) ahead of attitude (β = 0.126).
+
 ## Common Misconceptions
 
 **"A more realistic avatar teaches better."** Realism and effectiveness came apart wherever both were measured. SOPHIE's two backends produced identical communication scores behind the same avatar, and TriKoNet's students rejected photorealistic personas outright.
@@ -144,6 +146,7 @@ That narrowness matters. Theelen's authors put it directly: fluency and a sense 
 
 ## Connected Articles
 
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — Adoption-side evidence: 653 learners, transparency the strongest predictor of trust (Wang et al. 2026)
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Avatar identity cues shift credibility and guidance uptake (Anthis & Kyriakidou-Zacharoudiou 2026)
 - [[hauk-student-avatars-dialogue-teacher-education-2026]] — Student avatars in practice-based teacher education dialogue (Hauk et al. 2026)
 - [[gender-differences-ai-literacy-deepfake]] — Deepfake creation and reporting by gender in an AI literacy workshop

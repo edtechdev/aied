@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-10T18:55:00-05:00"
+updated: "2026-11-10T19:10:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -96,6 +96,8 @@ The methodological addition is the more transferable part. A multilayer-perceptr
 
 Necessary condition analysis then separated influence from requirement. Ease of use, the top-ranked predictor, failed outright (d = 0, p = 0.592). Usefulness was necessary but small (d = 0.027, p = 0.011). The authors read the split as a caution against treating a path coefficient as a floor. A strong coefficient says a unit of ease buys intention on average; only necessity says whether the other belief can be absent.
 
+**Design features routed through trust, with DOI alongside TAM.** [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] surveyed 653 learners about [[ai-avatars-and-synthetic-instructors|AI avatars]] and found the strongest path in their combined TAM–DOI model ran from perceived transparency to [[trust]] (β = 0.542). Relative advantage (β = 0.267) and perceived usefulness (β = 0.247) carried intention more than attitude did (β = 0.126).
+
 
 Risk's link to use also depends on the system: across the 49 TALIS 2024 systems that administered the items, perceived AI utility was positively associated with AI use in all 49, while perceived risk was negatively associated in 40 and positively in nine ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
@@ -126,6 +128,7 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 
 ## Connected Articles
 
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — TAM + DOI for AI avatars: transparency → trust (β = 0.542), with relative advantage and usefulness carrying intention
 - [[high-school-genai-acceptance-tam-physics-2026]] — Subject-specific beliefs placed upstream of the TAM perceptions
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI as "frenemy": artificial autonomy and risk aversion extend TAM for teachers (Dai et al. 2026)
 - [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing AI experiences; psychosocial extension of TAM

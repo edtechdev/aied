@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-04T15:40:00-05:00"
+updated: "2026-11-10T19:10:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -50,6 +50,8 @@ A structural model gives that bridging role an empirical test. In [[trust-calibr
 **Trust ahead of every classic acceptance path.** [[zhu-creative-agency-trust-genai-art-2026|Zhu (2026)]] added trust to UTAUT in a survey of 450 art-and-design students in Zhejiang and found it the strongest direct predictor of intention to use [[generative-ai|generative AI]] (β = 0.425). Social influence (0.155), metacognitive control (0.146) and performance expectancy (0.128) followed it. Social influence also carried the largest path into trust (β = 0.262), and 42.1% of its total association with intention ran through trust.
 
 The construct is thinner than the coefficient implies. It measures instrumental technology trust with an art-value supplement — stated confidence rather than calibrated reliability — and the two authorship items were dropped after forming their own factor in a 121-student pilot. A student can trust this model appropriately or indiscriminately, and the instrument cannot tell the two apart.
+
+Transparency can be the strongest way into trust without trust being the strongest way into use. [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] surveyed 653 learners about [[ai-avatars-and-synthetic-instructors|AI avatars]] and found transparency predicted trust at β = 0.542 — the largest path in their model — while that trust predicted adoption intention at only β = 0.196, behind relative advantage (0.267) and perceived usefulness (0.247).
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] supports a **function-specific rather than global** account of trust in algorithms: neither algorithm aversion nor algorithm appreciation described these 13 students, who simultaneously trusted ChatGPT for surface-level feedback and distrusted it as a grader. Their trust was conditional on instructor oversight, and their skepticism stemmed from the AI's contextual limits — misreading scanned handwriting ("it spelled my last name wrong and it thinks I made mistakes in my spelling when I didn't"), not knowing the instructor's rating system, and chronic positivity — rather than from technophobia, suggesting trust measures should be decomposed by the function an AI performs and the stakes attached to it.
 
@@ -130,6 +132,7 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[social-norms-ai-use]] — the social risk that norms and disclosure run on
 
 ## Connected Articles
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — Transparency as the strongest antecedent of trust, but a modest direct path to adoption intention (Wang et al. 2026)
 - [[lucau-uneven-use-similar-trust-genai-2026]] — Uneven use, similar trust: generative AI in Denmark and Romania (Lucau, Voicu & Christensen 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — Perceived risk correlates positively with continued-use intention: informed adoption (Ilieva et al. 2026)
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — The teacher-student trust gap over control and agency in K-12 classroom AI
