@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-10T21:00:00-05:00"
+updated: "2026-11-10T23:00:00-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -121,6 +121,9 @@ The corpus behind those quality claims is thinner than the claims suggest. Acros
 
 A reply correct on the first turn can be wrong by the third: across 11 models, 12.7 percent flipped to an incorrect answer under authority pressure, so feedback quality has to be scored across an interaction rather than at first response ([[liu-educational-sycophancy-2026|Liu & Korolova, 2026]]).
 
+
+- **Quality gains come from reviewer support, not raw output.** TAs using FeedbackWriter adopted 51.3% of AI suggestions and corrected 11.3% of AI rubric judgments, then delivered longer comments with broader rubric coverage; revision quality rose by d = 0.50 with no post-test gain ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]]).
+
 ## Common Misconceptions
 
 - **"Students find AI feedback acceptable, so it is good."** **Student-perceived quality is more mixed than acceptability suggests**: **77 of 93 undergraduates found AI feedback easy to understand, yet 68 found it repetitive and 79** found something else wanting. Comprehension and dissatisfaction coexisted in the same cohort.
@@ -148,6 +151,7 @@ A reply correct on the first turn can be wrong by the third: across 11 models, 1
 
 ## Connected Articles
 
+- [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — Reviewer support: TAs adopted 51.3% of AI suggestions and corrected 11.3% of judgments (Lu et al. 2026)
 - [[xin-auditable-automated-essay-scoring-2026]] — Naming the weak trait is not citing the essay: evidence anchors raised valid evidence from zero to 0.912 (Xin 2026)
 - [[mihaylova-llm-feedback-live-programming-course-2026]] — Longer LLM hints predicted worse immediate outcomes; format traded fewer attempts for slower resubmission
 - [[wu-lam-genai-writing-assessment-professors-2026]] — Professors on AI feedback quality: flattering by default, long, vague, and slow to refine

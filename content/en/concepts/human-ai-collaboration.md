@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-10T19:35:00-05:00"
+updated: "2026-11-10T23:00:00-05:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
@@ -90,6 +90,9 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 
 Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agentic-ai]] (autonomy), [[teacher-role]] (teachers' changing work), [[scaffolding]] and [[metacognition]] (how collaboration supports learning), and [[cognitive-offloading|Over-Reliance]] (the failure mode when collaboration becomes substitution). It is a core theme across [[ai-literacy]], [[self-regulated-learning]], and [[student-experience]].
 
+
+- **Human-plus-AI beat human-only on the revision, not on the test.** In a randomized trial in a 354-student economics course, TAs who reviewed and edited AI feedback produced student revisions of higher quality than TAs writing alone, with the effect scaling to how often they adopted suggestions ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]]). Post-test scores did not differ, so the complementarity was task-level rather than durable learning.
+
 ## Common Misconceptions
 
 - **"Collaboration means the AI does part of the work."** **The learner keeps the deciding role**, and this scales to writing: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky (2025)]] show it holds when the arrangement is designed for it. Division of labor is not collaboration unless the human retains judgment.
@@ -120,6 +123,8 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[productive-failure]]
 
 ## Connected Articles
+
+- [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — Human-plus-AI feedback beat human-only on revision quality, with no post-test difference (Lu et al. 2026)
 - [[nixon-social-cost-ai-teammate-2026]] — The cost lands on human-human ties: an AI teammate lowered peer responsivity and belonging (Nixon et al. 2026)
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Three agent roles in a narrative science game, and which evaluation criterion each needs (Humburg et al. 2025)
 - [[bjet-many-hands-make-light-work-2026]] — Paired work with a GenAI multi-agent system won the design project while critical-thinking awareness rose only for those working alone (Chu et al. 2026)

@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-10T22:35:00-05:00"
+updated: "2026-11-10T23:00:00-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -135,6 +135,9 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 
 - **Demand for AI feedback can measure scarcity, not preference.** In an Honors course on grading, students welcomed AI-generated feedback mainly because they had received so little instructor feedback, not because they judged it better, and they wanted it bounded by instructor judgment ([[guberman-control-or-support-grading-2026|Guberman, 2026]]).
 
+
+- **Human-vetted AI feedback improved revisions but not post-test learning.** In a randomized trial with 354 undergraduates and 1,366 essays, AI-mediated TA feedback raised revision quality (Cohen's d = 0.50) while post-test scores stayed flat, and the gain grew as TAs adopted more suggestions ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]]).
+
 ## Common Misconceptions
 
 - **"Students cannot tell AI feedback from human feedback."** They can, and the label changes the judgment: **once the label was revealed, ratings of the AI variant fell and of the human variant rose — significantly for Genuineness (p < .01)**. Provider credibility shaped the evaluation of identical-style feedback.
@@ -163,6 +166,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 
 ## Connected Articles
 
+- [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — Human-vetted AI feedback raised revision quality (d = 0.50) but not post-test scores (Lu et al. 2026)
 - [[guberman-control-or-support-grading-2026]] — Students welcomed AI feedback because feedback was scarce, not because it was better (Guberman 2026)
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Agent feedback that repeated itself across revisions (Humburg et al. 2025)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
