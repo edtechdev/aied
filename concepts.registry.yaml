@@ -703,8 +703,8 @@ concepts:
     - embodied learning
     - embodiment
     - gesture-based learning
-  empathy-in-education:
-    title: Empathy in Education
+  empathy:
+    title: Empathy
     aliases:
     - ai empathy
     - empathy
@@ -2343,7 +2343,7 @@ sections:
     - student-engagement
     - help-seeking
     - social-emotional-learning
-    - empathy-in-education
+    - empathy
     - well-being
     - creativity
     - student-ai-interaction

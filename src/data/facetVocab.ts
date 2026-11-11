@@ -63,7 +63,7 @@ export const FACET_VOCAB = {
     'desirable-difficulties',
     'distributed-cognition',
     'embodied-learning',
-    'empathy-in-education',
+    'empathy',
     'experiential-learning',
     'game-based-learning',
     'help-seeking',
