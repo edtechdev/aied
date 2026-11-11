@@ -1,7 +1,7 @@
 ---
 title: Metaphors and Analogies
 created: "2026-11-07T12:10:00-05:00"
-updated: "2026-11-09T09:39:27-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, misconceptions]
 pedagogy: [student-engagement]

@@ -1,7 +1,7 @@
 ---
 title: "Avatars IA et instructeurs synthétiques"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -13,7 +13,7 @@ level: [higher ed, teacher education]
 audience: [instructors, instructional designers]
 confidence: medium
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Avatars IA et instructeurs synthétiques** — des systèmes d'[[generative-ai|IA]] à apparence humaine qui occupent un rôle d'enseignement, qu'il s'agisse d'un conférencier enregistré, d'un tuteur parlant, d'un [[pedagogical-agent|agent pédagogique]], d'un patient ou d'un étudiant simulé, d'un partenaire de jeu de rôle ou d'un examinateur. La catégorie se définit par un visage et une voix qui tiennent lieu de personne, non par une technologie unique. Cette surface est ce qui rend ces systèmes engageants, et c'est aussi là que se concentrent leurs problèmes distinctifs : la [[trust|confiance]] s'attache aux indices d'identité, le réalisme ne suit pas l'efficacité, et les apprenants peuvent ignorer qu'un humain est simulé.
+> **Avatars IA et instructeurs synthétiques** — des systèmes d'[[generative-ai|IA]] à apparence humaine qui occupent un [[teacher-role|rôle d'enseignement]], qu'il s'agisse d'un conférencier enregistré, d'un tuteur parlant, d'un [[pedagogical-agent|agent pédagogique]], d'un patient ou d'un étudiant simulé, d'un partenaire de jeu de rôle ou d'un examinateur. La catégorie se définit par un visage et une voix qui tiennent lieu de personne, non par une technologie unique. Cette surface est ce qui rend ces systèmes engageants, et c'est aussi là que se concentrent leurs problèmes distinctifs : la [[trust|confiance]] s'attache aux indices d'identité, le réalisme ne suit pas l'efficacité, et les apprenants peuvent ignorer qu'un humain est simulé.
 
 ## Questions à examiner
 
@@ -79,13 +79,13 @@ Deux détails font de cela un problème de conception. Le domaine modérait l'ef
 
 L'autorité arrive aussi par le corps. Les concepteurs d'ELEVATE avertissent que le corps et la voix amplifient l'autorité d'un tuteur. Ils recommandent que l'avatar signale l'incertitude et invite à vérifier dans les notes ou les manuels.([[elevate-genai-virtual-tutors]]) SOPHIE ajoute une complication : derrière le même avatar, un modèle auparavant jugé plus humain a perdu cet avantage, et la performance de communication était identique entre les backends (0.437 contre 0.438). La ressemblance humaine appartenait à l'interaction — voix, latence, tours de parole — non au modèle.([[sophie-clinical-communication-ai-assessment-2026]])
 
-La contre-preuve est que l'on peut apprendre aux étudiants à retenir le cadre humain même lorsqu'une consigne le fournit. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et coll. (2026)]] ont demandé à 654 étudiants en écriture si le chatbot ressemblait à un tuteur, à un collaborateur ou à autre chose, et seulement environ la moitié (51.7 %) ont choisi l'une des options anthropomorphiques. Les étudiants le nommaient outil ou programme, le comparaient à un robot ou à un ordinateur, ou inventaient des métaphores comme un distributeur de rétroaction qui délivre du texte contre des données. Les auteurs traitent ce refus du cadre humain comme le résultat de littératie, ce qui date l'effet à l'enseignement plutôt qu'à l'interface.
+La contre-preuve est que l'on peut apprendre aux étudiants à retenir le cadre humain même lorsqu'une consigne le fournit. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et coll. (2026)]] ont demandé à 654 étudiants en écriture si le [[conversational-ai|chatbot]] ressemblait à un tuteur, à un collaborateur ou à autre chose, et seulement environ la moitié (51.7 %) ont choisi l'une des options anthropomorphiques. Les étudiants le nommaient outil ou programme, le comparaient à un robot ou à un ordinateur, ou inventaient des [[metaphors-and-analogies|métaphores]] comme un distributeur de rétroaction qui délivre du texte contre des données. Les auteurs traitent ce refus du cadre humain comme le résultat de littératie, ce qui date l'effet à l'enseignement plutôt qu'à l'interface.
 
 ## Présence, réalisme et étrangeté
 
 Le réalisme n'est pas une échelle. [[aclime-pedagogical-agents-extended-reality-2026|ACLIME]] traite le réalisme comportemental comme le prédicteur décisif de la [[community-of-inquiry|présence sociale]] et avertit qu'une fidélité visuelle plus élevée risque la vallée de l'étrange, où un agent presque humain déclenche un rejet soudain. Il chiffre aussi le compromis : l'immersion et le réalisme de l'agent augmentent la charge cognitive extrane, tandis que l'interaction peut réduire la charge intrinsèque par la mémoire de travail collective. Sa mise en garde principale est brutale — environ 42 % des utilisateurs de casques VR rapportent un cybermalaise, et les effets secondaires vont d'une dizaine de minutes à plusieurs heures.([[aclime-pedagogical-agents-extended-reality-2026]])
 
-Les études de pratique soutiennent surtout la version modeste de cette affirmation. Les auteurs de Hauk lisent l'authenticité modérée comme une fidélité ajustée à la fonction. Une répétition dyadique et purement vocale stabilise les routines des novices, et la dynamique entre pairs et les indices non verbaux peuvent être ajoutés plus tard.([[hauk-student-avatars-dialogue-teacher-education-2026]]) Dans SOPHIE, 47 % des participants trouvaient encore difficile d'éprouver une empathie réelle envers un patient IA, même si 66 % trouvaient qu'il était moins stressant de parler à un tel patient qu'à une personne.([[sophie-clinical-communication-ai-assessment-2026]])
+Les études de pratique soutiennent surtout la version modeste de cette affirmation. Les auteurs de Hauk lisent l'authenticité modérée comme une fidélité ajustée à la fonction. Une répétition dyadique et purement vocale stabilise les routines des novices, et la dynamique entre pairs et les indices non verbaux peuvent être ajoutés plus tard.([[hauk-student-avatars-dialogue-teacher-education-2026]]) Dans SOPHIE, 47 % des participants trouvaient encore difficile d'éprouver une [[empathy|empathie]] réelle envers un patient IA, même si 66 % trouvaient qu'il était moins stressant de parler à un tel patient qu'à une personne.([[sophie-clinical-communication-ai-assessment-2026]])
 
 Les apprenants ne veulent pas uniformément plus de réalisme. Dans l'étude exploratoire de [[trikonet-trivalence-co-creativity-2026|TriKoNet]], les étudiants ont unanimement rejeté la représentation photoréaliste. Ils ont utilisé un espace de conception modulaire pour créer leurs propres concepts de rôle au lieu d'adopter une persona fournie.([[trikonet-trivalence-co-creativity-2026]]) ELEVATE note que l'incarnation est une barrière pour certains apprenants, comme ceux qui ont une sensibilité sensorielle ou un malaise face aux agents anthropomorphes, ce qui fait de la configuration des avatars une exigence plutôt qu'une préférence.([[elevate-genai-virtual-tutors]])
 
@@ -101,7 +101,7 @@ La littératie des deepfakes est la face inverse de la même capacité. Dans un 
 
 ## L'état honnête des preuves
 
-Presque toutes les études ici sont petites et courtes. Hauk compte 21 volontaires et une séance. SOPHIE compte 59 participants ayant terminé et aucun bras de contrôle. L'évaluation en psychothérapie compte deux psychologues, environ 90 minutes chacun. Le pilote PBL compte 26 étudiants et un cas. ACLIME et Theelen sont des cadres conceptuels, et la base de TriKoNet est de huit groupes en séances uniques.([[genai-simulate-patient-history-pbl-2026]])([[ai-psychotherapy-training-avatars]])([[aclime-pedagogical-agents-extended-reality-2026]])([[theelen-classroom-simulations-four-layer-framework-2026]])([[trikonet-trivalence-co-creativity-2026]])
+Presque toutes les études ici sont petites et courtes. Hauk compte 21 volontaires et une séance. SOPHIE compte 59 participants ayant terminé et aucun bras de contrôle. L'évaluation en psychothérapie compte deux psychologues, environ 90 minutes chacun. Le pilote PBL compte 26 étudiants et un cas. ACLIME et Theelen sont des [[theories-and-frameworks|cadres conceptuels]], et la base de TriKoNet est de huit groupes en séances uniques.([[genai-simulate-patient-history-pbl-2026]])([[ai-psychotherapy-training-avatars]])([[aclime-pedagogical-agents-extended-reality-2026]])([[theelen-classroom-simulations-four-layer-framework-2026]])([[trikonet-trivalence-co-creativity-2026]])
 
 Les grands échantillons concernent les attitudes et les préférences — 396 participants sur l'identité des avatars, 493 répondants sur la préférence vidéo — et les deux sont des populations de convenance ou d'un seul cours. Aucune étude de cet ensemble ne démontre qu'un instructeur synthétique produit un meilleur apprentissage qu'un humain. L'affirmation défendable est plus étroite : ces systèmes peuvent approcher une rencontre de pratique, peuvent être notés contre des évaluateurs humains avec un accord acceptable dans un domaine, et peuvent modifier la manière dont les apprenants évaluent la source de l'enseignement.
 
@@ -115,7 +115,7 @@ Cette étroitesse compte. Les auteurs de Theelen le disent directement : la flui
 
 **« Les instructeurs synthétiques sont une seule technologie, donc les résultats se transfèrent. »** Un conférencier cloné optimisé pour la préférence, un tuteur pour la latence et un patient pour la fidélité clinique sont des artefacts différents avec des modes de défaillance différents. Les preuves d'un rôle n'autorisent pas d'affirmations sur un autre.
 
-**« L'apparence de l'avatar est cosmétique. »** Les indices d'identité changeaient les notes de crédibilité et l'adoption effective des conseils, les pénalités se cumulant pour les avatars de femmes noires âgées.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) La configuration est une décision pédagogique et d'équité.
+**« L'apparence de l'avatar est cosmétique. »** Les indices d'identité changeaient les notes de crédibilité et l'adoption effective des conseils, les pénalités se cumulant pour les avatars de femmes noires âgées.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) La configuration est une décision pédagogique et d'[[equity-in-ai-education|équité]].
 
 **« Un patient simulé est un patient standardisé, moins le coût. »** Des psychologues en formation ont trouvé leur patient virtuel coopératif et déjà avancé en thérapie, un cas « idéal » qui sous-représente l'inflexibilité comportementale.([[ai-psychotherapy-training-avatars]]) Le coût baisse ; la validité du cas ne suit pas automatiquement.
 

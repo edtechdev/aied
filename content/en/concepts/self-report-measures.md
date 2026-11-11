@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-11-09T06:46:53-05:00"
+updated: "2026-11-11T09:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -95,6 +95,8 @@ Satisfaction is the most frequently self-reported outcome in this corpus, appear
 - [[preferred-scaffolding-ai-mathematical-modeling|A scaffolding study]] argues that perceived usefulness, ease of use, and immediate satisfaction should not be treated as sufficient indicators of [[scaffolding]] effectiveness.
 - [[nie-personavlm-long-term-personalization-2026|On personality-aligned student modeling]] observes that optimizing for user satisfaction is not the same as optimizing for learning outcomes, and that the two can come apart.
 
+- [[kares-xai-evaluation-alignment-2027|A preregistered XAI study (Kares et al., 2027)]] compared three explanation methods with 166 participants and found satisfaction (3.98, 3.92, 3.87) and trust ratings statistically indistinguishable, while a task measure separated the methods and a mathematical metric ranked them the other way. The rating gave no signal where the ability measure gave one.
+
 The pattern worth carrying away: satisfaction is responsive to the wrong things when learning is the goal. A system that answers quickly, agrees readily, and reduces effort will be rated highly, and those same properties are the ones the knowledge base associates with reduced [[desirable-difficulties|productive struggle]] and inflated performance on AI-assisted work. Reported satisfaction and measured learning are not enemies; they are simply not substitutes, and treating the first as evidence of the second is the most common slippage this page documents.
 
 The cleanest within-subject case in the corpus measured both quantities on the same students. [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe et al. (2025)]] surveyed business-statistics and economics students across two semesters while integrating a tutor prompt, AI-generated exam review, AI-structured oral exams and AI-assisted topic brainstorming. Self-reported ChatGPT use frequency rose from 2.987 to 4.375 on a 1-7 scale (p < .001), confidence from 3.663 to 4.000 (p = .004), and perceived engagement from 2.433 to 2.65 on a 1-3 scale (p = .006) — a coherent story of students who used the tool more and believed it helped.
@@ -177,6 +179,7 @@ The knowledge base's constructive answers are consistent, and none of them requi
 
 ## Connected Articles
 
+- [[kares-xai-evaluation-alignment-2027]] — 166 participants, three saliency methods: satisfaction and trust flat, task performance and faithfulness metrics disagreeing (Kares et al., 2027)
 - [[high-school-genai-acceptance-tam-physics-2026]] — One intention score, two opposite uses
 - [[voice-based-ai-feedback-interviews-higher-ed-2026]] — The administration mode a self-report instrument uses changes what it measures
 - [[capability-decision-model-teacher-readiness-2026]] — Discriminant-validity criteria for separating self-reported AI capability from efficacy beliefs

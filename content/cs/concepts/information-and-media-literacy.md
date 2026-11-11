@@ -10,9 +10,9 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-08T06:44:50-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-05T05:20:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -28,10 +28,10 @@ ai_assist:
 
 ## Otázky k zamyšlení
 
-- Když chatbot vrátí sebevědomý odstavec se třemi citacemi, uplatňuje student informační gramotnost, mediální gramotnost, nebo ani jednu — a činí zadání tento rozdíl viditelným?
-- Deepfakes a zfalšované citace jsou různé druhy selhání: jedno je nepravdivý záznam světa, druhé nepravdivý záznam literatury. Dokáže jeden kurz učit obojí, aniž by obojí učil špatně?
-- Detektory AI a nástroje ověřování faktů jsou samy modely s chybovostí. Co se stane s kurikulem ověřování, když je nástroj ověřování probabilistický?
-- Mediální gramotnost se vyučovala prostřednictvím produkce — studenti vytvářejí média, aby jim porozuměli. Pokud nyní artefakt vytváří model, která část pedagogiky přežívá?
+- Když [[conversational-ai|chatbot]] vrátí sebevědomý odstavec se třemi citacemi, uplatňuje student informační gramotnost, mediální gramotnost, nebo ani jednu — a činí zadání tento rozdíl viditelným?
+- [[ai-avatars-and-synthetic-instructors|Deepfakes]] a zfalšované citace jsou různé druhy selhání: jedno je nepravdivý záznam světa, druhé nepravdivý záznam literatury. Dokáže jeden kurz učit obojí, aniž by obojí učil špatně?
+- Detektory AI a nástroje ověřování faktů jsou samy modely s chybovostí. Co se stane s [[curriculum-design|kurikulem]] ověřování, když je nástroj ověřování probabilistický?
+- Mediální gramotnost se vyučovala prostřednictvím produkce — studenti vytvářejí média, aby jim porozuměli. Pokud nyní artefakt vytváří model, která část [[pedagogy|pedagogiky]] přežívá?
 
 ## Úvod
 
@@ -39,13 +39,13 @@ Obě gramotnosti mají oddělené institucionální domovy. Informační gramotn
 
 Toto rozdělení bylo vždy čistší v teorii než ve třídě. Obě gramotnosti učí studenty zpomalit, ověřit provenienci a odolat plynulosti. Obě byly postaveny na předpokladu, že artefakt měl autora, který za jeho vytvoření zaplatil cenu. Generativní AI odstraňuje tento předpoklad z obou najednou: text je syntetizován z nevysledovatelného korpusu, obrazy a hlasy jsou klonovány a automatizované účty simulují samotné publikum.
 
-Tato stránka pokrývá obě gramotnosti, protože je korpus pojímá jako jeden výukový problém se dvěma sadami výsledků. Důkazy jsou nerovnoměrné — bibliometrická mapa a dva systematické přehledy na straně informační gramotnosti, malá intervence a studie expertních rozhovorů na straně mediální — a téměř žádný z nich netestuje kombinované kurikulum. Právě tato absence je zjištění, které stojí za to přenést do praxe.
+Tato stránka pokrývá obě gramotnosti, protože je korpus pojímá jako jeden výukový problém se dvěma sadami výsledků. Důkazy jsou nerovnoměrné — bibliometrická mapa a dva [[meta-analysis-systematic-review|systematické přehledy]] na straně informační gramotnosti, malá intervence a studie expertních rozhovorů na straně mediální — a téměř žádný z nich netestuje kombinované kurikulum. Právě tato absence je zjištění, které stojí za to přenést do praxe.
 
 ## Kde se oba konstrukty rozcházejí
 
 Objektem informační gramotnosti je zdroj a její ústřední otázkou je, zda je tvrzení pravdivé a důkazy za ním věrohodné. Objektem mediální gramotnosti je sdělení a její ústřední otázkou je, kdo ho vytvořil, jak, pro koho a za jakým účelem. Zfalšovaná citace neprojde prvním testem; deepfake může projít každou faktickou kontrolou, kterou student umí provést, a přitom selhat ve druhém.
 
-Empirické literatury toto rozdělení odrážejí. Průzkum 236 amerických univerzitních studentů se ptal, kde začínají akademické rešerše, a zjistil vyhledávače na 45,5 %, domovskou stránku knihovny na 27,9 % a chatbota AI na 26,6 %, přičemž mezinárodní studenti nahrazovali knihovní zdroje AI přibližně dvakrát častěji než domácí studenti ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Systematický přehled 32 studií zjistil, že integrace gramotnosti v AI do výuky informační gramotnosti je ve „fázi dětství" a probíhá prostřednictvím LibGuides a workshopů, nikoli kurikula ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza a Arif, 2026]]). Na mediální straně rozhovory se sedmi odborníky a průzkum 141 studentů zjistily, že začlenění technologií do kurikula kritické mediální gramotnosti je „omezené a často povrchní" a že učitelé jsou nedostatečně vyškolení pro nástroje, které produkují dezinformace a deepfakes ([[critical-media-literacy-education-2026|studie kritické mediální gramotnosti, 2026]]).
+Empirické literatury toto rozdělení odrážejí. Průzkum 236 amerických univerzitních studentů se ptal, kde začínají akademické rešerše, a zjistil vyhledávače na 45,5 %, domovskou stránku knihovny na 27,9 % a chatbota AI na 26,6 %, přičemž mezinárodní studenti nahrazovali knihovní zdroje AI přibližně dvakrát častěji než domácí studenti ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Systematický přehled 32 studií zjistil, že integrace [[ai-literacy|gramotnosti v AI]] do výuky informační gramotnosti je ve „fázi dětství" a probíhá prostřednictvím LibGuides a workshopů, nikoli kurikula ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza a Arif, 2026]]). Na mediální straně rozhovory se sedmi odborníky a průzkum 141 studentů zjistily, že začlenění technologií do kurikula kritické mediální gramotnosti je „omezené a často povrchní" a že učitelé jsou nedostatečně vyškolení pro nástroje, které produkují dezinformace a deepfakes ([[critical-media-literacy-education-2026|studie kritické mediální gramotnosti, 2026]]).
 
 ## Jak AI komplikuje informační gramotnost
 
@@ -59,11 +59,11 @@ Třetí je kapacita. V průzkumu 412 akademických knihovníků z 38 nigerijský
 
 Zakládající otázky mediální gramotnosti předpokládaly tvůrce s úmyslem. Deepfakes, klonování hlasu a automatizovaní boti tento předpoklad narušují třemi způsoby: artefakt nemusí mít lidského autora, publikum může být syntetické a záměrem může být optimalizace pro angažovanost, nikoli přesvědčování někým konkrétním.
 
-Důkazy z kurikula naznačují, že školy to zatím nedohonily. Expertní rozhovory popisují jako limitující podmínku vzdělávání učitelů, nikoli odpor studentů, a argumentují pro rámec [[critical-pedagogy|kritické pedagogiky]], který pojímá hodnocení jako etickou a participativní praxi namísto školení v nástrojích. Zpráva objednaná pro veřejnoprávní média zjistila, že nabídka pro mladé ve věku 14–19 let se kloní k funkčním dovednostem v AI a odklání se od kritického hodnocení, a to i po přezkoumání více než 40 rámců a rozhovorech s 35 odborníky ([[ai-literacies-young-adults-2025|zpráva o gramotnostech v AI, 2025]]).
+Důkazy z kurikula naznačují, že školy to zatím nedohonily. Expertní rozhovory popisují jako limitující podmínku [[teacher-education|vzdělávání učitelů]], nikoli odpor studentů, a argumentují pro rámec [[critical-pedagogy|kritické pedagogiky]], který pojímá hodnocení jako etickou a participativní praxi namísto školení v nástrojích. Zpráva objednaná pro veřejnoprávní média zjistila, že nabídka pro mladé ve věku 14–19 let se kloní k funkčním dovednostem v AI a odklání se od kritického hodnocení, a to i po přezkoumání více než 40 rámců a rozhovorech s 35 odborníky ([[ai-literacies-young-adults-2025|zpráva o gramotnostech v AI, 2025]]).
 
 ## AI jako obranný nástroj — tvrzení a výhrady
 
-Argument pro použití AI na obranné straně je plausibilní a široce uváděný: automatizované kontroly věrohodnosti, které skenují historii a jazyk zdroje na signály zaujatosti, detektory deepfakes, analyzátory metadat hledající znaky provenience a simulace, které studentům umožňují procvičovat hodnocení na realistickém syntetickém materiálu. Tyto schopnosti jsou skutečné produkty a jejich použití ve třídě je skutečná praxe.
+Argument pro použití AI na obranné straně je plausibilní a široce uváděný: automatizované kontroly věrohodnosti, které skenují historii a jazyk zdroje na signály zaujatosti, detektory deepfakes, analyzátory metadat hledající znaky provenience a [[simulation|simulace]], které studentům umožňují procvičovat hodnocení na realistickém syntetickém materiálu. Tyto schopnosti jsou skutečné produkty a jejich použití ve třídě je skutečná praxe.
 
 Důkazy jsou tenčí než tvrzení. Detektory jsou probabilistické a s tím, jak se generátory zlepšují, degradují; model pro ověřování faktů je sám model, takže student stále musí posuzovat ověřovatele; a metadata o provenienci pomohou jen tehdy, když je producent zvolí připojit. Jedním z nejpevnějších výsledků korpusu je, že výuka mediální gramotnosti podporovaná AI může fungovat v malém měřítku: osmnáctihodinový program postavený na modelu 5E přinesl velké zisky u 36 žáků čtvrté třídy v jedné turecké škole ([[demir-akar-ai-media-literacy-children-2026|Demir a Akar, 2026]]). Třicet šest žáků je důkaz konceptu, nikoli podklad pro nákup.
 
@@ -81,7 +81,7 @@ Názorový text z knihovnického sektoru posouvá stejnou myšlenku dál: AI by 
 
 ## Omezení důkazů
 
-Většina zdejších studií je malá, sebeposuzovací, nebo obojí: 236 studentů v jednom průzkumu, 36 dětí v jedné intervenci, 412 knihovníků hodnotících sebe sama. Bibliometrická viditelnost není praxe a scientometričtí autoři to říkají výslovně. Žádná studie v korpusu nehodnotí kombinované kurikulum informační a mediální gramotnosti a detektory a nástroje ověřování faktů, které literatura o praxi doporučuje, jsou v těchto zdrojích z velké části neměřené. Tvrzení, že ověřování poháněné AI zlepšuje výsledky, je třeba pokládat za designovou hypotézu, dokud ji někdo neotestuje proti kontrole.
+Většina zdejších studií je malá, [[self-report-measures|sebeposuzovací]], nebo obojí: 236 studentů v jednom průzkumu, 36 dětí v jedné intervenci, 412 knihovníků hodnotících sebe sama. Bibliometrická viditelnost není praxe a scientometričtí autoři to říkají výslovně. Žádná studie v korpusu nehodnotí kombinované kurikulum informační a mediální gramotnosti a detektory a nástroje ověřování faktů, které literatura o praxi doporučuje, jsou v těchto zdrojích z velké části neměřené. Tvrzení, že ověřování poháněné AI zlepšuje výsledky, je třeba pokládat za designovou hypotézu, dokud ji někdo neotestuje proti kontrole.
 
 ## Související koncepty
 

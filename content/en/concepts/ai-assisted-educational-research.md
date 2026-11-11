@@ -1,7 +1,7 @@
 ---
 title: AI-Assisted Educational Research
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-11-09T09:39:27-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]

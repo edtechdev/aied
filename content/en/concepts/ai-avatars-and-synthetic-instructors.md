@@ -1,7 +1,7 @@
 ---
 title: AI Avatars and Synthetic Instructors
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-10T19:10:00-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]

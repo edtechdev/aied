@@ -1,7 +1,7 @@
 ---
 title: Civic and Political Education
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-04T18:52:58-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, teacher-role]
 pedagogy: [critical-pedagogy, lifelong-learning]

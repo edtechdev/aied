@@ -10,9 +10,9 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-05T16:13:12-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-05T05:20:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -29,9 +29,9 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - Cuando un chatbot devuelve un párrafo seguro de sí mismo con tres citas, ¿el estudiante está ejercitando la alfabetización informacional, la alfabetización mediática o ninguna de las dos, y la tarea hace visible esa distinción?
-- Los deepfakes y las citas fabricadas son fallos distintos: uno es un registro falso del mundo, el otro un registro falso de la literatura. ¿Puede un solo curso enseñar ambos sin enseñar cada uno mal?
-- Los detectores de IA y los verificadores de hechos son ellos mismos modelos con tasas de error. ¿Qué le ocurre a un plan de estudios de verificación cuando la herramienta de verificación es probabilística?
-- La alfabetización mediática se ha enseñado a través de la producción: los estudiantes crean medios para comprenderlos. Si ahora un modelo crea el artefacto, ¿qué parte de la pedagogía sobrevive?
+- Los [[ai-avatars-and-synthetic-instructors|deepfakes]] y las citas fabricadas son fallos distintos: uno es un registro falso del mundo, el otro un registro falso de la literatura. ¿Puede un solo curso enseñar ambos sin enseñar cada uno mal?
+- Los detectores de IA y los verificadores de hechos son ellos mismos modelos con tasas de error. ¿Qué le ocurre a un [[curriculum-design|plan de estudios]] de verificación cuando la herramienta de verificación es probabilística?
+- La alfabetización mediática se ha enseñado a través de la producción: los estudiantes crean medios para comprenderlos. Si ahora un modelo crea el artefacto, ¿qué parte de la [[pedagogy|pedagogía]] sobrevive?
 
 ## Introducción
 
@@ -45,7 +45,7 @@ Esta página cubre el par porque el corpus los trata como un solo problema instr
 
 El objeto de la alfabetización informacional es la fuente, y su pregunta central es si la afirmación es verdadera y la evidencia que la respalda creíble. El objeto de la alfabetización mediática es el mensaje, y su pregunta central es quién lo hizo, cómo, para quién y con qué fin. Una cita fabricada falla la primera prueba; un deepfake puede pasar todas las comprobaciones factuales que un estudiante sabe ejecutar mientras falla la segunda.
 
-Las literaturas empíricas reflejan la división. Una encuesta a 236 estudiantes universitarios estadounidenses preguntó dónde comienzan las búsquedas académicas y encontró motores de búsqueda en el 45,5%, la página de inicio de la biblioteca en el 27,9% y un chatbot de IA en el 26,6%, con el estudiantado internacional sustituyendo recursos bibliotecarios por IA a aproximadamente el doble de la tasa nacional ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Una revisión sistemática de 32 estudios encontró que la integración de la alfabetización en IA en la instrucción en alfabetización informacional está en una «etapa de infancia», impartida mediante LibGuides y talleres más que mediante un plan de estudios ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza y Arif, 2026]]). En el lado de los medios, entrevistas con siete expertos y una encuesta a 141 estudiantes encontraron que la inclusión de la tecnología en el plan de estudios de alfabetización mediática crítica es «limitada y a menudo superficial», con docentes poco formados para herramientas que producen desinformación y deepfakes ([[critical-media-literacy-education-2026|el estudio de alfabetización mediática crítica, 2026]]).
+Las literaturas empíricas reflejan la división. Una encuesta a 236 estudiantes universitarios estadounidenses preguntó dónde comienzan las búsquedas académicas y encontró motores de búsqueda en el 45,5%, la página de inicio de la biblioteca en el 27,9% y un chatbot de IA en el 26,6%, con el estudiantado internacional sustituyendo recursos bibliotecarios por IA a aproximadamente el doble de la tasa nacional ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Una [[meta-analysis-systematic-review|revisión sistemática]] de 32 estudios encontró que la integración de la [[ai-literacy|alfabetización en IA]] en la instrucción en alfabetización informacional está en una «etapa de infancia», impartida mediante LibGuides y talleres más que mediante un plan de estudios ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza y Arif, 2026]]). En el lado de los medios, entrevistas con siete expertos y una encuesta a 141 estudiantes encontraron que la inclusión de la tecnología en el plan de estudios de alfabetización mediática crítica es «limitada y a menudo superficial», con docentes poco formados para herramientas que producen desinformación y deepfakes ([[critical-media-literacy-education-2026|el estudio de alfabetización mediática crítica, 2026]]).
 
 ## Cómo la IA complica la alfabetización informacional
 
@@ -59,15 +59,15 @@ La tercera es la capacidad. En una encuesta a 412 bibliotecarios académicos de 
 
 Las preguntas fundacionales de la alfabetización mediática suponían un creador con un propósito. Los deepfakes, la clonación de voz y los bots automatizados rompen ese supuesto de tres maneras: el artefacto puede no tener autor humano, la audiencia puede ser sintética y la intención puede ser la optimización para la implicación en lugar de la persuasión por parte de alguien.
 
-La evidencia curricular sugiere que las escuelas no se han puesto al día. Las entrevistas a expertos describen la formación docente como la restricción vinculante y no la resistencia estudiantil, y abogan por un encuadre de [[critical-pedagogy|pedagogía crítica]] que trate la evaluación como práctica ética y participativa en lugar de capacitación en herramientas. Un informe encargado para medios de servicio público encontró que la oferta para jóvenes de 14 a 19 años se inclinaba hacia habilidades funcionales de IA y se alejaba de la evaluación crítica, pese a revisar más de 40 marcos y entrevistar a 35 expertos ([[ai-literacies-young-adults-2025|el informe sobre alfabetizaciones en IA, 2025]]).
+La evidencia curricular sugiere que las escuelas no se han puesto al día. Las entrevistas a expertos describen la [[teacher-education|formación docente]] como la restricción vinculante y no la resistencia estudiantil, y abogan por un encuadre de [[critical-pedagogy|pedagogía crítica]] que trate la evaluación como práctica ética y participativa en lugar de capacitación en herramientas. Un informe encargado para medios de servicio público encontró que la oferta para jóvenes de 14 a 19 años se inclinaba hacia habilidades funcionales de IA y se alejaba de la evaluación crítica, pese a revisar más de 40 marcos y entrevistar a 35 expertos ([[ai-literacies-young-adults-2025|el informe sobre alfabetizaciones en IA, 2025]]).
 
 ## La IA como herramienta defensiva: afirmaciones y salvedades
 
-El argumento a favor de usar la IA en el lado defensivo es plausible y se formula con amplitud: comprobaciones automáticas de credibilidad que examinan el historial y el lenguaje de una fuente en busca de señales de sesgo, detectores de deepfakes, analizadores de metadatos que buscan marcadores de procedencia, y simulaciones que permiten a los estudiantes practicar la evaluación con material sintético realista. Estas capacidades son productos reales, y su uso en el aula es práctica real.
+El argumento a favor de usar la IA en el lado defensivo es plausible y se formula con amplitud: comprobaciones automáticas de credibilidad que examinan el historial y el lenguaje de una fuente en busca de señales de sesgo, detectores de deepfakes, analizadores de metadatos que buscan marcadores de procedencia, y [[simulation|simulaciones]] que permiten a los estudiantes practicar la evaluación con material sintético realista. Estas capacidades son productos reales, y su uso en el aula es práctica real.
 
 La evidencia es más delgada que las afirmaciones. Los detectores son probabilísticos y se degradan a medida que mejoran los generadores; un modelo de verificación de hechos es él mismo un modelo, así que el estudiante sigue teniendo que juzgar al verificador; y los metadatos de procedencia solo ayudan cuando un productor decide adjuntarlos. Uno de los resultados más firmes del corpus es que la instrucción en alfabetización mediática apoyada en IA puede funcionar a pequeña escala: un programa de 18 horas construido sobre el modelo 5E produjo grandes ganancias entre 36 estudiantes de cuarto grado en una escuela turca ([[demir-akar-ai-media-literacy-children-2026|Demir y Akar, 2026]]). Treinta y seis estudiantes son una prueba de concepto, no un caso de adquisición.
 
-Un artículo de opinión del sector bibliotecario lleva la misma idea más lejos: la IA podría encargarse de la *impartición* de la alfabetización informacional mediante recuperación, tutoriales adaptativos, chatbots y verificación automatizada de hechos, con [[librarians|bibliotecarios]] y no proveedores como responsables de la integración ([[offem-ai-information-literacy-library-users-2026|Offem y Arikpo, 2026]]). El artículo no informa de datos, así que es una nota de diseño sobre dónde podría vivir la instrucción y no evidencia de que funcione.
+Un artículo de opinión del sector bibliotecario lleva la misma idea más lejos: la IA podría encargarse de la *impartición* de la alfabetización informacional mediante recuperación, tutoriales adaptativos, [[conversational-ai|chatbots]] y verificación automatizada de hechos, con [[librarians|bibliotecarios]] y no proveedores como responsables de la integración ([[offem-ai-information-literacy-library-users-2026|Offem y Arikpo, 2026]]). El artículo no informa de datos, así que es una nota de diseño sobre dónde podría vivir la instrucción y no evidencia de que funcione.
 
 Leídos juntos, los dos lados del balance sugieren una regla: la IA puede asumir la carga de *práctica* —escenarios realistas, retroalimentación inmediata, escala— pero la carga de *juicio* sigue siendo del estudiante, y cualquier herramienta que afirme reemplazarla debe evaluarse como un detector con una tasa de error medida, no adoptarse como una clave de respuestas.
 
@@ -81,7 +81,7 @@ Leídos juntos, los dos lados del balance sugieren una regla: la IA puede asumir
 
 ## Limitaciones de la evidencia
 
-La mayoría de los estudios aquí son pequeños, autoinformados o ambas cosas: 236 estudiantes en una encuesta, 36 niños en una intervención, 412 bibliotecarios calificándose a sí mismos. La visibilidad bibliométrica no es práctica, y los autores del estudio cienciométrico lo dicen explícitamente. Ningún estudio del corpus evalúa un plan de estudios combinado de alfabetización informacional y mediática, y los detectores y herramientas de verificación de hechos que recomienda la literatura práctica están en gran medida sin medir en estas fuentes. La afirmación de que la verificación impulsada por IA mejora los resultados debe tratarse como una hipótesis de diseño hasta que alguien la pruebe contra un control.
+La mayoría de los estudios aquí son pequeños, [[self-report-measures|autoinformados]] o ambas cosas: 236 estudiantes en una encuesta, 36 niños en una intervención, 412 bibliotecarios calificándose a sí mismos. La visibilidad bibliométrica no es práctica, y los autores del estudio cienciométrico lo dicen explícitamente. Ningún estudio del corpus evalúa un plan de estudios combinado de alfabetización informacional y mediática, y los detectores y herramientas de verificación de hechos que recomienda la literatura práctica están en gran medida sin medir en estas fuentes. La afirmación de que la verificación impulsada por IA mejora los resultados debe tratarse como una hipótesis de diseño hasta que alguien la pruebe contra un control.
 
 ## Conceptos conectados
 

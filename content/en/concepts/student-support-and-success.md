@@ -1,7 +1,7 @@
 ---
 title: Student Support and Success
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-11-07T14:45:00-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]

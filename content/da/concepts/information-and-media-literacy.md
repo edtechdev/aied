@@ -10,9 +10,9 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-08T06:44:50-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-05T05:20:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -28,10 +28,10 @@ ai_assist:
 
 ## Spørgsmål at overveje
 
-- Når en chatbot returnerer en selvsikker paragraf med tre henvisninger, udøver den studerende så informationskompetence, mediekompetence eller ingen af delene — og gør opgaven den skelnen synlig?
-- Deepfakes og fabrikerede citater er forskellige fejl: den ene er en falsk registrering af verden, den anden en falsk registrering af litteraturen. Kan et enkelt kursus undervise i begge uden at undervise dårligt i nogen af dem?
-- AI-detektorer og faktatjekkere er selv modeller med fejlprocenter. Hvad sker der med et verifikationscurriculum, når verifikationsværktøjet er probabilistisk?
-- Mediekompetence er blevet undervist gennem produktion — studerende skaber medier for at forstå dem. Hvis en model nu skaber artefakten, hvilken del af pædagogikken overlever så?
+- Når en [[conversational-ai|chatbot]] returnerer en selvsikker paragraf med tre henvisninger, udøver den studerende så informationskompetence, mediekompetence eller ingen af delene — og gør opgaven den skelnen synlig?
+- [[ai-avatars-and-synthetic-instructors|Deepfakes]] og fabrikerede citater er forskellige fejl: den ene er en falsk registrering af verden, den anden en falsk registrering af litteraturen. Kan et enkelt kursus undervise i begge uden at undervise dårligt i nogen af dem?
+- AI-detektorer og faktatjekkere er selv modeller med fejlprocenter. Hvad sker der med et [[curriculum-design|verifikationscurriculum]], når verifikationsværktøjet er probabilistisk?
+- Mediekompetence er blevet undervist gennem produktion — studerende skaber medier for at forstå dem. Hvis en model nu skaber artefakten, hvilken del af [[pedagogy|pædagogikken]] overlever så?
 
 ## Introduktion
 
@@ -39,13 +39,13 @@ De to kompetencer har separate institutionelle hjem. Informationskompetence blev
 
 Den opdeling har altid været renere i teorien end i et klasseværelse. Begge kompetencer lærer studerende at sætte tempoet ned, kontrollere proveniensen og modstå flydende retorik. Begge blev bygget på en antagelse om, at artefakten havde en forfatter, der betalte en pris for at producere den. Generativ AI fjerner den antagelse fra begge på én gang: tekst syntetiseres fra et usporbart korpus, billeder og stemmer klones, og automatiserede konti simulerer publikummet selv.
 
-Denne side dækker parret, fordi korpuset behandler dem som ét undervisningsproblem med to udfaldsmængder. Evidensen er ujævn — et bibliometrisk kort og to systematiske reviews på informationssiden, en lille intervention og en ekspertinterviewundersøgelse på mediesiden — og næsten ingen af den tester et kombineret curriculum. Det fravær er i sig selv det fund, der er værd at tage med i praksis.
+Denne side dækker parret, fordi korpuset behandler dem som ét undervisningsproblem med to udfaldsmængder. Evidensen er ujævn — et bibliometrisk kort og to [[meta-analysis-systematic-review|systematiske reviews]] på informationssiden, en lille intervention og en ekspertinterviewundersøgelse på mediesiden — og næsten ingen af den tester et kombineret curriculum. Det fravær er i sig selv det fund, der er værd at tage med i praksis.
 
 ## Hvor de to konstrukter divergerer
 
 Informationskompetencens objekt er kilden, og dens kernespørgsmål er, om påstanden er sand, og evidensen bag den troværdig. Mediekompetencens objekt er beskeden, og dens kernespørgsmål er, hvem der skabte den, hvordan, for hvem og med hvilket formål. Et fabrikeret citat fejler den første test; en deepfake kan bestå enhver faktakontrol, som en studerende ved, hvordan man udfører, og alligevel fejle den anden.
 
-De empiriske litteraturer afspejler opdelingen. En undersøgelse af 236 amerikanske universitetsstuderende spurgte, hvor akademiske søgninger begynder, og fandt søgemaskiner på 45,5 %, bibliotekets hjemmeside på 27,9 % og en AI-chatbot på 26,6 %, hvor internationale studerende erstattede biblioteksressourcer med AI i omtrent det dobbelte af den hjemlige rate ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund m.fl., 2026]]). Et systematisk review af 32 studier fandt integration af AI-kompetence i informationskompetenceundervisning på et "spædbarnsstadium", leveret gennem LibGuides og workshops snarere end gennem curriculum ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza og Arif, 2026]]). På mediesiden fandt interviews med syv eksperter og en undersøgelse af 141 studerende, at teknologisk inklusion i curriculum for kritisk mediekompetence var "begrænset og ofte overfladisk", med undervisere, der er utilstrækkeligt uddannet til værktøjer, der producerer desinformation og deepfakes ([[critical-media-literacy-education-2026|studiet om kritisk mediekompetence, 2026]]).
+De empiriske litteraturer afspejler opdelingen. En undersøgelse af 236 amerikanske universitetsstuderende spurgte, hvor akademiske søgninger begynder, og fandt søgemaskiner på 45,5 %, bibliotekets hjemmeside på 27,9 % og en AI-chatbot på 26,6 %, hvor internationale studerende erstattede biblioteksressourcer med AI i omtrent det dobbelte af den hjemlige rate ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund m.fl., 2026]]). Et systematisk review af 32 studier fandt integration af [[ai-literacy|AI-kompetence]] i informationskompetenceundervisning på et "spædbarnsstadium", leveret gennem LibGuides og workshops snarere end gennem curriculum ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza og Arif, 2026]]). På mediesiden fandt interviews med syv eksperter og en undersøgelse af 141 studerende, at teknologisk inklusion i curriculum for kritisk mediekompetence var "begrænset og ofte overfladisk", med undervisere, der er utilstrækkeligt uddannet til værktøjer, der producerer desinformation og deepfakes ([[critical-media-literacy-education-2026|studiet om kritisk mediekompetence, 2026]]).
 
 ## Hvordan AI komplicerer informationskompetence
 
@@ -59,11 +59,11 @@ Den tredje er kapacitet. I en undersøgelse af 412 akademiske bibliotekarer på 
 
 Mediekompetencens grundlæggende spørgsmål forudsatte en skaber med et formål. Deepfakes, stemmekloning og automatiserede bots bryder den antagelse på tre måder: artefakten kan være uden menneskelig forfatter, publikummet kan være syntetisk, og hensigten kan være optimering for engagement snarere end overbevisning fra nogens side.
 
-Curriculumsevidensen tyder på, at skolerne ikke er fulgt med. Ekspertinterviewene beskriver læreruddannelse som den bindende begrænsning snarere end studerendes modstand og argumenterer for en [[critical-pedagogy|kritisk-pædagogisk]] indramning, der behandler evaluering som etisk og deltagende praksis i stedet for værktøjstræning. En bestilt rapport for public service-medier fandt, at tilbuddet til 14–19-årige hælder mod funktionelle AI-færdigheder og væk fra kritisk evaluering, på trods af at den gennemgik mere end 40 rammer og interviewede 35 eksperter ([[ai-literacies-young-adults-2025|AI-literacies-rapporten, 2025]]).
+Curriculumsevidensen tyder på, at skolerne ikke er fulgt med. Ekspertinterviewene beskriver [[teacher-education|læreruddannelse]] som den bindende begrænsning snarere end studerendes modstand og argumenterer for en [[critical-pedagogy|kritisk-pædagogisk]] indramning, der behandler evaluering som etisk og deltagende praksis i stedet for værktøjstræning. En bestilt rapport for public service-medier fandt, at tilbuddet til 14–19-årige hælder mod funktionelle AI-færdigheder og væk fra kritisk evaluering, på trods af at den gennemgik mere end 40 rammer og interviewede 35 eksperter ([[ai-literacies-young-adults-2025|AI-literacies-rapporten, 2025]]).
 
 ## AI som et defensivt værktøj — påstande og forbehold
 
-Argumentet for at bruge AI på den defensive side er plausibelt og hyppigt fremført: automatiserede troværdighedskontroller, der scanner en kildes historie og sprog for biassignaler, deepfake-detektorer, metadataanalysatorer, der leder efter proveniensmarkører, og simulationer, der lader studerende øve evaluering på realistisk syntetisk materiale. Disse kapaciteter er rigtige produkter, og klasseværelsesbrugen er rigtig praksis.
+Argumentet for at bruge AI på den defensive side er plausibelt og hyppigt fremført: automatiserede troværdighedskontroller, der scanner en kildes historie og sprog for biassignaler, deepfake-detektorer, metadataanalysatorer, der leder efter proveniensmarkører, og [[simulation|simulationer]], der lader studerende øve evaluering på realistisk syntetisk materiale. Disse kapaciteter er rigtige produkter, og klasseværelsesbrugen er rigtig praksis.
 
 Evidensen er tyndere end påstandene. Detektorer er probabilistiske og forringes, efterhånden som generatorerne bliver bedre; en faktatjekmodel er selv en model, så den studerende må stadig vurdere tjekkeren; og proveniensmetadata hjælper kun, når en producent vælger at vedhæfte dem. Et af korpusets mest solide resultater er, at AI-understøttet mediekompetenceundervisning kan virke i lille skala: et 18-timers program bygget på 5E-modellen gav store gevinster blandt 36 fjerdeklasses-elever på én tyrkisk skole ([[demir-akar-ai-media-literacy-children-2026|Demir og Akar, 2026]]). Seksogtredive studerende er et proof of concept, ikke en indkøbssag.
 
@@ -81,7 +81,7 @@ Læst sammen antyder de to sider af regnskabet en regel: AI kan bære *praksis*-
 
 ## Evidensens begrænsninger
 
-De fleste studier her er små, selvrapporterede eller begge dele: 236 studerende i én undersøgelse, 36 børn i én intervention, 412 bibliotekarer, der vurderer sig selv. Bibliometrisk synlighed er ikke praksis, og det siger de scientometriske forfattere eksplicit. Intet studie i korpuset evaluerer et kombineret informations- og mediekompetencecurriculum, og de detektor- og faktatjekværktøjer, som praksislitteraturen anbefaler, er stort set umålte i disse kilder. Påstanden om, at AI-drevet verifikation forbedrer udfald, bør behandles som en designhypotese, indtil nogen tester den mod en kontrolgruppe.
+De fleste studier her er små, [[self-report-measures|selvrapporterede]] eller begge dele: 236 studerende i én undersøgelse, 36 børn i én intervention, 412 bibliotekarer, der vurderer sig selv. Bibliometrisk synlighed er ikke praksis, og det siger de scientometriske forfattere eksplicit. Intet studie i korpuset evaluerer et kombineret informations- og mediekompetencecurriculum, og de detektor- og faktatjekværktøjer, som praksislitteraturen anbefaler, er stort set umålte i disse kilder. Påstanden om, at AI-drevet verifikation forbedrer udfald, bør behandles som en designhypotese, indtil nogen tester den mod en kontrolgruppe.
 
 ## Forbundne begreber
 

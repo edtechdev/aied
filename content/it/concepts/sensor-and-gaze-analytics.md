@@ -1,7 +1,7 @@
 ---
 title: Sensori e analisi dello sguardo
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-08T14:14:01-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -63,7 +63,7 @@ Questi segnali differiscono per frequenza di campionamento, rumore e onere di st
 
 **Stima dell'attenzione in aula.** Un [[multimodal|trasformatore multimodale]] ha fuso immagini facciali con segnali indossabili su DIPSER, un dataset naturalistico di 57 soggetti, e ha raggiunto un MAE di 0,283. Il suo vantaggio su un valore di riferimento solo visivo era modesto, e gli autori concludono che i tratti facciali erano la fonte primaria di informazione ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]).
 
-**Carico cognitivo e tempi del feedback.** TutorLoop ha usato attenzione e carico ricavati dallo sguardo per scegliere tra quattro [[feedback|tipi di feedback]] con un agente di apprendimento per rinforzo. Su 187 partecipanti il sistema completo è intervenuto meno spesso dei valori di riferimento ma ha migliorato l'attenzione e ridotto il carico ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
+**Carico cognitivo e tempi del feedback.** TutorLoop ha usato attenzione e carico ricavati dallo sguardo per scegliere tra quattro [[feedback|tipi di feedback]] con un agente di [[reinforcement-learning|apprendimento per rinforzo]]. Su 187 partecipanti il sistema completo è intervenuto meno spesso dei valori di riferimento ma ha migliorato l'attenzione e ridotto il carico ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
 
 **Proctoring e integrità.** Il proctoring basato sulla posa riporta prestazioni quasi al tetto sul proprio insieme di scenari etichettati: 99,56% di accuratezza e un AUC di 0,9957 ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). L'IA indossabile cambia lo stesso problema dall'altro lato. Gli occhiali intelligenti rimuovono la caduta dello sguardo e lo spostamento di postura su cui si regge la sorveglianza, una condizione che Corbin e colleghi chiamano doppia trasparenza ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 
@@ -84,7 +84,7 @@ Un correlato neurale non è un punteggio. Le immagini ricostruite dall'EEG corre
 L'attenzione non è apprendimento. In TutorLoop l'attenzione correlava con l'apprendimento a r = 0,017, mentre il carico correlava negativamente a r = -0,168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Un sistema che massimizzasse il segnale di attenzione avrebbe ottimizzato qualcosa di molto vicino al rumore.
 
 
-Un sensore può registrare la co-presenza dove uno studio afferma l'interazione: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] hanno trovato che un rilevatore basato sulla posa raggiungeva solo il 55% di recall, cogliendo 11 dei 20 eventi identificati dai codificatori umani nelle interazioni di gruppo insegnante–studenti. L'insegnante era presente dentro il confine del gruppo nel 49,2% dei segmenti codificati mentre gli studenti guardavano l'insegnante solo nel 25,4%, e nessuna caratteristica audio cambiava in nessuno dei due confronti, quindi la pipeline registrava la co-presenza spaziale anziché l'interazione sostenuta.
+Un sensore può registrare la co-presenza dove uno studio afferma l'interazione: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] hanno trovato che un rilevatore basato sulla posa raggiungeva solo il 55% di recall, cogliendo 11 dei 20 eventi identificati dai codificatori umani nelle interazioni di gruppo insegnante–studenti. L'[[teacher-role|insegnante]] era presente dentro il confine del gruppo nel 49,2% dei segmenti codificati mentre gli studenti guardavano l'insegnante solo nel 25,4%, e nessuna caratteristica audio cambiava in nessuno dei due confronti, quindi la pipeline registrava la co-presenza spaziale anziché l'interazione sostenuta.
 
 
 Un profilo fisiologico non è una diagnosi. I modelli di stress da esame predicono una categoria di voto da attivazione e movimento, e gli autori insistono che l'output appartenga accanto alle circostanze personali e al contesto di salute mentale, non dentro una decisione ad alta posta in gioco ([[physiological-signals-exam-outcomes-ml|Yamazaki e Rimal, 2026]]).
@@ -99,7 +99,7 @@ Infine, raccolta non è integrazione. Kim e Han hanno trovato che la maggior par
 
 **La deriva funzionale è il percorso normale.** Il monitoraggio del benessere diventa segnalazione del rischio, e la segnalazione del rischio diventa prova di valutazione. Corbin e colleghi mostrano la versione valutativa di questa deriva: una volta che l'esclusione fisica fallisce, l'ispezione si sposta dagli artefatti ai corpi, e gli studenti devono dimostrare che i loro occhiali sono correttivi e i loro dispositivi terapeutici ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 
-**I fallimenti di equità si concentrano su corpi che differiscono.** La stima dell'attenzione basata sul volto dipende dal tono della pelle, dagli occhiali e dall'illuminazione. L'attenzione basata sullo sguardo penalizza chi evita il contatto visivo, inclusi alcuni studenti autistici e [[neurodiversity|neurodivergenti]]. Il proctoring basato sulla posa segnala tic, stimming e norme culturali del movimento. Lo studio sul proctoring non verifica se la postura segnalata corrisponda a una condotta scorretta, né se il rilevatore tratti equamente gli [[inclusive-learning|studenti con disabilità]] o le differenze culturali nello sguardo ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). La regolazione non è un rimedio, qui; è un modo di riciclare l'errore in una regola.
+**I fallimenti di [[equity-in-ai-education|equità]] si concentrano su corpi che differiscono.** La stima dell'attenzione basata sul volto dipende dal tono della pelle, dagli occhiali e dall'illuminazione. L'attenzione basata sullo sguardo penalizza chi evita il contatto visivo, inclusi alcuni studenti autistici e [[neurodiversity|neurodivergenti]]. Il proctoring basato sulla posa segnala tic, stimming e norme culturali del movimento. Lo studio sul proctoring non verifica se la postura segnalata corrisponda a una condotta scorretta, né se il rilevatore tratti equamente gli [[inclusive-learning|studenti con disabilità]] o le differenze culturali nello sguardo ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). La regolazione non è un rimedio, qui; è un modo di riciclare l'errore in una regola.
 
 **Le pretese di equità richiedono evidenza a livello di soggetto.** Un regolarizzatore mirato al genere ha ridotto il divario di MAE in validazione da 0,02 a 0,005, poi ha aumentato sia il divario sia l'errore del gruppo peggiore su soggetti tenuti fuori ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). Riportare una singola suddivisione come prova di equità è un fallimento progettuale con un costo di equità.
 

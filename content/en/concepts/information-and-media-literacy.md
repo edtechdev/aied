@@ -1,7 +1,7 @@
 ---
 title: "Information and Media Literacy"
 created: "2026-11-05T05:20:00-05:00"
-updated: "2026-11-05T05:20:00-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy, critical-thinking, academic-integrity]
 pedagogy: [critical-pedagogy]

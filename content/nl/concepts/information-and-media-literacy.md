@@ -10,9 +10,9 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-08T07:16:46-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-05T05:20:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -28,10 +28,10 @@ ai_assist:
 
 ## Vragen om over na te denken
 
-- Wanneer een chatbot met een zelfverzekerde alinea en drie citaten terugkomt, oefent de student dan informatiegeletterdheid, mediageletterdheid of geen van beide — en maakt de opdracht dat onderscheid zichtbaar?
-- Deepfakes en verzonnen citaten zijn verschillende soorten fouten: het ene is een onjuiste registratie van de wereld, het andere een onjuiste registratie van de literatuur. Kan één cursus beide onderwijzen zonder elk slecht te onderwijzen?
-- AI-detectoren en factcheckers zijn zelf modellen met foutmarges. Wat gebeurt er met een verificatiecurriculum wanneer het verificatiehulpmiddel probabilistisch is?
-- Mediageletterdheid is onderwezen via productie — studenten maken media om die te begrijpen. Als een model nu het artefact maakt, welk deel van de pedagogiek overleeft dan?
+- Wanneer een [[conversational-ai|chatbot]] met een zelfverzekerde alinea en drie citaten terugkomt, oefent de student dan informatiegeletterdheid, mediageletterdheid of geen van beide — en maakt de opdracht dat onderscheid zichtbaar?
+- [[ai-avatars-and-synthetic-instructors|Deepfakes]] en verzonnen citaten zijn verschillende soorten fouten: het ene is een onjuiste registratie van de wereld, het andere een onjuiste registratie van de literatuur. Kan één cursus beide onderwijzen zonder elk slecht te onderwijzen?
+- AI-detectoren en factcheckers zijn zelf modellen met foutmarges. Wat gebeurt er met een [[curriculum-design|verificatiecurriculum]] wanneer het verificatiehulpmiddel probabilistisch is?
+- Mediageletterdheid is onderwezen via productie — studenten maken media om die te begrijpen. Als een model nu het artefact maakt, welk deel van de [[pedagogy|pedagogiek]] overleeft dan?
 
 ## Introductie
 
@@ -45,7 +45,7 @@ Deze pagina behandelt het paar omdat het corpus ze als één onderwijskundig pro
 
 Het object van informatiegeletterdheid is de bron, en de kernvraag is of de bewering waar is en het bewijs erachter geloofwaardig. Het object van mediageletterdheid is de boodschap, en de kernvraag is wie die heeft gemaakt, hoe, voor wie en met welk doel. Een verzonnen citaat zakt voor de eerste toets; een deepfake kan elke feitelijke controle doorstaan die een student kan uitvoeren en toch voor de tweede zakken.
 
-De empirische literaturen weerspiegelen die splitsing. Een enquête onder 236 Amerikaanse universiteitsstudenten vroeg waar academische zoekopdrachten beginnen en vond zoekmachines op 45,5%, de bibliotheekhomepage op 27,9% en een AI-chatbot op 26,6%, waarbij internationale studenten ongeveer twee keer zo vaak AI in de plaats van bibliotheekbronnen stelden als binnenlandse studenten ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Een systematische review van 32 studies vond dat de integratie van AI-geletterdheid in informatiegeletterdheidsonderwijs zich in een 'beginfase' bevindt en via LibGuides en workshops wordt aangeboden in plaats van via het curriculum ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza en Arif, 2026]]). Aan de mediakant vonden interviews met zeven deskundigen en een enquête onder 141 studenten dat de integratie van technologie in het curriculum voor kritische mediageletterdheid 'beperkt en vaak oppervlakkig' is, waarbij docenten onvoldoende zijn opgeleid voor tools die desinformatie en deepfakes produceren ([[critical-media-literacy-education-2026|de studie naar kritische mediageletterdheid, 2026]]).
+De empirische literaturen weerspiegelen die splitsing. Een enquête onder 236 Amerikaanse universiteitsstudenten vroeg waar academische zoekopdrachten beginnen en vond zoekmachines op 45,5%, de bibliotheekhomepage op 27,9% en een AI-chatbot op 26,6%, waarbij internationale studenten ongeveer twee keer zo vaak AI in de plaats van bibliotheekbronnen stelden als binnenlandse studenten ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Een [[meta-analysis-systematic-review|systematische review]] van 32 studies vond dat de integratie van [[ai-literacy|AI-geletterdheid]] in informatiegeletterdheidsonderwijs zich in een 'beginfase' bevindt en via LibGuides en workshops wordt aangeboden in plaats van via het curriculum ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza en Arif, 2026]]). Aan de mediakant vonden interviews met zeven deskundigen en een enquête onder 141 studenten dat de integratie van technologie in het curriculum voor kritische mediageletterdheid 'beperkt en vaak oppervlakkig' is, waarbij docenten onvoldoende zijn opgeleid voor tools die desinformatie en deepfakes produceren ([[critical-media-literacy-education-2026|de studie naar kritische mediageletterdheid, 2026]]).
 
 ## Hoe AI informatiegeletterdheid ingewikkelder maakt
 
@@ -53,17 +53,17 @@ De eerste complicatie is fabricatie op schaal. Een model produceert overtuigende
 
 De tweede is dat de zoeklaag is samengevallen met een antwoordlaag. Wanneer de tool ophaalt, selecteert en schrijft, verschuift de geletterde handeling naar het beoordelen van de synthese. Dat is waar het bewijs steeds op uitkomt: een platform met een ingebedde bibliothecaris versloeg conventionele bibliotheekinstructie met 0,78 tegen 0,25 punten op een op de ACRL gebaseerd instrument, en de consultaties die de winst opleverden werden gedomineerd door vragen over bronevaluatie ([[ai-assisted-seminar-learning-information-literacy-2026|Huang, 2026]]).
 
-De derde is capaciteit. In een enquête onder 412 academische bibliothecarissen in 38 Nigeriaanse instellingen was de zelfgerapporteerde bekwaamheid hoog voor database-instructie (M = 4,07) en het aanbieden van informatiegeletterdheid (M = 4,02), maar de samengestelde AI-competentie was 2,86, het zwakst bij het ontwerpen van doelen (M = 2,70) en het beoordelen van uitkomsten (M = 2,62) ([[dada-librarians-information-literacy-ai-nigeria-2026|Dada, 2026]]). Een vakgebied dat in kaart is gebracht aan de hand van 1.669 publicaties, wordt gevraagd een competentie te onderwijzen die zijn docenten volgens eigen opgave nog niet kunnen ontwerpen ([[jabeen-lux-ai-information-literacy-scientometric-2026|Jabeen en Lux, 2026]]).
+De derde is capaciteit. In een enquête onder 412 academische bibliothecarissen in 38 Nigeriaanse instellingen was de [[self-report-measures|zelfgerapporteerde]] bekwaamheid hoog voor database-instructie (M = 4,07) en het aanbieden van informatiegeletterdheid (M = 4,02), maar de samengestelde AI-competentie was 2,86, het zwakst bij het ontwerpen van doelen (M = 2,70) en het beoordelen van uitkomsten (M = 2,62) ([[dada-librarians-information-literacy-ai-nigeria-2026|Dada, 2026]]). Een vakgebied dat in kaart is gebracht aan de hand van 1.669 publicaties, wordt gevraagd een competentie te onderwijzen die zijn docenten volgens eigen opgave nog niet kunnen ontwerpen ([[jabeen-lux-ai-information-literacy-scientometric-2026|Jabeen en Lux, 2026]]).
 
 ## Hoe AI mediageletterdheid ingewikkelder maakt
 
 De grondvragen van mediageletterdheid gingen uit van een maker met een bedoeling. Deepfakes, stemklonen en geautomatiseerde bots doorbreken die aanname op drie manieren: het artefact heeft mogelijk geen menselijke auteur, het publiek kan synthetisch zijn, en de intentie kan optimalisatie voor betrokkenheid zijn in plaats van overtuiging door iemand.
 
-Het curriculumonderzoek suggereert dat scholen de aansluiting nog niet hebben gevonden. De deskundigeninterviews beschrijven docentopleiding als de beperkende factor, eerder dan weerstand bij studenten, en pleiten voor een [[critical-pedagogy]]-kader dat evaluatie als ethische en participatieve praktijk behandelt in plaats van tooltraining. Een in opdracht geschreven rapport voor publieke omroep vond dat het aanbod voor 14- tot 19-jarigen meer neigde naar functionele AI-vaardigheden dan naar kritische evaluatie, ondanks een review van meer dan 40 kaders en interviews met 35 deskundigen ([[ai-literacies-young-adults-2025|het AI-geletterdheidsrapport, 2025]]).
+Het curriculumonderzoek suggereert dat scholen de aansluiting nog niet hebben gevonden. De deskundigeninterviews beschrijven [[teacher-education|docentopleiding]] als de beperkende factor, eerder dan weerstand bij studenten, en pleiten voor een [[critical-pedagogy]]-kader dat evaluatie als ethische en participatieve praktijk behandelt in plaats van tooltraining. Een in opdracht geschreven rapport voor publieke omroep vond dat het aanbod voor 14- tot 19-jarigen meer neigde naar functionele AI-vaardigheden dan naar kritische evaluatie, ondanks een review van meer dan 40 kaders en interviews met 35 deskundigen ([[ai-literacies-young-adults-2025|het AI-geletterdheidsrapport, 2025]]).
 
 ## AI als defensief hulpmiddel — beloften en kanttekeningen
 
-Het pleidooi voor AI aan de defensieve kant is plausibel en wordt breed gemaakt: geautomatiseerde geloofwaardigheidscontroles die de geschiedenis en het taalgebruik van een bron scannen op signalen van vooringenomenheid, deepfakedetectoren, metadatatools die naar herkomstenmerken zoeken, en simulaties waarmee studenten evaluatie oefenen op realistisch synthetisch materiaal. Deze capaciteiten zijn echte producten, en het gebruik in de klas is echte praktijk.
+Het pleidooi voor AI aan de defensieve kant is plausibel en wordt breed gemaakt: geautomatiseerde geloofwaardigheidscontroles die de geschiedenis en het taalgebruik van een bron scannen op signalen van vooringenomenheid, deepfakedetectoren, metadatatools die naar herkomstenmerken zoeken, en [[simulation|simulaties]] waarmee studenten evaluatie oefenen op realistisch synthetisch materiaal. Deze capaciteiten zijn echte producten, en het gebruik in de klas is echte praktijk.
 
 Het bewijs is dunner dan de claims. Detectoren zijn probabilistisch en worden zwakker naarmate generatoren beter worden; een factcheckmodel is zelf een model, dus de student moet nog steeds de checker beoordelen; en herkomstmetadata helpen alleen wanneer een producent besluit ze toe te voegen. Een van de stevigste resultaten van het corpus is dat AI-ondersteund mediageletterdheidsonderwijs op kleine schaal kan werken: een programma van 18 uur op basis van het 5E-model leverde grote winsten op bij 36 vierdeklassers op één Turkse school ([[demir-akar-ai-media-literacy-children-2026|Demir en Akar, 2026]]). Zesendertig leerlingen is een proof of concept, geen aankoopdossier.
 

@@ -1,7 +1,7 @@
 ---
 title: "Reading Education"
 created: "2026-11-05T02:16:00-05:00"
-updated: "2026-11-10T18:55:00-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding, motivation, cognitive-psychology]

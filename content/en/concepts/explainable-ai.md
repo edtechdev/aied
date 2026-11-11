@@ -1,7 +1,7 @@
 ---
 title: Explainable AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-11T09:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -78,6 +78,8 @@ Two cautions sharpen this further, both of which the wiki's newest contribution 
 
 **What a model says it used depends on the family as much as on the data.** Across seven models on one cohort, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] found symbolic approaches leaning on cognitive and [[motivation|motivational]] factors, sub-symbolic models on cognitive aspects, learned knowledge and gender, and both largely overlooking metacognitive factors, while the neural-symbolic model used a more integrated set. The same students and the same indicators produced different accounts of what mattered, so alignment with [[learning-theories|learning theory]] becomes a claim about attributions rather than about accuracy.
 
+The metrics used to certify explanation quality do not measure the fit. In a preregistered study of 166 participants comparing three saliency methods (LIME, Grad-CAM, Guided Backpropagation), satisfaction and trust ratings were flat across conditions, a task measure favored Grad-CAM, and mathematical faithfulness metrics favored Guided Backpropagation — three families of evidence pointing at three different methods ([[kares-xai-evaluation-alignment-2027|Kares et al., 2027]]). Some metric–performance relationships ran in the direction opposite to the one the metrics are meant to certify. A faithfulness score is evidence about the model, not about whether a user can act on the explanation.
+
 ## Teaching explainability as accountability practice
 
 If explanation quality decides whether XAI is useful, then producing explanations has to be taught as a professional habit rather than demonstrated as a capability. [[lund-socially-accountable-data-science-xai-2026|Lund and colleagues (2026)]] propose doing this across four pillars — **answerability** (the obligation to give reasons to those affected), **responsibility** (harm anticipated across the lifecycle, not defended after the fact), **enforcement** (consequences inside the course) and **reflexivity** (documented examination of one's own assumptions) — each with its own assignments and its own classroom cost.
@@ -111,6 +113,7 @@ For explainability specifically, the assignments that matter are the ones that f
 - [[recommender-systems-and-learning-paths]]
 
 ## Connected Articles
+- [[kares-xai-evaluation-alignment-2027]] — 166 participants, three saliency methods: satisfaction and trust flat, task performance and faithfulness metrics disagreeing (Kares et al., 2027)
 - [[lund-socially-accountable-data-science-xai-2026]] — A four-pillar framework (answerability, responsibility, enforcement, reflexivity) for teaching XAI as accountability practice (Lund et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (collaborative vs. raw explanations)
 - [[xai-education-framework]] — XAI-ED: the foundational framework for explainable AI in education (Khosravi et al. 2022)

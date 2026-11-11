@@ -1,7 +1,7 @@
 ---
 title: Case-Based Learning
 created: "2026-11-07T13:10:00-05:00"
-updated: "2026-11-08T12:23:59-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 pedagogy: [problem-based-learning, productive-failure]

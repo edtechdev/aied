@@ -1,7 +1,7 @@
 ---
 title: Sensor and Gaze Analytics
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-10T21:15:00-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]

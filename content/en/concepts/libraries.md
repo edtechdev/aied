@@ -1,7 +1,7 @@
 ---
 title: "Libraries"
 created: "2026-11-05T03:45:00-05:00"
-updated: "2026-11-05T03:45:00-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy]
 technology: [generative-ai, llm, recommender-systems-and-learning-paths, knowledge-graph]

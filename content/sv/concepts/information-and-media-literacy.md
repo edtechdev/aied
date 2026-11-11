@@ -10,9 +10,9 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-05T05:20:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -28,10 +28,10 @@ ai_assist:
 
 ## Frågor att fundera över
 
-- När en chattbot returnerar en självsäker paragraf med tre citeringar, utövar eleven då informationskunnighet, mediekunnighet eller ingetdera — och gör uppgiften den distinktionen synlig?
-- Deepfakes och fabricerade citeringar är olika slags fel: det ena är en falsk registrering av världen, det andra en falsk registrering av litteraturen. Kan en kurs lära ut båda utan att lära ut vardera dåligt?
-- AI-detektorer och faktagranskare är själva modeller med felfrekvenser. Vad händer med en verifieringsläroplan när verifieringsverktyget är probabilistiskt?
-- Mediekunnighet har undervisats genom produktion — elever gör medier för att förstå dem. Om en modell nu gör artefakten, vilken del av pedagogiken överlever?
+- När en [[conversational-ai|chattbot]] returnerar en självsäker paragraf med tre citeringar, utövar eleven då informationskunnighet, mediekunnighet eller ingetdera — och gör uppgiften den distinktionen synlig?
+- [[ai-avatars-and-synthetic-instructors|Deepfakes]] och fabricerade citeringar är olika slags fel: det ena är en falsk registrering av världen, det andra en falsk registrering av litteraturen. Kan en kurs lära ut båda utan att lära ut vardera dåligt?
+- AI-detektorer och faktagranskare är själva modeller med felfrekvenser. Vad händer med en [[curriculum-design|verifieringsläroplan]] när verifieringsverktyget är probabilistiskt?
+- Mediekunnighet har undervisats genom produktion — elever gör medier för att förstå dem. Om en modell nu gör artefakten, vilken del av [[pedagogy|pedagogiken]] överlever?
 
 ## Introduktion
 
@@ -39,13 +39,13 @@ De två kunnigheterna har separata institutionella hem. Informationskunnighet ko
 
 Den uppdelningen har alltid varit renare i teorin än i ett klassrum. Båda kunnigheterna lär elever att sakta ner, kontrollera proveniens och stå emot flyt. Båda byggdes på antagandet att artefakten hade en författare som betalade ett pris för att producera den. Generativ AI tar bort det antagandet från båda på en gång: text syntetiseras ur en ospårbar korpus, bilder och röster klonas, och automatiserade konton simulerar publiken själv.
 
-Denna sida täcker paret eftersom korpusen behandlar dem som ett undervisningsproblem med två utfallsuppsättningar. Evidensen är ojämn — en bibliometrisk karta och två systematiska genomgångar på informationssidan, en liten intervention och en expertintervjustudie på mediesidan — och nästan ingen av dem prövar en kombinerad läroplan. Den frånvaron är i sig ett fynd värt att bära med sig i praktiken.
+Denna sida täcker paret eftersom korpusen behandlar dem som ett undervisningsproblem med två utfallsuppsättningar. Evidensen är ojämn — en bibliometrisk karta och två [[meta-analysis-systematic-review|systematiska genomgångar]] på informationssidan, en liten intervention och en expertintervjustudie på mediesidan — och nästan ingen av dem prövar en kombinerad läroplan. Den frånvaron är i sig ett fynd värt att bära med sig i praktiken.
 
 ## Där de två konstrukten skiljer sig
 
 Informationskunnighetens objekt är källan, och dess kärnfråga är om påståendet är sant och evidensen bakom det trovärdig. Mediekunnighetens objekt är budskapet, och dess kärnfråga är vem som skapade det, hur, för vem och i vilket syfte. En fabricerad citering fallerar det första testet; en deepfake kan klara varje faktakontroll en elev kan utföra medan den fallerar det andra.
 
-Den empiriska litteraturen återspeglar uppdelningen. En enkät med 236 amerikanska universitetsstudenter frågade var akademiska sökningar börjar och fann sökmotorer på 45,5%, bibliotekets startsida på 27,9% och en AI-chattbot på 26,6%, där internationella studenter ersatte biblioteksresurser med AI i ungefär dubbelt så hög grad som inhemska ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund m.fl., 2026]]). En systematisk genomgång av 32 studier fann att integration av AI-kompetens i informationskunnighetsundervisning befann sig i ett "spädbarnsstadium", levererad via LibGuides och workshoppar snarare än läroplan ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza och Arif, 2026]]). På mediesidan fann intervjuer med sju experter och en enkät med 141 elever att teknikinslag i läroplanen för kritisk mediekunnighet var "begränsade och ofta ytliga", med lärare underutbildade för verktyg som producerar desinformation och deepfakes ([[critical-media-literacy-education-2026|den kritiska mediekunnighetsstudien, 2026]]).
+Den empiriska litteraturen återspeglar uppdelningen. En enkät med 236 amerikanska universitetsstudenter frågade var akademiska sökningar börjar och fann sökmotorer på 45,5%, bibliotekets startsida på 27,9% och en AI-chattbot på 26,6%, där internationella studenter ersatte biblioteksresurser med AI i ungefär dubbelt så hög grad som inhemska ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund m.fl., 2026]]). En systematisk genomgång av 32 studier fann att integration av [[ai-literacy|AI-kompetens]] i informationskunnighetsundervisning befann sig i ett "spädbarnsstadium", levererad via LibGuides och workshoppar snarare än läroplan ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza och Arif, 2026]]). På mediesidan fann intervjuer med sju experter och en enkät med 141 elever att teknikinslag i läroplanen för kritisk mediekunnighet var "begränsade och ofta ytliga", med lärare underutbildade för verktyg som producerar desinformation och deepfakes ([[critical-media-literacy-education-2026|den kritiska mediekunnighetsstudien, 2026]]).
 
 ## Hur AI komplicerar informationskunnigheten
 
@@ -59,11 +59,11 @@ Den tredje är kapacitet. I en enkät med 412 akademiska bibliotekarier vid 38 n
 
 Mediekunnighetens grundfrågor antog en skapare med ett syfte. Deepfakes, röstkloning och automatiserade botar bryter det antagandet på tre sätt: artefakten kan sakna en mänsklig författare, publiken kan vara syntetisk, och avsikten kan vara optimering för engagemang snarare än övertalning av någon.
 
-Läroplansbevisen tyder på att skolorna inte har hunnit ikapp. Expertintervjuerna beskriver lärarutbildning som den bindande begränsningen snarare än elevmotstånd, och argumenterar för en [[critical-pedagogy]]-inramning som behandlar utvärdering som etisk och deltagande praktik i stället för verktygsträning. En beställd rapport för public service-medier fann att utbudet för 14–19-åringar lutade mot funktionella AI-färdigheter och bort från kritisk utvärdering, trots en genomgång av mer än 40 ramverk och intervjuer med 35 experter ([[ai-literacies-young-adults-2025|AI Literacies-rapporten, 2025]]).
+Läroplansbevisen tyder på att skolorna inte har hunnit ikapp. Expertintervjuerna beskriver [[teacher-education|lärarutbildning]] som den bindande begränsningen snarare än elevmotstånd, och argumenterar för en [[critical-pedagogy]]-inramning som behandlar utvärdering som etisk och deltagande praktik i stället för verktygsträning. En beställd rapport för public service-medier fann att utbudet för 14–19-åringar lutade mot funktionella AI-färdigheter och bort från kritisk utvärdering, trots en genomgång av mer än 40 ramverk och intervjuer med 35 experter ([[ai-literacies-young-adults-2025|AI Literacies-rapporten, 2025]]).
 
 ## AI som defensivt verktyg — anspråk och förbehåll
 
-Argumentet för att använda AI på den defensiva sidan är rimligt och framförs brett: automatiserade trovärdighetskontroller som skannar en källas historia och språk efter biassignaler, deepfake-detektorer, metadataanalysatorer som letar efter proveniensmarkörer och simuleringar som låter elever öva utvärdering på realistiskt syntetiskt material. Dessa förmågor är verkliga produkter, och klassrumsanvändningen är verklig praktik.
+Argumentet för att använda AI på den defensiva sidan är rimligt och framförs brett: automatiserade trovärdighetskontroller som skannar en källas historia och språk efter biassignaler, deepfake-detektorer, metadataanalysatorer som letar efter proveniensmarkörer och [[simulation|simuleringar]] som låter elever öva utvärdering på realistiskt syntetiskt material. Dessa förmågor är verkliga produkter, och klassrumsanvändningen är verklig praktik.
 
 Evidensen är tunnare än påståendena. Detektorer är probabilistiska och försämras i takt med att generatorerna blir bättre; en faktagranskningsmodell är själv en modell, så eleven måste fortfarande bedöma granskaren; och proveniensmetadata hjälper bara när en producent väljer att bifoga den. Ett av korpusens säkraste resultat är att AI-stödd mediekunnighetsundervisning kan fungera i liten skala: ett 18-timmarsprogram byggt på 5E-modellen gav stora vinster bland 36 fjärdeklassare i en turkisk skola ([[demir-akar-ai-media-literacy-children-2026|Demir och Akar, 2026]]). Trettiosex elever är ett konceptbevis, inte ett upphandlingsunderlag.
 
@@ -81,7 +81,7 @@ Lästa tillsammans antyder de två sidorna av räkenskapen en regel: AI kan bär
 
 ## Evidensens begränsningar
 
-De flesta studier här är små, självrapporterade eller både och: 236 elever i en enkät, 36 barn i en intervention, 412 bibliotekarier som skattar sig själva. Bibliometrisk synlighet är inte praktik, och de scientometriska författarna säger det explicit. Ingen studie i korpusen utvärderar en kombinerad läroplan för informations- och mediekunnighet, och de detektor- och faktagranskningsverktyg som praktiklitteraturen rekommenderar är i stort sett omätta i dessa källor. Påståendet att AI-driven verifiering förbättrar utfallen bör behandlas som en designhypotes tills någon prövar den mot en kontroll.
+De flesta studier här är små, [[self-report-measures|självrapporterade]] eller både och: 236 elever i en enkät, 36 barn i en intervention, 412 bibliotekarier som skattar sig själva. Bibliometrisk synlighet är inte praktik, och de scientometriska författarna säger det explicit. Ingen studie i korpusen utvärderar en kombinerad läroplan för informations- och mediekunnighet, och de detektor- och faktagranskningsverktyg som praktiklitteraturen rekommenderar är i stort sett omätta i dessa källor. Påståendet att AI-driven verifiering förbättrar utfallen bör behandlas som en designhypotes tills någon prövar den mot en kontroll.
 
 ## Anslutna begrepp
 

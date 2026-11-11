@@ -1,7 +1,7 @@
 ---
 title: "Open Education"
 created: "2026-10-28T18:40:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
