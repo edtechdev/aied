@@ -1,7 +1,7 @@
 ---
 title: "Information and Media Literacy"
 created: "2026-11-05T05:20:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-11T15:40:00-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy, critical-thinking, academic-integrity]
 pedagogy: [critical-pedagogy]
@@ -55,6 +55,8 @@ The third is capacity. In a survey of 412 academic librarians across 38 Nigerian
 
 Media literacy's founding questions assumed a maker with a purpose. Deepfakes, voice cloning and automated bots break that assumption in three ways: the artifact may have no human author, the audience may be synthetic, and the intent may be optimization for engagement rather than persuasion by anyone.
 
+**Personalized argument is the current persuasion threat model.** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi et al. (2025)]] randomized 900 US adults to ten-minute online debates against a human or GPT-4, with or without six ordinary demographic fields. Unpersonalized GPT-4 was statistically indistinguishable from a human opponent, while personalized GPT-4 raised the odds of post-debate agreement by 81.2% and was more persuasive 64.4% of the time. Participants identified an AI opponent in about three of four debates yet shifted further when they believed the opponent was AI, so source detection did not work as inoculation. The manipulation was invisible in the prose: style measures differed little between conditions, locating the advantage in which arguments were chosen rather than how they were written.
+
 The curriculum evidence suggests schools have not caught up. The expert interviews describe [[teacher-education|teacher training]] as the binding constraint rather than student resistance, and argue for a [[critical-pedagogy]] framing that treats evaluation as ethical and participatory practice instead of tool training. A commissioned report for public service media found provision for 14–19-year-olds tilting toward functional AI skills and away from critical evaluation, despite reviewing more than 40 frameworks and interviewing 35 experts ([[ai-literacies-young-adults-2025|the AI literacies report, 2025]]).
 
 ## AI as a defensive tool — claims and caveats
@@ -104,3 +106,4 @@ Most studies here are small, [[self-report-measures|self-reported]] or both: 236
 - [[critical-media-literacy-education-2026]] — Technology, education and critical media literacy: potential, challenges, and opportunities
 - [[demir-akar-ai-media-literacy-children-2026]] — Transforming clicks into critical thinking: An AI-based media literacy program for children
 - [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19
+- [[salvi-conversational-persuasiveness-gpt4-2025]] — Personalized GPT-4 beat human debaters; detection did not inoculate (Salvi et al. 2025)

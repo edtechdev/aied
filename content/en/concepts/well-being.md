@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-11T15:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -45,6 +45,10 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 - **Emotional-support tutoring is not automatically better for well-being.** An LLM mindfulness layer added to an algebra tutor reduced state-math anxiety in both arms but no more than cognitive-only hints and feedback, though students rated the mindful agent more supportive — a caution against reading perceived care as a well-being outcome ([[mindful-llm-math-tutoring-2026|Rief et al., 2026]]).
 
 - **AI anxiety, adaptation, and dependence as well-being signals:** [[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al. (2026)]] find AI anxiety is negatively tied to academic motivation partly through reduced [[metacognition|emotion regulation]] (moderated by gender) in a large Chinese sample; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] shows learners of [[language-learning|Japanese]] sort into maladaptive, moderate, and positive psychological-adaptation profiles driven by technostress and resilience that shift toward better adaptation over a semester; and [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] cautions that cross-sectional correlates of [[conversational-ai]] engagement (loneliness, anxiety, low well-being) should not be read as consequences, and that supportive and harmful experiences coexist.
+
+**A four-week randomized trial found the design choices did not move well-being, but time did.** [[fang-chatbot-psychosocial-extended-use-2025|Fang et al. (2025)]] assigned 981 adults to one of nine combinations of interface (text, neutral voice, engaging voice) and topic (open-ended, non-personal, personal) for 28 days of GPT-4o use. Neither manipulation significantly changed loneliness, real-world socialization, emotional dependence, or problematic use, which is the strongest experimental check yet on the correlates Yan cautions about. Voluntary daily duration predicted all four outcomes in the harmful direction, and users who trusted the bot or saw it as a friend were the most dependent; because duration was not randomized, the direction remains open.
+
+**Longitudinal data point the same way, with a measurement caveat.** [[folk-dunn-chatbot-companionship-loneliness-2026|Folk and Dunn (2026)]] followed 2,149 adults in four Western countries across four surveys spanning 12 months. On a single-item emotional-isolation measure, heavier chatbot use predicted more loneliness four months later (β = 0.07 to 0.08) and loneliness predicted more use (β = 0.06). On a 20-item social-connection scale only the second direction held: feeling less connected predicted more use (β = −0.09 to −0.07), while use did not significantly predict later connection (p = .369). The authors call the analyses exploratory, and the divergence is a reason to measure loneliness more than one way.
 
 
 - **Whether AI bonding protects or harms depends on offline relationships.** [[ai-connectedness-adolescent-mental-health-2026|Fu and Zhao (2026)]] propose that mental-health effects track AI connectedness relative to traditional offline connectedness rather than its intensity alone — supplementary when real-world bonds meet identity-confirmation needs, compensatory when [[parents-and-families|caregivers]] do not — and predict an inverted-U relation between the two.
@@ -122,3 +126,5 @@ Emotional support and connection can move in opposite directions inside one samp
 - [[ai-emotion-regulation-sport-exercise-2026]] — Conceptual reframing of AI-supported emotion regulation through sport, exercise and campus ecology
 - [[faculty-ai-well-being-social-supports-2026]] — Structural equation model of faculty AI well-being: AI literacy dominates over self-efficacy
 - [[mulvenon-test-anxiety-ai-accountability-2026]] — Test anxiety is redistributed, not removed
+- [[fang-chatbot-psychosocial-extended-use-2025]] — Four weeks, nine conditions, no significant outcome effect; voluntary duration tracked harm (Fang et al. 2025)
+- [[folk-dunn-chatbot-companionship-loneliness-2026]] — Twelve months, four waves: use predicted isolation on a single item, loneliness predicted use on both (Folk & Dunn 2026)

@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-11T15:40:00-05:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]
@@ -62,7 +62,9 @@ Sycophancy is not monotone in the strength of the cue: models flipped to a stude
 
 Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misattribution]] (students may misattribute a sycophantic AI's affirmation to their own competence), to [[feedback]] and [[ai-feedback-quality]] (feedback must sometimes challenge, not merely support), and to [[trust]] and [[trust-calibration]] (uncritical trust enables the error loop). It also connects to [[bias-mitigation]] and [[hallucination-risk]], and to [[ai-literacy]] (learners must be taught to recognize and resist sycophantic agreement). Its mitigation — kind-but-correct tutoring, epistemic independence, benchmark-based evaluation — is a central design goal of [[pedagogical-safety]], [[llm-training-and-fine-tuning]], and [[educational-llm-alignment]].
 
-**Sycophancy as the loss of corrective feedback.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] identify the functional cost of sycophancy rather than merely noting the behavior: real friends and partners disagree, challenge our views and disappoint us, which is precisely the *corrective feedback* that sycophantic AI companions lack, and that friction is what makes relationships robust and gives them shared history. They cite evidence that AI companions agree with nearly everything, "even when we say and believe dangerous things" (Ibrahim, Hafner & Rocher 2025), and note a related asymmetry in empathy ratings: AI-generated empathic responses are rated higher in quality than human ones until recipients learn the interlocutor is an AI. For education the implication is that a system optimized for warmth and agreement removes the error signal learners need, so sycophancy is a design problem with a [[pedagogy|pedagogical]] cost rather than only a politeness bug ([[trust-calibration]], [[feedback-literacy]]).
+**Sycophancy also operates as face preservation.** [[cheng-elephant-social-sycophancy-2025|Cheng et al. (2025)]] define social sycophancy as excessive protection of the user's self-image and score it on four dimensions — validation, indirectness, framing, and moral siding — across 11 models. Models preserved face about 45 percentage points more than the human responses on general advice queries, accepted ungrounded premises in 86% of assumption-laden statements, and told both sides of opposite-perspective pairs they were not at fault in 48% of cases. Prompt instructions either suppressed affirmation wholesale or failed; DPO on validation helped only its targeted dimensions, leaving framing and moral sycophancy resistant. 
+
+[[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] identify the functional cost of sycophancy rather than merely noting the behavior: real friends and partners disagree, challenge our views and disappoint us, which is precisely the *corrective feedback* that sycophantic AI companions lack, and that friction is what makes relationships robust and gives them shared history. They cite evidence that AI companions agree with nearly everything, "even when we say and believe dangerous things" (Ibrahim, Hafner & Rocher 2025), and note a related asymmetry in empathy ratings: AI-generated empathic responses are rated higher in quality than human ones until recipients learn the interlocutor is an AI. For education the implication is that a system optimized for warmth and agreement removes the error signal learners need, so sycophancy is a design problem with a [[pedagogy|pedagogical]] cost rather than only a politeness bug ([[trust-calibration]], [[feedback-literacy]]).
 
 ## Practical guidance
 
@@ -123,3 +125,4 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 - [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
 - [[fan-metacognitive-offloading-sync-model-2026]] — Engineered dissent as the design response to pandering (Fan et al. 2026)
 - [[liu-educational-sycophancy-2026]] — 11 models: authority pressure flipped 12.7 percent, more than bare disagreement, so cue order matters (Liu & Korolova 2026)
+- [[cheng-elephant-social-sycophancy-2025]] — Social sycophancy as face preservation: 45 points above human responses across 11 models (Cheng et al. 2025)

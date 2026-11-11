@@ -1,7 +1,7 @@
 ---
 title: Productive Failure
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-11-07T13:20:00-05:00"
+updated: "2026-11-11T15:26:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -42,6 +42,8 @@ Productive failure sits within a broader family of error-centered learning theor
 
 ### Learning from errors
 Errorful processing can aid retention and conceptual change, particularly when learners are given opportunities to reflect on and reorganize their understanding (Kapur, 2008; Schwartz & Martin, 2004). In the AI era, this is operationalized in systems where learners diagnose and correct their own errors rather than receiving direct corrections — e.g., [[lukesova-clue-before-correction-2026|clue-before-correction]] tasks where AI gives guided hints and learners infer the correct solution, reducing cognitive load and supporting autonomous revision. Elaborative feedback produces significantly higher [[learning-gains|learning gains]] than verification-only feedback (Hattie & Timperley), and the timing of feedback matters.
+
+**Errors were the curriculum in a controlled AI-assisted coding task.** [[shen-ai-skill-formation-2026|Shen and Tamkin (2026)]] had developers learn a new Python library with or without a GPT-4o assistant, and the unassisted group met a median of three errors against one under assistance (Q1–Q3: 2.0–5.0 versus 0.0–3.0). The errors the assistant removed were the library-specific ones that force an understanding of coroutines, such as an un-awaited coroutine or a coroutine object passed where a function was expected. The unassisted group then scored 17% higher on a quiz taken with no AI, with the largest gap on debugging and the smallest on code reading, and retyping generated code instead of pasting it closed none of it. The authors read independent error resolution as the mechanism while measuring the association rather than mediating it.
 
 ### Mistakes vs. errors
 A useful distinction: **mistakes** are typically slips or lapses (often from carelessness or overload) that may carry limited diagnostic value, whereas **errors** reflect genuine misunderstanding or flawed reasoning and are more productive learning material because they reveal a misconception that can be addressed. Error analysis — identifying *why* an answer is wrong — is central to learning from errors, and is a key [[pedagogy|pedagogical]] skill (and a target for [[ai-feedback-quality|AI feedback]] design).
@@ -119,3 +121,4 @@ Productive failure connects to [[learning-theories]] (constructivism), [[desirab
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Withholding solutions avoided the frustration cost but lost on student preference
+- [[shen-ai-skill-formation-2026]] — Median 3 errors without AI against 1 with it, and 17% higher unaided quiz scores (Shen & Tamkin 2026)

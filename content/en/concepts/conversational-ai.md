@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-11T15:52:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -43,6 +43,8 @@ Conversational agents are used to grade, and their evaluative behavior diverges 
 **The role the agent plays shapes the interaction.** CAI design is not neutral about its persona: [[liao-role-adaptive-ai-companion-book-talk-2026|Liao (2026)]] found a fixed "student peer" companion in elementary book talk sustained longer interactions yet dominated the conversation (lower student word/sentence share) and hit an "affective ceiling" — matching a human teacher on factual recall but falling short on emotional and future-oriented reflection — arguing CAI should adapt its role (peer, teacher assistant, parent advisor) rather than stay monolithic. [[xu-genai-collaborative-space-2026|Xu et al.]] extend this to small groups, showing generative AI acts as both an *agent* and a *collaborative space* in synchronous and asynchronous collaborative dynamics, where the interaction design decides whether it scaffolds or supplants group cognition. Tone can also be set by an external classifier rather than by the conversation alone: [[culturally-aware-student-stress-chatbot-2026|Sukoon (Bashir & Afzal, 2026)]] trains a Random Forest on 20 survey features to assign a low, moderate, or high stress level, and that output selects one of three response tiers inspired by the Stepped Care Model — warm and encouraging at low stress, grounding and non-judgmental at high stress — before an [[open-source]] LLM (GLM-4.5-Air via OpenRouter) takes over the dialogue with the full conversation history and a culturally adapted system prompt re-sent on every turn. The authors chose a free-access [[multilingual-learning|multilingual]] model deliberately to keep deployment feasible in regional universities, and note that Urdu appears through prompt engineering rather than a genuinely bilingual pipeline — a limitation that matters whenever cultural appropriateness is claimed as a system property rather than an evaluated outcome.
 
 **Conversational behavior tracks the provider, not the tuning.** Across 1,971 AI and 135 human transcripts scored on six fixed rules drawn from [[learning-sciences|the learning sciences]], models from the same provider clustered together with no overlap between family ranges, which the authors read as teaching behavior following provider-wide training practices rather than individual model tuning ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
+
+**Interface modality changed the conversation without changing the outcome.** [[fang-chatbot-psychosocial-extended-use-2025|Fang et al. (2025)]] randomized 981 adults to text, a neutral voice, or an emotionally engaging voice for four weeks of daily GPT-4o use, crossed with open-ended, non-personal, or personal topics. No condition significantly moved loneliness, real-world socialization, emotional dependence, or problematic use; the engaging voice was rated most anthropomorphic yet produced more loneliness and less dependence, and text produced the most emotional content and self-disclosure in both directions. Voluntary time, not the assigned design, tracked harm, which argues that voice and persona choices shape the exchange while duration shapes the consequence.
 
 
 Response consistency is an infrastructure problem, not a prompting one: within-model reply similarity ran 0.715–0.795 against 0.443–0.604 between models, and adding chat history changed reply content even for the same focal message ([[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]]).
@@ -129,6 +131,7 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
+- [[fang-chatbot-psychosocial-extended-use-2025]] — Text, neutral voice and engaging voice over four weeks: modality changed the exchange, not the psychosocial outcome (Fang et al. 2025)
 
 ## Citation
 
