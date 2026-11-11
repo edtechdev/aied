@@ -1,7 +1,7 @@
 ---
 title: מחקר חינוכי בסיוע בינה מלאכותית
 created: "2026-10-12T20:15:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -28,7 +28,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-08T08:41:46-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 
 

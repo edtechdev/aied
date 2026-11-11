@@ -1,7 +1,7 @@
 ---
 title: "オープンな教育"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,7 +13,7 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -61,7 +61,7 @@ ai_assist:
 
 ### オープンな教授法と実践への転回
 
-オープンな教授法は、学生を消費者から寄与者へと移します。課題は、公開され、ライセンスされ、再利用可能な何かを生み出します。[[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]] は、この考え方に対してこの分野で最も明快な検証を与えています。[[early-childhood-elementary-ai-education|子ども発達]]の入門コースの二つのクラスが同じ教科書を更新し、そのうち一つは生成 AI ツールを用いました。113 件の課題を通じて、両クラスの学生はいずれも情報リテラシーの技能が伸びたと報告し、その伸びは統計的に区別できませんでした。時点の効果が F(1, 84) = 47.30, p < 0.001, partial η2 = 0.36 であるのに対し、時点とクラスの交互作用は F(1, 84) = 0.04, p = 0.85 でした。AI を使ったクラスはより多くの作業を完了し、得点はわずかに低く、180 点満点で 174.73 対 173.86 でした。
+オープンな教授法は、学生を消費者から寄与者へと移します。課題は、公開され、ライセンスされ、再利用可能な何かを生み出します。[[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]] は、この考え方に対してこの分野で最も明快な検証を与えています。[[early-childhood-elementary-ai-education|子ども発達]]の入門コースの二つのクラスが同じ教科書を更新し、そのうち一つは生成 AI ツールを用いました。113 件の課題を通じて、両クラスの学生はいずれも[[information-and-media-literacy|情報リテラシー]]の技能が伸びたと報告し、その伸びは統計的に区別できませんでした。時点の効果が F(1, 84) = 47.30, p < 0.001, partial η2 = 0.36 であるのに対し、時点とクラスの交互作用は F(1, 84) = 0.04, p = 0.85 でした。AI を使ったクラスはより多くの作業を完了し、得点はわずかに低く、180 点満点で 174.73 対 173.86 でした。
 
 実践には、それ自体の成熟度に関する文献があります。[[duan-open-educational-practices-evolution-2026|Duan (2026)]] は 540 件の記録を [[meta-analysis-systematic-review|PRISMA]] 2020 の下でオープンな教育実践の 14 のモデルに絞り込み、三つの次元で比較し、生成 AI は確立されたモデルを置き換えるのではなくその下に位置するという結論に達しました。この論点は [[tpack]] に対して位置づけられています。[[ahmadfard-interactive-oer-review-2026|Ahmadfard (2026)]] は、1970 年から始まる構造化レビューの中で、双方向性について同様の結論に達しています。双方向的な機能は実証された効果というよりも設計上の論拠であり、報告されている最も強い効果量は OER の中で測定されたものではなく、先行する[[physics-education|物理教育]]の研究から借りたものです。
 

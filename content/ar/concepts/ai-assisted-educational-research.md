@@ -13,7 +13,7 @@ page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-08T08:41:46-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

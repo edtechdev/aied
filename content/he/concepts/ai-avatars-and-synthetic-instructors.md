@@ -1,7 +1,7 @@
 ---
 title: אווטארים של בינה מלאכותית ומדריכים סינתטיים
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -13,7 +13,7 @@ level: [higher ed, teacher education]
 audience: [instructors, instructional designers]
 confidence: medium
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:

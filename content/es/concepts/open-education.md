@@ -1,7 +1,7 @@
 ---
 title: "Educación abierta"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,7 +13,7 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,7 +61,7 @@ El argumento institucional a favor de la apertura es también un argumento de au
 
 ### La pedagogía abierta y el giro hacia la práctica
 
-La pedagogía abierta desplaza al estudiantado de consumidor a colaborador: la tarea produce algo que se publica, se licencia y se reutiliza. [[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]] ofrece la prueba más limpia de la idea en este campo. Dos secciones de un curso introductorio de [[early-childhood-elementary-ai-education|desarrollo infantil]] actualizaron el mismo manual, una de ellas con herramientas de IA generativa. En 113 tareas, el estudiantado de ambas secciones informó de más competencia en alfabetización informacional, y la ganancia fue estadísticamente indistinguible: un efecto del tiempo de F(1, 84) = 47.30, p < 0.001, η2 parcial = 0.36, frente a una interacción tiempo por sección de F(1, 84) = 0.04, p = 0.85. La sección con IA completó más trabajo y obtuvo puntuaciones algo inferiores, 174,73 frente a 173,86 sobre 180.
+La pedagogía abierta desplaza al estudiantado de consumidor a colaborador: la tarea produce algo que se publica, se licencia y se reutiliza. [[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]] ofrece la prueba más limpia de la idea en este campo. Dos secciones de un curso introductorio de [[early-childhood-elementary-ai-education|desarrollo infantil]] actualizaron el mismo manual, una de ellas con herramientas de IA generativa. En 113 tareas, el estudiantado de ambas secciones informó de más competencia en [[information-and-media-literacy|alfabetización informacional]], y la ganancia fue estadísticamente indistinguible: un efecto del tiempo de F(1, 84) = 47.30, p < 0.001, η2 parcial = 0.36, frente a una interacción tiempo por sección de F(1, 84) = 0.04, p = 0.85. La sección con IA completó más trabajo y obtuvo puntuaciones algo inferiores, 174,73 frente a 173,86 sobre 180.
 
 La práctica tiene su propia literatura de madurez. [[duan-open-educational-practices-evolution-2026|Duan (2026)]] cribó 540 registros hasta catorce modelos de práctica educativa abierta conforme a [[meta-analysis-systematic-review|PRISMA]] 2020, los comparó en tres dimensiones y concluyó que la IA generativa se sitúa bajo los modelos consolidados en vez de desplazarlos, argumento que el artículo ubica frente al [[tpack|TPACK]]. [[ahmadfard-interactive-oer-review-2026|Ahmadfard (2026)]] llega a una conclusión parecida sobre la interactividad en una revisión estructurada que arranca en 1970: los elementos interactivos son más un argumento de diseño que un efecto demostrado, y los tamaños de efecto más altos que reporta proceden de trabajos previos de [[physics-education|didáctica de la física]], no de mediciones en REA.
 

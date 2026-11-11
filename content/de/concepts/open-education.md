@@ -1,7 +1,7 @@
 ---
 title: "Offene Bildung"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,7 +13,7 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -61,7 +61,7 @@ Die institutionelle Begründung für Offenheit wird auch über Autonomie geführ
 
 ### Offene Pädagogik und die Wende zur Praxis
 
-Offene Pädagogik verschiebt Studierende von Konsumierenden zu Beitragenden: Eine Aufgabe erzeugt etwas, das veröffentlicht, lizenziert und wiederverwendbar ist. [[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]] liefert den saubersten Test dieser Idee im Feld. Zwei Gruppen eines Einführungskurses zur [[early-childhood-elementary-ai-education|kindlichen Entwicklung]] aktualisierten dasselbe Lehrbuch, eine davon mit generativen KI-Werkzeugen. Über 113 Aufgaben hinweg berichteten Studierende beider Gruppen von wachsender Informationskompetenz, und der Zuwachs war statistisch nicht unterscheidbar: ein Zeiteffekt von F(1, 84) = 47.30, p < 0.001, partielles η2 = 0.36, gegenüber einer Interaktion von Zeit und Gruppe von F(1, 84) = 0.04, p = 0.85. Die KI-Gruppe erledigte mehr Arbeit und erreichte etwas niedrigere Werte, 174.73 gegenüber 173.86 von 180.
+Offene Pädagogik verschiebt Studierende von Konsumierenden zu Beitragenden: Eine Aufgabe erzeugt etwas, das veröffentlicht, lizenziert und wiederverwendbar ist. [[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]] liefert den saubersten Test dieser Idee im Feld. Zwei Gruppen eines Einführungskurses zur [[early-childhood-elementary-ai-education|kindlichen Entwicklung]] aktualisierten dasselbe Lehrbuch, eine davon mit generativen KI-Werkzeugen. Über 113 Aufgaben hinweg berichteten Studierende beider Gruppen von wachsender [[information-and-media-literacy|Informationskompetenz]], und der Zuwachs war statistisch nicht unterscheidbar: ein Zeiteffekt von F(1, 84) = 47.30, p < 0.001, partielles η2 = 0.36, gegenüber einer Interaktion von Zeit und Gruppe von F(1, 84) = 0.04, p = 0.85. Die KI-Gruppe erledigte mehr Arbeit und erreichte etwas niedrigere Werte, 174.73 gegenüber 173.86 von 180.
 
 Die Praxis hat ihre eigene Reifeliteratur. [[duan-open-educational-practices-evolution-2026|Duan (2026)]] sichtete 540 Datensätze und engte sie auf 14 Modelle offener Bildungspraxis unter [[meta-analysis-systematic-review|PRISMA 2020]] ein, verglich sie auf drei Dimensionen und schloss, dass generative KI unter etablierten Modellen liegt, statt sie zu verdrängen; dieses Argument verortet der Aufsatz gegen [[tpack|TPACK]]. [[ahmadfard-interactive-oer-review-2026|Ahmadfard (2026)]] kommt in einem strukturierten Review ab 1970 zu einem ähnlichen Schluss über Interaktivität: Interaktive Merkmale sind eher ein Designargument als ein nachgewiesener Effekt, und die stärksten von ihm berichteten Effektstärken sind aus früherer [[physics-education|physikdidaktischer]] Arbeit entlehnt und nicht in OER gemessen.
 

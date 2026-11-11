@@ -1,7 +1,7 @@
 ---
 title: "Bibliotecas"
 created: "2026-11-08T16:20:00-05:00"
-updated: "2026-11-08T16:20:00-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy]
 technology: [generative-ai, llm, recommender-systems-and-learning-paths, knowledge-graph]
@@ -14,7 +14,7 @@ page_kind: [synthesis]
 confidence: medium
 connected_resources: [public-ai-libraries]
 translation_of: concepts/libraries
-source_updated: "2026-11-05T03:45:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -30,10 +30,10 @@ ai_assist:
 
 ## Perguntas para refletir
 
-- Um balcão de referência antes respondia à pergunta factual. Quando um chatbot a responde em segundos, para que serve o serviço — e o que deveria estar fazendo a equipe que o operava?
+- Um balcão de referência antes respondia à pergunta factual. Quando um [[conversational-ai|chatbot]] a responde em segundos, para que serve o serviço — e o que deveria estar fazendo a equipe que o operava?
 - As revisões sistemáticas encontram a adoção de IA concentrada em referência e catalogação, enquanto o financiamento é a barreira mais citada. A restrição decisiva é dinheiro, competência da equipe ou a ausência de uma decisão sobre para que serve a biblioteca?
 - Os sistemas de biblioteca enxergam toda uma população que uma ferramenta de curso nunca vê: quem empresta, quem não empresta, membros da comunidade. Isso faz da biblioteca o lugar certo para abrigar acesso público à IA, ou o lugar errado para concentrar vigilância?
-- O letramento em IA e o letramento informacional são ambos ensinados por bibliotecários e ambos carecem de uma avaliação consolidada. Uma biblioteca deveria fundi-los em um único programa, ou manter os referenciais distintos?
+- O [[ai-literacy|letramento em IA]] e o letramento informacional são ambos ensinados por bibliotecários e ambos carecem de uma avaliação consolidada. Uma biblioteca deveria fundi-los em um único programa, ou manter os referenciais distintos?
 
 ## Introdução
 
@@ -43,23 +43,23 @@ A página é deliberadamente distinta de [[librarians]], que trata das pessoas e
 
 ## Como a IA entra nas operações da biblioteca
 
-Uma revisão sistemática de 29 estudos publicados entre 2020 e 2024 organiza a adoção de IA em seis dimensões — serviços técnicos, serviços de referência e informação, serviços administrativos e circulação, desenvolvimento de coleções, letramento informacional e educação de usuários, e desenvolvimento profissional e colaboração — e encontra o centro de gravidade na referência: a IA para responder a perguntas direcionais e de referência rápida aparece em 34,48% dos estudos revisados, com catalogação e referência transcrita de chat vindo em seguida, com 27,58% cada ([[ayinde-ai-academic-libraries-systematic-review-2026|Ayinde, Ebiefung e Oladokun, 2026]]). A mesma revisão registra o que a literatura de adoção costuma suavizar: o financiamento é nomeado como barreira crítica em 48,28% dos estudos, lacunas de competência técnica e baixa qualidade de dados em 58,62%, e medo de perda do emprego em 13,79%.
+Uma [[meta-analysis-systematic-review|revisão sistemática]] de 29 estudos publicados entre 2020 e 2024 organiza a adoção de IA em seis dimensões — serviços técnicos, serviços de referência e informação, serviços administrativos e circulação, desenvolvimento de coleções, letramento informacional e educação de usuários, e [[educational-development|desenvolvimento profissional]] e colaboração — e encontra o centro de gravidade na referência: a IA para responder a perguntas direcionais e de referência rápida aparece em 34,48% dos estudos revisados, com catalogação e referência transcrita de chat vindo em seguida, com 27,58% cada ([[ayinde-ai-academic-libraries-systematic-review-2026|Ayinde, Ebiefung e Oladokun, 2026]]). A mesma revisão registra o que a literatura de adoção costuma suavizar: o financiamento é nomeado como barreira crítica em 48,28% dos estudos, lacunas de competência técnica e baixa qualidade de dados em 58,62%, e medo de perda do emprego em 13,79%.
 
 A distribuição importa porque descreve uma biblioteca automatizando as partes do seu trabalho que já eram transacionais — a pergunta direcional, o registro de catálogo, a transcrição de chat — enquanto o trabalho que exige julgamento permanece humano. Isso é consistente com a evidência instrucional em outras partes da base de conhecimento: uma bibliotecária embarcada consultada quando um recomendador estava menos confiante tratou sobretudo de questões de avaliação de fontes, não de questões de busca ([[ai-assisted-seminar-learning-information-literacy-2026|Huang, 2026]]).
 
 ## A camada de busca se desloca
 
-O sistema de descoberta da biblioteca já não é a única rota até o registro. Em uma pesquisa com 236 estudantes universitários dos Estados Unidos, os mecanismos de busca permaneceram dominantes para a recuperação acadêmica, mas a IA generativa havia se tornado uma fonte significativa, com estudantes mais jovens e internacionais mais propensos a usá-la e usuários intensivos mais satisfeitos com as respostas ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Os dados comportamentais complicam o autorrelato: em uma universidade chinesa, nove anos de registros de empréstimo cobrindo 3,2 milhões de transações não mostraram mudança de nível ou de tendência no ponto de ruptura da IA generativa em janeiro de 2023, ainda que uma pesquisa paralela com 368 estudantes tenha encontrado uso substitutivo de IA fracamente associado a uma menor intenção de continuar usando o impresso ([[huang-genai-academic-information-resources-2026|Huang et al., 2026]]). A leitura honesta é que o deslocamento é real na preferência declarada e desigual no comportamento, que é exatamente o tipo de lacuna que uma biblioteca está posicionada para medir e um curso não está.
+O sistema de descoberta da biblioteca já não é a única rota até o registro. Em uma pesquisa com 236 estudantes universitários dos Estados Unidos, os mecanismos de busca permaneceram dominantes para a recuperação acadêmica, mas a IA generativa havia se tornado uma fonte significativa, com estudantes mais jovens e internacionais mais propensos a usá-la e usuários intensivos mais satisfeitos com as respostas ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Os dados comportamentais complicam o [[self-report-measures|autorrelato]]: em uma universidade chinesa, nove anos de registros de empréstimo cobrindo 3,2 milhões de transações não mostraram mudança de nível ou de tendência no ponto de ruptura da IA generativa em janeiro de 2023, ainda que uma pesquisa paralela com 368 estudantes tenha encontrado uso substitutivo de IA fracamente associado a uma menor intenção de continuar usando o impresso ([[huang-genai-academic-information-resources-2026|Huang et al., 2026]]). A leitura honesta é que o deslocamento é real na preferência declarada e desigual no comportamento, que é exatamente o tipo de lacuna que uma biblioteca está posicionada para medir e um curso não está.
 
 ## Instrução, pessoal e a base de pesquisa
 
-As bibliotecas oferecem instrução sobre IA antes de terem um currículo para isso. Uma revisão sistemática de 32 estudos encontrou a integração passando por LibGuides, tutoriais, oficinas e módulos revisados, com 30 dos 32 estudos publicados em 2024 ou 2025 e 11 dos Estados Unidos ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza e Arif, 2026]]). Um mapa cientométrico de 1.669 publicações no mesmo período mostra o centro de gravidade do campo em um pequeno conjunto de periódicos de biblioteconomia, com o *Journal of Academic Librarianship* sendo tanto o veículo mais produtivo quanto o nó central da rede de cocitação de periódicos ([[jabeen-lux-ai-information-literacy-scientometric-2026|Jabeen e Lux, 2026]]). Nenhum dos mapas mostra a prática mudando; ambos mostram uma literatura crescendo mais rápido que a evidência de efeito.
+As bibliotecas oferecem instrução sobre IA antes de terem um [[curriculum-design|currículo]] para isso. Uma revisão sistemática de 32 estudos encontrou a integração passando por LibGuides, tutoriais, oficinas e módulos revisados, com 30 dos 32 estudos publicados em 2024 ou 2025 e 11 dos Estados Unidos ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza e Arif, 2026]]). Um mapa cientométrico de 1.669 publicações no mesmo período mostra o centro de gravidade do campo em um pequeno conjunto de periódicos de biblioteconomia, com o *Journal of Academic Librarianship* sendo tanto o veículo mais produtivo quanto o nó central da rede de cocitação de periódicos ([[jabeen-lux-ai-information-literacy-scientometric-2026|Jabeen e Lux, 2026]]). Nenhum dos mapas mostra a prática mudando; ambos mostram uma literatura crescendo mais rápido que a evidência de efeito.
 
-A capacidade da equipe é a restrição recorrente no trabalho de pesquisa: 412 bibliotecários acadêmicos de 38 instituições nigerianas foram estudados quanto às suas estratégias de engajamento de estudantes no letramento informacional e na instrução sobre IA, e o desenvolvimento de pessoal reaparece nas revisões como a intervenção que as bibliotecas pedem ([[dada-librarians-information-literacy-ai-nigeria-2026|Dada, 2026]]). A questão operacional não é se treinar a equipe, mas se o treinamento está vinculado a um serviço que a biblioteca decidiu oferecer.
+A capacidade da equipe é a restrição recorrente no trabalho de pesquisa: 412 bibliotecários acadêmicos de 38 instituições nigerianas foram estudados quanto às suas estratégias de [[student-engagement|engajamento de estudantes]] no letramento informacional e na instrução sobre IA, e o desenvolvimento de pessoal reaparece nas revisões como a intervenção que as bibliotecas pedem ([[dada-librarians-information-literacy-ai-nigeria-2026|Dada, 2026]]). A questão operacional não é se treinar a equipe, mas se o treinamento está vinculado a um serviço que a biblioteca decidiu oferecer.
 
 ## Acesso público como questão de IA
 
-A função mais antiga da biblioteca — oferecer acesso que os indivíduos não podem comprar — adquiriu um novo objeto. O piloto [[public-ai-libraries|Public AI Libraries]] instala uma estação de trabalho de IA compartilhada em bibliotecas públicas, dá a cada frequentador uma conta separada e cobra das bibliotecas participantes US$ 1.000 por quiosque por ano. Independentemente de o modelo se difundir, ele enuncia com precisão o argumento de equidade: em uma [[digital-divide|divisão digital]] que agora passa pela capacidade de IA, a biblioteca é a instituição capaz de fornecer acesso compartilhado e com equipe, em vez de uma assinatura por pessoa.
+A função mais antiga da biblioteca — oferecer acesso que os indivíduos não podem comprar — adquiriu um novo objeto. O piloto [[public-ai-libraries|Public AI Libraries]] instala uma estação de trabalho de IA compartilhada em bibliotecas públicas, dá a cada frequentador uma conta separada e cobra das bibliotecas participantes US$ 1.000 por quiosque por ano. Independentemente de o modelo se difundir, ele enuncia com precisão o [[equity-in-ai-education|argumento de equidade]]: em uma [[digital-divide|divisão digital]] que agora passa pela capacidade de IA, a biblioteca é a instituição capaz de fornecer acesso compartilhado e com equipe, em vez de uma assinatura por pessoa.
 
 ## O que isso significa para a prática
 

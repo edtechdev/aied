@@ -11,9 +11,9 @@ audience: [instructors, curriculum designers, researchers]
 level: [primary education, k 12, higher ed]
 connected_faqs: [ai-support-reading-comprehension]
 confidence: medium
-updated: "2026-11-07T20:28:56-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 translation_of: "concepts/reading-education"
-source_updated: "2026-11-06T01:55:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -32,8 +32,8 @@ ai_assist:
 - Wenn ein KI-Werkzeug einer studierenden Person hilft, eine Passage zu verstehen, was hat die studierende Person dann gelernt — den Inhalt, eine Lesestrategie oder wie man das Werkzeug nach der Antwort fragt? Welches davon wollen Sie bewerten?
 - Lesbarkeitsformeln zählen Wörter und Satzlängen. Was übersehen sie an der Erfahrung einer lesenden Person mit einem Text, und was würden Sie stattdessen messen?
 - Wenn KI jeden Text auf das Leseniveau einer studierenden Person umschreiben kann, verliert das Niveau dann seine Bedeutung — oder muss die studierende Person irgendwann trotzdem schwierigen Text bewältigen?
-- Wer profitiert davon, wenn Leseassessment automatisch erzeugt wird: die Arbeitslast der Lehrkraft, die Motivation der studierenden Person oder die Validität des Punktewerts? Können alle drei zugleich besser werden?
-- Leseschwierigkeit ist auch eine Frage der Barrierefreiheit. Wie sollten sich Werkzeuge für leseschwache Lernende, mehrsprachige Lernende und neurodivergente Studierende von einem allgemeinen Leseassistenten unterscheiden?
+- Wer profitiert davon, wenn Leseassessment automatisch erzeugt wird: die Arbeitslast der [[teacher-role|Lehrkraft]], die Motivation der studierenden Person oder die Validität des Punktewerts? Können alle drei zugleich besser werden?
+- Leseschwierigkeit ist auch eine Frage der Barrierefreiheit. Wie sollten sich Werkzeuge für leseschwache Lernende, [[multilingual-learning|mehrsprachige]] Lernende und neurodivergente Studierende von einem allgemeinen Leseassistenten unterscheiden?
 
 ## Einführung
 
@@ -42,7 +42,7 @@ Lesen ist in der Wissensbasis ein junger Strang. Die meisten Studien sind klein 
 Vier Arbeitslinien treten auf:
 
 - **Die lesende Person unterstützen** während des Lesens, einschließlich motivationaler und begleitender Werkzeuge.
-- **Lesen bewerten**, über generierte Passagen, Quizze und KI-Feedback zu Leseleistungen.
+- **Lesen bewerten**, über generierte Passagen, Quizze und [[ai-feedback-quality|KI-Feedback]] zu Leseleistungen.
 - **Text anpassen und erzeugen** auf einem Zielniveau, von der Vereinfachung bis zu differenzierten Materialien.
 - **Lesbarkeit und Textschwierigkeit messen**, die Schicht, auf der die anderen drei beruhen.
 
@@ -50,7 +50,7 @@ Vier Arbeitslinien treten auf:
 
 Das Lesen mit [[generative-ai|generativer KI]] erzeugt uneinheitliche Verständnisergebnisse — Zuwächse in einer Studie, kein [[transfer-of-learning|Wissenstransfer]] in einer anderen —, und das AIR-Instrument wurde auf der Hypothese gebaut, dass die Varianz darin liegt, warum Lesende zum Werkzeug greifen. Brann, Etgar und Sidi entwickelten und validierten eine Skala mit 21 Items und vier Motiven: Aufgabenorientiert (Task-oriented), Wohlbefinden (Feel-good), Übersetzung (Translation) und Aufwandsvermeidung (Low-effort) ([[air-scale-motivations-ai-reading-2026|Brann et al., 2026]]). Ihre Evidenz stammt von 425 britischen Studierenden in der explorativen und von 414 in der konfirmatorischen Stichprobe, mit Fit-Indizes von CFI 0,95 und RMSEA 0,056. Die Unterscheidung ist für die Praxis wichtig: Eine lesende Person, die das Werkzeug nutzt, um eine Aufgabe zu erledigen, befindet sich in einer anderen Haltung als eine, die es nutzt, um Aufwand zu vermeiden, und Aufwandsvermeidung ist das Motiv, das die Autorinnen und Autoren als wichtigstes Warnsignal für oberflächliche Verarbeitung markieren.
 
-Das ist ein Messergebnis, keine Wirkungsstudie, und die Seite hält die Unterscheidung ein. Was die Wissensbasis noch nicht enthält, ist eine kontrollierte Studie zu einem Lesecompanion, die dauerhafte Verständniszuwächse zeigt.
+Das ist ein Messergebnis, keine Wirkungsstudie, und die Seite hält die Unterscheidung ein. Was die Wissensbasis noch nicht enthält, ist eine [[rct|kontrollierte Studie]] zu einem Lesecompanion, die dauerhafte Verständniszuwächse zeigt.
 
 ## Lesen bewerten
 
@@ -72,7 +72,7 @@ Die Wahrnehmung der Zielgruppe ist inzwischen direkt messbar. [[thome-perceived-
 
 Die größte Gruppe von Studien erzeugt oder schreibt Text für eine lesende Person um. Drei Ansätze unterscheiden sich darin, was sie steuern:
 
-- **Niveaukontrollierte Generierung.** Die Feinabstimmung dreier 8B-Modelle auf einem von Expertinnen und Experten gestalteten Lesecurriculum für Kinder und auf Geschichten von GPT-4o und Llama 3.3 70B übertraf beide größeren Zero-Shot-Modelle bei schwierigkeitsbezogenen Metriken, mit vernachlässigbaren Sicherheitsproblemen ([[llm-children-reading-story-generation|Li et al., 2026]]).
+- **Niveaukontrollierte Generierung.** Die [[llm-training-and-fine-tuning|Feinabstimmung]] dreier 8B-Modelle auf einem von Expertinnen und Experten gestalteten [[curriculum-design|Lesecurriculum]] für Kinder und auf Geschichten von GPT-4o und Llama 3.3 70B übertraf beide größeren Zero-Shot-Modelle bei schwierigkeitsbezogenen Metriken, mit vernachlässigbaren Sicherheitsproblemen ([[llm-children-reading-story-generation|Li et al., 2026]]).
 - **Differenzierte Materialien.** Ein rollenpromptbasierter GenAI-Arbeitsablauf für [[english-education|EAP]]-Lesematerialien verbesserte Ergebnisse vor allem durch zusätzliche, niveauspezifische Unterstützungsschichten — Glossen, Satzentschlüsselung, rhetorische Hinweise, kritische Prompts — statt durch Veränderung der Komplexität auf Passagenebene, mit dem größten Effekt bei Lernenden mit hoher Sprachkompetenz (d = 1,40) ([[genai-differentiated-eap-reading-materials-2026|Gao, 2026]]).
 - **Zugeschnittene Kurslektüren.** Ein Graduiertenkurs ersetzte sein Lehrbuch durch bedarfsgerechte Lektüren, die auf Interesse und Verständnisniveau zugeschnitten waren; 24 Studierende bewerteten sie als nützlich, und 75 % stimmten zu, mehr gelernt zu haben, während die Artefaktanalyse fehlende Nachverfolgbarkeit und inkonsistente Zitation fand ([[sidorkin-ai-generated-course-readings-2026|Sidorkin, 2026]]).
 
@@ -80,9 +80,9 @@ Die Vereinfachung ist die vierte Variante, und ihr Engpass ist die Evaluation st
 
 ## Lesende, Schnittstellen und Zugang
 
-Lesen ist auch eine Zugangsfrage. AIRRI gibt Aufgabenmaterial als verfremdete Bilder aus, um Pipelines vom Screenshot zum LLM zu unterlaufen, und seine Autoren berichten die Lesbarkeitskosten ehrlich: Streifenüberlagerungen wurden von allen vier interviewten Fachleuten für Design und Typografie als lesbar beurteilt, während die Extraktionsfehlerrate 100 % erreichte ([[airri-machine-resistant-reading-interface-2026|Airri et al., 2026]]). Der Kompromiss zwischen Maschinenlesbarkeit und menschlicher Lesbarkeit ist eine Designentscheidung mit einem Preis für die Barrierefreiheit.
+Lesen ist auch eine Zugangsfrage. AIRRI gibt Aufgabenmaterial als verfremdete Bilder aus, um Pipelines vom Screenshot zum [[llm|LLM]] zu unterlaufen, und seine Autoren berichten die Lesbarkeitskosten ehrlich: Streifenüberlagerungen wurden von allen vier interviewten Fachleuten für Design und Typografie als lesbar beurteilt, während die Extraktionsfehlerrate 100 % erreichte ([[airri-machine-resistant-reading-interface-2026|Airri et al., 2026]]). Der Kompromiss zwischen Maschinenlesbarkeit und menschlicher Lesbarkeit ist eine Designentscheidung mit einem Preis für die Barrierefreiheit.
 
-Für Lernende mit Legasthenie findet ein PRISMA-geleiteter Review von 72 Studien aus den Jahren 2018 bis 2024 KI im Einsatz für Erkennung, [[assistive-technology|unterstützende Technologie]] und [[personalized-learning|personalisiertes Lernen]], aber mit einer fragmentierten Evidenzbasis und wenig experimenteller Validierung; generative KI ist kaum vertreten ([[dabaghi-ai-dyslexia-education-review-2026|Dabaghi et al., 2026]]). Leseschwierigkeit ist der Ort, an dem [[neurodiversity|Neurodiversität]] und [[accessibility|Barrierefreiheit]] auf die allgemeine Leseagenda treffen, und die Seite behandelt sie nicht als separates Thema.
+Für Lernende mit Legasthenie findet ein [[meta-analysis-systematic-review|PRISMA]]-geleiteter Review von 72 Studien aus den Jahren 2018 bis 2024 KI im Einsatz für Erkennung, [[assistive-technology|unterstützende Technologie]] und [[personalized-learning|personalisiertes Lernen]], aber mit einer fragmentierten Evidenzbasis und wenig experimenteller Validierung; generative KI ist kaum vertreten ([[dabaghi-ai-dyslexia-education-review-2026|Dabaghi et al., 2026]]). Leseschwierigkeit ist der Ort, an dem [[neurodiversity|Neurodiversität]] und [[accessibility|Barrierefreiheit]] auf die allgemeine Leseagenda treffen, und die Seite behandelt sie nicht als separates Thema.
 
 ## Was die Evidenz zeigt und nicht zeigt
 

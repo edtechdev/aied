@@ -1,7 +1,7 @@
 ---
 title: למידה מבוססת מקרים
 created: "2026-11-08T13:40:00-05:00"
-updated: "2026-11-08T13:40:00-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 pedagogy: [problem-based-learning, productive-failure]
@@ -10,7 +10,7 @@ audience: [instructors, learners, researchers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/case-based-learning
-source_updated: "2026-11-08T12:23:59-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:

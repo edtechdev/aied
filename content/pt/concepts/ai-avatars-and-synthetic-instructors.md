@@ -1,7 +1,7 @@
 ---
 title: Avatares de IA e instrutores sintéticos
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -13,7 +13,7 @@ level: [higher ed, teacher education]
 audience: [instructors, instructional designers]
 confidence: medium
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
-> **Avatares de IA e instrutores sintéticos** — sistemas de [[generative-ai|IA]] com aparência humana que ocupam um papel docente, seja como professor gravado, tutor falado, [[pedagogical-agent|agente pedagógico]], paciente ou estudante simulado, parceiro de role-play ou examinador. A categoria é definida por um rosto e uma voz que substituem uma pessoa, não por uma única tecnologia. Essa superfície é o que torna esses sistemas envolventes, e é também onde se concentram seus problemas distintivos: a [[trust|confiança]] se liga a pistas de identidade, o realismo não acompanha a eficácia, e os estudantes podem não saber que um humano está sendo simulado.
+> **Avatares de IA e instrutores sintéticos** — sistemas de [[generative-ai|IA]] com aparência humana que ocupam um [[teacher-role|papel docente]], seja como professor gravado, tutor falado, [[pedagogical-agent|agente pedagógico]], paciente ou estudante simulado, parceiro de role-play ou examinador. A categoria é definida por um rosto e uma voz que substituem uma pessoa, não por uma única tecnologia. Essa superfície é o que torna esses sistemas envolventes, e é também onde se concentram seus problemas distintivos: a [[trust|confiança]] se liga a pistas de identidade, o realismo não acompanha a eficácia, e os estudantes podem não saber que um humano está sendo simulado.
 
 ## Perguntas para refletir
 
@@ -79,13 +79,13 @@ Dois detalhes fazem disso um problema de desenho. O domínio moderou o efeito: t
 
 A autoridade também chega pelo corpo. Os projetistas do ELEVATE advertem que corpo e voz amplificam a autoridade de um tutor. Eles recomendam que o avatar sinalize incerteza e convide à verificação contra anotações ou livros didáticos.([[elevate-genai-virtual-tutors]]) O SOPHIE acrescenta uma complicação: atrás do mesmo avatar, um modelo antes julgado mais humano perdeu essa vantagem, e o desempenho em comunicação foi idêntico entre backends (0,437 contra 0,438). A semelhança humana pertencia à interação — voz, latência, troca de turnos —, não ao modelo.([[sophie-clinical-communication-ai-assessment-2026]])
 
-A contraevidência é que estudantes podem ser ensinados a suspender o enquadramento humano mesmo quando um prompt o oferece. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] perguntaram a 654 estudantes de escrita se o chatbot parecia um tutor, um colaborador ou outra coisa, e apenas cerca da metade (51,7%) escolheu uma das opções antropomórficas. Os estudantes o chamaram de ferramenta ou programa, o compararam a um robô ou computador, ou inventaram metáforas como uma máquina de venda de feedback que dispensa texto por dados. Os autores tratam essa recusa do enquadramento humano como o resultado de letramento, o que data o efeito na instrução, não na interface.
+A contraevidência é que estudantes podem ser ensinados a suspender o enquadramento humano mesmo quando um prompt o oferece. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] perguntaram a 654 estudantes de escrita se o [[conversational-ai|chatbot]] parecia um tutor, um colaborador ou outra coisa, e apenas cerca da metade (51,7%) escolheu uma das opções antropomórficas. Os estudantes o chamaram de ferramenta ou programa, o compararam a um robô ou computador, ou inventaram [[metaphors-and-analogies|metáforas]] como uma máquina de venda de feedback que dispensa texto por dados. Os autores tratam essa recusa do enquadramento humano como o resultado de letramento, o que data o efeito na instrução, não na interface.
 
 ## Presença, realismo e o sinistro
 
 O realismo não é uma escada. O [[aclime-pedagogical-agents-extended-reality-2026|ACLIME]] trata o realismo comportamental como o preditor decisivo de [[community-of-inquiry|presença social]] e adverte que maior fidelidade visual arrisca o vale da estranheza, em que um agente quase humano dispara rejeição súbita. Ele também precifica a troca: imersão e realismo do agente elevam a carga cognitiva extrínseca, enquanto a interação pode baixar a carga intrínseca por meio da memória de trabalho coletiva. Seu alerta principal é direto — cerca de 42% dos usuários de headset de RV relatam cibersickness, e os efeitos posteriores vão de cerca de dez minutos a várias horas.([[aclime-pedagogical-agents-extended-reality-2026]])
 
-Os estudos de prática apoiam majoritariamente a versão modesta dessa alegação. Os autores de Hauk leem a autenticidade moderada como adequação da fidelidade à função. Um ensaio diádico apenas por voz estabiliza rotinas para novatos, e dinâmicas de pares e pistas não verbais podem ser acrescentadas depois.([[hauk-student-avatars-dialogue-teacher-education-2026]]) No SOPHIE, 47% dos participantes ainda acharam difícil sentir empatia real por um paciente de IA, embora 66% tenham achado menos estressante falar com um do que com uma pessoa.([[sophie-clinical-communication-ai-assessment-2026]])
+Os estudos de prática apoiam majoritariamente a versão modesta dessa alegação. Os autores de Hauk leem a autenticidade moderada como adequação da fidelidade à função. Um ensaio diádico apenas por voz estabiliza rotinas para novatos, e dinâmicas de pares e pistas não verbais podem ser acrescentadas depois.([[hauk-student-avatars-dialogue-teacher-education-2026]]) No SOPHIE, 47% dos participantes ainda acharam difícil sentir [[empathy|empatia]] real por um paciente de IA, embora 66% tenham achado menos estressante falar com um do que com uma pessoa.([[sophie-clinical-communication-ai-assessment-2026]])
 
 Os estudantes não querem uniformemente mais realismo. No estudo exploratório do [[trikonet-trivalence-co-creativity-2026|TriKoNet]], os estudantes rejeitaram unanimemente a representação fotorrealista. Eles usaram um espaço de desenho modular para criar seus próprios conceitos de papel em vez de adotar uma persona fornecida.([[trikonet-trivalence-co-creativity-2026]]) O ELEVATE observa que a corporificação é uma barreira para alguns estudantes, como os com sensibilidade sensorial ou desconforto com agentes antropomórficos, o que torna a configuração do avatar um requisito, não uma preferência.([[elevate-genai-virtual-tutors]])
 
@@ -101,7 +101,7 @@ O letramento em deepfake é a face reversa da mesma capacidade. Em uma amostra a
 
 ## O estado honesto da evidência
 
-Quase todo estudo aqui é pequeno e curto. Hauk tem 21 voluntários e uma sessão. O SOPHIE tem 59 concluintes e nenhum braço de controle. A avaliação em psicoterapia tem dois psicólogos, cerca de 90 minutos cada. O piloto de PBL tem 26 estudantes e um caso. ACLIME e Theelen são frameworks conceituais, e a base do TriKoNet são oito grupos em sessões únicas.([[genai-simulate-patient-history-pbl-2026]])([[ai-psychotherapy-training-avatars]])([[aclime-pedagogical-agents-extended-reality-2026]])([[theelen-classroom-simulations-four-layer-framework-2026]])([[trikonet-trivalence-co-creativity-2026]])
+Quase todo estudo aqui é pequeno e curto. Hauk tem 21 voluntários e uma sessão. O SOPHIE tem 59 concluintes e nenhum braço de controle. A avaliação em psicoterapia tem dois psicólogos, cerca de 90 minutos cada. O piloto de PBL tem 26 estudantes e um caso. ACLIME e Theelen são [[theories-and-frameworks|frameworks conceituais]], e a base do TriKoNet são oito grupos em sessões únicas.([[genai-simulate-patient-history-pbl-2026]])([[ai-psychotherapy-training-avatars]])([[aclime-pedagogical-agents-extended-reality-2026]])([[theelen-classroom-simulations-four-layer-framework-2026]])([[trikonet-trivalence-co-creativity-2026]])
 
 As amostras grandes dizem respeito a atitudes e preferências — 396 participantes sobre identidade de avatar, 493 respondentes sobre preferência de vídeo — e ambas são populações de conveniência ou de curso único. Nenhum estudo deste conjunto demonstra que um instrutor sintético produz melhor aprendizagem que um humano. A alegação defensável é mais estreita: esses sistemas podem aproximar um encontro de prática, podem ser pontuados contra avaliadores humanos com concordância aceitável em um domínio, e podem deslocar como os estudantes avaliam a fonte da instrução.
 
@@ -115,7 +115,7 @@ Essa estreiteza importa. Os autores de Theelen o dizem diretamente: fluência e 
 
 **"Instrutores sintéticos são uma tecnologia única, então os achados se transferem."** Um professor clonado otimizando preferência, um tutor otimizando latência e um paciente otimizando fidelidade clínica são artefatos diferentes com modos de falha diferentes. Evidência de um papel não autoriza alegações sobre outro.
 
-**"A aparência do avatar é cosmética."** Pistas de identidade mudaram avaliações de credibilidade e a adoção efetiva de orientações, com penalidades compostas para avatares de mulheres negras mais velhas.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) A configuração é uma decisão pedagógica e de equidade.
+**"A aparência do avatar é cosmética."** Pistas de identidade mudaram avaliações de credibilidade e a adoção efetiva de orientações, com penalidades compostas para avatares de mulheres negras mais velhas.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) A configuração é uma decisão pedagógica e de [[equity-in-ai-education|equidade]].
 
 **"Um paciente simulado é um paciente padronizado, menos o custo."** Psicólogos em formação acharam seu paciente virtual cooperativo e já avançado na terapia, um caso "ideal" que sub-representa a inflexibilidade comportamental.([[ai-psychotherapy-training-avatars]]) O custo cai; a validade do caso não segue automaticamente.
 

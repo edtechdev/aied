@@ -10,9 +10,9 @@ ethics: [neurodiversity, accessibility]
 audience: [instructors, curriculum designers, researchers]
 level: [primary education, k 12, higher ed]
 confidence: medium
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 translation_of: "concepts/reading-education"
-source_updated: "2026-11-06T01:55:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,8 +35,8 @@ ai_assist:
 - Cuando una herramienta de IA ayuda a un estudiante a comprender un pasaje, ¿qué ha aprendido el estudiante: el contenido, una estrategia de lectura o cómo pedirle la respuesta a la herramienta? ¿Cuál de esas cosas quiere evaluar?
 - Las fórmulas de legibilidad cuentan palabras y longitudes de oración. ¿Qué deja fuera eso de la experiencia que un lector tiene de un texto, y qué mediría usted en su lugar?
 - Si la IA puede reescribir cualquier texto al nivel de lectura de un estudiante, ¿deja de importar el nivel en sí, o el estudiante sigue necesitando enfrentarse tarde o temprano a un texto difícil?
-- ¿A quién beneficia que la evaluación de la lectura se genere automáticamente: a la carga de trabajo del docente, a la motivación del estudiante o a la validez de la puntuación? ¿Pueden mejorar las tres cosas a la vez?
-- La dificultad de lectura es también una cuestión de accesibilidad. ¿En qué deberían diferir las herramientas para lectores con dificultades, estudiantes multilingües y estudiantes neurodivergentes de un asistente de lectura de propósito general?
+- ¿A quién beneficia que la evaluación de la lectura se genere automáticamente: a la carga de trabajo del [[teacher-role|docente]], a la motivación del estudiante o a la validez de la puntuación? ¿Pueden mejorar las tres cosas a la vez?
+- La dificultad de lectura es también una cuestión de accesibilidad. ¿En qué deberían diferir las herramientas para lectores con dificultades, estudiantes [[multilingual-learning|multilingües]] y estudiantes neurodivergentes de un asistente de lectura de propósito general?
 
 ## Introducción
 
@@ -45,7 +45,7 @@ La enseñanza de la lectura en esta base de conocimiento es una vertiente joven.
 Aparecen cuatro líneas de trabajo:
 
 - **Apoyar al lector** mientras lee, incluidas herramientas motivacionales y de acompañamiento.
-- **Evaluar la lectura**, mediante pasajes generados, cuestionarios y retroalimentación de IA sobre el trabajo de lectura.
+- **Evaluar la lectura**, mediante pasajes generados, cuestionarios y [[ai-feedback-quality|retroalimentación de IA]] sobre el trabajo de lectura.
 - **Adaptar y generar texto** a un nivel objetivo, desde la simplificación hasta los materiales diferenciados.
 - **Medir la legibilidad y la dificultad del texto**, la capa de la que dependen las otras tres.
 
@@ -53,7 +53,7 @@ Aparecen cuatro líneas de trabajo:
 
 Leer con [[generative-ai|IA generativa]] produce resultados inconsistentes en comprensión —ganancias en un estudio, ninguna [[transfer-of-learning|transferencia del aprendizaje]] en otro— y el instrumento AIR se construyó sobre la hipótesis de que la varianza está en por qué los lectores recurren a la herramienta. Brann, Etgar y Sidi desarrollaron y validaron una escala de 21 ítems con cuatro motivos: orientado a la tarea, sentirse bien, traducción y bajo esfuerzo ([[air-scale-motivations-ai-reading-2026|Brann et al., 2026]]). Su evidencia proviene de 425 estudiantes británicos de educación superior en la muestra exploratoria y 414 en la confirmatoria, con índices de ajuste de CFI 0,95 y RMSEA 0,056. La distinción importa para la práctica: un lector que usa la herramienta para terminar una tarea está en una postura distinta de quien la usa para evitar el esfuerzo, y el bajo esfuerzo es el motivo que los autores señalan como el que hay que vigilar por el procesamiento superficial.
 
-Ese es un resultado de medición, no un estudio de resultados, y la página mantiene la distinción. Lo que la base de conocimiento aún no contiene es un ensayo controlado de un compañero de lectura que muestre ganancias duraderas de comprensión.
+Ese es un resultado de medición, no un estudio de resultados, y la página mantiene la distinción. Lo que la base de conocimiento aún no contiene es un [[rct|ensayo controlado]] de un compañero de lectura que muestre ganancias duraderas de comprensión.
 
 ## Evaluar la lectura
 
@@ -75,7 +75,7 @@ La percepción del público objetivo ahora puede medirse directamente. [[thome-p
 
 El mayor grupo de estudios genera o reescribe texto para un lector. Tres enfoques difieren en qué controlan:
 
-- **Generación controlada por nivel.** El ajuste fino de tres modelos de 8B con un plan de estudios de lectura infantil diseñado por expertos e historias de GPT-4o y Llama 3.3 70B superó a ambos modelos mayores de cero disparos en métricas relacionadas con la dificultad, con problemas de seguridad insignificantes ([[llm-children-reading-story-generation|Li et al., 2026]]).
+- **Generación controlada por nivel.** El [[llm-training-and-fine-tuning|ajuste fino]] de tres modelos de 8B con un [[curriculum-design|plan de estudios]] de lectura infantil diseñado por expertos e historias de GPT-4o y Llama 3.3 70B superó a ambos modelos mayores de cero disparos en métricas relacionadas con la dificultad, con problemas de seguridad insignificantes ([[llm-children-reading-story-generation|Li et al., 2026]]).
 - **Materiales diferenciados.** Un flujo de trabajo de IA generativa con roles para materiales de lectura de [[english-education|EAP]] mejoró los resultados principalmente añadiendo capas de apoyo específicas por nivel de dominio —glosas, descomposición de oraciones, señales retóricas, consignas críticas— en lugar de cambiar la complejidad del pasaje, con el mayor efecto entre estudiantes de alto dominio (d = 1,40) ([[genai-differentiated-eap-reading-materials-2026|Gao, 2026]]).
 - **Lecturas de curso a medida.** Un curso de posgrado sustituyó su libro de texto por lecturas bajo demanda adaptadas al interés y al nivel de comprensión; 24 estudiantes las valoraron como útiles y el 75% coincidió en que aprendieron más, mientras que el análisis de los artefactos encontró falta de trazabilidad y citas inconsistentes ([[sidorkin-ai-generated-course-readings-2026|Sidorkin, 2026]]).
 
@@ -83,9 +83,9 @@ La simplificación es la cuarta variante, y su cuello de botella es la evaluaci�
 
 ## Lectores, interfaces y acceso
 
-La lectura es también una cuestión de acceso. AIRRI presenta el material de las tareas como imágenes perturbadas para derrotar las canalizaciones de captura de pantalla a LLM, y sus autores informan honestamente del coste en legibilidad: las superposiciones de rayas fueron juzgadas legibles por los cuatro expertos en diseño y tipografía entrevistados, mientras que el error de extracción alcanzó el 100% ([[airri-machine-resistant-reading-interface-2026|Airri et al., 2026]]). El intercambio entre legibilidad para la máquina y legibilidad para la persona es una decisión de diseño con un precio en accesibilidad.
+La lectura es también una cuestión de acceso. AIRRI presenta el material de las tareas como imágenes perturbadas para derrotar las canalizaciones de captura de pantalla a [[llm|LLM]], y sus autores informan honestamente del coste en legibilidad: las superposiciones de rayas fueron juzgadas legibles por los cuatro expertos en diseño y tipografía entrevistados, mientras que el error de extracción alcanzó el 100% ([[airri-machine-resistant-reading-interface-2026|Airri et al., 2026]]). El intercambio entre legibilidad para la máquina y legibilidad para la persona es una decisión de diseño con un precio en accesibilidad.
 
-Para estudiantes con dislexia, una revisión guiada por PRISMA de 72 estudios de 2018 a 2024 encuentra que la IA se usa para la detección, el [[assistive-technology|apoyo asistivo]] y el [[personalized-learning|aprendizaje personalizado]], pero con una base de evidencia fragmentada y poca validación experimental; la IA generativa está mínimamente representada ([[dabaghi-ai-dyslexia-education-review-2026|Dabaghi et al., 2026]]). La dificultad de lectura es donde la [[neurodiversity|neurodiversidad]] y la [[accessibility|accesibilidad]] se encuentran con la agenda general de la lectura, y la página no las trata como un tema aparte.
+Para estudiantes con dislexia, una revisión guiada por [[meta-analysis-systematic-review|PRISMA]] de 72 estudios de 2018 a 2024 encuentra que la IA se usa para la detección, el [[assistive-technology|apoyo asistivo]] y el [[personalized-learning|aprendizaje personalizado]], pero con una base de evidencia fragmentada y poca validación experimental; la IA generativa está mínimamente representada ([[dabaghi-ai-dyslexia-education-review-2026|Dabaghi et al., 2026]]). La dificultad de lectura es donde la [[neurodiversity|neurodiversidad]] y la [[accessibility|accesibilidad]] se encuentran con la agenda general de la lectura, y la página no las trata como un tema aparte.
 
 ## Qué muestra y qué no muestra la evidencia
 

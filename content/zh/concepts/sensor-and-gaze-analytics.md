@@ -1,7 +1,7 @@
 ---
 title: 传感器与注视分析
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -18,7 +18,7 @@ ai_assist:
     date: "2026-11-04"
     agent: hermes-agent
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ---
 
@@ -63,7 +63,7 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 
 **课堂中的注意估计。** 一个[[multimodal|多模态]] Transformer 在 DIPSER 这个包含 57 名受试者的自然情境数据集上融合面部图像与可穿戴信号，达到 MAE 0.283。它相对纯视觉基线的优势并不大，作者得出结论：面部特征是主要的信息来源（[[student-attention-estimation-fairness-2026|Fragkiadakis 等人，2026]]）。
 
-**认知负荷与反馈时机。** TutorLoop 使用由注视推导的注意与工作负荷，通过一个强化学习智能体在四种[[feedback|反馈类型]]中选择。在 187 名参与者中，完整系统比基线介入得更少，却提升了注意并降低了工作负荷（[[tutorloop-sensor-cognitive-feedback-2026|TutorLoop，2026]]）。
+**认知负荷与反馈时机。** TutorLoop 使用由注视推导的注意与工作负荷，通过一个[[reinforcement-learning|强化学习]]智能体在四种[[feedback|反馈类型]]中选择。在 187 名参与者中，完整系统比基线介入得更少，却提升了注意并降低了工作负荷（[[tutorloop-sensor-cognitive-feedback-2026|TutorLoop，2026]]）。
 
 **监考与诚信。** 基于姿态的监考在其自建的标注场景集上报告了接近天花板的成绩：99.56% 的准确率与 0.9957 的 AUC（[[arif-automated-online-proctoring-yolov11-2026|Arif 等人，2026]]）。可穿戴 AI 从另一侧改变了同一问题。智能眼镜消除了监考所依赖的注视下垂与姿态移动，Corbin 及其同事把这一状况称为双重透明（[[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin 等人，2026]]）。
 
@@ -83,7 +83,7 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 
 注意不是学习。在 TutorLoop 中，注意与学习的相关为 r = 0.017，而工作负荷呈负相关，r = -0.168（[[tutorloop-sensor-cognitive-feedback-2026|TutorLoop，2026]]）。一个最大化注意信号的系统所优化的东西，接近于噪声。
 
-传感器可以记录到共在，而研究却声称它记录的是互动：[[hur-computational-analysis-teacher-group-interactions-2026|Hur 等（2026）]]发现，一个基于姿态的检测器只达到 55% 的召回率，在人工编码者在师生小组互动中识别出的 20 个事件中只捕捉到 11 个。教师在 49.2% 的编码片段中位于小组边界之内，而学生看向教师的比例只有 25.4%，两种比较中都没有任何音频特征发生变化，因此该管线登记的是空间上的共在，而非持续的互动。
+传感器可以记录到共在，而研究却声称它记录的是互动：[[hur-computational-analysis-teacher-group-interactions-2026|Hur 等（2026）]]发现，一个基于姿态的检测器只达到 55% 的召回率，在人工编码者在师生小组互动中识别出的 20 个事件中只捕捉到 11 个。[[teacher-role|教师]]在 49.2% 的编码片段中位于小组边界之内，而学生看向教师的比例只有 25.4%，两种比较中都没有任何音频特征发生变化，因此该管线登记的是空间上的共在，而非持续的互动。
 
 生理剖面不是诊断。考试压力模型从唤起与运动预测成绩类别，而作者坚持：输出应当与个人处境和心理健康背景并列，而不是进入高风险决策（[[physiological-signals-exam-outcomes-ml|Yamazaki 与 Rimal，2026]]）。
 
@@ -97,7 +97,7 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 
 **功能蔓延是常态路径。** 福祉监测变成风险标记，风险标记变成评分证据。Corbin 及其同事展示了这种漂移的评估版本：一旦物理隔离失效，检查就从作品转向身体，学生必须证明自己的眼镜是矫正性的、设备是治疗性的（[[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin 等人，2026]]）。
 
-**公平性失败聚集在彼此不同的身体上。** 基于面部的注意估计依赖肤色、眼镜与光照。基于注视的注意惩罚回避目光接触的学习者，包括一些自闭症与[[neurodiversity|神经多样性]]学生。基于姿态的监考会标记抽动、自我刺激行为与文化性的运动规范。那项监考研究并未检验被标记的姿态是否对应不当行为，也未检验检测器是否公平地对待[[inclusive-learning|残障学生]]或注视上的文化差异（[[arif-automated-online-proctoring-yolov11-2026|Arif 等人，2026]]）。在这里，监管不是修复；它是把错误洗白成规则的一种方式。
+**[[equity-in-ai-education|公平性]]失败聚集在彼此不同的身体上。** 基于面部的注意估计依赖肤色、眼镜与光照。基于注视的注意惩罚回避目光接触的学习者，包括一些自闭症与[[neurodiversity|神经多样性]]学生。基于姿态的监考会标记抽动、自我刺激行为与文化性的运动规范。那项监考研究并未检验被标记的姿态是否对应不当行为，也未检验检测器是否公平地对待[[inclusive-learning|残障学生]]或注视上的文化差异（[[arif-automated-online-proctoring-yolov11-2026|Arif 等人，2026]]）。在这里，监管不是修复；它是把错误洗白成规则的一种方式。
 
 **公平性主张需要受试者层面的证据。** 一个针对性的性别正则项把验证 MAE 差距从 0.02 降到 0.005，随后却在留出的受试者上同时提高了差距与最差组误差（[[student-attention-estimation-fairness-2026|Fragkiadakis 等人，2026]]）。把单次划分报告为公平性的证明，是一种带有公平代价的设计失败。
 

@@ -1,7 +1,7 @@
 ---
 title: "Analyse par capteurs et suivi du regard"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -63,7 +63,7 @@ Ces signaux diffèrent par leur fréquence d'échantillonnage, leur bruit et leu
 
 **L'estimation de l'attention en classe.** Un [[multimodal|transformeur multimodal]] a fusionné des images faciales avec des signaux portables sur DIPSER, un jeu de données naturaliste de 57 sujets, et atteint une MAE de 0.283. Son avantage sur une base purement visuelle était modeste, et les auteurs concluent que les traits faciaux constituaient la source d'information principale ([[student-attention-estimation-fairness-2026|Fragkiadakis et coll., 2026]]).
 
-**La charge cognitive et le moment de la rétroaction.** TutorLoop a utilisé l'attention et la charge de travail dérivées du regard pour choisir parmi quatre [[feedback|types de rétroaction]] avec un agent d'apprentissage par renforcement. Sur 187 participants, le système complet est intervenu moins souvent que les bases de référence tout en améliorant l'attention et en réduisant la charge de travail ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
+**La charge cognitive et le moment de la rétroaction.** TutorLoop a utilisé l'attention et la charge de travail dérivées du regard pour choisir parmi quatre [[feedback|types de rétroaction]] avec un agent d'[[reinforcement-learning|apprentissage par renforcement]]. Sur 187 participants, le système complet est intervenu moins souvent que les bases de référence tout en améliorant l'attention et en réduisant la charge de travail ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
 
 **La surveillance et l'intégrité.** La surveillance fondée sur la pose rapporte des performances proches du plafond sur son propre jeu de scénarios étiquetés : 99.56 % d'exactitude et une AUC de 0.9957 ([[arif-automated-online-proctoring-yolov11-2026|Arif et coll., 2026]]). L'IA portable change le même problème par l'autre bout. Les lunettes intelligentes suppriment la baisse du regard et le changement de posture sur lesquels repose la surveillance, une condition que Corbin et ses collègues appellent double transparence ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et coll., 2026]]).
 
@@ -83,7 +83,7 @@ Un corrélat neuronal n'est pas une note. Des images reconstruites à partir de 
 
 L'attention n'est pas l'apprentissage. Dans TutorLoop, l'attention corrélait avec l'apprentissage à r = 0.017, tandis que la charge de travail corrélait négativement à r = -0.168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Un système qui maximiserait le signal d'attention aurait optimisé du bruit.
 
-Un capteur peut enregistrer une co-présence là où une étude affirme une interaction : [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] ont constaté qu'un détecteur de pose n'atteignait qu'un rappel de 55 %, repérant 11 des 20 événements identifiés par des codeurs humains dans les interactions enseignant-étudiant de groupe. L'enseignant était présent dans les limites du groupe dans 49.2 % des segments codés, les étudiants ne regardant l'enseignant que dans 25.4 % des segments, et aucune caractéristique audio ne changeait dans les deux comparaisons : le pipeline enregistrait une co-présence spatiale, non une interaction soutenue.
+Un capteur peut enregistrer une co-présence là où une étude affirme une interaction : [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] ont constaté qu'un détecteur de pose n'atteignait qu'un rappel de 55 %, repérant 11 des 20 événements identifiés par des codeurs humains dans les interactions enseignant-étudiant de groupe. L'[[teacher-role|enseignant]] était présent dans les limites du groupe dans 49.2 % des segments codés, les étudiants ne regardant l'enseignant que dans 25.4 % des segments, et aucune caractéristique audio ne changeait dans les deux comparaisons : le pipeline enregistrait une co-présence spatiale, non une interaction soutenue.
 
 Un profil physiologique n'est pas un diagnostic. Les modèles de stress d'examen prédisent une catégorie de note à partir de l'activation et du mouvement, et les auteurs insistent : la sortie appartient aux côtés des circonstances personnelles et du contexte de santé mentale, non à une décision à enjeux élevés ([[physiological-signals-exam-outcomes-ml|Yamazaki et Rimal, 2026]]).
 
@@ -97,7 +97,7 @@ Enfin, collecter n'est pas intégrer. Kim et Han ont trouvé que la plupart des 
 
 **La dérive fonctionnelle est la trajectoire normale.** La surveillance du bien-être devient un signalement de risque, et le signalement de risque devient une preuve de notation. Corbin et ses collègues montrent la version évaluative de cette dérive : quand l'exclusion physique échoue, l'inspection passe des artefacts aux corps, et les étudiants doivent prouver que leurs lunettes sont correctrices et leurs appareils thérapeutiques ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et coll., 2026]]).
 
-**Les défaillances d'équité se concentrent sur les corps qui diffèrent.** L'estimation de l'attention par le visage dépend du teint de peau, des lunettes et de l'éclairage. L'attention fondée sur le regard pénalise les apprenants qui évitent le contact visuel, dont certains étudiants autistes et [[neurodiversity|neurodivergents]]. La surveillance fondée sur la pose signale les tics, l'autostimulation et les normes culturelles de mouvement. L'étude de surveillance ne teste pas si une posture signalée correspond à une fraude, ni si le détecteur traite équitablement les [[inclusive-learning|étudiants en situation de handicap]] ou les différences culturelles de regard ([[arif-automated-online-proctoring-yolov11-2026|Arif et coll., 2026]]). La réglementation n'est pas un remède ici ; c'est une manière de blanchir l'erreur en règle.
+**Les défaillances d'[[equity-in-ai-education|équité]] se concentrent sur les corps qui diffèrent.** L'estimation de l'attention par le visage dépend du teint de peau, des lunettes et de l'éclairage. L'attention fondée sur le regard pénalise les apprenants qui évitent le contact visuel, dont certains étudiants autistes et [[neurodiversity|neurodivergents]]. La surveillance fondée sur la pose signale les tics, l'autostimulation et les normes culturelles de mouvement. L'étude de surveillance ne teste pas si une posture signalée correspond à une fraude, ni si le détecteur traite équitablement les [[inclusive-learning|étudiants en situation de handicap]] ou les différences culturelles de regard ([[arif-automated-online-proctoring-yolov11-2026|Arif et coll., 2026]]). La réglementation n'est pas un remède ici ; c'est une manière de blanchir l'erreur en règle.
 
 **Les affirmations d'équité exigent des preuves au niveau des sujets.** Un régularisateur ciblant le genre a réduit l'écart de MAE de validation de 0.02 à 0.005, puis a augmenté l'écart et l'erreur du groupe le plus mal servi sur des sujets tenus à l'écart ([[student-attention-estimation-fairness-2026|Fragkiadakis et coll., 2026]]). Rapporter une seule découpe comme preuve d'équité est une défaillance de conception avec un coût d'équité.
 

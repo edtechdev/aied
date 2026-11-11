@@ -10,9 +10,9 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-08T06:31:35-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-05T05:20:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:

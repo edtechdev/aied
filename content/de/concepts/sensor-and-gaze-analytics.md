@@ -1,7 +1,7 @@
 ---
 title: Sensoren und Blickanalyse
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -13,7 +13,7 @@ level: [higher ed, k 12]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -63,7 +63,7 @@ Diese Signale unterscheiden sich in Abtastrate, Rauschen und Instrumentierungsau
 
 **Aufmerksamkeitsschätzung im Klassenzimmer.** Ein [[multimodal|multimodaler Transformer]] fusionierte Gesichtsbilder mit Wearable-Signalen auf DIPSER, einem naturalistischen Datensatz mit 57 Personen, und erreichte einen MAE von 0,283. Sein Vorsprung gegenüber einer rein visuellen Baseline war bescheiden, und die Autorinnen und Autoren schließen, dass Gesichtsmerkmale die primäre Informationsquelle waren ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]).
 
-**Kognitive Belastung und Feedback-Timing.** TutorLoop nutzte blickabgeleitete Aufmerksamkeit und Arbeitslast, um mit einem bestärkenden Lernagenten unter vier [[feedback|Feedback-Typen]] zu wählen. Über 187 Teilnehmende hinweg intervenierte das vollständige System seltener als die Baselines und verbesserte dennoch die Aufmerksamkeit und senkte die Arbeitslast ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
+**Kognitive Belastung und Feedback-Timing.** TutorLoop nutzte blickabgeleitete Aufmerksamkeit und Arbeitslast, um mit einem [[reinforcement-learning|bestärkenden Lernagenten]] unter vier [[feedback|Feedback-Typen]] zu wählen. Über 187 Teilnehmende hinweg intervenierte das vollständige System seltener als die Baselines und verbesserte dennoch die Aufmerksamkeit und senkte die Arbeitslast ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
 
 **Fernaufsicht und Integrität.** Haltungsbasierte Fernaufsicht berichtet nahezu Spitzenwerte auf ihrem eigenen gelabelten Szenarioset: 99,56% Genauigkeit und eine AUC von 0,9957 ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Wearable-KI verändert dasselbe Problem von der anderen Seite. Intelligente Brillen beseitigen den Blickabfall und die Haltungsverschiebung, auf die Aufsicht baut – eine Bedingung, die Corbin und Kolleginnen als doppelte Transparenz bezeichnen ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 
@@ -83,7 +83,7 @@ Ein neuronales Korrelat ist kein Score. Aus EEG rekonstruierte Bilder korreliert
 
 Aufmerksamkeit ist nicht Lernen. In TutorLoop korrelierte Aufmerksamkeit mit Lernen bei r = 0,017, während Arbeitslast negativ mit r = -0,168 korrelierte ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Ein System, das das Aufmerksamkeitssignal maximierte, hätte etwas nahezu Rauschhaftes optimiert.
 
-Ein Sensor kann Ko-Präsenz erfassen, wo eine Studie Interaktion behauptet: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] fanden, dass ein haltungsbasierter Detektor nur 55% Recall erreichte und 11 von 20 Ereignissen erfasste, die menschliche Codierende in Interaktionen zwischen Lehrkraft und Schülergruppen identifizierten. Die Lehrkraft war in 49,2% der kodierten Segmente innerhalb der Gruppengrenze anwesend, während Studierende nur in 25,4% zur Lehrkraft blickten, und kein Audio-Merkmal änderte sich in einem der beiden Vergleiche, sodass die Pipeline räumliche Ko-Präsenz statt anhaltender Interaktion registrierte.
+Ein Sensor kann Ko-Präsenz erfassen, wo eine Studie Interaktion behauptet: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] fanden, dass ein haltungsbasierter Detektor nur 55% Recall erreichte und 11 von 20 Ereignissen erfasste, die menschliche Codierende in Interaktionen zwischen [[teacher-role|Lehrkraft]] und Schülergruppen identifizierten. Die Lehrkraft war in 49,2% der kodierten Segmente innerhalb der Gruppengrenze anwesend, während Studierende nur in 25,4% zur Lehrkraft blickten, und kein Audio-Merkmal änderte sich in einem der beiden Vergleiche, sodass die Pipeline räumliche Ko-Präsenz statt anhaltender Interaktion registrierte.
 
 Ein physiologisches Profil ist keine Diagnose. Prüfungsstressmodelle sagen aus Erregung und Bewegung eine Notenkategorie voraus, und die Autorinnen und Autoren bestehen darauf, dass die Ausgabe neben persönliche Umstände und psychosozialen Kontext gehört statt in eine Entscheidung mit hohem Einsatz ([[physiological-signals-exam-outcomes-ml|Yamazaki und Rimal, 2026]]).
 
@@ -97,7 +97,7 @@ Schließlich ist Erhebung nicht Integration. Kim und Han fanden, dass die meiste
 
 **Funktionsausweitung ist der normale Weg.** Wohlbefindensüberwachung wird Risikomarkierung, und Risikomarkierung wird Bewertungsbeleg. Corbin und Kolleginnen zeigen die Assessment-Version dieser Verschiebung: Sobald physischer Ausschluss scheitert, wandert die Inspektion von Artefakten zu Körpern, und Studierende müssen beweisen, dass ihre Brillen korrigierend und ihre Geräte therapeutisch sind ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 
-**Gerechtigkeitsfehler bündeln sich an Körpern, die abweichen.** Gesichtsbasierte Aufmerksamkeitsschätzung hängt von Hautton, Sehhilfen und Beleuchtung ab. Blickbasierte Aufmerksamkeit benachteiligt Lernende, die Blickkontakt vermeiden, darunter einige autistische und [[neurodiversity|neurodivergente Studierende]]. Haltungsbasierte Fernaufsicht markiert Tics, Stimming und kulturelle Bewegungsnormen. Die Fernaufsichtsstudie testet nicht, ob markierte Haltung mit Fehlverhalten korrespondiert oder ob der Detektor [[inclusive-learning|Studierende mit Behinderungen]] oder kulturelle Unterschiede im Blick fair behandelt ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Regulierung ist hier keine Lösung; sie ist eine Weise, den Fehler in eine Regel zu waschen.
+**[[equity-in-ai-education|Gerechtigkeitsfehler]] bündeln sich an Körpern, die abweichen.** Gesichtsbasierte Aufmerksamkeitsschätzung hängt von Hautton, Sehhilfen und Beleuchtung ab. Blickbasierte Aufmerksamkeit benachteiligt Lernende, die Blickkontakt vermeiden, darunter einige autistische und [[neurodiversity|neurodivergente Studierende]]. Haltungsbasierte Fernaufsicht markiert Tics, Stimming und kulturelle Bewegungsnormen. Die Fernaufsichtsstudie testet nicht, ob markierte Haltung mit Fehlverhalten korrespondiert oder ob der Detektor [[inclusive-learning|Studierende mit Behinderungen]] oder kulturelle Unterschiede im Blick fair behandelt ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Regulierung ist hier keine Lösung; sie ist eine Weise, den Fehler in eine Regel zu waschen.
 
 **Gerechtigkeitsansprüche brauchen Evidenz auf Subjektebene.** Ein geschlechtsgerichteter Regularisierer senkte die MAE-Lücke in der Validierung von 0,02 auf 0,005 und vergrößerte dann sowohl die Lücke als auch den Fehler der schlechtesten Gruppe bei zurückgehaltenen Subjekten ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). Einen einzelnen Split als Fairnessbeleg zu berichten, ist ein Designfehler mit Gerechtigkeitskosten.
 

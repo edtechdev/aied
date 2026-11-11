@@ -10,9 +10,9 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-07T20:28:56-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-05T05:20:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -29,9 +29,9 @@ ai_assist:
 ## Fragen zum Nachdenken
 
 - Wenn ein Chatbot einen zuversichtlichen Absatz mit drei Quellenangaben zurückgibt: Übt die studierende Person dann Informationskompetenz, Medienkompetenz oder keines von beiden aus — und macht die Aufgabe diese Unterscheidung sichtbar?
-- Deepfakes und erfundene Literaturangaben sind unterschiedliche Fehlformen: Die eine ist ein falscher Bericht über die Welt, die andere ein falscher Bericht über die Literatur. Kann ein Kurs beide lehren, ohne jedes davon schlecht zu lehren?
-- KI-Detektoren und Faktenprüfer sind selbst Modelle mit Fehlerraten. Was geschieht mit einem Curriculum zur Verifikation, wenn das Verifikationswerkzeug probabilistisch ist?
-- Medienkompetenz wurde über Produktion gelehrt — Lernende erstellen Medien, um sie zu verstehen. Wenn nun ein Modell das Artefakt erstellt, welcher Teil der Pädagogik überlebt?
+- [[ai-avatars-and-synthetic-instructors|Deepfakes]] und erfundene Literaturangaben sind unterschiedliche Fehlformen: Die eine ist ein falscher Bericht über die Welt, die andere ein falscher Bericht über die Literatur. Kann ein Kurs beide lehren, ohne jedes davon schlecht zu lehren?
+- KI-Detektoren und Faktenprüfer sind selbst Modelle mit Fehlerraten. Was geschieht mit einem [[curriculum-design|Curriculum]] zur Verifikation, wenn das Verifikationswerkzeug probabilistisch ist?
+- Medienkompetenz wurde über Produktion gelehrt — Lernende erstellen Medien, um sie zu verstehen. Wenn nun ein Modell das Artefakt erstellt, welcher Teil der [[pedagogy|Pädagogik]] überlebt?
 
 ## Einführung
 
@@ -45,7 +45,7 @@ Diese Seite behandelt das Paar, weil der Korpus sie als ein didaktisches Problem
 
 Der Gegenstand der Informationskompetenz ist die Quelle, und ihre Kernfrage lautet, ob die Behauptung wahr und die Evidenz hinter ihr glaubwürdig ist. Der Gegenstand der Medienkompetenz ist die Botschaft, und ihre Kernfrage lautet, wer sie erstellt hat, wie, für wen und zu welchem Zweck. Eine erfundene Literaturangabe scheitert am ersten Test; ein Deepfake kann jede Faktenprüfung bestehen, die eine studierende Person durchzuführen weiß, und dabei am zweiten scheitern.
 
-Die empirischen Literaturen spiegeln diese Spaltung. Eine Befragung von 236 US-amerikanischen Universitätsstudierenden fragte, wo akademische Suchen beginnen, und fand Suchmaschinen bei 45,5 %, die Bibliothekshomepage bei 27,9 % und einen KI-Chatbot bei 26,6 %, wobei internationale Studierende Bibliotheksressourcen etwa doppelt so häufig durch KI ersetzten wie inländische Studierende ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Ein systematischer Review von 32 Studien fand die Integration von KI-Kompetenz in die Vermittlung von Informationskompetenz in einem „Anfangsstadium", umgesetzt über LibGuides und Workshops statt über Curricula ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza und Arif, 2026]]). Auf der Medienseite fand eine Interviewstudie mit sieben Expertinnen und Experten und eine Befragung von 141 Studierenden die Einbeziehung von Technologie in das Curriculum kritischer Medienkompetenz „begrenzt und oft oberflächlich", wobei Lehrkräfte für Werkzeuge, die Desinformation und Deepfakes erzeugen, unzureichend ausgebildet seien ([[critical-media-literacy-education-2026|die Studie zur kritischen Medienkompetenz, 2026]]).
+Die empirischen Literaturen spiegeln diese Spaltung. Eine Befragung von 236 US-amerikanischen Universitätsstudierenden fragte, wo akademische Suchen beginnen, und fand Suchmaschinen bei 45,5 %, die Bibliothekshomepage bei 27,9 % und einen KI-Chatbot bei 26,6 %, wobei internationale Studierende Bibliotheksressourcen etwa doppelt so häufig durch KI ersetzten wie inländische Studierende ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Ein [[meta-analysis-systematic-review|systematischer Review]] von 32 Studien fand die Integration von [[ai-literacy|KI-Kompetenz]] in die Vermittlung von Informationskompetenz in einem „Anfangsstadium", umgesetzt über LibGuides und Workshops statt über Curricula ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza und Arif, 2026]]). Auf der Medienseite fand eine Interviewstudie mit sieben Expertinnen und Experten und eine Befragung von 141 Studierenden die Einbeziehung von Technologie in das Curriculum kritischer Medienkompetenz „begrenzt und oft oberflächlich", wobei Lehrkräfte für Werkzeuge, die Desinformation und Deepfakes erzeugen, unzureichend ausgebildet seien ([[critical-media-literacy-education-2026|die Studie zur kritischen Medienkompetenz, 2026]]).
 
 ## Wie KI die Informationskompetenz verkompliziert
 
@@ -59,15 +59,15 @@ Die dritte ist Kapazität. In einer Befragung von 412 wissenschaftlichen Bibliot
 
 Die Gründungsfragen der Medienkompetenz setzten eine Urheberin oder einen Urheber mit einer Absicht voraus. Deepfakes, Stimmklone und automatisierte Bots brechen diese Annahme auf drei Weisen: Das Artefakt hat möglicherweise keine menschliche Urheberschaft, das Publikum kann synthetisch sein, und die Absicht kann Optimierung auf Engagement statt Überzeugung durch irgendjemanden sein.
 
-Die Curriculumsevidenz legt nahe, dass Schulen nicht Schritt gehalten haben. Die Experteninterviews beschreiben die Lehrkräfteausbildung als die entscheidende Engstelle statt als Widerstand der Lernenden und plädieren für eine Rahmung durch [[critical-pedagogy|kritische Pädagogik]], die Bewertung als ethische und partizipative Praxis behandelt statt als Werkzeugtraining. Ein beauftragter Bericht für öffentlich-rechtliche Medien fand, dass das Angebot für 14- bis 19-Jährige sich zu funktionalen KI-Fähigkeiten und weg von kritischer Bewertung neigt, obwohl mehr als 40 Rahmenwerke gesichtet und 35 Expertinnen und Experten interviewt wurden ([[ai-literacies-young-adults-2025|der Bericht zu KI-Kompetenzen, 2025]]).
+Die Curriculumsevidenz legt nahe, dass Schulen nicht Schritt gehalten haben. Die Experteninterviews beschreiben die [[teacher-education|Lehrkräfteausbildung]] als die entscheidende Engstelle statt als Widerstand der Lernenden und plädieren für eine Rahmung durch [[critical-pedagogy|kritische Pädagogik]], die Bewertung als ethische und partizipative Praxis behandelt statt als Werkzeugtraining. Ein beauftragter Bericht für öffentlich-rechtliche Medien fand, dass das Angebot für 14- bis 19-Jährige sich zu funktionalen KI-Fähigkeiten und weg von kritischer Bewertung neigt, obwohl mehr als 40 Rahmenwerke gesichtet und 35 Expertinnen und Experten interviewt wurden ([[ai-literacies-young-adults-2025|der Bericht zu KI-Kompetenzen, 2025]]).
 
 ## KI als defensives Werkzeug — Behauptungen und Einschränkungen
 
-Das Argument für den Einsatz von KI auf der defensiven Seite ist plausibel und wird weithin vertreten: automatisierte Glaubwürdigkeitsprüfungen, die die Vorgeschichte und die Sprache einer Quelle nach Bias-Signalen durchsuchen, Deepfake-Detektoren, Metadatenanalysen, die nach Herkunftsmarkern suchen, und Simulationen, in denen Lernende die Bewertung an realistischem synthetischem Material üben. Diese Fähigkeiten sind reale Produkte, und die Nutzung im Klassenzimmer ist reale Praxis.
+Das Argument für den Einsatz von KI auf der defensiven Seite ist plausibel und wird weithin vertreten: automatisierte Glaubwürdigkeitsprüfungen, die die Vorgeschichte und die Sprache einer Quelle nach Bias-Signalen durchsuchen, Deepfake-Detektoren, Metadatenanalysen, die nach Herkunftsmarkern suchen, und [[simulation|Simulationen]], in denen Lernende die Bewertung an realistischem synthetischem Material üben. Diese Fähigkeiten sind reale Produkte, und die Nutzung im Klassenzimmer ist reale Praxis.
 
 Die Evidenz ist dünner als die Behauptungen. Detektoren sind probabilistisch und verschlechtern sich, während die Generatoren besser werden; ein Faktenprüfungsmodell ist selbst ein Modell, sodass die studierende Person noch immer den Prüfer beurteilen muss; und Herkunftsmetadaten helfen nur, wenn eine produzierende Stelle sie freiwillig anhängt. Eines der belastbarsten Ergebnisse des Korpus ist, dass KI-gestützte Medienkompetenzvermittlung in kleinem Maßstab wirken kann: Ein 18-stündiges Programm nach dem 5E-Modell erzeugte große Zuwächse bei 36 Viertklässlerinnen und Viertklässlern an einer türkischen Schule ([[demir-akar-ai-media-literacy-children-2026|Demir und Akar, 2026]]). Sechsunddreißig Lernende sind ein Machbarkeitsnachweis, kein Beschaffungsfall.
 
-Ein Meinungsbeitrag aus dem Bibliothekssektor treibt dieselbe Idee weiter: KI könnte die *Vermittlung* von Informationskompetenz durch Retrieval, adaptive Tutorials, Chatbots und automatisierte Faktenprüfung tragen, wobei [[librarians|Bibliothekarinnen und Bibliothekare]] statt Anbieter die Integration verantworten sollten ([[offem-ai-information-literacy-library-users-2026|Offem und Arikpo, 2026]]). Der Beitrag berichtet keine Daten; er ist daher eine Designskizze dafür, wo Vermittlung liegen könnte, und kein Beleg dafür, dass sie funktioniert.
+Ein Meinungsbeitrag aus dem Bibliothekssektor treibt dieselbe Idee weiter: KI könnte die *Vermittlung* von Informationskompetenz durch Retrieval, adaptive Tutorials, [[conversational-ai|Chatbots]] und automatisierte Faktenprüfung tragen, wobei [[librarians|Bibliothekarinnen und Bibliothekare]] statt Anbieter die Integration verantworten sollten ([[offem-ai-information-literacy-library-users-2026|Offem und Arikpo, 2026]]). Der Beitrag berichtet keine Daten; er ist daher eine Designskizze dafür, wo Vermittlung liegen könnte, und kein Beleg dafür, dass sie funktioniert.
 
 Zusammengelesen legen die beiden Seiten der Bilanz eine Regel nahe: KI kann die *Übungslast* tragen — realistische Szenarien, unmittelbares Feedback, Skalierung —, aber die *Urteilslast* bleibt bei der lernenden Person, und jedes Werkzeug, das behauptet, sie zu ersetzen, sollte als Detektor mit gemessener Fehlerrate bewertet und nicht als Lösungsschlüssel übernommen werden.
 
@@ -81,7 +81,7 @@ Zusammengelesen legen die beiden Seiten der Bilanz eine Regel nahe: KI kann die 
 
 ## Grenzen der Evidenz
 
-Die meisten Studien hier sind klein, selbstberichtet oder beides: 236 Studierende in einer Befragung, 36 Kinder in einer Intervention, 412 Bibliothekarinnen und Bibliothekare, die sich selbst einschätzten. Bibliometrische Sichtbarkeit ist keine Praxis, und die scientometrischen Autorinnen und Autoren sagen das ausdrücklich. Keine Studie im Korpus bewertet ein kombiniertes Curriculum für Informations- und Medienkompetenz, und die Detektor- und Faktenprüfungswerkzeuge, die die Praxisliteratur empfiehlt, sind in diesen Quellen weitgehend ungemessen. Die Behauptung, KI-gestützte Verifikation verbessere Ergebnisse, sollte als Designhypothese behandelt werden, bis jemand sie gegen eine Kontrolle testet.
+Die meisten Studien hier sind klein, [[self-report-measures|selbstberichtet]] oder beides: 236 Studierende in einer Befragung, 36 Kinder in einer Intervention, 412 Bibliothekarinnen und Bibliothekare, die sich selbst einschätzten. Bibliometrische Sichtbarkeit ist keine Praxis, und die scientometrischen Autorinnen und Autoren sagen das ausdrücklich. Keine Studie im Korpus bewertet ein kombiniertes Curriculum für Informations- und Medienkompetenz, und die Detektor- und Faktenprüfungswerkzeuge, die die Praxisliteratur empfiehlt, sind in diesen Quellen weitgehend ungemessen. Die Behauptung, KI-gestützte Verifikation verbessere Ergebnisse, sollte als Designhypothese behandelt werden, bis jemand sie gegen eine Kontrolle testet.
 
 ## Verbundene Konzepte
 

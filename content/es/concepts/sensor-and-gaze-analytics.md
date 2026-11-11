@@ -1,7 +1,7 @@
 ---
 title: Analítica de sensores y de la mirada
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -13,7 +13,7 @@ level: [higher ed, k 12]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -67,7 +67,7 @@ Estas señales difieren en frecuencia de muestreo, ruido y carga instrumental. E
 
 **Estimación de la atención en aulas.** Un [[multimodal|transformador multimodal]] fusionó imágenes faciales con señales wearable en DIPSER, un conjunto naturalista de 57 sujetos, y alcanzó un MAE de 0,283. Su ventaja sobre una línea base solo visual fue modesta, y los autores concluyen que los rasgos faciales fueron la fuente principal ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]).
 
-**Carga cognitiva y momento de la retroalimentación.** TutorLoop usó la atención y la carga de trabajo derivadas de la mirada para elegir entre cuatro [[feedback|tipos de retroalimentación]] con un agente de aprendizaje por refuerzo. En 187 participantes, el sistema completo intervino menos que las líneas base y aun así mejoró la atención y redujo la carga de trabajo ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
+**Carga cognitiva y momento de la retroalimentación.** TutorLoop usó la atención y la carga de trabajo derivadas de la mirada para elegir entre cuatro [[feedback|tipos de retroalimentación]] con un agente de [[reinforcement-learning|aprendizaje por refuerzo]]. En 187 participantes, el sistema completo intervino menos que las líneas base y aun así mejoró la atención y redujo la carga de trabajo ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
 
 **Supervisión de exámenes e integridad.** La supervisión basada en pose informa de un rendimiento casi perfecto en su propio conjunto etiquetado de escenarios: 99,56% de exactitud y un AUC de 0,9957 ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). La IA wearable cambia el mismo problema desde el otro lado. Las gafas inteligentes eliminan la caída de la mirada y el cambio de postura en los que se apoya la vigilancia, una condición que Corbin y colegas llaman doble transparencia ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 
@@ -87,7 +87,7 @@ Un correlato neural no es una puntuación. Las imágenes reconstruidas a partir 
 
 La atención no es aprendizaje. En TutorLoop, la atención correlacionó con el aprendizaje con r = 0,017, mientras que la carga de trabajo correlacionó negativamente con r = -0,168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Un sistema que maximizara la señal de atención habría optimizado algo cercano al ruido.
 
-Un sensor puede registrar copresencia donde un estudio afirma interacción: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] encontraron que un detector basado en pose alcanzaba solo un 55% de exhaustividad, capturando 11 de los 20 eventos que los codificadores humanos identificaron en las interacciones del docente con grupos de estudiantes. El docente estaba presente dentro del límite del grupo en el 49,2% de los segmentos codificados, mientras que el estudiantado miraba al docente solo en el 25,4%, y ningún rasgo de audio cambió en ninguna de las dos comparaciones, así que la canalización registró copresencia espacial y no interacción sostenida.
+Un sensor puede registrar copresencia donde un estudio afirma interacción: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] encontraron que un detector basado en pose alcanzaba solo un 55% de exhaustividad, capturando 11 de los 20 eventos que los codificadores humanos identificaron en las interacciones del [[teacher-role|docente]] con grupos de estudiantes. El docente estaba presente dentro del límite del grupo en el 49,2% de los segmentos codificados, mientras que el estudiantado miraba al docente solo en el 25,4%, y ningún rasgo de audio cambió en ninguna de las dos comparaciones, así que la canalización registró copresencia espacial y no interacción sostenida.
 
 Un perfil fisiológico no es un diagnóstico. Los modelos de estrés en exámenes predicen una categoría de calificación a partir de la activación y el movimiento, y los autores insisten en que la salida pertenece junto a las circunstancias personales y el contexto de salud mental, no dentro de una decisión de alto impacto ([[physiological-signals-exam-outcomes-ml|Yamazaki y Rimal, 2026]]).
 
@@ -101,7 +101,7 @@ Por último, recoger no es integrar. Kim y Han encontraron que la mayoría de lo
 
 **La desviación de función es el camino normal.** El seguimiento del bienestar se convierte en marcado de riesgo, y este en evidencia para calificar. Corbin y colegas muestran la versión evaluativa de esa deriva: cuando la exclusión física falla, la inspección pasa de los artefactos a los cuerpos, y el estudiantado debe probar que sus gafas son correctivas y sus dispositivos terapéuticos ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 
-**Los fallos de equidad se agrupan en cuerpos distintos.** La estimación de atención por rostro depende del tono de piel, las gafas y la iluminación. La atención basada en la mirada penaliza a quienes evitan el contacto visual, incluidas algunas personas autistas y [[neurodiversity|estudiantes neurodivergentes]]. La supervisión basada en pose marca tics, stimming y normas culturales de movimiento. El estudio de supervisión no comprueba si la postura marcada corresponde a una conducta indebida, ni si el detector trata con justicia a [[inclusive-learning|estudiantes con discapacidad]] o las diferencias culturales en la mirada ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). La regulación no es una solución aquí; es una forma de blanquear el error convirtiéndolo en regla.
+**Los fallos de [[equity-in-ai-education|equidad]] se agrupan en cuerpos distintos.** La estimación de atención por rostro depende del tono de piel, las gafas y la iluminación. La atención basada en la mirada penaliza a quienes evitan el contacto visual, incluidas algunas personas autistas y [[neurodiversity|estudiantes neurodivergentes]]. La supervisión basada en pose marca tics, stimming y normas culturales de movimiento. El estudio de supervisión no comprueba si la postura marcada corresponde a una conducta indebida, ni si el detector trata con justicia a [[inclusive-learning|estudiantes con discapacidad]] o las diferencias culturales en la mirada ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). La regulación no es una solución aquí; es una forma de blanquear el error convirtiéndolo en regla.
 
 **Las afirmaciones de equidad necesitan evidencia a nivel de sujeto.** Un regularizador dirigido al género redujo la brecha de MAE de validación de 0,02 a 0,005 y luego aumentó tanto la brecha como el error del peor grupo en sujetos reservados ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). Informar de una única partición como prueba de equidad es un fallo de diseño con un costo de equidad.
 

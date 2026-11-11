@@ -11,9 +11,9 @@ audience: [instructors, curriculum designers, researchers]
 level: [primary education, k 12, higher ed]
 connected_faqs: [ai-support-reading-comprehension]
 confidence: medium
-updated: "2026-11-07T17:28:19-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 translation_of: "concepts/reading-education"
-source_updated: "2026-11-06T01:55:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -32,8 +32,8 @@ ai_assist:
 - 当 AI 工具帮助学生理解一段文字时，学生学到了什么 —— 内容、一种阅读策略，还是如何向工具索要答案？其中哪一样是你想评估的？
 - 可读性公式统计词数与句长。关于读者对一段文本的体验，它遗漏了什么，而你会改测什么？
 - 如果 AI 能把任何文本改写为学生的阅读水平，水平本身是否就不再重要 —— 还是学生终究仍需面对困难的文本？
-- 当阅读评估被自动生成时，谁受益：教师的工作量、学生的动机，还是分数的效度？三者能同时改善吗？
-- 阅读困难也是一个无障碍问题。面向阅读吃力者、多语学习者和神经多样性学生的工具，应当如何不同于一个通用的阅读助手？
+- 当阅读评估被自动生成时，谁受益：[[teacher-role|教师]]的工作量、学生的动机，还是分数的效度？三者能同时改善吗？
+- 阅读困难也是一个无障碍问题。面向阅读吃力者、[[multilingual-learning|多语]]学习者和神经多样性学生的工具，应当如何不同于一个通用的阅读助手？
 
 ## 引言
 
@@ -42,7 +42,7 @@ ai_assist:
 工作分为四条线索：
 
 - **支持读者** 在阅读过程中，包括激励性与陪伴性工具。
-- **评估阅读**，经由生成的段落、测验与对阅读作业的 AI 反馈。
+- **评估阅读**，经由生成的段落、测验与对阅读作业的 [[ai-feedback-quality|AI 反馈]]。
 - **改编与生成文本** 至目标水平，从简化到差异化材料。
 - **测量可读性与文本难度**，另外三条线索所依赖的那一层。
 
@@ -50,7 +50,7 @@ ai_assist:
 
 借助 [[generative-ai|生成式 AI]] 阅读会产生不一致的理解结果 —— 一项研究中有增益，另一项中则没有 [[transfer-of-learning|知识迁移]] —— 而 AIR 工具正是建立在这样一个假设之上：方差在于读者为何求助于该工具。Brann、Etgar 与 Sidi 开发并验证了一份 21 题量表，包含四种动机：任务导向、感觉良好、翻译与低投入（[[air-scale-motivations-ai-reading-2026|Brann 等，2026]]）。其证据来自探索性样本中 425 名英国高等教育学生与验证性样本中 414 名，拟合指标为 CFI .95 与 RMSEA .056。这一区分对实践很重要：一个为完成任务而使用工具的读者，与一个为回避努力而使用工具的读者，处于不同的姿态，而低投入正是作者标记为需要警惕浅层加工的那种动机。
 
-那是一项测量结果，而不是一项结果研究，本页保持这一区分。知识库目前尚不包含一项证明阅读陪伴工具带来持久理解增益的对照试验。
+那是一项测量结果，而不是一项结果研究，本页保持这一区分。知识库目前尚不包含一项证明阅读陪伴工具带来持久理解增益的[[rct|对照试验]]。
 
 ## 评估阅读
 
@@ -72,7 +72,7 @@ ai_assist:
 
 最大的研究簇为读者生成或改写文本。三种方法在各自控制什么上有所不同：
 
-- **水平受控的生成。** 在专家设计的儿童阅读课程与故事（来自 GPT-4o 与 Llama 3.3 70B）上微调三个 8B 模型，在难度相关指标上胜过两个更大的零样本模型，安全问题可忽略（[[llm-children-reading-story-generation|Li 等，2026]]）。
+- **水平受控的生成。** 在专家设计的儿童阅读[[curriculum-design|课程]]与故事（来自 GPT-4o 与 Llama 3.3 70B）上[[llm-training-and-fine-tuning|微调]]三个 8B 模型，在难度相关指标上胜过两个更大的零样本模型，安全问题可忽略（[[llm-children-reading-story-generation|Li 等，2026]]）。
 - **差异化材料。** 一个角色提示的生成式 AI 工作流用于 [[english-education|EAP]] 阅读材料，其效果主要来自增加水平特定的支持层 —— 注释、句子拆解、修辞线索、批判性提示 —— 而非改变段落层面的复杂度，最大效应出现在高水平学习者中（d = 1.40）（[[genai-differentiated-eap-reading-materials-2026|Gao，2026]]）。
 - **定制的课程读物。** 一门研究生课程用按兴趣与理解水平定制的即时读物取代了教材；24 名学生认为它们有用，75% 同意自己学到了更多，而制品分析发现缺乏可追溯性与引用不一致（[[sidorkin-ai-generated-course-readings-2026|Sidorkin，2026]]）。
 
@@ -80,9 +80,9 @@ ai_assist:
 
 ## 读者、界面与可及性
 
-阅读也是一个可及性问题。AIRRI 把作业材料渲染为受扰动的图像，以击破“截图—LLM”流水线，而其作者诚实地报告了可读性代价：条纹叠加被所有四位受访的设计与排版专家评为可读，而提取错误率达到 100%（[[airri-machine-resistant-reading-interface-2026|Airri 等，2026]]）。机器可读性与人类可读性之间的权衡，是一个带有无障碍代价的设计决定。
+阅读也是一个可及性问题。AIRRI 把作业材料渲染为受扰动的图像，以击破“截图—[[llm|LLM]]”流水线，而其作者诚实地报告了可读性代价：条纹叠加被所有四位受访的设计与排版专家评为可读，而提取错误率达到 100%（[[airri-machine-resistant-reading-interface-2026|Airri 等，2026]]）。机器可读性与人类可读性之间的权衡，是一个带有无障碍代价的设计决定。
 
-对于有阅读障碍的学习者，一项遵循 PRISMA 的综述覆盖 2018 至 2024 年的 72 项研究，发现 AI 被用于检测、[[assistive-technology|辅助支持]] 与 [[personalized-learning|个性化学习]]，但证据基础碎片化，实验验证很少；生成式 AI 的代表性极低（[[dabaghi-ai-dyslexia-education-review-2026|Dabaghi 等，2026]]）。阅读困难正是 [[neurodiversity|神经多样性]] 与 [[accessibility|无障碍]] 交汇于一般阅读议程之处，本页不把它们当作一个单独的话题。
+对于有阅读障碍的学习者，一项遵循 [[meta-analysis-systematic-review|PRISMA]] 的综述覆盖 2018 至 2024 年的 72 项研究，发现 AI 被用于检测、[[assistive-technology|辅助支持]] 与 [[personalized-learning|个性化学习]]，但证据基础碎片化，实验验证很少；生成式 AI 的代表性极低（[[dabaghi-ai-dyslexia-education-review-2026|Dabaghi 等，2026]]）。阅读困难正是 [[neurodiversity|神经多样性]] 与 [[accessibility|无障碍]] 交汇于一般阅读议程之处，本页不把它们当作一个单独的话题。
 
 ## 证据显示了什么、又没有显示什么
 

@@ -1,7 +1,7 @@
 ---
 title: 센서 및 시선 분석
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-08T00:06:30-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -63,7 +63,7 @@ AI와 [[embodied-learning|체화 학습]]을 짝지은 23편의 연구에 대한
 
 **교실에서의 주의 추정.** [[multimodal|멀티모달 트랜스포머]]가 57명 피험자의 자연주의 데이터셋인 DIPSER에서 얼굴 이미지를 웨어러블 신호와 융합하여 MAE 0.283에 도달했습니다. 시각 전용 기준선에 대한 우위는 완만했고, 저자들은 얼굴 특징이 일차적 정보원이었다고 결론짓습니다([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]).
 
-**인지 부하와 피드백 시점.** TutorLoop는 시선에서 도출한 주의와 작업 부하를 사용해 강화학습 에이전트로 네 가지 [[feedback|피드백 유형]] 중에서 선택했습니다. 187명 참가자에 걸쳐 전체 시스템은 기준선보다 덜 자주 개입하면서도 주의를 개선하고 작업 부하를 낮췄습니다([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
+**인지 부하와 피드백 시점.** TutorLoop는 시선에서 도출한 주의와 작업 부하를 사용해 [[reinforcement-learning|강화학습]] 에이전트로 네 가지 [[feedback|피드백 유형]] 중에서 선택했습니다. 187명 참가자에 걸쳐 전체 시스템은 기준선보다 덜 자주 개입하면서도 주의를 개선하고 작업 부하를 낮췄습니다([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
 
 **감독과 진실성.** 자세 기반 감독은 자체 라벨링한 시나리오 집합에서 천장에 가까운 성능을 보고합니다: 99.56% 정확도와 0.9957의 AUC([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). 웨어러블 AI는 같은 문제를 다른 쪽에서 바꿉니다. 스마트 안경은 감독이 의지하는 시선 낙하와 자세 변화를 없애며, Corbin과 동료들은 이 조건을 이중 투명성이라고 부릅니다([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 
@@ -84,7 +84,7 @@ AI와 [[embodied-learning|체화 학습]]을 짝지은 23편의 연구에 대한
 주의는 학습이 아닙니다. TutorLoop에서 주의는 학습과 r = 0.017로 상관했고, 작업 부하는 r = -0.168로 부정적으로 상관했습니다([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). 주의 신호를 최대화한 시스템은 잡음에 가까운 무언가를 최적화했을 것입니다.
 
 
-센서는 연구가 상호작용이라고 주장하는 곳에서 공존을 기록할 수 있습니다: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]]는 자세 기반 검출기가 재현율 55%에 그쳐, 교사–학생 집단 상호작용에서 인간 코더가 확인한 20개 사건 가운데 11개만 잡아냈음을 발견했습니다. 코딩된 구간의 49.2%에서 교사가 집단 경계 안에 있었으나 학생들이 교사를 바라본 경우는 25.4%에 그쳤고, 어느 비교에서도 오디오 특징은 변하지 않았으므로, 이 파이프라인은 지속적 상호작용이 아니라 공간적 공존을 등록했습니다.
+센서는 연구가 상호작용이라고 주장하는 곳에서 공존을 기록할 수 있습니다: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]]는 자세 기반 검출기가 재현율 55%에 그쳐, [[teacher-role|교사]]–학생 집단 상호작용에서 인간 코더가 확인한 20개 사건 가운데 11개만 잡아냈음을 발견했습니다. 코딩된 구간의 49.2%에서 교사가 집단 경계 안에 있었으나 학생들이 교사를 바라본 경우는 25.4%에 그쳤고, 어느 비교에서도 오디오 특징은 변하지 않았으므로, 이 파이프라인은 지속적 상호작용이 아니라 공간적 공존을 등록했습니다.
 
 생리적 프로파일은 진단이 아닙니다. 시험 스트레스 모형은 각성과 움직임으로 성적 범주를 예측하며, 저자들은 그 산출물이 고부담 결정이 아니라 개인적 상황과 정신 건강 맥락 곁에 놓여야 한다고 강조합니다([[physiological-signals-exam-outcomes-ml|Yamazaki and Rimal, 2026]]).
 
@@ -100,7 +100,7 @@ AI와 [[embodied-learning|체화 학습]]을 짝지은 23편의 연구에 대한
 
 **공정성 실패는 다른 몸에 몰립니다.** 얼굴 기반 주의 추정은 피부색, 안경 착용, 조명에 의존합니다. 시선 기반 주의는 눈 맞춤을 피하는 학습자, 그중 일부 자폐 및 [[neurodiversity|신경다양성]] 학생에게 불리합니다. 자세 기반 감독은 틱, 자기자극 행동(stimming), 문화적 움직임 규범을 표시합니다. 그 감독 연구는 표시된 자세가 부정행위에 해당하는지, 또는 탐지기가 [[inclusive-learning|장애 학생]]이나 시선의 문화적 차이를 공정하게 대우하는지 시험하지 않습니다([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). 여기서 규제는 해결책이 아니라 오류를 규칙으로 세탁하는 방식입니다.
 
-**공정성 주장에는 피험자 수준의 증거가 필요합니다.** 성별 대상 정규화기는 검증 MAE 격차를 0.02에서 0.005로 줄였지만, 홀드아웃 피험자에서는 격차와 최악 집단 오류를 모두 키웠습니다([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). 단일 분할을 공정성의 증거로 보고하는 것은 형평성 비용을 치르는 설계 실패입니다.
+**공정성 주장에는 피험자 수준의 증거가 필요합니다.** 성별 대상 정규화기는 검증 MAE 격차를 0.02에서 0.005로 줄였지만, 홀드아웃 피험자에서는 격차와 최악 집단 오류를 모두 키웠습니다([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). 단일 분할을 공정성의 증거로 보고하는 것은 [[equity-in-ai-education|형평성]] 비용을 치르는 설계 실패입니다.
 
 **프라이버시는 설계에 넣을 수 있습니다.** TutorLoop는 WebGazer를 클라이언트 측에서 돌려 원시 시선이 브라우저를 벗어나지 않게 했습니다([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). 그 선택은 비용의 일부가 내재적이 아니라 구조적임을 보여 줍니다. 더 어려운 질문은 그 추론이 애초에 존재해야 하는가입니다.
 

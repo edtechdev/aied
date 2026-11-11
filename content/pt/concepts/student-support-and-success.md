@@ -1,7 +1,7 @@
 ---
 title: Apoio e sucesso dos estudantes
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,7 +15,7 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,7 +51,7 @@ A distinção que organiza esta página é entre **o que um empurrão (nudge) co
 
 A pesquisa se agrupa em cinco funções, e os limites dos agrupamentos importam porque eles carregam evidências diferentes.
 
-Uma revisão de 61 estudos sobre apoio à aprendizagem habilitado por IA constatou que o campo se concentra em sistemas adaptativos e personalização (41 usos) e em perfilamento e predição (30), com chatbots e recomendadores tratando a entrada e as consultas rotineiras. Também constatou as lacunas: nenhuma intervenção abordou a fase de transição de quem aprende, e apenas dois estudos nomearam um subgrupo de estudantes, de modo que o aprendiz genérico na maioria dos sistemas era uma média estatística ([[cefa-ai-learner-support-review-2026|Cefa et al., 2026]]).
+Uma revisão de 61 estudos sobre apoio à aprendizagem habilitado por IA constatou que o campo se concentra em [[adaptive-learning|sistemas adaptativos]] e [[personalized-learning|personalização]] (41 usos) e em perfilamento e predição (30), com chatbots e recomendadores tratando a entrada e as consultas rotineiras. Também constatou as lacunas: nenhuma intervenção abordou a fase de transição de quem aprende, e apenas dois estudos nomearam um subgrupo de estudantes, de modo que o aprendiz genérico na maioria dos sistemas era uma média estatística ([[cefa-ai-learner-support-review-2026|Cefa et al., 2026]]).
 
 **Alcance e comunicação.** As instituições envam mensagens aos estudantes em escala, e as avaliações mais fortes testam se isso muda alguma coisa. Um estudo randomizado de quatro anos do CSUNny, um chatbot de mensagem de texto não generativo na California State University, Northridge, acompanhou duas coortes de graduação (N = 8.708) por oito semestres ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page, 2026]]). Um lembrete de matrícula enviado em 31 de julho de 2018 tornou os estudantes tratados 34 pontos percentuais mais propensos a se matricular até 16 de agosto, e apenas 2 pontos mais propensos até 15 de setembro; lembretes do Early Start produziram 11 pontos mais de matrícula até 7 de junho e 20 pontos até 22 de junho. A receptividade se manteve: as taxas anuais de opt-out nunca excederam 4%. Um ensaio multissemestre pré-registrado na Georgia State University deu empurrões a estudantes em dois grandes cursos assíncronos (N = 1.568 e N = 915) com duas a três mensagens personalizadas por semana, elevando em quatro pontos percentuais as chances de tirar A ou B contra 61% dos controles e deslocando as taxas de DFW cerca de três pontos em cada curso ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
@@ -63,9 +63,9 @@ Uma revisão de 61 estudos sobre apoio à aprendizagem habilitado por IA constat
 
 **Assistência administrativa.** Liderança e administração são estudadas como domínio de aplicação próprio, com uma taxonomia de dez domínios mapeando onde a IA incide na liderança educacional ([[sposato-ai-educational-leadership-taxonomy-2025|Sposato, 2025]]). Serviços geridos por instituições alcançam além da orientação, até a saúde: um framework integrado de bem-estar no campus emparelha prevenção — melhorar como o feedback é coletado — com intervenção por detecção de saúde mental ([[ai-campus-wellbeing-tools|Tang, 2026]]). A credencialização fica adjacente: quando um agente consegue completar um curso em nome de um estudante, uma credencial que diz \"obtido\" perde seu sentido, o que transforma os registros de conclusão num problema de desenho ([[credentials-carry-evidence-ai-agents-2026|Srivastava, 2026]]).
 
-**Um assistente interno compete com o chatbot público em disponibilidade, não em capacidade.** Em cinco estudos de codesenho na Open University (315 estudantes, 20 funcionários), o ponto de venda mais forte do proposto i-AIDA era o acesso ininterrupto, concordado por 73% de uma pesquisa com 96 estudantes, e o uso direto deslocou a demanda de 9 de 18 estudantes para 16 de 18 (d = 0,81) ([[rienties-institutional-ai-assistant-co-design-2026|Rienties et al., 2026]]). Os estudantes o avaliaram em 7,58 de 10 contra outras ferramentas generativas, enquanto cerca de 10–15% objetaram por valores, e não por usabilidade, chamando o estudo assistido por IA de diluição da aprendizagem legítima.
+**Um assistente interno compete com o chatbot público em disponibilidade, não em capacidade.** Em cinco estudos de codesenho na Open University (315 estudantes, 20 funcionários), o ponto de venda mais forte do proposto i-AIDA era o acesso ininterrupto, concordado por 73% de uma pesquisa com 96 estudantes, e o uso direto deslocou a demanda de 9 de 18 estudantes para 16 de 18 (d = 0,81) ([[rienties-institutional-ai-assistant-co-design-2026|Rienties et al., 2026]]). Os estudantes o avaliaram em 7,58 de 10 contra outras ferramentas generativas, enquanto cerca de 10–15% objetaram por valores, e não por [[usability-research|usabilidade]], chamando o estudo assistido por IA de diluição da aprendizagem legítima.
 
-O que um canal de apoio por IA desloca merece a mesma contabilidade. Ao longo de quatro estudos (N = 249, 494, 743 e 737), a crença na capacidade da IA de fornecer apoio emocional elevou a disposição de transferir esse apoio para ela, e o efeito passou inteiramente pela capacidade percebida (efeito total c = 0,83; efeito indireto ab = 0,73) ([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]). Numa medida comportamental, participantes que disseram que não transfeririam escolheram menos palavras de empatia, de modo que encaminhar estudantes a um canal de bem-estar por IA pode subtrair apoio humano de formas que o [[self-report-measures|autorrelato]] não mostra.
+O que um canal de apoio por IA desloca merece a mesma contabilidade. Ao longo de quatro estudos (N = 249, 494, 743 e 737), a crença na capacidade da IA de fornecer apoio emocional elevou a disposição de transferir esse apoio para ela, e o efeito passou inteiramente pela capacidade percebida (efeito total c = 0,83; efeito indireto ab = 0,73) ([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]). Numa medida comportamental, participantes que disseram que não transfeririam escolheram menos palavras de [[empathy|empatia]], de modo que encaminhar estudantes a um canal de bem-estar por IA pode subtrair apoio humano de formas que o [[self-report-measures|autorrelato]] não mostra.
 
 ## Da predição ao apoio
 

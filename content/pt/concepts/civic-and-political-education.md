@@ -1,7 +1,7 @@
 ---
 title: Educação cívica e política
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, teacher-role]
 pedagogy: [critical-pedagogy, lifelong-learning]
@@ -13,7 +13,7 @@ level: [k 12, higher ed, teacher education]
 audience: [instructors, curriculum designers, policymakers]
 confidence: low
 translation_of: concepts/civic-and-political-education
-source_updated: "2026-11-04T18:52:58-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ ai_assist:
 
 ## Introdução
 
-A educação cívica e política abrange como as escolas preparam as pessoas para a vida pública: estruturas governamentais, os direitos e obrigações dos cidadãos, o raciocínio público sobre problemas contestados, a participação em decisões coletivas e as habilidades informacionais que o argumento público exige. [[critical-media-literacy-education-2026|Santos-Albardía et al. (2025)]] descrevem o objetivo como cidadania participativa e crítica, não como proficiência em ferramentas. [[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] a situa em Ciências Sociais, Geografia e Orientação para a Vida, onde cidadania e direitos humanos já são ensinados. Esta página define o território e registra o que o corpus contém: trabalho adjacente, não uma literatura de educação cívica.
+A educação cívica e política abrange como as escolas preparam as pessoas para a vida pública: estruturas governamentais, os direitos e obrigações dos cidadãos, o raciocínio público sobre problemas contestados, a participação em decisões coletivas e as [[information-and-media-literacy|habilidades informacionais]] que o argumento público exige. [[critical-media-literacy-education-2026|Santos-Albardía et al. (2025)]] descrevem o objetivo como cidadania participativa e crítica, não como proficiência em ferramentas. [[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] a situa em Ciências Sociais, Geografia e Orientação para a Vida, onde cidadania e direitos humanos já são ensinados. Esta página define o território e registra o que o corpus contém: trabalho adjacente, não uma literatura de educação cívica.
 
 ## O que a educação cívica abrange
 
@@ -52,11 +52,11 @@ A educação cívica não é uma disciplina de memorização. Um plano que pede 
 
 A integridade acadêmica pergunta se o trabalho entregue é do próprio estudante. A educação cívica pergunta se uma alegação pública é verdadeira, atribuível e aberta à contestação. A IA generativa tensiona a segunda pergunta de formas que a primeira não captura.
 
-Três mecanismos se repetem. Primeiro, evidência fabricada: um modelo pode produzir uma citação, estatística ou referência jurídica plausível que o estudante não consegue verificar de forma independente. Segundo, persuasão política gerada. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] nomeiam deepfakes, propaganda direcionada e desinformação automatizada como ameaças à democracia. [[critical-media-literacy-education-2026|Santos-Albardía et al.]] relatam consenso entre especialistas de que a IA e os deepfakes tornam a realidade mais difícil de distinguir da desinformação. Terceiro, verificação de fontes. Um estudante que não consegue rastrear uma alegação até uma instituição ou um autor nomeado depende do sistema que a produziu.
+Três mecanismos se repetem. Primeiro, evidência fabricada: um modelo pode produzir uma citação, estatística ou referência jurídica plausível que o estudante não consegue verificar de forma independente. Segundo, persuasão política gerada. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] nomeiam [[ai-avatars-and-synthetic-instructors|deepfakes]], propaganda direcionada e desinformação automatizada como ameaças à democracia. [[critical-media-literacy-education-2026|Santos-Albardía et al.]] relatam consenso entre especialistas de que a IA e os deepfakes tornam a realidade mais difícil de distinguir da desinformação. Terceiro, verificação de fontes. Um estudante que não consegue rastrear uma alegação até uma instituição ou um autor nomeado depende do sistema que a produziu.
 
 O estudante também é produtor, escrevendo a autoridades e circulando evidências. A questão cívica não é se a IA auxiliou o texto. É se o estudante consegue sustentar a alegação e responder a objeções.
 
-[[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz e Castro Samayoa (2026)]] apresentam o argumento cívico em termos de teoria política, não em termos de teste. O argumento deles é que a contribuição da educação para a democracia é a prática da avaliação crítica, e que a IA generativa remove a prática, não o conteúdo. Terceirizar a investigação, a análise, a avaliação e a síntese a um modelo encurta o exercício que constrói essas capacidades tanto no K–12 quanto no ensino superior. Eles nomeiam três mecanismos: o desaparecimento do atrito produtivo, o [[automation-bias|viés de automação]] e um enquadramento de eficiência que trata o objetivo do trabalho escolar como conclusão de tarefa. Os riscos que eles associam a isso são os maiores do corpus, e os menos evidenciados: governos autoritários, escrevem, florescem quando os cidadãos não conseguem avaliar alegações de verdade, e regimes suprimiram o letramento com esse fim. O remédio deles é um par de letramentos e um compromisso de desenho — letramento crítico em IA e mídia, e processo em vez de produto. O ensaio fornece a racionalidade que esta página de outro modo monta em pedaços, e não fornece dados próprios.
+[[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz e Castro Samayoa (2026)]] apresentam o argumento cívico em termos de teoria política, não em termos de teste. O argumento deles é que a contribuição da educação para a democracia é a prática da [[critical-thinking|avaliação crítica]], e que a IA generativa remove a prática, não o conteúdo. Terceirizar a investigação, a análise, a avaliação e a síntese a um modelo encurta o exercício que constrói essas capacidades tanto no K–12 quanto no [[higher-ed|ensino superior]]. Eles nomeiam três mecanismos: o desaparecimento do [[desirable-difficulties|atrito produtivo]], o [[automation-bias|viés de automação]] e um enquadramento de eficiência que trata o objetivo do trabalho escolar como conclusão de tarefa. Os riscos que eles associam a isso são os maiores do corpus, e os menos evidenciados: governos autoritários, escrevem, florescem quando os cidadãos não conseguem avaliar alegações de verdade, e regimes suprimiram o letramento com esse fim. O remédio deles é um par de letramentos e um compromisso de desenho — letramento crítico em IA e mídia, e processo em vez de produto. O ensaio fornece a racionalidade que esta página de outro modo monta em pedaços, e não fornece dados próprios.
 
 [[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] acrescenta um mecanismo que o enquadramento de integridade perde. A partir do regime de fronteiras mediado por IA da África do Sul, o artigo deriva cinco exigências de letramento digital cívico: transparência algorítmica, direitos sobre dados, reconhecimento de viés, contestação de direitos e [[governance|governança participativa]]. Alguém que não consegue reconhecer que uma decisão foi algorítmica, ou encontrar a via de recurso, perdeu uma capacidade cívica, não uma habilidade técnica.
 
@@ -66,7 +66,7 @@ A sobreposição é substancial e as fontes não resolvem a fronteira. O letrame
 
 O acréscimo cívico não é mais uma habilidade de avaliação. É o movimento de julgar uma mensagem para agir sobre instituições. O letramento midiático pode dizer a um estudante que uma alegação viral não tem sustentação. A educação cívica pergunta qual órgão tem autoridade, qual direito de acesso se aplica, como uma decisão pode ser contestada e que participação a mudaria. As cinco exigências de Nkalanga especificam essa segunda metade com mais clareza.
 
-Os frameworks cobrem melhor a primeira metade. Nkalanga constata que o DigComp 2.1 inclui letramento de dados e segurança digital, mas deixa a responsabilização algorítmica fora de suas áreas de competência. Os padrões de Tecnologia da Informação e Ciências Sociais da África do Sul carregam pouco conteúdo de letramento digital, e o programa de Geografia não contém nada sobre sistemas algorítmicos. O resultado são usuários competentes de ferramentas que não conseguem interrogar uma decisão tomada sobre eles.
+Os frameworks cobrem melhor a primeira metade. Nkalanga constata que o DigComp 2.1 inclui [[statistics-and-data-science-education|letramento de dados]] e segurança digital, mas deixa a responsabilização algorítmica fora de suas áreas de competência. Os padrões de Tecnologia da Informação e Ciências Sociais da África do Sul carregam pouco conteúdo de letramento digital, e o programa de Geografia não contém nada sobre sistemas algorítmicos. O resultado são usuários competentes de ferramentas que não conseguem interrogar uma decisão tomada sobre eles.
 
 ## O que a base de conhecimento contém, e o que não contém
 
@@ -76,7 +76,7 @@ O corpus contém nove fontes que tocam a educação cívica e política, e nenhu
 
 A lacuna é específica. Nada mede se os estudantes conseguem verificar uma alegação gerada contra uma fonte primária, identificar uma decisão algorítmica e encontrar uma via de recurso, ou produzir escrita pública que resista ao escrutínio. Os números de prontidão do levantamento de letramento midiático são [[self-report-measures|autoavaliados]], então descrevem confiança, não competência.
 
-Um programa de pesquisa precisaria de medidas de linha de base e posteriores de conhecimento cívico, raciocínio público e verificação de fontes, usando tarefas com fabricações plantadas. Precisaria de medidas comportamentais de participação, tarefas de produção pontuadas por acurácia de alegação e atribuição, e testes de se os estudantes conseguem contestar uma decisão em vez de descrevê-la. Precisaria de condições de sala de aula, [[teacher-education|preparação de professores]] e dados de equidade, especialmente na África do Sul, onde Nkalanga relata cerca de 16,000 escolas sem laboratórios de informática e enquadra a carência como um problema de equidade do [[global-south|Sul Global]]. Até então, esta página é um mapa de uma lacuna.
+Um programa de pesquisa precisaria de medidas de linha de base e posteriores de conhecimento cívico, raciocínio público e verificação de fontes, usando tarefas com fabricações plantadas. Precisaria de medidas comportamentais de participação, tarefas de produção pontuadas por acurácia de alegação e atribuição, e testes de se os estudantes conseguem contestar uma decisão em vez de descrevê-la. Precisaria de condições de sala de aula, [[teacher-education|preparação de professores]] e dados de [[equity-in-ai-education|equidade]], especialmente na África do Sul, onde Nkalanga relata cerca de 16,000 escolas sem laboratórios de informática e enquadra a carência como um problema de equidade do [[global-south|Sul Global]]. Até então, esta página é um mapa de uma lacuna.
 
 ## Ideias equivocadas comuns
 

@@ -1,7 +1,7 @@
 ---
 title: センサーと視線分析
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -63,7 +63,7 @@ AIと[[embodied-learning]]を組み合わせた23の研究の[[meta-analysis-sys
 
 **教室における注意推定。** [[multimodal|マルチモーダル]]トランスフォーマーが、57人を対象とした自然主義的データセット DIPSER 上で顔画像とウェアラブル信号を融合し、MAE 0.283に到達しました。視覚のみのベースラインに対する優位は控えめで、著者らは顔の特徴が主要な情報源だったと結論しています([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]])。
 
-**認知的負荷とフィードバックのタイミング。** TutorLoop は視線から導いた注意と作業負荷を用いて、強化学習エージェントに4つの[[feedback|フィードバックの種類]]から選ばせました。187人の参加者を通じて、システム全体はベースラインよりも介入回数が少ないのに、注意を改善し作業負荷を下げました([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]])。
+**認知的負荷とフィードバックのタイミング。** TutorLoop は視線から導いた注意と作業負荷を用いて、[[reinforcement-learning|強化学習]]エージェントに4つの[[feedback|フィードバックの種類]]から選ばせました。187人の参加者を通じて、システム全体はベースラインよりも介入回数が少ないのに、注意を改善し作業負荷を下げました([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]])。
 
 **監督とインテグリティ。** 姿勢ベースの監督は、独自のラベル付きシナリオ集合上で天井に近い性能を報告します。99.56%の精度と AUC 0.9957です([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]])。ウェアラブルAIは同じ問題を反対側から変えます。スマートグラスは、監視が依拠する視線の低下と姿勢の変化を取り除きます。Corbin らはこの条件を二重の透明性と呼びます([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]])。
 
@@ -79,7 +79,7 @@ AIと[[embodied-learning]]を組み合わせた23の研究の[[meta-analysis-sys
 
 [[assessment-validity|妥当性検証]]はモデルを膨らませえます。EEG に基づく親近性予測の15モデルのベンチマークは、層化交差検証のもとで0.9853 F1に到達しました。時間的構造を尊重する試行独立の Group K-Fold では、ピークは25%のチャンス水準に対して0.6038 F1まで下がりました([[eeg-familiarity-automated-assessment-2026|Nanayakkara and Halloluwa, 2026]])。最初の数値は漏洩を、2番目は学習を記述しています。
 
-センサーは、研究が相互作用だと主張する場面で共在を記録しえます。[[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]]は、姿勢に基づく検出器が再現率55%にとどまり、人間の符号化者が特定した教師と学生のグループ相互作用の20事象のうち11しか捉えられなかったことを見出しました。符号化された区間の49.2%では教師がグループの境界の内側にいましたが、学生が教師を見たのは25.4%だけで、どちらの比較でも音声の特徴は変化しませんでした。したがってこのパイプラインは、持続的な相互作用ではなく空間的な共在を登録していたのです。
+センサーは、研究が相互作用だと主張する場面で共在を記録しえます。[[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]]は、姿勢に基づく検出器が再現率55%にとどまり、人間の符号化者が特定した[[teacher-role|教師]]と学生のグループ相互作用の20事象のうち11しか捉えられなかったことを見出しました。符号化された区間の49.2%では教師がグループの境界の内側にいましたが、学生が教師を見たのは25.4%だけで、どちらの比較でも音声の特徴は変化しませんでした。したがってこのパイプラインは、持続的な相互作用ではなく空間的な共在を登録していたのです。
 
 神経相関はスコアではありません。EEG から再構成された画像は、55の参加者・動画の観察にわたり、テスト成績と R² = 0.79で相関しました。正答した項目は誤答した項目よりも高い意味的類似性も示しました。しかし1人の参加者は高品質の再構成を生みながら誤答したので、再構成の質を正答性として読むことはできません([[seeing-cognitive-representations-eeg-reconstruction|Su et al., 2026]])。
 
@@ -97,7 +97,7 @@ AIと[[embodied-learning]]を組み合わせた23の研究の[[meta-analysis-sys
 
 **機能の拡張(クリーピング)は通常の経路である。** ウェルビーイングのモニタリングはリスクのフラグ付けになり、リスクのフラグ付けは成績評価の証拠になります。Corbin らはこの漂流の評価版を示します。物理的な排除が失敗すると、検査は成果物から身体へ移り、学生は自分の眼鏡が矯正用であり、機器が治療用であることを証明しなければならなくなります([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]])。
 
-**公平性の失敗は、異なる身体に集中する。** 顔に基づく注意推定は肌の色、眼鏡、照明に依存します。視線に基づく注意は、目を合わせることを避ける学習者を不利に扱います。自閉症の学習者や[[neurodiversity|ニューロダイバージェント]]な学習者などです。姿勢ベースの監督は、チック、スティミング、文化的な動きの規範をフラグ立てします。監督の研究は、フラグ立てされた姿勢が不正に対応するか、検出器が[[inclusive-learning|障害のある学生]]や視線における文化的差異を公平に扱うかを検証していません([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]])。ここで規制は修正ではありません。誤りを規則に洗浄する方法です。
+**[[equity-in-ai-education|公平性]]の失敗は、異なる身体に集中する。** 顔に基づく注意推定は肌の色、眼鏡、照明に依存します。視線に基づく注意は、目を合わせることを避ける学習者を不利に扱います。自閉症の学習者や[[neurodiversity|ニューロダイバージェント]]な学習者などです。姿勢ベースの監督は、チック、スティミング、文化的な動きの規範をフラグ立てします。監督の研究は、フラグ立てされた姿勢が不正に対応するか、検出器が[[inclusive-learning|障害のある学生]]や視線における文化的差異を公平に扱うかを検証していません([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]])。ここで規制は修正ではありません。誤りを規則に洗浄する方法です。
 
 **公平性の主張には被験者レベルのエビデンスが必要である。** 性別を標的にした正則化は、検証の MAE ギャップを0.02から0.005に縮め、その後、保持された被験者でギャップと最悪グループの誤差の双方を増やしました([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]])。単一の分割を公平性の証明として報告することは、公平性のコストを伴う設計上の失敗です。
 

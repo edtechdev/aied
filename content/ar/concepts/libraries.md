@@ -1,7 +1,7 @@
 ---
 title: المكتبات
 created: "2026-11-08T11:20:00-05:00"
-updated: "2026-11-08T11:20:00-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy]
 technology: [generative-ai, llm, recommender-systems-and-learning-paths, knowledge-graph]
@@ -14,7 +14,7 @@ page_kind: [synthesis]
 confidence: medium
 connected_resources: [public-ai-libraries]
 translation_of: concepts/libraries
-source_updated: "2026-11-05T03:45:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:

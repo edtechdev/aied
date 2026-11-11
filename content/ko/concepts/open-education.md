@@ -1,7 +1,7 @@
 ---
 title: "개방형 교육"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-07T23:52:37-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,7 +13,7 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -61,7 +61,7 @@ ai_assist:
 
 ### 개방형 교육학과 실천으로의 전환
 
-개방형 교육학은 학생을 소비자에서 기여자로 옮깁니다. 과제는 공개되고 라이선스되고 재사용 가능한 무엇인가를 산출합니다. [[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]]은 이 생각에 대한 이 분야에서 가장 깔끔한 검증을 제공합니다. [[early-childhood-elementary-ai-education|아동 발달]] 입문 코스의 두 분반이 같은 교과서를 갱신했고, 그중 한 분반은 생성 AI 도구를 사용했습니다. 113건의 과제에 걸쳐 두 분반의 학생 모두 정보 리터러시 기술이 늘었다고 보고했으며, 그 증가는 두 분반 사이에 통계적으로 구별되지 않았습니다. 시점의 효과가 F(1, 84) = 47.30, p < 0.001, partial η2 = 0.36인 반면, 시점과 분반의 상호작용은 F(1, 84) = 0.04, p = 0.85였습니다. AI 분반은 더 많은 작업을 완료했고 점수는 약간 낮아, 180점 만점에 174.73 대 173.86이었습니다.
+개방형 교육학은 학생을 소비자에서 기여자로 옮깁니다. 과제는 공개되고 라이선스되고 재사용 가능한 무엇인가를 산출합니다. [[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]]은 이 생각에 대한 이 분야에서 가장 깔끔한 검증을 제공합니다. [[early-childhood-elementary-ai-education|아동 발달]] 입문 코스의 두 분반이 같은 교과서를 갱신했고, 그중 한 분반은 생성 AI 도구를 사용했습니다. 113건의 과제에 걸쳐 두 분반의 학생 모두 [[information-and-media-literacy|정보 리터러시]] 기술이 늘었다고 보고했으며, 그 증가는 두 분반 사이에 통계적으로 구별되지 않았습니다. 시점의 효과가 F(1, 84) = 47.30, p < 0.001, partial η2 = 0.36인 반면, 시점과 분반의 상호작용은 F(1, 84) = 0.04, p = 0.85였습니다. AI 분반은 더 많은 작업을 완료했고 점수는 약간 낮아, 180점 만점에 174.73 대 173.86이었습니다.
 
 실천에는 그 자체의 성숙도 문헌이 있습니다. [[duan-open-educational-practices-evolution-2026|Duan (2026)]]은 540건의 레코드를 [[meta-analysis-systematic-review|PRISMA]] 2020에 따라 개방형 교육 실천의 14개 모델로 선별하고 세 차원에서 비교한 뒤, 생성 AI는 확립된 모델을 대체하는 것이 아니라 그 아래에 놓인다는 결론에 이르렀습니다. 이 논거는 [[tpack|TPACK]]에 견주어 위치 지어집니다. [[ahmadfard-interactive-oer-review-2026|Ahmadfard (2026)]]는 1970년부터 이어지는 구조적 검토에서 상호작용성에 관해 비슷한 결론에 도달합니다. 상호작용적 기능은 입증된 효과라기보다 설계의 논거이며, 그가 보고하는 가장 강한 효과 크기는 OER에서 측정된 것이 아니라 앞선 [[physics-education|물리 교육]] 연구에서 빌려 온 것입니다.
 

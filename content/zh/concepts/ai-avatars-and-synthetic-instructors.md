@@ -1,7 +1,7 @@
 ---
 title: AI 化身与合成教师
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -19,13 +19,13 @@ ai_assist:
     date: "2026-11-04"
     agent: hermes-agent
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **AI 化身与合成教师** —— 占据教学角色的、看起来像人的[[generative-ai|AI]]系统，无论是录像讲师、语音导师、[[pedagogical-agent|教学智能体]]、模拟病人或学生、角色扮演伙伴，还是考官。这一类别由一张脸与一副嗓音代替一个人来定义，而不是由某项单一技术定义。正是这层表面使这些系统具有吸引力，也正是它让这些系统特有的问题集中出现：[[trust|信任]]附着于身份线索，真实感并不追踪有效性，而学习者可能不知道有人正在被模拟。
+> **AI 化身与合成教师** —— 占据[[teacher-role|教学角色]]的、看起来像人的[[generative-ai|AI]]系统，无论是录像讲师、语音导师、[[pedagogical-agent|教学智能体]]、模拟病人或学生、角色扮演伙伴，还是考官。这一类别由一张脸与一副嗓音代替一个人来定义，而不是由某项单一技术定义。正是这层表面使这些系统具有吸引力，也正是它让这些系统特有的问题集中出现：[[trust|信任]]附着于身份线索，真实感并不追踪有效性，而学习者可能不知道有人正在被模拟。
 
 ## 值得思考的问题
 
@@ -79,13 +79,13 @@ AI 化身是由模型驱动的、渲染或动画化的人类表征；合成教�
 
 权威也经由身体抵达。ELEVATE 的设计者警告，身体与声音会放大导师的权威。他们建议化身应表达不确定，并邀请对照笔记或教科书进行核验。([[elevate-genai-virtual-tutors]]) SOPHIE 增加了一层复杂性：在同一化身背后，此前被评为更像人的模型失去了这一优势，而沟通表现跨后端完全相同（0.437 对 0.438）。像人的感觉属于互动 —— 声音、延迟、话轮转换 —— 而不属于模型。([[sophie-clinical-communication-ai-assessment-2026]])
 
-反向的证据是：即使提示提供了人类框架，学生也可以被教会在心里不接受它。[[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman 等人（2026）]]询问 654 名写作学生，该聊天机器人感觉像导师、合作者还是别的东西，只有约一半（51.7%）选择了任一拟人选项。学生把它称为工具或程序，把它比作机器人或计算机，或发明了诸如“反馈售货机”这类隐喻 —— 投入数据，吐出文本。作者把这种对人类框架的拒绝视为素养成果，这就把效应归因于教学，而非界面。
+反向的证据是：即使提示提供了人类框架，学生也可以被教会在心里不接受它。[[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman 等人（2026）]]询问 654 名写作学生，该[[conversational-ai|聊天机器人]]感觉像导师、合作者还是别的东西，只有约一半（51.7%）选择了任一拟人选项。学生把它称为工具或程序，把它比作机器人或计算机，或发明了诸如“反馈售货机”这类[[metaphors-and-analogies|隐喻]] —— 投入数据，吐出文本。作者把这种对人类框架的拒绝视为素养成果，这就把效应归因于教学，而非界面。
 
 ## 临场感、真实感与恐怖谷
 
 真实感不是一级级向上的梯子。[[aclime-pedagogical-agents-extended-reality-2026|ACLIME]]把行为真实感视为[[community-of-inquiry|社会临场感]]的决定性预测因子，并警告更高的视觉保真度有落入恐怖谷的风险 —— 在那里，一个几乎像人的智能体会引发突然的排斥。它还标出了这一权衡的代价：沉浸与智能体真实感会提高外在认知负荷，而互动可以通过集体工作记忆降低内在负荷。它的首要警告很直白 —— 约 42% 的 VR 头显用户报告晕动症，后效从约十分钟到数小时不等。([[aclime-pedagogical-agents-extended-reality-2026]])
 
-实践研究大多支持这一主张的温和版本。Hauk 的作者把中等真实性读作与功能相匹配的保真度。一次二元、仅语音的演练能为新手稳定常规，同伴动态与非言语线索可以日后加入。([[hauk-student-avatars-dialogue-teacher-education-2026]]) 在 SOPHIE 中，47% 的参与者仍觉得很难对 AI 病人产生真实的共情，尽管 66% 认为与它交谈比与人交谈压力更小。([[sophie-clinical-communication-ai-assessment-2026]])
+实践研究大多支持这一主张的温和版本。Hauk 的作者把中等真实性读作与功能相匹配的保真度。一次二元、仅语音的演练能为新手稳定常规，同伴动态与非言语线索可以日后加入。([[hauk-student-avatars-dialogue-teacher-education-2026]]) 在 SOPHIE 中，47% 的参与者仍觉得很难对 AI 病人产生真实的[[empathy|共情]]，尽管 66% 认为与它交谈比与人交谈压力更小。([[sophie-clinical-communication-ai-assessment-2026]])
 
 学习者并非一致地想要更多真实感。在[[trikonet-trivalence-co-creativity-2026|TriKoNet]]的探索性研究中，学生们一致拒绝照片级写实的表征。他们使用一个模块化的设计空间来自行创作角色概念，而不是采纳一个给定的角色。([[trikonet-trivalence-co-creativity-2026]]) ELEVATE 指出，具身化对某些学习者构成障碍，例如感官敏感者或对拟人智能体感到不适者，这使得化身配置成为一项要求而非偏好。([[elevate-genai-virtual-tutors]])
 
@@ -101,7 +101,7 @@ AI 化身是由模型驱动的、渲染或动画化的人类表征；合成教�
 
 ## 证据的诚实状态
 
-这里几乎每一项研究都小而短。Hauk 有 21 名志愿者与一次会面。SOPHIE 有 59 名完成者，且没有对照组。心理治疗评估有两位心理学家，每人约 90 分钟。PBL 先导有 26 名学生与一个案例。ACLIME 与 Theelen 是概念框架，而 TriKoNet 的基础是单次会面中的八个小组。([[genai-simulate-patient-history-pbl-2026]])([[ai-psychotherapy-training-avatars]])([[aclime-pedagogical-agents-extended-reality-2026]])([[theelen-classroom-simulations-four-layer-framework-2026]])([[trikonet-trivalence-co-creativity-2026]])
+这里几乎每一项研究都小而短。Hauk 有 21 名志愿者与一次会面。SOPHIE 有 59 名完成者，且没有对照组。心理治疗评估有两位心理学家，每人约 90 分钟。PBL 先导有 26 名学生与一个案例。ACLIME 与 Theelen 是[[theories-and-frameworks|概念框架]]，而 TriKoNet 的基础是单次会面中的八个小组。([[genai-simulate-patient-history-pbl-2026]])([[ai-psychotherapy-training-avatars]])([[aclime-pedagogical-agents-extended-reality-2026]])([[theelen-classroom-simulations-four-layer-framework-2026]])([[trikonet-trivalence-co-creativity-2026]])
 
 大样本关乎态度与偏好 —— 396 名参与者关于化身身份，493 名受访者关于视频偏好 —— 而两者都是便利样本或单一课程人群。这组研究中没有任何一项证明合成教师比人类教师带来更好的学习。可辩护的主张更为狭窄：这些系统可以近似一次实践会面，可以在一个领域内以可接受的吻合度对照人类评分者打分，并且可以改变学习者如何评价教学的来源。
 
@@ -115,7 +115,7 @@ AI 化身是由模型驱动的、渲染或动画化的人类表征；合成教�
 
 **“合成教师是一种技术，所以发现可以迁移。”** 一个为偏好而优化的克隆讲师、一个为延迟而优化的导师、一个为临床保真度而优化的病人，是失败模式各不相同的不同产物。来自一种角色的证据并不许可对另一种角色的主张。
 
-**“化身外观只是装饰。”** 身份线索改变了可信度评分与对指导的实际采纳，且对年长的黑人女性化身惩罚叠加。([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) 配置是一项教学与公平决定。
+**“化身外观只是装饰。”** 身份线索改变了可信度评分与对指导的实际采纳，且对年长的黑人女性化身惩罚叠加。([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) 配置是一项教学与[[equity-in-ai-education|公平]]决定。
 
 **“模拟病人就是标准化病人，只是少了成本。”** 受训心理学家发现他们的虚拟病人配合、且已经具备治疗进阶能力 —— 一个“理想”案例，低估了行为上的僵化。([[ai-psychotherapy-training-avatars]]) 成本下降；案例效度不会自动随之而来。
 

@@ -1,7 +1,7 @@
 ---
 title: "Soutien aux étudiants et réussite"
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,7 +15,7 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -51,7 +51,7 @@ La distinction qui organise cette page est celle entre **ce qu'une incitation pe
 
 La recherche se regroupe en cinq fonctions, et les frontières entre ces groupes importent parce qu'elles portent des données probantes différentes.
 
-Une revue de 61 études sur le soutien aux apprenants assisté par l'IA a constaté que le domaine se concentrait sur les systèmes adaptatifs et la personnalisation (41 usages) et sur le profilage et la prédiction (30), les agents conversationnels et les recommandateurs prenant en charge l'accueil et les requêtes de routine. Elle a aussi mis au jour les lacunes : aucune intervention ne traitait la phase de transition de l'apprenant, et seules deux études nommaient un sous-groupe d'étudiants, si bien que l'apprenant générique de la plupart des systèmes était une moyenne statistique ([[cefa-ai-learner-support-review-2026|Cefa et coll., 2026]]).
+Une revue de 61 études sur le soutien aux apprenants assisté par l'IA a constaté que le domaine se concentrait sur les [[adaptive-learning|systèmes adaptatifs]] et la [[personalized-learning|personnalisation]] (41 usages) et sur le profilage et la prédiction (30), les agents conversationnels et les recommandateurs prenant en charge l'accueil et les requêtes de routine. Elle a aussi mis au jour les lacunes : aucune intervention ne traitait la phase de transition de l'apprenant, et seules deux études nommaient un sous-groupe d'étudiants, si bien que l'apprenant générique de la plupart des systèmes était une moyenne statistique ([[cefa-ai-learner-support-review-2026|Cefa et coll., 2026]]).
 
 **Démarchage et communication.** Les institutions envoient des messages aux étudiants à grande échelle, et les évaluations les plus solides testent si cela change quoi que ce soit. Une étude randomisée sur quatre ans de CSUNny, un agent conversationnel non génératif par SMS de la California State University, Northridge, a suivi deux cohortes de premier cycle (N = 8 708) sur huit semestres ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page, 2026]]). Un rappel d'inscription envoyé le 31 juillet 2018 a rendu les étudiants traités 34 points de pourcentage plus susceptibles de s'inscrire avant le 16 août, et seulement 2 points plus susceptibles avant le 15 septembre ; les rappels Early Start ont produit 11 points d'inscription supplémentaire au 7 juin et 20 points au 22 juin. La réceptivité s'est maintenue : les taux annuels de désabonnement n'ont jamais dépassé 4 %. Un essai multi-semestres pré-enregistré à la Georgia State University a poussé les étudiants de deux grands cours asynchrones (N = 1 568 et N = 915) avec deux à trois messages personnalisés par semaine, augmentant de quatre points de pourcentage les chances d'obtenir un A ou un B contre 61 % chez les témoins, et déplaçant les taux de DFW (D, F, W) d'environ trois points dans chaque cours ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
@@ -63,9 +63,9 @@ Une revue de 61 études sur le soutien aux apprenants assisté par l'IA a consta
 
 **Assistance administrative.** Le leadership et l'administration sont étudiés comme un domaine d'application propre, avec une taxonomie en dix domaines cartographiant les points d'atterrissage de l'IA dans le leadership éducatif ([[sposato-ai-educational-leadership-taxonomy-2025|Sposato, 2025]]). Les services gérés par l'institution débordent du conseil vers la santé : un cadre intégré de bien-être sur le campus associe la prévention — améliorer la façon dont la rétroaction est recueillie — à l'intervention par la détection des problèmes de santé mentale ([[ai-campus-wellbeing-tools|Tang, 2026]]). L'attestation des acquis est adjacente : lorsqu'un agent peut accomplir un cours au nom d'un étudiant, une attestation qui dit « obtenu » perd son sens, ce qui transforme les registres d'achèvement en un problème de conception ([[credentials-carry-evidence-ai-agents-2026|Srivastava, 2026]]).
 
-**Un assistant interne rivalise avec le robot conversationnel public sur la disponibilité, et non sur la capacité.** Dans cinq études de co-conception menées à l'Open University (315 étudiants, 20 membres du personnel), l'atout le plus fort de l'i-AIDA proposé était l'accès 24 heures sur 24, approuvé par 73% d'une enquête auprès de 96 étudiants, et l'usage direct a fait passer la demande de 9 étudiants sur 18 à 16 sur 18 (d = .81) ([[rienties-institutional-ai-assistant-co-design-2026|Rienties et al., 2026]]). Les étudiants l'ont noté 7.58 sur 10 par rapport à d'autres outils génératifs, tandis qu'environ 10–15% s'y opposaient pour des raisons de valeurs plutôt que d'utilisabilité, qualifiant l'étude assistée par l'IA de dilution de l'apprentissage légitime.
+**Un assistant interne rivalise avec le robot conversationnel public sur la disponibilité, et non sur la capacité.** Dans cinq études de co-conception menées à l'Open University (315 étudiants, 20 membres du personnel), l'atout le plus fort de l'i-AIDA proposé était l'accès 24 heures sur 24, approuvé par 73% d'une enquête auprès de 96 étudiants, et l'usage direct a fait passer la demande de 9 étudiants sur 18 à 16 sur 18 (d = .81) ([[rienties-institutional-ai-assistant-co-design-2026|Rienties et al., 2026]]). Les étudiants l'ont noté 7.58 sur 10 par rapport à d'autres outils génératifs, tandis qu'environ 10–15% s'y opposaient pour des raisons de valeurs plutôt que d'[[usability-research|utilisabilité]], qualifiant l'étude assistée par l'IA de dilution de l'apprentissage légitime.
 
-Ce qu'un canal de soutien par l'IA déplace mérite le même compte. Sur quatre études (N = 249, 494, 743 et 737), la croyance en la capacité de l'IA à apporter un soutien émotionnel augmentait la volonté de lui déléguer ce soutien, et l'effet passait entièrement par la capacité perçue (effet total c = 0,83 ; effet indirect ab = 0,73) ([[shastry-gray-empathy-offloading-2026|Shastry et Gray, 2026]]). Sur une mesure comportementale, les participants qui disaient ne pas vouloir déléguer choisissaient moins de mots d'empathie : orienter les étudiants vers un canal de bien-être par l'IA peut donc soustraire du soutien humain d'une manière que l'[[self-report-measures|auto-déclaration]] ne montre pas.
+Ce qu'un canal de soutien par l'IA déplace mérite le même compte. Sur quatre études (N = 249, 494, 743 et 737), la croyance en la capacité de l'IA à apporter un soutien émotionnel augmentait la volonté de lui déléguer ce soutien, et l'effet passait entièrement par la capacité perçue (effet total c = 0,83 ; effet indirect ab = 0,73) ([[shastry-gray-empathy-offloading-2026|Shastry et Gray, 2026]]). Sur une mesure comportementale, les participants qui disaient ne pas vouloir déléguer choisissaient moins de mots d'[[empathy|empathie]] : orienter les étudiants vers un canal de bien-être par l'IA peut donc soustraire du soutien humain d'une manière que l'[[self-report-measures|auto-déclaration]] ne montre pas.
 
 ## De la prédiction au soutien
 

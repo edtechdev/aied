@@ -1,7 +1,7 @@
 ---
 title: חינוך אזרחי ופוליטי
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, teacher-role]
 pedagogy: [critical-pedagogy, lifelong-learning]
@@ -13,7 +13,7 @@ level: [k 12, higher ed, teacher education]
 audience: [instructors, curriculum designers, policymakers]
 confidence: low
 translation_of: concepts/civic-and-political-education
-source_updated: "2026-11-04T18:52:58-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:

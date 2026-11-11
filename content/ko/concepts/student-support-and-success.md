@@ -1,7 +1,7 @@
 ---
 title: 학생 지원과 성공
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,7 +15,7 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ ai_assist:
 연구는 다섯 기능으로 군집되며, 군집 경계가 중요한 이유는 그것들이 다른 증거를 담고 있기 때문입니다.
 
 
-AI 지원 학습자 지원에 관한 61개 연구 검토는 이 분야가 적응형 시스템과 개인화(41건의 사용), 프로파일링과 예측(30건)에 집중되어 있고 챗봇과 추천기가 인테이크와 일상적 질의를 처리함을 발견했습니다. 그것은 간극도 발견했습니다: 학습자 전환 단계를 다룬 개입은 없었고, 학생 하위 집단을 명명한 연구는 두 편뿐이어서 대부분 시스템의 일반 학습자는 통계적 평균이었습니다([[cefa-ai-learner-support-review-2026|Cefa 외, 2026]]).
+AI 지원 학습자 지원에 관한 61개 연구 검토는 이 분야가 [[adaptive-learning|적응형 시스템]]과 [[personalized-learning|개인화]](41건의 사용), 프로파일링과 예측(30건)에 집중되어 있고 챗봇과 추천기가 인테이크와 일상적 질의를 처리함을 발견했습니다. 그것은 간극도 발견했습니다: 학습자 전환 단계를 다룬 개입은 없었고, 학생 하위 집단을 명명한 연구는 두 편뿐이어서 대부분 시스템의 일반 학습자는 통계적 평균이었습니다([[cefa-ai-learner-support-review-2026|Cefa 외, 2026]]).
 
 
 **외부 연락과 소통.** 제도는 대규모로 학생에게 메시지를 보내며, 가장 강한 평가들은 그것이 무언가를 변화시키는지 검증합니다. California State University, Northridge의 비생성형 문자 메시지 챗봇 CSUNny에 대한 4년 무작위 연구는 두 학부생 코호트(N = 8,708)를 여덟 학기에 걸쳐 추적했습니다([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page, 2026]]). 2018년 7월 31일에 보낸 등록 알림은 처치 학생들이 8월 16일까지 등록할 가능성을 34퍼센트 포인트 높였고, 9월 15일까지는 2포인트만 높였습니다. Early Start 알림은 6월 7일까지 등록을 11포인트, 6월 22일까지는 20포인트 높였습니다. 수용성은 유지되어 연간 거부율이 4%를 넘지 않았습니다. Georgia State University의 사전 등록된 다중 학기 시험은 두 개의 대형 비동기 강좌(N = 1,568과 N = 915)의 학생들에게 주 2–3회의 맞춤 메시지를 보내 61%의 통제 집단에 비해 A나 B를 받을 확률을 4퍼센트 포인트 높였고, 각 강좌에서 DFW 비율을 약 3포인트 이동시켰습니다([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
@@ -65,9 +65,9 @@ AI 지원 학습자 지원에 관한 61개 연구 검토는 이 분야가 적응
 
 **행정 지원.** 리더십과 행정은 그 자체로 하나의 응용 영역으로 연구되며, 교육 리더십에서 AI가 닿는 위치를 매핑하는 10개 영역 분류 체계가 있습니다([[sposato-ai-educational-leadership-taxonomy-2025|Sposato, 2025]]). 제도가 운영하는 서비스는 자문을 넘어 건강으로 미칩니다: 통합 캠퍼스 웰빙 프레임워크는 예방(피드백 수집 방식 개선)과 정신 건강 탐지를 통한 중재를 짝짓습니다([[ai-campus-wellbeing-tools|Tang, 2026]]). 자격 증명은 인접해 있습니다: 에이전트가 학생을 대신해 강좌를 이수할 수 있을 때, "취득"이라고 말하는 자격 증명은 의미를 잃으며, 이것은 이수 기록을 설계 문제로 만듭니다([[credentials-carry-evidence-ai-agents-2026|Srivastava, 2026]]).
 
-**사내 도우미는 역량이 아니라 가용성에서 공개 챗봇과 경쟁합니다.** Open University의 다섯 번의 공동 설계 연구(학생 315명, 교직원 20명)에서 제안된 i-AIDA의 가장 강한 판매점은 24시간 접근이었고, 96명 설문의 73%가 이에 동의했으며, 직접 사용은 수요를 18명 중 9명에서 18명 중 16명으로 옮겼습니다(d = .81)([[rienties-institutional-ai-assistant-co-design-2026|Rienties 외, 2026]]). 학생들은 다른 생성 도구와 비교해 10점 만점에 7.58점을 주었고, 약 10–15%는 사용성 때문이 아니라 가치 때문에 반대하며 AI 보조 학습을 정당한 학습의 희석이라고 불렀습니다.
+**사내 도우미는 역량이 아니라 가용성에서 공개 챗봇과 경쟁합니다.** Open University의 다섯 번의 공동 설계 연구(학생 315명, 교직원 20명)에서 제안된 i-AIDA의 가장 강한 판매점은 24시간 접근이었고, 96명 설문의 73%가 이에 동의했으며, 직접 사용은 수요를 18명 중 9명에서 18명 중 16명으로 옮겼습니다(d = .81)([[rienties-institutional-ai-assistant-co-design-2026|Rienties 외, 2026]]). 학생들은 다른 생성 도구와 비교해 10점 만점에 7.58점을 주었고, 약 10–15%는 [[usability-research|사용성]] 때문이 아니라 가치 때문에 반대하며 AI 보조 학습을 정당한 학습의 희석이라고 불렀습니다.
 
-AI 지원 채널이 무엇을 대체하는지도 같은 회계를 받아야 합니다. 네 연구(N = 249, 494, 743, 737)에서 AI가 정서 지원을 제공할 수 있다는 믿음은 그 지원을 그것에 위임하려는 의지를 높였고, 효과는 전적으로 인식된 역량을 통해 전달되었습니다(총효과 c = 0.83; 간접효과 ab = 0.73)([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]). 행동 측정에서 위임하지 않겠다고 말한 참가자들은 더 적은 공감 단어를 선택했으므로, 학생을 AI 웰빙 채널로 안내하는 것은 [[self-report-measures|자기보고]]가 보여주지 않는 방식으로 인간 지원을 빼앗을 수 있습니다.
+AI 지원 채널이 무엇을 대체하는지도 같은 회계를 받아야 합니다. 네 연구(N = 249, 494, 743, 737)에서 AI가 정서 지원을 제공할 수 있다는 믿음은 그 지원을 그것에 위임하려는 의지를 높였고, 효과는 전적으로 인식된 역량을 통해 전달되었습니다(총효과 c = 0.83; 간접효과 ab = 0.73)([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]). 행동 측정에서 위임하지 않겠다고 말한 참가자들은 더 적은 [[empathy|공감]] 단어를 선택했으므로, 학생을 AI 웰빙 채널로 안내하는 것은 [[self-report-measures|자기보고]]가 보여주지 않는 방식으로 인간 지원을 빼앗을 수 있습니다.
 
 
 ## 예측에서 지원으로

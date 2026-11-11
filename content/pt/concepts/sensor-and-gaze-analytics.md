@@ -1,7 +1,7 @@
 ---
 title: Analítica de sensores e do olhar
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-08T12:22:14-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -63,7 +63,7 @@ Esses sinais diferem em taxa de amostragem, ruído e custo de instrumentação. 
 
 **Estimativa de atenção em salas de aula.** Um [[multimodal|transformer multimodal]] fundiu imagens faciais com sinais vestíveis no DIPSER, um conjunto de dados naturalístico de 57 sujeitos, e alcançou um MAE de 0,283. Sua vantagem sobre uma linha de base apenas visual foi modesta, e os autores concluem que características faciais foram a fonte de informação primária ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]).
 
-**Carga cognitiva e momento do feedback.** O TutorLoop usou atenção e carga de trabalho derivadas do olhar para escolher entre quatro [[feedback|tipos de feedback]] com um agente de aprendizagem por reforço. Em 187 participantes, o sistema completo interveio menos que as linhas de base e ainda assim melhorou a atenção e reduziu a carga de trabalho ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
+**Carga cognitiva e momento do feedback.** O TutorLoop usou atenção e carga de trabalho derivadas do olhar para escolher entre quatro [[feedback|tipos de feedback]] com um agente de [[reinforcement-learning|aprendizagem por reforço]]. Em 187 participantes, o sistema completo interveio menos que as linhas de base e ainda assim melhorou a atenção e reduziu a carga de trabalho ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
 
 **Proctoring e integridade.** O proctoring baseado em pose relata desempenho quase máximo em seu próprio conjunto de cenários rotulados: 99,56% de acurácia e uma AUC de 0,9957 ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). A IA vestível muda o mesmo problema pelo outro lado. Óculos inteligentes eliminam a queda do olhar e a mudança de postura das quais a vigilância depende, uma condição que Corbin e colegas chamam de transparência dupla ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 
@@ -84,7 +84,7 @@ Um correlato neural não é uma nota. Imagens reconstruídas a partir de EEG se 
 Atenção não é aprendizagem. No TutorLoop, a atenção se correlacionou com a aprendizagem em r = 0,017, enquanto a carga de trabalho se correlacionou negativamente em r = -0,168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Um sistema que maximizasse o sinal de atenção teria otimizado algo próximo do ruído.
 
 
-Um sensor pode registrar copresença onde um estudo afirma interação: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] constataram que um detector baseado em pose alcançou apenas 55% de recall, capturando 11 de 20 eventos que codificadores humanos identificaram em interações professor–grupo de estudantes. O professor estava presente dentro do limite do grupo em 49,2% dos segmentos codificados, enquanto os estudantes olhavam para o professor em apenas 25,4%, e nenhuma característica de áudio mudou em qualquer das comparações, de modo que o pipeline registrou copresença espacial, e não interação sustentada.
+Um sensor pode registrar copresença onde um estudo afirma interação: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] constataram que um detector baseado em pose alcançou apenas 55% de recall, capturando 11 de 20 eventos que codificadores humanos identificaram em interações [[teacher-role|professor]]–grupo de estudantes. O professor estava presente dentro do limite do grupo em 49,2% dos segmentos codificados, enquanto os estudantes olhavam para o professor em apenas 25,4%, e nenhuma característica de áudio mudou em qualquer das comparações, de modo que o pipeline registrou copresença espacial, e não interação sustentada.
 
 
 
@@ -103,7 +103,7 @@ Por fim, coleta não é integração. Kim e Han constataram que a maioria dos es
 
 **Falhas de justiça se concentram em corpos que diferem.** A estimativa de atenção por face depende de tom de pele, óculos e iluminação. A atenção baseada no olhar penaliza quem evita contato visual, incluindo alguns estudantes autistas e [[neurodiversity|neurodivergentes]]. O proctoring por pose sinaliza tiques, stimming e normas culturais de movimento. O estudo de proctoring não testa se a postura sinalizada corresponde a má conduta, nem se o detector trata com justiça [[inclusive-learning|estudantes com deficiência]] ou diferenças culturais de olhar ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Regulamentação não é uma solução aqui; é uma forma de lavar o erro transformando-o em regra.
 
-**Alegações de justiça precisam de evidência no nível do sujeito.** Um regularizador voltado a gênero reduziu a lacuna de MAE de validação de 0,02 para 0,005, e então aumentou tanto a lacuna quanto o erro do pior grupo em sujeitos mantidos fora do treino ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). Relatar uma única partição como prova de justiça é uma falha de desenho com custo de equidade.
+**[[equity-in-ai-education|Alegações de justiça]] precisam de evidência no nível do sujeito.** Um regularizador voltado a gênero reduziu a lacuna de MAE de validação de 0,02 para 0,005, e então aumentou tanto a lacuna quanto o erro do pior grupo em sujeitos mantidos fora do treino ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). Relatar uma única partição como prova de justiça é uma falha de desenho com custo de equidade.
 
 **A privacidade pode ser projetada.** O TutorLoop rodou o WebGazer no lado do cliente, para que o olhar bruto nunca saísse do navegador ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Essa escolha mostra que parte do custo é arquitetural, não inerente. A pergunta mais difícil é se a inferência deveria existir.
 

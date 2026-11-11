@@ -1,7 +1,7 @@
 ---
 title: "开放教育"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-11T07:40:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,7 +13,7 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -61,7 +61,7 @@ ai_assist:
 
 ### 开放教学法与实践转向
 
-开放教学法把学生从消费者变成贡献者：一份作业产出某种被发表、被许可、可再利用的东西。[[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell（2026）]]提供了这一理念在本领域最干净的检验。一门[[early-childhood-elementary-ai-education|儿童发展]]入门课程的两个班更新同一本教材，其中一个班使用生成式 AI 工具。在 113 份作业中，两个班的学生都报告信息素养技能有所增长，且这一增长在两者之间统计上无法区分：时间效应为 F(1, 84) = 47.30, p < 0.001, partial η2 = 0.36，而时间与班级的交互为 F(1, 84) = 0.04, p = 0.85。AI 班完成的工作更多，得分略低，180 分制下为 174.73 对 173.86。
+开放教学法把学生从消费者变成贡献者：一份作业产出某种被发表、被许可、可再利用的东西。[[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell（2026）]]提供了这一理念在本领域最干净的检验。一门[[early-childhood-elementary-ai-education|儿童发展]]入门课程的两个班更新同一本教材，其中一个班使用生成式 AI 工具。在 113 份作业中，两个班的学生都报告[[information-and-media-literacy|信息素养]]技能有所增长，且这一增长在两者之间统计上无法区分：时间效应为 F(1, 84) = 47.30, p < 0.001, partial η2 = 0.36，而时间与班级的交互为 F(1, 84) = 0.04, p = 0.85。AI 班完成的工作更多，得分略低，180 分制下为 174.73 对 173.86。
 
 实践有它自己的成熟度文献。[[duan-open-educational-practices-evolution-2026|Duan（2026）]]按 [[meta-analysis-systematic-review|PRISMA]] 2020 从 540 条记录中筛出 14 种开放教学实践模型，在 3 个维度上加以比较，结论是生成式 AI 位于既有模型的下层而非取代它们；论文把这一论证放在与 [[tpack]] 相对的坐标上。[[ahmadfard-interactive-oer-review-2026|Ahmadfard（2026）]]在一项上溯至 1970 年的结构化综述中，就交互性得出类似结论：交互功能更像一个设计论证而非已被证明的效应，它报告的最强效应量借自早先的[[physics-education|物理教育]]研究，而非在 OER 中测得。
 
