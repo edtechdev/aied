@@ -1,7 +1,7 @@
 ---
 title: "How Do We Write and Implement an Institutional AI Policy?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-28T11:39:28-04:00"
+updated: "2026-11-11T09:00:00-05:00"
 connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research]
 weight: 65
 type: faq
@@ -44,6 +44,8 @@ Before the wording, the scope. [[institutional-governance-ai-universities|Maniko
 What those documents prioritize tells you what their authors thought the document was for. University-level policies cover data security, risk mitigation, procurement and legal compliance, with little [[pedagogy|pedagogical]] guidance. The school-level policies that exist concentrate on teaching and [[ai-literacy]]. Only eight [[business-education|business schools]] had a policy of their own, and those differed from their host framework in six of eight cases.
 
 The remedy the authors propose is a layered structure: a university-wide risk-management layer, department-level policies, and inter-departmental committees with faculty and students. Adopt that and you get a scope sentence you can defend in the senate. This document manages institutional risk; the teaching decisions sit with the department that grades the work. Layering also answers the charge of vagueness without producing 40 pages.
+
+A second gap sits on the production side. Almost every policy in that register governs what students and staff do with AI; almost none governs material the institution produces with it. Chew (2026) argues the omission is structural: AI-generated images, cases and test items enter curricula as teaching content, where a plausible error reaches every learner and may never generate a signal the way a student's mistake does ([[chew-ai-content-governance-medical-education-2026|Chew, 2026]]). A policy that stops at learner use leaves the higher-consequence use unaddressed. The four provisions that close it are knowing what is in use, testing before learners see it, acting on findings including withdrawal, and monitoring approved tools for drift.
 
 ## Write provisions that bind, or take them out
 

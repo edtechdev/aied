@@ -24,7 +24,7 @@ ai_assist:
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Henze and colleagues (2026) randomly assigned 50 student teachers at the University of Cologne to analyze thread- and spring-pendulum data with either *ExperiMentor*, a custom GPT-4o chatbot, or *Microsoft Excel*, on identical guided tasks. Both groups gained from the 31-item pre-test to the 39-item post-test, and an ANCOVA found no significant difference between them: the group factor accounted for a partial η² below 0.01 in every model, and the pooled Hake index was g = 0.02. The AI group nevertheless reported far more [[student-engagement|engagement]] and enjoyment and less stress, with negative emotional experience at 0.64 against 1.56. The authors attribute that gap less to AI than to the [[feedback]] the chatbot supplied and Excel did not, making [[scaffolding|scaffolding]] the likely mechanism.
+> **Synthesis:** Henze and colleagues (2026) randomly assigned 50 student teachers at the University of Cologne to analyze thread- and spring-pendulum data with either *ExperiMentor*, a custom GPT-4o chatbot, or *Microsoft Excel*, on identical guided tasks. Both groups gained from the 31-item pre-test to the 39-item post-test, and an ANCOVA found no significant difference between them: the group factor accounted for a partial η² below 0.01 in every model, and the pooled Hake index was g = 0.02. The AI group nevertheless reported far more [[student-engagement|engagement]] and enjoyment and less stress, with negative emotional experience at 0.64 against 1.56. The authors attribute that gap less to AI than to the [[feedback|feedback]] the chatbot supplied and Excel did not, making [[scaffolding|scaffolding]] the likely mechanism.
 
 ## Key Findings
 

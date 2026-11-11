@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Help Me Give Better Feedback at Scale?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-06T03:00:00-05:00"
+updated: "2026-11-11T09:00:00-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -71,6 +71,8 @@ The mechanism explains why sequencing matters more than the tool. Direct critiqu
 Peer feedback earns its own place in the sequence. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen and Yan (2026)]] ran two parallel English classes (N = 118 first-year undergraduates in China; GenAI n = 56, peer n = 62) through three [[self-assessment]] cycles over one semester. GenAI [[scaffolding]] improved feedback literacy slightly but significantly over human peer review (ANCOVA p = 0.049, ηp² = 0.03). GenAI students refined prompts iteratively and verified or challenged inaccurate output. Peer-group students chose sources by social convenience and had their evaluative judgment distorted by friendship bias. Peer review kept a distinct value for audience awareness, which is why the authors propose multi-stage designs with anonymous peer feedback rather than a replacement.
 
 Gu et al.'s advantage was small, and they read it as real but not transformative on its own. Teacher scaffolding, prompt guidelines and worksheets did the supporting work.
+
+The source may matter less than the clock. In 391 German secondary students, teacher-written and LLM feedback produced no significant difference in revisions, later writing, time on task or perceptions; Bayesian posteriors leaned toward teacher feedback on later writing but kept a quarter to two-fifths of the mass inside the equivalence region, and only immediate AI feedback drew better usefulness and motivation ratings ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). If a first-pass comment can arrive while the student is still revising, that timing is part of the design doing the work.
 
 ## Give the model a rubric, then make it show its steps
 

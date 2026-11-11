@@ -59,8 +59,8 @@ Their interpretation of the high-intensity convergence draws on cognitive closur
 
 - **Designers:** Detect conflict while it is happening. The authors propose system responses to frustration — for example, prompting a student to try a different topic while more information is gathered — to break a negative loop before it hardens.
 - **Instructors:** Teach the anticipation of conflict, not just its resolution. Asking students to predict where they will get confused, and to plan what they will do when they do, is presented as a way to protect [[metacognition|metacognitive]] capacity during [[generative-ai|GenAI]] use.
-- **Designers:** Differentiate by response pattern. Students who oscillate need [[scaffolding]] that stabilizes their judgment; students who hold a view too confidently need prompts that require them to criticize their own position.
-- **Administrators:** Treat conflict handling as part of AI literacy and [[self-regulated-learning]], not as a support service bolted onto tool access. The authors argue policy should move past access and output accuracy toward the cognitive and affective demands of sustained interaction.
+- **Designers:** Differentiate by response pattern. Students who oscillate need [[scaffolding|scaffolding]] that stabilizes their judgment; students who hold a view too confidently need prompts that require them to criticize their own position.
+- **Administrators:** Treat conflict handling as part of AI literacy and [[self-regulated-learning|self-regulated learning]], not as a support service bolted onto tool access. The authors argue policy should move past access and output accuracy toward the cognitive and affective demands of sustained interaction.
 - **Researchers:** Separate critical rejection from emotional rejection in the coding scheme. Until that distinction exists, negative states cannot be read as evidence of thinking either way.
 
 ## Limitations

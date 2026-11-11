@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-11T08:13:31-05:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -112,7 +112,7 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 
 - **Significant pre/post gains from mistake-based AI [[pedagogy]]:** [[pedagogy-ai-mistakes|Hosseini (2026)]]'s database design course (n=13) showed large, significant learning gains on identical pre/post items (mean 4.25→6.83/7, Cohen's *d*=1.49, *p*<.001), with gains uncorrelated with prior AI or database confidence — the AI-integrated critique-refinement design benefited students regardless of initial perceptions.
 
-Two experiments separate performance during use from learning after it. Beginners given ChatGPT passed far more generated tests than beginners without it (410.7 vs 80.7) while their understanding did not improve, and intermediate students showed no gain at all ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). Programmers assisted by Copilot showed a 14.09-point advantage that did not survive an unassisted retest ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). Both designs measured the thing most AI trials omit: what remains when the tool is gone.
+The newest experiments mark a boundary on that pattern rather than a contradiction of it. Beginners given ChatGPT passed far more generated tests than beginners without it (410.7 vs 80.7) while their understanding did not improve, and intermediate students gained nothing ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). A second experiment found Copilot's 14.09-point advantage gone on an unassisted retest a week later ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). Persistence is the exception in this literature, so a study reporting it is evidence about the task and the support design, not about AI assistance in general.
 
 ## Common Misconceptions
 

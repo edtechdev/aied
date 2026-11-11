@@ -24,7 +24,7 @@ ai_assist:
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Qi and colleagues report a single-group design-based study of a digital human teaching agent in a 10-week Introduction to Educational Technology course for 36 first-year undergraduates at a public university in central China. Across three cumulative iterations — gesture-supported presentation, teacher-mediated real-time Q&A, and anonymous text-based Q&A — students' overall sense of presence rose from 3.86 to 3.87 to 4.03 on a five-point scale (F(2, 70) = 3.464, p = 0.037, partial η² = 0.090), though only the Iteration 2 to Iteration 3 pairwise difference was significant. Learning engagement rose descriptively from 3.73 to 3.91 but did not change significantly (p = 0.084). The authors locate the value of the agent in [[teacher-role|teacher orchestration]] rather than agent capability, and the gap between presence and [[student-engagement]] is the study's central puzzle.
+> **Synthesis:** Qi and colleagues report a single-group design-based study of a digital human teaching agent in a 10-week Introduction to Educational Technology course for 36 first-year undergraduates at a public university in central China. Across three cumulative iterations — gesture-supported presentation, teacher-mediated real-time Q&A, and anonymous text-based Q&A — students' overall sense of presence rose from 3.86 to 3.87 to 4.03 on a five-point scale (F(2, 70) = 3.464, p = 0.037, partial η² = 0.090), though only the Iteration 2 to Iteration 3 pairwise difference was significant. Learning engagement rose descriptively from 3.73 to 3.91 but did not change significantly (p = 0.084). The authors locate the value of the agent in [[teacher-role|teacher orchestration]] rather than agent capability, and the gap between presence and [[student-engagement|student engagement]] is the study's central puzzle.
 
 ## Key Findings
 
@@ -52,7 +52,7 @@ The authors treat presence and engagement as related but distinct: presence conc
 
 Because each iteration kept the previous features and added new ones, the change cannot be assigned to gestures, real-time Q&A or the anonymous channel. Familiarity with the system, cumulative exposure to course content, adaptation to university classroom norms and the sheer accumulation of support are all plausible contributors, and the single-group design cannot separate them.
 
-The design lesson is that the agent's functions must be coordinated with instruction rather than merely available. Gestures helped when timed with speech and visuals; immediate answers helped when the teacher connected them to the lesson; private questions helped when the teacher aggregated them back into shared explanation. That is a [[human-in-the-loop-ai|human-in-the-loop]] arrangement in which the agent extends the reach and immediacy of [[scaffolding]] while the teacher retains judgment about what an answer means for the class.
+The design lesson is that the agent's functions must be coordinated with instruction rather than merely available. Gestures helped when timed with speech and visuals; immediate answers helped when the teacher connected them to the lesson; private questions helped when the teacher aggregated them back into shared explanation. That is a [[human-in-the-loop-ai|human-in-the-loop]] arrangement in which the agent extends the reach and immediacy of [[scaffolding|scaffolding]] while the teacher retains judgment about what an answer means for the class.
 
 ## What this means for practice
 

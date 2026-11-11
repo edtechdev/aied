@@ -24,7 +24,7 @@ ai_assist:
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Liu et al. (2026) assigned undergraduates across three Chinese courses to one of twelve [[feedback]] conditions — four foci crossed with three complexity levels — inside an eight-week AI [[intelligent-tutoring|tutoring system]]; 247 completed every phase, and 24 were interviewed. Perceived AIFB quality predicted competence (β = 0.52), autonomy (β = 0.44) and relatedness (β = 0.28), all p < 0.001. Process and self-regulation feedback strengthened the autonomy path, self-level feedback the relatedness path, and elaborated feedback beat basic feedback on competence and autonomy. Competence carried 38% of the effect on learning gains, autonomy 34% of the effect on engagement, relatedness 22% of the effect on persistence — a need-specific account of how [[motivation]] mediates [[learning-gains|achievement]].
+> **Synthesis:** Liu et al. (2026) assigned undergraduates across three Chinese courses to one of twelve [[feedback|feedback]] conditions — four foci crossed with three complexity levels — inside an eight-week AI [[intelligent-tutoring|tutoring system]]; 247 completed every phase, and 24 were interviewed. Perceived AIFB quality predicted competence (β = 0.52), autonomy (β = 0.44) and relatedness (β = 0.28), all p < 0.001. Process and self-regulation feedback strengthened the autonomy path, self-level feedback the relatedness path, and elaborated feedback beat basic feedback on competence and autonomy. Competence carried 38% of the effect on learning gains, autonomy 34% of the effect on engagement, relatedness 22% of the effect on persistence — a need-specific account of how [[motivation|motivation]] mediates [[learning-gains|achievement]].
 
 ## Key Findings
 

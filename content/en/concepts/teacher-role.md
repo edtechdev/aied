@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-11T08:13:31-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -148,7 +148,7 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - **Teacher-facing AI reflection analytics should be expertise-adapted, not one-size-fits-all.** A survey of 100 US K–12 teachers (median split at nine years; binomial tests; 15% choice differences detectable at ~83% power) found systematic preference splits. Less experienced teachers cite lack of reflection time as a top obstacle at 3x the experienced rate (37% vs. 12%, p < .001) and want analytics on student disengagement (48% vs. 33%, p = .028) and emotions (31% vs. 18%, p = .036).
 - **The design rule derived from the split is experience-adapted recommendation modes.** Experienced teachers want analytics on improved learning after helping a student (40% vs. 26%, p = .019) and on their teaching methods (42% vs. 26%, p = .012); their top obstacle is tracking performance (28% vs. 15%, p = .009). Design rule: novice mode = structured prompts and engagement analytics; expert mode = flexible longitudinal analysis — a direct argument against uniform dashboards. ([[falhs-teacher-expertise-reflection-2025]])
 
-Two 2026 trials put numbers on the workload case and its limits. A cluster-randomized trial across 68 English secondary schools cut lesson-preparation time from 81.5 to 56.2 minutes a week, a saving of 25.3 minutes, without a detected loss of lesson quality ([[roy-chatgpt-lesson-preparation-nfer-2024|Roy et al., 2024]]). On ASSISTments, teachers given LLM assignment summaries saw more students start and complete assignments, while class-level scores did not improve ([[lim-llm-summaries-teachers-rct-2026|Lim et al., 2026]]). Time saved and behavior changed; measured learning did not.
+Two recent trials put numbers on the workload case and its limits. A cluster-randomized trial across 68 English secondary schools cut lesson-preparation time from 81.5 to 56.2 minutes a week, a saving of 25.3 minutes, without a detected loss of lesson quality ([[roy-chatgpt-lesson-preparation-nfer-2024|Roy et al., 2024]]). On ASSISTments, teachers given LLM assignment summaries saw more students start and complete assignments, while class-level scores did not improve ([[lim-llm-summaries-teachers-rct-2026|Lim et al., 2026]]). Time saved and behavior changed; measured learning did not.
 
 ## Common Misconceptions
 
