@@ -40,6 +40,8 @@ Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without 
 
 Higher trust does not buy better judgment: among 432 undergraduates solving Python problems with accurate and deliberately misleading AI suggestions, greater trust predicted *lower* appropriate reliance (r = -.42), students accepted 86.03% of the misleading recommendations, and the relationship was moderated by [[ai-literacy|AI literacy]] and need for cognition ([[trust-reliance-ai-education-2026|Pitts, Rani & Mildort (2026)]]).
 
+The order of judgment matters as much as the habit. In a safety-oversight experiment with 416 raters judging 3,957 items, showing model candidates before the human recorded an answer cut rater accuracy on the items the model got wrong from 36.7% to 20.6%, while accuracy on the items the model got right rose by 7.3 points ([[shi-human-ai-complementarity-safety-2026|Shi et al., 2026]]). Verification performed after the answer is read is a check on agreement, not on correctness.
+
 ### How calibration works
 
 - **Verification habits:** checking AI claims against primary sources and the "AI proposes, you verify" rule, rather than accepting plausible-sounding output.
@@ -162,6 +164,7 @@ Calibration is a state, not an outcome, and the outcome it licenses has its own 
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[shi-human-ai-complementarity-safety-2026]] — 416 raters, 3,957 items: candidate-first assistance cut error-catching on model-wrong items from 36.7% to 20.6% (Shi et al., 2026)
 - [[children-verification-ai-suggestions-game-2026]] — Children's verification behaviors in game-based human-AI collaboration
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Calibration reframed: withholding the system's position is protective, not corrective

@@ -66,6 +66,8 @@ The clearest statement of the mechanism is in the teacher-facing work. [[hoppe-t
 
 The sharpest gap is at the point of judgment. [[human-in-the-loop-ai-scoring-national-assessment-2026|The national-assessment scoring study (2026)]] has raters review machine scores, and its authors name the untested mechanism directly: whether raters shown AI scores before judging are anchored by them or defer to them is unmeasured, and they propose blinded against non-blinded rater experiments as the next step. The human-in-the-loop claim in that design is therefore an assumption, not a finding — and it is the good version of the design.
 
+A safety-oversight experiment now supplies the measurement in an adjacent setting. Across 416 raters and 3,957 items, presenting model candidates before the human answer cut rater accuracy on items the model got wrong from 36.7% to 20.6%, while accuracy rose by 7.3 points on items the model got right ([[shi-human-ai-complementarity-safety-2026|Shi et al., 2026]]). The raters became more accurate overall and less able to catch the errors they were there to catch, which is the bias operating as the national-assessment authors suspected: the machine answer sets the frame, and the human adjusts within it.
+
 ### Analytics dashboards and the human-in-the-loop claim
 
 [[in-the-loop-educational-ai-learning-sciences-2026|The learning-sciences review of in-the-loop educational AI (2026)]] gives the pattern its general form: dashboards infer participation from clicks, automated [[writing-education|writing feedback]] privileges surface features over argument, and early-alert traffic lights pre-interpret trajectories. Automation bias compounds each of them, and the review treats [[trust]] as a sociotechnical outcome shaped by transparency, perceived competence and a meaningful right to override rather than as a stable attitude.
@@ -132,6 +134,7 @@ A large share of the corpus lists automation bias in a threat model without test
 
 ## Connected Articles
 
+- [[shi-human-ai-complementarity-safety-2026]] — 416 raters, 3,957 items: candidate-first assistance cut error-catching on model-wrong items from 36.7% to 20.6% (Shi et al., 2026)
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — teachers warned against deferring to recommendations built on thin data
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — names rater anchoring by AI scores as the untested risk and proposes blinding
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — dashboards, surface-feature feedback and traffic lights as the general pattern
