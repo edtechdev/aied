@@ -25,7 +25,9 @@ reviewed_by: [editor]
 
 ## Introduction
 
-MathBuddy dynamically models student affect using two modalities:
+Affective tutoring is the pedagogical half of [[affective-computing]]: once a system has some reading on a learner's emotional state, what should it do with that reading? The design question is not how to detect frustration but what to change once you believe you have detected it — the pace, the hint level, the tone of feedback, or whether to stop and address the emotion itself. This page covers that decision layer: the strategies tutors map affect onto, the evidence that they help, and the reasons they can backfire.
+
+The clearest worked example is MathBuddy, which models student affect from two modalities:
 
 - **Conversational text** — semantic cues for frustration, confusion, confidence
 - **Facial expressions** — real-time video capture of emotional state
@@ -37,7 +39,9 @@ Emotions are aggregated from both modalities and mapped to relevant pedagogical 
 - **+3 point DAMR score** gain at overall level
 - Evaluated across **eight pedagogical dimensions** plus user studies
 
-The finding validates a long-standing hypothesis in educational psychology: positive/negative emotional states impact learning capability, and accounting for them improves tutoring outcomes.
+The authors read the gain as support for a long-standing hypothesis in educational psychology: emotional state shapes learning, and accounting for it improves tutoring outcomes.
+
+MathBuddy is one system, not the definition of the approach, and the sections below generalize from it. For what the underlying signals can and cannot measure, see [[sensor-and-gaze-analytics]].
 
 ## The Risk: Empathy as a Trap
 
