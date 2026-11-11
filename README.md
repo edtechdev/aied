@@ -124,6 +124,12 @@ Two things to know before editing:
 - **`raw/` is not committed.** It holds the extracted full text of each source paper, which is gitignored because it is copyrighted material, and every page's `sources:` field points into it. The site builds without it, but the number-grounding check reports `[no raw source found - cannot verify]` for an edited article until you fetch that paper's text yourself.
 - **Scope the gates.** `npm run verify` walks the whole corpus, and most of its time goes into the inline-link scan. For an ordinary edit use `python3 tooling/scripts/run-gates.py --changed`, which reads only the pages you touched. The full sweep is for changes to slugs, facet values or generated artifacts.
 
+### Editing with the CMS
+
+The site carries a Sveltia CMS at `/aied/admin/`. It signs in through GitHub via a small OAuth worker (`backend.base_url` in `public/admin/config.yml`) and commits edits straight to `main`, so every change goes through the same build and gates as a hand-written one. Content types, fields and the media library are declared in that config file.
+
+The CMS bundle and its JSON schema are pinned to the same version (`@sveltia/cms@0.262.4`). Bump them together in `public/admin/index.html` and `public/admin/config.yml`, then check the config against the pinned schema before publishing — an unpinned bundle silently picks up breaking config changes in production.
+
 ### Repository layout
 
 ```

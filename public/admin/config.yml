@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms@0.262.4/schema/sveltia-cms.json
 
 # Sveltia CMS configuration for the AI in Education knowledge base.
 # Site: Astro (static), GitHub Pages at https://edtechdev.github.io/aied/

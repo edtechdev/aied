@@ -17,7 +17,7 @@ to point the pipeline somewhere else. Everything below describes the workflow.
 - Publishes **offline EPUB and PDF versions** (`aied.epub`, `aied.pdf`) with a clickable, numbered table of contents and a Notice page
 - Deploys to GitHub Pages with a single `git push` (GitHub Actions)
 
-**[Live example: AI in Education Knowledge Base](https://edtechdev.github.io/aied)** — 2,101 article summaries, 232 concept pages, 44 FAQs, and 40 resources in 33 locales on AI in education, auto-updated weekdays at 9 AM and Sundays via RSS.
+**[Live example: AI in Education Knowledge Base](https://edtechdev.github.io/aied)** — 2,213 article summaries, 233 concept pages, 45 FAQs, and 42 resources in 33 locales on AI in education, auto-updated weekdays at 9 AM and Sundays via RSS.
 
 ## Quick Start
 
