@@ -296,3 +296,8 @@
   hosts:
   - intelligent-tutoring
   reason: 'AI Tutor Pro is a free, no-signup tutoring app that a reader of the intelligent-tutoring page could hand to students today, and the page now lists it in connected_resources. Not listed on formative-assessment: the app supports practice and checking but the site reports no learning outcome evidence and the page is about assessment design, not tools. Not listed on ai-literacy: it is a place to use AI, not a curriculum for learning about it.'
+- resource: teacher-hive
+  reviewed: '2026-11-10'
+  hosts:
+  - teacher-ai-competency
+  reason: 'The platform is where a teacher who has built something with an AI assistant goes next, and the competency page is where a reader thinking about what teachers should be able to do with AI would look; it now lists Teacher Hive in connected_resources. Not listed on ai-literacy: the site hosts and shares apps rather than teaching about AI, and not on professional-training: the platform offers no training or facilitation of its own.'
