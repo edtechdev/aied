@@ -2,7 +2,7 @@
 connected_resources: [onmicro-ai]
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-11T09:25:00-05:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -88,6 +88,8 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 
 - **A scaffold the learner cannot verify is a fluent substitute.** Because [[chemistry-education|chemistry]] reasons across observable phenomena, particulate models and symbolic notation, a generated answer can be locally persuasive and globally wrong. [[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit and Rivera Álvarez (2026)]] place scaffolding on the productive side of their Presage-Process-Product analysis and uncritical copying on the failure side, and require scaffolds to demand representational translation in both directions, since a response that describes neutralization correctly can still claim that every equivalence point has a pH of 7. Verification is designed into the task rather than announced as a rule: students identify a false assumption, correct a unit or mechanism error, compare a symbolic structure with a submicroscopic model, or justify rejecting a generated answer. Because students cannot verify what they do not yet understand, [[prior-knowledge|prior knowledge]] and scaffolding come first, and prompting is treated as an epistemic act in which the learner specifies the constraints the answer must satisfy.
 
+The scaffold can sit in the assignment rather than in the tool. In a 43-student mechanics section, GPT-5 exchanges were mostly recipe requests during discussion sessions, then shifted on a graded end-of-term assignment that required at least three iterative exchanges and warned against pasting problem statements. Recipe-seeking fell from 52% to 22% of coded phrases, and think-aloud requests about physical meaning rose from 0% to 25% ([[stone-gpt5-kinematics-sensemaking-2026|Stone, Zhang & Utter, 2026]]). The model did not change between the two settings; the specification students worked to did.
+
 ## Common Misconceptions
 
 - **"Scaffolding is a constant level of support."** Expert annotation of **207 consultations** showed scaffolding need was **strongly phase-dependent, rising from about 16.1% of student utterances early** in the encounter. A single scaffold level is misallocated at both ends of the same consultation.
@@ -114,6 +116,7 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - [[productive-failure]] — Productive Failure
 
 ## Connected Articles
+- [[stone-gpt5-kinematics-sensemaking-2026]] — a graded rubric, not a better model, moved student dialogue from recipe-seeking to think-aloud (Stone, Zhang & Utter, 2026)
 - [[kumar-genai-computing-education-systematic-review-2026]] — Scaffold withdrawal as the mechanism enforcing verification (VIE framework)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Entropy-timed AI comments as in-video knowledge and emotional scaffolding (Wang, Du & Jin 2026)
