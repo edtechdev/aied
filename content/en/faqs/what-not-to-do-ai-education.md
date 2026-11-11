@@ -3,14 +3,14 @@ title: "What Should Educators Avoid Doing With AI?"
 created: "2026-11-10T22:10:00-05:00"
 updated: "2026-11-10T22:10:00-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
 technology: [generative-ai, learning-analytics, affective-computing]
 assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
-audience: [learners, instructors, faculty developers, software developers, administrators, researchers]
+audience: [learners, parents and families, instructors, faculty developers, software developers, administrators, researchers]
 reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,22 @@ Three failures recur across every role. **Substitution** — a tool performs the
 **Do not trade a question for an answer when you are stuck.** The productive struggle you skip is the learning; help-seeking that retrieves an answer is a different behavior from help-seeking that retrieves a hint ([[help-seeking]], [[desirable-difficulties]]). Use tools that withhold the finished answer.
 
 **Do not paste personal, health or family information into a tool to get a better response.** The tool has no obligation to forget it, and the privacy cost is not visible in the quality of the answer ([[privacy]]).
+
+## For parents and families
+
+**Do not do the homework with the tool, or let it be done beside you.** The pattern that shows up in the data is score inflation with a hidden cost: homework scores up 18% while closed-book exam scores fall 20% ([[reducing-ai-misuse]]). What you can check is the process — can your child explain the step, redo it on paper, and say what they were unsure about? If not, the tool did the assignment.
+
+**Do not let a chatbot become the confidant.** Sycophantic systems affirm far more than people do — 49% more across 11 models — and the affirmation is the mechanism that makes them feel safe to talk to ([[ai-sycophancy]]). In a large longitudinal study, users turned to sycophantic AI for personal advice nearly as often as to close friends and family, with lower satisfaction in their real relationships ([[sycophantic-ai-social-interaction-2026]]). A child who brings distress to a model that always agrees is not being heard; they are being mirrored.
+
+**Do not hand a generative chatbot to a young child and call it supervised because you are in the room.** The age-tiered guidance is concrete: scaffolded, non-generative activities for ages 9 to 12, supervised generative use with ethical reasoning from 13 up ([[ai-guidance-children-under-13]]). For the youngest children the risk is belief — preoperational children accept generated content as true, and the systems are not developmentally calibrated in the feedback they give. Adult co-use means asking what the toy just did, not monitoring from the doorway ([[early-childhood-elementary-ai-education]]).
+
+**Do not assume the school's tool protects your child's data because the school chose it.** Ask what is retained, for how long, whether it trains anything, and who else sees it ([[privacy]]). Awareness does not follow from exposure: one month after a lesson in which students watched their own logged behavior projected live, 66% of a year-7 class still chose the least protective chatbot setting ([[privacy]]).
+
+**Do not use a detector result to accuse your child, or to back an accusation from a school.** In the strongest controlled test, detectors flagged 9–15% of unmodified human writing and caught fewer than 4% of humanized AI rewrites; at realistic base rates false positives outnumber true positives ([[ai-detection]]). Treat a flag as a reason to ask for the draft history and a conversation, not as a finding.
+
+**Do not conclude that banning the tool is the safe option.** Under-trust is a calibration failure with its own cost — forgone capability — and the skill that matters is matched confidence, not avoidance ([[trust-calibration]]). The useful parental move is the same one the research supports for students: require a verification step, and make it cheap enough that a tired child will actually do it ([[verify-ai-output]]).
+
+**Do not mistake a content filter for safety.** Filters address what a system will say; they do not address what an interaction does to a learner — eroded practice, sycophantic agreement, or uneven refusals ([[pedagogical-safety]]).
 
 ## For instructors
 
