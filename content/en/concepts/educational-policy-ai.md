@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-11T10:20:00-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -42,7 +42,7 @@ Policy is made at several levels at once, and they do not move together. The bul
 
 - **Institutional policy:** [[genai-policies-higher-ed-computing|Institutional policy analysis]] compares how universities develop AI policies. [[institutional-change-framework-ai|Institutional change frameworks]] provide models for policy development. [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] coded the principal AI pages of the 50 US universities ranked most innovative in 2025 and found that only 6 framed them as a "policy" while 44 published guidance, guidelines, principles or resource hubs, and that 33 of 50 positioned instructors as the primary translators of institutional expectations into course rules — institutional policy is being deliberately written as adaptable guidance for course-level interpretation rather than fixed rule.
 - **Government policy:** [[ai-lifelong-learning-policy|Lifelong learning policy]] examines regulatory approaches at national and regional levels. A critical, infra-level view of AI in government policy-making is [[perrotta-zero-shot-governance-2026|Perrotta (2026)]], whose analysis of the UK Redbox civil-service [[llm]] prototype shows how general-purpose AI enters the professional toolkit of policy through "zero-shot governance" — domain-agnostic foundation models intervening in decisions, wrapped in thin [[discipline-specific-aied|domain-specific]] [[scaffolding|scaffolds]].
-- **[[k-12]] policy:** [[stanford-evidence-base-ai-k12-2026|Stanford's evidence reviews]] of 818 papers inform K-12 AI policy.
+- **[[k-12]] policy:** [[stanford-evidence-base-ai-k12-2026|Stanford's evidence reviews]] grew from 818 repository papers and 20 strong causal studies in March 2026 to 1,686 papers and 52 causal studies in the November 2026 update, and they inform K-12 AI policy.
 - **Assessment policy:** [[ai-assessment-scale-reform|Assessment reform policies]] and [[authentic-assessment]] frameworks represent policy-level responses to [[academic-integrity|AI-enabled cheating]]. The choice of summative assessment format — oral, proctored, closed-book — is itself an assessment-policy decision (see [[summative-assessment]]).
 
 ### The maturity gap: policy written before use, and before evidence
