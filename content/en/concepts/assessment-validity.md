@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-10T21:15:00-05:00"
+updated: "2026-11-11T11:05:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -60,6 +60,7 @@ A conceptual proposal raises a validity boundary that applies to every AI-mediat
 - **Student judgments of curricular alignment track difficulty, not content.** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] asked students to rate whether each item in a graded 60-item exam aligned with the course [[curriculum-design|curriculum]] and found the ratings correlated with item difficulty at ρ = 0.762 (easier items judged aligned, harder items not aligned, ρ = −0.762, p < 0.001), while ratings did not differ by item source. Where an instrument asks students to judge an assessment's curricular fit, the resulting score is partly a difficulty rating and cannot be read as independent evidence of alignment.
 
 - **Realign the assessment triangle rather than patch one vertex.** [[koretsky-genai-stem-assessment-2026|Koretsky et al. (2026)]] frame the [[generative-ai|GenAI]] problem through the assessment triangle — cognition (what is assessed), observation (how evidence of learning is elicited), and interpretation (the inference drawn) — and argue the three vertices must be realigned together, since redesigning tasks without repairing the interpretation leaves the inference unsupported. Their [[meta-analysis-systematic-review|scoping review]] also makes the fidelity of AI-generated assessment materials a validity property in its own right, cataloguing content, linguistic, cognitive, behavioral, structural, and pedagogical dimensions and requiring human-in-the-loop evaluation before such tasks ground assessment.
+- **Generated items can fit without measuring.** [[baghaei-generative-operationalism-2026|Baghaei and Eryilmaz (2026)]] name *generative operationalism* — construct label in, items out, post-hoc fit read as warrant — and show how semantic redundancy and construct underrepresentation produce desirable psychometrics without the attribute driving responses.
 
 ### Redesign over detection
 

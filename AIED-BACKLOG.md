@@ -6,8 +6,32 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-10
-**Total backlog:** 28 articles awaiting ingest (3 carried open from the 2026-11-10 scan + 2 still open from the 2026-11-09 scan, one of them blocked at the publisher + 3 older publisher-blocked items + 6 journal RSS + 3 OpenAlex sweep picks still awaiting a PDF; 11 carried from earlier entries) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-11
+**Total backlog:** 30 articles awaiting ingest (this scan added 3 publisher-blocked items and 1 adjacent-research item, and removed 2 that were ingested today; the earlier carries are unchanged) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-11)
+
+The prefetch returned 88 candidates and dropped 21 the maintainer had already rejected. Seventeen
+had already been ingested earlier today (the Stanford K-12 update batch, the sustainable higher-ed
+GenAI review, the medical-education governance op-ed, six EdArXiv/arXiv preprints, and the GPT-5
+kinematics study). Seven were ingested from full text by this run: one MDPI randomized trial in EFL
+writing, three arXiv preprints and three Frontiers articles. The first two entries below were listed
+on 2026-11-10 and were ingested today (career self-efficacy, Silinx), so they are removed from that
+section rather than carried again.
+
+The rest of the arXiv CS listing was model-training, retrieval, benchmarking and medical-imaging
+work with no educational setting, and the physics education feed returned one study with no AI
+intervention (active learning at a graduate summer school) - out of scope rather than backlog.
+
+**Full text blocked at the publisher (PDF needed)**
+
+- [Undergraduate nursing students' experiences of conducting graduation theses and using generative artificial intelligence: a qualitative study](https://doi.org/10.1186/s12909-026-10698-6) - [DOI: 10.1186/s12909-026-10698-6](https://doi.org/10.1186/s12909-026-10698-6) - Springer and BMC Medical Education served the abstract and metadata only to automated requests, and Europe PMC has no record of the DOI yet.
+- [Teaching while researching in a smart classroom: community-engaged action research on microlecturing for teachers' professional learning](https://doi.org/10.1186/s40561-026-00474-w) - [DOI: 10.1186/s40561-026-00474-w](https://doi.org/10.1186/s40561-026-00474-w) - SpringerOpen served an abstract-only page; the counter PDF endpoint returned an HTML shell.
+- [Generative AI as an interactive learning environment in early childhood: preschool children's emerging AI literacy as socially distributed interpretive work in collaborative storytelling](https://doi.org/10.1080/10494820.2026.2762001) - [DOI: 10.1080/10494820.2026.2762001](https://doi.org/10.1080/10494820.2026.2762001) - Taylor & Francis; the prefetch record carried no abstract and the publisher does not serve automated requests.
+
+**Adjacent research awaiting a tier decision**
+
+- [Can AI be a 'Researcher Without Borders'? Auditing Bias in AI-Assisted Social Science Research about China and the US](https://arxiv.org/abs/2611.14288) - [arXiv: 2611.14288](https://arxiv.org/abs/2611.14288) - a benchmarking audit of country-focused bias in LLM-written social-science essays; the setting is research practice rather than education, so it needs the adjacent-research disposition before any page.
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-10)
 
@@ -21,9 +45,6 @@ bibliometric). HAIML (10.35542/osf.io/qhjgs) surfaced again and already has two 
 written. The three below cleared relevance but were not reached inside the cap, or carry no
 intervention whose full text is reachable.
 
-- [Generative AI-supported learning, self-directed learning, and motivation in a graduate seminar: an exploratory single-group study](https://doi.org/10.3389/feduc.2026.2008734) — [DOI: 10.3389/feduc.2026.2008734](https://doi.org/10.3389/feduc.2026.2008734) — full text is open; 13 students in one seminar, eight matched pre/post, so it is a weak design that the next run can take if the cap allows.
-- [Perceived career impacts of artificial intelligence and career decision-making self-efficacy among Chinese college students](https://doi.org/10.3389/fpsyg.2026.1939461) — [DOI: 10.3389/fpsyg.2026.1939461](https://doi.org/10.3389/fpsyg.2026.1939461) — open access; career-development outcomes rather than learning, so it ranks below the learning studies each run.
-- [Silinx: An Open, Browser-Based HDL Design Platform for Teaching Digital Systems on FPGA Boards](https://arxiv.org/abs/2611.11741) — [arXiv: 2611.11741](https://arxiv.org/abs/2611.11741) — a system-description paper for a free AGPL-3.0 teaching platform; also a resource-page candidate (free, open source, public URL) for the maintainer to judge.
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-09)
 

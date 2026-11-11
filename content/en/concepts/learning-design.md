@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T01:53:02-05:00"
+updated: "2026-11-11T11:05:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -105,6 +105,7 @@ Fowlin et al. (2026) add an operational move for deciding where AI enters: unbun
 
 - **The documented activity is concentrated in one phase of the cycle.** In a review of 78 studies of AI-supported instructional design, Design-phase activity appears in **74 of 78 studies (95%)** and Development in 44 (56%), while Analysis reaches only 11 (14%), Evaluation 10 (13%) and Implementation 7 (9%) — and **no study examined AI support across the complete ADDIE cycle**. The cycle is an aspiration the evidence base does not cover, which matters for anyone being sold "AI-powered course development" as an end-to-end capability ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
 - **Three AI roles, hierarchically distributed.** *Generative* use — AI producing design content at the educator's direction — dominates at **96% of studies**; *scaffolding* use, where AI structures the designer's own reasoning, appears in 35%; *evaluative* use, where AI assesses artifact quality, in 21%. The field is overwhelmingly using AI to make things rather than to interrogate its own design decisions, which is the opposite of the critical-friend configuration the review singles out as educationally promising.
+- **Designers ask for steerability, not autonomy.** Eight instructional designers testing an item-generation platform ([[wei-perspicacious-instructional-design-2026|Wei et al., 2026]]) wanted control over difficulty, format and provenance, rated it 78.8 on the SUS, and named trust as the condition for adoption.
 
 ## Common Misconceptions
 

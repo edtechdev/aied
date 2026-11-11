@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-06T09:20:00-05:00"
+updated: "2026-11-11T11:05:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -59,6 +59,7 @@ Agreement is a property of the corpus, not the scorer: [[automated-scoring-marke
 - **Policy diverges across five sites.** Interviewing 20 undergraduates, Kim and colleagues locate five distinct sites of AI policy — faculty intention, formal policy, student interpretation, self-policy, and practice — and catalogue 23 rationalizations, mostly ad hoc and post hoc, explaining why rules at one site rarely shape behavior at another ([[student-rationalization-ai-writing|Kim et al. (2026)]]).
 - **Grading is where the guidance runs out.** In interviews with 24 university writing professors across the Chinese Mainland, Hong Kong, Macau and Singapore, six reported no institutional rule on whether they may grade student work with AI at all, and the consequence was colleagues who refuse on principle sitting beside colleagues who already do it ([[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]]).
 - **Compliance can mask absent inquiry (academic erasure).** From 49 educator accounts, [[academic-erasure-complexity-ai-writing-2026|Nwagboso & Atuba (2026)]] name *academic erasure* — fluency that satisfies every surface criterion while bypassing the epistemic labor of argument — and trace its driver to assessment culture, where rubrics rewarding polish make AI use the rational response rather than misconduct.
+- **The largest randomized test of structured ChatGPT writing support is in EFL.** [[wardat-chatgpt-efl-writing-rct-2026|Wardat and Akour (2026)]] randomized 300 Jordanian undergraduates across four universities and measured a 9.964-mark adjusted advantage over conventional instruction (partial η2 = 0.545), with no delayed post-test.
 
 ### Writing as thinking
 

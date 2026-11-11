@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-11T11:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -74,6 +74,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - **Necessary for usefulness, not merely correlated with it.** [[chu-design-students-ai-agent-tam-ttf-2026|Chu and Liu (2026)]] placed AI self-efficacy in front of the two acceptance beliefs for 405 design graduate students and found it the strongest antecedent of both: β = 0.458 on perceived usefulness and β = 0.394 on [[technology-acceptance-model|perceived ease of use]]. Their necessary condition analysis adds a stronger form of claim than the path above. Efficacy was the only condition identified as necessary for perceived usefulness (d = 0.125, p = 0.015). Usefulness at 80%, 90% and 100% of its scale required efficacy at 10.0%, 30.0% and 50.0%. Confidence therefore sits as a floor under the instrumental judgment rather than as one contributor among several. The design is cross-sectional and the model explains R² = 0.150 of intention, so treat the thresholds as within-sample.
 
 - **Behavioral traces can carry the signal, but the labels set the ceiling.** A two-university pipeline detected low self-efficacy from interaction traces; survey-occasion labels beat a mid-term split, and the MSLQ subscale alone labeled as well as the full instrument ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]]).
+- **AI's career implications split into two routes.** Among 415 Chinese college students, [[zhang-ai-career-selfefficacy-2026|Zhang (2026)]] found positive perceptions reached career decision self-efficacy through career planning while negative perceptions reached it only through career anxiety (indirect β = −0.184).
 
 ## Common Misconceptions
 

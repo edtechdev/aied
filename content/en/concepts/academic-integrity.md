@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-11T11:05:00-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -112,6 +112,7 @@ The knowledge base documents a paradigm shift: from AI as an integrity threat to
 - **Design, not detection: the Bochum case.** The Ruhr University Bochum redesign of introductory nuclear and particle [[physics-education|physics]] ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) linked its AI policy to a practical integrity failure rather than to detection: because tutorial problems were disclosed in advance, some students prepared AI-generated solutions and copied them onto the blackboard without engaging in the intended reasoning. The authors treat this as a design problem — moving tutorial problems to prepared in-class discussion and making a written exam the grade determinant — rather than a policing problem, while explicitly permitting AI in study, explaining why verification is the student's responsibility, and noting that open-ended AI-permitted homework also raised dependence, uneven access to paid models, and teaching-assistant workload.
 
 - **Independent verification, and the dependence it targets.** Ragab (2026) proposes a five-layer model — responsible [[educational-policy-ai|policy]] with human review, [[authentic-assessment|authentic assessment]], independent competency verification, and supervised annual and exit assessments — on the argument that detection cannot carry the burden ([[ragab-ai-integrity-verification-model-2026|Ragab, 2026]]). The lever such designs target is empirical: among 1,045 Chinese undergraduates, dependence on [[generative-ai|GenAI]] rather than opportunity or low competence carried the association with dishonesty, at β = 0.63, and felt [[agency|agency]] tracked it positively, because the feeling of command licensed the delegation it was meant to restrain ([[dai-genai-academic-dishonesty-2026|Dai et al., 2026]]).
+- **Instructors' own well-being is part of the picture.** From a 2,000-post sample of r/Professors, [[mohammadi-instructors-cheating-forum-2026|Mohammadi et al. (2026)]] catalogue three motivations — protecting learning, protecting themselves, upholding integrity and equity — and strategy families running from assessment redesign to surveillance.
 
 The clearest statement of the pedagogical inversion comes from [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma (2026)]], who argue that reform starting from suspicion narrows the educational imagination to control, compliance and surveillance, and that integrity should be a **consequence** of assessment designed for engagement rather than its starting point. Their supporting observation is a mechanism already visible elsewhere in this knowledge base: disengagement is one of the conditions under which dishonesty becomes more likely, so agendas that stress-test assessments or constrain AI use without addressing engagement leave part of the problem untouched.
 

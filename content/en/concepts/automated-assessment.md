@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-10T22:35:00-05:00"
+updated: "2026-11-11T11:05:00-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -128,6 +128,7 @@ A red-team evaluation of an everyday grading workflow shows the attack surface t
 Automated assessment connects to [[assessment-validity]] (quality assurance), [[formative-assessment]] (use context), [[bias-mitigation]] and [[equity-in-ai-education]] (fairness), [[teacher-role]] (how automation changes instructor work), and [[ai-feedback-quality]] (grading without useful feedback has limited educational value). Confidence-aware assessment is a specific mechanism within the broader agenda of [[psychometrically-aware-ai]] and a contributor to [[trust-calibration|calibrated trust]].
 
 - **Large-scale AI grading of handwritten [[physics-education|physics]] (2026):** A multimodal model (GPT-5.5) graded 10,364 scanned pages across a national Physics Olympiad theory exam, selection camp, and university quantum-mechanics exam, achieving total-score correlations of 0.91–0.97 with official marks and recovering the same top-five Olympiad team. Revised page-by-page, evidence-location instructions improved agreement — evidence that [[multimodal|multimodal AI]] can support high-stakes summative grading with careful rubric and prompt engineering ([[ai-grading-handwritten-physics-2026]]).
+- **Agentic grading was reliable on discrete items, not on drawings.** [[alghamdi-claude-code-agentic-grading-2026|AlGhamdi (2026)]] had Claude Code grade 60 scanned handwritten exams (r = 0.97, ICC = 0.96), but weighted kappa fell from 0.98 on multiple choice to 0.65 on evaluation items, with 55% exact agreement on diagrams.
 
 - **Selective automation for handwritten [[chemistry-education|chemistry]] (2026):** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] graded a 296-student handwritten general-chemistry final page-by-page against rubric images with a multimodal, reasoning LLM, achieving high run-to-run reliability on total scores (ICC(A,1) = 0.967) and strong total-score agreement with TA grading (R² = 0.91). Because item-level reliability varied sharply by format — textual and chemical-reaction answers graded reliably while drawing and graphing scored worse than random — raw agreement was judged inadequate for high-stakes use. They operationalize [[human-in-the-loop-ai|human deferral]] through confidence filters (partial-credit thresholds, an [[item-response-theory|IRT]]-based risk threshold, and problem-type exclusion) that convert raw AI scores into an accept/deferral policy, and show that false positives (AI crediting genuinely wrong answers) tend to go undetected since students rarely contest them — a concrete [[psychometrically-aware-ai|psychometrically grounded]] route to selective automation ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 
