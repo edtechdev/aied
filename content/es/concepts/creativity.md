@@ -1,7 +1,7 @@
 ---
 title: Creatividad
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-10T22:35:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,7 @@ La creatividad no es una facultad monolítica única: se realiza de forma distin
 - **Creación literaria: la unidad entre el tema y el texto.** [[incipit-axiom-grounded-scaffolding-literary-creation-2026|Incipit]] sostiene que una obra se organiza por *premisas declaradas* y no por temas, y construye un nivel intermedio —1.455 registros de axiomas que abarcan 149 obras, unidos por 472 relaciones tipadas— en el que quien escribe y revisa una configuración puede cambiar un compromiso organizador, quien lee puede justificar una reconstrucción y quien critica puede comparar dos obras. Su propia auditoría afina el punto de medición anterior: el artefacto registra una única curación, 1.448 de los 1.455 axiomas se asignan a exactamente una obra, y la validación propuesta (cinco evaluadores sobre una muestra de 35 registros) no se ha ejecutado, así que el marco es un programa de investigación y no evidencia sobre el aprendizaje creativo.
 
 - **Un flujo de trabajo de diseño con IA generativa puede reducir la confianza creativa mientras el rendimiento se mantiene.** En una comparación de diseño arquitectónico con 36 estudiantes, la generación de imágenes con IA igualó a la búsqueda de precedentes en rendimiento de diseño, carga cognitiva y autoeficacia creativa específica de la tarea, pero la autoeficacia creativa *general* cayó (DiD = −0,543, IC del 95% [−1,068; −0,017]): el apoyo a la tarea y la confianza en la propia creatividad pueden moverse por separado ([[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao et al. (2026)]]).
+- **La narración visual como puente de la imitación al diseño.** En un curso de diseño bioinspirado, 20 estudiantes usaron herramientas de imagen con IA para convertir material biológico de origen en relatos visuales; el análisis de cinco trabajos encontró que la narrativa, y no el acabado de la imagen, era lo que sostenía la idea biológica, y que el estudiantado elegía el estilo visual por su significado ([[malkani-paul-ai-steam-visual-storytelling-2026]]).
 
 ### Poner la creatividad en práctica
 
@@ -120,6 +121,7 @@ La creatividad se conecta con el [[critical-thinking|pensamiento crítico]] y co
 - [[arts-design-and-media-education]]
 
 ## Artículos conectados
+- [[malkani-paul-ai-steam-visual-storytelling-2026]] — La narración visual con IA desplazó al estudiantado de diseño de la imitación de la naturaleza hacia escenarios centrados en el usuario (Malkani y Paul 2026)
 - [[wei-genai-configurations-creative-phases-2026]] — Configuraciones de IA generativa a través de las fases creativas: un experimento 2 × 2 sobre el rendimiento creativo y el conocimiento inmediato en la educación en arte y diseño
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — La generación de imágenes con IA dejó el rendimiento de diseño sin cambios pero redujo la autoeficacia creativa general
 - [[bicer-genai-pd-math-creativity-2026]] — Cómo el desarrollo profesional guiado por IA generativa apoya la implicación del profesorado con la creatividad matemática, el conocimiento del contenido y el conocimiento pedagógico del contenido

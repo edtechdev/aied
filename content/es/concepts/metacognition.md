@@ -1,7 +1,7 @@
 ---
 title: Metacognición
 created: "2026-09-25T03:54:17-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-11T11:35:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [student-guide-to-ai]
 contributors: [editor]
@@ -149,6 +149,8 @@ El apoyo externo también puede situarse por delante del propio juicio. [[iqbal-
 - **Una indicación de reflexión breve afina la monitorización durante las decisiones apoyadas por IA.** [[ren-metacognitive-awareness-genai-reliance-2026|Ren (2026)]] añadió tres indicaciones de reflexión antes de finalizar las respuestas en un experimento de tres condiciones con 342 estudiantes de grado: la aceptación de consejos incorrectos de ChatGPT cayó del 62,4% al 39,7% (*OR* = 0,40) y la calibración de la conciencia subió (0,59 frente a 0,41), mientras que la precisión de las recomendaciones y la alineación con los consejos correctos se mantuvieron altas. La reflexión hizo la confianza más discriminativa en lugar de uniformemente defensiva, lo que respalda tratar la confianza como un problema de monitorización y no como una cuestión de cuánta IA se usa.
 
 - **Anidar el prompting dentro de un ciclo metacognitivo.** El marco IDEA secuencia el uso de IA generativa como Intención, Deconstrucción, Expresión y Adaptación, lo que convierte el prompting en un paso de la planificación y la monitorización y no en una habilidad aislada; el estudiantado que lo aprendió produjo prompts de mayor calidad que sus pares formados en el prompting Rol–Tarea–Contexto–Formato en las cinco categorías de tarea ([[idea-framework-metacognitive-genai-2026|Wang et al., 2026]]).
+
+Los relatos docentes sobre la metacognición necesitan el mismo escrutinio que los autoinformes del estudiantado. En 25 docentes universitarios chinos, un límite compartido sobre lo que la IA no puede hacer —emoción, corporeidad, metacognición, conocimiento tácito, juicio— apareció en todos los casos, y la verificación tuvo evidencia clara en 24 de 25. Pero ambos códigos aparecieron después de una pregunta directa sobre qué no puede reemplazar la IA, así que el acuerdo describe cómo respondió el profesorado a esa pregunta y no una preocupación que planteara sin que se le preguntara. Sobre la proposición de degeneración intelectual que ofrecía el protocolo, nueve la respaldaron y once la hicieron condicional. El hallazgo es una cautela de medición: una creencia que parece universal bajo una pregunta directa puede ser un artefacto de la pregunta ([[qiang-teachers-metacognitive-defense-offloading-2026|Qiang y Wang, 2026]]).
 
 ## Implicaciones para el diseño de herramientas
 

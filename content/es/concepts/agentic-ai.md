@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, learnharness]
 title: IA agéntica
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T11:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,8 @@ La [[research-methods-aied|investigación]] de la base de conocimiento abarca el
 - **Un escalador de notificación y gobernanza: el marco de Autonomía–Supervisión–Evidencia (AOE).** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]] sostiene que el término *IA agéntica* se aplica de forma tan inconsistente que la evidencia y la supervisión no pueden compararse entre estudios: los sistemas que planifican, recuerdan, usan herramientas o coordinan varios agentes se mezclan con interfaces estáticas de IA generativa y con [[pedagogical-agent|agentes pedagógicos]] convencionales. Su revisión integradora crítica de quince revisiones revisadas por pares encuentra que la evidencia es más sólida para los resultados a nivel de artefacto (precisión de la retroalimentación, reducción de [[hallucination-risk|alucinaciones]]) y más débil para el aprendizaje duradero, la equidad, la carga de trabajo o los resultados institucionales, con despliegues auténticos que suelen ser cortos, de un solo sitio y débilmente ligados a la supervisión. La solución es una terna concreta de notificación —**nivel de autonomía A0–A4** (generación reactiva → orquestación acotada → autonomía delegada de tareas → autonomía de flujo de trabajo → *autonomía consecuente* sobre la calificación, la admisión y la progresión), **nivel de supervisión O0–O4** (no especificada → auditoría retrospectiva → aprobación previa al uso → control con puntos de verificación → *supervisión continua y acotada*) y **etapa de madurez de la evidencia M0–M5** (concepto → prototipo o banco de pruebas → evaluación con participantes → despliegue auténtico → extendido o multisitio → *replicado o a escala institucional*)— más una **regla de proporcionalidad**: la autonomía admisible no debería ir por delante ni de la madurez de la evidencia ni de la solidez de la supervisión (por ejemplo, un sistema consecuente A4 exige evidencia M4–M5, validación legal y O4 con autoridad humana final. Notificar *A2–O3–M3* convierte las afirmaciones vagas de «despliegue agéntico» en especificaciones comparables y comprobables y da a las instituciones una gramática escalonada de adopción, registro y reversión: el complemento probatorio del espectro de [[baradziej-agentic-ai-higher-education-2026|copiloto a piloto automático]] anterior.
 - **Pruebas de robustez adversarial:** [[adversarial-stress-testing-role-playing-agents|las pruebas de estrés multiagente]] coordinan agentes interrogador, objetivo y juez para revelar modos de fallo invisibles a las pruebas de una sola estrategia, y reducen las puntuaciones de robustez en 0,17–0,20 puntos, algo crítico para la consistencia de la persona y el [[pedagogical-safety|despliegue seguro]] con quien aprende.
 - **Aplicaciones de dominio:** los sistemas agénticos aparecen en diversos dominios, como los [[learnmate2-llm-adaptive-learning|agentes de aprendizaje adaptativo]], los [[educlaw-bench-pedagogical-llm-agents-2026|agentes pedagógicos con LLM]], el [[guided-llm-scaffolding-independent-learning|andamiaje guiado con LLM]], los [[cyberagents-gamified-cybersecurity-learning-2026|agentes de aprendizaje gamificado en ciberseguridad]] y los [[hdr-brachytherapy-agentic-ai-simulation-2026|agentes de simulación clínica]].
+- **La calificación agéntica es una cuestión de fiabilidad antes que de carga de trabajo.** Un despliegue agéntico de Claude Code recibió tres archivos de rúbrica y 60 exámenes parciales manuscritos y escaneados de un curso de gráficos por computadora. Sus calificaciones coincidieron con las del instructor en r = 0,97, con un error absoluto medio de 0,85 puntos sobre 20, un sesgo medio positivo de la IA de 0,68 y un ICC de test-retest de 0,96 entre dos sesiones separadas por una semana. El agregado oculta dónde falla: el kappa ponderado fue de 0,98 en opción múltiple y de 0,65 en los ítems evaluativos, con los diagramas dibujados a mano como el caso más débil ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Un curso, un instructor y un conjunto de rúbricas localizan la varianza; no establecen que la calificación agéntica se generalice.
+
 - **Agentes web como evaluadores de la experiencia de aprendizaje:** un único agente web autónomo «descriptor» que navega una [[learning-design|lección]] en línea como lo haría un estudiante —[[ai-web-agents-lesson-design-2025|Wang, Mitchell y Piech (2025)]]— produce una descripción lo bastante rica como para predecir el abandono del estudiantado y dar al diseñador retroalimentación accionable antes de que intervenga estudiantado real, y supera a una cohorte simulada completa y a todas las líneas de base en un curso global de CS1. Esto sitúa la evaluación agéntica (un agente como crítico sustituto de una experiencia de aprendizaje) como un uso distinto y de bajo coste de la IA agéntica, junto a los agentes que enseñan o diseñan.
 
 ### Sistemas multiagente
@@ -209,6 +211,7 @@ La IA agéntica no es ni una panacea ni un daño inevitable: su valor depende de
 
 ## Artículos conectados
 
+- [[alghamdi-claude-code-agentic-grading-2026]] — Calificación agéntica de 60 exámenes manuscritos: r = 0,97 en conjunto y kappa que baja a 0,65 en los ítems evaluativos
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomía, competencia, relación y presencia social como las vías de la IA agéntica a la implicación (Pramod y Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, evaluación gozosa y tercer espacio
 - [[ilieva-agentic-genai-higher-education-2026]] — El marco AGAI-HE: IA generativa agéntica, acotada y supervisada por humanos, en la educación superior (Ilieva et al. 2026)

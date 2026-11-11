@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo redactamos e implantamos una política institucional sobre la IA?"
 created: "2026-09-22T18:53:09-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research]
 weight: 65
 type: faq
@@ -10,7 +10,7 @@ research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
-source_updated: "2026-10-28T11:39:28-04:00"
+source_updated: "2026-11-11T09:00:00-05:00"
 translation_of: faqs/institutional-ai-policy
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -52,6 +52,8 @@ Antes de la redacción, el alcance. [[institutional-governance-ai-universities|M
 Lo que esos documentos priorizan dice para qué creían sus autores que servía el documento. Las políticas de nivel universitario cubren seguridad de los datos, mitigación de riesgos, compras y cumplimiento legal, con poca orientación [[pedagogy|pedagógica]]. Las políticas de nivel de escuela que existen se concentran en la docencia y en la [[ai-literacy|alfabetización en IA]]. Solo ocho [[business-education|escuelas de negocios]] tenían una política propia, y esas diferían del marco de su institución en seis de los ocho casos.
 
 El remedio que proponen los autores es una estructura por capas: una capa de gestión de riesgos para toda la universidad, políticas a nivel de departamento y comités interdepartamentales con profesorado y estudiantado. Adóptela y tendrá una frase de alcance que puede defender en el claustro. Este documento gestiona el riesgo institucional; las decisiones docentes corresponden al departamento que califica el trabajo. La estructura por capas también responde a la acusación de vaguedad sin producir 40 páginas.
+
+Un segundo vacío está en el lado de la producción. Casi todas las políticas de ese registro gobiernan lo que el estudiantado y el personal hacen con la IA; casi ninguna gobierna el material que la institución produce con ella. Chew (2026) sostiene que la omisión es estructural: las imágenes, los casos y los ítems de examen generados con IA entran en los planes de estudio como contenido docente, donde un error plausible llega a todos los estudiantes y puede que nunca genere una señal como sí lo hace el error de un estudiante ([[chew-ai-content-governance-medical-education-2026|Chew, 2026]]). Una política que se detiene en el uso del estudiantado deja sin abordar el uso de mayores consecuencias. Las cuatro disposiciones que cierran esa brecha son saber qué está en uso, probarlo antes de que el estudiantado lo vea, actuar ante los hallazgos, incluida la retirada, y vigilar la deriva de las herramientas aprobadas.
 
 ## Redacte disposiciones que obliguen, o quítelas
 

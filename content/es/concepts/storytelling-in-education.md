@@ -1,7 +1,7 @@
 ---
 title: Narrativa en la educación
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-11-04T14:10:00-05:00"
+source_updated: "2026-11-11T10:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,8 @@ La narrativa se fundamenta en la [[motivation|motivación]], la [[student-engage
 - **La narrativa digital como contrapeso a la IA:** a medida que asciende la [[generative-ai|IA generativa]], la narrativa digital se reencuadra como un vehículo para las capacidades emocionales, culturales y narrativas de las que carece la IA. En un modelo de [[project-based-learning|aprendizaje basado en proyectos]] para la educación en arte y [[design-education|diseño]], el estudiantado tradujo el patrimonio cultural local a narrativas [[multimodal|multimodales]] en 92 obras de narrativa digital, lo que demuestra cómo la narración sostiene la creatividad humana en la era de la IA.
 - **La narrativa generada es fácil de producir y difícil de mantener coherente.** Con 22 estudiantes de STEM, la ficción interactiva generada por IA puntuó bien en claridad narrativa (M = 4,11) y longitud (M = 4,14), pero la implicación se situó en el punto medio neutro (M = 3,08) y la coherencia del contenido de la historia fue lo más débil (M = 2,92) ([[ai-generated-interactive-fiction-education-2026]]). La cocreación hereda esa debilidad en la capa en la que se supone que una historia hace su trabajo.
 
+- **La historia es el marco evaluativo, no solo el destino de la producción.** En un preescolar turco, 22 niños construyeron libros ilustrados con una docente que redactó todos los prompts de imagen. Sus juicios sobre las imágenes generadas trataban de la adecuación a la historia —cuál de cuatro candidatas conservaría la clase, si un objeto añadido «como un piloto» tenía lugar, si una imagen era fea porque faltaba una flor solicitada—, junto a juicios de verosimilitud como «una mariposa con gafas no puede ser» ([[konca-preschool-genai-storytelling-ai-literacy-2026|Konca y Yigit-Gencten, 2026]]). La narrativa dio a la clase una razón para inspeccionar las salidas característica por característica, y fue eso lo que hizo visible en absoluto su razonamiento sobre la herramienta.
+
 La narrativa se conecta con [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]] y [[educational-robotics]].
 
 ## Concepciones erróneas
@@ -73,3 +75,4 @@ La narrativa se conecta con [[student-engagement]], [[motivation]], [[creativity
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[white-wu-robotics-ai-education-2026]] — Robótica e IA en la educación (White y Wu)
 - [[ai-generated-interactive-fiction-education-2026]] — La ficción interactiva generada por IA: la coherencia como dimensión débil en un piloto con 22 estudiantes
+- [[konca-preschool-genai-storytelling-ai-literacy-2026]] — Construcción de libros ilustrados en preescolar, donde la adecuación a la historia y la verosimilitud se convirtieron en criterios para juzgar imágenes de IA (Konca y Yigit-Gencten, 2026)

@@ -1,7 +1,7 @@
 ---
 title: Trabajo en grupo
 created: "2026-09-28T21:09:40-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-04T18:52:58-05:00"
+source_updated: "2026-11-10T19:35:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,7 @@ Una segunda línea de investigación trata la IA como participante y no como her
 - **La controversia puede contrarrestar el pensamiento de grupo.** [[genai-counter-learner-groupthink-2025|Wiss et al. (2025)]] tomaron deliberadamente el camino opuesto: un agente de IA (CALIE) al que se pidió inyectar puntos de vista controvertidos en doce equipos interprofesionales de [[problem-based-learning|aprendizaje basado en problemas]] estimuló el [[critical-thinking|pensamiento crítico]] y dinámicas de grupo positivas, contrarrestando la presión de conformidad que el trabajo en grupo puede producir por lo demás. El contraste con Jin et al. es instructivo: el desafío ayuda cuando es el diseño previsto y perjudica cuando es un efecto secundario no reconocido.
 - **La restricción del mediador neutral.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]], una IA que media en las fronteras disciplinares de equipos interdisciplinarios sacando a la luz supuestos implícitos, se valoró como apoyo cognitivo y como amortiguador relacional, pero la confianza del estudiantado era portante y se erosionó en el momento en que la IA pasó de mediadora neutral a consejera o cuestionadora. Los cambios de rol deben ser por tanto explícitos y configurables, no silenciosos.
 - **La colaboración puede ser en sí misma objeto de instrucción.** [[golrang-propact-pair-programming-2026|ProPACT]] trata la *díada* — y no a la persona — como unidad de análisis, modelando la atención y el esfuerzo conjuntos para predecir rupturas de la colaboración con hasta 30 segundos de antelación. Las díadas que recibieron retroalimentación proactiva lograron más éxito en la depuración y mostraron ganancias sostenidas en [[regulation|regulación]] colaborativa después: la IA puede enseñar la colaboración misma, no solo apoyar una tarea.
+- **Un desplazador relacional.** En un experimento aleatorizado con 33 equipos, [[nixon-social-cost-ai-teammate-2026|Nixon et al. (2026)]] encontraron que el compañero de equipo de IA acaparaba el mayor tiempo de palabra y, sin embargo, aportaba la menor información nueva, mientras que el estudiantado se respondía menos entre sí (responsividad g = -0,78) y declaraba un menor sentido de pertenencia (4,58 frente a 5,27). Cuanto más dominaba la IA el tiempo de palabra, menos valoradas se sentían las personas (r = -0,52).
 
 ### El intercambio entre eficiencia y regulación
 
@@ -135,6 +136,7 @@ Una segunda línea de investigación trata la IA como participante y no como her
 
 ## Artículos conectados
 
+- [[nixon-social-cost-ai-teammate-2026]] — El compañero de equipo de IA acapara el tiempo de palabra y caen la responsividad y el sentido de pertenencia entre las personas (Nixon et al. 2026)
 - [[chen-zou-genai-group-assessment-agency-2026]] — Tres patrones de agencia del estudiantado en la evaluación en grupo mediada por IA generativa
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Agencia emergente de quien aprende cuando la IA se une al grupo: personas de apoyo frente a contrarias
 - [[genai-counter-learner-groupthink-2025]] — Un agente de IA que inyecta controversia para contrarrestar el pensamiento de grupo en equipos de PBL

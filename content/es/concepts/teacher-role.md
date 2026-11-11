@@ -1,7 +1,7 @@
 ---
 title: La docencia
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-11T08:13:31-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -156,6 +156,8 @@ El rol docente y la [[learner-identity|identidad del estudiantado]] son caras re
 - **La analítica de reflexión con IA orientada al profesorado debería adaptarse a su experiencia, y no ser única para todos.** Una encuesta a 100 docentes estadounidenses de K-12 (división por la mediana en nueve años; pruebas binomiales; diferencias de elección del 15% detectables con una potencia de ~83%) encontró divisiones sistemáticas de preferencia. El profesorado con menos experiencia cita la falta de tiempo para reflexionar como uno de los principales obstáculos a un ritmo triple que el profesorado experimentado (37% frente a 12%, p < 0,001) y quiere analítica sobre la desconexión del estudiantado (48% frente a 33%, p = 0,028) y sobre las emociones (31% frente a 18%, p = 0,036).
 - **La regla de diseño que se deriva de esta división son los modos de recomendación adaptados a la experiencia.** El profesorado experimentado quiere analítica sobre el aprendizaje mejorado después de ayudar a un estudiante (40% frente a 26%, p = 0,019) y sobre sus métodos de enseñanza (42% frente a 26%, p = 0,012), y su principal obstáculo es el seguimiento del desempeño (28% frente a 15%, p = 0,009). Regla de diseño: modo novato = avisos estructurados y analítica de implicación; modo experto = análisis longitudinal flexible, lo que es un argumento directo contra cuadros de mando uniformes. ([[falhs-teacher-expertise-reflection-2025]])
 
+Dos ensayos recientes ponen cifras al argumento de la carga de trabajo y a sus límites. Un ensayo aleatorizado por conglomerados en 68 escuelas secundarias inglesas redujo el tiempo de preparación de clases de 81,5 a 56,2 minutos semanales, un ahorro de 25,3 minutos, sin pérdida detectada de calidad de la enseñanza ([[roy-chatgpt-lesson-preparation-nfer-2024|Roy et al., 2024]]). En ASSISTments, el profesorado que recibió resúmenes de tareas generados por LLM vio más estudiantes que iniciaban y completaban las tareas, mientras que las puntuaciones a nivel de clase no mejoraron ([[lim-llm-summaries-teachers-rct-2026|Lim et al., 2026]]). Se ahorró tiempo y cambió la conducta; el aprendizaje medido no.
+
 ## Concepciones erróneas
 
 **«La IA reducirá o sustituirá el trabajo pedagógico de la enseñanza.»** La evidencia de los escenarios expertos apunta en la dirección contraria. [[caeo-navigating-ai-educational-future-scenarios-2026|Malyn-Smith et al. (2026)]] la llaman la *paradoja de lo más humano*: en seis escenarios para 2030 cocreados por 20 investigadores de 13 países, la saturación de la IA **intensifica en lugar de desplazar** el trabajo pedagógico humano. Los escenarios describen la IA como «el sistema de tratamiento del aire del ecosistema de aprendizaje»: una infraestructura que solo se nota cuando falla. Lo que cambia no es la cantidad de juicio humano requerido, sino su objeto: la atención pasa de producir materiales a interpretar a quien aprende.
@@ -202,6 +204,8 @@ La evidencia respalda un orden concreto de operaciones para el profesorado que a
 
 ## Artículos conectados
 
+- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 escuelas secundarias inglesas: la preparación de clases bajó 25,3 minutos semanales sin pérdida de calidad detectada (Roy et al., 2024)
+- [[lim-llm-summaries-teachers-rct-2026]] — ECA en ASSISTments: los resúmenes con IA elevaron la entrega de tareas pero no las puntuaciones de clase (Lim et al., 2026)
 - [[sessional-academics-contract-cheating-digital-misconduct-2026]] — El personal académico ocasional asume el trabajo de integridad sin la autoridad
 - [[caeo-navigating-ai-educational-future-scenarios-2026]] — La paradoja de lo más humano: los escenarios expertos para 2030 encuentran que la saturación de la IA intensifica el trabajo pedagógico humano en lugar de desplazarlo (Malyn-Smith et al. 2026)
 - [[teachers-instrumental-orchestration-ai-math-2026]] — Seis clases de matemáticas de secundaria observadas amplían la orquestación instrumental con tres tipos nuevos (Noh y Kim 2026)

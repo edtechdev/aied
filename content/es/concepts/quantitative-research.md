@@ -1,14 +1,14 @@
 ---
 title: Investigación cuantitativa
 created: "2026-09-28T19:11:02-04:00"
-updated: "2026-11-05T17:03:28-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-10T18:55:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,7 @@ Las encuestas transversales miden actitudes, percepciones, motivación, [[self-e
 - **Fortalezas:** muestras grandes; cobertura amplia y de bajo coste; permite probar modelos mediacionales complejos; viable para actitudes difíciles de observar.
 - **Limitaciones:** los datos transversales no pueden establecer causalidad; sesgo de autoinforme; el muestreo por conveniencia limita la generalizabilidad; los mediadores se infieren de la covarianza y no de la manipulación. Véase [[self-report-measures|medidas de autoinforme]] para el tratamiento de estos límites desde el lado del instrumento.
 - **Un modelo de mediación saturado no puede poner a prueba su propio orden.** Una encuesta de una sola oleada a 1.020 estudiantes de enfermería dividió un efecto total de 1,36 en uno directo de 0,92 y uno indirecto de 0,44 a través del [[self-regulated-learning|aprendizaje autorregulado]], el 32,35% del total, con un modelo que tiene tantos parámetros libres como covarianzas observadas y que, por tanto, reproduce los datos por construcción ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
+- **Una etiqueta de «parcial» puede descansar en un intervalo que casi llega a cero.** Entre 438 estudiantes universitarios chinos, la ruta directa del uso de IA al rendimiento discurrió con β = 0,18 e IC del 95% (0,02; 0,34) ([[yuan-ai-assisted-learning-engagement-performance-2026|Yuan et al. (2026)]]).
 **Un efecto indirecto total cercano a cero puede ocultar dos vías activas.** En una oleada de autoinforme de 568 estudiantes de diseño, la asociación indirecta fue de 0,0929 por el enfoque de promoción y de -0,0884 por el enfoque de prevención, sumando 0,0045 mientras la vía directa soportaba el 98,7% del total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]).
 
 ### Investigación experimental y cuasiexperimental

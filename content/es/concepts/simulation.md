@@ -2,13 +2,13 @@
 connected_resources: [openmaic]
 title: Simulación
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 translation_of: concepts/simulation
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-10T21:15:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,7 @@ La simulación ocupa el núcleo de las [[pedagogy|pedagogías]] [[experiential-l
 
 - **La simulación basada en agentes puede modelar una teoría de la [[metacognition|metacognición]] como un sistema comprobable.** Un marco basado en agentes inspirado en el gemelo digital que combina el modelo AMERT de cinco niveles con una simulación en NetLogo permitió a quienes investigan variar los arquetipos de quien aprende y las condiciones de la tarea y observar trayectorias metacognitivas, aunque los autores subrayan que la salida es generación de hipótesis y no evidencia sobre personas que aprenden reales ([[agent-based-digital-twin-metacognition-2026|Guo, 2026]]). La simulación se convierte en un laboratorio virtual para una teoría que de otro modo es difícil de observar.
 - **El currículo es la unidad que decide el valor de una simulación.** El Modelo de Puente Curricular sostiene que el rendimiento de la simulación depende de cómo se secuencian las experiencias a lo largo de un programa —reutilización de contextos, variación de las exigencias de razonamiento, evidencia que alimenta la progresión— y no de la fidelidad de la plataforma ([[herrera-alcaino-simulation-curricular-coherence-2026|Herrera Alcaíno, 2026]]).
+- **Los clientes simulados superaron a la evidencia.** Una revisión de alcance de 14 fuentes sobre IA generativa en la formación de consejeros encontró que los clientes simulados por IA eran la aplicación dominante, pero ningún estudio midió la competencia del estudiantado en formación, usó una condición de comparación ni puso a prueba escenarios de crisis y de evaluación de riesgos ([[van-patten-freeman-rath-ai-counselor-education-scoping-2026]]).
 
 ### Conexiones
 
@@ -109,6 +110,9 @@ El marco funciona como una prueba y no como un catálogo. Tres preguntas deciden
 - [[ai-avatars-and-synthetic-instructors]]
 
 ## Artículos conectados
+
+- [[ismail-affective-domain-ai-healthcare-review-2026]] — La simulación con IA y los pacientes virtuales dominan la formación en el dominio afectivo, con resultados en su mayoría autoinformados (Ismail y Zafira, 2026)
+- [[van-patten-freeman-rath-ai-counselor-education-scoping-2026]] — Revisión de alcance de 14 fuentes: dominan los clientes simulados y la competencia del estudiantado en formación no se mide (Van Patten-Freeman y Rath 2026)
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratorio virtual asistido por IA para el aprendizaje invertido de física: efectos en el rendimiento, la motivación y la carga cognitiva de estudiantes de secundaria
 - [[learner-agency-ai-simulation-2026]] — Control de parámetros y un agente de IA opcional en una simulación de sistemas complejos: las ganancias siguieron a la ejecución, no al acceso
 - [[benzion-ai-physics-simulations-virtual-lab]]

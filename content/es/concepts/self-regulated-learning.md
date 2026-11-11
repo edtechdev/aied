@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje autorregulado
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-11T07:49:18-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [process-feedback]
 contributors: [editor]
@@ -209,6 +209,8 @@ El estudiantado declaró más procrastinación (β = 0,525) junto con ganancias 
 - **La persistencia codificada a partir del diálogo con un agente pedagógico corre en negativo respecto al rendimiento, tanto en la codificación con LLM como en la humana.** En una evaluación basada en conversación con 107 estudiantes de secundaria aprendices de inglés, la persistencia detectada en los turnos del registro de chat por ocho configuraciones de ChatGPT-4o se correlacionó negativamente con el rendimiento en la tarea (r = -0,19, p < 0,001), y el recuento de persistencia de un codificador humano coincidió en esa dirección con r = -0,32 ([[ober-persistence-pedagogical-agent-dialogues-2026|Ober et al. (2026)]]). El desafío percibido (r = -0,25) fue la única asociación negativa más fuerte, y los demás constructos también fueron negativos (autoeficacia r = -0,15, conocimientos y habilidades previos r = -0,14, interés r = -0,08). Los autores leen las expresiones de persistencia como posible esfuerzo improductivo y abogan por distinguir la persistencia adaptativa de la desadaptativa, el reintento estratégico frente al ensayo y error repetitivo, antes de que cualquier sistema automatizado trate el habla sobre persistencia como implicación.
 - **GPT-4o puede construir un libro de códigos de AAR fundamentado en la teoría solo a partir de su base de conocimiento.** Con solo referencias a Zimmerman (2000) y a Winne y Hadwin (1998), GPT-4o propuso constructos que cubrían las tres fases de Zimmerman y tres de las cuatro etapas de Winne-Hadwin, y solo faltaba la fase de definición de la tarea, y el refinamiento humano fijó el libro de códigos en 11 constructos ([[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]]). Añadir al prompt las 955 verbalizaciones de pensamiento en voz alta de 15 estudiantes cerró la brecha, cubriendo todas las fases de ambos modelos e introduciendo códigos fundamentados en los datos como la Identificación de errores. El refinamiento humano siguió siendo esencial: dos codificadores fusionaron propuestas solapadas de GPT (Planificación frente a Establecimiento de metas, Monitorización frente a Evaluación, Evaluación de resultados frente a de procesos), y no aparecieron alucinaciones.
 
+Inducir la autorregulación con prompts no es lo mismo que enseñarla. En un ensayo aleatorizado de cuatro sesiones con 371 estudiantes de los grados 7 a 9, ni los prompts de valor de utilidad ni los de estrategias cognitivas mejoraron el uso de estrategias, el interés, el esfuerzo o el conocimiento del dominio frente a ChatGPT estándar ([[futterer-srl-genai-support-rct-2026|Fütterer et al., 2026]]). El resultado nulo importa porque la intervención añadía prompts de reflexión a una tarea de aprendizaje sin cambios: lo que regulaba el trabajo estaba en la tarea y en el aula, no en el prompt.
+
 ## Concepciones erróneas
 
 - **«La autorregulación es un rasgo de quien aprende.»** El aprendizaje regulado se descompone en **autorreflexión, atribución causal y adaptación**, y quienes aprenden con soltura **emplean estrategias cognitivas para mejorar su éxito**. Son procesos entrenables que un diseño puede sostener o socavar.
@@ -242,6 +244,7 @@ El estudiantado declaró más procrastinación (β = 0,525) junto con ganancias 
 - [[reflection]]
 
 ## Artículos conectados
+- [[futterer-srl-genai-support-rct-2026]] — 371 estudiantes alemanes: los prompts de reflexión y de estrategia no añadieron nada frente a ChatGPT estándar (Fütterer et al., 2026)
 - [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — Metaanálisis del aprendizaje autorregulado asistido por IA: g = 0,76 en 34 estudios, con el tipo de herramienta y el papel pedagógico moderando el efecto (Zhang et al. 2026)
 - [[li-genai-dependency-effort-regulation-2026]] — Dependencia de la IA generativa y resultados de aprendizaje percibidos: la ruta de la regulación del esfuerzo (Li, Zhang y Yang 2026)
 - [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Precisión por categoría del AAR segmentado por LLM en un aula corporal (Fonteles et al. 2026)

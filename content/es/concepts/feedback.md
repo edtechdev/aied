@@ -1,13 +1,13 @@
 ---
 title: Retroalimentación
 created: "2026-09-25T03:54:18-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-11T11:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 contributors: [editor]
@@ -134,6 +134,8 @@ Qué capacidades del lado del estudiantado importan puede separarse empíricamen
 
 Una fuente puede diferenciarse en cómo calibra, no en cuán bien puntúa: en un experimento aleatorizado, la retroalimentación con IA de cadena de pensamiento superó a una docente experimentada en calidad de rúbrica pero no produjo mayores ganancias de revisión, mientras que la retroalimentación de la docente se mantuvo calibrada entre borradores y la de la IA generativa siguió la fuerza del ensayo inicial ([[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]]).
 
+Cuánto cree el estudiantado sobre la fuente cambia lo que hace con palabras idénticas. En un experimento de tres condiciones, 148 adultos recibieron retroalimentación escrita por un mismo modelo sobre su propio código p5.js, etiquetada como generada por IA o como revisada por un asistente docente, con la entrega fijada en 60 segundos. Quienes creían que una persona había leído su trabajo permanecieron más tiempo en la tarea (948 s frente a 741 s, d = 0,61) y mantuvieron la ventana del tutorial en foco más tiempo (850 s frente a 662 s, d = 0,56), mientras que las valoraciones de utilidad no cambiaron y la calidad del código no mejoró. Casi la mitad del grupo al que se atribuyó autoría humana no creyó la etiqueta, y esas personas escribieron programas más cortos y menos complejos que el grupo etiquetado abiertamente como IA. La credibilidad de la fuente es parte del aprovechamiento y es frágil: una fuente mal atribuida puede deprimir la implicación por debajo de una divulgación simple ([[morris-same-feedback-different-source-2026|Morris y Maes, 2026]]).
+
 Un modelo de dos capas muestra cómo el emparejamiento puede organizarse en torno a una máquina sin delegar en ella el juicio. En el [[ai-agents-joyful-assessment-third-space-2026|ejemplo práctico de El Khoury y Ma]], un [[agentic-ai|agente]] produce un borrador de informe de evidencias basado en la rúbrica sobre cada transcripción, con cada valoración ligada a extractos citados, y después el profesorado revisa el informe, dirige una puesta en común y decide qué significan las evidencias para ese estudiante, una división que los autores resumen como que la IA organiza las evidencias mientras el profesorado las interpreta. Su afirmación sobre el aprovechamiento se basa en la valoración: la retroalimentación y la iteración fuera de las jerarquías sociales que el estudiantado navega con sus pares y con el profesorado son más fáciles de intentar, y ensayar al ritmo propio del estudiante es, sostienen, lo que convierte una confianza ocasional en un hábito asentado de implicarse con la retroalimentación.
 
 - **La retroalimentación puede dirigirse a quien la emite.** La formación de tutores es un contexto de retroalimentación poco explorado: los sistemas automatizados que etiquetan por secuencias las respuestas abiertas de los tutores para señalar los tipos de elogio (elogio al esfuerzo, el tipo deseable centrado en el proceso, frente al elogio al resultado y al elogio a la persona, el tipo menos deseable porque atribuye rasgos) pueden ofrecer una retroalimentación explicativa que cambia la conducta de tutoría. La restricción vinculante son los datos etiquetados por personas expertas. Un enfoque de aumento —GPT-4o genera respuestas etiquetadas sintéticas que amplían un conjunto de bajos recursos de 13 instancias a 520, y después se ajusta GPT-3.5— recupera la mayor parte de la brecha: F2 +20,5% en el elogio al esfuerzo, +17,3% en el elogio al resultado y +16,5% en la categoría *no vista* de elogio a la persona. La prueba de generalización sobre un tipo de elogio no visto es la comprobación de validez que separa esto del sobreajuste, y el mecanismo está más cerca de la destilación de un modelo docente que del aumento clásico. ([[xu-automated-feedback-tutor-training-2025]])
@@ -142,6 +144,12 @@ Un modelo de dos capas muestra cómo el emparejamiento puede organizarse en torn
 - **«El tono es un detalle de la calidad de la retroalimentación».** En el punto de referencia, el tono siguió el número que se le dio: todos los modelos, a los que se indicó una nota que contradecía el trabajo, escribieron retroalimentación cuyo tono seguía esa nota, y en **ocho de 22** el desplazamiento por punto igualó o superó el desplazamiento con la calidad del trabajo. Solo la regla del tono se validó con anotadores formados, sobre **1.655** respuestas de tutores, así que la sustancia no se mide. [[porcaro-ai-grading-benchmark-2026|Un calificador que escribe retroalimentación a partir de una nota equivocada blanquea el error en elogio o crítica]].
 
 **La retroalimentación puede construirse a partir del proceso y no del producto.** En [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] un brazo recibió [[visualization|visualizaciones]] personalizadas de su propia actividad de tecleo y pantalla con reflexión estructurada, mientras que el otro recibió comentarios escritos del profesorado sobre exactitud, claridad y calidad editorial. El brazo de proceso ganó 5,64 puntos en una valoración editorial ciega de 0 a 100 frente a 1,91 del brazo de producto, con una interacción Grupo × Tiempo (F(1, 20) = 4,94, p = 0,038, eta cuadrado parcial 0,198) y la ganancia del propio brazo de control no significativa (p = 0,123). Once estudiantes por brazo significan que lo que importa es la dirección y no el tamaño.
+
+- **La demanda de retroalimentación con IA puede medir escasez, no preferencia.** En un curso de Honores sobre calificación, el estudiantado acogió con agrado la retroalimentación generada por IA principalmente porque había recibido muy poca retroalimentación del profesorado, no porque la juzgara mejor, y quería que estuviera acotada por el juicio del profesorado ([[guberman-control-or-support-grading-2026|Guberman, 2026]]).
+
+- **La retroalimentación con IA verificada por personas mejoró las revisiones pero no el aprendizaje posterior a la prueba.** En un ensayo aleatorizado con 354 estudiantes de grado y 1.366 ensayos, la retroalimentación mediada por IA de los asistentes docentes elevó la calidad de la revisión (d de Cohen = 0,50) mientras las puntuaciones posteriores a la prueba se mantuvieron planas, y la ganancia creció a medida que los asistentes adoptaron más sugerencias ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]]).
+
+Dos estudios nuevos acotan lo que la retroalimentación con IA puede reclamar. En 391 estudiantes alemanes de secundaria, ningún resultado difirió significativamente entre la retroalimentación escrita por el profesorado y la de los LLM: las revisiones, la escritura posterior, el tiempo en la tarea y las percepciones fueron estadísticamente indistinguibles. Las distribuciones posteriores bayesianas se inclinaron hacia la retroalimentación del profesorado en la escritura posterior (.80) y en el afecto (.90), con entre un cuarto y dos quintos de la masa dentro de la región de equivalencia. La retroalimentación inmediata de la IA por sí sola se valoró como más útil y más motivadora ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). En un estudio de ocho semanas con 247 estudiantes de grado, la calidad percibida de la retroalimentación predijo la competencia (β = 0,52), la autonomía (β = 0,44) y la relación (β = 0,28), lo que sitúa parte del efecto en cómo se experimenta la retroalimentación y no solo en su exactitud ([[liu-ai-feedback-motivational-pathways-2026|Liu et al., 2026]]).
 
 ### Por qué importa la retroalimentación para la IA en la educación
 
@@ -174,6 +182,11 @@ La retroalimentación es uno de los mecanismos más determinantes y mejor docume
 - [[reflection]]
 
 ## Artículos conectados
+- [[morris-same-feedback-different-source-2026]] — retroalimentación idéntica con una fuente atribuida distinta: el esfuerzo aumentó con la autoría humana creída, la calidad no
+- [[meyer-teacher-ai-feedback-writing-2026]] — 391 estudiantes alemanes: ninguna diferencia significativa en ningún resultado; la inmediatez, no la autoría, atrajo las mejores valoraciones (Meyer et al., 2026)
+- [[liu-ai-feedback-motivational-pathways-2026]] — 247 estudiantes de grado: la calidad percibida de la retroalimentación predijo la competencia, la autonomía y la relación (Liu et al., 2026)
+- [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — La retroalimentación con IA verificada por personas elevó la calidad de la revisión (d = 0,50) pero no las puntuaciones posteriores a la prueba (Lu et al. 2026)
+- [[guberman-control-or-support-grading-2026]] — El estudiantado acogió la retroalimentación con IA porque la retroalimentación era escasa, no porque fuera mejor (Guberman 2026)
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Retroalimentación de agentes que se repetía entre revisiones (Humburg et al. 2025)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Retroalimentación automatizada en la escritura argumentativa: el papel de la receptividad y la percepción de la retroalimentación en el estudiantado de secundaria
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, evaluación gozosa y tercer espacio

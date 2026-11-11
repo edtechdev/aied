@@ -1,7 +1,7 @@
 ---
 title: Gobernanza de la IA
 created: "2026-09-25T04:32:03-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-11T08:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -133,6 +133,8 @@ La gobernanza es distinta de la [[educational-policy-ai|política educativa sobr
 
 Las disposiciones de gobernanza aparecieron solo en documentos de política general y nunca en los instrumentos específicos de financiación que vinculan a quien solicita, de modo que un financiador puede gobernar la IA en principio sin imponer nada a la investigación que financia ([[chan-ai-policy-gap-2026|Chan, 2026]]).
 
+Un argumento de 2026 extiende la gobernanza más allá del uso por parte del estudiantado hasta la producción del material didáctico mismo. Chew (2026) separa el contenido representacional (imágenes, diagramas), el contenido de razonamiento (casos, pacientes simulados) y el contenido de evaluación (ítems, rúbricas, retroalimentación). Cada tipo tiene un fallo característico y un verificador distinto: una norma de referencia, una persona experta que pueda llegar a la conclusión sin ayuda, o evidencia de lo que mide un instrumento. Como un error plausible en el contenido curricular llega a todo el estudiantado y puede no aflorar nunca como señal, sitúa la rendición de cuentas en la institución y especifica cuatro capacidades: saber qué está en uso, probarlo antes de usarlo, actuar sobre los hallazgos incluida la retirada, y vigilar las herramientas aprobadas en busca de deriva ([[chew-ai-content-governance-medical-education-2026|Chew, 2026]]).
+
 ## Concepciones erróneas comunes
 
 - **"Las universidades han adoptado políticas de IA vinculantes."** De **48 instituciones**, **40 (83%)** tenían al menos un documento disponible públicamente, y en esas 40 **la gobernanza se materializaba sobre todo como orientación y no como norma vinculante**. Una orientación publicada no es una política aplicable.
@@ -161,6 +163,7 @@ Las disposiciones de gobernanza aparecieron solo en documentos de política gene
 - [[student-support-and-success]] — supervisión de los sistemas institucionales de apoyo con IA
 
 ## Artículos conectados
+- [[chew-ai-content-governance-medical-education-2026]] — gobernanza del contenido didáctico producido por IA, con tres tipos de fallo y cuatro capacidades institucionales (Chew, 2026)
 - [[kaze-ai-management-higher-ed-2026]] — La adopción de la IA en la educación superior: el caso de una gestión designada de la IA (Kaže et al. 2026)
 - [[jones-care-ethics-ai-governance-higher-education-2026]] — ética del cuidado para la gobernanza institucional de la IA, sus cinco componentes y las preguntas institucionales en que se convierten
 - [[generative-ai-governance-education-scoping-review-2026]] — gobernanza de la IA generativa en la educación, una revisión de alcance de principios, mecanismos y riesgos (Elmahjub et al. 2026)

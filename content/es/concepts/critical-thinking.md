@@ -1,7 +1,7 @@
 ---
 title: Pensamiento crítico
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-11T12:45:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -10,7 +10,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-11-05T08:55:00-05:00"
+source_updated: "2026-11-11T12:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [pressing-prompts, student-guide-to-ai]
 contributors: [editor]
@@ -54,6 +54,7 @@ Los artículos de la base de conocimiento exploran el pensamiento crítico desde
 El vínculo entre el uso de IA generativa y el pensamiento crítico autoinformado pasó casi por completo por la [[feedback-literacy|alfabetización en retroalimentación]] con IA generativa: en 421 estudiantes universitarios chinos, la alfabetización en retroalimentación medió el 71,98% de la asociación total (β=0,185), y la vía directa residual fue positiva solo para el estudiantado menos reflexivo (β=0,177) y no significativa para el más reflexivo ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
 
 El corpus también recoge la lectura pesimista como argumento y no como medición. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz y Castro Samayoa (2026)]] sostienen que el patrón de uso dominante erosiona el pensamiento crítico, y no el acceso a un modelo. Lo fundamentan en la afirmación de Dewey de que el pensamiento solo mejora con el ejercicio, y en tres mecanismos: la eliminación de la fricción, el [[automation-bias|sesgo de automatización]] y un marco de eficiencia. La tensión con Zhao et al. es real y no está resuelta en el corpus. Su ganancia metaanalítica de g = 0,609 describe intervenciones diseñadas, mientras que Muñiz y Castro Samayoa describen el uso típico. Leídos juntos, ambos coinciden en que la variable de diseño es lo que importa, y discrepan sobre cómo es el valor por defecto sin gestión.
+
 
 **Un ancla [[meta-analysis-systematic-review|metaanalítica]] para la afirmación sobre la moderación.** A lo largo de 29 experimentos, la IA generativa elevó moderadamente el pensamiento de orden superior (g = 0,609), con el pensamiento crítico en un ES = 0,691 —por debajo de la [[problem-solving|resolución de problemas]] (0,745) y por encima de la [[creativity|creatividad]] (0,444)—, más fuerte para intervenciones de 8 a 16 semanas (0,759) y para quienes aprenden con alta autorregulación (0,863 frente a 0,284) ([[zhao-genai-higher-order-thinking-meta-2026|Zhao et al. (2025)]]).
 
@@ -108,7 +109,8 @@ El pensamiento crítico se cruza con el [[scaffolding|andamiaje]] (diseñar apoy
 
 **La mayor vulnerabilidad calificada por personas expertas en la base de conocimiento es el pensamiento crítico.** A lo largo de 65 procesos de aprendizaje valorados por 30 expertos, el Pensamiento Crítico y el Pensamiento Crítico-Analítico obtuvieron la mayor calificación de disrupción del informe (media 4,00 de 5; el 96% de quienes valoraron en 3 o más) con la potenciación por debajo del umbral (2,40, 43%) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Diez de los dieciocho procesos de orden superior alcanzaron consenso únicamente sobre la vulnerabilidad, lo que el informe interpreta como un riesgo unilateral y no como una contrapartida.
 
-- **La estructura de la asociación, y no la exposición, es lo que sostiene la relación.** [[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun y Toker (2026)]] modelaron a 891 estudiantes universitarios estadounidenses y turcos con la teoría de los sistemas de memoria transactiva y encontraron que ni la capacidad de pensamiento autoevaluada ni la confianza en la asociación con la IA predecían directamente la puesta en acto del pensamiento crítico. Ambas alimentaban la familiaridad con la IA generativa, que a su vez predecía solo dos comportamientos: la especialización y la coordinación del trabajo (b = 0,636) y la transformación reflexiva de la salida (b = 0,367). Esos comportamientos predecían el pensamiento crítico (b = 0,230 y b = 0,175) sin que quedara una ruta directa (CFI = 0,974, RMSEA = 0,048). Esta es la versión a nivel de mecanismo del nulo recurrente del campo: las horas de uso y la competencia autoevaluada no son indicadores indirectos del pensamiento crítico, y lo que un estudio mide cuando pregunta por la exposición es la entrada de la cadena y no su resultado.
+
+- **La estructura de la asociación, y no la exposición, es lo que sostiene la relación.** [[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun y Toker (2026)]] modelaron a 891 estudiantes universitarios de Estados Unidos y Türkiye con la teoría de los sistemas de memoria transactiva y encontraron que ni la habilidad de pensamiento autoevaluada ni la confianza en la asociación con la IA predecían directamente la puesta en práctica del pensamiento crítico. Ambas alimentaban la familiaridad con la IA generativa, que a su vez predecía solo dos conductas: la especialización y coordinación del trabajo (b = 0,636) y la transformación reflexiva de la salida (b = 0,367). Esas conductas predecían el pensamiento crítico.
 
 ## Concepciones erróneas
 

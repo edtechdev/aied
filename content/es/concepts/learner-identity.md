@@ -1,7 +1,7 @@
 ---
 title: Identidad de quien aprende
 created: "2026-09-28T19:13:48-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-09T10:25:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ Una condición de autoría distinta, y no solo una amenaza para la autoría: cua
 - **Adopción cautelosa: el uso selectivo de la IA como protección de la identidad.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] encuestó a 484 estudiantes de una universidad australiana y encontró que el estudiantado con mejores resultados declaraba una implicación activa *menor* con la [[generative-ai|IA generativa]], menos afecto positivo hacia la IA, un menor impacto en el [[self-report-measures|aprendizaje percibido]] y una menor desconexión relacionada con la IA, con las asociaciones más fuertes en rho = -0,395 para el impacto en el aprendizaje percibido y rho = -0,359 para el afecto positivo. Sus respuestas abiertas describían un uso selectivo (aclaraciones, resúmenes, apoyo al flujo de trabajo), verificado y subordinado a su propio juicio, y los resultados por ítem mostraban un mayor acuerdo con que la dependencia de la IA dificulta el [[critical-thinking|pensamiento crítico]] y la [[problem-solving|resolución de problemas]] independiente. Los autores lo interpretan como trabajo de identidad: para el estudiantado cuyo sentido de sí mismo como persona que aprende con éxito se apoya en su propio esfuerzo y juicio, acotar el uso de la IA defiende la [[agency|agencia epistémica]] de la que depende esa identidad, lo que también significa que el patrón no es ni tecnofobia ni baja implicación.
 
 - **Un propósito declarado no rige necesariamente una decisión sobre IA.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] entrevistaron a 14 estudiantes de grado y codificaron cada entrevista según la relación entre el [[self-determination-theory|propósito]] del estudiantado —una intención personalmente significativa de contribuir más allá de sí mismo— y sus decisiones sobre la IA. Solo algunos establecieron la conexión: una persona rechazó la IA porque sus costes ambientales y humanos contradecían su propósito, y tres dejaron que la identidad profesional futura moldeara sus decisiones («contribuye a la psicóloga que seré algún día en el mundo»). Otras personas con un sentido del propósito igualmente claro no establecieron ese vínculo y describieron el propósito y la IA como «algo separado», así que tener una identidad que proteger no era lo mismo que recurrir a ella. El artículo también separa las razones que el estudiantado da para mantener el trabajo como propio —desarrollo de habilidades, [[evaluative-judgment|autoría y orgullo]] y objeción moral—, que llegan por mecanismos distintos y no deberían agruparse en un único motivo.
+
+- **La capacidad puede llegar antes que la pertenencia.** Una autoetnografía de 73 días de un educador en bioinformática que construyó un juego en un dominio desconocido encontró que la [[generative-ai|IA generativa]] aportó la capacidad pero no la identidad: la pertenencia llegó mediante la participación en comunidades de práctica y la construcción de sentido repetida, y alcanzarla exigió un ritmo humano ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
 
 ## Relación con la agencia de quien aprende
 
@@ -124,3 +126,4 @@ La identidad de quien aprende se conecta con la [[agency|agencia]] (la identidad
 
 - [[synthetic-position-self-authorship-2026]] — Suspensión autoral: la autoría delegada como un yo densamente expresado pero sin autoría (análisis conceptual)
 - [[vibe-coding-design-diversity-2026]] — ¿Una herramienta, un gusto? Cómo el vibe coding cambia la diversidad colectiva por la creatividad individual
+- [[kim-solo-game-development-autoethnography-2026]] — Entrar en un dominio nuevo en la era de la IA generativa: una autoetnografía del desarrollo de un juego en solitario por un educador en bioinformática

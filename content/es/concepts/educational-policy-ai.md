@@ -1,7 +1,7 @@
 ---
 title: Política educativa sobre IA
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-11T06:58:15-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,7 +64,7 @@ La política se hace en varios niveles a la vez, y no se mueven juntos. Las viñ
 
 - **Política institucional:** el [[genai-policies-higher-ed-computing|análisis de políticas institucionales]] compara cómo las universidades desarrollan políticas de IA. Los [[institutional-change-framework-ai|marcos de cambio institucional]] aportan modelos para el desarrollo de políticas. [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] codificó las principales páginas sobre IA de las 50 universidades estadounidenses clasificadas como más innovadoras en 2025 y encontró que solo 6 las enmarcaban como una «política», mientras que 44 publicaban orientaciones, directrices, principios o centros de recursos, y que 33 de 50 situaban al profesorado como principal traductor de las expectativas institucionales a reglas de curso: la política institucional se escribe deliberadamente como orientación adaptable para su interpretación a nivel de curso, en lugar de como regla fija.
 - **Política gubernamental:** la [[ai-lifelong-learning-policy|política de aprendizaje a lo largo de la vida]] examina enfoques regulatorios a nivel nacional y regional. Una visión crítica, de nivel infraestructural, de la IA en la elaboración de políticas gubernamentales es la de [[perrotta-zero-shot-governance-2026|Perrotta (2026)]], cuyo análisis del prototipo de [[llm]] Redbox para el servicio civil del Reino Unido muestra cómo la IA de propósito general entra en el conjunto de herramientas profesionales de la política mediante la «gobernanza de disparo único» (zero-shot): modelos fundacionales agnósticos al dominio que intervienen en las decisiones, envueltos en delgados [[scaffolding|andamiajes]] [[discipline-specific-aied|específicos de dominio]].
-- **Política de [[k-12]]:** las [[stanford-evidence-base-ai-k12-2026|revisiones de evidencia de Stanford]] de 818 artículos informan la política de IA en K-12.
+- **Política de [[k-12]]:** las [[stanford-evidence-base-ai-k12-2026|revisiones de evidencia de Stanford]] pasaron de 818 artículos del repositorio y 20 estudios causales sólidos en marzo de 2026 a 1.686 artículos y 52 estudios causales en la actualización de noviembre de 2026, e informan la política de IA en K-12.
 - **Política de evaluación:** las [[ai-assessment-scale-reform|políticas de reforma de la evaluación]] y los marcos de [[authentic-assessment]] representan respuestas a nivel de política al [[academic-integrity|fraude habilitado por la IA]]. La elección del formato de evaluación sumativa —oral, con supervisión, sin material de consulta— es en sí misma una decisión de política de evaluación (véase [[summative-assessment]]).
 
 ### La brecha de madurez: política escrita antes del uso y antes de la evidencia

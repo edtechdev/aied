@@ -1,7 +1,7 @@
 ---
 title: Alfabetización en IA
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-11T09:55:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -109,11 +109,15 @@ Un estudio de ecuaciones estructurales con 502 docentes encuestados en una unive
 
 Una asociación negativa aparente se invierte bajo control: entre 303 estudiantes universitarios de Hong Kong, la ansiedad tecnológica correlacionó negativamente con la alfabetización en IA (r = −0,14) pero predijo β = 0,15 en un modelo conjunto, un efecto limitado a la evaluación crítica y a la competencia ética ([[ai-literacy-determinants-university-students-2026|Chow et al. (2026)]]).
 
+**El uso llega antes que la cautela.** En una muestra de edad exacta de 1.598 estudiantes, las probabilidades de un mayor uso académico de [[generative-ai|IA generativa]] aumentaban cada año de los 12 a los 17 mientras la fiabilidad percibida no se movía, y las trayectorias divergieron primero a los 14-15 años y con más fuerza a los 16-17 ([[cuenca-rodriguez-genai-use-caution-trajectories-2026|Cuenca-Rodríguez et al., 2026]]). Los autores leen ese momento como un argumento para enseñar la verificación antes de la divergencia, y no después.
+
 [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] añade un relato ordenado de qué predice la alfabetización en IA, en lugar de qué la predice a ella. Al encuestar a 450 estudiantes universitarios de China continental que ya usaban ChatGPT, el estudio encontró que la alfabetización en IA se relacionaba directamente con la continuidad del uso (beta = 0,16, p = 0,002) y de forma indirecta a lo largo de una ruta serial a través de la [[trust|confianza]] y la [[self-efficacy|autoeficacia]] académica (efecto indirecto = 0,07, IC del 95% [0,04, 0,10]), con el vínculo entre alfabetización y confianza como la asociación más grande del modelo (beta = 0,50). La [[anxiety-and-stress|ansiedad ante la IA]] moderó ese primer vínculo (beta de interacción = -0,25, con pendientes simples que caen de 0,76 a 0,25 a lo largo del rango de ansiedad), de modo que la cadena se adelgaza para el estudiantado más ansioso y no debería darse por supuesto que solo la instrucción en alfabetización llegue a él. El diseño es transversal y la muestra se limita a usuarios existentes, así que el orden es un supuesto de modelado y no una secuencia observada.
 
 Un objetivo aplicado central de la alfabetización en IA es [[reducing-ai-misuse|reducir el mal uso de la IA]]: enseñar al estudiantado a usar la IA de forma ética y productiva en lugar de sustituirla por su propio [[cognitive-offloading|trabajo cognitivo]]. Mientras que la alfabetización en IA construye la *capacidad* de evaluar y usar críticamente la IA, [[reducing-ai-misuse|reducir el mal uso]] es el rédito conductual y estructural, que combina el diseño de herramientas con barreras de seguridad, el [[assessment|rediseño de la evaluación]] y palancas educativas como las secuencias andamiadas de pensar primero y usar la IA después y la práctica de prompts con [[feedback|retroalimentación]] deliberada. Los dos conceptos se refuerzan mutuamente: la alfabetización en IA aporta las disposiciones críticas que hacen duraderas las intervenciones de reducción del mal uso, mientras que la evidencia sobre el mal uso (por ejemplo, la [[ai-misuse-learning-harm|brecha entre desempeño y aprendizaje]]) justifica por qué la alfabetización debe ir más allá de la habilidad operativa hacia el juicio crítico.
 
 La alfabetización en IA también necesita formas adecuadas al desarrollo para quienes aprenden más jóvenes. [[ai-play-framework-early-childhood-2026|AI-Play]] traduce las competencias de alfabetización en IA a actividades lúdicas y **desconectadas** para estudiantes de Pre-K-K2, organizadas en torno a *AI Body* (la IA como sistema construido con partes), *AI Food* (la IA aprende de ejemplos), *AI Brain* (la IA mejora mediante patrones y retroalimentación) y una lente ética Pre/Post-AI, con lo que aborda la falta persistente de orientaciones sobre alfabetización en IA fundamentadas en el desarrollo para la [[early-childhood-elementary-ai-education|educación infantil y primaria]] y hace la alfabetización en IA accesible a [[teacher-role|educadores]] no técnicos y a las [[parents-and-families|familias]]. Como complemento, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed y Martin (2025)]] encontraron que niños y niñas de 6 a 14 años confiaban en general en un chatbot adaptado a su edad como fuente de información y que la mayoría lo modelaba como «un programa informático inteligente que aprende» (una comprensión incipiente del [[machine-learning|aprendizaje automático]]), aunque mostraban carencias en el compromiso crítico y en la conciencia de seguridad digital: evidencia de que la confianza de quienes aprenden jóvenes puede superar a sus capacidades de evaluación crítica, lo que convierte la [[trust-calibration|calibración de la confianza]] explícita y la instrucción en seguridad en una parte necesaria de la alfabetización en IA para la infancia.
+
+Un caso de aula muestra dónde vive esa alfabetización antes de poder medirse. Entre niños y niñas de 5 y 6 años que nunca escribieron un prompt, [[konca-preschool-genai-storytelling-ai-literacy-2026|Konca y Yigit-Gencten (2026)]] encontraron razonamiento sobre la IA que afloraba en explicaciones de imágenes desajustadas y en auditorías de características dirigidas por la docente. Eso convierte las preguntas de la docente en parte de la infraestructura de alfabetización, y no en un canal para impartirla.
 
 La medición acompaña ese giro hacia el desarrollo en el extremo más joven. [[ai-literacy-self-assessment-questionnaire-primary-2025|La validación de 2025 por parte de Thianwan y Srikoon de un cuestionario de autoevaluación de la alfabetización en IA para estudiantes de primaria superior]] desarrolló un instrumento de 15 ítems para los cursos 4 a 6, organizado en torno a Aprender sobre la IA, Aprender cómo funciona la IA y Aprender para la vida con la IA, y confirmó una estructura de tres factores en dos muestras (n = 335 y n = 579) con un alfa de Cronbach global de .934. Los autores lo presentan como un diagnóstico formativo de una alfabetización percibida y no demostrada, y señalan que la precisión de la autoevaluación infantil está limitada por una capacidad metacognitiva que aún está en desarrollo.
 
@@ -259,6 +263,8 @@ Para la alfabetización crítica en IA en concreto, [[solyst-youth-systematic-ev
 
 La verificación es el contrapeso enseñable, y [[automation-bias|el sesgo de automatización]] nombra aquello contra lo que se enseña. La posedición, el recálculo y la comprobación de fuentes son habilidades evaluadas precisamente porque un resultado fluido invita a aceptar en lugar de inspeccionar.
 
+Los juicios de credibilidad responden al flujo de trabajo, no solo a la instrucción. Entre 42 estudiantes de grado, quienes debían responder antes de consultar a la IA la valoraron como menos creíble (5,65) que quienes tenían acceso sin restricciones (6,60), mientras que una condición con verificación obligatoria se situó entre ambas en 6,22 y sostuvo la confianza sin inflarla ([[islam-credibility-weaker-llms-2026|Islam et al., 2026]]). Juzgar la fiabilidad de un modelo es en parte una decisión de diseño sobre cuándo se encuentra el estudiantado con él.
+
 ## Concepciones erróneas
 
 - **«La alfabetización en IA autoinformada se corresponde con la alfabetización en IA real.»** **Diverge marcadamente del desempeño medido**: el profesorado **sobreestima sus habilidades en torno a un 40%**, y la [[ai-literacy-assessment-misalignment|investigación sobre la evaluación de la alfabetización]] muestra la misma **brecha del 40%** entre el autoinforme y la medición basada en el desempeño. Una encuesta sobre alfabetización en IA mide confianza, no competencia.
@@ -294,6 +300,7 @@ La verificación es el contrapeso enseñable, y [[automation-bias|el sesgo de au
 - [[civic-and-political-education]]
 
 ## Artículos conectados
+- [[islam-credibility-weaker-llms-2026]] — 42 estudiantes de grado: responder primero bajó la credibilidad de la IA a 5,65 frente a 6,60 con acceso sin restricciones, con la verificación en 6,22 (Islam et al., 2026)
 - [[yang-collaborative-ai-literacy-measures-review-2026]] — 17 medidas de alfabetización en IA: la colaboración rara vez se evalúa como constructo, y los factores propuestos de coordinación, comunicación y metacognición siguen sin validarse (Yang et al. 2026)
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Configurar la primera infancia en la era de la IA: competencias, pedagogía y apoyo ecológico (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Alfabetización en seguridad de la IA: marco de competencias basado en el ecosistema y plataforma de aprendizaje para K-12
@@ -355,3 +362,4 @@ La verificación es el contrapeso enseñable, y [[automation-bias|el sesgo de au
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — PAIRR implementado en 13 secciones: lecturas, retroalimentación entre pares, retroalimentación de la IA guiada por rúbrica y reflexión
 
 - [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Cuatro criterios y cuatro metáforas para enseñar alfabetización crítica en IA
+- [[cuenca-rodriguez-genai-use-caution-trajectories-2026]] — El estudiantado aprende a usar la IA generativa antes de aprender a cuestionarla: trayectorias ordinales de uso académico y cautela desde la adolescencia hasta la universidad

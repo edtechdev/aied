@@ -1,7 +1,7 @@
 ---
 title: Agencia de quien aprende
 created: "2026-09-25T03:54:08-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T11:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,8 @@ La dirección del recorrido no está fijada. [[gillette-partnership-ethics-genai
 - **[[collaborative-learning|Aprendizaje colaborativo]]:** la [[human-ai-collaboration]] [[research-methods-aied|investigación]] examina cómo se reparten las tareas cognitivas entre quien aprende y la IA, y la agencia determina si es la persona o la IA la que dirige la interacción.
 - **La agencia epistémica compartida se extiende a la interacción entre el estudiantado y la IAG.** Un esquema de 14 categorías que codificó 6.788 turnos asistidos por ChatGPT situó el 59% de los turnos de estudiantes de séptimo grado en agencia epistémica compartida, y los autores sostienen que el constructo —estudiado antes sobre todo en la colaboración entre pares— debe ampliarse para incluir dimensiones cognitivas y metacognitivas ([[chang-shared-epistemic-agency-gai-scientific-writing-2026|Chang et al., 2026]]).
 - **La agencia puede calificarse a partir del propio prompt.** La Taxonomía de Profundidad de la Agencia Humana puntúa la contribución de ingeniería del estudiantado en seis niveles con independencia de la salida de la IA; en 962 prompts de 105 estudiantes de primer año de ingeniería de software, el 84,2% superó el nivel más bajo, pero solo el 5,3% especificó restricciones del sistema ([[shakiba-human-agency-depth-taxonomy-2026|Shakiba y Chaffey, 2026]]).
+**La individualización sobre todo asigna elecciones, no autoría.** En 61 estudios repartidos en 63 informes, el control dirigido por quien aprende se codificó en 46 (75,4%) —el estudiantado elegía el momento, el foco, los prompts o el ritmo—, mientras que los sistemas creados a propósito o adaptados al curso aparecieron en diez (16,4%), la personalización adaptativa dirigida por el sistema en cinco (8,2%) y la diferenciación diseñada por el docente en uno. Con esa evidencia, el aprendizaje «personalizado» suele significar dirigir dentro de un espacio que alguien más diseñó, lo que es agencia como selección y no agencia sobre las condiciones. La revisión también advierte contra leer la frecuencia como magnitud: la presencia de un tema en 39 estudios no dice nada sobre cuán grande o consistente fue su efecto ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido et al., 2026]]).
+
 - **[[student-engagement|Implicación]] crítica:** la investigación sobre la [[cognitive-offloading|descarga cognitiva]] muestra cómo el estudiantado que delega la interpretación en la IA puede perder agencia sobre su propio razonamiento; los enfoques críticos y [[metacognition|metacognitivos]] tratan de protegerla.
 
 **Evaluado en diez modelos, el apoyo a la agencia es donde peor lo hacen después del aprendizaje.** ImpactBench midió Agencia y Propósito en un 56,0% de criterios positivos (IC del 95% [49,2, 62,5]) y un 43,9% de criterios negativos ([36,9, 50,8]), la segunda área más baja de 14 subáreas, y sus criterios de asistencia que preservan la autonomía preguntan si un modelo ofrece contexto y contrapartidas en lugar de prescribir un curso de acción ([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]]). Los modelos también fueron mucho menos consistentes a la hora de evitar daños que a la hora de ser útiles: una diferencia de 38,6 puntos frente a 15,9 puntos.

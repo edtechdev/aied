@@ -8,8 +8,8 @@ connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-11-04T16:51:25-05:00"
-updated: "2026-11-05T16:18:45-05:00"
+source_updated: "2026-11-11T09:55:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,8 @@ Los niños pequeños interactúan con la IA cada vez más temprano —a través 
 - **Docentes en [[teacher-education|formación]] diseñando actividades de ciencias.** [[preservice-early-childhood-genai-magnetism-2026|Efthimiou y Plakitsi (2026)]] pidieron a 131 docentes de educación infantil en formación que diseñaran actividades de magnetismo con LLM: puntuaron la estructura y la eficiencia de los modelos como lo más alto (M = 3,95), pero la fiabilidad epistémica de sus contenidos como lo más bajo (M = 3,08), tratándolos como artefactos de lluvia de ideas y manteniendo la transformación didáctica como una responsabilidad humana.
 - **Qué predice si el profesorado de preescolar adopta la IA.** Una encuesta a 270 docentes de preescolar de Shanghái, Zhejiang y Guangdong, modelada con un [[technology-acceptance-model|TAM]] ampliado, encontró que la utilidad percibida y la facilidad de uso percibida predecían la intención de usar la IA, con la [[self-efficacy|autoeficacia]] en IA elevándola y la [[anxiety-and-stress|ansiedad ante la IA]] reduciéndola ([[preschool-teachers-ai-behavioral-intention-2026|Duan, Shan y Gong 2026]]). El estudio excluyó por diseño las herramientas dirigidas a los niños, así que sus palancas —fomentar la confianza y la formación de bajo riesgo— conciernen al trabajo profesional del propio profesorado.
 - **La IA aproximando juicios de desarrollo sobre cuentos infantiles.** [[clara-developmental-appropriateness-children-stories-2026|Yin et al. (2026)]] con CLARA anotan las demandas cognitivas, lingüísticas y socioemocionales de un cuento y coinciden con las referencias de edad de las editoriales el 0,904 de las veces, por delante de las fórmulas de legibilidad (0,603) y del prompting directo (0,730), y se ofrecen como una señal de apoyo, no como un sustituto del juicio humano.
+
+- **La alfabetización en IA como trabajo interpretativo de aula, no como conocimiento individual.** [[konca-preschool-genai-storytelling-ai-literacy-2026|Konca y Yigit-Gencten (2026)]] codificaron 17 sesiones de narración en un preescolar turco en las que la docente escribía todos los prompts de Midjourney y la clase veía los resultados en una pantalla compartida. Los niños explicaban los desajustes atribuyendo pensamiento, audición e intención al sistema («no pudo pensarlo lo suficientemente bien»), debatían la relación entre los prompts y los resultados, y votaban qué imágenes conservar. Como las preguntas de la docente decidían qué explicaciones se retomaban, y a veces cerraban la indagación por completo, la alfabetización temprana en IA queda aquí distribuida a lo largo de la actividad y no en poder de un niño.
 
 ### Consideraciones de desarrollo y equidad
 

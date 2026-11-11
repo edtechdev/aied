@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Detección de IA
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,7 +14,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-10T18:55:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,7 @@ La investigación advierte de forma consistente contra la dependencia exclusiva 
 - **Fallos de validez y de equidad:** las herramientas de detección pueden estar sesgadas contra quienes escriben en una lengua no nativa y producir falsos positivos que penalizan injustamente a los estudiantes, una preocupación que conecta con la [[bias-mitigation|mitigación de sesgos]] y la [[equity-in-ai-education|equidad en la educación con IA]].
 - **Tasas de error notables y erosión de la confianza:** una detección poco fiable socava la [[trust|confianza]] del estudiantado y la integridad del proceso de evaluación.
 - **Dependencia de la tarea:** como muestra el estudio de autodetección, la precisión varía notablemente según el tipo de tarea, de modo que ningún detector único es fiable para todas las evaluaciones.
+- **La granularidad cambia el veredicto.** En ensayos de PISA 2025 con etiquetas de procedencia, un detector de incrustaciones mantuvo la exhaustividad de detección de IA del texto completo en 0,94 o más bajo reescritura al estilo del estudiantado, mientras que la exhaustividad a nivel de oración cayó hasta 0,59 ([[schaller-ai-text-detection-authentic-writing-2026|Schaller et al. (2026)]]).
 - **Incluso un detector validado se apoya en una línea de base histórica:** un estudio de seis años sobre CS2 validó su detector frente a una línea de base previa a los LLM: las puntuaciones H fueron cercanas a cero antes de que los LLM fueran públicos y ascendieron a una media de 11,9 en 2026 ([[argus-academic-integrity-genai-2026|Racovan et al. (2026)]]).
 - **El círculo vicioso de la integridad, cuantificado.** [[karr-ai-detection-humanization-2026|Un estudio controlado de 642 resúmenes publicados (Karr et al. 2026)]] muestra que el fallo de la [[educational-policy-ai|política]] no es solo conceptual, sino medido: la edición ligera con IA conforme a las directrices se marca en un 38–80%, los originales recientes no modificados en un 9–15% (las áreas no STEM muy por encima de las STEM), y el texto de IA asistido por «humanizadores» elude la detección en más del 96% de los casos. Como los detectores se fijan en el estilo superficial (densidad de tokens largos y de palabras académicas) en lugar de en la intención de autoría, la asistencia honesta de la IA atrae sanción mientras que la evasión deliberada mediante humanizadores escapa; los autores sostienen que las puntuaciones de los detectores nunca deberían constituir por sí solas prueba de conducta indebida.
 - **Una corrección de estilo mueve el veredicto, lo que separa el estilo de la autoría.** Manteniendo fijos el autor, el tema y el contenido en 135.389 pares de manuscritos editados, las mismas ediciones empujaron a 13 detectores en direcciones opuestas sobre texto humano: MAGE −10,7 puntos porcentuales de falsos positivos, RADAR −4,7, frente a Fast-DetectGPT +4,6 ([[park-style-confound-ai-detection-non-native-writing-2026|Park, Jeong y Kim (2026)]]). Las tasas de referencia abarcaron del 0,0% al 100,0%, escalando con la intensidad de la edición.

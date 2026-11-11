@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-11T11:50:00-05:00"
+updated: "2026-11-11T12:45:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -38,7 +38,6 @@ GenAI use's link to self-reported critical thinking ran almost entirely through 
 
 The corpus also carries the pessimistic reading in argument rather than measurement. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz and Castro Samayoa (2026)]] argue that the dominant usage pattern erodes critical thinking, not access to a model. They rest this on Dewey's claim that thinking improves only through exercise, and on three mechanisms: removed friction, [[automation-bias|automation bias]], and an efficiency frame. The tension with Zhao et al. is real and unresolved in the corpus. Their meta-analytic gain of g = 0.609 describes designed interventions, while Muñiz and Castro Samayoa describe typical use. Read together, the two agree that the design variable is what matters, and disagree about what the unmanaged default looks like.
 
-Structure, not exposure, carries the effect. Extending transactive memory systems theory to human-AI partnership, Akgun and Toker modeled how 891 college students in the United States and Türkiye divided cognitive labor with a chatbot and reworked its output. Neither self-appraised thinking ability nor confidence in the partnership predicted critical thinking directly; both worked through accumulated GenAI experience, and that experience mattered only through two behaviors — specializing and coordinating the division of labor, and reflectively transforming what the model produced. A multigroup comparison found the structure largely invariant across the two countries. The design is cross-sectional and the outcome self-reported, so it identifies the pathway rather than the size of the effect ([[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun & Toker, 2026]]).
 
 **A [[meta-analysis-systematic-review|meta-analytic]] anchor for the moderation claim.** Across 29 experiments GenAI raised higher-order thinking moderately (g = 0.609), with critical thinking at ES = 0.691 — below [[problem-solving]] (0.745) and above [[creativity]] (0.444) — strongest for 8–16-week interventions (0.759) and for high-SRL learners (0.863 against 0.284) ([[zhao-genai-higher-order-thinking-meta-2026|Zhao et al. (2025)]]).
 

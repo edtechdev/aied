@@ -1,7 +1,7 @@
 ---
 title: Autoeficacia
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T09:15:28-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -86,6 +86,7 @@ La autoeficacia se conecta con la [[motivation]], el [[self-regulated-learning]]
 - **Necesaria para la utilidad, no solo correlacionada con ella.** [[chu-design-students-ai-agent-tam-ttf-2026|Chu y Liu (2026)]] situaron la autoeficacia en IA por delante de las dos creencias de aceptación en 405 estudiantes de posgrado de diseño y hallaron que era el antecedente más fuerte de ambas: β = 0,458 sobre la utilidad percibida y β = 0,394 sobre la [[technology-acceptance-model|facilidad de uso percibida]]. Su análisis de condiciones necesarias añade una forma de afirmación más fuerte que la ruta anterior. La eficacia fue la única condición identificada como necesaria para la utilidad percibida (d = 0,125, p = 0,015). Una utilidad del 80%, el 90% y el 100% de su escala requirió una eficacia del 10,0%, el 30,0% y el 50,0%. La confianza se sitúa, por tanto, como un umbral mínimo del juicio instrumental y no como un contribuyente más entre varios. El diseño es transversal y el modelo explica R² = 0,150 de la intención, así que conviene tratar los umbrales como propios de la muestra.
 
 - **Los rastros conductuales pueden portar la señal, pero las etiquetas fijan el techo.** Un pipeline de dos universidades detectó baja autoeficacia a partir de rastros de interacción; las etiquetas de las ocasiones de encuesta superaron a una partición de mitad de semestre, y la subescala del MSLQ por sí sola etiquetó tan bien como el instrumento completo ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]]).
+- **Las implicaciones profesionales de la IA se dividen en dos rutas.** Entre 415 estudiantes universitarios chinos, [[zhang-ai-career-selfefficacy-2026|Zhang (2026)]] encontró que las percepciones positivas llegaban a la autoeficacia para la decisión de carrera a través de la planificación de la carrera, mientras que las percepciones negativas solo llegaban a ella a través de la ansiedad por la carrera (β indirecto = −0,184).
 
 ## Concepciones erróneas
 

@@ -1,7 +1,7 @@
 ---
 title: Marco ICAP
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-10T18:55:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -87,6 +87,8 @@ El énfasis de ICAP en una implicación generativa y a nivel de proceso lo han a
 2. **Implique a quien aprende en varios modos.** Una instrucción eficaz en [[ai-literacy|alfabetización en IA]] implica a quien aprende en múltiples niveles de ICAP —exposición pasiva, manipulación activa, generación constructiva y diálogo interactivo— y elige el modo que encaja con el objetivo de aprendizaje.([[hingle-collaborative-ai-literacy-2025]])
 3. **Mida la implicación con honestidad.** ICAP da a investigadores y diseñadores un vocabulario común para distinguir la implicación cognitiva genuina de la mera actividad: un correctivo frente a una [[student-engagement|implicación del estudiantado]] superficial.([[icap-cognitive-engagement-llm-agents]])
 4. **Vigile la brecha de anotación entre humanos y LLM.** Si se usan sistemas automatizados para codificar la implicación, hay que tener en cuenta su déficit sistemático respecto a las personas entrenadas.([[icap-cognitive-engagement-llm-agents]])
+
+El diseño de la tarea, y no solo el de la herramienta, fija el techo. En 829 hilos codificados de 40 cursos universitarios, los artefactos producidos allí donde el diálogo fue constructivo o interactivo obtuvieron valoraciones por pares de la calidad final ligeramente superiores ([[zhuang-dialogue-to-task-cognitive-engagement-2026|Zhuang et al. (2026)]]).
 
 ## Concepciones erróneas
 

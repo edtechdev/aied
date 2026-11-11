@@ -1,7 +1,7 @@
 ---
 title: Modelos de adopción tecnológica
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-10T19:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,8 @@ La investigación sobre adopción suele detenerse en la intención; una extensi�
 ### Difusión de Innovaciones (DOI)
 La teoría DOI de Rogers explica la adopción como un proceso social en el que las innovaciones se difunden entre poblaciones a lo largo del tiempo, y subraya los atributos de la innovación (ventaja relativa, compatibilidad, complejidad, posibilidad de prueba, observabilidad) y las categorías de adoptantes. Aparece en los análisis [[governance|institucionales]] de la base de conocimiento; por ejemplo, [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] combinan el marco Tecnología–Organización–Entorno (TOE) con DOI para modelar la adopción organizativa de la IA en universidades saudíes.
 
+En el ámbito estudiantil, [[gocyla-genai-adoption-diffusion-2026|Gocyła y Strzelecki (2026)]] encontraron que la ventaja relativa, la compatibilidad, la simplicidad y la observabilidad predecían la intención de usar IA generativa, explicando el 48,7% de la varianza, mientras que la posibilidad de prueba no lo hizo (f² = 0,001): el acceso gratuito puede convertir la prueba en una expectativa básica en lugar de un diferenciador.
+
 ### Tecnología–Organización–Entorno (TOE)
 El marco TOE plantea la adopción como algo moldeado por contextos tecnológicos, organizativos y ambientales, y complementa a TAM/UTAUT a nivel individual para estudiar la adopción institucional (véase [[alrahmi-org-drivers-ai-adoption-he-2026]]).
 
@@ -103,6 +105,8 @@ El añadido metodológico es la parte más transferible. Una red de perceptrón 
 
 El análisis de condiciones necesarias separó después la influencia del requisito. La facilidad de uso, el predictor mejor situado, falló directamente (d = 0, p = 0,592). La utilidad era necesaria pero pequeña (d = 0,027, p = 0,011). Los autores leen la escisión como una advertencia contra tratar un coeficiente de ruta como un umbral. Un coeficiente fuerte dice que una unidad de facilidad compra intención en promedio; solo la necesidad dice si la otra creencia puede estar ausente.
 
+**Rasgos de diseño encauzados por la confianza, con DOI junto al TAM.** [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] encuestaron a 653 personas aprendices sobre [[ai-avatars-and-synthetic-instructors|avatares de IA]] y encontraron que la ruta más fuerte de su modelo combinado TAM–DOI iba de la transparencia percibida a la [[trust|confianza]] (β = 0,542). La ventaja relativa (β = 0,267) y la utilidad percibida (β = 0,247) llevaron la intención más que la actitud (β = 0,126).
+
 El vínculo del riesgo con el uso también depende del sistema: en los 49 sistemas de TALIS 2024 que administraron los ítems, la utilidad percibida de la IA se asoció positivamente con el uso de la IA en los 49, mientras que el riesgo percibido se asoció negativamente en 40 y positivamente en nueve ([[teachers-ai-belief-profiles-talis-2024-2026|Fang y Jin (2026)]]).
 
 **La expectativa de rendimiento puede sostener una relación que la investigación sobre aceptación lee como intención de uso.** En [[kim-overtrust-ai-literacy-2026|Kim, Kim y Zhang (2026)]] la expectativa de rendimiento predijo el exceso de confianza en la IA con B = 0,6107 y fue el primer mediador por el que la autoeficacia, la motivación intrínseca y la [[motivation|motivación extrínseca]] llegaban al exceso de confianza. La vía indirecta solo de expectativa fue positiva para los tres predictores, 0,1355 (IC del 95% [0,0542, 0,2330]) para la autoeficacia, así que la expectativa no solo predecía si el estudiantado usaría la herramienta.
@@ -131,6 +135,7 @@ El vínculo del riesgo con el uso también depende del sistema: en los 49 sistem
 
 ## Artículos conectados
 
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — TAM + DOI para avatares de IA: transparencia → confianza (β = 0,542), con la ventaja relativa y la utilidad llevando la intención
 - [[high-school-genai-acceptance-tam-physics-2026]] — Creencias específicas de la asignatura situadas aguas arriba de las percepciones del TAM
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — La IA generativa como «frenemy»: la autonomía artificial y la aversión al riesgo amplían el TAM para el profesorado (Dai et al. 2026)
 - [[akbaba-nursing-ai-experiences-tam-2026]] — Experiencias de IA en enfermería; ampliación psicosocial del TAM

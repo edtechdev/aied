@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Desarrollo educativo
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-10T18:55:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,7 @@ El desarrollo educativo es el trabajo profesional e institucional mediante el cu
 - **Adopción y confianza:** [[teacher-ai-adoption-confidence|la investigación sobre la adopción de la IA por el profesorado]] identifica las preocupaciones, el apoyo, la confianza y las actitudes como predictores clave. Los programas de desarrollo del profesorado deben abordar los cuatro.
 - **Integración curricular:** los [[institutional-change-framework-ai|marcos de cambio institucional]] y la [[ai-assessment-scale-reform|reforma de la evaluación]] exigen que el profesorado rediseñe los cursos, y no solo que añada herramientas de IA.
 - **Programas de formación:** los [[crewscaler-ai-upskilling-framework|marcos de capacitación en IA]] y la [[ai-tpack-preservice-math-teachers|formación inicial basada en TPACK]] ofrecen modelos para una [[ai-education|educación en IA]] estructurada del profesorado.
+- **La demanda no es una evaluación de necesidades.** 345 docentes de CEGEP de Quebec obtuvieron la puntuación más baja en comprensión técnica (2,706 de 5) y, sin embargo, pidieron aplicaciones prácticas específicas de la disciplina, y calificaron las sesiones anteriores de demasiado generales ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini et al. (2026)]]).
 - **Reflexión profesional mediada por IA.** El Modelo del Triángulo Reflexivo sitúa la IA como mediadora cognitiva en la [[reflection|autorreflexión]], la reflexión colaborativa y la reflexión comunitaria dentro de una comunidad de aprendizaje profesional, probado en un caso de viabilidad de cuatro semanas con seis docentes; el límite que traza es que la perspicacia individual no se convierte automáticamente en conocimiento profesional compartido ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance|Gobernanza]] y política:** [[genai-policies-higher-ed-computing|el análisis de las políticas institucionales sobre IA]] documenta la brecha entre las ambiciones institucionales y la capacidad de apoyo al profesorado.
 - **La alfabetización en IA es institucionalmente invisible.** Una [[meta-analysis-systematic-review|revisión sistemática]] de 32 estudios sobre la alfabetización en IA del profesorado de idiomas la encontró ausente de los modelos de carga de trabajo, las políticas de promoción y la asignación de recursos, con un desarrollo fragmentado y una responsabilidad desplazada entre instituciones y organismos: el desarrollo de la alfabetización recae así por defecto en el esfuerzo individual en lugar de en un apoyo estructural ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik y Duran, 2026]]).

@@ -1,7 +1,7 @@
 ---
 title: Medición educativa
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-09T10:25:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -108,6 +108,8 @@ La evidencia de la base de conocimiento muestra repetidamente que **cómo** se m
 **La fiabilidad es en parte recuperable del propio modelo.** [[know-when-to-trust-ai-scoring-reliability-2026|Organisciak y Acar (2026)]] evalúan tres mejoras baratas en la puntuación basada en LLM sobre más de 20.000 respuestas al Test de Usos Alternativos: leer la confianza a nivel de token del propio modelo, tomar una media ponderada por probabilidad sobre sus n mejores puntuaciones predichas en lugar de una única mejor conjetura, y hacer un ensamblado entre modelos. Cada una mejoró la concordancia con las puntuaciones humanas (la correlación sube de r = 0,781 a 0,823 y el RMSE cae de 0,599 a 0,498 en la mejor configuración), y sus diagnósticos localizan un fallo concreto de la puntuación de una sola pasada: la confianza expresada por el modelo se relacionaba negativamente con su exactitud (β = −0,602). Este es un resultado sobre el enfoque de medición y no sobre el modelo: el mismo modelo, puntuado de otra manera, es un instrumento más fiable, y se sitúa junto a la evidencia de concordancia a nivel de corpus anterior.
 
 Una valoración de 2026 de 33 instrumentos de alfabetización en IA del profesorado muestra dónde está maduro el desarrollo de instrumentos y dónde no. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore y Maat (2026)]] calificaron los instrumentos contra una matriz de decisión adaptada de COSMIN y de Terwee et al. (2007) y encontraron que la consistencia interna era el dominio más fuerte (28 de 33 con grado A, 84,8 %) y la equidad el más débil, con solo cinco instrumentos (15,2 %) que informaban de evidencia de invarianza de medición o de funcionamiento diferencial del ítem. La validez estructural era sólida, con 24 instrumentos (72,7 %) en grado A mediante CFA, PLS-SEM o modelado TRI, pero la validez de contenido se apoyaba sobre todo en la revisión [[qualitative-research|cualitativa]], con 21 instrumentos (63,6 %) en grado B por carecer de estadísticos cuantitativos de acuerdo entre expertos.
+
+- **Una escala de ansiedad ante la IA nominalmente pentadimensional es esencialmente unidimensional.** Después de que la AIAS de 23 ítems y ocho dimensiones no replicara su estructura en 877 estudiantes de grado, la forma retenida de 20 ítems produjo ωH bifactor = 0,875 frente a ωtotal = 0,954 (razón 0,918), con ωHS de factor específico de 0,166 a 0,407 ([[tassilova-ai-anxiety-scale-russian-2026|Tassilova et al., 2026]]). Un intercepto liberado invirtió el signo de una comparación entre países, lo que hace que ese contraste quede indeterminado y no solo sesgado.
 
 La selección automatizada de ítems puede acortar un instrumento sin remodelarlo: la optimización por colonias de hormigas sobre una muestra fusionada de dos olas (N = 305 y 342) arrojó una forma corta de 12 ítems que correlaciona r = 0,910–0,944 con la escala completa en cada dimensión, aunque dos ítems por dimensión cubren un rango de contenido más estrecho ([[genai-srl-l2-writing-scale-2026|Wang, Zhang y Zhang (2026)]]).
 
@@ -216,3 +218,4 @@ La medición educativa es el fundamento de la [[item-response-theory|teoría de 
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Dificultad sin discriminación
 - [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Los pares del mismo constructo discrepan en el 41,2% de los casos, y las medidas de rendimiento necesitan su propio argumento de validez (Fan et al., 2026)
 - [[chang-ai-cognitive-offloading-scale-2026]] — Validación de la Escala de Delegación Cognitiva con IA, con las comprobaciones de validez que omite
+- [[tassilova-ai-anxiety-scale-russian-2026]] — Propiedades psicométricas de la versión rusa de la escala de ansiedad ante la inteligencia artificial: dimensionalidad, invarianza de medición y perfiles centrados en la persona

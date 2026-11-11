@@ -1,7 +1,7 @@
 ---
 title: Simular estudiantes
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 type: concept
 foundations: [agentic-ai, teacher-role]
@@ -9,7 +9,7 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-10T21:15:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -168,6 +168,7 @@ El entrenamiento contra un simulador también puede transferirse: el agente de a
 - [[ai-avatars-and-synthetic-instructors]]
 
 ## Artículos conectados
+- [[muller-role-prompted-gpt-empathetic-communication-2026]] — Un paciente GPT-4o con rol asignado produjo una ganancia de d = 0,58 en competencia autoevaluada en 13 intercambios (Müller et al., 2026)
 - [[radmehr-alps-simulated-students-long-horizon-2026]] — ALPS: la planificación jerárquica mantiene a los estudiantes simulados en su perfil a lo largo de horizontes largos (Radmehr et al. 2026)
 - [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: del juego de rol al modelado conductual de quien aprende para una simulación fiel del estudiantado
 

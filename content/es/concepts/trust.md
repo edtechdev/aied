@@ -1,14 +1,14 @@
 ---
 title: Confianza
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-11-05T16:52:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
 translation_of: concepts/trust
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-10T19:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,8 @@ Un modelo estructural somete ese papel de puente a una prueba empírica. En la e
 **La confianza por delante de todas las vías clásicas de aceptación.** [[zhu-creative-agency-trust-genai-art-2026|Zhu (2026)]] añadió la confianza al UTAUT en una encuesta a 450 estudiantes de arte y diseño de Zhejiang y encontró que era el predictor directo más fuerte de la intención de usar [[generative-ai|IA generativa]] (β = 0,425). Le siguieron la influencia social (0,155), el control metacognitivo (0,146) y la expectativa de desempeño (0,128). La influencia social también concentró la vía más grande hacia la confianza (β = 0,262), y el 42,1% de su asociación total con la intención pasaba por la confianza.
 
 El constructo es más débil de lo que sugiere el coeficiente. Mide confianza instrumental en la tecnología con un complemento de valor artístico —confianza declarada y no fiabilidad calibrada—, y los dos ítems de autoría se descartaron tras formar su propio factor en un piloto con 121 estudiantes. Un estudiante puede confiar en este modelo de forma apropiada o indiscriminada, y el instrumento no puede distinguir una cosa de la otra.
+
+La transparencia puede ser la vía más fuerte hacia la confianza sin que la confianza sea la vía más fuerte hacia el uso. [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] encuestaron a 653 estudiantes sobre [[ai-avatars-and-synthetic-instructors|avatares de IA]] y encontraron que la transparencia predecía la confianza con β = 0,542 —la vía más fuerte de su modelo—, mientras que esa confianza predecía la intención de adopción con solo β = 0,196, por detrás de la ventaja relativa (0,267) y la utilidad percibida (0,247).
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] respalda una explicación **específica de la función y no global** de la confianza en los algoritmos: ni la aversión a los algoritmos ni la apreciación de los algoritmos describían a estos 13 estudiantes, que confiaban a la vez en ChatGPT para la retroalimentación superficial y desconfiaban de él como calificador. Su confianza dependía de la supervisión del docente, y su escepticismo provenía de los límites contextuales de la IA (leer mal la letra manuscrita escaneada, "escribió mal mi apellido y cree que cometí errores de ortografía cuando no los cometí", no conocer el sistema de calificación del docente y una positividad crónica) y no de tecnofobia, lo que sugiere que las medidas de confianza deberían descomponerse según la función que cumple la IA y lo que está en juego.
 
@@ -143,6 +145,7 @@ La calibración también se pone a prueba por los incentivos del propio sistema 
 - [[social-norms-ai-use]] — el riesgo social sobre el que operan las normas y la divulgación
 
 ## Artículos conectados
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — La transparencia como el antecedente más fuerte de la confianza, pero una vía directa modesta hacia la intención de adopción (Wang et al. 2026)
 - [[lucau-uneven-use-similar-trust-genai-2026]] — Uso desigual, confianza similar: la IA generativa en Dinamarca y Rumanía (Lucau, Voicu y Christensen 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — El riesgo percibido se correlaciona positivamente con la intención de seguir usando: adopción informada (Ilieva et al. 2026)
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — La brecha de confianza entre docentes y estudiantes sobre el control y la agencia en la IA del aula de K-12

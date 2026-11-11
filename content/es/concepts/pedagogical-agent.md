@@ -1,7 +1,7 @@
 ---
 title: Agente pedagógico
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-09T10:25:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,8 @@ La superficie del agente es un eje de diseño distinto de su pedagogía. [[ai-av
 **Poner a prueba la robustez de la persona a lo largo de varios turnos.** [[adversarial-stress-testing-role-playing-agents|Shouqi et al. (2026)]] lanzaron seis ataques de intensidad creciente contra agentes de juego de roles con un juez automatizado: las pruebas con múltiples estrategias redujeron la robustez en 0,17–0,20 frente a una línea base de una sola estrategia, y los fallos críticos se concentraron después del turno 5–6, así que las evaluaciones cortas o de un solo turno sobreestiman la estabilidad de la persona y la adherencia ética.
 
 - **Un agente par cuyas sugerencias falibles son justamente el punto.** Copa combina recuperación contextualizada por el registro con GPT-4o y una base de conocimiento específica de la tarea de quince fragmentos, y resume de forma agéntica cada segmento del estudiantado: compara el modelo del estudiante con una versión experta, diagnostica el problema expresado y nombra qué recuperar. En un estudio de aula con 16 estudiantes y dos grupos focales, todas las personas participantes dijeron que su orientación apoyaba su resolución del problema y era precisa, y todas volverían a usarlo. Varias pidieron además respuestas directas, y algunas dieron por correcta una sugerencia hasta que su modelo empeoró. Los autores lo leen como el coste de diseñar un agente para provocar la evaluación y no para responder ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
+
+- **Un compañero de ciclo de indagación desplegado que inicia en lugar de esperar.** En un despliegue de 710 estudiantes de secundaria en STEM, un compañero de aprendizaje con IA estructuró cinco fases —Implicación, Hipótesis, Experimento, Análisis y Reflexión—, ofreció orientación según su propio calendario y mantuvo cada elemento generado por el LLM bajo aprobación docente ([[anagnostopoulou-ai-companion-stem-self-efficacy-2026|Anagnostopoulou et al., 2026]]). Todos los resultados fueron autoinformados en un único momento, así que el diseño queda documentado y no demostrado.
 
 ## Orientaciones prácticas
 
@@ -150,3 +152,4 @@ Mejor retroalimentación no es lo mismo que mejor aprendizaje: personalizar un a
 - [[teachers-configure-educational-chatbots-2026]] — ¿Enseñará como está previsto? Cómo configura el profesorado los chatbots educativos de IA
 
 - [[agent-type-feedback-style-self-directed-learning-2026]] — Un agente personalizado elevó la calidad de la retroalimentación, pero no la autorregulación ni los resultados; su ventaja en ganancias apareció solo con retroalimentación directiva
+- [[anagnostopoulou-ai-companion-stem-self-efficacy-2026]] — Autoeficacia, implicación, actitudes y aprendizaje percibido en la educación STEM asistida por IA

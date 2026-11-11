@@ -1,7 +1,7 @@
 ---
 title: "Competencia en IA del profesorado"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-10T22:35:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -95,6 +95,8 @@ La brecha no está solo entre la habilidad percibida y la real, sino en la *ampl
 
 Una encuesta a 132 docentes en Indonesia encontró una aceptación casi universal junto a una comprensión mecanicista muy escasa: el 96,2% respaldaba el uso de la IA por parte del profesorado, pero solo el 4,6% nombró la tokenización o la decodificación y el 21,5% creía que ChatGPT buscaba en una base de datos o en internet ([[ai-misconceptions-indonesian-k12-teachers-2026|Aji et al. (2026)]]). Una actitud favorable no es evidencia de un modelo mental utilizable de la herramienta.
 
+- **El uso y la formación específica en IA generativa asientan las actitudes; la confianza general no.** En TALIS 2024, el profesorado escandinavo que había usado [[generative-ai|IA generativa]] puntuó 0,72 desviaciones estándar más en el acuerdo con los beneficios y 0,26 desviaciones estándar menos en la incertidumbre sobre ellos, el desarrollo profesional específico en IA generativa añadió 0,20 desviaciones estándar, y quienes la usaban también coincidían más a menudo con las preocupaciones sobre la tergiversación ([[white-scandinavian-teachers-genai-attitudes-2026|White et al., 2026]]). Entre 425 profesionales de K-12, la capacidad de vigilancia epistémica predijo una preparación calibrada para la IA con β = .675 mientras que la motivación autónoma no lo hizo (β = .076), y solo 143 declararon una política escrita clara sobre IA ([[song-calibrated-ai-readiness-k12-2026|Song, 2026]]).
+
 La brecha se ve tanto en el artefacto como en el autoinforme. Un [[ai-integration-instructional-design-collaboratory-2026|colaboratorio interinstitucional de profesorado en la formación docente]], en el que formadores de docentes integraron la IA en sus propios cursos de didáctica, informó de que los futuros docentes podían producir planificaciones de clase asistidas por IA muy pulidas sin ser capaces de explicar por qué una planificación encajaba con el estudiantado y con los estándares, ya que la planificación en sí no dice nada sobre el razonamiento que hay detrás. Calificar la justificación en lugar del producto es una respuesta posible. El [[bondurant-shaughnessy-ai-pedagogies-practice-2026|marco de pedagogías de la práctica]] sugiere otra, al tratar el ensayo como una aproximación de la práctica: el ensayo mediado por IA con retroalimentación estructurada posterior al ensayo aumentó el uso de preguntas de sondeo y exploración por parte de los futuros docentes, aunque sus propios juicios sobre su desempeño seguían divergiendo de lo que registraban las personas observadoras.
 
 **Una autoevaluación a la baja tras la formación puede indicar aprendizaje, y no pérdida.** En un programa de desarrollo profesional [[tpack|Intelligent-TPACK]] de [[educational-development|formación continua]] de seis meses con 64 docentes universitarios de Hong Kong frente a 61 controles, la competencia global en IA aumentó alrededor de media desviación típica (d de Cohen = −.521), aunque algunos docentes de ambos grupos puntuaron menos en la prueba posterior que en la previa ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng y Ling, 2025]]). Las entrevistas atribuyeron los descensos a un paso de la incompetencia inconsciente a la consciente —la recalibración que predice el efecto Dunning–Kruger— y no a una pérdida de destreza. Los autores concluyen que el autoinforme pre-post infravalora una intervención, porque parte de la ganancia llega como corrección a la baja del propio instrumento.
@@ -137,6 +139,8 @@ Un contraejemplo basado en el diseño trata la competencia como situacional y no
 - **Estimación metaanalítica.** [[teacher-ai-literacy-professional-development-meta-2026|Guo et al. (2026)]] agruparon 212 tamaños del efecto de 34 estudios y estiman la formación continua en alfabetización en IA del profesorado en g = 0,76 (IC del 95% [0,50, 1,02]), más fuerte para las habilidades (g = 0,91) y más débil para actitudes y valores (g = 0,61); corregir la aparente selección de publicaciones rebaja la estimación a alrededor de g = 0,49.
 - **La asistencia predice las ganancias allí donde la sensación de participar no lo hace.** En ese mismo programa de seis meses, la tasa de asistencia predijo la ganancia de competencia (β = 0,407, p = ,001) mientras que la participación autopercibida no lo hizo (β = 0,049, p = ,692), y la disciplina, la experiencia docente y la categoría profesional explicaron poco; los autores leen la asistencia como inversión conductual y la participación percibida como implicación superficial ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng y Ling, 2025]]).
 - **Los valores van por detrás de las habilidades también en un programa específico de dominio.** En un programa de un año en Hong Kong con 30 docentes de inglés, el conocimiento de estrategias de evaluación [[multimodal|multimodal]] subió de 3,13 a 4,15 sobre 5 (η² parcial = 0,571) y la competencia de apoyo al estudiantado de 3,05 a 3,98 (0,482), ambos significativos, mientras todos los subdominios de valor se mantuvieron estadísticamente planos bajo un alfa corregido por Bonferroni de 0,006. El profesorado atribuyó las ganancias a la coplanificación en el centro y a las reuniones de clúster entre escuelas, y no solo a los talleres ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
+
+- **Los planes de IA son una línea base, y la mediación es la competencia.** Veintiséis docentes principiantes que revisaban planificaciones de clase generadas por IA reescribieron las tareas, añadieron modelado y apoyos lingüísticos, clarificaron los objetivos y reconstruyeron la secuenciación en torno a la logística del aula, y describieron su papel como revisar y personalizar en lugar de aceptar el resultado ([[wilcoxen-steiner-bell-ai-lesson-planning-2026]]).
 
 ## La competencia en IA del profesorado y la transformación del rol docente
 
@@ -187,6 +191,8 @@ El panorama de instrumentos se ha revisado desde entonces. [[assessing-teachers-
 
 ## Artículos conectados
 
+- [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 docentes principiantes revisaron planificaciones de clase de IA; la adaptación fue la brecha mayor (Wilcoxen et al. 2026)
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Competencia investigadora del profesorado de química tras un desarrollo profesional apoyado por IA: un estudio pre-post de métodos mixtos
 - [[walkington-teacher-in-loop-personalized-tasks-2026]] — Personalización de tareas de matemáticas de secundaria con el docente en el bucle y ChatGPT (Walkington et al. 2026)
 - [[chen-ai-visualization-teaching-competency-scale-2026]] — Desarrollo y validación de la escala de competencia docente en enseñanza de visualización empoderada por IA
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Diseño de módulos de microaprendizaje sobre IA para profesorado universitario en formación profesional docente: un estudio de investigación basada en el diseño
@@ -245,4 +251,4 @@ El panorama de instrumentos se ha revisado desde entonces. [[assessing-teachers-
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: cómo fallan los chatbots configurados por el profesorado en el uso real y cómo arreglarlo
 - [[bursic-ai-residency-education-curriculum-2026]] — Barreras para integrar la IA en los currículos de residencia: entrevistas cualitativas con doce líderes médicos
 - [[yuan-teacher-need-satisfaction-genai-2026]] — Satisfacciones de las necesidades psicológicas básicas del profesorado y sus intenciones de usar inteligencia artificial generativa: el papel mediador de la implicación en el desarrollo profesional
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Competencia investigadora del profesorado de química tras un desarrollo profesional apoyado por IA: un estudio pre-post de métodos mixtos
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — Actitudes del profesorado escandinavo hacia la inteligencia artificial generativa: exploración de asociaciones

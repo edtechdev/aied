@@ -1,7 +1,7 @@
 ---
 title: Educación empresarial
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-10T22:35:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,7 @@ La IA en la educación empresarial es una línea creciente de la [[ai-education|
 - **Alineación constructiva.** [[zhou-constructive-alignment-genai-business-2026|Zhou et al. (2026)]] analizaron 17 casos de adopción de IA generativa en una escuela de negocios británica y encontraron que el equilibrio entre beneficios y riesgos pedagógicos dependía del **grado de integración curricular**: la integración constructiva producía mejores resultados.
 - **Perspectivas del estudiantado sobre los currículos.** [[rook-plumb-genai-curricula-student-insights-2026|Rook y Plumb (2026)]] se basaron en 166 estudiantes de grado de negocios en una unidad de último curso y encontraron un fuerte apoyo a integrar la IA generativa en los currículos, con tres áreas prioritarias: comprender y optimizar la funcionalidad de la IA generativa, explorar aplicaciones en distintos contextos y desenvolverse en las dimensiones éticas y legales.
 - **De la memorización al juicio ante la ambigüedad.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai y Zhang (2026)]] proponen tres mecanismos de IA generativa para cursos de gestión: descomponer las teorías clásicas en supuestos y condiciones límite frente a informes reales, seguir casos emergentes entre ediciones del libro de texto, y una simulación cuyo papel de IA genera eventos disruptivos y consecuencias en cascada.
+- **La sabiduría práctica como fin organizador.** [[heron-meekins-phronesis-hermeneutic-business-ai-2026|Heron y Meekins (2026)]] sostienen que la IA intensifica el hábito de la educación empresarial de tratar la producción de información como evidencia de comprensión, y proponen REVEAL —investigación, examen, punto de vista, implicación, alineación y aprendizaje— como heurística hermenéutica que mantiene el juicio y la rendición de cuentas en quien aprende y trata la IA como un interlocutor provisional.
 - **Adopción organizativa.** [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi (2026)]] examinó los factores organizativos y tecnológicos de la adopción de la IA en la [[higher-ed|educación superior]] (con los marcos TOE y de difusión de innovaciones, n=300 miembros del personal), un análisis relevante para cómo las escuelas de negocios y sus instituciones adoptan el apoyo a la decisión impulsado por IA y las plataformas de aprendizaje inteligente.
 - **Agentes conversacionales en juegos de [[simulation|simulación]] empresarial.** [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger y Liening (2026)]] desarrollan y evalúan un [[conversational-ai|agente conversacional]] mejorado con IA (Lara) para el apoyo instruccional adaptativo en juegos de simulación empresarial usados para el aprendizaje emprendedor experiencial. Anclado en una postura de [[equity-in-ai-education|equidad]] por diseño y en el [[universal-design-for-learning|diseño universal para el aprendizaje]], el marco CAIS-GBL apunta a la implicación cognitiva, [[motivation|motivacional]], [[affective-computing|afectiva]] y [[sociocultural-learning|sociocultural]] del [[student-engagement|estudiantado]], y sus evaluaciones entre futuros docentes y participantes en juegos de simulación empresarial muestran percepciones positivas de la presencia cognitiva y [[community-of-inquiry|social]] y del apoyo al [[self-regulated-learning|aprendizaje autorregulado]]: un modelo para escalar la retroalimentación [[formative-assessment|formativa]] en la educación empresarial basada en [[game-based-learning|simulaciones]].
 - **IA generativa agéntica para tareas aplicadas complejas.** [[ilieva-agentic-genai-higher-education-2026|Ilieva et al. (2026)]] desarrollan el marco AGAI-HE en torno a un curso de **comercio electrónico**, donde la tarea de aprendizaje exige comparar modelos de negocio, sopesar restricciones de mercado y operativas y defender recomendaciones estratégicas: un trabajo aplicado de varios pasos que los chatbots de pregunta-respuesta apoyan mal. Su estudio de percepción con 130 estudiantes encontró que tanto el apoyo del chatbot como el del agente se valoraron por encima del [[online-teaching-and-learning|aprendizaje electrónico]] tradicional en mejora del aprendizaje, personalización, apoyo a la toma de decisiones y organización del flujo de trabajo, pero sin diferencias significativas entre agente y chatbot, y el respaldo más fuerte fue para combinar los tres modos. Para los programas de negocios, la lectura es que la adopción es una cuestión de [[curriculum-design|diseño instruccional]] sobre cómo se secuencia y se gobierna el apoyo de la IA, y no simplemente una mejora de herramientas ([[agentic-ai]]).
@@ -103,6 +104,7 @@ Los estudios de caso y las simulaciones son los formatos de enseñanza más cerc
 - [[stem-education]]
 
 ## Artículos conectados
+- [[heron-meekins-phronesis-hermeneutic-business-ai-2026]] — REVEAL: una heurística hermenéutica para la sabiduría práctica en la educación empresarial (Heron y Meekins 2026)
 - [[ai-decision-checkpoints-bpm-education-2026]] — Puntos de control de decisión sobre IA para la gestión de procesos de negocio aumentada con IA: marco y ejemplificación educativa
 - [[csaszar-ai-management-education-2026]] — Los efectos de la IA en la educación en gestión: un análisis estratégico basado en el valor (Csaszar et al. 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: apoyo de IA generativa agéntica en un curso de comercio electrónico, beneficios y riesgos percibidos (Ilieva et al. 2026)

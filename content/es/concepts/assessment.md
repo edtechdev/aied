@@ -1,7 +1,7 @@
 ---
 title: Evaluación
 created: "2026-09-25T03:53:48-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -12,7 +12,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T11:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [idstack, lesson-md, master-instructional-design]
 contributors: [editor]
@@ -94,6 +94,8 @@ La pregunta constructiva en la literatura sobre evaluación de esta base de cono
 - **Criterios de rúbrica basados en el proceso, que califican la interacción y no el artefacto.** [[rubrics-genai-process-based-assessment-2026|Oviedo y Díaz (2026)]] leen el modelo 3P de Biggs como tres dimensiones críticas de calificación: la agencia humana y la supervisión crítica, el andamiaje dialógico ligado a la [[prompt-engineering|ingeniería de indicaciones]] y la soberanía cognitiva anclada en la [[academic-integrity|integridad]] y la transparencia; sostienen así que un archivo terminado ya no contiene información sobre qué razonamiento lo produjo.
 - **La producción como competencia:** evaluar la capacidad de quien aprende para dirigir herramientas y producir trabajo de nivel profesional ([[competency-based-education-genai-production-2026]])
 - **Evaluar el proceso de interacción, y no solo el artefacto:** el [[assessing-student-drive-framework-2025|marco DRIVE]] (Directive Reasoning Interaction + Visible Expertise) trata la calidad de la *implicación del estudiantado con la IA generativa* como el constructo evaluado. Distingue el consumo superficial de la interacción profunda y reflexiva fijándose en si el estudiantado dirige las indicaciones de forma estratégica (DRI) e integra y desarrolla sus propias ideas disciplinares a través del intercambio (VE), y ancla los criterios centrados en el proceso en teorías del [[self-directed-learning|aprendizaje autodirigido]] y de la implicación cognitiva en la línea de la jerarquía [[icap-framework|ICAP]]. Esto convierte DRIVE en un ejemplo de *evaluación auténtica mediada por IA*: una rúbrica para valorar cómo se asocia quien aprende con la IA generativa, y no una herramienta de detección.
+
+El rediseño anterior supone que una calificación sigue significando lo que significaba antes de que llegara la herramienta. Oyelere y Kadams nombran lo que ocurre cuando no es así: la **deuda de evidencia de la evaluación**, la brecha acumulada entre lo que una calificación afirma y lo que un artefacto entregado puede respaldar, que se agrava a medida que las primeras calificaciones alimentan las decisiones de progresión. Su remedio consiste en declarar la afirmación por tarea: qué dice que sabe un estudiante, qué condiciones de IA se aplican y qué canales de evidencia están en juego. Se siguen cinco canales: desempeño restringido, procedencia del proceso, verificación ejecutable, defensa interpretativa y pruebas de transferencia. Ningún canal prueba la competencia por sí solo. Los autores tratan la equivalencia de evidencia como un asunto no resuelto: un proyecto para llevar a casa con acceso total a la IA y un examen ejecutable supervisado pueden abordar el mismo resultado mientras certifican constructos distintos, de modo que sus calificaciones no son comparables. Su advertencia más aguda se refiere a la inferencia a partir de la conducta: una defensa oral débil no es evidencia de un uso no autorizado de la IA ([[oyelere-code-programming-assessment-genai-2026|Oyelere y Kadams, 2026]]).
 
 Una propuesta de esta literatura va más allá del rediseño dentro del marco actual. [[ai-agents-joyful-assessment-third-space-2026|El Khoury y Ma (2026)]] sostienen que una reforma organizada en torno a prevenir la conducta indebida o detectar el uso de IA reduce la imaginación educativa al control y el cumplimiento, y proponen en su lugar la **evaluación gozosa**: una evaluación segura, emocionalmente receptiva, empoderadora y favorable a la [[agency|agencia del estudiantado]], con la seguridad como condición que lo sostiene todo, porque sin ella la sintonía emocional se vuelve actuación, el empoderamiento se vuelve presión y la agencia se vuelve riesgo. Su marco invierte la agenda de la detección (la integridad pasa a ser una consecuencia de diseñar evaluaciones en las que el estudiantado quiera participar, y no su punto de partida) y sitúa los [[agentic-ai|agentes de IA]] construidos por el profesorado (GPT personalizados, Gems, agentes de Copilot Studio) como un espacio de ensayo de bajo riesgo donde el estudiantado practica antes del juicio, con la afirmación de que la IA organiza la evidencia mientras quien enseña la interpreta.
 

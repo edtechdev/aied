@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje experiencial
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-08T13:00:48-05:00"
+source_updated: "2026-11-10T21:15:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -97,6 +97,7 @@ En 26 estudios de aprendizaje-servicio con participación comunitaria, la IA se 
 
 ## Artículos conectados
 
+- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — El juego de roles del mundo real superó a la realidad virtual y al diálogo con LLM en ganancias de empatía, aunque el tiempo de exposición fue un factor de confusión (Zwoliński et al., 2026)
 - [[genai-counter-learner-groupthink-2025]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Marco de Nivel de Preparación Laboral para la fabricación inteligente en la era de la IA
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fomentar el aprendizaje sostenible mediante la inteligencia corporeizada (E3-HOT)

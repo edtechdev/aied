@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puede ayudarme la IA a dar mejor retroalimentación a escala?"
 created: "2026-09-22T18:40:51-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -11,7 +11,7 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-11T09:00:00-05:00"
 translation_of: faqs/ai-feedback-at-scale
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -83,6 +83,8 @@ El mecanismo explica por qué la secuenciación importa más que la herramienta.
 La retroalimentación entre pares se gana su propio lugar en la secuencia. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen y Yan (2026)]] llevaron dos clases paralelas de inglés (N = 118 estudiantes universitarios de primer año en China; IA generativa n = 56, pares n = 62) por tres ciclos de [[self-assessment|autoevaluación]] a lo largo de un semestre. El [[scaffolding|andamiaje]] con IA generativa mejoró la alfabetización en retroalimentación de forma ligera pero significativa respecto a la revisión entre pares humanos (ANCOVA p = 0,049, ηp² = 0,03). Los estudiantes con IA generativa refinaron las indicaciones de forma iterativa y verificaron o impugnaron las salidas inexactas. Los del grupo de pares eligieron fuentes por comodidad social y vieron su juicio evaluativo distorsionado por el sesgo de amistad. La revisión entre pares conservó un valor propio para la conciencia del destinatario, y por eso los autores proponen diseños de varias etapas con retroalimentación anónima entre pares en lugar de una sustitución.
 
 La ventaja de Gu et al. fue pequeña, y la leen como real pero no transformadora por sí sola. El andamiaje del docente, las directrices de indicaciones y las hojas de trabajo hicieron el trabajo de apoyo.
+
+Puede que la fuente importe menos que el momento en que llega. En 391 estudiantes alemanes de secundaria, la retroalimentación escrita por el docente y la del LLM no produjeron diferencias significativas en las revisiones, la escritura posterior, el tiempo dedicado a la tarea ni las percepciones; las distribuciones posteriores bayesianas se inclinaron hacia la retroalimentación del docente en la escritura posterior, pero conservaron entre un cuarto y dos quintos de su masa dentro de la región de equivalencia, y solo la retroalimentación inmediata de la IA obtuvo mejores valoraciones de utilidad y motivación ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). Si un comentario de primera pasada puede llegar mientras el estudiante todavía está revisando, esa sincronización forma parte del diseño que hace el trabajo.
 
 ## Dé al modelo una rúbrica y haga que muestre sus pasos
 

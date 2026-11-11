@@ -1,13 +1,13 @@
 ---
 title: Investigación con métodos mixtos
 created: "2026-09-28T18:15:49-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-10T18:55:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -73,6 +73,7 @@ Los métodos mixtos se sitúan entre las tradiciones [[quantitative-research|cua
 - **«Los métodos mixtos son una elección minoritaria en la investigación sobre IA en la educación.»** En **394 estudios sobre IA generativa en la educación superior**, los métodos mixtos fueron el **diseño de investigación más común (213 estudios, 54%)**, seguidos de los cuantitativos (109, 28%) y los cualitativos (72, 18%). El diseño dominante del campo no es el que presuponen sus debates metodológicos.
 - **«La evidencia observacional y de entrevistas puede sostener una afirmación sobre un sistema.»** Emparejar la observación del sistema y las conversaciones con la [[administrator|administración]] frente a una **evaluación aleatorizada de cuatro años con 8.708 estudiantes en ocho semestres**, con potencia para detectar efectos de **0,05 desviaciones estándar**, muestra lo que la rama cualitativa no puede hacer por sí sola: detectar un efecto pequeño de forma fiable. Mezclar métodos no es una forma de transferir potencia entre ramas.
 - **«La triangulación significa que dos métodos débiles producen una afirmación fuerte.»** El valor del emparejamiento es que cada rama responde a una pregunta distinta. Un diseño que ejecuta ambas y luego informa del hallazgo cualitativo como confirmación del cuantitativo no ha triangulado: ha repetido.
+- **La convergencia puede ser una regla de admisión, no una narración.** [[liu-auditable-assessment-preservice-2026|Liu (2026)]] computó una prioridad de rediseño solo cuando aparecía en al menos dos de cinco fuentes independientes y en una fuente orientada a la puesta en práctica, de modo que la percepción por sí sola no podía promocionarla.
 
 ## Conceptos conectados
 - [[research-methods-aied]]

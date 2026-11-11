@@ -1,7 +1,7 @@
 ---
 title: IA en la educación
 created: "2026-09-22T14:35:34-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-11T06:58:15-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -91,7 +91,7 @@ Cómo apoya la IA la enseñanza y el aprendizaje es el corazón del campo. Entre
 
 - **Pedagogías centrales:** las [[pedagogy|pedagogías y estrategias de enseñanza]], la página general de la cobertura de métodos didácticos de la base de conocimiento, junto con los [[pedagogical-patterns|patrones pedagógicos]] (las secuencias probadas en que se resuelven esos métodos), el [[active-learning|aprendizaje activo]], el [[collaborative-learning|aprendizaje colaborativo]], el [[group-work|trabajo en grupo]], el [[project-based-learning|aprendizaje basado en proyectos]], el [[problem-based-learning|aprendizaje basado en problemas]], el [[productive-failure|fallo productivo]], el [[inquiry-based-learning|aprendizaje basado en la indagación]], el [[experiential-learning|aprendizaje experiencial]], el [[game-based-learning|aprendizaje basado en juegos]], el [[learning-by-teaching|aprender enseñando]], el [[scaffolding|andamiaje]], el [[socratic-method|método socrático]], la [[critical-pedagogy|pedagogía crítica]], las [[pedagogical-partnerships|alianzas pedagógicas]], la [[storytelling-in-education|narrativa]], el [[learning-design|diseño del aprendizaje]], la [[online-teaching-and-learning|enseñanza y el aprendizaje en línea]] y el [[video-education|vídeo en la educación]].
 - **Teorías y procesos del aprendizaje:** la página general de las [[learning-theories|teorías del aprendizaje]] ([[behaviorism|conductismo]], [[cognitive-psychology|cognitivismo]], [[constructivist|constructivismo]], [[sociocultural-learning|sociocultural]], [[distributed-cognition|cognición distribuida]], [[situated-learning|aprendizaje situado]], [[embodied-learning|aprendizaje corporeizado]], [[community-of-inquiry|comunidad de indagación]]) convive con procesos centrados en quien aprende como el [[self-regulated-learning|aprendizaje autorregulado]], la [[self-determination-theory|teoría de la autodeterminación]], la [[motivation|motivación]], la [[self-efficacy|autoeficacia]], el [[self-directed-learning|aprendizaje autodirigido]], la [[metacognition|metacognición]], las [[desirable-difficulties|dificultades deseables]], la [[transfer-of-learning|transferencia del aprendizaje]], los [[prior-knowledge|conocimientos previos]], el [[icap-framework|compromiso cognitivo del marco ICAP]], la [[reflection|reflexión]], el [[refutation-text|texto de refutación]], la [[retrieval-spacing-interleaving|recuperación, el espaciado y el intercalado]] y la [[activity-theory-aied|teoría de la actividad]].
-- **Implicación y experiencia del estudiantado:** la [[student-engagement|implicación del estudiantado]], la [[help-seeking|búsqueda de ayuda]], el [[social-emotional-learning|aprendizaje socioemocional]], el [[well-being|bienestar]], la [[creativity|creatividad]], la [[problem-solving|resolución de problemas]], el [[mastery-learning|aprendizaje para el dominio]] y la [[student-ai-interaction|interacción entre el estudiantado y la IA]] dan forma a cómo el estudiantado encuentra realmente la IA y cómo esta lo afecta, mientras que las [[social-norms-ai-use|normas sociales que se asientan en torno al uso de la IA]] deciden con cuánta apertura puede hablarse de todo ello. Más allá del curso, el [[student-support-and-success|apoyo y el éxito del estudiantado]] abarca el trabajo del lado institucional —la orientación, el acercamiento, la derivación y la asignación de un apoyo escaso—, donde la IA mueve de forma fiable la finalización de tareas, pero no la persistencia ni la graduación.
+- **Implicación y experiencia del estudiantado:** la [[student-engagement|implicación del estudiantado]], la [[help-seeking|búsqueda de ayuda]], el [[social-emotional-learning|aprendizaje socioemocional]], el [[well-being|bienestar]], la [[creativity|creatividad]], la [[problem-solving|resolución de problemas]], el [[mastery-learning|aprendizaje para el dominio]] y la [[student-ai-interaction|interacción entre el estudiantado y la IA]] dan forma a cómo el estudiantado encuentra realmente la IA y cómo esta lo afecta, con la [[empathy|empatía]] como el resultado afectivo que a menudo se reivindica y rara vez se mide, mientras que las [[social-norms-ai-use|normas sociales que se asientan en torno al uso de la IA]] deciden con cuánta apertura puede hablarse de todo ello. Más allá del curso, el [[student-support-and-success|apoyo y el éxito del estudiantado]] abarca el trabajo del lado institucional —la orientación, el acercamiento, la derivación y la asignación de un apoyo escaso—, donde la IA mueve de forma fiable la finalización de tareas, pero no la persistencia ni la graduación.
 
 ## Tecnologías y técnicas
 
@@ -222,5 +222,5 @@ Revisiones sobre la IA en la educación a escala de todo el campo, es decir, los
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — La evolución de la investigación en IA y educación a lo largo de cuatro décadas (marco AIxEd)
 - [[mishra-control-vs-agency-history-2025]] — Control frente a agencia: una historia de la IA en la educación
 - [[genai-higher-education-systematic-review-2026]] — IA generativa en educación superior: revisión sistemática de 125 estudios
-- [[stanford-evidence-base-ai-k12-2026]] — La base de evidencia sobre IA en infantil, primaria y secundaria: una revisión de 818 trabajos
+- [[stanford-evidence-base-ai-k12-2026]] — La base de evidencia sobre IA en K-12: 52 estudios causales sólidos extraídos de 1.686 trabajos del repositorio (actualización de noviembre de 2026)
 - [[genai-educational-outcomes-meta-analysis]] — IA generativa y resultados educativos: metanálisis integral

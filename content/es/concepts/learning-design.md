@@ -1,7 +1,7 @@
 ---
 title: Diseño de aprendizaje
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-11-05T01:53:02-05:00"
+source_updated: "2026-11-11T09:15:28-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -115,6 +115,7 @@ Fowlin et al. (2026) añaden un movimiento operativo para decidir dónde entra l
 
 - **La actividad documentada se concentra en una fase del ciclo.** En una revisión de 78 estudios sobre diseño instruccional apoyado por IA, la actividad de la fase de Diseño aparece en **74 de 78 estudios (95%)** y la de Desarrollo en 44 (56%), mientras que el Análisis llega solo a 11 (14%), la Evaluación a 10 (13%) y la Implementación a 7 (9%), y **ningún estudio examinó el apoyo de la IA a lo largo del ciclo ADDIE completo**. El ciclo es una aspiración que la base de evidencia no cubre, lo que importa para cualquiera a quien le vendan el "desarrollo de cursos impulsado por IA" como una capacidad de extremo a extremo ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou y Kameas, 2026]]).
 - **Tres roles de la IA, distribuidos jerárquicamente.** El uso *generativo*, en el que la IA produce contenido de diseño bajo la dirección del educador, domina en el **96% de los estudios**; el uso de *andamiaje*, en el que la IA estructura el razonamiento del propio diseñador, aparece en el 35%; y el uso *evaluativo*, en el que la IA valora la calidad de un artefacto, en el 21%. El campo está usando abrumadoramente la IA para hacer cosas y no para interrogar sus propias decisiones de diseño, que es lo contrario de la configuración de amigo crítico que la revisión señala como educativamente prometedora.
+- **El personal de diseño pide control, no autonomía.** Ocho diseñadores instruccionales que probaron una plataforma de generación de ítems ([[wei-perspicacious-instructional-design-2026|Wei et al., 2026]]) querían control sobre la dificultad, el formato y la procedencia, la calificaron con 78,8 en la SUS y señalaron la confianza como condición para la adopción.
 
 ## Concepciones erróneas
 

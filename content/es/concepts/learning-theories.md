@@ -1,7 +1,7 @@
 ---
 title: Teorías del aprendizaje
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-09T10:25:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ La base de conocimiento documenta varias familias de teorías del aprendizaje, c
 - **Cognición y arquitectura cognitiva.** La [[cognitive-psychology|psicología cognitiva / cognitivismo]] es el paraguas de esta familia: la Teoría de la Carga Cognitiva (cómo los límites de la memoria de trabajo condicionan la enseñanza), la Teoría del Proceso Dual (el procesamiento intuitivo rápido frente al deliberativo lento) y la [[metacognition|metacognición]] (supervisar y regular el propio aprendizaje) explican los mecanismos *internos* que las herramientas de IA activan o eluden.
 - **Motivación y autodirección.** La [[self-determination-theory|teoría de la autodeterminación]] (autonomía, competencia, relación), la [[self-efficacy|autoeficacia]] (la confianza en la propia capacidad), el [[self-regulated-learning|aprendizaje autorregulado]] (fijar metas, supervisar y ajustar) y la [[motivation|motivación]] explican por qué quien aprende se implica con la IA como lo hace.
 - **Contexto y actividad de aprendizaje.** El [[experiential-learning|aprendizaje experiencial]], el [[active-learning|aprendizaje activo]], el [[project-based-learning|aprendizaje basado en proyectos]], el [[collaborative-learning|aprendizaje colaborativo]], la [[transfer-of-learning|transferencia del aprendizaje]], las [[desirable-difficulties|dificultades deseables]] y el [[embodied-learning|aprendizaje corporeizado]] describen los tipos de actividad y de contexto que producen un aprendizaje duradero.
+
+Una revisión sistemática de 2026 sobre 163 estudios de IA generativa sitúa la literatura en cinco tradiciones teóricas y encuentra dominantes los diseños constructivistas y conectivistas, con los diseños conductistas de refuerzo confinados en gran medida a plataformas adaptativas de nivel primario ([[saranya-pedagogical-practices-genai-learning-theories-2026|Saranya y Saravanan, 2026]]). Quienes hicieron la revisión infirieron la teoría de cada estudio a partir de la práctica descrita, porque los estudios primarios rara vez nombraban una, lo que es en sí mismo un hallazgo sobre cómo informa la teoría el campo.
 
 ### Las teorías del aprendizaje y las ganancias de aprendizaje
 
@@ -166,3 +168,4 @@ Junto a las familias clásicas, la base de conocimiento documenta teorías escri
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Dirección pedagógica de los LLM para el fracaso productivo
 - [[lukesova-clue-before-correction-2026]] — Pista antes de la corrección: ChatGPT para el aprendizaje autónomo de idiomas
 - [[rachatasumrit-example-problem-ratio-2026]]
+- [[saranya-pedagogical-practices-genai-learning-theories-2026]] — Prácticas pedagógicas e integración de la IA generativa en el espectro de las teorías del aprendizaje: una revisión sistemática

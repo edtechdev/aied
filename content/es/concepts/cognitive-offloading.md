@@ -1,7 +1,7 @@
 ---
 title: Descarga cognitiva
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-05T16:52:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-04T17:25:00-05:00"
+source_updated: "2026-11-11T07:49:18-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -207,6 +207,8 @@ La misma lógica convierte el moldeado de recompensas en una herramienta de dise
 
 **La configuración de bypass tiene un precio cívico que los estudios de aprendizaje no facturan.** [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz y Castro Samayoa (2026)]] sostienen que la externalización voluntaria de la indagación, el análisis, la evaluación y la síntesis atrofia la práctica de la que depende la ciudadanía democrática. Su regla de secuenciación es la distinción entre bypass y andamiaje formulada en términos evolutivos: la aritmética antes que las calculadoras, las convenciones de citación antes que los gestores de referencias y un chatbot introducido después de la habilidad y no en lugar de ella. También nombran el marco que hace atractivo el bypass, que es la premisa de eficiencia según la cual el objetivo del trabajo escolar es terminar rápido.
 
+La evidencia causal más reciente separa terminar la tarea de aprenderla. En un experimento 2×2 con 24 estudiantes universitarios canadienses, los principiantes con ChatGPT superaron 410,7 de 500 pruebas generadas frente a 80,7 sin él, mientras que el estudiantado de nivel intermedio no ganó nada y rindió mejor con recursos convencionales ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). Un estudio separado con 22 programadores encontró que GitHub Copilot produjo una ventaja de rendimiento de 14,09 puntos y una menor carga de trabajo durante la tarea, sin beneficio en una nueva prueba sin asistencia aproximadamente una semana después ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). La externalización puede elevar la producción y dejar intacta la capacidad de producirla.
+
 ## Concepciones erróneas comunes
 
 - **"El volumen de prompts mide la externalización."** Se agrupó a **97 estudiantes** por volumen de prompts, y **los conglomerados de volumen no difirieron significativamente en el prompting local frente al global ni en el de papel activo**. Contar prompts contaba actividad, no la distribución del trabajo cognitivo.
@@ -236,6 +238,8 @@ La misma lógica convierte el moldeado de recompensas en una herramienta de dise
 - [[reflection]]
 
 ## Artículos conectados
+- [[chen-genai-programming-understanding-2026]] — Programadores principiantes e intermedios: ChatGPT elevó los aprobados en las pruebas a 410,7 frente a 80,7 mientras la comprensión no seguía ese ritmo (Chen et al., 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — 22 personas novatas: la ventaja de 14,09 puntos de Copilot no sobrevivió a una nueva prueba sin asistencia una semana después (Gardella et al., 2026)
 - [[akcaoglu-offloading-ladder-experience-2026]] — La escalera de la externalización: cómo la experiencia cambia lo que estudiantes y profesionales deberían entregar a la IA (Akcaoglu 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — ¿Apoyar o sustituir el razonamiento de los estudiantes? La descarga cognitiva en el aprendizaje de demostraciones asistido por IA (Chen et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — Lo que la entrega no muestra: complejizar la descarga cognitiva en el trabajo matemático de los estudiantes con LLM (Kontorovich y Wallach 2026)

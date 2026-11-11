@@ -1,7 +1,7 @@
 ---
 title: Evaluación automatizada de ensayos
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,7 +10,7 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-10T21:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,10 @@ En la escritura de respuesta a un texto de los últimos cursos de primaria, [[co
 **La AES basada en prompts** se ha consolidado como el enfoque más accesible. El **[[choi-anchor-aes-prompting-2025|estudio de prompts con anclas de Choi et al.]]** muestra que incluir ensayos ejemplares en los prompts acerca el acuerdo entre LLM y personas al nivel de fiabilidad entre personas, con GPT-4o mini logrando resultados comparables a GPT-4o a menor coste. Esto conecta con la investigación más amplia sobre [[prompt-engineering|ingeniería de prompts]] y hace que la AES sea viable para su uso por parte de [[teacher-role|quien enseña]].
 
 **La puntuación psicométrica y por rasgos** va más allá de las puntuaciones holísticas. **[[psyscore-essay-scoring-zpd-feedback|PsyScore]]** ofrece un marco psicométricamente informado para la puntuación adaptativa por rasgos con retroalimentación fundamentada en la [[sociocultural-learning|ZDP]]. **[[icle-plus-plus-essay-scoring|ICLE++]]** modela rasgos de grano fino para la puntuación holística de ensayos, avanzando en la precisión de la evaluación automatizada.
+
+- **Las trazas de razonamiento como explicación.** [[xu-explainable-ai-essay-scoring-cot-2026|Xu et al. (2026)]] ajustan modelos Qwen para que razonen a través de los cuatro rasgos del IELTS antes de puntuar y después aplican PPO sobre las preferencias de las personas examinadoras. El QWK medio subió de 0,5253 (7B, solo CoT) a 0,5410 (72B), mientras que el BLEU de la retroalimentación subió de 0,2371 a 0,2873 con PPO y CoT; la escala por sí sola añadió poco: un 2,5% de BLEU de 7B a 72B.
+
+- **La auditabilidad como objetivo de la puntuación.** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]] construye una canalización ASAP cuya capa de retroalimentación adjunta evidencia del ensayo a cada rasgo débil y expone una marca de revisión docente. El QWK macro fue de 0,738 frente a 0,739 de su mejor puntuador puro, mientras que la retroalimentación fundamentada en la rúbrica alcanzó un Trait Recall@2 de 0,829 y una tasa de evidencia válida de 0,912 donde la retroalimentación basada solo en la rúbrica no citaba nada.
 
 - **La puntuación de rasgos a nivel de dimensión está acotada por los datos que hay detrás de cada dimensión.** [[automated-essay-scoring-critical-thinking-physics-2026|Firdausi et al. (2026)]] entrenaron un clasificador por cada dimensión del marco de [[critical-thinking|pensamiento crítico]] FRISCO de Ennis sobre 106 ensayos de física de undécimo grado indonesios (83 para entrenamiento y 23 para prueba, con tres docentes evaluadores que coincidían entre kappa 0,78–0,84 en todas las dimensiones). El acuerdo se concentró en la expresión y no en el razonamiento: la kappa cuadrática ponderada alcanzó 0,763 en Claridad y 0,728 en Situación, pero solo 0,374 en Foco, 0,332 en Razón y 0,227 en Inferencia. La señal ordinal fue fabricada y no observada —ensayos sintéticos de nivel 1 (generación por plantilla, degradación al 20–40% de la longitud original, eliminación de palabras clave) más paráfrasis por LLM elevaron el Foco en +0,346 kappa partiendo de una línea base de 0,028—, y una configuración alcanzó 0,652 de precisión con kappa cercana a cero o negativa, de modo que la precisión no es un criterio de selección utilizable en la AES ordinal.
 
@@ -107,6 +111,8 @@ Los sistemas abiertos también forman parte de este panorama: AiAWE puntúa ensa
 - [[assessment-validity]]
 
 ## Artículos conectados
+- [[xu-explainable-ai-essay-scoring-cot-2026]] — Cadena de pensamiento consciente de la rúbrica más PPO: QWK medio de 0,5253 a 0,5410, con pequeñas ganancias por escala (Xu et al. 2026)
+- [[xin-auditable-automated-essay-scoring-2026]] — Puntuación auditable: QWK macro de 0,738 con retroalimentación anclada en evidencia y una marca de revisión docente (Xin 2026)
 - [[reflection-level-classification-hungarian-essays-2026]] — Clasificación automática del nivel de reflexión en ensayos de estudiantes húngaros
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: un sistema modularizado de evaluación automatizada de la escritura para ensayos argumentativos
 - [[automated-essay-scoring-critical-thinking-physics-2026]] — Innovación educativa mediante la evaluación automatizada de ensayos: un marco multidimensional para evaluar el pensamiento crítico en ensayos de física de secundaria

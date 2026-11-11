@@ -1,7 +1,7 @@
 ---
 title: Validez de la evaluación
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -10,7 +10,7 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T09:15:28-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,7 @@ ai_assist:
 - **La inflación de calificaciones impulsada por la IA como amenaza a la validez:** [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] identifica un mecanismo novedoso de inflación de las [[summative-assessment|calificaciones]] impulsado por la tecnología y que opera *aguas arriba de la calificación*, en la producción del trabajo calificado. En un estudio de diferencias en diferencias sobre más de 500.000 calificaciones en 319 cursos (2018–2025), los cursos con más tareas expuestas a la IA (escritura, programación) vieron crecer la proporción de sobresalientes en 13 puntos porcentuales tras el lanzamiento de ChatGPT, con compresión de la distribución de calificaciones. Un análisis de triple diferencia muestra que el efecto se concentra en los cursos con mucho trabajo para casa, lo que prueba que el **desplazamiento de tareas** por la IA (la IA realizando las tareas calificadas antes de que el profesorado las observe) infla las calificaciones sin un aumento correspondiente de la competencia. Esto reduce la comparabilidad de las calificaciones entre cursos y erosiona el valor informativo de los expedientes de maneras difíciles de detectar a partir de las distribuciones de calificaciones por sí solas.
 - **Susceptibilidad del aprobado a nivel de programa, y los criterios de calificación que la determinan:** [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] juzgaron con un aprobado/suspenso binario —la decisión que los calificadores toman realmente en una primera lectura— la salida de ChatGPT para cada evaluación del trabajo de curso de un grado de psicología de tres años (40 evaluaciones, 16 tipos): 36 de 40 aprobaron. Se siguen dos implicaciones de validez. Primera, la variable operativa es el umbral de aprobado, no la detección: una calificación que premia la fluidez estructural y la elección correcta del análisis mientras se toleran valores incorrectos deja pasar estadísticas fabricadas y referencias alucinadas, de modo que la evaluación certifica la salida de la herramienta como comprensión del estudiante por la forma en que se califica, y no porque alguien haya sido engañado. Segunda, los ítems de opción múltiple filtraban sus propias respuestas: ChatGPT respondió correctamente a preguntas de estadística sin que se mostrara al estudiantado la figura ni la tabla de resultados, porque el enunciado del ítem y las opciones implicaban la respuesta, lo que convierte el diseño de las opciones de respuesta en una propiedad de validez del ítem y no en una propiedad de la IA.
 - **Exactitud y concordancia como señales de validez distintas:** [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik y Thambi (2026)]] calificaron un examen de farmacia de 21 ítems con ChatGPT-5 y encontraron que una exactitud porcentual moderada convivía a menudo con coeficientes de correlación-concordancia bajos, una distinción metodológica entre la *exactitud de la puntuación* y la *concordancia* que limita la fiabilidad de la IA como sustituta de la calificación incluso allí donde la exactitud bruta parece aceptable. La concordancia fue alta en los ítems objetivos (CCC 0,935–1,000) pero casi nula en las respuestas breves y modesta en los ensayos (0,341–0,854), y proporcionar la rúbrica no cerró la brecha de forma consistente.
+- **La concordancia puede coexistir con la explotabilidad.** [[roy-premise-rubrics-llm-judges-2026|Roy et al. (2026)]] auditaron seis fuentes de rúbrica en cuatro corpus de preferencias y no encontraron ninguna que fuera a la vez fiable, predictiva de las preferencias y robusta frente a ataques: los jueces pueden coincidir en una lectura defectuosa mientras la redacción de la rúbrica admite respuestas que puntúan alto violando el constructo (46,4% de exploits verificados, reducidos al 36,0% con el refinamiento).
 - **Validez de los ítems generados por IA:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] muestra que las preguntas generadas por IA, validadas mediante [[item-response-theory|TRI]] bayesiana, alcanzan dificultad y discriminación a la par de los ítems de exámenes estandarizados escritos por expertos (fiabilidad 0,79 frente a 0,72), lo que apoya la validez de las evaluaciones generadas por IA y adaptadas al curso cuando se respaldan con una evaluación psicométrica.
 - **Evaluación auténtica:** la [[authentic-assessment|evaluación auténtica]] y la [[ai-assessment-scale-reform|Escala de Evaluación con IA]] proponen rediseños de la evaluación que preservan la validez.
 - **Confianza y calibración:** los [[automated-assessment|sistemas con conciencia de la confianza]] mejoran la validez al señalar las evaluaciones inciertas.
@@ -85,6 +86,7 @@ Una propuesta conceptual plantea un límite de validez que se aplica a toda eval
 - **Los juicios estudiantiles sobre la alineación curricular siguen a la dificultad, no al contenido.** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] pidieron al estudiantado que valorara si cada ítem de un examen calificado de 60 ítems se alineaba con el [[curriculum-design|currículo]] del curso y encontraron que las valoraciones correlacionaban con la dificultad del ítem en ρ = 0,762 (los ítems más fáciles se juzgaban alineados y los más difíciles no alineados, ρ = −0,762, p < 0,001), mientras que las valoraciones no diferían según la fuente del ítem. Allí donde un instrumento pide al estudiantado juzgar el ajuste curricular de una evaluación, la puntuación resultante es en parte una valoración de la dificultad y no puede leerse como evidencia independiente de alineación.
 
 - **Realinear el triángulo de la evaluación en lugar de parchear un vértice.** [[koretsky-genai-stem-assessment-2026|Koretsky et al. (2026)]] enmarcan el problema de la [[generative-ai|IA generativa]] a través del triángulo de la evaluación —cognición (lo que se evalúa), observación (cómo se obtiene la evidencia de aprendizaje) e interpretación (la inferencia que se extrae)— y sostienen que los tres vértices deben realinearse juntos, ya que rediseñar tareas sin reparar la interpretación deja la inferencia sin respaldo. Su [[meta-analysis-systematic-review|revisión de alcance]] convierte además la fidelidad de los materiales de evaluación generados por IA en una propiedad de validez en sí misma, catalogando dimensiones de contenido, lingüísticas, cognitivas, conductuales, estructurales y pedagógicas y exigiendo una evaluación con supervisión humana antes de que tales tareas sustenten una evaluación.
+- **Los ítems generados pueden ajustar sin medir.** [[baghaei-generative-operationalism-2026|Baghaei y Eryilmaz (2026)]] nombran el *operacionalismo generativo* —entra la etiqueta del constructo, salen los ítems y el ajuste posterior se lee como garantía— y muestran cómo la redundancia semántica y la subrepresentación del constructo producen psicometría deseable sin que el atributo impulse las respuestas.
 
 ### Rediseño en lugar de detección
 
@@ -149,6 +151,8 @@ La estabilidad entre ejecuciones no está garantizada, sin embargo: repetir la m
 
 - **«La concordancia detecta a un calificador sesgado.»** No lo hizo en una ablación intra-ítem. Añadir solo una etiqueta de logro verdadera o intercambiada al prompt movió las notas entre **0,28 y 0,75 puntos** en una escala de diez en todos los modelos probados, mientras que una etiqueta verdadera elevó el QWK solo entre **0,029 y 0,046**. Un reescalado ajustado sin la etiqueta igualó esa ganancia. [[porcaro-ai-grader-reliability-2026|La invariancia debe informarse junto a la concordancia]], porque un calificador puede puntuar más cerca del docente mientras lee al estudiantado y no el trabajo.
 
+- **La suficiencia de la evidencia, y no la pureza del artefacto, es la pregunta de validez.** [[bayraktar-beyond-ai-proofing-assessment-validity-2026|Bayraktar (2026)]] sostiene que, cuando la IA puede producir un artefacto plausible, el producto pulido ya no garantiza una afirmación sobre el aprendizaje; su marco añade tareas centradas en el juicio, evidencia de proceso, explicación metacognitiva y respuesta a la retroalimentación a la base probatoria. Es una heurística de diseño y no una intervención probada.
+
 ## Concepciones erróneas
 
 - **«El sesgo de la calificación con LLM es una razón para abandonarla.»** En una **evaluación nacional de escritura a gran escala**, un calificador LLM mostró un **sesgo conservador sistemático (calificaba a la baja)** —problemático como nota final y potencialmente **útil como señal de cribado**. Un sesgo con una dirección conocida es un instrumento distinto de uno impredecible.
@@ -178,6 +182,9 @@ La estabilidad entre ejecuciones no está garantizada, sin embargo: repetir la m
 
 ## Artículos conectados
 
+- [[nissan-nursing-empathy-computer-vision-2026]] — El mismo vídeo, lecturas opuestas: un detector de sonrisas puntuó calidez donde las personas observadoras puntuaron incongruencia (Nissan et al., 2026)
+- [[bayraktar-beyond-ai-proofing-assessment-validity-2026]] — Más allá de blindar contra la IA: la suficiencia de la evidencia y no la pureza del artefacto como pregunta de validez (Bayraktar 2026)
+- [[roy-premise-rubrics-llm-judges-2026]] — La concordancia no es robustez: los jueces condicionados por rúbricas pueden coincidir mientras sus rúbricas siguen siendo explotables (Roy et al. 2026)
 - [[ansari-policing-provenance-designing-for-evidence-2026]] — De vigilar la procedencia a diseñar para la evidencia: cuatro proposiciones puestas a prueba con investigación y política (Ansari 2026)
 
 - [[embedding-similarity-clustering-handwritten-physics-2026]] — La similitud de embedding correlacionó con las puntuaciones humanas como máximo en 0,198

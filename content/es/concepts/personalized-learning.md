@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje personalizado
 created: "2026-09-25T04:31:17-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-11T08:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,8 @@ El aprendizaje personalizado se confunde a menudo con el [[adaptive-learning|apr
 Una revisión PRISMA 2020 de 22 intervenciones en educación superior sitúa el apoyo al aprendizaje personalizado y los itinerarios adaptativos entre los casos de uso dominantes de la IA, aunque la mayoría de las implementaciones mejoraron la práctica existente en lugar de transformarla ([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh et al. (2026)]]).
 
 La [[intelligent-tutoring|tutoría inteligente]] se sitúa en medio: los ITS son las plataformas *adaptativas* canónicas que ofrecen instrucción personalizada mediante un modelado estructurado del estudiantado, mientras que los tutores basados en [[llm]] personalizan de forma conversacional. Los tres son los miembros del lado de la aplicación de la familia del [[student-modeling|modelado del estudiantado y la instrucción adaptativa]]: consumen las representaciones de quien aprende que producen el [[student-modeling|modelado del estudiantado]], el [[knowledge-tracing|seguimiento del conocimiento]] y el [[cognitive-diagnosis|diagnóstico cognitivo]] para decidir qué enseñar a continuación. La distinción importa para la evaluación: los estudios que etiquetan un sistema como «adaptativo», «personalizado» o «individualizado» de forma intercambiable (véase más abajo) pueden ocultar si el beneficio que se atribuye proviene de la adaptación en tiempo real, de la elección de quien aprende o del ajuste del contenido.
+
+Una revisión sistemática de 2026 de 61 estudios de educación superior da a esa distinción un filo empírico. El control dirigido por quien aprende, es decir, que el estudiantado decidiera cuándo, qué y cómo preguntar, se codificó en 46 estudios (75,4%). Los sistemas creados a propósito o personalizados para el curso aparecieron en 10 (16,4%) y la adaptación dirigida por el sistema documentada en cinco (8,2%); el análisis de sensibilidad de la revisión dejó uno ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido et al., 2026]]). La mayor parte de lo que la literatura llama aprendizaje personalizado es acceso flexible a un asistente general, no un modelo de quien aprende.
 
 ## Retos de medición
 
@@ -181,6 +183,7 @@ Un problema recurrente es que el «aprendizaje personalizado» es un término pa
 
 ## Artículos conectados
 
+- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 61 estudios: 75,4% codificados como control dirigido por quien aprende y 8,2% como adaptación dirigida por el sistema (Aybar-Bellido et al., 2026)
 - [[bespoke-industry-personalized-lecture-videos-2026]] — Regeneración de vídeos de clase personalizados por sector a partir de una transcripción semilla: ajuste a nivel de público, evaluado por expertos de dominio (Puech et al. 2026)
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Micropersonalización mediante ingeniería de prompts de un asistente docente con IA (Basu, Kakar y Goel 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — La tutoría con IA no es un monolito: lo que realmente sabemos (informe de Stanford SCALE/NSSA)

@@ -1,7 +1,7 @@
 ---
 title: Medidas de autoinforme
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-11T06:42:13-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -108,7 +108,13 @@ La satisfacción es el resultado autoinformado más frecuente en este corpus, pr
 - [[preferred-scaffolding-ai-mathematical-modeling|Un estudio sobre andamiaje]] sostiene que la utilidad percibida, la facilidad de uso y la satisfacción inmediata no deberían tratarse como indicadores suficientes de la eficacia del [[scaffolding|andamiaje]].
 - [[nie-personavlm-long-term-personalization-2026|Sobre el modelado del estudiantado alineado con la personalidad]] observa que optimizar la satisfacción del usuario no es lo mismo que optimizar los resultados de aprendizaje, y que ambas cosas pueden separarse.
 
+- [[kares-xai-evaluation-alignment-2027|Un estudio preinscrito de XAI (Kares et al., 2027)]] comparó tres métodos de explicación con 166 participantes y encontró que las valoraciones de satisfacción (3,98; 3,92; 3,87) y de confianza eran estadísticamente indistinguibles, mientras que una medida de tarea separaba los métodos y una métrica matemática los ordenaba al revés. La valoración no dio señal donde la medida de habilidad sí la dio.
+
 El patrón que conviene llevarse: la satisfacción responde a las cosas equivocadas cuando el objetivo es el aprendizaje. Un sistema que responde rápido, está de acuerdo con facilidad y reduce el esfuerzo será muy bien valorado, y esas mismas propiedades son las que la base de conocimiento asocia con una menor [[desirable-difficulties|lucha productiva]] y un rendimiento inflado en el trabajo asistido por IA. La satisfacción informada y el aprendizaje medido no son enemigos; simplemente no son sustitutos, y tratar la primera como evidencia del segundo es el deslizamiento más común que documenta esta página.
+
+El caso intrasujeto más limpio del corpus midió ambas cantidades en el mismo estudiantado. [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe et al. (2025)]] encuestaron a estudiantado de estadística empresarial y de economía a lo largo de dos semestres mientras integraban un prompt de tutor, una revisión de examen generada por IA, exámenes orales estructurados con IA y una lluvia de ideas sobre temas asistida por IA. La frecuencia de uso de ChatGPT autoinformada subió de 2,987 a 4,375 en una escala de 1 a 7 (p < 0,001), la confianza de 3,663 a 4,000 (p = 0,004) y la implicación percibida de 2,433 a 2,65 en una escala de 1 a 3 (p = 0,006): un relato coherente de estudiantes que usaron más la herramienta y creían que les había ayudado.
+
+Las puntuaciones de examen contaron otra historia: la frecuencia de uso no se asoció con el rendimiento en el modelo simple (-5,577; EE 5,566) y se asoció negativamente en el modelo completo (-13,918; EE 7,834; p = 0,076). Los autores no tratan el resultado nulo como prueba de daño, ya que el estudiantado con dificultades puede usar más la IA; lo que el estudio muestra es un movimiento significativo en todas las medidas perceptivas sin un movimiento correspondiente en el rendimiento calificado.
 
 **Las medidas de percepción superan a las de habilidad en la literatura de indagación con IA generativa.** En una revisión de 66 estudios, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] encontraron que las percepciones del usuario eran el dominio de resultado más informado (32 estudios, 48,5%), seguidas de los resultados afectivos con 25, mientras que solo 8 estudios (12,1%) midieron habilidades de indagación y 4 de ellos tenían una condición de comparación. Los autores no asignaron ninguna certeza de evidencia, así que los recuentos de percepción describen lo que se preguntó y no lo que se logró.
 
@@ -184,6 +190,7 @@ Las respuestas constructivas de la base de conocimiento son consistentes, y ning
 
 ## Artículos conectados
 
+- [[kares-xai-evaluation-alignment-2027]] — 166 participantes y tres métodos de saliencia: satisfacción y confianza planas, con el rendimiento en la tarea y las métricas de fidelidad en desacuerdo (Kares et al., 2027)
 - [[high-school-genai-acceptance-tam-physics-2026]] — Una puntuación de intención, dos usos opuestos
 - [[voice-based-ai-feedback-interviews-higher-ed-2026]] — El modo de administración que emplea un instrumento de autoinforme cambia lo que mide
 - [[capability-decision-model-teacher-readiness-2026]] — Criterios de validez discriminante para separar la capacidad de IA autoinformada de las creencias de eficacia
@@ -215,3 +222,4 @@ Las respuestas constructivas de la base de conocimiento son consistentes, y ning
 - [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Percepciones informadas en 32 de 66 estudios frente a 8 que midieron habilidades de indagación
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — El 63,8% de las herramientas de alfabetización en IA informa de fiabilidad y menos del 20% de validez
 - [[huang-genai-academic-information-resources-2026]] — Registros de biblioteca y actitudes de encuesta apuntando en direcciones distintas
+- [[onodipe-enhance-not-replace-ai-classroom-2026]] — El aprendizaje y la implicación percibidos subieron en todas las medidas de encuesta mientras las puntuaciones de examen no se movieron

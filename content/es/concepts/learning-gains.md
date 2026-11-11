@@ -1,7 +1,7 @@
 ---
 title: Mejoras en el aprendizaje
 created: "2026-09-25T04:31:08-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T08:13:31-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -135,6 +135,8 @@ Las mejoras en el aprendizaje se conectan con la [[assessment-validity]] —si l
 
 - **Mejoras significativas de antes y después a partir de una [[pedagogy]] de IA basada en errores:** [[pedagogy-ai-mistakes|Hosseini (2026)]] en su curso de diseño de bases de datos (n=13) mostró mejoras de aprendizaje grandes y significativas en ítems idénticos de antes y después (media 4,25→6,83/7, *d* de Cohen = 1,49, *p* < 0,001), con mejoras no correlacionadas con la confianza previa en la IA o en las bases de datos —el diseño de crítica-refinación integrado con IA benefició al estudiantado con independencia de sus percepciones iniciales—.
 
+Los experimentos más recientes marcan un límite a ese patrón y no una contradicción. Quienes empezaban con ChatGPT aprobaron muchas más pruebas generadas que quienes empezaban sin él (410,7 frente a 80,7), mientras que su comprensión no mejoró, y el estudiantado de nivel intermedio no ganó nada ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). Un segundo experimento encontró que la ventaja de 14,09 puntos de Copilot desaparecía en una nueva prueba sin asistencia una semana después ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). La persistencia es la excepción en esta literatura, así que un estudio que la informa es evidencia sobre la tarea y sobre el diseño del apoyo, no sobre la asistencia con IA en general.
+
 ## Concepciones erróneas
 
 **«Las puntuaciones subieron, así que la intervención produjo aprendizaje.»** Este es el error de definición que la página existe para prevenir, y los datos de campo muestran las dos direcciones a la vez: el uso de la IA mejora las puntuaciones en los deberes asistidos por IA mientras *baja* las puntuaciones en medidas supervisadas, a libro cerrado y sin asistencia ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). La elección de la medida determina si la inflación es visible, de modo que una mejora en una tarea donde se permite la IA es una afirmación sobre el rendimiento en esa tarea y no sobre el [[genai-performance-vs-learning|aprendizaje]].
@@ -183,6 +185,8 @@ Las mejoras en el aprendizaje se conectan con la [[assessment-validity]] —si l
 
 ## Artículos conectados
 
+- [[chen-genai-programming-understanding-2026]] — 24 estudiantes de grado: las pruebas aprobadas con asistencia subieron mientras la comprensión sin asistencia no (Chen et al., 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — 22 programadores: las ganancias con asistencia no persistieron en una nueva prueba sin asistencia (Gardella et al., 2026)
 - [[epistemological-audit-genai-meta-analyses-2026]] — Una auditoría epistemológica crítica de las primeras síntesis de evidencia en la investigación educativa sobre IA generativa (Fütterer et al. 2026)
 - [[contractor-learning-impact-generative-ai-2026]] — El acceso a un chatbot comercial elevó las puntuaciones en pruebas sin ayuda, que se mantuvieron una semana (Contractor y Reyes 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — La tutoría con IA supera al aprendizaje activo en clase: un ensayo aleatorizado que introduce un diseño novedoso basado en investigación en un contexto educativo auténtico (Kestin et al. 2025)

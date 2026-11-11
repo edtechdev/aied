@@ -1,7 +1,7 @@
 ---
 title: Búsqueda de ayuda
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-10T18:55:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -100,6 +100,8 @@ En contextos reales, el estudiantado con frecuencia **se salta el [[scaffolding|
 ## Búsqueda de ayuda y aprendizaje autorregulado
 
 La búsqueda de ayuda es parte integral del [[self-regulated-learning|aprendizaje autorregulado]]: una búsqueda de ayuda productiva exige que quienes aprenden supervisen su comprensión, juzguen cuándo se necesita ayuda y seleccionen fuentes adecuadas. En contextos de IA generativa, esto es aún más exigente, ya que el estudiantado también debe ejercer [[agency|agencia]] sobre la IA y mantener una vigilancia epistémica en lugar de deferir a ella. La investigación de esta base de conocimiento respalda la necesidad de [[scaffolding|andamiajes]] que promuevan un uso de la IA más [[agentic-ai|agéntico]] y epistémicamente proactivo, y señala el riesgo de la [[cognitive-offloading|dependencia excesiva]] y de la [[cognitive-offloading|descarga cognitiva]] cuando la búsqueda de ayuda degenera en una búsqueda incondicional de respuestas.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+
+La evidencia a escala poblacional complica el relato de la sustitución: entre 12.191 estudiantes de PISA 2025 en cuatro regiones chinas, un uso más frecuente de IA generativa para las tareas escolares se asoció con más búsqueda de ayuda académica (β = 0,169) y no con menos ([[wu-genai-scientific-literacy-china-2026|Wu et al. (2026)]]).
 
 ### La búsqueda de ayuda mediada por LLM como proceso de cuatro etapas
 

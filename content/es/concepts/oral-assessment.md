@@ -1,7 +1,7 @@
 ---
 title: Evaluación oral
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -14,7 +14,7 @@ level: [higher ed]
 confidence: medium
 connected_resources: [code-viva]
 translation_of: concepts/oral-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-09T10:25:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,11 @@ Los formatos del corpus abarcan una amplia gama de automatización y sincronía,
 
 **Administración y puntuación automatizadas.** [[ai-supported-oral-assessment-tvet-2026|Un sistema basado en la voz probado en clases de automoción e ingeniería de formación profesional]] evaluó a treinta y tres estudiantes, de los cuales veintiuno coincidieron en que la tarea de voz en directo resultaba realista y ninguno discrepó de que hablar en tiempo real encajaba mejor en la tarea que un [[eportfolio|portafolio]] escrito. Los recuentos de palabras para preguntas idénticas variaron entre cinco y ocho veces de unos estudiantes a otros, la fluidez no aportó ninguna ventaja de precisión en los ítems cerrados, y una calificación preliminar de un agente coincidió con la del tutor humano en el noventa y cinco por ciento de los ensayos adyacentes de horticultura y lácteos. [[socratic-tests-conversational-assessment|Una prueba socrática conversacional]] toma la ruta de diseño opuesta, orientada al cuestionamiento conceptual; su evidencia es una encuesta de autoinforme con noventa y ocho estudiantes, en la que el 80,6% coincidió en que la IA andamiaba con eficacia y el cincuenta y dos por ciento informó de menos estrés que con los exámenes tradicionales. Ambos artículos miden la aceptación y no el aprendizaje.
 
+**La IA como andamiaje logístico para orales en directo, supervisados por personas.** Una tercera modalidad mantiene al docente como examinador y usa la IA para hacer viable el ensayo por parejas. En los cursos de estadística empresarial de [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe et al. (2025)]], los orales individuales en directo por Zoom no alcanzaban a todo el estudiantado dentro del límite de tiempo, así que el estudiantado trabajó en parejas en salas de trabajo con un prompt estructurado de ChatGPT que cubría el tipo de preguntas que haría el examen, mientras el docente rotaba por las salas para sondear el razonamiento. El artículo informa de la logística y de la reducción de la carga docente, pero no de ninguna comparación de resultados, así que es un diseño para probar y no evidencia de que el ensayo mediado por IA preserve aquello que certifica un oral. Su interés para esta página es que ataca la restricción de programación y de horas de contacto que nombra Fenton sin automatizar ni la administración ni la puntuación.
+
 **La evidencia oral como defensa y no como examen.** [[tool-invariant-framework-agentic-ai|Un marco de evaluación invariable respecto a la herramienta]] combina pruebas en clase sin IA con defensas orales de diez minutos de trabajos asistidos por IA a los que se han quitado los comentarios, puntuadas por comprensión del código, entendimiento del método, terminología, interpretación y verificación, con la verificación exigida para aprobar independientemente del total. El diseño se argumenta más que se valida; la propia aritmética del artículo para quince estudiantes son dos horas y media de contacto por tarea y unas veintiocho horas de contacto por semestre repartidas en once tareas defendidas.
+
+**Sondeo por muestreo, no cobertura total.** Deng (2026) propone examinar cara a cara una selección aleatoria del propio trabajo entregado por el estudiantado, bajo cuatro condiciones de credibilidad: más de un examinador, sesiones grabadas y auditables, una vía de apelación y un consultor que no sea el certificador ([[deng-certification-consultation-university-teaching-2026|Deng, 2026]]). El diseño se argumenta y no se pone a prueba, pero resuelve el muro de las horas de contacto mediante el muestreo en lugar de examinar todo.
 
 El formato de interacción decide qué puede certificar una tarea de habla mediada por IA. Las tareas de diálogo del Duolingo English Test, 713 de ellas en el piloto, exigían seleccionar respuestas y no conversar de forma reactiva, lo que según quienes revisaron el examen desalinea las exigencias cognitivas de la tarea con el constructo que el test afirma medir ([[ai-second-language-listening-speaking-assessment-2025|Goh y Aryadoust (2025)]]).
 
@@ -119,3 +123,5 @@ La justificación de integridad del oral también tiene fecha de caducidad: [[co
 - [[pgr-students-genai-uses-qualitative-2026]] — La viva doctoral bajo la IA generativa
 - [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa
 - [[assessment-feedback-trilemma-model-2026]] — No concede a ningún formato una posición fija y reencuadra la viabilidad como prioridad educativa
+- [[onodipe-enhance-not-replace-ai-classroom-2026]] — Orales por parejas con andamiaje de IA como solución de programación en un curso de estadística empresarial
+- [[deng-certification-consultation-university-teaching-2026]] — La enseñanza universitaria tras la IA generativa: más allá de las clases y la indagación, hacia un paradigma de certificación y consulta en el que el estudiantado se convierte en evaluador

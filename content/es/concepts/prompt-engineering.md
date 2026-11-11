@@ -1,7 +1,7 @@
 ---
 title: Ingeniería de prompts
 created: "2026-09-25T03:54:13-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [eduprompts, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-11-08T08:41:46-05:00"
+source_updated: "2026-11-11T11:50:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,7 @@ La ingeniería de prompts es central para el uso eficaz de la [[generative-ai|IA
 
 - **El prompting como rastro cognitivo:** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk et al.]] muestran que los patrones de prompts revelan [[cognitive-offloading|delegación cognitiva]]: el trabajo de alta calidad usa prompts ricos en contexto, corteses e instructivos, mientras que el trabajo de baja calidad muestra desacuerdo reactivo sin fundamento en el dominio.
 - **La profundidad mejora el producto, no la retención.** En 22 estudiantes de posgrado, la proporción de prompts de búsqueda de explicación («por qué/cómo/explica») predijo de forma independiente la calidad de la tarea calificada por marcadores externos (β = 6,27) más allá del conocimiento de base y del volumen de prompts, aunque mostró una asociación nula con el recuerdo inmediato ([[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]]).
+- **La competencia es la variable de estratificación, y es entrenable.** En una encuesta a 380 estudiantes universitarios chinos, la competencia en ingeniería de prompts se correlacionó fuertemente con las ganancias académicas percibidas (r = .793) pero solo débilmente con la inequidad educativa percibida (r = −.131), y el capital digital familiar operó en gran medida a través de la competencia y no junto a ella. Un experimento intrasujeto mostró después que un andamiaje de cinco componentes —Rol, Objetivo, Entrada, Proceso, Salida— elevó la calidad valorada del resultado de 3,318 a 4,603 en cuatro familias de modelos. La lectura de equidad importa más que el tamaño del efecto: si el beneficio pasa por una habilidad, entonces quién recibe instrucción en prompting es una decisión de distribución ([[li-who-benefits-llms-prompt-engineering-equity-2026|Li et al., 2026]]).
 - **La cognición del prompt sigue a la disciplina, no al estudiante.** [[student-ai-conversations-cognitive-engagement-2026|Chang y Li (2026)]] clasificaron 60.087 prompts de 116 cursos y encontraron que los perfiles por nivel de Bloom diferían según la disciplina: STEM con predominio de Aplicar (20,8%), ciencias sociales con predominio de Crear (33,8%), con una varianza a nivel de curso que superaba la varianza a nivel de estudiante.
 - **El prompting como alfabetización:** la investigación [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] y la de [[aaai2026-prompting-literacy-k12|alfabetización en prompting en K-12]] enmarcan el prompting como un componente central de la [[ai-literacy]].
 - **Los prompts vagos dejan rastro en el diálogo.** La firma del grupo de menor calidad fue un bucle de aclaración autorrepetitivo (IC→IC, Z = 3,25), atribuido a prompts vagos y a lecturas erróneas de la IA, y concentró la mayor brecha de frustración del estudio (2,12 frente a 3,82); depurar los prompts sobre registros auténticos apunta a ese bucle en el momento en que ocurre ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
@@ -119,6 +120,7 @@ La ingeniería de prompts se conecta con el [[scaffolding]]: los prompts bien di
 - [[ai-technologies]] — Marco general: tecnologías y técnicas de IA (modelos, entrenamiento de LLM, robótica, RAG, agentes)
 
 ## Artículos conectados
+- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — la competencia en prompts predice las ganancias y media el capital digital familiar; un andamiaje de cinco partes es entrenable
 - [[wang-teacher-student-centered-agents-physics-2026]] — Los prompts de rol y restricciones del agente como variable de diseño en el aprendizaje de la física (Wang et al. 2026)
 - [[gpt-item-generation-l2-listening-2026]] — Prompting frente a ajuste fino para la generación de ítems de comprensión auditiva en L2 con GPT (Aryadoust y Wong 2026)
 - [[llm-interaction-depth-task-quality-recall-2026]] — Lo que el estudiantado pregunta importa: profundidad de la interacción con LLM, calidad de la tarea y recuerdo inmediato (Tsiligkiris 2026)

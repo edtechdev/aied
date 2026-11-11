@@ -1,7 +1,7 @@
 ---
 title: Equidad
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-11T08:13:31-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -116,6 +116,8 @@ Una [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|auditoría
 - **Las señales demográficas implícitas son un canal de sesgo menos controlable que los atributos declarados.** [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto y Hovy (2026)]] mantuvieron fija la entrada de cada tarea y variaron solo el contexto demográfico en seis [[llm|LLM]] ajustados por instrucciones y tres tareas educativas, lo que produjo 192.480 llamadas de inferencia, y separaron las señales *explícitas* (atributos declarados del estudiante) de las *implícitas*, transportadas por un historial de [[conversational-ai|conversación]] de diez prompts. En la [[automated-essay-scoring|corrección automática de ensayos]] la mayoría de los modelos resultó comparativamente estable bajo el condicionamiento explícito, mientras que el implícito infló las puntuaciones: Llama-70B puntuó 1,57 puntos por encima de su propio valor por defecto (p < 0,001). En la respuesta a preguntas metalingüísticas, la condición implícita derivó en la dirección opuesta: las respuestas correspondientes a [[education-levels|niveles educativos]] más bajos recibieron un sentimiento menos positivo, con una brecha media de 0,3 entre el nivel educativo más bajo y los más altos en una escala de 0 a 4 frente a una desviación estándar intraelemento de 0,07. La dificultad para la equidad es estructural: la señal no es un atributo declarado que una política pueda prohibir ni un campo de prompt que una auditoría pueda inspeccionar, sino una propiedad de la propia interacción.
 - **La verificación puede redirigir una ganancia hacia el estudiantado más débil.** [[verified-study-materials-learning-gains-2026|Dang y Nguyen (2026)]] encontraron que unos materiales de estudio con IA verificados por personas expertas, en un curso de economía de primer año, se asociaban a una ganancia de 2,34 puntos, pero aproximadamente tres cuartas partes se concentraron en el quintil inferior, y la proporción de notas por debajo del límite del 60% cayó 24,7 puntos: se traslada la carga de la comprobación del estudiantado a una tutoría responsable.
 
+Una segunda revisión de 2026 separa la asistencia de la reducción de disparidades. De 61 estudios de educación superior, 35 abordaron la equidad: la accesibilidad relacionada con la discapacidad en 11, el apoyo lingüístico en 10 y el apoyo específico para grupos nombrados o para estudiantes con menor rendimiento previo en nueve. Esos hallazgos documentan ayuda que llega al estudiantado, no brechas que se cierran. Una encuesta centrada en la dislexia nunca registró los diagnósticos de las personas participantes, y los materiales diferenciados preparados por futuros docentes nunca se probaron con el alumnado para el que fueron diseñados ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido et al., 2026]]).
+
 ## Inclusión lingüística, cultural y de la discapacidad
 
 - **Lengua:** la mayoría de las herramientas de IA priorizan el inglés y marginan al estudiantado [[multilingual-learning|multilingüe]]. [[genai-linguistic-diversity-academic-writing|La diversidad lingüística en la escritura académica]], [[structural-silence-underrepresented-language-ai-2026|las lenguas infrarrepresentadas]] y la investigación sobre [[language-learning|aprendizaje de idiomas]] abordan esta cuestión.
@@ -129,7 +131,7 @@ Una [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|auditoría
 
 ## Poblaciones específicas y equidad global
 
-- **Poblaciones específicas:** la [[inclusive-learning|educación especial]], el [[neurodivergent-computing-students|estudiantado neurodivergente]], el [[dyslexlens-dyslexic-learners-ai|estudiantado con dislexia]] y el [[special-education|estudiantado con discapacidad]] representan grupos cuyas necesidades a menudo se pasan por alto en el diseño de sistemas de IA.
+- **Poblaciones específicas:** la [[special-education|educación especial]], el [[neurodivergent-computing-students|estudiantado neurodivergente]], el [[dyslexlens-dyslexic-learners-ai|estudiantado con dislexia]] y el [[inclusive-learning|estudiantado con discapacidad]] representan grupos cuyas necesidades a menudo se pasan por alto en el diseño de sistemas de IA.
 - **Perspectivas del Sur global:** [[suacode-african-students-motivations|las motivaciones del estudiantado africano]], [[connected-ai-lesson-planning-vietnam|la planificación de clases con IA en Vietnam]] y [[pre-service-science-teachers-ai-perceptions-2026|la aceptación por parte del profesorado de Ghana]] aportan perspectivas del Sur global a menudo ausentes de la investigación occidentalocéntrica en AIED. En el plano institucional, [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] muestran que la integración de la IA en 45 universidades nigerianas está impulsada por la antigüedad y la geografía de la institución y no por el tipo de gobernanza, y que los vínculos de red que se refuerzan mutuamente permiten a las instituciones bien conectadas acumular ventaja: evidencia de que las brechas de equidad se reproducen estructuralmente y no solo a través del acceso individual.
 - **Capacidad global:** La evidencia documenta cómo los beneficios de la IA generativa se distribuyen de forma desigual entre países e instituciones, y [[ai-lifelong-learning-policy|la política de IA y aprendizaje a lo largo de la vida]] aborda los gradientes socioeconómicos estructurales.
 - Una revisión PRISMA de 72 estudios de evaluación en educación superior encontró que la base de evidencia está geográficamente concentrada: Australia y el Reino Unido aportaron 31 de los 72 estudios entre ambos, y no se identificó ningún estudio de Sudamérica ([[higher-ed-assessments-genai-systematic-review|Crompton y Burke (2026)]]).
@@ -177,7 +179,7 @@ La equidad tiene también una dimensión ambiental y computacional: el acceso de
 - [[student-support-and-success]] — a quién llegan los sistemas de apoyo, y los riesgos de actuar sobre una puntuación de riesgo
 
 ## Artículos conectados
-
+- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 35 de 61 estudios abordaron la equidad, pero se documentó la asistencia y no la reducción de las disparidades (Aybar-Bellido et al., 2026)
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Cómo entra el sesgo visual de la IA generativa en la evaluación multimodal, y por qué contraargumentarlo es una competencia del profesorado
 - [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: la renta que se paga en dinero, yo y normas, y las licencias que terminan al graduarse
 - [[verified-study-materials-learning-gains-2026]] — Verificado, no generado: materiales de estudio con IA verificados por personas expertas y la distribución de las ganancias de aprendizaje en un curso universitario

@@ -1,7 +1,7 @@
 ---
 title: Calidad de la retroalimentación de la IA
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-10T19:46:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,7 @@ Una comparación controlada aísla el componente de retroalimentación del siste
 
 - **Retroalimentación para la puntuación de ensayos:** [[cong-confidence-asag-2026|la calificación de respuestas cortas consciente de la confianza]] y [[choi-anchor-aes-prompting-2025|la puntuación automatizada de ensayos basada en anclas]] exploran cómo la calibración de la confianza y el diseño de la [[prompt-engineering|indicación]] afectan la calidad de la retroalimentación en la evaluación de la escritura.
 - **Retroalimentación limitada por la evidencia y adaptativa al riesgo:** [[risk-adaptive-genai-feedback-programming-2026|Wang (2026)]] separa tres funciones que la investigación sobre retroalimentación suele evaluar juntas: predecir qué estado de fallo persistirá, decidir cuándo debe gastarse una capacidad de apoyo limitada y generar retroalimentación cuyas afirmaciones se mantengan dentro de la evidencia registrada. En 2.993 estados de entrega fallida de 215 estudiantes, un modelo de riesgo calibrado seleccionó el 17,8% de los estados de prueba elegibles y capturó el 25,2% de los fallos persistentes observados, y tras una pasada de reparación estandarizada 519 de 544 mensajes generados contenían todos los componentes requeridos. El momento de entrega y el anclaje en evidencia se suman así a la calidad lingüística y a la recuperabilidad como dimensiones con las que hay que juzgar un sistema de retroalimentación.
+- **Nombrar el rasgo débil no es lo mismo que citar el ensayo.** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]] encontró que los comentarios basados solo en la rúbrica identificaban los rasgos débiles correctos (Trait Recall@2 = 0,823) pero no citaban evidencia del ensayo, mientras que añadir un ancla de evidencia mantuvo la recuperación en 0,829 y elevó la tasa de evidencia válida de cero a 0,912.
 
 - **Provisión discrecional de retroalimentación:** [[ai-assistance-discretionary-feedback|la investigación sobre retroalimentación asistida por IA en educación superior]] examina si la IA aumenta la cantidad y la calidad de la retroalimentación que ofrecen los docentes.
 - **La capa relacional resiste la delegación:** entre 21 docentes de educación superior que usaban una herramienta de retroalimentación con IA, 12 reescribieron el texto del modelo, las revisiones se concentraron en el tono y el ánimo (Relación estudiante-docente f = 24), y los docentes con más experiencia señalaron la carga de edición, la confianza y el riesgo de desinformación, mientras que los novatos se plegaron a la herramienta ([[learner-centered-feedback-ai|Aldino et al. (2026)]]).
@@ -135,6 +136,8 @@ El corpus que sostiene esas afirmaciones sobre la calidad es más delgado de lo 
 
 Una respuesta correcta en el primer turno puede ser errónea en el tercero: en 11 modelos, el 12,7% cambió a una respuesta incorrecta bajo presión de la autoridad, de modo que la calidad de la retroalimentación debe puntuarse a lo largo de una interacción y no en la primera respuesta ([[liu-educational-sycophancy-2026|Liu y Korolova, 2026]]).
 
+- **Las ganancias de calidad provienen del apoyo a quien revisa, no de la salida bruta.** Los ayudantes que usaron FeedbackWriter adoptaron el 51,3% de las sugerencias de IA y corrigieron el 11,3% de los juicios de la rúbrica de la IA, y después entregaron comentarios más largos y con una cobertura de rúbrica más amplia; la calidad de la revisión subió d = 0,50 sin ganancia en la prueba posterior ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]]).
+
 ## Concepciones erróneas comunes
 
 - **"A los estudiantes les resulta aceptable la retroalimentación de IA, así que es buena."** **La calidad percibida por los estudiantes es más desigual de lo que sugiere la aceptabilidad**: **77 de 93 estudiantes de grado encontraron fácil de entender la retroalimentación de IA, pero 68 la consideraron repetitiva y 79** encontraron deficiente alguna otra cosa. La comprensión y la insatisfacción coexistieron en la misma cohorte.
@@ -162,6 +165,8 @@ Una respuesta correcta en el primer turno puede ser errónea en el tercero: en 1
 
 ## Artículos conectados
 
+- [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — Apoyo a quien revisa: los ayudantes adoptaron el 51,3% de las sugerencias de IA y corrigieron el 11,3% de los juicios (Lu et al. 2026)
+- [[xin-auditable-automated-essay-scoring-2026]] — Nombrar el rasgo débil no es citar el ensayo: las anclas de evidencia elevaron la evidencia válida de cero a 0,912 (Xin 2026)
 - [[mihaylova-llm-feedback-live-programming-course-2026]] — las pistas más largas de LLM predijeron peores resultados inmediatos; el formato cambió menos intentos por un reenvío más lento
 - [[wu-lam-genai-writing-assessment-professors-2026]] — profesores sobre la calidad de la retroalimentación de IA: elogiosa por defecto, larga, vaga y lenta de refinar
 - [[genai-l2-written-feedback-scoping-review-2026]] — solo 27 de 51 estudios informaron sus indicaciones; 16 experimentos carecían de grupo de control

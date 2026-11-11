@@ -1,7 +1,7 @@
 ---
 title: Sostenibilidad
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-10T21:15:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -97,6 +97,7 @@ La sostenibilidad y la IA en la educación se sitúan en la intersección de la 
 
 ## Artículos conectados
 
+- [[lim-ai-wearables-environmental-empathy-2024]] — EDA portátil más imágenes de contaminación generadas por IA elevaron la activación, sin medir la custodia ambiental (Lim et al., 2024)
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — Estudio sueco de encuesta y grupos focales que sostiene que la ética de la colaboración, y no el marco de la trampa, debería guiar las decisiones institucionales sobre IA generativa
 - [[daniel-ai-sustainability-scoping-review-2026]] — Revisión de alcance de la IA para la sostenibilidad y la IA sostenible en la educación superior
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Enfoque crítico con los valores sobre la educación sostenible y la IA

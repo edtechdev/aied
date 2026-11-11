@@ -1,7 +1,7 @@
 ---
 title: Interacción entre el estudiantado y la IA
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-11-05T17:02:43-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-10T18:55:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,8 @@ Los prompts escritos por el docente son una de esas palancas, pero el rigor efec
 La no utilización es en sí misma un patrón de interacción que la [[pedagogy|pedagogía]] debe prever. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]], al estudiar a 85 [[teacher-education|futuros docentes]] en tres cursos donde el uso de IA generativa en la [[assessment|evaluación]] estaba explícitamente permitido, encontraron que el 62,4% (53 de 85) optó por no usarla en absoluto, muy por debajo del 79–83% de adopción observado en encuestas comparables del Reino Unido y Australia, y que el uso de quienes la adoptaron era superficial y correctivo más que generativo (corrección de pruebas 43,8%, comprobaciones de claridad 34,4%, generación de texto solo 18,8%). Sus decisiones seguían el diseño de la evaluación y la cultura institucional más que la dificultad técnica: el 41,5% de quienes no la adoptaron temía ser acusado injustamente de [[academic-integrity|plagio]], y nueve de los once entrevistados interpretaron la propia política permisiva como una posible «trampa». La brecha entre los 32 usuarios que declaró la encuesta y las 28 autodeclaraciones muestra que la interacción con la IA que el estudiantado *reporta* está modelada por las consecuencias de la calificación: una advertencia de medición para los relatos de la analítica del aprendizaje sobre la interacción entre el estudiantado y la IA.
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang y Guo (2026)]] documentan qué aporta el diálogo abierto con IA generativa en la revisión entre pares: el estudiantado que interrogó al modelo en lugar de aceptar su primera sugerencia produjo retroalimentación que sus pares valoraron mejor, y declaró más disfrute de la tarea y menos [[anxiety-and-stress|ansiedad]].
+
+La ansiedad que el diálogo alivia puede ser social y no técnica: entre 596 estudiantes egipcios de inglés como lengua extranjera y ocho entrevistas, el estudiantado describió que preguntaba repetidamente a la herramienta porque «no hay presión y nadie juzga» ([[alshammari-interactive-ai-efl-tam-2026|Alshammari y Abdelaty (2026)]]).
 
 ## Disciplina e implicación cognitiva en el chat entre el estudiantado y la IA
 
