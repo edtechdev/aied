@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-09T10:25:00-05:00"
+updated: "2026-11-10T22:35:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -115,6 +115,8 @@ A design-based counterexample treats competency as situational rather than a run
 
 - **Values lag skills in a domain-specific program too.** In a year-long Hong Kong program with 30 English teachers, knowledge of [[multimodal]] assessment strategies rose from 3.13 to 4.15 out of 5 (partial η² = 0.571) and competence in supporting students from 3.05 to 3.98 (0.482), both significant, while every value subdomain stayed statistically flat under a Bonferroni-corrected alpha of .006. The teachers attributed the gains to in-school co-planning and cross-school cluster meetings rather than the workshops alone ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
 
+- **AI plans are a baseline, and mediation is the competency.** Twenty-six beginning teachers revising AI-generated lesson plans rewrote tasks, added modeling and language supports, clarified objectives and rebuilt sequencing around classroom logistics, describing their role as reviewing and customizing rather than accepting output ([[wilcoxen-steiner-bell-ai-lesson-planning-2026]]).
+
 - **Microlearning can develop university teachers' AI competence.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]] refined two [[vocational-education]] modules across two online group discussions into five design principles — clear structure and orientation, guidance and navigation support, segmentation and modularization, multimodal presentation, and learner activation — and found platform navigation and locating modules the main practical barriers.
 - **Intention to adopt runs on need satisfaction.** In a structural model of 146 teachers, competence need satisfaction predicted intention to use GenAI through [[motivation|intrinsic motivation]] and engagement in professional development (indirect 0.233), while autonomy and relatedness satisfaction did not ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al., 2026]]).
 
@@ -166,6 +168,8 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+
+- [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 beginning teachers revised AI lesson plans; adaptation was the largest gap (Wilcoxen et al. 2026)
 - [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Chemistry teachers’ research competence following AI-supported professional development: a mixed-methods pre–post study
 - [[walkington-teacher-in-loop-personalized-tasks-2026]] — Teacher-in-the-loop personalization of middle school mathematics tasks with ChatGPT (Walkington et al. 2026)
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Which teachers gained planning time: lower subject-knowledge confidence, lower pedagogical knowledge, newer to the profession or high technology confidence

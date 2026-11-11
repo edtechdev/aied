@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-10T21:00:00-05:00"
+updated: "2026-11-10T22:35:00-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -143,6 +143,9 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 
 - **"A single kappa is the case for a grader."** It is one check, and a benchmark of **22 prompted models** on three public corpora shows why. Every model met probes whose right answer is known: a polite request for full marks, a forged grading instruction, a blank answer, a nonsense word, a bare objection. **Fourteen** were flagged for gaining more than **5% of the scale** from a note, up to **83.2%** on code, and **seven** credited blank or meaningless answers, so [[porcaro-ai-grading-benchmark-2026|the agreement figure and the failure tests have to be read together]]. A deployed grading system has one more input to test: sharing a [[student-modeling|learner model]]'s estimate with the grader shifted marks by **0.28 to 0.75 points** on identical work, and [[porcaro-ai-grader-reliability-2026|the ablation that found it]] left rater agreement almost unchanged.
 
+
+- **Tagging agreement depends on the framework.** Against faculty tags on 62 pharmacy questions, an AI curricular-mapping tool reached kappa 0.69 for disease states and 0.57 for Bloom's, but only 0.24 for COEPA subdomains, and the comparison allowed faculty multiple tags against the tool's single choice ([[stewart-tag-question-categorization-competency-2026]]).
+
 ## Common Misconceptions
 
 - **"An automated score is a single reliable number."** A practical computer vision exam (**570 dual-graded students**) was graded under **171 configurations**, and a second machine-learning exam under further ones — the configuration drove the score. A grade presented as a number conceals the configuration that produced it.
@@ -176,6 +179,8 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+
+- [[stewart-tag-question-categorization-competency-2026]] — AI curricular tagging: kappa 0.69 on disease states, 0.57 on Bloom's, 0.24 on COEPA subdomains (Stewart et al. 2026)
 - [[zhao-ai-supported-grading-rubric-refinement-2026]] — AI–instructor disagreement as a rubric-development signal in PrairieLearn (Zhao et al. 2026)
 - [[roy-premise-rubrics-llm-judges-2026]] — Rubric wording as attack surface: 46.4% of verified exploits scored high, cut to 36.0% by rubric refinement (Roy et al. 2026)
 - [[llm-structured-assessment-diagnostic-quality-2026]] — LLM rubric sub-dimensions are near-redundant and feedback rarely names misconceptions (Zhao et al. 2026)

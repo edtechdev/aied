@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-10T20:10:00-05:00"
+updated: "2026-11-10T22:35:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -125,6 +125,8 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 
 - **"Agreement detects a biased grader."** It did not in a within-item ablation. Adding only a true or swapped attainment label to the prompt moved marks by **0.28 to 0.75 points** on a ten-point scale on every model tested, while a true label raised QWK by just **0.029 to 0.046**. A rescaling fitted without the label matched that gain. [[porcaro-ai-grader-reliability-2026|Invariance has to be reported beside agreement]], because a grader can score closer to the teacher while reading the student rather than the work.
 
+- **Evidence sufficiency, not artifact purity, is the validity question.** [[bayraktar-beyond-ai-proofing-assessment-validity-2026|Bayraktar (2026)]] argues that when AI can produce a plausible artifact, the polished product no longer warrants a claim about learning; her framework adds judgment-centered tasks, process evidence, metacognitive explanation and feedback response to the evidentiary base. It is a design heuristic, not a tested intervention.
+
 ## Common Misconceptions
 
 - **"LLM grading bias is a reason to abandon it."** In a **large-scale national writing assessment**, an LLM scorer showed a **systematic conservative (under-grading) bias** — problematic as a final mark and potentially **useful as a screening** signal. A bias with a known direction is a different instrument from an unpredictable one.
@@ -153,6 +155,8 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - [[assessment]]
 
 ## Connected Articles
+
+- [[bayraktar-beyond-ai-proofing-assessment-validity-2026]] — Beyond AI-proofing: evidence sufficiency rather than artifact purity as the validity question (Bayraktar 2026)
 - [[roy-premise-rubrics-llm-judges-2026]] — Agreement is not robustness: rubric-conditioned judges can agree while their rubrics remain exploitable (Roy et al. 2026)
 - [[ansari-policing-provenance-designing-for-evidence-2026]] — From policing provenance to designing for evidence: four propositions tested against research and policy (Ansari 2026)
 

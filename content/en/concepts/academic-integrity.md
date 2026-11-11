@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-09T10:25:00-05:00"
+updated: "2026-11-10T22:35:00-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -171,6 +171,8 @@ The first Theory of Planned Behavior study of GAIT-based misconduct intention ex
 
 Across 546 undergraduates, integrity ranked first among five perception dimensions (3.79 of 5) and did not differ by degree program, locating disciplinary variation in AI use and skill demand rather than in how much integrity matters ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
 
+- **Accountability, not authorship, as the integrity criterion.** [[bayraktar-beyond-ai-proofing-assessment-validity-2026|Bayraktar (2026)]] separates the governance function of integrity policy from the pedagogical function of assessment: policy defines permitted assistance, while assessment must still establish whether the student can demonstrate the intended learning, which she reframes as intellectual accountability for the decisions embodied in the work.
+
 ## Common Misconceptions
 
 - **"Detection tools identify AI writing."** AI-generated text has **passed as human-authored in up to 80% of cases**, while the evidence for detection puts **machine detection at about 80% against 78.4% for human raters**. Human and machine judgment are almost equally (un)reliable, so a detection verdict is not evidence of authorship.
@@ -203,7 +205,7 @@ Across 546 undergraduates, integrity ranked first among five perception dimensio
 
 ## Connected Articles
 
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Four UNESCO and OECD documents read as discourse: floating signifiers, non-performativity and a changing cheating habitus
+- [[bayraktar-beyond-ai-proofing-assessment-validity-2026]] — Integrity as intellectual accountability for decisions, not proof of unassisted authorship (Bayraktar 2026)- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Four UNESCO and OECD documents read as discourse: floating signifiers, non-performativity and a changing cheating habitus
 - [[ivory-psychology-assessment-integrity-2026]] — A whole psychology program passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Student teachers declined GenAI under a permissive policy; "trap" framing and survey–declaration gap
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space

@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-10T22:35:00-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -133,6 +133,8 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 
 **Feedback can be built from the process rather than the product.** In [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] one arm received personalized [[visualization|visualizations]] of its own keystroke and screen activity with structured reflection, while the other received written instructor comments on accuracy, clarity and editorial quality. The process arm gained 5.64 points on a blind 0-100 editorial rating against 1.91 for the product arm, with a Group by Time interaction (F(1, 20) = 4.94, p = 0.038, partial eta squared 0.198) and the control arm's own gain not significant (p = 0.123). Eleven students per arm means the direction is the finding, not the size.
 
+- **Demand for AI feedback can measure scarcity, not preference.** In an Honors course on grading, students welcomed AI-generated feedback mainly because they had received so little instructor feedback, not because they judged it better, and they wanted it bounded by instructor judgment ([[guberman-control-or-support-grading-2026|Guberman, 2026]]).
+
 ## Common Misconceptions
 
 - **"Students cannot tell AI feedback from human feedback."** They can, and the label changes the judgment: **once the label was revealed, ratings of the AI variant fell and of the human variant rose — significantly for Genuineness (p < .01)**. Provider credibility shaped the evaluation of identical-style feedback.
@@ -160,6 +162,8 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[reflection]]
 
 ## Connected Articles
+
+- [[guberman-control-or-support-grading-2026]] — Students welcomed AI feedback because feedback was scarce, not because it was better (Guberman 2026)
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Agent feedback that repeated itself across revisions (Humburg et al. 2025)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space

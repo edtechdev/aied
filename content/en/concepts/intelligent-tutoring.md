@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic, learnharness, ai-tutor-pro-teaching-assistant-pro]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-09T06:46:53-05:00"
+updated: "2026-11-10T22:35:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -160,6 +160,10 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 
 - **Teachable agents and the classification of disengaged dialogue:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] ran a GPT-4-Turbo teachable agent inside Math Nation (Algebra and Geometry), where students identified which of two worked solutions contained a misconception, justified the correction, and taught the agent — a [[learning-by-teaching]] structure with a separate mentor agent scoring explanation quality. Over 6,933 problems opened and 22,143 interactions logged, they built a six-category conversational-disengagement classifier (human-in-the-loop: 1,682 annotated utterances, fine-tuned LLaMA 3, weighted F1 = 0.910, model-vs-human κ = 0.624) and used it to study 246 middle-school students. The methodological contribution is as important as the finding: when a classifier labels most of the corpus, prevalence results must be stress-tested against the human-annotated subset — and here the headline association (False Answering and Mocking predicting higher post-test) evaporated under exactly that test.
 
+
+- **A course-specific Socratic assistant produced small perception gains.** Across 4,587 end-of-course surveys, students who used Spark rated support and clarity slightly higher than non-users (Cliff's delta 0.041 and 0.079), with no difference in comment sentiment, which the authors read as consistent with an MKO role rather than evidence of learning ([[west-spark-support-clarity-asynchronous-2026]]).
+- **Design rationale as a trust claim.** [[owston-ai-tutor-pro-pedagogy-privacy-trust-2026|Owston (2026)]] separates retrieval practice, guided dialogue and voice conversation into three modes, and argues that anonymity, OpenStax-restricted answers and Wolfram Alpha verification are what make a free study tool recommendable; the article reports adoption examples but no learning outcomes.
+
 ## Common Misconceptions
 
 **"A stronger model makes a better tutor."** Effectiveness hinges on pedagogical design — [[scaffolding]], feedback quality and the balance of autonomy and guidance — rather than on the underlying model. The clearest demonstration is the Apprentice Tutor College Algebra ITS: supplying GPT-4 with the tutor's *interface structure* and Bayesian [[knowledge-tracing]] skill estimates produced gains that the bare model did not, because the knowledge of how to teach lived in the system around the model.
@@ -193,6 +197,9 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[speech-and-voice-technologies]]
 
 ## Connected Articles
+
+- [[west-spark-support-clarity-asynchronous-2026]] — Spark users reported slightly higher support and clarity across 4,587 surveys, a small effect (West et al. 2026)
+- [[owston-ai-tutor-pro-pedagogy-privacy-trust-2026]] — AI Tutor Pro's three study modes, anonymity model and source-restricted answers (Owston 2026)
 - [[leite-its-k12-meta-analysis-2025]] — U.S. K-12 meta-analysis: 18 experiments, g = 0.271, and what moderates it (Leite et al. 2025)
 - [[learnlm-eedi-expanded-rct-2026]] — Expanded UK RCT: near-transfer gains but no standardized-test advantage at 10 weeks (LearnLM Team, Google & Eedi 2026)
 - [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: revealing responsiveness gaps of LLM tutors on multiple-solution programming problems (Cen & Sonkar 2026)

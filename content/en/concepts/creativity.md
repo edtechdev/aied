@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-06T09:20:00-05:00"
+updated: "2026-11-10T22:35:00-05:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -64,6 +64,8 @@ Creativity is not a single monolithic faculty — it is realized differently in 
 
 - **A GenAI design workflow can lower creative confidence while performance holds.** In a 36-student architectural-design comparison, GenAI image generation matched precedent search on design performance, cognitive load and task-specific creative self-efficacy, yet *general* creative self-efficacy fell (DiD = −0.543, 95% CI [−1.068, −0.017]) — task support and confidence in one's own creativity can move apart ([[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao et al. (2026)]]).
 
+- **Visual storytelling as a bridge from imitation to design.** In a bio-inspired design course, 20 students used AI image tools to turn biological source material into visual stories; analysis of five works found that narrative rather than image polish carried the biological idea, and that students chose visual style for meaning ([[malkani-paul-ai-steam-visual-storytelling-2026]]).
+
 ### Putting creativity into practice
 
 The recurring design principle across these findings is to **keep the learner's own generative act in the loop** — whether that act is producing an idea, iterating an artifact, or extending a found example — and to use AI as a divergent-thinking partner that challenges and expands rather than replaces it.
@@ -100,6 +102,8 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[arts-design-and-media-education]]
 
 ## Connected Articles
+
+- [[malkani-paul-ai-steam-visual-storytelling-2026]] — AI visual storytelling moved design students from imitating nature toward user-centered scenarios (Malkani & Paul 2026)
 - [[wei-genai-configurations-creative-phases-2026]] — Generative AI configurations across creative phases: a 2 × 2 experiment on creative performance and immediate knowledge in art and design education
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — GenAI image generation left design performance unchanged but lowered general creative self-efficacy
 - [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge

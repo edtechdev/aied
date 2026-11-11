@@ -1,7 +1,7 @@
 ---
 title: Business Education
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-11-07T13:45:00-05:00"
+updated: "2026-11-10T22:35:00-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -35,6 +35,7 @@ AI in business education is a growing [[discipline-specific-aied|discipline-spec
 - **Student insights on curricula.** [[rook-plumb-genai-curricula-student-insights-2026|Rook & Plumb (2026)]] drew on 166 undergraduate business students in a capstone unit, finding strong support for integrating GenAI into curricula with three priority areas: understanding/optimizing GenAI functionality, exploring applications across contexts, and navigating ethical/legal dimensions.
 
 - **From memorization to judgment under ambiguity.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] propose three generative-AI mechanisms for management courses — decomposing classic theories into assumptions and boundary conditions against real filings, tracking emerging cases between textbook editions, and a simulation whose AI role generates disruptive events and cascading consequences.
+- **Practical wisdom as the organizing aim.** [[heron-meekins-phronesis-hermeneutic-business-ai-2026|Heron and Meekins (2026)]] argue that AI intensifies business education's habit of treating information production as evidence of understanding, and propose REVEAL — research, examine, viewpoint, engage, align, learn — as a hermeneutic heuristic that keeps judgment and accountability with the learner while treating AI as a provisional interlocutor.
 - **Organizational adoption.** [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi (2026)]] examined organizational and technological drivers of AI adoption in [[higher-ed|higher education]] (using TOE + Diffusion of Innovations frameworks, n=300 staff), relevant to how business schools and their institutions adopt AI-driven decision support and smart learning platforms.
 - **Conversational agents in business [[simulation]] games.** [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger, and Liening (2026)]] develop and evaluate an AI-enhanced [[conversational-ai|conversational agent]] (Lara) for adaptive instructional support in business simulation games used for experiential entrepreneurial learning. Grounded in an [[equity-in-ai-education|equity]]-by-design stance and [[universal-design-for-learning|universal design for learning]], the CAIS-GBL framework targets cognitive, [[motivation|motivational]], [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] [[student-engagement|engagement]], with evaluations among student teachers and BSG participants showing positive perceptions of cognitive/[[community-of-inquiry|social presence]] and [[self-regulated-learning]] support — a model for scaling [[formative-assessment|formative]] feedback in [[game-based-learning|simulation-based]] business education.
 - **Agentic GAI for complex applied tasks.** [[ilieva-agentic-genai-higher-education-2026|Ilieva et al. (2026)]] develop the AGAI-HE framework around an **e-commerce** course, where the learning task requires comparing business models, weighing market and operational constraints, and defending strategic recommendations — multi-step applied work that prompt-response chatbots support poorly. Their 130-student perception study found both chatbot and agent support rated above traditional [[online-teaching-and-learning|e-learning]] on learning enhancement, personalization, decision-making support, and workflow organization, yet no significant agent-versus-chatbot difference, and the strongest endorsement went to combining all three modes. For business programs the reading is that adoption is an [[curriculum-design|instructional-design]] question about how AI support is sequenced and governed, not simply a tooling upgrade ([[agentic-ai]]).
@@ -85,6 +86,8 @@ Case studies and simulations are the teaching formats closest to this literature
 - [[stem-education]]
 
 ## Connected Articles
+
+- [[heron-meekins-phronesis-hermeneutic-business-ai-2026]] — REVEAL: a hermeneutic heuristic for practical wisdom in business education (Heron & Meekins 2026)
 - [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
 - [[csaszar-ai-management-education-2026]] — The effects of AI on management education: a value-based strategy analysis (Csaszar et al. 2026)
 
