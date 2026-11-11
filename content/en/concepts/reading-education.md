@@ -27,8 +27,8 @@ ai_assist:
 - When an AI tool helps a student understand a passage, what has the student learned — the content, a reading strategy, or how to ask the tool for the answer? Which of those do you want to assess?
 - Readability formulas count words and sentence lengths. What does that miss about a reader's experience of a text, and what would you measure instead?
 - If AI can rewrite any text to a student's reading level, does the level itself stop mattering — or does the student still need to meet hard text eventually?
-- Who benefits when reading assessment is generated automatically: the teacher's workload, the student's motivation, or the validity of the score? Can all three improve at once?
-- Reading difficulty is also an accessibility issue. How should tools for struggling readers, multilingual learners and neurodivergent students differ from a general-purpose reading assistant?
+- Who benefits when reading assessment is generated automatically: the [[teacher-role|teacher]]'s workload, the student's motivation, or the validity of the score? Can all three improve at once?
+- Reading difficulty is also an accessibility issue. How should tools for struggling readers, [[multilingual-learning|multilingual learners]] and neurodivergent students differ from a general-purpose reading assistant?
 
 ## Introduction
 
@@ -37,7 +37,7 @@ Reading education in the knowledge base is a young strand. Most studies are smal
 Four lines of work appear:
 
 - **Supporting the reader** while reading, including motivational and companion tools.
-- **Assessing reading**, through generated passages, quizzes and AI feedback on reading work.
+- **Assessing reading**, through generated passages, quizzes and [[ai-feedback-quality|AI feedback]] on reading work.
 - **Adapting and generating text** at a target level, from simplification to differentiated materials.
 - **Measuring readability and text difficulty**, the layer the other three depend on.
 
@@ -45,7 +45,7 @@ Four lines of work appear:
 
 Reading with [[generative-ai|generative AI]] produces inconsistent comprehension results — gains in one study, no [[transfer-of-learning|knowledge transfer]] in another — and the AIR instrument was built on the hypothesis that the variance lies in why readers reach for the tool. Brann, Etgar and Sidi developed and validated a 21-item scale with four motives: Task-oriented, Feel-good, Translation, and Low-effort ([[air-scale-motivations-ai-reading-2026|Brann et al., 2026]]). Their evidence comes from 425 British higher-education students in the exploratory sample and 414 in the confirmatory one, with fit indices at CFI .95 and RMSEA .056. The distinction matters for practice: a reader using the tool to finish a task is in a different posture from one using it to avoid effort, and Low-effort is the motive the authors flag as the one to watch for shallow processing.
 
-That is a measurement result, not an outcome study, and the page keeps the distinction. What the knowledge base does not yet contain is a controlled trial of a reading companion showing durable comprehension gains.
+That is a measurement result, not an outcome study, and the page keeps the distinction. What the knowledge base does not yet contain is a [[rct|controlled trial]] of a reading companion showing durable comprehension gains.
 
 ## Assessing Reading
 
@@ -67,7 +67,7 @@ Target-audience perception is now measurable directly. [[thome-perceived-text-co
 
 The largest cluster of studies generates or rewrites text for a reader. Three approaches differ in what they control:
 
-- **Level-controlled generation.** Fine-tuning three 8B models on an expert-designed children's reading curriculum and stories from GPT-4o and Llama 3.3 70B outperformed both larger zero-shot models on difficulty-related metrics, with negligible safety issues ([[llm-children-reading-story-generation|Li et al., 2026]]).
+- **Level-controlled generation.** [[llm-training-and-fine-tuning|Fine-tuning]] three 8B models on an expert-designed children's reading [[curriculum-design|curriculum]] and stories from GPT-4o and Llama 3.3 70B outperformed both larger zero-shot models on difficulty-related metrics, with negligible safety issues ([[llm-children-reading-story-generation|Li et al., 2026]]).
 - **Differentiated materials.** A role-prompted GenAI workflow for [[english-education|EAP]] reading materials improved outcomes mainly by adding proficiency-specific support layers — glosses, sentence unpacking, rhetorical cues, critical prompts — rather than by changing passage-level complexity, with the largest effect among high-proficiency learners (d = 1.40) ([[genai-differentiated-eap-reading-materials-2026|Gao, 2026]]).
 - **Tailored course readings.** A graduate course replaced its textbook with on-demand readings tailored to interest and comprehension level; 24 students rated them useful and 75% agreed they learned more, while the artifact analysis found missing traceability and inconsistent citation ([[sidorkin-ai-generated-course-readings-2026|Sidorkin, 2026]]).
 
@@ -75,9 +75,9 @@ Simplification is the fourth variant, and its bottleneck is evaluation rather th
 
 ## Readers, Interfaces and Access
 
-Reading is also an access question. AIRRI renders assignment material as perturbed images to defeat screenshot-to-LLM pipelines, and its authors report the readability cost honestly: stripe overlays were judged readable by all four design and typography experts interviewed, while extraction error reached 100% ([[airri-machine-resistant-reading-interface-2026|Airri et al., 2026]]). The trade-off between machine-readability and human readability is a design decision with an accessibility price.
+Reading is also an access question. AIRRI renders assignment material as perturbed images to defeat screenshot-to-[[llm]] pipelines, and its authors report the readability cost honestly: stripe overlays were judged readable by all four design and typography experts interviewed, while extraction error reached 100% ([[airri-machine-resistant-reading-interface-2026|Airri et al., 2026]]). The trade-off between machine-readability and human readability is a design decision with an accessibility price.
 
-For learners with dyslexia, a PRISMA-guided review of 72 studies from 2018 to 2024 finds AI used for detection, [[assistive-technology|assistive support]] and [[personalized-learning|personalized learning]], but with a fragmented evidence base and little experimental validation; generative AI is minimally represented ([[dabaghi-ai-dyslexia-education-review-2026|Dabaghi et al., 2026]]). Reading difficulty is where [[neurodiversity]] and [[accessibility]] meet the general reading agenda, and the page does not treat them as a separate topic.
+For learners with dyslexia, a [[meta-analysis-systematic-review|PRISMA]]-guided review of 72 studies from 2018 to 2024 finds AI used for detection, [[assistive-technology|assistive support]] and [[personalized-learning|personalized learning]], but with a fragmented evidence base and little experimental validation; generative AI is minimally represented ([[dabaghi-ai-dyslexia-education-review-2026|Dabaghi et al., 2026]]). Reading difficulty is where [[neurodiversity]] and [[accessibility]] meet the general reading agenda, and the page does not treat them as a separate topic.
 
 ## What the Evidence Does and Does Not Show
 

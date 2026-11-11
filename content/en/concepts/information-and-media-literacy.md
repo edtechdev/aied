@@ -25,9 +25,9 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - When a chatbot returns a confident paragraph with three citations, is the student exercising information literacy, media literacy, or neither — and does the assignment make that distinction visible?
-- Deepfakes and fabricated citations are different failures: one is a false record of the world, the other a false record of the literature. Can one course teach both without teaching each badly?
-- AI detectors and fact-checkers are themselves models with error rates. What happens to a verification curriculum when the verification tool is probabilistic?
-- Media literacy has been taught through production — students make media to understand it. If a model now makes the artifact, what part of the pedagogy survives?
+- [[ai-avatars-and-synthetic-instructors|Deepfakes]] and fabricated citations are different failures: one is a false record of the world, the other a false record of the literature. Can one course teach both without teaching each badly?
+- AI detectors and fact-checkers are themselves models with error rates. What happens to a verification [[curriculum-design|curriculum]] when the verification tool is probabilistic?
+- Media literacy has been taught through production — students make media to understand it. If a model now makes the artifact, what part of the [[pedagogy]] survives?
 
 ## Introduction
 
@@ -41,7 +41,7 @@ This page covers the pair because the corpus treats them as one instructional pr
 
 Information literacy's object is the source, and its core question is whether the claim is true and the evidence behind it credible. Media literacy's object is the message, and its core question is who made it, how, for whom and to what end. A fabricated citation fails the first test; a deepfake may pass every factual check a student knows how to run while failing the second.
 
-The empirical literatures reflect the split. A survey of 236 US university students asked where academic searches begin and found search engines at 45.5%, the library homepage at 27.9% and an AI chatbot at 26.6%, with international students substituting AI for library resources at roughly double the domestic rate ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). A systematic review of 32 studies found AI literacy integration in information-literacy instruction at an "infancy stage," delivered through LibGuides and workshops rather than curriculum ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza and Arif, 2026]]). On the media side, interviews with seven experts and a survey of 141 students found technology inclusion in the critical media literacy curriculum "limited and often superficial," with teachers under-trained for tools that produce disinformation and deepfakes ([[critical-media-literacy-education-2026|the critical media literacy study, 2026]]).
+The empirical literatures reflect the split. A survey of 236 US university students asked where academic searches begin and found search engines at 45.5%, the library homepage at 27.9% and an AI chatbot at 26.6%, with international students substituting AI for library resources at roughly double the domestic rate ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). A [[meta-analysis-systematic-review|systematic review]] of 32 studies found [[ai-literacy|AI literacy]] integration in information-literacy instruction at an "infancy stage," delivered through LibGuides and workshops rather than curriculum ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza and Arif, 2026]]). On the media side, interviews with seven experts and a survey of 141 students found technology inclusion in the critical media literacy curriculum "limited and often superficial," with teachers under-trained for tools that produce disinformation and deepfakes ([[critical-media-literacy-education-2026|the critical media literacy study, 2026]]).
 
 ## How AI complicates information literacy
 
@@ -55,15 +55,15 @@ The third is capacity. In a survey of 412 academic librarians across 38 Nigerian
 
 Media literacy's founding questions assumed a maker with a purpose. Deepfakes, voice cloning and automated bots break that assumption in three ways: the artifact may have no human author, the audience may be synthetic, and the intent may be optimization for engagement rather than persuasion by anyone.
 
-The curriculum evidence suggests schools have not caught up. The expert interviews describe teacher training as the binding constraint rather than student resistance, and argue for a [[critical-pedagogy]] framing that treats evaluation as ethical and participatory practice instead of tool training. A commissioned report for public service media found provision for 14–19-year-olds tilting toward functional AI skills and away from critical evaluation, despite reviewing more than 40 frameworks and interviewing 35 experts ([[ai-literacies-young-adults-2025|the AI literacies report, 2025]]).
+The curriculum evidence suggests schools have not caught up. The expert interviews describe [[teacher-education|teacher training]] as the binding constraint rather than student resistance, and argue for a [[critical-pedagogy]] framing that treats evaluation as ethical and participatory practice instead of tool training. A commissioned report for public service media found provision for 14–19-year-olds tilting toward functional AI skills and away from critical evaluation, despite reviewing more than 40 frameworks and interviewing 35 experts ([[ai-literacies-young-adults-2025|the AI literacies report, 2025]]).
 
 ## AI as a defensive tool — claims and caveats
 
-The case for using AI on the defensive side is plausible and widely made: automated credibility checks that scan a source's history and language for bias signals, deepfake detectors, metadata analyzers that look for provenance markers, and simulations that let students practice evaluation on realistic synthetic material. These capabilities are real products, and the classroom use is real practice.
+The case for using AI on the defensive side is plausible and widely made: automated credibility checks that scan a source's history and language for bias signals, deepfake detectors, metadata analyzers that look for provenance markers, and [[simulation|simulations]] that let students practice evaluation on realistic synthetic material. These capabilities are real products, and the classroom use is real practice.
 
 The evidence is thinner than the claims. Detectors are probabilistic and degrade as generators improve; a fact-checking model is itself a model, so the student still has to judge the checker; and provenance metadata only helps when a producer chooses to attach it. One of the corpus's firmest results is that AI-supported media literacy instruction can work at small scale: an 18-hour program built on the 5E model produced large gains among 36 fourth-grade students in one Turkish school ([[demir-akar-ai-media-literacy-children-2026|Demir and Akar, 2026]]). Thirty-six students is a proof of concept, not a procurement case.
 
-A library-sector opinion piece pushes the same idea further: AI could carry information-literacy *delivery* through retrieval, adaptive tutorials, chatbots and automated fact-checking, with [[librarians|librarians]] rather than vendors owning the integration ([[offem-ai-information-literacy-library-users-2026|Offem and Arikpo, 2026]]). The paper reports no data, so it is a design brief for where instruction might live rather than evidence that it works.
+A library-sector opinion piece pushes the same idea further: AI could carry information-literacy *delivery* through retrieval, adaptive tutorials, [[conversational-ai|chatbots]] and automated fact-checking, with [[librarians|librarians]] rather than vendors owning the integration ([[offem-ai-information-literacy-library-users-2026|Offem and Arikpo, 2026]]). The paper reports no data, so it is a design brief for where instruction might live rather than evidence that it works.
 
 Read together, the two sides of the ledger suggest a rule: AI can carry the *practice* load — realistic scenarios, immediate feedback, scale — but the *judgment* load stays with the learner, and any tool that claims to replace it should be evaluated as a detector with a measured error rate, not adopted as an answer key.
 
@@ -77,7 +77,7 @@ Read together, the two sides of the ledger suggest a rule: AI can carry the *pra
 
 ## Limitations of the evidence
 
-Most studies here are small, self-reported or both: 236 students in one survey, 36 children in one intervention, 412 librarians rating themselves. Bibliometric visibility is not practice, and the scientometric authors say so explicitly. No study in the corpus evaluates a combined information-and-media-literacy curriculum, and the detector and fact-checking tools the practice literature recommends are largely unmeasured in these sources. The claim that AI-powered verification improves outcomes should be treated as a design hypothesis until someone tests it against a control.
+Most studies here are small, [[self-report-measures|self-reported]] or both: 236 students in one survey, 36 children in one intervention, 412 librarians rating themselves. Bibliometric visibility is not practice, and the scientometric authors say so explicitly. No study in the corpus evaluates a combined information-and-media-literacy curriculum, and the detector and fact-checking tools the practice literature recommends are largely unmeasured in these sources. The claim that AI-powered verification improves outcomes should be treated as a design hypothesis until someone tests it against a control.
 
 ## Connected Concepts
 

@@ -1,9 +1,9 @@
 ---
 title: "EduPrompts"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-11-10T23:55:00-05:00"
+updated: "2026-11-11T00:15:00-05:00"
 type: resource
-summary: "« Une bibliothèque croissante de « Gems » Google Gemini prêts à l'emploi — des invites partageables préécrites pour la planification, le retour, les formulaires, les images et la réflexion sur l'usage de l'IA. »"
+summary: "La bibliothèque gratuite et croissante d'Eric Curts : plus de 160 invites d'IA prêtes à l'emploi pour les écoles, classées par tâche pédagogique et en transition des Gemini Gems vers les Gemini Skills."
 url: https://www.eduprompts.ai/
 author: "Eric Curts"
 author_url: https://www.controlaltachieve.com/
@@ -18,29 +18,38 @@ audience: [instructors, curriculum designers, learners]
 confidence: high
 connected_resources: [teacherserver, id-toolbox]
 translation_of: resources/eduprompts
-source_updated: "2026-11-10T23:55:00-05:00"
-translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
+translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
+source_updated: "2026-11-11T00:15:00-05:00"
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
+  - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
-    date: "2026-10-10"
+    date: "2026-11-11"
     agent: hermes-agent
 ---
 
-*Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
+*Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-**EduPrompts** est une collection d'[[prompt-engineering|invites]] préécrites — des « Gems » — destinées aux enseignants qui utilisent Google Gemini. Chaque entité a sa propre page avec une description et des boutons pour utiliser le Gem ou en faire sa propre copie, si bien qu'un enseignant peut lancer une invite fonctionnelle dans Gemini sans la rédiger à partir de zéro.
+**EduPrompts** est la bibliothèque gratuite et croissante d'Eric Curts : plus de 160 [[prompt-engineering|invites d'IA]] prêtes à l'emploi pour les écoles, chacune écrite pour une tâche pédagogique précise et publiée sur sa propre page. Elle s'appelait EduGems jusqu'en novembre 2026 et occupe encore en partie les anciennes adresses `/gem/`, car le changement de nom suit une évolution de plateforme : Google remplace les Gemini Gems par les Gemini Skills et la bibliothèque est convertie entrée par entrée. Un enseignant peut ouvrir une invite, voir ce qu'elle fait, puis l'exécuter dans Gemini ou la copier pour l'adapter, ce qui supprime la page blanche qui empêche la plupart des équipes d'utiliser l'IA.
 
 ## Ce que vous pouvez en faire
 
-La bibliothèque couvre la planification et le travail en classe (caricatures de métiers, activités de [[formative-assessment|vérification de la compréhension]], concierge de conférence, activité mathématique CRA, objectifs SMART, cartes à échanger, analyse de formulaires, en-têtes Classroom et Forms, jeux de style Jeopardy, planification de leçon LETRS, amorces de micro-enquête, mise en relation de podcasts, génération de quiz), la communication avec les parents, et l'usage même de l'IA — déclarations d'attentes, un coach d'intégration de l'IA, un architecte d'invites et un médecin des invites, une activité [[samr-model|SAMR]], une réflexion sur l'usage de l'IA et un générateur de Gems. Les ajouts les plus récents sont listés en page d'accueil, et les enseignants peuvent soumettre les leurs pour inclusion.
+La bibliothèque est organisée par tâche, non par modèle. **Planification de cours et conception curriculaire** couvre les plans de leçon 5E, plans d'unité, décodage des standards, générateurs PBL, routines de pensée, tableaux de choix, rotations d'ateliers et remixage de leçons UDL. **Matériel pédagogique et contenus** couvre fiches d'exercices, notes guidées, textes déchiffrables et informatifs, listes de vocabulaire, diaporamas, romans graphiques, paroles de chansons et cartes éducatives. **Engagement et jeux** regroupe les formats Jeopardy, 20 Questions, Would You Rather, l'intrus et deux vérités et un mensonge, ainsi que des invites de discussion et des simulations.
 
-## Remarques
+Cinq catégories s'adressent à des apprenants et à des travaux précis. **Soutien aux élèves et différenciation** comprend stratégies de différenciation, étayage et tâches à faible barrière et haut plafond. **Évaluation, données et notation** regroupe générateurs de grilles, évaluation alternative, un analyseur de données d'évaluation et des générateurs de questions pour les niveaux DOK. **Littératie, lecture, écriture et langues** couvre la compréhension de lecture, l'accompagnement de thèse et d'écriture, les amorces de phrases, la réécriture et le dialogue linguistique. **Mathématiques, sciences et STIM** contient des générateurs par matière. **Tâches professionnelles et administration** couvre les courriels aux parents, lettres de recommandation, plans de développement professionnel, un coach d'apprentissage professionnel et les cercles de justice réparatrice. Un rayon **Usage et intégration de l'IA** rassemble les méta-outils : déclarations d'attentes, un coach d'intégration, un architecte et un médecin des invites, une réflexion sur l'usage de l'IA, une activité [[samr-model|SAMR]] et l'EduPrompt Generator, qui construit de nouvelles invites. Les **outils destinés aux élèves** forment une catégorie à part, ce qui compte pour qui décide ce qu'il remet à une classe.
 
-Collection pilotée par Eric Curts, qui publie le tutoriel vidéo l'accompagnant, une lettre d'information et des ressources edtech plus larges sur Control Alt Achieve. Faire une copie d'un Gem exige un compte Google, et les conditions de Gemini vont avec, si bien qu'il s'agit d'une bibliothèque à évaluer avant d'y diriger des élèves, et non d'un outil utilisable anonymement.
+Les invites les plus récentes figurent sur la page d'accueil, et les enseignants peuvent soumettre les leurs via le formulaire Google lié pour examen. Le site propose aussi une inscription à une lettre d'information, un personnalisateur pour adapter une invite existante et une adresse de contact directe pour le curateur.
+
+## À qui cela s'adresse
+
+Les enseignants du K–12, les conseillers pédagogiques et les concepteurs curriculaires qui veulent une invite opérationnelle, non un tutoriel sur l'art d'écrire des invites, ainsi que les administrateurs ou responsables de développement professionnel en quête d'un artefact concret à présenter au personnel. La section destinée aux élèves est celle à examiner avant d'y diriger une classe. C'est une bibliothèque K–12 ; les enseignants du supérieur trouveront les formats de planification et de retour adaptables, mais les exemples ont une forme scolaire.
+
+## Remarques et mises en garde
+
+Le changement de nom est une transition en cours, non achevée. Google a annoncé en septembre 2026 que les Skills remplacent les Gems, et la prise en charge des Gems s'achève par étapes : comptes personnels en novembre 2026, clients Workspace business, enterprise et nonprofit en mars 2027, clients Workspace education en juin 2027. Google indique que les Gems existants migrent automatiquement vers les Skills, qui s'exécutent actuellement en tapant `/` et le nom dans la barre d'invite de Gemini. Les liens du site pointent encore vers des chemins `/gem/`, si bien qu'un signet peut être redirigé ou rompu à mesure de la conversion : vérifiez qu'une invite se résout avant de l'intégrer à un cours.
+
+Deux faits sur l'accès appartiennent à toute décision d'adoption. Les Skills sont disponibles dans toutes les offres d'abonnement Google AI, mais le déploiement est réservé aux 18 ans et plus pour l'instant, l'accès des moins de 18 ans étant annoncé comme « bientôt disponible » ; et copier une invite exige un compte Google et Gemini, ce n'est donc pas un outil anonyme pour les élèves. La bibliothèque est un ensemble curaté d'invites, non un enseignement validé : chaque entrée est un point de départ dont la production doit encore être vérifiée, et les affirmations de qualité sont celles du curateur. Aucune licence ouverte n'est indiquée : les invites peuvent être copiées et adaptées dans Gemini, mais la bibliothèque n'est pas quelque chose qu'un établissement peut dupliquer et héberger.
 
 ## Concepts liés
 
 [[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]
-

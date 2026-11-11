@@ -1,9 +1,9 @@
 ---
 title: "EduPrompts"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-11-10T23:55:00-05:00"
+updated: "2026-11-11T00:15:00-05:00"
 type: resource
-summary: "Eine wachsende Bibliothek vorgefertigter Google-Gemini-„Gems“ – teilbare, vorgeschriebene Prompts für Planung, Feedback, Formulare, Bilder und Reflexion über die KI-Nutzung."
+summary: "Eric Curts' kostenlose, wachsende Bibliothek mit mehr als 160 vorgefertigten KI-Prompts für Schulen, geordnet nach Unterrichtsaufgabe und im Übergang von Gemini Gems zu Gemini Skills."
 url: https://www.eduprompts.ai/
 author: "Eric Curts"
 author_url: https://www.controlaltachieve.com/
@@ -18,29 +18,38 @@ audience: [instructors, curriculum designers, learners]
 confidence: high
 connected_resources: [teacherserver, id-toolbox]
 translation_of: resources/eduprompts
-source_updated: "2026-11-10T23:55:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-11-11T00:15:00-05:00"
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
+  - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
-    date: "2026-10-10"
+    date: "2026-11-11"
     agent: hermes-agent
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-**EduPrompts** ist eine Sammlung vorgefertigter [[prompt-engineering|Prompts]] – „Gems“ – für Pädagoginnen und Pädagogen, die Google Gemini nutzen. Jeder Eintrag hat eine eigene Seite mit einer Beschreibung und Schaltflächen, um das Gem zu nutzen oder eine eigene Kopie anzulegen, sodass eine Lehrkraft in Gemini einen funktionierenden Prompt ausführen kann, ohne einen von Grund auf zu schreiben.
+**EduPrompts** ist Eric Curts' kostenlose, wachsende Bibliothek vorgefertigter [[prompt-engineering|KI-Prompts]] für Schulen – mehr als 160, jeder für eine bestimmte Unterrichtsaufgabe geschrieben und auf einer eigenen Seite veröffentlicht. Bis November 2026 hieß sie EduGems und liegt teilweise noch unter den alten `/gem/`-Adressen, weil die Umbenennung einer Plattformänderung folgt: Google ersetzt Gemini Gems durch Gemini Skills, und die Bibliothek wird Eintrag für Eintrag umgestellt. Eine Lehrkraft kann einen Prompt öffnen, lesen, was er tut, und ihn dann in Gemini ausführen oder eine Kopie zum Anpassen anlegen – das nimmt das Problem des leeren Blatts, an dem die meisten Kollegien beim Einsatz von KI scheitern.
 
 ## Was man damit tun kann
 
-Die Bibliothek deckt Planung und Unterrichtsarbeit ab (Karriere-Karikaturen, Aktivitäten zum [[formative-assessment|Verständnis-Check]], Konferenz-Concierge, CRA-Matheaktivität, SMART-Ziele, Sammelkarten, Formularanalyse, Classroom- und Forms-Kopfzeilen, Spiele im Jeopardy-Stil, LETRS-Unterrichtsplanung, Funken zur Mikro-Recherche, Podcast-Vermittlung, Quiz-Erzeugung), Elternkommunikation und die KI-Nutzung selbst – Erwartungserklärungen, einen KI-Integrations-Coach, einen Prompt-Architekten und einen Prompt-Arzt, eine [[samr-model|SAMR]]-Aktivität, eine Reflexion zur KI-Nutzung und einen Gem-Generator. Neueste Zugänge stehen auf der Startseite, und Lehrkräfte können eigene zur Aufnahme einreichen.
+Die Bibliothek ist nach Aufgabe und nicht nach Modell geordnet. **Unterrichtsplanung und Curriculumsgestaltung** umfasst 5E-Unterrichtspläne, Einheitenpläne, das Ausarbeiten von Standards, PBL-Generatoren, Denkroutinen, Wahltafeln, Stationenrotationen und das Neumischen von UDL-Unterricht. **Unterrichtsmaterialien und Inhalte** umfasst Arbeitsblätter, geführte Notizen, dekodierbare Texte, Sachtexte, Vokabellisten, Präsentationen, Graphic Novels, Liedtexte und Lernkarten. **Beteiligung und Spiele** enthält die Formate Jeopardy, 20 Questions, Would You Rather, „Welches passt nicht“ und „Zwei Wahrheiten und eine Lüge“ sowie Diskussionsimpulse und Simulationen.
 
-## Anmerkungen
+Fünf Kategorien wenden sich an bestimmte Lernende und bestimmte Arbeiten. **Unterstützung von Lernenden und Differenzierung** enthält Differenzierungsstrategien, Gerüste und Aufgaben mit niedriger Einstiegshürde und hoher Decke. **Bewertung, Daten und Notengebung** enthält Rubrik-Generatoren, alternative Bewertung, einen Analysebaustein für Bewertungsdaten und Fragengeneratoren für DOK-Stufen. **Alphabetisierung, Lesen, Schreiben und Sprache** umfasst Begleitung beim Leseverstehen, Begleitung von Thesen und Schreiben, Satzanfänge, Textüberarbeitung und Sprachdialog. **Mathematik, Naturwissenschaften und MINT** enthält fachspezifische Generatoren. **Berufliche Aufgaben und Verwaltung** umfasst Eltern-E-Mails, Empfehlungsschreiben, Fortbildungspläne, einen Coach für berufliches Lernen und Kreise der restaurativen Justiz. Ein eigenes Regal **KI-Nutzung und -Integration** enthält die Meta-Werkzeuge: Erwartungserklärungen zur KI, einen Coach für KI-Integration, einen Prompt-Architekten, einen Prompt-Arzt, eine Reflexion zur KI-Nutzung, eine [[samr-model|SAMR]]-Aktivität und den EduPrompt Generator, der neue Prompts baut. **Werkzeuge für Lernende** sind als eigene Kategorie ausgewiesen, was für alle wichtig ist, die entscheiden, was in eine Klasse gegeben wird.
 
-Zusammengestellt von Eric Curts, der das begleitende Tutorial-Video, den Newsletter und weitere EdTech-Ressourcen bei Control Alt Achieve veröffentlicht. Eine Kopie eines Gems anzulegen erfordert ein Google-Konto, und die Gemini-Bedingungen kommen hinzu – das ist also eine Bibliothek, die man bewerten sollte, bevor man Lernende darauf richtet, und kein Werkzeug, das anonym genutzt werden kann.
+Die neuesten Prompts stehen auf der Startseite, und Lehrkräfte können eigene über das verlinkte Google-Formular zur Prüfung einreichen. Die Seite bietet außerdem eine Newsletter-Anmeldung, einen Anpasser für vorhandene Prompts und eine direkte Kontaktadresse für den Kurator.
+
+## Für wen es gedacht ist
+
+K–12-Lehrkräfte, Instructional Coaches und Curriculumsgestalter, die einen funktionierenden Prompt statt eines Tutorials zum Promptschreiben wollen, sowie Schulleitungen oder Verantwortliche für Fortbildung, die ein konkretes Artefakt für ihr Kollegium suchen. Der Bereich für Lernende ist der Teil, den man prüfen sollte, bevor man eine Klasse darauf richtet. Es ist eine K–12-Bibliothek; Hochschullehrende finden die Planungs- und Rückmeldeformate anpassbar, die Beispiele aber schulisch geprägt.
+
+## Anmerkungen und Vorbehalte
+
+Die Umbenennung ist ein laufender Übergang, kein abgeschlossener. Google kündigte im September 2026 an, dass Skills die Gems ersetzen, und der Support für Gems endet stufenweise: persönliche Konten im November 2026, Workspace-Kunden in den Bereichen Business, Enterprise und Nonprofit im März 2027 und Workspace-Education-Kunden im Juni 2027. Google zufolge migrieren bestehende Gems automatisch zu Skills, und Skills laufen derzeit, indem man `/` und den Namen in die Prompt-Leiste von Gemini tippt. Links auf dieser Seite zeigen weiterhin auf `/gem/`-Pfade, ein Lesezeichen kann also während der Umstellung weitergeleitet werden oder brechen – prüfen Sie, ob ein Prompt aufgelöst wird, bevor Sie ihn in einen Kurs aufnehmen.
+
+Zwei Zugangstatsachen gehören in jede Einführungsentscheidung. Skills sind in allen Google-AI-Abo-Stufen verfügbar, der Rollout gilt aber vorerst für Personen ab 18 Jahren, während der Zugang für unter 18-Jährige als „demnächst“ beschrieben wird; und das Kopieren eines Prompts erfordert ein Google-Konto und Gemini, es ist also kein anonymes Werkzeug für Lernende. Die Bibliothek ist eine kuratierte Sammlung von Prompts, kein validierter Unterricht: Jeder Eintrag ist ein Ausgangspunkt, dessen Ausgabe noch geprüft werden muss, und die Qualitätsaussagen der Sammlung stammen vom Kurator selbst. Eine offene Lizenz wird nicht genannt, Prompts lassen sich also innerhalb von Gemini kopieren und anpassen, die Bibliothek ist aber nichts, was eine Einrichtung forken und hosten kann.
 
 ## Verbundene Konzepte
 
 [[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]
-
