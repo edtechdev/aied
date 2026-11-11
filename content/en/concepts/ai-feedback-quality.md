@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-10T21:00:00-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -54,6 +54,8 @@ A controlled comparison isolates the feedback component from the adaptive system
 
 - **Essay scoring feedback:** [[cong-confidence-asag-2026|Confidence-aware ASAG]] and [[choi-anchor-aes-prompting-2025|anchor-based AES]] explore how confidence calibration and [[prompt-engineering|prompting]] design affect feedback quality for writing assessment.
 - **Evidence-constrained, risk-adaptive feedback:** [[risk-adaptive-genai-feedback-programming-2026|Wang (2026)]] separates three functions that feedback research usually evaluates together — predicting which failed state will persist, deciding when limited support capacity should be spent, and generating feedback whose claims stay inside recorded evidence. Across 2993 failed-submission states from 215 students, a calibrated risk model selected 17.8% of eligible test states and captured 25.2% of observed persistent failures, and after one standardized repair pass 519 of 544 generated messages carried all required components. Timing and grounding therefore join linguistic quality and retrievability as dimensions a feedback system has to be judged on.
+
+- **Naming the weak trait is not the same as citing the essay.** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]] found rubric-only comments identified the right weak traits (Trait Recall@2 = 0.823) but cited no essay evidence, while adding an evidence anchor kept recall at 0.829 and raised the valid evidence rate from zero to 0.912.
 
 - **Discretionary feedback provision:** [[ai-assistance-discretionary-feedback|Research on AI-assisted feedback in higher education]] examines whether AI increases the quantity and quality of feedback instructors provide.
 - **The relational layer resists delegation:** across 21 higher-education teachers using an AI feedback tool, 12 rewrote the model's text, revisions clustered on tone and encouragement (Student–Teacher Relationship f = 24), and the more experienced teachers flagged editing burden, trust and misinformation risk while novices deferred to the tool ([[learner-centered-feedback-ai|Aldino et al. (2026)]]).
@@ -146,6 +148,7 @@ A reply correct on the first turn can be wrong by the third: across 11 models, 1
 
 ## Connected Articles
 
+- [[xin-auditable-automated-essay-scoring-2026]] — Naming the weak trait is not citing the essay: evidence anchors raised valid evidence from zero to 0.912 (Xin 2026)
 - [[mihaylova-llm-feedback-live-programming-course-2026]] — Longer LLM hints predicted worse immediate outcomes; format traded fewer attempts for slower resubmission
 - [[wu-lam-genai-writing-assessment-professors-2026]] — Professors on AI feedback quality: flattering by default, long, vague, and slow to refine
 - [[genai-l2-written-feedback-scoping-review-2026]] — Only 27 of 51 studies reported their prompts; 16 experiments lacked a control group

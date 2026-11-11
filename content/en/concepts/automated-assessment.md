@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-10T20:10:00-05:00"
+updated: "2026-11-10T21:00:00-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -103,6 +103,8 @@ Four themes organize the corpus: **Evaluation**, models scoring teachers from st
 Automated assessment quality depends on [[assessment-validity]] and [[bias-mitigation]]. [[ai-scoring-language-bias-physics|Language bias]] research shows that automated scoring can systematically disadvantage certain student populations.
 **The criterion is itself fallible.** [[ai-marking-accuracy-gcse-physics-2026|Bozdag and Qiu (2026)]] mark GCSE physics scripts with an AI system and compare them against both official examination-board marks and experienced teachers' judgment, treating agreement with the board as a proxy for accuracy rather than accuracy itself.
 
+- **AI disagreement as rubric diagnostics.** [[zhao-ai-supported-grading-rubric-refinement-2026|Zhao et al. (2026)]] integrated an LLM grader into PrairieLearn so instructors see item-level disagreement with their own marking, then revise the rubric before scaling. AI–human agreement reached 99.4% on a single-item bug question and fell to 65% on a Markov-matrix problem with six valid solutions.
+
 
 ### Deployment scenarios and what each one requires
 
@@ -174,6 +176,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[zhao-ai-supported-grading-rubric-refinement-2026]] — AI–instructor disagreement as a rubric-development signal in PrairieLearn (Zhao et al. 2026)
 - [[roy-premise-rubrics-llm-judges-2026]] — Rubric wording as attack surface: 46.4% of verified exploits scored high, cut to 36.0% by rubric refinement (Roy et al. 2026)
 - [[llm-structured-assessment-diagnostic-quality-2026]] — LLM rubric sub-dimensions are near-redundant and feedback rarely names misconceptions (Zhao et al. 2026)
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities

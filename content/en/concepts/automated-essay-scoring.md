@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-10T21:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -37,6 +37,11 @@ In upper-elementary response-to-text writing, [[correnti-erevise-validity-argume
 **Prompting-based AES** has emerged as the most accessible approach. The **[[choi-anchor-aes-prompting-2025|Choi et al. anchor paper study]]** shows that including exemplar essays in prompts brings LLM-human agreement close to human-human reliability, with GPT-4o mini achieving comparable results to GPT-4o at lower cost. This connects to broader [[prompt-engineering]] research and makes AES feasible for [[teacher-role|teacher]] use.
 
 **Psychometric and trait-level scoring** moves beyond holistic scores. **[[psyscore-essay-scoring-zpd-feedback|PsyScore]]** provides a psychometrically-aware framework for trait-adaptive scoring with [[sociocultural-learning|ZPD]]-grounded feedback. **[[icle-plus-plus-essay-scoring|ICLE++]]** models fine-grained traits for holistic essay scoring, advancing the precision of automated evaluation.
+
+- **Reasoning traces as the explanation.** [[xu-explainable-ai-essay-scoring-cot-2026|Xu et al. (2026)]] fine-tune Qwen models to reason through the four IELTS traits before scoring, then apply PPO on examiner preferences. Average QWK rose from 0.5253 (7B, CoT only) to 0.5410 (72B), while feedback BLEU rose from 0.2371 to 0.2873 with PPO and CoT; scale alone added little, at 2.5% BLEU from 7B to 72B.
+
+- **Auditability as a scoring target.** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]] builds an ASAP pipeline whose feedback layer attaches essay evidence to each weak trait and exposes a teacher review flag. Macro QWK was 0.738 against 0.739 for its best pure scorer, while rubric-grounded feedback reached a Trait Recall@2 of 0.829 and a valid evidence rate of 0.912 where rubric-only feedback cited nothing.
+
 - **Dimension-level trait scoring is bounded by the data behind each dimension.** [[automated-essay-scoring-critical-thinking-physics-2026|Firdausi et al. (2026)]] trained one classifier per dimension of Ennis's FRISCO [[critical-thinking]] framework on 106 Indonesian eleventh-grade physics essays (83 for training, 23 for testing, with three teacher raters agreeing at kappa 0.78–0.84 on every dimension). Agreement concentrated on expression rather than reasoning: quadratic weighted kappa reached 0.763 for Clarity and 0.728 for Situation but only 0.374 for Focus, 0.332 for Reason and 0.227 for Inference. The ordinal signal was manufactured rather than observed. Synthetic level-1 essays (built from templates, cut to 20–40% of their original length, with keywords removed) plus LLM paraphrase lifted Focus by +0.346 kappa off a 0.028 baseline — and one configuration reached 0.652 accuracy with near-zero or negative kappa, — so accuracy is not a usable selection criterion in ordinal AES.
 
 **Bias and fairness** is a critical concern. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** found that AI scoring systematically underestimates students from linguistically diverse backgrounds, highlighting the need for [[bias-mitigation]] and [[equity-in-ai-education]] considerations in AES deployment.
@@ -93,6 +98,8 @@ Open systems are part of this picture too: AiAWE scores argumentative essays wit
 - [[assessment-validity]]
 
 ## Connected Articles
+- [[xu-explainable-ai-essay-scoring-cot-2026]] — Rubric-aware chain-of-thought plus PPO: 0.5253 to 0.5410 average QWK, with small gains from scale (Xu et al. 2026)
+- [[xin-auditable-automated-essay-scoring-2026]] — Auditable scoring: 0.738 macro QWK with evidence-anchored feedback and a teacher review flag (Xin 2026)
 - [[reflection-level-classification-hungarian-essays-2026]] — Automatic Reflection Level Classification in Hungarian Student Essays
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
 - [[automated-essay-scoring-critical-thinking-physics-2026]] — Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays

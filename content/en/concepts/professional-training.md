@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T15:25:17-05:00"
+updated: "2026-11-10T21:00:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -58,6 +58,7 @@ reviewed_by: [editor]
   and what it allows — rather than by the national system it sits in.
 
 - **Brief training shifts judgments, not intentions.** A three-hour pre-post pilot with 100 German teachers ([[mesenhoeller-teachers-ai-differentiation-acceptance-2026|Mesenhöller and Böhme, 2026]]) found that perceived usefulness (d = .32) and [[technology-acceptance-model|perceived ease of use]] (d = .25) rose significantly after a short practice-oriented session on AI for differentiation, while behavioral intention did not move from an already high baseline (M = 3.07). The authors read the gap as a sign that acceptance depends on conditions a session cannot supply, such as time, infrastructure and clear institutional rules. Short formats are worth running, but pairing them with those conditions is what turns favorable judgment into use.
+- **A twelve-week microlearning format can move reported use.** [[bodek-prompted-to-explore-microlearning-2026|Bodek, Park and Valcin (2026)]] sent 81 faculty a weekly GenAI prompt, a Teams space and an optional badge; among 27 end-of-year respondents, reported never-or-rarely use fell from 40.7% to 7.4% (Wilcoxon Z = -3.52, p = .001), and 51.9% introduced a GenAI activity to students. The evidence is self-report from one institution without a comparison group.
 - **Sustained monitoring, not one-off workshops, for initial training.** A systematic review of 11 studies of AI in initial teacher training for primary mathematics ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto et al., 2026]]) found that nine interventions were a single session or a few sessions embedded in existing courses, that attitudes were usually sampled once after the fact, and that ethics appeared in only three studies. The authors argue AI competency needs to develop across the whole training sequence, from a preparatory phase into the practicum and the early years of practice, with monitoring that follows that progression.
 - **Exposure and repetition, not demographics, track favorable perceptions.** In a [[mixed-methods-research|mixed-methods]] study of 302 Turkish primary mathematics teachers ([[cigerci-primary-teachers-perceptions-ai-mathematics-2026|Ciğerci and Uygun, 2026]]), prior AI training (t = 3.661) and frequency of AI use (F = 41.280) were the variables most consistently associated with positive views, while willingness (M = 3.98) and attitudes (M = 3.82) sat well above personal experience (M = 3.00). The authors treat prior training as the clearest lever schools can act on, which points to repeated, sustained use rather than a single introduction.
 - **Role rotation as the load-bearing structure.** A design-based study of 62 pre-service educational psychologists in Kazakhstan ([[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al., 2026]]) rotated students through four professional positions over eight weeks, with generative AI supplying preliminary ideas. The authors argue the value lay in the rotation rather than in the tool, since each role framed the same case differently, and later cycles showed more requests for theoretical justification. They report engagement rather than measured gains, having collected no pre-post competence measures.
@@ -94,6 +95,7 @@ Professional training differs from academic education in its focus on applied sk
 - [[virtual-and-augmented-reality]] — where immersive practice is most established
 
 ## Connected Articles
+- [[bodek-prompted-to-explore-microlearning-2026]] — Twelve-week microlearning plus a Teams community: reported GenAI use rose after the program (Bodek et al. 2026)
 - [[prunuske-cognitive-windows-research-meetings-2026]] — Moving research meetings from data updates to cognitive windows in the age of artificial intelligence
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
