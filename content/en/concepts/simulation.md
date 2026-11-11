@@ -2,7 +2,7 @@
 connected_resources: [openmaic]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-10T22:35:00-05:00"
+updated: "2026-11-10T21:15:00-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -93,6 +93,7 @@ The framework travels as a test rather than a catalog. Three questions decide an
 
 ## Connected Articles
 
+- [[ismail-affective-domain-ai-healthcare-review-2026]] — AI simulation and virtual patients dominate affective-domain training, with outcomes mostly self-reported (Ismail & Zafira, 2026)
 - [[van-patten-freeman-rath-ai-counselor-education-scoping-2026]] — 14-source scoping review: simulated clients dominate, trainee competence unmeasured (Van Patten-Freeman & Rath 2026)
 - [[learner-agency-ai-simulation-2026]] — Parameter control and an optional AI agent in a complex-systems simulation: gains tracked enactment, not access
 - [[benzion-ai-physics-simulations-virtual-lab]]

@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-10T21:00:00-05:00"
+updated: "2026-11-10T21:15:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -31,6 +31,7 @@ reviewed_by: [editor]
 
 [[ai-coaching-rl-skill-development|Wang et al. (2026)]] add a coaching-policy lesson: fading assistance against the learner's estimated competence cut simulator lap time 27.9% (p = 0.005) and failures by 3.52 per lap, whereas rule-based fading on a fixed schedule produced no reliable lap-time change.
 - **A voluntary, text-only rehearsal moved nothing.** Of 201 first-year medical students offered a GPT-4o patient before their first standardized-patient class, 49 used it, and nervousness, preparedness, [[self-efficacy]] and self-perceived competence did not differ from the 84 controls; 6 of 19 non-users who gave a reason cited technical or login problems ([[jongkind-genai-patient-medical-communication-2026|Jongkind et al. (2026)]]).
+- **Empathy rehearsal transfers unevenly.** A single role-prompted GPT-4o conversation raised 162 medical students' self-assessed communication competence by d = 0.58 with no control group ([[muller-role-prompted-gpt-empathetic-communication-2026|Müller et al. (2026)]]), and a review of 17 studies found confidence gains far more common than evidence of empathy itself ([[ismail-affective-domain-ai-healthcare-review-2026|Ismail and Zafira (2026)]]). [[empathy-in-education|Empathy in education]] collects that evidence and the measurement problem behind it.
 - **Lifelong learning integration:** [[lifelong-learning]] and [[adult-learning]] [[research-methods-aied|research]] connect professional training to continuous education.
 - **Agents built to deliberate rather than answer.** [[cowhitt-deliberative-instructional-agents-2026|Cowhitt and Gibson (2026)]] design instructional agents for teacher professional learning that withhold the answer and press the teacher to justify a decision, drawn from 33 deliberation codes across 8 clusters.
 - **Public sector:** [[ai-adoption-training-public-sector|Public sector AI adoption]] examines training in government contexts.
@@ -95,6 +96,8 @@ Professional training differs from academic education in its focus on applied sk
 - [[virtual-and-augmented-reality]] — where immersive practice is most established
 
 ## Connected Articles
+- [[muller-role-prompted-gpt-empathetic-communication-2026]] — One GPT-4o conversation raised self-assessed communication competence by d = 0.58, with no control group (Müller et al., 2026)
+- [[ismail-affective-domain-ai-healthcare-review-2026]] — Across 17 studies, confidence gains were common and empathy evidence thin (Ismail & Zafira, 2026)
 - [[bodek-prompted-to-explore-microlearning-2026]] — Twelve-week microlearning plus a Teams community: reported GenAI use rose after the program (Bodek et al. 2026)
 - [[prunuske-cognitive-windows-research-meetings-2026]] — Moving research meetings from data updates to cognitive windows in the age of artificial intelligence
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce

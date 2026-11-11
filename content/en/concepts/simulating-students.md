@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-11-05T22:30:00-05:00"
+updated: "2026-11-10T21:15:00-05:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -147,6 +147,7 @@ Training against a simulator can also travel: TutorLoop's reinforcement-learning
 - [[ai-avatars-and-synthetic-instructors]]
 
 ## Connected Articles
+- [[muller-role-prompted-gpt-empathetic-communication-2026]] — A role-prompted GPT-4o patient produced a d = 0.58 self-assessed competence gain in 13 exchanges (Müller et al., 2026)
 - [[radmehr-alps-simulated-students-long-horizon-2026]] — ALPS: hierarchical planning keeps simulated students on profile over long horizons (Radmehr et al. 2026)
 - [[rudolph-llm-simulated-counselling-clients-2026]] — Simulated counselling clients disclose faster, so trainees skip facilitative moderation
 - [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: From Role-Play to Learner Behavior Modeling for Faithful Student Simulation

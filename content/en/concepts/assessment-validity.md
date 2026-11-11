@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-10T22:35:00-05:00"
+updated: "2026-11-10T21:15:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -156,6 +156,7 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 
 ## Connected Articles
 
+- [[nissan-nursing-empathy-computer-vision-2026]] — Same video, opposite readings: a smile detector scored warmth where observers scored incongruity (Nissan et al., 2026)
 - [[bayraktar-beyond-ai-proofing-assessment-validity-2026]] — Beyond AI-proofing: evidence sufficiency rather than artifact purity as the validity question (Bayraktar 2026)
 - [[roy-premise-rubrics-llm-judges-2026]] — Agreement is not robustness: rubric-conditioned judges can agree while their rubrics remain exploitable (Roy et al. 2026)
 - [[ansari-policing-provenance-designing-for-evidence-2026]] — From policing provenance to designing for evidence: four propositions tested against research and policy (Ansari 2026)

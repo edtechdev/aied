@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 232
+**Total concepts:** 233
 
 ## Foundations of AI in education
 
@@ -103,6 +103,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 - **`anxiety-and-stress`** — Anxiety and Stress — phrases: AI anxiety; AI stress; AI-induced anxiety; academic stress; anxiety; learner anxiety; productive AI anxiety; remote proctoring anxiety; stress; student anxiety; surveillance stress; test anxiety
 - **`creativity`** — Creativity — phrases: creative; creative skills; creative thinking; creativity; divergent thinking
+- **`empathy-in-education`** — Empathy in Education — phrases: ai empathy; empathy; empathy measurement; empathy training; empathic ai; teaching empathy
 - **`help-seeking`** — Help-Seeking — phrases: help avoidance; help seeking; help seeking behavior; help seeking behaviour; help-seeking; hint seeking
 - **`mastery-learning`** — Mastery Learning — phrases: mastery learning; mastery-based learning; mastery-based progression
 - **`problem-solving`** — Problem Solving — phrases: collaborative problem solving; computational problem solving; creative problem solving; problem solving; problem-solving

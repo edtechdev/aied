@@ -46,7 +46,7 @@ export const FACET_VOCAB = {
     'theory-development-aied',
     'tpack',
   ],
-  // Learning and instruction (59 concepts) — registry section: Learning and instruction
+  // Learning and instruction (60 concepts) — registry section: Learning and instruction
   pedagogy: [
     'active-learning',
     'activity-theory-aied',
@@ -63,6 +63,7 @@ export const FACET_VOCAB = {
     'desirable-difficulties',
     'distributed-cognition',
     'embodied-learning',
+    'empathy-in-education',
     'experiential-learning',
     'game-based-learning',
     'help-seeking',

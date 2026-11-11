@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Affective tutoring is the pedagogical half of [[affective-computing]]: once a system has some reading on a learner's emotional state, what should it do with that reading? The design question is not how to detect frustration but what to change once you believe you have detected it — the pace, the hint level, the tone of feedback, or whether to stop and address the emotion itself. This page covers that decision layer: the strategies tutors map affect onto, the evidence that they help, and the reasons they can backfire.
+Affective tutoring is the pedagogical half of [[affective-computing]]: once a system has some reading on a learner's emotional state, what should it do with that reading? The design question is not how to detect frustration but what to change once you believe you have detected it — the pace, the hint level, the tone of feedback, or whether to stop and address the emotion itself. This page covers that decision layer: the strategies tutors map affect onto, the evidence that they help, and the reasons they can backfire. It is not about the learner's own empathy, which is a different outcome with a different evidence base ([[empathy-in-education|empathy in education]]), nor about how affect is sensed ([[sensor-and-gaze-analytics|sensor and gaze analytics]]).
 
 The clearest worked example is MathBuddy, which models student affect from two modalities:
 

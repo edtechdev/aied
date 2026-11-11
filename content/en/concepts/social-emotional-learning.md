@@ -30,6 +30,7 @@ Social-emotional learning is closely related to, but distinct from, emotional in
 
 ### How SEL appears in the research
 
+- **Empathy is the affective edge of SEL, and the hardest to assess.** [[empathy-in-education|Empathy in education]] covers the evidence on teaching and measuring it: role-play, VR and LLM dialogue all raise self-report scores, observer ratings hold together, and computer-vision proxies invert on smiling. It is the page to read before treating an empathy gain as evidence that a program worked.
 - **Integrating SEC into AI literacy:** [[sec-ai-literacy-narrative-review-2026|The narrative review by Palmquist et al.]] proposes an integrated framework that combines AI literacy with social-emotional competencies, arguing that technical proficiency alone is insufficient — educators and students need both technological and emotional intelligence to navigate AI-mediated learning environments, fostering [[personalized-learning|personalized learning]], collaboration, and ethical [[student-engagement|engagement]].
 
 - **Teachers and relational practice:** Research on [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|AI literacy frameworks]] and [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|teacher-student trust]] emphasizes that SEL supports the relational dimensions of learning (teacher-student and student-student relationships), which AI must complement rather than replace.

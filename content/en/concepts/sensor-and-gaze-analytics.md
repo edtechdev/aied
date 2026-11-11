@@ -1,7 +1,7 @@
 ---
 title: Sensor and Gaze Analytics
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-05T22:30:00-05:00"
+updated: "2026-11-10T21:15:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -79,6 +79,8 @@ A neural correlate is not a score. Reconstructed images from EEG correlated with
 
 Attention is not learning. In TutorLoop, attention correlated with learning at r = 0.017, while workload correlated negatively at r = -0.168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). A system that maximized the attention signal would have optimized something close to noise.
 
+A signal can also invert the construct. In 37 recorded nursing simulations, a smile detector correlated negatively with observer-rated empathy (r = −0.322) while physical-contact detection agreed with four observer measures at 0.46 to 0.54; the observers were reading a smile at a patient in pain as incongruity, and the model was reading facial action ([[nissan-nursing-empathy-computer-vision-2026|Nissan et al., 2026]]).
+
 A sensor can record co-presence where a study claims interaction: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] found a pose-based detector reached only 55% recall, catching 11 of 20 events human coders identified in teacher–student group interactions. The teacher was present inside the group boundary in 49.2% of coded segments while students looked at the teacher in only 25.4%, and no audio feature changed in either comparison, so the pipeline registered spatial co-presence rather than sustained interaction.
 
 A physiological profile is not a diagnosis. Exam stress models predict a grade category from arousal and movement, and the authors insist the output belongs beside personal circumstances and mental-health context rather than in a high-stakes decision ([[physiological-signals-exam-outcomes-ml|Yamazaki and Rimal, 2026]]).
@@ -134,6 +136,7 @@ Finally, collection is not integration. Kim and Han found that most multimodal s
 - [[intelligent-tutoring]]
 
 ## Connected Articles
+- [[nissan-nursing-empathy-computer-vision-2026]] — Physical-contact detection tracked observer-rated empathy, smile detection inverted, eye contact and heatmaps were null (Nissan et al., 2026)
 - [[gaze-informed-ai-children]] — Gaze-triggered LLM narration held children on a narrated region 6.48 s versus 1.67 s, but the study measured attention rather than comprehension (Wu et al., 2026)
 - [[e3sense-multimodal-learner-engagement-sensing-2026]] — Head-mounted EEG, eye tracking, and forehead EDA predicted self-rated engagement at 75.0% within-one accuracy against a 63.0% baseline (Anupkrishnan et al., 2026)
 - [[engagement-assessment-video]] — EduGage fused seven wearable and camera streams into segment-level engagement estimates (MAE 0.81) and argues for lighter instrumentation (Leng et al., 2026)

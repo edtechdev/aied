@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-08T13:00:48-05:00"
+updated: "2026-11-10T21:15:00-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
@@ -95,6 +95,7 @@ Across 26 community-engaged studies, AI concentrated in preparation (18) and act
 - [[reflection]]
 
 ## Connected Articles
+- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — Real-world role-play beat VR and LLM dialogue on empathy gains, though exposure time was confounded (Zwoliński et al., 2026)
 - [[genai-counter-learner-groupthink-2025]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)

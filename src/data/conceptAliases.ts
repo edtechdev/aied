@@ -84,6 +84,7 @@ export const CONCEPT_ALIASES: Record<string, string[]> = {
   'educational-robotics': ['educational robotics', 'human-robot', 'robot', 'robotics', 'robotics in education', 'robots', 'robots in education', 'teaching robots'],
   'educational-technology-developers': ['educational technology developers', 'edtech designers', 'edtech developers', 'educational software developers', 'edtech companies'],
   'embodied-learning': ['body-based learning', 'embodied', 'embodied cognition', 'embodied learning', 'embodiment', 'gesture-based learning'],
+  'empathy-in-education': ['ai empathy', 'empathy', 'empathy measurement', 'empathy training', 'empathic ai', 'teaching empathy'],
   'engineering-education': ['biomedical engineering', 'engineering', 'engineering education'],
   'english-education': ['english as a foreign language', 'english education'],
   'environmental-education': ['climate education', 'environmental education', 'environmental literacy', 'green skills education', 'sustainability education'],

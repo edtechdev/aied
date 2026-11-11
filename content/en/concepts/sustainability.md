@@ -1,7 +1,7 @@
 ---
 title: Sustainability
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-10T21:15:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -81,6 +81,7 @@ Sustainability and AI in education sits at the intersection of [[ethics]], [[gov
 
 ## Connected Articles
 
+- [[lim-ai-wearables-environmental-empathy-2024]] — Wearable EDA plus AI-generated pollution imagery raised arousal, without measuring stewardship (Lim et al., 2024)
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — Swedish survey and focus-group study arguing that partnership ethics, not a cheating frame, should guide institutional genAI decisions
 - [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI in higher education
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
