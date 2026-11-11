@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-11T09:55:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
@@ -57,6 +57,8 @@ Young children interact with AI increasingly early — through AI-enabled toys, 
 - **What predicts whether preschool teachers adopt AI at all.** A survey of 270 preschool teachers in Shanghai, Zhejiang and Guangdong, modeled with an extended [[technology-acceptance-model|TAM]], found perceived usefulness and ease of use predicted intention to use AI, with AI [[self-efficacy]] raising it and [[anxiety-and-stress|AI anxiety]] lowering it ([[preschool-teachers-ai-behavioral-intention-2026|Duan, Shan and Gong 2026]]). The study excluded child-facing tools by design, so its levers — confidence-building and low-stakes training — concern teachers' own professional work.
 
 - **AI approximating developmental judgments of children's stories.** [[clara-developmental-appropriateness-children-stories-2026|Yin et al. (2026)]]'s CLARA annotates a story's cognitive, language, and social-emotional demands and matches publisher age references 0.904 of the time, ahead of readability formulas (0.603) and direct prompting (0.730) - offered as a supportive signal, not a replacement for a human judge.
+
+- **AI literacy as classroom interpretive work, not individual knowledge.** [[konca-preschool-genai-storytelling-ai-literacy-2026|Konca and Yigit-Gencten (2026)]] coded 17 storytelling sessions in a Turkish preschool where the teacher wrote every Midjourney prompt and the class watched outputs on a shared screen. Children explained mismatches by attributing thought, hearing and intent to the system ("it couldn't think of it well enough"), debated prompt-output links, and voted on which images to keep. Because the teacher's questions decided which explanations were taken up, and sometimes closed inquiry altogether, early AI literacy here is distributed across the activity rather than held by a child.
 
 ### Developmental and equity considerations
 

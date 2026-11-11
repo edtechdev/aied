@@ -7,7 +7,7 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-11-11
-**Total backlog:** 30 articles awaiting ingest (this scan added 3 publisher-blocked items and 1 adjacent-research item, and removed 2 that were ingested today; the earlier carries are unchanged) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 27 articles awaiting ingest (this scan added 3 publisher-blocked items and 1 adjacent-research item, removed 2 that were ingested today, and closed the 3 blocked items on 2026-11-11: 1 ingested from a maintainer-supplied PDF, 2 rejected; the earlier carries are unchanged) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-11)
 
@@ -25,9 +25,7 @@ intervention (active learning at a graduate summer school) - out of scope rather
 
 **Full text blocked at the publisher (PDF needed)**
 
-- [Undergraduate nursing students' experiences of conducting graduation theses and using generative artificial intelligence: a qualitative study](https://doi.org/10.1186/s12909-026-10698-6) - [DOI: 10.1186/s12909-026-10698-6](https://doi.org/10.1186/s12909-026-10698-6) - Springer and BMC Medical Education served the abstract and metadata only to automated requests, and Europe PMC has no record of the DOI yet.
-- [Teaching while researching in a smart classroom: community-engaged action research on microlecturing for teachers' professional learning](https://doi.org/10.1186/s40561-026-00474-w) - [DOI: 10.1186/s40561-026-00474-w](https://doi.org/10.1186/s40561-026-00474-w) - SpringerOpen served an abstract-only page; the counter PDF endpoint returned an HTML shell.
-- [Generative AI as an interactive learning environment in early childhood: preschool children's emerging AI literacy as socially distributed interpretive work in collaborative storytelling](https://doi.org/10.1080/10494820.2026.2762001) - [DOI: 10.1080/10494820.2026.2762001](https://doi.org/10.1080/10494820.2026.2762001) - Taylor & Francis; the prefetch record carried no abstract and the publisher does not serve automated requests.
+None outstanding from this scan. The three items listed here on 2026-11-11 were closed the same day: the early-childhood storytelling study was ingested from the maintainer's PDF, and the other two were rejected (see `rejected-sources.yaml`).
 
 **Adjacent research awaiting a tier decision**
 
