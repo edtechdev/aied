@@ -291,3 +291,8 @@
   - digital-divide
   - libraries
   reason: 'The kiosk is access provisioning in a public building: it gives patrons who cannot buy an AI subscription a staffed place to use one, which is the first-level access argument the digital-divide page makes, and both pages list it in connected_resources. Not listed on ai-literacy: the program ships an interactive guide and library-vetted material, but it is not a curriculum for teaching AI literacy, and the literacy page already curates ten resources aimed at that job.'
+- resource: ai-tutor-pro-teaching-assistant-pro
+  reviewed: '2026-11-10'
+  hosts:
+  - intelligent-tutoring
+  reason: 'AI Tutor Pro is a free, no-signup tutoring app that a reader of the intelligent-tutoring page could hand to students today, and the page now lists it in connected_resources. Not listed on formative-assessment: the app supports practice and checking but the site reports no learning outcome evidence and the page is about assessment design, not tools. Not listed on ai-literacy: it is a place to use AI, not a curriculum for learning about it.'
