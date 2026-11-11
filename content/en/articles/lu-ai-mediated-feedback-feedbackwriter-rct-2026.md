@@ -1,7 +1,7 @@
 ---
 title: "AI-Mediated Feedback Improves Student Revisions: A Randomized Trial with FeedbackWriter in a Large Undergraduate Course"
-created: "2026-11-10T22:55:00-05:00"
-updated: "2026-11-10T22:55:00-05:00"
+created: "2026-11-10T19:45:00-05:00"
+updated: "2026-11-10T19:45:00-05:00"
 type: article
 sources: ['raw/papers/lu-ai-mediated-feedback-feedbackwriter-rct-2026.md']
 source_url: "https://doi.org/10.1145/3772318.3791121"

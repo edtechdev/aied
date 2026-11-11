@@ -1,7 +1,7 @@
 ---
 title: "Teacher Hive"
-created: "2026-11-10T23:20:00-05:00"
-updated: "2026-11-10T23:20:00-05:00"
+created: "2026-11-10T19:47:00-05:00"
+updated: "2026-11-10T19:52:00-05:00"
 type: resource
 summary: "Tony Vincent's free-to-use hosting platform where teachers publish AI-generated classroom web apps, share them by link or QR code, and browse hundreds of apps made by other teachers."
 url: https://teacherhive.app/
