@@ -16,7 +16,7 @@ last_verified: "2026-09-20"
 level: [higher ed]
 audience: [instructional designers, faculty developers, educational technology developers]
 confidence: high
-connected_resources: [drawsplat, lesson-md, edugems]
+connected_resources: [drawsplat, lesson-md, eduprompts]
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_of: resources/id-toolbox
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."

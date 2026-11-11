@@ -16,7 +16,7 @@ last_verified: "2026-09-20"
 level: [k 12, higher ed]
 audience: [instructors, instructional designers, educational technology developers]
 confidence: high
-connected_resources: [teacherserver, edugems]
+connected_resources: [teacherserver, eduprompts]
 translation_of: resources/playlab
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."

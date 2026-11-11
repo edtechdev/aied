@@ -16,7 +16,7 @@ last_verified: "2026-09-22"
 level: [k 12, higher ed]
 audience: [instructors, faculty developers]
 confidence: high
-connected_resources: [edugems]
+connected_resources: [eduprompts]
 translation_of: resources/teacherserver
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."

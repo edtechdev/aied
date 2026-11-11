@@ -18,7 +18,7 @@ ethics: [accessibility, universal-design-for-learning]
 audience: [instructors, faculty developers, instructional designers]
 level: [higher ed]
 confidence: high
-connected_resources: [edugems, gemini-notebook, liascript]
+connected_resources: [eduprompts, gemini-notebook, liascript]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

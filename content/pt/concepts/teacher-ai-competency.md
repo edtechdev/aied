@@ -11,7 +11,7 @@ ethics: [equity-in-ai-education]
 audience: [faculty developers, learners, instructors]
 level: [k 12, higher ed]
 confidence: high
-connected_resources: [claw-ed, edugems, playlab, teacherserver]
+connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
 source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."

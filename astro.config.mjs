@@ -57,6 +57,8 @@ export default defineConfig({
   trailingSlash: 'ignore',
   redirects: {
     '/use-with-ai': '/aied/ai',
+    // EduGems was renamed EduPrompts (new domain); keep the old resource URL resolving.
+    '/resources/edugems': '/aied/resources/eduprompts',
     // The Cognitive Agent Compilation page was consolidated into one survivor
     // page for the same paper; keep the old slug resolving for inbound links.
     '/articles/cognitive-agent-compilation':

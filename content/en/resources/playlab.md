@@ -16,7 +16,7 @@ last_verified: "2026-09-20"
 level: [k 12, higher ed]
 audience: [instructors, instructional designers, educational technology developers]
 confidence: high
-connected_resources: [teacherserver, edugems]
+connected_resources: [teacherserver, eduprompts]
 reviewed_by: [editor]
 ---
 

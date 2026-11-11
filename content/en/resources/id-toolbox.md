@@ -16,7 +16,7 @@ last_verified: "2026-09-20"
 level: [higher ed]
 audience: [instructional designers, faculty developers, educational technology developers]
 confidence: high
-connected_resources: [drawsplat, lesson-md, edugems]
+connected_resources: [drawsplat, lesson-md, eduprompts]
 reviewed_by: [editor]
 ---
 

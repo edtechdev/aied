@@ -9,7 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
+connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
 source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"

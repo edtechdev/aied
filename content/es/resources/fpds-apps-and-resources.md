@@ -18,7 +18,7 @@ ethics: [accessibility, universal-design-for-learning]
 audience: [instructors, faculty developers, instructional designers]
 level: [higher ed]
 confidence: high
-connected_resources: [edugems, gemini-notebook, liascript]
+connected_resources: [eduprompts, gemini-notebook, liascript]
 source_updated: "2026-10-24T11:51:12-04:00"
 translation_of: resources/fpds-apps-and-resources
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."

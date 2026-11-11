@@ -9,7 +9,7 @@ technology: [generative-ai]
 audience: [instructors, faculty developers]
 level: [higher ed]
 confidence: high
-connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
+connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: "concepts/learning-design"
 source_updated: "2026-11-05T01:53:02-05:00"
 updated: "2026-11-08T06:31:23-05:00"
