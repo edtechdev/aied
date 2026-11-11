@@ -39,7 +39,7 @@ verified: [citation, numbers, links]
 
 ## What the study did
 
-Participants were recruited on Prolific: US residents aged 18 and over who had majored in biology and held at least a high school diploma, paid US$20 for a session estimated at 75 minutes. Of 162 who completed, 17 failed attention checks, 18 showed insufficient activity during learning and 3 hit technical problems, leaving 124. In the final sample, 117 (94%) were 18–35 years old and 112 (90%) described basic familiarity with AI as end users.
+Participants were recruited on Prolific: US residents aged 18 and over who had majored in biology and held at least a high school diploma, paid US\$20 for a session estimated at 75 minutes. Of 162 who completed, 17 failed attention checks, 18 showed insufficient activity during learning and 3 hit technical problems, leaving 124. In the final sample, 117 (94%) were 18–35 years old and 112 (90%) described basic familiarity with AI as end users.
 
 After consent, participants were randomly assigned to one of the three systems and took a 10-question multiple-choice pre-test on cell division; anyone scoring below 4 was screened out. They then watched a 15-minute instructional video on meiosis and a two-minute video on their assigned system. During self-learning they worked from three predefined objectives with the OpenStax Biology textbook (Chapters 4–14, 447 pages) open in a document tab, a notepad occupying one-fourth of the interface, and, for the two chatbot conditions, a chat tab. The interface disabled the "Next" button for 15 minutes and advanced automatically at 25 minutes. The post-test held 10 multiple-choice questions tied to the three objectives, 7 of them visual-based, against 3 visual-based items on the pre-test.
 
