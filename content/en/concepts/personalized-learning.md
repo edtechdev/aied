@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-11T08:45:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -57,6 +57,8 @@ Personalized learning is often conflated with [[adaptive-learning|adaptive learn
 A PRISMA 2020 review of 22 higher-education interventions places personalized-learning support and adaptive pathways among the dominant AI use cases, yet most implementations improved existing practice rather than transforming it ([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh et al. (2026)]]).
 
 [[intelligent-tutoring|Intelligent tutoring]] sits in between: ITS are the canonical *adaptive* platforms that deliver personalized instruction through structured student modeling, while [[llm]]-based tutors personalize conversationally. All three are the application-side members of the [[student-modeling|learner modeling and adaptive instruction]] family — they consume the learner representations produced by [[student-modeling|student modeling]], [[knowledge-tracing]], and [[cognitive-diagnosis]] to decide what to teach next. The distinction matters for evaluation: studies that label a system "adaptive," "personalized," or "individualized" interchangeably (see below) can obscure whether the claimed benefit comes from real-time adaptation, learner choice, or content tailoring.
+
+A 2026 systematic review of 61 higher-education studies gives that distinction an empirical edge. Learner-directed control, meaning students decided when, what and how to ask, was coded in 46 studies (75.4%). Purpose-built or course-customized systems appeared in 10 (16.4%) and documented system-driven adaptation in five (8.2%); the review's sensitivity analysis left one ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido et al., 2026]]). Most of what the literature calls personalized learning is flexible access to a general assistant, not a model of the learner.
 
 ## Measurement Challenges
 
@@ -161,6 +163,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[recommender-systems-and-learning-paths]]
 
 ## Connected Articles
+- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 61 studies: 75.4% coded learner-directed control, 8.2% system-driven adaptation (Aybar-Bellido et al., 2026)
 - [[bespoke-industry-personalized-lecture-videos-2026]] — Industry-personalized lecture video regeneration from a seed transcript: audience-level tailoring, rated by domain experts (Puech et al. 2026)
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)

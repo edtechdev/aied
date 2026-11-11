@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-11T08:45:00-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -113,6 +113,8 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 
 Governance provisions appeared only in general policy documents and never in the funding-specific instruments that bind applicants, so a funder can govern AI in principle while imposing nothing on the research it pays for ([[chan-ai-policy-gap-2026|Chan, 2026]]).
 
+One 2026 argument extends governance past learner use to the production of teaching material itself. Chew (2026) separates representational content (images, diagrams), reasoning content (cases, simulated patients) and assessment content (items, rubrics, feedback). Each type has a characteristic failure and a different checker: a reference standard, an expert who can reach the conclusion unaided, or evidence of what an instrument measures. Because a plausible error in curriculum content reaches every learner and may never surface as a signal, he locates accountability with the institution and specifies four capabilities: know what is in use, test before use, act on findings including withdrawal, and monitor approved tools for drift ([[chew-ai-content-governance-medical-education-2026|Chew, 2026]]).
+
 ## Common Misconceptions
 
 - **"Universities have adopted binding AI policy."** Of **48 institutions**, **40 (83%)** had at least one publicly available document, and across those 40 **governance was realized mostly as guidance rather than binding** rule. Published guidance is not enforceable policy.
@@ -141,6 +143,7 @@ Governance provisions appeared only in general policy documents and never in the
 - [[student-support-and-success]] — oversight for institutional AI support systems
 
 ## Connected Articles
+- [[chew-ai-content-governance-medical-education-2026]] — governance of AI-produced teaching content, with three failure types and four institutional capabilities (Chew, 2026)
 - [[kaze-ai-management-higher-ed-2026]] — AI adoption in higher education: the case for designated AI management (Kaže et al. 2026)
 - [[jones-care-ethics-ai-governance-higher-education-2026]] — Care ethics for institutional AI governance, the five components and the institutional questions they turn into
 - [[generative-ai-governance-education-scoping-review-2026]] — Generative AI governance in education: a scoping review of principles, mechanisms and risks (Elmahjub et al. 2026)

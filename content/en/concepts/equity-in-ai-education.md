@@ -2,7 +2,7 @@
 
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-06T03:00:00-05:00"
+updated: "2026-11-11T08:45:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -85,6 +85,8 @@ A large-scale [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|
 - **Implicit demographic signals are a less controllable bias channel than stated attributes.** [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto and Hovy (2026)]] held each task input fixed while varying only the demographic context across six instruction-tuned [[llm|LLMs]] and three educational tasks, producing 192,480 inference calls, and separated *explicit* signals (stated student attributes) from *implicit* ones carried by a ten-prompt [[conversational-ai|conversation]] history. In [[automated-essay-scoring|automated essay scoring]] most models were comparatively stable under explicit conditioning, while implicit conditioning inflated scores — Llama-70B scored 1.57 points above its own default (p < 0.001). In metalinguistic question answering the implicit condition drifted the other way: responses for lower [[education-levels|education levels]] received less positive sentiment, a 0.3 average gap between the lowest and the higher education levels on a 0-4 scale against a within-item standard deviation of 0.07. The equity difficulty is structural — the cue is not a stated attribute that a policy can forbid or a prompt field that an audit can inspect, but a property of the interaction itself.
 - **Verification can redirect a gain to weaker students.** [[verified-study-materials-learning-gains-2026|Dang & Nguyen (2026)]] found expert-verified AI study materials in a first-year economics course were associated with a 2.34-mark gain, but roughly three-quarters arose in the bottom quintile, and the share of marks below the 60% boundary fell by 24.7 points - moving the checking burden from students to an accountable tutor.
 
+The same review separates assistance from disparity reduction. Of 61 higher-education studies, 35 addressed equity: disability-related accessibility in 11, linguistic support in 10, and targeted support for named groups or learners with lower prior achievement in nine. Those findings document help reaching students, not gaps closing. One dyslexia-focused survey never recorded participants' diagnoses, and differentiated materials prepared by prospective teachers were never tested with the pupils they were designed for ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido et al., 2026]]).
+
 ## Linguistic, cultural, and disability inclusion
 
 - **Language:** Most AI tools prioritize English, marginalizing [[multilingual-learning|multilingual]] learners. [[genai-linguistic-diversity-academic-writing|Linguistic diversity in academic writing]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages]], and [[language-learning]] research address this.
@@ -146,6 +148,7 @@ Equity also has an environmental and computational dimension: unequal access to 
 - [[student-support-and-success]] — who support systems reach, and the risks of acting on a risk score
 
 ## Connected Articles
+- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 35 of 61 studies addressed equity, but assistance was documented rather than disparities reduced (Aybar-Bellido et al., 2026)
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — How GenAI visual bias enters multimodal assessment, and why counter-narrating it is a teacher competency
 - [[rented-self-decoupling-performance-becoming-2026]] — The rented self: rent paid in money, self and standards, and licenses that end at graduation
 - [[verified-study-materials-learning-gains-2026]] — Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course
