@@ -1,7 +1,7 @@
 ---
 title: "LLM-Generated Summaries for Teachers: A Randomized Field Experiment in a Digital Learning Platform"
 created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+updated: "2026-11-11T08:20:00-05:00"
 type: article
 evidence_context: educational
 published: "2026"
@@ -15,7 +15,7 @@ pedagogy: []
 technology: [generative-ai, llm]
 assessment: [formative-assessment]
 methods: [rct, quantitative-research]
-confidence: medium
+confidence: high
 sources: ['raw/papers/lim-llm-summaries-teachers-rct-2026.md']
 source_url: "https://doi.org/10.1145/3774398.3811606"
 contributors: [editor]
@@ -24,19 +24,19 @@ ai_assist:
     role: drafting
     date: "2026-11-11"
     agent: hermes-agent
-source_depth: abstract only
+source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Lim, Worden, Sales and Heffernan ran a pre-registered randomized field experiment on ASSISTments, a digital learning platform used in [[k-12|K-12]] mathematics, to test whether [[llm|LLM]]-generated assignment summaries reduce the cost of reading reports. More than 800 teachers were randomized to business-as-usual reports or to reports carrying a "Generate Summary" feature, and about 40% of the treatment group used it at least once. Access produced no statistically significant change in logged teacher behavior, yet students of treated teachers started and completed more assignments: about 3–4 percentage points under intent-to-treat, with +7.7pp and +9.1pp among teachers who used them. The authors interpret the split as [[teacher-role|teacher]] follow-up happening off the platform, and argue that scaling such support requires room in the workflow, not only better summaries.
+> **Synthesis:** Lim, Worden, Sales and Heffernan ran a pre-registered randomized field experiment on ASSISTments, a digital learning platform used in [[k-12|K-12]] mathematics, to test whether [[llm|LLM]]-generated assignment summaries reduce the cost of reading reports. 874 teachers were randomized to business-as-usual reports or to reports carrying a "Generate Summary" feature, and about 40% of the treatment group used it at least once. Access produced no statistically significant change in logged teacher behavior, yet students of treated teachers started and completed more assignments: about 3–4 percentage points under intent-to-treat, with +7.7pp and +9.1pp among teachers who used them. The authors interpret the split as [[teacher-role|teacher]] follow-up happening off the platform, and argue that scaling such support requires room in the workflow, not only better summaries.
 
 ## Key Findings
 
-1. **Access alone did not change logged platform behavior.** Pre-registered intent-to-treat estimates for creating assignments and viewing reports were not statistically significant, and neither were the corresponding local average treatment effects of usage; point estimates were positive in both cases.
+1. **Access alone did not change logged platform behavior.** Pre-registered intent-to-treat estimates for creating and viewing reports were small and positive but not statistically significant (874 teachers in the first analytic sample, 810 in the second), and the local average treatment effects scaled by use were also non-significant. The authors call the confidence intervals wide relative to the estimates.
 2. **Students started more assignments.** The average proportion of students who started assignments was significantly higher among teachers in the summary condition, with covariate-adjusted intent-to-treat gains of about 3–4 percentage points.
 3. **Completions rose by a similar margin.** The average proportion of students who completed assignments was also significantly higher, again about 3–4 percentage points under intent-to-treat with covariate adjustment.
 4. **Use was associated with larger gains than access.** Two-stage least squares estimates put the effect of actually using summaries at +7.7pp for assignment starts and +9.1pp for completions.
-5. **Take-up was moderate.** About 40% of teachers used the feature at least once, so most of the treatment group never exercised the option the experiment offered.
+5. **Most teachers never used it.** 38% of the treatment group in the first analytic sample and 40% in the second generated a summary at least once (first-stage F = 268.5 and 276.4). Of the 440 treatment teachers, 62% never generated one, 48% of those who tried it generated only a single summary, and 10 teachers accounted for more than ten each.
 6. **Teachers with fewer assignments gained more.** A post-hoc exploratory analysis found larger gains among teachers who created fewer assignments, which the authors suggest may reflect an easier route from insight to action when the assignment set is smaller.
 7. **Survey ratings were positive but thinly supported.** Teachers who responded to follow-up surveys generally rated the summaries positively, though response rates were low.
 
@@ -70,7 +70,7 @@ The take-up rate also shapes how the results should be read. With about 40% of t
 
 ## Limitations
 
-The trial covers one platform, subject and level: ASSISTments in K-12 mathematics, with teachers randomized. The student outcomes are assignment starts and completions, which are engagement traces rather than measures of learning, so it cannot show that students learned more — only that they did more of the assigned work. The record available here reports no effect sizes, confidence intervals, or p-values for the null results, so the precision of those estimates cannot be checked, and the absence of a significant effect on logged behavior should not be read as proof that teacher behavior did not change. The subgroup finding on assignment volume is post-hoc. Survey evidence rests on a low response rate, which makes the positive ratings weak evidence on perceptions. And the design cannot observe the offline follow-up actions that the authors invoke to explain the pattern, so that explanation remains an interpretation rather than a measured mechanism.
+The trial covers one platform, subject and level: ASSISTments in K-12 mathematics, with teachers randomized. The student outcomes are assignment starts and completions, which are engagement traces rather than measures of learning, so it cannot show that students learned more — only that they did more of the assigned work. The null estimates on logged teacher behavior come with wide confidence intervals relative to their size, so the absence of a significant effect should not be read as proof that nothing changed. Student participation measures are teacher-level aggregates averaged across assignments, which is why the authors ran an assignment-level check after removing the highest-volume quartile. The subgroup finding on assignment volume is post-hoc. Survey evidence rests on a low response rate, which makes the positive ratings weak evidence on perceptions. And the design cannot observe the offline follow-up actions that the authors invoke to explain the pattern, so that explanation remains an interpretation rather than a measured mechanism.
 
 ## Citation
 

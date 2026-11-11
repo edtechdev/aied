@@ -138,7 +138,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 
 - **Human-vetted AI feedback improved revisions but not post-test learning.** In a randomized trial with 354 undergraduates and 1,366 essays, AI-mediated TA feedback raised revision quality (Cohen's d = 0.50) while post-test scores stayed flat, and the gain grew as TAs adopted more suggestions ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]]).
 
-Two new studies narrow what AI feedback can claim. Across 391 German secondary students, LLM feedback and teacher feedback produced no significant difference in revision quality or later writing, while students rated the AI feedback clearer and more motivating ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). In an eight-week study of 247 undergraduates, perceived feedback quality predicted competence (β = 0.52), autonomy (β = 0.44) and relatedness (β = 0.28), which locates part of the effect in how feedback is experienced rather than in its accuracy alone ([[liu-ai-feedback-motivational-pathways-2026|Liu et al., 2026]]).
+Two new studies narrow what AI feedback can claim. Across 391 German secondary students, no outcome differed significantly between teacher-written and LLM feedback: revisions, later writing, time on task and perceptions were statistically indistinguishable. Bayesian posteriors leaned toward teacher feedback on later writing (.80) and affect (.90), with a quarter to two-fifths of the mass inside the equivalence region. Immediate AI feedback alone was rated more useful and more motivating ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). In an eight-week study of 247 undergraduates, perceived feedback quality predicted competence (β = 0.52), autonomy (β = 0.44) and relatedness (β = 0.28), which locates part of the effect in how feedback is experienced rather than in its accuracy alone ([[liu-ai-feedback-motivational-pathways-2026|Liu et al., 2026]]).
 
 ## Common Misconceptions
 
@@ -168,7 +168,7 @@ Two new studies narrow what AI feedback can claim. Across 391 German secondary s
 
 ## Connected Articles
 
-- [[meyer-teacher-ai-feedback-writing-2026]] — 391 German students: AI and teacher feedback differed neither in revisions nor later writing, though AI feedback was rated clearer (Meyer et al., 2026)
+- [[meyer-teacher-ai-feedback-writing-2026]] — 391 German students: no significant difference on any outcome; immediacy, not authorship, drew the better ratings (Meyer et al., 2026)
 - [[liu-ai-feedback-motivational-pathways-2026]] — 247 undergraduates: perceived feedback quality predicted competence, autonomy and relatedness (Liu et al., 2026)
 - [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — Human-vetted AI feedback raised revision quality (d = 0.50) but not post-test scores (Lu et al. 2026)
 - [[guberman-control-or-support-grading-2026]] — Students welcomed AI feedback because feedback was scarce, not because it was better (Guberman 2026)
