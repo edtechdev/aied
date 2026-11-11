@@ -3,11 +3,11 @@ title: "AI training and science student teachers’ TPACK in campus-based and di
 created: "2026-09-13T11:05:00-04:00"
 updated: "2026-09-24T12:05:00-04:00"
 type: article
-pedagogy: [online-teaching-and-learning, self-efficacy]
+pedagogy: [online-teaching-and-learning, self-efficacy, tpack]
 assessment: [educational-measurement]
 methods: [quantitative-research]
 ethics: [digital-divide, equity-in-ai-education, global-south]
-foundations: [tpack, teacher-ai-competency]
+foundations: [teacher-ai-competency]
 research_method: [survey]
 discipline: [science education]
 audience: [faculty developers, instructors, researchers, policymakers, curriculum designers, administrators]

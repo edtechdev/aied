@@ -10,8 +10,8 @@ page_kind: [framework]
 research_method: [system development, user study]
 discipline: [biology education, chemistry education]
 audience: [instructors, researchers, software developers]
-foundations: [human-ai-collaboration]
-pedagogy: [misconceptions, mastery-learning, self-regulated-learning]
+foundations: [human-ai-collaboration, misconceptions]
+pedagogy: [mastery-learning, self-regulated-learning]
 technology: [knowledge-tracing, student-modeling, adaptive-learning, personalized-learning, llm, simulating-students]
 assessment: [automated-question-generation, formative-assessment, automated-assessment]
 methods: [usability-research, quantitative-research]
@@ -24,7 +24,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** CoLearn argues that a wrong answer is diagnostic content rather than a single bit, and builds an [[intelligent-tutoring|agentic tutor]] around that premise. A persistent learner-state memory stores per-topic mastery and mined misconceptions, updated by a soft-evidence variant of [[knowledge-tracing|Bayesian Knowledge Tracing]] in which an [[llm]] grader acts as a continuous observation function. That memory drives [[automated-question-generation|question generation]] toward the learner's weakest topic, and the loop is exposed through a dashboard and a built-in blind A/B test so the [[personalized-learning|personalization]] can be inspected rather than trusted. In blind comparison, adaptive questions were preferred over random-topic ones 68% of the time in [[biology-education|Biology]] and 69% in [[chemistry-education|Chemistry]], and the agent's mastery estimates converged toward hidden ground truth.
+> **Synthesis:** CoLearn argues that a wrong answer is diagnostic content rather than a single bit, and builds an [[intelligent-tutoring|agentic tutor]] around that premise. A persistent learner-state memory stores per-topic mastery and mined [[misconceptions|misconceptions]], updated by a soft-evidence variant of [[knowledge-tracing|Bayesian Knowledge Tracing]] in which an [[llm]] grader acts as a continuous observation function. That memory drives [[automated-question-generation|question generation]] toward the learner's weakest topic, and the loop is exposed through a dashboard and a built-in blind A/B test so the [[personalized-learning|personalization]] can be inspected rather than trusted. In blind comparison, adaptive questions were preferred over random-topic ones 68% of the time in [[biology-education|Biology]] and 69% in [[chemistry-education|Chemistry]], and the agent's mastery estimates converged toward hidden ground truth.
 
 ## Key Findings
 1. **Personalized questions won the blind comparison.** Across 18 raters completing 12 comparisons each, adaptive items were preferred 0.68 of the time in Biology and 0.69 in Chemistry, against a 0.5 chance rate (two-sided sign test, p = 0.008).

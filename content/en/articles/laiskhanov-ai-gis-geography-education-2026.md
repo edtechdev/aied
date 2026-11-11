@@ -12,10 +12,10 @@ level: [higher ed, undergraduate, graduate]
 audience: [instructors, curriculum designers, faculty developers, researchers]
 technology: [generative-ai, llm, personalized-learning]
 assessment: [self-report-measures]
-pedagogy: [project-based-learning, problem-based-learning, inquiry-based-learning]
+pedagogy: [project-based-learning, problem-based-learning, inquiry-based-learning, tpack]
 methods: [quantitative-research]
 ethics: [hallucination-risk, bias-mitigation, privacy]
-foundations: [ai-literacy, tpack, teacher-ai-competency, curriculum-design]
+foundations: [ai-literacy, teacher-ai-competency, curriculum-design]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

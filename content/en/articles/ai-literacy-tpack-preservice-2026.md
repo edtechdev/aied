@@ -18,10 +18,11 @@ ai_assist:
     date: "2026-11-03"
     agent: hermes-agent
 source_depth: full text
-foundations: [ai-literacy, tpack]
+foundations: [ai-literacy]
 technology: [technology-acceptance-model]
 methods: [quantitative-research]
 assessment: [self-report-measures]
+pedagogy: [tpack]
 ---
 
 > **Synthesis:** Zhao surveyed 423 pre-service teachers in blended courses at one Chinese university and asked how [[ai-literacy|perceived AI literacy]] and [[tpack|TPACK]] relate to deep learning, treating perceived usefulness, ease of use and value as [[technology-acceptance-model|technology-acceptance]] mediators. All six indirect paths were positive and significant under both PLS-SEM and covariance-based SEM, but their sizes differ by an order of magnitude: TPACK through ease of use was the largest (0.212) and AI literacy through usefulness the smallest (0.033). A fuzzy-set configurational analysis then found no necessary condition at all — 26 of 28 observed configurations cleared 0.80 consistency — which reframes the mediation as one route among several sufficient ones rather than the route.

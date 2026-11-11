@@ -2,7 +2,7 @@
 title: "খণ্ডন পাঠ"
 created: "2026-08-26T10:20:00-04:00"
 type: concept
-pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
+pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
 discipline: [science education]
 confidence: high
@@ -17,6 +17,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+foundations: [misconceptions]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*

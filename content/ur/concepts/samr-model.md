@@ -2,7 +2,7 @@
 title: "SAMR ماڈل"
 created: "2026-09-10T09:50:00-04:00"
 type: concept
-foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
+foundations: [educational-development, learning-design, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
 page_kind: [framework]
 audience: [instructors, curriculum designers, researchers]
@@ -18,6 +18,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*

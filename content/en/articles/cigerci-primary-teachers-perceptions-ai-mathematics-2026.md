@@ -3,8 +3,8 @@ title: "Evaluation of primary school teachers’ use and perceptions of artifici
 created: "2026-09-23T12:50:00-04:00"
 updated: "2026-09-23T13:40:00-04:00"
 type: article
-foundations: [teacher-ai-competency, teacher-role, tpack, ai-literacy]
-pedagogy: [professional-training, motivation, problem-solving]
+foundations: [teacher-ai-competency, teacher-role, ai-literacy]
+pedagogy: [professional-training, motivation, problem-solving, tpack]
 technology: [generative-ai, technology-acceptance-model]
 assessment: [formative-assessment, feedback, self-report-measures]
 methods: [mixed-methods-research]
@@ -27,7 +27,7 @@ reviewed_by: [editor]
 
 ---
 
-> **Synthesis:** Ciğerci and Uygun (2026) surveyed 302 primary school teachers in Türkiye during the 2024–2025 academic year and then interviewed 10 of them, using an explanatory sequential [[mixed-methods-research|mixed-methods]] design: survey first, then interviews used to explain it. The survey applied the Turkish adaptation of a 25-item multidimensional scale covering willingness to use AI, attitudes toward AI, professional expectations and personal experiences. Teachers reported moderately positive overall perceptions (M = 3.62, SD = 0.61), with willingness (M = 3.98) and attitudes (M = 3.82) well above personal experiences (M = 3.00). Frequency of AI use and prior training were the variables most consistently associated with favorable perceptions, while gender, professional experience and educational background produced dimension-specific differences only. The interviews positioned AI as supportive, [[teacher-role|teacher-mediated]] work across planning, materials, [[visualization]], [[problem-solving|problem solving]], assessment, feedback and out-of-class learning, alongside concerns about infrastructure, reliability, privacy, age appropriateness, [[teacher-ai-competency|teacher competence]] and student over-reliance. The authors stress that the study documents perceptions and reported use, not instructional effectiveness.
+> **Synthesis:** Ciğerci and Uygun (2026) surveyed 302 primary school teachers in Türkiye during the 2024–2025 academic year and then interviewed 10 of them, using an explanatory sequential [[mixed-methods-research|mixed-methods]] design: survey first, then interviews used to explain it. The survey applied the Turkish adaptation of a 25-item multidimensional scale covering willingness to use AI, attitudes toward AI, professional expectations and personal experiences. Teachers reported moderately positive overall perceptions (M = 3.62, SD = 0.61), with willingness (M = 3.98) and attitudes (M = 3.82) well above personal experiences (M = 3.00). Frequency of AI use and prior training were the variables most consistently associated with favorable perceptions, while gender, professional experience and educational background produced dimension-specific differences only. The interviews positioned AI as supportive, [[teacher-role|teacher-mediated]] work across planning, materials, [[visualization]], [[problem-solving|problem solving]], assessment, [[feedback|feedback]] and out-of-class learning, alongside concerns about infrastructure, reliability, [[privacy|privacy]], age appropriateness, [[teacher-ai-competency|teacher competence]] and student over-reliance. The authors stress that the study documents perceptions and reported use, not instructional effectiveness.
 
 ## Key Findings
 

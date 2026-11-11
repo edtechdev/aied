@@ -5,13 +5,14 @@ updated: "2026-09-19T06:58:22-04:00"
 type: article
 technology: [cognitive-diagnosis, generative-ai, learning-analytics, llm, visualization]
 assessment: [automated-assessment, feedback, formative-assessment]
-pedagogy: [misconceptions]
+pedagogy: []
 sources: ['raw/papers/llm-common-modeling-mistakes-formalisms-2026.md']
 confidence: high
 research_method: [system development, design and evaluation study]
 discipline: [cs education]
 level: [higher ed]
 audience: [instructors, researchers, software developers]
+foundations: [misconceptions]
 ---
 
 > **Synthesis:** Learning to model natural-language scenarios with mathematical formalisms — logical formulas, equations, regular expressions — is a central but hard [[cs-education|CS]] and [[math-education|STEM]] skill, and giving targeted [[feedback]] requires knowing which mistakes are common. Because most of these formalisms have a context-free grammar, each attempt corresponds to a syntax tree, and mistakes appear as recurring differences between the trees of incorrect and correct formalizations. Killich and colleagues present a tool-supported workflow that (1) has an [[llm]] propose candidate "bug fixing transformations" that explain many incorrect-to-correct pairs in large data sets, (2) clusters the candidates into a correlation graph, and (3) visualizes the resulting hierarchical clusters for instructors and [[learning-analytics|CS education researchers]]. Every candidate is validated algorithmically before it is kept, and the workflow reproduces hand-identified propositional-logic [[misconceptions]], scales to far larger data sets than SAT-based alternatives, and generalizes to modal logic and computation tree logic.

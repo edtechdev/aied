@@ -11,7 +11,7 @@ discipline: [cs education]
 level: [higher ed]
 audience: [instructors, educational technology developers]
 technology: [intelligent-tutoring, llm-training-and-fine-tuning, conversational-ai]
-pedagogy: [socratic-method, scaffolding, misconceptions]
+pedagogy: [socratic-method, scaffolding]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -19,6 +19,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 source_depth: full text
+foundations: [misconceptions]
 ---
 
 > **Synthesis:** Kopytskyi, Yang & Seyedebrahimi (2026) build SocraticRepair, a planning-guided [[socratic-method|Socratic tutoring]] framework for program debugging, and instantiate it by [[llm-training-and-fine-tuning|fine-tuning]] Qwen2.5-Coder-7B-Instruct on synthetic multi-turn dialogues drawn from four Python programming datasets. A tutor first generates a [[pedagogy|pedagogical]] plan, then conditions each reply on the learner's state and demonstrated plan objectives, treating the code's functional correctness separately from conceptual progress. Against GPT-4o on 158 matched dialogues, SocraticRepair scored higher on stepwise [[scaffolding]] and debugging question quality and cut premature solution disclosure from 7.43% to 1.88% of tutor turns, though GPT-4o remained stronger on technical correctness and adaptive feedback. The clearest remaining failure is the learned planner itself, which produced technically flawed plans for most held-out cases. The work targets [[higher-ed|higher-education]] [[cs-education|CS education]], where a learner's program may pass its tests while the underlying [[misconceptions|misconception]] survives.

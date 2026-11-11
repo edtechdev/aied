@@ -3,8 +3,8 @@ title: "Reconceptualizing outdoor geoscience learning for the generative AI era:
 created: "2026-10-09T09:30:00-04:00"
 updated: "2026-10-09T09:30:00-04:00"
 type: article
-foundations: [human-ai-collaboration, cognitive-offloading, agency, teacher-role, theory-development-aied]
-pedagogy: [inquiry-based-learning, experiential-learning, situated-learning, scaffolding, misconceptions]
+foundations: [human-ai-collaboration, cognitive-offloading, agency, teacher-role, theory-development-aied, misconceptions]
+pedagogy: [inquiry-based-learning, experiential-learning, situated-learning, scaffolding]
 technology: [generative-ai, llm, multimodal, conversational-ai]
 assessment: [process-oriented-assessment, evaluative-judgment]
 methods: [design-based-research, research-methods-aied]

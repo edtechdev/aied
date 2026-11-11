@@ -2,7 +2,7 @@
 title: Çürütme Metni
 created: "2026-10-14T21:12:00-04:00"
 type: concept
-pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
+pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
 discipline: [science education]
 confidence: high
@@ -16,6 +16,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+foundations: [misconceptions]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

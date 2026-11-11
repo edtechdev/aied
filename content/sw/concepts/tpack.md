@@ -2,7 +2,7 @@
 title: Maarifa ya Teknolojia, Ufundishaji na Yaliyomo (TPACK)
 created: "2026-10-13T06:10:00-04:00"
 type: concept
-foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
+foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
 connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
@@ -16,6 +16,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*

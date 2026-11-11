@@ -12,8 +12,8 @@ ai_assist:
     date: "2026-09-24"
     agent: hermes-agent
 reviewed_by: [editor]
-foundations: [ai-education, agentic-ai, teacher-role, human-ai-collaboration, limitations-in-aied-research]
-pedagogy: [scaffolding, misconceptions, situated-learning, transfer-of-learning, productive-failure]
+foundations: [ai-education, agentic-ai, teacher-role, human-ai-collaboration, limitations-in-aied-research, misconceptions]
+pedagogy: [scaffolding, situated-learning, transfer-of-learning, productive-failure]
 technology: [pedagogical-agent, intelligent-tutoring, simulating-students, edtech-platform, cognitive-diagnosis]
 ethics: [privacy, trust-calibration, pedagogical-safety]
 research_method: [system development, experiment]

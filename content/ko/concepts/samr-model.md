@@ -3,7 +3,7 @@ title: SAMR 모형
 created: "2026-09-10T09:50:00-04:00"
 updated: "2026-11-07T23:52:37-05:00"
 type: concept
-foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
+foundations: [educational-development, learning-design, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
 page_kind: [framework]
 audience: [instructors, curriculum designers, researchers]
@@ -18,6 +18,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*

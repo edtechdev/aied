@@ -3,7 +3,7 @@ title: "Comparing the effectiveness of expert-written text, AI-generated text, a
 created: "2026-08-26T10:10:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
-pedagogy: [cognitive-psychology, metacognition, misconceptions, refutation-text]
+pedagogy: [cognitive-psychology, metacognition, refutation-text]
 technology: [generative-ai]
 research_method: [quasi-experiment]
 discipline: [science education, physics education]
@@ -12,9 +12,10 @@ sources: ['raw/papers/akdogan-heat-temperature-conceptual-change-thesis-2025.md'
 confidence: high
 audience: [instructors, instructional designers, researchers]
 page_kind: [evaluation]
+foundations: [misconceptions]
 ---
 
-> **Synthesis:** Akdoğan (2025) empirically investigates whether [[generative-ai|Generative AI]] improves students' conceptual understanding of heat and temperature. Using a quasi-experimental Solomon Four-Group design with 413 10th-grade students in Ankara, Türkiye, the thesis compared three interventions targeting heat/temperature misconceptions: an **expert-written conceptual change text** (CCT), an **AI-generated CCT**, and an **interactive AI dialogue with ChatGPT**. Findings reveal that both CCT interventions — expert and AI-generated — were equally and significantly more effective at reducing misconceptions than the interactive AI dialogue, which offered no significant advantage over the control group. Intervention benefits were almost exclusively limited to high-achieving students; personal epistemologies (about justification and changeability of knowledge) and metacognitive awareness of global reading strategies significantly moderated results.
+> **Synthesis:** Akdoğan (2025) empirically investigates whether [[generative-ai|Generative AI]] improves students' conceptual understanding of heat and temperature. Using a quasi-experimental Solomon Four-Group design with 413 10th-grade students in Ankara, Türkiye, the thesis compared three interventions targeting heat/temperature [[misconceptions|misconceptions]]: an **expert-written conceptual change text** (CCT), an **AI-generated CCT**, and an **interactive AI dialogue with ChatGPT**. Findings reveal that both CCT interventions — expert and AI-generated — were equally and significantly more effective at reducing misconceptions than the interactive AI dialogue, which offered no significant advantage over the control group. Intervention benefits were almost exclusively limited to high-achieving students; personal epistemologies (about justification and changeability of knowledge) and metacognitive awareness of global reading strategies significantly moderated results.
 
 ## Key Findings
 

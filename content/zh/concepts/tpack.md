@@ -3,7 +3,7 @@ title: 技术教学内容知识（TPACK）
 created: "2026-08-14T10:37:25-04:00"
 updated: "2026-11-07T17:17:38-05:00"
 type: concept
-foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
+foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
 connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
@@ -17,6 +17,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*

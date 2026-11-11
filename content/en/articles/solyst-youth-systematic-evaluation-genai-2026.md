@@ -7,8 +7,8 @@ authors: ["Solyst, J.", "Walker, L.", "Handa, S.", "Nurdin, F.", "Shapiro, R. B.
 published: "2026-01-01"
 venue: "Proceedings of the 25th Interaction Design and Children Conference (IDC 2026)"
 source_url: https://doi.org/10.1145/3773077.3806125
-foundations: [ai-literacy, critical-thinking, learner-identity, limitations-in-aied-research]
-pedagogy: [inquiry-based-learning, critical-pedagogy, creativity, metacognition, misconceptions, collaborative-learning, student-ai-interaction, scaffolding]
+foundations: [ai-literacy, critical-thinking, learner-identity, limitations-in-aied-research, misconceptions]
+pedagogy: [inquiry-based-learning, critical-pedagogy, creativity, metacognition, collaborative-learning, student-ai-interaction, scaffolding]
 technology: [generative-ai, multimodal, prompt-engineering, edtech-platform]
 assessment: [evaluative-judgment, self-assessment]
 methods: [ai-ed-evaluation, qualitative-research, mixed-methods-research, design-based-research, usability-research]

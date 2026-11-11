@@ -4,7 +4,7 @@ created: "2026-09-22T19:49:53-04:00"
 updated: "2026-11-07T17:17:38-05:00"
 weight: 65
 type: faq
-foundations: [educational-development, teacher-role, tpack, teacher-ai-competency]
+foundations: [educational-development, teacher-role, teacher-ai-competency]
 methods: [mixed-methods-research]
 research_method: [survey, case study]
 audience: [faculty developers, administrators]
@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*

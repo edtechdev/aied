@@ -3,13 +3,14 @@ title: "Conceptualizing pre-service teachers' readiness for AI integration into 
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article
-foundations: [ai-literacy, tpack]
+foundations: [ai-literacy]
 assessment: [assessment]
 audience: [instructors, faculty developers]
 research_method: [survey]
 level: [teacher education]
 sources: ['raw/papers/conceptualizing-preservice-teachers-ai-readiness-2026.md']
 confidence: high
+pedagogy: [tpack]
 ---
 
 > **Synthesis:** Reyes-Rojas, Díaz, Ruz-Reveco, Castro, and Reyes-González (2026) adapt the intelligent-[[tpack]] (iTPACK) instrument originally developed by Celik (2023) for in-service teachers to measure [[teacher-education]]' readiness to integrate AI into their training context. Conducting a [[quantitative-research|quantitative]] cross-sectional survey of 366 pre-service teachers drawn from eleven universities in Chile, they translated the 27-item instrument into Spanish through a two-translator cross-cultural adaptation and analyzed responses with Confirmatory Factor Analysis (CFA) using both Maximum Likelihood and Weighted Least Squares Mean and Variance Adjusted (WLSMV) estimators, which are better suited to ordinal Likert data. The adapted model achieved excellent fit after removing three items (CFI = 0.997, TLI = 0.997, RMSEA = 0.028, SRMR = 0.038), and non-parametric Quade tests controlling for age and academic level revealed statistically significant differences in iTPACK dimensions by academic progress level and by type of institution (public vs. private), while gender, geographic location, and type of major showed no noteworthy differences. The study extends the iTPACK conceptualization to the pre-service population, providing a validated Spanish instrument that foregrounds the framework's [[ethics]] domain and surfacing key areas for future [[curriculum-design|curriculum]] development and support in [[teacher-education]].

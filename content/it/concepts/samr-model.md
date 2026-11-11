@@ -3,7 +3,7 @@ title: "Modello SAMR"
 created: "2026-10-14T21:55:00-04:00"
 updated: "2026-11-08T06:32:22-05:00"
 type: concept
-foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
+foundations: [educational-development, learning-design, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
 page_kind: [framework]
 audience: [instructors, curriculum designers, researchers]
@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*

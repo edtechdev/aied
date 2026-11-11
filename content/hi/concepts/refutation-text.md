@@ -3,7 +3,7 @@ title: "खंडन पाठ"
 created: "2026-08-26T10:20:00-04:00"
 updated: "2026-11-07T18:36:55-05:00"
 type: concept
-pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
+pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
 discipline: [science education]
 confidence: high
@@ -17,6 +17,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+foundations: [misconceptions]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*

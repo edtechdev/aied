@@ -2,7 +2,7 @@
 title: Текст-опровержение
 created: "2026-10-13T15:13:05-04:00"
 type: concept
-pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
+pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
 discipline: [science education]
 confidence: high
@@ -20,6 +20,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+foundations: [misconceptions]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*

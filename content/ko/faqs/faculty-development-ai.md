@@ -5,7 +5,7 @@ updated: "2026-11-08T00:14:58-05:00"
 connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 weight: 65
 type: faq
-foundations: [educational-development, teacher-role, tpack, teacher-ai-competency]
+foundations: [educational-development, teacher-role, teacher-ai-competency]
 methods: [mixed-methods-research]
 research_method: [survey, case study]
 audience: [faculty developers, administrators]
@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*

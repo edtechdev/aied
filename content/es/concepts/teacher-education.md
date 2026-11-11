@@ -3,7 +3,7 @@ title: "Formación docente"
 created: "2026-09-28T19:17:40-04:00"
 updated: "2026-11-08T10:12:52-05:00"
 type: concept
-foundations: [ai-literacy, teacher-role, tpack]
+foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher education, k 12, adult learning]
@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*

@@ -3,8 +3,8 @@ title: "AI Mindset – An Empirically Tested Theoretical Framework on the Psycho
 created: "2026-09-18T14:20:00-04:00"
 updated: "2026-09-20T06:36:30-04:00"
 type: article
-foundations: [ai-literacy, human-ai-collaboration, theory-development-aied, tpack, teacher-ai-competency]
-pedagogy: [anxiety-and-stress, motivation, self-determination-theory, self-efficacy]
+foundations: [ai-literacy, human-ai-collaboration, theory-development-aied, teacher-ai-competency]
+pedagogy: [anxiety-and-stress, motivation, self-determination-theory, self-efficacy, tpack]
 technology: [generative-ai, technology-acceptance-model]
 methods: [quantitative-research]
 research_method: [survey, structural equation modeling]
@@ -15,7 +15,7 @@ sources: ['raw/papers/ai-mindset-psychological-framework-2026.md', 'raw/papers/a
 confidence: high
 ---
 
-> **Synthesis:** Feng, Koch and Carolus propose the AI Mindset framework: teachers' engagement with AI is not a matter of attitudes or skills alone but a triadic psychological architecture of dispositional factors (personality, basic psychological needs, self-efficacy, [[self-regulated-learning|self-regulation]]), contextual and social facilitations (habit, social influence) and technology-related appraisals (attitudes, fear, performance and effort expectancy, hedonic motivation). From that framework they derive a mediation model in which these components predict AI use both directly and through [[pedagogy|pedagogical]] AI competence, operationalized as Intelligent-TPACK plus ethics. They tested it with structural equation modeling on 224 German schoolteachers surveyed between July and November 2025, with a final analyzed sample of 205. The model fitted exceptionally well and explained 62% of the variance in AI use and 46% in AI competence. Competence was the strongest proximal predictor of use, habit the strongest contextual predictor on both paths, effort expectancy worked fully through competence, and fear split into a positive direct effect on use and a negative indirect effect via competence. The takeaway is that competence is the transmission resource through which mindset becomes behavior, so support should be multilevel rather than attitudinal alone.
+> **Synthesis:** Feng, Koch and Carolus propose the AI Mindset framework: teachers' engagement with AI is not a matter of attitudes or skills alone but a triadic psychological architecture of dispositional factors (personality, basic psychological needs, [[self-efficacy|self-efficacy]], [[self-regulated-learning|self-regulation]]), contextual and social facilitations (habit, social influence) and technology-related appraisals (attitudes, fear, performance and effort expectancy, hedonic [[motivation|motivation]]). From that framework they derive a mediation model in which these components predict AI use both directly and through [[pedagogy|pedagogical]] [[ai-literacy|AI competence]], operationalized as Intelligent-TPACK plus ethics. They tested it with structural equation modeling on 224 German schoolteachers surveyed between July and November 2025, with a final analyzed sample of 205. The model fitted exceptionally well and explained 62% of the variance in AI use and 46% in AI competence. Competence was the strongest proximal predictor of use, habit the strongest contextual predictor on both paths, effort expectancy worked fully through competence, and fear split into a positive direct effect on use and a negative indirect effect via competence. The takeaway is that competence is the transmission resource through which mindset becomes behavior, so support should be multilevel rather than attitudinal alone.
 
 ## Key Findings
 

@@ -3,8 +3,8 @@ title: "Tashbihi na Ulinganifu"
 created: "2026-11-08T12:50:00-05:00"
 updated: "2026-11-08T12:50:00-05:00"
 type: concept
-foundations: [ai-literacy, critical-thinking]
-pedagogy: [misconceptions, student-engagement]
+foundations: [ai-literacy, critical-thinking, misconceptions]
+pedagogy: [student-engagement]
 technology: [generative-ai]
 audience: [instructors, learners, researchers]
 level: [higher ed]

@@ -7,8 +7,8 @@ authors: ["Navas-Romero, C.", "Zakharova-Garcia, G.", "Guillen-Gamez, F. D.", "C
 published: "2026-10-16"
 venue: "Education Sciences"
 source_url: https://doi.org/10.3390/educsci16101736
-foundations: [ai-education, cognitive-offloading, learning-design, limitations-in-aied-research, teacher-ai-competency, theories-and-frameworks, tpack]
-pedagogy: [metacognition, problem-solving, professional-training, self-regulated-learning]
+foundations: [ai-education, cognitive-offloading, learning-design, limitations-in-aied-research, teacher-ai-competency, theories-and-frameworks]
+pedagogy: [metacognition, problem-solving, professional-training, self-regulated-learning, tpack]
 technology: [generative-ai, llm, technology-acceptance-model]
 assessment: [self-report-measures]
 methods: [quantitative-research]

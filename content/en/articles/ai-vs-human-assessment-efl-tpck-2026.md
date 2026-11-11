@@ -3,13 +3,14 @@ title: "AI-Generated versus Human-Developed Assessment Tasks in EFL Context: Ins
 created: "2026-08-16T10:19:32-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article
-foundations: [human-ai-collaboration, tpack]
+foundations: [human-ai-collaboration]
 assessment: [ai-feedback-quality, assessment, automated-assessment]
 methods: [mixed-methods-research]
 discipline: [language learning]
 sources: ['raw/papers/ai-vs-human-assessment-efl-tpck-2026.md']
 confidence: high
 audience: [instructors, assessment designers]
+pedagogy: [tpack]
 ---
 
 > **Synthesis:** Nourashrafi, Alavinia and Darvishi (2026) use a sequential-explanatory [[mixed-methods-research|mixed-methods]] design to compare the [[pedagogy|pedagogical]] and content quality of AI-generated versus human-developed [[assessment]] tasks in English language [[teacher-role|teaching]]. Twenty experienced [[language-learning]] teachers rated 52 assessment tasks drawn from six human-developed lesson plans (from *American English File 3*) and six equivalent AI-generated plans using a TPCK-aligned rubric, followed by semi-structured interviews analyzed with Braun & Clarke's thematic analysis. [[quantitative-research|Quantitative]] results (Chi-square tests) show **no statistically significant differences** across the eight quality criteria: teachers preferred AI for grammar and vocabulary tasks but favored human development for reading, listening, [[writing-education]] and speaking. [[qualitative-research|Qualitative]] analysis locates the split in TPCK integration — AI shows strong technological–content (TK–CK) integration for rule-based content but limited pedagogical (PK) delivery for communicative, context-dependent skills. AI tools are positioned as useful initial resources requiring [[human-ai-collaboration|teacher mediation]] rather than complete replacements.

@@ -3,8 +3,8 @@ title: "Changes in pre-service physics teachers' TPACK and collaborative problem
 created: "2026-09-18T05:10:00-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article
-foundations: [ai-literacy, curriculum-design, teacher-role, tpack, teacher-ai-competency]
-pedagogy: [collaborative-learning, problem-based-learning, scaffolding, self-efficacy]
+foundations: [ai-literacy, curriculum-design, teacher-role, teacher-ai-competency]
+pedagogy: [collaborative-learning, problem-based-learning, scaffolding, self-efficacy, tpack]
 technology: [generative-ai, prompt-engineering]
 assessment: [formative-assessment, group-work, self-report-measures]
 methods: [quantitative-research]

@@ -3,9 +3,9 @@ title: "Assessing AI-TPACK readiness in mathematics teacher education: The role 
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-10-02T07:32:04-04:00"
 type: article
-pedagogy: [self-efficacy]
+pedagogy: [self-efficacy, tpack]
 assessment: [educational-measurement]
-foundations: [tpack]
+foundations: []
 research_method: [survey]
 discipline: [math education]
 sources: ['raw/papers/ai-tpack-mathematics-teacher-education-2026.md']

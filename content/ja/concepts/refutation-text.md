@@ -3,7 +3,7 @@ title: 反論テキスト
 created: "2026-10-10T22:45:44-04:00"
 updated: "2026-11-07T20:21:18-05:00"
 type: concept
-pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
+pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
 discipline: [science education]
 confidence: high
@@ -17,6 +17,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+foundations: [misconceptions]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*

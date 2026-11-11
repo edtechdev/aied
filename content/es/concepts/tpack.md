@@ -3,7 +3,7 @@ title: Conocimiento Tecnológico, Pedagógico y de Contenido (TPACK)
 created: "2026-09-28T20:10:26-04:00"
 updated: "2026-11-05T16:18:45-05:00"
 type: concept
-foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
+foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
 connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*

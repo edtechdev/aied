@@ -4,7 +4,7 @@ created: "2026-10-14T21:58:00-04:00"
 connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 weight: 65
 type: faq
-foundations: [educational-development, teacher-role, tpack, teacher-ai-competency]
+foundations: [educational-development, teacher-role, teacher-ai-competency]
 methods: [mixed-methods-research]
 research_method: [survey, case study]
 audience: [faculty developers, administrators]
@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*

@@ -2,7 +2,7 @@
 title: "Педагогическое образование"
 created: "2026-10-13T21:12:00-04:00"
 type: concept
-foundations: [ai-literacy, teacher-role, tpack]
+foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher education, k 12, adult learning]
@@ -20,6 +20,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 

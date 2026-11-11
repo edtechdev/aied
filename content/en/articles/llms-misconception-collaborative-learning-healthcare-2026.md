@@ -3,7 +3,7 @@ title: "Implementing large language models to support misconception-based collab
 created: "2026-08-26T10:07:00-04:00"
 updated: "2026-09-19T08:58:00-04:00"
 type: article
-pedagogy: [cognitive-psychology, collaborative-learning, misconceptions, refutation-text]
+pedagogy: [cognitive-psychology, collaborative-learning, refutation-text]
 technology: [generative-ai, llm]
 research_method: [theoretical analysis]
 discipline: [medical education]
@@ -11,9 +11,10 @@ sources: ['raw/papers/10.2196_81875.md']
 confidence: high
 audience: [medical educators, instructors]
 level: [higher ed]
+foundations: [misconceptions]
 ---
 
-> **Synthesis:** Cheah et al. (2026) propose a framework for leveraging [[llm|large language models (LLMs)]] to generate misconceptions as a tool for misconception-based [[collaborative-learning|collaborative learning]] in health care education. While AI-generated misconceptions are often viewed as detrimental, the authors argue that LLM-generated misconceptions, when addressed through structured peer discussion, can promote [[refutation-text|conceptual change]] and [[critical-thinking|critical thinking]]. The paper outlines use cases across clinical and basic-science health care disciplines, a practical 10-step guidance for educators, and calls for medium- to long-term [[research-methods-aied|research]] on LLM-supported [[learning-gains|learning outcomes]]. The framework positions LLM-generated misconception texts and [[refutation-text|refutation]]/discussion as a scalable alternative to educator-generated misconception-based learning.
+> **Synthesis:** Cheah et al. (2026) propose a framework for leveraging [[llm|large language models (LLMs)]] to generate [[misconceptions|misconceptions]] as a tool for misconception-based [[collaborative-learning|collaborative learning]] in health care education. While AI-generated misconceptions are often viewed as detrimental, the authors argue that LLM-generated misconceptions, when addressed through structured peer discussion, can promote [[refutation-text|conceptual change]] and [[critical-thinking|critical thinking]]. The paper outlines use cases across clinical and basic-science health care disciplines, a practical 10-step guidance for educators, and calls for medium- to long-term [[research-methods-aied|research]] on LLM-supported [[learning-gains|learning outcomes]]. The framework positions LLM-generated misconception texts and [[refutation-text|refutation]]/discussion as a scalable alternative to educator-generated misconception-based learning.
 
 ## Key Findings
 

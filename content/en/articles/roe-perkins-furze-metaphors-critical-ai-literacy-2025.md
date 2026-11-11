@@ -3,8 +3,8 @@ title: "Reflecting Reality, Amplifying Bias? Using Metaphors to Teach Critical A
 created: "2026-11-07T12:00:00-05:00"
 updated: "2026-11-07T12:00:00-05:00"
 type: article
-foundations: [ai-literacy, critical-thinking]
-pedagogy: [misconceptions, student-engagement]
+foundations: [ai-literacy, critical-thinking, misconceptions]
+pedagogy: [student-engagement]
 technology: [generative-ai]
 audience: [instructors, instructional designers, researchers]
 level: [higher ed]

@@ -3,7 +3,7 @@ title: הכשרת מורים
 created: "2026-10-12T19:00:00-04:00"
 updated: "2026-11-08T11:34:07-05:00"
 type: concept
-foundations: [ai-literacy, teacher-role, tpack]
+foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher education, k 12, adult learning]
@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*

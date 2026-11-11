@@ -4,8 +4,8 @@ published: "2026-10-21"
 created: "2026-10-28T12:21:37-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article
-foundations: [teacher-ai-competency, tpack]
-pedagogy: [professional-training]
+foundations: [teacher-ai-competency]
+pedagogy: [professional-training, tpack]
 technology: [visualization, ai-technologies]
 assessment: [educational-measurement, self-report-measures]
 methods: [quantitative-research]

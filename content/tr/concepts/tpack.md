@@ -2,7 +2,7 @@
 title: Teknolojik Pedagojik İçerik Bilgisi (TPACK)
 created: "2026-10-14T21:50:00-04:00"
 type: concept
-foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
+foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
 connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
@@ -16,6 +16,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

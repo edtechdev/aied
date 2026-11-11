@@ -5,7 +5,7 @@ updated: "2026-11-06T13:59:54-05:00"
 connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 weight: 65
 type: faq
-foundations: [educational-development, teacher-role, tpack, teacher-ai-competency]
+foundations: [educational-development, teacher-role, teacher-ai-competency]
 methods: [mixed-methods-research]
 research_method: [survey, case study]
 audience: [faculty developers, administrators]
@@ -22,6 +22,7 @@ ai_assist:
     role: revision
     date: "2026-11-06"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 It is February. Your provost has announced an AI initiative with a line item, and you have one semester to make it show up in classrooms. Or you ran six workshops last fall, the rooms were full, and the teaching you sit in on has not changed. Or a dean asks the plain question at budget time: what did the money buy?

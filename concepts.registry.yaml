@@ -1358,7 +1358,6 @@ concepts:
     - AI misconceptions
     - learner misconceptions
     - misconception
-    - misconceptions
     - misconceptions about AI
     - student misconceptions about AI
   mixed-methods-research:
@@ -2128,7 +2127,6 @@ concepts:
     title: Technological Pedagogical Content Knowledge (TPACK)
     aliases:
     - technological pedagogical content knowledge
-    - tpack
   transfer-of-learning:
     title: Transfer of Learning
     aliases:
@@ -2254,10 +2252,10 @@ sections:
     items:
     - ai-education
     - ai-literacy
-    - information-and-media-literacy
     - agentic-ai
     - cognitive-offloading
     - cognitive-surrender
+    - misconceptions
     - framing-ai-use-for-students
     - reducing-ai-misuse
     - academic-integrity
@@ -2281,11 +2279,8 @@ sections:
     - design-thinking
     - curriculum-design
     - critical-thinking
+    - information-and-media-literacy
     - computational-thinking
-  - label: Theories and frameworks
-    items:
-    - samr-model
-    - tpack
 - heading: Learning and instruction
   blurb: How AI supports teaching and learning, through the pedagogies, learning theories, and learner-facing processes AI
     operates within.
@@ -2334,7 +2329,7 @@ sections:
     - transfer-of-learning
     - prior-knowledge
     - icap-framework
-    - misconceptions
+    - tpack
     - refutation-text
     - activity-theory-aied
     - retrieval-spacing-interleaving
@@ -2402,6 +2397,7 @@ sections:
   - label: Platforms, openness and adoption
     items:
     - technology-acceptance-model
+    - samr-model
     - open-education
     - open-source
     - edtech-platform
@@ -2435,6 +2431,7 @@ sections:
     - legal-education
     - information-technology
     - libraries
+    - teacher-education
   - label: Research fields
     items:
     - learning-sciences
@@ -2448,7 +2445,6 @@ sections:
     - adult-learning
     - vocational-education
     - special-education
-    - teacher-education
   - label: Bands and comparisons
     items:
     - education-levels

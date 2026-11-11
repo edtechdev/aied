@@ -3,7 +3,7 @@ title: "Towards a New AI-TPACK Framework: Evidence from China"
 created: "2026-10-06T17:12:00-04:00"
 updated: "2026-10-06T17:12:00-04:00"
 type: article
-foundations: [tpack, teacher-ai-competency, ai-literacy]
+foundations: [teacher-ai-competency, ai-literacy]
 ethics: [ethics]
 technology: [ai-technologies]
 methods: [quantitative-research]
@@ -21,6 +21,7 @@ ai_assist:
     date: "2026-10-06"
     agent: hermes-agent
 reviewed_by: [editor]
+pedagogy: [tpack]
 ---
 
 > **Synthesis:** Chen, Yu, Liu and An (2026) surveyed 454 university teachers across 45 Chinese universities to test whether AI-integrated teaching competence — [[tpack|AI-TPACK]] — accumulates from separate knowledge domains or forms through their interaction. Their structural model finds a suppression pattern: isolated AI-technological knowledge had a *negative* direct association with integrated competence (β = −0.303) even though its total effect was strongly positive (β = 0.639), because its contribution ran indirectly through [[pedagogy|pedagogical]], content, and [[ethics|ethical]] knowledge. Pedagogical mediation carried the largest share of that indirect effect, and AI-ethical knowledge both transmitted technological knowledge and channeled it onward through pedagogy and content. The authors read the pattern as evidence that [[teacher-ai-competency|teacher AI competence]] develops through ethically mediated integration rather than the addition of discrete skills.

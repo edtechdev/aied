@@ -5,8 +5,8 @@ updated: "2026-11-05T18:53:37-05:00"
 weight: 71
 type: faq
 connected_faqs: [checking-whether-educational-ai-works, addressing-common-misconceptions-ai-education, making-ai-better-at-supporting-learning]
-foundations: [ai-education, agentic-ai]
-pedagogy: [scaffolding, misconceptions]
+foundations: [ai-education, agentic-ai, misconceptions]
+pedagogy: [scaffolding]
 technology: [simulating-students, student-modeling, knowledge-tracing, llm, generative-ai]
 audience: [educational technology developers, software developers, researchers, instructors]
 level: [higher ed, k 12]

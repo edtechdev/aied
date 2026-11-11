@@ -2,7 +2,7 @@
 title: Nakala ya Kukanusha
 created: "2026-10-13T06:15:00-04:00"
 type: concept
-pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
+pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
 discipline: [science education]
 confidence: high
@@ -16,6 +16,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+foundations: [misconceptions]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*

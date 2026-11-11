@@ -3,7 +3,7 @@ title: "교사 교육"
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-11-08T10:12:52-05:00"
 type: concept
-foundations: [ai-literacy, teacher-role, tpack]
+foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher education, k 12, adult learning]
@@ -17,6 +17,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*

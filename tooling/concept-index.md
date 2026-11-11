@@ -17,8 +17,8 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`cognitive-surrender`** — Cognitive Surrender — phrases: ai surrender; cognitive surrender; surrender; surrender of judgment; surrender of judgement; surrender to ai
 - **`educational-development`** — Educational Development — phrases: academic development; academic developer; academic developers; educator development; faculty development; professional development; staff development; teacher development
 - **`framing-ai-use-for-students`** — Framing AI Use for Students — phrases: ai use framing; communicating AI policy; convincing students of AI; framing ai; framing AI for students; framing AI use; persuading students about AI; student buy-in
-- **`information-and-media-literacy`** — Information and Media Literacy — phrases: critical media literacy; digital media literacy; information literacy; information literacy instruction; information seeking; information skills; library instruction; media education; media literacy; news literacy; search skills; source evaluation
 - **`learning-design`** — Learning Design — phrases: course design; course design decisions; instructional design; instructional development; learning design
+- **`misconceptions`** — Misconceptions about AI — phrases: AI misconceptions; learner misconceptions; misconception; misconceptions about AI; student misconceptions about AI
 - **`reducing-ai-misuse`** — Reducing AI Misuse — phrases: ai misuse prevention; AI misuse reduction; mitigating AI misuse; preventing AI misuse; reduce ai misuse; reducing ai misuse
 - **`teacher-ai-competency`** — Teacher AI Competency — phrases: teacher ai competence; teacher ai competency; teacher AI readiness; teacher digital competence
 - **`teacher-role`** — Teaching — phrases: educator role; educators; faculty; instructor; instructors; role of educators; teacher; teacher agency; teacher role; teachers; teaching role
@@ -40,12 +40,8 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`curriculum-design`** — Curriculum Design — phrases: curricular; curriculum; curriculum alignment; curriculum design; curriculum development
 - **`design-thinking`** — Design Thinking — phrases: design process; design thinking
 - **`human-ai-collaboration`** — Human AI Collaboration — phrases: co-pilot; human collaboration; human-ai collaboration; human-ai interaction; human-AI teaming; human-computer interaction; human-machine collaboration; hybrid intelligence
+- **`information-and-media-literacy`** — Information and Media Literacy — phrases: critical media literacy; digital media literacy; information literacy; information literacy instruction; information seeking; information skills; library instruction; media education; media literacy; news literacy; search skills; source evaluation
 - **`learner-identity`** — Learner Identity — phrases: identity development; identity work; learner identity; professional identity; student identity
-
-### Theories and frameworks
-
-- **`samr-model`** — SAMR Model — phrases: SAMR; SAMR framework; SAMR model; Substitution Augmentation Modification Redefinition
-- **`tpack`** — Technological Pedagogical Content Knowledge (TPACK) — phrases: technological pedagogical content knowledge; tpack
 
 ## Learning and instruction
 
@@ -85,7 +81,6 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`icap-framework`** — ICAP Framework — phrases: icap; ICAP framework; interactive-constructive-active-passive
 - **`learning-theories`** — Learning Theories — phrases: learning science; learning theories; learning theory; theories of learning
 - **`metacognition`** — Metacognition — phrases: meta-cognition; meta-cognitive; metacognition; metacognitive; self-monitoring
-- **`misconceptions`** — Misconceptions about AI — phrases: AI misconceptions; learner misconceptions; misconception; misconceptions; misconceptions about AI; student misconceptions about AI
 - **`motivation`** — Motivation — phrases: achievement goal; achievement goals; extrinsic motivation; goal orientation; goal orientations; intrinsic motivation; learner motivation; motivation; motivational; student motivation
 - **`prior-knowledge`** — Prior Knowledge — phrases: activate prior knowledge; activation of prior knowledge; prior knowledge; prior knowledge activation; prior knowledge state; prior-knowledge
 - **`reflection`** — Reflection — phrases: journaling; learning journal; learning journals; reflection; reflection quality; reflective discourse; reflective journal; reflective journals; reflective practice; reflective prompts; reflective writing; reflections; self-reflection; written reflections
@@ -97,6 +92,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`self-regulated-learning`** — Self-Regulated Learning — phrases: self regulated; self regulated learning; self-regulated learning; self-regulation; SRL; strategic regulation
 - **`situated-learning`** — Situated Learning — phrases: authentic context learning; situated; situated cognition; situated learning
 - **`sociocultural-learning`** — Sociocultural Learning — phrases: apprenticeship; community of practice; cultural-historical activity theory; mediated learning; mediation; more knowledgeable other; socio-cultural; sociocultural; sociocultural learning; sociocultural theory; Vygotsky; zone of proximal development; zpd
+- **`tpack`** — Technological Pedagogical Content Knowledge (TPACK) — phrases: technological pedagogical content knowledge
 - **`transfer-of-learning`** — Transfer of Learning — phrases: far transfer; knowledge transfer; learning transfer; transfer; transfer of learning
 
 ### Learner engagement and experience
@@ -167,6 +163,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`edtech-platform`** — Edtech Platform — phrases: edtech; edtech platform; educational platform; learning management system; learning platform; lms; platform; platforms
 - **`open-education`** — Open Education — phrases: oer; oers; oep; open content; open courseware; open education; open educational practices; open educational resources; open pedagogy; open textbook; open textbooks
 - **`open-source`** — Open Source — phrases: open models; open source; open weights; open-source; OSS
+- **`samr-model`** — SAMR Model — phrases: SAMR; SAMR framework; SAMR model; Substitution Augmentation Modification Redefinition
 - **`technology-acceptance-model`** — Technology Adoption Models — phrases: TAM; adoption model; diffusion of innovation; perceived ease of use; perceived usefulness; technology acceptance; technology acceptance model; technology adoption; technology adoption model; technology organisation environment; technology organization environment; theory of planned behavior; theory of planned behaviour; utaut
 
 ## AI in the disciplines
@@ -197,6 +194,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`science-education`** — Science Education — phrases: science classrooms; science education; science inquiry; science learning; science teaching
 - **`statistics-and-data-science-education`** — Statistics and Data Science Education — phrases: data science education; statistics and data science education; statistics education; statistical literacy; data literacy
 - **`stem-education`** — STEM Education — phrases: stem; stem education
+- **`teacher-education`** — Teacher Education — phrases: initial teacher; preservice; preservice teacher education; preservice teachers; teacher education; teacher training
 - **`writing-education`** — Writing — phrases: academic writing; composition; writing; writing education; writing instruction; writing quality
 
 ### Research fields
@@ -212,7 +210,6 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`higher-ed`** — Higher Education — phrases: college; college students; higher education; higher-ed; post-secondary; postsecondary; tertiary; undergraduate; undergraduates; universities; university
 - **`k-12`** — K-12 — phrases: K-12 education; eighth grade; elementary; high school; junior high; k-12; middle school; primary school; school; schools; secondary; secondary education; secondary school
 - **`special-education`** — Special Education — phrases: disabled learners; disabled students; exceptional learners; learners with disabilities; special education; special needs; special needs education; students with disabilities
-- **`teacher-education`** — Teacher Education — phrases: initial teacher; preservice; preservice teacher education; preservice teachers; teacher education; teacher training
 - **`vocational-education`** — Vocational Education and Training — phrases: VET; TVET; technical and vocational education and training; vocational colleges
 
 ### Bands and comparisons

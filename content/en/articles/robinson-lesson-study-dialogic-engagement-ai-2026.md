@@ -4,8 +4,8 @@ created: "2026-09-25T21:06:17-04:00"
 updated: "2026-09-25T21:52:24-04:00"
 type: article
 published: "2026"
-foundations: [teacher-ai-competency, tpack, human-ai-collaboration, critical-thinking]
-pedagogy: [collaborative-learning, scaffolding, student-engagement]
+foundations: [teacher-ai-competency, human-ai-collaboration, critical-thinking]
+pedagogy: [collaborative-learning, scaffolding, student-engagement, tpack]
 technology: [generative-ai]
 research_method: [thematic analysis]
 discipline: [math education]

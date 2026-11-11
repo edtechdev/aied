@@ -3,7 +3,7 @@ title: 기술적 교수 내용 지식(TPACK)
 created: "2026-08-14T10:37:25-04:00"
 updated: "2026-11-08T00:14:58-05:00"
 type: concept
-foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
+foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
 connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
@@ -17,6 +17,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*

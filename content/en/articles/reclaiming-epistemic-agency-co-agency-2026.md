@@ -3,8 +3,8 @@ title: "Reclaiming epistemic agency: A critical framework for human-generative A
 created: "2026-08-28T09:05:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
-foundations: [agency, cognitive-offloading, teacher-role, theory-development-aied, tpack]
-pedagogy: [self-regulated-learning]
+foundations: [agency, cognitive-offloading, teacher-role, theory-development-aied]
+pedagogy: [self-regulated-learning, tpack]
 technology: [generative-ai]
 ethics: [equity-in-ai-education, ethics]
 research_method: [theoretical analysis]

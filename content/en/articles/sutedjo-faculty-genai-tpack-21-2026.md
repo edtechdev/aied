@@ -3,8 +3,8 @@ title: "Assessing faculty self-perceived knowledge in using generative AI to tea
 created: "2026-09-09T02:58:00-04:00"
 updated: "2026-09-19T07:12:05-04:00"
 type: article
-foundations: [educational-development, teacher-role, tpack]
-pedagogy: [self-efficacy]
+foundations: [educational-development, teacher-role]
+pedagogy: [self-efficacy, tpack]
 technology: [generative-ai]
 methods: [quantitative-research]
 research_method: [survey]

@@ -3,7 +3,7 @@ title: Texte réfutatif
 created: "2026-08-26T10:20:00-04:00"
 updated: "2026-11-05T18:33:20-05:00"
 type: concept
-pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
+pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
 discipline: [science education]
 confidence: high
@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+foundations: [misconceptions]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*

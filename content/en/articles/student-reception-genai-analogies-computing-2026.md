@@ -3,8 +3,8 @@ title: "Flawed but Memorable: Student Critical Reception of Interest-Personalize
 created: "2026-09-11T09:20:00-04:00"
 updated: "2026-09-19T07:09:40-04:00"
 type: article
-foundations: [critical-thinking]
-pedagogy: [misconceptions, prior-knowledge, student-ai-interaction, student-engagement]
+foundations: [critical-thinking, misconceptions]
+pedagogy: [prior-knowledge, student-ai-interaction, student-engagement]
 technology: [generative-ai, personalized-learning]
 methods: [qualitative-research]
 ethics: [trust-calibration]

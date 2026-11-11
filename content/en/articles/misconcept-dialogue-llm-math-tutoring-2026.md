@@ -11,7 +11,7 @@ research_method: [design and evaluation study]
 discipline: [math education]
 audience: [researchers, instructors, educational technology developers]
 level: [k 12]
-pedagogy: [misconceptions, scaffolding, student-ai-interaction]
+pedagogy: [scaffolding, student-ai-interaction]
 technology: [intelligent-tutoring, llm, generative-ai, simulating-students, educational-nlp]
 assessment: [automated-assessment, formative-assessment, ai-feedback-quality]
 methods: [ai-ed-evaluation, benchmark, quantitative-research]
@@ -25,6 +25,7 @@ ai_assist:
     agent: hermes-agent
 source_depth: full text
 verified: [citation, numbers, links]
+foundations: [misconceptions]
 ---
 
 > **Synthesis:** MisconceptDialogue is a fully automated [[benchmark|benchmarking]] framework that runs the complete detect–diagnose–remediate pipeline on five open-weight [[llm|LLM]] tutors (7B–14B) interacting with [[simulating-students|LLM-simulated students]] across over 5,000 dialogues in [[math-education|mathematics]]. Its headline result is a measurement warning: on identical dialogues, benchmark-style exact-match scoring reports 42.1% Remediation Success Rate while a human-calibrated [[ai-feedback-quality|LLM-as-judge]] reports 81.3%, a 39.2 percentage-point spread larger than the combined effects of tutor model, teaching strategy, and supplied diagnostic information. The gap is not a single-judge artifact — four independent judges from three vendor families converge within 6 percentage points (Fleiss κ = 0.85), and 200 human annotations anchor it (κ = 0.74–0.91). On capability, structured pipeline information gave no detectable advantage over direct tutoring (p = 0.263), and a wrong-diagnosis control found little evidence that these tutors condition on the labels they are handed. Every capability claim is scoped to this simulated protocol and does not establish real-student learning.

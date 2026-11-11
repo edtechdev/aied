@@ -3,12 +3,13 @@ title: Refutation Text
 created: "2026-08-26T10:20:00-04:00"
 updated: "2026-11-04T12:05:00-05:00"
 type: concept
-pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
+pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
 discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 reviewed_by: [editor]
+foundations: [misconceptions]
 ---
 
 > **Refutation text** — a misconception-correction technique in which a text explicitly states a common misconception, directly refutes it, and then presents the scientifically correct conception. Originating in the [[misconceptions|conceptual-change]] literature of [[science-education|science education]], refutation texts are a proven, low-tech intervention for dislodging stable, intuition-aligned misconceptions that resist ordinary instruction. In [[ai-education|AI in education]], refutation texts are increasingly used in two ways: as a **comparison condition** for AI-based interventions (personalized dialogue, [[llm]]-generated content), and as **AI-generated content** — conceptual-change texts and misconception texts produced by [[generative-ai|generative AI]] to correct beliefs or to seed collaborative discussion.

@@ -19,9 +19,9 @@ ai_assist:
     date: "2026-11-02"
     agent: hermes-agent
 source_depth: full text
-foundations: [samr-model]
+foundations: []
 pedagogy: [pedagogy]
-technology: [adaptive-learning, personalized-learning]
+technology: [adaptive-learning, personalized-learning, samr-model]
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, universal-design-for-learning]
 methods: [meta-analysis-systematic-review]
 ---

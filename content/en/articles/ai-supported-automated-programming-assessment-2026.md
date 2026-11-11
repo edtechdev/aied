@@ -3,7 +3,7 @@ title: "Design and Evaluation of an AI-Supported Automated Programming Assessmen
 created: "2026-09-20T11:52:19-04:00"
 updated: "2026-09-20T11:52:19-04:00"
 type: article
-pedagogy: [mastery-learning, misconceptions, motivation, self-efficacy, self-regulated-learning]
+pedagogy: [mastery-learning, motivation, self-efficacy, self-regulated-learning]
 technology: [conversational-ai, generative-ai, learning-analytics, llm]
 assessment: [automated-assessment, feedback, formative-assessment, learning-gains]
 ethics: [ai-use-disclosure, guardrails]
@@ -14,6 +14,7 @@ audience: [instructors, software developers]
 sources: ['raw/papers/ai-supported-automated-programming-assessment-2026.md']
 confidence: medium
 reviewed_by: [editor]
+foundations: [misconceptions]
 ---
 
 > **Synthesis:** Lan (2026) evaluates an AI-supported [[automated-assessment|automated programming assessment]] environment that turns verified incorrect submissions into governed, concept-aligned micro-assessments delivered through a mobile [[conversational-ai|chatbot]]. Rather than using [[generative-ai]] as an open-ended tutor or grading agent, the environment makes it a constrained orchestration layer inside a deterministic workflow: a rule-based engine alone executes code and decides correctness, and AI runs only after a learner clicks a misconception clarification prompt. In a quasi-experimental pretest–posttest study with 90 first-year undergraduates in Taiwan (45 experimental, 45 control), the experimental group reached higher post-intervention [[mastery-learning|concept-level mastery]] across all five programming components (M = 0.688 versus 0.567; Cohen's d = 1.05) and reported greater [[self-efficacy]] gains and higher post-intervention [[motivation]]. System logs showed 51.3 completed micro-assessment interactions on average, 46% of them outside class sessions. The author reads the results as evidence for the integrated [[formative-assessment]] environment rather than for isolated effects of generative AI or extra practice.

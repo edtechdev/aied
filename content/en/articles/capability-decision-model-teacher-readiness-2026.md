@@ -10,8 +10,8 @@ page_kind: [framework]
 research_method: [position paper]
 level: [teacher education, k 12]
 audience: [instructors, faculty developers, administrators, policymakers, researchers]
-foundations: [tpack, teacher-ai-competency, teacher-role, theories-and-frameworks, theory-development-aied]
-pedagogy: [social-norms-ai-use, self-efficacy, professional-training]
+foundations: [teacher-ai-competency, teacher-role, theories-and-frameworks, theory-development-aied]
+pedagogy: [social-norms-ai-use, self-efficacy, professional-training, tpack]
 technology: [generative-ai, technology-acceptance-model, prompt-engineering, llm]
 assessment: [evaluative-judgment, self-report-measures, assessment-validity]
 methods: [quantitative-research, research-methods-aied, mixed-methods-research]
@@ -26,7 +26,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Mnguni presents the Capability–Decision Model for AI Integration Readiness (CDM-AIR), a conceptual contribution with no data of its own. The paper argues that studies which bolt [[tpack|TPACK]] and belief-based adoption frameworks together as parallel predictors suffer construct overlap, ambiguous causal ordering and weak intervention guidance, then proposes an ordered alternative: AI-TPACK capability sits upstream and informs attitude and perceived behavioral control, while the Theory of Planned Behavior supplies the proximal decision pathway to intention and behavior. Contextual facilitating conditions enter as antecedents of [[social-norms-ai-use|subjective norm]] and perceived behavioral control and as moderators of the control–behavior link. The model specifies thirteen hypotheses in five [[parents-and-families|families]], states boundary conditions on AI co-agency, and declares the empirical patterns that would disconfirm it; its most important qualification is that it has not yet been tested.
+> **Synthesis:** Mnguni presents the Capability–Decision Model for AI Integration Readiness (CDM-AIR), a conceptual contribution with no data of its own. The paper argues that studies which bolt [[tpack|TPACK]] and belief-based adoption frameworks together as parallel predictors suffer construct overlap, ambiguous causal ordering and weak intervention guidance, then proposes an ordered alternative: AI-TPACK capability sits upstream and informs attitude and perceived behavioral control, while the [[technology-acceptance-model|Theory of Planned Behavior]] supplies the proximal decision pathway to intention and behavior. Contextual facilitating conditions enter as antecedents of [[social-norms-ai-use|subjective norm]] and perceived behavioral control and as moderators of the control–behavior link. The model specifies thirteen hypotheses in five [[parents-and-families|families]], states boundary conditions on AI co-agency, and declares the empirical patterns that would disconfirm it; its most important qualification is that it has not yet been tested.
 
 ## Key Findings
 

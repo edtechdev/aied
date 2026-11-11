@@ -15,7 +15,7 @@
 
 export const FACET_VOCAB = {
 
-  // Foundations of AI in education (28 concepts) — registry section: Foundations of AI in education
+  // Foundations of AI in education (27 concepts) — registry section: Foundations of AI in education
   foundations: [
     'academic-integrity',
     'agency',
@@ -37,14 +37,13 @@ export const FACET_VOCAB = {
     'learner-identity',
     'learning-design',
     'limitations-in-aied-research',
+    'misconceptions',
     'philosophy-of-ai-in-education',
     'reducing-ai-misuse',
-    'samr-model',
     'teacher-ai-competency',
     'teacher-role',
     'theories-and-frameworks',
     'theory-development-aied',
-    'tpack',
   ],
   // Learning and instruction (60 concepts) — registry section: Learning and instruction
   pedagogy: [
@@ -75,7 +74,6 @@ export const FACET_VOCAB = {
     'mastery-learning',
     'metacognition',
     'metaphors-and-analogies',
-    'misconceptions',
     'motivation',
     'online-teaching-and-learning',
     'pedagogical-partnerships',
@@ -105,11 +103,12 @@ export const FACET_VOCAB = {
     'student-engagement',
     'student-experience',
     'student-support-and-success',
+    'tpack',
     'transfer-of-learning',
     'video-education',
     'well-being',
   ],
-  // Technologies and techniques (37 concepts) — registry section: Technologies and techniques
+  // Technologies and techniques (38 concepts) — registry section: Technologies and techniques
   technology: [
     'adaptive-learning',
     'affective-computing',
@@ -139,6 +138,7 @@ export const FACET_VOCAB = {
     'rag',
     'recommender-systems-and-learning-paths',
     'reinforcement-learning',
+    'samr-model',
     'sensor-and-gaze-analytics',
     'simulating-students',
     'simulation',

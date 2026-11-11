@@ -11,8 +11,8 @@ research_method: [literature review]
 discipline: [math education, stem education]
 level: [k 12, higher ed]
 audience: [instructors, curriculum designers, administrators, researchers]
-foundations: [ai-education, teacher-role, human-ai-collaboration, interpreting-and-applying-aied-research, limitations-in-aied-research]
-pedagogy: [scaffolding, misconceptions, problem-solving, student-engagement, transfer-of-learning, productive-failure]
+foundations: [ai-education, teacher-role, human-ai-collaboration, interpreting-and-applying-aied-research, limitations-in-aied-research, misconceptions]
+pedagogy: [scaffolding, problem-solving, student-engagement, transfer-of-learning, productive-failure]
 technology: [intelligent-tutoring, adaptive-learning, personalized-learning, learning-analytics, student-modeling]
 assessment: [formative-assessment, feedback, assessment-validity, learning-gains]
 institutions: [governance]
@@ -26,7 +26,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Ogunsakin, Ayanwale, Falebita and Felemu conducted a structured narrative review of 20 publications, drawn from Scopus, IEEE Xplore, ScienceDirect, SpringerLink and Taylor & Francis Online and focused on January 2020 to April 2026, on how AI-powered [[intelligent-tutoring]] systems and [[adaptive-learning]] [[edtech-platform|platforms]] support [[math-education|mathematics education]]. The review was organized around five domains — personalized and adaptive instruction, real-time [[feedback]], learner engagement, mathematical [[problem-solving]] and [[teacher-role|teacher]] support — and interpreted through connectivism, with adaptive instruction as a complementary explanatory mechanism. It concludes that these systems can support mathematics learning when valid [[student-modeling|learner modeling]] is combined with adaptive tasks, diagnostic feedback, appropriately calibrated [[scaffolding]] and meaningful teacher mediation. The decisive qualification is methodological: with incomplete retrieval records, no pooled effect sizes and methodologically heterogeneous sources, the authors present conditional, context-sensitive conclusions rather than an estimate of how much these systems improve learning.
+> **Synthesis:** Ogunsakin, Ayanwale, Falebita and Felemu conducted a structured narrative review of 20 publications, drawn from Scopus, IEEE Xplore, ScienceDirect, SpringerLink and Taylor & Francis Online and focused on January 2020 to April 2026, on how AI-powered [[intelligent-tutoring]] systems and [[adaptive-learning]] [[edtech-platform|platforms]] support [[math-education|mathematics education]]. The review was organized around five domains — personalized and adaptive instruction, real-time [[feedback]], [[student-engagement|learner engagement]], mathematical [[problem-solving]] and [[teacher-role|teacher]] support — and interpreted through connectivism, with adaptive instruction as a complementary explanatory mechanism. It concludes that these systems can support mathematics learning when valid [[student-modeling|learner modeling]] is combined with adaptive tasks, diagnostic feedback, appropriately calibrated [[scaffolding]] and meaningful teacher mediation. The decisive qualification is methodological: with incomplete retrieval records, no pooled effect sizes and methodologically heterogeneous sources, the authors present conditional, context-sensitive conclusions rather than an estimate of how much these systems improve learning.
 
 ## Key Findings
 

@@ -2,7 +2,7 @@
 title: "Teks Refutasi"
 created: "2026-08-26T10:20:00-04:00"
 type: concept
-pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
+pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
 discipline: [science education]
 confidence: high
@@ -17,6 +17,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+foundations: [misconceptions]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*

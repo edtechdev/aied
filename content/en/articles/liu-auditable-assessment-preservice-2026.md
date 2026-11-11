@@ -20,8 +20,8 @@ ai_assist:
     date: "2026-11-10"
     agent: hermes-agent
 verified: [citation, numbers, links]
-foundations: [tpack, teacher-role, curriculum-design]
-pedagogy: [transfer-of-learning, professional-training]
+foundations: [teacher-role, curriculum-design]
+pedagogy: [transfer-of-learning, professional-training, tpack]
 technology: [generative-ai]
 assessment: [assessment, assessment-validity, evaluative-judgment, educational-measurement]
 methods: [mixed-methods-research, ai-ed-evaluation]

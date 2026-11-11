@@ -2,7 +2,7 @@
 title: المعرفة التربوية التكنولوجية بالمحتوى (TPACK)
 created: "2026-10-12T15:25:00-04:00"
 type: concept
-foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
+foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
 connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

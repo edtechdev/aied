@@ -3,7 +3,7 @@ title: "Deceptive overgeneralization: When adaptive learning enables systematic 
 created: "2026-08-30T14:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
-pedagogy: [learning-theories, mastery-learning, misconceptions, transfer-of-learning]
+pedagogy: [learning-theories, mastery-learning, transfer-of-learning]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, student-modeling]
 assessment: [feedback]
 research_method: [experiment, secondary analysis]
@@ -13,9 +13,10 @@ sources: ['raw/papers/10.1002_jcal.70311.md']
 confidence: high
 audience: [researchers, instructional designers]
 page_kind: [framework]
+foundations: [misconceptions]
 ---
 
-> **Synthesis:** An, McLaren, and Stamper (2026) introduce and empirically test **deceptive overgeneralization** — a learning phenomenon in which learners acquire a skill with an incomplete subset of its necessary conditions, omitting a critical application constraint, yet still produce correct actions. Because observed correctness looks like mastery, [[adaptive-learning]] systems that infer mastery from correct performance risk prematurely stopping practice before learners encounter cases where the action should be *withheld*, leaving the overgeneralization undetected. Across 11 experiments (N = 192) with [[intelligent-tutoring|Intelligent Tutoring Systems]] for Riichi Mahjong, learners systematically misapplied learned actions on first "do-not-act" detector items (61.5%–100% across skills and cohorts), far exceeding the error rates predicted by [[knowledge-tracing|Bayesian Knowledge Tracing]]. Tailored "do-not-act" practice with feedback that names the missing constraint reduced misapplication to near-floor levels. A secondary analysis of K-12 *Decimal Point* data shows the framework also accounts for whole-number bias, suggesting it generalizes beyond adaptive systems to traditional instruction.
+> **Synthesis:** An, McLaren, and Stamper (2026) introduce and empirically test **deceptive overgeneralization** — a learning phenomenon in which learners acquire a skill with an incomplete subset of its necessary conditions, omitting a critical application constraint, yet still produce correct actions. Because observed correctness looks like mastery, [[adaptive-learning]] systems that infer mastery from correct performance risk prematurely stopping practice before learners encounter cases where the action should be *withheld*, leaving the overgeneralization undetected. Across 11 experiments (N = 192) with [[intelligent-tutoring|Intelligent Tutoring Systems]] for Riichi Mahjong, learners systematically misapplied learned actions on first "do-not-act" detector items (61.5%–100% across skills and cohorts), far exceeding the error rates predicted by [[knowledge-tracing|Bayesian Knowledge Tracing]]. Tailored "do-not-act" practice with [[feedback|feedback]] that names the missing constraint reduced misapplication to near-floor levels. A secondary analysis of K-12 *Decimal Point* data shows the framework also accounts for whole-number bias, suggesting it generalizes beyond adaptive systems to traditional instruction.
 
 ## Key Findings
 

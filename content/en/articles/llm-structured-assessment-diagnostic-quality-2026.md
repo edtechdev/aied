@@ -4,7 +4,7 @@ created: "2026-10-08T09:15:00-04:00"
 updated: "2026-10-08T09:15:00-04:00"
 type: article
 technology: [llm, generative-ai, human-in-the-loop-ai, prompt-engineering]
-pedagogy: [misconceptions, transfer-of-learning]
+pedagogy: [transfer-of-learning]
 assessment: [automated-assessment, formative-assessment, feedback, ai-feedback-quality, assessment-validity]
 methods: [mixed-methods-research]
 ethics: [trust-calibration]
@@ -21,6 +21,7 @@ ai_assist:
     role: drafting
     date: "2026-10-08"
     agent: hermes-agent
+foundations: [misconceptions]
 ---
 
 > **Synthesis:** As [[generative-ai|generative AI]] is adopted for grading in [[higher-ed|higher education]], its structured JSON outputs — multi-dimensional rubric scores plus detailed comments — create an appearance of thorough, analytic evaluation. This study of the JorGPT dataset (3,041 student responses to 50 open-ended [[cs-education|computer science]] questions) tests that appearance against human instructors across three commercial [[llm|LLMs]]. All three reach moderate-to-strong score alignment (r = 0.785–0.815), but beneath the totals the diagnostics are largely illusory: the sub-dimension scores are so tightly correlated (r = 0.82–0.99; VIF up to 44.6) that they collapse into a single construct, and the [[feedback]] rarely detects [[misconceptions]] (5–7% vs. 15.0% for instructors). The paper cautions against reading [[automated-assessment]] as an analytic rubric and argues for continued [[human-in-the-loop-ai|human oversight]].

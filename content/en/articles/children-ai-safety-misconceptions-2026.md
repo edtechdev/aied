@@ -3,11 +3,11 @@ title: "“If we are good friends, AI doesn't spy so much”: Children's knowled
 created: "2026-09-18T12:35:00-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article
-foundations: [ai-literacy]
+foundations: [ai-literacy, misconceptions]
 technology: [conversational-ai, generative-ai]
 ethics: [ai-misuse-learning-harm, privacy]
 methods: [qualitative-research]
-pedagogy: [misconceptions]
+pedagogy: []
 research_method: [interviews, thematic analysis]
 level: [primary education, k 12]
 audience: [instructors, learners, researchers, parents and families]
@@ -16,7 +16,7 @@ sources: ['raw/papers/children-ai-safety-misconceptions-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Leisten, Moffat, Caruana and Cross establish a baseline of what children actually know about AI safety, combining a survey of 71 children aged 10–16 (36 female, 35 male, *M*age = 12.90, *SD* = 2.24) from a rural German comprehensive school with six focus groups (n = 36, *M*age = 12.47) drawn from two rural German secondary schools, using the [[open-source]] social robot Blossom as a tangible embodiment of [[ai-literacy|AI]] that children could talk about concretely. Foundational AI knowledge rose reliably with age (β = 0.17, 95% CI [0.05, 0.28]; mean 4.41 of 6), but attitudes did not: ratings of AI safety's importance (*M* = 2.51) and of AI's current safety (*M* = 2.77) clustered at the midpoint of the 1–4 scale with no detectable age or knowledge effect. Thematic analysis showed children reasoning competently about data collection, permanence, hacking, phishing, dependency and physical risk, while carrying consequential misconceptions — that an emotional bond with a robot reduces surveillance ("Maybe if they are good friends he doesn't spy so much"), that AI's knowledge can be deleted at the press of a button, and that hacking leads to kidnapping. The authors read age differences as a [[qualitative-research|qualitative]] shift from personal/physical to structural/societal reasoning, and argue that exposure alone does not produce a critical safety perspective.
+> **Synthesis:** Leisten, Moffat, Caruana and Cross establish a baseline of what children actually know about AI safety, combining a survey of 71 children aged 10–16 (36 female, 35 male, *M*age = 12.90, *SD* = 2.24) from a rural German comprehensive school with six focus groups (n = 36, *M*age = 12.47) drawn from two rural German secondary schools, using the [[open-source]] social robot Blossom as a tangible embodiment of [[ai-literacy|AI]] that children could talk about concretely. Foundational AI knowledge rose reliably with age (β = 0.17, 95% CI [0.05, 0.28]; mean 4.41 of 6), but attitudes did not: ratings of AI safety's importance (*M* = 2.51) and of AI's current safety (*M* = 2.77) clustered at the midpoint of the 1–4 scale with no detectable age or knowledge effect. Thematic analysis showed children reasoning competently about data collection, permanence, hacking, phishing, dependency and physical risk, while carrying consequential [[misconceptions|misconceptions]] — that an emotional bond with a robot reduces surveillance ("Maybe if they are good friends he doesn't spy so much"), that AI's knowledge can be deleted at the press of a button, and that hacking leads to kidnapping. The authors read age differences as a [[qualitative-research|qualitative]] shift from personal/physical to structural/societal reasoning, and argue that exposure alone does not produce a critical safety perspective.
 
 ## Key Findings
 

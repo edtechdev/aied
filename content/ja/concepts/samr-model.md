@@ -3,7 +3,7 @@ title: SAMR モデル
 created: "2026-10-10T23:16:00-04:00"
 updated: "2026-11-07T20:21:19-05:00"
 type: concept
-foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
+foundations: [educational-development, learning-design, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
 page_kind: [framework]
 audience: [instructors, curriculum designers, researchers]
@@ -18,6 +18,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*

@@ -2,7 +2,7 @@
 title: "SAMR Modeli"
 created: "2026-10-14T21:35:00-04:00"
 type: concept
-foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
+foundations: [educational-development, learning-design, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
 page_kind: [framework]
 audience: [instructors, curriculum designers, researchers]
@@ -17,6 +17,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

@@ -2,7 +2,7 @@
 title: النص الداحض
 created: "2026-10-12T17:40:00-04:00"
 type: concept
-pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
+pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
 discipline: [science education]
 confidence: high
@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+foundations: [misconceptions]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

@@ -12,8 +12,8 @@ ai_assist:
     date: "2026-09-24"
     agent: hermes-agent
 reviewed_by: [editor]
-foundations: [theories-and-frameworks, limitations-in-aied-research]
-pedagogy: [problem-solving, cognitive-psychology, misconceptions, prior-knowledge]
+foundations: [theories-and-frameworks, limitations-in-aied-research, misconceptions]
+pedagogy: [problem-solving, cognitive-psychology, prior-knowledge]
 technology: [intelligent-tutoring, student-modeling, knowledge-tracing, llm, simulating-students]
 ethics: [explainable-ai]
 research_method: [system development]

@@ -11,8 +11,8 @@ resource_type: [ebook or guide, collection of activities]
 access: [free]
 license: "MIT (site content); CC BY-SA for MicroSims"
 last_verified: "2026-10-10"
-foundations: [curriculum-design, learning-design, design-thinking]
-pedagogy: [active-learning, constructivist, self-directed-learning, misconceptions]
+foundations: [curriculum-design, learning-design, design-thinking, misconceptions]
+pedagogy: [active-learning, constructivist, self-directed-learning]
 technology: [generative-ai, simulation, knowledge-graph, open-source, vibe-coding]
 ethics: [accessibility]
 assessment: [formative-assessment]

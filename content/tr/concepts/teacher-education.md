@@ -2,7 +2,7 @@
 title: "Öğretmen eğitimi"
 created: "2026-10-14T22:30:00-04:00"
 type: concept
-foundations: [ai-literacy, teacher-role, tpack]
+foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher education, k 12, adult learning]
@@ -16,6 +16,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

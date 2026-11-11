@@ -11,9 +11,9 @@ research_method: [experiment]
 discipline: [business education]
 level: [adult learning]
 audience: [instructors, assessment designers, researchers]
-foundations: [critical-thinking, samr-model, theories-and-frameworks]
+foundations: [critical-thinking, theories-and-frameworks]
 pedagogy: [constructivist, professional-training, situated-learning]
-technology: [llm, prompt-engineering, generative-ai]
+technology: [llm, prompt-engineering, generative-ai, samr-model]
 assessment: [automated-assessment, assessment-validity, formative-assessment]
 methods: [quantitative-research, mixed-methods-research]
 ethics: [explainable-ai]
@@ -25,7 +25,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Takahashi and colleagues automate hierarchical diagnostic reasoning (HDR), an [[authentic-assessment|applied-competence task]] in which learners find and explain deliberately embedded errors in a short case. Using GPT-4o and prompt design alone, with no [[llm-training-and-fine-tuning|fine-tuning]], the team generated new problems, [[automated-assessment|scored descriptive answers]], and produced structured [[feedback]]. Model-written problems matched human-authored ones on internal consistency (Cronbach's α = 0.78) and difficulty, and human–model scoring agreement reached 98%–100% once the prompt carried worked examples from human grading. Model feedback matched instructors on persuasiveness and usefulness, though usefulness ran lower.
+> **Synthesis:** Takahashi and colleagues automate hierarchical diagnostic reasoning (HDR), an [[authentic-assessment|applied-competence task]] in which learners find and explain deliberately embedded errors in a short case. Using GPT-4o and [[prompt-engineering|prompt design]] alone, with no [[llm-training-and-fine-tuning|fine-tuning]], the team generated new problems, [[automated-assessment|scored descriptive answers]], and produced structured [[feedback]]. Model-written problems matched human-authored ones on internal consistency (Cronbach's α = 0.78) and difficulty, and human–model scoring agreement reached 98%–100% once the prompt carried worked examples from human grading. Model feedback matched instructors on persuasiveness and usefulness, though usefulness ran lower.
 
 ## Key Findings
 1. **Generated problems reproduced human difficulty.** GPT-4o-created and original HDR problems both yielded Cronbach's α = 0.78, and Fisher's exact tests found no significant difference in their score distributions across 100 participants.

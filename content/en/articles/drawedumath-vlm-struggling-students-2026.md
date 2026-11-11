@@ -6,7 +6,7 @@ type: article
 technology: [llm, multimodal]
 assessment: [assessment-validity, educational-measurement]
 ethics: [equity-in-ai-education]
-pedagogy: [misconceptions]
+pedagogy: []
 discipline: [math education]
 level: [k 12]
 page_kind: [evaluation]
@@ -14,6 +14,7 @@ sources: ['raw/papers/drawedumath-vlm-struggling-students-2026.md']
 confidence: high
 audience: [researchers, instructional designers]
 methods: [ai-ed-evaluation, benchmark]
+foundations: [misconceptions]
 ---
 
 > **Synthesis:** Lucy et al. (2026) provide a year-long snapshot of how **11 [[multimodal|vision-language models]] (VLMs)** perform on **DrawEduMath**, a QA [[benchmark]] built on real students' handwritten, hand-drawn responses to math problems (drawn largely from Title I / [[digital-divide|low-income]] schools via the ASSISTments platform). Their central finding is that model weaknesses concentrate on the core of [[math-education|math education]]: **[[misconceptions|student error]]**. All evaluated VLMs underperform when describing work from students who need more [[pedagogy|pedagogical]] help, and across all question types they struggle most on questions that require assessing whether the student's work is correct. This holds across text and image inputs, and across open-ended and binary question forms.

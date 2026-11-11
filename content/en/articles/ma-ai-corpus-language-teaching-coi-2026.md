@@ -9,8 +9,8 @@ page_kind: [evaluation]
 research_method: [design and evaluation study]
 audience: [researchers, instructors]
 level: [higher ed]
-foundations: [tpack, teacher-ai-competency]
-pedagogy: [community-of-inquiry, collaborative-learning]
+foundations: [teacher-ai-competency]
+pedagogy: [community-of-inquiry, collaborative-learning, tpack]
 technology: [generative-ai]
 methods: [mixed-methods-research, network-analysis]
 ethics: [trust]
@@ -23,7 +23,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** As corpus technology and generative AI reshape language education, teachers need evidence-based ways to integrate both. Ma, Mei, Crosthwaite, and Ma report an explanatory sequential mixed-methods study of a 20-week online professional development program in which over 150 pre- and in-service language teachers from 28 countries co-developed AI-empowered TPACK for corpus technology (AI-TPACK-CT) inside a Community of Inquiry. Social network analysis of six discussion threads, CoI coding of the most active workshop, lesson-plan comparisons, and interviews with one central and two peripheral teachers link interaction patterns to design outcomes. The headline result is that posting volume and network centrality did not determine learning: peripheral teachers constructed substantial pedagogical knowledge by reading, reflecting, and revising their designs.
+> **Synthesis:** As corpus technology and [[generative-ai|generative AI]] reshape language education, teachers need evidence-based ways to integrate both. Ma, Mei, Crosthwaite, and Ma report an explanatory sequential mixed-methods study of a 20-week online professional development program in which over 150 pre- and in-service language teachers from 28 countries co-developed AI-empowered [[tpack|TPACK]] for corpus technology (AI-TPACK-CT) inside a [[community-of-inquiry|Community of Inquiry]]. [[network-analysis|Social network analysis]] of six discussion threads, CoI coding of the most active workshop, lesson-plan comparisons, and interviews with one central and two peripheral teachers link interaction patterns to design outcomes. The headline result is that posting volume and network centrality did not determine learning: peripheral teachers constructed substantial pedagogical knowledge by reading, reflecting, and revising their designs.
 
 ## Key Findings
 

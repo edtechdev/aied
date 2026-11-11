@@ -3,7 +3,7 @@ title: 教師教育
 created: "2026-10-10T22:55:24-04:00"
 updated: "2026-11-08T10:12:52-05:00"
 type: concept
-foundations: [ai-literacy, teacher-role, tpack]
+foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher education, k 12, adult learning]
@@ -17,6 +17,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*

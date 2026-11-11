@@ -3,7 +3,7 @@ title: 技術的・教授法的・内容に関する知識（TPACK）
 created: "2026-10-10T22:54:32-04:00"
 updated: "2026-11-07T20:21:18-05:00"
 type: concept
-foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
+foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
 connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
@@ -17,6 +17,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*

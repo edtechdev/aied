@@ -10,9 +10,9 @@ page_kind: [framework]
 research_method: [position paper]
 level: [higher ed]
 audience: [instructors, faculty developers, researchers]
-foundations: [teacher-role, tpack]
+foundations: [teacher-role]
 technology: [generative-ai]
-pedagogy: [social-emotional-learning, self-efficacy, anxiety-and-stress, situated-learning, cognitive-psychology, scaffolding]
+pedagogy: [social-emotional-learning, self-efficacy, anxiety-and-stress, situated-learning, cognitive-psychology, scaffolding, tpack]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

@@ -3,8 +3,8 @@ title: "Enhancing teachers' AI competency: A professional development interventi
 created: "2026-10-07T13:20:00-04:00"
 updated: "2026-10-09T00:49:28-04:00"
 type: article
-foundations: [tpack, teacher-ai-competency, educational-development]
-pedagogy: [metacognition, self-efficacy]
+foundations: [teacher-ai-competency, educational-development]
+pedagogy: [metacognition, self-efficacy, tpack]
 technology: [ai-technologies, generative-ai]
 assessment: [self-report-measures]
 ethics: [ethics]

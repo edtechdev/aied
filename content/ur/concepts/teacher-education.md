@@ -2,7 +2,7 @@
 title: "اساتذہ کی تربیت"
 created: "2026-08-16T10:55:19-04:00"
 type: concept
-foundations: [ai-literacy, teacher-role, tpack]
+foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher education, k 12, adult learning]
@@ -17,6 +17,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*

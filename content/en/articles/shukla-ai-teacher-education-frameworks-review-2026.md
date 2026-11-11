@@ -7,8 +7,8 @@ authors: ["Shukla, V. K."]
 published: "2026-10-27"
 venue: "EdArXiv preprint"
 source_url: https://osf.io/preprints/edarxiv/psxjk_v1/
-foundations: [ai-education, tpack, teacher-ai-competency]
-pedagogy: [pedagogy, student-ai-interaction]
+foundations: [ai-education, teacher-ai-competency]
+pedagogy: [pedagogy, student-ai-interaction, tpack]
 technology: [generative-ai, llm]
 assessment: [assessment, evaluative-judgment]
 methods: [meta-analysis-systematic-review]

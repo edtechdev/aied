@@ -2,7 +2,7 @@
 title: "Elimu ya walimu"
 created: "2026-10-13T07:35:15-04:00"
 type: concept
-foundations: [ai-literacy, teacher-role, tpack]
+foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher education, k 12, adult learning]
@@ -16,6 +16,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+pedagogy: [tpack]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*

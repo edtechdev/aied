@@ -3,7 +3,7 @@ title: "The Role of Integrated TPACK in Empowering Pre-Service Teachers and Shap
 created: "2026-11-04T12:00:00-05:00"
 updated: "2026-11-04T12:00:00-05:00"
 type: article
-foundations: [tpack, teacher-ai-competency, ai-literacy]
+foundations: [teacher-ai-competency, ai-literacy]
 technology: [generative-ai]
 methods: [quantitative-research]
 research_method: [survey]
@@ -20,6 +20,7 @@ ai_assist:
     date: "2026-11-04"
     agent: hermes-agent
 source_depth: full text
+pedagogy: [tpack]
 ---
 
 > **Synthesis:** Can [[tpack|TPACK]] — [[teacher-role|teacher]] knowledge as an integration of technology, pedagogy, and content — be specified for [[generative-ai|generative AI]], and does that integrated knowledge travel with pre-service teachers' attitudes? This [[quantitative-research|survey]] of 988 pre-service teachers in Egypt and Oman answers both questions with a four-factor structural model, and the answer is qualified: the model fits acceptably (CFI = 0.952, RMSEA = 0.059) and integrated TPACK predicts a single attitude item at β = 0.75 (R² = 0.563), yet the four knowledge constructs refuse to separate empirically (HTMT = 0.92–0.99). Technological knowledge alone does not predict integrated TPACK (β = -0.10, p = 0.066), while technological [[pedagogy|pedagogical]] and content knowledge do, which the authors read as support for [[teacher-ai-competency|teacher AI competency]] built through [[discipline-specific-aied|subject-specific]] pedagogy. Read it as a measurement caution for [[ai-literacy|AI literacy]] work in [[teacher-education|teacher education]]: near-ceiling self-ratings may reflect one general confidence factor, not four competences.

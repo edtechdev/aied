@@ -5,8 +5,8 @@ updated: "2026-11-05T18:53:37-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, developing-ai-tutor, ai-agents-support-students-instructors]
 weight: 72
 type: faq
-foundations: [ai-education, agency]
-pedagogy: [scaffolding, socratic-method, misconceptions]
+foundations: [ai-education, agency, misconceptions]
+pedagogy: [scaffolding, socratic-method]
 technology: [llm-training-and-fine-tuning, intelligent-tutoring, reinforcement-learning, pedagogical-agent, llm]
 assessment: [feedback]
 audience: [educational technology developers, software developers, researchers]

@@ -3,8 +3,8 @@ title: "Artificial intelligence in initial teacher training for pre-service prim
 created: "2026-09-23T12:30:00-04:00"
 updated: "2026-09-23T13:20:00-04:00"
 type: article
-foundations: [ai-literacy, teacher-ai-competency, tpack, critical-thinking]
-pedagogy: [professional-training, scaffolding, problem-solving]
+foundations: [ai-literacy, teacher-ai-competency, critical-thinking]
+pedagogy: [professional-training, scaffolding, problem-solving, tpack]
 technology: [generative-ai, prompt-engineering, conversational-ai]
 assessment: [assessment, learning-gains]
 methods: [meta-analysis-systematic-review, mixed-methods-research, qualitative-research]

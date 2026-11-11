@@ -4,8 +4,8 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/pedagogy-first-technology-second-teacher-knowledge-2026.md"]
-foundations: [ai-education, tpack]
-pedagogy: [pedagogy]
+foundations: [ai-education]
+pedagogy: [pedagogy, tpack]
 confidence: medium
 research_method: [structural equation modeling]
 audience: [faculty developers, administrators]
@@ -14,7 +14,7 @@ page_kind: [framework]
 methods: [quantitative-research]
 ---
 
-> **Synthesis:** Shen and colleagues examine how teacher professional knowledge shapes student learning in K-12 AI education, drawing on social cognitive theory and the [[tpack|TPACK]] framework. Using a multilevel structural equation model, they analyzed data from **46 secondary school [[teacher-role|teachers]] and 2,832 students** to test cross-level effects of two knowledge components: teacher AI knowledge (TAIK, the technological/technical side) and teacher pedagogical AI knowledge (TPAIK, the pedagogical side).
+> **Synthesis:** Shen and colleagues examine how teacher professional knowledge shapes student learning in K-12 [[ai-education|AI education]], drawing on social cognitive theory and the [[tpack|TPACK]] framework. Using a multilevel structural equation model, they analyzed data from **46 secondary school [[teacher-role|teachers]] and 2,832 students** to test cross-level effects of two knowledge components: teacher AI knowledge (TAIK, the technological/technical side) and teacher pedagogical AI knowledge (TPAIK, the pedagogical side).
 
 ## Key Findings
 

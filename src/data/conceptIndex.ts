@@ -19,10 +19,9 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Foundations of AI in education',
     blurb: 'The umbrella view of the field itself: what AI in education is, how it evolved, and the cross-cutting themes (AI literacy, human-AI collaboration, agency) that shape every other strand.',
     groups: [
-      { label: 'Essentials', items: ['ai-education', 'ai-literacy', 'information-and-media-literacy', 'agentic-ai', 'cognitive-offloading', 'cognitive-surrender', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'teacher-role', 'teacher-ai-competency', 'learning-design', 'educational-development'] },
+      { label: 'Essentials', items: ['ai-education', 'ai-literacy', 'agentic-ai', 'cognitive-offloading', 'cognitive-surrender', 'misconceptions', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'teacher-role', 'teacher-ai-competency', 'learning-design', 'educational-development'] },
       { label: 'The field', items: ['history-of-aied', 'interpreting-and-applying-aied-research', 'limitations-in-aied-research', 'philosophy-of-ai-in-education', 'theories-and-frameworks', 'theory-development-aied'] },
-      { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'critical-thinking', 'computational-thinking'] },
-      { label: 'Theories and frameworks', items: ['samr-model', 'tpack'] },
+      { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'critical-thinking', 'information-and-media-literacy', 'computational-thinking'] },
     ],
   },
   {
@@ -30,7 +29,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'How AI supports teaching and learning, through the pedagogies, learning theories, and learner-facing processes AI operates within.',
     groups: [
       { label: 'Core pedagogies', items: ['pedagogy', 'pedagogical-patterns', 'active-learning', 'collaborative-learning', 'project-based-learning', 'problem-based-learning', 'case-based-learning', 'productive-failure', 'inquiry-based-learning', 'experiential-learning', 'game-based-learning', 'learning-by-teaching', 'scaffolding', 'socratic-method', 'critical-pedagogy', 'pedagogical-partnerships', 'storytelling-in-education', 'metaphors-and-analogies', 'online-teaching-and-learning', 'video-education'] },
-      { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'reflection', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'misconceptions', 'refutation-text', 'activity-theory-aied', 'retrieval-spacing-interleaving'] },
+      { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'reflection', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'tpack', 'refutation-text', 'activity-theory-aied', 'retrieval-spacing-interleaving'] },
       { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'empathy', 'well-being', 'creativity', 'student-ai-interaction', 'problem-solving', 'mastery-learning', 'anxiety-and-stress', 'student-experience', 'student-support-and-success', 'social-norms-ai-use'] },
       { label: 'Lifelong and professional learning', items: ['career-development-and-readiness', 'lifelong-learning', 'professional-training'] },
     ],
@@ -41,21 +40,21 @@ export const conceptIndex: ConceptSection[] = [
     groups: [
       { label: 'Models and techniques', items: ['ai-technologies', 'machine-learning', 'generative-ai', 'llm', 'rag', 'prompt-engineering', 'llm-training-and-fine-tuning', 'vibe-coding', 'multimodal', 'speech-and-voice-technologies', 'visualization', 'educational-nlp', 'reinforcement-learning', 'knowledge-graph', 'educational-robotics', 'conversational-ai', 'simulation', 'virtual-and-augmented-reality'] },
       { label: 'Learner modeling and adaptive systems', items: ['student-modeling', 'knowledge-tracing', 'cognitive-diagnosis', 'simulating-students', 'intelligent-tutoring', 'adaptive-learning', 'personalized-learning', 'recommender-systems-and-learning-paths', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'sensor-and-gaze-analytics', 'ai-avatars-and-synthetic-instructors', 'human-in-the-loop-ai', 'learning-analytics'] },
-      { label: 'Platforms, openness and adoption', items: ['technology-acceptance-model', 'open-education', 'open-source', 'edtech-platform'] },
+      { label: 'Platforms, openness and adoption', items: ['technology-acceptance-model', 'samr-model', 'open-education', 'open-source', 'edtech-platform'] },
     ],
   },
   {
     heading: 'AI in the disciplines',
     blurb: 'How AI is applied across academic subjects and educational levels: the field\u2019s subject-area coverage.',
     groups: [
-      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'statistics-and-data-science-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'science-education', 'writing-education', 'language-learning', 'english-education', 'reading-education', 'environmental-education', 'business-education', 'humanities-education', 'civic-and-political-education', 'arts-design-and-media-education', 'design-education', 'medical-education', 'nursing-education', 'legal-education', 'information-technology', 'libraries'] },
+      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'statistics-and-data-science-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'science-education', 'writing-education', 'language-learning', 'english-education', 'reading-education', 'environmental-education', 'business-education', 'humanities-education', 'civic-and-political-education', 'arts-design-and-media-education', 'design-education', 'medical-education', 'nursing-education', 'legal-education', 'information-technology', 'libraries', 'teacher-education'] },
       { label: 'Research fields', items: ['learning-sciences'] },
     ],
   },
   {
     heading: 'Levels and contexts',
     groups: [
-      { label: 'Levels and settings', items: ['k-12', 'early-childhood-elementary-ai-education', 'higher-ed', 'adult-learning', 'vocational-education', 'special-education', 'teacher-education'] },
+      { label: 'Levels and settings', items: ['k-12', 'early-childhood-elementary-ai-education', 'higher-ed', 'adult-learning', 'vocational-education', 'special-education'] },
       { label: 'Bands and comparisons', items: ['education-levels'] },
     ],
   },

@@ -3,7 +3,7 @@ title: 驳论文本
 created: "2026-08-26T10:20:00-04:00"
 updated: "2026-11-07T17:17:38-05:00"
 type: concept
-pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
+pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
 discipline: [science education]
 confidence: high
@@ -17,6 +17,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+foundations: [misconceptions]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*

@@ -3,12 +3,13 @@ title: "Teacher Education"
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-11-08T09:30:45-05:00"
 type: concept
-foundations: [ai-literacy, teacher-role, tpack]
+foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 reviewed_by: [editor]
+pedagogy: [tpack]
 ---
 
 > **[[educational-development|Professional development]]** — the preparation and ongoing professional development of teachers, spanning pre-service teacher training (initial certification programs) and in-service professional development. In AI-in-education [[research-methods-aied|research]], teacher education has become a central concern because teachers' AI literacy, technological-[[pedagogy|pedagogical]] knowledge, [[ethics|ethical]] fluency, and readiness to integrate AI into instruction determine whether AI adoption in classrooms succeeds. This concept organizes the knowledge base's substantial coverage of how AI reshapes the preparation, knowledge, beliefs, and practice of both prospective and practicing teachers.

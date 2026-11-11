@@ -3,7 +3,7 @@ title: "Student GenAI use under changing institutional policies: a mixed-methods
 created: "2026-10-06T18:05:00-04:00"
 updated: "2026-10-06T18:05:00-04:00"
 type: article
-foundations: [samr-model, academic-integrity, curriculum-design]
+foundations: [academic-integrity, curriculum-design]
 assessment: [authentic-assessment, evaluative-judgment, feedback-literacy]
 ethics: [ai-use-disclosure]
 institutions: [educational-policy-ai]
@@ -22,6 +22,7 @@ ai_assist:
     date: "2026-10-06"
     agent: hermes-agent
 reviewed_by: [editor]
+technology: [samr-model]
 ---
 
 > **Synthesis:** Quince and Faulconer (2026) track how students in a second-year [[physics-education|physics]] unit used [[generative-ai|generative AI]] across three assessments after an [[educational-policy-ai|institutional policy]] change forced the assessments to be redesigned. One assessment ran under a purpose-specific use policy and two under open use, and every submission carried a mandatory [[ai-use-disclosure|GenAI declaration]]. Coding 120+ reported use cases into learning, formatting, doing-task, and feedback functions and mapping them to [[samr-model|SAMR]] shows the *task*, not the policy tier, shaping what students did: feedback use was absent in the scaffolded presentation, appeared in the laboratory workbook, and dominated the take-home quiz at 66.7%. Students who declared GenAI use scored slightly higher on all three assessments, but no difference was statistically significant.
