@@ -1,7 +1,7 @@
 ---
 title: "Prevalence and correlates of GenerativeAI chatbot use for mental health concerns in higher education students"
-created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:43:25-05:00"
+updated: "2026-11-11T07:53:16-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]

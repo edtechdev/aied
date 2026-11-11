@@ -1,7 +1,7 @@
 ---
 title: "AI-Assisted Feedback in Higher Education: Mechanisms, Efficacy, and Motivational Pathways — A Mixed-Methods Investigation"
-created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:42:02-05:00"
+updated: "2026-11-11T08:09:35-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]

@@ -1,6 +1,6 @@
 ---
 title: "LLM-Generated Summaries for Teachers: A Randomized Field Experiment in a Digital Learning Platform"
-created: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:42:40-05:00"
 updated: "2026-11-11T08:20:00-05:00"
 type: article
 evidence_context: educational

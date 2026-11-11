@@ -1,7 +1,7 @@
 ---
 title: "The Evidence Base on AI in K-12: A November 2026 Review"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-11-11T10:20:00-05:00"
+updated: "2026-11-11T06:58:29-05:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding, sociocultural-learning]

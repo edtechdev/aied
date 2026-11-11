@@ -1,7 +1,7 @@
 ---
 title: "A criminological mixed-methods analysis of university policies and strategies against AI cheating: A case study of novel deviance and cultural lag"
-created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:43:10-05:00"
+updated: "2026-11-11T08:40:41-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]

@@ -1,7 +1,7 @@
 ---
 title: "Fast and Forgettable: A Controlled Study of Novices’ Performance, Learning, Workload, and Emotion in AI-Assisted and Human Pair Programming Paradigms"
-created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:39:58-05:00"
+updated: "2026-11-11T08:40:41-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]

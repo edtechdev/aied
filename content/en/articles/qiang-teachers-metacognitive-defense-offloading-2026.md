@@ -1,7 +1,7 @@
 ---
 title: "Between Human and Machine: University Teachers’ Accounts of Judgment, Metacognitive Defense, and Cognitive Offloading in Generative AI Use"
-created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:42:12-05:00"
+updated: "2026-11-11T07:53:16-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]

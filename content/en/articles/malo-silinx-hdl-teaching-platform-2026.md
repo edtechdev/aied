@@ -1,7 +1,7 @@
 ---
 title: "Silinx: An Open, Browser-Based HDL Design Platform for Teaching Digital Systems on FPGA Boards"
-created: "2026-11-11T10:35:00-05:00"
-updated: "2026-11-11T10:35:00-05:00"
+created: "2026-11-11T09:13:14-05:00"
+updated: "2026-11-11T09:14:54-05:00"
 type: article
 evidence_context: educational
 published: 2026-11-09

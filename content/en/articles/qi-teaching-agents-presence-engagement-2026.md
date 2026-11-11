@@ -1,7 +1,7 @@
 ---
 title: "Designing Teaching Agents for Human-AI Collaborative Classrooms: A Design-Based Study of Students' Sense of Presence and Learning Engagement"
-created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:41:29-05:00"
+updated: "2026-11-11T08:09:35-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]

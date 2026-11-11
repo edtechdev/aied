@@ -1,7 +1,7 @@
 ---
 title: "Shaping Credibility Judgments in Human–GenAI Partnership via Weaker LLMs: A Transactive Memory Perspective on AI Literacy"
-created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:36:20-05:00"
+updated: "2026-11-11T07:53:16-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]

@@ -1,6 +1,6 @@
 ---
 title: "Explainability metrics and user studies disagree about which explanation is best"
-created: "2026-11-11T09:15:00-05:00"
+created: "2026-11-11T06:40:37-05:00"
 updated: "2026-11-11T09:15:00-05:00"
 type: article
 page_kind: [synthesis]

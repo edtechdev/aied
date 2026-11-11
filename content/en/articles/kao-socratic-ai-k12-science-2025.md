@@ -1,7 +1,7 @@
 ---
 title: "Socratic AI in K–12 Science Classrooms: Effects on Critical Thinking, Motivation, and Self-Regulation in a Randomized Controlled Trial"
-created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:38:01-05:00"
+updated: "2026-11-11T08:09:35-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]

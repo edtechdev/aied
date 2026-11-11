@@ -1,7 +1,7 @@
 ---
 title: "Why this AI app? The impact of generative artificial intelligence on educators’ choices in educational apps"
-created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:41:09-05:00"
+updated: "2026-11-11T08:40:41-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]

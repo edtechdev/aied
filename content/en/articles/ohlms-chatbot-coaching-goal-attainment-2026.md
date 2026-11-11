@@ -1,7 +1,7 @@
 ---
 title: "Effects of AI-based chatbot coaching on goal attainment, self-efficacy, and stress: A longitudinal randomized experiment"
-created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:43:15-05:00"
+updated: "2026-11-11T08:09:35-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]

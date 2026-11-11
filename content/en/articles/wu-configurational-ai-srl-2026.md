@@ -1,7 +1,7 @@
 ---
 title: "A Configurational Approach to Investigating the Use of Artificial Intelligence in Self-Regulated Learning From Needs Satisfaction, Learning Environments and Perceived Affordances"
-created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:41:43-05:00"
+updated: "2026-11-11T08:09:35-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]

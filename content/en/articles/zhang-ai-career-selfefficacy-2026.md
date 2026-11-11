@@ -1,7 +1,7 @@
 ---
 title: "Perceived career impacts of artificial intelligence and career decision-making self-efficacy among Chinese college students"
-created: "2026-11-11T10:45:00-05:00"
-updated: "2026-11-11T10:45:00-05:00"
+created: "2026-11-11T09:13:41-05:00"
+updated: "2026-11-11T09:14:54-05:00"
 type: article
 evidence_context: educational
 published: 2026-11-09

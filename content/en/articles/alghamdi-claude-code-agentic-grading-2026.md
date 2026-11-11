@@ -1,7 +1,7 @@
 ---
 title: "Reliability of Claude Code as an Agentic AI Grading System for Handwritten University Exams"
-created: "2026-11-11T10:05:00-05:00"
-updated: "2026-11-11T10:05:00-05:00"
+created: "2026-11-11T09:12:03-05:00"
+updated: "2026-11-11T09:14:54-05:00"
 type: article
 evidence_context: educational
 published: 2026-11-09

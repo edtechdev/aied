@@ -1,7 +1,7 @@
 ---
 title: "Structured ChatGPT-Assisted Writing Instruction and Academic Writing Performance Among Jordanian EFL University Students"
-created: "2026-11-11T09:40:00-05:00"
-updated: "2026-11-11T09:40:00-05:00"
+created: "2026-11-11T09:10:51-05:00"
+updated: "2026-11-11T09:15:01-05:00"
 type: article
 evidence_context: educational
 published: 2026-11-10

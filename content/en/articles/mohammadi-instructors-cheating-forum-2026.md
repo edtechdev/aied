@@ -1,7 +1,7 @@
 ---
 title: "Mapping Instructors' Attitudes Towards Cheating with AI: An Exploratory Analysis Using Forum Analysis"
-created: "2026-11-11T10:15:00-05:00"
-updated: "2026-11-11T10:15:00-05:00"
+created: "2026-11-11T09:12:30-05:00"
+updated: "2026-11-11T09:14:54-05:00"
 type: article
 evidence_context: educational
 published: 2026-11-09

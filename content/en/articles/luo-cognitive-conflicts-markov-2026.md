@@ -1,7 +1,7 @@
 ---
 title: "Student Responses to Cognitive Conflicts in GenAI-Assisted Learning: A Covariate-Dependent Markov Chain Analysis on Human-AI Interactions"
-created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:41:44-05:00"
+updated: "2026-11-11T08:09:35-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]

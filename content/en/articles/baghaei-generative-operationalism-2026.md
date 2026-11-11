@@ -1,7 +1,7 @@
 ---
 title: "Generative operationalism: when LLM-based item generation displaces construct theory"
-created: "2026-11-11T09:55:00-05:00"
-updated: "2026-11-11T09:55:00-05:00"
+created: "2026-11-11T09:11:33-05:00"
+updated: "2026-11-11T09:14:26-05:00"
 type: article
 evidence_context: educational
 published: 2026-11-10

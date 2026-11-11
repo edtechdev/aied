@@ -1,6 +1,6 @@
 ---
 title: "AI assistance made people worse at catching the AI's mistakes"
-created: "2026-11-11T07:05:00-05:00"
+created: "2026-11-11T06:30:28-05:00"
 updated: "2026-11-11T07:05:00-05:00"
 type: article
 page_kind: [synthesis]

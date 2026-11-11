@@ -1,7 +1,7 @@
 ---
 title: "Examining the Usage of Generative AI Models in Student Learning Activities for Software Programming"
-created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:39:26-05:00"
+updated: "2026-11-11T08:40:41-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]

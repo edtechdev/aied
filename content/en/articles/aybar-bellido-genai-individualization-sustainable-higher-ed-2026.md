@@ -1,6 +1,6 @@
 ---
 title: "Generative AI for Learning Individualization and Student Support in Sustainable Higher Education: A Systematic Review of Creative Agency, Equitable Learning, and Implications for SDG 4 and SDG 10"
-created: "2026-11-11T08:30:00-05:00"
+created: "2026-11-11T08:04:11-05:00"
 updated: "2026-11-11T08:30:00-05:00"
 type: article
 evidence_context: educational

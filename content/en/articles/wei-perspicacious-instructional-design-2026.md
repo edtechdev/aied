@@ -1,7 +1,7 @@
 ---
 title: "Perspicacious: An Educational Intelligence Platform for Instructional Designers"
-created: "2026-11-11T10:25:00-05:00"
-updated: "2026-11-11T10:25:00-05:00"
+created: "2026-11-11T09:12:53-05:00"
+updated: "2026-11-11T09:17:02-05:00"
 type: article
 evidence_context: educational
 published: 2026-11-10

@@ -1,7 +1,7 @@
 ---
 title: "When Code Is No Longer Enough for Programming Assessment in the GenAI Era"
-created: "2026-11-11T11:30:00-05:00"
-updated: "2026-11-11T11:30:00-05:00"
+created: "2026-11-11T07:43:00-05:00"
+updated: "2026-11-11T08:09:35-05:00"
 type: article
 evidence_context: educational
 page_kind: [framework]
