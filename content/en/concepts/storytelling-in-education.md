@@ -1,7 +1,7 @@
 ---
 title: Storytelling in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-04T14:10:00-05:00"
+updated: "2026-11-11T10:05:00-05:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -34,6 +34,8 @@ Storytelling is grounded in [[motivation]], [[student-engagement]], and [[constr
 - **Digital storytelling as a counterweight to AI:** As [[generative-ai|generative AI]] ascends, digital storytelling is reframed as a vehicle for the emotional, cultural, and narrative capacities that AI lacks. In a [[project-based-learning|project-based learning]] model for art and [[design-education|design education]], students translated local cultural heritage into [[multimodal]] narratives across 92 digital storytelling works, demonstrating how storytelling sustains human creativity in the AI era.
 - **Generated narrative is easy to produce and hard to keep coherent.** With 22 STEM students, AI-generated interactive fiction rated well on narrative clarity (M = 4.11) and length (M = 4.14), but engagement sat at the neutral midpoint (M = 3.08) and story-content coherence was weakest (M = 2.92) ([[ai-generated-interactive-fiction-education-2026]]). Co-creation inherits that weakness at the layer a story is supposed to do its work.
 
+- **The story is the evaluative frame, not just the destination for the output.** In a Turkish preschool, 22 children built picture books with a teacher who wrote every image prompt. Their judgments of the generated images were about story fit — which of four candidates the class would keep, whether an extra object "like a pilot" belonged, whether an image was ugly because a requested flower was missing — set alongside plausibility judgments such as "a butterfly with glasses cannot be" ([[konca-preschool-genai-storytelling-ai-literacy-2026|Konca & Yigit-Gencten, 2026]]). Storytelling gave the class a reason to inspect outputs feature by feature, which is what made their reasoning about the tool visible at all.
+
 Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], and [[educational-robotics]].
 
 ## Common Misconceptions
@@ -63,3 +65,4 @@ Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]],
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[ai-generated-interactive-fiction-education-2026]] — AI-generated interactive fiction: coherence as the weak dimension in a 22-student pilot
+- [[konca-preschool-genai-storytelling-ai-literacy-2026]] — preschool picture-book building where story fit and plausibility became the criteria for judging AI images (Konca & Yigit-Gencten, 2026)
