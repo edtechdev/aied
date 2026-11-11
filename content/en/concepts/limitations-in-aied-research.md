@@ -112,6 +112,8 @@ Two specific reporting practices inflate or distort a synthesis, and both are vi
 
 **And the base rate is the number nobody states.** Methodological limits here are measurable rather than impressionistic: in a critical review of 80 HCI studies of critical thinking with AI, **42 (52%) ran no control group** and most of the rest relied on self-report. When more than half of a field's positive findings come from designs that cannot separate AI's effect from ordinary activity, the appropriate prior on any single finding is skepticism, not provisional acceptance.
 
+A practical consequence of these limits is that several widely used educational practices rest on evidence that cannot bear them; [[what-not-to-do-ai-education|what educators should avoid doing with AI]] collects those practices by role, and names the specific limit behind each caution.
+
 ## Common Misconceptions
 
 - **"Limitations sections are boilerplate."** Methodological limits are **measurable rather than impressionistic**: in a critical review of **80 HCI studies** of critical thinking with AI, **42 (52%) ran no control group**. A precise count is what makes the limit actionable.

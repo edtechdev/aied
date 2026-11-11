@@ -34,7 +34,7 @@ export const faqIndex: FaqSection[] = [
   {
     heading: 'Start here',
     blurb: 'Two broad questions worth reading before the specific ones, whichever role you are in.',
-    items: ['top-10-findings-ai-education-instructors', 'addressing-common-misconceptions-ai-education'],
+    items: ['top-10-findings-ai-education-instructors', 'addressing-common-misconceptions-ai-education', 'what-not-to-do-ai-education'],
   },
   {
     heading: 'Course and institutional policy',
