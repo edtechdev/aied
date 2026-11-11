@@ -1,7 +1,7 @@
 ---
 title: "AI Tutor Pro وAI Teaching Assistant Pro"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-10T23:40:54-05:00"
 type: resource
 summary: "تطبيقا Contact North المجانيان بلا تسجيل: AI Tutor Pro لدراسة الطلاب وتدرّبهم، وAI Teaching Assistant Pro للمعلّمين لبناء الأسئلة والمقررات الدراسية والشرائح التعلّمية القصيرة والعروض."
 url: https://www.aitutorpro.ca/
@@ -16,7 +16,7 @@ assessment: [automated-question-generation]
 audience: [learners, instructors, instructional designers, faculty developers]
 level: [higher ed, adult learning]
 contributors: [editor]
-source_updated: "2026-11-10T21:15:00-05:00"
+source_updated: "2026-11-10T23:40:54-05:00"
 translation_of: resources/ai-tutor-pro-teaching-assistant-pro
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 
-**AI Tutor Pro** و**AI Teaching Assistant Pro** تطبيقان مجانيان على الويب من Contact North | Contact Nord، وهي شبكة غير ربحية للتعليم عن بُعد في أونتاريو. وهما يشتركان في تصميم بلا تسجيل، وفي سياسة خصوصية، وفي خلفية ChatGPT، لكنهما يواجهان مستخدمين مختلفين: فـAI Tutor Pro فضاء [[intelligent-tutoring|تدريس خصوصي]] يناقش فيه المتعلّمون موضوعًا، ويفحصون ما يعرفونه، ويبنون دليل دراسة، بينما AI Teaching Assistant Pro فضاء إنتاج يولّد فيه المعلّمون أسئلة اختيار من متعدد وأسئلة مقالية، ويصوغون مقررات دراسية وملاحظات تدريس، ويجمّعون فيديوهات تعلّمية قصيرة. ولأن كليهما يعمل في المتصفّح دون حساب ويدعم أكثر من 25 لغة، فهما سهلان على نحو غير معتاد للتجربة مع صف قبل تقرير تضمينهما في نظام إدارة التعلّم.
+**AI Tutor Pro** ([aitutorpro.ca](https://www.aitutorpro.ca/)) و**AI Teaching Assistant Pro** ([aiteachingassistantpro.ca](https://www.aiteachingassistantpro.ca/)) تطبيقان مجانيان على الويب من Contact North | Contact Nord، وهي شبكة غير ربحية للتعليم عن بُعد في أونتاريو. وهما يشتركان في تصميم بلا تسجيل، وفي سياسة خصوصية، وفي خلفية ChatGPT، لكنهما يواجهان مستخدمين مختلفين: فـAI Tutor Pro فضاء [[intelligent-tutoring|تدريس خصوصي]] يناقش فيه المتعلّمون موضوعًا، ويفحصون ما يعرفونه، ويبنون دليل دراسة، بينما AI Teaching Assistant Pro فضاء إنتاج يولّد فيه المعلّمون أسئلة اختيار من متعدد وأسئلة مقالية، ويصوغون مقررات دراسية وملاحظات تدريس، ويجمّعون فيديوهات تعلّمية قصيرة. ولأن كليهما يعمل في المتصفّح دون حساب ويدعم أكثر من 25 لغة، فهما سهلان على نحو غير معتاد للتجربة مع صف قبل تقرير تضمينهما في نظام إدارة التعلّم.
 
 ## ما يمكنك فعله بها
 

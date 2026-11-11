@@ -1,7 +1,7 @@
 ---
 title: "AI Tutor Pro 与 AI Teaching Assistant Pro"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-10T23:40:54-05:00"
 type: resource
 summary: "Contact North 的两款免费、无需注册的人工智能网页应用：AI Tutor Pro 供学生学习与练习，AI Teaching Assistant Pro 供教师生成题目、教学大纲、学习短片和幻灯片。"
 url: https://www.aitutorpro.ca/
@@ -16,7 +16,7 @@ assessment: [automated-question-generation]
 audience: [learners, instructors, instructional designers, faculty developers]
 level: [higher ed, adult learning]
 translation_of: resources/ai-tutor-pro-teaching-assistant-pro
-source_updated: "2026-11-10T21:15:00-05:00"
+source_updated: "2026-11-10T23:40:54-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-**AI Tutor Pro** 与 **AI Teaching Assistant Pro** 是 Contact North | Contact Nord 的两款免费网页应用，后者是安大略省一家非营利的远程教育网络。它们共享无需注册的设计、同一份隐私政策和同一个 ChatGPT 后端，但面向不同的用户：AI Tutor Pro 是一个[[intelligent-tutoring|导学]]空间，学习者在此讨论一个主题、检查自己掌握了什么并建立学习指南；AI Teaching Assistant Pro 则是一个生产空间，教师在此生成选择题和论述题、起草教学大纲与教学笔记，并组装简短的学习视频。由于两者都能在浏览器中无需账户运行，并支持 25 种以上的语言，它们在决定是否嵌入 LMS 之前，异常容易先在一门课上试用。
+**AI Tutor Pro** ([aitutorpro.ca](https://www.aitutorpro.ca/)) 与 **AI Teaching Assistant Pro** ([aiteachingassistantpro.ca](https://www.aiteachingassistantpro.ca/)) 是 Contact North | Contact Nord 的两款免费网页应用，后者是安大略省一家非营利的远程教育网络。它们共享无需注册的设计、同一份隐私政策和同一个 ChatGPT 后端，但面向不同的用户：AI Tutor Pro 是一个[[intelligent-tutoring|导学]]空间，学习者在此讨论一个主题、检查自己掌握了什么并建立学习指南；AI Teaching Assistant Pro 则是一个生产空间，教师在此生成选择题和论述题、起草教学大纲与教学笔记，并组装简短的学习视频。由于两者都能在浏览器中无需账户运行，并支持 25 种以上的语言，它们在决定是否嵌入 LMS 之前，异常容易先在一门课上试用。
 
 ## 你可以用它做什么
 

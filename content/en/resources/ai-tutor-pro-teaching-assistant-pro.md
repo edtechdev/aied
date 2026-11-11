@@ -1,7 +1,7 @@
 ---
 title: "AI Tutor Pro and AI Teaching Assistant Pro"
 created: "2026-11-10T21:15:00-05:00"
-updated: "2026-11-10T21:15:00-05:00"
+updated: "2026-11-10T23:40:54-05:00"
 type: resource
 summary: "Contact North's two free, no-sign-up AI web apps: AI Tutor Pro for student study and practice, and AI Teaching Assistant Pro for instructors building questions, syllabi, learning shorts and slides."
 url: https://www.aitutorpro.ca/
@@ -24,7 +24,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-**AI Tutor Pro** and **AI Teaching Assistant Pro** are two free web apps from Contact North | Contact Nord, an Ontario not-for-profit distance-education network. They share a no-registration design, a privacy policy and a ChatGPT backend, but face different users: AI Tutor Pro is a [[intelligent-tutoring|tutoring]] space where learners discuss a topic, check what they know and build a study guide, while AI Teaching Assistant Pro is a production space where instructors generate multiple-choice and essay questions, draft syllabi and teaching notes, and assemble short learning videos. Because both run in the browser without an account and support more than 25 languages, they are unusually easy to try with a class before deciding whether to embed them in an LMS.
+**AI Tutor Pro** ([aitutorpro.ca](https://www.aitutorpro.ca/)) and **AI Teaching Assistant Pro** ([aiteachingassistantpro.ca](https://www.aiteachingassistantpro.ca/)) are two free web apps from Contact North | Contact Nord, an Ontario not-for-profit distance-education network. They share a no-registration design, a privacy policy and a ChatGPT backend, but face different users: AI Tutor Pro is a [[intelligent-tutoring|tutoring]] space where learners discuss a topic, check what they know and build a study guide, while AI Teaching Assistant Pro is a production space where instructors generate multiple-choice and essay questions, draft syllabi and teaching notes, and assemble short learning videos. Because both run in the browser without an account and support more than 25 languages, they are unusually easy to try with a class before deciding whether to embed them in an LMS.
 
 ## What you can do with it
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Tutor Pro és AI Teaching Assistant Pro"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-10T23:40:54-05:00"
 type: resource
 summary: "A Contact North két ingyenes, bejelentkezés nélküli MI-webalkalmazása: az AI Tutor Pro a diákok tanulásához és gyakorlásához, az AI Teaching Assistant Pro pedig az oktatók kérdés-, tanterv-, Learning Shorts- és diaépítéséhez."
 url: https://www.aitutorpro.ca/
@@ -16,7 +16,7 @@ assessment: [automated-question-generation]
 audience: [learners, instructors, instructional designers, faculty developers]
 level: [higher ed, adult learning]
 contributors: [editor]
-source_updated: "2026-11-10T21:15:00-05:00"
+source_updated: "2026-11-10T23:40:54-05:00"
 translation_of: resources/ai-tutor-pro-teaching-assistant-pro
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
 
-Az **AI Tutor Pro** és az **AI Teaching Assistant Pro** a Contact North | Contact Nord, egy ontariói nonprofit távoktatási hálózat két ingyenes webalkalmazása. Közös bennük a regisztráció nélküli kialakítás, az adatvédelmi szabályzat és a ChatGPT háttér, de más felhasználóknak szólnak: az AI Tutor Pro [[intelligent-tutoring|tutoring]] tér, ahol a tanulók megvitatnak egy témát, ellenőrzik, mit tudnak, és tanulmányi útmutatót építenek, az AI Teaching Assistant Pro pedig alkotótér, ahol az oktatók feleletválasztós és esszékérdéseket generálnak, tantervet és tanítási jegyzeteket készítenek, és rövid tanulási videókat állítanak össze. Mivel mindkettő fiók nélkül fut a böngészőben, és több mint 25 nyelvet támogat, szokatlanul könnyű kipróbálni őket egy osztállyal, mielőtt eldöntené, beágyazza-e őket egy LMS-be.
+Az **AI Tutor Pro** ([aitutorpro.ca](https://www.aitutorpro.ca/)) és az **AI Teaching Assistant Pro** ([aiteachingassistantpro.ca](https://www.aiteachingassistantpro.ca/)) a Contact North | Contact Nord, egy ontariói nonprofit távoktatási hálózat két ingyenes webalkalmazása. Közös bennük a regisztráció nélküli kialakítás, az adatvédelmi szabályzat és a ChatGPT háttér, de más felhasználóknak szólnak: az AI Tutor Pro [[intelligent-tutoring|tutoring]] tér, ahol a tanulók megvitatnak egy témát, ellenőrzik, mit tudnak, és tanulmányi útmutatót építenek, az AI Teaching Assistant Pro pedig alkotótér, ahol az oktatók feleletválasztós és esszékérdéseket generálnak, tantervet és tanítási jegyzeteket készítenek, és rövid tanulási videókat állítanak össze. Mivel mindkettő fiók nélkül fut a böngészőben, és több mint 25 nyelvet támogat, szokatlanul könnyű kipróbálni őket egy osztállyal, mielőtt eldöntené, beágyazza-e őket egy LMS-be.
 
 ## Mire használható
 

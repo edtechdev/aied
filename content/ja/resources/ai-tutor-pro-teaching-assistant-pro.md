@@ -1,7 +1,7 @@
 ---
 title: "AI Tutor ProとAI Teaching Assistant Pro"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-10T23:40:54-05:00"
 type: resource
 summary: "Contact Northによる、サインアップ不要の2つの無料AIウェブアプリ。学生の学習と練習のためのAI Tutor Proと、教員が問題、シラバス、ラーニングショート、スライドを作るためのAI Teaching Assistant Proです。"
 url: https://www.aitutorpro.ca/
@@ -16,7 +16,7 @@ assessment: [automated-question-generation]
 audience: [learners, instructors, instructional designers, faculty developers]
 level: [higher ed, adult learning]
 translation_of: resources/ai-tutor-pro-teaching-assistant-pro
-source_updated: "2026-11-10T21:15:00-05:00"
+source_updated: "2026-11-10T23:40:54-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 
-**AI Tutor Pro**と**AI Teaching Assistant Pro**は、オンタリオ州の非営利遠隔教育ネットワークであるContact North | Contact Nordによる2つの無料ウェブアプリです。登録不要の設計、プライバシーポリシー、ChatGPTのバックエンドを共有しますが、向き合う利用者が異なります。AI Tutor Proは、学習者がトピックについて話し、自分の知識を確かめ、学習ガイドを組み立てる[[intelligent-tutoring|個別指導]]の場であり、AI Teaching Assistant Proは、教員が多肢選択問題と記述式問題を生成し、シラバスと教授ノートの草稿を作り、短い学習動画を組み立てる制作の場です。どちらもアカウントなしでブラウザ内で動作し、25以上の言語をサポートするため、LMSに組み込むかを決める前に、クラスで試すのが異例に容易です。
+**AI Tutor Pro** ([aitutorpro.ca](https://www.aitutorpro.ca/))と**AI Teaching Assistant Pro** ([aiteachingassistantpro.ca](https://www.aiteachingassistantpro.ca/))は、オンタリオ州の非営利遠隔教育ネットワークであるContact North | Contact Nordによる2つの無料ウェブアプリです。登録不要の設計、プライバシーポリシー、ChatGPTのバックエンドを共有しますが、向き合う利用者が異なります。AI Tutor Proは、学習者がトピックについて話し、自分の知識を確かめ、学習ガイドを組み立てる[[intelligent-tutoring|個別指導]]の場であり、AI Teaching Assistant Proは、教員が多肢選択問題と記述式問題を生成し、シラバスと教授ノートの草稿を作り、短い学習動画を組み立てる制作の場です。どちらもアカウントなしでブラウザ内で動作し、25以上の言語をサポートするため、LMSに組み込むかを決める前に、クラスで試すのが異例に容易です。
 
 ## できること
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Tutor Pro a AI Teaching Assistant Pro"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-10T23:40:54-05:00"
 type: resource
 summary: "Dvě bezplatné webové aplikace Contact North bez registrace: AI Tutor Pro pro studium a procvičování studentů a AI Teaching Assistant Pro pro vyučující, kteří tvoří otázky, sylaby, krátká výuková videa a snímky."
 url: https://www.aitutorpro.ca/
@@ -15,7 +15,7 @@ technology: [generative-ai, conversational-ai, intelligent-tutoring]
 assessment: [automated-question-generation]
 audience: [learners, instructors, instructional designers, faculty developers]
 level: [higher ed, adult learning]
-source_updated: "2026-11-10T21:15:00-05:00"
+source_updated: "2026-11-10T23:40:54-05:00"
 translation_of: resources/ai-tutor-pro-teaching-assistant-pro
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
 
-**AI Tutor Pro** a **AI Teaching Assistant Pro** jsou dvě bezplatné webové aplikace od Contact North | Contact Nord, ontarijské neziskové sítě distančního vzdělávání. Sdílejí design bez registrace, zásady ochrany soukromí a backend ChatGPT, ale míří na různé uživatele: AI Tutor Pro je prostor pro [[intelligent-tutoring|doučování]], kde studenti diskutují o tématu, ověřují si, co znají, a sestavují si studijního průvodce, zatímco AI Teaching Assistant Pro je produkční prostor, kde vyučující generují otázky s výběrem odpovědí i eseje, navrhují sylaby a výukové poznámky a skládají krátká výuková videa. Protože obě běží v prohlížeči bez účtu a podporují více než 25 jazyků, je nezvykle snadné je vyzkoušet se třídou, než se rozhodnete, zda je vložíte do LMS.
+**AI Tutor Pro** ([aitutorpro.ca](https://www.aitutorpro.ca/)) a **AI Teaching Assistant Pro** ([aiteachingassistantpro.ca](https://www.aiteachingassistantpro.ca/)) jsou dvě bezplatné webové aplikace od Contact North | Contact Nord, ontarijské neziskové sítě distančního vzdělávání. Sdílejí design bez registrace, zásady ochrany soukromí a backend ChatGPT, ale míří na různé uživatele: AI Tutor Pro je prostor pro [[intelligent-tutoring|doučování]], kde studenti diskutují o tématu, ověřují si, co znají, a sestavují si studijního průvodce, zatímco AI Teaching Assistant Pro je produkční prostor, kde vyučující generují otázky s výběrem odpovědí i eseje, navrhují sylaby a výukové poznámky a skládají krátká výuková videa. Protože obě běží v prohlížeči bez účtu a podporují více než 25 jazyků, je nezvykle snadné je vyzkoušet se třídou, než se rozhodnete, zda je vložíte do LMS.
 
 ## Co s nimi můžete dělat
 

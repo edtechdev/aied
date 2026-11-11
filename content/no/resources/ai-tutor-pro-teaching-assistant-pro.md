@@ -1,8 +1,8 @@
 ---
 title: "AI Tutor Pro og AI Teaching Assistant Pro"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
-source_updated: "2026-11-10T21:15:00-05:00"
+updated: "2026-11-10T23:40:54-05:00"
+source_updated: "2026-11-10T23:40:54-05:00"
 translation_of: resources/ai-tutor-pro-teaching-assistant-pro
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 type: resource
@@ -28,7 +28,7 @@ ai_assist:
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
 
-**AI Tutor Pro** og **AI Teaching Assistant Pro** er to gratis nettapper fra Contact North | Contact Nord, et ideelt distanseutdanningsnettverk i Ontario. De deler et design uten registrering, en personvernpolicy og en ChatGPT-backend, men vender seg til forskjellige brukere: AI Tutor Pro er et [[intelligent-tutoring|veiledningsrom]] der lærende diskuterer et tema, sjekker hva de kan og bygger en studieveiledning, mens AI Teaching Assistant Pro er et produksjonsrom der undervisere genererer flervalgs- og essayspørsmål, utkaster emneplaner og undervisningsnotater og setter sammen korte læringsvideoer. Fordi begge kjører i nettleseren uten konto og støtter mer enn 25 språk, er de uvanlig enkle å prøve med en klasse før man bestemmer seg for om de skal bygges inn i en LMS.
+**AI Tutor Pro** ([aitutorpro.ca](https://www.aitutorpro.ca/)) og **AI Teaching Assistant Pro** ([aiteachingassistantpro.ca](https://www.aiteachingassistantpro.ca/)) er to gratis nettapper fra Contact North | Contact Nord, et ideelt distanseutdanningsnettverk i Ontario. De deler et design uten registrering, en personvernpolicy og en ChatGPT-backend, men vender seg til forskjellige brukere: AI Tutor Pro er et [[intelligent-tutoring|veiledningsrom]] der lærende diskuterer et tema, sjekker hva de kan og bygger en studieveiledning, mens AI Teaching Assistant Pro er et produksjonsrom der undervisere genererer flervalgs- og essayspørsmål, utkaster emneplaner og undervisningsnotater og setter sammen korte læringsvideoer. Fordi begge kjører i nettleseren uten konto og støtter mer enn 25 språk, er de uvanlig enkle å prøve med en klasse før man bestemmer seg for om de skal bygges inn i en LMS.
 
 ## Hva du kan gjøre med den
 

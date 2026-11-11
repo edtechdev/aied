@@ -1,7 +1,7 @@
 ---
 title: "AI Tutor Pro와 AI Teaching Assistant Pro"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-10T23:40:54-05:00"
 type: resource
 summary: "Contact North의 두 가지 무료, 가입 불필요 AI 웹 앱입니다. 학생의 학습과 연습을 위한 AI Tutor Pro, 그리고 교수자가 문항, 강의계획서, 학습 숏츠, 슬라이드를 만드는 AI Teaching Assistant Pro입니다."
 url: https://www.aitutorpro.ca/
@@ -16,7 +16,7 @@ assessment: [automated-question-generation]
 audience: [learners, instructors, instructional designers, faculty developers]
 level: [higher ed, adult learning]
 translation_of: resources/ai-tutor-pro-teaching-assistant-pro
-source_updated: "2026-11-10T21:15:00-05:00"
+source_updated: "2026-11-10T23:40:54-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 
-**AI Tutor Pro**와 **AI Teaching Assistant Pro**는 온타리오의 비영리 원격교육 네트워크인 Contact North | Contact Nord가 만든 두 가지 무료 웹 앱입니다. 이들은 가입 없는 설계, 프라이버시 정책, ChatGPT 백엔드를 공유하지만 서로 다른 사용자를 향합니다. AI Tutor Pro는 학습자가 한 주제를 논의하고, 자신이 아는 것을 점검하고, 학습 가이드를 만드는 [[intelligent-tutoring|튜터링]] 공간이고, AI Teaching Assistant Pro는 교수자가 객관식과 에세이 문항을 생성하고, 강의계획서와 교수 노트를 작성하며, 짧은 학습 영상을 조립하는 제작 공간입니다. 둘 다 계정 없이 브라우저에서 실행되고 25개 이상의 언어를 지원하기 때문에, LMS에 포함할지 결정하기 전에 학급과 함께 시험해 보기가 유난히 쉽습니다.
+**AI Tutor Pro** ([aitutorpro.ca](https://www.aitutorpro.ca/))와 **AI Teaching Assistant Pro** ([aiteachingassistantpro.ca](https://www.aiteachingassistantpro.ca/))는 온타리오의 비영리 원격교육 네트워크인 Contact North | Contact Nord가 만든 두 가지 무료 웹 앱입니다. 이들은 가입 없는 설계, 프라이버시 정책, ChatGPT 백엔드를 공유하지만 서로 다른 사용자를 향합니다. AI Tutor Pro는 학습자가 한 주제를 논의하고, 자신이 아는 것을 점검하고, 학습 가이드를 만드는 [[intelligent-tutoring|튜터링]] 공간이고, AI Teaching Assistant Pro는 교수자가 객관식과 에세이 문항을 생성하고, 강의계획서와 교수 노트를 작성하며, 짧은 학습 영상을 조립하는 제작 공간입니다. 둘 다 계정 없이 브라우저에서 실행되고 25개 이상의 언어를 지원하기 때문에, LMS에 포함할지 결정하기 전에 학급과 함께 시험해 보기가 유난히 쉽습니다.
 
 ## 이 도구로 할 수 있는 것
 

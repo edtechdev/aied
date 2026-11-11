@@ -1,7 +1,7 @@
 ---
 title: "AI Tutor Pro ו-AI Teaching Assistant Pro"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-10T23:40:54-05:00"
 type: resource
 summary: "שתי אפליקציות ווב חינמיות ללא הרשמה של Contact North: AI Tutor Pro ללימוד ותרגול של סטודנטים, ו-AI Teaching Assistant Pro למרצים שבונים שאלות, סילבוסים, סרטוני למידה קצרים ומצגות."
 url: https://www.aitutorpro.ca/
@@ -16,7 +16,7 @@ assessment: [automated-question-generation]
 audience: [learners, instructors, instructional designers, faculty developers]
 level: [higher ed, adult learning]
 translation_of: resources/ai-tutor-pro-teaching-assistant-pro
-source_updated: "2026-11-10T21:15:00-05:00"
+source_updated: "2026-11-10T23:40:54-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 
-**AI Tutor Pro** ו-**AI Teaching Assistant Pro** הן שתי אפליקציות ווב חינמיות של Contact North | Contact Nord, רשת חינוך מרחוק ללא מטרת רווח באונטריו. הן חולקות עיצוב ללא הרשמה, מדיניות פרטיות ו-Backend של ChatGPT, אבל פונות למשתמשים שונים: AI Tutor Pro הוא מרחב [[intelligent-tutoring|חונכות]] שבו לומדים דנים בנושא, בודקים מה הם יודעים ובונים מדריך לימוד, בעוד AI Teaching Assistant Pro הוא מרחב ייצור שבו מרצים מייצרים שאלות אמריקאיות ושאלות חיבור, מנסחים סילבוסים והערות הוראה ומרכיבים סרטוני למידה קצרים. מפני ששתיהן פועלות בדפדפן בלי חשבון ותומכות ביותר מ-25 שפות, קל במיוחד לנסות אותן עם כיתה לפני שמחליטים אם להטמיע אותן ב-LMS.
+**AI Tutor Pro** ([aitutorpro.ca](https://www.aitutorpro.ca/)) ו-**AI Teaching Assistant Pro** ([aiteachingassistantpro.ca](https://www.aiteachingassistantpro.ca/)) הן שתי אפליקציות ווב חינמיות של Contact North | Contact Nord, רשת חינוך מרחוק ללא מטרת רווח באונטריו. הן חולקות עיצוב ללא הרשמה, מדיניות פרטיות ו-Backend של ChatGPT, אבל פונות למשתמשים שונים: AI Tutor Pro הוא מרחב [[intelligent-tutoring|חונכות]] שבו לומדים דנים בנושא, בודקים מה הם יודעים ובונים מדריך לימוד, בעוד AI Teaching Assistant Pro הוא מרחב ייצור שבו מרצים מייצרים שאלות אמריקאיות ושאלות חיבור, מנסחים סילבוסים והערות הוראה ומרכיבים סרטוני למידה קצרים. מפני ששתיהן פועלות בדפדפן בלי חשבון ותומכות ביותר מ-25 שפות, קל במיוחד לנסות אותן עם כיתה לפני שמחליטים אם להטמיע אותן ב-LMS.
 
 ## מה אפשר לעשות איתה
 

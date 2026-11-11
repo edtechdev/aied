@@ -1,7 +1,7 @@
 ---
 title: "AI Tutor Pro اور AI Teaching Assistant Pro"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-10T23:40:54-05:00"
 type: resource
 summary: "Contact North کی دو مفت، بغیر سائن اپ AI ویب ایپس: AI Tutor Pro طلبہ کے مطالعے اور مشق کے لیے، اور AI Teaching Assistant Pro اساتذہ کے لیے سوالات، نصاب، مختصر تعلیمی ویڈیوز اور سلائیڈز بنانے کے لیے۔"
 url: https://www.aitutorpro.ca/
@@ -16,7 +16,7 @@ assessment: [automated-question-generation]
 audience: [learners, instructors, instructional designers, faculty developers]
 level: [higher ed, adult learning]
 translation_of: resources/ai-tutor-pro-teaching-assistant-pro
-source_updated: "2026-11-10T21:15:00-05:00"
+source_updated: "2026-11-10T23:40:54-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
 
-**AI Tutor Pro** اور **AI Teaching Assistant Pro** Contact North | Contact Nord کی دو مفت ویب ایپس ہیں؛ Contact North اونٹاریو کا ایک غیر منافع بخش فاصلاتی تعلیم نیٹ ورک ہے۔ دونوں میں کوئی رجسٹریشن نہ مانگنے والا ڈیزائن، ایک رازداری پالیسی اور ChatGPT بیک اینڈ مشترک ہیں، مگر سامنے مختلف صارفین ہیں: AI Tutor Pro ایک [[intelligent-tutoring|ٹیوٹرنگ]] کی جگہ ہے جہاں سیکھنے والے کسی موضوع پر گفتگو کرتے، اپنے علم کی جانچ کرتے اور مطالعے کی گائیڈ بناتے ہیں، جبکہ AI Teaching Assistant Pro ایک تیاری کی جگہ ہے جہاں اساتذہ کثیر الانتخابی اور مضمون کے سوالات بناتے، نصاب اور تدریسی نوٹس کا مسودہ تیار کرتے، اور مختصر تعلیمی ویڈیوز ترتیب دیتے ہیں۔ چونکہ دونوں بغیر اکاؤنٹ براؤزر میں چلتی ہیں اور 25 سے زیادہ زبانیں سپورٹ کرتی ہیں، انہیں LMS میں شامل کرنے کا فیصلہ کرنے سے پہلے کسی کلاس کے ساتھ آزمانا غیر معمولی طور پر آسان ہے۔
+**AI Tutor Pro** ([aitutorpro.ca](https://www.aitutorpro.ca/)) اور **AI Teaching Assistant Pro** ([aiteachingassistantpro.ca](https://www.aiteachingassistantpro.ca/)) Contact North | Contact Nord کی دو مفت ویب ایپس ہیں؛ Contact North اونٹاریو کا ایک غیر منافع بخش فاصلاتی تعلیم نیٹ ورک ہے۔ دونوں میں کوئی رجسٹریشن نہ مانگنے والا ڈیزائن، ایک رازداری پالیسی اور ChatGPT بیک اینڈ مشترک ہیں، مگر سامنے مختلف صارفین ہیں: AI Tutor Pro ایک [[intelligent-tutoring|ٹیوٹرنگ]] کی جگہ ہے جہاں سیکھنے والے کسی موضوع پر گفتگو کرتے، اپنے علم کی جانچ کرتے اور مطالعے کی گائیڈ بناتے ہیں، جبکہ AI Teaching Assistant Pro ایک تیاری کی جگہ ہے جہاں اساتذہ کثیر الانتخابی اور مضمون کے سوالات بناتے، نصاب اور تدریسی نوٹس کا مسودہ تیار کرتے، اور مختصر تعلیمی ویڈیوز ترتیب دیتے ہیں۔ چونکہ دونوں بغیر اکاؤنٹ براؤزر میں چلتی ہیں اور 25 سے زیادہ زبانیں سپورٹ کرتی ہیں، انہیں LMS میں شامل کرنے کا فیصلہ کرنے سے پہلے کسی کلاس کے ساتھ آزمانا غیر معمولی طور پر آسان ہے۔
 
 ## اس سے آپ کیا کر سکتے ہیں
 

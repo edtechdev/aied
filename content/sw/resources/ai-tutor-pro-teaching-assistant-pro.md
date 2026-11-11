@@ -1,7 +1,7 @@
 ---
 title: "AI Tutor Pro na AI Teaching Assistant Pro"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-10T23:40:54-05:00"
 type: resource
 summary: "Programu mbili za bure za wavuti za AI za Contact North zisizohitaji kujisajili: AI Tutor Pro kwa masomo na mazoezi ya mwanafunzi, na AI Teaching Assistant Pro kwa walimu wanaojenga maswali, mitaala, video fupi za kujifunza na slaidi."
 url: https://www.aitutorpro.ca/
@@ -16,7 +16,7 @@ assessment: [automated-question-generation]
 audience: [learners, instructors, instructional designers, faculty developers]
 level: [higher ed, adult learning]
 translation_of: resources/ai-tutor-pro-teaching-assistant-pro
-source_updated: "2026-11-10T21:15:00-05:00"
+source_updated: "2026-11-10T23:40:54-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-**AI Tutor Pro** na **AI Teaching Assistant Pro** ni programu mbili za bure za wavuti kutoka Contact North | Contact Nord, mtandao usio wa faida wa elimu ya mbali wa Ontario. Zinashiriki ubuni usio na usajili, sera ya faragha na injini ya ChatGPT, lakini zinawakabili watumiaji tofauti: AI Tutor Pro ni nafasi ya [[intelligent-tutoring|ufundishaji]] ambapo wanafunzi hujadili mada, hukagua wanachojua na hujenga mwongozo wa masomo, wakati AI Teaching Assistant Pro ni nafasi ya uzalishaji ambapo walimu huzalisha maswali ya chaguo-nyingi na insha, huandika mitaala na maelezo ya kufundisha, na hukusanya video fupi za kujifunza. Kwa sababu zote mbili hufanya kazi kwenye kivinjari bila akaunti na zinasaidia lugha zaidi ya 25, ni rahisi isivyo kawaida kuzijaribu na darasa kabla ya kuamua kuziweka kwenye LMS.
+**AI Tutor Pro** ([aitutorpro.ca](https://www.aitutorpro.ca/)) na **AI Teaching Assistant Pro** ([aiteachingassistantpro.ca](https://www.aiteachingassistantpro.ca/)) ni programu mbili za bure za wavuti kutoka Contact North | Contact Nord, mtandao usio wa faida wa elimu ya mbali wa Ontario. Zinashiriki ubuni usio na usajili, sera ya faragha na injini ya ChatGPT, lakini zinawakabili watumiaji tofauti: AI Tutor Pro ni nafasi ya [[intelligent-tutoring|ufundishaji]] ambapo wanafunzi hujadili mada, hukagua wanachojua na hujenga mwongozo wa masomo, wakati AI Teaching Assistant Pro ni nafasi ya uzalishaji ambapo walimu huzalisha maswali ya chaguo-nyingi na insha, huandika mitaala na maelezo ya kufundisha, na hukusanya video fupi za kujifunza. Kwa sababu zote mbili hufanya kazi kwenye kivinjari bila akaunti na zinasaidia lugha zaidi ya 25, ni rahisi isivyo kawaida kuzijaribu na darasa kabla ya kuamua kuziweka kwenye LMS.
 
 ## Unaweza kufanya nini nayo
 

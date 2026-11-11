@@ -1,7 +1,7 @@
 ---
 title: "AI Tutor Pro and AI Teaching Assistant Pro"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-10T23:40:54-05:00"
 type: resource
 summary: "Contact North-এর দুটি বিনামূল্যের, সাইন-আপহীন AI ওয়েব অ্যাপ: শিক্ষার্থীর পড়াশোনা ও অনুশীলনের জন্য AI Tutor Pro, এবং প্রশ্ন, সিলেবাস, লার্নিং শর্টস ও স্লাইড তৈরির জন্য প্রশিক্ষকদের AI Teaching Assistant Pro।"
 url: https://www.aitutorpro.ca/
@@ -16,7 +16,7 @@ assessment: [automated-question-generation]
 audience: [learners, instructors, instructional designers, faculty developers]
 level: [higher ed, adult learning]
 translation_of: resources/ai-tutor-pro-teaching-assistant-pro
-source_updated: "2026-11-10T21:15:00-05:00"
+source_updated: "2026-11-10T23:40:54-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
 
-**AI Tutor Pro** ও **AI Teaching Assistant Pro** হলো Ontario-র অলাভজনক দূরশিক্ষা নেটওয়ার্ক Contact North | Contact Nord-এর দুটি বিনামূল্যের ওয়েব অ্যাপ। তারা একটি নিবন্ধনহীন নকশা, একটি গোপনীয়তা-নীতি ও একটি ChatGPT ব্যাকএন্ড ভাগ করে, কিন্তু ভিন্ন ব্যবহারকারীর মুখোমুখি হয়: AI Tutor Pro একটি [[intelligent-tutoring|টিউটরিং]] স্থান যেখানে শিক্ষার্থীরা একটি বিষয় নিয়ে আলোচনা করে, নিজেরা কী জানে তা যাচাই করে এবং একটি স্টাডি গাইড গড়ে, আর AI Teaching Assistant Pro একটি উৎপাদন-স্থান যেখানে প্রশিক্ষকেরা বহুনির্বাচনী ও প্রবন্ধ-প্রশ্ন তৈরি করেন, সিলেবাস ও শিক্ষণ-টীকা খসড়া করেন, এবং ছোট শিখন-ভিডিও জোড়া দেন। যেহেতু দুটিই অ্যাকাউন্ট ছাড়া ব্রাউজারে চলে এবং 25-এর বেশি ভাষা সমর্থন করে, LMS-এ এমবেড করবেন কি না ঠিক করার আগে একটি ক্লাসের সঙ্গে চেষ্টা করা অস্বাভাবিকভাবে সহজ।
+**AI Tutor Pro** ([aitutorpro.ca](https://www.aitutorpro.ca/)) ও **AI Teaching Assistant Pro** ([aiteachingassistantpro.ca](https://www.aiteachingassistantpro.ca/)) হলো Ontario-র অলাভজনক দূরশিক্ষা নেটওয়ার্ক Contact North | Contact Nord-এর দুটি বিনামূল্যের ওয়েব অ্যাপ। তারা একটি নিবন্ধনহীন নকশা, একটি গোপনীয়তা-নীতি ও একটি ChatGPT ব্যাকএন্ড ভাগ করে, কিন্তু ভিন্ন ব্যবহারকারীর মুখোমুখি হয়: AI Tutor Pro একটি [[intelligent-tutoring|টিউটরিং]] স্থান যেখানে শিক্ষার্থীরা একটি বিষয় নিয়ে আলোচনা করে, নিজেরা কী জানে তা যাচাই করে এবং একটি স্টাডি গাইড গড়ে, আর AI Teaching Assistant Pro একটি উৎপাদন-স্থান যেখানে প্রশিক্ষকেরা বহুনির্বাচনী ও প্রবন্ধ-প্রশ্ন তৈরি করেন, সিলেবাস ও শিক্ষণ-টীকা খসড়া করেন, এবং ছোট শিখন-ভিডিও জোড়া দেন। যেহেতু দুটিই অ্যাকাউন্ট ছাড়া ব্রাউজারে চলে এবং 25-এর বেশি ভাষা সমর্থন করে, LMS-এ এমবেড করবেন কি না ঠিক করার আগে একটি ক্লাসের সঙ্গে চেষ্টা করা অস্বাভাবিকভাবে সহজ।
 
 ## এটি দিয়ে যা করতে পারেন
 

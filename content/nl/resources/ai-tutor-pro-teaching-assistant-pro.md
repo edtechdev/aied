@@ -1,7 +1,7 @@
 ---
 title: "AI Tutor Pro en AI Teaching Assistant Pro"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-10T23:40:54-05:00"
 type: resource
 summary: "De twee gratis AI-webapps van Contact North zonder aanmelding: AI Tutor Pro voor studie en oefening door studenten, en AI Teaching Assistant Pro voor docenten die vragen, syllabi, learning shorts en dia's maken."
 url: https://www.aitutorpro.ca/
@@ -16,7 +16,7 @@ assessment: [automated-question-generation]
 audience: [learners, instructors, instructional designers, faculty developers]
 level: [higher ed, adult learning]
 translation_of: resources/ai-tutor-pro-teaching-assistant-pro
-source_updated: "2026-11-10T21:15:00-05:00"
+source_updated: "2026-11-10T23:40:54-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
 
-**AI Tutor Pro** en **AI Teaching Assistant Pro** zijn twee gratis webapps van Contact North | Contact Nord, een non-profitnetwerk voor afstandsonderwijs in Ontario. Zij delen een ontwerp zonder registratie, een privacybeleid en een ChatGPT-backend, maar richten zich op verschillende gebruikers: AI Tutor Pro is een ruimte voor [[intelligent-tutoring|tutoring]] waar lerenden een onderwerp bespreken, controleren wat zij weten en een studiegids opbouwen, terwijl AI Teaching Assistant Pro een productieruimte is waar docenten meerkeuze- en essayvragen genereren, syllabi en docentennotities opstellen en korte leervideo's samenstellen. Omdat beide in de browser zonder account draaien en meer dan 25 talen ondersteunen, zijn zij ongewoon gemakkelijk uit te proberen met een klas voordat u beslist of u ze in een LMS opneemt.
+**AI Tutor Pro** ([aitutorpro.ca](https://www.aitutorpro.ca/)) en **AI Teaching Assistant Pro** ([aiteachingassistantpro.ca](https://www.aiteachingassistantpro.ca/)) zijn twee gratis webapps van Contact North | Contact Nord, een non-profitnetwerk voor afstandsonderwijs in Ontario. Zij delen een ontwerp zonder registratie, een privacybeleid en een ChatGPT-backend, maar richten zich op verschillende gebruikers: AI Tutor Pro is een ruimte voor [[intelligent-tutoring|tutoring]] waar lerenden een onderwerp bespreken, controleren wat zij weten en een studiegids opbouwen, terwijl AI Teaching Assistant Pro een productieruimte is waar docenten meerkeuze- en essayvragen genereren, syllabi en docentennotities opstellen en korte leervideo's samenstellen. Omdat beide in de browser zonder account draaien en meer dan 25 talen ondersteunen, zijn zij ongewoon gemakkelijk uit te proberen met een klas voordat u beslist of u ze in een LMS opneemt.
 
 ## Wat u ermee kunt doen
 
