@@ -35,7 +35,7 @@ K–12 teachers who have used [[generative-ai|generative AI]] to build a small t
 
 ## Notes and caveats
 
-Member and Builder are free (Builder: 50 apps, 50 MB); Pro is $10 per month or $60 per year for 500 apps. Access is freemium.
+Member and Builder are free (Builder: 50 apps, 50 MB); Pro is \$10 per month or \$60 per year for 500 apps. Access is freemium.
 
 Privacy is the stronger claim, but it shifts responsibility to teachers. Teacher Hive creates no student accounts, asks students for no personal information, and runs no analytics or advertising scripts inside published apps. Because apps are public by link, the terms make teachers responsible for ensuring their apps collect no names, emails, student IDs or location. Accessibility coverage (WCAG 2.2 AA) applies to Teacher Hive's own pages, not teacher-made apps, which are untested. No open-source license is stated, and uptime and data retention are not guaranteed.
 
