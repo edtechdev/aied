@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-05T22:30:00-05:00"
+updated: "2026-11-11T11:35:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -130,6 +130,8 @@ External support can also step in front of the judgment entirely. [[iqbal-human-
 - **A brief reflection prompt sharpens monitoring during AI-supported decisions.** [[ren-metacognitive-awareness-genai-reliance-2026|Ren (2026)]] added three reflection prompts before finalizing answers in a three-condition experiment with 342 undergraduates: acceptance of incorrect ChatGPT advice fell from 62.4% to 39.7% (*OR* = 0.40) and awareness calibration rose (0.59 vs. 0.41), while recommendation accuracy and alignment with correct advice stayed high. Reflection made reliance more discriminative rather than uniformly defensive, which supports treating reliance as a monitoring problem rather than a question of how much AI is used.
 
 - **Nest prompting inside a metacognitive cycle.** The IDEA framework sequences GenAI use as Intent, Deconstruction, Expression, and Adaptation, making prompting one step in planning and monitoring rather than a stand-alone skill; students taught it produced higher-quality prompts than peers taught Role–Task–Context–Format prompting in all five task categories ([[idea-framework-metacognitive-genai-2026|Wang et al., 2026]]).
+
+Teacher accounts of metacognition need the same scrutiny as student self-reports. In 25 Chinese university teachers, a shared boundary around what AI cannot do — emotion, embodiment, metacognition, tacit knowledge, judgment — appeared in every case, and verification carried clear evidence in 24 of 25. But both codes came after a direct question about what AI cannot replace, so the agreement describes how teachers answered that question rather than a concern they raised unprompted. On the intellectual-degeneration proposition the protocol offered, nine endorsed it and eleven made it conditional. The finding is a measurement caution: a belief that looks universal under prompting may be an artifact of the prompt ([[qiang-teachers-metacognitive-defense-offloading-2026|Qiang & Wang, 2026]]).
 
 ## Implications for Tool Design
 

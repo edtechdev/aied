@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-08T08:41:46-05:00"
+updated: "2026-11-11T11:50:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -34,6 +34,8 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 - **Prompting as cognitive trace:** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk et al.]] show that prompt patterns reveal [[cognitive-offloading|cognitive offloading]] — high-quality work uses context-rich, polite, and instructional prompts; low-quality work shows reactive disagreement without domain grounding
 
 - **Depth improves the product, not the retention.** In 22 postgraduates, the share of explanation-seeking ("why/how/explain") prompts predicted independently marked task quality (β = 6.27) beyond baseline knowledge and prompt volume, yet showed a null association with immediate recall ([[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]]).
+
+- **Competence is the stratification variable, and it is trainable.** In a survey of 380 Chinese undergraduates, prompt-engineering competence correlated strongly with perceived academic gains (r = .793) but only weakly with perceived educational inequity (r = −.131), and family digital capital worked largely through competence rather than alongside it. A within-subject experiment then showed a five-component scaffold — Role, Goal, Input, Process, Output — lifting rated output quality from 3.318 to 4.603 across four model families. The equity reading matters more than the effect size: if the benefit runs through a skill, then who receives prompt instruction is a distribution decision ([[li-who-benefits-llms-prompt-engineering-equity-2026|Li et al., 2026]]).
 
 - **Prompt cognition tracks the discipline, not the student.** [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] classified 60,087 prompts from 116 courses and found Bloom-level profiles differed by discipline — STEM Apply-prevalent (20.8%), social science Create-prevalent (33.8%) — with course-level variance exceeding student-level variance.
 - **Prompting as literacy:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] and [[aaai2026-prompting-literacy-k12|K-12 prompting literacy]] research frame prompting as a core [[ai-literacy]] component
@@ -111,6 +113,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 
 ## Connected Articles
 
+- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — prompt competence predicts gains and mediates family digital capital; a five-part scaffold is trainable
 - [[lei-fan-genai-prompting-strategies-2026]] — 234 students on what they find hard: intent alignment, not prompt syntax
 - [[wang-teacher-student-centered-agents-physics-2026]] — Agent role and constraint prompts as the design variable in physics learning (Wang et al. 2026)
 - [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning for GPT-based L2 listening item generation (Aryadoust & Wong 2026)

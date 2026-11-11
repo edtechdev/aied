@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-11T08:01:26-05:00"
+updated: "2026-11-11T11:05:00-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -119,6 +119,8 @@ Which student-side capacities matter is empirically separable: among 1,507 secon
 
 A source can differ in how it calibrates, not how well it scores: in a randomized experiment, chain-of-thought AI feedback outscored an experienced teacher on rubric quality yet produced no greater revision gains, while the teacher's feedback stayed calibrated across drafts and GenAI feedback tracked the strength of the initial essay ([[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]]).
 
+How much a student believes about the source changes what they do with identical words. In a three-condition experiment, 148 adults received feedback written by one model about their own p5.js code, labeled either AI-generated or reviewed by a teaching assistant, with delivery held at 60 seconds. Those who believed a human had read their work stayed on task longer (948 s against 741 s, d = 0.61) and kept the tutorial window in focus longer (850 s against 662 s, d = 0.56), while helpfulness ratings did not move and code quality did not improve. Nearly half of the human-attributed group disbelieved the label, and those participants wrote shorter, less complex programs than the openly AI-labeled group. Source credibility is part of uptake, and it is fragile: a misattributed source can depress engagement below plain disclosure ([[morris-same-feedback-different-source-2026|Morris & Maes, 2026]]).
+
 A two-layer model shows how the pairing can be organized around a machine without delegating judgment to it. In [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma's worked example]], an [[agentic-ai|agent]] produces a draft rubric-based evidence report on each transcript with every rating tied to quoted excerpts, and the instructor then reviews the report, leads a debrief and decides what the evidence means for that student — a division the authors summarize as the AI organizing evidence while the instructor interprets it. Their claim about uptake is appraisal-based: feedback and iteration outside the social hierarchies students navigate with peers and instructors are easier to attempt, and rehearsal at the student's own pace is what they argue turns occasional confidence into a settled habit of engaging with feedback.
 
 ### Why feedback matters for AI in education
@@ -168,6 +170,7 @@ Two new studies narrow what AI feedback can claim. Across 391 German secondary s
 
 ## Connected Articles
 
+- [[morris-same-feedback-different-source-2026]] — identical feedback, different attributed source: effort rose with believed human authorship, quality did not
 - [[meyer-teacher-ai-feedback-writing-2026]] — 391 German students: no significant difference on any outcome; immediacy, not authorship, drew the better ratings (Meyer et al., 2026)
 - [[liu-ai-feedback-motivational-pathways-2026]] — 247 undergraduates: perceived feedback quality predicted competence, autonomy and relatedness (Liu et al., 2026)
 - [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — Human-vetted AI feedback raised revision quality (d = 0.50) but not post-test scores (Lu et al. 2026)

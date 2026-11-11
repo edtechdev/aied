@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-10T19:35:00-05:00"
+updated: "2026-11-11T11:50:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -101,6 +101,8 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - **Design for the viewing/attention that precedes contribution.** Collaborative learning in [[online-teaching-and-learning|online discussion]] forums depends not only on posting but on the reading that precedes it. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova (2026)]] show LLM-generated discussion summaries and example posts can act as navigational [[scaffolding|scaffolds]] that broaden students' exposure to peers' contributions and the network conditions for bridging (weak-tie) social capital — support that should complement, not replace, socio-pedagogical strategies for sustaining engagement under academic workload.
 
 - **The social side shows disruption without a countervailing gain.** Across five collaboration processes a 30-expert consensus reached vulnerability only, with enhancement ratings below threshold: Social Connection (3.80 against enhancement 1.90), Socio-Emotional Development (3.60 against 2.00), Social Learning, Collaborative Learning and Sense of Belonging (all 3.30) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). The report treats the asymmetry as a design target, since collaborative problem solving is anchored to a shared product while collaborative learning has no visible referent and can erode undetected.
+
+Peer status is earned socially. Mathematical capability barely entered the judgments. Seven expert researchers each spent about twenty minutes solving quadratic equations with an adaptive LLM agent carrying a Big Five-informed persona, then explained their judgments in interviews. They evaluated it almost entirely on behavior: it created a non-judgmental space, reasoned tentatively rather than declaring, showed appropriate imperfection, and left the learner's ideas intact. For [[agentic-ai|agent]] design, that inverts the usual priority — a capable solver that presents as an authority undermines the collaborative frame no matter how good its answers are ([[lin-ai-peer-collaborative-math-learning-2026|Lin et al., 2026]]).
 
 ## Common Misconceptions
 
