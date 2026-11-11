@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -188,6 +188,8 @@ Students reported more procrastination (β = 0.525) alongside perceived performa
 - **Persistence coded from dialogue with a pedagogical agent runs negative against performance, in LLM and human coding alike.** In a conversation-based assessment of 107 English-learner middle school students, persistence detected from chat-log turns by eight ChatGPT4o configurations correlated negatively with task performance (r = -0.19, p < .001), and one human coder's persistence counts matched that direction at r = -0.32 ([[ober-persistence-pedagogical-agent-dialogues-2026|Ober et al. (2026)]]). Perceived challenge (r = -0.25) carried the only stronger negative association, and the other constructs ran negative too (self-efficacy r = -0.15, prior KSAs r = -0.14, interest r = -0.08). The authors read persistence expressions as possible unproductive struggle and argue for distinguishing adaptive from maladaptive persistence — strategic re-attempting versus repetitive trial-and-error — before any automated system treats persistence talk as engagement.
 - **GPT-4o can build a theory-grounded SRL codebook from its knowledge base alone.** Given only references to Zimmerman (2000) and Winne and Hadwin (1998), GPT-4o proposed constructs covering all three Zimmerman phases and three of the four Winne-Hadwin stages, with only the task-definition phase missing, and human refinement settled the codebook at 11 constructs ([[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]]). Adding the 955 think-aloud utterances from 15 students to the prompt closed the gap, covering all phases of both models and introducing data-grounded codes such as Error Identification. Human refinement remained essential: two coders merged overlapping GPT proposals (Planning versus Goal Setting, Monitoring versus Evaluation, Outcome versus Process Evaluation), and no hallucinations appeared.
 
+Prompting for self-regulation is not the same as teaching it. In a four-session randomized trial with 371 students in Grades 7–9, neither utility-value prompts nor cognitive-strategy prompts improved strategy use, interest, effort or domain knowledge relative to standard ChatGPT ([[futterer-srl-genai-support-rct-2026|Fütterer et al., 2026]]). The null matters because the intervention added reflection prompts to an unchanged learning task: whatever regulated the work sat in the task and the classroom, not in the prompt.
+
 ## Common Misconceptions
 
 - **"Self-regulation is a learner trait."** Regulated learning decomposes into **self-reflection, causal attribution and adaptation**, and proficient learners **employ cognitive strategies to improve success**. These are trainable processes that a design can support or undermine.
@@ -221,6 +223,7 @@ Students reported more procrastination (β = 0.525) alongside perceived performa
 - [[reflection]]
 
 ## Connected Articles
+- [[futterer-srl-genai-support-rct-2026]] — 371 German students: reflection and strategy prompts added nothing over standard ChatGPT (Fütterer et al., 2026)
 - [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — Meta-analysis of AI-assisted self-regulated learning: g = 0.76 across 34 studies, with tool type and pedagogical role moderating the effect (Zhang et al. 2026)
 - [[li-genai-dependency-effort-regulation-2026]] — Generative AI dependency and perceived learning outcomes: the effort-regulation pathway (Li, Zhang & Yang 2026)
 - [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Per-category accuracy of LLM-segmented SRL in an embodied classroom (Fonteles et al. 2026)

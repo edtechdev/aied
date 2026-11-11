@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic, learnharness, ai-tutor-pro-teaching-assistant-pro]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-10T22:35:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -164,6 +164,8 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - **A course-specific Socratic assistant produced small perception gains.** Across 4,587 end-of-course surveys, students who used Spark rated support and clarity slightly higher than non-users (Cliff's delta 0.041 and 0.079), with no difference in comment sentiment, which the authors read as consistent with an MKO role rather than evidence of learning ([[west-spark-support-clarity-asynchronous-2026]]).
 - **Design rationale as a trust claim.** [[owston-ai-tutor-pro-pedagogy-privacy-trust-2026|Owston (2026)]] separates retrieval practice, guided dialogue and voice conversation into three modes, and argues that anonymity, OpenStax-restricted answers and Wolfram Alpha verification are what make a free study tool recommendable; the article reports adoption examples but no learning outcomes.
 
+Two new studies test who controls the timing of help, and neither finds a simple win. In a controlled experiment with 90 students, proactive tutor initiation produced no average gain over reactive support (.14 vs .13 CT proficiency growth on pseudocoding, p = .81) and interacted negatively with initial proficiency (β = −0.48) ([[rai-calibrating-tutor-initiation-2026|Rai et al., 2026]]). A reinforcement-learning policy that decided when students could open an LLM scored 5.11 on an unassisted post-test against 4.03 with unrestricted access (t(71) = 2.51, p = .014, d = 0.59) and did not differ significantly from no access at all ([[rotter-access-timing-scaffolding-2026|Rotter et al., 2026]]).
+
 ## Common Misconceptions
 
 **"A stronger model makes a better tutor."** Effectiveness hinges on pedagogical design — [[scaffolding]], feedback quality and the balance of autonomy and guidance — rather than on the underlying model. The clearest demonstration is the Apprentice Tutor College Algebra ITS: supplying GPT-4 with the tutor's *interface structure* and Bayesian [[knowledge-tracing]] skill estimates produced gains that the bare model did not, because the knowledge of how to teach lived in the system around the model.
@@ -198,6 +200,8 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 
 ## Connected Articles
 
+- [[rai-calibrating-tutor-initiation-2026]] — 90 students: proactive initiation beat reactive support by nothing (.14 vs .13) and hurt high-prior-knowledge students (Rai et al., 2026)
+- [[rotter-access-timing-scaffolding-2026]] — 105 students: timed LLM access scored 5.11 vs 4.03 unrestricted on an unassisted post-test (Rotter et al., 2026)
 - [[west-spark-support-clarity-asynchronous-2026]] — Spark users reported slightly higher support and clarity across 4,587 surveys, a small effect (West et al. 2026)
 - [[owston-ai-tutor-pro-pedagogy-privacy-trust-2026]] — AI Tutor Pro's three study modes, anonymity model and source-restricted answers (Owston 2026)
 - [[leite-its-k12-meta-analysis-2025]] — U.S. K-12 meta-analysis: 18 experiments, g = 0.271, and what moderates it (Leite et al. 2025)

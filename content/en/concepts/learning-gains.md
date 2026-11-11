@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -112,6 +112,8 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 
 - **Significant pre/post gains from mistake-based AI [[pedagogy]]:** [[pedagogy-ai-mistakes|Hosseini (2026)]]'s database design course (n=13) showed large, significant learning gains on identical pre/post items (mean 4.25→6.83/7, Cohen's *d*=1.49, *p*<.001), with gains uncorrelated with prior AI or database confidence — the AI-integrated critique-refinement design benefited students regardless of initial perceptions.
 
+Two experiments separate performance during use from learning after it. Beginners given ChatGPT passed far more generated tests than beginners without it (410.7 vs 80.7) while their understanding did not improve, and intermediate students showed no gain at all ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). Programmers assisted by Copilot showed a 14.09-point advantage that did not survive an unassisted retest ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). Both designs measured the thing most AI trials omit: what remains when the tool is gone.
+
 ## Common Misconceptions
 
 **"Scores went up, so the intervention produced learning."** This is the definitional error the page exists to prevent, and the field data show both directions at once: AI use improves scores on AI-assisted homework while *lowering* scores on proctored, closed-book, unassisted measures ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). The choice of measure determines whether the inflation is visible, so a gain on an AI-permitted task is a claim about task performance, not about [[genai-performance-vs-learning|learning]].
@@ -159,6 +161,8 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 - [[student-support-and-success]] — administrative outcomes (task completion, credits, persistence, graduation) as distinct from learning gains
 
 ## Connected Articles
+- [[chen-genai-programming-understanding-2026]] — 24 undergraduates: assisted test passes rose while unassisted understanding did not (Chen et al., 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — 22 programmers: assisted gains did not persist to an unassisted retest (Gardella et al., 2026)
 - [[epistemological-audit-genai-meta-analyses-2026]] — A Critical Epistemological Audit of Early Evidence Syntheses in Generative AI Educational Research (Fütterer et al. 2026)
 - [[contractor-learning-impact-generative-ai-2026]] — Off-the-shelf chatbot access raised unaided test scores that persisted a week (Contractor & Reyes 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)

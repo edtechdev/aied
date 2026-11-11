@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-09T10:25:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -232,6 +232,8 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 
 Verification is the teachable counterweight, and [[automation-bias]] names what it is teaching against. Post-editing, recomputation and source checks are graded skills precisely because fluent output invites acceptance over inspection.
 
+Credibility judgments respond to workflow, not only to instruction. Among 42 undergraduates, students required to answer before consulting AI rated it less credible (5.65) than those with unrestricted access (6.60), while a verification-required condition sat between them at 6.22 and held trust without inflating it ([[islam-credibility-weaker-llms-2026|Islam et al., 2026]]). Judging a model's trustworthiness is partly a design decision about when the student meets it.
+
 ## Common Misconceptions
 
 - **"Self-reported AI literacy tracks actual AI literacy."** It **diverges sharply from measured performance** — teachers **overestimate their skills by about 40%**, and [[ai-literacy-assessment-misalignment|research on literacy assessment]] shows the same **40% gap** between self-report and performance-based measurement. A survey of AI literacy measures confidence, not competence.
@@ -267,6 +269,7 @@ Verification is the teachable counterweight, and [[automation-bias]] names what 
 - [[civic-and-political-education]]
 
 ## Connected Articles
+- [[islam-credibility-weaker-llms-2026]] — 42 undergraduates: answer-first lowered AI credibility to 5.65 against 6.60 unrestricted, with verification at 6.22 (Islam et al., 2026)
 - [[yang-collaborative-ai-literacy-measures-review-2026]] — 17 AI literacy measures: collaboration is rarely assessed as a construct, and the proposed coordination/communication/metacognition factors remain unvalidated (Yang et al. 2026)
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Shaping early childhood in the age of AI: competencies, pedagogy and ecological support (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform

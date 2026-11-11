@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-10T19:46:00-05:00"
+updated: "2026-11-11T12:40:00-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -138,6 +138,8 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 
 - **Human-vetted AI feedback improved revisions but not post-test learning.** In a randomized trial with 354 undergraduates and 1,366 essays, AI-mediated TA feedback raised revision quality (Cohen's d = 0.50) while post-test scores stayed flat, and the gain grew as TAs adopted more suggestions ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]]).
 
+Two new studies narrow what AI feedback can claim. Across 391 German secondary students, LLM feedback and teacher feedback produced no significant difference in revision quality or later writing, while students rated the AI feedback clearer and more motivating ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). In an eight-week study of 247 undergraduates, perceived feedback quality predicted competence (β = 0.52), autonomy (β = 0.44) and relatedness (β = 0.28), which locates part of the effect in how feedback is experienced rather than in its accuracy alone ([[liu-ai-feedback-motivational-pathways-2026|Liu et al., 2026]]).
+
 ## Common Misconceptions
 
 - **"Students cannot tell AI feedback from human feedback."** They can, and the label changes the judgment: **once the label was revealed, ratings of the AI variant fell and of the human variant rose — significantly for Genuineness (p < .01)**. Provider credibility shaped the evaluation of identical-style feedback.
@@ -166,6 +168,8 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 
 ## Connected Articles
 
+- [[meyer-teacher-ai-feedback-writing-2026]] — 391 German students: AI and teacher feedback differed neither in revisions nor later writing, though AI feedback was rated clearer (Meyer et al., 2026)
+- [[liu-ai-feedback-motivational-pathways-2026]] — 247 undergraduates: perceived feedback quality predicted competence, autonomy and relatedness (Liu et al., 2026)
 - [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — Human-vetted AI feedback raised revision quality (d = 0.50) but not post-test scores (Lu et al. 2026)
 - [[guberman-control-or-support-grading-2026]] — Students welcomed AI feedback because feedback was scarce, not because it was better (Guberman 2026)
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Agent feedback that repeated itself across revisions (Humburg et al. 2025)
