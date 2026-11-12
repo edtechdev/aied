@@ -1,7 +1,7 @@
 ---
 title: Open Source
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T11:30:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -11,7 +11,7 @@ ethics: [privacy]
 audience: [software developers, instructors, administrators, researchers]
 discipline: [stem education, writing education]
 confidence: medium
-connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy]
+connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy, mindrouter, amplify-genai]
 methods: [benchmark]
 reviewed_by: [editor]
 ---

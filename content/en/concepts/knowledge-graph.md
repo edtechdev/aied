@@ -1,7 +1,8 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-11-05T23:00:00-05:00"
+updated: "2026-11-12T10:40:00-05:00"
+connected_resources: [context-aideatext]
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]

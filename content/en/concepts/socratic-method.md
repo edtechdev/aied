@@ -1,8 +1,8 @@
 ---
-connected_resources: [matt-pocock-skills]
+connected_resources: [matt-pocock-skills, context-aideatext]
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T10:40:00-05:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]

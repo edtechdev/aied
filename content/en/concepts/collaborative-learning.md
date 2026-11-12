@@ -1,7 +1,8 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-11T11:50:00-05:00"
+updated: "2026-11-12T09:10:00-05:00"
+connected_resources: [nowcomment]
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]

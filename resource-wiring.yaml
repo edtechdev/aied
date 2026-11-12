@@ -301,3 +301,34 @@
   hosts:
   - teacher-ai-competency
   reason: 'The platform is where a teacher who has built something with an AI assistant goes next, and the competency page is where a reader thinking about what teachers should be able to do with AI would look; it now lists Teacher Hive in connected_resources. Not listed on ai-literacy: the site hosts and shares apps rather than teaching about AI, and not on professional-training: the platform offers no training or facilitation of its own.'
+- resource: nowcomment
+  reviewed: '2026-11-12'
+  hosts:
+  - collaborative-learning
+  reason: 'NowComment is an annotation-and-discussion surface whose whole design is readers responding to the same passage, which is what the collaborative-learning page is about; the page now lists it in connected_resources. Not listed on peer-assessment: the tool can host peer review, but the site reports no assessment-validity evidence and the page is about judging work, not about platforms. Not listed on ai-literacy: the AI partners are a way to use an assistant inside a discussion, not a curriculum for learning about AI.'
+- resource: my-essay-feedback
+  reviewed: '2026-11-12'
+  hosts:
+  - ai-feedback-quality
+  reason: 'The platform is a concrete design for the question the ai-feedback-quality page asks — what makes a generated comment usable — since instructors choose the feedback types and students must judge each suggestion in a written reflection; the page now lists it in connected_resources. Not listed on formative-assessment: the platform deliberately does not grade, and the page is about the assessment cycle rather than about feedback tools. Not listed on feedback-literacy: the reflection step teaches that literacy but the site offers no curriculum for it, and the page already curates material aimed at teaching it.'
+- resource: moodle-qtype-aitext
+  reviewed: '2026-11-12'
+  hosts:
+  - automated-essay-scoring
+  reason: 'The plugin is a working implementation of instructor-written rubrics applied by an LLM at the question level, which is precisely the setup the automated-essay-scoring page discusses, and the page now lists it in connected_resources. Not listed on assessment-validity: the plugin ships no agreement study, so the page would be pointing readers at a tool rather than at evidence. Not listed on open-source: that page covers the openness argument, not individual Moodle plugins.'
+- resource: context-aideatext
+  reviewed: '2026-11-12'
+  hosts:
+  - socratic-method
+  - knowledge-graph
+  reason: 'The tool is a working Socratic tutor that refuses to answer for the student, which is what the socratic-method page describes, and its live idea graph is a concrete instance of the semantic network the knowledge-graph page explains; both pages now list it in connected_resources. Not listed on formative-assessment: the tutor deliberately does not grade, so it offers no assessment cycle to point at. Not listed on scaffolding: the questioning is scaffolded, but the page is about fading support structures, and a conversation that never yields an answer is not the same intervention.'
+- resource: mindrouter
+  reviewed: '2026-11-12'
+  hosts:
+  - open-source
+  reason: 'Running a campus inference gateway on institutional GPUs is the concreteness the open-source page argues for — the licence is Apache-2.0 and the sovereignty claim depends on it — so the page now lists MindRouter in connected_resources. Not listed on governance: that page covers policy and accountability for adopted AI, and this tool is infrastructure rather than a governance instrument, though a hosting-and-devops concept page would be its proper home if one is created.'
+- resource: amplify-genai
+  reviewed: '2026-11-12'
+  hosts:
+  - open-source
+  reason: 'Amplify is an MIT-licensed platform an institution deploys into its own cloud account, which is the openness argument the open-source page makes in practice; the page now lists it in connected_resources. Not listed on rag: the platform uses retrieval but is not a method the page documents. Not listed on governance: the cost-accounting and per-user-limit features are operational controls, not the policy and accountability questions that page covers. Both infrastructure resources would belong on a future enterprise-AI-hosting concept page, which does not exist yet.'
