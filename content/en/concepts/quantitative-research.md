@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-11-10T18:55:00-05:00"
+updated: "2026-11-12T14:45:00-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -26,6 +26,10 @@ reviewed_by: [editor]
 Quantitative research spans descriptive designs (measuring prevalence and patterns), correlational/observational designs (testing relationships among variables), and experimental and quasi-experimental designs (estimating causal effects). What unifies them is the systematic reduction of observations to numbers, analyzed with statistics, and the priority placed on **reliability, validity, and generalizability** â€” the core concerns of [[educational-measurement]].
 
 ## Major quantitative approaches
+
+### Longitudinal and panel designs
+
+Repeated measurement of the same learners turns a correlation into a trajectory: panel models separate a stable trait from occasion-specific change, and growth models estimate the shape and rate of change across waves. The design families, the threats that bite in AI studies (attrition, tool drift, assisted performance) and the corpus's stronger examples are treated on [[longitudinal-research|longitudinal research]].
 
 ### Survey and correlational research
 Cross-sectional surveys measure self-reported attitudes, perceptions, motivation, [[self-efficacy]], and technology acceptance, often modeled with regression or structural equation modeling (SEM/PLS-SEM) to test hypothesized relationships and mediators. These dominate the knowledge base's corpus, particularly for acceptance, motivation, and psychological-mechanism questions. [[acceptance-ai-english-tools-2026|Acceptance of AI-assisted English tools]] builds on the [[technology-acceptance-model|TAM]] with SEM; [[tian-genai-learning-adoption-pathways-2026|GenAI adoption pathways]] uses PLS-SEM, fsQCA, and importance-performance mapping; [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy]] uses factor-validated surveys grounded in [[self-determination-theory]].
@@ -83,6 +87,7 @@ Quantitative and [[qualitative-research|qualitative]] methods are complements â€
 
 ## Connected Concepts
 
+- [[longitudinal-research]]
 - [[research-methods-aied]]
 - [[qualitative-research]]
 - [[mixed-methods-research]]

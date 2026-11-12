@@ -1,7 +1,7 @@
 ---
 title: Cognitive Psychology
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-11-07T12:10:00-05:00"
+updated: "2026-11-12T14:45:00-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
@@ -67,6 +67,8 @@ A 2026 experiment gives the memory side of that boundary a concrete failure mode
 3. **Respect working-memory limits.** Apply Cognitive Load Theory to AI UX: reduce extraneous load (friction, overloaded interfaces) while preserving germane processing ([[desirable-difficulties|productive struggle]], retrieval practice) rather than minimizing all cognitive demand.
 4. **Calibrate metacognition.** Because [[metacognition]] governs when learners choose to offload, teaching calibration (knowing what one can actually do unaided) is a cognitivist answer to over-reliance (see [[cognitive-offloading]]).
 
+Development sits outside this page's scope: the mechanisms described here are treated as stable, while [[developmental-psychology|developmental psychology]] asks how they change with age and what that means for age-banded AI use.
+
 ## Common Misconceptions
 
 - **"Mental representations are unobservable, so cognitive claims about learning are assumptions."** Reconstructing images from learners' **EEG** during science videos found **representation fidelity tracked test performance** (regression coefficient **0.8481, R² = 0.79**). The cognitivist premise of internal representation is measurable, and the measurement predicted the outcome.
@@ -87,6 +89,8 @@ A 2026 experiment gives the memory side of that boundary a concrete failure mode
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[item-response-theory]]
+- [[developmental-psychology]]
+- [[longitudinal-research]]
 - [[distributed-cognition]]
 - [[icap-framework]]
 - [[transfer-of-learning]]

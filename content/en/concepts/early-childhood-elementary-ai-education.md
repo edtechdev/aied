@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-11-12T13:52:00-05:00"
+updated: "2026-11-12T14:45:00-05:00"
 type: concept
 connected_resources: [ai-guidance-by-age]
 foundations: [ai-education, ai-literacy, computational-thinking]
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Young children interact with AI increasingly early — through AI-enabled toys, chatbots, [[adaptive-learning|adaptive learning]] platforms, and classroom robots — yet they differ developmentally from the K-12 and higher-education learners who dominate most AI-in-education [[research-methods-aied|research]]. This concept gathers the knowledge base's coverage of that younger band. It sits within the broader [[k-12|K-12]] umbrella but is distinct because the concerns are developmentally specific: [[game-based-learning|play]] as a primary learning mode, adult (parent/teacher) scaffolding, age-appropriate [[ai-literacy|AI literacy]], and heightened attention to [[well-being]] and [[pedagogical-safety|safety]].
+Young children interact with AI increasingly early — through AI-enabled toys, chatbots, [[adaptive-learning|adaptive learning]] platforms, and classroom robots — yet they differ developmentally from the K-12 and higher-education learners who dominate most AI-in-education [[research-methods-aied|research]]. This concept gathers the knowledge base's coverage of that younger band. It sits within the broader [[k-12|K-12]] umbrella but is distinct because the concerns are developmentally specific: [[game-based-learning|play]] as a primary learning mode, adult (parent/teacher) scaffolding, age-appropriate [[ai-literacy|AI literacy]], and heightened attention to [[well-being]] and [[pedagogical-safety|safety]]. The developmental account behind these claims — how capacities change with age, and why "age-appropriate" is a relation rather than a label — is on [[developmental-psychology|developmental psychology]].
 
 ### How the research clusters
 
@@ -77,6 +77,7 @@ A first neuroimaging window on this question arrives with a caution: 6–7-year-
 
 ## Connected Concepts
 
+- [[developmental-psychology]]
 - [[k-12]]
 - [[ai-literacy]]
 - [[computational-thinking]]

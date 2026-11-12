@@ -1,7 +1,7 @@
 ---
 title: Parents and Families
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-12T13:52:00-05:00"
+updated: "2026-11-12T14:45:00-05:00"
 type: concept
 connected_resources: [ai-guidance-by-age]
 foundations: [ai-literacy]
@@ -30,6 +30,8 @@ reviewed_by: [editor]
 A large share of children's time with AI happens outside the classroom, in a setting the research literature mostly treats as background. Work on tutoring and learning outcomes is usually school-based, while work on family guidance is usually advisory rather than tested, so families are simultaneously the target of a great deal of guidance about [[ethics|responsible AI]] use and the subject of very little evidence about whether that guidance works.
 
 This page treats the household as an actor in its own right. It covers AI-mediated parent–child tutoring, the companion and reading tools children meet at home, what schools do and do not tell families about AI use, parents' own [[ai-literacy]] and what is known about their views, and the access and cost conditions under which families use these tools. Where the evidence is thin, the page says so rather than filling the gap.
+
+What a child can do with a tool at a given age is a developmental question rather than a matter of preference; [[developmental-psychology|developmental psychology]] carries that account.
 
 ## Parents as co-educators at home
 
@@ -88,6 +90,7 @@ A 2026 [[meta-analysis-systematic-review|scoping review]] maps how far the field
 
 ## Connected Concepts
 
+- [[developmental-psychology]]
 - [[stakeholders]] — the umbrella page for audiences and actors in AI in education
 - [[early-childhood-elementary-ai-education]] — the developmental domain where home and family use is most studied
 - [[ai-use-disclosure]] — disclosure practices and the question of what reaches families

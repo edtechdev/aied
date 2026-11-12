@@ -38,6 +38,14 @@ concepts:
     - adaptive systems
     - adaptive testing
     - adaptivity
+  developmental-psychology:
+    title: Developmental Psychology
+    aliases:
+    - developmental psychology
+    - developmental science
+    - developmental appropriateness
+    - human development
+
   education-levels:
     title: Levels of Education
     aliases:
@@ -1200,6 +1208,16 @@ concepts:
     - instruction tuning
     - LoRA
     - training pedagogical LLMs
+  longitudinal-research:
+    title: Longitudinal Research
+    aliases:
+    - longitudinal
+    - longitudinal study
+    - longitudinal design
+    - panel study
+    - growth modeling
+    - growth curve
+
   machine-learning:
     title: Machine Learning
     aliases:
@@ -2339,6 +2357,7 @@ sections:
     - behaviorism
     - constructivist
     - cognitive-psychology
+    - developmental-psychology
     - sociocultural-learning
     - distributed-cognition
     - situated-learning
@@ -2517,6 +2536,7 @@ sections:
     - quantitative-research
     - mixed-methods-research
     - design-based-research
+    - longitudinal-research
     - usability-research
     - rct
     - meta-analysis-systematic-review

@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 235
+**Total concepts:** 237
 
 ## Foundations of AI in education
 
@@ -76,6 +76,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`community-of-inquiry`** — Community of Inquiry — phrases: cognitive presence; coi; community of inquiry; community of inquiry framework; social presence; teaching presence
 - **`constructivist`** — Constructivism — phrases: constructionism; constructivism; constructivist; constructivist learning; constructivist theory
 - **`desirable-difficulties`** — Desirable Difficulties — phrases: cognitive friction; desirable difficulties; desirable difficulty; productive friction; productive struggle
+- **`developmental-psychology`** — Developmental Psychology — phrases: developmental psychology; developmental science; developmental appropriateness; human development
 - **`distributed-cognition`** — Distributed Cognition — phrases: distributed cognition; distributed intelligence; extended cognition
 - **`embodied-learning`** — Embodied Learning — phrases: body-based learning; embodied; embodied cognition; embodied learning; embodiment; gesture-based learning
 - **`icap-framework`** — ICAP Framework — phrases: icap; ICAP framework; interactive-constructive-active-passive
@@ -256,6 +257,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`ai-assisted-educational-research`** — AI-Assisted Educational Research — phrases: ai-assisted research; AI in educational research; classroom research; practitioner inquiry; scholarship of teaching and learning; SoTL
 - **`design-based-research`** — Design-Based Research — phrases: dbr; design based research; design-based; design-based research
 - **`latent-profile-analysis`** — Latent Profile Analysis — phrases: latent class; latent class analysis; latent profile; latent profile analysis; lpa; mixture modeling; mixture modelling; person-centered analysis; person-centred analysis
+- **`longitudinal-research`** — Longitudinal Research — phrases: longitudinal; longitudinal study; longitudinal design; panel study; growth modeling; growth curve
 - **`meta-analysis-systematic-review`** — Meta-Analysis and Systematic Review — phrases: literature review; meta-analysis; meta-analytic; PRISMA; scoping review; systematic review; systematically review
 - **`mixed-methods-research`** — Mixed-Methods Research — phrases: mixed methods; mixed-methods
 - **`network-analysis`** — Network Analysis — phrases: ena; epistemic network; epistemic network analysis; network analysis; sna; social network; social network analysis; tna; transition network; transition network analysis

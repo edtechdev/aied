@@ -23,6 +23,7 @@ export const FIELD_UMBRELLAS: Record<string, string> = {
 export const METADATA_LINKS: Record<string, Record<string, string>> = {
   research_method: {
     'latent profile analysis': 'latent-profile-analysis',
+    'longitudinal study': 'longitudinal-research',
     'network analysis': 'network-analysis',
   },
   discipline: {

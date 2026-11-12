@@ -29,7 +29,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'How AI supports teaching and learning, through the pedagogies, learning theories, and learner-facing processes AI operates within.',
     groups: [
       { label: 'Core pedagogies', items: ['pedagogy', 'pedagogical-patterns', 'active-learning', 'collaborative-learning', 'project-based-learning', 'problem-based-learning', 'case-based-learning', 'productive-failure', 'inquiry-based-learning', 'experiential-learning', 'game-based-learning', 'learning-by-teaching', 'scaffolding', 'socratic-method', 'critical-pedagogy', 'pedagogical-partnerships', 'storytelling-in-education', 'metaphors-and-analogies', 'online-teaching-and-learning', 'video-education'] },
-      { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'reflection', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'tpack', 'refutation-text', 'activity-theory-aied', 'retrieval-spacing-interleaving'] },
+      { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'developmental-psychology', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'reflection', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'tpack', 'refutation-text', 'activity-theory-aied', 'retrieval-spacing-interleaving'] },
       { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'empathy', 'well-being', 'creativity', 'student-ai-interaction', 'problem-solving', 'mastery-learning', 'anxiety-and-stress', 'student-experience', 'student-support-and-success', 'social-norms-ai-use'] },
       { label: 'Lifelong and professional learning', items: ['career-development-and-readiness', 'lifelong-learning', 'professional-training'] },
     ],
@@ -69,7 +69,7 @@ export const conceptIndex: ConceptSection[] = [
   {
     heading: 'Research methods and evaluation',
     groups: [
-      { label: 'Research methods', items: ['research-methods-aied', 'ai-assisted-educational-research', 'qualitative-research', 'quantitative-research', 'mixed-methods-research', 'design-based-research', 'usability-research', 'rct', 'meta-analysis-systematic-review', 'latent-profile-analysis', 'network-analysis'] },
+      { label: 'Research methods', items: ['research-methods-aied', 'ai-assisted-educational-research', 'qualitative-research', 'quantitative-research', 'mixed-methods-research', 'design-based-research', 'longitudinal-research', 'usability-research', 'rct', 'meta-analysis-systematic-review', 'latent-profile-analysis', 'network-analysis'] },
       { label: 'Evaluation of AI systems', items: ['ai-ed-evaluation', 'benchmark'] },
     ],
   },

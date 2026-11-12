@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-11-12T10:45:00-05:00"
+updated: "2026-11-12T14:45:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -112,7 +112,7 @@ Computational evaluation assesses [[ai-technologies|AI systems]] directly — ag
 
 ### Other designs: longitudinal, case, and simulation studies
 
-Beyond the major families, the knowledge base uses **longitudinal** designs that track learners over time ([[ai-lms-middle-school-longitudinal|a longitudinal LMS study]]), **case and in-the-wild** studies of authentic usage ([[ai-in-the-wild-college|large-scale analysis of real student interactions]]), and **simulation** studies in which LLMs stand in for students or patients ([[llm-student-simulation-teacher-insights|LLMs as simulated learners]], [[simulation]]). These trade breadth or control for realism and for access to phenomena that are otherwise hard to observe.
+Beyond the major families, the knowledge base uses **[[longitudinal-research|longitudinal]]** designs that track learners over time ([[ai-lms-middle-school-longitudinal|a longitudinal LMS study]]), **case and in-the-wild** studies of authentic usage ([[ai-in-the-wild-college|large-scale analysis of real student interactions]]), and **simulation** studies in which LLMs stand in for students or patients ([[llm-student-simulation-teacher-insights|LLMs as simulated learners]], [[simulation]]). These trade breadth or control for realism and for access to phenomena that are otherwise hard to observe.
 
 ### Expert-consensus methods: the Delphi technique
 
@@ -191,6 +191,7 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 
 ## Connected Concepts
 
+- [[longitudinal-research]]
 - [[interpreting-and-applying-aied-research]]
 - [[ai-ed-evaluation]]
 - [[rct]]

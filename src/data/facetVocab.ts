@@ -45,7 +45,7 @@ export const FACET_VOCAB = {
     'theories-and-frameworks',
     'theory-development-aied',
   ],
-  // Learning and instruction (60 concepts) — registry section: Learning and instruction
+  // Learning and instruction (61 concepts) — registry section: Learning and instruction
   pedagogy: [
     'active-learning',
     'activity-theory-aied',
@@ -60,6 +60,7 @@ export const FACET_VOCAB = {
     'creativity',
     'critical-pedagogy',
     'desirable-difficulties',
+    'developmental-psychology',
     'distributed-cognition',
     'embodied-learning',
     'empathy',
@@ -177,13 +178,14 @@ export const FACET_VOCAB = {
     'self-report-measures',
     'summative-assessment',
   ],
-  // Research methods and evaluation (13 concepts) — registry section: Research methods and evaluation
+  // Research methods and evaluation (14 concepts) — registry section: Research methods and evaluation
   methods: [
     'ai-assisted-educational-research',
     'ai-ed-evaluation',
     'benchmark',
     'design-based-research',
     'latent-profile-analysis',
+    'longitudinal-research',
     'meta-analysis-systematic-review',
     'mixed-methods-research',
     'network-analysis',
