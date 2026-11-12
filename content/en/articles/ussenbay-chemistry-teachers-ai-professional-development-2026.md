@@ -22,7 +22,7 @@ source_depth: full text
 pedagogy: [professional-training, social-emotional-learning]
 technology: [generative-ai]
 methods: [mixed-methods-research]
-foundations: [teacher-ai-competency]
+foundations: [teacher-ai-competency, educational-development]
 ---
 > **Synthesis:** Teachers are increasingly expected to act as practitioner-researchers, which makes [[teacher-ai-competency]] part of the research dimension of professional expertise. This mixed-methods study traced 105 chemistry teachers through a six-week, AI-supported [[professional-training|professional development]] program built around [[generative-ai|generative AI]] tools. Research competence correlated positively with [[social-emotional-learning|social-emotional monitoring]] practices (r = .664, p < .01) and readiness to use AI (r = .622, p < .01), and all measured dimensions improved significantly from pre-test to post-test (p < .001), with Cohen's dz values ranging from 0.47 to 0.63. Qualitatively, teachers shifted from seeing AI as a tool for information retrieval and writing to viewing it as support for research planning and data-informed decision-making in [[ai-assisted-educational-research|AI-assisted educational research]]. The study proposes an empirically informed conceptual model integrating teacher inquiry, social-emotional monitoring, and AI-supported research practices for [[chemistry-education|chemistry education]], grounding AI-supported research practices in teachers' everyday inquiry and positioning AI as an analytic partner for evidence-informed [[pedagogy]].
 

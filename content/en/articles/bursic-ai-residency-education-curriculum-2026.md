@@ -19,7 +19,7 @@ ai_assist:
     date: "2026-11-02"
     agent: hermes-agent
 source_depth: full text
-foundations: [ai-literacy, curriculum-design, teacher-ai-competency, human-ai-collaboration]
+foundations: [ai-literacy, curriculum-design, teacher-ai-competency, human-ai-collaboration, educational-development]
 pedagogy: [professional-training]
 ethics: [ethics, bias-mitigation, privacy, trust]
 institutions: [governance, educational-policy-ai, regulation]

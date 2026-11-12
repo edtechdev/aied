@@ -19,7 +19,7 @@ ai_assist:
     date: "2026-11-09"
     agent: hermes-agent
 verified: [citation, numbers, links]
-foundations: [teacher-ai-competency, teacher-role]
+foundations: [teacher-ai-competency, teacher-role, educational-development]
 pedagogy: [professional-training]
 methods: [quantitative-research]
 institutions: [educational-policy-ai]

@@ -5,7 +5,7 @@ created: "2026-11-04T12:00:00-05:00"
 updated: "2026-11-12T07:40:00-05:00"
 type: article
 pedagogy: [motivation, self-determination-theory, student-engagement]
-foundations: [teacher-role, teacher-ai-competency]
+foundations: [teacher-role, teacher-ai-competency, educational-development]
 technology: [generative-ai]
 methods: [quantitative-research]
 research_method: [survey]

@@ -23,7 +23,7 @@ assessment: []
 methods: []
 institutions: [change-management]
 ethics: []
-foundations: [human-ai-collaboration, curriculum-design, theory-development-aied]
+foundations: [human-ai-collaboration, curriculum-design, theory-development-aied, educational-development]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting

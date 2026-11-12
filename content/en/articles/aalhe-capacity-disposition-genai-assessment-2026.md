@@ -15,7 +15,7 @@ assessment: [assessment, feedback, evaluative-judgment, formative-assessment, au
 methods: [usability-research]
 institutions: [change-management, governance]
 ethics: [equity-in-ai-education, privacy, trust]
-foundations: [ai-literacy, teacher-role, framing-ai-use-for-students, human-ai-collaboration]
+foundations: [ai-literacy, teacher-role, framing-ai-use-for-students, human-ai-collaboration, educational-development]
 confidence: medium
 sources: ['raw/papers/aalhe-capacity-disposition-genai-assessment-2026.md']
 contributors: [editor]

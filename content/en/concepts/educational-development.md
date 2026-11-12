@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-10T18:55:00-05:00"
+updated: "2026-11-12T15:45:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -109,6 +109,12 @@ Confidence and literacy are not interchangeable targets: in a 502-respondent SEM
 - **Six professional-development families, three well evidenced, and a clear winner.** A review of 78 studies of AI-supported instructional design sorts documented PD into compact embedded modules (2-4 weeks), semester-long microlearning, task-based design cycles, collaborative dialogue-based question chains, critical co-discovery, and [[self-directed-learning|self-directed]] practitioner learning. Outcome evidence is strongest for **compact embedded modules**: a three-week module produced statistically significant gains across all six Intelligent-TPACK domains with medium-to-large effect sizes, and a four-week program with **436 pre-service teachers and a control condition** is the strongest controlled evaluation in the corpus ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
 - **Three design features separate the best-evidenced interventions.** Ethics embedded as **[[retrieval-spacing-interleaving|distributed practice]] with checkpoints at every task** rather than a stand-alone session; **performance-based competence assessment** using lesson plans, decision logs and micro-teaching, motivated directly by the unreliability of self-report; and prompt engineering developed as reflective, pedagogically grounded practice. Adoption is not the same lever as performance: across 200 teachers in North Sumatra, AI use had no direct effect on teacher performance (β = 0.112, p = .087) while organizational citizenship behavior carried it indirectly, so faculty-development work aimed at collaborative, extra-role use is the version the evidence supports ([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]]). A companion two-week study found rapid gains in knowledge and confidence while identifying bias detection as the weakest emerging competence — a gap that persisted into the longer module, consistent with ethical perceptual capacity developing more slowly than technological familiarity.
 
+**Scale is documented; change in classrooms is not.** [[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay and colleagues]] traced 105 chemistry teachers through a six-week program, and [[ma-ai-corpus-language-teaching-coi-2026|Ma and colleagues]] ran a 20-week online program with over 150 language teachers from 28 countries. [[white-scandinavian-teachers-genai-attitudes-2026|White and colleagues]] measured a 0.20 SD gain in perceived benefits across 2,159 Scandinavian teachers who received GenAI professional development. Each study shows that development moves what educators report; none follows them into a classroom to measure what students did differently.
+
+**What educators ask for resembles apprenticeship more than training.** In the district study, 22 teachers asked for development delivered by former teachers who understood classroom constraints, a one-page guide to when the tools help, and the planning time to use either ([[dangol-relief-or-displacement-teachers-generative-ai-2026|Dangol et al.]]). Institutions, meanwhile, are choosing to build capacity rather than buy it: among those whose strategy includes workforce skills, 69% are upskilling existing staff and faculty ([[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE, 2026]]).
+
+**The absence of development is a policy choice with a visible result.** [[rameskumar-shadow-ai-legitimized-higher-education-2027|Rameskumar and colleagues]] interviewed 20 educators who had built their own rules because no guidance arrived, and [[bodek-prompted-to-explore-microlearning-2026|Bodek]] describes a microlearning model built to fit the time faculty actually have. Programs that treat development as one repeated layer of institutional support rather than a single event report the difference ([[aalhe-capacity-disposition-genai-assessment-2026|AALHE]]).
+
 ## Common Misconceptions
 
 **"A skills workshop is the intervention educational development needs."** Readiness is a sociotechnical alignment problem, not an individual deficit, which is why a standalone "AI workshop" falls short of the need it addresses. A program that worked the question directly was a **six-week summer institute** taking ten faculty from Education, Health Sciences, Business and other programs through identity-level work. Duration and cohort are not incidental to that design; they are what distinguishes it from a feature tour.
@@ -173,3 +179,15 @@ Confidence and literacy are not interchangeable targets: in a 502-respondent SEM
 - [[ai-competence-framework-landscape-2026]] — Check what a framework's levels describe before adopting it
 
 - [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Can education set the agenda for AI? Simulated innovation and pedagogical directionsetting in teacher education
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 chemistry teachers in a six-week program
+- [[ma-ai-corpus-language-teaching-coi-2026]] — 150+ language teachers from 28 countries over 20 weeks
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2,159 Scandinavian teachers; 0.20 SD gain in perceived benefits
+- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 teachers after a GenAI learning program, with needs mediating engagement
+- [[bodek-prompted-to-explore-microlearning-2026]] — a microlearning faculty development model for generative AI
+- [[bursic-ai-residency-education-curriculum-2026]] — an AI residency in medical education
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 resources; educator development as one of four themes
+- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 teachers asking for development led by former teachers
+- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% upskilling existing staff and faculty
+- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 educators legitimizing shadow AI where guidance was absent
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — capability gaps driving faculty development and hiring decisions
+- [[aalhe-capacity-disposition-genai-assessment-2026]] — repeated development as one of five support layers
