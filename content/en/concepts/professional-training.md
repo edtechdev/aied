@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-11T15:26:00-05:00"
+updated: "2026-11-12T07:25:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -48,6 +48,8 @@ A six-week AI-supported program with 105 chemistry teachers aimed at the researc
 - **Delegation during on-the-job learning buys speed and costs the skill.** The workplace version of that throughput problem now has a randomized measurement. [[shen-ai-skill-formation-2026|Shen and Tamkin (2026)]] assigned 52 working developers to learn an unfamiliar Python library with or without a GPT-4o assistant. The assisted group scored 17% lower on an unaided quiz (d = 0.738) with no significant time saving, and the fastest pattern, asking only for generated code, finished in 19.5 minutes at 39% quiz accuracy against 65–86% for the patterns that asked for explanations or resolved errors independently. The incentive this page's other entries describe (ship the task, learn later) is the condition under which the study found the largest skill loss, which makes on-the-job AI use a training-design problem rather than only a productivity one.
 - **[[oral-assessment|Oral assessment]] for workplace capability.** A TVET design study addresses a long-standing mismatch between text-heavy assessment and the verbal, situational capabilities that professional qualifications certify, using an [[llm]] to support interactive oral assessment. Across four cohorts the voice format was rated realistic by 21 of 33 learners with no dissenting response on its advantage over a written [[eportfolio|portfolio]], and the system ran fully offline on one laptop for up to 12 simultaneous learners, deleting recordings after 90 days and leaving scoring to assessors ([[ai-supported-oral-assessment-tvet-2026]]). It is a concrete example of AI widening the range of assessable competence in professional-training rather than only automating existing written formats. Its cohorts, though, were Level 3 automotive and engineering classes, so the evidence sits in [[vocational-education|initial vocational provision]] rather than in the workplace upskilling this page covers.
 - **The meeting is where understanding becomes assessable.** When a generative tool drafts the analysis, a polished research update no longer shows whether a trainee understands the work, so [[prunuske-cognitive-windows-research-meetings-2026|Prunuske and Adams-Phillips (2026)]] propose three diagnostic windows for research meetings ([[metacognition|metacognitive]] calibration, conceptual explanation, collaborative sensemaking) with prompts that surface what a summary left out.
+
+- **Teachers ask for training built on their own tasks.** In interviews with 14 teachers across four Chinese universities, requests ran to discipline-grounded training rather than generic encouragement, and several distinguished frequent AI use from [[ai-literacy|AI literacy]], noting that many colleagues could not yet formulate effective prompts ([[xiong-teachers-ai-attitudes-chinese-higher-ed-2026|Xiong et al. (2026)]]).
 
 - **Institutional conditions, not national context, explain readiness gaps.** A comparative survey of 568 university faculty in
   Chinese (n = 340) and Kazakhstani (n = 228) faculty development centers ([[faculty-development-centers-genai-training-optimization-2026|Bi, Araily, Lyu & Xiu, 2026]])
@@ -126,3 +128,4 @@ Professional training differs from academic education in its focus on applied sk
 - [[jongkind-genai-patient-medical-communication-2026]] — Use of a GenAI patient for medical communication training for undergraduate medical students: a quasi-experimental study
 - [[cowhitt-deliberative-instructional-agents-2026]] — Deliberative instructional agents for teacher professional learning, with responsibility conditions for AI-mediated PD
 - [[morales-cevallos-ai-forensic-science-education-2026]] — When a technical profession's AI practice outruns its teaching pathway
+- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Teachers asked for discipline-grounded training and separated frequent use from literacy

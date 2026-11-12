@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-12T06:10:00-05:00"
+updated: "2026-11-12T07:25:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -80,6 +80,8 @@ A faculty-level model suggests part of the self-report signal is institutional r
 **The gap can invert across the pipeline.** In postgraduate [[medical-education|medical education]], twelve physicians who lead AI curriculum work expected residents to become more fluent with AI than many of their teachers, and proposed co-learning and co-teaching rather than a one-way [[lifelong-learning|upskilling]] of faculty ([[bursic-ai-residency-education-curriculum-2026|Bursic et al. (2026)]]). The same interviews described informatics units not yet mature enough to lead curriculum development, which locates the constraint in institutional capacity as well as individual skill.
 
 **The gap also shows up as non-participation.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] surveyed 1,057 US college faculty in late 2025 and found 26% do not use [[generative-ai|generative AI]] tools at all, with a third choosing not to use them for teaching and non-use concentrated in the arts and [[humanities-education|humanities]] (40%). The institutional side of the gap was larger than the individual one: 68% said their schools had not prepared faculty to use generative AI for teaching and mentoring, and faculty named colleagues' resistance (82%) and unfamiliarity (83%) as the leading obstacles to departmental adoption — a picture in which capability-building, peer norms and policy all have to move together.
+
+Adoption runs through judgment about the discipline rather than through general enthusiasm. In interviews with 14 teachers at four Chinese universities, participants judged AI useful by the knowledge demands of their own field, kept it in an auxiliary role, and made use conditional on a clear purpose and on students thinking first ([[xiong-teachers-ai-attitudes-chinese-higher-ed-2026|Xiong et al. (2026)]]). Their most consistent worry was not their own skill but students handing over the thinking process.
 
 **Pre-service training largely sidesteps the ethical dimension of the competency.** A [[meta-analysis-systematic-review|systematic review]] of AI in initial teacher training for pre-service primary mathematics teachers ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto et al. 2026]], 11 studies selected from 341 records) found the interventions concentrated on short-term technical and pedagogical gains, with nine of the eleven running brief interventions spanning one to six sessions, and reported that ethics was addressed in only three of the eleven studies. The competency frameworks name ethical judgment as a dimension; the pre-service literature meant to build it rarely teaches or measures it.
 
@@ -232,3 +234,4 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[yuan-teacher-need-satisfaction-genai-2026]] — Teachers’ basic psychological need satisfactions and their intentions to use generative artificial intelligence: the mediating role of engagement in professional development
 - [[white-scandinavian-teachers-genai-attitudes-2026]] — Scandinavian teachers' attitudes toward generative artificial intelligence: Exploration of associations
 - [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Faculty self-rated competence band predicted largely from institutional affiliation rather than individual attributes
+- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Adoption judged discipline by discipline, with students' reasoning the main worry

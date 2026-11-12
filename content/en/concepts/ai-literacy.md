@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-11T09:55:00-05:00"
+updated: "2026-11-12T07:25:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -133,6 +133,8 @@ A distinct strand of the knowledge base treats AI literacy not merely as skills 
 - **Recognizing [[ai-sycophancy|sycophancy]] as a literacy skill.** A core evaluative competency is recognizing when an AI is *agreeing* with the learner versus being correct. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows AI literacy and prompting training reduce — but do not eliminate — sycophantic mirroring of user errors, and [[sycophantic-ai-social-interaction-2026|sycophantic AI]] is preferred by users precisely because it makes them feel understood. AI literacy must therefore teach learners to detect agreement-for-its-own-sake and to value corrective friction, connecting to [[trust-calibration]] and [[reducing-ai-misuse]].
 - **Valuation, not just verification.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] found that students who only checked output for accuracy, credibility and relevance still accepted conceptually flattened work, while those who also judged nuance, voice and epistemic stance re-authored it — making "when not to delegate judgment" the literacy question.
 - **Metaphor as a critical literacy method.** [[metaphors-and-analogies|Metaphors and analogies]] make AI's opacity, bias, and representation discussable; [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins and Furze (2025)]] pair four classroom metaphors with criteria for choosing and critiquing them.
+
+- **Competency framings can specify ethics without explaining conscientization.** [[boison-freirean-critical-ai-literacy-framework-2026|Boison (2026)]] argues that lists of competencies tell a learner what to know but not how to move from spotting an AI problem to acting on it, a gap he reads as Freirean banking education. His framework replaces the isolated learner with the arrangement — who built the system, whose knowledge it carries, who is surveilled — as the unit of analysis, and offers no evaluation.
 
 These critical strands complement the operational and cognitive dimensions of AI literacy: where the latter ask "can the learner use and evaluate AI?", critical AI literacy asks "does the learner understand and challenge the power structures AI embodies?"
 
@@ -334,4 +336,4 @@ Credibility judgments respond to workflow, not only to instruction. Among 42 und
 
 - [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Four criteria and four metaphors for teaching critical AI literacy
 - [[cuenca-rodriguez-genai-use-caution-trajectories-2026]] — Students Learn to Use Generative AI Before Learning to Question It: Ordinal Trajectories of Academic Use and Caution from Adolescence to University
-
+- [[boison-freirean-critical-ai-literacy-framework-2026]] — Freirean critique arguing competency lists cannot explain movement from recognition to action
