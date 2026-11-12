@@ -38,9 +38,9 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from wiki_config import load_config, path  # noqa: E402
 
 # Directories that never hold a source we must preserve. `dist` holds the built
-# site (and any PDF someone downloads by hand); the offline book folders are
-# build artifacts, not sources.
-SKIP_DIRS = {'.git', 'node_modules', 'dist', '.astro', '.cache', 'public'}
+# site (and any PDF someone downloads by hand); the offline book folders --
+# `public/` and `.artifacts/offline/` -- are build artifacts, not sources.
+SKIP_DIRS = {'.git', 'node_modules', 'dist', '.astro', '.cache', 'public', '.artifacts'}
 # Folder names that mean "someone tried to start a second store".
 STORE_LOOKALIKES = ('pdfs', 'pdf', 'pdf_sources', 'pdf-sources', 'sources')
 
