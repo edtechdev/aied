@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Automated Question Generation
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-12T06:10:00-05:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -55,6 +55,8 @@ Ratings were rare - 3.31 thumbs up and 2.00 thumbs down per 1,000 sessions - and
 - **Recognizability in a live exam, and what review actually removes:** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] put 30 AI-generated and 30 National Licensing Exam MCQs into a graded tablet-based exam taken by 119 fifth-year [[medical-education|medical students]], with the AI items drafted from the course's own materials by ChatGPT-4o and Gemini 1.5 Pro through an expert panel that accepted 82% of them and eliminated 18.2% as unusable. Students' source attribution did not differ between the two kinds of item, and item difficulty, distractor distribution and perceived curricular alignment were statistically indistinguishable — a *recognition* result rather than a quality result, and the reason the authors describe the workflow's benefit as shifting educator effort from drafting to reviewing rather than removing it. One exploratory difference survived: Gemini items were harder than the licensing-exam items (p = 0.028), while ChatGPT items were not (p = 0.984).
 - **Task-dependence:** generation reliability varies by item type. [[cong-confidence-asag-2026|Short-answer grading]] and [[self-referential-l2-writing-llm-assessment|analytic writing assessment]] show that open-response and writing items are harder to generate and grade reliably than structured items.
 - **Cognitive quality:** [[llm-educational-question-cognitive-depth|cognitive-depth evaluation]] shows generated items may skew toward lower-order thinking unless explicitly designed for higher-order outcomes.
+
+- **Item-writing rubrics pass before alignment does.** Twenty-seven GPT-4-generated chemistry items met 87.71% of 22 binary item-writing criteria on average, but only 33.33% reduced specialized language and 48.15% balanced option length, and competence-level alignment reached 25.93% exact agreement against Rasch-implied difficulty ([[rodemer-ai-generated-mcq-chemistry-assessment-2026|Rodemer et al. (2026)]]). The check that matters is empirical difficulty, not the checklist.
 
 - **Auto-labeling cognitive level does not transfer to generated items.** A Bloom taxonomy classifier trained on a curated item bank collapsed on AI-generated questions — macro F1 from 0.88 in distribution to 0.48 and 0.20 out of it — because generated items average far more words (18.2 versus 9.3) and share only a median 10.5% of their Bloom trigger verbs with the curated corpus, against 35.1% for a closer set; retraining on labeled out-of-distribution data was the largest single gain, at a threshold of roughly N > 1,000 labeled samples ([[bloom-classifier-ai-assisted-questions-2026|Castanares et al., 2026]]).
 
@@ -129,3 +131,4 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Students could not tell AI-generated MCQs from licensing-exam items in a graded exam, and 18.2% of generated items were eliminated in review (Vogt et al. 2026)
+- [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — Generated items that pass a writing rubric can still miss their intended competence level

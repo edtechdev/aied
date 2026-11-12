@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-11T11:35:00-05:00"
+updated: "2026-11-12T06:10:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -45,6 +45,8 @@ A two-stage verifier lifted precision to 0.8893 where false positives would corr
 - **Privacy is deferred rather than decided.** Twelve interviews with edtech professionals and an audit of 48 platform privacy policies show privacy recognized as important and then postponed across the product lifecycle, with responsibility delegated to cloud providers, policy documents and downstream schools - a pattern that weak privacy feedback keeps invisible, since silence looks like proof of safety ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 - **The proctoring evidence base is thin on ethics.** A review of 80 studies found 35% did not disclose their dataset, 40% evaluated a single model, 30% could not be reproduced and only 25% addressed ethical issues; false positives — flagging normal behavior — remain a core reliability risk ([[automated-online-exam-proctoring-decade-review-2026|Malhotra & Chhabra (2026)]]).
 - **Chat interfaces leak the conversation itself.** Auditing 42 AI chat platforms, [[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos et al. (2026)]] found 21 sending conversation titles to third-party trackers, and the seven education platforms averaged about 367 tracker requests each, with five leaking context.
+
+- **Competence and authority fail separately.** A Hypothesis and Theory framework for learner data protection names two contrasting failures: teachers who recognize a privacy problem but lack the authority or an approved alternative to act on it, and institutions that provide safeguarded services while teachers disclose unnecessary information or accept unsupported inferences ([[kaziya-learner-data-privacy-governance-2026|Kaziya & Lungu (2026)]]). It treats each decision to collect, transmit, infer or disclose learner data as the unit of analysis, with demonstrated competence and institutional enablement measured separately.
 
 ## Child safety and K-12 protections
 
@@ -103,3 +105,4 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — What proctoring systems capture, and the privacy literature's absence from the evidence base
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[kaziya-learner-data-privacy-governance-2026]] — Framework separating a teacher's privacy competence from the institutional authority to act on it

@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-11-11T06:42:13-05:00"
+updated: "2026-11-12T06:10:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -118,6 +118,8 @@ Four properties separate a survey that can support a claim from one that cannot.
 
 **Most instruments in this space report reliability and almost none report validity.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] cite Su et al.'s review of 36 AI literacy studies, which found 63.8% of tools reporting reliability evidence and fewer than 20% reporting validity evidence. The same review found only one generative-AI-specific instrument, the 27-item GAIAS, among 50 [[k-12]] frameworks. A scale being internally consistent says nothing about whether it measures the construct named in its title.
 
+A recent faculty survey shows the failure in its extreme form. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] administered 300 items to 315 university faculty, reported α = 0.997 for the total scale, and ran no factor analysis, yet a Naive Bayes model classified 314 of 315 respondents correctly (accuracy 0.9968) into low, medium and high competence bands. An instrument whose items behave as near-duplicates can be predicted almost perfectly from a handful of demographic and institutional variables because it carries little independent information: the authors found affiliation the largest global contributor in their SHAP analysis, and the cut points defining the three bands were not retained.
+
 ## Sampling, response, and non-response
 
 Because surveys are cheap to administer, the sampling problems are usually where the generalizability claim fails. This corpus reports them explicitly and instructively:
@@ -212,3 +214,4 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 63.8% of AI literacy tools report reliability evidence and fewer than 20% report validity evidence
 - [[huang-genai-academic-information-resources-2026]] — Library logs and survey attitudes pointing in different directions
 - [[onodipe-enhance-not-replace-ai-classroom-2026]] — Perceived learning and engagement rose on every survey measure while exam scores did not move
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — A 300-item faculty scale with α = 0.997 predicted to 99.68% accuracy without any factor analysis

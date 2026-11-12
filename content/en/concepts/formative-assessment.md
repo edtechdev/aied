@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T06:10:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -38,6 +38,8 @@ AI systems generate formative assessment items across modalities, with reliabili
 - **Automated essay scoring:** multi-agent frameworks (e.g., MASS) improve consistency over stand-alone [[llm|LLMs]] for [[automated-essay-scoring|essay scoring]], though [[explainable-ai|interpretability]] of multi-agent scoring decisions remains an open challenge.
 - **Formative scoring pipelines:** [[cotal-formative-assessment-scoring-2026|CoTAL]] couples Chain-of-Thought prompting with [[active-learning|active learning]] and Evidence-Centered Design to produce generalizable formative-assessment scoring with human-in-the-loop [[prompt-engineering|prompt engineering]].
 - **High-frequency, [[automated-assessment|automatically-marked assessments]]:** [[automated-formative-assessments-a-level-sciences|automated formative assessments in A-level sciences]] examines the effect of high-frequency, automatically-marked formative assessment on [[learning-gains|learning outcomes]]. A scoping review of short-answer auto-marking in [[science-education|science]] (2017–early 2024) confirms this formative short-answer use case is a field with real traction: BERT-family models dominated auto-marking through 2021 before prompting larger [[llm|LLMs]] from ~2022, and domain-augmented, rubric-aware, and chain-of-thought models performed best — yet the review's calls for comprehensive evaluation and unresolved [[bias-mitigation|fairness]] and explainability gaps caution against extending such systems to unmediated [[summative-assessment|summative]] or high-stakes use ([[auto-marking-short-answer-science-2026]]).
+
+- **A gamified quiz can be enjoyed without teaching.** Thirty-four musicology undergraduates rated an adaptive AI quiz lowest on comparison with traditional tutorial instruction (M = 2.74 of 5) and split 21 to 13 on whether they would recommend it, while recommendation tracked how the app felt to use (future use 3.52 vs. 1.54) rather than topic understanding (3.81 vs. 3.62, p = 0.420) ([[lee-ai-music-quiz-disciplinary-thinking-2026|Lee et al. (2026)]]).
 
 ## AI-generated feedback
 
@@ -188,3 +190,4 @@ Observability can be designed for without surveillance: it is the evidence an as
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time (McNamara & Hasnine 2026)
 - [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
 - [[assessment-feedback-trilemma-model-2026]] — Positive counterpart to the surveillance risk: observability as evidence design, not monitoring
+- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — Students' recommendation of an adaptive quiz tracked how it felt to use, not their topic understanding

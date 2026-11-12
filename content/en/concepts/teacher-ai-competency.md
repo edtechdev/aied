@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-10T22:35:00-05:00"
+updated: "2026-11-12T06:10:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -72,6 +72,8 @@ A 132-teacher survey in Indonesia found near-universal acceptance alongside thin
 - **Use and GenAI training settle attitudes; general confidence does not.** In TALIS 2024, Scandinavian teachers who had used [[generative-ai|GenAI]] scored 0.72 SD higher on benefit agreement and 0.26 SD lower on uncertainty about them, GenAI-specific professional development added 0.20 SD, and users also agreed with misrepresentation concerns more often ([[white-scandinavian-teachers-genai-attitudes-2026|White et al., 2026]]). Among 425 K-12 professionals, epistemic vigilance capacity predicted calibrated AI readiness at β = .675 while autonomous motivation did not (β = .076), and only 143 reported a clear written AI policy ([[song-calibrated-ai-readiness-k12-2026|Song, 2026]]).
 
 The gap is visible in the artifact as well as in the self-report. A [[ai-integration-instructional-design-collaboratory-2026|cross-institutional faculty collaboratory in teacher preparation]], in which teacher educators designed AI into their own methods courses, reported that candidates could produce polished AI-assisted lesson plans while being unable to explain why a plan fit the learners and the standards, since the plan itself says nothing about the reasoning behind it. Grading the justification rather than the product is one response. The [[bondurant-shaughnessy-ai-pedagogies-practice-2026|pedagogies-of-practice frame]] suggests another, treating rehearsal as an approximation of practice: AI-mediated rehearsal with structured post-rehearsal feedback raised candidates' use of probing and exploring questions, yet candidates' own judgments of their performance still diverged from what observers recorded.
+
+A faculty-level model suggests part of the self-report signal is institutional rather than individual. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] predicted 315 university faculty members' self-rated digital competence band and found affiliation the largest global contributor, ahead of age and degree, with teaching-competence bands split 90.1% versus 42.9% high across institutions (χ² = 82.710, V = 0.512). A competency score that tracks which university employs the respondent is measuring context as much as capability.
 
 **A falling self-assessment after training can signal learning rather than loss.** In a six-month [[tpack|Intelligent-TPACK]] [[educational-development|professional development]] program with 64 Hong Kong university teachers against 61 controls, overall AI competency rose by about half a standard deviation (Cohen's d = −.521), yet some teachers in both groups scored lower at post-test than at pre-test ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). Interviews attributed the declines to a shift from unconscious to conscious incompetence — the recalibration the Dunning–Kruger effect predicts — rather than to lost skill. The authors conclude that pre-post self-report understates an intervention, because part of the gain arrives as a downward correction in the instrument itself.
 
@@ -229,4 +231,4 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
 - [[yuan-teacher-need-satisfaction-genai-2026]] — Teachers’ basic psychological need satisfactions and their intentions to use generative artificial intelligence: the mediating role of engagement in professional development
 - [[white-scandinavian-teachers-genai-attitudes-2026]] — Scandinavian teachers' attitudes toward generative artificial intelligence: Exploration of associations
-
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Faculty self-rated competence band predicted largely from institutional affiliation rather than individual attributes

@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-11T08:45:00-05:00"
+updated: "2026-11-12T06:10:00-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -49,6 +49,8 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 
 - **AI literacy as a governance capacity ("the 18th SDG"):** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] reconceptualize AI literacy as a systemic governance mechanism rather than a classroom skill, proposing a six-level AIRE Taxonomy (Recognize → Comprehend → Apply → Analyze → Integrate → Govern) that extends Bloom's hierarchy with ethical synthesis and strategic foresight, and an AI–SDG Nexus mapping literacy competencies onto all seventeen [[sustainability|Sustainable Development Goals]]. Framing AI literacy as an "18th SDG" heuristic — a cross-cutting capacity that channels learning into governance and sustainable development — the study's survey of 300 professionals found governance literacy the strongest predictor of AI–SDG nexus awareness (β = 0.64, r = 0.67 with nexus awareness) and identified ethical reasoning and reflective thinking as the strongest predictors of trustworthy AI use. This ties institutional governance to the cultivation of public [[ai-literacy]], echoing the knowledge base's finding that responsible AI alignment requires [[stakeholders|policymakers]] and citizens who can critically interpret algorithmic systems, not merely compliance-oriented technical control.
 - **Most education governance is guidance, not law.** Across 160 English-language documents, only 4 took formal legal or regulatory form while 92 were guidance, frameworks or toolkits, and accountability appeared in 146 documents but paired with a named oversight actor in 100 ([[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]]).
+
+- **Governance and teacher competence as one problem.** [[kaziya-learner-data-privacy-governance-2026|Kaziya and Lungu (2026)]] argue that institutional safeguards and individual capability substitute for each other only on narrowly constrained actions — where a control blocks a specific disclosure without requiring judgment — and must complement each other where the teacher has to interpret purpose or spot contextual identifiers. Their framework gives each transition a named decision right and an accountable output, which is the governance analogue of a [[teacher-ai-competency|competency]] standard.
 
 - **Administrative AI makes governance a service-operations question, not a classroom one.** [[pandey-davies-he-governance-administrative-ai-2026|Pandey and Davies (2026)]] scope administrative AI to recruitment, admissions, enrollment, records, advising, housing, welfare and careers, and exclude teaching, learning and research by definition. Their socio-technical framework offers three testable propositions: joint optimization of technology with roles and accountability, the politics of artifacts, and globally shaped infrastructure. Five drivers explain adoption: infrastructural readiness and commercial platform ecosystems enable and steer it, while competitive positioning under enrollment volatility, regulatory and mobility mandates, and sustainability legitimacy motivate it. Four leadership capabilities follow — contractual literacy, interrogating the objective, restraint under pressure and standing participation. This is a conceptual analysis and interpretive review, so the propositions are offered for testing rather than established.
 
@@ -183,3 +185,4 @@ One 2026 argument extends governance past learner use to the production of teach
 - [[li-su-teacher-genai-decision-making-2026]] — A proposed path from governance clarity to teacher decision episodes
 - [[pandey-davies-he-governance-administrative-ai-2026]] — Administrative AI as a service-operations question
 - [[chan-ai-policy-gap-2026]] — Governance language sits in general policies and never in the funding rules that bind applicants (Chan 2026)
+- [[kaziya-learner-data-privacy-governance-2026]] — Competence and governance treated as complements, not substitutes, in learner data protection

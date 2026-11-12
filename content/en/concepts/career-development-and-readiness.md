@@ -1,7 +1,7 @@
 ---
 title: Career Development and Readiness
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-11-05T14:28:00-05:00"
+updated: "2026-11-12T06:10:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
@@ -58,6 +58,8 @@ Career development and readiness connects to [[professional-training]] (the voca
 - **"Career adaptability is a soft skill secondary to technical competence."** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] shows career adaptability **reduces AI anxiety**, which makes it an upstream intervention rather than a downstream outcome. Building adaptability addresses the mechanism; treating it as a nice-to-have leaves the mediator intact.
 - **"Anxiety about AI is evenly distributed."** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] find AI anxiety and negative AI attitudes predict post-graduation job-finding anxiety across **1,057 students**, with different patterns for **women and social-science students**. A uniform intervention misallocates support.
 
+A program-level framework makes the institutional steps explicit, though it has not been evaluated as a program. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] proposes six stages: sensing, stakeholder validation, program diagnosis, curriculum redesign, enactment and capability, and outcome review. Each stage carries a named decision right and an accountable output, and AI is confined to four bounded support functions: pattern detection across labor-market information, competency mapping, generation of curriculum options for human appraisal, and monitoring of implementation indicators. The value is that it names the governance steps a career-readiness strategy usually leaves implicit.
+
 ## Connected Concepts
 - [[professional-training]]
 - [[ai-literacy]]
@@ -88,3 +90,4 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[ai-attitude-latent-profiles-career-development-2026]] — Four AI-attitude profiles: career crafting and employability tracked engagement, not anxiety
 - [[sadik-ai-ready-engineering-talent-faculty-2026]] — Faculty forecasts are predictions, not evidence about employment
 - [[kong-ai-employability-cognitive-engagement-2026]] — A narrative review's construct map from AI-supported learning to employability
+- [[nyale-ai-integrated-workplaces-digital-capability-2026]] — Six-stage, unevaluated process framework for aligning programs with AI-era labor markets

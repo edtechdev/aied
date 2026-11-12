@@ -1,7 +1,7 @@
 ---
 title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-12T06:10:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
@@ -63,6 +63,8 @@ Humanities teaching has begun using agentic AI for source assembly and drafting,
 
 **"A general-purpose model is as useful for textual scholarship as for summarisation."** Interpretation requires the reader's position, and an assistance layer that supplies the reading has performed the interpretive act the discipline exists to teach.
 
+An AI quiz built for a compulsory first-year musicology unit shows where the disciplinary objection lands. Thirty-four students at the Sydney Conservatorium of Music used an adaptive, gamified quiz on lecture content. The complaints that carried disciplinary weight were not about factual accuracy but about correct-or-incorrect judging of interpretive material and about expertise being outsourced; only one of 34 comments linked the app to critical or interdisciplinary interpretation ([[lee-ai-music-quiz-disciplinary-thinking-2026|Lee et al. (2026)]]). The authors' recommendation is to keep such tools as optional review and to add open-ended prompts that separate surface keyword matching from interpretation.
+
 ## Connected Concepts
 
 - [[higher-ed]]
@@ -87,3 +89,4 @@ Humanities teaching has begun using agentic AI for source assembly and drafting,
 - [[genai-values-education-affordances-risks-2026]] — Generative AI in Values Education: Affordances, Ethical Risks and Implications for Teaching (Chen 2026)
 - [[liu-argumentative-work-visible-genai-assessment-2026]] — Task format and AI-use instructions as what the artifact can evidence (Liu & Liu 2026)
 - [[capodieci-humanities-hil-2026]] — Agentic AI in humanities learning, and the shift from authorship of text to attribution of interpretation (Capodieci et al. 2026)
+- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — Musicology students objected to binary judging of interpretive material rather than to factual error

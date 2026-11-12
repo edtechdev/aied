@@ -1,7 +1,7 @@
 ---
 title: "What Should Students Learn for Careers Where AI Is Commonplace?"
 created: "2026-10-30T12:55:00-04:00"
-updated: "2026-11-06T13:58:13-05:00"
+updated: "2026-11-12T06:25:00-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-11-06"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-12"
     agent: hermes-agent
 ---
 
@@ -48,6 +52,8 @@ Here is the short answer: teach the whole professional task, not the tool operat
 [[ithaka-sr-ai-skills-college-graduates-2026|Ithaka S+R's report]] asked 500 US four-year-college instructors to rate 26 skills from a framework spanning seven categories, and compared their ratings to a panel of employers surveyed by the framework's authors. The disagreement is systematic rather than random: instructors ranked the limits of AI, attribution and human accountability at the top, while employers ranked workflow design, automation and human-AI teaming higher.
 
 Two readings of that gap are tempting and both are wrong. The first is that instructors are behind the labor market. The second is that employers want compliance. A more useful reading is that each group is describing a different half of the same job, and a graduate who can only do one half is underprepared for both. A student who cannot explain why a result is wrong is no use to an employer who trusts the workflow; a student who can only critique AI output is no use to an employer who needs the task completed.
+
+Turning an employer signal into a curriculum change is itself a process with decision points. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] proposes six stages — sensing, stakeholder validation, program diagnosis, curriculum redesign, enactment and capability, and outcome review — each with a named decision right and an accountable output, and confines AI to bounded support functions such as pattern detection and competency mapping. It is a proposal, not an evaluation, but it names the steps an advisory-group request usually skips.
 
 The limits of this evidence matter. These are stated priorities from surveys, and the report does not show that any curriculum produces better hires, better performance or better pay. What it does give you is a defensible reason to ask whether your students ever practice completing and checking an AI-supported workflow, as opposed to discussing it.
 

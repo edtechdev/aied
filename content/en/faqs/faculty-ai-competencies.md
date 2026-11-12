@@ -1,7 +1,7 @@
 ---
 title: "What Competencies Do Faculty Need in Regard to AI?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-28T11:29:19-04:00"
+updated: "2026-11-12T06:25:00-05:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
@@ -13,6 +13,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-12"
     agent: hermes-agent
 ---
 
@@ -50,6 +54,8 @@ Write the list down before you plan the sessions. Four dimensions plus a teachin
 ## Assess performance rather than confidence
 
 [[self-report-measures|Self-reported]] AI literacy can diverge substantially from demonstrated capability, which is the single most practical warning in this literature for anyone who runs faculty development. A confidence survey at the end of a workshop measures how the workshop felt.
+
+A survey can even be predicted too well. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] classified 314 of 315 faculty into competence bands from a 300-item scale with α = 0.997 and no factor analysis, and institutional affiliation was the largest contributor — a sign the scores tracked where people work, not what they can do.
 
 Teacher [[agentic-ai|multi-agent]] workflow research adds a second reason to test rather than ask: systems thinking, pedagogical beliefs and [[self-efficacy]] interact in AI integration, so the same session lands differently on two faculty members with the same subject background. That argues for differentiated programming, and against the one-size-fits-all tool workshop that most institutions run.
 
