@@ -1,7 +1,7 @@
 ---
 title: "What Are the Options and Issues to Consider When Adopting AI Tools?"
 created: "2026-11-12T15:20:00-05:00"
-updated: "2026-11-12T15:20:00-05:00"
+updated: "2026-11-12T17:10:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -21,85 +21,66 @@ ai_assist:
     agent: hermes-agent
 ---
 
-A department chair is handed three quotes for an AI tutoring platform by Friday. A teacher wants to use a free tool that half the staff already uses. A CIO is asked whether the institution should "just run its own model" and cannot say what that would cost. These are the same question at three altitudes, and the honest answer is that the options are fewer than the vendor list suggests and the issues are more durable than the product.
+A department chair has three quotes for an AI tutoring platform and a Friday deadline. A teacher wants to use a free tool that half the staff already uses. A chief information officer is asked whether the institution should run its own model and cannot say what that would cost.
 
-The short answer: choose the option that matches the decision you are actually making. An individual is deciding what to put into a tool. An institution is deciding who may use which model, on what data, at what cost, and who answers when it goes wrong. Most bad adoption decisions come from answering the institutional question with an individual tool.
+These are the same question at three altitudes. The options are fewer than a vendor list suggests, and the issues last longer than any product.
+
+The choice should match the decision in front of you. An individual decides what to put into a tool. An institution decides who may use which model, on what data, at what cost, and who answers when something goes wrong. Most bad adoption decisions come from answering the institutional question with an individual tool.
 
 ## The short version
 
-**1.** Settle the boundary first: what data may leave the room or the institution. Everything else is negotiable; that is not.
-
-**2.** Pick the smallest shape that fits. Free or outsourced tools for a pilot, a hosted platform for data control without GPUs, a gateway when you need quotas and routing, owned inference only when the other three fail.
-
-**3.** Compare per-seat and metered pricing against your actual usage distribution, not a vendor's average. Usage is almost always skewed.
-
-**4.** Require a sanctioned path that is faster than the unapproved one. EDUCAUSE found 94% of staff and faculty using AI for work and 54% aware of the policy; 56% used tools their institution does not provide.
-
-**5.** Decide in advance what evidence would make you stop. Adoption without an exit test becomes permanent by default.
+Five rules cover most of it. Settle the data boundary first, because everything else can be renegotiated and that cannot. Pick the smallest shape that fits: free or outsourced tools for a pilot, a hosted platform when you need data control without GPUs, a gateway when you need quotas and routing, and owned inference only when the other three fail. Compare per-seat and metered pricing against your own numbers, since most usage usually comes from a few heavy users. Make the sanctioned path faster than the unapproved one, since EDUCAUSE found 94% of staff and faculty using AI for work, 54% aware of the policy and 56% using tools the institution does not provide. Then decide in advance what evidence would make you stop, because adoption without an exit test becomes permanent by default.
 
 ## At the individual level
 
-For an instructor or a student, adoption is a data decision before it is a pedagogical one. Six checks cover most of it:
+An instructor or a student is making a data decision before a teaching decision. Student names, IEP details, disciplinary notes and unpublished research create the liability, so redact first and check whether the tool still does the job. Then read the terms: retention, training on your inputs and subprocessors usually sit in a document nobody opens, and if the answer cannot be found in five minutes, treat it as unknown.
 
-- **What leaves your hands.** Student names, IEP details, disciplinary notes and unpublished research are the items that create liability. Redact first, then decide whether the tool still does the job.
-- **What the terms permit.** Retention, training on your inputs, and subprocessors are usually in a document nobody opens. If the answer cannot be found in five minutes, treat it as unknown.
-- **What the tool is good at.** Generated text is strongest at drafting, restructuring and summarizing, and weakest at arithmetic, citations and anything requiring current facts. The verification habits are part of the tool, not an optional extra.
-- **What it costs you.** Free tiers are free because the usage is the product, or because the tier will change. Both are reasons to keep an exit in mind.
-- **Who else is affected.** A tool that reshapes how a course runs is a decision for the students in it, not only the instructor using it.
-- **Whether it is allowed.** If your institution has a policy, read it once. If it does not, the [[shadow-ai]] literature suggests you are already making policy by default.
+Know what the tool does well. Generated text is strongest at drafting, restructuring and summarizing, and weakest at arithmetic, citations and anything needing current facts. Know what it costs you too. A free tier is free because the usage is the product or because the tier will change, and either is a reason to keep an exit in mind.
 
-The practical individual heuristic is blunt: use the sanctioned tool when it is within reach, and when it is not, write down what you did and why. That record is what protects you if the judgment is questioned later.
+Two questions remain. Who else is affected, since a tool that reshapes a course is a decision for the students in it. And whether it is allowed: read the policy once if there is one, and if there is not, the [[shadow-ai]] evidence suggests you are already making policy by default.
+
+The blunt heuristic: use the sanctioned tool when it is within reach, and when it is not, write down what you did and why. That record is what protects you if the judgment is questioned later.
 
 ## At the institutional level
 
-An institution is buying a service, a data flow, a support obligation and a political commitment at once. The six shapes below are the real menu; most institutions are in two or three of them at the same time without knowing it.
+An institution buys a service, a data flow, a support obligation and a political commitment in one purchase. Six shapes make up the real menu, and most institutions are in two or three of them without knowing it.
 
-**Free outsourced tools.** AI Tutor Pro from Contact North is free, anonymous and requires no account. Playlab lets educators build apps grounded in their own curriculum while the vendor hosts the models. These are the right place to start a pilot and a poor place to settle: no audit trail, no quota control, and terms that can change.
+The easiest start is a free outsourced tool. AI Tutor Pro from Contact North needs no account, and Playlab lets educators build apps grounded in their own curriculum while the vendor hosts the models. Both are fine for a pilot and poor as a settlement: no audit trail, no quota control, and terms that can change.
 
-**Seats on a commercial tenant.** ChatGPT Edu, Microsoft 365 Copilot, Google Gemini for Education. Fast procurement, SSO and an admin console included, and the vendor owns model choice and retention.
+Buying seats on a commercial tenant, whether ChatGPT Edu, Microsoft 365 Copilot or Google Gemini for Education, brings fast procurement, SSO and an admin console, and leaves model choice and retention with the vendor.
 
-**A platform you host.** [Amplify GenAI](/aied/resources/amplify-genai/) deploys into your own AWS account; Vanderbilt's pilot reported about \$3 per user per month at 1,300 users, half of them under \$1 in tokens. Data control without GPUs.
+A platform you host keeps the data closer. [Amplify GenAI](/aied/resources/amplify-genai/) deploys into your own AWS account, and Vanderbilt's pilot reported about \$3 per user per month at 1,300 users, half of them under \$1 in tokens. That buys data control without GPUs.
 
-**A gateway over mixed providers.** One front door with quotas, SSO, logging and regional routing. Fontys ran this for 300 users under a \$500 monthly cap that was never breached; [MindRouter](/aied/resources/mindrouter/) adds role-weighted scheduling and energy metering.
+A gateway over mixed providers puts one front door in front of several. It carries quotas, SSO, logging and regional routing; Fontys ran one for 300 users under a \$500 monthly cap that was never breached, and [MindRouter](/aied/resources/mindrouter/) adds role-weighted scheduling and energy metering.
 
-**Your own inference.** Purdue's two services reached over 1000 users on 10+ open-source models for roughly \$100,000 in hardware, before staffing. This is the shape that answers a regulator without asking a vendor's permission.
+Your own inference is the most expensive shape and the most independent. Purdue's two services reached over 1000 users on 10+ open-source models for roughly \$100,000 in hardware, before staffing. It answers a regulator without asking a vendor's permission.
 
-**AI inside tools you already run.** A Moodle question type, a discussion platform's AI partner, an essay-feedback tool. Low lift, course-by-course change, and nothing learned at the center.
+The last shape is AI inside tools you already run: a Moodle question type, a discussion platform's AI partner, an essay-feedback tool. Low lift and course-by-course change, with little learned at the center.
 
 ## The issues that do not go away
 
-**Data protection.** The question is not whether a vendor is reputable but which record now exists that did not before, where it lives, and who can retrieve it. A tool that receives a class list has created an institutional record regardless of the contract.
+Data protection comes first. What matters is which record now exists that did not before, where it lives and who can retrieve it. A tool that receives a class list has created an institutional record whatever the contract says.
 
-**Identity and access.** Anything used at scale needs SSO, role-based access and offboarding. A tool that cannot deprovision a departing employee is a standing account with your data in it.
+Identity and access come next. Anything used at scale needs SSO, role-based access and offboarding, and a tool that cannot deprovision a departing employee leaves a standing account with your data in it.
 
-**Cost shape.** Per-seat pricing rewards vendors for headcount; metered pricing rewards them for usage. Your usage is probably concentrated: a small share of users generates most of the tokens, which means per-seat can look cheap until the heavy users move to something else.
+Costs depend on how the price is counted. Per-seat pricing rewards headcount and metered pricing rewards usage. Because a small share of users usually generates most of the tokens, per-seat looks cheap until the heavy users go elsewhere.
 
-**Measurement.** EDUCAUSE found 92% of institutions with a work-related AI strategy and 13% measuring return on investment. If you cannot say what the tool replaced, you cannot defend the renewal.
+Measurement is usually the missing piece. EDUCAUSE found 92% with a work-related AI strategy and 13% measuring return on investment. If you cannot say what the tool replaced, you cannot defend the renewal.
 
-**Equity and accessibility.** A tool that requires a fast connection, a paid tier or English fluency distributes benefit unevenly. Accessibility conformance is a procurement question, not a later fix.
+Equity and accessibility belong in procurement rather than in a later fix. A tool that requires a fast connection, a paid tier or English fluency spreads its benefit unevenly.
 
-**Academic integrity.** Adoption changes what assessment measures. If the tool can complete the assignment, the assignment is the thing that needs revision, not the tool.
+Academic integrity changes what assessment measures. When a tool can complete the assignment, the assignment is what needs revising.
 
-**Staffing.** Every shape above except the first has an owner. The common failure is buying the fourth or fifth shape and staffing it with whoever was already busy.
-
-**Vendor dependence.** Ask what happens at renewal, at a price change, and at a model deprecation. The gateway shapes exist precisely so that the answer is a routing change rather than a migration.
+Staffing and vendor dependence matter as much as the price. Every shape above except the free one needs an owner, and the usual failure is buying the fourth or fifth shape and staffing it with whoever was already busy. Ask what happens at renewal, at a price change and at a model deprecation; the gateway shapes exist so that the answer is a routing change rather than a migration.
 
 ## What a good first year looks like
 
-Pick two or three measures before you start: who used it, for what, at what cost per active user, and what changed in the work. A pilot that cannot produce those numbers is a demo with a budget.
+Choose two or three measures before anything launches: who used it, for what, what it cost per active user, and what changed in the work. A pilot that cannot produce those numbers is a demo with a budget.
 
-Review the boundary conditions at the same time. If the tool touched student records, did the data flow match what you told the privacy office? If usage went unmeasured, was that because the tool could not report or because nobody asked?
+Check the boundary conditions at the same time. If the tool touched student records, did the data flow match what you told the privacy office? If usage went unmeasured, was that because the tool could not report or because nobody asked?
 
-And keep the sanctioned path short. The adoption literature is consistent on this point: people do not bypass governance because they prefer risk, but because the approved route takes longer than the task. A gateway with a model card and same-day access is a governance instrument, not only an IT convenience.
+Keep the sanctioned path short. The EDUCAUSE figures suggest people bypass governance because the approved route takes longer than the task. A gateway with a model card and same-day access is a governance instrument as much as an IT convenience.
 
 ## Common mistakes
 
-**Buying the platform before naming the problem.** A tool in search of a use case produces usage statistics and nothing else.
-
-**Treating free as a strategy.** Free tools are excellent for a pilot and unstable as infrastructure.
-
-**Assuming a local model is private.** Locality changes who can be subpoenaed, not whether prompts are retained.
-
-**Measuring satisfaction instead of effect.** "Teachers liked it" is not a finding about learning.
-
-**Publishing a policy without a path.** Guidance that cannot be followed within a week describes the institution's preferences, not its rules.
+Buying a platform before naming the problem produces usage statistics and little else. Treating free as a strategy works for a pilot and fails as infrastructure. A local model changes who can be subpoenaed; it does not decide whether prompts are retained. Measuring satisfaction instead of effect turns "teachers liked it" into a finding it is not. And a policy published without a workable path describes preferences rather than rules.
