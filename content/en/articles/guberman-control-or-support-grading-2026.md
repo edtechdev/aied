@@ -1,7 +1,7 @@
 ---
 title: "Control or Support: Early Student Perceptions of Generative AI in a Course on Grading"
 created: "2026-11-10T21:50:00-05:00"
-updated: "2026-11-10T21:50:00-05:00"
+updated: "2026-11-12T18:45:00-05:00"
 type: article
 sources: ['raw/papers/guberman-control-or-support-grading-2026.md']
 source_url: "https://openprairie.sdstate.edu/ijrpld/1"
@@ -46,7 +46,7 @@ The interview assignment asked students to develop questions about grades with a
 
 The simulated interviews were useful as a contrast, not as a substitute. Students who used AI to draft questions found it a reasonable starting point, then edited for specificity and relevance. When they prompted ChatGPT to answer as a particular student, some answers aligned closely with the real interviewee's — for example, that the focus shifts from grades to understanding over time — but the overall register was wrong. Students described the answers as unnatural, too formal, overly positive, "stock standard," and "a pros and cons list." Several noted the absence of emotion: the real interviews surfaced stress, pride and frustration, while the AI produced bullet points about motivation, feedback and communication. Guberman reads this as evidence that the model reproduces dominant institutional messaging about grades, flattening exactly the affective dimension that makes grades consequential for students.
 
-That finding matters beyond the classroom exercise. If AI is used to simulate student perspectives — in faculty development, policy consultation or design research — the simulation will tend to return the normative view, not the marginal one. The students' own comparison is a small demonstration of that limit.
+That finding matters beyond the classroom exercise. If AI is used to simulate student perspectives — in [[educational-development|faculty development]], policy consultation or design research — the simulation will tend to return the normative view, not the marginal one. The students' own comparison is a small demonstration of that limit.
 
 ## Feedback, autonomy and the control–support frame
 

@@ -1,7 +1,7 @@
 ---
 title: "Student Guide to AI"
 created: "2026-09-28T04:47:03-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-11-12T18:45:00-05:00"
 type: resource
 summary: "A free three-edition student guide to artificial intelligence from Elon University, AAC&U and The Princeton Review, whose 2026 edition builds ten human capacities with teacher-ready learning modules and an anonymous self-assessment."
 url: https://studentguidetoai.org/
@@ -51,7 +51,7 @@ run before reading the guide and discuss rather than a test.
 Undergraduates in any discipline, and upper secondary students. Faculty, academic support staff,
 librarians and student affairs educators get the module set and the discussion prompts; the guide
 is deliberately discipline-neutral, which is why institutions use it for first-year seminars,
-faculty development and shared vocabulary across separate AI initiatives.
+[[educational-development|faculty development]] and shared vocabulary across separate AI initiatives.
 
 ## Notes and caveats
 

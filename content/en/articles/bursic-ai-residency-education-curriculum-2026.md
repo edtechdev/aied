@@ -2,7 +2,7 @@
 title: "Exploring the integration of artificial intelligence into residency education curriculum: qualitative interviews"
 published: "2026-10-30"
 created: "2026-11-02T10:30:00-05:00"
-updated: "2026-11-02T10:30:00-05:00"
+updated: "2026-11-12T18:40:00-05:00"
 type: article
 sources: ['raw/papers/bursic-ai-residency-education-curriculum-2026.md']
 source_url: "https://doi.org/10.1186/s12909-026-10684-y"
@@ -26,7 +26,7 @@ institutions: [governance, educational-policy-ai, regulation]
 methods: [qualitative-research]
 ---
 
-> **Synthesis:** Bursic and colleagues interviewed twelve physicians who lead AI work in postgraduate [[medical-education|medical education]] across Canada and the United States, and report five barriers to putting [[ai-literacy|AI literacy]] into residency curricula: [[curriculum-design|curricula]] that cannot keep pace with the tools, thin [[teacher-ai-competency|faculty expertise]], institutional and regulatory [[governance]] that has not caught up, no national competency standards, and cultural resistance tied to professional identity. Their recommendation is not more content but durable competencies — frameworks for appraising AI output, [[bias-mitigation|bias awareness]], and [[ethics]] — around which programs attach modular, locally available tool work. [[professional-training|Faculty development]] and co-learning with residents carry the load, because participants expected trainees to become more fluent than the educators. No curriculum or learner outcome was measured: this is a [[qualitative-research|qualitative]] account of expert perception from a small, self-selected sample that excluded residents.
+> **Synthesis:** Bursic and colleagues interviewed twelve physicians who lead AI work in postgraduate [[medical-education|medical education]] across Canada and the United States, and report five barriers to putting [[ai-literacy|AI literacy]] into residency curricula: [[curriculum-design|curricula]] that cannot keep pace with the tools, thin [[teacher-ai-competency|faculty expertise]], institutional and regulatory [[governance]] that has not caught up, no national competency standards, and cultural resistance tied to professional identity. Their recommendation is not more content but durable competencies — frameworks for appraising AI output, [[bias-mitigation|bias awareness]], and [[ethics]] — around which programs attach modular, locally available tool work. [[educational-development|Faculty development]] and co-learning with residents carry the load, because participants expected trainees to become more fluent than the educators. No curriculum or learner outcome was measured: this is a [[qualitative-research|qualitative]] account of expert perception from a small, self-selected sample that excluded residents.
 
 ## Key Findings
 

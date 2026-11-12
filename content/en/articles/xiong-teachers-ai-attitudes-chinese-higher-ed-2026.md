@@ -1,7 +1,7 @@
 ---
 title: "Teachers’ attitudes and behavioural intentions towards AI integration in Chinese higher education: a qualitative interview study"
 created: "2026-11-12T07:10:00-05:00"
-updated: "2026-11-12T07:10:00-05:00"
+updated: "2026-11-12T18:40:00-05:00"
 type: article
 page_kind: [evaluation]
 research_method: [interviews, thematic analysis]
@@ -60,7 +60,7 @@ The paper's most useful contribution is displacing the replacement question: par
 
 These are perceptions, not measurements. But they explain the shape of the adoption decision: teachers wanted AI to arrive after students had attempted their own thinking, to be reserved for tasks where students could check the output, and to stay under teacher direction. That is a [[pedagogy|pedagogical]] sequencing principle, not a technology policy, and it explains why the same teacher could be enthusiastic about lesson planning with AI and restrictive about it in a foundational course.
 
-The support findings follow the same logic. Teachers asked for [[professional-training|professional development]] grounded in their own tasks, for AI and [[prompt-engineering|prompt literacy]] rather than mere exposure, for [[discipline-specific-aied|discipline-specific]] tools, and for infrastructure that made classroom use possible. The authors summarize this as a move "beyond technological access" toward a support ecology combining teacher literacy, student critical engagement, and discipline-responsive institutional conditions — closer to [[governance|governance]] than to tool procurement.
+The support findings follow the same logic. Teachers asked for [[educational-development|professional development]] grounded in their own tasks, for AI and [[prompt-engineering|prompt literacy]] rather than mere exposure, for [[discipline-specific-aied|discipline-specific]] tools, and for infrastructure that made classroom use possible. The authors summarize this as a move "beyond technological access" toward a support ecology combining teacher literacy, student critical engagement, and discipline-responsive institutional conditions — closer to [[governance|governance]] than to tool procurement.
 
 ## What this means for practice
 

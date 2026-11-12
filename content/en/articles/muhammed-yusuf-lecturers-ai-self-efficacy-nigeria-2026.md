@@ -1,7 +1,7 @@
 ---
 title: "Qualitative Analysis of Lecturers' Self-Efficacy and Perception of Artificial Intelligence Tools for Educational Practices in Higher Education"
 created: "2026-10-29T10:36:00-04:00"
-updated: "2026-10-29T10:36:00-04:00"
+updated: "2026-11-12T18:40:00-05:00"
 type: article
 authors: ["Muhammed, A. A.", "Yusuf, M. O."]
 published: "2026-10-28"
@@ -45,7 +45,7 @@ Self-efficacy in this study is a belief statement, and the interviews show how t
 
 ## The disciplinary split and what it is really about
 
-The finding that science lecturers adopt and humanities lecturers hesitate is easy to read as temperament and is better read as a claim about the object of study. A lecturer in literature or discourse analysis is judging whether a tool can handle ambiguity, register and cultural meaning, and their skepticism is a professional judgment about fit rather than resistance to technology — the paper itself notes that these lecturers felt the tools did not align with local cultural contexts or the creative and critical demands of their subjects. That interpretation has a consequence for [[professional-training|faculty development]]: a generic workshop teaches everyone the same tool for the same tasks, and what this study describes is a faculty whose needs diverge by what they teach. It also explains the otherwise puzzling co-occurrence of high confidence and low use in the same interviews.
+The finding that science lecturers adopt and humanities lecturers hesitate is easy to read as temperament and is better read as a claim about the object of study. A lecturer in literature or discourse analysis is judging whether a tool can handle ambiguity, register and cultural meaning, and their skepticism is a professional judgment about fit rather than resistance to technology — the paper itself notes that these lecturers felt the tools did not align with local cultural contexts or the creative and critical demands of their subjects. That interpretation has a consequence for [[educational-development|faculty development]]: a generic workshop teaches everyone the same tool for the same tasks, and what this study describes is a faculty whose needs diverge by what they teach. It also explains the otherwise puzzling co-occurrence of high confidence and low use in the same interviews.
 
 ## When the shared concern is integrity
 

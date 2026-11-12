@@ -1,7 +1,7 @@
 ---
 title: "Prompted to Explore: A Microlearning Model for Faculty Development in Generative AI"
 created: "2026-11-10T20:45:00-05:00"
-updated: "2026-11-10T20:45:00-05:00"
+updated: "2026-11-12T18:40:00-05:00"
 type: article
 sources: ['raw/papers/bodek-prompted-to-explore-microlearning-2026.md']
 source_url: "https://doi.org/10.14434/jotlt.v12i1.41614"
@@ -25,7 +25,7 @@ ai_assist:
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Bodek, Park, and Valcin (2026) describe the Summer Prompt Challenge at Pennsylvania State University, a twelve-week asynchronous microlearning program that sent faculty one [[generative-ai|GenAI]] prompt each Monday, invited them to try it in Microsoft Copilot, and gave them a Teams space and a SharePoint site to share results. The design is deliberately low-stakes: no synchronous workshops, no required deliverable, a weekly email that can be completed in the time it takes to read it, and an optional digital badge at the end. Of 81 participants, 27 answered the end-of-year survey, and the authors report a significant upward shift in self-reported GenAI use (Wilcoxon Z = -3.52, p = .001) along with time savings, better-organized materials, and a ripple effect into colleagues' and students' practice. The evidence is a single-institution program evaluation built on self-report and engagement analytics, not a controlled study, and the paper is most useful as a replicable design pattern for [[professional-training|faculty development]].
+> **Synthesis:** Bodek, Park, and Valcin (2026) describe the Summer Prompt Challenge at Pennsylvania State University, a twelve-week asynchronous microlearning program that sent faculty one [[generative-ai|GenAI]] prompt each Monday, invited them to try it in Microsoft Copilot, and gave them a Teams space and a SharePoint site to share results. The design is deliberately low-stakes: no synchronous workshops, no required deliverable, a weekly email that can be completed in the time it takes to read it, and an optional digital badge at the end. Of 81 participants, 27 answered the end-of-year survey, and the authors report a significant upward shift in self-reported GenAI use (Wilcoxon Z = -3.52, p = .001) along with time savings, better-organized materials, and a ripple effect into colleagues' and students' practice. The evidence is a single-institution program evaluation built on self-report and engagement analytics, not a controlled study, and the paper is most useful as a replicable design pattern for [[educational-development|faculty development]].
 
 ## Key Findings
 

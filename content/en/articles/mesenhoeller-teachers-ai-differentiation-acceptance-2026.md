@@ -1,7 +1,7 @@
 ---
 title: "Empowering teachers to use AI for differentiation: changes in teachers’ acceptance of AI-based technologies following participation in a short professional development training session"
 created: "2026-09-23T12:30:00-04:00"
-updated: "2026-09-23T12:30:00-04:00"
+updated: "2026-11-12T18:40:00-05:00"
 type: article
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [professional-training]
@@ -26,7 +26,7 @@ reviewed_by: [editor]
 
 ---
 
-> **Synthesis:** Mesenhöller and Böhme (2026) report a pilot pre-post evaluation of INSIGHT (Information on Schooling with Generative and Helpful AI Tools), a three-hour [[professional-training|teacher professional development]] session on AI-based technologies in schools, with a focus on [[llm|large language models]]. Drawing on the [[technology-acceptance-model|Technology Acceptance Model]], the authors measured social acceptance as perceived usefulness, perceived ease of use, and behavioral intention among 100 German teachers from primary and [[k-12|secondary education]] in one federal state, using a pre-post design without a control group. Paired-samples t-tests showed significant pre-to-post increases in perceived usefulness and perceived ease of use, but no significant change in behavioral intention to use AI-based technologies for differentiation. Teachers also rated the training as highly helpful and broadly relevant. Taken together, the findings suggest that a short, practice-oriented training can shift how teachers judge AI tools without, on its own, shifting their stated intention to adopt them in everyday instructional practice.
+> **Synthesis:** Mesenhöller and Böhme (2026) report a pilot pre-post evaluation of INSIGHT (Information on Schooling with Generative and Helpful AI Tools), a three-hour [[educational-development|teacher professional development]] session on AI-based technologies in schools, with a focus on [[llm|large language models]]. Drawing on the [[technology-acceptance-model|Technology Acceptance Model]], the authors measured social acceptance as perceived usefulness, perceived ease of use, and behavioral intention among 100 German teachers from primary and [[k-12|secondary education]] in one federal state, using a pre-post design without a control group. Paired-samples t-tests showed significant pre-to-post increases in perceived usefulness and perceived ease of use, but no significant change in behavioral intention to use AI-based technologies for differentiation. Teachers also rated the training as highly helpful and broadly relevant. Taken together, the findings suggest that a short, practice-oriented training can shift how teachers judge AI tools without, on its own, shifting their stated intention to adopt them in everyday instructional practice.
 
 ## Key Findings
 

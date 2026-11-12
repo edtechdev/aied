@@ -1,7 +1,7 @@
 ---
 title: "Scandinavian teachers' attitudes toward generative artificial intelligence: Exploration of associations"
 created: "2026-11-09T09:35:00-05:00"
-updated: "2026-11-09T09:35:00-05:00"
+updated: "2026-11-12T18:40:00-05:00"
 type: article
 page_kind: [evaluation]
 research_method: [secondary analysis]
@@ -25,7 +25,7 @@ methods: [quantitative-research]
 institutions: [educational-policy-ai]
 ---
 
-> **Synthesis:** Scandinavian teachers answered the TALIS 2024 module on [[generative-ai|generative AI]] with uncertainty rather than a verdict. Asked whether the technology helps with lesson planning, differentiation, individual support, and administrative work, and whether it enables misrepresentation, bad recommendations, bias, privacy loss, and unsuitable pedagogy, large shares answered "I don't know" to both halves. White and colleagues use the 455 Norwegian, 818 Danish, and 886 Swedish lower-secondary teachers who received the GenAI form — 386, 728, and 751 respectively in the regression models after listwise deletion — and find that the two strongest correlates of settled attitudes are personal use in the last 12 months and GenAI-related [[professional-training|professional development]]. Users sit 0.72 SD higher on agreement with benefits and 0.26 SD lower on uncertainty about them; PD recipients sit 0.20 SD higher on benefits. Concerns do not fall in step. Users agree with the concern statements more often than non-users, and women and master's-degree holders agree more with concerns without agreeing more with benefits — experience buys clarity, not optimism.
+> **Synthesis:** Scandinavian teachers answered the TALIS 2024 module on [[generative-ai|generative AI]] with uncertainty rather than a verdict. Asked whether the technology helps with lesson planning, differentiation, individual support, and administrative work, and whether it enables misrepresentation, bad recommendations, bias, privacy loss, and unsuitable pedagogy, large shares answered "I don't know" to both halves. White and colleagues use the 455 Norwegian, 818 Danish, and 886 Swedish lower-secondary teachers who received the GenAI form — 386, 728, and 751 respectively in the regression models after listwise deletion — and find that the two strongest correlates of settled attitudes are personal use in the last 12 months and GenAI-related [[educational-development|professional development]]. Users sit 0.72 SD higher on agreement with benefits and 0.26 SD lower on uncertainty about them; PD recipients sit 0.20 SD higher on benefits. Concerns do not fall in step. Users agree with the concern statements more often than non-users, and women and master's-degree holders agree more with concerns without agreeing more with benefits — experience buys clarity, not optimism.
 
 ## Key Findings
 
