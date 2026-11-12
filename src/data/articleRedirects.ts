@@ -10,6 +10,8 @@
 // ingested twice), so there is no registry block to generate this from.
 
 export const ARTICLE_REDIRECTS: Record<string, string> = {
+  // Duplicate ingestion of the same DOI (Yuan et al., 10.3389/fpsyg.2026.1981507); merged 2026-11-12.
+  'teachers-bpns-genai-intentions-2026': 'yuan-teacher-need-satisfaction-genai-2026',
   // Duplicate ingestion of the same study as automated-scoring-learning-diagnosis-mechanism-2026 (Yao & Fan); withdrawn.
   'automated-scoring-learning-diagnosis-english-writing-2026': 'automated-scoring-learning-diagnosis-mechanism-2026',
   // Slugs respelled to US English (same pages, renamed for house style).
