@@ -116,6 +116,7 @@ export const CONCEPT_ALIASES: Record<string, string[]> = {
   'information-and-media-literacy': ['critical media literacy', 'digital media literacy', 'information literacy', 'information literacy instruction', 'information seeking', 'information skills', 'library instruction', 'media education', 'media literacy', 'news literacy', 'search skills', 'source evaluation'],
   'information-technology': ['IT education', 'information systems education', 'applied computing education'],
   'inquiry-based-learning': ['inquiry based learning', 'inquiry learning', 'inquiry-based learning'],
+  'institutional-ai-infrastructure': ['ai infrastructure', 'inference hosting', 'inference gateway', 'llm gateway', 'ai gateway', 'enterprise ai platform', 'on-premises ai', 'on-prem ai', 'gpu cluster', 'ai devops', 'model serving', 'ai sovereignty'],
   'intelligent-tutoring': ['AI tutoring', 'ITS', 'adaptive tutor', 'ai tutor', 'ai tutors', 'build an ai tutor', 'create an ai tutor', 'design an ai tutor', 'intelligent tutoring', 'intelligent tutoring system', 'intelligent tutoring systems', 'tutoring system', 'tutoring systems', 'tutors'],
   'interpreting-and-applying-aied-research': ['applying aied research', 'applying research to practice', 'evidence-informed practice', 'interpreting aied research', 'interpreting and applying aied research', 'research translation', 'research-to-practice'],
   'item-response-theory': ['classical test theory', 'ctt', 'irt', 'item difficulty', 'item response theory'],

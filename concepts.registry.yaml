@@ -975,6 +975,21 @@ concepts:
     - inquiry based learning
     - inquiry learning
     - inquiry-based learning
+  institutional-ai-infrastructure:
+    title: Institutional AI Infrastructure
+    aliases:
+    - ai infrastructure
+    - inference hosting
+    - inference gateway
+    - llm gateway
+    - ai gateway
+    - enterprise ai platform
+    - on-premises ai
+    - on-prem ai
+    - gpu cluster
+    - ai devops
+    - model serving
+    - ai sovereignty
   intelligent-tutoring:
     title: Intelligent Tutoring
     aliases:
@@ -2516,6 +2531,7 @@ sections:
     items:
     - educational-policy-ai
     - governance
+    - institutional-ai-infrastructure
     - change-management
     - regulation
 - heading: Equity, ethics, and responsible use

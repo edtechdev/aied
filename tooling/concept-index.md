@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 233
+**Total concepts:** 234
 
 ## Foundations of AI in education
 
@@ -288,6 +288,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`change-management`** — Change Management — phrases: change management; educational reform; implementation of AI; institutional change; leading change; organizational change; organisational change
 - **`educational-policy-ai`** — Educational AI Policy — phrases: AI in education policy; ai policies; ai policy; education policy; educational AI policy; educational policy; genai policy; institutional policy; policies; policy; policy for AI
 - **`governance`** — AI Governance — phrases: AI governance; governance; governance framework; institutional
+- **`institutional-ai-infrastructure`** — Institutional AI Infrastructure — phrases: ai infrastructure; inference hosting; inference gateway; llm gateway; ai gateway; enterprise ai platform; on-premises ai; on-prem ai; gpu cluster; ai devops; model serving; ai sovereignty
 - **`regulation`** — AI Regulation in Education — phrases: AI regulation; regulation; regulatory; regulatory framework
 
 ## Equity, ethics, and responsible use

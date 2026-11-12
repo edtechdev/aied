@@ -82,7 +82,7 @@ export const conceptIndex: ConceptSection[] = [
   {
     heading: 'Institutions and policy',
     groups: [
-      { label: 'Institutions', items: ['educational-policy-ai', 'governance', 'change-management', 'regulation'] },
+      { label: 'Institutions', items: ['educational-policy-ai', 'governance', 'institutional-ai-infrastructure', 'change-management', 'regulation'] },
     ],
   },
   {

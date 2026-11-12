@@ -325,10 +325,12 @@
 - resource: mindrouter
   reviewed: '2026-11-12'
   hosts:
+  - institutional-ai-infrastructure
   - open-source
   reason: 'Running a campus inference gateway on institutional GPUs is the concreteness the open-source page argues for — the licence is Apache-2.0 and the sovereignty claim depends on it — so the page now lists MindRouter in connected_resources. Not listed on governance: that page covers policy and accountability for adopted AI, and this tool is infrastructure rather than a governance instrument, though a hosting-and-devops concept page would be its proper home if one is created.'
 - resource: amplify-genai
   reviewed: '2026-11-12'
   hosts:
+  - institutional-ai-infrastructure
   - open-source
   reason: 'Amplify is an MIT-licensed platform an institution deploys into its own cloud account, which is the openness argument the open-source page makes in practice; the page now lists it in connected_resources. Not listed on rag: the platform uses retrieval but is not a method the page documents. Not listed on governance: the cost-accounting and per-user-limit features are operational controls, not the policy and accountability questions that page covers. Both infrastructure resources would belong on a future enterprise-AI-hosting concept page, which does not exist yet.'
