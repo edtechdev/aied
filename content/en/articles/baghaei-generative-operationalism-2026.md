@@ -44,7 +44,7 @@ Baghaei and Eryilmaz draw on causal realism to state what would discriminate: an
 
 The constructive half of the argument specifies what has to be in place before a model writes items. Researchers articulate the content boundaries of the construct, its relevant facets, the hypothesized response processes, the intended population and the construct-irrelevant processes that should be minimized. The model is then used to instantiate items inside those constraints, not to discover the construct.
 
-This is why the authors treat [[automated-question-generation]] as a design practice rather than a prompting trick. The question a developer should be able to answer is not "how many items did the model produce" but "which facet of the construct is this item sampling, and what would a respondent with a high level of the attribute do differently on it". Where that cannot be answered, the item's provenance — not just its statistics — is what has gone missing.
+This is why the authors treat [[automated-question-generation]] as a design practice rather than a [[prompt-engineering|prompting]] trick. The question a developer should be able to answer is not "how many items did the model produce" but "which facet of the construct is this item sampling, and what would a respondent with a high level of the attribute do differently on it". Where that cannot be answered, the item's provenance — not just its statistics — is what has gone missing.
 
 ## What this means for practice
 
@@ -56,7 +56,7 @@ This is why the authors treat [[automated-question-generation]] as a design prac
 ## Limitations
 
 - The article reports no empirical data: there is no sample, no instrument and no test of whether theory-displacing generation is common in practice or how often it produces invalid scales.
-- Its examples, such as a model repeatedly generating worry and nervousness items for neuroticism, are illustrative rather than drawn from a systematic review of deployed item banks.
+- Its examples, such as a model repeatedly generating worry and nervousness items for neuroticism, are illustrative rather than drawn from a [[meta-analysis-systematic-review|systematic review]] of deployed item banks.
 - The proposal is programmatic: it specifies conditions for warranted use without operational criteria for deciding when a construct specification is detailed enough.
 - The argument does not weigh the cost of the additional specification work against the labor savings that make generative item development attractive in the first place.
 

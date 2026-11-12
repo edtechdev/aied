@@ -24,7 +24,7 @@ ai_assist:
 
 - Can you name the AI tools your staff and faculty used last month, or only the ones you bought?
 - What does your institution require someone to do to get a tool approved, and how long does that take compared with the week in which a new model ships?
-- If a teacher uploads student work to an unapproved tool today, who finds out — and would anyone know if it never caused a visible incident?
+- If a [[teacher-role|teacher]] uploads student work to an unapproved tool today, who finds out — and would anyone know if it never caused a visible incident?
 - Is the absence of guidance in your institution a decision, or a gap that individual educators are filling on your behalf?
 - What would you have to publish for a cautious educator to choose the sanctioned path without losing a week of preparation?
 
@@ -42,7 +42,7 @@ The proximate cause is usually missing guidance. Educators in the German study d
 
 The structural cause is speed. Procurement cycles and policy committees move at the pace of institutions; model releases move at the pace of vendors. A tool that a colleague demonstrates on Monday can be in use by Friday, and the approval process that would have caught it has not opened yet.
 
-The motivational cause is utility, and it is not close. In the ASU survey, pedagogical utility accounted for 213 of the selections educators gave for choosing a tool, functional convenience 155, accessibility 187 and cost 164. Security was named by 24 of 375. Discovery ran through people rather than procurement: 290 learned about tools from professional peers, 141 from administrators, 100 from search, and 100 from advertising.
+The [[motivation|motivational]] cause is utility, and it is not close. In the ASU survey, [[pedagogy|pedagogical]] utility accounted for 213 of the selections educators gave for choosing a tool, functional convenience 155, accessibility 187 and cost 164. Security was named by 24 of 375. Discovery ran through people rather than procurement: 290 learned about tools from professional peers, 141 from administrators, 100 from search, and 100 from advertising.
 
 Cost and access deserve their own line. Free tiers are the reason many educators can try a tool at all, and the reason the institution cannot see the trial. When the sanctioned alternative is a licensed seat with a waiting list, the free tool wins on the only criterion the teacher is measuring that afternoon.
 
@@ -54,15 +54,15 @@ That last step is the one institutions should study. It is also the one that mak
 
 ## What it costs
 
-The ASU survey gives the harm side concrete numbers. Of 375 educators, 167 encountered privacy- or security-invasive behavior and uninstalled the app, 108 of them in K-12. But 62 who worried their data was being sold or shared kept the tools anyway, citing workflow dependence. Administrators named 16 serious concerns, led by data leakage and privacy invasion.
+The ASU survey gives the harm side concrete numbers. Of 375 educators, 167 encountered privacy- or security-invasive behavior and uninstalled the app, 108 of them in [[k-12]]. But 62 who worried their data was being sold or shared kept the tools anyway, citing workflow dependence. Administrators named 16 serious concerns, led by data leakage and privacy invasion.
 
-Integration is where exposure compounds. K-12 educators connected 341 apps to institutional systems and higher education educators 116, and most of those apps required account provisioning. Nearly a third of K-12 educators, 30.3%, knew of an institutional policy covering unsanctioned use; 22 admitted violating one.
+Integration is where exposure compounds. K-12 educators connected 341 apps to institutional systems and [[higher-ed|higher education]] educators 116, and most of those apps required account provisioning. Nearly a third of K-12 educators, 30.3%, knew of an [[educational-policy-ai|institutional policy]] covering unsanctioned use; 22 admitted violating one.
 
 The [[privacy|privacy]] problem is structural rather than individual. A tool that receives a class list, an IEP or a disciplinary note has created a record the institution did not authorize, cannot audit, and may only learn about when a breach notification arrives.
 
 ## What teachers actually do about it
 
-The district study is the most useful corrective to the image of the careless adopter. Teachers there had a district-wide platform, MagicSchool AI, and still used general systems such as ChatGPT and Gemini. Their boundaries were pedagogical: one allowed AI during growth work and withdrew it at mastery, so students had to demonstrate the skill unaided. A special education teacher taught fourth graders to interrogate authorship, treating rephrasing as acceptable and idea generation as not.
+The district study is the most useful corrective to the image of the careless adopter. Teachers there had a district-wide platform, MagicSchool AI, and still used general systems such as [[generative-ai|ChatGPT]] and Gemini. Their boundaries were pedagogical: one allowed AI during growth work and withdrew it at mastery, so students had to demonstrate the skill unaided. A [[special-education|special education]] teacher taught fourth graders to interrogate authorship, treating rephrasing as acceptable and idea generation as not.
 
 Voice and privacy followed. Teachers rewrote outputs so materials still sounded like them, cross-checked facts, and treated generated text as a majority source rather than an authority. They redacted student names and used district accounts deliberately, so that their usage could be audited if it were challenged. That is [[human-ai-collaboration|collaborative sensemaking]] with an audit trail, and it is closer to what a governance office says it wants than to what a compliance report usually captures.
 
@@ -76,7 +76,7 @@ The second is to shorten the path. [[sheneman-mindrouter-institutional-ai-sovere
 
 The third is to measure what is being spent and used, including the spend that never reached a purchase order. EDUCAUSE's 13% ROI figure suggests that most institutions cannot currently answer whether the sanctioned tools are earning their seats, which leaves the argument for them resting on authority alone.
 
-The fourth is to treat [[ai-literacy|AI literacy]] as a control, not a curriculum add-on. A teacher who can read a data policy, recognize a vendor's retention terms and redact a student name is doing risk management that no approval form replaces.
+The fourth is to treat [[ai-literacy|AI literacy]] as a control, not a [[curriculum-design|curriculum]] add-on. A teacher who can read a data policy, recognize a vendor's retention terms and redact a student name is doing risk management that no approval form replaces.
 
 ## Common Misconceptions
 
@@ -95,7 +95,7 @@ Three sources address shadow AI directly and cannot be ingested here: two closed
 - [Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI](https://doi.org/10.1016/j.chb.2026.109243) — Lovett and Yang, *Computers in Human Behavior*, article 109243, November 2026. Survey evidence from recent workplace AI users, with habit carrying the largest relative-importance weight and personal payment for tools associated with elevated shadow AI.
 - [Shadow AI Isn't a Threat: It's a Signal](https://campustechnology.com/articles/2026/02/04/shadow-ai-isnt-a-threat-its-a-signal.aspx) — Damien Eversmann, *Campus Technology*, February 2026. A practitioner argument that unauthorized use reports an unmet need: faculty drafting lesson plans, researchers spinning up cloud GPUs on departmental cards, and staff pasting sensitive data into consumer tools because the approved path was slower.
 
-- [Shadow AI, Human Oversight, and Institutional Trust: A Socio-technical Model of Responsible AI Governance in the Public Sector](https://doi.org/10.1007/978-3-032-38498-0_11) — Jonathan and colleagues, Springer, 2026. PLS-SEM on 214 public sector employees, treating shadow AI as the mechanism linking governance conditions to responsible use.
+- [Shadow AI, [[human-in-the-loop-ai|Human Oversight]], and Institutional Trust: A Socio-technical Model of [[ethics|Responsible AI]] Governance in the Public Sector](https://doi.org/10.1007/978-3-032-38498-0_11) — Jonathan and colleagues, Springer, 2026. PLS-SEM on 214 public sector employees, treating shadow AI as the mechanism linking governance conditions to responsible use.
 
 ## Connected Concepts
 

@@ -53,7 +53,7 @@ The payoff is indirection. A request names a model and points at LiteLLM's stabl
 
 ## Keeping inference alive with scrontab
 
-Batch schedulers are built to end jobs, the opposite of what a persistent service needs. The answer is not to exempt inference from the scheduler but to make resubmission continuous. A scrontab entry attempts submission every 5 minutes, and `--dependency=singleton` ensures a running instance suppresses a duplicate. If the job died from node failure, a fatal server error, or maintenance, the next interval restarts it without an administrator.
+Batch schedulers are built to end jobs, the opposite of what a persistent service needs. The answer is not to exempt inference from the scheduler but to make resubmission continuous. A scrontab entry attempts submission every 5 minutes, and `--dependency=singleton` ensures a running instance suppresses a duplicate. If the job died from node failure, a fatal server error, or maintenance, the next interval restarts it without an [[administrator]].
 
 Each job runs vLLM as an Apptainer instance, discovers an open port, generates a random API key, and then calls LiteLLM to add or update the model's `api_base` and `api_key`, creating the entry when absent and patching it when present.
 
@@ -82,7 +82,7 @@ The seam is instructive. LiteLLM has no native Triton support for image generati
 
 Model selection was constrained before it was technical. The Georgia Technology Authority prohibits DeepSeek and Qwen on state-owned IT resources, so those families were unavailable regardless of benchmark performance — a [[governance|governance]] constraint preceding any quality argument. The initial catalog reflected pilot use cases: Llama-3.1-70B-Instruct-AWQ-INT4 for text, InternVL3_5-14B-Instruct for image and video understanding, granite-embedding-278m-multilingual for embeddings, and Stable Diffusion XL for image generation.
 
-Pilots included the Human-Augmented Analytics Group, which supports research experience for online master's students in computer science. One project built a Model Context Protocol tool that evaluates wildlife field-camera video, marking a video positive if any run detects a bird; SPIN's image/video-to-text model identifies the bird. The Open Source Program Office adapted training tutorials to SPIN.
+Pilots included the Human-Augmented [[learning-analytics|Analytics]] Group, which supports research experience for online master's students in [[cs-education|computer science]]. One project built a Model Context Protocol tool that evaluates wildlife field-camera video, marking a video positive if any run detects a bird; SPIN's image/video-to-text model identifies the bird. The Open Source Program Office adapted training tutorials to SPIN.
 
 ## What this means for practice
 

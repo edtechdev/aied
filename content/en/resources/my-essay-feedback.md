@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T09:40:00-05:00"
-updated: "2026-11-12T09:40:00-05:00"
+updated: "2026-11-12T18:05:00-05:00"
 type: resource
 summary: "An instructor-controlled AI feedback platform for college essays: feedback prompts drawn from an OER library of 200+ types, structured student reflections on each AI suggestion, an instructor dashboard with an AI class summary, and LTI integration with Canvas, Blackboard and Moodle."
 url: https://myessayfeedback.ai/
@@ -24,11 +24,11 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-MyEssayFeedback puts the instructor between the student and the model. Rather than handing students a general chatbot, an instructor sets an assignment, chooses which kinds of feedback the AI may give, and then reads both the drafts and the students' written reflections on what the AI said. The design bets that the value of AI feedback lies in the revision conversation it starts, not in the volume of comments it produces.
+MyEssayFeedback puts the instructor between the student and the model. Rather than handing students a general chatbot, an instructor sets an assignment, chooses which kinds of feedback the AI may give, and then reads both the drafts and the students' written reflections on what the AI said. The design bets that the value of [[feedback|AI feedback]] lies in the revision conversation it starts, not in the volume of comments it produces.
 
 ## What you can do with it
 
-Create an assignment and pick feedback types from the platform's [OER library of 200+ shared prompts](https://myessayfeedback.ai/oer/types-of-feedback-library) — thesis development, argument structure, evidence, grammar, style — or write your own. Students submit a draft through the LMS or an access code, receive feedback on the aspects you selected, and then complete a structured reflection: what they accept, what they question, what they will change. The instructor dashboard shows each essay beside the feedback and the reflection, and an AI-generated class summary reports the cohort's recurring strengths and weaknesses so the next class session can target them. Peer review sits alongside the AI loop, and integration runs through LTI into Canvas, Blackboard and Moodle.
+Create an assignment and pick feedback types from the platform's [OER library of 200+ shared prompts](https://myessayfeedback.ai/oer/types-of-feedback-library) — thesis development, argument structure, evidence, grammar, style — or write your own. Students submit a draft through the LMS or an access code, receive feedback on the aspects you selected, and then complete a structured [[reflection|reflection]]: what they accept, what they question, what they will change. The instructor dashboard shows each essay beside the feedback and the reflection, and an AI-generated class summary reports the cohort's recurring strengths and weaknesses so the next class session can target them. [[peer-review|Peer review]] sits alongside the AI loop, and integration runs through LTI into Canvas, Blackboard and Moodle.
 
 The reflection step is the part worth studying: it is an explicit attempt to make [[ai-feedback-quality|AI feedback]] an object of judgment rather than an answer key, and it is closest to what [[feedback-literacy|feedback literacy]] research describes as the skill that decides whether comments change a draft at all. Because the loop is built around revision rather than a grade, it also functions as [[formative-assessment|formative assessment]] infrastructure — though the platform itself does not grade.
 

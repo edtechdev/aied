@@ -32,17 +32,17 @@ ai_assist:
 
 ## Introduction
 
-Institutions spent the first years of generative AI buying access: a chatbot license here, a writing assistant there, each with its own terms and its own data path. The result is a portfolio nobody can describe in one sentence, and a set of questions — where did that prompt go, who approved this model, what did we spend — that no single office can answer.
+Institutions spent the first years of [[generative-ai|generative AI]] buying access: a [[conversational-ai|chatbot]] license here, a writing assistant there, each with its own terms and its own data path. The result is a portfolio nobody can describe in one sentence, and a set of questions — where did that prompt go, who approved this model, what did we spend — that no single office can answer.
 
 Treating AI as infrastructure is the response. It means a shared serving layer, a gateway that applies the institution's rules to every request, and enough telemetry to see cost, load and failure. The claim in the literature is not that this is cheaper. It is that it makes the institution the party that decides, which is a different kind of claim and a harder one to test.
 
-The papers collected here also widen what counts as infrastructure. Two concern inference for chat and teaching, one concerns the registrar's office, and one concerns assessment records. Once course articulation, workload analytics and evidence accumulation depend on embeddings and model calls, the back office is as much a part of the stack as the GPU rack. That is the argument this page now makes: infrastructure is wherever an institution has quietly delegated a decision to a model.
+The papers collected here also widen what counts as infrastructure. Two concern inference for chat and teaching, one concerns the registrar's office, and one concerns assessment records. Once course articulation, workload [[learning-analytics|analytics]] and evidence accumulation depend on embeddings and model calls, the back office is as much a part of the stack as the GPU rack. That is the argument this page now makes: infrastructure is wherever an institution has quietly delegated a decision to a model.
 
 ## What you are actually choosing
 
 The field describes six shapes, not two. They differ in who holds the data, who can change the model, and who absorbs the failure.
 
-**Free outsourced tools.** Staff or students use a vendor's service at no cost. AI Tutor Pro, from Contact North in Canada, is the clearest case: free, anonymous, no account required, with modes for discussion, self-checking and study-guide building. Playlab sits in the same band, letting educators construct apps grounded in their own curriculum while the vendor hosts the models. The cost is not zero but deferred: no institutional audit trail, no quota control, and terms that can change without notice. This is a defensible place to pilot and a poor place to settle.
+**Free outsourced tools.** Staff or students use a vendor's service at no cost. [[intelligent-tutoring|AI Tutor]] Pro, from Contact North in Canada, is the clearest case: free, anonymous, no account required, with modes for discussion, [[self-assessment|self-checking]] and study-guide building. Playlab sits in the same band, letting educators construct apps grounded in their own [[curriculum-design|curriculum]] while the vendor hosts the models. The cost is not zero but deferred: no institutional audit trail, no quota control, and terms that can change without notice. This is a defensible place to pilot and a poor place to settle.
 
 **Seats on a commercial education tenant.** A district or university buys ChatGPT Edu, Microsoft 365 Copilot, Google Gemini for Education or a comparable tenant. Procurement is fast, SSO and an admin console come included, and the vendor owns model choice and retention. The institution gains identity integration and loses the ability to route around a provider.
 
@@ -62,7 +62,7 @@ Three implementations now describe the same architectural move with unusual cons
 
 [[huijts-suilen-institutional-ai-sovereignty-gateway-2025|Huijts and Suilen]] at Fontys ICT separate a ChatGPT-style frontend tied to institutional identity, a routing core that enforces budgets and regional constraints, and a provider layer of local and commercial models. Six months and 300 users later, a \$500 monthly cap had never been breached, and every session opened with a model card naming capabilities, hosting region, cost and alternatives.
 
-[[sheneman-mindrouter-institutional-ai-sovereignty-2026|MindRouter]] pushes the same idea into scheduling. Requests are weighted by role — administrator 10, faculty 5, staff 2, student 1 — through Weighted Deficit Round Robin, and backend selection adds soft scores for latency, load and administrator preference. The gateway keeps the audit log, and it meters energy as well as tokens.
+[[sheneman-mindrouter-institutional-ai-sovereignty-2026|MindRouter]] pushes the same idea into scheduling. Requests are weighted by role — [[administrator]] 10, faculty 5, staff 2, student 1 — through Weighted Deficit Round Robin, and backend selection adds soft scores for latency, load and administrator preference. The gateway keeps the audit log, and it meters energy as well as tokens.
 
 [[rahaman-soa-on-prem-ai-gateway-2026|SPIN at Georgia Tech]] makes the split explicit at the API boundary: LiteLLM and PostgreSQL on a CPU-only virtual machine, vLLM and Triton on GPU nodes inside Slurm, with backend host, port and key resolved from the database at request time. Replacing a model becomes a database update invisible to clients.
 
@@ -70,7 +70,7 @@ The differences are instructive. Fontys governs a multi-provider portfolio, Mind
 
 ## Serving is a policy, not a benchmark
 
-[[rodenbeck-purdue-on-prem-genai-inference-2025|Purdue's two services]] reached over 1000 users on 10+ open-source models for roughly \$100,000 in hardware, with about 40% active monthly. The decision that matters is that the team kept Ollama rather than vLLM despite vLLM's 4-5x throughput advantage, because supporting many models mattered more than raw speed for a community that wants to try things.
+[[rodenbeck-purdue-on-prem-genai-inference-2025|Purdue's two services]] reached over 1000 users on 10+ [[open-source]] models for roughly \$100,000 in hardware, with about 40% active monthly. The decision that matters is that the team kept Ollama rather than vLLM despite vLLM's 4-5x throughput advantage, because supporting many models mattered more than raw speed for a community that wants to try things.
 
 SPIN's load test gives the other half of the picture. Against a mocked engine at 1000 concurrent requests per second, an 8-vCPU gateway VM reached 76% of the ideal aggregate rate, while 8-worker bare metal reached 98%. The proxy tier is cheap until it is not, and the threshold is measurable rather than mysterious.
 
@@ -86,9 +86,9 @@ Running locally changes the privacy question from contractual to physical, and i
 
 ## The back office is infrastructure too
 
-[[pardos-borchers-institutional-workflows-oecd-2026|Pardos and Borchers]] argue that the consequential site of AI in education is not the chat window but the registrar, the advising office and the curriculum committee. Their examples are embeddings rather than conversations: course vectors learned from enrollment histories, machine translation between two institutions' vector spaces, and tagging pipelines that map open resources onto a standard.
+[[pardos-borchers-institutional-workflows-oecd-2026|Pardos and Borchers]] argue that the consequential site of [[ai-education|AI in education]] is not the chat window but the registrar, the advising office and the curriculum committee. Their examples are embeddings rather than conversations: course vectors learned from enrollment histories, machine translation between two institutions' vector spaces, and tagging pipelines that map open resources onto a standard.
 
-The numbers are specific. Embedding-based transfer prediction validated 65 existing articulations and is now piloted with 59 institutions and four systems of higher education. Credit hours explained only 6% of variance in perceived workload, while LMS activity features explained 36%. Collaborative AI tagging cut time by roughly 50% but reduced accuracy by 35%.
+The numbers are specific. Embedding-based transfer prediction validated 65 existing articulations and is now piloted with 59 institutions and four systems of [[higher-ed|higher education]]. Credit hours explained only 6% of variance in perceived workload, while LMS activity features explained 36%. Collaborative AI tagging cut time by roughly 50% but reduced accuracy by 35%.
 
 The adoption finding is the one infrastructure planners should keep. In a 2×2 experiment, hiding low-confidence outlier recommendations raised administrator acceptance and productivity, while asking users to flag recommendations lowered acceptance unless outliers were shown. A more accurate recommender can still fail because of how its output is presented, which makes interface design part of the infrastructure rather than a finishing touch.
 

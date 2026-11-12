@@ -31,11 +31,11 @@ technology: [generative-ai]
 
 1. **The question moves from AI assessing students to students assessing AI.** Scoring, feedback and [[learning-analytics|analytics]] make the system the evaluator; generative AI requires learners to judge whether machine output is accurate and useful.
 2. **AI evaluative judgment sits inside AI literacy rather than beside it.** A learner may know generative AI can be biased yet fail to see that a message is wrong for its product and audience.
-3. **The loop is recursive rather than a checklist.** The learner evaluates against criteria, chooses provisional acceptance, direct revision, or rejection and re-prompting, then verifies and justifies, returning to evaluation while the artifact is unfit.
+3. **The loop is recursive rather than a checklist.** The learner evaluates against criteria, chooses provisional acceptance, direct revision, or rejection and re-[[prompt-engineering|prompting]], then verifies and justifies, returning to evaluation while the artifact is unfit.
 4. **Verification, not volume of editing, is what evidences judgment.** Acceptance can demonstrate judgment when it follows explicit checking, while cosmetic or unsupported revision demonstrates nothing about the quality of the decision.
 5. **Criteria are domain-specific and replaceable.** Accuracy, occupational standards, compliance, safety and audience fit differ by occupation; aesthetic appropriateness is one context-specific example rather than a universal standard.
 6. **Process traces are partial evidence.** A prompt shows what was requested but not why, a version history shows what changed but not which standard guided it, and a rationale can be retrospective.
-7. **Self-report cannot substitute for observed judgment.** Confidence, AI literacy scores and anxiety measures describe perception, and a confident student may still accept an inappropriate suggestion without verification.
+7. **Self-report cannot substitute for observed judgment.** Confidence, AI literacy scores and [[anxiety-and-stress|anxiety]] measures describe perception, and a confident student may still accept an inappropriate suggestion without verification.
 
 ## Three roles, three different questions
 
@@ -56,7 +56,7 @@ Vocational competence is not isolated technical skill but the integration of kno
 ## What this means for practice
 
 - **Instructors.** Ask for the rationale behind an accepted AI suggestion, not only the final version: the framework treats justified acceptance as stronger evidence than an unexplained edit.
-- **Assessment designers.** State the criteria explicitly — accuracy, occupational standards, compliance, safety, audience fit, ethics — and score the decision and its basis rather than the amount of human intervention.
+- **Assessment designers.** State the criteria explicitly — accuracy, occupational standards, compliance, safety, audience fit, [[ethics]] — and score the decision and its basis rather than the amount of human intervention.
 - **Faculty developers.** Build calibration against practitioner standards, since the authors argue criteria must be specified in local tasks and rubrics rather than borrowed from a generic one.
 - **Administrators.** Set rules for collecting interaction records and version histories before requiring them: the same traces that evidence judgment raise surveillance concerns.
 - **Researchers.** Test the loop with deliberately flawed or mismatched AI content and compare observed decisions against AI literacy scores, confidence and anxiety rather than treating those as proxies.

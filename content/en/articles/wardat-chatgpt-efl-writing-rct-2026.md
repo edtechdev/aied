@@ -75,7 +75,7 @@ The reading these results support is [[constructivist|social-constructivist]] an
 - Randomization was at the individual level inside eight intact classes taught by four instructors, and the ANCOVA modeled no university, class or instructor clustering, so standard errors may be sensitive to unmodeled dependence.
 - The intervention combined ChatGPT with instructor guidance, prompt training, critical evaluation, revision and reflection, so the effect cannot be attributed to the tool alone.
 - The ChatGPT-assistance items went to both groups although only the experimental group had used the tool in the intervention, leaving cross-group comparability of that construct unresolved.
-- The qualitative strand drew 20 interviewees from the experimental group only and was coded by a single researcher, with peer debriefing but no second coder.
+- The [[qualitative-research|qualitative]] strand drew 20 interviewees from the experimental group only and was coded by a single researcher, with peer debriefing but no second coder.
 
 ## Citation
 

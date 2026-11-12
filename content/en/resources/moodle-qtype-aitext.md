@@ -1,7 +1,7 @@
 ---
 title: "Moodle AI Text Question Type"
 created: "2026-11-12T10:05:00-05:00"
-updated: "2026-11-12T10:05:00-05:00"
+updated: "2026-11-12T18:05:00-05:00"
 type: resource
 summary: "An open-source Moodle question type (GPL v3) that grades free-text answers with a large language model against a per-question prompt and optional marking scheme, using OpenAI, Azure or a self-hosted Ollama model and showing the AI's feedback to a human grader."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -25,11 +25,11 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-Most AI quiz integrations send every answer to a fixed grading call. This Moodle question type does the opposite: the instructor writes the rubric. Each question carries a **prompt** telling the model how to evaluate the response and an optional **marking scheme** describing how marks are awarded, so a "write a sentence in the past tense" item can specify ten marks for no errors, zero for broken grammar, and one mark off per misspelling. The model returns a mark and feedback, and an instructor can see that feedback beside the response when marking by hand.
+Most AI quiz integrations send every answer to a fixed grading call. This Moodle question type does the opposite: the instructor writes the rubric. Each question carries a **prompt** telling the model how to evaluate the response and an optional **marking scheme** describing how marks are awarded, so a "write a sentence in the past tense" item can specify ten marks for no errors, zero for broken grammar, and one mark off per misspelling. The model returns a mark and [[feedback|feedback]], and an instructor can see that feedback beside the response when marking by hand.
 
 ## What you can do with it
 
-Add an AIText question to any Moodle quiz, write the prompt and marking scheme, and test prompts with an AJAX **prompt tester** in the editing form rather than cycling through preview attempts. Grading runs through two companion question behaviors (immediate and deferred) that must be installed alongside the question type, which keeps AI marking isolated from Moodle's core behaviors; existing attempts that used the legacy `interactivecountback` behavior migrate on upgrade. If the model is unreachable, grading degrades rather than erroring, so an attempt is not lost. Because the question is a native quiz type, results land in the gradebook like any other item — which is what a course team needs before it can treat [[automated-essay-scoring|automated scoring]] as a pilot instead of a demo.
+Add an AIText question to any Moodle quiz, write the prompt and marking scheme, and test prompts with an AJAX **prompt tester** in the editing form rather than cycling through preview attempts. Grading runs through two companion question behaviors (immediate and deferred) that must be installed alongside the question type, which keeps AI marking isolated from Moodle's core behaviors; existing attempts that used the legacy `interactivecountback` behavior migrate on upgrade. If the model is unreachable, grading degrades rather than erroring, so an attempt is not lost. Because the question is a native quiz type, results land in the gradebook like any other item — which is what a course team needs before it can treat [[automated-assessment|automated scoring]] as a pilot instead of a demo.
 
 The design also puts the rubric where [[ai-feedback-quality|feedback quality]] is decided: in the prompt, written by the instructor, rather than in a vendor default. That is the honest use of the tool — criteria you can inspect and revise — though it also means the quality ceiling is the rubric, and a vague prompt produces vague marking. Institutions reach for it in the low-stakes, frequent checks that [[formative-assessment|formative assessment]] depends on, where a human would otherwise read forty short answers a night.
 

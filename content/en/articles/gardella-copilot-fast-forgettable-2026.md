@@ -40,7 +40,7 @@ Twenty-two students at a selective research university in the eastern United Sta
 
 The design was within-subjects with two sessions. In session one each participant completed one 20-minute trial paired with another participant and one 20-minute trial alone with GitHub Copilot, in a counterbalanced order drawn from the eight design permutations, using two pools of four HumanEval tasks. Session two, about one week later (mean and median 1.0 week, range 0.8 to 1.29), repeated both pools alone with no partner of either kind. Copilot ran as an editor extension on GPT-4.1, and participants had already attended a one-hour Copilot workshop and passed a screening.
 
-Performance was scored out of 100 as 20 points per task plus 5 points per task scaled by the percentage of time remaining, so completing more tasks always beat completing fewer quickly. Participants were told a secret weighting would combine session-one productivity with session-two retention and that only the top 15% would earn a \$10 bonus; neither was true, and all received the bonus. Emotion was self-reported on seven-point valence and arousal scales three times in session one, workload through four NASA-TLX subscales, and inference used OLS regression with wild cluster bootstrapping and Benjamini-Hochberg correction within each research question.
+Performance was scored out of 100 as 20 points per task plus 5 points per task scaled by the percentage of time remaining, so completing more tasks always beat completing fewer quickly. Participants were told a secret weighting would combine session-one productivity with session-two retention and that only the top 15% would earn a \$10 bonus; neither was true, and all received the bonus. Emotion was [[self-report-measures|self-reported]] on seven-point valence and arousal scales three times in session one, workload through four NASA-TLX subscales, and inference used OLS regression with wild cluster bootstrapping and Benjamini-Hochberg correction within each research question.
 
 ## Why speed did not become learning
 
@@ -52,7 +52,7 @@ Time is the competing explanation, and the authors address it directly. Copilot 
 
 ## What this means for practice
 
-- **Instructors:** keep human pair programming in the course design. It produced lower performance and higher workload in this study, but also more positive, more aroused engagement and a retention trend that favored it.
+- **Instructors:** keep human pair programming in the [[learning-design|course design]]. It produced lower performance and higher workload in this study, but also more positive, more aroused engagement and a retention trend that favored it.
 - **Instructors:** treat fast completion as a signal to check understanding, not as evidence of it. The AI advantage was 14.09 points in session one and had disappeared from absolute retest scores a week later.
 - **Designers:** build friction into AI assistance for learning tasks. The condition that produced the best retention required students to explain their reasoning to a partner before code existed.
 - **Administrators:** do not use time-on-task or workload as proxies for learning. The lowest mental demand, temporal demand, and effort in the study sat in the condition with the weaker retention trend.
@@ -60,7 +60,7 @@ Time is the competing explanation, and the authors address it directly. Copilot 
 
 ## Limitations
 
-The sample is 22 students, 11 pairs, at one selective university, recruited by convenience and paired by schedule rather than by any instructional pairing strategy; the authors acknowledge that inference with multi-way clustering and few clusters is difficult and that Type II errors remain possible. Two central learning comparisons sit at adjusted p=.054, and the absolute retest difference is not significant at all. The retest repeated the same HumanEval tasks after about a week, so it measures reproduction, not transfer to new problems, and Copilot was known to solve every task in a single shot, which limits how far the result extends to messier work. Participants had a fixed 20 minutes, which the authors expect would differ in naturalistic settings, and the qualitative quotes were chosen by one author with no formal coding.
+The sample is 22 students, 11 pairs, at one selective university, recruited by convenience and paired by schedule rather than by any instructional pairing strategy; the authors acknowledge that inference with multi-way clustering and few clusters is difficult and that Type II errors remain possible. Two central learning comparisons sit at adjusted p=.054, and the absolute retest difference is not significant at all. The retest repeated the same HumanEval tasks after about a week, so it measures reproduction, not transfer to new problems, and Copilot was known to solve every task in a single shot, which limits how far the result extends to messier work. Participants had a fixed 20 minutes, which the authors expect would differ in naturalistic settings, and the [[qualitative-research|qualitative]] quotes were chosen by one author with no formal coding.
 
 ## Citation
 

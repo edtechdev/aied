@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T09:05:00-05:00"
-updated: "2026-11-12T09:05:00-05:00"
+updated: "2026-11-12T18:05:00-05:00"
 type: resource
 summary: "A free account-based annotation platform where threaded discussion attaches to specific sentences, image regions and video timestamps, and where OpenAI-based 'AI Thinking Partners' can draft a reply on a selected passage for the student to edit before posting."
 url: https://nowcomment.com/
@@ -28,7 +28,7 @@ NowComment turns a text, an image or a video into a discussion surface: comments
 
 ## What you can do with it
 
-Upload a document, invite readers, and any selected passage can carry multiple conversations, displayed in a side column or inline. On top of that, the AI features are the reason to look at it now. **Ask AI** on a double-clicked sentence or paragraph opens a partner picker: the reader chooses a *GPT Thinking Partner*, writes a question, adds an optional note about the reader, and can **Resubmit** repeatedly until the output is useful. The reply is then edited in place before it is posted, which makes the student a co-author of the AI text rather than its forwarder. A directory of vetted partners sits alongside user-built ones, and the site's help materials include prompt guides that keep an assistant asking the reader to plan a revision instead of producing one. A companion *GPT Dialogue Notebook* pattern collects weekly written logs plus the readings, images and videos they connect to, with privacy set per document, so AI dialogue accumulates across a term instead of resetting each session. Built-in analytics count comments and visits per document and export to CSV.
+Upload a document, invite readers, and any selected passage can carry multiple conversations, displayed in a side column or inline. On top of that, the AI features are the reason to look at it now. **Ask AI** on a double-clicked sentence or paragraph opens a partner picker: the reader chooses a *GPT Thinking Partner*, writes a question, adds an optional note about the reader, and can **Resubmit** repeatedly until the output is useful. The reply is then edited in place before it is posted, which makes the student a co-author of the AI text rather than its forwarder. A directory of vetted partners sits alongside user-built ones, and the site's help materials include [[prompt-engineering|prompt]] guides that keep an assistant asking the reader to plan a revision instead of producing one. A companion *GPT Dialogue Notebook* pattern collects weekly written logs plus the readings, images and videos they connect to, with [[privacy|privacy]] set per document, so AI dialogue accumulates across a term instead of resetting each session. Built-in analytics count comments and visits per document and export to CSV.
 
 The annotation loop itself is a [[collaborative-learning|collaborative learning]] design in the older sense: readers respond to the same evidence, and the thread records who said what about which sentence. Because replies can be peer or AI, it also works as a low-stakes [[peer-assessment|peer assessment]] surface, and the partner prompts can be aimed at the qualities of [[ai-feedback-quality|useful AI feedback]] rather than at answers.
 

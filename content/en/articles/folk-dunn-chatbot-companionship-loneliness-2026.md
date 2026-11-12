@@ -59,7 +59,7 @@ For education this is context, not a classroom finding, and the transfer has to 
 
 ## Limitations
 
-- All measures were self-report, with no behavioral logs of chatbot use, so frequency is what participants recalled over four months rather than what they did.
+- All measures were [[self-report-measures|self-report]], with no behavioral logs of chatbot use, so frequency is what participants recalled over four months rather than what they did.
 - The two loneliness measures behaved differently: a single item with high face validity but more noise, and a 20-item scale whose between-person factor explained 85% to 89% of its variance, leaving little within-person movement to predict.
 - The study was not preregistered, and the authors call all findings exploratory, noting a garden of forking paths and that many p values would not survive correction for multiple comparisons.
 - Only 979 of 2,149 participants (46%) completed all four surveys; 309 (14%) completed just one, and in the listwise-completer robustness model both focal paths fell short of significance (p = .069 and p = .054).

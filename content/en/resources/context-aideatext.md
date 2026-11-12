@@ -1,7 +1,7 @@
 ---
 title: "conText (AIdeaText)"
 created: "2026-11-12T10:35:00-05:00"
-updated: "2026-11-12T10:35:00-05:00"
+updated: "2026-11-12T18:05:00-05:00"
 type: resource
 summary: "A free browser tutor that reads a photo of a notebook, a PDF or a text, then talks the student through it Socratically in English or Spanish while drawing a live graph of the ideas they connect as they speak."
 url: https://context.aideatext.ai/?lang=en
@@ -24,7 +24,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-conText is the cleanest small demonstration of a direction AI tutoring mostly talks about and rarely implements: the model does not answer the student's question, it asks the next one, and the student's ideas are drawn as a graph while they talk. Upload a photo of a notebook page, a PDF or a text, and the tool first says what it understood, then starts a spoken [[socratic-method|Socratic]] dialogue. Every idea the student names appears as a node in a live [[knowledge-graph|knowledge graph]]; edges appear as the conversation connects them, and the panel reports how many ideas remain unconnected.
+conText is the cleanest small demonstration of a direction [[intelligent-tutoring|AI tutoring]] mostly talks about and rarely implements: the model does not answer the student's question, it asks the next one, and the student's ideas are drawn as a graph while they talk. Upload a photo of a notebook page, a PDF or a text, and the tool first says what it understood, then starts a spoken [[socratic-method|Socratic]] dialogue. Every idea the student names appears as a node in a live [[knowledge-graph|knowledge graph]]; edges appear as the conversation connects them, and the panel reports how many ideas remain unconnected.
 
 ## What you can do with it
 

@@ -31,7 +31,7 @@ methods: [mixed-methods-research, quantitative-research]
 
 ## Key Findings
 
-1. **AI feedback use and deep engagement moved together.** Reported use was directly associated with deep cognitive engagement once autonomy and self-regulated learning were in the model (β = 0.21), which accounted for 38% of the variance in engagement.
+1. **[[ai-feedback-quality|AI feedback]] use and deep engagement moved together.** Reported use was directly associated with deep cognitive engagement once autonomy and self-regulated learning were in the model (β = 0.21), which accounted for 38% of the variance in engagement.
 2. **Autonomy and regulation carried an additional indirect path.** Use to autonomy was 0.39, autonomy to self-regulated learning 0.52, and regulation to engagement 0.47, giving a serial indirect estimate of 0.10, 95% CI [0.07, 0.14].
 3. **Autonomy was feedback-specific control, not independence.** Students described deciding when to ask, which paragraph to revise, and which suggestions to keep (S07, S12), rather than working without teachers or peers.
 4. **AI literacy moderated the first link.** The use × literacy interaction was 0.17 (p < 0.01); the simple slope was 0.48 at one SD above the modeled literacy mean and 0.23 at one SD below.
@@ -64,7 +64,7 @@ All five constructs came from one questionnaire administered once, so the sequen
 
 ## Limitations
 
-- The quantitative phase is cross-sectional: autonomous learners may seek more AI feedback, self-regulated learners may feel more control, and deeply engaged writers may request more explanations, so no path direction is identified.
+- The [[quantitative-research|quantitative]] phase is cross-sectional: autonomous learners may seek more AI feedback, self-regulated learners may feel more control, and deeply engaged writers may request more explanations, so no path direction is identified.
 - Same-source, same-time measurement may inflate the associations; Harman's test reports 32.4% on the first factor, and no marker variable or latent common-method-factor analysis was feasible.
 - The instrument is author-developed (24 items, α = 0.85 to 0.91, AVE 0.607 to 0.654), refined through a 48-student pilot, then validated on the same 486 cases used for the structural model.
 - Self-regulated learning and deep cognitive engagement share evaluative and reflective item content (r = 0.57, against an approximate square root of AVE of 0.81); neither HTMT nor a merged-factor model was estimated, so the key structural path rests on a distinction the data do not establish.

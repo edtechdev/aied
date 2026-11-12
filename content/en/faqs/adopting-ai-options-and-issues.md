@@ -21,7 +21,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-A department chair has three quotes for an AI tutoring platform and a Friday deadline. A teacher wants to use a free tool that half the staff already uses. A chief information officer is asked whether the institution should run its own model and cannot say what that would cost.
+A department chair has three quotes for an [[intelligent-tutoring|AI tutoring]] platform and a Friday deadline. A [[teacher-role|teacher]] wants to use a free tool that half the staff already uses. A chief information officer is asked whether the institution should run its own model and cannot say what that would cost.
 
 These are the same question at three altitudes. The options are fewer than a vendor list suggests, and the issues last longer than any product.
 
@@ -45,21 +45,21 @@ The blunt heuristic: use the sanctioned tool when it is within reach, and when i
 
 An institution buys a service, a data flow, a support obligation and a political commitment in one purchase. Six shapes make up the real menu, and most institutions are in two or three of them without knowing it.
 
-The easiest start is a free outsourced tool. AI Tutor Pro from Contact North needs no account, and Playlab lets educators build apps grounded in their own curriculum while the vendor hosts the models. Both are fine for a pilot and poor as a settlement: no audit trail, no quota control, and terms that can change.
+The easiest start is a free outsourced tool. AI Tutor Pro from Contact North needs no account, and Playlab lets educators build apps grounded in their own [[curriculum-design|curriculum]] while the vendor hosts the models. Both are fine for a pilot and poor as a settlement: no audit trail, no quota control, and terms that can change.
 
-Buying seats on a commercial tenant, whether ChatGPT Edu, Microsoft 365 Copilot or Google Gemini for Education, brings fast procurement, SSO and an admin console, and leaves model choice and retention with the vendor.
+Buying seats on a commercial tenant, whether [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot or Google Gemini for Education, brings fast procurement, SSO and an admin console, and leaves model choice and retention with the vendor.
 
-A platform you host keeps the data closer. [Amplify GenAI](/aied/resources/amplify-genai/) deploys into your own AWS account, and Vanderbilt's pilot reported about \$3 per user per month at 1,300 users, half of them under \$1 in tokens. That buys data control without GPUs.
+A platform you host keeps the data closer. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) deploys into your own AWS account, and Vanderbilt's pilot reported about \$3 per user per month at 1,300 users, half of them under \$1 in tokens. That buys data control without GPUs.
 
 A gateway over mixed providers puts one front door in front of several. It carries quotas, SSO, logging and regional routing; Fontys ran one for 300 users under a \$500 monthly cap that was never breached, and [MindRouter](/aied/resources/mindrouter/) adds role-weighted scheduling and energy metering.
 
-Your own inference is the most expensive shape and the most independent. Purdue's two services reached over 1000 users on 10+ open-source models for roughly \$100,000 in hardware, before staffing. It answers a regulator without asking a vendor's permission.
+Your own inference is the most expensive shape and the most independent. Purdue's two services reached over 1000 users on 10+ [[open-source]] models for roughly \$100,000 in hardware, before staffing. It answers a regulator without asking a vendor's permission.
 
 The last shape is AI inside tools you already run: a Moodle question type, a discussion platform's AI partner, an essay-feedback tool. Low lift and course-by-course change, with little learned at the center.
 
 ## The issues that do not go away
 
-Data protection comes first. What matters is which record now exists that did not before, where it lives and who can retrieve it. A tool that receives a class list has created an institutional record whatever the contract says.
+[[privacy|Data protection]] comes first. What matters is which record now exists that did not before, where it lives and who can retrieve it. A tool that receives a class list has created an institutional record whatever the contract says.
 
 Identity and access come next. Anything used at scale needs SSO, role-based access and offboarding, and a tool that cannot deprovision a departing employee leaves a standing account with your data in it.
 
@@ -67,9 +67,9 @@ Costs depend on how the price is counted. Per-seat pricing rewards headcount and
 
 Measurement is usually the missing piece. EDUCAUSE found 92% with a work-related AI strategy and 13% measuring return on investment. If you cannot say what the tool replaced, you cannot defend the renewal.
 
-Equity and accessibility belong in procurement rather than in a later fix. A tool that requires a fast connection, a paid tier or English fluency spreads its benefit unevenly.
+[[equity-in-ai-education|Equity]] and accessibility belong in procurement rather than in a later fix. A tool that requires a fast connection, a paid tier or English fluency spreads its benefit unevenly.
 
-Academic integrity changes what assessment measures. When a tool can complete the assignment, the assignment is what needs revising.
+[[academic-integrity|Academic integrity]] changes what assessment measures. When a tool can complete the assignment, the assignment is what needs revising.
 
 Staffing and vendor dependence matter as much as the price. Every shape above except the free one needs an owner, and the usual failure is buying the fourth or fifth shape and staffing it with whoever was already busy. Ask what happens at renewal, at a price change and at a model deprecation; the gateway shapes exist so that the answer is a routing change rather than a migration.
 

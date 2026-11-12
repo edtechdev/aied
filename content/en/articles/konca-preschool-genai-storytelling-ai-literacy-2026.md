@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Konca and Yigit-Gencten watched 22 five- and six-year-olds in one Turkish public preschool build picture books with Midjourney over six weeks, and coded the moments when children reasoned about the image generator itself. The children never typed a prompt; their teacher wrote every prompt and controlled the screen. That constraint is what makes the study informative: AI literacy appears here as talk distributed across a classroom — children proposing that the system "couldn't think of it well enough," that it "didn't hear," that it was "scamming us," or that a butterfly with glasses is impossible — and the teacher's questions deciding which of those explanations got taken up. The authors' central claim is that early AI literacy is socially distributed interpretive work, and their evidence includes the cases where the teacher closed the inquiry as well as the ones where she opened it.
+> **Synthesis:** Konca and Yigit-Gencten watched 22 five- and six-year-olds in one Turkish public preschool build picture books with Midjourney over six weeks, and coded the moments when children reasoned about the image generator itself. The children never typed a prompt; their [[teacher-role|teacher]] wrote every prompt and controlled the screen. That constraint is what makes the study informative: [[ai-literacy|AI literacy]] appears here as talk distributed across a classroom — children proposing that the system "couldn't think of it well enough," that it "didn't hear," that it was "scamming us," or that a butterfly with glasses is impossible — and the teacher's questions deciding which of those explanations got taken up. The authors' central claim is that early AI literacy is socially distributed interpretive work, and their evidence includes the cases where the teacher closed the inquiry as well as the ones where she opened it.
 
 ## Key Findings
 
@@ -40,9 +40,9 @@ verified: [citation, numbers, links]
 
 ## What the study did
 
-An instrumental case study in one public preschool classroom in southeastern Türkiye, over about six weeks from late November 2024 to early January 2025. Participants were 22 children (13 girls, 9 boys) aged 5–6, one classroom teacher, and three preservice teachers who recorded sessions and sometimes assisted.
+An instrumental case study in one public preschool classroom in southeastern Türkiye, over about six weeks from late November 2024 to early January 2025. Participants were 22 children (13 girls, 9 boys) aged 5–6, one classroom teacher, and three [[teacher-education|preservice teachers]] who recorded sessions and sometimes assisted.
 
-The activity was whole-class storytelling. Children invented characters, settings and events; the teacher turned those contributions into prompts, entered them in Midjourney, and displayed the output on a shared screen, where the class discussed, selected, rejected or regenerated images, then assembled them in Canva. No child typed a prompt or operated a tool.
+The activity was whole-class [[storytelling-in-education|storytelling]]. Children invented characters, settings and events; the teacher turned those contributions into prompts, entered them in Midjourney, and displayed the output on a shared screen, where the class discussed, selected, rejected or regenerated images, then assembled them in Canva. No child typed a prompt or operated a tool.
 
 The corpus was 17 transcribed sessions, plus video and image records used to clarify gesture and reference. The unit of analysis was the "AI-specific interpretive episode": a stretch of talk in which a child noticed, questioned, explained, evaluated or revised an output, the prompt-output relation, or a machine error. To keep general story talk out, the authors applied a substitution test — would the interpretation hold if the image had been hand-drawn? Coding was reflexive thematic analysis on the Turkish transcripts, with a second author reviewing codes, disagreements resolved in four discussions rather than by an inter-rater statistic, and six themes mapped onto understand-use-evaluate only after they were stable.
 
@@ -58,12 +58,12 @@ The translation step deserves separate mention. Children reasoned in Turkish abo
 
 - **Early-years teachers.** The productive move is not explaining how the model works but asking why an output came out as it did, then letting several explanations stand side by side. The butterfly episode worked because five hypotheses were aired before the teacher added hers.
 - **Designers of early AI literacy.** A shared screen and a teacher who voices the prompt make the request-output link inspectable by the whole class. Group voting on outputs turns evaluation into a decision with consequences.
-- **Curriculum leads.** Expect anthropomorphism, and treat it as data rather than error. "It blinked" and "it didn't hear" are the children's working theories, and they are the material a teacher has to work with.
+- **[[curriculum-design|Curriculum]] leads.** Expect anthropomorphism, and treat it as data rather than error. "It blinked" and "it didn't hear" are the children's working theories, and they are the material a teacher has to work with.
 - **Researchers.** The substitution test is a reusable way to separate AI-specific reasoning from ordinary story talk, and worth borrowing even where the rest of the design differs.
 
 ## Limitations
 
-One classroom, one teacher, 22 children, six weeks, one image generator, and a teacher already committed to the approach. The analysis is transcript-led rather than multimodal, the demarcation between AI reasoning and adjacent narrative competence is inspectable but contestable, and the tools are changing fast enough that the interactional patterns may not survive the next interface. The authors frame their claims as transferable rather than generalizable, which is the right frame for a single case.
+One classroom, one teacher, 22 children, six weeks, one image generator, and a teacher already committed to the approach. The analysis is transcript-led rather than [[multimodal]], the demarcation between AI reasoning and adjacent narrative competence is inspectable but contestable, and the tools are changing fast enough that the interactional patterns may not survive the next interface. The authors frame their claims as transferable rather than generalizable, which is the right frame for a single case.
 
 ## Citation
 

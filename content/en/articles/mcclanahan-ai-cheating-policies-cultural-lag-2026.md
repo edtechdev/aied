@@ -34,7 +34,7 @@ verified: [citation, numbers, links]
 2. **Prior behavior outweighed every experimental condition.** Students who had used AI to cheat before were far more willing to do it again (OR = 5.56, 95% CI [4.89, 6.32], p < 0.001), perceived 20.20 percentage points less risk, and rated punishment 0.37 points less severe on the 1–7 scale.
 3. **Two conditions worked only before controls.** The syllabus calling AI plagiarism with a failing course grade (OR = 0.67, 95% CI [0.47, 0.96], p = 0.03) and a tech-savvy professor with a failing class grade (OR = 0.64, 95% CI [0.46, 0.91], p = 0.01) lost significance in the full model.
 4. **Most students were already non-cheaters.** 29% rated their chance of using AI at 0% whatever the scenario said, so for them the policy question was moot: cheating was not an available action.
-5. **Students supplied their own rules.** The qualitative themes ran from external consequences to internal controls such as morality, investment in learning, and views of AI, and from the cost of not cheating to minimizing, justifying, and risk-managing their own use.
+5. **Students supplied their own rules.** The [[qualitative-research|qualitative]] themes ran from external consequences to internal controls such as morality, investment in learning, and views of AI, and from the cost of not cheating to minimizing, justifying, and risk-managing their own use.
 6. **Detection was discounted.** Participants described proving AI use as almost impossible, so the [[ai-detection|detection tool]] universities rely on did not register as a credible risk.
 7. **Punishment severity barely moved perceptions.** Only one condition raised perceived severity, by an amount the authors translate as 0.03% or 0.02 points on the 1–7 scale, which they treat as negligible.
 
@@ -58,7 +58,7 @@ Rational choice theory survives the test in its core claim: perceived certainty 
 
 The paper is candid that it tested only the risk side of the model. Rewards were not manipulated, and the qualitative accounts suggest they matter: students described grades as something to be saved rather than earned, which the authors read through prospect theory and loss aversion. On that reading, not using AI when a grade is already at risk is the guaranteed loss, and cheating is the gamble. That reframing, rather than another deterrence message, is the paper's most consequential theoretical suggestion.
 
-For administrators, the practical claim is narrow but firm: blanket [[educational-policy-ai|AI policies]] assume a shared definition of cheating that the data show does not exist. The paper recommends explicit, nuanced policies, instructors telling students plainly that the university's definition differs from their own, and assignment designs that permit transparent AI use where the learning objective allows it.
+For administrators, the practical claim is narrow but firm: blanket [[educational-policy-ai|AI policies]] assume a shared definition of cheating that the data show does not exist. The paper recommends explicit, nuanced policies, instructors telling students plainly that the university's definition differs from their own, and assignment designs that permit [[explainable-ai|transparent AI]] use where the learning objective allows it.
 
 ## What this means for practice
 

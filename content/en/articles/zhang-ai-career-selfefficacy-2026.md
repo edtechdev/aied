@@ -50,7 +50,7 @@ Neither pathway was tested prospectively, and the reverse model's finding that s
 ## What this means for practice
 
 - **Instructors and advisors:** Separate the two conversations. Students who are optimistic about AI need planning support that turns confidence into steps; students who are anxious need information and manageable action, not encouragement to feel better.
-- **Administrators:** Treat career anxiety as a curriculum issue, not only a counselling one. The anxiety route predicts lower decision-making confidence, and planning support is the route the positive pathway runs through.
+- **Administrators:** Treat career anxiety as a [[curriculum-design|curriculum]] issue, not only a counselling one. The anxiety route predicts lower decision-making confidence, and planning support is the route the positive pathway runs through.
 - **Researchers:** Measure positive and negative perceptions separately. Collapsing them averages two mechanisms with opposite signs, and the paper's own model depends on the split.
 
 ## Limitations
