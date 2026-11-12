@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-11T09:15:28-05:00"
+updated: "2026-11-12T19:20:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -109,6 +109,7 @@ For task design the claim is that rigor and commitment interact rather than add.
 ## Implications for writing instructors
 
 - **Frame AI as a complement, not a replacement, for the writing process.** The knowledge base's research consistently treats AI as a scaffold for drafting, revision, and feedback while protecting the cognitive work and human audience that make writing a learning activity — [[coach-not-crutch-ai-writing|coaching over crutch]].
+- **Make GenAI something students interrogate rather than submit.** In Alam and Jackson's first-year business-analyst module, GenAI was permitted inside boundaries that barred submitted generated text and AI-formatted reference lists, and where students used it some contested counterarguments and rejected drafts rather than accepting them. The authors read the tool as well fitted to counterarguments, alternative structures and language fixes, and poorly fitted to the judgment and appraisal of evidence the assessment was trying to grade ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 - **Use AI feedback within a human-centered process.** [[pairr-ai-peer-review-2025|PAIRR]] finds AI feedback is most useful combined with peer review and reflection; design feedback loops that keep the instructor and peer audience central.
 - **Students want the human at the high-stakes end.** [[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]] found 81.7 percent of 93 undergraduates preferred human scoring for a final paper worth 40 percent of the grade, trusted AI for grammar and mechanics but not [[creativity|creative]] writing, and wanted AI scoring reviewed by a human.
 - **Audit automated feedback for bias.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] shows LLM feedback shifts in stereotype-aligned ways when personalized with student attributes — monitor for positive/withholding bias, and be explicit that personalization can be a bias vector.
@@ -222,4 +223,4 @@ The most complete classroom account of that redesign is the PAIRR deployment. [[
 - [[jelson-students-chatgpt-essay-writing-2026]] — Delegation measured from traces: 137 whole-task queries, 15 students submitting essays with no typed words (Jelson et al. 2026)
 - [[al-nafjan-genai-eap-writing-engagement-2026]] — Rigor and teacher commitment as the two dimensions of GenAI-era writing engagement
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 sections, 10 courses, 654 students: the flagship PAIRR deployment and its feedback-only prompt
-
+- [[alam-process-oriented-collaborative-essays-2026]] — Process-oriented collaborative essays: graded iteration and collaboration, with GenAI permitted inside boundaries (Alam & Jackson 2026)

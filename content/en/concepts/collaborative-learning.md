@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-12T09:10:00-05:00"
+updated: "2026-11-12T19:20:00-05:00"
 connected_resources: [nowcomment]
 type: concept
 foundations: [ai-education]
@@ -89,6 +89,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 ## Practical guidance
 
 - **Model collaboration, not just the individual.** Tools that track dyadic or group state (as [[golrang-propact-pair-programming-2026|ProPACT]] does) can scaffold the collaboration itself, predicting and preventing breakdowns rather than reacting to them.
+- **Write collaboration into the grade, not the brief.** Alam and Jackson redesigned a first-year business-analyst module so that 23 students in 11 teams wrote an iterated 1,500-word essay with at least two documented stages, and made iteration and collaboration explicit marking criteria. They argue that the grade, not the reminder, is what makes process evidence load-bearing, and that collaboration quality still had to be [[scaffolding|scaffolded]] in class before teams could use it on their own ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 - **Preserve cognitive conflict.** Structure AI as an argumentative partner that surfaces disagreement and implicit assumptions, avoiding the polished-artifacts problem where AI smooths over fragile epistemic engagement.
 - **Contrarian personas have affective costs.** Across 97 triads, contrarian AI pushed discourse toward challenge and reflection but lowered teamwork satisfaction (ε² = .062) and psychological safety (ε² = .114) without raising creative output ([[jin-emergent-learner-agency-implicit-hai-2026|Jin et al. (2026)]]).
 
@@ -170,3 +171,4 @@ Peer status is earned socially. Mathematical capability barely entered the judgm
 - [[chen-bertopic-ai-online-learning-research-topics-2026]] — Socially oriented AI-collaboration work never became a dominant topic in 1,048 publications
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Group epistemic configuration decided where the AI sat: an integration hub in diverse-preconception groups, a linear query-then-process path in similar ones, at equal prior knowledge (Wang et al. 2026)
 - [[bjet-many-hands-make-light-work-2026]] — Pairs with a multi-agent system produced the best projects while solo work produced the largest critical-thinking gains
+- [[alam-process-oriented-collaborative-essays-2026]] — Process-oriented collaborative essays: graded iteration and collaboration, with GenAI permitted inside boundaries (Alam & Jackson 2026)

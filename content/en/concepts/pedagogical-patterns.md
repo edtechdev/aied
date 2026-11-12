@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Patterns
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-11-04T17:29:51-05:00"
+updated: "2026-11-12T19:20:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -138,6 +138,14 @@ A quasi-experiment with 68 preservice teachers found explaining to a GAI novice 
 **Evidence: tested, but in controlled or uncontrolled settings rather than ordinary classrooms.** Two learners share one AI and are assigned explicit roles with rotation rules; the AI is configured to take a role as needed and its output goes to the whole group. In a pair-programming variant the shared AI models the dyad's joint attention and effort, forecasts a breakdown up to 30 seconds ahead, and escalates scaffolds in tiers from doing nothing to a directive hint.
 
 A within-subjects experiment with 26 dyads found the feedback condition achieved higher debugging success (t[49.96] = −13.51, p < .0001) and finished faster (t[44.70] = 4.39, p < .0001), though it required dual [[sensor-and-gaze-analytics|eye-track]]ing and pupillometry hardware and did not test transfer to unsupervised pair work ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). A quasi-experiment with 58 graduate students in 16 groups found role design raised mind-map content scores from 3.65 to 4.59 on a 1–5 SOLO scale (z = 3.771, p < 0.001) while node and branch counts stayed flat — but with no control group, practice effects cannot be ruled out ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
+
+### Iterated drafts with graded collaboration
+
+**Evidence: practice description — one first run, no comparison condition, no measured outcomes.**
+
+Students write an essay in small teams across at least two documented stages, choose from a fixed set of titles, and are graded on evidence of iteration and collaboration as well as on the product; GenAI is permitted inside stated boundaries rather than banned or required.
+
+In a first-year Business Analyst degree apprenticeship module at Queen Mary University of London, 23 students in 11 self-selecting teams wrote an iterated 1,500-word essay this way, with GenAI barred from submitting generated text and from producing reference lists. The authors describe a program-wide [[pedagogy|pedagogical]] redesign and report emerging insight rather than outcomes. Their claim is that the marking criteria, not the instructions, made the process evidence load-bearing, and that where students used the tool some treated its output as a claim to contest — counterarguments to test, structures to accept or reject ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 
 ### AI-assisted discussion
 
@@ -277,3 +285,4 @@ The guide's own cautions apply: recorded video, reflections and logs can themsel
 - [[beck-genai-literacy-economics-hands-on]] — A five-step AI-critique discussion built on an AI error (Beck & Brodersen 2025)
 - [[ccct-cooperative-learning-technique]] — A tested cooperative-learning sequence with assigned roles and a gallery walk (Tutal 2026)
 - [[ai-assisted-seminar-learning-information-literacy-2026]] — Seminar and peer-discussion module with an AI retrieval recommender (Huang 2026)
+- [[alam-process-oriented-collaborative-essays-2026]] — Process-oriented collaborative essays: graded iteration and collaboration, with GenAI permitted inside boundaries (Alam & Jackson 2026)

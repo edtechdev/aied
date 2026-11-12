@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T19:25:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -38,6 +38,8 @@ The idea has moved from a proposition to a recurring recommendation across the k
 ## What process evidence looks like in practice
 
 The most explicit design vocabulary comes from Thapa and Lewis, whose four commitments carry the argument into task design: reflective justification, staged task design, dialogic engagement, and evaluative transparency. In practice, students explain interpretive decisions rather than only presenting conclusions, submit work that develops across checkpoints, take part in [[oral-assessment|oral or dialogic]] exchanges about their reasoning, and work against criteria they can apply themselves — the terrain of [[feedback-literacy|feedback literacy]] and [[self-assessment]]. Boysen's (2026) proposal for open learning practices translates the same logic into an audit trail: a shared learning plan set before the project begins, a learning analysis plan naming required and forbidden sources, and documented drafts and version histories, preserved through Track Changes and saved file versions, that expose the work process and explain what informed each revision. He frames this as [[self-regulated-learning|self-regulation]] made visible.
+
+Alam and Jackson's redesign puts the same commitments in one module. Twenty-three first-year Business Analyst degree apprentices at Queen Mary University of London worked in 11 self-selecting teams on a 1,500-word essay drawn from three pre-set titles. At least two documented stages of development were required, and iteration and collaboration were written into the marking criteria rather than merely recommended. GenAI was permitted inside boundaries the brief set: no submitted generated text, no rewriting functions in grammar tools, no AI-formatted reference lists. The authors present this as practice-based insight from a first run, not as a measured effect ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 
 
 The channel chosen for process evidence changes what can be evidenced: in the same 79-student generative-AI study, higher-depth monitoring and planning were more common in think-aloud units while higher-depth regulation was more common in interaction logs, so no single record captures the whole process ([[metacognitive-processes-genai-interaction-logs-2026|Li and Liu (2026)]]). Traces can also diverge from scores outright: across 150 student–AI conversations, 41% carried an assignment score of exactly 1.00 while observable cognitive participation varied, so matched scores can conceal different processes ([[epistemic-ownership-ai-mediated-education-2026|Fábrega, 2026]]). DraftTrace answers the same problem for AI-integrated writing by aligning keystroke-level process measures with the final product and with AI-interaction traces, showing that copy-typing is identifiable only when product and process are read together ([[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]]), a concrete instance of the behavioral-trace measurement the field still lacks.
