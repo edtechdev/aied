@@ -1,7 +1,7 @@
 ---
 title: Shadow AI
 created: "2026-11-12T14:45:00-05:00"
-updated: "2026-11-12T14:45:00-05:00"
+updated: "2026-11-12T16:10:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 ethics: [privacy, equity-in-ai-education]
@@ -81,6 +81,13 @@ The fourth is to treat [[ai-literacy|AI literacy]] as a control, not a curriculu
 **"This is a student problem."** Every study here is about educators: preparation, grading, communication, translation. The student story is real, but it is not the one with administrative credentials attached.
 
 **"Awareness training solves it."** 94% used the tools and 54% knew the policy, and the 40-point gap did not close when people were told. What closes it is a usable alternative with a short path to approval.
+
+## Further Reading
+
+Two closed-access studies address shadow AI directly. They are linked rather than ingested, so no claim on this page rests on their findings.
+
+- [Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI](https://doi.org/10.1016/j.chb.2026.109243) — Lovett and Yang, *Computers in Human Behavior*, article 109243, November 2026. Survey evidence from recent workplace AI users, with habit carrying the largest relative-importance weight and personal payment for tools associated with elevated shadow AI.
+- [Shadow AI, Human Oversight, and Institutional Trust: A Socio-technical Model of Responsible AI Governance in the Public Sector](https://doi.org/10.1007/978-3-032-38498-0_11) — Jonathan and colleagues, Springer, 2026. PLS-SEM on 214 public sector employees, treating shadow AI as the mechanism linking governance conditions to responsible use.
 
 ## Connected Concepts
 
