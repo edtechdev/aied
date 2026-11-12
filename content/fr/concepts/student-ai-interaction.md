@@ -1,7 +1,7 @@
 ---
 title: "L'interaction élève-IA"
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-11T18:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T15:26:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-11"
     agent: hermes-agent
 ---
 
@@ -60,6 +64,8 @@ Un courant complémentaire relie la *forme* de l'interaction à l'apprentissage.
 
 C'est l'interaction, et non l'outil, qui fixe le cheminement : dans une expérience de terrain portant sur près de 1,000 élèves en mathématiques au lycée, un accès libre à GPT-4 a élevé les scores de pratique de 48% mais a fait chuter les scores à l'examen sans assistance de 17%, tandis que le même modèle restreint à des indices conçus par l'enseignant a élevé la pratique de 127% et a largement effacé le déficit ([[naim-bypass-offload-scaffold-llm-learning-2026|Lee, 2026]]).
 
+Une tâche de programmation contrôlée chiffre ces types d'interaction en résultats. [[shen-ai-skill-formation-2026|Shen et Tamkin (2026)]] ont assigné aléatoirement 52 développeurs en exercice à l'apprentissage d'une bibliothèque Python inconnue avec ou sans assistant GPT-4o, et ont codé chaque requête à partir d'enregistrements d'écran. Six schémas sont apparus, et les trois qui maintenaient l'apprenant dans un travail cognitif ont largement dépassé les trois qui le transféraient : l'interrogation conceptuelle seule (65%), l'explication de code hybride (68%) et la génération suivie d'une compréhension (86%), contre la délégation à l'IA (39%), la dépendance progressive (35%) et le débogage itératif par l'IA (24%). La délégation était le schéma le plus rapide, à 19,5 minutes ; le débogage passant par l'assistant était à la fois plus lent (31 minutes) et le plus mauvais. Cet ordre indique que le geste décisif est de savoir si l'échange développe le modèle de l'apprenant ou le remplace.
+
 C'est la manière dont les étudiants formulaient leurs invites, et non leur quantité, qui suivait le succès : l'AI Query Efficiency et l'AI-Driven Problem-Solving étaient les prédicteurs les plus forts de la performance académique sur 128 étudiants en ingénierie, et le sont restés après contrôle de la moyenne générale ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 
 Le contexte comportemental est un signal distinct de la question elle-même : dans les quatre déploiements de TutorTrace (480 apprenants, environ 180,000 événements dans l'environnement de développement intégré), conditionner l'aide à l'état comportemental récent d'un apprenant a fait chuter les intervalles entre des demandes ne comportant aucun travail indépendant de 50.0% à 20.7%, et les demandes imminentes étaient prévisibles à partir du seul comportement (AUROC = .726) ([[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]]).
@@ -83,6 +89,8 @@ Les invites rédigées par les enseignants sont un tel levier, mais la rigueur m
 Le non-usage est lui-même un schéma d'interaction que la [[pedagogy|pédagogie]] doit anticiper. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]], étudiant 85 [[teacher-education|étudiants en enseignement]] dans trois cours où l'usage de l'IA générative dans l'[[assessment|évaluation]] était explicitement autorisé, ont constaté que 62.4% (53 sur 85) refusaient de l'utiliser, bien en dessous de l'adoption de 79–83% observée dans des enquêtes comparables au Royaume-Uni et en Australie, et que l'usage des adoptants était superficiel et correctif plutôt que génératif (relecture 43.8%, vérifications de clarté 34.4%, génération de texte seulement 18.8%). Leurs choix suivaient la conception de l'évaluation et la culture institutionnelle plutôt que la difficulté technique : 41.5% des non-adoptants craignaient d'être accusés à tort de [[academic-integrity|plagiat]], et neuf des onze personnes interrogées lisaient la politique permissive elle-même comme un possible « piège ». L'écart entre 32 utilisateurs déclarés à l'enquête et 28 auto-déclarations montre que l'interaction avec l'IA telle que les étudiants la *déclarent* est façonnée par les conséquences sur les notes — une réserve de mesure pour les comptes rendus fondés sur les learning analytics de l'interaction élève-IA.
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang et Guo (2026)]] documentent ce qu'un dialogue ouvert avec l'IA générative apporte à la révision par les pairs : les étudiants qui interrogeaient le modèle au lieu d'accepter sa première suggestion produisaient une rétroaction mieux notée par leurs pairs, et déclaraient plus de plaisir à la tâche et moins d'[[anxiety-and-stress|anxiété]].
+
+L'anxiété que le dialogue soulage peut être sociale plutôt que technique : chez 596 étudiants égyptiens en anglais langue étrangère (EFL) et huit entretiens, les apprenants décrivaient avoir interrogé l'outil à plusieurs reprises parce qu'« il n'y a pas de pression, et personne ne juge » ([[alshammari-interactive-ai-efl-tam-2026|Alshammari et Abdelaty (2026)]]).
 
 ## La discipline et l'engagement cognitif dans la conversation élève-IA
 
@@ -132,3 +140,4 @@ Le non-usage est lui-même un schéma d'interaction que la [[pedagogy|pédagogie
 - [[context-prompts-physics-assignments-2026]] — Devoirs de physique générés par l'IA à l'aide d'invites contextuelles
 - [[three-pathways-student-ai-interaction-2026]] — Typologie Three Pathways de l'interaction élève-IA : 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue
 - [[porcaro-ai-grading-benchmark-2026]] — Au-delà de l'accord : 22 correcteurs invités affrontent des sondes dont la bonne réponse est connue, et la plupart se laissent convaincre (Porcaro 2026)
+- [[shen-ai-skill-formation-2026]] — Six schémas d'interaction avec l'IA, de 86% à 24% sur un quiz sans assistance (Shen et Tamkin 2026)

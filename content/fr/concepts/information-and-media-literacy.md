@@ -10,15 +10,19 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-11T18:05:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-11T15:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-05"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-11"
     agent: hermes-agent
 ---
 
@@ -58,6 +62,8 @@ La troisième est la capacité. Dans une enquête auprès de 412 bibliothécaire
 ## Comment l'IA complique la littératie médiatique
 
 Les questions fondatrices de la littératie médiatique supposaient un créateur avec une intention. Les deepfakes, le clonage vocal et les bots automatisés brisent cette hypothèse de trois manières : l'artefact peut n'avoir aucun auteur humain, le public peut être synthétique, et l'intention peut être une optimisation de l'engagement plutôt qu'une persuasion par quelqu'un.
+
+**L'argument personnalisé est le modèle de menace de persuasion actuel.** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi et al. (2025)]] ont randomisé 900 adultes américains dans des débats en ligne de dix minutes contre un humain ou GPT-4, avec ou sans six champs démographiques ordinaires. GPT-4 non personnalisé était statistiquement indiscernable d'un adversaire humain, tandis que GPT-4 personnalisé augmentait de 81,2 % les chances d'accord après le débat et était plus persuasif dans 64,4 % des cas. Les participants ont identifié un adversaire IA dans environ trois débats sur quatre, mais se sont déplacés davantage lorsqu'ils croyaient que l'adversaire était une IA, si bien que la détection de la source n'a pas fonctionné comme une inoculation. La manipulation était invisible dans la prose : les mesures de style différaient peu entre les conditions, ce qui situe l'avantage dans les arguments choisis plutôt que dans la manière dont ils étaient écrits.
 
 Les preuves du curriculum suggèrent que les écoles n'ont pas rattrapé leur retard. Les entretiens d'experts décrivent la [[teacher-education|formation des enseignants]] comme la contrainte déterminante plutôt que la résistance des étudiants, et plaident pour un cadrage de [[critical-pedagogy|pédagogie critique]] qui traite l'évaluation comme une pratique éthique et participative au lieu d'une formation aux outils. Un rapport commandé pour les médias de service public a constaté que l'offre pour les 14-19 ans penchait vers des compétences fonctionnelles en IA et s'éloignait de l'évaluation critique, malgré l'examen de plus de 40 cadres et des entretiens avec 35 experts ([[ai-literacies-young-adults-2025|le rapport sur les littératies en IA, 2025]]).
 
@@ -108,3 +114,4 @@ La plupart des études ici sont petites, [[self-report-measures|auto-déclarées
 - [[critical-media-literacy-education-2026]] — Technologie, éducation et littératie médiatique critique : potentiel, défis et opportunités
 - [[demir-akar-ai-media-literacy-children-2026]] — Transformer les clics en pensée critique : un programme de littératie médiatique basé sur l'IA pour les enfants
 - [[ai-literacies-young-adults-2025]] — Soutenir les littératies en IA des jeunes adultes de 14 à 19 ans
+- [[salvi-conversational-persuasiveness-gpt4-2025]] — GPT-4 personnalisé a battu des débatteurs humains ; la détection n'a pas inoculé (Salvi et al. 2025)

@@ -1,7 +1,7 @@
 ---
 title: Échec productif
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-11T18:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-11T15:26:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-11"
     agent: hermes-agent
 ---
 
@@ -56,6 +60,8 @@ L'échec productif s'inscrit dans une famille plus large de théories de l'appre
 
 ### Apprendre de ses erreurs
 Le traitement fautif peut favoriser la rétention et le changement conceptuel, en particulier lorsque les apprenants ont l'occasion de réfléchir à leur compréhension et de la réorganiser (Kapur, 2008 ; Schwartz et Martin, 2004). À l'ère de l'IA, cela se traduit dans des systèmes où les apprenants diagnostiquent et corrigent leurs propres erreurs plutôt que de recevoir des corrections directes — par exemple les tâches [[lukesova-clue-before-correction-2026|clue-before-correction]], où l'IA donne des indices guidés et où les apprenants infèrent la solution correcte, ce qui réduit la charge cognitive et soutient la révision autonome. Le retour d'information élaboratif produit des [[learning-gains|gains d'apprentissage]] significativement plus élevés que le retour de simple vérification (Hattie et Timperley), et le moment du retour d'information importe.
+
+**Les erreurs étaient le programme dans une tâche de programmation assistée par l'IA contrôlée.** [[shen-ai-skill-formation-2026|Shen et Tamkin (2026)]] ont fait apprendre à des développeurs une nouvelle bibliothèque Python avec ou sans assistant GPT-4o, et le groupe non assisté a rencontré une médiane de trois erreurs contre une sous assistance (Q1–Q3 : 2,0–5,0 contre 0,0–3,0). Les erreurs que l'assistant supprimait étaient celles propres à la bibliothèque qui forcent une compréhension des coroutines, comme une coroutine non attendue ou un objet coroutine passé là où une fonction était attendue. Le groupe non assisté a ensuite obtenu un score 17% plus élevé à un quiz passé sans IA, avec l'écart le plus grand en débogage et le plus petit en lecture de code, et le fait de retaper le code généré au lieu de le coller n'a réduit aucun de ces écarts. Les auteurs interprètent la résolution indépendante des erreurs comme le mécanisme, tout en mesurant l'association plutôt qu'en testant la médiation.
 
 ### Bévues et erreurs
 Une distinction utile : les **bévues** sont généralement des lapsus ou des défaillances (souvent dus à l'inattention ou à la surcharge) qui peuvent avoir une valeur diagnostique limitée, tandis que les **erreurs** traduisent une véritable incompréhension ou un raisonnement fautif et constituent un matériau d'apprentissage plus productif, car elles révèlent une conception erronée susceptible d'être traitée. L'analyse d'erreurs — identifier *pourquoi* une réponse est fausse — est centrale dans l'apprentissage par les erreurs, et constitue une compétence [[pedagogy|pédagogique]] clé (et une cible pour la conception de l'[[ai-feedback-quality|IA de retour d'information]]).
@@ -135,3 +141,4 @@ L'échec productif se relie aux [[learning-theories|théories de l'apprentissage
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction : ChatGPT pour l'apprentissage autonome
 - [[pedagogy-ai-mistakes]] — La pédagogie des erreurs de l'IA
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Retenir les solutions évitait le coût de la frustration mais perdait sur la préférence des étudiants
+- [[shen-ai-skill-formation-2026]] — Une médiane de 3 erreurs sans IA contre 1 avec, et des scores de quiz sans assistance 17% plus élevés (Shen et Tamkin 2026)

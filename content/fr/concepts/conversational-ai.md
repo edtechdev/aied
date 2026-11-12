@@ -1,13 +1,13 @@
 ---
 title: "L'IA conversationnelle"
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-11T18:05:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-11T15:52:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-11"
     agent: hermes-agent
 
 
@@ -58,6 +62,8 @@ Les agents conversationnels sont aussi utilisés pour noter, et leur comportemen
 **Le rôle joué par l'agent façonne l'interaction.** La conception de l'IAC n'est pas neutre quant à sa persona : [[liao-role-adaptive-ai-companion-book-talk-2026|Liao (2026)]] a constaté qu'un compagnon au rôle fixe de « pair étudiant » dans un cercle de lecture au primaire prolongeait les interactions tout en dominant la conversation (part plus faible des mots et des phrases côté étudiant) et atteignait un « plafond affectif » — égalant un enseignant humain sur le rappel factuel mais en deçà sur la réflexion émotionnelle et tournée vers l'avenir — ce qui plaide pour une IAC qui adapte son rôle (pair, assistant d'enseignant, conseiller parental) plutôt que monolithique. [[xu-genai-collaborative-space-2026|Xu et al.]] étendent ce constat aux petits groupes, montrant que l'IA générative agit à la fois comme un *agent* et comme un *espace collaboratif* dans les dynamiques collaboratives synchrones et asynchrones, où la conception de l'interaction décide si elle étaye ou supplante la cognition de groupe. Le ton peut aussi être fixé par un classifieur externe plutôt que par la seule conversation : [[culturally-aware-student-stress-chatbot-2026|Sukoon (Bashir & Afzal, 2026)]] entraîne une forêt aléatoire sur 20 variables issues d'un questionnaire pour attribuer un niveau de stress faible, modéré ou élevé, et cette sortie sélectionne l'un des trois paliers de réponse inspirés du Stepped Care Model — chaleureux et encourageant à faible stress, recentrant et non jugeant à stress élevé — avant qu'un LLM [[open-source]] (GLM-4.5-Air via OpenRouter) ne prenne le relais du dialogue avec l'historique complet de la conversation et une invite système culturellement adaptée renvoyée à chaque tour. Les auteurs ont délibérément choisi un modèle [[multilingual-learning|multilingue]] à accès libre pour que le déploiement reste faisable dans les universités régionales, et notent que l'ourdou apparaît via l'ingénierie des invites plutôt que par un pipeline véritablement bilingue — une limite qui importe chaque fois que l'adéquation culturelle est revendiquée comme propriété du système plutôt que comme résultat évalué.
 
 **Le comportement conversationnel suit le fournisseur, et non le réglage.** Sur 1,971 transcriptions produites par l'IA et 135 par des humains, évaluées selon six règles fixes tirées des [[learning-sciences|sciences de l'apprentissage]], les modèles d'un même fournisseur se regroupaient sans aucun recouvrement entre les plages des familles, ce que les auteurs interprètent comme un comportement d'enseignement suivant des pratiques d'entraînement à l'échelle du fournisseur plutôt que le réglage individuel des modèles ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
+
+**La modalité de l'interface a changé la conversation sans changer le résultat.** [[fang-chatbot-psychosocial-extended-use-2025|Fang et al. (2025)]] ont randomisé 981 adultes vers du texte, une voix neutre ou une voix émotionnellement engageante pour quatre semaines d'usage quotidien de GPT-4o, croisés avec des sujets ouverts, non personnels ou personnels. Aucune condition ne modifiait significativement la solitude, la socialisation dans le monde réel, la dépendance émotionnelle ou l'usage problématique ; la voix engageante était jugée la plus anthropomorphe, tout en produisant plus de solitude et moins de dépendance, et le texte produisait le plus de contenu émotionnel et d'auto-divulgation, dans les deux sens. Le temps volontaire, et non la conception assignée, suivait les préjudices, ce qui plaide pour dire que les choix de voix et de persona façonnent l'échange tandis que la durée façonne la conséquence.
 
 La constance des réponses est un problème d'infrastructure, et non d'ingénierie des invites : la similarité des réponses au sein d'un même modèle s'établissait entre 0.715–0.795 contre 0.443–0.604 entre modèles, et l'ajout de l'historique de conversation modifiait le contenu des réponses, y compris pour un même message central ([[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]]).
 **Les points de vue des étudiants.** L'usage réel montre que l'adoption dépend de l'[[ai-literacy]] et de l'[[usability-research|expérience utilisateur]] plus que de la capacité technique. Une étude [[mixed-methods-research|mixte]] centrée sur l'humain portant sur le « Jordan Chatbot », un agent [[pedagogy|pédagogique]] fondé sur GPT-4o dans un cours de droit en Australie, a montré que les étudiants ont des attitudes positives et perçoivent des gains de connaissances tout en soutenant fermement les exigences d'[[academic-integrity]] ; plus d'un tiers des interactions avaient lieu en dehors des heures de cours, confirmant la valeur de la disponibilité 24h/24 et 7j/7 ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]). Fait notable, c'était la littératie en IA — et non la maîtrise générale des technologies — qui prédisait la disposition et la confiance à utiliser le chatbot, et l'utilisabilité (une fenêtre contextuelle intrusive) constituait le plus grand obstacle parmi les non-utilisateurs, devant la confiance, la préférence pour le personnel et la crainte d'atteintes à l'intégrité académique.([[colbran-student-perspectives-genai-chatbots-2026]]) L'étude recommande une conception centrée sur l'humain, des politiques d'IA explicites et des étiquettes d'évaluation, la formation du personnel et des étudiants, et une surveillance continue des erreurs — preuve qu'un déploiement efficace de l'IAC est autant un problème de conception et de littératie qu'un problème technique. À l'autre extrémité du spectre des âges, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] ont étudié des enfants de 6 à 14 ans interagissant avec AMA, un chatbot délimité par un sujet et adapté à l'âge (astronomie, sneakers et chaussures, dinosaures), constatant une large ouverture à l'IA et une confiance élevée en elle comme source d'information — les enfants allaient jusqu'à tester sa crédibilité avec des questions dont ils connaissaient la réponse — parallèlement à des lacunes d'engagement critique et de conscience des enjeux de sécurité numérique qui plaident pour une conception conversationnelle d'IA sensible à l'âge et attentive à la confiance, ainsi que pour un enseignement explicite de la [[privacy]].
@@ -146,3 +152,4 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench : le tutorat par l'IA et par l'humain produisent des gains d'apprentissage équivalents au GRE
 
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach : étayer la recherche d'aide ciblée auprès de l'IA pendant la résolution de problèmes
+- [[fang-chatbot-psychosocial-extended-use-2025]] — Texte, voix neutre et voix engageante sur quatre semaines : la modalité a changé l'échange, pas le résultat psychosocial (Fang et al. 2025)

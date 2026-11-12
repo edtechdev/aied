@@ -1,7 +1,7 @@
 ---
 title: "Le bien-être"
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-11T18:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T15:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-11"
     agent: hermes-agent
 ---
 
@@ -52,6 +56,11 @@ Le bien-être en éducation est multiforme : il inclut le bien-être émotionnel
 - **La capacité perçue de l'IA peut élever la santé mentale par la progression vers les objectifs.** [[perceived-ai-intelligence-medical-students-mental-health-2026|Chen et al. (2026)]] ont trouvé la voie sérielle allant de l'intelligence perçue de l'assistant à la santé mentale significative (B = 0.098) et plus forte à [[ai-literacy|littératie en IA]] élevée (0.124) que faible (0.072), bien que tous les résultats aient été mesurés immédiatement après une brève tâche.
 - **Le tutorat à soutien émotionnel n'est pas automatiquement meilleur pour le bien-être.** Une couche de pleine conscience par LLM ajoutée à un tuteur d'algèbre a réduit l'anxiété étatique face aux mathématiques dans les deux bras, mais pas davantage que les seuls indices et rétroactions cognitives, bien que les étudiants aient jugé l'agent attentif plus soutenant — une mise en garde contre le fait de lire la sollicitude perçue comme un résultat de bien-être ([[mindful-llm-math-tutoring-2026|Rief et al., 2026]]).
 - **L'anxiété liée à l'IA, l'adaptation et la dépendance comme signaux de bien-être :** [[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al. (2026)]] trouvent que l'anxiété liée à l'IA est liée négativement à la motivation académique, en partie par la réduction de la [[metacognition|régulation des émotions]] (modérée par le genre), dans un large échantillon chinois ; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] montre que les apprenants du [[language-learning|japonais]] se répartissent en profils d'adaptation psychologique inadaptés, modérés et positifs, déterminés par le technostress et la résilience, qui évoluent vers une meilleure adaptation au cours d'un semestre ; et [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] avertit que les corrélats transversaux de l'engagement envers l'[[conversational-ai|IA conversationnelle]] (solitude, anxiété, faible bien-être) ne doivent pas être lus comme des conséquences, et que les expériences soutenantes et les expériences nuisibles coexistent.
+
+**Un essai randomisé de quatre semaines a constaté que les choix de conception ne modifiaient pas le bien-être, mais que le temps, si.** [[fang-chatbot-psychosocial-extended-use-2025|Fang et al. (2025)]] ont assigné 981 adultes à l'une de neuf combinaisons d'interface (texte, voix neutre, voix engageante) et de sujet (ouvert, non personnel, personnel) pour 28 jours d'usage de GPT-4o. Aucune des deux manipulations ne modifiait significativement la solitude, la socialisation dans le monde réel, la dépendance émotionnelle ou l'usage problématique, ce qui constitue la vérification expérimentale la plus solide à ce jour des corrélats dont Yan met en garde. La durée quotidienne volontaire prédisait les quatre résultats dans le sens nuisible, et les utilisateurs qui faisaient confiance au bot ou le voyaient comme un ami étaient les plus dépendants ; comme la durée n'était pas randomisée, le sens de la relation reste ouvert.
+
+**Les données longitudinales vont dans le même sens, avec une réserve de mesure.** [[folk-dunn-chatbot-companionship-loneliness-2026|Folk et Dunn (2026)]] ont suivi 2 149 adultes dans quatre pays occidentaux au cours de quatre enquêtes s'étalant sur 12 mois. Sur une mesure d'isolement émotionnel à item unique, un usage plus intensif des chatbots prédisait davantage de solitude quatre mois plus tard (β = 0.07 à 0.08) et la solitude prédisait un usage plus intensif (β = 0.06). Sur une échelle de connexion sociale à 20 items, seule la seconde direction tenait : se sentir moins connecté prédisait un usage plus intensif (β = −0.09 à −0.07), tandis que l'usage ne prédisait pas significativement la connexion ultérieure (p = .369). Les auteurs qualifient ces analyses d'exploratoires, et cette divergence est une raison de mesurer la solitude de plus d'une manière.
+
 - **Le fait que le lien avec l'IA protège ou nuise dépend des relations hors ligne.** [[ai-connectedness-adolescent-mental-health-2026|Fu et Zhao (2026)]] proposent que les effets sur la santé mentale suivent la connexité à l'IA relativement à la connexité hors ligne traditionnelle, plutôt que sa seule intensité — supplémentaire lorsque les liens du monde réel répondent aux besoins de confirmation de l'identité, compensatoire lorsque les [[parents-and-families|aidants]] ne le font pas — et ils prédisent une relation en U inversé entre les deux.
 - **Le soutien au bien-être culturellement [[situated-learning|situé]] et ses limites :** [[culturally-aware-student-stress-chatbot-2026|Bashir et Afzal (2026)]] décrivent Sukoon, un système de bien-être hybride pour des étudiants universitaires pakistanais, qui associe un classificateur de stress par forêt aléatoire (89.09% d'exactitude sur trois niveaux de gravité ; 20 variables d'enquête) à une couche de dialogue [[llm|LLM]] qui intensifie le ton et l'intensité du soutien sur trois paliers, conformément au modèle de soins étagés. Il a été construit parce que les outils de santé mentale conçus en Occident sont en langue anglaise et culturelement inadaptés à des étudiants qui expriment leur détresse en ourdou ou en ourdou-romanisé et qui font face simultanément à des facteurs de stress académiques, financiers, familiaux et relationnels ; les auteurs sont explicites sur le fait qu'il ne s'agit pas d'un outil de diagnostic ou de thérapie [[medical-education|clinique]], que les réponses de forte détresse orientent vers un accompagnement psychologique professionnel, et que la couche de chatbot n'a pas encore été évaluée avec des étudiants quant à l'adéquation culturelle ou à la sécurité émotionnelle.
 - **Le bien-être des enseignants et le rôle :** l'impact de l'IA sur les [[teacher-role|enseignants]] — y compris la charge de travail, l'anxiété face à l'enseignement avec une technologie disruptive, et la capacité d'apporter un soutien émotionnel — est une préoccupation récurrente, en lien avec la [[teacher-ai-competency|compétence des enseignants en IA]] et le [[educational-development|développement professionnel]].
@@ -123,3 +132,5 @@ Le soutien émotionnel et le lien social peuvent évoluer en sens opposés au se
 - [[ai-emotion-regulation-sport-exercise-2026]] — Recadrage conceptuel de la régulation émotionnelle soutenue par l'IA par le sport, l'exercice physique et l'écologie du campus
 - [[faculty-ai-well-being-social-supports-2026]] — Modèle par équations structurelles du bien-être des enseignants face à l'IA : la littératie en IA domine l'auto-efficacité
 - [[mulvenon-test-anxiety-ai-accountability-2026]] — L'anxiété d'examen est redistribuée, pas supprimée
+- [[fang-chatbot-psychosocial-extended-use-2025]] — Quatre semaines, neuf conditions, aucun effet significatif sur les résultats ; la durée volontaire suivait les préjudices (Fang et al. 2025)
+- [[folk-dunn-chatbot-companionship-loneliness-2026]] — Douze mois, quatre vagues : l'usage prédisait l'isolement sur un item unique, la solitude prédisait l'usage dans les deux cas (Folk & Dunn 2026)
