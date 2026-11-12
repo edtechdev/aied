@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-12T15:45:00-05:00"
+updated: "2026-11-12T16:30:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -114,6 +114,8 @@ Confidence and literacy are not interchangeable targets: in a 502-respondent SEM
 **What educators ask for resembles apprenticeship more than training.** In the district study, 22 teachers asked for development delivered by former teachers who understood classroom constraints, a one-page guide to when the tools help, and the planning time to use either ([[dangol-relief-or-displacement-teachers-generative-ai-2026|Dangol et al.]]). Institutions, meanwhile, are choosing to build capacity rather than buy it: among those whose strategy includes workforce skills, 69% are upskilling existing staff and faculty ([[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE, 2026]]).
 
 **The absence of development is a policy choice with a visible result.** [[rameskumar-shadow-ai-legitimized-higher-education-2027|Rameskumar and colleagues]] interviewed 20 educators who had built their own rules because no guidance arrived, and [[bodek-prompted-to-explore-microlearning-2026|Bodek]] describes a microlearning model built to fit the time faculty actually have. Programs that treat development as one repeated layer of institutional support rather than a single event report the difference ([[aalhe-capacity-disposition-genai-assessment-2026|AALHE]]).
+
+**The setting changes the shape of the development, not the need for it.** In medical education, an AI residency treats faculty development and co-learning as the mechanism rather than an add-on ([[bursic-ai-residency-education-curriculum-2026|Bursic et al.]]). A review of 86 early-childhood resources identifies educator development as one of its four themes ([[early-childhood-ai-holistic-competencies-review-2026|the review]]). CTE renewal reaches for faculty development once curriculum change exposes a capability gap ([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]]). And among 146 teachers, engagement in professional development mediated the link between motivation and intended GenAI use ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al.]]).
 
 ## Common Misconceptions
 
