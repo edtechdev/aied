@@ -1,8 +1,9 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-11-11T09:55:00-05:00"
+updated: "2026-11-12T13:52:00-05:00"
 type: concept
+connected_resources: [ai-guidance-by-age]
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
 connected_faqs: [ai-guidance-children-under-13]

@@ -1,8 +1,9 @@
 ---
 title: Parents and Families
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T13:52:00-05:00"
 type: concept
+connected_resources: [ai-guidance-by-age]
 foundations: [ai-literacy]
 technology: [conversational-ai]
 ethics: [digital-divide, equity-in-ai-education]
