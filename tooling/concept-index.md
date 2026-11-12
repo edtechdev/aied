@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 237
+**Total concepts:** 238
 
 ## Foundations of AI in education
 
@@ -79,6 +79,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`developmental-psychology`** — Developmental Psychology — phrases: developmental psychology; developmental science; developmental appropriateness; human development
 - **`distributed-cognition`** — Distributed Cognition — phrases: distributed cognition; distributed intelligence; extended cognition
 - **`embodied-learning`** — Embodied Learning — phrases: body-based learning; embodied; embodied cognition; embodied learning; embodiment; gesture-based learning
+- **`executive-function`** — Executive Function — phrases: cognitive control; executive control; executive dysfunction; executive function; executive functioning; executive functions; inhibitory control; task switching
 - **`icap-framework`** — ICAP Framework — phrases: icap; ICAP framework; interactive-constructive-active-passive
 - **`learning-theories`** — Learning Theories — phrases: learning science; learning theories; learning theory; theories of learning
 - **`metacognition`** — Metacognition — phrases: meta-cognition; meta-cognitive; metacognition; metacognitive; self-monitoring

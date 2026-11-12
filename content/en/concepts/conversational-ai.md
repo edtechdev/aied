@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-11-11T15:52:00-05:00"
+updated: "2026-11-12T18:50:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -78,6 +78,8 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 
 - **How students actually talk to conversational agents — a six-category disengagement scheme:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] embedded a GPT-4-Turbo teachable agent (positioned as a struggling middle-school student, grounded with [[rag|RAG]] over a [[knowledge-graph|knowledge graph]], paired with a mentor agent that critiqued students' explanations) into Math Nation's Algebra and Geometry lessons, and coded 5,522 utterances from 246 students. Beyond engagement (75.7% of utterances), they identified False Answering (12.8%), Withholding (8.9%), Random/Noisy (2.1%), Mirroring (0.6%), Mocking (0.3%), and Ghosting (0.2%) — with Mirroring (copying the agent's text) emerging inductively from the data. The classification was [[human-in-the-loop-ai|human-in-the-loop]]: 1,682 utterances annotated by two raters (κ = 0.704–0.905 per category) trained a fine-tuned LLaMA 3 classifier (weighted F1 = 0.910 on held-out threads) that labeled the remaining 3,840 utterances. A process-level competing-risks analysis then showed most disengagement resolves within a few turns except Withholding, which persists — a signal worth designing agent responses around.
 
+The executive-function training literature is small and young. [[pergantis-chatbots-executive-functions-systematic-review-2025|Pergantis and colleagues']] PRISMA review screened 115 records and retained 10 studies covering 1,606 participants from age 6 to 75 and over, with a 2021 to 2024 search window and no formal risk-of-bias appraisal. Only two studies reported follow-up, the longest a month. The review's own conclusion is that chatbot training for [[executive-function|executive function]] is promising rather than established.
+
 ## Common Misconceptions
 
 - **"A conversational agent's credibility tracks its accuracy."** **Users read the agent's credibility socially.** Perceived **competence** of ChatGPT predicted its feedback credibility **directly**, while perceived **warmth** worked only **through** that route. A warm, competent-sounding agent earns trust on presentation, which is a separate axis from correctness.
@@ -104,7 +106,7 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[reducing-ai-misuse]]
 - [[speech-and-voice-technologies]]
 - [[parents-and-families]]
-
+- [[executive-function]]
 ## Connected Articles
 
 - [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors in student-AI dialogues (Rho et al. 2026)
@@ -136,4 +138,4 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 ## Citation
 
 Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
-
+- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Ten chatbot studies targeting executive functions

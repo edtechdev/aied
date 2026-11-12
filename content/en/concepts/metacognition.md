@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-11T11:35:00-05:00"
+updated: "2026-11-12T18:50:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -157,6 +157,8 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - **Inside a metacognitive self-report instrument, awareness outpredicts the rest.** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai and Alshahri (2026)]] validated a 45-item measure of AI-supported STEM learning with 649 Saudi secondary students (CFI = 0.983, RMSEA = 0.019; subscale ω = 0.888–0.905) and used it to rank the components. The four dimensions explained 68% of the variance in self-regulated learning scores, with AI-based metacognitive awareness strongest (β = 0.38, p < 0.001), cognitive transfer and adaptability next (β = 0.29, p = 0.008), and creative and critical AI-STEM reasoning not significant (β = 0.14, p = 0.135). Awareness is the component that carries adaptive performance, the authors advise reporting subscales separately rather than one global score, and they reserve higher-order reasoning for reasoning-quality tasks; the measure is nonetheless self-report, so like the workshop study above it captures perceived capability rather than observed strategy use.
 - **The evaluator's own monitoring is metacognitive work too.** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl and Leuders (2026)]] argue that an AI-generated [[cognitive-diagnosis|diagnostic inference]] is not raw evidence but an interpretation already made, so teachers must integrate it with their own observations in a process they call *meta-diagnosis*, deciding deliberately whether to accept, reject, or modify it. That places a second metacognitive loop beside the learner's: not only how the student regulates thinking with AI, but how the teacher evaluates what the system claims about that thinking.
 
+Executive function is the neighbouring construct, and the corpus has one result that separates them cleanly. [[wilder-adhd-ai-interview-eye-tracking-2025|Wilder and Stratchan's]] study of 46 college students with ADHD found that a task measure of cognitive flexibility predicted interview performance, while the MSLQ self-regulation subscale did not (p = 0.312). Knowing how one regulates is not the same as being able to shift under load, and a page on [[executive-function|executive function]] holds the capacity side of that distinction. [[sidorkin-extended-executive-cognition-2025|Sidorkin]]'s framework takes the opposite direction, treating the allocation of effort across human and machine work as itself a metacognitive outcome.
+
 ## Common Misconceptions
 
 - **"AI assistance leaves the underlying ability intact."** Students who used AI essay assistance were **83% unable to recall quotes from their own essays, against 11% for non-AI users**, indicating **they did not engage with the content during production**. The production process is where the engagement happens, and bypassing it shows up later.
@@ -177,7 +179,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[retrieval-spacing-interleaving]] — judgments of learning and the fluency illusion that retrieval practice corrects
 - [[cognitive-surrender]]
 - [[reflection]]
-
+- [[executive-function]]
 ## Connected Articles
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — a two-hour AI literacy workshop shifted middle-school students' LLM-interaction regulation, unlike their self-reported metacognition (Clerc et al. 2026)
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
@@ -223,3 +225,5 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[fan-metacognitive-offloading-sync-model-2026]] — SYNC model: metacognitive offloading vs. onloading, and task performance decoupled from durable learning (Fan et al. 2026)
 - [[guo-overreliance-genai-feedback-2026]] — Monitoring does not block the offloading path so much as reroute it
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — When monitoring is skipped, and what it costs
+- [[wilder-adhd-ai-interview-eye-tracking-2025]] — Cognitive flexibility predicts interview tier; self-reported regulation does not
+- [[sidorkin-extended-executive-cognition-2025]] — Extended executive cognition as a learning outcome (framework)

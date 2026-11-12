@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-11T07:49:18-05:00"
+updated: "2026-11-12T18:50:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -181,6 +181,8 @@ The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-
 
 The newer causal evidence separates finishing the task from learning it. In a 2×2 experiment with 24 Canadian undergraduates, beginners with ChatGPT passed 410.7 of 500 generated tests against 80.7 without it, while intermediate students gained nothing and did better with conventional resources ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). A separate study of 22 programmers found GitHub Copilot produced a 14.09-point performance advantage and lower workload during the task, with no benefit on an unassisted retest about a week later ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). Offloading can raise output while leaving the capability to produce it untouched.
 
+Two recent studies give offloading a measurement apparatus. [[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrah and colleagues']] 35-item scale turns the process into six reportable dimensions — overreliance, superficial understanding, reduced verification, weaker memory, diminished effort and reduced critical evaluation — validated on 616 secondary students. [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026|Sharma, Manani and Thakwani's]] survey of university students found that ChatGPT dependence was associated with poorer executive functioning mainly through academic stress, with the direct path falling to P = 0.328 once stress entered the model. Both belong to [[executive-function|executive function]], which holds the capacity the offloading is thought to displace.
+
 ## Common Misconceptions
 
 - **"Prompt volume measures offloading."** **97 learners** were clustered by prompt volume, and **the volume clusters did not differ significantly in local-versus-global or active-role prompting**. Counting prompts counted activity, not the distribution of cognitive work.
@@ -208,7 +210,7 @@ The newer causal evidence separates finishing the task from learning it. In a 2�
 - [[retrieval-spacing-interleaving]] — the counter-practice to letting a model retrieve on the learner's behalf
 - [[cognitive-surrender]]
 - [[reflection]]
-
+- [[executive-function]]
 ## Connected Articles
 - [[chen-genai-programming-understanding-2026]] — beginner and intermediate programmers: ChatGPT raised test passes 410.7 vs 80.7 while understanding did not follow (Chen et al., 2026)
 - [[gardella-copilot-fast-forgettable-2026]] — 22 novices: Copilot's 14.09-point advantage did not survive an unassisted retest a week later (Gardella et al., 2026)
@@ -264,4 +266,5 @@ The newer causal evidence separates finishing the task from learning it. In a 2�
 - [[zhang-usefulness-dependence-genai-2026]] — From “usefulness” to “dependence”: the dynamic evolution mechanism of generative AI use behaviors
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Withdrawing the regulator raises offloading and lowers output quality
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Sequencing rule applied developmentally: arithmetic before calculators, citations before reference managers
-
+- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Six self-reported dimensions of AI-mediated learning difficulty
+- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Academic stress mediates ChatGPT dependence and executive dysfunction

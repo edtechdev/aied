@@ -776,6 +776,17 @@ concepts:
     - evaluative judgements
     - evaluative judgment
     - evaluative judgments
+  executive-function:
+    title: Executive Function
+    aliases:
+    - cognitive control
+    - executive control
+    - executive dysfunction
+    - executive function
+    - executive functioning
+    - executive functions
+    - inhibitory control
+    - task switching
   experiential-learning:
     title: Experiential Learning
     aliases:
@@ -2358,6 +2369,7 @@ sections:
     - constructivist
     - cognitive-psychology
     - developmental-psychology
+    - executive-function
     - sociocultural-learning
     - distributed-cognition
     - situated-learning

@@ -1,7 +1,7 @@
 ---
 title: Developmental Psychology
 created: "2026-11-12T14:20:00-05:00"
-updated: "2026-11-12T14:20:00-05:00"
+updated: "2026-11-12T18:55:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -42,9 +42,7 @@ The risk in all such schemes is that the bands become coarse proxies. A five-yea
 
 ## Executive function as the operative construct
 
-Where the corpus gets specific about mechanism, it usually lands on executive function: the set of processes that plan, inhibit, shift and hold information long enough to use it. Vasileiou and colleagues' review of AI for students with special educational needs separates three functions a tool can perform — compensation, which externalises a demand so the learner can participate; [[scaffolding]], which supports performance just beyond independent capability; and development, which builds the capacity itself. The distinction is developmental because the same tool can do all three depending on how it is used, and only the third changes what the learner can do later.
-
-The reliance literature supplies the failure mode. Klarin, Hoff and Daukantaitė define [[generative-ai|GenAI]] reliance among adolescents not as frequency of use but as preferring the tool over one's own effort or [[teacher-role|teacher]] support, together with difficulty initiating schoolwork without it — a pattern that reads as a developmental concern precisely because the capacities being displaced are still forming. Horowitz-Kraus and colleagues' small scanner study of 6–7-year-olds and adults conversing with ChatGPT points the same way: the interesting question is not whether children can use the tool but which cognitive control processes the interaction recruits at each age.
+Where the corpus gets specific about mechanism, it usually lands on executive function: the processes that plan, inhibit, shift and hold information long enough to use it. The developmental question is which of those a given tool supports, and whether the support outlasts the tool. Vasileiou and colleagues' separation of compensation, scaffolding and development is the sharpest statement of the distinction, and Klarin's account of adolescent reliance names the failure mode: the capacities being displaced are still forming. The construct, its measurement and the dependence evidence now have their own page, [[executive-function]].
 
 ## Adolescence as a distinct case
 
@@ -86,6 +84,7 @@ Policy and procurement documents use "age-appropriate" as if it were a property 
 - [[early-childhood-elementary-ai-education]]
 - [[parents-and-families]]
 - [[metacognition]]
+- [[executive-function]]
 - [[self-regulated-learning]]
 - [[scaffolding]]
 - [[cognitive-offloading]]
@@ -108,3 +107,5 @@ Policy and procurement documents use "age-appropriate" as if it were a property 
 - [[ai-play-framework-early-childhood-2026]] — Play-based unplugged AI literacy for pre-K and kindergarten
 - [[age-tiered-ai-literacy-guidebooks-2026]] — Two age-tiered editions of an AI literacy guidebook
 - [[preservice-early-childhood-genai-magnetism-2026]] — Preservice early childhood educators designing with GenAI
+- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Chatbot training for executive functions, ten studies
+- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Dependence, stress and executive dysfunction in university students

@@ -1,7 +1,7 @@
 ---
 title: Neurodiversity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-06T09:20:00-05:00"
+updated: "2026-11-12T18:50:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -72,6 +72,8 @@ The risk side has its own literature. [[seung-basham-cognitive-offloading-swld-2
 
 Neurodiversity connects to [[special-education]], [[inclusive-learning]], [[universal-design-for-learning]], and [[equity-in-ai-education]]. It informs both how AI is deployed for [[student-experience]] and how assessments and literacy programs are designed to be fair across cognitive variability. For how these findings sit alongside other learner groups — language, gender, socioeconomic status, geography — see [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]].
 
+[[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh and Natoli's]] review of 28 studies on AI for college students with ADHD sorts the evidence into support, prediction and ethics. Prediction is the thinnest part: a pupillometric model reached AUROC 0.856, while an SVM classifier reached 66.1 to 68.8 percent accuracy, below clinical utility. The executive-function trade-off is the ethical core — a tool that compensates for a demand can also absorb the practice that would have built the capacity ([[executive-function]]).
+
 ## Common Misconceptions
 
 - **"Neurodiversity research is a niche corner of [[ai-education|AIED]]."** The field has **reorganised around [[generative-ai|generative AI]] — 15 of the 40 studies** — with immersive formats second at 11. The literature moved with the technology rather than accumulating around stable questions.
@@ -91,7 +93,7 @@ Neurodiversity connects to [[special-education]], [[inclusive-learning]], [[univ
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[student-modeling]]
-
+- [[executive-function]]
 ## Connected Articles
 - [[gibson-neuro-inclusive-edtech-scoping-2026]] — Reframing Educational Value in EdTech for Neuro-Inclusive Primary School Classrooms: A Scoping Review
 
@@ -106,3 +108,4 @@ Neurodiversity connects to [[special-education]], [[inclusive-learning]], [[univ
 - [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Detector-driven processes can deter legitimate accommodation use
+- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — Twenty-eight studies on AI for ADHD students, with the ethics named

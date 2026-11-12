@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-12T08:40:00-05:00"
+updated: "2026-11-12T18:50:00-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -190,6 +190,8 @@ Students reported more procrastination (β = 0.525) alongside perceived performa
 
 Prompting for self-regulation is not the same as teaching it. In a four-session randomized trial with 371 students in Grades 7–9, neither utility-value prompts nor cognitive-strategy prompts improved strategy use, interest, effort or domain knowledge relative to standard ChatGPT ([[futterer-srl-genai-support-rct-2026|Fütterer et al., 2026]]). The null matters because the intervention added reflection prompts to an unchanged learning task: whatever regulated the work sat in the task and the classroom, not in the prompt.
 
+Self-report is the weak link in the evidence. In [[wilder-adhd-ai-interview-eye-tracking-2025|Wilder and Stratchan's]] study of 46 students with ADHD, the MSLQ metacognitive self-regulation subscale did not predict interview tier (p = 0.312), while a performance task of cognitive flexibility did. The finding does not show that self-regulation is irrelevant; it shows that a learner's account of their regulation and their capacity to switch rules under pressure are measurable separately. [[executive-function|Executive function]] is the page that holds the capacity side.
+
 ## Common Misconceptions
 
 - **"Self-regulation is a learner trait."** Regulated learning decomposes into **self-reflection, causal attribution and adaptation**, and proficient learners **employ cognitive strategies to improve success**. These are trainable processes that a design can support or undermine.
@@ -223,7 +225,7 @@ Configuring an LLM as a partner is a self-regulation problem before it is a tool
 - [[retrieval-spacing-interleaving]] — scheduling, self-testing and study-strategy choices learners make
 - [[cognitive-surrender]]
 - [[reflection]]
-
+- [[executive-function]]
 ## Connected Articles
 - [[futterer-srl-genai-support-rct-2026]] — 371 German students: reflection and strategy prompts added nothing over standard ChatGPT (Fütterer et al., 2026)
 - [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — Meta-analysis of AI-assisted self-regulated learning: g = 0.76 across 34 studies, with tool type and pedagogical role moderating the effect (Zhang et al. 2026)
@@ -267,3 +269,4 @@ Configuring an LLM as a partner is a self-regulation problem before it is a tool
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Preconception diversity changed how a metacognitive prompt landed: same prompt functions, opposite sustained evaluation of the AI output (Wang et al. 2026)
 - [[gouroubera-genai-benin-2026]] — Procrastination rose with use (β = 0.525) beside perceived gain, separating delay enabled by AI from delay merely about AI (Gouroubera et al. 2026)
 - [[lasekan-chatbot-language-learning-partner-2026]] — Orchestrating LLM use produced richer configurations but little evidence of learning
+- [[wilder-adhd-ai-interview-eye-tracking-2025]] — Self-reported regulation versus a task measure of cognitive flexibility

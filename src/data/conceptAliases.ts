@@ -93,6 +93,7 @@ export const CONCEPT_ALIASES: Record<string, string[]> = {
   'equity-in-ai-education': ['AI equity', 'educational equity', 'equitable', 'equity', 'equity concerns'],
   'ethics': ['AI ethics', 'AI ethics education', 'ethical', 'ethical AI', 'ethical considerations', 'ethics', 'ethics of AI', 'responsible AI'],
   'evaluative-judgment': ['appraising quality', 'calibrating judgement', 'calibrating judgment', 'evaluative judgement', 'evaluative judgements', 'evaluative judgment', 'evaluative judgments'],
+  'executive-function': ['cognitive control', 'executive control', 'executive dysfunction', 'executive function', 'executive functioning', 'executive functions', 'inhibitory control', 'task switching'],
   'experiential-learning': ['experiential learning', 'hands-on learning', 'learning by doing'],
   'explainable-ai': ['black-box model', 'counterfactual explanation', 'explainability', 'explainable ai', 'explainable artificial intelligence', 'explaining the system', 'explanation quality', 'feature importance', 'glass-box', 'interpretability', 'interpretable ai', 'model explanation', 'post-hoc explanation', 'transparency', 'transparent ai', 'xai'],
   'feedback': ['assessment feedback', 'feedback', 'feedback cycle', 'feedback loop', 'feedback loops', 'learner feedback'],
