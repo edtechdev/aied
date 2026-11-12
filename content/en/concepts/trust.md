@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-10T19:10:00-05:00"
+updated: "2026-11-12T08:40:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -116,6 +116,8 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - Report trust, risk perception and appropriate reliance as distinct constructs, because they co-vary in non-obvious directions — including negatively.
 - Report the behavioral outcome (acceptance rate of wrong suggestions) alongside self-report trust; trust scales alone invert the conclusion.
 
+Trust in a tool can carry part of how employable its user feels. Among 579 Chinese university students, generative AI use predicted self-perceived employability at β = 0.503, and trust in generative AI carried an indirect path of 0.079 (95% CI [0.031, 0.137]), 19.35% of the total effect, behind career decision-making self-efficacy at 0.168 ([[yan-genai-employability-career-self-efficacy-2026|Yan (2026)]]). The design is cross-sectional, so the ordering is theoretical rather than observed.
+
 ## Connected Concepts
 
 - [[explainable-ai]]
@@ -165,3 +167,4 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Credibility cues raised switching to an incorrect AI position; withholding a recommendation suppressed it
 - [[trust-calibration-genai-collaborative-regulation-2026]] — A structural model gives that bridging role an empirical test
 - [[zhu-creative-agency-trust-genai-art-2026]] — Instrumental trust as the strongest predictor of GenAI intention for art students
+- [[yan-genai-employability-career-self-efficacy-2026]] — Trust in GenAI as one indirect route from use to self-perceived employability

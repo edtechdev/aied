@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-11T08:13:31-05:00"
+updated: "2026-11-12T08:40:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -170,6 +170,8 @@ The evidence supports a specific order of operations for an instructor adopting 
 4. **Protect the interpretation time the shift creates.** If attention moves from materials production to reading learners, that reallocated time needs to survive contact with the calendar; if it is absorbed by new administrative work, the promised role change does not occur.
 5. **Check whether you are being trained on tools or on pedagogy.** Given the SEM result, prefer professional development that works on disciplinary tasks and identity over feature tours.
 
+Epistemic authority in AI-assisted planning is negotiated episode by episode rather than settled by policy. Across 34 planning episodes from five preservice mathematics teachers, authority was retained in 16, shared in 12 and ceded in 6; the teacher who pasted a complete AI lesson plan had moved from construction to authorization, while another kept her own framework and adjusted the model's output against it ([[pang-epistemic-authority-ai-lesson-planning-2026|Pang et al. (2026)]]).
+
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
@@ -247,3 +249,4 @@ The evidence supports a specific order of operations for an instructor adopting 
 - [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs et al. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
 - [[ai-use-teacher-performance-north-sumatra-2026]] — AI use had no direct effect on teacher performance; citizenship behavior mediated it (Sherly et al. 2027)
+- [[pang-epistemic-authority-ai-lesson-planning-2026]] — 34 episodes showing authority retained, shared or ceded in AI-assisted lesson planning

@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-12T08:40:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -127,6 +127,8 @@ Holding the multimodal indicators constant and adding only a narrative explanati
 - **"Analytics need clickstream traces."** Knowledge states can be estimated within Outcome-Based Education by **tracing course outcomes directly from LMS interaction and attainment data**, using OBE affinity mappings — the institutional record supplies the signal.
 - **"Prediction without an action window is useful."** Progress prediction is most usable when it is **interpretable and paired with an action window**: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries and Koprinska (2025)]] predict module-level outcomes, which is a form an advisor can act on, unlike a raw score.
 
+Semantic analytics can score reasoning only where the categories are defined tightly enough to score. In a five-hour AI ethics module with 90 students, human coders reached Krippendorff α = 0.82 on 1,094 meaning units, and the human-in-the-loop classifier reached macro-F1 = 0.83 [0.78, 0.87] across 17 issue and solution categories, falling to 0.68 on the smallest ([[wang-yi-semantic-learning-analytics-moral-reasoning-2026|Wang & Yi (2026)]]). The single-group pre-post design cannot attribute the observed gains to the module.
+
 ## Connected Concepts
 
 - [[automation-bias]] — Why a flag that exists gets acted on without being checked
@@ -191,3 +193,4 @@ Holding the multimodal indicators constant and adding only a narrative explanati
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Completion rates can hide an engagement collapse
 - [[kim-ai-embodied-learning-review-2026]] — AI in embodied learning mostly observes: sensing roles 62.5% of coded role tags, and no reviewed system fused multimodal streams while learners used it (Kim & Han 2026)
 - [[liu-teaching-analytics-dashboard-2026]] — Active-control microteaching study isolating the explanation layer: interpretation moved, action did not (Liu et al. 2026)
+- [[wang-yi-semantic-learning-analytics-moral-reasoning-2026]] — Human-in-the-loop semantic scoring of moral reasoning, strong on large categories, weak on small ones

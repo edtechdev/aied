@@ -1,7 +1,7 @@
 ---
 title: Career Development and Readiness
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-11-12T06:10:00-05:00"
+updated: "2026-11-12T08:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
@@ -60,6 +60,8 @@ Career development and readiness connects to [[professional-training]] (the voca
 
 A program-level framework makes the institutional steps explicit, though it has not been evaluated as a program. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] proposes six stages: sensing, stakeholder validation, program diagnosis, curriculum redesign, enactment and capability, and outcome review. Each stage carries a named decision right and an accountable output, and AI is confined to four bounded support functions: pattern detection across labor-market information, competency mapping, generation of curriculum options for human appraisal, and monitoring of implementation indicators. The value is that it names the governance steps a career-readiness strategy usually leaves implicit.
 
+A survey of 1,445 Chinese college students traces a path from usefulness beliefs through AI use into career exploration. Perceived usefulness of generative AI predicted use at β = 0.569, while career self-efficacy predicted it at only β = 0.082. Use was then associated with career exploration behavior at β = 0.423, self-efficacy remained the strongest cognitive predictor of exploration itself (β = 0.285), and the model explained 50.5% of the variance in exploration ([[lu-career-cognitions-genai-exploration-2026|Lü et al. (2026)]]). The indirect paths are statistical and cross-sectional, not longitudinal.
+
 ## Connected Concepts
 - [[professional-training]]
 - [[ai-literacy]]
@@ -91,3 +93,4 @@ A program-level framework makes the institutional steps explicit, though it has 
 - [[sadik-ai-ready-engineering-talent-faculty-2026]] — Faculty forecasts are predictions, not evidence about employment
 - [[kong-ai-employability-cognitive-engagement-2026]] — A narrative review's construct map from AI-supported learning to employability
 - [[nyale-ai-integrated-workplaces-digital-capability-2026]] — Six-stage, unevaluated process framework for aligning programs with AI-era labor markets
+- [[lu-career-cognitions-genai-exploration-2026]] — 1,445 Chinese students: AI usefulness, use and career exploration in one cross-sectional model

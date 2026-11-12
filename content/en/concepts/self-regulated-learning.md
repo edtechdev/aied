@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-11T07:49:18-05:00"
+updated: "2026-11-12T08:40:00-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -197,6 +197,8 @@ Prompting for self-regulation is not the same as teaching it. In a four-session 
 - **"Anxiety undermines regulation."** In a mixed-methods study of **107 students**, higher [[anxiety-and-stress|AI anxiety]] was **positively associated with verification and re-checking**. Anxiety functioned as a prompt to verify, which is regulation rather than its absence.
 - **Metacognitive SRL predicted learning-relevant load where the [[ai-feedback-quality|AI feedback]] did not.** In a five-week field study with **234 students and 1,147 observations**, metacognitive self-regulation was a substantial positive predictor of **germane cognitive load** (β = .363, p < .001 intention-to-treat; .346, p < .001 usage-based) and did not significantly predict extraneous load — while mere access to conversational AI feedback predicted neither. Only **sustained** engagement with the feedback separated students on germane load, and irregular use did not (β = −.219, p = .116), which locates the active ingredient in the learner's regulation of processing rather than in the feedback supply ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]]).
 
+Configuring an LLM as a partner is a self-regulation problem before it is a tool-selection problem. In 117 public accounts of LLM use for language learning, the 24 that orchestrated multi-step interaction personalized far more often than the other 93 (70.8% vs. 15.1%) and reported more perceived benefits (3.29 vs. 1.96), yet 68.4% praised the model without naming a measurable improvement and only 10.3% reported one ([[lasekan-chatbot-language-learning-partner-2026|Lasekan et al. (2026)]]).
+
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
@@ -264,3 +266,4 @@ Prompting for self-regulation is not the same as teaching it. In a four-session 
 - [[davis-ai-ta-forum-peer-co-regulation-2026]] — An AI TA as first responder displaced peer replies, and with them the co-regulation that amplified the grade value of self-regulation (Davis et al. 2026)
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Preconception diversity changed how a metacognitive prompt landed: same prompt functions, opposite sustained evaluation of the AI output (Wang et al. 2026)
 - [[gouroubera-genai-benin-2026]] — Procrastination rose with use (β = 0.525) beside perceived gain, separating delay enabled by AI from delay merely about AI (Gouroubera et al. 2026)
+- [[lasekan-chatbot-language-learning-partner-2026]] — Orchestrating LLM use produced richer configurations but little evidence of learning
