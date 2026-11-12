@@ -40,6 +40,7 @@ export const faqIndex: FaqSection[] = [
     heading: 'Course and institutional policy',
     blurb: 'For instructors writing the rules students will read, and for administrators and faculty developers setting them at program level.',
     items: [
+      'adopting-ai-options-and-issues',
       'course-ai-policy',
       'institutional-ai-policy',
       'faculty-ai-competencies',
