@@ -6,8 +6,38 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-11
-**Total backlog:** 27 articles awaiting ingest (this scan added 3 publisher-blocked items and 1 adjacent-research item, removed 2 that were ingested today, and closed the 3 blocked items on 2026-11-11: 1 ingested from a maintainer-supplied PDF, 2 rejected; the earlier carries are unchanged) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-12
+**Total backlog:** 35 articles awaiting ingest (the 2026-11-12 scan added 1 publisher-blocked item and 7 queued items and removed none; the 2026-11-11 section added 3 publisher-blocked and 1 adjacent-research item, removed 2 ingested the same day, and closed the 3 blocked items: 1 ingested from a maintainer-supplied PDF, 2 rejected; the earlier carries are unchanged) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-12)
+
+The prefetch returned 93 candidates in the 2026-11-09..12 window and dropped 28 the maintainer had
+already rejected. Six had been ingested in the preceding three days (the PISA 2025 scientific-literacy
+analysis, the Quebec post-secondary AI-literacy survey, the career decision-making self-efficacy SEM,
+the Jordanian EFL writing trial, the Egyptian extended-TAM study and the generative-operationalism
+paper), so they were left alone and the prefetch's title-based dedupe missed them only because their
+slugs differed. Eight were ingested from full text by this run: four Frontiers articles, two MDPI
+Education Sciences papers and two Discover Education papers.
+
+The remainder of the arXiv CS listing was model training, retrieval, decoding, benchmarking and
+medical-imaging work with no educational setting, and the physics-education feed returned nothing in
+the window. The mini review on AI-mediated interpersonal communication was left out as out of scope
+rather than backlogged: its experiments are about relational authenticity in human communication,
+not about learning.
+
+**Full text blocked at the publisher (PDF needed)**
+
+- [Optimizing large language model-driven automated essay scoring: Integrating linguistic features and prompt engineering to enhance scoring accuracy](https://doi.org/10.1016/j.asw.2026.101145) — [DOI: 10.1016/j.asw.2026.101145](https://doi.org/10.1016/j.asw.2026.101145) (*Assessing Writing*, Elsevier; no public abstract)
+
+**Queued for a later run (full text already retrieved or open access)**
+
+- [Generative AI-supported learning, self-directed learning, and motivation in a graduate seminar](https://doi.org/10.3389/feduc.2026.2008734) — [DOI: 10.3389/feduc.2026.2008734](https://doi.org/10.3389/feduc.2026.2008734) (13 students, single group; low priority)
+- [UAE students' perspectives on use of artificial intelligence tools in higher education](https://doi.org/10.1007/s44217-026-02120-6) — [DOI: 10.1007/s44217-026-02120-6](https://doi.org/10.1007/s44217-026-02120-6)
+- [The Role of Artificial Intelligence in Promoting Social-Emotional Learning and Intercultural Competence in EFL](https://doi.org/10.46787/ijaipil.v1i4.7748) — [DOI: 10.46787/ijaipil.v1i4.7748](https://doi.org/10.46787/ijaipil.v1i4.7748)
+- [Developing Consulting Competencies Through AI-Powered Immersive Simulations](https://doi.org/10.46787/ijaipil.v1i4.8273) — [DOI: 10.46787/ijaipil.v1i4.8273](https://doi.org/10.46787/ijaipil.v1i4.8273)
+- [Digital and media literacy of pre-service early childhood teachers in the context of digital education](https://doi.org/10.3389/feduc.2026.1986795) — [DOI: 10.3389/feduc.2026.1986795](https://doi.org/10.3389/feduc.2026.1986795)
+- [An AI academic advising digital human model persona framework](https://doi.org/10.1007/s44217-026-02379-9) — [DOI: 10.1007/s44217-026-02379-9](https://doi.org/10.1007/s44217-026-02379-9)
+- [A scoping review of online educational resources for Oral Surgery specialty training](https://doi.org/10.1186/s12909-026-10669-x) — [DOI: 10.1186/s12909-026-10669-x](https://doi.org/10.1186/s12909-026-10669-x) (low priority: no AI component found in the abstract)
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-11)
 

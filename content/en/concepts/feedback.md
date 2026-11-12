@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-11T11:05:00-05:00"
+updated: "2026-11-12T10:45:00-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -122,6 +122,8 @@ A source can differ in how it calibrates, not how well it scores: in a randomize
 How much a student believes about the source changes what they do with identical words. In a three-condition experiment, 148 adults received feedback written by one model about their own p5.js code, labeled either AI-generated or reviewed by a teaching assistant, with delivery held at 60 seconds. Those who believed a human had read their work stayed on task longer (948 s against 741 s, d = 0.61) and kept the tutorial window in focus longer (850 s against 662 s, d = 0.56), while helpfulness ratings did not move and code quality did not improve. Nearly half of the human-attributed group disbelieved the label, and those participants wrote shorter, less complex programs than the openly AI-labeled group. Source credibility is part of uptake, and it is fragile: a misattributed source can depress engagement below plain disclosure ([[morris-same-feedback-different-source-2026|Morris & Maes, 2026]]).
 
 A two-layer model shows how the pairing can be organized around a machine without delegating judgment to it. In [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma's worked example]], an [[agentic-ai|agent]] produces a draft rubric-based evidence report on each transcript with every rating tied to quoted excerpts, and the instructor then reviews the report, leads a debrief and decides what the evidence means for that student — a division the authors summarize as the AI organizing evidence while the instructor interprets it. Their claim about uptake is appraisal-based: feedback and iteration outside the social hierarchies students navigate with peers and instructors are easier to attempt, and rehearsal at the student's own pace is what they argue turns occasional confidence into a settled habit of engaging with feedback.
+
+**Uptake capacity conditions what AI feedback yields.** Across 486 EFL students, the link from AI feedback use to autonomy was 0.48 at one SD above the modeled AI literacy mean and 0.23 below it, with a 0.10 serial indirect path on to deep cognitive engagement ([[he-ai-feedback-deep-engagement-efl-2026|He et al. (2026)]]).
 
 ### Why feedback matters for AI in education
 

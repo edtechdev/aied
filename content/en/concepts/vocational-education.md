@@ -1,7 +1,7 @@
 ---
 title: "Vocational Education and Training"
 created: "2026-09-17T14:04:23-04:00"
-updated: "2026-11-04T17:10:00-05:00"
+updated: "2026-11-12T10:45:00-05:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -51,6 +51,7 @@ What is distinctive about AI in VET is a gap between what the sector says it wan
 - **Perceived support is an institutional lever, not a student deficit.** Among 784 students at six Chinese higher vocational colleges, [[huang-ai-literacy-vocational-problem-solving-2026|Huang et al. (2026)]] found [[ai-literacy|AI literacy]]'s link to self-reported [[problem-solving|complex problem solving]] (total 0.480) strengthened with perceived school ICT support: conditional indirect effects rose from 0.117 to 0.176 and 0.038 to 0.127.
 
 - **Curriculum renewal as a continuing obligation, not a periodic review.** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]] identifies five interacting renewal dimensions, occupational transformation, curriculum currency, faculty capability alignment, program architecture and external alignment, and six leadership tests for deciding whether a course should be retained, revised, integrated, replaced or retired.
+- **Judgment over output as the vocational competence.** Evaluating AI-generated work against occupational criteria — accuracy, standards, compliance, safety — is where vocational competence becomes observable, rather than in the artifact itself ([[zheng-ai-evaluative-judgement-vocational-2026|Zheng and Tang (2026)]]).
 
 ## Common Misconceptions
 

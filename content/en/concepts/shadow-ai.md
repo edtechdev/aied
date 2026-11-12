@@ -10,6 +10,12 @@ level: [higher ed, k 12]
 discipline: [information technology]
 confidence: high
 reviewed_by: [editor]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-11-12"
+    agent: hermes-agent
 ---
 
 > **Shadow AI** — the use of AI tools that an institution has not approved, vetted or even catalogued, by the people inside it. The term descends from shadow IT, but the object is different: shadow IT substituted unauthorized systems for approved ones, mostly in information processing, while shadow AI covers tools that generate content, support decisions and perform knowledge work. Control therefore shifts from managing access to regulating use, and the person using the tool is usually the one making the judgment call.

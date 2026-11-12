@@ -11,6 +11,12 @@ level: [higher ed, k 12]
 discipline: [information technology]
 confidence: high
 reviewed_by: [editor]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-11-12"
+    agent: hermes-agent
 ---
 
 > **Institutional AI infrastructure** — the computing, serving, routing and control layer an institution operates so that models can be used across teaching, research and administration under its own rules. It spans the GPUs and clusters that hold the weights, the inference servers that answer requests, the [[llm|gateway]] that meters and routes them, the model cards and audit logs that make the arrangement inspectable, the data pipelines that connect student records to models, and the staff who keep all of it running. It is not the same object as an [[edtech-platform|edtech platform]] (the learner-facing container) or [[governance]] (the policy that constrains both).

@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-11T09:15:28-05:00"
+updated: "2026-11-12T10:45:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -62,6 +62,8 @@ Prose quality is the other shortfall, and it is not the same as reading level. C
 **Rubric-guided prompting as a design lever.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] demonstrated that the rubric functions as a mediating interface between human pedagogical intent and machine inference: treating assessment criteria as revisable design artifacts — rather than fixed instruments — and iteratively co-refining them with the LLM raised LLM–human agreement on student design work from 54.75% to 81.25%. Rubrics engineered for LLMs must balance precision and flexibility — too vague invites free interpretation, too rigid reduces the model to pattern-matching — and role-aware prompting (instructor, peer reviewer, grant reviewer) yielded distinct evaluative feedback. This positions rubric engineering as a concrete learning-design practice for shaping AI evaluation behavior, with human-in-the-loop oversight remaining essential.
 
 **AI agents for instructional design** extend the field into [[agentic-ai|agentic AI]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** is the first standardized, theory-grounded benchmark for evaluating LLM-based instructional design agents. Its 25,795-scenario Context Matrix (51 contextual variables × 33 ISD sub-steps from ADDIE) shows that agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) outperform theory-free agents, empirically validating that instructional design is a structured discipline rather than a generic prompting task. Agents are not only *builders* of designs but also *critics* of them: [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] use a single autonomous web agent that navigates a multi-step online lesson like a student to evaluate a learning design *before* real learners engage. Its description of the [[student-experience|student experience]] predicts where novices will drop out and surfaces actionable design feedback, outperforming every baseline and even a simulated cohort of students on a global CS1 course. This frames pre-launch, agentic evaluation as a low-cost complement to human design iteration. **[[wang-multi-agent-systems-learning-designers-2025]]** and **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** explore multi-agent frameworks that orchestrate role-based agents around instructional-design models, while **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** examines how teachers and agents jointly apply technological-pedagogical-content knowledge. This work connects instructional design to [[benchmark|benchmarking]], [[ai-ed-evaluation]], and the design of [[curriculum-design|curriculum]] at scale.
+
+**Adapted content costs time, not tool skill.** Education professionals named time, materials and competing duties as the obstacles to producing differentiated material, with only 12% calling technology a major barrier ([[hilali-adaptive-learning-challenges-2026|Hilali and Chergui (2026)]]).
 
 ### Connections to related concepts
 

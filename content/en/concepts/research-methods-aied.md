@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-11-01T11:00:00-05:00"
+updated: "2026-11-12T10:45:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -50,6 +50,7 @@ An **efficacy study** tests whether an intervention produces its intended learni
 - **Limitations:** costly and slow; artificial conditions can reduce ecological validity; fast-changing AI tools make long experiments date quickly; small samples often underpower detection of meaningful effects; [[ethics|ethical]] constraints on withholding potentially helpful tools.
 - **Exemplars:** [[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]], [[agent-voice-accents-k12-group-learning]], [[ai-use-critical-thinking-medical-students-2026]].
 - **Preregistration applies to secondary analyses, not only trials.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ran four [[knowledge-tracing]] update rules over identical ASSISTments logs (12,716 students, 985,813 scored events) that differed only in how they score hinted rows, held the confirmatory half sealed until a file containing the registration's URL existed, and reported that all four preregistered predictions held. Crediting any completion predicted later unaided performance barely above a skill-difficulty constant (pooled AUC 0.604 against 0.595) while declaring 93.9% of student–skill pairs mastered against 72.8% under a strict rule. When one log supports several conclusions, fixing the analysis in advance is what makes the comparison credible.
+- **Code AI exclusion explicitly.** A no-AI posttest counts as verified exclusion only when the restriction is documented and compliance is checked; a supervised or paper-based test alone does not qualify ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
 
 ### Survey and structural-equation-modeling studies
 

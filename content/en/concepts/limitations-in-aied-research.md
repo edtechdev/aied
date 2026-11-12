@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T10:45:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -55,6 +55,7 @@ The knowledge base's [[research-methods-aied|research methods]] page details the
 
 - **Model-generated labels are not ground truth.** Where the labels that train or evaluate a system are themselves produced by language models, agreement between annotators cannot establish validity: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] never validated their assertion annotations against human gold labels, and the 49 encoder classifiers they release inherit that provenance and may not be valid where applications differ in significant dimensions. Their schema also strictly underperformed the fine-tuned classifier trained on expert-annotated data (macro-F1 0.673 against 0.76), leaving expert-labeled corpora worthwhile when high confidence is required.
 - **The evidence base itself is unevenly distributed.** A scoping review of 407 technology-supported [[formative-assessment|formative assessment]] studies drew only on Web of Science and Scopus. It also excluded 61 records on language criteria, so the geographic imbalance the field reports may partly reflect which venues are indexed ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+- **The three-condition design is missing.** Across twelve reviewed GenAI studies, none measured assisted performance alongside both an immediate and a delayed no-AI test with verified exclusion, so assisted gains are never tied to retention ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
 
 ## The speed problem: AI evolves faster than findings
 

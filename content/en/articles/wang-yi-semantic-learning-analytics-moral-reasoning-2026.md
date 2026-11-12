@@ -33,17 +33,11 @@ ethics: [ethics, privacy, bias-mitigation]
 ## Key Findings
 
 1. **Every outcome moved, but the design cannot attribute the movement to the module.** Knowledge rose from 6.37 to 10.26 (dz = 1.19), perceived moral-value awareness from 3.69 to 4.00 (dz = 0.70), and coupling from 0.29 to 0.48 (dz = 0.88), with Holm-adjusted p < 0.001 on six outcomes and p = 0.002 on value balance; Wilcoxon tests held the same direction at p ≤ 0.003. With no control group, these are within-participant changes associated with completion.
-
 2. **Students got better at spotting problems than at solving them.** Actual ethical awareness produced the largest standardized gain (2.68 to 3.97, dz = 1.45), while [[problem-solving|problem-solving skills]] rose from 1.99 to 2.96 (dz = 1.17). Identifying ethical risk was easier than proposing feasible responses, which is why the coupling indicator matters more than an issue count.
-
 3. **Automated coding approached, but did not replace, expert judgment.** The [[educational-nlp|semantic coding]] pipeline reached macro-F1 = 0.83, micro-F1 = 0.86, and macro-AUPRC = 0.82, with a standard deviation of 0.03 across five random seeds. Comparison models trailed: RoBERTa-base 0.78, BERT-base 0.74, SBERT 0.72, keyword-rule analysis 0.57. Held-out predictions were never hand-corrected before scoring.
-
 4. **The human reference carried measurable disagreement.** Pre-consensus Krippendorff's α was 0.82 for ethical-issue categories and 0.80 for solutions; ordinal α was 0.84 for actual ethical awareness and 0.81 for problem-solving. Acceptable reproducibility still left non-trivial coder disagreement — a corrective to treating expert labels as unqualified ground truth.
-
 5. **Value representation broadened, unevenly.** Coverage rose from 0.41 to 0.63 and balance from 0.52 to 0.68. Activation increased most for transparency and honesty (0.18 to 0.51), fairness and justice (0.34 to 0.62), and privacy and dignity (0.56 to 0.78); human autonomy (0.22 to 0.36) and civic-social responsibility (0.19 to 0.33) stayed weak.
-
 6. **Coupling gains survived sensitivity checks but remain ontology-dependent.** The primary adjacency rule retained 49 of 70 issue–solution links at a ≥4/5 expert threshold (Fleiss' κ = 0.72). Mean coupling was 0.29 pre and 0.48 post; a ≥3/5 matrix gave 0.31 and 0.50 (dz = 0.84), and a 5/5 matrix 0.26 and 0.45 (dz = 0.86). Absolute levels shift with the matrix; the pattern does not.
-
 7. **Baseline data predicted later change only modestly.** The full baseline-only XGBoost model reached R² = 0.30 (95% CI [0.11, 0.45]), MAE = 0.56, RMSE = 0.71. Adding coverage and balance moved R² from 0.27 to 0.29, and adding coupling took it to 0.30 — increments the authors refuse to read as psychological mechanisms. SHAP ranked baseline problem-solving first, then baseline coupling and baseline actual ethical awareness.
 
 ## What the study measured

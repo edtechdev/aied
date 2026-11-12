@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T12:15:00-05:00"
+updated: "2026-11-12T10:45:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -48,6 +48,7 @@ reviewed_by: [editor]
 - **Adoption tracks the assignment, not the subfield.** Across seven assignments and 211 students, [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] measured LLM use from 89.6% in algorithms to 15.2% in software engineering, attributing the spread to assignment complexity, verifiability and scaffolding rather than to the subject itself.
 
 - **Feedback can be staged so the diagnosis stays hidden.** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas (2026)]] separate an artifact-grounded diagnosis of a student's database schema from the workflow that releases it, with educators authoring the stages; across 383 episodes, 71.1% of feedback reached its target level.
+- **Seventeen requirements mistake types, counted across 211 teams.** Priority errors led (81% of Bachelor's teams), and one zero-shot GenAI prompt matched or beat the teams on scope, story format, priorities and effort ([[spichkova-genai-agile-requirements-2026|Spichkova (2026)]]).
 
 ### Programming pedagogy: from blocks to embodied, game-based learning
 

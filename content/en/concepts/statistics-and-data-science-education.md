@@ -1,7 +1,7 @@
 ---
 title: "Statistics and Data Science Education"
 created: "2026-10-25T11:40:00-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-12T10:45:00-05:00"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -54,6 +54,8 @@ A second strand asks what happens to the data itself. Synthetic data generation 
 The clearest positive results concern tools built for a specific course and a specific language. A purpose-built [[intelligent-tutoring|AI tutor]] wrapped around a hosted API, system-prompted to guide rather than answer, was deployed in a semester-long R programming course for psychology undergraduates: 76% to 84% of students used it in exam-relevant weeks. They [[self-report-measures|self-reported]] spending 53% of their study-tool time with it against 8% for unvetted [[generative-ai|generative AI]] tools, use fell to 50% to 58% once weekly content stopped counting for the exam, and rebounded to 64% in the week before the [[oral-assessment|oral examination]]. Adoption tracking the assessment calendar that closely is a reminder that tool uptake is a study-behavior phenomenon, not only a quality signal.
 
 Scaffolding quality matters independently of access. An experimental comparison of guided against unrestricted [[llm]] access found that explicit training in reasoning-focused scaffolding — stepwise hints, verification — produced better independent performance and better [[self-assessment]] calibration than uncritical reliance, which locates the educational work in the structured interaction rather than in the model. The accessibility strand makes a similar move for the artifact: a roughly 1,500-line JavaScript pipeline derives tactile design parameters from plate dimensions, offers five modular chart builders, and produces print-ready STL in under 250 milliseconds with single-pass [[assistive-technology|Braille]] and English labeling. Optionally it uses a [[multimodal]] model to extract chart specifications from an uploaded image, with mandatory [[teacher-role|teacher]] review before printing. Generation is paired with a human check in both designs.
+
+- **Four-phase AI feedback moved critical thinking.** In an undergraduate analytics course, a structured cycle of elicitation, inquiry, reframing and consolidation produced a 5.64-point adjusted advantage over instructor comments, with formal deduction unmoved ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al. (2026)]]).
 
 ## What the evidence does not yet establish
 

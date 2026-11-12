@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T10:45:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
@@ -87,6 +87,8 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 
 **The mediation runs mostly through ease of use.** [[ai-literacy-tpack-preservice-2026|Zhao (2026)]] tested six indirect paths from [[ai-literacy|AI literacy]] and TPACK to deep learning in 423 pre-service teachers: TPACK through [[technology-acceptance-model|perceived ease of use]] was largest (0.212) and AI literacy through usefulness smallest (0.033), so integration knowledge worked through [[usability-research|usability]] rather than utility.
 **The components do not weigh equally in the AI case.** Among 988 pre-service teachers, TCK (β = 0.67) and TPK (β = 0.41) predicted integrated AI-TPACK while TK alone did not (β = −0.10, p = 0.066), and integrated TPACK predicted attitude toward GenAI (β = 0.75) ([[khalil-tpack-preservice-genai-attitudes-2026|Khalil et al., 2026]]).
+
+**Enactment, not revision, under resource constraint.** Lecturers at a Somaliland university described use shaped by institutional support, absent policy and a \$20 monthly subscription they paid themselves — context TPACK accommodates without changing its components ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
 
 ## Design Implications
 

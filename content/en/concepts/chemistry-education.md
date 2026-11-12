@@ -1,7 +1,7 @@
 ---
 title: Chemistry Education
 created: "2026-08-19T12:55:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T10:45:00-05:00"
 type: concept
 foundations: [ai-literacy, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -37,6 +37,8 @@ Chemistry education has become a fertile domain for AI-in-education research bec
 **Technical accuracy and critical AI literacy.** Systematic evidence shows [[llm|LLMs]] can define basic chemistry terms but perform poorly on rigorous quantitative tasks and struggle with spatial reasoning (e.g., NMR), overconfidence, and notation sensitivity ([[ai-science-chemistry-education-systematic-review-2025|Erümit & Özdemir Sarıalioğlu]]; the ChemBench/QCBench findings in the [[unesco-ai-guidelines-chemical-education-2026|UNESCO perspective]]). This makes **evaluative engagement with AI output** — interrogating, verifying, and cross-checking against chemical principles — a central learning goal, connecting to [[ai-literacy]], [[critical-thinking]], and [[reducing-ai-misuse]].
 
 **Ethics, policy, and epistemic drift.** The [[unesco-ai-guidelines-chemical-education-2026|UNESCO-guidelines perspective]] warns of **epistemic drift** — the risk that opaque algorithms pull inquiry away from causal understanding — and calls for a shift from content delivery to **knowledge creation**, critical AI chemical literacy, human-reasoning-prioritizing assessment, and closing the global [[digital-divide|access gap]].
+
+**Emotional feedback can raise the anxiety it targets.** A semester of AI emotional feedback in ninth-grade laboratories coincided with rising laboratory anxiety (F = 4.60) and a flat sense of achievement, while the teacher-led inquiry class gained (F = 7.92) ([[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]]).
 
 ### Connections to related concepts
 
