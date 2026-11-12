@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-11-12T13:35:00-05:00"
+updated: "2026-11-12T15:20:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -56,6 +56,8 @@ Checkpoint submissions were routine in practice: across six terms of the six-wee
 
 
 **A process trace is only feedback if the learner reads it against the task.** [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] gave eleven translation students Inputlog and screen-recording [[visualization|visualizations]] plus a single 30-minute reflection session. The share of meaning-level revisions rose from 18.1% to 28.4% (t(10) = 4.259, p = 0.002) while total revisions did not change significantly, falling from 1,292.91 to 1,052.36 (p = 0.248). The trace did not make students edit more, only differently, which is the argument for process evidence in one result.
+
+The clearest statement of that risk comes from Winstone, Gravett and Elkington, who argue that process assessment without error valued alongside it "risks becoming performative, encouraging students to present a polished product accompanied by a retrospectively curated account of its development". Their response is to make mistakes and changes of direction creditable in their own right, so that process evidence is a trace of decisions that carried cost rather than a story told afterwards ([[black-box-assessment-winstone-2026|Winstone et al., 2026]]).
 
 ## A different axis from authenticity, and from marking
 
@@ -127,3 +129,4 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[jelson-students-chatgpt-essay-writing-2026]] — A CodeMirror editor plus a logged chat panel turned one essay session into process evidence, with its typing-versus-thinking limit (Jelson et al. 2026)
 - [[xian-process-visualization-feedback-news-translation-2026]] - process visualizations plus one reflection session shifted revision from surface to meaning level without increasing edit volume
 - [[webb-davies-voice-first-written-assessment-2026]] — A two-stage written assessment that secures reasoning under observation before grading a home-written submission, with a conditional viva for unclear links (Webb-Davies, Ratner & Bassett 2026)
+- [[black-box-assessment-winstone-2026]] — Black Box Assessment: process windows, error as evidence, and integrity through visibility (Winstone, Gravett & Elkington 2026)

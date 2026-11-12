@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-11T09:15:28-05:00"
+updated: "2026-11-12T15:20:00-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -176,6 +176,8 @@ Across 546 undergraduates, integrity ranked first among five perception dimensio
 
 Two new papers move the integrity question from policing to design. A criminological mixed-methods analysis of university policies reads the gap between AI capability and institutional rules as cultural lag, with rules written after the practices they govern ([[mcclanahan-ai-cheating-policies-cultural-lag-2026|McClanahan & Dickinson, 2026]]). A position paper argues that code artifacts no longer demonstrate authorship now that generated solutions are indistinguishable from student ones, and proposes assessing the design and explanation of a solution instead ([[oyelere-code-programming-assessment-genai-2026|Oyelere & Kadams, 2026]]).
 
+Winstone, Gravett and Elkington invert the usual logic: integrity is produced by making process visible rather than by policing products. Their Black Box Assessment asks for windows into how work developed, treats error and revision as credit-worthy evidence, and accepts that the design cannot make assessment AI-proof — only make genuine engagement the least effortful and most rewarded path ([[black-box-assessment-winstone-2026|Winstone et al., 2026]]).
+
 ## Common Misconceptions
 
 - **"Detection tools identify AI writing."** AI-generated text has **passed as human-authored in up to 80% of cases**, while the evidence for detection puts **machine detection at about 80% against 78.4% for human raters**. Human and machine judgment are almost equally (un)reliable, so a detection verdict is not evidence of authorship.
@@ -255,4 +257,4 @@ Two new papers move the integrity question from policing to design. A criminolog
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Answerability rather than text proportion as the integrity problem
 - [[crisol-moya-integrity-assessment-2026]] — 546 students: integrity ranks first and is flat across degree programs (Crisol Moya et al. 2026)
 - [[ragab-ai-integrity-verification-model-2026]] — The AI Integrity Crisis: When Artificial Intelligence Challenges What It Means to Earn a Degree
-
+- [[black-box-assessment-winstone-2026]] — Black Box Assessment: process windows, error as evidence, and integrity through visibility (Winstone, Gravett & Elkington 2026)

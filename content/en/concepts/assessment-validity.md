@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-12T13:35:00-05:00"
+updated: "2026-11-12T15:20:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 connected_resources: [vfwa]
@@ -133,6 +133,8 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 
 Webb-Davies, Ratner and Bassett make the same move for written tasks. On their account a final essay under-represents the construct when it cannot show how claims were generated, and the design response is structural rather than procedural: capture reasoning once under observation, in whatever language or modality the student chooses, then grade the later submission against that baseline. They borrow Dawson's distinction between authentication and control of circumstances to argue that one secured checkpoint does more for validity than any rule about permitted use ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
 
+Winstone, Gravett and Elkington frame the GenAI assessment problem as wicked in Rittel and Webber's sense. Discursive responses such as traffic-light systems and declarations cannot secure validity, because they are unenforceable and leave students doing boundary work. Validity has to be rebuilt structurally, in what the task requires students to submit and how the rubric reads it ([[black-box-assessment-winstone-2026|Winstone et al., 2026]]).
+
 ## Common Misconceptions
 
 - **"LLM grading bias is a reason to abandon it."** In a **large-scale national writing assessment**, an LLM scorer showed a **systematic conservative (under-grading) bias** — problematic as a final mark and potentially **useful as a screening** signal. A bias with a known direction is a different instrument from an unpredictable one.
@@ -218,3 +220,4 @@ Webb-Davies, Ratner and Bassett make the same move for written tasks. On their a
 - [[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026]] — Beyond Response Scoring: An AI-aware Cognitive Supervision Framework for Automated Mathematical Short Answer Grading
 - [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — Items passing 87.71% of writing criteria still matched their intended competence level only 25.93% of the time
 - [[webb-davies-voice-first-written-assessment-2026]] — A two-stage written assessment that secures reasoning under observation before grading a home-written submission, with a conditional viva for unclear links (Webb-Davies, Ratner & Bassett 2026)
+- [[black-box-assessment-winstone-2026]] — Black Box Assessment: process windows, error as evidence, and integrity through visibility (Winstone, Gravett & Elkington 2026)

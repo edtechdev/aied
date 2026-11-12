@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-12T13:35:00-05:00"
+updated: "2026-11-12T15:20:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -138,6 +138,8 @@ The most complete classroom account of that redesign is the PAIRR deployment. [[
 
 - **Separate ideation from expression.** Webb-Davies, Ratner and Bassett propose an ungraded, observed capture of reasoning — speech, notes or a map — before a graded submission written at home with AI permitted, on the argument that prose production and disciplinary reasoning are separable constructs ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
 
+- **Assess the process, not only the essay.** Winstone, Gravett and Elkington propose keeping the task and adding windows into how it was built — drafts, logs, reflection on decisions — with rubric language that credits revision and error; their worked example shortens a 2,500-word essay to 1,500 words plus 1,000 words of process evidence so marking stays flat ([[black-box-assessment-winstone-2026|Winstone et al., 2026]]).
+
 ## Common Misconceptions
 
 **"AI writing support is just faster writing."** Writing is a cognitive, social and rhetorical process, not merely output, which is why AI can displace the very mental work that makes writing a learning activity. The design guidance that follows is *coaching, not composing*: have the system question and critique outlines while the learner produces the prose. A tool that generates the draft has removed the thinking the assignment existed to develop, however good the draft is.
@@ -227,3 +229,4 @@ The most complete classroom account of that redesign is the PAIRR deployment. [[
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 sections, 10 courses, 654 students: the flagship PAIRR deployment and its feedback-only prompt
 - [[alam-process-oriented-collaborative-essays-2026]] — Process-oriented collaborative essays: graded iteration and collaboration, with GenAI permitted inside boundaries (Alam & Jackson 2026)
 - [[webb-davies-voice-first-written-assessment-2026]] — A two-stage written assessment that secures reasoning under observation before grading a home-written submission, with a conditional viva for unclear links (Webb-Davies, Ratner & Bassett 2026)
+- [[black-box-assessment-winstone-2026]] — Black Box Assessment: process windows, error as evidence, and integrity through visibility (Winstone, Gravett & Elkington 2026)
