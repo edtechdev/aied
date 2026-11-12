@@ -3,6 +3,7 @@ title: "The Impact of AI on Work in Higher Education"
 created: "2026-11-12T14:10:00-05:00"
 updated: "2026-11-12T14:10:00-05:00"
 type: article
+evidence_context: educational
 sources: ['raw/papers/robert-educause-impact-ai-work-higher-education-2026.md']
 confidence: high
 page_kind: [evaluation]

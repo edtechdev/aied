@@ -3,6 +3,7 @@ title: "An academic chatbot with hybrid retrieval and local large language model
 created: "2026-11-12T11:55:00-05:00"
 updated: "2026-11-12T11:55:00-05:00"
 type: article
+evidence_context: educational
 sources: ['raw/papers/guadalupe-academic-chatbot-local-llm-2026.md']
 confidence: medium
 page_kind: [evaluation]

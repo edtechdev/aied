@@ -3,6 +3,7 @@ title: "Relief or displacement? How teachers are negotiating generative AI's rol
 created: "2026-11-12T14:25:00-05:00"
 updated: "2026-11-12T14:25:00-05:00"
 type: article
+evidence_context: educational
 sources: ['raw/papers/dangol-relief-or-displacement-teachers-generative-ai-2026.md']
 confidence: high
 page_kind: [evaluation]

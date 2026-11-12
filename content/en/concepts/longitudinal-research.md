@@ -6,6 +6,12 @@ type: concept
 research_method: [literature review]
 confidence: high
 methods: [longitudinal-research, research-methods-aied, quantitative-research]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-11-12"
+    agent: hermes-agent
 reviewed_by: [editor]
 ---
 

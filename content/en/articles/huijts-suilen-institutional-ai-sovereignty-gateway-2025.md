@@ -3,6 +3,7 @@ title: "Institutional AI Sovereignty Through Gateway Architecture: Implementatio
 created: "2026-11-12T11:45:00-05:00"
 updated: "2026-11-12T11:45:00-05:00"
 type: article
+evidence_context: educational
 sources: ['raw/papers/huijts-suilen-institutional-ai-sovereignty-gateway-2025.md']
 confidence: medium
 page_kind: [evaluation]

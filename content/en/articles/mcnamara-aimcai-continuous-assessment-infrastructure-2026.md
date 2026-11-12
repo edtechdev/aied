@@ -3,6 +3,7 @@ title: "AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting L
 created: "2026-11-12T13:15:00-05:00"
 updated: "2026-11-12T13:15:00-05:00"
 type: article
+evidence_context: educational
 sources: ['raw/papers/mcnamara-aimcai-continuous-assessment-infrastructure-2026.md']
 confidence: medium
 page_kind: [framework]

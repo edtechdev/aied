@@ -3,6 +3,7 @@ title: "How Is Shadow AI Legitimized in Higher Education? A Qualitative Study Am
 created: "2026-11-12T14:15:00-05:00"
 updated: "2026-11-12T14:15:00-05:00"
 type: article
+evidence_context: educational
 sources: ['raw/papers/rameskumar-shadow-ai-legitimized-higher-education-2027.md']
 confidence: medium
 page_kind: [evaluation]

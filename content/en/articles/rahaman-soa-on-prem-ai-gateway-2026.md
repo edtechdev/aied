@@ -3,6 +3,7 @@ title: "Service-Oriented Architecture for an On-Premises AI Gateway Without an O
 created: "2026-11-12T13:10:00-05:00"
 updated: "2026-11-12T13:10:00-05:00"
 type: article
+evidence_context: educational
 sources: ['raw/papers/rahaman-soa-on-prem-ai-gateway-2026.md']
 confidence: high
 page_kind: [evaluation]

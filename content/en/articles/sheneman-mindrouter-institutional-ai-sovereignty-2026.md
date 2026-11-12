@@ -3,6 +3,7 @@ title: "MindRouter: Open-Source LLM Inference Gateway for Institutional AI Sover
 created: "2026-11-12T12:20:00-05:00"
 updated: "2026-11-12T12:20:00-05:00"
 type: article
+evidence_context: educational
 sources: ['raw/papers/sheneman-mindrouter-institutional-ai-sovereignty-2026.md']
 confidence: high
 page_kind: [evaluation]

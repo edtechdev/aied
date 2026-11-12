@@ -3,6 +3,7 @@ title: "AI in institutional workflows: Learning from higher education to unlock 
 created: "2026-11-12T13:05:00-05:00"
 updated: "2026-11-12T13:05:00-05:00"
 type: article
+evidence_context: educational
 sources: ['raw/papers/pardos-borchers-institutional-workflows-oecd-2026.md']
 confidence: high
 page_kind: [synthesis]

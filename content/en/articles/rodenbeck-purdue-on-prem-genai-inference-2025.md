@@ -3,6 +3,7 @@ title: "Providing On-Prem GenAI Inference Services to a Campus Community"
 created: "2026-11-12T11:50:00-05:00"
 updated: "2026-11-12T11:50:00-05:00"
 type: article
+evidence_context: educational
 sources: ['raw/papers/rodenbeck-purdue-on-prem-genai-inference-2025.md']
 confidence: high
 page_kind: [evaluation]

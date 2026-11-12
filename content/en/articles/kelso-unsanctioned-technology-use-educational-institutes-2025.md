@@ -3,6 +3,7 @@ title: "'It's not approved, but many, like myself, ignore the rule': Investigati
 created: "2026-11-12T14:20:00-05:00"
 updated: "2026-11-12T14:20:00-05:00"
 type: article
+evidence_context: educational
 sources: ['raw/papers/kelso-unsanctioned-technology-use-educational-institutes-2025.md']
 confidence: medium
 page_kind: [evaluation]
