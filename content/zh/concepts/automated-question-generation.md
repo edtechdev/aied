@@ -42,7 +42,7 @@ ai_assist:
 
 - **先生成再验证的流水线：** [[generate-then-validate-question-gen|Generate-Then-Validate]]引入了一条"生成 → 验证 → 精炼"循环，与直接生成相比把 LLM 幻觉减少了 62%，在 [[stem-education|STEM]]数据集上达到 89% 准确率，相关性提升 23%。验证步骤过滤无效或低质量的题目，失败的题目会触发带纠正性提示的重新生成。
 - **基于知识追踪的生成：** [[kt4eqg-personalized-question-generation|KT4EQG]]在 [[knowledge-tracing|知识追踪]]的引导下生成个性化练习题目，为每个学习者的知识状态定制题目，而非生成通用题目。
-- **把误解绑定的干扰项作为诊断标签：** [[colearn-agentic-tutor-co-learning-loop-2026|CoLearn（He 等，2026）]]为每个干扰项绑定一个挖掘出的误解，并标出唯一正确选项，使题目在生成时就内建了诊断目标，随后可以确定性评分而无需调用 [[llm]]——在作者的实时部署中约 7.6 秒、约 \\$0.005 一轮，而 LLM 评分的简答题轮次约 32 秒、\\$0.015。这种绑定只与它背后的误解标签一样好，因为挖掘出的 [[misconceptions]]与目标误解的匹配度为 F1 ≈ 0.56，其题目选择在 0.72 的情况下服务于一项真正薄弱的技能。
+- **把误解绑定的干扰项作为诊断标签：** [[colearn-agentic-tutor-co-learning-loop-2026|CoLearn（He 等，2026）]]为每个干扰项绑定一个挖掘出的误解，并标出唯一正确选项，使题目在生成时就内建了诊断目标，随后可以确定性评分而无需调用 [[llm]]——在作者的实时部署中约 7.6 秒、约 \$0.005 一轮，而 LLM 评分的简答题轮次约 32 秒、\$0.015。这种绑定只与它背后的误解标签一样好，因为挖掘出的 [[misconceptions]]与目标误解的匹配度为 F1 ≈ 0.56，其题目选择在 0.72 的情况下服务于一项真正薄弱的技能。
 - **认知深度感知的生成：** [[llm-educational-question-cognitive-depth|评估 LLM 生成题目的认知深度]]考察生成的题目是否触及 [[critical-thinking|高阶思维]]（创造、评价），还是只有记忆，连接到 Bloom 分类法与 [[educational-measurement|教育测量]]。
 - **用于重复评估的含错案例题：** [[automated-constructive-assessment-hdr-llm-2026|Takahashi 等（2026）]]生成了新的层级诊断推理（HDR）题目——带有刻意嵌入错误、学生必须找出并解释的短案例——发现 GPT-4o 撰写的题目在内部一致性（两者 Cronbach's α = 0.78）与难度上与人类撰写的题目相当，Fisher 精确检验在 100 名参与者中未发现分数分布显著差异。该格式把 [[critical-thinking|高阶思维]]要求与受约束的回答配对，使答案收敛、评分可复现。其生成动机是题目复用：复用一个案例会引来记忆与答案复用，而结构等价但情境不同的生成案例则抑制了重复测量中的题目偏差。
 - **[[pedagogy|教学法]]流水线：** [[slidesqaqa-pedagogical-question-generation|幻灯片问答生成]]使用一条多阶段流水线，从课程材料中生成教学上合理的题目。

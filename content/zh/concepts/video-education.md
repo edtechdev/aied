@@ -38,7 +38,7 @@ ai_assist:
 ### 知识库的研究如何聚类
 
 - **AI 生成与个性化的教学视频。** 一条核心线索追问学生是否接受 AI 产出的视频，以及它与人类录制内容相比如何。[[ai-generated-instructional-videos-computing-ed|计算教育中的学生调查]]探查了对 AI 生成教学视频的认知与偏好。在一项大规模实地部署中，[[personalized-ai-generated-videos-preference-2026|Tomlinson 等（2026）]]发现学生偏好 AI 生成的*个性化*视频，胜过未个性化的人类录制讲座——在这一偏好中，个性化效应压过了对真人主讲者的重视。[[ai-video-dual-gatekeeping-2026|双重把关研究]]展示了教师监督（"把关"）横跨 AI 视频制作的两个阶段如何产出更有教学基础的输出，这与[[human-in-the-loop-ai|人在环中]]设计相联结。
-- **自适应与结构化视频生成。** [[courseblueprint-adaptive-video-generation|CourseBlueprint]]提供一条结构化流水线，基于课程语料生成有自适应教学性的视频，表明驱动有效 AI 视频的是明确的教学结构——而不只是[[ai-literacy|AI 流畅度]]。[[bespoke-industry-personalized-lecture-videos-2026|Bespoke]]把同一逻辑应用于整场讲座的规模：从 31 场研究生讲座生成 209 个视频，面向医疗、金融、能源与通用受众，25 位领域匹配的专家对其中的 92 个评分，把 87% 放在或高于"一堂标准 MOOC 讲座的质量"这一中点之上（5 分制均值 3.42），每分钟 API 成本约 \\$0.22——语音、幻灯片时机与版式是反复出现的缺陷。
+- **自适应与结构化视频生成。** [[courseblueprint-adaptive-video-generation|CourseBlueprint]]提供一条结构化流水线，基于课程语料生成有自适应教学性的视频，表明驱动有效 AI 视频的是明确的教学结构——而不只是[[ai-literacy|AI 流畅度]]。[[bespoke-industry-personalized-lecture-videos-2026|Bespoke]]把同一逻辑应用于整场讲座的规模：从 31 场研究生讲座生成 209 个视频，面向医疗、金融、能源与通用受众，25 位领域匹配的专家对其中的 92 个评分，把 87% 放在或高于"一堂标准 MOOC 讲座的质量"这一中点之上（5 分制均值 3.42），每分钟 API 成本约 \$0.22——语音、幻灯片时机与版式是反复出现的缺陷。
 - **一个学习闭环胜过更好的渲染。** [[pivot-generative-video-tutors-stem-2026|Ma 等（2026）]]把每个视频规划为一张故事板：目标、先修激活、讲解示例与诊断性探针，配一个刻意避开视频示例的测验和每个错误选项的补救；32 位教师中有 96.9% 判断该闭环比单个视频更有效。
 - **视频学习分析与注意力。** 对视频加以仪器化，能揭示学习者如何投入。[[engagement-assessment-video|视频学习中的参与度评估]]与[[savvy-student-attention-video-learning|SAVVY]]可视化学生在视频学习期间的注意力，支持[[learning-analytics|学习分析]]、[[self-regulated-learning|自我调节]]与脱离投入的早期预警。分段工作（例如[[adhd-video-segmentation-computing-education|时序视频分段]]）把视频裁剪到个体差异。
 

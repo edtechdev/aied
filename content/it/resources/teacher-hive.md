@@ -39,7 +39,7 @@ Gli insegnanti K–12 che hanno usato l'[[generative-ai|IA generativa]] per cost
 
 ## Note e avvertenze
 
-Member e Builder sono gratuiti (Builder: 50 app, 50 MB); Pro costa 10 $ al mese o 60 $ all'anno per 500 app. L'accesso è freemium.
+Member e Builder sono gratuiti (Builder: 50 app, 50 MB); Pro costa 10 \$ al mese o 60 \$ all'anno per 500 app. L'accesso è freemium.
 
 La privacy è l'affermazione più forte, ma sposta la responsabilità sugli insegnanti. Teacher Hive non crea account studente, non chiede agli studenti informazioni personali e non esegue script di analytics o pubblicitari dentro le app pubblicate. Poiché le app sono pubbliche tramite link, i termini rendono gli insegnanti responsabili di garantire che le loro app non raccolgano nomi, email, ID studente o posizione. La copertura dell'accessibilità (WCAG 2.2 AA) si applica alle pagine di Teacher Hive, non alle app fatte dagli insegnanti, che non sono testate. Non è dichiarata alcuna licenza open source, e uptime e conservazione dei dati non sono garantiti.
 

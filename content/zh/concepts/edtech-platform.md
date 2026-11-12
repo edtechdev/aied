@@ -56,7 +56,7 @@ ai_assist:
 
 顺序与能力同样重要：一项对100多项AI-in-教育研究（2020–2025）的综述把端到端平台置于采用栈的顶端，论证机构应先奠定形成性评估、领导力容量与共享规范，再去购买把它们规模化的平台（[[raza-farooq-aied-review-2020-2025|Raza与Farooq（2025）]]）。
 
-落差是消息层面的，不是登录层面：在一项为期两年的整群随机试验中，96%的学生试过Khanmigo，但中位学生只在17%出错课次中给它发过消息，且~14.5%的消息携带了真正的数学问题或推理步骤 —— 成本为每名学生每年\\$15（[[one-click-away-khanmigo-two-year-school-experiment-2026|Oreopoulos与Low, 2026]]）。
+落差是消息层面的，不是登录层面：在一项为期两年的整群随机试验中，96%的学生试过Khanmigo，但中位学生只在17%出错课次中给它发过消息，且~14.5%的消息携带了真正的数学问题或推理步骤 —— 成本为每名学生每年\$15（[[one-click-away-khanmigo-two-year-school-experiment-2026|Oreopoulos与Low, 2026]]）。
 
 绑定约束在于AI坐在平台的哪个位置：在一项6,000名初中生的试验中，测得的效应来自练习环境内的结构化触点 —— 每位达到掌握的学生有2.0次"帮我开始"、2.3次出错后讲解和3.2次步骤解释 —— 而单是AI访问几乎没带来增益（[[making-ai-tutoring-productive-mastery-math-2026|Oreopoulos等人（2026）]]）。
 
@@ -75,7 +75,7 @@ ai_assist:
 
 ### AI原生平台正在重塑在线教育
 
-平台范式本身在演进。**MAIC**（Massive AI-empowered Course，大规模AI赋能课程）用[[llm]]驱动的多智能体课堂 —— "N个智能体对1个学生" —— 取代了MOOC的"N个学生一个视频"模式，用专门的[[teacher-role|教师]]、助手、同学和分析智能体交付规模化的个性化自适应学习，它把课程制作从约\\$25K/60小时降到不足\\$2/30分钟。([[mooc-to-maic]]) 类似地，AI集成的LMS设计提出超越仅工作流型平台，走向带策略门控（有界）AI、形成性提示、间隔复习与教师[[visualization|仪表盘]]的实时教学支持。([[ai-lms-middle-school-longitudinal]]) 在部署谱的另一端，课堂嵌入的AI必须在真实物理环境中证明可行。Community Builder（[[breideband-community-builder-cobi-2026|CoBi]]）—— 一个用[[speech-and-voice-technologies|语音识别]]与语言理解来可视化小组协作话语的全班平台 —— 借助商用麦克风与可扩展的云流水线在嘈杂的初中课堂成功部署，显示实时语音-AI基础设施能在真实的[[k-12|K-12]]环境中运作，即便界面错配（教师与学生视角对反馈是组级还是班级级的分歧）造成了部署摩擦。
+平台范式本身在演进。**MAIC**（Massive AI-empowered Course，大规模AI赋能课程）用[[llm]]驱动的多智能体课堂 —— "N个智能体对1个学生" —— 取代了MOOC的"N个学生一个视频"模式，用专门的[[teacher-role|教师]]、助手、同学和分析智能体交付规模化的个性化自适应学习，它把课程制作从约\$25K/60小时降到不足\$2/30分钟。([[mooc-to-maic]]) 类似地，AI集成的LMS设计提出超越仅工作流型平台，走向带策略门控（有界）AI、形成性提示、间隔复习与教师[[visualization|仪表盘]]的实时教学支持。([[ai-lms-middle-school-longitudinal]]) 在部署谱的另一端，课堂嵌入的AI必须在真实物理环境中证明可行。Community Builder（[[breideband-community-builder-cobi-2026|CoBi]]）—— 一个用[[speech-and-voice-technologies|语音识别]]与语言理解来可视化小组协作话语的全班平台 —— 借助商用麦克风与可扩展的云流水线在嘈杂的初中课堂成功部署，显示实时语音-AI基础设施能在真实的[[k-12|K-12]]环境中运作，即便界面错配（教师与学生视角对反馈是组级还是班级级的分歧）造成了部署摩擦。
 
 ### 基于兴趣与上下文感知的平台功能
 

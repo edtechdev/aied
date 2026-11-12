@@ -59,7 +59,7 @@ Personel kapasitesi anket çalışmalarında yinelenen kısıttır: 38 Nijerya k
 
 ## Bir YZ sorunu olarak kamusal erişim
 
-Kütüphanenin en eski işlevi — bireylerin satın alamadığı erişimi sağlamak — yeni bir nesne edindi. [[public-ai-libraries|Kamusal YZ Kütüphaneleri]] pilotu, halk kütüphanelerine ortak bir YZ iş istasyonu yerleştirir, her kullanıcıya ayrı bir hesap verir ve katılan kütüphanelerden kiosk başına yılda 1.000 $ alır. Model yayılsa da yayılmasa da eşitlik argümanını tam olarak adlandırır: artık YZ yeteneğinden geçen bir [[digital-divide|dijital uçurumda]] kütüphane, kişi başı abonelik yerine ortak, personelli erişim sağlayabilecek kurumdur.
+Kütüphanenin en eski işlevi — bireylerin satın alamadığı erişimi sağlamak — yeni bir nesne edindi. [[public-ai-libraries|Kamusal YZ Kütüphaneleri]] pilotu, halk kütüphanelerine ortak bir YZ iş istasyonu yerleştirir, her kullanıcıya ayrı bir hesap verir ve katılan kütüphanelerden kiosk başına yılda 1.000 \$ alır. Model yayılsa da yayılmasa da eşitlik argümanını tam olarak adlandırır: artık YZ yeteneğinden geçen bir [[digital-divide|dijital uçurumda]] kütüphane, kişi başı abonelik yerine ortak, personelli erişim sağlayabilecek kurumdur.
 
 ## Bunun uygulama için anlamı
 

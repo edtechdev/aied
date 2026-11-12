@@ -62,7 +62,7 @@ ai_assist:
 - **可规模化的对话式辅导。** 基于成熟的 [[intelligent-tutoring]] 技术（[[conversational-ai-tutors-framework|keep/change/center/study 框架]]）构建的 [[conversational-ai]] 辅导者，承诺提供高质量、基于对话的辅导——调动学生的想法、问题与 [[misconceptions]]——远比人类辅导更具可规模化性。
 - **促进与分析。** AI 可以支持 [[collaborative-learning|在线讨论]]与 [[learning-analytics]]，预测参与度，并帮助教师分配注意力。[[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova (2026)]] 补充说，LLM 生成的讨论摘要可以在大型异步论坛中充当导航性 [[scaffolding|支架]]——拓宽学生的同伴接触面和桥接型社会资本的网络条件，而无需学生或教师承担摘要工作量。
 - **面向高风险在线学习者的预警分析。** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] 表明，对内容交互日志的可解释 [[machine-learning|机器学习]]可预测模块级进度，并在大规模在线 [[cs-education|编程]]课程中于模块截止日期前 7–8 天标记辍学（"未提交"）结果，给在线教师一个具体窗口去 [[teacher-role|干预]]脱离参与的学生，而不是事后才发现失败。
-- **可负担性与速度。** AI 可以以传统成本的一小部分生成课程材料——MAIC 将 MOOC 课程制作从约 \\$25K/60 小时降至不到 \\$2/30 分钟。
+- **可负担性与速度。** AI 可以以传统成本的一小部分生成课程材料——MAIC 将 MOOC 课程制作从约 \$25K/60 小时降至不到 \$2/30 分钟。
 
 ## AI 时代在线教学的挑战
 

@@ -62,7 +62,7 @@ ai_assist:
 - **규모 있는 대화형, 대화적 교습.** 검증된 [[intelligent-tutoring]] 기술 위에 세워진 [[conversational-ai]] 교사([[conversational-ai-tutors-framework|유지/변경/중심/연구 프레임워크]])는 인간 교습보다 훨씬 더 규모 있는, 고품질 대화 기반 교습 — 학생의 생각, 질문, [[misconceptions]]를 끌어들이는 — 을 약속합니다.
 - **촉진과 분석.** AI는 [[collaborative-learning|온라인 토론]]과 [[learning-analytics]], 참여 예측, 교사의 주의 배분 지원을 도울 수 있습니다. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova(2026)]]는 LLM 생성 토론 요약이 큰 비동기 포럼에서 항해용 [[scaffolding|비계]]로 기능할 수 있음을 더합니다 — 학생이나 교사에게 요약 업무를 부담시키지 않으면서 학생의 동료 노출과 가교적 사회자본의 네트워크 조건을 넓히는.
 - **위험에 처한 온라인 학습자를 위한 조기 경보 분석.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska(2025)]]는 내용 상호작용 기록에 대한 해석 가능한 [[machine-learning|기계 학습]]이 모듈 수준 진행을 예측하고 대규모 온라인 [[cs-education|프로그래밍]] 강좌에서 중도 이탈("미제출") 결과를 모듈 마감 최대 7–8일 전에 표시함을 보여 줍니다. 온라인 교사에게 참여하지 않는 학생에게 [[teacher-role|개입]]할 구체적 창을 주며, 실패를 사후에야 발견하지 않게 합니다.
-- **접근성과 속도.** AI는 전통적 비용의 일부로 강좌 자료를 생성할 수 있습니다 — MAIC은 MOOC 강좌 제작을 ~\\$25K/60시간에서 \\$2/30분 미만으로 줄였습니다.
+- **접근성과 속도.** AI는 전통적 비용의 일부로 강좌 자료를 생성할 수 있습니다 — MAIC은 MOOC 강좌 제작을 ~\$25K/60시간에서 \$2/30분 미만으로 줄였습니다.
 
 ## AI 시대 온라인 교수의 도전
 
