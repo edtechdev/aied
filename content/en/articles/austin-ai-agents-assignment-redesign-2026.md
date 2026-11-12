@@ -1,7 +1,7 @@
 ---
 title: "When AI Agents Can Complete the Assignment: Practical Strategies for Designing Tasks That Still Require Human Thinking"
 created: "2026-09-20T16:21:27-04:00"
-updated: "2026-09-20T16:21:27-04:00"
+updated: "2026-11-12T16:20:00-05:00"
 type: article
 sources: ['raw/papers/austin-ai-agents-assignment-redesign-2026.md']
 confidence: high
@@ -21,7 +21,7 @@ reviewed_by: [editor]
 - Three assignment categories break in AI-saturated environments: information-retrieval tasks such as research papers and online quizzes, tasks graded on polish rather than reasoning, and tasks with no decision history.
 - The agent weaknesses she names are no lived memory, confident ignorance, inconsistency across linked responses, difficulty holding positions under pressure, no local or tacit knowledge, and no reproducibility.
 - Table 2 maps each failure mode to a design strategy: pre-commitment, decision trace, critique phase, constraint injection, a multi-stage protocol, position-holding and context-embedded tasks, and embedded [[metacognition]].
-- The UnBlooms™ five-level scale runs Critically Recognize, Identify, Analyze and Evaluate, then Create/Resist, scored 1 to 5 points, where documented opting out of AI counts as a top-level outcome.
+- The [UnBlooms™ five-level scale](https://unblooms.com/) runs Critically Recognize, Identify, Analyze and Evaluate, then Create/Resist, scored 1 to 5 points, where documented opting out of AI counts as a top-level outcome.
 - The Multi-Stage AI Interaction Protocol runs five sections — Baseline, Constraint Injection, Decision Trace, Counterfactual [[reflection]], and Confidence Calibration, where students rate confidence from 0 to 100 percent and explain what would raise it.
 - The UnBlooms™ Discernment Rate is the share of AI outputs a learner interrogates, challenges or revises rather than accepts; near zero across five assignments signals a task-design problem, not cheating.
 - Dizon et al.'s Metacognitive Laziness Scale shows that offloading goal-setting, error monitoring, and strategic reflection is distinct from work avoidance and tied to academic disaffection.
@@ -53,4 +53,4 @@ Assessment here grades the reasoning trail rather than the output, and the five-
 
 ## Citation
 
-Austin, T. (2026). [When AI Agents Can Complete the Assignment: Practical Strategies for Designing Tasks That Still Require Human Thinking](https://doi.org/10.65201/PBYM5654). *Journal of Instructional Design and Technology*, 1(2), 8-18.
+Austin, T. (2026). [When AI Agents Can Complete the Assignment: Practical Strategies for Designing Tasks That Still Require Human Thinking](https://joidat.scholasticahq.com/article/164952-when-ai-agents-can-complete-the-assignment-practical-strategies-for-designing-tasks-that-still-require-human-thinking). *Journal of Instructional Design and Technology*, 1(2), 8-18.
