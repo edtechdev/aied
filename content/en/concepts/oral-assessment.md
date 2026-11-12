@@ -1,7 +1,7 @@
 ---
 title: Oral Assessment
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-11-09T10:25:00-05:00"
+updated: "2026-11-12T13:35:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 connected_resources: [code-viva]
@@ -42,6 +42,8 @@ That reversal is now visible across the research corpus, but unevenly. Some work
 [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]] makes the strongest form of the argument. Drawing on the literature on [[authentic-assessment|authentic assessment]], the paper's case for the oral exam rests on its interactivity: questions can be withheld until the moment of the exam, follow-up probes can be improvised, and the learner cannot rehearse a response to a question they have not seen. The format also blocks rote memorisation, because recall is checked through explanation rather than reproduction. The paper is a review and position piece in *Educational Researcher*, not an empirical study, and it ends with thirteen numbered implementation recommendations rather than evidence of improved outcomes.
 
 The honest version of the integrity claim is narrower than it is often stated. Orals make substitution harder to hide; the corpus does not show that they reduce AI use. In [[code-review-genai-cs1|the CS1 oral code-review study]], weekly fifteen-minute interviews carried seventy per cent of each assignment's grade, and pasted-to-total characters still rose from 61.0 per cent to 68.1 per cent (p < 0.0001) across three semesters, while exam scores moved by a statistically insignificant two per cent. Ninety per cent of students said the reviews motivated them to understand their code better and sixty-five per cent that they helped avoid over-reliance on AI, but the measured behavior did not follow. Oral assessment changed what could be hidden, not what students did.
+
+The bounded version of that safeguard appears in Webb-Davies, Ratner and Bassett's assessment model, where a viva is triggered only when the assessor cannot reconstruct a plausible link between an observed reasoning baseline and the final submission. The authors are explicit that this is not a routine oral: it asks how a position developed or why evidence was chosen, and a confirmed account carries no penalty. The design keeps oral assessment rare enough to scale while conceding that the judgment itself cannot be automated ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
 
 ## The design space the corpus actually covers
 
@@ -122,4 +124,4 @@ The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearabl
 - [[assessment-feedback-trilemma-model-2026]] — Denies any format a fixed position and reframes feasibility as an educational priority
 - [[onodipe-enhance-not-replace-ai-classroom-2026]] — AI-scaffolded pair orals as a scheduling workaround in a business-statistics course
 - [[deng-certification-consultation-university-teaching-2026]] — University teaching after generative AI: beyond lectures and inquiry to a certification-and-consultation paradigm in which learners become evaluators
-
+- [[webb-davies-voice-first-written-assessment-2026]] — A two-stage written assessment that secures reasoning under observation before grading a home-written submission, with a conditional viva for unclear links (Webb-Davies, Ratner & Bassett 2026)

@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-12T19:20:00-05:00"
+updated: "2026-11-12T13:35:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -136,6 +136,8 @@ For task design the claim is that rigor and commitment interact rather than add.
 
 The most complete classroom account of that redesign is the PAIRR deployment. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] report 13 sections of 10 writing-intensive courses and 654 students in 2024, spanning developmental writing, first-year composition, professional writing and STEM writing courses. Students read about language models first, then exchanged peer feedback, and only then prompted a chatbot for rubric-driven feedback. The prompt said "Do not rewrite my paper for me." The authors' argument for the sequence is what the course can control: a model positioned as one peripheral voice cannot take over the draft without the instructor's rubric noticing.
 
+- **Separate ideation from expression.** Webb-Davies, Ratner and Bassett propose an ungraded, observed capture of reasoning — speech, notes or a map — before a graded submission written at home with AI permitted, on the argument that prose production and disciplinary reasoning are separable constructs ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
+
 ## Common Misconceptions
 
 **"AI writing support is just faster writing."** Writing is a cognitive, social and rhetorical process, not merely output, which is why AI can displace the very mental work that makes writing a learning activity. The design guidance that follows is *coaching, not composing*: have the system question and critique outlines while the learner produces the prose. A tool that generates the draft has removed the thinking the assignment existed to develop, however good the draft is.
@@ -224,3 +226,4 @@ The most complete classroom account of that redesign is the PAIRR deployment. [[
 - [[al-nafjan-genai-eap-writing-engagement-2026]] — Rigor and teacher commitment as the two dimensions of GenAI-era writing engagement
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 sections, 10 courses, 654 students: the flagship PAIRR deployment and its feedback-only prompt
 - [[alam-process-oriented-collaborative-essays-2026]] — Process-oriented collaborative essays: graded iteration and collaboration, with GenAI permitted inside boundaries (Alam & Jackson 2026)
+- [[webb-davies-voice-first-written-assessment-2026]] — A two-stage written assessment that secures reasoning under observation before grading a home-written submission, with a conditional viva for unclear links (Webb-Davies, Ratner & Bassett 2026)

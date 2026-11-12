@@ -1,9 +1,10 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-12T06:10:00-05:00"
+updated: "2026-11-12T13:35:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
+connected_resources: [vfwa]
 foundations: [academic-integrity]
 assessment: [authentic-assessment, automated-assessment, formative-assessment]
 ethics: [bias-mitigation, equity-in-ai-education]
@@ -130,6 +131,8 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 
 - **Evidence sufficiency, not artifact purity, is the validity question.** [[bayraktar-beyond-ai-proofing-assessment-validity-2026|Bayraktar (2026)]] argues that when AI can produce a plausible artifact, the polished product no longer warrants a claim about learning; her framework adds judgment-centered tasks, process evidence, metacognitive explanation and feedback response to the evidentiary base. It is a design heuristic, not a tested intervention.
 
+Webb-Davies, Ratner and Bassett make the same move for written tasks. On their account a final essay under-represents the construct when it cannot show how claims were generated, and the design response is structural rather than procedural: capture reasoning once under observation, in whatever language or modality the student chooses, then grade the later submission against that baseline. They borrow Dawson's distinction between authentication and control of circumstances to argue that one secured checkpoint does more for validity than any rule about permitted use ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
+
 ## Common Misconceptions
 
 - **"LLM grading bias is a reason to abandon it."** In a **large-scale national writing assessment**, an LLM scorer showed a **systematic conservative (under-grading) bias** — problematic as a final mark and potentially **useful as a screening** signal. A bias with a known direction is a different instrument from an unpredictable one.
@@ -214,3 +217,4 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - [[liu-argumentative-work-visible-genai-assessment-2026]] — Task format and AI-use instructions as what the artifact can evidence (Liu & Liu 2026)
 - [[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026]] — Beyond Response Scoring: An AI-aware Cognitive Supervision Framework for Automated Mathematical Short Answer Grading
 - [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — Items passing 87.71% of writing criteria still matched their intended competence level only 25.93% of the time
+- [[webb-davies-voice-first-written-assessment-2026]] — A two-stage written assessment that secures reasoning under observation before grading a home-written submission, with a conditional viva for unclear links (Webb-Davies, Ratner & Bassett 2026)

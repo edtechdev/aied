@@ -334,3 +334,9 @@
   - institutional-ai-infrastructure
   - open-source
   reason: 'Amplify is an MIT-licensed platform an institution deploys into its own cloud account, which is the openness argument the open-source page makes in practice; the page now lists it in connected_resources. Not listed on rag: the platform uses retrieval but is not a method the page documents. Not listed on governance: the cost-accounting and per-user-limit features are operational controls, not the policy and accountability questions that page covers. Both infrastructure resources would belong on a future enterprise-AI-hosting concept page, which does not exist yet.'
+- resource: vfwa
+  reviewed: '2026-11-12'
+  hosts:
+  - process-oriented-assessment
+  - assessment-validity
+  reason: 'VFWA is a design for the exact question the process-oriented-assessment page asks, how a written task can produce evidence of reasoning rather than a product, and the model is built on the validity argument the assessment-validity page carries, which is why both host pages now list it in connected_resources. Not listed on oral-assessment: the viva is a bounded safeguard triggered by an unclear link, not an oral assessment format the page is about. Not listed on writing-education: the page is about teaching writing, and the resource is an assessment structure that applies beyond writing.'

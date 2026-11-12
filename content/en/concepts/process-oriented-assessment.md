@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-11-12T19:25:00-05:00"
+updated: "2026-11-12T13:35:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -10,7 +10,7 @@ assessment: [assessment, ai-detection, assessment-validity, authentic-assessment
 ethics: [equity-in-ai-education]
 level: [higher ed]
 confidence: high
-connected_resources: [process-feedback, code-viva]
+connected_resources: [process-feedback, code-viva, vfwa]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -40,6 +40,8 @@ The idea has moved from a proposition to a recurring recommendation across the k
 The most explicit design vocabulary comes from Thapa and Lewis, whose four commitments carry the argument into task design: reflective justification, staged task design, dialogic engagement, and evaluative transparency. In practice, students explain interpretive decisions rather than only presenting conclusions, submit work that develops across checkpoints, take part in [[oral-assessment|oral or dialogic]] exchanges about their reasoning, and work against criteria they can apply themselves — the terrain of [[feedback-literacy|feedback literacy]] and [[self-assessment]]. Boysen's (2026) proposal for open learning practices translates the same logic into an audit trail: a shared learning plan set before the project begins, a learning analysis plan naming required and forbidden sources, and documented drafts and version histories, preserved through Track Changes and saved file versions, that expose the work process and explain what informed each revision. He frames this as [[self-regulated-learning|self-regulation]] made visible.
 
 Alam and Jackson's redesign puts the same commitments in one module. Twenty-three first-year Business Analyst degree apprentices at Queen Mary University of London worked in 11 self-selecting teams on a 1,500-word essay drawn from three pre-set titles. At least two documented stages of development were required, and iteration and collaboration were written into the marking criteria rather than merely recommended. GenAI was permitted inside boundaries the brief set: no submitted generated text, no rewriting functions in grammar tools, no AI-formatted reference lists. The authors present this as practice-based insight from a first run, not as a measured effect ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
+
+A second structural answer comes from Webb-Davies, Ratner and Bassett, whose Voice-First Written Assessment secures one authenticated baseline and interprets everything after it against that baseline. Stage 1 is observed, ungraded and open in modality; Stage 2 is written at home with [[generative-ai|AI]] unrestricted and graded on how the student developed the earlier reasoning. The authors call the ambition minimal: one checkpoint plus a conditional viva, rather than a portfolio of process artifacts ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
 
 
 The channel chosen for process evidence changes what can be evidenced: in the same 79-student generative-AI study, higher-depth monitoring and planning were more common in think-aloud units while higher-depth regulation was more common in interaction logs, so no single record captures the whole process ([[metacognitive-processes-genai-interaction-logs-2026|Li and Liu (2026)]]). Traces can also diverge from scores outright: across 150 student–AI conversations, 41% carried an assignment score of exactly 1.00 while observable cognitive participation varied, so matched scores can conceal different processes ([[epistemic-ownership-ai-mediated-education-2026|Fábrega, 2026]]). DraftTrace answers the same problem for AI-integrated writing by aligning keystroke-level process measures with the final product and with AI-interaction traces, showing that copy-typing is identifiable only when product and process are read together ([[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]]), a concrete instance of the behavioral-trace measurement the field still lacks.
@@ -124,3 +126,4 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[rubrics-genai-process-based-assessment-2026]] — Three rubric dimensions from Biggs's 3P model: agency and supervision, dialogic scaffolding, cognitive sovereignty (Oviedo & Díaz 2026)
 - [[jelson-students-chatgpt-essay-writing-2026]] — A CodeMirror editor plus a logged chat panel turned one essay session into process evidence, with its typing-versus-thinking limit (Jelson et al. 2026)
 - [[xian-process-visualization-feedback-news-translation-2026]] - process visualizations plus one reflection session shifted revision from surface to meaning level without increasing edit volume
+- [[webb-davies-voice-first-written-assessment-2026]] — A two-stage written assessment that secures reasoning under observation before grading a home-written submission, with a conditional viva for unclear links (Webb-Davies, Ratner & Bassett 2026)
