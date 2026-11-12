@@ -1254,6 +1254,17 @@ concepts:
     - mathematics
     - mathematics education
 
+  shadow-ai:
+    title: Shadow AI
+    aliases:
+    - shadow ai
+    - shadow ai use
+    - shadow it
+    - unsanctioned ai
+    - unapproved ai tools
+    - unauthorized ai use
+    - byoai
+    - ai workarounds
   statistics-and-data-science-education:
     title: Statistics and Data Science Education
     aliases:
@@ -2532,6 +2543,7 @@ sections:
     - educational-policy-ai
     - governance
     - institutional-ai-infrastructure
+    - shadow-ai
     - change-management
     - regulation
 - heading: Equity, ethics, and responsible use

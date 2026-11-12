@@ -204,6 +204,7 @@ export const CONCEPT_ALIASES: Record<string, string[]> = {
   'self-regulated-learning': ['self regulated', 'self regulated learning', 'self-regulated learning', 'self-regulation', 'SRL', 'strategic regulation'],
   'self-report-measures': ['perceived learning', 'questionnaire', 'questionnaires', 'self-report', 'self-report bias', 'self-report data', 'self-report measures', 'self-reported', 'survey instrument', 'surveys'],
   'sensor-and-gaze-analytics': ['biometric sensing', 'eye tracking', 'eye-tracking', 'gaze analytics', 'physiological signals', 'sensor-based learning analytics', 'wearable sensors'],
+  'shadow-ai': ['shadow ai', 'shadow ai use', 'shadow it', 'unsanctioned ai', 'unapproved ai tools', 'unauthorized ai use', 'byoai', 'ai workarounds'],
   'simulating-students': ['AI students', 'simulate learners', 'simulated learners', 'simulated students', 'simulating students', 'student simulation', 'synthetic students'],
   'simulation': ['simulation', 'simulation-based learning', 'simulations', 'simulator', 'virtual lab', 'virtual laboratory', 'virtual patient', 'scenario-based learning'],
   'situated-learning': ['authentic context learning', 'situated', 'situated cognition', 'situated learning'],

@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 234
+**Total concepts:** 235
 
 ## Foundations of AI in education
 
@@ -290,6 +290,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`governance`** — AI Governance — phrases: AI governance; governance; governance framework; institutional
 - **`institutional-ai-infrastructure`** — Institutional AI Infrastructure — phrases: ai infrastructure; inference hosting; inference gateway; llm gateway; ai gateway; enterprise ai platform; on-premises ai; on-prem ai; gpu cluster; ai devops; model serving; ai sovereignty
 - **`regulation`** — AI Regulation in Education — phrases: AI regulation; regulation; regulatory; regulatory framework
+- **`shadow-ai`** — Shadow AI — phrases: shadow ai; shadow ai use; shadow it; unsanctioned ai; unapproved ai tools; unauthorized ai use; byoai; ai workarounds
 
 ## Equity, ethics, and responsible use
 

@@ -193,13 +193,14 @@ export const FACET_VOCAB = {
     'research-methods-aied',
     'usability-research',
   ],
-  // Institutions and policy (5 concepts) — registry section: Institutions and policy
+  // Institutions and policy (6 concepts) — registry section: Institutions and policy
   institutions: [
     'change-management',
     'educational-policy-ai',
     'governance',
     'institutional-ai-infrastructure',
     'regulation',
+    'shadow-ai',
   ],
   // Equity, ethics, and responsible use (26 concepts) — registry section: Equity, ethics, and responsible use
   ethics: [

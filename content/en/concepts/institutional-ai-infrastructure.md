@@ -1,7 +1,7 @@
 ---
 title: Institutional AI Infrastructure
 created: "2026-11-12T12:35:00-05:00"
-updated: "2026-11-12T13:40:00-05:00"
+updated: "2026-11-12T14:50:00-05:00"
 type: concept
 connected_resources: [mindrouter, amplify-genai]
 technology: [llm, generative-ai, open-source, edtech-platform]
@@ -124,6 +124,7 @@ A gateway can route to a local model that handles the institution's language poo
 - [[llm]]
 - [[digital-divide]]
 - [[assessment]]
+- [[shadow-ai]]
 
 ## Connected Articles
 

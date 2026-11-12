@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-12T06:10:00-05:00"
+updated: "2026-11-12T14:55:00-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -49,6 +49,8 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 
 - **AI literacy as a governance capacity ("the 18th SDG"):** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] reconceptualize AI literacy as a systemic governance mechanism rather than a classroom skill, proposing a six-level AIRE Taxonomy (Recognize → Comprehend → Apply → Analyze → Integrate → Govern) that extends Bloom's hierarchy with ethical synthesis and strategic foresight, and an AI–SDG Nexus mapping literacy competencies onto all seventeen [[sustainability|Sustainable Development Goals]]. Framing AI literacy as an "18th SDG" heuristic — a cross-cutting capacity that channels learning into governance and sustainable development — the study's survey of 300 professionals found governance literacy the strongest predictor of AI–SDG nexus awareness (β = 0.64, r = 0.67 with nexus awareness) and identified ethical reasoning and reflective thinking as the strongest predictors of trustworthy AI use. This ties institutional governance to the cultivation of public [[ai-literacy]], echoing the knowledge base's finding that responsible AI alignment requires [[stakeholders|policymakers]] and citizens who can critically interpret algorithmic systems, not merely compliance-oriented technical control.
 - **Most education governance is guidance, not law.** Across 160 English-language documents, only 4 took formal legal or regulatory form while 92 were guidance, frameworks or toolkits, and accountability appeared in 146 documents but paired with a named oversight actor in 100 ([[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]]).
+
+- **Policy awareness trails policy production.** [[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE's 2026 survey]] of 1,960 staff and faculty found 94% had used AI tools for work in the previous six months while 54% knew of the policies guiding that use; 92% of institutions reported a work-related AI strategy and 13% measured its return on investment. [[kelso-unsanctioned-technology-use-educational-institutes-2025|Kelso and colleagues]] found awareness lower still among K-12 educators, at 30.3%, with 22 of 375 admitting a policy violation. Guidance that is written but unread behaves like no guidance at all, which is why [[shadow-ai]] treats the sanctioned path — short enough to compete with the unapproved one — as the governance instrument.
 
 - **Governance and teacher competence as one problem.** [[kaziya-learner-data-privacy-governance-2026|Kaziya and Lungu (2026)]] argue that institutional safeguards and individual capability substitute for each other only on narrowly constrained actions — where a control blocks a specific disclosure without requiring judgment — and must complement each other where the teacher has to interpret purpose or spot contextual identifiers. Their framework gives each transition a named decision right and an accountable output, which is the governance analogue of a [[teacher-ai-competency|competency]] standard.
 
