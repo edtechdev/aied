@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-12T10:45:00-05:00"
+updated: "2026-11-12T16:10:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -109,6 +109,8 @@ Fowlin et al. (2026) add an operational move for deciding where AI enters: unbun
 - **Three AI roles, hierarchically distributed.** *Generative* use — AI producing design content at the educator's direction — dominates at **96% of studies**; *scaffolding* use, where AI structures the designer's own reasoning, appears in 35%; *evaluative* use, where AI assesses artifact quality, in 21%. The field is overwhelmingly using AI to make things rather than to interrogate its own design decisions, which is the opposite of the critical-friend configuration the review singles out as educationally promising.
 - **Designers ask for steerability, not autonomy.** Eight instructional designers testing an item-generation platform ([[wei-perspicacious-instructional-design-2026|Wei et al., 2026]]) wanted control over difficulty, format and provenance, rated it 78.8 on the SUS, and named trust as the condition for adoption.
 
+Design moderates effects more than technology does in Zhang and colleagues' synthesis: the same GenAI capability produced g = 0.92 when the learner directed it and g = 0.34 when it ran autonomously. Interaction mode is therefore a design decision rather than a property of the tool ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
+
 ## Common Misconceptions
 
 - **"AI lesson planning returns time to teachers."** Planning time did fall, from 3.32 hours a week to 2.51 with the tool, but **the median teacher planned only 21% to 40% of lessons from scratch**. Time was saved and the planning did not become substantially more thorough — the saving accrued rather than being reinvested.
@@ -180,3 +182,4 @@ Fowlin et al. (2026) add an operational move for deciding where AI enters: unbun
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
 - [[zeivots-postdigital-co-design-genai-2025]] — GenAI as an unreliable collaborator in co-design
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — Three-level meta-analysis: GenAI works through feedback and learner-directed design, not as a uniform intervention (Zhang et al. 2026)

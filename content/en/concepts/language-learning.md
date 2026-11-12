@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-06T03:00:00-05:00"
+updated: "2026-11-12T16:10:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -83,6 +83,8 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 
 **Translation students can be moved off surface correction.** In a news translation course, [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] found search-engine consultation rising from a median of 15.6% to 27.7% of session time (p = 0.020, Holm-corrected) and knowledge-based searching from 7.2% to 28.8% (p = 0.010). Machine translation use fell from 28.5% to 5.1% without reaching significance (p = 0.338), and interactive AI use stayed at a median of zero. The lever was showing students their own process rather than banning a tool.
 
+Zhang, Aubrey, Wu and Chiu's synthesis of 48 controlled studies (N = 5196) finds that GenAI's benefit depends on configuration rather than presence. Feedback-and-assessment use produced the largest effect (g = 1.15) against g = 0.28 for instructional integration, and learner-directed modes (g = 0.92) outran autonomous ones (g = 0.34). Reading showed no significant effect, and speaking's headline g = 1.48 fell to g = 0.65 once three extreme outliers were removed ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
+
 ## Common Misconceptions
 
 - **"Embodied robot tutors work because of the embodiment."** A meta-analysis of **11 RALL studies (N = 595)** found a large pooled effect on L2 learning (**g = 0.83**) with **high heterogeneity**, and — importantly — **only interaction**-level features moderated it. Morphology and modality did not, so the hardware is not the active ingredient.
@@ -146,4 +148,4 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 - [[acoustic-lexical-native-language-identification-learners-2026]] — Audio beats a zero-shot GPT-4o transcript classifier for L1 identification (Uluslu et al. 2026)
 - [[xian-process-visualization-feedback-news-translation-2026]] - process feedback raised source consultation and cut machine translation use in a news translation course
 - [[wordofa-genai-grammar-instruction-efl-2026]] — Generative AI assisted grammar instruction and Ethiopian EFL learners' self-efficacy and metalinguistic awareness
-
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — Three-level meta-analysis: GenAI works through feedback and learner-directed design, not as a uniform intervention (Zhang et al. 2026)
