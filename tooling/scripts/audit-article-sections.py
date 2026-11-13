@@ -287,6 +287,24 @@ def audit(slug: str, known: set[str]) -> dict:
     if heads[-1] != "Citation":
         result["hard"].append(f"citation is not the last section (found {heads[-1]!r})")
 
+    # The findings list is what a reader scans for, so it sits first. Legacy pages buried it
+    # under the body sections; pages written from 2026-11-13 on are held to the order.
+    created = re.search(r'^created:\s*"([^"]+)"', text, re.M)
+    is_new = bool(created) and created.group(1) >= "2026-11-13"
+    if heads[0] != "Key Findings":
+        msg = f"Key Findings is not the first section (found {heads[0]!r})"
+        (result["hard"] if is_new else result["report"]).append(msg)
+
+    # Key Findings states claims. A list where most items carry coefficients is a results table
+    # that lost its header, and it is unreadable to the instructor the page is for.
+    kf_body = section(text, "Key Findings") or ""
+    kf_items = [b for b in bullets(kf_body)] or [p for p in kf_body.split("\n\n") if p.strip()]
+    STAT = re.compile(r"(β|η²|η2|R²|\bp\s*[<=]|\bd\s*=\s*|\bSE\s*=|\bz\s*=|\bCI\b|χ²)")
+    statty = sum(1 for item in kf_items if STAT.search(item))
+    if kf_items and statty > len(kf_items) // 2:
+        msg = f"Key Findings reads as statistics ({statty}/{len(kf_items)} items carry coefficients)"
+        (result["hard"] if is_new else result["report"]).append(msg)
+
     practice_body = section(text, PRACTICE) or ""
     limits_body = section(text, LIMITATIONS) or ""
     p_count = len(bullets(practice_body))

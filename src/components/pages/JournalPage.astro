@@ -49,12 +49,19 @@ allItems.forEach(item => {
   const d = item.data.created.split('T')[0];
   (byDate[d] ||= []).push(item);
 });
-// Within each day, reverse-chronological by created timestamp (string compare works
-// because the timestamps are full ISO).
+// Within each day, newest first by the full created timestamp, which is the moment
+// the page was ingested. Timestamps are parsed rather than compared as strings
+// because the collection mixes offsets (-05:00 and Z). Pages added in one batch
+// share a timestamp, so the title breaks the tie and the order stays stable across
+// builds instead of following collection order.
+const stamp = (item: { data: { created: string } }) => {
+  const t = Date.parse(item.data.created);
+  return Number.isNaN(t) ? 0 : t;
+};
 Object.values(byDate).forEach(list => {
-  list.sort((a, b) => (b.data.created || '').localeCompare(a.data.created || ''));
+  list.sort((a, b) => stamp(b) - stamp(a) || a.data.title.localeCompare(b.data.title));
 });
-const dates = Object.keys(byDate).sort().reverse();
+const dates = Object.keys(byDate).sort((a, b) => b.localeCompare(a));
 
 const ICONS: Record<string, string> = {
   article: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M16 13H8"></path><path d="M16 17H8"></path><path d="M10 9H8"></path></svg>',

@@ -1,5 +1,20 @@
 # AGENTS.md
 
+## Non-negotiable rules (read first)
+
+1. **Never run `git push` unless the user's message in the current turn asks for a push.** Approval
+   from an earlier turn does not carry forward. Commit locally, report the hash, ask, and wait. When
+   the push is approved, push all pending local commits in one push so GitHub Actions builds once.
+2. **A page title is the source's title, verbatim.** No headline you invented, no shortened subtitle.
+   The `## Citation` line repeats the same string.
+3. **`## Key Findings` is the first section after the synthesis blockquote, written as claims.** No
+   coefficient dumps; those belong in the body section that reports the model.
+4. **Practice sections name the actor.** `- **Instructors:** ...` rather than a bare verb.
+5. **No self-referential prose.** A page is about its subject, not about "this page", "the corpus" or
+   "the knowledge base". `tooling/scripts/check-self-reference.py` enforces it.
+6. **`created` cannot postdate the commit that added the page.** The journal sorts on it.
+   `tooling/scripts/check-created-dates.py` enforces it; use the adding commit's time when unsure.
+
 ## AI in Education Knowledge Base
 
 Static site built with Astro, deployed to GitHub Pages from `main` branch at https://edtechdev.github.io/aied/
