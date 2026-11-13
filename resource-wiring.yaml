@@ -357,3 +357,9 @@
   - vibe-coding
   - desirable-difficulties
   reason: 'The builds are the outcome the vibe-coding page describes — a static tool prompted into existence and judged by behavior — so that page lists it. It also sits on desirable-difficulties because one of its six pathways is built explicitly around friction, slowing students down rather than smoothing the task, so the page has a concrete gallery for the principle. Not listed on learning-design: the page is about designing learning, and this is a collection of finished artifacts rather than a method.'
+- resource: primer
+  reviewed: '2026-11-13'
+  hosts:
+  - simulation
+  - agentic-ai
+  reason: 'Primer builds the artifact the simulation page describes — an adaptive scenario a student plays through with a mentor, a practice counterpart and transcript-based feedback — so that page lists it. It also sits on agentic-ai because the authoring pipeline (Intake, Design, Casting Director, Image Generation, Experience Builder) is a worked, inspectable multi-agent workflow, which is what that page discusses in the abstract. Not listed on learning-design: the page covers designing learning, while Primer designs the simulation artifact inside a design the educator has already chosen. Not listed on intelligent-tutoring: it is not a tutor that adapts to a learner, it is an authoring system an instructor operates before anyone plays.'
