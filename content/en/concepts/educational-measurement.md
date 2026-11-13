@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T01:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -111,7 +111,7 @@ Educational measurement is powerful but fallible. Understanding its failure mode
 - **The pooled estimate is fragile.** A 2026 structured review pooling only same-sample subjective–objective AI-literacy correlations (N = 2,765) gives r = .055 (Hartung-Knapp 95% CI [−.047, .156]); at k = 3, with the heterogeneity estimators disagreeing and one study carrying 77.2% of the weight, it cannot set a proficiency cutoff ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]]).
 - **Constructs that don't transfer across populations.** [[assessment-latent-structure-human-llm-2026|Strugatski et al.]] show assessment instruments can have a *different factor structure* for humans and LLMs — meaning the same items may not measure the same latent construct across populations. Even within humans, instruments validated on one group (e.g., Western, resourced [[higher-ed]]) may not generalize to others ([[global-south]]), a concern for the generalizability of AI-in-education measures.
 - **What measurement can miss.** Some of the constructs most central to AI-in-education learning are the hardest to measure well — and therefore the most easily missed or distorted by instruments:
-  - **Process and strategy.** Standard outcome measures capture the *product* of learning, not the *process*. They can miss how students actually engage with AI — [[cognitive-offloading|over-reliance]], unreflective acceptance, or critical verification. [[tracing-genai-literacy-interaction-patterns]] uses interaction traces precisely because self-report and outcome tests miss these dynamics. A neural process measure extends this: [[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] reconstructed video frames from EEG and found semantic similarity higher for correctly answered items (M = 71.43, SD = 4.61) than incorrect ones (M = 62.30, SD = 5.91, p < .001).
+  - **Process and strategy.** Standard outcome measures capture the *product* of learning, not the *process*. They can miss how students actually engage with AI — [[cognitive-offloading|over-reliance]], unreflective acceptance, or critical verification. [[tracing-genai-literacy-interaction-patterns]] uses interaction traces precisely because self-report and outcome tests miss these dynamics. A neural process measure extends this: [[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] reconstructed video frames from EEG and found semantic similarity higher for correctly answered items (M = 71.43, SD = 4.61) than incorrect ones (M = 62.30, SD = 5.91, p < .001). The K–12 AI literacy audit is a clean example of the gap: none of the nine validated instruments in Guo, Ali and Wong's review captured process — three were multiple-choice knowledge tests analyzed with item response theory, the rest self-report scales analyzed with classical test theory ([[guo-ai-literacy-developmental-paces-2026]]).
   - **Longitudinal and durable learning.** A single post-test may show inflated performance from AI assistance while missing the erosion of durable, unassisted knowledge (the [[genai-performance-vs-learning|performance–learning gap]]). Measurement at one time point can be actively misleading about learning.
   - **Equity and access.** Instruments that assume uniform device/connectivity access, or that are normed on privileged samples, can miss — or systematically under-measure — the capabilities of [[equity-in-ai-education|under-resourced]] [[learners]], misattributing access gaps to ability gaps.
   - **[[affective-computing|Affective]] and motivational states.** Engagement, motivation, and self-efficacy are often measured by self-report, inheriting the self-report gap above; they may not capture the situated, momentary dynamics that drive learning.
@@ -156,6 +156,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[student-engagement]]
 
 ## Connected Articles
+- [[guo-ai-literacy-developmental-paces-2026]] — Nine validated K–12 AI literacy instruments, three knowledge tests under IRT and the rest self-report under CTT, none capturing process (Guo, Ali & Wong, 2026)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment

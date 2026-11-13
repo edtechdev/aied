@@ -1,7 +1,7 @@
 ---
 title: Developmental Psychology
 created: "2026-11-12T14:20:00-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T01:00:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -70,7 +70,7 @@ Support staff and families can watch what an AI toy does to play. Watch who supp
 
 Three limits recur across the studies reviewed here.
 
-The first is design. Most studies are cross-sectional surveys or small experiments, measured once. They can show that age groups differ; they cannot show that AI changed a developmental trajectory. Niu and colleagues' scoping review of generative AI and children's creative thinking screened 6,401 records and retained 24 evidence sources, a small base for a large claim, and the review reports it as such.
+The first is design. Most studies are cross-sectional surveys or small experiments, measured once. They can show that age groups differ; they cannot show that AI changed a developmental trajectory. Niu and colleagues' scoping review of generative AI and children's creative thinking screened 6,401 records and retained 24 evidence sources, a small base for a large claim, and the review reports it as such. An integrative review of 118 K–12 AI literacy studies located no study that followed the same learners across school levels, so its four-band progression is an ordering inferred from different cohorts rather than a trajectory anyone observed ([[guo-ai-literacy-developmental-paces-2026]]).
 
 The second is attribution. A learning gain measured with the tool present may be assisted performance rather than a change in capability, which is the same distinction that separates scaffolding from development.
 
@@ -106,6 +106,7 @@ Policy and procurement documents use "age-appropriate" as if it were a property 
 
 ## Connected Articles
 
+- [[guo-ai-literacy-developmental-paces-2026]] — 118 K–12 AI literacy studies: a four-band progression with no study following the same learners across levels (Guo, Ali & Wong, 2026)
 - [[ai-toys-child-development-2026]] — AI-enabled toys redistribute agency in play (Xu, Girouard & Shi)
 - [[clara-developmental-appropriateness-children-stories-2026]] — Developmental-appropriateness scoring from a 122-label taxonomy
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Scoping review of GenAI and children's creative thinking
