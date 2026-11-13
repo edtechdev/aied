@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
 source_updated: "2026-11-12T21:40:00-05:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -236,7 +236,8 @@ Winstone, Gravett y Elkington invierten la lógica habitual: la integridad se pr
 
 - [[mcclanahan-ai-cheating-policies-cultural-lag-2026]] — análisis de políticas: las reglas sobre trampa con IA como retraso cultural respecto de la práctica del estudiantado (McClanahan y Dickinson, 2026)
 - [[oyelere-code-programming-assessment-genai-2026]] — documento de posición: los artefactos de código ya no evidencian autoría, así que la evaluación debe pasar al diseño y la explicación (Oyelere y Kadams, 2026)
-- [[bayraktar-beyond-ai-proofing-assessment-validity-2026]] — La integridad como rendición de cuentas intelectual por las decisiones, no como prueba de autoría sin asistencia (Bayraktar 2026) [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Cuatro documentos de la UNESCO y la OCDE leídos como discurso: significantes flotantes, no-performatividad y un habitus de trampa cambiante
+- [[bayraktar-beyond-ai-proofing-assessment-validity-2026]] — La integridad como rendición de cuentas intelectual por las decisiones, no como prueba de autoría sin asistencia (Bayraktar 2026)
+- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Cuatro documentos de la UNESCO y la OCDE leídos como discurso: significantes flotantes, no-performatividad y un habitus de trampa cambiante
 - [[ivory-psychology-assessment-integrity-2026]] — Todo un programa de psicología aprobable con un esfuerzo mínimo, y los criterios de calificación que lo permiten (Ivory et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Futuros docentes rechazaron la IA generativa bajo una política permisiva; el encuadre de «trampa» y la brecha entre encuesta y declaración
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, evaluación gozosa y tercer espacio
