@@ -1,7 +1,7 @@
 ---
 title: AI-Assisted Educational Research
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T10:10:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -49,6 +49,9 @@ Accounts of use are more consistent than the evidence for effect. [[dai-chan-res
 Their participants were calibrated rather than credulous. They matched tools to tasks by perceived stakes and intellectual demands, used AI more heavily in low-stakes procedural work, and stayed cautious where the scholarly contribution was central. They also kept [[human-in-the-loop-ai|human oversight]] throughout, treating the model as an assistant that could be "misleading" or "totally wrong."
 
 The policy finding is the practical one. Existing institutional guidance addressed teaching, learning, and assessment, and participants experienced it as abstract and misaligned with research practice. The authors propose researcher-oriented guidelines, built on a four-dimensional [[ai-literacy|AI literacy]] framework, as a developmental scaffold rather than a rulebook.
+
+**Crossing into an unfamiliar discipline is where the illusion of understanding bites.** [[ai-interdisciplinary-research-unknown-unknowns-2026|Panigrahi and August (2026)]] interviewed 23 researchers who work across fields: they used AI to translate ideas into a discipline's keywords, but could only audit its output where they already had background knowledge, and every one of them triangulated against databases, citation networks or collaborators.
+
 
 The study covers a single institution, a self-selected group of 28, and [[self-report-measures|self-reported]] accounts; students may have under-reported use for integrity reasons. It describes how a capable group uses these tools, not what the use produces.
 
@@ -221,6 +224,7 @@ What can be carried across is a disposition rather than a result: name the AI's 
 - [[beagle-grounded-learner-emulation-2026]] — a neuro-symbolic simulator that reproduces genuine novice struggle (Wang et al., 2026)
 - [[llm-student-simulation-misconception-faithfulness]] — why simulators abandon a misconception under any feedback, and how training fixes it (Do, Sonkar & Sachan, 2026)
 - [[llm-judged-helpfulness-pedagogy-signal]] — a pre-registered audit that uses a fixed simulated learner to test whether helpfulness measures pedagogy (Fan et al., 2026)
+- [[ai-interdisciplinary-research-unknown-unknowns-2026]] — “I don’t know what I don’t know”: Exploring the Benefits and Challenges of AI in Interdisciplinary Research
 
 ## Citation
 

@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-11-13T07:49:05-05:00"
+updated: "2026-11-13T10:10:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -65,6 +65,8 @@ A verification loop can still stay shallow: lag sequential analysis of a four-we
 Bernstein and Sibia (2026) document an iterative-filter pattern in how CS2 students handle GenAI explanations ([[student-reception-genai-analogies-computing-2026]]): they cross-reference against lecture notes, demand provenance ("I would be a lot more doubtful... without one"), and probe with follow-up questions for inconsistency rather than issuing a single accept-or-reject judgment. Students also read explanations for whose knowledge and background they assumed — assumed [[prior-knowledge|prior knowledge]] beyond the syllabus, default sport and gaming references ("the more male-dominated side of computing"), and excessive repetition all functioned as signals about the imagined reader, with over-scaffolding read as condescending rather than merely inefficient.
 
 Consulting AI at the right *point* in a task matters as much as the wording of the individual prompt: in the same study, [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] found the reallocation-oriented minority alternated independent work with GenAI consultation and reported unchanged total effort but a shifted focus — moving resources from searching to checking argumentative quality and balance, and writing reflection notes after sessions to counter shallow retention — whereas learners with mastery goals but weak [[ai-literacy|AI literacy]] fell into an "efficiency paradox," offloading "not by intention, but by default."
+**Students' picture of the model tracks how they use it.** [[cs-students-llm-conceptualizations-prompting-2026|Donekal Chandrashekar et al. (2026)]] found 68% of 283 post-CS1 students described an LLM as a person ("smart friend", "tutor"), and machine framing accompanied slightly higher mechanism knowledge and more context-rich prompting.
+
 
 ### From interaction to pedagogy
 
@@ -130,3 +132,4 @@ The anxiety dialogue relieves can be social rather than technical: across 596 Eg
 - [[three-pathways-student-ai-interaction-2026]] — Three Pathways typology of student-AI interaction: 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
 - [[shen-ai-skill-formation-2026]] — Six AI interaction patterns, from 86% down to 24% on an unaided quiz (Shen & Tamkin 2026)
+- [[cs-students-llm-conceptualizations-prompting-2026]] — Who (or what) are they prompting? How CS students conceptualize and use LLMs

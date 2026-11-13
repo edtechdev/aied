@@ -1,7 +1,7 @@
 ---
 title: Oral Assessment
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T10:10:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 connected_resources: [code-viva]
@@ -83,6 +83,8 @@ The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearabl
 
 
 - **The scale ceiling is the design constraint.** In a workshop with 73 [[cs-education|computing]] educators, oral and interactive assessment was reported as the strongest available evidence of individual understanding and the least scalable remedy. The mitigations participants described were distribution and sampling: shared teaching-assistant pools, [[peer-assessment|peer assessment]] weighted below a [[summative-assessment|final exam]], and calling on a rotating subset of students ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
+- **Machine-scored conversation goes lenient where the interviewer scaffolds.** [[challen-conversational-assessment-chat-exams-2026|Challen and Zilles (2026)]] split a rubric-blind interviewer from a hidden evaluator; a blind re-grade of 40 attempts agreed on 35% and awarded the top grade twice where the deployed evaluator gave it 20 times.
+
 
 ## Common Misconceptions
 
@@ -125,3 +127,4 @@ The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearabl
 - [[onodipe-enhance-not-replace-ai-classroom-2026]] — AI-scaffolded pair orals as a scheduling workaround in a business-statistics course
 - [[deng-certification-consultation-university-teaching-2026]] — University teaching after generative AI: beyond lectures and inquiry to a certification-and-consultation paradigm in which learners become evaluators
 - [[webb-davies-voice-first-written-assessment-2026]] — A two-stage written assessment that secures reasoning under observation before grading a home-written submission, with a conditional viva for unclear links (Webb-Davies, Ratner & Bassett 2026)
+- [[challen-conversational-assessment-chat-exams-2026]] — Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline

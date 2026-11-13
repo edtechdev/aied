@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T10:10:00-05:00"
 type: concept
 connected_resources: [ai-guidance-by-age]
 foundations: [ai-education, ai-literacy, computational-thinking]
@@ -60,6 +60,8 @@ Young children interact with AI increasingly early — through AI-enabled toys, 
 - **AI approximating developmental judgments of children's stories.** [[clara-developmental-appropriateness-children-stories-2026|Yin et al. (2026)]]'s CLARA annotates a story's cognitive, language, and social-emotional demands and matches publisher age references 0.904 of the time, ahead of readability formulas (0.603) and direct prompting (0.730) - offered as a supportive signal, not a replacement for a human judge.
 
 - **AI literacy as classroom interpretive work, not individual knowledge.** [[konca-preschool-genai-storytelling-ai-literacy-2026|Konca and Yigit-Gencten (2026)]] coded 17 storytelling sessions in a Turkish preschool where the teacher wrote every Midjourney prompt and the class watched outputs on a shared screen. Children explained mismatches by attributing thought, hearing and intent to the system ("it couldn't think of it well enough"), debated prompt-output links, and voted on which images to keep. Because the teacher's questions decided which explanations were taken up, and sometimes closed inquiry altogether, early AI literacy here is distributed across the activity rather than held by a child.
+- **The pre-service literature has not organized around AI.** A bibliometric map of 86 publications on early childhood teachers' digital and media literacy found AI present but too scattered to form a thematic cluster, with digital competence at the center and media literacy only loosely attached ([[early-childhood-teacher-digital-media-literacy-bibliometric-2026|Janegizova et al., 2026]]).
+
 
 ## Developmental and equity considerations
 
@@ -120,3 +122,4 @@ A first neuroimaging window on this question arrives with a caution: 6–7-year-
 - [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison
 
 - [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — AI-mediated tools in primary English language education: a scoping review of pedagogical functions and teacher orchestration
+- [[early-childhood-teacher-digital-media-literacy-bibliometric-2026]] — Digital and media literacy of pre-service early childhood teachers in the context of digital education: a bibliometric analysis of research trends

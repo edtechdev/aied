@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T10:10:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -59,6 +59,8 @@ Agent-related social perceptions, not accuracy, built feedback credibility for [
 [[du-yuan-epistemic-dependence-2026|Du and Yuan (2026)]] separate *productive reliance* from *harmful dependence* using six diagnostic criteria — contestability, recoverability, transfer, traceability, distributed responsibility and epistemic plurality — and distinguish instrumental assistance (helping produce output) from judgment-bearing assistance (supplying the standards by which output is judged), the latter being where reliance becomes educationally consequential.
 
 - **Students can read a peer agent's deliberate fallibility as malfunction.** In the Copa study, students were told the agent might be wrong and asked to evaluate its suggestions. When a suggestion degraded their model, several concluded the agent had given incorrect information and switched to trial and error rather than re-examining the reasoning. A design that protects epistemic agency by withholding answers therefore assumes a calibration skill that the students in this study did not yet have, which is a stronger constraint on peer-agent designs than on tutoring agents ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
+- **Calibration needs a check, not exposure.** [[trust-ai-assistants-consistently-wrong-2026|Jones et al. (2026)]] found a model wrong in every prior exchange still persuaded 48% of participants when they got no feedback, against 21% reliance on a consistently accurate one once feedback arrived.
+
 
 ### Calibration as a design problem
 
@@ -199,3 +201,4 @@ Calibration is a state, not an outcome, and the outcome it licenses has its own 
 
 - [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — When AI advice agrees or disagrees with human judgment: trust, self-efficacy, psychological resilience, and adaptive responses in physical education
 - [[kim-overtrust-ai-literacy-2026]] - overtrust correlated with self-efficacy and performance expectancy but not with AI literacy in 300 students
+- [[trust-ai-assistants-consistently-wrong-2026]] — Do People Trust AI Assistants Even When They Are Consistently Wrong?

@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T10:10:00-05:00"
 connected_resources: [moodle-qtype-aitext]
 type: concept
 foundations: [ai-literacy]
@@ -69,6 +69,8 @@ Token-level confidence, probability-weighted scoring, and ensembling each improv
 
 **AES as a training signal rather than a judge.** Scoring models are usually studied as evaluators, but SWIM uses one as a reward function. [[swim-student-writing-simulation-2026|Do, Kontak and Sachan (2026)]] freeze a multi-trait AES verifier and score it against generated student essays, turning the predicted trait profile into a dense per-essay reward (the mean trait-normalized distance from the target profile) for GRPO, deliberately not the Quadratic Weighted Kappa metric itself. QWK is defined over a batch of target-prediction pairs and is not a per-sample signal, while exact-match rewards are too sparse in the multi-trait setting. The gains were re-checked against a DeBERTa scorer and an evaluation-only verifier the policy never trained against (0.598 versus 0.479 for SFT, and 0.647 versus 0.501), which is the check that separates genuine proficiency control from adaptation to the [[reinforcement-learning|reward model]]. For AES research this is a second validity demand: a scorer used as a training target is being optimized against, so its own trait weighting and language biases propagate into everything the generator learns. The same feature-weighting asymmetries (grammatical accuracy, lexical sophistication and syntactic complexity weighted more heavily by models than by human raters) now shape training rather than only marks.
 **Scoring and feedback want different methods, so a system should separate them.** [[wraft-automated-writing-evaluation-argumentative-2026|Labib et al. (2026)]] built one TOEFL argumentative-essay system as three modules — scoring, surface-level feedback on grammar and mechanics, and deep-level feedback on organization, coherence and argumentation — instead of a single model doing all three jobs. What wins on one module loses on another: supervised [[llm-training-and-fine-tuning|fine-tuning]] of GPT-4o on 120 of a proprietary set of 480 benchmark-scored essays, tested on the remaining 360, reached a quadratic weighted kappa of 0.84 and RMSE of 0.44 on the 0-5 scale, ahead of the Wang and Gayed (2024) baseline (QWK 0.78, RMSE 0.57). Yet the same fine-tuning produced unusable output for the feedback modules, where direct prompting of Claude 3.7 was what generated teacher-approved comments.
+**The prompt, not the rubric, carries most of the gain.** [[llm-automated-essay-scoring-prompt-engineering-2026|Tao and Min (2026)]] raised agreement with CEFR labels from a kappa of 0.488 to 0.829 by adding scored calibration examples and a required rationale, while a detailed rubric supplied alone dropped it to 0.460.
+
 
 ### Connections to related concepts
 
@@ -122,3 +124,4 @@ Open systems are part of this picture too: AiAWE scores argumentative essays wit
 - [[swim-student-writing-simulation-2026]] — a frozen AES verifier used as a dense training reward for a writing generator
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
 - [[ribeiro-teachers-writing-analytics-adoption-2026]] — Teachers of 300-student classes rate an unplugged AES app 92.5 SUS and ask for a reliability warning, not a final score (Ribeiro et al. 2026)
+- [[llm-automated-essay-scoring-prompt-engineering-2026]] — Optimizing large language model-driven automated essay scoring: Integrating linguistic features and prompt engineering to enhance scoring accuracy
