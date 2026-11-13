@@ -1,7 +1,7 @@
 ---
 title: Shadow AI
 created: "2026-11-12T14:45:00-05:00"
-updated: "2026-11-12T16:32:00-05:00"
+updated: "2026-11-13T02:10:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 ethics: [privacy, equity-in-ai-education]
@@ -78,6 +78,18 @@ The third is to measure what is being spent and used, including the spend that n
 
 The fourth is to treat [[ai-literacy|AI literacy]] as a control, not a [[curriculum-design|curriculum]] add-on. A teacher who can read a data policy, recognize a vendor's retention terms and redact a student name is doing risk management that no approval form replaces.
 
+## Implications for Practice
+
+Faculty developers can publish the sanctioned path with worked examples, in the language of teaching rather than procurement. The teachers in the district study asked for rules, a vetted list, examples and time; none of those requires a new platform. An approval route that takes a week is long enough for a new model to ship, so the useful target is days.
+
+Instructors can adopt the habits the careful users in that study already had. Redact student names before pasting anything, use an institutional account so the record can be audited, and treat generated text as a draft to check rather than an authority to cite.
+
+Administrators can measure the spend that never reached a purchase order and read unapproved use as a report on an unmet need. If a free tool wins because the licensed one has a waiting list, the adoption problem is the queue.
+
+IT and policy staff can turn approval into a routing decision. A gateway that lists approved models with region, cost and alternatives lets a teacher start the same day, which is the difference between governance that shapes use and governance that documents it afterward.
+
+Department chairs can build the collegial support that let some teachers develop boundaries and left others without them. The gap that begins as staffing becomes a difference in what students are asked to do.
+
 ## Common Misconceptions
 
 **"Shadow AI is just shadow IT with a new name."** The German study draws the distinction: shadow IT risks attach to infrastructure, while shadow AI risks attach to content, judgment and the record of what was produced.
@@ -90,7 +102,7 @@ The fourth is to treat [[ai-literacy|AI literacy]] as a control, not a [[curricu
 
 ## Further Reading
 
-Three sources address shadow AI directly and cannot be ingested here: two closed-access studies and one trade article. They are linked rather than ingested, so no claim on this page rests on their findings.
+Three sources address shadow AI directly and cannot be ingested here: two closed-access studies and one trade article. They are linked rather than ingested here, so no claim in this section rests on their findings.
 
 - [Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI](https://doi.org/10.1016/j.chb.2026.109243) — Lovett and Yang, *Computers in Human Behavior*, article 109243, November 2026. Survey evidence from recent workplace AI users, with habit carrying the largest relative-importance weight and personal payment for tools associated with elevated shadow AI.
 - [Shadow AI Isn't a Threat: It's a Signal](https://campustechnology.com/articles/2026/02/04/shadow-ai-isnt-a-threat-its-a-signal.aspx) — Damien Eversmann, *Campus Technology*, February 2026. A practitioner argument that unauthorized use reports an unmet need: faculty drafting lesson plans, researchers spinning up cloud GPUs on departmental cards, and staff pasting sensitive data into consumer tools because the approved path was slower.

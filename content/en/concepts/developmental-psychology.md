@@ -1,7 +1,7 @@
 ---
 title: Developmental Psychology
 created: "2026-11-12T14:20:00-05:00"
-updated: "2026-11-12T18:55:00-05:00"
+updated: "2026-11-13T02:10:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -15,7 +15,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Developmental psychology** — the study of how cognitive, linguistic, social, emotional and motivational capacities change with age, and of the constraints those changes place on what a learner can do and what support they need. In [[ai-education|AI in education]] it supplies the question behind every age claim: not "does this tool work" but "does it work for a mind at this stage, doing this particular thing". The knowledge base uses it to explain why the same [[generative-ai|generative AI]] tool is a reasonable study aid for a 20-year-old and a developmental risk for a 7-year-old, and to mark where such claims rest on hypothesis rather than measured outcome.
+> **Developmental psychology** — the study of how cognitive, linguistic, social, emotional and motivational capacities change with age, and of the constraints those changes place on what a learner can do and what support they need. In [[ai-education|AI in education]] it supplies the question behind every age claim: not "does this tool work" but "does it work for a mind at this stage, doing this particular thing". It explains why the same [[generative-ai|generative AI]] tool is a reasonable study aid for a 20-year-old and a developmental risk for a 7-year-old, and to mark where such claims rest on hypothesis rather than measured outcome.
 
 ## Questions to Consider
 
@@ -34,7 +34,7 @@ That frame matters more in AI education than in most fields, because AI tools ar
 
 ## Stages and capacities as design constraints
 
-The most concrete use of developmental psychology in the corpus is as a constraint on design, not a label on learners. CLARA, a system built at the University of Auckland, refuses to predict a child's age directly. It decomposes a story into cognitive, language and social-emotional demands using a 122-label developmental taxonomy, then aggregates the activated labels into a developmental-stage estimate. The design choice is the argument: what makes a text suitable is not a number but the specific demands it places on specific capacities.
+The most concrete use of developmental psychology here is as a constraint on design, not a label on learners. CLARA, a system built at the University of Auckland, refuses to predict a child's age directly. It decomposes a story into cognitive, language and social-emotional demands using a 122-label developmental taxonomy, then aggregates the activated labels into a developmental-stage estimate. The design choice is the argument: what makes a text suitable is not a number but the specific demands it places on specific capacities.
 
 Age-tiered resources make the same point from the curriculum side. Taiwan's AI Learning Application Guidebook was built in two editions — one for learners aged 9 to 12 with scaffolded, platform-based, non-generative activities, and an advanced edition for 13 to 18 with authentic applications, ethical reasoning and supervised generative AI use. The tiering is developmental in substance, not just in difficulty: the younger edition avoids generative tools rather than simplifying them.
 
@@ -42,7 +42,7 @@ The risk in all such schemes is that the bands become coarse proxies. A five-yea
 
 ## Executive function as the operative construct
 
-Where the corpus gets specific about mechanism, it usually lands on executive function: the processes that plan, inhibit, shift and hold information long enough to use it. The developmental question is which of those a given tool supports, and whether the support outlasts the tool. Vasileiou and colleagues' separation of compensation, scaffolding and development is the sharpest statement of the distinction, and Klarin's account of adolescent reliance names the failure mode: the capacities being displaced are still forming. The construct, its measurement and the dependence evidence now have their own page, [[executive-function]].
+Where the evidence gets specific about mechanism, it usually lands on executive function: the processes that plan, inhibit, shift and hold information long enough to use it. The developmental question is which of those a given tool supports, and whether the support outlasts the tool. Vasileiou and colleagues' separation of compensation, scaffolding and development is the sharpest statement of the distinction, and Klarin's account of adolescent reliance names the failure mode: the capacities being displaced are still forming. The construct, its measurement and the dependence evidence now have their own page, [[executive-function]].
 
 ## Adolescence as a distinct case
 
@@ -56,9 +56,19 @@ The AI-toy literature is where developmental psychology does the most work and h
 
 AI-Play, a play-based unplugged framework for pre-K and kindergarten, takes the opposite route: it teaches AI concepts through play without putting a device in front of the child, on the argument that the developmental task at that age is representation and pretend play, not interaction with a system.
 
+## Implications for Practice
+
+Instructors can read a tool's demand profile rather than the age band on its packaging. The question worth asking is which capacities a task loads: how much text a learner must hold in mind, what reading level the interface assumes, how much social or emotional content the interaction carries. A generative tool that produces fluent text assumes a reader who can judge it, and that capacity arrives later than fluent reading does.
+
+Faculty developers and curriculum designers can borrow the tiering logic from the Taiwan guidebook. Its younger edition keeps activities scaffolded and non-generative, and its advanced edition permits supervised generative use with ethical reasoning attached. The difference between the editions is which tools learners may use, not how hard the worksheets are. Building that distinction into a course sequence is more defensible than applying one tool policy across every year group.
+
+School and program leaders can treat an "age-appropriate" claim as a question with three parts: which capacity the task requires, which stage the learner is at, and what evidence connects the two. Reception studies and vendor documentation rarely answer the third.
+
+Support staff and families can watch what an AI toy does to play. Watch who supplies the story. When the toy decides the plot, the child follows it; when the toy answers the child's idea, the child leads. That difference is visible in a few minutes of observation, and it matters more at this age than the toy's content coverage.
+
 ## Where the evidence is thin
 
-Three limits recur across the corpus.
+Three limits recur across the studies reviewed here.
 
 The first is design. Most studies are cross-sectional surveys or small experiments, measured once. They can show that age groups differ; they cannot show that AI changed a developmental trajectory. Niu and colleagues' scoping review of generative AI and children's creative thinking screened 6,401 records and retained 24 evidence sources — a small base for a large claim, and the review reports it as such.
 

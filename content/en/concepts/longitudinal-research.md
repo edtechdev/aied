@@ -1,7 +1,7 @@
 ---
 title: Longitudinal Research
 created: "2026-11-12T14:28:00-05:00"
-updated: "2026-11-12T14:28:00-05:00"
+updated: "2026-11-13T02:10:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -32,7 +32,7 @@ Longitudinal research is a family of designs rather than one method: repeated su
 
 That gain is often overstated. The corpus contains a hundred-odd articles that describe themselves as longitudinal, and they range from four-semester trend analyses to a single pre/post comparison. The label has become a quality signal, which makes it worth being precise about what each design supports. A repeated survey can show that a distribution moved. A panel model can show that a person moved relative to their own baseline. A growth model can show that the rate of movement differs across people and that two processes move together. Only some designs with an outcome measure at both ends can begin to address whether the tool caused the change.
 
-The rest of this page sets out what the corpus's stronger longitudinal studies actually establish, the design families they belong to, and the threats that most often undermine them in AI research specifically.
+The stronger studies establish less than their labels suggest, and the design families differ in what each can support.
 
 ## Within-person change versus between-person difference
 
@@ -78,6 +78,18 @@ Four problems recur, and the last two are specific to this field.
 **Tool drift.** An AI tool is not a fixed treatment. Models are updated, interfaces change, institutional licenses are withdrawn mid-term. A study that spans a semester is measuring a moving object, and few papers report version changes.
 
 **Assisted performance mistaken for learning.** A gain measured with the tool available may show what the learner can do with support, not what they have internalized. The distinction is the same one that separates [[scaffolding]] from development, and longitudinal designs do not solve it unless the later waves include an unassisted measure.
+
+## Implications for Practice
+
+Instructors can stop reading a single end-of-term survey as evidence that a change worked. A distribution that moved between two terms may reflect a new cohort, a new assessment regime or an instrument that lost its novelty. A comparison of the same students against their own earlier scores answers a narrower and more useful question.
+
+Program directors can plan evaluation in waves. Three or more measurements across a program let a department estimate a slope rather than compare two points, and reporting attrition at each wave keeps a rising average from hiding the students who left.
+
+Faculty developers can evaluate professional development the same way, with repeated measures and at least one task completed without the tool. A workshop series that raises confidence and use while leaving unaided performance flat has shown something about attitudes, and the distinction is worth reporting to the people who fund the next series.
+
+Administrators can record what changed during a study or a pilot: model versions, license changes, interface updates. A semester is long enough for the tool to become a different treatment, and documentation is cheap compared with explaining an unexplained jump.
+
+Researchers can keep two claims apart in their own writing. Temporal ordering supports precedence, not causation, and a pre/post pair is a repeated-measures design rather than a trajectory.
 
 ## What longitudinal designs cannot do
 

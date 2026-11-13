@@ -27,7 +27,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Teacher AI competency matters because the teacher is the decisive factor in whether AI improves learning. Research consistently shows that AI tools only translate into better outcomes when teachers can plan for them, scaffold student use, evaluate outputs, and integrate them into coherent instruction. The knowledge base's literature examines the *dimensions* of this competency, the *gaps* between self-perception and actual skill, and the *professional development* that builds it.
+Teacher AI competency matters because the teacher decides whether AI improves learning. A tool changes outcomes when a teacher plans for it, scaffolds student use, evaluates the output and fits the use into coherent instruction. The research examines the *dimensions* of this competency, the *gaps* between self-perception and actual skill, and the *professional development* that builds it.
 
 [[nunez-canal-stakeholder-engagement-ai-competency-2026|Nunez-Canal et al. (2026)]] connect faculty AI competency to student outcomes directly, using human capital and stakeholder theories on a survey of business and economics faculty to argue that universities' investment in faculty competency is not discretionary.
 - **Prompting training saves time but does not improve materials.** In a preregistered [[rct]] with 204 teachers, Appel, Fervers and Piepenburg (2026) found ChatGPT improved the quality of lesson-preparation materials and cut preparation time by 34%, while prior AI training added a further 21% time reduction without improving rated quality ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). Trained teachers wrote longer prompts and iterated less; both routes reached equal quality.
@@ -126,24 +126,29 @@ A design-based counterexample treats competency as situational rather than a run
 
 Training without timetable time does not reach students. iRAISE's 2026 four-country review puts the point structurally: curricula, teacher training and materials have only limited impact unless schools reserve time to teach digital and AI literacy, through dedicated lessons or projects across subjects, which forces a decision about what existing content or activities are reduced or replaced ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). The review also places training inside paid working time, beginning in initial teacher education and continuing through careers, differentiated by subject and role — conditions that treat competence as a working condition rather than a personal accomplishment. In all four of its case studies, teacher confidence rather than tool availability decided whether anything was used.
 
+## Measuring teacher AI competency
+
+[[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validated a TAM-based diagnostic instrument with 434 in-service teachers. Behavioral intention was the main predictor of digital competence for using GenAI in curriculum planning, with self-efficacy as a root driver.
+
+A psychometric study developed the Teachers' AI Literacy Scale (TAILS) to measure AI literacy within [[teacher-education|language teacher education]], operationalizing the ED-AI framework's six dimensions. The instrument addresses a gap in assessments written for students or general users rather than for teachers.
+
+The instrument landscape itself has since been reviewed. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat's 2026 systematic review of teacher AI literacy measurement tools]] compares what the available scales actually measure and where they diverge, which is the first thing to read before adopting one.
+
 ## Teacher AI competency and the transforming teacher role
 
 As AI takes over routine instructional and assessment tasks, the teacher's distinctive contribution shifts toward orchestration, judgment, and relationship: deciding when and how AI is used, scaffolding [[agency|student agency]] and critical use, ensuring equity, and providing the social and emotional support AI cannot. This reframes teacher competency around [[human-in-the-loop-ai|human-in-the-loop]] oversight, [[ethics|ethical judgment]], and [[self-regulated-learning|supporting self-regulated learning]] — connecting to [[teacher-role]] and [[cognitive-offloading|guarding against over-reliance]].
 
-## Implications for AI in education
+## Implications for Practice
 
-- **Assess performance, not just self-report:** teacher competency should be evaluated through demonstration, given the documented self-report gap.
-- **Train the full competency, not just tools:** PD should build technical, pedagogical, assessment, and ethical dimensions together, grounded in [[learning-theories|learning theory]].
-- **Build confidence alongside skill:** attitudes and [[self-efficacy]] shape adoption, so PD should reduce anxiety and build confidence through authentic, supported practice.
-- **Support the institutional layer:** sustainable teacher competency requires aligned policy, governance, and capacity, not isolated training.
+Faculty developers can aim professional development at pedagogical AI knowledge rather than tool fluency. Programs that built pedagogical content knowledge reported large pre-post gains, which suggests the ceiling is higher than a single workshop implies, and technical training on its own has not moved students' perceptions in the studies reviewed.
 
-- **Teacher digital competence for GenAI [[curriculum-design|curriculum design]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validate a TAM-based diagnostic instrument with 434 in-service teachers; behavioral intention was the main predictor of digital competence for using GenAI in curriculum planning, with self-efficacy as a root driver.
+Teacher educators can separate the two things prompting training buys. Time saved on preparation is one benefit and better materials is another, and the evidence supports the first without supporting the second. A program that promises both will disappoint on quality.
 
-### A Psychometric Instrument for Teacher AI Competency
+Instructors can write agent instructions as ordered steps. When teachers configured chatbots in natural language, the dominant failure was a skipped workflow step rather than a wrong fact, so the skill worth practicing is specifying sequence and preconditions, not adding more detail about content.
 
-- A psychometric study developed the Teachers' AI Literacy Scale (TAILS) to measure AI literacy specifically within [[teacher-education|language teacher education]], operationalizing the ED-AI framework's six dimensions. The instrument's development fills a gap in assessments that target students or general users, supporting the measurement of teacher AI competency.
+School leaders can fund the conditions that make competence usable: paid working time, a place in the timetable and subject-specific support. The iRAISE comparison found teacher confidence decided whether tools were used at all, and confidence follows practice with support rather than training alone.
 
-The instrument landscape itself has since been reviewed. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat's 2026 systematic review of teacher AI literacy measurement tools]] appraised 33 instruments published between 2019 and 2025 and found the field methodologically monotonous: 31 (93.9%) are self-report scales of perceived confidence, only two (6.1%) test knowledge objectively, and none use performance-based tasks. Internal consistency was the strongest quality domain (28 of 33 at Grade A) and fairness the weakest, with five instruments (15.2%) reporting measurement invariance or differential item functioning evidence. Content also lags the technology, since 29 instruments (87.9%) target general AI concepts and only four (12.1%), all from 2025, address generative AI.
+Department chairs can evaluate competence by demonstration. Self-report scales and demonstration diverge, and the instruments reviewed here measure very different constructs, so a portfolio of taught lessons or marked student work says more than a readiness survey.
 
 ## Common Misconceptions
 

@@ -1,7 +1,7 @@
 ---
 title: Institutional AI Infrastructure
 created: "2026-11-12T12:35:00-05:00"
-updated: "2026-11-12T14:50:00-05:00"
+updated: "2026-11-13T02:25:00-05:00"
 type: concept
 connected_resources: [mindrouter, amplify-genai]
 technology: [llm, generative-ai, open-source, edtech-platform]
@@ -36,7 +36,7 @@ Institutions spent the first years of [[generative-ai|generative AI]] buying acc
 
 Treating AI as infrastructure is the response. It means a shared serving layer, a gateway that applies the institution's rules to every request, and enough telemetry to see cost, load and failure. The claim in the literature is not that this is cheaper. It is that it makes the institution the party that decides, which is a different kind of claim and a harder one to test.
 
-The papers collected here also widen what counts as infrastructure. Two concern inference for chat and teaching, one concerns the registrar's office, and one concerns assessment records. Once course articulation, workload [[learning-analytics|analytics]] and evidence accumulation depend on embeddings and model calls, the back office is as much a part of the stack as the GPU rack. That is the argument this page now makes: infrastructure is wherever an institution has quietly delegated a decision to a model.
+The papers collected here also widen what counts as infrastructure. Two concern inference for chat and teaching, one concerns the registrar's office, and one concerns assessment records. Once course articulation, workload [[learning-analytics|analytics]] and evidence accumulation depend on embeddings and model calls, the back office is as much a part of the stack as the GPU rack. The argument is that infrastructure is wherever an institution has quietly delegated a decision to a model.
 
 ## What you are actually choosing
 
@@ -94,7 +94,7 @@ The adoption finding is the one infrastructure planners should keep. In a 2×2 e
 
 ## Assessment as a plumbing problem
 
-[[mcnamara-aimcai-continuous-assessment-infrastructure-2026|AIM-CAI]] argues that the evidence needed to interpret learning already exists but is fragmented across systems that cannot read one another. Its framework has six functional layers, three inferential boundaries that limit what a snapshot can support, and seven governance requirements including auditability, uncertainty estimation and human override. It is a framework rather than a deployment, and the page says so.
+[[mcnamara-aimcai-continuous-assessment-infrastructure-2026|AIM-CAI]] argues that the evidence needed to interpret learning already exists but is fragmented across systems that cannot read one another. Its framework has six functional layers, three inferential boundaries that limit what a snapshot can support, and seven governance requirements including auditability, uncertainty estimation and human override. It is a framework rather than a deployment, and the authors say so.
 
 [[lata-ferpa-compliant-local-llm-autograder|LaTA]] supplies the narrower case: a local reasoning model that removes the [[privacy|FERPA]] question about sending student work to a vendor rather than managing it. Together they suggest that assessment infrastructure is not a feature of a learning platform but a separate problem with its own data model and its own failure modes.
 
@@ -107,6 +107,20 @@ District-scale hosted platforms report the same kind of arithmetic: PSD401 AI St
 ## Sovereignty has an equity dimension
 
 A gateway can route to a local model that handles the institution's language poorly, and the resulting silence is not neutral. The infrastructure argument and the [[digital-divide|digital divide]] argument meet here: institutions with clusters and staff gain capability, and the ones without absorb whatever the vendor offers at whatever price the vendor sets. Free tiers are genuinely useful and genuinely fragile, which makes treating them as a permanent strategy a decision about which institutions get served.
+
+## Implications for Practice
+
+Senior administrators can start by naming the shape each unit is actually in. The six shapes differ in who holds the data and who absorbs failure, and most institutions are in several at once: a tenant for staff, a free tool in one department, a hosted platform in another. A one-page inventory of what is in use, where the data goes and who can change the model is more useful than a strategy document that describes one of them.
+
+IT and library leadership can make the gateway the place where policy is enforced. Fontys, MindRouter and SPIN converge on the same contract: one API surface, per-user quotas, identity integration, regional routing and a model card shown before the request goes out. A rule that lives in a PDF and a rule that lives in a router are different objects, and only the second one holds when a new model appears.
+
+Finance and procurement staff can instrument cost before choosing a supplier. Per-seat licensing, hosted platforms and metered gateways reward different usage shapes, and the only way to know which is cheaper is to measure tokens, active users and peak load. Purdue's service reached about 1000 users on roughly \$100,000 of hardware; a hosted pilot reports about \$3 per user per month. Those figures are not comparable without the same denominator.
+
+Teaching and learning centers can treat pilots on free tiers as pilots. Free tools are the reason many educators can try anything at all, and they come with no audit trail, no quota and terms that can change. A pilot that succeeds should move to a shape the institution can govern.
+
+School leaders without a data center can still run a local model. A refurbished desktop with an entry-level GPU hosts a small model for a building, and the privacy gain is physical rather than contractual. It is still a retention system, so logging and access remain design decisions.
+
+Department heads can look past the chat window. Articulation, workload analytics, tagging and assessment records are where institutions have already delegated decisions to a model, and those systems need the same governance as a chatbot, usually with less scrutiny.
 
 ## Common Misconceptions
 
