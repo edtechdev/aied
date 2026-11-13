@@ -8,41 +8,41 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "en": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/aied.epub",
-      "bytes": 3350134
+      "bytes": 3205676
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/aied.pdf",
-      "bytes": 8509227
+      "bytes": 8732045
     },
     "llms": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/llms.txt",
-      "bytes": 1452600
+      "bytes": 1491197
     },
     "llmsConcepts": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/llms-concepts.txt",
-      "bytes": 4373442
+      "bytes": 4486588
     },
     "llmsFull": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/llms-full.txt",
-      "bytes": 24098970
+      "bytes": 24844062
     }
   },
   "es": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/aied.es.epub",
-      "bytes": 3478899
+      "bytes": 3592930
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/aied.es.pdf",
-      "bytes": 9318290
+      "bytes": 9584834
     },
     "llms": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/llms.es.txt",
-      "bytes": 63888
+      "bytes": 65272
     },
     "llmsConcepts": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/llms.es-concepts.txt",
-      "bytes": 5276437
+      "bytes": 5424451
     }
   },
   "fr": {
