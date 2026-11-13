@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T09:46:01-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
@@ -52,6 +52,9 @@ The AI era has pushed the framework toward a technology-with-intelligence readin
 - **Beyond discrete knowledge.** [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK research]] argues effective AI integration emerges not from possessing separate domains but from the dynamic interplay of **systems thinking**, **pedagogical beliefs**, and **[[self-efficacy]]** — challenging static, checklist-based models of teacher AI competency. Teacher archetypes (Systematic Optimizers, Prolific Creators, Passive Observers) emerge from how teachers design multi-agent instructional workflows.
 
 - **What integration frameworks leave out.** A co-agency critique holds that TPACK and [[samr-model|SAMR]] address teacher knowledge and adoption levels but leave power, data ownership, and accountability unaddressed, so integration knowledge needs an explicit ethical boundary rather than another knowledge domain ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
+- 
+HACC reassigns the integrative work TPACK gives teachers' pedagogy to the learner's own metacognition, so learner-side integration falls outside TPACK's scope ([[dang-human-ai-collaboration-competency-2026|Dang et al. (2026)]]).
+
 - **Cross-level evidence for the pedagogical core.** [[pedagogy-first-technology-second-teacher-knowledge-2026|A multilevel study of 46 teachers and 2,832 secondary students]] found technical AI knowledge alone was insufficient — even slightly dampening students' perceptions of AI for social good — while pedagogical AI knowledge (TPAIK) is what fostered students' perceptions and behavioral intention to learn AI. The result distills to a **"pedagogy first, technology second"** guideline that echoes the mediating-role findings above.
 - **[[ethics]] as an integrative mediator, not a boundary.** In a survey of 454 university teachers, isolated AI-technological knowledge had a *negative* direct association with integrated AI-TPACK (β = −0.303) while its total effect stayed positive (β = 0.639), running through pedagogical, content, and ethical knowledge ([[ethically-mediated-ai-tpack-china-2026|Chen et al. (2026)]]). Ethical knowledge also channeled the effect onward, predicting both pedagogical (β = 0.353) and content knowledge (β = 0.269).
 - **A review lens for the whole field.** [[edurev-100741-tpack-genai-review|A systematic review from a TPACK perspective]] (Liu & Zhong, 2025) analyzed 71 empirical studies of GenAI in student learning, finding an overall positive effect (Hedges' g = 0.752) and identifying GenAI literacy for students and **GenAI-TPACK professional development for teachers** as the two critical priorities for the field.

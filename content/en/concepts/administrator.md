@@ -1,7 +1,7 @@
 ---
 title: Administrators
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T09:46:01-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -52,6 +52,7 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 
 - Budget the leadership role, not only the strategy document. When 49% declare AI a priority and 7% create senior roles, the binding constraint is allocation rather than conviction.
 - Ask what a tool can be evaluated on before signing. If the contract does not permit access to outcomes, audit data or usage detail, the institution has purchased a capability it cannot assess.
+- **Settle the administrative home before deployment.** House a centralized support channel where its data already sits, and treat cross-office data sharing as evaluation infrastructure: at CSUN the Registrar's ownership sustained the program for four years, while unshared records left most targeted campaigns unevaluable ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page (2026)]]).
 - Survey actual use rather than sanctioned use, because the two diverge and the unsanctioned number is the one that carries risk you are already exposed to.
 - Sequence policy ahead of rollout where leverage still exists. Once use is widespread, policy becomes negotiation with practice that has already settled.
 

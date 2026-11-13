@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T09:46:01-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -94,6 +94,9 @@ Reviews synthesize the evidence base rather than running a new experiment. Syste
 
 - **Strengths:** efficient synthesis of a large, fragmented literature; meta-analysis yields pooled effect estimates and detects moderators; essential for evidence-based practice and identifying gaps.
 - **Limitations:** depend on the quality of included studies (garbage-in/garbage-out); publication bias; heterogeneous methods and outcome measures make synthesis hard; rapidly aging given the speed of AI change.
+- 
+Google Scholar's relevance rankings are dynamic, so a PRISMA search that includes it cannot be fully reproduced from the query alone ([[ai-mathematics-education-prisma-review-2026|Omirzakova and Tileubay (2026)]]).
+
 - **Meta-research caveat (2026):** critiques of the AIED synthesis base show that many early meta-analyses are undermined by construct incoherence, unresolved heterogeneity, unaddressed dependence among effect sizes, and invalid publication-bias assessment — inflating headline AI effect sizes (see [[bartos-ai-learning-meta-meta-analysis-2026]], [[oneill-presumed-effective-meta-analysis-2026]], and [[weidlich-chatgpt-effect-search-cause-2025]]). Treat pooled AIED effect sizes as upper bounds.
 - **Exemplars:** [[zerkouk-comprehensive-review-its-2025]], [[genai-higher-education-systematic-review-2026]], [[chatgpt-critical-creative-thinking-review]], [[zerkouk-comprehensive-review-its-2025]], [[agentic-ai-education-scoping-review]].
 

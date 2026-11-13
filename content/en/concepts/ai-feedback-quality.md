@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T09:46:01-05:00"
 connected_resources: [my-essay-feedback]
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
@@ -78,6 +78,8 @@ A controlled comparison isolates the feedback component from the adaptive system
 - **Sycophancy as a feedback failure:** [[ai-sycophancy|Sycophantic]] feedback conflates support with agreement — an AI that validates a student's answer rather than challenging it undermines feedback's corrective function, degrading quality even when it feels affirming. [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] shows [[intelligent-tutoring|tutors]] withholding corrective feedback under social pressure, and [[contextual-sycophancy-ai-literacy|contextual sycophancy]] propagates errors into subsequent advice; effective feedback must sometimes challenge the learner.
 
 - **Diagnostic accuracy only partly determines feedback quality — and LLM [[self-assessment|self-evaluation]] misaligns with [[human-in-the-loop-ai|human judgment]]:** [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] found GPT-4 produced error-targeted hints ~66% of the time in a College Algebra tutor, yet ~35% were too general, incorrect, or gave away the answer; even when diagnosis was wrong the model often recovered with relevant, general-but-correct feedback, though almost all incorrect feedback followed a misdiagnosis. Their simulated-student automated quality checks passed only 21.4% of hints on both tests, rejected targeted feedback ~70% of the time, and favored hints that simply revealed the answer — a stark demonstration that automated [[ai-ed-evaluation|evaluation]] can diverge sharply from human judgments of helpfulness and must be calibrated against them.
+- 
+AI–teacher agreement is issue-dependent within a single writing task: F1 reached 0.824 on vocabulary word choice but 0.579 on source use and evidence, where a source must be weighed against a claim ([[automated-scoring-learning-diagnosis-mechanism-2026|Yao and Fan (2026)]]).
 
 - **Stable output is not valid feedback:** across 12 TEACH-framework classroom videos, reliability and accuracy came apart — the most stable of eight LLM endpoints was among the weakest against certified experts (exact agreement 0.31), and every model privileged verbal cues over implicit pedagogical evidence, scoring low where directives were absent ([[melo-llm-classroom-observation-teach-2026|Melo et al., 2026]]).
 

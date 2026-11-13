@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T09:46:01-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -70,6 +70,8 @@ Different pedagogical strategies produce different kinds and sizes of [[learning
 - **Socratic and dialogue-based strategies** ([[socratic-method]]) target higher-order thinking and reasoning — gains that are harder to measure than skill gains but central to [[critical-thinking]].
 
 The key cross-cutting finding, consistent with the [[learning-gains]] research, is that **the strategy's effect on learning depends more on how it preserves learner effort and productive struggle than on which label it carries** — any pedagogy, even a "good" one, fails if AI is configured to bypass the cognitive work it was meant to elicit (see [[cognitive-offloading]], [[desirable-difficulties]]).
+
+A tutor engineered from the same seven research-based practices as the in-class lesson outperformed that lesson: in Harvard's introductory physics course, 194 students' median learning gains were more than double the active-learning class's, in less time, with the authors crediting on-demand personalized feedback and self-pacing ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin (2025)]]).
 
 Student–[[student-ai-interaction|AI interaction]] is better read as a shifting process of cognitive distribution than as fixed dependence: across 53 ChatGPT conversations from a transdisciplinary [[engineering-education|engineering]] course, extension (tight, iterative co-thinking) was the most frequent interaction type at 53.3% of 321 prompt-level codes, ahead of outsourcing at 29.6% ([[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane & Arikan (2026)]]).
 

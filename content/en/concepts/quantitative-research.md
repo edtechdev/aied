@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T09:46:01-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -76,6 +76,8 @@ Bibliometric analysis is a further quantitative family: [[sriram-ethical-ai-medi
 
 - **Strengths:** precision and statistical power; generalizability to defined populations; causal inference (with experimental designs); efficient large-sample coverage; cumulative and comparable across studies.
 - **Limitations:** captures what is measurable, often missing process, meaning, and context (see [[qualitative-research]]); self-report bias; instruments can measure the wrong construct (see [[educational-measurement|measurement issues]]); correlation without causation; can be artificial and slow relative to AI change.
+- 
+**Pooling can fail at review scale.** A 103-study PRISMA review of GenAI in higher education ran no meta-analysis because designs, comparators, and measures were too heterogeneous, reporting outcome-typology agreement at κ = 0.781 instead ([[generative-ai-higher-education-systematic-review-2026|Hawi & Samaha (2026)]]).
 
 Quantitative and [[qualitative-research|qualitative]] methods are complements — quantitative work provides breadth and causal power, qualitative work provides depth and meaning. [[mixed-methods-research|Mixed-methods designs]] combine them. See [[research-methods-aied]] for the full method comparison and the contrasts among experimental, survey, qualitative, and other designs.
 

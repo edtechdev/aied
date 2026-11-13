@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T09:46:01-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -30,7 +30,11 @@ Conversational AI (CAI) is the umbrella term for AI-driven agents that carry on 
 
 **From chatbots to tutoring agents.** CAI has evolved from rule-based FAQ chatbots toward [[intelligent-tutoring|tutoring-focused]] [[pedagogical-agent|agents]]. The [[conversational-ai-tutors-framework|conversational AI tutors framework]] argues proven ITS [[ai-technologies|technologies]] ([[knowledge-tracing]], affect detection, [[student-modeling|student modeling]]) should anchor generative tutors while [[generative-ai]] supplies flexible dialogue. Research on [[measuring-llm-tutors-teach-vs-solve|whether LLM tutors teach or solve]] and [[stanford-evidence-base-ai-k12-2026|tutoring-specific vs general AI]] shows pedagogically designed [[guardrails]] matter: raw general chatbots can short-circuit reasoning while structured tutors preserve [[desirable-difficulties|productive struggle]].
 
+Across problem- and project-based learning studies, general chatbots produced a larger pooled effect than systems customized into course platforms or virtual patients (g = 0.970 vs. 0.455), so delivery mode may matter more than bespoke design ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. (2026)]]).
+
 [[benchmark|Benchmarks]] may overstate how much scaffolding gets taken up: across 9,490 chats in nine datasets, students in real deployments bypassed the chatbot's pedagogical framing at little interpersonal cost to drive the interaction toward their own goals — an instrumental [[help-seeking]] move rather than disengagement ([[rethinking-scaffolding-llm-tutors|Neagu et al. (2026)]]).
+
+Uptake divided by attainment: high-achieving groups requested chatbot feedback on 60.7% of their annotations against 34.0% for low-achieving groups, which stayed in a self-referential loop ([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al. (2026)]]).
 
 **Interaction and collaboration.** Conversational agents are increasingly framed as interaction partners rather than answer-givers. [[student-ai-interaction]] captures how learners prompt, question, and verify with CAI in practice. In [[collaborative-learning]], agents mediate participation and shared [[regulation]], and in [[language-learning]] they provide real-time conversational practice. The [[human-ai-collaboration]] thread examines when this partnership preserves versus substitutes for the learner's cognitive work. LLMs as critique partners illustrate the preservation side concretely: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] had ChatGPT, Gemini, or Claude critique students' argumentative essays across a semester, and learners improved on writing, [[prompt-engineering|prompt engineering]], and response-to-feedback while rating the exchanges useful, engaging, and enjoyable — with active rebuttal of model claims (87.8%) showing they treated the conversational partner critically rather than passively.
 

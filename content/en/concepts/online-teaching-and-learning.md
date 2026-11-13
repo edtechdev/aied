@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T09:46:01-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -52,6 +52,9 @@ Two campuses co-enrolled in one asynchronous course produced no cross-campus int
 - **Conversational, dialogic tutoring at scale.** [[conversational-ai]] tutors built on proven [[intelligent-tutoring]] technology ([[conversational-ai-tutors-framework|keep/change/center/study framework]]) promise high-quality, dialogue-based tutoring — engaging students' thoughts, questions, and [[misconceptions]] — that is far more scalable than human tutoring.
 - **Facilitation and analytics.** AI can support [[collaborative-learning|online discussions]] and [[learning-analytics]], forecasting engagement, and helping instructors allocate attention. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova (2026)]] add that LLM-generated discussion summaries can act as navigational [[scaffolding|scaffolds]] in large asynchronous forums — broadening students' peer exposure and the network conditions for bridging social capital without burdening students or instructors with the summarizing workload.
 - **Early-warning analytics for at-risk online learners.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] show that interpretable [[machine-learning|machine learning]] on content-interaction logs predicts module-level progress and flags dropout ("No submission") outcomes in large-scale online [[cs-education|programming]] courses up to 7–8 days before module deadlines, giving online instructors a concrete window to [[teacher-role|intervene]] with disengaged students rather than discovering failure only after the fact.
+- 
+**Proactive outreach can supply accountability that asynchronous courses lack.** In two large online courses, weekly personalized chatbot messages raised A/B rates four points across 2,483 students without teaching content, working through reminders and tutoring referrals ([[chatbot-outreach-course-performance-2026|Meyer et al. (2026)]]).
+
 - **Affordability and speed.** AI can generate course materials at a fraction of traditional cost — MAIC reduced MOOC course production from ~\$25K/60 hours to under \$2/30 minutes.
 
 ## Challenges of online teaching in the AI era
