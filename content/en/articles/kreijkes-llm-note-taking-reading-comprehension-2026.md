@@ -1,7 +1,7 @@
 ---
-title: "Note-taking beat an LLM on reading comprehension and retention, even though students preferred the chatbot"
+title: "Effects of LLM use and note-taking on reading comprehension and memory: A randomised experiment in secondary schools"
 created: "2026-11-12T20:30:00-05:00"
-updated: "2026-11-12T20:30:00-05:00"
+updated: "2026-11-13T00:40:00-05:00"
 type: article
 sources: ['raw/papers/kreijkes-llm-note-taking-reading-comprehension-2026.md']
 source_url: "https://doi.org/10.1016/j.compedu.2025.105514"
@@ -27,74 +27,63 @@ ai_assist:
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Kreijkes and colleagues (2026) ran a pre-registered randomized experiment in seven secondary schools in England. Of 405 Year 10 students, 344 were retained for analysis; each studied two history passages using an LLM chatbot (GPT-3.5 turbo, up to 20 prompts), note-taking, or both, and returned three days later for tests of literal retention, comprehension and free recall. Note-taking alone beat the LLM on all three outcomes; LLM + Notes beat it on literal retention and comprehension but not free recall. Students nonetheless rated the LLM easier, more helpful and more enjoyable, and preferred it. The finding is about cognitive engagement rather than about chatbots as such: the activity students liked best did more of the work for them.
-
-## Comprehension and retention are different things to test
-
-Literal retention items required no knowledge-based inferences and no or minimal bridging inferences, targeting the surface and textbase levels. Comprehension items required bridging and knowledge-based inferences, targeting the situation model. Free recall was an open response scored for both. The layering comes from the Construction-Integration tradition in [[reading-education|reading research]], and it matters: an activity can improve a student's grasp of what a text says without improving what they can do with it.
-
-Most evidence on [[generative-ai|generative AI]] measures performance rather than learning, sometimes with the model available during assessment; these tests were closed-book and delayed. Note-taking is the baseline because it is common and evidence-based, though its benefits depend on whether notes are generative or verbatim.
-
-## A crossover design with the LLM as the common reference
-
-Participants were 405 Year 10 students aged 14–15 from seven [[k-12|secondary schools]] in England; exclusions left 344 for analysis. Group 1 (184 students, 53.5%) experienced LLM and Notes; Group 2 (160, 46.5%) experienced LLM and LLM + Notes, so every student completed two of the three conditions with the LLM as shared reference — a within-participant contrast.
-
-The passages, on Apartheid and the Cuban Missile Crisis, were matched at 386 and 385 words. Students had 10–15 minutes and, with the LLM, at most 20 prompts per passage, were not told they would be tested, and returned three days later for 22 questions per passage: literal retention out of 20, comprehension out of 12 and free recall out of 50.
-
-## Note-taking beat the chatbot on every outcome
-
-Notes produced the best performance on all three measures and the LLM alone the worst; in Group 1, literal retention rose from 8.83 (SD = 3.96) with the LLM to 10.80 (SD = 4.29) with notes.
-
-Against the LLM reference, notes improved literal retention by β = 1.92 (d = 0.44), comprehension by β = 0.95 (d = 0.38) and free recall by β = 1.02 (d = 0.21), all at p < .05 and the first two at p < .001. LLM + Notes improved literal retention by β = 0.57 (d = 0.13, p = .040) and comprehension by β = 0.35 (d = 0.14, p = .048), but not free recall (β = −0.08, p = .854); a permutation test agreed (p = .02 in Group 1, p = .80 in Group 2).
-
-On an indirect comparison, the advantage of notes was larger than that of LLM + Notes for literal retention (difference = 1.35, z = 3.60, p < .001) and comprehension (difference = 0.59, z = 2.43, p = .015).
-
-## Students preferred the activity that produced less learning
-
-The engagement data run against the scores. Students rated the LLM as less difficult than note-taking by 0.51 points (d = −0.52), invested less effort by 0.25 points (d = −0.26, p = .001), found it more helpful by 0.41 points (d = 0.33) and enjoyed it more by 0.68 points (d = 0.48), all but effort at p < .001. Time on task was also shorter with the LLM (0.80 minutes in Group 1, 1.54 in Group 2).
-
-In Group 1, 42.0% preferred the LLM over notes and 26.9% preferred notes; in Group 2, 50.5% preferred LLM + Notes over the LLM alone and 16.2% the reverse.
-
-The paper reads this as a [[metacognition|metacognitive]] problem: learners have limited insight into which activities produce durable learning. The process data show why: 25.63% of students in the combined condition had more than 70% trigram overlap between their notes and the LLM output, and 16.25% had more than 90% — they copied — while prompt frequency fell from 9.21 (SD = 5.72) with the LLM alone to 6.02 (SD = 4.64) with notes available.
-
-## What students actually asked the model
-
-The 4,929 prompts are its most concrete contribution to [[learning-design|learning design]]. The most frequent archetype was seeking additional information and deeper understanding (2,265 prompts), used by 90% of students at least once and by 60% as their most common prompt; it was mainly elaboration (1,479) and general background (514). Information condensation came second (749 prompts), with 27% of students opening with a summary request. Understanding the text (615) covered definitions and simplifications and was used by 70% of students at least once; study and memory help was rare (39).
-
-A further 760 prompts addressed the chatbot's functionality, 501 (about 10%) were off-topic, and only six prompts questioned its trustworthiness; students treated a system that can be wrong as an authority.
-
-## Complementary uses, and what the design can support
-
-The authors resist the simple reading that chatbots are bad for reading: their tests measured mastery of the assigned texts only, so the advantage of notes may be narrow — notes supported command of the material, while the LLM supported exploration beyond it. On that account the two produce different outcomes rather than better and worse ones, and the combined condition preserved the emotional engagement note-taking alone lost.
-
-The design cannot support a claim that the LLM produced less learning than reading would have; without a reading-only arm the baseline is strong. The practical question is sequencing: query first, close the tool, then write — a matter of [[self-regulated-learning|self-regulation]] and [[ai-literacy|AI literacy]] as much as software.
+> **Synthesis:** Kreijkes and colleagues ran a preregistered experiment in seven English secondary schools to ask whether a chatbot helps students understand a history passage better than taking notes does. Every student worked through two of three conditions — a chatbot, note-taking, or both together — and returned three days later for closed-book tests. Note-taking beat the chatbot on every measure, and the combination beat the chatbot on two of three. Students nevertheless found the chatbot easier, more helpful and more enjoyable, and preferred it. The paper's explanation is not that chatbots harm reading but that the activity students liked best did more of the cognitive work for them.
 
 ## Key Findings
 
-1. Notes outperformed LLM-only use on literal retention (β = 1.92, d = 0.44, p < .001), comprehension (β = 0.95, d = 0.38, p < .001) and free recall (β = 1.02, d = 0.21, p = .017).
-2. LLM + Notes outperformed LLM-only use on literal retention (β = 0.57, d = 0.13, p = .040) and comprehension (β = 0.35, d = 0.14, p = .048), but not free recall (β = −0.08, p = .854).
-3. The advantage of notes was larger than that of LLM + Notes for literal retention (difference = 1.35, z = 3.60, p < .001) and comprehension (difference = 0.59, z = 2.43, p = .015).
-4. Students rated the LLM less difficult (0.51 points, d = −0.52), more helpful (0.41 points, d = 0.33) and more enjoyable (0.68 points, d = 0.48) than note-taking while scoring lower on every test.
-5. In Group 1, 42.0% preferred the LLM over notes and 26.9% preferred notes; in Group 2, 50.5% preferred LLM + Notes over the LLM alone and 16.2% the reverse.
-6. In the LLM + Notes condition, 25.63% of students had more than 70% trigram overlap between their notes and LLM output and 16.25% had more than 90%.
-7. Of 4,929 prompts, the most common archetype was seeking additional information and deeper understanding (2,265 prompts, used by 90% of students at least once), while only six questioned the LLM's trustworthiness.
+1. **Note-taking produced better learning than the chatbot alone.** Students scored higher on literal retention, comprehension and free recall after writing notes than after querying the model.
+2. **Combining the two recovered part of the loss, not all of it.** Notes plus chatbot beat the chatbot alone on literal retention and comprehension, and did nothing for free recall.
+3. **Notes alone were stronger than notes plus chatbot.** The gap appeared on retention and comprehension, which suggests the model displaced some of the writing rather than adding to it.
+4. **Students preferred the condition that taught them less.** They rated the chatbot easier, more helpful and more enjoyable than note-taking while scoring lower on every test.
+5. **A quarter of students copied.** In the combined condition, roughly a quarter wrote notes that mostly reproduced the chatbot's output, and about one in six overlapped almost entirely.
+6. **Students used the model to explore, not to check.** Most prompts asked for more information or a summary; only six of nearly five thousand questioned whether the model was trustworthy.
+
+## What the study tested
+
+The tests separate three kinds of reading outcome. Literal retention asked what the passage said, targeting the surface and textbase levels. Comprehension asked students to bridge and infer, targeting the situation model. Free recall was an open response scored on both. The layering follows the Construction-Integration tradition in [[reading-education|reading research]], and it matters here: an activity can improve a student's grasp of what a text says without improving what they can do with it.
+
+The comparison is deliberately conservative: both tests were closed-book and delayed by three days, where most [[generative-ai|generative AI]] studies measure performance with the tool still available.
+
+## How the experiment ran
+
+Participants were 405 Year 10 students aged 14–15 from seven [[k-12|secondary schools]] in England; exclusions left 344. One group experienced the chatbot and note-taking, the other the chatbot and the combination, so every student completed two conditions with the chatbot as the shared reference. The passages covered Apartheid and the Cuban Missile Crisis (386 and 385 words); students had 10–15 minutes each, at most 20 prompts, and were not told they would be tested.
+
+## What the scores showed
+
+Notes produced the best performance on all three measures and the chatbot alone the worst. Against the chatbot reference, notes improved literal retention by about half a standard deviation, comprehension by close to four tenths, and free recall by two tenths. The combination improved retention and comprehension by roughly a tenth of a standard deviation each and had no effect on free recall. On an indirect comparison, the advantage of notes exceeded that of the combination on both retention and comprehension.
+
+The engagement data run the other way. Students rated the chatbot easier, more helpful and more enjoyable than note-taking, spent less time on task, and preferred it by a wide margin. The authors read this as a [[metacognition|metacognitive]] problem: learners have limited insight into which activities produce durable learning.
+
+The process data show the mechanism. When notes and chatbot were available together, a quarter of students produced notes with more than 70% trigram overlap with the model's output, and about one in six exceeded 90%. Prompt frequency also fell when notes were available, so note-taking did not simply add a step to the same interaction.
+
+The 4,929 prompts are the paper's other contribution to [[learning-design|learning design]]: most asked for more information or a summary, a tenth were off topic, and only six questioned the model's trustworthiness.
 
 ## What this means for practice
 
-- **Separate the chatbot from the notepad.** With both open, a quarter of students copied most of their notes from the model; the authors suggest querying first, then closing the chatbot before writing, or blocking paste.
-- **Teach the interaction, not just the interface.** Participants got instructions and a demonstration but no practice; the authors conclude that students need more comprehensive training.
-- **Do not read enjoyment as evidence of learning.** The condition students found easiest and most helpful produced the lowest scores; ask for a delayed, closed-book task before concluding a tool works.
-- **Use prompt logs as formative assessment.** The prompts showed what students were curious about and what they misunderstood, which can inform the next lesson.
-- **Keep a plain-reading comparison in local evaluations.** Without that arm this study cannot say whether the chatbot was worse than reading.
+- **Instructors:** sequence the tools rather than co-presenting them. Query first, close the chatbot, then write; the copying data is the reason.
+- **Instructional designers:** build the writing step into the task instead of assuming students will do it. Blocking paste or requiring notes in a separate window are cheap levers.
+- **Administrators:** do not treat enjoyment or perceived helpfulness as evidence that a tool works. Ask for a delayed, closed-book task before scaling.
+- **Researchers:** the missing arm is reading only. Without it this design cannot say the chatbot produced less learning than ordinary reading.
 
 ## Limitations
 
-- Neither activity was practiced, possibly disadvantaging the LLM conditions: about 15% often or always used an LLM for learning, against about half for note-taking.
-- No reading-only control and no group saw both Notes and LLM + Notes, so the LLM cannot be located relative to plain reading and Notes versus LLM + Notes is only an indirect comparison.
-- Engagement used single items, and post-hoc power for those comparisons ranged from 70.5% to 77.0%, below the conventional 80% benchmark.
-- Free recall was underpowered (64% and 63% for the two pre-registered contrasts) and near floor — 4.32 out of 50 in the LLM conditions — so the null result for LLM + Notes there deserves caution.
-- Prompts were coded at the single-prompt level rather than as dialogues, so the study cannot say which kinds of LLM use drive outcomes, and coding was checked against API output without independent double coding.
-- The model was GPT-3.5 turbo, each condition a single 10–15 minute task, and the sample 344 students in seven self-selected schools in England, so results may not transfer to newer models, repeated use, homework or other systems.
+- There was no reading-only condition, so the study compares three uses of the material and none of them against unaided study.
+- The tests covered mastery of the assigned passages only; the authors suggest notes may support command of the text while the chatbot supports exploration beyond it.
+- Participants received instructions and a demonstration but no training, so the copying may reflect a missing skill rather than a fixed property of chatbots.
+- The sample was Year 10 students in seven self-selected English schools working with two history passages and GPT-3.5 turbo, which limits generalization to other ages, texts and systems.
+
+## Connected Concepts
+
+- [[reading-education]] — comprehension and retention as separate outcomes of reading instruction
+- [[metacognition]] — learners' weak judgment about which activities produce learning
+- [[self-regulated-learning]] — sequencing tool use so the student does the work
+- [[learning-design]] — prompt patterns as a design surface for tasks
+
+## Connected Articles
+
+- [[gardella-copilot-fast-forgettable-2026]] — a controlled study in which speed with a copilot did not become learning
+- [[chen-genai-programming-understanding-2026]] — two groups of programming students diverging in understanding
+- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — a generative use of the model that improved later retrieval
 
 ## Citation
 
