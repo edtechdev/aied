@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:50:00-05:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
@@ -22,7 +22,7 @@ reviewed_by: [editor]
 
 GBL is grounded in [[motivation]], [[student-engagement]], and [[active-learning]] theories: games provide intrinsic motivation, immediate feedback, and authentic problem contexts. It overlaps with [[simulation]], [[project-based-learning]], and [[educational-robotics]]. GBL is particularly relevant to [[educational-robotics]], [[computational-thinking]], and [[cs-education]], where games can make abstract technical concepts concrete and fun.
 
-### How GBL appears in the knowledge base's research
+## How GBL appears in the knowledge base's research
 
 - **Robotics education:** [[game-based-gamified-robotics-education-review-2026|A comparative systematic review]] of game-based learning and gamification in robotics education found GBL more prevalent in informal settings, while gamification dominated formal classrooms and favored [[project-based-learning|project-based learning]].
 - **Robot-mediated games:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] is a robot-mediated role-play game for anti-bullying intervention, and [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] uses interactive [[storytelling-in-education|digital storytelling]] to boost motivation.
@@ -36,7 +36,7 @@ GBL is grounded in [[motivation]], [[student-engagement]], and [[active-learning
 
 - **Split the AI into a dialogue coach and a difficulty engine.** An AI-enhanced Roblox environment for upper-secondary computational thinking paired a GPT-4 non-player character, capped at two to three sentences and barred from giving answers, with a rule-based engine that set difficulty from time-to-solution and error rate ([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang & Kanjug, 2026]]).
 
-### Gamification
+## Gamification
 
 **Gamification** is the application of game-design elements (points, badges, levels, leaderboards, challenges, progress bars) to non-game contexts to motivate and engage users. Unlike game-based learning — where learning happens *through* a game — gamification layers game mechanics onto an existing learning activity without turning it into a full game. It is used in education to boost motivation, [[student-engagement]], and persistence, and is widely applied in formal classroom settings.
 
@@ -46,14 +46,6 @@ Gamification is grounded in motivational theory, particularly [[self-determinati
 - **Engagement and motivation:** gamification is used across the knowledge base to increase learner engagement and motivation in AI, [[cs-education|programming]], and [[stem-education|STEM]] learning contexts. [[genai-motivation-engagement-2026|Generative AI, motivation, and engagement]] research examines how game-like elements combine with AI to sustain learner interest. Two 2026 studies extend this by comparing gamified and AI-supported conditions against traditional instruction: [[nasa-tlx-workload-gamified-ai-2026|a NASA-TLX study]] measured perceived workload across traditional, gamified, and AI-supported learning conditions, and [[arcs-motivational-ergonomics-gamified-ai-2026|an ARCS study]] examined motivational "ergonomics" in gamified and AI-supported learning with implications for [[professional-training|workplace training]]. Together they clarify that the motivational benefit of game-like and AI-supported designs depends on how they shape [[motivation|perceived effort]], workload, and attention (e.g., ARCS attention/relevance dimensions), not on gamification alone.
 
 GBL and gamification together connect to [[educational-robotics]], [[student-engagement]], [[motivation]], [[self-determination-theory]], [[active-learning]], [[simulation]], [[project-based-learning]], and [[computational-thinking]].
-
-## Common Misconceptions
-
-**"AI-supported game-based learning has a solid evidence base."** The synthesis behind the claim is large and thin at the same time. A **55-study systematic review** finds positive effects on knowledge, intrinsic motivation and affective engagement — but only **4 studies (7%) met its High-quality threshold**. A pooled positive effect drawn from a corpus where 93% of studies fall below the review's own quality bar is a hypothesis with a literature attached, not a finding to design against.
-
-**"Positive effects on motivation and knowledge are mutually reinforcing."** They are separately measured and, in the wider literature, separately scheduled: [[student-engagement|engagement and achievement]] move on different timelines, so a game that raises intrinsic motivation has demonstrated one outcome. Treating the motivational result as corroborating the knowledge result inflates a two-part finding into a stronger one than the design supports.
-
-**"If a game engages students, the learning follows from the fun."** Fun is the delivery mechanism for the repetition a game makes tolerable, not the mechanism of learning. A game that adds engagement without adding productive practice has added the part that was never in short supply.
 
 ## Implications for Practice
 
@@ -73,6 +65,14 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 - Raise the design quality of the field rather than its volume; a 7% high-quality rate is the binding constraint on what can be concluded.
 
 - **Conversational feedback in a simulation raises germane load without lowering extraneous load.** In a five-week business simulation game with **234 students**, regular users of a GPT-4o-based feedback chatbot reported **significantly higher germane cognitive load** than users-with-access who did not engage (β = −.468, p < .001) and than the static-feedback control (β = −.253, p = .028). **Extraneous load showed no effect** in either specification (F(1, 219) = 0.499, p = .481). Both loads **declined across the five weeks** (extraneous β = −.388, p < .001), a novelty effect measured on cognitive load rather than engagement ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]]). The design point is that the feedback carried [[personalized-learning|personalization]], signaling, segmenting and feed-forward structure over 19 concrete indicators — the chatbot surface alone is not the treatment.
+
+## Common Misconceptions
+
+**"AI-supported game-based learning has a solid evidence base."** The synthesis behind the claim is large and thin at the same time. A **55-study systematic review** finds positive effects on knowledge, intrinsic motivation and affective engagement — but only **4 studies (7%) met its High-quality threshold**. A pooled positive effect drawn from a corpus where 93% of studies fall below the review's own quality bar is a hypothesis with a literature attached, not a finding to design against.
+
+**"Positive effects on motivation and knowledge are mutually reinforcing."** They are separately measured and, in the wider literature, separately scheduled: [[student-engagement|engagement and achievement]] move on different timelines, so a game that raises intrinsic motivation has demonstrated one outcome. Treating the motivational result as corroborating the knowledge result inflates a two-part finding into a stronger one than the design supports.
+
+**"If a game engages students, the learning follows from the fun."** Fun is the delivery mechanism for the repetition a game makes tolerable, not the mechanism of learning. A game that adds engagement without adding productive practice has added the part that was never in short supply.
 
 ## Connected Concepts
 - [[educational-robotics]]

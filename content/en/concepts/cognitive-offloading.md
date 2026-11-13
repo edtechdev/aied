@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-12T18:50:00-05:00"
+updated: "2026-11-12T21:05:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -183,6 +183,8 @@ The newer causal evidence separates finishing the task from learning it. In a 2�
 
 Two recent studies give offloading a measurement apparatus. [[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrah and colleagues']] 35-item scale turns the process into six reportable dimensions — overreliance, superficial understanding, reduced verification, weaker memory, diminished effort and reduced critical evaluation — validated on 616 secondary students. [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026|Sharma, Manani and Thakwani's]] survey of university students found that ChatGPT dependence was associated with poorer executive functioning mainly through academic stress, with the direct path falling to P = 0.328 once stress entered the model. Both belong to [[executive-function|executive function]], which holds the capacity the offloading is thought to displace.
 
+[[papasideri-cognitive-offloading-genai-narrative-review-2026|Papasideri, Chatziioannou and Palaiologos (2026)]] survey the construct's migration into generative AI in a narrative review that pools nothing and reports no new data. Their frame is the one this page uses: offloading is a reallocation of effort, and the question is whether the reallocated effort returns as learning. What changes with generative AI is the object — reasoning, synthesis and evaluation rather than lookup and arithmetic — so the older result that offloading predicts weaker delayed retention now applies to higher-order work. Their one design claim is concrete: prompts that demand justification or evaluation reduced offloading and improved argument quality, which makes interaction design, rather than model capability, the lever.
+
 ## Common Misconceptions
 
 - **"Prompt volume measures offloading."** **97 learners** were clustered by prompt volume, and **the volume clusters did not differ significantly in local-versus-global or active-role prompting**. Counting prompts counted activity, not the distribution of cognitive work.
@@ -268,3 +270,4 @@ Two recent studies give offloading a measurement apparatus. [[ayasrah-executive-
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Sequencing rule applied developmentally: arithmetic before calculators, citations before reference managers
 - [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Six self-reported dimensions of AI-mediated learning difficulty
 - [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Academic stress mediates ChatGPT dependence and executive dysfunction
+- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Cognitive offloading in the age of generative AI: a narrative review linking offloading to memory, learning and executive function

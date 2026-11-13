@@ -1,7 +1,7 @@
 ---
 title: Computational Thinking
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -24,7 +24,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-### CT in an AI-era classroom
+## CT in an AI-era classroom
 
 The knowledge base's connected articles converge on a central claim: computational thinking (CT) is the conceptual bedrock students need in order to engage critically with AI, and it is also the skill most directly deepened by well-designed AI-supported learning. Below the evidence is grouped into four themes grounded in the linked articles.
 
@@ -41,7 +41,7 @@ Durable competencies shift once implementation is automated: a workshop report n
 
 - **A validated instrument locates where CT is hardest.** A 34-item computational-thinking test built with Evidence-Centered Design and validated by item-response theory across 461 AI-programming students concentrated difficulty in data representation, logical-operator sequencing, and loop structures rather than evenly across the syllabus ([[zhang-ct-ai-training-test-2026|Zhang & Zhang (2026)]]).
 
-### CT and the shift from AI consumers to producers, creators, and designers
+## CT and the shift from AI consumers to producers, creators, and designers
 
 A central goal for CT in the AI era is moving students and instructors beyond *passive consumption* of AI outputs toward *creating, building, and designing* with and for AI — an agenda that aligns CT with constructionist learning (learning-by-making). The knowledge base's connected articles increasingly make this producer/creator/designer turn explicit. [[ai-writes-code-student-writes-model-2026|Model-authorship research]] reframes learning-by-construction with GenAI as a measurable "model authorship" process — students author, debug, and iterate on AI models rather than just consuming AI-generated code or answers. [[code-to-learn-genai-artifact-construction-2026|The CtL-GenAI framework]] operationalizes this as [[constructivist|constructionism]] for the GenAI age, treating artifacts students build with AI as the engine of CT development. [[computational-thinking-ai-agent-creation|CT through AI-agent creation]] shows that designing, not merely using, AI agents exercises decomposition, abstraction, and algorithmic reasoning directly.
 
@@ -51,11 +51,11 @@ The practical upshot is that CT instruction should be designed so learners *make
 
 Reusing others' models belongs to the producer stance: implementing a published AI model — selecting, installing, running, and validating it — can be taught as a learnable, structured skill with a fallback route for each anticipated failure, and three BSc [[chemistry-education|chemistry]] students with no programming background reproduced and extended an enzyme-substrate prediction model within four months ([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
-### Practical guidance
+## Practical guidance
 
 For educators, the consistent message is that CT is developed through *explicit, scaffolded, observable* engagement rather than passive AI use. Pair robotics with explicit CT-concept mapping to the curriculum; use LLMs for [[simulation]], natural-language control, and scalable assessment of CT growth while reserving human judgment for constructs like Systems Thinking; and redesign assessments to emphasize evaluation and diagnosis of AI output over raw generation. Whatever the setting — unplugged play in early childhood, robots in secondary [[stem-education]], or Virtual Tutors in [[higher-ed]] — structure the activity so students must reason about decomposition, pattern, abstraction, and algorithm rather than receive finished solutions.
 
-### Connections to related concepts
+## Connections to related concepts
 
 Computational thinking is the shared cognitive foundation beneath [[ai-literacy]] and [[critical-thinking]], the curricular core of [[cs-education]] and [[k-12]] computing, and the conceptual target that [[educational-robotics]], [[game-based-learning]], and [[project-based-learning]] are best designed to serve. It is deepened by [[llm|large language models]] and [[generative-ai]] when those are used as scaffolding tools, and it is the skill that student-misconceptions taxonomies and CT-aware assessments aim to measure. Teachers develop it through [[teacher-education]] and [[professional-training]], and it transfers across domains including [[physics-education]] and [[stem-education|STEM]] broadly.
 

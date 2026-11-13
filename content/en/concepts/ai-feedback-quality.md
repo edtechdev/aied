@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-12T10:45:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 connected_resources: [my-essay-feedback]
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
@@ -27,7 +27,7 @@ reviewed_by: [editor]
 
 AI feedback quality is not simply about correctness. Effective feedback must be timely, specific, actionable, and calibrated to the learner's current understanding. Research in this knowledge base examines AI feedback quality across multiple dimensions: accuracy (is the feedback correct?), usefulness (does it help the student improve?), and pedagogical alignment (does it promote learning rather than just task completion?).
 
-### How AI feedback quality appears in the research
+## How AI feedback quality appears in the research
 
 - **Comparability to human feedback:** [[ai-generated-feedback-higher-ed|Studies in higher education]] find that AI-generated feedback is experienced as acceptable and supportive — comparable to teacher feedback. But acceptability does not guarantee learning effectiveness. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) likewise finds [[llm]] grading and feedback quality to be task-contingent — matching human raters on short, well-structured answers with detailed rubrics but degrading on complex, open-ended, or [[multilingual-learning|multilingual]] work, with feedback sometimes too generic or misaligned with the grade — and identifies prompt quality, rubric detail, model version, and assessment language as the dominant determinants of grading and feedback quality ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
 - **LLM-generated lesson materials matched human-created ones — when feedback was present.** [[lin-rag-lesson-generation-tutor-training-2026|Lin et al. (2026)]] generated scenario-based tutor-training lessons with a [[rag|retrieval-augmented]] pipeline over curated research sources and compared them in a randomized eight-condition experiment (N = 208) against carefully human-authored lessons. The human-created lesson produced higher post-test performance (0.793 vs 0.730), but only in the no-feedback condition; with immediate explanatory feedback the source difference disappeared, and feedback had no overall main effect. For content generation the finding suggests the human-vs-LLM gap is a scaffolding gap: generated materials are competitive when the learning environment supplies the explanatory feedback the lesson itself does not.
@@ -90,7 +90,7 @@ Style is a quality dimension with a cost: with the same model, directive feedbac
 
 How the feedback is *produced* belongs on that list too. In a modular automated writing evaluation system for argumentative essays, supervised [[llm-training-and-fine-tuning|fine-tuning]] on 90 teacher-annotated essays produced unusable feedback — the fine-tuned GPT-4o exceeded its 8,000-token context window on every inference and fine-tuned LLaMA-3.3-70B emitted JSON that would not parse. Directly prompting Claude 3.7, by contrast, generated 630 micro comments across 40 essays whose teachers judged 94.69% necessary and effective, leading the authors to conclude that for a non-deterministic generation task prompting can beat fine-tuning ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]]).
 
-### Quality dimensions
+## Quality dimensions
 
 AI feedback quality spans multiple dimensions captured in the knowledge base:
 - **Accuracy:** Does the feedback correctly identify errors and strengths? ([[automated-assessment|Automated Grading]], [[automated-essay-scoring]])
@@ -113,7 +113,7 @@ AI feedback quality spans multiple dimensions captured in the knowledge base:
 - **Length out-predicted every other measured property of the message.** Across three deployments of an LLM hint system in a live programming course, each standard deviation of 204.9 characters predicted lower next-submission correctness (−0.733), more remaining attempts (0.187) and a longer wait before resubmitting (0.226), while Flesch-Kincaid grade was uncertain for the first two ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Format mattered as well, but as a trade-off: diagnostic hints produced correct next submissions more often and fewer attempts, and slower resubmission.
 - **The structure carried the gain, not the model.** Four phases — elicitation, inquiry, reframing, consolidation — produced a 5.64-point critical-thinking advantage over instructor comments in a data science course ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al. (2026)]]).
 
-### Connection to broader concepts
+## Connection to broader concepts
 
 AI feedback quality connects fundamentally to [[formative-assessment]] and [[feedback|Feedback Loop]] — quality feedback closes the gap between current and desired performance. It intersects with [[automated-assessment|Automated Grading]] (which generates the scores feedback is based on), [[ai-literacy]] (students must evaluate feedback quality critically), and [[cognitive-offloading|Over-Reliance]] (uncritical acceptance of AI feedback can displace learning). For [[writing-education]], feedback quality is particularly consequential given AI's growing role in writing assessment.
 

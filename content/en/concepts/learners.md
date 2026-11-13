@@ -1,7 +1,7 @@
 ---
 title: "Learners"
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:50:00-05:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -69,16 +69,6 @@ Because benefits follow prior advantage, learner-side work is inseparable from [
 
 Read with [[stakeholders]] for the people around the learner, and with [[pedagogy]] and [[learning-design]] for what teachers do with these findings. [[assessment]] determines which learner capabilities are ever made visible; [[limitations-in-aied-research]] explains why so much of the learner-side evidence is short-term, self-reported and conducted on convenience samples; and [[misconceptions]] is the usual entry point for learners themselves.
 
-## Common Misconceptions
-
-**"Learners and students are the same population."** They are not interchangeable in a useful way: *students* names an institutional role, *learners* names an activity, and a person can be one without the other — someone in [[professional-training|workplace training]] is doing the activity, not holding the role. Confiating them narrows the evidence base to people with enrollment records and silently drops exactly the adults, professionals and [[self-directed-learning|self-directed]] learners that [[lifelong-learning|lifelong learning]] research is about.
-
-**"Learners report AI improves their understanding, so it saves them time."** The two claims separate in the survey data. In work on study productivity, **92.3%** said AI improved their understanding, while only **38.5%** said it reduced their overall study time. The headline number describes felt comprehension; the gap beneath it shows that improved understanding and recovered time are different outcomes, and the widely repeated "AI saves time" claim is carried by the smaller figure.
-
-**"Students using AI for shortcuts is a moral failing."** The knowledge base treats least-effort pull as a design and policy problem rather than a character problem — students describe it in their own words, and the [[reducing-ai-misuse|misuse]] and [[academic-integrity|integrity]] literature locates the lever in task and environment design. Framing it morally explains nothing about why the same student behaves differently across two courses.
-
-**"When a misconduct allegation is made, the evidence is there."** Case-file analysis of 1,162 GenAI allegations shows what learners actually face when the institutional response arrives, and the student side of misconduct procedure is far thinner in the literature than the student side of use. A page about learners that documents only their usage and not their exposure to accusation has documented half the experience.
-
 ## Implications for Practice
 
 **For instructors**
@@ -96,6 +86,16 @@ Read with [[stakeholders]] for the people around the learner, and with [[pedagog
 
 - Keep the learner/student distinction explicit in sampling, and report who is excluded by it.
 - Study the accused as well as the user; the procedure side is the thin half of this literature.
+
+## Common Misconceptions
+
+**"Learners and students are the same population."** They are not interchangeable in a useful way: *students* names an institutional role, *learners* names an activity, and a person can be one without the other — someone in [[professional-training|workplace training]] is doing the activity, not holding the role. Confiating them narrows the evidence base to people with enrollment records and silently drops exactly the adults, professionals and [[self-directed-learning|self-directed]] learners that [[lifelong-learning|lifelong learning]] research is about.
+
+**"Learners report AI improves their understanding, so it saves them time."** The two claims separate in the survey data. In work on study productivity, **92.3%** said AI improved their understanding, while only **38.5%** said it reduced their overall study time. The headline number describes felt comprehension; the gap beneath it shows that improved understanding and recovered time are different outcomes, and the widely repeated "AI saves time" claim is carried by the smaller figure.
+
+**"Students using AI for shortcuts is a moral failing."** The knowledge base treats least-effort pull as a design and policy problem rather than a character problem — students describe it in their own words, and the [[reducing-ai-misuse|misuse]] and [[academic-integrity|integrity]] literature locates the lever in task and environment design. Framing it morally explains nothing about why the same student behaves differently across two courses.
+
+**"When a misconduct allegation is made, the evidence is there."** Case-file analysis of 1,162 GenAI allegations shows what learners actually face when the institutional response arrives, and the student side of misconduct procedure is far thinner in the literature than the student side of use. A page about learners that documents only their usage and not their exposure to accusation has documented half the experience.
 
 ## Connected Concepts
 

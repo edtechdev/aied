@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-11T09:15:28-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -32,7 +32,7 @@ ai_assist:
 
 Self-efficacy is distinct from actual competence: it is a belief about capability that drives behavior. It is closely related to — and often used interchangeably with — the everyday notion of *confidence* in one's abilities. Self-efficacy connects closely to [[motivation]], [[self-regulated-learning]], and [[student-experience]]. In the AI context, AI self-efficacy (confidence in working with AI) is a distinct construct from AI literacy, and research shows it plays a crucial role in whether learners actually activate and apply AI-related knowledge.
 
-### How self-efficacy appears in the knowledge base's research
+## How self-efficacy appears in the knowledge base's research
 
 - **Declines under GenAI-plus-XR studio work:** in a 27-student architectural [[arts-design-and-media-education|design studio]], teams using a [[generative-ai|GenAI]] and multi-user XR pipeline showed larger relative pre–post declines in design self-efficacy confidence (β = −1.675, p = 0.021) and outcome expectancy (β = −2.088, p = 0.002) than teams continuing the normal workflow, with no significant difference in blinded panel ratings of their presentations ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). Tool-rich environments can depress efficacy beliefs even when the work itself is judged equivalent.
 - **AI self-efficacy and career readiness:** [[ai-literacy-career-adaptability-business-2026|Research on AI readiness]] shows that AI self-efficacy moderates the relationship between AI literacy and AI readiness: literacy translates into readiness only when learners have confidence in using AI, and self-efficacy directly predicts [[career-development-and-readiness|career adaptability]].

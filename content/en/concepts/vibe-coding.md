@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Vibe Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -29,29 +29,29 @@ Vibe coding describes an interaction style enabled by LLM-integrated development
 
 It also has deep roots. The idea of programming in ordinary language long predates LLMs — from COBOL's aspiration to be "an English-language programming system for non-professional programmers," through Donald Knuth's literate programming, to research on natural-language programming with constrained subsets of English. Only with LLMs did it become feasible to map genuinely conversational, underspecified instructions to runnable code. Vibe coding is the particular variant in which the user deliberately does not inspect or edit the generated source, relying entirely on iterative prompting and behavioral evaluation.
 
-### Defining the construct: "pure" vs. code-visible vibe coding
+## Defining the construct: "pure" vs. code-visible vibe coding
 
 The definition of vibe coding is still in flux. Some use the term broadly to mean any AI-guided programming; others insist it refers strictly to "building software with an LLM without reviewing the code it writes." Google Cloud distinguishes a "pure" no-code version (consistent with Karpathy's definition) from a version where the user understands and refines the generated code. This distinction matters for [[research-methods-aied|research]]: a controlled study of vibe-coding proficiency requires a well-defined construct. The CHI 2026 study of predictors of vibe-coding proficiency deliberately targeted the "pure," no-code variant — participants could not view or edit the generated source, so measured performance reflected the ability to specify, refine, and debug behavior through prose and observed output alone (see [[vibe-coding-writing-cs-achievement-2026|Thorgeirsson et al.]]).
 
-### Who succeeds at vibe coding: evidence
+## Who succeeds at vibe coding: evidence
 
 A preregistered cross-sectional study (N = 100 tertiary students) provides the first controlled, participant-level evidence on which skills predict vibe-coding success. Both [[writing-education|written-communication proficiency]] (r = .29) and computer-science achievement (r = .39) significantly predicted performance on expert-vetted, GUI-oriented vibe-coding tasks, with CS achievement remaining significant after controlling for domain-general cognitive skills (partial r = .281). In a joint model CS achievement contributed roughly twice the unique variance of writing skill, but both added independent predictive value. Critically, human-graded prompt quality mediated the writing→performance link, giving response-process evidence that clear prose operates by producing better prompts. Because the environment hid the source code, CS knowledge could only help indirectly (through problem decomposition, algorithmic thinking, and mental models of control flow) — so the authors argue their CS estimate is a *lower bound* for AI-assisted programming in which users may also edit code directly ([[vibe-coding-writing-cs-achievement-2026|Thorgeirsson et al., 2026]]).
 
-### Vibe coding as end-user development and teacher tooling
+## Vibe coding as end-user development and teacher tooling
 
 A major promise of vibe coding is that it lets non-programmers — including [[teacher-role|teachers]] and domain experts — build their own software, an LLM-era form of end-user development. A [[gaide-vibe-coding-k12-teachers|GAIDE framework study]] showed [[k-12]] teachers (non-programmers) using vibe coding in an eight-week workshop to create AI-powered learning tools, raising their [[ai-literacy|AI literacy]] and demonstrating "learning-by-creating" as a professional-development model. In [[higher-ed|higher education]], an instructor rapidly built a [[vibe-coding-programming-process-visualizer|programming-process visualizer from IDE activity logs]] via vibe coding in a matter of days, making students' programming processes visible for teaching and [[academic-integrity]] review. These cases position vibe coding not merely as a learner skill but as an authoring capability that [[educational-development|reshapes who can create educational technology]].
 
-### Design homogenization: access without diversity
+## Design homogenization: access without diversity
 
 Vibe coding's end-user-development promise is about who can build, not what gets built. In a course deployment, 73 students building sites for distinct businesses on one vibe-coding platform produced roughly a dozen distinct designs, and felt authorship did not track measured originality ([[vibe-coding-design-diversity-2026|Boussioux et al. (2026)]]). Lowering the barrier to building may standardize the output — a cost the access promise does not advertise.
 
-### Learning, agency, and the risk of over-reliance
+## Learning, agency, and the risk of over-reliance
 
 Vibe coding reopens core questions about what is learned when AI automates implementation. Because the user does not read code, they must trust the model's behavior — which makes vibe coding a high-stakes case of the tension between [[agency]] and [[cognitive-offloading|over-reliance]] that runs through AI-assisted programming. Curricula are responding by shifting from teaching implementation toward teaching how to direct, verify, and audit AI-generated artifacts (see [[reshaping-cs-education-genai|reshaping undergraduate CS]] and [[agentic-ai|agentic software engineering]]). Vibe coding also changes the learner's epistemic position: success depends less on writing code than on expressing intent precisely and evaluating behavior against goals, competencies closer to [[computational-thinking|computational thinking]] and structured writing than to traditional syntax mastery.
 
 A second limit shows up in the building itself: removing the coding barrier can leave the diagnosis burden untouched. Two engineering case studies had an instructor build working web [[simulation|simulations]] of a battery thermal management system and three ARQ protocols by prompting Gemini in plain language within a few hours ([[caee-vibe-coding-simulation-development-engineering-education-2026|Tarasak et al. (2026)]]). A duplicate-packet error then survived repeated prompts, including one that stated the required behavior. It was fixed only when the instructor reasoned from protocol behavior to an insufficient timeout interval, a parameter the interface never exposed. Neither simulation's effect on learning was measured, so the account establishes feasibility rather than effectiveness.
 
-### Connections to related concepts
+## Connections to related concepts
 
 Vibe coding connects naturally to [[prompt-engineering]] (prompt quality is the mechanism of prose-driven development), [[cs-education]] (as the domain where the technique is most used and most contested), [[computational-thinking]] (the mental modeling that predicts success even without code access), [[writing-education]] (writing becoming a programming skill), and [[agentic-ai]] (directing a model toward an artifact rather than hand-building it). It also intersects with [[ai-literacy]] and [[teacher-role]], since the ability to build one's own tools changes what teachers and learners can do. Finally, it raises [[academic-integrity]] and assessment questions identical to those AI code generation raises across computing education.
 

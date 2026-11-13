@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:50:00-05:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -29,11 +29,11 @@ AI misuse is distinct from AI use. Use describes employing AI as a complement to
 
 Anticipated harm is itself documented: in Swedish survey and focus-group data, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] report the same fear from Swedish data: 51% of participants (n = 106) thought genAI use could stunt individual development, pointing to erosion of [[critical-thinking|critical thinking]], [[creativity]] and autonomy rather than to rule-breaking.
 
-### The performance–learning gap
+## The performance–learning gap
 
 The core concept, articulated in [[genai-performance-vs-learning]], is that generative AI easily boosts **performance** — immediate efficiency and output quality — while often bypassing the deep cognitive and [[metacognition|metacognitive]] processing required for **learning**. A tool that optimizes for performance can therefore undermine learning. The gap is now causally demonstrated at field scale: a [[rct|randomized controlled trial]] found unguarded AI assistance raised practice performance but reduced later unassisted exam scores.
 
-### Mechanisms of harm
+## Mechanisms of harm
 
 - **[[cognitive-surrender]]** — the term researchers use for students offloading thinking to AI as a passive, unreflective dependency, as opposed to the deliberate, strategic form of [[cognitive-offloading]]. It produces a measurable population-level decline in durable knowledge.
 - **Answer-copying as a crutch** — misuse is driven less by AI errors misleading students than by students copying answers instead of learning. When [[student-engagement|engagement]] analysis shows students mostly "ask for the answer," learning harm follows.
@@ -41,13 +41,13 @@ The core concept, articulated in [[genai-performance-vs-learning]], is that gene
 - **Learning displacement** — the substitution of AI output for the effortful processes (elaboration, recall, self-explanation) that consolidate knowledge, consistent with [[cognitive-offloading|Over-Reliance]].
 - **Confusion read as intent.** When instructors do not name AI's intended role in an assignment, students define it by what is easiest, and faculty read the resulting mismatch as cheating rather than as a boundary that was never stated ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
 
-### The evidence base
+## The evidence base
 
 - **Causal field RCT (≈1,000 high-school math students):** an unguarded ChatGPT-style tutor raised assisted practice performance **+48%** but reduced unassisted, [[summative-assessment|closed-book exam]] scores **−17%** — students who never had AI access outperformed those who did. A guardrailed "hint-not-answer" tutor eliminated the harm. Notably, students in the harmed arm did not perceive they learned less.
 - **Population-scale behavioral data (3.2M ALEKS interactions):** study time on AI-susceptible problems fell **−26.9%** cumulatively for college students (high school −31.3%) after ChatGPT's release, with a **−25% decline in odds of a correct response on proctored retention items**. The effect vanished entirely under proctoring, pinning it on off-platform AI use.
 - **A large null result:** exploiting the seasonal drop in ChatGPT use over summer showed **no net change in high-school standardized test averages** — likely because misuse harm is offset in aggregate by productive AI use. This does not contradict the causal harm to durable learning; it cautions against over-generalizing from aggregate test scores.
 
-### Dependency as a pathway to burnout
+## Dependency as a pathway to burnout
 
 Misuse harms more than achievement. A survey of 276 Chinese undergraduates
 ([[ai-dependency-self-efficacy-teacher-support-burnout-2026|Huang et al., 2026]]) modeled AI dependency as the mediator between
@@ -61,31 +61,21 @@ counteracting its effects afterward. The authors flag a measurement caveat — t
 Addiction Test and its content validity for AI has not been established — so the pathway is better treated as a well-modeled
 hypothesis than a settled effect size.
 
-### The assessment-dependent nature of harm
+## The assessment-dependent nature of harm
 
 The most important practical nuance is that the harm is **selective by assessment type**. It shows up on **proctored, closed-book, and unassisted** measures of durable knowledge. On normal graded coursework that cannot distinguish AI-assisted from independent work, misuse can *inflate* immediate grades. This is why the perceived-vs-actual gap is dangerous: students (and sometimes instructors) see short-term performance gains and miss the erosion of learning that only surfaces when the tool is removed.
 
 **Which reliance, not how much of it.** A survey of 118 students across 12 AI-intensive courses ([[uneven-impact-generative-ai-student-learning-2026|Manikonda et al. 2026]]) separates two behaviors that usage-frequency measures collapse. **Cognitive reliance** — using GenAI to organize, evaluate, combine and decompose — was the strongest predictor of perceived positive impact (β = .495, p < .001), and the offloading it describes is not uniformly harmful: organizing and summarizing ideas and discovering new insights ranked among the features associated with improved perceived learning. **Early reliance** — consulting GenAI *before* independent thought, a traditional search, or an instructor — predicted academic benefit (β = .301, p < .001) *and* negative impact (β = .402, p = .004) at once. The moderation is the part that bears on the literacy remedy above: the association between early reliance and negative impact was absent at low [[ai-literacy|evaluation literacy]] (b = .025, p = .861) and strongest among the students who judge AI output best (b = .688, p < .001), so evaluative skill did not protect against the cost of asking AI first — the students best placed to notice the cost were the ones reporting it. The operational implication is that misuse is partly a question of *timing* relative to the learner's own attempt, not only of volume, which is why interventions that target when AI is consulted sit alongside the assessment-design remedies below.
 
-### Implications and remedies
+## Implications and remedies
 
 - **[[guardrails]] over raw access:** hint-not-answer [[prompt-engineering|prompting]] and teacher-authored [[scaffolding]] neutralize the crutch effect (see [[generative-ai-guardrails-harm-learning]]).
 - **[[assessment|Assessment design]]:** AI-resistant and proctored/unassisted assessments are needed to surface — and discourage — misuse.
 - **Literacy and metacognition:** [[ai-literacy]] and [[self-regulated-learning]] training that helps students recognize reliance patterns and the cost of bypassing their own cognitive work.
 
-### Conversational disengagement in the LLM era
+## Conversational disengagement in the LLM era
 
 The gaming-the-system literature (hint abuse, systematic guessing) has a dialogue-era counterpart: conversational disengagement — mocking the agent, deliberately answering wrong, ghosting it, mirroring its text, or withholding responses. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] give this phenomenon its first systematic treatment in [[student-ai-interaction|student-AI dialogue]], and its central lesson is interpretative rather than alarmist. A disengaged *turn* is an interactional move, not a stable state of disengagement. False Answering's apparent association with post-test scores did not survive a human-annotated sensitivity check, and the authors read it as probing *within* trajectories that often return to engagement (the highest-performing cluster recovered at p = 0.42). The behavior that actually separated trajectories was Withholding — the refusal to respond, which persisted rather than resolved. For designers this inverts the usual priority: noisy, visible disengagement is often self-correcting, while quiet withdrawal signals that interaction has broken down.
-
-## Common Misconceptions
-
-**"Students would notice if AI were harming their learning."** They do not, and this is the single most consequential fact on the page: **those in the harmed group reported no sense of having gained less.** [[self-report-measures|Self-report]] is therefore not a usable early-warning signal. The 48%-higher-practice / 17%-lower-exam pattern is invisible to the person experiencing it, which is why harm detection has to be measurement-based rather than testimony-based.
-
-**"The risk is how much AI a student uses."** The risk is what the AI is substituted for. Misuse here means delegating the drafting, recall or analysis that builds durable understanding — substitution rather than complement, and a student can substitute heavily in one task and complement productively in the next. Volume of use is the wrong variable; the division of cognitive labor is the right one.
-
-**"If practice performance is improving, the tool is working."** In the causal field RCT of roughly 1,000 high-school mathematics students, an unguarded ChatGPT-style tutor raised assisted practice performance **+48%** while *reducing* unassisted [[summative-assessment|closed-book exam]] scores by **17%**. The directions are opposite, so any evaluation that reads the practice number as the outcome will certify exactly the harm it is meant to detect.
-
-**"Learners using AI mainly worry about getting caught."** Their stated concerns are developmental. In one study **51% of participants (n = 106)** worried that GenAI use could hamper individual development, naming losses to [[critical-thinking|critical thinking]], creativity and autonomy rather than rule-breaking. The [[academic-integrity|integrity]] framing that dominates institutional discourse is not the one students themselves reach for.
 
 ## Implications for Practice
 
@@ -106,6 +96,16 @@ The gaming-the-system literature (hint abuse, systematic guessing) has a dialogu
 
 - Always report the unassisted measure, and report perception alongside it rather than instead of it.
 - Report the substitution structure of the task, not just frequency of use, when attributing harm.
+
+## Common Misconceptions
+
+**"Students would notice if AI were harming their learning."** They do not, and this is the single most consequential fact on the page: **those in the harmed group reported no sense of having gained less.** [[self-report-measures|Self-report]] is therefore not a usable early-warning signal. The 48%-higher-practice / 17%-lower-exam pattern is invisible to the person experiencing it, which is why harm detection has to be measurement-based rather than testimony-based.
+
+**"The risk is how much AI a student uses."** The risk is what the AI is substituted for. Misuse here means delegating the drafting, recall or analysis that builds durable understanding — substitution rather than complement, and a student can substitute heavily in one task and complement productively in the next. Volume of use is the wrong variable; the division of cognitive labor is the right one.
+
+**"If practice performance is improving, the tool is working."** In the causal field RCT of roughly 1,000 high-school mathematics students, an unguarded ChatGPT-style tutor raised assisted practice performance **+48%** while *reducing* unassisted [[summative-assessment|closed-book exam]] scores by **17%**. The directions are opposite, so any evaluation that reads the practice number as the outcome will certify exactly the harm it is meant to detect.
+
+**"Learners using AI mainly worry about getting caught."** Their stated concerns are developmental. In one study **51% of participants (n = 106)** worried that GenAI use could hamper individual development, naming losses to [[critical-thinking|critical thinking]], creativity and autonomy rather than rule-breaking. The [[academic-integrity|integrity]] framing that dominates institutional discourse is not the one students themselves reach for.
 
 ## Connected Concepts
 

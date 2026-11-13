@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -35,7 +35,7 @@ Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education
 
 - **Learner adaptation as an explicit benchmark criterion.** The Teaching Monster Challenge scores adaptation to a specified learner persona, but its automated LLM-judge separated only a weak tail — the top systems scored near its ceiling and its ranking disagreed with crowd preference (Spearman ρ = −0.17) ([[teaching-monster-pck-benchmark-2026|Lin et al. (2026)]]).
 
-### Why benchmarks matter in AIED
+## Why benchmarks matter in AIED
 
 Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — without rigorous benchmarks, claims about [[intelligent-tutoring|AI tutoring]] effectiveness are unverifiable. They also intersect with [[bias-mitigation]], as benchmark design can encode or amplify biases. The tension between benchmark performance and real-world utility is explored across multiple articles, connecting to [[transfer-of-learning]] concerns in [[generative-ai]] applications.
 

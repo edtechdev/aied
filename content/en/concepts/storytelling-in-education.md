@@ -1,7 +1,7 @@
 ---
 title: Storytelling in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-11T10:05:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 Storytelling is grounded in [[motivation]], [[student-engagement]], and [[constructivist]] [[learning-theories|theories of learning]]. It supports [[language-learning]], [[creativity]], [[social-emotional-learning]], and comprehension. In the AI era, [[llm|LLM-powered]] and robot-mediated storytelling enables co-creation, where learners and [[agentic-ai|AI agents]] build stories together, and interactive narrative that responds to the learner.
 
-### How storytelling appears in the knowledge base's research
+## How storytelling appears in the knowledge base's research
 
 - **Robot-mediated storytelling:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] uses a human-like interactive digital storytelling robot, finding significant gains in behavioral and cognitive engagement over paper and PowerPoint methods; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] lets teachers create LLM-powered scenario-based storytelling activities from [[curriculum-design|curriculum]] content.
 - **Engagement gains have a size, and motivation did not follow.** MotiBo finished 27.06% and 30.00% ahead of paper and PowerPoint on behavioral and cognitive engagement (both p < .05), while intrinsic motivation rose 20.21% without reaching significance (p = .07). Engagement moved, motivation did not clear its threshold, and the five-day quasi-experiment measured no learning outcome ([[motibo-digital-storytelling-robots-motivation-2026|Fung & Lui, 2026]]).

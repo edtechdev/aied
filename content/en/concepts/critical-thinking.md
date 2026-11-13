@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-12T10:45:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -29,7 +29,7 @@ Critical thinking is central to [[ai-literacy]] — students who cannot critical
 
 Structured dialogue control, not a better prompt, is what separates a fallacy tutor from a debating chatbot: routing each turn through Toulmin-based intent detection, a fixed strategy order and a verifier agent let one Socratic system pass 84.5% of dialogue-quality metrics against 61.5% for a heuristics baseline ([[lftutor-logical-fallacy-education-2026|Shi et al. (2026)]]).
 
-### Critical thinking in AI education research
+## Critical thinking in AI education research
 
 The knowledge base's articles explore critical thinking through [[design-based-research|design-based]] and empirical lenses. [[ai-agents-constructive-conflict-design-education-2026|Adversarial AI agents]] enact constructive conflict to prompt reconsideration in novice designers — a Socratic variant that forces critical re-evaluation. [[genai-can-harm-teaching-rct-2026|RCT research on GenAI in teaching]] raises the question of whether AI tools that optimize for surface-level outcomes may inadvertently suppress the critical thinking that leads to deeper learning. Measured evidence sharpens the point: whether critical thinking moves depends on how AI-mediated feedback and tasks are designed, and on learners' [[metacognition|metacognitive]] regulation, not on access to a model.
 
@@ -72,7 +72,7 @@ A larger cross-sectional survey points the other way: among 1,157 Chinese gradua
 - **A semester of AI access left critical thinking flat, while reflective use tracked it.** Melanou, Beege and Kimmig (2026) followed 87 business informatics students through a nine-week course in three parallel conditions (tutor-framed AI, unguided AI, and no AI) measured three times. Knowledge rose in every group with no advantage for either AI condition and no Matthew effect (BF01 = 8.70), while self-reported critical thinking and [[motivation]] stayed stable. What separated students was reflective use, the practice of checking sources and verifying AI output before adopting it: it was higher in the AI condition than in the control group (means of 3.72 vs. 2.82) and predicted critical thinking at the final measurement (R² = 0.183, β = 0.43, p < 0.001). The result qualifies any expectation that a course of AI use will move critical thinking on its own: [[metacognition|metacognitive]] regulation, not tool access, is where the association lives, and the authors note a semester is likely too short to see durable change. ([[melanou-genai-learning-dynamics-longitudinal-2026|Melanou et al. 2026]])
 - **Appraisal moved; formal deduction did not.** Four-phase AI feedback raised Evaluation of Arguments by 1.74 adjusted points while Deduction moved 0.30 (p = 0.383), placing the gain in judging claims rather than formal logic ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al. (2026)]]).
 
-### Connections to other concepts
+## Connections to other concepts
 
 Critical thinking intersects with [[scaffolding]] (designing AI support that maintains cognitive demand), [[prompt-engineering]] (formulating questions that elicit critical analysis), and [[cognitive-offloading|Over-Reliance]] (knowing when to trust and when to question AI). It is foundational to [[academic-integrity]] and serves as a key dimension of [[ai-literacy]] frameworks across both [[k-12]] and [[higher-ed]] contexts.
 

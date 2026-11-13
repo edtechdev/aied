@@ -1,7 +1,7 @@
 ---
 title: Social Norms of AI Use
 created: "2026-09-23T09:54:12-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:45:00-05:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -81,8 +81,7 @@ Two further studies explain why surveillance is a poor tool for norm-setting. [[
 
 The cost of that substitution shows up in where faculty and students actually talk. Across 253,222 AI-related records from 26 education subreddits, a third of all faculty–student threads were detection or enforcement disputes, students opened 68.4% of them, and negativity predicted engagement (ρ = −0.72) — adversarial conflict, not deliberation, is the highest-volume form of cross-role contact about [[generative-ai|GenAI]] ([[reddit-genai-education-discourse-analysis-2026|Yüce et al. (2026)]]).
 
-## What this means for practice
-
+## Implications for Practice
 - **Make use visible instead of inferring it.** Students cannot judge each other accurately, and repeated collaboration does not fix it. Lightweight shared records of AI-supported work, annotations, or prompt histories give a group something factual to reason about.
 - **Expect the spoken norm to beat the written one.** If what is said in class contradicts the syllabus, students will follow the classroom. Alignment between the two is worth more than a stricter clause.
 - **Treat disclosure as a design problem, not a virtue problem.** Disclosure becomes likely when reporting is safer or more valuable than hiding. That means making disclosed use legible in the assessment itself, rather than asking for honesty as a character trait.

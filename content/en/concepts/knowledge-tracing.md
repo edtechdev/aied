@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-11-05T23:00:00-05:00"
+updated: "2026-11-12T21:50:00-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 Knowledge tracing transforms raw exercise responses into estimates of what a student has mastered and what they still need to learn. Unlike simple correctness tracking, knowledge tracing models the temporal dynamics of learning — when knowledge is gained, when it decays, and how concepts relate to each other.
 
-### Approaches represented in the knowledge base
+## Approaches represented in the knowledge base
 
 - **Bayesian approaches:** [[stanbkt-bayesian-knowledge-tracing]] standardizes BKT implementations, while [[mbp-kt-meta-behavioral-knowledge-tracing]] incorporates meta-behavioral signals
 - **BKT parameters as intervention-outcome measures:** [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et al. (2026)]] fit cue-conditioned Bayesian knowledge tracing to 19,952 data points from 688 sixth graders so that the guess, slip, learn, and forget parameters themselves became the outcome measures for a perceptual-cue math intervention. Congruent cues raised guessing and lowered slipping — immediate scaffolding — while the incongruent-color condition showed the desirable-difficulty signature, with guessing at 0.190 but the highest learning rate (0.0379) and the lowest forgetting rate (0.0054) of all nine conditions. BKT-based classifications of the cue conditions aligned with behavior-based ones for five of the eight conditions, supporting the parameters as a lens on the assistance dilemma.
@@ -43,7 +43,7 @@ Knowledge tracing transforms raw exercise responses into estimates of what a stu
 - **Snapshot-only tracing.** [[skill-acquisition-without-temporal-info|Nagai et al. (2026)]] induce a pseudo-temporal order from inclusion relations among learners' skill sets, treating expanding skill sets as learning progression so single-time-point snapshots remain traceable — but the formulation assumes skills are never lost, so deployments for learners who regress need an explicit forgetting mechanism first.
 - **Knowledge-component granularity is itself a modeling decision.** [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny and Meurers (2026)]] compared 19 knowledge-component models across 11 levels of a language-tutoring hierarchy on 153,819 first-attempt responses from 1,059 seventh graders. The winner depends on the prediction target: fine-grained Actionable Element ID led student-blocked prediction (RMSE 0.4083), while the semantically grounded Property ID + Exercise Type led item-blocked prediction (RMSE 0.4243). Fine-grained identifiers also showed near-zero mean learning rates (Actionable Element ID 0.000).
 
-### Relationship to other concepts
+## Relationship to other concepts
 
 Knowledge tracing is closely related to [[student-modeling]] — while knowledge tracing specifically models cognitive knowledge over time, student modeling is the broader practice of representing all aspects of a learner ([[affective-computing|affective]] state, [[student-engagement|engagement]], preferences). Knowledge tracing feeds into [[adaptive-learning]] and [[personalized-learning]] systems that need to know what to teach next, and into [[intelligent-tutoring]] platforms that use mastery estimates to select appropriate problems. It connects to [[learning-analytics]] for dashboard and intervention design, and to [[cognitive-diagnosis]] for fine-grained skill [[assessment]]. Knowledge-tracing constructs also inform [[simulating-students|simulated students]] — a simulated learner's cognitive state is often formalized with the same mastery/decay dynamics that knowledge tracing models, so [[simulation]] is a way to *generate* the knowledge states that tracing methods normally *infer* from real response data.
 
@@ -59,16 +59,6 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 
 **A capability caveat: general language models trace knowledge barely above a trivial baseline.** [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et al. (2026)]] released FoundationalASSIST, which restores the full question text, the responses students actually gave and their distractor choices that earlier tracing datasets discarded, and tested four frontier [[llm|LLMs]] as zero-shot tracers. The best, GPT-OSS-120B, reached 56.2 percent against the 51.3 percent an always-predict-correct rule already scores (AUC-ROC 0.559), with no improvement from longer histories, and Llama-3.3-70B proved right 85.4 percent of the time a student answered correctly but only 12.6 percent when they erred — evidence that an off-the-shelf model traces optimism rather than understanding, so a tracer's apparent skill must be read against the trivial baseline its task permits.
 - **A single-pass LLM can trace knowledge before any learners are logged.** Queried as one typed question with no target-platform data, Jev reached a mean AUC of .706, above the best of 28 deep tracing models trained on 8 learners (.689) and ahead until supervised tracing catches up at 64-128 learners ([[system-one-llm-knowledge-tracing-2026|Lee & Park, 2026]]).
-
-## Common Misconceptions
-
-**"A mastery label means the learner knows it."** Mastery is not correctness — a learner can appear mastered and systematically misapply a skill whenever a hidden condition is violated — and the label's value depends on the counting rule behind it. Crediting declared completions marked **93.9% of 113,428 student–skill pairs** mastered against **72.8%** under a strict rule, and the pairs the lenient rule called ahead reached only **70.9% unaided accuracy**. Two defensible rules produced a 21-point difference in who was declared ready.
-
-**"Sequence models are what makes tracing accurate."** Much of the apparent gain is cheaper than that. On 1,927,265 mathematics responses from 8,996 Finnish students, item identity alone reached **AUC .8362**, and adding a single recency measure relative to item difficulty raised it to **.866**. A large share of what deep sequence models buy is available from an item-difficulty baseline plus recency, so architecture comparisons need that baseline to be meaningful.
-
-**"The best model on one dataset is the best model for your course."** Accuracy is setting-specific. OKT reached **89.81% AUC** on live [[engineering-education|engineering]]-program LMS data (2,416 students, 966 outcomes), beating DKT, DKVMN, EKT and SimpleKT — while giving only competitive results on ASSISTments. The same architecture that wins on one dataset family is unremarkable on another, so a headline AUC from elsewhere is weak evidence about your students.
-
-**"Knowledge persists unless there is evidence of forgetting."** Forgetting is the default worth modeling. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan and Carvalho (2025)]] fit BKT, BKT-with-Forgetting and the Additive Factors Model across a multi-session sequence and found that model fit changes when retention is represented, and that how these models are *validated* differs from how they are *deployed*.
 
 ## Implications for Practice
 
@@ -88,6 +78,16 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 
 - Report results on more than one dataset family before claiming architectural superiority, since the OKT contrast reverses between engineering LMS data and ASSISTments.
 - Report the mastery-count rule as a parameter of the result, not as a methodological footnote.
+
+## Common Misconceptions
+
+**"A mastery label means the learner knows it."** Mastery is not correctness — a learner can appear mastered and systematically misapply a skill whenever a hidden condition is violated — and the label's value depends on the counting rule behind it. Crediting declared completions marked **93.9% of 113,428 student–skill pairs** mastered against **72.8%** under a strict rule, and the pairs the lenient rule called ahead reached only **70.9% unaided accuracy**. Two defensible rules produced a 21-point difference in who was declared ready.
+
+**"Sequence models are what makes tracing accurate."** Much of the apparent gain is cheaper than that. On 1,927,265 mathematics responses from 8,996 Finnish students, item identity alone reached **AUC .8362**, and adding a single recency measure relative to item difficulty raised it to **.866**. A large share of what deep sequence models buy is available from an item-difficulty baseline plus recency, so architecture comparisons need that baseline to be meaningful.
+
+**"The best model on one dataset is the best model for your course."** Accuracy is setting-specific. OKT reached **89.81% AUC** on live [[engineering-education|engineering]]-program LMS data (2,416 students, 966 outcomes), beating DKT, DKVMN, EKT and SimpleKT — while giving only competitive results on ASSISTments. The same architecture that wins on one dataset family is unremarkable on another, so a headline AUC from elsewhere is weak evidence about your students.
+
+**"Knowledge persists unless there is evidence of forgetting."** Forgetting is the default worth modeling. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan and Carvalho (2025)]] fit BKT, BKT-with-Forgetting and the Additive Factors Model across a multi-session sequence and found that model fit changes when retention is represented, and that how these models are *validated* differs from how they are *deployed*.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-12T21:50:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -86,14 +86,6 @@ The field's theorizing is uneven. [[limitations-in-aied-research|Limitations in 
 
 Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in education]] are complementary but distinct strands of the knowledge base's foundational work. **Theory development** produces and empirically tests the *mechanisms* of learning-with-AI — named theories and frameworks such as generativism, epistemic co-agency, and the absent cognitive baseline that explain and predict how learners and AI interact. **Philosophy** interrogates the *presuppositions* those mechanisms rest on: what counts as knowledge, who counts as a knower, and what the learner fundamentally is. A theory like [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemic co-agency]] proposes a mechanism while implicitly adopting philosophical commitments about distributed cognition and [[agency]]; philosophy makes those commitments explicit and contestable. Where theory development asks whether a framework explains learning well, philosophy asks whether it captures what learning and mind really are — the two strands meet in the field's most foundational articles, which often do both at once.
 
-## Common Misconceptions
-
-**"A finding that the tool worked is a theoretical contribution."** It is not, and the reason is structural. Where a framework's propositions predict *differences between configurations*, a study reporting only an average effect **cannot confirm or refute them** — the design cannot see the distinction the theory is about. A trial showing a mean gain tells you something happened, not which mechanism caused it, so the theory remains exactly as supported as it was before.
-
-**"Applying an established theory to AI is theory development."** The page's own theory-use problem says otherwise: application is not advancement, and the field's recurring pattern is borrowed constructs used as vocabulary rather than as testable predictions. The distinction matters because a borrowed frame that cannot generate a falsifiable difference is decoration, not theory.
-
-**"The existing taxonomies of AI's pedagogical function already cover what these systems do."** They do not cover much of it. Among 154 publications with a classifiable application function, **90 (58.4%) escaped the four categories** of the prior framework, which is why the newer work crosses function with delegated control, epistemic position and embedded pedagogy. A taxonomy that misclassifies nearly three in five cases cannot serve as the field's common vocabulary, and the gap is a finding about the phenomenon rather than a gap in a paper.
-
 ## Implications for Practice
 
 **For instructors and instructional designers**
@@ -111,6 +103,14 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 
 - Design for configuration contrasts if you intend a theoretical contribution. An average-effect trial published as theory development is the field's most common and least useful output.
 - Attach explicit falsifiable propositions to any framework you introduce, and report which configuration differences would have refuted them.
+
+## Common Misconceptions
+
+**"A finding that the tool worked is a theoretical contribution."** It is not, and the reason is structural. Where a framework's propositions predict *differences between configurations*, a study reporting only an average effect **cannot confirm or refute them** — the design cannot see the distinction the theory is about. A trial showing a mean gain tells you something happened, not which mechanism caused it, so the theory remains exactly as supported as it was before.
+
+**"Applying an established theory to AI is theory development."** The page's own theory-use problem says otherwise: application is not advancement, and the field's recurring pattern is borrowed constructs used as vocabulary rather than as testable predictions. The distinction matters because a borrowed frame that cannot generate a falsifiable difference is decoration, not theory.
+
+**"The existing taxonomies of AI's pedagogical function already cover what these systems do."** They do not cover much of it. Among 154 publications with a classifiable application function, **90 (58.4%) escaped the four categories** of the prior framework, which is why the newer work crosses function with delegated control, epistemic position and embedded pedagogy. A taxonomy that misclassifies nearly three in five cases cannot serve as the field's common vocabulary, and the gap is a finding about the phenomenon rather than a gap in a paper.
 
 ## Connected Concepts
 

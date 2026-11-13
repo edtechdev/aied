@@ -1,7 +1,7 @@
 ---
 title: Activity Theory
 created: "2026-08-26T08:20:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-### The concept
+## The concept
 
 Activity theory descends from Vygotsky's and Leontiev's cultural-historical psychology (with later development by Engeström) and is a central strand of the broader [[sociocultural-learning|sociocultural]] tradition. Its core claim is that human activity is not reducible to individual cognition or isolated tool use; it is a **collective, object-oriented, tool-mediated system**. Engeström's canonical model of an activity system comprises six interacting elements:
 
@@ -40,7 +40,7 @@ A defining feature is **contradiction**: activity systems contain historically a
 
 The tools slot is the one generative AI strains. A 2026 sociocultural essay argues that an [[llm]] both mediates the activity and generates contingent contributions that reshape its trajectory, so calling it a tool understates its influence while calling it a collaborator attributes intentionality, accountability and community membership it does not have ([[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate and Ritchie, 2026]]). Their *mediational agent* sits in the tool position without holding a position in the community, which means the division of labor has to be analyzed around contributions and not only around instruments.
 
-### Why activity theory matters for AI in education
+## Why activity theory matters for AI in education
 
 AI introduces new **tools/mediating artifacts** into existing educational activity systems, which produces both opportunities and contradictions. Activity theory gives AIED research a vocabulary and method for analyzing these changes:
 
@@ -52,11 +52,11 @@ AI introduces new **tools/mediating artifacts** into existing educational activi
 - **Disciplinarity and cross-context variation.** Because activity systems are historically and culturally situated, activity theory explains why the same AI tool produces different outcomes across disciplines and contexts — each discipline functioning as an activity system with its own rules, community, and division of labor [[jiang-genai-activity-theory-disciplines-2026|(e.g., differences in undergraduates' GenAI use and disclosure across academic domains)]].
 - **One tool, two activity systems, uneven penetration.** Among ten mathematics academics analyzed through CHAT, GenAI stayed a peripheral tool in the research activity system while reshaping the teacher's role toward mediator of [[critical-thinking|critical reasoning]] in teaching, with adoption spreading through student use and peer networks rather than [[governance|institutional]] policy ([[genai-runaway-object-math-higher-ed|Bakogianni et al., 2026]]).
 
-### Activity theory and related frameworks
+## Activity theory and related frameworks
 
 Activity theory sits within the [[sociocultural-learning|sociocultural]] family and is often paired with, or contrasted against, other frameworks: **[[distributed-cognition|distributed cognition]]** and **[[situated-learning|situated learning]]** share its emphasis on context and mediation; **[[community-of-inquiry|community of inquiry]]** and **communities of practice** share its collective orientation; and **technology-acceptance** models (e.g., [[technology-acceptance-model|TAM]]) offer a contrasting, more individual-belief account of adoption that activity theory critiques for flattening the collective and structural dimensions. In AIED research, activity theory is frequently combined with other theories — e.g., paired with [[self-determination-theory|Self-Determination Theory]] in teacher-PD intervention design, or with ecological systems theory in situated-AI-ethics frameworks [[raffaghelli-situated-ai-ethics-2026|(Raffaghelli et al., 2026)]].
 
-### Key research themes
+## Key research themes
 
 - **How AI redistributes the division of labor** in teaching, learning, and research activity systems.
 - **Systemic contradictions** as drivers of norm change and expansive transformation in AI-augmented education.
@@ -65,7 +65,7 @@ Activity theory sits within the [[sociocultural-learning|sociocultural]] family 
 - **Theory-anchored learning analytics** that ground measurement in activity-system elements.
 - **The object of AI-mediated activity** — whether the object of learning shifts from mastery to output, and what that means for [[learning-gains|learning outcomes]].
 
-### Practical implications
+## Practical implications
 
 For designers and educators, activity theory counsels looking beyond the AI tool itself to the whole activity system it enters: the rules that govern acceptable use, the community and its norms, the division of labor between human and machine, and the object/motive of the activity. Sustainable AI integration requires *redesigning the system* — addressing contradictions, updating norms, and rebalancing roles — not merely supplying better tools or individual training. For researchers, activity theory offers a rigorous unit of analysis (the activity system, not the individual) and a method ([[formative-assessment|formative]] intervention, contradiction analysis) for studying and shaping AI's role in education.
 

@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-10T21:15:00-05:00"
+updated: "2026-11-12T21:50:00-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
@@ -22,7 +22,7 @@ reviewed_by: [editor]
 
 Experiential learning is closely related to [[active-learning]], [[project-based-learning]], [[embodied-learning]], and [[simulation]]. It is particularly relevant to AI, cybersecurity, and robotics education, where students develop skills by working with tools and systems in applied contexts rather than through lectures alone. A key rationale is closing the theory-practice gap in professional preparation.
 
-### How experiential learning appears in the knowledge base's research
+## How experiential learning appears in the knowledge base's research
 
 - **Emergency substitution, with a rubric for how far it gets you.** [[ai-personas-fieldwork-experiential-learning-2026|Elhajj et al. (2026)]] document a substitution forced by the 2024 conflict in Lebanon: students in a graduate Experiential Learning course at the American University of Beirut, unable to reach communities for needs assessments, interviewed ChatGPT-generated stakeholder personas instead. Two raters scored all ten group prompts and found the split instructive — alignment with educational goals (mean 5.00) and diversity of perspectives (4.90) were strong, while authenticity and realism (4.38) and especially group dynamics and coherence (3.80, with one 30-persona focus group collapsing into sequential interviews) and limitations and gaps (3.20) were weak, the last because emotional flatness, absent contradiction and thin cultural specificity recurred in every context. The authors' conclusion is a boundary rather than a verdict: personas work as rehearsal and as a stopgap where access is impossible or unsafe, but not where emotional complexity, cultural specificity and interpersonal dynamics *are* the learning objective. Their mitigation is structural — pair simulated role-play with real interviews so students can compare, and train students to interrogate persona output for bias and generalization instead of treating it as field evidence.
 
@@ -35,7 +35,7 @@ Experiential learning is closely related to [[active-learning]], [[project-based
 
 - **Doing versus being told, measured across five weeks.** In a quasi-experiment with 126 first-year engineering students, a two-hour experiential session on learning with generative AI produced a [[metacognition|metacognitive]] knowledge gain of +0.25, against roughly zero for a lecture. That is a medium effect (d = -0.37) which fell short of significance at p = .055 after multiple-comparison correction, and [[self-report-measures|self-reported]] AI engagement was comparable in both groups at five weeks (3.99 and 3.93) ([[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio et al., 2026]]). The bound this places on the page's rationale is worth stating plainly: one hands-on session moves metacognitive knowledge in the right direction without settling the comparison, so the advantage of doing has to be built from repeated cycles rather than assumed from a single lab.
 
-### Two forms of hands-on learning in an AI-supported curriculum
+## Two forms of hands-on learning in an AI-supported curriculum
 
 A thematic review of 32 peer-reviewed studies of hands-on learning in AI-supported [[design-education|design education]]
 ([[hands-on-learning-necessity-age-of-ai-review-2026|Yu, Liu & Zhu, 2026]]) argues that AI reorganizes rather than replaces
@@ -55,16 +55,6 @@ Work-integrated experience can be the binding condition for advanced competence:
 
 Across 26 community-engaged studies, AI concentrated in preparation (18) and action (15) and thinned at evaluation (8) and reflection (3), so the cycle's later, integrative phases remain the design gap in service-learning ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 
-## Common Misconceptions
-
-**"Experiential learning means hands-on activity."** Activity is the surface; the learning mechanism is the cycle of doing, reflecting, conceptualising and testing. A lab session with no structured reflection produces familiarity rather than conceptual change, which is why "we added a practical component" is not evidence of experiential learning.
-
-**"AI can substitute for the experience in experiential learning."** It can simulate some systems and cannot supply the experience that forms competence in applied domains such as AI, cybersecurity and robotics, where students develop skill by working with the real tools and systems. A simulated security environment teaches procedure; a working system teaches the consequence of a misconfiguration.
-
-**"More [[authentic-assessment|authentic tasks]] are straightforwardly better."** Authenticity raises the transfer value and the assessment problem together: real systems produce variable, hard-to-grade evidence, and the more authentic the task the less the outcome resembles a score. Design has to hold both, which is why the reflection structure carries as much weight as the task.
-
-**"[[intelligent-tutoring|AI tutoring]] fits experiential learning as it fits lecture content."** The fit is weaker, because a tutor can supply explanation and cannot supply the encounter with the system. Its natural place in this [[pedagogy]] is around the reflection and conceptualisation stages, where a learner is making sense of what happened — not in place of the doing. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] generate the encounter rather than script it: from a learner's goals, GELLI builds situated scenes with characters, support and reflection at runtime, and in a within-subjects study with 40 Japanese learners it beat expert-authored videos on vocabulary recall (d = 0.45) and confidence (d = 0.45) but not speaking.
-
 ## Implications for Practice
 
 **For instructors**
@@ -81,6 +71,16 @@ Across 26 community-engaged studies, AI concentrated in preparation (18) and act
 **For programme designers**
 
 - Check that applied programs contain applied work rather than lab proxies; the transfer claim rests on the authenticity of the encounter.
+
+## Common Misconceptions
+
+**"Experiential learning means hands-on activity."** Activity is the surface; the learning mechanism is the cycle of doing, reflecting, conceptualising and testing. A lab session with no structured reflection produces familiarity rather than conceptual change, which is why "we added a practical component" is not evidence of experiential learning.
+
+**"AI can substitute for the experience in experiential learning."** It can simulate some systems and cannot supply the experience that forms competence in applied domains such as AI, cybersecurity and robotics, where students develop skill by working with the real tools and systems. A simulated security environment teaches procedure; a working system teaches the consequence of a misconfiguration.
+
+**"More [[authentic-assessment|authentic tasks]] are straightforwardly better."** Authenticity raises the transfer value and the assessment problem together: real systems produce variable, hard-to-grade evidence, and the more authentic the task the less the outcome resembles a score. Design has to hold both, which is why the reflection structure carries as much weight as the task.
+
+**"[[intelligent-tutoring|AI tutoring]] fits experiential learning as it fits lecture content."** The fit is weaker, because a tutor can supply explanation and cannot supply the encounter with the system. Its natural place in this [[pedagogy]] is around the reflection and conceptualisation stages, where a learner is making sense of what happened — not in place of the doing. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] generate the encounter rather than script it: from a learner's goals, GELLI builds situated scenes with characters, support and reflection at runtime, and in a within-subjects study with 40 Japanese learners it beat expert-authored videos on vocabulary recall (d = 0.45) and confidence (d = 0.45) but not speaking.
 
 ## Connected Concepts
 - [[active-learning]]

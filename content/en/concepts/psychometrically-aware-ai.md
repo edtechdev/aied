@@ -1,7 +1,7 @@
 ---
 title: Psychometrically Aware AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
@@ -24,7 +24,7 @@ reviewed_by: [editor]
 
 As AI systems increasingly score responses, predict difficulty, and provide [[feedback]], a key risk is that they report confident-sounding outputs that have not been validated against measurement principles. Psychometrically aware AI addresses this by grounding AI [[assessment]] in established psychometrics — calibrating outputs, quantifying uncertainty, and preserving [[assessment-validity]] and [[educational-measurement]] standards rather than relying on raw accuracy or [[self-report-measures|self-reported]] confidence.
 
-### How psychometrically aware AI appears in the research
+## How psychometrically aware AI appears in the research
 
 - **Calibration and confidence:** [[automated-assessment|Confidence-aware assessment]] and [[llm-psychometric-calibration-cdp|LLM psychometric calibration]] ensure that AI reports meaningful, uncertainty-aware scores rather than overconfident point estimates.
 - **Model confidence is not enough.** On SciEntsBank, verbalized, latent and consistency-based confidence each failed to separate correct from incorrect short answers; the best calibration came from adding dataset-derived aleatoric uncertainty — within-cluster entropy of embedded responses — through a Random Forest plus Platt scaling, enabling selective auto-grading and [[human-in-the-loop-ai|human review]] ([[cong-confidence-asag-2026|Cong et al. (2026)]]).
@@ -39,7 +39,7 @@ As AI systems increasingly score responses, predict difficulty, and provide [[fe
 - **Latent-ability pipelines and standard setting:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] provide a concrete template for psychometrically aware scoring in a national exam: rubric item scores are never summed directly but fed into an [[item-response-theory|IRT]] model whose latent-ability estimates are cut with the Bookmark standard-setting method into Proficient / Close to Proficiency / Insufficient, with passing requiring at least two Proficient sections and the remaining one at least Close to Proficiency. The authors reproduced that pipeline in automated form (a 67% probability of answering at least 7 rubric items correctly for the lower cut and at least 10 for the upper), letting AI and human item scores be compared against identical decision criteria rather than on raw agreement alone.
 - **A model can look calibrated while mostly predicting one label.** Asking GPT-4o and Gemini 2.0 Flash to infer learning-style dimensions from 153 undergraduates' dialogues produced moderate accuracy that per-class recall showed was dominant-label prediction, with Intuitive and Global learners under-identified and few-shot [[prompt-engineering|prompting]] sometimes amplifying the bias rather than removing it ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi and Robb (2026)]]).
 
-### Connections
+## Connections
 
 Psychometrically aware AI sits at the intersection of [[educational-measurement]], [[assessment-validity]], [[item-response-theory]], and [[automated-assessment|Confidence Aware AI Assessment]]. It is central to [[ai-ed-evaluation]] (whether AI assessment is trustworthy) and connects to [[llm]]-based [[automated-assessment]] and [[automated-assessment|Automated Grading]]. Its emphasis on validity also speaks to the [[limitations-in-aied-research|measurement limitations]] of [[ai-education|AIED]] research.
 

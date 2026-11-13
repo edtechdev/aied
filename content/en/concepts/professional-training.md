@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-12T10:45:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-### AI in professional training
+## AI in professional training
 
 - **Simulation and practice:** [[adaptive-virtual-patient-psychotherapy-training|Virtual patient training]] and [[astra-atco-training-simulator|ATCO training simulators]] create AI-powered professional practice environments. In [[teacher-education|teacher education]], AI role-play simulation extends this into practice-based teaching: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Student GPT]] simulated a [[misconceptions|misconception]]-holding middle-school math student so preservice teachers could practice diagnosing and remediating student errors, aligning with the "approximations of practice" of practice-based [[teacher-role|teacher]] learning as an affordable complement to costly platforms like TeachLivE.
 
@@ -70,7 +70,7 @@ A six-week AI-supported program with 105 chemistry teachers aimed at the researc
 - **Role rotation as the load-bearing structure.** A design-based study of 62 pre-service educational psychologists in Kazakhstan ([[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al., 2026]]) rotated students through four professional positions over eight weeks, with generative AI supplying preliminary ideas. The authors argue the value lay in the rotation rather than in the tool, since each role framed the same case differently, and later cycles showed more requests for theoretical justification. They report engagement rather than measured gains, having collected no pre-post competence measures.
 - **A checklist for entering Agile work.** Backlogs from 211 student teams yielded 17 mistake types and a checklist; Master's teams that attended the checklist workshop averaged 1.67 mistake categories against 2.6 ([[spichkova-genai-agile-requirements-2026|Spichkova (2026)]]).
 
-### Distinct from academic education
+## Distinct from academic education
 
 Professional training differs from academic education in its focus on applied skills, immediate workplace relevance, and adult learner characteristics. [[adult-learning]] theory and [[adult-learning]] principles inform professional AI training design. Its other boundary is [[vocational-education|vocational education and training]]: VET admits people who do not yet hold the occupation and closes with a trade or technical qualification, so it carries initial occupational preparation and the qualification frameworks that certify it, whereas professional training starts from an existing role — reskilling, continuing professional education or vendor certification — and assumes the competence VET awards.
 

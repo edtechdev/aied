@@ -1,7 +1,7 @@
 ---
 title: "Information and Media Literacy"
 created: "2026-11-05T05:20:00-05:00"
-updated: "2026-11-12T20:05:00-05:00"
+updated: "2026-11-12T21:45:00-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy, critical-thinking, academic-integrity]
 pedagogy: [critical-pedagogy]
@@ -69,16 +69,14 @@ A library-sector opinion piece pushes the same idea further: AI could carry info
 
 Read together, the two sides of the ledger suggest a rule: AI can carry the *practice* load — realistic scenarios, immediate feedback, scale — but the *judgment* load stays with the learner, and any tool that claims to replace it should be evaluated as a detector with a measured error rate, not adopted as an answer key.
 
-## What this means for practice
-
+## Implications for Practice
 - **Teach one procedure, two objects.** The checkable routine — trace the claim to a source, trace the source to an author, ask what the artifact is doing — works for a citation and for a video. Name which object the assignment is assessing.
 - **Treat detection as evidence, not verdict.** A detector's output is a probability; teach students to corroborate with a second method and to say what would change their mind.
 - **Keep production in the curriculum.** Making media was the pedagogy that made critique concrete; generating with AI can support it only if students examine the choices the tool made for them.
 - **Put a librarian or media specialist inside the workflow.** The strongest instructional result in this literature comes from a design where human consultation was built in, not offered afterwards.
 - **Assess staff capacity before writing the syllabus.** The measured deficit sits at designing objectives and assessing outcomes, not at using tools.
 
-## Limitations of the evidence
-
+## Where the evidence is thin
 Most studies here are small, [[self-report-measures|self-reported]] or both: 236 students in one survey, 36 children in one intervention, 412 librarians rating themselves. Bibliometric visibility is not practice, and the scientometric authors say so explicitly. No study in the corpus evaluates a combined information-and-media-literacy curriculum, and the detector and fact-checking tools the practice literature recommends are largely unmeasured in these sources. The claim that AI-powered verification improves outcomes should be treated as a design hypothesis until someone tests it against a control.
 
 ## Common Misconceptions

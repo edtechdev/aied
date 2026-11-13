@@ -1,7 +1,7 @@
 ---
 title: "Retrieval, Spacing and Interleaving"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-12T21:05:00-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -82,6 +82,8 @@ Interleaving's inclusion here therefore rests on the same theoretical family as 
 - **Interleaving has essentially no direct evidence here.** As stated above, the corpus contains no blocked-versus-interleaved comparison, only a simulation in which Interleaving is one selectable strategy among several.
 - **Subject populations and content.** The evidence base concentrates on [[higher-ed|higher education]], on STEM and statistics material, and on fact-versus-skill distinctions from geometry and multiple-regression content; generalization to [[k-12|K-12]] settings, to [[humanities-education|humanities]] and writing, and to non-Western classrooms is not established by these studies.
 
+[[pan-chatgpt-prequestions-memory-comprehension-2026|Pan, Schweppe, Teo, Indrajaya and Wenzel (2026)]] put generative AI at the front of the testing effect: two ChatGPT-generated prequestions answered before reading a 675-word text. Across four experiments with 90, 128, 153 and 157 adults, prequestioning beat reading alone (d = 1.12 on practiced questions, d = 0.78 on unpracticed ones) and matched human-generated questions. Learners almost never answered correctly — 0.056 accuracy in Experiment 1 — and still learned more, which is the pretesting effect's signature. Transfer decayed with distance: tested questions beat untested same-source questions (d = 0.46), which beat untested different-source questions (d = 0.32). Question generation became cheap; the retrieval stayed mandatory.
+
 ## Common Misconceptions
 
 **"Better AI questioning produces better retention."** It produces better work. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] found deeper LLM questioning improved independently marked task quality (**β = 6.27, p = .006**) while having a **null association with immediate post-test recall (β = −0.014, p = .728)**, with recall gains driven by baseline knowledge instead. The quality of the artifact and the durability of the memory are different outcomes, and better dialogue moves the first without moving the second.
@@ -123,3 +125,4 @@ Interleaving's inclusion here therefore rests on the same theoretical family as 
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Retrieval practice in the Tools layer of a learning-to-learn framework
 - [[agentic-ai-pedagogical-best-practice-2026]] — Pre-fetching agents bypass retrieval practice; the case for intentional friction
 - [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
+- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — ChatGPT-generated prequestions improve memory and text comprehension

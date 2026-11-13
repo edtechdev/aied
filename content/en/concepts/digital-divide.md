@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-11-12T10:45:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 connected_resources: [public-ai-libraries]
 type: concept
@@ -27,7 +27,7 @@ The digital divide is commonly understood as operating across **three levels** (
 
 The edge-inference turn adds a hardware dimension to the first-level divide. When tutoring runs in the browser rather than the cloud — [[browser-sized-agents-slm-webllm-tutor-2026|browser-resident SLM tutors]] via WebLLM — the subscription-cost barrier disappears but a capability barrier replaces it: on a consumer laptop the same system took roughly 180 seconds per trial against 10–58 seconds for a remote API, and Chromebook-class devices cannot run an 8B model at all. Students with modern hardware get fast, seamless generation while students on older devices face latency or memory exhaustion, so local and cheap is not the same as equitable by default.
 
-### How the digital divide appears in the research
+## How the digital divide appears in the research
 
 - **AI literacy as a mechanism for equity:** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|The SAIL framework]] was explicitly designed to address second- and third-level divides, providing a scaffolded, age-agnostic pathway for equitable AI literacy across all stages of education, grounded in the argument that AI literacy is inseparable from equity and participation.
 
@@ -41,7 +41,7 @@ The edge-inference turn adds a hardware dimension to the first-level divide. Whe
 - **Code-switching is its own exclusion.** Most [[llm]] lecture tools assume single-language English audio and reliable internet, ruling out classrooms mixing English and a home language; India's UDISE+ data put school internet access near 54% with a 24-point urban-rural gap, and a bilingual companion answers with on-device transcription and local-first storage ([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]]).
 - **Public digital services reproduce the divide.** Kenya's eCitizen e-government platform is mainly English with limited Swahili and a text-only interface, which excludes low-literacy, visually impaired, and rural youth; interviews plus an eleven-person roundtable across four livelihood platforms (Ajira Digital, KRA iTax, HELB, YEDF) point to language technologies and WCAG 2.1-informed design as the inclusion levers ([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
 
-### AI deepens (and can close) divides
+## AI deepens (and can close) divides
 
 AI adds new layers to the equity implications of technology. Algorithmic bias can disproportionately impact learners from marginalized communities, and [[ai-literacy|AI literacy]] — the ability to understand, critically evaluate, and mitigate AI's biases and risks — is itself a key factor in whether AI widens or narrows gaps. [[research-methods-aied|Research]] shows educators with higher AI literacy are more effective at identifying and mitigating biased outcomes. The digital divide in the AI era is therefore not simply a technical provision problem but a question of justice and participation: who can access AI, who can use it critically, and who benefits.
 
@@ -70,18 +70,11 @@ Structured school AI instruction is a psychological catalyst but not a cognitive
 - **This divide may be shallower than the internet's was.** Matching each country's 2025 generative-AI use to the internet year with comparable overall use, the education gap was smaller in 13 of 16 countries that could be matched, out of 35 ([[watanabe-genai-education-gap-europe-2026|Watanabe (2026)]]).
 - **A capability tier sits inside access.** Lecturers paying a \$20 monthly subscription themselves reported more errors and restricted functionality than colleagues on paid institutional accounts, a divide in what the tool can do rather than whether it is reachable ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
 
-### Connections to related concepts
+## Connections to related concepts
 
 The digital divide is a core concern of [[equity-in-ai-education]] research, closely tied to [[ai-literacy]] (which is positioned as a central mechanism for addressing structural barriers), and to [[ethics]] and [[bias-mitigation]] (since algorithmic bias disproportionately affects marginalized groups). It connects to [[ai-education]] and [[higher-ed]] as the settings where access and capability gaps manifest, and relates to [[student-experience]] as it shapes who can participate meaningfully in AI-shaped learning.
 
-## Common Misconceptions
-
-- **"Access to the tool is the divide."** Access is the first layer and the literature has moved past it. **Phrasing skill is its own second-level divide**: on MedQA, accuracy rose with prompt sophistication from **82.4% for low-literacy wording to 83.4% for expert phrasing**, which means two students with identical access get different quality from the same model because one knows how to ask. A prompt-rewriting layer narrowed the gap — the divide is in the interface and the user's fluency, not only in the subscription.
-- **"If it runs in a browser, it is available."** Most LLM lecture tools assume **single-language English audio and reliable internet**, which rules out exactly the classrooms mixing English with a home language. India's UDISE+ data put school internet access far below the level that assumption requires. A tool built on an assumed infrastructure silently excludes the settings with the strongest need.
-- **"Digital literacy and AI usage are the same mediating variable."** A study of **4,497 Grade 6 students** in the Netherlands separated **two distinct mediating pathways** — AI usage and digital literacy — linking background and personality to learning gains. They are not interchangeable, and interventions that raise one do not automatically raise the other.
-- **"[[simulation|Simulations]] remove the cost barrier."** A systematic review of **11 digital-twin studies** in STEM higher education found hardware costs of **\$2,000-\$15,000** per setup. A simulated lab can reproduce the equipment bill it was meant to avoid, so the cost argument for virtual provision has to be checked rather than assumed.
-
-## What this means for practice
+## Implications for Practice
 
 **For instructors**
 
@@ -94,6 +87,13 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - Do not treat device distribution as closing the divide. The measurable gaps sit in phrasing skill, interface language and connectivity, and none of them are fixed by hardware.
 - Publish the infrastructure a tool assumes. A requirement stated plainly lets an under-resourced setting judge fit before investing.
 - Cost out the full deployment, not the software license. Digital-twin evidence shows the hardware bill can survive virtualisation.
+
+## Common Misconceptions
+
+- **"Access to the tool is the divide."** Access is the first layer and the literature has moved past it. **Phrasing skill is its own second-level divide**: on MedQA, accuracy rose with prompt sophistication from **82.4% for low-literacy wording to 83.4% for expert phrasing**, which means two students with identical access get different quality from the same model because one knows how to ask. A prompt-rewriting layer narrowed the gap — the divide is in the interface and the user's fluency, not only in the subscription.
+- **"If it runs in a browser, it is available."** Most LLM lecture tools assume **single-language English audio and reliable internet**, which rules out exactly the classrooms mixing English with a home language. India's UDISE+ data put school internet access far below the level that assumption requires. A tool built on an assumed infrastructure silently excludes the settings with the strongest need.
+- **"Digital literacy and AI usage are the same mediating variable."** A study of **4,497 Grade 6 students** in the Netherlands separated **two distinct mediating pathways** — AI usage and digital literacy — linking background and personality to learning gains. They are not interchangeable, and interventions that raise one do not automatically raise the other.
+- **"[[simulation|Simulations]] remove the cost barrier."** A systematic review of **11 digital-twin studies** in STEM higher education found hardware costs of **\$2,000-\$15,000** per setup. A simulated lab can reproduce the equipment bill it was meant to avoid, so the cost argument for virtual provision has to be checked rather than assumed.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -23,7 +23,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-### How RAG is used in education
+## How RAG is used in education
 
 - **Domain-specific retrieval with notation awareness:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] indexes textbooks, 847 lecture slides, 312 solved practice problems, 156 worked proof templates and 89 complexity worksheets for theoretical [[cs-education|computer science]] courses, adding mathematical entity recognition and notation-aware re-ranking; it answered all 179 instructor-authored exam questions within a 240-second timeout (mean 38.0 seconds) but produced BLEU-4 = 0.0000 and a 0.7620 rubric score, which illustrates both the value of the architecture and the limits of the metrics used to judge it.
 - **Hallucination reduction:** [[eduguard-safe-rag-llm-tutor|EduGuard]] and [[eduzone-llm-safety-k12|EduZone]] use RAG to keep AI tutor responses grounded in verified educational content, reducing [[hallucination-risk]].
@@ -39,7 +39,7 @@ reviewed_by: [editor]
 
 - **Retrieving on a summary instead of the student's words (LC-RAG).** Collaborative talk often has no semantic link to the knowledge base: students say "put that position block there," so a discourse-only retriever returns unrelated chunks, and the authors' example is a passage about a 1990s cartoon pulled from a physics and computing textbook. Log-contextualized RAG has an LLM summarize each segment of work from its discourse plus the environment log (which model component is being edited), then retrieves on that summary. Across 216 collaborative modeling segments and five embedding models judged by GPT-4o, it beat the discourse baseline in four models, from 0.403 to 0.620 win rates, and retrieved a tighter set of chunks (167 unique against 267 of 7,386). It lost in one model because the summaries became more specific to the task than the general textbook corpus was: query scope and corpus scope have to be matched deliberately ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
 
-### RAG vs fine-tuning
+## RAG vs fine-tuning
 
 RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up-to-date, domain-specific grounding without retraining, while fine-tuning embeds [[pedagogy|pedagogical]] behaviors. The knowledge base's research explores both approaches and their combination.
 

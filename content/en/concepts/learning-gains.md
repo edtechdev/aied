@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-11-11T08:13:31-05:00"
+updated: "2026-11-12T21:50:00-05:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -38,11 +38,11 @@ Key findings from the knowledge base:
 - **[[burneo-can-edtech-close-learning-gaps-2026|World Bank meta-analysis]]** pools 191 effect sizes from 14 RCTs to estimate that adaptive and AI-enabled EdTech raises learning by ~0.125 sd on average — above the median for education RCTs — while finding no advantage for generative AI over earlier adaptive tools.
 - **Gains are content–treatment interactions, not constants.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] show the optimal example–problem ratio depends on knowledge content: pure [[retrieval-spacing-interleaving|retrieval practice]] yields higher gains for verbatim facts, while example-integrated practice (alternating worked examples and problems) yields higher gains for generalizable skills — direct evidence that "more practice" is not always better and that gains hinge on matching the training schedule to the knowledge component being learned.
 
-### The AI-era measurement problem
+## The AI-era measurement problem
 
 A central theme in the knowledge base's learning-gains research is that **generative AI can inflate apparent performance without producing learning gains** — and that the choice of outcome measure determines whether this is visible. [[generative-ai-reduced-study-time-math|Research]] and [[stromberg-generative-ai-learning-penalty-secondary-2026|large-scale field data]] show a sharp divergence: AI use improves scores on AI-assisted homework while *lowering* scores on proctored, closed-book, unassisted measures. [[genai-performance-vs-learning|Performance-vs-learning research]] and [[young-people-learning-generative-ai-rapid-review-2026|rapid reviews]] therefore distinguish immediate AI-supported performance from durable learning, and treat unassisted summative measures (see [[summative-assessment]]) as the reliable signal of genuine learning gains.
 
-### What the efficacy research shows
+## What the efficacy research shows
 
 Across the knowledge base's [[rct|RCTs]], [[meta-analysis-systematic-review|meta-analyses]], and field studies, a consistent picture of **learning efficacy** (which AI interventions actually produce learning gains, and how large) emerges:
 
@@ -63,7 +63,7 @@ Across the knowledge base's [[rct|RCTs]], [[meta-analysis-systematic-review|meta
 
 - **AI tutoring can match expert human tutoring on standardized-test gains.** In a 2,383-participant evaluation, pooled AI tutoring was statistically equivalent to expert human tutoring on GRE learning gains (p = .015), with both above a no-tutoring control; the authors propose cost per percentage point of gain as the unit for comparing tutors ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).
 
-### A field-level map of AI's effects on learning and achievement
+## A field-level map of AI's effects on learning and achievement
 
 The knowledge base's corpus — meta-analyses, RCTs, quasi-experiments, and field studies — supports a nuanced, sometimes contradictory picture. Findings cluster into positive, negative, and conditional effects.
 
@@ -93,7 +93,7 @@ The knowledge base's corpus — meta-analyses, RCTs, quasi-experiments, and fiel
 - **AI-IBL supports creativity but not necessarily problem-solving.** [[mujib-ai-ibl-creative-math-2026|Mujib et al.]] improved creative performance and attitudes but not critical problem-solving.
 - **[[student-experience|Student experience]] diverges from measured gains.** [[absent-cognitive-baseline-2026|AI-native students overestimate their learning]], and [[ai-literacy-assessment-misalignment|self-report misaligns with performance]] — perceptions of gains are not reliable evidence of them.
 
-### Meta-analytic learning-gain estimates are inflated — read them with caution
+## Meta-analytic learning-gain estimates are inflated — read them with caution
 
 The learning-gain numbers that dominate this page's efficacy summary — especially pooled effect sizes from meta-analyses — must be read with a strong caveat: a wave of meta-research shows the field's positive synthesis estimates are inflated by publication bias, construct incoherence, and methodological shortcuts.
 
@@ -106,23 +106,13 @@ The learning-gain numbers that dominate this page's efficacy summary — especia
 
 **Bottom line for the gains numbers above:** treat large pooled AI effect sizes as upper bounds, not point estimates. Prefer the learning-gain evidence from well-designed [[rct|RCTs]] and field studies with unassisted, standardized outcome measures (the guardrail RCT, the Khanmigo and NUMI experiments, and the World Bank EdTech meta-analysis cited above), and read meta-analytic gains as provisional and likely over-stated until synthesis quality improves. The problem also outlives correction: of the papers published after one audited meta-analysis was retracted, 60% still cited it as authoritative support for large ChatGPT learning gains and none acknowledged the retraction, so a withdrawn estimate keeps propagating. This is why the [[limitations-in-aied-research|Limitations in AIEd Research]] page now documents the meta-analytic evidence crisis in detail.
 
-### Measuring what matters
+## Measuring what matters
 
 Learning gains connect to [[assessment-validity]] — if [[assessment|assessments]] fail to capture deeper understanding, learning gain measures are misleading. They also intersect with [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]], where apparent performance improvements may mask learning losses, and with [[rct]] (randomized trials as the gold-standard design for detecting causal learning gains), and with [[meta-analysis-systematic-review]] (pooling effect sizes across studies to establish the field's efficacy evidence).
 
 - **Significant pre/post gains from mistake-based AI [[pedagogy]]:** [[pedagogy-ai-mistakes|Hosseini (2026)]]'s database design course (n=13) showed large, significant learning gains on identical pre/post items (mean 4.25→6.83/7, Cohen's *d*=1.49, *p*<.001), with gains uncorrelated with prior AI or database confidence — the AI-integrated critique-refinement design benefited students regardless of initial perceptions.
 
 The newest experiments mark a boundary on that pattern rather than a contradiction of it. Beginners given ChatGPT passed far more generated tests than beginners without it (410.7 vs 80.7) while their understanding did not improve, and intermediate students gained nothing ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). A second experiment found Copilot's 14.09-point advantage gone on an unassisted retest a week later ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). Persistence is the exception in this literature, so a study reporting it is evidence about the task and the support design, not about AI assistance in general.
-
-## Common Misconceptions
-
-**"Scores went up, so the intervention produced learning."** This is the definitional error the page exists to prevent, and the field data show both directions at once: AI use improves scores on AI-assisted homework while *lowering* scores on proctored, closed-book, unassisted measures ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). The choice of measure determines whether the inflation is visible, so a gain on an AI-permitted task is a claim about task performance, not about [[genai-performance-vs-learning|learning]].
-
-**"The meta-analysis settles it: the effect is large."** Aggregation direction and aggregation magnitude are different facts, and the magnitude rarely survives scrutiny. [[genai-meta-analysis-programming-learning|The GenAI-in-programming meta-analysis]] finds large *productivity* gains alongside **no significant learning gain** (g ≈ 0). [[burneo-can-edtech-close-learning-gaps-2026|The World Bank meta-analysis]], pooling 191 effect sizes from 14 RCTs, estimates ~0.125 sd for adaptive and AI-enabled EdTech — respectable against the median education RCT, but with **no advantage for generative AI over earlier adaptive tools**. Citing GPT-era studies as a category leap overstates what the pooled evidence shows.
-
-**"More practice and more [[personalized-learning|personalization]] always help."** The size of a gain depends on what is being trained, not on how much support is supplied. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] report that the optimal mix of worked examples and problems shifts with the target skill: pure retrieval practice yields higher gains for verbatim facts, while alternating examples and problems yields higher gains for generalizable skills. And [[lak2026-hint-button-unproductive-use|hint-button research]] finds hint volume negatively associated with learning. The same "support" that helps one knowledge component can waste the other.
-
-**"A delayed post-test result is automatically a durable-learning result."** Delay is necessary and not sufficient. What distinguishes durable learning in this corpus is *unassisted* measurement under delayed conditions, together with evidence that the effect is not carried by the scaffold that will be absent at transfer.
 
 ## Implications for Practice
 
@@ -143,6 +133,16 @@ The newest experiments mark a boundary on that pattern rather than a contradicti
 - Pre-register the outcome measure and state whether it is AI-permitted or unassisted. The direction of the finding can flip on this choice alone.
 - Report effect sizes against a named comparison, not against "traditional approaches" in the abstract. The World Bank result is only interpretable because it names its comparison class.
 - Distinguish performance inflation from learning displacement explicitly, since the two imply different remedies — task redesign versus re-teaching.
+
+## Common Misconceptions
+
+**"Scores went up, so the intervention produced learning."** This is the definitional error the page exists to prevent, and the field data show both directions at once: AI use improves scores on AI-assisted homework while *lowering* scores on proctored, closed-book, unassisted measures ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). The choice of measure determines whether the inflation is visible, so a gain on an AI-permitted task is a claim about task performance, not about [[genai-performance-vs-learning|learning]].
+
+**"The meta-analysis settles it: the effect is large."** Aggregation direction and aggregation magnitude are different facts, and the magnitude rarely survives scrutiny. [[genai-meta-analysis-programming-learning|The GenAI-in-programming meta-analysis]] finds large *productivity* gains alongside **no significant learning gain** (g ≈ 0). [[burneo-can-edtech-close-learning-gaps-2026|The World Bank meta-analysis]], pooling 191 effect sizes from 14 RCTs, estimates ~0.125 sd for adaptive and AI-enabled EdTech — respectable against the median education RCT, but with **no advantage for generative AI over earlier adaptive tools**. Citing GPT-era studies as a category leap overstates what the pooled evidence shows.
+
+**"More practice and more [[personalized-learning|personalization]] always help."** The size of a gain depends on what is being trained, not on how much support is supplied. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] report that the optimal mix of worked examples and problems shifts with the target skill: pure retrieval practice yields higher gains for verbatim facts, while alternating examples and problems yields higher gains for generalizable skills. And [[lak2026-hint-button-unproductive-use|hint-button research]] finds hint volume negatively associated with learning. The same "support" that helps one knowledge component can waste the other.
+
+**"A delayed post-test result is automatically a durable-learning result."** Delay is necessary and not sufficient. What distinguishes durable learning in this corpus is *unassisted* measurement under delayed conditions, together with evidence that the effect is not carried by the scaffold that will be absent at transfer.
 
 ## Connected Concepts
 

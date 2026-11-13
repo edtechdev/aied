@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-05T23:00:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -24,7 +24,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-### LLMs as the engine of AIED
+## LLMs as the engine of AIED
 
 LLMs are the most-referenced concept in the knowledge base (60+ articles) because they underpin nearly every AI education application:
 
@@ -44,7 +44,7 @@ LLMs are the most-referenced concept in the knowledge base (60+ articles) becaus
 - **Verification separated from generation — with correlated failure modes.** [[eduguard-safe-rag-llm-tutor|Hossain et al. (2026)]] restrict tutor retrieval to instructor-approved course material and route claims through an architecturally separate DeBERTa-v3-large-MNLI verifier, but caution both models share broad web training and can fail in correlated ways, and the verifier cannot check a code trace without executing it.
 - **Assessment model shift (2017–2024):** Morley et al.'s scoping review of auto-marking short-answer [[science-education|science]] questions traces the field's move from fine-tuning smaller [[educational-nlp|BERT]] models (dominant through 2021) toward prompting larger LLMs (GPT-1/2/3.5/4) from roughly 2022 — adopted via [[prompt-engineering]] rather than fine-tuning — with domain-augmented models, rubric-aware prompting, and chain-of-thought lifting accuracy. Yet GPT models were rarely benchmarked against BERT on standard corpora, few auto-markers could explain their marks, and [[bias-mitigation|bias]] was seldom examined, cautions that apply to LLM assessment generally ([[auto-marking-short-answer-science-2026]]).
 
-### Model-specific research
+## Model-specific research
 
 The knowledge base covers both general-purpose LLMs (GPT-4, Claude) and education-specific adaptations. [[cstutorbench-slm-tutors|Small language model benchmarks]] compare SLM performance for tutoring, and [[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]] argue SLMs are architecturally appropriate for [[agentic-ai|agentic]] tutoring when deployed as tool-augmented planners — deterministic tools carry the load a small model would otherwise handle implicitly — with pedagogical control residing in the escalation policy rather than the model. [[educational-llm-alignment|Educational alignment]] research addresses how to make LLMs pedagogically appropriate. A classroom study across three frontier families — [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] — found that ChatGPT, Gemini, or Claude could act as collaborative critique partners for argumentative writing: over a semester of iterative essays, students improved on argument quality, [[prompt-engineering|prompt engineering]], and response-to-[[ai-feedback-quality|AI feedback]] by roughly a full standard deviation each (all p < .001) and engaged deeply (87.8% rebutting LLM claims), positioning general-purpose LLMs as viable [[collaborative-learning|collaborative learning]] partners rather than mere answer generators.
 

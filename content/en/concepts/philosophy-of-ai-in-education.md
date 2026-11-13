@@ -1,7 +1,7 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-05T15:16:00-05:00"
+updated: "2026-11-12T21:50:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 This is a concept page for the philosophical and theoretical foundations of [[ai-education|AI in education]]. While [[learning-theories]] documents the empirical and design-oriented theories ([[behaviorism]], [[constructivist|constructivism]], [[cognitive-offloading|cognitive load]], [[self-regulated-learning|self-regulated learning]], etc.), the philosophy strand engages the ontological, epistemological, and ethical questions those theories presuppose. The two are closely connected: philosophical positions shape which learning theories seem plausible and which educational goals are worth pursuing.
 
-### Key philosophical questions
+## Key philosophical questions
 
 - **The nature of mind and cognition.** Does thinking require consciousness and a body? Can AI participate in genuinely cognitive processes? Frameworks such as **ensemble cognition** argue that AI exercises *functional agency* — genuine causal efficacy in cognitive processes — without consciousness, and that thinking emerges from dynamic human–[[student-ai-interaction|AI interaction]].([[ensemble-cognition-philosophy-ai-education]]) [[distributed-cognition|Distributed cognition]] and the extended mind thesis make related claims about cognition being spread across systems.
 - **What is the learner?** Posthumanist philosophy reconceptualizes the learner as a "post-human" entity whose cognitive processes are genuinely hybrid and distributed across [[biology-education|biological]] and artificial systems.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) This challenges the assumption that the learner is a bounded, autonomous individual mind.
@@ -43,23 +43,13 @@ This is a concept page for the philosophical and theoretical foundations of [[ai
 - **Agency without answerability.** A corpus-assisted discourse analysis of 366 GenAI higher-education abstracts finds [[generative-ai|AI]] named 2,050 times and entering 447 strict actor–predicate associations - the field's most frequent actor - yet action predicates dominate them (78.7%) and no sentence makes a system responsible: of 166 obligation expressions, none assigned responsibility to a system, and the single clause linking AI to accountability says AI is not accountable. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] reads this as functional agency recognized in language without the relational responsibility that would attach it to anyone.
 **Neither tool nor collaborator: the mediational agent.** [[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate and Ritchie (2026)]] argue that calling generative AI a mere tool understates its interactional influence while calling it a collaborator wrongly grants it intentionality and accountability, and propose the *mediational agent* — a responsive, non-accountable system whose novelty is participation rather than intelligence.
 
-### Relationship to learning theories
+## Relationship to learning theories
 
 The philosophy of AI in education and [[learning-theories]] are complementary lenses. Learning theories explain the mechanisms of learning (e.g., how [[feedback]], [[scaffolding]], or cognitive load shape outcomes); philosophy interrogates the presuppositions of those mechanisms — what counts as knowledge, who counts as a knower, and what the learner fundamentally is. Posthumanist and critical-philosophical work, in particular, challenges the field to move beyond instrumentalist frameworks like [[tpack]] and SAM toward deeper ontological reorientation.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### Relationship to theory development
+## Relationship to theory development
 
 Philosophy of AI in education and [[theory-development-aied|theory development in AIEd]] are complementary but distinct. Philosophy asks the ontological and epistemological questions — what mind, knowledge, and the learner fundamentally are under AI-mediated conditions — while theory development produces and empirically tests the *mechanisms* that operationalize answers to those questions (generativism, epistemic co-agency, the absent cognitive baseline). The two are mutually informing: philosophy clarifies the presuppositions that theories carry (e.g., [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemic co-agency]] presumes a distributed, non-individualist model of cognition), while theory development gives philosophical positions testable, falsifiable form. The field's most foundational articles do both at once, sitting at the boundary between the two concepts.
-
-## Common Misconceptions
-
-**"The philosophy of AI in education is the same as cataloguing learning theories."** They sit at different depths. The [[learning-theories]] page asks *how learning happens*; the philosophy asks *what learning, mind and the learner fundamentally are* under AI-mediated conditions. A study can settle a learning-theory question and leave the philosophical one untouched, which is why a technically successful intervention can still be the wrong thing to do.
-
-**"Cognitive offloading is the harm, and it is reversible by more effort."** There is a stronger claim available. Bai and Costa (2026) draw on Arendt's account of thinking as an inward, untransferable activity to argue that GenAI which *supplies* the work does not merely offload thinking but forecloses it — and they locate the risk institutionally, through Bourdieu's field and habitus, rather than in individual willpower. If the argument holds, "use it carefully" is not a sufficient remedy, because the practice is shaped by the field that rewards the output.
-
-**"Non-Western philosophy is content to add to an unchanged frame."** It can be a source of different foundations. One reconstruction treats Daoist concepts — "Dao nature" (道性), self-cultivation (修道) and the "Zhenren" (真人) — not as "Eastern content" appended to a Western framework but as resources that reshape the conceptual foundations through which AI in education is understood. Adding a tradition as illustration and using it to reframe the questions are different scholarly acts.
-
-**"Philosophical critique is unactionable."** It sets what counts as success. Whether a system's output is a learner's achievement, and whether a measured gain is an educational good, are prior questions that no effect size can answer — and institutions that skip them will optimize the measurable and call it improvement.
 
 ## Implications for Practice
 
@@ -79,6 +69,16 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 
 - State the conception of learning your evaluation presumes, because a measured gain is only an educational good relative to some account of what education is for.
 - Fund the philosophical work alongside the empirical work: questions about what counts as a learner's achievement set the success criteria the empirical studies then use.
+
+## Common Misconceptions
+
+**"The philosophy of AI in education is the same as cataloguing learning theories."** They sit at different depths. The [[learning-theories]] page asks *how learning happens*; the philosophy asks *what learning, mind and the learner fundamentally are* under AI-mediated conditions. A study can settle a learning-theory question and leave the philosophical one untouched, which is why a technically successful intervention can still be the wrong thing to do.
+
+**"Cognitive offloading is the harm, and it is reversible by more effort."** There is a stronger claim available. Bai and Costa (2026) draw on Arendt's account of thinking as an inward, untransferable activity to argue that GenAI which *supplies* the work does not merely offload thinking but forecloses it — and they locate the risk institutionally, through Bourdieu's field and habitus, rather than in individual willpower. If the argument holds, "use it carefully" is not a sufficient remedy, because the practice is shaped by the field that rewards the output.
+
+**"Non-Western philosophy is content to add to an unchanged frame."** It can be a source of different foundations. One reconstruction treats Daoist concepts — "Dao nature" (道性), self-cultivation (修道) and the "Zhenren" (真人) — not as "Eastern content" appended to a Western framework but as resources that reshape the conceptual foundations through which AI in education is understood. Adding a tradition as illustration and using it to reframe the questions are different scholarly acts.
+
+**"Philosophical critique is unactionable."** It sets what counts as success. Whether a system's output is a learner's achievement, and whether a measured gain is an educational good, are prior questions that no effect size can answer — and institutions that skip them will optimize the measurable and call it improvement.
 
 ## Connected Concepts
 

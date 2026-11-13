@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-11T11:50:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -29,7 +29,7 @@ reviewed_by: [editor]
 
 Prompt engineering is central to effective [[generative-ai]] use in education. Unlike traditional programming interfaces, LLMs respond to natural language — but the quality, accuracy, and [[pedagogy|pedagogical]] value of those responses depend heavily on prompt design. Research in this knowledge base reveals that prompting is not a neutral act: it reflects how students think, plan, and allocate cognitive effort. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar (2026)]] sharpen what the term covers by distinguishing prompt engineering, the technical optimization of inputs for performance, from prompt literacy, the rhetorical, ethical and reflective work of clarifying purpose, reading output critically and revising with stated reasons. Their Prompt Literacy Cycle (Clarify Purpose, Craft the Prompt, Engage with Output, Refine the Prompt, Reflect) and a sample process rubric make the distinction teachable, and they argue that instruction which optimizes outputs alone leaves the ethical and epistemological dimensions of LLM use untouched.
 
-### How prompt engineering appears in the research
+## How prompt engineering appears in the research
 
 - **Prompting as cognitive trace:** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk et al.]] show that prompt patterns reveal [[cognitive-offloading|cognitive offloading]] — high-quality work uses context-rich, polite, and instructional prompts; low-quality work shows reactive disagreement without domain grounding
 
@@ -75,7 +75,7 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 - **Model identity, not prompt wording, drives LLM–human coding agreement.** In [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith et al. (2026)]] controlled decomposition, prompt type was nonsignificant (F = 1.77, p = 0.136, partial η² = .03) while the model factor carried partial η² = .19. Adding definitions or detailed instructions impaired listing detection even as it lowered errors on correct-definition judgments, and price did not track quality: Gemini 2.5 Pro cost \$178.13 yet underperformed GPT-4.1 Full at \$56.77.
 - **Inject the theory's name, not its full texts.** [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]] show that named-theory prompting beat supplied papers on usefulness (4.40 vs 3.20) and concreteness (3.80 vs 2.40), while full texts won only theoretical alignment (4.60 vs 3.60).
 
-### Connections to broader concepts
+## Connections to broader concepts
 
 Prompt engineering connects to [[scaffolding]] — well-designed prompts can scaffold student thinking rather than bypass it. It intersects with [[metacognition]] and [[ai-literacy]], as effective prompting requires understanding both the AI's capabilities and one's own learning goals. The [[cognitive-offloading]] research directly links prompt quality to whether AI use supports or undermines learning.
 

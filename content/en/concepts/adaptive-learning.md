@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-12T10:45:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -22,7 +22,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-### Core mechanisms
+## Core mechanisms
 
 - **Measure-model-adapt loop:** [[knowledge-tracing]] estimates what the student knows, [[student-modeling]] represents the learner, and the system adapts difficulty, content, and [[feedback]] accordingly.
 - **Personalization at scale:** [[personalized-learning]] systems use adaptive algorithms to serve unique learning paths for each student. [[deeptutor]] and [[ai-powered-personalized-learning-elementary-fractions-2026|elementary fraction tutors]] demonstrate adaptive personalization in practice.
@@ -30,7 +30,7 @@ reviewed_by: [editor]
 - **ITS integration:** [[intelligent-tutoring|Intelligent tutoring systems]] are the canonical adaptive [[edtech-platform|learning platform]], combining diagnosis with adaptation.
 - **AutoML-driven profiling and diagnosis:** Traditional educational models struggle to process multi-source, heterogeneous learning-behavior data, which limits learner profiling and diagnostic model development. A personalized neural cognitive architecture search framework driven by automated [[machine-learning|machine learning]] integrates [[multimodal|multi-modal]] educational data with heterogeneous methods, generating diagnostic models tailored to heterogeneous learner profiles and supporting dynamic rather than static analysis of learning processes.
 
-### Effectiveness evidence
+## Effectiveness evidence
 
 The knowledge base documents mixed evidence: adaptive systems improve outcomes when adaptation is grounded in reliable [[student-modeling|student models]], but poorly-calibrated adaptation can harm learning. [[personalized-learning|Personalization research]] distinguishes effective adaptation from superficial customization. [[khalifeh-redefining-personalized-learning-ai-2026|Systematic reviews]] find that "adaptive," "personalized," "individualized," and "customized" learning are used inconsistently — so effect sizes depend heavily on how adaptation is operationalized, and the field calls for a unified framework.
 
@@ -43,15 +43,15 @@ Take-up, not the adaptation mechanism, was the binding constraint in a two-year 
 
 A PRISMA-aligned review of 44 studies finds the engagement literature skewed toward [[student-engagement|behavioral engagement]] and thinnest on agentic engagement, and reports a novelty effect — engagement declining over time in longitudinal studies of ALEKS and W-Pal once the tool's novelty faded ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng & Fryer (2026)]]).
 
-### The AI era: LLM-based adaptation and its risks
+## The AI era: LLM-based adaptation and its risks
 
 [[generative-ai|Generative AI]] has expanded what adaptive systems can do — conversational [[agentic-ai|agentic]] tutors, [[rag]]-grounded content, and [[llm]]-driven [[intelligent-tutoring|tutoring]] adapt not only problem difficulty but language and explanation style (e.g., [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutoring]]). However, LLM-based adaptation introduces new risks: without reliable [[student-modeling|student models]], adaptation may be based on shallow signals; over-adaptation can reduce the productive struggle students need (see [[desirable-difficulties]], [[cognitive-offloading]]); and the balance between personalizing and preserving learner [[agency]] is an open design question (see [[agentic-ai|agentic AI]]). A learner-requested variant of adaptation runs without any [[student-modeling|student model]] at all. In Sidorkin's (2026) graduate course the readings adjusted only when students asked follow-up questions to reframe, deepen, simplify or localize them, and comprehension-oriented requests reliably produced denser [[scaffolding]] (3.4x to 8.7x more definitional markers than baseline text). Requiring at least three follow-up questions per reading turned the material into an interaction. It also relocates the adaptive burden onto the learner: adaptation here happens only if the student knows what to ask for.
 
-### Relationship to personalized learning and intelligent tutoring
+## Relationship to personalized learning and intelligent tutoring
 
 Adaptive learning is frequently conflated with [[personalized-learning|personalized learning]], but they differ. **Adaptive learning** is the *mechanism* — real-time adjustment of content, pacing, and difficulty based on a learner model. **Personalized learning** is the *broader goal* of tailoring the whole learning experience to an individual, of which real-time adaptation is one implementation. Adaptive systems are the canonical *means* toward personalization. [[intelligent-tutoring|Intelligent tutoring]] is the classic *platform*: ITS combine diagnosis (student modeling, knowledge tracing) with adaptation, and LLM-based tutors adapt conversationally. Together with [[personalized-learning|personalized learning]], adaptive learning is an application-side member of the [[student-modeling|learner modeling and adaptive instruction]] family — consuming the learner representations that [[student-modeling|student modeling]], [[knowledge-tracing]], and [[cognitive-diagnosis]] produce.
 
-### Research evidence
+## Research evidence
 
 - **[[meta-analysis-systematic-review|Meta-analytic]] evidence on adaptive + AI tools.** [[burneo-can-edtech-close-learning-gaps-2026|A World Bank meta-analysis]] of 14 [[rct|RCTs]] pools adaptive computer-assisted learning, intelligent tutoring, and generative AI on a common scale, estimating an average learning gain of ~0.125 sd with no significant difference between the two technology generations — evidence that the adaptation mechanism, not the specific tool generation, drives gains.
 - **Interpretable rating plus time-budgeted routing.** [[mars-momentum-aware-adaptive-rating-assessment-2026|Sahu et al. (2026)]] keep a few explicit learner scalars — rating sensitivity, response quality and momentum — and route questions under a time budget, cutting rating-update volatility roughly in half against fixed Elo while trailing neural knowledge tracing on prediction (AUC 0.7532 against GKT's 0.8658).
@@ -78,15 +78,7 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - **Adaptation from process sequences, not aggregate scores.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] derived scaffold rules by mining the *order* of 65 students' dialogue turns in triads, moving adaptive learning from aggregated behavioral or performance measures toward individual process sequences; maximal scaffolding raised on-task behavior but also scripting, and the design is untested.
 - **Recognition outruns implementation.** Among 90 educators, 74 (82.2%) identified learners needing adaptation but only 50 (55.6%) had implemented any adaptive measure; the binding obstacle was information about learners, not technology, which 12% named ([[hilali-adaptive-learning-challenges-2026|Hilali and Chergui (2026)]]).
 
-## Common Misconceptions
-
-- **"Adaptive means personalized means individualized."** [[khalifeh-redefining-personalized-learning-ai-2026|Systematic reviews]] find these four terms used **inconsistently across the literature**, which means reported effect sizes depend heavily on how adaptation was operationalized rather than on adaptation itself. A meta-analysis pooling studies that used the words differently is pooling different treatments, and the average describes none of them.
-- **"Mastery reached in the system is mastery learned."** In a **6,000-student middle-school field experiment**, an AI-supported three-correct-in-a-row mastery rule raised **platform-defined attainment by roughly 28.7 percentage points without improving** a transfer measure. The rule optimized the platform's own criterion. This is the clearest available demonstration that a mastery signal is a model of learning, not learning.
-- **"Correctness-based adaptivity knows when to stop."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] found systems inferring mastery from correctness risk **terminating practice too early** — the system reads a correct run as understanding and withdraws the practice the learner still needed. Adaptivity that stops on success can subtract exactly the trials that produce retention.
-- **"The bottleneck is how good the adaptation is."** In a **two-year district RCT**, the binding constraint was **take-up**: collapsing enrollment to a single step raised first-session take-up from about **45% to 83%** on design changes alone, and intent-to-treat gains grew accordingly. The cleverest adaptation serves nobody who never reaches it.
-- **"Engagement persists once established."** A PRISMA-aligned review of **44 studies** found the engagement literature skewed toward behavioral engagement and thinnest on agentic engagement, and reports a **novelty effect** — engagement declining over time in longitudinal studies of ALEX and similar systems. Early engagement is not a stable property of the design.
-
-## What this means for practice
+## Implications for Practice
 
 **For instructors and designers**
 
@@ -100,6 +92,14 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 
 - Report the operational definition of "adaptive" alongside any effect size you cite, because the literature's definitions diverge and pooled numbers inherit that ambiguity.
 - Distinguish your mastery criterion from learning outcomes in your own validation. If your validation measure is the same signal that drives the adaptation, it is not independent evidence.
+
+## Common Misconceptions
+
+- **"Adaptive means personalized means individualized."** [[khalifeh-redefining-personalized-learning-ai-2026|Systematic reviews]] find these four terms used **inconsistently across the literature**, which means reported effect sizes depend heavily on how adaptation was operationalized rather than on adaptation itself. A meta-analysis pooling studies that used the words differently is pooling different treatments, and the average describes none of them.
+- **"Mastery reached in the system is mastery learned."** In a **6,000-student middle-school field experiment**, an AI-supported three-correct-in-a-row mastery rule raised **platform-defined attainment by roughly 28.7 percentage points without improving** a transfer measure. The rule optimized the platform's own criterion. This is the clearest available demonstration that a mastery signal is a model of learning, not learning.
+- **"Correctness-based adaptivity knows when to stop."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] found systems inferring mastery from correctness risk **terminating practice too early** — the system reads a correct run as understanding and withdraws the practice the learner still needed. Adaptivity that stops on success can subtract exactly the trials that produce retention.
+- **"The bottleneck is how good the adaptation is."** In a **two-year district RCT**, the binding constraint was **take-up**: collapsing enrollment to a single step raised first-session take-up from about **45% to 83%** on design changes alone, and intent-to-treat gains grew accordingly. The cleverest adaptation serves nobody who never reaches it.
+- **"Engagement persists once established."** A PRISMA-aligned review of **44 studies** found the engagement literature skewed toward behavioral engagement and thinnest on agentic engagement, and reports a **novelty effect** — engagement declining over time in longitudinal studies of ALEX and similar systems. Early engagement is not a stable property of the design.
 
 ## Connected Concepts
 

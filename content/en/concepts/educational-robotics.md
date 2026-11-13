@@ -1,7 +1,7 @@
 ---
 title: Robots in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -27,7 +27,7 @@ Educational robotics is a distinct but closely related application of [[ai-educa
 
 The evidence is thinner than the volume of work suggests: a review of AI and robotics in education finds most empirical studies involve learners under 13 over four weeks or fewer, concentrated in a few early-investing countries, with [[learning-gains|learning performance]] the most-studied outcome and ethics, equity and policy lagging deployment ([[white-wu-robotics-ai-education-2026|White and Wu (2026)]]).
 
-### Social robots and human–robot interaction
+## Social robots and human–robot interaction
 
 Two strands shape the social side of robotics in education.
 
@@ -35,7 +35,7 @@ Two strands shape the social side of robotics in education.
 
 **Human–robot interaction (HRI)** is the interdisciplinary study of how people and robots interact, encompassing perception, communication, collaboration, and the social, cognitive, and [[ethics|ethical]] dynamics of that interaction. In education, HRI underlies how learners perceive, trust, and learn with robots — whether programming a robot, conversing with a tutoring robot, or rehearsing social scenarios. HRI [[research-methods-aied|research]] examines how robot appearance, behavior, task context, and embodiment shape [[usability-research|user experience]], trust, agency, and learning. Key concerns in educational HRI include preserving human [[agency]], building [[trust]], supporting [[self-efficacy]], and ensuring that interaction with robots supports rather than undermines autonomy and social learning. It connects robotics to [[human-ai-collaboration]] and [[social-emotional-learning]].
 
-### How robots are used in education
+## How robots are used in education
 
 [[teaching-with-robots-five-types-perspective-2026|Christ et al. (2026)]] add a role typology rather than a technology list: their five workshop-derived types of classroom robot differ by *pedagogical function and abstraction level*, not by hardware. Type a runs a non-interactive demonstration of generic social patterns (a scripted emotion theater followed by discussion of dynamics such as escalation or misunderstanding); type b is a touch-reactive interactive robot supporting participative physical theater, [[embodied-learning|embodied learning]], boundary awareness and emotion regulation; type c is a spoken-language partner that shows empathy and remembers interactions with a single pupil, creating a protected one-to-one setting for self-disclosure; type d is externally guided by a hidden specialist like a puppet with extra degrees of freedom, aimed at flattening social hierarchy; and type e is a non-interactive robot replaying actions recently observed in the school so pupils can reflect on situated behavior — the contrast with type a being exactly its context-specific rather than generalized abstraction. The typology is explicit about being an unvalidated design space grounded in one national mental-health program, so it is a menu for designing and evaluating robot roles, not evidence that any of them works.
 
@@ -63,7 +63,7 @@ Two strands shape the social side of robotics in education.
 - **What kindergarten CT robotics actually does.** A [[meta-analysis-systematic-review|systematic review]] of 53 studies found [[problem-based-learning|problem-based learning]], storytelling, and scaffolding the most frequently used strategies, with most studies naming no CT framework and using ad hoc assessment tools rather than a validated instrument such as TechCheck-K ([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou & Sapounidis (2026)]]).
 - **LLM planning rather than conversation.** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] uses a vision-language model to convert photographs of Shoebox Tasks — visually structured activities used with learners on the [[neurodiversity|autism]] spectrum — into a PDDL problem that a Nao humanoid executes or demonstrates, with plan correctness scored across six tasks rather than any learner outcome.
 
-### Embodiment and pedagogy
+## Embodiment and pedagogy
 
 A defining theme is that robots are effective when they support genuine learning goals — not as isolated technical exercises. A desk-mounted robotic projector tied with laptop ChatGPT while help was available (6.7 vs. 7.3/10, p = .41) but held its score after withdrawal (7.0 vs. 4.4/10, p = .003), a 60% higher short-term transfer score — a task-dependent gain the authors attribute to spatial co-location rather than general replacement ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). The value of a robot depends on the pedagogical context: teaching computational thinking ([[computational-thinking]]), supporting [[stem-education|STEAM]], building [[cs-education|programming]] skills, motivating learners ([[motivation]], [[student-engagement|engagement]]), or supporting [[social-emotional-learning]] and [[equity-in-ai-education|inclusion]]. Robotics also connects to [[project-based-learning]], [[game-based-learning]], and [[experiential-learning]]. Key design considerations include preserving learner [[agency]], building [[trust]], supporting [[self-efficacy]], and grounding learning in [[embodied-learning|embodied interaction]]. In [[language-learning]], [[robot-assisted-language-learning-meta-analysis-2026|meta-analytic evidence]] points to the effectiveness of embodied robot-assisted language learning.
 

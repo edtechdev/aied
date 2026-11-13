@@ -1,7 +1,7 @@
 ---
 title: Cognitive Surrender
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-11-12T20:05:00-05:00"
+updated: "2026-11-12T21:45:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -89,8 +89,7 @@ The lab findings line up with field and observational work that independently re
 
 Does surrender habituate, or does it decay with disuse? [[cognitive-washout-ai-skill-decay-2026|Washout research]] formalizes the post-withdrawal question but the long-run data do not exist yet. Can surrender be measured in the wild without invasive logging — and do self-reports of checking behavior predict anything? Does the confidence inflation persist once a learner has been burned by a confident wrong answer, or is [[trust-calibration|miscalibration]] sticky? And at the level of a profession rather than a person, does widespread surrender deplete the shared expertise pool that oversight of AI systems itself depends on, the concern raised by [[cognitive-commons-ai-expertise-regeneration|the cognitive commons framework]]?
 
-## Limitations
-
+## Where the evidence is thin
 The evidence for surrender as a named construct rests heavily on one program of laboratory work: three preregistered experiments on an adapted Cognitive Reflection Test with convenience samples, which establishes the mechanism and the dispositional moderators but does not [[transfer-of-learning|transfer]] to high-stakes professional judgment. The design also captures single exposures, so nothing in it shows whether surrender habituates or compounds. The field evidence is observational: the ALEKS panel shows faster completion with worse proctored retention, but a causal attribution to surrender rather than to study-strategy change requires assumptions the design cannot test. Definitions are still unstable across the literature — offloading, over-reliance, dependence, attachment and problematic use are routinely conflated, and [[yan-conversational-ai-engagement-dependence-synthesis-2026|at least one synthesis]] argues that frequent delegation should not be labeled dependence without impaired control or harm. Finally, [[self-report-measures|self-reports]] of trust, need for cognition and checking behavior carry the usual limits, and much of the classroom evidence concerns [[higher-ed|higher education]] and [[k-12|secondary]] rather than early schooling.
 
 ## Common Misconceptions

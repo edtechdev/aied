@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -31,7 +31,7 @@ AI-ed evaluation spans several distinct objects of assessment. It can evaluate t
 
 The field's decade-long arc is itself a frame: [[xiong-ai-educational-measurement-review-2026|Xiong and Li (2026)]] trace three eras — Formative (2015–2018), Expansion (2019–2022) and Generative (2023–present) — across 313 articles, and argue that constructs and validity arguments must be rewritten for [[human-ai-collaboration|human–AI collaboration]], since [[item-response-theory|IRT]] and Classical Test Theory models were built on unassisted human performance.
 
-### How AI-ed evaluation appears in the research
+## How AI-ed evaluation appears in the research
 
 - **Output reliability and ground truth:** [[ground-truth-reliability-aied|Modernizing ground truth]] argues that reliability problems in AI-ed evaluation often trace back to the reference data itself — the "ground truth" labels systems are judged against — and proposes four shifts toward improving reliability and validity. [[calibrating-trustworthiness-llm-education-2026|Calibrating trustworthiness]] co-designs evaluation metrics and [[visualization|visualizations]] with stakeholders so that trust in an AI tool rests on demonstrated, interpretable evidence.
 
@@ -50,7 +50,7 @@ The field's decade-long arc is itself a frame: [[xiong-ai-educational-measuremen
 
 - **Ratable evidence is a design variable, not a property of the task.** [[durable-skills-measurement-ai-teammates-2026|Globerson et al. (2026)]] let an Executive LLM hold the rubric and steer the conversation toward the assessed skill, lifting ratable evidence to 92.4% for project management and 85% for conflict resolution, while telling participants to attend to the skill changed nothing.
 
-### Why evaluation is hard in AI-ed
+## Why evaluation is hard in AI-ed
 
 AI-ed evaluation is difficult for several reasons. First, **reliability is not enough** — a system can agree with a rubric yet misjudge pedagogy, as [[machines-misread-pedagogical-quality|human–machine alignment research]] shows. Second, **ground truth is contested** — what counts as a "correct" answer, grade, or teaching move is itself a judgment that varies across disciplines and experts, per [[ground-truth-reliability-aied|ground-truth modernization]]. Third, **educational validity is multidimensional** — [[assessment-validity]], [[formative-assessment]], and [[authentic-assessment]] each impose different criteria that a single accuracy metric cannot capture. Finally, **the target keeps moving** — agentic AI and [[multimodal]] models demand evaluation frameworks ([[agentic-ai]], [[tool-invariant-framework-agentic-ai|tool-invariant assessment]]) rather than reuse of text-model benchmarks. Evaluation findings are also subject to the same cross-cutting limitations that affect all AIED research — they age as AI improves, depend on reproducibility and FAIR practices, and may rest on proprietary systems — so evaluation results should be read with the caveats in [[limitations-in-aied-research]]. A further, emerging dimension is **resource sustainability**: on-premise deployments increasingly report energy consumption and hardware requirements (e.g., VRAM, mWh per query) alongside accuracy — see [[shen-sustainable-ai-knowledge-base-cs-education-2026|sustainable on-premise knowledge-base assistants]] — so that a complete evaluation weighs environmental and infrastructural cost, not just output quality.
 
@@ -81,11 +81,11 @@ The velocity of the systems being evaluated is a further constraint. [[ai-tutori
 
 - **An AI difficulty scale is an evaluation aid, not a grade.** AI difficulty estimates tracked problem-level pass rate strongly (rho = −0.871 across 79 problems) but weakened to −0.552 on a 106-problem CS101 sample and approached zero at exam level, so such scales belong in item review, not student evaluation ([[llm-difficulty-calibration-programming-exams-2026|Yan et al. (2026)]]).
 
-### Connections to related concepts
+## Connections to related concepts
 
 AI-ed evaluation sits at the center of the knowledge base's methods and risks. It operationalizes [[assessment-validity]], [[educational-measurement]], and [[benchmark]] within [[assessment]] and [[automated-assessment]]. Its call for human oversight connects to [[human-in-the-loop-ai]] and [[teacher-role]], while its focus on reliability connects to [[hallucination-risk]], [[automated-assessment|Confidence Aware AI Assessment]], and [[trust-calibration]]. The distinction between evaluating performance and evaluating learning links to [[genai-performance-vs-learning|performance vs. learning]] and to [[student-modeling]]; and evaluation of pedagogical agents connects to [[intelligent-tutoring]], [[llm-training-and-fine-tuning]], and [[pedagogical-safety]].
 
-### Evaluating learning gains
+## Evaluating learning gains
 
 A central object of AI-ed evaluation is the **learning gain** — the measurable improvement in knowledge or skill an AI tool produces (see [[learning-gains]]). Evaluating gains rigorously requires choosing the right outcome measure, because [[genai-performance-vs-learning|performance and learning diverge]]: AI can inflate immediate, AI-assisted task performance while leaving durable, unassisted learning unchanged or reduced (see [[generative-ai-reduced-study-time-math]], [[stromberg-generative-ai-learning-penalty-secondary-2026]]). Effective gain evaluation therefore:
 

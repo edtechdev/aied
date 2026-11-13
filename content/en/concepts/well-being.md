@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-11T15:40:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -28,7 +28,7 @@ reviewed_by: [editor]
 
 Well-being in education is multifaceted: it includes emotional well-being (positive affect, low distress), psychological well-being (purpose, autonomy, competence), and social well-being (belonging, positive relationships). In the AI era, well-being matters because AI can reshape learning in ways that affect these dimensions — from reducing students' confidence and increasing anxiety about [[academic-integrity|academic integrity]], to fostering or undermining [[student-engagement|engagement]] and belonging. Concerns about AI's impact on students' socio-emotional skills, well-being, sociability, and sense of trust and empathy (raised by the OECD and others) have positioned well-being as a key consideration in responsible AI integration.
 
-### How well-being appears in the research
+## How well-being appears in the research
 
 - **[[ai-literacy|AI literacy]] and social-emotional learning:** [[sec-ai-literacy-narrative-review-2026|Research integrating SEC into AI literacy]] argues that fostering educators' and students' emotional intelligence and well-being is essential for navigating AI-[[sociocultural-learning|mediated learning]] environments, connecting to [[social-emotional-learning]] and affective dimensions of AI.
 
@@ -64,7 +64,7 @@ A structural equation model of 502 university faculty found AI literacy predicte
 
 - **Detector anxiety as a well-being risk.** [[sovereign-hive-titl-further-education-2026|Herron (2026)]] names "flagxiety" — anxiety induced by fear of unreliable [[ai-detection|AI-detector]] allegations — and argues that marginalized further-education learners, whose cognitive uniqueness can be read as misconduct, need relational regulation rather than an unregulated interface that can trigger cognitive shutdown.
 
-### Well-being as a design consideration
+## Well-being as a design consideration
 
 A recurring theme is that well-being should be a deliberate design consideration in AI in education, not an afterthought. This means: designing AI to support rather than replace human relationships; ensuring students can maintain agency and confidence rather than experiencing [[anxiety-and-stress|AI-induced anxiety]] or over-reliance; supporting educators' capacity and well-being as they integrate AI; and [[ai-ed-evaluation|evaluating AI]] systems not only for [[learning-gains|learning outcomes]] but also for their effects on students' and teachers' well-being. [[research-methods-aied|Research]] connects well-being to [[motivation]], [[self-regulated-learning]], and [[student-experience]] (belonging and engagement). [[daoism-ai-education-philosophy-2026|Xie (2026)]] argues for an educational telos to match: the Daoist "Zhenren" (真人) counter-ideal replaces frictionless optimization with "cultivated wholeness," reimagining learning as the harmonious integration of self, society and cosmos, and insisting that "no student is merely a dataset to be managed, but a whole being capable of achieving equanimity."
 
@@ -73,7 +73,7 @@ A recurring theme is that well-being should be a deliberate design consideration
 
 A conceptual reframing grounds [[self-regulated-learning|emotion regulation]] support in physical activity and campus ecology rather than affect detection alone: no single expressive channel identifies distress without context, so AI should support regulation through exercise while teachers and counsellors keep interpretation, and affect monitoring becomes coercive once tied to attendance or grading ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]]).
 
-### Connections to related concepts
+## Connections to related concepts
 
 Well-being connects to [[student-experience]] (as a dimension of learners' overall experience), [[social-emotional-learning]] and [[affective-computing]] (the emotional competencies AI intersects with), [[ethics]] (as a core ethical consideration), [[motivation]] and [[self-regulated-learning]] (well-being supports and is supported by these), [[teacher-ai-competency]] (educators' capacity and well-being), and [[higher-ed]] and [[k-12]] as the settings where AI shapes well-being.
 

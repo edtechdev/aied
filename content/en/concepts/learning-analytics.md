@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-12T08:40:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -26,7 +26,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-### AI-enhanced analytics
+## AI-enhanced analytics
 
 - **Predictive analytics:** [[machine-learning|Machine learning]] on learner interaction data predicts outcomes — from [[at-risk-students-ml-prediction|at-risk identification]] to [[knowledge-tracing|knowledge state estimation]].
 - **Validation matters as much as prediction.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, and Carvalho (2025)]] show that predictive knowledge-state models (BKT, BKT-with-Forgetting, AFM) look accurate when fit retroactively to a full session history, yet under **time-based cross-validation** — predicting the next session from prior ones, how analytics are actually deployed — they overestimate learner performance, miss spacing/forgetting dynamics, and can mis-order practice conditions. The caution for analytics: retrospective fit can mask poor forward predictive validity on longitudinal data, so indicator and dashboard models should be validated walk-forward.
@@ -52,7 +52,7 @@ Sensor and gaze analytics is a second instrument family feeding the same learner
 
 **Interaction data is a representation problem before it is a modeling one.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] treat each human-AI exchange as one structured record carrying the computation that motivated the request, the request, the response, the user's feedback and the execution that followed, rather than as an isolated prompt. Across 140 student-assignment pairs in a 35-student deployment, interaction count alone correlated with successfully executed cells at r = 0.12, and the same call could be an error recovery, a next step, a concept check or a validation depending on the state around it. Thirty-seven pairs with access produced no interactions at all, so absence of AI use in a log cannot be read as absence of need.
 
-### The learning analytics cycle
+## The learning analytics cycle
 
 Learning analytics is canonically framed as a cycle that begins with learner activity producing data, which is processed into measures and indicators that are then translated into **interventions** — and the intervention feeds back into learner activity to close the loop. The intervention step is what distinguishes analytics from mere monitoring or prediction: without it, analytics describe and flag but never change learning. This cycle is the organizing frame for understanding where AI tools (dashboards, feedback generators, prescriptive recommenders) sit in the pipeline and which step they automate.
 
@@ -60,7 +60,7 @@ A learner-facing dashboard is only as good as its reach: in a Hong Kong Grade 9 
 
 A frequency encoding of [[qualitative-research|qualitative]] data is an entry point, not a verdict: in a ten-participant study, some instructors read frequency encodings as a productive way in while others warned they obscure rare but critical responses, so the design keeps every aggregate view linked back to verbatim student text ([[wordstream-glass-learning-analytics|Nguyen et al. (2026)]]).
 
-### From description to intervention
+## From description to intervention
 - **The evidence base is not yet intervention evidence.** Synthesizing four studies across student, disciplinary, educator and institutional levels, [[learning-analytics-genai-learning-design|Rienties, Divjak and Law (2026)]] find the field dominated by cross-sectional, [[self-report-measures|self-report]], discourse-based and expert-judgment designs, and call for intervention research testing causal mechanisms and longer-term, distributional outcomes.
 
 **A randomized-encouragement design supplies the causal anchor.** In a randomized-encouragement experiment on ASSISTments, [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan & Sales (2025)]] randomly prompted teachers new to the platform to view the assignment report after creating an assignment.
@@ -78,7 +78,7 @@ The step after the score — who gets support, and whether it was allocated wher
 An integrity outcome enters the same predictive layer. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] predicts AI-assisted cheating risk from the first eight weeks of [[video-education|Moodle and video-player]] traces, reaching an AUC of 0.763 with logistic regression, and argues the signal is usable precisely because it arrives before the exam rather than during it.
 A complementary line targets the *interpretation* of analytics itself. [[factria-responsible-institutional-analytics-2026|Marques et al. (2026)]]'s FACTRIA framework organizes the biasing factors behind an indicator - pipeline, institutional, course, and demographic - and a reflection-prompting chatbot raised the sub-factors 11 stakeholders weighed per case from 1.41 to 3.45 (d = 2.15), shifting them from direct readings to conditional ones.
 
-### Methods and network analysis
+## Methods and network analysis
 
 Network methods are core to learning analytics: [[network-analysis|transition network analysis (TNA)]] models temporal sequences of learner actions (e.g., the revision and chat loops in [[conversational-ai|chatbot]]-scaffolded writing), and [[network-analysis|epistemic network analysis (ENA)]] maps how codes/constructs co-occur across activity — together revealing the *process* of learning and learner-[[student-ai-interaction|AI interaction]] rather than only its product.([[penny-transition-network-analysis-efl-writing-2026]])([[tracing-genai-literacy-interaction-patterns]])
 
@@ -101,7 +101,7 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 - **Open, reproducible data and trace-ready analytics.** [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] releases a synthetic [[benchmark]] with a trace-ready schema (N=540; 360 sessions; 1,440 episodes) for analyzing interaction and participation balance in collaborative programming. Log and trace data are the natural counterweight to [[self-report-measures|self-report]] in this literature: the same construct is often measured twice, once by asking and once by observing, and the two do not always agree. Separately, an exploratory ML framework with SHAP analysis identified the learning-related constructs most associated with intended academic ChatGPT use among university students, prioritizing [[explainable-ai|interpretability]] ([[determinants-chatgpt-use-higher-education-2026]]).
 - **Reusable analytics infrastructure, validated only in-house (2026).** [[a4l-analytics-pipeline|Bai et al. (2026)]] reproduced published findings from three Georgia Tech AI assistants by changing configuration values rather than code, though the claim rests on reanalysis of existing single-institution datasets and the one capability extension was done by insiders.
 
-### Connections
+## Connections
 
 Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the [[ethics|ethical]] constraint), and [[edtech-platform]] (where analytics are deployed). Because prescriptive analytics are increasingly evaluated on [[simulating-students|simulated learners]] — where synthetic student cohorts substitute for real cohorts in controlled tests — learning analytics also connects to student simulation.
 

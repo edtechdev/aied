@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-10T19:46:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
@@ -28,7 +28,7 @@ Human-AI collaboration describes how learners, teachers, and [[ai-technologies|A
 
 The division of labor also runs through the people who design the interaction. Across [[ai-integration-instructional-design-collaboratory-2026|twelve teacher-education course implementations]], faculty positioned AI as a thinking partner, critique generator or rehearsal tool while candidates kept responsibility for evaluating, adapting and justifying decisions, yet the same white paper reports that candidates devalued feedback they had already judged useful once AI authorship was disclosed, an episode it calls the balloon popping effect. An [[tang-chatbots-learning-design-2026|analysis of 1,378 designer-chatbot turns]] points the other way on generation: designers used an embedded assistant mainly for alignment checks on learning outcomes and pedagogical approach rather than for producing content. In both cases the human's [[evaluative-judgment|evaluative judgment]], not the model's output, carries the learning.
 
-### Benefits, risks, and design implications
+## Benefits, risks, and design implications
 
 The knowledge base's evidence shows that human-AI collaboration is a double-edged arrangement whose outcome is determined by design rather than by AI itself:
 
@@ -51,7 +51,7 @@ The knowledge base's evidence shows that human-AI collaboration is a double-edge
 
 This makes human-AI collaboration a *pedagogical* construct as much as a technical one: the value of the partnership is shaped by how teachers design the interaction, how learners regulate it, and how the system invites or discourages productive engagement.
 
-### How human-AI collaboration appears in the research
+## How human-AI collaboration appears in the research
 
 - **Trust and expectations:** [[human-ai-collaboration-trust-expectations|Trust expectations]] examine how learners' expectations of AI shape whether collaboration is productive or leads to [[cognitive-offloading|Over-Reliance]].
 - **Complementary roles in writing and thinking:** [[humanlike-ai-collaborative-writing|Humanlike AI collaborative writing]] and [[genai-mindtool-generative-learning|GenAI as a mindtool]] show how AI can augment rather than replace learner thinking when the division of labor preserves the learner's cognitive engagement.
@@ -86,7 +86,7 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 - **Guiding, not telling, needs its own criterion for judging an agent.** A design case that set out to mirror teacher facilitation found that a knowledge agent bounded to a curated base could be judged on accuracy, while an agent meant to lead students toward their own answers could not ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 - **Partnership extends to the research process itself, not just student learning** — [[potter-participatory-design-writing-analytics-2026|Potter et al. (2026)]] had GPT-4o draft codes and preliminary themes in a secure RAG platform while three core researchers and two external validators kept interpretive authority, consolidating four final themes. The hybrid workflow redistributed researcher labor rather than removed it.
 
-### Connections
+## Connections
 
 Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agentic-ai]] (autonomy), [[teacher-role]] (teachers' changing work), [[scaffolding]] and [[metacognition]] (how collaboration supports learning), and [[cognitive-offloading|Over-Reliance]] (the failure mode when collaboration becomes substitution). It is a core theme across [[ai-literacy]], [[self-regulated-learning]], and [[student-experience]].
 

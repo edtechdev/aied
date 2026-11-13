@@ -1,7 +1,7 @@
 ---
 title: Video in Education
 created: "2026-09-05T01:05:00-04:00"
-updated: "2026-11-05T23:00:00-05:00"
+updated: "2026-11-12T21:50:00-05:00"
 type: concept
 pedagogy: [online-teaching-and-learning, student-engagement, video-education]
 technology: [adaptive-learning, generative-ai, learning-analytics, llm, multimodal, personalized-learning]
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 Video is a cornerstone of contemporary education — especially [[online-teaching-and-learning|online and hybrid learning]] — prized for its flexibility, scalability, and consistency. Yet conventional instructional video is produced as a one-size-fits-all artifact, presenting identical content to every learner regardless of their interests, background, or [[prior-knowledge|prior knowledge]]. Generative AI is shifting video from a static broadcast medium to a dynamic, individually tailored one, and is also generating new questions about presence, [[trust]], [[privacy]], and measurement.
 
-### How the knowledge base's research clusters
+## How the knowledge base's research clusters
 
 - **AI-generated and personalized instructional video.** A central thread asks whether students accept AI-produced video and how it compares to human-recorded content. [[ai-generated-instructional-videos-computing-ed|Student surveys in computing education]] probe perceptions and preferences for AI-generated instructional video. In a large field deployment, [[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]] found that students preferred AI-generated *personalized* videos over non-personalized human-recorded lectures — a preference in which the personalization effect outweighed the value placed on a human presenter. [[ai-video-dual-gatekeeping-2026|Dual gatekeeping research]] shows how instructor oversight ("gatekeeping") across two stages of AI video production yields more pedagogically grounded output, connecting to [[human-in-the-loop-ai|human-in-the-loop]] design.
 - **Adaptive and structured video generation.** [[courseblueprint-adaptive-video-generation|CourseBlueprint]] offers a structured pipeline that generates adaptive pedagogical video grounded in course corpora, showing that explicit pedagogical structure — not just [[ai-literacy|AI fluency]] — drives effective AI video. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] applies the same logic at whole-lecture scale: from 31 graduate lectures it generated 209 videos for healthcare, finance, energy, and a generic audience, and 25 domain-matched experts rating 92 of them placed 87% at or above the midpoint written as "a standard MOOC lecture's quality" (mean 3.42 out of 5), at about \$0.22 in API cost per minute — with voice, slide timing, and layout the recurring defects.
@@ -39,23 +39,13 @@ Video is a cornerstone of contemporary education — especially [[online-teachin
 - **Transcript fidelity gates what text can stand in for video.** [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard and Rosenberg (2026)]] benchmarked five ASR systems against a human reference transcript on Crash Course U.S. History episodes, with word error rates ranging from 2.43% (TurboScribe) to 15.32% (Vosk). GPT-5.5 coding of the 48 transcripts found PERSON the most frequent named-entity category (2,033 total; M = 42.35 per episode), and a predefined K-scan selected K = 5, where LLM reference expansion produced clearer topic separation than the ASR baseline.
 - **Region-level zoom is the layer narrated slides were missing.** A within-subjects study with 24 viewers found automatic zoom plus synchronized highlights cut NASA-TLX workload from 5.74 to 4.53 (d = 0.84) and raised immediate comprehension (d = 0.46), though the 24-hour advantage missed significance (p = .054) ([[lian-guideslide-narrated-slides-visual-guidance-2026|Lian et al., 2026]]).
 
-### Personalization versus human presence
+## Personalization versus human presence
 
 A recurring tension is whether the value of [[personalized-learning|personalization]] can outweigh the value of a visible human instructor. [[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]] frame personalization and social presence as *partially substitutable signals of instructional care*: human delivery enhances [[affective-computing|affective]] experience and authenticity, while personalization enhances relevance — and students are willing to trade one for the other. Their large-course ranking data (88.4% preferred some personalized video; only 73.8% preferred human-recorded) suggest personalization is now often the more influential factor, pointing toward a complementary model where human instructors supply expertise and social connection while AI extends their reach with individually tailored media.
 
-### Design, ethics, and measurement
+## Design, ethics, and measurement
 
 Producing effective AI video requires pedagogical structure and human oversight, and it raises distinct concerns: AI presenters may evoke discomfort or distrust (the "uncanny valley"); generative video risks factual inaccuracy that learners may not catch; scaling personalization requires collecting or inferring learner attributes, with attendant [[privacy]], bias, and [[governance]] concerns; and a subset of learners object to AI-generated instruction on principled grounds (environmental impact, labor, automation, [[academic-integrity|academic integrity]]). Measurement is likewise in flux — much evidence rests on stated preference and perceived value rather than objective learning outcomes, so preference data must be read alongside (often forthcoming) outcome data.
-
-## Common Misconceptions
-
-**"Students preferred the AI video, so it teaches better."** Preference and learning are separate measures, and much of this literature rests on the first. In a large online course (493 respondents), students ranked AI-generated personalized videos above non-personalized human-recorded lectures (mean rank 2.26 versus 2.69) and 88.4% ranked some personalized video first — a clean preference result. The page's own caution applies: evidence here rests substantially on stated preference and perceived value rather than objective [[learning-gains|learning outcomes]], so preference data has to be read alongside outcome data, not in place of it. A video that feels better tailored is not thereby teaching more.
-
-**"AI-generated scaffolding comments can substitute for an instructor's."** They differ in a way that matters for instruction. Benchmarked against 120 comments from experienced instructors, ChatGPT's 1,000 comments were *denser* but far less structurally varied (POS 3-gram diversity 5.5–6.2%), and 40 learners rated the human comments significantly higher on timing and helpfulness — though a newer model narrowed that gap. Volume and density are not the same as the varied, paced commentary a good instructor produces, and the narrowing gap is a trend to track rather than a settled equivalence.
-
-**"Cloning an instructor into an avatar scales human presence."** It scales production and changes what is being delivered. AI avatars cloned from instructors can generate video at scale, but they also trigger uncanny-valley discomfort and raise [[ethics|ethical]] objections spanning environmental impact, labor and [[academic-integrity|integrity]]. The presence being scaled is a simulation of the instructor, and the costs attach to the simulation.
-
-**"Generating many variants of one lecture is personalization."** Variant count is a production figure, not an instructional one. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] generated 209 videos from 31 graduate lectures across healthcare, finance, energy and a generic audience, which demonstrates the pipeline's capacity; whether any variant matched a given learner's needs is a separate question that the generation count cannot answer.
 
 ## Implications for Practice
 
@@ -75,6 +65,16 @@ Producing effective AI video requires pedagogical structure and human oversight,
 
 - Report preference and outcome measures together, and state plainly when a study has only the first.
 - Report temporal alignment explicitly, given that misalignment between video content and [[cognitive-psychology|cognitive processing]] shows up in the neural data.
+
+## Common Misconceptions
+
+**"Students preferred the AI video, so it teaches better."** Preference and learning are separate measures, and much of this literature rests on the first. In a large online course (493 respondents), students ranked AI-generated personalized videos above non-personalized human-recorded lectures (mean rank 2.26 versus 2.69) and 88.4% ranked some personalized video first — a clean preference result. The page's own caution applies: evidence here rests substantially on stated preference and perceived value rather than objective [[learning-gains|learning outcomes]], so preference data has to be read alongside outcome data, not in place of it. A video that feels better tailored is not thereby teaching more.
+
+**"AI-generated scaffolding comments can substitute for an instructor's."** They differ in a way that matters for instruction. Benchmarked against 120 comments from experienced instructors, ChatGPT's 1,000 comments were *denser* but far less structurally varied (POS 3-gram diversity 5.5–6.2%), and 40 learners rated the human comments significantly higher on timing and helpfulness — though a newer model narrowed that gap. Volume and density are not the same as the varied, paced commentary a good instructor produces, and the narrowing gap is a trend to track rather than a settled equivalence.
+
+**"Cloning an instructor into an avatar scales human presence."** It scales production and changes what is being delivered. AI avatars cloned from instructors can generate video at scale, but they also trigger uncanny-valley discomfort and raise [[ethics|ethical]] objections spanning environmental impact, labor and [[academic-integrity|integrity]]. The presence being scaled is a simulation of the instructor, and the costs attach to the simulation.
+
+**"Generating many variants of one lecture is personalization."** Variant count is a production figure, not an instructional one. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] generated 209 videos from 31 graduate lectures across healthcare, finance, energy and a generic audience, which demonstrates the pipeline's capacity; whether any variant matched a given learner's needs is a separate question that the generation count cannot answer.
 
 ## Connected Concepts
 

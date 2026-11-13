@@ -1,7 +1,7 @@
 ---
 title: Distributed Cognition
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-07T13:45:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
@@ -23,7 +23,7 @@ reviewed_by: [editor]
 
 This is a learning-theory concept within the knowledge base's [[learning-theories]] strand, closely related to [[embodied-learning]], [[situated-learning]], and [[cognitive-offloading]]. Distributed cognition (DCog), originating in the work of Edwin Hutchins and colleagues, describes how cognitive processes such as memory, reasoning, and [[problem-solving]] are spread across multiple agents and material systems rather than residing in a single head. In [[ai-education|AI education]] this matters because AI systems increasingly function as genuine cognitive partners that carry part of the thinking load, raising the question of *where* learning actually happens and *who* is responsible.
 
-### How AI shifts the distribution of cognition
+## How AI shifts the distribution of cognition
 
 Generative and interactive AI systems redistribute cognitive work in ways earlier tools did not. The knowledge base documents several dimensions of this shift:
 
@@ -39,7 +39,7 @@ Generative and interactive AI systems redistribute cognitive work in ways earlie
 
 - **Extended cognition as a design choice, not a tool property.** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa and Duarte Arias (2026)]] argue that generative AI is substitutive by default because it performs the cognitive task, but the same system becomes complementary when it critiques a draft or supplies feedback the learner must evaluate. Their extended-mind frame makes the unit of analysis the artifact plus its use, which is the normative version of this page's distribution question.
 
-### Distributed cognition and related perspectives
+## Distributed cognition and related perspectives
 
 The knowledge base treats distributed cognition alongside its neighboring theoretical traditions, which overlap but are not identical:
 
@@ -48,11 +48,11 @@ The knowledge base treats distributed cognition alongside its neighboring theore
 - **[[cognitive-offloading]]** is the practical mechanism by which cognitive work is handed off to external systems (including AI), and is the risk-laden counterpart to DCog's descriptive account.
 - **Extended cognition / the extended mind thesis** (used in posthumanist work) holds that external artifacts can be *constitutive* parts of a cognitive system, not merely instruments — a stronger claim that AI is part of the learner's mind itself.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### Whose cognition? The unit-of-analysis problem
+## Whose cognition? The unit-of-analysis problem
 
 [[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] pushes that unit-of-analysis question harder than most work in this tradition. His claim is that literacy is not an individual possession but something enacted with materials and machines, which makes the individual learner the wrong unit of analysis. A competence framework centered on the person therefore cannot register infrastructural or nonhuman contributions, so the field keeps naming distribution and then resolving it back onto the learner. The equity edge is his difficulty argument: reflexivity depends on lived experience and relations of power, so students whose language or writing practices sit furthest from the encoded norm carry the largest cost. The argument is theoretical and reports no dataset, and its design orientations remain untested proposals.
 
-### Why it matters for AI design and evaluation
+## Why it matters for AI design and evaluation
 
 Distributed cognition provides both a design lens and an evaluation lens. For design, it asks how to apportion cognitive work between learners and AI to preserve (not erode) the human learner's agency, [[metacognition]], and self-regulation. For evaluation, it reframes success metrics: instead of asking only "did performance improve?", DCog asks whether the distribution of cognition supports durable learning, epistemic agency, and educational justice — a perspective that connects to the knowledge base's [[ai-ed-evaluation]] and [[learning-theories]] concerns.
 

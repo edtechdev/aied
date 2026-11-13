@@ -1,7 +1,7 @@
 ---
 title: Empathy
 created: "2026-11-10T21:10:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T21:45:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [professional-training, experiential-learning, social-emotional-learning]
@@ -74,8 +74,7 @@ The newest line of work asks what AI empathy does to human empathy. Across four 
 
 For education this cuts two ways. A [[curriculum-design|curriculum]] that uses AI to practice empathy may be building the skill; a campus culture that routes emotional support to chatbots may be eroding the motivation to use it. The two effects are compatible, and nothing in the current literature measures them together.
 
-## What this means for practice
-
+## Implications for Practice
 - **Separate the three questions.** When someone claims AI improves empathy, ask whether they mean teaching humans, measuring humans, or simulating empathy. The evidence differs for each.
 - **Do not accept [[self-efficacy|self-efficacy]] as an empathy outcome.** Confidence is cheap and rises after almost any rehearsal; observation, standardized patients or patient ratings are the measures that matter.
 - **Treat vision scores as second readers.** Physical-contact detection is usable for [[formative-assessment|formative feedback]]; smile and eye-contact detection are not, without scenario context a model does not have.

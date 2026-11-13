@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -24,11 +24,11 @@ reviewed_by: [editor]
 
 ## Introduction
 
-### Why It Matters for AIED
+## Why It Matters for AIED
 
 Mainstream AI and educational-technology research has historically been dominated by Western, English-language datasets and [[governance|institutional]] contexts. This creates two problems: (1) [[ai-technologies|AI systems]] trained on such data may underperform or misrepresent learners in Global South settings, and (2) evaluation [[benchmark|benchmarks]] built in the Global North may not reflect the educational realities, languages, or knowledge traditions of other regions. Research from Global South contexts in this knowledge base spans culturally grounded datasets, benchmarks, and technology-adoption studies, with implications for [[ai-literacy]] and [[higher-ed|higher]] and [[k-12|K-12]] education.
 
-### Applications in the Knowledge Base
+## Applications in the Knowledge Base
 
 - **Culturally grounded data and benchmarks:** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] provides a [[multilingual-learning|multilingual]] Indian Knowledge Systems instruction dataset; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] introduces a Ghana-based [[stem-education|STEM]] benchmark, one of the first Global South educational evaluation datasets.
 - **AI ethics awareness in Ghanaian higher education:** [[ai-ethical-awareness-ghana-students-2026|Acquah et al. (2026)]] validated a three-factor (autonomy, beneficence, fairness) AI ethical awareness scale with 509 [[higher-ed|university]] students in Ghana, finding five latent profiles from uniformly very high awareness to a small cluster with almost none — weakest on beneficence — and no gender differences, providing a Global South measurement anchor for the AI-[[ethics]] literature.
@@ -44,7 +44,7 @@ Mainstream AI and educational-technology research has historically been dominate
 
 - **Equity is the least-studied dimension across the region.** A PRISMA-ScR [[meta-analysis-systematic-review|scoping review]] of 75 Global South studies (2022–2025) found equity the least-examined of its five areas despite its centrality to inclusive education, and reported a gap between students' stated ethical positions and their behavior ([[nguyen-genai-global-south-review-2026|Nguyen & Perkins, 2026]]).
 
-### Implications
+## Implications
 
 Attending to Global South contexts requires moving beyond assuming Western models and benchmarks transfer directly. It calls for locally grounded datasets, culturally relevant [[pedagogy]], community-centered evaluation standards, and research that treats learners' lived and community epistemologies as authoritative — aligning with frameworks like community-based AI learning and [[technology-acceptance-model|technology-acceptance]] research adapted to local conditions.
 

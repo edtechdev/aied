@@ -1,7 +1,7 @@
 ---
 title: Lifelong Learning
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:50:00-05:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
@@ -24,7 +24,7 @@ reviewed_by: [editor]
 
 Lifelong learning refers to continuous education throughout life — upskilling, reskilling, [[educational-development|professional development]], and informal learning beyond formal degrees. AI is increasingly central to this, both as a tool that supports adult learners and as a force that changes the skills adults must continually update.
 
-### How lifelong learning appears in the research
+## How lifelong learning appears in the research
 
 - **Design guidelines for adult learning:** [[ai-adult-learning-guidelines-dis2026|Research from the AI-ALOE institute]] synthesizes empirically grounded design guidelines for AI-powered adult-learning technologies, emphasizing practical, context-sensitive support.
 - **AI-guided skill acquisition:** [[ai-guided-learning-audiovideo-2026|AI-guided audio/video learning]] shows how AI can scaffold the consume–understand–imitate stages of skill acquisition, adapting media to the learner.
@@ -34,17 +34,9 @@ Lifelong learning refers to continuous education throughout life — upskilling,
 - **Policy and community:** [[ai-lifelong-learning-policy|AI in lifelong-learning policy]] and [[community-centered-ai-education-adults|community-centered AI education]] address the institutional and equity dimensions of adult AI learning.
 - **Expertise regeneration is itself at risk.** In the most AI-exposed US occupations, workers aged 22–25 saw a 16% relative employment decline (Oct 2022–Sep 2025) while those 35–49 grew over 8%, and the deep expertise needed to validate AI outputs depends on the entry-level roles that decline removes ([[cognitive-commons-ai-expertise-regeneration|Lovett (2026)]]).
 
-### Connections
+## Connections
 
 Lifelong learning connects to [[adult-learning]] and [[professional-training]] (its primary contexts), [[personalized-learning]] and [[adaptive-learning]] (the AI mechanisms that support it), [[self-regulated-learning]] and [[metacognition]] (the learner processes involved), and [[equity-in-ai-education]] (access across the lifespan). It also intersects with [[educational-development]] when educators themselves are the lifelong learners.
-
-## Common Misconceptions
-
-**"AI exposure mainly threatens entry-level tasks, so experienced workers are safe."** The employment pattern inverts part of that assumption while the expertise problem runs deeper. In the most AI-exposed US occupations, workers aged **22–25 saw a 16% relative employment decline (Oct 2022–Sep 2025)** while those **35–49 grew over 8%** — protection that attached to accumulated expertise. But the pipeline that produces that expertise runs through the entry-level work now being reduced, so the protection is time-limited in a way the cross-sectional figure hides. **Expertise regeneration is itself at risk**: if the formative work disappears, the cohort that would become the experienced practitioners is smaller.
-
-**"Lifelong learning means adults taking more courses."** Course-taking is one delivery form of a broader requirement: maintaining and rebuilding competence as the tasks change. A workforce that needs continuous regeneration is not short of course offerings; it is short of the practice opportunities where new competence is actually formed.
-
-**"Lifelong learning is a personal responsibility, so institutional design is secondary."** The regeneration problem is structural — it concerns where formative work exists at all — and individuals cannot create the work their own development requires. Framing it as motivation explains nothing about the 16% decline concentrated at the bottom of the age distribution.
 
 ## Implications for Practice
 
@@ -63,6 +55,14 @@ Lifelong learning connects to [[adult-learning]] and [[professional-training]] (
 
 - Report employment effects by age band rather than as an aggregate displacement figure; the 16% versus 8% contrast is the finding.
 - Study where formative work is disappearing, since that is the mechanism by which current gains become future shortages.
+
+## Common Misconceptions
+
+**"AI exposure mainly threatens entry-level tasks, so experienced workers are safe."** The employment pattern inverts part of that assumption while the expertise problem runs deeper. In the most AI-exposed US occupations, workers aged **22–25 saw a 16% relative employment decline (Oct 2022–Sep 2025)** while those **35–49 grew over 8%** — protection that attached to accumulated expertise. But the pipeline that produces that expertise runs through the entry-level work now being reduced, so the protection is time-limited in a way the cross-sectional figure hides. **Expertise regeneration is itself at risk**: if the formative work disappears, the cohort that would become the experienced practitioners is smaller.
+
+**"Lifelong learning means adults taking more courses."** Course-taking is one delivery form of a broader requirement: maintaining and rebuilding competence as the tasks change. A workforce that needs continuous regeneration is not short of course offerings; it is short of the practice opportunities where new competence is actually formed.
+
+**"Lifelong learning is a personal responsibility, so institutional design is secondary."** The regeneration problem is structural — it concerns where formative work exists at all — and individuals cannot create the work their own development requires. Framing it as motivation explains nothing about the 16% decline concentrated at the bottom of the age distribution.
 
 ## Connected Concepts
 

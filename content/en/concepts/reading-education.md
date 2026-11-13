@@ -1,7 +1,7 @@
 ---
 title: "Reading Education"
 created: "2026-11-05T02:16:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T21:05:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding, motivation, cognitive-psychology]
@@ -85,6 +85,8 @@ The strand is measurement-rich and outcome-poor. There are validated instruments
 
 Early-elementary fluency is the exception so far: in one school, first and second graders who logged at least 10 minutes a week for 6 weeks outgained low-dosage peers (g = 0.56), a dosage contrast rather than a trial ([[burns-ai-tutor-reading-growth-2026|Burns and Morton (2026)]]).
 
+[[kreijkes-llm-note-taking-reading-comprehension-2026|Kreijkes and colleagues (2026)]] tested whether a chatbot helps readers in a pre-registered experiment with 344 Year 10 students across seven English secondary schools. Each student read two history passages with an LLM, with note-taking, or with both; three days later, note-taking alone beat the LLM on literal retention (d = 0.44), comprehension (d = 0.38) and free recall (d = 0.21). LLM + Notes recovered some ground on the first two but not on free recall (beta = -0.08, p = .854). Students rated the LLM easier, more helpful and more enjoyable while scoring lower, and 25.63% of those in the combined condition copied more than 70% of its wording into their notes.
+
 ## Common Misconceptions
 
 - **"A readability score tells you whether a text is suitable."** A score measures surface features; CLARA's comparison with FKGL and Clark et al.'s processing features both show how much of difficulty it leaves out.
@@ -120,3 +122,4 @@ Early-elementary fluency is the exception so far: in one school, first and secon
 - [[airri-machine-resistant-reading-interface-2026]] — machine-resistant reading interfaces and their readability cost
 - [[chatgpt-feedback-orientation-chinese-reading-2026]] — ChatGPT feedback in secondary reading
 - [[dabaghi-ai-dyslexia-education-review-2026]] — AI for learners with dyslexia
+- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — LLM use, note-taking and reading comprehension in secondary schools: the randomized comparison

@@ -1,7 +1,7 @@
 ---
 title: Sociocultural Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
@@ -21,7 +21,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-### The concept
+## The concept
 
 Sociocultural theory (Vygotsky, 1978; Luria; Leontiev) holds that higher mental functions develop through participation in culturally organized activity. Unlike accounts that locate learning solely in the individual's information processing, the sociocultural view emphasizes that:
 
@@ -29,13 +29,13 @@ Sociocultural theory (Vygotsky, 1978; Luria; Leontiev) holds that higher mental 
 - **Learning is social.** Higher mental functions appear first between people (intersubjectively, in interaction) and only later within the individual. Learning arises through participation with [[teacher-role|teachers]], peers, and communities — in processes like [[scaffolding]], apprenticeship, and movement through the ZPD.
 - **[[distributed-cognition|Cognition is distributed]].** Cognitive work is spread across people, artifacts, and environments (Hutchins; Clark & Chalmers; Pea), rather than contained in the individual mind. [[distributed-cognition|Distributed cognition]], [[situated-learning|situated learning]], and communities of practice extend the sociocultural strand.
 
-### The Zone of Proximal Development (ZPD)
+## The Zone of Proximal Development (ZPD)
 
 The ZPD (Vygotsky) is the sociocultural concept most widely applied in [[intelligent-tutoring|AI tutoring]]: the space between what a learner can do alone and what they can do with assistance. Learning happens most effectively when instruction targets this zone — challenging enough to push development, supported enough to make progress. It is the theoretical foundation of [[scaffolding]]: temporary, adjustable support withdrawn as competence grows. In AI in education, ZPD frames the central design question of how much support an [[intelligent-tutoring|AI tutor]] should provide so learning advances without being given away — see [[stanford-evidence-base-ai-k12-2026]].
 
 Machine-made help can land inside that zone. In a randomized study of 274 [[adult-learning|adult learners]] across four mathematics subjects, ChatGPT-generated worked-solution hints produced a 17.00% pre-to-post gain against 1.85% with no hints, while human tutor-authored hints produced 11.62%; the two help conditions were not statistically separable ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos and Bhandari, 2024]]). The error rate qualifies the equivalence: 32% of the generated hints failed quality checks until self-consistency [[prompt-engineering|prompting]] cut that to near zero in the three algebra subjects and 13% in statistics. A more knowledgeable other that is wrong one time in three is still a mediational agent, which is why the machine's contribution has to be checked before a learner builds on it.
 
-### Sociocultural learning in AI education
+## Sociocultural learning in AI education
 
 Sociocultural theory shapes AIED [[research-methods-aied|research]] in several distinct ways:
 
@@ -50,7 +50,7 @@ Sociocultural theory shapes AIED [[research-methods-aied|research]] in several d
 
 - **Validating talk measures requires the youth whose talk is measured.** Re-contextualizing talk-move definitions with four focal students raised [[llm]] classification F1 by +0.104 for Claim and +0.23 for Question, and students' own interpretations diverged from adult and model framings — a structural limit of text-based classification, not a data-size problem ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
 
-### Connection to cognitive load and metacognition
+## Connection to cognitive load and metacognition
 
 The sociocultural strand is tightly coupled to [[cognitive-offloading|Cognitive Load]] Theory (support should manage load without eliminating productive effort) and to [[metacognition]] (learners in the zone are actively monitoring and regulating their understanding). [[stanford-evidence-base-ai-k12-2026]] synthesizes [[k-12|K-12]] evidence that AI tools work best when they keep learners in the ZPD rather than answering for them, and [[human-in-the-loop-ai]] research addresses how human and AI support jointly define the learner's zone.
 

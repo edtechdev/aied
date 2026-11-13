@@ -1,7 +1,7 @@
 ---
 title: Item Response Theory
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
@@ -24,7 +24,7 @@ reviewed_by: [editor]
 
 IRT treats ability (θ) and item parameters (difficulty, discrimination, sometimes guessing) as jointly estimated from response patterns, rather than treating a raw score as the measure. This makes it possible to compare learners on a common scale, to select items adaptively, and to estimate precision per person rather than globally.
 
-### How IRT appears in the research
+## How IRT appears in the research
 
 - **AI-predicted difficulty:** [[llm-item-difficulty-prediction|LLM item-difficulty prediction]] uses language models to estimate item difficulty, which must be validated against empirically fitted IRT parameters.
 - **Psychometric calibration:** [[llm-psychometric-calibration-cdp|LLM psychometric calibration]] aligns model-based assessment with IRT-based measurement so that AI-generated responses preserve measurement properties.
@@ -54,7 +54,7 @@ IRT treats ability (θ) and item parameters (difficulty, discrimination, sometim
 - **How rarely IRT anchors instrument validation:** an appraisal of [[teacher-role|teacher]] [[ai-literacy|AI literacy]] instruments quantifies IRT's absence rather than its use. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] graded 33 instruments against a decision matrix adapted from COSMIN and Terwee et al. (2007); structural validity was strong, with 24 (72.7%) at Grade A through CFA, PLS-SEM or IRT modeling, yet none used IRT or Rasch as its primary evidence, and only five instruments (15.2%) reported measurement invariance or differential item functioning evidence. The authors argue for IRT and performance tasks alongside [[self-assessment]] to separate validated capability from reported confidence.
 - **A causal alternative to associative IRT.** [[causal-modeling-competency-assessment-2026|Mangili et al. (2026)]] argue IRT and Bayesian-network learner models cannot express interventions or counterfactuals, and elicit structural equations from experts instead; on a 109-student adaptive-test battery the elicited model was slightly less predictive (−287 versus −277 test log-likelihood) yet supported counterfactual queries about help.
 
-### Connections
+## Connections
 
 IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], underpins [[adaptive-learning]] (adaptive item selection) and [[student-modeling]], and connects to [[psychometrically-aware-ai]] (AI assessment aligned with measurement theory) and [[knowledge-tracing]]. It features in [[llm-difficulty-calibration-programming-exams-2026|LLM difficulty calibration]] for programming assessment.
 

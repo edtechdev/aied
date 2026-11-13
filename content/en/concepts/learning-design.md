@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-12T16:10:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -41,7 +41,7 @@ What that design work involves in practice is itself an empirical question. [[ta
 
 [[learning-analytics|Learning analytics]] and generative AI support different parts of design: across 11 focus groups at one Australian university, analytics discourse co-occurred most with context and course-level [[problem-solving]] (0.32), while GenAI discourse centered on [[assessment|assessment design]] (0.26) and designing for student self-determination (0.15) ([[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]]).
 
-### Key research themes
+## Key research themes
 
 **AI-assisted content creation** is the most directly transformative application. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]** presents a six-phase architecture integrating Generative AI with LaTeX and Python to automate [[stem-education|STEM]] materials creation, validated across 8 modules and 28 project contexts with student quality ratings of 8.5-9.9/10. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** uses a multi-agent framework structured around the ADDIE model, with role-based agents (Teaching Faculty, Instructional Designer, Course Coordinator) collaborating to generate complete course materials. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]** provides a structured pipeline for adaptive [[pedagogy|pedagogical]] [[video-education|video generation]] grounded in course corpora, demonstrating that explicit pedagogical structure — not just AI fluency — is essential for educational content generation. [[generative-ai|Generative AI]] platforms can also embody learning-design principles in the content they produce: [[ai-modeling-problem-generation-platform-2026|an AI-powered platform for generating mathematical modeling problems]] combined established design principles with [[rag|retrieval-augmented generation]], developed through the ADDIE approach to produce pedagogically grounded tasks and recommendations that conventional content generators lack. Yet the payoff of such AI-assisted content and lesson generation is mediated by the teacher's own expertise: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] found that experienced teachers critically adapt AI-generated lesson ideas to students and context (re-prompting and elaborating on output), whereas novices tend to accept AI suggestions directly — so the pedagogical value of AI content tools depends on the teacher's experience and AI proficiency, not the tool alone. A systematic review of [[wang-teacher-ai-co-design-review-2026|teacher–AI co-design of learning tasks]] (Wang, Liu & Islam 2026) confirms the pattern at scale across 28 studies (2015–2025): GenAI is used mainly for lesson planning, prompt generation, and creative ideation, and the dominant collaboration mode is AI as assistant/content generator rather than a fuller co-designer — with efficiency, responsiveness, [[creativity]], and [[equity-in-ai-education|equity]] recurring as affordances. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] sharpens the teacher-expertise finding for group activity design: experienced teachers produce richer, more synergistic, better ZPD-aligned role architectures in AI-designed cooperative activities than novices regardless of AI familiarity, framing "pedagogical prompt literacy" as the lever that turns AI output into effective [[collaborative-learning|differentiated group learning]].
 
@@ -65,19 +65,19 @@ Prose quality is the other shortfall, and it is not the same as reading level. C
 
 **Adapted content costs time, not tool skill.** Education professionals named time, materials and competing duties as the obstacles to producing differentiated material, with only 12% calling technology a major barrier ([[hilali-adaptive-learning-challenges-2026|Hilali and Chergui (2026)]]).
 
-### Connections to related concepts
+## Connections to related concepts
 
 Learning design is the bridge discipline of [[ai-education|AI in education]] — it connects [[curriculum-design]] (what to teach) with [[scaffolding]] (how to support learners), [[educational-development]] (how to prepare educators), and [[generative-ai]] (the tools themselves). It is tightly coupled with [[teacher-role]] because AI tools reshape what learning designers and teachers do, and with [[ai-literacy]] because effective AI integration requires educators to understand AI capabilities and limitations. Design work ultimately resolves into an *order of activity*: [[pedagogical-patterns|pedagogical patterns]] catalogue the tested orders of moves, so a designer can decide where in a lesson AI belongs rather than only what to include. The [[learning-sciences|learning sciences]] are the research field behind these principles: where this page covers the professional practice of creating learning experiences, the learning sciences study that practice and its designs empirically and generate the cognitive, [[motivation|motivational]] and social principles that learning design then operationalizes.
 
-### Co-design and what must stay human
+## Co-design and what must stay human
 
 Co-design is the part of design practice where the relational work is least substitutable. [[zeivots-postdigital-co-design-genai-2025|Zeivots et al. (2025)]] treat [[generative-ai|GenAI]] as an unreliable collaborator rather than a drafting tool, and build a three-phase sequence around that unreliability: the model provokes, pluralises and facilitates, while the group interrogates its framings, generates counter-narratives and holds the deliberation itself. What stays human is the negotiation — which voices are missing, which framing the group adopts, and what the shared understanding will be. The article is a collective forum of nineteen authors with no experiment, so the sequence is a proposal about practice rather than a tested method.
 
-### How learning design determines learning gains
+## How learning design determines learning gains
 
 Learning design is the lever that decides whether AI produces [[learning-gains|learning gains]] or merely AI-inflated performance. The knowledge base's evidence is consistent on this: **the same AI tool yields large gains or net harm depending on how the learning experience is designed around it.** [[instructional-guidance-genai-learning|Hou et al.]] showed that a five-step prompting framework grounded in learning theory significantly improved higher-order cognitive outcomes, while access to AI alone did not; [[genai-mindtool-generative-learning|mindtool]] and [[airis-cognitively-activated-ai-physics-2026|AIRIS]] frameworks preserve the learner's cognitive work so that durable gains (rather than task-efficiency) result. Design choices that protect [[learning-gains]] — scaffolding that requires a student attempt, [[formative-assessment]] with unassisted outcome measures, and pedagogical structure that keeps the learner the agent — mirror the field's finding (see [[learning-gains]]) that AI is a strong gain when it coaches and a harm when it answers. Conversely, poorly designed AI-integrated lessons fall prey to the [[cognitive-offloading|performance-learning gap]], where apparent success masks no learning.
 
-### Practical guidance for designers and developers
+## Practical guidance for designers and developers
 
 For instructional designers, course developers, and engineers building AI-assisted learning experiences, the knowledge base's findings translate into actionable practice. One boundary is worth marking before the practices themselves: learning design as this page describes it is the design of a course for a known cohort, whereas the same principles baked into a product that many courses — taught by people the designer will never meet — will use are the work of [[educational-technology-developers]], where defaults, configurability and documentation carry pedagogical weight:
 

@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-10T22:35:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -26,7 +26,7 @@ reviewed_by: [editor]
 
 Creativity spans the divergent-thinking end of the cognitive spectrum — generating multiple possibilities — in contrast to convergent thinking, which arrives at a single correct solution. AI systems are especially relevant to creativity because they are statistical generators: they can propose many options (supporting ideation) but also tend toward the average, producing the idea-level homogenization documented when many students rely on the same model.
 
-### Creativity and generative AI
+## Creativity and generative AI
 
 - **Amplification:** AI can act as a divergent-thinking partner — brainstorming alternatives, generating counterarguments, and offering perspectives the learner might not consider. Role-specialized [[agentic-ai|multi-agent]] configurations can restore ideational diversity.
 - **Modality matches the creative phase.** In a 2 × 2 experiment with 120 art and design students, text-based AI during divergence outperformed image-generative AI on divergent creative performance (mean difference 0.823, Holm-adjusted p < 0.001) ([[wei-genai-configurations-creative-phases-2026|Wei & Li (2026)]]). Image-generation's convergence advantage did not survive Holm correction (adjusted p = 0.052), and no sequence — including Text-to-Image — beat the alternatives on final creative performance. The phase-level gains did not sum to a superior product.
@@ -52,7 +52,7 @@ A national survey complicates that pattern: across 5,764 Chinese university stud
 
 - **Reaffirming human creativity in the AI era.** The ascent of generative AI challenges educational fields to reaffirm the value of human creativity. A [[project-based-learning|project-based]] digital [[storytelling-in-education|storytelling]] framework for art and design education was designed explicitly to cultivate emotional, cultural, and narrative capacities that AI lacks, with students producing [[multimodal]] narratives from local cultural heritage — positioning creativity as the distinctly human contribution in AI-integrated learning.
 
-### Creativity across domains
+## Creativity across domains
 
 Creativity is not a single monolithic faculty — it is realized differently in writing, visual art, [[math-education|mathematics]], and computing, and generative AI interacts with each domain's creative process in distinct ways. Understanding those differences matters for designing AI-assisted learning that protects rather than bypasses each domain's core creative act.
 
@@ -66,7 +66,7 @@ Creativity is not a single monolithic faculty — it is realized differently in 
 
 - **Visual storytelling as a bridge from imitation to design.** In a bio-inspired design course, 20 students used AI image tools to turn biological source material into visual stories; analysis of five works found that narrative rather than image polish carried the biological idea, and that students chose visual style for meaning ([[malkani-paul-ai-steam-visual-storytelling-2026]]).
 
-### Putting creativity into practice
+## Putting creativity into practice
 
 The recurring design principle across these findings is to **keep the learner's own generative act in the loop** — whether that act is producing an idea, iterating an artifact, or extending a found example — and to use AI as a divergent-thinking partner that challenges and expands rather than replaces it.
 
@@ -74,7 +74,7 @@ The recurring design principle across these findings is to **keep the learner's 
 - **For developers and designers:** build tools that reveal and reward the iteration loop — show structure (as Flowcode's flowchart does), add [[desirable-difficulties|productive friction]] at the "ship the first output" moment, and offer alternatives and critiques rather than a single polished answer. When the tool makes the next best version effortless, the learner's creative decisions should still be the ones that matter.
 - **For researchers:** treat creativity as [[discipline-specific-aied|domain-specific]] and outcome-specific — measure whether gains [[transfer-of-learning|transfer]] to convergent or unassisted tasks, not just whether assisted output looks more creative. The measurement gap is the field's sharpest problem: within the 45-study K–12 corpus only the four assessment studies used a formal creativity measure, most studies never defined the construct at all, and the creative *process* — preparation, incubation, illumination, verification — went essentially unmeasured. Hence the review's prescription is measurement-first: score creativity unobtrusively inside open-ended tasks through evidence-centered design and stealth [[assessment]], and treat creative [[self-efficacy]] as part of the outcome rather than an implied side effect ([[genai-creativity-k12-scoping-review-2026]]).
 
-### Connections
+## Connections
 
 Creativity connects to [[critical-thinking]] and to [[constructivist]] learning. It is protected by the same [[reducing-ai-misuse]] [[scaffolding|scaffolds]] that preserve learning, and by [[authentic-assessment]] designs that reward original reasoning over polished products.
 

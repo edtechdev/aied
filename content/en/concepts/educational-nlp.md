@@ -1,7 +1,7 @@
 ---
 title: Educational NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-05T23:00:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
@@ -20,11 +20,11 @@ reviewed_by: [editor]
 
 ## Introduction
 
-### What educational NLP does
+## What educational NLP does
 
 Natural language processing in education applies computational methods to the language of teaching and learning — student essays, responses, discussion posts, feedback, and instructional text. [[llm|LLMs]] have dramatically expanded what can be analyzed automatically, enabling fine-grained understanding of student language that was previously impractical at scale.
 
-### Applications documented in the knowledge base
+## Applications documented in the knowledge base
 
 - **Analysis of student language.** [[llm-sentiment-analysis-education-research]] applies LLM-based sentiment analysis to educational research, extracting emotional and evaluative signals from student text at scale, feeding [[learning-analytics]] and [[affective-computing]].
 - **Prediction and measurement.** [[llm-item-difficulty-prediction]] and [[vocabulary-difficulty-prediction]] use language models to estimate item and text difficulty — core inputs to [[educational-measurement]], [[adaptive-learning]], and [[item-response-theory]] models.
@@ -50,7 +50,7 @@ Natural language processing in education applies computational methods to the la
 - **Entity fidelity of ASR transcripts is a separate question from lexical accuracy.** Benchmarking five speech recognition systems against a human reference transcript, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]] report the knowledge base's first ASR/NER entity-fidelity evidence: word error rates spanned 2.43% (TurboScribe) to 15.32% (Vosk), while seven-category gold-entity type coding saw GPT-5.5 reach accuracy 0.805 (κ = .726) versus spaCy's 0.634 (κ = .488).
 Aggregate WER alone cannot certify that the entity structure survived transcription.
 
-### Connection to tutoring and measurement
+## Connection to tutoring and measurement
 
 Educational NLP underpins both the analysis of learner language ([[student-modeling]], [[knowledge-tracing]]) and the generation of adaptive instructional content ([[intelligent-tutoring]], [[scaffolding]]). [[ai-generated-interactive-fiction-education-2026]] demonstrates NLP-driven content generation for learning, while [[zerkouk-comprehensive-review-its-2025]] situates NLP within the broader [[intelligent-tutoring]] landscape. As LLM-based analysis grows, [[rct]] and [[research-methods-aied]] frameworks matter for validating that NLP-derived insights genuinely improve learning. 
 

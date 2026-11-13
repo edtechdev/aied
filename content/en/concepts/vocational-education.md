@@ -1,7 +1,7 @@
 ---
 title: "Vocational Education and Training"
 created: "2026-09-17T14:04:23-04:00"
-updated: "2026-11-12T10:45:00-05:00"
+updated: "2026-11-12T21:50:00-05:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -32,7 +32,7 @@ Its neighbours in this knowledge base differ chiefly in scope. [[professional-tr
 
 What is distinctive about AI in VET is a gap between what the sector says it wants and what it builds: [[constructivist|constructivist theory]] is widely espoused while behaviorist drill-and-practice systems dominate and learner-agency designs remain rare. The recurring design question is not whether AI can deliver instruction, but whether it can absorb the parts of vocational learning that are expensive to staff — realistic scenarios, timely feedback, role-played counterparts, oral evidence — without displacing the practice that produces competence.
 
-### How AI appears in vocational education and training
+## How AI appears in vocational education and training
 
 - **A young, fragmented and geographically concentrated evidence base.** The first [[meta-analysis-systematic-review|systematic review]] of AI in VET ([[ai-vocational-education-training-review]]) identified 26 empirical studies published 2015–2026 through ERIC, Web of Science and Elicit under PRISMA guidelines: nine technical-domain, nine domain-general, five in business administration and three in health. Settings were six classroom, eight online, four blended and eight simulation-based — and none in a workplace, despite VET's work-based character. Seventeen of the 26 originated in Asia; only nine studies shared at least one reference and none cited each other. Five were randomized experiments and 21 used pre-experimental or quasi-experimental designs, mostly measuring outcomes immediately after intervention, and only three gave learners an active role in an AI-empowered design. The authors warn of an educational "Turing Trap" — using AI to replicate human instruction rather than augment [[human-in-the-loop-ai|human judgment]] — and call for failure cases and boundary conditions in place of the prevailing success narrative.
 
@@ -53,16 +53,6 @@ What is distinctive about AI in VET is a gap between what the sector says it wan
 - **Curriculum renewal as a continuing obligation, not a periodic review.** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]] identifies five interacting renewal dimensions, occupational transformation, curriculum currency, faculty capability alignment, program architecture and external alignment, and six leadership tests for deciding whether a course should be retained, revised, integrated, replaced or retired.
 - **Judgment over output as the vocational competence.** Evaluating AI-generated work against occupational criteria — accuracy, standards, compliance, safety — is where vocational competence becomes observable, rather than in the artifact itself ([[zheng-ai-evaluative-judgement-vocational-2026|Zheng and Tang (2026)]]).
 
-## Common Misconceptions
-
-**"The AI-in-VET evidence base tells us about vocational education."** It tells us about classroom proxies for it, which is a serious gap rather than a detail: **no study in the AI-in-VET evidence base is set in a workplace**, yet VET is *defined* by work-based learning. A finding about an AI tool in a simulated trade task has not yet encountered the conditions that make the sector distinctive — real clients, real safety consequences, real variation in workplace equipment.
-
-**"A significant effect on design or creative ability transfers to occupational competence."** The strongest [[quantitative-research|quantitative]] result here comes from a **12-week two-group quasi-experiment with 63 valid responses (31 vs 32)**. There the immersive-agent condition scored higher on design ability (η²p = .138) and creative ability (η²p = .111) under ANCOVA, with cognitive engagement d = 0.90. Thirty-one students per arm in a classroom task is evidence about that task, and occupational competence is not one of the measured outcomes.
-
-**"Learners will over-rely on AI in practical training."** The pilot evidence points the other way. Exploratory pilots (**N = 30**, Italy and China, **20 bounded sessions**) found participants treating the system as a bounded support tool, with **no reported expectation of substitution or dependency**. That is exploratory and small, and it does suggest that vocational learners' framing of a tool as equipment rather than as an authority is a resource worth designing around.
-
-**"Learner approval of a simulated task means it assessed the right thing."** Of **33 surveyed learners, 21 (64%)** agreed the voice task was realistic and the same proportion said it gave a clear way to communicate what they knew — and none disagreed that speaking in real time suited this [[authentic-assessment|authentic assessment]]. Realism and communication clarity are worth knowing and are not validity: a task can feel authentic and still fail to sample the occupational performance it stands in for.
-
 ## Implications for Practice
 
 **For instructors**
@@ -79,6 +69,16 @@ What is distinctive about AI in VET is a gap between what the sector says it wan
 **For researchers**
 
 - Field at least some studies in workplaces. A sector defined by work-based learning whose evidence base contains no workplace studies has not yet tested its central claim.
+
+## Common Misconceptions
+
+**"The AI-in-VET evidence base tells us about vocational education."** It tells us about classroom proxies for it, which is a serious gap rather than a detail: **no study in the AI-in-VET evidence base is set in a workplace**, yet VET is *defined* by work-based learning. A finding about an AI tool in a simulated trade task has not yet encountered the conditions that make the sector distinctive — real clients, real safety consequences, real variation in workplace equipment.
+
+**"A significant effect on design or creative ability transfers to occupational competence."** The strongest [[quantitative-research|quantitative]] result here comes from a **12-week two-group quasi-experiment with 63 valid responses (31 vs 32)**. There the immersive-agent condition scored higher on design ability (η²p = .138) and creative ability (η²p = .111) under ANCOVA, with cognitive engagement d = 0.90. Thirty-one students per arm in a classroom task is evidence about that task, and occupational competence is not one of the measured outcomes.
+
+**"Learners will over-rely on AI in practical training."** The pilot evidence points the other way. Exploratory pilots (**N = 30**, Italy and China, **20 bounded sessions**) found participants treating the system as a bounded support tool, with **no reported expectation of substitution or dependency**. That is exploratory and small, and it does suggest that vocational learners' framing of a tool as equipment rather than as an authority is a resource worth designing around.
+
+**"Learner approval of a simulated task means it assessed the right thing."** Of **33 surveyed learners, 21 (64%)** agreed the voice task was realistic and the same proportion said it gave a clear way to communicate what they knew — and none disagreed that speaking in real time suited this [[authentic-assessment|authentic assessment]]. Realism and communication clarity are worth knowing and are not validity: a task can feel authentic and still fail to sample the occupational performance it stands in for.
 
 ## Connected Concepts
 

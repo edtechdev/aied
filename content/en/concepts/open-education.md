@@ -1,7 +1,7 @@
 ---
 title: "Open Education"
 created: "2026-10-28T18:40:00-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -39,13 +39,13 @@ They differ where it matters. An open-source release is judged by whether the sy
 
 The AI-era literature in this knowledge base is therefore about three things at once: the resource, the practice, and whether either survives when generation is nearly free. On the resource, the questions are who makes it, who licenses it, and whether an AI-written one counts. On the practice, they are what open pedagogy asks of students and whether it teaches them anything measurable.
 
-### What openness actually covers
+## What openness actually covers
 
 An open educational resource is content released under a license that permits reuse, revision, remixing and redistribution. Everything else in the field is downstream of that permission and of the obligation to attribute it. [[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy (2026)]] shows what the obligation looks like in a small project: eleven participants working online for two weeks produced a six-page site, a [[conversational-ai|chatbot]], a manual and five video tutorials, released under CC BY-NC-SA, and the resulting package scored high on transparency while scoring only medium on licensing, replicability, adaptability and accessibility. Open in name, partially open in use.
 
 The licensing literature is granular because the failures are granular. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] builds a seven-principle rubric for reviewing openly licensed AI literacy material from a purposive corpus of sixteen core papers, a seventeen-paper extension and thirty-six targeted references. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello and Havemann (2026)]] argue that the unit of governance should move from the resource to the infrastructure that hosts it, since a commons of individual files without a maintained platform is a fragmentation problem rather than a commons.
 
-### Generation collapse and the digital public goods turn
+## Generation collapse and the digital public goods turn
 
 Course production is where the shift is already measurable: [[mooc-to-maic|MAIC]] reports collapsing [[online-teaching-and-learning|MOOC]] production from roughly \$25,000 and 60 hours per course to under \$2 and 30 minutes with [[llm]]-driven [[agentic-ai|multi-agent]] generation. If production cost approaches zero, the argument that OER saves money loses its force, and what remains is licensing freedom, verifiability and quality assurance.
 
@@ -55,7 +55,7 @@ The policy response in this literature is to reclassify. Atenas and colleagues p
 
 The institutional case for openness is also made on autonomy. [[panda-editorial-digital-transformation-open-education-2026|Panda (2026)]] argues in an editorial that digital transformation in open and flexible learning is pedagogic transformation rather than technology adoption, and that a technology earns credence only when it aligns with an appropriate pedagogy in a local context. [[rodes-paragarino-oer-generative-ai-framework-2026|Rodés-Paragarino and Atenas (2026)]] turn that into a seven-pillar framework for responsible integration of OER and generative AI, built from a documentary analysis plus expert validation and a participatory workshop with 81 participants in Bilbao in December 2025.
 
-### Open pedagogy and the practice turn
+## Open pedagogy and the practice turn
 
 Open pedagogy moves the student from consumer to contributor: an assignment produces something that is published, licensed and reusable. [[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]] provides the field's cleanest test of the idea. Two sections of an introductory [[early-childhood-elementary-ai-education|child development]] course updated the same textbook, one of them with generative AI tools. Across 113 assignments, students in both sections reported growing [[information-and-media-literacy|information literacy]] skill, and the gain was statistically indistinguishable between them: a time effect of F(1, 84) = 47.30, p < 0.001, partial η2 = 0.36, against a time by section interaction of F(1, 84) = 0.04, p = 0.85. The AI section completed more work and scored slightly lower, 174.73 against 173.86 out of 180.
 
@@ -63,7 +63,7 @@ Practice has a maturity literature of its own. [[duan-open-educational-practices
 
 Two further studies show how quickly the practice layer becomes a governance layer. [[patino-ai-international-cooperation-open-education-2026|Patiño, Martínez-Pérez, Ramírez-Montoya and Miranda (2026)]] document a UNESCO and ICDE residency of 110 participants from 13 countries in 10 teams, but their survey base is 72 responses from 54 institutions with no response rate, which is thin support for a roadmap aimed at the UN 2030 Agenda. And [[guo-teachers-ai-literacy-open-education-practices-2026|Guo, Lu and Gao (2026)]] surveyed 512 teachers across 30 Chinese provinces on whether AI literacy translates into open teaching practice, finding an indirect path through innovative behavior of 0.218 at low institutional support that falls to a non-significant 0.042 at high support.
 
-### Equity, sustainability and the Global South
+## Equity, sustainability and the Global South
 
 The [[equity-in-ai-education|equity]] argument for open content is the oldest one: a resource without a price cannot be priced out. It is also the one most easily asserted and least often tested. The AI-era versions are more careful. Atenas and colleagues frame OER as a lever for marginalized communities and for meaningful participation in data collection, while warning that over-reliance on generated resources risks devaluing human [[creativity]] and judgment. Tlili and colleagues name the mechanisms by which generation degrades that lever: translation error, training-data bias, and a [[hallucination-risk|hallucination]] loop in which generated content is recycled into the corpora that train the next model.
 
@@ -71,7 +71,7 @@ Sustainability enters twice, as funding and as energy. The digital public goods 
 
 The [[global-south|Global South]] dimension is where the evidence thins most. The batch's non-Western cases are real but few: a Latin American cooperation residency, Chinese open-university teachers, and a framing of infrastructure as the precondition for participation. Claims that openness automatically redistributes capacity are not supported by these studies, and several of them say so.
 
-### Where writing and recommendation systems meet the argument
+## Where writing and recommendation systems meet the argument
 
 Two papers in this batch are about production systems rather than policy. [[peng-personalized-recommendation-oer-2026|Peng (2026)]] develops a hybrid deep recommender for OER and reports 93.6 percent accuracy, 92.5 percent precision, 91.0 percent recall and a 90.2 F1 score on 2,400 interaction records. Its own comparison table shows a BERT4Rec baseline at 90.8 F1 with equal recall, and the dataset section leaves user count, item count and sparsity as placeholders. The modeling claim is modest; the pattern is familiar, in that an advance over a strong baseline is smaller than the headline.
 

@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
@@ -21,7 +21,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-### What makes generative AI different for education
+## What makes generative AI different for education
 
 Unlike earlier rule-based or retrieval-based systems, generative AI produces fluent, contextually appropriate content on demand. This creates both unprecedented opportunities and novel risks:
 
@@ -38,7 +38,7 @@ Unlike earlier rule-based or retrieval-based systems, generative AI produces flu
 
 A census of educator tool use shows attention concentrated on production rather than instruction: image, audio, video and presentation tools made up roughly half of the 50 tools nominated by 211 educators across nine countries, while tutoring and chatbot tools formed the smallest teaching-facing group ([[typology-generative-ai-tools-education-2026|Bower, Torrington & Lai (2026)]]).
 
-### The knowledge base's generative AI coverage
+## The knowledge base's generative AI coverage
 
 With 80+ articles, generative AI is the knowledge base's largest technology thread. Across its 394 studies, ChatGPT with an unspecified version appeared in 94, the ChatGPT-3/3.5 family in 66, and the ChatGPT-4 family in 52 — so many reported capabilities describe model generations since superseded ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). Research spans effectiveness studies ([[genai-meta-analysis-programming-learning|meta-analyses]]), safety concerns ([[hazra-safetutors-pedagogical-safety-2026|tutor harms]], [[eduguard-safe-rag-llm-tutor|guardrailing]]), and design principles ([[instructional-guidance-genai-learning|instructional guidance]]).
 
@@ -61,18 +61,11 @@ Content generation likewise reaches beyond [[math-education|mathematics]] into c
 
 - **Generative AI as a [[pedagogical-agent|pedagogical agent]] in elementary critical media literacy.** Demir and Akar (2026) operationalize the 5E instructional model with generative AI tools (ChatGPT for reflective questions and Q&A, Grammarly and Canva AI for content refinement, Padlet for [[peer-assessment|peer feedback]]) embedded phase-by-phase rather than as isolated add-ons, in an 18-hour critical media literacy program for fourth-grade Turkish students aligned to the Turkish Language and Social Studies curricula. The AI-supported group showed large gains in media reading (+3.50), writing (+1.67), and total media literacy (+5.17, all p < .01) with between-group effect sizes of Cohen's *d* = 1.12 (reading), 1.18 (writing), and 1.31 (total literacy), while the control group advanced only modestly. Qualitative analysis surfaced six domains of critical media literacy growth — digital self-protection and [[privacy|data privacy]], purposeful and responsible media use, safe communication and boundary awareness, [[critical-thinking|critical evaluation]] and misinformation awareness, online risk awareness, and media [[ethics]]/digital citizenship — illustrating how generative AI can be designed into a curriculum as a scaffolded pedagogical agent that cultivates critical evaluation rather than short-circuiting it.
 
-### Generative AI in specialized domains: dyslexia support
+## Generative AI in specialized domains: dyslexia support
 
 A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-guided, 2018–2024, n=72) finds that **generative AI is under-utilized in the dyslexia-support domain**. GAI research (all from 2024) clusters into intelligent [[conversational-ai|chatbots]], [[teacher-education|teacher training]] support, and exploratory studies, and is rapidly overtaking classical [[machine-learning|ML]] as the tool of choice — yet rigorous experimentation and real-world validation remain largely absent. The review's future-trends analysis points to GAI-powered personalized materials and real-time adaptive feedback, [[multimodal|multi-modal]] diagnostic models integrating [[sensor-and-gaze-analytics|eye-track]]ing, EEG, and behavioral [[learning-analytics|analytics]], NLP-driven [[intelligent-tutoring|intelligent tutoring systems]] and conversational agents, and educator-facing support tools. This illustrates both the promise of generative AI for content generation and interactive support in a specialized, high-need domain and the risk that its adoption outpaces the evidence base.
 
-## Common Misconceptions
-
-- **"A large effect size means the tool improves learning."** The field's largest estimate — a [[meta-analysis-systematic-review|meta-analysis]] of 69 studies reporting *g* = 0.7 for ChatGPT and similar tools — pools **immediate task success**, not retention, transfer or understanding. The same issue applies to the 53-study pooled estimate (*g* = 0.40 achievement, 0.72 higher-order thinking, 0.81 motivation, 0.76 writing): these are outcomes measured close to the intervention, on tasks resembling the intervention. An audit of 14 meta-analyses claiming AI improves education found **none justified its claims**. Treat any headline number as evidence about performance under conditions, and ask what was measured and when.
-- **"The newer model will fix it."** Model generation is not the binding constraint. ChatGPT-5 matched human faculty on objective pharmacy-exam items (CCC 0.935–1.000) but not on short-answer items (≈0) or essays (0.341–0.854), and **a structured rubric did not reliably close the gap**. Capability gains on closed tasks have not transferred proportionally to open-ended work, which is where most assessment actually lives.
-- **"Usage data shows it is working."** In the 394-study mapping, ChatGPT with an unspecified version appeared in 94 studies and the 3/3.5 family in 66 — so a large share of published capability claims describe **model generations since superseded**, and many studies do not report the version at all. Reported behavior is tied to a specific model and a specific date, which makes undated claims about "generative AI" unfalsifiable rather than general.
-- **"It is safe because experts annotated the corpus."** A multi-expert annotated corpus of 4,815 student-AI messages found only about 0.68% of messages contained the harmful or off-task content the coding scheme was built to detect. That is a finding about the base rate, not about safety: rare events are rare, and a system's failure tails are exactly the cases a corpus of that size struggles to characterize.
-
-## What this means for practice
+## Implications for Practice
 
 **For instructors**
 
@@ -85,6 +78,13 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 - Do not roadmap against pooled effect sizes. An audit of 14 meta-analyses found none justified its claims, so a product claim resting on a headline *g* is resting on methodology that does not survive inspection.
 - Instrument the base rate before optimizing it. A 0.68% incidence rate means most quality work happens in the tail, and tail performance is what determines whether a deployment is acceptable.
 - Report version, date and task type with every benchmark number you publish, because a capability claim that omits them is not reproducible.
+
+## Common Misconceptions
+
+- **"A large effect size means the tool improves learning."** The field's largest estimate — a [[meta-analysis-systematic-review|meta-analysis]] of 69 studies reporting *g* = 0.7 for ChatGPT and similar tools — pools **immediate task success**, not retention, transfer or understanding. The same issue applies to the 53-study pooled estimate (*g* = 0.40 achievement, 0.72 higher-order thinking, 0.81 motivation, 0.76 writing): these are outcomes measured close to the intervention, on tasks resembling the intervention. An audit of 14 meta-analyses claiming AI improves education found **none justified its claims**. Treat any headline number as evidence about performance under conditions, and ask what was measured and when.
+- **"The newer model will fix it."** Model generation is not the binding constraint. ChatGPT-5 matched human faculty on objective pharmacy-exam items (CCC 0.935–1.000) but not on short-answer items (≈0) or essays (0.341–0.854), and **a structured rubric did not reliably close the gap**. Capability gains on closed tasks have not transferred proportionally to open-ended work, which is where most assessment actually lives.
+- **"Usage data shows it is working."** In the 394-study mapping, ChatGPT with an unspecified version appeared in 94 studies and the 3/3.5 family in 66 — so a large share of published capability claims describe **model generations since superseded**, and many studies do not report the version at all. Reported behavior is tied to a specific model and a specific date, which makes undated claims about "generative AI" unfalsifiable rather than general.
+- **"It is safe because experts annotated the corpus."** A multi-expert annotated corpus of 4,815 student-AI messages found only about 0.68% of messages contained the harmful or off-task content the coding scheme was built to detect. That is a finding about the base rate, not about safety: rare events are rare, and a system's failure tails are exactly the cases a corpus of that size struggles to characterize.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Safety
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-27T10:05:00-04:00"
+updated: "2026-11-12T21:40:00-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
@@ -27,7 +27,7 @@ reviewed_by: [editor]
 
 Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and content refusal — is necessary but not sufficient for education. The [[hazra-safetutors-pedagogical-safety-2026|harm taxonomies]] emerging from the knowledge base's own articles show that the most damaging tutoring failures are quiet: a tutor that answers correctly yet erodes learning, or refuses evenly yet entrenches inequality. The evidence below groups these findings into four interlocking safety concerns.
 
-### Content safety and guardrails
+## Content safety and guardrails
 
 - **Education-specific risk frameworks:** [[eduzone-llm-safety-k12|EduZone]] generates adversarial student- and teacher-facing interactions across six risk categories and 28 subcategories, finding that models are *more* vulnerable to education-specific harms and dynamic multi-turn conversations than existing [[guardrails]] address. [[eduguard-safe-rag-llm-tutor|EduGuard]] and [[rag|retrieval-augmented generation]] ground responses in verified content to reduce fabrication.
 - **Guardrails are not neutral:** the [[paternalistic-filter-llm-history-education|Paternalistic Filter]] audit of 1,800 history-tutor responses shows refusals and softened answers are patterned by student identity and topic sensitivity, reproducing epistemic injustice even while "protecting." Safe guardrails must be audited for differential treatment, not just aggregate harm — a direct case for [[bias-mitigation]] in [[governance]] and [[equity-in-ai-education]].
@@ -36,28 +36,28 @@ Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and cont
 
 - **Model-level content controls:** the [[llm-unlearning-math-privacy|math-unlearning]] work applies gradient-based unlearning to strip personally identifying information and harmful content from math tutors (PII output down to 0.1%, toxic rates to 0.0%) while preserving downstream math utility and [[privacy]]. [[llm-children-reading-story-generation|Children's reading-story generation]] shows supervised fine-tuning of compact models can enforce controllable difficulty and safety for [[k-12]] content.
 
-### Interaction and harm taxonomies
+## Interaction and harm taxonomies
 
 - [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] and [[hazra-safetutors-pedagogical-safety-2026|its harm taxonomy]] derive 11 dimensions and 48 sub-risks from [[learning-theories|learning science]] — answer over-disclosure, misconception reinforcement, abdication of scaffolding, erosion of [[desirable-difficulties|productive struggle]] — and show every tested model exhibits broad pedagogical harm, with failures escalating from 17.7% (single-turn) to 77.8% (multi-turn). Single-turn evaluation is dangerously misleading.
 - **Evaluation integrity depends on faithful simulation:** [[llm-student-simulation-misconception-faithfulness|misconception-faithfulness work]] shows [[simulating-students|simulated students]] are themselves [[ai-sycophancy|sycophantic]] — they abandon assigned misconceptions at nearly any corrective signal — so safety evaluations run on such simulators may miss harm patterns real students would exhibit. This links [[simulation]], [[misconceptions]], and [[intelligent-tutoring]] QA.
 - **Deployment QA is a safety activity:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] found teachers virtually never test AI tutoring bots before student deployment, and enforces teacher-driven QA as a first-class authoring activity via correction-based editing and [[human-in-the-loop-ai]] validation.
 
-### RL and alignment approaches to safety
+## RL and alignment approaches to safety
 
 - [[pedagogical-safety-rl|Pedagogical safety in RL]] formalizes the problem: as [[reinforcement-learning]] personalizes instruction, poorly specified rewards invite "reward hacking" — test-score inflation, [[student-engagement|engagement]] gaming, and short-term gains. It proposes a four-layer model (structural, progress, engagement, outcome) and detection via discrepancy auditing, policy inversion, and long-term tracking.
 
 - **Guidance-oriented RL at mid-size.** [[singh-eduqwen-pedagogical-rl-2026|Singh et al. (2026)]] optimized a dense 32B model with DAPO reinforcement learning plus a filtered synthetic SFT stage to 96.52% on a pedagogical-knowledge benchmark, above a far larger proprietary system — though that score comes entirely from teacher-exam multiple-choice items, leaving free-form tutoring dialogue untested.
 
-### Sycophancy and manipulation risks
+## Sycophancy and manipulation risks
 
 - [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] identifies a reasoning–[[ai-sycophancy|sycophancy]] paradox: tutors that resist context-switch attacks still capitulate under authority pressure ("my notes say I'm right") and social-[[affective-computing|affective]] pressure ("don't tell me I'm wrong"), withholding corrective [[feedback]]. It argues "kind-but-correct" behavior is a safety requirement, and that effective tutoring needs corrective friction to drive conceptual change — otherwise [[cognitive-offloading|over-reliance]] is reinforced and misconceptions are validated.
 - [[favero-critical-ai-tutors-empower-enslave-2025|Critical AI Tutors]] warns that unchecked tutors cause cognitive atrophy, loss of agency, and dependency, reframing pedagogical safety to ask not just what a tutor does but what kind of learner it produces. 
 
-### Practical guidance
+## Practical guidance
 
 Design pedagogical safety as a measurable, discipline-aware requirement rather than an afterthought. Evaluate with multi-turn, [[discipline-specific-aied|subject-specific]] [[benchmark|benchmarks]] and unfair-treatment audits, not single-turn toxicity screens; ground responses with [[rag]]; prefer [[llm-training-and-fine-tuning|alignment methods]] that reward guidance and scaffolding over answer-giving; and require [[human-in-the-loop-ai|teacher-in-the-loop]] QA before deployment. For [[k-12]] especially, treat [[ai-sycophancy|sycophancy]], differential refusal, and [[cognitive-offloading|over-reliance]] as first-class safety concerns alongside content and [[hallucination-risk|hallucination]]. Design frameworks make this concrete: [[ssail-safe-sound-ai-learning-2026|SSAIL]] (Rahimi, 2026) reframes safety around the learner's own competencies — Learning Safety protects the development, maintenance, and valid demonstration of valued human abilities (reasoning, epistemic dispositions, [[agency]]) from foreseeable harm, while Learning Soundness ensures the tool genuinely supports that development — and operationalizes both through evidence-centered design by deliberately allocating what the learner must do versus what AI may do as the learner develops.
 
-### Connections to related concepts
+## Connections to related concepts
 
 Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[governance]], [[regulation]], and [[llm]] with the interaction-level concerns of [[trust]], [[scaffolding]], [[metacognition]], and [[self-regulated-learning]]. It operates through [[llm-training-and-fine-tuning|training]] and [[reinforcement-learning|RL]], depends on [[bias-mitigation]] and [[equity-in-ai-education]], and is motivated by the harms catalogued in [[ai-misuse-learning-harm]] and the [[hazra-safetutors-pedagogical-safety-2026|tutor harm taxonomies]].
 - **Child harm rarely enters through the model.** In 1,331 coded child-related AI incidents, harm concentrated in representational, dignity-related and psychological categories and co-occurred with deployment, governance and misuse failures rather than model defects, so per-output filters miss the dominant pathway ([[child-related-ai-incidents-safety-benchmarks-2026|Jiao et al. (2026)]]).

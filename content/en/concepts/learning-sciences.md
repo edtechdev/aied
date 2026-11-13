@@ -1,7 +1,7 @@
 ---
 title: "Learning Sciences"
 created: "2026-09-17T14:12:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:45:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -74,15 +74,7 @@ The field also builds theory rather than only testing borrowed frameworks: [[the
 
 The findings only matter once they reach teaching, and that journey runs through three pages. [[educational-development]] is the institutional practice that carries them — faculty development, standards, policy and [[learner-identity|identity work]] decide whether a validated design ever reaches a classroom, which is why the field's evidence routinely leads what institutions have implemented. [[teacher-education]] is where the knowledge has to land before a teacher enters the room, and [[teacher-role]] is where it lands afterwards, in the moment-to-moment judgment about when to intervene, which instrument to use, and when to leave a learner alone. None of the three produces learning-science findings; all three decide whether those findings change practice.
 
-## Common Misconceptions
-
-- **"A high mastery threshold guarantees the learner can discriminate."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren and Stamper (2026)]] ran **eleven experiments (N = 192)** with [[intelligent-tutoring]] systems and found that at a **95% mastery threshold the system ended practice before any case required the learner to withhold the action**, so the defect went undetected. Mastery of the action did not include knowing when not to apply it, and the threshold certified the wrong construct.
-- **"More examples are safer."** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger and Carvalho (2025)]] treat the example-problem ratio as a **content-treatment interaction**, and in a 2×2 experiment the optimum **depended on the content**. There is no globally correct ratio, so a fixed instructional template is a bet against an interaction.
-- **"Fixing the [[misconceptions|misconception]] is a matter of telling students the right answer."** Short do-not-act practice with [[feedback]] naming the missing constraint cut misapplication to **0.0%-23.1% (Cohen's h 1.70-2.44)**, and a secondary analysis of **thirteen K-12 *Decimal Point* datasets** found the same structural pattern. The effective intervention was discriminating practice with targeted feedback, not correction by assertion — which is what [[refutation-text|refutation]] work establishes generally.
-- **"Higher Bloom level means more [[active-learning|active learning]]."** Acquisition dominated the lower levels — **about 50% of activities at Bloom level 1** — and shrank to **around 20% by level 6**. Cognitive demand and activity type move together but are not the same axis, so tagging a task by Bloom level does not tell you what learners will do with it.
-
-## What this means for practice
-
+## Implications for Practice
 **For instructors**
 
 - Teach the negative case explicitly. The 95%-threshold failure is the reason: build in conditions where the correct move is to withhold the action, or the learner will apply it everywhere.
@@ -95,6 +87,13 @@ The findings only matter once they reach teaching, and that journey runs through
 - Do not stop practice on correctness alone. Model the withholding condition as its own skill, or the system will certify overgeneralisation.
 - Let the ratio be a parameter rather than a constant, because the evidence says the optimum is content-dependent.
 - Report which construct your criterion measures, separately from which construct your validation measures.
+
+## Common Misconceptions
+
+- **"A high mastery threshold guarantees the learner can discriminate."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren and Stamper (2026)]] ran **eleven experiments (N = 192)** with [[intelligent-tutoring]] systems and found that at a **95% mastery threshold the system ended practice before any case required the learner to withhold the action**, so the defect went undetected. Mastery of the action did not include knowing when not to apply it, and the threshold certified the wrong construct.
+- **"More examples are safer."** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger and Carvalho (2025)]] treat the example-problem ratio as a **content-treatment interaction**, and in a 2×2 experiment the optimum **depended on the content**. There is no globally correct ratio, so a fixed instructional template is a bet against an interaction.
+- **"Fixing the [[misconceptions|misconception]] is a matter of telling students the right answer."** Short do-not-act practice with [[feedback]] naming the missing constraint cut misapplication to **0.0%-23.1% (Cohen's h 1.70-2.44)**, and a secondary analysis of **thirteen K-12 *Decimal Point* datasets** found the same structural pattern. The effective intervention was discriminating practice with targeted feedback, not correction by assertion — which is what [[refutation-text|refutation]] work establishes generally.
+- **"Higher Bloom level means more [[active-learning|active learning]]."** Acquisition dominated the lower levels — **about 50% of activities at Bloom level 1** — and shrank to **around 20% by level 6**. Cognitive demand and activity type move together but are not the same axis, so tagging a task by Bloom level does not tell you what learners will do with it.
 
 ## Connected Concepts
 

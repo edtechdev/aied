@@ -1,7 +1,7 @@
 ---
 title: Executive Function
 created: "2026-11-12T18:40:00-05:00"
-updated: "2026-11-12T18:40:00-05:00"
+updated: "2026-11-12T21:05:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -82,6 +82,8 @@ Read against the rest of the page, the framework is a hypothesis about where the
 
 Four limits recur. Most studies measure once, so they cannot show that a capacity changed rather than that a performance differed. Self-report instruments dominate, and self-report and task measures dissociate. The training literature has almost no follow-up beyond a month. And almost nothing separates compensation from development experimentally, which is the distinction the whole page turns on.
 
+The one review in the corpus that couples offloading to executive function is [[papasideri-cognitive-offloading-genai-narrative-review-2026|Papasideri, Chatziioannou and Palaiologos (2026)]], a narrative synthesis with no pooled data. Its contribution here is the direction of the argument: heavier offloading is associated with lower self-reported critical thinking and weaker self-regulated learning, and with reduced connectivity under LLM assistance in the EEG study it summarizes. Those are associations drawn from separate studies, not a mediation model, and the review says so. Read against the training evidence above, it sharpens the page's central distinction: a tool can raise performance on the task in front of the learner while lowering the effort that builds capacity behind it.
+
 ## Common Misconceptions
 
 - **"Executive function is the same as metacognition."** Metacognition is knowledge about one's own thinking; executive function is the capacity to hold, inhibit and switch. Where a self-report regulation scale predicts nothing and a task measure predicts performance, the two are being measured separately.
@@ -119,3 +121,4 @@ Four limits recur. Most studies measure once, so they cannot show that a capacit
 - [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — AI support for ADHD students, with the ethical trade-offs named
 - [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Academic stress mediates ChatGPT dependence and executive dysfunction
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Children and adults conversing with ChatGPT in the scanner
+- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Cognitive offloading in the age of generative AI: the review that ties offloading to executive function

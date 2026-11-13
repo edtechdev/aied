@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-11-09T10:25:00-05:00"
+updated: "2026-11-12T21:50:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -27,7 +27,7 @@ reviewed_by: [editor]
 
 This is the umbrella concept for the knowledge base's learning-theory strand. Learning theories sit at the heart of AI in education because every AI tutor, adaptive system, and feedback tool embeds assumptions about how people learn — whether the designers state them or not. The knowledge base documents these theories individually and treats them as the conceptual lens through which AI's design and effects are evaluated. The research field that tests those frameworks is a separate page: [[learning-sciences|the learning sciences]] study learning empirically — experiments, classroom trials and [[design-based-research|design-based research]] — and treat a theory as something to be confirmed or falsified, whereas this page collects the frameworks themselves. The two phrases are kept distinct in this knowledge base, the singular "learning science" naming this theory strand.
 
-### The learning-theory landscape
+## The learning-theory landscape
 
 The knowledge base documents several families of learning theory, each with its own concepts:
 
@@ -39,13 +39,13 @@ The knowledge base documents several families of learning theory, each with its 
 
 A 2026 systematic review of 163 GenAI studies maps the literature onto five theory traditions and finds constructivist and connectivist designs dominant, with behaviorist reinforcement designs confined largely to primary-level adaptive platforms ([[saranya-pedagogical-practices-genai-learning-theories-2026|Saranya & Saravanan, 2026]]). Its reviewers inferred each study's theory from described practice because primary studies rarely named one, which is itself a finding about how the field reports theory.
 
-### Learning theories and learning gains
+## Learning theories and learning gains
 
 Learning theories are ultimately evaluated by their outcomes, and the knowledge base's [[learning-gains]] concept is where theory meets evidence. Each theory makes a different prediction about what *counts* as learning and how to measure it: behaviorism predicts observable performance gains on drill-and-feedback tasks; constructivism predicts deeper understanding that transfers to novel problems; sociocultural theory predicts gains in participation and mediated [[problem-solving]]; and cognitive-load theory predicts gains only when instruction respects working-memory limits. Measurement choices, then, decide which theory's prediction an evaluation can confirm. In the AI era, the sharp divergence between AI-assisted performance and unassisted [[learning-gains|learning gains]] (see [[generative-ai-reduced-study-time-math]], [[stromberg-generative-ai-learning-penalty-secondary-2026]]) can be read through this lens: a behaviorist reading sees inflated homework scores as success, while a constructivist reading, focused on durable understanding, sees the same evidence as a failure to learn.
 
 **The pooled evidence is positive, and it measures a narrower construct than the theories do.** A PRISMA [[meta-analysis-systematic-review|meta-analysis]] of 53 studies puts GenAI assistance at g = 0.40 on academic achievement, 0.72 on [[critical-thinking|higher-order thinking]], 0.76 on writing and 0.81 on motivation, with GenAI feedback the largest mechanism at g = 1.27 ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]). Those are gains on the instruments the included studies chose, so they settle a behaviorist or cognitivist reading of "it works" and leave the constructivist prediction about durable, transferable understanding untested. The country subgroups also diverged, from China's g = 0.71 to Turkey's nonsignificant g = 0.01, so the pooled estimate is an average to test locally rather than a property of the tool.
 
-### Why learning theories matter for AI in education
+## Why learning theories matter for AI in education
 
 Learning theories matter for three reasons:
 
@@ -53,7 +53,7 @@ Learning theories matter for three reasons:
 - **They expose the theory-practice gap.** Empirical work repeatedly finds that AI implementations embody different theories than the discourse claims — most notably constructivist language paired with behaviorist drill-and-practice mechanics.([[ai-vocational-education-training-review]]) Evaluating AI therefore requires asking *which* theory a system actually embodies, not just whether it "works."
 - **They are being actively rethought.** Generative AI is [[prompt-engineering|prompting]] educators to revisit whether the classical theories suffice. [[generativism-learning-theory|Generativism]] proposes that learning in the AI age increasingly occurs through iterative co-construction between human learners and AI systems, extending rather than replacing the classical four (behaviorism, cognitivism, constructivism, connectivism).([[generativism-learning-theory]])
 
-### New theoretical directions from recent AIED work
+## New theoretical directions from recent AIED work
 
 Recent theoretical work extends the classical strand in several directions, each re-centering the human–AI relationship rather than treating AI as a neutral tool:
 
@@ -66,31 +66,21 @@ Recent theoretical work extends the classical strand in several directions, each
 
 - **Embodiment as an ontological challenge to AI's paradigm.** [[videla-embodied-ai-education-choreography|Videla, Penny and Ross (2026)]] argue an ontological divide separates embodied, enactive cognition from the representational idiom AI embodies, so AI should be decentered as the epistemic center rather than treated as a neutral tool.
 
-### How the knowledge base organizes this strand
+## How the knowledge base organizes this strand
 
 Rather than treating learning theories as abstract philosophy, the knowledge base grounds each in the AI-in-education research that uses it. The [[constructivist]] and [[behaviorism]] pages document how AI designs embody (or betray) each theory; Cognitive Load Theory, [[self-regulated-learning]], [[metacognition]], and [[transfer-of-learning]] connect theory to specific AI mechanisms and outcomes. This mirrors how the knowledge base treats other umbrella domains like [[feedback]] and [[assessment]] — a coherent system of interacting concepts rather than isolated pages.
 
-### Learning theories and "education about AI"
+## Learning theories and "education about AI"
 
 Learning theories also appear as content in [[ai-literacy|AI literacy]] curricula: learners study behaviorism, cognitivism, constructivism, and connectivism to understand the [[pedagogy|pedagogical]] assumptions behind the tools they use.([[generativism-learning-theory]]) Teaching this strand gives students (and educators) the vocabulary to critique why an AI product is built the way it is — and whether its mechanics serve the learning goal at hand.
 
 - **The mediational agent.** Warschauer, Tate, and Ritchie (2026) argue generative AI breaks the sociocultural distinction between mediational means and social interaction, proposing the *mediational agent* — a system that both mediates action and generates contingent, non-accountable contributions, occupying a hybrid space between a tool and a social partner. This yields five human-first habits of participation (primacy of human cognition, purposeful [[student-engagement|engagement]], supervisory agency, epistemic vigilance, reflective self-regulation).([[generative-ai-mediational-agent-sociocultural-2026]])
 
-### Theories proposed for the AI era
+## Theories proposed for the AI era
 
 Alongside the classical families, the knowledge base documents theories written specifically for learning with AI systems, and these carry the design implications that the older theories leave open. [[yan-agentivism-learning-theory-ai-2026|Agentivism (Yan and Gašević 2026)]] is a mid-range example: it defines learning as durable growth in human capability rather than successful task completion, names four mechanisms (delegated agency, epistemic monitoring and verification, reconstructive internalization, and transfer under reduced support), and states six testable propositions, among them that AI support preserving learner responsibility for problem framing, criteria setting and justification produces stronger learning than support that delivers answers.
 
 [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]'s **Pedagogical Symbiosis** makes a stronger ontological claim: the learner is a *Post-Human* entity whose cognition is hybrid rather than tool-assisted, organized by four principles: cognitive offloading and augmentation, epistemic co-construction, metacognitive symbiosis, and dynamic identity formation; operationalized as a Symbiotic Portfolio rubric and a "Cognitive Choreographer" [[teacher-role|teacher role]]; it is explicitly untested.
-
-## Common Misconceptions
-
-**"One of the learning theories is the correct one, so theory choice is a matter of taste."** The theories make different claims about what counts as evidence, so the same data can support opposite conclusions. The clearest instance: inflated homework scores read as **learning under behaviorism** and as **a failure to build durable understanding under constructivism**. Theory choice therefore determines whether an intervention succeeded, which makes it a measurement decision rather than a stylistic preference.
-
-**"A tool that supports deep learning will look like deep learning under any framework."** It will look like success under one and failure under another, as above. That is why the field's outcome measures need to be justified against a stated theory rather than borrowed as if neutral.
-
-**"More theories mean a better-understood field."** Accumulation without adjudication is the opposite of progress. Theories proposed for the AI era multiply faster than they are tested, and the sign of maturity is competing predictions being resolved — which requires designs that can distinguish them, not catalogues that accommodate them.
-
-**"Education about AI is the same as AI in education, theoretically speaking."** They draw on different strands: one asks how learners come to understand AI as a subject, the other how AI changes how learning happens. Conflating them produces literature reviews that mix two distinct evidence bases and report a coherent picture of neither.
 
 ## Implications for Practice
 
@@ -107,6 +97,16 @@ Alongside the classical families, the knowledge base documents theories written 
 **For researchers**
 
 - Design for adjudication between theories rather than accumulation of frameworks. Maturity shows up as competing predictions resolved, not as vocabulary growth.
+
+## Common Misconceptions
+
+**"One of the learning theories is the correct one, so theory choice is a matter of taste."** The theories make different claims about what counts as evidence, so the same data can support opposite conclusions. The clearest instance: inflated homework scores read as **learning under behaviorism** and as **a failure to build durable understanding under constructivism**. Theory choice therefore determines whether an intervention succeeded, which makes it a measurement decision rather than a stylistic preference.
+
+**"A tool that supports deep learning will look like deep learning under any framework."** It will look like success under one and failure under another, as above. That is why the field's outcome measures need to be justified against a stated theory rather than borrowed as if neutral.
+
+**"More theories mean a better-understood field."** Accumulation without adjudication is the opposite of progress. Theories proposed for the AI era multiply faster than they are tested, and the sign of maturity is competing predictions being resolved — which requires designs that can distinguish them, not catalogues that accommodate them.
+
+**"Education about AI is the same as AI in education, theoretically speaking."** They draw on different strands: one asks how learners come to understand AI as a subject, the other how AI changes how learning happens. Conflating them produces literature reviews that mix two distinct evidence bases and report a coherent picture of neither.
 
 ## Connected Concepts
 

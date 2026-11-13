@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -30,7 +30,7 @@ reviewed_by: [editor]
 
 Curriculum design addresses the *what* of education at the program level, complementing [[learning-design]] which addresses the *how* at the course level. The articles in this knowledge base explore how AI is reshaping curricula across disciplines — from software engineering to architecture to green education — and how educators are designing curricula that embed AI literacy without sacrificing disciplinary fundamentals.
 
-### Key research themes
+## Key research themes
 
 **Redesigning curricula for the AI era** is the central challenge. **[[reshaping-cs-education-genai|Lee et al.]]** synthesized findings from international workshops on reshaping undergraduate [[cs-education|CS education]], arguing that as GenAI automates implementation-level programming, curricula must shift toward system design, abstraction, and critical evaluation — while de-emphasizing low-level implementation details. **[[ase-26-agentic-software-engineering-curriculum|Gorsky]]** formalized Agentic Software Engineering as a distinct discipline with a 21-module curriculum focused on the "evolution of intent" and practitioner discipline required to manage [[agentic-ai|AI agents]]. Both connect to [[ai-literacy]] and [[scaffolding]].
 
@@ -86,7 +86,7 @@ A curriculum-level consequence of model capability is that AI-resistant design e
 
 Structure, not prompt phrasing, is what makes AI drafting reliable in production: [[curriculum-as-code-instructional-design-2026|Paiva (2026)]]'s Curriculum-as-Code pipeline pruned context aggressively and generated materials section by section across 28 project contexts, which cut instructor preparation time from roughly eight to two hours per instruction and left no conceptual or mathematical [[hallucination-risk|hallucinations]] for [[human-in-the-loop-ai|human review]] to catch.
 
-### Connections to related concepts
+## Connections to related concepts
 
 Curriculum design connects directly to [[learning-design]] — curriculum defines what, instruction defines how. It connects to [[ai-literacy]] because embedding AI competencies is a primary curriculum challenge, to [[teacher-role]] and [[educational-development]] because curriculum change requires educator preparation, and to [[scaffolding]] because well-designed curricula scaffold skill development across courses and years. The [[higher-ed]] and [[k-12]] connections reflect curriculum design's relevance across educational levels.
 

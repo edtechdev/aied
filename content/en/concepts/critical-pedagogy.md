@@ -1,7 +1,7 @@
 ---
 title: Critical Pedagogy
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:50:00-05:00"
 type: concept
 foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
 pedagogy: [critical-pedagogy]
@@ -26,7 +26,7 @@ reviewed_by: [editor]
 
 Critical pedagogy is distinct from [[critical-thinking]]. Critical thinking is a cognitive skill — evaluating arguments, questioning assumptions, and reasoning carefully — that can be practiced within almost any framework. Critical pedagogy, by contrast, is a *political and [[ethics|ethical]] stance* that connects those skills to questions of power, justice, [[equity-in-ai-education|equity]], and social transformation. The knowledge base treats them as related but distinct concepts: critical thinking asks "is this reasoning sound?", while critical pedagogy asks "who does this education serve, and whose knowledge counts?".
 
-### Critical pedagogy and AI in education
+## Critical pedagogy and AI in education
 
 [[ai-education|AI in education]] raises sharp questions for critical pedagogy, and the knowledge base documents several strands:
 
@@ -50,23 +50,13 @@ Critical pedagogy is distinct from [[critical-thinking]]. Critical thinking is a
 
 - **Human rights education as the test case for AI governance as formation.** [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo (2026)]] works through the UN's *about, through, for* framework in a law program and locates the difficulty not in the technology but in the pedagogy: students submitted polished written work and polished session designs without the engagement those artifacts are supposed to evidence, and the most critical thinking appeared in end-of-course writing rather than in class dialogue. Her conclusion shifts the educator's role rather than shrinking it — [[governance|AI governance]] becomes a professional responsibility students are trained to contest, and the [[llm|tool]] is directed rather than banned.
 
-### Assessment as a site of critique
+## Assessment as a site of critique
 
 Critical pedagogy enters assessment through the question of whose interests a redesign serves. [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] builds that case by joining the Theory of Practice Architectures to critical pedagogy, so that an assessment reform has to move three things at once: the cultural-discursive language that makes some practices thinkable, the material-economic arrangements of tools and resources, and the social-political distribution of power. The framework's warning is specific. When resources flow through existing power structures without explicit equity attention, a well-intentioned redesign amplifies the inequities it was meant to address, which makes the resource-power intersection both the largest leverage point and the largest risk. Her four-phase matrix runs critical analysis, intervention design, equity-focused implementation and evaluation, and she treats incremental change and productive tension as legitimate outcomes rather than as failure to transform quickly.
 
-### The role of the educator
+## The role of the educator
 
 Under critical pedagogy, educators are not neutral transmitters of AI skills but critical interlocutors and facilitators who help learners interrogate the politics of AI. This connects to the knowledge base's [[teacher-role]] and [[ai-literacy]] concepts, and to the broader concern with [[equity-in-ai-education]] and [[reducing-ai-misuse]]. The educator's task is to cultivate spaces where communities can collectively question, appropriate, or refuse AI — keeping education a site of imagination and social transformation.  [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] add a practical condition to that role: open-ended critical AI literacy work does not require educators to arrive as AI experts, only to be willing to explore alongside students — a joint student–teacher investigation of one specific system, electronic "hall passes" (not all of which are AI), surfaced and worked through [[misconceptions]] while deepening technical knowledge. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar (2026)]] give that role a constructionist, ethics-of-care shape: they treat [[prompt-engineering|prompt literacy]] as a rhetorical, ethical and reflective process rather than a technical optimization skill, and the framework's closing phase has students co-design a Personal AI Use Policy with their instructor, so the norms governing classroom AI use are authored by the people they govern rather than issued to them. 
-
-## Common Misconceptions
-
-**"Using AI critically means using it less."** Critical engagement is a mode of use, not a quantity of use. Across **42 classroom episodes** in a Romanian lower-secondary study, **15 (35.71%) were AI-dependent** and **16 (38.10%) AI-enhanced**, leaving only **11 (26.19%) AI-critical** — so the enhanced and the critical episodes both involve the tool, and the distinction is whether students interrogated it. The scarcity of the critical mode is a teaching problem, not a usage problem.
-
-**"AI literacy is a neutral skillset."** Critical pedagogy treats it as a practice of resistance and social transformation, which makes the framing itself contestable. A literacy [[curriculum-design|curriculum]] that teaches prompting technique and omits whose interests the system serves has taught fluency in a tool while adopting its politics uncritically.
-
-**"Critical pedagogy is a critique offered from outside practice."** It is a stance toward the educator's role: asking who benefits, whose knowledge is privileged, and how schooling reproduces or resists power. Applied to AI adoption, that means interrogating the corporate and capitalist logics shaping procurement — questions an instructor can ask about their own institution's choices, not only about the technology in the abstract.
-
-**"Centring marginalised epistemologies is a curriculum-content addition."** It changes whose knowledge counts as knowledge, which is a question about the structure of the course rather than an added reading. Content additions leave the frame intact; critical pedagogy's claim is on the frame.
 
 ## Implications for Practice
 
@@ -84,6 +74,16 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 **For researchers**
 
 - Report the distribution of engagement modes in classrooms, not only average use, since the mean conceals whether any critical practice exists.
+
+## Common Misconceptions
+
+**"Using AI critically means using it less."** Critical engagement is a mode of use, not a quantity of use. Across **42 classroom episodes** in a Romanian lower-secondary study, **15 (35.71%) were AI-dependent** and **16 (38.10%) AI-enhanced**, leaving only **11 (26.19%) AI-critical** — so the enhanced and the critical episodes both involve the tool, and the distinction is whether students interrogated it. The scarcity of the critical mode is a teaching problem, not a usage problem.
+
+**"AI literacy is a neutral skillset."** Critical pedagogy treats it as a practice of resistance and social transformation, which makes the framing itself contestable. A literacy [[curriculum-design|curriculum]] that teaches prompting technique and omits whose interests the system serves has taught fluency in a tool while adopting its politics uncritically.
+
+**"Critical pedagogy is a critique offered from outside practice."** It is a stance toward the educator's role: asking who benefits, whose knowledge is privileged, and how schooling reproduces or resists power. Applied to AI adoption, that means interrogating the corporate and capitalist logics shaping procurement — questions an instructor can ask about their own institution's choices, not only about the technology in the abstract.
+
+**"Centring marginalised epistemologies is a curriculum-content addition."** It changes whose knowledge counts as knowledge, which is a question about the structure of the course rather than an added reading. Content additions leave the frame intact; critical pedagogy's claim is on the frame.
 
 ## Connected Concepts
 

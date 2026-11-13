@@ -1,7 +1,7 @@
 ---
 title: "Libraries"
 created: "2026-11-05T03:45:00-05:00"
-updated: "2026-11-12T20:05:00-05:00"
+updated: "2026-11-12T21:45:00-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy]
 technology: [generative-ai, llm, recommender-systems-and-learning-paths, knowledge-graph]
@@ -57,8 +57,7 @@ Staff capacity is the recurring constraint in the survey work: 412 academic libr
 
 The library's oldest function — providing access that individuals cannot buy — has acquired a new object. The [[public-ai-libraries|Public AI Libraries]] pilot places a shared AI workstation in public libraries, gives each patron a separate account, and charges participating libraries \$1,000 per kiosk per year. Whether or not the model spreads, it names the [[equity-in-ai-education|equity]] argument precisely: in a [[digital-divide|digital divide]] that now runs through AI capability, the library is the institution that can supply shared, staffed access rather than a subscription per person.
 
-## What this means for practice
-
+## Implications for Practice
 - **Decide which services the library is running before buying tools.** The adoption literature is full of pilots without an owner; the reviews' most-cited barrier is funding, but the second is the absence of staff capacity matched to a service.
 - **Keep a human escalation path in any AI service.** The evidence supports AI for lookup and drafting, and human staff for judgment about sources; designs that erase the second to scale the first remove the part patrons cannot get elsewhere.
 - **Instrument the search shift rather than surveying it.** Loan and discovery logs already exist; a library that pairs them with instruction data will know more about AI's effect than a one-off student survey can show.

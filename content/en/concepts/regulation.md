@@ -1,7 +1,7 @@
 ---
 title: AI Regulation in Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -27,7 +27,7 @@ reviewed_by: [editor]
 
 Regulation is the legal and policy layer of AI [[governance]]: it sets the binding rules, standards, and enforcement mechanisms that institutional governance translates into practice. Where governance is the broad framework of norms and structures, regulation provides the authoritative rules — from national AI laws and [[privacy|data-protection]] statutes to institutional acceptable-use policies and professional guidelines. A recurring theme in the knowledge base's research is that regulation lags behind AI deployment, leaving institutions to improvise governance in the gap.
 
-### Regulatory landscape
+## Regulatory landscape
 
 - **Government policy:** [[educational-policy-ai]] research examines national and regional [[ai-education|AI education]] policies.  and [[ai-lifelong-learning-policy|lifelong learning policy]] address regulatory gaps, while [[ai-uk-higher-education-policy-2026|UK AI higher-education policy]] and [[oecd-digital-education-outlook-2026|the OECD Digital Education Outlook]] situate national approaches in comparative and international perspective.
 - **Institutional governance:** [[governance|AI governance frameworks]] and [[genai-policies-higher-ed-computing|institutional policy analysis]] document how universities develop internal AI rules, while [[genai-declaration-frameworks-higher-education|AI declaration frameworks]] and [[genai-assessment-governance|assessment governance]] regulate AI use in assessed work. [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] finds the sector's internal rules are mostly guidance rather than binding policy — 44 of 50 innovative US universities published guidelines, principles or resource hubs while only 6 framed their principal page as a "policy" — with instructor-set syllabus rules doing the operative regulatory work in individual courses. [[watson-rainie-ai-challenge-faculty-survey-2026|Watson and Rainie's (2026)]] survey of 1,057 US faculty measures how far below the institutional layer the effective rules sit: 87% of respondents wrote their own assignment-level policies while only 48% reported written institutional guidelines and 35% departmental ones, against a structural response that is thin at the top — a task force or oversight group in 55% of cases but AI literacy adopted as a general education outcome in only 13%.
@@ -36,7 +36,7 @@ Regulation is the legal and policy layer of AI [[governance]]: it sets the bindi
 - **Equalities and reasonable-adjustment law:** Over-inclusive AI rules can collide with statutory duties. [[wright-transcription-not-generation-2026|Wright (2026)]] argues that prohibitions barring "[[generative-ai|generative AI]]" without distinguishing content generation from format conversion capture AI transcription tools and may engage the reasonable-adjustment duty under the UK Equality Act 2010, the US Americans with Disabilities Act and the Australian Disability Discrimination Act 1992 — making the drafting of a prohibition a regulatory question, not only an academic-integrity one (see [[legal-issues-and-risks|legal issues and risks]]). [[li-genai-assessment-language-equity-2026|Li (2026)]] extends the same collision to language background: assessment rules that do not separate legitimate language support from substantive substitution impose cohort-skewed compliance burdens on students using English as an additional language, and the framework designed to correct this is defended through indirect-discrimination reasoning plus the administrative-law expectation that a decision-maker can state the rule applied, the evidence relied on and why the outcome was proportionate — the standard a challenge on review applies to an administrative decision.
 - **Compliance and accountability:** [[student-regulatory-awareness-genai|student regulatory awareness]] examines whether learners actually know and follow AI rules, and [[dot-framework-survey-2026|technology-adoption frameworks]] explore how regulatory and ethical concerns influence adoption decisions.
 
-### The governance gap
+## The governance gap
 
 The knowledge base documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and regulation research argue for proactive [[governance]] rather than reactive policy. Studies of  and [[raza-farooq-aied-review-2020-2025|comprehensive AIED reviews]] highlight that regulation is uneven across jurisdictions and educational levels, creating an inconsistent operating environment for teachers, students, and developers.
 
@@ -46,7 +46,7 @@ The knowledge base documents a persistent gap between AI deployment speed and re
 
 An audit of [[edtech-platform|EdTech platform]] privacy policies gives that dependency a concrete instance. Across 48 platforms, data collection was disclosed comparatively well (mean 1.81 of 2) while AI disclosure (0.90) and accountability (1.07) lagged, and 33% made no meaningful AI disclosure despite visible AI features. US [[k-12]] platforms scored highest overall (M = 7.47 against 5.50 for US [[higher-ed|higher education]]) yet gained nothing on AI disclosure or accountability. Regulation, the authors conclude, raises only what it names, so enforceable rules and procurement standards rather than voluntary commitments must make [[privacy]] a condition of deployment ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
-### Connections
+## Connections
 
 Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]], [[pedagogical-safety]], and [[academic-integrity]]. It is the institutional layer that shapes how all other AI education practices operate. Regulation both constrains and enables: it sets the boundaries of acceptable AI use while creating the conditions — through [[ai-literacy]] and responsible-use expectations — for [[equity-in-ai-education|equitable]], safe integration.
 

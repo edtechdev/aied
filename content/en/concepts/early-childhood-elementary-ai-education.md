@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-11-12T14:45:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 connected_resources: [ai-guidance-by-age]
 foundations: [ai-education, ai-literacy, computational-thinking]
@@ -27,7 +27,7 @@ reviewed_by: [editor]
 
 Young children interact with AI increasingly early — through AI-enabled toys, chatbots, [[adaptive-learning|adaptive learning]] platforms, and classroom robots — yet they differ developmentally from the K-12 and higher-education learners who dominate most AI-in-education [[research-methods-aied|research]]. This concept gathers the knowledge base's coverage of that younger band. It sits within the broader [[k-12|K-12]] umbrella but is distinct because the concerns are developmentally specific: [[game-based-learning|play]] as a primary learning mode, adult (parent/teacher) scaffolding, age-appropriate [[ai-literacy|AI literacy]], and heightened attention to [[well-being]] and [[pedagogical-safety|safety]]. The developmental account behind these claims — how capacities change with age, and why "age-appropriate" is a relation rather than a label — is on [[developmental-psychology|developmental psychology]].
 
-### How the research clusters
+## How the research clusters
 
 - **AI literacy through unplugged play.** [[ai-play-framework-early-childhood-2026|The AI-Play framework]] teaches early-childhood AI concepts through *unplugged* (no-computer) activities, showing that abstract AI ideas can be introduced to young children through embodied, playful, and tangible activities (see [[game-based-learning]]) — a developmentally appropriate route into [[ai-literacy]] and [[computational-thinking]].
 
@@ -61,7 +61,7 @@ Young children interact with AI increasingly early — through AI-enabled toys, 
 
 - **AI literacy as classroom interpretive work, not individual knowledge.** [[konca-preschool-genai-storytelling-ai-literacy-2026|Konca and Yigit-Gencten (2026)]] coded 17 storytelling sessions in a Turkish preschool where the teacher wrote every Midjourney prompt and the class watched outputs on a shared screen. Children explained mismatches by attributing thought, hearing and intent to the system ("it couldn't think of it well enough"), debated prompt-output links, and voted on which images to keep. Because the teacher's questions decided which explanations were taken up, and sometimes closed inquiry altogether, early AI literacy here is distributed across the activity rather than held by a child.
 
-### Developmental and equity considerations
+## Developmental and equity considerations
 
 Because young learners are more vulnerable and less able to self-regulate their use of AI, this cluster emphasizes **scaffolding by adults** (parents, guardians, and teachers), **age-appropriate design**, and the risk of [[cognitive-offloading|over-reliance]] and [[well-being|harm]] if AI substitutes for, rather than supports, the developmental work of play, discovery, and effortful learning. Equity is a live concern: access to AI-rich early learning (or to protective adult guidance) is uneven, connecting to [[digital-divide]] and [[equity-in-ai-education]]. Much of the evidence base remains exploratory or design-oriented rather than causal.
 

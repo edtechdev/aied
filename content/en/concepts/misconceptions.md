@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T21:40:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -28,11 +28,11 @@ reviewed_by: [editor]
 
 Misconceptions about AI matter because they are the cognitive precursor to the harmful behaviors the knowledge base documents under [[cognitive-offloading|Over-Reliance]] and [[academic-integrity]] concerns. People rarely set out to [[ai-misuse-learning-harm|misuse]] AI; they do so because inaccurate mental models lead them to misplace trust, skip verification, and treat output as understanding. In education these errors shape everything from how students study to how teachers and institutions design curricula, [[assessment]], and policy.
 
-### What AI misconceptions are
+## What AI misconceptions are
 
 A misconception here is not mere ignorance of how a model works — it is an actively held, often self-reinforcing belief that produces systematic errors in how students interact with AI. They are directly analogous to the domain misconceptions studied in [[learning-sciences|learning science]]: stable, plausible, and resistant to correction until confronted. Correcting them is a core aim of [[ai-literacy]] and [[trust-calibration]] education.
 
-### Common misconceptions in academic contexts
+## Common misconceptions in academic contexts
 
 - **The authority fallacy** — treating [[llm]] output as verified fact rather than a probabilistic completion. Drives uncritical acceptance and the answer-seeking-over-understanding pattern documented in [[intelligent-tutoring|AI-tutoring]] research, where learners accept a model's answer without checking it against [[hallucination-risk]].
 - **The independent-check illusion** — treating [[ai-feedback-quality|AI feedback]] as an outside correction when the model mirrors your own reasoning. Users' baseline accuracy was the dominant predictor of final performance, and [[ai-sycophancy|sycophancy]]-specific prompting cut positional mimicry (OR = 0.26) but left error propagation untouched, so learner training is not the safeguard ([[contextual-sycophancy-ai-literacy|Koyuturk et al. (2026)]]).
@@ -47,17 +47,17 @@ A misconception here is not mere ignorance of how a model works — it is an act
 
 The integrity gray zone has a structure, not just two extremes. Interviews with 20 students, together with their chat logs and course documents, found five separate sites where AI policy lives, from faculty intention through formal policy and student self-policy to actual practice, plus 23 distinct rationalizations in six classes ([[student-rationalization-ai-writing|Kim et al., 2026]]). The rationalizations were ad hoc and post hoc, assembled to explain use that had already happened rather than to guide it. A strict prohibition did not prevent use so much as intensify moral conflict in students who wanted to comply, which puts the correction target in the policy site rather than in the statement of the rule.
 
-### Institutional and public AI myths
+## Institutional and public AI myths
 
 Misconceptions are not confined to students — they saturate the institutional and public discourse about AI that students inherit. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] dismantle eight entrenched "myths" that shape higher-education policy and teaching: that AI is genuinely "artificial" (rather than built from exploited human labor), that it is truly "intelligent" and [[agentic-ai|agentic]], that it will unproblematically "make the world a better place," that it is "objective and unbiased," that the US holds a sole superpower monopoly, that it will not disrupt the job market, that it "revolutionises [[higher-ed|higher education]]," and that teachers can reliably detect AI-generated work. These institutional myths are the upstream source of many student misconceptions documented above — most directly the [[trust|neutrality illusion]] ("AI is objective") and the [[trust-calibration|authority fallacy]] ("AI is intelligent"), and the detection miscalibration that leads students to assume undetectable, unverifiable use is safe. Where students absorb and act on institutionally-repeated myths, correcting them requires confronting not only the learner's belief but the discourse that feeds it.
 
-### Why misconceptions matter for learning
+## Why misconceptions matter for learning
 
 Misconceptions translate directly into the behaviors that cause learning harm. The belief that "AI is always right" suppresses verification; the belief that "using AI is learning" suppresses effortful processing; the belief that "it's not cheating" bypasses the metacognitive review that consolidates understanding. In this sense misconceptions are upstream of the [[ai-misuse-learning-harm]] documented across the knowledge base's evidence base.
 
 The belief that using AI is learning is not only held before use; the tool can manufacture it. [[llm-fallacy-misattribution|Kim et al.]] describe an LLM fallacy in which opaque, fluent, immediate output is misread as evidence of the user's own competence, so perceived and actual capability diverge by a margin they call ΔC. Because the mechanism is fluency and attribution ambiguity rather than error, the fallacy persists whether the model is accurate or hallucinating, which means a correct AI-assisted answer is not evidence that the belief has been corrected.
 
-### Misconceptions beyond students: teachers, institutions, and the public
+## Misconceptions beyond students: teachers, institutions, and the public
 
 AI misconceptions are not confined to learners — they are pervasive among the adults who shape education:
 
@@ -69,7 +69,7 @@ This breadth is why the knowledge base treats misconceptions as a cross-cutting 
 
 Teachers' pedagogical misconceptions are the mirror image of this: not misunderstandings about AI, but evidence-unsupported beliefs about teaching that persist regardless of AI. [[etq-ai-conversational-teacher-training-2026|Miranda and Calvani (2026)]] instrument this with the Effective Teaching Questionnaire, where 50 binary items map onto [[meta-analysis-systematic-review|meta-analytic]] effect sizes (d ≥ 0.40) so a teacher's answer can be compared against an evidence-aligned benchmark — and their finding is that the misconceptions are deep and specific. A pilot with 123 educators in Italy found the sharpest disagreement on the learning-styles claim (78% of teachers defended visual/auditory matching), then on inclusion and [[group-work|group work]] (68%) and EdTech overload (54%); average alignment ran near 50% across the planning, cognitive, evaluative and management dimensions. Two details matter for correction design. First, the misconceptions survive university education and teaching practice — the authors describe an "internalized common sense" that "precedes entry into school" and persists — so they are not knowledge gaps a lecture closes. Second, when a conversational AI re-introduced the same items only after validating the teacher's own context, 41% of objections cited genuine contextual limits — class sizes, students with [[special-education|special needs]], [[curriculum-design|curriculum]] coverage — rather than the evidence itself. A further 5.9% called the system "an algorithmic dogma machine": the boundary condition where normative framing breeds defensiveness instead of reflection. For [[teacher-ai-competency]] development the implication is that diagnostic-plus-dialogue can surface which beliefs are evidence-based disagreement and which are misconception, a distinction a score alone cannot make.
 
-### Correcting misconceptions
+## Correcting misconceptions
 
 Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process that develops [[metacognition]] and [[self-regulated-learning]]: helping students (and the adults around them) monitor their reliance, calibrate when to trust and when to question a model, and see the cost of bypassing their own [[cognitive-offloading|cognitive work]]. Because misconceptions are resistant, they are best addressed through direct confrontation with evidence — including the finding that students often *do not perceive* the learning harm of AI misuse.
 
@@ -85,7 +85,7 @@ Bernstein and Sibia (2026) show that [[generative-ai|GenAI]]-generated analogies
 
 **Model-generated misconceptions are a measurable capability, not an accident.** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] built SocraticTrap-CS, which prompted seven open-weight models to write a "[[socratic-method|Socratic]] trap" for 35 core CS concepts — an explanation that is fluent and authoritative while resting on a subtle, domain-specific error. Of 241 prompted segments, 221 (91.7%) were confirmed as strategic misconceptions by expert majority vote (Fleiss' κ = 0.9487), with no significant differences between CS domains; 66.5% of the confirmed errors were conceptual rather than factual and none were purely logical. Fluency is the mechanism rather than a defense: persuasiveness averaged 3.71 on a five-point scale and was strongly model-dependent, and frequency and severity dissociated, with the two models that produced traps most often also rated most convincing. Because a student's poorly framed question can itself act as an adversarial prompt, the authors treat the rate as a capability under adversarial prompting rather than a base rate for ordinary study sessions — and argue the [[ai-literacy]] task shifts from fact-checking individual statements to conceptual verification and mental-model validation. This is the darker face of the generative use above: the same capability that can seed productive peer discussion can also entrench an error a learner was already forming.
 
-### Refutation-style corrections for common AI misconceptions
+## Refutation-style corrections for common AI misconceptions
 
 Because misconceptions are actively held and resistant, the most direct way to address them — including on this page — is the [[refutation-text]] structure: **name the misconception, explicitly refute it, and state the correct conception.** The entries below apply that structure to the most consequential misconceptions about AI and about learning, teaching, and education:
 
