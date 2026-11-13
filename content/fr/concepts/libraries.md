@@ -12,9 +12,9 @@ level: [higher ed, adult learning]
 page_kind: [synthesis]
 confidence: medium
 connected_resources: [public-ai-libraries]
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 translation_of: "concepts/libraries"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-12T21:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -61,12 +61,18 @@ La capacité du personnel est la contrainte récurrente dans les travaux d'enqu�
 
 La fonction la plus ancienne de la bibliothèque — fournir un accès que les individus ne peuvent pas acheter — a acquis un nouvel objet. Le pilote [[public-ai-libraries|Bibliothèques publiques d'IA]] place une station de travail IA partagée dans les bibliothèques publiques, donne à chaque usager un compte séparé et facture aux bibliothèques participantes \$1,000 par kiosque et par an. Que le modèle se diffuse ou non, il nomme précisément l'argument d'[[equity-in-ai-education|équité]] : dans une [[digital-divide|fracture numérique]] qui traverse désormais la capacité en IA, la bibliothèque est l'institution qui peut fournir un accès partagé et encadré plutôt qu'un abonnement par personne.
 
-## Ce que cela signifie pour la pratique
-
+## Implications pour la pratique
 - **Décidez quels services la bibliothèque gère avant d'acheter des outils.** La littérature sur l'adoption est pleine de pilotes sans propriétaire ; la barrière la plus citée par les revues est le financement, mais la seconde est l'absence de capacité de personnel adossée à un service.
 - **Gardez une voie d'escalade humaine dans tout service d'IA.** Les preuves soutiennent l'IA pour la recherche documentaire et la rédaction, et le personnel humain pour le jugement sur les sources ; les conceptions qui effacent le second pour développer le premier retirent ce que les usagers ne peuvent obtenir ailleurs.
 - **Instrumentez le déplacement de la recherche plutôt que de l'enquêter.** Les journaux de prêt et de découverte existent déjà ; une bibliothèque qui les associe aux données d'enseignement en saura plus sur l'effet de l'IA qu'une enquête ponctuelle auprès des étudiants ne peut le montrer.
 - **Ne présentez pas la littératie en IA comme une littératie informationnelle.** Elles partagent le personnel et les cadres mais diffèrent dans ce qui est évalué ; les confondre produit un programme qui ne mesure ni l'une ni l'autre.
+
+## Idées fausses courantes
+
+- **L'IA dans les bibliothèques, c'est un robot conversationnel au bureau de référence.** L'adoption se concentre sur le travail transactionnel — questions d'orientation, catalogage, transcriptions de clavardage — tandis que le jugement reste humain.
+- **Les étudiants ont abandonné la bibliothèque.** Les moteurs de recherche restent le point de départ dominant, et neuf années de registres de prêts ne montrent aucune rupture dans les emprunts.
+- **Le financement est le seul obstacle.** Les lacunes de compétences et la mauvaise qualité des données sont citées plus souvent que l'argent, ce qui fait de ce problème un problème de capacité autant que de budget.
+- **Une littérature croissante signifie que le domaine se transforme.** Le volume de publications a augmenté sans aucun changement mesuré des pratiques ; les revues trouvent l'enthousiasme en avance sur l'effet.
 
 ## Concepts liés
 

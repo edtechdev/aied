@@ -1,7 +1,7 @@
 ---
 title: "Analyse par capteurs et suivi du regard"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -37,7 +37,7 @@ ai_assist:
 
 ## Introduction
 
-L'analyse par capteurs et le suivi du regard désignent une famille de méthodes qui transforment des mesures physiques d'un apprenant en inférences éducatives. Les mesures incluent où les yeux se posent et pour combien de temps, l'activité électrique du cuir chevelu, les réponses sudoripares, la variation battement à battement du rythme cardiaque, et la position et le mouvement de la tête et du tronc. Les inférences comprennent l'attention, l'engagement, la charge cognitive, la confusion, le stress et, dans les contextes d'évaluation, le soupçon.
+L'analyse par capteurs et le suivi du regard désignent une famille de méthodes qui transforment des mesures physiques d'un apprenant en inférences éducatives. Les mesures incluent où les yeux se posent et pour combien de temps, l'activité électrique du cuir chevelu, les réponses sudoripares, la variation battement à battement du rythme cardiaque, et la position et le mouvement de la tête et du tronc. Les inférences comprennent l'attention, l'engagement, la charge cognitive, la confusion, le stress et, dans les contextes d'évaluation, le soupçon. Cette page porte spécifiquement sur cette couche de mesure : pour le programme plus large et ses prétentions, voir [[affective-computing]] ; pour la manière dont un tuteur devrait agir sur une inférence une fois qu'il en dispose, voir [[affective-tutoring]].
 
 L'attrait est simple. Les [[self-report-measures|auto-déclarations]] sont rétrospectives et grossières, et les quiz échantillonnent l'apprentissage à quelques moments. Les capteurs fonctionnent en continu et coûtent peu d'effort conscient à l'apprenant. Cette combinaison a rendu la captation centrale pour l'[[learning-analytics|analytique de l'apprentissage]] et la [[student-modeling|modélisation de l'étudiant]], et produit une vaste littérature où la captation est techniquement impressionnante et l'interprétation mince.
 
@@ -82,6 +82,8 @@ La [[assessment-validity|validation]] peut gonfler le modèle. Un banc d'essai d
 Un corrélat neuronal n'est pas une note. Des images reconstruites à partir de l'EEG corrélaient avec la performance au test à R² = 0.79 sur 55 observations participant-vidéo. Les items correctement répondus montraient aussi une similarité sémantique plus élevée que les items incorrects. Pourtant, un participant a produit des reconstructions de haute qualité et répondu incorrectement, si bien que la qualité de reconstruction ne peut être lue comme une exactitude ([[seeing-cognitive-representations-eeg-reconstruction|Su et coll., 2026]]).
 
 L'attention n'est pas l'apprentissage. Dans TutorLoop, l'attention corrélait avec l'apprentissage à r = 0.017, tandis que la charge de travail corrélait négativement à r = -0.168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Un système qui maximiserait le signal d'attention aurait optimisé du bruit.
+
+Un signal peut aussi inverser le construit. Dans 37 [[simulation|simulations]] infirmières enregistrées, un détecteur de sourire corrélait négativement avec l'[[empathy|empathie]] évaluée par des observateurs (r = −0.322), tandis que la détection de contact physique s'accordait avec quatre mesures d'observateurs de 0.46 à 0.54 ; les observateurs lisaient un sourire adressé à un patient souffrant comme une incongruité, et le modèle lisait une action faciale ([[nissan-nursing-empathy-computer-vision-2026|Nissan et coll., 2026]]).
 
 Un capteur peut enregistrer une co-présence là où une étude affirme une interaction : [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] ont constaté qu'un détecteur de pose n'atteignait qu'un rappel de 55 %, repérant 11 des 20 événements identifiés par des codeurs humains dans les interactions enseignant-étudiant de groupe. L'[[teacher-role|enseignant]] était présent dans les limites du groupe dans 49.2 % des segments codés, les étudiants ne regardant l'enseignant que dans 25.4 % des segments, et aucune caractéristique audio ne changeait dans les deux comparaisons : le pipeline enregistrait une co-présence spatiale, non une interaction soutenue.
 
@@ -138,6 +140,8 @@ Enfin, collecter n'est pas intégrer. Kim et Han ont trouvé que la plupart des 
 - [[intelligent-tutoring]]
 
 ## Articles liés
+
+- [[nissan-nursing-empathy-computer-vision-2026]] — la détection de contact physique suivait l'empathie évaluée par des observateurs, la détection de sourire l'inversait, le contact visuel et les cartes de chaleur étaient nuls (Nissan et coll. 2026)
 - [[gaze-informed-ai-children]] — la narration par LLM déclenchée par le regard a retenu les enfants sur une zone narrée 6.48 s contre 1.67 s, mais l'étude a mesuré l'attention plutôt que la compréhension (Wu et coll., 2026)
 - [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG porté sur la tête, oculométrie et EDA frontale ont prédit l'engagement auto-évalué à 75.0 % d'exactitude à un niveau près contre une base de 63.0 % (Anupkrishnan et coll., 2026)
 - [[engagement-assessment-video]] — EduGage a fusionné sept flux portables et de caméra en estimations d'engagement par segment (MAE 0.81) et plaide pour une instrumentation plus légère (Leng et coll., 2026)

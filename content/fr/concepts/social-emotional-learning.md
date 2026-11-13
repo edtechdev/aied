@@ -1,7 +1,7 @@
 ---
 title: "L'apprentissage socioémotionnel"
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -44,6 +44,7 @@ L'apprentissage socioémotionnel est étroitement lié à l'intelligence émotio
 
 ### Comment le SEL apparaît dans la recherche
 
+- **L'empathie est le bord affectif du SEL, et le plus difficile à évaluer.** [[empathy|La page sur l'empathie]] rassemble les preuves sur son enseignement et sa mesure : le jeu de rôle, la réalité virtuelle et le dialogue avec un LLM élèvent tous les scores d'auto-déclaration, les évaluations d'observateurs restent cohérentes, et les proxys par vision par ordinateur s'inversent sur le sourire. C'est la page à lire avant de traiter un gain d'empathie comme la preuve qu'un programme a fonctionné.
 - **Intégrer les SEC à la littératie en IA :** [[sec-ai-literacy-narrative-review-2026|la revue narrative de Palmquist et al.]] propose un cadre intégré qui combine la littératie en IA et les compétences socioémotionnelles, soutenant que la seule maîtrise technique est insuffisante — enseignants et élèves ont besoin à la fois d'intelligence technologique et d'intelligence émotionnelle pour naviguer les environnements d'apprentissage médiés par l'IA, en favorisant l'[[personalized-learning|apprentissage personnalisé]], la collaboration et l'[[student-engagement|engagement]] éthique.
 - **Les enseignants et la pratique relationnelle :** les recherches sur les [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|cadres de littératie en IA]] et sur la [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|confiance entre enseignants et élèves]] soulignent que le SEL soutient les dimensions relationnelles de l'apprentissage (les relations enseignant-élève et élève-élève), que l'IA doit compléter plutôt que remplacer.
 - **Ce qu'un [[pedagogical-agent|agent pédagogique]] peut et ne peut pas porter dans le SEL.** Sur 108 observations évaluées en aveugle, un agent pédagogique fondé sur l'IA générative a été plus constant que les enseignants pour maintenir un ton respectueux et un étayage procédural de routine, tandis que les enseignants l'ont surpassé dans le guidage de la réflexion et la promotion des connaissances socioémotionnelles — ce qui soutient une division du travail, et non une substitution ([[human-ai-complementarity-social-emotional-learning-2026|Raave et al., 2026]]).

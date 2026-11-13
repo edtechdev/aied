@@ -1,7 +1,7 @@
 ---
 title: "Évaluation orale"
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 connected_resources: [code-viva]
@@ -15,7 +15,7 @@ level: [higher ed]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/oral-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T13:35:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -51,6 +51,8 @@ Ce renversement est désormais visible à travers le corpus de recherche, mais d
 
 La version honnête de l'affirmation sur l'intégrité est plus étroite qu'on ne l'énonce souvent. Les oraux rendent la substitution plus difficile à cacher ; le corpus ne montre pas qu'ils réduisent l'usage de l'IA. Dans [[code-review-genai-cs1|l'étude de revue de code orale en CS1]], des entretiens hebdomadaires de quinze minutes portaient soixante-dix pour cent de la note de chaque devoir, et le rapport des caractères collés au total a malgré tout augmenté de 61,0 pour cent à 68,1 pour cent (p < 0,0001) sur trois semestres, tandis que les scores à l'examen ne se déplaçaient que de deux pour cent, statistiquement non significatif. Quatre-vingt-dix pour cent des étudiants ont dit que les revues les motivaient à mieux comprendre leur code et soixante-cinq pour cent qu'elles les aidaient à éviter une dépendance excessive à l'IA, mais le comportement mesuré n'a pas suivi. L'évaluation orale a changé ce qui pouvait être caché, et non ce que les étudiants faisaient.
 
+La version bornée de ce garde-fou apparaît dans le modèle d'évaluation de Webb-Davies, Ratner et Bassett, où une soutenance n'est déclenchée que lorsque l'évaluateur ne peut reconstruire un lien plausible entre une base de raisonnement observée et le travail final soumis. Les auteurs précisent qu'il ne s'agit pas d'un oral de routine : il demande comment une position s'est développée ou pourquoi une preuve a été choisie, et un compte rendu confirmé n'entraîne aucune pénalité. La conception maintient l'évaluation orale assez rare pour être déployable à l'échelle, tout en concédant que le jugement lui-même ne peut être automatisé ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
+
 ## L'espace de conception que le corpus couvre réellement
 
 Les formats du corpus s'étendent sur un large éventail d'automatisation et de synchronie, et chacun résout une partie différente du problème.
@@ -61,7 +63,11 @@ Les formats du corpus s'étendent sur un large éventail d'automatisation et de 
 
 **Délivrance et notation automatisées.** [[ai-supported-oral-assessment-tvet-2026|Un système vocal mis à l'essai dans des classes professionnelles d'automobile et d'ingénierie]] a évalué trente-trois apprenants, dont vingt et un ont jugé réaliste la tâche vocale en direct et aucun n'a contesté que parler en temps réel convenait mieux à la tâche qu'un [[eportfolio|portfolio]] écrit. Les décomptes de mots pour des questions identiques variaient d'un facteur cinq à huit entre apprenants, la fluidité ne conférait aucun avantage d'exactitude sur les items fermés, et une note préliminaire d'un agent égalait celle du tuteur humain dans quatre-vingt-quinze pour cent des essais adjacents en horticulture et en laiterie. [[socratic-tests-conversational-assessment|Un test socratique conversationnel]] prend la voie de conception inverse, visant l'interrogation conceptuelle ; ses preuves consistent en une enquête par auto-déclaration de quatre-vingt-dix-huit étudiants, dans laquelle 80,6 pour cent convenaient que l'IA étayait efficacement et cinquante-deux pour cent rapportaient un stress plus faible qu'aux examens traditionnels. Les deux articles mesurent l'acceptation plutôt que l'apprentissage.
 
+**L'IA comme échafaudage logistique pour des oraux en direct supervisés par des humains.** Un troisième dispositif conserve l'enseignant comme examinateur et utilise l'IA pour rendre faisable la répétition en binôme. Dans les cours de statistique pour les affaires d'[[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe et al. (2025)]], les oraux individuels en direct sur Zoom ne pouvaient atteindre chaque étudiant dans la limite de temps, si bien que les étudiants travaillaient en binômes dans des salles de discussion avec une invite ChatGPT structurée couvrant le type de questions que l'examen poserait, tandis que l'enseignant circulait entre les salles pour sonder le raisonnement. L'article rapporte la logistique et la réduction de la charge de l'enseignant, mais aucune comparaison de résultats : c'est donc une conception à tester plutôt qu'une preuve que la répétition médiée par l'IA préserve ce qu'un oral certifie. Son intérêt pour cette page est qu'il cible la contrainte d'emploi du temps et d'heures de contact que nomme Fenton sans automatiser ni la passation ni la notation.
+
 **La preuve orale comme défense plutôt que comme examen.** [[tool-invariant-framework-agentic-ai|Un cadre d'évaluation invariant à l'outil]] associe des quiz en classe sans IA à des défenses orales de dix minutes de travaux assistés par l'IA dont les commentaires ont été retirés, notées sur la compréhension du code, la compréhension de la méthode, la terminologie, l'interprétation et la vérification, la vérification étant exigée pour réussir quel que soit le total. La conception est argumentée plutôt que validée ; l'arithmétique propre à l'article pour quinze étudiants est de deux heures et demie de contact par devoir et d'environ vingt-huit heures de contact par semestre sur onze devoirs défendus.
+
+**Un sondage par échantillon, et non une couverture complète.** Deng (2026) propose d'examiner en face à face un tirage aléatoire des travaux soumis par un étudiant, sous quatre conditions de crédibilité : plus d'un interrogateur, des sessions enregistrées et auditables, une voie de recours, et un consultant qui n'est pas le certificateur ([[deng-certification-consultation-university-teaching-2026|Deng, 2026]]). La conception est argumentée plutôt que testée, mais elle franchit le mur des heures de contact en échantillonnant plutôt qu'en examinant tout.
 
 Le format de l'interaction décide de ce qu'une tâche d'expression médiée par l'IA peut certifier. Les tâches de dialogue du Duolingo English Test, au nombre de 713 dans le pilote, exigeaient de sélectionner une réponse plutôt que de produire un échange réactif, ce que les évaluateurs jugent en décalage entre les exigences cognitives de la tâche et le construit que le test prétend mesurer ([[ai-second-language-listening-speaking-assessment-2025|Goh & Aryadoust (2025)]]).
 
@@ -122,3 +128,6 @@ L'argument d'intégrité de l'oral est aussi limité dans le temps : [[corbin-ai
 - [[pgr-students-genai-uses-qualitative-2026]] — La soutenance doctorale à l'ère de l'IA générative
 - [[computing-assessment-genai-workshop-report-2026]] — L'IA peut faire vos devoirs. Et maintenant ? Compte rendu d'un atelier en ligne sur l'évaluation en informatique à l'ère de l'IA générative
 - [[assessment-feedback-trilemma-model-2026]] — Refuse toute position fixe à un format et recadre la faisabilité comme une priorité éducative
+- [[onodipe-enhance-not-replace-ai-classroom-2026]] — Des oraux en binôme étayés par l'IA comme contournement d'emploi du temps dans un cours de statistique pour les affaires
+- [[deng-certification-consultation-university-teaching-2026]] — L'enseignement universitaire après l'IA générative : au-delà des cours magistraux et de l'enquête, un paradigme de certification et de consultation où les apprenants deviennent…
+- [[webb-davies-voice-first-written-assessment-2026]] — Une évaluation écrite en deux étapes qui sécurise le raisonnement sous observation avant de noter un travail rédigé à domicile, avec une soutenance conditionnelle pour les cas non résolus

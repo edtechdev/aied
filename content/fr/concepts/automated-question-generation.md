@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: "Génération automatisée de questions"
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-12T06:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,7 @@ Les évaluations étaient rares — 3.31 pouces vers le haut et 2.00 pouces vers
 - **La reconnaissabilité dans un examen réel, et ce que la revue retire effectivement :** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] ont placé 30 QCM générés par IA et 30 QCM de l'examen national d'agrément dans un examen noté sur tablette passé par 119 étudiants en [[medical-education|médecine]] de cinquième année, les items d'IA ayant été rédigés à partir des supports du cours par ChatGPT-4o et Gemini 1.5 Pro via un panel d'experts qui en a accepté 82% et en a éliminé 18.2% comme inutilisables. L'attribution de source par les étudiants ne différait pas entre les deux types d'items, et la difficulté des items, la distribution des distracteurs et l'alignement perçu sur le programme étaient statistiquement indistinguables — un résultat de *reconnaissance* plutôt qu'un résultat de qualité, et la raison pour laquelle les auteurs décrivent le bénéfice du flux de travail comme un déplacement de l'effort des éducateurs, de la rédaction vers la revue, plutôt que sa suppression. Une différence exploratoire a subsisté : les items de Gemini étaient plus difficiles que les items de l'examen d'agrément (p = 0.028), alors que ceux de ChatGPT ne l'étaient pas (p = 0.984).
 - **La dépendance à la tâche :** la fiabilité de la génération varie selon le type d'item. La [[cong-confidence-asag-2026|notation des réponses courtes]] et l'[[self-referential-l2-writing-llm-assessment|évaluation analytique de l'écriture]] montrent que les items à réponse ouverte et les items d'écriture sont plus difficiles à générer et à noter de façon fiable que les items structurés.
 - **La qualité cognitive :** l'[[llm-educational-question-cognitive-depth|évaluation de la profondeur cognitive]] montre que les items générés peuvent pencher vers les niveaux inférieurs de la pensée à moins d'être explicitement conçus pour des objectifs de niveau supérieur.
+- **Les grilles de rédaction d'items passent avant l'alignement.** Vingt-sept items de chimie générés par GPT-4 satisfaisaient en moyenne 87.71% de 22 critères binaires de rédaction d'items, mais seulement 33.33% réduisaient le langage spécialisé et 48.15% équilibraient la longueur des options, et l'alignement sur le niveau de compétence atteignait 25.93% d'accord exact avec la difficulté impliquée par le modèle de Rasch ([[rodemer-ai-generated-mcq-chemistry-assessment-2026|Rodemer et al. (2026)]]). Le contrôle qui compte est la difficulté empirique, non la liste de vérification.
 - **L'étiquetage automatique du niveau cognitif ne se transpose pas aux items générés.** Un classificateur de la taxonomie de Bloom entraîné sur une banque d'items curatée s'effondrait sur les questions générées par IA — macro F1 de 0.88 en distribution à 0.48 et 0.20 hors distribution — parce que les items générés comptent en moyenne bien plus de mots (18.2 contre 9.3) et ne partagent que 10.5% en médiane de leurs verbes déclencheurs de Bloom avec le corpus curaté, contre 35.1% pour un ensemble plus proche ; le réentraînement sur des données hors distribution étiquetées constituait le gain individuel le plus important, avec un seuil d'environ N > 1.000 échantillons étiquetés ([[bloom-classifier-ai-assisted-questions-2026|Castanares et al., 2026]]).
 
 ## Role in adaptive and personalized learning
@@ -140,3 +141,4 @@ L'AQG est un levier clé de l'[[adaptive-learning|apprentissage adaptatif]] et d
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — L'usage des LLM par les étudiants et les limites de la difficulté des questions générées par l'IA dans les cours de science des données
 - [[bloom-classifier-ai-assisted-questions-2026]] — Évaluation de modèles pré-entraînés pour l'évaluation pédagogique de nouvelles questions éducatives assistées par l'IA
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Les étudiants ne pouvaient distinguer les QCM générés par IA des items d'examen d'agrément dans un examen noté, et 18.2% des items générés ont été éliminés en revue (Vogt et al. 2026)
+- [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — Des items générés qui passent une grille de rédaction peuvent encore manquer leur niveau de compétence visé

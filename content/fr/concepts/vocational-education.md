@@ -1,7 +1,7 @@
 ---
 title: "L'enseignement et la formation professionnels"
 created: "2026-09-17T14:04:23-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -12,7 +12,7 @@ level: [adult learning, higher ed]
 confidence: high
 connected_resources: [unesco-2026-integrating-ai-in-tvet-guide]
 translation_of: concepts/vocational-education
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ Ses voisins dans cette base de connaissances diffèrent principalement par leur 
 
 Ce qui est distinctif dans l'IA en EFP est l'écart entre ce que le secteur dit vouloir et ce qu'il construit : la [[constructivist|théorie constructiviste]] est largement proclamée, tandis que les systèmes béhavioristes d'exercices et de pratique dominent et que les conceptions fondées sur l'agentivité de l'apprenant demeurent rares. La question de conception récurrente n'est pas de savoir si l'IA peut délivrer un enseignement, mais si elle peut absorber les parties de l'apprentissage professionnel qui coûtent cher en personnel — scénarios réalistes, rétroaction rapide, contre-interlocuteurs joués, preuves orales — sans déplacer la pratique qui produit la compétence.
 
-### Comment l'IA apparaît dans l'enseignement et la formation professionnels
+## Comment l'IA apparaît dans l'enseignement et la formation professionnels
 
 - **Une base de données probantes jeune, fragmentée et géographiquement concentrée.** La première [[meta-analysis-systematic-review|revue systématique]] de l'IA dans l'EFP ([[ai-vocational-education-training-review]]) a identifié 26 études empiriques publiées entre 2015 et 2026 via ERIC, Web of Science et Elicit, selon les lignes directrices PRISMA : neuf dans le domaine technique, neuf générales quant au domaine, cinq en administration des affaires et trois en santé. Les cadres étaient six en classe, huit en ligne, quatre hybrides et huit fondés sur la simulation — et aucun sur un lieu de travail, malgré le caractère de l'EFP fondé sur le travail. Dix-sept des 26 provenaient d'Asie ; seulement neuf études partageaient au moins une référence et aucune ne se citait. Cinq étaient des expériences randomisées et 21 recouraient à des dispositifs pré-expérimentaux ou quasi expérimentaux, mesurant surtout les résultats immédiatement après l'intervention, et seulement trois donnaient aux apprenants un rôle actif dans une conception habilitée par l'IA. Les auteurs avertissent d'un « piège de Turing » éducatif — utiliser l'IA pour répliquer l'instruction humaine plutôt que pour augmenter le [[human-in-the-loop-ai|jugement humain]] — et appellent à des cas d'échec et à des conditions aux limites en remplacement du récit de réussite dominant.
 - **La simulation absorbe l'interprète rare.** [[astra-atco-training-simulator]] cible une contrainte de capacité dans la formation des contrôleurs aériens : les *simpilotes*, formateurs humains spécialisés qui jouent à la fois les pilotes et les contrôleurs dans un espace aérien simulé. ASTRA substitue des pseudo-pilotes autonomes pilotés par [[llm|LLM]], conservant la complexité des scénarios tout en supprimant le goulot d'étranglement du personnel et en permettant une pratique [[adaptive-learning|adaptative]] à grande échelle. Il s'agit d'une description de système plutôt que d'un essai d'efficacité, mais elle nomme un mécanisme qui revient dans toute l'IA en EFP : là où l'intrant rare est un humain qualifié jouant un contre-interlocuteur, un agent peut tenir le rôle et laisser la pratique s'étendre.
@@ -58,16 +58,7 @@ Ce qui est distinctif dans l'IA en EFP est l'écart entre ce que le secteur dit 
 - **Le soutien perçu est un levier institutionnel, non un déficit des étudiants.** Parmi 784 étudiants de six établissements professionnels supérieurs chinois, [[huang-ai-literacy-vocational-problem-solving-2026|Huang et al. (2026)]] ont constaté que le lien entre l'[[ai-literacy|littératie en IA]] et la [[problem-solving|résolution de problèmes complexes]] auto-déclarée (total 0.480) se renforçait avec le soutien TIC perçu de l'établissement : les effets indirects conditionnels passaient de 0.117 à 0.176 et de 0.038 à 0.127.
 
 - **Le renouvellement des programmes comme obligation continue, et non comme revue périodique.** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]] identifie cinq dimensions de renouvellement en interaction — transformation des métiers, actualité du programme, alignement des capacités du corps enseignant, architecture du programme et alignement externe — et six tests de leadership pour décider si un cours doit être conservé, révisé, intégré, remplacé ou retiré.
-
-## Idées fausses courantes
-
-**« La base de données probantes sur l'IA dans l'EFP nous renseigne sur l'enseignement professionnel. »** Elle nous renseigne sur des substituts en classe, ce qui constitue un écart sérieux plutôt qu'un détail : **aucune étude de la base de données probantes sur l'IA dans l'EFP n'est située sur un lieu de travail**, alors que l'EFP est *défini* par l'apprentissage fondé sur le travail. Un résultat concernant un outil d'IA dans une tâche professionnelle simulée n'a pas encore rencontré les conditions qui rendent le secteur distinctif — de vrais clients, de vraies conséquences de sécurité, une vraie variabilité des équipements de travail.
-
-**« Un effet significatif sur la capacité de conception ou de création se transfère à la compétence professionnelle. »** Le résultat [[quantitative-research|quantitatif]] le plus solide ici provient d'une **quasi-expérience à deux groupes de 12 semaines avec 63 réponses valides (31 contre 32)**. Là, la condition d'agent immersif obtenait de meilleurs scores de capacité de conception (η²p = .138) et de capacité créative (η²p = .111) sous ANCOVA, avec un engagement cognitif d = 0.90. Trente et un étudiants par bras dans une tâche de classe, c'est une preuve sur cette tâche, et la compétence professionnelle ne fait pas partie des résultats mesurés.
-
-**« Les apprenants vont trop s'appuyer sur l'IA en formation pratique. »** Les données pilotes pointent dans l'autre sens. Des pilotes exploratoires (**N = 30**, Italie et Chine, **20 séances bornées**) ont trouvé que les participants traitaient le système comme un outil de soutien borné, avec **aucune attente rapportée de substitution ni de dépendance**. C'est exploratoire et de petite taille, et cela suggère bien que le cadrage des apprenants professionnels — un outil comme équipement plutôt que comme autorité — est une ressource autour de laquelle il vaut la peine de concevoir.
-
-**« L'approbation par les apprenants d'une tâche simulée signifie qu'elle a évalué la bonne chose. »** Sur **33 apprenants interrogés, 21 (64 %)** convenaient que la tâche vocale était réaliste et la même proportion disait qu'elle offrait une manière claire de communiquer ce qu'ils savaient — et aucun ne contestait que parler en temps réel convenait à cette [[authentic-assessment|évaluation authentique]]. Le réalisme et la clarté de la communication méritent d'être connus et ne constituent pas la validité : une tâche peut sembler authentique et échouer néanmoins à échantillonner la performance professionnelle qu'elle représente.
+- **Le jugement sur la production comme compétence professionnelle.** Évaluer un travail produit par l'IA selon des critères professionnels — exactitude, normes, conformité, sécurité — est l'endroit où la compétence professionnelle devient observable, plutôt que dans l'artefact lui-même ([[zheng-ai-evaluative-judgement-vocational-2026|Zheng et Tang (2026)]]).
 
 ## Implications pour la pratique
 
@@ -85,6 +76,16 @@ Ce qui est distinctif dans l'IA en EFP est l'écart entre ce que le secteur dit 
 **Pour les chercheurs**
 
 - Menez au moins une partie des études sur des lieux de travail. Un secteur défini par l'apprentissage fondé sur le travail dont la base de données probantes ne contient aucune étude en milieu de travail n'a pas encore testé sa thèse centrale.
+
+## Idées fausses courantes
+
+**« La base de données probantes sur l'IA dans l'EFP nous renseigne sur l'enseignement professionnel. »** Elle nous renseigne sur des substituts en classe, ce qui constitue un écart sérieux plutôt qu'un détail : **aucune étude de la base de données probantes sur l'IA dans l'EFP n'est située sur un lieu de travail**, alors que l'EFP est *défini* par l'apprentissage fondé sur le travail. Un résultat concernant un outil d'IA dans une tâche professionnelle simulée n'a pas encore rencontré les conditions qui rendent le secteur distinctif — de vrais clients, de vraies conséquences de sécurité, une vraie variabilité des équipements de travail.
+
+**« Un effet significatif sur la capacité de conception ou de création se transfère à la compétence professionnelle. »** Le résultat [[quantitative-research|quantitatif]] le plus solide ici provient d'une **quasi-expérience à deux groupes de 12 semaines avec 63 réponses valides (31 contre 32)**. Là, la condition d'agent immersif obtenait de meilleurs scores de capacité de conception (η²p = .138) et de capacité créative (η²p = .111) sous ANCOVA, avec un engagement cognitif d = 0.90. Trente et un étudiants par bras dans une tâche de classe, c'est une preuve sur cette tâche, et la compétence professionnelle ne fait pas partie des résultats mesurés.
+
+**« Les apprenants vont trop s'appuyer sur l'IA en formation pratique. »** Les données pilotes pointent dans l'autre sens. Des pilotes exploratoires (**N = 30**, Italie et Chine, **20 séances bornées**) ont trouvé que les participants traitaient le système comme un outil de soutien borné, avec **aucune attente rapportée de substitution ni de dépendance**. C'est exploratoire et de petite taille, et cela suggère bien que le cadrage des apprenants professionnels — un outil comme équipement plutôt que comme autorité — est une ressource autour de laquelle il vaut la peine de concevoir.
+
+**« L'approbation par les apprenants d'une tâche simulée signifie qu'elle a évalué la bonne chose. »** Sur **33 apprenants interrogés, 21 (64 %)** convenaient que la tâche vocale était réaliste et la même proportion disait qu'elle offrait une manière claire de communiquer ce qu'ils savaient — et aucun ne contestait que parler en temps réel convenait à cette [[authentic-assessment|évaluation authentique]]. Le réalisme et la clarté de la communication méritent d'être connus et ne constituent pas la validité : une tâche peut sembler authentique et échouer néanmoins à échantillonner la performance professionnelle qu'elle représente.
 
 ## Concepts liés
 

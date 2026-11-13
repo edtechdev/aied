@@ -1,7 +1,7 @@
 ---
 title: La politique d'IA en éducation
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-11T06:58:15-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ La politique se fabrique à plusieurs niveaux à la fois, et ceux-ci ne progress
 
 - **La politique gouvernementale :** des travaux sur la [[ai-lifelong-learning-policy|politique d'apprentissage tout au long de la vie]] examinent les approches réglementaires aux niveaux national et régional. Une lecture critique et infrastructurelle de l'IA dans l'élaboration des politiques publiques vient d'**[[perrotta-zero-shot-governance-2026|Perrotta (2026)]]**, dont l'analyse du prototype [[llm]] du service public britannique Redbox montre comment l'IA à usage général entre dans la boîte à outils professionnelle de l'action publique par la « gouvernance en zéro coup d'essai » (zero-shot governance) — des modèles de fondation agnostiques au domaine qui interviennent dans les décisions, enveloppés dans de minces [[discipline-specific-aied|étayages]] [[scaffolding|propres au domaine]].
 
-- **La politique [[k-12|K-12]] :** les [[stanford-evidence-base-ai-k12-2026|revues de preuves de Stanford]] portant sur 818 articles éclairent la politique d'IA en K-12.
+- **La politique [[k-12|K-12]] :** les [[stanford-evidence-base-ai-k12-2026|revues de preuves de Stanford]] sont passées de 818 articles de dépôt et 20 études causales solides en mars 2026 à 1 686 articles et 52 études causales dans la mise à jour de novembre 2026, et elles éclairent la politique d'IA en K-12.
 
 - **La politique d'évaluation :** les [[ai-assessment-scale-reform|politiques de réforme de l'évaluation]] et les cadres d'[[authentic-assessment|évaluation authentique]] constituent des réponses au niveau de la politique à la [[academic-integrity|tricherie rendue possible par l'IA]]. Le choix du format d'évaluation sommative — oral, surveillé, à livres fermés — constitue lui-même une décision de politique d'évaluation (voir [[summative-assessment|évaluation sommative]]).
 

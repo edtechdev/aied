@@ -1,14 +1,14 @@
 ---
 title: Recherche quantitative
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-11-05T18:24:25-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T14:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,12 +41,18 @@ La recherche quantitative couvre les conceptions descriptives (mesurer la préva
 
 ## Les principales approches quantitatives
 
+### Études longitudinales et de panel
+
+La mesure répétée des mêmes apprenants transforme une corrélation en trajectoire : les modèles de panel séparent un trait stable d'un changement propre à l'occasion, et les modèles de croissance estiment la forme et le rythme du changement entre les vagues. Les familles de devis, les menaces qui mordent dans les études sur l'IA (attrition, dérive des outils, performance assistée) et les exemples les plus solides du corpus sont traités dans la page sur la [[longitudinal-research|recherche longitudinale]].
+
 ### L'enquête et la recherche corrélationnelle
 Les enquêtes transversales mesurent les attitudes auto-déclarées, les perceptions, la motivation, l'[[self-efficacy]] et l'acceptation technologique, souvent modélisées par régression ou par modélisation par équations structurelles (SEM/PLS-SEM) pour tester des relations et des médiateurs hypothétiques. Celles-ci dominent le corpus de la base de connaissances, en particulier pour les questions d'acceptation, de motivation et de mécanismes psychologiques. [[acceptance-ai-english-tools-2026|L'acceptation des outils d'anglais assistés par l'IA]] s'appuie sur le [[technology-acceptance-model|TAM]] avec la SEM ; [[tian-genai-learning-adoption-pathways-2026|les trajectoires d'adoption de l'IA générative]] utilisent la PLS-SEM, la fsQCA et la cartographie importance-performance ; la [[teacher-education-ai-literacy-sdt-2026|littératie IA des enseignants]] utilise des enquêtes validées factoriellement fondées sur la [[self-determination-theory]].
 
 - **Forces :** de grands échantillons ; une couverture large et peu coûteuse ; le test de modèles médiationnels complexes ; la faisabilité pour des attitudes difficiles à observer.
 - **Limites :** les données transversales ne peuvent établir de causalité ; le biais d'auto-déclaration ; l'échantillonnage de commodité limite la généralisabilité ; les médiateurs sont inférés de la covariance, non de la manipulation. Voir [[self-report-measures]] pour le traitement côté instrument de ces limites.
 - **Un modèle de médiation saturé ne peut pas tester son propre ordonnancement.** Une enquête à une seule vague portant sur 1 020 étudiants en soins infirmiers a décomposé un effet total de 1.36 en un effet direct de 0.92 et un effet indirect de 0.44 via l'[[self-regulated-learning|apprentissage autorégulé]], soit 32.35% du total, avec un modèle qui compte autant de paramètres libres que de covariances observées et reproduit donc les données par construction ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et coll. (2026)]]).
+
+- **Une étiquette « partielle » peut reposer sur un intervalle qui frôle zéro.** Chez 438 étudiants universitaires chinois, le chemin direct de l'usage de l'IA à la performance était de β = 0.18, IC à 95 % (0.02, 0.34) ([[yuan-ai-assisted-learning-engagement-performance-2026|Yuan et al. (2026)]]).
 **Un effet indirect total proche de zéro peut masquer deux chemins actifs.** Dans une vague d'auto-déclaration portant sur 568 étudiants en design, l'association indirecte passait par 0.0929 via la focalisation sur la promotion et -0.0884 via la focalisation sur la prévention, pour une somme de 0.0045 tandis que le chemin direct portait 98.7% du total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et coll. (2026)]]).
 
 ### La recherche expérimentale et quasi-expérimentale
@@ -95,6 +101,8 @@ Les méthodes quantitatives et [[qualitative-research|qualitatives]] sont compl�
 - **« Les comparaisons entre jeux de données sont simples. »** Un contrôle structurel de données éducatives synthétiques a constaté qu'**analyser chaque jeu de données à son propre seuil inversait un contraste qui tenait à un point de travail partagé**. Le signe de la comparaison dépendait d'un choix analytique, ce qui est le type de fragilité qu'un point de travail préenregistré existe pour prévenir.
 
 ## Concepts liés
+
+- [[longitudinal-research]]
 - [[research-methods-aied]]
 - [[qualitative-research]]
 - [[mixed-methods-research]]

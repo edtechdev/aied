@@ -1,7 +1,7 @@
 ---
 title: "Délestage cognitif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-04T17:25:00-05:00"
+source_updated: "2026-11-12T21:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ ai_assist:
 
 Le délestage cognitif n'est pas intrinsèquement nocif — les humains ont toujours utilisé des outils externes (cahiers, calculatrices, moteurs de recherche) pour réduire la charge cognitive. Ce qui rend le délestage médiatisé par l'IA différent, c'est son caractère englobant : les [[llm|LLM]] peuvent générer des solutions, des explications et des analyses complètes, éliminant potentiellement le besoin même des processus cognitifs qui produisent l'apprentissage.
 
-### How cognitive offloading manifests in AIED research
+### Comment le délestage cognitif se manifeste dans la recherche en AIED
 
 Les articles de la base de connaissances documentent le délestage cognitif selon de multiples dimensions :
 
@@ -103,7 +103,7 @@ Le même marché s'applique au travail émotionnel, et là les données sont plu
 
 - **Le délestage se scinde en un gain visible et une perte invisible.** [[pradubwate-illusion-ai-competence-miscalibration-2026|Pradubwate (2026)]] soutient que l'échec de calibration que documente cette page est une inférence *inter-dimensionnelle* plutôt qu'une confiance excessive générale. La compétence opérationnelle (inviter, itérer, intégrer) renvoie une rétroaction immédiate et non ambiguë, tandis que la compétence évaluative (juger si une production est exacte) renvoie une rétroaction différée, rare ou absente. Le délestage élève la compréhension perçue et abaisse le traitement profond en même temps, et seule la première est éprouvée. C'est pourquoi les avertissements sur les limites de l'IA sont des interventions faibles : ils s'adressent aux croyances sur le système alors que l'illusion est engendrée par une absence dans l'expérience de l'utilisateur lui-même. La revue est conceptuelle et n'a pas de données propres.
 
-## Over-reliance: when offloading becomes harmful
+## La sur-dépendance : quand le délestage devient nuisible
 
 L'échelle que suit cette page a trois barreaux, dont seuls les deux premiers relèvent d'ici. Le **délestage** consiste à déléguer un travail mental, ce qui est souvent productif ; la **dépendance excessive** consiste à le faire de façon chronique et sans calibration, ce qui est la défaillance comportementale que documente cette section ; la **[[cognitive-surrender|capitulation cognitive]]** est une défaillance différente — l'étape évaluative n'a jamais lieu, si bien que l'apprenant adopte la réponse de l'IA sans aucun jugement sur sa qualité. La frontière est visible dans ce qu'on demande à l'IA de fournir : l'assistance *instrumentale* de [[du-yuan-epistemic-dependence-2026|Du et Yuan]] produit un résultat, alors que l'assistance *porteuse de jugement* fournit le critère par lequel le résultat est jugé, et c'est la seconde qui déplace le travail dont dépend l'expertise. [[young-people-learning-generative-ai-rapid-review-2026|La revue rapide de Sydney]] trace la même division tripartite sur 271 articles. La capitulation a donc sa propre signature expérimentale et sa propre page ; la dépendance excessive reste le problème de fréquence et de calibration, et les deux sont des issues séparables dans une même tâche — dans les essais de [[shaw-nave-cognitive-surrender-2026|Shaw et Nave]], 73.2% des essais à IA incorrecte se soldaient par une capitulation alors que 19.7% se soldaient par un délestage stratégique.
 **Le pas au-delà du délestage, c'est délester le régulateur.** [[fan-metacognitive-offloading-sync-model-2026|Fan et al. (2026)]] reformulent la séquence de Risko et Gilbert — activer des croyances sur l'outil, jauger sa propre capacité face à lui, choisir une stratégie, se recalibrer à partir du résultat — et nomment le délestage *métacognitif* cette défaillance : la boucle est sautée, l'évaluation de la stratégie est confiée à l'IA, ou un succès fluide biaise le tour suivant de délégation. Leur terme symétrique est le réencodage métacognitif (metacognitive onloading), un étayage qui rend l'apprenant responsable des objectifs, du suivi et du jugement de stratégie. Les deux se situent sur deux axes, la performance et l'apprentissage durable, si bien qu'une hausse de la qualité de la production cesse de compter comme preuve sur l'apprenant. Le cadre est conceptuel et non testé.
@@ -145,7 +145,7 @@ L'échelle que suit cette page a trois barreaux, dont seuls les deux premiers re
 
 **Un consensus de 30 experts situe les dégâts aux deux extrémités de la [[pedagogical-patterns|séquence d'apprentissage]].** Un exercice Delphi préenregistré portant sur 65 processus d'apprentissage a trouvé l'acquisition vulnérable (Encodage 3.30, Récupération 3.30, Acquisition d'information 3.00 sur l'échelle de perturbation 1-5), la consolidation améliorée (Apprendre de la rétroaction 4.00, Apprendre d'exemples 3.90, Auto-évaluation 3.80), et la pensée de haut niveau à nouveau vulnérable ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene et Nixon et al., 2026]]). Dix des dix-huit processus de haut niveau ont atteint un consensus sur la seule vulnérabilité, avec des évaluations d'amélioration sous le seuil.
 
-### The CLT framework
+### Le cadre de la TCL
 
 **L'accès à une [[ai-feedback-quality|rétroaction d'IA]] n'est pas le même traitement que son exploitation, et les mesures de charge les séparent.** [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger et Liening (2026)]] ont mené une étude de terrain longitudinale de cinq semaines dans un jeu de simulation d'entreprise (**234 étudiants, 1 147 observations hebdomadaires**) et ont séparé la mise à disposition de la réception. Le simple fait de donner accès à une rétroaction d'IA conversationnelle n'a déplacé ni la charge **extrinsèque** (β = 0,071, p = 0,481) ni la charge **pertinente** (β = 0,019, p = 0,807). Mais les étudiants qui l'utilisaient **régulièrement** déclaraient une charge pertinente significativement **plus élevée** que les non-utilisateurs du groupe expérimental (β = −0,468, p < 0,001) et que les témoins (β = −0,253, p = 0,028), tandis que la charge **extrinsèque n'a jamais été réduite** par l'accès ou l'engagement (F(1, 219) = 0,499 ; F(3, 214) = 0,172 pour l'usage). C'est le schéma théoriquement intéressant et l'inverse de l'affirmation habituelle : l'intervention a fait travailler les apprenants davantage sur le matériau sans rendre l'environnement plus facile. La charge intrinsèque pilotait la charge extrinsèque (**β = 0,647, p < 0,001**) et l'autorégulation métacognitive pilotait la charge pertinente (**β = 0,363, p < 0,001**), la charge extrinsèque étant associée négativement à la charge pertinente (β = −0,178, p < 0,001) exactement comme le spécifie la TCC. Les deux charges ont aussi **diminué au fil des cinq semaines** (extrinsèque β = −0,388, p < 0,001), un effet de nouveauté visible sur une mesure cognitive plutôt que sur une mesure d'engagement.
 
@@ -153,7 +153,7 @@ La théorie de la charge cognitive (Sweller) fournit une lentille théorique con
 
 **Les enjeux au niveau de la profession pour le délestage.** Le cadre des biens cognitifs communs ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) étend le délestage du niveau individuel au niveau collectif : lorsque l'IA permet à des travailleurs juniors de sauter la lutte cognitive qui construit l'expertise profonde, elle peut épuiser au fil du temps le vivier d'expertise partagée d'une profession — le « Validation Tether » signifie que la supervision efficace de l'IA dépend de la maîtrise même que l'adoption de l'IA peut miner. Cela reformule le délestage et la décadence des compétences au niveau individuel comme un problème de régénération au niveau des systèmes, avec des implications de [[governance|gouvernance]].
 
-### Connections to related concepts
+### Connexions avec les concepts liés
 
 Le délestage cognitif (et sa forme nocive, la dépendance excessive) rejoint fondamentalement la [[trust-calibration|calibration de la confiance]] — savoir quand faire confiance à l'IA et quand la questionner — et l'[[ai-literacy|IA literacy]], qui inclut la compétence métacognitive consistant à savoir quand déléguer et à reconnaître ses propres schémas de recours. Il rejoint l'[[scaffolding|étayage]] (soutien structuré qui réduit la charge sans éliminer la demande cognitive) et l'[[prompt-engineering|ingénierie des invites]] (le mécanisme principal par lequel le délestage est mis en œuvre dans les interactions avec les LLM). Il croise la [[metacognition|métacognition]] et l'[[self-regulated-learning|apprentissage autorégulé]] — les apprenants efficaces calibrent leurs décisions de délestage — ainsi que la [[critical-thinking|pensée critique]], l'[[agency|autonomie]] et l'[[student-experience|expérience étudiante]]. L'[[online-teaching-and-learning|enseignement et l'apprentissage en ligne]] constituent un contexte particulièrement vulnérable : le médium éloigne déjà les apprenants de la responsabilité immédiate, et le travail autonome sur écran invite au raccourci « demander la réponse » que la recherche sur le délestage identifie comme le mécanisme de préjudice central (voir l'[[ai-misuse-learning-harm|usage abusif de l'IA et les préjudices pour l'apprentissage]]).
 
@@ -170,6 +170,12 @@ La même logique transforme le façonnement de la récompense en outil de concep
 **La dépendance excessive apparaît comme un défi nommé dans toutes les disciplines, et non comme l'anomalie d'une seule étude.** Dans une revue de 66 études sur l'IA générative dans l'[[inquiry-based-learning|apprentissage par investigation]], [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] ont trouvé une dépendance excessive ou un délestage cognitif signalé dans 16 études (24.2%), derrière l'inexactitude à 31.8%. Le schéma est rapporté par les études primaires plutôt que mesuré par la revue, dont les auteurs n'ont évalué ni la qualité des études ni le biais de publication.
 
 **La configuration de contournement a un prix civique que les études sur l'apprentissage ne facturent pas.** [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz et Castro Samayoa (2026)]] soutiennent que le délestage volontaire de l'investigation, de l'analyse, de l'évaluation et de la synthèse atrophie la pratique dont dépend la citoyenneté démocratique. Leur règle de séquencement est la distinction contournement/étayage énoncée de manière développementale : l'arithmétique avant les calculatrices, les conventions de citation avant les gestionnaires de références, et un robot conversationnel introduit après la compétence plutôt qu'à sa place. Ils nomment aussi le cadrage qui rend le contournement attrayant, à savoir le postulat d'efficience selon lequel le but des devoirs scolaires est de finir vite.
+
+Les données causales plus récentes séparent l'achèvement de la tâche de son apprentissage. Dans une expérience factorielle 2×2 menée auprès de 24 étudiants canadiens de premier cycle, les débutants disposant de ChatGPT réussissaient 410.7 tests générés sur 500, contre 80.7 sans lui, tandis que les étudiants intermédiaires n'y gagnaient rien et réussissaient mieux avec des ressources conventionnelles ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). Une étude distincte portant sur 22 programmeurs a constaté que GitHub Copilot produisait un avantage de performance de 14.09 points et une charge de travail plus faible pendant la tâche, sans bénéfice lors d'un retest sans assistance environ une semaine plus tard ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). Le délestage peut accroître la production tout en laissant intacte la capacité de la produire.
+
+Deux études récentes donnent au délestage un appareil de mesure. L'échelle en 35 items d'[[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrah et ses collègues]] transforme le processus en six dimensions rapportables — dépendance excessive, compréhension superficielle, vérification réduite, mémoire plus faible, effort diminué et évaluation critique réduite — validées auprès de 616 élèves du secondaire. L'enquête de [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026|Sharma, Manani et Thakwani]] auprès d'étudiants universitaires a constaté que la dépendance à ChatGPT était associée à un fonctionnement exécutif plus faible, principalement par le stress académique, la voie directe tombant à P = 0.328 une fois le stress entré dans le modèle. Les deux relèvent de la [[executive-function|fonction exécutive]], qui porte la capacité que le délestage est censé déplacer.
+
+[[papasideri-cognitive-offloading-genai-narrative-review-2026|Papasideri, Chatziioannou et Palaiologos (2026)]] examinent la migration du construit vers l'IA générative dans une revue narrative qui ne regroupe rien et ne rapporte aucune donnée nouvelle. Leur cadre est celui qu'utilise cette page : le délestage est une réaffectation de l'effort, et la question est de savoir si l'effort réaffecté revient sous forme d'apprentissage. Ce qui change avec l'IA générative est l'objet — le raisonnement, la synthèse et l'évaluation plutôt que la recherche d'information et l'arithmétique — si bien que l'ancien résultat selon lequel le délestage prédit une rétention différée plus faible s'applique désormais au travail d'ordre supérieur. Leur unique affirmation de conception est concrète : des invites qui exigent une justification ou une évaluation réduisaient le délestage et amélioraient la qualité de l'argumentation, ce qui fait de la conception de l'interaction, plutôt que de la capacité du modèle, le levier.
 
 ## Idées fausses courantes
 
@@ -199,6 +205,7 @@ La même logique transforme le façonnement de la récompense en outil de concep
 - [[cognitive-surrender]]
 
 - [[reflection]]
+- [[executive-function]]
 
 ## Articles liés
 
@@ -256,3 +263,8 @@ La même logique transforme le façonnement de la récompense en outil de concep
 - [[zhang-usefulness-dependence-genai-2026]] — De l'« utilité » à la « dépendance » : le mécanisme d'évolution dynamique des comportements d'usage de l'IA générative
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Retirer le régulateur augmente le délestage et abaisse la qualité des productions
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — La règle de séquencement appliquée de manière développementale : l'arithmétique avant les calculatrices, les citations avant les gestionnaires de références
+- [[chen-genai-programming-understanding-2026]] — programmeurs débutants et intermédiaires : ChatGPT a élevé les tests réussis de 410.7 à 80.7 alors que la compréhension n'a pas suivi (Chen et al., 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — 22 novices : l'avantage de 14.09 points de Copilot n'a pas survécu à un retest sans assistance une semaine plus tard (Gardella et al., 2026)
+- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Six dimensions auto-déclarées de difficulté d'apprentissage médiée par l'IA
+- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Le stress académique médiatise la dépendance à ChatGPT et le dysfonctionnement exécutif
+- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Le délestage cognitif à l'ère de l'IA générative : une revue narrative reliant le délestage à la mémoire, à l'apprentissage et à la fonction exécutive

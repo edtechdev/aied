@@ -1,7 +1,7 @@
 ---
 title: "Gains d'apprentissage"
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -52,11 +52,11 @@ Principaux résultats de la base de connaissances :
 - **La [[burneo-can-edtech-close-learning-gaps-2026|méta-analyse de la Banque mondiale]]** regroupe 191 tailles d'effet issues de 14 essais contrôlés randomisés pour estimer que les technologies éducatives adaptatives et à base d'IA élèvent l'apprentissage d'environ 0.125 écart-type en moyenne — au-dessus de la médiane des essais contrôlés randomisés en éducation — tout en ne trouvant aucun avantage de l'IA générative sur les outils adaptatifs antérieurs.
 - **Les gains sont des interactions contenu-traitement, non des constantes.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et coll. (2025)]] montrent que le rapport optimal exemples-problèmes dépend du contenu de connaissance : la [[retrieval-spacing-interleaving|pratique de récupération]] pure produit des gains plus élevés pour les faits littéraux, tandis que la pratique intégrant les exemples (alternant exemples résolus et problèmes) produit des gains plus élevés pour les compétences généralisables — la preuve directe que « plus de pratique » n'est pas toujours mieux, et que les gains tiennent à l'ajustement du programme d'entraînement au composant de connaissance appris.
 
-### Le problème de mesure à l'ère de l'IA
+## Le problème de mesure à l'ère de l'IA
 
 Un thème central de la recherche de la base de connaissances sur les gains d'apprentissage est que **l'IA générative peut gonfler la performance apparente sans produire de gains d'apprentissage** — et que le choix de la mesure de résultat détermine si cela est visible. [[generative-ai-reduced-study-time-math|La recherche]] et [[stromberg-generative-ai-learning-penalty-secondary-2026|les données de terrain à grande échelle]] montrent une divergence marquée : l'usage de l'IA améliore les scores sur les devoirs assistés par l'IA tout en *abaissant* les scores sur les mesures surveillées, à livre fermé et sans assistance. [[genai-performance-vs-learning|La recherche sur la performance opposée à l'apprentissage]] et [[young-people-learning-generative-ai-rapid-review-2026|les revues rapides]] distinguent donc la performance immédiate soutenue par l'IA de l'apprentissage durable, et traitent les mesures sommatives sans assistance (voir l'[[summative-assessment|évaluation sommative]]) comme le signal fiable des gains d'apprentissage authentiques.
 
-### Ce que montre la recherche sur l'efficacité
+## Ce que montre la recherche sur l'efficacité
 
 À travers les [[rct|essais contrôlés randomisés]], les [[meta-analysis-systematic-review|méta-analyses]] et les études de terrain de la base de connaissances, un tableau cohérent de l'**efficacité sur l'apprentissage** (quelles interventions d'IA produisent réellement des gains d'apprentissage, et quelle en est l'ampleur) se dessine :
 
@@ -76,7 +76,7 @@ Un thème central de la recherche de la base de connaissances sur les gains d'ap
 
 - **Le tutorat par IA peut égaler le tutorat humain d'expert sur les gains aux tests standardisés.** Dans une évaluation réunissant 2 383 participants, le tutorat par IA regroupé était statistiquement équivalent au tutorat humain d'expert sur les gains d'apprentissage au GRE (p = .015), tous deux au-dessus d'un groupe témoin sans tutorat ; les auteurs proposent le coût par point de pourcentage de gain comme unité de comparaison des tuteurs ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et coll., 2026]]).
 
-### Une carte, au niveau du terrain, des effets de l'IA sur l'apprentissage et la réussite
+## Une carte, au niveau du terrain, des effets de l'IA sur l'apprentissage et la réussite
 
 Le corpus de la base de connaissances — méta-analyses, essais contrôlés randomisés, quasi-expériences et études de terrain — soutient un tableau nuancé, parfois contradictoire. Les résultats se regroupent en effets positifs, négatifs et conditionnels.
 
@@ -109,7 +109,7 @@ Le corpus de la base de connaissances — méta-analyses, essais contrôlés ran
 - **L'apprentissage par l'enquête assisté par l'IA soutient la créativité, mais pas nécessairement la résolution de problèmes.** [[mujib-ai-ibl-creative-math-2026|Mujib et coll.]] ont amélioré la performance créative et les attitudes, mais pas la résolution critique de problèmes.
 - **L'[[student-experience|expérience étudiante]] diverge des gains mesurés.** [[absent-cognitive-baseline-2026|Les étudiants natifs de l'IA surestiment leur apprentissage]], et [[ai-literacy-assessment-misalignment|l'auto-déclaration est mal alignée sur la performance]] — les perceptions de gains n'en sont pas des données probantes fiables.
 
-### Les estimations méta-analytiques des gains d'apprentissage sont gonflées — à lire avec prudence
+## Les estimations méta-analytiques des gains d'apprentissage sont gonflées — à lire avec prudence
 
 Les chiffres de gains d'apprentissage qui dominent le résumé d'efficacité de cette page — en particulier les tailles d'effet regroupées issues des méta-analyses — doivent être lus avec une forte mise en garde : une vague de méta-recherche montre que les estimations de synthèse positives du domaine sont gonflées par le biais de publication, l'incohérence des construits et les raccourcis méthodologiques.
 
@@ -122,21 +122,13 @@ Les chiffres de gains d'apprentissage qui dominent le résumé d'efficacité de 
 
 **Conclusion sur les chiffres de gains ci-dessus :** traitez les grandes tailles d'effet regroupées de l'IA comme des bornes supérieures, non comme des estimations ponctuelles. Préférez les données probantes de gains d'apprentissage issues d'[[rct|essais contrôlés randomisés]] bien conçus et d'études de terrain dotées de mesures de résultat standardisées et sans assistance (l'essai contrôlé randomisé sur les garde-fous, les expériences Khanmigo et NUMI, et la méta-analyse de la Banque mondiale sur les technologies éducatives citées ci-dessus), et lisez les gains méta-analytiques comme provisoires et probablement surévalués jusqu'à ce que la qualité des synthèses s'améliore. Le problème survit aussi à la correction : sur les articles publiés après le retrait d'une méta-analyse auditée, 60% la citaient encore comme un soutien faisant autorité à de forts gains d'apprentissage avec ChatGPT, et aucun ne reconnaissait le retrait ; une estimation retirée continue donc de se propager. C'est pourquoi la page sur les [[limitations-in-aied-research|limites de la recherche en AIED]] documente désormais en détail la crise des données probantes méta-analytiques.
 
-### Mesurer ce qui importe
+## Mesurer ce qui importe
 
 Les gains d'apprentissage se relient à l'[[assessment-validity|validité de l'évaluation]] — si les [[assessment|évaluations]] ne parviennent pas à capter la compréhension profonde, les mesures de gains d'apprentissage sont trompeuses. Ils croisent aussi la [[cognitive-offloading|dépendance excessive]] et le [[cognitive-offloading|délestage cognitif]], là où des améliorations apparentes de la performance peuvent masquer des pertes d'apprentissage, ainsi que l'[[rct|essai contrôlé randomisé]] (les essais randomisés comme conception de référence pour détecter des gains d'apprentissage causaux) et la [[meta-analysis-systematic-review|méta-analyse et la revue systématique]] (le regroupement des tailles d'effet à travers les études pour établir les données probantes d'efficacité du domaine).
 
 - **Des gains pré/post significatifs issus d'une [[pedagogy|pédagogie]] de l'IA fondée sur les erreurs :** [[pedagogy-ai-mistakes|Hosseini (2026)]] a montré, dans son cours de conception de bases de données (n=13), des gains d'apprentissage importants et significatifs sur des items identiques en pré et en post (moyenne 4.25→6.83/7, *d* de Cohen = 1.49, *p* < .001), les gains n'étant pas corrélés avec la confiance préalable en l'IA ou dans les bases de données — la conception de critique-affinage intégrant l'IA ayant profité aux étudiants quelles que soient leurs perceptions initiales.
 
-## Idées fausses courantes
-
-**« Les scores ont augmenté, donc l'intervention a produit de l'apprentissage. »** C'est l'erreur définitionnelle que cette page existe pour prévenir, et les données de terrain montrent les deux directions à la fois : l'usage de l'IA améliore les scores sur des devoirs assistés tout en *abaissant* les scores sur des mesures surveillées, à livre fermé et sans aide ([[generative-ai-reduced-study-time-math]] ; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). Le choix de la mesure détermine si l'inflation est visible, si bien qu'un gain sur une tâche où l'IA est autorisée est une affirmation sur la performance à la tâche, non sur l'[[genai-performance-vs-learning|apprentissage]].
-
-**« La méta-analyse tranche la question : l'effet est important. »** La direction de l'agrégation et son amplitude sont deux faits distincts, et l'amplitude survit rarement à l'examen. [[genai-meta-analysis-programming-learning|La méta-analyse sur l'IA générative en programmation]] trouve d'importants gains de *productivité* sans **gain d'apprentissage significatif** (g ≈ 0). [[burneo-can-edtech-close-learning-gaps-2026|La méta-analyse de la Banque mondiale]], qui regroupe 191 tailles d'effet issues de 14 essais contrôlés randomisés, estime environ 0,125 écart-type pour les technologies éducatives adaptatives et activées par l'IA, ce qui est respectable face à l'essai éducatif médian, mais **sans avantage de l'IA générative sur les outils adaptatifs antérieurs**. Citer des études de l'ère GPT comme un saut de catégorie surestime ce que les preuves agrégées montrent.
-
-**« Plus de pratique et plus de [[personalized-learning|personnalisation]] aident toujours. »** La taille d'un gain dépend de ce qui est entraîné, et non de la quantité de soutien fournie. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] rapportent que le mélange optimal d'exemples résolus et de problèmes varie selon la compétence visée : la pratique de récupération pure produit des gains plus élevés pour les faits à restituer tels quels, tandis que l'alternance d'exemples et de problèmes produit des gains plus élevés pour les compétences généralisables. Et la [[lak2026-hint-button-unproductive-use|recherche sur les boutons d'indice]] trouve un volume d'indices associé négativement à l'apprentissage. Le même « soutien » qui aide une composante de connaissance peut faire perdre du temps sur l'autre.
-
-**« Un post-test différé est automatiquement un résultat d'apprentissage durable. »** Le délai est nécessaire et non suffisant. Ce qui distingue un apprentissage durable dans ce corpus, c'est une mesure *sans aide* dans des conditions différées, accompagnée de la preuve que l'effet n'est pas porté par l'étai qui sera absent au moment du transfert.
+Les expériences les plus récentes marquent une limite de ce schéma plutôt qu'une contradiction. Des débutants disposant de ChatGPT réussissaient bien plus de tests générés que des débutants sans lui (410.7 contre 80.7), tandis que leur compréhension ne s'améliorait pas, et les étudiants de niveau intermédiaire n'y gagnaient rien ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). Une seconde expérience a constaté que l'avantage de 14.09 points de Copilot disparaissait lors d'un retest non assisté une semaine plus tard ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). La persistance est l'exception dans cette littérature, de sorte qu'une étude qui la rapporte constitue une preuve sur la tâche et sur la conception du soutien, non sur l'assistance par l'IA en général.
 
 ## Implications pour la pratique
 
@@ -158,6 +150,16 @@ Les gains d'apprentissage se relient à l'[[assessment-validity|validité de l'�
 - Rapportez les tailles d'effet par rapport à une comparaison nommée, non par rapport à des « approches traditionnelles » dans l'abstrait. Le résultat de la Banque mondiale n'est interprétable que parce qu'il nomme sa classe de comparaison.
 - Distinguez explicitement l'inflation de performance du déplacement de l'apprentissage, car les deux impliquent des remèdes différents : la refonte de la tâche dans un cas, le réenseignement dans l'autre.
 
+## Idées fausses courantes
+
+**« Les scores ont augmenté, donc l'intervention a produit de l'apprentissage. »** C'est l'erreur définitionnelle que cette page existe pour prévenir, et les données de terrain montrent les deux directions à la fois : l'usage de l'IA améliore les scores sur des devoirs assistés tout en *abaissant* les scores sur des mesures surveillées, à livre fermé et sans aide ([[generative-ai-reduced-study-time-math]] ; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). Le choix de la mesure détermine si l'inflation est visible, si bien qu'un gain sur une tâche où l'IA est autorisée est une affirmation sur la performance à la tâche, non sur l'[[genai-performance-vs-learning|apprentissage]].
+
+**« La méta-analyse tranche la question : l'effet est important. »** La direction de l'agrégation et son amplitude sont deux faits distincts, et l'amplitude survit rarement à l'examen. [[genai-meta-analysis-programming-learning|La méta-analyse sur l'IA générative en programmation]] trouve d'importants gains de *productivité* sans **gain d'apprentissage significatif** (g ≈ 0). [[burneo-can-edtech-close-learning-gaps-2026|La méta-analyse de la Banque mondiale]], qui regroupe 191 tailles d'effet issues de 14 essais contrôlés randomisés, estime environ 0,125 écart-type pour les technologies éducatives adaptatives et activées par l'IA, ce qui est respectable face à l'essai éducatif médian, mais **sans avantage de l'IA générative sur les outils adaptatifs antérieurs**. Citer des études de l'ère GPT comme un saut de catégorie surestime ce que les preuves agrégées montrent.
+
+**« Plus de pratique et plus de [[personalized-learning|personnalisation]] aident toujours. »** La taille d'un gain dépend de ce qui est entraîné, et non de la quantité de soutien fournie. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] rapportent que le mélange optimal d'exemples résolus et de problèmes varie selon la compétence visée : la pratique de récupération pure produit des gains plus élevés pour les faits à restituer tels quels, tandis que l'alternance d'exemples et de problèmes produit des gains plus élevés pour les compétences généralisables. Et la [[lak2026-hint-button-unproductive-use|recherche sur les boutons d'indice]] trouve un volume d'indices associé négativement à l'apprentissage. Le même « soutien » qui aide une composante de connaissance peut faire perdre du temps sur l'autre.
+
+**« Un post-test différé est automatiquement un résultat d'apprentissage durable. »** Le délai est nécessaire et non suffisant. Ce qui distingue un apprentissage durable dans ce corpus, c'est une mesure *sans aide* dans des conditions différées, accompagnée de la preuve que l'effet n'est pas porté par l'étai qui sera absent au moment du transfert.
+
 ## Concepts liés
 
 - [[rct]]
@@ -175,6 +177,8 @@ Les gains d'apprentissage se relient à l'[[assessment-validity|validité de l'�
 - [[student-support-and-success]] — Les résultats administratifs (achèvement des tâches, crédits, persévérance, diplomation), distincts des gains d'apprentissage
 
 ## Articles liés
+- [[chen-genai-programming-understanding-2026]] — 24 étudiants de premier cycle : les tests réussis avec assistance ont augmenté, la compréhension sans assistance non (Chen et al., 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — 22 programmeurs : les gains assistés ne persistaient pas à un retest non assisté (Gardella et al., 2026)
 
 - [[epistemological-audit-genai-meta-analyses-2026]] — A Critical Epistemological Audit of Early Evidence Syntheses in Generative AI Educational Research (Fütterer et al. 2026)
 - [[contractor-learning-impact-generative-ai-2026]] — L'accès à un agent conversationnel du commerce a élevé les scores à des tests sans aide, qui se sont maintenus une semaine (Contractor & Reyes 2026)

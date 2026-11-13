@@ -11,9 +11,9 @@ audience: [instructors, curriculum designers, researchers]
 level: [primary education, k 12, higher ed]
 confidence: medium
 connected_faqs: [ai-support-reading-comprehension]
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 translation_of: "concepts/reading-education"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-12T21:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -89,6 +89,10 @@ Pour les apprenants dyslexiques, une revue guidée par [[meta-analysis-systemati
 
 La veine est riche en mesures et pauvre en résultats. Il existe des instruments validés (AIR), des modèles de difficulté validés (CLARA, Bird) et un ensemble croissant d'outils de génération et de simplification. Il existe très peu d'études contrôlées qui relient une intervention de lecture à des gains de compréhension, et plusieurs des études d'évaluation confondent la source du passage avec la passation ou la surveillance. Les tailles d'échantillon sont petites : 53 étudiants dans le cas d'évaluation de la lecture, 24 dans l'étude des lectures sur mesure, 200 élèves de septième année dans la plus grande quasi-expérience. La base de connaissances doit être lue comme documentant un espace de conception, pas un effet établi.
 
+La fluidité au début du primaire est l'exception jusqu'ici : dans une école, les élèves de première et deuxième année qui consignaient au moins 10 minutes par semaine pendant 6 semaines ont surpassé leurs pairs à faible dose (g = 0.56), un contraste de dosage plutôt qu'un essai ([[burns-ai-tutor-reading-growth-2026|Burns et Morton (2026)]]).
+
+[[kreijkes-llm-note-taking-reading-comprehension-2026|Kreijkes et ses collègues (2026)]] ont testé si un chatbot aide les lecteurs dans une expérience préenregistrée auprès de 344 élèves de Year 10 dans sept écoles secondaires anglaises. Chaque élève lisait deux passages d'histoire avec un LLM, avec la prise de notes, ou avec les deux ; trois jours plus tard, la prise de notes seule dépassait le LLM en rétention littérale (d = 0.44), en compréhension (d = 0.38) et en rappel libre (d = 0.21). LLM + notes regagnait du terrain sur les deux premiers mais pas sur le rappel libre (beta = -0.08, p = .854). Les élèves jugeaient le LLM plus facile, plus utile et plus agréable tout en obtenant des scores plus faibles, et 25,63 % de ceux de la condition combinée copiaient plus de 70 % de sa formulation dans leurs notes.
+
 ## Idées fausses courantes
 
 - **« Un score de lisibilité vous dit si un texte est approprié. »** Un score mesure des caractéristiques de surface ; la comparaison de CLARA avec FKGL et les caractéristiques de traitement de Clark et al. montrent toutes deux combien de la difficulté il laisse de côté.
@@ -112,6 +116,7 @@ La veine est riche en mesures et pauvre en résultats. Il existe des instruments
 
 ## Articles liés
 
+- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — Usage du LLM, prise de notes et compréhension en lecture au secondaire : la comparaison randomisée
 - [[air-scale-motivations-ai-reading-2026]] — une échelle validée des motifs de lecture avec la GenAI
 - [[almirabi-ai-reading-assessment-motivation-2026]] — l'évaluation de la lecture médiée par l'IA dans une classe d'EFL
 - [[genai-differentiated-eap-reading-materials-2026]] — les supports de lecture EAP différenciés

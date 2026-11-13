@@ -1,13 +1,13 @@
 ---
 title: L'apprentissage expérientiel
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-08T13:00:48-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ ai_assist:
 
 L'apprentissage expérientiel est étroitement lié à l'[[active-learning|apprentissage actif]], à l'[[project-based-learning|apprentissage par projet]], à l'[[embodied-learning|apprentissage incarné]] et à la [[simulation|simulation]]. Il est particulièrement pertinent dans l'enseignement de l'IA, de la cybersécurité et de la robotique, où les étudiants développent leurs compétences en travaillant avec des outils et des systèmes dans des contextes appliqués plutôt que par les seuls cours magistraux. L'une des justifications clés est de combler l'écart théorie-pratique dans la préparation professionnelle.
 
-### Comment l'apprentissage expérientiel apparaît dans la recherche de la base de connaissances
+## Comment l'apprentissage expérientiel apparaît dans la recherche de la base de connaissances
 
 - **Une substitution d'urgence, avec un critère d'évaluation de ce qu'elle permet.** [[ai-personas-fieldwork-experiential-learning-2026|Elhajj et al. (2026)]] documentent une substitution imposée par le conflit de 2024 au Liban : les étudiants d'un cours d'apprentissage expérientiel de niveau master à l'American University of Beyrouth, dans l'incapacité d'atteindre des communautés pour réaliser des analyses de besoins, ont interrogé des personas de parties prenantes générés par ChatGPT à la place. Deux évaluateurs ont noté les dix consignes de groupe et la répartition s'est révélée instructive — l'alignement sur les objectifs pédagogiques (moyenne 5.00) et la diversité des perspectives (4.90) étaient élevés, tandis que l'authenticité et le réalisme (4.38) et surtout la dynamique et la cohérence de groupe (3.80, avec un groupe de discussion de 30 personas qui s'est effondré en entretiens séquentiels) ainsi que les limites et les manques (3.20) étaient faibles, ce dernier point en raison de la platitude émotionnelle, de l'absence de contradiction et de la faible spécificité culturelle revenues dans chaque contexte. La conclusion des auteurs est une frontière plutôt qu'un verdict : les personas fonctionnent comme répétition et comme solution de dépannage là où l'accès est impossible ou dangereux, mais pas là où la complexité émotionnelle, la spécificité culturelle et la dynamique interpersonnelle *constituent* l'objectif d'apprentissage. Leur mesure d'atténuation est structurelle — associer le jeu de rôle simulé à de véritables entretiens afin que les étudiants puissent comparer, et former les étudiants à interroger les productions des personas pour y déceler biais et généralisations au lieu de les traiter comme des preuves de terrain.
 
@@ -49,7 +49,7 @@ L'apprentissage expérientiel est étroitement lié à l'[[active-learning|appre
 
 - **Faire versus se le voir dire, mesuré sur cinq semaines.** Dans une quasi-expérimentation avec 126 étudiants de première année en ingénierie, une séance expérientielle de deux heures sur l'apprentissage avec l'IA générative a produit un gain de [[metacognition|connaissances métacognitives]] de +0.25, contre environ zéro pour un cours magistral. C'est un effet moyen (d = -0.37) qui n'a pas atteint la significativité à p = .055 après correction pour comparaisons multiples, et l'engagement [[self-report-measures|déclaré]] envers l'IA était comparable dans les deux groupes à cinq semaines (3.99 et 3.93) ([[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio et coll., 2026]]). La borne que cela pose à la justification de cette page mérite d'être dite clairement : une séance pratique déplace les connaissances métacognitives dans la bonne direction sans trancher la comparaison, si bien que l'avantage du faire doit se construire par des cycles répétés plutôt que se présumer d'un seul atelier.
 
-### Deux formes d'apprentissage concret dans un curriculum soutenu par l'IA
+## Deux formes d'apprentissage concret dans un curriculum soutenu par l'IA
 
 Une revue thématique de 32 études évaluées par les pairs portant sur l'apprentissage concret dans la formation au [[design-education|design]] soutenue par l'IA ([[hands-on-learning-necessity-age-of-ai-review-2026|Yu, Liu & Zhu, 2026]]) soutient que l'IA réorganise plutôt qu'elle ne remplace l'apprentissage expérientiel, et établit une distinction que les autres sources de la base de connaissances tendent à gommer : *Embodied Hands-on* (concret incarné), qui dépend de l'action corporelle, des outils et des matériaux, et *Cognitive Hands-on* (concret cognitif), qui se développe par l'opération continue, le jugement et l'ajustement des productions générées par l'IA. Les deux suivent le même cycle action–rétroaction–réflexion–affinage, mais ils tirent leur rétroaction de sources différentes — la résistance matérielle du monde réel dans le premier cas, les résultats langagiers et visuels dans le second — aussi ne doivent-ils pas être traités comme équivalents ni comme substituables. La mise en garde de la revue est que l'efficacité de la génération peut comprimer la phase exploratoire : plusieurs études incluses rapportent une réduction de l'esquisse exploratoire et de l'essai-erreur progressif, si bien qu'un plus grand nombre d'itérations rendues possibles par l'IA ne signifie pas nécessairement une plus grande profondeur itérative, et les étudiants peuvent manquer les rencontres avec l'échec et les contraintes matérielles qui rendent le travail concret formateur. Conformément à cela, le [[prompt-engineering|incitation]] seul n'a pas accru la [[creativity|créativité]] dans les travaux examinés, tandis que les opérations en plusieurs étapes (générer, modifier, sélectionner) l'ont fait — situant à nouveau l'apprentissage dans le jugement de l'apprenant plutôt que dans la génération.
 
@@ -59,16 +59,6 @@ L'expérience intégrée au monde du travail peut être la condition déterminan
 
 Sur 26 études d'engagement communautaire, l'IA se concentrait dans la préparation (18) et l'action (15) et s'amenuisait à l'évaluation (8) et à la réflexion (3), si bien que les phases ultérieures et intégratives du cycle restent la lacune de conception propre à l'apprentissage par le service communautaire ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 
-
-## Idées fausses courantes
-
-**« L'apprentissage expérientiel, c'est une activité pratique. »** L'activité est la surface ; le mécanisme d'apprentissage est le cycle faire, réfléchir, conceptualiser et tester. Une séance de laboratoire sans réflexion structurée produit de la familiarité plutôt qu'un changement conceptuel, et c'est pourquoi « nous avons ajouté un volet pratique » n'est pas une preuve d'apprentissage expérientiel.
-
-**« L'IA peut se substituer à l'expérience dans l'apprentissage expérientiel. »** Elle peut simuler certains systèmes et ne peut pas fournir l'expérience qui forme la compétence dans des domaines appliqués comme l'IA, la cybersécurité et la robotique, où les étudiants développent leur savoir-faire en travaillant avec les outils et systèmes réels. Un environnement de sécurité simulé enseigne la procédure ; un système opérationnel enseigne la conséquence d'une mauvaise configuration.
-
-**« Des [[authentic-assessment|tâches plus authentiques]] sont simplement meilleures. »** L'authenticité élève à la fois la valeur de transfert et le problème d'évaluation : les systèmes réels produisent des preuves variables et difficiles à noter, et plus la tâche est authentique, moins le résultat ressemble à un score. La conception doit tenir les deux, et c'est pourquoi la structure de réflexion pèse autant que la tâche.
-
-**« Le [[intelligent-tutoring|tutorat par IA]] s'insère dans l'apprentissage expérientiel comme dans un contenu magistral. »** L'ajustement est plus faible, car un tuteur peut fournir une explication et non la rencontre avec le système. Sa place naturelle dans cette [[pedagogy|pédagogie]] se situe autour des étapes de réflexion et de conceptualisation, lorsque l'apprenant donne sens à ce qui s'est produit — non à la place du faire. [[gelli-experiential-language-learning-2026|Symonette et coll. (2026)]] génèrent la rencontre plutôt que de la scénariser : à partir des objectifs d'un apprenant, GELLI construit des scènes situées avec personnages, soutien et réflexion à l'exécution, et dans une étude intra-sujets avec 40 apprenants japonais, il a battu des vidéos écrites par des experts sur le rappel de vocabulaire (d = 0.45) et la confiance (d = 0.45), mais pas sur l'expression orale.
 
 ## Implications pour la pratique
 
@@ -87,6 +77,16 @@ Sur 26 études d'engagement communautaire, l'IA se concentrait dans la préparat
 
 - Vérifiez que les programmes appliqués contiennent du travail appliqué plutôt que des substituts de laboratoire ; l'affirmation de transfert repose sur l'authenticité de la rencontre.
 
+## Idées fausses courantes
+
+**« L'apprentissage expérientiel, c'est une activité pratique. »** L'activité est la surface ; le mécanisme d'apprentissage est le cycle faire, réfléchir, conceptualiser et tester. Une séance de laboratoire sans réflexion structurée produit de la familiarité plutôt qu'un changement conceptuel, et c'est pourquoi « nous avons ajouté un volet pratique » n'est pas une preuve d'apprentissage expérientiel.
+
+**« L'IA peut se substituer à l'expérience dans l'apprentissage expérientiel. »** Elle peut simuler certains systèmes et ne peut pas fournir l'expérience qui forme la compétence dans des domaines appliqués comme l'IA, la cybersécurité et la robotique, où les étudiants développent leur savoir-faire en travaillant avec les outils et systèmes réels. Un environnement de sécurité simulé enseigne la procédure ; un système opérationnel enseigne la conséquence d'une mauvaise configuration.
+
+**« Des [[authentic-assessment|tâches plus authentiques]] sont simplement meilleures. »** L'authenticité élève à la fois la valeur de transfert et le problème d'évaluation : les systèmes réels produisent des preuves variables et difficiles à noter, et plus la tâche est authentique, moins le résultat ressemble à un score. La conception doit tenir les deux, et c'est pourquoi la structure de réflexion pèse autant que la tâche.
+
+**« Le [[intelligent-tutoring|tutorat par IA]] s'insère dans l'apprentissage expérientiel comme dans un contenu magistral. »** L'ajustement est plus faible, car un tuteur peut fournir une explication et non la rencontre avec le système. Sa place naturelle dans cette [[pedagogy|pédagogie]] se situe autour des étapes de réflexion et de conceptualisation, lorsque l'apprenant donne sens à ce qui s'est produit — non à la place du faire. [[gelli-experiential-language-learning-2026|Symonette et coll. (2026)]] génèrent la rencontre plutôt que de la scénariser : à partir des objectifs d'un apprenant, GELLI construit des scènes situées avec personnages, soutien et réflexion à l'exécution, et dans une étude intra-sujets avec 40 apprenants japonais, il a battu des vidéos écrites par des experts sur le rappel de vocabulaire (d = 0.45) et la confiance (d = 0.45), mais pas sur l'expression orale.
+
 ## Concepts liés
 - [[active-learning]]
 - [[project-based-learning]]
@@ -100,6 +100,7 @@ Sur 26 études d'engagement communautaire, l'IA se concentrait dans la préparat
 - [[reflection]]
 
 ## Articles liés
+- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — Le jeu de rôle en situation réelle a surpassé la RV et le dialogue avec un LLM sur les gains d'empathie, bien que le temps d'exposition ait été confondu (Zwoliński et al., 2026)
 - [[genai-counter-learner-groupthink-2025]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Le cadre des Workforce Readiness Levels pour la fabrication intelligente à l'ère de l'IA
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Favoriser l'apprentissage durable par l'intelligence incarnée (E3-HOT)

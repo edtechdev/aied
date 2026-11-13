@@ -1,7 +1,7 @@
 ---
 title: "Identité de l'apprenant"
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-09T10:25:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,7 @@ Une condition de paternité distincte, et pas seulement une menace envers la pat
 
 - **L'adoption gardée : l'usage sélectif de l'IA comme protection de l'identité.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] a enquêté auprès de 484 étudiants d'une université australienne et a montré que les étudiants les plus performants déclaraient un *plus faible* engagement actif envers l'[[generative-ai|IA générative]], un affect positif plus faible envers l'IA, un [[self-report-measures|impact perçu]] sur l'apprentissage plus faible et un désengagement lié à l'IA plus faible, avec les associations les plus fortes à rho = -0.395 pour l'impact perçu sur l'apprentissage et rho = -0.359 pour l'affect positif. Leurs réponses ouvertes décrivaient un usage sélectif (clarification, synthèse, soutien aux flux de travail), vérifié, et tenu subordonné à leur propre jugement, et les résultats au niveau des items ont montré un plus grand accord avec l'affirmation que la confiance en l'IA nuit à la [[critical-thinking|pensée critique]] et à la [[problem-solving|résolution de problèmes]] indépendante. Les auteurs y lisent un travail d'identité : pour les étudiants dont le sentiment d'eux-mêmes comme apprenants qui réussissent repose sur leur propre effort et leur propre jugement, borner l'usage de l'IA défend l'[[agency|autonomie épistémique]] dont l'identité dépend — ce qui signifie aussi que ce schéma n'est ni une technophobie ni un faible engagement.
 - **Une intention déclarée ne gouverne pas nécessairement une décision relative à l'IA.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] ont interrogé 14 étudiants de premier cycle et codé chaque entretien pour la relation entre l'[[self-determination-theory|intention]] de l'étudiant — définie comme une visée personnellement signifiante de contribuer au-delà de soi — et ses choix en matière d'IA. Certains seulement établissaient le lien : l'un a refusé l'IA parce que ses coûts environnementaux et humains contredisaient son intention, et trois ont laissé leur future identité professionnelle façonner leurs choix (« contribue au psychologue que je serai un jour dans le monde »). D'autres, avec un sens de l'intention tout aussi clair, n'établissaient aucun lien de ce type, décrivant intention et IA comme « plutôt séparés », si bien qu'avoir une identité à protéger n'était pas la même chose que de s'en servir. L'article sépare aussi les raisons que les étudiants donnent pour garder leur travail à eux — développement des compétences, [[evaluative-judgment|propriété et fierté]] et objection morale — qui passent par des mécanismes différents et ne devraient pas être regroupées en un seul motif.
+- **La capacité peut arriver avant l'appartenance.** Une autoethnographie de 73 jours d'un enseignant de bioinformatique construisant un jeu dans un domaine inconnu a constaté que l'[[generative-ai|IA générative]] fournissait la capacité mais non l'identité : l'appartenance venait de la participation à des communautés de pratique et d'une mise en sens répétée, et son obtention prenait un rythme humain ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
 
 ## Relation avec l'autonomie de l'apprenant
 
@@ -128,3 +129,4 @@ L'identité de l'apprenant se relie à l'[[agency|autonomie]] (l'identité se me
 
 - [[synthetic-position-self-authorship-2026]] — La suspension auctoriale : l'écriture déléguée comme un soi à la voix dense mais non auteur (analyse conceptuelle)
 - [[vibe-coding-design-diversity-2026]] — Un seul outil, un seul goût ? Comment le vibe coding échange la diversité collective contre la créativité individuelle
+- [[kim-solo-game-development-autoethnography-2026]] — Entrer dans un nouveau domaine à l'ère de l'IA générative : une autoethnographie de développement de jeu en solo par un enseignant de bioinformatique

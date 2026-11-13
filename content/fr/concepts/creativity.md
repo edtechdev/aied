@@ -1,7 +1,7 @@
 ---
 title: "La créativité"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 
 La créativité couvre l'extrémité pensée-divergente du spectre cognitif — produire de multiples possibilités — par contraste avec la pensée convergente, qui aboutit à une solution unique correcte. Les systèmes d'IA sont particulièrement pertinents pour la créativité parce qu'ils sont des générateurs statistiques : ils peuvent proposer de nombreuses options (ce qui soutient l'idéation), mais tendent aussi vers la moyenne, produisant l'homogénéisation au niveau des idées documentée lorsque de nombreux étudiants s'appuient sur le même modèle.
 
-### La créativité et l'IA générative
+## La créativité et l'IA générative
 
 - **Amplification :** l'IA peut agir comme un partenaire de pensée divergente — en remue-méninges d'alternatives, en produisant des contre-arguments et en offrant des perspectives que l'apprenant n'aurait pas envisagées. Des configurations d'[[agentic-ai|agents multiples]] spécialisées par rôle peuvent restaurer la diversité idéationnelle.
 
@@ -70,7 +70,7 @@ Une enquête nationale complique ce tableau : parmi 5 764 étudiants universitai
 - **L'incarnation paie de manière inégale.** Un robot physique associé à un modèle à haute créativité a significativement accru l'originalité par rapport à la collaboration humain-humain et textuelle, tandis que les conditions humaine et textuelle conservaient l'avantage pour l'imagerie et la voix — un paradoxe de l'incarnation dans lequel le robot amplifiait la production de l'IA sans améliorer le style ([[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Liu & Song (2026)]]).
 - **Réaffirmer la créativité humaine à l'ère de l'IA.** L'ascension de l'IA générative met au défi les champs éducatifs de réaffirmer la valeur de la créativité humaine. Un cadre de [[storytelling-in-education|narration]] numérique [[project-based-learning|par projet]] pour l'enseignement de l'art et du design a été conçu explicitement pour cultiver les capacités émotionnelles, culturelles et narratives qui manquent à l'IA, les étudiants produisant des récits [[multimodal]] à partir du patrimoine culturel local — positionnant la créativité comme la contribution proprement humaine dans l'apprentissage intégrant l'IA.
 
-### La créativité selon les domaines
+## La créativité selon les domaines
 
 La créativité n'est pas une faculté unique et monolithique — elle se réalise différemment en écriture, en arts visuels, en [[math-education|mathématiques]] et en informatique, et l'IA générative interagit avec le processus créatif de chaque domaine de manière distincte. Comprendre ces différences importe pour concevoir un apprentissage assisté par IA qui protège plutôt que contourne l'acte créatif central de chaque domaine.
 
@@ -82,7 +82,9 @@ La créativité n'est pas une faculté unique et monolithique — elle se réali
 
 - **Un flux de conception en IA générative peut abaisser la confiance créative alors que la performance se maintient.** Dans une comparaison de conception architecturale portant sur 36 étudiants, la génération d'images par IA générative a égalé la recherche de précédents sur la performance de conception, la charge cognitive et l'efficacité personnelle créative spécifique à la tâche, mais l'efficacité personnelle créative *générale* a chuté (DiD = −0.543, IC à 95 % [−1.068, −0.017]) — le soutien à la tâche et la confiance en sa propre créativité peuvent évoluer en sens opposé ([[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao et al. (2026)]]).
 
-### Mettre la créativité en pratique
+- **La narration visuelle comme pont de l'imitation au design.** Dans un cours de conception bio-inspirée, 20 étudiants ont utilisé des outils d'image par IA pour transformer des matériaux biologiques sources en récits visuels ; l'analyse de cinq œuvres a montré que le récit, et non le poli de l'image, portait l'idée biologique, et que les étudiants choisissaient le style visuel pour le sens ([[malkani-paul-ai-steam-visual-storytelling-2026]]).
+
+## Mettre la créativité en pratique
 
 Le principe de conception récurrent qui se dégage de ces résultats est de **maintenir l'acte génératif propre de l'apprenant dans la boucle** — que cet acte consiste à produire une idée, à itérer un artéfact ou à étendre un exemple trouvé — et d'utiliser l'IA comme un partenaire de pensée divergente qui met au défi et élargit, plutôt qu'il ne remplace.
 
@@ -90,7 +92,7 @@ Le principe de conception récurrent qui se dégage de ces résultats est de **m
 - **Pour les développeurs et concepteurs :** construisez des outils qui révèlent et récompensent la boucle d'itération — montrez la structure (comme le fait l'organigramme de Flowcode), ajoutez une [[desirable-difficulties|friction productive]] au moment de « livrer la première production », et proposez des alternatives et des critiques plutôt qu'une réponse unique et léchée. Lorsque l'outil rend la version suivante sans effort, ce sont malgré tout les décisions créatives de l'apprenant qui doivent compter.
 - **Pour les chercheurs :** traitez la créativité comme [[discipline-specific-aied|spécifique au domaine]] et spécifique au résultat — mesurez si les gains se [[transfer-of-learning|transfèrent]] à des tâches convergentes ou sans assistance, et pas seulement si la production assistée semble plus créative. Le fossé de mesure est le problème le plus aigu du champ : au sein du corpus K–12 de 45 études, seules les quatre études d'évaluation utilisaient une mesure formelle de la créativité, la plupart des études ne définissaient jamais le construit, et le *processus* créatif — préparation, incubation, illumination, vérification — n'était pour ainsi dire pas mesuré. D'où la prescription de la revue : mesurer d'abord, noter la créativité de manière non intrusive à l'intérieur de tâches ouvertes via un design centré sur les preuves et de l'[[assessment]] furtif, et traiter l'[[self-efficacy]] créatif comme partie du résultat plutôt que comme un effet secondaire implicite ([[genai-creativity-k12-scoping-review-2026]]).
 
-### Connexions
+## Connexions
 
 La créativité se rattache à la [[critical-thinking]] et à l'apprentissage [[constructivist]]. Elle est protégée par les mêmes [[scaffolding|étayages]] de [[reducing-ai-misuse]] qui préservent l'apprentissage, et par les dispositifs d'[[authentic-assessment]] qui récompensent le raisonnement original plutôt que les produits léchés.
 
@@ -136,3 +138,4 @@ La créativité se rattache à la [[critical-thinking]] et à l'apprentissage [[
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Créativité égale, engagement neural divergent : enfants et adultes conversationnant avec ChatGPT dans un scanner d'IRM
 - [[ai-dependence-creativity-motivation-literacy-2026]] — La dépendance à l'IA et quatre motivations d'usage se rapportent de façon divergente à la créativité auto-déclarée (Hou et al. 2026)
 - [[ai-exemplar-attribution-creativity-education-2026]] — Soutenir l'éducation à la créativité à l'ère de l'IA : le rôle de la source perçue de l'exemple
+- [[malkani-paul-ai-steam-visual-storytelling-2026]] — La narration visuelle par IA a fait passer des étudiants en design de l'imitation de la nature vers des scénarios centrés sur l'utilisateur (Malkani & Paul 2026)

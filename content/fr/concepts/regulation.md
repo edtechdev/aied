@@ -1,7 +1,7 @@
 ---
 title: Réglementation de l'IA dans l'éducation
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 
 La réglementation est la couche juridique et politique de la [[governance|gouvernance de l'IA]] : elle fixe les règles, les normes et les mécanismes d'application contraignants que la gouvernance institutionnelle traduit en pratique. Là où la gouvernance est le large cadre de normes et de structures, la réglementation fournit les règles faisant autorité — des lois nationales sur l'IA et des statuts de [[privacy|protection des données]] aux politiques institutionnelles d'usage acceptable et aux lignes directrices professionnelles. Un thème récurrent dans les recherches de la base de connaissances est que la réglementation tarde à suivre le déploiement de l'IA, laissant les institutions improviser une gouvernance dans l'intervalle.
 
-### Paysage réglementaire
+## Paysage réglementaire
 
 - **Politique gouvernementale :** les recherches sur l'[[educational-policy-ai|évaluation de la politique éducative de l'IA]] examinent les politiques nationales et régionales d'[[ai-education|éducation à l'IA]]. et la politique d'[[ai-lifelong-learning-policy|apprentissage tout au long de la vie]] traitent des lacunes réglementaires, tandis que la [[ai-uk-higher-education-policy-2026|politique britannique pour l'IA dans l'enseignement supérieur]] et l'[[oecd-digital-education-outlook-2026|OCDE Digital Education Outlook]] situent les approches nationales dans une perspective comparative et internationale.
 - **Gouvernance institutionnelle :** les [[governance|cadres de gouvernance de l'IA]] et l'[[genai-policies-higher-ed-computing|analyse des politiques institutionnelles]] documentent la manière dont les universités élaborent leurs règles internes sur l'IA, tandis que les [[genai-declaration-frameworks-higher-education|cadres de déclaration d'usage de l'IA]] et la [[genai-assessment-governance|gouvernance de l'évaluation]] régulent l'usage de l'IA dans les travaux évalués. [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] constate que les règles internes du secteur sont surtout des recommandations plutôt qu'une politique contraignante — 44 des 50 universités innovantes américaines ont publié des lignes directrices, des principes ou des centres de ressources, tandis que 6 seulement ont présenté leur page principale comme une « policy » — les règles de syllabus fixées par les enseignants accomplissant le travail réglementaire opératoire dans les cours pris individuellement. L'enquête de [[watson-rainie-ai-challenge-faculty-survey-2026|Watson et Rainie (2026)]] auprès de 1 057 membres du corps professoral américain mesure à quel point les règles effectives se situent en dessous de la couche institutionnelle : 87% des répondants ont rédigé leurs propres politiques au niveau des devoirs, tandis que 48% seulement ont rendu compte de lignes directrices institutionnelles écrites et 35% de lignes directrices départementales, face à une réponse structurelle qui est mince au sommet — un groupe de travail ou de supervision dans 55% des cas, mais la littératie en IA adoptée comme résultat de la formation générale dans 13% des cas seulement.
@@ -50,7 +50,7 @@ La réglementation est la couche juridique et politique de la [[governance|gouve
 - **Droit de l'égalité et obligation d'aménagements raisonnables :** des règles d'IA sur-inclusives peuvent entrer en collision avec des devoirs statutaires. [[wright-transcription-not-generation-2026|Wright (2026)]] soutient que des interdictions bannissant l'« [[generative-ai|IA générative]] » sans distinguer la génération de contenus de la conversion de format capturent les outils de transcription par l'IA et peuvent engager l'obligation d'aménagement raisonnable au titre de l'Equality Act 2010 du Royaume-Uni, de l'Americans with Disabilities Act des États-Unis et du Disability Discrimination Act 1992 d'Australie — ce qui fait de la rédaction d'une interdiction une question réglementaire, et pas seulement une question d'intégrité académique (voir [[legal-issues-and-risks|questions et risques juridiques]]). [[li-genai-assessment-language-equity-2026|Li (2026)]] étend la même collision à l'origine linguistique : des règles d'évaluation qui ne séparent pas le soutien légitime à la langue de la substitution substantielle imposent aux étudiants utilisant l'anglais comme langue additionnelle des charges de conformité biaisées par cohorte, et le cadre conçu pour y remédier est défendu par un raisonnement en termes de discrimination indirecte, auquel s'ajoute l'attente du droit administratif selon laquelle un décideur doit pouvoir énoncer la règle appliquée, les preuves sur lesquelles il s'est fondé et pourquoi l'issue était proportionnée — la norme qu'un recours en contrôle applique à une décision administrative.
 - **Conformité et responsabilité :** la [[student-regulatory-awareness-genai|conscience réglementaire des étudiants]] examine si les apprenants connaissent réellement les règles d'IA et les respectent, et les [[dot-framework-survey-2026|cadres d'adoption des technologies]] explorent la manière dont les préoccupations réglementaires et éthiques influencent les décisions d'adoption.
 
-### Le fossé de gouvernance
+## Le fossé de gouvernance
 
 La base de connaissances documente un fossé persistant entre la vitesse de déploiement de l'IA et la maturité réglementaire. Les [[institutional-change-framework-ai|cadres de changement institutionnel]] et les recherches sur la réglementation plaident pour une [[governance|gouvernance]] proactive plutôt que pour une politique réactive. Des études sur et les [[raza-farooq-aied-review-2020-2025|revues complètes de l'AIED]] soulignent que la réglementation est inégale selon les juridictions et les niveaux d'enseignement, créant un environnement opératoire incohérent pour les enseignants, les étudiants et les développeurs.
 
@@ -60,7 +60,7 @@ Les systèmes [[agentic-ai|agentiques]] ouvrent un fossé supplémentaire. Dans 
 
 Un audit des [[edtech-platform|plateformes EdTech]] donne à cette dépendance une instance concrète. Sur 48 plateformes, la collecte de données était divulguée de manière relativement bonne (moyenne de 1,81 sur 2), tandis que la divulgation sur l'IA (0,90) et la responsabilité (1,07) tardaient, et 33% ne faisaient aucune divulgation significative sur l'IA malgré des fonctionnalités d'IA visibles. Les plateformes américaines du [[k-12|primaire et du secondaire]] obtenaient les meilleurs scores globaux (M = 7,47 contre 5,50 pour l'[[higher-ed|enseignement supérieur]] américain) sans pour autant gagner quoi que ce soit en divulgation sur l'IA ou en responsabilité. La réglementation, concluent les auteurs, ne relève que ce qu'elle nomme, de sorte que ce sont des règles exécutoires et des normes d'achat public plutôt que des engagements volontaires qui doivent faire de la [[privacy|confidentialité]] une condition du déploiement ([[edtech-privacy-deferral-2026|Nair et Greenstadt, 2026]]).
 
-### Connexions
+## Connexions
 
 La réglementation se relie à l'[[educational-policy-ai|évaluation de la politique éducative de l'IA]], à la [[governance|gouvernance]], à l'[[ethics|éthique]], à la [[privacy|confidentialité]], à la [[pedagogical-safety|sécurité pédagogique]] et à l'[[academic-integrity|intégrité académique]]. C'est la couche institutionnelle qui façonne le fonctionnement de toutes les autres pratiques d'éducation à l'IA. La réglementation contraint et rend possible à la fois : elle fixe les frontières de l'usage acceptable de l'IA tout en créant les conditions — par l'[[ai-literacy|littératie en IA]] et les attentes d'usage responsable — d'une intégration [[equity-in-ai-education|équitable]] et sûre.
 

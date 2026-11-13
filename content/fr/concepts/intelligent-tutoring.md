@@ -1,9 +1,9 @@
 ---
 title: "Tutorat intelligent"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
-connected_resources: [deeptutor, openmaic, learnharness]
+connected_resources: [deeptutor, openmaic, learnharness, ai-tutor-pro-teaching-assistant-pro]
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, student-modeling]
@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-11T07:49:18-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -148,6 +148,10 @@ Une grille de lecture unificatrice issue de [[turano-ai-tutoring-not-a-monolith-
 
 Ce cadrage par l'intensité relationnelle est le contrepoint « pas un monolithe » au champ : évaluer un tuteur d'IA devrait commencer par se demander *quelles conditions d'un tutorat efficace il reproduit, modifie ou abandonne* — plutôt que par se demander si « le tutorat par IA fonctionne » dans l'abstrait. La référence « piloté par l'humain » de la note peut aussi être entièrement absente : une étude pré-test/post-test de six semaines dans trois collèges d'éducation de l'État de Kwara a donné à 240 étudiants d'[[vocational-education|éducation technique]] un tuteur localisé affiné sur les programmes techniques nigérians et rapporté environ le double du gain de compétence pratique par rapport à 120 pairs enseignés de façon conventionnelle. Les travaux pratiques s'y déroulaient avec des ratios étudiants-enseignants supérieurs à 100:1 et une rétroaction retardée de plusieurs jours, si bien que la justification des auteurs n'était pas l'augmentation mais la *substitution* [[equity-in-ai-education|équitable]] à un personnel enseignant rare — faisant du tuteur une subvention de capacité pour les collèges ruraux plutôt qu'un complément à un tutorat humain abondant. Deux choix de conception portent la leçon pratique : le tuteur explique une erreur plutôt que de se contenter de la signaler, et une fonctionnalité « Clarify » reformule les termes techniques en yoruba ou en nupe, s'adaptant au contexte linguistique de l'apprenant et pas seulement à son état de connaissances ; les indices plutôt que les réponses et un espace sûr pour l'échec sont crédités de l'augmentation de confiance rapportée dans la plupart du groupe assisté par IA, contre moins de la moitié des témoins. Les données sont seulement indicatives — aucune taille d'effet, un modèle de base non nommé, une confiance [[self-report-measures|auto-déclarée]] — mais cela marque la frontière que la note laisse ouverte, le contexte où l'on demande à l'IA de se substituer à une capacité d'enseignement absente. Cela rattache la page du tutorat à la politique du [[k-12|scolaire]] ([[educational-policy-ai]]), à la [[privacy|vie privée]], à la [[pedagogical-safety|sécurité pédagogique]], et aux préoccupations relatives à l'humain dans la boucle qui parcourent l'ensemble ([[real-time-ai-feedback-technical-skills-2026]]).
 
+**Un spectre unidimensionnel masque quelles fonctions ont été réassignées.** [[wu-hybrid-human-ai-tutoring-architecture-2026|Wu et al. (2026)]] conservent la question de l'intensité relationnelle mais ajoutent une analyse au niveau des fonctions de quatre architectures hybrides : prestation par l'IA avec révision humaine (Eedi + LearnLM), prestation par l'IA avec soutien humain (un tuteur de littératie en IA ; PLUS), alternance de sessions humaines et d'IA (Saga Technology), et prestation humaine avec augmentation par l'IA (Tutor CoPilot). La distinction qui compte est que deux programmes peuvent occuper le même point du spectre d'implication tout en confiant un travail complètement différent aux personnes : dans leur AI Literacy Tutor, les humains n'apportent que l'engagement et la responsabilité, tandis que dans PLUS les tuteurs virtuels lisent aussi les données d'apprentissage et interviennent par un enseignement ciblé.
+
+La question de conception devient donc de savoir laquelle des cinq fonctions du tutorat — diagnostic et adaptation, rétroaction et étayage, pratique, relation et responsabilité — est assurée par qui, et comment les relais sont coordonnés. Leur revue des preuves fournit le volet coût du même argument : le tutorat humain coûte environ 1 022 \$ à 3 100 \$ par étudiant et par an, contre 15 \$ par étudiant et par an pour Khanmigo, tandis que seuls 20 des 800 articles sur le tutorat par LLM en K-12 offraient des preuves causales solides et aucun ne le faisait dans des contextes américains de K-12.
+
 ### Practical design and development guidance
 
 **Concevoir pour l'apprentissage, pas seulement pour la performance.** Le résultat causal le plus solide est que les tuteurs d'IA sans garde-fou augmentent la performance en pratique assistée mais *réduisent* l'apprentissage non assisté — l'[[ai-misuse-learning-harm|fossé performance-apprentissage]]. Prémunissez-vous contre la copie de réponses en étayant par des **indices plutôt que des réponses** (exiger une tentative de l'étudiant avant de révéler le résultat), et vérifiez les gains sur des mesures non assistées, à livre fermé, plutôt que sur la performance dans l'outil.([[generative-ai-guardrails-harm-learning]])([[genai-performance-vs-learning]])
@@ -174,6 +178,11 @@ Un tutorat efficace exige une adaptation continuelle : [[zhang-tutormoments-2026
 - **Concevoir avec les valeurs de l'apprenant, pas seulement pour sa performance.** Les travaux de [[ko-hughes-vsd-student-centered-its-2026|conception sensible aux valeurs (Value Sensitive Design)]] menés avec des étudiants et enseignants de community college en mathématiques de mise à niveau montrent que les dimensions [[ethics|éthiques]] des ITS ne sont pas des ajouts séparables : l'engagement direct des étudiants et des enseignants a produit 16 fonctionnalités alignées sur des valeurs, couvrant l'[[explainable-ai|explicabilité]] (interprétation des vérifications de compréhension, lien avec le parcours d'apprentissage, communication de la confiance du modèle), le [[agency|contrôle par l'apprenant]] (contrôle sur la réévaluation, la révision, le rythme et le niveau d'assistance par l'IA), et la [[privacy|vie privée]] (contrôle sur la réutilisation des données, demandes de permission pour le partage des [[learning-analytics|analytiques de l'apprentissage]] et des états [[affective-computing|affectifs]]). L'étude formule une tension de conception persistante — l'[[agency|autonomie de l'étudiant]] face à l'étayage guidé par le système — et note que la plupart des établissements désactivent entièrement le tutorat adaptatif, si bien qu'une conception informée par les valeurs dépend aussi de la manière (et de la question de savoir si) les capacités d'IA des ITS sont réellement déployées.
 
 - **Les agents enseignables et la classification du dialogue désengagé :** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] ont déployé un agent enseignant GPT-4-Turbo au sein de Math Nation (Algèbre et Géométrie), où les étudiants devaient identifier laquelle de deux solutions travaillées contenait une idée fausse, justifier la correction et enseigner à l'agent — une structure d'[[learning-by-teaching|apprentissage par l'enseignement]] dotée d'un agent mentor distinct notant la qualité des explications. Sur 6,933 problèmes ouverts et 22,143 interactions journalisées, ils ont construit un classifieur de désengagement conversationnel à six catégories (avec un humain dans la boucle : 1,682 énoncés annotés, LLaMA 3 ajusté, F1 pondéré = 0.910, κ modèle-contre-humain = 0.624) et l'ont utilisé pour étudier 246 collégiens. La contribution méthodologique importe autant que le résultat : lorsqu'un classifieur étiquette la majeure partie du corpus, les résultats de prévalence doivent être mis à l'épreuve sur le sous-ensemble annoté par des humains — et ici l'association principale (le False Answering et le Mocking prédisant un meilleur post-test) s'est évanouie précisément sous ce test.
+
+- **Un assistant socratique propre à un cours a produit de faibles gains de perception.** Sur 4 587 enquêtes de fin de cours, les étudiants qui utilisaient Spark évaluaient le soutien et la clarté légèrement plus haut que les non-utilisateurs (delta de Cliff 0.041 et 0.079), sans différence dans le sentiment des commentaires, ce que les auteurs interprètent comme cohérent avec un rôle de MKO plutôt que comme une preuve d'apprentissage ([[west-spark-support-clarity-asynchronous-2026]]).
+- **L'argumentaire de conception comme prétention à la confiance.** [[owston-ai-tutor-pro-pedagogy-privacy-trust-2026|Owston (2026)]] sépare la pratique de récupération, le dialogue guidé et la conversation vocale en trois modes, et soutient que l'anonymat, des réponses restreintes à OpenStax et une vérification par Wolfram Alpha sont ce qui rend un outil d'étude gratuit recommandable ; l'article rapporte des exemples d'adoption mais aucun résultat d'apprentissage.
+
+Deux nouvelles études examinent qui contrôle le moment de l'aide, et aucune ne trouve de gain simple. Dans une expérience contrôlée portant sur 90 étudiants, l'initiation proactive du tuteur n'a produit aucun gain moyen par rapport au soutien réactif (croissance de la maîtrise de la pensée computationnelle sur le pseudocodage de .14 contre .13, p = .81) et a interagi négativement avec la maîtrise initiale (β = −0.48) ([[rai-calibrating-tutor-initiation-2026|Rai et al., 2026]]). Une politique d'apprentissage par renforcement décidant du moment où les étudiants pouvaient ouvrir un LLM a obtenu 5.11 à un post-test non assisté contre 4.03 avec un accès libre (t(71) = 2.51, p = .014, d = 0.59) et ne différait pas significativement de l'absence d'accès ([[rotter-access-timing-scaffolding-2026|Rotter et al., 2026]]).
 
 ## Idées fausses courantes
 
@@ -209,6 +218,12 @@ Un tutorat efficace exige une adaptation continuelle : [[zhang-tutormoments-2026
 - [[speech-and-voice-technologies]]
 
 ## Articles liés
+
+- [[rai-calibrating-tutor-initiation-2026]] — 90 étudiants : l'initiation proactive n'a rien apporté de plus que le soutien réactif (.14 contre .13) et a nui aux étudiants à connaissances préalables élevées (Rai et al., 2026)
+- [[rotter-access-timing-scaffolding-2026]] — 105 étudiants : l'accès temporisé au LLM a obtenu 5.11 contre 4.03 en accès libre à un post-test non assisté (Rotter et al., 2026)
+- [[west-spark-support-clarity-asynchronous-2026]] — Les utilisateurs de Spark ont signalé un soutien et une clarté légèrement supérieurs sur 4 587 enquêtes, un effet faible (West et al. 2026)
+- [[owston-ai-tutor-pro-pedagogy-privacy-trust-2026]] — Les trois modes d'étude d'AI Tutor Pro, son modèle d'anonymat et ses réponses restreintes aux sources (Owston 2026)
+
 - [[leite-its-k12-meta-analysis-2025]] — Méta-analyse américaine en K-12 : 18 expériences, g = 0.271, et ce qui le modère (Leite et al. 2025)
 
 - [[learnlm-eedi-expanded-rct-2026]] — Essai randomisé élargi au Royaume-Uni : gains de transfert proche mais aucun avantage aux tests standardisés à 10 semaines (LearnLM Team, Google et Eedi 2026)
@@ -259,3 +274,4 @@ Un tutorat efficace exige une adaptation continuelle : [[zhang-tutormoments-2026
 - [[llm-tutors-process-synthesis-2026]] — Les tuteurs à base de LLM enseignent-ils réellement ? Une synthèse centrée sur les processus de la boucle de tutorat
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Mais les modèles prêts à l'emploi ne fournissent pas nécessairement ces données : Worden et al. (2026) face à une vérité de référence issue de l'IRT
 - [[multi-sourced-ai-tutor-non-native-english-2026]] — Un tuteur par IA multi-sources pour des étudiants non natifs de l'anglais
+- [[wu-hybrid-human-ai-tutoring-architecture-2026]] — Quatre architectures de tutorat hybride, le « triangle de fer » efficacité-coût-portée et un programme de recherche micro/méso/macro (Wu et al. 2026)

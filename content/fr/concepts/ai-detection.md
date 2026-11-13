@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: "Détection de l'IA"
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,7 +14,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-10T18:55:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,7 @@ La recherche met systématiquement en garde contre un recours exclusif à la dé
 - **Échecs de validité et d'équité :** les outils de détection peuvent être biaisés contre les rédacteurs non natifs, produisant des faux positifs qui pénalisent injustement les étudiants, une préoccupation liée à l'[[bias-mitigation|atténuation des biais]] et à l'[[equity-in-ai-education|équité]].
 - **Taux d'erreur notables et érosion de la confiance :** une détection peu fiable sape la [[trust|confiance]] des étudiants et l'intégrité du processus d'évaluation.
 - **Dépendance à la tâche :** comme le montre l'étude sur l'auto-détection, l'exactitude varie fortement selon le type de tâche, si bien qu'aucun détecteur unique n'est fiable sur l'ensemble des évaluations.
+- **La granularité change le verdict.** Sur des essais du PISA 2025 étiquetés par provenance, un détecteur à plongements maintenait le rappel de l'IA au niveau du texte entier à 0.94 ou plus sous une réécriture de style étudiant, tandis que le rappel au niveau de la phrase tombait jusqu'à 0.59 ([[schaller-ai-text-detection-authentic-writing-2026|Schaller et coll. (2026)]]).
 - **Même un détecteur validé repose sur une référence historique :** une étude de six ans sur un cours d'informatique de deuxième année a validé son détecteur par confrontation à une référence antérieure aux LLM : les scores H étaient proches de zéro avant que les LLM ne soient publics et sont montés à une moyenne de 11.9 en 2026 ([[argus-academic-integrity-genai-2026|Racovan et al. (2026)]]).
 - **Le paradoxe de l'intégrité, quantifié.** [[karr-ai-detection-humanization-2026|Une étude contrôlée portant sur 642 résumés publiés (Karr et al. 2026)]] montre que l'échec de la [[educational-policy-ai|politique]] n'est pas seulement conceptuel, mais mesuré : une édition légère par l'IA conforme aux consignes est signalée dans 38 à 80% des cas, des originaux récents non modifiés dans 9 à 15% (les domaines non STIM étant largement au-dessus des domaines STIM), et un texte d'IA assisté par un humaniseur échappe à la détection dans plus de 96% des cas. Parce que les détecteurs se règlent sur le style de surface (densité des jetons longs et des mots académiques) plutôt que sur l'intention d'auteur, une assistance honnête par l'IA attire la sanction tandis que l'évasion délibérée par humaniseur y échappe — les auteurs soutiennent que les scores des détecteurs ne devraient jamais constituer à eux seuls une preuve de faute.
 - **La détection et l'évasion sont les deux faces d'un même marché commercial.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] ont recensé 55 sites d'humanisation de textes d'IA — des services qui réécrivent un texte d'IA pour échapper à la détection — et ont constaté que les trois qu'ils ont analysés figuraient en première page de Google, vendus par paliers freemium avec des programmes d'affiliation. Leur argument d'économie politique importe pour la politique des détecteurs : les fournisseurs de détection vendent une classification de la paternité d'un texte, tandis que les humaniseurs vendent la promesse de changer cette classification ; un régime fondé d'abord sur la détection ne fait donc pas seulement défaut face à l'évasion, il fabrique la demande d'évasion payante. Ces sites jouent la légitimité plutôt qu'ils ne l'assument — des logos universitaires et d'entreprise inexpliqués placés sous la zone de texte, des nombres d'utilisateurs invérifiables (environ 3 millions, 10 000 étudiants, 1.5 million sur les trois sites), des taux de réussite annoncés de 99.8% à 100%, et une mystification des « 1.6 trillion de paramètres » — et aucun ne portait d'adresse professionnelle enregistrée. La conséquence pour une décision de détection est que bloquer un outil ne supprime pas la structure de demande qui se trouve derrière.

@@ -2,13 +2,13 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: La rétroaction
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-12T16:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -136,7 +136,11 @@ Les capacités du côté étudiant qui importent sont empiriquement séparables 
 
 Une source peut différer dans la manière dont elle calibre, et non dans la qualité de sa notation : dans une expérience randomisée, une rétroaction d'IA fondée sur la chaîne de pensée a surpassé un enseignant expérimenté sur la qualité de la grille sans pour autant produire de gains de révision plus importants, tandis que la rétroaction de l'enseignant demeurait calibrée d'une version à l'autre et que la rétroaction de l'IAG suivait la force de la dissertation initiale ([[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]]).
 
+La croyance de l'étudiant au sujet de la source modifie ce qu'il fait de mots identiques. Dans une expérience à trois conditions, 148 adultes ont reçu une rétroaction écrite par un même modèle au sujet de leur propre code p5.js, étiquetée soit comme générée par l'IA, soit comme révisée par un assistant d'enseignement, la livraison étant maintenue à 60 secondes. Ceux qui croyaient qu'un humain avait lu leur travail sont restés plus longtemps sur la tâche (948 s contre 741 s, d = 0.61) et ont gardé plus longtemps la fenêtre du tutoriel au premier plan (850 s contre 662 s, d = 0.56), tandis que les notes d'utilité ne bougeaient pas et que la qualité du code ne s'améliorait pas. Près de la moitié du groupe attribué à un humain ne croyait pas à l'étiquette, et ces participants ont écrit des programmes plus courts et moins complexes que le groupe ouvertement étiqueté IA. La crédibilité de la source fait partie de l'appropriation, et elle est fragile : une source mal attribuée peut faire baisser l'engagement en deçà de la divulgation simple ([[morris-same-feedback-different-source-2026|Morris & Maes, 2026]]).
+
 Un modèle à deux couches montre comment l'appariement peut être organisé autour d'une machine sans lui déléguer le jugement. Dans l'[[ai-agents-joyful-assessment-third-space-2026|exemple travaillé d'El Khoury et Ma]], un [[agentic-ai|agent]] produit un rapport de preuves fondé sur une grille provisoire pour chaque transcription, chaque évaluation étant rattachée à des extraits cités, puis l'enseignant examine le rapport, anime un compte rendu et décide de ce que les preuves signifient pour cet étudiant — une division que les auteurs résument en disant que l'IA organise les preuves tandis que l'enseignant les interprète. Leur affirmation au sujet de l'appropriation est fondée sur l'appréciation : la rétroaction et l'itération en dehors des hiérarchies sociales que les étudiants parcourent avec leurs pairs et leurs enseignants sont plus faciles à tenter, et c'est la répétition au rythme propre de l'étudiant qui, selon eux, transforme une confiance occasionnelle en habitude installée d'engagement envers la rétroaction.
+
+**La capacité d'appropriation conditionne ce que produit la rétroaction de l'IA.** Chez 486 étudiants en anglais langue étrangère, le lien entre l'usage de la rétroaction de l'IA et l'autonomie valait 0.48 à un écart-type au-dessus de la moyenne modélisée de littératie en IA et 0.23 en dessous, avec un chemin indirect sériel de 0.10 vers l'engagement cognitif profond ([[he-ai-feedback-deep-engagement-efl-2026|He et al. (2026)]]).
 
 ### Pourquoi la rétroaction importe pour l'IA en éducation
 
@@ -148,6 +152,13 @@ La rétroaction est l'un des mécanismes les plus conséquents et les mieux éta
 
 **La rétroaction peut être construite à partir du processus plutôt que du produit.** Dans [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]], un bras recevait des [[visualization|visualisations]] personnalisées de sa propre activité de frappe et d'écran avec une réflexion structurée, tandis que l'autre recevait des commentaires écrits de l'enseignant sur l'exactitude, la clarté et la qualité éditoriale. Le bras « processus » a gagné 5,64 points sur une notation éditoriale aveugle de 0 à 100 contre 1,91 pour le bras « produit », avec une interaction Groupe × Temps (F(1, 20) = 4,94, p = 0,038, êta-carré partiel 0,198) et le gain du bras témoin non significatif (p = 0,123). Onze étudiants par bras signifient que la direction est le résultat, non la taille.
 
+- **La demande de rétroaction par l'IA peut mesurer une pénurie, et non une préférence.** Dans un cours d'honneurs portant sur la notation, les étudiants ont accueilli favorablement la rétroaction générée par l'IA principalement parce qu'ils avaient reçu fort peu de rétroaction de leur enseignant, et non parce qu'ils la jugeaient meilleure, et ils souhaitaient qu'elle soit bornée par le jugement de l'enseignant ([[guberman-control-or-support-grading-2026|Guberman, 2026]]).
+
+- **Une rétroaction de l'IA vérifiée par des humains a amélioré les révisions, mais non l'apprentissage au post-test.** Dans un essai randomisé réunissant 354 étudiants de premier cycle et 1 366 dissertations, la rétroaction médiatisée par l'IA d'assistants d'enseignement a relevé la qualité des révisions (d de Cohen = 0.50) tandis que les scores au post-test sont restés stables, et le gain augmentait à mesure que les assistants d'enseignement adoptaient davantage de suggestions ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]]).
+
+Deux nouvelles études resserrent ce que la rétroaction de l'IA peut revendiquer. Chez 391 élèves allemands du secondaire, aucun résultat ne différait significativement entre une rétroaction écrite par l'enseignant et une rétroaction de LLM : les révisions, l'écriture ultérieure, le temps passé sur la tâche et les perceptions étaient statistiquement indiscernables. Les probabilités a posteriori bayésiennes penchaient vers la rétroaction de l'enseignant pour l'écriture ultérieure (.80) et l'affect (.90), avec un quart à deux cinquièmes de la masse à l'intérieur de la région d'équivalence. La rétroaction immédiate de l'IA, à elle seule, a été jugée plus utile et plus motivante ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). Dans une étude de huit semaines portant sur 247 étudiants de premier cycle, la qualité perçue de la rétroaction prédisait la compétence (β = 0.52), l'autonomie (β = 0.44) et le lien social (β = 0.28), ce qui situe une partie de l'effet dans la manière dont la rétroaction est vécue plutôt que dans sa seule exactitude ([[liu-ai-feedback-motivational-pathways-2026|Liu et al., 2026]]).
+
+La synthèse sur les langues secondes donne à cette hiérarchie un ancrage empirique. Sur 48 études contrôlées, l'IAG déployée comme fournisseur de rétroaction et d'évaluation a produit l'effet le plus important (g = 1.15, tombant à g = 0.83 après retrait des valeurs aberrantes), devant son usage comme partenaire d'interaction (g = 0.81) ou comme intégrateur pédagogique (g = 0.28) ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
 
 ## Idées fausses courantes
 
@@ -178,6 +189,11 @@ La rétroaction est l'un des mécanismes les plus conséquents et les mieux éta
 
 
 ## Articles liés
+- [[morris-same-feedback-different-source-2026]] — rétroaction identique, source attribuée différente : l'effort montait avec la croyance en une paternité humaine, la qualité non
+- [[meyer-teacher-ai-feedback-writing-2026]] — 391 élèves allemands : aucune différence significative sur quelque résultat que ce soit ; l'immédiateté, et non la paternité, attirait les meilleures notes (Meyer et al., 2026)
+- [[liu-ai-feedback-motivational-pathways-2026]] — 247 étudiants de premier cycle : la qualité perçue de la rétroaction prédisait la compétence, l'autonomie et le lien social (Liu et al., 2026)
+- [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — Une rétroaction de l'IA vérifiée par des humains a relevé la qualité des révisions (d = 0.50) mais non les scores au post-test (Lu et al. 2026)
+- [[guberman-control-or-support-grading-2026]] — Les étudiants ont accueilli la rétroaction de l'IA parce qu'elle était rare, et non parce qu'elle était meilleure (Guberman 2026)
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Une rétroaction d'agent qui se répétait d'une révision à l'autre (Humburg et al. 2025)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Rétroaction automatisée sur l'écriture argumentative : le rôle de la réceptivité à la rétroaction et de la perception de la rétroaction chez les élèves du secondaire
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agents d'IA, évaluation joyeuse et tiers espace
@@ -234,3 +250,4 @@ La rétroaction est l'un des mécanismes les plus conséquents et les mieux éta
 - [[porcaro-ai-grading-benchmark-2026]] — Au-delà de l'accord : 22 correcteurs guidés par invite affrontent des sondes dont la bonne réponse est connue, et la plupart se laissent convaincre (Porcaro 2026)
 - [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Rétroaction de l'IA et de l'enseignant égales en qualité de révision, inégales en motivation (Liu & Shi 2026)
 - [[xian-process-visualization-feedback-news-translation-2026]] - rétroaction générée à partir des traces de frappe et d'écran, supérieure aux commentaires écrits sur le produit, 11 par bras
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — Méta-analyse à trois niveaux : l'IAG agit par la rétroaction et une conception pilotée par l'apprenant, non comme une intervention uniforme (Zhang et al. 2026)

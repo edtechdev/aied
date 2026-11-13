@@ -1,7 +1,7 @@
 ---
 title: "Empathie"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [professional-training, experiential-learning, social-emotional-learning]
@@ -10,7 +10,7 @@ ethics: [pedagogical-safety, privacy]
 audience: [instructors, medical educators, curriculum designers, researchers]
 level: [higher ed, k 12]
 confidence: medium
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-12T21:45:00-05:00"
 translation_of: concepts/empathy
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -23,7 +23,7 @@ ai_assist:
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-> **Synthèse :** L'empathie entre en éducation par trois voies à la fois : comme résultat que les éducateurs cherchent à enseigner, comme construit qu'ils cherchent à mesurer, et comme quelque chose que les systèmes d'IA sont de plus en plus censés manifester. Les données probantes sont inégales sur les trois. Enseigner l'empathie fonctionne — le jeu de rôle, la RV et le dialogue avec un LLM produisent tous des gains mesurables avant-après — mais l'effet diminue à mesure que l'expérience devient moins incarnée, et les études comparatives confondent la modalité avec le temps de travail. Mesurer l'empathie est plus difficile que l'enseigner : les évaluations par observation tiennent ensemble, tandis que les proxies de vision par ordinateur s'accordent sur le contact physique, divergent sur le contact visuel et s'inversent sur le sourire. L'IA peut faire répéter une conversation empathique à grande échelle, mais l'étude la mieux contrôlée montre une compétence auto-évaluée qui progresse sans contrôle de la performance observée. Et la préoccupation la plus récente va dans l'autre sens : croire que l'IA peut fournir de l'empathie rend les personnes moins disposées à en fournir elles-mêmes ([[shastry-gray-empathy-offloading-2026|Shastry et Gray, 2026]]).
+> **Synthèse :** L'empathie entre en éducation par trois voies à la fois : comme résultat que les éducateurs cherchent à enseigner, comme construit qu'ils cherchent à mesurer, et comme quelque chose que les systèmes d'IA sont de plus en plus censés manifester. Les données probantes sont inégales sur les trois. Enseigner l'empathie fonctionne — le jeu de rôle, la RV et le dialogue avec un LLM produisent tous des gains mesurables avant-après — mais l'effet diminue à mesure que l'expérience devient moins incarnée, et les études comparatives confondent la modalité avec le temps de travail. Mesurer l'empathie est plus difficile que l'enseigner : les évaluations par observation tiennent ensemble, tandis que les [[sensor-and-gaze-analytics|proxies de vision par ordinateur]] s'accordent sur le contact physique, divergent sur le contact visuel et s'inversent sur le sourire. L'IA peut faire répéter une conversation empathique à grande échelle, mais l'étude la mieux contrôlée montre une compétence auto-évaluée qui progresse sans contrôle de la performance observée. Et la préoccupation la plus récente va dans l'autre sens : croire que l'IA peut fournir de l'empathie rend les personnes moins disposées à en fournir elles-mêmes ([[shastry-gray-empathy-offloading-2026|Shastry et Gray, 2026]]).
 
 ## Questions à examiner
 
@@ -78,8 +78,7 @@ La veine la plus récente demande ce que l'empathie de l'IA fait à l'empathie h
 
 Pour l'éducation, cela coupe dans deux sens. Un [[curriculum-design|programme]] qui utilise l'IA pour pratiquer l'empathie construit peut-être la compétence ; une culture de campus qui oriente le soutien émotionnel vers des agents conversationnels érode peut-être la motivation à l'utiliser. Les deux effets sont compatibles, et rien dans la littérature actuelle ne les mesure ensemble.
 
-## Ce que cela signifie pour la pratique
-
+## Implications pour la pratique
 - **Séparez les trois questions.** Quand quelqu'un affirme que l'IA améliore l'empathie, demandez s'il entend enseigner aux humains, mesurer les humains ou simuler l'empathie. Les données diffèrent pour chacune.
 - **N'acceptez pas le sentiment d'efficacité personnelle comme résultat d'empathie.** La confiance est bon marché et monte après presque n'importe quelle répétition ; l'observation, les patients standardisés ou l'appréciation des patients sont les mesures qui comptent.
 - **Traitez les scores de vision comme des seconds lecteurs.** La détection du contact physique est utilisable pour une [[formative-assessment|rétroaction formative]] ; la détection du sourire et du contact visuel ne l'est pas, sans le contexte de scénario qu'un modèle n'a pas.

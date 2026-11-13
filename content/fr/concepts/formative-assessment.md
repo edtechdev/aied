@@ -1,7 +1,7 @@
 ---
 title: L'évaluation formative
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T06:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,8 @@ Les systèmes d'IA génèrent des items d'évaluation formative selon diverses m
 - **La notation automatisée des dissertations :** les cadres multi-agents (par exemple MASS) améliorent la cohérence par rapport à des [[llm|LLM]] isolés pour la [[automated-essay-scoring|notation des dissertations]], bien que l'[[explainable-ai|interprétabilité]] des décisions de notation multi-agents demeure un défi ouvert.
 - **Les pipelines de notation formative :** [[cotal-formative-assessment-scoring-2026|CoTAL]] couple le prompting par chaîne de pensée (Chain-of-Thought) à l'[[active-learning|apprentissage actif]] et à l'Evidence-Centered Design pour produire une notation d'évaluation formative généralisable, avec une [[prompt-engineering|ingénierie des consignes]] impliquant un humain dans la boucle.
 - **Les évaluations à haute fréquence [[automated-assessment|notées automatiquement]] :** les [[automated-formative-assessments-a-level-sciences|évaluations formatives automatisées en sciences de niveau A]] examinent l'effet d'une évaluation formative à haute fréquence, notée automatiquement, sur les [[learning-gains|résultats d'apprentissage]]. Une revue de cadrage de la notation automatique des réponses courtes en [[science-education|sciences]] (2017–début 2024) confirme que ce cas d'usage formatif des réponses courtes est un domaine doté d'une réelle traction : les modèles de la famille BERT ont dominé la notation automatique jusqu'en 2021, avant le prompting de [[llm|LLM]] plus grands à partir d'environ 2022, et les modèles augmentés par le domaine, sensibles aux grilles et fondés sur la chaîne de pensée ont obtenu les meilleures performances — et pourtant les appels de la revue en faveur d'une évaluation exhaustive, ainsi que les écarts non résolus en matière d'[[bias-mitigation|équité]] et d'explicabilité, invitent à la prudence avant d'étendre de tels systèmes à un usage [[summative-assessment|sommative]] non médiatisé ou à enjeux élevés ([[auto-marking-short-answer-science-2026]]).
+
+- **Un quiz ludifié peut être apprécié sans enseigner.** Trente-quatre étudiants de premier cycle en musicologie ont le plus mal noté un quiz adaptatif par IA comparé à un enseignement magistral traditionnel (M = 2.74 sur 5) et se sont partagés 21 contre 13 sur la question de le recommander, la recommandation suivant la sensation d'usage de l'application (usage futur 3.52 contre 1.54) plutôt que la compréhension du sujet (3.81 contre 3.62, p = 0.420) ([[lee-ai-music-quiz-disciplinary-thinking-2026|Lee et al. (2026)]]).
 
 ## Les rétroactions générées par l'IA
 
@@ -200,3 +202,4 @@ L'observabilité peut être conçue sans surveillance : c'est la preuve qu'une �
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — Infrastructure d'évaluation continue médiée par l'IA (AIM-CAI) : relier les preuves d'apprentissage à travers les contextes et le temps (McNamara & Hasnine 2026)
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversationnel par IA des conceptions erronées en enseignement, par un dialogue fondé sur les preuves (Miranda & Calvani 2026)
 - [[assessment-feedback-trilemma-model-2026]] — Le pendant positif du risque de surveillance : l'observabilité comme conception de la preuve, non comme surveillance
+- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — La recommandation d'un quiz adaptatif par les étudiants suivait la sensation d'usage, et non leur compréhension du sujet

@@ -2,7 +2,7 @@
 
 title: "Enseignement de la chimie"
 created: "2026-08-19T12:55:00-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 connected_resources: [teacher-dev]
 foundations: [ai-literacy, philosophy-of-ai-in-education]
@@ -12,7 +12,7 @@ discipline: [chemistry education, stem education]
 level: [higher ed, k 12, teacher education]
 confidence: high
 translation_of: concepts/chemistry-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T10:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ L'enseignement de la chimie est devenu un domaine fertile pour la recherche sur 
 **L'exactitude technique et la littératie critique en IA.** Les preuves systématiques montrent que les [[llm|LLM]] peuvent définir des termes de chimie fondamentaux mais se comportent mal sur les tâches quantitatives rigoureuses, peinent sur le raisonnement spatial (par ex. la RMN), font preuve de trop de confiance et sont sensibles à la notation ([[ai-science-chemistry-education-systematic-review-2025|Erümit et Özdemir Sarıalioğlu]] ; les constats de ChemBench/QCBench dans la [[unesco-ai-guidelines-chemical-education-2026|perspective UNESCO]]). Cela fait de **l'engagement évaluatif face aux productions de l'IA** — interroger, vérifier et recouper par rapport aux principes chimiques — un objectif d'apprentissage central, rejoignant l'[[ai-literacy|IA literacy]], la [[critical-thinking|pensée critique]] et la [[reducing-ai-misuse|réduction des usages abusifs]].
 
 **L'éthique, les politiques et la dérive épistémique.** La [[unesco-ai-guidelines-chemical-education-2026|perspective des lignes directrices de l'UNESCO]] avertit de la **dérive épistémique** — le risque que des algorithmes opaques éloignent l'enquête scientifique de la compréhension causale — et appelle à passer de la diffusion de contenus à la **création de connaissances**, à une littératie chimique critique en IA, à une évaluation priorisant le raisonnement humain, et à la réduction de l'[[digital-divide|écart d'accès]] mondial.
+
+**Une rétroaction émotionnelle peut accroître l'anxiété qu'elle vise.** Un semestre de rétroaction émotionnelle par l'IA dans des laboratoires de 9e année a coïncidé avec une hausse de l'anxiété de laboratoire (F = 4.60) et un sentiment d'accomplissement inchangé, tandis que la classe d'investigation dirigée par l'enseignant progressait (F = 7.92) ([[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]]).
 
 ### Connexions aux concepts apparentés
 

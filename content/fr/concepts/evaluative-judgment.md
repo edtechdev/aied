@@ -1,7 +1,7 @@
 ---
 title: "Jugement évaluatif"
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-12T10:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -90,6 +90,7 @@ Les travaux de la base de connaissances sur l'apprentissage [[collaborative-lear
 - **Des indicateurs du jugement au niveau de la classe sont proposés.** [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] ajoute deux signaux comportementaux à une séquence de travaux repensée : le *taux de discernement* UnBlooms™, la part des productions de l'IA qu'un apprenant interroge, conteste ou révise plutôt qu'il n'accepte, et le *taux d'acceptation au premier passage*. Ni l'un ni l'autre n'est validé — tous deux sont proposés comme des diagnostics peu coûteux par travail — mais ils rendent le construit observable à l'intérieur de la notation ordinaire, où un taux de discernement proche de zéro sur plusieurs travaux se lit comme un signal de conception de la tâche plutôt que comme un déficit individuel.
 - **Le jugement ne pèse que s'il est câblé à la révision, et non simplement présent.** Chez 67 futurs enseignants concevant des plans de leçon avec l'IA générative, l'évaluation explicite était quasi absente dans le groupe de moindre qualité (0.67 contre 0.00) ; ce qui séparait la qualité était un cycle bidirectionnel évaluation-révision (CE→RE Z = 2.80, RE→CE Z = 2.50) et une boucle d'auto-révision (RE→RE Z = 4.24) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 - **Les critères des enseignants peuvent s'externaliser en révisant les productions de l'IA.** [[valiassist-programming-feedback-validation-by-demonstration-2026|Tang et al. (2026)]] ont inféré des règles de validation réutilisables à partir des modifications apportées par 16 enseignants à des rétroactions de programmation générées par LLM et ont fait passer l'alignement sur leur intention pédagogique de 57% à 91%, rendant les critères tacites inspectables au lieu de les laisser implicites.
+- **La boucle, et non la liste de contrôle.** Le jugement évaluatif assisté par l'IA fonctionne de manière récursive : évaluer au regard de critères professionnels, accepter, réviser ou rejeter puis relancer l'invite, enfin vérifier et justifier, en revenant à l'évaluation tant que l'artefact reste inadapté ([[zheng-ai-evaluative-judgement-vocational-2026|Zheng et Tang (2026)]]).
 
 ## Comment le mésusage déplace le jugement
 

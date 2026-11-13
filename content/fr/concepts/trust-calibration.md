@@ -1,7 +1,7 @@
 ---
 title: "Le calibrage de la confiance"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -48,6 +48,8 @@ L'élaboration d'instruments commence à combler directement cet écart de mesur
 La confiance non calibrée prend deux formes. **La confiance excessive** (accepter les productions de l'IA sans vérification) produit l'acceptation acritique documentée par les recherches sur la [[cognitive-offloading|délégation cognitive]] et le [[cognitive-offloading|recours excessif]], et amplifie le [[hallucination-risk|risque d'hallucination]] des erreurs assurées. **La confiance insuffisante** (éviter entièrement l'IA) renonce à des bénéfices légitimes. Les deux découlent de la même racine : une confiance fondée sur l'apparence plutôt que sur les preuves. Les recherches sur les [[misconceptions|idées fausses]] montrent que les étudiants optent souvent par défaut pour la confiance excessive, parce qu'ils supposent qu'une IA qui « sonne juste » a raison.
 
 Une plus grande confiance n'achète pas un meilleur jugement : parmi 432 étudiants de premier cycle résolvant des problèmes en Python avec des suggestions d'IA exactes et délibérément trompeuses, une plus grande confiance prédisait une *dépendance appropriée plus faible* (r = -.42), les étudiants acceptaient 86.03% des recommandations trompeuses, et la relation était modérée par la [[ai-literacy|littératie en IA]] et le besoin de cognition ([[trust-reliance-ai-education-2026|Pitts, Rani & Mildort (2026)]]).
+
+L'ordre du jugement compte autant que l'habitude. Dans une expérience de supervision de sûreté portant sur 416 évaluateurs jugeant 3,957 éléments, montrer les candidats du modèle avant que l'humain n'ait consigné une réponse a fait chuter l'exactitude des évaluateurs sur les éléments que le modèle avait faux, de 36.7% à 20.6%, tandis que l'exactitude sur les éléments que le modèle avait justes augmentait de 7.3 points ([[shi-human-ai-complementarity-safety-2026|Shi et coll., 2026]]). Une vérification effectuée après la lecture de la réponse est un contrôle de l'accord, non de l'exactitude.
 
 ### Comment le calibrage fonctionne
 
@@ -163,6 +165,7 @@ Le calibrage est un état, pas un résultat, et le résultat qu'il autorise a sa
 
 ## Articles liés
 
+- [[shi-human-ai-complementarity-safety-2026]] — 416 évaluateurs, 3 957 éléments : une assistance qui présente d'abord les candidats du modèle a réduit le repérage des erreurs sur les éléments faux, de 36.7% à 20.6% (Shi et coll., 2026)
 - [[children-verification-ai-suggestions-game-2026]] — Comportements de vérification des enfants dans la collaboration humain-IA en contexte de jeu
 - [[student-perspectives-ai-writing-grading-2026]] — Perspectives étudiantes sur l'évaluation transparente de l'écriture assistée par l'IA (AlGhamdi 2026)
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Le calibrage recadré : retenir la position du système est protecteur, non correctif

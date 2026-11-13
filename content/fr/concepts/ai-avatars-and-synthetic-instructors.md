@@ -1,7 +1,7 @@
 ---
 title: "Avatars IA et instructeurs synthétiques"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -107,6 +107,8 @@ Les grands échantillons concernent les attitudes et les préférences — 396 p
 
 Cette étroitesse compte. Les auteurs de Theelen le disent directement : la fluidité et un sentiment de présence ne sont pas des [[assessment-validity|preuves de validité]].([[theelen-classroom-simulations-four-layer-framework-2026]]) Avoir l'air d'un enseignant franchit la barre la plus facile de la salle.
 
+Adoption est une autre question que l'efficacité : [[wang-ai-avatars-tam-doi-adoption-2026|Wang et coll. (2026)]] ont modélisé l'intention de 653 apprenants d'adopter des avatars d'IA, et la transparence perçue était le prédicteur le plus fort de la confiance (β = 0.542). Le modèle expliquait 38.9 % de l'intention, l'avantage relatif (β = 0.267) et l'utilité (β = 0.247) devançant l'attitude (β = 0.126).
+
 ## Idées fausses courantes
 
 **« Un avatar plus réaliste enseigne mieux. »** Réalisme et efficacité se séparent partout où les deux ont été mesurés. Les deux backends de SOPHIE produisaient des scores de communication identiques derrière le même avatar, et les étudiants de TriKoNet ont rejeté d'emblée les personas photoréalistes.
@@ -148,6 +150,7 @@ Cette étroitesse compte. Les auteurs de Theelen le disent directement : la flui
 
 ## Articles liés
 
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — preuves du côté de l'adoption : 653 apprenants, la transparence comme prédicteur le plus fort de la confiance (Wang et coll. 2026)
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — les indices d'identité des avatars déplacent la crédibilité et l'adoption des conseils (Anthis & Kyriakidou-Zacharoudiou 2026)
 - [[hauk-student-avatars-dialogue-teacher-education-2026]] — des avatars d'étudiants dans un dialogue de formation pratique des enseignants (Hauk et coll. 2026)
 - [[gender-differences-ai-literacy-deepfake]] — création et signalement de deepfakes selon le genre dans un atelier de littératie en IA

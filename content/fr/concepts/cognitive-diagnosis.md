@@ -7,7 +7,7 @@ technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, studen
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-12T21:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -68,15 +68,7 @@ Le diagnostic cognitif se situe au cœur de l'architecture du [[intelligent-tuto
 
 Le diagnostic cognitif rejoint le [[knowledge-tracing|traçage des connaissances]], la [[student-modeling|modélisation de l'apprenant]], la [[educational-measurement|mesure en éducation]] et l'[[assessment|évaluation]]. Ses éclairages alimentent le [[intelligent-tutoring|tutorat intelligent]] et l'[[adaptive-learning|apprentissage adaptatif]], et les travaux de l'ère des LLM le relient à l'identification des idées fausses dans le [[intelligent-tutoring|tutorat par IA]].
 
-## Idées fausses courantes
-
-- **« Le diagnostic est une capacité résolue pour les modèles. »** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et coll., 2026)]] a supervisé le raisonnement diagnostique comme l'une de quatre capacités d'une famille ouverte de modèles 4B/9B/27B, et **le diagnostic de l'état de connaissances est resté la plus faible** des quatre. Le diagnostic est la capacité qui a résisté à l'entraînement qui a produit les autres.
-- **« Les modèles peuvent simuler les erreurs des étudiants, donc ils peuvent les diagnostiquer. »** Le goulot d'étranglement est l'inverse. Les modèles construisaient une solution dans **95.2% des traces de distracteurs** et simulaient une idée fausse Eedi précise avec une exactitude de **0.92**, et pourtant c'est **la fourniture de la solution correcte** — non la simulation de l'erreur — qui les limitait. Générer une mauvaise réponse plausible est plus facile que d'en reconnaître une.
-- **« Le diagnostic exige un catalogue d'idées fausses construit à la main. »** Sur **6,106 paires** de formalisations correctes et incorrectes de logique propositionnelle, un flux de travail a découvert **248 grappes de transformations expliquant 5,156 paires (84.44%)**, contre **4,370 (71.57%)** pour les erreurs choisies à la main du jeu de référence. La découverte égalait ou dépassait la curation experte, et elle s'est transférée à la logique modale — le catalogue est donc un point de départ, non un plafond.
-- **« Un diagnostic n'est utile que s'il nomme une idée fausse. »** Diagnostiquer quels résultats de cours un apprenant a atteints traite les résultats comme les concepts de connaissance à la place, en fournissant les relations entre concepts par des correspondances d'affinité validées par des experts. Pour les programmes fondés sur les résultats, c'est l'unité la plus actionnable, même si elle est plus grossière.
-
-## Ce que cela signifie pour la pratique
-
+## Implications pour la pratique
 **Pour les enseignants**
 
 - Traitez le diagnostic d'un système comme une hypothèse à vérifier, non comme un verdict. Le diagnostic de l'état de connaissances était la capacité la plus faible d'une famille entraînée pour cela.
@@ -88,6 +80,13 @@ Le diagnostic cognitif rejoint le [[knowledge-tracing|traçage des connaissances
 - Instrumentez les deux directions : reconnaître une mauvaise réponse et produire la bonne. Le chiffre de 95.2% de récupération de solution suggère que la génération est la moitié facile et que le mode de défaillance réside dans la reconnaissance.
 - Préférez la découverte à un catalogue statique là où la structure du domaine le permet, et rapportez la couverture par rapport à un jeu de référence pour que la comparaison soit lisible.
 - Ne livrez pas un score diagnostique sans préciser quel construit il mesure et comment il a été validé indépendamment du signal qui l'a produit.
+
+## Idées fausses courantes
+
+- **« Le diagnostic est une capacité résolue pour les modèles. »** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et coll., 2026)]] a supervisé le raisonnement diagnostique comme l'une de quatre capacités d'une famille ouverte de modèles 4B/9B/27B, et **le diagnostic de l'état de connaissances est resté la plus faible** des quatre. Le diagnostic est la capacité qui a résisté à l'entraînement qui a produit les autres.
+- **« Les modèles peuvent simuler les erreurs des étudiants, donc ils peuvent les diagnostiquer. »** Le goulot d'étranglement est l'inverse. Les modèles construisaient une solution dans **95.2% des traces de distracteurs** et simulaient une idée fausse Eedi précise avec une exactitude de **0.92**, et pourtant c'est **la fourniture de la solution correcte** — non la simulation de l'erreur — qui les limitait. Générer une mauvaise réponse plausible est plus facile que d'en reconnaître une.
+- **« Le diagnostic exige un catalogue d'idées fausses construit à la main. »** Sur **6,106 paires** de formalisations correctes et incorrectes de logique propositionnelle, un flux de travail a découvert **248 grappes de transformations expliquant 5,156 paires (84.44%)**, contre **4,370 (71.57%)** pour les erreurs choisies à la main du jeu de référence. La découverte égalait ou dépassait la curation experte, et elle s'est transférée à la logique modale — le catalogue est donc un point de départ, non un plafond.
+- **« Un diagnostic n'est utile que s'il nomme une idée fausse. »** Diagnostiquer quels résultats de cours un apprenant a atteints traite les résultats comme les concepts de connaissance à la place, en fournissant les relations entre concepts par des correspondances d'affinité validées par des experts. Pour les programmes fondés sur les résultats, c'est l'unité la plus actionnable, même si elle est plus grossière.
 
 ## Concepts liés
 

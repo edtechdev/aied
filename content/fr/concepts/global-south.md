@@ -1,7 +1,7 @@
 ---
 title: "Sud global"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -38,11 +38,11 @@ ai_assist:
 
 ## Introduction
 
-### Pourquoi cela compte pour l'AIED
+## Pourquoi cela compte pour l'AIED
 
 La recherche dominante sur l'IA et sur les technologies éducatives a historiquement été dominée par des ensembles de données et des contextes [[governance|institutionnels]] occidentaux et anglophones. Cela crée deux problèmes : (1) les [[ai-technologies|systèmes d'IA]] entraînés sur de telles données peuvent sous-performer ou déformer les apprenants dans les contextes du Sud global, et (2) les [[benchmark|repères de référence]] d'évaluation construits dans le Nord global peuvent ne pas refléter les réalités éducatives, les langues ou les traditions de connaissance des autres régions. La recherche issue des contextes du Sud global dans cette base de connaissances couvre des ensembles de données, des repères de référence et des études d'adoption technologique ancrés culturellement, avec des implications pour la [[ai-literacy|littératie en IA]] et pour l'enseignement [[higher-ed|supérieur]] et [[k-12|primaire et secondaire]].
 
-### Les applications dans la base de connaissances
+## Les applications dans la base de connaissances
 
 - **Données et repères de référence ancrés culturellement :** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] fournit un ensemble de données d'instructions [[multilingual-learning|multilingue]] sur les systèmes de connaissance indiens ; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] introduit un repère de référence [[stem-education|STIM]] ghanéen, l'un des premiers ensembles de données d'évaluation éducative du Sud global.
 - **Conscience de l'éthique de l'IA dans l'enseignement supérieur ghanéen :** [[ai-ethical-awareness-ghana-students-2026|Acquah et coll. (2026)]] ont validé une échelle de conscience éthique de l'IA à trois facteurs (autonomie, bienfaisance, équité) auprès de 509 étudiants [[higher-ed|universitaires]] au Ghana, trouvant cinq profils latents allant d'une conscience uniformément très élevée à un petit groupe n'en ayant presque aucune — plus faible sur la bienfaisance — et aucune différence selon le genre, fournissant ainsi un point d'ancrage de mesure du Sud global à la littérature sur l'[[ethics|éthique]] de l'IA.
@@ -58,7 +58,7 @@ La recherche dominante sur l'IA et sur les technologies éducatives a historique
 
 - **L'équité est la dimension la moins étudiée dans toute la région.** Une [[meta-analysis-systematic-review|revue de cadrage]] PRISMA-ScR de 75 études du Sud global (2022–2025) a montré que l'équité était la moins examinée de ses cinq domaines, malgré sa centralité pour une éducation inclusive, et a rapporté un écart entre les positions éthiques déclarées des étudiants et leur comportement ([[nguyen-genai-global-south-review-2026|Nguyen et Perkins, 2026]]).
 
-### Implications
+## Implications
 
 Prendre en compte les contextes du Sud global exige de dépasser l'hypothèse d'un transfert direct des modèles et des repères de référence occidentaux. Cela appelle des ensembles de données ancrés localement, une [[pedagogy|pédagogie]] culturellement pertinente, des normes d'évaluation centrées sur la communauté, et une recherche qui traite les épistémologies vécues et communautaires des apprenants comme faisant autorité — en accord avec des cadres comme l'apprentissage de l'IA fondé sur la communauté et la recherche sur l'[[technology-acceptance-model|acceptation technologique]] adaptée aux conditions locales.
 

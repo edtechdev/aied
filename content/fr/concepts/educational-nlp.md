@@ -7,7 +7,7 @@ confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -38,11 +38,11 @@ ai_assist:
 
 ## Introduction
 
-### Ce que fait le TAL éducatif
+## Ce que fait le TAL éducatif
 
 Le traitement automatique du langage en éducation applique des méthodes computationnelles au langage de l'enseignement et de l'apprentissage — essais d'étudiants, réponses, messages de discussion, rétroaction et textes pédagogiques. Les [[llm|LLM]] ont considérablement étendu ce qui peut être analysé automatiquement, permettant une compréhension fine du langage des étudiants qui était auparavant impraticable à l'échelle.
 
-### Les applications documentées dans la base de connaissances
+## Les applications documentées dans la base de connaissances
 
 - **L'analyse du langage des étudiants.** [[llm-sentiment-analysis-education-research]] applique l'analyse de sentiment fondée sur les LLM à la recherche éducative, extrayant à grande échelle des signaux émotionnels et évaluatifs du texte des étudiants, alimentant l'[[learning-analytics|analytique de l'apprentissage]] et l'[[affective-computing|informatique affective]].
 - **La prédiction et la mesure.** [[llm-item-difficulty-prediction]] et [[vocabulary-difficulty-prediction]] recourent à des modèles de langage pour estimer la difficulté des items et des textes — des intrants centraux pour la [[educational-measurement|mesure en éducation]], l'[[adaptive-learning|apprentissage adaptatif]] et les modèles de [[item-response-theory|théorie de la réponse aux items]].
@@ -67,7 +67,7 @@ Le traitement automatique du langage en éducation applique des méthodes comput
 - **La fidélité des entités des transcriptions ASR diffère de l’exactitude lexicale.** En évaluant cinq systèmes de reconnaissance vocale contre une transcription de référence humaine, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard et Rosenberg (2026)]] rapportent la première preuve de fidélité d’entités ASR/NER de la base de connaissances : les taux d’erreur de mots allaient de 2.43% (TurboScribe) à 15.32% (Vosk), tandis que le codage en sept catégories des entités de référence donnait à GPT-5.5 une exactitude de 0.805 (κ = .726) contre 0.634 (κ = .488) pour spaCy.
 Le WER agrégé seul ne certifie pas la survie des entités à la transcription.
 
-### Lien avec le tutorat et la mesure
+## Lien avec le tutorat et la mesure
 
 Le TAL éducatif sous-tend à la fois l'analyse du langage de l'apprenant ([[student-modeling|modélisation de l'apprenant]], [[knowledge-tracing|traçage des connaissances]]) et la génération de contenus pédagogiques adaptatifs ([[intelligent-tutoring|tutorat intelligent]], [[scaffolding|étayage]]). [[ai-generated-interactive-fiction-education-2026]] démontre la génération de contenus pédagogiques pilotée par le TAL, tandis que [[zerkouk-comprehensive-review-its-2025]] situe le TAL dans le paysage plus large de l'[[intelligent-tutoring|tutorat intelligent]]. À mesure que l'analyse fondée sur les LLM croît, les cadres d'[[rct|essais contrôlés randomisés]] et de [[research-methods-aied|méthodes de recherche]] importent pour valider que les apercus issus du TAL améliorent réellement l'apprentissage.
 

@@ -1,13 +1,13 @@
 ---
 title: "Recherche à méthodes mixtes"
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-10T18:55:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -73,6 +73,8 @@ La recherche à méthodes mixtes se situe entre les traditions [[quantitative-re
 - **« Les méthodes mixtes sont un choix de niche dans la recherche sur l'IA en éducation. »** Sur **394 études de GenAI dans l'enseignement supérieur**, les méthodes mixtes constituaient le **schéma de recherche le plus courant (213 études, 54 %)**, suivies de la recherche quantitative (109, 28 %) et qualitative (72, 18 %). Le schéma dominant du champ n'est pas celui que ses débats méthodologiques supposent.
 - **« Des preuves d'observation et d'entretien peuvent porter une affirmation sur un système. »** Associer l'observation du système et des discussions avec des [[administrator|administrateurs]] à une **évaluation randomisée de quatre ans portant sur 8 708 étudiants sur huit semestres**, dotée de la puissance nécessaire pour détecter des effets de **0,05 écart-type**, montre ce que le fil qualitatif ne peut pas faire seul : détecter un effet de petite taille de façon fiable. Mélanger les méthodes n'est pas un moyen de transférer de la puissance d'un fil à l'autre.
 - **« La triangulation signifie que deux méthodes faibles font une affirmation forte. »** La valeur de l'appariement est que chaque fil répond à une question différente. Un dispositif qui exécute les deux puis rapporte le constat qualitatif comme confirmation du quantitatif n'a pas triangulé, il a reformulé.
+
+- **La convergence peut être une règle d'admission, et non un récit.** [[liu-auditable-assessment-preservice-2026|Liu (2026)]] ne comptait une priorité de refonte que lorsqu'elle apparaissait dans au moins deux des cinq sources indépendantes et dans une source tournée vers la mise en œuvre, de sorte que la seule perception ne pouvait pas la promouvoir.
 
 ## Concepts liés
 

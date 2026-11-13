@@ -1,7 +1,7 @@
 ---
 title: "Anxiété et stress"
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T10:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -120,6 +120,8 @@ Le versant positif : les systèmes d'IA détectent et aident de plus en plus à 
 - Cela se relie à l'[[affective-computing|informatique affective]] et au [[affective-tutoring|tutorat affectif]], où l'IA lit l'état émotionnel et y répond.
 - **Quels facteurs de stress le modèle pèse — et pourquoi le contexte importe.** [[culturally-aware-student-stress-chatbot-2026|Bashir et Afzal (2026)]] offrent une fenêtre d'[[machine-learning|apprentissage automatique]] sur les facteurs de stress qui pilotent réellement la détresse des étudiants dans un contexte [[global-south|non occidental]]. L'analyse d'importance des caractéristiques sur 1,100 réponses d'enquête plaçait la pression artérielle en premier (15.6%) et la **relation enseignant-étudiant en deuxième (10.0%)** — devant la qualité du sommeil (9.3%), la dépression (8.3%) et le soutien social (7.6%) — tandis que le niveau d'anxiété se classait neuvième à 4.8%, ce que les auteurs lisent comme la preuve que le stress des étudiants est multidimensionnel plutôt que piloté par un unique indicateur psychologique. Ils attribuent la saillance de la relation enseignant-étudiant à l'environnement éducatif comparativement hiérarchique du Pakistan, et la présentent comme une hypothèse pour des données collectées localement, soulignant que les modèles de stress et les poids de leurs caractéristiques dépendent du contexte et ne peuvent être supposés se transposer d'une population étudiante à l'autre.
 - **L'intervention en temps réel du côté de l'enseignant.** Le [[parlant-emotional-micro-interventions-2026|guide de praticien de Parlant]] ajoute une contrepartie humaine à ces outils d'IA : les *micro-interventions émotionnelles* — des actes verbaux ou gestuels brefs et délibérés qui valident une émotion émergente de l'étudiant, recadrent l'appréciation qui la sous-tend, et reconnectent la lutte à l'identité professionnelle (Valider, Recadrer, Relier). Ancrée dans la théorie de l'appréciation cognitive, l'approche cible l'appréciation primaire (« est-ce une menace ? ») et l'appréciation secondaire (« puis-je y faire face ? ») au moment où la détresse mettrait fin à l'engagement, associant des goulots d'étranglement tels que la frustration, l'isolement et le syndrome de l'imposteur à des états cibles. Son auteur énonce clairement que le cadre ne requiert pas d'IA ; l'[[generative-ai|IA générative]] ne sert que de moyen optionnel de rédiger des phrases candidates que l'enseignant pourra choisir.
+
+- **Un système conçu pour soulager l'anxiété peut en ajouter.** Dans des laboratoires de chimie de 9e année, un semestre de rétroaction émotionnelle par IA a coïncidé avec une hausse de l'anxiété de laboratoire (F = 4.60, p = 0.035), tandis que la classe dirigée par l'enseignant est restée stable ([[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]]).
 
 ## Pourquoi cela se distingue du bien-être
 

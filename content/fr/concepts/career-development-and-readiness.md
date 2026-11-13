@@ -1,14 +1,14 @@
 ---
 title: "Développement de carrière et préparation professionnelle"
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-11-05T14:28:00-05:00"
+source_updated: "2026-11-12T08:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,10 @@ Le développement de carrière et la préparation professionnelle rejoignent la 
 - **« L'adaptabilité de carrière est une compétence douce secondaire par rapport à la compétence technique. »** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] montre que l'adaptabilité de carrière **réduit l'anxiété liée à l'IA**, ce qui en fait une intervention en amont plutôt qu'un résultat en aval. Bâtir l'adaptabilité traite le mécanisme ; la traiter comme un agrément laisse le médiateur intact.
 - **« L'anxiété face à l'IA est également répartie. »** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün et Danacıoğlu]] constatent que l'anxiété liée à l'IA et les attitudes négatives envers l'IA prédisent l'anxiété de recherche d'emploi après l'obtention du diplôme chez **1 057 étudiants**, avec des schémas différents pour **les femmes et les étudiants en sciences sociales**. Une intervention uniforme alloue mal le soutien.
 
+Un cadre au niveau du programme rend explicites les étapes institutionnelles, bien qu'il n'ait pas été évalué en tant que programme. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] propose six étapes : détection, validation par les parties prenantes, diagnostic du programme, refonte du curriculum, mise en œuvre et capacité, et revue des résultats. Chaque étape porte un droit de décision nommé et un livrable dont on rend compte, et l'IA est confinée à quatre fonctions de soutien bornées : la détection de motifs dans l'information sur le marché du travail, la cartographie des compétences, la génération d'options curriculaires soumises à l'appréciation humaine, et le suivi des indicateurs de mise en œuvre. La valeur de ce cadre est de nommer les étapes de gouvernance qu'une stratégie de préparation à la carrière laisse d'ordinaire implicites.
+
+Une enquête auprès de 1,445 étudiants chinois de premier cycle trace un chemin des croyances d'utilité à l'usage de l'IA, puis à l'exploration de carrière. L'utilité perçue de l'IA générative prédisait l'usage à β = 0.569, tandis que le sentiment d'efficacité personnelle de carrière ne le prédisait qu'à β = 0.082. L'usage était ensuite associé au comportement d'exploration de carrière à β = 0.423, le sentiment d'efficacité personnelle restant le plus fort prédicteur cognitif de l'exploration elle-même (β = 0.285), et le modèle expliquait 50.5% de la variance de l'exploration ([[lu-career-cognitions-genai-exploration-2026|Lü et al. (2026)]]). Les chemins indirects sont statistiques et transversaux, et non longitudinaux.
+
 ## Concepts liés
 
 - [[professional-training]]
@@ -105,3 +109,5 @@ Le développement de carrière et la préparation professionnelle rejoignent la 
 - [[sadik-ai-ready-engineering-talent-faculty-2026]] — Les prévisions des enseignants sont des prédictions, non des preuves sur l'emploi
 
 - [[kong-ai-employability-cognitive-engagement-2026]] — La carte des construits d'une revue narrative, de l'apprentissage soutenu par l'IA à l'employabilité
+- [[nyale-ai-integrated-workplaces-digital-capability-2026]] — Cadre de processus en six étapes, non évalué, pour aligner les programmes sur les marchés du travail de l'ère de l'IA
+- [[lu-career-cognitions-genai-exploration-2026]] — 1 445 étudiants chinois : utilité de l'IA, usage et exploration de carrière dans un même modèle transversal

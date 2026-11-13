@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -47,11 +47,11 @@ L'usage abusif de l'IA se distingue de l'usage de l'IA. L'usage décrit l'emploi
 
 Les préjudices anticipés sont eux-mêmes documentés : dans des données suédoises d'enquête et de groupes de discussion, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] rapportent la même crainte à partir de données suédoises : 51% des participants (n = 106) estimaient que l'usage de l'IA générative pouvait freiner le développement individuel, évoquant une érosion de la [[critical-thinking|pensée critique]], de la [[creativity|créativité]] et de l'autonomie plutôt que des infractions aux règles.
 
-### L'écart entre performance et apprentissage
+## L'écart entre performance et apprentissage
 
 Le concept central, articulé dans [[genai-performance-vs-learning]], est que l'IA générative gonfle facilement la **performance** — efficacité immédiate et qualité de la production — tout en contournant souvent les traitements cognitifs et [[metacognition|métacognitifs]] profonds requis pour l'**apprentissage**. Un outil qui optimise la performance peut donc saper l'apprentissage. L'écart est désormais démontré de manière causale à l'échelle du terrain : un [[rct|essai contrôlé randomisé]] a constaté qu'une assistance par l'IA sans garde-fous élevait la performance à l'entraînement, mais réduisait les scores à un examen ultérieur sans assistance.
 
-### Les mécanismes du préjudice
+## Les mécanismes du préjudice
 
 - **[[cognitive-surrender|La capitulation cognitive]]** — le terme qu'emploient les chercheurs pour désigner le fait que les étudiants déchargent leur réflexion vers l'IA en une dépendance passive et non réflexive, par opposition à la forme délibérée et stratégique du [[cognitive-offloading|délestage cognitif]]. Elle produit un déclin mesurable, au niveau de la population, du savoir durable.
 - **La copie de réponses comme béquille** — l'usage abusif est moins motivé par des erreurs de l'IA qui induiraient les étudiants en erreur que par le fait que les étudiants copient les réponses au lieu d'apprendre. Lorsque l'analyse de l'[[student-engagement|engagement]] montre que les étudiants « demandent surtout la réponse », un préjudice pour l'apprentissage s'ensuit.
@@ -59,13 +59,13 @@ Le concept central, articulé dans [[genai-performance-vs-learning]], est que l'
 - **Le déplacement de l'apprentissage** — la substitution de la production de l'IA aux processus exigeants (élaboration, rappel, auto-explication) qui consolident le savoir, conformément au [[cognitive-offloading|délestage cognitif]].
 - **La confusion prise pour de l'intention.** Lorsque les enseignants ne nomment pas le rôle prévu de l'IA dans un devoir, les étudiants le définissent par ce qui est le plus facile, et les enseignants lisent le décalage qui en résulte comme de la tricherie plutôt que comme une frontière qui n'a jamais été énoncée ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
 
-### Le corpus de preuves
+## Le corpus de preuves
 
 - **Essai contrôlé randomisé causal de terrain (environ 1,000 élèves de mathématiques du secondaire) :** un tuteur de type ChatGPT sans garde-fous a élevé la performance assistée à l'entraînement de **+48%**, mais réduit de **−17%** les scores à l'[[summative-assessment|examen à livre fermé]] et sans assistance — les étudiants qui n'avaient jamais eu accès à l'IA ont surpassé ceux qui en avaient. Un tuteur garde-fouté du type « indice et non réponse » a éliminé le préjudice. Fait notable, les étudiants du groupe lésé n'ont pas perçu qu'ils apprenaient moins.
 - **Données comportementales à l'échelle de la population (3.2M interactions ALEKS) :** le temps d'étude consacré aux problèmes susceptibles d'être résolus par l'IA a chuté de **−26.9%** de manière cumulative chez les étudiants du supérieur (−31.3% au secondaire) après la sortie de ChatGPT, avec un **déclin de 25% des probabilités d'une réponse correcte sur les items de rétention surveillés**. L'effet a entièrement disparu sous surveillance, ce qui l'impute à l'usage de l'IA hors plateforme.
 - **Un large résultat nul :** en exploitant la chute saisonnière de l'usage de ChatGPT pendant l'été, on n'observe **aucun changement net des moyennes aux tests standardisés du secondaire** — vraisemblablement parce que le préjudice de l'usage abusif est compensé dans l'agrégat par un usage productif de l'IA. Cela ne contredit pas le préjudice causal porté à l'apprentissage durable ; cela met en garde contre une généralisation excessive à partir de scores de tests agrégés.
 
-### La dépendance comme voie vers l'épuisement professionnel
+## La dépendance comme voie vers l'épuisement professionnel
 
 L'usage abusif nuit à plus qu'à la réussite. Une enquête menée auprès de 276 étudiants de premier cycle chinois
 ([[ai-dependency-self-efficacy-teacher-support-burnout-2026|Huang et al., 2026]]) a modélisé la dépendance à l'IA comme le médiateur entre
@@ -79,31 +79,21 @@ contrecarrant ses effets après coup. Les auteurs signalent une réserve de mesu
 et sa validité de contenu pour l'IA n'a pas été établie — si bien que le chemin est mieux traité comme une hypothèse bien modélisée
 que comme une taille d'effet établie.
 
-### La nature du préjudice dépendante de l'évaluation
+## La nature du préjudice dépendante de l'évaluation
 
 La nuance pratique la plus importante est que le préjudice est **sélectif selon le type d'évaluation**. Il apparaît sur des mesures **surveillées, à livre fermé et sans assistance** du savoir durable. Sur des travaux de cours notés ordinaires qui ne peuvent distinguer le travail assisté par l'IA du travail indépendant, l'usage abusif peut *gonfler* les notes immédiates. C'est pourquoi l'écart entre perçu et réel est dangereux : les étudiants (et parfois les enseignants) voient des gains de performance à court terme et manquent l'érosion de l'apprentissage qui ne se révèle que lorsque l'outil est retiré.
 
 **Quel recours, et pas seulement quelle ampleur.** Une enquête menée auprès de 118 étudiants répartis sur 12 cours intensifs en IA ([[uneven-impact-generative-ai-student-learning-2026|Manikonda et al. 2026]]) sépare deux comportements que les mesures de fréquence d'usage confondent. Le **recours cognitif** — utiliser GenAI pour organiser, évaluer, combiner et décomposer — était le plus fort prédicteur de l'impact positif perçu (β = .495, p < .001), et le délestage qu'il décrit n'est pas uniformément nuisible : organiser et résumer des idées et découvrir de nouvelles perspectives figuraient parmi les caractéristiques associées à un apprentissage perçu amélioré. Le **recours précoce** — consulter GenAI *avant* une réflexion indépendante, une recherche traditionnelle ou un enseignant — prédisait à la fois un bénéfice académique (β = .301, p < .001) *et* un impact négatif (β = .402, p = .004). La modération est la part qui intéresse le remède de littératie présenté plus haut : l'association entre recours précoce et impact négatif était absente à faible [[ai-literacy|littératie d'évaluation]] (b = .025, p = .861) et la plus forte parmi les étudiants qui jugent le mieux les productions de l'IA (b = .688, p < .001), si bien que la compétence d'évaluation n'a pas protégé du coût de demander d'abord à l'IA — les étudiants les mieux placés pour remarquer le coût étaient ceux qui le rapportaient. L'implication opérationnelle est que l'usage abusif est en partie une question de *moment* relativement à la tentative propre de l'apprenant, et pas seulement de volume, ce qui explique pourquoi les interventions qui ciblent le moment où l'IA est consultée se situent aux côtés des remèdes de conception de l'évaluation présentés ci-dessous.
 
-### Implications et remèdes
+## Implications et remèdes
 
 - **Les [[guardrails|garde-fous]] avant l'accès brut :** la [[prompt-engineering|rédaction d'invites]] du type « indice et non réponse » et l'[[scaffolding|étayage]] rédigé par les enseignants neutralisent l'effet de béquille (voir [[generative-ai-guardrails-harm-learning]]).
 - **[[assessment|La conception de l'évaluation]] :** des évaluations résistantes à l'IA et surveillées ou non assistées sont nécessaires pour révéler — et décourager — l'usage abusif.
 - **Littératie et métacognition :** l'[[ai-literacy|littératie en IA]] et la formation à l'[[self-regulated-learning|autorégulation]], qui aident les étudiants à reconnaître les régularités de recours et le coût du contournement de leur propre travail cognitif.
 
-### Le désengagement conversationnel à l'ère des LLM
+## Le désengagement conversationnel à l'ère des LLM
 
 La littérature sur le gaming-the-system (l'abus d'indices, les réponses devinées systématiquement) a un pendant à l'ère du dialogue : le désengagement conversationnel — se moquer de l'agent, répondre délibérément de travers, l'ignorer, faire miroir à son texte, ou refuser de répondre. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] donnent à ce phénomène son premier traitement systématique dans le [[student-ai-interaction|dialogue étudiant-IA]], et sa leçon centrale est interprétative plutôt qu'alarmiste. Un *tour* de parole désengagé est une manœuvre interactionnelle, et non un état stable de désengagement. L'association apparente du False Answering avec les scores au post-test n'a pas survécu à une vérification de sensibilité annotée par des humains, et les auteurs la lisent comme une exploration *au sein* de trajectoires qui reviennent souvent à l'engagement (la grappe la plus performante s'est rétablie à p = 0.42). Le comportement qui séparait réellement les trajectoires était le Withholding — le refus de répondre, qui persistait plutôt qu'il ne se résolvait. Pour les concepteurs, cela inverse la priorité habituelle : le désengagement bruyant et visible s'auto-corrige souvent, tandis que le retrait silencieux signale que l'interaction s'est rompue.
-
-## Idées fausses courantes
-
-**« Les étudiants remarqueraient si l'IA nuisait à leur apprentissage. »** Ils ne le remarquent pas, et c'est le fait le plus lourd de conséquences de la page : **les étudiants du groupe lésé n'ont pas perçu qu'ils apprenaient moins.** L'[[self-report-measures|auto-déclaration]] n'est donc pas un signal d'alerte précoce utilisable. Le schéma 48% de pratique en plus / 17% d'examen en moins est invisible pour la personne qui le vit, ce qui explique pourquoi la détection du préjudice doit reposer sur la mesure plutôt que sur le témoignage.
-
-**« Le risque, c'est la quantité d'IA qu'un étudiant utilise. »** Le risque tient à ce à quoi l'IA se substitue. L'usage abusif désigne ici le fait de déléguer la rédaction, le rappel ou l'analyse qui bâtit une compréhension durable — une substitution plutôt qu'un complément — et un étudiant peut substituer massivement dans une tâche et compléter de façon productive dans la suivante. Le volume d'usage est la mauvaise variable ; la répartition du travail cognitif est la bonne.
-
-**« Si la performance à l'entraînement s'améliore, l'outil fonctionne. »** Dans l'essai contrôlé randomisé causal de terrain portant sur environ 1,000 élèves de mathématiques du secondaire, un tuteur de type ChatGPT sans garde-fous a élevé la performance assistée à l'entraînement de **+48%** tout en *réduisant* de **17%** les scores à l'[[summative-assessment|examen à livre fermé]] sans assistance. Les directions sont opposées, si bien que toute évaluation qui lit le chiffre de l'entraînement comme le résultat certifiera exactement le préjudice qu'elle est censée détecter.
-
-**« Les apprenants qui utilisent l'IA craignent surtout d'être pris. »** Leurs préoccupations déclarées sont développementales. Dans une étude, **51% des participants (n = 106)** craignaient que l'usage de l'IA générative puisse entraver le développement individuel, citant des pertes pour la [[critical-thinking|pensée critique]], la créativité et l'autonomie plutôt que des infractions aux règles. Le cadrage par l'[[academic-integrity|intégrité]] qui domine le discours institutionnel n'est pas celui auquel les étudiants eux-mêmes recourent.
 
 ## Implications pour la pratique
 
@@ -124,6 +114,16 @@ La littérature sur le gaming-the-system (l'abus d'indices, les réponses devin�
 
 - Rapporter toujours la mesure non assistée, et rapporter la perception à côté d'elle plutôt qu'à sa place.
 - Rapporter la structure de substitution de la tâche, et pas seulement la fréquence d'usage, lorsqu'on attribue un préjudice.
+
+## Idées fausses courantes
+
+**« Les étudiants remarqueraient si l'IA nuisait à leur apprentissage. »** Ils ne le remarquent pas, et c'est le fait le plus lourd de conséquences de la page : **les étudiants du groupe lésé n'ont pas perçu qu'ils apprenaient moins.** L'[[self-report-measures|auto-déclaration]] n'est donc pas un signal d'alerte précoce utilisable. Le schéma 48% de pratique en plus / 17% d'examen en moins est invisible pour la personne qui le vit, ce qui explique pourquoi la détection du préjudice doit reposer sur la mesure plutôt que sur le témoignage.
+
+**« Le risque, c'est la quantité d'IA qu'un étudiant utilise. »** Le risque tient à ce à quoi l'IA se substitue. L'usage abusif désigne ici le fait de déléguer la rédaction, le rappel ou l'analyse qui bâtit une compréhension durable — une substitution plutôt qu'un complément — et un étudiant peut substituer massivement dans une tâche et compléter de façon productive dans la suivante. Le volume d'usage est la mauvaise variable ; la répartition du travail cognitif est la bonne.
+
+**« Si la performance à l'entraînement s'améliore, l'outil fonctionne. »** Dans l'essai contrôlé randomisé causal de terrain portant sur environ 1,000 élèves de mathématiques du secondaire, un tuteur de type ChatGPT sans garde-fous a élevé la performance assistée à l'entraînement de **+48%** tout en *réduisant* de **17%** les scores à l'[[summative-assessment|examen à livre fermé]] sans assistance. Les directions sont opposées, si bien que toute évaluation qui lit le chiffre de l'entraînement comme le résultat certifiera exactement le préjudice qu'elle est censée détecter.
+
+**« Les apprenants qui utilisent l'IA craignent surtout d'être pris. »** Leurs préoccupations déclarées sont développementales. Dans une étude, **51% des participants (n = 106)** craignaient que l'usage de l'IA générative puisse entraver le développement individuel, citant des pertes pour la [[critical-thinking|pensée critique]], la créativité et l'autonomie plutôt que des infractions aux règles. Le cadrage par l'[[academic-integrity|intégrité]] qui domine le discours institutionnel n'est pas celui auquel les étudiants eux-mêmes recourent.
 
 ## Concepts liés
 

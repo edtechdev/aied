@@ -1,7 +1,7 @@
 ---
 title: "Le sentiment d'efficacité personnelle"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 
 Le sentiment d'efficacité personnelle est distinct de la compétence réelle : c'est une croyance en une capacité qui pilote le comportement. Il est étroitement lié à — et souvent employé de façon interchangeable avec — la notion courante de *confiance* en ses capacités. Le sentiment d'efficacité personnelle se rattache étroitement à la [[motivation|motivation]], à l'[[self-regulated-learning|apprentissage autorégulé]] et à l'[[student-experience|expérience étudiante]]. Dans le contexte de l'IA, le sentiment d'efficacité personnelle à l'égard de l'IA (la confiance à travailler avec l'IA) est un construit distinct de la littératie en IA, et la recherche montre qu'il joue un rôle crucial dans la question de savoir si les apprenants activent et appliquent réellement les connaissances liées à l'IA.
 
-### Comment le sentiment d'efficacité personnelle apparaît dans la recherche de la base de connaissances
+## Comment le sentiment d'efficacité personnelle apparaît dans la recherche de la base de connaissances
 
 - **Des déclins sous le travail d'atelier IA générative et réalité étendue :** dans un atelier de [[arts-design-and-media-education|conception]] architectural réunissant 27 étudiants, les équipes employant un pipeline d'[[generative-ai|IA générative]] et de réalité étendue multi-utilisateurs ont montré des déclins relatifs pré–post plus importants de la confiance en son efficacité personnelle de conception (β = −1,675, p = 0,021) et d'attente de résultat (β = −2,088, p = 0,002) que les équipes poursuivant le flux de travail normal, sans différence significative dans les notations en aveugle de leurs présentations par un jury ([[genai-xr-architectural-design-education-2026|Xiao et coll., 2026]]). Des environnements riches en outils peuvent déprimer les croyances d'efficacité même lorsque le travail lui-même est jugé équivalent.
 - **Le sentiment d'efficacité personnelle à l'égard de l'IA et la préparation professionnelle :** la [[ai-literacy-career-adaptability-business-2026|recherche sur la préparation à l'IA]] montre que le sentiment d'efficacité personnelle à l'égard de l'IA modère la relation entre littératie en IA et préparation à l'IA : la littératie ne se traduit en préparation que lorsque les apprenants ont confiance dans l'usage de l'IA, et le sentiment d'efficacité personnelle prédit directement l'[[career-development-and-readiness|adaptabilité professionnelle]].
@@ -90,6 +90,7 @@ Le sentiment d'efficacité personnelle se rattache à la [[motivation|motivation
 - **Nécessaire à l'utilité, pas simplement corrélée à elle.** [[chu-design-students-ai-agent-tam-ttf-2026|Chu et Liu (2026)]] ont placé le sentiment d'efficacité personnelle à l'égard de l'IA devant les deux croyances d'acceptation pour 405 étudiants de cycle supérieur en design et l'ont trouvé l'antécédent le plus fort des deux : β = 0,458 sur l'utilité perçue et β = 0,394 sur la [[technology-acceptance-model|facilité d'utilisation perçue]]. Leur analyse des conditions nécessaires ajoute une forme d'affirmation plus forte que le chemin ci-dessus. L'efficacité était la seule condition identifiée comme nécessaire à l'utilité perçue (d = 0,125, p = 0,015). Une utilité à 80%, 90% et 100% de son échelle exigeait une efficacité à 10,0%, 30,0% et 50,0%. La confiance se situe donc comme un plancher sous le jugement instrumental plutôt que comme l'une des contributions parmi plusieurs. Le devis est transversal et le modèle explique R² = 0,150 de l'intention, si bien qu'il faut traiter les seuils comme propres à l'échantillon.
 
 - **Les traces comportementales peuvent porter le signal, mais les étiquettes fixent le plafond.** Un pipeline réunissant deux universités a détecté un faible sentiment d'efficacité personnelle à partir des traces d'interaction ; les étiquettes par occasion d'enquête ont surpassé une séparation en milieu de semestre, et la sous-échelle MSLQ seule étiquetait aussi bien que l'instrument complet ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]]).
+- **Les implications professionnelles de l'IA se séparent en deux voies.** Chez 415 étudiants chinois du supérieur, [[zhang-ai-career-selfefficacy-2026|Zhang (2026)]] a constaté que les perceptions positives atteignaient le sentiment d'efficacité personnelle dans la décision de carrière par la planification de carrière, tandis que les perceptions négatives ne l'atteignaient que par l'anxiété de carrière (β indirect = −0.184).
 
 ## Idées fausses courantes
 

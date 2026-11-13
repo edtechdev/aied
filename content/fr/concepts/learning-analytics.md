@@ -1,7 +1,7 @@
 ---
 title: "Analytique de l'apprentissage"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 
 ## Introduction
 
-### Analyses enrichies par l'IA
+## Analyses enrichies par l'IA
 
 - **Analytique prédictive :** l'[[machine-learning|apprentissage automatique]] appliqué aux données d'interaction des apprenants prédit les résultats — de l'[[at-risk-students-ml-prediction|identification des élèves à risque]] à l'[[knowledge-tracing|estimation de l'état des connaissances]].
 - **La validation compte autant que la prédiction.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan et Carvalho (2025)]] montrent que les modèles prédictifs d'état des connaissances (BKT, BKT avec oubli, AFM) semblent exacts lorsqu'ils sont ajustés rétrospectivement sur l'historique complet d'une session, alors que, sous **validation croisée temporelle** — prédire la séance suivante à partir des précédentes, comme les analyses sont réellement déployées — ils surestiment la performance de l'apprenant, manquent la dynamique d'espacement et d'oubli, et peuvent mal ordonner les conditions de pratique. La mise en garde pour l'analytique : un ajustement rétrospectif peut masquer une faible validité prédictive prospective sur des données longitudinales, de sorte que les modèles d'indicateurs et de tableaux de bord devraient être validés en marche avant.
@@ -67,7 +67,7 @@ L'analytique par capteurs et par mouvements oculaires est une seconde famille d'
 
 **Les données d'interaction sont un problème de représentation avant d'être un problème de modélisation.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] traitent chaque échange humain-IA comme un enregistrement structuré portant le calcul qui a motivé la requête, la requête, la réponse, la rétroaction de l'utilisateur et l'exécution qui a suivi, plutôt que comme une invite isolée. Sur 140 paires étudiant-devoir dans un déploiement à 35 étudiants, le seul nombre d'interactions corrélait avec les cellules exécutées avec succès à r = 0.12, et le même appel pouvait être une récupération d'erreur, une étape suivante, une vérification de concept ou une validation selon l'état qui l'entourait. Trente-sept paires disposant d'un accès n'ont produit aucune interaction, de sorte que l'absence d'usage de l'IA dans un journal ne peut pas être lue comme une absence de besoin.
 
-### Le cycle de l'analytique de l'apprentissage
+## Le cycle de l'analytique de l'apprentissage
 
 L'analytique de l'apprentissage est canoniquement formulée comme un cycle qui commence avec l'activité de l'apprenant produisant des données, lesquelles sont traitées en mesures et en indicateurs, puis traduites en **interventions** — et l'intervention se réinjecte dans l'activité de l'apprenant pour refermer la boucle. L'étape d'intervention est ce qui distingue l'analytique de la simple surveillance ou prédiction : sans elle, l'analytique décrit et signale, mais ne change jamais l'apprentissage. Ce cycle est le cadre organisateur permettant de comprendre où se situent les outils d'IA (tableaux de bord, générateurs de rétroaction, recommandeurs prescriptifs) dans le pipeline, et quelle étape ils automatisent.
 
@@ -75,7 +75,7 @@ Un tableau de bord tourné vers l'apprenant ne vaut que par sa portée : dans un
 
 Un encodage fréquentiel des [[qualitative-research|données qualitatives]] est un point d'entrée, non un verdict : dans une étude réunissant dix participants, certains enseignants lisaient les encodages fréquentiels comme une manière productive d'entrer dans les données, tandis que d'autres avertissaient qu'ils occultent des réponses rares mais critiques ; aussi la conception garde-t-elle chaque vue agrégée reliée au texte littéral des élèves ([[wordstream-glass-learning-analytics|Nguyen et al. (2026)]]).
 
-### De la description à l'intervention
+## De la description à l'intervention
 - **Les données probantes ne sont pas encore des preuves d'intervention.** En synthétisant quatre études aux niveaux des élèves, des disciplines, des éducateurs et des institutions, [[learning-analytics-genai-learning-design|Rienties, Divjak et Law (2026)]] constatent que le champ est dominé par des devis transversaux, des [[self-report-measures|auto-déclarations]], des analyses de discours et des jugements d'experts, et appellent à des recherches interventionnelles testant des mécanismes causaux et des résultats à plus long terme et distributionnels.
 
 **Un devis à encouragement aléatoire fournit l'ancrage causal.** Dans une expérience à encouragement aléatoire sur ASSISTments, [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan et Sales (2025)]] ont incité aléatoirement des enseignants nouveaux sur la plateforme à consulter le rapport de devoir après en avoir créé un.
@@ -93,7 +93,7 @@ L'étape qui suit le score — qui reçoit du soutien, et si celui-ci a été al
 Un résultat d'intégrité entre dans cette même couche prédictive. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] prédit le risque de triche assistée par l'IA à partir des huit premières semaines de traces de [[video-education|Moodle et du lecteur vidéo]], atteignant un AUC de 0.763 par régression logistique, et soutient que le signal est utilisable précisément parce qu'il arrive avant l'examen plutôt que pendant celui-ci.
 Une ligne complémentaire cible l'*interprétation* de l'analytique elle-même. Le cadre FACTRIA de [[factria-responsible-institutional-analytics-2026|Marques et al. (2026)]] organise les facteurs de biais derrière un indicateur — de pipeline, institutionnels, de cours et démographiques — et un chatbot de sollicitation réflexive a fait passer les sous-facteurs que 11 parties prenantes soupesaient par cas de 1.41 à 3.45 (d = 2.15), les faisant passer de lectures directes à des lectures conditionnelles.
 
-### Méthodes et analyse de réseaux
+## Méthodes et analyse de réseaux
 
 Les méthodes de réseau sont au cœur de l'analytique de l'apprentissage : l'[[network-analysis|analyse de réseaux de transition (TNA)]] modélise les séquences temporelles des actions de l'apprenant (par exemple les boucles de révision et de dialogue dans l'écriture étayée par un [[conversational-ai|agent conversationnel]]), et l'[[network-analysis|analyse de réseaux épistémiques (ENA)]] cartographie la manière dont les codes et les constructions cooccurrent au fil de l'activité — révélant ensemble le *processus* de l'apprentissage et de l'[[student-ai-interaction|interaction de l'apprenant avec l'IA]], et pas seulement son produit.([[penny-transition-network-analysis-efl-writing-2026]])([[tracing-genai-literacy-interaction-patterns]])
 
@@ -121,7 +121,7 @@ Les méthodes de réseau sont au cœur de l'analytique de l'apprentissage : l'[[
 
 - **Infrastructure d'analytique réutilisable, validée seulement en interne (2026).** [[a4l-analytics-pipeline|Bai et al. (2026)]] ont reproduit des résultats publiés issus de trois assistants d'IA de Georgia Tech en modifiant des valeurs de configuration plutôt que du code, bien que l'affirmation repose sur une réanalyse de ensembles de données existants propres à une seule institution et que l'unique extension de capacité ait été réalisée par des personnes de l'intérieur.
 
-### Connexions
+## Connexions
 
 L'analytique de l'apprentissage se rattache au [[knowledge-tracing]] (l'analytique centrale), à l'[[formative-assessment]] (évaluation pilotée par l'analytique), à la [[student-modeling]] (la représentation de l'apprenant que l'analytique peuple), à la [[privacy]] (la contrainte [[ethics|éthique]]), et à l'[[edtech-platform]] (le lieu où l'analytique est déployée). Parce que l'analytique prescriptive est de plus en plus évaluée sur des [[simulating-students|apprenants simulés]] — où des cohortes d'élèves synthétiques se substituent à des cohortes réelles dans des tests contrôlés — l'analytique de l'apprentissage se rattache aussi à la simulation d'élèves.
 
@@ -148,6 +148,8 @@ En maintenant constants les indicateurs multimodaux et en ajoutant seulement une
 - **Des LLM lisant les parcours de clic contre des stratégies d'apprentissage nommées.** [[radmehr-clicksight-clickstream-learning-strategies-2026|Radmehr et coll. (2026)]] mettent en scène un pipeline [[llm|LLM]] qui localise des preuves d'une stratégie dans la trace d'un étudiant, juge de l'adhésion et cite les actions derrière le jugement, atteignant une qualité globale de 0.735 dans une simulation plus difficile, contre 0.704 pour une ligne de base plate.
 - **« L'analytique a besoin de traces de clics. »** Les états de connaissances peuvent être estimés au sein d'une pédagogie par résultats en **traçant directement les résultats de cours à partir des données d'interaction et de réussite du LMS**, à l'aide de correspondances d'affinité propres à cette pédagogie — le dossier institutionnel fournit le signal.
 - **« Une prédiction sans fenêtre d'action est utile. »** La prédiction de progression est plus utilisable lorsqu'elle est **interprétable et assortie d'une fenêtre d'action** : [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries et Koprinska (2025)]] prédisent des résultats au niveau du module, une forme sur laquelle un conseiller peut agir, contrairement à un score brut.
+
+L'analytique sémantique ne peut noter le raisonnement que là où les catégories sont définies assez strictement pour être notées. Dans un module d'éthique de l'IA de cinq heures réunissant 90 étudiants, les codeurs humains ont atteint un alpha de Krippendorff de 0.82 sur 1 094 unités de sens, et le classifieur dans la boucle humaine a atteint un macro-F1 de 0.83 [0.78, 0.87] sur 17 catégories de problèmes et de solutions, tombant à 0.68 sur la plus petite ([[wang-yi-semantic-learning-analytics-moral-reasoning-2026|Wang & Yi (2026)]]). Le dispositif pré-post à groupe unique ne permet pas d'attribuer les gains observés au module.
 
 ## Concepts liés
 
@@ -213,4 +215,5 @@ En maintenant constants les indicateurs multimodaux et en ajoutant seulement une
 - [[kim-ai-embodied-learning-review-2026]] — L'IA dans l'apprentissage incarné observe surtout : les rôles de détection représentaient 62,5 % des étiquettes de rôle codées, et aucun système examiné n'a fusionné des flux multimodaux pendant l'usage des apprenants (Kim & Han 2026)
 
 - [[liu-teaching-analytics-dashboard-2026]] — Étude de micro-enseignement à contrôle actif isolant la couche d'explication : l'interprétation a bougé, l'action non (Liu et al. 2026)
+- [[wang-yi-semantic-learning-analytics-moral-reasoning-2026]] — Notation sémantique du raisonnement moral dans la boucle humaine, forte sur les grandes catégories, faible sur les petites
 

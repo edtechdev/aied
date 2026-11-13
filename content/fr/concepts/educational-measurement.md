@@ -1,7 +1,7 @@
 ---
 title: "La mesure en éducation"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-09T10:25:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -101,6 +101,8 @@ Les données probantes de la base de connaissances montrent de façon répétée
 **La fiabilité est partiellement récupérable depuis le modèle lui-même.** [[know-when-to-trust-ai-scoring-reliability-2026|Organisciak et Acar (2026)]] évaluent trois mises à niveau peu coûteuses de la notation fondée sur les LLM, sur plus de 20,000 réponses au Alternative Uses Test : lire la confiance du modèle au niveau de ses jetons, prendre une moyenne pondérée par les probabilités sur ses n meilleurs scores prédits au lieu d'une seule meilleure estimation, et combiner plusieurs modèles en un ensemble. Chacune a amélioré l'accord avec les scores humains (la corrélation passant de r = 0.781 à 0.823 et la RMSE tombant de 0.599 à 0.498 dans la meilleure configuration), et leurs diagnostics situent une défaillance spécifique de la notation en un seul passage : la confiance exprimée par le modèle était négativement liée à son exactitude (β = −0.602). C'est un résultat d'approche de mesure plutôt qu'un résultat de modèle — un même modèle, noté différemment, est un instrument plus fiable — et il se situe aux côtés des données d'accord au niveau du corpus présentées plus haut.
 
 Une évaluation de 2026 portant sur 33 instruments de littératie en IA des enseignants montre où le développement d'instruments est mature et où il ne l'est pas. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore et Maat (2026)]] ont noté les instruments au regard d'une matrice de décision adaptée de COSMIN et de Terwee et al. (2007) et ont trouvé que la cohérence interne était le domaine le plus fort (28 instruments sur 33 au grade A, 84.8%) et la justesse le plus faible, avec seulement cinq instruments (15.2%) rapportant des données d'invariance de mesure ou de fonctionnement différentiel des items. La validité structurelle était forte, avec 24 instruments (72.7%) au grade A grâce à l'analyse factorielle confirmatoire, à la modélisation PLS-SEM ou à la TRI, or la validité de contenu reposait surtout sur une revue [[qualitative-research|qualitative]], avec 21 instruments (63.6%) au grade B faute de statistiques quantitatives d'accord entre experts.
+
+- **Une échelle d'anxiété face à l'IA nominalement à cinq dimensions est essentiellement unidimensionnelle.** Après que l'AIAS à 23 items et huit dimensions n'a pas répliqué sa structure chez 877 étudiants de premier cycle, la forme retenue à 20 items produisait un ωH bifactoriel de .875 contre un ωtotal de .954 (ratio .918), laissant des ωHS de facteur spécifique de .166 à .407 ([[tassilova-ai-anxiety-scale-russian-2026|Tassilova et al., 2026]]). La libération d'une ordonnée à l'origine a inversé le signe d'une comparaison entre pays, ce qui rend ce contraste indéterminé plutôt que simplement biaisé.
 
 La sélection automatisée d'items peut raccourcir un instrument sans le remodeler : l'optimisation par colonies de fourmis sur un échantillon fusionné de deux vagues (N = 305, 342) a produit une forme courte de 12 items corrélant à r = 0.910–0.944 avec l'échelle complète sur chaque dimension, bien que deux items par dimension couvrent une plage de contenus plus étroite ([[genai-srl-l2-writing-scale-2026|Wang, Zhang et Zhang (2026)]]).
 
@@ -208,3 +210,4 @@ La mesure en éducation est le fondement de la [[item-response-theory|théorie d
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — De la difficulté sans discrimination
 - [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Les paires de même construit divergent dans 41.2% des cas, et les mesures de performance exigent leur propre argument de validité (Fan et al. 2026)
 - [[chang-ai-cognitive-offloading-scale-2026]] — Validation de l'échelle de décharge cognitive de l'IA, avec les contrôles de validité qu'elle omet
+- [[tassilova-ai-anxiety-scale-russian-2026]] — Propriétés psychométriques de la version russe de l'échelle d'anxiété face à l'IA : dimensionnalité, invariance de mesure et approche centrée sur la personne

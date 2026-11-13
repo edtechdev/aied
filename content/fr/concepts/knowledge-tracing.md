@@ -8,7 +8,7 @@ technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learnin
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ ai_assist:
 
 Le traçage des connaissances transforme les réponses brutes aux exercices en estimations de ce qu'un étudiant a maîtrisé et de ce qu'il lui reste à apprendre. À la différence du simple suivi de l'exactitude, le traçage des connaissances modélise la dynamique temporelle de l'apprentissage — quand les connaissances sont acquises, quand elles se dégradent, et comment les concepts se rapportent les uns aux autres.
 
-### Les approches représentées dans la base de connaissances
+## Les approches représentées dans la base de connaissances
 
 - **Les approches bayésiennes :** [[stanbkt-bayesian-knowledge-tracing]] normalise les implémentations de BKT, tandis que [[mbp-kt-meta-behavioral-knowledge-tracing]] incorpore des signaux méta-comportementaux
 - **Les paramètres BKT comme mesures de résultats d'intervention :** [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et coll. (2026)]] ont ajusté un traçage bayésien des connaissances conditionné par les indices sur 19 952 points de données de 688 élèves de sixième, afin que les paramètres de devinette, d'erreur, d'apprentissage et d'oubli deviennent eux-mêmes les mesures de résultats d'une intervention mathématique à indices perceptuels. Les indices congruents élevaient la devinette et réduisaient l'erreur — un étayage immédiat — tandis que la condition incongruente de couleur présentait la signature de la difficulté souhaitable : devinette à 0,190, mais taux d'apprentissage le plus élevé (0,0379) et taux d'oubli le plus faible (0,0054) des neuf conditions. Les classifications BKT des conditions d'indices concordaient avec celles fondées sur le comportement pour cinq des huit conditions, soutenant les paramètres comme une lentille sur le dilemme de l'assistance.
@@ -62,7 +62,7 @@ Le traçage des connaissances transforme les réponses brutes aux exercices en e
 - **Le traçage fondé sur des instantanés seuls.** [[skill-acquisition-without-temporal-info|Nagai et coll. (2026)]] induisent un pseudo-ordre temporel à partir des relations d'inclusion entre les ensembles de compétences des apprenants, traitant les ensembles de compétences qui s'étendent comme une progression d'apprentissage, de sorte que des instantanés pris à un seul moment restent traçables — mais la formulation présuppose que les compétences ne sont jamais perdues, si bien que les déploiements pour des apprenants qui régressent nécessitent d'abord un mécanisme d'oubli explicite.
 - **La granularité des composantes de connaissance est elle-même une décision de modélisation.** [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny et Meurers (2026)]] ont comparé 19 modèles de composantes de connaissance sur 11 niveaux d'une hiérarchie de tutorat linguistique et 153 819 réponses de première tentative de 1 059 élèves de cinquième. Le gagnant dépend de la cible de prédiction : l'Actionable Element ID à granularité fine menait la prédiction bloquée par étudiant (RMSE 0,4083), tandis que la Property ID + Exercise Type ancrée sémantiquement menait la prédiction bloquée par item (RMSE 0,4243). Les identifiants fins montraient aussi des taux d'apprentissage moyens quasi nuls (Actionable Element ID 0,000).
 
-### Relations avec d'autres concepts
+## Relations avec d'autres concepts
 
 Le traçage des connaissances est étroitement lié à la [[student-modeling|modélisation de l'étudiant]] — tandis que le traçage des connaissances modélise spécifiquement les connaissances cognitives au fil du temps, la modélisation de l'étudiant est la pratique plus large qui consiste à représenter tous les aspects d'un apprenant (état [[affective-computing|affectif]], [[student-engagement|engagement]], préférences). Le traçage des connaissances alimente les systèmes d'[[adaptive-learning|apprentissage adaptatif]] et d'[[personalized-learning|apprentissage personnalisé]] qui ont besoin de savoir quoi enseigner ensuite, ainsi que les plateformes d'[[intelligent-tutoring|tutorat intelligent]] qui emploient les estimations de maîtrise pour sélectionner les problèmes appropriés. Il se relie à l'[[learning-analytics|analytique de l'apprentissage]] pour la conception de tableaux de bord et d'interventions, et au [[cognitive-diagnosis|diagnostic cognitif]] pour l'[[assessment|évaluation]] fine des compétences. Les construits du traçage des connaissances éclairent aussi les [[simulating-students|étudiants simulés]] — l'état cognitif d'un apprenant simulé est souvent formalisé avec la même dynamique de maîtrise et de dégradation que modélise le traçage des connaissances, si bien que la [[simulation|simulation]] est une manière de *générer* les états de connaissance que les méthodes de traçage *infèrent* normalement de données de réponses réelles.
 
@@ -79,16 +79,6 @@ Le traçage des connaissances est étroitement lié à la [[student-modeling|mod
 **Une réserve de capacité : les modèles de langue généraux tracent les connaissances à peine au-dessus d'une ligne de base triviale.** [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et coll. (2026)]] ont publié FoundationalASSIST, qui restaure le texte intégral des questions, les réponses que les étudiants ont réellement données et leurs choix de distracteurs, que les ensembles de données de traçage antérieurs avaient écartés, et ont testé quatre [[llm|grands modèles de langue]] de pointe comme traceurs en zero-shot. Le meilleur, GPT-OSS-120B, a atteint 56.2 pour cent contre les 51.3 pour cent que marque déjà une règle prédisant toujours « correct » (AUC-ROC 0.559), sans amélioration provenant d'historiques plus longs, et Llama-3.3-70B s'est révélé exact 85.4 pour cent du temps lorsqu'un étudiant répondait correctement, mais seulement 12.6 pour cent lorsqu'il se trompait — la preuve qu'un modèle du commerce trace l'optimisme plutôt que la compréhension ; aussi la compétence apparente d'un traceur doit-elle être lue au regard de la ligne de base triviale que sa tâche permet.
 
 - **Un grand modèle de langue à passage unique peut tracer les connaissances avant que des apprenants ne soient enregistrés.** Interrogé comme une seule question dactylographiée, sans données de plateforme cible, Jev a atteint une AUC moyenne de .706, au-dessus du meilleur des 28 modèles de traçage profond entraînés sur 8 apprenants (.689), et en avance jusqu'à ce que le traçage supervisé le rattrape à 64-128 apprenants ([[system-one-llm-knowledge-tracing-2026|Lee et Park, 2026]]).
-
-## Idées fausses courantes
-
-**« Une étiquette de maîtrise signifie que l'apprenant sait. »** La maîtrise n'est pas l'exactitude — un apprenant peut paraître maître et appliquer systématiquement mal une compétence dès qu'une condition cachée est violée — et la valeur de l'étiquette dépend de la règle de comptage qui la sous-tend. Créditer les complétions déclarées a marqué **93.9% de 113,428 paires étudiant–compétence** comme maîtrisées, contre **72.8%** sous une règle stricte, et les paires que la règle indulgente déclarait en avance n'atteignaient que **70.9% d'exactitude sans aide**. Deux règles défendables produisaient un écart de 21 points sur qui était déclaré prêt.
-
-**« Ce sont les modèles de séquence qui rendent le traçage exact. »** Une grande part du gain apparent coûte moins cher que cela. Sur 1,927,265 réponses en mathématiques de 8,996 étudiants finlandais, l'identité de l'item seule atteignait une **AUC de .8362**, et l'ajout d'une seule mesure de récence relative à la difficulté de l'item la portait à **.866**. Une large part de ce qu'apportent les modèles de séquence profonds est donc disponible à partir d'une ligne de base fondée sur la difficulté des items plus la récence, si bien que les comparaisons d'architectures ont besoin de cette ligne de base pour être significatives.
-
-**« Le meilleur modèle sur un jeu de données est le meilleur modèle pour votre cours. »** L'exactitude dépend du contexte. OKT a atteint **89.81% d'AUC** sur des données LMS réelles d'un programme d'[[engineering-education|ingénierie]] (2,416 étudiants, 966 résultats), battant DKT, DKVMN, EKT et SimpleKT — tout en n'obtenant que des résultats compétitifs sur ASSISTments. La même architecture qui gagne sur une famille de jeux de données est banale sur une autre, si bien qu'une AUC phare venue d'ailleurs est une preuve faible sur vos étudiants.
-
-**« Les connaissances persistent sauf preuve d'oubli. »** L'oubli est le comportement par défaut qu'il vaut la peine de modéliser. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan et Carvalho (2025)]] ont ajusté BKT, BKT avec oubli et le modèle des facteurs additifs sur une séquence multi-sessions et ont constaté que l'ajustement change lorsqu'on représente la rétention, et que la manière dont ces modèles sont *validés* diffère de la manière dont ils sont *déployés*.
 
 ## Implications pour la pratique
 
@@ -108,6 +98,16 @@ Le traçage des connaissances est étroitement lié à la [[student-modeling|mod
 
 - Rapportez des résultats sur plus d'une famille de jeux de données avant de revendiquer une supériorité architecturale, puisque le contraste OKT s'inverse entre les données LMS d'ingénierie et ASSISTments.
 - Rapportez la règle de comptage de la maîtrise comme un paramètre du résultat, et non comme une note méthodologique.
+
+## Idées fausses courantes
+
+**« Une étiquette de maîtrise signifie que l'apprenant sait. »** La maîtrise n'est pas l'exactitude — un apprenant peut paraître maître et appliquer systématiquement mal une compétence dès qu'une condition cachée est violée — et la valeur de l'étiquette dépend de la règle de comptage qui la sous-tend. Créditer les complétions déclarées a marqué **93.9% de 113,428 paires étudiant–compétence** comme maîtrisées, contre **72.8%** sous une règle stricte, et les paires que la règle indulgente déclarait en avance n'atteignaient que **70.9% d'exactitude sans aide**. Deux règles défendables produisaient un écart de 21 points sur qui était déclaré prêt.
+
+**« Ce sont les modèles de séquence qui rendent le traçage exact. »** Une grande part du gain apparent coûte moins cher que cela. Sur 1,927,265 réponses en mathématiques de 8,996 étudiants finlandais, l'identité de l'item seule atteignait une **AUC de .8362**, et l'ajout d'une seule mesure de récence relative à la difficulté de l'item la portait à **.866**. Une large part de ce qu'apportent les modèles de séquence profonds est donc disponible à partir d'une ligne de base fondée sur la difficulté des items plus la récence, si bien que les comparaisons d'architectures ont besoin de cette ligne de base pour être significatives.
+
+**« Le meilleur modèle sur un jeu de données est le meilleur modèle pour votre cours. »** L'exactitude dépend du contexte. OKT a atteint **89.81% d'AUC** sur des données LMS réelles d'un programme d'[[engineering-education|ingénierie]] (2,416 étudiants, 966 résultats), battant DKT, DKVMN, EKT et SimpleKT — tout en n'obtenant que des résultats compétitifs sur ASSISTments. La même architecture qui gagne sur une famille de jeux de données est banale sur une autre, si bien qu'une AUC phare venue d'ailleurs est une preuve faible sur vos étudiants.
+
+**« Les connaissances persistent sauf preuve d'oubli. »** L'oubli est le comportement par défaut qu'il vaut la peine de modéliser. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan et Carvalho (2025)]] ont ajusté BKT, BKT avec oubli et le modèle des facteurs additifs sur une séquence multi-sessions et ont constaté que l'ajustement change lorsqu'on représente la rétention, et que la manière dont ces modèles sont *validés* diffère de la manière dont ils sont *déployés*.
 
 ## Concepts liés
 

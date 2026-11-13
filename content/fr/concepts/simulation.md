@@ -2,13 +2,13 @@
 connected_resources: [openmaic]
 title: "Simulation"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 translation_of: concepts/simulation
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-10T21:15:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,7 @@ La simulation se situe au cœur des pédagogies [[experiential-learning|expérie
 - **Un jumeau numérique est une simulation avec une facture matérielle, et la facture détermine qui peut y prendre part.** Une [[meta-analysis-systematic-review|revue systématique]] de 11 études de jumeaux numériques dans l'[[higher-ed|enseignement supérieur]] d'[[engineering-education|ingénierie]] et de STEM a constaté que chaque implémentation livrait un prototype fonctionnel avec synchronisation en temps réel, mais que trois seulement rendaient compte de [[learning-gains|gains d'apprentissage]] statistiquement significatifs. Les montages physiques ont plafonné l'accès à 1 à 3 étudiants simultanés dans cinq études, et la réduction de l'interaction sociale était le défi pédagogique le plus cité, dans six ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et coll. (2026)]]).
 - **La simulation fondée sur les agents peut modéliser une théorie de la [[metacognition|métacognition]] comme un système testable.** Un cadre inspiré des jumeaux numériques et fondé sur les agents, combinant le modèle AMERT à cinq niveaux et une simulation NetLogo, a permis aux chercheurs de faire varier les archétypes d'apprenants et les conditions de tâche et d'observer des trajectoires métacognitives, bien que les auteurs soulignent que la production est une génération d'hypothèses, non une preuve sur de vrais apprenants ([[agent-based-digital-twin-metacognition-2026|Guo, 2026]]). La simulation devient un laboratoire virtuel pour une théorie autrement difficile à observer.
 - **Le curriculum est l'unité qui décide de la valeur d'une simulation.** Le modèle du pont curriculaire (Curricular Bridge Model) soutient que le retour sur la simulation dépend de la manière dont les expériences sont séquencées à travers un programme — réutilisation des contextes, variation des exigences de raisonnement, preuves alimentant la progression — plutôt que de la fidélité de la plateforme ([[herrera-alcaino-simulation-curricular-coherence-2026|Herrera Alcaíno, 2026]]).
+- **Les clients simulés ont dépassé les données probantes.** Une revue de portée de 14 sources sur l'IA générative en formation des conseillers a trouvé que les clients simulés par IA en étaient l'application dominante, mais aucune étude ne mesurait la compétence des stagiaires, n'utilisait de condition de comparaison ni ne testait des scénarios de crise et d'évaluation des risques ([[van-patten-freeman-rath-ai-counselor-education-scoping-2026]]).
 
 ### Connexions
 
@@ -102,6 +103,9 @@ Le cadre fonctionne comme un test plutôt que comme un catalogue. Trois question
 - [[ai-avatars-and-synthetic-instructors]]
 
 ## Articles liés
+
+- [[ismail-affective-domain-ai-healthcare-review-2026]] — La simulation par IA et les patients virtuels dominent la formation au domaine affectif, avec des résultats le plus souvent auto-déclarés (Ismail & Zafira, 2026)
+- [[van-patten-freeman-rath-ai-counselor-education-scoping-2026]] — Revue de portée de 14 sources : les clients simulés dominent, la compétence des stagiaires n'est pas mesurée (Van Patten-Freeman & Rath 2026)
 - [[learner-agency-ai-simulation-2026]] — Contrôle des paramètres et agent d'IA optionnel dans une simulation de systèmes complexes : les gains suivaient la mise en acte, non l'accès
 - [[benzion-ai-physics-simulations-virtual-lab]]
 - [[adaptive-virtual-patient-psychotherapy-training]] — Patients virtuels adaptatifs pour la formation en psychothérapie

@@ -7,7 +7,7 @@ technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 À mesure que les systèmes d'IA notent des réponses, prédisent la difficulté et fournissent des [[feedback|retours d'information]], un risque clé est qu'ils produisent des sorties au ton assuré qui n'ont pas été validées au regard des principes de la mesure. L'IA psychométriquement informée répond à ce risque en ancrant l'[[assessment|évaluation]] par l'IA dans la psychométrie établie — en calibrant les sorties, en quantifiant l'incertitude et en préservant les standards d'[[assessment-validity|évaluation de la validité]] et d'[[educational-measurement|évaluation éducative]] plutôt qu'en se fiant à la précision brute ou à une confiance [[self-report-measures|auto-déclarée]].
 
-### Comment l'IA psychométriquement informée apparaît dans la recherche
+## Comment l'IA psychométriquement informée apparaît dans la recherche
 
 - **Calibrage et confiance :** l'[[automated-assessment|évaluation sensible à la confiance]] et le [[llm-psychometric-calibration-cdp|calibrage psychométrique des LLM]] garantissent que l'IA rend des scores porteurs de sens et sensibles à l'incertitude, plutôt que des estimations ponctuelles trop assurées.
 - **La confiance du modèle ne suffit pas.** Sur SciEntsBank, la confiance verbalisée, latente et fondée sur la cohérence n'ont chacune pas réussi à séparer les réponses courtes correctes des incorrectes ; le meilleur calibrage est venu de l'ajout d'une incertitude aléatoire dérivée du jeu de données — l'entropie intra-grappe des réponses vectorisées — via une forêt aléatoire suivie d'un ajustement de Platt, ce qui a permis une notation automatique sélective et une [[human-in-the-loop-ai|revue humaine]] ([[cong-confidence-asag-2026|Cong et coll. (2026)]]).
@@ -52,7 +52,7 @@ ai_assist:
 - **Chaînes de traitement des capacités latentes et fixation des seuils :** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et coll. (2026)]] fournissent un modèle concret de notation psychométriquement informée dans un examen national : les scores des items de la grille ne sont jamais sommés directement, mais introduits dans un modèle [[item-response-theory|IRT]] dont les estimations de capacité latente sont découpées par la méthode de fixation des seuils Bookmark en Proficient / Close to Proficiency / Insufficient, la réussite exigeant au moins deux sections Proficient et la restante au moins Close to Proficiency. Les auteurs ont reproduit cette chaîne de traitement sous forme automatisée (une probabilité de 67% de répondre correctement à au moins 7 items de la grille pour le seuil inférieur et à au moins 10 pour le seuil supérieur), permettant de comparer les scores des items produits par l'IA et par des humains au regard de critères de décision identiques plutôt que sur le seul accord brut.
 - **Un modèle peut sembler calibré tout en prédisant surtout une seule étiquette.** Demander à GPT-4o et Gemini 2.0 Flash d'inférer des dimensions de style d'apprentissage à partir des dialogues de 153 étudiants de premier cycle a produit une exactitude modérée que le rappel par classe a révélée comme une prédiction de l'étiquette dominante, les apprenants Intuitifs et Globaux étant sous-identifiés et le [[prompt-engineering|prompting]] few-shot amplifiant parfois le biais au lieu de le supprimer ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi et Robb (2026)]]).
 
-### Connexions
+## Connexions
 
 L'IA psychométriquement informée se situe à l'intersection de l'[[educational-measurement|évaluation éducative]], de l'[[assessment-validity|évaluation de la validité]], de la [[item-response-theory|théorie de la réponse aux items]] et de l'[[automated-assessment|Confidence Aware AI Assessment]]. Elle est centrale pour l'[[ai-ed-evaluation|évaluation de l'IA dans l'éducation]] (la question de la fiabilité de l'évaluation par l'IA) et se relie à l'[[automated-assessment|évaluation automatisée]] fondée sur les [[llm|LLM]] et à l'[[automated-assessment|notation automatisée]]. Son accent mis sur la validité parle également des [[limitations-in-aied-research|limites de mesure]] des travaux d'[[ai-education|AIED]].
 

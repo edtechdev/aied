@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 
 La randomisation est ce qui distingue un ECR des autres dispositifs : en répartissant au hasard les apprenants entre les conditions, un ECR équilibre les facteurs de confusion connus et inconnus entre les groupes, de sorte que toute différence observée dans les résultats peut être attribuée à l'intervention avec une forte validité interne.
 
-### Comment les ECR apparaissent dans la recherche
+## Comment les ECR apparaissent dans la recherche
 
 - **Les micro-ECR comme réponse à une technologie en évolution rapide :** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et coll. (2026)]] soutiennent que les grands essais conventionnels ne peuvent suivre le rythme des [[edtech-platform|plateformes]] de tutorat qui changent sensiblement au cours d'une étude, et utilisent des micro-essais contrôlés randomisés menés par des [[teacher-role|enseignants]] dans des établissements secondaires anglais (644 des 929 étudiants ayant passé le post-test, g = 0,33) pour garder l'estimation causale reproductible. Les arbitrages sont énoncés dans leur propre dispositif : 30,7% d'attrition, des résultats alignés sur le [[curriculum-design|programme]] plutôt que standardisés de manière indépendante, et seulement quatre semaines de suivi.
 - **Affirmations d'efficacité causale :** les ECR en AIED testent si un tuteur d'IA, un outil ou un traitement pédagogique améliorent les résultats. [[generative-ai-education-productivity-gaps|Une expérience randomisée sur l'IA générative]] réunissant 1 174 participants a constaté que l'IA générative réduit substantiellement les écarts de productivité liés à la formation, comblant environ les trois quarts de la différence de performance initiale — une estimation causale claire de l'effet de l'IA.
@@ -58,7 +58,7 @@ La randomisation est ce qui distingue un ECR des autres dispositifs : en répart
 - **Randomisation à l'intérieur de sections intactes, avec une mesure de référence avant traitement.** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni et Fryer (2026)]] ont randomisé 454 étudiants de premier cycle au sein de trois sections intactes de marketing après la période d'ajout/abandon et ont mesuré les quatre résultats à T1, avant qu'aucun étudiant n'ait accès à l'[[conversational-ai|agent conversationnel]], de sorte que la comparaison sur tout le trimestre repose sur une référence mesurée plutôt que supposée. Le résultat plat (aucune interaction groupe × temps n'a atteint la significativité ; le plus fort effet rapporté était d = 0,050, sur l'intérêt) est rendu compte aux côtés de l'adoption — 0,89 connexions par semaine pour une consigne d'une par semaine — ce qui empêche qu'un résultat nul portant sur un traitement faiblement utilisé soit lu comme un résultat nul portant sur l'outil.
 - **Croisement intra-sujet, et un groupe témoin placé au meilleur niveau de pratique.** [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et coll. (2025)]] ont fait travailler chacun des 194 étudiants en sciences de la vie de Harvard sur deux leçons de physique — une fois lors d'une séance d'[[active-learning|apprentissage actif]] en classe et une fois avec le tuteur d'IA du cours, dans un ordre contrebalancé avec des pré- et post-tests autour de chacune — de sorte que chaque étudiant sert de son propre témoin et que la comparaison des *modes de dispensation* n'est pas confondue avec l'affectation de chacun. Le second choix du dispositif compte autant : le comparateur était l'apprentissage actif fondé sur la recherche plutôt qu'un cours magistral, de sorte que l'avantage (médiane du post-test 4,5 contre 3,5) est mesuré par rapport à la meilleure pratique actuelle et ne peut être lu comme « l'IA bat l'enseignement ».
 
-### Forces et limites
+## Forces et limites
 
 - **Forces :** l'inférence causale la plus solide ; une mesure nette des résultats ; le soutien à l'estimation des tailles d'effet ; l'équilibrage des facteurs de confusion par la randomisation.
 - **Limites :** coûteux et lent ; des cadres artificiels peuvent réduire la validité écologique ; les outils d'IA évoluent plus vite que les essais ne peuvent être menés ; de petits échantillons sous-dimensionnent souvent la détection d'effets significatifs ; des contraintes éthiques pèsent sur le fait de priver un groupe témoin d'une IA potentiellement bénéfique. Deux de ces limites changent de forme lorsque l'affectation est en grappes : l'échantillon effectif devient le nombre de *grappes* plutôt que le nombre d'étudiants, de sorte qu'un essai peut être grand en effectif et mince selon cette mesure — les 2 379 étudiants de Liu et coll. reposent sur 34 grappes au niveau de l'enseignant — et lorsque l'adoption est volontaire et faible, une estimation en intention de traiter répond à la question de savoir si l'offre de l'outil a changé les résultats, et non à celle de savoir si son usage l'a fait.

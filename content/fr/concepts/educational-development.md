@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Le développement éducatif
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-12T16:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -49,10 +49,11 @@ Le développement éducatif est le travail professionnel et institutionnel par l
 - **L'adoption et la confiance :** les [[teacher-ai-adoption-confidence|recherches sur l'adoption de l'IA par les enseignants]] identifient les préoccupations, le soutien, la confiance et les attitudes comme prédicteurs clés. Les programmes de développement professionnel doivent traiter ces quatre dimensions.
 - **L'intégration au curriculum :** les [[institutional-change-framework-ai|cadres de changement institutionnel]] et la [[ai-assessment-scale-reform|réforme de l'évaluation]] exigent que les enseignants repensent les cours, et pas seulement qu'ils y ajoutent des outils d'IA.
 - **Les programmes de formation :** les [[crewscaler-ai-upskilling-framework|cadres de montée en compétences sur l'IA]] et la [[ai-tpack-preservice-math-teachers|formation en formation initiale fondée sur le TPACK]] fournissent des modèles pour une [[ai-education|formation structurée des enseignants à l'IA]].
+- **La demande n'est pas une analyse des besoins.** 345 enseignants de cégep du Québec obtenaient leur score le plus bas en compréhension technique (2.706 sur 5) et demandaient pourtant des applications pratiques propres à leur discipline, jugeant les séances antérieures trop générales ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini et al. (2026)]]).
 
 - **La réflexion professionnelle médiatisée par l'IA.** Le Reflective Triangle Model positionne l'IA comme un médiateur cognitif entre l'[[reflection|auto-réflexion]], la réflexion collaborative et la réflexion communautaire au sein d'une communauté d'apprentissage professionnel, testé dans une étude de faisabilité de quatre semaines auprès de six enseignants ; la frontière qu'il trace est que l'insight individuel ne devient pas automatiquement un savoir professionnel partagé ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance|La gouvernance]] et la politique :** les [[genai-policies-higher-ed-computing|analyses des politiques institutionnelles sur l'IA]] documentent l'écart entre les ambitions institutionnelles et la capacité de soutien aux enseignants.
-- **La littératie en IA est institutionnellement invisible.** Une [[meta-analysis-systematic-review|revue systématique]] de 32 études sur la littératie en IA des enseignants de langues l'a trouvée absente des modèles de charge de travail, des politiques de promotion et de l'allocation des ressources, avec un développement fragmenté et une responsabilité déplacée entre les établissements et les agences — si bien que le développement de la littératie se replie par défaut sur l'effort individuel plutôt que sur un soutien structurel ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik & Duran, 2026)]]).
+- **La littératie en IA est institutionnellement invisible.** Une [[meta-analysis-systematic-review|revue systématique]] de 32 études sur la littératie en IA des enseignants de langues l'a trouvée absente des modèles de charge de travail, des politiques de promotion et de l'allocation des ressources, avec un développement fragmenté et une responsabilité déplacée entre les établissements et les agences — si bien que le développement de la littératie se replie par défaut sur l'effort individuel plutôt que sur un soutien structurel ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik & Duran, 2026]]).
 
 ### Les métaphores et le langage partagé dans le développement éducatif
 
@@ -119,6 +120,14 @@ La confiance et la littératie ne sont pas des cibles interchangeables : dans un
 
 - **Six familles de développement professionnel, trois bien étayées et une gagnante nette.** Une revue de 78 études sur la conception pédagogique soutenue par l'IA classe le développement professionnel documenté en modules compacts intégrés (2 à 4 semaines), microapprentissage sur un semestre, cycles de conception fondés sur des tâches, chaînes de questions collaboratives fondées sur le dialogue, co-découverte critique et apprentissage [[self-directed-learning|autonome]] du praticien. Les données sur les résultats sont les plus solides pour les **modules compacts intégrés** : un module de trois semaines a produit des gains statistiquement significatifs sur les six domaines de l'Intelligent-TPACK avec des tailles d'effet moyennes à grandes, et un programme de quatre semaines réunissant **436 enseignants en formation initiale et une condition témoin** constitue l'évaluation contrôlée la plus solide du corpus ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
 - **Trois caractéristiques de conception distinguent les interventions les mieux étayées.** L'éthique intégrée comme **[[retrieval-spacing-interleaving|pratique distribuée]] avec des points de contrôle à chaque tâche** plutôt que comme une séance autonome ; une **évaluation de la compétence fondée sur la performance** au moyen de plans de leçons, de journaux de décisions et de micro-enseignement, motivée directement par le manque de fiabilité de l'auto-déclaration ; et la formulation d'invites développée comme une pratique réflexive et ancrée pédagogiquement. L'adoption n'est pas le même levier que la performance : chez 200 enseignants du nord de Sumatra, l'usage de l'IA n'avait aucun effet direct sur la performance enseignante (β = 0,112, p = 0,087), tandis que le comportement de citoyenneté organisationnelle le portait indirectement, si bien que le travail de développement du corps enseignant visant un usage collaboratif hors rôle est la version que les données probantes soutiennent ([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]]). Une étude complémentaire de deux semaines a trouvé des gains rapides de connaissances et de confiance tout en identifiant la détection des biais comme la compétence émergente la plus faible, un écart qui persistait dans le module plus long, conformément à une capacité perceptive éthique qui se développe plus lentement que la familiarité technologique.
+
+**L'échelle est documentée ; le changement en classe ne l'est pas.** [[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay et ses collègues]] ont suivi 105 enseignants de chimie dans un programme de six semaines, et [[ma-ai-corpus-language-teaching-coi-2026|Ma et ses collègues]] ont animé un programme en ligne de 20 semaines réunissant plus de 150 enseignants de langues de 28 pays. [[white-scandinavian-teachers-genai-attitudes-2026|White et ses collègues]] ont mesuré un gain de 0.20 écart-type sur les bénéfices perçus chez 2,159 enseignants scandinaves ayant reçu un développement professionnel sur l'IAG. Chaque étude montre que le développement déplace ce que les éducateurs déclarent ; aucune ne les suit en classe pour mesurer ce que les étudiants ont fait différemment.
+
+**Ce que les éducateurs demandent ressemble davantage à un apprentissage en situation qu'à une formation.** Dans l'étude de district, 22 enseignants demandaient un développement assuré par d'anciens enseignants qui comprennent les contraintes de la classe, un guide d'une page sur le moment où les outils aident, et le temps de planification pour utiliser l'un ou l'autre ([[dangol-relief-or-displacement-teachers-generative-ai-2026|Dangol et al.]]). Les établissements, de leur côté, choisissent de construire la capacité plutôt que de l'acheter : parmi ceux dont la stratégie inclut les compétences de la main-d'œuvre, 69% font monter en compétences le personnel et le corps enseignant en poste ([[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE, 2026]]).
+
+**L'absence de développement est un choix politique au résultat visible.** [[rameskumar-shadow-ai-legitimized-higher-education-2027|Rameskumar et ses collègues]] ont interrogé 20 éducateurs qui avaient construit leurs propres règles faute d'orientations, et [[bodek-prompted-to-explore-microlearning-2026|Bodek]] décrit un modèle de microapprentissage conçu pour s'ajuster au temps dont les enseignants disposent réellement. Les programmes qui traitent le développement comme une couche répétée de soutien institutionnel plutôt que comme un événement unique rapportent la différence ([[aalhe-capacity-disposition-genai-assessment-2026|AALHE]]).
+
+**Le contexte change la forme du développement, pas son besoin.** En éducation médicale, une résidence en IA traite le développement des enseignants et l'apprentissage conjoint comme le mécanisme même, et non comme un ajout ([[bursic-ai-residency-education-curriculum-2026|Bursic et al.]]). Une revue de 86 ressources sur la petite enfance identifie le développement des éducateurs comme l'un de ses quatre thèmes ([[early-childhood-ai-holistic-competencies-review-2026|la revue]]). Le renouvellement de l'enseignement technique et professionnel (CTE) recourt au développement des enseignants dès que le changement de programme expose un déficit de compétences ([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]]). Et parmi 146 enseignants, l'engagement dans le développement professionnel médiatisait le lien entre la motivation et l'intention d'utiliser l'IAG ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al.]]).
 
 ## Idées fausses courantes
 
@@ -187,3 +196,15 @@ La confiance et la littératie ne sont pas des cibles interchangeables : dans un
 - [[faculty-ai-well-being-social-supports-2026]] — Le bien-être des enseignants face à l'IA suit la littératie en IA plutôt que l'auto-efficacité technologique
 - [[ai-competence-framework-landscape-2026]] — Vérifier ce que décrivent les niveaux d'un cadre avant de l'adopter
 - [[fajardo-ramos-teacher-education-ai-agenda-2026]] — L'éducation peut-elle fixer l'agenda de l'IA ? Innovation simulée et fixation des directions pédagogiques en formation des enseignants
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 enseignants de chimie dans un programme de six semaines
+- [[ma-ai-corpus-language-teaching-coi-2026]] — Plus de 150 enseignants de langues de 28 pays sur 20 semaines
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2,159 enseignants scandinaves ; gain de 0.20 écart-type sur les bénéfices perçus
+- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 enseignants après un programme d'apprentissage sur l'IAG, les besoins médiatisant l'engagement
+- [[bodek-prompted-to-explore-microlearning-2026]] — un modèle de microapprentissage de développement professionnel pour l'IA générative
+- [[bursic-ai-residency-education-curriculum-2026]] — une résidence en IA en éducation médicale
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 ressources ; le développement des éducateurs comme l'un des quatre thèmes
+- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 enseignants demandant un développement animé par d'anciens enseignants
+- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% de montée en compétences du personnel et du corps enseignant en poste
+- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 éducateurs légitimant l'IA de l'ombre là où les orientations manquaient
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — des déficits de compétences orientant le développement des enseignants et les décisions de recrutement
+- [[aalhe-capacity-disposition-genai-assessment-2026]] — un développement répété comme l'une des cinq couches de soutien

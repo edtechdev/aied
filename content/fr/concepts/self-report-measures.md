@@ -1,7 +1,7 @@
 ---
 title: "Les mesures auto-déclarées"
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-12T06:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -110,8 +110,13 @@ La satisfaction est le résultat le plus fréquemment auto-déclaré dans ce cor
 - [[puech-pedagogical-steering-llm-productive-failure-2025|Sur l'orientation pédagogique]], on note que les [[llm|modèles de langue]] actuels sont ajustés aux instructions pour être des assistants serviables qui maximisent la satisfaction des utilisateurs, tandis que l'objectif d'un tuteur est de maximiser l'apprentissage — les deux objectifs peuvent entrer en conflit, ce qui fait de la satisfaction une cible potentiellement trompeuse plutôt que simplement faible.
 - [[preferred-scaffolding-ai-mathematical-modeling|Une étude sur l'étayage]] soutient que l'utilité perçue, la facilité d'usage et la satisfaction immédiate ne devraient pas être traitées comme des indicateurs suffisants de l'efficacité du [[scaffolding|scaffolding]].
 - [[nie-personavlm-long-term-personalization-2026|Un travail sur la modélisation étudiante alignée sur la personnalité]] observe qu'optimiser pour la satisfaction des utilisateurs n'est pas la même chose qu'optimiser pour les résultats d'apprentissage, et que les deux peuvent se séparer.
+- [[kares-xai-evaluation-alignment-2027|Une étude XAI préenregistrée (Kares et al., 2027)]] a comparé trois méthodes d'explication avec 166 participants et a trouvé que la satisfaction (3.98, 3.92, 3.87) et les notes de confiance étaient statistiquement indiscernables, tandis qu'une mesure de tâche séparait les méthodes et qu'une métrique mathématique les classait dans l'ordre inverse. La note ne donnait aucun signal là où la mesure de capacité en donnait un.
 
 Le schéma à retenir : la satisfaction est sensible aux mauvaises choses lorsque l'apprentissage est l'objectif. Un système qui répond vite, acquiesce volontiers et réduit l'effort sera noté haut, et ces mêmes propriétés sont celles que la base de connaissances associe à une [[desirable-difficulties|lutte productive]] réduite et à une performance gonflée sur le travail assisté par l'IA. La satisfaction rapportée et l'apprentissage mesuré ne sont pas ennemis ; ils ne sont simplement pas des substituts, et traiter la première comme une preuve du second est le glissement le plus commun que documente cette page.
+
+Le cas intra-sujet le plus net du corpus mesurait les deux quantités chez les mêmes étudiants. [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe et al. (2025)]] ont interrogé des étudiants de statistique commerciale et d'économie sur deux semestres, en intégrant une invite de tutorat, des révisions d'examen générées par l'IA, des examens oraux structurés par l'IA et un remue-méninges de sujets assisté par l'IA. La fréquence d'usage autodéclarée de ChatGPT est passée de 2,987 à 4,375 sur une échelle de 1 à 7 (p < .001), la confiance de 3,663 à 4,000 (p = .004) et l'engagement perçu de 2,433 à 2,65 sur une échelle de 1 à 3 (p = .006) — un récit cohérent d'étudiants qui ont davantage utilisé l'outil et ont cru qu'il les aidait.
+
+Les notes d'examen racontent une autre histoire : la fréquence d'usage n'était pas associée à la performance dans le modèle simple (-5,577, ET 5,566) et l'était négativement dans le modèle complet (-13,918, ET 7,834, p = .076). Les auteurs ne traitent pas ce résultat nul comme une preuve de préjudice, des étudiants en difficulté pouvant utiliser davantage l'IA ; ce que l'étude montre, c'est un mouvement significatif sur chaque mesure perceptive sans mouvement correspondant dans la performance notée.
 
 **Les mesures de perception sont plus nombreuses que les mesures de compétence dans la littérature sur l'apprentissage par investigation avec l'IA générative.** Dans une revue de 66 études, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] trouvent que les perceptions des utilisateurs constituent le domaine de résultats le plus rapporté (32 études, 48,5 %), suivi des résultats affectifs à 25, tandis que 8 études seulement (12,1 %) mesuraient des compétences d'investigation et que 4 d'entre elles comportaient une condition de comparaison. Les auteurs n'attribuent aucun niveau de certitude aux preuves : les dénombrements de perceptions décrivent donc ce qui a été demandé, non ce qui a été obtenu.
 
@@ -125,6 +130,8 @@ Quatre propriétés séparent un sondage qui peut étayer une affirmation d'un q
 - **Une alternative de performance lorsque la compétence est le construit.** Les 20 items à choix multiples de GLAT existent précisément parce que l'auto-déclaration ne peut porter une affirmation de compétence.
 
 **La plupart des instruments de ce domaine rapportent la fiabilité et presque aucun ne rapporte la validité.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] citent la revue de Su et al. portant sur 36 études de littératie en IA, qui a trouvé que 63,8 % des outils rapportaient des preuves de fiabilité et moins de 20 % des preuves de validité. La même revue ne trouvait qu'un seul instrument propre à l'IA générative, le GAIAS à 27 items, parmi 50 cadres destinés au [[k-12|K-12]]. Qu'une échelle soit cohérente en interne ne dit rien sur la question de savoir si elle mesure le construit nommé dans son titre.
+
+Une enquête récente auprès du corps professoral montre l'échec sous sa forme extrême. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] ont administré 300 items à 315 enseignants universitaires, rapporté α = 0,997 pour l'échelle totale et n'ont réalisé aucune analyse factorielle, alors qu'un modèle Naive Bayes classait correctement 314 des 315 répondants (précision 0,9968) en bandes de compétence faible, moyenne et élevée. Un instrument dont les items se comportent comme des quasi-doublons peut être prédit presque parfaitement à partir de quelques variables démographiques et institutionnelles parce qu'il porte peu d'information indépendante : les auteurs ont trouvé que l'affiliation était le plus grand contributeur global dans leur analyse SHAP, et les points de coupure définissant les trois bandes n'ont pas été conservés.
 
 ## Échantillonnage, réponse et non-réponse
 
@@ -186,6 +193,8 @@ Les réponses constructives de la base de connaissances sont constantes, et aucu
 - [[learning-analytics]]
 
 ## Articles liés
+
+- [[kares-xai-evaluation-alignment-2027]] — 166 participants, trois méthodes de saillance : satisfaction et confiance stables, performance à la tâche et métriques de fidélité en désaccord (Kares et al., 2027)
 - [[capability-decision-model-teacher-readiness-2026]] — Critères de validité discriminante pour séparer la capacité à l'IA auto-déclarée des croyances d'efficacité
 - [[high-school-genai-acceptance-tam-physics-2026]] — Un seul score d'intention, deux usages opposés
 - [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Le mode d'administration d'un instrument d'auto-déclaration change ce qu'il mesure
@@ -217,3 +226,5 @@ Les réponses constructives de la base de connaissances sont constantes, et aucu
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — 63,8 % des outils de littératie en IA rapportent des preuves de fiabilité et moins de 20 % des preuves de validité
 
 - [[huang-genai-academic-information-resources-2026]] — Des journaux de bibliothèque et des attitudes de sondage pointant dans des directions différentes
+- [[onodipe-enhance-not-replace-ai-classroom-2026]] — L'apprentissage et l'engagement perçus ont progressé sur chaque mesure de sondage tandis que les notes d'examen ne bougeaient pas
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Une échelle professorale de 300 items avec α = 0,997 prédite à 99,68 % de précision sans aucune analyse factorielle

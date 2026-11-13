@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: La métacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-12T18:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -146,6 +146,8 @@ Un soutien externe peut aussi s'interposer entièrement devant le jugement. [[iq
 
 - **Imbriquer les invites dans un cycle métacognitif.** Le cadre IDEA séquence l'usage de l'IA générative selon l'intention, la déconstruction, l'expression et l'adaptation, faisant du prompting une étape de la planification et du suivi plutôt qu'une compétence autonome ; les élèves à qui il était enseigné ont produit des prompts de meilleure qualité que leurs pairs enseignés avec le prompting Rôle–Tâche–Contexte–Format, dans les cinq catégories de tâches ([[idea-framework-metacognitive-genai-2026|Wang et al., 2026]]).
 
+Les comptes rendus des enseignants sur la métacognition exigent le même examen critique que les auto-déclarations des étudiants. Chez 25 enseignants universitaires chinois, une frontière partagée autour de ce que l'IA ne peut pas faire — l'émotion, l'incarnation, la métacognition, le savoir tacite, le jugement — apparaissait dans chaque cas, et la vérification portait des preuves claires dans 24 cas sur 25. Mais les deux codes sont apparus après une question directe sur ce que l'IA ne peut pas remplacer, de sorte que l'accord décrit la manière dont les enseignants ont répondu à cette question plutôt qu'une préoccupation qu'ils auraient soulevée spontanément. Sur la proposition de dégénérescence intellectuelle offerte par le protocole, neuf l'ont approuvée et onze l'ont rendue conditionnelle. Le constat est une mise en garde méthodologique : une croyance qui paraît universelle sous l'effet d'une invite peut être un artefact de l'invite ([[qiang-teachers-metacognitive-defense-offloading-2026|Qiang & Wang, 2026]]).
+
 ## Implications pour la conception des outils
 
 1. **Préserver la « friction » de la pensée :** si l'IA écrit la réflexion, l'élève ne construit pas de compétence métacognitive. Les assistants de journalisation doivent étayer, non rédiger.
@@ -174,6 +176,8 @@ Une [[agentic-ai|IA agentique]] proactive peut déplacer la propre boucle métac
 
 - **Le suivi propre de l'évaluateur est aussi un travail métacognitif.** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl et Leuders (2026)]] soutiennent qu'une inférence [[cognitive-diagnosis|diagnostique]] générée par l'IA n'est pas une preuve brute mais une interprétation déjà faite, si bien que les enseignants doivent l'intégrer à leurs propres observations dans un processus qu'ils nomment *meta-diagnosis* (méta-diagnostic), décidant délibérément de l'accepter, de la rejeter ou de la modifier. Cela place une seconde boucle métacognitive à côté de celle de l'apprenant : non seulement la manière dont l'élève régule sa pensée avec l'IA, mais aussi la manière dont l'enseignant évalue ce que le système affirme au sujet de cette pensée.
 
+La fonction exécutive est le construit voisin, et le corpus contient un résultat qui les sépare nettement. L'étude de [[wilder-adhd-ai-interview-eye-tracking-2025|Wilder et Stratchan]] portant sur 46 étudiants universitaires présentant un TDAH a constaté qu'une mesure de la flexibilité cognitive par tâche prédisait la performance à l'entretien, tandis que la sous-échelle d'autorégulation du MSLQ ne la prédisait pas (p = 0.312). Savoir comment l'on se régule n'est pas la même chose que pouvoir changer de stratégie sous charge, et une page sur la [[executive-function|fonction exécutive]] détient le versant capacité de cette distinction. Le cadre de [[sidorkin-extended-executive-cognition-2025|Sidorkin]] prend la direction opposée, en traitant la répartition de l'effort entre travail humain et travail machine comme un résultat métacognitif en soi.
+
 ## Idées fausses courantes
 
 - **« L'assistance par l'IA laisse intacte la capacité sous-jacente. »** Les étudiants ayant utilisé une assistance par l'IA pour rédiger un essai étaient **83% à ne pas pouvoir citer de passages de leurs propres essais, contre 11% chez les non-utilisateurs**, ce qui indique **qu'ils ne se sont pas engagés sur le contenu pendant la production**. C'est le processus de production qui porte l'engagement, et le contourner se voit plus tard.
@@ -195,6 +199,7 @@ Une [[agentic-ai|IA agentique]] proactive peut déplacer la propre boucle métac
 - [[cognitive-surrender]]
 
 - [[reflection]]
+- [[executive-function]]
 
 ## Articles liés
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — un atelier de littératie de l'IA de deux heures a modifié la régulation de l'interaction avec le LLM chez des élèves de collège, contrairement à leur métacognition auto-déclarée (Clerc et al. 2026)
@@ -242,3 +247,5 @@ Une [[agentic-ai|IA agentique]] proactive peut déplacer la propre boucle métac
 - [[fan-metacognitive-offloading-sync-model-2026]] — Le modèle SYNC : délestage métacognitif contre chargement métacognitif, et performance de tâche découplée de l'apprentissage durable (Fan et coll. 2026)
 - [[guo-overreliance-genai-feedback-2026]] — Le suivi ne bloque pas la voie du délestage autant qu'il ne la reroute
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Quand le suivi est omis, et ce que cela coûte
+- [[wilder-adhd-ai-interview-eye-tracking-2025]] — La flexibilité cognitive prédit le niveau à l'entretien ; l'autorégulation auto-déclarée, non
+- [[sidorkin-extended-executive-cognition-2025]] — La cognition exécutive étendue comme résultat d'apprentissage (cadre)

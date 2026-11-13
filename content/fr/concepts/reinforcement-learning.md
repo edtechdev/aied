@@ -11,7 +11,7 @@ level: [special education, k 12, higher ed]
 confidence: medium
 
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -39,11 +39,11 @@ ai_assist:
 
 ## Introduction
 
-### Comment fonctionne l'apprentissage par renforcement dans l'AIED
+## Comment fonctionne l'apprentissage par renforcement dans l'AIED
 
 L'apprentissage par renforcement (RL) entraîne un agent en récompensant le comportement désiré — l'agent apprend une politique qui maximise la récompense cumulée par essais et erreurs. Dans l'[[ai-education|IA en éducation]], l'apprentissage par renforcement sert à entraîner des agents de tutorat et des compagnons d'apprentissage dont les décisions s'enchaînent au fil d'une session — quel indice donner, quand augmenter la difficulté, comment rythmer la pratique — plutôt que de résoudre une réponse à la fois. Cela rend l'apprentissage par renforcement bien adapté à l'[[adaptive-learning|apprentissage adaptatif]] et à l'[[intelligent-tutoring|tutorat intelligent]], là où des décisions pédagogiques à long horizon comptent.
 
-### Applications documentées dans la base de connaissances
+## Applications documentées dans la base de connaissances
 
 - **Apprentissage par renforcement aligné sur la pédagogie.** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] utilise une chaîne RL-SFT-RL pour entraîner un modèle qui *guide* plutôt qu'il ne répond, en alignant la récompense sur des objectifs pédagogiques ; [[special-r1-rl-special-education]] applique l'apprentissage par renforcement à la conception de tuteurs pour l'[[special-education|éducation spécialisée]].
 - **L'apprentissage par renforcement bat l'affinage supervisé pour le respect des consignes pédagogiques.** L'entraînement de LearnLM a montré que l'apprentissage par renforcement fondé sur les préférences était significativement plus efficace que le SFT seul, parce que les jugements de préférence captent des distinctions dépendantes du contexte sur de longues conversations, que des données supervisées étiquetées par consignes ne traitent que partiellement ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
@@ -53,11 +53,11 @@ L'apprentissage par renforcement (RL) entraîne un agent en récompensant le com
 
 - **Apprentissage par renforcement à long horizon pondéré par la sécurité.** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et coll., 2026)]] optimise des rencontres cliniques entières de 60 tours de parole — bien au-delà des horizons de ≤12 tours des [[conversational-ai|systèmes de dialogue]] contemporains — et l'entraînement contre des patients simulés adversariaux, avec une récompense alignée sur la sécurité, a élevé de 7,0% la précision du diagnostic et réduit d'environ un tiers les taux de signaux d'alerte manqués.
 
-### Preuves à l'échelle du domaine
+## Preuves à l'échelle du domaine
 
 Une revue systématique [[meta-analysis-systematic-review|aux normes PRISMA]] [[riedmann-reinforcement-learning-education-review-2026|de l'apprentissage par renforcement dans l'éducation (Riedmann, Schaper et Lugrin, 2025)]] a synthétisé 89 études (2000–2024), constatant une forte croissance après 2016 des applications d'[[adaptive-learning|apprentissage adaptatif]] et de [[intelligent-tutoring|tutorat]], concentrées dans les STEM (notamment l'[[math-education|enseignement des mathématiques]]). Elle rapporte que l'apprentissage par renforcement sans modèle dominait (n = 72), le Q-learning étant l'algorithme le plus courant, et que pourtant l'apprentissage par renforcement classique était plus constamment efficace que l'apprentissage par renforcement profond (61% contre 36% des articles montrant une supériorité significative). L'adaptation se divisait en mécanismes de planification de contenus (n = 53) et de guidance (n = 36), l'apprentissage par renforcement battant plus souvent les références sur la guidance, et le gain d'apprentissage — en particulier le gain d'apprentissage normalisé — était la source de récompense la plus efficace. La revue avertit aussi que plus de la moitié des études (n = 54) ont sauté les tests statistiques, de sorte que la croissance du domaine a dépassé sa rigueur méthodologique.
 
-### Lien avec la base de connaissances
+## Lien avec la base de connaissances
 
 L'apprentissage par renforcement sous-tend une grande partie de la conception moderne d'[[agentic-ai|IA agentique]] et d'[[intelligent-tutoring|tutorat intelligent]], là où l'agent doit optimiser l'apprentissage à long terme plutôt qu'une seule réponse correcte. Il se relie à l'[[llm-training-and-fine-tuning|entraînement et à l'affinage des LLM]] (l'apprentissage par renforcement comme méthode d'entraînement), à l'[[scaffolding|étayage]] (une conception de la récompense qui préserve la lutte productive) et à l'[[self-regulated-learning|apprentissage autorégulé]] (des agents qui aident les apprenants à réguler leur propre stratégie). Parce que la conception de la récompense encode des valeurs éducatives, la recherche sur l'apprentissage par renforcement en AIED est étroitement liée à la [[pedagogical-safety|sécurité pédagogique]] et aux considérations d'équité d'un comportement de tuteur [[equity-in-ai-education|équitable]].
 

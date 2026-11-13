@@ -8,7 +8,7 @@ pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -70,14 +70,6 @@ La résolution de problèmes est le résultat appliqué de la [[critical-thinkin
 
 - Mesurer la compétence de [[collaborative-learning|résolution de problèmes collaborative (CPS)]] requiert typiquement de coder des comportements issus de données de processus de tâches simulées en compétences CPS spécifiques. Le [[prompt-engineering|pilotage contextualisé]] de modèles de langage pré-entraînés peut automatiser ce codage, en modélisant les dépendances contextuelles et en fusionnant les capacités cognitives et sociales pour atteindre une performance supérieure à de solides lignes de base sur les jeux de données de tâches CPS — répondant au caractère laborieux du codage manuel et permettant une évaluation à grande échelle et en temps réel.
 
-## Idées fausses courantes
-
-**« Une IA qui aide les étudiants à explorer des perspectives les aide à penser. »** Le même comportement soutient deux issues très différentes : les outils d'IA aident les étudiants à explorer de multiples perspectives et à générer leurs propres problèmes, et ils peuvent aussi encourager la paresse métacognitive. La question qui tranche est de savoir si c'est l'étudiant qui fait le cadrage ou s'il le reçoit — un système qui fournit des perspectives candidates a accompli l'étape générative que l'exercice existait pour exiger.
-
-**« La résolution de problèmes est la cible, donc la formulation de problèmes est un bonus. »** C'est dans la formulation que se construit le transfert, parce qu'elle exige de l'apprenant qu'il construise la structure plutôt qu'il n'opère à l'intérieur d'une structure fournie par le système. Un [[curriculum-design|curriculum]] qui ne fournit jamais que des problèmes bien posés entraîne la performance sur des problèmes bien posés, ce qui n'est pas la condition que les étudiants rencontrent ensuite.
-
-**« La simulation de la résolution de problèmes collaborative se substitue à la collaboration. »** Une simulation reproduit le schéma d'interaction, et la compétence en jeu est la régulation d'un problème conjoint par des participants réellement présents. Les agents propres à chaque participant qui modélisent de vrais collaborateurs sont un instrument de recherche pour étudier cette régulation — utiles par ce qu'ils révèlent du processus, et non un moyen de donner aux étudiants la pratique sans les pairs.
-
 ## Implications pour la pratique
 
 **Pour les enseignants**
@@ -94,6 +86,14 @@ La résolution de problèmes est le résultat appliqué de la [[critical-thinkin
 **Pour les chercheurs**
 
 - Les simulations d'agents propres à chaque participant sont un instrument solide pour étudier la régulation collaborative. Rapportez-les comme tel, et non comme une preuve sur la collaboration étudiante non supervisée.
+
+## Idées fausses courantes
+
+**« Une IA qui aide les étudiants à explorer des perspectives les aide à penser. »** Le même comportement soutient deux issues très différentes : les outils d'IA aident les étudiants à explorer de multiples perspectives et à générer leurs propres problèmes, et ils peuvent aussi encourager la paresse métacognitive. La question qui tranche est de savoir si c'est l'étudiant qui fait le cadrage ou s'il le reçoit — un système qui fournit des perspectives candidates a accompli l'étape générative que l'exercice existait pour exiger.
+
+**« La résolution de problèmes est la cible, donc la formulation de problèmes est un bonus. »** C'est dans la formulation que se construit le transfert, parce qu'elle exige de l'apprenant qu'il construise la structure plutôt qu'il n'opère à l'intérieur d'une structure fournie par le système. Un [[curriculum-design|curriculum]] qui ne fournit jamais que des problèmes bien posés entraîne la performance sur des problèmes bien posés, ce qui n'est pas la condition que les étudiants rencontrent ensuite.
+
+**« La simulation de la résolution de problèmes collaborative se substitue à la collaboration. »** Une simulation reproduit le schéma d'interaction, et la compétence en jeu est la régulation d'un problème conjoint par des participants réellement présents. Les agents propres à chaque participant qui modélisent de vrais collaborateurs sont un instrument de recherche pour étudier cette régulation — utiles par ce qu'ils révèlent du processus, et non un moyen de donner aux étudiants la pratique sans les pairs.
 
 ## Concepts liés
 - [[critical-thinking]]

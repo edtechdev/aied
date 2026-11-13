@@ -10,7 +10,7 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 
 ## Introduction
 
-### Les grands modèles de langue comme moteur de l'AIED
+## Les grands modèles de langue comme moteur de l'AIED
 
 Les grands modèles de langue sont le concept le plus référencé dans la base de connaissances (plus de 60 articles) parce qu'ils sous-tendent presque toutes les applications d'IA éducative :
 
@@ -58,7 +58,7 @@ Les grands modèles de langue sont le concept le plus référencé dans la base 
 - **Vérification séparée de la génération — avec des modes de défaillance corrélés.** [[eduguard-safe-rag-llm-tutor|Hossain et al. (2026)]] limitent la recherche documentaire du tuteur aux supports de cours approuvés par l'enseignant et acheminent les affirmations à travers un vérificateur DeBERTa-v3-large-MNLI architecturalement distinct, mais avertissent que les deux modèles partagent un large entraînement sur le web et peuvent défaillir de manière corrélée, et que le vérificateur ne peut contrôler une trace de code sans l'exécuter.
 - **Changement de modèle dans l'évaluation (2017–2024) :** la revue de cadrage de Morley et al. sur la correction automatique de questions de [[science-education|sciences]] à réponse courte retrace le déplacement du champ depuis l'ajustement fin de plus petits modèles [[educational-nlp|BERT]] (dominants jusqu'en 2021) vers la sollicitation de grands modèles de langue plus importants (GPT-1/2/3.5/4) à partir d'environ 2022 — adoptée via l'[[prompt-engineering|ingénierie des invites]] plutôt que l'ajustement fin — avec des modèles augmentés au domaine, des invites tenant compte du barème, et la chaîne de pensée faisant monter la précision. Or les modèles GPT ont rarement été évalués contre BERT sur des corpus standard, peu de correcteurs automatiques pouvaient expliquer leurs notes, et le [[bias-mitigation|biais]] a rarement été examiné, des mises en garde qui valent pour l'évaluation par grands modèles de langue en général ([[auto-marking-short-answer-science-2026]]).
 
-### Recherche propre à des modèles
+## Recherche propre à des modèles
 
 La base de connaissances couvre à la fois les grands modèles de langue généralistes (GPT-4, Claude) et les adaptations propres à l'éducation. [[cstutorbench-slm-tutors|Les repères de référence sur les petits modèles de langue]] comparent les performances des petits modèles de langue pour le tutorat, et [[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et coll. (2026)]] soutiennent que les petits modèles de langue sont architecturalement appropriés pour le tutorat [[agentic-ai|agentique]] lorsqu'ils sont déployés comme planificateurs augmentés d'outils — les outils déterministes portent la charge qu'un petit modèle devrait autrement traiter implicitement — le contrôle pédagogique résidant dans la politique d'escalade plutôt que dans le modèle. La recherche sur l'[[educational-llm-alignment|alignement éducatif]] porte sur la manière de rendre les grands modèles de langue pédagogiquement appropriés. Une étude de classe menée sur trois familles de modèles de pointe — [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash et Connell Pensky (2025)]] — a montré que ChatGPT, Gemini ou Claude pouvaient servir de partenaires de critique collaborative pour l'écriture argumentative : sur un semestre d'essais itératifs, les étudiants se sont améliorés en qualité d'argumentation, en [[prompt-engineering|ingénierie des invites]], et en réponse à la [[ai-feedback-quality|rétroaction de l'IA]] d'environ un écart-type complet chacun (tous p < ,001) et se sont fortement engagés (87,8 % répliquant aux affirmations du grand modèle de langue), ce qui positionne les grands modèles de langue généralistes comme des partenaires viables d'[[collaborative-learning|apprentissage collaboratif]] plutôt que comme de simples générateurs de réponses.
 

@@ -7,7 +7,7 @@ technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 L'IRT traite l'aptitude (θ) et les paramètres des items (difficulté, discrimination, parfois devinette) comme estimés conjointement à partir des schémas de réponses, plutôt que de traiter une note brute comme la mesure. Cela rend possible la comparaison des apprenants sur une échelle commune, la sélection adaptative des items, et l'estimation de la précision pour chaque personne plutôt que globalement.
 
-### Comment l'IRT apparaît dans la recherche
+## Comment l'IRT apparaît dans la recherche
 
 - **Difficulté prédite par l'IA :** la [[llm-item-difficulty-prediction|prédiction de la difficulté des items par les grands modèles de langue]] emploie des modèles de langue pour estimer la difficulté des items, estimation qui doit être validée contre des paramètres IRT ajustés empiriquement.
 - **Calibration psychométrique :** la [[llm-psychometric-calibration-cdp|calibration psychométrique par les grands modèles de langue]] aligne l'évaluation fondée sur les modèles sur la mesure fondée sur l'IRT, afin que les réponses générées par l'IA préservent les propriétés de mesure.
@@ -63,7 +63,7 @@ L'IRT traite l'aptitude (θ) et les paramètres des items (difficulté, discrimi
 - **Combien rarement l'IRT ancre la validation des instruments :** une appréciation des instruments de [[ai-literacy|littératie en IA]] des [[teacher-role|enseignants]] quantifie l'absence de l'IRT plutôt que son usage. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore et Maat (2026)]] ont noté 33 instruments au regard d'une matrice de décision adaptée de COSMIN et de Terwee et coll. (2007) ; la validité structurelle était forte, 24 instruments (72.7%) étant de niveau A grâce à l'analyse factorielle confirmatoire, la modélisation PLS-SEM ou la modélisation IRT, mais aucun n'employait l'IRT ou Rasch comme donnée probante primaire, et seulement cinq instruments (15.2%) rapportaient des données probantes d'invariance de mesure ou de fonctionnement différentiel des items. Les auteurs plaident pour l'IRT et les tâches de performance aux côtés de l'[[self-assessment|autoévaluation]], afin de séparer la capacité validée de la confiance déclarée.
 - **Une alternative causale à l'IRT associative.** [[causal-modeling-competency-assessment-2026|Mangili et coll. (2026)]] soutiennent que l'IRT et les modèles d'apprenant fondés sur les réseaux bayésiens ne peuvent exprimer ni interventions ni contrefactuels, et élicitent plutôt des équations structurelles auprès d'experts ; sur une batterie de tests adaptatifs de 109 étudiants, le modèle élicité était légèrement moins prédictif (−287 contre −277 de log-vraisemblance de test), mais il supportait des requêtes contrefactuelles sur l'aide.
 
-### Connexions
+## Connexions
 
 L'IRT est un fondement de la [[educational-measurement|mesure en éducation]] et de l'[[assessment-validity|validité de l'évaluation]], sous-tend l'[[adaptive-learning|apprentissage adaptatif]] (sélection adaptative des items) et la [[student-modeling|modélisation de l'étudiant]], et se relie à l'[[psychometrically-aware-ai|IA consciente de la psychométrie]] (évaluation par l'IA alignée sur la théorie de la mesure) et au [[knowledge-tracing|traçage des connaissances]]. Elle intervient dans la [[llm-difficulty-calibration-programming-exams-2026|calibration de la difficulté par les grands modèles de langue]] pour l'évaluation en programmation.
 

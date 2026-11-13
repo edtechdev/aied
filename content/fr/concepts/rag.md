@@ -9,7 +9,7 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: concepts/rag
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 ## Introduction
 
-### Comment la RAG est utilisée dans l'éducation
+## Comment la RAG est utilisée dans l'éducation
 
 - **Récupération propre à un domaine, sensible à la notation :** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] indexe des manuels, 847 diapositives de cours, 312 exercices résolus, 156 canevas de démonstration détaillés et 89 fiches de complexité pour des cours théoriques de [[cs-education|sciences informatiques]], en ajoutant la reconnaissance d'entités mathématiques et un reclassement sensible à la notation ; il a répondu aux 179 questions d'examen rédigées par l'enseignant dans le délai de 240 secondes (moyenne de 38,0 secondes), mais a produit un BLEU-4 = 0,0000 et un score de grille de 0,7620, ce qui illustre à la fois la valeur de l'architecture et les limites des métriques utilisées pour la juger.
 - **Réduction des hallucinations :** [[eduguard-safe-rag-llm-tutor|EduGuard]] et [[eduzone-llm-safety-k12|EduZone]] utilisent la RAG pour maintenir les réponses des tuteurs IA ancrées dans des contenus éducatifs vérifiés, réduisant le [[hallucination-risk|risque d'hallucination]].
@@ -53,7 +53,7 @@ ai_assist:
 
 - **Récupérer sur un résumé plutôt que sur les mots de l'étudiant (LC-RAG).** Le dialogue collaboratif n'a souvent aucun lien sémantique avec la base de connaissances : les étudiants disent « mets ce bloc de position là », si bien qu'un récupérateur fondé sur le seul discours renvoie des extraits hors sujet, l'exemple des auteurs étant un passage sur un dessin animé des années 1990 tiré d'un manuel de physique et d'informatique. La RAG contextualisée par le journal fait résumer par un LLM chaque segment de travail à partir de son discours et du journal de l'environnement (quel composant du modèle est en cours d'édition), puis récupère sur ce résumé. Sur 216 segments de modélisation collaborative et cinq modèles d'embedding jugés par GPT-4o, elle a battu la référence fondée sur le discours pour quatre modèles, avec des taux de victoire de 0,403 à 0,620, et récupéré un ensemble plus resserré d'extraits (167 extraits uniques contre 267 sur 7 386). Elle a perdu avec un modèle parce que les résumés devenaient plus spécifiques à la tâche que ne l'était le corpus général du manuel : la portée de la requête et celle du corpus doivent être appariées délibérément ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
 
-### RAG et affinage
+## RAG et affinage
 
 La RAG joue un rôle complémentaire de l'affinage des [[llm|LLM]] — la récupération fournit un ancrage à jour et propre au domaine sans réentraînement, tandis que l'affinage intègre des comportements [[pedagogy|pédagogiques]]. Les recherches de la base de connaissances explorent les deux approches et leur combinaison.
 

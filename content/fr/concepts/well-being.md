@@ -1,7 +1,7 @@
 ---
 title: "Le bien-être"
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-11T18:05:00-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-11-11T15:40:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ ai_assist:
 
 Le bien-être en éducation est multiforme : il inclut le bien-être émotionnel (affect positif, faible détresse), le bien-être psychologique (finalité, autonomie, compétence) et le bien-être social (appartenance, relations positives). À l'ère de l'IA, le bien-être importe parce que l'IA peut reconfigurer l'apprentissage de manières qui affectent ces dimensions — de la réduction de la confiance des étudiants et de l'augmentation de l'anxiété au sujet de l'[[academic-integrity|intégrité académique]], jusqu'au fait de nourrir ou de miner l'[[student-engagement|engagement]] et l'appartenance. Les préoccupations quant à l'impact de l'IA sur les compétences socioémotionnelles, le bien-être, la sociabilité et le sentiment de confiance et d'empathie des étudiants (soulevées par l'OCDE et d'autres) ont positionné le bien-être comme une considération clé de l'intégration responsable de l'IA.
 
-### Comment le bien-être apparaît dans la recherche
+## Comment le bien-être apparaît dans la recherche
 
 - **La [[ai-literacy|littératie en IA]] et l'apprentissage socioémotionnel :** les [[sec-ai-literacy-narrative-review-2026|recherches intégrant le SEC à la littératie en IA]] soutiennent que nourrir l'intelligence émotionnelle et le bien-être des éducateurs et des étudiants est essentiel pour naviguer les environnements d'apprentissage médiatisés par l'[[sociocultural-learning|IA]], en lien avec l'[[social-emotional-learning|apprentissage socioémotionnel]] et les dimensions affectives de l'IA.
 - **L'anxiété liée à l'IA et l'expérience étudiante :** les études sur l'engagement des étudiants avec l'IA (par exemple les [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|recherches fondées sur la TAD]]) montrent que l'usage de l'IA est entrelacé avec l'anxiété, la confiance et l'assurance, le bien-être des étudiants étant affecté par les préoccupations relatives à l'intégrité académique, à la [[creativity|créativité]] et à la [[cognitive-offloading|délégation cognitive]].
@@ -71,7 +71,7 @@ Un modèle d'équations structurelles portant sur 502 enseignants-chercheurs uni
 - **L'éthique et l'IA responsable :** le bien-être est une considération éthique centrale dans l'[[ai-education|IA en éducation]], en lien avec l'[[ethics|éthique]] et l'impératif de concevoir une IA qui soutienne plutôt qu'elle ne nuise à la santé mentale et à l'appartenance des apprenants.
 - **L'anxiété liée aux détecteurs comme risque pour le bien-être.** [[sovereign-hive-titl-further-education-2026|Herron (2026)]] nomme la « flagxiety » — l'anxiété induite par la crainte d'allégations non fiables de la part des [[ai-detection|détecteurs d'IA]] — et soutient que les apprenants marginalisés de l'enseignement supérieur court, dont l'unicité cognitive peut être lue comme une faute, ont besoin d'une régulation relationnelle plutôt que d'une interface non régulée susceptible de déclencher un arrêt cognitif.
 
-### Le bien-être comme considération de conception
+## Le bien-être comme considération de conception
 
 Un thème récurrent est que le bien-être devrait être une considération délibérée de conception dans l'IA en éducation, et non une pensée tardive. Cela signifie : concevoir l'IA pour qu'elle soutienne les relations humaines plutôt qu'elle ne les remplace ; garantir que les étudiants peuvent maintenir leur agentivité et leur confiance, plutôt que de faire l'expérience d'une [[anxiety-and-stress|anxiété induite par l'IA]] ou d'une dépendance excessive ; soutenir la capacité et le bien-être des éducateurs à mesure qu'ils intègrent l'IA ; et [[ai-ed-evaluation|évaluer les systèmes d'IA]] non seulement pour leurs [[learning-gains|résultats d'apprentissage]], mais aussi pour leurs effets sur le bien-être des étudiants et des enseignants. Les [[research-methods-aied|recherches]] relient le bien-être à la [[motivation|motivation]], à l'[[self-regulated-learning|apprentissage autorégulé]] et à l'[[student-experience|expérience étudiante]] (appartenance et engagement). [[daoism-ai-education-philosophy-2026|Xie (2026)]] plaide pour une finalité éducative assortie : l'idéal antagoniste du « Zhenren » (真人) taoïste remplace l'optimisation sans friction par une « intégralité cultivée », réimaginant l'apprentissage comme l'intégration harmonieuse de soi, de la société et du cosmos, et insistant sur le fait que « aucun étudiant n'est un simple jeu de données à gérer, mais un être entier capable d'atteindre l'équanimité ».
 
@@ -79,7 +79,7 @@ Un thème récurrent est que le bien-être devrait être une considération dél
 
 Un recadrage conceptuel ancre le soutien à la [[self-regulated-learning|régulation des émotions]] dans l'activité physique et l'écologie du campus plutôt que dans la seule détection de l'affect : aucun canal expressif unique n'identifie la détresse sans contexte, si bien que l'IA devrait soutenir la régulation par l'exercice, tandis que les enseignants et les conseillers en gardent l'interprétation, et la surveillance de l'affect devient coercitive dès lors qu'elle est liée à la présence en cours ou à la notation ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]]).
 
-### Connexions avec les concepts liés
+## Connexions avec les concepts liés
 
 Le bien-être est en lien avec l'[[student-experience|expérience étudiante]] (comme dimension de l'expérience globale des apprenants), l'[[social-emotional-learning|apprentissage socioémotionnel]] et l'[[affective-computing|informatique affective]] (les compétences émotionnelles que l'IA recoupe), l'[[ethics|éthique]] (comme considération éthique centrale), la [[motivation|motivation]] et l'[[self-regulated-learning|apprentissage autorégulé]] (le bien-être les soutient et est soutenu par eux), la [[teacher-ai-competency|compétence des enseignants en IA]] (la capacité et le bien-être des éducateurs), et l'[[higher-ed|enseignement supérieur]] et le [[k-12|primaire et secondaire]] comme cadres où l'IA façonne le bien-être.
 

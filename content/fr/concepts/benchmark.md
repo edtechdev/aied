@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ Les référentiels servent de fondement probant à la [[ai-education|recherche e
 - **[[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]** ancre l'évaluation des tuteurs dans la littérature de cas documentée plutôt que dans des personas simulés : 923 dialogues issus de cas d'éducation spécialisée et de psychologie de l'éducation, où le plus fort de 11 modèles a rencontré une intervention documentée dans 55.8% des cas ouverts.
 - **L'adaptation à l'apprenant comme critère explicite du référentiel.** Le Teaching Monster Challenge évalue l'adaptation à un persona d'apprenant spécifié, mais son juge LLM automatisé n'a séparé qu'une faible queue de distribution — les meilleurs systèmes ont atteint presque son plafond et son classement était en désaccord avec la préférence de la foule (Spearman ρ = −0.17) ([[teaching-monster-pck-benchmark-2026|Lin et al. (2026)]]).
 
-### Why benchmarks matter in AIED
+## Why benchmarks matter in AIED
 
 Les référentiels rejoignent l'[[ai-ed-evaluation|évaluation d'une intervention d'IA en éducation]] et l'[[assessment-validity|validité de l'évaluation]] — sans référentiels rigoureux, les affirmations sur l'efficacité du [[intelligent-tutoring|tutorat par IA]] sont invérifiables. Ils croisent aussi la [[bias-mitigation|réduction des biais]], car la conception d'un référentiel peut encoder ou amplifier les biais. La tension entre performance sur référentiel et utilité réelle est explorée dans de multiples articles, rejoignant les préoccupations de [[transfer-of-learning|transfert des apprentissages]] dans les applications d'[[generative-ai|IA générative]].
 

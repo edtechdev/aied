@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introduction
 
-### CT in an AI-era classroom
+## CT in an AI-era classroom
 
 Les articles reliés de la base de connaissances convergent vers une affirmation centrale : la pensée informatique (CT) est le socle conceptuel dont les étudiants ont besoin pour s'engager de façon critique avec l'IA, et c'est aussi la compétence que l'apprentissage soutenu par l'IA, bien conçu, approfondit le plus directement. Ci-dessous, les données probantes sont regroupées en quatre thèmes ancrés dans les articles reliés.
 
@@ -56,7 +56,7 @@ Les compétences durables se déplacent dès lors que la mise en œuvre est auto
 
 - **Un instrument validé situe là où la pensée informatique est la plus difficile.** Un test de pensée informatique à 34 items, construit avec une conception centrée sur les données probantes et validé par la théorie de la réponse à l'item auprès de 461 étudiants en programmation assistée par IA, a concentré la difficulté dans la représentation des données, le séquencement des opérateurs logiques et les structures de boucles, plutôt que de la répartir uniformément sur le programme ([[zhang-ct-ai-training-test-2026|Zhang et Zhang (2026)]]).
 
-### CT and the shift from AI consumers to producers, creators, and designers
+## CT and the shift from AI consumers to producers, creators, and designers
 
 Un objectif central pour la pensée informatique à l'ère de l'IA est de faire passer étudiants et enseignants au-delà de la *consommation passive* des productions de l'IA vers la *création, la construction et la conception* avec et pour l'IA — un agenda qui aligne la pensée informatique sur l'apprentissage constructionniste (apprendre en fabriquant). Les articles reliés de la base de connaissances rendent de plus en plus explicite ce tournant vers le producteur/créateur/concepteur. La [[ai-writes-code-student-writes-model-2026|recherche sur la paternité du modèle]] reformule l'apprentissage par la construction avec l'IA générative comme un processus mesurable de « paternité du modèle » — les étudiants conçoivent, déboguent et itèrent sur des modèles d'IA plutôt que de se contenter de consommer du code ou des réponses générés par l'IA. [[code-to-learn-genai-artifact-construction-2026|Le cadre CtL-GenAI]] l'opérationnalise comme un [[constructivist|constructionnisme]] pour l'ère de l'IA générative, traitant les artefacts que les étudiants construisent avec l'IA comme le moteur du développement de la pensée informatique. La [[computational-thinking-ai-agent-creation|pensée informatique par la création d'agents d'IA]] montre que concevoir, et pas seulement utiliser, des agents d'IA exerce directement la décomposition, l'abstraction et le raisonnement algorithmique.
 
@@ -66,11 +66,11 @@ L'aboutissement pratique est que l'enseignement de la pensée informatique devra
 
 Réutiliser les modèles d'autrui relève de la même posture de producteur : mettre en œuvre un modèle d'IA publié — le sélectionner, l'installer, l'exécuter et le valider — peut s'enseigner comme une compétence structurée et apprenable, assortie d'une voie de repli pour chaque défaillance anticipée ; trois étudiants en licence de [[chemistry-education|chimie]] sans aucune formation en programmation ont ainsi reproduit et étendu un modèle de prédiction enzyme-substrat en quatre mois ([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
-### Practical guidance
+## Practical guidance
 
 Pour les éducateurs, le message constant est que la pensée informatique se développe par un engagement *explicite, étayé et observable* plutôt que par un usage passif de l'IA. Associez la robotique à un rattachement explicite des concepts de pensée informatique au programme ; utilisez les LLM pour la [[simulation]], le contrôle en langage naturel et l'évaluation extensible de la croissance de la pensée informatique, tout en réservant le jugement humain à des construits comme la Pensée Systémique ; et refondez les évaluations pour mettre l'accent sur l'évaluation et le diagnostic des productions de l'IA plutôt que sur la génération brute. Quel que soit le cadre — le jeu débranché en petite enfance, les robots en [[stem-education|STIM]] au secondaire, ou les Tuteurs Virtuels dans l'[[higher-ed|enseignement supérieur]] — structurez l'activité pour que les étudiants doivent raisonner sur la décomposition, le schéma, l'abstraction et l'algorithme, plutôt que de recevoir des solutions toutes faites.
 
-### Connections to related concepts
+## Connections to related concepts
 
 La pensée informatique est le fondement cognitif partagé qui sous-tend l'[[ai-literacy|IA literacy]] et la [[critical-thinking|pensée critique]], le noyau curriculaire de l'[[cs-education|enseignement de l'informatique]] et de l'informatique du [[k-12|primaire et secondaire]], et la cible conceptuelle que la [[educational-robotics|robotique éducative]], l'[[game-based-learning|apprentissage par le jeu]] et l'[[project-based-learning|apprentissage par projets]] sont le mieux conçus pour servir. Elle est approfondie par les [[llm|grands modèles de langue]] et l'[[generative-ai|IA générative]] lorsque ceux-ci sont utilisés comme outils d'étayage, et c'est la compétence que les taxonomies d'idées fausses des étudiants et les évaluations attentives à la pensée informatique visent à mesurer. Les enseignants la développent par la [[teacher-education|formation des enseignants]] et la [[professional-training|formation professionnelle]], et elle se transfère à travers les domaines, y compris la [[physics-education|physique]] et les [[stem-education|STIM]] au sens large.
 

@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
 translation_of: concepts/educational-technology-developers
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ Le développeur se situe un niveau au-dessous de la plateforme. [[edtech-platfor
 
 Le rôle se distingue aussi de ses voisins. Le [[learning-design|conception pédagogique]] et la [[curriculum-design|conception de programmes]] conçoivent un cours pour une cohorte connue ; un développeur de technologie conçoit un produit que de nombreux cours, enseignés par des gens qu'il n'a jamais rencontrés, utiliseront — c'est pourquoi les valeurs par défaut, la configurabilité et la documentation portent un poids pédagogique. L'[[educational-development|développement éducatif]] soutient le personnel enseignant d'une institution depuis l'intérieur ; les développeurs se tiennent à l'extérieur ou aux côtés, fournissant les outils que ce personnel est ensuite invité à adopter. Et la [[design-based-research|recherche fondée sur la conception]] est le standard de données probantes que l'on demande de plus en plus à ces développeurs de satisfaire : itératif, contextuel, et rapporté avec ses propres limites.
 
-### Qui construit l'IA éducative
+## Qui construit l'IA éducative
 
 **Des laboratoires de recherche bâtissant une infrastructure publique.** [[oatutor-open-source-adaptive-tutor-2023|OATutor]] a été construit à l'UC Berkeley comme le premier système de tutorat adaptatif entièrement à code ouvert fondé sur des principes de [[intelligent-tutoring|STI]] : une base de code sous licence MIT assortie d'une bibliothèque d'algèbre sous licence Creative Commons, d'une estimation de maîtrise par [[knowledge-tracing|traçage bayésien des connaissances]], d'une infrastructure de tests A/B et d'une prise en charge de LTI. Sa raison d'exister est une décision de conception — des plates-formes propriétaires avaient cantonné la recherche sur l'[[adaptive-learning|apprentissage adaptatif]] à des systèmes fermés — et sa voie d'élaboration en est une autre : 16 créateurs ont produit un cours d'algèbre de niveau collège en six mois, après 2.27 heures de formation.
 
@@ -55,13 +55,13 @@ Le rôle se distingue aussi de ses voisins. Le [[learning-design|conception péd
 
 **Les bâtisseurs au sein des institutions.** [[moodle-ai-tutoring-deep-learning]] intègre le [[llm|tutorat par LLM]] dans un LMS existant plutôt que d'expédier un outil autonome, abaissant le seuil d'adoption que la littérature sur les STI nomme comme une raison pour laquelle les systèmes échouent en pratique. [[savvy-student-attention-video-learning]] transforme des signaux d'attention [[multimodal|multimodaux]] en une interface que les enseignants peuvent lire avant de publier une vidéo. [[instructional-agents-multi-agent-course-gen|Instructional Agents]] automatise les trois premières phases de l'ADDIE au moyen d'agents spécialisés par rôle, et son ablation est une leçon de conception. La référence à agent unique a obtenu les moins bons scores, Full [[human-ai-collaboration|Co-Pilot]] a battu Autonomous de 0.5 à 0.9 points, et l'absence de différence de qualité entre les moteurs a fait du moins coûteux le choix par défaut.
 
-### Sur quoi une affirmation de conception peut reposer
+## Sur quoi une affirmation de conception peut reposer
 
 **Le socle de données probantes est plus faible qu'il n'y paraît.** [[oneill-presumed-effective-meta-analysis-2026]] a audité 14 méta-analyses affirmant que l'IA améliore l'éducation et n'a trouvé aucune dont les affirmations étaient justifiées : toutes sauf deux définissaient le traitement comme un outil plutôt que comme une intervention pédagogique, 61% des 59 études primaires examinées présentaient des problèmes de validité, l'hétérogénéité était élevée partout où elle était rapportée, les analyses de modérateurs manquaient de puissance, et le biais de publication n'était jamais évalué de façon valable. Une [[meta-analysis-systematic-review|méta-analyse]] rétractée était encore citée comme faisant autorité par 60% des articles ultérieurs échantillonnés. Pour un développeur, « l'IA améliore l'apprentissage » est une affirmation de catégorie de produit, non un intrant de conception.
 
 **Rapportez l'incertitude et le coût total, et pas seulement l'exactitude.** Pour [[stanbkt-bayesian-knowledge-tracing|StanBKT]], l'inférence bayésienne n'achète rien en prédiction et tout en capacité à dire quels effets étaient crédibles. [[shen-sustainable-ai-knowledge-base-cs-education-2026]] rapporte les ablations de recherche documentaire, l'[[llm-training-and-fine-tuning|ajustement]] conscient de la quantification, la VRAM, l'énergie par requête et l'[[hallucination-risk|hallucination]] mesurées au regard de ressources ouvertes retrouvées — avec la mise en garde des auteurs eux-mêmes selon laquelle le système n'est pas un tuteur validé. C'est la discipline d'[[ai-ed-evaluation|évaluation]] qui rend une affirmation de déploiement vérifiable.
 
-### La co-conception avec les enseignants et les apprenants
+## La co-conception avec les enseignants et les apprenants
 
 **Les explications doivent parler le langage de l'enseignant.** [[xai-teachers-trust-edtech-recommendations-2026]] a mené une expérience intra-sujet auprès de 41 enseignants de [[chemistry-education|chimie]] sur un outil de recommandation par apprentissage automatique : la compréhensibilité, la [[trust|confiance]] et l'acceptation corrélaient positivement, et des explications ancrées dans le domaine, formulées dans le langage des programmes, produisaient une compréhensibilité, une [[trust-calibration|confiance]] apprise et une acceptation significativement plus élevées que des explications fondées sur l'importance des variables. La confiance était aussi dynamique — plusieurs enseignants ont dit que seule l'expérience de classe la réglerait — et l'acceptation dépendait de l'alignement pédagogique et de la réduction de la charge de travail.
 
@@ -69,19 +69,11 @@ Le rôle se distingue aussi de ses voisins. Le [[learning-design|conception péd
 
 **La co-conception à l'échelle institutionnelle.** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]], à l'Open University, a été construit au moyen de six études fondées sur la conception, sur 18 mois, avec 498 étudiants et 20 membres du personnel. Environ 20% étaient initialement sceptiques ; après un usage pratique, 96% voulaient le conserver, et un [[rct|ECR]] exploratoire a montré un temps d'usage double, mais aucune différence significative sur les données de processus d'apprentissage. Les facteurs favorables étaient organisationnels — parrainage par la direction, collaboration entre unités, itération informée par les données — avec des lacunes dans les capacités de pensée systémique.
 
-### Approvisionnement, ouverture et après la fin du financement
+## Approvisionnement, ouverture et après la fin du financement
 
 [[shen-sustainable-ai-knowledge-base-cs-education-2026]] fournit les intrants dont une décision d'approvisionnement a besoin : un plancher matériel de 12 Go de VRAM, un plafond d'exactitude pour un modèle de classe 7B, l'énergie par requête, et un ordonnancement des choix — la recherche documentaire d'abord (sans elle, le modèle obtenait 52.3%, sous une référence TF-IDF), puis l'ajustement fin, puis la compression consciente de la quantification ; la licence ouverte est la condition préalable pour servir un corpus localement. [[reclaiming-epistemic-agency-co-agency-2026]] formule la même décision comme une question de gouvernance : les exigences de transparence font de l'achat une gouvernance épistémologique, la contestabilité et la provenance deviennent des conditions, et les districts disposant des capacités les plus faibles font face à l'exigence la plus élevée. [[credential-cognitive-stewardship-ai-assessment]] ajoute que la gouvernance par le fournisseur n'apparaissait que dans 29% des 30 paquets de politiques audités, qui spécifiaient bien plus aisément ce que l'IA pouvait faire que ce qu'il restait comme preuves d'apprentissage. [[genai-mindtool-generative-learning]] pose la question de conception — le produit encourage-t-il un apprentrentissage *avec* l'outil, ou délègue-t-il le travail cognitif — et [[vocabulary-difficulty-prediction]] montre l'arbitrage en miniature : le [[explainable-ai|modèle boîte noire]] le mieux classé (r > 0.91) était moins explicable que le modèle interprétable (r > 0.77).
 
-## Idées fausses courantes
-
-- **« Les méta-analyses étayent l'argumentaire produit. »** Non, et la raison est précise plutôt qu'affaire de degré. Un audit de **14 méta-analyses** affirmant que l'IA améliore l'éducation a constaté qu'**aucune ne justifiait ses affirmations** — toutes sauf deux échouaient sur la méthode — et qu'une **méta-analyse rétractée était encore citée comme faisant autorité par 60% des articles ultérieurs échantillonnés**. La rétractation s'est propagée plus vite que la correction, ce qui signifie que la littérature qu'une feuille de route risque de citer contient des affirmations que le champ a déjà retirées.
-- **« Ajouter des citations et de la provenance rend un système plus digne de confiance. »** Dans un débat [[agentic-ai|multi-agents]], l'ajout de citations et de signaux d'autorité à la position de l'IA **a fait passer l'abandon d'un jugement correct de 15.0% à 31.8%**. La provenance n'était pas une information neutre : elle rendait la mauvaise réponse plus persuasive. Les indices de crédibilité doivent être des preuves d'exactitude, non une décoration autour d'une affirmation.
-- **« La co-conception avec les utilisateurs valide la conception. »** La co-conception répond à une autre question que l'efficacité. Lorsqu'un outil est co-conçu avec des étudiants et que **96% déclarent vouloir le garder**, c'est un résultat sur l'acceptabilité. Savoir si l'apprentissage s'est amélioré est une mesure distincte, et les deux peuvent pointer en sens opposé sans qu'aucune des deux soit fausse.
-- **« Les agents sont le niveau de capacité suivant. »** L'ablation des [[instructional-agents-multi-agent-course-gen|Instructional Agents]] est le contre-exemple utile : la base mono-agent obtenait le score **le plus mauvais** et la configuration Full Co-Pilot **battait** la configuration autonome. Plus d'autonomie n'était pas la meilleure conception ; l'arrangement en co-pilote l'était. Les choix d'architecture doivent être évalués plutôt que supposés s'améliorer avec la capacité.
-
-## Ce que cela signifie pour la pratique
-
+## Implications pour la pratique
 **Pour les concepteurs et développeurs**
 
 - Fondez une affirmation de conception sur une étude que vous avez lue, non sur une taille d'effet que vous avez citée. Avec 14 méta-analyses auditées échouant sur la méthode et une méta-analyse retirée qui circule encore, le nombre de citations n'est pas un signal de validité.
@@ -93,6 +85,13 @@ Le rôle se distingue aussi de ses voisins. Le [[learning-design|conception péd
 
 - Demandez comment l'outil a été évalué sur la tâche à laquelle vous le destinez, et si l'évaluation était en co-pilote ou autonome. Les deux ne sont pas interchangeables.
 - Demandez quand l'évaluation a eu lieu. Les affirmations de capacité liées à une version de modèle non précisée vieillissent vite et décrivent un système que vous n'exécuterez pas.
+
+## Idées fausses courantes
+
+- **« Les méta-analyses étayent l'argumentaire produit. »** Non, et la raison est précise plutôt qu'affaire de degré. Un audit de **14 méta-analyses** affirmant que l'IA améliore l'éducation a constaté qu'**aucune ne justifiait ses affirmations** — toutes sauf deux échouaient sur la méthode — et qu'une **méta-analyse rétractée était encore citée comme faisant autorité par 60% des articles ultérieurs échantillonnés**. La rétractation s'est propagée plus vite que la correction, ce qui signifie que la littérature qu'une feuille de route risque de citer contient des affirmations que le champ a déjà retirées.
+- **« Ajouter des citations et de la provenance rend un système plus digne de confiance. »** Dans un débat [[agentic-ai|multi-agents]], l'ajout de citations et de signaux d'autorité à la position de l'IA **a fait passer l'abandon d'un jugement correct de 15.0% à 31.8%**. La provenance n'était pas une information neutre : elle rendait la mauvaise réponse plus persuasive. Les indices de crédibilité doivent être des preuves d'exactitude, non une décoration autour d'une affirmation.
+- **« La co-conception avec les utilisateurs valide la conception. »** La co-conception répond à une autre question que l'efficacité. Lorsqu'un outil est co-conçu avec des étudiants et que **96% déclarent vouloir le garder**, c'est un résultat sur l'acceptabilité. Savoir si l'apprentissage s'est amélioré est une mesure distincte, et les deux peuvent pointer en sens opposé sans qu'aucune des deux soit fausse.
+- **« Les agents sont le niveau de capacité suivant. »** L'ablation des [[instructional-agents-multi-agent-course-gen|Instructional Agents]] est le contre-exemple utile : la base mono-agent obtenait le score **le plus mauvais** et la configuration Full Co-Pilot **battait** la configuration autonome. Plus d'autonomie n'était pas la meilleure conception ; l'arrangement en co-pilote l'était. Les choix d'architecture doivent être évalués plutôt que supposés s'améliorer avec la capacité.
 
 ## Concepts liés
 

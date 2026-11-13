@@ -7,7 +7,7 @@ foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-10-30T10:20:00-04:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ Dans la littérature sur l'[[ai-education|IA dans l'éducation]], l'apprentissag
 
 - **Contextualiser la matière elle-même est un geste d'apprentissage situé.** DagFlow-AI génère un jeu de données statistiques construit autour d'un intérêt déclaré par l'étudiant — une étude de cas portait sur l'inquiétude d'une étudiante à propos du changement climatique et de la santé — tout en maintenant fixes les objectifs d'apprentissage et le niveau de compétence ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Accorder les *données* à l'apprenant, plutôt que l'explication, traite le contexte de la pratique comme ce qui doit être situé. Les auteurs concèdent la limite : des données synthétiques ne peuvent enseigner la collecte de données, la mesure ou la conception d'étude, si bien que le contexte est réel pour l'apprenant mais pas pour le monde.
 
-### L'apprentissage situé comme lentille de conception pour l'IA
+## L'apprentissage situé comme lentille de conception pour l'IA
 
 Les recherches de la base de connaissances traitent l'apprentissage situé non pas comme une simple théorie abstraite, mais comme un cadre concret de conception et d'évaluation de l'IA dans l'éducation :
 

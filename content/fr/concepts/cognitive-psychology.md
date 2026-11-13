@@ -1,13 +1,13 @@
 ---
 title: "Psychologie cognitive"
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-12T14:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -81,6 +81,8 @@ Une expérience de 2026 donne au versant mémoire de cette frontière un mode de
 3. **Respecter les limites de la mémoire de travail.** Appliquez la théorie de la charge cognitive à l'expérience utilisateur de l'IA : réduisez la charge extrinsèque (friction, interfaces surchargées) tout en préservant le traitement pertinent ([[desirable-difficulties|lutte productive]], pratique de récupération) plutôt que de minimiser toute demande cognitive.
 4. **Calibrer la métacognition.** Parce que la [[metacognition|métacognition]] gouverne le moment où les apprenants choisissent de déléguer, enseigner le calibrage (savoir ce qu'on peut réellement faire sans aide) constitue une réponse cognitiviste à la dépendance excessive (voir [[cognitive-offloading|délestage cognitif]]).
 
+Le développement reste hors du périmètre de cette page : les mécanismes décrits ici sont traités comme stables, tandis que la [[developmental-psychology|psychologie du développement]] demande comment ils changent avec l'âge et ce que cela implique pour un usage de l'IA différencié selon l'âge.
+
 ## Idées fausses courantes
 
 - **« Les représentations mentales étant inobservables, les affirmations cognitives sur l'apprentissage sont des postulats. »** La reconstruction d'images à partir de l'**EEG** d'apprenants pendant des vidéos scientifiques a montré que la **fidélité de la représentation suivait la performance au test** (coefficient de régression **0.8481, R² = 0.79**). Le postulat cognitiviste de la représentation interne est mesurable, et la mesure prédisait le résultat.
@@ -101,6 +103,9 @@ Une expérience de 2026 donne au versant mémoire de cette frontière un mode de
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[item-response-theory]]
+
+- [[developmental-psychology]]
+- [[longitudinal-research]]
 - [[distributed-cognition]]
 - [[icap-framework]]
 - [[transfer-of-learning]]

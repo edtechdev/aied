@@ -1,7 +1,7 @@
 ---
 title: "Que devraient apprendre les étudiants pour des carrières où l'IA est courante ?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -48,6 +48,8 @@ Voici la réponse courte : enseignez la tâche professionnelle entière, pas l'u
 [[ithaka-sr-ai-skills-college-graduates-2026|Le rapport d'Ithaka S+R]] a demandé à 500 enseignants d'établissements américains de quatre ans de noter 26 compétences issues d'un cadre couvrant sept catégories, et a comparé leurs notes à celles d'un panel d'employeurs interrogé par les auteurs du cadre. Le désaccord est systématique plutôt qu'aléatoire : les enseignants plaçaient en tête les limites de l'IA, l'attribution et la responsabilité humaine, tandis que les employeurs classaient plus haut la conception des flux de travail, l'automatisation et le travail en équipe avec l'IA.
 
 Deux lectures de cet écart sont tentantes et toutes deux sont fausses. La première est que les enseignants sont en retard sur le marché du travail. La seconde est que les employeurs veulent de la conformité. Une lecture plus utile est que chaque groupe décrit une moitié différente du même métier, et qu'un diplômé qui ne sait faire qu'une moitié est mal préparé pour les deux. Un étudiant incapable d'expliquer pourquoi un résultat est faux n'est d'aucune utilité à un employeur qui fait confiance au flux de travail ; un étudiant qui ne sait que critiquer la sortie de l'IA n'est d'aucune utilité à un employeur qui a besoin que la tâche soit terminée.
+
+Transformer un signal d'employeur en changement de curriculum est en soi un processus jalonné de points de décision. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] propose six étapes — détection, validation par les parties prenantes, diagnostic du programme, refonte du curriculum, mise en œuvre et capacité, et revue des résultats — chacune assortie d'un droit de décision nommé et d'un produit dont on rend compte, et confine l'IA à des fonctions de soutien bornées telles que la détection de motifs et la cartographie des compétences. C'est une proposition, non une évaluation, mais elle nomme les étapes qu'une demande de groupe consultatif omet habituellement.
 
 Les limites de ces preuves comptent. Ce sont des priorités déclarées issues d'enquêtes, et le rapport ne montre pas qu'un curriculum produise de meilleures embauches, de meilleures performances ou de meilleurs salaires. Ce qu'il vous donne, c'est une raison défendable de demander si vos étudiants s'exercent un jour à terminer et à vérifier un flux de travail soutenu par l'IA, par opposition à en discuter.
 

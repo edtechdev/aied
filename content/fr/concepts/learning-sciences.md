@@ -13,7 +13,7 @@ page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/learning-sciences
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -92,15 +92,7 @@ La [[pedagogy]] et la [[learning-design]] couvrent la pratique — quelle strat�
 
 Les résultats n'importent qu'une fois parvenus à l'enseignement, et ce parcours passe par trois pages. L'[[educational-development]] est la pratique institutionnelle qui les porte — développement du corps professoral, standards, politique et [[learner-identity|travail sur l'identité]] décident si une conception validée atteint jamais une classe, ce qui explique pourquoi les données probantes du champ devancent régulièrement ce que les institutions ont mis en œuvre. La [[teacher-education]] est l'endroit où la connaissance doit atterrir avant qu'un enseignant n'entre dans la classe, et le [[teacher-role]] est l'endroit où elle atterrit ensuite, dans le jugement instant après instant sur le moment d'intervenir, l'instrument à utiliser, et le moment de laisser un apprenant tranquille. Aucune des trois ne produit des résultats de sciences de l'apprentissage ; toutes trois décident si ces résultats changent la pratique.
 
-## Idées fausses courantes
-
-- **« Un seuil de maîtrise élevé garantit que l'apprenant sait discriminer. »** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren et Stamper (2026)]] ont mené **onze expérimentations (N = 192)** avec des systèmes de [[intelligent-tutoring|tutorat intelligent]] et constaté qu'à **un seuil de maîtrise de 95 %, le système mettait fin à la pratique avant qu'aucun cas n'exige de l'apprenant qu'il retienne l'action**, si bien que le défaut passait inaperçu. La maîtrise de l'action n'incluait pas le fait de savoir quand ne pas l'appliquer, et le seuil certifiait le mauvais construit.
-- **« Plus d'exemples est toujours plus sûr. »** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger et Carvalho (2025)]] traitent le rapport exemples–problèmes comme une **interaction contenu–traitement**, et dans une expérimentation 2×2 l'optimum **dépendait du contenu**. Il n'y a pas de rapport correct universel : un modèle pédagogique fixe est donc un pari contre une interaction.
-- **« Corriger l'[[misconceptions|idée fausse]] consiste à énoncer la bonne réponse. »** Une courte pratique « ne pas agir » avec une [[feedback|rétroaction]] nommant la contrainte manquante a ramené la mauvaise application à **0,0 %-23,1 % (h de Cohen 1,70-2,44)**, et une analyse secondaire de **treize jeux de données *Decimal Point* du primaire et du secondaire** a trouvé le même schéma structurel. L'intervention efficace était une pratique discriminante avec rétroaction ciblée, et non une correction par affirmation — ce que les travaux sur le [[refutation-text|texte de réfutation]] établissent de façon générale.
-- **« Un niveau de Bloom plus élevé signifie plus d'[[active-learning|apprentissage actif]]. »** L'Acquisition dominait les niveaux inférieurs — **environ 50 % des activités au niveau 1 de Bloom** — avant de se réduire **à environ 20 % au niveau 6**. L'exigence cognitive et le type d'activité évoluent ensemble mais ne sont pas le même axe : étiqueter une tâche par son niveau de Bloom ne dit donc pas ce que les apprenants en feront.
-
-## Ce que cela signifie pour la pratique
-
+## Implications pour la pratique
 **Pour les enseignants**
 
 - Enseignez explicitement le cas négatif. L'échec au seuil de 95 % en est la raison : intégrez des conditions où le geste correct est de retenir l'action, sans quoi l'apprenant l'appliquera partout.
@@ -113,6 +105,13 @@ Les résultats n'importent qu'une fois parvenus à l'enseignement, et ce parcour
 - N'arrêtez pas la pratique sur la seule exactitude. Modélisez la condition de retenue comme une compétence à part entière, sans quoi le système certifiera une sur-généralisation.
 - Laissez le rapport être un paramètre plutôt qu'une constante, car les données disent que l'optimum dépend du contenu.
 - Déclarez quel construit votre critère mesure, séparément du construit que votre validation mesure.
+
+## Idées fausses courantes
+
+- **« Un seuil de maîtrise élevé garantit que l'apprenant sait discriminer. »** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren et Stamper (2026)]] ont mené **onze expérimentations (N = 192)** avec des systèmes de [[intelligent-tutoring|tutorat intelligent]] et constaté qu'à **un seuil de maîtrise de 95 %, le système mettait fin à la pratique avant qu'aucun cas n'exige de l'apprenant qu'il retienne l'action**, si bien que le défaut passait inaperçu. La maîtrise de l'action n'incluait pas le fait de savoir quand ne pas l'appliquer, et le seuil certifiait le mauvais construit.
+- **« Plus d'exemples est toujours plus sûr. »** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger et Carvalho (2025)]] traitent le rapport exemples–problèmes comme une **interaction contenu–traitement**, et dans une expérimentation 2×2 l'optimum **dépendait du contenu**. Il n'y a pas de rapport correct universel : un modèle pédagogique fixe est donc un pari contre une interaction.
+- **« Corriger l'[[misconceptions|idée fausse]] consiste à énoncer la bonne réponse. »** Une courte pratique « ne pas agir » avec une [[feedback|rétroaction]] nommant la contrainte manquante a ramené la mauvaise application à **0,0 %-23,1 % (h de Cohen 1,70-2,44)**, et une analyse secondaire de **treize jeux de données *Decimal Point* du primaire et du secondaire** a trouvé le même schéma structurel. L'intervention efficace était une pratique discriminante avec rétroaction ciblée, et non une correction par affirmation — ce que les travaux sur le [[refutation-text|texte de réfutation]] établissent de façon générale.
+- **« Un niveau de Bloom plus élevé signifie plus d'[[active-learning|apprentissage actif]]. »** L'Acquisition dominait les niveaux inférieurs — **environ 50 % des activités au niveau 1 de Bloom** — avant de se réduire **à environ 20 % au niveau 6**. L'exigence cognitive et le type d'activité évoluent ensemble mais ne sont pas le même axe : étiqueter une tâche par son niveau de Bloom ne dit donc pas ce que les apprenants en feront.
 
 ## Concepts liés
 

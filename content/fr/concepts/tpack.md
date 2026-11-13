@@ -1,7 +1,7 @@
 ---
 title: "Le savoir technologique, pédagogique et disciplinaire (TPACK)"
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T10:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -90,6 +90,8 @@ Le TPACK est le cadre organisateur du versant enseignant de la base de données 
 
 **La médiation passe surtout par la facilité d'utilisation.** [[ai-literacy-tpack-preservice-2026|Zhao (2026)]] a testé six chemins indirects allant de la [[ai-literacy|littératie en IA]] et du TPACK à l'apprentissage profond chez 423 enseignants en formation initiale : le chemin du TPACK par la [[technology-acceptance-model|facilité d'utilisation perçue]] était le plus grand (0.212) et celui de la littératie en IA par l'utilité le plus petit (0.033), si bien que le savoir d'intégration opérait par l'[[usability-research|utilisabilité]] plutôt que par l'utilité.
 **Les composantes ne pèsent pas également dans le cas de l'IA.** Parmi 988 enseignants en formation initiale, la TCK (β = 0.67) et la TPK (β = 0.41) prédisaient l'AI-TPACK intégré, alors que la seule TK ne le prédisait pas (β = −0.10, p = 0.066), et le TPACK intégré prédisait l'attitude envers l'IA générative (β = 0.75) ([[khalil-tpack-preservice-genai-attitudes-2026|Khalil et al., 2026]]).
+
+**La mise en œuvre, et non la révision, sous contrainte de ressources.** Des enseignants d'une université du Somaliland décrivaient un usage façonné par le soutien institutionnel, l'absence de politique et un abonnement mensuel de 20 $ qu'ils payaient eux-mêmes — un contexte que le TPACK accueille sans en changer les composantes ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
 
 ## Implications pour la conception
 

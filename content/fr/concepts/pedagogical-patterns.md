@@ -1,7 +1,7 @@
 ---
 title: "Patrons pédagogiques"
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -13,7 +13,7 @@ connected_faqs: [designing-ai-into-learning]
 connected_resources: [learning-design-wiki]
 contributors: [editor]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-11-04T17:29:51-05:00"
+source_updated: "2026-11-12T19:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -142,6 +142,14 @@ Une quasi-expérience portant sur 68 enseignants en formation initiale a trouvé
 **Preuves : testé, mais dans des cadres contrôlés ou non contrôlés plutôt que dans des salles de classe ordinaires.** Deux apprenants partagent une seule IA et se voient attribuer des rôles explicites avec des règles de rotation ; l'IA est configurée pour prendre un rôle selon le besoin et sa production va à l'ensemble du groupe. Dans une variante de programmation en binôme, l'IA partagée modélise l'attention et l'effort conjoints de la dyade, prévoit une défaillance jusqu'à 30 secondes à l'avance, et fait monter les étayages en paliers, allant de ne rien faire jusqu'à un indice directif.
 
 Une expérience en sujets intérieurs portant sur 26 dyades a trouvé que la condition avec rétroaction atteignait un plus grand succès de débogage (t[49,96] = −13,51, p < ,0001) et terminait plus vite (t[44,70] = 4,39, p < ,0001), bien qu'elle ait exigé du matériel d'[[sensor-and-gaze-analytics|oculométrie]] binoculaire et de pupillométrie et n'ait pas testé le transfert à un travail en binôme sans surveillance ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). Une quasi-expérience portant sur 58 étudiants diplômés en 16 groupes a trouvé que la conception des rôles élevait les scores de contenu des cartes conceptuelles de 3,65 à 4,59 sur une échelle SOLO de 1 à 5 (z = 3,771, p < 0,001) tandis que les décomptes de nœuds et de branches restaient stables — mais en l'absence de groupe témoin, les effets de pratique ne peuvent être exclus ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
+
+### Brouillons itérés avec collaboration notée
+
+**Preuves : description de pratique — une première mise en œuvre, aucune condition de comparaison, aucun résultat mesuré.**
+
+Les étudiants rédigent une dissertation en petites équipes sur au moins deux étapes documentées, choisissent parmi un ensemble fixe de titres, et sont notés sur les preuves d'itération et de collaboration autant que sur le produit ; GenAI est autorisé dans des limites énoncées plutôt qu'interdit ou exigé.
+
+Dans un module d'apprentissage par alternance de licence en analyse d'affaires de première année à l'université Queen Mary de Londres, 23 étudiants répartis en 11 équipes auto-sélectionnées ont rédigé ainsi une dissertation itérée de 1,500 mots, GenAI étant exclu de la soumission de texte généré et de la production de listes de références. Les auteurs décrivent une refonte [[pedagogy|pédagogique]] à l'échelle du programme et rapportent un aperçu émergent plutôt que des résultats. Leur affirmation est que les critères de notation, et non les consignes, rendaient les preuves de processus déterminantes, et que là où les étudiants utilisaient l'outil, certains traitaient sa production comme une affirmation à contester — des contre-arguments à tester, des structures à accepter ou à rejeter ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 
 ### Discussion assistée par l'IA
 
@@ -282,3 +290,4 @@ Les mises en garde propres au guide s'appliquent : la vidéo enregistrée, les r
 - [[beck-genai-literacy-economics-hands-on]] — Une discussion de critique de l'IA en cinq étapes bâtie sur une erreur de l'IA (Beck et Brodersen 2025)
 - [[ccct-cooperative-learning-technique]] — Une séquence testée d'apprentissage coopératif avec rôles assignés et visite de galerie (Tutal 2026)
 - [[ai-assisted-seminar-learning-information-literacy-2026]] — Module de séminaire et de discussion entre pairs avec un moteur de recommandation de recherche documentaire par l'IA (Huang 2026)
+- [[alam-process-oriented-collaborative-essays-2026]] — Dissertations collaboratives orientées vers le processus : itération et collaboration notées, GenAI autorisé dans des limites (Alam & Jackson 2026)

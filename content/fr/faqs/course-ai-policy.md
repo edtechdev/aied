@@ -1,7 +1,7 @@
 ---
 title: "Comment rédiger une politique d'usage de l'IA pour un cours et la communiquer aux étudiants ?"
 created: "2026-09-22T19:16:30-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 weight: 70
 type: faq
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
@@ -12,7 +12,7 @@ audience: [instructors, curriculum designers]
 level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-12T15:50:00-05:00"
 translation_of: faqs/course-ai-policy
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

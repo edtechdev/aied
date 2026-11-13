@@ -1,7 +1,7 @@
 ---
 title: "Cadre ICAP"
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-10T18:55:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -91,6 +91,8 @@ L'accent mis par ICAP sur l'engagement génératif et processuel a été repris 
 2. **Engager les apprenants dans l'ensemble des modes.** Un enseignement efficace de la [[ai-literacy|littératie en IA]] engage les apprenants à plusieurs niveaux d'ICAP — exposition passive, manipulation active, génération constructive et dialogue interactif — en sélectionnant le mode qui correspond à l'objectif d'apprentissage.([[hingle-collaborative-ai-literacy-2025]])
 3. **Mesurer l'engagement honnêtement.** ICAP donne aux chercheurs et aux concepteurs un vocabulaire commun pour distinguer le réel engagement cognitif de la simple activité — un correctif à la notion superficielle d'[[student-engagement]].([[icap-cognitive-engagement-llm-agents]])
 4. **Surveiller l'écart d'annotation entre humains et LLM.** Si des systèmes automatisés sont utilisés pour coder l'engagement, leur déficit systématique par rapport à des humains entraînés doit être pris en compte.([[icap-cognitive-engagement-llm-agents]])
+
+La conception des tâches, et pas seulement celle des outils, fixe le plafond. Sur 829 fils codés dans 40 cours universitaires, les artefacts produits là où le dialogue était constructif ou interactif ont reçu des évaluations de qualité finale légèrement plus élevées de la part des pairs ([[zhuang-dialogue-to-task-cognitive-engagement-2026|Zhuang et al. (2026)]]).
 
 ## Idées fausses courantes
 

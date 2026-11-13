@@ -1,7 +1,7 @@
 ---
 title: "Neurodiversité"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-12T18:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -87,6 +87,8 @@ Le versant du risque a sa propre littérature. [[seung-basham-cognitive-offloadi
 
 La neurodiversité est liée à l'[[special-education|éducation spécialisée]], à l'[[inclusive-learning|apprentissage inclusif]], à la [[universal-design-for-learning|conception universelle de l'apprentissage]] et à l'[[equity-in-ai-education|équité dans l'IA en éducation]]. Elle informe à la fois la manière dont l'IA est déployée pour l'[[student-experience|expérience étudiante]] et la manière dont les évaluations et les programmes de littératie sont conçus pour être équitables face à la variabilité cognitive. Pour savoir comment ces résultats se situent aux côtés d'autres groupes d'apprenants — langue, genre, statut socioéconomique, géographie — voir [[differential-effects-across-learner-groups|Effets différentiels selon les groupes d'apprenants]].
 
+La revue de [[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh et Natoli]] portant sur 28 études sur l'IA pour les étudiants universitaires ayant un TDAH répartit les preuves entre soutien, prédiction et éthique. La prédiction en est la partie la plus mince : un modèle pupillométrique atteignait un AUROC de 0.856, tandis qu'un classificateur SVM atteignait une exactitude de 66.1 à 68.8 pour cent, sous l'utilité clinique. L'arbitrage sur les fonctions exécutives en est le cœur éthique — un outil qui compense une exigence peut aussi absorber la pratique qui aurait construit la capacité ([[executive-function]]).
+
 ## Idées fausses courantes
 
 - **« La recherche sur la neurodiversité est un recoin de niche de l'[[ai-education|AIED]]. »** Le champ s'est **réorganisé autour de l'[[generative-ai|IA générative]] — 15 des 40 études** — les formats immersifs venant ensuite avec 11. La littérature a suivi la technologie plutôt que de s'accumuler autour de questions stables.
@@ -106,6 +108,7 @@ La neurodiversité est liée à l'[[special-education|éducation spécialisée]]
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[student-modeling]]
+- [[executive-function]]
 
 ## Articles liés
 
@@ -122,3 +125,4 @@ La neurodiversité est liée à l'[[special-education|éducation spécialisée]]
 - [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
 - [[ai-learning-tools-engineering-education-needs]] — Concevoir des outils d'apprentissage par l'IA sensibles aux besoins et à l'attention
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Les processus guidés par des détecteurs peuvent dissuader un usage légitime des accommodements
+- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — Vingt-huit études sur l'IA pour les étudiants ayant un TDAH, avec l'éthique nommée

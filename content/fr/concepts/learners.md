@@ -12,7 +12,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -83,16 +83,6 @@ Parce que les bénéfices suivent l'avantage préalable, le travail du côté ap
 
 À lire avec la page [[stakeholders|acteurs de l'éducation]] pour les personnes autour de l'apprenant, et avec la [[pedagogy|pédagogie]] et la [[learning-design|conception pédagogique]] pour ce que les enseignants font de ces résultats. L'[[assessment|évaluation]] détermine quelles capacités de l'apprenant sont jamais rendues visibles ; les [[limitations-in-aied-research|limites de la recherche en AIED]] expliquent pourquoi une si grande part des données probantes du côté apprenant est de court terme, auto-déclarée et menée sur des échantillons de commodité ; et les [[misconceptions|idées fausses]] sont le point d'entrée habituel pour les apprenants eux-mêmes.
 
-## Idées fausses courantes
-
-**« Les apprenants et les étudiants sont la même population. »** Ils ne sont pas interchangeables de manière utile : *étudiants* nomme un rôle institutionnel, *apprenants* nomme une activité, et une personne peut être l'un sans l'autre — un salarié en [[professional-training|formation en milieu de travail]] est un apprenant mais pas un étudiant. Les confondre restreint la base de preuves aux personnes inscrites dans un établissement et écarte silencieusement précisément les adultes, les professionnels et les apprenants [[self-directed-learning|autonomes]] dont traite la recherche sur la [[lifelong-learning|formation tout au long de la vie]].
-
-**« Les apprenants déclarent que l'IA améliore leur compréhension, donc elle leur fait gagner du temps. »** Les deux affirmations se séparent dans les données d'enquête. Dans les travaux sur la productivité des études, **92,3 %** déclaraient que l'IA améliorait leur compréhension, tandis que seulement **38,5 %** déclaraient qu'elle réduisait leur temps d'étude total. Le chiffre principal décrit une compréhension ressentie ; l'écart en dessous montre que mieux comprendre et récupérer du temps sont des résultats différents, et l'affirmation très répandue selon laquelle « l'IA fait gagner du temps » est portée par le chiffre le plus faible.
-
-**« L'usage de l'IA par les étudiants pour prendre des raccourcis est une faute morale. »** La base de connaissances traite l'attrait du moindre effort comme un problème de conception et de politique plutôt que de caractère — les étudiants le décrivent dans leurs propres mots, et la littérature sur le [[reducing-ai-misuse|mésusage]] et l'[[academic-integrity|intégrité]] situe le levier dans la conception de la tâche et de l'environnement. Le cadrage moral n'explique rien du fait qu'un même étudiant se comporte différemment dans deux cours.
-
-**« Quand une allégation de faute est formulée, les preuves sont là. »** L'analyse des dossiers de 1 162 allégations liées à l'IA générative montre ce que les apprenants affrontent réellement lorsque la réponse institutionnelle arrive, et le versant étudiant de la procédure de faute est bien plus mince dans la littérature que le versant étudiant de l'usage. Une page sur les apprenants qui documente seulement leur usage et non leur exposition à l'accusation n'a documenté que la moitié de l'expérience.
-
 ## Implications pour la pratique
 
 **Pour les enseignants**
@@ -110,6 +100,16 @@ Parce que les bénéfices suivent l'avantage préalable, le travail du côté ap
 
 - Maintenez explicitement la distinction apprenant/étudiant dans l'échantillonnage, et rapportez qui elle exclut.
 - Étudiez les accusés autant que les usagers ; le versant procédural est la moitié mince de cette littérature.
+
+## Idées fausses courantes
+
+**« Les apprenants et les étudiants sont la même population. »** Ils ne sont pas interchangeables de manière utile : *étudiants* nomme un rôle institutionnel, *apprenants* nomme une activité, et une personne peut être l'un sans l'autre — un salarié en [[professional-training|formation en milieu de travail]] est un apprenant mais pas un étudiant. Les confondre restreint la base de preuves aux personnes inscrites dans un établissement et écarte silencieusement précisément les adultes, les professionnels et les apprenants [[self-directed-learning|autonomes]] dont traite la recherche sur la [[lifelong-learning|formation tout au long de la vie]].
+
+**« Les apprenants déclarent que l'IA améliore leur compréhension, donc elle leur fait gagner du temps. »** Les deux affirmations se séparent dans les données d'enquête. Dans les travaux sur la productivité des études, **92,3 %** déclaraient que l'IA améliorait leur compréhension, tandis que seulement **38,5 %** déclaraient qu'elle réduisait leur temps d'étude total. Le chiffre principal décrit une compréhension ressentie ; l'écart en dessous montre que mieux comprendre et récupérer du temps sont des résultats différents, et l'affirmation très répandue selon laquelle « l'IA fait gagner du temps » est portée par le chiffre le plus faible.
+
+**« L'usage de l'IA par les étudiants pour prendre des raccourcis est une faute morale. »** La base de connaissances traite l'attrait du moindre effort comme un problème de conception et de politique plutôt que de caractère — les étudiants le décrivent dans leurs propres mots, et la littérature sur le [[reducing-ai-misuse|mésusage]] et l'[[academic-integrity|intégrité]] situe le levier dans la conception de la tâche et de l'environnement. Le cadrage moral n'explique rien du fait qu'un même étudiant se comporte différemment dans deux cours.
+
+**« Quand une allégation de faute est formulée, les preuves sont là. »** L'analyse des dossiers de 1 162 allégations liées à l'IA générative montre ce que les apprenants affrontent réellement lorsque la réponse institutionnelle arrive, et le versant étudiant de la procédure de faute est bien plus mince dans la littérature que le versant étudiant de l'usage. Une page sur les apprenants qui documente seulement leur usage et non leur exposition à l'accusation n'a documenté que la moitié de l'expérience.
 
 ## Concepts liés
 

@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA peut-elle m'aider à donner de meilleures rétroactions à grande échelle ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 weight: 70
 type: faq
 technology: [human-in-the-loop-ai]
@@ -10,7 +10,7 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-11T09:00:00-05:00"
 translation_of: faqs/ai-feedback-at-scale
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -82,6 +82,8 @@ Le mécanisme explique pourquoi le séquençage compte plus que l'outil. La crit
 La rétroaction par les pairs gagne sa propre place dans la séquence. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen et Yan (2026)]] ont suivi deux classes d'anglais parallèles (N = 118 étudiants de première année en Chine ; GenAI n = 56, pairs n = 62) à travers trois cycles d'[[self-assessment|auto-évaluation]] sur un semestre. L'[[scaffolding|étayage]] par GenAI a amélioré la littératie en rétroaction légèrement mais significativement par rapport à la relecture par des pairs humains (ANCOVA p = 0.049, ηp² = 0.03). Les étudiants du groupe GenAI affinaient leurs invites de façon itérative et vérifiaient ou contestaient les sorties inexactes. Les étudiants du groupe pairs choisissaient leurs sources par commodité sociale et voyaient leur jugement évaluatif déformé par le biais d'amitié. La relecture par les pairs conservait une valeur distincte pour la conscience du public, ce qui explique pourquoi les auteurs proposent des conceptions multi-étapes avec rétroaction anonyme entre pairs plutôt qu'un remplacement.
 
 L'avantage de Gu et al. était faible, et ils le lisent comme réel mais non transformateur à lui seul. L'étayage de l'enseignant, les lignes directrices d'invite et les fiches de travail ont fait le travail de soutien.
+
+La source importe peut-être moins que l'horloge. Chez 391 élèves allemands du secondaire, une rétroaction écrite par l'enseignant et une rétroaction de LLM n'ont produit aucune différence significative sur les révisions, l'écriture ultérieure, le temps passé sur la tâche ou les perceptions ; les probabilités a posteriori bayésiennes penchaient vers la rétroaction de l'enseignant pour l'écriture ultérieure, mais conservaient un quart à deux cinquièmes de la masse à l'intérieur de la région d'équivalence, et seule la rétroaction immédiate de l'IA attirait de meilleures notes d'utilité et de motivation ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). Si un commentaire de premier passage peut arriver pendant que l'étudiant révise encore, ce moment fait partie de la conception qui opère.
 
 ## Donner une grille au modèle, puis lui faire montrer ses étapes
 

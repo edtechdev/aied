@@ -1,7 +1,7 @@
 ---
 title: "L'enseignement"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-12T08:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -153,6 +153,8 @@ Le rôle enseignant et l'[[learner-identity|identité de l'apprenant]] sont les 
 - **Les analytiques de réflexion destinées aux enseignants devraient être adaptées à l'expertise, et non uniformes.** Une enquête menée auprès de 100 enseignants américains du primaire et du secondaire (coupure médiane à neuf ans ; tests binomiaux ; différences de choix de 15% détectables à une puissance d'environ 83%) a mis au jour des clivages systématiques de préférences. Les enseignants moins expérimentés citent le manque de temps de réflexion comme obstacle majeur à un taux trois fois supérieur à celui des enseignants expérimentés (37% contre 12%, p < .001) et souhaitent des analytiques portant sur le désengagement des étudiants (48% contre 33%, p = .028) et sur leurs émotions (31% contre 18%, p = .036).
 - **La règle de conception qui découle de ce clivage est celle de modes de recommandation adaptés à l'expérience.** Les enseignants expérimentés veulent des analytiques sur l'amélioration de l'apprentissage après avoir aidé un étudiant (40% contre 26%, p = .019) et sur leurs propres méthodes d'enseignement (42% contre 26%, p = .012) ; leur principal obstacle est le suivi de la performance (28% contre 15%, p = .009). Règle de conception : mode novice = invites structurées et analytiques d'engagement ; mode expert = analyse longitudinale souple — un argument direct contre les tableaux de bord uniformes. ([[falhs-teacher-expertise-reflection-2025]])
 
+Deux essais récents chiffrent le dossier de la charge de travail et ses limites. Un essai randomisé par grappes dans 68 écoles secondaires anglaises a ramené le temps de préparation des leçons de 81,5 à 56,2 minutes par semaine, soit une économie de 25,3 minutes, sans perte détectée de qualité des leçons ([[roy-chatgpt-lesson-preparation-nfer-2024|Roy et coll., 2024]]). Sur ASSISTments, les enseignants qui recevaient des résumés de devoirs générés par LLM ont vu davantage d'élèves commencer et terminer les devoirs, tandis que les scores au niveau de la classe ne s'amélioraient pas ([[lim-llm-summaries-teachers-rct-2026|Lim et coll., 2026]]). Du temps gagné et des comportements modifiés ; l'apprentissage mesuré, non.
+
 ## Idées fausses courantes
 
 **« L'IA réduira ou remplacera le travail pédagogique de l'enseignement. »** Les données probantes des scénarios d'experts pointent dans l'autre sens. [[caeo-navigating-ai-educational-future-scenarios-2026|Malyn-Smith et al. (2026)]] l'appellent le *paradoxe du plus humain* : dans six scénarios pour 2030 coconstruits par 20 chercheurs de 13 pays, la saturation en IA **intensifie plutôt qu'elle ne déplace** le travail pédagogique humain. Les scénarios décrivent l'IA comme « le système de traitement de l'air de l'écosystème d'apprentissage », une infrastructure que l'on ne remarque que lorsqu'elle tombe en panne. Ce qui change n'est pas la quantité de jugement humain requise mais son objet : l'attention passe de la production de supports à l'interprétation des apprenants.
@@ -172,6 +174,8 @@ Les données probantes soutiennent un ordre d'opérations précis pour un enseig
 3. **Placer le point de contrôle humain là où se situe la responsabilité.** Concevoir de sorte que l'apprenant évalue, corrige et s'approprie le travail assisté par l'IA, et que la rétroaction de l'IA arrive comme un brouillon que l'enseignant sélectionne plutôt que comme un commentaire qu'il relaie.
 4. **Protéger le temps d'interprétation que le basculement crée.** Si l'attention passe de la production de supports à la lecture des apprenants, ce temps réaffecté doit survivre au contact du calendrier ; s'il est absorbé par de nouvelles tâches administratives, le changement de rôle promis n'a pas lieu.
 5. **Vérifier si l'on vous forme aux outils ou à la pédagogie.** Compte tenu du résultat du modèle par équations structurelles, préférer un développement professionnel qui travaille sur des tâches disciplinaires et l'identité plutôt qu'une visite guidée des fonctionnalités.
+
+L'autorité épistémique dans la planification assistée par l'IA se négocie épisode par épisode plutôt qu'elle ne se règle par politique. Sur 34 épisodes de planification de cinq futurs enseignants de mathématiques, l'autorité était conservée dans 16, partagée dans 12 et cédée dans 6 ; l'enseignante qui collait un plan de leçon complet produit par l'IA était passée de la construction à l'autorisation, tandis qu'une autre conservait son propre cadre et ajustait la production du modèle par rapport à lui ([[pang-epistemic-authority-ai-lesson-planning-2026|Pang et coll. (2026)]]).
 
 ## Concepts liés
 
@@ -201,6 +205,8 @@ Les données probantes soutiennent un ordre d'opérations précis pour un enseig
 
 ## Articles liés
 
+- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 écoles secondaires anglaises : la préparation des leçons a baissé de 25,3 minutes par semaine sans perte de qualité détectée (Roy et coll., 2024)
+- [[lim-llm-summaries-teachers-rct-2026]] — ECR sur ASSISTments : les résumés par IA ont augmenté l'achèvement des devoirs mais pas les scores de classe (Lim et coll., 2026)
 - [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Les enseignants vacataires portent le travail d'intégrité sans en avoir l'autorité
 - [[caeo-navigating-ai-educational-future-scenarios-2026]] — Le paradoxe du plus-humain : les scénarios d'experts pour 2030 montrent que la saturation par l'IA intensifie plutôt qu'elle ne déplace le travail pédagogique humain (Malyn-Smith et al. 2026)
 - [[teachers-instrumental-orchestration-ai-math-2026]] — Six leçons de mathématiques observées au lycée étendent l'orchestration instrumentale par trois nouveaux types (Noh & Kim 2026)
@@ -248,3 +254,4 @@ Les données probantes soutiennent un ordre d'opérations précis pour un enseig
 - [[falhs-teacher-expertise-reflection-2025]] — Comment les niveaux d'expertise façonnent les préférences et les besoins de réflexion : vers des systèmes de réflexion par IA pour l'autonomisation des enseignants (Falhs et al. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversationnel par IA des conceptions erronées en enseignement, par un dialogue fondé sur les preuves (Miranda & Calvani 2026)
 - [[ai-use-teacher-performance-north-sumatra-2026]] — L'usage de l'IA n'a eu aucun effet direct sur la performance enseignante ; le comportement de citoyenneté l'a médiatisée (Sherly et al. 2027)
+- [[pang-epistemic-authority-ai-lesson-planning-2026]] — 34 épisodes montrant une autorité conservée, partagée ou cédée dans la planification de leçons assistée par l'IA

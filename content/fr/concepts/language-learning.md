@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: "Apprentissage des langues"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-12T16:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -95,6 +95,9 @@ La qualité de la conception, et non la fréquence d'usage, a porté l'effet mot
 - **Faire passer l'ensemble de la boucle des quatre compétences par le coût et la connectivité.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] publient LLMersion-1, un prototype fonctionnant d'abord en local, qui travaille la compréhension orale, la lecture, l'expression orale et l'écriture sur le document propre de l'apprenant, sur du matériel grand public — un tuteur de 1B se quantise en 808 Mo et l'ensemble de la pile résidente reste sous 4 Go — et chiffre cinq ans de pratique quotidienne à environ 18 $ d'électricité, contre 1,200 $ pour un abonnement infonuagique. Aucun résultat d'apprentissage n'est rapporté et la rétroaction sur la prononciation est seulement segmentale.
 
 **Les étudiants en traduction peuvent être détournés de la correction de surface.** Dans un cours de traduction de presse, [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] ont constaté que la consultation de moteurs de recherche passait d'une médiane de 15,6% à 27,7% du temps de session (p = 0.020, corrigé de Holm) et la recherche fondée sur les connaissances de 7,2% à 28,8% (p = 0.010). L'usage de la traduction automatique baissait de 28,5% à 5,1% sans atteindre la signification (p = 0.338), et l'usage interactif de l'IA restait à une médiane de zéro. Le levier consistait à montrer aux étudiants leur propre processus plutôt qu'à interdire un outil.
+
+La synthèse de Zhang, Aubrey, Wu et Chiu portant sur 48 études contrôlées (N = 5196) constate que le bénéfice de GenAI dépend de sa configuration plutôt que de sa présence. L'usage pour la rétroaction et l'évaluation produisait l'effet le plus important (g = 1.15) contre g = 0.28 pour l'intégration pédagogique, et les modes dirigés par l'apprenant (g = 0.92) surpassaient les modes autonomes (g = 0.34). La lecture ne montrait aucun effet significatif, et le g de 1.48 affiché pour l'expression orale tombait à g = 0.65 une fois trois valeurs extrêmes retirées ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
+
 - **Les données probantes sur les gains d'expression orale avec les chatbots sont inégales selon les fonctionnalités.** Dans la seule synthèse systématique de la question, dix études menées de 2021 à 2024 ont amélioré l'étendue et l'intelligibilité de la manière la plus fiable, tandis que la cohérence n'a été examinée qu'une fois et l'interaction presque jamais ; quatre des dix rapportaient un score holistique unique ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez et Belda-Medina (2026)]]).
 
 ## Idées fausses courantes
@@ -160,3 +163,4 @@ La qualité de la conception, et non la fréquence d'usage, a porté l'effet mot
 - [[acoustic-lexical-native-language-identification-learners-2026]] — L'audio bat un classifieur de transcriptions GPT-4o en zero-shot pour l'identification de la L1 (Uluslu et al. 2026)
 - [[xian-process-visualization-feedback-news-translation-2026]] - la rétroaction sur le processus a augmenté la consultation des sources et réduit l'usage de la traduction automatique dans un cours de traduction de presse
 - [[wordofa-genai-grammar-instruction-efl-2026]] — L'enseignement de la grammaire assisté par l'IA générative et l'auto-efficacité et la conscience métalinguistique d'apprenants éthiopiens d'anglais langue étrangère
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — Méta-analyse à trois niveaux : GenAI agit par la rétroaction et une conception dirigée par l'apprenant, non comme une intervention uniforme (Zhang et al. 2026)

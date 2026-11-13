@@ -1,7 +1,7 @@
 ---
 title: "L'ingénierie des invites"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [eduprompts, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-11-08T08:41:46-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -47,10 +47,11 @@ ai_assist:
 
 L'ingénierie des invites est centrale pour un usage efficace de l'[[generative-ai|IA générative]] en éducation. Contrairement aux interfaces de programmation traditionnelles, les grands modèles de langue répondent au langage naturel — mais la qualité, l'exactitude et la valeur [[pedagogy|pédagogique]] de ces réponses dépendent fortement de la conception des invites. La recherche de cette base de connaissances révèle que la formulation n'est pas un acte neutre : elle reflète la manière dont les étudiants pensent, planifient et répartissent l'effort cognitif. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran et Arar (2026)]] précisent ce que le terme recouvre en distinguant l'ingénierie des invites, l'optimisation technique des entrées en vue de la performance, de la littératie de formulation (prompt literacy), le travail rhétorique, éthique et réflexif consistant à clarifier l'intention, à lire les sorties de façon critique et à réviser avec des raisons énoncées. Leur cycle de littératie de formulation (Clarify Purpose, Craft the Prompt, Engage with Output, Refine the Prompt, Reflect) et une grille de processus fournie en exemple rendent la distinction enseignement, et ils soutiennent qu'un enseignement qui n'optimise que les sorties laisse intactes les dimensions éthiques et épistémologiques de l'usage des grands modèles de langue.
 
-### Comment l'ingénierie des invites apparaît dans la recherche
+## Comment l'ingénierie des invites apparaît dans la recherche
 
 - **La formulation comme trace cognitive :** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk et coll.]] montrent que les schémas d'invites révèlent le [[cognitive-offloading|délestage cognitif]] — les travaux de haute qualité emploient des invites riches en contexte, polies et instructionnelles ; les travaux de faible qualité témoignent d'un désaccord réactif sans ancrage disciplinaire
 - **La profondeur améliore le produit, pas la rétention.** Chez 22 étudiants de troisième cycle, la part des invites de recherche d'explication (« pourquoi/comment/explique ») prédisait la qualité des tâches notée indépendamment (β = 6,27) au-delà des connaissances de base et du volume d'invites, tout en montrant une association nulle avec le rappel immédiat ([[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]]).
+- **La compétence est la variable de stratification, et elle est formable.** Dans une enquête auprès de 380 étudiants chinois de premier cycle, la compétence en ingénierie des invites corrélait fortement avec les gains académiques perçus (r = .793) mais faiblement avec l'iniquité éducative perçue (r = −.131), et le capital numérique familial agissait largement par la compétence plutôt qu'à côté d'elle. Une expérience intra-sujet a ensuite montré qu'un échafaudage à cinq composantes — Rôle, Objectif, Entrée, Processus, Sortie — élevait la qualité évaluée des productions de 3.318 à 4.603 sur quatre familles de modèles. La lecture en termes d'équité importe plus que la taille de l'effet : si le bénéfice passe par une compétence, alors qui reçoit un enseignement de la formulation est une décision de distribution ([[li-who-benefits-llms-prompt-engineering-equity-2026|Li et al., 2026]]).
 - **La cognition liée à la formulation suit la discipline, pas l'étudiant.** [[student-ai-conversations-cognitive-engagement-2026|Chang et Li (2026)]] ont classé 60 087 invites issues de 116 cours et constaté que les profils de niveau de Bloom différaient selon la discipline — prévalence de l'application en STIM (20,8%), prévalence de la création en sciences sociales (33,8%) — la variance au niveau du cours excédant la variance au niveau de l'étudiant.
 - **La formulation comme littératie :** les recherches [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] et [[aaai2026-prompting-literacy-k12|K-12 prompting literacy]] cadrent la formulation comme une composante centrale de l'[[ai-literacy|IA littératie]]
 
@@ -88,7 +89,7 @@ L'ingénierie des invites est centrale pour un usage efficace de l'[[generative-
 - **Injecter le nom de la théorie, non ses textes complets.** [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et coll. (2026)]] montrent que la formulation par nom de théorie battait les articles fournis sur l'utilité (4,40 contre 3,20) et le caractère concret (3,80 contre 2,40), les textes complets ne l'emportant que sur l'alignement théorique (4,60 contre 3,60).
 
 
-### Connexions avec des concepts plus larges
+## Connexions avec des concepts plus larges
 
 L'ingénierie des invites se rattache au [[scaffolding|scaffolding]] — des invites bien conçues peuvent étayer la pensée des étudiants plutôt que la contourner. Elle recoupe la [[metacognition|métacognition]] et l'[[ai-literacy|IA littératie]], car formuler efficacement suppose de comprendre à la fois les capacités de l'IA et ses propres objectifs d'apprentissage. La recherche sur le [[cognitive-offloading|délestage cognitif]] relie directement la qualité des invites à la question de savoir si l'usage de l'IA soutient ou mine l'apprentissage.
 
@@ -159,3 +160,4 @@ L'ingénierie des invites se rattache au [[scaffolding|scaffolding]] — des inv
 - [[li-who-benefits-llms-prompt-engineering-equity-2026]] — La compétence en ingénierie des invites comme voie d'équité, avec une expérimentation d'échafaudage inter-modèles (Li et coll. 2026)
 
 - [[han-prompt-literacy-ai-dependence-design-2026]] — La littératie de formulation comme capacité perçue qui prédit encore l'engagement
+- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — La compétence en ingénierie des invites comme voie d'équité, avec une expérience d'échafaudage intermodèles (Li et al. 2026)

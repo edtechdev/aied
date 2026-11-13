@@ -1,7 +1,7 @@
 ---
 title: "Tutorat affectif"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -39,6 +39,8 @@ ai_assist:
 
 ## Introduction
 
+Le tutorat affectif constitue la moitié pédagogique de l'[[affective-computing|informatique affective]] : une fois qu'un système dispose d'une certaine lecture de l'état émotionnel d'un apprenant, que doit-il faire de cette lecture ? La question de conception n'est pas de savoir comment détecter la frustration, mais ce qu'il faut changer une fois que l'on croit l'avoir détectée — le rythme, le niveau des indices, le ton de la rétroaction, ou l'opportunité de s'arrêter pour traiter l'émotion elle-même. Cette page traite de cette couche décisionnelle : les stratégies sur lesquelles les tuteurs projettent l'affect, les preuves de leur utilité et les raisons pour lesquelles elles peuvent se retourner. Elle ne porte pas sur l'empathie propre de l'apprenant, qui est un résultat différent reposant sur des preuves différentes ([[empathy]]), ni sur la manière dont l'affect est perçu ([[sensor-and-gaze-analytics|analyse des capteurs et du regard]]).
+
 MathBuddy modélise dynamiquement l'affect de l'étudiant à partir de deux modalités :
 
 - **Texte conversationnel** — indices sémantiques de frustration, de confusion, de confiance
@@ -52,6 +54,8 @@ Les émotions sont agrégées à partir des deux modalités et rattachées à de
 - Évaluation selon **huit dimensions pédagogiques**, complétée par des études d'usagers
 
 Le constat valide une hypothèse de longue date en psychologie de l'éducation : les états émotionnels positifs et négatifs ont un impact sur la capacité d'apprentissage, et en tenir compte améliore les résultats du tutorat.
+
+MathBuddy est un système parmi d'autres, et non la définition de l'approche ; les sections suivantes généralisent à partir de lui. Pour ce que les signaux sous-jacents peuvent et ne peuvent pas mesurer, voir [[sensor-and-gaze-analytics]].
 
 ## Le risque : l'empathie comme piège
 

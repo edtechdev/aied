@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: "L'écriture"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-12T15:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,7 @@ L'accord est une propriété du corpus, non du correcteur : [[automated-scoring-
 
 - **La notation est le point où le guidage s'arrête.** Lors d'entretiens avec 24 professeurs d'écriture universitaires de Chine continentale, de Hong Kong, de Macao et de Singapour, six ont déclaré n'avoir aucune règle institutionnelle sur la possibilité même de noter les travaux des étudiants avec l'IA, et la conséquence était que des collègues qui refusent par principe siégeaient à côté de collègues qui le font déjà ([[wu-lam-genai-writing-assessment-professors-2026|Wu et Lam (2026)]]).
 - **La conformité peut masquer une absence d'investigation intellectuelle (effacement académique).** À partir de 49 récits d'enseignants, [[academic-erasure-complexity-ai-writing-2026|Nwagboso & Atuba (2026)]] nomment *academic erasure* — une fluidité qui satisfait tous les critères de surface tout en contournant le travail épistémique de l'argumentation — et en attribuent le moteur à la culture d'évaluation, où les barèmes récompensant le poli font de l'usage de l'IA une réponse rationnelle plutôt qu'une faute.
+- **Le plus vaste essai randomisé de soutien structuré à l'écriture par ChatGPT se situe en anglais langue étrangère.** [[wardat-chatgpt-efl-writing-rct-2026|Wardat et Akour (2026)]] ont randomisé 300 étudiants jordaniens de premier cycle dans quatre universités et mesuré un avantage ajusté de 9.964 points sur l'enseignement conventionnel (êta-carré partiel = 0.545), sans post-test différé.
 
 ### L'écriture comme pensée
 
@@ -126,6 +127,7 @@ Pour la conception de la tâche, l'affirmation est que la rigueur et l'engagemen
 ## Implications pour les enseignants d'écriture
 
 - **Présenter l'IA comme un complément, et non un remplacement, du processus d'écriture.** Les recherches de la base de connaissances traitent systématiquement l'IA comme un étayage pour la rédaction, la révision et la rétroaction, tout en protégeant le travail cognitif et le public humain qui font de l'écriture une activité d'apprentissage — [[coach-not-crutch-ai-writing|un coach plutôt qu'une béquille]].
+- **Faire de l'IAG une matière à interroger plutôt qu'à remettre.** Dans le module de première année de business analyst d'Alam et Jackson, l'IAG était autorisée dans des limites qui excluaient le texte généré remis et les listes de références mises en forme par l'IA, et là où les étudiants y ont recouru, certains ont contesté des contre-arguments et rejeté des brouillons au lieu de les accepter. Les auteurs jugent l'outil bien adapté aux contre-arguments, aux structures alternatives et aux corrections de langue, et mal adapté au jugement et à l'appréciation des preuves que l'évaluation cherchait à noter ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 - **Utiliser la rétroaction de l'IA au sein d'un processus centré sur l'humain.** [[pairr-ai-peer-review-2025|PAIRR]] conclut que la rétroaction de l'IA est surtout utile combinée à l'évaluation par les pairs et à la réflexion ; concevez des boucles de rétroaction qui gardent l'enseignant et le public des pairs au centre.
 - **Les étudiants veulent l'humain là où l'enjeu est élevé.** [[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]] ont constaté que 81,7 pour cent de 93 étudiants de premier cycle préféraient une notation humaine pour une dissertation finale valant 40 pour cent de la note, faisaient confiance à l'IA pour la grammaire et la mécanique mais pas pour l'écriture [[creativity|créative]], et souhaitaient que la notation par l'IA soit revue par un humain.
 - **Auditer la rétroaction automatisée pour y déceler des biais.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] montre que la rétroaction des LLM s'infléchit de manière conforme aux stéréotypes lorsqu'elle est personnalisée par des attributs d'étudiants — surveillez les biais positifs et de rétention, et dites explicitement que la personnalisation peut être un vecteur de biais.
@@ -143,6 +145,9 @@ Pour la conception de la tâche, l'affirmation est que la rigueur et l'engagemen
 - **« Demander un paragraphe et demander une dissertation relèvent du même type d'aide. »** Les données de traces les séparent. Sur **361 messages enregistrés** provenant de **77** étudiants rédigeant une dissertation, les requêtes qui confiaient d'un coup la planification, la rédaction et la révision formaient la catégorie la plus large : **137** requêtes de ce type, émises par plus de la moitié des participants. Dans cette catégorie, **20** demandaient une dissertation entière, et **15 des 77 (19,5 %) ** ont remis des dissertations sans avoir tapé un seul mot. Demander un paragraphe autour d'une idée était la catégorie la plus petite, avec **10** participants. [[jelson-students-chatgpt-essay-writing-2026|Coder chaque requête au regard du processus d'écriture]] montre ce qu'une dissertation finie ne peut pas montrer.
 
 Le récit de classe le plus complet de cette refonte est le déploiement PAIRR. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] rapportent 13 sections de 10 cours à forte intensité d'écriture et 654 étudiants en 2024, couvrant l'écriture en développement, la composition de première année, l'écriture professionnelle et les cours d'écriture en STEM. Les étudiants lisaient d'abord sur les modèles de langage, puis échangeaient une rétroaction entre pairs, et seulement ensuite sollicitaient un robot conversationnel pour une rétroaction fondée sur la grille. L'invite disait : « Ne réécrivez pas mon article à ma place. » L'argument des auteurs en faveur de la séquence tient à ce que le cours peut contrôler : un modèle positionné comme une voix périphérique ne peut pas s'emparer du brouillon sans que la grille de l'enseignant le remarque.
+
+- **Séparer l'idéation de l'expression.** Webb-Davies, Ratner et Bassett proposent une captation observée et non notée du raisonnement — parole, notes ou carte — avant une remise notée rédigée à la maison avec l'IA autorisée, au motif que la production de prose et le raisonnement disciplinaire sont des construits séparables ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
+- **Évaluer le processus, et pas seulement la dissertation.** Winstone, Gravett et Elkington proposent de conserver la tâche et d'y ajouter des fenêtres sur la manière dont elle a été construite — brouillons, journaux, réflexion sur les décisions — avec un libellé de grille qui valorise la révision et l'erreur ; leur exemple travaillé ramène une dissertation de 2 500 mots à 1 500 mots plus 1 000 mots de preuves de processus, afin que la charge de correction reste stable ([[black-box-assessment-winstone-2026|Winstone et al., 2026]]).
 
 ## Idées fausses courantes
 
@@ -232,3 +237,6 @@ Le récit de classe le plus complet de cette refonte est le déploiement PAIRR. 
 - [[tie-responsible-genai-use-academic-writing-review-2026]] — Usage étudiant responsable de l'IA générative en écriture académique : revue de cadrage des frontières, approches pédagogiques et lacunes probantes
 - [[al-nafjan-genai-eap-writing-engagement-2026]] — La rigueur et l'engagement de l'enseignant comme deux dimensions de l'engagement en écriture à l'ère de l'IA générative
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 sections, 10 cours, 654 étudiants : le déploiement PAIRR de référence et son invite limitée à la rétroaction
+- [[alam-process-oriented-collaborative-essays-2026]] — Dissertations collaboratives orientées processus : itération et collaboration notées, avec l'IAG autorisée dans des limites définies (Alam & Jackson 2026)
+- [[webb-davies-voice-first-written-assessment-2026]] — Une évaluation écrite en deux étapes qui sécurise le raisonnement sous observation avant de noter une remise rédigée à la maison, avec un viva conditionnel pour les liens peu clairs (Webb-Davies, Ratner & Bassett 2026)
+- [[black-box-assessment-winstone-2026]] — L'évaluation boîte noire : fenêtres sur le processus, l'erreur comme preuve et l'intégrité par la visibilité (Winstone, Gravett & Elkington 2026)

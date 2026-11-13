@@ -1,14 +1,14 @@
 ---
 title: "Confiance"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
 translation_of: concepts/trust
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,8 @@ Un modèle structural donne à ce rôle de pont un test empirique. Dans l'enquê
 
 Le construit est plus mince que ne le laisse entendre le coefficient. Il mesure la confiance technologique instrumentale avec un supplément de valeur artistique — une confiance déclarée plutôt qu'une fiabilité calibrée — et les deux items d'autorialité ont été retirés après avoir formé leur propre facteur dans un pilote mené auprès de 121 étudiants. Un étudiant peut faire confiance à ce modèle de manière appropriée ou indistincte, et l'instrument ne peut pas distinguer les deux.
 
+La transparence peut être la voie la plus forte vers la confiance sans que la confiance soit la voie la plus forte vers l'usage. [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] ont interrogé 653 apprenants au sujet d'[[ai-avatars-and-synthetic-instructors|avatars d'IA]] et ont constaté que la transparence prédisait la confiance à β = 0,542 — le chemin le plus fort de leur modèle — tandis que cette confiance ne prédisait l'intention d'adoption qu'à β = 0,196, derrière l'avantage relatif (0,267) et l'utilité perçue (0,247).
+
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] soutient une conception de la confiance dans les algorithmes **propre à chaque fonction plutôt que globale** : ni l'aversion pour les algorithmes ni l'appréciation pour les algorithmes ne décrivaient ces 13 étudiants, qui faisaient simultanément confiance à ChatGPT pour une rétroaction de surface et s'en méfiaient comme correcteur. Leur confiance était conditionnée par la supervision de l'enseignant, et leur scepticisme provenait des limites contextuelles de l'IA — la mauvaise lecture d'une écriture manuscrite numérisée (« it spelled my last name wrong and it thinks I made mistakes in my spelling when I didn't »), l'ignorance du barème de l'enseignant, et un optimisme chronique — plutôt que d'une technophobie, ce qui suggère que les mesures de confiance devraient être décomposées selon la fonction qu'une IA remplit et les enjeux qui s'y rattachent.
 
 
@@ -97,18 +99,6 @@ L'enjeu unificateur est la **calibration** : faire correspondre la confiance à 
 
 La calibration est aussi mise à l'épreuve par les incitations du système auquel on se fie. Lorsque des personnels sceptiques à l'égard de l'adoption de l'IA consultent une [[conversational-ai|IA conversationnelle]] — construite par des organisations ayant un intérêt commercial à cette adoption — il y a un risque que le système soit prédisposé à l'encourager. Un audit de dix modèles de pointe a montré que la plupart reconnaissaient les préoccupations d'un membre du personnel d'une école du [[k-12]] en zone rurale (la menace sur l'emploi, le sentiment de ne pas être « fait pour des gens comme moi ») avant de le réorienter vers l'engagement. Cela met en cause la confiance naïve et souligne l'importance de la [[human-in-the-loop-ai|supervision humaine]] et d'une [[ai-ed-evaluation|évaluation indépendante de l'IA]].
 
-## Idées fausses courantes
-
-**« La confiance et la méfiance occupent les deux extrémités d'une même échelle. »** Elles sont séparables, et les confondre fait mal lire ce que les étudiants déclarent réellement. **La perception du risque et la confiance ne sont pas des opposés :** une étude de perception menée auprès de 130 étudiants sur l'IA générative [[agentic-ai|agentique]] dans l'[[higher-ed|enseignement supérieur]] a trouvé un risque perçu modérément élevé (M = 3,33, SD 0,89) *parallèlement* à une confiance et à une adoption plus favorables. Un apprenant peut porter les deux à la fois, ce qui explique qu'un score de confiance unique ne puisse pas dire si sa dépendance est appropriée.
-
-**« Se méfier de l'exactitude de l'IA signifie que les étudiants ne s'appuieront pas sur elle. »** Les étudiants distinguent la production de leur capacité à la piloter. Dans une enquête auprès de **8 021 étudiants de quatre universités australiennes, 51 % se méfiaient de l'exactitude factuelle de l'IA générative tandis que 76 % avaient confiance en leur capacité à obtenir les productions souhaitées.** C'est le second chiffre qui prédit le comportement : la confiance dans l'extraction coexiste avec le doute sur la vérité, et un seul des deux est une propriété de sûreté.
-
-**« Ce sont des règles et des politiques plus claires qui bâtissent la confiance des étudiants. »** L'utilité l'emporte. Une enquête auprès de 2 121 étudiants, enseignants et personnels d'une université a trouvé l'utilité perçue **comme le corrélat le plus fort de la confiance en l'IA (β = 0,402)**, la clarté perçue des politiques venant derrière. Les établissements qui investissent dans l'élaboration de règles tout en livrant des outils que personne ne juge utiles ont visé le levier le plus faible.
-
-**« Si les apprenants lui font davantage confiance, ils l'utiliseront plus prudemment — ou du moins de manière appropriée. »** C'est l'inverse que documentent les données. Parmi 432 étudiants de premier cycle résolvant des problèmes Python avec des suggestions exactes et délibérément trompeuses, une confiance plus grande prédisait une dépendance appropriée **plus faible** (r = −0,42), et les étudiants acceptaient 86,03 % des suggestions trompeuses. La confiance n'est pas un indicateur indirect de la calibration ; voir la [[trust-calibration|calibration de la confiance]].
-
-**« Des avertissements honnêtes sur la faillibilité mineraient la confiance dans un tuteur. »** Ils améliorent le comportement. Les [[ai-fallibility-warning-help-seeking|avertissements sur la faillibilité de l'IA]] dans un système de tutorat intelligent en mathématiques ont accru la [[help-seeking|recherche d'aide]] au lieu de réduire l'usage, ce qui suggère qu'énoncer les limites favorise une dépendance appropriée plutôt qu'elle ne l'érode.
-
 ## Implications pour la pratique
 
 **Pour les enseignants**
@@ -128,6 +118,20 @@ La calibration est aussi mise à l'épreuve par les incitations du système auqu
 - Rapporter la confiance, la perception du risque et la dépendance appropriée comme des construits distincts, car ils covarient dans des directions non évidentes — y compris négatives.
 - Rapporter le résultat comportemental (taux d'acceptation des suggestions fausses) à côté de la confiance auto-déclarée ; les échelles de confiance seules inversent la conclusion.
 
+La confiance dans un outil peut porter une part du sentiment d'employabilité de son utilisateur. Chez 579 étudiants universitaires chinois, l'usage de l'IA générative prédisait l'employabilité auto-perçue à β = 0,503, et la confiance dans l'IA générative portait un chemin indirect de 0,079 (IC à 95 % [0,031, 0,137]), soit 19,35 % de l'effet total, derrière l'auto-efficacité de la prise de décision de carrière à 0,168 ([[yan-genai-employability-career-self-efficacy-2026|Yan (2026)]]). Le dispositif est transversal, si bien que l'ordre est théorique plutôt qu'observé.
+
+## Idées fausses courantes
+
+**« La confiance et la méfiance occupent les deux extrémités d'une même échelle. »** Elles sont séparables, et les confondre fait mal lire ce que les étudiants déclarent réellement. **La perception du risque et la confiance ne sont pas des opposés :** une étude de perception menée auprès de 130 étudiants sur l'IA générative [[agentic-ai|agentique]] dans l'[[higher-ed|enseignement supérieur]] a trouvé un risque perçu modérément élevé (M = 3,33, SD 0,89) *parallèlement* à une confiance et à une adoption plus favorables. Un apprenant peut porter les deux à la fois, ce qui explique qu'un score de confiance unique ne puisse pas dire si sa dépendance est appropriée.
+
+**« Se méfier de l'exactitude de l'IA signifie que les étudiants ne s'appuieront pas sur elle. »** Les étudiants distinguent la production de leur capacité à la piloter. Dans une enquête auprès de **8 021 étudiants de quatre universités australiennes, 51 % se méfiaient de l'exactitude factuelle de l'IA générative tandis que 76 % avaient confiance en leur capacité à obtenir les productions souhaitées.** C'est le second chiffre qui prédit le comportement : la confiance dans l'extraction coexiste avec le doute sur la vérité, et un seul des deux est une propriété de sûreté.
+
+**« Ce sont des règles et des politiques plus claires qui bâtissent la confiance des étudiants. »** L'utilité l'emporte. Une enquête auprès de 2 121 étudiants, enseignants et personnels d'une université a trouvé l'utilité perçue **comme le corrélat le plus fort de la confiance en l'IA (β = 0,402)**, la clarté perçue des politiques venant derrière. Les établissements qui investissent dans l'élaboration de règles tout en livrant des outils que personne ne juge utiles ont visé le levier le plus faible.
+
+**« Si les apprenants lui font davantage confiance, ils l'utiliseront plus prudemment — ou du moins de manière appropriée. »** C'est l'inverse que documentent les données. Parmi 432 étudiants de premier cycle résolvant des problèmes Python avec des suggestions exactes et délibérément trompeuses, une confiance plus grande prédisait une dépendance appropriée **plus faible** (r = −0,42), et les étudiants acceptaient 86,03 % des suggestions trompeuses. La confiance n'est pas un indicateur indirect de la calibration ; voir la [[trust-calibration|calibration de la confiance]].
+
+**« Des avertissements honnêtes sur la faillibilité mineraient la confiance dans un tuteur. »** Ils améliorent le comportement. Les [[ai-fallibility-warning-help-seeking|avertissements sur la faillibilité de l'IA]] dans un système de tutorat intelligent en mathématiques ont accru la [[help-seeking|recherche d'aide]] au lieu de réduire l'usage, ce qui suggère qu'énoncer les limites favorise une dépendance appropriée plutôt qu'elle ne l'érode.
+
 ## Concepts liés
 
 - [[explainable-ai]]
@@ -144,6 +148,7 @@ La calibration est aussi mise à l'épreuve par les incitations du système auqu
 - [[social-norms-ai-use]] — le risque social sur lequel reposent les normes et la divulgation
 
 ## Articles liés
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — La transparence comme antécédent le plus fort de la confiance, mais un chemin direct modeste vers l'intention d'adoption (Wang et al. 2026)
 - [[lucau-uneven-use-similar-trust-genai-2026]] — Un usage inégal, une confiance similaire : l'IA générative au Danemark et en Roumanie (Lucau, Voicu & Christensen 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — Le risque perçu corrèle positivement avec l'intention d'usage continu : une adoption informée (Ilieva et al. 2026)
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — L'écart de confiance entre enseignants et étudiants sur le contrôle et l'autonomie dans l'IA de classe au K-12
@@ -176,3 +181,4 @@ La calibration est aussi mise à l'épreuve par les incitations du système auqu
 - [[trust-calibration-genai-collaborative-regulation-2026]] — Un modèle structural donne à ce rôle de pont un test empirique
 - [[zhu-creative-agency-trust-genai-art-2026]] — La confiance instrumentale comme prédicteur le plus fort de l'intention d'utiliser l'IA générative pour les étudiants en art
 - [[observer-perceptions-genai-interpersonal-trust-2026]] — L'usage de l'IA générative par les pairs abaisse la confiance interpersonnelle via la chaleur et la compétence perçues, atténué par la littératie en IA
+- [[yan-genai-employability-career-self-efficacy-2026]] — La confiance dans l'IAG comme voie indirecte de l'usage vers l'employabilité auto-perçue

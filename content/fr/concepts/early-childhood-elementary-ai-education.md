@@ -1,7 +1,7 @@
 ---
 title: "Éducation de la petite enfance"
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
@@ -9,7 +9,7 @@ connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -42,9 +42,9 @@ ai_assist:
 
 ## Introduction
 
-Les jeunes enfants interagissent avec l'IA de plus en plus tôt — à travers des jouets dotés d'IA, des chatbots, des plateformes d'[[adaptive-learning|apprentissage adaptatif]] et des robots de classe — et pourtant ils diffèrent, sur le plan du développement, des apprenants de la maternelle à la terminale et de l'enseignement supérieur qui dominent l'essentiel de la [[research-methods-aied|recherche]] sur l'IA en éducation. Ce concept rassemble la couverture que la base de connaissances consacre à cette tranche plus jeune. Il se situe sous le parapluie plus large du [[k-12|primaire et secondaire]] mais s'en distingue parce que les préoccupations sont spécifiques au développement : le [[game-based-learning|jeu]] comme mode d'apprentissage principal, l'étayage par les adultes (parents, enseignants), une [[ai-literacy|littératie en IA]] adaptée à l'âge, et une attention accrue au [[well-being|bien-être]] et à la [[pedagogical-safety|sécurité]] pédagogique.
+Les jeunes enfants interagissent avec l'IA de plus en plus tôt — à travers des jouets dotés d'IA, des chatbots, des plateformes d'[[adaptive-learning|apprentissage adaptatif]] et des robots de classe — et pourtant ils diffèrent, sur le plan du développement, des apprenants de la maternelle à la terminale et de l'enseignement supérieur qui dominent l'essentiel de la [[research-methods-aied|recherche]] sur l'IA en éducation. Ce concept rassemble la couverture que la base de connaissances consacre à cette tranche plus jeune. Il se situe sous le parapluie plus large du [[k-12|primaire et secondaire]] mais s'en distingue parce que les préoccupations sont spécifiques au développement : le [[game-based-learning|jeu]] comme mode d'apprentissage principal, l'étayage par les adultes (parents, enseignants), une [[ai-literacy|littératie en IA]] adaptée à l'âge, et une attention accrue au [[well-being|bien-être]] et à la [[pedagogical-safety|sécurité]] pédagogique. Le compte rendu développemental qui sous-tend ces affirmations — comment les capacités changent avec l'âge, et pourquoi « adapté à l'âge » est une relation plutôt qu'une étiquette — se trouve sur la page [[developmental-psychology|psychologie du développement]].
 
-### Comment la recherche se regroupe
+## Comment la recherche se regroupe
 
 - **La littératie en IA par le jeu débranché.** [[ai-play-framework-early-childhood-2026|Le cadre AI-Play]] enseigne les concepts d'IA destinés à la petite enfance par des activités *débranchées* (sans ordinateur), montrant que des idées abstraites d'IA peuvent être introduites auprès de jeunes enfants par des activités incarnées, ludiques et tangibles (voir [[game-based-learning]]) — une voie adaptée au développement vers l'[[ai-literacy|littératie en IA]] et la [[computational-thinking|pensée informatique]].
 - **Les jouets dotés d'IA et le développement de l'enfant.** [[ai-toys-child-development-2026|La recherche sur l'IA dans les jouets]] examine comment des jouets commerciaux dotés d'IA façonnent le développement et le jeu de l'enfant. Cela soulève des questions ouvertes sur les [[pedagogical-agent|agents]] dans le jeu, la [[trust-calibration|calibration de la confiance]], l'[[agency]] et le [[well-being]] pour les apprenants les plus jeunes — un domaine où les conseils de conception sont plus minces que pour les programmes scolaires, et où les [[parents-and-families|parents]] et tuteurs deviennent des parties prenantes centrales.
@@ -65,7 +65,9 @@ Les jeunes enfants interagissent avec l'IA de plus en plus tôt — à travers d
 - **Ce qui prédit si les enseignants de maternelle adoptent l'IA du tout.** Une enquête auprès de 270 enseignants de maternelle à Shanghai, au Zhejiang et au Guangdong, modélisée avec un [[technology-acceptance-model|TAM]] étendu, a trouvé que l'utilité perçue et la facilité d'utilisation prédisaient l'intention d'utiliser l'IA, le [[self-efficacy|sentiment d'efficacité personnelle]] à l'égard de l'IA l'élevant et l'[[anxiety-and-stress|anxiété liée à l'IA]] l'abaissant ([[preschool-teachers-ai-behavioral-intention-2026|Duan, Shan et Gong 2026]]). L'étude excluait par conception les outils destinés aux enfants, si bien que ses leviers — développement de la confiance et formation à faible enjeu — concernent le propre travail professionnel des enseignants.
 - **L'IA approchant les jugements développementaux sur les histoires pour enfants.** [[clara-developmental-appropriateness-children-stories-2026|Yin et al. (2026)]] annotent avec CLARA les exigences cognitives, langagières et socioémotionnelles d'une histoire et correspondent aux références d'âge des éditeurs 0.904 du temps, devant les formules de lisibilité (0.603) et l'invite directe (0.730) — ce qui est proposé comme un signal de soutien, et non comme un remplacement du juge humain.
 
-### Considérations développementales et d'équité
+- **La littératie en IA comme travail interprétatif de classe, et non comme savoir individuel.** [[konca-preschool-genai-storytelling-ai-literacy-2026|Konca et Yigit-Gencten (2026)]] ont codé 17 séances de narration dans une école maternelle turque où l'enseignante rédigeait chaque invite Midjourney et où la classe regardait les productions sur un écran partagé. Les enfants expliquaient les inadéquations en attribuant à la pensée, à l'ouïe et à l'intention au système (« il n'a pas pu y penser assez bien »), débattaient des liens entre invite et production, et votaient sur les images à conserver. Parce que les questions de l'enseignante décidaient quelles explications étaient retenues, et parfois clôturaient l'enquête, la littératie en IA précoce est ici distribuée dans l'activité plutôt que détenue par un enfant.
+
+## Considérations développementales et d'équité
 
 Parce que les jeunes apprenants sont plus vulnérables et moins capables d'autoréguler leur usage de l'IA, ce groupe met l'accent sur l'**étayage par les adultes** (parents, tuteurs et enseignants), la **conception adaptée à l'âge**, et le risque de sur-[[cognitive-offloading|dépendance]] et de [[well-being|tort]] si l'IA se substitue au travail développemental du jeu, de la découverte et de l'apprentissage exigeant, plutôt que de le soutenir. L'équité est une préoccupation vive : l'accès à un apprentissage précoce riche en IA (ou à une guidance adulte protectrice) est inégal, ce qui rejoint la [[digital-divide|fracture numérique]] et l'[[equity-in-ai-education|équité dans l'IA en éducation]]. Une grande partie du socle de données probantes reste exploratoire ou orientée par la conception plutôt que causale.
 
@@ -81,6 +83,7 @@ Une première fenêtre neuro-imagériale sur cette question arrive avec une mise
 
 ## Concepts liés
 
+- [[developmental-psychology]]
 - [[k-12]]
 - [[ai-literacy]]
 - [[computational-thinking]]

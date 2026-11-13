@@ -1,7 +1,7 @@
 ---
 title: "Évaluation automatisée"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation]
 audience: [instructors]
 confidence: high
 translation_of: concepts/automated-assessment
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-11T09:15:28-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -117,6 +117,8 @@ Quatre thèmes organisent le corpus : **l'Évaluation**, des modèles notant les
 La qualité de l'évaluation automatisée dépend de l'[[assessment-validity|évaluation et de sa validité]] et de l'[[bias-mitigation|atténuation des biais]]. La recherche sur les [[ai-scoring-language-bias-physics|biais linguistiques]] montre que la notation automatisée peut désavantager systématiquement certaines populations étudiantes.
 **Le critère est lui-même faillible.** [[ai-marking-accuracy-gcse-physics-2026|Bozdag et Qiu (2026)]] notent des copies de physique de niveau GCSE avec un système d'IA et les comparent à la fois aux notes officielles des commissions d'examen et au jugement d'enseignants expérimentés, traitant l'accord avec la commission comme un indicateur d'exactitude plutôt que comme l'exactitude elle-même.
 
+- **Le désaccord de l'IA comme diagnostic de la grille.** [[zhao-ai-supported-grading-rubric-refinement-2026|Zhao et coll. (2026)]] ont intégré un correcteur LLM à PrairieLearn afin que les enseignants voient le désaccord au niveau des items avec leur propre notation, puis révisent la grille avant de passer à l'échelle. L'accord IA–humain atteignait 99,4 % sur une question à bogue à item unique et tombait à 65 % sur un problème de matrice de Markov à six solutions valides.
+
 
 ### Les scénarios de déploiement et ce que chacun exige
 
@@ -133,11 +135,14 @@ Combiner les trois modèles n'a pas supprimé cette erreur : parce que leurs err
 
 Une évaluation par équipe rouge d'un flux de notation quotidien montre la surface d'attaque que la planification d'un usage adverse doit couvrir. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] a enfoui cinq injections indirectes d'invites dans une dissertation synthétique que Microsoft Copilot (GPT-5.2) avait notée comme échouée sur six exécutions de référence, en itérant chacune sur des fichiers docx, pdf et htm. Deux stratégies ont changé la note sans avertissement visible — un paragraphe de manipulation d'instructions et de jeu de rôle sur 9 itérations (100%), et le même paragraphe caché derrière une couche d'image sur 17 itérations (94%) — tandis qu'un paragraphe en petit texte blanc à la fin du document échouait lors des neuf itérations, et que les injections dans les métadonnées de fichiers n'ont jamais fonctionné, ce que l'auteur attribue à la désactivation de l'accès aux métadonnées dans la version testée. Le problème de confiance a survécu aux exploits : après qu'une exécution sur pdf eut détecté une instruction enfouie et déclaré qu'elle noterait uniquement selon le devoir officiel, la réexécution du même fichier a élevé la note six fois de plus sans avertissement, et une conversation bloquée par une attaque détectée a été silencieusement désactivée plutôt que signalée à l'utilisateur. L'auteur soutient que les notes qui en résultent n'étayent aucune prétention à la [[assessment-validity|validité]], dans un sens comme dans l'autre, qu'un adversaire n'a besoin que d'une seule combinaison efficace face à des [[guardrails|garde-fous]] superposés, et que l'enseignant demeure le seul [[human-in-the-loop-ai|contrôle réel de la production]], tandis que la manipulation est conçue pour ne pas être visible — ce qui se relie directement à l'obligation d'assainissement des entrées et de sécurité adverse que Venetsanos énonce plus haut.
 
+- **La grille elle-même est une surface d'attaque.** [[roy-premise-rubrics-llm-judges-2026|Roy et coll. (2026)]] montrent qu'une réponse rédigée pour satisfaire la formulation d'une grille tout en violant son intention obtenait encore une note élevée dans 46,4 % des tentatives vérifiées, alors même que l'accord entre juges restait élevé. Leurs opérateurs de raffinement — conditions d'applicabilité, clauses de non-récompense, plafonds de score — ont ramené ce taux à 36,0 %.
+
 ### Connexions
 
 L'évaluation automatisée se relie à la [[assessment-validity|validité de l'évaluation]] (assurance qualité), à l'[[formative-assessment|évaluation formative]] (contexte d'usage), à l'[[bias-mitigation|atténuation des biais]] et à l'[[equity-in-ai-education|équité]] (équité de traitement), au [[teacher-role|rôle de l'enseignant]] (comment l'automatisation change le travail de l'enseignant), et à l'[[ai-feedback-quality|IA et la qualité de la rétroaction]] (une notation sans rétroaction utile a une valeur éducative limitée). L'évaluation consciente de la confiance est un mécanisme spécifique au sein du programme plus large de l'[[psychometrically-aware-ai|IA consciente de la psychométrie]], et un contributeur à une [[trust-calibration|confiance calibrée]].
 
 - **Notation par l'IA à grande échelle de copies manuscrites de [[physics-education|physique]] (2026) :** un modèle multimodal (GPT-5.5) a noté 10,364 pages scannées, réparties sur un examen théorique de l'Olympiade de physique, un camp de sélection et un examen universitaire de mécanique quantique, atteignant des corrélations de score total de 0.91 à 0.97 avec les notes officielles et retrouvant la même équipe des cinq premiers de l'Olympiade. Des instructions révisées, page par page, de localisation des preuves ont amélioré l'accord — la preuve qu'une [[multimodal|IA multimodale]] peut soutenir une notation sommative à fort enjeu, avec une ingénierie soignée des grilles et des invites ([[ai-grading-handwritten-physics-2026]]).
+- **La notation agentique était fiable sur les items discrets, pas sur les dessins.** [[alghamdi-claude-code-agentic-grading-2026|AlGhamdi (2026)]] a fait noter par Claude Code 60 examens manuscrits scannés (r = 0.97, ICC = 0.96), mais le kappa pondéré chutait de 0.98 sur les questions à choix multiples à 0.65 sur les items d'évaluation, avec 55 % d'accord exact sur les schémas.
 
 
 - **Automatisation sélective pour les copies manuscrites de [[chemistry-education|chimie]] (2026) :** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] ont noté une épreuve finale manuscrite de chimie générale réunissant 296 étudiants, page par page, par confrontation à des images de grilles, avec un LLM multimodal et raisonnant, atteignant une forte fiabilité d'une exécution à l'autre sur les scores totaux (ICC(A,1) = 0.967) et un fort accord de score total avec la notation par les assistants d'enseignement (R² = 0.91). Parce que la fiabilité au niveau des items variait fortement selon le format — les réponses textuelles et de réaction chimique étant notées de manière fiable, tandis que le dessin et la réalisation de graphiques obtenaient des scores pires que le hasard — l'accord brut a été jugé inadéquat pour un usage à fort enjeu. Ils opérationnalisent la [[human-in-the-loop-ai|déférence humaine]] au moyen de filtres de confiance (seuils de crédit partiel, seuil de risque fondé sur l'[[item-response-theory|IRT]], et exclusion par type de problème) qui convertissent les scores bruts de l'IA en une politique d'acceptation ou de déférence, et montrent que les faux positifs (l'IA créditant de réponses réellement fausses) tendent à passer inaperçus, puisque les étudiants les contestent rarement — une voie concrète, [[psychometrically-aware-ai|fondée sur la psychométrie]], vers une automatisation sélective ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
@@ -153,6 +158,8 @@ L'évaluation automatisée se relie à la [[assessment-validity|validité de l'�
 - **Une notation structurée par LLM peut sembler analytique sans être diagnostique (2026) :** en notant 3,041 réponses à 50 questions d'informatique, trois LLM commerciaux ont produit des sous-dimensions de grilles quasi redondantes (r = 0.82 à 0.99, VIF allant jusqu'à 45) et n'ont nommé de [[misconceptions|idées fausses]] que dans 4.8 à 7.4% des commentaires, contre 15.0% pour les enseignants ([[llm-structured-assessment-diagnostic-quality-2026|Zhao et al., 2026)]]).
 
 - **« Un seul kappa suffit à justifier un correcteur. »** C'est une vérification parmi d'autres, et un banc d'essai de **22 modèles sollicités par invite** sur trois corpus publics montre pourquoi. Tous les modèles passaient des sondes dont la bonne réponse est connue : une demande polie de note maximale, une consigne de notation falsifiée, une réponse vide, un mot absurde, une objection nue. **Quatorze** ont été signalés pour avoir gagné plus de **5 % de l'échelle** grâce à une note, jusqu'à **83,2 %** sur du code, et **sept** créditaient des réponses vides ou dénuées de sens ; [[porcaro-ai-grading-benchmark-2026|le chiffre d'accord et les tests de défaillance doivent donc être lus ensemble]]. Un système de notation déployé a une entrée de plus à tester : partager avec le correcteur l'estimation d'un [[student-modeling|modèle d'apprenant]] déplaçait les notes de **0,28 à 0,75 point** sur un travail identique, et [[porcaro-ai-grader-reliability-2026|l'ablation qui l'a mis au jour]] laissait l'accord entre évaluateurs presque inchangé.
+
+- **L'accord d'étiquetage dépend du cadre.** Face aux étiquettes d'enseignants sur 62 questions de pharmacie, un outil de cartographie curriculaire par IA atteignait un kappa de 0.69 pour les états pathologiques et de 0.57 pour la taxonomie de Bloom, mais seulement 0.24 pour les sous-domaines COEPA, et la comparaison autorisait plusieurs étiquettes par enseignant contre un choix unique pour l'outil ([[stewart-tag-question-categorization-competency-2026]]).
 
 ## Idées fausses courantes
 
@@ -187,6 +194,10 @@ L'évaluation automatisée se relie à la [[assessment-validity|validité de l'�
 - [[summative-assessment]] — Évaluation sommative : formats résistants à l'IA (examens oraux, surveillés, à livre fermé)
 
 ## Articles liés
+
+- [[stewart-tag-question-categorization-competency-2026]] — Étiquetage curriculaire par IA : kappa 0.69 sur les états pathologiques, 0.57 sur Bloom, 0.24 sur les sous-domaines COEPA (Stewart et coll. 2026)
+- [[zhao-ai-supported-grading-rubric-refinement-2026]] — Le désaccord IA–enseignant comme signal de développement de grille dans PrairieLearn (Zhao et coll. 2026)
+- [[roy-premise-rubrics-llm-judges-2026]] — La formulation de la grille comme surface d'attaque : 46,4 % des exploits vérifiés obtenaient une note élevée, ramenés à 36,0 % par raffinement (Roy et coll. 2026)
 - [[llm-structured-assessment-diagnostic-quality-2026]] — Les sous-dimensions de grilles produites par les LLM sont quasi redondantes et la rétroaction nomme rarement les idées fausses (Zhao et al. 2026)
 - [[opraise-automated-marking-ai-assessment-2026]] — Rapport OpRaise : notation par l'IA de 761 dissertations universitaires réparties sur trois universités britanniques
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Notation assistée par l'IA avec intervention humaine dans une évaluation nationale d'écriture à grande échelle (Curi et al. 2026)

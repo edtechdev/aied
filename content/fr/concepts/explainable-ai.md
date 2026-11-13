@@ -1,7 +1,7 @@
 ---
 title: "IA explicable"
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T06:42:13-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -92,6 +92,8 @@ Deux mises en garde aiguisent encore ce constat, que la contribution la plus ré
 
 **Ce qu'un modèle dit avoir utilisé dépend autant de la famille que des données.** Sur sept modèles appliqués à une même cohorte, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et coll. (2026)]] ont constaté que les approches symboliques s'appuyaient sur des facteurs cognitifs et [[motivation|motivationnels]], les modèles sous-symboliques sur des aspects cognitifs, les connaissances apprises et le genre, et que les deux négligeaient largement les facteurs métacognitifs, tandis que le modèle neuro-symbolique en utilisait un ensemble plus intégré. Les mêmes étudiants et les mêmes indicateurs produisaient des comptes rendus différents de ce qui importait, si bien que l'alignement avec la [[learning-theories|théorie de l'apprentissage]] devient une affirmation sur les attributions plutôt que sur la précision.
 
+Les métriques employées pour certifier la qualité d'une explication ne mesurent pas l'adéquation. Dans une étude préenregistrée portant sur 166 participants et comparant trois méthodes de saillance (LIME, Grad-CAM, Guided Backpropagation), les notes de satisfaction et de confiance étaient stables entre conditions, une mesure de tâche favorisait Grad-CAM et les métriques mathématiques de fidélité favorisaient Guided Backpropagation — trois familles de preuves pointant vers trois méthodes différentes ([[kares-xai-evaluation-alignment-2027|Kares et al., 2027]]). Certaines relations entre métriques et performance allaient dans le sens opposé à celui que les métriques sont censées certifier. Un score de fidélité est une preuve sur le modèle, non sur la capacité d'un utilisateur à agir à partir de l'explication.
+
 ## Enseigner l'explicabilité comme pratique de reddition de comptes
 
 Si la qualité de l'explication décide de l'utilité de la XAI, alors produire des explications doit s'enseigner comme une habitude professionnelle plutôt que se démontrer comme une capacité. [[lund-socially-accountable-data-science-xai-2026|Lund et ses collègues (2026)]] proposent de le faire selon quatre piliers — l'**obligation de répondre** (l'obligation de donner des raisons à ceux qui sont affectés), la **responsabilité** (le préjudice anticipé sur l'ensemble du cycle de vie, et non défendu après coup), l'**application** (des conséquences à l'intérieur du cours) et la **réflexivité** (l'examen documenté de ses propres présupposés) — chacun avec ses propres travaux et son propre coût en classe.
@@ -131,6 +133,7 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 
 ## Articles liés
 
+- [[kares-xai-evaluation-alignment-2027]] — 166 participants, trois méthodes de saillance : satisfaction et confiance stables, performance à la tâche et métriques de fidélité en désaccord (Kares et al., 2027)
 - [[lund-socially-accountable-data-science-xai-2026]] — Un cadre à quatre piliers (réponse, responsabilité, application, réflexivité) pour enseigner l'XAI comme pratique de reddition de comptes (Lund et coll. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Conception sensible aux valeurs d'un ITS centré sur l'étudiant (explications collaboratives ou brutes)
 - [[xai-education-framework]] — XAI-ED : le cadre fondateur de l'IA explicable en éducation (Khosravi et coll. 2022)

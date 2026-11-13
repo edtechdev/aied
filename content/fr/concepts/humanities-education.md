@@ -1,14 +1,14 @@
 ---
 title: "Lettres et sciences humaines"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-12T06:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,8 @@ L'enseignement des sciences humaines a commencé à recourir à l'IA agentique p
 
 **« Un modèle généraliste est aussi utile pour l'érudition textuelle que pour le résumé. »** L'interprétation exige la position du lecteur, et une couche d'assistance qui fournit la lecture a accompli l'acte interprétatif que la discipline existe pour enseigner.
 
+Un quiz d'IA conçu pour une unité obligatoire de musicologie de première année montre où se situe l'objection disciplinaire. Trente-quatre étudiants du Conservatoire de musique de Sydney ont utilisé un quiz adaptatif et ludifié sur le contenu des cours. Les plaintes qui portaient un poids disciplinaire ne concernaient pas l'exactitude factuelle, mais le jugement correct-incorrect porté sur du matériau interprétatif et l'externalisation de l'expertise ; un seul des 34 commentaires reliait l'application à une interprétation critique ou interdisciplinaire ([[lee-ai-music-quiz-disciplinary-thinking-2026|Lee et al. (2026)]]). La recommandation des auteurs est de conserver de tels outils comme révision facultative et d'ajouter des invites ouvertes qui séparent l'appariement superficiel de mots-clés de l'interprétation.
+
 ## Concepts liés
 
 - [[higher-ed]]
@@ -103,4 +105,4 @@ L'enseignement des sciences humaines a commencé à recourir à l'IA agentique p
 - [[liu-argumentative-work-visible-genai-assessment-2026]] — Format de tâche et consignes d'usage de l'IA comme ce que l'artefact peut attester (Liu & Liu 2026)
 
 - [[capodieci-humanities-hil-2026]] — L'IA agentique dans l'apprentissage des sciences humaines, et le déplacement de la paternité du texte vers l'attribution de l'interprétation (Capodieci et al. 2026)
-
+- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — Des étudiants en musicologie objectaient au jugement binaire porté sur du matériau interprétatif plutôt qu'à une erreur factuelle

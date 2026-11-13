@@ -1,15 +1,16 @@
 ---
 title: "Comment rédiger et mettre en œuvre une politique institutionnelle sur l'IA ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 weight: 65
 type: faq
+connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research, adopting-ai-options-and-issues]
 ethics: [equity-in-ai-education, ethics, privacy]
 research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
-source_updated: "2026-10-28T11:39:28-04:00"
+source_updated: "2026-11-12T15:50:00-05:00"
 translation_of: faqs/institutional-ai-policy
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -55,6 +56,8 @@ Avant la formulation, le périmètre. [[institutional-governance-ai-universities
 Ce que ces documents priorisent vous dit ce que leurs auteurs croyaient que le document servait à faire. Les politiques au niveau de l'université couvrent la sécurité des données, l'atténuation des risques, les achats et la conformité juridique, avec peu d'orientations [[pedagogy|pédagogiques]]. Les politiques au niveau de l'école qui existent se concentrent sur l'enseignement et la [[ai-literacy|littératie en IA]]. Huit [[business-education|écoles de commerce]] seulement avaient leur propre politique, et celles-ci différaient de leur cadre d'accueil dans six cas sur huit.
 
 Le remède que proposent les auteurs est une structure en couches : une couche de gestion des risques à l'échelle de l'université, des politiques au niveau des départements, et des comités inter-départementaux avec des enseignants et des étudiants. Adoptez cela et vous obtenez une phrase de périmètre que vous pouvez défendre devant le sénat académique. Ce document gère le risque institutionnel ; les décisions pédagogiques reviennent au département qui note le travail. La stratification répond aussi au reproche de flou sans produire 40 pages.
+
+Un second angle mort se situe du côté de la production. Presque toutes les politiques de ce registre régissent ce que les étudiants et le personnel font avec l'IA ; presque aucune ne régit les contenus que l'établissement produit avec elle. Chew (2026) soutient que cette omission est structurelle : les images, les cas et les items d'examen générés par l'IA entrent dans les programmes comme contenus d'enseignement, où une erreur plausible atteint chaque apprenant et peut ne jamais produire de signal comme le fait l'erreur d'un étudiant ([[chew-ai-content-governance-medical-education-2026|Chew, 2026]]). Une politique qui s'arrête à l'usage par les apprenants laisse de côté l'usage aux conséquences les plus lourdes. Les quatre dispositions qui comblent cet écart consistent à savoir ce qui est en usage, à tester avant que les apprenants ne le voient, à agir sur les constats y compris par le retrait, et à surveiller les outils approuvés pour détecter toute dérive.
 
 ## Écrire des dispositions qui contraignent, ou les retirer
 

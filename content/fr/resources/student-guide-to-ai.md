@@ -1,7 +1,7 @@
 ---
 title: "Student Guide to AI"
 created: "2026-09-28T04:47:03-04:00"
-updated: "2026-10-10T04:00:00-04:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: resource
 summary: "Un guide étudiant gratuit en trois éditions sur l'intelligence artificielle, de l'université Elon, de l'AAC&U et de The Princeton Review, dont l'édition 2026 développe dix capacités humaines avec des modules d'apprentissage prêts pour l'enseignant et une auto-évaluation anonyme."
 url: https://studentguidetoai.org/
@@ -18,7 +18,7 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Le guide de terrain de 2026 travaille dix capacités — curiosité, [[critical-
 
 ## À qui cela s'adresse
 
-Aux étudiants de premier cycle de toute discipline, et aux élèves du secondaire supérieur. Le corps professoral, le personnel de soutien académique, les bibliothécaires et les éducateurs de la vie étudiante reçoivent l'ensemble de modules et les invites de discussion ; le guide est délibérément neutre du point de vue des disciplines, ce qui explique pourquoi les institutions l'utilisent pour les séminaires de première année, le développement pédagogique et un vocabulaire partagé entre des initiatives d'IA distinctes.
+Aux étudiants de premier cycle de toute discipline, et aux élèves du secondaire supérieur. Le corps professoral, le personnel de soutien académique, les bibliothécaires et les éducateurs de la vie étudiante reçoivent l'ensemble de modules et les invites de discussion ; le guide est délibérément neutre du point de vue des disciplines, ce qui explique pourquoi les institutions l'utilisent pour les séminaires de première année, le [[educational-development|développement pédagogique]] et un vocabulaire partagé entre des initiatives d'IA distinctes.
 
 ## Remarques et réserves
 

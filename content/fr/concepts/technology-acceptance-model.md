@@ -1,7 +1,7 @@
 ---
 title: "Les modèles d'adoption des technologies"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-10T19:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,8 @@ La recherche sur l'adoption s'arrête généralement à l'intention ; une extens
 ### La diffusion de l'innovation (DOI)
 La théorie de la DOI de Rogers explique l'adoption comme un processus social dans lequel les innovations se diffusent au sein des populations au fil du temps, en mettant l'accent sur les attributs de l'innovation (avantage relatif, compatibilité, complexité, possibilité d'essai, observabilité) et sur les catégories d'adoptants. Elle apparaît dans les analyses [[governance|institutionnelles]] de la base de connaissances, par exemple lorsque [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] combinent le cadre Technologie–Organisation–Environnement (TOE) avec la DOI pour modéliser l'adoption organisationnelle de l'IA dans les universités saoudiennes.
 
+Au niveau étudiant, [[gocyla-genai-adoption-diffusion-2026|Gocyła et Strzelecki (2026)]] ont constaté que l'avantage relatif, la compatibilité, la simplicité et l'observabilité prédisaient l'intention d'utiliser l'IAG, expliquant 48.7 % de la variance, tandis que l'essayabilité ne la prédisait pas (f² = 0.001) : l'accès gratuit peut faire de l'essai une attente de base plutôt qu'un facteur de différenciation.
+
 ### Technologie–Organisation–Environnement (TOE)
 Le cadre TOE pose l'adoption comme façonnée par les contextes technologique, organisationnel et environnemental — un complément aux TAM/UTAUT au niveau individuel pour l'étude de l'adoption institutionnelle (voir [[alrahmi-org-drivers-ai-adoption-he-2026]]).
 
@@ -107,6 +109,8 @@ L'apport méthodologique est la partie la plus transférable. Un réseau multico
 
 L'analyse des conditions nécessaires a ensuite séparé l'influence de l'exigence. La facilité d'usage, prédicteur le mieux classé, a échoué d'emblée (d = 0, p = 0.592). L'utilité était nécessaire mais petite (d = 0.027, p = 0.011). Les auteurs lisent ce clivage comme une mise en garde contre le traitement d'un coefficient de chemin comme un plancher. Un coefficient fort dit qu'une unité de facilité achète de l'intention en moyenne ; seule la nécessité dit si l'autre croyance peut être absente.
 
+**Des caractéristiques de conception acheminées par la confiance, avec la DOI aux côtés du TAM.** [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] ont interrogé 653 apprenants au sujet d'[[ai-avatars-and-synthetic-instructors|avatars d'IA]] et ont constaté que le chemin le plus fort de leur modèle combiné TAM–DOI allait de la transparence perçue à la [[trust|confiance]] (β = 0.542). L'avantage relatif (β = 0.267) et l'utilité perçue (β = 0.247) portaient l'intention davantage que l'attitude (β = 0.126).
+
 Le lien entre risque et usage dépend aussi du système : sur les 49 systèmes de TALIS 2024 ayant administré les items, l'utilité perçue de l'IA était associée positivement à l'usage de l'IA dans les 49, tandis que le risque perçu y était associé négativement dans 40 et positivement dans neuf ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
 **L'attente de performance peut porter une relation que la recherche sur l'acceptation lit comme une intention d'usage.** Dans [[kim-overtrust-ai-literacy-2026|Kim, Kim et Zhang (2026)]], l'attente de performance prédisait la confiance excessive envers l'IA à B = 0,6107 et constituait le premier médiateur par lequel l'auto-efficacité, la motivation intrinsèque et la [[motivation|motivation extrinsèque]] atteignaient cette confiance excessive. Le chemin indirect passant par la seule attente était positif pour les trois prédicteurs, 0,1355 (IC à 95 % [0,0542 ; 0,2330]) pour l'auto-efficacité, si bien que l'attente ne prédisait pas seulement si les étudiants utiliseraient l'outil.
@@ -134,6 +138,7 @@ Le lien entre risque et usage dépend aussi du système : sur les 49 systèmes d
 - [[framing-ai-use-for-students]]
 
 ## Articles liés
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — TAM + DOI pour les avatars d'IA : transparence → confiance (β = 0.542), l'avantage relatif et l'utilité portant l'intention
 
 - [[high-school-genai-acceptance-tam-physics-2026]] — Croyances propres à la discipline placées en amont des perceptions du TAM
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — L'IA générative comme « frenemy » : autonomie artificielle et aversion au risque étendent le TAM aux enseignants (Dai et al. 2026)

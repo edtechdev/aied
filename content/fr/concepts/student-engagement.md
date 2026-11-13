@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-11-05T09:35:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 
 L'engagement est un construit multidimensionnel ancré dans la psychologie de l'éducation. **L'engagement comportemental** renvoie à la participation, à l'effort, à la persistance et à l'activité orientée vers la tâche. **L'engagement cognitif** renvoie à la profondeur du traitement mental — élaboration, [[critical-thinking|analyse critique]], auto-[[regulation|régulation]] et investissement d'effort mental. **L'engagement affectif** renvoie aux réactions émotionnelles telles que l'intérêt, le plaisir, l'[[anxiety-and-stress|anxiété]] et l'identification à l'apprentissage. Ces dimensions peuvent diverger : un étudiant peut être actif sur le plan comportemental (clics, temps passé) tout en restant cognitivement superficiel (acceptation passive des productions), ou intéressé sur le plan affectif tout en étant distrait sur le plan comportemental. Cette multidimensionalité explique pourquoi l'engagement ne doit pas être assimilé à un comportement observable unique.
 
-### Comment l'engagement des étudiants apparaît dans la recherche
+## Comment l'engagement des étudiants apparaît dans la recherche
 
 - **L'engagement comme résultat de la conception de l'IA :** la [[genai-motivation-engagement-2026|recherche sur la motivation et l'IA générative]] montre que l'engagement dans l'apprentissage soutenu par l'[[generative-ai|IA générative]] découle de la satisfaction des besoins psychologiques fondamentaux ([[self-determination-theory|autonomie, compétence, lien avec autrui]]) — l'engagement est le résultat en aval du soutien motivationnel, et non de la seule disponibilité de la technologie. L'engagement est souvent mesuré par des [[self-report-measures|auto-déclarations]] tandis que l'engagement comportemental provient des journaux d'interaction, et les deux ne sont pas interchangeables.
 
@@ -72,7 +72,7 @@ Cet [[scaffolding|étayage]] a un pendant institutionnel doté d'une double voie
 
 - **L'engagement, le flow et l'intelligence émotionnelle ont grandi ensemble dans des cours de musique assistés par l'IA.** Cinq vagues sur un semestre auprès de 850 étudiants de premier cycle ont montré une croissance moyenne dans les trois, avec des corrélations de pente de 0.39 entre l'engagement et le flow et de 0.22 entre l'engagement et l'intelligence émotionnelle ; la croissance du flow portait le lien avec l'intelligence émotionnelle ([[zhang-tang-ai-music-classroom-engagement-longitudinal-2026|Zhang et Tang, 2026]]).
 
-### Mesurer l'engagement : le problème du choix de métrique
+## Mesurer l'engagement : le problème du choix de métrique
 
 L'engagement est opérationnalisé par une gamme de signaux observables. **Les métriques comportementales** mesurent ce que les apprenants *font* (temps consacré à la tâche, nombre d'activités, fréquence des interactions, persistance) ; **les métriques cognitives** mesurent la manière dont les apprenants *pensent* (profondeur du traitement, engagement critique, analyse du discours) ; **les métriques affectives** mesurent ce que les apprenants *ressentent* (émotion, motivation, intérêt) ; et **les métriques contextuelles** saisissent le multitâche et l'attention. La recherche sur l'IA éducative combine de plus en plus ces métriques et traite l'engagement comme un mécanisme de médiation entre la conception de l'outil d'IA et les [[learning-gains|résultats d'apprentissage]], plutôt que comme un résultat en soi.
 
@@ -92,13 +92,13 @@ Le choix de la métrique est définitoire : une étude qui mesure l'engagement e
 
 - **L'engagement comme signal de modélisation de l'apprenant :** [[engagement-intensity-learner-modeling|l'intensité de l'engagement comme signal de modélisation de l'apprenant]] utilise la force de l'engagement pour éclairer les systèmes d'IA adaptatifs, positionnant les métriques d'engagement comme des entrées de la [[student-modeling|modélisation de l'apprenant]] et de l'[[adaptive-learning|apprentissage adaptatif]] plutôt que comme de simples sorties d'évaluation.
 
-### Engagement contre apprentissage
+## Engagement contre apprentissage
 
 Un thème central de la recherche de la base de connaissances est que l'engagement et l'apprentissage doivent être distingués. Les outils d'IA qui génèrent un engagement élevé (temps sur la tâche, volume d'interactions) peuvent ne pas produire d'apprentissage si cet engagement est passif ou s'il se substitue au [[cognitive-offloading|travail cognitif]] de la compréhension — voir [[genai-performance-vs-learning|performance contre apprentissage]]. Inversement, la lutte productive et les [[desirable-difficulties|difficultés désirables]] peuvent produire de l'apprentissage même lorsque l'engagement de surface semble plus faible. L'engagement est donc traité au mieux comme un *mécanisme* — précieux dans la mesure où il reflète ou rend possible un [[cognitive-psychology|traitement cognitif]] significatif — plutôt que comme un résultat final.
 
 Cette distinction n'est pas qu'académique. [[pramod-agentic-ai-motivational-pathways-2026|Pramod et Patil (2026)]] placent l'engagement au centre de leur modèle PLS-SEM, entre la motivation et la [[community-of-inquiry|présence sociale]] d'une part et la performance *perçue* d'autre part — le plus grand coefficient de leur modèle, et qui demeure une perception plutôt qu'une mesure de l'apprentissage.
 
-### La pédagogie fait médiation dans l'effet de l'IA sur l'engagement
+## La pédagogie fait médiation dans l'effet de l'IA sur l'engagement
 
 Une synthèse systématique de l'[[higher-ed|IA dans l'enseignement supérieur]] ([[long-ai-higher-ed-engagement-teaching-methods-2026|Long et al., 2026]]) souligne que **la méthode [[teacher-role|d'enseignement]] dans laquelle un outil d'IA s'insère est le médiateur décisif** de sa capacité à engager les étudiants. Les chatbots, les systèmes adaptatifs et l'analyse prédictive améliorent le plus l'engagement lorsqu'ils sont déployés au sein de pédagogies interactives — classes inversées, [[project-based-learning|apprentissage par projets]] et boucles de [[feedback|rétroaction]] étayées — plutôt que comme outils autonomes. La revue formalise cela par le **modèle PMAISE** (médiation [[pedagogy|pédagogique]] de l'IA pour l'engagement des étudiants), cartographiant l'alignement entre les [[ai-technologies|Technologies de l'IA]] d'IA, les stratégies pédagogiques et les dimensions affective, comportementale et cognitive de l'engagement. L'implication est que les résultats d'engagement sont co-produits par l'outil *et* par la [[learning-design|conception pédagogique]] environnante : la même IA peut amplifier l'engagement dans une pédagogie et l'inhiber dans une autre.
 
@@ -106,7 +106,7 @@ Un compte rendu en deux dimensions fait le même point depuis le versant pédago
 
 L'affirmation porteuse du cadre est celle de l'amplification plutôt que de la causalité. Les différences entre les quatre configurations devraient se creuser à mesure que l'IA générative devient largement disponible, que l'évaluation récompense le produit final et que les processus de composition restent invisibles : l'outil amplifie donc les conditions que la tâche et l'enseignant ont déjà posées, au lieu de créer lui-même des schémas d'engagement. Al Nafjan déclare que le cadre est propositionnel et non testé, ce qui fait des quatre profils des attentes en attente de test empirique plutôt que des effets observés.
 
-### Connexions avec les concepts liés
+## Connexions avec les concepts liés
 
 L'engagement des étudiants est en lien avec la [[motivation|motivation]] et la [[self-determination-theory|théorie de l'autodétermination]] comme moteurs psychologiques, et avec l'[[student-experience|expérience étudiante]] comme contexte vécu. Sa mesure s'appuie sur les [[learning-analytics|analytiques de l'apprentissage]] et la [[educational-measurement|mesure éducative]], qui fournissent les outils [[quantitative-research|quantitatifs]] permettant d'opérationnaliser les dimensions ci-dessus. La distinction entre engagement profond et engagement superficiel relie directement l'[[self-regulated-learning|apprentissage autorégulé]] (les apprenants autorégulés s'engagent de manière stratégique), la [[cognitive-offloading|délégation cognitive]] et la [[cognitive-offloading|délégation cognitive]] (la dépendance superficielle comme mode d'échec), et la [[metacognition|métacognition]]. Dans la conception des systèmes, les signaux d'engagement alimentent la [[student-modeling|modélisation de l'apprenant]] et l'[[adaptive-learning|apprentissage adaptatif]], et les résultats d'engagement figurent dans les évaluations [[research-methods-aied|de méthodes de recherche]] des interventions d'IA en éducation.
 
@@ -122,16 +122,6 @@ L'engagement des étudiants est en lien avec la [[motivation|motivation]] et la 
 
 - **Le désengagement comme manœuvre au niveau du tour de parole, et non comme état stable :** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] ont codé 5 522 énoncés d'étudiants adressés à un agent enseignant en IA dans Math Nation selon six catégories de désengagement conversationnel (réponse fausse, moquerie, ghosting, imitation, rétention d'information, aléatoire/bruyant) et ont constaté que le taux d'engagement dominait, à 75,7% des énoncés. Les associations fondées sur la prévalence entre la réponse fausse et la moquerie, d'une part, et les scores au post-test, d'autre part, n'ont pas survécu à un contrôle de sensibilité par annotation humaine. L'analyse séquentielle est le résultat pertinent pour l'engagement : la grappe la plus performante combinait un désengagement modéré à de fortes transitions de rétablissement vers l'engagement (rétention d'information → engagement, p = 0,83), tandis que la plus faible montrait des boucles autoréférentes persistantes sans rétablissement (boucle autoréférente de l'engagement, p = 0,96). La rétention d'information était le seul type de désengagement qui tendait à persister plutôt qu'à se résoudre — c'est la persistance face à la réparation, et non la présence face à l'absence, qui distingue les trajectoires d'engagement.
 
-
-## Idées fausses courantes
-
-**« Si l'engagement a augmenté, l'apprentissage a augmenté. »** C'est l'inférence la plus coûteuse de la littérature sur l'engagement et l'IA, et la base de connaissances contient un contre-exemple net. [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker et Becker-Genschow (2025)]] ont randomisé 195 classes de neuvième année vers un chatbot de mathématiques spécifique au domaine ou vers des supports de différenciation conventionnels pour une leçon sur la méthode de Héron. L'intérêt situationnel a augmenté substantiellement dans la condition chatbot (M = 2.63 vs 2.43, p = 0.00005, d de Cohen = 0.63) et l'acceptation était élevée sur les quatre dimensions du [[technology-acceptance-model|modèle d'acceptation de la technologie]] — pourtant la comparaison de performance pré-post n'a trouvé **aucune interaction groupe × temps significative** (F(1194) = 2.84, p = 0.094), et la charge cognitive extrinsèque était légèrement plus élevée. Intérêt et réussite ont progressé selon des calendriers différents. Un résultat d'engagement n'est pas une preuve d'[[learning-gains|apprentissage]].
-
-**« L'engagement est une seule chose, et le temps consacré à la tâche le mesure. »** Le construit est multidimensionnel et ses dimensions divergent par construction : un étudiant peut être comportementalement actif — cliquer, accumuler du temps — tout en restant cognitivement superficiel, acceptant passivement la production. Les mesures [[self-report-measures|auto-déclarées]] et celles issues des journaux d'interaction ne sont pas interchangeables, ce qui explique qu'une affirmation sur l'« engagement » soit ininterprétable tant que la dimension et l'instrument ne sont pas nommés.
-
-**« Plus d'activité comportementale signifie un engagement plus profond. »** Souvent l'inverse. L'engagement cognitif profond avec l'IA prédit l'apprentissage, tandis que l'engagement comportemental superficiel prédit la [[cognitive-offloading|dépendance excessive]] et le déplacement de l'apprentissage qui dominent la littérature sur les risques ; les [[polished-artifacts-fragile-engagement-2026|artefacts polis]] en sont le cas canonique, où une production propre signale de l'activité alors que la pensée n'a pas eu lieu. Des journaux d'interaction bien remplis sont compatibles avec le désengagement.
-
-**« L'IA rend l'apprentissage plus engageant par défaut. »** [[ai-availability-student-motivation|La disponibilité de l'IA et la motivation]] montre que le simple fait de savoir l'IA disponible peut réduire la valeur perçue d'un engagement coûteux, en particulier chez les apprenants novices. L'engagement est façonné par l'attente, la valeur et la compétence perçue autant que par les caractéristiques de l'outil, et il varie selon la tâche, le contexte et l'apprenant — l'engagement profond d'un étudiant est la course à la production d'un autre.
 
 ## Implications pour la pratique
 
@@ -151,6 +141,16 @@ L'engagement des étudiants est en lien avec la [[motivation|motivation]] et la 
 
 - Rapportez la dimension et l'instrument, et évitez le nom nu. Étant donné que l'auto-déclaration et les journaux divergent, « l'engagement a augmenté » exige son opérationnalisation dans la même phrase.
 - Évitez d'inférer la réussite à partir de l'affect. Le résultat scindé de l'essai randomisé en grappes est le modèle pour rapporter les deux, y compris l'effet nul.
+
+## Idées fausses courantes
+
+**« Si l'engagement a augmenté, l'apprentissage a augmenté. »** C'est l'inférence la plus coûteuse de la littérature sur l'engagement et l'IA, et la base de connaissances contient un contre-exemple net. [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker et Becker-Genschow (2025)]] ont randomisé 195 classes de neuvième année vers un chatbot de mathématiques spécifique au domaine ou vers des supports de différenciation conventionnels pour une leçon sur la méthode de Héron. L'intérêt situationnel a augmenté substantiellement dans la condition chatbot (M = 2.63 vs 2.43, p = 0.00005, d de Cohen = 0.63) et l'acceptation était élevée sur les quatre dimensions du [[technology-acceptance-model|modèle d'acceptation de la technologie]] — pourtant la comparaison de performance pré-post n'a trouvé **aucune interaction groupe × temps significative** (F(1194) = 2.84, p = 0.094), et la charge cognitive extrinsèque était légèrement plus élevée. Intérêt et réussite ont progressé selon des calendriers différents. Un résultat d'engagement n'est pas une preuve d'[[learning-gains|apprentissage]].
+
+**« L'engagement est une seule chose, et le temps consacré à la tâche le mesure. »** Le construit est multidimensionnel et ses dimensions divergent par construction : un étudiant peut être comportementalement actif — cliquer, accumuler du temps — tout en restant cognitivement superficiel, acceptant passivement la production. Les mesures [[self-report-measures|auto-déclarées]] et celles issues des journaux d'interaction ne sont pas interchangeables, ce qui explique qu'une affirmation sur l'« engagement » soit ininterprétable tant que la dimension et l'instrument ne sont pas nommés.
+
+**« Plus d'activité comportementale signifie un engagement plus profond. »** Souvent l'inverse. L'engagement cognitif profond avec l'IA prédit l'apprentissage, tandis que l'engagement comportemental superficiel prédit la [[cognitive-offloading|dépendance excessive]] et le déplacement de l'apprentissage qui dominent la littérature sur les risques ; les [[polished-artifacts-fragile-engagement-2026|artefacts polis]] en sont le cas canonique, où une production propre signale de l'activité alors que la pensée n'a pas eu lieu. Des journaux d'interaction bien remplis sont compatibles avec le désengagement.
+
+**« L'IA rend l'apprentissage plus engageant par défaut. »** [[ai-availability-student-motivation|La disponibilité de l'IA et la motivation]] montre que le simple fait de savoir l'IA disponible peut réduire la valeur perçue d'un engagement coûteux, en particulier chez les apprenants novices. L'engagement est façonné par l'attente, la valeur et la compétence perçue autant que par les caractéristiques de l'outil, et il varie selon la tâche, le contexte et l'apprenant — l'engagement profond d'un étudiant est la course à la production d'un autre.
 
 ## Concepts liés
 

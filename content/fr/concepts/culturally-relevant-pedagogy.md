@@ -1,7 +1,7 @@
 ---
 title: "Pédagogie culturellement pertinente"
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -40,21 +40,21 @@ ai_assist:
 
 ## Introduction
 
-### Le rôle à double tranchant de l'IA dans la pédagogie culturellement pertinente
+## Le rôle à double tranchant de l'IA dans la pédagogie culturellement pertinente
 
 L'IA peut aider les enseignants à rendre l'enseignement culturellement adapté, mais ses productions par défaut risquent aussi de **renforcer les récits dominants** lorsqu'on les laisse sans consigne.
 
 - **Soutien aux enseignants :** Wang et al. (2025) ont conçu **CulturAIEd**, un système [[llm|LLM]]-powered qui aide les enseignants du [[k-12|primaire et secondaire]] à concevoir des activités de [[ai-literacy|littératie en IA]] culturellement adaptées, en combinant des informations démographiques sur les élèves avec des consignes guidées par une grille de critères (une liste de vérification CRT intégrée à la génération). Dans un pilote mené auprès de quatre enseignants, il a **renforcé la confiance des enseignants** dans le repérage d'occasions d'adaptation culturelle et dans la modification d'activités existantes, 78% d'entre eux jugeant les suggestions de l'IA utiles pour diversifier les supports. L'outil cible directement les obstacles de temps, de formation et de ressources qui bloquent la mise en œuvre de la pédagogie culturellement pertinente.
 - **Risque de productions monoculturelles :** [[civic-education-ai-lesson-plans|Trust et al. (2025)]] ont analysé 310 plans de leçon d'éducation civique générés par l'IA (2,230 activités) : **94% ne contenaient aucun contenu multiculturel discernable**, et, parmi les 144 qui en contenaient, 137 se situaient au niveau « Additive » le plus bas — **un seul atteignait « Transformation » et aucun n'atteignait « Social Action ».** Les trois [[conversational-ai|agents conversationnels]] produisaient des modèles de leçon structurellement identiques et monoculturels. C'est la preuve concrète que l'IA produit par défaut des programmes homogénéisés si les [[teacher-ai-competency|enseignants]] n'interviennent pas activement.
 
-### La marginalisation épistémique dans les systèmes d'IA
+## La marginalisation épistémique dans les systèmes d'IA
 
 Au-delà de la génération de leçons, la pédagogie culturellement pertinente rejoint une critique plus profonde : les données d'entraînement et les processus de conception de l'IA encodent des cadres épistémiques occidentaux et anglophones qui marginalisent d'autres façons de connaître.
 
 - **Colonialité épistémique :** Tali-Otmani (2026) soutient que les systèmes d'IA générative ne sont pas épistémiquement neutres — des données d'entraînement majoritairement centrées sur l'Occident **marginalisent activement les savoirs minorisés**, produisant une « double marginalisation » pour les [[inclusive-learning|apprenants en situation de handicap]], dont les épistémologies sont à la fois sous-représentées dans les données d'entraînement et exclues de la conception. Cela étend la conversation sur l'[[equity-in-ai-education|équité]] de l'*accès* à la question de *dont le savoir est validé*.
 - **Redistribuer l'autorité épistémique :** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]] proposent l'**apprentissage de l'IA ancré dans la communauté**, un cadre qui repositionne les épistémologies vécues et communautaires des apprenants comme étalon d'évaluation des productions de l'IA. Ses trois engagements — l'**[[llm-training-and-fine-tuning|ajustement fin]] épistémique**, la **redistribution de l'autorité** et le **discernement [[situated-learning|situé]]** — calibrent la confiance en fonction des histoires locales et de l'expertise communautaire, traitant le refus et la non-utilisation stratégique comme des réponses valides de pédagogie culturellement pertinente à l'IA.
 
-### Données culturellement ancrées et évaluation
+## Données culturellement ancrées et évaluation
 
 Un ensemble de travaux issus de la base de connaissances traite des lacunes de *contenu* et d'*évaluation* sous-jacentes à la pédagogie culturellement pertinente.
 
@@ -64,7 +64,7 @@ Un ensemble de travaux issus de la base de connaissances traite des lacunes de *
 - **La navigation culturelle est le domaine où le soutien de l'IA est le plus faible :** les étudiants internationaux ont évalué l'IA conversationnelle au plus haut pour la grammaire, la structure et le résumé (moyenne 4.27) et au plus bas pour la navigation culturelle (moyenne 3.49) ([[international-students-conversational-ai-adaptation|Nourian et al. (2026)]]).
 - **L'adaptation culturelle comme gestes de conception :** [[culturally-aware-student-stress-chatbot-2026|Bashir et Afzal (2026)]] opérationnalisent la pertinence culturelle dans un système d'IA de soutien au [[well-being]] ([[culturally-aware-student-stress-chatbot-2026|Sukoon]]) à travers trois gestes : une évaluation bilingue de 20 questions avec des libellés parallèles en anglais et en ourdou ; une invite système demandant au modèle de répondre en cohérence avec les normes sociales et culturelles pakistanaises et d'employer des expressions en ourdou et en ourdou romanisé le cas échéant ; et une sensibilité explicite aux facteurs de stress localement saillants (attentes familiales, pression financière, relations hiérarchiques entre enseignants et étudiants). Leur justification est empirique autant qu'éthique — l'[[explainable-ai|importance des variables]] plaçait la relation enseignant-étudiant au deuxième rang des prédicteurs du stress — mais ils concèdent que l'adaptation réside dans l'invite plutôt que dans le pipeline de traitement du langage naturel, et que l'adéquation culturelle n'a été évaluée que par des tests informels, et non par les étudiants que le système cible.
 
-### Conseils pratiques
+## Conseils pratiques
 
 En s'appuyant sur les articles mêmes de la base de connaissances, les éducateurs et les concepteurs peuvent appliquer la pédagogie culturellement pertinente à l'IA :
 
@@ -73,16 +73,6 @@ En s'appuyant sur les articles mêmes de la base de connaissances, les éducateu
 - **Placez le savoir communautaire comme étalon d'évaluation.** Suivant l'apprentissage de l'IA ancré dans la communauté, faites juger par les apprenants les productions de l'IA à l'aune de critères localement ancrés de pertinence, de tort et d'utilité, et honorez les contextes où le refus ou la non-utilisation est le bon choix.
 - **Adoptez et évaluez des jeux de données culturellement ancrés.** IKS-Instruct et NSMQ Riddles illustrent que des données non occidentales, propres à un [[discipline-specific-aied|domaine]], améliorent significativement à la fois la pertinence et l'honnêteté de l'évaluation.
 - **Faites interroger l'enseignant par l'IA avant qu'elle ne rédige.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et coll. (2026)]] décrivent un planificateur de leçons culturellement adapté dont l'architecture d'invites semi-automatisée et interactive pose d'abord des questions sur le contexte et la culture, puis rédige à partir des réponses de l'enseignant lui-même plutôt que de produire un plan générique.
-
-## Idées fausses courantes
-
-**« Les productions d'IA sont culturellement neutres, sauf si l'on demande explicitement de la culture. »** Le défaut n'est pas neutre, il est dominant. Une analyse de **310 plans de cours d'éducation civique générés par IA (2 230 activités)** a trouvé que **94 % ne contenaient aucun contenu multiculturel discernable** — et parmi les 144 activités qui en contenaient, **137 se situaient au niveau « additif », le plus bas, une seule atteignait la « transformation », et aucune n'atteignait l'« action sociale ».** Laissés sans invite, les modèles reproduisaient un défaut non diversifié : [[prompt-engineering|demander de la culture]] n'est donc pas une [[bias-mitigation|atténuation de biais]], c'est la seule raison pour laquelle il en apparaît.
-
-**« Ajouter des exemples multiculturels constitue une pédagogie culturellement pertinente. »** La hiérarchie du cadre dit le contraire, et la production générée montre pourquoi la distinction est opérationnellement importante. Le contenu additif laisse intactes la structure et les présupposés de l'unité ; la transformation change le cadrage du contenu ; l'action sociale demande aux apprenants d'agir sur lui. Confondre représentation et transformation, c'est ainsi qu'un corpus peut être non vide à 6 % en matière de diversité et rester très loin d'une réponse culturelle.
-
-**« La politique institutionnelle d'usage de l'IA détermine ce que les étudiants considèrent comme éthique. »** La culture fait plus de travail que le texte de la politique. Une enquête interculturelle auprès d'étudiants canadiens et sud-coréens en [[cs-education|informatique]] a trouvé que **la culture, et non la politique, déterminait les perceptions de l'éthique d'usage de l'IA** — des comportements identiques étaient jugés différemment selon les cohortes. Une politique unique à l'échelle de l'établissement ne produit donc pas une éthique partagée, et la traiter comme si c'était le cas conduira à mal lire vos étudiants.
-
-**« Un pilote auprès de quatre enseignants montrant qu'ils se sentent plus confiants prouve que l'approche fonctionne. »** C'est une preuve sur la perception des enseignants, qui a sa valeur et n'est pas la même chose. Dans ce pilote, la confiance des enseignants à repérer les occasions de pertinence culturelle s'est améliorée et **78 % ont trouvé les suggestions de l'IA utiles pour diversifier les supports** — tandis que les auteurs concèdent que l'adaptation culturelle réside **dans l'invite plutôt que dans le pipeline de traitement automatique du langage**, et que la pertinence culturelle a été évaluée plutôt qu'ingénierée. Confiance et utilité perçue ne sont pas une pertinence culturelle démontrée pour les étudiants.
 
 ## Implications pour la pratique
 
@@ -102,6 +92,16 @@ En s'appuyant sur les articles mêmes de la base de connaissances, les éducateu
 
 - Rapportez le contenu culturel par niveau plutôt qu'en présence ou absence, car une présence de 94 % contre 6 % ne dit rien sur ce qu'est ce 6 %.
 - Distinguez explicitement les résultats de perception enseignante des résultats étudiants lorsque vous rapportez des pilotes.
+
+## Idées fausses courantes
+
+**« Les productions d'IA sont culturellement neutres, sauf si l'on demande explicitement de la culture. »** Le défaut n'est pas neutre, il est dominant. Une analyse de **310 plans de cours d'éducation civique générés par IA (2 230 activités)** a trouvé que **94 % ne contenaient aucun contenu multiculturel discernable** — et parmi les 144 activités qui en contenaient, **137 se situaient au niveau « additif », le plus bas, une seule atteignait la « transformation », et aucune n'atteignait l'« action sociale ».** Laissés sans invite, les modèles reproduisaient un défaut non diversifié : [[prompt-engineering|demander de la culture]] n'est donc pas une [[bias-mitigation|atténuation de biais]], c'est la seule raison pour laquelle il en apparaît.
+
+**« Ajouter des exemples multiculturels constitue une pédagogie culturellement pertinente. »** La hiérarchie du cadre dit le contraire, et la production générée montre pourquoi la distinction est opérationnellement importante. Le contenu additif laisse intactes la structure et les présupposés de l'unité ; la transformation change le cadrage du contenu ; l'action sociale demande aux apprenants d'agir sur lui. Confondre représentation et transformation, c'est ainsi qu'un corpus peut être non vide à 6 % en matière de diversité et rester très loin d'une réponse culturelle.
+
+**« La politique institutionnelle d'usage de l'IA détermine ce que les étudiants considèrent comme éthique. »** La culture fait plus de travail que le texte de la politique. Une enquête interculturelle auprès d'étudiants canadiens et sud-coréens en [[cs-education|informatique]] a trouvé que **la culture, et non la politique, déterminait les perceptions de l'éthique d'usage de l'IA** — des comportements identiques étaient jugés différemment selon les cohortes. Une politique unique à l'échelle de l'établissement ne produit donc pas une éthique partagée, et la traiter comme si c'était le cas conduira à mal lire vos étudiants.
+
+**« Un pilote auprès de quatre enseignants montrant qu'ils se sentent plus confiants prouve que l'approche fonctionne. »** C'est une preuve sur la perception des enseignants, qui a sa valeur et n'est pas la même chose. Dans ce pilote, la confiance des enseignants à repérer les occasions de pertinence culturelle s'est améliorée et **78 % ont trouvé les suggestions de l'IA utiles pour diversifier les supports** — tandis que les auteurs concèdent que l'adaptation culturelle réside **dans l'invite plutôt que dans le pipeline de traitement automatique du langage**, et que la pertinence culturelle a été évaluée plutôt qu'ingénierée. Confiance et utilité perçue ne sont pas une pertinence culturelle démontrée pour les étudiants.
 
 ## Concepts liés
 

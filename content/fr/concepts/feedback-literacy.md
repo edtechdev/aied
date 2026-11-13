@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ ai_assist:
 
 La littératie en rétroaction importe parce qu'une rétroaction bien conçue n'aide que les étudiants capables de l'interpréter et d'agir en conséquence. Un étudiant incapable d'évaluer si une rétroaction générée par l'IA est exacte, ou qui ne sait pas comment transformer une rétroaction en révision concrète, apprend beaucoup moins de la même rétroaction qu'un camarade dont la littératie est plus élevée. Alors que l'IA refonde la production de rétroaction, la littératie en rétroaction est devenue une condition auxiliaire déterminante de la question de savoir si la rétroaction par IA améliore l'apprentissage.
 
-### Ce qu'est la littératie en rétroaction
+## Ce qu'est la littératie en rétroaction
 
 La littératie en rétroaction est largement pensée comme un ensemble de capacités interdépendantes — la capacité à apprécier la rétroaction, à porter un jugement, à gérer les affects et à passer à l'action (d'après Carless & Boud). Les articles de la base de connaissances regroupent la littératie en rétroaction autour de plusieurs capacités :
 
@@ -50,7 +50,7 @@ La littératie en rétroaction est largement pensée comme un ensemble de capaci
 - **Passer à l'action** — traduire la rétroaction en révisions concrètes ou en changements d'approche ([[feedback|boucle de rétroaction]], [[self-regulated-learning]]).
 - **Juger l'autorité évaluative** — une capacité supplémentaire proposée par [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] : outre l'appréciation de la rétroaction, le jugement, la gestion des affects et le passage à l'action, les étudiants qui raisonnent sur une rétroaction produite par l'IA doivent juger *quelle source détient l'autorité évaluative*, ce qui est distinct du jugement sur la qualité de la rétroaction. Parce que l'on avait dit aux participants que ChatGPT générait à la fois la note et la rétroaction, leur littératie en rétroaction s'est exercée sur la source et la légitimité de l'évaluation, et pas seulement sur son contenu, ce qui a produit des demandes de validation par l'enseignant plutôt qu'une acceptation passive.
 
-### Comment la littératie en rétroaction apparaît dans la recherche
+## Comment la littératie en rétroaction apparaît dans la recherche
 
 - **La littératie en rétroaction comme modérateur de la valeur de la rétroaction par IA :** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] montrent que la littératie en rétroaction modère le lien entre l'acceptation de ChatGPT et [[self-regulated-learning|l'apprentissage autorégulé]] : les étudiants dont la littératie est plus forte perçoivent un bénéfice d'apprentissage autorégulé plus grand de la rétroaction par IA, tandis que les étudiants dont la littératie est plus faible n'en retirent que des effets minimes, voire négatifs ([[cognitive-offloading|dépendance excessive]]). La littératie en rétroaction est une condition auxiliaire de la capacité des étudiants à « donner du sens » à une rétroaction produite par l'IA.
 - **La littératie en rétroaction comme voie allant de l'usage de l'IA générative à la pensée critique :** chez 421 étudiants de premier cycle chinois, l'association entre l'usage de l'IA générative et la [[self-report-measures|pensée critique auto-rapportée]] passait presque entièrement par la littératie en rétroaction vis-à-vis de l'IA générative (β=0.185, 71.98% de l'effet total), et cette voie se renforçait à mesure que la pensée réflexive augmentait (indice de médiation modérée = 0.030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
@@ -70,13 +70,13 @@ La littératie en rétroaction est largement pensée comme un ensemble de capaci
 
 - **La littératie en rétroaction peut s'enseigner, et l'IA peut fournir le matériau d'exercice.** Un guide conceptuel propose aux enseignants de générer un spectre gradué d'échantillons de travaux produits par l'IA, répondant à tous, à certains ou à aucun des critères, puis de conduire les étudiants à travers une critique modélisée, une analyse guidée en classe et une évaluation autonome ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington et Hock (2026)]]).
 
-### Pourquoi la littératie en rétroaction importe pour l'IA en éducation
+## Pourquoi la littératie en rétroaction importe pour l'IA en éducation
 
 L'IA fait évoluer la rétroaction dans deux directions qui renforcent l'une et l'autre les enjeux de la littératie en rétroaction. Premièrement, l'IA accroît considérablement le *volume et l'immédiateté* de la rétroaction ([[ai-feedback-quality]], [[feedback|boucle de rétroaction]]), si bien que les étudiants se trouvent confrontés à une quantité bien plus grande de rétroactions qu'ils doivent trier et évaluer. Deuxièmement, la rétroaction générée par l'IA comporte des risques spécifiques — inexactitude, [[hallucination-risk|hallucination]], et « illusion de la maîtrise » — qui exigent des compétences de [[critical-thinking|pensée critique]] et une vigilance face à la dépendance excessive et à la [[llm-fallacy-misattribution|mauvaise attribution]]. La littératie en rétroaction devient donc une composante centrale de [[ai-literacy|la littératie en IA]] : savoir non seulement comment formuler à une IA une demande de rétroaction, mais comment juger si cette rétroaction mérite d'être exploitée, et comment la convertir en apprentissage réel plutôt qu'en simple achèvement de la tâche.
 
 [[ai-feedback-ecosystem-higher-education-2026|Bearman et ses collègues (2026)]] ajoutent une exigence supplémentaire à cette liste. Dans leur étude en atelier, les étudiants ne géraient pas une seule source de rétroaction mais un réseau : ils mettaient en balance les commentaires de l'enseignant, les productions de l'IA, les grilles, les supports de cours et les pairs, et lorsque la rétroaction humaine tardait, ils poursuivaient avec l'IA comme solution d'attente, en révisant plus tard si celle-ci les avait égarés. Les auteurs suggèrent que les étudiants peuvent se comporter comme leur propre « humain dans la boucle » en gérant ces relations, de la tâche granulaire jusqu'à la trajectoire d'ensemble, ce qui constitue lui-même une capacité de littératie en rétroaction. Leur avertissement est que ce sont les commentaires enseignants maigres ou tardifs qui poussent les étudiants vers des sources non vérifiées.
 
-### Connexions avec les concepts voisins
+## Connexions avec les concepts voisins
 
 La littératie en rétroaction se relie à [[ai-feedback-quality]] et à [[feedback|la boucle de rétroaction]] (le versant production qu'elle complète), à [[formative-assessment|l'évaluation formative]] (le cycle d'évaluation qu'elle alimente) et à [[self-regulated-learning|l'apprentissage autorégulé]] (l'[[self-assessment|auto-évaluation]] et l'adaptation qu'elle soutient). Elle est un sous-ensemble de [[ai-literacy|la littératie en IA]] lorsqu'elle s'applique à une rétroaction générée par l'IA, recoupe [[peer-assessment|l'évaluation par les pairs]] dans les contextes collaboratifs, et revêt une importance particulière pour [[writing-education|l'enseignement de l'écrit]]. Elle se relie également à [[metacognition|la métacognition]] et à [[trust-calibration|la calibration de la confiance]] — la capacité de juger si une rétroaction est digne de confiance.
 

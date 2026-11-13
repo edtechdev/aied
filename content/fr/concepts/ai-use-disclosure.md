@@ -1,7 +1,7 @@
 ---
 title: "Déclarations d'utilisation et de divulgation de l'IA"
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-10T18:55:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,7 @@ La divulgation est le mécanisme qui rend le travail assisté par IA *visible* e
 
 - **La divulgation est rare et motivée par l'anxiété.** D'une étude à l'autre, la plupart des étudiants ne divulguent pas leur usage de l'IA aux enseignants. [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]] ont constaté que seulement environ 34 % des étudiants en économie admettaient un usage de l'IA et que la divulgation était plus rare encore, motivée par une « anxiété de sanction ». [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] ont constaté que 66 % des étudiants n'avaient jamais ou rarement divulgué, la crainte d'une sanction académique étant la première raison invoquée. [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] a documenté un taux de **non-conformité de 74 %** face à une déclaration obligatoire au [[business-education|école de commerce]] du King's College.
 - **Des politiques ambiguës et punitives poussent à la dissimulation.** Lorsque les politiques d'usage de l'IA sont floues, sans application effective, ou constituent des interdictions, les étudiants cachent leur usage plutôt que de s'engager. Ce sont les politiques d'« usage limité dans certaines situations » qui prédisent le mieux la divulgation ; les politiques « non autorisé » ou « pas au courant » prédisent la dissimulation. Des politiques claires, cohérentes et élaborées collectivement sont réclamées de façon répétée.
+- **L'obligation, et pas seulement la sanction.** Deux règles de même intention séparent la divulgation de la dissimulation : [[mehreen-genai-policy-wording-2026|Mehreen et al. (2026)]] ont constaté que le cadrage en termes de malhonnêteté allait de pair avec la dissimulation de leur usage par les étudiants, tandis que rendre les étudiants responsables de la production inexacte allait de pair avec l'appropriation et la transparence.
 - **La divulgation a des coûts psychologiques — et des coûts cachés.** Les étudiants considèrent les déclarations comme une auto-accusation, et certains pensent que l'usage de l'IA est une affaire privée, comme l'usage d'une calculatrice. [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] ont constaté que les étudiants qui divulguaient « toujours » avaient plus de trois fois plus de chances d'être accusés — la transparence peut attirer le soupçon. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] ont constaté que l'inquiétude réoriente la divulgation vers les pairs plutôt qu'elle ne la supprime, coupant les étudiants de la rétroaction de l'enseignant.
 - **La divulgation est liée à l'apprentissage auto-régulé.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] interprètent la divulgation dirigée par l'enseignant comme une recherche d'aide adaptative — rendre l'assistance visible et susciter un étalonnage externe — tandis que la dissimulation (en particulier chez les grands utilisateurs d'IA) ressemble à une régulation inadaptée. Une divulgation formative et structurée peut favoriser la réflexion [[metacognition|métacognitive]] et le raisonnement éthique qui caractérisent une auto-régulation efficace.
 

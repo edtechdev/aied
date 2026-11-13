@@ -10,7 +10,7 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/eportfolio
-source_updated: "2026-11-04T11:20:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -54,16 +54,6 @@ La recherche de la base de connaissances montre que les portefeuilles électroni
 
 Parce que les portefeuilles électroniques mettent au premier plan le **processus, la réflexion et la compréhension démontrée** plutôt qu'un artefact final unique, ils répondent directement au problème central de l'IA : lorsque l'IA peut produire un produit soigné, le produit ne témoigne plus de l'engagement qui le sous-tend. Les portefeuilles électroniques déplacent l'évaluation vers les preuves qui survivent — brouillons, révisions, traces de raisonnement et [[self-assessment|autoévaluation réflexive]] — tandis que l'IA elle-même peut aider à produire de la rétroaction, à [[scaffolding|étayer]] la réflexion et, moyennant une conception appropriée de la grille, à soutenir l'évaluation. Cela fait des portefeuilles électroniques une pierre angulaire de l'[[authentic-assessment|évaluation authentique]], de l'[[formative-assessment|évaluation formative]] et de l'[[process-oriented-assessment|évaluation fondée sur le processus]] à l'ère de l'[[generative-ai|IA générative]], et un lieu naturel pour la [[feedback-literacy|littératie de la rétroaction]] et l'[[self-regulated-learning|apprentissage autorégulé]].
 
-## Idées fausses courantes
-
-**« Un portefeuille électronique est un dossier numérique de travaux terminés. »** La valeur évaluative vient de la saisie du *processus* — raisonnement, rédaction, révision, réflexion — plutôt que de l'artefact final. C'est précisément pourquoi les portefeuilles électroniques résistent comparativement bien à l'IA : quand l'artefact peut être généré, une évaluation fondée sur le processus conserve une preuve qu'une évaluation fondée sur le produit a perdue.
-
-**« L'IA rend les portefeuilles électroniques aussi faciles à falsifier que des dissertations. »** Le mode de défaillance est différent et les preuves montrent le format évoluant dans l'autre sens. Combiner ChatGPT à une évaluation par portefeuille électronique (un modèle CEA) en expression orale en anglais langue étrangère a produit des gains significatifs sur la performance orale (**F(1) = 48,554, p < ,001**) et sur la [[feedback-literacy|littératie de la rétroaction]] (**F(1) = 16,135, p < ,001**), les portefeuilles soutenant la couche réflexive. Le portefeuille n'est pas devenu le maillon faible une fois l'IA ajoutée au cours ; c'est lui qui portait l'évaluation.
-
-**« Un résultat multivarié significatif prouve que le portefeuille était l'ingrédient actif. »** Il prouve que l'ensemble a fait bouger les résultats. L'étude combinait un outil d'IA, une structure de portefeuille et des tâches orales, et un plan de cette forme ne peut pas isoler le composant qui a produit le gain. L'affirmation défendable porte sur la combinaison, et la prudence des [[learning-gains|gains d'apprentissage]] s'applique : les gains rapportés doivent être rattachés à un composant avant de pouvoir être réutilisés.
-
-**« Les portefeuilles électroniques remplacent le besoin d'une évaluation sans aide. »** Ils la complètent. Un portefeuille atteste un processus et une progression dans le temps ; il n'atteste pas ce qu'un apprenant sait faire sans soutien, et confondre les deux réintroduit le problème de l'artefact-comme-substitut que le format avait été adopté pour résoudre.
-
 ## Implications pour la pratique
 
 **Pour les enseignants**
@@ -80,6 +70,16 @@ Parce que les portefeuilles électroniques mettent au premier plan le **processu
 **Pour les chercheurs**
 
 - Concevez pour l'isolement des composants lorsque vous étudiez des ensembles IA-plus-portefeuille ; sinon le champ accumule des effets de combinaison qu'il ne peut pas décomposer.
+
+## Idées fausses courantes
+
+**« Un portefeuille électronique est un dossier numérique de travaux terminés. »** La valeur évaluative vient de la saisie du *processus* — raisonnement, rédaction, révision, réflexion — plutôt que de l'artefact final. C'est précisément pourquoi les portefeuilles électroniques résistent comparativement bien à l'IA : quand l'artefact peut être généré, une évaluation fondée sur le processus conserve une preuve qu'une évaluation fondée sur le produit a perdue.
+
+**« L'IA rend les portefeuilles électroniques aussi faciles à falsifier que des dissertations. »** Le mode de défaillance est différent et les preuves montrent le format évoluant dans l'autre sens. Combiner ChatGPT à une évaluation par portefeuille électronique (un modèle CEA) en expression orale en anglais langue étrangère a produit des gains significatifs sur la performance orale (**F(1) = 48,554, p < ,001**) et sur la [[feedback-literacy|littératie de la rétroaction]] (**F(1) = 16,135, p < ,001**), les portefeuilles soutenant la couche réflexive. Le portefeuille n'est pas devenu le maillon faible une fois l'IA ajoutée au cours ; c'est lui qui portait l'évaluation.
+
+**« Un résultat multivarié significatif prouve que le portefeuille était l'ingrédient actif. »** Il prouve que l'ensemble a fait bouger les résultats. L'étude combinait un outil d'IA, une structure de portefeuille et des tâches orales, et un plan de cette forme ne peut pas isoler le composant qui a produit le gain. L'affirmation défendable porte sur la combinaison, et la prudence des [[learning-gains|gains d'apprentissage]] s'applique : les gains rapportés doivent être rattachés à un composant avant de pouvoir être réutilisés.
+
+**« Les portefeuilles électroniques remplacent le besoin d'une évaluation sans aide. »** Ils la complètent. Un portefeuille atteste un processus et une progression dans le temps ; il n'atteste pas ce qu'un apprenant sait faire sans soutien, et confondre les deux réintroduit le problème de l'artefact-comme-substitut que le format avait été adopté pour résoudre.
 
 ## Concepts liés
 

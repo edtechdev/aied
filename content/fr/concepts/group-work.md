@@ -1,7 +1,7 @@
 ---
 title: "Travail en groupe"
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-04T18:52:58-05:00"
+source_updated: "2026-11-10T19:35:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,7 @@ Une seconde lignée de recherche traite l'IA comme un participant plutôt que co
 - **La controverse peut contrer la pensée de groupe.** [[genai-counter-learner-groupthink-2025|Wiss et coll. (2025)]] ont délibérément pris le contrepied : un agent d'IA (CALIE), invité à injecter des points de vue controversés dans douze équipes interprofessionnelles de [[problem-based-learning|APPR]], a stimulé la [[critical-thinking|pensée critique]] et des dynamiques de groupe positives, contrant la pression à la conformité que le travail en groupe peut produire par ailleurs. Le contraste avec Jin et coll. est instructif — la provocation aide lorsqu'elle est la conception voulue, et nuit lorsqu'elle est un effet secondaire non reconnu.
 - **La contrainte du médiateur neutre.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]], une IA qui médie les frontières disciplinaires dans des équipes interdisciplinaires en faisant apparaître les hypothèses implicites, a été valorisée à la fois comme soutien cognitif et comme tampon relationnel — mais la confiance des étudiants y était structurante et s'est érodée dès que l'IA est passée du rôle de médiateur neutre à celui de conseiller ou de provocateur. Les changements de rôle doivent donc être explicites et configurables, et non silencieux.
 - **La collaboration peut elle-même être l'objet de l'enseignement.** [[golrang-propact-pair-programming-2026|ProPACT]] traite la *dyade* — et non l'individu — comme l'unité d'analyse, modélisant l'attention et l'effort conjoints pour prédire les ruptures de collaboration jusqu'à 30 secondes à l'avance. Les dyades recevant une rétroaction proactive ont obtenu un plus grand succès en débogage et ont montré des gains durables en [[regulation|régulation]] collaborative par la suite : l'IA peut enseigner la collaboration elle-même, et pas seulement soutenir une tâche.
+- **Un déplaceur relationnel.** Dans une expérience randomisée portant sur 33 équipes, [[nixon-social-cost-ai-teammate-2026|Nixon et al. (2026)]] ont constaté que le coéquipier IA monopolisait le temps de parole tout en apportant le moins d'information nouvelle, tandis que les étudiants réagissaient moins les uns aux autres (réactivité g = −0.78) et déclaraient un sentiment d'appartenance plus faible (4.58 contre 5.27). Plus l'IA dominait le temps de parole, moins les étudiants se sentaient valorisés (r = −0.52).
 
 ### Le compromis efficacité–régulation
 
@@ -155,3 +156,4 @@ Une seconde lignée de recherche traite l'IA comme un participant plutôt que co
 - [[teacher-student-agency-orchestration]] — Co-orchestration en temps réel de l'agentivité de l'enseignant et des étudiants
 - [[dollinger-equitable-assessment-ai-2026]] — Évaluation équitable à l'ère de l'IA
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agents de formation à l'éthique : faciliter une éducation éthique de groupe par le jeu de rôle et la discussion pour la réflexion et l'exploration éthiques
+- [[nixon-social-cost-ai-teammate-2026]] — Le coéquipier IA accapare le temps de parole, et la réactivité humain-humain ainsi que le sentiment d'appartenance diminuent (Nixon et al. 2026)

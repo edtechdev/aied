@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: "Évaluation"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -13,7 +13,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-11T11:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -86,6 +86,8 @@ La question constructive dans la littérature de la base de connaissances sur l'
 - **Des critères de grille qui notent l'interaction, et non l'artefact.** [[rubrics-genai-process-based-assessment-2026|Oviedo et Díaz (2026)]] lisent le modèle 3P de Biggs comme trois dimensions critiques de notation — l'agence humaine et la supervision critique, l'étayage dialogique lié à l'[[prompt-engineering|ingénierie d'invites]], et la souveraineté cognitive ancrée dans l'[[academic-integrity|intégrité]] et la transparence — en soutenant qu'un fichier achevé ne porte plus d'information sur la question de savoir qui a produit le raisonnement.
 - **De la production comme compétence** — évaluer la capacité des apprenants à diriger les outils et à produire un travail de qualité professionnelle ([[competency-based-education-genai-production-2026]])
 - **De l'évaluation du processus d'interaction, et pas seulement de l'artefact** — le [[assessing-student-drive-framework-2025|cadre DRIVE]] (Directive Reasoning Interaction + Visible Expertise) traite la qualité de l'*engagement d'un étudiant avec GenAI* comme le construit évalué. Il distingue la consommation de surface de l'interaction profonde et réflexive en examinant si les étudiants pilotent stratégiquement les invites (DRI) et intègrent et développent leurs propres idées disciplinaires à travers l'échange (VE), ancrant les critères centrés sur le processus dans des théories de l'[[self-directed-learning|apprentissage autodirigé]] et de l'engagement cognitif, dans la lignée de la hiérarchie du cadre [[icap-framework|ICAP]]. Cela fait de DRIVE un exemple d'*évaluation authentique médiée par l'IA* — une grille pour évaluer comment les apprenants font équipe avec GenAI, plutôt qu'un outil de détection.
+
+La refonte décrite ci-dessus suppose qu'une note signifie encore ce qu'elle signifiait avant l'arrivée de l'outil. Oyelere et Kadams nomment ce qui se produit lorsqu'il n'en est rien : la **dette de preuves d'évaluation**, l'écart accumulé entre ce qu'une note affirme et ce qu'un travail soumis peut étayer, qui s'aggrave à mesure que les notes précoces alimentent les décisions de progression. Leur remède consiste à énoncer l'affirmation pour chaque tâche : ce qu'elle dit que l'étudiant sait, quelles conditions d'usage de l'IA s'appliquent, quels canaux de preuves sont mobilisés. Cinq canaux en découlent — performance contrainte, provenance du processus, vérification exécutable, défense interprétative, épreuves de transfert. Aucun canal ne prouve à lui seul la compétence. Les auteurs considèrent l'équivalence des preuves comme non résolue : un projet réalisé à la maison avec un accès complet à l'IA et un examen exécutable supervisé peuvent viser le même résultat tout en certifiant des construits différents, si bien que leurs notes ne sont pas comparables. Leur avertissement le plus tranchant concerne l'inférence à partir du comportement : une faible défense orale n'est pas une preuve d'usage non autorisé de l'IA ([[oyelere-code-programming-assessment-genai-2026|Oyelere et Kadams, 2026]]).
 
 Une proposition de cette littérature pousse au-delà de la refonte à l'intérieur du cadre actuel. [[ai-agents-joyful-assessment-third-space-2026|El Khoury et Ma (2026)]] soutiennent qu'une réforme organisée autour de la prévention des fautes ou de la détection de l'usage de l'IA rétrécit l'imagination éducative au contrôle et à la conformité, et proposent à la place une **évaluation joyeuse** : une évaluation qui est sûre, émotionnellement réceptive, autonomisante et favorable à l'[[agency|autonomie de l'étudiant]], la sécurité étant la condition porteuse, parce que sans elle l'accord émotionnel devient de la performance, l'autonomisation devient de la pression et l'autonomie devient du risque. Leur cadrage inverse l'agenda de la détection — l'intégrité devient une conséquence de la conception d'une évaluation que les étudiants ont envie de pratiquer, plutôt que son point de départ — et ils positionnent les [[agentic-ai|agents d'IA]] construits par les enseignants (GPT personnalisés, Gems, agents Copilot Studio) comme un espace de répétition à faible enjeu, où les étudiants s'entraînent avant le jugement, avec l'affirmation que l'IA organise les preuves tandis que l'enseignant les interprète.
 

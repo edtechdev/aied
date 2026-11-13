@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: "L'enseignement de l'informatique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-12T10:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,7 @@ ai_assist:
 - **L'adoption suit le devoir, pas le sous-domaine.** Sur sept devoirs et 211 étudiants, [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] ont mesuré l'usage des LLM de 89,6 % en algorithmique à 15,2 % en génie logiciel, attribuant cet écart à la complexité du devoir, à sa vérifiabilité et à l'étayage plutôt qu'à la matière elle-même.
 
 - **La rétroaction peut être étagée pour que le diagnostic reste caché.** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas (2026)]] séparent un diagnostic du schéma de base de données d'un étudiant, ancré dans l'artefact, du flux de travail qui le restitue, les éducateurs en rédigeant les étapes ; sur 383 épisodes, 71,1 % des rétroactions ont atteint leur niveau cible.
+- **Dix-sept types d'erreurs d'exigences, comptés sur 211 équipes.** Les erreurs de priorité arrivaient en tête (81 % des équipes de licence), et une seule invite GenAI en zéro-shot égalait ou dépassait les équipes sur la portée, le format des récits, les priorités et l'effort ([[spichkova-genai-agile-requirements-2026|Spichkova (2026)]]).
 
 ### Pédagogie de la programmation : des blocs à l'apprentissage incarné et par le jeu
 

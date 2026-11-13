@@ -1,7 +1,7 @@
 ---
 title: Apprentissage personnalisé
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,8 @@ Une revue PRISMA 2020 de 22 interventions en enseignement supérieur place le so
 
 Le [[intelligent-tutoring|tutorat intelligent]] se situe entre les deux : les ITS sont les plateformes *adaptatives* canoniques qui dispensent un enseignement personnalisé via une modélisation structurée de l'élève, tandis que les tuteurs fondés sur les [[llm]] personnalisent de manière conversationnelle. Les trois sont les membres côté application de la famille [[student-modeling|modélisation de l'apprenant et enseignement adaptatif]] — ils consomment les représentations de l'apprenant produites par la [[student-modeling|modélisation de l'élève]], le [[knowledge-tracing]] et le [[cognitive-diagnosis]] pour décider quoi enseigner ensuite. La distinction importe pour l'évaluation : les études qui qualifient indifféremment un système d'« adaptatif », de « personnalisé » ou d'« individualisé » (voir plus bas) peuvent masquer si le bénéfice revendiqué vient de l'adaptation en temps réel, du choix de l'apprenant ou de l'adaptation du contenu.
 
+Une revue systématique de 2026 portant sur 61 études de l'enseignement supérieur donne à cette distinction un tranchant empirique. Le contrôle guidé par l'apprenant, c'est-à-dire le fait que les étudiants décidaient quand, quoi et comment demander, était codé dans 46 études (75.4%). Des systèmes conçus spécifiquement ou personnalisés pour un cours apparaissaient dans 10 études (16.4%) et une adaptation pilotée par le système documentée dans cinq (8.2%) ; l'analyse de sensibilité de la revue n'en laissait qu'une ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido et al., 2026]]). L'essentiel de ce que la littérature appelle apprentissage personnalisé est un accès flexible à un assistant généraliste, non un modèle de l'apprenant.
+
 ## Problèmes de mesure
 
 - **Personnalisation du système contre personnalisation perçue** — Un système peut s'adapter sans que l'apprenant se sente reconnu
@@ -122,18 +124,6 @@ La certitude GRADE a été jugée très faible. La lecture honnête est que l'es
 
 Un problème récurrent est que l'« apprentissage personnalisé » est un terme générique large et faiblement défini. Des revues systématiques ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh et al., 2026]]) constatent que l'[[adaptive-learning|apprentissage adaptatif]], l'enseignement individualisé, l'apprentissage personnalisé sur mesure et l'apprentissage personnalisé sont employés indifféremment, sans définition universellement acceptée — source d'ambiguïté conceptuelle qui complique la synthèse de la recherche et la pratique fondée sur les données probantes. Le champ appelle de plus en plus à un cadre et une définition unifiés pour que « personnalisé » désigne une affirmation précise et étayée par des preuves plutôt qu'une étiquette vague (point renforcé par la [[limitations-in-aied-research|critique de la base de connaissances sur l'usage faible des construits]]).
 
-## Idées fausses courantes
-
-**« L'apprentissage personnalisé et l'apprentissage adaptatif sont la même chose. »** Les systèmes adaptatifs sont un *moyen* d'atteindre la personnalisation, non sa définition. La personnalisation peut tout autant passer par des profils d'apprenants statiques, des parcours fondés sur le choix, ou un accompagnement par un tuteur humain qui ne s'adapte jamais en temps réel. Traiter les deux comme synonymes fait paraître non personnalisée une école qui offre un riche choix à l'apprenant mais aucun moteur adaptatif, et fait paraître plus centré sur l'apprenant qu'il ne l'est un exercice étroitement adaptatif.
-
-**« La personnalisation paie en couvrant davantage de terrain. »** Là où le diagnostic qui sous-tend un parcours est réellement validé, elle paie en *réduisant la charge plutôt qu'en couvrant davantage* : la remédiation par plus court chemin a nécessité en moyenne 3,82 étapes et a réduit le temps d'étude de 22,0 % (57,6 contre 73,8 minutes), la charge cognitive portant l'effet. Le bénéfice tient à des étapes inutiles en moins, non à plus de contenu par heure.
-
-**« Un modèle capable de générer un [[curriculum-design|programme]] cohérent peut le personnaliser. »** La génération et l'adaptation sont des capacités différentes, et l'écart entre elles est large. Les modèles qui génèrent des programmes ont produit des sorties structurellement solides — DeepSeek-V3.1 a atteint 90,9 % en validité des prérequis et d'absence d'hallucination — tandis que l'adaptativité plafonnait à 44,7 %, avec un taux de réussite final de 29,5 % dans la condition de base. La validité des prérequis n'est pas la personnalisation.
-
-**« Générer le support supprime la contrainte qu'impose le contenu réel. »** La génération relâche une contrainte et ne peut pas en relâcher d'autres. [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] génère des jeux de données statistiques synthétiques ajustés à l'intérêt déclaré d'un étudiant, aux objectifs du cours et au niveau de compétence visé — une triple correspondance que les jeux de données réels satisfont rarement — mais ses auteurs énoncent clairement la limite : des données synthétiques ne peuvent pas enseigner la collecte de données, la mesure ou la conception d'étude, si bien que l'outil complète les données réelles plutôt qu'il ne les remplace.
-
-**« Les [[learning-gains|gains d'apprentissage]] rapportés sont ce qui valide ces systèmes. »** Dans les études sur l'apprentissage par renforcement et la personnalisation recensées ici, les politiques battent le plus souvent les lignes de base non adaptatives sur l'adaptation liée au guidage et sur les variables affectives (63 % des études testées), tandis que le gain d'apprentissage — surtout le gain normalisé — était le résultat le *moins* fréquemment rapporté. Une littérature qui rapporte bien plus l'engagement et l'affect que l'apprentissage n'est pas la preuve que l'apprentissage domine.
-
 ## Implications pour la pratique
 
 **Pour les enseignants**
@@ -152,6 +142,18 @@ Un problème récurrent est que l'« apprentissage personnalisé » est un terme
 
 - Cessez de confondre personnalisation et adaptation dans les construits que vous mesurez, et dites explicitement quel mécanisme a produit l'effet.
 - Rapportez le gain d'apprentissage normalisé comme résultat principal ; sa rareté dans la littérature est une lacune à combler plutôt qu'une convention à hériter.
+
+## Idées fausses courantes
+
+**« L'apprentissage personnalisé et l'apprentissage adaptatif sont la même chose. »** Les systèmes adaptatifs sont un *moyen* d'atteindre la personnalisation, non sa définition. La personnalisation peut tout autant passer par des profils d'apprenants statiques, des parcours fondés sur le choix, ou un accompagnement par un tuteur humain qui ne s'adapte jamais en temps réel. Traiter les deux comme synonymes fait paraître non personnalisée une école qui offre un riche choix à l'apprenant mais aucun moteur adaptatif, et fait paraître plus centré sur l'apprenant qu'il ne l'est un exercice étroitement adaptatif.
+
+**« La personnalisation paie en couvrant davantage de terrain. »** Là où le diagnostic qui sous-tend un parcours est réellement validé, elle paie en *réduisant la charge plutôt qu'en couvrant davantage* : la remédiation par plus court chemin a nécessité en moyenne 3,82 étapes et a réduit le temps d'étude de 22,0 % (57,6 contre 73,8 minutes), la charge cognitive portant l'effet. Le bénéfice tient à des étapes inutiles en moins, non à plus de contenu par heure.
+
+**« Un modèle capable de générer un [[curriculum-design|programme]] cohérent peut le personnaliser. »** La génération et l'adaptation sont des capacités différentes, et l'écart entre elles est large. Les modèles qui génèrent des programmes ont produit des sorties structurellement solides — DeepSeek-V3.1 a atteint 90,9 % en validité des prérequis et d'absence d'hallucination — tandis que l'adaptativité plafonnait à 44,7 %, avec un taux de réussite final de 29,5 % dans la condition de base. La validité des prérequis n'est pas la personnalisation.
+
+**« Générer le support supprime la contrainte qu'impose le contenu réel. »** La génération relâche une contrainte et ne peut pas en relâcher d'autres. [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] génère des jeux de données statistiques synthétiques ajustés à l'intérêt déclaré d'un étudiant, aux objectifs du cours et au niveau de compétence visé — une triple correspondance que les jeux de données réels satisfont rarement — mais ses auteurs énoncent clairement la limite : des données synthétiques ne peuvent pas enseigner la collecte de données, la mesure ou la conception d'étude, si bien que l'outil complète les données réelles plutôt qu'il ne les remplace.
+
+**« Les [[learning-gains|gains d'apprentissage]] rapportés sont ce qui valide ces systèmes. »** Dans les études sur l'apprentissage par renforcement et la personnalisation recensées ici, les politiques battent le plus souvent les lignes de base non adaptatives sur l'adaptation liée au guidage et sur les variables affectives (63 % des études testées), tandis que le gain d'apprentissage — surtout le gain normalisé — était le résultat le *moins* fréquemment rapporté. Une littérature qui rapporte bien plus l'engagement et l'affect que l'apprentissage n'est pas la preuve que l'apprentissage domine.
 
 ## Concepts liés
 
@@ -172,6 +174,8 @@ Un problème récurrent est que l'« apprentissage personnalisé » est un terme
 - [[recommender-systems-and-learning-paths]]
 
 ## Articles liés
+
+- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 61 études : 75.4% codées comme contrôle guidé par l'apprenant, 8.2% comme adaptation pilotée par le système (Aybar-Bellido et al., 2026)
 - [[bespoke-industry-personalized-lecture-videos-2026]] — Régénération de vidéos de cours personnalisées par industrie à partir d'une transcription source : adaptation au niveau de l'audience, notée par des experts du domaine (Puech et al. 2026)
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Micro-personnalisation par ingénierie d'invites d'un assistant d'enseignement IA (Basu, Kakar & Goel 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — Le tutorat par IA n'est pas monolithique : ce que nous savons réellement (note du Stanford SCALE/NSSA)

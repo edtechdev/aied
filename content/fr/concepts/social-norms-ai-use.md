@@ -13,7 +13,7 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -89,8 +89,7 @@ Deux autres études expliquent pourquoi la surveillance est un mauvais outil pou
 
 Le coût de cette substitution apparaît là où le corps professoral et les étudiants parlent réellement. Sur 253 222 enregistrements liés à l'IA provenant de 26 sous-forums Reddit sur l'éducation, un tiers de tous les fils de discussion entre corps professoral et étudiants portaient sur des différends de détection ou d'application, les étudiants en ouvraient 68,4%, et la négativité prédisait l'engagement (ρ = −0,72) — le conflit adversatif, et non la délibération, est la forme de contact entre rôles la plus volumineuse au sujet de l'[[generative-ai|IA générative]] ([[reddit-genai-education-discourse-analysis-2026|Yüce et coll. (2026)]]).
 
-## Ce que cela signifie pour la pratique
-
+## Implications pour la pratique
 - **Rendre l'usage visible au lieu de l'inférer.** Les étudiants ne peuvent pas se juger les uns les autres avec exactitude, et la collaboration répétée n'y remédie pas. Des enregistrements partagés légers du travail appuyé par l'IA, des annotations ou des historiques de prompts donnent à un groupe quelque chose de factuel sur quoi raisonner.
 - **Vous attendre à ce que la norme parlée batte la norme écrite.** Si ce qui se dit en classe contredit le syllabus, les étudiants suivront la classe. L'alignement entre les deux vaut plus qu'une clause plus stricte.
 - **Traiter la divulgation comme un problème de conception, non comme un problème de vertu.** La divulgation devient probable lorsque le fait de rendre compte est plus sûr ou plus précieux que la dissimulation. Cela signifie rendre l'usage divulgué lisible dans l'évaluation elle-même, plutôt que de réclamer l'honnêteté comme un trait de caractère.

@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: "La pensée critique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-11-05T08:55:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ La pensée critique est centrale pour l'[[ai-literacy]] — les étudiants incap
 
 Un contrôle structuré du dialogue, et non un meilleur prompt, distingue un tuteur aux sophismes d'un chatbot de débat : en acheminant chaque tour par une détection d'intention fondée sur Toulmin, un ordre de stratégie fixe et un agent vérificateur, un système socratique franchit 84.5 % des métriques de qualité du dialogue contre 61.5 % pour une référence heuristique ([[lftutor-logical-fallacy-education-2026|Shi et al. (2026)]]).
 
-### La pensée critique dans la recherche sur l'IA en éducation
+## La pensée critique dans la recherche sur l'IA en éducation
 
 Les articles de la base de connaissances explorent la pensée critique à travers des lentilles [[design-based-research|de conception]] et empiriques. Les [[ai-agents-constructive-conflict-design-education-2026|agents d'IA adversariaux]] mettent en œuvre un conflit constructif pour provoquer un réexamen chez des concepteurs novices — une variante socratique qui impose une réévaluation critique. La [[genai-can-harm-teaching-rct-2026|recherche par ECR sur l'IA générative dans l'enseignement]] pose la question de savoir si des outils d'IA optimisés pour des résultats de surface peuvent involontairement supprimer la pensée critique qui mène à un apprentissage plus profond. Les preuves mesurées aiguisent le point : le fait que la pensée critique évolue dépend de la manière dont les rétroactions et les tâches médiées par l'IA sont conçues, et de la régulation [[metacognition|métacognitive]] des apprenants, non de l'accès à un modèle.
 
@@ -75,7 +75,9 @@ Une enquête transversale plus large pointe dans l'autre sens : parmi 1 157 étu
 - **Une rétroaction ChatGPT choisie par l'enseignant élève la pensée critique par une révision d'ordre supérieur.** Chen et collègues (2026) ont mené une quasi-expérience de 18 semaines avec 64 étudiants de premier cycle, tous professeurs stagiaires de chimie, de physique ou de mathématiques, comparant la rétroaction enseignante conventionnelle (n = 32) à la rétroaction enseignante assistée par ChatGPT (n = 32) sur deux tâches d'écriture argumentative. Les groupes partaient équivalents, et seul le groupe assisté s'est amélioré de façon significative (p < 0.001), le *d* de Cohen passant de 0.25 au prétest à 3.74 au post-test. Le mécanisme était le type de rétroaction, et non la simple présence d'un modèle : le groupe assisté a reçu davantage de rétroaction de démonstration (33.1 % contre 10.9 %) et d'interrogation rapprochée (21.5 % contre 6.0 %), a révisé 91.00 % (435 sur 478) des unités de rétroaction contre 85.21 % (242 sur 284), et l'[[network-analysis|analyse de réseaux épistémiques]] a relié ces révisions à l'analyse, l'évaluation et la création plutôt qu'à la reconnaissance et à la compréhension, tandis que l'enseignement par le seul enseignant et la rétroaction évaluative produisaient surtout des révisions de reconnaissance et de compréhension. Les enseignants traitaient la production du modèle comme matériau brut, en l'amplifiant, le révisant ou le rejetant (14 % rejeté, 9 % nécessitant une correction), et six des huit personnes interrogées signalaient encore de l'imprécision ou du manque de professionnalisme. La leçon de conception est que le gain en pensée critique venait d'une rétroaction qui modélise des alternatives et interroge le raisonnement de l'étudiant, avec un [[teacher-role|enseignant]] curateur de ce que le modèle produisait ; le faible échantillon, sur un seul semestre, invite à lire avec prudence la très grande taille d'effet. ([[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026|Chen et al. 2026]])
 - **Un semestre d'accès à l'IA a laissé la pensée critique inchangée, tandis que l'usage réflexif la suivait.** Melanou, Beege et Kimmig (2026) ont suivi 87 étudiants en informatique de gestion durant un cours de neuf semaines, dans trois conditions parallèles (IA encadrée par un tuteur, IA sans guidage, et pas d'IA) mesurées trois fois. Les connaissances ont progressé dans tous les groupes, sans avantage pour l'une ou l'autre condition avec IA et sans effet Matthieu (BF01 = 8.70), tandis que la pensée critique auto-déclarée et la [[motivation]] restaient stables. Ce qui distinguait les étudiants était l'usage réflexif, la pratique consistant à vérifier les sources et à valider la production de l'IA avant de l'adopter : il était plus élevé dans la condition IA que dans le groupe témoin (moyennes de 3.72 contre 2.82) et prédisait la pensée critique à la mesure finale (R² = 0.183, β = 0.43, p < 0.001). Le résultat nuance toute attente qu'un cours d'usage de l'IA fasse à lui seul évoluer la pensée critique : c'est dans la régulation [[metacognition|métacognitive]], et non dans l'accès à l'outil, que réside l'association, et les auteurs notent qu'un semestre est probablement trop court pour observer un changement durable. ([[melanou-genai-learning-dynamics-longitudinal-2026|Melanou et al. 2026]])
 
-### Connexions aux autres concepts
+- **L'appréciation a bougé ; la déduction formelle non.** Une rétroaction par IA en quatre phases a élevé l'Évaluation des arguments de 1.74 point ajusté, tandis que la Déduction ne bougeait que de 0.30 (p = 0.383), situant le gain dans le jugement des affirmations plutôt que dans la logique formelle ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al. (2026)]]).
+
+## Connexions aux autres concepts
 
 La pensée critique recoupe le [[scaffolding]] (concevoir un soutien par l'IA qui maintient la demande cognitive), l'[[prompt-engineering]] (formuler des questions qui suscitent l'analyse critique) et la [[cognitive-offloading|sur-dépendance]] (savoir quand faire confiance à l'IA et quand la questionner). Elle est fondatrice pour l'[[academic-integrity]] et constitue une dimension clé des cadres d'[[ai-literacy]], tant dans les contextes [[k-12]] que [[higher-ed]].
 

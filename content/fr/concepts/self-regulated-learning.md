@@ -1,7 +1,7 @@
 ---
 title: "L'apprentissage autorégulé"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -12,7 +12,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [process-feedback]
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-12T18:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -198,12 +198,18 @@ Les étudiants rapportaient davantage de procrastination (β = 0.525) en même t
 - **La persistance codée dans les dialogues avec un agent pédagogique corrèle négativement avec la performance, tant dans le codage par LLM que par humain.** Dans une évaluation conversationnelle de 107 collégiens apprenant l'anglais, la persistance détectée dans les tours de journal de chat par huit configurations de ChatGPT4o corrélait négativement avec la performance à la tâche (r = -0,19, p < 0,001), et les décomptes de persistance d'un codeur humain allaient dans le même sens (r = -0,32) ([[ober-persistence-pedagogical-agent-dialogues-2026|Ober et al. (2026)]]). Le défi perçu (r = -0,25) portait la seule association négative plus forte, et les autres construits allaient aussi dans le négatif (auto-efficacité r = -0,15, KSA antérieures r = -0,14, intérêt r = -0,08). Les auteurs y voient d'éventuelles manifestations d'un combat improductif et plaident pour distinguer la persistance adaptative de la persistance inadaptée — la réitération stratégique contre l'essai-erreur répétitif — avant que tout système automatisé ne traite les propos de persistance comme de l'engagement.
 - **GPT-4o peut construire un codebook d'apprentissage autorégulé ancré dans une théorie à partir de sa seule base de connaissances.** À partir des seules références à Zimmerman (2000) et à Winne et Hadwin (1998), GPT-4o a proposé des construits couvrant les trois phases de Zimmerman et trois des quatre étapes de Winne-Hadwin, seule la phase de définition de la tâche faisant défaut, et le raffinement humain a arrêté le codebook à 11 construits ([[zambrano-llm-human-ai-codebook-development-2026|Zambrano et coll. (2026)]]). L'ajout des 955 énoncés de pensée à voix haute de 15 étudiants à l'invite a comblé l'écart, couvrant toutes les phases des deux modèles et introduisant des codes ancrés dans les données tels que l'Identification des erreurs. Le raffinage humain est resté essentiel : deux codeurs ont fusionné des propositions GPT qui se chevauchaient (Planification contre Fixation d'objectifs, Suivi contre Évaluation, Résultat contre Évaluation des processus), et aucune hallucination n'est apparue.
 
+« Inviter » à l'autorégulation n'est pas la même chose que l'enseigner. Dans un essai randomisé en quatre sessions auprès de 371 élèves de la 7e à la 9e année, ni les invites de valeur utilitaire ni les invites de stratégie cognitive n'ont amélioré l'usage de stratégies, l'intérêt, l'effort ou les connaissances disciplinaires par rapport à ChatGPT standard ([[futterer-srl-genai-support-rct-2026|Fütterer et coll., 2026]]). Ce résultat nul compte parce que l'intervention ajoutait des invites de réflexion à une tâche d'apprentissage inchangée : ce qui régulait le travail résidait dans la tâche et dans la classe, non dans l'invite.
+
+L'auto-déclaration est le maillon faible des données probantes. Dans l'étude de [[wilder-adhd-ai-interview-eye-tracking-2025|Wilder et Stratchan]] auprès de 46 étudiants atteints de TDAH, la sous-échelle d'autorégulation métacognitive du MSLQ ne prédisait pas le niveau d'entretien (p = 0.312), tandis qu'une tâche de performance de flexibilité cognitive le faisait. Ce constat ne montre pas que l'autorégulation est sans importance ; il montre que le récit qu'un apprenant fait de sa régulation et sa capacité à changer de règle sous pression se mesurent séparément. [[executive-function|Les fonctions exécutives]] sont la page qui porte le versant capacité.
+
 ## Idées fausses courantes
 
 - **« L'autorégulation est un trait de l'apprenant. »** L'apprentissage régulé se décompose en **autoréflexion, attribution causale et adaptation**, et les apprenants compétents **emploient des stratégies cognitives pour améliorer la réussite**. Ce sont des processus entraînables qu'une conception peut soutenir ou saper.
 - **« Tout design adaptatif soutient la régulation de la même manière. »** L'**expérience de terrain randomisée 2x2 portant sur 179 étudiants pendant 22 jours** de [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et coll.]] a comparé deux principes de conception et les a trouvés différents en mécanisme, si bien qu'« adaptatif » n'est pas un traitement unique.
 - **« L'anxiété sape la régulation. »** Dans une étude à méthodes mixtes portant sur **107 étudiants**, une [[anxiety-and-stress|anxiété liée à l'IA]] plus élevée était **positivement associée à la vérification et à la re-vérification**. L'anxiété fonctionnait comme une incitation à vérifier, ce qui relève de la régulation et non de son absence.
 - **L'apprentissage autorégulé métacognitif prédisait la charge pertinente pour l'apprentissage là où la [[ai-feedback-quality|rétroaction de l'IA]] ne le faisait pas.** Dans une étude de terrain de cinq semaines portant sur **234 étudiants et 1 147 observations**, l'autorégulation métacognitive était un prédicteur positif substantiel de la **charge cognitive pertinente** (β = 0,363, p < 0,001 en intention de traiter ; 0,346, p < 0,001 en usage réel) et ne prédisait pas significativement la charge extrane, tandis que le seul accès à une rétroaction conversationnelle par IA ne prédisait ni l'une ni l'autre. Seul un engagement **soutenu** avec la rétroaction séparait les étudiants sur la charge pertinente, et un usage irrégulier ne le faisait pas (β = −0,219, p = 0,116), ce qui situe l'ingrédient actif dans la régulation du traitement par l'apprenant plutôt que dans l'offre de rétroaction ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger et Liening, 2026]]).
+
+Configurer un LLM comme partenaire est un problème d'autorégulation avant d'être un problème de choix d'outil. Dans 117 récits publics d'usage d'un LLM pour l'apprentissage des langues, les 24 qui orchestraient une interaction en plusieurs étapes personnalisaient bien plus souvent que les 93 autres (70,8 % contre 15,1 %) et rapportaient davantage de bénéfices perçus (3,29 contre 1,96), mais 68,4 % louaient le modèle sans nommer d'amélioration mesurable et seulement 10,3 % en rapportaient une ([[lasekan-chatbot-language-learning-partner-2026|Lasekan et coll. (2026)]]).
 
 ## Concepts liés
 
@@ -228,11 +234,12 @@ Les étudiants rapportaient davantage de procrastination (β = 0.525) en même t
 - [[llm]] — le modèle sous-jacent des outils d'IA
 - [[retrieval-spacing-interleaving]] — la planification, l'auto-évaluation et les choix de stratégie d'étude que font les apprenants
 - [[cognitive-surrender]]
-
 - [[reflection]]
+- [[executive-function]]
 
 ## Articles liés
 
+- [[futterer-srl-genai-support-rct-2026]] — 371 élèves allemands : les invites de réflexion et de stratégie n'ont rien ajouté à ChatGPT standard (Fütterer et coll., 2026)
 - [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — Méta-analyse de l'apprentissage autorégulé assisté par l'IA : g = 0,76 sur 34 études, le type d'outil et le rôle pédagogique modérant l'effet (Zhang et coll. 2026)
 
 - [[li-genai-dependency-effort-regulation-2026]] — La dépendance à l'IA générative et les résultats d'apprentissage perçus : la voie de la régulation de l'effort (Li, Zhang et Yang 2026)
@@ -273,6 +280,8 @@ Les étudiants rapportaient davantage de procrastination (β = 0.525) en même t
 - [[ai-project-hybrid-learning-self-regulated-2026]] — Un modèle d'apprentissage hybride fondé sur les projets utilisant l'intelligence artificielle pour améliorer l'apprentissage autorégulé des étudiants
 - [[davis-ai-ta-forum-peer-co-regulation-2026]] — Un assistant d'enseignement par IA comme premier répondant a déplacé les réponses des pairs, et avec elles la co-régulation qui amplifiait la valeur de l'autorégulation pour la note (Davis et coll. 2026)
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — La diversité des préconceptions a changé la manière dont une invite métacognitive atterrissait : mêmes fonctions d'invite, évaluation durable opposée de la production de l'IA (Wang et coll. 2026)
+- [[lasekan-chatbot-language-learning-partner-2026]] — Orchestrer l'usage du LLM a produit des configurations plus riches mais peu de preuves d'apprentissage
+- [[wilder-adhd-ai-interview-eye-tracking-2025]] — Régulation auto-déclarée contre une mesure de tâche de la flexibilité cognitive
 
 - [[gouroubera-genai-benin-2026]] — La procrastination augmente avec l'usage (β = 0.525) à côté du gain perçu, séparant le report permis par l'IA du report qui ne concerne que l'IA (Gouroubera et coll. 2026)
 

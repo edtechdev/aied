@@ -1,12 +1,12 @@
 ---
 title: "Quelles compétences les enseignants doivent-ils posséder à l'égard de l'IA ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/faculty-ai-competencies
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -61,6 +61,8 @@ Ils ont aussi besoin d'une compréhension des systèmes suffisante pour évaluer
 ## Évaluez la performance plutôt que la confiance
 
 La littératie en IA [[self-report-measures|auto-déclarée]] peut diverger fortement de la capacité démontrée, et c'est l'avertissement le plus pratique de cette littérature pour quiconque pilote du développement pédagogique. Un questionnaire de confiance à la fin d'un atelier mesure ce que l'atelier a fait ressentir.
+
+Un questionnaire peut même être trop bien prédit. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] ont classé 314 des 315 enseignants dans des bandes de compétence à partir d'une échelle de 300 items, avec α = 0.997 et sans analyse factorielle, et l'affiliation institutionnelle en était le plus grand contributeur — signe que les scores suivaient le lieu de travail des personnes, non ce qu'elles savent faire.
 
 La recherche sur les flux de travail enseignants à [[agentic-ai|agents multiples]] ajoute une seconde raison de tester plutôt que de demander : la pensée systémique, les convictions pédagogiques et l'[[self-efficacy|efficacité personnelle]] interagissent dans l'intégration de l'IA, si bien qu'une même séance produit des effets différents sur deux enseignants de même formation disciplinaire. Cela plaide pour une programmation différenciée, et contre l'atelier outil unique pour tous que la plupart des établissements proposent.
 

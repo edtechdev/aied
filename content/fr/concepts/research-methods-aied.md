@@ -1,7 +1,7 @@
 ---
 title: "Les méthodes de recherche en AIED"
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-11-01T10:09:38-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-11-01T11:00:00-05:00"
+source_updated: "2026-11-12T14:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,7 @@ Une **étude d'efficacité** teste si une intervention produit son effet d'appre
 - **Limites :** coûteux et lent ; des conditions artificielles peuvent réduire la validité écologique ; des outils d'IA en évolution rapide font vite dater les longues expériences ; de petits échantillons sont souvent sous-puissants pour détecter des effets signifiants ; des contraintes [[ethics|éthiques]] pèsent sur le retrait d'outils potentiellement utiles.
 - **Exemples :** [[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]], [[agent-voice-accents-k12-group-learning]], [[ai-use-critical-thinking-medical-students-2026]].
 - **La pré-enregistrement s'applique aux analyses secondaires, pas seulement aux essais.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] a fait tourner quatre règles de mise à jour du [[knowledge-tracing|traçage des connaissances]] sur des journaux ASSISTments identiques (12 716 étudiants, 985 813 événements notés) ne différant que dans la manière dont elles notent les lignes avec indice, a gardé scellée la moitié confirmatoire jusqu'à ce qu'existe un fichier contenant l'URL de l'enregistrement, et a rapporté que les quatre prédictions pré-enregistrées se vérifiaient. Accorder le crédit de toute complétion prédisait la performance ultérieure sans aide à peine au-dessus d'une constante de difficulté de compétence (AUC poolé 0,604 contre 0,595) tout en déclarant 93,9% des paires étudiant–compétence maîtrisées contre 72,8% sous une règle stricte. Lorsqu'un même journal permet plusieurs conclusions, fixer l'analyse à l'avance est ce qui rend crédible la comparaison.
+- **Expliciter l'exclusion de l'IA dans le code.** Un post-test sans IA ne compte comme exclusion vérifiée que si la restriction est documentée et si la conformité est contrôlée ; un test surveillé ou sur papier ne suffit pas à lui seul ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
 
 ### Les études par sondage et modélisation par équations structurelles
 
@@ -125,7 +126,7 @@ L'évaluation computationnelle évalue directement les [[ai-technologies|systèm
 
 ### Autres dispositifs : longitudinaux, études de cas et de simulation
 
-Au-delà des grandes familles, la base de connaissances emploie des dispositifs **longitudinaux** qui suivent les apprenants dans le temps ([[ai-lms-middle-school-longitudinal|une étude longitudinale d'un système de gestion de l'apprentissage]]), des études de **cas et en milieu naturel** d'usages authentiques ([[ai-in-the-wild-college|l'analyse à grande échelle d'interactions réelles d'étudiants]]), et des études de [[simulation|simulation]] dans lesquelles des grands modèles de langue se substituent à des étudiants ou des patients ([[llm-student-simulation-teacher-insights|les grands modèles de langue comme apprenants simulés]]). Ces dispositifs échangent l'ampleur ou le contrôle contre le réalisme et l'accès à des phénomènes autrement difficiles à observer.
+Au-delà des grandes familles, la base de connaissances emploie des dispositifs **[[longitudinal-research|longitudinaux]]** qui suivent les apprenants dans le temps ([[ai-lms-middle-school-longitudinal|une étude longitudinale d'un système de gestion de l'apprentissage]]), des études de **cas et en milieu naturel** d'usages authentiques ([[ai-in-the-wild-college|l'analyse à grande échelle d'interactions réelles d'étudiants]]), et des études de [[simulation|simulation]] dans lesquelles des grands modèles de langue se substituent à des étudiants ou des patients ([[llm-student-simulation-teacher-insights|les grands modèles de langue comme apprenants simulés]]). Ces dispositifs échangent l'ampleur ou le contrôle contre le réalisme et l'accès à des phénomènes autrement difficiles à observer.
 
 ### Les méthodes de consensus d'experts : la technique Delphi
 
@@ -204,6 +205,7 @@ Dans la pratique, la recherche sur l'IA en éducation tombe rarement proprement 
 
 ## Concepts liés
 
+- [[longitudinal-research]]
 - [[interpreting-and-applying-aied-research]]
 - [[ai-ed-evaluation]]
 - [[rct]]

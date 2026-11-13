@@ -1,7 +1,7 @@
 ---
 title: "Recherche éducative assistée par IA"
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -83,6 +83,8 @@ Leur conclusion est une division du travail plutôt qu'une passation de relais :
 Une évaluation favorable n'impliquait pas l'aptitude à la délégation. Sur 118 articles portant sur les LLM avec des évaluations exclusivement positives, 52% rendaient compte d'au moins une préoccupation indiquant que le flux de travail restait en deçà du critère requis pour son rôle. L'accès aux modèles était massivement propriétaire : 84.1% de l'usage des LLM reposaient sur des systèmes propriétaires ou hébergés, 11.0% était mixte, et seulement 4.9% portait sur des poids ouverts.
 
 À partir de ces régularités, les auteurs dérivent PRISMA-LLM, un cadre à trois couches dont les cinq niveaux de mise en œuvre sont des paliers de divulgation plutôt que des paliers de risque. C'est une proposition offerte à l'épreuve, non une extension officielle entérinée par le comité exécutif de PRISMA. Le silence au niveau de l'article, préviennent-ils, n'est pas la preuve que la validation est absente — elle peut résider dans un rapport de produit, un protocole ou un dépôt.
+
+**Un regard réglementaire sur la même automatisation.** [[zhang-executor-partner-genai-systematic-review-2026|Zhang, Wang et Maeda (2026)]] ne demandent pas ce que la GenAI fait dans une revue, mais qui régule le travail. Traitant une revue systématique comme un système d'apprentissage régulé, ils rattachent les activités de revue à la prévoyance, à la performance et à la réflexion, puis distinguent trois rôles : la GenAI comme exécutant délégué à l'intérieur de structures définies par l'humain, comme influence co-régulatrice sur les décisions de l'évaluateur, et comme partenaire d'une régulation socialement partagée. En appliquant le cadre à 60 synthèses de preuves assistées par GenAI, ils ont constaté un usage rapporté massivement dans le rôle d'exécutant, avec une co-régulation épisodique et peu de preuves d'une régulation partagée. Cela concorde avec le schéma au niveau des outils décrit plus haut, où l'automatisation se concentre dans le triage et l'extraction, et ajoute un diagnostic : une étape peut être procéduralement utile tout en laissant intactes la surveillance, le jugement et l'adaptation de l'évaluateur.
 
 ## Codage et analyse qualitatifs
 

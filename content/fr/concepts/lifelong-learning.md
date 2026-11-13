@@ -8,7 +8,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, person
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/lifelong-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 L'apprentissage tout au long de la vie désigne l'éducation continue tout au long de la vie — le renforcement des compétences, la reconversion, le [[educational-development|développement professionnel]] et l'apprentissage informel au-delà des diplômes formels. L'IA y est de plus en plus centrale, à la fois comme outil qui soutient les apprenants adultes et comme force qui transforme les compétences que les adultes doivent continuellement actualiser.
 
-### Comment l'apprentissage tout au long de la vie apparaît dans la recherche
+## Comment l'apprentissage tout au long de la vie apparaît dans la recherche
 
 - **Des lignes directrices de conception pour l'apprentissage des adultes :** les recherches issues de [[ai-adult-learning-guidelines-dis2026|l'institut AI-ALOE]] synthétisent des lignes directrices de conception empiriquement fondées pour les technologies d'apprentissage des adultes assistées par l'IA, en insistant sur un soutien pratique et sensible au contexte.
 - **L'acquisition de compétences guidée par l'IA :** [[ai-guided-learning-audiovideo-2026|l'apprentissage audio/vidéo guidé par l'IA]] montre comment l'IA peut étayer les étapes consommer–comprendre–imiter de l'acquisition de compétences, en adaptant les médias à l'apprenant.
@@ -48,17 +48,9 @@ L'apprentissage tout au long de la vie désigne l'éducation continue tout au lo
 - **Politique et communauté :** [[ai-lifelong-learning-policy|l'IA dans les politiques d'apprentissage tout au long de la vie]] et l'[[community-centered-ai-education-adults|éducation à l'IA centrée sur la communauté]] traitent les dimensions institutionnelles et d'équité de l'apprentissage adulte assisté par l'IA.
 - **La régénération de l'expertise est elle-même menacée.** Dans les professions américaines les plus exposées à l'IA, les travailleurs de 22 à 25 ans ont connu une baisse relative de l'emploi de 16% (d'octobre 2022 à septembre 2025), tandis que ceux de 35 à 49 ans progressaient de plus de 8%, et l'expertise approfondie nécessaire pour valider les sorties de l'IA dépend des postes de premier niveau que cette baisse supprime ([[cognitive-commons-ai-expertise-regeneration|Lovett (2026)]]).
 
-### Connexions
+## Connexions
 
 L'apprentissage tout au long de la vie se rattache à l'[[adult-learning]] et à la [[professional-training]] (ses contextes primordiaux), à l'[[personalized-learning]] et à l'[[adaptive-learning]] (les mécanismes d'IA qui le soutiennent), à l'[[self-regulated-learning|apprentissage autorégulé]] et à la [[metacognition]] (les processus de l'apprenant concernés), et à l'[[equity-in-ai-education]] (l'accès sur l'ensemble de la vie). Il croise également l'[[educational-development]] lorsque les éducateurs sont eux-mêmes des apprenants tout au long de la vie.
-
-## Idées fausses courantes
-
-**« L'exposition à l'IA menace surtout les tâches de premier niveau, donc les travailleurs expérimentés sont à l'abri. »** Le schéma d'emploi inverse une partie de cette hypothèse, tandis que le problème de l'expertise est plus profond. Dans les professions américaines les plus exposées à l'IA, les travailleurs de **22 à 25 ans ont connu une baisse relative de l'emploi de 16% (octobre 2022–septembre 2025)**, tandis que ceux de **35 à 49 ans progressaient de plus de 8%** — une protection attachée à l'expertise accumulée. Mais le pipeline qui produit cette expertise passe par le travail de premier niveau aujourd'hui réduit, de sorte que la protection est limitée dans le temps d'une manière que le chiffre transversal masque. **La régénération de l'expertise est elle-même menacée** : si le travail formateur disparaît, la cohorte qui deviendrait les praticiens expérimentés est plus petite.
-
-**« L'apprentissage tout au long de la vie signifie que les adultes suivent plus de cours. »** Suivre des cours n'est qu'une forme de mise en œuvre d'une exigence plus large : maintenir et reconstruire la compétence à mesure que les tâches changent. Une main-d'œuvre qui a besoin de se régénérer continuellement ne manque pas d'offres de cours ; elle manque d'occasions de pratique où une compétence nouvelle se forme réellement.
-
-**« L'apprentissage tout au long de la vie est une responsabilité personnelle, donc la conception institutionnelle est secondaire. »** Le problème de la régénération est structurel — il concerne l'existence même d'un travail formateur — et les individus ne peuvent pas créer le travail que leur propre développement exige. Le présenter comme une question de motivation n'explique rien de la baisse de 16% concentrée au bas de la distribution des âges.
 
 ## Implications pour la pratique
 
@@ -77,6 +69,14 @@ L'apprentissage tout au long de la vie se rattache à l'[[adult-learning]] et à
 
 - Rapportez les effets sur l'emploi par tranche d'âge plutôt que comme un chiffre agrégé de déplacement ; le contraste de 16% contre 8% est le résultat.
 - Étudiez où le travail formateur disparaît, puisque c'est le mécanisme par lequel les gains actuels deviennent des pénuries futures.
+
+## Idées fausses courantes
+
+**« L'exposition à l'IA menace surtout les tâches de premier niveau, donc les travailleurs expérimentés sont à l'abri. »** Le schéma d'emploi inverse une partie de cette hypothèse, tandis que le problème de l'expertise est plus profond. Dans les professions américaines les plus exposées à l'IA, les travailleurs de **22 à 25 ans ont connu une baisse relative de l'emploi de 16% (octobre 2022–septembre 2025)**, tandis que ceux de **35 à 49 ans progressaient de plus de 8%** — une protection attachée à l'expertise accumulée. Mais le pipeline qui produit cette expertise passe par le travail de premier niveau aujourd'hui réduit, de sorte que la protection est limitée dans le temps d'une manière que le chiffre transversal masque. **La régénération de l'expertise est elle-même menacée** : si le travail formateur disparaît, la cohorte qui deviendrait les praticiens expérimentés est plus petite.
+
+**« L'apprentissage tout au long de la vie signifie que les adultes suivent plus de cours. »** Suivre des cours n'est qu'une forme de mise en œuvre d'une exigence plus large : maintenir et reconstruire la compétence à mesure que les tâches changent. Une main-d'œuvre qui a besoin de se régénérer continuellement ne manque pas d'offres de cours ; elle manque d'occasions de pratique où une compétence nouvelle se forme réellement.
+
+**« L'apprentissage tout au long de la vie est une responsabilité personnelle, donc la conception institutionnelle est secondaire. »** Le problème de la régénération est structurel — il concerne l'existence même d'un travail formateur — et les individus ne peuvent pas créer le travail que leur propre développement exige. Le présenter comme une question de motivation n'explique rien de la baisse de 16% concentrée au bas de la distribution des âges.
 
 ## Concepts liés
 

@@ -1,7 +1,7 @@
 ---
 title: "Informatique affective"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introduction
 
-### Percevoir l'émotion pour adapter l'enseignement
+## Percevoir l'émotion pour adapter l'enseignement
 
 L'informatique affective vise à rendre les systèmes d'IA conscients des émotions, afin qu'ils puissent répondre à ce que ressentent les apprenants, et pas seulement à ce qu'ils font. En éducation, cela signifie percevoir la frustration, la confusion, la confiance, l'ennui ou l'engagement, et adapter l'enseignement en conséquence. [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] illustre cette approche en modélisant l'affect à partir de deux modalités — le texte conversationnel et l'expression faciale en temps réel — et en faisant correspondre l'état émotionnel agrégé à des stratégies [[pedagogy|pédagogiques]] avant de rédiger les [[prompt-engineering|invites]] adressées au tuteur.
 
@@ -47,7 +47,7 @@ Les signaux eux-mêmes sont ambigus : un seul canal expressif ne permet pas de d
 
 - **Soutien émotionnel et réflexif des LLM en mathématiques au collège :** [[mindful-llm-math-tutoring-2026|Rief et al. (2026)]] ont greffé la pleine conscience sur un [[intelligent-tutoring|tuteur]] d'algèbre destiné à des élèves de 7e année, par le biais de conversations dynamiques, d'exercices de respiration et d'un langage de rétroaction attentif aux erreurs. Dans un petit [[rct|essai contrôlé randomisé]] en classe (42 participants ayant mené l'étude à terme sur 252), la version attentive est parvenue à un apprentissage de l'algèbre comparable en moins de temps et avec moins d'indices demandés que le seul soutien cognitif — une efficacité d'apprentissage plus élevée et une [[help-seeking|recherche d'aide]] plus équilibrée — bien que la réduction de l'anxiété en mathématiques mesurée par l'échelle état n'ait pas différé significativement entre les conditions.
 
-### Les bénéfices et les risques
+## Les bénéfices et les risques
 
 Le tutorat tenant compte des émotions peut produire des gains mesurables, mais la même sophistication comporte des risques :
 
@@ -56,9 +56,9 @@ Le tutorat tenant compte des émotions peut produire des gains mesurables, mais 
 
 - **L'engagement n'est pas un indicateur de substitution de l'apprentissage.** L'engagement et l'apprentissage se sont dissociés lors de la détection cérébrale : une interface contrainte et adaptative a accru l'engagement cognitif (p = .018), tandis que l'agent conversationnel sans restriction produisait des [[learning-gains|gains d'apprentissage]] plus élevés (p < .03, d > 0.80), si bien qu'un signal d'affect peut s'écarter du résultat qu'il sert ([[socratic-nuclear-ai-learning|Clin Deffarges et al. (2026)]]).
 
-### L'informatique affective et l'AIED au sens large
+## L'informatique affective et l'AIED au sens large
 
-L'informatique affective se situe à l'intersection du [[affective-tutoring|tutorat affectif]] (son application pédagogique), de la [[student-modeling|modélisation de l'apprenant]] (représenter l'apprenant entier, y compris ses émotions) et de l'[[learning-analytics|analytique de l'apprentissage]] (dériver des signaux des données de l'apprenant). Elle est liée à la conception des [[intelligent-tutoring|systèmes de tutorat intelligent]] et à la [[pedagogical-safety|sécurité pédagogique]] — le principe selon lequel l'IA doit soutenir, et non manipuler, l'émotion de l'apprenant.
+L'informatique affective se situe à l'intersection du [[affective-tutoring|tutorat affectif]] (son application pédagogique), de la [[student-modeling|modélisation de l'apprenant]] (représenter l'apprenant entier, y compris ses émotions) et de l'[[learning-analytics|analytique de l'apprentissage]] (dériver des signaux des données de l'apprenant). Elle est liée à la conception des [[intelligent-tutoring|systèmes de tutorat intelligent]] et à la [[pedagogical-safety|sécurité pédagogique]] — le principe selon lequel l'IA doit soutenir, et non manipuler, l'émotion de l'apprenant. Cette page couvre le domaine et ses preuves ; le [[affective-tutoring|tutorat affectif]] traite de la manière dont un tuteur doit agir sur une lecture de l'affect, et l'[[sensor-and-gaze-analytics|analyse des capteurs et du regard]] traite de ce que les signaux eux-mêmes peuvent étayer.
 
 - **Suivi des émotions en classe, en temps réel et en périphérie.** [[emotion-aware-classroom-iot-monitoring-2026|Nguyen et al. (2026)]] ont construit un système d'évaluation de la qualité de la classe tenant compte des émotions, qui fait entrer l'informatique affective dans des contextes authentiques et à grande échelle. Conçu pour des **dispositifs IoT et de périphérie**, le système traite la répartition de charge et la latence tout en coordonnant plusieurs agents pour capter en temps réel les schémas émotionnels et d'engagement des élèves. Il a été évalué sur le **Classroom Emotion Dataset** (1,500 images étiquetées et 300 vidéos de classe issues de vraies classes vietnamiennes du primaire et du secondaire), avec une attention portée à l'interaction affective multi-personnes en conditions réelles — une démonstration du passage de la reconnaissance des émotions, de modèles de laboratoire à un suivi de classe déployable, accompagnée des considérations de vie privée et de [[pedagogical-safety|sécurité pédagogique]] qu'un tel suivi soulève.
 - **Agents d'évaluation émotionnellement intelligents.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], un [[conversational-ai|agent conversationnel]] émotionnellement intelligent augmenté par [[llm|LLM]], a réduit l'[[anxiety-and-stress|anxiété des étudiants]] et la pression sociale pendant des évaluations fondées sur la performance, tout en préservant l'[[usability-research|utilisabilité]].

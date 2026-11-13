@@ -1,7 +1,7 @@
 ---
 title: "Réalité virtuelle et augmentée"
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -9,7 +9,7 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-09T09:39:27-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,8 @@ Les données probantes les plus solides en faveur de la VR/AR sont comparatives 
 Les contre-données sont tout aussi informatives. Dans la première méta-analyse des interventions fondées sur l'IA pour les [[inclusive-learning|étudiants en situation de handicap]] — 29 études, 239 tailles d'effet, effet global moyen g = 0,588 — les systèmes de RV intelligents produisaient g = 0,528, **non statistiquement significatif**, tandis que les logiciels sur ordinateur atteignaient 0,959 et les robots 0,509. Un biais de publication était présent, et la méthode trim-and-fill réduisait l'estimation globale à g = 0,269. Le schéma n'est pas que l'immersion échoue, mais que ses effets sont faibles, hétérogènes, et sensibles à la façon dont l'intervention particulière a été conçue et comparée.
 
 Le résultat négatif le plus clair de la base de connaissances vient d'un déploiement en studio plutôt que d'une comparaison de modalités : dans un studio de design architectural de 27 étudiants, les équipes utilisant un pipeline IA générative plus XR multi-utilisateurs ont davantage décliné en confiance en leur [[self-efficacy|efficacité personnelle]] en design (β = −1,675) et en attente de résultats (β = −2,088) que les équipes suivant le déroulement habituel du cours, sans différence significative dans les notations par un jury d'experts de leurs présentations ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). Les auteurs l'expliquent par une complémentarité dépendante de la phase, avec de vraies frictions — l'IA générative pour extérioriser des idées provisoires, le XR pour l'évaluation spatiale et d'échelle — ainsi que par des problèmes de contrôle, de fidélité dimensionnelle, d'attention partagée et de confort de mouvement, rappel que l'outillage immersif ajoute des coûts d'interaction en même temps que des capacités.
+
+**La littérature est jeune et dispersée.** Une cartographie bibliométrique de l'éducation STEM en RV assistée par l'IA a recensé 241 publications dans Dimensions entre 2005 et 2025, mais 84.6 % d'entre elles sont parues en 2023-2025, l'inflexion de croissance se situant en 2023 plutôt qu'à la pandémie ([[ajimotokan-ai-vr-stem-bibliometric-2026|Ajimotokan et al., 2026]]). La performance de citation était forte : 92 des 127 publications dotées de scores normalisés par champ se situaient au niveau ou au-dessus de la moyenne mondiale. La structure sociale du champ était toutefois mince, 774 des 789 auteurs étant crédités d'un seul article et 185 des 209 revues n'apparaissant qu'une fois. Pour un lecteur qui soupèse les études d'effet ci-dessus, cette structure est la réserve : l'essentiel des preuves est récent, et peu de groupes de recherche ont accumulé un programme soutenu.
 
 ## Fidélité, présence et écart d'authenticité
 

@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 
 La conception de programme traite du *quoi* de l'éducation au niveau du cursus, en complément de l'[[learning-design]] qui traite du *comment* au niveau du cours. Les articles de cette base de connaissances explorent comment l'IA remodèle les programmes dans toutes les disciplines — du génie logiciel à l'architecture en passant par l'éducation verte — et comment les éducateurs conçoivent des programmes qui intègrent la littératie en IA sans sacrifier les fondamentaux disciplinaires.
 
-### Thèmes clés de la recherche
+## Thèmes clés de la recherche
 
 **Repenser les programmes pour l'ère de l'IA** est le défi central. **[[reshaping-cs-education-genai|Lee et al.]]** ont synthétisé les résultats d'ateliers internationaux sur la refonte de l'[[cs-education|enseignement de l'informatique]] de premier cycle, en soutenant qu'à mesure que l'IA générative automatise la programmation de niveau implémentation, les programmes doivent se déplacer vers la conception de systèmes, l'abstraction et l'évaluation critique — tout en dépriorisant les détails d'implémentation de bas niveau. **[[ase-26-agentic-software-engineering-curriculum|Gorsky]]** a formalisé le génie logiciel agentique comme une discipline distincte, avec un programme de 21 modules centré sur l'« évolution de l'intention » et la discipline de praticien requise pour piloter des [[agentic-ai|agents d'IA]]. Ces deux approches se rattachent à l'[[ai-literacy]] et au [[scaffolding]].
 
@@ -100,7 +100,7 @@ Une conséquence au niveau du programme de la capacité des modèles est que la 
 
 C'est la structure, non la formulation du prompt, qui rend fiable la rédaction par l'IA en production : le pipeline Curriculum-as-Code de [[curriculum-as-code-instructional-design-2026|Paiva (2026)]] élaguait agressivement le contexte et générait les matériaux section par section sur 28 contextes de projet, ce qui a réduit le temps de préparation de l'enseignant d'environ huit à deux heures par séquence, et n'a laissé aucune [[hallucination-risk|hallucination]] conceptuelle ou mathématique à la [[human-in-the-loop-ai|revue humaine]].
 
-### Connexions aux concepts associés
+## Connexions aux concepts associés
 
 La conception de programme se rattache directement à l'[[learning-design]] — le programme définit le quoi, l'enseignement définit le comment. Elle se rattache à l'[[ai-literacy]] parce que l'intégration des compétences en IA est un défi curriculaire central, au [[teacher-role]] et à l'[[educational-development]] parce que le changement de programme exige la préparation des éducateurs, et au [[scaffolding]] parce que des programmes bien conçus étayent le développement des compétences sur plusieurs cours et plusieurs années. Les connexions à l'[[higher-ed]] et au [[k-12]] reflètent la pertinence de la conception de programme à tous les niveaux éducatifs.
 

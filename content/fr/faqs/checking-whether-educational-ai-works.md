@@ -1,8 +1,8 @@
 ---
 title: "Comment savoir si une IA éducative fonctionne correctement, et pas seulement qu'elle obtient de bons scores ?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-11-05T18:53:37-05:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+updated: "2026-11-12T23:30:00-05:00"
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -17,7 +17,7 @@ methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
 contributors: [editor]
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-12T15:50:00-05:00"
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

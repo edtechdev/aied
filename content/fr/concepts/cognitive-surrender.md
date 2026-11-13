@@ -1,7 +1,7 @@
 ---
 title: "Capitulation cognitive"
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -33,12 +33,12 @@ ai_assist:
 
 ## Questions à examiner
 
-1. Lorsqu'un étudiant accepte une réponse d'IA qui se trouve être juste, le cours a-t-il réussi ? Que faudrait-il pour que l'acceptation elle-même soit la chose qui compte ?
-2. Un délégateur calibré qui connaît ses propres limites est-il différent en nature d'un étudiant qui, simplement, ne peut pas faire la différence ? Comment [[teacher-role|un enseignant]] distinguerait-il les deux dans un seul travail ?
-3. Si la confiance augmente alors que l'exactitude diminue — comme c'est le cas lorsque des conseils d'IA sont disponibles — qu'advient-il de la détection de ses propres erreurs par l'apprenant ?
-4. Où la vérification est-elle enseignable, et où est-elle un problème de charge de travail [[educational-policy-ai|politique]] ? Quelles parties d'un [[curriculum-design|programme]] devraient changer pour que la vérification soit la norme plutôt que l'exception ?
-5. Les établissements devraient-ils mesurer la capitulation, ou cette mesure invite-t-elle la même surveillance que peinent à affronter les [[ai-use-disclosure|règles de divulgation]] ?
-6. À quoi ressemblerait une tâche qui récompenserait un étudiant pour avoir corrigé une réponse d'IA erronée plutôt que pour en avoir produit une polie ?
+- Lorsqu'un étudiant accepte une réponse d'IA qui se trouve être juste, le cours a-t-il réussi — ou seulement semblé réussir ?
+- Un délégateur calibré qui connaît ses propres limites est-il différent en nature d'un étudiant qui, simplement, ne peut pas faire la différence ? Comment [[teacher-role|un enseignant]] distinguerait-il les deux dans un seul travail ?
+- Si la confiance augmente alors que l'exactitude diminue — comme c'est le cas lorsque des conseils d'IA sont disponibles — qu'advient-il de la détection de ses propres erreurs par l'apprenant ?
+- Où la vérification est-elle enseignable, et où est-elle un problème de charge de travail ? Quelles parties d'un [[curriculum-design|programme]] devraient changer pour que la vérification devienne la norme ?
+- Les établissements devraient-ils mesurer la capitulation, ou cette mesure invite-t-elle la même surveillance que les [[ai-use-disclosure|règles de divulgation]] peinent déjà à affronter ?
+- À quoi ressemblerait une tâche qui récompenserait le fait de corriger une réponse d'IA erronée plutôt que de produire une réponse polie ?
 
 ## Introduction
 
@@ -46,7 +46,7 @@ La capitulation est la disposition derrière la défaillance la plus courante da
 
 Trois choses distinguent la capitulation. Elle porte sur le *jugement*, et non sur l'effort : un étudiant peut consacrer un temps considérable à l'[[prompt-engineering|ingénierie des invites]], à la reformatation et à l'affinage des productions sans jamais une seule fois recourir à son propre critère pour décider si la production est bonne. Elle est souvent *invisible pour l'apprenant* : la signalisation qui accompagne habituellement l'effort — l'hésitation, l'incertitude, le sentiment de ne pas encore savoir — est court-circuitée par le texte fluide. Et elle *n'est pas corrigée de façon fiable par la seule pratique ou les seules incitations*, ce qui est l'endroit où les données probantes se font pointues.
 
-## Offloading, over-reliance, surrender: three different failures
+## Délestage, dépendance excessive, capitulation : trois défaillances différentes
 
 | Construit | Question centrale | Mécanisme de préjudice typique | Où il est mesuré |
 | --- | --- | --- | --- |
@@ -56,11 +56,11 @@ Trois choses distinguent la capitulation. Elle porte sur le *jugement*, et non s
 
 Les trois se situent sur une seule échelle plutôt que de se remplacer. Le délestage est souvent productif ; il se transforme en dépendance excessive lorsqu'il cesse d'être stratégique ; la capitulation est la version où l'étape évaluative disparaît. Les distinctions sont tracées dans la pratique aussi bien qu'en théorie : la [[young-people-learning-generative-ai-rapid-review-2026|revue rapide de Sydney]] de 271 articles empiriques sur l'[[generative-ai|IA générative]] de la petite enfance au secondaire organise le comportement des étudiants en exactement ces trois catégories — capitulation, délestage et [[agency|autonomie]] — et les répartit selon les dimensions cognitive, [[metacognition|métacognitive]] et affective. [[du-yuan-epistemic-dependence-2026|Du et Yuan (2026)]] tracent la même frontière par l'autre côté : l'assistance instrumentale produit un résultat, l'assistance porteuse de jugement fournit *le critère par lequel le résultat est jugé*, et seule la seconde déplace de façon fiable le travail qui développe l'expertise. Leurs six critères — contestabilité, recouvrabilité, transfert, traçabilité, responsabilité distribuée et pluralité épistémique — constituent un diagnostic de la capitulation plutôt qu'une mesure de l'usage.
 
-## The Tri-System account
+## Le modèle des trois systèmes
 
 [[shaw-nave-cognitive-surrender-2026|Shaw et Nave (2026)]] prolongent le raisonnement à double processus par un troisième système. Le Système 1 est rapide et intuitif ; le Système 2 est lent et délibératif ; le **Système 3** est une cognition artificielle qui s'exécute hors du cerveau. Le Système 3 peut compléter le traitement interne, fournissant des réponses candidates et signalant les contradictions au Système 2, ou il peut le supplanter, auquel cas la délibération ne commence jamais. La capitulation est le cas du remplacement, et la théorie prédit qu'elle devrait être détectable comme une signature plutôt que comme un sentiment : adopter la réponse de l'IA lorsqu'elle est juste, l'adopter lorsqu'elle est fausse, et déclarer plus de confiance dans les deux cas.
 
-## The experimental signature
+## La signature expérimentale
 
 Trois expériences préenregistrées ont adapté le Test de Réflexion Cognitive et randomisé l'*exactitude de l'IA* au moyen d'invites initiales cachées, si bien que les participants ne pouvaient distinguer un bon assistant d'un mauvais à partir de l'interface (N = 1.372 ; 9.593 essais).
 
@@ -75,7 +75,7 @@ La lecture pratique est que la capitulation est un **échec de discrimination** 
 
 Une expérience préenregistrée de [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] fournit une configuration contrastée. Avec un assistant cloisonné par [[rag|enrichissement de récupération]] à la fiche d'exercices assignée, la condition IA a abaissé le délestage cognitif (médiane −0.27) au lieu de l'élever, et aucun chemin de délestage ne portait la hausse de la désorganisation (0.84). La capitulation exige un assistant dont le conseil peut être adopté en bloc ; un système qui ne répond qu'à partir du matériel présent donne moins à adopter et plus à réconcilier à l'apprenant.
 
-## Surrender outside the lab
+## La capitulation hors du laboratoire
 
 Les constats de laboratoire rejoignent des travaux de terrain et d'observation qui ont indépendamment choisi le même mot.
 
@@ -90,7 +90,7 @@ Les constats de laboratoire rejoignent des travaux de terrain et d'observation q
 
 - **« La délégation d'une dissertation entière reste hypothétique hors du laboratoire. »** Cela s'est produit dans une étude en ligne à session unique, sans politique ni encouragement. Sur **77** rédacteurs universitaires, **15 (19,5%)** ont soumis des dissertations rédigées à **100%** par le modèle, sans taper un mot dans l'éditeur, et **20** participants ont demandé d'emblée une dissertation entière, le code le plus utilisé du schéma. L'utilisateur le plus intensif a soumis **27** requêtes. [[jelson-students-chatgpt-essay-writing-2026|La capitulation est apparue comme un schéma de demandes]], et non comme un acte unique détectable.
 
-## Designing and teaching against surrender
+## Concevoir et enseigner contre la capitulation
 
 - **Faire de la vérification le devoir, et non le conseil.** Exigez une première réponse énoncée avant que l'IA ne soit consultée, et demandez aux étudiants de nommer les points où ils l'ont corrigée. Cela transforme une étape de jugement invisible en un artefact évaluable.
 - **Récompenser les corrections, et non l'usage.** Dans les expériences, des incitations attachées à l'exactitude ont fait monter le délestage vers 37% sans éliminer la capitulation ; les incitations fonctionnent lorsqu'elles rendent la vérification lourde de conséquences, ce qui est aussi le constat derrière [[brcic-effortless-trap-productive-struggle-2026|le piège de l'effort sans peine]] et sa règle de placement — un assistant laissé sans garde-fou a rendu les étudiants environ 17% moins bons à un examen sans aide, et un modèle reconstruit qui retenait les réponses a effacé le préjudice.
@@ -99,11 +99,11 @@ Les constats de laboratoire rejoignent des travaux de terrain et d'observation q
 - **Conserver une [[educational-measurement|mesure]].** Si la performance assistée et la capacité sans assistance ne sont pas mesurées séparément, la capitulation est invisible à l'évaluation des cours : le semestre paraît meilleur et les chiffres de rétention baissent en silence.
 - **La traiter comme un problème de systèmes et de conception.** Les [[agentic-ai-pedagogical-best-practice-2026|conceptions agentiques]] notent que plus [[agentic-ai|un agent]] est agentique, moins l'apprenant dépense d'effort cognitif, ce qui convertit par défaut une délégation productive en capitulation ; les [[ai-overreliance-complex-adaptive-system-2026|travaux de modélisation]] ajoutent que la dépendance se diffuse par la preuve sociale, si bien que les normes de cohorte et les réglages par défaut de l'interface comptent autant que l'habitude individuelle.
 
-## Open questions
+## Questions ouvertes
 
 La capitulation s'habitue-t-elle, ou décroît-elle avec le désusage ? La [[cognitive-washout-ai-skill-decay-2026|recherche sur le lavage cognitif]] formalise la question post-retrait, mais les données à long terme n'existent pas encore. La capitulation peut-elle être mesurée dans des conditions réelles sans journalisation invasive — et les auto-déclarations de comportement de vérification prédisent-elles quoi que ce soit ? Le gonflement de la confiance persiste-t-il une fois qu'un apprenant a été brûlé par une réponse fausse énoncée avec assurance, ou la [[trust-calibration|mauvaise calibration]] est-elle tenace ? Et au niveau d'une profession plutôt que d'une personne, une capitulation généralisée épuise-t-elle le vivier d'expertise partagée dont dépend elle-même la supervision des systèmes d'IA, la préoccupation soulevée par [[cognitive-commons-ai-expertise-regeneration|le cadre des biens cognitifs communs]] ?
 
-## Limitations
+## Limites des preuves
 
 Les données probantes en faveur de la capitulation comme construit nommé reposent largement sur un seul programme de travaux de laboratoire : trois expériences préenregistrées sur un Test de Réflexion Cognitive adapté avec des échantillons de commodité, qui établissent le mécanisme et les modérateurs dispositionnels mais ne se [[transfer-of-learning|transfèrent]] pas au jugement professionnel à enjeux élevés. Le dispositif ne capture aussi que des expositions uniques, si bien que rien ne montre si la capitulation s'habitue ou se cumule. Les données probantes de terrain sont observationnelles : le panel ALEKS montre une achèvement plus rapide avec une rétention surveillée moins bonne, mais une attribution causale à la capitulation plutôt qu'à un changement de stratégie d'étude exige des postulats que le dispositif ne peut pas éprouver. Les définitions restent instables dans la littérature — délestage, dépendance excessive, dépendance, attachement et usage problématique sont régulièrement confondus, et [[yan-conversational-ai-engagement-dependence-synthesis-2026|au moins une synthèse]] soutient qu'une délégation fréquente ne devrait pas être qualifiée de dépendance sans altération du contrôle ni préjudice. Enfin, les [[self-report-measures|auto-déclarations]] de confiance, de besoin de cognition et de comportement de vérification portent les limites habituelles, et une grande partie des données probantes de classe concerne l'[[higher-ed|enseignement supérieur]] et le [[k-12|secondaire]] plutôt que les premiers niveaux de scolarité.
 

@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: concepts/critical-pedagogy
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 
 La pédagogie critique se distingue de la [[critical-thinking|pensée critique]]. La pensée critique est une aptitude cognitive — évaluer des arguments, questionner des présupposés, raisonner avec soin — qui peut s'exercer dans presque tous les cadres. La pédagogie critique, en revanche, est une *posture politique et [[ethics|éthique]]* qui relie ces compétences à des questions de pouvoir, de justice, d'[[equity-in-ai-education|équité]] et de transformation sociale. La base de connaissances les traite comme des concepts apparentés mais distincts : la pensée critique demande « ce raisonnement est-il solide ? », tandis que la pédagogie critique demande « à qui cette éducation sert-elle, et le savoir de qui compte ? ».
 
-### La pédagogie critique et l'IA en éducation
+## La pédagogie critique et l'IA en éducation
 
 L'[[ai-education|IA en éducation]] soulève des questions aiguës pour la pédagogie critique, et la base de connaissances documente plusieurs fils :
 
@@ -58,23 +58,13 @@ L'[[ai-education|IA en éducation]] soulève des questions aiguës pour la péda
 - **Les remèdes de conception ne suffisent pas à eux seuls.** Les démarches de conception centrée sur l'humain, comme la conception sensible aux valeurs, sont insuffisantes : elles laissent intacts les moteurs systémiques — les cadrages en termes de productivité de la main-d'œuvre et les incitations économiques — et l'[[agency]] peut être à somme nulle, de sorte que la capacité concédée à l'outil est une capacité que l'apprenant ne conserve pas ([[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]]).
 - **L'éducation aux droits humains comme cas d'épreuve de la gouvernance de l'IA comme formation.** [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo (2026)]] déploie le cadre onusien *about, through, for* dans un programme de droit et situe la difficulté non pas dans la technologie mais dans la pédagogie : les étudiants remettaient des travaux écrits polis et des conceptions de séance polies, sans l'engagement que ces artefacts sont censés attester, et la pensée la plus critique apparaissait dans les écrits de fin de cours plutôt que dans le dialogue en classe. Sa conclusion déplace le rôle de l'éducateur plutôt qu'elle ne le réduit — la [[governance|gouvernance de l'IA]] devient une responsabilité professionnelle que les étudiants sont formés à contester, et l'[[llm|outil]] est orienté plutôt qu'interdit.
 
-### L'évaluation comme lieu de critique
+## L'évaluation comme lieu de critique
 
 La pédagogie critique entre dans l'évaluation par la question des intérêts que sert une refonte. [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] construit cette thèse en joignant la théorie des architectures de pratique à la pédagogie critique, de sorte qu'une réforme de l'évaluation doit déplacer trois choses à la fois : le langage culturel-discursif qui rend certaines pratiques pensables, les arrangements matériels-économiques des outils et des ressources, et la distribution socio-politique du pouvoir. L'avertissement du cadre est précis. Lorsque les ressources circulent à travers des structures de pouvoir existantes sans attention explicite à l'équité, une refonte bien intentionnée amplifie les inégalités qu'elle devait corriger, ce qui fait de l'intersection ressources-pouvoir à la fois le plus grand levier et le plus grand risque. Sa matrice en quatre phases déroule l'analyse critique, la conception de l'intervention, une mise en œuvre centrée sur l'équité et l'évaluation, et elle traite le changement incrémental et la tension productive comme des résultats légitimes plutôt que comme un échec à transformer vite.
 
-### Le rôle de l'éducateur
+## Le rôle de l'éducateur
 
 Sous l'angle de la pédagogie critique, les éducateurs ne sont pas des transmetteurs neutres de compétences en IA, mais des interlocuteurs critiques et des facilitateurs qui aident les apprenants à interroger la politique de l'IA. Cela rejoint les concepts de [[teacher-role]] et d'[[ai-literacy]] de la base de connaissances, ainsi que la préoccupation plus large pour l'[[equity-in-ai-education]] et la [[reducing-ai-misuse|réduction des usages abusifs]]. La tâche de l'éducateur est de cultiver des espaces où les communautés peuvent collectivement questionner, s'approprier ou refuser l'IA — faisant de l'éducation un lieu d'imagination et de transformation sociale. [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] ajoutent à ce rôle une condition pratique : un travail ouvert de littératie critique en IA n'exige pas des éducateurs qu'ils arrivent en experts de l'IA, seulement qu'ils soient disposés à explorer aux côtés des étudiants — une enquête conjointe d'élèves et d'enseignant sur un système précis, les « laissez-passer électroniques » (qui ne sont pas tous de l'IA), a fait émerger et a travaillé des [[misconceptions]] tout en approfondissant le savoir technique. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran et Arar (2026)]] donnent à ce rôle une forme constructionniste, faite d'éthique du care : ils traitent la [[prompt-engineering|littératie en matière d'invites]] comme un processus rhétorique, éthique et réflexif plutôt que comme une compétence d'optimisation technique, et la phase finale du cadre fait co-concevoir aux étudiants, avec leur enseignant, une politique personnelle d'usage de l'IA, de sorte que les normes régissant l'usage de l'IA en classe soient rédigées par ceux qu'elles régissent plutôt que promulguées à leur endroit.
-
-## Idées fausses courantes
-
-**« Utiliser l'IA de manière critique, c'est l'utiliser moins. »** L'engagement critique est un mode d'usage, non une quantité d'usage. Sur **42 épisodes de classe** dans une étude roumaine menée au collège, **15 (35,71 %) étaient dépendants de l'IA** et **16 (38,10 %) augmentés par l'IA**, ne laissant que **11 (26,19 %) d'IA-critiques** — les épisodes augmentés et les épisodes critiques mobilisent donc tous deux l'outil, et la distinction tient à ce que les étudiants l'aient interrogé ou non. La rareté du mode critique est un problème d'enseignement, non un problème d'usage.
-
-**« La littératie en IA est un ensemble de compétences neutre. »** La pédagogie critique la traite comme une pratique de résistance et de transformation sociale, ce qui rend le cadrage lui-même contestable. Un [[curriculum-design|curriculum]] de littératie qui enseigne la technique d'invite et omet les intérêts que sert le système a enseigné la fluidité dans un outil tout en adoptant sa politique sans examen critique.
-
-**« La pédagogie critique est une critique formulée depuis l'extérieur de la pratique. »** C'est une posture quant au rôle de l'éducateur : demander à qui profite l'éducation, quel savoir est privilégié, et comment l'école reproduit ou résiste au pouvoir. Appliquée à l'adoption de l'IA, cela signifie interroger les logiques corporatives et capitalistes qui façonnent les achats — des questions qu'un enseignant peut poser sur les choix de sa propre institution, et pas seulement sur la technologie dans l'abstrait.
-
-**« Centrer les épistémologies marginalisées est un ajout de contenu curriculaire. »** Cela change ce qui compte comme savoir, ce qui est une question sur la structure du cours plutôt qu'une lecture supplémentaire. Les ajouts de contenu laissent le cadre intact ; la prétention de la pédagogie critique porte sur le cadre.
 
 ## Implications pour la pratique
 
@@ -92,6 +82,16 @@ Sous l'angle de la pédagogie critique, les éducateurs ne sont pas des transmet
 **Pour les chercheurs**
 
 - Rapportez la distribution des modes d'engagement dans les classes, et pas seulement l'usage moyen, car la moyenne masque l'existence ou non d'une pratique critique.
+
+## Idées fausses courantes
+
+**« Utiliser l'IA de manière critique, c'est l'utiliser moins. »** L'engagement critique est un mode d'usage, non une quantité d'usage. Sur **42 épisodes de classe** dans une étude roumaine menée au collège, **15 (35,71 %) étaient dépendants de l'IA** et **16 (38,10 %) augmentés par l'IA**, ne laissant que **11 (26,19 %) d'IA-critiques** — les épisodes augmentés et les épisodes critiques mobilisent donc tous deux l'outil, et la distinction tient à ce que les étudiants l'aient interrogé ou non. La rareté du mode critique est un problème d'enseignement, non un problème d'usage.
+
+**« La littératie en IA est un ensemble de compétences neutre. »** La pédagogie critique la traite comme une pratique de résistance et de transformation sociale, ce qui rend le cadrage lui-même contestable. Un [[curriculum-design|curriculum]] de littératie qui enseigne la technique d'invite et omet les intérêts que sert le système a enseigné la fluidité dans un outil tout en adoptant sa politique sans examen critique.
+
+**« La pédagogie critique est une critique formulée depuis l'extérieur de la pratique. »** C'est une posture quant au rôle de l'éducateur : demander à qui profite l'éducation, quel savoir est privilégié, et comment l'école reproduit ou résiste au pouvoir. Appliquée à l'adoption de l'IA, cela signifie interroger les logiques corporatives et capitalistes qui façonnent les achats — des questions qu'un enseignant peut poser sur les choix de sa propre institution, et pas seulement sur la technologie dans l'abstrait.
+
+**« Centrer les épistémologies marginalisées est un ajout de contenu curriculaire. »** Cela change ce qui compte comme savoir, ce qui est une question sur la structure du cours plutôt qu'une lecture supplémentaire. Les ajouts de contenu laissent le cadre intact ; la prétention de la pédagogie critique porte sur le cadre.
 
 ## Concepts liés
 

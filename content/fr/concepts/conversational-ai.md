@@ -1,13 +1,13 @@
 ---
 title: "L'IA conversationnelle"
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-11-11T18:05:00-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-11-11T15:52:00-05:00"
+source_updated: "2026-11-12T20:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -95,15 +95,13 @@ Choisissez des agents conversationnels pour soutenir l'enseignement, la [[motiva
 
 - **Comment les étudiants parlent réellement aux agents conversationnels — un schéma de désengagement en six catégories :** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] ont intégré un agent enseignable GPT-4-Turbo (positionné comme un élève de collège en difficulté, ancré par [[rag|RAG]] sur un [[knowledge-graph|graphe de connaissances]], et associé à un agent mentor qui critiquait les explications des étudiants) dans les leçons d'algèbre et de géométrie de Math Nation, puis ont codé 5 522 énoncés provenant de 246 étudiants. Au-delà de l'engagement (75,7% des énoncés), ils ont identifié False Answering (12,8%), Withholding (8,9%), Random/Noisy (2,1%), Mirroring (0,6%), Mocking (0,3%) et Ghosting (0,2%) — le Mirroring (copie du texte de l'agent) émergeant inductivement des données. La classification se faisait [[human-in-the-loop-ai|dans la boucle humaine]] : 1 682 énoncés annotés par deux évaluateurs (κ = 0,704–0,905 par catégorie) ont servi à entraîner un classificateur LLaMA 3 affiné (F1 pondéré = 0,910 sur des fils de discussion réservés) qui a étiqueté les 3 840 énoncés restants. Une analyse des risques compétitifs au niveau du processus a ensuite montré que la plupart des désengagements se résolvent en quelques tours, à l'exception du Withholding, qui persiste — un signal autour duquel il vaut la peine de concevoir les réponses de l'agent.
 
+La littérature sur l'entraînement des fonctions exécutives est mince et jeune. La revue PRISMA de [[pergantis-chatbots-executive-functions-systematic-review-2025|Pergantis et ses collègues]] a criblé 115 notices et retenu 10 études couvrant 1 606 participants, de 6 à 75 ans et plus, avec une fenêtre de recherche de 2021 à 2024 et aucune évaluation formelle du risque de biais. Deux études seulement rapportaient un suivi, le plus long d'un mois. La conclusion de la revue est que l'entraînement par chatbot des [[executive-function|fonctions exécutives]] est prometteur plutôt qu'établi.
+
 ## Idées fausses courantes
 
 - **« La crédibilité d'un agent conversationnel suit son exactitude. »** **Les utilisateurs lisent la crédibilité de l'agent socialement.** La **compétence** perçue de ChatGPT prédisait **directement** la crédibilité de sa rétroaction, tandis que la **chaleur** perçue n'agissait que **par** cette voie. Un agent chaleureux et compétent en apparence gagne la confiance sur la présentation, un axe distinct de l'exactitude.
 - **« Les partenaires de critique à base de LLM remplacent le jugement de l'apprenant. »** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] montrent concrètement le versant de la **préservation** : la valeur tient à ce que la pensée de l'apprenant reste intacte, et non à ce que la critique soit produite à sa place.
 - **« Les données probantes de la revue parapluie sur les agents conversationnels sont concluantes. »** La [[conversational-ai-agents-umbrella-review-2026|revue parapluie des agents d'IAC]] synthétise des revues consacrées aux agents d'IAC, et la force d'une revue parapluie est bornée par la qualité des revues qu'elle rassemble.
-
-## Citation
-
-Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
 
 ## Concepts liés
 
@@ -125,6 +123,7 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[reducing-ai-misuse]]
 - [[speech-and-voice-technologies]]
 - [[parents-and-families]]
+- [[executive-function]]
 
 ## Articles liés
 
@@ -151,5 +150,11 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[culturally-aware-student-stress-chatbot-2026]] — Un chatbot culturellement sensible alimenté par l'IA pour la détection du stress et le soutien au bien-être parmi des étudiants universitaires pakistanais, utilisant le TAL et l'apprentissage automatique
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench : le tutorat par l'IA et par l'humain produisent des gains d'apprentissage équivalents au GRE
 
+- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Dix études de chatbots ciblant les fonctions exécutives
+
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach : étayer la recherche d'aide ciblée auprès de l'IA pendant la résolution de problèmes
 - [[fang-chatbot-psychosocial-extended-use-2025]] — Texte, voix neutre et voix engageante sur quatre semaines : la modalité a changé l'échange, pas le résultat psychosocial (Fang et al. 2025)
+
+## Citation
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.

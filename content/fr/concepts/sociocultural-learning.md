@@ -8,7 +8,7 @@ pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learnin
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ ai_assist:
 
 ## Introduction
 
-### Le concept
+## Le concept
 
 La théorie socioculturelle (Vygotsky, 1978 ; Luria ; Leontiev) soutient que les fonctions mentales supérieures se développent par la participation à une activité culturellement organisée. À la différence des approches qui situent l'apprentissage uniquement dans le traitement de l'information par l'individu, la perspective socioculturelle souligne que :
 
@@ -44,13 +44,13 @@ La théorie socioculturelle (Vygotsky, 1978 ; Luria ; Leontiev) soutient que les
 - **L'apprentissage est social.** Les fonctions mentales supérieures apparaissent d'abord entre les personnes (de manière intersubjective, dans l'interaction) et seulement ensuite au sein de l'individu. L'apprentissage naît de la participation avec des [[teacher-role|enseignants]], des pairs et des communautés — dans des processus comme l'[[scaffolding|étayage]], l'apprentissage en apprentissage et le mouvement à travers la ZPD.
 - **La [[distributed-cognition|cognition est distribuée]].** Le travail cognitif est réparti entre les personnes, les artefacts et les environnements (Hutchins ; Clark & Chalmers ; Pea), plutôt que contenu dans l'esprit individuel. La [[distributed-cognition|cognition distribuée]], l'[[situated-learning|apprentissage situé]] et les communautés de pratique prolongent le courant socioculturel.
 
-### La zone proximale de développement (ZPD)
+## La zone proximale de développement (ZPD)
 
 La ZPD (Vygotsky) est le concept socioculturel le plus largement appliqué dans le [[intelligent-tutoring|tutorat par IA]] : l'espace entre ce qu'un apprenant peut faire seul et ce qu'il peut faire avec une assistance. L'apprentissage se produit le plus efficacement lorsque l'enseignement cible cette zone — assez exigeant pour pousser le développement, assez soutenu pour permettre de progresser. C'est le fondement théorique de l'[[scaffolding|étayage]] : un soutien temporaire et ajustable, retiré à mesure que la compétence grandit. Dans l'IA en éducation, la ZPD cadre la question centrale de conception : combien de soutien un [[intelligent-tutoring|tuteur IA]] devrait-il fournir pour que l'apprentissage progresse sans que la réponse soit dévoilée — voir [[stanford-evidence-base-ai-k12-2026]].
 
 Une aide produite par une machine peut tomber à l'intérieur de cette zone. Dans une étude randomisée portant sur 274 [[adult-learning|apprenants adultes]] dans quatre sous-domaines des mathématiques, des indices de solutions rédigées générés par ChatGPT ont produit un gain pré-post de 17,00 % contre 1,85 % sans indices, tandis que les indices rédigés par des tuteurs humains produisaient 11,62 % ; les deux conditions d'aide n'étaient pas statistiquement séparables ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos et Bhandari, 2024]]). Le taux d'erreur nuance l'équivalence : 32 % des indices générés échouaient aux contrôles de qualité jusqu'à ce que l'[[prompt-engineering|invite d'auto-cohérence]] ramène ce taux près de zéro dans les trois sous-domaines d'algèbre et à 13 % en statistique. Un autre plus savant qui se trompe une fois sur trois reste un agent de médiation, ce qui explique pourquoi la contribution de la machine doit être vérifiée avant qu'un apprenant ne s'appuie dessus.
 
-### L'apprentissage socioculturel dans l'IA en éducation
+## L'apprentissage socioculturel dans l'IA en éducation
 
 La théorie socioculturelle façonne la [[research-methods-aied|recherche]] en AIED de plusieurs manières distinctes :
 
@@ -64,7 +64,7 @@ La théorie socioculturelle façonne la [[research-methods-aied|recherche]] en A
 - **Contexte culturel et [[governance|institutionnel]].** Le courant socioculturel, proche du [[constructivist|constructivisme]], insiste sur le fait que la dimension culturelle façonne ce qui compte comme savoir, qui fait autorité et ce que l'effort signifie — voir le cadrage apprenants–contextes–cultures de la [[young-people-learning-generative-ai-rapid-review-2026|revue rapide de Sydney sur le PreK-12]].
 - **Valider les mesures du discours exige les jeunes dont le discours est mesuré.** Recontextualiser les définitions des gestes discursifs (talk moves) avec quatre élèves focaux a augmenté le F1 de classification des [[llm|LLM]] de +0.104 pour Claim et de +0.23 pour Question, et les interprétations des élèves eux-mêmes divergeaient des cadrages adultes et du modèle — une limite structurelle de la classification fondée sur le texte, et non un problème de taille des données ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
 
-### Connexion avec la charge cognitive et la métacognition
+## Connexion avec la charge cognitive et la métacognition
 
 Le courant socioculturel est étroitement couplé à la théorie de la [[cognitive-offloading|charge cognitive]] (le soutien devrait gérer la charge sans éliminer l'effort productif) et à la [[metacognition|métacognition]] (les apprenants dans la zone surveillent et régulent activement leur compréhension). [[stanford-evidence-base-ai-k12-2026]] synthétise les données du [[k-12|primaire et secondaire]] montrant que les outils d'IA fonctionnent le mieux lorsqu'ils maintiennent les apprenants dans la ZPD plutôt que de répondre à leur place, et la recherche sur [[human-in-the-loop-ai|l'humain dans la boucle]] examine comment le soutien humain et celui de l'IA définissent conjointement la zone de l'apprenant.
 

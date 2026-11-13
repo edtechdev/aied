@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -101,16 +101,6 @@ Les résultats les plus longs qu'un étudiant expérimente — qu'il revienne ou
 
 L'expérience étudiante est en lien avec la [[cognitive-offloading|délégation cognitive]] (dépendance excessive à l'IA), la [[ai-literacy|littératie en IA]] (compétences pour un usage efficace), la [[cognitive-offloading|délégation cognitive]] (la manière dont l'IA change le travail cognitif) et l'[[student-engagement|engagement]] (la manière dont les systèmes d'IA mesurent et répondent au comportement des étudiants). Elle est le membre du côté apprenant du parapluie [[stakeholders|des acteurs]], et le lieu de synthèse de toutes les manières dont l'IA affecte les étudiants.
 
-## Idées fausses courantes
-
-**« Les étudiants qui évitent l'IA sont à la traîne. »** Le non-usage est souvent une position raisonnée plutôt qu'un manque : une enquête interinstitutionnelle britannique auprès de **7,087 étudiants** a révélé que **32% n'utilisaient pas du tout l'IA générative pour étudier**, les non-utilisateurs invoquant la volonté de faire le travail eux-mêmes. Traiter cela comme un déficit d'adoption inverse le résultat et pousse les étudiants hors d'un choix défendable.
-
-**« Les déclarations des étudiants constituent une mesure raisonnable de l'apprentissage. »** Ce sont des [[self-report-measures|mesures auto-déclarées]] : elles saisissent bien les perceptions et les intentions, et le comportement seulement de manière approximative. L'écart performance–apprentissage de cette littérature — des étudiants réussissant mieux avec l'IA et moins bien sur des tâches ultérieures non assistées — est précisément le cas où l'auto-déclaration et le résultat divergent, si bien qu'un corps étudiant satisfait n'est pas la preuve d'un corps étudiant qui apprend.
-
-**« Si les étudiants ont le sentiment que l'IA les aide, elle les aide. »** Se sentir aidé est une donnée réelle sur l'expérience et une inférence peu fiable sur le résultat. L'écart est documenté et les étudiants du groupe lésé ne le perçoivent pas de manière fiable, de sorte que la perception et le résultat doivent être recueillis comme des mesures distinctes plutôt que l'une se substituant à l'autre.
-
-**« L'expérience étudiante est une préoccupation molle au regard des résultats. »** C'est un indicateur avancé de l'adoption et de la divulgation : les étudiants qui sentent que leur usage est jugé le dissimuleront, et l'usage dissimulé est la condition dans laquelle le [[reducing-ai-misuse|mésusage]] et les préjudices sont le moins visibles pour l'institution.
-
 ## Implications pour la pratique
 
 **Pour les enseignants**
@@ -127,6 +117,16 @@ L'expérience étudiante est en lien avec la [[cognitive-offloading|délégation
 **Pour les chercheurs**
 
 - Rapportez explicitement la taille et les raisons du groupe des non-utilisateurs ; 32% d'un échantillon de 7,087 étudiants est une population, pas un résidu.
+
+## Idées fausses courantes
+
+**« Les étudiants qui évitent l'IA sont à la traîne. »** Le non-usage est souvent une position raisonnée plutôt qu'un manque : une enquête interinstitutionnelle britannique auprès de **7,087 étudiants** a révélé que **32% n'utilisaient pas du tout l'IA générative pour étudier**, les non-utilisateurs invoquant la volonté de faire le travail eux-mêmes. Traiter cela comme un déficit d'adoption inverse le résultat et pousse les étudiants hors d'un choix défendable.
+
+**« Les déclarations des étudiants constituent une mesure raisonnable de l'apprentissage. »** Ce sont des [[self-report-measures|mesures auto-déclarées]] : elles saisissent bien les perceptions et les intentions, et le comportement seulement de manière approximative. L'écart performance–apprentissage de cette littérature — des étudiants réussissant mieux avec l'IA et moins bien sur des tâches ultérieures non assistées — est précisément le cas où l'auto-déclaration et le résultat divergent, si bien qu'un corps étudiant satisfait n'est pas la preuve d'un corps étudiant qui apprend.
+
+**« Si les étudiants ont le sentiment que l'IA les aide, elle les aide. »** Se sentir aidé est une donnée réelle sur l'expérience et une inférence peu fiable sur le résultat. L'écart est documenté et les étudiants du groupe lésé ne le perçoivent pas de manière fiable, de sorte que la perception et le résultat doivent être recueillis comme des mesures distinctes plutôt que l'une se substituant à l'autre.
+
+**« L'expérience étudiante est une préoccupation molle au regard des résultats. »** C'est un indicateur avancé de l'adoption et de la divulgation : les étudiants qui sentent que leur usage est jugé le dissimuleront, et l'usage dissimulé est la condition dans laquelle le [[reducing-ai-misuse|mésusage]] et les préjudices sont le moins visibles pour l'institution.
 
 ## Concepts liés
 

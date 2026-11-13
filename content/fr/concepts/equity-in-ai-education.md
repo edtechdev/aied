@@ -1,7 +1,7 @@
 ---
 title: L'équité
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-11T08:13:31-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -97,6 +97,8 @@ Un [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|audit d’�
 - **La qualité du tutorat évolue avec les caractéristiques démographiques des apprenants.** EduFair-Bench apparie un [[simulating-students|étudiant LLM]] fixe à chaque tuteur sur neuf niveaux démographiques couvrant le genre, l'origine migratoire, la première langue et le statut socioéconomique, et note cinq métriques pédagogiques au niveau du tour. Dans le [[intelligent-tutoring|tutorat par LLM]], les plus grands écarts apparaissent dans les conditions démographiques explicites — l'étayage par étapes corrélant jusqu'à |r| = 0.144 en mathématiques et le ton correctif dépassant 0.10 pour chaque modèle en [[chemistry-education|chimie]] (0.102-0.168) et en [[physics-education|physique]] (0.129-0.294) — et dans 11 des 15 cellules modèle-par-domaine, la condition de réponse fausse obtenait un score plus élevé que celle de réponse correcte, ce qui indique que le ton suivait l'étiquette démographique de l'étudiant plutôt que la qualité de son raisonnement. L'apprentissage par renforcement [[reinforcement-learning|spécifique à la pédagogie]] a redistribué plutôt que supprimé ces écarts. ([[edufair-bench-pedagogical-fairness-llm-tutors-2026]])
 - **Les signaux démographiques implicites constituent un canal de biais moins contrôlable que les attributs énoncés.** [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto and Hovy (2026)]] ont maintenu chaque entrée de tâche fixe tout en ne faisant varier que le contexte démographique sur six [[llm|LLM]] ajustés par consignes et trois tâches éducatives, produisant 192,480 appels d'inférence, et ont séparé les signaux *explicites* (attributs énoncés des étudiants) des signaux *implicites* portés par un historique de [[conversational-ai|conversation]] de dix consignes. Dans la [[automated-essay-scoring|notation automatisée de dissertations]], la plupart des modèles étaient comparativement stables sous conditionnement explicite, tandis que le conditionnement implicite gonflait les notes — Llama-70B obtenait 1.57 point au-dessus de sa propre valeur par défaut (p < 0.001). Dans les questions-réponses métalinguistiques, la condition implicite dérivait dans l'autre sens : les réponses pour les niveaux d'[[education-levels|éducation]] inférieurs recevaient un sentiment moins positif, soit un écart moyen de 0.3 entre le niveau d'éducation le plus bas et les niveaux supérieurs sur une échelle de 0-4, contre un écart-type intra-item de 0.07. La difficulté d'équité est structurelle — l'indice n'est pas un attribut énoncé qu'une politique pourrait interdire ni un champ de consigne qu'un audit pourrait inspecter, mais une propriété de l'interaction elle-même.
 - **La vérification peut rediriger un gain vers les étudiants plus faibles.** [[verified-study-materials-learning-gains-2026|Dang & Nguyen (2026)]] ont constaté que des supports d'étude par l'IA vérifiés par des experts, dans un cours d'économie de première année, étaient associés à un gain de 2.34 points, mais que près des trois quarts provenaient du quintile inférieur, et que la part des notes sous le seuil de 60% baissait de 24.7 points — déplaçant la charge de vérification des étudiants vers un tuteur responsable.
+
+Une seconde revue de 2026 sépare l'assistance de la réduction des écarts. Sur 61 études dans l'enseignement supérieur, 35 traitaient de l'équité : l'accessibilité liée au handicap dans 11, le soutien linguistique dans 10, et un soutien ciblé à des groupes nommés ou à des apprenants de moindre réussite antérieure dans neuf. Ces résultats documentent une aide qui atteint les étudiants, non des écarts qui se referment. Une enquête centrée sur la dyslexie n'a jamais consigné les diagnostics des participants, et les matériels différenciés préparés par de futurs enseignants n'ont jamais été testés auprès des élèves auxquels ils étaient destinés ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido et al., 2026]]).
 
 ## L'inclusion linguistique, culturelle et liée au handicap
 
@@ -205,4 +207,5 @@ L'équité a aussi une dimension environnementale et computationnelle : l'accès
 - [[gyekye-selves-apprenticeship-2026]] — Des apprentis de couleur assimilaient l'équité à l'aplatissement culturel ; l'agence se construit par le refus et la négociation ; bande passante de reconnaissance et littératie en IA institutionnelle
 - [[rodrigues-aied-unplugged-numeracy-2026]] — Une diffusion à médiation enseignante atteint des étudiants que l'IA ne touche jamais
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — La détection frappe le plus durement les rédacteurs multilingues
+- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 35 études sur 61 traitaient de l'équité, mais l'assistance était documentée sans réduction des écarts (Aybar-Bellido et al., 2026)
 - [[li-who-benefits-llms-prompt-engineering-equity-2026]] — La compétence médiatise le bénéfice que les étudiants tirent de l'accès aux LLM (Li et al. 2026)

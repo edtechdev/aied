@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ La robotique éducative est une application distincte mais étroitement apparent
 
 Les données probantes sont plus minces que le volume de travaux ne le suggère : une revue de l'IA et de la robotique en éducation montre que la plupart des études empiriques portent sur des apprenants de moins de 13 ans, sur quatre semaines ou moins, concentrées dans quelques pays ayant investi tôt, avec la [[learning-gains|performance d'apprentissage]] comme résultat le plus étudié et l'éthique, l'équité et les politiques à la traîne du déploiement ([[white-wu-robotics-ai-education-2026|White et Wu (2026)]]).
 
-### Les robots sociaux et l'interaction humain-robot
+## Les robots sociaux et l'interaction humain-robot
 
 Deux fils façonnent le versant social de la robotique en éducation.
 
@@ -50,7 +50,7 @@ Les **robots sociaux** sont des robots conçus pour engager les gens par l'inter
 
 L'**interaction humain-robot (IHR)** est l'étude interdisciplinaire de la manière dont les personnes et les robots interagissent, englobant la perception, la communication, la collaboration et les dynamiques sociales, cognitives et [[ethics|éthiques]] de cette interaction. En éducation, l'IHR sous-tend la manière dont les apprenants perçoivent les robots, leur font confiance et apprennent avec eux — qu'il s'agisse de programmer un robot, de converser avec un robot tuteur ou de répéter des scénarios sociaux. La [[research-methods-aied|recherche]] en IHR examine comment l'apparence du robot, son comportement, le contexte de la tâche et son incarnation façonnent l'[[usability-research|expérience utilisateur]], la confiance, l'agence et l'apprentissage. Les préoccupations clés de l'IHR éducative incluent la préservation de l'[[agency]] humaine, la construction de la [[trust|confiance]], le soutien à l'[[self-efficacy|auto-efficacité]], et la garantie que l'interaction avec les robots soutienne plutôt qu'elle ne sape l'autonomie et l'apprentissage social. Elle relie la robotique à la [[human-ai-collaboration|collaboration humain-IA]] et à l'[[social-emotional-learning|apprentissage socioémotionnel]].
 
-### Comment les robots sont utilisés en éducation
+## Comment les robots sont utilisés en éducation
 
 [[teaching-with-robots-five-types-perspective-2026|Christ et al. (2026)]] ajoutent une typologie des rôles plutôt qu'une liste de technologies : leurs cinq types de robots de classe, dérivés d'ateliers, diffèrent par leur *fonction pédagogique et leur niveau d'abstraction*, et non par leur matériel. Le type a exécute une démonstration non interactive de schémas sociaux génériques (un théâtre d'émotions scénarisé suivi d'une discussion sur des dynamiques telles que l'escalade ou le malentendu) ; le type b est un robot interactif réagissant au toucher, soutenant le théâtre physique participatif, l'[[embodied-learning|apprentissage incarné]], la conscience des limites et la régulation des émotions ; le type c est un partenaire de langue parlée qui fait preuve d'empathie et se souvient des interactions avec un seul élève, créant un cadre protégé en tête-à-tête pour la confidence ; le type d est guidé de l'extérieur par un spécialiste caché, comme une marionnette dotée de degrés de liberté supplémentaires, dans le but d'aplatir la hiérarchie sociale ; et le type e est un robot non interactive qui rejoue des actions récemment observées dans l'école afin que les élèves puissent réfléchir à un comportement situé — le contraste avec le type a tenant précisément à son abstraction propre au contexte plutôt que généralisée. La typologie dit explicitement être un espace de conception non validé, ancré dans un programme national de santé mentale : c'est donc un menu pour concevoir et évaluer des rôles de robot, et non une preuve que l'un d'eux fonctionne.
 
@@ -68,7 +68,7 @@ L'**interaction humain-robot (IHR)** est l'étude interdisciplinaire de la mani�
 - **Ce que la robotique de pensée informatique à la maternelle fait réellement.** Une [[meta-analysis-systematic-review|revue systématique]] de 53 études a montré que l'[[problem-based-learning|apprentissage par problèmes]], la narration et l'étayage étaient les stratégies les plus fréquemment employées, la plupart des études ne nommant aucun cadre de pensée informatique et utilisant des outils d'évaluation ad hoc plutôt qu'un instrument validé tel que TechCheck-K ([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou & Sapounidis (2026)]]).
 - **La planification par LLM plutôt que la conversation.** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] emploie un modèle vision-langage pour convertir des photographies de Shoebox Tasks, des activités visuellement structurées employées auprès d'apprenants du spectre de l'[[neurodiversity|autisme]], en un problème PDDL qu'un humanoïde Nao exécute ou démontre, l'exactitude du plan étant notée sur six tâches plutôt que sur un résultat d'apprentissage.
 
-### Incarnation et pédagogie
+## Incarnation et pédagogie
 
 Un thème définitoire est que les robots sont efficaces lorsqu'ils soutiennent de véritables objectifs d'apprentissage — et non comme des exercices techniques isolés. Un projecteur robotique fixé sur bureau, couplé à ChatGPT sur ordinateur portable alors que de l'aide était disponible (6.7 contre 7.3/10, p = .41), mais a conservé son score après retrait (7.0 contre 4.4/10, p = .003), soit un score de transfert à court terme supérieur de 60% — un gain dépendant de la tâche que les auteurs attribuent à la colocalisation spatiale plutôt qu'à un remplacement général ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). La valeur d'un robot dépend du contexte pédagogique : enseigner la pensée informatique ([[computational-thinking]]), soutenir les [[stem-education|STIM]], construire des compétences de [[cs-education|programmation]], motiver les apprenants ([[motivation]], [[student-engagement|engagement]]), ou soutenir l'[[social-emotional-learning|apprentissage socioémotionnel]] et l'[[equity-in-ai-education|inclusion]]. La robotique rejoint aussi l'[[project-based-learning|apprentissage par projets]], l'[[game-based-learning|apprentissage par le jeu]] et l'[[experiential-learning|apprentissage expérientiel]]. Les considérations clés de conception incluent la préservation de l'[[agency]] de l'apprenant, la construction de la [[trust|confiance]], le soutien à l'[[self-efficacy|auto-efficacité]], et l'ancrage de l'apprentissage dans l'[[embodied-learning|interaction incarnée]]. Dans l'[[language-learning|apprentissage des langues]], des [[robot-assisted-language-learning-meta-analysis-2026|données méta-analytiques]] indiquent l'efficacité de l'apprentissage incarné des langues assisté par robot.
 

@@ -212,7 +212,8 @@ Winstone, Gravett and Elkington invert the usual logic: integrity is produced by
 
 - [[mcclanahan-ai-cheating-policies-cultural-lag-2026]] — policy analysis: AI-cheating rules as cultural lag behind student practice (McClanahan & Dickinson, 2026)
 - [[oyelere-code-programming-assessment-genai-2026]] — position paper: code artifacts no longer evidence authorship, so assessment must move to design and explanation (Oyelere & Kadams, 2026)
-- [[bayraktar-beyond-ai-proofing-assessment-validity-2026]] — Integrity as intellectual accountability for decisions, not proof of unassisted authorship (Bayraktar 2026)- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Four UNESCO and OECD documents read as discourse: floating signifiers, non-performativity and a changing cheating habitus
+- [[bayraktar-beyond-ai-proofing-assessment-validity-2026]] — Integrity as intellectual accountability for decisions, not proof of unassisted authorship (Bayraktar 2026)
+- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Four UNESCO and OECD documents read as discourse: floating signifiers, non-performativity and a changing cheating habitus
 - [[ivory-psychology-assessment-integrity-2026]] — A whole psychology program passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Student teachers declined GenAI under a permissive policy; "trap" framing and survey–declaration gap
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space

@@ -7,7 +7,7 @@ pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ ai_assist:
 
 Le GBL s'appuie sur les théories de la [[motivation]], de l'[[student-engagement|engagement des apprenants]] et de l'[[active-learning|apprentissage actif]] : les jeux procurent une motivation intrinsèque, une rétroaction immédiate et des contextes de problèmes authentiques. Il recoupe la [[simulation]], l'[[project-based-learning|apprentissage par projets]] et la [[educational-robotics|robotique éducative]]. Le GBL est particulièrement pertinent pour la [[educational-robotics|robotique éducative]], la [[computational-thinking|pensée computationnelle]] et l'[[cs-education|enseignement de l'informatique]], où les jeux peuvent rendre concrets et ludiques des concepts techniques abstraits.
 
-### Comment le GBL apparaît dans la recherche de la base de connaissances
+## Comment le GBL apparaît dans la recherche de la base de connaissances
 
 - **Éducation à la robotique :** [[game-based-gamified-robotics-education-review-2026|une revue systématique comparative]] de l'apprentissage par le jeu et de la ludification dans l'éducation à la robotique a montré que le GBL était plus répandu dans les contextes informels, tandis que la ludification dominait les salles de classe formelles et favorisait l'[[project-based-learning|apprentissage par projets]].
 - **Jeux médiés par des robots :** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] est un jeu de rôle médié par un robot destiné à une intervention contre le harcèlement, et [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] utilise la [[storytelling-in-education|narration numérique]] interactive pour stimuler la motivation.
@@ -49,7 +49,7 @@ Le GBL s'appuie sur les théories de la [[motivation]], de l'[[student-engagemen
 
 - **Scinder l'IA en un coach de dialogue et un moteur de difficulté.** Un environnement Roblox amélioré par l'IA pour la pensée computationnelle au secondaire supérieur associait un personnage non joueur GPT-4, limité à deux ou trois phrases et interdit de donner des réponses, à un moteur fondé sur des règles qui fixait la difficulté à partir du temps de résolution et du taux d'erreur ([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang et Kanjug, 2026]]).
 
-### Ludification
+## Ludification
 
 La **ludification** est l'application d'éléments de conception de jeux (points, badges, niveaux, classements, défis, barres de progression) à des contextes non ludiques afin de motiver et d'engager les utilisateurs. Contrairement à l'apprentissage par le jeu — où l'apprentissage se produit *au travers d'un* jeu — la ludification superpose des mécaniques de jeu à une activité d'apprentissage existante sans en faire un jeu complet. Elle est utilisée en éducation pour stimuler la motivation, l'[[student-engagement|engagement des apprenants]] et la persévérance, et elle est largement appliquée dans les contextes formels de salle de classe.
 
@@ -59,14 +59,6 @@ La ludification s'appuie sur la théorie motivationnelle, en particulier la [[se
 - **Engagement et motivation :** la ludification est utilisée à travers la base de connaissances pour accroître l'engagement et la motivation des apprenants dans les contextes d'IA, de [[cs-education|programmation]] et d'apprentissage [[stem-education|STIM]]. La recherche [[genai-motivation-engagement-2026|IA générative, motivation et engagement]] examine comment les éléments ludiques se combinent à l'IA pour soutenir l'intérêt des apprenants. Deux études de 2026 prolongent ces travaux en comparant des conditions ludifiées et assistées par IA à un enseignement traditionnel : [[nasa-tlx-workload-gamified-ai-2026|une étude NASA-TLX]] a mesuré la charge perçue dans des conditions d'apprentissage traditionnel, ludifié et assisté par IA, et [[arcs-motivational-ergonomics-gamified-ai-2026|une étude ARCS]] a examiné l'« ergonomie » motivationnelle dans l'apprentissage ludifié et assisté par IA, avec des implications pour la [[professional-training|formation en milieu professionnel]]. Ensemble, elles montrent que le bénéfice motivationnel des dispositifs ludiques et assistés par IA dépend de la manière dont ils façonnent la [[motivation|charge perçue]], la charge de travail et l'attention (par exemple les dimensions attention/pertinence du modèle ARCS), et non de la ludification seule.
 
 Le GBL et la ludification se relient ensemble à la [[educational-robotics|robotique éducative]], à l'[[student-engagement|engagement des apprenants]], à la [[motivation]], à la [[self-determination-theory|théorie de l'autodétermination]], à l'[[active-learning|apprentissage actif]], à la [[simulation]], à l'[[project-based-learning|apprentissage par projets]] et à la [[computational-thinking|pensée computationnelle]].
-
-## Idées fausses courantes
-
-**« L'apprentissage par le jeu assisté par l'IA dispose d'une base de preuves solide. »** La synthèse qui porte cette affirmation est à la fois vaste et mince. Une **revue systématique de 55 études** trouve des effets positifs sur les connaissances, la motivation intrinsèque et l'engagement affectif — mais seules **4 études (7%) atteignent son seuil de haute qualité**. Un effet positif regroupé tiré d'un corpus où 93% des études passent sous la barre de qualité de la revue elle-même est une hypothèse accompagnée d'une littérature, non un constat sur lequel concevoir.
-
-**« Des effets positifs sur la motivation et sur les connaissances se renforcent mutuellement. »** Ils sont mesurés séparément et, dans la littérature plus large, programmés séparément : [[student-engagement|l'engagement et la réussite]] évoluent selon des calendriers différents, si bien qu'un jeu qui élève la motivation intrinsèque a démontré un seul résultat. Traiter le résultat motivationnel comme une corroboration du résultat cognitif gonfle un constat en deux parties en une affirmation plus forte que la conception ne la soutient.
-
-**« Si un jeu engage les étudiants, l'apprentissage découle du plaisir. »** Le plaisir est le mécanisme de livraison de la répétition qu'un jeu rend tolérable, non le mécanisme de l'apprentissage. Un jeu qui ajoute de l'engagement sans ajouter de pratique productive a ajouté la partie qui n'a jamais manqué.
 
 ## Implications pour la pratique
 
@@ -86,6 +78,14 @@ Le GBL et la ludification se relient ensemble à la [[educational-robotics|robot
 - Élevez la qualité de conception du champ plutôt que son volume ; un taux de haute qualité de 7% est la contrainte déterminante de ce qui peut être conclu.
 
 - **La rétroaction conversationnelle dans une simulation accroît la charge utile sans réduire la charge extrinsèque.** Dans un jeu de simulation d'entreprise de cinq semaines avec **234 étudiants**, les utilisateurs réguliers d'un agent conversationnel de rétroaction fondé sur GPT-4o déclaraient une **charge cognitive utile significativement plus élevée** que les utilisateurs ayant accès sans s'engager (β = −.468, p < .001) et que le contrôle à rétroaction statique (β = −.253, p = .028) — tandis que **la charge extrinsèque ne montrait aucun effet** dans l'une ou l'autre spécification (F(1, 219) = 0.499, p = .481). Les deux charges **ont décliné au fil des cinq semaines** (extrinsèque β = −.388, p < .001), un effet de nouveauté mesuré sur la charge cognitive plutôt que sur l'engagement ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger et Liening, 2026]]). Le point de conception est que la rétroaction portait la [[personalized-learning|personnalisation]], la signalisation, la segmentation et la structure de feed-forward sur 19 indicateurs concrets — la surface conversationnelle seule n'est pas le traitement.
+
+## Idées fausses courantes
+
+**« L'apprentissage par le jeu assisté par l'IA dispose d'une base de preuves solide. »** La synthèse qui porte cette affirmation est à la fois vaste et mince. Une **revue systématique de 55 études** trouve des effets positifs sur les connaissances, la motivation intrinsèque et l'engagement affectif — mais seules **4 études (7%) atteignent son seuil de haute qualité**. Un effet positif regroupé tiré d'un corpus où 93% des études passent sous la barre de qualité de la revue elle-même est une hypothèse accompagnée d'une littérature, non un constat sur lequel concevoir.
+
+**« Des effets positifs sur la motivation et sur les connaissances se renforcent mutuellement. »** Ils sont mesurés séparément et, dans la littérature plus large, programmés séparément : [[student-engagement|l'engagement et la réussite]] évoluent selon des calendriers différents, si bien qu'un jeu qui élève la motivation intrinsèque a démontré un seul résultat. Traiter le résultat motivationnel comme une corroboration du résultat cognitif gonfle un constat en deux parties en une affirmation plus forte que la conception ne la soutient.
+
+**« Si un jeu engage les étudiants, l'apprentissage découle du plaisir. »** Le plaisir est le mécanisme de livraison de la répétition qu'un jeu rend tolérable, non le mécanisme de l'apprentissage. Un jeu qui ajoute de l'engagement sans ajouter de pratique productive a ajouté la partie qui n'a jamais manqué.
 
 ## Concepts liés
 

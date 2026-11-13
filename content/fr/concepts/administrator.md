@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ L'adoption de l'IA dans l'éducation n'est pas purement une décision de classe 
 
 [[students-at-stake-ai-deployment-risks-2026|Student Defense (2026)]] fournit un filtre d'approvisionnement portatif pour exactement la décision à laquelle les administrateurs font face : avant de déployer un produit d'IA, demander quel problème est résolu, si une capacité de gouvernance existe, si l'établissement fait preuve de transparence, et si le déploiement crée de la valeur pour les étudiants, en cadrant le choix comme une question de droits, de choix, de finances et d'avenir des étudiants plutôt que comme une transaction d'approvisionnement.
 
-### Comment la perspective de l'administrateur apparaît dans la recherche
+## Comment la perspective de l'administrateur apparaît dans la recherche
 
 - **Politique et décision institutionnelle :** la [[ai-uk-higher-education-policy-2026|recherche sur la politique d'IA dans l'enseignement supérieur britannique]] constate que l'intégration de l'IA s'accélère mais reste fragmentée, avec un écart entre l'ambition politique de haut niveau et la mise en œuvre institutionnelle — un thème récurrent pour les administrateurs qui naviguent une stratégie sans orientations opérationnelles claires.
 
@@ -57,9 +57,17 @@ L'adoption de l'IA dans l'éducation n'est pas purement une décision de classe 
 - **Bien-être et expérience étudiante :** les [[ai-campus-wellbeing-tools|outils de bien-être sur le campus fondés sur l'IA]] examinent comment les établissements déploient l'IA pour le [[student-support-and-success|soutien aux étudiants]], reliant les choix des administrateurs aux résultats en matière d'[[student-experience|expérience étudiante]].
 - **Gouvernance et réglementation :** les décisions des administrateurs interagissent avec la [[educational-policy-ai|politique éducative et l'IA]], la [[governance|gouvernance]] et la [[regulation|réglementation]] — les établissements traduisent la capacité de l'IA en cadres d'usage acceptable, en règles d'évaluation et en normes de gouvernance des données (voir l'[[genai-policies-higher-ed-computing|analyse des politiques institutionnelles sur GenAI]]).
 
-### Connexions
+## Connexions
 
 La perspective de l'administrateur est liée à la [[educational-policy-ai|politique éducative et l'IA]] (élaboration des politiques), à la [[governance|gouvernance]] et à la [[regulation|réglementation]] (gouvernance), aux [[edtech-platform|plateformes éducatives]] (approvisionnement et infrastructure), à l'[[learning-analytics|analytique de l'apprentissage]] (données institutionnelles) et à l'[[higher-ed|enseignement supérieur]]. Les décisions des administrateurs permettent ou contraignent le travail d'[[educational-development|développement pédagogique]], sur le [[teacher-role|rôle de l'enseignant]] et sur l'[[ai-literacy|IA et la littératie]] traité ailleurs dans la base de connaissances.
+
+## Implications pour la pratique
+**Pour les administrateurs**
+
+- Budgétez le poste de direction, pas seulement le document de stratégie. Quand 49 % déclarent l'IA prioritaire et 7 % créent des postes de direction, la contrainte déterminante est l'allocation et non la conviction.
+- Demandez sur quoi un outil pourra être évalué avant de signer. Si le contrat ne permet pas l'accès aux résultats, aux données d'audit ou au détail d'usage, l'établissement a acheté une capacité qu'il ne peut pas évaluer.
+- Enquêtez sur l'usage réel plutôt que sur l'usage autorisé, car les deux divergent et le chiffre non autorisé est celui qui porte le risque auquel vous êtes déjà exposé.
+- Ordonnez la politique avant le déploiement là où le levier existe encore. Une fois l'usage répandu, la politique devient une négociation avec une pratique déjà stabilisée.
 
 ## Idées fausses courantes
 
@@ -67,15 +75,6 @@ La perspective de l'administrateur est liée à la [[educational-policy-ai|polit
 - **« Les chiffres d'adoption mesurent la maturité. »** L'usage déclaré et l'usage gouverné sont des quantités différentes, et les données probantes de cette page les séparent : les établissements déclarent une intention stratégique à environ la moitié de la population et une capacité de direction à moins d'un dixième. Une enquête montrant que le personnel utilise l'IA vous dit ce que des individus ont déjà fait sans autorisation, pas ce que l'établissement peut soutenir ou superviser.
 - **« L'approvisionnement est une étape administrative. »** Là où la capacité est achetée plutôt que construite, les termes du contrat décident de ce qui devient possible ensuite — propriété des données, accès à l'audit, et la possibilité même d'évaluer l'outil. Une décision de fournisseur traitée comme une tâche d'achat ferme des questions d'évaluation que l'établissement n'a pas encore posées.
 - **« La gouvernance peut suivre l'adoption. »** L'affirmation de séquençage est courante et non étayée ici : les données probantes documentent le schéma inverse, les structures de politique et de direction accusant un retard sur un usage déjà en cours. Une gouvernance conçue comme à bâtir après le déploiement est une gouvernance bâtie avec moins de levier.
-
-## Ce que cela signifie pour la pratique
-
-**Pour les administrateurs**
-
-- Budgétez le poste de direction, pas seulement le document de stratégie. Quand 49 % déclarent l'IA prioritaire et 7 % créent des postes de direction, la contrainte déterminante est l'allocation et non la conviction.
-- Demandez sur quoi un outil pourra être évalué avant de signer. Si le contrat ne permet pas l'accès aux résultats, aux données d'audit ou au détail d'usage, l'établissement a acheté une capacité qu'il ne peut pas évaluer.
-- Enquêtez sur l'usage réel plutôt que sur l'usage autorisé, car les deux divergent et le chiffre non autorisé est celui qui porte le risque auquel vous êtes déjà exposé.
-- Ordonnez la politique avant le déploiement là où le levier existe encore. Une fois l'usage répandu, la politique devient une négociation avec une pratique déjà stabilisée.
 
 ## Concepts liés
 

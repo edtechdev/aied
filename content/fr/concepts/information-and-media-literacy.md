@@ -10,9 +10,9 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-11T18:05:00-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-11T15:40:00-05:00"
+source_updated: "2026-11-12T21:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -77,8 +77,7 @@ Un article d'opinion du secteur des bibliothèques pousse la même idée plus lo
 
 Lues ensemble, les deux faces du bilan suggèrent une règle : l'IA peut porter la charge de *pratique* — les scénarios réalistes, le retour d'information immédiat, l'échelle — mais la charge de *jugement* reste à l'apprenant, et tout outil qui prétend la remplacer devrait être évalué comme un détecteur avec un taux d'erreur mesuré, et non adopté comme une clé de réponses.
 
-## Ce que cela signifie pour la pratique
-
+## Implications pour la pratique
 - **Enseignez une procédure, deux objets.** La routine vérifiable — remonter l'affirmation jusqu'à une source, remonter la source jusqu'à un auteur, demander ce que fait l'artefact — fonctionne pour une citation et pour une vidéo. Nommez quel objet le devoir évalue.
 - **Traitez la détection comme une preuve, pas un verdict.** La sortie d'un détecteur est une probabilité ; apprenez aux étudiants à corroborer par une seconde méthode et à dire ce qui changerait leur avis.
 - **Gardez la production dans le curriculum.** Faire des médias était la pédagogie qui rendait la critique concrète ; générer avec l'IA ne peut la soutenir que si les étudiants examinent les choix que l'outil a faits pour eux.
@@ -88,6 +87,13 @@ Lues ensemble, les deux faces du bilan suggèrent une règle : l'IA peut porter 
 ## Limites des preuves
 
 La plupart des études ici sont petites, [[self-report-measures|auto-déclarées]] ou les deux : 236 étudiants dans une enquête, 36 enfants dans une intervention, 412 bibliothécaires s'auto-évaluant. La visibilité bibliométrique n'est pas la pratique, et les auteurs scientométriques le disent explicitement. Aucune étude du corpus n'évalue un programme combiné de littératie informationnelle et médiatique, et les outils de détection et de vérification des faits que la littérature de pratique recommande sont largement non mesurés dans ces sources. L'affirmation selon laquelle la vérification alimentée par l'IA améliore les résultats doit être traitée comme une hypothèse de conception jusqu'à ce que quelqu'un la teste contre un groupe témoin.
+
+## Idées fausses courantes
+
+- **Un détecteur tranche la question.** Un détecteur renvoie une probabilité ; corroborez-la par une seconde méthode au lieu de la traiter comme une clé de correction.
+- **Les deux littératies sont une seule compétence sous deux noms.** Leurs objets diffèrent — la crédibilité de la source contre la paternité et l'intention — si bien qu'une grille unique n'évalue bien ni l'une ni l'autre.
+- **Repérer l'IA immunise contre elle.** Dans l'expérience de persuasion la plus solide du corpus, la détection était élevée et le déplacement vers la position de l'IA augmentait encore.
+- **La compétence des bibliothécaires se transfère à la littératie en IA.** Le déficit de personnel apparaît dans la conception des objectifs (M = 2.70) et l'évaluation des résultats (M = 2.62), non dans l'usage des outils.
 
 ## Concepts liés
 

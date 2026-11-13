@@ -1,7 +1,7 @@
 ---
 title: "Limites de la recherche en AIED"
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T10:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,7 @@ La page [[research-methods-aied|méthodes de recherche]] de la base de connaissa
 
 - **Les étiquettes générées par des modèles ne sont pas la vérité terrain.** Lorsque les étiquettes qui entraînent ou évaluent un système sont elles-mêmes produites par des modèles de langue, l'accord entre annotateurs ne peut établir la validité : [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] n'ont jamais validé leurs annotations d'assertions contre des étiquettes de référence humaines, et les 49 classifieurs à encodeur qu'ils publient héritent de cette provenance et peuvent ne pas être valides là où les applications diffèrent sur des dimensions significatives. Leur schéma a aussi nettement sous-performé par rapport au classifieur ajusté entraîné sur des données annotées par des experts (macro-F1 0,673 contre 0,76), ce qui laisse les corpus étiquetés par des experts dignes d'intérêt lorsqu'une grande confiance est requise.
 - **La base de preuves elle-même est inégalement répartie.** Une revue de cadrage de 407 études sur l'[[formative-assessment|évaluation formative]] soutenue par la technologie ne s'est appuyée que sur Web of Science et Scopus. Elle a aussi exclu 61 enregistrements sur des critères de langue, de sorte que le déséquilibre géographique que le domaine signale peut refléter en partie les revues indexées ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+- **Le dispositif à trois conditions manque.** Sur douze études d'IA générative examinées, aucune ne mesurait la performance assistée à la fois par un test sans IA immédiat et un test sans IA différé avec exclusion vérifiée, si bien que les gains assistés ne sont jamais reliés à la rétention ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
 
 
 ## Le problème de la vitesse : l'IA évolue plus vite que les résultats
@@ -120,6 +121,8 @@ Deux pratiques de communication précises gonflent ou déforment une synthèse, 
 **Le pourcentage vedette peut être un artefact des termes de recherche.** Dans une revue de cadrage de 195 études sur la formation des enseignants, la compétence numérique et le [[tpack|TPACK]] étaient des descripteurs de recherche explicites, alors que la conception pédagogique et l'évaluation n'avaient pas d'équivalent, si bien que les **46,5 % et 1,9 %** rapportés sont des taux que la requête elle-même a construits. Une affirmation de prévalence ne vaut que ce que vaut la recherche qui la sous-tend.
 
 **Et le taux de base est le chiffre que personne n'énonce.** Les limites méthodologiques sont ici mesurables plutôt qu'impressionnistes : dans une revue critique de 80 études en interaction humain-machine sur la pensée critique avec l'IA, **42 (52 %) ne comportaient aucun groupe témoin** et la plupart des autres reposaient sur des auto-déclarations. Quand plus de la moitié des résultats positifs d'un domaine viennent de dispositifs qui ne peuvent pas séparer l'effet de l'IA d'une activité ordinaire, le a priori approprié sur un résultat isolé est le scepticisme, non l'acceptation provisoire.
+
+Une conséquence pratique de ces limites est que plusieurs pratiques éducatives largement utilisées reposent sur des preuves qui ne peuvent pas les porter ; [[what-not-to-do-ai-education|ce que les éducateurs devraient éviter de faire avec l'IA]] rassemble ces pratiques par rôle et nomme la limite précise derrière chaque mise en garde.
 
 ## Idées fausses courantes
 

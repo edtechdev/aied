@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de la gestion et du management"
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-10T22:35:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ ai_assist:
 
 L'IA dans l'enseignement de la gestion est un volet [[discipline-specific-aied|disciplinaire]] croissant de l'[[ai-education|IA en éducation]]. Les écoles de commerce doivent préparer les étudiants à une future main-d'œuvre où l'IA générative est omniprésente, ce qui exige à la fois une littératie en IA et une application propre au domaine (finance, marketing, management, économie, entrepreneuriat). La recherche met en évidence une tension entre l'intégration de l'IA comme outil pédagogique et professionnel et la gestion de l'[[academic-integrity|intégrité académique]], de l'usage [[ethics|éthique]] et de la refonte de l'[[assessment|évaluation]].
 
-## AI in business education across the knowledge base's research
+## L'IA dans l'enseignement du management à travers la recherche de la base de connaissances
 
 - **Les cadres informés par les étudiants.** [[drummond-genai-business-schools-framework-2026|Drummond et Dale (2026)]] présentent un cadre conceptuel informé par les étudiants pour intégrer l'IA générative dans l'ensemble des programmes de gestion, fondé sur une étude de cas britannique portant sur 149 étudiants. Ceux-ci étaient fortement engagés, reconnaissaient le besoin de compétences en IA générative pour leur carrière, et souhaitaient utiliser l'IA sans commettre involontairement une faute académique.
 
@@ -49,6 +49,7 @@ L'IA dans l'enseignement de la gestion est un volet [[discipline-specific-aied|d
 - **L'alignement constructif.** [[zhou-constructive-alignment-genai-business-2026|Zhou et al. (2026)]] ont analysé 17 cas d'adoption de l'IA générative dans une école de commerce britannique, constatant que l'équilibre entre bénéfices pédagogiques et risques était façonné par le **degré d'intégration au programme** — l'intégration constructive produisait de meilleurs résultats.
 - **Les éclairages des étudiants sur les programmes.** [[rook-plumb-genai-curricula-student-insights-2026|Rook et Plumb (2026)]] se sont appuyés sur 166 étudiants de premier cycle en gestion dans une unité de synthèse, constatant un fort soutien à l'intégration de l'IA générative dans les programmes, avec trois domaines prioritaires : comprendre et optimiser les fonctionnalités de l'IA générative, explorer les applications dans divers contextes, et appréhender les dimensions éthiques et juridiques.
 - **De la mémorisation au jugement dans l'ambiguïté.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai et Zhang (2026)]] proposent trois mécanismes d'IA générative pour les cours de management — décomposer les théories classiques en hypothèses et conditions aux limites confrontées à de véritables documents réglementaires, suivre les cas émergents entre deux éditions de manuel, et une simulation dont le rôle d'IA génère des événements perturbateurs et des conséquences en cascade.
+- **La sagesse pratique comme visée organisatrice.** [[heron-meekins-phronesis-hermeneutic-business-ai-2026|Heron et Meekins (2026)]] soutiennent que l'IA intensifie l'habitude de l'enseignement du management de traiter la production d'information comme une preuve de compréhension, et proposent REVEAL — recherche, examen, point de vue, engagement, alignement, apprentissage — comme heuristique herméneutique qui maintient le jugement et la responsabilité chez l'apprenant tout en traitant l'IA comme un interlocuteur provisoire.
 - **L'adoption organisationnelle.** [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi (2026)]] a examiné les facteurs organisationnels et technologiques de l'adoption de l'IA dans l'[[higher-ed|enseignement supérieur]] (au moyen des cadres TOE et Diffusion of Innovations, n=300 membres du personnel), ce qui éclaire la manière dont les écoles de commerce et leurs établissements adoptent l'aide à la décision fondée sur l'IA et les plateformes d'apprentissage intelligentes.
 - **Les agents conversationnels dans les jeux de [[simulation|simulation]] commerciale.** [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger et Liening (2026)]] développent et évaluent un [[conversational-ai|agent conversationnel]] enrichi par l'IA (Lara) pour un soutien pédagogique adaptatif dans les jeux de simulation commerciale utilisés pour l'apprentissage entrepreneurial expérientiel. Ancré dans une posture d'[[equity-in-ai-education|équité]] par la conception et de [[universal-design-for-learning|conception universelle de l'apprentissage]], le cadre CAIS-GBL vise l'[[student-engagement|engagement]] cognitif, [[motivation|motivationnel]], [[affective-computing|affectif]] et [[sociocultural-learning|socioculturel]], les évaluations menées auprès d'étudiants enseignants et de participants aux jeux de simulation commerciale montrant des perceptions positives de la présence cognitive/[[community-of-inquiry|sociale]] et du soutien à l'[[self-regulated-learning|apprentissage autorégulé]] — un modèle pour passer à l'échelle une rétroaction [[formative-assessment|formatif]] dans l'enseignement commercial [[game-based-learning|fondé sur la simulation]].
 - **L'IA générative agentique pour les tâches appliquées complexes.** [[ilieva-agentic-genai-higher-education-2026|Ilieva et al. (2026)]] développent le cadre AGAI-HE autour d'un cours de **commerce électronique**, où la tâche d'apprentissage exige de comparer des modèles d'affaires, de peser des contraintes de marché et opérationnelles, et de défendre des recommandations stratégiques — un travail appliqué en plusieurs étapes que les chatbots d'interrogation-réponse soutiennent mal. Leur étude de perception menée auprès de 130 étudiants a constaté que tant le chatbot que le soutien agentique étaient notés au-dessus de l'[[online-teaching-and-learning|apprentissage en ligne]] traditionnel pour l'amélioration de l'apprentissage, la personnalisation, le soutien à la décision et l'organisation du travail, sans différence significative entre agent et chatbot, l'approbation la plus forte allant à la combinaison des trois modes. Pour les programmes de gestion, la lecture est que l'adoption est une question de [[curriculum-design|conception pédagogique]] portant sur la manière dont le soutien de l'IA est séquencé et encadré, et non une simple mise à niveau d'outillage ([[agentic-ai]]).
@@ -58,17 +59,17 @@ L'IA dans l'enseignement de la gestion est un volet [[discipline-specific-aied|d
 - **Une alternative en enseignement de la gestion note le processus, pas le sujet.** Dans un apprentissage de première année du diplôme de Business Analyst, la notation exigeait une itération documentée et une [[collaborative-learning|collaboration]] entre pairs, et les étudiants qui recouraient à l'IA générative contestaient ses contre-arguments plutôt que de les reprendre tels quels ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 - **Enseigner l'IA comme élément de conception de processus à part entière.** [[ai-decision-checkpoints-bpm-education-2026|Jalali (2026)]] place un point de contrôle des décisions d'IA à chaque phase du cycle de vie de la gestion des processus d'affaires, dans six modules d'un cours de 152 étudiants, si bien que les étudiants construisent un agent fonctionnel de prise en charge par LLM puis découvrent, à un point de contrôle, que le véritable goulot d'étranglement est une file d'attente à deux personnes pour les enquêtes anti-fraude.
 
-## Economics and management education
+## Enseignement de l'économie et du management
 
 L'IA dans l'enseignement de la gestion couvre l'**économie** et le **management** comme disciplines centrales. La couverture de la base de connaissances se concentre sur les dimensions pédagogiques et curriculaires (comment l'IA est enseignée et utilisée dans les programmes de gestion) et sur la dimension de préparation professionnelle (préparer les étudiants à des lieux de travail intégrant l'IA). Les thèmes clés incluent la [[ai-literacy|littératie en IA]], l'application de l'[[generative-ai|IA générative]] aux diverses fonctions de l'entreprise, les considérations [[ethics|éthiques]] et d'[[academic-integrity|intégrité]], et la refonte du [[curriculum-design|programme]] et de l'[[assessment|évaluation]] pour refléter la pratique professionnelle intégrant l'IA.
 
-## Why AI in business education matters
+## Pourquoi l'IA dans l'enseignement du management compte
 
 La gestion est l'un des domaines où l'adoption de l'IA générative est la plus rapide ; les écoles de commerce subissent donc une pression aiguë pour préparer les étudiants à un monde du travail intégrant l'IA. La recherche souligne qu'une intégration efficace est **pilotée par le programme et informée par les étudiants** — il ne s'agit pas seulement d'ajouter des outils d'IA mais de redessiner les programmes pour que la littératie en IA générative, le jugement éthique et l'application authentique soient tissés dans les structures de diplôme. Cela rattache l'enseignement de la gestion aux thèmes plus larges de la base de connaissances que sont la [[ai-literacy|littératie en IA]], la préparation des [[teacher-role|enseignants]], la refonte de l'[[assessment|évaluation]] et la réforme des [[curriculum-design|programmes]] à l'ère de l'IA.
 
 Les études de cas et les simulations sont les formats d'enseignement les plus proches de cette littérature, mais les données probantes sur le management n'isolent aucune intervention fondée sur les cas ; voir [[case-based-learning]] pour la pédagogie et ses limites.
 
-## Implications for business instructors
+## Implications pour les enseignants de management
 
 - **Intégrer l'IA de façon pilotée par le programme et informée par les étudiants.** Les [[drummond-genai-business-schools-framework-2026|cadres informés par les étudiants]] et les [[rook-plumb-genai-curricula-student-insights-2026|éclairages des étudiants]] montrent que les étudiants veulent des compétences en IA générative pour leur carrière et utiliser l'IA sans faute involontaire — concevez des programmes qui tissent la littératie en IA, le jugement éthique et l'application authentique dans les structures de diplôme.
 - **Aligner le programme de façon constructive.** La [[zhou-constructive-alignment-genai-business-2026|recherche sur l'alignement constructif]] constate que le degré d'intégration au programme détermine si les bénéfices ou les risques de l'IA générative dominent — intégrez, et n'ajoutez pas.
@@ -101,6 +102,7 @@ Les études de cas et les simulations sont les formats d'enseignement les plus p
 
 ## Articles liés
 
+- [[heron-meekins-phronesis-hermeneutic-business-ai-2026]] — REVEAL : une heuristique herméneutique pour la sagesse pratique dans l'enseignement du management (Heron & Meekins 2026)
 - [[ai-decision-checkpoints-bpm-education-2026]] — Points de contrôle des décisions d'IA pour la gestion des processus d'affaires augmentée par l'IA : cadre et mise en œuvre pédagogique
 
 - [[csaszar-ai-management-education-2026]] — Les effets de l'IA sur l'enseignement du management : une analyse stratégique fondée sur la valeur (Csaszar et al. 2026)

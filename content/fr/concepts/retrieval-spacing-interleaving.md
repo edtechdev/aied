@@ -1,7 +1,7 @@
 ---
 title: "Récupération, espacement et entrelacement"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-11-05T19:20:00-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-12T21:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -96,6 +96,8 @@ L'inclusion de l'entrelacement ici repose donc sur la même famille théorique q
 - **L'entrelacement n'a essentiellement aucune preuve directe ici.** Comme énoncé ci-dessus, le corpus ne contient aucune comparaison bloqué contre entrelacé, seulement une simulation dans laquelle l'Entrelacement est une stratégie sélectionnable parmi plusieurs.
 - **Populations de sujets et contenus.** La base de preuves se concentre sur l'[[higher-ed|enseignement supérieur]], sur les matériaux STEM et statistiques, et sur des distinctions fait-compétence issues de contenus de géométrie et de régression multiple ; la généralisation aux contextes du [[k-12|primaire et du secondaire]], aux [[humanities-education|humanités]] et à l'écriture, et aux classes non occidentales n'est pas établie par ces études.
 
+[[pan-chatgpt-prequestions-memory-comprehension-2026|Pan, Schweppe, Teo, Indrajaya et Wenzel (2026)]] placent l'IA générative en amont de l'effet de test : deux préquestions générées par ChatGPT auxquelles il faut répondre avant de lire un texte de 675 mots. Sur quatre expériences réunissant 90, 128, 153 et 157 adultes, le préquestionnement battait la lecture seule (d = 1.12 sur les questions travaillées, d = 0.78 sur celles qui ne l'étaient pas) et égalait les questions produites par des humains. Les apprenants répondaient presque jamais correctement — une exactitude de 0.056 dans l'expérience 1 — et apprenaient néanmoins davantage, ce qui est la signature de l'effet de prétest. Le transfert décroissait avec la distance : les questions testées battaient les questions non testées de même source (d = 0.46), elles-mêmes supérieures aux questions non testées de source différente (d = 0.32). La génération de questions est devenue bon marché ; la récupération restait obligatoire.
+
 ## Idées fausses courantes
 
 **« Un meilleur questionnement par l'IA produit une meilleure rétention. »** Il produit un meilleur travail. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] a constaté qu'un questionnement plus profond du LLM améliorait la qualité de la tâche notée indépendamment (**β = 6.27, p = .006**) tout en ayant une **association nulle avec le rappel au post-test immédiat (β = −0.014, p = .728)**, les gains de rappel étant portés par les connaissances de départ. La qualité de l'artefact et la durabilité du souvenir sont deux résultats différents, et un meilleur dialogue déplace le premier sans déplacer le second.
@@ -137,3 +139,4 @@ L'inclusion de l'entrelacement ici repose donc sur la même famille théorique q
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — La pratique de récupération dans la couche Outils d'un cadre d'apprentissage à apprendre
 - [[agentic-ai-pedagogical-best-practice-2026]] — Les agents de pré-récupération contournent la pratique de récupération ; le plaidoyer pour une friction intentionnelle
 - [[ai-tutor-modality-randomized-field-experiment-2026]] — Quand les tuteurs d'IA parlent : données issues d'une expérience de terrain randomisée
+- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — Des préquestions générées par ChatGPT améliorent la mémoire et la compréhension de texte

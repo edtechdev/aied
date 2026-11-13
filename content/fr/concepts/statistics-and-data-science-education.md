@@ -8,9 +8,9 @@ assessment: [assessment-validity]
 discipline: [statistics and data science education]
 confidence: medium
 created: "2026-10-27T03:54:43-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 translation_of: concepts/statistics-and-data-science-education
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-12T10:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,8 @@ Un second rameau demande ce qu'il advient des données elles-mêmes. La généra
 Les résultats positifs les plus clairs concernent des outils conçus pour un cours précis et un langage précis. Un tuteur [[intelligent-tutoring|IA]] conçu sur mesure autour d'une API hébergée, avec une invite système le portant à guider plutôt qu'à répondre, a été déployé dans un cours de programmation R d'un semestre destiné à des étudiants de premier cycle en psychologie : 76% à 84% des étudiants l'ont utilisé lors des semaines comptant pour l'examen. Ils ont [[self-report-measures|auto-déclaré]] consacrer 53% de leur temps d'outils d'étude avec lui, contre 8% pour des outils d'[[generative-ai|IA générative]] non éprouvés, l'usage est tombé à 50% à 58% une fois que le contenu hebdomadaire a cessé de compter pour l'examen, et est remonté à 64% la semaine précédant l'[[oral-assessment|examen oral]]. Une adoption qui suit d'aussi près le calendrier d'évaluation rappelle que l'appropriation d'un outil est un phénomène de comportement d'étude, pas seulement un signal de qualité.
 
 La qualité de l'étayage compte indépendamment de l'accès. Une comparaison expérimentale entre un accès guidé et un accès non restreint au [[llm]] a constaté qu'un entraînement explicite à un étayage centré sur le raisonnement — indices par étapes, vérification — produisait une meilleure performance autonome et un meilleur calibrage de l'[[self-assessment]] qu'une confiance non critique, ce qui situe le travail éducatif dans l'interaction structurée plutôt que dans le modèle. Le rameau sur l'accessibilité opère un déplacement analogue pour l'artefact : une chaîne de traitement JavaScript d'environ 1,500 lignes dérive les paramètres de conception tactile des dimensions de la plaque, propose cinq constructeurs de graphiques modulaires, et produit des fichiers STL prêts à imprimer en moins de 250 millisecondes avec un étiquetage [[assistive-technology|Braille]] et anglais en une seule passe. Facultativement, il utilise un modèle [[multimodal|multimodal]] pour extraire les spécifications d'un graphique à partir d'une image téléversée, avec une relecture obligatoire de l'[[teacher-role|enseignant]] avant impression. La génération est appariée à un contrôle humain dans les deux conceptions.
+
+- **Une rétroaction par IA en quatre phases a déplacé la pensée critique.** Dans un cours d'analyse de premier cycle, un cycle structuré d'élicitation, d'enquête, de recadrage et de consolidation a produit un avantage ajusté de 5.64 points sur les commentaires de l'enseignant, la déduction formelle restant inchangée ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al. (2026)]]).
 
 ## Ce que les preuves n'établissent pas encore
 

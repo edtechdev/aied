@@ -1,7 +1,7 @@
 ---
 title: "Biais d'automatisation"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -70,6 +70,8 @@ L'énoncé le plus clair du mécanisme se trouve dans les travaux destinés aux 
 
 L'écart le plus net se situe au point du jugement. [[human-in-the-loop-ai-scoring-national-assessment-2026|L'étude de notation d'évaluation nationale (2026)]] fait relire des notes machine par des évaluateurs, et ses auteurs nomment directement le mécanisme non testé : on ne mesure pas si les évaluateurs à qui l'on montre des notes d'IA avant qu'ils jugent sont ancrés par elles ou s'en remettent à elles, et ils proposent comme étape suivante des expériences comparant des évaluateurs en aveugle et non en aveugle. L'affirmation d'intervention humaine dans cette conception est donc une hypothèse, non un résultat — et c'est la bonne version de la conception.
 
+Une expérience de supervision de sûreté fournit désormais la mesure dans un contexte voisin. Sur 416 évaluateurs et 3,957 éléments, présenter des candidats du modèle avant la réponse humaine a fait chuter l'exactitude des évaluateurs sur les éléments que le modèle avait faux, de 36.7% à 20.6%, tandis que l'exactitude augmentait de 7.3 points sur les éléments que le modèle avait justes ([[shi-human-ai-complementarity-safety-2026|Shi et coll., 2026]]). Les évaluateurs devenaient globalement plus exacts et moins capables de repérer les erreurs qu'ils étaient là pour repérer : c'est le biais à l'œuvre comme les auteurs de l'évaluation nationale le soupçonnaient — la réponse de la machine fixe le cadre, et l'humain s'y ajuste.
+
 ### Les tableaux de bord analytiques et l'affirmation d'intervention humaine
 
 [[in-the-loop-educational-ai-learning-sciences-2026|La revue des sciences de l'apprentissage sur l'IA éducative dans la boucle (2026)]] donne au schéma sa forme générale : les tableaux de bord infèrent la participation à partir des clics, la [[writing-education|rétroaction automatisée en écriture]] privilégie les traits de surface sur l'argumentation, et les feux tricolores d'alerte précoce préinterprètent les trajectoires. Le biais d'automatisation aggrave chacun d'eux, et la revue traite la [[trust|confiance]] comme un résultat sociotechnique façonné par la transparence, la compétence perçue et un droit réel de passer outre, plutôt que comme une attitude stable.
@@ -136,6 +138,7 @@ Une part importante du corpus inscrit le biais d'automatisation dans un modèle 
 
 ## Articles liés
 
+- [[shi-human-ai-complementarity-safety-2026]] — 416 évaluateurs, 3 957 éléments : une assistance qui présente d'abord les candidats du modèle a réduit le repérage des erreurs sur les éléments faux, de 36.7% à 20.6% (Shi et coll., 2026)
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — des enseignants avertis de ne pas s'en remettre à des recommandations construites sur des données minces
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — nomme l'ancrage des évaluateurs par les notes d'IA comme risque non testé et propose la mise en aveugle
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — tableaux de bord, rétroaction sur les traits de surface et feux tricolores comme schéma général

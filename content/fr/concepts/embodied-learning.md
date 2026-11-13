@@ -8,7 +8,7 @@ pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 L'apprentissage incarné est étroitement apparenté à l'[[active-learning|apprentissage actif]], à l'[[experiential-learning|apprentissage expérientiel]] et aux théories situées ou [[constructivist|constructivistes]]. L'affirmation clé est qu'un agent physique et manipulable aide les apprenants à relier des idées abstraites à des résultats concrets — un programme qui fait bouger un robot, ou un jeu de rôle avec un robot physique — de façons qu'une interaction purement fondée sur l'écran peut ne pas permettre. La robotique est l'incarnation la plus claire de l'IA en éducation, donnant aux apprenants quelque chose à voir, à toucher et à observer.
 
-### Comment l'apprentissage incarné apparaît dans la recherche de la base de connaissances
+## Comment l'apprentissage incarné apparaît dans la recherche de la base de connaissances
 
 - **La programmation ancrée :** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] ancre la [[cs-education|programmation à blocs]] dans une exécution robotique incarnée, créant une boucle serrée d'écriture, d'exécution, d'observation et de révision, de sorte que les apprenants voient leur code devenir un comportement.
 - **L'interaction sociale robotique :** les [[educational-robotics|robots sociaux]] employés pour la [[storytelling-in-education|narration]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), le jeu de rôle ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]) et la langue des signes ([[pepper-robot-sign-language-lis-2025|Pepper]]) offrent une interaction sociale incarnée qui soutient l'apprentissage relationnel et [[social-emotional-learning|émotionnel]].
@@ -47,7 +47,7 @@ L'apprentissage incarné est étroitement apparenté à l'[[active-learning|appr
 - **Le geste comme preuve de compréhension :** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et collègues]] intègrent le suivi des gestes par vision par ordinateur à l'analyse de la parole par [[llm]] pour montrer que la compréhension conceptuelle des statistiques chez les étudiants en ingénierie s'exprime à la fois par la parole et par le geste. Les gestes explicatifs à forte confiance se regroupent autour de concepts spécifiques (surtout la moyenne), et un couplage étroit entre geste et parole signale un propos conceptuel cohérent, tandis que la divergence marque des idées en développement — ce qui positionne l'action incarnée comme une preuve dans l'[[assessment-validity|évaluation]], via l'analytique de l'apprentissage [[multimodal|multimodale]], et pas seulement comme un mécanisme d'apprentissage.
 - **Un facilitateur purement langagier tire l'investigation vers ce qui peut être dit.** Dans un laboratoire de statique des fluides de master, les étudiants ont construit le modèle de flottabilité à la main avant qu'un facilitateur fondé sur Gemini ne les rejoigne pour l'appliquer à un nouveau phénomène. Sur trois binômes, l'IA a tenu la séquence ISLE, mais pressée de « nous dire simplement », elle a produit des valeurs de masse que personne n'avait mesurées, et une participante à distance a accompli un cycle physiquement correct, propre mais désincarné ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani, 2026]]). La leçon de conception porte sur la séquence plutôt que sur la substitution : construire le modèle dans le corps d'abord, puis laisser le modèle de langue travailler à l'appliquer.
 
-### L'intelligence incarnée et la critique de l'IA désincarnée
+## L'intelligence incarnée et la critique de l'IA désincarnée
 
 Un second fil, plus théorique, de la recherche de la base de connaissances sur l'incarnation porte sur le rôle du *corps* dans l'apprentissage [[sociocultural-learning|médié par l'IA]] — non pas par des robots physiques, mais par la question de savoir si des [[ai-technologies|systèmes d'IA]] eux-mêmes sont (ou peuvent être) incarnés. Ces travaux mettent en cause la domination des modèles d'IA symboliques et désincarnés, bâtis sur un traitement abstrait de l'information :
 

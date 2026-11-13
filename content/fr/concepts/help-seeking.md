@@ -1,7 +1,7 @@
 ---
 title: "Recherche d'aide"
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T23:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-10T18:55:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -105,6 +105,8 @@ Les étudiants du monde réel **contournent fréquemment le [[scaffolding|étaya
 ## Recherche d'aide et apprentissage autorégulé
 
 La recherche d'aide fait partie intégrante de l'[[self-regulated-learning|apprentissage autorégulé]] : une recherche d'aide productive requiert que les apprenants surveillent leur compréhension, jugent quand une aide est nécessaire, et sélectionnent les sources appropriées. Dans les contextes d'IA générative, cela devient encore plus exigeant, puisque les étudiants doivent aussi exercer leur [[agency|autonomie]] sur l'IA et maintenir une vigilance épistémique plutôt que de s'en remettre à elle. La recherche de cette base de connaissances soutient le besoin de [[scaffolding|supports]] qui favorisent un usage de l'IA plus [[agentic-ai|agentique]] et épistémiquement proactif, et souligne le risque de [[cognitive-offloading|dépendance excessive]] et de [[cognitive-offloading|délestage cognitif]] lorsque la recherche d'aide se dégrade en recherche inconditionnelle de réponses.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+
+Les données à l'échelle de la population compliquent le récit de la substitution : parmi 12,191 étudiants PISA 2025 de quatre régions chinoises, un usage plus fréquent de GenAI pour les travaux scolaires allait de pair avec une recherche d'aide académique plus importante (β = 0.169), et non moindre ([[wu-genai-scientific-literacy-china-2026|Wu et al. (2026)]]).
 
 ### La recherche d'aide médiée par les grands modèles de langue comme processus en quatre étapes
 
