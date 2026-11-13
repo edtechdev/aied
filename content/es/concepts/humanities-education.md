@@ -1,14 +1,14 @@
 ---
 title: Educación en humanidades y ciencias sociales
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T18:45:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-13T16:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,7 @@ La educación cívica y política es un área temática hermana de estas discipl
 - **Transformación digital [[governance|institucional]].** Qin (2026) documenta cómo la Universidad de Lingnan se reposicionó como «institución de artes liberales orientada a la investigación en la era digital», al exigir alfabetización en IA generativa a todo el estudiantado de grado (incluido un curso obligatorio de primer año del tronco común sobre IA generativa que abarca espacios latentes, GAN, modelos de difusión, [[prompt-engineering|prompts]], [[llm-training-and-fine-tuning|ajuste fino]], sesgo y desinformación). El artículo de posición sostiene que el giro de la IA hacia la educación es una *transformación intelectual* y no una mejora tecnocéntrica, y sitúa la [[ai-literacy|fluidez digital]] como competencia central de las artes liberales, mientras que un modelo [[human-in-the-loop-ai|con intervención humana]] pone en primer plano el razonamiento [[ethics|ético]], el juicio crítico y la responsabilidad social: un plano concreto para que la [[higher-ed|educación superior]] equilibre la innovación con la [[generative-ai|IA generativa]] y los fundamentos humanísticos.
 
 - **La exposición evaluativa del sector ya está medida, y está concentrada más que difusa.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] auditó 15.587 registros de unidades de Artes y Humanidades en las universidades del Group of Eight de Australia y encontró que el 58,6% de los ítems de evaluación de 2026 tenían una alta exposición a la [[generative-ai|IA generativa]], y que los ensayos para llevar a casa y los informes de investigación representaban el 71,4% de esa exposición una vez ponderada por las notas.
+- [[corbin-essay-time-genai-2026|Corbin et al. (2026)]] replantean esa exposición: el ensayo evaluado ya se había estrechado hasta convertirse en un informe de tesis y evidencia, así que lo que la IA generativa simula es un género de informe, no el pensamiento ensayístico.
 
 ### Por qué importa
 

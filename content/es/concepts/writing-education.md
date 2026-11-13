@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Escritura
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T18:45:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-11-13T13:05:00-05:00"
+source_updated: "2026-11-13T16:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -86,6 +86,7 @@ La concordancia es una propiedad de los textos, no de quien califica: [[automate
 - **La política diverge en cinco sitios.** Al entrevistar a 20 estudiantes de grado, Kim y sus colegas localizan cinco sitios distintos de política sobre IA —la intención del profesorado, la política formal, la interpretación del estudiantado, la autopolítica y la práctica— y catalogan 23 racionalizaciones, en su mayoría ad hoc y a posteriori, que explican por qué las reglas de un sitio rara vez moldean la conducta en otro ([[student-rationalization-ai-writing|Kim et al. (2026)]]).
 - **La calificación es donde la orientación se agota.** En entrevistas con 24 profesores universitarios de escritura de China continental, Hong Kong, Macao y Singapur, seis declararon que no había ninguna norma institucional sobre si pueden calificar el trabajo del estudiantado con IA, y la consecuencia fue tener colegas que se niegan por principio junto a colegas que ya lo hacen ([[wu-lam-genai-writing-assessment-professors-2026|Wu y Lam (2026)]]).
 - **El cumplimiento puede enmascarar la ausencia de indagación (borrado académico).** A partir de 49 relatos de educadores, [[academic-erasure-complexity-ai-writing-2026|Nwagboso y Atuba (2026)]] nombran el *borrado académico* —una fluidez que satisface todos los criterios superficiales mientras elude el trabajo epistémico de la argumentación— y rastrean su causa hasta la cultura de la evaluación, donde las rúbricas que premian el pulido hacen del uso de la IA la respuesta racional y no una falta de conducta.
+- [[corbin-essay-time-genai-2026|Corbin et al. (2026)]] rastrean ese factor más atrás: el ensayo evaluado ya se había convertido en un informe de investigación —tesis, evidencia, conclusión reformulada—, abandonando el intento ensayístico cuyo valor residía en el pensamiento que la escritura producía.
 - **La mayor prueba aleatorizada de apoyo estructurado de ChatGPT a la escritura está en inglés como lengua extranjera.** [[wardat-chatgpt-efl-writing-rct-2026|Wardat y Akour (2026)]] aleatorizaron a 300 estudiantes de grado jordanos de cuatro universidades y midieron una ventaja ajustada de 9,964 puntos sobre la enseñanza convencional (η² parcial = 0,545), sin prueba posterior diferida.
 
 ### La escritura como pensamiento

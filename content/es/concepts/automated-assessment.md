@@ -1,7 +1,7 @@
 ---
 title: Evaluación automatizada
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-13T18:45:00-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -25,13 +25,15 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: concepts/automated-assessment
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-13T16:20:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
 > **La evaluación automatizada** — el uso de la IA para evaluar el trabajo del estudiantado, desde los [[formative-assessment|cuestionarios formativos]] hasta los exámenes de alto impacto. La evaluación automatizada abarca múltiples modalidades —opción múltiple, respuesta corta, ensayo, código y evaluación basada en el desempeño— y va de la calificación automatizada directa a sistemas conscientes de la confianza que informan de una incertidumbre calibrada junto a sus puntuaciones.
+
+La automatización convierte la calificación en rutina y la enmarca como carga administrativa y no como juicio pedagógico; una mayor consistencia es una mejor medición del mismo constructo, no un desafío a él ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 ## Preguntas para reflexionar
 

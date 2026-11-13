@@ -1,7 +1,7 @@
 ---
 title: Evaluación sumativa
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-13T18:45:00-05:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-13T16:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ La investigación documenta cómo la IA generativa ha remodelado de raíz el pan
 ## Formatos sumativos resistentes a la IA
 
 Un tema clave de la investigación es que **el formato sumativo determina la resistencia a la IA**: cuanto más exige una tarea un desempeño en vivo, presencial e indagado individualmente, más difícil le resulta al estudiantado sustituir con IA su propio aprendizaje.
+
+Los formatos resistentes a la IA defienden la nota en lugar de repensarla: los exámenes y orales supervisados estabilizan los valores y las prácticas existentes, así que la reforma se detiene en el expediente académico y no en lo que representa una nota ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 - **[[oral-assessment|Exámenes y evaluaciones orales]].** [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]] sostiene que el examen oral es un formato sumativo de baja tecnología e intrínsecamente resistente a la IA: su diálogo interactivo en tiempo real evalúa la comprensión, el [[critical-thinking|pensamiento crítico]] y el razonamiento en lugar de la memorización, impide que el estudiantado use la IA para generar y memorizar respuestas, y refleja la práctica profesional. Las [[socratic-tests-conversational-assessment|pruebas socráticas]] y las [[code-review-genai-cs1|entrevistas de revisión de código]] amplían esto a una evaluación sumativa dinámica, conversacional y basada en entrevistas.
 - **Medidas con libros cerrados, supervisadas y sin asistencia.** La [[generative-ai-reduced-study-time-math|evidencia]] y los [[stromberg-generative-ai-learning-penalty-secondary-2026|datos de campo a gran escala]] muestran que los exámenes supervisados y con libros cerrados —y no los deberes inflados o el trabajo para hacer en casa— son la señal fiable del aprendizaje real cuando el estudiantado usa IA. Los marcos de [[responsible-assessment-ai-era-stanford-2026|evaluación responsable]] integran estas medidas sin asistencia en un rediseño guiado por la validez. Cuando los exámenes siguen siendo en línea, la [[remote-proctoring|supervisión remota]] asume ese papel, y las dos revisiones sobre supervisión automatizada encuentran preocupaciones de privacidad y [[bias-mitigation|equidad]] junto a mejoras en la detección ([[automated-online-exam-proctoring-decade-review-2026]], [[academic-dishonesty-automated-proctoring-ai-2026]]).

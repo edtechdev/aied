@@ -1,14 +1,14 @@
 ---
 title: Filosofía de la IA en la educación
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T18:45:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-13T16:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,7 @@ Esta es una página de concepto sobre los fundamentos filosóficos y teóricos d
 - **Agencia, autoría y significado.** Cuando la IA media la interpretación y la construcción de significado, la filosofía pregunta cómo se reconfiguran la autoría, la [[agency|agencia]] epistémica y la autonomía interpretativa.([[voicu-ai-interpretive-cognition-ssh-2026]])
 - **La ontología de los objetos científicos generados por IA.** En [[chemistry-education|química]], los compuestos predichos por IA y las curvas de valoración ocupan un «espacio ontológico liminal» —ni del todo hipotéticos ni del todo reales hasta que se demuestran empíricamente—, lo que desplaza la disciplina del realismo hacia una visión constructivista en la que la realidad es una colaboración entre humanos y máquinas ([[philosophy-experimentation-ai-chemistry-2026|Reyes y Regala (2026)]]).
 - **La pasividad cognitiva como daño epistémico.** Bai y Costa (2026) se apoyan en la concepción de Arendt del pensamiento como actividad interior e intransferible para sostener que la IAG que aporta el trabajo no se limita a descargar el pensamiento, sino que lo clausura, situando el riesgo en las estructuras institucionales con el campo y el habitus de Bourdieu ([[genai-chinese-higher-education-integrity-2026|Bai y Costa (2026)]]).
+- Junto a esa explicación, [[corbin-essay-time-genai-2026|Corbin et al. (2026)]] reconstruyen el ensayo como una forma de pensar: el intento de Montaigne, los fragmentos de Adorno, el pensamiento meditativo de Heidegger; su valor reside en el pensamiento que la escritura produce, no en el producto que rinde.
 - **Valores, justicia y el propósito de la educación.** El análisis filosófico examina si una educación impulsada por IA sirve al florecimiento humano y a la justicia educativa, o si instrumentaliza el aprendizaje al servicio de la productividad.([[avraamidou-ai-colonization-science-education]]) Esto conecta con la [[critical-pedagogy|pedagogía crítica]] y la [[ethics|ética]].
 - **Lo «centrado en lo humano» como discurso antropocéntrico y no como ética neutra.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang y Jin (2026)]] leen documentos de la UNESCO, la OCDE y la Declaración de Montreal para sostener que la IAED centrada en lo humano hereda las exclusiones del humanismo de la Ilustración, que el transhumanismo las conserva y que la etiqueta puede legitimar infraestructura comercial.
 - **Fundamentación epistemológica de cómo las personas se relacionan con la IA.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] deriva siete paradigmas de relación humano–IA generativa a partir de las cinco dimensiones de las creencias epistemológicas personales de Schommer (fuente, certeza, organización, control y velocidad del conocimiento) y sostiene que se enactúan más que se poseen, por lo que cambiar cómo se relaciona el estudiantado con la IA exige cambiar el entorno sociotécnico, no sus creencias.

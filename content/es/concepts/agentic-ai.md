@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, learnharness, primer]
 title: IA agéntica
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-11-13T18:20:00-05:00"
+updated: "2026-11-13T18:45:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-13T16:50:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

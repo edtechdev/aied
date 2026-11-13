@@ -1,7 +1,7 @@
 ---
 title: Identidad de quien aprende
 created: "2026-09-28T19:13:48-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-13T18:45:00-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-11-13T12:55:00-05:00"
+source_updated: "2026-11-13T16:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,8 @@ ai_assist:
 ## Introducción
 
 La identidad de quien aprende tiene que ver con quién entiende una persona que es, y en quién se está convirtiendo, dentro de un dominio: un constructo motivacional y de desarrollo distinto de las creencias sobre la propia capacidad, como la [[self-efficacy|autoeficacia]], que responden a la pregunta más estrecha *¿puedo hacer esto?* La identidad se forma mediante la participación, el reconocimiento y la autoría: verse reflejado en un campo y que esa visión de uno mismo sea validada por los demás. La IA transforma las tres condiciones, porque cambia quién hace el trabajo, qué cuenta como contribución propia y si se reconoce a quien aprende como autor de su propio aprendizaje ([[agency|agencia]], [[metacognition|metacognición]]).
+
+Las calificaciones son una relación además de un símbolo: el estudiantado llega a verse a sí mismo a través de ellas, así que una reforma que deje intacto el expediente académico deja intacta también esa relación ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 ## Por qué la identidad importa para la IA en la educación
 

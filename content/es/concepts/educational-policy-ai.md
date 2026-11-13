@@ -1,7 +1,7 @@
 ---
 title: Política educativa sobre IA
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-13T18:45:00-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-11-13T13:05:00-05:00"
+source_updated: "2026-11-13T16:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -98,6 +98,8 @@ El lado del estudiantado en la regulación por tareas está igualmente moldeado 
 ### Política de evaluación: fronteras, supervisión y superficies de ataque
 
 **La brecha entre frontera y evidencia en la política de evaluación.** Una auditoría de 30 universidades sobre orientaciones públicas de evaluación con [[generative-ai|IA generativa]] ([[credential-cognitive-stewardship-ai-assessment|Yao 2026]]) encuentra que las políticas institucionales son mejores *clasificando* el uso de IA que explicando qué evidencia de aprendizaje sigue siendo válida en cada clase: la puntuación media de la frontera de delegación (2,47/4) superó la puntuación media del estándar de evidencia (1,89/4), las salvaguardas eran escasas (2,75 de 8) y la orientación era más clara para la sustitución del producto final. El marco de la *custodia cognitiva* (cognitive stewardship) sostiene que las políticas deben hacer visible la lógica de certificación —qué pueden delegar quienes aprenden, qué deben demostrar aún y cómo protegen las instituciones una evidencia justa— en lugar de limitarse a vigilar el uso de IA.
+
+En 36 universidades australianas, 11 finlandesas y 8 de Hong Kong, las orientaciones sobre evaluación con IA generativa eran casi universales, mientras que las políticas de calificación guardaban silencio sobre cómo se representa el logro ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 **La forma de la política no predice la práctica.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] encontró instituciones con mandato, marco y orientación repartidas por todo el rango de exposición de 53.915 ítems de evaluación australianos, así que una política central prescriptiva no acompañaba a una evaluación menos vulnerable a la IA.
 

@@ -1,7 +1,7 @@
 ---
 title: Desarrollo teórico en la IA en la educación
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T18:45:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-13T16:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,8 @@ La salida del modelo asciende al estatus de conocimiento colectivo sin la garant
 Otros trabajos extienden teorías existentes al contexto de la IA en lugar de fundar paradigmas nuevos: el trabajo sobre la [[critical-thinking-paradox-genai-learning-2026|paradoja del pensamiento crítico]] integra la [[cognitive-offloading|teoría de la carga cognitiva]] con la instrucción para reducir la carga en un marco de tres niveles; [[dollinger-equitable-assessment-ai-2026|la evaluación equitativa]] reteoriza la [[assessment|evaluación]] bajo la disrupción de la IA generativa. [[reconceptualizing-community-inquiry-generative-ai|Ba, Gašević, Lim y Anderson (2026)]] reconceptualizan el propio marco de la [[community-of-inquiry|comunidad de indagación]]: en lugar de enmarcar la IA generativa como herramienta, interlocutora dialógica o una especulativa «cuarta presencia», la reposicionan como una *condición epistémica* que reconfigura cómo se ponen en acto, se evidencian y se gobiernan la presencia cognitiva, la social y la [[teacher-role|docente]], y recastean las presencias de la CoI como logros sociotécnicos de ensamblajes de personas e IA generativa, y proponen una heurística basada en configuraciones en la que la implicación de la IA generativa y la calidad de la indagación se relacionan de forma condicional a través de la responsabilidad humana. Buena parte de esto es trabajo de marco conceptual ([[drummond-genai-business-schools-framework-2026|marcos para escuelas de negocios]], [[valid-student-simulation-llm-2026|simulación válida]]) que operacionaliza la teoría para la práctica.
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin y Chang (2026)]] extienden el [[self-regulated-learning|aprendizaje autorregulado]] y la regulación entre personas e IA al nombrar lo que gobierna quien aprende —estándares, [[evaluative-judgment|juicios evaluativos]] y autorización del control— y no solo lo que hace la IA.
+
+[[corbin-recognition-feedback-2026|Corbin, Tai y Flenady (2026)]] importan el reconocimiento de Honneth y de Brandom a la teoría de la retroalimentación y sostienen que lo que convierte un comentario en una razón para actuar es la atribución mutua de estatus y no la calidad de la información.
 
 La paradoja de la fricción ofrece otra extensión de teoría establecida: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] aplica las [[desirable-difficulties|dificultades deseables]] de Bjork y Bjork y el [[productive-failure|fracaso productivo]] de Kapur a los encuentros relacionales de la educación en el extranjero, y sostiene que lo que importa es cuánta agencia interpretativa [[transfer-of-learning|transfiere]] el estudiantado a un asistente generativo, y no con qué frecuencia lo usa. El marco es conceptual y enuncia cinco proposiciones como hipótesis rivales.
 

@@ -1,7 +1,7 @@
 ---
 title: Validez de la evaluación
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T18:45:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 connected_resources: [vfwa]
 type: concept
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-13T16:20:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -136,6 +136,8 @@ Una prueba de química de 27 ítems generada a partir de un currículo nacional 
 ### El referente de la calificación humana y su techo
 
 [[opraise-automated-marking-ai-assessment-2026|La comparación de OpRaise entre tres modelos frontera y 761 ensayos auténticos de tres universidades del Reino Unido]] convierte el referente en parte de la argumentación de validez. Las calificaciones humanas se usaron como verdad de referencia sobre la base explícita de que el juicio académico es el estándar socialmente aceptado, mientras los autores reconocen que los calificadores humanos solo concuerdan moderadamente entre sí, lo que limita desde arriba el acuerdo IA–humano que cabría exigir razonablemente y significa que una correlación no puede leerse como listo-o-no sin un punto de referencia. Dentro de ese marco, los fallos aparecieron como estructura sistemática más que como error aleatorio: las calificaciones se comprimían hacia el centro de la escala, de modo que los mejores y los peores ensayos eran los peor juzgados; la concordancia era más débil en las fronteras de nota; y las calificaciones de la IA seguían la amplitud de vocabulario, los conectores y la complejidad de las frases, mientras que las calificaciones humanas eran en gran medida insensibles a ellos. La lección práctica tiene dos filos, porque el mismo estudio encontró que la fiabilidad era excelente —recalificaciones idénticas a lo largo del tiempo y alta concordancia entre modelos—. Un argumento de validez para la calificación automatizada no puede por tanto apoyarse en la estabilidad ni en la concordancia media; tiene que mostrar la ausencia de desviación sistemática, que es exactamente lo que esta evidencia no encontró.
+
+Aportar la calificación humana y la retroalimentación de quien califica corrige la media sin restaurar el orden: [[kay-genai-mimic-human-markers-2026|Kay et al. (2026)]] encontraron una pendiente de calibración de 0,038 donde una concordancia perfecta da 1, así que la calibración en contexto no puede cerrar el techo del referente.
 
 La estabilidad entre ejecuciones no está garantizada, sin embargo: repetir la misma calificación sobre entregas idénticas con cinco días de diferencia dio un alfa de Krippendorff de 0,625, con la variación concentrada en las notas intermedias y las notas A y F ausentes de los recuentos de la sesión repetida ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 

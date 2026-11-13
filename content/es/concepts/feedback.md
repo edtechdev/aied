@@ -1,13 +1,13 @@
 ---
 title: Retroalimentación
 created: "2026-09-25T03:54:18-04:00"
-updated: "2026-11-13T14:20:00-05:00"
+updated: "2026-11-13T18:45:00-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-13T16:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 contributors: [editor]
@@ -133,6 +133,8 @@ El paradigma de la «evaluación para el aprendizaje» replantea la retroaliment
 ### El emparejamiento entre provisión y aprovechamiento
 
 La idea central sobre la retroalimentación es que **la calidad de la retroalimentación y la alfabetización en retroalimentación son dos caras de un mismo sistema**: una retroalimentación de alta calidad es inerte sin un destinatario alfabetizado, y un estudiante alfabetizado obtiene poco de una retroalimentación deficiente. [[ai-feedback-quality]] cubre el lado de la provisión (¿es la retroalimentación exacta, puntual y accionable?), mientras que [[feedback-literacy]] cubre el lado del aprovechamiento (¿puede el estudiantado juzgarla y actuar a partir de ella?). El bucle de retroalimentación es lo que los conecta: el mecanismo por el que una retroalimentación de calidad, recibida por quien aprende de forma alfabetizada, cierra la brecha. Diseñar una retroalimentación con IA eficaz significa, por tanto, diseñar tanto el sistema como al estudiante.
+
+[[corbin-recognition-feedback-2026|Corbin, Tai y Flenady (2026)]] sitúan el reconocimiento mutuo por debajo de ese emparejamiento: cada parte debe conceder a la otra la posición necesaria antes de que la calidad o la alfabetización puedan operar, de modo que el mismo comentario guía a un estudiante y se desvanece para otro.
 
 Qué capacidades del lado del estudiantado importan puede separarse empíricamente: entre 1.507 estudiantes de secundaria que recibieron cada uno un único mensaje estandarizado de retroalimentación automatizada sobre un texto argumentativo, solo la implicación conductual con la retroalimentación y las actitudes instrumentales hacia ella predijeron el desempeño en la revisión —el estudiantado situado en el percentil 75 en cualquiera de las dos dimensiones mejoró alrededor de 0,10 o 0,11 puntos WLE más que estudiantes comparables en el percentil 25, es decir, aproximadamente del percentil 46 al 54—, mientras que la receptividad global, la implicación cognitiva y las actitudes experienciales no guardaron relación con él, y la [[technology-acceptance-model|utilidad percibida]] no medió la vía de ninguna dimensión hacia el desempeño. La utilidad operó sobre el otro resultado: el efecto de la receptividad global sobre el interés situacional pasó enteramente por la utilidad percibida (β indirecto = 0,09, IC del 95% [0,06, 0,13]), de modo que las ganancias de revisión siguieron hábitos duraderos de actuar a partir de la retroalimentación, mientras que el interés siguió la valoración de un mensaje concreto. ([[jansen-argumentative-writing-feedback-receptivity-2026]])
 

@@ -1,7 +1,7 @@
 ---
 title: Calidad de la retroalimentación de la IA
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T18:45:00-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, automated-assessment, feedback, formative-asse
 connected_resources: [my-essay-feedback]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-13T09:46:01-05:00"
+source_updated: "2026-11-13T16:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,8 @@ ai_assist:
 ## Introducción
 
 La calidad de la retroalimentación de IA no se reduce a la corrección. Una retroalimentación eficaz debe ser puntual, específica, accionable y estar calibrada al nivel de comprensión actual del estudiante. Tres preguntas organizan la mayor parte de esa investigación: exactitud (¿es correcta la retroalimentación?), utilidad (¿ayuda al estudiante a mejorar?) y alineación pedagógica (¿promueve el aprendizaje en lugar de solo la finalización de la tarea?).
+
+[[corbin-recognition-feedback-2026|Corbin, Tai y Flenady (2026)]] añaden una condición que las tres no capturan: el reconocimiento —la posición mutua de proveedor y quien aprende— decide si una retroalimentación exacta y útil puede mover a alguien, de modo que la calidad medida es necesaria pero no suficiente.
 
 ## Cómo aparece la calidad de la retroalimentación de IA en la investigación
 
