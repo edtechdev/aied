@@ -28,7 +28,7 @@ verified: [citation, numbers]
 
 > **Synthesis:** Governments are splitting into two camps on [[generative-ai|generative AI]] in schools — scaling tools or restricting them — and the iRAISE report argues that both leave the same work undone. Drawing on a structured review, policy documents from France, Canada, Egypt and Qatar, and consultations with officials and NGOs, it reframes [[ai-literacy|AI literacy]] as the newest layer of [[information-and-media-literacy|digital and media literacy]] rather than a separate subject. Its central claim is an implementation gap: most countries name media and information literacy in national frameworks, far fewer put it into curricula in any depth, and almost none measure whether students acquire it.
 
-*This page summarizes a multi-stakeholder policy report, not a peer-reviewed study. The report presents no new primary data: its figures come from published research and official statistics, and its country analysis rests on document review and interviews with officials, NGOs and experts rather than with children, families or teachers.*
+*The source is a multi-stakeholder policy report, not a peer-reviewed study: it presents no new primary data, its figures come from published research and official statistics, and its country analysis rests on document review and interviews with officials, NGOs and experts rather than with children, families or teachers.*
 
 ## Key Findings
 
