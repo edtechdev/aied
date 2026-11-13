@@ -1,7 +1,7 @@
 ---
 title: "What Are Best Practices for Developing an Effective AI Tutor?"
 created: "2026-08-29T20:36:43-04:00"
-updated: "2026-10-28T11:21:07-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, designing-educational-ai-software]
 weight: 74
 audience: [educational technology developers, software developers, instructional designers]
@@ -88,7 +88,7 @@ Interface friction belongs in the same design pass. Unlimited hints behind a vis
 
 ## Hand the checkable parts to a checker
 
-Ground generation in instructor-approved material: textbook sections, course notes, worked examples, terminology, approved methods, notation, assignment rules, policies, and [[curriculum-design|curricular]] resources. Retrieval-augmented generation against that corpus reduces [[hallucination-risk|hallucination risk]] and does not eliminate it, as [[rag]] sets out. Expose citations or provenance in the interface where a student might check a claim, because the citation is what makes the grounding auditable after the fact.
+Ground generation in instructor-approved material: textbook sections, course notes, worked examples, terminology, approved methods, notation, assignment rules, policies, and [[curriculum-design|curricular]] resources. Retrieval-augmented generation against those materials reduces [[hallucination-risk|hallucination risk]] and does not eliminate it, as [[rag]] sets out. Expose citations or provenance in the interface where a student might check a claim, because the citation is what makes the grounding auditable after the fact.
 
 Grounding also does a job that accuracy metrics miss. A course has approved methods, and a tutor that introduces a mathematically valid technique the course does not use has taught the student something they will be marked down for. Retrieval from the course layer is how the tutor stays inside the method set.
 
@@ -96,7 +96,7 @@ For domains with formally checkable answers, add deterministic tools: calculator
 
 ## Require the learner to act on the feedback
 
-Feedback that says "Correct," "Incorrect," or "Good job" is a scoring event wearing the interface of teaching. The knowledge base treats [[feedback]] as a provision-uptake loop: feedback supports learning when students understand it and act on it, and the second half is the half that systems usually skip. Build the tutor to name the reasoning step involved, say what needs reconsideration, give one concrete next action, and ask the learner to predict or explain before the feedback is revealed.
+Feedback that says "Correct," "Incorrect," or "Good job" is a scoring event wearing the interface of teaching. The research treats [[feedback]] as a provision-uptake loop: feedback supports learning when students understand it and act on it, and the second half is the half that systems usually skip. Build the tutor to name the reasoning step involved, say what needs reconsideration, give one concrete next action, and ask the learner to predict or explain before the feedback is revealed.
 
 The sequence that carries this is learner first, AI second, learner again. The student generates, chooses, justifies, evaluates or reflects; the tutor responds; the student does something with the response. Design the turn structure so this is not optional. A system where the model can produce three paragraphs in response to one question teaches the student to ask and read.
 
@@ -148,7 +148,7 @@ A first-semester college calculus tutor should raise what students can solve and
 
 ## Case two: a writing coach, where the stage decides the permission
 
-Writing has no single correct answer, so verification is judgment and the design work moves to staging. The knowledge base frames writing as a cognitive, social and rhetorical process, which means an AI writing system can support learning and can also eliminate exactly the thinking the assignment existed to develop ([[writing-education]], [[coach-not-crutch-ai-writing]]).
+Writing has no single correct answer, so verification is judgment and the design work moves to staging. Writing is a cognitive, social and rhetorical process, which means an AI writing system can support learning and can also eliminate exactly the thinking the assignment existed to develop ([[writing-education]], [[coach-not-crutch-ai-writing]]).
 
 **A capability model.** Track argument (thesis specificity, claim-evidence alignment, counterargument), organization (paragraph focus, logical progression, transitions), evidence (source relevance, integration, interpretation), revision (global and sentence-level revision, feedback evaluation) and style (clarity, grammar, voice). Each becomes a separate signal in the learner model, which is what makes targeted feedback possible at all.
 

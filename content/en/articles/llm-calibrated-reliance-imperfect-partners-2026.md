@@ -1,6 +1,6 @@
 ---
 title: "Can LLMs Trust Appropriately? Evaluating Calibrated Reliance on Imperfect Partners"
-created: "2026-10-27T09:41:00-04:00"
+created: "2026-10-27T09:35:41-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Chu, M.", "Huang, J."]

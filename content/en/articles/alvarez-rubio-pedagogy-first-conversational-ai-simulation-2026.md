@@ -1,6 +1,6 @@
 ---
 title: "What a teacher cannot delegate: a pedagogy-first framework for integrating conversational AI agents across the simulation cycle"
-created: "2026-11-04T16:20:00-05:00"
+created: "2026-11-04T14:09:25-05:00"
 updated: "2026-11-04T16:20:00-05:00"
 type: article
 published: "2026"

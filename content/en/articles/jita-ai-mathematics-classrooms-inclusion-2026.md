@@ -1,7 +1,7 @@
 ---
 title: "AI in mathematics classrooms: A synergistic strategy for diversity and inclusivity"
 published: "2026-11-01"
-created: "2026-11-02T09:20:00-05:00"
+created: "2026-11-02T09:12:23-05:00"
 updated: "2026-11-02T10:15:00-05:00"
 type: article
 sources: ['raw/papers/jita-ai-mathematics-classrooms-inclusion-2026.md']

@@ -1,6 +1,6 @@
 ---
 title: "Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms"
-created: "2026-10-28T12:00:00-04:00"
+created: "2026-10-28T09:21:54-04:00"
 updated: "2026-10-28T12:00:00-04:00"
 type: article
 authors: ["Bekos, P.", "Tsouvalas, B.", "Nikiforakis, N.", "Polychronakis, M."]

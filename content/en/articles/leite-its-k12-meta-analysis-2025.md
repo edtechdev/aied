@@ -1,6 +1,6 @@
 ---
 title: "Do intelligent tutoring systems benefit K-12 students? A meta-analysis and evaluation of heterogeneity of treatment effects in the U.S."
-created: "2026-11-08T08:22:00-05:00"
+created: "2026-11-08T08:10:57-05:00"
 updated: "2026-11-08T08:22:00-05:00"
 type: article
 page_kind: [synthesis]

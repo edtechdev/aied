@@ -1,7 +1,7 @@
 ---
 title: "What Does Personalized Learning Actually Mean, and When Does It Help?"
-created: "2026-10-30T13:20:00-04:00"
-updated: "2026-11-06T03:00:00-05:00"
+created: "2026-10-30T11:34:03-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -24,7 +24,7 @@ ai_assist:
 
 The platform promises a personalized experience for every student. It might reorder practice questions, rewrite an explanation around a student's interest in football, remember last week's conversation, or pick what the student studies next. All four get called personalization, and only one of them has been tested in anything like that form.
 
-Here is the short answer: personalization names a change to some part of the learning experience, and its value depends on three things, what is adapted, what evidence drives the adaptation, and whether the change improves the learning you intend. A familiar example or a responsive conversation can feel personal while teaching nothing. An effective adaptation can be invisible. The clearest experimental result in this knowledge base is narrow: in a five-month Python certification course across ten Taipei high schools, students randomized to adaptive problem sequencing scored about 0.150 standard deviations higher on an in-person, unassisted [[summative-assessment|final exam]] than students with a fixed sequence and identical [[conversational-ai|chatbot]] access ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). That supports sequencing under specified conditions. It does not validate everything sold as personalized.
+Here is the short answer: personalization names a change to some part of the learning experience, and its value depends on three things, what is adapted, what evidence drives the adaptation, and whether the change improves the learning you intend. A familiar example or a responsive conversation can feel personal while teaching nothing. An effective adaptation can be invisible. The clearest experimental result in this literature is narrow: in a five-month Python certification course across ten Taipei high schools, students randomized to adaptive problem sequencing scored about 0.150 standard deviations higher on an in-person, unassisted [[summative-assessment|final exam]] than students with a fixed sequence and identical [[conversational-ai|chatbot]] access ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). That supports sequencing under specified conditions. It does not validate everything sold as personalized.
 
 ## The short version
 

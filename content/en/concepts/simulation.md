@@ -2,7 +2,7 @@
 connected_resources: [openmaic]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-10T21:15:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -15,7 +15,7 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - Recall a time you learned something by doing it in a safe, low-stakes environment — a lab, a mock exercise, a flight or game simulator. What made that practice effective, and what might be lost if the simulation were too realistic or not realistic enough?
-- The page argues simulations let learners make errors and see consequences 'without real-world cost.' What do you think is gained, and what might be lost, when the cost of a mistake drops to nearly zero?
+- Simulations let learners make errors and see consequences 'without real-world cost.' What do you think is gained, and what might be lost, when the cost of a mistake drops to nearly zero?
 - If an AI can simulate patients, students, or conversation partners for practice, where would you draw the line between valuable rehearsal and practice that fails to transfer to real human interaction?
 - Why might a learner's awareness of a simulation's limits — its [[trust|trustworthiness]] — matter as much as how faithfully it models reality?
 - How could the same simulation technology that helps someone learn also mislead them, and what would you need to know to tell those two outcomes apart?

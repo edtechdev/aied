@@ -1,6 +1,6 @@
 ---
 title: "Owning what one did not make: psychological ownership, agency, and the authorship legitimation deficit in human–AI co-creation"
-created: "2026-11-04T16:20:00-05:00"
+created: "2026-11-04T14:09:25-05:00"
 updated: "2026-11-04T16:20:00-05:00"
 type: article
 sources: ['raw/papers/hong-authorship-legitimation-deficit-human-ai-co-creation-2026.md']

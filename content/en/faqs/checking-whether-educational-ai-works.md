@@ -1,7 +1,7 @@
 ---
 title: "How Do We Know an Educational AI Is Working Correctly, Not Just Scoring Well?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-11-12T15:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
@@ -60,13 +60,13 @@ The Linear Control Systems course assistant reports this the right way. Its best
 
 In the WrAFT project, a fine-tuned model reached an agreement score of **0.84** with human graders across 360 held-out TOEFL essays. That is a strong result for grading. The same project's model trained to write feedback produced output that was truncated and unparseable, while simply [[prompt-engineering|prompting]] a different model produced feedback teachers preferred ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
-The knowledge base carries the same failure in a second form: a deployment whose grading module scored well and whose feedback arrived cut off mid-sentence and unreadable. Nothing in the headline number said so.
+The same failure appears in a second form: a deployment whose grading module scored well and whose feedback arrived cut off mid-sentence and unreadable. Nothing in the headline number said so.
 
 So list the outputs your system produces, then give each one its own measure and its own pass condition. Grading, feedback text, hint selection, and safety refusals fail in different ways, and a module-level score cannot see past its own module.
 
 ## Put a person where the model is unsure
 
-A correlation tells you the model is usually right. It does not tell you what to do on the occasions when it is not. The confidence-routing result is the cleanest template in the knowledge base, and it is short enough to copy.
+A correlation tells you the model is usually right. It does not tell you what to do on the occasions when it is not. The confidence-routing result is the cleanest template in the evidence, and it is short enough to copy.
 
 Confidence turned out to be a reliable warning sign: when the model was unsure, it was more likely to be wrong (**β = -0.602, p < .001**). The team sent the least confident **20%** of responses to a human. That single rule raised agreement with human grades from **0.78 to 0.82** and cut manual grading work by roughly **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
 
@@ -104,7 +104,7 @@ Run the check across complete conversations, and write the test turns deliberate
 
 Generating [[simulating-students|simulated students]] instead of recruiting real ones makes evaluation far cheaper. A simulated student is also a measuring instrument, and it can be wrong in the ways instruments are wrong: too cooperative, too fluent, too quick to accept a hint.
 
-The most direct test in the knowledge base benchmarked simulated and prompted students against **382 held-out dialogues** from the largest public collection of real student-tutor mathematics dialogues, using seven measures covering language, behavior and thinking ([[simulated-students-tutoring-dialogues-2026]]). Other work pushes on realism from different angles: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] trains models to both act and think like students, and history-aware profiles condition the simulation on a student's past rather than a fixed persona ([[history-aware-student-simulation]]).
+The most direct test in the evidence benchmarked simulated and prompted students against **382 held-out dialogues** from the largest public collection of real student-tutor mathematics dialogues, using seven measures covering language, behavior and thinking ([[simulated-students-tutoring-dialogues-2026]]). Other work pushes on realism from different angles: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] trains models to both act and think like students, and history-aware profiles condition the simulation on a student's past rather than a fixed persona ([[history-aware-student-simulation]]).
 
 If your harness is a simulated student, validate the simulator against real transcripts before you let it grade your tutor.
 

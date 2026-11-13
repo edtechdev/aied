@@ -1,7 +1,7 @@
 ---
 title: "What Is the Evidence on AI Literacy Interventions in Higher Education?"
 created: "2026-08-24T09:52:00-04:00"
-updated: "2026-10-28T11:47:13-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 foundations: [ai-literacy]
@@ -36,7 +36,7 @@ The answer for that room, and the state of the evidence in [[higher-ed|higher ed
 
 ## Build the sequence around a critique
 
-The strongest classroom example in the knowledge base comes from undergraduate psychology. Richmond and Nicholls had students grade a [[generative-ai|ChatGPT]]-generated media release against their own course rubric, name the errors, and revise it. Students generally saw that the prose was polished and that the content misrepresented the research aims, methods, and findings. Against the previous [[peer-assessment]] cohort, the AI-critique group did modestly better on the script revision that followed (*d* = 0.36), with no significant advantage on the final video ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
+The strongest classroom example comes from undergraduate psychology. Richmond and Nicholls had students grade a [[generative-ai|ChatGPT]]-generated media release against their own course rubric, name the errors, and revise it. Students generally saw that the prose was polished and that the content misrepresented the research aims, methods, and findings. Against the previous [[peer-assessment]] cohort, the AI-critique group did modestly better on the script revision that followed (*d* = 0.36), with no significant advantage on the final video ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
 
 The literature these examples come from leans on short interventions, [[self-regulated-learning|self-report]], and design-based work, and this study carries two of those limits. The comparison was historical, so a better-prepared cohort would produce the same pattern. The advantage also appeared on the intermediate artifact and vanished on the finished one, which is what you would expect if the critique taught revision.
 
@@ -56,7 +56,7 @@ A [[liu-ai-literacy-interventions-meta-analysis-2026|three-level meta-analysis o
 
 The authors read their own result as an argument for moving past knowledge toward skills, practices, ethics, and attitudes, through integrated reflective pedagogy and [[culturally-relevant-pedagogy|culturally relevant]] design. For a committee, two implications do the work. The outcome you measure shapes the effect you find, so pick the outcome you actually care about. A prediction interval that wide argues for a local pilot.
 
-Measurement is where most program claims fail. The validated **GLAT** performance test predicted performance on an AI-assisted higher-education task. A [[self-report-measures|self-reported]] ChatGPT-literacy measure did not ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). Across the knowledge base, reported and demonstrated AI competence diverge substantially, which makes [[educational-measurement|educational measurement]] and [[assessment-validity|assessment validity]] part of the design rather than an afterthought in [[ai-ed-evaluation|evaluation]].
+Measurement is where most program claims fail. The validated **GLAT** performance test predicted performance on an AI-assisted higher-education task. A [[self-report-measures|self-reported]] ChatGPT-literacy measure did not ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). Across the literature, reported and demonstrated AI competence diverge substantially, which makes [[educational-measurement|educational measurement]] and [[assessment-validity|assessment validity]] part of the design rather than an afterthought in [[ai-ed-evaluation|evaluation]].
 
 Burriss et al. sharpen what counts. Their study of 22 eleventh-grade students composing video public service announcements about AI ethics argues that existing literacy scales and competency frameworks assume individually measurable performance, which excludes collaborative and creative expression. They propose student reflections, [[multimodal]] artifacts, and civic discourse as complements to conventional measures. Their students developed critical AI-ethics understanding through collaborative [[critical-pedagogy|critical pedagogy]], and that challenges skill-list conceptions of literacy along with the instruments built on them. Fifteen of 18 end-of-unit responses affirmed new learning, and the authors note the project resists traditional [[summative-assessment|summative assessment]] ([[burriss-multimodal-composition-critical-ai-literacy-2026]]).
 
@@ -104,7 +104,7 @@ Literacy is one skill that transfers across tools. Dai and Chan found researcher
 
 **"The credential is the accountability mechanism."** Wu and Li found faculty competence to be the binding constraint, and cross-cultural adaptability weighted lowest. A certificate records that someone completed something.
 
-**"Our faculty are not ready to teach this."** The evidence agrees. Faculty capability was the largest gap in Wu and Li's data, and no study on this page tests how to close it.
+**"Our faculty are not ready to teach this."** The evidence agrees. Faculty capability was the largest gap in Wu and Li's data, and no study tests how to close it.
 
 ## What to do this week
 

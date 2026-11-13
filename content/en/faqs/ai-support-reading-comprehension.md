@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Help Support Students' Reading and Reading Comprehension?"
 created: "2026-11-06T01:45:00-05:00"
-updated: "2026-11-06T02:10:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: faq
 connected_faqs: [ai-multilingual-learners, reducing-over-reliance]
 weight: 62
@@ -25,7 +25,7 @@ If you teach any subject, you choose readings, adapt texts, and decide whether a
 
 **Find and adapt texts at scale.** AI is strong at locating sources, simplifying vocabulary, generating glossaries, and turning a passage into a [[study-with-ai|study guide or summary]]. Use it for the mechanical parts of reading preparation — scanning, leveling, pulling out key terms — and keep the human check on what matters.
 
-**Model the reader rather than the text.** Because reader variables carry much of the signal in how hard a text feels, tools that profile the reader predict perceived difficulty better than any formula. In the knowledge base's largest study, 193 German high-school students rated 3,954 sentences, and profile-based models (best ensemble RMSE 0.822 vs a mean baseline of 1.070) beat the texts' Flesch scores, which rated the same material far harder than students experienced it — 72.8% of the annotations were easy or very easy ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). The practical version: a few students' ratings of a passage beat any formula's label.
+**Model the reader rather than the text.** Because reader variables carry much of the signal in how hard a text feels, tools that profile the reader predict perceived difficulty better than any formula. In the largest study in this literature, 193 German high-school students rated 3,954 sentences, and profile-based models (best ensemble RMSE 0.822 vs a mean baseline of 1.070) beat the texts' Flesch scores, which rated the same material far harder than students experienced it — 72.8% of the annotations were easy or very easy ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). The practical version: a few students' ratings of a passage beat any formula's label.
 
 ## Where AI falls short
 

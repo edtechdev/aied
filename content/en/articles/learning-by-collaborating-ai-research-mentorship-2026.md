@@ -1,6 +1,6 @@
 ---
 title: "Learning by Collaborating in the Age of AI: Research Mentorship for Polymathic, Workflow-Centered Science"
-created: "2026-10-27T09:56:00-04:00"
+created: "2026-10-27T09:35:41-04:00"
 updated: "2026-10-27T09:56:00-04:00"
 type: article
 authors: ["Zheng, T."]

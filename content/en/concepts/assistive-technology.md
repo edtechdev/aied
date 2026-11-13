@@ -1,7 +1,7 @@
 ---
 title: Assistive Technology
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -16,9 +16,9 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - Assistive technology is the tool layer of accessibility — the specific devices and software individuals use to bridge access gaps. Before reading, did you think of accessibility and assistive technology as the same thing? How might treating them as distinct change how you design learning environments?
-- [[research-methods-aied|Research]] finds AI-based interventions yield a medium positive effect on [[learning-gains|learning outcomes]] for students with disabilities (g = 0.588). Yet the page warns that access tools don't by themselves ensure inclusive instruction or learner agency. What's the difference between giving a student access and genuinely including them?
-- The page notes that US AI policy documents largely fail to address assistive technology and accommodations for students with specific learning disabilities. Why do you think accommodations so easily fall through the cracks of AI policy — and who loses when that happens?
-- [[generative-ai|Generative AI]] can auto-caption, simplify text, and generate tactile alternatives — lowering the cost of adaptation. But the page cautions you to evaluate the quality of AI-generated alternatives for [[pedagogy|pedagogical]] accuracy. What could go wrong if a 'simplified' or 'tactile' version misrepresents the content it's meant to make accessible?
+- [[research-methods-aied|Research]] on AI-based interventions reports [[learning-gains|gains]] for students with disabilities. Yet access tools don't by themselves ensure inclusive instruction or learner agency. What's the difference between giving a student access and genuinely including them?
+- Why do US AI policy documents largely fail to address assistive technology and accommodations for students with specific learning disabilities, and who loses when accommodations fall through the cracks?
+- [[generative-ai|Generative AI]] can auto-caption, simplify text, and generate tactile alternatives — lowering the cost of adaptation. But what should you check by hand in an AI-generated alternative before trusting its [[pedagogy|pedagogical]] accuracy? What could go wrong if a 'simplified' or 'tactile' version misrepresents the content it's meant to make accessible?
 - AI is expanding assistive tools from voice-first learning companions to tactile graphs and sign-language tools. As an educator or designer, which learner's specific barrier would you want to address first with AI — and what would you need to know about that learner before choosing a tool?
 
 ## Introduction
@@ -42,7 +42,7 @@ A 2026 scoping review of digital assistive [[ai-technologies|technologies]] for 
 - **Match the tool to the learner and task.** Screen readers, captions, speech, and tactile output each address different barriers — choose based on the individual's needs and the content format.
 - **Leverage AI to lower the cost of assistive adaptations.** AI can auto-caption, simplify text, and generate alternatives, but evaluate output quality for pedagogical accuracy.
 - **Ground provision in policy.** Reference the Assistive Technology Act, IDEA, and WCAG when procuring or building AI tools.
-- **Say which function the support serves — and evaluate against that function.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguish compensation (evaluated by access and participation) from [[scaffolding]] (decisions-with-support) from development (strategy use after fading or transfer). They add a rule aimed at this page's caution: accessibility support is not remediation — whether a tool is an accommodation, strategy instruction, or temporary practice support "should be stated in the learning plan."
+- **Say which function the support serves — and evaluate against that function.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguish compensation (evaluated by access and participation) from [[scaffolding]] (decisions-with-support) from development (strategy use after fading or transfer). They add a rule for that caution: accessibility support is not remediation — whether a tool is an accommodation, strategy instruction, or temporary practice support "should be stated in the learning plan."
 
 ## Common Misconceptions
 

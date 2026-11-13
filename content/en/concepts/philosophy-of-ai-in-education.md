@@ -1,7 +1,7 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-12T21:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -10,14 +10,14 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **Philosophy of AI in Education** — the branch of educational philosophy that examines the fundamental conceptual questions raised by artificial intelligence in [[teacher-role|teaching]] and learning: What is the nature of knowledge and thinking when machines participate in them? What is the learner when cognition is distributed across human and artificial systems? What forms of [[agency]], responsibility, and personhood apply to AI, and what does education owe learners in an AI-mediated world? Distinct from (but connected to) the knowledge base's [[learning-theories]] page, which catalogs theories of *how learning happens*, the philosophy of AI in education asks the deeper questions of *what learning, mind, and the learner fundamentally are* under AI-mediated conditions.
+> **Philosophy of AI in Education** — the branch of educational philosophy that examines the fundamental conceptual questions raised by artificial intelligence in [[teacher-role|teaching]] and learning: What is the nature of knowledge and thinking when machines participate in them? What is the learner when cognition is distributed across human and artificial systems? What forms of [[agency]], responsibility, and personhood apply to AI, and what does education owe learners in an AI-mediated world? Distinct from (but connected to) [[learning-theories]], which catalogs theories of *how learning happens*, the philosophy of AI in education asks the deeper questions of *what learning, mind, and the learner fundamentally are* under AI-mediated conditions.
 
 ## Questions to Consider
 
 - Does thinking require consciousness and a body? If an AI genuinely participates in your reasoning, is some of the 'thinking' happening in the machine—and does that change who's learning?
-- The page raises the idea of cognition 'distributed' across human and artificial systems. Think of a task you've solved with AI help: where did your thinking end and the machine's begin?
+- Cognition can be understood as 'distributed' across human and artificial systems. Think of a task you've solved with AI help: where did your thinking end and the machine's begin?
 - If a learner's cognitive processes become genuinely hybrid (part human, part artificial), what does that mean for what we call 'the learner'—and for what education owes them?
-- The page distinguishes philosophy (what learning and the learner fundamentally are) from learning theories (how learning happens). Can you name a belief you hold about learning that is really a philosophical position?
+- Philosophy asks what learning and the learner fundamentally are, while learning theories ask how learning happens. Can you name a belief you hold about learning that is really a philosophical position?
 - If AI can exercise 'functional agency' without consciousness, does it bear responsibility for its educational effects—and if not, who does? Who should answer when an [[intelligent-tutoring|AI tutor]] misleads a student?
 - Posthumanist thought reframes learners as 'post-human' entities. How does that idea challenge or unsettle your own assumptions about where a student's mind is located?
 
@@ -40,7 +40,7 @@ This is a concept page for the philosophical and theoretical foundations of [[ai
 - **Epistemological grounding for how people engage AI.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] derives seven human–generative-AI engagement paradigms from Schommer's five dimensions of personal epistemological belief (source, certainty, organization, control, and speed of knowledge) and argues they are enacted rather than possessed — so shifting how learners engage AI requires changing the socio-technical environment, not their beliefs.
 - **Whose philosophy? Pluralism in the field's conceptual foundations.** Xie (2026) argues that the field's philosophical debate is over-determined by a single Western architecture — [[agency|epistemic agency]] as a property of discrete subjects, knowledge framed representationally and calculatively, and the human–AI relation located within subject–object dualism — so that its limits become the limits of the field's collective imagination. As a comparative counterweight he reconstructs Daoist concepts — "Dao nature" (道性), self-cultivation (修道) and the "Zhenren" (真人) — not as "Eastern content" added to an unchanged frame but as resources that reshape the conceptual foundations through which AI itself is understood, applying them to knowledge (epistemic monoculture and synthetic misinformation), knowing (offloading that degrades [[critical-thinking|critical thought]]) and impact (environmental costs and Global North–South asymmetries).([[daoism-ai-education-philosophy-2026]])
 
-- **Agency without answerability.** A corpus-assisted discourse analysis of 366 GenAI higher-education abstracts finds [[generative-ai|AI]] named 2,050 times and entering 447 strict actor–predicate associations - the field's most frequent actor - yet action predicates dominate them (78.7%) and no sentence makes a system responsible: of 166 obligation expressions, none assigned responsibility to a system, and the single clause linking AI to accountability says AI is not accountable. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] reads this as functional agency recognized in language without the relational responsibility that would attach it to anyone.
+- **Agency without answerability.** A discourse analysis of 366 GenAI higher-education abstracts finds [[generative-ai|AI]] named 2,050 times and entering 447 strict actor–predicate associations, the field's most frequent actor. Yet action predicates dominate them (78.7%) and no sentence makes a system responsible: of 166 obligation expressions, none assigned responsibility to a system, and the single clause linking AI to accountability says AI is not accountable. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] reads this as functional agency recognized in language without the relational responsibility that would attach it to anyone.
 **Neither tool nor collaborator: the mediational agent.** [[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate and Ritchie (2026)]] argue that calling generative AI a mere tool understates its interactional influence while calling it a collaborator wrongly grants it intentionality and accountability, and propose the *mediational agent* — a responsive, non-accountable system whose novelty is participation rather than intelligence.
 
 ## Relationship to learning theories
@@ -107,6 +107,6 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — how agency language across 366 abstracts names AI but assigns it no responsibility (Poudyal 2026)
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — 'Human-centered' AIED read as an anthropocentric discourse with commercial uses (Wang & Jin 2026)
 - [[khan-machines-emotional-labor-education-2026]] — Can machines perform emotional labor? The 1950–1996 debate, and why mimicry underdetermines care

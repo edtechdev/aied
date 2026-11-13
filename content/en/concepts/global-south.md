@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -18,7 +18,7 @@ reviewed_by: [editor]
 - If an AI system performs well on benchmark tests built from Western, English-language data, how confident should you be that it will work equally well for your students? What would you want to check before trusting it in your own context?
 - Consider a learning tool whose training data and evaluation metrics were all developed in the Global North. What assumptions about language, knowledge traditions, and educational realities might it silently encode — and who is most likely to be misrepresented by them?
 - When AI adoption is studied, whose classrooms and institutions tend to dominate the evidence base? How might that skew what we think we know about whether AI 'works' in education?
-- The page argues for treating learners' lived and community epistemologies as authoritative, not just as add-ons to Western models. What would it take for your own AI-related practice or research to center local knowledge rather than import it from elsewhere?
+- Learners' lived and community epistemologies should be treated as authoritative, not just as add-ons to Western models. What would it take for your own AI-related practice or research to center local knowledge rather than import it from elsewhere?
 - Resource constraints are a recurring theme in Global South contexts. How might the promise of low-cost, scalable AI support both close and widen existing opportunity gaps, depending on how it is designed and deployed?
 - How could you tell whether a technology 'adopted' in a particular setting was actually adopted because it fit local conditions — or because it was assumed to transfer? What evidence would distinguish the two?
 
@@ -26,9 +26,9 @@ reviewed_by: [editor]
 
 ## Why It Matters for AIED
 
-Mainstream AI and educational-technology research has historically been dominated by Western, English-language datasets and [[governance|institutional]] contexts. This creates two problems: (1) [[ai-technologies|AI systems]] trained on such data may underperform or misrepresent learners in Global South settings, and (2) evaluation [[benchmark|benchmarks]] built in the Global North may not reflect the educational realities, languages, or knowledge traditions of other regions. Research from Global South contexts in this knowledge base spans culturally grounded datasets, benchmarks, and technology-adoption studies, with implications for [[ai-literacy]] and [[higher-ed|higher]] and [[k-12|K-12]] education.
+Mainstream AI and educational-technology research has historically been dominated by Western, English-language datasets and [[governance|institutional]] contexts. This creates two problems: (1) [[ai-technologies|AI systems]] trained on such data may underperform or misrepresent learners in Global South settings, and (2) evaluation [[benchmark|benchmarks]] built in the Global North may not reflect the educational realities, languages, or knowledge traditions of other regions. Research from Global South contexts spans culturally grounded datasets, benchmarks, and technology-adoption studies, with implications for [[ai-literacy]] and [[higher-ed|higher]] and [[k-12|K-12]] education.
 
-## Applications in the Knowledge Base
+## Applications
 
 - **Culturally grounded data and benchmarks:** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] provides a [[multilingual-learning|multilingual]] Indian Knowledge Systems instruction dataset; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] introduces a Ghana-based [[stem-education|STEM]] benchmark, one of the first Global South educational evaluation datasets.
 - **AI ethics awareness in Ghanaian higher education:** [[ai-ethical-awareness-ghana-students-2026|Acquah et al. (2026)]] validated a three-factor (autonomy, beneficence, fairness) AI ethical awareness scale with 509 [[higher-ed|university]] students in Ghana, finding five latent profiles from uniformly very high awareness to a small cluster with almost none — weakest on beneficence — and no gender differences, providing a Global South measurement anchor for the AI-[[ethics]] literature.

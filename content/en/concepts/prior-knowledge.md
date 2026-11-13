@@ -1,7 +1,7 @@
 ---
 title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
@@ -16,7 +16,7 @@ reviewed_by: [editor]
 
 - What's something you learned deeply and something you struggled to learn? How much of the difference came down to what you already knew when you started?
 - Having prior knowledge isn't enough—it must be actively retrieved and connected. When has recalling what you already knew (or failing to) changed how well you learned something new?
-- The page says prior knowledge can *interfere* when it's wrong (a misconception). Can you think of a belief you held that made new, correct information harder to learn?
+- Prior knowledge can *interfere* when it's wrong (a misconception). Can you think of a belief you held that made new, correct information harder to learn?
 - Generative AI that pre-fetches answers can bypass the retrieval practice that activates prior knowledge. How might a tool designed to help you learn actually prevent you from recalling what you know?
 - If an AI must estimate your prior-knowledge state to personalize, what happens when that estimate is wrong? How confident are you that a system could accurately know what you already know?
 - How is 'activating prior knowledge' different from simply asking students a question before [[teacher-role|teaching]]? What would make that activation genuinely deepen the learning that follows?

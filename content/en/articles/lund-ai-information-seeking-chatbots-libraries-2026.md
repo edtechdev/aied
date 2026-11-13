@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence (AI) and information seeking: A comparative exploration of AI chatbots, search engines, and library resources as information sources among university students"
-created: "2026-11-05T04:10:00-05:00"
+created: "2026-11-05T03:32:52-05:00"
 updated: "2026-11-05T04:10:00-05:00"
 type: article
 published: "2026-01-01"

@@ -1,6 +1,6 @@
 ---
 title: "University students’ overreliance on generative AI feedback in the learning process: the effects of perceived cognitive load, cognitive offloading, and metacognitive monitoring"
-created: "2026-11-04T15:00:00-05:00"
+created: "2026-11-04T13:24:11-05:00"
 updated: "2026-11-04T15:00:00-05:00"
 type: article
 sources: ['raw/papers/guo-overreliance-genai-feedback-2026.md']

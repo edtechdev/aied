@@ -1,6 +1,6 @@
 ---
 title: "Integrating AI in Lesson Planning: Critical Reflection and Thoughtful Implementation"
-created: "2026-11-10T22:05:00-05:00"
+created: "2026-11-10T19:39:31-05:00"
 updated: "2026-11-10T22:05:00-05:00"
 type: article
 sources: ['raw/papers/wilcoxen-steiner-bell-ai-lesson-planning-2026.md']

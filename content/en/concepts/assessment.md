@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-11T11:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -15,14 +15,14 @@ methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 ---
 
-> **Assessment** — the process of gathering and interpreting evidence about what learners know and can do, and the methods used to evaluate learning. [[ai-education]] has fundamentally reshaped assessment: it powers [[automated-assessment|automated grading and scoring]], generates and adapts assessment items, and raises deep questions about what assessments actually measure when students can use AI. Assessment is the umbrella concept that organizes the knowledge base's coverage of [[formative-assessment]], [[automated-assessment|automated grading]], [[assessment-validity|validity]], and [[educational-measurement]].
+> **Assessment** — the process of gathering and interpreting evidence about what learners know and can do, and the methods used to evaluate learning. [[ai-education]] has fundamentally reshaped assessment: it powers [[automated-assessment|automated grading and scoring]], generates and adapts assessment items, and raises deep questions about what assessments actually measure when students can use AI. Assessment is the umbrella concept that connects [[formative-assessment]], [[automated-assessment|automated grading]], [[assessment-validity|validity]], and [[educational-measurement]].
 
 ## Questions to Consider
 
 - Assessment here is defined as gathering and interpreting evidence about what learners know and can do. Before reading, how would you finish the sentence 'an assessment is valid if…' — and what would change about that answer if every student could secretly use AI to produce their work?
-- The page claims that how a student uses GenAI (evaluative integration versus uncritical shortcut uptake) predicted performance, while how often they used it predicted nothing. What does this suggest about a common instinct to regulate AI by limiting its use?
+- How a student uses GenAI (evaluative integration versus uncritical shortcut uptake) predicted performance, while how often they used it predicted nothing. What does this suggest about a common instinct to regulate AI by limiting its use?
 - A learner may deliver professional-standard work they cannot reproduce without the tool — severing the inference between performance and underlying ability. Have you encountered a 'competency' being awarded for work that the student couldn't actually do unaided? What did that reveal?
-- The constructive question the page offers is not 'how do we stop students using AI?' but 'how do we enable thoughtful use in contexts that mirror their future work?' What would assessment look like in your field if that were the goal?
+- The constructive question is not 'how do we stop students using AI?' but 'how do we enable thoughtful use in contexts that mirror their future work?' What would assessment look like in your field if that were the goal?
 - The DRIVE framework suggests assessing the quality of a student's [[student-engagement|engagement]] with GenAI — not just the artifact — by looking at whether they steer prompts strategically and integrate their own ideas. What would you look at to tell a deep, reflective [[student-ai-interaction|AI interaction]] from surface consumption?
 - AI-mediated assessment is diversifying into [[oral-assessment|oral exams]], portfolios, and conversational formats that reduce anxiety and feel professionally relevant. Which assessment format from your own experience do you think is most 'AI-resistant' — and is resistance the same thing as educational value?
 
@@ -62,7 +62,7 @@ A PRISMA review of 25 studies adds a risk factor the detection debate leaves out
 
 ## Assessment redesign in the AI era
 
-The constructive question in the knowledge base's assessment literature is not "how do we prevent students from using AI?" but "how do we enable them to use it thoughtfully in contexts that mirror their future work?" This reframes assessment around:
+The constructive question in the assessment literature is not "how do we prevent students from using AI?" but "how do we enable them to use it thoughtfully in contexts that mirror their future work?" This reframes assessment around:
 
 - **Authentic and process-based tasks** that make AI use visible and assessed. [[authentic-assessment]] — examining student performance on worthy, realistic tasks — is the leading response to AI's challenge: any task an [[llm]] can credibly simulate loses its validity, so authenticity must be redesigned around real-time [[collaborative-learning|collaboration]], digital and social contribution, and individual meaning-making. This connects to [[zhan-boud-du-authentic-assessment-scoping-review-2025|design frameworks for authentic assessment]], [[authentic-products-authenticated-processes-2026|authentic products and authenticated processes]], and [[tool-invariant-framework-agentic-ai|tool-invariant assessment of process]].
 - **Responsible assessment design** grounded in validity evidence ([[responsible-assessment-ai-era-stanford-2026]])

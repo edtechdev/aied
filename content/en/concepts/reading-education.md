@@ -1,7 +1,7 @@
 ---
 title: "Reading Education"
 created: "2026-11-05T02:16:00-05:00"
-updated: "2026-11-12T21:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding, motivation, cognitive-psychology]
@@ -20,7 +20,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Reading education** — the teaching and assessment of reading: comprehension, fluency, vocabulary and the motivation to read, together with the design of texts at the right difficulty for a reader. In [[ai-education|AI in education]] the literature runs along four lines: tools that support readers while they read, tools that assess reading, tools that adapt or generate text for a reader's level, and the measurement question underneath all three — what makes a text hard, and whether **readability** captures it. This page treats reading as a domain in its own right, distinct from [[language-learning|language learning]] (acquiring another language), [[english-education|English education]] (EAP/EFL/ESL, which carries its own reading-and-readability strand) and [[writing-education|writing education]] (composing text): it is about the reader's encounter with text. The evidence is promising but uneven — several pilots, a handful of validated instruments, and few controlled comparisons. Where the knowledge base has only a small study, this page says so.
+> **Reading education** — the teaching and assessment of reading: comprehension, fluency, vocabulary and the motivation to read, together with the design of texts at the right difficulty for a reader. In [[ai-education|AI in education]] the literature runs along four lines: tools that support readers while they read, tools that assess reading, tools that adapt or generate text for a reader's level, and the measurement question underneath all three — what makes a text hard, and whether **readability** captures it. Reading is a domain in its own right, distinct from [[language-learning|language learning]] (acquiring another language), [[english-education|English education]] (EAP/EFL/ESL, which carries its own reading-and-readability strand) and [[writing-education|writing education]] (composing text): it is about the reader's encounter with text. The evidence is promising but uneven — several pilots, a handful of validated instruments, and few controlled comparisons. Where only a small study exists, the evidence is reported as such.
 
 ## Questions to Consider
 
@@ -32,7 +32,7 @@ ai_assist:
 
 ## Introduction
 
-Reading education in the knowledge base is a young strand. Most studies are small and recent, and they cluster around text rather than around readers: generating a passage, simplifying it, scoring it, or judging its difficulty. The question that ties them together is whether a machine can tell how hard a text will be for a particular reader, and whether it can act on that judgment without removing the work reading is supposed to do.
+Reading education is a young strand of AI-in-education research. Most studies are small and recent, and they cluster around text rather than around readers: generating a passage, simplifying it, scoring it, or judging its difficulty. The question that ties them together is whether a machine can tell how hard a text will be for a particular reader, and whether it can act on that judgment without removing the work reading is supposed to do.
 
 Four lines of work appear:
 
@@ -45,7 +45,7 @@ Four lines of work appear:
 
 Reading with [[generative-ai|generative AI]] produces inconsistent comprehension results — gains in one study, no [[transfer-of-learning|knowledge transfer]] in another — and the AIR instrument was built on the hypothesis that the variance lies in why readers reach for the tool. Brann, Etgar and Sidi developed and validated a 21-item scale with four motives: Task-oriented, Feel-good, Translation, and Low-effort ([[air-scale-motivations-ai-reading-2026|Brann et al., 2026]]). Their evidence comes from 425 British higher-education students in the exploratory sample and 414 in the confirmatory one, with fit indices at CFI .95 and RMSEA .056. The distinction matters for practice: a reader using the tool to finish a task is in a different posture from one using it to avoid effort, and Low-effort is the motive the authors flag as the one to watch for shallow processing.
 
-That is a measurement result, not an outcome study, and the page keeps the distinction. What the knowledge base does not yet contain is a [[rct|controlled trial]] of a reading companion showing durable comprehension gains.
+That is a measurement result, not an outcome study, and the distinction matters. No [[rct|controlled trial]] of a reading companion yet shows durable comprehension gains.
 
 ## Assessing Reading
 
@@ -61,7 +61,7 @@ Two further studies widen the gap. Bird fuses transformer classification with co
 
 The practical consequence is that a grade-level score is a weak guarantee about any text, and a particularly weak guarantee about AI-written text.
 
-Target-audience perception is now measurable directly. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al., 2025]] collected a 3,954-annotation dataset from 193 German high-school students rating sentences from career-guidance study guides and Wikipedia, and found the readers disagreed with the formula: 72.8% of annotations were very easy or easy despite the corpus's low Flesch-Reading-Ease scores. SHAP analysis of a profile-based model showed reader traits driving that perception — language spoken at home the most influential person feature (0.09), ahead of gender (0.08) and self-estimated German skill (0.07) — so a grade-level score misses not only the text's processing demands but also whose reading experience it is measuring.
+Target-audience perception is now measurable directly. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al., 2025]] collected a 3,954-annotation dataset from 193 German high-school students rating sentences from career-guidance study guides and Wikipedia, and found the readers disagreed with the formula: 72.8% of annotations were very easy or easy despite the sample's low Flesch-Reading-Ease scores. SHAP analysis of a profile-based model showed reader traits driving that perception — language spoken at home the most influential person feature (0.09), ahead of gender (0.08) and self-estimated German skill (0.07) — so a grade-level score misses not only the text's processing demands but also whose reading experience it is measuring.
 
 ## Adapting and Generating Text
 
@@ -77,11 +77,11 @@ Simplification is the fourth variant, and its bottleneck is evaluation rather th
 
 Reading is also an access question. AIRRI renders assignment material as perturbed images to defeat screenshot-to-[[llm]] pipelines, and its authors report the readability cost honestly: stripe overlays were judged readable by all four design and typography experts interviewed, while extraction error reached 100% ([[airri-machine-resistant-reading-interface-2026|Airri et al., 2026]]). The trade-off between machine-readability and human readability is a design decision with an accessibility price.
 
-For learners with dyslexia, a [[meta-analysis-systematic-review|PRISMA]]-guided review of 72 studies from 2018 to 2024 finds AI used for detection, [[assistive-technology|assistive support]] and [[personalized-learning|personalized learning]], but with a fragmented evidence base and little experimental validation; generative AI is minimally represented ([[dabaghi-ai-dyslexia-education-review-2026|Dabaghi et al., 2026]]). Reading difficulty is where [[neurodiversity]] and [[accessibility]] meet the general reading agenda, and the page does not treat them as a separate topic.
+For learners with dyslexia, a [[meta-analysis-systematic-review|PRISMA]]-guided review of 72 studies from 2018 to 2024 finds AI used for detection, [[assistive-technology|assistive support]] and [[personalized-learning|personalized learning]], but with a fragmented evidence base and little experimental validation; generative AI is minimally represented ([[dabaghi-ai-dyslexia-education-review-2026|Dabaghi et al., 2026]]). Reading difficulty is where [[neurodiversity]] and [[accessibility]] meet the general reading agenda, not a separate topic.
 
 ## What the Evidence Does and Does Not Show
 
-The strand is measurement-rich and outcome-poor. There are validated instruments (AIR), validated difficulty models (CLARA, Bird), and a growing set of generation and simplification tools. There are very few controlled studies that connect a reading intervention to comprehension gains, and several of the assessment studies confound passage source with delivery or proctoring. Sample sizes are small: 53 students in the reading-assessment case, 24 in the tailored-readings study, 200 seventh-graders in the largest quasi-experiment. The knowledge base should be read as documenting a design space, not an established effect.
+The strand is measurement-rich and outcome-poor. There are validated instruments (AIR), validated difficulty models (CLARA, Bird), and a growing set of generation and simplification tools. There are very few controlled studies that connect a reading intervention to comprehension gains, and several of the assessment studies confound passage source with delivery or proctoring. Sample sizes are small: 53 students in the reading-assessment case, 24 in the tailored-readings study, 200 seventh-graders in the largest quasi-experiment. The evidence documents a design space, not an established effect.
 
 Early-elementary fluency is the exception so far: in one school, first and second graders who logged at least 10 minutes a week for 6 weeks outgained low-dosage peers (g = 0.56), a dosage contrast rather than a trial ([[burns-ai-tutor-reading-growth-2026|Burns and Morton (2026)]]).
 

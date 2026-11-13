@@ -5,7 +5,7 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 reviewed_by: [editor]
 ---
 
@@ -13,11 +13,11 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- A chart or dashboard can make data clear — but is simply *seeing* a visualization the same as understanding it? The page's [[research-methods-aied|research]] suggests how you interact with a visualization matters more than the chart itself. Recall a dashboard or graph you looked at but didn't really learn from. What was missing from the mere display?
+- A chart or dashboard can make data clear — but is simply *seeing* a visualization the same as understanding it? The [[research-methods-aied|research]] suggests how you interact with a visualization matters more than the chart itself. Recall a dashboard or graph you looked at but didn't really learn from. What was missing from the mere display?
 - Conventional learning dashboards follow a 'show data, hope for insight' model. The finding here is that learners who answer questions about their data *before* seeing the metrics reflect and calibrate better than those who passively view charts. Why might being forced to predict first change what you get out of seeing the actual data?
-- AI can now generate accurate visualizations of specialized content: after [[llm-training-and-fine-tuning|fine-tuning]] on nuclear concepts, a text-to-image model climbed from 12% to 78% on that domain. But the page also finds no model is uniformly competent. Where would you trust an AI-generated visual, and where would you insist on checking it against a human expert?
+- AI can now generate accurate visualizations of specialized content: after [[llm-training-and-fine-tuning|fine-tuning]] on nuclear concepts, a text-to-image model climbed from 12% to 78% on that domain. But no model is uniformly competent. Where would you trust an AI-generated visual, and where would you insist on checking it against a human expert?
 - Participants in one study found AI-generated data comics more engaging and comprehensible, yet many also flagged misinformation risk and information overload. How do you weigh the appeal of a compelling AI visual against its potential to mislead — and what would you verify before trusting or using it?
-- The page warns that a model's *confidence* is not its *reliability*: systems can sharply diverge on severity judgments while getting basic constructs right. If you relied on an AI tool to assess slides, essays, or data, how would you discover where its confidence hid a serious error?
+- A model's *confidence* is not its *reliability*: systems can sharply diverge on severity judgments while getting basic constructs right. If you relied on an AI tool to assess slides, essays, or data, how would you discover where its confidence hid a serious error?
 - One study found students spent most of their gaze on code despite elaborate visual scaffolds — visual aids simply didn't capture attention for everyone. What does that suggest about assuming a nice diagram or dashboard will automatically help all learners engage? What else besides visuals shapes how people actually use a tool?
 
 ## Introduction

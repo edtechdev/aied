@@ -1,7 +1,7 @@
 ---
 title: Embodied Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
@@ -23,7 +23,7 @@ reviewed_by: [editor]
 
 Embodied learning is closely related to [[active-learning]], [[experiential-learning]], and situated/[[constructivist]] theories. The key claim is that a physical, manipulable agent helps learners connect abstract ideas to concrete outcomes — a program that makes a robot move, or a role-play with a physical robot — in ways that pure screen-based interaction may not. Robotics is the clearest embodiment of AI in education, giving learners something to see, touch, and observe.
 
-## How embodied learning appears in the knowledge base's research
+## How embodied learning appears in the research
 
 - **Grounded programming:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] grounds [[cs-education|block programming]] in embodied robot execution, creating a tight loop of authoring, running, observing, and revising so learners see their code become behavior.
 - **Social-robotic interaction:** [[educational-robotics|Social robots]] used for [[storytelling-in-education|storytelling]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), role-play ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]), and sign language ([[pepper-robot-sign-language-lis-2025|Pepper]]) provide embodied social interaction that supports relational and [[social-emotional-learning|emotional]] learning.
@@ -35,7 +35,7 @@ Embodied learning is closely related to [[active-learning]], [[experiential-lear
 
 ## Embodied intelligence and the critique of disembodied AI
 
-A second, more theoretical strand of the knowledge base's embodiment research concerns the role of the *body* in AI-[[sociocultural-learning|mediated learning]] — not through physical robots, but through the question of whether [[ai-technologies|AI systems]] themselves are (or can be) embodied. This work challenges the dominance of symbolic, disembodied AI models built on abstract information processing:
+A second, more theoretical strand of embodiment research concerns the role of the *body* in AI-[[sociocultural-learning|mediated learning]] — not through physical robots, but through the question of whether [[ai-technologies|AI systems]] themselves are (or can be) embodied. This work challenges the dominance of symbolic, disembodied AI models built on abstract information processing:
 
 - **Embodied AI as a design principle.** The **E3-HOT framework** argues that to sustain learners' cognitive agency and [[critical-thinking|higher-order thinking]] (rather than encouraging [[cognitive-offloading|cognitive outsourcing]]), AI should be designed around *embodied intelligence* — situational embedding, embodied participation, and cognitive creation — within a virtual–real integrated learning environment.([[zhu-e3-hot-embodied-intelligence-sustainable-learning]])
 - **The limits of disembodied [[generative-ai|generative AI]].** Post-cognitivist scholarship argues that current GenAI systems lack proprioception, multimodal agency, and embodied practice, and advocates an "embodied AI" grounded in situationality, emergence, and sensorimotor coupling, proposing a perceptual–[[affective-computing|affective]] choreography for human–[[student-ai-interaction|AI interaction]].([[videla-embodied-ai-education-choreography]])

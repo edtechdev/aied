@@ -1,7 +1,7 @@
 ---
 title: "Belief to behavior: how AI self-efficacy shapes AI acceptance through AI literacy"
 published: "2026-10-30"
-created: "2026-11-03T10:40:00-05:00"
+created: "2026-11-03T05:54:36-05:00"
 updated: "2026-11-03T10:40:00-05:00"
 type: article
 sources: ['raw/papers/isbulan-ai-self-efficacy-acceptance-literacy-2026.md']

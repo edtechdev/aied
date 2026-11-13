@@ -1,6 +1,6 @@
 ---
 title: "Generative AI in Counselor Education: A Scoping Review of Applications, Ethics, and CACREP Competency Mapping (2015-2026)"
-created: "2026-11-10T22:15:00-05:00"
+created: "2026-11-10T19:39:31-05:00"
 updated: "2026-11-10T22:15:00-05:00"
 type: article
 sources: ['raw/papers/van-patten-freeman-rath-ai-counselor-education-scoping-2026.md']

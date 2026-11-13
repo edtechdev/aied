@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-11-12T21:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_resources: [context-aideatext]
 type: concept
 foundations: [ai-education, curriculum-design]
@@ -16,7 +16,7 @@ reviewed_by: [editor]
 
 - A knowledge graph captures not just concepts but their relationships — prerequisites, similarity, hierarchy. Why might knowing how concepts relate be more useful to an adaptive system than a flat list of skills?
 - How are prerequisite relationships in a domain like yours? Can you think of a topic where students routinely struggle because they're missing a foundational concept the graph would reveal?
-- The page describes using knowledge graphs to detect knowledge gaps — where learners are missing foundational concepts. How might surfacing that gap change what an AI tutor decides to teach next?
+- Knowledge graphs are used to detect knowledge gaps, where learners are missing foundational concepts. How might surfacing that gap change what an AI tutor decides to teach next?
 - Knowledge graphs can be built manually or automatically by LLMs from educational text. What are the risks of letting an AI construct the concept structure that a tutor will then reason over?
 - If knowledge graphs provide the domain structure that AI agents reason over, what happens to trust and accuracy when the graph itself contains an error or a biased relationship?
 - A knowledge graph is described as the structural backbone enabling fine-grained diagnosis and personalized paths. In your own [[teacher-role|teaching]] or design, what would you need a knowledge graph of your subject to capture — and what would it leave out?
@@ -27,7 +27,7 @@ Knowledge graphs provide the structural backbone for many intelligent education 
 
 ## How knowledge graphs are used in AIED
 
-Knowledge graphs are a recurring structural mechanism across the knowledge base's AIED [[research-methods-aied|research]], serving several distinct roles:
+Knowledge graphs are a recurring structural mechanism across AIED [[research-methods-aied|research]], serving several distinct roles:
 
 - **[[knowledge-tracing]] models** use concept graphs to propagate student proficiency estimates across related skills, improving prediction accuracy when data is sparse.
 - **[[student-modeling]] systems** leverage knowledge graphs to represent what learners know in a semantically meaningful way, enabling fine-grained diagnosis.
@@ -74,7 +74,7 @@ Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curr
 
 ## Common Misconceptions
 
-**"A knowledge graph is a concept map with better tooling."** The distinguishing claim is relational and computational: a graph is useful because prerequisites, similarity and hierarchy are explicit enough for an algorithm to traverse, not because it draws connected nodes. What follows from that is the operational question the page keeps returning to — which traversal or propagation algorithm runs over the graph — because that choice is where the instructional effect actually lives.
+**"A knowledge graph is a concept map with better tooling."** The distinguishing claim is relational and computational: a graph is useful because prerequisites, similarity and hierarchy are explicit enough for an algorithm to traverse, not because it draws connected nodes. The operational question that matters most is which traversal or propagation algorithm runs over the graph, because that choice is where the instructional effect actually lives.
 
 **"Having the graph is what improves outcomes."** The algorithm over the graph changes the outcome. In G4L, propagating mastery through an Evolving Knowledge Space Graph with Bayesian knowledge propagation produced **+24% measured knowledge** (0.717 → 0.887), against **+5%** for a Knowledge Space based comparison. Same general idea of a structured knowledge space, materially different result depending on the propagation method. Buying or building a graph is the beginning of the design problem, not its solution.
 

@@ -1,6 +1,6 @@
 ---
 title: "An LLM-Enhanced Multi-Agent Architecture for Conversation-Based Assessment"
-created: "2026-10-04T05:55:00-04:00"
+created: "2026-10-04T05:49:36-04:00"
 updated: "2026-10-16T14:32:42-04:00"
 type: article
 sources: ['raw/papers/llm-multi-agent-conversation-assessment-2025.md']

@@ -2,7 +2,7 @@
 connected_resources: [onmicro-ai]
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-11T11:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -17,10 +17,10 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- Think of a time someone 'helped' you with something you were learning, and the help did the work so well you learned less. Where's the line between support that lets you grow and support that replaces you? The page argues this is the central design question for AI tutors.
+- Think of a time someone 'helped' you with something you were learning, and the help did the work so well you learned less. Where's the line between support that lets you grow and support that replaces you? That is the central design question for AI tutors.
 - Scaffolding is rooted in the Zone of Proximal Development — enough support to enable progress, not so much that learning is bypassed. What does 'too much support' look like in an AI tutor, and can you detect it from the student's behavior alone?
 - A key finding: students often *prefer* the more directive AI tutor roles even though they *perform better* with collaborative peer and [[teacher-role]]-assistant roles. Does learner preference reliably track what's best for learning — and what does this divergence imply for letting students choose their own scaffolding?
-- Scaffolding that never fades creates dependency. The page notes automated scaffolds risk staying static instead of being withdrawn as competence grows. Why is 'fading' essential, and why might an AI system fail to do it if it isn't deliberately designed to?
+- Scaffolding that never fades creates dependency. Automated scaffolds are at risk of exactly that, staying in place as competence grows. Why is 'fading' essential, and why might an AI system fail to do it if it isn't deliberately designed to?
 - The design principle is 'scaffold, do not substitute.' Students themselves asked for AI that 'does not provide any solutions for you — you still learn as you have to find the correct answer yourself.' Does that match how you've experienced effective help, or have you preferred the shortcut even while knowing it cost you?
 - Set a goal before reading: pick a task you teach, and sketch what a hint looks like that preserves the learner's effort versus an answer that removes it. How will you know your hints are in the productive-struggle zone?
 

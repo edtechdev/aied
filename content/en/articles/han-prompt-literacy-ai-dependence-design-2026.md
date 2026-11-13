@@ -1,6 +1,6 @@
 ---
 title: "Learning engagement and creative self-beliefs in generative AI-supported design education: self-reported prompt literacy and dimensions of AI dependence"
-created: "2026-11-04T15:00:00-05:00"
+created: "2026-11-04T13:24:11-05:00"
 updated: "2026-11-04T15:00:00-05:00"
 type: article
 sources: ['raw/papers/han-prompt-literacy-ai-dependence-design-2026.md']

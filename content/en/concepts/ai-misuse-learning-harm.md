@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-12T21:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-AI misuse is distinct from AI use. Use describes employing AI as a complement to learning — [[feedback]], brainstorming, or revision help that keeps the learner's cognitive work in the loop. Misuse describes substitution: delegating to AI the very mental processes (drafting, recall, analysis, revision) that build durable understanding. The harm documented in the knowledge base's evidence base is not that misuse fails to help; it is that misuse actively degrades later, unassisted achievement.
+AI misuse is distinct from AI use. Use describes employing AI as a complement to learning — [[feedback]], brainstorming, or revision help that keeps the learner's cognitive work in the loop. Misuse describes substitution: delegating to AI the very mental processes (drafting, recall, analysis, revision) that build durable understanding. The documented harm is not that misuse fails to help; it is that misuse actively degrades later, unassisted achievement.
 
 Anticipated harm is itself documented: in Swedish survey and focus-group data, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] report the same fear from Swedish data: 51% of participants (n = 106) thought genAI use could stunt individual development, pointing to erosion of [[critical-thinking|critical thinking]], [[creativity]] and autonomy rather than to rule-breaking.
 
@@ -99,7 +99,7 @@ The gaming-the-system literature (hint abuse, systematic guessing) has a dialogu
 
 ## Common Misconceptions
 
-**"Students would notice if AI were harming their learning."** They do not, and this is the single most consequential fact on the page: **those in the harmed group reported no sense of having gained less.** [[self-report-measures|Self-report]] is therefore not a usable early-warning signal. The 48%-higher-practice / 17%-lower-exam pattern is invisible to the person experiencing it, which is why harm detection has to be measurement-based rather than testimony-based.
+**"Students would notice if AI were harming their learning."** They do not, and this is the single most consequential fact in the evidence: **those in the harmed group reported no sense of having gained less.** [[self-report-measures|Self-report]] is therefore not a usable early-warning signal. The 48%-higher-practice / 17%-lower-exam pattern is invisible to the person experiencing it, which is why harm detection has to be measurement-based rather than testimony-based.
 
 **"The risk is how much AI a student uses."** The risk is what the AI is substituted for. Misuse here means delegating the drafting, recall or analysis that builds durable understanding — substitution rather than complement, and a student can substitute heavily in one task and complement productively in the next. Volume of use is the wrong variable; the division of cognitive labor is the right one.
 

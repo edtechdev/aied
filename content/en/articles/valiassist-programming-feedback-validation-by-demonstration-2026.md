@@ -1,6 +1,6 @@
 ---
 title: "ValiAssist: Scaling LLM-generated Programming Feedback Validation by Demonstration"
-created: "2026-10-21T09:30:00-04:00"
+created: "2026-10-21T09:27:54-04:00"
 updated: "2026-10-21T09:30:00-04:00"
 type: article
 sources: ['raw/papers/valiassist-programming-feedback-validation-by-demonstration-2026.md']

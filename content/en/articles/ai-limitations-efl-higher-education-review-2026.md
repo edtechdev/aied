@@ -1,6 +1,6 @@
 ---
 title: "Technical and pedagogical limitations of artificial intelligence in undergraduate EFL higher education: a systematic review"
-created: "2026-09-30T12:00:00-04:00"
+created: "2026-09-30T11:43:40-04:00"
 updated: "2026-09-30T12:00:00-04:00"
 type: article
 sources: ['raw/papers/10.3389_feduc.2026.1948091.md']

@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills, context-aideatext]
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-12T10:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -21,7 +21,7 @@ reviewed_by: [editor]
 - Think of a time a teacher (or friend) answered your question with another question and it actually helped you think. What made it work, and when did it instead just feel frustrating or evasive?
 - The Socratic approach withholds direct answers to provoke 'productive struggle.' Do you believe struggle is necessary for deep learning, or is it sometimes just unnecessary friction — and how would you tell the difference?
 - An AI Socratic tutor must decide when to guide, when to hint, and when to give a direct answer, based on a student's real-time signals. How do you think a system (or a human) knows which move to make at a given moment?
-- The page notes a frustrated student may need a brief direct answer before returning to Socratic questioning. What do you think this implies about the limits of a one-size-fits-all question-only approach?
+- A question-only tutor can frustrate a student who needs a direct answer first. What do you think this implies about the limits of a one-size-fits-all question-only approach?
 - If a [[conversational-ai|chatbot]] that only asks questions can produce measurable reasoning gains, what might be lost compared to the original Socratic dialogue with a human mentor — and what might be gained?
 
 ## Introduction
@@ -42,7 +42,7 @@ Unlike direct-instruction AI tutors that give answers, Socratic AI tutors use qu
 
 The Socratic approach directly embodies the principle from [[llm-training-and-fine-tuning|EduQwen]]: **reward "guiding" over "answering."** However, real-time Socratic calibration is harder than paper-bench pedagogy: EduQwen optimizes for correct guiding on a multiple-choice [[benchmark]], whereas a live Socratic tutor must decide *when* to guide, *when* to hint, and *when* to answer — based on real-time student signals. [[affective-tutoring|Affective state]] is a critical moderator: a frustrated student may need a brief direct answer before returning to Socratic mode. A stricter variant removes the teaching entirely: an introductory-physics agent that only probes asks students to defend a correct prediction against one changed variable (cave detection) and keeps the message after a correct answer indistinguishable from the one after a wrong answer ([[socratic-probing-agent-physics-cave-detection-2026|Cho (2026)]]).
 
-Hint design has a documented form in a domain this page otherwise does not cover. In a second-language revision task with 58 university students at CEFR A1–B1, the design gave guided clues and required learners to infer the correction rather than receive it ([[lukesova-clue-before-correction-2026|Lukešová & Jennings, 2026]]). Reduced cognitive load and personalized revision paths were reported mainly for learners who already held enough prior knowledge to act on a clue, and feedback depth varied with how well the student prompted. Withholding the correction therefore has a proficiency floor, which is the calibration problem in a form a study can measure.
+Hint design has a documented form in a different domain. In a second-language revision task with 58 university students at CEFR A1–B1, the design gave guided clues and required learners to infer the correction rather than receive it ([[lukesova-clue-before-correction-2026|Lukešová & Jennings, 2026]]). Reduced cognitive load and personalized revision paths were reported mainly for learners who already held enough prior knowledge to act on a clue, and feedback depth varied with how well the student prompted. Withholding the correction therefore has a proficiency floor, which is the calibration problem in a form a study can measure.
 
 ## Evidence of effectiveness
 
@@ -78,7 +78,7 @@ In [[medical-education|clinical]]-interview training, [[ai-standardized-patient-
 
 Fidelity is not guaranteed by configuration: a purpose-configured ISLE facilitator restored the test-before-prediction order students had inverted, yet when pressed to "just tell us" which can weighed more it produced mass values no one had measured, crossing from questioning into fabricating data ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani (2026)]]).
 
-## Research in the knowledge base
+## Research evidence
 
 The **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** provides empirical evidence that the Socratic method can be operationalized through generative AI at scale, serving simultaneously as a [[teacher-role|teaching]] tool and data-collection instrument for [[learning-analytics]]. Unlike rule-based Socratic systems of the past, [[llm]]-based approaches can adapt question sequences dynamically based on student responses.
 

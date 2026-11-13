@@ -1,6 +1,6 @@
 ---
 title: "Pre-Service Teachers' Perceptions of AI Technological Support and School-Based Intelligent Environment Support: Model-Based Indirect Associations with Innovative Competence via AI Self-Efficacy and Self-Regulated Learning"
-created: "2026-09-30T14:30:00-04:00"
+created: "2026-09-30T12:23:02-04:00"
 updated: "2026-09-30T14:30:00-04:00"
 type: article
 sources: ['raw/papers/10.3390_bs16081378.md']

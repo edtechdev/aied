@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -28,7 +28,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Curriculum design addresses the *what* of education at the program level, complementing [[learning-design]] which addresses the *how* at the course level. The articles in this knowledge base explore how AI is reshaping curricula across disciplines — from software engineering to architecture to green education — and how educators are designing curricula that embed AI literacy without sacrificing disciplinary fundamentals.
+Curriculum design addresses the *what* of education at the program level, complementing [[learning-design]] which addresses the *how* at the course level. The research explores how AI is reshaping curricula across disciplines — from software engineering to architecture to green education — and how educators are designing curricula that embed AI literacy without sacrificing disciplinary fundamentals.
 
 ## Key research themes
 

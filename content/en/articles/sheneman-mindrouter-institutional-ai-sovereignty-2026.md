@@ -1,6 +1,6 @@
 ---
 title: "MindRouter: Open-Source LLM Inference Gateway for Institutional AI Sovereignty"
-created: "2026-11-12T12:20:00-05:00"
+created: "2026-11-12T07:36:15-05:00"
 updated: "2026-11-12T12:20:00-05:00"
 type: article
 evidence_context: educational

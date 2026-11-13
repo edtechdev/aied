@@ -1,7 +1,7 @@
 ---
 title: "AI literacy facets in creative higher education: associations with learning performance and academic well-being"
 published: "2026-10-30"
-created: "2026-11-02T09:24:00-05:00"
+created: "2026-11-02T09:12:23-05:00"
 updated: "2026-11-02T10:15:00-05:00"
 type: article
 sources: ['raw/papers/liang-ai-literacy-facets-creative-higher-education-2026.md']

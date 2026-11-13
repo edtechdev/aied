@@ -1,6 +1,6 @@
 ---
 title: "Training Empathetic Communication Skills in Medical Students With a Role-Prompted GPT-4o Chatbot"
-created: "2026-11-10T20:55:00-05:00"
+created: "2026-11-10T20:42:58-05:00"
 updated: "2026-11-10T20:55:00-05:00"
 type: article
 pedagogy: [professional-training]

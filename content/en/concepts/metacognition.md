@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-12T18:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -21,9 +21,9 @@ reviewed_by: [editor]
 
 - 'Metacognition' is thinking about your own thinking — knowing what you know, monitoring yourself, and adjusting your strategies. When you study or solve a problem, how aware are you in the moment of whether you actually understand versus just recognizing the material?
 - A striking finding: students who used AI essay assistance were often unable to recall quotes from their own essays, because they hadn't engaged with the content during production. When a tool produces the output, what practice is the learner losing — and is that practice important?
-- The page frames metacognition as both a target (can AI build it?) and a risk (can AI suppress it?). Could the same AI tool either strengthen or weaken a learner's metacognition depending on how it's designed or used? What determines which way it goes?
+- Metacognition is both a target (can AI build it?) and a risk (can AI suppress it?). Could the same AI tool either strengthen or weaken a learner's metacognition depending on how it's designed or used? What determines which way it goes?
 - Structured prompts that ask students to self-explain, evaluate strategies, or identify gaps preserve metacognitive demand, while AI that simply completes tasks displaces it. If you were designing an AI study tool, what would you build so that it invites reflection instead of replacing it?
-- The page finds that whether AI use is metacognitively rich depends on the learner's motivation and stance as much as on the technology. Have you ever used a tool in a shallow way and then realized you learned nothing — and what was different about times you used it deeply?
+- Metacognitive richness depends on the learner's motivation and stance as much as on the tool. Have you ever used a tool in a shallow way and then realized you learned nothing — and what was different about times you used it deeply?
 
 ## Introduction
 
@@ -157,7 +157,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - **Inside a metacognitive self-report instrument, awareness outpredicts the rest.** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai and Alshahri (2026)]] validated a 45-item measure of AI-supported STEM learning with 649 Saudi secondary students (CFI = 0.983, RMSEA = 0.019; subscale ω = 0.888–0.905) and used it to rank the components. The four dimensions explained 68% of the variance in self-regulated learning scores, with AI-based metacognitive awareness strongest (β = 0.38, p < 0.001), cognitive transfer and adaptability next (β = 0.29, p = 0.008), and creative and critical AI-STEM reasoning not significant (β = 0.14, p = 0.135). Awareness is the component that carries adaptive performance, the authors advise reporting subscales separately rather than one global score, and they reserve higher-order reasoning for reasoning-quality tasks; the measure is nonetheless self-report, so like the workshop study above it captures perceived capability rather than observed strategy use.
 - **The evaluator's own monitoring is metacognitive work too.** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl and Leuders (2026)]] argue that an AI-generated [[cognitive-diagnosis|diagnostic inference]] is not raw evidence but an interpretation already made, so teachers must integrate it with their own observations in a process they call *meta-diagnosis*, deciding deliberately whether to accept, reject, or modify it. That places a second metacognitive loop beside the learner's: not only how the student regulates thinking with AI, but how the teacher evaluates what the system claims about that thinking.
 
-Executive function is the neighbouring construct, and the corpus has one result that separates them cleanly. [[wilder-adhd-ai-interview-eye-tracking-2025|Wilder and Stratchan's]] study of 46 college students with ADHD found that a task measure of cognitive flexibility predicted interview performance, while the MSLQ self-regulation subscale did not (p = 0.312). Knowing how one regulates is not the same as being able to shift under load, and a page on [[executive-function|executive function]] holds the capacity side of that distinction. [[sidorkin-extended-executive-cognition-2025|Sidorkin]]'s framework takes the opposite direction, treating the allocation of effort across human and machine work as itself a metacognitive outcome.
+Executive function is the neighbouring construct, and one result separates them cleanly. [[wilder-adhd-ai-interview-eye-tracking-2025|Wilder and Stratchan's]] study of 46 college students with ADHD found that a task measure of cognitive flexibility predicted interview performance, while the MSLQ self-regulation subscale did not (p = 0.312). Knowing how one regulates is not the same as being able to shift under load, and a page on [[executive-function|executive function]] holds the capacity side of that distinction. [[sidorkin-extended-executive-cognition-2025|Sidorkin]]'s framework takes the opposite direction, treating the allocation of effort across human and machine work as itself a metacognitive outcome.
 
 ## Common Misconceptions
 

@@ -1,6 +1,6 @@
 ---
 title: "AI-Supported Grading and Rubric Refinement for Free Response Questions"
-created: "2026-11-10T20:35:00-05:00"
+created: "2026-11-10T19:10:44-05:00"
 updated: "2026-11-10T20:35:00-05:00"
 type: article
 sources: ['raw/papers/zhao-ai-supported-grading-rubric-refinement-2026.md']

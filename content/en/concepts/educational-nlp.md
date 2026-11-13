@@ -1,7 +1,7 @@
 ---
 title: Educational NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
@@ -24,7 +24,7 @@ reviewed_by: [editor]
 
 Natural language processing in education applies computational methods to the language of teaching and learning — student essays, responses, discussion posts, feedback, and instructional text. [[llm|LLMs]] have dramatically expanded what can be analyzed automatically, enabling fine-grained understanding of student language that was previously impractical at scale.
 
-## Applications documented in the knowledge base
+## Applications documented in the research
 
 - **Analysis of student language.** [[llm-sentiment-analysis-education-research]] applies LLM-based sentiment analysis to educational research, extracting emotional and evaluative signals from student text at scale, feeding [[learning-analytics]] and [[affective-computing]].
 - **Prediction and measurement.** [[llm-item-difficulty-prediction]] and [[vocabulary-difficulty-prediction]] use language models to estimate item and text difficulty — core inputs to [[educational-measurement]], [[adaptive-learning]], and [[item-response-theory]] models.
@@ -47,7 +47,7 @@ Natural language processing in education applies computational methods to the la
 - **Concept tagging at scale.** [[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]] split knowledge-concept tagging into a Select–Reason–Judge pipeline — a small model shortlists candidate concepts, the LLM reasons over the shortlist, then judges — lifting tagging accuracy on three benchmarks by shrinking the model's decision space.
 - **Handwritten answer sheets resist existing parsers.** Multi-line derivations, interleaved prose and formulas, hand-drawn tables, and noise from strikethroughs and erasures escape printed-document and isolated-expression benchmarks, so the HANS dataset of real eighth-grade mathematics sheets — 5,213 answer images from 745 students across 18 problem types — annotates that noise and backs a noise-suppression model that improves recognition ([[hans-handwritten-answer-sheet-parsing-2026|Wu et al. (2026)]]).
 
-- **Entity fidelity of ASR transcripts is a separate question from lexical accuracy.** Benchmarking five speech recognition systems against a human reference transcript, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]] report the knowledge base's first ASR/NER entity-fidelity evidence: word error rates spanned 2.43% (TurboScribe) to 15.32% (Vosk), while seven-category gold-entity type coding saw GPT-5.5 reach accuracy 0.805 (κ = .726) versus spaCy's 0.634 (κ = .488).
+- **Entity fidelity of ASR transcripts is a separate question from lexical accuracy.** Benchmarking five speech recognition systems against a human reference transcript, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]] report the first ASR/NER entity-fidelity evidence in this literature. Word error rates spanned 2.43% (TurboScribe) to 15.32% (Vosk), while seven-category gold-entity type coding saw GPT-5.5 reach accuracy 0.805 (κ = .726) versus spaCy's 0.634 (κ = .488).
 Aggregate WER alone cannot certify that the entity structure survived transcription.
 
 ## Connection to tutoring and measurement

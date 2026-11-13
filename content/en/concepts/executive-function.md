@@ -1,6 +1,6 @@
 ---
 title: Executive Function
-created: "2026-11-12T18:40:00-05:00"
+created: "2026-11-12T18:35:44-05:00"
 updated: "2026-11-13T01:30:00-05:00"
 type: concept
 research_method: [literature review]

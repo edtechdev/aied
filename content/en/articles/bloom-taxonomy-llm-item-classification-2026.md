@@ -1,6 +1,6 @@
 ---
 title: "Do Cognitive Classifications Predict Empirical Item Behaviour? Aligning Bloom's Taxonomy with the Psychometric Properties of National Centralized Mathematics Items across Grades 4–12"
-created: "2026-10-14T09:30:00-04:00"
+created: "2026-10-14T09:27:34-04:00"
 updated: "2026-10-14T09:30:00-04:00"
 type: article
 sources: ['raw/papers/bloom-taxonomy-llm-item-classification-2026.md']

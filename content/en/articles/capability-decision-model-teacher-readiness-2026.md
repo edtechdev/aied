@@ -1,6 +1,6 @@
 ---
 title: "A Capability–Decision Model of teacher readiness for AI integration in teaching"
-created: "2026-09-30T14:20:00-04:00"
+created: "2026-09-30T11:43:40-04:00"
 updated: "2026-09-30T14:20:00-04:00"
 type: article
 sources: ['raw/papers/10.3389_feduc.2026.1897632.md']

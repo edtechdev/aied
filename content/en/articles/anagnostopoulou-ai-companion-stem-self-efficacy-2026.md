@@ -1,6 +1,6 @@
 ---
 title: "Self-efficacy, engagement, attitudes, and perceived learning in AI-assisted STEM education"
-created: "2026-11-09T09:35:00-05:00"
+created: "2026-11-09T09:21:50-05:00"
 updated: "2026-11-09T10:20:00-05:00"
 type: article
 page_kind: [evaluation]

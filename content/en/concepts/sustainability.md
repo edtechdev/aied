@@ -1,7 +1,7 @@
 ---
 title: Sustainability
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-11-10T21:15:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -15,9 +15,9 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- The page distinguishes two pathways: 'AI for sustainability' (using AI to advance sustainability outcomes) and 'sustainable AI' (reducing AI's own environmental and ethical footprint). Can you think of a way an AI tool could advance one goal while undermining the other?
+- The field separates two pathways: 'AI for sustainability' and 'sustainable AI.' Can you think of a way an AI tool could advance one goal while undermining the other?
 - Training and running [[llm|large language models]] carries a real carbon and water footprint. When an institution promotes sustainability as a value while deploying energy-intensive AI, what tensions arise — and who should weigh them?
-- Before you read on, how would you define 'sustainable education'? The page treats it as a value-based, human-centered project distinct from using education as an instrument for sustainability — how do those differ?
+- Before you read on, how would you define 'sustainable education'? It is treated as a value-based, human-centered project distinct from using education as an instrument for sustainability — how do those differ?
 - If education is expected to build learners' 'sustainability consciousness,' what role might AI play in that — and could AI integration in the curriculum teach sustainability while its own footprint quietly contradicts the lesson?
 - What would it mean for an educational institution to be genuinely sustainable in its AI use, and which of its decisions (procurement, deployment, teaching) do you think matter most?
 
@@ -29,7 +29,7 @@ The environmental pathway has a documented gap: [[gillette-partnership-ethics-ge
 
 ## The two-part taxonomy
 
-The knowledge base's coverage, anchored by [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]], organizes the field into two interconnected yet distinct pathways:
+The scoping review by [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]] organizes the field into two interconnected yet distinct pathways:
 
 - **AI for sustainability** — using AI to advance sustainability outcomes. In education this includes AI for energy management, climate monitoring, green campus programs, and AI-integrated curricula that build learners' sustainability consciousness (e.g. the AI-SEE framework for sustainable [[engineering-education|engineering education]]). It is grounded in the global agenda of Education for Sustainable Development.
 - **Sustainable AI** — reducing the direct environmental and ethical impacts of AI itself. This covers the carbon and water footprint of large language models, energy-efficient and on-premise deployment, and the ethical and governance frameworks needed to ensure AI's use in education is itself responsible and sustainable.
@@ -56,7 +56,7 @@ A related strand frames sustainability not only as an environmental or instituti
 
 ## Connections to other concepts
 
-Sustainability and AI in education sits at the intersection of [[ethics]], [[governance]], [[ai-education]], and the environmental/energy sciences. It draws on [[teacher-education]] and [[teacher-role]] for capacity-building, on [[learning-design]] for pedagogy, and connects to the knowledge base's treatment of [[cognitive-offloading]] and [[critical-thinking]] through the "sustainable learning" lens. Because both pathways are cross-cutting, sustainability is a foundational theme that appears across [[higher-ed|higher education]], K-12, and professional contexts.
+Sustainability and AI in education sits at the intersection of [[ethics]], [[governance]], [[ai-education]], and the environmental/energy sciences. It draws on [[teacher-education]] and [[teacher-role]] for capacity-building, on [[learning-design]] for pedagogy, and connects [[cognitive-offloading]] and [[critical-thinking]] through the "sustainable learning" lens. Because both pathways are cross-cutting, sustainability is a foundational theme that appears across [[higher-ed|higher education]], K-12, and professional contexts.
 
 ## Common Misconceptions
 

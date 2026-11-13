@@ -1,6 +1,6 @@
 ---
 title: "Ways generative AI can support and threaten learning in K-20 US education"
-created: "2026-10-07T15:10:00-04:00"
+created: "2026-10-07T13:49:29-04:00"
 updated: "2026-10-09T00:49:28-04:00"
 type: article
 foundations: [framing-ai-use-for-students, cognitive-offloading, critical-thinking, learning-design, interpreting-and-applying-aied-research, limitations-in-aied-research]

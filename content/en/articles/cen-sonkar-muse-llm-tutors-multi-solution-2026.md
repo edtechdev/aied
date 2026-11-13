@@ -1,6 +1,6 @@
 ---
 title: "MUSE: Revealing Responsiveness Gaps of LLM Tutors on Multiple-Solution Programming Problems"
-created: "2026-10-28T12:00:00-04:00"
+created: "2026-10-28T09:21:54-04:00"
 updated: "2026-10-28T12:00:00-04:00"
 type: article
 authors: ["Cen, S.", "Sonkar, S."]

@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T23:00:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -13,19 +13,19 @@ connected_resources: [teacher-dev]
 reviewed_by: [editor]
 ---
 
-> **Math Education** — the study of how students learn mathematics and how AI can support mathematics teaching, spanning affective tutoring, cognitive diagnosis from handwritten work, [[desirable-difficulties|productive struggle]] evaluation, help-seeking behavior, teacher-AI collaboration for visual generation, and [[student-ai-interaction|student-AI interaction]] trajectories. Math education is the most active [[discipline-specific-aied|domain-specific]] [[research-methods-aied|research]] area in this knowledge base, with 32 articles that collectively explore how AI can support — and sometimes undermine — mathematical learning from elementary fractions through higher education.
+> **Math Education** — the study of how students learn mathematics and how AI can support mathematics teaching, spanning affective tutoring, cognitive diagnosis from handwritten work, [[desirable-difficulties|productive struggle]] evaluation, help-seeking behavior, teacher-AI collaboration for visual generation, and [[student-ai-interaction|student-AI interaction]] trajectories. Math education is the most active [[discipline-specific-aied|domain-specific]] [[research-methods-aied|research]] area in this literature, with 32 articles that collectively explore how AI can support — and sometimes undermine — mathematical learning from elementary fractions through higher education.
 
 ## Questions to Consider
 
 - Math problems have clear right answers yet require rich reasoning, which is why math is a favored testbed for AI tutoring. When you're stuck on a math problem, what kind of help actually helps you learn — an answer, a hint, or a question — and which is the AI likely to default to?
 - Research finds AI tutors often default to over-helpfulness, rarely pushing for rigor even when students are ready. If you're designing a tutor, how do you decide when to withhold help to preserve the 'productive struggle' that builds understanding?
-- The page shows students who request hints too early or skim them superficially tend to learn less. Have you ever reached for a hint out of impatience rather than genuine effort? What does that reveal about how AI support can undermine rather than support learning?
+- Students who request hints too early or skim them superficially tend to learn less. Have you ever reached for a hint out of impatience rather than genuine effort? What does that reveal about how AI support can undermine rather than support learning?
 - AI cognitive-diagnosis systems sometimes hallucinate evidence and over-attribute mistakes, and even strong models underperform when reading students' actual handwritten work. How confident would you be in a tutor that diagnoses what you got wrong from your scratch work?
 - LLMs flip their answers across mathematically equivalent problem formulations — the same problem presented differently changes the result. What does this say about using AI to score or diagnose math understanding?
 
 ## Introduction
 
-Mathematics education has become a primary domain for [[ai-education|AI in education]] research because math problems have clear right answers yet require rich reasoning — making them ideal for studying tutoring effectiveness, assessment validity, and how AI tools interact with student cognition and affect. The articles in this knowledge base reveal both the promise of AI math tutors and persistent challenges: over-scaffolding that undermines productive struggle, hallucination in cognitive diagnosis, and the difficulty of balancing AI assistance with genuine learning.
+Mathematics education has become a primary domain for [[ai-education|AI in education]] research because math problems have clear right answers yet require rich reasoning — making them ideal for studying tutoring effectiveness, assessment validity, and how AI tools interact with student cognition and affect. The research reveals both the promise of AI math tutors and persistent challenges: over-scaffolding that undermines productive struggle, hallucination in cognitive diagnosis, and the difficulty of balancing AI assistance with genuine learning.
 
 ### Key research themes
 
@@ -56,7 +56,7 @@ Pooled across subject domains, GenAI's effect on learning motivation was largest
 
 Classroom AI tools also create orchestration work the older typology does not name: observing six high-school mathematics lessons found teachers monitoring [[visualization|dashboards]], correcting the AI's wrong [[feedback]], and mediating its output for the class, with content and [[ethics|ethical]] judgment most visible when fixing an AI error ([[teachers-instrumental-orchestration-ai-math-2026|Noh & Kim, 2026]]).
 
-The knowledge base's only field-level synthesis of this domain is a 2021–2025 PRISMA review of 42 studies screened from 922 records (Cohen's kappa = 0.88), and it adds a category the page's clusters otherwise lack: teacher-facing automation, where MATH41 supports rapid production of mathematics tasks for learners at different levels. The hybrid model CognifyNet then analyses students' activity patterns so educators can detect emerging difficulties early. The same review locates the field's blind spot — with Education at 60% and [[cs-education|Computer Science]] at 28% of study domains, only one study fell in Psychology, leaving emotional impact, trust and ethics comparatively underexplored — and insists that technical capability should not be equated with demonstrated classroom effectiveness. ([[ai-mathematics-education-prisma-review-2026]])
+The only field-level synthesis of this domain is a 2021–2025 PRISMA review of 42 studies screened from 922 records (Cohen's kappa = 0.88), and it adds a category the other clusters otherwise lack: teacher-facing automation, where MATH41 supports rapid production of mathematics tasks for learners at different levels. The hybrid model CognifyNet then analyses students' activity patterns so educators can detect emerging difficulties early. The same review locates the field's blind spot — with Education at 60% and [[cs-education|Computer Science]] at 28% of study domains, only one study fell in Psychology, leaving emotional impact, trust and ethics comparatively underexplored — and insists that technical capability should not be equated with demonstrated classroom effectiveness. ([[ai-mathematics-education-prisma-review-2026]])
 
 **Inclusion is a design property, not a byproduct of capability.** A review of 38 sources pairs [[universal-design-for-learning|UDL]] with [[samr-model|SAMR]] and finds that AI can redefine a mathematics task while leaving it inaccessible to students whose language, device, or connectivity does not fit ([[jita-ai-mathematics-classrooms-inclusion-2026|Jita, Jita & Omoniyi, 2026]]).
 

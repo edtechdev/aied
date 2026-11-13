@@ -1,6 +1,6 @@
 ---
 title: "Service-Oriented Architecture for an On-Premises AI Gateway Without an On-Premises Cloud"
-created: "2026-11-12T13:10:00-05:00"
+created: "2026-11-12T07:36:15-05:00"
 updated: "2026-11-12T13:10:00-05:00"
 type: article
 evidence_context: educational

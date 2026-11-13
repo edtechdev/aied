@@ -1,7 +1,7 @@
 ---
 title: Institutional AI Infrastructure
-created: "2026-11-12T12:35:00-05:00"
-updated: "2026-11-13T02:25:00-05:00"
+created: "2026-11-12T07:36:15-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 connected_resources: [mindrouter, amplify-genai]
 technology: [llm, generative-ai, open-source, edtech-platform]
@@ -25,14 +25,14 @@ ai_assist:
 
 - Where does the model actually run in your institution, and can anyone name the person who could answer that without checking?
 - Which of the six adoption shapes below are you already in, and which one did you think you were in?
-- If ninety percent of usage came from ten percent of users, would a per-seat license or a metered gateway serve your budget better — and do you know which shape your usage has?
+- If ninety percent of usage came from ten percent of users, would a per-seat license or a metered gateway serve your budget better, and do you know which shape your usage has?
 - A policy document says requests must not leave the jurisdiction. What in your stack enforces that, rather than asking people to remember it?
 - Who is accountable when a course-articulation recommendation is wrong, and does your infrastructure record enough to answer that later?
 - For a primary school, what changes when the model is small and runs in the building rather than frontier-scale and remote?
 
 ## Introduction
 
-Institutions spent the first years of [[generative-ai|generative AI]] buying access: a [[conversational-ai|chatbot]] license here, a writing assistant there, each with its own terms and its own data path. The result is a portfolio nobody can describe in one sentence, and a set of questions — where did that prompt go, who approved this model, what did we spend — that no single office can answer.
+Institutions spent the first years of [[generative-ai|generative AI]] buying access: a [[conversational-ai|chatbot]] license here, a writing assistant there, each with its own terms and its own data path. The result is a portfolio nobody can describe in one sentence, and a set of questions (where did that prompt go, who approved this model, what did we spend) that no single office can answer.
 
 Treating AI as infrastructure is the response. It means a shared serving layer, a gateway that applies the institution's rules to every request, and enough telemetry to see cost, load and failure. The claim in the literature is not that this is cheaper. It is that it makes the institution the party that decides, which is a different kind of claim and a harder one to test.
 
@@ -62,7 +62,7 @@ Three implementations now describe the same architectural move with unusual cons
 
 [[huijts-suilen-institutional-ai-sovereignty-gateway-2025|Huijts and Suilen]] at Fontys ICT separate a ChatGPT-style frontend tied to institutional identity, a routing core that enforces budgets and regional constraints, and a provider layer of local and commercial models. Six months and 300 users later, a \$500 monthly cap had never been breached, and every session opened with a model card naming capabilities, hosting region, cost and alternatives.
 
-[[sheneman-mindrouter-institutional-ai-sovereignty-2026|MindRouter]] pushes the same idea into scheduling. Requests are weighted by role — [[administrator]] 10, faculty 5, staff 2, student 1 — through Weighted Deficit Round Robin, and backend selection adds soft scores for latency, load and administrator preference. The gateway keeps the audit log, and it meters energy as well as tokens.
+[[sheneman-mindrouter-institutional-ai-sovereignty-2026|MindRouter]] pushes the same idea into scheduling. Requests are weighted by role ([[administrator]] 10, faculty 5, staff 2, student 1) through Weighted Deficit Round Robin, and backend selection adds soft scores for latency, load and administrator preference. The gateway keeps the audit log, and it meters energy as well as tokens.
 
 [[rahaman-soa-on-prem-ai-gateway-2026|SPIN at Georgia Tech]] makes the split explicit at the API boundary: LiteLLM and PostgreSQL on a CPU-only virtual machine, vLLM and Triton on GPU nodes inside Slurm, with backend host, port and key resolved from the database at request time. Replacing a model becomes a database update invisible to clients.
 
@@ -102,7 +102,7 @@ The adoption finding is the one infrastructure planners should keep. In a 2×2 e
 
 The recurring theme across implementations is that cost and latency become visible only when someone instruments them. Purdue's \$100,000 hardware figure is a capital number with an unstated staffing cost. SPIN's gateway benchmark bounds proxy overhead and says nothing about end-to-end latency. [[sheneman-mindrouter-institutional-ai-sovereignty-2026|MindRouter's]] energy accounting reports about 9.4 kW normal draw against a 14.1 kW observed peak and a 22.1 kW theoretical maximum, and 872,997,430 tokens over a 17-day window imply \$82,843 to \$251,806 in annual savings against commercial equivalents at the paper's rates.
 
-District-scale hosted platforms report the same kind of arithmetic: PSD401 AI Studio claims 67–90% lower per-token cost than commercial alternatives. None of these numbers is comparable across institutions without the same denominator. What is comparable is the practice of measuring at all.
+District-scale hosted platforms report the same kind of arithmetic: PSD401 AI Studio claims 67 to 90% lower per-token cost than commercial alternatives. None of these numbers is comparable across institutions without the same denominator. What is comparable is the practice of measuring at all.
 
 ## Sovereignty has an equity dimension
 

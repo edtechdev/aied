@@ -6,16 +6,16 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_resources: [teacher-dev]
 reviewed_by: [editor]
 ---
 
-> **[[science-education|Science education]]** — the study and practice of how students learn science and how to teach it, now being reshaped by generative AI (LLMs, simulations, virtual labs, and AI grading) across [[physics-education|physics]], chemistry, and [[biology-education|biology]]. The science-education articles in this knowledge base reveal a field negotiating a core tension: AI demonstrably supports inquiry, misconception correction, and assessment at scale, yet its value depends on instructional design, and it carries real risks of [[cognitive-offloading|over-reliance]], hallucination, and dehumanized, profit-driven learning.
+> **[[science-education|Science education]]** — the study and practice of how students learn science and how to teach it, now being reshaped by generative AI (LLMs, simulations, virtual labs, and AI grading) across [[physics-education|physics]], chemistry, and [[biology-education|biology]]. The science-education literature reveals a field negotiating a core tension: AI demonstrably supports inquiry, misconception correction, and assessment at scale, yet its value depends on instructional design, and it carries real risks of [[cognitive-offloading|over-reliance]], hallucination, and dehumanized, profit-driven learning.
 
 ## Questions to Consider
 
-- The page opens with a tension: AI demonstrably supports inquiry and misconception correction at scale, yet its value depends entirely on instructional design. Before you read, when has a tool you used in science teaching seemed powerful yet pedagogically hollow — and what made the difference?
+- A core tension runs through the evidence: AI demonstrably supports inquiry and misconception correction at scale, yet its value depends entirely on instructional design. Before you read, when has a tool you used in science teaching seemed powerful yet pedagogically hollow — and what made the difference?
 - An AI-facilitated physics inquiry 'invented' mass values that no one had measured when students pressured it. What does this incident reveal about treating AI outputs as authoritative in science, and how should students be trained to treat a confident-sounding answer?
 - Research suggests AI may currently add more value as a scalable content generator than as an interactive tutor — in one study, well-crafted conceptual-change texts (expert or AI-made) beat a prompted AI dialogue. Does that surprise you, and what does it suggest about where the real pedagogical payoff of AI in science lies right now?
 - AI graded 10,364 handwritten physics assessments with high agreement with human graders, yet multimodal models still show gaps on complex reasoning and diagram generation. What is it about 'authentic, representation-heavy' science work that might resist automated assessment?

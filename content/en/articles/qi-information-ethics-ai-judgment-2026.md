@@ -1,6 +1,6 @@
 ---
 title: "Information ethics education and artificial intelligence ethical judgment among university students"
-created: "2026-11-04T12:00:00-05:00"
+created: "2026-11-04T09:20:30-05:00"
 updated: "2026-11-04T12:00:00-05:00"
 type: article
 ethics: [ethics]

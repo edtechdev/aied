@@ -1,7 +1,7 @@
 ---
 title: "What Competencies Do Faculty Need in Regard to AI?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-12T06:25:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
@@ -38,7 +38,7 @@ The bottom line: prompt technique is the smallest part of this. Faculty need to 
 
 ## Define the competency before you book the room
 
-The knowledge base's [[ai-literacy|AI Literacy]] synthesis identifies four dimensions, and they are a useful agenda because each one needs a different kind of session:
+The [[ai-literacy|AI Literacy]] synthesis identifies four dimensions, and they are a useful agenda because each one needs a different kind of session:
 
 - **Foundational understanding** of AI capabilities and limitations.
 - **Practical competence** using AI tools.

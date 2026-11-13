@@ -1,6 +1,6 @@
 ---
 title: "Generative AI as an interactive learning environment in early childhood: preschool children's emerging AI literacy as socially distributed interpretive work in collaborative storytelling"
-created: "2026-11-11T09:48:00-05:00"
+created: "2026-11-11T09:39:50-05:00"
 updated: "2026-11-11T09:48:00-05:00"
 type: article
 evidence_context: educational

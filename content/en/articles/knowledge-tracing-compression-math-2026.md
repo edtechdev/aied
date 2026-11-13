@@ -1,6 +1,6 @@
 ---
 title: "Compressing student history in mathematics knowledge tracing"
-created: "2026-10-14T09:30:00-04:00"
+created: "2026-10-14T09:27:34-04:00"
 updated: "2026-10-14T09:30:00-04:00"
 type: article
 sources: ['raw/papers/knowledge-tracing-compression-math-2026.md']

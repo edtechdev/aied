@@ -1,6 +1,6 @@
 ---
 title: "The relationship between perceived AI replacement threat and employment anxiety among English-major undergraduates: the mediating role of career insecurity and the moderating role of career decision-making self-efficacy"
-created: "2026-10-28T12:00:00-04:00"
+created: "2026-10-28T09:21:54-04:00"
 updated: "2026-10-28T12:00:00-04:00"
 type: article
 authors: ["Zhang, S.", "Zheng, H."]

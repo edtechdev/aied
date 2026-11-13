@@ -1,6 +1,6 @@
 ---
 title: "Explainable AI for education: Enhancing essay scoring via rubric-aligned chain-of-thought prompting"
-created: "2026-11-10T20:40:00-05:00"
+created: "2026-11-10T19:10:44-05:00"
 updated: "2026-11-10T20:40:00-05:00"
 type: article
 sources: ['raw/papers/xu-explainable-ai-essay-scoring-cot-2026.md']

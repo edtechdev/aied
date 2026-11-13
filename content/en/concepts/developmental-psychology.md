@@ -1,7 +1,7 @@
 ---
 title: Developmental Psychology
 created: "2026-11-12T14:20:00-05:00"
-updated: "2026-11-13T02:10:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -19,7 +19,7 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- Two learners use the same chatbot for the same task. What would developmental psychology have you check before calling the interaction appropriate — age alone, or something more specific?
+- Two learners use the same chatbot for the same task. What would developmental psychology have you check before calling the interaction appropriate: age alone, or something more specific?
 - "Age-appropriate" is used constantly in AI guidance. What evidence would you need before accepting that label, and what does it usually rest on instead?
 - Executive function, [[metacognition]] and [[self-regulated-learning|self-regulation]] develop unevenly. If a tool regulates for the learner, which capacity is supported and which displaced?
 - Most studies here measure learners once. What can a single measurement say about development, and what can it not?
@@ -28,15 +28,15 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Developmental psychology sits underneath several pages in this corpus without being any of them. [[cognitive-psychology]] explains the mechanisms — working memory, load, bias, retrieval — but says nothing about how those mechanisms change with age. [[early-childhood-elementary-ai-education]] is a level page: it covers preschool and primary schooling as settings, and its scope note says explicitly that its concerns are developmentally specific without providing the developmental account. [[parents-and-families]] covers the home as a context. What none of them does is treat development itself as the explanatory frame: the reason a design that suits one age band misfires in another, and the reason claims about long-term effects on a developing mind are so hard to make.
+Developmental psychology sits underneath several neighboring concepts without being any of them. [[cognitive-psychology]] explains the mechanisms (working memory, load, bias, retrieval) but says nothing about how those mechanisms change with age. [[early-childhood-elementary-ai-education]] is a level page: it covers preschool and primary schooling as settings, and its scope note says explicitly that its concerns are developmentally specific without providing the developmental account. [[parents-and-families]] covers the home as a context. What none of them does is treat development itself as the explanatory frame: the reason a design that suits one age band misfires in another, and the reason claims about long-term effects on a developing mind are so hard to make.
 
-That frame matters more in AI education than in most fields, because AI tools are typically evaluated on adults and then deployed downward. A chatbot tested with undergraduates reaches a 12-year-old through a school license; a story-generation app designed for early readers reaches classrooms; AI toys enter play before anyone has asked what they do to play. The corpus's reviews keep arriving at the same conclusion from different directions: the developmental evidence is thin, the mechanisms are plausible, and the guidance is being written ahead of the research.
+That frame matters more in AI education than in most fields, because AI tools are typically evaluated on adults and then deployed downward. A chatbot tested with undergraduates reaches a 12-year-old through a school license; a story-generation app designed for early readers reaches classrooms; AI toys enter play before anyone has asked what they do to play. The reviews keep arriving at the same conclusion from different directions: the developmental evidence is thin, the mechanisms are plausible, and the guidance is being written ahead of the research.
 
 ## Stages and capacities as design constraints
 
 The most concrete use of developmental psychology here is as a constraint on design, not a label on learners. CLARA, a system built at the University of Auckland, refuses to predict a child's age directly. It decomposes a story into cognitive, language and social-emotional demands using a 122-label developmental taxonomy, then aggregates the activated labels into a developmental-stage estimate. The design choice is the argument: what makes a text suitable is not a number but the specific demands it places on specific capacities.
 
-Age-tiered resources make the same point from the curriculum side. Taiwan's AI Learning Application Guidebook was built in two editions — one for learners aged 9 to 12 with scaffolded, platform-based, non-generative activities, and an advanced edition for 13 to 18 with authentic applications, ethical reasoning and supervised generative AI use. The tiering is developmental in substance, not just in difficulty: the younger edition avoids generative tools rather than simplifying them.
+Age-tiered resources make the same point from the curriculum side. Taiwan's AI Learning Application Guidebook was built in two editions: one for learners aged 9 to 12 with scaffolded, platform-based, non-generative activities, and an advanced edition for 13 to 18 with authentic applications, ethical reasoning and supervised generative AI use. The tiering is developmental in substance, not just in difficulty: the younger edition avoids generative tools rather than simplifying them.
 
 The risk in all such schemes is that the bands become coarse proxies. A five-year-old and a fifteen-year-old differ in far more than the distance between two age labels, and a single band can hold children whose capacities diverge by years.
 
@@ -48,7 +48,7 @@ Where the evidence gets specific about mechanism, it usually lands on executive 
 
 Adolescence gets its own treatment because the capacities in question are social as much as cognitive. Hu and colleagues' survey of 2,023 adolescents in the United States and Hong Kong sorts them by what they talk to chatbots about rather than how much: an instrumental orientation toward problem-solving and information, a self-disclosure orientation centered on feelings and relationships, and a third group reporting neither. The developmental reading is that the same technology meets a period in which peer relationships and identity work are the central tasks, so a tool that offers unlimited, non-judgemental disclosure is not a neutral study aid.
 
-Fu and Zhao's theoretical paper extends this into a construct — "artificial intelligence connectedness" — defined as a perceived bond that is psychologically real yet ethically asymmetric, because the machine can simulate reciprocity without any capacity for care. It reports no data, and it says so; its value is the warning that a felt relationship is not evidence of a developmental benefit.
+Fu and Zhao's theoretical paper extends this into a construct, "artificial intelligence connectedness", defined as a perceived bond that is psychologically real yet ethically asymmetric, because the machine can simulate reciprocity without any capacity for care. It reports no data, and it says so; its value is the warning that a felt relationship is not evidence of a developmental benefit.
 
 ## Play as a developmental medium
 
@@ -70,7 +70,7 @@ Support staff and families can watch what an AI toy does to play. Watch who supp
 
 Three limits recur across the studies reviewed here.
 
-The first is design. Most studies are cross-sectional surveys or small experiments, measured once. They can show that age groups differ; they cannot show that AI changed a developmental trajectory. Niu and colleagues' scoping review of generative AI and children's creative thinking screened 6,401 records and retained 24 evidence sources — a small base for a large claim, and the review reports it as such.
+The first is design. Most studies are cross-sectional surveys or small experiments, measured once. They can show that age groups differ; they cannot show that AI changed a developmental trajectory. Niu and colleagues' scoping review of generative AI and children's creative thinking screened 6,401 records and retained 24 evidence sources, a small base for a large claim, and the review reports it as such.
 
 The second is attribution. A learning gain measured with the tool present may be assisted performance rather than a change in capability, which is the same distinction that separates scaffolding from development.
 
@@ -78,7 +78,7 @@ The third is time. Development unfolds over years, and the tools change faster t
 
 ## The measurement problem behind "age-appropriate"
 
-Policy and procurement documents use "age-appropriate" as if it were a property of a product. In this corpus it is a relation between a tool, a capacity and a task. CLARA's taxonomy approach is one attempt to make that relation operational; the guidebook tiers are another. Neither settles the harder question of who decides sufficiency, and the reviews that examine age-tiered resources evaluate reception — 831 participants in Wang, Chuang and Wu's study — rather than developmental outcome.
+Policy and procurement documents use "age-appropriate" as if it were a property of a product. In the research it is a relation between a tool, a capacity and a task. CLARA's taxonomy approach is one attempt to make that relation operational; the guidebook tiers are another. Neither settles the harder question of who decides sufficiency, and the reviews that examine age-tiered resources evaluate reception (831 participants in Wang, Chuang and Wu's study) rather than developmental outcome.
 
 ## Common Misconceptions
 

@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -17,9 +17,9 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- Well-being in education is often treated as a 'soft' or secondary concern next to learning outcomes. But the page frames it as a central, designable dimension of AI integration. Do you think of learner and teacher well-being as something to design for, or as a byproduct you can check later? What might the field lose by treating it as an afterthought?
+- Well-being in education is often treated as a 'soft' or secondary concern next to learning outcomes. But it is a central, designable dimension of AI integration. Do you think of learner and teacher well-being as something to design for, or as a byproduct you can check later? What might the field lose by treating it as an afterthought?
 - Think about how AI use has affected your own or your students' confidence, anxiety, sense of belonging, or agency — for better and worse. What's one concrete way AI has changed your emotional experience of learning or teaching, beyond just convenience?
-- The page notes AI use is intertwined with anxiety — about academic integrity, about whether relying on AI signals weakness, about over-dependence. Where have you seen AI induce anxiety rather than relieve it, and who in that situation was most affected?
+- AI use is intertwined with anxiety: about academic integrity, about whether relying on AI signals weakness, about over-dependence. Where have you seen AI induce anxiety rather than relieve it, and who in that situation was most affected?
 - One common intuition is that AI reduces stress by handling hard tasks. Where might the opposite be true — AI that lowers short-term effort yet increases anxiety about competence, integrity, or 'not really knowing how to do it'? How would you even measure a shift in well-being rather than just output?
 - Well-being spans emotional, psychological (purpose, [[agency|autonomy]], competence), and social (belonging, relationships) dimensions. Pick one of those. How could an AI tool quietly improve or undermine it in a learning setting — and what would you look for as evidence?
 - Teacher well-being — workload, anxiety about disruptive technology, capacity to offer emotional support — is as much at stake as students'. If you're an educator or leader, what would it take for AI integration to support educators' well-being rather than add to the pressure, and who should be accountable for that?
@@ -84,7 +84,7 @@ Emotional support and connection can move in opposite directions inside one samp
 ## Common Misconceptions
 
 - **"Student approval indicates well-being is being supported."** Among **551 first-year students**, **82.76% approved the integration** of digital and intelligent content — and **high approval coexisted with strain, while AI task pressure weakened the benefit**. Approval and strain rise together, so satisfaction surveys mislead here specifically.
-- **"Welfare support is culturally neutral."** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] describe Sukoon, a hybrid well-being support tool, as **culturally situated** — and the page's own framing notes its limits. A support design that assumes a universal student misreads the population.
+- **"Welfare support is culturally neutral."** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] describe Sukoon, a hybrid well-being support tool, as **culturally situated** — and the study's own framing notes its limits. A support design that assumes a universal student misreads the population.
 - **"Task pressure is separate from technology."** The finding is that AI **task pressure** weakened the benefit of the integration, which places workload inside the technology's effects rather than beside them.
 
 ## Connected Concepts

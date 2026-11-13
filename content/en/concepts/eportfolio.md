@@ -1,7 +1,7 @@
 ---
 title: E-Portfolio
 created: "2026-08-20T09:00:00-04:00"
-updated: "2026-11-12T21:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -27,7 +27,7 @@ E-portfolios are a form of [[authentic-assessment|authentic assessment]] and [[f
 
 ## E-portfolios in the AI era
 
-The knowledge base's research shows e-portfolios are increasingly central to productive AI integration and assessment redesign.
+The research shows e-portfolios are increasingly central to productive AI integration and assessment redesign.
 
 - **Portfolio assessment is relatively robust to generative AI.** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du (2025)]] identify **social contribution portfolios** and co-created artifacts with auditable provenance chains among the authentic-assessment forms most robust to generative AI. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection (2025)]] likewise recommends **annotated portfolios / oral defenses / recorded walkthroughs** to probe reasoning in real time, mirroring professional practice.
 - **AI-assisted portfolio assessment.** [[ni-lam-multiliteracies-ai-portfolio-2026|Ni & Lam (2026)]] study students' perceptions of **AI-assisted portfolio assessment** for multiliteracies development, showing AI can support the portfolio *process* (feedback, drafting, reflection) and enhance engagement while students evaluate [[ai-feedback-quality|AI feedback]] critically.

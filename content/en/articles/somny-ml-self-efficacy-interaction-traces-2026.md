@@ -1,7 +1,7 @@
 ---
 title: "Using Machine Learning to Measure Self-Efficacy Belief Through Learners' Interaction Traces in Technology-Enhanced Learning"
 published: "2026-10-30"
-created: "2026-11-02T09:26:00-05:00"
+created: "2026-11-02T09:12:23-05:00"
 updated: "2026-11-02T09:26:00-05:00"
 type: article
 sources: ['raw/papers/somny-ml-self-efficacy-interaction-traces-2026.md']

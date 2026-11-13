@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-10T18:55:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -25,11 +25,11 @@ Proactive outreach can raise help-seeking without any change to the learning mat
 - A persistent 'hint button' can turn a learning task into a copying exercise by signaling that help is always there. Can you recall a time when having help too easily available made you skip the thinking you needed to do?
 - One study found that simply warning students an AI could make mistakes actually increased their help-seeking. How might healthy skepticism change how students engage with a tutor versus blind trust?
 - Struggling students are often the least likely to seek help unprompted. If the students who most need support don't reach out, how should AI tools and instructors respond?
-- The page proposes delaying hints and moving the design question from 'whether' to 'how' to provide help. What would a well-designed help experience look like for your learners — and what would make them actually take it up?
+- The design proposal is to delay hints and move the question from 'whether' to 'how' to provide help. What would a well-designed help experience look like for your learners — and what would make them actually take it up?
 
 ## Introduction
 
-Help-seeking is a well-established construct in learning research, closely tied to [[self-regulated-learning]] and [[metacognition]]: it requires learners to monitor their own understanding, recognize a gap, decide help is needed, and formulate an effective request. With the rise of [[generative-ai|generative AI]] tutors, help-seeking has taken on new importance — and new failure modes. Learners often *intend* to use AI for learning but default to asking for direct answers, a gap that research in this knowledge base documents across domains and age groups. The classic model assumes a request is for knowledge the asker lacks. Operational support demand complicates that assumption: across 4,093 queries, at least 20.4% asked about the status of a pending submission rather than for knowledge, a class a retrieval-bound assistant served only 1.3% of the time [[student-query-demand-hybrid-ai-support-2026|Gupta et al. (2026)]].([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+Help-seeking is a well-established construct in learning research, closely tied to [[self-regulated-learning]] and [[metacognition]]: it requires learners to monitor their own understanding, recognize a gap, decide help is needed, and formulate an effective request. With the rise of [[generative-ai|generative AI]] tutors, help-seeking has taken on new importance — and new failure modes. Learners often *intend* to use AI for learning but default to asking for direct answers, a gap that research documents across domains and age groups. The classic model assumes a request is for knowledge the asker lacks. Real student demand includes something else: [[student-query-demand-hybrid-ai-support-2026|Gupta et al. (2026)]] found that a retrieval-bound assistant served only 1.3% of the queries about a pending submission's status.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
 
 ## Productive vs. unproductive help-seeking
 
@@ -37,7 +37,7 @@ The central distinction in the literature is between help-seeking that supports 
 
 ### Unproductive help-seeking behaviors
 
-Research in this knowledge base identifies concrete, observable patterns of unproductive help-seeking, especially in [[intelligent-tutoring|intelligent tutoring systems]]:
+Research identifies concrete, observable patterns of unproductive help-seeking, especially in [[intelligent-tutoring|intelligent tutoring systems]]:
 
 - **Premature hint requests** — requesting help before making any solution attempt. Even uncertain students learn more by attempting first.([[lak2026-hint-button-unproductive-use]])
 - **Superficial hint reading** — advancing through hints too rapidly to read them (flagged at a ~4 words/second benchmark), often jumping straight to the bottom-out hint that reveals the answer.([[lak2026-hint-button-unproductive-use]])
@@ -64,7 +64,7 @@ Interaction cost is part of the same question. [[penquiry-pen-based-llm-qa-2026|
 
 Scaffolding can also be delivered inside the task rather than before it. [[helpcoach-ai-help-seeking-scaffolding-2026|Jin et al. (2026)]] built HelpCoach, an add-on to chat interfaces that assesses how specifically a student asks for help and prompts a revision when a question is too vague, making the knowledge component and the scaffold type explicit. In a between-subjects study with 40 college students learning web programming, HelpCoach participants wrote a significantly higher proportion of specific questions in their first drafts than a pre-task-training baseline (57.3% versus 40.5%) and retained significantly more knowledge a week later (d = 1.100), while the third-task specificity difference was no longer significant (43.7% versus 32.1%). The authors caution that the retention gain cannot yet be attributed to more targeted chatbot replies.
 
-A third lever on the cost of asking is *where* the help comes from. [[course-specific-rag-help-seeking-higher-ed-2026|Gray and Hobbs (2026)]] built Beacon, a course-specific [[rag|retrieval-augmented]] assistant grounded in one programming module's approved materials, and evaluated it with 15 computing students and four academics. 89% of participants rated its answers highly aligned with course materials and 66.7% said it supported rather than replaced their learning, though only around half to 60% reported gains in understanding or confidence. The motivation is the barrier this section documents: 62.5% of those students said they sometimes avoided asking for help when they needed it and 75% reported [[anxiety-and-stress|anxiety]] when a topic did not make sense, so a private, module-grounded channel is offered as a first rung before approaching a lecturer. The academics interviewed kept the counter-argument alive — they valued that Beacon withheld full solutions and worried that unrestricted tools let students skip a development stage — which is why the design earns its place by refusing to complete the work.
+A third lever on the cost of asking is *where* the help comes from. [[course-specific-rag-help-seeking-higher-ed-2026|Gray and Hobbs (2026)]] built Beacon, a course-specific [[rag|retrieval-augmented]] assistant grounded in one programming module's approved materials, and evaluated it with 15 computing students and four academics. 89% of participants rated its answers highly aligned with course materials and 66.7% said it supported rather than replaced their learning, though only around half to 60% reported gains in understanding or confidence. The motivation is a documented barrier: 62.5% of those students said they sometimes avoided asking for help when they needed it and 75% reported [[anxiety-and-stress|anxiety]] when a topic did not make sense, so a private, module-grounded channel is offered as a first rung before approaching a lecturer. The academics interviewed kept the counter-argument alive — they valued that Beacon withheld full solutions and worried that unrestricted tools let students skip a development stage — which is why the design earns its place by refusing to complete the work.
 
 ### Calibrating trust through transparency
 
@@ -79,7 +79,7 @@ Rather than removing help, research recommends re-engineering how it is delivere
 - **Moving from *whether* to *how*** — the key design question is how to structure hint delivery aligned with productive-struggle principles, not whether to provide hints at all.([[lak2026-hint-button-unproductive-use]])
 - **Meta-analytic support for student-controlled delivery.** Pooling 18 U.S. K-12 experiments, worked-out examples (g = 0.324) and on-demand hints (g = 0.316) were significant while automatically triggered just-in-time hints were not — though the authors warn weaker self-regulators can game on-demand features ([[leite-its-k12-meta-analysis-2025|Leite et al., 2025]]).
 - **Message length is the lever delivery research has actually measured.** In a live programming course, longer LLM hints predicted worse next-submission correctness, more remaining attempts and slower resubmission, per standard deviation of 204.9 characters across 14,809 student-exercise pairs ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Readability barely moved any outcome, so volume mattered more than difficulty.
-- **Prior hints on the same course part tracked lower success on the integrative step.** Students given feedback on earlier steps of a project solved their final step 95.6% of the time against 98.1% for those without, a log-odds coefficient of −1.096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). The authors do not read that as harm, since the students who seek hints are plausibly those who would struggle there anyway, which is the [[self-regulated-learning|monitoring]] question this page raises.
+- **Prior hints on the same course part tracked lower success on the integrative step.** Students given feedback on earlier steps of a project solved their final step 95.6% of the time against 98.1% for those without, a log-odds coefficient of −1.096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). The authors do not read that as harm, since the students who seek hints are plausibly those who would struggle there anyway, which is a [[self-regulated-learning|monitoring]] question.
 
 ### The uptake problem in LLM tutors
 
@@ -89,7 +89,7 @@ Real-world students frequently **bypass a [[conversational-ai|chatbot]]'s [[scaf
 
 ## Help-seeking and self-regulated learning
 
-Help-seeking is an integral part of [[self-regulated-learning]]: productive help-seeking requires learners to monitor understanding, judge when help is needed, and select appropriate sources. In GenAI contexts, this becomes even more demanding, since students must also exercise [[agency]] over the AI and maintain epistemic vigilance rather than deferring to it. Research in this knowledge base supports the need for [[scaffolding|scaffolds]] that promote more [[agentic-ai|agentic]] and epistemically proactive AI use, and highlights the risk of [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] when help-seeking degrades into unconditional answer-seeking.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+Help-seeking is an integral part of [[self-regulated-learning]]: productive help-seeking requires learners to monitor understanding, judge when help is needed, and select appropriate sources. In GenAI contexts, this becomes even more demanding, since students must also exercise [[agency]] over the AI and maintain epistemic vigilance rather than deferring to it. Research supports the need for [[scaffolding|scaffolds]] that promote more [[agentic-ai|agentic]] and epistemically proactive AI use, and highlights the risk of [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] when help-seeking degrades into unconditional answer-seeking.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
 
 Population-scale evidence complicates the substitution story: among 12,191 PISA 2025 students in four Chinese regions, more frequent GenAI use for schoolwork went with more academic help-seeking (β = 0.169), not less ([[wu-genai-scientific-literacy-china-2026|Wu et al. (2026)]]).
 

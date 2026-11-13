@@ -1,6 +1,6 @@
 ---
 title: "Evaluating the Effects of Assignment Report Usage on Student Outcomes in an Intelligent Tutoring System: A Randomized-Encouragement Design"
-created: "2026-11-05T20:00:00-05:00"
+created: "2026-11-05T19:50:53-05:00"
 updated: "2026-11-05T20:00:00-05:00"
 type: article
 sources: ['raw/papers/lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025.md']

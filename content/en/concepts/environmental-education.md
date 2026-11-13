@@ -1,7 +1,7 @@
 ---
 title: "Environmental Education"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -13,7 +13,7 @@ confidence: medium
 reviewed_by: [editor]
 ---
 
-> **Environmental Education** — teaching about climate, sustainability and the natural world, which in [[ai-education|AI in education]] has become two things at once: a subject that AI can support through [[inquiry-based-learning|inquiry]] and [[situated-learning|situated]] learning, and a cost that AI imposes, since energy-intensive [[llm|language models]] run on every student laptop carry an environmental footprint of their own. The knowledge base treats both halves together, because [[sustainability]] education delivered by a carbon-intensive tool raises a question no single frame answers on its own.
+> **Environmental Education** — teaching about climate, sustainability and the natural world, which in [[ai-education|AI in education]] has become two things at once: a subject that AI can support through [[inquiry-based-learning|inquiry]] and [[situated-learning|situated]] learning, and a cost that AI imposes, since energy-intensive [[llm|language models]] run on every student laptop carry an environmental footprint of their own. The two halves are treated together, because [[sustainability]] education delivered by a carbon-intensive tool raises a question no single frame answers on its own.
 
 ## Questions to Consider
 
@@ -24,7 +24,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-**Environmental education** develops learners' understanding of ecological systems, climate, and human–environment interdependence, together with the dispositions and competences to act on them — often framed institutionally as Education for Sustainable Development (ESD) or "green education." In an AI-in-education context the term carries a tension the corpus runs into without always naming: **AI as a tool for environmental education** (teaching climate and sustainability content with generative tools) and **the environmental footprint of AI itself** (the carbon, water, and energy cost of the models institutions deploy). These are different questions with different evidence, actors, and remedies; conflating them — as several papers and most strategy documents do — makes it impossible to say who is accountable for what.([[daniel-ai-sustainability-scoping-review-2026]])([[aied-carbon-footprint-reporting]])
+**Environmental education** develops learners' understanding of ecological systems, climate, and human–environment interdependence, together with the dispositions and competences to act on them. It is often framed institutionally as Education for Sustainable Development (ESD) or "green education." In an AI-in-education context the term carries a tension that runs through the field without always being named. The tension sets **AI as a tool for environmental education** (teaching climate and sustainability content with generative tools) against **the environmental footprint of AI itself** (the carbon, water, and energy cost of the models institutions deploy). These are different questions with different evidence, actors, and remedies; conflating them — as several papers and most strategy documents do — makes it impossible to say who is accountable for what.([[daniel-ai-sustainability-scoping-review-2026]])([[aied-carbon-footprint-reporting]])
 
 ## Two things called "environmental education with AI"
 
@@ -43,9 +43,9 @@ Two smaller studies cover the design side. AI-assisted [[learning-design|instruc
 
 ## The environmental footprint of AI in education
 
-This half is where the corpus is thinnest. A review of all 396 AIED 2025 proceedings papers found "LLM adoption without disclosure": most projects use [[llm|LLMs]], 85 papers reported any computational cost, and only 57 mentioned environmental impact — using incompatible metrics, so the field cannot aggregate its own evidence. The authors argue that failing to report environmental cost is itself an [[ethics|ethical]] concern, and propose an [[open-source]] method (CodeCarbon plus a two-parameter FLOPs estimate for proprietary models).([[aied-carbon-footprint-reporting]])
+This half is where the evidence is thinnest. A review of all 396 AIED 2025 proceedings papers found "LLM adoption without disclosure": most projects use [[llm|LLMs]], 85 papers reported any computational cost, and only 57 mentioned environmental impact — using incompatible metrics, so the field cannot aggregate its own evidence. The authors argue that failing to report environmental cost is itself an [[ethics|ethical]] concern, and propose an [[open-source]] method (CodeCarbon plus a two-parameter FLOPs estimate for proprietary models).([[aied-carbon-footprint-reporting]])
 
-On the learner side, an eco-feedback interface exposing the latency–carbon trade-off during live LLM use was studied with 89 computer science undergraduates in a computing ethics course: students chose the lower-carbon mode in roughly 45% of low-latency interactions but under 5% at high latency, and sustainability awareness significantly raised that choice. The sample is small and unusually technically informed, but it is the only direct evidence in the corpus that footprint information moves learners at all — and it suggests the binding constraint is patience, not values.([[llm-environmental-impact-student-usage-2026]])
+On the learner side, an eco-feedback interface exposing the latency–carbon trade-off during live LLM use was studied with 89 computer science undergraduates in a computing ethics course: students chose the lower-carbon mode in roughly 45% of low-latency interactions but under 5% at high latency, and sustainability awareness significantly raised that choice. The sample is small and unusually technically informed, but it is the only direct evidence that footprint information moves learners at all — and it suggests the binding constraint is patience, not values.([[llm-environmental-impact-student-usage-2026]])
 
 Mitigation evidence comes from an on-premise [[cs-education|CS]] knowledge-base assistant on a single consumer GPU (12 GB VRAM) with openly licensed content: 1.8 mWh per query at best — about 0.54 Wh for a class of 30 students submitting ten queries each — with quantization-aware [[llm-training-and-fine-tuning|fine-tuning]] containing both the accuracy loss and the [[hallucination-risk|hallucination]] rise that compression alone caused. It is an engineering benchmark, not a learning study, but it shows the footprint question has design levers (grounding, quantization, deployment location), not only usage-discipline levers.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
 
@@ -68,7 +68,7 @@ The [[meta-analysis-systematic-review|scoping review]] organizing this literatur
 1. **Name which question you are answering.** Strategies that use "sustainability" for both AI-for-climate-teaching and AI's own footprint hide the accountability gap [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]] identify; keep the agendas separate, with separate owners.
 2. **Treat footprint disclosure as field infrastructure.** Reporting compute and carbon beside accuracy — with a sustainability statement even when measurement is imperfect — is the only route out of the incompatible-metrics problem.
 3. **Design for the impatient learner.** If the lower-carbon option costs perceived latency, most students will not take it: keep latency low, expose controls, and describe impact in concrete outcome terms, not abstract carbon units.
-4. **Prefer lighter deployment where pedagogy allows.** Grounding a model in a licensed local corpus and quantizing with fine-tuning gave usable accuracy at a fraction of the energy — reuse that pattern before scaling cloud inference.
+4. **Prefer lighter deployment where pedagogy allows.** Grounding a model in a licensed local data set and quantizing with fine-tuning gave usable accuracy at a fraction of the energy — reuse that pattern before scaling cloud inference.
 5. **Build teacher capability through material development, not awareness campaigns,** and fill the [[global-south|Global South]] gap rather than importing evidence from North American and European contexts.
 
 ## Common Misconceptions

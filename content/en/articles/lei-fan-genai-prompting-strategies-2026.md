@@ -1,6 +1,6 @@
 ---
 title: "Generative artificial intelligence prompting strategies among Chinese university students across academic tasks"
-created: "2026-10-30T10:35:00-04:00"
+created: "2026-10-30T10:22:53-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Fan, L.", "Liu, F."]

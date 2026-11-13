@@ -1,6 +1,6 @@
 ---
 title: "Refining Collaborative AI Literacy: A Systematic Review of Human–AI Collaboration Competency and AI Literacy Measures"
-created: "2026-11-07T14:15:00-05:00"
+created: "2026-11-07T10:06:57-05:00"
 updated: "2026-11-07T14:15:00-05:00"
 type: article
 published: "2026"

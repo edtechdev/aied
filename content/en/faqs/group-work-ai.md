@@ -1,7 +1,7 @@
 ---
 title: "How Should I Handle AI in Group and Collaborative Assignments?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-06T03:00:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq
@@ -85,7 +85,7 @@ Pair the group mark with an individual component: an [[oral-assessment|oral defe
 
 Their limitations travel with the citation: a single database, journal articles only, no attention to [[ethics]] or privacy, the first two years of the technology, and no risk-of-bias instrument applied. Read "catalysts" as a description of observed practice, not a measured outcome.
 
-Detection is the wrong instrument for sorting individual contributions: none of these six studies tests detectors in group settings, and the individual-level problems with detection are documented elsewhere in this knowledge base. Restraint needs interpreting before it needs correcting. Chen and Zou caution that a group declining AI may be avoiding something unfamiliar rather than exercising deliberate [[self-regulated-learning|self-regulation]], and the two call for different responses: one is a teaching problem, the other is a considered position you can grade.
+Detection is the wrong instrument for sorting individual contributions: none of these six studies tests detectors in group settings, and the individual-level problems with detection are well documented. Restraint needs interpreting before it needs correcting. Chen and Zou caution that a group declining AI may be avoiding something unfamiliar rather than exercising deliberate [[self-regulated-learning|self-regulation]], and the two call for different responses: one is a teaching problem, the other is a considered position you can grade.
 
 Simulated teammates do not settle the question either. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] fine-tuned [[llm]] agents on real participant dialogue ([[llm-training-and-fine-tuning|LoRA]]/QLoRA adapters on LLaMA 3.2-3B) to model 48 participants across 3,824 turns and six thematic codes, then compared real and simulated discourse with [[network-analysis|Epistemic Network Analysis]]. The simulated network reached a distance of 0.17 from the empirical network, below the 0.30 threshold, with a permutation p-value of 0.65, statistically indistinguishable, though it slightly overemphasized Technical Constraints and Design links and under-represented Data and Performance Parameters. It is a framework paper with medium confidence, and it supports one claim: participant-specific agents can reproduce realistic collaborative discourse. It does not show that students learn more from simulated teammates.
 

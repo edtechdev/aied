@@ -1,6 +1,6 @@
 ---
 title: "From AI-Free Gates to AI-First Work: How Engineering Students in India Navigate University Education and Campus Placements Without AI Guidelines"
-created: "2026-10-22T09:25:00-04:00"
+created: "2026-10-22T09:23:20-04:00"
 updated: "2026-10-22T09:25:00-04:00"
 type: article
 foundations: [academic-integrity, learner-identity, agency]

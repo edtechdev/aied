@@ -1,6 +1,6 @@
 ---
 title: "Beyond Access: Engagement with Conversational AI-Assisted Feedback Shapes Cognitive Load in Digital Game-Based Learning"
-created: "2026-10-26T13:35:00-04:00"
+created: "2026-10-26T10:15:31-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026-10-11"

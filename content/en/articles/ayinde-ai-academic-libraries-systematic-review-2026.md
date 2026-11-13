@@ -1,6 +1,6 @@
 ---
 title: "Adoption of artificial intelligence in academic libraries: A systematic review of current practices, challenges, and research opportunities"
-created: "2026-11-05T03:55:00-05:00"
+created: "2026-11-05T03:32:52-05:00"
 updated: "2026-11-05T03:55:00-05:00"
 type: article
 published: "2025-12-11"

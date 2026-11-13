@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-11-12T06:10:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -16,7 +16,7 @@ methods: [quantitative-research, research-methods-aied, qualitative-research]
 reviewed_by: [editor]
 ---
 
-> **Self-report measures** — instruments in which the person being studied is also the source of the data: questionnaires and surveys, interviews, diaries, self-assessed competence, self-estimated usage, perceived learning, and satisfaction. They are the workhorse of [[ai-education|AI in education]] research — in this knowledge base 139 article pages carry a survey method tag, more than any design except experiment and [[benchmark]] — and they are the only practical way to reach attitudes, beliefs, intentions, and [[self-efficacy]]. Their limit is categorical rather than statistical: a self-report cannot measure behavior or learning, only what someone says about behavior or learning, and the two come apart in this research base often enough to be a finding in its own right.
+> **Self-report measures** — instruments in which the person being studied is also the source of the data: questionnaires and surveys, interviews, diaries, self-assessed competence, self-estimated usage, perceived learning, and satisfaction. They are the workhorse of [[ai-education|AI in education]] research — 139 studies carry a survey method tag, more than any design except experiment and [[benchmark]] — and they are the only practical way to reach attitudes, beliefs, intentions, and [[self-efficacy]]. Their limit is categorical rather than statistical: a self-report cannot measure behavior or learning, only what someone says about behavior or learning, and the two come apart in this research base often enough to be a finding in its own right.
 
 ## Questions to Consider
 
@@ -32,13 +32,13 @@ reviewed_by: [editor]
 
 Self-report spans far more than the questionnaire. It includes [[quantitative-research|cross-sectional surveys]] using Likert and other rating formats, interviews and focus groups conducted by [[qualitative-research|qualitative researchers]], diaries and experience sampling, self-assessed skill or confidence, recalled estimates of how often a tool was used, and perceived learning or satisfaction treated as outcomes. What unites them is the epistemic position of the respondent: they are reporting on themselves rather than being observed.
 
-This is not a weakness to be apologized for. Many constructs of interest — motivation, [[anxiety-and-stress|anxiety]], [[trust-calibration|trust]], perceived usefulness, [[student-engagement|engagement]] intentions — are internal states that no log file records, and asking is the only defensible way to reach them. The problem arises when a self-report is used to support a claim it cannot carry, which is a validity question at heart: whether the instrument measures the construct it names, and whether the claim being made is about the sort of thing self-report can see. That concern belongs with [[educational-measurement]] and [[assessment-validity]]; this page is about what happens when AI in education research leans on self-report specifically, and where the evidence base shows it breaking down.
+This is not a weakness to be apologized for. Many constructs of interest — motivation, [[anxiety-and-stress|anxiety]], [[trust-calibration|trust]], perceived usefulness, [[student-engagement|engagement]] intentions — are internal states that no log file records, and asking is the only defensible way to reach them. The problem arises when a self-report is used to support a claim it cannot carry, which is a validity question at heart: whether the instrument measures the construct it names, and whether the claim being made is about the sort of thing self-report can see. That concern belongs with [[educational-measurement]] and [[assessment-validity]]; the narrower question is what happens when AI in education research leans on self-report specifically, and where the evidence base shows it breaking down.
 
-**How this page relates to its neighbors.** [[research-methods-aied]] catalogs designs and their strengths and limitations, including survey and SEM studies. [[quantitative-research]] covers the numerical methods family. [[educational-measurement]] covers instrument development, [[item-response-theory]], and psychometric validation. This page is the narrower slice those pages point at: the measurement instrument and data source itself — what self-report can and cannot establish, the recurring gap between what people report and what they do, and how to read a self-report finding critically.
+**Relationship to neighboring concepts.** [[research-methods-aied]] catalogs designs and their strengths and limitations, including survey and SEM studies. [[quantitative-research]] covers the numerical methods family. [[educational-measurement]] covers instrument development, [[item-response-theory]], and psychometric validation. The measurement instrument and data source are the narrower subject: what self-report can and cannot establish, the recurring gap between what people report and what they do, and how to read a self-report finding critically.
 
 ## What self-report can and cannot establish
 
-Self-report is well suited to attitudes, beliefs, intentions, perceptions of a tool, affective states, and self-judged confidence or difficulty. A scoping review of 394 GenAI higher-education studies found survey scales the most frequently reported assessment method (269 studies, 68.3%), ahead of tests/quizzes/rubrics (185, 47.0%) and artifact analysis (167, 42.4%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). It is poorly suited to behavior, and it cannot measure learning at all: a person's belief that they learned something is itself a perception, and the knowledge base treats perceived learning as a distinct quantity from [[learning-gains|learning gains]].
+Self-report is well suited to attitudes, beliefs, intentions, perceptions of a tool, affective states, and self-judged confidence or difficulty. A scoping review of 394 GenAI higher-education studies found survey scales the most frequently reported assessment method (269 studies, 68.3%), ahead of tests/quizzes/rubrics (185, 47.0%) and artifact analysis (167, 42.4%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). It is poorly suited to behavior, and it cannot measure learning at all: a person's belief that they learned something is itself a perception, and perceived learning is a distinct quantity from [[learning-gains|learning gains]].
 
 The consequence is a set of claims that look similar in a results section but differ in strength:
 
@@ -58,7 +58,7 @@ The opposite choice is also defensible: PAUSE is a four-domain offloading self-c
 
 ## The perception–behavior gap
 
-The strongest self-report finding in this knowledge base is not that self-report is biased in general but that reported and observed behavior diverge in specific, documented ways.
+The strongest self-report finding in this literature is not that self-report is biased in general but that reported and observed behavior diverge in specific, documented ways.
 
 Profiles derived from self-report behave the same way. [[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem et al. (2026)]] clustered 14,003 student records on self-reported behavioral and psychological proxies rather than LMS interaction traces, and the six resulting profiles separated sharply on final grade (η² = 0.770) — a separation the authors caution is partly a restatement of what students reported.
 
@@ -78,7 +78,7 @@ A two-phase systematic review puts a rate on that divergence at the level of con
 
 One university library put both streams against the same propositions and found them pointing apart. Annual print loans fell from 406,120 in 2017 to 46,339 in 2025 and unique borrowers from 30,033 to 7,278, but the decline began before the GenAI period, and the January 2023 breakpoint showed no level or slope change. The survey put the explanatory weight on constructs: deep-reading demand predicted print continuance intention at H1 β = 0.908, while the hypothesized substitution path was near zero (H4 β = 0.038, *p* = 0.631), and platform AI features were 0.53% of operations in the first half of 2026. Respondents could not be linked to the loan records under data-governance rules, so the divergence can be read only at the population level, not person by person ([[huang-genai-academic-information-resources-2026|Huang et al. (2026)]]).
 
-The instrument literature itself can be read as evidence of the gap's scale. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] appraised 33 instruments for teacher AI literacy and found that 31 (93.9%) were self-report scales of perceived confidence, only two (6.1%) tested knowledge objectively, and none used performance-based tasks between 2019 and 2025. Their conclusion is the one this page keeps reaching from other directions: self-report scores index confidence rather than capability, so they cannot stand in for competence when groups or programs are compared.
+The instrument literature itself can be read as evidence of the gap's scale. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] appraised 33 instruments for teacher AI literacy and found that 31 (93.9%) were self-report scales of perceived confidence, only two (6.1%) tested knowledge objectively, and none used performance-based tasks between 2019 and 2025. Their conclusion is the one the surrounding evidence keeps reaching from other directions: self-report scores index confidence rather than capability, so they cannot stand in for competence when groups or programs are compared.
 
 Outcome measures inherit the same gap. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]] model the path from [[agentic-ai|agentic AI]] through motivation and [[community-of-inquiry|social presence]] to what they label learning performance with a coefficient of 0.671 — the strongest relationship in the study. Their own limitations section states that this dependent variable reflects learners' perceptions and not exam results, assignment performance or [[learning-analytics|learning analytics]]. That is the pattern to read carefully in pathway models generally: a large coefficient on a perceived outcome quantifies how consistently students believe something helped, and says nothing yet about whether it did.
 
@@ -88,7 +88,7 @@ Intention is the sharpest case of that gap, because one intention score can cove
 
 ## Satisfaction and perceived learning as outcomes
 
-Satisfaction is the most frequently self-reported outcome in this corpus, appearing on 63 article pages. It is also the weakest as a proxy for learning, and the knowledge base contains explicit arguments to that effect.
+Satisfaction is the most frequently self-reported outcome in this literature, appearing in 63 studies. It is also the weakest as a proxy for learning, and the research contains explicit arguments to that effect.
 
 - [[sequenced-ai-feedback-learning|Work on sequenced AI feedback]] states the design principle directly: user satisfaction and behavioral engagement are not reliable proxies for learning gains, so learning must be measured directly.
 - [[puech-pedagogical-steering-llm-productive-failure-2025|On pedagogical steering]] notes that current [[llm|language models]] are instruction-tuned to be helpful assistants that maximize user satisfaction, while a tutor's goal is to maximize learning — the two objectives can conflict, which makes satisfaction a potentially misleading target rather than merely a weak one.
@@ -97,9 +97,9 @@ Satisfaction is the most frequently self-reported outcome in this corpus, appear
 
 - [[kares-xai-evaluation-alignment-2027|A preregistered XAI study (Kares et al., 2027)]] compared three explanation methods with 166 participants and found satisfaction (3.98, 3.92, 3.87) and trust ratings statistically indistinguishable, while a task measure separated the methods and a mathematical metric ranked them the other way. The rating gave no signal where the ability measure gave one.
 
-The pattern worth carrying away: satisfaction is responsive to the wrong things when learning is the goal. A system that answers quickly, agrees readily, and reduces effort will be rated highly, and those same properties are the ones the knowledge base associates with reduced [[desirable-difficulties|productive struggle]] and inflated performance on AI-assisted work. Reported satisfaction and measured learning are not enemies; they are simply not substitutes, and treating the first as evidence of the second is the most common slippage this page documents.
+The pattern worth carrying away: satisfaction is responsive to the wrong things when learning is the goal. A system that answers quickly, agrees readily, and reduces effort will be rated highly, and those same properties are the ones the research associates with reduced [[desirable-difficulties|productive struggle]] and inflated performance on AI-assisted work. Reported satisfaction and measured learning are not enemies; they are simply not substitutes, and treating the first as evidence of the second is the most common slippage in the field.
 
-The cleanest within-subject case in the corpus measured both quantities on the same students. [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe et al. (2025)]] surveyed business-statistics and economics students across two semesters while integrating a tutor prompt, AI-generated exam review, AI-structured oral exams and AI-assisted topic brainstorming. Self-reported ChatGPT use frequency rose from 2.987 to 4.375 on a 1-7 scale (p < .001), confidence from 3.663 to 4.000 (p = .004), and perceived engagement from 2.433 to 2.65 on a 1-3 scale (p = .006) — a coherent story of students who used the tool more and believed it helped.
+The cleanest within-subject case in the literature measured both quantities on the same students. [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe et al. (2025)]] surveyed business-statistics and economics students across two semesters while integrating a tutor prompt, AI-generated exam review, AI-structured oral exams and AI-assisted topic brainstorming. Self-reported ChatGPT use frequency rose from 2.987 to 4.375 on a 1-7 scale (p < .001), confidence from 3.663 to 4.000 (p = .004), and perceived engagement from 2.433 to 2.65 on a 1-3 scale (p = .006) — a coherent story of students who used the tool more and believed it helped.
 
 Exam scores told a different story: frequency of use was unassociated with performance in the simple model (-5.577, SE 5.566) and negatively associated in the full model (-13.918, SE 7.834, p = .076). The authors do not treat the null as proof of harm, since struggling students may use AI more; what the study does show is significant movement on every perceptual measure with no corresponding movement in graded performance.
 
@@ -111,7 +111,7 @@ Exam scores told a different story: frequency of use was unassociated with perfo
 Four properties separate a survey that can support a claim from one that cannot.
 
 - **Construct validity.** Items must be shown to measure the named construct, ideally with factor analysis. The parallel-measure study above validated both its instruments and still found they diverged — validity of an instrument says nothing about whether it captures behavior.
-- **Reliability and structure.** Factor-validated instruments recur in this corpus, from [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy measures grounded in self-determination theory]] to acceptance scales modeled with [[technology-acceptance-model|TAM]] and SEM in [[acceptance-ai-english-tools-2026|studies of AI-assisted language tools]].
+- **Reliability and structure.** Factor-validated instruments recur across the literature, from [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy measures grounded in self-determination theory]] to acceptance scales modeled with [[technology-acceptance-model|TAM]] and SEM in [[acceptance-ai-english-tools-2026|studies of AI-assisted language tools]].
 - **Invariance, when groups are compared.** A scale that behaves differently across populations cannot support a comparison. [[same-ai-different-pathways|Multigroup SEM work]] reports measurement invariance testing (configural, metric, scalar) alongside its indirect effects, and [[genai-thoughtless-use-self-directed-learning-2026|a Switzerland–China comparison]] found only intrinsic value reached metric invariance and not scalar invariance — a limitation stated rather than hidden, and one that constrains what its cross-country differences can mean.
 - **A performance alternative where competence is the construct.** GLAT's 20 multiple-choice items exist precisely because self-report cannot carry a competence claim.
 
@@ -122,7 +122,7 @@ A recent faculty survey shows the failure in its extreme form. [[moreira-choez-e
 
 ## Sampling, response, and non-response
 
-Because surveys are cheap to administer, the sampling problems are usually where the generalizability claim fails. This corpus reports them explicitly and instructively:
+Because surveys are cheap to administer, the sampling problems are usually where the generalizability claim fails. The studies report them explicitly and instructively:
 
 - [[genai-student-experiences-uk-he-survey-2026|A UK survey of student GenAI use]] reports a convenience sample at 7 institutions, sharply varying [[governance|institutional]] response rates, and non-response bias that may skew toward students with strong views — and notes that ~32% of respondents described conduct that arguably broke policy, in a format where social desirability and contextual pressure make **under-reporting** the likely error direction.
 - [[ai-assisted-instructor-supervised-grading-feedback|A study of AI-assisted grading feedback]] rests on 112 responses, a 31% response rate.
@@ -134,11 +134,11 @@ Self-selection compounds this. [[chatgpt-inoculation-training-verification-2026|
 
 Two further self-report-specific errors recur. **Introspection limits and social desirability bias** are named as intrinsic to self-report in [[engagement-assessment-video|work on engagement assessment]] and in [[ccct-cooperative-learning-technique|studies whose qualitative data rely on self-report]]. **Common-method variance** arises when predictors and outcomes come from the same respondents at the same time: [[ai-use-critical-thinking-medical-students-2026|a moderated-mediation study of AI use and critical thinking]] operationalized usage, cognitive load, and [[self-regulated-learning|self-regulated learning]] all through standardized self-report instruments at a single time point, and raises common-method bias as a consequence; [[genai-motivation-engagement-2026|a PLS-SEM study of motivation and engagement]] likewise rests entirely on self-report and cannot establish temporal ordering among its mediators.
 
-Administration mode is a second threat the corpus has not yet counted. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme, Schilling & Hantel (2026)]] proposes replacing written course surveys with AI-conducted telephone interviews, and assembles mode-effect evidence that cuts both ways: voice answers run longer and cover more topics, while one randomized comparison of 634 respondents found text responses more differentiated and more candid.
+Administration mode is a second threat the research has not yet counted. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme, Schilling & Hantel (2026)]] proposes replacing written course surveys with AI-conducted telephone interviews, and assembles mode-effect evidence that cuts both ways: voice answers run longer and cover more topics, while one randomized comparison of 634 respondents found text responses more differentiated and more candid.
 
 ## Remedy: adding non-self-report evidence
 
-The knowledge base's constructive answers are consistent, and none of them requires abandoning surveys.
+The constructive answers are consistent, and none of them requires abandoning surveys.
 
 - **Pair self-report with trace or log data.** [[mejeh-fromm-srl-adaptive-learning-feedback-2026|A 194-student, eight-week study of adaptive learning technology]] combined self-report with trace data under hierarchical linear modeling, which is what allowed it to follow self-regulated learning phases as they unfolded rather than as recalled.
 - **Observe practice directly when the claim is about practice.** [[hawkins-feedback-literacy-ai-essay-writing|A screen-recorded assessment task plus video-stimulated interviews]] bridged the gap between self-reported AI use and observed practice, capturing [[metacognition|metacognitive]] awareness the survey could not.
@@ -152,7 +152,7 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - Check who answered and who did not. Response rate, sampling frame, and self-selection decide what the percentages describe — a study of one institution's students describes that setting, not students in general.
 - Check the instrument. Was it validated for this construct and population, and if groups are compared, was invariance tested?
 - Watch for single-source designs. If predictors and outcomes both come from the same questionnaire at one time point, the associations are consistent with common-method variance as well as with the theory proposed.
-- Treat satisfaction as a design signal, not a learning outcome. High satisfaction plus untested learning is the standard configuration in AI tool evaluation, and this corpus shows the two diverging.
+- Treat satisfaction as a design signal, not a learning outcome. High satisfaction plus untested learning is the standard configuration in AI tool evaluation, and the evidence shows the two diverging.
 - Prefer studies that show their working: stated response rates, stated limitations, and at least one source of evidence that does not come from asking.
 
 ## Common Misconceptions

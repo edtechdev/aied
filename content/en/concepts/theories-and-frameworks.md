@@ -1,7 +1,7 @@
 ---
 title: Theories and Frameworks
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ reviewed_by: [editor]
 ---
 
 
-> **Theories and frameworks** — the working inventory of explanatory and organizational structures this knowledge base actually uses. Theories explain why learning happens ([[learning-theories]], [[self-determination-theory]], [[sociocultural-learning]], [[activity-theory-aied|activity theory]]); frameworks organize design, teaching, and adoption decisions ([[tpack]], [[samr-model|SAMR]], [[technology-acceptance-model|technology adoption models]], [[icap-framework|ICAP]], [[universal-design-for-learning|universal design for learning]]); models make learning claims testable and computable ([[item-response-theory|item response theory]], [[assessment-validity]], [[knowledge-tracing]]). Use this page to find the lens a study rests on, or to pick one for your own work.
+> **Theories and frameworks** — the working inventory of explanatory and organizational structures AI-in-education research actually uses. Theories explain why learning happens ([[learning-theories]], [[self-determination-theory]], [[sociocultural-learning]], [[activity-theory-aied|activity theory]]); frameworks organize design, teaching, and adoption decisions ([[tpack]], [[samr-model|SAMR]], [[technology-acceptance-model|technology adoption models]], [[icap-framework|ICAP]], [[universal-design-for-learning|universal design for learning]]); models make learning claims testable and computable ([[item-response-theory|item response theory]], [[assessment-validity]], [[knowledge-tracing]]). Use the inventory to find the lens a study rests on, or to pick one for your own work.
 
 ## Questions to Consider
 
@@ -24,7 +24,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Every AI tutor, feedback system, and dashboard embeds assumptions about how people learn, whether or not the designers state them. This page collects the theories, frameworks, and models those assumptions come from, ordered loosely by how much of the current research literature leans on them, and says briefly what each one is good for. The distinctions among the three labels are real but minor, and they are summarized near the end rather than treated as the subject. What matters practically is which lens a claim rests on, and whether that lens can support the claim.
+Every AI tutor, feedback system, and dashboard embeds assumptions about how people learn, whether or not the designers state them. The inventory collects the theories, frameworks, and models those assumptions come from, ordered loosely by how much of the current research literature leans on them, and says briefly what each one is good for. The distinctions among the three labels are real but minor, and they are summarized near the end rather than treated as the subject. What matters practically is which lens a claim rests on, and whether that lens can support the claim.
 
 ## Learning theories the literature applies
 
@@ -75,7 +75,7 @@ These explain mechanisms: they name the parts that do the work and predict what 
 
 ## Theories coined for the AI era
 
-Four proposals in the knowledge base build theory rather than borrow it. They are article pages rather than concept nodes, because each one is a single argument:
+Four proposals build theory rather than borrow it. They are article pages rather than concept nodes, because each one is a single argument:
 
 - **[[generativism-learning-theory|Generativism]]** — a new learning theory arguing that the classical four show significant conceptual limitations as [[generative-ai|generative AI]] proliferates.
 - **[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Epistemic co-agency]]** — a model of how learners and AI systems jointly produce knowledge and understanding.
@@ -93,7 +93,7 @@ The words are used loosely in the literature, and the difference is worth one pa
 
 ## Related layers
 
-Two neighbouring pages are deliberately about something else. [[philosophy-of-ai-in-education|Philosophy of AI in education]] asks normative and conceptual questions — what education is *for*, whether a machine can teach — and does not predict effect sizes; a study can be philosophically naive and theoretically sound, or the reverse. [[theory-development-aied|Theory development]] is the meta-activity of building, borrowing, and revising theory, including the standing critique that much [[ai-education|AIED]] work applies existing theory rather than testing it. This page is the inventory; theory development is about producing and revising the inventory.
+Two neighbouring pages are deliberately about something else. [[philosophy-of-ai-in-education|Philosophy of AI in education]] asks normative and conceptual questions — what education is *for*, whether a machine can teach — and does not predict effect sizes; a study can be philosophically naive and theoretically sound, or the reverse. [[theory-development-aied|Theory development]] is the meta-activity of building, borrowing, and revising theory, including the standing critique that much [[ai-education|AIED]] work applies existing theory rather than testing it. Collecting frameworks is a cataloging job; theory development is about producing and revising them.
 
 ## Choosing a lens when the question is practical
 

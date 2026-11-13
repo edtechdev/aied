@@ -1,6 +1,6 @@
 ---
 title: "Mapping the Integration of AI Literacy Into Information Literacy Instruction in Academic Libraries: A Systematic Review of Emerging Research"
-created: "2026-11-05T04:00:00-05:00"
+created: "2026-11-05T03:32:52-05:00"
 updated: "2026-11-05T04:00:00-05:00"
 type: article
 published: "2026-06-01"

@@ -1,7 +1,7 @@
 ---
 title: Group Work
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-10T19:35:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -28,19 +28,19 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Group work occupies a distinctive place in [[higher-ed|higher education]] and [[professional-training|professional training]]: it is valued for building collaboration, communication, and shared responsibility, and it is pedagogically central in professionally oriented programs such as [[teacher-education|teacher education]]. Its promise is not automatically realized, however. Both teachers and students report obstacles to effective collaboration, and a graded group product carries two different claims at once — about what the group accomplished and about what each individual learned. AI, and [[generative-ai|generative AI]] in particular, presses on both: it changes how work can be divided, how easily contributions can be fused, and how each member's thinking can be distinguished from a tool's output. A large part of the knowledge base's collaborative-learning research bears on group work, and this page draws on several strands of it rather than any single study.
+Group work occupies a distinctive place in [[higher-ed|higher education]] and [[professional-training|professional training]]: it is valued for building collaboration, communication, and shared responsibility, and it is pedagogically central in professionally oriented programs such as [[teacher-education|teacher education]]. Its promise is not automatically realized, however. Both teachers and students report obstacles to effective collaboration, and a graded group product carries two different claims at once — about what the group accomplished and about what each individual learned. AI, and [[generative-ai|generative AI]] in particular, presses on both: it changes how work can be divided, how easily contributions can be fused, and how each member's thinking can be distinguished from a tool's output. A large part of the collaborative-learning research bears on group work, and several strands of it matter rather than any single study.
 
 ## Why group work is difficult by design
 
 - **Free-riding and social loafing.** Some members reduce their contribution and the workload is redistributed onto more engaged peers. Task scope, group size, and [[writing-education|composition]] raise the likelihood; accountability mechanisms and group efficacy reduce it.
-- **Accountability is relational as well as structural.** In Hong Kong — where one of the knowledge base's group-assessment studies was conducted — undergraduates often chose *not* to report free-riding to protect interpersonal relationships, completing the work themselves instead of confronting the problem. Students' [[agency]] can therefore take the form of pursuing the grade while avoiding the conflict.
+- **Accountability is relational as well as structural.** In Hong Kong, where one of the group-assessment studies was conducted, undergraduates often chose *not* to report free-riding to protect interpersonal relationships, completing the work themselves instead of confronting the problem. Students' [[agency]] can therefore take the form of pursuing the grade while avoiding the conflict.
 - **The collaboration has to be designed, not assumed.** Where a task can be partitioned into independent subtasks, students take that route and the group becomes a submission format rather than a joint intellectual endeavor. [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found three of their fifteen groups doing exactly this — dividing the work, working on "individual platforms," and never pooling their individual GenAI capabilities even when coherence was an explicit assessment criterion.
 - **Process versus product.** Group work is strongest when the process is assessed alongside the output, which requires [[peer-assessment|peer assessment]] or other visible intermediates rather than a single final artifact.
 - **[[equity-in-ai-education|Equity]] and [[inclusive-learning|inclusion]].** Contribution norms, language, and confidence distribute unequally inside groups. [[neurodivergent-computing-students|Neurodivergent students]] report needing structured assignments, small consistent teams, and explicitly defined roles — requirements that AI collaboration tools, often built for the "average" learner, routinely fail to accommodate.
 
 ## How AI changes group work
 
-Research on AI in group work addresses two distinct things: what AI adds to a group's *task*, and what AI does to the group's *process*. Both matter, and the knowledge base's findings span them.
+Research on AI in group work addresses two distinct things: what AI adds to a group's *task*, and what AI does to the group's *process*. Both matter, and the findings span them.
 
 ### AI as coordination infrastructure
 

@@ -1,6 +1,6 @@
 ---
 title: "Students Learn to Use Generative AI Before Learning to Question It: Ordinal Trajectories of Academic Use and Caution from Adolescence to University"
-created: "2026-11-09T09:35:00-05:00"
+created: "2026-11-09T09:21:50-05:00"
 updated: "2026-11-09T10:20:00-05:00"
 type: article
 page_kind: [evaluation]

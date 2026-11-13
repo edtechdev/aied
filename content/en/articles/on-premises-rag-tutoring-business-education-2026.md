@@ -1,6 +1,6 @@
 ---
 title: "On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor"
-created: "2026-10-05T10:00:00-04:00"
+created: "2026-10-05T09:50:49-04:00"
 updated: "2026-10-05T10:00:00-04:00"
 type: article
 sources: ['raw/papers/on-premises-rag-tutoring-business-education-2026.md']

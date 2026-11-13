@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Design Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: low
 reviewed_by: [editor]
 ---
-> **Design Thinking** — a key concept in [[ai-education|AI in education]] research: a human-centered, iterative [[problem-solving]] process (typically Empathize → Define → Ideate → Prototype → Test) that moves learners from understanding a problem to producing and refining a solution. Explored across 8 articles in this knowledge base.
+> **Design Thinking** — a key concept in [[ai-education|AI in education]] research: a human-centered, iterative [[problem-solving]] process (typically Empathize → Define → Ideate → Prototype → Test) that moves learners from understanding a problem to producing and refining a solution. Explored across 8 articles.
 
 ## Questions to Consider
 
@@ -19,14 +19,14 @@ reviewed_by: [editor]
 - Generative AI excels at early-stage ideation but can cause 'design fixation' or aesthetic lock-in if used uncritically. Have you ever latched onto a first AI suggestion and struggled to see alternatives?
 - One study found that an adversarial AI that challenged designers produced more iterations, broader exploration, and better final designs — but was frustrating to use. When is friction with an AI genuinely productive?
 - Students who used GenAI heavily in design reported it did NOT reduce their sense of ownership or creativity. Does that contradict the worry that AI erodes authorship — or does it depend on how the tool is orchestrated?
-- Design thinking enters this corpus in two ways: as a skill learners are taught and assessed on, and as an approach teachers adopt when they create AI-supported learning. Which role is more relevant to your work, and how does that change the design principles you'd apply?
+- Design thinking enters AI-supported education in two ways: as a skill learners are taught and assessed on, and as an approach teachers adopt when they create AI-supported learning. Which role is more relevant to your work, and how does that change the design principles you'd apply?
 - In practice, most of the effort goes into iterative [[prompt-engineering|prompting]] and generation, while assessment of learner needs and feedback loops get neglected. What does it mean to treat AI as a 'fallible co-intelligent collaborator' rather than a content generator?
 
 ## Introduction
 
-Design thinking sits at the intersection of creativity, craft, and critique — and it is increasingly where [[generative-ai]] and [[agentic-ai]] are reshaping how students learn to design. Across this knowledge base's connected articles, design thinking appears in two distinct roles: as a *[[pedagogy|pedagogical]] object* (the skill being taught and measured) and as a *pedagogical method* (the process educators themselves use to build AI-supported learning). In both roles, the same tension recurs: generative tools can accelerate ideation and broaden participation, but their value depends on how they are orchestrated, on the [[feedback]] they provide, and on whether the learner retains a genuine sense of [[agency]].
+Design thinking sits at the intersection of creativity, craft, and critique — and it is increasingly where [[generative-ai]] and [[agentic-ai]] are reshaping how students learn to design. Across the research, design thinking appears in two distinct roles: as a *[[pedagogy|pedagogical]] object* (the skill being taught and measured) and as a *pedagogical method* (the process educators themselves use to build AI-supported learning). In both roles, the same tension recurs: generative tools can accelerate ideation and broaden participation, but their value depends on how they are orchestrated, on the [[feedback]] they provide, and on whether the learner retains a genuine sense of [[agency]].
 
-## Evidence from the knowledge base
+## Evidence from the research
 
 - **GenAI in design studios and architecture.** Two architecture-focused studies ground the concept in [[arts-design-and-media-education|studio pedagogy]]. [[genai-architecture-education|Gen-AI-tecture]] found that a locally executed, [[discipline-specific-aied|discipline-specific]] tool enhanced creative fluency, broadened participation across diverse learner profiles, and strengthened confidence in AI-supported workflows — an important signal for [[equity-in-ai-education]] as visual-spatial design becomes more accessible. [[genai-architectural-design-studios|GenAI in architectural design studios]] likewise found students using GenAI as visual stimuli and inspirational resources in early ideation, and as a combinatorial method for expanding the solution space during development. Crucially, both warn that without critical discernment students risk **design fixation** or aesthetic lock-in, reframing the [[teacher-role]] in [[higher-ed]] from transmitting craft to coaching how, when, and why to delegate creative exploration to generative models. [[creativity|Creativity]] is thereby preserved and even amplified — but only under careful pedagogical orchestration.
 

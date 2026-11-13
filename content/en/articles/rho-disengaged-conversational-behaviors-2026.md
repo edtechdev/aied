@@ -1,6 +1,6 @@
 ---
 title: Disengaged Conversational Behaviors and Learning in Student-AI Dialogues for Mathematical Problem Solving
-created: "2026-10-11T10:30:00-04:00"
+created: "2026-10-11T07:41:34-04:00"
 updated: "2026-10-28T01:06:31-04:00"
 type: article
 foundations: [ai-education]

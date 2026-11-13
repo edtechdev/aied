@@ -1,7 +1,7 @@
 ---
 title: "How Do I Teach Students to Verify AI Output?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-28T11:43:14-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [incorporating-ai-literacy, study-with-ai, reducing-over-reliance, asynchronous-online-courses-ai]
 weight: 65
 type: faq
@@ -143,4 +143,4 @@ Distrust the feeling that the prose reads well. Novices asked to explain LLM-gen
 
 ## Where to go next
 
-[[incorporating-ai-literacy]] covers how to build the understanding this page puts to work, and [[ai-literacy-evidence]] covers what that literacy work is worth. [[reducing-over-reliance]] handles the design side of students who lean on the tool, [[study-with-ai]] is the student-facing companion, and [[asynchronous-online-courses-ai]] covers the version of this problem with no class meeting to schedule a check into. On the feedback students are checking, see [[ai-feedback-quality]] and [[hallucination-risk]].
+[[incorporating-ai-literacy]] covers how to build the understanding that verification depends on, and [[ai-literacy-evidence]] covers what that literacy work is worth. [[reducing-over-reliance]] handles the design side of students who lean on the tool, [[study-with-ai]] is the student-facing companion, and [[asynchronous-online-courses-ai]] covers the version of this problem with no class meeting to schedule a check into. On the feedback students are checking, see [[ai-feedback-quality]] and [[hallucination-risk]].

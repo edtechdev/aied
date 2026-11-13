@@ -1,6 +1,6 @@
 ---
 title: "Metacognitive disengagement and knowledge innovation quality in human–AI collaboration: the mediating role of cognitive offloading and the moderating roles of task complexity and AI literacy"
-created: "2026-11-04T16:20:00-05:00"
+created: "2026-11-04T14:09:25-05:00"
 updated: "2026-11-04T16:20:00-05:00"
 type: article
 sources: ['raw/papers/xiao-metacognitive-disengagement-knowledge-innovation-2026.md']

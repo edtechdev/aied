@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -16,16 +16,16 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- Motivation is often treated as a trait some students 'have' and others lack. The page describes it instead as psychological processes that initiate, direct, and sustain behavior — and as something developmental and socially scaffolded. How does that reframe who is responsible for student motivation?
+- Motivation is often treated as a trait some students 'have' and others lack. Motivation is instead psychological processes that initiate, direct, and sustain behavior, and something developmental and socially scaffolded. How does that reframe who is responsible for student motivation?
 - AI tools can remove friction and make learning more accessible, but they can also reduce the cognitive effort and struggle that support intrinsic motivation. When has making something 'easier' actually made it less motivating or less satisfying for you?
 - Self-determination theory says intrinsic motivation grows from autonomy, competence, and relatedness. If an [[intelligent-tutoring|AI tutor]] does most of the work, which of those three might it threaten — and which might it enhance?
 - Research finds distinct motivational profiles among students in an AI [[curriculum-design|curriculum]], and that reaching a self-determined profile predicted the largest AI-literacy gains. What might it take for a learner to move from passively disengaged to genuinely self-determined in using AI?
-- The page reports that teacher support drives AI-assisted engagement largely through mastery-approach and performance-approach goals — the 'approach' rather than 'avoidance' orientations. How does the way a teacher frames AI use ('to get it right' vs. 'to avoid looking wrong') shape whether students engage deeply?
+- Teacher support drives AI-assisted engagement largely through mastery-approach and performance-approach goals — the 'approach' rather than 'avoidance' orientations. How does the way a teacher frames AI use ('to get it right' vs. 'to avoid looking wrong') shape whether students engage deeply?
 - If you're designing for motivation, is the goal to make learning easier, more engaging, or more meaningfully effortful? Where do [[accessibility]] and intrinsic motivation pull in opposite directions?
 
 ## Introduction
 
-Motivation is a foundational construct in education research, and the rise of AI in education has made it more consequential: AI tools can remove friction and make learning more accessible, but they can also reduce the cognitive effort and struggle that support intrinsic motivation and deep learning. The articles in this knowledge base explore motivation across learner-facing AI tools, teacher-facing AI systems, and the psychological mechanisms — [[self-determination-theory|self-determination]], [[self-efficacy-tutoring-learning|self-efficacy]], emotions — through which AI shapes motivated behavior.
+Motivation is a foundational construct in education research, and the rise of AI in education has made it more consequential. An AI that makes a task easier may also make it less motivating, since the effort itself is part of what sustains interest. The research explores motivation across learner-facing AI tools, teacher-facing AI systems, and the psychological mechanisms — [[self-determination-theory|self-determination]], [[self-efficacy-tutoring-learning|self-efficacy]], emotions — through which AI shapes motivated behavior.
 
 - **[[lee-wu-gender-motivation-genai-achievement-2026|Lee & Wu]]** show gender and motivation drive differential engagement with GenAI, with distinct [[learning-gains|achievement]] trajectories.
 

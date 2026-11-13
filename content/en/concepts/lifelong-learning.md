@@ -1,7 +1,7 @@
 ---
 title: Lifelong Learning
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-11-12T21:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
@@ -15,8 +15,8 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - Think about the last new skill you learned outside formal schooling — on the job, online, or self-taught. Who decided what to learn, how to learn it, and when you were 'done'? How would AI change that picture?
-- A central question in the page is autonomy: as AI participates in identifying your learning needs, setting your goals, and even producing content, what remains genuinely [[self-directed-learning|self-directed]] in your own learning?
-- Formal education treats time as fixed and curricula as sequential. The page proposes 'Learnity graphs' — interconnected units of knowledge learners navigate flexibly across a lifetime. What do you gain, and what do you risk losing, by freeing learning from a fixed sequence?
+- A central question is autonomy: as AI participates in identifying your learning needs, setting your goals, and even producing content, what remains genuinely [[self-directed-learning|self-directed]] in your own learning?
+- Formal education treats time as fixed and curricula as sequential. A proposed design, 'Learnity graphs', offers interconnected units of knowledge learners navigate flexibly across a lifetime. What do you gain, and what do you risk losing, by freeing learning from a fixed sequence?
 - AI can both support adult learners and change which skills adults must continuously update. If AI keeps reshaping your field, what capabilities would you invest in that no tool can simply give you?
 - Lifelong learning is often framed as an individual's responsibility. But access across the lifespan is also an equity question. Who gets the time, resources, and support to keep learning as an adult — and how might AI widen or narrow that gap?
 

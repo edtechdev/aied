@@ -1,6 +1,6 @@
 ---
 title: "Prompted to Explore: A Microlearning Model for Faculty Development in Generative AI"
-created: "2026-11-10T20:45:00-05:00"
+created: "2026-11-10T19:10:44-05:00"
 updated: "2026-11-12T18:40:00-05:00"
 type: article
 sources: ['raw/papers/bodek-prompted-to-explore-microlearning-2026.md']

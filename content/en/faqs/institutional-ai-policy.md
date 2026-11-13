@@ -1,7 +1,7 @@
 ---
 title: "How Do We Write and Implement an Institutional AI Policy?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-12T15:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research, adopting-ai-options-and-issues]
 weight: 65
 type: faq
@@ -99,7 +99,7 @@ Three sentences belong in the document itself: what evidence a finding may rest 
 
 ## Say what you will measure before you publish
 
-No study in this corpus measures whether an institution's AI policy changed student behavior, staff practice or learning outcomes. What exists is descriptive. Manikonda and Outlaw find policy language weak and misaligned. Ashiq documents drift. Baroudi names the absence of longitudinal and causal evidence as a gap. Eldredge et al. caution that analyzing public documents creates a visibility bias, so missing privacy or equity language is a finding about published guidance rather than about practice.
+No study measures whether an institution's AI policy changed student behavior, staff practice or learning outcomes. What exists is descriptive. Manikonda and Outlaw find policy language weak and misaligned. Ashiq documents drift. Baroudi names the absence of longitudinal and causal evidence as a gap. Eldredge et al. caution that analyzing public documents creates a visibility bias, so missing privacy or equity language is a finding about published guidance rather than about practice.
 
 Two habits follow. Attach an evaluation plan to the policy: what you will measure, when, and who owns the finding. And when a colleague cites another institution's policy as proof that a measure works, check whether the claim is about a document or about an outcome. [[policy-deficit-ai-sel-2026|Tran, Liu and Nguyen (2026)]] reviewed 65 peer-reviewed papers on AI and [[social-emotional-learning|social-emotional learning]] and found nearly three-quarters mentioned no policy implications at all. Of the minority that did, most lacked the actor-specific detail real policymaking needs: who should act, on what, why, when and how.
 

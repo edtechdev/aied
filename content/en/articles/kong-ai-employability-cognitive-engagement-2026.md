@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence in higher education and graduate employability: cognitive engagement, self-efficacy, and career adaptability in the AI era"
-created: "2026-11-04T15:00:00-05:00"
+created: "2026-11-04T13:24:11-05:00"
 updated: "2026-11-04T15:00:00-05:00"
 type: article
 published: "2026"

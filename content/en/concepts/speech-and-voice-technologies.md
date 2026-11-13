@@ -1,7 +1,7 @@
 ---
 title: Speech and Voice Technologies
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -13,7 +13,7 @@ discipline: [language learning]
 reviewed_by: [editor]
 ---
 
-> **Speech and voice [[ai-technologies|technologies]]** — the family of AI systems in which the spoken channel carries the interaction: automatic speech recognition (ASR) that transcribes, analyses, and grades what a learner says; text-to-speech (TTS) that generates narrated or dialogue-form instruction; voice-first agents that hold real-time spoken conversation with learners; and automated capture and scoring of oral performance. Where [[conversational-ai]] research is mostly about text chatbots and [[language-learning]] covers second-language pedagogy broadly, this page follows the audio itself — what a speech interface changes about learning, what it costs, and who it includes or excludes when the interface is a voice rather than a screen.
+> **Speech and voice [[ai-technologies|technologies]]** — the family of AI systems in which the spoken channel carries the interaction: automatic speech recognition (ASR) that transcribes, analyses, and grades what a learner says; text-to-speech (TTS) that generates narrated or dialogue-form instruction; voice-first agents that hold real-time spoken conversation with learners; and automated capture and scoring of oral performance. Where [[conversational-ai]] research is mostly about text chatbots and [[language-learning]] covers second-language pedagogy broadly, the focus is the audio itself: what a speech interface changes about learning, what it costs, and who it includes or excludes when the interface is a voice rather than a screen.
 
 ## Questions to Consider
 
@@ -22,7 +22,7 @@ reviewed_by: [editor]
 - Two findings run against intuition: students who read the AI's output most heavily during interpreting tasks had the weakest delivery fluency, and a learner who answered in two words was marked correct while a fuller spoken answer was flagged. How much does a voice interface measure verbal fluency rather than understanding?
 - A voice agent with a British accent was treated as a tool, while agents with Indian and African American accents were anthropomorphized and treated as peers in [[k-12]] [[group-work|group work]]. If accent changes how a learner relates to an agent, who should decide which voice an educational product ships with?
 - Voice-first and offline systems exist mainly to reach learners that screen-based [[edtech-platform|edtech]] excluded — blind children, deaf and hard-of-hearing learners, learners in workshops with no connectivity. What would it take for accessibility to be the starting assumption of a speech product rather than a later fix?
-- Nearly every claim on this page comes from a short, single-site, self-report study with a fixed presentation order. Which of these findings would you trust enough to change your assessment or lesson design before a replication exists?
+- Nearly every claim rests on a short, single-site, self-report study with a fixed presentation order. Which of these findings would you trust enough to change your assessment or lesson design before a replication exists?
 
 ## Introduction
 
@@ -76,7 +76,7 @@ Speech technology's accessibility record is mixed: the same channel that removes
 
 AkoVoice adds two equity considerations that rarely surface together. First, data: recordings were encrypted at rest, hosted locally, and deleted after 90 days, and the authors treat a participant's voice as a personal and cultural expression rather than a resource for training models or building biometric profiles — a stance that matters because the EU AI Act classifies AI used to evaluate learning outcomes in [[professional-training|vocational training]] as high-risk. Second, accent and register: speech-to-text accuracy was not fully tested across learner accents, and rubric criteria such as "engaging" were flagged as culturally specific and potentially penalizing to second-language speakers, prompting a review notes field. Set beside the accent findings in K-12 group work and the near-total visual assumption of mainstream edtech, the pattern is that the voice interface removes sight, reading-speed, and connectivity barriers while leaving accent, recognition accuracy, hardware cost, and cultural register open.
 
-Scope check. This page is about the spoken channel and the technology that carries it. For second-language pedagogy at large — writing development, grammatical accuracy, motivation, teacher practice — go to [[language-learning]], which spans L2 instruction with AI and treats speaking as one strand among several. For text-based chatbots and dialogue design independent of modality, go to [[conversational-ai]]; several articles here involve dialogue, but their question is about speech, not about prompting a chat model. For screen readers, captioning, tactile graphics, and assistive tools that are not primarily speech-based, go to [[assistive-technology]], which sits under the broader [[accessibility]] and [[inclusive-learning]] strands of this wiki.
+Scope check. The subject is the spoken channel and the technology that carries it. For second-language pedagogy at large — writing development, grammatical accuracy, motivation, teacher practice — go to [[language-learning]], which spans L2 instruction with AI and treats speaking as one strand among several. For text-based chatbots and dialogue design independent of modality, go to [[conversational-ai]]; several articles here involve dialogue, but their question is about speech, not about prompting a chat model. For screen readers, captioning, tactile graphics, and assistive tools that are not primarily speech-based, go to [[assistive-technology]], which belongs with the broader [[accessibility]] and [[inclusive-learning]] concepts.
 
 ## What Remains Uncertain
 

@@ -1,6 +1,6 @@
 ---
 title: "Measuring undergraduate students' reliance on generative AI during problem-solving: Scale development and validation"
-created: "2026-10-23T09:45:00-04:00"
+created: "2026-10-23T09:21:12-04:00"
 updated: "2026-10-23T09:45:00-04:00"
 type: article
 foundations: [cognitive-offloading, cognitive-surrender, human-ai-collaboration]

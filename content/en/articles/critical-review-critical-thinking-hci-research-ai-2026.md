@@ -1,6 +1,6 @@
 ---
 title: "A Critical Review of Critical Thinking in HCI Research About AI"
-created: "2026-09-28T05:05:00-04:00"
+created: "2026-09-28T04:55:02-04:00"
 updated: "2026-09-28T05:05:00-04:00"
 type: article
 sources: ['raw/papers/critical-review-critical-thinking-hci-research-ai-2026.md']

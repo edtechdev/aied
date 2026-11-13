@@ -1,6 +1,6 @@
 ---
 title: "Personalizing Student-Agent Interactions Using Log-Contextualized Retrieval-Augmented Generation (RAG)"
-created: "2026-10-24T06:25:00-04:00"
+created: "2026-10-24T06:22:15-04:00"
 updated: "2026-10-24T06:25:00-04:00"
 type: article
 authors: ["Cohn, C.", "Rayala, S.", "Snyder, C.", "Horn Fonteles, J.", "Jain, S.", "Mohammed, N.", "Timalsina, U.", "Burriss, S. K.", "Ashwin T S", "Srivastava, N.", "Deweese, M.", "Eeds, A.", "Biswas, G."]

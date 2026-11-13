@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -19,9 +19,9 @@ connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 - Change management here is described as governing continuous adaptation under uncertainty, because generative AI arrived in classrooms before pedagogical evidence accumulated. What does it mean to manage change when you can't wait for best practices but also can't responsibly scale untested innovations?
 - A recurring obstacle is the gap between top-down policy intent and classroom reality — for instance, policies that encourage GenAI while course syllabi prohibit it, leaving instructors to improvise. Why do you think policy and practice drift apart so easily around AI?
 - [[research-methods-aied|Research]] finds that a faculty member's pedagogical orientation — what they believe AI means for disciplinary knowledge — is the strongest predictor of adoption, while institutional initiatives and demographics are surprisingly weak predictors. What does that suggest about where change efforts should focus their energy?
-- The page notes that only 7% of institutions have created senior AI leadership roles despite 49% viewing AI as a strategic priority. What do you think it signals when an institution calls something strategic but doesn't resource it with leadership?
+- Nearly half of institutions call AI a strategic priority; 7% have created a senior leadership role for it. What do you think it signals when an institution calls something strategic but doesn't resource it with leadership?
 - A coordination-game model explains why policy statements alone fail: [[student-ai-interaction|student AI use]] is a collective norm-formation process, and small, well-calibrated changes to assessment incentives can trigger rapid cohort-wide shifts toward responsible use. How might changing assessment incentives do more than issuing a policy ever could?
-- The page warns that fragmented adoption widens existing gaps — inclusion, equity, and sustainability are often overlooked even where core ethical principles are embraced. Which [[learners]] or institutions do you suspect lose out when change is managed unevenly, and how would you keep them central?
+- Adoption that proceeds unevenly can leave inclusion, equity, and sustainability behind, even where ethical principles are endorsed. Which [[learners]] or institutions do you suspect lose out when change is managed unevenly, and how would you keep them central?
 
 ## Introduction
 

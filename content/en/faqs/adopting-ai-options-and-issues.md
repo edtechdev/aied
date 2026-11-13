@@ -1,6 +1,6 @@
 ---
 title: "What Are the Options and Issues to Consider When Adopting AI Tools?"
-created: "2026-11-12T15:20:00-05:00"
+created: "2026-11-12T08:09:57-05:00"
 updated: "2026-11-12T17:10:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]

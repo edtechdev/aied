@@ -1,6 +1,6 @@
 ---
 title: "AI literacy and vocational students’ complex problem-solving skills: a moderated mediation model of systematic thinking, cognitive load, and perceived school ICT support"
-created: "2026-11-04T16:20:00-05:00"
+created: "2026-11-04T14:09:25-05:00"
 updated: "2026-11-04T16:20:00-05:00"
 type: article
 sources: ['raw/papers/huang-ai-literacy-vocational-problem-solving-2026.md']

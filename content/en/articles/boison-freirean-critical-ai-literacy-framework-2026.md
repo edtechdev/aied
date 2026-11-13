@@ -1,6 +1,6 @@
 ---
 title: "From competency to conscientization: a Freirean critical AI literacy framework for post-secondary education"
-created: "2026-11-12T07:10:00-05:00"
+created: "2026-11-12T06:08:21-05:00"
 updated: "2026-11-12T07:10:00-05:00"
 type: article
 page_kind: [framework]

@@ -1,6 +1,6 @@
 ---
 title: "A Meta-Analysis of AI-Assisted Self-Regulated Learning"
-created: "2026-11-07T14:15:00-05:00"
+created: "2026-11-07T10:06:57-05:00"
 updated: "2026-11-07T14:15:00-05:00"
 published: "2026"
 type: article

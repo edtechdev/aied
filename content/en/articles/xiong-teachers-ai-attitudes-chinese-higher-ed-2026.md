@@ -1,6 +1,6 @@
 ---
 title: "Teachers’ attitudes and behavioural intentions towards AI integration in Chinese higher education: a qualitative interview study"
-created: "2026-11-12T07:10:00-05:00"
+created: "2026-11-12T06:08:21-05:00"
 updated: "2026-11-12T18:40:00-05:00"
 type: article
 page_kind: [evaluation]

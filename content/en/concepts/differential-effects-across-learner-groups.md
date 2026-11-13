@@ -1,7 +1,7 @@
 ---
 title: Differential Effects Across Learner Groups
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-11-06T03:00:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -15,7 +15,7 @@ connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, 
 reviewed_by: [editor]
 ---
 
-> **Differential effects across learner groups** — what [[ai-education|AI in education]] research finds about how the *use* of AI and its *effects* differ across kinds of learners: [[inclusive-learning|students with disabilities]] and [[neurodiversity|neurodivergent students]], second-language and [[multilingual-learning|multilingual learners]], girls and boys, minoritized students, students from lower-income backgrounds, rural students, first-generation students, international students, and [[adult-learning|adult learners]]. The pattern worth carrying away is uneven in two directions at once: some strands have real evidence (disability, language) while others are close to empty (first-generation, international, refugee), and even the strong strands rarely establish that a *group* differs — they establish that a tool helped or harmed a sample of that group, which is a different claim. This page maps what exists, what it shows, and the methodological reasons a group average is not a prediction about a learner.
+> **Differential effects across learner groups** — what [[ai-education|AI in education]] research finds about how the *use* of AI and its *effects* differ across kinds of learners: [[inclusive-learning|students with disabilities]] and [[neurodiversity|neurodivergent students]], second-language and [[multilingual-learning|multilingual learners]], girls and boys, minoritized students, students from lower-income backgrounds, rural students, first-generation students, international students, and [[adult-learning|adult learners]]. The pattern worth carrying away is uneven in two directions at once. Some strands have real evidence (disability, language) while others are close to empty (first-generation, international, refugee). Even the strong strands rarely establish that a *group* differs: they establish that a tool helped or harmed a sample of that group, which is a different claim. Across these strands, what exists, what it shows, and the methodological reasons a group average is not a prediction about a learner differ sharply.
 
 ## Questions to Consider
 
@@ -23,14 +23,14 @@ reviewed_by: [editor]
 - Research on students with disabilities reports effects that vary by disability category. If two categories sit at very different effect sizes in the same [[meta-analysis-systematic-review|meta-analysis]], what does that say about treating "disability" as one group in a design decision?
 - Several studies find AI tools that do *not* differ by gender in their effects, and other work shows that [[ai-feedback-quality|AI feedback]] and AI-assisted writing *do* reproduce gender stereotypes when personas or prompts carry them. How can both be true at once?
 - Most fairness work tests simulated student personas rather than real learners, because real demographic attributes are not available to the model at inference in most deployments. What can a counterfactual persona audit establish, and what can it not?
-- Reviewing the strands on this page, which learner groups are actually represented in the studies behind your tool's validation — and what would you do about a group that is absent?
+- Which learner groups are actually represented in the studies behind your tool's validation, and what would you do about a group that is absent?
 - An intervention that raises outcomes for everyone but closes a gap (helping the students who were behind the most) has a different equity story from one that raises the average. When you evaluate a pilot, are you measuring the gap or the mean?
 
 ## Introduction
 
-Two questions hide inside "does AI work for *this* kind of student?". The first is about effects: whether a tool produces different outcomes for different groups. The second is about use: whether different groups adopt, access, or interact with the same tool differently, which can shape outcomes without any differential effect at all. This page covers both, group by group, and states plainly where the literature stops.
+Two questions hide inside "does AI work for *this* kind of student?". The first is about effects: whether a tool produces different outcomes for different groups. The second is about use: whether different groups adopt, access, or interact with the same tool differently, which can shape outcomes without any differential effect at all. Both questions are answered group by group, and the literature stops plainly short in places.
 
-It is deliberately not a duplicate of its neighbours. [[equity-in-ai-education|Equity in AI Education]] carries the normative and structural frame — access, representation, and outcome equity, and the argument for what AI in education *should* do. [[inclusive-learning|Inclusive Learning]] carries the design frame, including [[universal-design-for-learning|Universal Design for Learning]]. [[digital-divide|Digital Divide]] covers the access-and-skills layers. [[neurodiversity]], [[special-education|Special Education]], [[accessibility]], and [[multilingual-learning|Multilingual Learning]] go deep on single groups. What is left for this page is the cross-group evidence map and the appraisal question: how these effects are estimated, which groups are studied at all, and what a group-level finding licenses you to do.
+It is deliberately not a duplicate of its neighbours. [[equity-in-ai-education|Equity in AI Education]] carries the normative and structural frame — access, representation, and outcome equity, and the argument for what AI in education *should* do. [[inclusive-learning|Inclusive Learning]] carries the design frame, including [[universal-design-for-learning|Universal Design for Learning]]. [[digital-divide|Digital Divide]] covers the access-and-skills layers. [[neurodiversity]], [[special-education|Special Education]], [[accessibility]], and [[multilingual-learning|Multilingual Learning]] go deep on single groups. What is left is the cross-group evidence map and the appraisal question: how these effects are estimated, which groups are studied at all, and what a group-level finding licenses you to do.
 
 ## How group differences get reported, and why most of it cannot
 
@@ -48,7 +48,7 @@ It is deliberately not a duplicate of its neighbours. [[equity-in-ai-education|E
 
 ## Disability and neurodivergence
 
-This is the deepest strand in the knowledge base, and the one where the reporting is strongest.
+Disability is the deepest strand, and the one where the reporting is strongest.
 
 - **Effects are real but unevenly distributed by outcome.** In [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al. (2024)]], [[learning-gains|academic performance]] showed the largest effect (k = 80, g = 0.929), ahead of daily-life and other skills (g = 0.766) and social-emotional skills (k = 144, g = 0.382). Publication bias was present (Egger's test β = 2.837, p < .001); trim-and-fill reduced the pooled estimate to g = 0.2694, which remained statistically significant. Read the headline effect and the bias-adjusted one together.
 - **The field has reorganized around [[generative-ai|generative AI]].** The [[assistive-tech-neurodivergent-higher-ed-review-2026|scoping review of digital assistive technologies for neurodivergent students]] screened 766 records to include 40 empirical studies, of which 15 used generative AI and 11 used immersive formats. The strand is small and recent rather than mature.
@@ -63,7 +63,7 @@ This is the deepest strand in the knowledge base, and the one where the reportin
 By article count this is the largest strand, and it splits cleanly into tool effects and tool harms.
 
 - **Tool effects are promising and noisy.** [[robot-assisted-language-learning-meta-analysis-2026|Wang, Zhang and Zou (2026)]] meta-analyzed 11 studies (17 effect sizes, N = 595) of robot-assisted [[language-learning|language learning]] and found a positive overall effect (g = 0.83, 95% CI [0.46, 1.21]) with high heterogeneity (I² = 84.4%); of six moderators tested, only robot-learner interaction type was significant. An evidence base this size supports a provisional [[benchmark]], not a procurement decision.
-- **The infrastructure itself is uneven before any tool is used.** [[structural-silence-underrepresented-language-ai-2026|Roy and Roy (2026)]] document the corpus gap with Bengali as the case: under 0.5% of global web content against roughly 49.5% for English, despite Bengali speakers being nearly 4% of the world's population.
+- **The infrastructure itself is uneven before any tool is used.** [[structural-silence-underrepresented-language-ai-2026|Roy and Roy (2026)]] document the gap in web content with Bengali as the case: under 0.5% of global web content against roughly 49.5% for English, despite Bengali speakers being nearly 4% of the world's population.
 - **Language of instruction changes outcomes across 294 higher-education students.** The same review reports that foreign-language content yielded lower outcomes than native-language instruction, and that bilingual [[cs-education|programming]] instruction outperformed English-only instruction.
 - **Detectors penalize second-language writers.** [[hadra-ai-detector-accuracy-efl-2026|Hadra, Cambridge and Mesbah (2026)]] tested Turnitin and Originality against 192 texts: one detector classified 48 of 48 professionally authored texts correctly but misclassified four of 48 EFL student texts (91.6%). The asymmetry is the point — the error lands on the group whose writing is already being scrutinized.
 
@@ -90,24 +90,24 @@ This strand is small in article count and strong in mechanism, because the evide
 
 - **Digital literacy, not AI usage, is the mediator.** [[ai-divide-ses-personality-primary-education-2026|Wang and colleagues (2026)]] modeled survey and national registry data from 4,497 Grade 6 students in the Netherlands and found the link between personality traits and academic performance ran through digital literacy rather than AI usage intensity, with differences in digital literacy driven more by personality than by socioeconomic status — and SES advantages operating independently of AI engagement. The classic SES-only framing is incomplete.
 - **Geography can be the binding constraint.** [[arc-hubs-k12-ai-robotics-rural-2026|ARC's account]] of [[k-12]] robotics and AI education reports that rural FIRST LEGO League participation fell in the 2020 remote season and never recovered while urban participation gradually did, and identifies sustained local technical mentorship — not kits or [[curriculum-design|curriculum]] — as the constraint that is distributed geographically.
-- **Adult learners are a separate design case,** covered by [[adult-learning|Adult Learning]] and the knowledge base's andragogy work rather than by K-12 studies.
+- **Adult learners are a separate design case,** covered by [[adult-learning|Adult Learning]] and the andragogy literature rather than by K-12 studies.
 - **Access still gates everything else:** see [[digital-divide|Digital Divide]] and the finding that [[access-not-enough-ai-tutoring-2026|access to AI tutoring is not enough]] without [[pedagogy|pedagogical]] integration.
 
 ## Disciplinary background
 
-Disciplinary background is a differential axis this page's group-by-group map did not yet carry: the same tool can distribute its benefit unevenly across fields rather than across student demographics.
+Disciplinary background is a further differential axis: the same tool can distribute its benefit unevenly across fields rather than across student demographics.
 
 - **A tool can engage one discipline and disengage another.** In a two-week quasi-experiment with 130 undergraduates on mixed-discipline teams, [[generative-ai|ChatGPT]] raised physical [[student-engagement|engagement]] for STEM students and lowered it for non-STEM students (Q = 9.87, p < .05), and notes written without ChatGPT scored higher on diversity and integration of disciplinary ideas ([[caeai-chatgpt-interdisciplinary-stem-nonstem-2026|Zhu et al. (2026)]]).
 
 ## Where the evidence is missing
 
-The honest finding of this survey is how thin some groups are. Each of these is a real gap in the evidence base, not a gap in this page.
+The honest finding of this survey is how thin some groups are. Each of these is a real gap in the evidence base.
 
 - **First-generation students:** one study reports a usage difference rather than an effect. In [[student-ai-inquiry-types-cs2-2026|a CS2 inquiry study]], continuing-generation students treated the AI as an active [[problem-solving]] partner, while first-generation students took a confirmatory, validation-oriented role and asked fewer questions overall.
 - **First-generation students: the first effect estimate, and it runs the wrong way.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]'s [[rct|randomized trial]] of a course-integrated [[intelligent-tutoring|AI tutor]] supplies what the entry above lacks — a measured differential rather than a usage pattern. In the full sample the effect of tutor access on final grades was 2.87 points (0.28 SDs) more negative for first-generation students, implying −5.10 points (−0.50 SDs) for them against −2.23 points (−0.22 SDs) for their peers. The differential was larger in the exact-match sample (−3.89 points, −0.35 SDs), and first-generation students also lost more homework points and platform page views. The study reports no mechanism and its precision varies by outcome, but the direction is the opposite of the narrowing-gap story: the students with the least prior access to [[student-support-and-success|academic support]] carried the largest measured cost.
 - **International students:** one [[mixed-methods-research|mixed-methods]] study (survey n = 60, interviews n = 14) on [[international-students-conversational-ai-adaptation|cross-cultural adaptation support]].
 - **International students: a measured engagement pattern, not an effect estimate.** Across 270 minority ethnic international students in seven UK [[business-education|business schools]], reported [[generative-ai]] use was positively associated with all four [[student-engagement|engagement]] strands — most strongly agentic engagement (β = 0.429) — with facilitating conditions (β = 0.369) the strongest predictor of intention to use ([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]).
-- **Gifted and high-achieving students:** effectively unstudied as a group in this corpus.
+- **Gifted and high-achieving students:** effectively unstudied as a group.
 - **Refugee, immigrant, and displaced learners:** no studies.
 - **Gender is still analysed as binary** in most of the work above, and disability categories vary across studies, so cross-study comparison of "the same" group has limits.
 
@@ -170,9 +170,9 @@ The honest finding of this survey is how thin some groups are. Each of these is 
 - [[ai-divide-ses-personality-primary-education-2026]] — 4,497 students: digital literacy, not AI use, mediates the gap
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — Rural participation that never recovered, and mentorship as the constraint
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — A subgroup interaction whose confidence interval crosses zero
-- [[student-ai-inquiry-types-cs2-2026]] — The corpus's one first-generation usage finding
-- [[international-students-conversational-ai-adaptation]] — The corpus's one international-student study
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — The corpus's first effect estimate for first-generation students: tutor access cost them 0.50 SDs of final grade against 0.22 for their peers (Liu et al. 2026)
+- [[student-ai-inquiry-types-cs2-2026]] — The only first-generation usage finding
+- [[international-students-conversational-ai-adaptation]] — The only international-student study
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — The first effect estimate for first-generation students: tutor access cost them 0.50 SDs of final grade against 0.22 for their peers (Liu et al. 2026)
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — A knowledge-based grouping variable with direct process evidence: groups matched on prior knowledge but differing in preconception diversity took up the same AI differently (Wang et al. 2026)
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)

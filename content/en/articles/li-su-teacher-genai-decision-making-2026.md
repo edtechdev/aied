@@ -1,6 +1,6 @@
 ---
 title: "Psychological pathways to responsible generative AI decision-making among teachers: governance clarity, perceived accountability, decision uncertainty, and AI literacy"
-created: "2026-11-04T15:00:00-05:00"
+created: "2026-11-04T13:24:11-05:00"
 updated: "2026-11-04T15:00:00-05:00"
 type: article
 page_kind: [framework]

@@ -1,7 +1,7 @@
 ---
 title: Metaphors and Analogies
-created: "2026-11-07T12:10:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+created: "2026-11-07T08:43:02-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, misconceptions]
 pedagogy: [student-engagement]
@@ -18,7 +18,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis**: Metaphors and analogies do two jobs in AI education. They are sense-making devices through which educators and students decide what AI *is* (a tool, an assistant, a black box, an oracle), and they are instructional devices that map a familiar source domain onto an unfamiliar target concept. Research in this knowledge base shows that those two jobs are connected: the metaphors people hold shape what they expect from AI, which features they notice, and whether they trust or fear it. The same structure-mapping logic explains why an analogy can make a technical idea memorable while quietly misrepresenting it. A flawed GenAI-generated analogy can be more useful than a polished one when students know the source domain well enough to audit the mapping and repair it. The practical lesson is to choose metaphors for the feature being taught, check structural fit and cultural accessibility, and treat the comparison as an object of critique rather than a finished explanation. The evidence is mostly [[qualitative-research|qualitative]], conceptual, and small-scale; the field has little causal evidence that metaphor-based teaching improves learning.
+> **Synthesis**: Metaphors and analogies do two jobs in AI education. They are sense-making devices through which educators and students decide what AI *is* (a tool, an assistant, a black box, an oracle), and they are instructional devices that map a familiar source domain onto an unfamiliar target concept. Research shows that those two jobs are connected: the metaphors people hold shape what they expect from AI, which features they notice, and whether they trust or fear it. The same structure-mapping logic explains why an analogy can make a technical idea memorable while quietly misrepresenting it. A flawed GenAI-generated analogy can be more useful than a polished one when students know the source domain well enough to audit the mapping and repair it. The practical lesson is to choose metaphors for the feature being taught, check structural fit and cultural accessibility, and treat the comparison as an object of critique rather than a finished explanation. The evidence is mostly [[qualitative-research|qualitative]], conceptual, and small-scale; the field has little causal evidence that metaphor-based teaching improves learning.
 
 ## Questions to Consider
 
@@ -35,7 +35,7 @@ A metaphor says that one thing is another: AI is a black box, a helper, a mirror
 
 That makes them more than rhetorical decoration. Conceptual metaphor research treats metaphor as a structure of thought, not just language: the comparisons available to people shape which aspects of a system feel salient and which explanations feel natural. In AI education, the stakes are practical. A student who frames an [[llm]] as a search engine may expect it to retrieve stored facts and may not look for fabricated ones. A faculty member who frames it as an advanced student may expect judgment and subject expertise that the model does not have. A policy discussion framed around a "natural disaster" or a "competitor" supports different responses than one framed around a "calculator for words."
 
-This page covers both sides of that double role: metaphor as a window into how educators and students understand AI, and analogy as a teaching technique in AI literacy and AI-generated explanations. It connects work on faculty and student conceptualizations, classroom metaphor workshops, GenAI-generated analogies, analogy-based [[learning-design|instructional design]], and critical AI literacy. It does not treat "metaphor" and "analogy" as exact synonyms, but it keeps them together because the design problems are shared: source selection, structural fit, cultural access, and critique.
+Both sides of that double role matter: metaphor as a window into how educators and students understand AI, and analogy as a teaching technique in AI literacy and AI-generated explanations. The relevant work spans faculty and student conceptualizations, classroom metaphor workshops, GenAI-generated analogies, analogy-based [[learning-design|instructional design]], and critical AI literacy. "Metaphor" and "analogy" are not exact synonyms, but they stay together because the design problems are shared: source selection, structural fit, cultural access, and critique.
 
 ## Why metaphors and analogies matter
 
@@ -45,11 +45,11 @@ For education, the useful consequence is that metaphor can do conceptual work be
 
 Analogies add a second layer: structural correspondence. A good instructional analogy preserves the relations that matter for the target concept, not just surface similarity. A chain can illustrate a linked list because both involve nodes connected in sequence. A nested set of boxes can illustrate recursion because each level contains a smaller version of the same structure. The comparison is always partial. The [[pedagogy|pedagogical]] question is whether the preserved relations are the ones the learner needs, and whether the learner can see where the mapping stops.
 
-That question separates this page from [[explainable-ai|Explainable AI]]. Explainable AI asks how a system's decisions can be made legible to stakeholders. A pedagogical analogy asks how a learner can build a usable mental model of a process. An explanation of why a model flagged a student is not the same as an analogy for how a model generates text, and neither substitutes for the other.
+That question separates metaphor work from [[explainable-ai|Explainable AI]]. Explainable AI asks how a system's decisions can be made legible to stakeholders. A pedagogical analogy asks how a learner can build a usable mental model of a process. An explanation of why a model flagged a student is not the same as an analogy for how a model generates text, and neither substitutes for the other.
 
 ## How educators and students describe AI
 
-The knowledge base now has several windows into the metaphors people actually use. They do not converge on one image, which is part of the point.
+Several studies now offer windows into the metaphors people actually use. They do not converge on one image, which is part of the point.
 
 [[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson and Casey (2025)]] ran metaphor-analysis workshops with students, academics, and educational support staff. Participant metaphors clustered into four broad categories: *Functions* (tool-like comparisons such as a Swiss army knife), *Roles* (human-like relationships such as helper, study buddy, or frenemy), *Qualities* (unreliable or unknowable comparisons such as a black box or a slippery slope), and *Agency* (autonomous or threatening comparisons such as a competitor or a sinister robot). Two tensions ran through the set: human versus machine agency, and the known versus the unknowable. The workshop did not resolve those tensions. It made them available for discussion, which is what a metaphor-based intervention can realistically do.
 
@@ -63,7 +63,7 @@ A [[philosophy-of-ai-in-education|philosophical]] strand pushes metaphor in a di
 
 ## Analogies as a teaching technique
 
-The strongest classroom evidence in the corpus comes from analogy use in computing education. [[student-reception-genai-analogies-computing-2026|Bernstein and Sibia (2026)]] gave undergraduates GenAI-generated analogies for linked lists and recursion, then asked them to annotate and discuss the outputs. Students did not judge the analogies as global good or bad. They separated structural accuracy, clarity, appropriateness, and trust, and named specific breakdowns: a looping route describes a circular list, not a singly linked one; a badminton rally has no guaranteed shrinking input for recursion; an interest-based reference can assume knowledge the student lacks.
+The strongest classroom evidence comes from analogy use in computing education. [[student-reception-genai-analogies-computing-2026|Bernstein and Sibia (2026)]] gave undergraduates GenAI-generated analogies for linked lists and recursion, then asked them to annotate and discuss the outputs. Students did not judge the analogies as global good or bad. They separated structural accuracy, clarity, appropriateness, and trust, and named specific breakdowns: a looping route describes a circular list, not a singly linked one; a badminton rally has no guaranteed shrinking input for recursion; an interest-based reference can assume knowledge the student lacks.
 
 The paper's contribution is the idea of **two-sided analogy auditing**. Target-concept knowledge tells a student which relations an analogy must preserve. Source-domain knowledge tells them whether the source actually has those relations. The sharpest auditors were not always the students whose interests matched the analogy. They were the students who knew the source domain well enough to inspect it. That has a design implication: a familiar source can turn a student from a recipient into an expert auditor. The authors recommend assigning flawed analogies as objects to inspect and repair, rather than filtering them out. The flawed analogy becomes a [[desirable-difficulties|productive difficulty]].
 
@@ -102,7 +102,7 @@ That is also what connects metaphor work to [[ai-literacy]] more broadly. A meta
 - **Make the limits explicit.** Ask students to name what the metaphor preserves, what it distorts, and what it cannot explain. The critique is the assessed learning, not an optional discussion.
 - **Use multiple partial metaphors.** A funhouse mirror, a map, and an echo chamber can coexist because each illuminates a different dimension. A single totalizing metaphor is more likely to become a misconception.
 - **Keep the technical account nearby.** An analogy can open a topic, but it should not replace instruction about training data, probabilistic generation, or the difference between fluent output and verified knowledge.
-- **Evaluate the activity, not just the engagement.** The corpus does not yet show that metaphor-based lessons improve AI literacy or learning outcomes. Treat the activities as designs to test, and measure what students can do afterward.
+- **Evaluate the activity, not just the engagement.** The evidence does not yet show that metaphor-based lessons improve AI literacy or learning outcomes. Treat the activities as designs to test, and measure what students can do afterward.
 
 ## Common Misconceptions
 
@@ -113,7 +113,7 @@ That is also what connects metaphor work to [[ai-literacy]] more broadly. A meta
 
 ## Limits and evidence gaps
 
-The literature in this knowledge base is uneven. The faculty and student metaphor studies are qualitative and often small. The engineering faculty study analyzes responses to a single interview question. The professionalization study treats metaphor counts as exploratory. The classroom analogy study has ten undergraduates and a confound between personalization and explanation format. The Roe et al. framework is conceptual and its activities have not been tested with students. ANVIL is a system evaluation with educators, not a learning study.
+The literature is uneven. The faculty and student metaphor studies are qualitative and often small. The engineering faculty study analyzes responses to a single interview question. The professionalization study treats metaphor counts as exploratory. The classroom analogy study has ten undergraduates and a confound between personalization and explanation format. The Roe et al. framework is conceptual and its activities have not been tested with students. ANVIL is a system evaluation with educators, not a learning study.
 
 That does not make the work useless. It makes the claims appropriately modest. Metaphor elicitation can reveal assumptions that surveys miss. Analogy critique can make structural understanding visible. A well-chosen metaphor can give a class a shared object to argue about. But the field still needs studies that compare metaphor-based instruction with ordinary instruction, measure transfer rather than recall of the metaphor, and test whether the approach travels across cultures and disciplines.
 

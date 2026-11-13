@@ -1,7 +1,7 @@
 ---
 title: "Supporting creative agency: metacognitive control and trust in generative AI art education"
 published: "2026-10-29"
-created: "2026-11-04T15:00:00-05:00"
+created: "2026-11-04T13:24:11-05:00"
 updated: "2026-11-04T15:00:00-05:00"
 type: article
 sources: ['raw/papers/zhu-creative-agency-trust-genai-art-2026.md']

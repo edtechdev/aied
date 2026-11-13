@@ -1,6 +1,6 @@
 ---
 title: "Rethinking \"In-The-Loop\" Approaches in Educational AI: A Learning Sciences Perspective"
-created: "2026-10-14T09:30:00-04:00"
+created: "2026-10-14T09:27:34-04:00"
 updated: "2026-10-14T09:30:00-04:00"
 type: article
 sources: ['raw/papers/in-the-loop-educational-ai-learning-sciences-2026.md']

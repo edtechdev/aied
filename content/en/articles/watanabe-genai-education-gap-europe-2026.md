@@ -1,6 +1,6 @@
 ---
 title: "Is the education gap in generative AI use smaller than the internet's was at a similar level of use? Evidence from 16 European countries"
-created: "2026-10-28T12:00:00-04:00"
+created: "2026-10-28T09:21:54-04:00"
 updated: "2026-10-28T12:00:00-04:00"
 type: article
 authors: ["Watanabe, K."]

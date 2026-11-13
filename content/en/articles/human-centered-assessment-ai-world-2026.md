@@ -1,6 +1,6 @@
 ---
 title: "Designing Human-Centered Assessment in an AI World: A Framework for Making Student Thinking Visible"
-created: "2026-10-04T09:20:00-04:00"
+created: "2026-10-04T09:06:19-04:00"
 updated: "2026-10-04T09:20:00-04:00"
 type: article
 sources: ['raw/papers/human-centered-assessment-ai-world-2026.md']

@@ -2,7 +2,7 @@
 connected_resources: [playlab]
 title: "Educational Technology Developers"
 created: "2026-09-17T15:20:00-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -13,7 +13,7 @@ methods: [design-based-research]
 reviewed_by: [editor]
 ---
 
-> **Educational Technology Developers** — the people and organizations that build educational technology: product designers, software developers, learning engineers, learning-analytics designers, and the edtech companies, university labs and [[open-source]] projects they work in. In [[ai-education|AI in education]] this is the role that turns a model capability into something a [[teacher-role|teacher]] or learner can actually use. It carries decisions no later stage can undo: what evidence a design claim rests on, how far a [[learning-analytics|analytics]] pipeline or a [[intelligent-tutoring|tutoring]] system is grounded in the institution's own licensed material, and whether teachers and learners are included in design. It also fixes which [[learning-design|instructional design]] assumptions are baked into the defaults, and what happens to the product after the funding stops. Across the knowledge base's system reports and deployment studies, the recurring lesson is that the deployment context, not the model, is usually the binding constraint.
+> **Educational Technology Developers** — the people and organizations that build educational technology: product designers, software developers, learning engineers, learning-analytics designers, and the edtech companies, university labs and [[open-source]] projects they work in. In [[ai-education|AI in education]] this is the role that turns a model capability into something a [[teacher-role|teacher]] or learner can actually use. It carries decisions no later stage can undo: what evidence a design claim rests on, how far a [[learning-analytics|analytics]] pipeline or a [[intelligent-tutoring|tutoring]] system is grounded in the institution's own licensed material, and whether teachers and learners are included in design. It also fixes which [[learning-design|instructional design]] assumptions are baked into the defaults, and what happens to the product after the funding stops. Across system reports and deployment studies, the recurring lesson is that the deployment context, not the model, is usually the binding constraint.
 
 ## Questions to Consider
 
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-The developer sits one level below the platform. [[edtech-platform]] describes the deployed system and the stakeholder it becomes once it is in a school or university; this page is about the people who decide what that system does. The distinction matters because platform-level findings — low take-up, [[equity-in-ai-education|equity]] skew, procurement friction — are usually consequences of design choices made earlier, by someone who never met the learners.
+The developer sits one level below the platform. [[edtech-platform]] describes the deployed system and the stakeholder it becomes once it is in a school or university; the developers decide what that system does. The distinction matters because platform-level findings — low take-up, [[equity-in-ai-education|equity]] skew, procurement friction — are usually consequences of design choices made earlier, by someone who never met the learners.
 
 The role is also distinct from its neighbours. [[learning-design]] and [[curriculum-design]] design a course for a known cohort; a technology developer designs a product that many courses, taught by people they have never met, will use — which is why defaults, configurability and documentation carry pedagogical weight. [[educational-development]] supports the teaching staff of an institution from inside it; developers sit outside or alongside, supplying the tools those staff are then asked to adopt. And [[design-based-research]] is the evidence standard such developers are increasingly asked to meet: iterative, contextual, and reported with its own limitations.
 

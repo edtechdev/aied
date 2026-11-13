@@ -1,7 +1,7 @@
 ---
 title: "What Are Best Practices for Reporting and Interpreting AI in Education Research?"
 created: "2026-09-16T15:05:00-04:00"
-updated: "2026-10-28T11:43:14-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [checking-whether-educational-ai-works, research-gaps-aied, evaluating-ai-interventions-methods]
 weight: 65
 type: faq
@@ -63,7 +63,7 @@ State the ceiling explicitly in the discussion. A study that measured a quiz tak
 
 For syntheses, report dependent-effect handling, between-study variance, prediction intervals and publication-bias assessment. I² alone will not do the work. O'Neill found reported heterogeneity severe wherever it was given, from 77.2% to 94.4% across 13 meta-analyses with 12 above 80%, and never resolved: no moderator analysis met the minimum subgroup size of ten studies. Twelve meta-analyses treated dependent effect sizes from the same study as independent, which inflates the apparent evidence. Only four reported between-study variance (τ²) and only two a prediction interval, and both intervals included zero. Publication bias was not validly assessed anywhere in the set.
 
-Heterogeneity figures need their model attached, because I² is precision-dependent. [[limitations-in-aied-research|Limitations in AIEd Research]] documents one synthesis at I² = 82.98% under a fixed-effect model and 15.75% under random effects. A reader given only the first number cannot tell how inconsistent the corpus is. Report τ² and a prediction interval alongside it, which is also the convention [[meta-analysis-systematic-review|the review literature]] asks for.
+Heterogeneity figures need their model attached, because I² is precision-dependent. [[limitations-in-aied-research|Limitations in AIEd Research]] documents one synthesis at I² = 82.98% under a fixed-effect model and 15.75% under random effects. A reader given only the first number cannot tell how inconsistent the pooled studies are. Report τ² and a prediction interval alongside it, which is also the convention [[meta-analysis-systematic-review|the review literature]] asks for.
 
 Then discount your own headline. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]] pooled 1,840 effect sizes from 67 meta-analyses and found that once publication bias is modeled the average effect falls to roughly one-third of the published median (SMD = 0.196 versus 0.67), with a prediction interval from -1.521 to +1.908. That interval spans substantial harm to substantial benefit for a hypothetical new study. It is the most useful number in the paper and the one most likely to be dropped from the abstract.
 
@@ -103,7 +103,7 @@ Reporting null and negative findings is the other half of an honest evidence bas
 
 **"The pooled mean is what will happen to my students."** The mean describes the set of studies, and nothing in it fixes any single classroom. The bias-adjusted average is SMD = 0.196 and its prediction interval runs from -1.521 to +1.908. Reported heterogeneity sits above 80% in 12 of 13 meta-analyses, and no subgroup in the larger pool showed consistent gains. A student-level change is not identifiable from either number.
 
-**"A null result means the tool does not work."** A null is a statement about a design at a given precision, and absence of a detectable effect in one study is a fact about that study. The bias-adjusted SMD = 0.196 came from a literature in which every Egger test was significant, so the defensible reading of the corpus is a small and uncertain average. No outcome, field, level or AI-role subgroup in the larger pool showed consistent gains either. The documented problem in this literature is suppression.
+**"A null result means the tool does not work."** A null is a statement about a design at a given precision, and absence of a detectable effect in one study is a fact about that study. The bias-adjusted SMD = 0.196 came from a literature in which every Egger test was significant, so the defensible reading is a small and uncertain average. No outcome, field, level or AI-role subgroup in the larger pool showed consistent gains either. The documented problem in this literature is suppression.
 
 **"One study settles it."** The base rates argue otherwise. 61% of vetted primary studies had validity concerns, one course or institution does not license a general claim, and a proprietary system is a moving target bound to a model version. A single study is a data point with a design attached.
 

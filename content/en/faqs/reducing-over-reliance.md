@@ -1,7 +1,7 @@
 ---
 title: "How Do I Keep Students from Over-Relying on AI?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-28T11:14:24-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 weight: 80
 type: faq
@@ -59,7 +59,7 @@ The clearest tested sequence is "think first, [[generative-ai|ChatGPT]] later." 
 
 Prompt data explains the gap. In the regulated group, 88.6% of prompts were collaborative, and that was the only prompt type significantly correlated with later independent originality. In the free-use group, 70.9% of prompts were non-collaborative and 59.6% simply asked ChatGPT to generate ideas outright. The same tool, asked two different ways, produced two different learners.
 
-On your assignment sheet this becomes an ordering instruction: ideas, hypotheses, or a rough draft first, then the tool. A sentence at the top of the page is enough, provided the next step collects what the student wrote.
+On your assignment sheet this becomes an ordering instruction: ideas, hypotheses, or a rough draft first, then the tool. A sentence at the top of the sheet is enough, provided the next step collects what the student wrote.
 
 Two classroom details decide whether the sequence holds. The first is time. If the independent phase happens outside class, some students will open the tool first and write the ideas down afterward. The second is collection. If nothing is handed in from that phase, the sequence exists on paper only. Half a page of notes, collected at the end of class, is enough to make the order real.
 
@@ -133,7 +133,7 @@ Context matters as much as person, and your course controls part of the context.
 
 ## Decide how much weight the evidence carries
 
-Nothing in this corpus tests whether a specific over-reliance intervention holds across settings or semesters. Think-first rests on one experiment with N = 196. The withholding result comes from [[brcic-effortless-trap-productive-struggle-2026|Brcic and Frljic's (2026)]] synthesis rather than from a trial of its own. The friction argument is a conceptual comment with no new data. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] states the limits of the model: exogenous stationary AI quality, a fixed network, stylized verification. Estimating the real values would need longitudinal traces of per-task verification rates, social-proof strength, and how trust updates after verified as against unverified use.
+Nothing in the evidence tests whether a specific over-reliance intervention holds across settings or semesters. Think-first rests on one experiment with N = 196. The withholding result comes from [[brcic-effortless-trap-productive-struggle-2026|Brcic and Frljic's (2026)]] synthesis rather than from a trial of its own. The friction argument is a conceptual comment with no new data. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] states the limits of the model: exogenous stationary AI quality, a fixed network, stylized verification. Estimating the real values would need longitudinal traces of per-task verification rates, social-proof strength, and how trust updates after verified as against unverified use.
 
 Measurement remains the weakest link. Survey designs dominate, and both [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] and [[genai-over-reliance-learning-2026|Gao, Sun and Khan (2026)]] call for longitudinal and experimental follow-up. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] has no [[educational-measurement|psychometrics]] and was built for adults. Whether the equity gap can be closed by instruction is theorized rather than demonstrated.
 
@@ -183,4 +183,4 @@ That leaves you with a reasonable bet, made cheaply. Change one assignment, keep
 
 ## Where to go next
 
-The neighboring question, whether AI produces learning at all, is covered in [[does-ai-help-students-learn]]. [[reduce-ai-cheating]] handles integrity and the limits of detection, and [[redesign-assessment-ai-era]] covers the assessment architecture this page assumes. For the underlying ideas, see [[cognitive-offloading]], [[metacognition]], and [[desirable-difficulties]].
+The neighboring question, whether AI produces learning at all, is covered in [[does-ai-help-students-learn]]. [[reduce-ai-cheating]] handles integrity and the limits of detection, and [[redesign-assessment-ai-era]] covers the assessment architecture that the approach assumes. For the underlying ideas, see [[cognitive-offloading]], [[metacognition]], and [[desirable-difficulties]].

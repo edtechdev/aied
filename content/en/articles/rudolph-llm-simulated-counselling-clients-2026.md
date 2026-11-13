@@ -1,6 +1,6 @@
 ---
 title: "Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns"
-created: "2026-10-30T09:54:00-04:00"
+created: "2026-10-30T09:23:42-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026-10-29"

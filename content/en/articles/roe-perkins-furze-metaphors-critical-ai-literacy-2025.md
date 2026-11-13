@@ -1,6 +1,6 @@
 ---
 title: "Reflecting Reality, Amplifying Bias? Using Metaphors to Teach Critical AI Literacy"
-created: "2026-11-07T12:00:00-05:00"
+created: "2026-11-07T08:43:02-05:00"
 updated: "2026-11-07T12:00:00-05:00"
 type: article
 foundations: [ai-literacy, critical-thinking, misconceptions]

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Diagnosis
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-12T21:45:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
@@ -15,7 +15,7 @@ reviewed_by: [editor]
 
 - Cognitive diagnosis infers a learner's latent knowledge state — the specific concepts, skills, and misconceptions they have or lack — from their responses, rather than just predicting their next score. Before reading, what's the difference you'd expect between 'predicting a student's grade' and 'diagnosing what they actually don't understand'?
 - A key idea is the 'correct answer trap' — where a right answer conceals flawed reasoning. Have you ever been confident a student understood something because they got it right, only to discover a misconception underneath? How could a diagnosis surface that where a score couldn't?
-- The page distinguishes cognitive diagnosis (a static, fine-grained snapshot of what a learner currently holds) from knowledge tracing (the temporal dynamics of mastery over time). Why would an intelligent tutor need both — to know what's wrong and to know what to teach next?
+- Cognitive diagnosis is a static, fine-grained snapshot of what a learner currently holds; knowledge tracing tracks the temporal dynamics of mastery over time. Why would an intelligent tutor need both — to know what's wrong and to know what to teach next?
 - A design principle here is to separate diagnosis from feedback: LLM tutors confirm correct steps but over-reject valid reasoning and over-validate errors, and accurate diagnosis does not reliably yield actionable feedback. Why might knowing what's wrong still fail to produce a helpful next step?
 - LLM-era diagnosis extends from multiple-choice to open-ended, handwritten, and conversational work. What might go wrong if an AI diagnoses a misconception from work it can't fully understand — and how would you verify that the diagnosis itself is trustworthy?
 

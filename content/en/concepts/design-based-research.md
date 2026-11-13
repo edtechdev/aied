@@ -1,7 +1,7 @@
 ---
 title: Design-Based Research
 created: "2026-08-24T02:30:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -35,7 +35,7 @@ DBR is not a single design but an iterative loop, typically comprising:
 
 The canonical AIEd example is the [[ai-assisted-collaborative-learning-model-dbr|AI-Assisted Collaborative Learning (AACL) Model study]], which ran a four-phase DBR cycle — needs analysis, model design, an eight-week classroom implementation with Indonesian undergraduates, and model refinement — iterating on a four-stage learning cycle (problem identification → AI-assisted [[collaborative-learning|collaborative]] inquiry → collaborative [[problem-solving]] → reflection and presentation).
 
-## How DBR appears in the knowledge base
+## How DBR appears in the research
 
 - **Developing learning models.** [[ai-assisted-collaborative-learning-model-dbr|The AACL Model study]] uses DBR to develop and evaluate an AI-assisted collaborative learning model targeting [[critical-thinking|critical thinking]] and problem-solving in [[higher-ed|higher education]].
 - **Building AI-literacy teacher training.** [[genai-literacy-training-teacher-education-dbr-2026|Le et al.]] develop and evaluate a DBR [[generative-ai|GenAI]]-literacy training intervention for [[teacher-education]] students; [[human-centered-ai-teacher-educators-2026|Baran et al.]] use DBR across 2023–2025 to design professional learning for critical [[ai-literacy|AI literacy]] grounded in Human-Centered AI principles.
@@ -65,9 +65,9 @@ DBR is the signature method of the [[learning-sciences|learning sciences]] — t
 
 **"Iterative refinement makes the design immune to the confound other methods suffer."** Iteration trades one threat for another. Refining a design mid-study means the final version differs from the one that produced the early evidence, so a claim about "the intervention" spans several interventions. Reporting which revision produced which outcome is the discipline's responsibility, and it is frequently left implicit.
 
-**"Because DBR produces a working artefact, it has demonstrated effectiveness."** A design that works in the site that co-produced it has demonstrated local viability, which is a different claim from effectiveness. The artifact carries the adaptations made for that context, and transferring it transfers assumptions that were never stated as assumptions.
+**"Because DBR produces a working artefact, it has demonstrated effectiveness."** A design that works where it was co-produced has demonstrated local viability, which is a different claim from effectiveness. The artifact carries the adaptations made for that context, and transferring it transfers assumptions that were never stated as assumptions.
 
-**"Treating an instrument as a revisable design artefact is a departure from DBR."** It is DBR's iterative character applied to the measurement rather than the intervention: one study in this corpus treated the rubric itself as the artifact, cycling through co-refinement with an [[llm|LLM]]. That extension is worth noting because it makes the instrument's own development part of the evidence.
+**"Treating an instrument as a revisable design artefact is a departure from DBR."** It is DBR's iterative character applied to the measurement rather than the intervention: one study treated the rubric itself as the artifact, cycling through co-refinement with an [[llm|LLM]]. That extension is worth noting because it makes the instrument's own development part of the evidence.
 
 ## Connected Concepts
 

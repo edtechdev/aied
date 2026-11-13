@@ -1,7 +1,7 @@
 ---
 title: Self-Assessment
 created: "2026-09-21T11:21:57-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -56,7 +56,7 @@ Used as a measure, self-assessment usually arrives dressed as something else: a 
 
 Accuracy is the headline problem, and the direction is consistent. The cleanest evidence comes from a study that built parallel self-report and objective measures of [[teacher-role|teacher]] [[ai-literacy|AI literacy]] inside a single framework. Across 288 K-12 teachers, correlations between the objective and self-reported factors ranged from r = 0.07 to r = 0.24. [[latent-profile-analysis|Latent profile analysis]] found six profiles: 43 teachers rated themselves consistently high while scoring lower on the objective measure, 59 showed the reverse pattern, and the remaining profiles clustered near the mean or split by prior AI literacy experience. Two measures of one skill, built by the same team on the same construct, share almost nothing.
 
-The field-level picture matches that single study. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat's 2026 review of teacher AI literacy measurement tools]] appraised 33 instruments published between 2019 and 2025 and found that 31 (93.9%) were self-report scales of perceived confidence, only two (6.1%) tested knowledge objectively, and none used performance-based tasks. The authors' reading is the one this page's measurement face turns on: a self-report score records reported confidence rather than capability, so it cannot stand in for competence, and they argue for performance tasks and [[item-response-theory]] analysis alongside self-assessment to separate validated capability from reported confidence.
+The field-level picture matches that single study. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat's 2026 review of teacher AI literacy measurement tools]] appraised 33 instruments published between 2019 and 2025 and found that 31 (93.9%) were self-report scales of perceived confidence, only two (6.1%) tested knowledge objectively, and none used performance-based tasks. The authors' reading is what the measurement argument turns on: a self-report score records reported confidence rather than capability, so it cannot stand in for competence, and they argue for performance tasks and [[item-response-theory]] analysis alongside self-assessment to separate validated capability from reported confidence.
 
 Accuracy also depends on what is being estimated. A psychometric analysis of a taxonomy-based GenAI literacy self-assessment with 158 university staff and students found an inverted profile, with respondents claiming mastery of creation before the conceptual foundations underneath it, and only a weak correlation (r = 0.188) between student and academic profiles. A survey of [[teacher-education]] students found the same shape from the other side: nearly all (97.8%) rated critical media analysis important while only 13.8% said their coursework addressed it, and fewer than half (44.9%) believed they had the skills to analyze media information critically. Self-assessed media competence lagged self-assessed importance.
 

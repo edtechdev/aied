@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-12T21:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
@@ -22,7 +22,7 @@ reviewed_by: [editor]
 
 Experiential learning is closely related to [[active-learning]], [[project-based-learning]], [[embodied-learning]], and [[simulation]]. It is particularly relevant to AI, cybersecurity, and robotics education, where students develop skills by working with tools and systems in applied contexts rather than through lectures alone. A key rationale is closing the theory-practice gap in professional preparation.
 
-## How experiential learning appears in the knowledge base's research
+## How experiential learning appears in the research
 
 - **Emergency substitution, with a rubric for how far it gets you.** [[ai-personas-fieldwork-experiential-learning-2026|Elhajj et al. (2026)]] document a substitution forced by the 2024 conflict in Lebanon: students in a graduate Experiential Learning course at the American University of Beirut, unable to reach communities for needs assessments, interviewed ChatGPT-generated stakeholder personas instead. Two raters scored all ten group prompts and found the split instructive — alignment with educational goals (mean 5.00) and diversity of perspectives (4.90) were strong, while authenticity and realism (4.38) and especially group dynamics and coherence (3.80, with one 30-persona focus group collapsing into sequential interviews) and limitations and gaps (3.20) were weak, the last because emotional flatness, absent contradiction and thin cultural specificity recurred in every context. The authors' conclusion is a boundary rather than a verdict: personas work as rehearsal and as a stopgap where access is impossible or unsafe, but not where emotional complexity, cultural specificity and interpersonal dynamics *are* the learning objective. Their mitigation is structural — pair simulated role-play with real interviews so students can compare, and train students to interrogate persona output for bias and generalization instead of treating it as field evidence.
 
@@ -33,13 +33,13 @@ Experiential learning is closely related to [[active-learning]], [[project-based
 
 - **AI as infrastructure for uncertainty, not efficiency.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] give a generative-AI role the job of generating disruptive events and cascading consequences in a business simulation, so teams revise plans under incomplete information, and warn that protected simulations can leave decision habits that become a liability outside the classroom.
 
-- **Doing versus being told, measured across five weeks.** In a quasi-experiment with 126 first-year engineering students, a two-hour experiential session on learning with generative AI produced a [[metacognition|metacognitive]] knowledge gain of +0.25, against roughly zero for a lecture. That is a medium effect (d = -0.37) which fell short of significance at p = .055 after multiple-comparison correction, and [[self-report-measures|self-reported]] AI engagement was comparable in both groups at five weeks (3.99 and 3.93) ([[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio et al., 2026]]). The bound this places on the page's rationale is worth stating plainly: one hands-on session moves metacognitive knowledge in the right direction without settling the comparison, so the advantage of doing has to be built from repeated cycles rather than assumed from a single lab.
+- **Doing versus being told, measured across five weeks.** In a quasi-experiment with 126 first-year engineering students, a two-hour experiential session on learning with generative AI produced a [[metacognition|metacognitive]] knowledge gain of +0.25, against roughly zero for a lecture. That is a medium effect (d = -0.37) which fell short of significance at p = .055 after multiple-comparison correction, and [[self-report-measures|self-reported]] AI engagement was comparable in both groups at five weeks (3.99 and 3.93) ([[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio et al., 2026]]). The bound this places on the rationale is worth stating plainly: one hands-on session moves metacognitive knowledge in the right direction without settling the comparison, so the advantage of doing has to be built from repeated cycles rather than assumed from a single lab.
 
 ## Two forms of hands-on learning in an AI-supported curriculum
 
 A thematic review of 32 peer-reviewed studies of hands-on learning in AI-supported [[design-education|design education]]
 ([[hands-on-learning-necessity-age-of-ai-review-2026|Yu, Liu & Zhu, 2026]]) argues that AI reorganizes rather than replaces
-experiential learning, and draws a distinction the knowledge base's other sources tend to collapse: *Embodied Hands-on*, which
+experiential learning, and draws a distinction that other sources tend to collapse: *Embodied Hands-on*, which
 depends on bodily action, tools, and materials, and *Cognitive Hands-on*, which develops through continued operation, judgment,
 and adjustment of AI-generated outputs. Both run the same action–feedback–reflection–refinement cycle, but they draw feedback from
 different sources — real-world material resistance in the first case, language and visual outcomes in the second — so they should

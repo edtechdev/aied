@@ -1,7 +1,7 @@
 ---
 title: Cognitive Psychology
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-11-12T14:45:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
@@ -22,7 +22,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Cognitive psychology is the learning-theory tradition that treats learning as a change in internal mental representations — concepts, schemas and procedures held in memory — rather than as a change in observable behavior. Its information-processing vocabulary (attention, encoding, retrieval, bounded working memory) supplied both the diagnostic language for learning difficulty and the architecture behind [[intelligent-tutoring]] and [[knowledge-tracing]]: systems that infer a learner's internal state and adapt to it. It remains the reference frame for [[metacognition]], [[desirable-difficulties]] and [[self-regulated-learning]] across this knowledge base.
+Cognitive psychology is the learning-theory tradition that treats learning as a change in internal mental representations — concepts, schemas and procedures held in memory — rather than as a change in observable behavior. Its information-processing vocabulary (attention, encoding, retrieval, bounded working memory) supplied both the diagnostic language for learning difficulty and the architecture behind [[intelligent-tutoring]] and [[knowledge-tracing]]: systems that infer a learner's internal state and adapt to it. It remains the reference frame for [[metacognition]], [[desirable-difficulties]] and [[self-regulated-learning]].
 
 [[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] reconstructed images from learners' EEG during science videos and found representation fidelity tracked test performance (regression coefficient 0.8481, R² = 0.79) — direct evidence that a measure of internal representation can index encoding
 
@@ -38,7 +38,7 @@ Cognitive psychology is the learning-theory tradition that treats learning as a 
 
 ### The cognitivist lineage of AIED
 
-Cognitivism is arguably the theory most responsible for AI in education existing at all. The early cognitive tutors (e.g., Anderson's ACT-R-based tutors) [[embodied-learning|embodied]] the assumption that learning could be modeled as production rules and that a system could trace which rules a learner had mastered. This produced the canonical architecture that still defines the field: a domain model, a [[student-modeling|student model]] that tracks the learner's knowledge state, and a [[pedagogy|pedagogical]] model that adapts instruction — all cognitivist in origin. Modern [[knowledge-tracing]] (Bayesian, deep-learning, and IRT-based) and [[cognitive-diagnosis]] continue this tradition. The same assumption underwrites [[intelligent-tutoring]], [[adaptive-learning]], and [[personalized-learning]], which are grouped in the knowledge base under the [[student-modeling|Learner Modeling and Adaptive Instruction]] umbrella.
+Cognitivism is arguably the theory most responsible for AI in education existing at all. The early cognitive tutors (e.g., Anderson's ACT-R-based tutors) [[embodied-learning|embodied]] the assumption that learning could be modeled as production rules and that a system could trace which rules a learner had mastered. This produced the canonical architecture that still defines the field: a domain model, a [[student-modeling|student model]] that tracks the learner's knowledge state, and a [[pedagogy|pedagogical]] model that adapts instruction — all cognitivist in origin. Modern [[knowledge-tracing]] (Bayesian, deep-learning, and IRT-based) and [[cognitive-diagnosis]] continue this tradition. The same assumption underwrites [[intelligent-tutoring]], [[adaptive-learning]], and [[personalized-learning]], which are grouped under the [[student-modeling|Learner Modeling and Adaptive Instruction]] umbrella.
 
 ### Cognitive load and the design of instruction
 
@@ -67,7 +67,7 @@ A 2026 experiment gives the memory side of that boundary a concrete failure mode
 3. **Respect working-memory limits.** Apply Cognitive Load Theory to AI UX: reduce extraneous load (friction, overloaded interfaces) while preserving germane processing ([[desirable-difficulties|productive struggle]], retrieval practice) rather than minimizing all cognitive demand.
 4. **Calibrate metacognition.** Because [[metacognition]] governs when learners choose to offload, teaching calibration (knowing what one can actually do unaided) is a cognitivist answer to over-reliance (see [[cognitive-offloading]]).
 
-Development sits outside this page's scope: the mechanisms described here are treated as stable, while [[developmental-psychology|developmental psychology]] asks how they change with age and what that means for age-banded AI use.
+Development is a separate question: these mechanisms are treated as stable, while [[developmental-psychology|developmental psychology]] asks how they change with age and what that means for age-banded AI use.
 
 ## Common Misconceptions
 

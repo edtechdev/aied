@@ -1,6 +1,6 @@
 ---
 title: "A model for enhancing the quality of geography education based on the integration of Artificial Intelligence and Geographic Information Systems"
-created: "2026-11-04T16:20:00-05:00"
+created: "2026-11-04T14:09:25-05:00"
 updated: "2026-11-04T16:20:00-05:00"
 type: article
 sources: ['raw/papers/laiskhanov-ai-gis-geography-education-2026.md']

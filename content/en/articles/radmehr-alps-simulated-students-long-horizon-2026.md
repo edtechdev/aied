@@ -1,7 +1,7 @@
 ---
 title: "To Align Long, Plan Short: Simulating Diverse Profile-Aligned Students by Realizing Short-Term Plans in Long-Horizon Learning Environments"
 published: "2026-11-01"
-created: "2026-11-03T09:30:00-05:00"
+created: "2026-11-03T09:27:09-05:00"
 updated: "2026-11-03T09:30:00-05:00"
 type: article
 sources: ['raw/papers/radmehr-alps-simulated-students-long-horizon-2026.md']

@@ -1,7 +1,7 @@
 ---
 title: Social-Emotional Learning
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-07T13:45:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -19,7 +19,7 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - The CASEL framework lists five competencies — self-awareness, self-management, social awareness, relationship skills, and responsible decision-making. Which of these do you think an [[intelligent-tutoring|AI tutor]] could support, and which do you suspect it cannot?
-- The page distinguishes social-emotional learning from emotional intelligence. Before reading on, how would you describe the difference, and why might the distinction matter for how schools approach them?
+- Before reading on, how would you describe the difference between social-emotional learning and emotional intelligence, and why might the distinction matter for how schools approach them?
 - If technical AI literacy alone is 'insufficient' for navigating AI-mediated learning, what do you think is missing — and what does that imply for how you prepare students (or yourself)?
 - How might heavy reliance on AI reshape a student's sociability, empathy, or sense of trust — and are those changes something education should actively design for?
 - The [[research-methods-aied|research]] suggests SEL supports the relational dimensions of learning that AI must 'complement rather than replace.' Where have you seen technology strengthen a human relationship, and where has it quietly substituted for one?
@@ -30,7 +30,7 @@ Social-emotional learning is closely related to, but distinct from, emotional in
 
 ### How SEL appears in the research
 
-- **Empathy is the affective edge of SEL, and the hardest to assess.** [[empathy]] covers the evidence on teaching and measuring it: role-play, VR and LLM dialogue all raise self-report scores, observer ratings hold together, and computer-vision proxies invert on smiling. It is the page to read before treating an empathy gain as evidence that a program worked.
+- **Empathy is the affective edge of SEL, and the hardest to assess.** [[empathy]] covers the evidence on teaching and measuring it: role-play, VR and LLM dialogue all raise self-report scores, observer ratings hold together, and computer-vision proxies invert on smiling. Read that evidence before treating an empathy gain as evidence that a program worked.
 - **Integrating SEC into AI literacy:** [[sec-ai-literacy-narrative-review-2026|The narrative review by Palmquist et al.]] proposes an integrated framework that combines AI literacy with social-emotional competencies, arguing that technical proficiency alone is insufficient — educators and students need both technological and emotional intelligence to navigate AI-mediated learning environments, fostering [[personalized-learning|personalized learning]], collaboration, and ethical [[student-engagement|engagement]].
 
 - **Teachers and relational practice:** Research on [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|AI literacy frameworks]] and [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|teacher-student trust]] emphasizes that SEL supports the relational dimensions of learning (teacher-student and student-student relationships), which AI must complement rather than replace.
@@ -47,7 +47,7 @@ Social-emotional learning is closely related to, but distinct from, emotional in
 
 ## Potential subtopics of SEL in the AI-era research
 
-The knowledge base's research clusters SEL into several distinct subtopics, each with its own evidence base:
+The research clusters SEL into several distinct subtopics, each with its own evidence base:
 
 ### Self-efficacy and confidence
 A core SEL competency (self-awareness/self-management) that strongly conditions how students interact with AI. [[student-dependency-on-ai-literacy-self-efficacy-2026|Student dependency on AI]] (478 Israeli HE students) found that while skill-based AI literacy dimensions were *positively* associated with AI dependency, both academic and AI-specific **self-efficacy** and effort [[regulation]] were *negatively* associated — meaning AI literacy alone does not protect against dependency; [[self-efficacy]] does. [[self-efficacy-tutoring-learning|Cen et al. (EC-TEL 2026)]] found that students with lower baseline self-efficacy achieved greater learning gains regardless of practice format, and that favor toward the tutor mattered more for tutor-based practice — underscoring the value of tailoring practice to motivational profiles. Connected concepts: [[self-efficacy]], [[motivation]], [[agency]].

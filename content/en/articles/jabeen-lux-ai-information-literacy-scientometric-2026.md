@@ -1,6 +1,6 @@
 ---
 title: "How artificial intelligence is reshaping information literacy in academic libraries: A global Scientometric analysis (2020–2025)"
-created: "2026-11-05T04:05:00-05:00"
+created: "2026-11-05T03:32:52-05:00"
 updated: "2026-11-05T04:05:00-05:00"
 type: article
 published: "2026-03-18"

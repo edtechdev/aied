@@ -1,6 +1,6 @@
 ---
 title: "Rigor, commitment, and generative AI: a conceptual framework for student engagement in EAP writing"
-created: "2026-11-04T16:20:00-05:00"
+created: "2026-11-04T14:09:25-05:00"
 updated: "2026-11-04T16:20:00-05:00"
 type: article
 published: "2026"

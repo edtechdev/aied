@@ -1,7 +1,7 @@
 ---
 title: Neurodiversity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-12T18:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -15,18 +15,18 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- The page frames neurodiversity as neurological differences being natural variations rather than deficits to fix. How does that shift in framing change what 'helping' a learner with autism, ADHD, or dyslexia should look like in your own setting?
+- Neurodiversity is the view that neurological differences are natural variations rather than deficits to fix. How does that shift in framing change what 'helping' a learner with autism, ADHD, or dyslexia should look like in your own setting?
 - Consider a generative AI tool that produces long text-heavy responses. Which neurodivergent learners might it help, and which might it disadvantage—and can you think of design choices that would tip the balance either way?
 - AI that reduces [[cognitive-offloading|cognitive load]] can support learners who struggle with executive function or social expectations, yet AI that encourages dependency may undermine them. Where do you draw the line between support and over-reliance for a specific learner?
-- The page warns that AI tools which assume a dominant communication style can recapitulate equity gaps. Can you recall a time a 'one-size-fits-all' tool or classroom assumed everyone learned the same way, and what it overlooked?
+- AI tools that assume a dominant communication style can recapitulate equity gaps. Can you recall a time a 'one-size-fits-all' tool or classroom assumed everyone learned the same way, and what it overlooked?
 - How might a learner's neurotype change how their behavior signals are interpreted in learning analytics? What risk arises when AI reads [[student-engagement|engagement]] or struggle without knowing how a particular brain works?
-- The strongest evidence on this page is for a general design change that helped everyone and closed a gap, not for a tool built for one diagnosis. Why might universal changes outperform diagnosis-gated ones — and what does that imply about how you would spend a limited accessibility budget?
+- The strongest evidence is for a general design change that helped everyone and closed a gap, not for a tool built for one diagnosis. Why might universal changes outperform diagnosis-gated ones — and what does that imply about how you would spend a limited accessibility budget?
 
 ## Introduction
 
 The neurodiversity paradigm shifts the goal of [[special-education]] and [[accessibility]] work from "fix the learner" to "adapt the environment." It overlaps with [[universal-design-for-learning]] and [[inclusive-learning]] but emphasizes affirming identity and strength-based design over accommodation-as-compensation.
 
-In the AI era this framing becomes a design test rather than a slogan. [[generative-ai|Generative AI]] offers real promise for neurodivergent learners — alternative means of engagement, representation and expression, support for executive function, and reduced extraneous load — and real risk, since tools that assume a dominant communication style, gate support behind a formal diagnosis, or encourage dependency can disadvantage exactly the learners they claim to serve. This page maps what the evidence actually shows, category by category, and where it runs out.
+In the AI era this framing becomes a design test rather than a slogan. [[generative-ai|Generative AI]] offers real promise for neurodivergent learners — alternative means of engagement, representation and expression, support for executive function, and reduced extraneous load — and real risk, since tools that assume a dominant communication style, gate support behind a formal diagnosis, or encourage dependency can disadvantage exactly the learners they claim to serve. The evidence is mapped category by category, including where it runs out.
 
 ## What the research covers
 
@@ -41,7 +41,7 @@ Two reviews define the shape of the field, and both describe fragmentation rathe
 
 [[neurodivergent-computing-students|A survey of 24 neurodivergent computing students (autistic and/or ADHD) and 20 neurotypical peers]], with four in-depth interviews, found significant discomfort with assignments that lack clear structure or carry ambiguous expectations — and the same structures that suit neurotypical learners in collaborative [[active-learning|active learning]] can exclude neurodivergent peers. The authors present it as preliminary and among the first studies to center neurodivergent voices in [[cs-education|computing education]], which is also a measure of how little evidence exists.
 
-[[adhd-video-segmentation-computing-education|The video-segmentation study (Pimenova, Begel and colleagues, 2026)]] is the strongest single result on this page. Treating [[video-education|instructional videos]] as a post-hoc processing problem — segmenting them into single-instruction chunks with fixed pauses to reduce extraneous load — improved performance for everyone in a within-participants design (17 ADHD, 10 non-ADHD), and the ADHD participants' errors and hesitations fell to parity with their non-ADHD peers. An equalizing change that needs no diagnosis, no disclosure, and no separate tool is the cleanest available demonstration of [[universal-design-for-learning|Universal Design for Learning]] through automated content transformation.
+[[adhd-video-segmentation-computing-education|The video-segmentation study (Pimenova, Begel and colleagues, 2026)]] is the strongest single result in the evidence. Treating [[video-education|instructional videos]] as a post-hoc processing problem — segmenting them into single-instruction chunks with fixed pauses to reduce extraneous load — improved performance for everyone in a within-participants design (17 ADHD, 10 non-ADHD), and the ADHD participants' errors and hesitations fell to parity with their non-ADHD peers. An equalizing change that needs no diagnosis, no disclosure, and no separate tool is the cleanest available demonstration of [[universal-design-for-learning|Universal Design for Learning]] through automated content transformation.
 
 ## Specific learning disabilities, dyslexia, and cognitive offloading
 

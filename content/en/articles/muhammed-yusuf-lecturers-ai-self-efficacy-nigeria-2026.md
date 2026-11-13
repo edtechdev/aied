@@ -1,6 +1,6 @@
 ---
 title: "Qualitative Analysis of Lecturers' Self-Efficacy and Perception of Artificial Intelligence Tools for Educational Practices in Higher Education"
-created: "2026-10-29T10:36:00-04:00"
+created: "2026-10-29T09:15:13-04:00"
 updated: "2026-11-12T18:40:00-05:00"
 type: article
 authors: ["Muhammed, A. A.", "Yusuf, M. O."]

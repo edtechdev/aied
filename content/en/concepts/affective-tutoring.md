@@ -1,7 +1,7 @@
 ---
 title: Affective Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-04T13:20:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Affective tutoring is the pedagogical half of [[affective-computing]]: once a system has some reading on a learner's emotional state, what should it do with that reading? The design question is not how to detect frustration but what to change once you believe you have detected it — the pace, the hint level, the tone of feedback, or whether to stop and address the emotion itself. This page covers that decision layer: the strategies tutors map affect onto, the evidence that they help, and the reasons they can backfire. It is not about the learner's own empathy, which is a different outcome with a different evidence base ([[empathy]]), nor about how affect is sensed ([[sensor-and-gaze-analytics|sensor and gaze analytics]]).
+Affective tutoring is the pedagogical half of [[affective-computing]]: once a system has some reading on a learner's emotional state, what should it do with that reading? The design question is not how to detect frustration but what to change once you believe you have detected it — the pace, the hint level, the tone of feedback, or whether to stop and address the emotion itself. The decision layer is the subject: the strategies tutors map affect onto, the evidence that they help, and the reasons they can backfire. It is not about the learner's own empathy, which is a different outcome with a different evidence base ([[empathy]]), nor about how affect is sensed ([[sensor-and-gaze-analytics|sensor and gaze analytics]]).
 
 The clearest worked example is MathBuddy, which models student affect from two modalities:
 

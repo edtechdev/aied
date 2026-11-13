@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Assist with Educational Research?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-11-06T13:58:13-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -48,7 +48,7 @@ The short answer for that meeting: AI can take search, a first screening pass, c
 
 **5.** Verify every reference by hand, authors first, whenever AI touched the writing.
 
-**6.** Log prompts, model versions, and corpus versions, and budget the hours for it.
+**6.** Log prompts, model versions, and dataset versions, and budget the hours for it.
 
 ## Decide what AI may touch before the project starts
 
@@ -64,7 +64,7 @@ Most of the benefit comes from two design decisions. Write decision rules for gr
 
 ## Fix the codebook before the model reads anything
 
-[[qualitative-research|Qualitative analysis]] is the stage where interpretation is the product. Constructs, coding rubrics, and training data are human decisions rather than model outputs ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]), which means the codebook has to be settled before an automated pass runs over the corpus. The alternative is a coding scheme written around what the model happened to surface, and the themes then describe the tool's reading of your data.
+[[qualitative-research|Qualitative analysis]] is the stage where interpretation is the product. Constructs, coding rubrics, and training data are human decisions rather than model outputs ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]), which means the codebook has to be settled before an automated pass runs over the dataset. The alternative is a coding scheme written around what the model happened to surface, and the themes then describe the tool's reading of your data.
 
 Delegation can be finer-grained than all-or-nothing. [[agreement-not-quality-llm-coding-verification|One blind-verification study]] classified 15 of 72 codebook items as demonstrably requiring human expertise, 12 as better served by a model, and 16 as suited to confidence-based triage. Sort your own items that way and the labor saving lands where it is safe.
 
@@ -92,13 +92,13 @@ The failure is concrete. In [[zhang-platform-scores-miss-ai-teaching-agents-2026
 
 Adoption has run ahead of reporting. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta and Lin (2026)]] analyzed 888 review-automation papers: since 2023, 38.0% of software and product papers reported no evaluation at all, against 9.3% of LLM papers, and model access was overwhelmingly proprietary (84.1%). A favorable overall assessment did not imply fitness for delegation either, since 52% of 118 positive-only LLM papers still reported a concern that the workflow fell below the bar required for its role. Their [[meta-analysis-systematic-review|PRISMA]]-LLM framework separates implementation disclosure from consequence-sensitive evaluation and treats its five levels as disclosure tiers rather than risk tiers.
 
-The practical version: name the system and its version, the prompts, the corpus version, what a human checked, and where it failed. Keep prompt-and-response logs, because a fluent generated theme list looks inevitable long before its evidentiary work has begun ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+The practical version: name the system and its version, the prompts, the dataset version, what a human checked, and where it failed. Keep prompt-and-response logs, because a fluent generated theme list looks inevitable long before its evidentiary work has begun ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Budget the hours as well. [[persistent-ai-agents-academic-research|A 115-day, single-investigator case study]] of a persistent research agent found the strongest pattern was capacity expansion rather than proven labor substitution: as memory and procedures accumulated, the scope of delegated work grew while the human's input did not shrink.
 
 ## Run practitioner inquiry with the same rules at smaller scale
 
-If you are a lecturer studying your own course, you are working in the corpus's thinnest strand. [[ai-assisted-educational-research|AI-Assisted Educational Research]] states this as a gap rather than a finding: AI-assisted practitioner inquiry is plausibly widespread and almost undocumented, and the review-automation and bibliometric evidence does not settle how a lecturer should study their own teaching.
+If you are a lecturer studying your own course, you are working in the least-studied strand of this literature. [[ai-assisted-educational-research|AI-Assisted Educational Research]] states this as a gap rather than a finding: AI-assisted practitioner inquiry is plausibly widespread and almost undocumented, and the review-automation and bibliometric evidence does not settle how a lecturer should study their own teaching.
 
 What carries across is a set of dispositions:
 

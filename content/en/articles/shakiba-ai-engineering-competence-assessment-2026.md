@@ -1,6 +1,6 @@
 ---
 title: "When AI Can Build It, What Should We Assess? Rethinking Evidence of Engineering Competence"
-created: "2026-10-28T12:00:00-04:00"
+created: "2026-10-28T09:21:54-04:00"
 updated: "2026-10-28T12:00:00-04:00"
 type: article
 authors: ["Shakiba, A."]

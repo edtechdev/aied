@@ -1,7 +1,7 @@
 ---
 title: "How Do I Redesign Assessment So That a Grade Still Tells Me Something Defensible About What the Student Knows or Can Do?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-28T10:45:41-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 audience: [instructors, assessment designers]
@@ -34,7 +34,7 @@ The short answer: decide what the grade is meant to be evidence **of**, put at l
 
 ## Decide what the grade is evidence of
 
-Begin by stating explicitly what capability the grade is supposed to represent. Are you assessing what a student can do independently, what they can accomplish appropriately with AI, their ability to evaluate and direct AI, or some combination of these? The knowledge base's [[assessment-validity|Assessment Validity]] treats this as a validity problem: a polished artifact is no longer sufficient evidence that the student possesses the capability apparently demonstrated by that artifact. This is the assessment-side half of the same argument; the enforcement-side half is in [[reduce-ai-cheating]], and the general validity framing runs through [[evaluating-ai-interventions-methods]].
+Begin by stating explicitly what capability the grade is supposed to represent. Are you assessing what a student can do independently, what they can accomplish appropriately with AI, their ability to evaluate and direct AI, or some combination of these? [[assessment-validity|Assessment validity]] treats this as a validity problem: a polished artifact is no longer sufficient evidence that the student possesses the capability apparently demonstrated by that artifact. This is the assessment-side half of the same argument; the enforcement-side half is in [[reduce-ai-cheating]], and the general validity framing runs through [[evaluating-ai-interventions-methods]].
 
 Say the answer in the syllabus, in the assignment sheet, and in the rubric. Students read three documents and comply with the one that is most specific. "AI use is permitted with acknowledgment" is not a statement of what you are measuring, and it gives a student no way to know whether the permitted use undercuts the thing you are grading.
 

@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
@@ -16,9 +16,9 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - Most AI models are trained primarily on high-resource languages like English. If you think, study, or are assessed in a different language, how might that systematically disadvantage you — even if the tool seems to 'work' in English?
-- The page warns that unaddressed monolingual bias in AI deepens the digital divide and undermines equity, especially across the Global South. What does genuine equity require beyond simply translating AI content into another language?
+- What does genuine equity require beyond simply translating AI content into another language?
 - Automated assessment can exhibit language bias, penalizing non-native speakers even for the same reasoning. If you were implementing AI scoring, what would you check to ensure it is fair across languages rather than just accurate in one?
-- The page shows low-resource languages can be served by [[llm-training-and-fine-tuning|fine-tuning]] models on curated corpora, even under practical hardware constraints. What trade-offs would you expect between efficiency and how faithfully the model handles a low-resource language?
+- Low-resource languages can be served by [[llm-training-and-fine-tuning|fine-tuning]] models on curated corpora, even under practical hardware constraints. What trade-offs would you expect between efficiency and how faithfully the model handles a low-resource language?
 - Multilingual AI must go beyond translation to reflect culturally relevant pedagogy — content that is linguistically *and* contextually appropriate. How might content that is perfectly translated still fail a learner if it ignores local context and culture?
 
 ## Introduction

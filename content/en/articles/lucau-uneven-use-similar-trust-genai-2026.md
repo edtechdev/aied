@@ -1,6 +1,6 @@
 ---
 title: "Uneven Use, Similar Trust? Generative AI in Denmark and Romania"
-created: "2026-10-28T12:00:00-04:00"
+created: "2026-10-28T09:21:54-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Lucau, I.", "Voicu, A.-G.", "Christensen, S. M."]

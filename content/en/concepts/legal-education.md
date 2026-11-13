@@ -1,7 +1,7 @@
 ---
 title: "Legal Education"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-11-07T13:45:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -27,9 +27,9 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Legal education prepares students for a licensed profession with its own rules of conduct, its own accreditation body, and its own gatekeeping examination, which makes it the discipline in the knowledge base where [[educational-policy-ai|education policy]], professional [[regulation]] and assessment validity intersect most tightly. It sits alongside [[medical-education|Medical and Health Professions Education]] and [[nursing-education|Nursing Education]] as a [[professional-training]] discipline rather than a school subject, but its distinguishing feature is procedural: much of what law schools must decide is not *how* to teach with AI but *what the professional ethics rules require* of a graduate who will practice with it.
+Legal education prepares students for a licensed profession with its own rules of conduct, its own accreditation body, and its own gatekeeping examination, which makes it the discipline where [[educational-policy-ai|education policy]], professional [[regulation]] and assessment validity intersect most tightly. It sits alongside [[medical-education|Medical and Health Professions Education]] and [[nursing-education|Nursing Education]] as a [[professional-training]] discipline rather than a school subject, but its distinguishing feature is procedural: much of what law schools must decide is not *how* to teach with AI but *what the professional ethics rules require* of a graduate who will practice with it.
 
-The evidence base is currently thin and policy-heavy. One substantial article anchors the page: [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] surveyed and compared institutional generative AI policies across ABA-approved US law schools and proposed a governance framework. That imbalance is itself a finding, and the page flags it rather than papering over it.
+The evidence base is currently thin and policy-heavy. One substantial article carries most of the weight: [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] surveyed and compared institutional generative AI policies across ABA-approved US law schools and proposed a governance framework. That imbalance is itself a finding, and it is stated plainly rather than papered over.
 
 Experimental evidence is beginning to arrive: [[xie-genai-mystery-game-legal-education-2026|Xie et al. (2026)]] randomized 84 law undergraduates to a GenAI-authored mystery role-play game or to the same instructor's lecture, and the game group scored far higher on a knowledge-and-reasoning post-test (partial *η*² = 0.566).
 
@@ -70,13 +70,13 @@ In a legal-context experiment, 186 lay decision-makers on tribunal civil cases d
 
 **Disclosure norms are unsettled and consequential.** Gutowski and Hurley report disagreement about whether any use of AI must be disclosed, proposals for student disclosure forms, and no consensus on citation practice, with the Bluebook still silent on citing generative AI. They also predict that disclosure requirements will eventually look as pointless as noting that a student used a search engine, which is a prediction about the shelf life of the rules now being written.
 
-**Professional ethics travel with the graduate.** The ABA's duty of technological competence and its guidance on confidentiality, supervision and candour toward the tribunal apply to practicing lawyers using these tools, and law schools inherit the job of teaching them. That is why the discipline connects directly to the knowledge base's work on [[ai-use-disclosure|AI use disclosure]] and on the [[legal-issues-and-risks|legal issues and risks]] that arise when institutions govern AI badly.
+**Professional ethics travel with the graduate.** The ABA's duty of technological competence and its guidance on confidentiality, supervision and candour toward the tribunal apply to practicing lawyers using these tools, and law schools inherit the job of teaching them. That is why the discipline connects directly to [[ai-use-disclosure|AI use disclosure]] and on the [[legal-issues-and-risks|legal issues and risks]] that arise when institutions govern AI badly.
 
 ## Open Questions
 
 - Does AI-assisted legal writing coursework still develop the analysis that licensure assumes, or does it train a fluency the bar exam cannot detect either?
 - What happens to Socratic teaching if the preparatory reading is routinely delegated, and is the classroom's silence about it a measurement problem or a design one?
-- Legal education produces the people who will litigate and regulate [[ai-education|AI in education]]. Does that make it the natural place for the knowledge base's legal-risk work to be tested, or does it distort attention toward the law schools with the loudest policies?
+- Legal education produces the people who will litigate and regulate [[ai-education|AI in education]]. Does that make it the natural place to test legal-risk work, or does it distort attention toward the law schools with the loudest policies?
 
 ## Common Misconceptions
 

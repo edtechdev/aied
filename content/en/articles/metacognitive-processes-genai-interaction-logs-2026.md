@@ -1,6 +1,6 @@
 ---
 title: "Mapping the Distribution and Depth of Metacognitive Processes in Generative AI-Assisted Learning: Evidence from Interaction Logs and Concurrent Think-Aloud Protocols"
-created: "2026-09-30T15:10:00-04:00"
+created: "2026-09-30T12:23:02-04:00"
 updated: "2026-09-30T15:10:00-04:00"
 type: article
 sources: ['raw/papers/10.3390_bs16081365.md']

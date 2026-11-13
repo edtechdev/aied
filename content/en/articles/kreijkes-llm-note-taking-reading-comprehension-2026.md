@@ -1,6 +1,6 @@
 ---
 title: "Effects of LLM use and note-taking on reading comprehension and memory: A randomised experiment in secondary schools"
-created: "2026-11-12T20:30:00-05:00"
+created: "2026-11-12T20:12:17-05:00"
 updated: "2026-11-13T00:40:00-05:00"
 type: article
 sources: ['raw/papers/kreijkes-llm-note-taking-reading-comprehension-2026.md']

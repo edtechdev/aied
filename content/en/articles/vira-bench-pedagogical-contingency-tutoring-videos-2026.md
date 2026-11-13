@@ -1,6 +1,6 @@
 ---
 title: "VIRA-Bench: Diagnosing Pedagogical Contingency Understanding in Online Tutoring Videos"
-created: "2026-10-22T09:27:00-04:00"
+created: "2026-10-22T09:23:20-04:00"
 updated: "2026-10-22T09:27:00-04:00"
 type: article
 foundations: [teacher-role, interpreting-and-applying-aied-research]

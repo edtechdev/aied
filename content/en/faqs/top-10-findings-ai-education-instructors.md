@@ -1,7 +1,7 @@
 ---
 title: "What Are the Top 10 Findings from AI in Education Research That Instructors Should Know About?"
 created: "2026-08-24T09:42:00-04:00"
-updated: "2026-10-28T11:06:17-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [addressing-common-misconceptions-ai-education, does-ai-help-students-learn, reduce-ai-cheating, faculty-ai-competencies]
 weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]
@@ -19,7 +19,7 @@ ai_assist:
 
 It is the week before term, or the week after the first big submission, and someone has asked you something you cannot answer from experience: what students may do with AI on this assignment, and what the grade then proves. Perhaps a take-home essay came back polished in a way that does not match the student's earlier work. Perhaps your department is writing an [[educational-policy-ai|AI policy]] and wants your course to conform by Friday. Perhaps a student is appealing a mark and you cannot show what the work demonstrates.
 
-The bottom line from the research this knowledge base has collected: how you build [[generative-ai|generative AI]] into the activity decides whether it strengthens thinking or replaces it. The lever you control is the design of the task. The test of any design is what students can still do when the tool is gone. The ten findings this page is named for are below, sorted by the decision each one informs.
+The bottom line from the research: how you build [[generative-ai|generative AI]] into the activity decides whether it strengthens thinking or replaces it. The lever you control is the design of the task. The test of any design is what students can still do when the tool is gone. The ten findings are sorted by the decision each one informs.
 
 ## The short version
 
@@ -41,9 +41,9 @@ Write one sentence naming the capability before you touch the tool: what should 
 
 Two lines of work explain why this comes first. [[productive-failure|Productive failure]] is the finding that learners often retain more when they attempt a problem before being shown how, so friction is sometimes the mechanism rather than an obstacle to be removed. The [[icap-framework|ICAP framework]] predicts different learning from passive, active, constructive, and interactive use of the same material. Both point at one design question: what is the student doing while the tool is open?
 
-The clearest illustration in the corpus comes from a comparison of a theory-informed chatbot that scaffolded student explanations against ordinary ChatGPT and business-as-usual teaching. Immediate differences were not significant. Four weeks later, the scaffolded group retained more conceptual knowledge. That is one study and not a universal effect, and its useful content is the shape of the result: design can outweigh model capability, because what separated the conditions was what the activity asked students to do.
+The clearest illustration in the research comes from a comparison of a theory-informed chatbot that scaffolded student explanations against ordinary ChatGPT and business-as-usual teaching. Immediate differences were not significant. Four weeks later, the scaffolded group retained more conceptual knowledge. That is one study and not a universal effect, and its useful content is the shape of the result: design can outweigh model capability, because what separated the conditions was what the activity asked students to do.
 
-The [[kumar-genai-computing-education-systematic-review-2026|systematic review of 72 peer-reviewed computing-education studies]] arrives at the same layer from the other direction. It calls critical engagement with AI output "the common mechanism linking every effective intervention in the corpus" and recommends [[scaffolding|graduated access]], introducing generative AI only after foundational competence has been shown. Neither claim is about which product you license.
+The [[kumar-genai-computing-education-systematic-review-2026|systematic review of 72 peer-reviewed computing-education studies]] arrives at the same layer from the other direction. It names critical engagement with AI output as the common mechanism linking the effective interventions it reviewed and recommends [[scaffolding|graduated access]], introducing generative AI only after foundational competence has been shown. Neither claim is about which product you license.
 
 ## Give AI a job that is not the thinking you are grading
 
@@ -67,9 +67,9 @@ Read those numbers as a design brief. A permission with no stated purpose looks 
 
 ## Grade something the student made without the tool
 
-This is the step that does the work, and the evidence here is the least ambiguous on the page.
+This is the step that does the work, and the evidence for it is the least ambiguous in the research.
 
-The 72-study review found generative AI reliably raised short-term completion and cut time on task in 36 studies, which the authors treat as the best-replicated result in the corpus, and those efficiency gains "do not transfer to independent performance" in 21 studies. A [[yan-cognitive-outsourcing-genai-assessments-2026|think-aloud study of 38 undergraduates]] shows how that happens in the ordinary case. [[cognitive-offloading|Cognitive offloading]] is hardest on learning when the AI performs the reasoning the student was supposed to practice. There, 76.32% stayed in a single-turn ask, answer, stop pattern, and only 21.06% alternated AI use with independent reading and drafting. The largest group, 31 of 38, described mastery goals, worked in fragmented single turns, and then reported overreliance, mental complacency, and fast forgetting; one of them put it as "the speed at which you forget it is also very fast." A [[critical-thinking-paradox-genai-learning-2026|2026 framework paper]] gives the pattern its name. Grades and products rise while the mental work that produces durable learning falls.
+The 72-study review found generative AI reliably raised short-term completion and cut time on task in 36 studies, which the authors treat as the best-replicated result in their review, and those efficiency gains "do not transfer to independent performance" in 21 studies. A [[yan-cognitive-outsourcing-genai-assessments-2026|think-aloud study of 38 undergraduates]] shows how that happens in the ordinary case. [[cognitive-offloading|Cognitive offloading]] is hardest on learning when the AI performs the reasoning the student was supposed to practice. There, 76.32% stayed in a single-turn ask, answer, stop pattern, and only 21.06% alternated AI use with independent reading and drafting. The largest group, 31 of 38, described mastery goals, worked in fragmented single turns, and then reported overreliance, mental complacency, and fast forgetting; one of them put it as "the speed at which you forget it is also very fast." A [[critical-thinking-paradox-genai-learning-2026|2026 framework paper]] gives the pattern its name. Grades and products rise while the mental work that produces durable learning falls.
 
 The randomized trial settles the argument for at least one setting. A [[bassner-performance-learning-dissociation-ai-programming-2026|three-arm RCT with 275 CS1 students]] compared a hint-giving tutor that withheld full solutions, unrestricted ChatGPT, and traditional web resources. Exercise scores separated sharply: 71.84% for ChatGPT against 29.85% for the no-AI control, with the hint-giving tutor at 57.50%. Conceptual knowledge gains did not differ at all across the three arms, at 0.83, 0.71 and 0.85 points (time × group p = .773). Both AI conditions cut frustration and extraneous load, and only the hint-giving tutor raised [[motivation|intrinsic motivation]]. The tool students rated as more helpful and easier was also the one that most reduced the processing that produces learning.
 
@@ -109,7 +109,7 @@ There is a further trap if you let a model grade. In a [[llm-grading-self-prefer
 
 An average improvement can hide a course where the strong get stronger and the weak get a worse deal. The [[digital-divide|digital divide]] now runs along at least three lines: access to tools, skill in using them, and who actually gets a useful result. Prompting skill alone produces a "prompt privilege" in which more experienced users get better output from the same system.
 
-The 72-study review separates two mechanisms. A skill gap appears where students with stronger [[prior-knowledge|prior knowledge]] convert help into durable gains while under-prepared students substitute it for practice. A resource gap appears where reliable internet and paid access sustain better tool use across institutions. Only six studies in the corpus directly examined equity, which the authors treat as the problem rather than a footnote; [[equity-in-ai-education|equity in AI education]] is where that argument is developed.
+The 72-study review separates two mechanisms. A skill gap appears where students with stronger [[prior-knowledge|prior knowledge]] convert help into durable gains while under-prepared students substitute it for practice. A resource gap appears where reliable internet and paid access sustain better tool use across institutions. Only six studies in the review directly examined equity, which the authors treat as the problem rather than a footnote; [[equity-in-ai-education|equity in AI education]] is where that argument is developed.
 
 Help can close a gap when the students who need it are the ones who engage. A [[co-learning-ai-agent-hidden-rules-2026|four-experiment study of learners discovering hidden rules with an AI agent's help]] found the aid cut moves needed by 33-52%, and the benefit concentrated in the weakest performers while stronger learners were largely unaffected. That is the hopeful version, and it depends on the students who most need the help being the ones who use it well, which the skill gap suggests they will not manage without teaching.
 
@@ -135,7 +135,7 @@ The practical version for a course: let AI draft, sort, and flag. Keep accuracy,
 
 **"AI literacy is prompt skill, and students pick it up by using the tool."** Frameworks treat [[ai-literacy|AI literacy]] as conceptual understanding, operational skill, [[critical-thinking|critical evaluation]], [[ethics|ethical]] judgment, and awareness of limits. The review is explicit that [[prompt-engineering|prompt engineering]], output verification, and analyzing AI errors are teachable skills that do not develop through exposure. The trained science teachers scoring 16.7 out of 30 are the empirical version of that claim.
 
-**"The equity problem is access."** Access is one of three lines. Skill and who gets a useful result are the other two, and only six studies in the corpus examined any of it directly. Handing every student a license settles the easiest third.
+**"The equity problem is access."** Access is one of three lines. Skill and who gets a useful result are the other two, and only six of the 72 studies examined any of it directly. Handing every student a license settles the easiest third.
 
 ## What will come back at you
 
@@ -149,7 +149,7 @@ The practical version for a course: let AI draft, sort, and flag. Keep accuracy,
 
 **"I do not teach AI. This is not my subject."** The findings are about your subject. When AI performs the practice your course exists to provide, that is exactly when it interferes, and the interference shows up in your assessments whether or not you mention the tool.
 
-**"The evidence is too new to act on."** Partly true, and it cuts both ways. Much of the corpus is short interventions, [[self-report-measures|self-report]] studies, single disciplines, or 2025 and 2026 work, and claims from mature [[intelligent-tutoring]] research are stronger than claims about unrestricted general-purpose [[conversational-ai|chatbots]]. Where a claim now has a randomized trial behind it, the performance and learning dissociation in the CS1 trial and the feedback result in the mathematics deployment, that trial is cited here. Where it does not, treat the finding as the best available guidance rather than settled law, and be most skeptical of results showing only satisfaction, task speed, output quality, or immediate assisted performance.
+**"The evidence is too new to act on."** Partly true, and it cuts both ways. Much of the evidence is short interventions, [[self-report-measures|self-report]] studies, single disciplines, or 2025 and 2026 work, and claims from mature [[intelligent-tutoring]] research are stronger than claims about unrestricted general-purpose [[conversational-ai|chatbots]]. Where a claim now has a randomized trial behind it, the performance and learning dissociation in the CS1 trial and the feedback result in the mathematics deployment, that trial is the one to cite. Where it does not, treat the finding as the best available guidance rather than settled law, and be most skeptical of results showing only satisfaction, task speed, output quality, or immediate assisted performance.
 
 ## What to do this week
 
@@ -165,4 +165,4 @@ The practical version for a course: let AI draft, sort, and flag. Keep accuracy,
 
 ## Where to go next
 
-For the stakeholder-by-stakeholder version of these misunderstandings, see [[addressing-common-misconceptions-ai-education]]. For the design requirements implied by the equity and human-judgment findings, see [[equity-ethics-pedagogical-safety-research]]. [[redesign-assessment-ai-era]] takes the assessment half further, and [[does-ai-help-students-learn]] is the evidence review behind the claims on this page. If you are choosing between redesign and enforcement, [[reduce-ai-cheating]] and [[course-ai-policy]] are the companion pages.
+For the stakeholder-by-stakeholder version of these misunderstandings, see [[addressing-common-misconceptions-ai-education]]. For the design requirements implied by the equity and human-judgment findings, see [[equity-ethics-pedagogical-safety-research]]. [[redesign-assessment-ai-era]] takes the assessment half further, and [[does-ai-help-students-learn]] is the evidence review behind these claims. If you are choosing between redesign and enforcement, [[reduce-ai-cheating]] and [[course-ai-policy]] are the companion pages.

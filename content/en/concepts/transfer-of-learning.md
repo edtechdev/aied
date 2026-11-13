@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -15,12 +15,12 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- Here's a striking pattern the page documents: students often show immediate gains on AI-assisted tasks, yet those gains can vanish — or even reverse — when the AI is removed. Before reading the explanations, why do you think a tool that clearly helps in the moment could end up leaving students worse off without it?
+- Here's a striking pattern: students often show immediate gains on AI-assisted tasks, yet those gains can vanish — or even reverse — when the AI is removed. Before reading the explanations, why do you think a tool that clearly helps in the moment could end up leaving students worse off without it?
 - Recall something you learned to do with a tutor, calculator, or assistant and then had to do alone. Did the skill carry over, or did you feel dependent on the aid? What was different about the experiences that transferred well versus those that didn't?
 - A common intuition is that 'practice is practice' — that doing a task with help builds the same skill as doing it alone. Where might that intuition mislead, especially when the help is an AI that completes the reasoning for you rather than guiding you through it?
-- The page draws a distinction between 'effects with' a technology and 'effects of' it — performing better while using the tool versus becoming more capable without it. If you're an instructor, designer, or student, which of these is your real goal, and how would you know you'd achieved it?
+- The distinction is between 'effects with' a technology and 'effects of' it: performing better while using the tool versus becoming more capable without it. If you're an instructor, designer, or student, which of these is your real goal, and how would you know you'd achieved it?
 - The evidence suggests that how much cognitive work you delegate matters: offloading surface tasks like grammar hurt transfer less than offloading deep reasoning and structure. Think about the last time you used AI on an assignment. Which 'layer' did you delegate, and what does your choice predict about what you'd retain?
-- The page proposes conditions that might support positive transfer — [[pedagogy|pedagogical]] [[guardrails]], fading support, calibration to the learner's readiness. If you were designing (or were the user of) an AI learning tool, what would you insist on so that gains while using it become durable ability without it?
+- Several conditions might support positive transfer: [[pedagogy|pedagogical]] [[guardrails]], fading support, calibration to the learner's readiness. If you were designing (or were the user of) an AI learning tool, what would you insist on so that gains while using it become durable ability without it?
 
 ## Introduction
 
@@ -88,7 +88,7 @@ This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tuto
 3. **Individual differences:** Do high-[[prior-knowledge]] students suffer less transfer loss than novices?
 4. **Skill remediation:** Can explicit "AI-off" practice sessions reverse tool dependence?
 
-The time-scale question now has a formalization. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] names the post-withdrawal interval cognitive washout and gives it four candidate outcomes: elastic rebound, partial plateau, latent scaffold and over-recovery. Reversibility, the paper argues, is what determines severity, and it proposes a preregistrable three-arm, twenty-two-week protocol to measure it. The studies above tested transfer hours after assistance ended, so the weeks afterward are the part of this page's first open question that remains genuinely unmeasured.
+The time-scale question now has a formalization. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] names the post-withdrawal interval cognitive washout and gives it four candidate outcomes: elastic rebound, partial plateau, latent scaffold and over-recovery. Reversibility, the paper argues, is what determines severity, and it proposes a preregistrable three-arm, twenty-two-week protocol to measure it. The studies above tested transfer hours after assistance ended, so the weeks afterward are the part of the first open question that remains genuinely unmeasured.
 
 ### Connections to related concepts
 
@@ -96,7 +96,7 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 
 ## Common Misconceptions
 
-**"Gains on AI-assisted tasks demonstrate transferable learning."** The opposite pattern is what the corpus finds: **all five studies** in the synthesis reported here show **negative or null transfer** when general-purpose AI is the intervention — high school mathematics students with higher practice grades scoring **about 17% worse** on closed-book finals, and an essay-writing study in which **83% failed to recall their own quotes**. Immediate assisted performance is the least transferable measure available.
+**"Gains on AI-assisted tasks demonstrate transferable learning."** The opposite pattern is what the evidence finds: **all five studies** in the synthesis reported here show **negative or null transfer** when general-purpose AI is the intervention — high school mathematics students with higher practice grades scoring **about 17% worse** on closed-book finals, and an essay-writing study in which **83% failed to recall their own quotes**. Immediate assisted performance is the least transferable measure available.
 
 **"If a student can do it with the AI, they can do it."** That is the definition of the failure rather than its absence. Transfer requires that the capability survives removal of the support, and the studies that test removal find the capability was in the tool. A learner who can produce an artifact while the reasoning is performed elsewhere has been trained in a different skill: operating the tool.
 

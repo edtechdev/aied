@@ -1,7 +1,7 @@
 ---
 title: Parents and Families
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-12T14:45:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 connected_resources: [ai-guidance-by-age]
 foundations: [ai-literacy]
@@ -14,7 +14,7 @@ level: [preschool, primary education, secondary, k 12]
 reviewed_by: [editor]
 ---
 
-> **Parents and families** — the household as a stakeholder in [[ai-education|AI in education]]: the caregivers who tutor their children at home, choose and pay for tools, supervise or fail to notice what those tools do, and receive whatever their school communicates about AI. The page collects the evidence on AI-mediated parent–child [[intelligent-tutoring|tutoring]] and [[conversational-ai|conversational]] companions used in the home, on the handoffs between home and school, on parents' own [[ai-literacy]], and on the [[equity-in-ai-education|equity]] consequences of home devices, connectivity and cost. Its scope is the family as an actor — what families do with AI, what reaches them from school, and what the research does and does not establish about the results.
+> **Parents and families** — the household as a stakeholder in [[ai-education|AI in education]]: the caregivers who tutor their children at home, choose and pay for tools, supervise or fail to notice what those tools do, and receive whatever their school communicates about AI. The evidence covers AI-mediated parent–child [[intelligent-tutoring|tutoring]] and [[conversational-ai|conversational]] companions used in the home, the handoffs between home and school, parents' own [[ai-literacy]], and the [[equity-in-ai-education|equity]] consequences of home devices, connectivity and cost. Its scope is the family as an actor — what families do with AI, what reaches them from school, and what the research does and does not establish about the results.
 
 ## Questions to Consider
 
@@ -29,7 +29,7 @@ reviewed_by: [editor]
 
 A large share of children's time with AI happens outside the classroom, in a setting the research literature mostly treats as background. Work on tutoring and learning outcomes is usually school-based, while work on family guidance is usually advisory rather than tested, so families are simultaneously the target of a great deal of guidance about [[ethics|responsible AI]] use and the subject of very little evidence about whether that guidance works.
 
-This page treats the household as an actor in its own right. It covers AI-mediated parent–child tutoring, the companion and reading tools children meet at home, what schools do and do not tell families about AI use, parents' own [[ai-literacy]] and what is known about their views, and the access and cost conditions under which families use these tools. Where the evidence is thin, the page says so rather than filling the gap.
+The household is treated as an actor in its own right. The evidence covers AI-mediated parent–child tutoring, the companion and reading tools children meet at home, what schools do and do not tell families about AI use, parents' own [[ai-literacy]] and what is known about their views, and the access and cost conditions under which families use these tools. Where the evidence is thin, the gaps are stated rather than filled.
 
 What a child can do with a tool at a given age is a developmental question rather than a matter of preference; [[developmental-psychology|developmental psychology]] carries that account.
 
@@ -70,13 +70,13 @@ Cost and connectivity shape what families can use before any question of pedagog
 
 ## What the evidence does and does not show
 
-The strongest family-facing results in this knowledge base concern behavior rather than learning. Reducing household-facing friction raised first-session attendance from about 45% to 83% in one trial, and take-up remained the binding constraint even then. The same trial produced small and imprecise outcome gains, while the largest [[learning-gains|achievement]] study reports large negative effects concentrated among students who outsourced homework, a pattern the authors partly attribute to parental monitoring they could not measure directly. Neither finding isolates what parents do from what schools or tools do.
+The strongest family-facing results in this literature concern behavior rather than learning. Reducing household-facing friction raised first-session attendance from about 45% to 83% in one trial, and take-up remained the binding constraint even then. The same trial produced small and imprecise outcome gains, while the largest [[learning-gains|achievement]] study reports large negative effects concentrated among students who outsourced homework, a pattern the authors partly attribute to parental monitoring they could not measure directly. Neither finding isolates what parents do from what schools or tools do.
 
 What is missing is more conspicuous. Parents' own accounts are rare: the teachers in [[k12-teachers-ai-companion-literacy-2026|Xiao et al. (2026)]] excluded parents from their sample by design, and the parents who do appear are interviewed as one voice among girls, practitioners or teachers. There is no direct evidence here about how families learn a school's [[educational-policy-ai|AI policy]], what they are told about monitoring or disclosure, or how they respond to it, and family–school coordination has been theorized rather than tested. Home-tutoring designs such as ParaTutor have been evaluated with 23 dyads in one national context, and companion comparisons rest on 19 students in one school.
 
-A 2026 [[meta-analysis-systematic-review|scoping review]] maps how far the field has gone. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] analyzed 53 HCI studies from 6,540 records across 19 venues through [[activity-theory-aied|activity theory]], and found the literature centered on child–parent interaction and on language, [[ai-literacy]], and relational learning, with 44 of the 53 studies (83%) set in child–parent configurations. Conversational, embodied, and spatial systems generate support from the context of an unfolding interaction, and LLMs redistribute educational labor while families and institutions remain responsible for interpreting outputs and deciding how they enter practice. Sustained [[personalized-learning|personalization]], repair labor, and how families negotiate authority and rules are the gaps the review names, which is the same absence this section documents from the other direction.
+A 2026 [[meta-analysis-systematic-review|scoping review]] maps how far the field has gone. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] analyzed 53 HCI studies from 6,540 records across 19 venues through [[activity-theory-aied|activity theory]], and found the literature centered on child–parent interaction and on language, [[ai-literacy]], and relational learning, with 44 of the 53 studies (83%) set in child–parent configurations. Conversational, embodied, and spatial systems generate support from the context of an unfolding interaction, and LLMs redistribute educational labor while families and institutions remain responsible for interpreting outputs and deciding how they enter practice. Sustained [[personalized-learning|personalization]], repair labor, and how families negotiate authority and rules are the gaps the review names, which is the same absence visible from the other direction.
 
-**Relationship to other pages.** [[stakeholders]] is the short overview of the whole stakeholder set, with families listed as an audience not yet covered in depth; this page is that depth. [[early-childhood-elementary-ai-education]] covers the developmental and [[pedagogy|pedagogical]] domain for young learners across school and home; this page follows the family across ages, from preschool play activities to secondary homework. [[ai-use-disclosure]] covers whether learners tell others that they used AI; this page covers the adjacent question of whether that information reaches the adults at home, and what families are told about school AI use.
+**Relationship to other concepts.** [[stakeholders]] is the short overview of the whole stakeholder set, with families listed as an audience not yet covered in depth; the family is treated in depth across ages, from preschool play activities to secondary homework. [[early-childhood-elementary-ai-education]] covers the developmental and [[pedagogy|pedagogical]] domain for young learners across school and home. [[ai-use-disclosure]] covers whether learners tell others that they used AI; the adjacent question is whether that information reaches the adults at home, and what families are told about school AI use.
 
 ## Common Misconceptions
 

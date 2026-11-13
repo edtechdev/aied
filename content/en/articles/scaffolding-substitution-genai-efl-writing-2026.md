@@ -1,6 +1,6 @@
 ---
 title: "From Scaffolding to Substitution? Generative AI, Self-Regulation, and Learner Agency in EFL Academic Writing in Benin"
-created: "2026-10-05T10:00:00-04:00"
+created: "2026-10-05T09:50:49-04:00"
 updated: "2026-10-05T10:00:00-04:00"
 type: article
 sources: ['raw/papers/scaffolding-substitution-genai-efl-writing-2026.md']

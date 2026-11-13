@@ -1,6 +1,6 @@
 ---
 title: "Visible Reasoning: User-Facing Decision Transparency for Generative AI Systems"
-created: "2026-10-27T09:50:00-04:00"
+created: "2026-10-27T09:35:41-04:00"
 updated: "2026-10-27T09:50:00-04:00"
 type: article
 authors: ["Anbalagan, S. K.", "Nie, X.", "Kommalapati, A.", "Kanamarlapudi, V. K.", "Radhakrishnan, S.", "Zhao, X.", "Mohan, U."]

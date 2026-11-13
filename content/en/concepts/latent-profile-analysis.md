@@ -1,14 +1,14 @@
 ---
 title: "Latent Profile Analysis"
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 reviewed_by: [editor]
 ---
 
-> **Latent profile analysis (LPA)** — a person-centered method that sorts a sample into unobserved subgroups (profiles) when each case is described by several variables at once. It is the continuous-indicator member of the mixture-modeling family; its sibling **latent class analysis (LCA)** applies the same logic to categorical indicators. Both ask a different question from the [[quantitative-research|variable-centered]] models that dominate AI-in-education research: not "how much does X predict Y on average" but "how many different kinds of learner, [[teacher-role|teacher]], or manager hide inside that average." In this knowledge base the method shows that one AI tool lands very differently across subgroups — five ethical-awareness profiles among Ghanaian undergraduates, six readiness typologies among Ukrainian education managers, four [[generative-ai|generative-AI]]-acceptance profiles among Taiwanese pre-service teachers.
+> **Latent profile analysis (LPA)** — a person-centered method that sorts a sample into unobserved subgroups (profiles) when each case is described by several variables at once. It is the continuous-indicator member of the mixture-modeling family; its sibling **latent class analysis (LCA)** applies the same logic to categorical indicators. Both ask a different question from the [[quantitative-research|variable-centered]] models that dominate AI-in-education research. Rather than how much X predicts Y on average, they ask how many different kinds of learner, [[teacher-role|teacher]], or manager hide inside that average. The method shows that one AI tool lands very differently across subgroups: five ethical-awareness profiles among Ghanaian undergraduates, six readiness typologies among Ukrainian education managers, four [[generative-ai|generative-AI]]-acceptance profiles among Taiwanese pre-service teachers.
 
 ## Questions to Consider
 
@@ -31,30 +31,30 @@ LPA assumes the sample is drawn from a mixture of subgroups, each with its own m
 
 Ordinary clustering ([[machine-learning|k-means]] and hierarchical) pursues the same person-centered intent but partitions cases by geometric distance rather than estimating a probability model. Reach for LPA or LCA when the question concerns subgroups — whether "the learner" is a fiction at your sample's level of aggregation, and whether subgroups differ in shape as well as level. Do not reach for it when you need an average treatment effect: a five-profile solution inside a [[rct|randomized trial]] of an [[intelligent-tutoring|adaptive tutor]] predicted posttest differences (partial η² = .27) but found no condition × profile interaction (ps ≥ .198).
 
-## How the corpus uses it
+## How the research uses it
 
 Three uses recur.
 
 - **Establishing heterogeneity before designing for it.** Kremen and colleagues' survey of 395 Ukrainian education managers used person-centered LCA to show that "the manager" is a fiction: six typologies run from Competency-constrained (25.6 percent, willing but unskilled) to Barrier-free skeptics (highest readiness yet 74 percent AI distrust), and the authors read them as a mandate for differentiated training.
 
 - **Cross-system alignment as a stability check.** [[teachers-ai-belief-profiles-talis-2024-2026|Fang and Jin (2026)]] retained four belief profiles from 40,680 teachers across 49 education systems (Indifferent 6.13% to Measured Endorsement 56.29%), and changing the alignment reference left classification agreement at 99.62% — while utility ordered the profiles identically in all 49 systems and risk did not.
-- **Recovering subgroups an aggregate hides.** Acquah and colleagues retained five ethical-awareness profiles from Comprehensive Very High (26.1 percent) to Low Ethical Awareness (4.5 percent, beneficence 2.06), a spread running from just over a quarter of the sample to under a twentieth. Chen and colleagues found that Resistant Skeptics reported high perceived ease of use but very low behavioral intention — the corpus's clearest demonstration that the ease-of-use/intention paradox is invisible to a mean-level model.
+- **Recovering subgroups an aggregate hides.** Acquah and colleagues retained five ethical-awareness profiles from Comprehensive Very High (26.1 percent) to Low Ethical Awareness (4.5 percent, beneficence 2.06), a spread running from just over a quarter of the sample to under a twentieth. Chen and colleagues found that Resistant Skeptics reported high perceived ease of use but very low behavioral intention — the clearest demonstration that the ease-of-use/intention paradox is invisible to a mean-level model.
 - **Profiling calibration rather than level.** The teacher AI-literacy study applied LPA to the agreement between [[self-report-measures|self-report]] and objective measures, yielding six profiles: overestimation, underestimation, alignment, and a low/low group concentrated among teachers without prior [[ai-literacy|AI literacy]] experience. Here profiles describe a pattern across instruments, not a score band.
 
-Profiles then serve as an independent variable: discipline shaped membership among pre-service teachers (Cramér's V = 0.532, STEM students concentrated in Technology Pioneers), and membership predicted later [[self-efficacy]], burnout, and [[anxiety-and-stress|AI anxiety]] elsewhere in the corpus.
+Profiles then serve as an independent variable: discipline shaped membership among pre-service teachers (Cramér's V = 0.532, STEM students concentrated in Technology Pioneers), and membership predicted later [[self-efficacy]], burnout, and [[anxiety-and-stress|AI anxiety]] elsewhere in the literature.
 
 ## Choosing the number of profiles
 
-No single statistic selects the solution; the corpus treats retention as a judgment made from several criteria together.
+No single statistic selects the solution; retention is a judgment made from several criteria together.
 
 - **Information criteria (BIC, AIC).** Lower is usually better, but a monotonic decline signals a problem rather than a winner. In the Ukrainian manager study BIC fell monotonically across the two- to six-class range with no clear minimum, and the authors call their six-class solution exploratory on that evidence.
 - **Entropy.** A summary of classification certainty, closer to 1 meaning cleaner assignment. Chen and colleagues report 0.985 for four profiles; Acquah and colleagues report 0.816 for five profiles against 0.929 for four, and themselves suggest consolidating for a more stable grouping.
 - **[[explainable-ai|Interpretability]] and profile size.** The trust-in-AI profiling study kept three clusters although the Calinski–Harabasz index preferred two, because three were interpretable, and it notes that a silhouette coefficient of 0.288 signals weak or borderline separation. Chen and colleagues warn that their smallest profile (14.06 percent of 128 cases) may be unstable, and the Ghana study's smallest profile holds only 23 students, which its authors propose merging.
 - **Stability under resampling.** Bootstrap stability is the honest check on whether profiles would recur in a new sample: mean adjusted Rand index was 0.385 for the Ukrainian six-class solution but 0.989 across 100 random initializations in the trust-in-AI study — the same nominal design, very different evidential weight.
-- **Bootstrap likelihood ratio tests (BLRT)** and the Lo–Mendell–Rubin test are standard companions to BIC and entropy in the wider mixture-modeling literature, but the profile studies in this knowledge base do not report them. Where a page reports only BIC and entropy, treat the class count as provisional.
+- **Bootstrap likelihood ratio tests (BLRT)** and the Lo–Mendell–Rubin test are standard companions to BIC and entropy in the wider mixture-modeling literature, but the profile studies examined do not report them. Where a page reports only BIC and entropy, treat the class count as provisional.
 
 
-- **The likelihood-ratio check this corpus otherwise omits.** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] retained four profiles (entropy 0.824) from 379 business students and reported the Lo–Mendell–Rubin decision: significant at four (p = 0.035) and nonsignificant at five (p = 0.376).
+- **The likelihood-ratio check most profile studies omit.** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] retained four profiles (entropy 0.824) from 379 business students and reported the Lo–Mendell–Rubin decision: significant at four (p = 0.035) and nonsignificant at five (p = 0.376).
 - **Retention defended with the rival solution and a likelihood-ratio test.** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] report that a four-profile solution fit the 102 students slightly better but did not improve significantly and left a smallest class at 12.7 percent, so they retain three profiles (entropy .89) rather than the numerically better-fitting model. Reporting the losing solution and what disqualified it is what makes the retained class count a judgment readers can check, and the study's purpose-built 12-item AI-use measure — validated on a separate sample of 85 that the authors call preliminary — marks the other boundary of its evidence.
 
 Report the comparisons, not just the winner: a page that says "we retained five profiles" without the rival solution, the entropy values, and the smallest profile's size gives readers no way to judge the choice.
@@ -72,7 +72,7 @@ Four cautions, each stated in the source pages:
 
 ## Implications for AI in education
 
-1. **Measure heterogeneity before recommending an intervention.** Profiles in this corpus repeatedly place a quarter or more of a sample below the headline average; design for the profiles that exist rather than for the mean.
+1. **Measure heterogeneity before recommending an intervention.** Profiles repeatedly place a quarter or more of a sample below the headline average; design for the profiles that exist rather than for the mean.
 2. **Prefer person-centered methods when the deliverable is differentiation.** The pre-service teacher and manager studies both present that shift as their methodological contribution, because average predictors cannot reveal the configurations that justify differentiated support.
 3. **Report retention evidence in full.** Publish BIC/AIC comparisons, entropy, profile sizes, and a stability check, and say plainly when a class count is exploratory.
 4. **Treat profiles as diagnostics, not labels.** A profile is a research construct with an estimated boundary, so a tool that assigns individuals to named categories carries the caution of any [[educational-measurement|measurement]] instrument — and [[differential-effects-across-learner-groups|differential effects across learner groups]] warrant the scrutiny of any subgroup analysis.

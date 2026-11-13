@@ -1,6 +1,6 @@
 ---
 title: An Evidence-Grounded Framework for Evaluating AI-Generated Educational Feedback
-created: "2026-10-21T09:30:00-04:00"
+created: "2026-10-21T09:27:54-04:00"
 updated: "2026-10-21T09:30:00-04:00"
 type: article
 sources: ['raw/papers/evidence-grounded-framework-ai-generated-educational-feedback-2026.md']

@@ -1,7 +1,7 @@
 ---
 title: Social Norms of AI Use
 created: "2026-09-23T09:54:12-04:00"
-updated: "2026-11-12T21:45:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -21,7 +21,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Social norms of AI use** — the informal, locally enforced rules that decide when learners and instructors may use generative AI, how openly they can admit to it, and what counts as [[academic-integrity|cheating]] in practice rather than in policy. The corpus is thin on norms as a topic and thick on the mechanisms that produce them. Learners cannot reliably infer each other's AI use: the median correlation between a perceiver's estimates and their own [[self-report-measures|self-reported]] usage profile was r = .73 at both waves, and rank accuracy for the *kind* of AI use was r = .34 at the second wave. [[shame-guilt-ai-regulation-computing-education|Shame and guilt regulate visibility rather than use]], producing hiding and selective disclosure instead of behavior change. Disciplinary norms diverge sharply: AI-integrated assignments appeared in 27% of business syllabi and 5% of humanities syllabi across 31,000 courses. And the formal [[ethics]] literature routes the fewest and least actionable norms to end users, meaning the people subject to classroom norms are largely absent from the documents that discuss them.
+> **Social norms of AI use** — the informal, locally enforced rules that decide when learners and instructors may use generative AI, how openly they can admit to it, and what counts as [[academic-integrity|cheating]] in practice rather than in policy. The research is thin on norms as a topic and thick on the mechanisms that produce them. Learners cannot reliably infer each other's AI use: the median correlation between a perceiver's estimates and their own [[self-report-measures|self-reported]] usage profile was r = .73 at both waves, and rank accuracy for the *kind* of AI use was r = .34 at the second wave. [[shame-guilt-ai-regulation-computing-education|Shame and guilt regulate visibility rather than use]], producing hiding and selective disclosure instead of behavior change. Disciplinary norms diverge sharply: AI-integrated assignments appeared in 27% of business syllabi and 5% of humanities syllabi across 31,000 courses. And the formal [[ethics]] literature routes the fewest and least actionable norms to end users, meaning the people subject to classroom norms are largely absent from the documents that discuss them.
 
 ## Questions to Consider
 
@@ -37,7 +37,7 @@ ai_assist:
 
 Formal [[regulation]] of [[ai-education|AI in education]] arrives as policy: acceptable-use statements, syllabi clauses, [[ai-detection|detection]] procedures, [[remote-proctoring|proctoring]] systems, honor codes. Everything students actually experience, though, sits underneath that layer. A classmate who never mentions using ChatGPT, an instructor who says "I don't care how you write it" and then bans it in the syllabus, a study group that has quietly settled on what is fair, a department where everyone assumes the grading curve has already shifted. These are norms: shared expectations about acceptable behavior, enforced by approval, disapproval, and the risk of being seen.
 
-This page collects what the evidence base says about that layer. It is worth separating carefully, because "hidden [[curriculum-design|curriculum]]" is often used loosely to mean anything unofficial. Here the subject is narrower: the operative rules about AI use, how they form, how they are enforced, and how weak the connection is between them and the written rules. The corpus has almost no study that measures norms directly, which is itself a finding. What it has is repeated evidence about the mechanisms: inference, disclosure, emotion, and the disciplinary variation that shapes what any local norm can become.
+The evidence base has a great deal to say about that layer. It is worth separating carefully, because "hidden [[curriculum-design|curriculum]]" is often used loosely to mean anything unofficial. Here the subject is narrower: the operative rules about AI use, how they form, how they are enforced, and how weak the connection is between them and the written rules. Almost no study measures norms directly, which is itself a finding. What it has is repeated evidence about the mechanisms: inference, disclosure, emotion, and the disciplinary variation that shapes what any local norm can become.
 
 ## What students believe about each other
 

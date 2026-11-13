@@ -1,7 +1,7 @@
 ---
 title: Biology Education
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -22,7 +22,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Biology education research on AI clusters around a tension: AI has revolutionized biology *research* (AlphaFold, 'omics, computational biology), yet its adoption in biology *education* has been cautious amid concerns about generative-AI cheating, misinformation, and erosion of critical thinking. The knowledge base's biology articles collectively examine how AI tools function as laboratory teaching assistants, how AI literacy can be embedded in biology courses, how critical thinking must be protected in the AI era, and how specialized AI tools support fieldwork and species identification.
+The biology-education literature on AI clusters around a tension. Computational methods have transformed biological discovery (AlphaFold, 'omics, computational biology), while classroom practice has moved cautiously amid worries about generative-AI cheating, misinformation, and erosion of critical thinking. The biology literature collectively examines how AI tools function as laboratory teaching assistants, how AI literacy can be embedded in biology courses, how critical thinking must be protected in the AI era, and how specialized AI tools support fieldwork and species identification.
 
 ### Key research themes
 
@@ -30,7 +30,7 @@ Biology education research on AI clusters around a tension: AI has revolutionize
 
 **AI literacy embedded in biology curricula.** **[[zha-ai-literacy-biology-case-study|Zha et al.]]** integrated machine-learning and neural-network concepts into a high-school honors biology course, finding significant gains in AI knowledge and that biology context supported AI learning — evidence for embedding AI literacy in [[stem-education]] rather than relegating it to extracurriculars. **[[chatgpt-math-biology-challenge-based-learning-2025|Elizondo-García et al.]]** used ChatGPT within **challenge-based learning** in biology and math courses, finding students valued immediacy but worried about veracity, [[teacher-role|teacher]] replacement, and skill erosion — calling for updated academic-integrity codes and AI-use ethics.
 
-**Critical thinking in the AI era.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]]** argue that as AI shapes biological research, **critical thinking** — skepticism, contextual understanding, and ethical reasoning — must be deliberately cultivated, with [[human-in-the-loop-ai|human oversight]] remaining indispensable to validate AI outputs and prevent [[equity-in-ai-education|bias]]. This connects to the knowledge base-wide [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns.
+**Critical thinking in the AI era.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]]** make the case that biology teaching must treat **critical thinking** — skepticism, contextual understanding, ethical reasoning — as an explicit learning objective, because [[human-in-the-loop-ai|human oversight]] remains indispensable for validating AI outputs and guarding against [[equity-in-ai-education|bias]]. This connects to the broader [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns.
 
 **Socratic AI argumentation practice in teacher preparation.** A quasi-experiment with 124 prospective biology teachers found a ChatGPT-4 [[socratic-method|Socratic tutor]] on socio-scientific issues raised argumentation quality over offline peer discussion (adjusted 3.91 vs. 3.21, F(1,121) = 14.23, p < .001), with the largest gains in rebuttal and counter-evidence skills ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 

@@ -1,6 +1,6 @@
 ---
 title: "Unchecked or falsely accused? Evaluating AI-generated text detectors on Kazakh"
-created: "2026-10-14T09:30:00-04:00"
+created: "2026-10-14T09:27:34-04:00"
 updated: "2026-10-14T09:30:00-04:00"
 type: article
 sources: ['raw/papers/kazakh-ai-text-detectors-2026.md']

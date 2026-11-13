@@ -1,6 +1,6 @@
 ---
 title: "When AI performs, what remains? An integrative review of generative AI and cognitive capital in individuals and organizations"
-created: "2026-10-30T09:48:00-04:00"
+created: "2026-10-30T09:23:42-04:00"
 updated: "2026-10-30T09:48:00-04:00"
 type: article
 published: "2026-10-28"

@@ -1,7 +1,7 @@
 ---
 title: Culturally Relevant Pedagogy
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-12T21:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -41,7 +41,7 @@ Beyond lesson generation, CRP connects to a deeper critique: AI training data an
 
 ## Culturally Grounded Data and Evaluation
 
-A body of knowledge base-sourced work addresses the *content* and *evaluation* gaps behind CRP.
+A body of work addresses the *content* and *evaluation* gaps behind CRP.
 
 - **Non-Western training data:** IKS-Instruct provides a **24,795-example [[multilingual-learning|multilingual]] instruction dataset** for [[teacher-role|teaching]] LLMs Indian Knowledge Systems across seven [[language-learning|languages]] and 41 [[pedagogy|pedagogical]] techniques. A compact domain-tuned 7B model reached a median judge score of 6.39 (vs. 6.54 for a far larger general-purpose model) — while the base model scored **near zero** on IKS-specific dimensions, showing how much culturally grounded data improves relevance.
 - **[[global-south|Global South]] [[benchmark|benchmarks]]:** The **NSMQ Riddles** benchmark draws 1.8K scientific/mathematical riddles from 11 years of Ghana's National Science and Maths Quiz — one of the first Global South educational benchmarks — and found state-of-the-art LLMs **underperform the best student contestants**, exposing geographic bias in how models are evaluated.
@@ -51,7 +51,7 @@ A body of knowledge base-sourced work addresses the *content* and *evaluation* g
 
 ## Practical Guidance
 
-Grounded in the knowledge base's own articles, educators and designers can apply CRP to AI:
+Grounded in the research, educators and designers can apply CRP to AI:
 
 - **Treat AI as a draft generator, not an authority.** The Trust et al. civics findings show teachers must inject [[critical-thinking|higher-order thinking]] and multicultural perspectives the AI omits; [[human-in-the-loop-ai|human judgment]] remains essential for cultural authenticity and community alignment.
 - **Layer demographic and cultural context into prompts and tools.** CulturAIEd and [[connected-ai-lesson-planning-vietnam|ConnectED]] (a Vietnamese, curriculum-aligned lesson-planning system) show that structured, locally grounded prompt templates plus teacher validation gates improve cultural fit over generic generation.

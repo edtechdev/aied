@@ -1,6 +1,6 @@
 ---
 title: "AI in institutional workflows: Learning from higher education to unlock new affordances for education systems and institutions"
-created: "2026-11-12T13:05:00-05:00"
+created: "2026-11-12T07:36:15-05:00"
 updated: "2026-11-12T13:05:00-05:00"
 type: article
 evidence_context: educational

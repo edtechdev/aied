@@ -1,6 +1,6 @@
 ---
 title: "Analysing Mathematical Communication between Pre-Service Mathematics Teachers and GenAI: A Case Study in Abstract Algebra Course"
-created: "2026-10-22T09:29:00-04:00"
+created: "2026-10-22T09:23:20-04:00"
 updated: "2026-10-22T09:29:00-04:00"
 type: article
 foundations: [ai-literacy, teacher-ai-competency]

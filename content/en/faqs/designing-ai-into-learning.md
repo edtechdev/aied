@@ -1,7 +1,7 @@
 ---
 title: "How Should AI Be Designed Into the Learning Experience?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-31T14:05:47-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 audience: [instructional designers, instructors]
@@ -42,7 +42,7 @@ Start from the learning goal and from the activity that produces it. The same mo
 
 ## Decide what the learner does without the tool
 
-The knowledge base's [[pedagogy|Pedagogies and Teaching Strategies]] concept supplies the test: does the configuration preserve the activity that produces the intended learning? Answer that on paper, before anyone picks a feature.
+The [[pedagogy|Pedagogies and Teaching Strategies]] concept supplies the test: does the configuration preserve the activity that produces the intended learning? Answer that on paper, before anyone picks a feature.
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]] states the general rule: technology should augment rather than displace the human capabilities that education intends to develop. Written as a test for a module, that means naming the capability, naming the activity that builds it, and asking whether the AI sits inside that activity or beside it.
 

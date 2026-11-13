@@ -1,6 +1,6 @@
 ---
 title: "Auditable Automated Essay Scoring and Formative Feedback: A Rubric-Grounded Pipeline for Secondary and Higher Education"
-created: "2026-11-10T20:50:00-05:00"
+created: "2026-11-10T19:10:44-05:00"
 updated: "2026-11-10T20:50:00-05:00"
 type: article
 sources: ['raw/papers/xin-auditable-automated-essay-scoring-2026.md']

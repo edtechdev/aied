@@ -1,6 +1,6 @@
 ---
 title: "AILitHub: Building AI Literacy Infrastructure to Situate Frameworks into Practice"
-created: "2026-10-04T07:50:00-04:00"
+created: "2026-10-04T07:47:11-04:00"
 updated: "2026-10-16T15:33:10-04:00"
 type: article
 sources: ['raw/papers/ailithub-ai-literacy-case-infrastructure-2026.md']

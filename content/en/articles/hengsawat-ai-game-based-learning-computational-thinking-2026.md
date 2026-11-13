@@ -1,7 +1,7 @@
 ---
 title: "Design and preliminary validation of an AI enhanced game based learning environment for computational thinking in upper secondary education"
 published: "2026-10-30"
-created: "2026-11-02T09:28:00-05:00"
+created: "2026-11-02T09:12:23-05:00"
 updated: "2026-11-02T10:15:00-05:00"
 type: article
 sources: ['raw/papers/hengsawat-ai-game-based-learning-computational-thinking-2026.md']

@@ -1,6 +1,6 @@
 ---
 title: "Supporting or Replacing Students' Reasoning? Cognitive Offloading in AI-Assisted Proof Learning"
-created: "2026-10-23T09:45:00-04:00"
+created: "2026-10-23T09:20:08-04:00"
 updated: "2026-10-23T09:45:00-04:00"
 type: article
 foundations: [cognitive-offloading, learning-design]

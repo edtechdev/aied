@@ -1,6 +1,6 @@
 ---
 title: "How Does Turning to AI for Companionship Predict Loneliness and Vice Versa?"
-created: "2026-11-11T15:58:00-05:00"
+created: "2026-11-11T15:51:59-05:00"
 updated: "2026-11-11T15:58:00-05:00"
 type: article
 published: "2026"

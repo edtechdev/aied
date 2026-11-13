@@ -1,6 +1,6 @@
 ---
 title: "The conflicted student and the internal battle over generative AI use"
-created: "2026-10-30T10:04:00-04:00"
+created: "2026-10-30T09:23:42-04:00"
 updated: "2026-10-30T10:04:00-04:00"
 type: article
 published: "2026-10-29"

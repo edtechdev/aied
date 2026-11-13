@@ -1,6 +1,6 @@
 ---
 title: "An academic chatbot with hybrid retrieval and local large language models"
-created: "2026-11-12T11:55:00-05:00"
+created: "2026-11-12T07:36:15-05:00"
 updated: "2026-11-12T11:55:00-05:00"
 type: article
 evidence_context: educational

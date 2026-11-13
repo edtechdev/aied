@@ -1,6 +1,6 @@
 ---
 title: "Reshaping higher education designs and futures: Postdigital co-design with generative artificial intelligence"
-created: "2026-11-02T04:45:00-05:00"
+created: "2026-11-02T03:55:38-05:00"
 updated: "2026-11-02T04:45:00-05:00"
 type: article
 page_kind: [framework]

@@ -1,6 +1,6 @@
 ---
 title: "Exploring the Potential of AI in Nurturing Learner Empathy, Pro-Social Values and Environmental Stewardship"
-created: "2026-11-10T20:50:00-05:00"
+created: "2026-11-10T20:42:58-05:00"
 updated: "2026-11-10T20:50:00-05:00"
 type: article
 pedagogy: [experiential-learning, inquiry-based-learning]

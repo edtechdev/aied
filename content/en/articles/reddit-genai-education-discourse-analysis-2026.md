@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit"
-created: "2026-10-07T07:40:00-04:00"
+created: "2026-10-07T07:16:24-04:00"
 updated: "2026-10-07T07:40:00-04:00"
 type: article
 foundations: [academic-integrity, teacher-role, reducing-ai-misuse]

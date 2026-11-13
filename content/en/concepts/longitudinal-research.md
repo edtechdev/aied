@@ -1,7 +1,7 @@
 ---
 title: Longitudinal Research
 created: "2026-11-12T14:28:00-05:00"
-updated: "2026-11-13T02:10:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -15,7 +15,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Longitudinal research** — designs that measure the same units repeatedly over time, so that change *within* a person, class or institution can be separated from differences *between* them. In [[ai-education|AI in education]], longitudinal work is what turns claims about adoption, skill growth and engagement from snapshots into trajectories: four semesters of teacher-education surveys showing [[generative-ai|GenAI]] use rising, a semester of self-regulation data showing [[metacognition|metacognitive]] knowledge falling under assessment pressure, five waves of engagement data whose slopes move together. Its value is not that it measures more, but that it can ask a question a single measurement cannot answer — what is changing, for whom, and at what rate.
+> **Longitudinal research** — designs that measure the same units repeatedly over time, so that change *within* a person, class or institution can be separated from differences *between* them. In [[ai-education|AI in education]], longitudinal work is what turns claims about adoption, skill growth and engagement from snapshots into trajectories: four semesters of teacher-education surveys showing [[generative-ai|GenAI]] use rising, a semester of self-regulation data showing [[metacognition|metacognitive]] knowledge falling under assessment pressure, five waves of engagement data whose slopes move together. Its value is not that it measures more, but that it can ask a question a single measurement cannot answer: what is changing, for whom, and at what rate.
 
 ## Questions to Consider
 
@@ -28,9 +28,9 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Longitudinal research is a family of designs rather than one method: repeated surveys of the same cohort, panel studies, growth-curve models, cohort comparisons, experience sampling, and analyses of log data that accumulate over a term. What unites them is the unit of analysis — the same learner, class or institution observed more than once — and the inferential gain that follows from it.
+Longitudinal research is a family of designs rather than one method: repeated surveys of the same cohort, panel studies, growth-curve models, cohort comparisons, experience sampling, and analyses of log data that accumulate over a term. What unites them is the unit of analysis (the same learner, class or institution observed more than once) and the inferential gain that follows from it.
 
-That gain is often overstated. The corpus contains a hundred-odd articles that describe themselves as longitudinal, and they range from four-semester trend analyses to a single pre/post comparison. The label has become a quality signal, which makes it worth being precise about what each design supports. A repeated survey can show that a distribution moved. A panel model can show that a person moved relative to their own baseline. A growth model can show that the rate of movement differs across people and that two processes move together. Only some designs with an outcome measure at both ends can begin to address whether the tool caused the change.
+That gain is often overstated. A hundred-odd articles describe themselves as longitudinal, and they range from four-semester trend analyses to a single pre/post comparison. The label has become a quality signal, which makes it worth being precise about what each design supports. A repeated survey can show that a distribution moved. A panel model can show that a person moved relative to their own baseline. A growth model can show that the rate of movement differs across people and that two processes move together. Only some designs with an outcome measure at both ends can begin to address whether the tool caused the change.
 
 The stronger studies establish less than their labels suggest, and the design families differ in what each can support.
 
@@ -38,7 +38,7 @@ The stronger studies establish less than their labels suggest, and the design fa
 
 The distinction that does the most work is between a stable trait and an occasion-specific state. Xu (2026) measured [[feedback-literacy|AI feedback literacy]] and [[student-engagement|agentic engagement]] in 480 Chinese undergraduates three times at six-week intervals, and used a random-intercept cross-lagged panel model to separate the two levels. The stable trait correlation was r = 0.315 (p < 0.001); the within-person cross-lagged paths told a different story about which construct moved first. Without that separation, a cross-sectional correlation between the two would have been reported as evidence of a relationship, and it would have been ambiguous: people who are generally more feedback-literate may also be generally more engaged, without either changing the other.
 
-This is the design's core contribution. Most questions in this corpus — does AI feedback build engagement, does reliance erode self-regulation, does use predict well-being — are questions about change, and a single measurement cannot answer a question about change no matter how large the sample.
+This is the design's core contribution. Most questions in this literature (does AI feedback build engagement, does reliance erode self-regulation, does use predict well-being) are questions about change, and a single measurement cannot answer a question about change no matter how large the sample.
 
 ## Trajectories and what covaries with them
 
@@ -48,7 +48,7 @@ The finding is correlational about the slopes, not causal about the tools, and t
 
 ## Adoption and attitude trends
 
-A third family follows a population rather than a growth process. Parker, Loper, Carter, Hayes and Karakas analyzed four semesters of survey data from more than 300 students in a Midwestern US [[teacher-education]] program, tracing GenAI use and ethical perceptions after ChatGPT's launch. Use grew substantially — assessment preparation from 57% to 83%, studying from 44% to 76% — while ethical stances became more uncertain rather than settling, and perceptions differed by subgroup.
+A third family follows a population rather than a growth process. Parker, Loper, Carter, Hayes and Karakas analyzed four semesters of survey data from more than 300 students in a Midwestern US [[teacher-education]] program, tracing GenAI use and ethical perceptions after ChatGPT's launch. Use grew substantially: assessment preparation from 57% to 83%, studying from 44% to 76%, while ethical stances became more uncertain rather than settling, and perceptions differed by subgroup.
 
 This is a repeated cross-sectional design: the same program, not necessarily the same students. It establishes a trend in a population, which is exactly what a policy question needs, and it cannot establish individual change. The distinction matters when the trend is read as development: a rise in reported use across semesters may reflect new cohorts entering with different norms as much as the same students changing.
 
@@ -93,15 +93,15 @@ Researchers can keep two claims apart in their own writing. Temporal ordering su
 
 ## What longitudinal designs cannot do
 
-They do not establish causation on their own. Temporal ordering is necessary but not sufficient: an unmeasured variable that changes on the same schedule — a new assessment regime, a curriculum reform, a cohort effect — can produce the same pattern. They are expensive in participant time, which caps sample sizes and often forces self-report. And a term is short: developmental questions, in the sense [[developmental-psychology]] uses the term, need years, and almost nothing in this corpus spans them.
+They do not establish causation on their own. Temporal ordering is necessary but not sufficient: an unmeasured variable that changes on the same schedule (a new assessment regime, a curriculum reform, a cohort effect) can produce the same pattern. They are expensive in participant time, which caps sample sizes and often forces self-report. And a term is short: developmental questions, in the sense [[developmental-psychology]] uses the term, need years, and almost nothing in this literature spans them.
 
-## How it appears in the knowledge base
+## How it appears in the research
 
 The stronger examples cluster in higher education, where a semester provides a natural frame: Xu's three-wave panel, Zhang and Tang's five-wave growth model, Song's semester of self-regulation data, Melanou's nine-week quasi-experiment. Teacher education contributes the trend study. School-level longitudinal work is thinner, and the middle-school LMS paper that carries "longitudinal" in its slug is a design proposal rather than a longitudinal study — a reminder that the label in a title is not the design.
 
 ## Relationship to other methods
 
-Longitudinal designs sit inside [[quantitative-research|quantitative research]] and share its measurement problems. They are often paired with [[mixed-methods-research|mixed methods]] when the question is why a trajectory bent. They differ from [[rct|randomized experiments]] in that they observe naturally occurring variation over time rather than assign it, and from [[design-based-research|design-based research]] in that they do not iterate on an intervention — DBR explains how to make something work in context, longitudinal work explains what changed and when. [[learning-analytics|Learning analytics]] supplies the trace data that makes fine-grained longitudinal analysis possible without repeated surveys.
+Longitudinal designs sit inside [[quantitative-research|quantitative research]] and share its measurement problems. They are often paired with [[mixed-methods-research|mixed methods]] when the question is why a trajectory bent. They differ from [[rct|randomized experiments]] in that they observe naturally occurring variation over time rather than assign it, and from [[design-based-research|design-based research]] in that they do not iterate on an intervention. DBR explains how to make something work in context, while longitudinal work explains what changed and when. [[learning-analytics|Learning analytics]] supplies the trace data that makes fine-grained longitudinal analysis possible without repeated surveys.
 
 ## Common Misconceptions
 

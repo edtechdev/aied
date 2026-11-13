@@ -1,6 +1,6 @@
 ---
 title: "AI-Powered Problem- and Case-based Learning in Medical and Dental Education: A Systematic Review and Meta-analysis"
-created: "2026-11-07T12:30:00-05:00"
+created: "2026-11-07T09:26:35-05:00"
 updated: "2026-11-07T13:25:00-05:00"
 type: article
 published: "2025"

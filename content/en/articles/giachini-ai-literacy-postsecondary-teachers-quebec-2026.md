@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence Literacy and Professional Practice of Post-Secondary Teachers in Quebec"
-created: "2026-11-10T18:30:00-05:00"
+created: "2026-11-10T18:19:20-05:00"
 updated: "2026-11-10T18:30:00-05:00"
 type: article
 page_kind: [synthesis]

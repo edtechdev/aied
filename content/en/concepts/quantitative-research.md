@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-11-12T14:45:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -16,7 +16,7 @@ reviewed_by: [editor]
 
 - 'Students who use an [[intelligent-tutoring|AI tutor]] score higher' — before you read, is this a claim about causation or correlation, and what single piece of evidence would convert one into the other?
 - A cross-sectional survey can test a complex mediational model yet never establish causation. Why might two variables be correlated in a survey even when neither causes the other? Can you think of a way to be genuinely misled by such a correlation in education?
-- Quantitative instruments are only as good as what they measure — and the page notes instruments can measure the wrong construct. When you fill out a self-report survey about 'confidence' or 'engagement,' what could it actually be capturing instead, and how would you find out?
+- Quantitative instruments are only as good as what they measure, and instruments can measure the wrong construct. When you fill out a self-report survey about 'confidence' or 'engagement,' what could it actually be capturing instead, and how would you find out?
 - An RCT randomly assigns learners to conditions to estimate a causal effect. What makes random assignment powerful, and what practical and ethical problems arise when the 'treatment' is a possibly-helpful AI tool that some students are being denied?
 - Longitudinal designs track the same learners over time — essential for distinguishing AI-inflated performance from durable learning. Why would a single snapshot of high scores fail to reveal whether learning actually happened?
 - Quantitative work provides breadth and causal power; qualitative work provides depth and meaning. Before reading the pairing, where do you think numbers alone have most likely misled you about a learning claim, and what method would you add to check it?
@@ -29,10 +29,10 @@ Quantitative research spans descriptive designs (measuring prevalence and patter
 
 ### Longitudinal and panel designs
 
-Repeated measurement of the same learners turns a correlation into a trajectory: panel models separate a stable trait from occasion-specific change, and growth models estimate the shape and rate of change across waves. The design families, the threats that bite in AI studies (attrition, tool drift, assisted performance) and the corpus's stronger examples are treated on [[longitudinal-research|longitudinal research]].
+Repeated measurement of the same learners turns a correlation into a trajectory: panel models separate a stable trait from occasion-specific change, and growth models estimate the shape and rate of change across waves. The design families, the threats that bite in AI studies (attrition, tool drift, assisted performance) and the stronger examples are treated on [[longitudinal-research|longitudinal research]].
 
 ### Survey and correlational research
-Cross-sectional surveys measure self-reported attitudes, perceptions, motivation, [[self-efficacy]], and technology acceptance, often modeled with regression or structural equation modeling (SEM/PLS-SEM) to test hypothesized relationships and mediators. These dominate the knowledge base's corpus, particularly for acceptance, motivation, and psychological-mechanism questions. [[acceptance-ai-english-tools-2026|Acceptance of AI-assisted English tools]] builds on the [[technology-acceptance-model|TAM]] with SEM; [[tian-genai-learning-adoption-pathways-2026|GenAI adoption pathways]] uses PLS-SEM, fsQCA, and importance-performance mapping; [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy]] uses factor-validated surveys grounded in [[self-determination-theory]].
+Cross-sectional surveys measure self-reported attitudes, perceptions, motivation, [[self-efficacy]], and technology acceptance, often modeled with regression or structural equation modeling (SEM/PLS-SEM) to test hypothesized relationships and mediators. These dominate the literature, particularly for acceptance, motivation, and psychological-mechanism questions. [[acceptance-ai-english-tools-2026|Acceptance of AI-assisted English tools]] builds on the [[technology-acceptance-model|TAM]] with SEM; [[tian-genai-learning-adoption-pathways-2026|GenAI adoption pathways]] uses PLS-SEM, fsQCA, and importance-performance mapping; [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy]] uses factor-validated surveys grounded in [[self-determination-theory]].
 
 - **Strengths:** large samples; broad, low-cost coverage; tests complex mediational models; feasible for attitudes that are hard to observe.
 - **Limitations:** cross-sectional data cannot establish causation; self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation. See [[self-report-measures]] for the instrument-side treatment of these limits.
@@ -56,11 +56,11 @@ Longitudinal designs track the same learners over time, capturing change, growth
 Between-dataset comparisons need a fixed working point: a structural check of synthetic educational data found that analyzing each dataset at its own threshold reversed a contrast that held at a shared point, and that its surrogate comparison needed only the synthetic data and permutations of itself - a permutation-based null rather than an absolute threshold ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 
 ### Computational and psychometric quantification
-Quantitative methods also include the direct measurement of constructs via instruments — the domain of [[educational-measurement]] and [[item-response-theory]]. The knowledge base's [[jin-glat-genai-literacy-assessment|GLAT]] is a 20-item quantitative instrument validated with IRT; [[educational-measurement|measurement instruments]] across [[ai-literacy|AI literacy]], acceptance, and self-efficacy provide the validated scales on which survey and experimental research depend.
+Quantitative methods also include the direct measurement of constructs via instruments — the domain of [[educational-measurement]] and [[item-response-theory]]. The [[jin-glat-genai-literacy-assessment|GLAT]] is a 20-item quantitative instrument validated with IRT; [[educational-measurement|measurement instruments]] across [[ai-literacy|AI literacy]], acceptance, and self-efficacy provide the validated scales on which survey and experimental research depend.
 
 Bibliometric analysis is a further quantitative family: [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] map 1,403 [[medical-education]] publications through country, institution and keyword co-occurrence networks, reading a literature's shape rather than appraising its studies — which is what makes their conclusion, that [[governance]] scholarship has not kept pace with capability testing, a claim about the field and not about learning.
 
-## How quantitative research appears in the knowledge base
+## How quantitative research appears in AI in education
 
 - **Efficacy and causal claims.** RCTs and quasi-experiments test whether AI tools improve learning ([[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]]).
 
@@ -68,7 +68,7 @@ Bibliometric analysis is a further quantitative family: [[sriram-ethical-ai-medi
 - **Mechanism modeling.** SEM/PLS-SEM tests mediators and moderators of AI adoption and learning ([[tian-genai-learning-adoption-pathways-2026]], [[acceptance-ai-english-tools-2026]], [[teacher-education-ai-literacy-sdt-2026]]).
 
 - **Panel models that separate within- from between-person effects.** [[genai-reliance-human-agency-collaborative-learning-2026|Wu and Lu (2026)]] estimate a random-intercept cross-lagged panel model over three waves of collaborative-writing data, which separates stable differences between students from within-person temporal order — the distinction that licenses reading heightened reliance as preceding a fall in perceived agency rather than merely attending it.
-- **Measurement and scale development.** The knowledge base documents quantitative instrument development and validation ([[jin-glat-genai-literacy-assessment|GLAT]], [[educational-measurement]]).
+- **Measurement and scale development.** Quantitative instrument development and validation are well documented ([[jin-glat-genai-literacy-assessment|GLAT]], [[educational-measurement]]).
 
 - **Performance versus durable learning.** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] randomizes 120 students to AI-assisted or traditional study and measures retention with a surprise 20-question test 45 days after the intervention, so the outcome is what survived the delay rather than what appeared at the end of the session.
 

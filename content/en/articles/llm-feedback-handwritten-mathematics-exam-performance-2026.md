@@ -1,6 +1,6 @@
 ---
 title: "Evaluating LLM-Generated Feedback on Handwritten Mathematics: Feedback Quality and Subsequent Exam Performance"
-created: "2026-10-21T09:30:00-04:00"
+created: "2026-10-21T09:27:54-04:00"
 updated: "2026-10-21T09:30:00-04:00"
 type: article
 sources: ['raw/papers/llm-feedback-handwritten-mathematics-exam-performance-2026.md']

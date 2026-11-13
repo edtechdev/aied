@@ -1,6 +1,6 @@
 ---
 title: "Natural Language Processing for Aligning Readings with Learning Objectives and Assessing Topic Balance in Dental Education"
-created: "2026-10-14T09:30:00-04:00"
+created: "2026-10-14T09:27:34-04:00"
 updated: "2026-10-14T09:30:00-04:00"
 type: article
 sources: ['raw/papers/nlp-reading-lists-dental-education-2026.md']

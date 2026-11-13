@@ -1,7 +1,7 @@
 ---
 title: RCT
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -18,7 +18,7 @@ reviewed_by: [editor]
 
 - If a school tells you 'students who used the AI tool scored higher,' why might that still fail to prove the tool caused the gain — even if the difference is large?
 - Randomization balances known *and unknown* confounders across groups. Before you read, what does random assignment accomplish that simply comparing two intact classrooms cannot, no matter how well-matched they look?
-- The page calls the RCT the gold standard but lists real costs: artificial settings, fast-changing AI that dates trials, underpowered small samples, and [[ethics|ethical]] constraints on withholding helpful tools. Which of these trade-offs do you think is most often ignored in education research headlines?
+- The RCT is the gold standard, but it carries real costs: artificial settings, fast-changing AI that dates trials, underpowered small samples, and [[ethics|ethical]] constraints on withholding helpful tools. Which of these trade-offs do you think is most often ignored in education research headlines?
 - An RCT with 1,174 participants found [[generative-ai|GenAI]] closed about three-quarters of an education-based productivity gap. But a well-run RCT can still be conducted on a narrow task in a contrived setting. What should you check about the *outcome measure* before trusting the causal claim?
 - Consider the ethics problem directly: if you had genuine reason to believe an [[intelligent-tutoring|AI tutor]] helps students learn, is it defensible to randomly deny it to half a classroom for a semester? How would you design an ethically sound study that still isolates the cause?
 

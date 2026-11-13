@@ -1,6 +1,6 @@
 ---
 title: "Shaping early childhood in the age of AI: holistic competencies, pedagogical practices, and ecological support"
-created: "2026-10-23T09:45:00-04:00"
+created: "2026-10-23T09:21:12-04:00"
 updated: "2026-11-12T19:20:00-05:00"
 type: article
 pedagogy: [scaffolding, social-emotional-learning, creativity, collaborative-learning]

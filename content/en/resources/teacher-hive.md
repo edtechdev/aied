@@ -1,7 +1,7 @@
 ---
 title: "Teacher Hive"
 created: "2026-11-10T19:47:00-05:00"
-updated: "2026-11-10T19:52:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: resource
 summary: "Tony Vincent's free-to-use hosting platform where teachers publish AI-generated classroom web apps, share them by link or QR code, and browse hundreds of apps made by other teachers."
 url: https://teacherhive.app/
@@ -27,7 +27,7 @@ reviewed_by: [editor]
 
 ## What you can do with it
 
-**Browse** published apps by collection — brain breaks, ELA, math, science, social studies, teacher tools — then **Publish** an app by pasting HTML, adding a name, description, icon and AI attribution. Each app gets an info page with a Launch button and QR display, and opens without branding or a student login. An optional **Superpowers** layer adds saved responses, AI calls, email and file storage, metered by plan. For a single app that does not need a gallery, two free alternatives work by drag-and-drop: [Cloudflare Drop](https://www.cloudflare.com/drop/) publishes a folder, zip or single HTML file to a workers.dev URL without an account, provided the deployment is claimed within 60 minutes, and [Netlify Drop](https://app.netlify.com/drop) publishes the same inputs to a public link on its free plan.
+**Browse** published apps by collection (brain breaks, ELA, math, science, social studies, teacher tools), then **Publish** an app by pasting HTML, adding a name, description, icon and AI attribution. Each app gets an info page with a Launch button and QR display, and opens without branding or a student login. An optional **Superpowers** layer adds saved responses, AI calls, email and file storage, metered by plan. For a single app that does not need a gallery, two free alternatives work by drag-and-drop: [Cloudflare Drop](https://www.cloudflare.com/drop/) publishes a folder, zip or single HTML file to a workers.dev URL without an account, provided the deployment is claimed within 60 minutes, and [Netlify Drop](https://app.netlify.com/drop) publishes the same inputs to a public link on its free plan.
 
 ## Who it is for
 

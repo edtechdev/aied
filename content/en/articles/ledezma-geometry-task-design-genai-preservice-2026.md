@@ -1,6 +1,6 @@
 ---
 title: "A Didactic Analysis of the Design of Geometry Tasks Using Generative Artificial Intelligence by Prospective Primary School Teachers"
-created: "2026-10-29T10:34:00-04:00"
+created: "2026-10-29T09:15:13-04:00"
 updated: "2026-10-29T10:34:00-04:00"
 type: article
 authors: ["Ledezma, C.", "Valderrama, N.", "Díez-Palomar, J."]

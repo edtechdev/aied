@@ -1,7 +1,7 @@
 ---
 title: "Design Education"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-11-04T15:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -14,7 +14,7 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **Design Education** — the professional formation of designers in studio-based disciplines: product, service, interaction, interior and architectural design, taught through iterative project work in which the assessed object is the process behind an artifact as much as the artifact itself. Its distinguishing features are the studio and the critique as the site of learning, visible process evidence (sketches, intermediate models, iterations) as the primary indicator of learning, and the fact that [[generative-ai]] now makes the polished output students are graded on cheap to produce. That makes design education a test case for [[creativity]], [[design-thinking]], [[assessment-validity]] and [[professional-training]].
+> **Design Education** — the professional formation of designers in studio-based disciplines: product, service, interaction, interior and architectural design, taught through iterative project work in which the assessed object is the process behind an artifact as much as the artifact itself. Its distinguishing features are the studio and the critique as the setting for learning, visible process evidence (sketches, intermediate models, iterations) as the primary indicator of learning, and the fact that [[generative-ai]] now makes the polished output students are graded on cheap to produce. That makes design education a test case for [[creativity]], [[design-thinking]], [[assessment-validity]] and [[professional-training]].
 
 ## Questions to Consider
 
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Design education is narrower than [[arts-design-and-media-education]], which covers studio and performance disciplines together — architecture, music, visual art, media and [[storytelling-in-education|digital storytelling]]. This page covers the professional design disciplines and their formation pipeline: [[eportfolio|portfolio assessment]], accreditation expectations, [[career-development-and-readiness|employability]], and a practice culture that has absorbed generative tools faster than its curricula have.
+Design education is narrower than [[arts-design-and-media-education]], which covers studio and performance disciplines together — architecture, music, visual art, media and [[storytelling-in-education|digital storytelling]]. The subject is the professional design disciplines and their formation pipeline: [[eportfolio|portfolio assessment]], accreditation expectations, [[career-development-and-readiness|employability]], and a practice culture that has absorbed generative tools faster than its curricula have.
 
 It is also distinct from [[design-thinking]], a human-centered [[problem-solving]] method taught across business, education and law as a transferable skill. In design education the process is not a method applied to a discipline; it is the discipline, and the studio is where it is taught, supervised and assessed. [[engineering-education]] is the closest professional neighbour — also design-heavy, also accountable to practice — but engineering assessment rests on calculable artifacts and public-safety responsibility, whereas design's rests on critique and on process evidence that generative tools can visibly simulate.
 

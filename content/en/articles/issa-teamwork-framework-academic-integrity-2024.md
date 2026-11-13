@@ -1,7 +1,7 @@
 ---
 title: "A teamwork framework for preventing breaches of academic integrity and improving students' collaborative skills in the AI era"
 published: "2024-10-02"
-created: "2026-11-04T11:05:00-05:00"
+created: "2026-11-04T07:52:09-05:00"
 updated: "2026-11-04T11:05:00-05:00"
 type: article
 sources: ['raw/papers/issa-teamwork-framework-academic-integrity-2024.md']

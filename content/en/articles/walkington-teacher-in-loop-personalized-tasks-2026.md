@@ -1,7 +1,7 @@
 ---
 title: "Should there be a teacher in-the-loop? A study of generative AI-personalized tasks middle school"
 published: "2026-10-23"
-created: "2026-11-03T09:50:00-05:00"
+created: "2026-11-03T09:27:09-05:00"
 updated: "2026-11-03T09:50:00-05:00"
 type: article
 sources: ['raw/papers/walkington-teacher-in-loop-personalized-tasks-2026.md']

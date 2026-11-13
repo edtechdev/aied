@@ -1,7 +1,7 @@
 ---
 title: Learning by Teaching
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -17,7 +17,7 @@ reviewed_by: [editor]
 
 - Recall a time you truly understood something only after explaining it to someone else. What was happening mentally — and why do you think teaching produces deeper understanding than just studying alone?
 - A common view is that teaching is for experts, and novices have nothing to offer. Yet 'learning by teaching' rests on the opposite premise: preparing to teach forces you to organize knowledge and find your own gaps. How does that reframe who benefits from teaching?
-- The page describes 'teachable agents' — software that students teach as part of learning. With an LLM, you can configure a chatbot as a fallible novice tutee that asks questions and makes mistakes. What would you need to design into such a tutee for it to actually improve learning rather than just chat?
+- 'Teachable agents' are software that students teach as part of learning. With an LLM, you can configure a chatbot as a fallible novice tutee that asks questions and makes mistakes. What would you need to design into such a tutee for it to actually improve learning rather than just chat?
 - One challenge is 'engineering fallibility': AI models are trained to give expert, fluent answers, which is the opposite of the struggling novice the learning-by-teaching paradigm wants. Why might an error-prone tutee be more effective for learning than a correct one?
 - A ChatGPT-based teachable agent improved learning but its tendency to generate correct code limited error-correction practice. How might a tool that always gives the right answer actually shortchange the learner who needs to practice spotting and fixing mistakes?
 - If you were to design a learning-by-teaching activity for your own class, what would make the teaching task *consequential* enough that students put real effort into it rather than copy-pasting an answer?
@@ -34,7 +34,7 @@ Learning by teaching rests on the finding that preparing to teach and actually e
 
 **Teachable agents** are the software systems through which learning by teaching is operationalized — a learner teaches a system as part of learning. Traditional teachable agents were rule-based or retrieval-based and could respond only to limited commands; their key limitation was an inability to engage in natural-language dialogue. [[llm|Large language models]] change this: they can flexibly adopt roles via [[prompt-engineering|prompting]] — including the role of a "tutee" that asks questions or makes mistakes — and engage in open-ended dialogue, enabling LbT in less-structured domains (writing, vocabulary) than was previously possible.
 
-The knowledge base's evidence base traces this shift to **conversational, LLM-based teachable agents**:
+The evidence traces this shift to **conversational, LLM-based teachable agents**:
 
 - **ChatGPT as a teachable agent** ([[chatgpt-teachable-agent-programming-lbt-2024|Chen et al.]]) supports LbT in programming, improving knowledge gains, programming ability, and [[self-regulated-learning|self-regulated learning]] — though its tendency to generate correct code limits error-correction practice.
 - **Explique at scale** ([[explique-teachable-agent-algorithms-546-students-2026|Wang et al.]]) deployed an AI teachable agent (Algorithm Apprentice) to 546 students over an 11-week semester, finding that explanation-oriented dialogue predicts fewer incorrect quiz submissions, while external-content reuse predicts more.
@@ -53,7 +53,7 @@ A central design challenge for LLM-based teachable agents is that LLMs are train
 
 ## Questioning, Self-Regulation, and Active Learning
 
-Two further affordances recur across the knowledge base:
+Two further affordances recur across the evidence:
 
 - **Questions identify knowledge gaps.** LbT systems use learner-generated questions to expose gaps and reinforce comprehension, and [[teaching-ai-vocabulary-lbt-llms-2026|LLM-generated questions]] replace rigid template-based generators.
 - **Teach-back surfaces what clarification misses.** In a 22-participant post-lecture review system, a Peer agent's reflective teach-back consistently exposed gaps between what learners believed they understood and what they could articulate, which lecture-grounded clarification alone had not revealed ([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).
@@ -108,7 +108,7 @@ The [[research-methods-aied|research]] above converges on a few reusable pattern
 
 ## Connected Concepts
 
-- [[pedagogical-patterns]] — Explaining to an AI tutee: the best-evidenced sequence in the knowledge base
+- [[pedagogical-patterns]] — Explaining to an AI tutee: the best-evidenced sequence in the literature
 - [[generative-ai]]
 - [[active-learning]]
 - [[constructivist]]

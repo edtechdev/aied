@@ -1,6 +1,6 @@
 ---
 title: "Psychometric properties of the Russian version of the artificial intelligence anxiety scale: dimensionality, measurement invariance, and person-centered profiles"
-created: "2026-11-09T09:35:00-05:00"
+created: "2026-11-09T09:21:50-05:00"
 updated: "2026-11-09T10:20:00-05:00"
 type: article
 page_kind: [evaluation]

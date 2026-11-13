@@ -1,7 +1,7 @@
 ---
 title: Refutation Text
 created: "2026-08-26T10:20:00-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
@@ -16,7 +16,7 @@ foundations: [misconceptions]
 
 ## Questions to Consider
 
-- Have you ever 'corrected' a student's wrong idea by simply presenting the right answer, only to have the misconception resurface later? The page argues misconceptions aren't gaps but actively held beliefs that resist ordinary instruction. What does that reframe about why your correction failed?
+- Have you ever 'corrected' a student's wrong idea by simply presenting the right answer, only to have the misconception resurface later? The belief survives because it is actively held, not because information was missing. What does that reframe about why your correction failed?
 - A refutation text states the misconception explicitly, refutes it, and offers the correct conception — unlike a standard expository text that just presents the truth. Why would naming the wrong idea out loud help change it, when teaching only the right idea apparently doesn't?
 - The research is mixed on whether personalized AI dialogue beats static refutation text: in one study interactive dialogue produced larger, faster belief change; in another, well-crafted texts outperformed a prompted AI chat. What might explain these contradictory results, and what does it tell you about 'interactivity is always better'?
 - AI can now generate effective refutation texts that match expert-written quality, and even generate misconceptions to seed structured peer discussion. Does the idea of deliberately teaching from AI-generated wrong ideas feel risky or productive to you — and under what conditions would you try it?

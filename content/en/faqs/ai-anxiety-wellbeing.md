@@ -1,7 +1,7 @@
 ---
 title: "How Does AI Affect Student Anxiety and Well-Being, and What Can We Do?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-06T03:00:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [how-ai-impacts-students, study-with-ai]
 weight: 60
 type: faq
@@ -101,7 +101,7 @@ The goal is to bring the anxiety down. Kim (2026) found anxiety positively assoc
 
 Confidence protects students from the career damage. In Duan et al.'s model, [[self-efficacy]] did not buffer it. Career adaptability carried the mediated pathway.
 
-This is a [[student-support-and-success|student services]] problem. Most of the moves on this page are instructional: low-stakes practice, guided evaluation of AI output, feedback-driven revision, and a statement of expectations students can read. Knowing the referral route is one item among them.
+This is a [[student-support-and-success|student services]] problem. Most of the moves are instructional: low-stakes practice, guided evaluation of AI output, feedback-driven revision, and a statement of expectations students can read. Knowing the referral route is one item among them.
 
 A well-being chatbot is the scalable answer to thin counseling capacity. Availability is real and the appeal is understandable. Accuracy on one held-out split is not evidence that a distressed student is better off, and the misclassification, storage and escalation questions have no published answers in the work cited here.
 
@@ -113,7 +113,7 @@ A well-being chatbot is the scalable answer to thin counseling capacity. Availab
 
 **"I am a subject teacher, not a counselor."** Nobody is asking you to treat anyone. Low-stakes practice, a critique task and a revision loop are ordinary instructional moves. The one finding that speaks to your position is the teacher-student relationship sitting second in Bashir and Afzal's feature-importance analysis (10.0%), above sleep quality (9.3%) and social support (7.6%). The authors call it a hypothesis, and it is a reasonable bet for a role you already occupy.
 
-**"We have no counseling capacity, so a tool is better than nothing."** Possibly, and this page cannot settle it. What you can insist on before deployment is written answers on accuracy validation, how the support tier is decided, what happens on a harmful misclassification, how disclosures are stored, and how escalation to a human works. No answers, no deployment. A student who discloses to a tool that misfiles it may not disclose again.
+**"We have no counseling capacity, so a tool is better than nothing."** Possibly, and the evidence cannot settle it. What you can insist on before deployment is written answers on accuracy validation, how the support tier is decided, what happens on a harmful misclassification, how disclosures are stored, and how escalation to a human works. No answers, no deployment. A student who discloses to a tool that misfiles it may not disclose again.
 
 **"If I raise career prospects in class, I am overstepping my subject."** The alternative is that students assemble their answer from the labor market and from each other. Duan et al. recommend career-planning work as part of the academic program, and Dağ et al. recommend it alongside AI literacy. You can host the conversation without claiming expertise in it, and route the individual cases to career services.
 

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Surrender
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-11-12T21:45:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -28,7 +28,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Surrender is the disposition behind the most common failure in AI-supported study: not using the tool too much, but taking its word for it. The [[cognitive-offloading]] page holds the older construct and its evidence, and [[ai-misuse-learning-harm|misuse-of-AI]] holds the harm inventory. This page exists because a distinct cluster of work now names and measures something those two do not quite capture.
+Surrender is the disposition behind the most common failure in AI-supported study: not using the tool too much, but taking its word for it. The [[cognitive-offloading]] page holds the older construct and its evidence, and [[ai-misuse-learning-harm|misuse-of-AI]] holds the harm inventory. A distinct cluster of work now names and measures something those two do not quite capture.
 
 Three things distinguish surrender. It is about *judgment*, not effort: a student can spend considerable time [[prompt-engineering|prompting]], reformatting and refining output while never once recruiting their own standard for whether the output is any good. It is often *invisible to the learner*: the signaling that normally attends effort — hesitation, uncertainty, the sense of not knowing yet — is short-circuited by fluent text. And it is *not reliably fixed by practice or incentives alone*, which is where the evidence gets pointed.
 

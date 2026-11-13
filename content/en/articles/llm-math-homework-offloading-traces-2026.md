@@ -1,6 +1,6 @@
 ---
 title: "What the submission does not show: Complexifying cognitive offloading in students' mathematical work with LLMs"
-created: "2026-10-23T09:45:00-04:00"
+created: "2026-10-23T09:21:12-04:00"
 updated: "2026-10-23T09:45:00-04:00"
 type: article
 pedagogy: [self-regulated-learning, metacognition, help-seeking, student-ai-interaction, problem-solving]

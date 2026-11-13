@@ -1,7 +1,7 @@
 ---
 title: "How Do I Write a Course AI Policy and Communicate It to Students?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-12T15:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai, adopting-ai-options-and-issues]
 weight: 70
 type: faq
@@ -70,7 +70,7 @@ Three documents, three jobs.
 
 **The room** carries the first oral statement. Say the rule once, at the moment it first applies, tied to the work in front of them. A rule a student meets alone is a rule they interpret alone.
 
-Disclosure mechanics need their own paragraph, and it should be the most concrete one on the page. Students who co-designed a course policy through guided inquiry prioritized training for students and instructors, **standardized disclosure procedures**, stronger institutional support and greater involvement in decisions about AI ([[guided-inquiry-genai-course-policy-2026|Hingle and Johri (2026)]]). Say how, where and in what form a student declares use, and say it once.
+Disclosure mechanics need their own paragraph, and it should be the most concrete paragraph in the policy. Students who co-designed a course policy through guided inquiry prioritized training for students and instructors, **standardized disclosure procedures**, stronger institutional support and greater involvement in decisions about AI ([[guided-inquiry-genai-course-policy-2026|Hingle and Johri (2026)]]). Say how, where and in what form a student declares use, and say it once.
 
 [[teaching-intro-ai-course-redesign-bill-of-rights-2026|Pisan (2026)]] found a stronger version of the same move: make the prompt log the graded artifact. When a model does the production, the prompt and the interaction record are the thing worth versioning, so the declaration stops being paperwork and becomes evidence the student is building.
 

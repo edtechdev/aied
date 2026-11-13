@@ -1,6 +1,6 @@
 ---
 title: "Cognitive Offloading in the Age of Generative AI: Effects on Memory, Learning, and Executive Function - A Narrative Literature Review"
-created: "2026-11-12T20:30:00-05:00"
+created: "2026-11-12T20:12:17-05:00"
 updated: "2026-11-13T00:50:00-05:00"
 type: article
 sources: ['raw/papers/papasideri-cognitive-offloading-genai-narrative-review-2026.md']

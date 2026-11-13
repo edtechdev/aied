@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Save Me Time as an Instructor?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-28T11:21:07-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -36,7 +36,7 @@ The bottom line for the meeting: hand over the first draft and keep the judgment
 
 ## Start with work you were going to rewrite anyway
 
-The strongest number in this knowledge base comes from a [[rct|randomized trial]] summarized in [[ai-changing-teaching-workflows|How AI Is Changing Teaching Workflows]]. Two hundred fifty-nine science teachers using ChatGPT spent about 69% as much time on lesson preparation as the control group, a cut of roughly 31%, and blind expert reviewers found no detectable loss in quality. The teachers reallocated rather than banked it, moving the time into planning, marking and student-facing work.
+The strongest number comes from a [[rct|randomized trial]] summarized in [[ai-changing-teaching-workflows|How AI Is Changing Teaching Workflows]]. Two hundred fifty-nine science teachers using ChatGPT spent about 69% as much time on lesson preparation as the control group, a cut of roughly 31%, and blind expert reviewers found no detectable loss in quality. The teachers reallocated rather than banked it, moving the time into planning, marking and student-facing work.
 
 A second dataset in the same work, more than 104,000 messages from over 15,000 educators, shows why the saving lands in odd places. The average prompt touches 1.7 categories at once, so a single request for a lesson plan comes back carrying differentiation and a quiz the teacher had not thought to ask for.
 
@@ -88,7 +88,7 @@ You can use [[automated-essay-scoring|automated essay scoring]] if you validate 
 
 **"If I get faster, the time will be refilled with meetings."** Likely, and the most common way a saving disappears. Put the destination in writing where your chair can see it, before the space fills.
 
-**"AI feedback shortchanges the students who struggle most."** The bottom quartile in Brazil gained nothing, and that is the strongest caution on this page. Pair the saving with a deliberate use. The 35% increase in one-on-one conversations is what those classrooms did with the hours, and that was a choice the teacher made.
+**"AI feedback shortchanges the students who struggle most."** The bottom quartile in Brazil gained nothing, and that is the strongest caution in the research. Pair the saving with a deliberate use. The 35% increase in one-on-one conversations is what those classrooms did with the hours, and that was a choice the teacher made.
 
 **"Grading is where my hours actually are."** It is, and it is also where the tool is least portable across institutions. Validate locally or leave it alone.
 
@@ -108,4 +108,4 @@ You can use [[automated-essay-scoring|automated essay scoring]] if you validate 
 
 ## Where to go next
 
-[[ai-feedback-at-scale]] takes the feedback question further, and [[faculty-ai-competencies]] with [[faculty-development-ai]] covers what a department can build so this stops depending on individual experimentation. [[redesign-assessment-ai-era]] and [[reduce-ai-cheating]] handle the assessment consequences. [[ai-changing-teaching-workflows]] is the article behind the preparation numbers, and [[human-in-the-loop-ai|human oversight]] is the principle this page turns on.
+[[ai-feedback-at-scale]] takes the feedback question further, and [[faculty-ai-competencies]] with [[faculty-development-ai]] covers what a department can build so this stops depending on individual experimentation. [[redesign-assessment-ai-era]] and [[reduce-ai-cheating]] handle the assessment consequences. [[ai-changing-teaching-workflows]] is the article behind the preparation numbers, and [[human-in-the-loop-ai|human oversight]] is the governing principle.

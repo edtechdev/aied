@@ -1,7 +1,7 @@
 ---
 title: Project-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-12T21:45:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
@@ -27,7 +27,7 @@ PBL is closely related to [[active-learning]], [[experiential-learning]], [[coll
 
 Project-based learning is closely related to — but distinct from — [[problem-based-learning|problem-based learning]]: both are learner-centered and context-driven, but problem-based learning centers on an ill-structured *problem* whose solution requires inquiry and knowledge construction, whereas project-based learning centers on producing a tangible *project* or artifact. The two are frequently conflated, and many AI-in-education frameworks draw on both (see the [[problem-based-learning|problem-based learning]] page for the AI-era treatment).
 
-### How PBL appears in the knowledge base's research
+### How PBL appears in the research
 
 - **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] presents an agile, semester-spanning project-based approach to teach robotics in an applied [[cs-education|computer science]] program, addressing the theory-practice gap.
 - **The Project Approach in early childhood with AI agents:** [[creative-project-approach-ai-early-childhood-2025|Yang, Li and Lee (2025)]] extend PBL's foundational form — the Project Approach (Katz & Chard), an extended collaborative investigation of a real-world topic — into [[early-childhood-elementary-ai-education|early childhood]], proposing a five-step **Creative Project Approach** that integrates [[agentic-ai|AI agents]] and [[educational-robotics|robots]] (coding robots and generative social robots) into projects to foster young children's [[creativity|creative learning]]. The five steps — identify learning needs, facilitate [[teacher-role|teacher]]-guided child–robot interaction, situate AI in contexts, calibrate the automation/creativity balance, and evaluate outcomes — keep the teacher as a facilitator guiding inquiry, positioning PBL as the natural vehicle for developmentally appropriate AI use with the youngest learners.

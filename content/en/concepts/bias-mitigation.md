@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-11-06T01:55:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -18,7 +18,7 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- Bias can enter at any stage of the AI pipeline — training data, model behavior, prompts, scoring, and deployment. Before reading, where in that chain did you expect bias to live? This page suggests it can appear almost anywhere. Where is one place you hadn't considered?
+- Bias can enter at any stage of the AI pipeline — training data, model behavior, prompts, scoring, and deployment. Before reading, where in that chain did you expect bias to live? It can appear almost anywhere. Where is one place you hadn't considered?
 - [[research-methods-aied|Research]] shows AI [[physics-education|physics]] scoring systematically underestimates students whose text-based explanations are of lower linguistic quality — the AI scores the language, not the understanding. Why might a system that agrees well with human raters overall still consistently penalize non-native or less fluent writers?
 - One study found that a gender-biased prompt induces students' essays to display a larger 'agentic gap' and more gender-stereotypic content — bias transferred from the tool into the learner's own work. What does this say about bias as not just an unfair score but a force that can reshape what students produce and who they see themselves as?
 - Another study showed LLMs shift feedback in stereotype-aligned ways when personalized with student attributes — leaning on praise and softening critique for 'marked' students even when the essays are identical. How might 'nicely' biased feedback be more harmful than an obviously wrong score, because it's harder to detect?
@@ -35,7 +35,7 @@ Fairness is the least examined dimension in the AI-versus-human scoring literatu
 
 ## Sources of bias
 
-The knowledge base's research documents bias entering at multiple points in the pipeline:
+The research documents bias entering at multiple points in the pipeline:
 
 - **Language and scoring bias:** [[ai-scoring-language-bias-physics|AI-based physics scoring]] systematically underestimates the conceptual understanding of students whose text-based explanations are of lower linguistic quality — the AI scores the language, not the understanding, penalizing non-native or less fluent writers. This is a direct validity and fairness failure in [[automated-assessment|Automated Grading]].
 - **Gender bias transfer in LLM-assisted writing:** [[gender-bias-transfer-llm-writing|Contaminated Collaboration]] shows that when students write with a gender-biased LLM prompt, their essays display a significantly larger agentic gap and more gender-stereotypic occupation suggestions (N=123); bias transfer is asymmetric, suppressing agency in female-target essays. A verification study (N=1,600 LLM essays, R²=.399) confirms a gender-biased prompt induces gender-differentiated language.
@@ -58,7 +58,7 @@ The knowledge base's research documents bias entering at multiple points in the 
 
 ## Mitigation approaches
 
-The knowledge base's research illustrates several complementary strategies:
+The research illustrates several complementary strategies:
 
 - **Fairness-aware modeling:** [[fair-explainable-edu-recommendations|The Hybrid HKG-GRU framework]] integrates **Group Distributionally Robust Optimization (GroupDRO)** for fairness alongside explainability and counterfactual stability, evaluated on Moodle logs (152 students, ~150k interactions). It demonstrates that recommendation systems can be trained to be fair and transparent, not just accurate.
 - **Debiasing estimators:** [[temporal-smoothness-debiased-kt|Temporal Smoothness Doubly Robust (TSDR) learning]] combines a propensity model with an error-imputation model, retaining unbiasedness if either is correct, to remove selection bias from knowledge-tracing mastery estimates.
@@ -93,7 +93,7 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - **Make systems explainable:** transparency into AI decisions is essential for detecting and correcting bias.
 - **Combine technical and human mitigation:** pair debiasing algorithms with human-in-the-loop oversight, especially for high-stakes or low-confidence cases.
 
-Everything on this page concerns bias inside the system. [[automation-bias]] concerns bias in the person reading its output — accepting a recommendation that a human would have questioned had they reached it alone — and it survives even when the model is accurate.
+Bias mitigation concerns bias inside the system. [[automation-bias]] concerns bias in the person reading its output — accepting a recommendation that a human would have questioned had they reached it alone — and it survives even when the model is accurate.
 
 ## Common Misconceptions
 
@@ -103,7 +103,7 @@ Everything on this page concerns bias inside the system. [[automation-bias]] con
 
 ## Connected Concepts
 - [[differential-effects-across-learner-groups]]
-- [[automation-bias]] — the reader-side failure this page does not cover: accepting a recommendation without checking it
+- [[automation-bias]] — the reader-side failure: accepting a recommendation without checking it
 - [[explainable-ai]]
 - [[guardrails]]
 - [[equity-in-ai-education]]

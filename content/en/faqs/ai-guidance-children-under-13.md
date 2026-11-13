@@ -1,7 +1,7 @@
 ---
 title: "How Should Parents and Teachers Approach AI with Children Under 13?"
 created: "2026-09-16T15:25:00-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, incorporating-ai-literacy, how-ai-impacts-students]
 weight: 75
 type: faq
@@ -26,7 +26,7 @@ The vendor's terms say the tool is for users 13 and older. Last week a third-gra
 
 Three questions are tangled in that request: what a six-year-old may do with these systems, what the school owes families whose children meet AI at home, and what to do when a ban is not the answer you can defend.
 
-The short answer you can give the board: tier access by age, teach children how these systems are built before you hand one over, and keep an adult in the loop wherever the child cannot judge the output. A blanket ban is the option with the least evidence behind it. No study of age-based bans exists in this knowledge base, and most of this age group's exposure happens at home, where a school rule does not reach.
+The short answer you can give the board: tier access by age, teach children how these systems are built before you hand one over, and keep an adult in the loop wherever the child cannot judge the output. A blanket ban is the option with the least evidence behind it. No study of age-based bans exists, and most of this age group's exposure happens at home, where a school rule does not reach.
 
 ## The short version
 
@@ -48,7 +48,7 @@ Their evaluation is a single post-exposure survey of 831 participants, and the e
 
 The two editions also show what the boundary is for. The elementary band gets platform-based activities that are scaffolded and non-generative, so a child learns what the system does without a system that talks back. The advanced band attaches ethical reasoning to supervised generative use. Staff who expect engagement to follow the sophistication of the tool usually find the opposite.
 
-What the tiering buys you is a defensible order of operations. Plenty of schools run it backwards, buying the chatbot in the fall and teaching about it in the spring, and the evidence on that order is further down this page.
+What the tiering buys you is a defensible order of operations. Plenty of schools run it backwards, buying the chatbot in the fall and teaching about it in the spring, when the defensible order is the reverse.
 
 ## Start the youngest children with play, making and machines
 
@@ -62,7 +62,7 @@ Teaching how machines work belongs in this band too. [[tsingidou-ct-robotics-kin
 
 ## Move 9- to 12-year-olds onto vetted, mostly non-generative work
 
-This is the band where the curriculum evidence is strongest. [[demir-akar-ai-media-literacy-children-2026|Demir and Akar (2026)]] ran an 18-hour, 5E-based critical media literacy program for 36 Turkish fourth-graders covering data privacy, safe communication and media [[ethics]], with between-group Cohen's *d* of 1.12 for reading, 1.18 for writing and 1.31 for total literacy. A program that fits inside a single semester and reports effects of that size is the most encouraging result on this page.
+This is the band where the curriculum evidence is strongest. [[demir-akar-ai-media-literacy-children-2026|Demir and Akar (2026)]] ran an 18-hour, 5E-based critical media literacy program for 36 Turkish fourth-graders covering data privacy, safe communication and media [[ethics]], with between-group Cohen's *d* of 1.12 for reading, 1.18 for writing and 1.31 for total literacy. A program that fits inside a single semester and reports effects of that size is the most encouraging result in this literature.
 
 Ages 9 to 12 get scaffolded exposure on platforms the school has vetted, with the generative parts reserved for later and supervised. Once children can read, argue and check a claim, teaching them what a system is doing becomes the work, and the tool can enter as an object of study rather than a helper.
 
@@ -122,7 +122,7 @@ For this age band that maps onto a sequence: about and by shaping first, from la
 
 A board paper can promise a review date and a definition of success your school can actually check: lessons taught, teachers who can answer a parent's question, data requests answered in writing. Claiming a learning gain would overreach every study cited here.
 
-There is no study of age-based bans in this knowledge base. Nothing here can settle whether the bans now appearing in some school systems work, and the honest version of that sentence belongs in your board paper. What the evidence does show is that the alternative to a ban is not laissez-faire. [[moral-panic-genai-classroom|The study of GenAI availability versus integration]] found that making GenAI available without teaching students how to use it was associated with significantly lower performance on applied questions (ω² = 0.35), while explicitly teaching its use for tasks like summarizing returned applied performance to pre-GenAI levels and exceeded baseline on one harder quiz. This age band can be taught: the fourth-grade program above produced effects of *d* = 1.12 to 1.31.
+There is no study of age-based bans. Nothing here can settle whether the bans now appearing in some school systems work, and the honest version of that sentence belongs in your board paper. What the evidence does show is that the alternative to a ban is not laissez-faire. [[moral-panic-genai-classroom|The study of GenAI availability versus integration]] found that making GenAI available without teaching students how to use it was associated with significantly lower performance on applied questions (ω² = 0.35), while explicitly teaching its use for tasks like summarizing returned applied performance to pre-GenAI levels and exceeded baseline on one harder quiz. This age band can be taught: the fourth-grade program above produced effects of *d* = 1.12 to 1.31.
 
 ## What schools get wrong
 
@@ -168,4 +168,4 @@ There is no study of age-based bans in this knowledge base. Nothing here can set
 
 ## Where to go next
 
-[[how-ai-impacts-students]] covers what the tools do to learning, and [[incorporating-ai-literacy]] with [[ai-literacy]] covers what to teach. [[parents-and-families]] and [[early-childhood-elementary-ai-education]] hold the research base for this page, and [[equity-ethics-pedagogical-safety-research]] is where the privacy and safety argument continues. If your question is the assessment side for older students, [[should-we-use-ai-detectors]] and [[reduce-ai-cheating]] take it further.
+[[how-ai-impacts-students]] covers what the tools do to learning, and [[incorporating-ai-literacy]] with [[ai-literacy]] covers what to teach. [[parents-and-families]] and [[early-childhood-elementary-ai-education]] hold the research base, and [[equity-ethics-pedagogical-safety-research]] is where the privacy and safety argument continues. If your question is the assessment side for older students, [[should-we-use-ai-detectors]] and [[reduce-ai-cheating]] take it further.

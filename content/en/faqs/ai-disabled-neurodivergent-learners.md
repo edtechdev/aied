@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Support Disabled and Neurodivergent Learners in My Course?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-06T13:58:13-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, reducing-over-reliance]
 weight: 65
 type: faq
@@ -25,7 +25,7 @@ ai_assist:
 
 The accommodation letter names a student, a course and a tool you have never heard of. Or a student has asked, reasonably, whether they can keep using their speech-to-text software in a timed exam, and your course AI rule says no AI of any kind. Or the accessibility office wants an answer by Friday on whether to license a reading tool, and the vendor's evidence is a testimonial from another campus.
 
-The answer that survives all three: start from the barrier the task creates, use the tools that were actually measured, and teach whatever you adopt. Two rules matter more than any product choice. Name transcription and OCR in your AI policy as accommodations in their own right, and give the assignment structure instead of asking students to infer it. Be clear-eyed about the evidence: the strongest number on this page comes from PK-12 special-education settings using mostly pre-generative AI, and the higher-education literature is a map of what has been tried.
+The answer that survives all three: start from the barrier the task creates, use the tools that were actually measured, and teach whatever you adopt. Two rules matter more than any product choice. Name transcription and OCR in your AI policy as accommodations in their own right, and give the assignment structure instead of asking students to infer it. Be clear-eyed about the evidence: the strongest number comes from PK-12 special-education settings using mostly pre-generative AI, and the higher-education literature is a map of what has been tried.
 
 ## The short version
 
@@ -51,11 +51,11 @@ The same caution applies to group statistics. [[differential-effects-across-lear
 
 ## Use what has been measured, and read the label
 
-The strongest [[quantitative-research|quantitative]] result on this page is also the most general, and it comes with limits you should carry into the purchase decision.
+The strongest [[quantitative-research|quantitative]] result is also the most general, and it comes with limits you should carry into the purchase decision.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu and Peng (2024)]] synthesized 29 (quasi-)experimental studies of AI-based interventions for [[inclusive-learning|students with disabilities]]: 239 effect sizes from 41 independent samples, a statistically significant medium overall effect on learning outcomes of Hedges' g = 0.588 (95% CI [0.349, 0.826], p < .01), and high between-study heterogeneity. Academic performance was the largest outcome subgroup (k = 80, g = 0.929) and social-emotional skills the smallest (k = 144, g = 0.382). Computer software, meaning [[speech-and-voice-technologies|speech recognition]], expert systems and [[intelligent-tutoring|intelligent tutoring systems]], performed strongly (k = 74, g = 0.959) and [[educational-robotics|robots]] moderately (k = 144, g = 0.509), while intelligent VR (g = 0.528) was not significant. Publication bias was present (Egger's β = 2.837, p < .001); trim-and-fill reduced the estimate to g = 0.269, still significant.
 
-Every study was PK-12. 96.6% used step-based instruction in special-education or clinical settings, and most used older rule-based AI rather than [[generative-ai|generative AI]]. That supports cautious adoption of structured instructional software. It does not transfer to a general-purpose chatbot, and treating it as though it does is the most expensive mistake available on this page.
+Every study was PK-12. 96.6% used step-based instruction in special-education or clinical settings, and most used older rule-based AI rather than [[generative-ai|generative AI]]. That supports cautious adoption of structured instructional software. It does not transfer to a general-purpose chatbot, and treating it as though it does is the most expensive mistake available.
 
 Three smaller results show what a single tool can do when the barrier is narrow. Each was tested on a handful of learners, so treat them as low-cost reversible experiments rather than infrastructure.
 
@@ -83,7 +83,7 @@ The documented failure is an accommodation supplied without instruction. In *W.A
 
 Two things make that failure likely, and both are institutional. [[shin-ai-policies-sld-2026|Shin et al. (2026)]] used LLM-based topic modeling and two rounds of Delphi surveys with 17 experts across 12 U.S. AI-in-[[educational-policy-ai|education policy]] documents from 2015 to 2025. Educator preparation is one of their five validated themes, carrying 4 of 36 items, and the experts ranked student empowerment and [[ai-literacy|AI literacy]] as most essential: these students should learn to use AI responsibly and independently, with guarding against over-reliance taught as part of the same skill. [[ludia-udl-ai-thought-partner-2026|LUDIA]]'s authors name the obstacle as the "knowing-doing divide": guidance exists in abundance, is written in general terms, and a barrier is always particular to this room, this week.
 
-What the page cannot give you is a training protocol. No formal evidence-based guidelines exist to help educators or families implement AI for these learners, so the amount of instruction, its sequencing and who delivers it are judgment calls. The case law sets the floor rather than the standard: the student has to end up able to do the thing, and someone has to be accountable for getting them there.
+What the evidence cannot give you is a training protocol. No formal evidence-based guidelines exist to help educators or families implement AI for these learners, so the amount of instruction, its sequencing and who delivers it are judgment calls. The case law sets the floor rather than the standard: the student has to end up able to do the thing, and someone has to be accountable for getting them there.
 
 ## Write transcription and OCR into the AI rule by name
 
@@ -91,7 +91,7 @@ What the page cannot give you is a training protocol. No formal evidence-based g
 
 A rule written as "no AI" can therefore withdraw the student's primary means of producing legible work. Nobody has measured the scale of that displacement yet, which is a reason to be explicit rather than to wait for the number. Name transcription and OCR as accommodations in the policy, alongside the drafting prohibitions, so the two questions are decided separately. The exposure this creates for the institution belongs with [[legal-issues-and-risks]].
 
-This is a one-line fix in most documents and it is the highest-consequence line on the page.
+This is a one-line fix in most documents and it is the highest-consequence line in the policy.
 
 ## Give structure where the assignment assumes it
 
@@ -105,7 +105,7 @@ Aggregate effects give you a direction. They do not tell you whether the tool wo
 
 Three cautions should shape that measure. The first is that subgroup ordering is suggestive rather than established: no moderator of any kind reached significance in the 2024 meta-analysis, so rankings such as [[learning-by-teaching|teachable agents]] (g = 1.100) ahead of social-emotional coaches (g = 0.336), or dyadic interaction ahead of triadic (g = 0.973 versus g = 0.385), should not be treated as settled. The direction of effect is supported; the size, the design optimum and the durability of any gain are not.
 
-The second is that this corpus describes deployments and perceptions more than measured learning. Attention (n = 4) and social communication (n = 5) are the least-studied barriers, and the scarcity of (quasi-)experimental and longitudinal designs is why the higher-education work is a scoping review rather than a meta-analysis. Coverage skews undergraduate and Global North, the search was English-language peer-reviewed work, and postgraduate students are under-represented. Engagement and satisfaction are weak indicators.
+The second is that the literature describes deployments and perceptions more than measured learning. Attention (n = 4) and social communication (n = 5) are the least-studied barriers, and the scarcity of (quasi-)experimental and longitudinal designs is why the higher-education work is a scoping review rather than a meta-analysis. Coverage skews undergraduate and Global North, the search was English-language peer-reviewed work, and postgraduate students are under-represented. Engagement and satisfaction are weak indicators.
 
 The third is that a tool which fixes one barrier may leave another. Check the tool against the specific difficulty the student reports, whether that is reading and writing, study management, attention or social communication, and evaluate against that difficulty rather than against how the student felt about the product. Ask the student what to count. Zastudil et al.'s participants and Rezazadegan et al.'s forum posters both describe their needs more precisely than the products built for them do.
 
@@ -127,13 +127,13 @@ A diagnosis tells me which tool to buy. The barriers cross diagnoses, and a tool
 
 An accommodation is a personal arrangement, so the fix belongs to the student. Some are, and the ones worth generalizing are the ones you would have designed in anyway. Segmentation helped every learner in its study. Design changes remove the disclosure step, and with it the stigma.
 
-Engagement and satisfaction show the tool worked. They show the student liked it. This corpus is mostly deployments and perceptions, and only 6 of 40 higher-education studies served more than one barrier, so a satisfied student is not yet evidence that a barrier came down.
+Engagement and satisfaction show the tool worked. They show the student liked it. The literature is mostly deployments and perceptions, and only 6 of 40 higher-education studies served more than one barrier, so a satisfied student is not yet evidence that a barrier came down.
 
 The tool carries the support, and teaching is an extra. The case law treats an untaught tool as the failure, and the policy experts ranked student empowerment and AI literacy as their most essential theme. Budget the teaching time with the license.
 
 ## What will come back at you
 
-**"We cannot require a tool for everyone."** Where the tool is a design feature, requiring it is the point. Video segmentation with fixed pauses improved all learners and brought the ADHD participants' errors and hesitations to parity, which is the universal-design outcome that removes the need for disclosure. Accessible defaults carry the same logic: read-aloud, OCR and text-leveling tools recur in Shin et al.'s validated policy items. Their corpus also shows how far policy has to travel, since only 2 of the 12 documents specifically address learning disabilities while 18 topics present in general AI or other-disability policy, [[privacy|data protection]], legal risk management and ethical guidelines among them, are missing from specific-learning-disability policy.
+**"We cannot require a tool for everyone."** Where the tool is a design feature, requiring it is the point. Video segmentation with fixed pauses improved all learners and brought the ADHD participants' errors and hesitations to parity, which is the universal-design outcome that removes the need for disclosure. Accessible defaults carry the same logic: read-aloud, OCR and text-leveling tools recur in Shin et al.'s validated policy items. Their document set also shows how far policy has to travel, since only 2 of the 12 documents specifically address learning disabilities while 18 topics present in general AI or other-disability policy, [[privacy|data protection]], legal risk management and ethical guidelines among them, are missing from specific-learning-disability policy.
 
 **"Captioning and translation are not [[student-support-and-success|academic support]]."** Captioning is a start, not the whole of language access. Chen et al.'s Visual and Emotion questions exist because a transcript alone leaves a Deaf learner reconstructing context the video never stated. The policy experts' ranking disagrees with the objection too. Their 36 validated items spread across five themes, with inclusive and [[personalized-learning|personalized learning]] the largest at 11 (30.56%) and [[ethics]], equity and inclusion at 9 (25.00%), and educator preparation at 4 (11.11%), yet the experts ranked student empowerment and AI literacy most essential of the five, at 6 items (16.67%), level with assessment and research.
 

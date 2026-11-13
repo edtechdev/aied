@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-10T19:10:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -12,7 +12,7 @@ methods: [research-methods-aied]
 reviewed_by: [editor]
 ---
 
-> **Technology Adoption Models** — the family of theories that explain and predict why individuals and institutions accept, adopt and keep using new [[ai-technologies|technologies]], of which the **Technology Acceptance Model (TAM)** is the most widely applied. In [[ai-education|AI in education]] they are the standard lens for asking why learners, teachers and organizations adopt [[generative-ai|generative AI]] tools, and the knowledge base treats them together because GenAI-adoption studies draw on several members of the family rather than one.
+> **Technology Adoption Models** — the family of theories that explain and predict why individuals and institutions accept, adopt and keep using new [[ai-technologies|technologies]], of which the **Technology Acceptance Model (TAM)** is the most widely applied. In [[ai-education|AI in education]] they are the standard lens for asking why learners, teachers and organizations adopt [[generative-ai|generative AI]] tools, and they are best treated together because GenAI-adoption studies draw on several members of the family rather than one.
 
 ## Questions to Consider
 
@@ -20,7 +20,7 @@ reviewed_by: [editor]
 - A common belief is that 'if a tool is clearly useful, people will use it.' Have you seen situations where a genuinely useful technology still failed to catch on, or a clearly limited one spread anyway? What might explain the gap between objective usefulness and actual adoption?
 - Adoption frameworks like TAM were designed in the 1980s for fairly simple systems. If you've used generative AI, in what ways does it differ from a word processor or a [[edtech-platform|learning management system]] — and why might a model built around 'ease of use' and 'usefulness' struggle to capture how people relate to something that talks back?
 - [[research-methods-aied|Researchers]] often say perceived risk and trust matter less for AI adoption than expected. Before reading further, what do you predict: do students adopt AI because they trust it, despite risks, or are those concerns actually minor next to convenience and social pressure?
-- The page argues that adoption frameworks treat using a tool as a one-time decision, but effective use may be an ongoing judgment. Where in your own or your students' practice does the line between 'choosing to use AI' and 'continually deciding how to use it well' seem to blur — and what would change if we measured that instead of mere uptake?
+- Adoption frameworks treat using a tool as a one-time decision, but effective use may be an ongoing judgment. Where in your own or your students' practice does the line between 'choosing to use AI' and 'continually deciding how to use it well' seem to blur — and what would change if we measured that instead of mere uptake?
 - Some researchers cluster learners into different 'adoption personas' instead of assuming one model fits everyone. What differences do you see among your own learners, colleagues, or students that a single average model of adoption might hide — and how could those differences shape how you support them?
 
 ## Introduction
@@ -34,7 +34,7 @@ reviewed_by: [editor]
 Proposed by Davis (1989), TAM explains adoption through two core beliefs — **Perceived Usefulness (PU)** and **Perceived Ease of Use (PEOU)** — which shape users' **Attitude (ATT)**, then **Behavioral Intention (BI)**, then actual usage. Grounded in information-systems theory (adapted from the Theory of Reasoned Action), TAM has become the dominant framework for [[generative-ai|GenAI]] adoption in education. In educational GenAI research it is frequently extended with [[ai-literacy]], [[trust]], social influence, [[self-determination-theory|self-determination]], and **critical use** to capture adoption complexity beyond simple uptake.
 
 ### UTAUT / UTAUT2 / UTAUT3
-The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with eight prior models into four core determinants — performance expectancy, effort expectancy, social influence, and facilitating conditions (with UTAUT2 adding hedonic motivation, price value, and habit; UTAUT3 adding personal innovativeness). The knowledge base applies UTAUT across teacher and student populations: [[mathematics-teachers-chatbot-motivation-2026|Austrian secondary math teachers]] (UTAUT with 448 teachers), [[pre-service-science-teachers-ai-perceptions-2026|pre-service science teachers in Ghana]] (UTAUT + TPB), and [[tian-genai-learning-adoption-pathways-2026|students in Lesotho]] (UTAUT3 + ARCS, using PLS-SEM and fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] extend UTAUT2 with explainable AI (Random Forest, SHAP, NCA, IPMA, K-Means) for 522 university students, finding **habit** the strongest predictor of ChatGPT intention and showing that **effort expectancy is a necessary condition rather than a linear driver** — a result only visible when XAI complements the regression.
+The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with eight prior models into four core determinants — performance expectancy, effort expectancy, social influence, and facilitating conditions (with UTAUT2 adding hedonic motivation, price value, and habit; UTAUT3 adding personal innovativeness). UTAUT is applied across teacher and student populations: [[mathematics-teachers-chatbot-motivation-2026|Austrian secondary math teachers]] (UTAUT with 448 teachers), [[pre-service-science-teachers-ai-perceptions-2026|pre-service science teachers in Ghana]] (UTAUT + TPB), and [[tian-genai-learning-adoption-pathways-2026|students in Lesotho]] (UTAUT3 + ARCS, using PLS-SEM and fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] extend UTAUT2 with explainable AI (Random Forest, SHAP, NCA, IPMA, K-Means) for 522 university students, finding **habit** the strongest predictor of ChatGPT intention and showing that **effort expectancy is a necessary condition rather than a linear driver** — a result only visible when XAI complements the regression.
 
 **In an already-adopted sample, habit carries the model and the expectancies go quiet.** [[pinedo-genai-adoption-marketing-students-2026|Pinedo et al. (2026)]] tested UTAUT2 on 310 [[business-education|marketing students]] at two Latin American universities: habit predicted intention at β = 0.426 and use at β = 0.412, and intention predicted use at 0.324. Performance expectancy (0.037), effort expectancy (0.054) and social influence (0.048) were not significant, in a model explaining R² = 0.665 of intention and 0.707 of use. The authors read the null paths as variance restriction in a population that had already adopted the tool; the outcome is [[self-report-measures|self-reported]] use, not logged behavior.
 
@@ -47,16 +47,16 @@ TPB explains intention through attitude, subjective norms, and perceived behavio
 Adoption research usually stops at intention; a TPB extension that instead measured delay despite a genuine intention found perceived behavioral control the strongest negative predictor of GenAI-assisted learning procrastination (β = −0.331) across 1,243 undergraduates, with the intention–delay link significant only at moderate-to-high learning GenAI anxiety ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
 
 ### Diffusion of Innovation (DOI)
-Rogers' DOI theory explains adoption as a social process in which innovations diffuse through populations over time, emphasizing innovation attributes (relative advantage, compatibility, complexity, trialability, observability) and adopter categories. It appears in the knowledge base's [[governance|institutional]]-level analyses, e.g. [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] combine the Technology–Organization–Environment (TOE) framework with DOI to model organizational AI adoption in Saudi universities.
+Rogers' DOI theory explains adoption as a social process in which innovations diffuse through populations over time, emphasizing innovation attributes (relative advantage, compatibility, complexity, trialability, observability) and adopter categories. It appears in [[governance|institutional]]-level analyses, e.g. [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] combine the Technology–Organization–Environment (TOE) framework with DOI to model organizational AI adoption in Saudi universities.
 
 At the student level, [[gocyla-genai-adoption-diffusion-2026|Gocyła and Strzelecki (2026)]] found relative advantage, compatibility, simplicity and observability predicting intention to use GenAI, explaining 48.7% of the variance, while trialability did not (f² = 0.001): free access may make trial a baseline expectation rather than a differentiator.
 
 ### Technology–Organization–Environment (TOE)
 TOE frames adoption as shaped by technological, organizational, and environmental contexts — a complement to individual-level TAM/UTAUT for studying institutional adoption (see [[alrahmi-org-drivers-ai-adoption-he-2026]]).
 
-## Applications in the knowledge base
+## Applications
 
-Adoption models are applied across the knowledge base to model student and [[teacher-role|teacher]] uptake of AI tools:
+Adoption models are applied to model student and [[teacher-role|teacher]] uptake of AI tools:
 
 - **Critical-use extension:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extended TAM with *critical use* for engineering/CS students, finding that attitudes and critical use directly predict intention — and that critical use safeguards against [[cognitive-offloading|over-reliance]].
 - **Unified socio-cognitive model:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrated TAM with UTAUT for engineering students in Bangladesh (explaining 64% of usage variance).

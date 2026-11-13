@@ -1,6 +1,6 @@
 ---
 title: "Institutional AI Sovereignty Through Gateway Architecture: Implementation Report from Fontys ICT"
-created: "2026-11-12T11:45:00-05:00"
+created: "2026-11-12T07:36:15-05:00"
 updated: "2026-11-12T11:45:00-05:00"
 type: article
 evidence_context: educational

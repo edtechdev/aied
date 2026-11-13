@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and student engagement in L2 writing: a systematic review towards a ChatGPT-enabled smart learning environment framework"
 published: "2026-10-30"
-created: "2026-11-02T09:22:00-05:00"
+created: "2026-11-02T09:12:23-05:00"
 updated: "2026-11-02T10:15:00-05:00"
 type: article
 sources: ['raw/papers/arthi-chatgpt-l2-writing-engagement-review-2026.md']

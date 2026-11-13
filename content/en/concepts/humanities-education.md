@@ -1,7 +1,7 @@
 ---
 title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-12T06:10:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
@@ -15,17 +15,17 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - The humanities prize interpretation, authorship, and critical judgment — exactly the capabilities generative AI most challenges. How does that make AI integration in these disciplines different from in STEM?
-- The page describes AI as an 'epistemic mediator' that can externalize your interpretive thinking and hybridize your authorship. When AI helps you interpret a text, who is actually doing the interpreting?
+- AI acts as an 'epistemic mediator' that can externalize your interpretive thinking and hybridize your authorship. When AI helps you interpret a text, who is actually doing the interpreting?
 - It identifies three trajectories for learners: AI-dependent, AI-enhanced, and AI-critical interpretation. Where do you think most humanities students currently land — and what would move them toward the AI-critical end?
 - In history education, [[research-methods-aied|research]] shows AI can shape reasoning and source interpretation, including through filters that 'protect' students. How would you teach students to interrogate an AI's mediation of historical claims?
 - If original authorship and interpretive autonomy are the core values of the humanities, what does it mean when AI can produce a plausible interpretation instantly? What human capability becomes more, not less, valuable?
-- The page warns against treating AI as a content tutor in fields centered on meaning-making. What would it look like to use AI deliberately to deepen, rather than flatten, students' critical analysis?
+- AI should not be treated as a content tutor in fields centered on meaning-making. What would it look like to use AI deliberately to deepen, rather than flatten, students' critical analysis?
 
 ## Introduction
 
-SSH education is a distinct subject area in the knowledge base, complementary to [[stem-education]] and [[language-learning]]. Because the humanities prize interpretive depth, authorship, and contextual judgment, they pose different AI-integration challenges than STEM — and connect to [[higher-ed]] and [[ai-literacy]] in [[discipline-specific-aied|domain-specific]] ways.
+SSH education is a distinct subject area, complementary to [[stem-education]] and [[language-learning]]. Because the humanities prize interpretive depth, authorship, and contextual judgment, they pose different AI-integration challenges than STEM — and connect to [[higher-ed]] and [[ai-literacy]] in [[discipline-specific-aied|domain-specific]] ways.
 
-Civic and political education is a sibling subject area to these disciplines rather than a branch of them, and [[civic-and-political-education]] treats it in its own right. The knowledge base's evidence there is thin: eight sources touch the topic and none measures civic learning.
+Civic and political education is a sibling subject area to these disciplines rather than a branch of them, and [[civic-and-political-education]] treats it in its own right. The evidence there is thin: eight sources touch the topic and none measures civic learning.
 
 ### How AI appears in humanities and social science education
 
@@ -40,7 +40,7 @@ Civic and political education is a sibling subject area to these disciplines rat
 
 ### Why it matters
 
-SSH education foregrounds the very capabilities generative AI most challenges — original authorship, interpretive judgment, critical analysis, and context-sensitive meaning-making. The knowledge base treats this domain as a critical counterweight to instrumental, skills-based framings of AI: it asks whether AI-supported learning preserves [[critical-thinking]], epistemic responsibility, and interpretive autonomy, connecting to [[critical-pedagogy]] and [[ai-literacy]].
+SSH education foregrounds the very capabilities generative AI most challenges — original authorship, interpretive judgment, critical analysis, and context-sensitive meaning-making. SSH education is treated as a critical counterweight to instrumental, skills-based framings of AI: it asks whether AI-supported learning preserves [[critical-thinking]], epistemic responsibility, and interpretive autonomy, connecting to [[critical-pedagogy]] and [[ai-literacy]].
 
 Humanities teaching has begun using agentic AI for source assembly and drafting, which moves the discipline's assessment question from whether text was generated to whether interpretation can be attributed to the student ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
 
@@ -55,7 +55,7 @@ Humanities teaching has begun using agentic AI for source assembly and drafting,
 
 **"The humanities are the least AI-exposed part of the [[curriculum-design|curriculum]]."** The exposure has been measured and it is concentrated rather than diffuse: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] audited **15,587 Arts and Humanities unit records** to establish where the exposure sits. It is unevenly distributed across units rather than spread thin, which makes assessment redesign a targeted problem rather than a sector-wide one.
 
-**"AI in humanities education is technocentric augmentation."** The position paper this page draws on argues the shift is an *intellectual transformation* rather than augmentation, positioning [[ai-literacy|digital fluency]] as a core liberal-arts competency. Adding a tool to an unchanged course mistakes the transformation for its instrument.
+**"AI in humanities education is technocentric augmentation."** The position paper behind that argument insists the change is intellectual rather than technological, and that [[ai-literacy|digital fluency]] belongs among the liberal arts. Adding a tool to an unchanged course mistakes the transformation for its instrument.
 
 **"Values education can be handed to a model as content."** [[genai-values-education-affordances-risks-2026|Chen (2026)]] reframes values education as a relational practice with three conditions — answerability, exemplarity and address — and reads each of GenAI's five affordances as replacing a relation: the simulated perspective replaces the stakeholder who can be wronged.
 

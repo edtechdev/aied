@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Support Multilingual Learners Without Misjudging Their Knowledge or Erasing Their Voice?"
-created: "2026-10-30T12:30:00-04:00"
-updated: "2026-11-06T03:00:00-05:00"
+created: "2026-10-30T11:34:03-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -47,7 +47,7 @@ Write the decision down where students can read it. If students may translate di
 
 ## What the research supports, and what it does not
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez and Arabadzhy (2026)]] reviewed 24 empirical studies of generative [[conversational-ai|chatbots]] in [[language-learning|language learning]]. Their contribution is taxonomic: every sub-affordance catalogued for pre-generative chatbots persists, and three are new, including **translanguaging**, the deliberate movement between languages as part of learning. That is a map of reported uses and experiences rather than a pooled estimate, and the corpus is geographically concentrated, with China, Iran, Taiwan and Türkiye accounting for 19 of the 24 studies and all but one set inside formal institutions. Support for using cross-language explanation as a learning move is not support for translating every assignment.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez and Arabadzhy (2026)]] reviewed 24 empirical studies of generative [[conversational-ai|chatbots]] in [[language-learning|language learning]]. Their contribution is taxonomic: every sub-affordance catalogued for pre-generative chatbots persists, and three are new, including **translanguaging**, the deliberate movement between languages as part of learning. That is a map of reported uses and experiences rather than a pooled estimate, and the studies are geographically concentrated, with China, Iran, Taiwan and Türkiye accounting for 19 of the 24 studies and all but one set inside formal institutions. Support for using cross-language explanation as a learning move is not support for translating every assignment.
 
 Assessment is where the evidence gets sharper and the stakes rise. [[ai-scoring-language-bias-physics|Feser and Tschisgale (2026)]] compared eleven automated scoring approaches against human expert scores for 116 secondary-school students' physics explanations and found systematic underestimation of conceptual understanding for linguistically weaker explanations, in every single approach. The design isolates the mechanism: the same conceptual content, expressed in weaker prose, scored lower. This is not a claim about any particular country's multilingual students, and it is exactly the pattern that makes overall scoring agreement a poor diagnostic. A scorer can agree with human markers on average while erring in a consistent direction for the students whose language is still developing.
 
@@ -69,7 +69,7 @@ These are uses to pilot, not validated interventions. A tool that performs well 
 
 ## Protect the student's meaning and voice
 
-Ask for targeted help before asking for a rewrite, because a whole rewrite is where the student's thinking leaves the page. A request worth teaching: "Identify two places where my meaning is unclear. Explain the problem and offer options. Keep my examples and do not add claims." The student then chooses.
+Ask for targeted help before asking for a rewrite, because a whole rewrite is where the student's thinking leaves the draft. A request worth teaching: "Identify two places where my meaning is unclear. Explain the problem and offer options. Keep my examples and do not add claims." The student then chooses.
 
 A sequence that keeps the work with the student:
 

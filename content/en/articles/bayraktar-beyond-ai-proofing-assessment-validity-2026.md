@@ -1,6 +1,6 @@
 ---
 title: "Beyond AI-Proofing: Rethinking What Counts as Evidence of Learning"
-created: "2026-11-10T21:45:00-05:00"
+created: "2026-11-10T19:39:31-05:00"
 updated: "2026-11-10T21:45:00-05:00"
 type: article
 sources: ['raw/papers/bayraktar-beyond-ai-proofing-assessment-validity-2026.md']

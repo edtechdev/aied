@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-12T21:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -13,11 +13,11 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **Student experience** — how learners perceive, interact with, and are affected by AI tools in educational settings. With over 85 articles in the knowledge base, student experience is one of the most-researched dimensions of [[ai-education|AI in education]]. AI impacts students in both positive and negative directions, and the same tool can help and harm depending on how it is designed and used.
+> **Student experience** — how learners perceive, interact with, and are affected by AI tools in educational settings. With over 85 studies, student experience is one of the most-researched dimensions of [[ai-education|AI in education]]. AI impacts students in both positive and negative directions, and the same tool can help and harm depending on how it is designed and used.
 
 ## Questions to Consider
 
-- The page claims AI affects students in both positive and negative directions, often simultaneously — the same tool can help and harm depending on design and use. Can you give an example from your own experience where AI helped and hurt at the same time?
+- AI affects students in both positive and negative directions, often simultaneously: the same tool can help and harm depending on design and use. Can you give an example from your own experience where AI helped and hurt at the same time?
 - It describes a 'performance-learning gap': students do better with AI but worse on later unassisted tasks. How do you think that gap arises, and what would it take to close it?
 - If over-reliance on AI means delegating the reasoning you actually need to practice, where would you draw the line between legitimate help and offloading that erodes learning?
 - The [[research-methods-aied|research]] asks whether simply knowing AI is available changes student effort. Do you think awareness of AI makes students work harder, less hard, or differently — and how would you test your belief?

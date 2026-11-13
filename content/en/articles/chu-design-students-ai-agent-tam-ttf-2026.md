@@ -1,7 +1,7 @@
 ---
 title: "Cognitive mechanisms of AI agent behavioral intention among design graduate students: an integrated TAM–TTF perspective"
 published: "2026-10-12"
-created: "2026-11-04T09:20:00-05:00"
+created: "2026-11-04T07:37:59-05:00"
 updated: "2026-11-04T09:20:00-05:00"
 type: article
 sources: ['raw/papers/chu-design-students-ai-agent-tam-ttf-2026.md']

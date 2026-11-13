@@ -1,6 +1,6 @@
 ---
 title: "The Impact of AI on Work in Higher Education"
-created: "2026-11-12T14:10:00-05:00"
+created: "2026-11-12T07:49:43-05:00"
 updated: "2026-11-12T14:10:00-05:00"
 type: article
 evidence_context: educational

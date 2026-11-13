@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: Edtech Platform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -14,7 +14,7 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and [[online-teaching-and-learning|online learning]] environments through which AI is delivered to learners and educators. In [[ai-education|AI in education]], the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this knowledge base examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
+> **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and [[online-teaching-and-learning|online learning]] environments through which AI is delivered to learners and educators. In [[ai-education|AI in education]], the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
 
 ## Questions to Consider
 
@@ -38,7 +38,7 @@ Platforms in AI in education perform several distinct functions:
 - **Collect and analyze learning data** — the substrate for [[learning-analytics]] and [[student-modeling]].
 - **Govern access and deployment** — decisions about [[open-source]] vs. proprietary, local vs. cloud, and which institutions and learners can use it.
 
-## Key findings from the knowledge base's articles
+## Key findings from the research
 
 ### Take-up, not capability, is often the binding constraint
 

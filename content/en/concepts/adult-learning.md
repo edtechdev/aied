@@ -1,7 +1,7 @@
 ---
 title: Adult Learners
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -12,12 +12,12 @@ methods: [usability-research]
 technology: [edtech-platform]
 reviewed_by: [editor]
 ---
-> **Adult learning** — the theory and practice of educating adults (andragogy), and how AI tools and technologies can be designed to support adult learners' [[agency|autonomy]], prior experience, and real-world relevance. Explored across 13 articles in this knowledge base.
+> **Adult learning** — the theory and practice of educating adults (andragogy), and how AI tools and technologies can be designed to support adult learners' [[agency|autonomy]], prior experience, and real-world relevance. Explored across 13 articles.
 
 ## Questions to Consider
 
 - Adult learning theory assumes learners are [[self-directed-learning|self-directed]], draw on life experience, and want real-world relevance. But if AI performs much of the cognitive work, does a learner completing a task without visible help actually prove they directed it? What would make you confident they did?
-- Behavioral independence from a tool no longer guarantees the learner directed the learning. If you were designing AI for adult learners, what would you look for to confirm genuine self-direction rather than quiet delegation?
+- If you were designing AI for adult learners, what would you look for to confirm genuine self-direction rather than quiet delegation?
 - Design guidelines for adult AI tools emphasize fitting into busy lives — mobile-friendly, offline-capable, connected to real problems. Which of these matter most for your own learning, and what does a tool that ignores them cost the learner?
 - Adult learners often study at work or at home, so online delivery dominates — bringing flexibility but also risks of offloading and integrity questions. How does the convenience of AI assistance interact with the goal of durable learning for a busy adult?
 - Research found no single adult-learning AI system satisfied all design guidelines — the full ecosystem was needed. What does that suggest about expecting one tool to meet every learner's needs?
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Rooted in Knowles's andragogical model, adult learning assumes learners are self-directed, draw on life experience, are motivated by immediate and practical goals, and benefit most when learning connects to their real-world roles. These assumptions matter for AI design because generative AI can now participate in almost every stage of learning — identifying needs, setting goals, interpreting information, producing outputs, and evaluating performance. When AI performs so much of the cognitive work, behavioral independence from the tool no longer guarantees that the learner actually directed the learning. Research in this knowledge base accordingly reframes self-direction as an active design goal rather than an assumed default, and evaluates adult-learning AI against criteria like goal ownership, delegation control, and cognitive recoverability.
+Rooted in Knowles's andragogical model, adult learning assumes learners are self-directed, draw on life experience, are motivated by immediate and practical goals, and benefit most when learning connects to their real-world roles. These assumptions matter for AI design because generative AI can now participate in almost every stage of learning — identifying needs, setting goals, interpreting information, producing outputs, and evaluating performance. When AI performs so much of the cognitive work, behavioral independence from the tool no longer guarantees that the learner actually directed the learning. Research accordingly reframes self-direction as an active design goal rather than an assumed default, and evaluates adult-learning AI against criteria like goal ownership, delegation control, and cognitive recoverability.
 
 ## Evidence from connected articles
 
@@ -37,7 +37,7 @@ Rooted in Knowles's andragogical model, adult learning assumes learners are self
 
 ## Connections to related concepts
 
-Adult learning sits at the intersection of several closely linked concepts in this knowledge base. [[higher-ed]] supplies the institutional context in which much adult and distance learning occurs, while [[professional-training]] covers its workforce and [[lifelong-learning]] its continuous-education dimension. [[vocational-education|Vocational education and training]] is the neighbour that names an occupation rather than a learner: adult learning describes what learners bring to any context — self-direction, prior experience, immediate practical goals. VET names initial, practice-proximal preparation for a named trade or technical role, judged by demonstrated competence with equipment and framed by qualification frameworks rather than by andragogical dispositions. [[online-teaching-and-learning|Online teaching and learning]] is the dominant delivery medium for adult learners — who often study at work or at home — so its affordances (24/7 access, asynchronous support) and risks ([[academic-integrity|integrity]], [[cognitive-offloading|offloading]]) are central to adult-[[learning-design|learning design]]. [[self-regulated-learning]] and [[agency]] name the learner capacities that AI must protect rather than erode, and [[cognitive-offloading]] captures the mechanism by which AI can either support or undermine them. [[inclusive-learning]] and [[equity-in-ai-education]] frame the equity obligations of adult AI tools, [[human-in-the-loop-ai]] names the design pattern that keeps humans accountable, and [[scaffolding]] describes the graduated support such tools should provide.
+Adult learning sits at the intersection of several closely linked concepts. [[higher-ed]] supplies the institutional context in which much adult and distance learning occurs, while [[professional-training]] covers its workforce and [[lifelong-learning]] its continuous-education dimension. [[vocational-education|Vocational education and training]] is the neighbour that names an occupation rather than a learner: adult learning describes what learners bring to any context — self-direction, prior experience, immediate practical goals. VET names initial, practice-proximal preparation for a named trade or technical role, judged by demonstrated competence with equipment and framed by qualification frameworks rather than by andragogical dispositions. [[online-teaching-and-learning|Online teaching and learning]] is the dominant delivery medium for adult learners — who often study at work or at home — so its affordances (24/7 access, asynchronous support) and risks ([[academic-integrity|integrity]], [[cognitive-offloading|offloading]]) are central to adult-[[learning-design|learning design]]. [[self-regulated-learning]] and [[agency]] name the learner capacities that AI must protect rather than erode, and [[cognitive-offloading]] captures the mechanism by which AI can either support or undermine them. [[inclusive-learning]] and [[equity-in-ai-education]] frame the equity obligations of adult AI tools, [[human-in-the-loop-ai]] names the design pattern that keeps humans accountable, and [[scaffolding]] describes the graduated support such tools should provide.
 
 ## Implications for adult-education instructors and designers
 

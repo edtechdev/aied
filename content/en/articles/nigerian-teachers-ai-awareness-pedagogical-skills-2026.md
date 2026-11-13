@@ -1,6 +1,6 @@
 ---
 title: "Levels of AI awareness and pedagogical skills among Nigerian teachers: The differentials of gender and teachers’ experience"
-created: "2026-10-04T09:12:00-04:00"
+created: "2026-10-04T09:06:19-04:00"
 updated: "2026-10-04T09:12:00-04:00"
 type: article
 sources: ['raw/papers/nigerian-teachers-ai-awareness-pedagogical-skills-2026.md']

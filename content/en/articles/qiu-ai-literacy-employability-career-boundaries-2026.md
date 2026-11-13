@@ -1,7 +1,7 @@
 ---
 title: "Breaking career boundaries in the AI era: how AI literacy relates to university students' perceived employability through future work self salience and boundaryless career mindset"
 published: "2026-11-04"
-created: "2026-11-05T09:20:00-05:00"
+created: "2026-11-05T09:17:05-05:00"
 updated: "2026-11-05T09:20:00-05:00"
 type: article
 sources: ['raw/papers/qiu-ai-literacy-employability-career-boundaries-2026.md']

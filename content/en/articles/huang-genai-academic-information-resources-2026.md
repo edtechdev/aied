@@ -1,6 +1,6 @@
 ---
 title: "Generative artificial intelligence reshapes university students’ sustainable use of academic information resources: mixed evidence from behavioral logs and perceptual survey data"
-created: "2026-11-04T15:00:00-05:00"
+created: "2026-11-04T13:24:11-05:00"
 updated: "2026-11-04T15:00:00-05:00"
 type: article
 sources: ['raw/papers/huang-genai-academic-information-resources-2026.md']

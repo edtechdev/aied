@@ -1,6 +1,6 @@
 ---
 title: "Generative AI use and scientific literacy among 15-year-olds in Beijing, Shanghai, Jiangsu, and Zhejiang, China"
-created: "2026-11-10T18:30:00-05:00"
+created: "2026-11-10T18:19:20-05:00"
 updated: "2026-11-10T18:30:00-05:00"
 type: article
 page_kind: [synthesis]

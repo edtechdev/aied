@@ -1,6 +1,6 @@
 ---
 title: "Seeing Is Solving: MLLMs, Reasoning, and Refusal in Visual Math"
-created: "2026-11-05T20:00:00-05:00"
+created: "2026-11-05T19:50:53-05:00"
 updated: "2026-11-05T20:00:00-05:00"
 type: article
 sources: ['raw/papers/croteau-mllm-visual-math-reasoning-refusal-2025.md']

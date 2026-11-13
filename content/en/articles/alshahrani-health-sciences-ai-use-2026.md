@@ -1,6 +1,6 @@
 ---
 title: "Bridging technology and pedagogy: a cross-sectional analysis of AI use, self-reported academic effects, and ethical concerns among students across diverse health science curricula"
-created: "2026-11-04T12:00:00-05:00"
+created: "2026-11-04T09:20:30-05:00"
 updated: "2026-11-04T12:00:00-05:00"
 type: article
 foundations: [ai-literacy, academic-integrity]

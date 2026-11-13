@@ -1,6 +1,6 @@
 ---
 title: "GenAI-based metacognitive prompting in collaborative inquiry: A comparison across diverse preconception groups"
-created: "2026-11-01T06:30:00-05:00"
+created: "2026-11-01T05:44:32-05:00"
 updated: "2026-11-01T06:30:00-05:00"
 type: article
 sources: ['raw/papers/wang-genai-metacognitive-prompting-preconceptions-2026.md']

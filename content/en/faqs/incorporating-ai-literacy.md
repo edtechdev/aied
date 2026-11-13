@@ -1,7 +1,7 @@
 ---
 title: "How Should I Incorporate AI Literacy into My Course?"
 created: "2026-08-24T09:50:00-04:00"
-updated: "2026-10-28T11:06:17-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
@@ -39,7 +39,7 @@ The default institutional move is a standalone module, usually early in the term
 
 The [[quantitative-research|quantitative]] evidence points the same direction. A [[liu-ai-literacy-interventions-meta-analysis-2026|meta-analysis of 59 AI-literacy interventions]] found the largest effects for integrated and reflective pedagogies. It also cautions that knowledge-focused interventions show larger *measured* effects than those targeting skills, attitudes or ethics. Keep that in mind when you choose what to measure.
 
-The other reason to build on existing work is workload. A 2026 synthesis of 72 empirical studies of [[generative-ai|generative AI]] in [[cs-education|computing education]] finds the strongest, most replicated result in the corpus is that AI reliably raises short-term completion and reduces time on task, across 36 studies. Those gains "do not transfer to independent performance," according to 21 studies. Students complete more while understanding less unless critical engagement with the output is structurally required ([[kumar-genai-computing-education-systematic-review-2026|Generative AI in computing education: a systematic review and a framework for responsible integration]]).
+The other reason to build on existing work is workload. A 2026 synthesis of 72 empirical studies of [[generative-ai|generative AI]] in [[cs-education|computing education]] finds that the strongest, most replicated result is that AI reliably raises short-term completion and reduces time on task, across 36 studies. Those gains "do not transfer to independent performance," according to 21 studies. Students complete more while understanding less unless critical engagement with the output is structurally required ([[kumar-genai-computing-education-systematic-review-2026|Generative AI in computing education: a systematic review and a framework for responsible integration]]).
 
 Benefit also depends on [[prior-knowledge|prior knowledge]]. Well-prepared students convert AI help into durable skill. Under-prepared students risk using it as a crutch that removes [[productive-failure|productive failure]]. The review's default recommendation is graduated access: AI-free foundations first, then guided use with mandatory explanation tasks, then reflective critique. That sequence fits an existing course far more easily than a new unit does. [[learning-design]] is where to work out the staging, and [[curriculum-design]] is the program-level version of the same problem.
 
@@ -57,7 +57,7 @@ Students can annotate an AI response for factual errors, unsupported claims, bia
 
 The pattern worth building a task around is plausible but imperfect output plus a student in the critic's or editor's chair. Finding the mistakes is one of the more reliable routes to calibration and [[critical-thinking|higher-order thinking]].
 
-Treat that as a competence you teach, because it does not arrive with subject knowledge. In the computing-education synthesis, students performed significantly *worse* on correcting AI-generated code than on traditional programming [[summative-assessment|examination]] tasks. That is direct evidence that evaluating and repairing output does not transfer automatically from general disciplinary skill, and that without instruction students will resubmit incorrect work without noticing. The review folds this into its VIE framework (Verification, Implementation, Equity) and argues that critical engagement should be a graded, observable component of student work, calling it "the common mechanism linking every effective intervention in the corpus."
+Treat that as a competence you teach, because it does not arrive with subject knowledge. In the computing-education synthesis, students performed significantly *worse* on correcting AI-generated code than on traditional programming [[summative-assessment|examination]] tasks. That is direct evidence that evaluating and repairing output does not transfer automatically from general disciplinary skill, and that without instruction students will resubmit incorrect work without noticing. The review folds this into its VIE framework (Verification, Implementation, Equity) and argues that critical engagement should be a graded, observable component of student work, calling it the common mechanism linking every effective intervention it reviewed.
 
 Practical version: one rubric line for the error you expected them to catch, one for the repair, one for the justification. If the critique carries no points, it gets three sentences on the way out the door.
 
@@ -67,7 +67,7 @@ Generic rules such as "check AI for [[hallucination-risk|hallucinations]]" are w
 
 Write that list yourself, from your own marking, before the term starts. Five examples from your field will do more work than a general checklist, and they double as the error bank for the critique task above.
 
-Repetition is the other half. One exercise in week three produces a student who has done the exercise. The same exercise in three assignments, on different material, produces a habit, and the cases in this corpus that show [[discipline-specific-aied|discipline-specific]] integration are the ones where the practice recurs across a course rather than sitting in a single session.
+Repetition is the other half. One exercise in week three produces a student who has done the exercise. The same exercise in three assignments, on different material, produces a habit, and the cases that show [[discipline-specific-aied|discipline-specific]] integration are the ones where the practice recurs across a course rather than sitting in a single session.
 
 ## Borrow the models that already exist in your field
 
@@ -91,7 +91,7 @@ The evidence supports cognitively [[active-learning|active]] and [[collaborative
 
 ## Assess judgment with a task
 
-Students overestimate how well they can evaluate AI, and a [[self-report-measures|self-reported]] confidence item will confirm the error rather than expose it. The knowledge base documents a significant mismatch between self-reported and performance-based AI literacy, and recommends performance assessment ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]]; [[jin-glat-genai-literacy-assessment|GLAT]]).
+Students overestimate how well they can evaluate AI, and a [[self-report-measures|self-reported]] confidence item will confirm the error rather than expose it. A significant mismatch separates self-reported and performance-based AI literacy, and the evidence recommends performance assessment ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]]; [[jin-glat-genai-literacy-assessment|GLAT]]).
 
 Instead of a confidence item, give them something to do: detect an error, verify a source, improve an output, explain a limitation, justify why a particular use of AI is appropriate for a particular task.
 
@@ -121,7 +121,7 @@ The activity has to be about the tool. The stronger designs are about the discip
 
 Critical evaluation transfers from subject knowledge. It does not, which is why the computing result matters. A student who can write correct code is not automatically able to diagnose incorrect code someone else wrote, and the same gap appears in prose.
 
-Confidence is a usable proxy. Self-report and performance diverge in this literature, and the divergence is systematic enough that the knowledge base recommends performance measures. Ask for a demonstration.
+Confidence is a usable proxy. Self-report and performance diverge in this literature, and the divergence is systematic enough to warrant performance measures. Ask for a demonstration.
 
 ## What will come back at you
 
@@ -133,7 +133,7 @@ Confidence is a usable proxy. Self-report and performance diverge in this litera
 
 **"Reflection and critique are too subjective to grade."** They are subjective when the rubric says "thoughtful." They become gradeable when you name the error to be caught, the repair, and the justification, which is the same move as any other rubric line.
 
-**"Our students are underprepared, so AI will widen the gap."** The evidence supports the worry. Prior knowledge conditions whether AI help becomes skill, and the interaction study concludes the tools may favor already advantaged students. Graduated access, AI-free foundations and taught interaction are the responses the corpus offers, and each is something you can set up this term.
+**"Our students are underprepared, so AI will widen the gap."** The evidence supports the worry. Prior knowledge conditions whether AI help becomes skill, and the interaction study concludes the tools may favor already advantaged students. Graduated access, AI-free foundations and taught interaction are the available responses, and each is something you can set up this term.
 
 **"This is the library's job, or the writing center's."** Those services can teach generic evaluation. Only your course can teach what a weak argument looks like in your discipline, and that is the version students carry into your assignments.
 

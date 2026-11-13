@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-11-12T10:45:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -111,7 +111,7 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 
 ## Why this is distinct from well-being
 
-[[well-being]] is the broad positive state (emotional, psychological, social health) that AI can support or undermine. **AI anxiety and stress** is the specific, measurable emotion-construct within that space — it names the discrete negative affect and its productive uses, and it has its own dedicated evidence base (proctoring stress, productive AI anxiety, AI-driven stress detection). Rather than rivaling well-being, this page develops the anxiety/stress dimension in depth and cross-links heavily to [[well-being]], [[social-emotional-learning]], [[affective-computing]], and [[remote-proctoring]].
+[[well-being]] is the broad positive state (emotional, psychological, social health) that AI can support or undermine. **AI anxiety and stress** is the specific, measurable emotion-construct within that space — it names the discrete negative affect and its productive uses, and it has its own dedicated evidence base (proctoring stress, productive AI anxiety, AI-driven stress detection). Rather than rivaling well-being, the anxiety/stress dimension has its own literature, developed in depth and linked to [[well-being]], [[social-emotional-learning]], [[affective-computing]], and [[remote-proctoring]].
 
 ## Practical guidance
 - **Design for anxiety, not just integrity.** Proctoring and AI-monitoring systems should minimize false accusations and surveillance stress, especially for novice and vulnerable students; pair monitoring with accessible alternatives and clear communication.

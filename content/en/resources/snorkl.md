@@ -1,6 +1,6 @@
 ---
 title: "Snorkl"
-created: "2026-10-07T09:15:00-04:00"
+created: "2026-10-07T08:20:41-04:00"
 updated: "2026-10-07T09:15:00-04:00"
 type: resource
 summary: "A classroom tool that gives students instant AI feedback on recorded spoken and drawn explanations of their thinking, and gives teachers analytics on those explanations."

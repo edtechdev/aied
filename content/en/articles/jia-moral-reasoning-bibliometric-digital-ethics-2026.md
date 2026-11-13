@@ -1,7 +1,7 @@
 ---
 title: "Mapping moral reasoning research among college students: a bibliometric analysis of traditional foundations and emerging digital ethics"
 published: "2026-10-31"
-created: "2026-11-02T09:24:00-05:00"
+created: "2026-11-02T09:12:23-05:00"
 updated: "2026-11-02T09:24:00-05:00"
 type: article
 sources: ['raw/papers/jia-moral-reasoning-bibliometric-digital-ethics-2026.md']

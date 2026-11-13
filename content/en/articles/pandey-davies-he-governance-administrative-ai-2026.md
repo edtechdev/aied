@@ -1,6 +1,6 @@
 ---
 title: "Higher education governance under AI and geopolitical disruption: a socio-technical framework for administrative artificial intelligence"
-created: "2026-11-04T15:25:17-05:00"
+created: "2026-11-04T15:12:40-05:00"
 updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [theories-and-frameworks, theory-development-aied, human-ai-collaboration]

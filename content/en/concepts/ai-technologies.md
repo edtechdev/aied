@@ -1,31 +1,31 @@
 ---
 title: Technologies
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 reviewed_by: [editor]
 ---
-> **Technologies** — the models, architectures, and methods that power AI education systems, and the umbrella concept for the knowledge base's coverage of the technical layer. Where [[pedagogy]] and [[learning-theories]] concern *how teaching and learning happen*, and [[ai-ed-evaluation]] concerns *whether AI works*, this page anchors the *technical* strand: the AI systems ([[llm|large language models]], [[generative-ai|generative AI]], [[multimodal|multimodal models]], [[educational-robotics|robots]]) and the techniques used to build, control, and deploy them ([[prompt-engineering]], [[rag|retrieval-augmented generation]], [[reinforcement-learning]], [[educational-nlp]], [[knowledge-graph|knowledge graphs]], [[agentic-ai|agentic orchestration]]).
+> **Technologies** — the models, architectures, and methods that power AI education systems, and the umbrella concept for the technical layer. Where [[pedagogy]] and [[learning-theories]] concern *how teaching and learning happen*, and [[ai-ed-evaluation]] concerns *whether AI works*, the *technical* strand covers the AI systems ([[llm|large language models]], [[generative-ai|generative AI]], [[multimodal|multimodal models]], [[educational-robotics|robots]]) and the techniques used to build, control, and deploy them ([[prompt-engineering]], [[rag|retrieval-augmented generation]], [[reinforcement-learning]], [[educational-nlp]], [[knowledge-graph|knowledge graphs]], [[agentic-ai|agentic orchestration]]).
 
 ## Questions to Consider
 
-- You can be an excellent educator without being able to build an LLM — but this page argues your technical choices still shape what AI can and can't do in your classroom. What is one way the underlying technology of an AI tool might quietly change how your students learn, even if you never see the code?
+- Teaching well does not require building an LLM, but the model and retrieval choices underneath an AI tool still decide what it can do in your classroom. What is one way the underlying technology of an AI tool might quietly change how your students learn, even if you never see the code?
 - A common assumption is that the model is the whole story — but techniques like retrieval-augmented generation (RAG) and prompt engineering exist precisely to control and ground LLM output. Before reading further, when you ask an AI to 'be more accurate' or 'use this source', what do you think is actually happening under the hood?
 - RAG is described as a core technique for reducing hallucination and improving safety. Why do you think fetching relevant knowledge to 'ground' an AI's answer would matter more for education than for, say, casual chat — and what could go wrong if that grounding fails?
-- The page claims that technical choices embody pedagogical assumptions: a tutor built on Socratic prompting reasons with learners, while an answer-generating model may just hand over solutions. Can you recall an AI tool you've used that seemed to 'assume' a particular teaching philosophy — and did that align with how you actually wanted to teach or learn?
-- Beyond raw accuracy, this page suggests AI systems should be evaluated on reliability, pedagogy, and equity. What headline metric do you suspect most people (including many educators) default to when judging whether an AI tool 'works', and why might that metric hide more than it reveals?
+- Technical choices embody pedagogical assumptions: a tutor built on Socratic prompting reasons with learners, while an answer-generating model may just hand over solutions. Can you recall an AI tool you've used that seemed to 'assume' a particular teaching philosophy — and did that align with how you actually wanted to teach or learn?
+- Beyond raw accuracy, AI systems should be evaluated on reliability, pedagogy, and equity. What headline metric do you suspect most people (including many educators) default to when judging whether an AI tool 'works', and why might that metric hide more than it reveals?
 - Agentic AI is described as shifting AI 'from a prompt-responding tool into a proactive collaborator.' How might a system that initiates and orchestrates multi-step workflows on its own change what you, as an instructor or learner, are responsible for — and who holds it accountable?
 
 ## Introduction
 
-[[ai-education|AI in education]] runs on a specific technical stack, and understanding it matters for [[teacher-role|educators]] and researchers even when they do not build systems themselves — because technical choices shape what AI can and cannot do in the classroom, the risks it carries, and how to evaluate it. This page organizes the knowledge base's technical-concept coverage: the AI systems, the techniques that adapt and control them, and how the technical layer connects to pedagogy, assessment, and evaluation.
+[[ai-education|AI in education]] runs on a specific technical stack, and understanding it matters for [[teacher-role|educators]] and researchers even when they do not build systems themselves — because technical choices shape what AI can and cannot do in the classroom, the risks it carries, and how to evaluate it. The technical layer covers the AI systems, the techniques that adapt and control them, and how it connects to pedagogy, assessment, and evaluation.
 
 ## AI systems in education
 
-- **Large language models (LLMs).** The computational backbone of most modern [[ai-education|AIED]] — [[llm|LLMs]] generate human-like text for tutoring, assessment, and content generation, and are the most-referenced technology in the knowledge base. [[llm-training-and-fine-tuning|Training and fine-tuning]] adapts general LLMs for educational use.
+- **Large language models (LLMs).** The computational backbone of most modern [[ai-education|AIED]] — [[llm|LLMs]] generate human-like text for tutoring, assessment, and content generation, and are the most-referenced technology in the field. [[llm-training-and-fine-tuning|Training and fine-tuning]] adapts general LLMs for educational use.
 - **Generative AI.** The broader category of systems that produce text, code, images, and other content — [[generative-ai|generative AI]] (driven chiefly by LLMs) is the technology behind the current wave of [[ai-education|AIED]] research. See also [[multimodal|multimodal models]] (text, image, audio) and [[simulation]].
 - **Robots and [[embodied-learning|embodied]] systems.** [[educational-robotics|Robots in education]] add an embodied and often [[community-of-inquiry|social presence]] — programmable kits for [[computational-thinking|computational thinking]] and humanoid/social robots for tutoring, [[storytelling-in-education|storytelling]], and role-play. Robotics is a distinct technical strand that overlaps [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] design.
 - **Knowledge-based systems.** [[knowledge-graph|Knowledge graphs]] and [[educational-nlp|educational NLP]] represent and process domain knowledge, increasingly combined with LLMs for grounded, explainable tutoring.
@@ -37,11 +37,11 @@ reviewed_by: [editor]
 - **Reinforcement learning.** [[reinforcement-learning|Reinforcement learning]] trains agents to optimize behavior over time, used in [[adaptive-learning|adaptive systems]] and [[game-based-learning|game-based learning]].
 - **Agentic orchestration.** [[agentic-ai|Agentic AI]] systems plan and execute multi-step workflows — often orchestrating multiple specialized agents (see [[agentic-ai|multi-agent systems]]) — and are reshaping AI from a prompt-responding tool into a proactive collaborator.
 - **The educational agent stack lags the frontier.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] mapped 474 studies and found GPT-series models and LangChain dominant while governed tool orchestration, persistent memory, and long-horizon planning were largely absent — and only 138 of 474 (29%) drew on educational theory.
-- **Model training and adaptation.** [[llm-training-and-fine-tuning|LLM training and fine-tuning]], [[educational-llm-alignment|educational alignment]], and [[cstutorbench-slm-tutors|small-language-model adaptation]] make general models education-specific — though the evidence in the knowledge base puts [[rag|retrieval]] and [[prompt-engineering|prompting]] ahead of training in the decision order, since a well-grounded prompt is cheaper than an adapted model.
+- **Model training and adaptation.** [[llm-training-and-fine-tuning|LLM training and fine-tuning]], [[educational-llm-alignment|educational alignment]], and [[cstutorbench-slm-tutors|small-language-model adaptation]] make general models education-specific — though the evidence puts [[rag|retrieval]] and [[prompt-engineering|prompting]] ahead of training in the decision order, since a well-grounded prompt is cheaper than an adapted model.
 
 ## How the technical layer connects to the field
 
-The technical strand is inseparable from the knowledge base's other themes:
+The technical strand is inseparable from the field's other themes:
 
 - **Pedagogy:** technical choices embody pedagogical assumptions — a [[intelligent-tutoring|tutor]] built on [[socratic-method|Socratic prompting]] reasons with learners, while an answer-generating model may default to direct provision (see [[pedagogy|pedagogies and teaching strategies]]).
 - **Assessment and evaluation:** [[ai-ed-evaluation]] and [[benchmark|benchmarks]] determine whether AI systems actually work; [[assessment]] and [[automated-assessment]] use the technical stack to grade and generate.
@@ -62,7 +62,7 @@ The technical strand is inseparable from the knowledge base's other themes:
 
 **"The field's technical maturity is established."** The mapping is thin where it matters: across **474 studies**, GPT-series models and LangChain were dominant while **governed tool orchestration, persistent memory, and long-horizon planning were largely absent**, and only **138 of 474 (29%)** drew on educational theory. The stack being used is far narrower than the stack the field needs.
 
-**"Technical choices are the technologist's business, not the educator's."** The page's framing is that you can be an excellent educator without being able to build an LLM and your technical choices still shape what AI can and cannot do in your classroom. Whether a system grounds its answers in course material is a decision with pedagogical consequences that someone has to make.
+**"Technical choices are the technologist's business, not the educator's."** You can be an excellent educator without being able to build an LLM and your technical choices still shape what AI can and cannot do in your classroom. Whether a system grounds its answers in course material is a decision with pedagogical consequences that someone has to make.
 
 **"A more capable model will resolve the field's gaps."** Orchestration, memory and long-horizon planning are architectural rather than capability problems — the documented absence is of systems that govern their own tool use over time, which a better model does not supply on its own.
 

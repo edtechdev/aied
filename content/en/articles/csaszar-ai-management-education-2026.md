@@ -1,6 +1,6 @@
 ---
 title: "The effects of artificial intelligence on management education"
-created: "2026-11-07T12:30:00-05:00"
+created: "2026-11-07T09:26:35-05:00"
 updated: "2026-11-07T12:30:00-05:00"
 type: article
 published: "2026"

@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Help Me Give Better Feedback at Scale?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-11T09:00:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -90,7 +90,7 @@ Aldino et al. find the same assist-then-verify pattern in ordinary practice. The
 
 Twelve of Aldino et al.'s 21 teachers made further sentence-level revisions, and the dominant pattern was calibrating tone: editing praise down (f = 11), removing suggestions (f = 9), removing encouragement (f = 8). Revisions clustered in the relational dimension, especially Student-Teacher Relationship (f = 24). They were protecting authenticity and professional voice, and that work does not automate.
 
-Students are the other side of that verification, and their account of the division of labor is close to the one this page recommends. In focus groups of 20 undergraduates, instructor feedback was valued for being relational, personalized and expert-driven, while AI-generated feedback read as impersonal and potentially unfair; those same students were open to a hybrid model in which the instructor reads their work and supplements the model's comments ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). The same study found their judgments aligned with ChatGPT's on specificity and actionability but diverged on timeliness and positivity, so the dimensions where a model's own verdict can be trusted are narrower than the full rubric.
+Students are the other side of that verification, and their account of the division of labor is close to the recommended one. In focus groups of 20 undergraduates, instructor feedback was valued for being relational, personalized and expert-driven, while AI-generated feedback read as impersonal and potentially unfair; those same students were open to a hybrid model in which the instructor reads their work and supplements the model's comments ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). The same study found their judgments aligned with ChatGPT's on specificity and actionability but diverged on timeliness and positivity, so the dimensions where a model's own verdict can be trusted are narrower than the full rubric.
 
 ## Teach students to read the comment
 
@@ -142,6 +142,6 @@ Satisfaction ratings tell you the comments are accurate. In the Deakin pilot, po
 
 ## Where to go next
 
-[[feedback]] is the umbrella concept for the whole system: provision, loop, uptake and assessment context. [[ai-feedback-quality|AI feedback quality]] covers what makes generated comments accurate, useful, timely and pedagogically sound, and this page is the practical middle, about which combinations of those parts produce better feedback at scale.
+[[feedback]] is the umbrella concept for the whole system: provision, loop, uptake and assessment context. [[ai-feedback-quality|AI feedback quality]] covers what makes generated comments accurate, useful, timely and pedagogically sound, and the practical question is which combinations of those parts produce better feedback at scale.
 
 Questions about what a grade should mean once AI is involved, including construct substitution, authenticated process evidence and integrity rules, belong to [[redesign-assessment-ai-era|redesigning assessment in the AI era]] and [[assessment-validity|assessment validity]] rather than here. For the writing-instruction special case, see [[writing-instruction-ai-best-practices|best practices for writing instruction in the context of AI]].

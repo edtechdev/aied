@@ -1,7 +1,7 @@
 ---
 title: "What Measures and Research Methods Can an Instructor Use to Evaluate AI-Related Interventions?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-28T11:47:13-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 audience: [instructors, researchers, faculty developers]
@@ -35,7 +35,7 @@ Match the method to the claim. A survey tells you whether students liked the act
 
 The [[research-methods-aied|Research Methods in AIED]] page sets out what each option buys. Randomized experiments give the strongest causal inference. Quasi-experimental pre/post or matched-group designs fit intact classes and support weaker claims. [[qualitative-research|Qualitative]] interviews, focus groups, observations, and artifact analysis reveal mechanisms and unexpected experience. [[mixed-methods-research|Mixed methods]] pair outcome evidence with an explanation. [[design-based-research|Design-based research]] suits an instructor refining an intervention across iterations.
 
-AI-assisted qualitative analysis belongs on that list with a condition. It reorganizes an interview corpus in minutes, so [[chain-behind-claim-warrantability-2026|warrantability]] matters as much as accuracy: record the documented reorganizations that let a reader inspect, contest, and revise the pathway from data to claim.
+AI-assisted qualitative analysis belongs on that list with a condition. It reorganizes interview transcripts in minutes, so [[chain-behind-claim-warrantability-2026|warrantability]] matters as much as accuracy: record the documented reorganizations that let a reader inspect, contest, and revise the pathway from data to claim.
 
 A survey is a [[self-report-measures|self-report measure]]: right for attitudes, wrong for learning.
 

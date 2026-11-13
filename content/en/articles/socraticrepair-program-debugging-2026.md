@@ -1,6 +1,6 @@
 ---
 title: "SocraticRepair: Planning-Guided Socratic Tutoring for Program Debugging and Misconception Repair"
-created: "2026-10-14T09:30:00-04:00"
+created: "2026-10-14T09:27:34-04:00"
 updated: "2026-10-14T09:30:00-04:00"
 type: article
 sources: ['raw/papers/socraticrepair-program-debugging-2026.md']

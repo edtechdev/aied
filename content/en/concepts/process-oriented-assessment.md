@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-11-12T15:20:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -33,7 +33,7 @@ Assessment in [[higher-ed|higher education]] has long inferred the thinking from
 
 It helps to say what the concept is not. It is not [[authentic-assessment|authentic assessment]], which asks whether a task mirrors worthwhile real-world practice; Thapa and Lewis keep the axes separate and insist that an authentic task with a single unsupervised product is still exposed. It is not [[ai-detection|AI detection]], which asks whether the tool was used rather than how a decision was made. And it is not [[automated-assessment|automated assessment]], which concerns who or what does the marking: a machine-graded staged [[eportfolio|portfolio]] can be process-oriented, and a human-graded final essay need not be. The concept concerns which evidence is collected, over what period, and under what conditions it is produced.
 
-The idea has moved from a proposition to a recurring recommendation across the knowledge base. It appears as a named priority in [[ai-education|AIED]]'s agenda for learner [[agency]] and [[motivation]], as the organizing research agenda for the [[transfer-of-learning|retention and transfer]] problem in [[genai-performance-vs-learning|performance-versus-learning]] research, as "Black Box Assessment" in Brunnström and Palmqvist's account of [[self-regulated-learning|self-regulated learning]] with AI, and as a request from practicing teacher educators who found their take-home written work could no longer evidence learning at all.
+The idea has moved from a proposition to a recurring recommendation across the research. It appears as a named priority in [[ai-education|AIED]]'s agenda for learner [[agency]] and [[motivation]], as the organizing research agenda for the [[transfer-of-learning|retention and transfer]] problem in [[genai-performance-vs-learning|performance-versus-learning]] research. It also appears as "Black Box Assessment" in Brunnström and Palmqvist's account of [[self-regulated-learning|self-regulated learning]] with AI, and as a request from practicing teacher educators who found their take-home written work could no longer evidence learning at all.
 
 ## What process evidence looks like in practice
 

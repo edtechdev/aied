@@ -1,6 +1,6 @@
 ---
 title: "Generative AI use and self-perceived employability among young adults in China: indirect associations through career decision-making self-efficacy and trust in generative AI"
-created: "2026-11-12T08:20:00-05:00"
+created: "2026-11-12T06:36:55-05:00"
 updated: "2026-11-12T08:20:00-05:00"
 type: article
 page_kind: [evaluation]

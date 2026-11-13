@@ -1,6 +1,6 @@
 ---
 title: "The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making"
-created: "2026-11-10T19:25:00-05:00"
+created: "2026-11-10T18:45:46-05:00"
 updated: "2026-11-10T19:25:00-05:00"
 type: article
 sources: ['raw/papers/nixon-social-cost-ai-teammate-2026.md']

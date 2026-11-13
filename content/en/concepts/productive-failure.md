@@ -1,7 +1,7 @@
 ---
 title: Productive Failure
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-11-11T15:26:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -16,11 +16,11 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - Have you ever learned more from failing at something first than from being shown how to do it? What made that failure 'productive' rather than just discouraging?
-- The page's core claim is that the *order* matters: struggling to generate solutions *before* instruction produces deeper learning. What do you think happens in the brain during that struggle that later instruction can build on?
+- The core claim is that the *order* matters: struggling to generate solutions *before* instruction produces deeper learning. What do you think happens in the brain during that struggle that later instruction can build on?
 - Not all failures are equal: 'mistakes' (slips) may carry little diagnostic value, while 'errors' reveal genuine misconceptions. How might telling these apart change how you respond to a struggling learner—or how an AI tutor should respond?
 - The 'Safety Gap' is the divergence between a student's AI-assisted performance and their unassisted capability. When does help that makes a student look capable actually mask what they can't yet do?
 - An AI that withholds answers to preserve struggle can be perceived as less helpful. If you were a student, how would you react to a tutor that refused to give you the answer—and would that reaction match what's best for your learning?
-- How might the fear of making mistakes in front of peers (or an AI) shut down the very productive struggle the page describes? What would a 'safe space' for failing need to include?
+- How might the fear of making mistakes in front of peers (or an AI) shut down the very productive struggle that makes failure useful? What would a 'safe space' for failing need to include?
 
 ## Introduction
 
@@ -53,7 +53,7 @@ Learning from errors depends on feedback that helps learners see what was wrong 
 
 ## Productive failure and AI in education
 
-A major theme in the knowledge base's [[research-methods-aied|research]] is the tension between AI's helpfulness and the preservation of productive struggle:
+A major theme in the [[research-methods-aied|research]] is the tension between AI's helpfulness and the preservation of productive struggle:
 
 - **The risk: AI erases the struggle.** Overly "helpful," Oracle-style AI that supplies answers directly can eliminate the productive struggle necessary for schema construction, creating what [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] call the **Safety Gap** — the divergence between a student's AI-assisted performance and their internal, unassisted capability. This connects to [[cognitive-offloading]]: AI that substitutes for effort erodes the very capacities education builds.
 - **The design response: AI that scaffolds struggle.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive five design principles for AI supporting productive-failure-based learning ([[human-ai-collaboration|human-AI collaboration]], [[usability-research|usability]], reflective design, emotional design, open knowledge), emphasizing that AI should preserve struggle while offering non-directive support. [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show [[llm]] tutors can be *steered* to follow productive-failure pedagogy (withhold solutions, elicit multiple attempts), at the cost of perceived helpfulness. CoMeT (Hou et al. 2026) prices that cost and locates the middle: its escalating tutor was 0.42 scale points more frustrating than the tutor that answered on request (p < .001) and 0.29 less frustrating than the one that only asked questions (p = .011), with distress detected in 8.4% of its sessions against 16.0% under the withholding tutor, and it surrendered the full answer in 6.1% of sessions. A floor that opens on an explicit statement of giving up rather than on frustration follows from the same design — without one, the learners who most need the demand route around it.

@@ -1,6 +1,6 @@
 ---
 title: "Adoption of generative artificial intelligence by university marketing students"
-created: "2026-11-04T15:25:17-05:00"
+created: "2026-11-04T15:12:40-05:00"
 updated: "2026-11-04T16:51:25-05:00"
 type: article
 sources: ['raw/papers/pinedo-genai-adoption-marketing-students-2026.md']

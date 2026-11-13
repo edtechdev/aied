@@ -1,7 +1,7 @@
 ---
 title: AI Avatars and Synthetic Instructors
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -35,7 +35,7 @@ ai_assist:
 
 An AI avatar is a rendered or animated human representation driven by a model; a synthetic instructor is that representation placed in a teaching role. The two are not the same as an agent. [[theelen-classroom-simulations-four-layer-framework-2026|Theelen et al. (2026)]] separate representation from [[agency]]: the avatar is what a participant sees, while the actor behind it may be a peer, a simulation specialist, a script, a rule-based system, or an [[llm|LLM]]. Two identical virtual students can therefore offer entirely different encounters.
 
-This page is organized by role: which role the synthetic human occupies, what evidence exists for it, and what the surface does to the learner's relationship with the system. The literature below spans lecture video, tutoring, clinical simulation, teacher rehearsal, role-play and assessment.
+The material is organized by role: which role the synthetic human occupies, what evidence exists for it, and what the surface does to the learner's relationship with the system. The literature below spans lecture video, tutoring, clinical simulation, teacher rehearsal, role-play and assessment.
 
 ## Six roles a synthetic human can occupy
 

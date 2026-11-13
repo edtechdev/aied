@@ -1,6 +1,6 @@
 ---
 title: "Tag, You Are It: Evaluating AI and Faculty Alignment in Question Categorization Across Four Competency Frameworks"
-created: "2026-11-10T22:10:00-05:00"
+created: "2026-11-10T19:39:31-05:00"
 updated: "2026-11-10T22:10:00-05:00"
 type: article
 sources: ['raw/papers/stewart-tag-question-categorization-competency-2026.md']

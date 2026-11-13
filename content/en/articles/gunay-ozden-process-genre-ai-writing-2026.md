@@ -1,6 +1,6 @@
 ---
 title: "The Effect of the Process–Genre Approach on AI-assisted and Multimodal Writing"
-created: "2026-10-29T10:32:00-04:00"
+created: "2026-10-29T09:15:13-04:00"
 updated: "2026-10-29T10:32:00-04:00"
 type: article
 authors: ["Günay, G.", "Özden, M."]

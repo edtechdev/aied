@@ -1,7 +1,7 @@
 ---
 title: "Pedagogical Partnerships"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -29,7 +29,7 @@ Pedagogical partnerships, also called **students as partners (SaP)**, describe a
 
 Pedagogical partnership challenges the entrenched assumption that students cannot be trusted to collaborate on teaching and learning, and it actively disrupts traditional faculty-centered hierarchies. It overlaps conceptually with [[collaborative-learning]], [[agency|learner agency]], and [[student-engagement]], but is distinct in centering students in the *design* of education itself — curriculum, assessment, teaching activities, open educational resources, and policy — rather than merely as active participants within a pre-designed course.
 
-In the [[generative-ai|generative AI]] era, pedagogical partnership has taken on new urgency. As AI amplifies deficit narratives that frame students as either cheaters or victims (see [[ai-misuse-learning-harm]] and [[framing-ai-use-for-students]]), partnership offers a counter-narrative: rather than policing students or assuming misuse, educators and institutions can engage students as co-designers of AI policy, tools, and practice. This is reflected across the knowledge base's research — from students co-designing course AI policies to co-creating custom AI tools and co-constructing assessment criteria.
+In the [[generative-ai|generative AI]] era, pedagogical partnership has taken on new urgency. As AI amplifies deficit narratives that frame students as either cheaters or victims (see [[ai-misuse-learning-harm]] and [[framing-ai-use-for-students]]), partnership offers a counter-narrative: rather than policing students or assuming misuse, educators and institutions can engage students as co-designers of AI policy, tools, and practice. This is reflected across the research: from students co-designing course AI policies to co-creating custom AI tools and co-constructing assessment criteria.
 
 ## Forms and scope of partnership
 
@@ -44,7 +44,7 @@ Across these forms, partnership is a *process and a relationship*, not just an a
 
 ## Pedagogical partnership and AI in education
 
-The intersection of pedagogical partnership and AI is one of the fastest-growing strands of the knowledge base. Key themes:
+The intersection of pedagogical partnership and AI is one of the fastest-growing strands of the field. Key themes:
 
 - **Students as co-designers of AI policy.** Rather than institutions imposing AI rules on students, partnership positions students as co-creators of course- and institution-level AI policy. For example, a guided-inquiry activity in which students co-designed a [[generative-ai]] course policy surfaced student priorities around training, standardized disclosure, institutional support, and involvement in decision-making ([[guided-inquiry-genai-course-policy-2026]]).
 - **Students as co-creators of AI tools.** In students-as-partners frameworks, students have co-designed and refined custom AI [[conversational-ai|chatbots]] aligned with pedagogical goals — an approach that extends the SaP paradigm to include AI tools themselves and positions student voice as central to responsible AI innovation ([[lo-co-creating-custom-gpts-sap-2026]]).
@@ -83,7 +83,7 @@ Pedagogical partnership is related to but distinct from several neighboring conc
 
 ## Practical implications
 
-For educators and institutions seeking to adopt pedagogical partnership, the knowledge base's research suggests:
+For educators and institutions seeking to adopt pedagogical partnership, the research suggests:
 
 1. **Start small and iterate.** Begin with a bounded project — a pilot with a limited number of participants — and honor participant effort with recognition (employment, credit, certificates, publication).
 2. **Build on existing infrastructure.** [[educational-development|Faculty development]] programs, student employment relationships, and cross-campus partnerships provide foundations for adapting partnership practice.

@@ -1,7 +1,7 @@
 ---
 title: History of AI in Education
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-11-05T15:16:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
@@ -16,10 +16,10 @@ reviewed_by: [editor]
 
 - Today's generative AI is often described as an unprecedented revolution. How might that framing ('chronocentrism') prevent us from seeing the recurring patterns beneath it?
 - The field was almost named 'cybernetics' instead of 'artificial intelligence.' How might that single naming choice have shaped whether we see machines as independent intelligences or as part of interconnected feedback systems?
-- The page frames AIED history as a tension between control (Anderson's cognitive tutors optimizing instruction) and agency (Papert's constructionism empowering learners). Where do your own AI-in-education choices fall on that spectrum — and why?
-- Personalization, the page argues, has two meanings: varying the path to the same outcome, or enabling diverse, learner-directed outcomes. Which kind of personalization does your institution actually pursue, and which do you think it should?
+- AIED history is a tension between control (Anderson's cognitive tutors optimizing instruction) and agency (Papert's constructionism empowering learners). Where do your own AI-in-education choices fall on that spectrum — and why?
+- Personalization has two meanings: varying the path to the same outcome, or enabling diverse, learner-directed outcomes. Which kind of personalization does your institution actually pursue, and which do you think it should?
 - If today's GenAI debates 'mirror' these historical tensions, what past mistakes might we be repeating — and what might we avoid by remembering them?
-- The page claims technical design choices embed value judgments about learning's purpose. Can you identify a design decision in an AI education tool you've used that quietly favored standardization over [[agency|learner agency]] — or vice versa?
+- Technical design choices embed value judgments about learning's purpose. Can you identify a design decision in an AI education tool you've used that quietly favored standardization over [[agency|learner agency]] — or vice versa?
 
 ## Introduction
 
@@ -64,7 +64,7 @@ The arrival of [[generative-ai|generative AI]] — a broad family that includes 
 
 **"AI in education began with ChatGPT."** It did not, and the belief is costly because it makes every earlier lesson invisible. [[intelligent-tutoring|Intelligent tutoring]] descends from the heuristic-search and expert-systems work of the 1960s and 70s, and the AIED community formed around it decades before [[llm|large language models]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] show the current debates reproducing a divide already explicit in Anderson's cognitive tutors and Papert's constructionism, so a reader who dates the field to 2022 will re-derive arguments the field settled, abandoned, or lost once before.
 
-**"The field has steadily abandoned AI-as-analogy in favor of applied tools, and generative AI continues that trend."** This is the most instructive correction on the page, because the trajectory is real but not monotonic. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian and Doroudi's]] positional analysis of AIED 1985, 1993, 2021 and 2024 and IJAIED 2004, 2014 and 2021 does show a drift from a mixed field toward near-exclusive applied instrumentality by the 2000s. But at AIED 2024, three of the four papers in the AI-as-analogy quadrant were LLM-based, including best-paper work on LLM-based teachable agents. Generative AI partly **reverses** the trend rather than extending it, which is why treating it as "the next intelligent tutor" misreads where the research frontier actually moved.
+**"The field has steadily abandoned AI-as-analogy in favor of applied tools, and generative AI continues that trend."** The trajectory is real but not monotonic, which makes this the most instructive correction. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian and Doroudi's]] positional analysis of AIED 1985, 1993, 2021 and 2024 and IJAIED 2004, 2014 and 2021 does show a drift from a mixed field toward near-exclusive applied instrumentality by the 2000s. But at AIED 2024, three of the four papers in the AI-as-analogy quadrant were LLM-based, including best-paper work on LLM-based teachable agents. Generative AI partly **reverses** the trend rather than extending it, which is why treating it as "the next intelligent tutor" misreads where the research frontier actually moved.
 
 **"Personalization means adapting the difficulty to each learner."** That is only one of two incompatible senses, and conflating them hides a political choice. In the first sense the outcome is held fixed and only the path varies, the lineage running from Skinner's teaching machines through mastery-based tutoring. In the second the outcomes themselves diversify, as learners pursue individual interests unconstrained by standard curriculum (Zhao, 2024). An [[intelligent-tutoring|ITS]] implements the first; [[constructivist|constructionism]] the second. A tool described as "personalized" has told you nothing until you know which it means.
 
@@ -85,7 +85,7 @@ The arrival of [[generative-ai|generative AI]] — a broad family that includes 
 
 **For researchers**
 
-- Use the historical corpora as a baseline rather than treating the present as the only available comparison. The AIED proceedings for 1985, 1993, 2021 and 2024 and IJAIED for 2004, 2014 and 2021 are a ready-made longitudinal sample of the field's own claims.
+- Use the historical proceedings as a baseline rather than treating the present as the only available comparison. The AIED proceedings for 1985, 1993, 2021 and 2024 and IJAIED for 2004, 2014 and 2021 are a ready-made longitudinal sample of the field's own claims.
 - Cite lineage when you claim novelty. A claim that a system "personalizes learning" or "models the learner" is only novel relative to a specific prior tradition, and the tradition is documented.
 
 ## Connected Concepts

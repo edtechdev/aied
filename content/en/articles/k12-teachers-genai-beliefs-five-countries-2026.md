@@ -1,6 +1,6 @@
 ---
 title: "K-12 in-service teachers' beliefs about generative AI in classrooms: insights from the United States, India, Qatar, Colombia, and the Philippines"
-created: "2026-09-30T14:20:00-04:00"
+created: "2026-09-30T11:43:40-04:00"
 updated: "2026-09-30T14:20:00-04:00"
 type: article
 sources: ['raw/papers/10.3389_feduc.2026.1929017.md']

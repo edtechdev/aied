@@ -1,6 +1,6 @@
 ---
 title: "Within-person reciprocal processes between AI feedback literacy and agentic engagement: a three-wave random-intercept cross-lagged panel study"
-created: "2026-10-23T09:45:00-04:00"
+created: "2026-10-23T09:21:12-04:00"
 updated: "2026-10-23T09:45:00-04:00"
 type: article
 foundations: [agency, ai-literacy]

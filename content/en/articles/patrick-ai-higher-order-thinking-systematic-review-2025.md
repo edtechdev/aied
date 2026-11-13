@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence and Higher-Order Thinking: A Systematic Review of Educator and Student Experiences and Perspectives in Higher Education"
-created: "2026-10-15T21:45:00-04:00"
+created: "2026-10-15T21:33:09-04:00"
 updated: "2026-10-15T21:45:00-04:00"
 type: article
 sources: ['raw/papers/10.1111_hequ.70069.md']

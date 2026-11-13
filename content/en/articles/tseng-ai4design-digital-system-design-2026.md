@@ -1,6 +1,6 @@
 ---
 title: "AI4Design: A Human-Centred, Cross-Domain Framework for Generative AI in Digital System Design Education"
-created: "2026-11-09T09:35:00-05:00"
+created: "2026-11-09T09:21:50-05:00"
 updated: "2026-11-09T10:20:00-05:00"
 type: article
 page_kind: [framework]

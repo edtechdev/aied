@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-11-09T10:25:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -18,7 +18,7 @@ reviewed_by: [editor]
 
 - Think of a time you felt a skill or piece of work was truly 'yours' versus merely done through you. What made the difference — authorship, recognition, competence? How might a tool that produces the work for you reshape that feeling?
 - A common assumption is that identity is a fixed trait a learner either has or lacks. What would change in how you design learning if you treated learner identity instead as something continuously built through participation, recognition, and authorship?
-- The page describes a 'competence paradox' among art and design students: AI tools feel easy and useful, yet their use threatens the creative identity students derive from manual craft. Have you ever felt your own competence or identity challenged by an easy tool? What was the tension?
+- A 'competence paradox' runs through art and design students: AI tools feel easy and useful, yet their use threatens the creative identity students derive from manual craft. Have you ever felt your own competence or identity challenged by an easy tool? What was the tension?
 - Students sometimes hide or feel shame about their AI use, which fragments their academic identity and honest engagement. When does the pressure to appear a certain kind of learner push people to conceal how they actually learn, and what would make disclosure feel safe?
 - AI can scaffold identity formation as well as threaten it. If you were designing an AI [[pedagogical-agent|learning companion]], what specific features would protect a learner's sense of authorship and ownership while still offering support?
 
@@ -37,7 +37,7 @@ A distinct authorship condition, not only a threat to authorship: when self-form
 - **Shame and hidden use.** **[[shame-guilt-ai-regulation-computing-education|Lin et al.]]** show that computing students experience shame and guilt around AI use, which function as social regulators driving *hiding* and selective disclosure — behaviors that can fragment academic identity and undermine honest engagement with learning.
 - **Identity as something AI can scaffold.** AI need not only threaten identity. **[[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]** argue that accountable, relationally-oriented [[pedagogy|pedagogical]] accompaniment can support learners' **STEM identity** development by providing transparent, bounded support that leaves room for the learner to own their trajectory.
 
-## Identity in the knowledge base's research
+## Identity in the research
 
 - **Creative identity:** **[[t2i-competence-paradox-2026|the T2I competence paradox]]** captures how ease-of-use can undermine the craft-based identity of art and design students.
 - **Felt authorship can decouple from actual originality.** Design students building websites with AI rated their authorship highly (67/100, satisfaction 6.4/7, perceived quality 6.1/7), yet those ratings tracked nothing measurable: their designs were more homogeneous than without AI, and felt authorship correlated with measured originality at r ≤ +0.13 ([[vibe-coding-design-diversity-2026|Boussioux et al., 2026]]).

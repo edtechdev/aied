@@ -1,7 +1,7 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -19,7 +19,7 @@ reviewed_by: [editor]
 - In a field experiment, an unguarded [[intelligent-tutoring|AI tutor]] raised practice performance but reduced later unassisted exam scores, while a 'hint-not-answer' version eliminated the harm. Why might making students perform better in the moment actually make them learn less?
 - If an AI tutor is engineered to be 'kind' — never pushing back or giving corrective [[feedback]] — how could that be a safety problem rather than a feature? When is agreeable behavior harmful in an educational context?
 - Guardrails are described as a layered set of controls, from prompting to knowledge grounding to training to auditing. Pick one layer and consider: where could it fail, and what would a different layer catch that it misses?
-- The page notes that guardrails themselves can be biased — refusals and softened answers patterned by [[learner-identity|student identity]]. How would you audit a safety filter to make sure it isn't quietly reproducing inequity while 'protecting' learners?
+- Guardrails themselves can be biased, with refusals and softened answers patterned by [[learner-identity|student identity]]. How would you audit a safety filter to make sure it isn't quietly reproducing inequity while 'protecting' learners?
 - Younger learners are described as least equipped to detect manipulative or sycophantic AI behavior. How does that change what 'safe' should mean for a K-12 AI tool compared with a university one?
 
 ## Introduction

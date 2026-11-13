@@ -1,6 +1,6 @@
 ---
 title: "Safe by Benchmark, Unsafe in Practice: Lessons from 1331 Child-Related AI Incidents"
-created: "2026-10-27T09:44:00-04:00"
+created: "2026-10-27T09:35:41-04:00"
 updated: "2026-10-27T09:44:00-04:00"
 type: article
 authors: ["Jiao, J.", "Chen, K.", "Mishra, S.", "Murali, A.", "Atkinson, D.", "Raj, S.", "Afroogh, S."]

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the integration of artificial intelligence into residency education curriculum: qualitative interviews"
 published: "2026-10-30"
-created: "2026-11-02T10:30:00-05:00"
+created: "2026-11-02T09:44:34-05:00"
 updated: "2026-11-12T18:40:00-05:00"
 type: article
 sources: ['raw/papers/bursic-ai-residency-education-curriculum-2026.md']

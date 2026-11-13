@@ -1,6 +1,6 @@
 ---
 title: "Data Provenance and Ethics in the Curricula of U.S. Health AI Education Programs"
-created: "2026-10-30T09:42:00-04:00"
+created: "2026-10-30T09:23:42-04:00"
 updated: "2026-10-30T09:42:00-04:00"
 type: article
 published: "2026-10-29"

@@ -1,6 +1,6 @@
 ---
 title: "The crisis of critical thinking in higher education: rethinking what universities should teach in an age of information abundance and generative AI — a critical narrative review of international evidence"
-created: "2026-10-29T10:30:00-04:00"
+created: "2026-10-29T09:15:13-04:00"
 updated: "2026-11-04T16:51:25-05:00"
 type: article
 authors: ["Salameh, W."]

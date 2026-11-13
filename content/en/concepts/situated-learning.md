@@ -1,7 +1,7 @@
 ---
 title: Situated Learning
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
@@ -16,19 +16,19 @@ reviewed_by: [editor]
 - Think of something you genuinely know how to do well — a skill, a trade, a craft. Did you learn it mostly from abstract instruction or from participating in a real community that did that thing? What does that suggest about where knowledge actually lives?
 - Lave and Wenger describe novices learning through 'legitimate peripheral participation' — starting at the edge of a community of practice and moving inward. Where have you watched (or been) such a newcomer, and what let them move from the periphery to the center?
 - If knowledge is 'situated' in authentic contexts, what does that imply for the traditional classroom, which deliberately separates learning from real-world situations — and for AI tools designed to deliver decontextualized content?
-- The page treats situated learning as a design lens for AI. How might an adaptive system or simulation ground learning in authentic practice rather than pulling it out of context?
+- How might an adaptive system or simulation ground learning in authentic practice rather than pulling it out of context?
 - What obstacles does the [[research-methods-aied|research]] say stand in the way of situating AI-driven learning in real contexts, and which of those have you seen in your own institution?
 
 ## Introduction
 
-Situated learning is one of the activity-and-context theories within the knowledge base's [[learning-theories]] strand. It takes up Vygotskian themes of social construction but adds a strong emphasis on the intimate integration of "doing" and "learning" and on the importance of communities of practice. As an educational stance it confronts traditional, standardized schooling by foregrounding the learner's [[sociocultural-learning|sociocultural]] context as a key element for acquiring skills and appropriating knowledge relevant to their reality.
+Situated learning is one of the activity-and-context theories within [[learning-theories]]. It takes up Vygotskian themes of social construction but adds a strong emphasis on the intimate integration of "doing" and "learning" and on the importance of communities of practice. As an educational stance it confronts traditional, standardized schooling by foregrounding the learner's [[sociocultural-learning|sociocultural]] context as a key element for acquiring skills and appropriating knowledge relevant to their reality.
 
 In the [[ai-education|AI-in-education]] literature, situated learning matters because it provides a design lens for AI: [[adaptive-learning|adaptive systems]], [[intelligent-tutoring|intelligent tutoring]] in authentic scenarios, and [[virtual-and-augmented-reality|immersive]] [[simulation|simulations]] can ground AI-driven education in real-world contexts, while situated learning in turn offers AI a meaningful anchor in authentic practice and complexity. The two are widely treated as complementary, with human guidance remaining essential for [[ethics|ethical]] grounding.
 - **Contextualizing the material itself is a situated-learning move.** DagFlow-AI generates a statistics dataset built around a student's own stated interest — one case study used a student's concern about climate change and health — while holding the learning objectives and skill level fixed ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Matching the *data* to the learner, rather than matching the explanation, treats the context of practice as the thing that needs situating. The authors concede the limit: synthetic data cannot teach data collection, measurement or study design, so the context is real to the learner but not to the world.
 
 ## Situated learning as a design lens for AI
 
-The knowledge base's research treats situated learning not merely as an abstract theory but as a concrete design and evaluation framework for AI in education:
+The research treats situated learning not merely as an abstract theory but as a concrete design and evaluation framework for AI in education:
 
 - **Opportunities and obstacles.** A PRISMA [[meta-analysis-systematic-review|systematic review]] of 60 articles (three decades) finds that AI can augment situated learning — through adaptive systems tailored to students' evolving needs, intelligent tutoring situated in authentic scenarios, automation of administrative tasks, and data-driven teacher support — while the main obstacles are the traditional school's one-way passive learning, an over-emphasis on predefined outcomes, and teachers' limited contextual knowledge. Human guidance remains essential for ethical grounding.([[vargas-situated-learning-ai-review-2024]])
 - **AI as a catalyst connecting education to reality.** AI can act as a *catalyst* for situated learning by connecting education with reality and authentic contexts, enabling learning grounded in real-world scenarios.([[vargas-ai-catalyst-situated-learning-2026]])
@@ -66,7 +66,7 @@ Situated learning connects closely to [[embodied-learning]] (both stress the gro
 ## Connected Articles
 - [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — Scenarios plus reusable provenance-bearing assets beat a plain assistant in two trials
 
-- [[vargas-situated-learning-ai-review-2024]] — PRISMA systematic review of situated learning and AI in education (primary reference for this page)
+- [[vargas-situated-learning-ai-review-2024]] — PRISMA systematic review of situated learning and AI in education (the primary reference)
 - [[genai-educational-outcomes-meta-analysis]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[raffaghelli-situated-ai-ethics-2026]]

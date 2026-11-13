@@ -1,6 +1,6 @@
 ---
 title: "The nature of science in the age of generative artificial intelligence: Epistemic authority, materiality, and a synergetic response"
-created: "2026-10-05T10:00:00-04:00"
+created: "2026-10-05T09:50:49-04:00"
 updated: "2026-10-16T13:16:04-04:00"
 type: article
 sources: ['raw/papers/nature-of-science-generative-ai-2026.md']

@@ -1,7 +1,7 @@
 ---
 title: "How Should I Use AI to Study and Learn Effectively?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-28T11:47:13-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [reducing-over-reliance, verify-ai-output, how-ai-impacts-students, ai-anxiety-wellbeing]
 weight: 60
 type: faq
@@ -23,7 +23,7 @@ ai_assist:
 
 It is 11 p.m., the problem set is due at nine in the morning, and the chat window is already open. Question four stopped making sense an hour ago. The tool will answer in ten seconds with something that reads like the work of a student who understands it, and you have to decide whether to type the assignment in or type your own mess in first.
 
-The sentence worth carrying off this page: the same model, opened at a different point in your study process, does opposite things to your learning. Open it before you have tried, and it ends the thinking, leaving you a clean file and a thinner memory. Open it after an attempt, to quiz you, to explain what you missed, to show where your reasoning broke, and it works like a tutor. The second thing to hold on to: work that came out fine is not evidence that you learned anything. A polished submission shows what you and the model can do together. The exam, the placement, and the next course in the sequence test what you can do alone, which is what the research calls [[learning-gains|learning]].
+The sentence worth carrying away: the same model, opened at a different point in your study process, does opposite things to your learning. Open it before you have tried, and it ends the thinking, leaving you a clean file and a thinner memory. Open it after an attempt, to quiz you, to explain what you missed, to show where your reasoning broke, and it works like a tutor. The second thing to hold on to: work that came out fine is not evidence that you learned anything. A polished submission shows what you and the model can do together. The exam, the placement, and the next course in the sequence test what you can do alone, which is what the research calls [[learning-gains|learning]].
 
 ## The short version
 
@@ -71,7 +71,7 @@ The habits that separate the two groups, as instructions to yourself:
 
 Three findings make the problem concrete. Dávila et al. (2025) gave learners advice that was correct about half the time and found that how much weight they gave it varied with their [[prior-knowledge|prior knowledge]] and gender, so trust was not tracking accuracy. Zheng et al. (2025) documented a "failed application" pattern in which a student followed correct guidance correctly and still reached a wrong answer. [[self-efficacy|Confidence]] is not a guide either: Rheu and Cho (2025) found that understanding how language models work was associated with more [[self-report-measures|self-reported]] fact-checking, while some forms of confidence and feature knowledge were associated with less of it.
 
-So verify anything assessed against a source you can name. The students in the Viberg study checked outputs against their coursework and their instructors, one explaining "I only go to the TA if we can't tell whether ChatGPT is making things up." When you genuinely cannot tell, mark the point unresolved and ask a person. Adopting a claim to get the page finished is how a small uncertainty becomes a wrong answer you have rehearsed.
+So verify anything assessed against a source you can name. The students in the Viberg study checked outputs against their coursework and their instructors, one explaining "I only go to the TA if we can't tell whether ChatGPT is making things up." When you genuinely cannot tell, mark the point unresolved and ask a person. Adopting a claim to get the assignment finished is how a small uncertainty becomes a wrong answer you have rehearsed.
 
 Decide your ground rules before you need them. [[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella and colleagues (2026)]] surveyed 151 undergraduates and found that ethical judgments were necessary conditions for intending to use a [[llm|large language model]] for exam preparation, with consequentialist and deontological reasoning predicting that intention, and intention strongly predicting actual use. What you decide in advance about what you will and will not do is what your behavior follows at 11 p.m.
 
@@ -113,7 +113,7 @@ Retrieval needs a schedule. [[memdora-ai-spaced-repetition|Zhang (2026)]] descri
 
 **"I don't know enough to attempt it first."** The attempt is how you find the edge of what you know, and pretesting helped even when the first answers were wrong. Write down what you think the question is asking and where you get stuck, then open the chat with that.
 
-**"My instructor banned it, so there is nothing to learn here."** The 38 students in the Yan study reported that their instructors forbade copying and gave almost no concrete guidance, and that vacuum pushed even well-intentioned students toward outsourcing. A ban gives you nothing to do on the day the tool is allowed, and the habits on this page are what you carry into those courses.
+**"My instructor banned it, so there is nothing to learn here."** The 38 students in the Yan study reported that their instructors forbade copying and gave almost no concrete guidance, and that vacuum pushed even well-intentioned students toward outsourcing. A ban gives you nothing to do on the day the tool is allowed, and the habits built now are what you carry into those courses.
 
 ## What to do this week
 

@@ -4,7 +4,7 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 reviewed_by: [editor]
 ---
 
@@ -13,11 +13,11 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - You've likely encountered recommendation systems or risk scores that 'learned' from data. How comfortable are you with a model deciding something about you (like an at-risk flag or a recommended path) based purely on patterns in historical data?
-- The page draws a sharp line between predicting a risk and actually intervening — a risk score tells you a student might fail, but not what to do about it. Where have you seen a prediction offered as if it were already a solution?
+- A sharp line separates predicting a risk from actually intervening: a risk score tells you a student might fail, but not what to do about it. Where have you seen a prediction offered as if it were already a solution?
 - Machine learning can 'hack' its own reward: an AI tutor that optimizes for engagement can keep students entertained while [[teacher-role|teaching]] them little. If a system looks measurably successful but is pedagogically harmful, what measures should we watch besides the number it optimizes?
 - Predictive models trained on historical grades can encode systemic bias, and [[remote-proctoring|automated proctoring]] raises false-positive risks that wrongly flag normal behavior. When data carries the biases of the past, how much should we trust an AI that uses it to make high-stakes educational decisions?
 - Some AI systems outperform human-interpretable methods but remain opaque — you can see they work but not why. In education, when is interpretability a 'nice to have' and when is it non-negotiable?
-- Generative AI is often treated as entirely new, but the page frames it as the latest subset of machine learning. How does seeing ChatGPT as part of the same predictive and adaptive machinery change what risks and limits you'd expect it to inherit?
+- Generative AI is often treated as entirely new, but it is the latest subset of machine learning. How does seeing ChatGPT as part of the same predictive and adaptive machinery change what risks and limits you'd expect it to inherit?
 
 ## Introduction
 
@@ -49,7 +49,7 @@ Validation practice is another source of overconfidence. [[schuetze-knowledge-tr
 
 ## Generative AI as a subset
 
-[[generative-ai|Generative AI]] — large language models and related [[llm|LLM]] systems — is best understood as a subset of machine learning: the same neural and training foundations, but applied to *generating* content (explanations, feedback, dialogue) rather than classifying or predicting. It inherits the field's validity, bias, and safety concerns while adding new ones such as [[hallucination-risk|hallucination]]. For the purposes of this knowledge base, machine learning is the broader technical umbrella; generative AI is its most visible contemporary branch.
+[[generative-ai|Generative AI]] — large language models and related [[llm|LLM]] systems — is best understood as a subset of machine learning: the same neural and training foundations, but applied to *generating* content (explanations, feedback, dialogue) rather than classifying or predicting. It inherits the field's validity, bias, and safety concerns while adding new ones such as [[hallucination-risk|hallucination]]. Machine learning is the broader technical umbrella, and generative AI is its most visible contemporary branch.
 
 ## Teacher education and machine-learning literacy
 
@@ -61,7 +61,7 @@ Machine learning also appears in education as a *subject*. In [[microbit-robotic
 
 **"Machine learning in education is a neutral prediction technology."** Its applications carry the discipline's governance failures with them, and proctoring is the clearest case: a model that infers something about a student from behavioral or physiological signals is making an accusation with a confidence score attached, and the evidence base for that inference is much weaker than the deployment rate suggests.
 
-**"Generative AI has made classical machine learning obsolete in education."** They do different jobs. Prediction of learner states, difficulty estimation and progress forecasting remain classical ML problems, and the knowledge-tracing and item-calibration literature this corpus documents is not served by a language model. Generative AI is a subset of machine learning rather than a replacement for it.
+**"Generative AI has made classical machine learning obsolete in education."** They do different jobs. Prediction of learner states, difficulty estimation and progress forecasting remain classical ML problems, and the knowledge-tracing and item-calibration literature is not served by a language model. Generative AI is a subset of machine learning rather than a replacement for it.
 
 **"Teacher education should teach students about LLMs rather than about machine learning."** Limiting literacy to the generative layer leaves practitioners unable to interrogate the predictive systems making decisions about their students — which is where the consequential errors concentrate.
 

@@ -1,7 +1,7 @@
 ---
 title: "How Can We Make AI Better at Supporting Learning in Our Own Subject?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-28T11:21:19-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
 weight: 74
 type: faq
@@ -30,7 +30,7 @@ ai_assist:
 
 The ticket says "fine-tune the model on our course materials." The budget is approved, a GPU is booked for next month, and a graduate student has been asked to assemble a dataset. Nobody on the call has asked what a plain prompt scores, or what a keyword search scores, on the same questions.
 
-Ask those two questions first. In this knowledge base, the gap between a general model and a course-competent one is mostly a grounding and prompting problem, and the evidence for that ordering is unusually direct: a course-assistant study found retrieval, not the model, was the first-order decision, and a general model with no grounding scored *below* a plain TF-IDF baseline.
+Ask those two questions first. The gap between a general model and a course-competent one is mostly a grounding and prompting problem, and the evidence for that ordering is unusually direct: a course-assistant study found retrieval, not the model, was the first-order decision, and a general model with no grounding scored *below* a plain TF-IDF baseline.
 
 Training is real and sometimes necessary. It is the third or fourth thing to try, and the work below is ordered so that you find out which rung you actually need before you spend the quarter's compute.
 
@@ -60,7 +60,7 @@ Skip this step and you cannot tell whether your fine-tune helped. Worse, you can
 
 Adding [[rag|retrieval-augmented generation]] over the course materials, with no fine-tuning at all, lifted that same system from 52.3% to **66.6%**. That gain came from an index, and it comes with a property a training run does not have: when your documents change, you re-index.
 
-Two other results point the same way. A [[meta-analysis-systematic-review|PRISMA]] review of 23 empirical studies on customizing AI for [[writing-education|writing instruction]] found **[[prompt-engineering|prompt engineering]] dominant (N = 13), ahead of fine-tuning (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Where a knowledge base has to stay current, retrieval is the only lever that stays current without re-running a training job.
+Two other results point the same way. A [[meta-analysis-systematic-review|PRISMA]] review of 23 empirical studies on customizing AI for [[writing-education|writing instruction]] found **[[prompt-engineering|prompt engineering]] dominant (N = 13), ahead of fine-tuning (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Where the source materials have to stay current, retrieval is the only lever that stays current without re-running a training job.
 
 Retrieval also has a [[pedagogy|pedagogical]] form. Grounding a model in your own worked examples and rubrics is how it stays inside the [[scaffolding|scaffold]] you designed, answering at the level you set instead of drifting into generic advice. That drift is the most common complaint about off-the-shelf tutors, and it is a retrieval problem more often than a weights problem.
 
@@ -89,7 +89,7 @@ The word *stable* in the heading carries the weight. Format, rubric, reading lev
 
 Adaptation teaches a model *what to produce*. Post-training teaches it *how to behave*. For tutoring that distinction is the whole problem: general models are post-trained on human preference for helpfulness, which means answering promptly, and teaching requires withholding the answer.
 
-The strongest educational results in this corpus live here. EduQwen's reward model explicitly prioritized **guiding responses over direct answers**, and its three-stage pipeline reached **96.52%** on the CDPK benchmark against Gemini-3 Pro's **90.55%** ([[singh-eduqwen-pedagogical-rl-2026]]). SWIM's writing [[simulation|simulator]] moved from rubric-grounded prompting (best QWK **0.577**) to supervised fine-tuning (**0.474 ± 0.023**) to [[reinforcement-learning|reinforcement learning]] (**0.618 ± 0.005**) across every trait and prompt ([[swim-student-writing-simulation-2026]]).
+The strongest educational results come from this rung. EduQwen's reward model explicitly prioritized **guiding responses over direct answers**, and its three-stage pipeline reached **96.52%** on the CDPK benchmark against Gemini-3 Pro's **90.55%** ([[singh-eduqwen-pedagogical-rl-2026]]). SWIM's writing [[simulation|simulator]] moved from rubric-grounded prompting (best QWK **0.577**) to supervised fine-tuning (**0.474 ± 0.023**) to [[reinforcement-learning|reinforcement learning]] (**0.618 ± 0.005**) across every trait and prompt ([[swim-student-writing-simulation-2026]]).
 
 Read the SWIM numbers carefully, because the middle step went backwards. Supervised fine-tuning on demonstrations made the simulator worse than the prompt it started from, and only the reward signal recovered the loss and then beat the baseline. If your plan stops at supervised fine-tuning, the plan may be a detour.
 
@@ -149,11 +149,11 @@ Supervised fine-tuning is the safe middle step before reinforcement learning. In
 
 **"We cannot send student work to a vendor API."** The strongest LoRA result here came from open models in the 4B to 30B range, and a single adapter served several of them. That deployment shape is available to a team with one GPU and no data processing agreement.
 
-**"Prompting is a hack; real work means training."** The review of 23 writing-instruction studies found prompting the dominant approach and fine-tuning behind it, and the largest reported gain on this page came from an index. Both the review and the course-assistant study ordered those rungs by measured gain.
+**"Prompting is a hack; real work means training."** The review of 23 writing-instruction studies found prompting the dominant approach and fine-tuning behind it, and the largest reported gain came from an index. Both the review and the course-assistant study ordered those rungs by measured gain.
 
 **"We tried prompting and it plateaued, so we need training."** That is the correct reading, and it is the one case where the climb is justified. Take the optimized prompt into the fine-tune as the item-generation team did, and expect the gain to be smaller than the prompt work was.
 
-**"Our course materials are inconsistent, so retrieval will return junk."** It will, and retrieval inherits the quality of the corpus. Cleaning the corpus is cheaper than training a model to work around it, and the gain from 52.3% to 66.6% was measured over ordinary course materials rather than a curated set.
+**"Our course materials are inconsistent, so retrieval will return junk."** It will, and retrieval inherits the quality of the source materials. Cleaning them is cheaper than training a model to work around it, and the gain from 52.3% to 66.6% was measured over ordinary course materials rather than a curated set.
 
 ## What to do this week
 

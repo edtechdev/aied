@@ -1,7 +1,7 @@
 ---
 title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-11-10T18:55:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 research_method: [survey]
 confidence: high
@@ -13,8 +13,8 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- Suppose a survey shows students report high satisfaction with an AI tool, but test scores don't improve. Which number is 'right'? The page argues that combining quantitative and qualitative strands lets each explain the other — how might an interview explain what the numbers alone cannot?
-- A common view is that numbers are objective and interviews are anecdotal, so quantitative evidence is superior. The page instead treats the two as complementary — breadth and precision from numbers, depth and meaning from words. When does a number without context mislead more than an interview?
+- Suppose a survey shows students report high satisfaction with an AI tool, but test scores don't improve. Which number is 'right'? Combining quantitative and qualitative strands lets each explain the other. How might an interview explain what the numbers alone cannot?
+- A common view is that numbers are objective and interviews are anecdotal, so quantitative evidence is superior. The two are better treated as complementary: breadth and precision from numbers, depth and meaning from words. When does a number without context mislead more than an interview?
 - One design pattern (sequential explanatory) collects quantitative data first, then uses interviews to explain surprising results. Can you think of an educational outcome that was puzzling numerically until qualitative accounts revealed the mechanism?
 - Triangulation is the core value: when independent strands converge, confidence rises, and when they diverge, the discrepancy itself is informative. Have you ever had two sources of evidence about the same thing contradict each other — and what did you learn from the conflict?
 - Mixed methods can simultaneously capture effects (how much learning gain) and meaning (trust, identity, agency) — things no single survey or interview captures alone. If you were studying whether an AI tool helps students, what quantitative and qualitative questions would you pair, and in what order?
@@ -33,7 +33,7 @@ Of 394 [[generative-ai|GenAI]] higher-education studies, 213 (54%) used mixed me
 - **Convergent/parallel.** Quantitative and qualitative strands run simultaneously and are integrated in analysis. [[t2i-competence-paradox-2026|The competence-paradox study]] uses instructor focus groups, a student survey, and follow-up interviews in parallel; [[fouad-bentley-trust-utility-gap-physics-2026|the trust–utility gap study]] combines survey and interview evidence on physics students' AI adoption.
 - **A machine-generated quantitative strand.** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang et al. (2026)]] generated the BREQ quantitative strand from participants' interview transcripts under a convergence design, an integration route that does not rely on human labor alone. LLM–human correlations ranged from medium to high (ρ = .5 to .73), item-, person-, and test-level RMSEs quantified the distance from human responses, and the negatively worded items 6, 7, and 11 marked the clearest triangulation payoff, flagging where interview and survey evidence diverge.
 
-## How mixed methods appear in the knowledge base
+## How mixed methods appear in the research
 
 - **Explaining mechanisms.** [[same-ai-different-pathways]] combines strands to unpack the mechanisms of AI-mediated learning across discipline-institution contexts, where quantitative differences alone would be opaque.
 - **Complementing outcome data with experience.** [[hazra-safetutors-pedagogical-safety-2026|AI tutor safety]] pairs quantitative harm indicators with qualitative accounts of [[pedagogy|pedagogical]] harm; [[t2i-competence-paradox-2026]] pairs quantitative survey results with qualitative negotiation-of-identity accounts.

@@ -1,6 +1,6 @@
 ---
 title: "A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform"
-created: "2026-10-22T09:26:00-04:00"
+created: "2026-10-22T09:23:20-04:00"
 updated: "2026-10-22T09:26:00-04:00"
 type: article
 pedagogy: [professional-training]

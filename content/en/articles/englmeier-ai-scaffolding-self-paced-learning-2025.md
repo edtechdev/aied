@@ -1,6 +1,6 @@
 ---
 title: "Scaffolding Autonomy: AI-Augmented Self-Paced Learning Environments for Sustainable Learning Outcomes"
-created: "2026-10-31T14:20:00-04:00"
+created: "2026-10-31T14:13:07-04:00"
 updated: "2026-10-31T14:20:00-04:00"
 type: article
 published: "2025"

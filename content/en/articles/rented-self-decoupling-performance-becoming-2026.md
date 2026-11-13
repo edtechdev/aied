@@ -1,6 +1,6 @@
 ---
 title: "The rented self: How AI-enabled tools decouple performance from becoming"
-created: "2026-10-07T14:05:00-04:00"
+created: "2026-10-07T13:49:29-04:00"
 updated: "2026-10-09T00:49:28-04:00"
 type: article
 foundations: [cognitive-offloading, learner-identity, theory-development-aied, theories-and-frameworks, academic-integrity]

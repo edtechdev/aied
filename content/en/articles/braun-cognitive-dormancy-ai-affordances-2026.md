@@ -1,7 +1,7 @@
 ---
 title: "Cognitive dormancy: Supplanting structured learning with AI affordances"
 published: "2026"
-created: "2026-10-29T10:05:00-04:00"
+created: "2026-10-29T04:00:18-04:00"
 updated: "2026-10-29T10:05:00-04:00"
 type: article
 technology: [generative-ai]

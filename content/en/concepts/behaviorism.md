@@ -1,7 +1,7 @@
 ---
 title: Behaviorism
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories]
@@ -16,8 +16,8 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - Behaviorism treats learning as a change in observable behavior driven by stimulus-response and reinforcement — not by internal mental states. Before reading, which educational experiences in your own past were built on reward, repetition, and immediate feedback? What did they succeed at, and what might they have missed?
-- A surprising finding on this page is that even where educational discourse espouses rich constructivist theories, actual AI implementations are predominantly behaviorist — drill-and-practice, immediate feedback, adaptive pacing. Why do you think behaviorist mechanics dominate in practice despite being out of fashion in theory?
-- The page warns of an educational 'Turing Trap' — using AI to replicate rather than augment human instruction. If an AI system optimizes for correct responses and efficiency, what might it quietly optimize away in a learner's active knowledge construction?
+- A surprising finding is that even where educational discourse espouses rich constructivist theories, actual AI implementations are predominantly behaviorist — drill-and-practice, immediate feedback, adaptive pacing. Why do you think behaviorist mechanics dominate in practice despite being out of fashion in theory?
+- The field warns of an educational 'Turing Trap': using AI to replicate rather than augment human instruction. If an AI system optimizes for correct responses and efficiency, what might it quietly optimize away in a learner's active knowledge construction?
 - Behaviorist designs are described as powerful for foundational fluency — vocabulary, arithmetic, code syntax — but inadequate for higher-order, conceptual, or agentic learning on their own. Where in your own learning would a drill-and-practice AI help, and where would it actively hurt?
 - The design question posed is not whether behaviorism is 'right' but whether a given system's mechanics serve the learning goal. How would you tell whether an AI tutor's immediate-feedback, adaptive-pacing design is building genuine transferable understanding or just making observable performance look good?
 

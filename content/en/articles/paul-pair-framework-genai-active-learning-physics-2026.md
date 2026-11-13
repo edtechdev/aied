@@ -1,6 +1,6 @@
 ---
 title: "Active Learning with Generative AI in Introductory Physics: A Multi-Institutional Study of the P-A.I.R. Framework"
-created: "2026-11-04T02:40:00-05:00"
+created: "2026-11-04T02:28:33-05:00"
 updated: "2026-11-04T02:40:00-05:00"
 type: article
 foundations: [ai-literacy]

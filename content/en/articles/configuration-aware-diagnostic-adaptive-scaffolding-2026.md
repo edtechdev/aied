@@ -1,6 +1,6 @@
 ---
 title: "Making Reasoning Visible: Configuration-Aware Diagnostic Modeling for Adaptive Scaffolding in Structured Reasoning Tasks"
-created: "2026-10-27T09:38:00-04:00"
+created: "2026-10-27T09:35:41-04:00"
 updated: "2026-10-27T09:38:00-04:00"
 type: article
 authors: ["Geoffre, T.", "Yuan, Z.", "Geoffre, T."]

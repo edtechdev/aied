@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Automated Question Generation
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-12T06:10:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -16,19 +16,19 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- Automated question generation produces assessment items from source material at scale — but this page warns that quality varies dramatically across item types. Before reading, which item type would you guess AI generates most reliably: multiple-choice, short-answer, or code — and why?
+- Automated question generation produces assessment items from source material at scale — but quality varies dramatically across item types. Before reading, which item type would you guess AI generates most reliably: multiple-choice, short-answer, or code — and why?
 - The central challenge is quality control: LLMs can generate factually incorrect questions. One pipeline reduced hallucination by 62% by adding a generate-then-validate-refine loop. Why do you think asking the AI to validate its own questions would meaningfully improve them rather than just rubber-stamping its own output?
 - [[research-methods-aied|Research]] shows generated questions may skew toward lower-order thinking (recall) unless explicitly designed for higher-order outcomes. If you used AI to build practice items, how would you know whether they were training genuine understanding or just memorization?
-- Difficulty calibration matters: AI difficulty estimates correlate strongly with student performance, but the page cautions against high-stakes misuse. When would a question that AI judges 'right difficulty' still be the wrong question to ask a particular learner?
+- Difficulty calibration matters: AI difficulty estimates correlate strongly with student performance, but high-stakes use calls for caution. When would a question that AI judges 'right difficulty' still be the wrong question to ask a particular learner?
 - [[accessibility]]-aware generation builds questions tuned for Deaf and Hard of Hearing learners, refined in partnership with the target community. What does this example suggest about why question generation can't be treated as a purely technical or content-only problem?
 
 ## Introduction
 
-Automated question generation matters because assessment items are expensive to create by hand, and AI can produce them rapidly and at scale. However, the knowledge base's research shows that generated items must be validated for correctness, relevance, and difficulty, and that different item types (MCQs, short-answer, code) vary in how reliably they can be generated. AQG therefore sits at the intersection of [[generative-ai|generative AI]], [[educational-nlp|educational NLP]], and [[educational-measurement]].
+Automated question generation matters because assessment items are expensive to create by hand, and AI can produce them rapidly and at scale. However, the research shows that generated items must be validated for correctness, relevance, and difficulty, and that different item types (MCQs, short-answer, code) vary in how reliably they can be generated. AQG therefore sits at the intersection of [[generative-ai|generative AI]], [[educational-nlp|educational NLP]], and [[educational-measurement]].
 
 ## Approaches to question generation
 
-The knowledge base's research illustrates several approaches:
+The research illustrates several approaches:
 
 - **Generate-then-validate pipelines:** [[generate-then-validate-question-gen|Generate-Then-Validate]] introduces a generation → validation → refinement loop that reduces LLM hallucination by 62% compared to direct generation, achieving 89% accuracy on [[stem-education|STEM]] datasets and a 23% improvement in relevance. The validation step filters invalid or low-quality items, and failed items trigger re-generation with corrective prompts.
 - **Knowledge-tracing-based generation:** [[kt4eqg-personalized-question-generation|KT4EQG]] generates personalized exercise questions guided by [[knowledge-tracing|knowledge tracing]], tailoring items to each learner's knowledge state rather than generating generic questions.

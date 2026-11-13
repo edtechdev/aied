@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Accessibility is distinct from, but closely related to, three neighboring concepts in this knowledge base. **[[inclusive-learning]]** is the broader umbrella for designing education for all learner variability (physical, cognitive, sensory, situational). **[[special-education]]** is the instructional domain for learners with diagnosed disabilities, including individualized accommodations. **[[universal-design-for-learning]]** is the proactive design framework (multiple means of [[student-engagement|engagement]], representation, action/expression). **Accessibility** sits inside this constellation as the *technical and procedural layer*: removing barriers to perceiving and operating the format, rather than redesigning the pedagogy. The two can be separated on a spectrum — accessibility asks "can everyone access this content and tool?" while supporting students with disabilities asks "does instruction meaningfully serve each learner, including accommodations and disability-specific support?" Both matter, and AI intersects both.
+Accessibility is distinct from, but closely related to, three neighboring concepts. **[[inclusive-learning]]** is the broader umbrella for designing education for all learner variability (physical, cognitive, sensory, situational). **[[special-education]]** is the instructional domain for learners with diagnosed disabilities, including individualized accommodations. **[[universal-design-for-learning]]** is the proactive design framework (multiple means of [[student-engagement|engagement]], representation, action/expression). **Accessibility** sits inside this constellation as the *technical and procedural layer*: removing barriers to perceiving and operating the format, rather than redesigning the pedagogy. The two can be separated on a spectrum — accessibility asks "can everyone access this content and tool?" while supporting students with disabilities asks "does instruction meaningfully serve each learner, including accommodations and disability-specific support?" Both matter, and AI intersects both.
 
 ### Why the distinction matters
 

@@ -1,7 +1,7 @@
 ---
 title: Sensor and Gaze Analytics
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -33,7 +33,7 @@ ai_assist:
 
 ## Introduction
 
-Sensor and gaze analytics describe a family of methods that turn physical measurements of a learner into educational inferences. The measurements include where the eyes rest and for how long, the electrical activity of the scalp, sweat-gland responses, beat-to-beat variation in heart rate, and the position and motion of the head and torso. The inferences include attention, engagement, cognitive load, confusion, stress, and, in assessment settings, suspicion. This page is about that measurement layer specifically: for the wider program and its claims, see [[affective-computing]]; for how a tutor should act on an inference once it has one, see [[affective-tutoring]].
+Sensor and gaze analytics describe a family of methods that turn physical measurements of a learner into educational inferences. The measurements include where the eyes rest and for how long, the electrical activity of the scalp, sweat-gland responses, beat-to-beat variation in heart rate, and the position and motion of the head and torso. The inferences include attention, engagement, cognitive load, confusion, stress, and, in assessment settings, suspicion. The focus is that measurement layer: for the wider program and its claims, see [[affective-computing]]; for how a tutor should act on an inference once it has one, see [[affective-tutoring]].
 
 The appeal is straightforward. [[self-report-measures|Self-reports]] are retrospective and coarse, and quizzes sample learning at a few moments. Sensors run continuously and cost the learner little conscious effort. That combination has made sensing central to [[learning-analytics]] and [[student-modeling]], and it has produced a large literature in which the sensing is technically impressive and the interpretation is thin.
 

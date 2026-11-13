@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-11-12T21:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -12,12 +12,12 @@ connected_faqs: [research-gaps-aied]
 reviewed_by: [editor]
 ---
 
-> **Learning Theories** — the family of frameworks that explain how learning happens, and the umbrella concept for the knowledge base's theory-related ideas. In [[ai-education|AI in education]], learning theories shape both how AI systems are designed (the pedagogy they embody) and how the field interprets whether AI "works": the same tool can be a scaffold under [[constructivist]] assumptions, a reinforcement engine under [[behaviorism]], or a cognitive-load hazard under Cognitive Load Theory.
+> **Learning Theories** — the family of frameworks that explain how learning happens, and the umbrella concept for theory-related ideas. In [[ai-education|AI in education]], learning theories shape both how AI systems are designed (the pedagogy they embody) and how the field interprets whether AI "works": the same tool can be a scaffold under [[constructivist]] assumptions, a reinforcement engine under [[behaviorism]], or a cognitive-load hazard under Cognitive Load Theory.
 
 ## Questions to Consider
 
 - Think about an AI tutor or adaptive system you have used or seen. What assumptions did it make about how people learn — did it reward right answers (behaviorism), build understanding (constructivism), or manage mental effort (cognitive load)? Did its makers ever state those assumptions?
-- The page describes a recurring gap: discourse espouses constructivism while AI implementations default to drill-and-feedback mechanics. Where have you seen a tool claim to support deep learning but actually just reinforce surface responses?
+- A recurring gap runs through the field: discourse espouses constructivism while AI implementations default to drill-and-feedback mechanics. Where have you seen a tool claim to support deep learning but actually just reinforce surface responses?
 - The same AI tool can look like success under one theory and failure under another — inflated homework scores read as learning under behaviorism but as a failure to build durable understanding under constructivism. Which lens is fairer for judging whether students actually learned?
 - Because every AI tutor embeds a theory whether its designers say so or not, 'does it work?' may be the wrong question. What is the better question to ask about an educational AI, given the theories it could embody?
 - Generative AI is prompting educators to consider new theories — like learning as iterative co-construction between humans and AI, or AI as a cognitive partner across the lifespan. Does the rise of AI genuinely require new learning theories, or do existing ones still suffice?
@@ -25,11 +25,11 @@ reviewed_by: [editor]
 
 ## Introduction
 
-This is the umbrella concept for the knowledge base's learning-theory strand. Learning theories sit at the heart of AI in education because every AI tutor, adaptive system, and feedback tool embeds assumptions about how people learn — whether the designers state them or not. The knowledge base documents these theories individually and treats them as the conceptual lens through which AI's design and effects are evaluated. The research field that tests those frameworks is a separate page: [[learning-sciences|the learning sciences]] study learning empirically — experiments, classroom trials and [[design-based-research|design-based research]] — and treat a theory as something to be confirmed or falsified, whereas this page collects the frameworks themselves. The two phrases are kept distinct in this knowledge base, the singular "learning science" naming this theory strand.
+Learning theories are the umbrella concept for the pedagogical assumptions behind AI in education. They sit at the heart of the field because every AI tutor, adaptive system, and feedback tool embeds assumptions about how people learn, whether the designers state them or not. Each theory has its own literature, and together they form the conceptual lens through which AI's design and effects are evaluated. The research field that tests those frameworks is distinct: [[learning-sciences|the learning sciences]] study learning empirically through experiments, classroom trials and [[design-based-research|design-based research]], and treat a theory as something to be confirmed or falsified, whereas the theory literature sets out the frameworks themselves. The singular phrase "learning science" names the theory strand.
 
 ## The learning-theory landscape
 
-The knowledge base documents several families of learning theory, each with its own concepts:
+Several families of learning theory recur in AI education research, each with its own concepts:
 
 - **Classical learning theories.** [[behaviorism]] (learning as observable behavioral change through reinforcement and drill-and-practice) and [[constructivist|constructivism]] (learning as active knowledge construction) are the two poles that recur most often in AI research. The field frequently exhibits a "constructivism in name, behaviorism in practice" gap, where discourse espouses construction but AI implementations default to drill-and-feedback mechanics.([[ai-vocational-education-training-review]]) [[cognitive-psychology|cognitivism]] is the third classical pole — learning as a change in internal mental representations — and the theory most responsible for AIED's signature contributions ([[knowledge-tracing]], [[cognitive-diagnosis]], [[student-modeling]], [[intelligent-tutoring]]).
 - **Sociocultural and developmental theories.** [[sociocultural-learning]] holds that learning and development arise through social participation and are mediated by cultural tools and more knowledgeable others — spanning the [[sociocultural-learning|Zone of Proximal Development]], [[scaffolding]], apprenticeship, communities of practice, and [[distributed-cognition|distributed cognition]]. In the AI age, [[generative-ai|generative AI]] is increasingly framed as a *mediational agent* that both mediates activity and generates contingent contributions to interaction.([[generative-ai-mediational-agent-sociocultural-2026]])
@@ -41,7 +41,7 @@ A 2026 systematic review of 163 GenAI studies maps the literature onto five theo
 
 ## Learning theories and learning gains
 
-Learning theories are ultimately evaluated by their outcomes, and the knowledge base's [[learning-gains]] concept is where theory meets evidence. Each theory makes a different prediction about what *counts* as learning and how to measure it: behaviorism predicts observable performance gains on drill-and-feedback tasks; constructivism predicts deeper understanding that transfers to novel problems; sociocultural theory predicts gains in participation and mediated [[problem-solving]]; and cognitive-load theory predicts gains only when instruction respects working-memory limits. Measurement choices, then, decide which theory's prediction an evaluation can confirm. In the AI era, the sharp divergence between AI-assisted performance and unassisted [[learning-gains|learning gains]] (see [[generative-ai-reduced-study-time-math]], [[stromberg-generative-ai-learning-penalty-secondary-2026]]) can be read through this lens: a behaviorist reading sees inflated homework scores as success, while a constructivist reading, focused on durable understanding, sees the same evidence as a failure to learn.
+Learning theories are ultimately evaluated by their outcomes, and [[learning-gains]] is where theory meets evidence. Each theory makes a different prediction about what *counts* as learning and how to measure it: behaviorism predicts observable performance gains on drill-and-feedback tasks; constructivism predicts deeper understanding that transfers to novel problems; sociocultural theory predicts gains in participation and mediated [[problem-solving]]; and cognitive-load theory predicts gains only when instruction respects working-memory limits. Measurement choices, then, decide which theory's prediction an evaluation can confirm. In the AI era, the sharp divergence between AI-assisted performance and unassisted [[learning-gains|learning gains]] (see [[generative-ai-reduced-study-time-math]], [[stromberg-generative-ai-learning-penalty-secondary-2026]]) can be read through this lens: a behaviorist reading sees inflated homework scores as success, while a constructivist reading, focused on durable understanding, sees the same evidence as a failure to learn.
 
 **The pooled evidence is positive, and it measures a narrower construct than the theories do.** A PRISMA [[meta-analysis-systematic-review|meta-analysis]] of 53 studies puts GenAI assistance at g = 0.40 on academic achievement, 0.72 on [[critical-thinking|higher-order thinking]], 0.76 on writing and 0.81 on motivation, with GenAI feedback the largest mechanism at g = 1.27 ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]). Those are gains on the instruments the included studies chose, so they settle a behaviorist or cognitivist reading of "it works" and leave the constructivist prediction about durable, transferable understanding untested. The country subgroups also diverged, from China's g = 0.71 to Turkey's nonsignificant g = 0.01, so the pooled estimate is an average to test locally rather than a property of the tool.
 
@@ -49,7 +49,7 @@ Learning theories are ultimately evaluated by their outcomes, and the knowledge 
 
 Learning theories matter for three reasons:
 
-- **They predict AI's effects.** Whether an AI tool improves or harms learning depends on which mechanism it activates. A tutor that gives away answers harms under a constructivist lens (it bypasses construction), is neutral under behaviorism (it reinforces), and raises cognitive-load concerns (it offloads rather than builds). The knowledge base's [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] concepts capture the risk side of this.
+- **They predict AI's effects.** Whether an AI tool improves or harms learning depends on which mechanism it activates. A tutor that gives away answers harms under a constructivist lens (it bypasses construction), is neutral under behaviorism (it reinforces), and raises cognitive-load concerns (it offloads rather than builds). [[cognitive-offloading]] and [[cognitive-offloading|over-reliance]] capture the risk side of this.
 - **They expose the theory-practice gap.** Empirical work repeatedly finds that AI implementations embody different theories than the discourse claims — most notably constructivist language paired with behaviorist drill-and-practice mechanics.([[ai-vocational-education-training-review]]) Evaluating AI therefore requires asking *which* theory a system actually embodies, not just whether it "works."
 - **They are being actively rethought.** Generative AI is [[prompt-engineering|prompting]] educators to revisit whether the classical theories suffice. [[generativism-learning-theory|Generativism]] proposes that learning in the AI age increasingly occurs through iterative co-construction between human learners and AI systems, extending rather than replacing the classical four (behaviorism, cognitivism, constructivism, connectivism).([[generativism-learning-theory]])
 
@@ -66,9 +66,9 @@ Recent theoretical work extends the classical strand in several directions, each
 
 - **Embodiment as an ontological challenge to AI's paradigm.** [[videla-embodied-ai-education-choreography|Videla, Penny and Ross (2026)]] argue an ontological divide separates embodied, enactive cognition from the representational idiom AI embodies, so AI should be decentered as the epistemic center rather than treated as a neutral tool.
 
-## How the knowledge base organizes this strand
+## How the theories connect
 
-Rather than treating learning theories as abstract philosophy, the knowledge base grounds each in the AI-in-education research that uses it. The [[constructivist]] and [[behaviorism]] pages document how AI designs embody (or betray) each theory; Cognitive Load Theory, [[self-regulated-learning]], [[metacognition]], and [[transfer-of-learning]] connect theory to specific AI mechanisms and outcomes. This mirrors how the knowledge base treats other umbrella domains like [[feedback]] and [[assessment]] — a coherent system of interacting concepts rather than isolated pages.
+Rather than treating learning theories as abstract philosophy, each is grounded in the AI-in-education research that uses it. The [[constructivist]] and [[behaviorism]] pages document how AI designs embody (or betray) each theory; Cognitive Load Theory, [[self-regulated-learning]], [[metacognition]], and [[transfer-of-learning]] connect theory to specific AI mechanisms and outcomes. This mirrors how other umbrella domains such as [[feedback]] and [[assessment]] are treated, as a coherent system of interacting concepts rather than isolated pages.
 
 ## Learning theories and "education about AI"
 
@@ -78,7 +78,7 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 
 ## Theories proposed for the AI era
 
-Alongside the classical families, the knowledge base documents theories written specifically for learning with AI systems, and these carry the design implications that the older theories leave open. [[yan-agentivism-learning-theory-ai-2026|Agentivism (Yan and Gašević 2026)]] is a mid-range example: it defines learning as durable growth in human capability rather than successful task completion, names four mechanisms (delegated agency, epistemic monitoring and verification, reconstructive internalization, and transfer under reduced support), and states six testable propositions, among them that AI support preserving learner responsibility for problem framing, criteria setting and justification produces stronger learning than support that delivers answers.
+Alongside the classical families, a body of theory addresses learning with AI systems specifically, and these frameworks carry the design implications that the older theories leave open. [[yan-agentivism-learning-theory-ai-2026|Agentivism (Yan and Gašević 2026)]] is a mid-range example. It defines learning as durable growth in human capability rather than successful task completion, and names four mechanisms: delegated agency, epistemic monitoring and verification, reconstructive internalization, and transfer under reduced support. It also states six testable propositions, among them that AI support preserving learner responsibility for problem framing, criteria setting and justification produces stronger learning than support that delivers answers.
 
 [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]'s **Pedagogical Symbiosis** makes a stronger ontological claim: the learner is a *Post-Human* entity whose cognition is hybrid rather than tool-assisted, organized by four principles: cognitive offloading and augmentation, epistemic co-construction, metacognitive symbiosis, and dynamic identity formation; operationalized as a Symbiotic Portfolio rubric and a "Cognitive Choreographer" [[teacher-role|teacher role]]; it is explicitly untested.
 

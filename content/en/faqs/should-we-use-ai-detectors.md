@@ -1,7 +1,7 @@
 ---
 title: "Should We Use AI Detectors?"
 created: "2026-09-17T09:21:00-04:00"
-updated: "2026-11-02T02:47:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
@@ -51,7 +51,7 @@ There is a reference-data problem underneath all of it. Detectors are trained an
 
 ## Look at the accuracy numbers before you cite one
 
-The strongest controlled test in the knowledge base examined 642 published English abstracts across four domains and two time periods. At a 0.50 threshold, two commercial detectors flagged guideline-compliant light AI editing at 38-80%, flagged unmodified 2023-25 originals at 9-15% (non-[[stem-education|STEM]] far above STEM, p<0.001), and, once text had been run through a humanizing service, caught fewer than 4% of AI-labeled rewrites, a false-negative rate above 96%. The authors call this an integrity catch-22: the students who disclose and edit lightly are the ones the tool catches, and the students who set out to evade it are not. Their recommendation is explicit, that detector scores should never serve as standalone misconduct evidence ([[karr-ai-detection-humanization-2026]]).
+The strongest controlled test examined 642 published English abstracts across four domains and two time periods. At a 0.50 threshold, two commercial detectors flagged guideline-compliant light AI editing at 38-80%, flagged unmodified 2023-25 originals at 9-15% (non-[[stem-education|STEM]] far above STEM, p<0.001), and, once text had been run through a humanizing service, caught fewer than 4% of AI-labeled rewrites, a false-negative rate above 96%. The authors call this an integrity catch-22: the students who disclose and edit lightly are the ones the tool catches, and the students who set out to evade it are not. Their recommendation is explicit, that detector scores should never serve as standalone misconduct evidence ([[karr-ai-detection-humanization-2026]]).
 
 Reviews have stopped trying to rank the tools at all. A [[meta-analysis-systematic-review|systematic review]] of 90 studies published between 2020 and 2026 reports that false-positive rates vary so widely across tools and evaluation settings that direct [[quantitative-research|quantitative]] comparison is impossible, naming algorithmic and language bias, limited contextual understanding, surface-level linguistic features and insufficiently diverse training data among the causes ([[maghami-ai-detection-false-positives-2026|Maghami, Ho and Camilleri (2026)]]). The remedies it names are procedural rather than technical: transparent detection practice, [[human-in-the-loop-ai|human review]], AI literacy, clear institutional policy and an accessible appeal route.
 
@@ -89,7 +89,7 @@ Treat a verification conversation as a step in the process, with notice and a re
 
 Start with notice. Tell the student what prompted the concern, in plain language, and say what the conversation is for. If the concern came from a detector score, say that, and say that the score is not a finding. Tell a student only that they are accused of cheating and the meeting becomes a defense of character rather than an account of the work.
 
-Then ask about the work itself. Which claim were you trying to make in this section. Where did this evidence come from. Why did you organize it this way. What did you discard. A student who wrote the piece can answer these at the level of decisions. The student who did not write it will answer at the level of topic, and the difference shows up quickly without anyone needing to prove intent.
+Then ask about the work itself. Which claim were you trying to make in this passage. Where did this evidence come from. Why did you organize it this way. What did you discard. A student who wrote the piece can answer these at the level of decisions. The student who did not write it will answer at the level of topic, and the difference shows up quickly without anyone needing to prove intent.
 
 Keep the right to silence intact. Declining to answer concedes nothing, and a procedure that treats refusal as an admission will not survive an appeal. Record what was asked, what was answered, and what was declined.
 
@@ -119,7 +119,7 @@ Evidence standards come second. Misconduct findings need evidence meeting the ba
 
 Scope is the third. Blanket AI bans that fail to separate transcription and OCR from generative drafting can remove an assistive tool that students with conditions affecting motor control, handwriting legibility or typing accuracy depend on, several of which have been discontinued with AI transcription filling the gap. That is legal exposure as well as imprecision ([[wright-transcription-not-generation-2026]]). Name [[assistive-technology|assistive]] and transcription tools in the policy text.
 
-Procurement is the fourth. Detectors store student work on third-party servers, sometimes overseas under weaker [[privacy]] protections, which puts breach, retention and onward commercial use on your institution's risk register rather than the vendor's marketing page. Terms should cover retention, use for [[llm-training-and-fine-tuning|model training]], storage location, breach notification and appeal rights ([[bassett-ai-detectors-education-2026]]). The knowledge base's account of the legal exposure is in [[legal-issues-and-risks]], and it is honest about its limits: it documents procedures, evidence categories and instrument reliability, not litigated outcomes.
+Procurement is the fourth. Detectors store student work on third-party servers, sometimes overseas under weaker [[privacy]] protections, which puts breach, retention and onward commercial use on your institution's risk register rather than the vendor's marketing page. Terms should cover retention, use for [[llm-training-and-fine-tuning|model training]], storage location, breach notification and appeal rights ([[bassett-ai-detectors-education-2026]]). The legal exposure is mapped in [[legal-issues-and-risks]], which documents procedures, evidence categories and instrument reliability, not litigated outcomes.
 
 What lowers risk is procedural. Never treat output as standalone evidence or an automatic trigger. Document the standard your process applies. Give notice and a real chance to respond on the record. Offer verification when the case rests on style. Keep the audit trail that shows all of it happened.
 
@@ -151,7 +151,7 @@ A student who uses transcription because typing is unreliable. Name [[assistive-
 
 ## What will come back at you
 
-**"Our vendor advertises a 1% false-positive rate."** Vanderbilt's licensed detector claimed exactly that, and the claim did not survive the university's attempt to validate it. Independent benchmarks put no tool above 80% accuracy ([[teichmann-detecting-undetectable-misconduct-2026]]). Ask for the validation study and the corpus it ran on, then ask to run it yourself.
+**"Our vendor advertises a 1% false-positive rate."** Vanderbilt's licensed detector claimed exactly that, and the claim did not survive the university's attempt to validate it. Independent benchmarks put no tool above 80% accuracy ([[teichmann-detecting-undetectable-misconduct-2026]]). Ask for the validation study and the data it ran on, then ask to run it yourself.
 
 **"We only use it as one piece of evidence."** The standard is evidence meeting the balance of probabilities, and a score combined with markers, style comparisons, LLM judgments or silence still does not satisfy it ([[bassett-ai-detectors-education-2026]]). If the panel would not accept the reasoning spoken aloud, the file should not contain it.
 
@@ -161,7 +161,7 @@ A student who uses transcription because typing is unreliable. Name [[assistive-
 
 **"A student with nothing to hide has nothing to fear."** The 642-abstract study found compliant light editing flagged at 38-80% at a 0.50 threshold, and the Kazakh benchmark found 81.4% and 79.6% of provably human passages flagged by released detectors ([[karr-ai-detection-humanization-2026]], [[kazakh-ai-text-detectors-2026]]). A clean record offers no protection when the signal is style. That is also why the Kazakh authors flag their own educational rates as the weakest figure in the study, and why you should not quote them as a student-essay rate.
 
-**"Can we just require a declaration and treat a missing one as guilt?"** A missing declaration is not evidence of hidden use, and treating it as one makes concealment rational. Specific frameworks tied to cognitive stages, with truthful disclosure protected from penalty, extract more information than surveillance does ([[gonsalves-student-non-compliance-ai-declarations-2025]], [[chang-should-i-tell-my-teacher-ai-disclosure-2026]]). The evidence on this page concerns what produces disclosure. It says nothing about how much cheating a declaration regime prevents.
+**"Can we just require a declaration and treat a missing one as guilt?"** A missing declaration is not evidence of hidden use, and treating it as one makes concealment rational. Specific frameworks tied to cognitive stages, with truthful disclosure protected from penalty, extract more information than surveillance does ([[gonsalves-student-non-compliance-ai-declarations-2025]], [[chang-should-i-tell-my-teacher-ai-disclosure-2026]]). The evidence concerns what produces disclosure. It says nothing about how much cheating a declaration regime prevents.
 
 ## What to do this week
 

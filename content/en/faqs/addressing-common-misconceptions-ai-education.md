@@ -1,7 +1,7 @@
 ---
 title: "How Can We Address Common Misconceptions About AI in Education?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-11-06T03:00:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
@@ -25,7 +25,7 @@ ai_assist:
 
 Your provost wants a one-page "AI myths" sheet for the spring faculty meeting. Or a trustee has read that chatbots are destroying critical thinking and wants a position by Friday. Or you are the person who has to explain, in writing, why the department will not simply ban the tool, and you have run out of ways to say that a ban is not a pedagogy.
 
-Every belief on this page starts from something a reasonable person has seen. Fluent prose does read as accurate. A polished submission does look like learning. A tutor that answers the question does feel like help, and a policy with the word "prohibited" in it does feel like a decision. The correction that works names what the observation cannot tell you, then hands over a check the person can run on Monday.
+Each of these beliefs starts from something a reasonable person has seen. Fluent prose does read as accurate. A polished submission does look like learning. A tutor that answers the question does feel like help, and a policy with the word "prohibited" in it does feel like a decision. The correction that works names what the observation cannot tell you, then hands over a check the person can run on Monday.
 
 Here is the answer, in one breath: the educational effect of AI depends on who uses it, for which task, what thinking the tool performs, what responsibility stays with the person, and how the learning gets evaluated. Confidence, speed, engagement, and task completion are features of use. None of them is evidence that capability changed.
 
@@ -43,7 +43,7 @@ Here is the answer, in one breath: the educational effect of AI depends on who u
 
 ## Decide what counts as evidence that learning happened
 
-Five beliefs decide whether the rest of this page matters. Each takes a real signal and reads a conclusion into it that the signal cannot carry.
+Five beliefs decide whether the rest of the argument matters. Each takes a real signal and reads a conclusion into it that the signal cannot carry.
 
 ### "They did better with the tool open, so they learned more."
 
@@ -61,11 +61,11 @@ Averages conceal exactly the variation that decides an equity question. Effects 
 
 ### "They reported that they learned a lot."
 
-[[self-report-measures|Self-report measures]] perception, acceptance, [[anxiety-and-stress|anxiety]], and [[self-efficacy]], and it is good at all four. It is not a measure of demonstrated capability, because people can be confident and wrong, or skilled and underconfident. The wiki's synthesis of teacher AI-literacy research reports a substantial gap between [[self-assessment]] and measured performance, and the instructors in it overestimated their competence considerably ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Pair every self-report with a task: identify an error in an output, verify a source, choose a use strategy, spot bias or sycophancy, revise a flawed response, calibrate confidence against accuracy. One such item in a survey turns an opinion into a result.
+[[self-report-measures|Self-report measures]] perception, acceptance, [[anxiety-and-stress|anxiety]], and [[self-efficacy]], and it is good at all four. It is not a measure of demonstrated capability, because people can be confident and wrong, or skilled and underconfident. A synthesis of teacher AI-literacy research reports a substantial gap between [[self-assessment]] and measured performance, and the instructors studied overestimated their competence considerably ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Pair every self-report with a task: identify an error in an output, verify a source, choose a use strategy, spot bias or sycophancy, revise a flawed response, calibrate confidence against accuracy. One such item in a survey turns an opinion into a result.
 
 ### "A simulated student is a cheap stand-in for a real one."
 
-Simulation is useful for prototyping, stress testing, and generating scenarios, and it is not evidence about human learning until it has been validated against people. A model can imitate the language of confusion without the persistence, motivation, prior knowledge, emotion, or developmental trajectory of a learner, and the research summarized in the wiki found simulated students abandoning an assigned misconception after minimal correction, which raises doubts about whether they represent conceptual change at all ([[simulating-students|Simulating Students]], [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]]). Use them to find the flaws in your prompt before real students meet it, then treat any claim about learners as unvalidated.
+Simulation is useful for prototyping, stress testing, and generating scenarios, and it is not evidence about human learning until it has been validated against people. A model can imitate the language of confusion without the persistence, motivation, prior knowledge, emotion, or developmental trajectory of a learner, and research on simulated students found them abandoning an assigned misconception after minimal correction, which raises doubts about whether they represent conceptual change at all ([[simulating-students|Simulating Students]], [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]]). Use them to find the flaws in your prompt before real students meet it, then treat any claim about learners as unvalidated.
 
 ## Set the AI condition at the step that carries the learning
 
@@ -139,7 +139,7 @@ Reliability is consistency, validity is whether the interpretation and use of th
 
 ### "One well-behaved conversation shows the tutor is safe."
 
-Educational harms accumulate across an interaction. A system can answer one prompt appropriately and then, over turns, start supplying answers, reinforcing a misconception, encouraging dependence, or drifting out of its tutoring role. The SafeTutors benchmark summarized in the wiki found pedagogical-harm failures rising sharply when systems were evaluated across multiple turns instead of a single exchange ([[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]]). Require sustained conversations, repeated student errors, direct-answer attempts, emotional and relational scenarios, adversarial prompting, and a measure of dependence over time. Benchmark evidence of this kind is not a classroom learning estimate, and it is the minimum a safety claim should rest on.
+Educational harms accumulate across an interaction. A system can answer one prompt appropriately and then, over turns, start supplying answers, reinforcing a misconception, encouraging dependence, or drifting out of its tutoring role. The SafeTutors benchmark found pedagogical-harm failures rising sharply when systems were evaluated across multiple turns instead of a single exchange ([[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]]). Require sustained conversations, repeated student errors, direct-answer attempts, emotional and relational scenarios, adversarial prompting, and a measure of dependence over time. Benchmark evidence of this kind is not a classroom learning estimate, and it is the minimum a safety claim should rest on.
 
 ### "Human review is a temporary patch until the models improve."
 
@@ -171,7 +171,7 @@ It demonstrates the performance of a person plus a tool. Competence shows up in 
 
 ### "AI literacy means knowing how to write a good prompt."
 
-Prompting is one operational skill. The scope that matters for a teacher or an employee is broader: what [[ai-technologies|AI systems]] can and cannot do reliably, how to evaluate accuracy and bias, how AI affects assessment validity, when offloading becomes displacement, the privacy and accessibility requirements, how use fits the discipline, and when not to use it at all. The wiki's synthesis found teachers substantially overestimated their AI competence when self-reports were compared with performance measures, and demonstrated competence predicted classroom integration far better than confidence did ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Prompt techniques also age faster than judgment does. Teach [[prompt-engineering|Prompt Engineering]] as a skill and assess [[teacher-ai-competency|Teacher AI Competency]] as the wider one.
+Prompting is one operational skill. The scope that matters for a teacher or an employee is broader: what [[ai-technologies|AI systems]] can and cannot do reliably, how to evaluate accuracy and bias, how AI affects assessment validity, when offloading becomes displacement, the privacy and accessibility requirements, how use fits the discipline, and when not to use it at all. A synthesis of the evidence found teachers substantially overestimated their AI competence when self-reports were compared with performance measures, and demonstrated competence predicted classroom integration far better than confidence did ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Prompt techniques also age faster than judgment does. Teach [[prompt-engineering|Prompt Engineering]] as a skill and assess [[teacher-ai-competency|Teacher AI Competency]] as the wider one.
 
 ### "Foundational disciplinary knowledge is obsolete because AI can retrieve it."
 
@@ -199,7 +199,7 @@ Output is prompt-sensitive and often non-deterministic, so small changes in word
 
 ### "Young people are already AI literate because they are digital natives."
 
-Familiarity with digital products is not the ability to evaluate AI. A student can open a chatbot, generate an image, and request an answer while being unable to verify a claim, spot fabricated evidence, detect bias or sycophancy, protect personal information, decide what not to delegate, or explain how AI shaped the work. The wiki summarizes research in which confidence with everyday technology did not carry over into algorithmic reasoning, technological creation, or critical evaluation of AI ([[digital-literacy-illusion|The Illusion of Competence]]). Literacy gets taught and demonstrated; age and usage frequency do not confer it.
+Familiarity with digital products is not the ability to evaluate AI. A student can open a chatbot, generate an image, and request an answer while being unable to verify a claim, spot fabricated evidence, detect bias or sycophancy, protect personal information, decide what not to delegate, or explain how AI shaped the work. Research shows that confidence with everyday technology did not carry over into algorithmic reasoning, technological creation, or critical evaluation of AI ([[digital-literacy-illusion|The Illusion of Competence]]). Literacy gets taught and demonstrated; age and usage frequency do not confer it.
 
 ### "Students who use AI are lazy or dishonest."
 
@@ -227,7 +227,7 @@ Automating tasks is not replacing the educational function. Drafting examples, p
 
 ## What the people running this get wrong
 
-The misconceptions above belong to the audience the page is written for. These belong to the people writing the memo, and they are why good corrections fail to land.
+The first set belongs to the audience these corrections target. The second belongs to the people writing the memo, and those are why good corrections fail to land.
 
 ### "Data-driven means objective."
 
@@ -257,7 +257,7 @@ Shaming produces defensiveness and concealment, and messages like "only lazy stu
 
 The mechanics are short enough to use in a faculty meeting. Name the belief, say why it looks true, reject it plainly, explain the failure, give the better model, and hand over an application.
 
-The worked version, which you can adapt to any item on this page:
+The worked version, which you can adapt to any misconception on the list:
 
 > **Misconception:** "A good AI-generated assignment shows that the student learned."
 > **Refutation:** "That is not necessarily true. The product shows what the student and AI produced together, but it does not reveal which reasoning the student performed."
@@ -312,6 +312,6 @@ The interference happens inside the discipline, at the step where the tool perfo
 
 ## Where to go next
 
-[[misconceptions|Misconceptions about AI]] is the synthesis behind this page, and [[refutation-text|Refutation Text]] is the method for using it in front of a room. [[reduce-ai-cheating|How Can We Reduce AI Cheating?]] handles the integrity decisions, [[redesign-assessment-ai-era|How Should Assessment Be Redesigned for the AI Era?]] handles what a grade can support, and [[ai-ed-evaluation|AI Ed Evaluation]] is the guide for judging a pilot or a platform. On the teaching side, [[teacher-ai-competency|Teacher AI Competency]] and [[ai-literacy|AI Literacy]] cover what the people in the room need to be able to do.
+[[misconceptions|Misconceptions about AI]] is the synthesis behind these corrections, and [[refutation-text|Refutation Text]] is the method for using it in front of a room. [[reduce-ai-cheating|How Can We Reduce AI Cheating?]] handles the integrity decisions, [[redesign-assessment-ai-era|How Should Assessment Be Redesigned for the AI Era?]] handles what a grade can support, and [[ai-ed-evaluation|AI Ed Evaluation]] is the guide for judging a pilot or a platform. On the teaching side, [[teacher-ai-competency|Teacher AI Competency]] and [[ai-literacy|AI Literacy]] cover what the people in the room need to be able to do.
 
 The idea to keep, in the form you can say out loud: AI is a fallible cognitive resource, not an authority, not a mind, and not evidence that learning happened. Responsible use keeps a person accountable, preserves the thinking the learning requires, verifies what matters, and judges success by durable and equitable capability rather than by fluency, speed, engagement, or a finished task.

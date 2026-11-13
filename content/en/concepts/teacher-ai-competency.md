@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-13T00:15:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -19,7 +19,7 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- The page argues the teacher is 'the decisive factor' in whether AI improves learning — that tools only help when teachers can plan for them, scaffold use, and evaluate outputs. Does that match your experience, or do you think the tool itself matters more than the teacher?
+- The teacher is 'the decisive factor' in whether AI improves learning: tools only help when teachers can plan for them, scaffold use, and evaluate outputs. Does that match your experience, or do you think the tool itself matters more than the teacher?
 - Teacher AI competency spans technical proficiency, pedagogical integration, assessment literacy, and ethical judgment. Which of these do you think teachers most lack, and which is hardest to train?
 - The [[research-methods-aied|research]] documents a gap between teachers' self-perceived and actual AI skill. Why do you think people overestimate their readiness, and what would it take to close that gap honestly?
 - An intensive professional-development program produced large gains in AI pedagogical skill in the research cited, suggesting technical-pedagogical skill is trainable. If that's true, why do so many teachers still seem unprepared — what's standing in the way?
@@ -34,7 +34,7 @@ Teacher AI competency matters because the teacher decides whether AI improves le
 
 ## Core competency dimensions
 
-The knowledge base's research converges on several interconnected dimensions:
+The research converges on several interconnected dimensions:
 
 - **Technical proficiency:** crafting effective [[prompt-engineering|prompts]] for educational objectives, [[ai-ed-evaluation|evaluating AI]] tools for pedagogical fit and safety, and troubleshooting failures in real time. [[genai-pd-ai-pck-learning-gain-2026|An intensive GenAI PD program]] documented significant gains across all five AI-PCK components (overall *d* = 2.36), showing technical-pedagogical skill is trainable.
 - **Specifying agent workflows:** when teachers configure a chatbot in natural language, the dominant failure is lost intent rather than wrong facts — bots skipped required workflow steps in 53.8% of end-user conversations and omitted expectation setup in 33.4% ([[eduwild-teacher-configured-chatbots-failures-2026|Liu et al. (2026)]]), so writing ordered, explicit steps is a trainable competency dimension of its own.
@@ -90,7 +90,7 @@ Adoption runs through judgment about the discipline rather than through general 
 
 ## Professional development that works
 
-The knowledge base's PD literature identifies effective approaches:
+The professional-development literature identifies effective approaches:
 
 - **Intensive, theory-grounded programs:** [[genai-pd-ai-pck-learning-gain-2026|An intensive GenAI PD program]] with 163 teachers/pre-service teachers produced significant gains across all AI-PCK components, with pre-service teachers benefiting most. [[teacher-education-ai-literacy-sdt-2026|Self-determination-theory-based PD]] shows need-supportive training improves teachers' AI literacy, attitudes, and [[student-engagement|engagement]] while reducing anxiety.
 - **[[design-based-research|Design-based]] and integrated approaches:** [[genai-literacy-training-teacher-education-dbr-2026|DBR-based GenAI literacy training]] addresses the overemphasis on technical knowledge and pre-GenAI tools; [[rail-ed-genai-literacy-teacher-education|integrative, developmental frameworks]] and [[sec-ai-literacy-narrative-review-2026|social-emotional competency integration]] broaden literacy beyond pure technique.

@@ -1,7 +1,7 @@
 ---
 title: "From Policing Provenance to Designing for Evidence: Testing Four Propositions on Generative AI Against Research and Institutional Policy"
 published: "2026-10-31"
-created: "2026-11-03T09:30:00-05:00"
+created: "2026-11-03T09:27:09-05:00"
 updated: "2026-11-03T09:30:00-05:00"
 type: article
 sources: ['raw/papers/ansari-policing-provenance-designing-for-evidence-2026.md']

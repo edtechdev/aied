@@ -1,6 +1,6 @@
 ---
 title: "Assessing the Influence of AI-Generated Responses on Academic Achievement: An Ethical Perspective and Self-Efficacy of Delta State Secondary School Students, Nigeria"
-created: "2026-10-05T10:00:00-04:00"
+created: "2026-10-05T09:50:49-04:00"
 updated: "2026-10-05T10:00:00-04:00"
 type: article
 sources: ['raw/papers/ai-generated-responses-achievement-self-efficacy-2026.md']

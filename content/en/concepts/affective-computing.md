@@ -1,7 +1,7 @@
 ---
 title: Affective Computing
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -11,7 +11,7 @@ confidence: medium
 reviewed_by: [editor]
 ---
 
-> **Affective computing** in education uses physiological and behavioral signals to sense learner emotion and adapt instruction — see [[affective-text-wearable-student-health]], [[multimodal-affective-its-presentation]], and [[kar-mathbuddy-affective-math-tutoring-2025]]. The knowledge base also documents emotional risks of [[student-ai-interaction|AI interaction]], including [[sycophantic-ai-social-interaction-2026]] and [[shame-guilt-ai-regulation-computing-education]].
+> **Affective computing** in education uses physiological and behavioral signals to sense learner emotion and adapt instruction — see [[affective-text-wearable-student-health]], [[multimodal-affective-its-presentation]], and [[kar-mathbuddy-affective-math-tutoring-2025]]. Emotional risks of [[student-ai-interaction|AI interaction]] also matter, including [[sycophantic-ai-social-interaction-2026]] and [[shame-guilt-ai-regulation-computing-education]].
 
 ## Questions to Consider
 
@@ -44,7 +44,7 @@ Emotion-aware tutoring can yield measurable gains, but the same sophistication c
 
 ## Affective computing and broader AIED
 
-Affective computing sits at the intersection of [[affective-tutoring]] (its pedagogical application), [[student-modeling]] (representing the whole learner, including emotion), and [[learning-analytics]] (deriving signals from learner data). It connects to [[intelligent-tutoring]] design and to [[pedagogical-safety]] — the principle that AI should support, not manipulate, learner emotion. This page covers the field and its evidence; [[affective-tutoring]] covers how a tutor should act on an affect reading, and [[sensor-and-gaze-analytics]] covers what the signals themselves can support.
+Affective computing sits at the intersection of [[affective-tutoring]] (its pedagogical application), [[student-modeling]] (representing the whole learner, including emotion), and [[learning-analytics]] (deriving signals from learner data). It connects to [[intelligent-tutoring]] design and to [[pedagogical-safety]] — the principle that AI should support, not manipulate, learner emotion. Affect sensing is distinct from the pedagogy it feeds: [[affective-tutoring]] covers how a tutor should act on an affect reading, and [[sensor-and-gaze-analytics]] covers what the signals themselves can support.
 
 - **Real-time, edge-based classroom emotion monitoring.** [[emotion-aware-classroom-iot-monitoring-2026|Nguyen et al. (2026)]] build an emotion-aware classroom quality assessment system that pushes affective computing into authentic, large-scale settings. Tailored for **IoT/edge devices**, the system addresses load balancing and latency while coordinating multiple agents to capture students' emotional and engagement patterns in real time. It was evaluated on the **Classroom Emotion Dataset** (1,500 labeled images and 300 classroom videos from real Vietnamese K–12 classrooms) with a focus on multi-person, in-the-wild affective interaction — a demonstration of scaling emotion recognition from lab models to deployable classroom monitoring, alongside the privacy and [[pedagogical-safety]] considerations such monitoring raises.
 

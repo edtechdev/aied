@@ -1,6 +1,6 @@
 ---
 title: "Measuring the impact of AI tutoring, from near transfer to standardised tests: An expanded RCT in UK mathematics classrooms"
-created: "2026-11-07T12:30:00-05:00"
+created: "2026-11-07T09:26:35-05:00"
 updated: "2026-11-07T12:30:00-05:00"
 type: article
 published: "2026"

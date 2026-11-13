@@ -1,6 +1,6 @@
 ---
 title: "Practice Makes Perfect: Tacit Knowledge, Generative AI, and Returns to Schooling and Experience"
-created: "2026-10-28T12:00:00-04:00"
+created: "2026-10-28T09:21:54-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Levy Yeyati, E.", "Judzik, D.", "Barbiero, J. I."]

@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -27,7 +27,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Prompt engineering is central to effective [[generative-ai]] use in education. Unlike traditional programming interfaces, LLMs respond to natural language — but the quality, accuracy, and [[pedagogy|pedagogical]] value of those responses depend heavily on prompt design. Research in this knowledge base reveals that prompting is not a neutral act: it reflects how students think, plan, and allocate cognitive effort. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar (2026)]] sharpen what the term covers by distinguishing prompt engineering, the technical optimization of inputs for performance, from prompt literacy, the rhetorical, ethical and reflective work of clarifying purpose, reading output critically and revising with stated reasons. Their Prompt Literacy Cycle (Clarify Purpose, Craft the Prompt, Engage with Output, Refine the Prompt, Reflect) and a sample process rubric make the distinction teachable, and they argue that instruction which optimizes outputs alone leaves the ethical and epistemological dimensions of LLM use untouched.
+Prompt engineering is central to effective [[generative-ai]] use in education. Unlike traditional programming interfaces, LLMs respond to natural language — but the quality, accuracy, and [[pedagogy|pedagogical]] value of those responses depend heavily on prompt design. Research reveals that prompting is not a neutral act: it reflects how students think, plan, and allocate cognitive effort. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar (2026)]] sharpen what the term covers by distinguishing prompt engineering, the technical optimization of inputs for performance, from prompt literacy, the rhetorical, ethical and reflective work of clarifying purpose, reading output critically and revising with stated reasons. Their Prompt Literacy Cycle (Clarify Purpose, Craft the Prompt, Engage with Output, Refine the Prompt, Reflect) and a sample process rubric make the distinction teachable, and they argue that instruction which optimizes outputs alone leaves the ethical and epistemological dimensions of LLM use untouched.
 
 ## How prompt engineering appears in the research
 

@@ -1,7 +1,7 @@
 ---
 title: Chemistry Education
 created: "2026-08-19T12:55:00-04:00"
-updated: "2026-11-12T10:45:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -16,11 +16,11 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- Chemistry combines abstract submicroscopic concepts, specialized symbolic notation, and hands-on laboratory practice. Before reading, which of these three distinctive demands do you think AI handles well, and which might it struggle with — especially given the page's warning about LLMs failing on rigorous [[quantitative-research|quantitative]] and spatial-reasoning tasks?
+- Chemistry combines abstract submicroscopic concepts, specialized symbolic notation, and hands-on laboratory practice. Before reading, which of these three distinctive demands do you think AI handles well, and which might it struggle with — especially given what the evidence says about LLMs failing on rigorous [[quantitative-research|quantitative]] and spatial-reasoning tasks?
 - One study had students design lab manuals with AI, implement them hands-on, and have them validated by professionals — significantly boosting experimental confidence and critical thinking while shifting staff roles from demonstration toward guidance. What makes this 'AI for experimental design' different from just asking AI for answers?
 - Systematic evidence shows LLMs can define basic chemistry terms but perform poorly on rigorous quantitative tasks, struggle with spatial reasoning (like NMR), and show overconfidence. If an AI confidently gives you a wrong answer on a hard chemistry problem, how would you detect it — and what skill does that detection require?
 - Research proposes assigning AI distinct roles by achievement level — a Patient tutor for low-achievers, a Personal Coach for mid-level, and an Intellectual Sparring Partner for high-achievers. Why do you think the same AI tool should play different roles for different students, and what does that require of the human instructor?
-- The page warns of 'epistemic drift' — reliance on opaque algorithms detaching scientific inquiry from causal understanding. If AI predicts an experimental outcome, when does that prediction help you understand chemistry, and when does it quietly replace the understanding itself?
+- 'Epistemic drift' is the risk: reliance on opaque algorithms detaching scientific inquiry from causal understanding. If AI predicts an experimental outcome, when does that prediction help you understand chemistry, and when does it quietly replace the understanding itself?
 
 ## Introduction
 

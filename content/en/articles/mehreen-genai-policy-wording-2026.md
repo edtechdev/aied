@@ -1,6 +1,6 @@
 ---
 title: "Wording Matters: Understanding How GenAI Policy Rules Shape Teachers' and Students' Workflows and Perceptions"
-created: "2026-11-10T18:30:00-05:00"
+created: "2026-11-10T18:19:20-05:00"
 updated: "2026-11-10T18:30:00-05:00"
 type: article
 page_kind: [synthesis]

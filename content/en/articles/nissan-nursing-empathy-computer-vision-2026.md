@@ -1,6 +1,6 @@
 ---
 title: "Detecting Nursing Students' Empathy in Video-Recorded Simulation Using Computer Vision"
-created: "2026-11-10T20:45:00-05:00"
+created: "2026-11-10T20:42:58-05:00"
 updated: "2026-11-10T20:45:00-05:00"
 type: article
 pedagogy: [professional-training]

@@ -1,7 +1,7 @@
 ---
 title: SAMR Model
 created: "2026-09-10T09:50:00-04:00"
-updated: "2026-11-02T09:55:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [educational-development, learning-design, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -34,7 +34,7 @@ SAMR describes the depth of technological transformation of learning tasks. Its 
 
 SAMR is frequently paired with the [[icap-framework|ICAP framework]] because the two align: the four cooking-to-learning scenarios in [[thermomix-genai-education-analogy-2026|Rummel, Nachtigall & Panadero (2026)]] map ICAP [[student-engagement|engagement]] modes onto SAMR levels — ICAP *Passive* with SAMR *Substitution*, *Active* with *Augmentation*, *Constructive* with *Modification*, and *Interactive* with *Redefinition* — illustrating a progression from passive delegation to interactive co-construction.
 
-## Evidence from the knowledge base
+## Evidence from the research
 
 - **AI integration in higher education is largely incremental, not transformative.** [[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh et al. (2026)]], in a PRISMA systematic review of 22 intervention studies screened from 959 records, graded AI integration with the SAMR model and found most studies clustered at the **Substitution or Augmentation** level, with fewer at Modification and only one approaching Redefinition. AI was typically introduced to improve existing practice — dominated by [[automated-assessment|assessment automation]] and [[personalized-learning|personalized-learning support]] — rather than to reconceptualize curricula or [[learning-gains|learning outcomes]].
 - **SAMR is a common analytical lens for GenAI-driven [[curriculum-design|curriculum]] change.** [[rewriting-curriculum-genai-pedagogy-2026|Sabani et al. (2026)]] map five curricular shifts (static to dynamic, transmission to capability, local to [[governance|institutional]]) onto established lenses including SAMR and constructive alignment, using the model to clarify the [[pedagogy|pedagogical]] mechanisms by which GenAI reshapes curriculum.
@@ -52,7 +52,7 @@ Three frameworks are frequently conflated but answer distinct questions:
 - **[[tpack|TPACK]]** describes the *knowledge* a teacher needs to integrate technology effectively — the interplay of technological, pedagogical, and content knowledge, extended in the AI era to AI-TPACK/GenAI-TPACK.
 - **SAMR** classifies *how deeply* a technology transforms a learning task, from enhancement to redefinition.
 
-SAMR is best understood as an integration-depth lens used in planning and evaluation, complementing adoption theory (which explains uptake) and TPACK (which explains teacher capability). In the AI era, it is most productively used to ask whether generative AI is being applied to enhance existing tasks or to enable genuinely new ones — a distinction that runs throughout the knowledge base's assessment and curriculum research.
+SAMR is best understood as an integration-depth lens used in planning and evaluation, complementing adoption theory (which explains uptake) and TPACK (which explains teacher capability). In the AI era, it is most productively used to ask whether generative AI is being applied to enhance existing tasks or to enable genuinely new ones — a distinction that runs throughout the assessment and curriculum research.
 
 ## Implications for practice
 

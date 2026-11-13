@@ -1,7 +1,7 @@
 ---
 title: "Information and Media Literacy"
-created: "2026-11-05T05:20:00-05:00"
-updated: "2026-11-13T02:40:00-05:00"
+created: "2026-11-05T04:08:36-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy, critical-thinking, academic-integrity]
 pedagogy: [critical-pedagogy]
@@ -33,7 +33,7 @@ reviewed_by: [editor]
 
 The two literacies have separate institutional homes. Information literacy was codified in library and information science, most visibly in the ACRL Framework, as a set of dispositions around authority, process and value. Media literacy grew out of communication and media studies and out of school media education, and asks about authorship, technique, audience and effect. One judges whether a source deserves belief; the other asks who made a message and what it is doing.
 
-That division has always been cleaner in theory than in a classroom. Both literacies teach students to slow down, check provenance and resist fluency. Both were built on an assumption that the artifact had an author who paid a cost to produce it. Generative AI removes that assumption from both at once: text is synthesized from an untraceable corpus, images and voices are cloned, and automated accounts simulate the audience itself.
+That division has always been cleaner in theory than in a classroom. Both literacies teach students to slow down, check provenance and resist fluency. Both were built on an assumption that the artifact had an author who paid a cost to produce it. Generative AI removes that assumption from both at once: text is synthesized from untraceable training data, images and voices are cloned, and automated accounts simulate the audience itself.
 
 The two are treated here as one instructional problem with two outcome sets. The evidence is uneven — a bibliometric map and two systematic reviews on the information side, a small intervention and an expert interview study on the media side — and almost none of it tests a combined curriculum. That absence is itself the finding worth carrying into practice.
 

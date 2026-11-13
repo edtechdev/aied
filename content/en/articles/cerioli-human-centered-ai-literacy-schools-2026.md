@@ -1,6 +1,6 @@
 ---
 title: "Human-centered AI Literacy in Schools: Evidence-based Multi-stakeholder Recommendations for Primary & Secondary (K-12) Education"
-created: "2026-11-12T23:55:00-05:00"
+created: "2026-11-12T22:56:24-05:00"
 updated: "2026-11-13T00:55:00-05:00"
 type: article
 sources: ['raw/papers/cerioli-human-centered-ai-literacy-schools-2026.md']

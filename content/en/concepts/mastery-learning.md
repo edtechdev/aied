@@ -6,7 +6,7 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 reviewed_by: [editor]
 ---
 
@@ -15,9 +15,9 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - Most schooling fixes time and lets achievement vary — everyone moves on after a set number of weeks. Mastery learning inverts this: achievement is held constant while time, feedback, and practice vary. Which model better matches how you've actually learned something difficult?
-- A critical caveat in the page: 'correctness is not mastery.' A learner can produce right answers while missing a key constraint, fooling the system into declaring mastery early. Can you think of a skill where being able to perform it correctly still didn't mean you truly understood when *not* to do it?
+- 'Correctness is not mastery,' and a learner can produce right answers while missing a key constraint, fooling the system into declaring mastery early. Can you think of a skill where being able to perform it correctly still didn't mean you truly understood when *not* to do it?
 - Mastery-based AI grants learners agency to choose their own tasks, but simulations show naive self-selection can produce massive overpractice. Where's the right balance between letting a learner choose and imposing constraints that keep progression efficient?
-- The page stresses durable retention, not just a single correct performance — that's why mastery should be followed by spaced practice. How might a learner appear to 'master' something today only to lose it within hours?
+- Durable retention matters, not just a single correct performance, which is why mastery should be followed by spaced practice. How might a learner appear to 'master' something today only to lose it within hours?
 - If an AI declares you have 'mastered' a topic, what would you want it to check before you believe it — beyond getting a few answers right?
 
 ## Introduction

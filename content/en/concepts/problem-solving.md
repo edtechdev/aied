@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-12T21:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
@@ -10,12 +10,12 @@ confidence: medium
 reviewed_by: [editor]
 ---
 
-> **Problem solving** — the process of formulating, analyzing, and resolving novel or complex challenges — is a core 21st-century competency that AI tools both amplify and threaten. Across the knowledge base's articles, generative AI functions as a scaffold, a dialogic partner, and an answer engine, and its educational value hinges on whether learners remain the primary decision-makers or outsource their reasoning to the machine. This tension between efficiency and deeper cognitive and regulatory [[student-engagement|engagement]] defines current [[research-methods-aied|research]] on AI and problem solving.
+> **Problem solving** — the process of formulating, analyzing, and resolving novel or complex challenges — is a core 21st-century competency that AI tools both amplify and threaten. Across the studies reviewed here, generative AI functions as a scaffold, a dialogic partner, and an answer engine, and its educational value hinges on whether learners remain the primary decision-makers or outsource their reasoning to the machine. This tension between efficiency and deeper cognitive and regulatory [[student-engagement|engagement]] defines current [[research-methods-aied|research]] on AI and problem solving.
 
 ## Questions to Consider
 
 - Think of a genuinely hard problem you solved well. What made the struggle productive, and what would have been lost if someone had simply handed you the answer?
-- The page describes a 'cognitive debt': delegating reasoning to AI produces the right product at the cost of understanding. Have you ever got the right answer without really understanding it? What was the cost later?
+- 'Cognitive debt' names the problem: delegating reasoning to AI produces the right product at the cost of understanding. Have you ever got the right answer without really understanding it? What was the cost later?
 - AI tools help students explore multiple perspectives and generate their own problems—but can also encourage 'metacognitive laziness.' How do you tell the difference between AI as a thinking partner and AI as a substitute for thinking?
 - One experiment found reflective and hybrid feedback outperformed direct AI feedback on delayed, AI-free transfer. Why might feedback that makes you do more work lead to learning that lasts longer?
 - How does [[teacher-role|teaching]] students to *pose* their own problems (rather than only solve given ones) support transfer and self-study? When has generating a question taught you more than answering one?
@@ -29,7 +29,7 @@ Yet the same tools can erode the very skill they claim to support. Research on [
 
 ### Problem solving in AI education research
 
-The knowledge base's articles approach problem solving through distinct but converging lenses. [[llm-critical-thinking-teamwork-review|A PRISMA systematic review]] finds that LLMs often produce incomplete or incorrect responses, prompting students to question, verify, and improve information — turning model imperfections into validation-and-correction cycles that strengthen [[critical-thinking|critical thinking]] and mental independence. Rather than treating problems as given, other work foregrounds *problem posing*: [[genai-assisted-problem-posing-physics-2026|training students to generate their own physics problems]] supports [[transfer-of-learning|transfer]] and self-study, and [[dai-chatbots-problem-posing-primary-2026|GenAI chatbots]] improved primary students' problem-posing quality and reduced cognitive load in [[inquiry-based-learning|inquiry-based learning]].
+The literature approaches problem solving through distinct but converging lenses. [[llm-critical-thinking-teamwork-review|A PRISMA systematic review]] finds that LLMs often produce incomplete or incorrect responses, prompting students to question, verify, and improve information — turning model imperfections into validation-and-correction cycles that strengthen [[critical-thinking|critical thinking]] and mental independence. Rather than treating problems as given, other work foregrounds *problem posing*: [[genai-assisted-problem-posing-physics-2026|training students to generate their own physics problems]] supports [[transfer-of-learning|transfer]] and self-study, and [[dai-chatbots-problem-posing-primary-2026|GenAI chatbots]] improved primary students' problem-posing quality and reduced cognitive load in [[inquiry-based-learning|inquiry-based learning]].
 
 Scaffolding and assessment are also central. [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Adaptive AI scaffolds]] derived from sequence-mining individual students' process patterns boost on-task performance in collaborative [[math-education|mathematics]] problem solving — though maximal scaffolding also increased scripting behavior. Structure inside the scaffold, not only its presence, is what keeps it from collapsing into answer-giving. A rule-guided LLM tutor built as diagnosis, intent selection and constrained response generation held tutor and students to the intended turn-taking script in 36 of 40 (90%) real Grade 5 sessions, and its anti-spoiler and completion-only gates cut premature answer-giving ([[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu and Sun, 2026]]). The authors' strongest design claim is subtractive: arithmetic stayed outside the tutor's role and was returned to the student, after the tutor produced incorrect arithmetic in 4 of 40 sessions.
 

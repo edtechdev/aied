@@ -1,6 +1,6 @@
 ---
 title: "Teachers' AI Belief Profiles and Their Associations with AI Use, Pedagogical Applications, and Barriers: A Person-Centered Analysis of TALIS 2024"
-created: "2026-09-30T15:20:47-04:00"
+created: "2026-09-30T12:56:30-04:00"
 updated: "2026-09-30T15:20:47-04:00"
 type: article
 sources: ['raw/papers/10.3390_bs16101762.md']

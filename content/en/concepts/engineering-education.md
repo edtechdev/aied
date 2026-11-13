@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-11-07T12:15:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -14,7 +14,7 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **Engineering Education** — the study of how students learn engineering and how to teach it effectively, spanning how AI transforms engineering pedagogy, assessment, faculty development, and the engineering workforce. The engineering education articles in this knowledge base cluster around several themes: the [[engineering-faculty-metaphors-ai-understanding-2026|figurative language]] instructors use to make sense of AI, [[ethical-use-ai-engineering-education-review-2026|ethical governance]] of AI use, [[multimodal-embodied-cognition-oral-explanations-2026|embodied and multimodal assessment]] of conceptual understanding, and how AI is reshaping the [[ai-engineering-computing-workforce-grey-literature-2026|engineering and computing workforce]].
+> **Engineering Education** — the study of how students learn engineering and how to teach it effectively, spanning how AI transforms engineering pedagogy, assessment, faculty development, and the engineering workforce. The engineering education research clusters around several themes: the [[engineering-faculty-metaphors-ai-understanding-2026|figurative language]] instructors use to make sense of AI, [[ethical-use-ai-engineering-education-review-2026|ethical governance]] of AI use, [[multimodal-embodied-cognition-oral-explanations-2026|embodied and multimodal assessment]] of conceptual understanding, and how AI is reshaping the [[ai-engineering-computing-workforce-grey-literature-2026|engineering and computing workforce]].
 
 ## Questions to Consider
 
@@ -28,7 +28,7 @@ reviewed_by: [editor]
 
 Engineering education research is distinctive because it sits at the intersection of professional formation and rigorous STEM content. It emphasizes [[design-thinking|design]], problem-solving, hands-on and laboratory learning, teamwork, and preparing graduates for professional practice. Design is also the ground it shares with [[design-education]], and the two divide it by what can be checked: engineering's assessed object admits calculable artifacts and carries public-safety accountability, while design education's is the studio process behind the artifact — sketch, iteration, critique — the very evidence generative tools can now produce without the process that once generated it. AI raises distinctive questions here: whether hands-on and embodied experience still matters when AI can simulate or automate design tasks; the professional and ethical stakes of AI use (engineers' decisions affect public safety, infrastructure, and [[sustainability]]); and how AI reshapes the competencies graduates need and the workforce they enter.
 
-## How AI appears in the knowledge base's engineering education research
+## How AI appears in engineering education research
 
 - **Faculty understanding and shared language:** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] analyze the [[metaphors-and-analogies|metaphors]] engineering instructors use to describe AI, finding that most frame it either as a human-like "social being/agent" or as a "technical tool," and that instructors within the same department often hold fundamentally different mental models. Because metaphors both construct and constrain understanding, they argue a shared, accurate language is essential for [[educational-development]] and departmental discussions about AI.
 - **Ethics and responsible use:** [[ethical-use-ai-engineering-education-review-2026|Osunbunmi et al.]] [[meta-analysis-systematic-review|systematically review]] empirical studies of AI in undergraduate engineering education, identifying seven recurring forms of ethical guidance (transparency, accountability, student independence/agency, privacy, [[academic-integrity]], fairness/[[equity-in-ai-education|equity]]/bias, beneficence). They find ethical guidance is predominantly student-facing and compliance-oriented, with reciprocal faculty and institutional accountability underdeveloped — a concern heightened by engineering's direct stake in public safety and societal [[well-being]].
@@ -53,11 +53,11 @@ Engineering education's signature concerns shape how AI is taken up: **hands-on 
 
 ## Connections to related concepts
 
-Engineering education sits within [[stem-education]] and connects strongly to [[cs-education]] (computing and software engineering), [[math-education]] and [[physics-education]] (engineering's mathematical and physical foundations), [[professional-training]] and [[educational-development]] (workforce and instructor preparation), [[assessment]] and [[ethics]] (the professional and evaluative stakes of AI), and [[higher-ed]] (the institutional context). It is the home discipline for the knowledge base's ASEE-sourced articles.
+Engineering education sits within [[stem-education]] and connects strongly to [[cs-education]] (computing and software engineering), [[math-education]] and [[physics-education]] (engineering's mathematical and physical foundations), [[professional-training]] and [[educational-development]] (workforce and instructor preparation), [[assessment]] and [[ethics]] (the professional and evaluative stakes of AI), and [[higher-ed]] (the institutional context). It is the home discipline for the field's ASEE-sourced articles.
 
 ## Under-covered sub-areas
 
-The knowledge base's engineering education coverage is still developing. Sub-areas that would benefit from further articles include **[[discipline-specific-aied|discipline-specific]] engineering [[pedagogy|pedagogies]]** (mechanical, civil, chemical, electrical, software, and bioengineering education), **[[design-education|design]] and maker education**, **capstone and [[project-based-learning|project-based learning]]**, and **engineering ethics education** — where AI's role is likely to be especially consequential.
+Engineering education coverage is still developing. Sub-areas that would benefit from further articles include **[[discipline-specific-aied|discipline-specific]] engineering [[pedagogy|pedagogies]]** (mechanical, civil, chemical, electrical, software, and bioengineering education), **[[design-education|design]] and maker education**, **capstone and [[project-based-learning|project-based learning]]**, and **engineering ethics education** — where AI's role is likely to be especially consequential.
 
 That gap is no longer empty in one area: a three-year biomedical engineering program ran generative AI as a guarded knowledge-summarization and coding scaffold inside a four-module PBL sequence — approved tools, no patient data, disclosure logs — and reported A-rates of 66.4% against 39.1% for pre-AI cohorts ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. (2026)]]).
 

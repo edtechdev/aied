@@ -1,7 +1,7 @@
 ---
 title: Remote Proctoring
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -16,12 +16,12 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- Before you read, when you picture 'academic integrity in online exams,' what's your first instinct about how to preserve it — and is that instinct about detecting cheaters or about building trust? The page argues these reflect two very different philosophies.
+- Before you read, when you picture 'academic integrity in online exams,' what's your first instinct about how to preserve it — and is that instinct about detecting cheaters or about building trust? Those instincts reflect two very different philosophies.
 - Remote proctoring ranges from a human watching via webcam to AI systems analyzing eye movements, head posture, and facial expressions. What does an AI system *actually* observe when it flags 'suspicious behavior,' and how confident are you that looking away from the screen equals cheating?
-- The page warns that monitoring can be counterproductive: being watched raises [[anxiety-and-stress|test anxiety]], and stressed students may be *more* likely to cheat. Can you think of a time pressure or surveillance affected your own performance? Does that experience undermine the case for proctoring?
+- Surveillance can backfire: anxiety rises under observation, and stressed students may be *more* likely to cheat. Can you think of a time pressure or surveillance affected your own performance? Does that experience undermine the case for proctoring?
 - Automated proctoring captures students' living space, face, and voice, often with little genuine choice but to consent. Where is the line between reasonable exam supervision and surveillance that presumes students guilty until proven honest — and who should draw it?
 - Research shows proctoring can flag benign behavior as suspicious, producing false accusations, and that model accuracy varies across demographics and environments. If you're an [[administrator]], how do you weigh the integrity it recovers against the equity and trust it can erode?
-- The page frames proctoring as one tool, not a solution — alternatives like oral and [[process-oriented-assessment|process-based assessment]] exist. Before reading, which approach would you defend for high-stakes assessment in a remote context, and what evidence would change your mind?
+- Proctoring is one tool, not a solution: alternatives like oral and [[process-oriented-assessment|process-based assessment]] exist. Before reading, which approach would you defend for high-stakes assessment in a remote context, and what evidence would change your mind?
 
 ## Introduction
 

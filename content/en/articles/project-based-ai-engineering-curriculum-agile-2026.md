@@ -1,6 +1,6 @@
 ---
 title: "Preparing Students for AI-Driven Agile Development: A Project-Based AI Engineering Curriculum"
-created: "2026-10-27T09:53:00-04:00"
+created: "2026-10-27T09:35:41-04:00"
 updated: "2026-10-27T09:53:00-04:00"
 type: article
 authors: ["Rausch, A."]

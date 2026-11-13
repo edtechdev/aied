@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Self-Directed Learning
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-11-12T21:50:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -17,7 +17,7 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - Self-directed learning means diagnosing your own needs, setting goals, and evaluating outcomes with limited external structure. Before you read, how comfortable are you actually directing your own learning — and has an AI tool ever made you *less* able to, without you noticing?
-- The page frames SDL as both a hoped-for outcome and a vulnerability: generative AI's convenience can erode the very autonomy and self-efficacy SDL requires. Why would a tool that gives you instant answers make it *harder* to direct your own learning later?
+- SDL is both a hoped-for outcome and a vulnerability: generative AI's convenience can erode the very autonomy and self-efficacy SDL requires. Why would a tool that gives you instant answers make it *harder* to direct your own learning later?
 - Thoughtless use of GenAI — adopting outputs without [[critical-thinking|critical evaluation]] — was found to harm SDL both directly and by eroding self-efficacy and motivation. Can you recall a time you accepted an AI answer without evaluating it? What, if anything, did that cost you?
 - SDL and self-regulated learning (SRL) are closely related but distinct: SRL concerns in-the-moment [[regulation]] of learning, while SDL concerns overarching responsibility across time. Where do you see the boundary between 'managing this task' and 'directing my own learning' in your own practice?
 - The harm from thoughtless AI use hit motivation harder for some students and self-efficacy harder for others. If the erosion of these psychological resources is uneven across learners, what [[equity-in-ai-education|equity]] concern does that raise about who loses the most from AI convenience?
@@ -29,13 +29,13 @@ Self-directed learning is a close neighbor of [[self-regulated-learning|self-reg
 
 ## How generative AI reshapes self-directed learning
 
-The knowledge base's [[research-methods-aied|research]] documents both sides of the GenAI–SDL relationship.
+The research documents both sides of the GenAI–SDL relationship.
 
 - **AI can support SDL.** [[ai-lifelong-learning-policy|AI and lifelong learning]] and [[self-directed-growth-generative-ai-learning-analytics|self-directed growth with GenAI + learning analytics]] show that AI tools can [[scaffolding|scaffold]] independent inquiry, provide on-demand resources, and personalize learning paths in ways that strengthen learner autonomy. [[genai-educational-outcomes-meta-analysis|Meta-analytic evidence]] on generative AI educational outcomes and [[conversational-ai-informal-learning|conversational AI in informal learning]] suggest positive potential when AI is used as a resource the learner directs.
 - **Learners want a thinking partner, not an oracle.** Interviewed adult learners wanted AI to prompt reflection and verify rather than supply answers, and to leave them in control of the [[recommender-systems-and-learning-paths|learning path]] rather than prescribe it ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
-- **Delegating goal choice is not the same as supporting it.** The page treats setting the goal as the learner's core act, and the benchmark evidence says models do it differently. Against 175 humans, GPT-5, Claude Sonnet 4.5 and Qwen3 32B re-selected the previous goal on 0.93, 0.93 and 0.94 of trials, against 0.54 ± 0.18 for people. Goal entropy was 0.12 to 0.20 against 1.67 ± 0.14, and chain-of-thought and persona prompts did not close the gap. A system that proposes what to learn next reproduces a narrower search than the learner it stands in for ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
+- **Delegating goal choice is not the same as supporting it.** Setting the goal is the learner's core act, and the benchmark evidence says models do it differently. Against 175 humans, GPT-5, Claude Sonnet 4.5 and Qwen3 32B re-selected the previous goal on 0.93, 0.93 and 0.94 of trials, against 0.54 ± 0.18 for people. Goal entropy was 0.12 to 0.20 against 1.67 ± 0.14, and chain-of-thought and persona prompts did not close the gap. A system that proposes what to learn next reproduces a narrower search than the learner it stands in for ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
 
-- **Thoughtless use undermines SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] show that the **thoughtless use of GenAI** — adopting AI outputs without critical evaluation — significantly harms undergraduates' SDL both directly and through erosion of [[self-efficacy]] and [[motivation]] (the model explained 75.3% of SDL variance; TUGA β = −0.42). The negative effect on motivation was stronger for male students and on self-efficacy stronger for female students. This connects to the broader [[cognitive-offloading|over-reliance]] risk documented in the knowledge base.
+- **Thoughtless use undermines SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] show that using GenAI without evaluating what it returns did damage in two directions: it lowered undergraduates' SDL directly and also eroded [[self-efficacy]] and [[motivation]] (the model explained 75.3% of SDL variance; TUGA β = −0.42). The negative effect on motivation was stronger for male students and on self-efficacy stronger for female students. This connects to the broader [[cognitive-offloading|over-reliance]] risk.
 
 - **Unguided use at population scale.** Across 4,062 students in 136 German secondary schools, task-completion and learning-oriented GenAI use both rose over one school year (d = 0.35 and 0.33), with only 5% of students never using the tools; lower prior achievement predicted more subsequent use in all six subjects, yet neither form of use predicted later achievement ([[scherer-self-directed-genai-use-secondary-2026|Scherer et al. (2026)]]).
 

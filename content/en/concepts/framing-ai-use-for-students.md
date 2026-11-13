@@ -1,7 +1,7 @@
 ---
 title: Framing AI Use for Students
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -39,7 +39,7 @@ The frame also shapes whether students experience AI as a **threat to be avoided
 
 ### Frame AI as a productive tool, not a threat to be banned
 
-The most directly tested framing intervention in the knowledge base is a six-year natural experiment tracking a data-[[visualization]] course across three conditions: pre-GenAI, GenAI-available (present but unintegrated), and GenAI-integrated (explicit instruction + encouragement to use AI on applied work, banned only on the knowledge-check portion). The finding: simply *making* AI available was associated with students using it ineffectively or unethically, while *explicitly framing and embedding* its appropriate use recovered and improved outcomes on applied questions.([[moral-panic-genai-classroom]]) The lesson is that the framing (how AI is positioned and taught) matters as much as the tool's presence — encouraging appropriate use beats condemning or ignoring it.
+The most directly tested framing intervention is a six-year natural experiment tracking a data-[[visualization]] course across three conditions: pre-GenAI, GenAI-available (present but unintegrated), and GenAI-integrated (explicit instruction + encouragement to use AI on applied work, banned only on the knowledge-check portion). The finding was that simply *making* AI available was associated with students using it ineffectively or unethically. *Explicitly framing and embedding* its appropriate use, by contrast, recovered and improved outcomes on applied questions.([[moral-panic-genai-classroom]]) The lesson is that the framing (how AI is positioned and taught) matters as much as the tool's presence — encouraging appropriate use beats condemning or ignoring it.
 
 ### Message expectations clearly and repeatedly — and design around students
 
@@ -47,7 +47,7 @@ Because rule-awareness alone does not shift behavior, effective framing pairs cl
 
 ### Say why, not just what
 
-The most direct framing lever in the knowledge base is supplying the *reason* for a boundary task by task, composed as though speaking to students ("you will…", "we will…"). [[mccorkle-aligned-genai-course-policy-2025|McCorkle's (2025)]] design case documents the mechanism: after office-hour conversations revealed that students who had read a prohibition did not believe it applied to them, she rebuilt the policy so that every allowed or unallowed use of GenAI was justified by the specific [[assessment]] it protects — for example, GenAI help with learning objectives is unallowed because "I am assessing your ability to compose learning objectives that are specific, measurable, and at an appropriate level" — and delivered that rationale both in the syllabus and as just-in-time reminders inside assignment instructions. Framing by rationale is an [[equity-in-ai-education|equity]] move as much as a persuasive one: it assumes less shared background knowledge about authorship, originality, and attribution, and it turns policy into a dialogue rather than a verdict ([[academic-integrity]]).
+The most direct framing lever is supplying the *reason* for a boundary task by task, composed as though speaking to students ("you will…", "we will…"). [[mccorkle-aligned-genai-course-policy-2025|McCorkle's (2025)]] design case documents the mechanism: after office-hour conversations revealed that students who had read a prohibition did not believe it applied to them, she rebuilt the policy so that every allowed or unallowed use of GenAI was justified by the specific [[assessment]] it protects. One example: GenAI help with learning objectives is unallowed because "I am assessing your ability to compose learning objectives that are specific, measurable, and at an appropriate level." She delivered that rationale both in the syllabus and as just-in-time reminders inside assignment instructions. Framing by rationale is an [[equity-in-ai-education|equity]] move as much as a persuasive one: it assumes less shared background knowledge about authorship, originality, and attribution, and it turns policy into a dialogue rather than a verdict ([[academic-integrity]]).
 
 ### Reframe anxiety and uncertainty into evaluative competence
 
@@ -80,13 +80,13 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 
 ## Common Misconceptions
 
-**"A clear policy tells students what the rules are, so framing is unnecessary."** Policy text is not framing, and the gap shows in behavior: most students use generative AI, **many are unsure whether their own use complies**, and they lean on privately accessed tools rather than institutionally provided ones. A student who cannot tell whether they are compliant is not being communicated with, whatever the document says — which is why the page puts "say why, not just what" in its method.
+**"A clear policy tells students what the rules are, so framing is unnecessary."** Policy text is not framing, and the gap shows in behavior: most students use generative AI, **many are unsure whether their own use complies**, and they lean on privately accessed tools rather than institutionally provided ones. A student who cannot tell whether they are compliant is not being communicated with, whatever the document says, which is why the practical rule is "say why, not just what".
 
-**"Publishing a policy and providing a licensed tool covers the institutional responsibility."** Access and take-up are different outcomes, and this page exists because the second one is where the lever is. Structural [[guardrails]] change the environment automatically, but [[scaffolding]], literacy training and use policies only take hold when students are actually convinced of their point — that is the buy-in dependency the page names.
+**"Publishing a policy and providing a licensed tool covers the institutional responsibility."** Access and take-up are different outcomes, and the second one is where the lever is. Structural [[guardrails]] change the environment automatically, but [[scaffolding]], literacy training and use policies only take hold when students are actually convinced of their point, which is the buy-in dependency.
 
 **"Banning a tool removes the behaviour."** It relocates it to tools you cannot see. Students already prefer privately accessed tools over institutionally provided ones, so a prohibition pushes use out of the only environment where support, logging or guidance is possible. The framing task is to make the permitted behavior the attractive one, not to make the prohibited behavior harder to observe.
 
-**"Framing is persuasion, so it is more rhetoric than design."** The framing this page describes is paired with design: expectations stated clearly and repeatedly *while designing around students*. Messaging delivered instead of designed-for is the version that fails, because students read the difference between a stated commitment and an actual one.
+**"Framing is persuasion, so it is more rhetoric than design."** Effective framing is paired with design: expectations stated clearly and repeatedly *while designing around students*. Messaging delivered instead of designed-for is the version that fails, because students read the difference between a stated commitment and an actual one.
 
 ## Connected Concepts
 

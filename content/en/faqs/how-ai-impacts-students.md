@@ -1,7 +1,7 @@
 ---
 title: "How Is AI Impacting Students?"
 created: "2026-08-27T07:59:08-04:00"
-updated: "2026-10-28T11:14:23-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
@@ -19,7 +19,7 @@ ai_assist:
 
 You are using AI for coursework and doing fine, except that the [[summative-assessment|closed-book exam]] felt like reading someone else's notes. Or a friend says they wrote nothing and still got an A, and you are wondering what that means for you. Or you have started asking a chatbot more questions than you ask your instructor.
 
-The short answer, in a form you can repeat to a friend: AI is useful where you need feedback and unhelpful where you need practice. Keep the thinking step for yourself, test yourself without the tool before you submit, and be straight about what you used. The rest of this page is why that holds and what it looks like on a Tuesday night.
+The short answer, in a form you can repeat to a friend: AI is useful where you need feedback and unhelpful where you need practice. Keep the thinking step for yourself, test yourself without the tool before you submit, and be straight about what you used. That advice holds for reasons worth setting out, and it takes a concrete shape on a Tuesday night.
 
 ## The short version
 
@@ -51,7 +51,7 @@ Knowing it is there also changes what you are willing to struggle with. [[ai-ava
 
 ## Test yourself without the tool
 
-The check takes ten minutes and it is the most useful thing on this page. Close everything, take a blank page, and write the argument of your submission from memory: the claim, the two or three reasons, and what would count against it. Then open your work and compare.
+The check takes ten minutes and it is the most useful thing you can do. Close everything, take a blank page, and write the argument of your submission from memory: the claim, the two or three reasons, and what would count against it. Then open your work and compare.
 
 If the blank page comes out close, you learned the material and the tool helped you organize it. If it comes out empty while the document is polished, you have a performance gap, and the grade will hide it until an exam or a placement does not. Go back to the section you could not reproduce, work it without help, and check again.
 
@@ -107,4 +107,4 @@ The emotional side can also be good. In a [[qualitative-research|qualitative]] s
 
 ## Where to go next
 
-[[does-ai-help-students-learn|Does using AI actually help students learn?]] is the evidence question behind this page, and [[study-with-ai]] covers working routines. [[ai-anxiety-wellbeing]] takes the anxiety side further, and [[guardrails]] explains how a scaffold becomes a substitute. The course-design view is in [[incorporating-ai-literacy|How should I incorporate AI literacy into my course?]] and [[ai-literacy-evidence|What is the evidence on AI literacy interventions in higher education?]].
+[[does-ai-help-students-learn|Does using AI actually help students learn?]] is the evidence question behind these answers, and [[study-with-ai]] covers working routines. [[ai-anxiety-wellbeing]] takes the anxiety side further, and [[guardrails]] explains how a scaffold becomes a substitute. The course-design view is in [[incorporating-ai-literacy|How should I incorporate AI literacy into my course?]] and [[ai-literacy-evidence|What is the evidence on AI literacy interventions in higher education?]].

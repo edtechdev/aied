@@ -1,6 +1,6 @@
 ---
 title: "AI Tutor Pro as a Higher Education Study Tool: Pedagogy, Privacy, and Trust"
-created: "2026-11-10T21:55:00-05:00"
+created: "2026-11-10T19:39:31-05:00"
 updated: "2026-11-10T21:55:00-05:00"
 type: article
 sources: ['raw/papers/owston-ai-tutor-pro-pedagogy-privacy-trust-2026.md']

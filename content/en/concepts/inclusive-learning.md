@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -17,7 +17,7 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - An accessible tool does not guarantee inclusive instruction, and assistive tech does not guarantee meaningful agency. What is the difference between removing a barrier to a format and designing education so everyone can meaningfully participate?
-- The page distinguishes inclusive learning, accessibility, assistive technology, special education, and universal design. Where does AI in your own context sit — and which question are you actually trying to answer?
+- Inclusive learning is the umbrella, and the four concepts it holds each answer a different question. Where does AI in your own context sit — and which question are you actually trying to answer?
 - One study found AI-segmented videos with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners. How might designing for one group's needs improve learning for everyone?
 - AI systems are described as risking new accessibility gaps even as they remove old ones. What kind of learner might a text-based, visual, always-online AI tool silently exclude?
 - Inclusive assessment research exposes a tension between anti-cheating measures and accommodating learners with visual-processing needs. When security and accessibility conflict, how should the trade-off be decided — and by whom?
@@ -29,11 +29,11 @@ Inclusive learning is the design commitment that education should be built so th
 
 ## How the related concepts fit together
 
-Inclusive learning is the **umbrella** concept; the pages below sit inside it, each answering a different question. They overlap but are not interchangeable — knowing which one a claim belongs to keeps the knowledge base precise:
+Inclusive learning is the **umbrella** concept; the pages below sit inside it, each answering a different question. They overlap but are not interchangeable — knowing which one a claim belongs to keeps the analysis precise:
 
 | Concept | Core question it answers | Typical focus |
 |---|---|---|
-| **Inclusive Learning** *(this page)* | How do we [[design-education|design education]] so all learners can meaningfully participate? | The broad design of instruction across learner variability |
+| **Inclusive Learning** *(the umbrella)* | How do we [[design-education|design education]] so all learners can meaningfully participate? | The broad design of instruction across learner variability |
 | **[[accessibility]]** | Can everyone perceive and operate the *format/medium*? | Captions, alt text, transcripts, contrast, keyboard/screen-reader compat, WCAG |
 | **[[assistive-technology]]** | What tools/equipment bridge an individual's access gap? | Screen readers, TTS/STT, braille/tactile, captioning, AI accommodations |
 | **[[special-education]]** | How do we deliver instruction to learners with diagnosed disabilities? | IEPs, individualized accommodations, disability-specific tutoring — **primarily a [[k-12]] term (IDEA/entitlement)** |
@@ -41,7 +41,7 @@ Inclusive learning is the **umbrella** concept; the pages below sit inside it, e
 
 In practice: **UDL** is the design philosophy that *prevents* barriers; **accessibility** is the property that removes *format* barriers; **assistive technology** is the *tool* layer individuals use; **special education** is the *instructional* domain for diagnosed disabilities — and it is primarily a **K-12** term, whereas in **[[higher-ed|higher education]]** (and increasingly K-12 too) the more common framing is [[universal-design-for-learning|Universal Design for Learning]]. **Inclusive learning** is the umbrella that holds them together around the shared goal of equitable participation. An accessible tool does not guarantee inclusive instruction, and assistive tech does not guarantee meaningful agency — which is why the umbrella must span all of them.
 
-Inclusive learning sits at the intersection of [[equity-in-ai-education]], [[learning-design]], and [[special-education]], and is supported by the concrete tool layer of [[assistive-technology]] and the design property of [[accessibility]]. Unlike narrow accommodations that retrofit access onto existing systems, the inclusive learning perspective — grounded in [[universal-design-for-learning|Universal Design for Learning]] — argues that environments should be designed for the full range of human diversity from the start. The articles in this knowledge base explore how AI can enable this through automated content transformation, adaptive assessment interfaces, and tools designed with [[neurodiversity|neurodivergent users']] lived experience as the starting point.
+Inclusive learning sits at the intersection of [[equity-in-ai-education]], [[learning-design]], and [[special-education]], and is supported by the concrete tool layer of [[assistive-technology]] and the design property of [[accessibility]]. Unlike narrow accommodations that retrofit access onto existing systems, the inclusive learning perspective — grounded in [[universal-design-for-learning|Universal Design for Learning]] — argues that environments should be designed for the full range of human diversity from the start. Research explores how AI can enable this through automated content transformation, adaptive assessment interfaces, and tools designed with [[neurodiversity|neurodivergent users']] lived experience as the starting point.
 
 ### Key research themes
 
@@ -83,7 +83,7 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 
 **"An accessible tool is an inclusive course."** Accessibility answers one question — can everyone perceive and operate the format — which is necessary and nowhere near sufficient. Inclusive learning also asks what tools bridge an individual's [[digital-divide|access gap]] and how the design should anticipate variation rather than retrofit for it. A screen-reader-compatible interface in a course whose assessment structure assumes a quiet room, reliable broadband and uninterrupted time has solved the display problem and left the participation problem intact.
 
-**"Supplying assistive technology supplies agency."** The two are distinct, and the page's own framing says so: assistive tech does not guarantee meaningful agency. A tool that lets a learner complete the required task can also route them toward the narrowest version of it, and the difference between a scaffold and a ceiling is invisible in an adoption metric.
+**"Supplying assistive technology supplies agency."** The two are distinct: assistive tech does not guarantee meaningful agency. A tool that lets a learner complete the required task can also route them toward the narrowest version of it, and the difference between a scaffold and a ceiling is invisible in an adoption metric.
 
 **"Students who struggle should simply learn to prompt better."** That converts a system defect into a learner deficit. With the underlying task held fixed, model accuracy rose only from **82.4% for low-literacy wording to 83.4% for expert phrasing** — a one-point difference — while requiring better [[prompt-engineering|prompting]] adds a new exclusion on top of the existing one. The leverage is in the system-side handling of language variation, not in remedial prompt training.
 

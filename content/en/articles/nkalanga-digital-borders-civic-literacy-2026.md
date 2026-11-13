@@ -1,6 +1,6 @@
 ---
 title: "Digital borders, algorithmic governance and civic digital literacy: examining the educational implications of AI-driven immigration management in post-apartheid South Africa"
-created: "2026-11-04T12:00:00-05:00"
+created: "2026-11-04T09:20:30-05:00"
 updated: "2026-11-04T15:58:10-05:00"
 type: article
 foundations: [ai-literacy]

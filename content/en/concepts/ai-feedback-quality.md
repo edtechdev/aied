@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_resources: [my-essay-feedback]
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-AI feedback quality is not simply about correctness. Effective feedback must be timely, specific, actionable, and calibrated to the learner's current understanding. Research in this knowledge base examines AI feedback quality across multiple dimensions: accuracy (is the feedback correct?), usefulness (does it help the student improve?), and pedagogical alignment (does it promote learning rather than just task completion?).
+AI feedback quality is not simply about correctness. Effective feedback must be timely, specific, actionable, and calibrated to the learner's current understanding. Three questions organize most of that research: accuracy (is the feedback correct?), usefulness (does it help the student improve?), and pedagogical alignment (does it promote learning rather than just task completion?).
 
 ## How AI feedback quality appears in the research
 
@@ -92,7 +92,7 @@ How the feedback is *produced* belongs on that list too. In a modular automated 
 
 ## Quality dimensions
 
-AI feedback quality spans multiple dimensions captured in the knowledge base:
+AI feedback quality spans multiple dimensions:
 - **Accuracy:** Does the feedback correctly identify errors and strengths? ([[automated-assessment|Automated Grading]], [[automated-essay-scoring]])
 - **Retrievability of evidence:** Can the system actually reach the evidence it is judging? [[ai-assisted-physics-lab-report-assessment-2026|Abreu, Stari and Martí (2026)]] separate evidence present in a submission from evidence available after processing — an equation, graph or unit may be included in a report yet never retrieved, so feedback about that criterion rests on nothing — making retrieval a dimension of quality distinct from accuracy or calibration. Their response is to require each score to cite concrete evidence from the report, so an observation that cannot be traced back to the text is visible as unsupported.
 - **Helpfulness:** Does the feedback guide improvement? ([[feedback|Feedback Loop]], [[becerra-aicofe-feedback-2026]])
@@ -117,7 +117,7 @@ AI feedback quality spans multiple dimensions captured in the knowledge base:
 
 AI feedback quality connects fundamentally to [[formative-assessment]] and [[feedback|Feedback Loop]] — quality feedback closes the gap between current and desired performance. It intersects with [[automated-assessment|Automated Grading]] (which generates the scores feedback is based on), [[ai-literacy]] (students must evaluate feedback quality critically), and [[cognitive-offloading|Over-Reliance]] (uncritical acceptance of AI feedback can displace learning). For [[writing-education]], feedback quality is particularly consequential given AI's growing role in writing assessment.
 
-The corpus behind those quality claims is thinner than the claims suggest. Across 51 studies of GenAI written feedback in second-language writing, 16 experimental designs used no control group and only 27 reported the prompts they used — so two in five results cannot be reproduced or compared on the variable that most shapes output ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite & Sun (2026)]]). Quality evidence in this literature therefore accumulates more slowly than its volume implies.
+The evidence behind those quality claims is thinner than the claims suggest. Across 51 studies of GenAI written feedback in second-language writing, 16 experimental designs used no control group and only 27 reported the prompts they used — so two in five results cannot be reproduced or compared on the variable that most shapes output ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite & Sun (2026)]]). Quality evidence in this literature therefore accumulates more slowly than its volume implies.
 
 [[wu-deepseek-reasoning-written-feedback-2026|Wu, Li and Moorhouse (2026)]] examine DeepSeek's explicit reasoning traces as a feedback affordance, finding that visible reasoning makes the basis of a comment inspectable by the writer, while the model still routes higher-order judgment, such as argumentation, to the human.
 

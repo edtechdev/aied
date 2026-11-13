@@ -1,7 +1,7 @@
 ---
 title: Reinforcement Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 pedagogy: [active-learning, scaffolding]
@@ -18,7 +18,7 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - An RL tutor 'learns' what to do by maximizing a reward signal. Before you read, what could be wrong with an AI that optimizes for a reward — specifically if the reward is something like 'student clicks continue' or 'correct answer now'?
-- The page notes that reward design encodes educational values. If you had to specify the reward an AI tutor should maximize, what would you put in it — and what would your reward accidentally ignore or reward incorrectly?
+- Reward design encodes educational values. If you had to specify the reward an AI tutor should maximize, what would you put in it — and what would your reward accidentally ignore or reward incorrectly?
 - RL trains agents to make long-horizon sequences of decisions (what hint, when to advance difficulty, how to pace) rather than single answers. How is that different from the moment-to-moment correctness you might naively reward — and why does the difference matter for learning?
 - A tutor's reward can carry the safety constraint inside it, so what the policy is paid for cannot override learner [[well-being]]. Think of a 'helpful' behavior a reward-optimizing tutor might exhibit that would actually be pedagogically harmful (e.g., giving away answers to inflate completion). Where would your safety line go?
 - Reward optimization can preserve or destroy [[desirable-difficulties|productive struggle]], depending on design. From your experience, is 'student completes task' the same as 'student learns'? Where have you seen an AI optimized for the former while undermining the latter?
@@ -29,7 +29,7 @@ reviewed_by: [editor]
 
 Reinforcement learning (RL) trains an agent by rewarding desired behavior — the agent learns a policy that maximizes cumulative reward through trial and error. In [[ai-education|AI in education]], RL is used to train tutoring agents and learning companions whose decisions chain together over a session — which hint to give, when to advance difficulty, how to pace practice — rather than resolving one answer at a time. This makes RL well suited to [[adaptive-learning]] and [[intelligent-tutoring]] where long-horizon pedagogical decisions matter.
 
-## Applications documented in the knowledge base
+## Documented applications
 
 - **Pedagogically aligned RL.** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] uses an RL-SFT-RL pipeline to train a model that *guides* rather than answers, aligning reward with pedagogical goals; [[special-r1-rl-special-education]] applies RL to tutor design for [[special-education]].
 - **RL beats supervised fine-tuning for pedagogical instruction following.** LearnLM's training found preference-based RL significantly more effective than SFT alone, because preference judgments capture context-dependent distinctions across long conversations that instruction-labeled supervised data only partly handles ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
@@ -43,7 +43,7 @@ Reinforcement learning (RL) trains an agent by rewarding desired behavior — th
 
 A [[meta-analysis-systematic-review|PRISMA]]-standard [[riedmann-reinforcement-learning-education-review-2026|systematic review of RL in education (Riedmann, Schaper & Lugrin, 2025)]] synthesized 89 studies (2000–2024), finding a sharp post-2016 growth in [[adaptive-learning]] and [[intelligent-tutoring|tutoring]] applications concentrated in STEM (especially [[math-education]]). It reports that model-free RL dominated (n = 72) with Q-learning the most common algorithm, yet classical RL was more consistently effective than Deep RL (61% vs 36% of papers showing significant superiority). Adaptation split into content-scheduling (n = 53) and guidance-related (n = 36) mechanisms, with RL beating baselines more often on guidance, and learning gain — especially normalized learning gain — was the most effective reward source. The review also warns that over half of studies (n = 54) skipped statistical testing, so the field's growth has outpaced its methodological rigor.
 
-## Connection to the knowledge base
+## Connection to AIED design
 
 RL underpins much modern [[agentic-ai]] and [[intelligent-tutoring]] design, where the agent must optimize long-term learning rather than a single correct response. It connects to [[llm-training-and-fine-tuning]] (RL as a training method), [[scaffolding]] (reward design that preserves productive struggle), and [[self-regulated-learning]] (agents that help learners regulate their own strategy). Because reward design encodes educational values, RL research in AIED is tightly tied to [[pedagogical-safety]] and to the equity considerations of [[equity-in-ai-education|equitable]] tutor behavior.
 

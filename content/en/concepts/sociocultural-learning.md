@@ -1,7 +1,7 @@
 ---
 title: Sociocultural Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
@@ -14,7 +14,7 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - Vygotsky's Zone of Proximal Development is the gap between what you can do alone and what you can do with help. Recall a time a well-timed hint let you accomplish something you couldn't alone — what made that help effective, and when might it have given too much away?
-- The page claims human thinking is 'mediated' by cultural tools like language and writing that reorganize how we reason. If that's true, how should we think about an AI [[conversational-ai|chatbot]] as a new kind of thinking tool — and how might it change what 'knowing' means?
+- Human thinking is 'mediated' by cultural tools like language and writing that reorganize how we reason. If that's true, how should we think about an AI [[conversational-ai|chatbot]] as a new kind of thinking tool — and how might it change what 'knowing' means?
 - Sociocultural theory says cognition is distributed across people, artifacts, and environments rather than inside individual heads. Does that match your experience of how you actually get things done, and what would it mean for designing learning if it's right?
 - If learning happens first between people and only later within the individual, what are the risks of an AI tutor that lets a student interact mostly with a machine rather than with peers or a more knowledgeable human?
 - How would you decide how much support an AI tutor should give so that a learner advances without the answer simply being handed over?

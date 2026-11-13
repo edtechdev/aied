@@ -1,7 +1,7 @@
 ---
 title: English Education (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-11-06T03:00:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -42,7 +42,7 @@ This concept organizes AI [[research-methods-aied|research]] in **English educat
 
 [[language-learning]] is the broader umbrella for acquiring any second/foreign language — spoken, written, and literate — via AI interlocutors, pronunciation tools, and conversational practice. English education is the **English-specific** case, and within it, EAP is a **register-specific** case:
 
-| Dimension | [[language-learning]] | **English education (this page)** |
+| Dimension | [[language-learning]] | **English education** |
 |-----------|----------------------|-----------------------------------|
 | Target language | Any L2 (French, Spanish, Japanese, …) | English specifically |
 | Focus | L2 acquisition generally: [[speech-and-voice-technologies|spoken dialogue]], pronunciation, literacy | English as a target + the academic-English register |
@@ -55,7 +55,7 @@ The two overlap heavily (most English learning is also L2 acquisition), but Engl
 
 [[writing-education]] concerns writing as a general cognitive and rhetorical skill — across all languages and disciplines, from composition to academic integrity. English education focuses specifically on **English** and, within EAP, on the **academic register**:
 
-| Dimension | [[writing-education]] | **English education (this page)** |
+| Dimension | [[writing-education]] | **English education** |
 |-----------|----------------------|-----------------------------------|
 | Scope | Writing in general (any language, any genre) | English as target language + academic English register |
 | Signature concern | Composition, revision, [[agency]], authorship | EAP genre, academic register, L2/EFL writing, [[feedback-literacy|feedback literacy]] in English |

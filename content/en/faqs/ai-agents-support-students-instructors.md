@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Agents Support Students and Instructors?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-28T11:29:19-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
 audience: [instructors, learners, administrators]
@@ -64,7 +64,7 @@ Ask what a dashboard number counts, who wrote the rubric behind it, and what a l
 
 ## Plan for the switch-off
 
-Randomized trials show that brief AI assistance can depress later unassisted performance, and the interval after withdrawal, [[cognitive-washout-ai-skill-decay-2026|cognitive washout]], is almost entirely unmeasured. The synthesis behind this page draws on a [[meta-analysis-systematic-review|scoping review]] of 474 studies and finds the work concentrated in [[higher-ed|higher education]], [[stem-education|STEM]], short-term designs and text-based tutoring, with only a minority grounded explicitly in educational theory. A pilot that ends when the license ends has measured the wrong window.
+Randomized trials show that brief AI assistance can depress later unassisted performance, and the interval after withdrawal, [[cognitive-washout-ai-skill-decay-2026|cognitive washout]], is almost entirely unmeasured. A [[meta-analysis-systematic-review|scoping review]] of 474 studies finds the work concentrated in [[higher-ed|higher education]], [[stem-education|STEM]], short-term designs and text-based tutoring, with only a minority grounded explicitly in educational theory. A pilot that ends when the license ends has measured the wrong window.
 
 ## What administrators get wrong about this
 
@@ -94,4 +94,4 @@ Access closes the equity gap. Unequal access to capable agentic systems can wide
 
 ## Where to go next
 
-[[developing-ai-tutor]] covers the student-facing build from objective to help ladder, and [[evaluating-ai-interventions-methods]] covers whether the thing worked. [[intelligent-tutoring]] and [[ai-literacy]] supply the design vocabulary this page assumes.
+[[developing-ai-tutor]] covers the student-facing build from objective to help ladder, and [[evaluating-ai-interventions-methods]] covers whether the thing worked. [[intelligent-tutoring]] and [[ai-literacy]] supply the design vocabulary the recommendations assume.

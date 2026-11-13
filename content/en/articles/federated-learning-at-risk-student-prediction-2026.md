@@ -1,6 +1,6 @@
 ---
 title: "Federated learning for privacy-preserving at-risk student prediction in health professional education: A multi-scenario evaluation of FedAvg and FedProx"
-created: "2026-10-04T09:12:00-04:00"
+created: "2026-10-04T09:06:19-04:00"
 updated: "2026-10-31T15:45:40-04:00"
 type: article
 sources: ['raw/papers/federated-learning-at-risk-student-prediction-2026.md']

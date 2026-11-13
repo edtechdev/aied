@@ -1,6 +1,6 @@
 ---
 title: "AI Tutor Pro and AI Teaching Assistant Pro"
-created: "2026-11-10T21:15:00-05:00"
+created: "2026-11-10T19:27:22-05:00"
 updated: "2026-11-10T23:40:54-05:00"
 type: resource
 summary: "Contact North's two free, no-sign-up AI web apps: AI Tutor Pro for student study and practice, and AI Teaching Assistant Pro for instructors building questions, syllabi, learning shorts and slides."

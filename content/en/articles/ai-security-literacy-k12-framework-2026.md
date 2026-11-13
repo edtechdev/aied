@@ -1,6 +1,6 @@
 ---
 title: "AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform"
-created: "2026-10-22T09:28:00-04:00"
+created: "2026-10-22T09:23:20-04:00"
 updated: "2026-10-22T09:28:00-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design]

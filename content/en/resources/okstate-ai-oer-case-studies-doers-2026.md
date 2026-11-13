@@ -1,6 +1,6 @@
 ---
 title: "AI + OER Case Studies: A DOERS Project"
-created: "2026-10-28T17:35:00-04:00"
+created: "2026-10-28T17:31:33-04:00"
 updated: "2026-10-28T19:59:58-04:00"
 type: resource
 summary: "An open anthology of eleven case studies on where generative AI meets open educational resources in higher education, in three parts with four policy priorities, covering system-level guidance, professional development, textbook revision and classroom practice."

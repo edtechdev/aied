@@ -1,7 +1,7 @@
 ---
 title: "Teachers’ basic psychological need satisfactions and their intentions to use generative artificial intelligence: the mediating role of engagement in professional development"
 published: "2026-11-02"
-created: "2026-11-04T12:00:00-05:00"
+created: "2026-11-04T09:20:30-05:00"
 updated: "2026-11-12T07:40:00-05:00"
 type: article
 pedagogy: [motivation, self-determination-theory, student-engagement]

@@ -1,6 +1,6 @@
 ---
 title: "Classroom simulations for social-emotional learning and inclusive teacher education: a four-layer conceptual framework in the age of AI"
-created: "2026-10-31T14:20:00-04:00"
+created: "2026-10-31T14:13:07-04:00"
 updated: "2026-11-04T16:51:25-05:00"
 type: article
 published: "2026"

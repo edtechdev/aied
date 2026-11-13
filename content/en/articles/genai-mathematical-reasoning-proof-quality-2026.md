@@ -1,6 +1,6 @@
 ---
 title: "Generative AI and Mathematical Reasoning: Evaluating the Accuracy, Justification, and Proof Quality of AI-Generated Mathematics Solutions"
-created: "2026-10-05T10:30:00-04:00"
+created: "2026-10-05T09:50:49-04:00"
 updated: "2026-10-05T10:30:00-04:00"
 type: article
 sources: ['raw/papers/genai-mathematical-reasoning-proof-quality-2026.md']

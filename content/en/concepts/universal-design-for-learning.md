@@ -1,7 +1,7 @@
 ---
 title: Universal Design for Learning
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -18,10 +18,10 @@ reviewed_by: [editor]
 
 - UDL's core claim is that learner variability is the norm, not the exception — so design for many pathways from the start rather than fixing a single path for those who struggle. Do you tend to design for an 'average' learner and add accommodations later? What might be lost in that default approach?
 - Think of a time a particular format (a dense text, a lecture, a single way of showing work) excluded you or someone you taught. Which of the three UDL principles — engagement, representation, or action/expression — was at stake, and what would a flexible alternative have looked like?
-- Generative AI can create personalized examples, captions, summaries, and multiple assessment formats — seemingly a gift for UDL. But the page warns AI can also encode bias and reduce [[agency|learner agency]]. Before reading on, how could a tool built to personalize end up *narrowing* rather than widening learning paths for some students?
+- Generative AI can create personalized examples, captions, summaries, and multiple assessment formats — seemingly a gift for UDL. Yet AI can also carry bias and shrink [[agency|learner agency]]. How could a tool built to personalize end up *narrowing* rather than widening learning paths for some students?
 - A common [[misconceptions|misconception]] is that UDL means lowering standards or giving everyone different outcomes. Consider an assignment that lets students submit an essay, a video, a diagram, or code for the same learning outcome. Is that a watering-down, or a fairer way to assess the same ability? Defend your view.
 - UDL turns 'fix the learner' into 'fix the design.' Pick a frustrating learning experience you've had or designed. If the barrier were a design problem rather than a student problem, what would you change about the design to remove it for everyone?
-- The page warns against AI that assumes one communication style or penalizes neurodivergent expression. If you use or design AI-assisted tools, where might 'default' styles quietly exclude learners — and what would it take to audit for that?
+- AI that assumes one communication style or penalizes neurodivergent expression can exclude learners. If you use or design AI-assisted tools, where might 'default' styles quietly exclude learners — and what would it take to audit for that?
 
 ## Introduction
 
@@ -77,7 +77,7 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 
 **"A course with accessible materials has implemented UDL."** Accessibility is one of UDL's three principles and the easiest to audit, so it is frequently the only one done. Building flexible means of engagement and of action and expression is the larger part of the framework, and a course whose PDFs are tagged but whose assessments admit one format has completed the measurable fraction.
 
-**"Faculty who believe they are accessible are accessible."** Belief and practice come apart systematically. The faculty-level findings in this corpus show **90% of respondents believed they create an accessible learning environment and 87% said they actively consider accessibility** — self-attestation rates that cannot all be accurate given what audits find, and a reminder that UDL implementation cannot be assessed by survey in the way it is usually assessed.
+**"Faculty who believe they are accessible are accessible."** Belief and practice come apart systematically. The faculty-level findings in these studies show **90% of respondents believed they create an accessible learning environment and 87% said they actively consider accessibility** — self-attestation rates that cannot all be accurate given what audits find, and a reminder that UDL implementation cannot be assessed by survey in the way it is usually assessed.
 
 **"UDL means designing for the average student more carefully."** The core claim is the opposite: learner variability is the norm rather than the exception, so design provides many pathways from the start instead of fixing one path for those who struggle. Retrofit is what UDL exists to replace, and a single well-tuned path is still a single path.
 

@@ -1,6 +1,6 @@
 ---
 title: "Different lenses on human-AI collaboration: towards a comprehensive view on hybrid intelligence in education"
-created: "2026-10-31T10:45:00-04:00"
+created: "2026-10-31T10:29:56-04:00"
 updated: "2026-10-31T10:45:00-04:00"
 type: article
 published: "2026"

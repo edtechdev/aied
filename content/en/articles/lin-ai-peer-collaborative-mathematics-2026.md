@@ -1,6 +1,6 @@
 ---
 title: "Exploring AI Peer in Collaborative Mathematics Learning"
-created: "2026-10-30T09:59:00-04:00"
+created: "2026-10-30T09:23:42-04:00"
 updated: "2026-10-30T09:59:00-04:00"
 type: article
 published: "2026-10-28"

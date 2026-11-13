@@ -1,6 +1,6 @@
 ---
 title: "Understanding users' intention to adopt AI avatars in online learning: an integrated model of TAM and DOI"
-created: "2026-11-10T18:45:00-05:00"
+created: "2026-11-10T18:42:04-05:00"
 updated: "2026-11-10T18:45:00-05:00"
 type: article
 sources: ['raw/papers/wang-ai-avatars-tam-doi-adoption-2026.md']

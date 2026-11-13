@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence and immersive technologies for LGBTQ+ youth: a narrative review"
-created: "2026-11-04T12:00:00-05:00"
+created: "2026-11-04T09:20:30-05:00"
 updated: "2026-11-04T12:00:00-05:00"
 type: article
 technology: [conversational-ai, virtual-and-augmented-reality, llm]

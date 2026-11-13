@@ -1,7 +1,7 @@
 ---
 title: "How Can I Reduce AI Cheating in My Course?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-06T13:58:13-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 audience: [instructors, assessment designers]
@@ -52,7 +52,7 @@ The [[reducing-ai-misuse|Reducing AI Misuse]] synthesis ranks redesign Tier-1 fo
 
 Start with a label. The [[ai-assessment-scale-reform|AI Assessment Scale (AIAS)]] gives each assignment an AI-use level, from "no AI" through "AI for brainstorming only" and "AI assistance with attribution" to "full AI use," so the expectation is explicit and enforceable rather than inferred.
 
-Then change the artifact. A 72-study [[meta-analysis-systematic-review|systematic review]] of generative AI in [[cs-education|computing education]] rates redesign as both feasible and highest-leverage, and singles out one move: add an oral or otherwise process-visible element to at least one high-stakes assessment per course. It calls that the single most effective intervention in the corpus. Detection is the thinnest area the review covers, with just 3 studies, against 60-80% of computing students reporting generative AI use in coursework, typically without explicit instructor sanction, and 70% of one national faculty sample explicitly asking for training on AI-resistant assessment design ([[kumar-genai-computing-education-systematic-review-2026]]).
+Then change the artifact. A 72-study [[meta-analysis-systematic-review|systematic review]] of generative AI in [[cs-education|computing education]] rates redesign as both feasible and highest-leverage, and singles out one move: add an oral or otherwise process-visible element to at least one high-stakes assessment per course. It calls that the single most effective intervention in the review. Detection is the thinnest area the review covers, with just 3 studies, against 60-80% of computing students reporting generative AI use in coursework, typically without explicit instructor sanction, and 70% of one national faculty sample explicitly asking for training on AI-resistant assessment design ([[kumar-genai-computing-education-systematic-review-2026]]).
 
 A three-year computing course shows how far a scaffolded disclosure workflow can move behavior. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil et al. (2026)]] required an independent draft with a four-item checklist, an AI refine-not-rewrite step, a disclosure form, and a structured reflection, with a missing draft or form scoring zero. Adoption rose from about two-thirds of students under voluntary policy to 93% in the scaffolded year; 81% and 84% of AI users reported rejecting or modifying suggestions, markers coded 77–81% of submissions for critical engagement, and AI use did not independently predict essay quality after prior writing ability was controlled. This is a single-course experience report, not a controlled trial, but it shows the integrity work moving from detection to the conditions under which students disclose and revise.
 

@@ -1,7 +1,7 @@
 ---
 title: "What Are Notable Gaps in the Research Literature on AI in Education?"
 created: "2026-08-24T14:10:00-04:00"
-updated: "2026-10-28T11:47:13-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 weight: 45
 type: faq
@@ -25,7 +25,7 @@ ai_assist:
 
 A grant deadline is eight days out and the background section needs one sentence about what this field does not yet know. Or a colleague has told a committee that AI tutoring raises achievement, citing a two-year experiment across 18 middle schools, and you are the person who has to say what that study can carry. Or you are choosing a dissertation question and every version of it seems to have been done.
 
-The gaps that matter are about strength, specificity, and applicability. AI can perform educational tasks; the open questions are whether a particular design produces durable benefit, for whom, through which mechanism, and under what conditions. That distinction decides two things on your desk: what to study next, and what to stop claiming in the meantime. [[limitations-in-aied-research|Limitations in AIEd Research]] is the catalog behind this page. Evidence about [[intelligent-tutoring|intelligent tutoring systems]], predictive [[learning-analytics|analytics]], [[generative-ai|generative AI]], and autonomous agents is not interchangeable either, and research on using AI to support learning differs from research on teaching people about AI, as the [[ai-education|AI in Education]] overview explains.
+The gaps that matter are about strength, specificity, and applicability. AI can perform educational tasks; the open questions are whether a particular design produces durable benefit, for whom, through which mechanism, and under what conditions. That distinction decides two things on your desk: what to study next, and what to stop claiming in the meantime. The catalog sits in [[limitations-in-aied-research|Limitations in AIEd Research]]. Evidence about [[intelligent-tutoring|intelligent tutoring systems]], predictive [[learning-analytics|analytics]], [[generative-ai|generative AI]], and autonomous agents is not interchangeable either, and research on using AI to support learning differs from research on teaching people about AI, as the [[ai-education|AI in Education]] overview explains.
 
 ## The short version
 
@@ -81,7 +81,7 @@ What is missing is validation of the whole evaluation chain, from model behavior
 
 AI creates two connected assessment problems: it helps produce the work being assessed, and it can influence how that work is scored.
 
-The knowledge base's [[ai-agents-complete-lms-assessment-validity-2026|study of AI agents completing assessed LMS tasks]] documents agents navigating a live undergraduate course and finishing assessed activities. That demonstrates a capability which challenges assumptions about student-produced evidence. It does not establish how common such use is, and it does not invalidate asynchronous assessment as a category.
+A [[ai-agents-complete-lms-assessment-validity-2026|study of AI agents completing assessed LMS tasks]] documents agents navigating a live undergraduate course and finishing assessed activities. That demonstrates a capability which challenges assumptions about student-produced evidence. It does not establish how common such use is, and it does not invalidate asynchronous assessment as a category.
 
 The research question is which designs still support defensible conclusions about the learner. [[eportfolio|Portfolios]], reflections, staged submissions, and activity logs need validation as evidence rather than being assumed to establish authorship or understanding. Studies should test combinations of evidence against independently observed competence while accounting for accessibility, workload, privacy, and [[anxiety-and-stress|student anxiety]]. [[assessment-validity|Assessment Validity]] holds the detail.
 
@@ -115,7 +115,7 @@ The research priority is identifying designs that reduce differences in demonstr
 
 As systems plan, initiate actions, hold memory, and coordinate tools, the educational question becomes who should control which parts of the learning process, and when that control should shift.
 
-[[agentic-ai-education-scoping-review|Agentic AI in Education: A Scoping Review]] maps 474 studies and finds limited longitudinal validation, concentration in [[higher-ed|higher education]] and STEM, and weak educational-theory integration: only 29% of reviewed studies drew explicitly on educational theory, a finding about that corpus rather than all AIED work.
+[[agentic-ai-education-scoping-review|Agentic AI in Education: A Scoping Review]] maps 474 studies and finds limited longitudinal validation, concentration in [[higher-ed|higher education]] and STEM, and weak educational-theory integration: only 29% of reviewed studies drew explicitly on educational theory, a finding about those 474 studies rather than all AIED work.
 
 Open questions follow. Does learner-initiated help produce different outcomes from agent-initiated help? Can support be withdrawn as competence develops without loss? Do learners keep the ability to challenge the system? The [[agentic-ai|Agentic AI]] and [[human-ai-collaboration|Human-AI Collaboration]] syntheses add [[teacher-role|teacher]] intervention and accountability in multi-agent settings, where nobody has established who answers for an agent's decision. Greater autonomy is a pedagogical design choice with an evidence base still to be built.
 
@@ -195,4 +195,4 @@ Instructors who want the classroom-level version can follow [[evaluating-ai-inte
 
 ## Where to go next
 
-[[reporting-interpreting-aied-research]] is the reporting counterpart to this page, and [[research-methods-aied|Research Methods in AI in Education]] covers the design choices behind each gap. [[evaluating-ai-interventions-methods]] handles measures and comparison designs, [[checking-whether-educational-ai-works]] is the shorter version of the efficacy question, and [[does-ai-help-students-learn]] collects what is known about durable learning. [[theory-development-aied]] and [[equity-ethics-pedagogical-safety-research]] carry the theory and equity strands further.
+[[reporting-interpreting-aied-research]] is the reporting counterpart, and [[research-methods-aied|Research Methods in AI in Education]] covers the design choices behind each gap. [[evaluating-ai-interventions-methods]] handles measures and comparison designs, [[checking-whether-educational-ai-works]] is the shorter version of the efficacy question, and [[does-ai-help-students-learn]] collects what is known about durable learning. [[theory-development-aied]] and [[equity-ethics-pedagogical-safety-research]] carry the theory and equity strands further.

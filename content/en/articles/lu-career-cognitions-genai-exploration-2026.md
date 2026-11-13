@@ -1,6 +1,6 @@
 ---
 title: "Career-related psychological cognitions and career exploration behavior among Chinese college students: statistical indirect pathways through generative artificial intelligence use"
-created: "2026-11-12T08:20:00-05:00"
+created: "2026-11-12T06:36:55-05:00"
 updated: "2026-11-12T18:10:00-05:00"
 published: "2026"
 type: article

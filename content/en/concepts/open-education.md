@@ -1,7 +1,7 @@
 ---
 title: "Open Education"
-created: "2026-10-28T18:40:00-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+created: "2026-10-28T18:32:28-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -37,13 +37,13 @@ Open education is not [[open-source|open source]], and the confusion costs both.
 
 They differ where it matters. An open-source release is judged by whether the system can be rebuilt and inspected. An open resource is judged by whether a teacher with different students, a different language and a different budget can actually use it, which is a pedagogical claim rather than a technical one, and which is why open education has always carried a practice argument alongside its licensing argument. [[deimann-rethinking-openness-ai-2026|Deimann and Lukács (2026)]] make the sharpest version of that point: after twenty-five years of openness advocacy, the institutional regime in the middle of education was left intact, because the movement concentrated on declarations and niche projects.
 
-The AI-era literature in this knowledge base is therefore about three things at once: the resource, the practice, and whether either survives when generation is nearly free. On the resource, the questions are who makes it, who licenses it, and whether an AI-written one counts. On the practice, they are what open pedagogy asks of students and whether it teaches them anything measurable.
+The AI-era literature is therefore about three things at once: the resource, the practice, and whether either survives when generation is nearly free. On the resource, the questions are who makes it, who licenses it, and whether an AI-written one counts. On the practice, they are what open pedagogy asks of students and whether it teaches them anything measurable.
 
 ## What openness actually covers
 
 An open educational resource is content released under a license that permits reuse, revision, remixing and redistribution. Everything else in the field is downstream of that permission and of the obligation to attribute it. [[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy (2026)]] shows what the obligation looks like in a small project: eleven participants working online for two weeks produced a six-page site, a [[conversational-ai|chatbot]], a manual and five video tutorials, released under CC BY-NC-SA, and the resulting package scored high on transparency while scoring only medium on licensing, replicability, adaptability and accessibility. Open in name, partially open in use.
 
-The licensing literature is granular because the failures are granular. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] builds a seven-principle rubric for reviewing openly licensed AI literacy material from a purposive corpus of sixteen core papers, a seventeen-paper extension and thirty-six targeted references. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello and Havemann (2026)]] argue that the unit of governance should move from the resource to the infrastructure that hosts it, since a commons of individual files without a maintained platform is a fragmentation problem rather than a commons.
+The licensing literature is granular because the failures are granular. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] builds a seven-principle rubric for reviewing openly licensed AI literacy material from a purposive sample of sixteen core papers, a seventeen-paper extension and thirty-six targeted references. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello and Havemann (2026)]] argue that the unit of governance should move from the resource to the infrastructure that hosts it, since a commons of individual files without a maintained platform is a fragmentation problem rather than a commons.
 
 ## Generation collapse and the digital public goods turn
 
@@ -65,9 +65,9 @@ Two further studies show how quickly the practice layer becomes a governance lay
 
 ## Equity, sustainability and the Global South
 
-The [[equity-in-ai-education|equity]] argument for open content is the oldest one: a resource without a price cannot be priced out. It is also the one most easily asserted and least often tested. The AI-era versions are more careful. Atenas and colleagues frame OER as a lever for marginalized communities and for meaningful participation in data collection, while warning that over-reliance on generated resources risks devaluing human [[creativity]] and judgment. Tlili and colleagues name the mechanisms by which generation degrades that lever: translation error, training-data bias, and a [[hallucination-risk|hallucination]] loop in which generated content is recycled into the corpora that train the next model.
+The [[equity-in-ai-education|equity]] argument for open content is the oldest one: a resource without a price cannot be priced out. It is also the one most easily asserted and least often tested. The AI-era versions are more careful. Atenas and colleagues frame OER as a lever for marginalized communities and for meaningful participation in data collection, while warning that over-reliance on generated resources risks devaluing human [[creativity]] and judgment. Tlili and colleagues name the mechanisms by which generation degrades that lever: translation error, training-data bias, and a [[hallucination-risk|hallucination]] loop in which generated content is recycled into the training data for the next model.
 
-Sustainability enters twice, as funding and as energy. The digital public goods argument is essentially a sustainability argument: a fragmented commons of grant-funded files does not outlive its grants, whereas publicly governed infrastructure might. The environmental case appears in the wider openness literature and in this knowledge base's [[sustainability]] concept, where the reporting of model inference cost is treated as an obligation of open practice rather than an afterthought.
+Sustainability enters twice, as funding and as energy. The digital public goods argument is essentially a sustainability argument: a fragmented commons of grant-funded files does not outlive its grants, whereas publicly governed infrastructure might. The environmental case appears in the wider openness literature and in [[sustainability]], where the reporting of model inference cost is treated as an obligation of open practice rather than an afterthought.
 
 The [[global-south|Global South]] dimension is where the evidence thins most. The batch's non-Western cases are real but few: a Latin American cooperation residency, Chinese open-university teachers, and a framing of infrastructure as the precondition for participation. Claims that openness automatically redistributes capacity are not supported by these studies, and several of them say so.
 

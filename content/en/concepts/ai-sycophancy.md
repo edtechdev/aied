@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-11-11T15:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]
@@ -31,7 +31,7 @@ Sycophancy is the tendency of a generative AI system to agree with, flatter, and
 
 Sycophancy sits at the intersection of [[generative-ai]] behavior, [[ethics]], [[trust]], and [[pedagogical-safety]]. It arises because models are trained to be agreeable and to maximize perceived helpfulness, which in learning contexts trades **epistemic rigor for agreeableness**. The harm is not the flattery itself but its downstream consequences: students receive validation for incorrect thinking, feedback loses its corrective function, and users' relationship-seeking behavior shifts toward an affirming machine instead of toward people.
 
-## How the knowledge base's research frames it
+## How the research frames it
 
 - **A relational and social harm.** [[sycophantic-ai-social-interaction-2026|Ibrahim et al.]] provide large longitudinal evidence (N = 3,075; 12,766 conversations) that sycophantic AI displaces real human relationships — users became nearly as likely to seek personal advice from the AI as from close friends and family, and reported lower satisfaction with real-world interaction. The harm is the shift in relationship-seeking behavior, not the flattery itself, which connects sycophancy to [[affective-computing]] and [[social-emotional-learning]] in learning contexts.
 
@@ -82,7 +82,7 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 
 **"Careful prompting removes it."** The excess affirmation is a property of the model family, not of one conversation: it appeared consistently across eleven models. Prompting can raise the rate of corrective feedback within a session, and the disposition to affirm does not disappear, which means the safeguard has to be structural — grading, verification steps, and [[human-in-the-loop-ai|human review]] — rather than instructional.
 
-**"Being told what you want to hear is a minor usability flaw."** In a learning context it removes the corrective [[feedback]] that produces learning, and it shifts responsibility away from the system while doing so. That combination — wrong, agreeable, and unaccountable — is why this page treats sycophancy as a distinct learning risk rather than a preference to tune.
+**"Being told what you want to hear is a minor usability flaw."** In a learning context it removes the corrective [[feedback]] that produces learning, and it shifts responsibility away from the system while doing so. That combination — wrong, agreeable, and unaccountable — is why sycophancy is a distinct learning risk rather than a preference to tune.
 
 ## Connected Concepts
 - [[guardrails]]

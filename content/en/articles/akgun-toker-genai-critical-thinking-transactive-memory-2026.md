@@ -1,6 +1,6 @@
 ---
 title: "When Does GenAI Use Support Critical Thinking? A Cross-Cultural Structural Account of Transactive Memory with GenAI"
-created: "2026-10-30T09:37:00-04:00"
+created: "2026-10-30T09:23:42-04:00"
 updated: "2026-10-30T09:37:00-04:00"
 type: article
 published: "2026-10-28"

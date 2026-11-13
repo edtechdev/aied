@@ -1,6 +1,6 @@
 ---
 title: "From chatbot to language-learning partner: learner–LLM configuration, affordances, and regulatory demands in foreign language learning"
-created: "2026-11-12T08:20:00-05:00"
+created: "2026-11-12T06:36:55-05:00"
 updated: "2026-11-12T08:20:00-05:00"
 type: article
 page_kind: [evaluation, framework]

@@ -1,6 +1,6 @@
 ---
 title: "Human-in-the-loop semantic learning analytics for assessing moral-value reasoning in university AI ethics education"
-created: "2026-11-12T08:20:00-05:00"
+created: "2026-11-12T06:36:55-05:00"
 updated: "2026-11-12T08:20:00-05:00"
 type: article
 page_kind: [evaluation]

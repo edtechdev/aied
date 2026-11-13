@@ -1,7 +1,7 @@
 ---
 title: Psychometrically Aware AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
@@ -14,7 +14,7 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - An AI grades a student's answer and reports a confident-sounding score. On what basis would you trust that number — and does your answer change when you learn the model wasn't calibrated against any measurement standard?
-- The page warns against substituting raw model confidence for psychometric evidence. Think of a time you believed a confident AI output that turned out wrong. What made its confidence unearned, and what would 'uncertainty-aware' output have looked like instead?
+- Raw model confidence is no substitute for psychometric evidence. Think of a time you believed a confident AI output that turned out wrong. What made its confidence unearned, and what would 'uncertainty-aware' output have looked like instead?
 - [[research-methods-aied|Research]] found that on the same assessment instrument, human and LLM response structures diverge — meaning a model can score well yet be measuring something different from what the exam intends. If you were a [[teacher-role|teacher]] using an AI grader, how would you ever detect that the test 'means' something different for the machine than for your students?
 - Item-difficulty prediction uses LLMs to estimate how hard a question is. Before reading, consider: is 'how hard is this question?' a fact about the question, or about the people (or models) answering it — and what does that ambiguity imply for using AI to calibrate exams?
 - Calibration, reliability, and validity are measurement concepts with precise meanings. Which of these have you actually thought through in your own assessment practice, and where might you be relying on an AI's output that has never been checked against them?

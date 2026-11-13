@@ -1,6 +1,6 @@
 ---
 title: "Personalizing Second Language Learning: Integrating AI with Learner Preference, Proficiency, and Engagement"
-created: "2026-11-05T20:00:00-05:00"
+created: "2026-11-05T19:50:53-05:00"
 updated: "2026-11-05T20:00:00-05:00"
 type: article
 sources: ['raw/papers/gharahighehi-personalized-second-language-learner-preferences-2026.md']

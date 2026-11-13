@@ -1,6 +1,6 @@
 ---
 title: "ProofPaths: An AI Agent Framework for Assessing Student Reasoning"
-created: "2026-11-08T08:46:00-05:00"
+created: "2026-11-08T08:10:57-05:00"
 updated: "2026-11-08T08:46:00-05:00"
 type: article
 page_kind: [framework]

@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -14,7 +14,7 @@ methods: [benchmark]
 reviewed_by: [editor]
 ---
 
-> **AI-ed evaluation** — the body of methods, benchmarks, and criteria used to assess whether [[ai-education|AI education]] tools ([[llm]]-based tutors, [[automated-assessment|automated graders]], feedback systems, agents) actually work — not just on headline accuracy, but on reliability, [[pedagogy|pedagogical]] quality, validity, and real learning impact. A recurring theme across the knowledge base's research is that evaluation must be domain-specific, reliability-aware, and anchored in human judgment and educational outcomes rather than single aggregate accuracy numbers.
+> **AI-ed evaluation** — the body of methods, benchmarks, and criteria used to assess whether [[ai-education|AI education]] tools ([[llm]]-based tutors, [[automated-assessment|automated graders]], feedback systems, agents) actually work — not just on headline accuracy, but on reliability, [[pedagogy|pedagogical]] quality, validity, and real learning impact. A recurring theme across the research is that evaluation must be domain-specific, reliability-aware, and anchored in human judgment and educational outcomes rather than single aggregate accuracy numbers.
 
 ## Questions to Consider
 
@@ -83,7 +83,7 @@ The velocity of the systems being evaluated is a further constraint. [[ai-tutori
 
 ## Connections to related concepts
 
-AI-ed evaluation sits at the center of the knowledge base's methods and risks. It operationalizes [[assessment-validity]], [[educational-measurement]], and [[benchmark]] within [[assessment]] and [[automated-assessment]]. Its call for human oversight connects to [[human-in-the-loop-ai]] and [[teacher-role]], while its focus on reliability connects to [[hallucination-risk]], [[automated-assessment|Confidence Aware AI Assessment]], and [[trust-calibration]]. The distinction between evaluating performance and evaluating learning links to [[genai-performance-vs-learning|performance vs. learning]] and to [[student-modeling]]; and evaluation of pedagogical agents connects to [[intelligent-tutoring]], [[llm-training-and-fine-tuning]], and [[pedagogical-safety]].
+AI-ed evaluation sits at the center of the methods and risks. It operationalizes [[assessment-validity]], [[educational-measurement]], and [[benchmark]] within [[assessment]] and [[automated-assessment]]. Its call for human oversight connects to [[human-in-the-loop-ai]] and [[teacher-role]], while its focus on reliability connects to [[hallucination-risk]], [[automated-assessment|Confidence Aware AI Assessment]], and [[trust-calibration]]. The distinction between evaluating performance and evaluating learning links to [[genai-performance-vs-learning|performance vs. learning]] and to [[student-modeling]]; and evaluation of pedagogical agents connects to [[intelligent-tutoring]], [[llm-training-and-fine-tuning]], and [[pedagogical-safety]].
 
 ## Evaluating learning gains
 
@@ -100,7 +100,7 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - **An error rate can hide the failure it is meant to catch.** [[ai-mediated-input-medical-english-asr-2026|Stanchev (2026)]] sent one text-to-speech recording of a medical English passage to four [[speech-and-voice-technologies|ASR]] services: the two free services returned 87.96% and 88.34% of the reference, while the two paid services returned 32.76% and 55.35% previews and so scored word-error rates of 73.21% and 48.77%. The high error rates came from tokens never returned rather than tokens misheard, so ranking on error rate alone treated an export restriction as a transcription failure. Coverage belongs beside the error rate whenever an automated metric stands in for the artifact a learner sees.
 - **Anchor evaluation suites to measured learning, not proxies.** Teaching-capability benchmarks, conversational-pedagogy rubrics and tutor latency should be validated against actual learning gains rather than treated as stand-ins for them, and latency is itself an evaluation axis because it shapes whether students engage at all ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).
 - **A bibliometric map can expose what an evaluation culture rewards.** Across 1,403 medical-education publications, the most-cited works measured model capability — above all ChatGPT's performance on licensing examinations — while [[governance]] scholarship lagged, so the authors call for empirical evaluation of governance frameworks rather than more capability tests ([[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]]).
-- **Expert-judgment evaluations need their own reliability accounting.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] had 25 domain-matched experts rate 92 generated [[video-education|lecture videos]] against a rubric anchored to "a standard [[online-teaching-and-learning|MOOC]] lecture's quality," judging 87% at or above the bar (mean 3.42 of 5). Every video was rated once by one reviewer (k = 1), so the design spreads the panel across the corpus at the cost of an inter-rater agreement statistic; a random-intercept model attributed about 35% of residual variance to the reviewer (ICC = 0.35) and the paper reports reviewer-clustered intervals instead of a single precision figure. An evaluation built on expert judgment is only as strong as the reliability analysis it publishes.
+- **Expert-judgment evaluations need their own reliability accounting.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] had 25 domain-matched experts rate 92 generated [[video-education|lecture videos]] against a rubric anchored to "a standard [[online-teaching-and-learning|MOOC]] lecture's quality," judging 87% at or above the bar (mean 3.42 of 5). Every video was rated once by one reviewer (k = 1), so the design spreads the panel across the video set at the cost of an inter-rater agreement statistic. A random-intercept model attributed about 35% of residual variance to the reviewer (ICC = 0.35), and the paper reports reviewer-clustered intervals instead of a single precision figure. An evaluation built on expert judgment is only as strong as the reliability analysis it publishes.
 
 ## Common Misconceptions
 

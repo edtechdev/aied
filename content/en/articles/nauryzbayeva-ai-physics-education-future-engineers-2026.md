@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence in professionally oriented physics education: patterns of use and perceived learning support among future engineers"
-created: "2026-11-04T16:20:00-05:00"
+created: "2026-11-04T14:09:25-05:00"
 updated: "2026-11-04T16:20:00-05:00"
 type: article
 sources: ['raw/papers/nauryzbayeva-ai-physics-education-future-engineers-2026.md']

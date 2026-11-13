@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence for Affective-Domain Development in Healthcare Professions Education: A Systematic Review"
-created: "2026-11-10T21:00:00-05:00"
+created: "2026-11-10T20:42:58-05:00"
 updated: "2026-11-10T21:00:00-05:00"
 type: article
 pedagogy: [professional-training, reflection]

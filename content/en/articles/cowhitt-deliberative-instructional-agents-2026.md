@@ -1,6 +1,6 @@
 ---
 title: "Deliberative Instructional Agents: transforming professional learning with the responsible integration of Artificial Intelligence"
-created: "2026-10-31T14:20:00-04:00"
+created: "2026-10-31T14:13:07-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"

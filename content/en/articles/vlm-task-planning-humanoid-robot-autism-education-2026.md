@@ -1,6 +1,6 @@
 ---
 title: Visual Task Modeling and Automated Planning for Humanoid Robots in Education of Individuals with Autism Spectrum Disorder
-created: "2026-10-21T09:30:00-04:00"
+created: "2026-10-21T09:27:54-04:00"
 updated: "2026-10-21T09:30:00-04:00"
 type: article
 sources: ['raw/papers/vlm-task-planning-humanoid-robot-autism-education-2026.md']

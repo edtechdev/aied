@@ -1,7 +1,7 @@
 ---
 title: Stakeholders
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
@@ -9,22 +9,22 @@ level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 ---
-> **Stakeholders** — the range of human stakeholders involved in, affected by, and responsible for [[ai-education|AI in education]], and the umbrella concept for the knowledge base's coverage of who the actors are. [[ai-education|AI in education]] is a multi-stakeholder field: learners who use AI, [[teacher-role|teachers]] and [[educational-development|faculty]] who integrate it, [[administrator|administrators]] who govern it, instructional designers who build learning experiences around it, and policymakers who regulate it. Each audience has distinct needs, competencies, roles, and perspectives, and the knowledge base treats them as the human context in which AI tools are designed, deployed, and evaluated.
+> **Stakeholders** — the range of human stakeholders involved in, affected by, and responsible for [[ai-education|AI in education]], and the umbrella concept for who the actors are. [[ai-education|AI in education]] is a multi-stakeholder field: learners who use AI, [[teacher-role|teachers]] and [[educational-development|faculty]] who integrate it, [[administrator|administrators]] who govern it, instructional designers who build learning experiences around it, and policymakers who regulate it. Each audience has distinct needs, competencies, roles, and perspectives, and these audiences are the human context in which AI tools are designed, deployed, and evaluated.
 
 ## Questions to Consider
 
-- The page argues the same AI system looks different from every vantage point — a tool a student experiences as support may look to a teacher like an integrity risk and to an administrator like a governance decision. Which role do you most identify with, and what do you think you're prone to miss from the others?
+- The same AI system looks different from every vantage point: a tool a student experiences as support may look to a teacher like an integrity risk and to an administrator like a governance decision. Which role do you most identify with, and what do you think you're prone to miss from the others?
 - Before reading on, try to list everyone in your institution who is touched by an AI-in-education decision — beyond just students and teachers. Who did you forget, and what would each of them care about most?
 - If learners, teachers, administrators, instructional designers, and policymakers each have distinct needs and competencies, who should have the final say over how an AI tool is deployed — and why?
 - A student's 'personalized support' can simultaneously be a teacher's 'integrity risk.' How would you design a conversation or process that gives each stakeholder's concern genuine weight rather than letting the loudest voice win?
 
 ## Introduction
 
-[[ai-education|AI in education]] is fundamentally about people — the learners and educators whose work it transforms, and the leaders and designers who decide how it is used. Understanding the distinct stakeholders is essential because the same AI system looks very different from different vantage points: a tool a student experiences as personalized support may appear to a teacher as an integrity risk, to an administrator as a procurement and governance decision, and to a designer as a pedagogical choice. The knowledge base organizes coverage of these audiences across several concept pages.
+[[ai-education|AI in education]] is fundamentally about people — the learners and educators whose work it transforms, and the leaders and designers who decide how it is used. Understanding the distinct stakeholders is essential because the same AI system looks very different from different vantage points: a tool a student experiences as personalized support may appear to a teacher as an integrity risk, to an administrator as a procurement and governance decision, and to a designer as a pedagogical choice. Each of these audiences is studied as a distinct role, with its own needs and evidence base.
 
 ## The stakeholder landscape
 
-- **Learners (students).** The primary audience — students in [[k-12]], [[higher-ed]], and [[adult-learning]]. The knowledge base covers learners through [[student-experience]], [[student-engagement]], [[misconceptions]], [[student-modeling]], [[well-being]], and [[agency]]. Learners' AI [[ai-literacy]], self-regulation ([[self-regulated-learning]]), and risk of [[cognitive-offloading|over-reliance]] are central concerns.
+- **Learners (students).** The primary audience — students in [[k-12]], [[higher-ed]], and [[adult-learning]]. The learner side is documented through [[student-experience]], [[student-engagement]], [[misconceptions]], [[student-modeling]], [[well-being]], and [[agency]]. Learners' AI [[ai-literacy]], self-regulation ([[self-regulated-learning]]), and risk of [[cognitive-offloading|over-reliance]] are central concerns.
 - **Teachers and faculty.** Educators who integrate AI into instruction. Covered by [[teacher-role]], [[teacher-ai-competency]], [[teacher-education]], [[educational-development]], and [[tpack]]. Teachers face the dual challenge of using AI in their own teaching and teaching students to use it responsibly (see [[pedagogy|pedagogies and teaching strategies]]).
 - **Instructional designers and learning technologists.** The professionals who design courses, curricula, and learning experiences around AI. Related to [[learning-design]] (the discipline) and [[curriculum-design]], though the *people/role* of instructional designer is not yet a dedicated page — it is grouped here.
 - **Administrators and institutional leaders.** Provosts, deans, CIOs, and leaders who set policy, allocate resources, and govern adoption. Covered by [[administrator]], and connected to [[educational-policy-ai]], [[governance]], and [[regulation]].
@@ -42,11 +42,11 @@ reviewed_by: [editor]
 
 ## Identity across audiences
 
-A common thread across these stakeholders is **identity** — the sense of who one is and is becoming in relation to AI and to the domain. The knowledge base treats identity as distributed across audiences rather than belonging to any single group.
+A common thread across these stakeholders is **identity** — the sense of who one is and is becoming in relation to AI and to the domain. Identity is distributed across audiences rather than belonging to any single group.
 
 - **Learner identity** — the evolving disciplinary, professional, creative, and academic identity of students ([[learner-identity]]). It is distinct from, but causally connected to, [[agency]]: agency is the [[situated-learning|situated]] capacity to act, while identity is the durable sense of self that accumulates from agentic acts and is threatened by authorship loss and competence doubt under AI.
 - **Teacher identity** — the professional self-understanding of educators ([[teacher-role]]), reshaped by AI as a question of purpose and role rather than skills alone (see [[laidlaw-genai-identity-crisis-faculty-2026|GenAI as identity crisis]]).
-- **Designers and leaders** — professional identity also shapes how instructional designers, [[administrator|administrators]], and policymakers orient to AI, though the knowledge base's explicit identity coverage concentrates on learners and teachers.
+- **Designers and leaders** — professional identity also shapes how instructional designers, [[administrator|administrators]], and policymakers orient to AI, though the explicit identity evidence concentrates on learners and teachers.
 
 Identity is the human anchor of the stakeholder landscape: it is what AI must support (not erode) for each audience, and it is the construct that connects otherwise separate role pages — [[learner-identity]], [[agency]], and [[teacher-role]] in particular. Where agency concerns *control* and identity concerns *self*, AI design must preserve both: control over one's learning and a robust, authorial sense of who one is in the domain.
 
@@ -54,14 +54,14 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 
 - **Design for the full stakeholder set:** effective [[ai-education|AI in education]] must serve learners, support teachers, inform administrators, and align with policy — not just optimize one audience.
 - **Build role-specific competencies:** teachers, students, designers, and leaders each need tailored AI literacy and support (see [[ai-literacy]], [[teacher-ai-competency]], [[educational-development]]).
-- **Align across levels:** the knowledge base's governance research shows AI succeeds when institutional leadership, teacher practice, and student experience are aligned rather than fragmented.
+- **Align across levels:** governance research shows AI succeeds when institutional leadership, teacher practice, and student experience are aligned rather than fragmented.
 - **Consider parents and the broader community:** families are stakeholders in AI adoption whose role and concerns deserve explicit attention.
 
 ## Common Misconceptions
 
 **"Stakeholders in AI in education share an interest in the same outcome."** Their interests are frequently in direct tension, and the same feature reads differently by role: a student's "personalized support" can simultaneously be a teacher's "integrity risk." Design processes that assume a common goal will resolve that tension by accident in favor of whoever speaks loudest.
 
-**"Giving every stakeholder group a voice resolves the conflict."** Consultation is not weighting. The page's own framing puts the design question at how to give each concern **genuine weight rather than letting the loudest voice win**, which is a procedure problem — who decides, with what evidence, and with what appeal — not a communications problem.
+**"Giving every stakeholder group a voice resolves the conflict."** Consultation is not weighting. The design question is how to give each concern **genuine weight rather than letting the loudest voice win**, which is a procedure problem: who decides, with what evidence, and with what appeal, not a communications problem.
 
 **"Stakeholder analysis is an early-phase exercise."** The tensions persist into operation, because the roles keep interpreting the same system differently. A student-facing [[personalized-learning|personalization]] layer and a faculty-facing integrity dashboard are the same data viewed from two positions, and the conflict recurs whenever one is adjusted.
 

@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-11-07T13:20:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -10,12 +10,12 @@ level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 ---
-> **Pedagogies and teaching strategies** — the methods and approaches educators use to teach and facilitate learning, and the umbrella concept for the knowledge base's coverage of how teaching happens (in contrast to [[learning-theories]], which explains how learning happens). In [[ai-education|AI in education]], pedagogy is central because the choice of teaching strategy shapes how AI tools are deployed: the same generative-AI tool can be a [[scaffolding|scaffold]] under one pedagogy, a [[socratic-method|Socratic]] interlocutor under another, or an answer-generator under a third. The knowledge base documents individual pedagogies and treats them as the instructional lens through which AI's design and classroom use are evaluated.
+> **Pedagogies and teaching strategies** — the methods and approaches educators use to teach and facilitate learning, and the umbrella concept for how teaching happens (in contrast to [[learning-theories]], which explains how learning happens). In [[ai-education|AI in education]], pedagogy is central because the choice of teaching strategy shapes how AI tools are deployed: the same generative-AI tool can be a [[scaffolding|scaffold]] under one pedagogy, a [[socratic-method|Socratic]] interlocutor under another, or an answer-generator under a third. Individual pedagogies are documented and treated as the instructional lens through which AI's design and classroom use are evaluated.
 
 ## Questions to Consider
 
 - What's the difference between a teaching strategy (pedagogy) and a theory of how learning happens? Can you name a strategy you use and the learning theory it might rest on?
-- The page argues every AI tool 'embeds pedagogical assumptions' whether the designer states them or not. Take a [[conversational-ai|chatbot]] that just answers questions—what pedagogy is it quietly enacting, and is that intentional?
+- Any AI tool encodes a pedagogy, whether or not its designer says so. Take a [[conversational-ai|chatbot]] that just answers questions—what pedagogy is it quietly enacting, and is that intentional?
 - The same [[generative-ai|generative AI]] can be a scaffold under one pedagogy, a Socratic partner under another, or an answer generator under a third. Can you describe a single tool being used in these three different ways?
 - Evidence suggests *how* AI is used matters as much as *whether* it's used. Have you observed the same AI helping one class and harming another? What differed?
 - If you were advising a school on buying an AI tool, which questions would you ask to uncover the pedagogy embedded in it—rather than just its feature list?
@@ -23,11 +23,11 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Pedagogy and teaching strategy concern *how* educators teach — the activities, structures, and methods that organize learning — while [[learning-theories]] explains the underlying mechanisms of *how learning happens*. The two are complementary: a pedagogy operationalizes one or more theories, and the knowledge base treats pedagogy as the bridge from theory to classroom practice. Every AI tool embeds pedagogical assumptions about the desired instructional interaction, whether the designer states them or not.
+Pedagogy and teaching strategy concern *how* educators teach — the activities, structures, and methods that organize learning — while [[learning-theories]] explains the underlying mechanisms of *how learning happens*. The two are complementary: a pedagogy operationalizes one or more theories, and pedagogy is the bridge from theory to classroom practice. Every AI tool embeds pedagogical assumptions about the desired instructional interaction, whether the designer states them or not.
 
 ## The pedagogy landscape
 
-The knowledge base documents a rich set of individual teaching strategies and pedagogies, organized into families:
+Individual teaching strategies and pedagogies form a rich set, organized into families:
 
 - **Student-centered and active approaches.** [[active-learning]] (students engaged in doing and thinking rather than passively receiving), [[project-based-learning]] (learning through extended projects), [[experiential-learning]] (learning through direct experience), and [[learning-by-teaching]] (learning by explaining to others).
 - **Collaborative and social approaches.** [[collaborative-learning]] (learning through [[group-work|group work]]), [[sociocultural-learning]] (learning through social participation and mediation), and [[socratic-method|Socratic questioning]] (learning through guided dialogue and questioning).
@@ -37,11 +37,11 @@ The knowledge base documents a rich set of individual teaching strategies and pe
 - **Motivation and [[student-engagement|engagement]] approaches.** [[game-based-learning]] (learning through games), [[self-determination-theory]] (supporting autonomy, competence, relatedness), and [[motivation]]-oriented strategies.
 - **[[equity-in-ai-education|equity]]-conscious pedagogies.** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]], [[universal-design-for-learning|Universal Design for Learning]], [[critical-pedagogy]], and [[inclusive-learning]] ensure strategies serve diverse learners.
 
-**Approaches are not sequences, and the difference decides outcomes.** Everything above describes *what kind* of teaching is happening. [[pedagogical-patterns|Pedagogical patterns]] describe the *order* of moves inside a lesson — what students do first, where AI enters, and where human judgment stays — and the knowledge base documents those tested sequences separately, because the same tool helps or harms depending on its position in the order. Attempting a problem before AI offers help, and receiving hints rather than answers, is the most consistently supported arrangement in the evidence base; putting the assistant first is one of the best-documented ways to depress later unassisted performance. A pedagogy adopted without deciding that order leaves the decisive variable unset.
+**Approaches are not sequences, and the difference decides outcomes.** Everything above describes *what kind* of teaching is happening. [[pedagogical-patterns|Pedagogical patterns]] describe the *order* of moves inside a lesson — what students do first, where AI enters, and where human judgment stays — and those tested sequences are documented separately, because the same tool helps or harms depending on its position in the order. Attempting a problem before AI offers help, and receiving hints rather than answers, is the most consistently supported arrangement in the evidence base; putting the assistant first is one of the best-documented ways to depress later unassisted performance. A pedagogy adopted without deciding that order leaves the decisive variable unset.
 
 ## How pedagogy appears in AI in education
 
-The knowledge base's [[research-methods-aied|research]] examines pedagogy at the intersection of AI and teaching in several ways:
+[[research-methods-aied|Research]] examines pedagogy at the intersection of AI and teaching in several ways:
 
 - **AI as a pedagogical agent.** AI tools embody pedagogies — a [[intelligent-tutoring|tutor]] built on [[socratic-method|Socratic questioning]] prompts learners to reason, while an answer-generating chatbot may default to direct provision (see [[reducing-ai-misuse]] on why the pedagogical stance matters). The [[agentic-ai|agentic AI]] literature shows that grounding agents in instructional-design theory outperforms raw [[prompt-engineering|prompting]]. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] reframe this role formally: rather than a dyadic instructor–[[student-modeling|student model]] with GenAI as an external supplement or threat, they propose a nested **instructor–student–GenAI triadic model** in which GenAI operates as a bounded *didactic-pedagogical mediator* within a shared didactic mediation space governed by institutions and stakeholders — yielding five researchable propositions on learning mediation, instructor-role transformation, AI literacy and learner agency, AI-transparent [[process-oriented-assessment|process-oriented assessment]], and institutional [[governance]].
 - **Pedagogy determines AI's effect.** A recurring finding is that *how* AI is used matters as much as *whether* it is used. [[instructional-guidance-genai-learning|Instructional-guidance research]] and [[generative-ai-guardrails-harm-learning|guardrailed-tutor RCTs]] show the same AI can harm or help depending on the pedagogical wrapper (hints vs. answers, structured vs. open use).
@@ -57,11 +57,11 @@ The knowledge base's [[research-methods-aied|research]] examines pedagogy at the
 
 ## Relationship to learning theories
 
-Pedagogies and learning theories are closely linked: each pedagogy operationalizes one or more theories. For example, [[project-based-learning]] operationalizes [[constructivist]] and [[experiential-learning|experiential]] theories; [[socratic-method]] draws on [[sociocultural-learning]] and [[metacognition]]; [[scaffolding]] stems from the [[sociocultural-learning|Zone of Proximal Development]]. The knowledge base treats [[learning-theories]] as the conceptual foundation and this page as the instructional-practice umbrella — see also [[learning-design]], which concerns the systematic process of selecting and sequencing strategies. The [[learning-sciences|learning sciences]] sit one step further out again: this page covers the practice of teaching and the strategies educators choose, while the learning sciences study that practice empirically — describing, modeling and evaluating designs to establish which ones change learning.
+Pedagogies and learning theories are closely linked: each pedagogy operationalizes one or more theories. For example, [[project-based-learning]] operationalizes [[constructivist]] and [[experiential-learning|experiential]] theories; [[socratic-method]] draws on [[sociocultural-learning]] and [[metacognition]]; [[scaffolding]] stems from the [[sociocultural-learning|Zone of Proximal Development]]. [[learning-theories]] is the conceptual foundation, and pedagogy is the instructional-practice umbrella; see also [[learning-design]], which concerns the systematic process of selecting and sequencing strategies. The [[learning-sciences|learning sciences]] sit one step further out again: pedagogy covers the practice of teaching and the strategies educators choose, while the learning sciences study that practice empirically, describing, modeling and evaluating designs to establish which ones change learning.
 
 ## Learning gains across pedagogical strategies
 
-Different pedagogical strategies produce different kinds and sizes of [[learning-gains|learning gains]], and the knowledge base's evidence lets us compare them:
+Different pedagogical strategies produce different kinds and sizes of [[learning-gains|learning gains]], and the evidence lets us compare them:
 
 - **Active and experiential strategies** generally produce stronger durable learning than passive reception, though they feel more effortful — [[active-learning]], [[experiential-learning]], [[project-based-learning]], and [[learning-by-teaching]] build understanding through doing. [[generative-ai-reduced-study-time-math|Research]] shows that strategies preserving effortful practice (rather than AI shortcutting it) protect [[learning-gains]].
 - **Structured, guided strategies** ([[scaffolding]], [[self-regulated-learning]], [[learning-design]]) produce reliable but more modest gains — the guardrail evidence ([[generative-ai-guardrails-harm-learning|PNAS 2025]]) shows [[guardrails|hint-not-answer]] scaffolding preserves learning that unguarded answer-giving destroys.
@@ -69,7 +69,7 @@ Different pedagogical strategies produce different kinds and sizes of [[learning
 - **Collaborative and sociocultural strategies** ([[collaborative-learning]], [[sociocultural-learning]]) show gains mediated by interaction quality, increasingly studied with AI as a partner or peer.
 - **Socratic and dialogue-based strategies** ([[socratic-method]]) target higher-order thinking and reasoning — gains that are harder to measure than skill gains but central to [[critical-thinking]].
 
-The key cross-cutting finding, consistent with the knowledge base's [[learning-gains]] research, is that **the strategy's effect on learning depends more on how it preserves learner effort and productive struggle than on which label it carries** — any pedagogy, even a "good" one, fails if AI is configured to bypass the cognitive work it was meant to elicit (see [[cognitive-offloading]], [[desirable-difficulties]]).
+The key cross-cutting finding, consistent with the [[learning-gains]] research, is that **the strategy's effect on learning depends more on how it preserves learner effort and productive struggle than on which label it carries** — any pedagogy, even a "good" one, fails if AI is configured to bypass the cognitive work it was meant to elicit (see [[cognitive-offloading]], [[desirable-difficulties]]).
 
 Student–[[student-ai-interaction|AI interaction]] is better read as a shifting process of cognitive distribution than as fixed dependence: across 53 ChatGPT conversations from a transdisciplinary [[engineering-education|engineering]] course, extension (tight, iterative co-thinking) was the most frequent interaction type at 53.3% of 321 prompt-level codes, ahead of outsourcing at 29.6% ([[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane & Arikan (2026)]]).
 

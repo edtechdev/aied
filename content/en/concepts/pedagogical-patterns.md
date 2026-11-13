@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Patterns
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-11-12T19:20:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -24,32 +24,32 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Pedagogical Patterns** — the *ordered sequences* of activity that research in this knowledge base has tested, with attention to where [[generative-ai|generative AI]] enters the sequence and where [[human-in-the-loop-ai|human judgment]] has to remain. Where [[pedagogy]] catalogs approaches ([[active-learning|active learning]], [[problem-based-learning|problem-based learning]], [[collaborative-learning|collaborative learning]]) and [[learning-design]] describes how a course is designed, this page catalogs what students and teachers actually *do*, in what order, and what happened when it was tried. PAIRR — draft, peer review, AI review, reflection, revision — is the best-documented example, and the pattern behind it recurs across disciplines: effort first, AI second, human judgment at the stakes.
+> **Pedagogical Patterns** — the *ordered sequences* of activity that research has tested, with attention to where [[generative-ai|generative AI]] enters the sequence and where [[human-in-the-loop-ai|human judgment]] has to remain. Where [[pedagogy]] catalogs approaches ([[active-learning|active learning]], [[problem-based-learning|problem-based learning]], [[collaborative-learning|collaborative learning]]) and [[learning-design]] describes how a course is designed, the patterns below catalog what students and teachers actually *do*, in what order, and what happened when it was tried. PAIRR — draft, peer review, AI review, reflection, revision — is the best-documented example, and the pattern behind it recurs across disciplines: effort first, AI second, human judgment at the stakes.
 
 ## Questions to Consider
 
 - A pattern is a *sequence*, not a tool. Take one assignment you teach and write the order of moves a student makes. Where in that order would AI help, and where would it do the work the student is supposed to be doing?
 - Several patterns here deliberately give AI a *weak* role — hints instead of answers, questions instead of corrections. Why would a deliberately less helpful tutor produce better learning, and what does that imply about the AI tools your institution is buying?
-- The best-evidenced pattern on this page ([[learning-by-teaching|learning by teaching]] an AI) asks students to explain, and it improves explanation and question quality but *not* objective recall. If you adopted it, what would you change about how you assess?
+- The best-evidenced pattern here ([[learning-by-teaching|learning by teaching]] an AI) asks students to explain, and it improves explanation and question quality but *not* objective recall. If you adopted it, what would you change about how you assess?
 - When [[ai-feedback-quality|AI feedback]] was higher quality than [[teacher-role|teacher]] feedback, students did not revise more. What does that suggest about the difference between producing feedback and getting students to use it?
 - Contexts change the answer: some patterns were tested online and asynchronous, others face-to-face with a lab. Which of these could you run in your own setting without new tools, and which would need infrastructure you do not have?
 - Nearly every pattern here keeps a human at the point of judgment — grading, verifying, or interpreting. Is that a design choice, an evidence-based necessity, or a limitation of what has been tested so far?
 
 ## Introduction
 
-Pedagogy answers *how should we teach*; this page answers a narrower, more operational question: **in what order should the moves happen, and where does AI belong in that order?** The distinction matters because the same tool produces opposite outcomes depending on its position in a sequence. A generative-AI assistant placed before a student attempts a problem reliably depresses later unassisted performance; placed after an attempt, with hints rather than answers, the same class of system removes that harm.
+Pedagogy answers *how should we teach*; the narrower, more operational question is **in what order should the moves happen, and where does AI belong in that order?** The distinction matters because the same tool produces opposite outcomes depending on its position in a sequence. A generative-AI assistant placed before a student attempts a problem reliably depresses later unassisted performance; placed after an attempt, with hints rather than answers, the same class of system removes that harm.
 
-Every pattern below is reported with an evidence status, because the knowledge base's coverage is uneven and the difference matters to anyone deciding what to adopt:
+Every pattern below is reported with an evidence status, because the evidence is uneven and the difference matters to anyone deciding what to adopt:
 
 - **Tested** — at least one article reports a controlled or comparative test.
 - **Mixed** — tested, but without a control, with conflicting results, or with the tested variable entangled with something else.
-- **Design proposals** — the idea appears only as a proposal or framework, with no test reported. These are collected separately at the end of the page, in *Design proposals (not yet tested)*, and are not evidence.
+- **Design proposals** — the idea appears only as a proposal or framework, with no test reported. These are collected separately under *Design proposals (not yet tested)*, and are not evidence.
 
 The patterns are grouped by the function they serve in a lesson: placing effort before help, pairing AI feedback with human feedback, verifying understanding rather than output, making the learner the teacher, structuring collaboration, and confronting a specific [[misconceptions|misconception]]. Contexts (online, face-to-face, blended) and disciplines are reported with each, and summarized at the end.
 
 ## Patterns that place effort before help
 
-These patterns share a structural claim: the learner must commit to an attempt before the AI contributes. It is the most consistently supported design rule in the knowledge base.
+These patterns share a structural claim: the learner must commit to an attempt before the AI contributes. It is the most consistently supported design rule in this literature.
 
 ### Retrieve or attempt before the AI answers
 
@@ -69,7 +69,7 @@ The one field study that tests the full sequence with a steered tutor used 17 hi
 
 **Evidence: mixed.** Students diagnose an error in an artifact — an AI-generated diagram violating referential integrity, a query that drops a join, an [[llm]] code snippet — receive clues that force them to infer the fix rather than being handed the correction, repair it, and reflect on which parts of the output were untrustworthy.
 
-A pre-post study of 13 students in an online database course rose from 4.25 to 6.83 out of 7 (t(12) ≈ 5.10, p < .001, d = 1.49) using weekly critique-and-refinement cycles built on deliberate AI failure cases, but with no control group the gain cannot be separated from the [[curriculum-design|curriculum]] or instructor ([[pedagogy-ai-mistakes|Hosseini, 2026]]). A [[meta-analysis-systematic-review|systematic review]] of 72 computing-education studies reports that error analysis is a *distinct competence*: students performed significantly worse at correcting LLM-generated code than at traditional programming exam tasks ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., 2026]]). No article in the knowledge base reports a controlled test of erroneous-example instruction as such.
+A pre-post study of 13 students in an online database course rose from 4.25 to 6.83 out of 7 (t(12) ≈ 5.10, p < .001, d = 1.49) using weekly critique-and-refinement cycles built on deliberate AI failure cases, but with no control group the gain cannot be separated from the [[curriculum-design|curriculum]] or instructor ([[pedagogy-ai-mistakes|Hosseini, 2026]]). A [[meta-analysis-systematic-review|systematic review]] of 72 computing-education studies reports that error analysis is a *distinct competence*: students performed significantly worse at correcting LLM-generated code than at traditional programming exam tasks ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., 2026]]). No study reports a controlled test of erroneous-example instruction as such.
 
 ### Worked examples with self-explanation
 
@@ -81,7 +81,7 @@ How many examples to give before practice is itself content-dependent, which the
 
 ## Patterns that pair AI feedback with human feedback
 
-The knowledge base's most replicated finding about AI feedback is that it works better *combined* with human feedback than alone — and that its quality is not what determines whether students use it.
+The most replicated finding about AI feedback is that it works better *combined* with human feedback than alone — and that its quality is not what determines whether students use it.
 
 ### PAIRR: peer and AI review with reflection
 
@@ -127,7 +127,7 @@ A case study of 5 graduate students in a self-paced quantum-information course l
 
 ### Learning by teaching an AI tutee
 
-**Evidence: tested, and the best-evidenced pattern on this page.** The student studies the content, then explains it to an AI prompted to hold a novice stance that never reveals the target explanation; the AI asks for explanations, examples and verification reasoning, sequenced from lower- to higher-order, and persists until the explanation is satisfactory.
+**Evidence: tested, and the best-evidenced pattern here.** The student studies the content, then explains it to an AI prompted to hold a novice stance that never reveals the target explanation; the AI asks for explanations, examples and verification reasoning, sequenced from lower- to higher-order, and persists until the explanation is satisfactory.
 
 A quasi-experiment with 68 preservice teachers found explaining to a GAI novice learner scored higher on defining the flipped classroom (M = 4.18 vs 3.29, p < 0.001, r = 0.474) and its activities (M = 4.91 vs 3.06, p < 0.001, r = 0.642), generated more and higher-quality questions (both p < 0.001) — but showed **no group difference on objective questions** (M = 23.18 vs 21.57, p = 0.416) ([[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al., 2026]]). A randomized lab experiment with 41 students found higher knowledge-test scores (adjusted 11.86 vs 10.53, F = 35.54, η² = 0.74) and clearer, more readable code, but **no difference in code correctness** ([[chatgpt-teachable-agent-programming-lbt-2024|Chen et al., 2024]]). An 11-week deployment across 546 students found each additional deep-learning act associated with a 2.7% decrease in expected quiz attempts (IRR 0.973, p < .001), with the comparison confounded by time-on-task and late-semester circumvention rising to 30–35% external content reuse ([[explique-teachable-agent-algorithms-546-students-2026|Wang et al., 2026]]). The consistent shape: gains in explanation and generative work, not in objective recall.
 
@@ -182,7 +182,7 @@ Stated plainly, because these are the findings most likely to be quietly dropped
 
 ## Design proposals (not yet tested)
 
-The patterns below come from a faculty guide supplied by the knowledge base maintainer (*AI-Ready Course Design*, September 2026). That guide states explicitly that its examples are **design proposals, not tested interventions**, and no article in this knowledge base tests them. They are recorded here as design ideas worth trying and evaluating, and must not be read as evidence.
+The patterns below come from a faculty guide, *AI-Ready Course Design* (September 2026). That guide states explicitly that its examples are **design proposals, not tested interventions**, and no study tests them. They are recorded here as design ideas worth trying and evaluating, and must not be read as evidence.
 
 - **Argument + revision trail** (composition, humanities). Replace an essay-only submission with an initial thesis, two annotated source passages, a revised essay and a 150-word decision note; permit AI critique after the first draft. Assess the claim–evidence connection and one accepted or rejected suggestion justified against the sources.
 - **Data + reasoned claim** (science, laboratory courses). Replace a polished lab report with raw observations, a graph, an uncertainty note and an explanation linking results to a claim; AI may critique a supplied interpretation, and students verify that critique against their data.
@@ -197,14 +197,14 @@ The guide's own cautions apply: recorded video, reflections and logs can themsel
 
 - **"Any AI-supplied practice is practice."** An adaptive spaced-retrieval condition produced **the highest posttest scores (M = 78.19)** and **significantly outperformed learner-directed AI study (M = 67.28)**. The learner-directed arrangement underperformed a structured one, so autonomy is not automatically the better design.
 - **"Studying with a [[conversational-ai|chatbot]] is better than studying without."** **The counterexample settles it**: in a [[rct|randomized trial]] of **120 students**, those who worked with unrestricted ChatGPT remembered **less when tested without warning** than those who did not. The tool was harmful to retention in the arrangement tested.
-- **"The pattern's evidence is a large pooled trial."** The **strongest support is indirect** and comes from a **randomized within-subjects experiment with 26 students**, where immediate-answer [[scaffolding]] performed significantly differently. The evidence supports the pattern and remains thin in scale, and the page should be read that way.
+- **"The pattern's evidence is a large pooled trial."** The **strongest support is indirect** and comes from a **randomized within-subjects experiment with 26 students**, where immediate-answer [[scaffolding]] performed significantly differently. The evidence supports the pattern and remains thin in scale.
 
 ## Connected Concepts
 
-- [[pedagogy]] — the umbrella of teaching approaches this page operationalizes into sequences
+- [[pedagogy]] — the umbrella of teaching approaches these patterns operationalize into sequences
 - [[learning-design]] — where patterns are chosen, sequenced and embedded in a course
 - [[scaffolding]] — the support-and-fading principle that governs where AI help belongs
-- [[feedback]] — the system this page's feedback patterns instantiate
+- [[feedback]] — the system these feedback patterns instantiate
 - [[formative-assessment]] — the assessment purpose most of these patterns serve
 - [[peer-assessment]] — the human half of the PAIRR and combined-feedback patterns
 - [[ai-feedback-quality]] — why feedback quality alone does not determine revision

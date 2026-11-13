@@ -1,6 +1,6 @@
 ---
 title: "'It's not approved, but many, like myself, ignore the rule': Investigating the Landscape and Consequences of Unauthorized Technology Use in Educational Institutes"
-created: "2026-11-12T14:20:00-05:00"
+created: "2026-11-12T07:49:43-05:00"
 updated: "2026-11-12T14:20:00-05:00"
 type: article
 evidence_context: educational

@@ -1,7 +1,7 @@
 ---
 title: "Can I Use AI to Grade Student Work Fairly and Reliably?"
-created: "2026-10-30T11:40:00-04:00"
-updated: "2026-11-06T03:00:00-05:00"
+created: "2026-10-30T11:34:03-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -42,11 +42,11 @@ Here is the short answer: AI grading earns a place as a supervised assistant or 
 
 Three arrangements get called "AI grading" and they carry different obligations.
 
-A **feedback assistant** drafts comments or flags possible omissions for you to accept, rewrite or discard. The risk is confined to comment quality, and you read everything before it reaches a student. A **second reader** proposes criterion scores or flags disagreements to structure your own marking. Its errors have to be useful rather than merely wrong: a flag that sends you back to a submission you would have marked carelessly is worth having. A **primary scorer** produces scores that become recorded grades. That is the arrangement the evidence in this knowledge base does not support beyond narrow, locally validated cases.
+A **feedback assistant** drafts comments or flags possible omissions for you to accept, rewrite or discard. The risk is confined to comment quality, and you read everything before it reaches a student. A **second reader** proposes criterion scores or flags disagreements to structure your own marking. Its errors have to be useful rather than merely wrong: a flag that sends you back to a submission you would have marked carelessly is worth having. A **primary scorer** produces scores that become recorded grades. That is the arrangement the evidence does not support beyond narrow, locally validated cases.
 
 Choose the lowest rung that addresses your actual constraint. If your marking load comes from checking a fixed answer key, ordinary deterministic scoring is more transparent and auditable than a [[llm|language model]], and the pharmacy study suggests the LLM's advantage on objective items was partly an artifact of being handed the correct answers during grading. Reserve the model for work that needs interpretation, then check that interpretation.
 
-[[automated-assessment|Automated assessment]] covers the wider machinery of scoring, moderation and feedback generation. This page is the judgment question underneath it.
+[[automated-assessment|Automated assessment]] covers the wider machinery of scoring, moderation and feedback generation. The judgment question underneath it is whether any of that machinery is fair and reliable enough to record a grade.
 
 ## What the evidence actually shows
 

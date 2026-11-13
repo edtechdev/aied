@@ -1,7 +1,7 @@
 ---
 title: "What Should Educators Avoid Doing With AI?"
-created: "2026-11-10T22:10:00-05:00"
-updated: "2026-11-12T15:50:00-05:00"
+created: "2026-11-10T21:03:31-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: faq
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
@@ -20,7 +20,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-Most guidance about AI in education says what to try. This page collects the practices the evidence says to stop, sorted by the role that would have to stop them. False beliefs are covered elsewhere: the [[addressing-common-misconceptions-ai-education|misconceptions FAQ]] handles them, and the [[misconceptions]] concept page explains why they persist. What research cannot yet tell you belongs to [[limitations-in-aied-research|limitations in AIEd research]]. What follows here is the step after belief, meaning what people do, what it costs, and what to do instead.
+Most guidance about AI in education says what to try. The practices the evidence says to stop are sorted by the role that would have to stop them. False beliefs are covered elsewhere: the [[addressing-common-misconceptions-ai-education|misconceptions FAQ]] handles them, and the [[misconceptions]] concept page explains why they persist. What research cannot yet tell you belongs to [[limitations-in-aied-research|limitations in AIEd research]]. What follows here is the step after belief, meaning what people do, what it costs, and what to do instead.
 
 Three failures recur across the roles.
 

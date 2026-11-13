@@ -1,6 +1,6 @@
 ---
 title: "From design to classroom adoption: Teachers' perspectives on AI-powered writing analytics in resource-constrained contexts"
-created: "2026-11-02T13:35:00-05:00"
+created: "2026-11-02T12:39:28-05:00"
 updated: "2026-11-02T13:35:00-05:00"
 type: article
 technology: [learning-analytics, technology-acceptance-model]

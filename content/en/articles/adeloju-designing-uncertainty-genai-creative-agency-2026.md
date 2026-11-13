@@ -1,6 +1,6 @@
 ---
 title: "Designing in Uncertainty: GenAI and Creative Agency in a Graduate Seminar"
-created: "2026-11-08T08:39:00-05:00"
+created: "2026-11-08T08:10:57-05:00"
 updated: "2026-11-08T08:39:00-05:00"
 type: article
 page_kind: [framework]

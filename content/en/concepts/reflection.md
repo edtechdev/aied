@@ -1,7 +1,7 @@
 ---
 title: Reflection
-created: "2026-11-04T14:20:00-05:00"
-updated: "2026-11-08T09:30:45-05:00"
+created: "2026-11-04T09:37:20-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy, academic-integrity]
 pedagogy: [reflection, metacognition, self-regulated-learning, scaffolding]
@@ -22,7 +22,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Reflection** — the deliberate, retrospective examination of one's own experience, work or reasoning, externalized in written, spoken or recorded form so that it can be revisited, shared or assessed. Its nearest neighbour in this knowledge base is [[metacognition]], and confusing the two is the most common error on the topic. Metacognition is the monitoring machinery: the in-the-moment judgments of whether you understand, remember or are on track. Reflection is a designed activity with a deliverable — a journal entry, a reflective essay, a portfolio commentary, a structured self-explanation prompt — performed after or alongside the work. The distinction acquires teeth in the AI era because the two are exposed differently: monitoring is hard to hand over and easy to displace, while a reflection artifact can be produced by a model, which makes the authenticity of the artifact rather than the depth of the thinking the first design problem.
+> **Reflection** — the deliberate, retrospective examination of one's own experience, work or reasoning, externalized in written, spoken or recorded form so that it can be revisited, shared or assessed. Its nearest neighbour is [[metacognition]], and confusing the two is the most common error on the topic. Metacognition is the monitoring machinery: the in-the-moment judgments of whether you understand, remember or are on track. Reflection is a designed activity with a deliverable — a journal entry, a reflective essay, a portfolio commentary, a structured self-explanation prompt — performed after or alongside the work. The distinction acquires teeth in the AI era because the two are exposed differently: monitoring is hard to hand over and easy to displace, while a reflection artifact can be produced by a model, which makes the authenticity of the artifact rather than the depth of the thinking the first design problem.
 
 ## Questions to Consider
 
@@ -35,7 +35,7 @@ ai_assist:
 
 ## Introduction
 
-Reflection as an educational construct carries a family of models rather than a single definition: Kolb's cycle, Gibbs's structured stages, the DIEP framework, Schön's reflective practitioner, Mezirow's transformative reflection, and Boud's work on reflection in learning. The knowledge base's research treats these as a shared inheritance and then asks what [[generative-ai|generative AI]] changes about each of them. The recurring objects of study are reflective writing as an assessed genre, the journal or log as a routine, the [[eportfolio|e-portfolio]] as a container and an assessment form, and the prompt as the smallest unit of intervention.
+Reflection as an educational construct carries a family of models rather than a single definition: Kolb's cycle, Gibbs's structured stages, the DIEP framework, Schön's reflective practitioner, Mezirow's transformative reflection, and Boud's work on reflection in learning. The research treats these as a shared inheritance and then asks what [[generative-ai|generative AI]] changes about each of them. The recurring objects of study are reflective writing as an assessed genre, the journal or log as a routine, the [[eportfolio|e-portfolio]] as a container and an assessment form, and the prompt as the smallest unit of intervention.
 
 Two further distinctions organize the literature. The first is *depth*: reflection is scored on levels, from descriptive retelling at the low end to critical, theory-informed examination of one's own assumptions at the high end. The second is *author*. Until recently the second question did not arise. It now does, because the artifact and the thinking have come apart.
 
@@ -60,7 +60,7 @@ The practical consequence of keeping them apart is that each names a different t
 
 ## What reflection costs, and what it buys
 
-The sharpest experimental test in this knowledge base is a preregistered between-subjects study with 302 US adults learning introductory Python. [[structured-reflection-ai-explanatory-feedback-2026|Asher, Gold and Carvalho (2026)]] compared a video crash course, practice with personalized [[ai-feedback-quality|AI feedback]], and the same feedback paired with self-explanation prompts.
+The sharpest experimental test is a preregistered between-subjects study with 302 US adults learning introductory Python. [[structured-reflection-ai-explanatory-feedback-2026|Asher, Gold and Carvalho (2026)]] compared a video crash course, practice with personalized [[ai-feedback-quality|AI feedback]], and the same feedback paired with self-explanation prompts.
 
 Reflection lost on nearly every measure. It roughly doubled time spent with feedback, 4.1 versus 2.1 minutes (t(267) = 11.30, p < .001), and cut practice volume by 40%, 2.0 versus 3.4 problems (t(267) = 8.20, p < .001). Each problem yielded the same learning gain with or without the prompts (Reflection × problem number OR = 1.03, z = 0.23, p = .486), so the practice arm finished with higher mastery, 79% versus 65% (d = .41).
 
@@ -86,7 +86,7 @@ That finding generalizes beyond career reflection. An AI reflection partner degr
 
 Depth is measured, and increasingly automated. [[reflection-level-classification-hungarian-essays-2026|The Hungarian reflection-level study (2026)]] used 1,954 expert-annotated essays written over four consecutive years in an [[early-childhood-elementary-ai-education|Early Childhood Education]] program, comparing classical models on TF-IDF features and Qwen3 embeddings against two fine-tuned Hungarian transformers.
 
-The corpus is severely skewed: 68% of essays sit at level 3 and only 1.8% at level 0, so much of the paper is imbalance handling. Shallow models reached up to 71% on an averaged accuracy-F1-ROC AUC score; the transformers reached 68% overall but handled minority levels better.
+The essay set is severely skewed: 68% of essays sit at level 3 and only 1.8% at level 0, so much of the paper is imbalance handling. Shallow models reached up to 71% on an averaged accuracy-F1-ROC AUC score; the transformers reached 68% overall but handled minority levels better.
 
 The measurement lesson is narrower than it looks. A classifier estimates how reflective a text reads. It cannot tell whether the reflection happened, and it is exactly the level of performance a fluent model can imitate.
 
@@ -123,7 +123,7 @@ Two designs respond to that worry differently, and both are useful signals. [[pa
 ### Designing the reflection task
 
 - **Sequence the prompt after an attempt closes.** The 302-adult experiment is the cautionary case here: prompts that interrupted work between an attempt and its feedback spent the session's time and shrank how much practice was completed.
-- **Name the depth level you are rewarding.** The Hungarian corpus scores reflection on levels from descriptive retelling to critical examination of assumptions. A prompt asking students to "reflect" while the rubric rewards description produces descriptions.
+- **Name the depth level you are rewarding.** The Hungarian essay set scores reflection on levels from descriptive retelling to critical examination of assumptions. A prompt asking students to "reflect" while the rubric rewards description produces descriptions.
 - **Prompt for the episode, not the term.** "What did you try, what failed, and what did you change on the third attempt?" is answerable. "Reflect on your learning journey" is not.
 - **Ask for the process trail.** Recorded prompts, abandoned drafts, a rejected approach and the reason for the final choice are all cheap to produce, hard to fake, and exactly what the GenAI-aware models put first.
 
@@ -134,7 +134,7 @@ A starter prompt that survives most of the failure modes above: *(1) What did yo
 - **Reward disclosure.** A reflection that documents how GenAI was used, checked and corrected is more useful evidence than one that omits it, and the five-part GenAI-aware model is built on that premise — Purpose, Process, Product, Pitfalls, Plan.
 - **Set the policy inside the prompt.** State what may be delegated and what must be the student's own observation; a policy in a syllabus is invisible at the moment of writing.
 - **Keep the AI in the questioning role.** A partner that asks clarifying questions and offers alternative formulations preserves the learner's articulating work; one that writes the entry removes it.
-- **Audit any reflection agent you deploy.** In the one coded audit in this knowledge base, the agent obeyed mechanically checkable rules and broke the behavioral ones without leaving a trace, while looking perfectly plausible.
+- **Audit any reflection agent you deploy.** In the one coded audit, the agent obeyed mechanically checkable rules and broke the behavioral ones without leaving a trace, while looking perfectly plausible.
 - **Do not turn a [[well-being|wellbeing]]-oriented self-check into a diagnosis.** The PAUSE design is the model here: descriptive, domain-aware reflections, no composite score, and an explicit refusal to justify any decision about a person.
 
 ### Grading authenticity
@@ -146,7 +146,7 @@ A starter prompt that survives most of the failure modes above: *(1) What did yo
 
 ### Sustaining the routine
 
-- **Design for motivation decay, not for prompt quality.** Reflective journals are abandoned within weeks; example-based onboarding and a conversational assistant that asks questions were the two interventions this corpus tests against that.
+- **Design for motivation decay, not for prompt quality.** Reflective journals are abandoned within weeks; example-based onboarding and a conversational assistant that asks questions were the two interventions tested against that.
 - **Favour frequency over length.** A short entry after each attempt sustains the habit; a long entry at the end of term is a single writing task with a reflective label.
 - **Give the portfolio a reflective checkpoint.** Without a commentary requirement at each curation point, an e-portfolio becomes a museum of finished products.
 - **Adapt to expertise.** Less experienced teachers cite time as their top obstacle; experienced teachers cite tracking student performance, so one reflection interface across a whole staff serves neither group.
@@ -154,12 +154,12 @@ A starter prompt that survives most of the failure modes above: *(1) What did yo
 
 ## Common Misconceptions
 
-- **"Reflection and metacognition are the same thing."** They are related but separable. A judgment about your own state of understanding and an activity that leaves a record behind are different objects of study, which is why this knowledge base keeps them on separate pages.
+- **"Reflection and metacognition are the same thing."** They are related but separable. A judgment about your own state of understanding and an activity that leaves a record behind are different objects of study, which is why the two are treated separately.
 - **"Reflection is always worth the time it takes."** At least one preregistered experiment found the trade unfavourable, because the reflection competed with practice for the same session minutes.
 - **"A deep-sounding reflection means deep thinking happened."** Reading as reflective and being reflective are different properties, and a fluent model can supply the first.
-- **"[[automated-assessment|Automated scoring]] solves the scale problem."** Classifiers reach roughly 70% on reflection level in a well-annotated corpus with severe class imbalance, and that ceiling is within reach of plausible text.
+- **"[[automated-assessment|Automated scoring]] solves the scale problem."** Classifiers reach roughly 70% on reflection level in a well-annotated essay set with severe class imbalance, and that ceiling is within reach of plausible text.
 - **"Portfolios are reflective by nature."** The container is not the act; a portfolio assembled from polished products can contain no reflection at all.
-- **"Reflection needs no teaching."** Both the Hungarian essay corpus and the pre-service teacher experiment presuppose that level and quality are learned, and that preparation changes outcomes.
+- **"Reflection needs no teaching."** Both the Hungarian essay set and the pre-service teacher experiment presuppose that level and quality are learned, and that preparation changes outcomes.
 
 ## Connected Concepts
 

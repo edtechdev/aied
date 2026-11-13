@@ -1,6 +1,6 @@
 ---
 title: "How Is Shadow AI Legitimized in Higher Education? A Qualitative Study Among Academic Educators in the Absence of Institutional Guidance"
-created: "2026-11-12T14:15:00-05:00"
+created: "2026-11-12T07:49:43-05:00"
 updated: "2026-11-12T14:15:00-05:00"
 type: article
 evidence_context: educational

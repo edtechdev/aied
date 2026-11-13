@@ -1,7 +1,7 @@
 ---
 title: "How Do I Check Whether AI-Generated Quiz and Exam Questions Are Actually Good?"
-created: "2026-10-30T12:05:00-04:00"
-updated: "2026-11-05T21:45:00-05:00"
+created: "2026-10-30T11:34:03-04:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -26,7 +26,7 @@ ai_assist:
 
 You ask for twenty questions from your lecture notes. They come back with answer keys, explanations, difficulty labels and Bloom's taxonomy categories, in a formatted document that looks finished. Your name is about to go on it.
 
-Here is the short answer: generated questions are candidates, not an assessment. Solve each one yourself, check what the item demands a student actually do, and find out how students respond to it before it counts. On the two largest studies in this knowledge base, the interesting signal is not that generation works but where it fails. Iterative generation inside a course-specific workflow produced usable multiple-choice exams across 71 college classes ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). In a data-science audit of 311 deployed questions, the model's difficulty labels tracked the Bloom's levels it had generated alongside them almost perfectly (Spearman ρ = 0.90) while tracking what students actually scored at ρ = 0.06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An and Wang, 2026]]). The label was a description of the prompt, not a measurement of the item.
+Here is the short answer: generated questions are candidates, not an assessment. Solve each one yourself, check what the item demands a student actually do, and find out how students respond to it before it counts. In the two largest studies, the interesting signal is not that generation works but where it fails. Iterative generation inside a course-specific workflow produced usable multiple-choice exams across 71 college classes ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). In a data-science audit of 311 deployed questions, the model's difficulty labels tracked the Bloom's levels it had generated alongside them almost perfectly (Spearman ρ = 0.90) while tracking what students actually scored at ρ = 0.06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An and Wang, 2026]]). The label was a description of the prompt, not a measurement of the item.
 
 ## The short version
 

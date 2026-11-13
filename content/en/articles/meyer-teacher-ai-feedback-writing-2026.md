@@ -1,6 +1,6 @@
 ---
 title: "Comparing Teacher and AI-Generated Feedback in the Writing Classroom: Experimental Results from Secondary School Classrooms"
-created: "2026-11-11T08:00:14-05:00"
+created: "2026-11-11T07:53:40-05:00"
 updated: "2026-11-11T08:20:00-05:00"
 type: article
 evidence_context: educational

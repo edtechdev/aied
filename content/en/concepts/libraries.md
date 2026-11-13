@@ -1,7 +1,7 @@
 ---
 title: "Libraries"
-created: "2026-11-05T03:45:00-05:00"
-updated: "2026-11-12T21:45:00-05:00"
+created: "2026-11-05T03:32:52-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy]
 technology: [generative-ai, llm, recommender-systems-and-learning-paths, knowledge-graph]
@@ -33,15 +33,15 @@ reviewed_by: [editor]
 
 ## Introduction
 
-The library is the part of the education system that has always been in the information-access business, which is why AI arrives there less as a novelty than as a change in the supply chain. Two literatures meet on this page. One studies libraries as adopters: what they are doing with AI, what stops them, and how the work is distributed across technical services, reference, collections, circulation, instruction and staff development. The other studies libraries as infrastructure: the place where students and the public meet search at all, and therefore where a shift from search to synthesis is first felt.
+The library is the part of the education system that has always been in the information-access business, which is why AI arrives there less as a novelty than as a change in the supply chain. Two literatures meet in the study of libraries. One studies libraries as adopters: what they are doing with AI, what stops them, and how the work is distributed across technical services, reference, collections, circulation, instruction and staff development. The other studies libraries as infrastructure: the place where students and the public meet search at all, and therefore where a shift from search to synthesis is first felt.
 
-The page is deliberately distinct from [[librarians]], which covers the people and their professional role, and from [[information-and-media-literacy]], which covers the construct they teach. This page is about the institution: its services, its systems, its staffing model and its public obligation.
+The subject is deliberately distinct from [[librarians]], which covers the people and their professional role, and from [[information-and-media-literacy]], which covers the construct they teach. The focus is the institution: its services, its systems, its staffing model and its public obligation.
 
 ## How AI enters library operations
 
 A [[meta-analysis-systematic-review|systematic review]] of 29 studies published between 2020 and 2024 organizes AI adoption into six dimensions — technical services, reference and information services, administrative services and circulation, collection development, information literacy and user education, and [[educational-development|professional development]] and collaboration — and finds the center of gravity in reference: AI for answering directional and ready-reference questions appears in 34.48% of the reviewed studies, with cataloguing and chat-transcribed reference next at 27.58% each ([[ayinde-ai-academic-libraries-systematic-review-2026|Ayinde, Ebiefung and Oladokun, 2026]]). The same review records what the adoption literature usually softens: funding is named as a critical barrier in 48.28% of studies, technical skill gaps and poor data quality in 58.62%, and fear of job loss in 13.79%.
 
-The distribution matters because it describes a library automating the parts of its work that were already transactional — the directional question, the catalogue record, the chat transcript — while the judgment-heavy work remains human. That is consistent with the instructional evidence elsewhere in the knowledge base: an embedded librarian consulted when a recommender was least confident handled mostly source-evaluation questions, not lookup questions ([[ai-assisted-seminar-learning-information-literacy-2026|Huang, 2026]]).
+The distribution matters because it describes a library automating the parts of its work that were already transactional — the directional question, the catalogue record, the chat transcript — while the judgment-heavy work remains human. That is consistent with the instructional evidence: an embedded librarian consulted when a recommender was least confident handled mostly source-evaluation questions, not lookup questions ([[ai-assisted-seminar-learning-information-literacy-2026|Huang, 2026]]).
 
 ## The search layer moves
 

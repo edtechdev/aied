@@ -1,7 +1,7 @@
 ---
 title: "What Are Best Practices for Writing Instruction in the Context of AI?"
 created: "2026-09-12T08:13:03-04:00"
-updated: "2026-11-06T13:58:13-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
@@ -126,7 +126,7 @@ Assign the critique of the model as disciplinary work. Give students an AI inter
 
 ### STEM courses and lab reports
 
-A qualification first: this knowledge base holds much stronger evidence about AI-supported academic writing generally than about laboratory-report writing in particular. Hands-on and laboratory [[pedagogy]] remain under-covered, including in the [[engineering-education|engineering education]] literature, so what follows applies writing, offloading, validity, and engineering findings to a setting those studies did not test.
+A qualification first: the evidence is much stronger for AI-supported academic writing generally than for laboratory-report writing in particular. Hands-on and laboratory [[pedagogy]] remain under-covered, including in the [[engineering-education|engineering education]] literature, so what follows applies writing, offloading, validity, and engineering findings to a setting those studies did not test.
 
 Draw the boundary around scientific reasoning rather than prose as a whole. Students stay responsible for observations, raw data, calculations, uncertainty, figures, analysis choices, results, and claim-evidence reasoning. Once those exist, AI can reasonably help with organization, readability, transitions, and disciplinary conventions, which is the same surface-and-reasoning split as [[layer-sensitive-cognitive-offloading-writing-2026|Chen's study]].
 
@@ -150,7 +150,7 @@ Students draw a similar line themselves. In an undergraduate technical communica
 
 ## Judge the evidence before you rewrite the syllabus
 
-The case for these designs is promising and not yet strong enough to justify one universal AI-writing policy. Some of the best evidence comes from substantial classroom studies such as [[pairr-ai-peer-review-2025|PAIRR]] with its 654 students. Much of the rest rests on quasi-experiments, small experimental samples, conceptual analyses, and 2025-2026 work that is still new: [[layer-sensitive-cognitive-offloading-writing-2026|Chen's bounded-writing study]] had 168 students but only six intact classes, the [[ai-writing-support-stage-ownership-2026|ownership study]] used a short experimental writing task, and a study reporting immediate quality gains after ChatGPT practice involved only 21 first-year international students and did not establish long-term [[transfer-of-learning|transfer]] ([[chatgpt-academic-writing-quality-ownership-2026]]). What the [[ai-education|AI in Education]] knowledge base supports is a set of design principles, and the most reliable cross-study finding in it is to preserve student [[agency]], [[evaluative-judgment|evaluative judgment]], independent competence, disciplinary reasoning, and human feedback while using AI to widen access to critique, practice, revision support, and linguistic assistance.
+The case for these designs is promising and not yet strong enough to justify one universal AI-writing policy. Some of the best evidence comes from substantial classroom studies such as [[pairr-ai-peer-review-2025|PAIRR]] with its 654 students. Much of the rest rests on quasi-experiments, small experimental samples, conceptual analyses, and 2025-2026 work that is still new: [[layer-sensitive-cognitive-offloading-writing-2026|Chen's bounded-writing study]] had 168 students but only six intact classes, the [[ai-writing-support-stage-ownership-2026|ownership study]] used a short experimental writing task, and a study reporting immediate quality gains after ChatGPT practice involved only 21 first-year international students and did not establish long-term [[transfer-of-learning|transfer]] ([[chatgpt-academic-writing-quality-ownership-2026]]). What [[ai-education|AI in Education]] research supports is a set of design principles, and the most reliable cross-study finding is to preserve student [[agency]], [[evaluative-judgment|evaluative judgment]], independent competence, disciplinary reasoning, and human feedback while using AI to widen access to critique, practice, revision support, and linguistic assistance.
 
 That mix has a practical consequence. Change one assignment, keep the artifact, and compare the next cohort against this one on the same measure. A rule you can revise after one term is worth more than a policy you cannot test, and the small studies above will not tell you what happens in your course.
 
@@ -168,7 +168,7 @@ That mix has a practical consequence. Change one assignment, keep the artifact, 
 
 ## What will come back at you
 
-**"I do not have time to read another artifact."** Then make the artifact small: four columns of decision table, or five minutes of in-class writing as the independent sample. The corpus reports no marking-time data for these designs, so the workload case has to be tested on one assignment rather than assumed from this page.
+**"I do not have time to read another artifact."** Then make the artifact small: four columns of decision table, or five minutes of in-class writing as the independent sample. No study reports marking-time data for these designs, so the workload case has to be tested on one assignment rather than assumed.
 
 **"My students will use AI whatever the rule says."** They will, and the design question is which response your assignment makes easiest. A declaration that costs nothing and a rubric that pays for process make disclosure the cheaper path. That mechanism comes from modeling rather than from a trial of a disclosure policy, so treat the prediction as reasonable and unconfirmed.
 
@@ -178,7 +178,7 @@ That mix has a practical consequence. Change one assignment, keep the artifact, 
 
 **"The model grades this task as well as I do."** Calibrated systems with detailed rubrics and worked examples can score particular tasks well. Generic grading does not, and Mathew et al. show the disagreement follows essay quality rather than scattering randomly, which is the harder kind of error to notice. Test the tool on your own marked set before it touches a grade.
 
-**"This penalizes students whose academic English is weaker."** It can, if the rule treats expression and authorship as one thing. Separate them, and audit the AI feedback for the pattern Tan et al. found, where identical writing drew more praise and less substantive critique once demographic or educational attributes were in the prompt. The corpus documents that bias. It does not report a tested fix, so your own comparison is the check.
+**"This penalizes students whose academic English is weaker."** It can, if the rule treats expression and authorship as one thing. Separate them, and audit the AI feedback for the pattern Tan et al. found, where identical writing drew more praise and less substantive critique once demographic or educational attributes were in the prompt. That bias is documented. It does not report a tested fix, so your own comparison is the check.
 
 ## What to do this week
 
@@ -194,4 +194,4 @@ That mix has a practical consequence. Change one assignment, keep the artifact, 
 
 ## Where to go next
 
-The assessment side of this argument, including the design of authenticated steps, is in [[redesign-assessment-ai-era]]. For the policy document students actually read, see [[course-ai-policy]], and for the feedback tools themselves, [[ai-feedback-quality]]. [[verify-ai-output]] covers what students should be checking when the model supplies a claim or a source, and the concept page [[coach-not-crutch-ai-writing]] states the boundary this page keeps returning to.
+The assessment side of this argument, including the design of authenticated steps, is in [[redesign-assessment-ai-era]]. For the policy document students actually read, see [[course-ai-policy]], and for the feedback tools themselves, [[ai-feedback-quality]]. [[verify-ai-output]] covers what students should be checking when the model supplies a claim or a source, and [[coach-not-crutch-ai-writing]] states the boundary that matters most.

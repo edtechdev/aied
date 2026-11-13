@@ -1,6 +1,6 @@
 ---
 title: "An Empirical Study to Understand How Students Use ChatGPT for Writing Essays"
-created: "2026-11-01T13:00:00-05:00"
+created: "2026-11-01T06:47:19-05:00"
 updated: "2026-11-01T13:00:00-05:00"
 type: article
 sources: ['raw/papers/jelson-students-chatgpt-essay-writing-2026.md']

@@ -1,7 +1,7 @@
 ---
 title: Administrators
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:25:09-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -44,7 +44,7 @@ AI adoption in education is not purely a classroom decision; it is also an insti
 
 ## Connections
 
-The administrator perspective connects to [[educational-policy-ai]] (policy formation), [[governance]] and [[regulation]] (governance), [[edtech-platform]] (procurement and infrastructure), [[learning-analytics]] (institutional data), and [[higher-ed]]. Administrator decisions enable or constrain the [[educational-development]], [[teacher-role]], and [[ai-literacy]] work covered elsewhere in the knowledge base.
+The administrator perspective connects to [[educational-policy-ai]] (policy formation), [[governance]] and [[regulation]] (governance), [[edtech-platform]] (procurement and infrastructure), [[learning-analytics]] (institutional data), and [[higher-ed]]. Administrator decisions enable or constrain the [[educational-development]], [[teacher-role]], and [[ai-literacy]] work that depends on them.
 
 ## Implications for Practice
 
@@ -58,7 +58,7 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 ## Common Misconceptions
 
 - **"Strategic priority implies strategic capacity."** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] found only **7% of institutions had created senior AI leadership roles** even though **49% treated AI as a strategic priority**. The gap is not indifference — it is that intent has been declared while the structure that would carry it has not been funded. Reading a published AI strategy as evidence of institutional readiness overstates what exists.
-- **"Adoption figures measure readiness."** Declared use and governed use are different quantities, and this page's evidence separates them: institutions report strategic intent at roughly half the population and leadership capacity at under a tenth. A survey showing that staff use AI tells you what individuals have already done without permission, not what the institution can support or supervise.
+- **"Adoption figures measure readiness."** Declared use and governed use are different quantities, and the evidence separates them: institutions report strategic intent at roughly half the population and leadership capacity at under a tenth. A survey showing that staff use AI tells you what individuals have already done without permission, not what the institution can support or supervise.
 - **"Procurement is an administrative step."** Where capability is purchased rather than built, the contractual terms decide what becomes possible later — data ownership, audit access, and whether the tool can be evaluated at all. A vendor decision made as a purchasing task forecloses evaluation questions the institution has not yet asked.
 - **"Governance can follow adoption."** The sequencing claim is common and unsupported here: the evidence documents the opposite pattern, with policy and leadership structures trailing use that is already happening. Governance framed as something to build after rollout is governance built from a position of less leverage.
 

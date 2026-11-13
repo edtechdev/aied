@@ -1,6 +1,6 @@
 ---
 title: "CLST: Cold-Start Mitigation in Knowledge Tracing by Aligning a Generative Language Model as a Students' Knowledge Tracer"
-created: "2026-11-05T20:00:00-05:00"
+created: "2026-11-05T19:50:53-05:00"
 updated: "2026-11-05T20:00:00-05:00"
 type: article
 sources: ['raw/papers/jung-clst-cold-start-knowledge-tracing-2025.md']
