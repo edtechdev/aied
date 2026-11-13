@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence literacy at school: A systematic review with a focus on psychological foundations"
 created: "2026-11-13T07:30:00-05:00"
-updated: "2026-11-13T07:30:00-05:00"
+updated: "2026-11-13T10:45:00-05:00"
 type: article
 published: 2026-01-21
 sources: ['raw/papers/feng-ai-literacy-psychological-dimensions-2026.md']
@@ -22,52 +22,63 @@ ai_assist:
     role: drafting
     date: "2026-11-13"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-13"
+    agent: hermes-agent
 verified: [citation, numbers]
 ---
-
-> **Synthesis:** Feng and Carolus screened 2642 records down to 58 peer-reviewed articles on [[ai-literacy|AI literacy]] in school education and found that the field has not settled on one construct. Thirty-five of the 58 articles offered a definition, and the definitions split by audience: twelve for teachers, nineteen for students, four for other school roles. The review therefore proposes three group-specific definitions and three dimension sets — six dimensions for teachers, eight for students — that share a core of AI knowledge and skills, AI ethics and societal implications, generative-AI-specific competency, and a psychological dimension the authors treat as the most neglected. That psychological layer is split into cognitive elements (reasoning, metacognition, cognitive readiness) and non-cognitive ones (self-efficacy, attitudes, motivation and volition, emotional readiness), each counted across the reviewed studies.
+> **Synthesis:** Feng and Carolus screened 2,642 records down to 58 articles on [[ai-literacy|AI literacy]] in school education and found definitions differ by audience, with psychological elements counted far less often than knowledge elements. Their review writes separate definitions for teachers, students and other school staff and treats reasoning, self-efficacy, attitudes and emotional readiness as parts of literacy rather than preconditions. Outcomes therefore have to be written for a specific role and age, and the emotional side taught rather than assumed.
 
 ## Key Findings
 
-1. **AI literacy is three constructs wearing one name.** Teachers need the construct integrated with pedagogy, subject content and classroom constraints; students need broader conceptual and technical grounding plus thinking skills that prepare them for AI-enabled work; administrators and school staff need generic and context-specific knowledge oriented to decision-making.
-2. **The teacher dimension set is pedagogical by construction.** Six dimensions emerge: AI knowledge and skills in pedagogical contexts, AI ethics, contextual knowledge, continuous professional growth, the psychological dimension, and a generative-AI-specific dimension. Thirteen of the reviewed articles build their teacher conceptualisation on [[tpack|TPACK]].
-3. **Two of those dimensions reframe competence as commitment.** Contextual knowledge and continuous professional growth are properties of a teacher's situation and trajectory, not scores a teacher holds — a school's constraints and a teacher's ongoing learning become part of what literacy means.
-4. **The student dimension set is developmental.** Eight dimensions include age appropriateness as a structural constraint, so the same named dimension means something different in primary and secondary grades.
-5. **Psychology is inside the construct, not upstream of it.** The review counts the evidence: reasoning and cognitive strategies in 20 studies, attitudes in 16, self-efficacy in 9, motivation and volition in 9, metacognition in 8, cognitive readiness in 7, emotional readiness in 6.
-6. **Three trends cut across all groups.** [[generative-ai|Generative-AI-specific]] literacies now appear for every audience, ethics is treated as a core component rather than an add-on, and the psychological dimension is gaining recognition after being omitted from earlier frameworks.
-7. **The evidence base is thin and geographically concentrated.** Most reviewed articles are theoretical conceptualizations, 42 of the 58 came from Hong Kong and China, and the "other school roles" findings rest on five articles.
+1. **AI literacy is not one construct** — teachers, students and school staff get different definitions because each group does a different job with AI.
+2. **The [[teacher-role|teacher]] version is [[pedagogy|pedagogical]] by construction** — it joins AI knowledge to subject content and classroom constraint, so tool knowledge without a lesson does not count.
+3. **Two teacher dimensions describe a situation, not a score** — contextual knowledge and continuous professional growth make the school's constraints and the teacher's trajectory part of the construct.
+4. **The student version is developmental** — age appropriateness is structural, so [[critical-thinking|critical evaluation]] means something different in primary and [[k-12|secondary]] grades.
+5. **Psychology sits inside literacy** — reasoning, self-efficacy, attitudes and emotional readiness count as components, not preconditions learners bring or lack.
+6. **The literature measures what is easy to see** — attitudes and reasoning are studied far more than emotional regulation, leaving the element the authors call most neglected as the thinnest evidence.
 
-## The psychological layer
+## Three audiences, three definitions
 
-The review's contribution is to give the affective side of AI literacy a structure and a count. Its cognitive half covers reasoning and cognitive strategies — logical thinking, abstract reasoning, critical thinking, innovative thinking, computational thinking — together with [[metacognition]] (recognizing one's own limits and seeking improvement) and cognitive readiness, which it defines as going beyond knowledge preparedness to include perception, feeling, self-learning and self-assessment.
+Thirty-five of the fifty-eight articles offered a definition, sorted by audience — twelve for teachers, nineteen for students, four for other school roles — so the authors write three definitions rather than force them into one.
 
-The non-cognitive half is the familiar motivational set: [[self-efficacy]], positive attitudes (openness, confidence, willingness), motivation and volition, and emotional readiness with its regulation and awareness components. The authors read this pattern as empirical support for importing constructs from self-determination theory, the theory of planned behavior and UTAUT into AI literacy models, and propose that the four broad constructs — cognition, emotion, psychology and behavior — interact, with behavior emerging from the other three.
+For teachers, AI literacy is the ability and self-efficacy to integrate AI knowledge with pedagogical expertise to critically analyze, apply, evaluate and develop [[ai-technologies|AI technologies]], aligned to subject content. Self-efficacy sits inside the definition, not beside it; thirteen reviewed articles build the account on [[tpack|TPACK]], which supplies shared vocabulary but assumes the domains can be separated and recombined.
 
-The frequencies are the part a curriculum designer should read closely. Attitudes appear in 16 studies and reasoning in 20, while emotional readiness appears in 6 and cognitive readiness in 7. The two most-measured elements are the easiest to observe; the affective regulation the review argues matters most is the least studied.
+The student definition widens to conceptual knowledge, understanding of limits, practical skill, ethical and [[sociocultural-learning|socio-cultural]] awareness, and the moral and affective dispositions that go with them. Age appropriateness becomes a dimension in its own right, alongside preparation for AI-mediated work. The definition for other roles is narrower: generic knowledge plus context-specific application, oriented to choices about tools, policy and data.
 
-## Where the definitions diverge
+A Year 6 class and a [[teacher-education|preservice]] teacher therefore call for different evidence, not the same target at two levels.
 
-Teacher definitions cluster around applying AI to achieve instructional objectives: selecting tools, designing with them, and judging when their use serves pedagogy rather than replacing it. The review notes that this literature is dominated by TPACK extensions, which supply a shared vocabulary but also import TPACK's assumption that the knowledge domains can be separated and recombined.
+## What the psychological layer contains
 
-Student definitions are wider and less settled. Some build on existing curricula, some extend prior frameworks, some apply Bloom's taxonomy or an affect–behavior–cognition model, some ground themselves in constructionism or Piaget. The consequence is that "AI literacy" for a Year 6 class and "AI literacy" for a preservice teacher are not the same target with different difficulty settings.
+The review sorts AI literacy into four interacting constructs — cognition, emotion, psychology and behavior — and treats behavior as emerging from the other three. The psychological dimension splits in two. The cognitive half covers reasoning and cognitive strategies, [[metacognition]], and cognitive readiness, which adds perception, feeling, self-learning and [[self-assessment]] to knowledge preparedness. The non-cognitive half covers [[self-efficacy]], positive attitudes, motivation and volition, and emotional readiness with its regulation and awareness components.
 
-The review's own recommendations cut in a direction worth flagging: it argues that assessing AI literacy as a single dimension would simplify evaluation and improve comparability across countries. That sits awkwardly with its finding that the dimensions differ by audience and develop with age, and a reader should treat the comparability proposal as the authors' policy preference rather than a conclusion the evidence forces.
+The counts are uneven: reasoning appears in twenty articles, attitudes in sixteen, self-efficacy and motivation in nine each, metacognition in eight, cognitive readiness in seven, emotional readiness in six. Elements a questionnaire can ask about directly get measured; regulating one's response to a confident wrong answer is the least studied.
+
+The authors read this as support for importing [[self-determination-theory|self-determination theory]], the theory of planned behavior and UTAUT, and recommend structured [[reflection|reflection]], open discussion of uncertainty and ethical disagreement, and tasks that build [[motivation|intrinsic motivation]]. That is a [[curriculum-design|curriculum]] claim, not a measurement claim: nothing shows that raising emotional readiness improves AI use, only that the field placed it in the construct.
+
+## What the dimensions ask a school to change
+
+The teacher set adds institutional demands. Alongside AI knowledge and skills in pedagogical contexts, [[ethics|AI ethics]] and a [[generative-ai|generative-AI]]-specific dimension, it includes contextual knowledge and continuous professional growth — one a property of the school (devices, policy, timetabling), the other a trajectory. Together they make [[educational-development|professional development]] a continuing condition of literacy rather than a certificate.
+
+The [[administrator]] dimensions are narrower: generic knowledge plus context-specific application, oriented to decisions rather than instruction. That is a different training target, and the evidence is thin.
+
+The authors also suggest that assessing AI literacy as a single dimension would simplify evaluation and improve cross-country comparability, which sits awkwardly beside their finding that the construct differs by role and develops with age. A composite score can compare systems; it cannot tell a school whether its teachers can place a tool in a lesson.
 
 ## What this means for practice
 
-- **Curriculum designers.** Write the outcome statements per audience. A teacher-facing AI literacy curriculum is about pedagogical integration and classroom constraint; a student-facing one is about conceptual breadth, reasoning and preparation for AI-mediated work, staged by age.
-- **Instructors.** Treat the psychological elements as teachable content rather than prerequisites: build structured reflection on emotional responses to AI, and make room for uncertainty and ethical disagreement to be discussed rather than resolved by the tool.
-- **Assessment designers.** Do not score one composite number and call it AI literacy when the construct differs by role. Measure the shared core across audiences if comparability is needed, and measure the audience-specific dimensions separately — with [[self-report-measures|self-report]] treated as a partial signal, since most of the reviewed instruments rest on it.
-- **Administrators.** Fund professional development as a continuing dimension rather than a one-off training event, and treat school context — devices, policy, timetabling — as part of what teacher AI literacy has to fit, not as an obstacle to it.
-- **Researchers.** The review's own gap list is the agenda: empirical and longitudinal work, performance-based measures, and studies of administrators and school staff, who currently rest on five articles.
+- **Instructors:** Put reflection and error analysis into AI tasks — a short note on how the output felt and where it was wrong — rather than waiting for students to arrive confident.
+- **Program designers:** Write separate outcome statements for teacher, student and administrator courses; a shared list fits none.
+- **Assessment designers:** Measure the shared core across audiences, but score role-specific dimensions separately and treat [[self-report-measures|self-report]] as partial evidence.
+- **Administrators:** Fund professional development as a continuing dimension, and treat devices, policy and timetabling as parts of what teacher AI literacy has to fit.
+- **Researchers:** Take the gap list as the agenda: empirical and [[longitudinal-research|longitudinal]] work, performance-based measures, and studies of administrators and support staff.
 
 ## Limitations
 
-- The review is a synthesis of conceptual work: most included articles are theoretical conceptualizations, and the authors report a lack of empirical studies testing whether the dimensions matter for learning.
-- The evidence is geographically concentrated — 42 of 58 articles from Hong Kong and China — so the dimension sets describe a research literature more than a global practice.
-- The findings on administrators, school staff and policymakers rest on five articles and are explicitly preliminary.
-- Disciplinary coverage is narrow: most articles come from educational technology, computer science or informatics, with psychology and pedagogy under-represented.
-- The psychological dimensions are counted by how often they appear in frameworks, not by how strongly they predict outcomes, so the frequency table measures attention rather than effect.
+- The evidence is largely conceptual, and the authors report few empirical tests of whether the dimensions matter.
+- The evidence is geographically concentrated: forty-two of the fifty-eight articles came from Hong Kong and China, so the sets describe a literature more than a global practice.
+- The findings on administrators, support staff and policymakers rest on five articles and are preliminary.
+- The frequency counts measure how often an element appears in a framework, not how strongly it predicts anything; most reviewed instruments are self-reported.
 
 ## Citation
 

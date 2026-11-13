@@ -1,7 +1,7 @@
 ---
 title: "A qualitative study of physical education teachers' perceptions of artificial intelligence and influencing factors based on social cognitive theory"
 created: "2026-11-13T07:58:00-05:00"
-updated: "2026-11-13T07:58:00-05:00"
+updated: "2026-11-13T10:45:00-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/yang-pe-teachers-ai-perceptions-2026.md']
@@ -22,46 +22,53 @@ ai_assist:
     role: drafting
     date: "2026-11-13"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-13"
+    agent: hermes-agent
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Yang, Chen and Rao interviewed 16 university physical education teachers and found that their resistance to AI is not a skills gap. It is disciplinary. The teachers argue that physical education rests on bodily perception, real-time correction and tacit knowledge that a system without a body cannot supply, and that the outdoor, non-standardized teaching situation does not match what AI does well. Around that core sit two institutional findings: equipment tends to go to elite teams that produce medals rather than to general classes, and teachers describe a crisis of professional identity as the subject's value is renegotiated. The authors read all of it through social cognitive theory, sorting personal, environmental and behavioral factors.
+> **Synthesis:** Yang, Chen and Rao interviewed [[higher-ed|university]] physical education teachers about how they read AI in their teaching, and the answers divide along a line that is not technical skill. The teachers [[trust|trust]] AI with plans, materials and administrative work, and they doubt it can see a hip rotation, correct a landing or pass on tacit knowledge through demonstration. Because that [[embodied-learning|embodied]] core is what they take physical education to be, resistance sits in the discipline and in resource decisions rather than in a training deficit.
 
 ## Key Findings
 
-1. **The barrier is the discipline's embodiment, not the teachers' competence.** The core theme the authors name is a "repellent effect of embodied disciplinarity": sport is bodily activity, and no device substitutes for physical movement, hands-on correction or tacit knowledge passed through demonstration.
-2. **The teaching situation does not fit the technology.** Physical education happens outdoors, in dynamic and non-standardized scenarios, while the AI the teachers have seen is strongest at standardized text generation. The mismatch, not unfamiliarity, is what they cite.
-3. **Self-efficacy varies by task rather than by teacher.** Confidence was higher for text-based and preparatory work — planning, materials, administration — where AI visibly saved time, and lower for tasks that require reading and correcting a moving body.
-4. **Resources stratify the subject.** AI equipment is prioritized for high-level athletic teams capable of producing results, rather than for inclusive public physical education classes, which the teachers read as a signal about who the technology is for.
-5. **The identity cost is real.** Teachers described a crisis of professional identity and performance as the subject's value is questioned, which sits alongside the practical concerns rather than behind them.
-6. **Environment and behavior interact.** Peer use and school support changed willingness, and willingness changed what teachers tried, which in turn changed their read of the technology — the reciprocal loop the framework predicts.
+1. **Confidence tracks the task, not the [[teacher-role|teacher]].** The same teachers who feel capable with AI on lesson plans become unsure when it is aimed at movement instruction, so adoption is not one general skill.
+2. **The body is the barrier they name.** Physical education rests on bodily perception, on-the-spot correction and demonstration, and teachers treat AI's lack of a body as a difference of kind rather than a stage of maturity.
+3. **The setting does not match the tool.** Classes are outdoors, in motion and unstandardized, while the AI they had met was strongest at standard text that still needed heavy reworking.
+4. **A colleague persuades more than a policy.** Watching someone use video to analyze a student's form changed what teachers would try; school promotion raised awareness without supplying equipment, funding or subject-specific training.
+5. **Equipment follows the medal teams.** Hardware and money attach to squads that win honors, leaving ordinary classes short, and teachers read the allocation as a statement about who the subject serves.
+6. **Use is concentrated and sometimes staged.** AI appears mostly in preparation and rarely in live teaching, and some teachers adopt it for demonstration lessons while routine classes stay traditional.
 
-## Why the body is the argument
+## Why confidence collapses at the gym floor
 
-The teachers' case is specific and worth taking seriously as a design constraint, and it belongs to the [[discipline-specific-aied|discipline-specific]] record of AI adoption. Physical education assesses and corrects in motion: a teacher sees a hip rotation, a landing, a breath, and adjusts in the same second. Wearables and pose-estimation systems can report on some of that, but the teachers describe the feedback loop as interpersonal and embodied, and they treat the gap as categorical rather than as a maturity problem in the technology.
+The interviews involved university physical education teachers recruited purposively, ran about half an hour each, and were coded in NVivo against social cognitive theory's three-part structure before open coding added what it missed. The [[self-efficacy]] that emerged moves with the task. A teacher who has used a [[llm|language model]] to polish a thesis calls himself confident; asked for a term-long plan for his own classes, he describes reworking the output until little remains. The authors call this situated self-efficacy, and it explains why a general readiness survey predicts so little about a gym.
 
-That framing explains the otherwise puzzling pattern in the [[self-efficacy]] data. If resistance were general technophobia, confidence would be uniformly low. Instead it tracks the task: the same teachers who doubt AI can coach a movement trust it to draft a training plan or organize materials. What they are resisting is substitution in the part of the job they regard as constitutive of the subject.
+The theme behind it is what they label the repellent effect of embodied disciplinarity. Sport is physical activity, and a system without a body cannot demonstrate, feel or correct in the same second. The setting compounds this: outdoor classes, variable weather and mixed ability do not resemble the standardized text tasks where the tool performs well. Teachers do not treat that as a gap a better model will close. They treat it as a boundary of the discipline, which places the study in the [[discipline-specific-aied|discipline-specific]] record of adoption.
 
-## Resources, identity and the institution
+## The resource gap teachers read as a verdict
 
-The resource finding is the one with the clearest policy content. Where AI equipment enters a physical education department, it arrives attached to competitive sport — the teams that produce medals and honours — rather than to the general curriculum. Teachers read that allocation as a statement about institutional priorities, and it shapes whether they see AI as support for their teaching or as an administrative project aimed elsewhere.
+School encouragement existed, but teachers described it as generic: lectures in group chats, no systematic training, no equipment in the department and funding that did not reach them. Peer demonstration was concrete by comparison: a colleague analyzing a Tai Chi form on video showed what the technology could do in a real class rather than what it promised.
 
-The identity theme explains why the allocation matters beyond equipment. If the subject's value is already being questioned, a technology that appears to serve only the elite teams reinforces the suspicion that ordinary physical education is the part being replaced. The authors' social cognitive framing puts these together: personal beliefs, environmental support and behavior change in a loop, so a resource decision is also a belief input.
+Resource stratification cut across both. AI equipment and annual funding went to competitive teams whose results bring honor to the institution, while general classes lacked large screens, connectivity and budget. Read through subjective norms, the school's expectation is a soft pressure meeting a hard material limit, and the limit wins. One teacher said general courses should focus on getting students to exercise. That is a judgment about whom the institution expects the technology to serve, not merely a complaint about scarcity.
+
+## Display, de-skilling and the identity stake
+
+The third theme, performative adoption, explains a pattern that would otherwise look inconsistent. In demonstration lessons teachers bring AI forward to project sophistication; in routine teaching they keep it at the desk. The behavior compromises between two expectations held at once: AI saves preparation time and makes teaching look modern, and it raises the fear of becoming an equipment manager who reviews data while someone else teaches. The authors treat that fear as a finding, not as resistance to be corrected.
 
 ## What this means for practice
 
-- **Instructors.** Separate the tasks. Use AI where it demonstrably helps — planning, materials, administrative load — and be explicit that embodied instruction stays with the teacher. Confidence follows the evidence, not the announcement.
-- **Administrators.** Watch how AI equipment is allocated. Buying for the medal-winning team and calling it AI adoption teaches the rest of the department what the institution values.
-- **Faculty developers.** Treat discipline-specific embodiment as the curriculum of professional development rather than an obstacle to it. A PE teacher's question is not "how do I prompt" but "what can this do that my eyes and voice cannot".
-- **Researchers.** The study's own gap list applies: the evidence on AI in physical education comes mostly from higher education, so the school-level picture is still unmeasured.
+- **Instructors:** Map your tasks before adopting anything. Keep AI on planning, materials and administration where it returns time, and tell students plainly that movement diagnosis stays with you; confidence here followed usefulness, not encouragement.
+- **Faculty developers:** Run subject-specific sessions, not generic tool training, and design a first project where teachers see AI work with their own students, such as fitness testing or motion analysis. The useful question is not how to prompt but what this can do that my eyes and voice cannot.
+- **Administrators:** Audit where AI equipment and funding land. If the answer is the competitive squads, extend the allocation or expect the department to read adoption as somebody else's project.
+- **Researchers:** Test the proposed mechanism. The claim that peer demonstration outweighs institutional support needs a design comparing the two.
 
 ## Limitations
 
-- Sixteen interviews with university physical education teachers recruited from one institution's professional network; the themes are rich but not generalizable, and the sample was purposive.
-- The analysis is deductive within social cognitive theory, so the three-factor structure was imposed on the data rather than emerging from it, which may flatten themes that cross the categories.
-- Interviews lasted about 30 minutes and relied on self-report of practice; no classroom or training session was observed.
-- The study recruited teachers with some exposure to digital technology or AI, so teachers who avoid both entirely are absent from the sample.
-- Physical education is a distinctly embodied subject, which makes the findings a boundary case for AI adoption rather than a template for other disciplines.
+- The sample is sixteen university physical education teachers in one region, recruited purposively, so the themes describe that setting, not the subject as a whole.
+- Interviews ran about half an hour and relied on [[self-report-measures|self-report]]; no class was observed, so accounts of practice are unchecked.
+- Deductive coding fixed the categories before coding began, which may have kept apart themes teachers experience together.
+- Recruitment required prior exposure to digital technology, so teachers who avoid it are absent, and the university focus leaves school physical education unmeasured.
 
 ## Citation
 

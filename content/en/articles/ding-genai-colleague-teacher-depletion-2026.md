@@ -1,7 +1,7 @@
 ---
 title: "When Generative Artificial Intelligence Becomes a Colleague: Dual Pathways of Empowerment and Depletion in University Design Teachers' Work Behaviors"
 created: "2026-11-13T07:45:00-05:00"
-updated: "2026-11-13T07:45:00-05:00"
+updated: "2026-11-13T10:45:00-05:00"
 type: article
 published: 2026-02-09
 sources: ['raw/papers/ding-genai-colleague-teacher-depletion-2026.md']
@@ -23,49 +23,54 @@ ai_assist:
     role: drafting
     date: "2026-11-13"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-13"
+    agent: hermes-agent
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Ding, Hu, Kim and Chen surveyed 436 university design teachers in mainland China and found that generative AI use works on their work behavior through two paths at once. One path runs through teaching [[self-efficacy]] and teaching [[well-being]] into more innovative work and less withdrawal; the other runs through [[anxiety-and-stress|AI anxiety]] and teaching job stress into less innovation and more withdrawal. Both paths are statistically significant in a single cross-sectional model, which is the paper's point: the literature's empowering-tool story and the burnout story are not competing accounts of different teachers but two consequences of the same use. What tilts the balance is organizational: perceived organizational support strengthens the enabling path, and psychological contract breach amplifies the depleting one.
+> **Synthesis:** Ding, Hu, Kim and Chen surveyed [[higher-ed|university]] design teachers in mainland China and found that [[generative-ai|generative AI]] acts on their work through two paths at once. Use raises teaching [[self-efficacy]] and [[well-being]], which carry teachers toward experimentation and engagement, and it raises [[anxiety-and-stress|AI anxiety]] and job stress, which carry them toward withdrawal. Which path dominates depends on whether teachers read the institution as backing them or as having broken a promise; that makes support part of the intervention.
 
 ## Key Findings
 
-1. **Both paths are real, and they run in one model.** Generative AI use predicts more teaching self-efficacy and teaching well-being, which in turn predict more innovative work behavior and less withdrawal — and it also predicts more AI anxiety and job stress, which predict the opposite. Treating these as competing accounts of different teachers misses that they are simultaneous consequences of the same use.
-2. **The enabling path is a resource chain.** Efficacy and well-being carry the positive association: teachers who read themselves as more capable and more satisfied with the work are the ones who try new things and stay engaged with the job.
-3. **The depleting path runs through anxiety and stress separately.** AI anxiety is not a symptom of low competence in this model; it rises with use and has its own route to withdrawal, which is why confidence and worry can coexist in the same teacher.
-4. **The indirect effects are small.** Each mediator carries only a fragment of the total association, so the dual-path reading rests on the consistency of the pattern rather than on the size of any one coefficient.
-5. **Organizational support amplifies what use gives back.** Where teachers read the institution as backing them, the use-to-efficacy and use-to-well-being links were stronger, and the positive indirect effects grew with them.
-6. **Psychological contract breach amplifies what use costs.** Where teachers read the institution as having broken an unwritten deal, the use-to-anxiety and use-to-stress links were stronger, and the negative indirect effects became significant where they had not been.
-7. **Demographics did not predict the outcomes.** Gender, age and academic rank were non-significant, which the authors read as evidence that resource states and organizational perception, not surface attributes, decide how GAI lands.
+1. **Both paths run in the same model.** Use predicts more confidence and satisfaction and more anxiety and stress at once, so the empowerment and burnout stories describe one workforce, not two.
+2. **The enabling path runs through capability and satisfaction.** Teachers who feel more capable and more satisfied are the ones who try new things and stay engaged.
+3. **The depleting path has its own tracks.** Anxiety and stress rise with use and lead separately to less innovation and more withdrawal, which is why confidence and worry coexist.
+4. **Support strengthens what use gives back.** Where teachers read the institution as behind them, the links from use to confidence and satisfaction are stronger, and the positive indirect effects become significant.
+5. **A broken promise strengthens what use costs.** Where teachers believe the institution has not kept its side of an unwritten deal, use produces more anxiety and stress, and the negative indirect effects become significant.
 
-## Two paths, one model
+## Two paths through one tool
 
-The framework is conservation of resources theory crossed with social exchange theory. GAI use is treated as a demand that can both replenish resources — competence, a sense of doing the job well — and consume them, through the effort of learning a shifting tool and the identity threat of a colleague that writes. Treating both as mediators of the same predictor is what lets the study report a "double-edged sword" without arguing that one side is the real effect and the other measurement noise.
+The model crosses conservation of resources theory with social exchange theory, treating use as a demand that both replenishes and consumes. On the enabling side, use raised self-efficacy (β = 0.322, p < .001) and well-being (β = 0.300, p < .001); efficacy then predicted innovation at β = 0.157 and withdrawal at β = −0.155, and well-being at β = 0.152 and β = −0.145. On the depleting side, use raised AI anxiety (β = 0.268, p < .001) and job stress (β = 0.262, p < .001), which predicted innovation at β = −0.152 and β = −0.168, and withdrawal at β = 0.264 and β = 0.177.
 
-The coefficients describe two chains. On the enabling side, use raised teaching self-efficacy (β = 0.322, p < .001) and teaching well-being (β = 0.300, p < .001); efficacy then predicted innovative behavior at β = 0.157 and withdrawal at β = −0.155, and well-being at β = 0.152 and β = −0.145. On the depleting side, use raised AI anxiety (β = 0.268, p < .001) and job stress (β = 0.262, p < .001), which predicted innovation at β = −0.152 and β = −0.168 and withdrawal at β = 0.264 and β = 0.177. The indirect effects through each mediator are small — 0.051 on innovation through efficacy, −0.041 through anxiety — so no single path explains the outcome.
+The indirect effects are small: 0.051 on innovation through efficacy, −0.041 through anxiety. No single chain explains the outcome, so the authors argue for two mechanisms rather than one strong effect. A department measuring only satisfaction will see the gain and miss the cost.
 
-The design cannot separate the directions, and the authors say so. A cross-sectional survey of teachers who already use GAI establishes association, not the sequence of use, anxiety and withdrawal. The fit statistics also sit below conventional thresholds (CFI = 0.808, TLI = 0.802, RMSEA = 0.062, SRMR = 0.058, χ²/df = 2.658), which the authors defend as acceptable for applied research rather than explaining.
+## The support signal decides which path dominates
 
-## What tilts the balance
+Perceived organizational support is the [[teacher-role|teacher]]'s read of whether the institution backs them: training, time, recognition, a policy that holds for the semester. Where that read is high, the same use produces more efficacy (b = 0.153) and well-being (b = 0.176). Where it is low, the indirect effect of use on innovation through efficacy was 0.028 and not significant, against 0.071 where support was high.
 
-The moderation results are the part a faculty developer or department head can act on. Perceived organizational support is not a personality trait of the institution; it is the teacher's read of whether the institution backs them — training, time, recognition, a policy that does not change mid-semester. Where that read is high, the same tool use produces more efficacy and more well-being. Psychological contract breach is the mirror: the belief that the institution has not kept its side of an unwritten deal. Where breach is high, the same tool use produces more anxiety and more job stress.
+Psychological contract breach is the mirror. Where breach is high, use produced more anxiety (b = 0.171) and more stress (b = 0.194), and the negative indirect effect on innovation through anxiety became significant. The authors call this a [[governance|governance]] finding in psychological clothing: identical access and training can land two faculties on opposite paths depending on what teachers believe about the institution's word. They did not separate mandated from voluntary use, the variable that would test it.
 
-That is a [[change-management|governance]] finding dressed as a psychology finding. Two faculties with identical tool access and identical training can end up on opposite paths depending on whether teachers read the institution as supportive or as breaking its promises. The paper's own limitation list acknowledges it did not separate institution-mandated from voluntary use, which is precisely the variable that would make this reading testable.
+## What the design studio adds, and what the model cannot show
+
+The sample is design faculty, and that matters: studio teaching rests on visual production and critique, so image-generating tools touch professional identity more directly than in a lecture course. Four hundred and thirty-six valid responses came from a survey recruited on Xiaohongshu and run between June and July 2025, with screening questions and a gesture photograph used to confirm that respondents taught design and subscribed to a generative tool. All were already users, which fits the argument but is also a selection effect.
+
+The design is cross-sectional, so the sequence from use to anxiety to withdrawal is assumed rather than observed. The CFI and TLI fall below the usual threshold (0.808 and 0.802), while RMSEA (0.062) and SRMR (0.058) are acceptable; the authors call the overall fit adequate for applied work. Gender, age and rank did not predict the outcomes, supporting their claim that resource states and organizational perception matter more than surface attributes.
 
 ## What this means for practice
 
-- **Administrators.** Treat the support signal as part of the intervention. Training hours and licenses are inputs; whether teachers believe the institution will back them when a task goes wrong is the moderator that decides whether those inputs produce innovation or withdrawal.
-- **Faculty developers.** Build the enabling path deliberately — recognition, protected time, and visible wins — and do not assume that raising self-efficacy is enough. AI anxiety and job stress run on their own tracks and need their own answers.
-- **Instructors.** The withdrawal path is a real risk and not a personal failing: an anxious teacher first stops innovating and then stops showing up to the work. Naming the anxiety as a resource problem, rather than a competence deficit, is the condition for addressing it.
-- **Department heads.** Watch what you promise. A breach perceived by teachers does not merely fail to help; it converts the same AI use into more anxiety and more stress, which is a worse position than before deployment.
+- **Instructors:** Keep a two-column log for a month: tasks where generative AI returned time and tasks where it created rework. Bring the second column to whoever supports teaching technology rather than absorbing it.
+- **Faculty developers:** Move training from tool operation to instructional integration, using studio cases where the tool fails, and write generative AI into briefs where it has a defined job, keeping critique and selection with students. Pair every demonstration with a segment on what it cannot judge.
+- **Administrators:** Make support perceptible: a named support person, protected time, and a commitment that survives the semester. Announcing a pilot and then retrenching is the breach condition the model identifies.
+- **Researchers:** Separate mandated from voluntary use and test group differences. Both are the institutional variables the moderation argument depends on, and neither was measured.
 
 ## Limitations
 
-- Cross-sectional survey of 436 design teachers in mainland China, recruited largely through a social-media platform, so the causal order is assumed rather than observed and generalization beyond that setting is untested.
-- Model fit sits below conventional thresholds (CFI = 0.808, TLI = 0.802), which the authors treat as acceptable rather than explaining.
-- All constructs are self-reported in one instrument, so common-method variance is a live alternative explanation despite the reported test.
-- The study does not distinguish mandated from voluntary GAI use, nor did it test group differences, which are exactly the institutional variables its moderation argument depends on.
-- Design teachers are a specific professional group: their work is visual and studio-based, and the transfer to lecture-based or assessment-heavy disciplines is unmeasured.
+- Cross-sectional and single-country: 436 design teachers in mainland China, recruited through one social-media platform whose users skew young, urban and female.
+- All constructs are [[self-report-measures|self-reported]] in one instrument; the common-method test cannot rule out one mood inflating both anxiety and withdrawal.
+- CFI and TLI fall below conventional thresholds, which the authors treat as acceptable rather than explaining.
+- The study does not distinguish institution-mandated from voluntary use, so reading support and breach as causes remains untested.
 
 ## Citation
 

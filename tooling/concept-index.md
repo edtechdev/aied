@@ -157,7 +157,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`personalized-learning`** — Personalized Learning — phrases: adaptive learning path; individualized learning; personalisation; personalised learning; personalization; personalized learning
 - **`recommender-systems-and-learning-paths`** — Recommender Systems and Learning Paths — phrases: course sequencing; curriculum sequencing; learning path; learning paths; learning pathways; prerequisite relations; recommendation engine; recommender system; recommender systems
 - **`sensor-and-gaze-analytics`** — Sensor and Gaze Analytics — phrases: biometric sensing; eye tracking; eye-tracking; gaze analytics; physiological signals; sensor-based learning analytics; wearable sensors
-- **`simulating-students`** — Simulating Students — phrases: AI students; simulate learners; simulated learners; simulated students; simulating students; student simulation; synthetic students
+- **`simulating-students`** — Simulating Students — phrases: AI students; simulate learners; simulated learner; simulated learners; simulated student; simulated students; simulating students; student simulation; synthetic students
 - **`student-modeling`** — Learner Modeling and Adaptive Instruction — phrases: learner model; learner modeling; learner modelling; learner modeling and adaptive instruction; learner modelling and adaptive instruction; student model; student modeling; student modelling
 
 ### Platforms, openness and adoption

@@ -1,7 +1,7 @@
 ---
 title: "Who (or what) are they prompting? How CS students conceptualize and use LLMs"
 created: "2026-11-13T09:11:00-05:00"
-updated: "2026-11-13T09:11:00-05:00"
+updated: "2026-11-13T10:45:00-05:00"
 type: article
 page_kind: [evaluation]
 research_method: [survey, thematic analysis]
@@ -19,45 +19,62 @@ ai_assist:
     role: drafting
     date: "2026-11-13"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-13"
+    agent: hermes-agent
 verified: [citation, numbers, links]
 foundations: [ai-literacy, critical-thinking, misconceptions]
 pedagogy: [student-ai-interaction, prior-knowledge]
 technology: [llm, generative-ai, conversational-ai]
 ---
 
-> **Synthesis:** Donekal Chandrashekar, Ellis, Basir Nizamani and Ramakrishnan (2026) asked what 283 students in a post-CS1 problem-solving course actually think an [[llm|LLM]] is, and whether that picture tracks how they prompt. Two thirds of students described the model in human terms — a "smart friend", a "tutor" — while a third described a machine, "a tool" or "instant Google". Most sat in the middle of a four-level [[ai-literacy|knowledge scale]], able to describe pattern prediction but not the architecture underneath it. Context-rich [[prompt-engineering|prompting]] was the most-used style and role-based prompting the least, and the associations the authors tested were weak: framing the model as a machine went with slightly higher knowledge scores, human framing with more role-based prompting and more prompts, and knowledge with a small rise in context-rich prompting. None of those associations survived correction for multiple comparisons, so the paper's contribution is a description of a student population rather than a causal claim about teaching.
+> **Synthesis:** Donekal Chandrashekar, Ellis, Basir Nizamani and Ramakrishnan (2026) asked students finishing a post-CS1 [[problem-solving]] course what they think an [[llm|LLM]] is, and whether that picture tracks how they prompt. Most described a helpful person and could explain prediction but not the machinery, while context-rich prompting was the most common style. The teaching signal is modest: knowledge rose with context-rich prompting, but the associations are weak enough to describe a population, not prove causation.
 
 ## Key Findings
 
-1. **Students personify the model.** 192 of 283 respondents (68%) used a human persona such as "smart friend" or "tutor"; 91 (32%) used a machine persona such as "a tool" or "instant Google".
-2. **The most common relational role was assistant.** 152 students cast the LLM as a helper or unpaid intern, against 63 expert, 56 peer and only 12 imperfect expert.
-3. **Knowledge clustered in the middle.** 143 students explained LLMs at a pattern/predictive level, 76 at architecture/structural, 60 at superficial, and only four reached the critical level.
-4. **Context-rich prompting dominated.** On a 0-4 use scale it scored 2.49 against 2.36 for example-based, 2.18 iterative, 1.69 minimal and 1.24 role-based, and the ordering held when each student's top-rated style was counted.
-5. **Prompt volume was modest.** 82% of students reported between 1 and 50 prompts over the course, with a median band of 16-50.
-6. **Machine framing went with slightly better knowledge.** Those students averaged 2.22 on the knowledge scale against 2.02 for human framing, a small association that did not survive correction for multiple comparisons.
-7. **Knowledge tracked only context-rich prompting, weakly.** Context-rich use rose from a mean of 2.25 at the superficial level to 2.72 at architecture/structural, but the association explained only about 2% of the variance.
+1. **Students described a person, not a predictor.** Most cast it as a smart friend or tutor rather than a tool, and that [[metaphors-and-analogies|metaphor]] shapes how they address it.
+2. **The assigned relationship was usually assistant.** Students framed it as a helper or unpaid intern far more often than as a peer or an expert, so delegation is the default.
+3. **Mechanism knowledge clustered in the middle.** Most could say the model predicts likely next words; fewer could name transformers or training, and almost none treated [[hallucination-risk|hallucination]] as a limit.
+4. **Context-rich prompting was the dominant style.** Prompts carrying background and constraints rated highest and role-play prompts lowest, the habit instruction can build on.
+5. **A machine framing went with slightly better knowledge.** Students who called the model a tool scored a little higher, while human framing went with more role-play prompts and more prompts overall.
+6. **One association was retained, and it was weak.** Knowledge rose slightly with context-rich prompting, which explains only a small share of the variation.
 
-## What the course taught, and what students took from it
+## A required course that taught the mechanism and then used it
 
-The setting is a required post-CS1 course at a large public university in the southeastern United States, taught in Fall 2025 across five sections to 360 students. The redesign folded current practice into the syllabus — version control, the command line, and an LLM unit that introduced transformers, system prompts and the limits of model output, alongside verification, privacy and fairness. LLM use was then allowed through units on algorithms, software engineering, web development, HCI, networking and data science. The survey instrument paired open-ended items asking students to describe an LLM and explain how it works with closed-response items on prompting style and prompt count, and the open answers were coded on a SOLO-derived four-level scale plus two conceptual dimensions: whether the metaphor was human or machine, and which relational role it assigned. Coding both dimensions produced the paper's more useful observation, that the two are entangled: 53 of the 56 peer-framed students also used human metaphors, so the low knowledge score attached to peer framing cannot be separated from human framing.
+The setting is a required post-CS1 problem-solving course at a large public [[higher-ed|university]] in the southeastern United States: five sections, 360 students, Fall 2025. The redesign added version control, the command line, and an [[ai-literacy|AI literacy]] unit on transformers, system prompts and model limits, then allowed LLM use through algorithms, software engineering, web development, HCI, networking and data science.
 
-## Why the associations are weaker than they look
+The survey paired two open items — a metaphor completion and an explanation of how LLMs work — with closed items on prompt count and style. Of 360 enrolled students, 288 consented and 283 gave a codable explanation. The open answers were coded on a four-level scale derived from the SOLO taxonomy; each metaphor was coded for persona, human or machine, and relational role.
 
-The paper is careful about its own correlations, and worth reading for that. Persona type and knowledge were associated at p = .036 with r = .14, a small effect that fell to an adjusted p = .065 once multiple comparisons were corrected. Persona type and prompting produced two nominally significant results — human-framed students used more role-based prompting (1.34 versus 1.04) and reported more prompts — and neither survived correction (adjusted p = .23). The role effect on knowledge was not significant overall (ε² = .015, p = .065). The one association the authors keep is knowledge with context-rich prompting, ρ = .15, and they describe it as accounting for about 2% of the variance. Their reading is the modest, plausible one: understanding how output depends on the context and constraints supplied in a prompt may shape how a student writes prompts, and anthropomorphic framing may encourage conversational, role-oriented use without reflecting deeper understanding. A course-level survey cannot separate that from prior familiarity or from the course's own emphasis.
+## What students said the model was
+
+Of the 283 codable responses, 192 (68 percent) chose a human persona such as "smart friend" or "tutor", against 91 (32 percent) who used a machine persona such as "a tool" or "instant Google". By role, 152 cast the model as an assistant, 63 as an expert, 56 as a peer and 12 as an imperfect expert.
+
+Knowledge clustered in the middle: 143 students explained pattern and prediction, 76 named architecture or structure, 60 stayed superficial, and four reached the critical level, where hallucination or alignment is treated as a system property.
+
+Prompting was modest in volume: 82 percent reported between 1 and 50 prompts a week, with a median band of sixteen to fifty. On the zero-to-four scale, context-rich led at 2.49, ahead of example-based at 2.36, iterative at 2.18 and minimal at 1.69, with role-based last at 1.24. The dominant-style count is more telling: 118 students named context-rich as their top style, but 99 named minimal, so the average hides a large group whose default is a bare question.
+
+## The associations are small and mostly do not survive correction
+
+Machine-persona students averaged 2.22 on the knowledge scale against 2.02 for the human group, an association at p = .036 with r = .14 that became an adjusted p = .065. Relational role was not significant overall (ε² = .015, p = .065), though a post-hoc comparison put assistants above peers at 2.16 against 1.86.
+
+Persona produced the only two prompting results that reached nominal significance: human-framed students used role-based prompting more (1.34 against 1.04) and reported more prompts (median band sixteen to fifty against one to fifteen), both reduced to an adjusted p = .23. The association the authors retain is knowledge with context-rich prompting, ρ = .15 (confidence interval .03 to .26), about two percent of the variance, with reported use rising from 2.25 at the superficial level to 2.48 at pattern and 2.72 at architecture.
+
+One confound caps the reading: 53 of the 56 peer-framed students also used a human metaphor, so peer and human framing cannot be separated. The authors' reading is plausible, not demonstrated: understanding that output depends on prompt context may give a student a reason to supply it.
 
 ## What this means for practice
 
-- **Instructors.** Teach the mechanism, not only the etiquette: students who could describe prediction and context scored higher on knowledge and leaned toward context-rich prompts, and the anthropomorphic framing most students used is not what predicts it.
-- **Curriculum designers.** Put the LLM unit where it can be applied — in this course it ran alongside algorithms, software engineering and HCI units rather than as a standalone module, which is the condition the authors suspect produced the higher-than-CS1 prompting quality.
-- **Researchers.** Treat metaphor and mechanism knowledge as related but not interchangeable constructs, and code both, because role framing and persona type co-occur often enough to confound each other.
+- **Instructors:** Teach the mechanism before the [[prompt-engineering|prompting]] etiquette. Have students predict how the same question changes when they add a role, a constraint or an example, run both, and grade the prediction; that shows whether they understand why context matters.
+- **Curriculum designers:** Place the LLM unit before the units that require AI use, and require one documented prompt revision per project so students see the effect.
+- **Faculty developers:** Use "An LLM is like ____" as a five-minute diagnostic and sort responses with the paper's four-level scale, so staff can see who needs the prediction explanation.
+- **Researchers:** Code persona and role separately and report reliability, since the two co-occur often enough to confound each other.
 
 ## Limitations
 
-- All measures are self-reported on one end-of-course survey; students may misreport their own prompting style or prompt volume.
-- The sample is one required course at one institution (283 codable responses from 360 enrolled), so the distributions describe this population rather than computing students generally.
-- Only four students reached the critical knowledge level, so that category supports no independent inference.
-- Qualitative coding of metaphors and explanations carries interpretive bias, and the authors report no inter-rater reliability figure in the results.
-- The course taught LLM use throughout, so students' prompting reports may reflect the course's instruction rather than their prior habits, with no comparison group to separate the two.
+- All measures come from one end-of-course [[self-report-measures|self-report]], so prompting style and volume are what students believe, not what they did.
+- The sample is 283 codable responses from one required course at one institution, describing this population, not computing students generally.
+- Only four students reached the critical knowledge level, so that category supports no inference.
+- Codes were refined during analysis without a reliability statistic, and the course had no comparison group, so prompting quality cannot be attributed to instruction.
 
 ## Citation
 

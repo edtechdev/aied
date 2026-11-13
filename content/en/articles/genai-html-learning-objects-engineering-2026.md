@@ -1,7 +1,7 @@
 ---
 title: "Integrating Slides, Mathematics, and Simulation in One Page: GenAI-Assisted HTML Learning Objects for Engineering Courses"
 created: "2026-11-13T09:12:00-05:00"
-updated: "2026-11-13T09:12:00-05:00"
+updated: "2026-11-13T10:45:00-05:00"
 type: article
 page_kind: [evaluation]
 research_method: [system development, survey]
@@ -19,6 +19,10 @@ ai_assist:
     role: drafting
     date: "2026-11-13"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-13"
+    agent: hermes-agent
 verified: [citation, numbers, links]
 foundations: [learning-design, cognitive-offloading]
 pedagogy: [scaffolding, cognitive-psychology]
@@ -26,45 +30,53 @@ technology: [generative-ai, multimodal, visualization, simulation]
 assessment: [formative-assessment]
 ---
 
-> **Synthesis:** Dao, Le, Phan and Nguyen (2026) describe an instructor-in-the-loop workflow in which [[generative-ai|generative AI]] turns the three artifacts an [[engineering-education|engineering course]] already has — slides, LaTeX notes and MATLAB models — into a single-file HTML page that carries the narrative, the typeset mathematics, an interactive [[visualization|visualization]], a browser [[simulation|simulation]] and an assessment item. Six open demonstrators cover 18 tasks from six courses. The part worth reading is the release gate: a page ships only after its simulation reproduces the reference solution numerically, and the authors cross-checked with an independent Python recomputation and a value-blinded MATLAB recomputation. All eight tasks with quantitative checks passed at 1% tolerance, and the stress test produced failures only where a run was under-resolved. Students in a screened sample of 19 reported that equations sat beside the simulation they governed and 74% preferred the integrated page, but [[usability-research|usability]] was marginal (System Usability Scale 56.8) and the study measured no learning.
+> **Synthesis:** Dao, Le, Phan and Nguyen (2026) describe an instructor-in-the-loop workflow in which [[generative-ai|generative AI]] turns a course's slides, LaTeX notes and MATLAB models into one single-file HTML page carrying narrative, typeset mathematics, an interactive [[visualization|visualization]], a browser [[simulation|simulation]] and an assessment item. The part worth borrowing is the release gate: a page ships only after its simulation reproduces a reference solution within tolerance. Students in a small screened sample saw the link between equation and simulation but rated [[usability-research|usability]] marginal; no learning was measured.
 
 ## Key Findings
 
-1. **GenAI works as an integration layer, not a replacement.** Slides supply narrative and diagrams, LaTeX the mathematics, MATLAB the computational model; generative AI converts each into HTML components that sit on one page in a fixed order.
-2. **The workflow has five named stages.** Content transformation, mathematical conversion to MathJax, visualization coding, simulation translation into JavaScript, and assessment authoring — with a failed verification returning the page to the relevant stage.
-3. **Verified simulations were numerically exact at the stated tolerance.** All eight cross-checked tasks passed at 1% (2% for the FDTD case), and 31 quantities in the blind MATLAB comparison agreed, with a largest relative difference of 0.22%.
-4. **The checks distinguish wrong code from coarse settings.** The stress test produced no runtime errors and flagged only under-resolved runs, such as a step of 0.6 s producing 1.12% error.
-5. **Students saw the link between equation and simulation.** 89% agreed they could see how the equations related to the simulation, and 74% preferred the page to separate files.
-6. **Usability did not match the enthusiasm.** The System Usability Scale mean was 56.8, with 13 of 19 scores in the marginal band and internal consistency of 0.57 on that instrument.
-7. **Lecturers found it useful but were reluctant to adopt.** Twelve lecturers rated usefulness 4.44 and intention to use 3.67 on a 5-point scale, and their rubric ratings agreed only moderately with the first author's (weighted κ = 0.60).
+1. **GenAI served as an integration layer, not a replacement.** Slides supplied narrative, LaTeX the mathematics and MATLAB the model; the page carried all three.
+2. **The conversion follows a fixed sequence of stages.** A failed check returns the page to the stage that produced it.
+3. **Every cross-checked simulation met its stated tolerance.** The in-page JavaScript agreed with analytical references and an independent recomputation, so the displayed values can be trusted at those settings.
+4. **The stress test separated wrong code from coarse settings.** Pushing parameters past their limits produced visible failures rather than crashes.
+5. **Students saw the link, but the page was hard to use.** Most preferred the integrated page to separate files, yet usability was marginal and lecturers were more convinced of usefulness than of adoption.
 
-## Why one page, and what it takes to ship it
+## Three existing assets become one ordered page
 
-The problem is a coordination cost that students pay silently. A concept arrives on a slide, its derivation in a PDF, its behavior in a MATLAB script, and nothing in the material maps one to the other. Assembling the page is therefore not a presentation exercise but an ordering discipline: objectives, theory, mathematics, visualization, simulation, application, assessment, with every equation placed beside the visualization it governs and every read-out computed from a displayed equation. GenAI does the transcription work across those stages — the ODE integrators, FFTs and finite-difference time-domain updates are translated from MATLAB into JavaScript — and the instructor retains the judgment about what the page should assert. The authors are explicit that browser simulation does not replace MATLAB or Python for heavy computation: the page is where a student builds intuition, not where a large run happens. This is a [[learning-design|learning design]] argument as much as a tooling one, and it depends on the instructor already having well-separated, well-specified assets to convert.
+The problem is a coordination cost students pay silently: a concept arrives on a slide, its derivation in a PDF, its behavior in a MATLAB script, and nothing maps them. Each asset keeps its role: PPTX for narrative and diagrams, LaTeX for mathematics, MATLAB for the model and reference results, HTML as the delivery layer across six [[engineering-education|engineering courses]] and 18 tasks.
 
-## Verification is the contribution
+Generative AI handles the transcription: slides into structured sections, LaTeX into MathJax, visualization code, MATLAB models into JavaScript solvers, and assessment items. Every page follows one order — objectives, theory, mathematics, visualization, simulation, application, assessment — with each equation beside the visualization it governs.
 
-Most generative-AI courseware papers report perceptions. This one reports a release condition, which is why its technical claims are the strongest part. For each cross-checked task, the in-page JavaScript was compared against an analytical or reference solution, then against a separate Python recomputation and a MATLAB recomputation performed by a colleague from a value-blinded package. In the resonance case, halving the integration step divided the RK4 error by 16.3 and then 16.2 against a theoretical order of four — evidence that the translated solver behaves like the solver it replaced, not merely that it produces plausible numbers. The stress test matters as much: by pushing parameters past resolution limits and getting failures rather than crashes, the protocol shows students where a model stops being trustworthy. That is [[scaffolding|scaffolding]] for numerical judgment, and it is the part of the workflow most likely to transfer to other courses.
+The authors call this a [[learning-design|learning design]] argument, not a claim that HTML teaches better: browser simulation does not replace MATLAB for heavy computation, and the approach assumes well-separated, well-specified assets.
 
-## What the surveys say, and what they cannot say
+## The release gate is the transferable part
 
-Student perception was measured on 19 responses that survived post-hoc screening from 28, and every construct mean landed between 3.95 and 4.04 with 72-77% agreement. The weakest item was orientation — only 47% agreed they rarely lost track of where they were in a topic — which is worth noting for anyone assuming a single page is automatically easier to navigate. Lecturers were more reserved on adoption than on usefulness: ease of adoption 3.73, maintainability 3.25, intention to use 3.67, with four of six lecturer scales below the 0.70 reliability threshold. The authors' own verdict is the right one to carry away: technical feasibility and perception are demonstrated, while improved learning, reduced [[cognitive-offloading|cognitive load]], shorter development time and maintainability are not.
+For each cross-checked task, the in-page JavaScript was compared against an analytical or reference solution, a separate Python recomputation, and a value-blinded MATLAB recomputation by a colleague. Eight of the 18 tasks carry that check; all passed at 1 percent tolerance, 2 percent for the finite-difference case, and all 31 quantities in the MATLAB comparison agreed, to within 0.22 percent.
+
+Two results show the checks test behavior, not plausibility. In the resonance task, halving the step divided the RK4 error by 16.3 and then 16.2, near the theoretical order of four. In the stress test, nothing crashed and failures appeared only where a run was under-resolved: a 0.6 s step produced 1.12 percent error. That is [[scaffolding|scaffolding]] for numerical judgment: students can see where a model stops being trustworthy.
+
+A PASS means the quantity met its criterion at the tested settings, not that the model is physically valid. The authors also corrected an error metric that divided by a reference peak near zero, which produced spurious failures.
+
+## Students saw the link but found the page hard to navigate
+
+Nineteen student responses survived post-hoc screening from 28; every construct mean landed between 3.95 and 4.04. The strongest agreement concerned integration: 89 percent could see how equations related to the simulation, 84 percent said one page saved file-switching, and 74 percent preferred it to separate files.
+
+Usability told a different story. The System Usability Scale mean was 56.8 (confidence interval 52.5 to 61.1), with 13 of 19 scores in the marginal band, well below the usual average near 70. The instrument behaved inconsistently (α = 0.57), so the number is hard to read. The weakest item was orientation: only 47 percent agreed they rarely lost their place, which fits the authors' claim that split attention across files became navigation load inside one page.
+
+Twelve lecturers rated usefulness at 4.44 and intention to use at 3.67 on a five-point scale, with maintainability lowest at 3.25; their rubric ratings agreed moderately with the first author's (weighted κ = 0.60). Half considered the tolerance appropriate, and five of twelve intended to try the approach.
 
 ## What this means for practice
 
-- **Instructors.** Adopt the release gate before the page: pick the quantities a student can check, compute them outside the page, and refuse to publish a simulation that misses its tolerance.
-- **Developers.** Keep the format register open — MathJax for mathematics, plain JavaScript for the solver, SVG or Canvas for the visualization — so a non-specialist colleague can re-verify a page without reading a framework.
-- **Instructional designers.** Budget for the five conversion stages and for maintenance, because the lecturers in this study rated maintainability lowest and the authors agree that pages age with browsers and libraries.
-- **Department leads.** Treat perception gains as a precondition for adoption, not as evidence of learning, and plan an evaluation with a comparison condition before scaling the approach.
+- **Instructors:** Adopt the release gate before the page. Name the quantities a student can check, compute them outside the page, and refuse to publish a simulation that misses its tolerance; a plausible curve is not evidence that the solver is right.
+- **Instructional designers:** Budget for conversion and maintenance, then add navigation the workflow does not produce — a formula index, anchors and a short guided activity per simulation, since orientation was the weakest item.
+- **Developers:** Keep the format register open. MathJax for mathematics, plain JavaScript for the solver and SVG or Canvas for the visualization let a non-specialist colleague re-verify a page without learning a framework.
+- **Department leads:** Treat positive perception as a precondition for adoption, not evidence of learning, and plan a comparison condition before scaling across a program.
 
 ## Limitations
 
-- No controlled experiment and no pre- or post-tests, so [[learning-gains|learning gains]] remain unmeasured across all six courses.
-- Survey samples were 19 students and 12 lecturers at one institution, self-selected, with lecturers drawn from the authors' colleagues and the largest student group taught by the first author.
-- Only eight of the 18 tasks were quantitatively cross-checked, at default settings, and the MATLAB check was run by one colleague on one release.
-- The GenAI model, configuration and session logs were not recorded, so no generation error and its correction can be inspected.
-- The usability instrument behaved inconsistently (α = 0.57) and was administered in translation, which limits how far the 56.8 score can be read.
-- All six courses rest on well-defined analytical models; laboratory-intensive or data-driven courses would need the workflow and its verification adapted and evaluated separately.
+- With no controlled experiment or pre- or post-test, [[learning-gains|learning gains]], reduced cognitive load, development time and maintainability all remain unmeasured.
+- Both samples are small, self-selected and from one institution; the lecturers are colleagues of three authors, and the first author taught the largest group.
+- Only eight of the 18 tasks were cross-checked, at default settings, by one colleague on one release, and the model and logs were not retained.
+- The usability instrument behaved inconsistently and was administered in translation, and all six courses rest on analytical models, so laboratory or data-driven courses need separate evaluation.
 
 ## Citation
 

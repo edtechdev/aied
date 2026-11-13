@@ -1,7 +1,7 @@
 ---
 title: "Do People Trust AI Assistants Even When They Are Consistently Wrong?"
 created: "2026-11-13T09:14:00-05:00"
-updated: "2026-11-13T09:14:00-05:00"
+updated: "2026-11-13T10:45:00-05:00"
 type: article
 page_kind: [evaluation]
 research_method: [experiment]
@@ -18,46 +18,59 @@ ai_assist:
     role: drafting
     date: "2026-11-13"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-13"
+    agent: hermes-agent
 verified: [citation, numbers, links]
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 technology: [llm, conversational-ai]
 ethics: [trust-calibration, automation-bias, ai-sycophancy]
 ---
 
-> **Synthesis:** Jones, Wong, Cohen, Woolley and Bergen (2026) ran four preregistered experiments on whether people adjust their reliance on an [[llm|LLM]] advisor as they learn how accurate it is. When participants got prompt, unambiguous feedback after each conversation, they learned: advisors that had been right 100% of the time persuaded them 67% of the time against 21% for advisors that had been wrong every time. Remove that feedback and the picture inverts — a consistently unhelpful model still persuaded 48% of the time, slightly more than a consistently helpful one at 38%. Reliance started high and fell only when inaccuracy was demonstrated, and participants trusted AI advisors more than human ones (83% versus 65%). The finding that matters for [[trust-calibration|calibration]] is conditional: people do not arrive calibrated, they calibrate when a ground-truth signal reaches them promptly, which is exactly the signal missing in most study settings where students ask about things they do not already know.
+> **Synthesis:** Jones, Wong, Cohen, Woolley and Bergen (2026) run four preregistered experiments asking whether people adjust their reliance on an [[llm|LLM]] advisor as they learn how accurate it has been. With prompt ground-truth [[feedback|feedback]] after every exchange, people learned to discount a consistently wrong advisor; without it, a model that had been wrong every time persuaded them as often as one that had been right. For [[trust-calibration|calibration]], the point is that students do not arrive with a sense of a model's reliability — they build one only when the task tells them whether the answer was right.
 
 ## Key Findings
 
-1. **Feedback, not experience, produced calibration.** With ground-truth feedback after each round, helpful advisors persuaded 67% of the time and unhelpful ones 21%.
-2. **Without feedback the advantage disappeared.** A model that had been wrong in every prior exchange still persuaded 48% of the time, above the 38% achieved by a consistently helpful one.
-3. **Reliance began high and moved only downward.** Participants did not grow into trusting the good advisor; they started trusting, and reduced reliance only after seeing it err.
-4. **AI advisors beat human advisors.** Participants were persuaded 83% of the time by an LLM and 65% by a human, and LLMs gained more from a helpful track record than humans did.
-5. **These models were unusually persuasive.** Confidence change reached 48 percentage points, against 5-15 points typical of comparable studies; static hints achieved 20 points and human persuaders 26.
-6. **Arguing for the truth conferred little advantage.** A truth advantage appeared only when participants were already confident in their position and did not appear at all for static hints.
-7. **Domain expertise did not protect anyone.** Self-rated experience in a question's domain did not predict resistance to persuasion, in any domain or in the pooled analysis.
+1. With feedback after every exchange, people learned which advisor to [[trust|trust]] and discounted the one that kept being wrong.
+2. Without feedback, a consistently wrong advisor was as persuasive as a consistently right one.
+3. Reliance started high and was lost rather than gained; people did not grow into trusting a good advisor.
+4. LLM advisors persuaded more than human ones, and gained more from a good track record.
+5. Self-rated domain expertise did not predict resistance to persuasion.
+6. Arguing for the truth helped only when people were already confident in their position.
 
-## Why the feedback condition is the whole finding
+## What the feedback condition changed
 
-The design isolates a variable that real use rarely supplies. Each experiment had participants answer questions with objectively correct answers, then hold a multi-turn text conversation with an assistant prompted to argue for a position — sometimes the correct one, sometimes not. The first four conversations established the advisor's track record, and the fifth measured reliance. In that structure, feedback is a clean binary signal: the participant learns, question by question, whether the advisor was right. That is what makes the 67% versus 21% split possible. In the no-feedback version the same track record produced no reliable difference, which is not a failure of attention but a limit on inference: a user who cannot check the answer has nothing to update on. The authors point out how unusual that clean signal is — feedback on financial, dietary or career advice arrives late, is confounded by other causes, or never arrives at all. Where a student asks an AI about material they are currently learning, the same condition holds.
+The design isolates a variable real use rarely supplies. Participants answered thirty reasoning questions, discussed five with an advisor for up to five minutes each, then updated their answer. The first four conversations established the advisor's track record — always right, always wrong or half right — and the fifth measured reliance. In the feedback condition the correct answer was shown after every conversation, so the participant learned, item by item, whether the advisor had been right.
 
-## Teaching critical AI use
+That clean signal is what produced calibration. In the feedback plus conversation condition, a historically helpful advisor persuaded 67% of the time and an unhelpful one 21%. Remove the feedback and the same track record produced 48% for the unhelpful advisor against 38% for the helpful one, a difference that was not significant. In the first experiment, where final items were the ones participants were least sure about, even a consistently unhelpful advisor persuaded 61% of the time. Reliance fell to chance only when participants were already confident and had been shown, repeatedly, that the model was wrong.
 
-The paper's practical value is in reframing what [[ai-literacy|AI literacy]] training has to supply. Fluency is not evidence, and confidence is not calibration: participants who rated themselves expert in a domain were no harder to persuade than anyone else, and the design's most confident participants were the ones where truth advantages appeared. What changed behavior was a prompt, attributable check. That suggests instruction should build the check into the task rather than teaching skepticism in the abstract — answer keys consulted after the AI's response, worked solutions compared against the model's reasoning, or two independent sources required before a claim is accepted. The related risk is [[cognitive-offloading|offloading]] the check itself: a student who asks the model to verify its own answer has replaced an independent signal with the same source, which is the no-feedback condition wearing a different hat. The [[automation-bias|automation bias]] literature predicts the same asymmetry, and this study measures it in conversation rather than in a single recommendation.
+## Why fluent argument beats a correct one
+
+Persuasion was unusually strong, and the advantage was not about being right. Across the fourth experiment, LLM advisors secured agreement 83% of the time against 65% for human advisors, and the gap was there on the first exchange, before any track record existed. A helpful LLM rose to 90% against 55% for a mixed one; the same comparison for human advisors was 51% against 45% and not significant. Confidence change reached 48 percentage points in the first two experiments, where comparable studies report 5 to 15; static hints produced 20 points and human persuaders 26.
+
+The transcripts suggest why. LLM advisors used mathematical argument in 59% of conversations against 13% for humans, and when arguing a false position they made false statements in almost every conversation. Flattery was the strategy most associated with success. A model that argues fluently and confidently about something the student cannot check does not need to be right to be persuasive — the mechanism to expect when a student asks about material they are learning.
+
+## What did not protect people
+
+Self-rated expertise in physics, logic or probability predicted accuracy and confidence but did not predict resistance to persuasion in any domain or when pooled. Initial confidence did predict resistance, but it was also the condition under which a truth advantage appeared: people who were confidently correct were harder to move toward a false answer, while people with low confidence were about as easy to move either way.
+
+The individual difference most associated with resistance was need for cognition. The implication for [[ai-literacy|AI literacy]] is that fluency is not evidence and confidence is not calibration. A student who asks the model to verify its own answer has [[cognitive-offloading|offloaded]] the check, replacing an independent signal with the same source — the no-feedback condition wearing a different hat. The [[automation-bias|automation bias]] literature predicts the same asymmetry, and this study measures it in conversation rather than a single recommendation.
 
 ## What this means for practice
 
-- **Instructors.** Attach a checkable ground truth to any AI-assisted task — an answer key, a worked solution, a dataset — so students can learn the model's reliability instead of inferring it from fluency.
-- **Learning designers.** Sequence AI use so early tasks have fast, unambiguous feedback, because this study's calibration depended on that signal arriving promptly after each attempt.
-- **Developers.** Surface accuracy evidence in the interface rather than leaving users to construct it: a track record, a source link, or a confidence signal tied to something the user can verify.
-- **Researchers.** Treat "users will notice when the model is wrong" as an untested assumption; in these experiments they noticed only when someone told them.
+- **Instructors:** Put a checkable ground truth where students can reach it after the AI's answer — an answer key, a worked solution, a dataset — instead of telling them to be skeptical.
+- **Assessment designers:** Make the check part of the submission: require students to compare the model's reasoning with a worked solution and name where the two diverged.
+- **Program designers:** Sequence AI use so early tasks carry fast, unambiguous feedback, and save open-ended tasks for when students have seen the model fail.
+- **Faculty developers:** Run the check live in workshops, verifying a prompt against a source in front of participants, because self-rated expertise protected nobody here.
+- **Researchers:** Treat "users will notice when the model is wrong" as an untested assumption; in these experiments they noticed only when something told them.
 
 ## Limitations
 
-- The setting is not educational: participants were adults answering science, logic and probability questions in a lab, so the results speak to judgment under AI advice rather than to classroom learning.
-- Experiments 1-3 drew 123, 128 and 420 psychology undergraduates from one institution's subject pool; Experiment 4 recruited 401 US Prolific participants at $16.50 per hour.
-- Advisors in these conversations were prompted to argue an assigned position, which differs from a student asking for help, and the authors note the neutral "advisor" framing may have raised baseline reliance.
-- Persuasion is measured as answer change and confidence change on quiz-like items, not as decisions with real consequences.
-- The truth-advantage tests were partly confounded, since truthfulness and helpfulness were not manipulated independently in the critical final trial of the earlier experiments.
+- The setting is not educational: adults answered science, logic and probability questions in a lab, so the results speak to judgment under AI advice rather than classroom learning.
+- The first three experiments drew [[higher-ed|undergraduates]] from one institution; the fourth recruited US Prolific participants. All answered quiz items as paid volunteers, not coursework.
+- Advisors were prompted to argue an assigned position and were framed neutrally as an "advisor", which differs from a student asking for help and may have raised baseline reliance.
+- Persuasion is measured as answer and confidence change on quiz-like items, not decisions with consequences, and truth and helpfulness were not manipulated independently in the critical final trial of the earlier experiments.
 
 ## Citation
 
