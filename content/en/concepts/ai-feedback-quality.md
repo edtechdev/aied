@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T09:46:01-05:00"
+updated: "2026-11-13T16:20:00-05:00"
 connected_resources: [my-essay-feedback]
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
@@ -26,6 +26,8 @@ reviewed_by: [editor]
 ## Introduction
 
 AI feedback quality is not simply about correctness. Effective feedback must be timely, specific, actionable, and calibrated to the learner's current understanding. Three questions organize most of that research: accuracy (is the feedback correct?), usefulness (does it help the student improve?), and pedagogical alignment (does it promote learning rather than just task completion?).
+
+[[corbin-recognition-feedback-2026|Corbin, Tai and Flenady (2026)]] add a condition the three do not capture: recognition, the mutual standing of provider and learner, decides whether accurate, useful feedback can move anyone, so measured quality is necessary but not sufficient.
 
 ## How AI feedback quality appears in the research
 

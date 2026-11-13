@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T16:20:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -65,6 +65,8 @@ The model's output rises to the status of collective knowledge without the commu
 Other work extends existing theory into the AI context rather than founding new paradigms: [[critical-thinking-paradox-genai-learning-2026|critical-thinking-paradox]] work integrates [[cognitive-offloading|cognitive-load theory]] with load-reduction instruction into a three-level framework; [[dollinger-equitable-assessment-ai-2026|equitable assessment]] re-theorizes [[assessment]] under GenAI disruption. [[reconceptualizing-community-inquiry-generative-ai|Ba, Gašević, Lim & Anderson (2026)]] reconceptualize the [[community-of-inquiry|Community of Inquiry]] framework itself: rather than framing GenAI as a tool, dialogic partner, or a speculative "fourth presence," they reposition it as an *epistemic condition* that reconfigures how cognitive, social, and [[teacher-role|teaching]] presence are enacted, evidenced, and governed — recasting CoI presences as sociotechnical accomplishments of human–GenAI assemblages and proposing a configuration-based heuristic in which GenAI involvement and inquiry quality are conditionally related through human accountability. Much of this is conceptual-framework work ([[drummond-genai-business-schools-framework-2026|business-school frameworks]], [[valid-student-simulation-llm-2026|valid simulation]]) that operationalizes theory for practice.
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin and Chang (2026)]] extend [[self-regulated-learning]] and human–AI regulation by naming what the learner governs — standards, [[evaluative-judgment|evaluative judgments]], and control authorization — rather than only what the AI does.
+
+[[corbin-recognition-feedback-2026|Corbin, Tai and Flenady (2026)]] import Honneth's and Brandom's recognition into feedback theory, arguing that mutual attribution of standing, not information quality, is what makes a comment a reason to act.
 
 The friction paradox offers another extension of established theory: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] applies Bjork and Bjork's [[desirable-difficulties|desirable difficulties]] and Kapur's [[productive-failure|productive failure]] to relational encounters in education abroad, arguing that what matters is how much interpretive agency a student [[transfer-of-learning|transfer]]s to a generative assistant rather than how often it is used. The framework is conceptual and states five propositions as competing hypotheses.
 

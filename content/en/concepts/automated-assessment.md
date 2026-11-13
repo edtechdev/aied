@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T16:20:00-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -19,6 +19,8 @@ ai_assist:
 ---
 
 > **Automated assessment** — the use of AI to evaluate student work, from [[formative-assessment|formative quizzes]] to high-stakes exams. Automated assessment spans multiple modalities — multiple-choice, short answer, essay, code, and performance-based evaluation — and ranges from direct automated grading to confidence-aware systems that report calibrated uncertainty alongside their scores.
+
+Automation routinizes grading and frames it as administrative burden rather than pedagogical judgment; greater consistency is a better measurement of the same construct, not a challenge to it ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 ## Questions to Consider
 

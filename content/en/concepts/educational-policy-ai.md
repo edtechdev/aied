@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T13:05:00-05:00"
+updated: "2026-11-13T16:20:00-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -76,6 +76,8 @@ The student side of task-level regulation is equally policy-shaped. With two of 
 ### Assessment policy: boundaries, oversight and attack surfaces
 
 **The boundary–evidence gap in assessment policy.** A 30-university audit of public [[generative-ai|GenAI]] assessment guidance ([[credential-cognitive-stewardship-ai-assessment|Yao 2026]]) finds that institutional policies are better at *classifying* AI use than at explaining what evidence of learning remains valid under each class: the mean delegation-boundary score (2.47/4) exceeded the mean evidence-standard score (1.89/4), safeguards were sparse (2.75 of 8), and guidance was clearest for final-output substitution. The framework of *cognitive stewardship* argues that policies must make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions protect fair evidence — rather than merely monitor AI use.
+
+Across 36 Australian, 11 Finnish and 8 Hong Kong universities, GenAI assessment guidance was near-universal while grading policies stayed silent on how achievement is represented ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 **Policy form does not predict practice.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] found mandate, framework and guidance institutions spread across the exposure range of 53,915 Australian assessment items, so a prescriptive central policy did not accompany less AI-vulnerable assessment.
 

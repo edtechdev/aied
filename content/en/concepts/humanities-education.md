@@ -1,7 +1,7 @@
 ---
 title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T16:20:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
@@ -37,6 +37,7 @@ Civic and political education is a sibling subject area to these disciplines rat
 - **[[governance|Institutional]] digital transformation.** Qin (2026) documents how Lingnan University repositioned itself as a "Research-Intensive Liberal Arts Institution in the Digital Era," mandating GenAI literacy for all undergraduates (including a required first-year Common Core course on generative AI covering latent spaces, GANs, diffusion models, [[prompt-engineering|prompting]], [[llm-training-and-fine-tuning|fine-tuning]], bias, and misinformation). The position paper argues the AI-for-education shift is an *intellectual transformation* rather than technocentric augmentation, positioning [[ai-literacy|digital fluency]] as a core liberal arts competency while a [[human-in-the-loop-ai|human-in-the-loop]] model foregrounds [[ethics|ethical]] reasoning, critical judgment, and social responsibility — a concrete blueprint for [[higher-ed|higher education]] balancing [[generative-ai|GenAI]] innovation with humanistic foundations.
 
 - **The sector's assessment exposure is now measured, and it is concentrated rather than diffuse.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] audited 15,587 Arts and Humanities unit records across Australia's Group of Eight universities and found 58.6% of 2026 assessment items highly exposed to [[generative-ai|GenAI]], with take-home essays and research reports accounting for 71.4% of that exposure once weighted by marks.
+- [[corbin-essay-time-genai-2026|Corbin et al. (2026)]] reframe that exposure: the assessed essay had already narrowed to a thesis-and-evidence report, so what GenAI simulates is a report genre, not essayistic thinking.
 
 ### Why it matters
 

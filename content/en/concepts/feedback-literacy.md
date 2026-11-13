@@ -1,7 +1,7 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T16:20:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -24,6 +24,8 @@ reviewed_by: [editor]
 ## Introduction
 
 Feedback literacy matters because well-designed feedback only helps students who can interpret and act on it. A student who cannot evaluate whether AI-generated feedback is accurate, or who does not know how to turn feedback into a concrete revision, learns far less from the same feedback than a more feedback-literate peer. As AI reshapes feedback provision, feedback literacy has become a central boundary condition for whether AI feedback improves learning.
+
+[[corbin-recognition-feedback-2026|Corbin, Tai and Flenady (2026)]] place recognition before literacy: a student must grant the provider standing to guide, and be granted standing to answer, or there is nothing for literacy to work on.
 
 ## What feedback literacy is
 

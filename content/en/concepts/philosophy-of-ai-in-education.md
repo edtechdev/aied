@@ -1,7 +1,7 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T16:20:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -34,6 +34,7 @@ This is a concept page for the philosophical and theoretical foundations of [[ai
 - **Agency, authorship, and meaning.** When AI mediates interpretation and meaning-making, philosophy asks how authorship, epistemic [[agency]], and interpretive autonomy are reconfigured.([[voicu-ai-interpretive-cognition-ssh-2026]])
 - **The ontology of AI-generated scientific objects.** In [[chemistry-education|chemistry]], AI-predicted compounds and titration curves occupy a "liminal ontological space" — neither wholly hypothetical nor fully real until empirically proven — which shifts the discipline from realism toward a constructivist view in which reality is a collaboration of human and machine ([[philosophy-experimentation-ai-chemistry-2026|Reyes and Regala (2026)]]).
 - **Cognitive passivity as an epistemic harm.** Bai and Costa (2026) draw on Arendt's account of thinking as an inward, untransferable activity to argue that GenAI which supplies the work does not merely offload thinking but forecloses it, with Bourdieu's field and habitus locating the risk in institutional structures ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
+- Alongside that account, [[corbin-essay-time-genai-2026|Corbin et al. (2026)]] reconstruct the essay as a form of thinking: Montaigne's attempt, Adorno's fragments, Heidegger's meditative thinking — its value in the thinking writing produces, not the product yielded.
 - **Values, justice, and the purpose of education.** Philosophical analysis examines whether AI-driven education serves human flourishing and educational justice, or whether it instrumentalises learning in service of productivity.([[avraamidou-ai-colonization-science-education]]) This connects to [[critical-pedagogy]] and [[ethics]].
 - **'Human-centered' as an anthropocentric discourse, not a neutral ethic.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang & Jin (2026)]] read UNESCO, OECD and Montréal Declaration documents to argue that human-centered AIED inherits Enlightenment humanism's exclusions, that transhumanism preserves them, and that the label can legitimize commercial infrastructure.
 

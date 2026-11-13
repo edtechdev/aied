@@ -1,7 +1,7 @@
 ---
 title: "Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis"
 created: "2026-09-27T05:25:33-04:00"
-updated: "2026-09-27T05:25:33-04:00"
+updated: "2026-11-13T16:40:00-05:00"
 type: article
 sources: ['raw/papers/chen-pbl-pjbl-genai-meta-analysis-2026.md']
 confidence: high
@@ -23,7 +23,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** This three-level meta-analysis pools 22 controlled studies and 66 effect sizes covering January 2023 to April 2026 to ask what [[generative-ai]] (GenAI) adds when it is embedded in problem-based learning (PBL) and project-based learning (PjBL). Across four learner-internal outcome domains the pooled effect was large (g = 0.819, 95% CI [0.655, 0.983]), but a PET-PEESE sensitivity analysis indicated small-study effects and reduced the estimate to g = 0.378, so the authors treat the headline value as potentially inflated and the evidence as promising but preliminary. Product and solution performance, modeled separately because it measures human-AI collaborative output rather than internalized learning, returned the largest estimate (g = 1.958) with a prediction interval that crossed zero. Effects differed significantly by participant number and tool type, and peer collaboration showed only a marginal trend. PBL/PjBL is framed as resilient for [[ai-education]] because it anchors learning in authentic problems rather than tool-specific knowledge.
+> **Synthesis:** This three-level meta-analysis pools 22 controlled studies and 66 effect sizes covering January 2023 to April 2026 to ask what [[generative-ai]] (GenAI) adds when it is embedded in [[problem-based-learning|problem-based learning]] (PBL) and [[project-based-learning|project-based learning]] (PjBL). Across four learner-internal outcome domains the pooled effect was large (g = 0.819, 95% CI [0.655, 0.983]), but a PET-PEESE sensitivity analysis indicated small-study effects and reduced the estimate to g = 0.378, so the authors treat the headline value as potentially inflated and the evidence as promising but preliminary. Product and solution performance, modeled separately because it measures human-AI collaborative output rather than internalized learning, returned the largest estimate (g = 1.958) with a prediction interval that crossed zero. Effects differed significantly by participant number and tool type, and peer collaboration showed only a marginal trend. PBL/PjBL is framed as resilient for [[ai-education]] because it anchors learning in authentic problems rather than tool-specific knowledge.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T16:20:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 connected_resources: [vfwa]
@@ -110,6 +110,8 @@ The same section of the evidence base supplies the case-file counterpart, and it
 ### The human-marking benchmark and its ceiling
 
 [[opraise-automated-marking-ai-assessment-2026|The OpRaise comparison of three frontier models against 761 authentic essays across three UK universities]] makes the benchmark part of the validity argument. Human marks were used as ground truth on the explicit ground that academic judgment is the socially accepted standard, while the authors acknowledge that human markers agree only moderately with one another — which caps the AI–human agreement that could reasonably be demanded, and means a correlation cannot be read as ready-or-not without a reference point. Within that frame the failures appeared as systematic structure rather than random error: marks compressed toward the middle of the scale, so the best and worst essays were misjudged most; agreement was weakest at grade boundaries; and AI marks tracked vocabulary range, connectives and sentence complexity while human marks were broadly insensitive to them. The practical lesson is double-edged, because the same study found reliability to be excellent — identical re-marks across time and high agreement between models. A validity case for automated marking therefore cannot rest on stability or on average agreement; it has to show the absence of systematic deviation, which is exactly what this evidence did not find.
+
+Supplying the human mark and the marker's feedback repairs the average without restoring the ordering: [[kay-genai-mimic-human-markers-2026|Kay et al. (2026)]] found a calibration slope of 0.038 where perfect agreement gives 1, so in-context calibration cannot close the benchmark's ceiling.
 
 Run-to-run stability is not guaranteed, however: repeating the same grading on identical submissions five days apart gave Krippendorff's alpha 0.625, with variation concentrated in the middle grades and A and F absent from the repeated-session counts ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 

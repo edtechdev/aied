@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-11-13T12:55:00-05:00"
+updated: "2026-11-13T16:20:00-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -25,6 +25,8 @@ reviewed_by: [editor]
 ## Introduction
 
 Learner identity concerns who a learner understands themselves to be, and who they are becoming, within a domain — a motivational and developmental construct distinct from ability beliefs such as [[self-efficacy]], which answer the narrower question *can I do this?* Identity forms through participation, recognition and authorship: seeing oneself reflected in a field and having that self-view validated by others. AI reshapes all three conditions, because it changes who does the work, what counts as one's own contribution, and whether a learner is recognized as the author of their own learning ([[agency]], [[metacognition]]).
+
+Grades are a relation as well as a symbol: students come to see themselves through them, so reform that leaves the transcript intact leaves that relation intact too ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 ## Why identity matters for AI in education
 
