@@ -7,7 +7,7 @@ research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
 translation_of: concepts/design-based-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,7 @@ La IBD no es un diseño único, sino un bucle iterativo que normalmente comprend
 
 El ejemplo canónico en la investigación sobre IA educativa es el [[ai-assisted-collaborative-learning-model-dbr|estudio del modelo de aprendizaje colaborativo asistido por IA (AACL)]], que desarrolló un ciclo de IBD de cuatro fases —análisis de necesidades, diseño del modelo, una implementación de ocho semanas en el aula con estudiantes de grado indonesios y refinamiento del modelo— iterando sobre un ciclo de aprendizaje de cuatro etapas (identificación del problema → indagación [[collaborative-learning|colaborativa]] asistida por IA → [[problem-solving|resolución de problemas]] colaborativa → reflexión y presentación).
 
-## Cómo aparece la IBD en la base de conocimiento
+## Cómo aparece la IBD en la investigación
 
 - **Desarrollo de modelos de aprendizaje.** [[ai-assisted-collaborative-learning-model-dbr|El estudio del modelo AACL]] usa la IBD para desarrollar y evaluar un modelo de aprendizaje colaborativo asistido por IA centrado en el [[critical-thinking|pensamiento crítico]] y la resolución de problemas en la [[higher-ed|educación superior]].
 - **Construcción de formación docente en alfabetización en IA.** [[genai-literacy-training-teacher-education-dbr-2026|Le et al.]] desarrollan y evalúan una intervención de IBD de formación en alfabetización en [[generative-ai|IA generativa]] para estudiantes de [[teacher-education|formación docente]]; [[human-centered-ai-teacher-educators-2026|Baran et al.]] usan la IBD entre 2023 y 2025 para diseñar aprendizaje profesional sobre [[ai-literacy|alfabetización en IA]] crítica fundamentado en principios de IA centrada en las personas.
@@ -75,9 +75,9 @@ La IBD es el método característico de las [[learning-sciences|ciencias del apr
 
 **«El refinamiento iterativo hace que el diseño sea inmune al factor de confusión que sufren otros métodos.»** La iteración cambia una amenaza por otra. Refinar un diseño a mitad del estudio significa que la versión final difiere de la que produjo la evidencia inicial, así que una afirmación sobre «la intervención» abarca varias intervenciones. Informar qué revisión produjo qué resultado es responsabilidad de la disciplina, y con frecuencia se deja implícito.
 
-**«Como la IBD produce un artefacto que funciona, ha demostrado eficacia.»** Un diseño que funciona en el sitio que lo coprodujo ha demostrado viabilidad local, lo que es una afirmación distinta de la eficacia. El artefacto lleva consigo las adaptaciones hechas para ese contexto, y transferirlo transfiere supuestos que nunca se declararon como supuestos.
+**«Como la IBD produce un artefacto que funciona, ha demostrado eficacia.»** Un diseño que funciona donde se coprodujo ha demostrado viabilidad local, lo que es una afirmación distinta de la eficacia. El artefacto lleva consigo las adaptaciones hechas para ese contexto, y transferirlo transfiere supuestos que nunca se declararon como supuestos.
 
-**«Tratar un instrumento como un artefacto de diseño revisable se aparta de la IBD.»** Es el carácter iterativo de la IBD aplicado a la medición y no a la intervención: un estudio de este corpus trató la propia rúbrica como artefacto y alternó el correfinamiento con un [[llm|LLM]]. Esa extensión merece señalarse porque convierte el desarrollo del propio instrumento en parte de la evidencia.
+**«Tratar un instrumento como un artefacto de diseño revisable se aparta de la IBD.»** Es el carácter iterativo de la IBD aplicado a la medición y no a la intervención: un estudio trató la propia rúbrica como artefacto y alternó el correfinamiento con un [[llm|LLM]]. Esa extensión merece señalarse porque convierte el desarrollo del propio instrumento en parte de la evidencia.
 
 ## Conceptos conectados
 

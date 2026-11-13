@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-12T18:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -29,18 +29,18 @@ ai_assist:
 
 ## Preguntas para reflexionar
 
-- La página enmarca la neurodiversidad como diferencias neurológicas que son variaciones naturales y no déficits que arreglar. ¿Cómo cambia ese giro de encuadre lo que debería significar «ayudar» a un estudiante con autismo, TDAH o dislexia en su propio contexto?
+- La neurodiversidad es la visión de que las diferencias neurológicas son variaciones naturales y no déficits que arreglar. ¿Cómo cambia ese giro de encuadre lo que debería significar «ayudar» a un estudiante con autismo, TDAH o dislexia en su propio contexto?
 - Piense en una herramienta de IA generativa que produce respuestas largas y cargadas de texto. ¿A qué estudiantes neurodivergentes podría ayudar y a cuáles podría perjudicar, y se le ocurren decisiones de diseño que inclinarían la balanza en uno u otro sentido?
 - La IA que reduce la [[cognitive-offloading|carga cognitiva]] puede apoyar a quienes tienen dificultades con la función ejecutiva o con las expectativas sociales, pero la IA que fomenta la dependencia puede socavarlos. ¿Dónde traza la línea entre apoyo y dependencia excesiva para un estudiante concreto?
-- La página advierte de que las herramientas de IA que dan por supuesto un estilo de comunicación dominante pueden recapitular brechas de equidad. ¿Recuerda alguna ocasión en que una herramienta o un aula «de talla única» diera por supuesto que todo el mundo aprende igual, y qué pasó por alto?
+- Las herramientas de IA que dan por supuesto un estilo de comunicación dominante pueden recapitular brechas de equidad. ¿Recuerda alguna ocasión en que una herramienta o un aula «de talla única» diera por supuesto que todo el mundo aprende igual, y qué pasó por alto?
 - ¿Cómo podría el neurotipo de un estudiante cambiar la forma en que se interpretan sus señales conductuales en la analítica del aprendizaje? ¿Qué riesgo surge cuando la IA lee la [[student-engagement|implicación]] o la dificultad sin saber cómo funciona un cerebro concreto?
-- La evidencia más sólida de esta página respalda un cambio de diseño general que ayudó a todos y cerró una brecha, no una herramienta creada para un diagnóstico. ¿Por qué los cambios universales podrían superar a los condicionados por diagnóstico, y qué implica eso sobre cómo gastaría un presupuesto limitado de accesibilidad?
+- La evidencia más sólida respalda un cambio de diseño general que ayudó a todos y cerró una brecha, no una herramienta creada para un diagnóstico. ¿Por qué los cambios universales podrían superar a los condicionados por diagnóstico, y qué implica eso sobre cómo gastaría un presupuesto limitado de accesibilidad?
 
 ## Introducción
 
 El paradigma de la neurodiversidad desplaza el objetivo del trabajo de [[special-education|educación especial]] y [[accessibility|accesibilidad]] de «arreglar a quien aprende» a «adaptar el entorno». Se solapa con el [[universal-design-for-learning|diseño universal para el aprendizaje]] y el [[inclusive-learning|aprendizaje inclusivo]], pero hace hincapié en afirmar la identidad y en un diseño basado en fortalezas más que en la acomodación como compensación.
 
-En la era de la IA este encuadre se convierte en una prueba de diseño y no en un eslogan. La [[generative-ai|IA generativa]] ofrece una promesa real para quienes aprenden de forma neurodivergente —medios alternativos de implicación, representación y expresión, apoyo a la función ejecutiva y menor carga extrínseca— y también un riesgo real, ya que las herramientas que dan por supuesto un estilo de comunicación dominante, condicionan el apoyo a un diagnóstico formal o fomentan la dependencia pueden perjudicar precisamente a quienes dicen servir. Esta página mapea lo que la evidencia muestra de verdad, categoría por categoría, y dónde se agota.
+En la era de la IA este encuadre se convierte en una prueba de diseño y no en un eslogan. La [[generative-ai|IA generativa]] ofrece una promesa real para quienes aprenden de forma neurodivergente —medios alternativos de implicación, representación y expresión, apoyo a la función ejecutiva y menor carga extrínseca— y también un riesgo real, ya que las herramientas que dan por supuesto un estilo de comunicación dominante, condicionan el apoyo a un diagnóstico formal o fomentan la dependencia pueden perjudicar precisamente a quienes dicen servir. La evidencia se mapea categoría por categoría, incluido dónde se agota.
 
 ## Qué cubre la investigación
 
@@ -56,7 +56,7 @@ Dos revisiones definen la forma del campo, y ambas describen fragmentación y no
 
 [[neurodivergent-computing-students|Una encuesta con 24 estudiantes de informática neurodivergentes (autistas o con TDAH) y 20 pares neurotípicos]], con cuatro entrevistas en profundidad, encontró una incomodidad significativa con tareas que carecen de estructura clara o conllevan expectativas ambiguas, y que las mismas estructuras que favorecen a quienes aprenden de forma neurotípica en el [[active-learning|aprendizaje activo]] colaborativo pueden excluir a sus pares neurodivergentes. Los autores lo presentan como preliminar y entre los primeros estudios que sitúan en el centro las voces neurodivergentes en la [[cs-education|enseñanza de la informática]], lo que también es una medida de qué poca evidencia existe.
 
-[[adhd-video-segmentation-computing-education|El estudio de segmentación de vídeo (Pimenova, Begel y colegas, 2026)]] es el resultado único más sólido de esta página. Tratar los [[video-education|vídeos instruccionales]] como un problema de procesamiento a posteriori —segmentándolos en fragmentos de una sola instrucción con pausas fijas para reducir la carga extrínseca— mejoró el rendimiento de todo el mundo en un diseño intrasujeto (17 con TDAH, 10 sin TDAH), y los errores y las dudas de los participantes con TDAH bajaron hasta la paridad con sus pares sin TDAH. Un cambio igualador que no necesita diagnóstico, ni declaración, ni herramienta aparte es la demostración disponible más limpia del [[universal-design-for-learning|diseño universal para el aprendizaje]] mediante la transformación automatizada del contenido.
+[[adhd-video-segmentation-computing-education|El estudio de segmentación de vídeo (Pimenova, Begel y colegas, 2026)]] es el resultado único más sólido de la evidencia. Tratar los [[video-education|vídeos instruccionales]] como un problema de procesamiento a posteriori —segmentándolos en fragmentos de una sola instrucción con pausas fijas para reducir la carga extrínseca— mejoró el rendimiento de todo el mundo en un diseño intrasujeto (17 con TDAH, 10 sin TDAH), y los errores y las dudas de los participantes con TDAH bajaron hasta la paridad con sus pares sin TDAH. Un cambio igualador que no necesita diagnóstico, ni declaración, ni herramienta aparte es la demostración disponible más limpia del [[universal-design-for-learning|diseño universal para el aprendizaje]] mediante la transformación automatizada del contenido.
 
 ## Dificultades específicas de aprendizaje, dislexia y descarga cognitiva
 

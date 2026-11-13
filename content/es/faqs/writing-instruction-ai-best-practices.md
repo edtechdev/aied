@@ -9,7 +9,7 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -134,7 +134,7 @@ Encargue la crítica del modelo como trabajo disciplinar. Dé al estudiantado un
 
 ### Cursos de STEM e informes de laboratorio
 
-Una precisión primero: esta base de conocimiento reúne evidencia mucho más sólida sobre la escritura académica asistida por IA en general que sobre la escritura de informes de laboratorio en particular. La [[pedagogy|pedagogía]] práctica y de laboratorio sigue estando poco cubierta, también en la literatura sobre [[engineering-education|educación en ingeniería]], así que lo que sigue aplica hallazgos sobre escritura, descarga cognitiva, validez e ingeniería a un contexto que esos estudios no probaron.
+Una precisión primero: la evidencia es mucho más sólida sobre la escritura académica asistida por IA en general que sobre la escritura de informes de laboratorio en particular. La [[pedagogy|pedagogía]] práctica y de laboratorio sigue estando poco cubierta, también en la literatura sobre [[engineering-education|educación en ingeniería]], así que lo que sigue aplica hallazgos sobre escritura, descarga cognitiva, validez e ingeniería a un contexto que esos estudios no probaron.
 
 Trace el límite en torno al razonamiento científico y no en torno a la prosa en su conjunto. El estudiantado sigue siendo responsable de las observaciones, los datos brutos, los cálculos, la incertidumbre, las figuras, las decisiones de análisis, los resultados y el razonamiento que conecta evidencia y conclusión. Una vez que eso existe, la IA puede ayudar razonablemente con la organización, la legibilidad, las transiciones y las convenciones disciplinares, que es la misma división entre superficie y razonamiento del [[layer-sensitive-cognitive-offloading-writing-2026|estudio de Chen]].
 
@@ -158,7 +158,7 @@ El estudiantado traza una línea parecida por su cuenta. En un curso de grado de
 
 ## Juzgue la evidencia antes de reescribir el programa
 
-El caso a favor de estos diseños es prometedor y todavía no es lo bastante sólido para justificar una política universal sobre escritura con IA. Parte de la mejor evidencia proviene de estudios de aula considerables como [[pairr-ai-peer-review-2025|PAIRR]], con sus 654 estudiantes. Mucho del resto se apoya en cuasiexperimentos, muestras experimentales pequeñas, análisis conceptuales y trabajos de 2025 y 2026 todavía recientes: [[layer-sensitive-cognitive-offloading-writing-2026|el estudio de Chen sobre escritura acotada]] tenía 168 estudiantes pero solo seis clases intactas, el [[ai-writing-support-stage-ownership-2026|estudio sobre autoría]] usó una tarea experimental de escritura breve, y un estudio que informa mejoras inmediatas de calidad tras practicar con ChatGPT involucró solo a 21 estudiantes internacionales de primer año y no estableció [[transfer-of-learning|transferencia]] a largo plazo ([[chatgpt-academic-writing-quality-ownership-2026]]). Lo que la base de conocimiento sobre [[ai-education|IA en la educación]] respalda es un conjunto de principios de diseño, y el hallazgo más fiable entre estudios es preservar la [[agency|agencia]] del estudiante, el [[evaluative-judgment|juicio evaluativo]], la competencia independiente, el razonamiento disciplinar y la retroalimentación humana mientras se usa la IA para ampliar el acceso a la crítica, la práctica, el apoyo a la revisión y la asistencia lingüística.
+El caso a favor de estos diseños es prometedor y todavía no es lo bastante sólido para justificar una política universal sobre escritura con IA. Parte de la mejor evidencia proviene de estudios de aula considerables como [[pairr-ai-peer-review-2025|PAIRR]], con sus 654 estudiantes. Mucho del resto se apoya en cuasiexperimentos, muestras experimentales pequeñas, análisis conceptuales y trabajos de 2025 y 2026 todavía recientes: [[layer-sensitive-cognitive-offloading-writing-2026|el estudio de Chen sobre escritura acotada]] tenía 168 estudiantes pero solo seis clases intactas, el [[ai-writing-support-stage-ownership-2026|estudio sobre autoría]] usó una tarea experimental de escritura breve, y un estudio que informa mejoras inmediatas de calidad tras practicar con ChatGPT involucró solo a 21 estudiantes internacionales de primer año y no estableció [[transfer-of-learning|transferencia]] a largo plazo ([[chatgpt-academic-writing-quality-ownership-2026]]). Lo que la investigación sobre [[ai-education|IA en la educación]] respalda es un conjunto de principios de diseño, y el hallazgo más fiable entre estudios es preservar la [[agency|agencia]] del estudiante, el [[evaluative-judgment|juicio evaluativo]], la competencia independiente, el razonamiento disciplinar y la retroalimentación humana mientras se usa la IA para ampliar el acceso a la crítica, la práctica, el apoyo a la revisión y la asistencia lingüística.
 
 Esa mezcla tiene una consecuencia práctica. Cambie una asignación, conserve el artefacto y compare la siguiente cohorte con esta en la misma medida. Una regla que puede revisar después de un semestre vale más que una política que no puede poner a prueba, y los estudios pequeños citados arriba no le dirán qué ocurre en su curso.
 
@@ -176,7 +176,7 @@ Esa mezcla tiene una consecuencia práctica. Cambie una asignación, conserve el
 
 ## Lo que le van a responder
 
-**"No tengo tiempo para leer otro artefacto."** Entonces haga pequeño el artefacto: cuatro columnas de tabla de decisiones, o cinco minutos de escritura en clase como muestra independiente. El corpus no informa datos de tiempo de corrección para estos diseños, así que el argumento sobre la carga de trabajo tiene que probarse en una asignación y no darse por supuesto a partir de esta página.
+**"No tengo tiempo para leer otro artefacto."** Entonces haga pequeño el artefacto: cuatro columnas de tabla de decisiones, o cinco minutos de escritura en clase como muestra independiente. Ningún estudio informa de datos de tiempo de corrección para estos diseños, así que el argumento sobre la carga de trabajo tiene que probarse en una asignación y no darse por supuesto.
 
 **"Mi estudiantado usará IA diga lo que diga la regla."** Lo hará, y la pregunta de diseño es qué respuesta facilita más su asignación. Una declaración que no cuesta nada y una rúbrica que paga por el proceso hacen de la declaración el camino más barato. Ese mecanismo proviene de la modelización y no de un ensayo de una política de divulgación, así que trate la predicción como razonable y no confirmada.
 
@@ -186,7 +186,7 @@ Esa mezcla tiene una consecuencia práctica. Cambie una asignación, conserve el
 
 **"El modelo califica esta tarea tan bien como yo."** Los sistemas calibrados con rúbricas detalladas y ejemplos resueltos pueden puntuar bien tareas concretas. La calificación genérica no, y Mathew et al. muestran que el desacuerdo sigue la calidad del ensayo en lugar de dispersarse al azar, que es el tipo de error más difícil de notar. Pruebe la herramienta con su propio conjunto corregido antes de que toque una calificación.
 
-**"Esto penaliza a quien tiene un inglés académico más débil."** Puede hacerlo, si la regla trata la expresión y la autoría como una sola cosa. Sepárelas, y audite la retroalimentación de la IA para detectar el patrón que encontraron Tan et al., donde un texto idéntico recibía más elogios y menos crítica sustantiva en cuanto los atributos demográficos o educativos entraban en el mensaje. El corpus documenta ese sesgo. No informa de una solución probada, así que su propia comparación es la comprobación.
+**"Esto penaliza a quien tiene un inglés académico más débil."** Puede hacerlo, si la regla trata la expresión y la autoría como una sola cosa. Sepárelas, y audite la retroalimentación de la IA para detectar el patrón que encontraron Tan et al., donde un texto idéntico recibía más elogios y menos crítica sustantiva en cuanto los atributos demográficos o educativos entraban en el mensaje. La investigación documenta ese sesgo. No informa de una solución probada, así que su propia comparación es la comprobación.
 
 ## Qué hacer esta semana
 
@@ -202,4 +202,4 @@ Esa mezcla tiene una consecuencia práctica. Cambie una asignación, conserve el
 
 ## Adónde ir después
 
-El lado evaluativo de este argumento, incluido el diseño de pasos autenticados, está en [[redesign-assessment-ai-era]]. Para el documento de política que el estudiantado lee realmente, véase [[course-ai-policy]], y para las herramientas de retroalimentación en sí, [[ai-feedback-quality]]. [[verify-ai-output]] cubre qué debería comprobar el estudiantado cuando el modelo aporta una afirmación o una fuente, y la página de concepto [[coach-not-crutch-ai-writing]] formula el límite al que esta página vuelve una y otra vez.
+El lado evaluativo de este argumento, incluido el diseño de pasos autenticados, está en [[redesign-assessment-ai-era]]. Para el documento de política que el estudiantado lee realmente, véase [[course-ai-policy]], y para las herramientas de retroalimentación en sí, [[ai-feedback-quality]]. [[verify-ai-output]] cubre qué debería comprobar el estudiantado cuando el modelo aporta una afirmación o una fuente, y la página de concepto [[coach-not-crutch-ai-writing]] formula el límite que más importa.

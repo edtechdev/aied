@@ -7,7 +7,7 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -72,7 +72,7 @@ Pregunte qué cuenta un número del panel, quién escribió la rúbrica que hay 
 
 ## Planifique el apagado
 
-Los ensayos aleatorizados muestran que una asistencia breve de IA puede deprimir el rendimiento posterior sin ayuda, y el intervalo tras la retirada, el [[cognitive-washout-ai-skill-decay-2026|desvanecimiento cognitivo]], apenas se mide. La síntesis que sostiene esta página se apoya en una [[meta-analysis-systematic-review|revisión de alcance]] de 474 estudios y encuentra el trabajo concentrado en [[higher-ed|educación superior]], [[stem-education|STEM]], diseños a corto plazo y tutoría basada en texto, con solo una minoría fundamentada explícitamente en teoría educativa. Un piloto que termina cuando termina la licencia ha medido la ventana equivocada.
+Los ensayos aleatorizados muestran que una asistencia breve de IA puede deprimir el rendimiento posterior sin ayuda, y el intervalo tras la retirada, el [[cognitive-washout-ai-skill-decay-2026|desvanecimiento cognitivo]], apenas se mide. Una [[meta-analysis-systematic-review|revisión de alcance]] de 474 estudios encuentra el trabajo concentrado en [[higher-ed|educación superior]], [[stem-education|STEM]], diseños a corto plazo y tutoría basada en texto, con solo una minoría fundamentada explícitamente en teoría educativa. Un piloto que termina cuando termina la licencia ha medido la ventana equivocada.
 
 ## En qué se equivocan los administradores
 
@@ -102,4 +102,4 @@ El acceso cierra la brecha de equidad. Un acceso desigual a sistemas agénticos 
 
 ## A dónde ir después
 
-[[developing-ai-tutor]] cubre la construcción orientada al estudiante, del objetivo a la escalera de ayuda, y [[evaluating-ai-interventions-methods]] cubre si la cosa funcionó. [[intelligent-tutoring]] y [[ai-literacy]] aportan el vocabulario de diseño que esta página presupone.
+[[developing-ai-tutor]] cubre la construcción orientada al estudiante, del objetivo a la escalera de ayuda, y [[evaluating-ai-interventions-methods]] cubre si la cosa funcionó. [[intelligent-tutoring]] y [[ai-literacy]] aportan el vocabulario de diseño que las recomendaciones presuponen.

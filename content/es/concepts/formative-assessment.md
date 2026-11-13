@@ -1,7 +1,7 @@
 ---
 title: Evaluación formativa
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T14:15:59-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-11-12T06:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **La evaluación formativa**: la evaluación diseñada para informar la enseñanza y el aprendizaje en curso, en contraposición a la evaluación [[summative-assessment|sumativa]]. En la educación con IA, la evaluación formativa es a la vez transformada por la IA y esencial para ella: los sistemas de IA pueden generar, validar y adaptar ítems y retroalimentación formativos a escala, mientras que la retroalimentación formativa es un mecanismo primario por el que los [[intelligent-tutoring|tutores de IA]] y los [[adaptive-learning|sistemas adaptativos]] apoyan el aprendizaje. La [[research-methods-aied|investigación]] de la base de conocimiento examina los ítems formativos generados por IA, la retroalimentación generada por IA y el diseño y la evaluación de estos sistemas.
+> **La evaluación formativa**: la evaluación diseñada para informar la enseñanza y el aprendizaje en curso, en contraposición a la evaluación [[summative-assessment|sumativa]]. En la educación con IA, la evaluación formativa es a la vez transformada por la IA y esencial para ella: los sistemas de IA pueden generar, validar y adaptar ítems y retroalimentación formativos a escala, mientras que la retroalimentación formativa es un mecanismo primario por el que los [[intelligent-tutoring|tutores de IA]] y los [[adaptive-learning|sistemas adaptativos]] apoyan el aprendizaje. La [[research-methods-aied|investigación]] examina los ítems formativos generados por IA, la retroalimentación generada por IA y el diseño y la evaluación de estos sistemas.
 
 ## Preguntas para reflexionar
 
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introducción
 
-La evaluación formativa es central para la [[ai-education|IA en la educación]] porque se sitúa en la confluencia de la [[assessment|evaluación]] y la [[feedback|retroalimentación para el aprendizaje]]. Su propósito es cerrar el bucle: sacar a la luz lo que el estudiantado sabe y no sabe, y ofrecer retroalimentación sobre la que pueda actuar para mejorar. La IA hace esto viable a escala (generar ítems, puntuar respuestas y ofrecer retroalimentación individualizada), pero la investigación de la base de conocimiento muestra que la calidad varía enormemente según el tipo de ítem y que la retroalimentación solo ayuda cuando el estudiantado la pone realmente en práctica.
+La evaluación formativa es central para la [[ai-education|IA en la educación]] porque se sitúa en la confluencia de la [[assessment|evaluación]] y la [[feedback|retroalimentación para el aprendizaje]]. Su propósito es cerrar el bucle: sacar a la luz lo que el estudiantado sabe y no sabe, y ofrecer retroalimentación sobre la que pueda actuar para mejorar. La IA hace esto viable a escala (generar ítems, puntuar respuestas y ofrecer retroalimentación individualizada), pero la investigación muestra que la calidad varía enormemente según el tipo de ítem y que la retroalimentación solo ayuda cuando el estudiantado la pone realmente en práctica.
 
 [[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]] aportan evidencia de que un sistema automatizado de escritura puede cumplir un propósito formativo auténtico: el crecimiento apareció en la calidad de la revisión y no solo en las puntuaciones de las funciones, pero únicamente donde el profesorado integró la retroalimentación en la discusión en clase.
 
@@ -55,7 +55,7 @@ Los sistemas de IA generan ítems de evaluación formativa en distintas modalida
 
 ## Retroalimentación generada por IA
 
-Un amplio conjunto de investigaciones de la base de conocimiento examina la retroalimentación formativa generada por IA:
+Un amplio conjunto de investigaciones examina la retroalimentación formativa generada por IA:
 
 - **El problema de la puesta en práctica:** [[ai-feedback-enactment-workflow-2026|Making AI-Generated Feedback Matter]] (13.037 estudiantes; 51.296 recursos) muestra que el valor de la retroalimentación depende de si el estudiantado la *pone en práctica*: la condición de **retroalimentación puesta en práctica**, en la que el estudiantado selecciona, evalúa y aplica las sugerencias de retroalimentación de la IA, superó a la retroalimentación dirigida simple.
 - **La retroalimentación con IA puede igualar a docentes expertos cuando la rúbrica aporta los criterios.** A ciegas respecto a la fuente y aleatorizados entre 47 grupos de proyectos universitarios, un LLM al que se le dio la rúbrica coconstruida de 0 a 30 y un ejemplo no fue inferior *y* resultó equivalente a la retroalimentación experta (+0,23, IC del 90% [−0,46, 0,91]): la rúbrica, y no el modelo, fue lo que calibró ([[ai-generated-feedback-higher-ed|Grion et al. (2026)]]).

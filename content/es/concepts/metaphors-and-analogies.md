@@ -1,7 +1,7 @@
 ---
 title: Metáforas y analogías
 created: "2026-11-07T12:10:00-05:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T14:20:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, misconceptions]
 pedagogy: [student-engagement]
@@ -10,10 +10,14 @@ audience: [instructors, learners, researchers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/metaphors-and-analogies
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-13"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -22,7 +26,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Síntesis:** Las metáforas y las analogías cumplen dos funciones en la [[ai-education|educación con IA]]. Son dispositivos de construcción de sentido mediante los cuales el profesorado y el estudiantado deciden qué *es* la IA (una herramienta, un asistente, una caja negra, un oráculo), y son dispositivos instruccionales que proyectan un dominio de origen familiar sobre un concepto meta desconocido. La investigación de esta base de conocimiento muestra que esas dos funciones están conectadas: las metáforas que las personas sostienen configuran lo que esperan de la IA, qué características perciben y si confían en ella o la temen. La misma lógica del mapeo estructural explica por qué una analogía puede hacer memorable una idea técnica y, al mismo tiempo, representarla mal sin que se note. Una analogía defectuosa generada por IA generativa puede ser más útil que una pulida cuando el estudiantado conoce el dominio de origen lo bastante bien como para auditar el mapeo y repararlo. La lección práctica es elegir metáforas para la característica que se enseña, comprobar el ajuste estructural y la accesibilidad cultural, y tratar la comparación como un objeto de crítica y no como una explicación acabada. La evidencia es en su mayoría cualitativa, conceptual y de pequeña escala; el campo tiene poca evidencia causal de que la enseñanza basada en metáforas mejore el aprendizaje.
+> **Síntesis:** Las metáforas y las analogías cumplen dos funciones en la [[ai-education|educación con IA]]. Son dispositivos de construcción de sentido mediante los cuales el profesorado y el estudiantado deciden qué *es* la IA (una herramienta, un asistente, una caja negra, un oráculo), y son dispositivos instruccionales que proyectan un dominio de origen familiar sobre un concepto meta desconocido. La investigación muestra que esas dos funciones están conectadas: las metáforas que las personas sostienen configuran lo que esperan de la IA, qué características perciben y si confían en ella o la temen. La misma lógica del mapeo estructural explica por qué una analogía puede hacer memorable una idea técnica y, al mismo tiempo, representarla mal sin que se note. Una analogía defectuosa generada por IA generativa puede ser más útil que una pulida cuando el estudiantado conoce el dominio de origen lo bastante bien como para auditar el mapeo y repararlo. La lección práctica es elegir metáforas para la característica que se enseña, comprobar el ajuste estructural y la accesibilidad cultural, y tratar la comparación como un objeto de crítica y no como una explicación acabada. La evidencia es en su mayoría cualitativa, conceptual y de pequeña escala; el campo tiene poca evidencia causal de que la enseñanza basada en metáforas mejore el aprendizaje.
 
 ## Preguntas para reflexionar
 
@@ -39,7 +43,7 @@ Una metáfora afirma que una cosa es otra: la IA es una caja negra, un ayudante,
 
 Eso las convierte en algo más que decoración retórica. La investigación sobre la metáfora conceptual trata la metáfora como una estructura del pensamiento, no solo del lenguaje: las comparaciones disponibles para las personas configuran qué aspectos de un sistema les resultan salientables y qué explicaciones les parecen naturales. En la educación con IA, lo que está en juego es práctico. Un estudiante que enmarca un [[llm|LLM]] como un motor de búsqueda puede esperar que recupere hechos almacenados y puede no buscar los fabricados. Un miembro del profesorado que lo enmarca como un estudiante avanzado puede esperar criterio y experiencia en la materia que el modelo no tiene. Una discusión de políticas enmarcada en torno a un «desastre natural» o un «competidor» sostiene respuestas distintas que una enmarcada en torno a una «calculadora de palabras».
 
-Esta página cubre los dos lados de esa doble función: la metáfora como ventana a cómo el profesorado y el estudiantado entienden la IA, y la analogía como técnica de enseñanza en la alfabetización en IA y en las explicaciones generadas por IA. Conecta el trabajo sobre las conceptualizaciones del profesorado y del estudiantado, los talleres de metáforas en el aula, las analogías generadas por IA generativa, el [[learning-design|diseño instruccional]] basado en analogías y la alfabetización crítica en IA. No trata «metáfora» y «analogía» como sinónimos exactos, pero las mantiene juntas porque los problemas de diseño son compartidos: selección de la fuente, ajuste estructural, acceso cultural y crítica.
+Ambos lados de esa doble función importan: la metáfora como ventana a cómo el profesorado y el estudiantado entienden la IA, y la analogía como técnica de enseñanza en la alfabetización en IA y en las explicaciones generadas por IA. Conecta el trabajo sobre las conceptualizaciones del profesorado y del estudiantado, los talleres de metáforas en el aula, las analogías generadas por IA generativa, el [[learning-design|diseño instruccional]] basado en analogías y la alfabetización crítica en IA. No trata «metáfora» y «analogía» como sinónimos exactos, pero las mantiene juntas porque los problemas de diseño son compartidos: selección de la fuente, ajuste estructural, acceso cultural y crítica.
 
 ## Por qué importan las metáforas y las analogías
 
@@ -49,11 +53,11 @@ Para la educación, la consecuencia útil es que la metáfora puede hacer trabaj
 
 Las analogías añaden una segunda capa: la correspondencia estructural. Una buena analogía instruccional conserva las relaciones que importan para el concepto meta, no solo la semejanza superficial. Una cadena puede ilustrar una lista enlazada porque ambas implican nodos conectados en secuencia. Un conjunto de cajas anidadas puede ilustrar la recursión porque cada nivel contiene una versión más pequeña de la misma estructura. La comparación siempre es parcial. La pregunta [[pedagogy|pedagógica]] es si las relaciones conservadas son las que necesita quien aprende, y si quien aprende puede ver dónde se detiene el mapeo.
 
-Esa pregunta separa esta página de [[explainable-ai|IA explicable]]. La IA explicable pregunta cómo pueden hacerse legibles las decisiones de un sistema para las partes interesadas. Una analogía pedagógica pregunta cómo puede quien aprende construir un modelo mental utilizable de un proceso. Una explicación de por qué un modelo marcó a un estudiante no es lo mismo que una analogía de cómo genera texto un modelo, y ninguna sustituye a la otra.
+Esa pregunta separa el trabajo con metáforas de la [[explainable-ai|IA explicable]]. La IA explicable pregunta cómo pueden hacerse legibles las decisiones de un sistema para las partes interesadas. Una analogía pedagógica pregunta cómo puede quien aprende construir un modelo mental utilizable de un proceso. Una explicación de por qué un modelo marcó a un estudiante no es lo mismo que una analogía de cómo genera texto un modelo, y ninguna sustituye a la otra.
 
 ## Cómo describen la IA el profesorado y el estudiantado
 
-La base de conocimiento tiene ahora varias ventanas a las metáforas que las personas usan de verdad. No convergen en una sola imagen, y eso es parte del argumento.
+Varios estudios ofrecen ahora ventanas a las metáforas que las personas usan de verdad. No convergen en una sola imagen, y eso es parte del argumento.
 
 [[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson y Casey (2025)]] impartieron talleres de análisis de metáforas con estudiantado, personal académico y personal de apoyo educativo. Las metáforas de los participantes se agruparon en cuatro categorías amplias: *Funciones* (comparaciones de tipo herramienta, como una navaja suiza), *Roles* (relaciones de tipo humano, como ayudante, compañero de estudio o amigo y rival a la vez), *Cualidades* (comparaciones poco fiables o incognoscibles, como una caja negra o una pendiente resbaladiza) y *Agencia* (comparaciones autónomas o amenazantes, como un competidor o un robot siniestro). Dos tensiones recorrieron el conjunto: la agencia humana frente a la de la máquina, y lo conocido frente a lo incognoscible. El taller no resolvió esas tensiones. Las puso a disposición de la discusión, que es lo que una intervención basada en metáforas puede hacer de forma realista.
 
@@ -67,7 +71,7 @@ Una línea [[philosophy-of-ai-in-education|filosófica]] empuja la metáfora en 
 
 ## Las analogías como técnica de enseñanza
 
-La evidencia de aula más sólida del corpus proviene del uso de analogías en la educación en informática. [[student-reception-genai-analogies-computing-2026|Bernstein y Sibia (2026)]] dieron al estudiantado de grado analogías generadas por IA para listas enlazadas y recursión, y después les pidieron anotar y discutir las salidas. El estudiantado no juzgó las analogías como buenas o malas en bloque. Separó la exactitud estructural, la claridad, la idoneidad y la confianza, y nombró fallos concretos: una ruta en bucle describe una lista circular, no una simplemente enlazada; un peloteo de bádminton no tiene una entrada que se encoja de forma garantizada para la recursión; una referencia basada en intereses puede suponer conocimientos que el estudiante no tiene.
+La evidencia de aula más sólida proviene del uso de analogías en la educación en informática. [[student-reception-genai-analogies-computing-2026|Bernstein y Sibia (2026)]] dieron al estudiantado de grado analogías generadas por IA para listas enlazadas y recursión, y después les pidieron anotar y discutir las salidas. El estudiantado no juzgó las analogías como buenas o malas en bloque. Separó la exactitud estructural, la claridad, la idoneidad y la confianza, y nombró fallos concretos: una ruta en bucle describe una lista circular, no una simplemente enlazada; un peloteo de bádminton no tiene una entrada que se encoja de forma garantizada para la recursión; una referencia basada en intereses puede suponer conocimientos que el estudiante no tiene.
 
 La contribución del artículo es la idea de **auditoría bidireccional de analogías**. El conocimiento del concepto meta indica al estudiante qué relaciones debe conservar una analogía. El conocimiento del dominio de origen le indica si la fuente tiene realmente esas relaciones. Quienes auditaban con más agudeza no eran siempre los estudiantes cuyos intereses coincidían con la analogía. Eran los que conocían el dominio de origen lo bastante bien como para inspeccionarlo. Eso tiene una implicación de diseño: una fuente familiar puede convertir a un estudiante de receptor en auditor experto. Los autores recomiendan asignar analogías defectuosas como objetos que hay que inspeccionar y reparar, en lugar de filtrarlas. La analogía defectuosa se convierte en una [[desirable-difficulties|dificultad deseable]].
 
@@ -106,7 +110,7 @@ Eso es también lo que conecta el trabajo con metáforas con la [[ai-literacy]] 
 - **Hacer explícitos los límites.** Pida al estudiantado que nombre qué conserva la metáfora, qué distorsiona y qué no puede explicar. La crítica es el aprendizaje evaluado, no una discusión opcional.
 - **Usar varias metáforas parciales.** Un espejo deformante, un mapa y una cámara de eco pueden coexistir porque cada uno ilumina una dimensión distinta. Una única metáfora totalizadora tiene más probabilidades de convertirse en una concepción errónea.
 - **Mantener cerca la explicación técnica.** Una analogía puede abrir un tema, pero no debería sustituir la instrucción sobre los datos de entrenamiento, la generación probabilística o la diferencia entre una salida fluida y conocimiento verificado.
-- **Evaluar la actividad, no solo la implicación.** El corpus todavía no muestra que las lecciones basadas en metáforas mejoren la alfabetización en IA o los resultados de aprendizaje. Trate las actividades como diseños que hay que probar y mida qué puede hacer el estudiantado después.
+- **Evaluar la actividad, no solo la implicación.** La evidencia todavía no muestra que las lecciones basadas en metáforas mejoren la alfabetización en IA o los resultados de aprendizaje. Trate las actividades como diseños que hay que probar y mida qué puede hacer el estudiantado después.
 
 ## Concepciones erróneas
 
@@ -117,7 +121,7 @@ Eso es también lo que conecta el trabajo con metáforas con la [[ai-literacy]] 
 
 ## Límites y lagunas de evidencia
 
-La literatura de esta base de conocimiento es desigual. Los estudios sobre metáforas del profesorado y del estudiantado son [[qualitative-research|cualitativos]] y a menudo pequeños. El estudio del profesorado de ingeniería analiza las respuestas a una sola pregunta de entrevista. El estudio sobre profesionalización trata los recuentos de metáforas como exploratorios. El estudio de analogías en el aula tiene diez estudiantes de grado y un factor de confusión entre la personalización y el formato de la explicación. El marco de Roe et al. es conceptual y sus actividades no se han probado con estudiantado. ANVIL es una evaluación de sistema con profesorado, no un estudio de aprendizaje.
+La literatura es desigual. Los estudios sobre metáforas del profesorado y del estudiantado son [[qualitative-research|cualitativos]] y a menudo pequeños. El estudio del profesorado de ingeniería analiza las respuestas a una sola pregunta de entrevista. El estudio sobre profesionalización trata los recuentos de metáforas como exploratorios. El estudio de analogías en el aula tiene diez estudiantes de grado y un factor de confusión entre la personalización y el formato de la explicación. El marco de Roe et al. es conceptual y sus actividades no se han probado con estudiantado. ANVIL es una evaluación de sistema con profesorado, no un estudio de aprendizaje.
 
 Eso no hace inútil el trabajo. Hace que las afirmaciones sean modestas en la medida adecuada. La elicitación de metáforas puede revelar supuestos que las encuestas pasan por alto. La crítica de analogías puede hacer visible la comprensión estructural. Una metáfora bien elegida puede dar a una clase un objeto compartido sobre el que discutir. Pero el campo todavía necesita estudios que comparen la instrucción basada en metáforas con la instrucción ordinaria, midan la transferencia y no el recuerdo de la metáfora, y prueben si el enfoque viaja entre culturas y disciplinas.
 

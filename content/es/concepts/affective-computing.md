@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **La computación afectiva** en educación utiliza señales fisiológicas y conductuales para detectar la emoción de quien aprende y adaptar la instrucción; véanse [[affective-text-wearable-student-health|el texto afectivo breve como complemento a la detección con dispositivos vestibles]], [[multimodal-affective-its-presentation|la retroalimentación afectiva multimodal en tutoría inteligente]] y [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]. La base de conocimiento también documenta los riesgos emocionales de la [[student-ai-interaction|interacción con la IA]], incluidos [[sycophantic-ai-social-interaction-2026|la IA sicofántica en la interacción social]] y [[shame-guilt-ai-regulation-computing-education|la vergüenza y la culpa como reguladores sociales del uso de la IA]].
+> **La computación afectiva** en educación utiliza señales fisiológicas y conductuales para detectar la emoción de quien aprende y adaptar la instrucción; véanse [[affective-text-wearable-student-health|el texto afectivo breve como complemento a la detección con dispositivos vestibles]], [[multimodal-affective-its-presentation|la retroalimentación afectiva multimodal en tutoría inteligente]] y [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]. Los riesgos emocionales de la [[student-ai-interaction|interacción con la IA]] también importan,, incluidos [[sycophantic-ai-social-interaction-2026|la IA sicofántica en la interacción social]] y [[shame-guilt-ai-regulation-computing-education|la vergüenza y la culpa como reguladores sociales del uso de la IA]].
 
 ## Preguntas para reflexionar
 
@@ -53,7 +53,7 @@ La tutoría consciente de las emociones puede producir mejoras medibles, pero es
 
 ## La computación afectiva y la AIED en sentido amplio
 
-La computación afectiva se sitúa en la intersección de la [[affective-tutoring|tutoría afectiva]] (su aplicación pedagógica), el [[student-modeling|modelado del estudiante]] (representar a la persona que aprende en su conjunto, incluida la emoción) y la [[learning-analytics|analítica del aprendizaje]] (obtener señales a partir de los datos de quien aprende). Se conecta con el diseño de la [[intelligent-tutoring|tutoría inteligente]] y con la [[pedagogical-safety|seguridad pedagógica]], el principio de que la IA debe apoyar la emoción de quien aprende y no manipularla. Esta página cubre el campo y su evidencia; la [[affective-tutoring|tutoría afectiva]] cubre cómo debe actuar un tutor ante una lectura del afecto, y la [[sensor-and-gaze-analytics|analítica de sensores y mirada]] cubre qué pueden sostener las señales mismas.
+La computación afectiva se sitúa en la intersección de la [[affective-tutoring|tutoría afectiva]] (su aplicación pedagógica), el [[student-modeling|modelado del estudiante]] (representar a la persona que aprende en su conjunto, incluida la emoción) y la [[learning-analytics|analítica del aprendizaje]] (obtener señales a partir de los datos de quien aprende). Se conecta con el diseño de la [[intelligent-tutoring|tutoría inteligente]] y con la [[pedagogical-safety|seguridad pedagógica]], el principio de que la IA debe apoyar la emoción de quien aprende y no manipularla. La detección del afecto es distinta de la pedagogía a la que alimenta: la [[affective-tutoring|tutoría afectiva]] cubre cómo debe actuar un tutor ante una lectura del afecto, y la [[sensor-and-gaze-analytics|analítica de sensores y mirada]] cubre qué pueden sostener las señales mismas.
 
 - **Monitorización emocional del aula en tiempo real y en el borde.** [[emotion-aware-classroom-iot-monitoring-2026|Nguyen et al. (2026)]] construyen un sistema de evaluación de la calidad del aula consciente de las emociones que lleva la computación afectiva a entornos auténticos y a gran escala. Diseñado para **dispositivos IoT/de borde**, el sistema aborda el equilibrio de carga y la latencia mientras coordina varios agentes para capturar en tiempo real los patrones emocionales y de implicación del estudiantado. Se evaluó con el **Classroom Emotion Dataset** (1.500 imágenes etiquetadas y 300 vídeos de aula procedentes de aulas reales vietnamitas de K-12), con un enfoque en la interacción afectiva con varias personas y en condiciones reales: una demostración de cómo escalar el reconocimiento de emociones desde modelos de laboratorio hasta una monitorización desplegable en el aula, junto con las consideraciones de privacidad y de [[pedagogical-safety|seguridad pedagógica]] que plantea esa monitorización.
 

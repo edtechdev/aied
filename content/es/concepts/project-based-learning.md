@@ -8,7 +8,7 @@ technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-11-12T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ El ABP está estrechamente relacionado con el [[active-learning|aprendizaje acti
 
 El aprendizaje basado en proyectos está estrechamente relacionado con —pero es distinto de— el [[problem-based-learning|aprendizaje basado en problemas]]: ambos están centrados en quien aprende y guiados por el contexto, pero el aprendizaje basado en problemas se centra en un *problema* mal estructurado cuya solución requiere indagación y construcción de conocimiento, mientras que el aprendizaje basado en proyectos se centra en producir un *proyecto* o artefacto tangible. Los dos se confunden con frecuencia, y muchos marcos de IA en educación recurren a ambos (véase la página sobre el [[problem-based-learning|aprendizaje basado en problemas]] para su tratamiento en la era de la IA).
 
-### Cómo aparece el ABP en la investigación de la base de conocimientos
+### Cómo aparece el ABP en la investigación
 
 - **Proyectos de robótica:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] presenta un enfoque ágil, que abarca todo un semestre y basado en proyectos, para enseñar robótica en un programa aplicado de [[cs-education|informática]], abordando la brecha teoría-práctica.
 - **El Enfoque por Proyectos en la primera infancia con agentes de IA:** [[creative-project-approach-ai-early-childhood-2025|Yang, Li y Lee (2025)]] extienden la forma fundacional del ABP —el Enfoque por Proyectos (Katz y Chard), una investigación colaborativa prolongada sobre un tema del mundo real— a la [[early-childhood-elementary-ai-education|primera infancia]], y proponen un **Enfoque por Proyectos Creativo** en cinco pasos que integra [[agentic-ai|agentes de IA]] y [[educational-robotics|robots]] (robots de programación y robots sociales generativos) en los proyectos para fomentar el [[creativity|aprendizaje creativo]] de los niños más pequeños. Los cinco pasos —identificar las necesidades de aprendizaje, facilitar la interacción niño-robot guiada por el [[teacher-role|docente]], situar la IA en contextos, calibrar el equilibrio entre automatización y creatividad, y evaluar los resultados— mantienen al docente como facilitador que guía la indagación, y sitúan el ABP como el vehículo natural para el uso de la IA apropiado al desarrollo con quienes aprenden en la edad más temprana.

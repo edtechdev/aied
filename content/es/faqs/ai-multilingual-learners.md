@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -55,7 +55,7 @@ Escriba la decisión donde los estudiantes puedan leerla. Si pueden traducir las
 
 ## Lo que respalda la investigación y lo que no
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez y Arabadzhy (2026)]] revisaron 24 estudios empíricos sobre [[conversational-ai|chatbots]] generativos en el [[language-learning|aprendizaje de idiomas]]. Su aportación es taxonómica: cada subposibilidad catalogada para los chatbots pregenerativos persiste, y tres son nuevas, entre ellas el **translenguaje**, el movimiento deliberado entre idiomas como parte del aprendizaje. Eso es un mapa de usos y experiencias informados y no una estimación agrupada, y el corpus está concentrado geográficamente: China, Irán, Taiwán y Türkiye suman 19 de los 24 estudios, y todos menos un conjunto se sitúan en instituciones formales. El respaldo al uso de la explicación entre lenguas como movimiento de aprendizaje no es respaldo a traducir cada tarea.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez y Arabadzhy (2026)]] revisaron 24 estudios empíricos sobre [[conversational-ai|chatbots]] generativos en el [[language-learning|aprendizaje de idiomas]]. Su aportación es taxonómica: cada subposibilidad catalogada para los chatbots pregenerativos persiste, y tres son nuevas, entre ellas el **translenguaje**, el movimiento deliberado entre idiomas como parte del aprendizaje. Eso es un mapa de usos y experiencias informados y no una estimación agrupada, y los estudios están concentrados geográficamente: China, Irán, Taiwán y Türkiye suman 19 de los 24 estudios, y todos menos un conjunto se sitúan en instituciones formales. El respaldo al uso de la explicación entre lenguas como movimiento de aprendizaje no es respaldo a traducir cada tarea.
 
 La evaluación es donde la evidencia se vuelve más nítida y suben las consecuencias. [[ai-scoring-language-bias-physics|Feser y Tschisgale (2026)]] compararon once enfoques de puntuación automatizada con puntuaciones de expertos humanos para las explicaciones de física de 116 estudiantes de secundaria y encontraron una subestimación sistemática de la comprensión conceptual en las explicaciones lingüísticamente más débiles, en todos y cada uno de los enfoques. El diseño aísla el mecanismo: el mismo contenido conceptual, expresado en prosa más débil, puntuó más bajo. No es una afirmación sobre los estudiantes multilingües de ningún país concreto, y es exactamente el patrón que hace de la concordancia global de puntuación un mal diagnóstico. Un calificador puede coincidir con los evaluadores humanos en promedio mientras se equivoca en una dirección consistente con los estudiantes cuyo idioma aún está en desarrollo.
 
@@ -77,7 +77,7 @@ Son usos que hay que pilotar, no intervenciones validadas. Una herramienta que f
 
 ## Proteja el significado y la voz del estudiante
 
-Pida ayuda específica antes de pedir una reescritura, porque una reescritura completa es donde el pensamiento del estudiante se va de la página. Una petición que vale la pena enseñar: «Identifica dos lugares donde mi significado no está claro. Explica el problema y ofrece opciones. Conserva mis ejemplos y no añadas afirmaciones». Después el estudiante elige.
+Pida ayuda específica antes de pedir una reescritura, porque una reescritura completa es donde el pensamiento del estudiante se va del borrador. Una petición que vale la pena enseñar: «Identifica dos lugares donde mi significado no está claro. Explica el problema y ofrece opciones. Conserva mis ejemplos y no añadas afirmaciones». Después el estudiante elige.
 
 Una secuencia que mantiene el trabajo con el estudiante:
 

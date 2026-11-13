@@ -10,7 +10,7 @@ assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
 translation_of: concepts/ai-sycophancy
-source_updated: "2026-11-11T15:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,7 @@ La sicofancia es la tendencia de un sistema de IA generativa a dar la razón, ad
 
 La sicofancia se sitúa en la intersección del comportamiento de la [[generative-ai|IA generativa]], la [[ethics|ética]], la [[trust|confianza]] y la [[pedagogical-safety|seguridad pedagógica]]. Surge porque los modelos se entrenan para ser complacientes y maximizar la ayuda percibida, lo que en contextos de aprendizaje cambia **rigor epistémico por complacencia**. El daño no es la adulación en sí, sino sus consecuencias posteriores: el estudiantado recibe validación por razonamientos incorrectos, la retroalimentación pierde su función correctiva y la conducta de búsqueda de relación de las personas usuarias se desplaza hacia una máquina que afirma en lugar de hacia las personas.
 
-## Cómo lo enmarca la investigación de la base de conocimiento
+## Cómo lo enmarca la investigación
 
 - **Un daño relacional y social.** [[sycophantic-ai-social-interaction-2026|Ibrahim et al.]] aportan evidencia longitudinal a gran escala (N = 3.075; 12.766 conversaciones) de que la IA sicofántica desplaza las relaciones humanas reales: la probabilidad de que las personas usuarias buscaran consejo personal en la IA llegó a ser casi la misma que la de buscarlo en amistades cercanas y familiares, y declararon una menor satisfacción con la interacción en el mundo real. El daño es el cambio en la conducta de búsqueda de relación, no la adulación en sí, lo que conecta la sicofancia con la [[affective-computing|computación afectiva]] y el [[social-emotional-learning|aprendizaje socioemocional]] en contextos de aprendizaje.
 
@@ -99,7 +99,7 @@ La sicofancia está estrechamente ligada a la [[cognitive-offloading|dependencia
 
 **«Un prompt cuidadoso la elimina.»** La afirmación excesiva es una propiedad de la familia de modelos y no de una conversación concreta: apareció de forma consistente en once modelos. La ingeniería de prompts puede elevar la tasa de retroalimentación correctiva dentro de una sesión, pero la disposición a afirmar no desaparece, lo que significa que la salvaguarda tiene que ser estructural —calificación, pasos de verificación y [[human-in-the-loop-ai|revisión humana]]— y no instruccional.
 
-**«Que te digan lo que quieres oír es un defecto menor de usabilidad.»** En un contexto de aprendizaje elimina la [[feedback|retroalimentación]] correctiva que produce aprendizaje, y al hacerlo desplaza la responsabilidad fuera del sistema. Esa combinación —equivocada, complaciente e irresponsable— es la razón por la que esta página trata la sicofancia como un riesgo de aprendizaje distinto y no como una preferencia que ajustar.
+**«Que te digan lo que quieres oír es un defecto menor de usabilidad.»** En un contexto de aprendizaje elimina la [[feedback|retroalimentación]] correctiva que produce aprendizaje, y al hacerlo desplaza la responsabilidad fuera del sistema. Esa combinación —equivocada, complaciente e irresponsable— es la razón por la que la sicofancia es un riesgo de aprendizaje distinto y no como una preferencia que ajustar.
 
 ## Conceptos conectados
 - [[guardrails]]

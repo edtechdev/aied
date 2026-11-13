@@ -9,7 +9,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/behaviorism
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,8 +26,8 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - El conductismo trata el aprendizaje como un cambio en la conducta observable impulsado por el estímulo-respuesta y el refuerzo, y no por estados mentales internos. Antes de leer, ¿qué experiencias educativas de su propio pasado se construyeron sobre la recompensa, la repetición y la retroalimentación inmediata? ¿En qué acertaron y qué pudieron haber pasado por alto?
-- Un hallazgo sorprendente de esta página es que, incluso cuando el discurso educativo defiende teorías constructivistas ricas, las implementaciones reales de IA son predominantemente conductistas: práctica repetitiva, retroalimentación inmediata, ritmo adaptativo. ¿Por qué cree que la mecánica conductista domina en la práctica a pesar de estar pasada de moda en la teoría?
-- La página advierte de una «trampa de Turing» educativa: usar la IA para replicar en lugar de aumentar la instrucción humana. Si un sistema de IA optimiza las respuestas correctas y la eficiencia, ¿qué podría estar optimizando silenciosamente hasta hacerlo desaparecer en la construcción activa de conocimiento de quien aprende?
+- Un hallazgo sorprendente es que, incluso cuando el discurso educativo defiende teorías constructivistas ricas, las implementaciones reales de IA son predominantemente conductistas: práctica repetitiva, retroalimentación inmediata, ritmo adaptativo. ¿Por qué cree que la mecánica conductista domina en la práctica a pesar de estar pasada de moda en la teoría?
+- El campo advierte de una «trampa de Turing» educativa: usar la IA para replicar en lugar de aumentar la instrucción humana. Si un sistema de IA optimiza las respuestas correctas y la eficiencia, ¿qué podría estar optimizando silenciosamente hasta hacerlo desaparecer en la construcción activa de conocimiento de quien aprende?
 - Los diseños conductistas se describen como potentes para la fluidez básica —vocabulario, aritmética, sintaxis de código— pero inadecuados por sí solos para el aprendizaje de orden superior, conceptual o agéntico. ¿En qué parte de su propio aprendizaje ayudaría una IA de práctica repetitiva, y en cuál perjudicaría activamente?
 - La pregunta de diseño que se plantea no es si el conductismo es «correcto», sino si la mecánica de un sistema dado sirve al objetivo de aprendizaje. ¿Cómo distinguiría si el diseño de retroalimentación inmediata y ritmo adaptativo de un tutor de IA está construyendo una comprensión transferible genuina o solo haciendo que el desempeño observable parezca bueno?
 

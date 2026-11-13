@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T13:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introducción
 
-El diseño curricular aborda el *qué* de la educación en el nivel del programa, y complementa el [[learning-design|diseño del aprendizaje]], que aborda el *cómo* en el nivel del curso. Los artículos de esta base de conocimiento exploran cómo la IA está reconfigurando los currículos en distintas disciplinas, desde la ingeniería del software hasta la arquitectura o la educación verde, y cómo el personal docente diseña currículos que integran la alfabetización en IA sin sacrificar los fundamentos disciplinares.
+El diseño curricular aborda el *qué* de la educación en el nivel del programa, y complementa el [[learning-design|diseño del aprendizaje]], que aborda el *cómo* en el nivel del curso. La investigación explora cómo la IA está reconfigurando los currículos en distintas disciplinas, desde la ingeniería del software hasta la arquitectura o la educación verde, y cómo el personal docente diseña currículos que integran la alfabetización en IA sin sacrificar los fundamentos disciplinares.
 
 ## Temas clave de investigación
 
@@ -51,6 +51,8 @@ Al revisar el cambio como algo sistémico y no aditivo, [[rewriting-curriculum-g
 La ponderación cambia lo que reporta un análisis curricular: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]] hicieron que GPT-o3-mini distribuyera el 100% entre siete habilidades empresariales para cada una de 48 evaluaciones, alcanzando un alfa de Krippendorff de 0,81 frente a las ponderaciones de personas expertas, pero la concordancia se volvió negativa en las habilidades que las descripciones nunca declaran explícitamente (-0,19).
 
 **La estructura modular sobrevive al contenido actual.** Un patrón se repite allí donde el campo avanza más rápido que el ciclo de revisión: un núcleo estable de [[ai-literacy|alfabetización en IA]], evaluación crítica, detección de sesgos y [[ethics|ética]], con contenidos sobre herramientas especializadas y disponibles localmente adjuntos como módulos y revisados cada seis o doce meses ([[bursic-ai-residency-education-curriculum-2026|Bursic et al. (2026)]]). La [[medical-education|educación médica]] de posgrado es el caso declarado, pero el principio se generaliza: el programa se compromete con competencias que sobreviven a la rotación de herramientas y programa la capa específica de cada herramienta para su sustitución.
+
+**El contenido ético necesita un marco para afrontarlo, no solo concienciación.** Entre 584 estudiantes universitarios sin currículo de IA, la competencia elevó la conciencia ética (β = 0,644), que a su vez elevó la ansiedad (β = 0,439); nombrar los problemas sin enseñar cómo se gobiernan convierte la conciencia en el factor de estrés ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]).
 
 **La integración de la alfabetización en IA** integra competencias en IA en todas las disciplinas. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** ofrece un marco de alfabetización en IA andamiado y aplicable a todas las edades y etapas educativas, que aborda las [[digital-divide|brechas digitales]] de segundo y tercer nivel. **[[tracing-genai-literacy-interaction-patterns]]** examina cómo se desarrolla la alfabetización en IA a través de patrones de interacción. **[[hingle-collaborative-ai-literacy-2025]]** explora enfoques colaborativos para el desarrollo de currículos de alfabetización en IA, en conexión con el [[collaborative-learning|aprendizaje colaborativo]].
 

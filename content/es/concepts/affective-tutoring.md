@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-11-04T13:20:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 ## Introducción
 
-La tutoría afectiva es la mitad pedagógica de la [[affective-computing|computación afectiva]]: una vez que un sistema tiene alguna lectura del estado emocional de quien aprende, ¿qué debería hacer con esa lectura? La pregunta de diseño no es cómo detectar la frustración, sino qué cambiar una vez que se cree haberla detectado: el ritmo, el nivel de las pistas, el tono de la retroalimentación o si conviene detenerse y atender a la emoción misma. Esta página abarca esa capa de decisión: las estrategias con las que los tutores asignan el afecto, la evidencia de que ayudan y las razones por las que pueden volverse en contra. No trata de la empatía de quien aprende, que es un resultado distinto con una base de evidencia distinta ([[empathy|empatía]]), ni de cómo se percibe el afecto ([[sensor-and-gaze-analytics|la analítica de sensores y de la mirada]]).
+La tutoría afectiva es la mitad pedagógica de la [[affective-computing|computación afectiva]]: una vez que un sistema tiene alguna lectura del estado emocional de quien aprende, ¿qué debería hacer con esa lectura? La pregunta de diseño no es cómo detectar la frustración, sino qué cambiar una vez que se cree haberla detectado: el ritmo, el nivel de las pistas, el tono de la retroalimentación o si conviene detenerse y atender a la emoción misma. Esa capa de decisión es el tema: las estrategias con las que los tutores asignan el afecto, la evidencia de que ayudan y las razones por las que pueden volverse en contra. No trata de la empatía de quien aprende, que es un resultado distinto con una base de evidencia distinta ([[empathy|empatía]]), ni de cómo se percibe el afecto ([[sensor-and-gaze-analytics|la analítica de sensores y de la mirada]]).
 
 El ejemplo práctico más claro es MathBuddy, que modela el afecto del estudiantado a partir de dos modalidades:
 

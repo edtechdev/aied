@@ -14,7 +14,7 @@ confidence: medium
 connected_resources: [public-ai-libraries]
 updated: "2026-11-12T22:30:00-05:00"
 translation_of: "concepts/libraries"
-source_updated: "2026-11-12T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,15 +37,15 @@ ai_assist:
 
 ## Introducción
 
-La biblioteca es la parte del sistema educativo que siempre ha estado en el negocio del acceso a la información, y por eso la IA llega allí menos como novedad que como un cambio en la cadena de suministro. Dos literaturas se encuentran en esta página. Una estudia las bibliotecas como adoptantes: qué están haciendo con la IA, qué las detiene y cómo se distribuye el trabajo entre servicios técnicos, referencia, colecciones, circulación, instrucción y desarrollo del personal. La otra estudia las bibliotecas como infraestructura: el lugar donde el estudiantado y el público se encuentran con la búsqueda, y por tanto donde un desplazamiento de la búsqueda a la síntesis se siente primero.
+La biblioteca es la parte del sistema educativo que siempre ha estado en el negocio del acceso a la información, y por eso la IA llega allí menos como novedad que como un cambio en la cadena de suministro. Dos literaturas se encuentran en el estudio de las bibliotecas. Una estudia las bibliotecas como adoptantes: qué están haciendo con la IA, qué las detiene y cómo se distribuye el trabajo entre servicios técnicos, referencia, colecciones, circulación, instrucción y desarrollo del personal. La otra estudia las bibliotecas como infraestructura: el lugar donde el estudiantado y el público se encuentran con la búsqueda, y por tanto donde un desplazamiento de la búsqueda a la síntesis se siente primero.
 
-La página es deliberadamente distinta de [[librarians|Bibliotecarios]], que cubre a las personas y su papel profesional, y de [[information-and-media-literacy|Alfabetización informacional y mediática]], que cubre el constructo que enseñan. Esta página trata de la institución: sus servicios, sus sistemas, su modelo de personal y su obligación pública.
+El tema es deliberadamente distinto de [[librarians|Bibliotecarios]], que cubre a las personas y su papel profesional, y de [[information-and-media-literacy|Alfabetización informacional y mediática]], que cubre el constructo que enseñan. El foco es la institución: sus servicios, sus sistemas, su modelo de personal y su obligación pública.
 
 ## Cómo entra la IA en las operaciones bibliotecarias
 
 Una [[meta-analysis-systematic-review|revisión sistemática]] de 29 estudios publicados entre 2020 y 2024 organiza la adopción de IA en seis dimensiones —servicios técnicos, servicios de referencia e información, servicios administrativos y circulación, desarrollo de colecciones, alfabetización informacional y educación de usuarios, y [[educational-development|desarrollo profesional]] y colaboración— y encuentra el centro de gravedad en la referencia: la IA para responder preguntas direccionales y de referencia inmediata aparece en el 34,48% de los estudios revisados, con la catalogación y la referencia transcrita de chats a continuación, con un 27,58% cada una ([[ayinde-ai-academic-libraries-systematic-review-2026|Ayinde, Ebiefung y Oladokun, 2026]]). La misma revisión registra lo que la literatura sobre adopción suele suavizar: la financiación se nombra como barrera crítica en el 48,28% de los estudios, las brechas de habilidades técnicas y la mala calidad de los datos en el 58,62%, y el miedo a perder el empleo en el 13,79%.
 
-La distribución importa porque describe una biblioteca que automatiza las partes de su trabajo que ya eran transaccionales —la pregunta direccional, el registro del catálogo, la transcripción del chat— mientras el trabajo con alta carga de juicio sigue siendo humano. Eso es coherente con la evidencia instruccional que aparece en otras partes de la base de conocimiento: una bibliotecaria integrada a la que se consultaba cuando un recomendador tenía menos confianza atendía sobre todo preguntas de evaluación de fuentes, no preguntas de localización ([[ai-assisted-seminar-learning-information-literacy-2026|Huang, 2026]]).
+La distribución importa porque describe una biblioteca que automatiza las partes de su trabajo que ya eran transaccionales —la pregunta direccional, el registro del catálogo, la transcripción del chat— mientras el trabajo con alta carga de juicio sigue siendo humano. Eso es coherente con la evidencia instruccional: una bibliotecaria integrada a la que se consultaba cuando un recomendador tenía menos confianza atendía sobre todo preguntas de evaluación de fuentes, no preguntas de localización ([[ai-assisted-seminar-learning-information-literacy-2026|Huang, 2026]]).
 
 ## La capa de búsqueda se mueve
 

@@ -11,7 +11,7 @@ technology: [generative-ai, learning-analytics, affective-computing]
 assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
-source_updated: "2026-11-12T15:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-not-to-do-ai-education
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -24,7 +24,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-La mayor parte de las orientaciones sobre la IA en la educación dice qué hay que probar. Esta página reúne las prácticas que la evidencia indica que hay que dejar de hacer, ordenadas por el rol que tendría que abandonarlas. Las creencias falsas se tratan en otro lugar: la [[addressing-common-misconceptions-ai-education|FAQ sobre concepciones erróneas]] se ocupa de ellas, y la página de concepto [[misconceptions]] explica por qué persisten. Lo que la investigación todavía no puede decirle pertenece a los [[limitations-in-aied-research|límites de la investigación en AIEd]]. Lo que sigue aquí es el paso posterior a la creencia, es decir, lo que las personas hacen, lo que cuesta y qué hacer en su lugar.
+La mayor parte de las orientaciones sobre la IA en la educación dice qué hay que probar. Las prácticas que la evidencia indica que hay que dejar de hacer están ordenadas por el rol que tendría que abandonarlas. Las creencias falsas se tratan en otro lugar: la [[addressing-common-misconceptions-ai-education|FAQ sobre concepciones erróneas]] se ocupa de ellas, y la página de concepto [[misconceptions]] explica por qué persisten. Lo que la investigación todavía no puede decirle pertenece a los [[limitations-in-aied-research|límites de la investigación en AIEd]]. Lo que sigue aquí es el paso posterior a la creencia, es decir, lo que las personas hacen, lo que cuesta y qué hacer en su lugar.
 
 Tres fallos se repiten en todos los roles.
 

@@ -1,14 +1,14 @@
 ---
 title: Investigación longitudinal
 created: "2026-11-12T22:30:00-05:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T14:20:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
 methods: [longitudinal-research, research-methods-aied, quantitative-research]
 contributors: [editor]
 translation_of: concepts/longitudinal-research
-source_updated: "2026-11-12T14:28:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -34,15 +34,15 @@ ai_assist:
 
 La investigación longitudinal es una familia de diseños y no un método único: encuestas repetidas a la misma cohorte, estudios de panel, modelos de curva de crecimiento, comparaciones de cohortes, muestreo de experiencias y análisis de datos de registro que se acumulan a lo largo de un semestre. Lo que las une es la unidad de análisis —la misma persona, aula o institución observada más de una vez— y la ganancia inferencial que se sigue de ello.
 
-Esa ganancia se exagera a menudo. El corpus contiene un centenar largo de artículos que se describen como longitudinales, y van de análisis de tendencia de cuatro semestres a una única comparación pre/post. La etiqueta se ha convertido en una señal de calidad, lo que hace que valga la pena precisar qué respalda cada diseño. Una encuesta repetida puede mostrar que una distribución se movió. Un modelo de panel puede mostrar que una persona se movió respecto a su propia línea base. Un modelo de crecimiento puede mostrar que la tasa de movimiento difiere entre personas y que dos procesos se mueven juntos. Solo algunos diseños con una medida de resultado en ambos extremos pueden empezar a abordar si la herramienta causó el cambio.
+Esa ganancia se exagera a menudo. Un centenar largo de artículos se describen como longitudinales, y van de análisis de tendencia de cuatro semestres a una única comparación pre/post. La etiqueta se ha convertido en una señal de calidad, lo que hace que valga la pena precisar qué respalda cada diseño. Una encuesta repetida puede mostrar que una distribución se movió. Un modelo de panel puede mostrar que una persona se movió respecto a su propia línea base. Un modelo de crecimiento puede mostrar que la tasa de movimiento difiere entre personas y que dos procesos se mueven juntos. Solo algunos diseños con una medida de resultado en ambos extremos pueden empezar a abordar si la herramienta causó el cambio.
 
-El resto de esta página expone qué establecen realmente los estudios longitudinales más sólidos del corpus, a qué familias de diseño pertenecen y las amenazas que más a menudo los socavan en la investigación sobre IA en particular.
+Los estudios más sólidos establecen menos de lo que sugieren sus etiquetas, y las familias de diseño difieren en lo que cada una puede respaldar.
 
 ## Cambio intrapersonal frente a diferencia interpersonal
 
 La distinción que hace más trabajo es la que hay entre un rasgo estable y un estado específico de la ocasión. Xu (2026) midió la [[feedback-literacy|alfabetización en retroalimentación de IA]] y la [[student-engagement|implicación agéntica]] en 480 estudiantes universitarios chinos tres veces con intervalos de seis semanas, y usó un modelo de panel cruzado con intercepto aleatorio para separar los dos niveles. La correlación del rasgo estable fue r = 0,315 (p < 0,001); las rutas cruzadas intrapersonales contaron otra historia sobre qué constructo se movió primero. Sin esa separación, una correlación transversal entre ambos se habría presentado como evidencia de una relación, y habría sido ambigua: las personas que en general están más alfabetizadas en retroalimentación pueden también estar en general más implicadas, sin que ninguna de las dos cosas cambie a la otra.
 
-Esta es la contribución central del diseño. La mayoría de las preguntas de este corpus —si la retroalimentación de IA construye implicación, si la dependencia erosiona la autorregulación, si el uso predice el bienestar— son preguntas sobre el cambio, y una sola medición no puede responder a una pregunta sobre el cambio por grande que sea la muestra.
+Esta es la contribución central del diseño. La mayoría de las preguntas de esta literatura —si la retroalimentación de IA construye implicación, si la dependencia erosiona la autorregulación, si el uso predice el bienestar— son preguntas sobre el cambio, y una sola medición no puede responder a una pregunta sobre el cambio por grande que sea la muestra.
 
 ## Trayectorias y qué covaría con ellas
 
@@ -52,7 +52,7 @@ El hallazgo es correlacional respecto a las pendientes y no causal respecto a la
 
 ## Tendencias de adopción y actitud
 
-Una tercera familia sigue a una población y no a un proceso de crecimiento. Parker, Loper, Carter, Hayes y Karakas analizaron cuatro semestres de datos de encuesta de más de 300 estudiantes de un programa de [[teacher-education|formación docente]] del Medio Oeste estadounidense, siguiendo el uso de IA generativa y las percepciones éticas tras el lanzamiento de ChatGPT. El uso creció sustancialmente —la preparación de evaluaciones del 57% al 83%, el estudio del 44% al 76%— mientras las posturas éticas se volvieron más inciertas en lugar de asentarse, y las percepciones difirieron por subgrupo.
+Una tercera familia sigue a una población y no a un proceso de crecimiento. Parker, Loper, Carter, Hayes y Karakas analizaron cuatro semestres de datos de encuesta de más de 300 estudiantes de un programa de [[teacher-education|formación docente]] del Medio Oeste estadounidense, siguiendo el uso de IA generativa y las percepciones éticas tras el lanzamiento de ChatGPT. El uso creció sustancialmente: la preparación de evaluaciones del 57% al 83%, el estudio del 44% al 76%, mientras las posturas éticas se volvieron más inciertas en lugar de asentarse, y las percepciones difirieron por subgrupo.
 
 Este es un diseño transversal repetido: el mismo programa, no necesariamente los mismos estudiantes. Establece una tendencia en una población, que es exactamente lo que necesita una pregunta de política, y no puede establecer el cambio individual. La distinción importa cuando la tendencia se lee como desarrollo: un aumento del uso declarado entre semestres puede reflejar cohortes nuevas que entran con normas distintas tanto como estudiantes que cambian.
 
@@ -83,11 +83,23 @@ Cuatro problemas se repiten, y los dos últimos son específicos de este campo.
 
 **Desempeño asistido confundido con aprendizaje.** Una ganancia medida con la herramienta disponible puede mostrar lo que quien aprende puede hacer con apoyo, no lo que ha interiorizado. La distinción es la misma que separa el [[scaffolding|andamiaje]] del desarrollo, y los diseños longitudinales no la resuelven a menos que las oleadas posteriores incluyan una medida sin asistencia.
 
+## Implicaciones para la práctica
+
+El profesorado puede dejar de leer una única encuesta de fin de semestre como prueba de que un cambio funcionó. Una distribución que se movió entre dos semestres puede reflejar una cohorte nueva, un régimen de evaluación nuevo o un instrumento que perdió su novedad. Comparar al mismo estudiantado con sus propias puntuaciones anteriores responde a una pregunta más estrecha y más útil.
+
+Quienes dirigen programas pueden planificar la evaluación por oleadas. Tres o más mediciones a lo largo de un programa permiten a un departamento estimar una pendiente en lugar de comparar dos puntos, e informar de la atrición en cada oleada evita que un promedio creciente oculte al estudiantado que se marchó.
+
+Quienes desarrollan al profesorado pueden evaluar el desarrollo profesional del mismo modo, con medidas repetidas y al menos una tarea realizada sin la herramienta. Una serie de talleres que eleva la confianza y el uso mientras deja plano el desempeño sin ayuda ha mostrado algo sobre las actitudes, y la distinción merece comunicarse a quienes financian la siguiente serie.
+
+La administración puede registrar qué cambió durante un estudio o un piloto: versiones del modelo, cambios de licencia, actualizaciones de la interfaz. Un semestre es tiempo suficiente para que la herramienta se convierta en otro tratamiento, y dejar constancia es barato comparado con explicar un salto que nadie entiende.
+
+Quien investiga puede mantener dos afirmaciones separadas en su propia escritura. El orden temporal respalda la precedencia, no la causalidad, y un par pre/post es un diseño de medidas repetidas y no una trayectoria.
+
 ## Lo que los diseños longitudinales no pueden hacer
 
-No establecen causalidad por sí solos. El orden temporal es necesario pero no suficiente: una variable no medida que cambia con el mismo calendario —un nuevo régimen de evaluación, una reforma curricular, un efecto de cohorte— puede producir el mismo patrón. Son costosos en tiempo de los participantes, lo que limita los tamaños de muestra y a menudo obliga al autoinforme. Y un semestre es corto: las preguntas evolutivas, en el sentido en que [[developmental-psychology|la psicología del desarrollo]] usa el término, necesitan años, y casi nada en este corpus los abarca.
+No establecen causalidad por sí solos. El orden temporal es necesario pero no suficiente: una variable no medida que cambia con el mismo calendario —un nuevo régimen de evaluación, una reforma curricular, un efecto de cohorte— puede producir el mismo patrón. Son costosos en tiempo de los participantes, lo que limita los tamaños de muestra y a menudo obliga al autoinforme. Y un semestre es corto: las preguntas evolutivas, en el sentido en que [[developmental-psychology|la psicología del desarrollo]] usa el término, necesitan años, y casi nada en esta literatura los abarca.
 
-## Cómo aparece en la base de conocimiento
+## Cómo aparece en la investigación
 
 Los ejemplos más sólidos se concentran en la educación superior, donde un semestre ofrece un marco natural: el panel de tres oleadas de Xu, el modelo de crecimiento de cinco oleadas de Zhang y Tang, el semestre de datos de autorregulación de Song, el cuasiexperimento de nueve semanas de Melanou. La formación docente aporta el estudio de tendencia. El trabajo longitudinal a nivel escolar es más escaso, y el artículo sobre el LMS de secundaria que lleva «longitudinal» en su slug es una propuesta de diseño y no un estudio longitudinal: un recordatorio de que la etiqueta en un título no es el diseño.
 

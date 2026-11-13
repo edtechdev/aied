@@ -10,7 +10,7 @@ level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-10T21:15:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -30,9 +30,9 @@ ai_assist:
 
 ## Preguntas para reflexionar
 
-- La página distingue dos vías: «IA para la sostenibilidad» (usar la IA para impulsar resultados de sostenibilidad) e «IA sostenible» (reducir la propia huella ambiental y ética de la IA). ¿Se le ocurre una forma en que una herramienta de IA podría impulsar un objetivo y a la vez socavar el otro?
+- El campo separa dos vías: «IA para la sostenibilidad» e «IA sostenible». ¿Se le ocurre una forma en que una herramienta de IA podría impulsar un objetivo y a la vez socavar el otro?
 - Entrenar y ejecutar [[llm|modelos de lenguaje grandes]] conlleva una huella real de carbono y agua. Cuando una institución promueve la sostenibilidad como valor mientras despliega IA intensiva en energía, ¿qué tensiones surgen y quién debería ponderarlas?
-- Antes de seguir leyendo, ¿cómo definiría la «educación sostenible»? La página la trata como un proyecto basado en valores y centrado en las personas, distinto de usar la educación como instrumento para la sostenibilidad; ¿en qué se diferencian?
+- Antes de seguir leyendo, ¿cómo definiría la «educación sostenible»? Se la trata como un proyecto basado en valores y centrado en las personas, distinto de usar la educación como instrumento para la sostenibilidad; ¿en qué se diferencian?
 - Si se espera que la educación construya la «conciencia de sostenibilidad» de quienes aprenden, ¿qué papel podría desempeñar la IA en ello, y podría la integración de la IA en el currículo enseñar sostenibilidad mientras su propia huella contradice silenciosamente la lección?
 - ¿Qué significaría que una institución educativa fuera genuinamente sostenible en su uso de la IA, y cuáles de sus decisiones (compra, despliegue, docencia) cree que importan más?
 
@@ -44,7 +44,7 @@ La vía ambiental tiene una laguna documentada: [[gillette-partnership-ethics-ge
 
 ## La taxonomía en dos partes
 
-La cobertura de la base de conocimiento, anclada en [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]], organiza el campo en dos vías interconectadas pero distintas:
+La revisión de alcance de [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]] organiza el campo en dos vías interconectadas pero distintas:
 
 - **IA para la sostenibilidad** — usar la IA para impulsar resultados de sostenibilidad. En educación esto incluye la IA para la gestión energética, la vigilancia climática, los programas de campus verdes y los currículos integrados con IA que construyen la conciencia de sostenibilidad de quienes aprenden (por ejemplo, el marco AI-SEE para la [[engineering-education|educación en ingeniería]] sostenible). Se fundamenta en la agenda global de la educación para el desarrollo sostenible.
 - **IA sostenible** — reducir los impactos ambientales y éticos directos de la propia IA. Esto abarca la huella de carbono y de agua de los modelos de lenguaje grandes, el despliegue energéticamente eficiente y en servidores propios, y los marcos éticos y de gobernanza necesarios para garantizar que el uso de la IA en la educación sea en sí mismo responsable y sostenible.
@@ -71,7 +71,7 @@ Una línea relacionada enmarca la sostenibilidad no solo como una preocupación 
 
 ## Conexiones con otros conceptos
 
-La sostenibilidad y la IA en la educación se sitúan en la intersección de la [[ethics|ética]], la [[governance|gobernanza]], la [[ai-education|IA en la educación]] y las ciencias ambientales y energéticas. Se apoya en la [[teacher-education|formación del profesorado]] y el [[teacher-role|rol docente]] para el desarrollo de capacidades, en el [[learning-design|diseño del aprendizaje]] para la pedagogía, y conecta con el tratamiento que hace la base de conocimiento de la [[cognitive-offloading|descarga cognitiva]] y el [[critical-thinking|pensamiento crítico]] a través de la lente del «aprendizaje sostenible». Como ambas vías son transversales, la sostenibilidad es un tema fundacional que aparece en la [[higher-ed|educación superior]], en K-12 y en contextos profesionales.
+La sostenibilidad y la IA en la educación se sitúan en la intersección de la [[ethics|ética]], la [[governance|gobernanza]], la [[ai-education|IA en la educación]] y las ciencias ambientales y energéticas. Se apoya en la [[teacher-education|formación del profesorado]] y el [[teacher-role|rol docente]] para el desarrollo de capacidades, en el [[learning-design|diseño del aprendizaje]] para la pedagogía, y conecta la [[cognitive-offloading|descarga cognitiva]] y el [[critical-thinking|pensamiento crítico]] a través de la lente del «aprendizaje sostenible». Como ambas vías son transversales, la sostenibilidad es un tema fundacional que aparece en la [[higher-ed|educación superior]], en K-12 y en contextos profesionales.
 
 ## Concepciones erróneas
 

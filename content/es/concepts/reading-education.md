@@ -12,7 +12,7 @@ level: [primary education, k 12, higher ed]
 confidence: medium
 updated: "2026-11-12T22:30:00-05:00"
 translation_of: "concepts/reading-education"
-source_updated: "2026-11-12T21:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Enseñanza de la lectura** — la enseñanza y la evaluación de la lectura: comprensión, fluidez, vocabulario y motivación para leer, junto con el diseño de textos a la dificultad adecuada para cada lector. En la [[ai-education|educación con IA]] la literatura se despliega en cuatro líneas: herramientas que apoyan a los lectores mientras leen, herramientas que evalúan la lectura, herramientas que adaptan o generan texto para el nivel de un lector, y la cuestión de medición que subyace a las tres anteriores: qué hace difícil un texto y si la **legibilidad** lo capta. Esta página trata la lectura como un dominio propio, distinto del [[language-learning|aprendizaje de lenguas]] (adquirir otra lengua), de la [[english-education|enseñanza del inglés]] (EAP/EFL/ESL, que tiene su propia vertiente de lectura y legibilidad) y de la [[writing-education|escritura]] (componer texto): trata del encuentro del lector con el texto. La evidencia es prometedora pero desigual: varios pilotos, un puñado de instrumentos validados y pocas comparaciones controladas. Donde la base de conocimiento solo tiene un estudio pequeño, esta página lo dice.
+> **Enseñanza de la lectura** — la enseñanza y la evaluación de la lectura: comprensión, fluidez, vocabulario y motivación para leer, junto con el diseño de textos a la dificultad adecuada para cada lector. En la [[ai-education|educación con IA]] la literatura se despliega en cuatro líneas: herramientas que apoyan a los lectores mientras leen, herramientas que evalúan la lectura, herramientas que adaptan o generan texto para el nivel de un lector, y la cuestión de medición que subyace a las tres anteriores: qué hace difícil un texto y si la **legibilidad** lo capta. La lectura es un dominio propio, distinto del [[language-learning|aprendizaje de lenguas]] (adquirir otra lengua), de la [[english-education|enseñanza del inglés]] (EAP/EFL/ESL, que tiene su propia vertiente de lectura y legibilidad) y de la [[writing-education|escritura]] (componer texto): trata del encuentro del lector con el texto. La evidencia es prometedora pero desigual: varios pilotos, un puñado de instrumentos validados y pocas comparaciones controladas. Donde solo existe un estudio pequeño, la evidencia se informa como tal.
 
 ## Preguntas para reflexionar
 
@@ -40,7 +40,7 @@ ai_assist:
 
 ## Introducción
 
-La enseñanza de la lectura en esta base de conocimiento es una vertiente joven. La mayoría de los estudios son pequeños y recientes, y se agrupan en torno al texto más que en torno a los lectores: generar un pasaje, simplificarlo, puntuarlo o juzgar su dificultad. La pregunta que los une es si una máquina puede decir cuán difícil será un texto para un lector concreto, y si puede actuar sobre ese juicio sin eliminar el trabajo que la lectura debe hacer.
+La enseñanza de la lectura es una vertiente joven de la investigación sobre IA en educación. La mayoría de los estudios son pequeños y recientes, y se agrupan en torno al texto más que en torno a los lectores: generar un pasaje, simplificarlo, puntuarlo o juzgar su dificultad. La pregunta que los une es si una máquina puede decir cuán difícil será un texto para un lector concreto, y si puede actuar sobre ese juicio sin eliminar el trabajo que la lectura debe hacer.
 
 Aparecen cuatro líneas de trabajo:
 
@@ -53,7 +53,7 @@ Aparecen cuatro líneas de trabajo:
 
 Leer con [[generative-ai|IA generativa]] produce resultados inconsistentes en comprensión —ganancias en un estudio, ninguna [[transfer-of-learning|transferencia del aprendizaje]] en otro— y el instrumento AIR se construyó sobre la hipótesis de que la varianza está en por qué los lectores recurren a la herramienta. Brann, Etgar y Sidi desarrollaron y validaron una escala de 21 ítems con cuatro motivos: orientado a la tarea, sentirse bien, traducción y bajo esfuerzo ([[air-scale-motivations-ai-reading-2026|Brann et al., 2026]]). Su evidencia proviene de 425 estudiantes británicos de educación superior en la muestra exploratoria y 414 en la confirmatoria, con índices de ajuste de CFI 0,95 y RMSEA 0,056. La distinción importa para la práctica: un lector que usa la herramienta para terminar una tarea está en una postura distinta de quien la usa para evitar el esfuerzo, y el bajo esfuerzo es el motivo que los autores señalan como el que hay que vigilar por el procesamiento superficial.
 
-Ese es un resultado de medición, no un estudio de resultados, y la página mantiene la distinción. Lo que la base de conocimiento aún no contiene es un [[rct|ensayo controlado]] de un compañero de lectura que muestre ganancias duraderas de comprensión.
+Ese es un resultado de medición, no un estudio de resultados, y la distinción importa. Ningún [[rct|ensayo controlado]] de un compañero de lectura muestra aún ganancias duraderas de comprensión.
 
 ## Evaluar la lectura
 
@@ -69,7 +69,7 @@ Dos estudios más amplían la brecha. Bird fusiona la clasificación con transfo
 
 La consecuencia práctica es que una puntuación de nivel de grado es una garantía débil sobre cualquier texto, y una garantía particularmente débil sobre un texto escrito por IA.
 
-La percepción del público objetivo ahora puede medirse directamente. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al., 2025]] recopilaron un conjunto de datos de 3.954 anotaciones de 193 estudiantes alemanes de secundaria que calificaron oraciones de guías de estudio de orientación profesional y de Wikipedia, y encontraron que los lectores discrepaban de la fórmula: el 72,8% de las anotaciones eran muy fáciles o fáciles a pesar de las bajas puntuaciones de Flesch-Reading-Ease del corpus. El análisis SHAP de un modelo basado en perfiles mostró que los rasgos del lector impulsaban esa percepción: la lengua hablada en casa fue el rasgo personal más influyente (0,09), por delante del género (0,08) y de la habilidad autoevaluada en alemán (0,07), de modo que una puntuación de nivel de grado no solo pasa por alto las demandas de procesamiento del texto, sino también de quién es la experiencia de lectura que mide.
+La percepción del público objetivo ahora puede medirse directamente. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al., 2025]] recopilaron un conjunto de datos de 3.954 anotaciones de 193 estudiantes alemanes de secundaria que calificaron oraciones de guías de estudio de orientación profesional y de Wikipedia, y encontraron que los lectores discrepaban de la fórmula: el 72,8% de las anotaciones eran muy fáciles o fáciles a pesar de las bajas puntuaciones de Flesch-Reading-Ease de la muestra. El análisis SHAP de un modelo basado en perfiles mostró que los rasgos del lector impulsaban esa percepción: la lengua hablada en casa fue el rasgo personal más influyente (0,09), por delante del género (0,08) y de la habilidad autoevaluada en alemán (0,07), de modo que una puntuación de nivel de grado no solo pasa por alto las demandas de procesamiento del texto, sino también de quién es la experiencia de lectura que mide.
 
 ## Adaptar y generar texto
 
@@ -85,11 +85,11 @@ La simplificación es la cuarta variante, y su cuello de botella es la evaluaci�
 
 La lectura es también una cuestión de acceso. AIRRI presenta el material de las tareas como imágenes perturbadas para derrotar las canalizaciones de captura de pantalla a [[llm|LLM]], y sus autores informan honestamente del coste en legibilidad: las superposiciones de rayas fueron juzgadas legibles por los cuatro expertos en diseño y tipografía entrevistados, mientras que el error de extracción alcanzó el 100% ([[airri-machine-resistant-reading-interface-2026|Airri et al., 2026]]). El intercambio entre legibilidad para la máquina y legibilidad para la persona es una decisión de diseño con un precio en accesibilidad.
 
-Para estudiantes con dislexia, una revisión guiada por [[meta-analysis-systematic-review|PRISMA]] de 72 estudios de 2018 a 2024 encuentra que la IA se usa para la detección, el [[assistive-technology|apoyo asistivo]] y el [[personalized-learning|aprendizaje personalizado]], pero con una base de evidencia fragmentada y poca validación experimental; la IA generativa está mínimamente representada ([[dabaghi-ai-dyslexia-education-review-2026|Dabaghi et al., 2026]]). La dificultad de lectura es donde la [[neurodiversity|neurodiversidad]] y la [[accessibility|accesibilidad]] se encuentran con la agenda general de la lectura, y la página no las trata como un tema aparte.
+Para estudiantes con dislexia, una revisión guiada por [[meta-analysis-systematic-review|PRISMA]] de 72 estudios de 2018 a 2024 encuentra que la IA se usa para la detección, el [[assistive-technology|apoyo asistivo]] y el [[personalized-learning|aprendizaje personalizado]], pero con una base de evidencia fragmentada y poca validación experimental; la IA generativa está mínimamente representada ([[dabaghi-ai-dyslexia-education-review-2026|Dabaghi et al., 2026]]). La dificultad de lectura es donde la [[neurodiversity|neurodiversidad]] y la [[accessibility|accesibilidad]] se encuentran con la agenda general de la lectura, sin tratarlas como un tema aparte.
 
 ## Qué muestra y qué no muestra la evidencia
 
-La vertiente es rica en medición y pobre en resultados. Hay instrumentos validados (AIR), modelos de dificultad validados (CLARA, Bird) y un conjunto creciente de herramientas de generación y simplificación. Hay muy pocos estudios controlados que conecten una intervención de lectura con ganancias de comprensión, y varios de los estudios de evaluación confunden la fuente del pasaje con la modalidad de aplicación o la vigilancia. Los tamaños de muestra son pequeños: 53 estudiantes en el caso de evaluación de la lectura, 24 en el estudio de lecturas a medida, 200 estudiantes de séptimo grado en el cuasiexperimento más grande. La base de conocimiento debe leerse como la documentación de un espacio de diseño, no de un efecto establecido.
+La vertiente es rica en medición y pobre en resultados. Hay instrumentos validados (AIR), modelos de dificultad validados (CLARA, Bird) y un conjunto creciente de herramientas de generación y simplificación. Hay muy pocos estudios controlados que conecten una intervención de lectura con ganancias de comprensión, y varios de los estudios de evaluación confunden la fuente del pasaje con la modalidad de aplicación o la vigilancia. Los tamaños de muestra son pequeños: 53 estudiantes en el caso de evaluación de la lectura, 24 en el estudio de lecturas a medida, 200 estudiantes de séptimo grado en el cuasiexperimento más grande. La evidencia documenta un espacio de diseño, no de un efecto establecido.
 
 La fluidez en los primeros cursos de primaria es la excepción hasta ahora: en una escuela, el estudiantado de primero y segundo grado que registró al menos 10 minutos semanales durante 6 semanas superó a sus pares de baja dosis (g = 0.56), un contraste de dosis y no un ensayo ([[burns-ai-tutor-reading-growth-2026|Burns y Morton (2026)]]).
 

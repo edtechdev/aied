@@ -10,7 +10,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-11-02T09:55:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ SAMR describe la profundidad de la transformación tecnológica de las tareas de
 
 SAMR se empareja con frecuencia con el [[icap-framework|marco ICAP]] porque ambos se alinean: los cuatro escenarios de la cocina al aprendizaje de [[thermomix-genai-education-analogy-2026|Rummel, Nachtigall y Panadero (2026)]] mapean los modos de [[student-engagement|implicación]] del ICAP sobre los niveles de SAMR —ICAP *Pasivo* con SAMR *Sustitución*, *Activo* con *Aumento*, *Constructivo* con *Modificación* e *Interactivo* con *Redefinición*—, ilustrando una progresión de la delegación pasiva a la coconstrucción interactiva.
 
-## Evidencia de la base de conocimiento
+## Evidencia de la investigación
 
 - **La integración de la IA en la educación superior es en gran medida incremental, no transformadora.** [[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh et al. (2026)]], en una revisión sistemática PRISMA de 22 estudios de intervención cribados de 959 registros, calificaron la integración de la IA con el modelo SAMR y encontraron que la mayoría de los estudios se agrupaban en el nivel de **Sustitución o Aumento**, con menos en Modificación y solo uno acercándose a la Redefinición. La IA se introducía típicamente para mejorar la práctica existente —dominada por la [[automated-assessment|automatización de la evaluación]] y el [[personalized-learning|apoyo al aprendizaje personalizado]]— y no para reconceptualizar los currículos o los [[learning-gains|resultados de aprendizaje]].
 - **SAMR es una lente analítica habitual para el cambio de [[curriculum-design|currículo]] impulsado por la IA generativa.** [[rewriting-curriculum-genai-pedagogy-2026|Sabani et al. (2026)]] mapean cinco desplazamientos curriculares (de estático a dinámico, de transmisión a capacidad, de local a [[governance|institucional]]) sobre lentes establecidas como SAMR y la alineación constructiva, usando el modelo para aclarar los mecanismos [[pedagogy|pedagógicos]] por los que la IA generativa reconfigura el currículo.
@@ -66,7 +66,7 @@ Tres marcos se confunden con frecuencia, pero responden a preguntas distintas:
 - **[[tpack|TPACK]]** describe el *conocimiento* que necesita el profesorado para integrar la tecnología con eficacia: la interacción entre conocimiento tecnológico, pedagógico y de contenido, ampliada en la era de la IA a AI-TPACK/GenAI-TPACK.
 - **SAMR** clasifica *con qué profundidad* una tecnología transforma una tarea de aprendizaje, de la mejora a la redefinición.
 
-SAMR se entiende mejor como una lente de profundidad de integración usada en la planificación y la evaluación, que complementa a la teoría de la adopción (que explica la incorporación) y a TPACK (que explica la capacidad del profesorado). En la era de la IA, se usa de forma más productiva para preguntar si la IA generativa se está aplicando para mejorar tareas existentes o para habilitar tareas genuinamente nuevas: una distinción que recorre toda la investigación de la base de conocimiento sobre evaluación y currículo.
+SAMR se entiende mejor como una lente de profundidad de integración usada en la planificación y la evaluación, que complementa a la teoría de la adopción (que explica la incorporación) y a TPACK (que explica la capacidad del profesorado). En la era de la IA, se usa de forma más productiva para preguntar si la IA generativa se está aplicando para mejorar tareas existentes o para habilitar tareas genuinamente nuevas: una distinción que recorre toda la investigación sobre evaluación y currículo.
 
 ## Implicaciones para la práctica
 

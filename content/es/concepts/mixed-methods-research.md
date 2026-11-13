@@ -7,7 +7,7 @@ research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-11-10T18:55:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -27,8 +27,8 @@ ai_assist:
 
 ## Preguntas para reflexionar
 
-- Suponga que una encuesta muestra que el estudiantado declara una alta satisfacción con una herramienta de IA, pero las puntuaciones de las pruebas no mejoran. ¿Qué número es «correcto»? La página sostiene que combinar líneas cuantitativas y cualitativas permite que cada una explique a la otra: ¿cómo podría una entrevista explicar lo que los números por sí solos no pueden?
-- Una visión común es que los números son objetivos y las entrevistas anecdóticas, de modo que la evidencia cuantitativa es superior. La página, en cambio, trata ambas como complementarias: amplitud y precisión de los números, profundidad y significado de las palabras. ¿Cuándo engaña más un número sin contexto que una entrevista?
+- Suponga que una encuesta muestra que el estudiantado declara una alta satisfacción con una herramienta de IA, pero las puntuaciones de las pruebas no mejoran. ¿Qué número es «correcto»? Combinar líneas cuantitativas y cualitativas permite que cada una explique a la otra. ¿Cómo podría una entrevista explicar lo que los números por sí solos no pueden?
+- Una visión común es que los números son objetivos y las entrevistas anecdóticas, de modo que la evidencia cuantitativa es superior. Es mejor tratar ambas como complementarias: amplitud y precisión de los números, profundidad y significado de las palabras. ¿Cuándo engaña más un número sin contexto que una entrevista?
 - Un patrón de diseño (explicativo secuencial) recoge primero datos cuantitativos y luego usa entrevistas para explicar resultados sorprendentes. ¿Se le ocurre un resultado educativo que fuera desconcertante en términos numéricos hasta que los relatos cualitativos revelaron el mecanismo?
 - La triangulación es el valor central: cuando líneas independientes convergen, la confianza aumenta, y cuando divergen, la discrepancia misma es informativa. ¿Ha tenido alguna vez dos fuentes de evidencia sobre lo mismo que se contradijeran, y qué aprendió del conflicto?
 - Los métodos mixtos pueden capturar simultáneamente efectos (cuánta ganancia de aprendizaje) y significado (confianza, identidad, agencia), cosas que ninguna encuesta ni entrevista captura por sí sola. Si estuviera estudiando si una herramienta de IA ayuda al estudiantado, ¿qué preguntas cuantitativas y cualitativas emparejaría, y en qué orden?
@@ -47,7 +47,7 @@ En 394 estudios sobre [[generative-ai|IA generativa]] en educación superior, lo
 - **Convergente/paralelo.** Las líneas cuantitativa y cualitativa se ejecutan simultáneamente y se integran en el análisis. [[t2i-competence-paradox-2026|El estudio de la paradoja de la competencia]] usa grupos focales con docentes, una encuesta al estudiantado y entrevistas de seguimiento en paralelo; [[fouad-bentley-trust-utility-gap-physics-2026|el estudio de la brecha entre confianza y utilidad]] combina evidencia de encuesta y de entrevista sobre la adopción de IA por estudiantes de física.
 - **Una línea cuantitativa generada por máquina.** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang et al. (2026)]] generaron la línea cuantitativa BREQ a partir de las transcripciones de entrevistas de los participantes bajo un diseño de convergencia, una vía de integración que no depende únicamente del trabajo humano. Las correlaciones entre LLM y humanos oscilaron entre medias y altas (ρ = 0,5 a 0,73), los RMSE por ítem, por persona y por prueba cuantificaron la distancia respecto a las respuestas humanas, y los ítems redactados en negativo 6, 7 y 11 marcaron el beneficio de triangulación más claro, señalando dónde divergen la evidencia de entrevista y la de encuesta.
 
-## Cómo aparecen los métodos mixtos en la base de conocimiento
+## Cómo aparecen los métodos mixtos en la investigación
 
 - **Explicar mecanismos.** [[same-ai-different-pathways]] combina líneas para desentrañar los mecanismos del aprendizaje mediado por IA en distintos contextos de disciplina e institución, donde las diferencias cuantitativas por sí solas serían opacas.
 - **Complementar los datos de resultados con la experiencia.** [[hazra-safetutors-pedagogical-safety-2026|La seguridad de los tutores de IA]] empareja indicadores cuantitativos de daño con relatos cualitativos de daño [[pedagogy|pedagógico]]; [[t2i-competence-paradox-2026]] empareja resultados cuantitativos de encuesta con relatos cualitativos de negociación de la identidad.

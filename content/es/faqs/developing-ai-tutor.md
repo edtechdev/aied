@@ -13,7 +13,7 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/developing-ai-tutor
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -96,7 +96,7 @@ La fricción en la interfaz pertenece a la misma pasada de diseño. Las pistas i
 
 ## Entregue las partes comprobables a un verificador
 
-Ancla la generación en material aprobado por el docente: secciones de libros de texto, apuntes del curso, ejemplos resueltos, terminología, métodos aprobados, notación, reglas de las tareas, políticas y recursos [[curriculum-design|curriculares]]. La generación aumentada por recuperación contra ese corpus reduce el [[hallucination-risk|riesgo de alucinación]] y no lo elimina, como expone [[rag]]. Muestra citas o procedencia en la interfaz allí donde un estudiante podría comprobar una afirmación, porque la cita es lo que hace que el anclaje sea auditable a posteriori.
+Ancla la generación en material aprobado por el docente: secciones de libros de texto, apuntes del curso, ejemplos resueltos, terminología, métodos aprobados, notación, reglas de las tareas, políticas y recursos [[curriculum-design|curriculares]]. La generación aumentada por recuperación contra esos materiales reduce el [[hallucination-risk|riesgo de alucinación]] y no lo elimina, como expone [[rag]]. Muestra citas o procedencia en la interfaz allí donde un estudiante podría comprobar una afirmación, porque la cita es lo que hace que el anclaje sea auditable a posteriori.
 
 El anclaje también cumple una función que las métricas de precisión pasan por alto. Un curso tiene métodos aprobados, y un tutor que introduce una técnica matemáticamente válida que el curso no usa le ha enseñado al estudiante algo por lo que le bajarán la nota. La recuperación desde la capa del curso es la forma en que el tutor se mantiene dentro del conjunto de métodos.
 
@@ -104,7 +104,7 @@ Para dominios con respuestas formalmente comprobables, añada herramientas deter
 
 ## Exija que el estudiante actúe sobre la retroalimentación
 
-La retroalimentación que dice "Correcto", "Incorrecto" o "Buen trabajo" es un evento de calificación disfrazado de enseñanza. La base de conocimiento trata la [[feedback|retroalimentación]] como un bucle de provisión y aprovechamiento: la retroalimentación apoya el aprendizaje cuando los estudiantes la entienden y actúan sobre ella, y la segunda mitad es la que los sistemas suelen saltarse. Construye el tutor para que nombre el paso de razonamiento implicado, diga qué hay que reconsiderar, dé una acción siguiente concreta y pida al estudiante que prediga o explique antes de revelar la retroalimentación.
+La retroalimentación que dice "Correcto", "Incorrecto" o "Buen trabajo" es un evento de calificación disfrazado de enseñanza. La investigación trata la [[feedback|retroalimentación]] como un bucle de provisión y aprovechamiento: la retroalimentación apoya el aprendizaje cuando los estudiantes la entienden y actúan sobre ella, y la segunda mitad es la que los sistemas suelen saltarse. Construye el tutor para que nombre el paso de razonamiento implicado, diga qué hay que reconsiderar, dé una acción siguiente concreta y pida al estudiante que prediga o explique antes de revelar la retroalimentación.
 
 La secuencia que sostiene esto es estudiante primero, IA después, estudiante otra vez. El estudiante genera, elige, justifica, evalúa o reflexiona; el tutor responde; el estudiante hace algo con esa respuesta. Diseñe la estructura de los turnos para que esto no sea opcional. Un sistema en el que el modelo puede producir tres párrafos en respuesta a una pregunta enseña al estudiante a preguntar y a leer.
 
@@ -156,7 +156,7 @@ Un tutor de cálculo de primer semestre de universidad debería elevar lo que lo
 
 ## Caso dos: un entrenador de escritura, donde la etapa decide el permiso
 
-La escritura no tiene una única respuesta correcta, así que la verificación es juicio y el trabajo de diseño se traslada al escalonamiento por etapas. La base de conocimiento enmarca la escritura como un proceso cognitivo, social y retórico, lo que significa que un sistema de escritura con IA puede apoyar el aprendizaje y también eliminar exactamente el pensamiento que la tarea existía para desarrollar ([[writing-education|educación en escritura]], [[coach-not-crutch-ai-writing|coach, no muleta]]).
+La escritura no tiene una única respuesta correcta, así que la verificación es juicio y el trabajo de diseño se traslada al escalonamiento por etapas. La escritura es un proceso cognitivo, social y retórico, lo que significa que un sistema de escritura con IA puede apoyar el aprendizaje y también eliminar exactamente el pensamiento que la tarea existía para desarrollar ([[writing-education|educación en escritura]], [[coach-not-crutch-ai-writing|coach, no muleta]]).
 
 **Un modelo de capacidades.** Rastrea argumentación (especificidad de la tesis, alineación entre afirmación y evidencia, contraargumento), organización (foco del párrafo, progresión lógica, transiciones), evidencia (pertinencia de las fuentes, integración, interpretación), revisión (revisión global y a nivel de frase, evaluación de la retroalimentación) y estilo (claridad, gramática, voz). Cada uno se convierte en una señal separada en el modelo del estudiante, que es lo que hace posible la retroalimentación focalizada.
 

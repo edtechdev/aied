@@ -1,7 +1,7 @@
 ---
 title: IA en la sombra
 created: "2026-11-12T22:30:00-05:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T14:20:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 ethics: [privacy, equity-in-ai-education]
@@ -11,9 +11,13 @@ discipline: [information technology]
 confidence: high
 contributors: [editor]
 translation_of: concepts/shadow-ai
-source_updated: "2026-11-12T16:32:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-13"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -82,6 +86,18 @@ El tercero es medir lo que se gasta y lo que se usa, incluido el gasto que nunca
 
 El cuarto es tratar la [[ai-literacy|alfabetización en IA]] como un control y no como un añadido al [[curriculum-design|currículo]]. Un docente que sabe leer una política de datos, reconocer los términos de retención de un proveedor y tachar el nombre de un estudiante está haciendo una gestión de riesgos que ningún formulario de aprobación sustituye.
 
+## Implicaciones para la práctica
+
+Quienes desarrollan profesionalmente al profesorado pueden publicar la vía autorizada con ejemplos resueltos, en el lenguaje de la enseñanza y no en el de las compras. El profesorado del estudio de distrito pidió normas, una lista de herramientas evaluadas, ejemplos y tiempo; nada de eso requiere una plataforma nueva. Una ruta de aprobación que tarda una semana es lo bastante larga para que salga un modelo nuevo, así que el objetivo útil son días.
+
+El profesorado puede adoptar los hábitos que ya tenían los usuarios cuidadosos de ese estudio. Oculte los nombres del estudiantado antes de pegar cualquier cosa, use una cuenta institucional para que el registro pueda auditarse y trate el texto generado como un borrador que hay que comprobar y no como una autoridad que citar.
+
+Quienes administran pueden medir el gasto que nunca llegó a una orden de compra y leer el uso no aprobado como un informe sobre una necesidad no atendida. Si una herramienta gratuita gana porque la licenciada tiene lista de espera, el problema de adopción es la cola.
+
+El personal de TI y de políticas puede convertir la aprobación en una decisión de enrutamiento. Una pasarela que enumere los modelos aprobados con su región, coste y alternativas permite al docente empezar ese mismo día, que es la diferencia entre una gobernanza que da forma al uso y una que lo documenta después.
+
+Quienes dirigen los departamentos pueden construir el apoyo colegiado que permitió a algunos docentes desarrollar límites y dejó a otros sin ellos. La brecha que empieza siendo de plantilla se convierte en una diferencia en lo que se pide al estudiantado.
+
 ## Concepciones erróneas
 
 **«La IA en la sombra es solo la TI en la sombra con otro nombre.»** El estudio alemán traza la distinción: los riesgos de la TI en la sombra se adhieren a la infraestructura, mientras que los de la IA en la sombra se adhieren al contenido, al juicio y al registro de lo producido.
@@ -94,7 +110,7 @@ El cuarto es tratar la [[ai-literacy|alfabetización en IA]] como un control y n
 
 ## Lecturas adicionales
 
-Tres fuentes abordan directamente la IA en la sombra y no pueden ingerirse aquí: dos estudios de acceso cerrado y un artículo profesional. Se enlazan en lugar de ingerirse, así que ninguna afirmación de esta página descansa en sus hallazgos.
+Tres fuentes abordan directamente la IA en la sombra y no pueden ingerirse aquí: dos estudios de acceso cerrado y un artículo profesional. Se enlazan en lugar de ingerirse, así que ninguna afirmación aquí descansa en sus hallazgos.
 
 - [Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI](https://doi.org/10.1016/j.chb.2026.109243) — Lovett y Yang, *Computers in Human Behavior*, artículo 109243, noviembre de 2026. Evidencia de encuesta con usuarios recientes de IA en el trabajo, con el hábito como el mayor peso de importancia relativa y el pago personal de las herramientas asociado a una mayor IA en la sombra.
 - [Shadow AI Isn't a Threat: It's a Signal](https://campustechnology.com/articles/2026/02/04/shadow-ai-isnt-a-threat-its-a-signal.aspx) — Damien Eversmann, *Campus Technology*, febrero de 2026. Un argumento de profesional que sostiene que el uso no autorizado informa de una necesidad no satisfecha: profesorado redactando planes de clase, investigadores poniendo en marcha GPU en la nube con tarjetas del departamento y personal pegando datos sensibles en herramientas de consumo porque la vía aprobada era más lenta.

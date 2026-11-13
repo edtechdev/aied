@@ -7,7 +7,7 @@ pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-11-12T14:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ ai_assist:
 
 ## Introducción
 
-La psicología cognitiva es la tradición teórica del aprendizaje que lo trata como un cambio en representaciones mentales internas —conceptos, esquemas y procedimientos almacenados en la memoria— en lugar de un cambio en la conducta observable. Su vocabulario de procesamiento de información (atención, codificación, recuperación, memoria de trabajo limitada) aportó tanto el lenguaje diagnóstico de la dificultad de aprendizaje como la arquitectura que hay detrás de la [[intelligent-tutoring]] y el [[knowledge-tracing]]: sistemas que infieren el estado interno de quien aprende y se adaptan a él. Sigue siendo el marco de referencia para la [[metacognition]], las [[desirable-difficulties]] y el [[self-regulated-learning]] en toda esta base de conocimiento.
+La psicología cognitiva es la tradición teórica del aprendizaje que lo trata como un cambio en representaciones mentales internas —conceptos, esquemas y procedimientos almacenados en la memoria— en lugar de un cambio en la conducta observable. Su vocabulario de procesamiento de información (atención, codificación, recuperación, memoria de trabajo limitada) aportó tanto el lenguaje diagnóstico de la dificultad de aprendizaje como la arquitectura que hay detrás de la [[intelligent-tutoring]] y el [[knowledge-tracing]]: sistemas que infieren el estado interno de quien aprende y se adaptan a él. Sigue siendo el marco de referencia para la [[metacognition]], las [[desirable-difficulties]] y el [[self-regulated-learning]].
 
 [[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] reconstruyeron imágenes a partir de la actividad EEG de quienes aprendían mientras veían vídeos de ciencias y encontraron que la fidelidad de la representación seguía el rendimiento en el test (coeficiente de regresión 0,8481; R² = 0,79), prueba directa de que una medida de la representación interna puede indexar la codificación.
 
@@ -52,7 +52,7 @@ La psicología cognitiva es la tradición teórica del aprendizaje que lo trata 
 
 ### El linaje cognitivista de la AIED
 
-Puede decirse que el cognitivismo es la teoría más responsable de que la IA en educación exista. Los primeros tutores cognitivos (por ejemplo, los tutores de Anderson basados en ACT-R) [[embodied-learning|encarnaron]] el supuesto de que el aprendizaje podía modelarse como reglas de producción y de que un sistema podía rastrear qué reglas había dominado quien aprendía. Esto produjo la arquitectura canónica que todavía define el campo: un modelo de dominio, un [[student-modeling|modelo del estudiante]] que registra el estado de conocimiento de quien aprende y un modelo [[pedagogy|pedagógico]] que adapta la instrucción, todo ello de origen cognitivista. El [[knowledge-tracing]] moderno (bayesiano, de aprendizaje profundo y basado en TRI) y el [[cognitive-diagnosis]] continúan esta tradición. El mismo supuesto sostiene la [[intelligent-tutoring]], el [[adaptive-learning]] y el [[personalized-learning]], agrupados en la base de conocimiento bajo el paraguas del [[student-modeling|Modelado del estudiante e instrucción adaptativa]].
+Puede decirse que el cognitivismo es la teoría más responsable de que la IA en educación exista. Los primeros tutores cognitivos (por ejemplo, los tutores de Anderson basados en ACT-R) [[embodied-learning|encarnaron]] el supuesto de que el aprendizaje podía modelarse como reglas de producción y de que un sistema podía rastrear qué reglas había dominado quien aprendía. Esto produjo la arquitectura canónica que todavía define el campo: un modelo de dominio, un [[student-modeling|modelo del estudiante]] que registra el estado de conocimiento de quien aprende y un modelo [[pedagogy|pedagógico]] que adapta la instrucción, todo ello de origen cognitivista. El [[knowledge-tracing]] moderno (bayesiano, de aprendizaje profundo y basado en TRI) y el [[cognitive-diagnosis]] continúan esta tradición. El mismo supuesto sostiene la [[intelligent-tutoring]], el [[adaptive-learning]] y el [[personalized-learning]], agrupados bajo el paraguas del [[student-modeling|Modelado del estudiante e instrucción adaptativa]].
 
 ### La carga cognitiva y el diseño de la instrucción
 
@@ -81,7 +81,7 @@ Un experimento de 2026 da al lado de la memoria de esa frontera un modo de fallo
 3. **Respetar los límites de la memoria de trabajo.** Aplicar la Teoría de la Carga Cognitiva a la experiencia de usuario con IA: reducir la carga extrínseca (fricción, interfaces sobrecargadas) preservando el procesamiento pertinente ([[desirable-difficulties|esfuerzo productivo]], práctica de recuperación) en lugar de minimizar toda demanda cognitiva.
 4. **Calibrar la metacognición.** Como la [[metacognition]] gobierna cuándo eligen las personas descargar, enseñar la calibración (saber qué puede hacer uno de verdad sin ayuda) es una respuesta cognitivista a la dependencia excesiva (véase [[cognitive-offloading]]).
 
-El desarrollo queda fuera del alcance de esta página: los mecanismos aquí descritos se tratan como estables, mientras que la [[developmental-psychology|psicología del desarrollo]] pregunta cómo cambian con la edad y qué implica eso para un uso de la IA ajustado a cada franja de edad.
+El desarrollo es una cuestión aparte: estos mecanismos se tratan como estables, mientras que la [[developmental-psychology|psicología del desarrollo]] pregunta cómo cambian con la edad y qué implica eso para un uso de la IA ajustado a cada franja de edad.
 
 ## Concepciones erróneas
 

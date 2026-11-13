@@ -1,14 +1,14 @@
 ---
 title: Resolución de problemas
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-13T14:15:38-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **La resolución de problemas** —el proceso de formular, analizar y resolver retos nuevos o complejos— es una competencia central del siglo 21 que las herramientas de IA a la vez amplifican y amenazan. En los artículos de la base de conocimiento, la IA generativa funciona como andamiaje, como interlocutor dialógico y como motor de respuestas, y su valor educativo depende de que quienes aprenden sigan siendo los principales responsables de las decisiones o deleguen su razonamiento en la máquina. Esta tensión entre eficiencia y una [[student-engagement|implicación]] cognitiva y reguladora más profunda define la [[research-methods-aied|investigación]] actual sobre IA y resolución de problemas.
+> **La resolución de problemas** —el proceso de formular, analizar y resolver retos nuevos o complejos— es una competencia central del siglo 21 que las herramientas de IA a la vez amplifican y amenazan. En los estudios revisados aquí, la IA generativa funciona como andamiaje, como interlocutor dialógico y como motor de respuestas, y su valor educativo depende de que quienes aprenden sigan siendo los principales responsables de las decisiones o deleguen su razonamiento en la máquina. Esta tensión entre eficiencia y una [[student-engagement|implicación]] cognitiva y reguladora más profunda define la [[research-methods-aied|investigación]] actual sobre IA y resolución de problemas.
 
 ## Preguntas para reflexionar
 
@@ -43,7 +43,7 @@ Sin embargo, las mismas herramientas pueden erosionar la habilidad que dicen apo
 
 ### La resolución de problemas en la investigación sobre IA y educación
 
-Los artículos de la base de conocimiento abordan la resolución de problemas desde lentes distintas pero convergentes. [[llm-critical-thinking-teamwork-review|Una revisión sistemática PRISMA]] encuentra que los LLM producen a menudo respuestas incompletas o incorrectas, lo que lleva al estudiantado a cuestionar, verificar y mejorar la información, convirtiendo las imperfecciones del modelo en ciclos de validación y corrección que fortalecen el [[critical-thinking|pensamiento crítico]] y la independencia mental. En lugar de dar los problemas por sentados, otros trabajos ponen en primer plano el *planteamiento de problemas*: [[genai-assisted-problem-posing-physics-2026|entrenar al estudiantado para generar sus propios problemas de física]] apoya la [[transfer-of-learning|transferencia]] y el estudio autónomo, y [[dai-chatbots-problem-posing-primary-2026|los chatbots de IA generativa]] mejoraron la calidad del planteamiento de problemas en primaria y redujeron la carga cognitiva en el [[inquiry-based-learning|aprendizaje por indagación]].
+La literatura aborda la resolución de problemas desde lentes distintas pero convergentes. [[llm-critical-thinking-teamwork-review|Una revisión sistemática PRISMA]] encuentra que los LLM producen a menudo respuestas incompletas o incorrectas, lo que lleva al estudiantado a cuestionar, verificar y mejorar la información, convirtiendo las imperfecciones del modelo en ciclos de validación y corrección que fortalecen el [[critical-thinking|pensamiento crítico]] y la independencia mental. En lugar de dar los problemas por sentados, otros trabajos ponen en primer plano el *planteamiento de problemas*: [[genai-assisted-problem-posing-physics-2026|entrenar al estudiantado para generar sus propios problemas de física]] apoya la [[transfer-of-learning|transferencia]] y el estudio autónomo, y [[dai-chatbots-problem-posing-primary-2026|los chatbots de IA generativa]] mejoraron la calidad del planteamiento de problemas en primaria y redujeron la carga cognitiva en el [[inquiry-based-learning|aprendizaje por indagación]].
 
 El andamiaje y la evaluación también son centrales. Los [[adaptive-ai-scaffold-collaborative-problem-solving-2026|andamiajes adaptativos de IA]] derivados de la minería de secuencias de los patrones de proceso de cada estudiante mejoran el rendimiento en la tarea en la resolución colaborativa de problemas de [[math-education|matemáticas]], aunque el andamiaje máximo también aumentó la conducta de seguir un guion. La estructura dentro del andamiaje, y no solo su presencia, es lo que impide que colapse en dar respuestas. Un tutor LLM guiado por reglas, construido como diagnóstico, selección de intención y generación de respuestas restringida, mantuvo al tutor y al estudiantado dentro del guion de turnos previsto en 36 de 40 sesiones reales (90%) de quinto grado, y sus compuertas contra el adelanto de respuestas y de solo finalización redujeron el suministro prematuro de respuestas ([[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu y Sun, 2026]]). La afirmación de diseño más fuerte de los autores es sustractiva: la aritmética quedó fuera del papel del tutor y volvió al estudiantado, después de que el tutor produjera aritmética incorrecta en 4 de 40 sesiones.
 

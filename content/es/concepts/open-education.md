@@ -1,7 +1,7 @@
 ---
 title: "Educación abierta"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-13T14:15:14-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,7 +13,7 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,13 +41,13 @@ La educación abierta no es [[open-source|código abierto]], y la confusión per
 
 Difieren donde importa. Una publicación de código abierto se juzga por si el sistema puede reconstruirse e inspeccionarse. Un recurso abierto se juzga por si un docente con otros estudiantes, otro idioma y otro presupuesto puede usarlo de verdad: una afirmación pedagógica y no técnica, y la razón de que la educación abierta haya llevado siempre un argumento sobre la práctica junto al de las licencias. [[deimann-rethinking-openness-ai-2026|Deimann y Lukács (2026)]] formulan la versión más aguda de esa idea: tras veinticinco años de defensa de la apertura, el régimen institucional del centro educativo quedó intacto, porque el movimiento se concentró en declaraciones y proyectos de nicho.
 
-La literatura de la era de la IA en esta base de conocimiento trata de tres cosas a la vez: el recurso, la práctica y si alguna de las dos sobrevive cuando la generación es casi gratuita. Sobre el recurso: quién lo hace, quién lo licencia y si cuenta uno escrito por una IA. Sobre la práctica: qué pide la pedagogía abierta al estudiantado y si le enseña algo medible.
+La literatura de la era de la IA trata de tres cosas a la vez: el recurso, la práctica y si alguna de las dos sobrevive cuando la generación es casi gratuita. Sobre el recurso: quién lo hace, quién lo licencia y si cuenta uno escrito por una IA. Sobre la práctica: qué pide la pedagogía abierta al estudiantado y si le enseña algo medible.
 
 ## Qué cubre realmente la apertura
 
 Un recurso educativo abierto (REA) es contenido publicado bajo una licencia que permite la reutilización, la revisión, la remezcla y la redistribución. Todo lo demás en el campo es aguas abajo de ese permiso y de la obligación de atribución. [[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy (2026)]] muestra esa obligación en un proyecto pequeño: once participantes que trabajaron en línea dos semanas produjeron un sitio de seis páginas, un [[conversational-ai|chatbot]], un manual y cinco videotutoriales, publicados bajo CC BY-NC-SA, y el paquete obtuvo una puntuación alta en transparencia y solo media en licenciamiento, replicabilidad, adaptabilidad y accesibilidad. Abierto de nombre, parcialmente abierto en el uso.
 
-La literatura sobre licencias es granular porque los fallos son granulares. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] construye una rúbrica de siete principios para revisar material de alfabetización en IA con licencia abierta, a partir de un corpus intencional de dieciséis artículos centrales, diecisiete adicionales y treinta y seis referencias específicas. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello y Havemann (2026)]] sostienen que la unidad de gobernanza debería pasar del recurso a la infraestructura que lo aloja, pues un procomún de archivos sueltos sin plataforma mantenida es un problema de fragmentación, no un procomún.
+La literatura sobre licencias es granular porque los fallos son granulares. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] construye una rúbrica de siete principios para revisar material de alfabetización en IA con licencia abierta, a partir de una muestra intencionada de dieciséis artículos centrales, diecisiete adicionales y treinta y seis referencias específicas. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello y Havemann (2026)]] sostienen que la unidad de gobernanza debería pasar del recurso a la infraestructura que lo aloja, pues un procomún de archivos sueltos sin plataforma mantenida es un problema de fragmentación, no un procomún.
 
 ## El colapso de la generación y el giro hacia los bienes públicos digitales
 
@@ -71,7 +71,7 @@ Dos estudios más muestran la rapidez con que la práctica se vuelve gobernanza.
 
 El argumento de [[equity-in-ai-education|equidad]] a favor del contenido abierto es el más antiguo: un recurso sin precio no puede quedar excluido por razones económicas. Es también el que más se afirma y menos se prueba. Las versiones de la era de la IA son más cuidadosas. Atenas y sus colegas enmarcan los REA como una palanca para las comunidades marginadas y para una participación significativa en la recogida de datos, y advierten que una dependencia excesiva de los recursos generados puede devaluar la [[creativity|creatividad]] y el criterio humanos. Tlili y sus colegas nombran los mecanismos por los que la generación degrada esa palanca: error de traducción, sesgo en los datos de entrenamiento y un bucle de [[hallucination-risk|alucinación]] que recicla el contenido generado en los corpus del modelo siguiente.
 
-La sostenibilidad entra por partida doble, como financiación y como energía. El argumento de los bienes públicos digitales es esencialmente un argumento de sostenibilidad: un procomún fragmentado de archivos financiados con subvenciones no sobrevive a sus subvenciones, mientras que una infraestructura gobernada públicamente quizá sí. El caso ambiental aparece en la literatura sobre apertura en general y en el concepto de [[sustainability|sostenibilidad]] de esta base de conocimiento, donde declarar el coste de inferencia de los modelos se trata como obligación de la práctica abierta y no como añadido.
+La sostenibilidad entra por partida doble, como financiación y como energía. El argumento de los bienes públicos digitales es esencialmente un argumento de sostenibilidad: un procomún fragmentado de archivos financiados con subvenciones no sobrevive a sus subvenciones, mientras que una infraestructura gobernada públicamente quizá sí. El caso ambiental aparece en la literatura sobre apertura en general y en [[sustainability|sostenibilidad]], donde declarar el coste de inferencia de los modelos se trata como obligación de la práctica abierta y no como añadido.
 
 La dimensión del [[global-south|Sur global]] es donde la evidencia se adelgaza más. Los casos no occidentales del lote son reales pero escasos: una residencia de cooperación latinoamericana, docentes de universidades abiertas chinas y un encuadre de la infraestructura como condición previa de la participación. Las afirmaciones de que la apertura redistribuye automáticamente la capacidad no están respaldadas por estos estudios, y varios de ellos lo dicen.
 

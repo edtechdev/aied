@@ -9,7 +9,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 
 ## Introducción
 
-La SDT se usa cada vez más en la [[research-methods-aied|investigación]] sobre IA en la educación como lente teórica para sistemas de IA tanto dirigidos a quien aprende como dirigidos al profesorado. La afirmación central de la teoría —que la motivación no es simplemente una cantidad que quien aprende posee, sino una cualidad configurada por el entorno social y tecnológico— la hace directamente pertinente a las preguntas sobre cómo las herramientas de IA afectan la [[student-engagement|implicación]], la persistencia y los [[learning-gains|resultados de aprendizaje]]. Los artículos de esta base de conocimiento aplican la SDT en tres contextos principales: el desarrollo profesional docente, la implicación en el aprendizaje mediado por IA y la computación afectiva.
+La SDT se usa cada vez más en la [[research-methods-aied|investigación]] sobre IA en la educación como lente teórica para sistemas de IA tanto dirigidos a quien aprende como dirigidos al profesorado. La afirmación central de la teoría —que la motivación no es simplemente una cantidad que quien aprende posee, sino una cualidad configurada por el entorno social y tecnológico— la hace directamente pertinente a las preguntas sobre cómo las herramientas de IA afectan la [[student-engagement|implicación]], la persistencia y los [[learning-gains|resultados de aprendizaje]]. La investigación aplica la SDT en tres contextos principales: el desarrollo profesional docente, la implicación en el aprendizaje mediado por IA y la computación afectiva.
 
 ### Temas clave de investigación
 

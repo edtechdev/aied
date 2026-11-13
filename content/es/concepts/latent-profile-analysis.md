@@ -1,15 +1,19 @@
 ---
 title: Análisis de perfiles latentes
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-13T14:20:00-05:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-13"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -18,7 +22,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **El análisis de perfiles latentes (LPA)** — un método centrado en las personas que clasifica una muestra en subgrupos no observados (perfiles) cuando cada caso se describe mediante varias variables a la vez. Es el miembro de indicadores continuos de la familia del modelado de mezclas; su pariente, el **análisis de clases latentes (LCA)**, aplica la misma lógica a los indicadores categóricos. Ambos plantean una pregunta distinta de la de los modelos [[quantitative-research|centrados en las variables]] que dominan la investigación sobre IA en la educación: no «cuánto predice X a Y en promedio», sino «cuántos tipos distintos de persona que aprende, de [[teacher-role|docente]] o de directivo se esconden dentro de ese promedio». En esta base de conocimiento, el método muestra que una misma herramienta de IA aterriza de forma muy distinta según los subgrupos: cinco perfiles de conciencia ética entre estudiantes de grado ghaneses, seis tipologías de preparación entre directivos ucranianos de la educación y cuatro perfiles de aceptación de la [[generative-ai|IA generativa]] entre futuros docentes taiwaneses.
+> **El análisis de perfiles latentes (LPA)** — un método centrado en las personas que clasifica una muestra en subgrupos no observados (perfiles) cuando cada caso se describe mediante varias variables a la vez. Es el miembro de indicadores continuos de la familia del modelado de mezclas; su pariente, el **análisis de clases latentes (LCA)**, aplica la misma lógica a los indicadores categóricos. Ambos plantean una pregunta distinta de la de los modelos [[quantitative-research|centrados en las variables]] que dominan la investigación sobre IA en la educación: no «cuánto predice X a Y en promedio», sino «cuántos tipos distintos de persona que aprende, de [[teacher-role|docente]] o de directivo se esconden dentro de ese promedio». El método muestra que una misma herramienta de IA aterriza de forma muy distinta según los subgrupos: cinco perfiles de conciencia ética entre estudiantes de grado ghaneses, seis tipologías de preparación entre directivos ucranianos de la educación y cuatro perfiles de aceptación de la [[generative-ai|IA generativa]] entre futuros docentes taiwaneses.
 
 ## Preguntas para reflexionar
 
@@ -41,7 +45,7 @@ El LPA supone que la muestra procede de una mezcla de subgrupos, cada uno con su
 
 El agrupamiento ordinario ([[machine-learning|k-means]] y jerárquico) persigue la misma intención centrada en las personas, pero divide los casos por distancia geométrica en lugar de estimar un modelo probabilístico. Recurra al LPA o al LCA cuando la pregunta se refiera a subgrupos: si «quien aprende» es una ficción en el nivel de agregación de su muestra y si los subgrupos difieren en forma además de en nivel. No recurra a ellos cuando necesite un efecto medio del tratamiento: una solución de cinco perfiles dentro de un [[rct|ensayo aleatorizado]] de un [[intelligent-tutoring|tutor adaptativo]] predijo diferencias en el postest (η² parcial = 0,27), pero no encontró ninguna interacción condición × perfil (ps ≥ 0,198).
 
-## Cómo lo utiliza el corpus
+## Cómo la utiliza la investigación
 
 Se repiten tres usos.
 
@@ -54,15 +58,15 @@ Los perfiles sirven entonces como variable independiente: la disciplina moldeó 
 
 ## Elegir el número de perfiles
 
-Ninguna estadística por sí sola selecciona la solución; el corpus trata la retención como un juicio que se hace a partir de varios criterios a la vez.
+Ninguna estadística por sí sola selecciona la solución; la retención es un juicio que se hace a partir de varios criterios a la vez.
 
 - **Criterios de información (BIC, AIC).** Un valor más bajo suele ser mejor, pero un descenso monotónico señala un problema y no un ganador. En el estudio ucraniano sobre directivos, el BIC cayó de forma monotónica en el rango de dos a seis clases sin un mínimo claro, y los autores califican su solución de seis clases de exploratoria sobre esa evidencia.
 - **Entropía.** Un resumen de la certeza de clasificación; más cerca de 1 significa una asignación más limpia. Chen y sus colegas informan de 0,985 para cuatro perfiles; Acquah y sus colegas informan de 0,816 para cinco perfiles frente a 0,929 para cuatro, y ellos mismos sugieren consolidar para obtener una agrupación más estable.
 - **[[explainable-ai|Interpretabilidad]] y tamaño de los perfiles.** El estudio de perfilado de la confianza en la IA mantuvo tres conglomerados aunque el índice de Calinski–Harabasz prefería dos, porque tres eran interpretables, y señala que un coeficiente de silueta de 0,288 apunta a una separación débil o limítrofe. Chen y sus colegas advierten de que su perfil más pequeño (14,06 por ciento de 128 casos) puede ser inestable, y el perfil más pequeño del estudio ghanés contiene solo 23 estudiantes, que sus autores proponen fusionar.
 - **Estabilidad bajo remuestreo.** La estabilidad por bootstrap es la comprobación honesta de si los perfiles reaparecerían en una nueva muestra: el índice Rand ajustado medio fue de 0,385 para la solución ucraniana de seis clases, pero de 0,989 a lo largo de 100 inicializaciones aleatorias en el estudio sobre la confianza en la IA: el mismo diseño nominal, un peso probatorio muy distinto.
-- **Las pruebas de razón de verosimilitud por bootstrap (BLRT)** y la prueba de Lo–Mendell–Rubin son compañeras habituales del BIC y la entropía en la literatura más amplia sobre modelado de mezclas, pero los estudios de perfiles de esta base de conocimiento no las informan. Cuando una página informa solo de BIC y entropía, trate el número de clases como provisional.
+- **Las pruebas de razón de verosimilitud por bootstrap (BLRT)** y la prueba de Lo–Mendell–Rubin son compañeras habituales del BIC y la entropía en la literatura más amplia sobre modelado de mezclas, pero los estudios de perfiles examinados no las informan. Cuando una página informa solo de BIC y entropía, trate el número de clases como provisional.
 
-- **La comprobación de razón de verosimilitud que este corpus por lo demás omite.** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] retuvieron cuatro perfiles (entropía 0,824) de 379 estudiantes de empresa e informaron de la decisión de Lo–Mendell–Rubin: significativa en cuatro (p = 0,035) y no significativa en cinco (p = 0,376).
+- **La comprobación de razón de verosimilitud que la mayoría de los estudios de perfiles omiten.** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] retuvieron cuatro perfiles (entropía 0,824) de 379 estudiantes de empresa e informaron de la decisión de Lo–Mendell–Rubin: significativa en cuatro (p = 0,035) y no significativa en cinco (p = 0,376).
 - **Retención defendida con la solución rival y una prueba de razón de verosimilitud.** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] informan de que una solución de cuatro perfiles se ajustaba ligeramente mejor a los 102 estudiantes, pero no mejoraba de forma significativa y dejaba la clase más pequeña en 12,7 por ciento, así que retienen tres perfiles (entropía 0,89) en lugar del modelo que mejor ajustaba numéricamente. Informar de la solución perdedora y de lo que la descalificó es lo que convierte el número de clases retenido en un juicio que quien lee puede comprobar, y la medida de uso de IA de 12 ítems construida a propósito para el estudio —validada en una muestra separada de 85 que los autores califican de preliminar— marca el otro límite de su evidencia.
 
 Informe de las comparaciones, no solo del ganador: una página que dice «retuvimos cinco perfiles» sin la solución rival, los valores de entropía y el tamaño del perfil más pequeño no da a quien lee ninguna forma de juzgar la elección.
@@ -80,7 +84,7 @@ Cuatro cautelas, cada una formulada en las páginas de origen:
 
 ## Implicaciones para la IA en la educación
 
-1. **Mida la heterogeneidad antes de recomendar una intervención.** Los perfiles de este corpus sitúan una y otra vez a una cuarta parte o más de una muestra por debajo de la media titular; diseñe para los perfiles que existen y no para la media.
+1. **Mida la heterogeneidad antes de recomendar una intervención.** Los perfiles sitúan una y otra vez a una cuarta parte o más de una muestra por debajo de la media titular; diseñe para los perfiles que existen y no para la media.
 2. **Prefiera métodos centrados en las personas cuando el producto sea la diferenciación.** Los estudios sobre futuros docentes y sobre directivos presentan ambos ese giro como su aportación metodológica, porque los predictores promedio no pueden revelar las configuraciones que justifican un apoyo diferenciado.
 3. **Informe por completo de la evidencia de retención.** Publique las comparaciones de BIC/AIC, la entropía, los tamaños de los perfiles y una comprobación de estabilidad, y diga con claridad cuándo un número de clases es exploratorio.
 4. **Trate los perfiles como diagnósticos, no como etiquetas.** Un perfil es un constructo de investigación con una frontera estimada, así que una herramienta que asigna a las personas a categorías nombradas arrastra la cautela de cualquier instrumento de [[educational-measurement|medición]], y los [[differential-effects-across-learner-groups|efectos diferenciales entre grupos de estudiantes]] merecen el escrutinio de cualquier análisis de subgrupos.

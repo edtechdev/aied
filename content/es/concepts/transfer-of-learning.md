@@ -9,7 +9,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,12 +25,12 @@ ai_assist:
 
 ## Preguntas para reflexionar
 
-- Aquí hay un patrón llamativo que documenta la página: el estudiantado suele mostrar ganancias inmediatas en tareas asistidas por IA, pero esas ganancias pueden desvanecerse —o incluso invertirse— cuando se retira la IA. Antes de leer las explicaciones, ¿por qué cree que una herramienta que claramente ayuda en el momento podría acabar dejando al estudiantado peor sin ella?
+- Aquí hay un patrón llamativo: el estudiantado suele mostrar ganancias inmediatas en tareas asistidas por IA, pero esas ganancias pueden desvanecerse —o incluso invertirse— cuando se retira la IA. Antes de leer las explicaciones, ¿por qué cree que una herramienta que claramente ayuda en el momento podría acabar dejando al estudiantado peor sin ella?
 - Recuerde algo que aprendió a hacer con un tutor, una calculadora o un asistente y que después tuvo que hacer solo. ¿Se transfirió la habilidad o se sintió dependiente de la ayuda? ¿Qué diferenciaba a las experiencias que se transfirieron bien de las que no?
 - Una intuición común es que «practicar es practicar»: que hacer una tarea con ayuda construye la misma habilidad que hacerla solo. ¿Dónde puede engañar esa intuición, sobre todo cuando la ayuda es una IA que completa el razonamiento por usted en lugar de guiarlo?
-- La página distingue entre los «efectos con» una tecnología y los «efectos de» ella: rendir mejor mientras se usa la herramienta frente a volverse más capaz sin ella. Si usted es docente, diseñador o estudiante, ¿cuál de los dos es su objetivo real y cómo sabría que lo ha alcanzado?
+- La distinción es entre los «efectos con» una tecnología y los «efectos de» ella: rendir mejor mientras se usa la herramienta frente a volverse más capaz sin ella. Si usted es docente, diseñador o estudiante, ¿cuál de los dos es su objetivo real y cómo sabría que lo ha alcanzado?
 - La evidencia sugiere que importa cuánto trabajo cognitivo delega: delegar tareas superficiales como la gramática perjudica menos la transferencia que delegar el razonamiento profundo y la estructura. Piense en la última vez que usó IA en una tarea. ¿Qué «capa» delegó y qué predice esa elección sobre lo que retendría?
-- La página propone condiciones que podrían favorecer la transferencia positiva: [[pedagogy|barreras pedagógicas]] de [[guardrails|seguridad]], retirada progresiva del apoyo, calibración a la preparación de quien aprende. Si usted diseñara (o fuera usuario de) una herramienta de aprendizaje con IA, ¿qué exigiría para que las ganancias mientras se usa se conviertan en capacidad duradera sin ella?
+- Varias condiciones podrían favorecer la transferencia positiva: [[pedagogy|barreras pedagógicas]] de [[guardrails|seguridad]], retirada progresiva del apoyo, calibración a la preparación de quien aprende. Si usted diseñara (o fuera usuario de) una herramienta de aprendizaje con IA, ¿qué exigiría para que las ganancias mientras se usa se conviertan en capacidad duradera sin ella?
 
 ## Introducción
 
@@ -96,7 +96,7 @@ Esto se alinea con la investigación sobre [[intelligent-tutoring|tutoría con I
 3. **Diferencias individuales:** ¿sufre menos pérdida de transferencia el estudiantado con [[prior-knowledge|conocimientos previos]] elevados que las personas noveles?
 4. **Remediación de habilidades:** ¿pueden las sesiones explícitas de práctica «sin IA» revertir la dependencia de la herramienta?
 
-La cuestión de la escala temporal tiene ahora una formalización. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] denomina «desvanecimiento cognitivo» al intervalo posterior a la retirada y le atribuye cuatro resultados candidatos: rebote elástico, meseta parcial, andamiaje latente y recuperación excesiva. La reversibilidad, sostiene el artículo, es lo que determina la gravedad, y propone un protocolo preregistrable de tres brazos y veintidós semanas para medirla. Los estudios anteriores probaron la transferencia horas después de que terminara la asistencia, así que las semanas posteriores son la parte de la primera pregunta abierta de esta página que sigue genuinamente sin medir.
+La cuestión de la escala temporal tiene ahora una formalización. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] denomina «desvanecimiento cognitivo» al intervalo posterior a la retirada y le atribuye cuatro resultados candidatos: rebote elástico, meseta parcial, andamiaje latente y recuperación excesiva. La reversibilidad, sostiene el artículo, es lo que determina la gravedad, y propone un protocolo preregistrable de tres brazos y veintidós semanas para medirla. Los estudios anteriores probaron la transferencia horas después de que terminara la asistencia, así que las semanas posteriores son la parte de la primera pregunta abierta que sigue genuinamente sin medir.
 
 ### Conexiones con conceptos relacionados
 
@@ -104,7 +104,7 @@ La transferencia del aprendizaje conecta con la [[metacognition|metacognición]]
 
 ## Concepciones erróneas
 
-**«Las ganancias en tareas asistidas por IA demuestran un aprendizaje transferible.»** El patrón que encuentra el corpus es el contrario: **los cinco estudios** de la síntesis que aquí se reseña muestran **transferencia negativa o nula** cuando la intervención es IA de propósito general —estudiantado de matemáticas de secundaria con mejores calificaciones de práctica que obtuvo **alrededor de un 17% peor** resultado en los exámenes finales sin material, y un estudio de escritura de ensayos en el que **el 83% no logró recordar sus propias citas**. El desempeño asistido inmediato es la medida menos transferible de la que se dispone.
+**«Las ganancias en tareas asistidas por IA demuestran un aprendizaje transferible.»** El patrón que encuentra la evidencia es el contrario: **los cinco estudios** de la síntesis que aquí se reseña muestran **transferencia negativa o nula** cuando la intervención es IA de propósito general —estudiantado de matemáticas de secundaria con mejores calificaciones de práctica que obtuvo **alrededor de un 17% peor** resultado en los exámenes finales sin material, y un estudio de escritura de ensayos en el que **el 83% no logró recordar sus propias citas**. El desempeño asistido inmediato es la medida menos transferible de la que se dispone.
 
 **«Si un estudiante puede hacerlo con la IA, puede hacerlo.»** Esa es la definición del fracaso y no su ausencia. La transferencia exige que la capacidad sobreviva a la retirada del apoyo, y los estudios que prueban esa retirada encuentran que la capacidad estaba en la herramienta. Quien puede producir un artefacto mientras el razonamiento se realiza en otro lugar ha sido entrenado en una habilidad distinta: operar la herramienta.
 

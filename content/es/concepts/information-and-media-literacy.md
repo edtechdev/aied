@@ -12,7 +12,7 @@ page_kind: [synthesis]
 confidence: high
 updated: "2026-11-12T22:30:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-12T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,15 +37,17 @@ ai_assist:
 
 Las dos alfabetizaciones tienen hogares institucionales separados. La alfabetización informacional se codificó en la biblioteconomía y las ciencias de la información, de forma más visible en el Marco de la ACRL, como un conjunto de disposiciones en torno a la autoridad, el proceso y el valor. La alfabetización mediática surgió de los estudios de comunicación y medios y de la educación mediática escolar, y pregunta por la autoría, la técnica, la audiencia y el efecto. Una juzga si una fuente merece credibilidad; la otra pregunta quién hizo un mensaje y qué está haciendo.
 
-Esa división siempre ha sido más limpia en la teoría que en un aula. Ambas alfabetizaciones enseñan a los estudiantes a frenar, comprobar la procedencia y resistir la fluidez. Ambas se construyeron sobre el supuesto de que el artefacto tenía un autor que pagó un coste por producirlo. La IA generativa retira ese supuesto de ambas a la vez: el texto se sintetiza a partir de un corpus no rastreable, las imágenes y las voces se clonan, y las cuentas automatizadas simulan a la propia audiencia.
+Esa división siempre ha sido más limpia en la teoría que en un aula. Ambas alfabetizaciones enseñan a los estudiantes a frenar, comprobar la procedencia y resistir la fluidez. Ambas se construyeron sobre el supuesto de que el artefacto tenía un autor que pagó un coste por producirlo. La IA generativa retira ese supuesto de ambas a la vez: el texto se sintetiza a partir de datos de entrenamiento no rastreables, las imágenes y las voces se clonan, y las cuentas automatizadas simulan a la propia audiencia.
 
-Esta página cubre el par porque el corpus los trata como un solo problema instruccional con dos conjuntos de resultados. La evidencia es desigual —un mapa bibliométrico y dos revisiones sistemáticas en el lado de la información, una intervención pequeña y un estudio de entrevistas a expertos en el lado de los medios— y casi ninguna prueba un plan de estudios combinado. Esa ausencia es en sí misma el hallazgo que vale la pena llevar a la práctica.
+Los dos se tratan aquí como un solo problema instruccional con dos conjuntos de resultados. La evidencia es desigual —un mapa bibliométrico y dos revisiones sistemáticas en el lado de la información, una intervención pequeña y un estudio de entrevistas a expertos en el lado de los medios— y casi ninguna prueba un plan de estudios combinado. Esa ausencia es en sí misma el hallazgo que vale la pena llevar a la práctica.
 
 ## Dónde divergen los dos constructos
 
 El objeto de la alfabetización informacional es la fuente, y su pregunta central es si la afirmación es verdadera y la evidencia que la respalda creíble. El objeto de la alfabetización mediática es el mensaje, y su pregunta central es quién lo hizo, cómo, para quién y con qué fin. Una cita fabricada falla la primera prueba; un deepfake puede pasar todas las comprobaciones factuales que un estudiante sabe ejecutar mientras falla la segunda.
 
 Las literaturas empíricas reflejan la división. Una encuesta a 236 estudiantes universitarios estadounidenses preguntó dónde comienzan las búsquedas académicas y encontró motores de búsqueda en el 45,5%, la página de inicio de la biblioteca en el 27,9% y un chatbot de IA en el 26,6%, con el estudiantado internacional sustituyendo recursos bibliotecarios por IA a aproximadamente el doble de la tasa nacional ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Una [[meta-analysis-systematic-review|revisión sistemática]] de 32 estudios encontró que la integración de la [[ai-literacy|alfabetización en IA]] en la instrucción en alfabetización informacional está en una «etapa de infancia», impartida mediante LibGuides y talleres más que mediante un plan de estudios ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza y Arif, 2026]]). En el lado de los medios, entrevistas con siete expertos y una encuesta a 141 estudiantes encontraron que la inclusión de la tecnología en el plan de estudios de alfabetización mediática crítica es «limitada y a menudo superficial», con docentes poco formados para herramientas que producen desinformación y deepfakes ([[critical-media-literacy-education-2026|el estudio de alfabetización mediática crítica, 2026]]).
+
+La evaluación internacional está a punto de fusionar los dos constructos. PISA 2029 introduce una evaluación de Alfabetización Mediática y en IA (MAIL) para jóvenes de 15 años, y la revisión de iRAISE de 2026 construye su definición sobre la misma integración: la alfabetización en IA como la capa más reciente de la alfabetización digital, que a su vez descansa en décadas de alfabetización mediática e informacional ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). La integración conlleva un coste de implementación que el argumento de la divergencia anticipa. El mapeo de la UNESCO de 2025 encontró que 171 de los 194 Estados miembros mencionaban la alfabetización mediática e informacional en sus marcos nacionales, pero solo 84 (43%) incluían elementos más allá de las habilidades digitales técnicas en los currículos, así que el constructo que la evaluación medirá es el que menos enseñan las escuelas.
 
 ## Cómo la IA complica la alfabetización informacional
 
@@ -67,27 +69,32 @@ La evidencia curricular sugiere que las escuelas no se han puesto al día. Las e
 
 El argumento a favor de usar la IA en el lado defensivo es plausible y se formula con amplitud: comprobaciones automáticas de credibilidad que examinan el historial y el lenguaje de una fuente en busca de señales de sesgo, detectores de deepfakes, analizadores de metadatos que buscan marcadores de procedencia, y [[simulation|simulaciones]] que permiten a los estudiantes practicar la evaluación con material sintético realista. Estas capacidades son productos reales, y su uso en el aula es práctica real.
 
-La evidencia es más delgada que las afirmaciones. Los detectores son probabilísticos y se degradan a medida que mejoran los generadores; un modelo de verificación de hechos es él mismo un modelo, así que el estudiante sigue teniendo que juzgar al verificador; y los metadatos de procedencia solo ayudan cuando un productor decide adjuntarlos. Uno de los resultados más firmes del corpus es que la instrucción en alfabetización mediática apoyada en IA puede funcionar a pequeña escala: un programa de 18 horas construido sobre el modelo 5E produjo grandes ganancias entre 36 estudiantes de cuarto grado en una escuela turca ([[demir-akar-ai-media-literacy-children-2026|Demir y Akar, 2026]]). Treinta y seis estudiantes son una prueba de concepto, no un caso de adquisición.
+La evidencia es más delgada que las afirmaciones. Los detectores son probabilísticos y se degradan a medida que mejoran los generadores; un modelo de verificación de hechos es él mismo un modelo, así que el estudiante sigue teniendo que juzgar al verificador; y los metadatos de procedencia solo ayudan cuando un productor decide adjuntarlos. Uno de los resultados más firmes de esta literatura es que la instrucción en alfabetización mediática apoyada en IA puede funcionar a pequeña escala: un programa de 18 horas construido sobre el modelo 5E produjo grandes ganancias entre 36 estudiantes de cuarto grado en una escuela turca ([[demir-akar-ai-media-literacy-children-2026|Demir y Akar, 2026]]). Treinta y seis estudiantes son una prueba de concepto, no un caso de adquisición.
 
 Un artículo de opinión del sector bibliotecario lleva la misma idea más lejos: la IA podría encargarse de la *impartición* de la alfabetización informacional mediante recuperación, tutoriales adaptativos, [[conversational-ai|chatbots]] y verificación automatizada de hechos, con [[librarians|bibliotecarios]] y no proveedores como responsables de la integración ([[offem-ai-information-literacy-library-users-2026|Offem y Arikpo, 2026]]). El artículo no informa de datos, así que es una nota de diseño sobre dónde podría vivir la instrucción y no evidencia de que funcione.
 
 Leídos juntos, los dos lados del balance sugieren una regla: la IA puede asumir la carga de *práctica* —escenarios realistas, retroalimentación inmediata, escala— pero la carga de *juicio* sigue siendo del estudiante, y cualquier herramienta que afirme reemplazarla debe evaluarse como un detector con una tasa de error medida, no adoptarse como una clave de respuestas.
 
 ## Implicaciones para la práctica
-- **Enseñe un procedimiento, dos objetos.** La rutina comprobable —rastrear la afirmación hasta una fuente, rastrear la fuente hasta un autor, preguntar qué está haciendo el artefacto— sirve para una cita y para un vídeo. Nombre qué objeto evalúa la tarea.
-- **Trate la detección como evidencia, no como veredicto.** La salida de un detector es una probabilidad; enseñe a los estudiantes a corroborarla con un segundo método y a decir qué les haría cambiar de opinión.
-- **Mantenga la producción en el plan de estudios.** Crear medios fue la pedagogía que hizo concreta la crítica; generar con IA puede apoyarla solo si los estudiantes examinan las elecciones que la herramienta hizo por ellos.
-- **Incorpore a un bibliotecario o especialista en medios dentro del flujo de trabajo.** El resultado instruccional más sólido de esta literatura proviene de un diseño en el que la consulta humana estaba integrada, no ofrecida después.
-- **Evalúe la capacidad del personal antes de escribir el programa.** El déficit medido está en el diseño de objetivos y la evaluación de resultados, no en el uso de herramientas.
+
+El profesorado puede enseñar un procedimiento contra dos objetos. Rastree la afirmación hasta una fuente, rastree la fuente hasta un autor y luego pregunte qué está haciendo el artefacto. La rutina sirve para una cita y para un vídeo, y la tarea debe nombrar qué objeto evalúa.
+
+El profesorado puede tratar la salida de un detector como evidencia y no como veredicto. Es una probabilidad, así que el estudiantado debería corroborarla con un segundo método y decir qué le haría cambiar de opinión.
+
+Quienes diseñan currículos pueden mantener la producción en el curso. Crear medios es lo que hizo concreta la crítica en los estudios revisados aquí, y generar con IA la apoya solo cuando el estudiantado examina las elecciones que la herramienta hizo por él.
+
+Quienes dirigen programas pueden integrar a un bibliotecario o especialista en medios en el flujo de trabajo. El resultado instruccional más sólido de esta literatura proviene de un diseño en el que la consulta humana estaba integrada y no se ofrecía después.
+
+Quienes desarrollan al profesorado pueden evaluar la capacidad del personal antes de que un departamento escriba su programa. El déficit medido está en el diseño de objetivos y la evaluación de resultados, no en el uso de herramientas.
 
 ## Dónde la evidencia es escasa
-La mayoría de los estudios aquí son pequeños, [[self-report-measures|autoinformados]] o ambas cosas: 236 estudiantes en una encuesta, 36 niños en una intervención, 412 bibliotecarios calificándose a sí mismos. La visibilidad bibliométrica no es práctica, y los autores del estudio cienciométrico lo dicen explícitamente. Ningún estudio del corpus evalúa un plan de estudios combinado de alfabetización informacional y mediática, y los detectores y herramientas de verificación de hechos que recomienda la literatura práctica están en gran medida sin medir en estas fuentes. La afirmación de que la verificación impulsada por IA mejora los resultados debe tratarse como una hipótesis de diseño hasta que alguien la pruebe contra un control.
+La mayoría de los estudios aquí son pequeños, [[self-report-measures|autoinformados]] o ambas cosas: 236 estudiantes en una encuesta, 36 niños en una intervención, 412 bibliotecarios calificándose a sí mismos. La visibilidad bibliométrica no es práctica, y los autores del estudio cienciométrico lo dicen explícitamente. Ningún estudio revisado aquí evalúa un plan de estudios combinado de alfabetización informacional y mediática, y los detectores y herramientas de verificación de hechos que recomienda la literatura práctica están en gran medida sin medir en estas fuentes. La afirmación de que la verificación impulsada por IA mejora los resultados debe tratarse como una hipótesis de diseño hasta que alguien la pruebe contra un control.
 
 ## Concepciones erróneas
 
 - **Un detector zanja la cuestión.** Un detector devuelve una probabilidad; corrobórela con un segundo método en lugar de tratarla como una clave de respuestas.
 - **Las dos alfabetizaciones son una sola habilidad con dos nombres.** Sus objetos difieren —la credibilidad de la fuente frente a la autoría y la intención—, así que una única rúbrica no evalúa bien ninguna de las dos.
-- **Detectar la IA inmuniza contra ella.** En el experimento de persuasión más sólido del corpus, la detección fue alta y el desplazamiento hacia la posición de la IA siguió creciendo.
+- **Detectar la IA inmuniza contra ella.** En el experimento de persuasión más sólido revisado aquí, la detección fue alta y el desplazamiento hacia la posición de la IA siguió creciendo.
 - **La competencia bibliotecaria se transfiere a la alfabetización en IA.** La carencia del personal aparece en el diseño de objetivos (M = 2,70) y en la evaluación de resultados (M = 2,62), no en el manejo de herramientas.
 
 ## Conceptos conectados
@@ -103,6 +110,7 @@ La mayoría de los estudios aquí son pequeños, [[self-report-measures|autoinfo
 - [[higher-ed]]
 
 ## Artículos conectados
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — La revisión de iRAISE en cuatro países: 84 de 194 Estados llevan la alfabetización mediática e informacional más allá de las habilidades técnicas en los currículos, y los factores humanos decidieron los resultados en los cuatro sistemas (Cerioli, 2026)
 
 - [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapping the Integration of AI Literacy Into Information Literacy Instruction in Academic Libraries: A Systematic Review of Emerging Research
 - [[jabeen-lux-ai-information-literacy-scientometric-2026]] — How artificial intelligence is reshaping information literacy in academic libraries: A global Scientometric analysis (2020–2025)

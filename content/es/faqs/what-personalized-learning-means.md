@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -32,7 +32,7 @@ ai_assist:
 
 La plataforma promete una experiencia personalizada para cada estudiante. Puede reordenar las preguntas de práctica, reescribir una explicación en torno al interés de un estudiante por el fútbol, recordar la conversación de la semana pasada o elegir qué estudia el estudiante a continuación. A las cuatro cosas se las llama personalización, y solo una se ha probado en algo parecido a esa forma.
 
-Respuesta breve para dar a un colega: la personalización nombra un cambio en alguna parte de la experiencia de aprendizaje, y su valor depende de tres cosas: qué se adapta, qué evidencia impulsa la adaptación y si el cambio mejora el aprendizaje que pretende. Un ejemplo familiar o una conversación receptiva pueden sentirse personales mientras no enseñan nada. Una adaptación eficaz puede pasar inadvertida. El resultado experimental más claro de esta base de conocimiento es estrecho: en un curso de certificación en Python de cinco meses en diez institutos de Taipéi, los estudiantes aleatorizados a una secuenciación adaptativa de problemas puntuaron alrededor de 0,150 desviaciones típicas más alto en un [[summative-assessment|examen final]] presencial y sin ayuda que los estudiantes con una secuencia fija y el mismo acceso al [[conversational-ai|chatbot]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Eso respalda la secuenciación en condiciones especificadas. No valida todo lo que se vende como personalizado.
+Respuesta breve para dar a un colega: la personalización nombra un cambio en alguna parte de la experiencia de aprendizaje, y su valor depende de tres cosas: qué se adapta, qué evidencia impulsa la adaptación y si el cambio mejora el aprendizaje que pretende. Un ejemplo familiar o una conversación receptiva pueden sentirse personales mientras no enseñan nada. Una adaptación eficaz puede pasar inadvertida. El resultado experimental más claro de esta literatura es estrecho: en un curso de certificación en Python de cinco meses en diez institutos de Taipéi, los estudiantes aleatorizados a una secuenciación adaptativa de problemas puntuaron alrededor de 0,150 desviaciones típicas más alto en un [[summative-assessment|examen final]] presencial y sin ayuda que los estudiantes con una secuencia fija y el mismo acceso al [[conversational-ai|chatbot]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Eso respalda la secuenciación en condiciones especificadas. No valida todo lo que se vende como personalizado.
 
 ## La versión breve
 

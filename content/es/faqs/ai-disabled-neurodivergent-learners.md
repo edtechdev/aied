@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -33,7 +33,7 @@ ai_assist:
 
 La carta de ajustes razonables nombra a un estudiante, un curso y una herramienta de la que usted nunca ha oído hablar. O un estudiante ha preguntado, con razón, si puede seguir usando su software de voz a texto en un examen cronometrado, y la norma de IA de su curso prohíbe cualquier tipo de IA. O la oficina de accesibilidad quiere una respuesta para el viernes sobre si licenciar una herramienta de lectura, y la evidencia del proveedor es el testimonio de otro campus.
 
-La respuesta que sobrevive a los tres casos: empiece por la barrera que crea la tarea, use las herramientas que realmente se midieron y enseñe lo que adopte. Dos reglas importan más que cualquier elección de producto. Nombre la transcripción y el OCR en su política de IA como ajustes por derecho propio, y dé estructura a la tarea en lugar de pedir a los estudiantes que la infieran. Sea realista con la evidencia: la cifra más sólida de esta página procede de entornos de educación especial de PK-12 que usaban sobre todo IA anterior a la generativa, y la literatura sobre educación superior es un mapa de lo que se ha probado.
+La respuesta que sobrevive a los tres casos: empiece por la barrera que crea la tarea, use las herramientas que realmente se midieron y enseñe lo que adopte. Dos reglas importan más que cualquier elección de producto. Nombre la transcripción y el OCR en su política de IA como ajustes por derecho propio, y dé estructura a la tarea en lugar de pedir a los estudiantes que la infieran. Sea realista con la evidencia: la cifra más sólida procede de entornos de educación especial de PK-12 que usaban sobre todo IA anterior a la generativa, y la literatura sobre educación superior es un mapa de lo que se ha probado.
 
 ## La versión breve
 
@@ -59,11 +59,11 @@ La misma cautela se aplica a las estadísticas de grupo. [[differential-effects-
 
 ## Use lo que se ha medido y lea la etiqueta
 
-El resultado [[quantitative-research|cuantitativo]] más sólido de esta página es también el más general, y viene con límites que conviene llevar a la decisión de compra.
+El resultado [[quantitative-research|cuantitativo]] más sólido es también el más general, y viene con límites que conviene llevar a la decisión de compra.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu y Peng (2024)]] sintetizaron 29 estudios (cuasi)experimentales de intervenciones basadas en IA para [[inclusive-learning|estudiantes con discapacidad]]: 239 tamaños del efecto de 41 muestras independientes, un efecto global medio estadísticamente significativo en los resultados de aprendizaje, con una g de Hedges = 0,588 (IC del 95% [0,349, 0,826], p < 0,01) y una alta heterogeneidad entre estudios. El rendimiento académico fue el subgrupo de resultados más grande (k = 80, g = 0,929) y las habilidades socioemocionales el más pequeño (k = 144, g = 0,382). El software informático, es decir, el [[speech-and-voice-technologies|reconocimiento de voz]], los sistemas expertos y los [[intelligent-tutoring|sistemas de tutoría inteligente]], rindió con fuerza (k = 74, g = 0,959) y los [[educational-robotics|robots]] de forma moderada (k = 144, g = 0,509), mientras que la RV inteligente (g = 0,528) no fue significativa. Había sesgo de publicación (β de Egger = 2,837, p < 0,001); el método trim-and-fill redujo la estimación a g = 0,269, aún significativa.
 
-Todos los estudios eran de PK-12. El 96,6% usaba instrucción basada en pasos en entornos de educación especial o clínicos, y la mayoría empleaba IA basada en reglas más antigua y no [[generative-ai|IA generativa]]. Eso respalda una adopción prudente del software instruccional estructurado. No se transfiere a un chatbot de propósito general, y tratarlo como si lo hiciera es el error más costoso que ofrece esta página.
+Todos los estudios eran de PK-12. El 96,6% usaba instrucción basada en pasos en entornos de educación especial o clínicos, y la mayoría empleaba IA basada en reglas más antigua y no [[generative-ai|IA generativa]]. Eso respalda una adopción prudente del software instruccional estructurado. No se transfiere a un chatbot de propósito general, y tratarlo como si lo hiciera es el error más costoso.
 
 Tres resultados más pequeños muestran lo que puede hacer una sola herramienta cuando la barrera es estrecha. Cada uno se probó con un puñado de estudiantes, así que trátelos como experimentos reversibles de bajo costo y no como infraestructura.
 
@@ -91,7 +91,7 @@ El fallo documentado es un ajuste suministrado sin instrucción. En *W.A. v. Cla
 
 Dos cosas hacen probable ese fallo, y ambas son institucionales. [[shin-ai-policies-sld-2026|Shin et al. (2026)]] usaron modelado de temas basado en LLM y dos rondas de encuestas Delphi con 17 expertos sobre 12 documentos estadounidenses de [[educational-policy-ai|política de IA en educación]] de 2015 a 2025. La preparación de educadores es uno de sus cinco temas validados, con 4 de 36 ítems, y los expertos clasificaron el empoderamiento del estudiante y la [[ai-literacy|alfabetización en IA]] como lo más esencial: estos estudiantes deberían aprender a usar la IA de forma responsable e independiente, con la protección frente a la dependencia excesiva enseñada como parte de la misma habilidad. Los autores de [[ludia-udl-ai-thought-partner-2026|LUDIA]] nombran el obstáculo como la "brecha entre saber y hacer": la orientación existe en abundancia, está redactada en términos generales, y una barrera siempre es particular a este aula y a esta semana.
 
-Lo que la página no puede darle es un protocolo de formación. No existen guías formales basadas en la evidencia que ayuden a educadores o familias a implementar la IA para estos estudiantes, así que la cantidad de instrucción, su secuenciación y quién la imparte son decisiones de criterio. La jurisprudencia fija el suelo y no el estándar: el estudiante tiene que acabar siendo capaz de hacer la cosa, y alguien tiene que responder por haberlo llevado hasta ahí.
+Lo que la evidencia no puede darle es un protocolo de formación. No existen guías formales basadas en la evidencia que ayuden a educadores o familias a implementar la IA para estos estudiantes, así que la cantidad de instrucción, su secuenciación y quién la imparte son decisiones de criterio. La jurisprudencia fija el suelo y no el estándar: el estudiante tiene que acabar siendo capaz de hacer la cosa, y alguien tiene que responder por haberlo llevado hasta ahí.
 
 ## Escriba la transcripción y el OCR en la norma de IA por su nombre
 
@@ -99,7 +99,7 @@ Lo que la página no puede darle es un protocolo de formación. No existen guía
 
 Una norma redactada como "nada de IA" puede por tanto retirar el principal medio del estudiante para producir trabajo legible. Nadie ha medido todavía la escala de ese desplazamiento, lo que es una razón para ser explícito en lugar de esperar la cifra. Nombre la transcripción y el OCR como ajustes en la política, junto a las prohibiciones de redacción, para que las dos cuestiones se decidan por separado. La exposición que esto crea para la institución corresponde a [[legal-issues-and-risks]].
 
-Es una corrección de una línea en la mayoría de los documentos y es la línea de mayores consecuencias de la página.
+Es una corrección de una línea en la mayoría de los documentos y es la línea de mayores consecuencias de la política.
 
 ## Dé estructura donde la tarea la da por supuesta
 
@@ -113,7 +113,7 @@ Los efectos agregados le dan una dirección. No le dicen si la herramienta funci
 
 Tres cautelas deberían dar forma a esa medida. La primera es que el orden de los subgrupos es indicativo y no algo establecido: ningún moderador de ningún tipo alcanzó significación en el metanálisis de 2024, así que clasificaciones como la de los [[learning-by-teaching|agentes enseñables]] (g = 1,100) por delante de los entrenadores socioemocionales (g = 0,336), o la de la interacción diádica por delante de la triádica (g = 0,973 frente a g = 0,385), no deben tratarse como resueltas. La dirección del efecto está respaldada; el tamaño, el óptimo de diseño y la durabilidad de cualquier ganancia no lo están.
 
-La segunda es que este corpus describe despliegues y percepciones más que aprendizaje medido. La atención (n = 4) y la comunicación social (n = 5) son las barreras menos estudiadas, y la escasez de diseños (cuasi)experimentales y longitudinales explica por qué el trabajo sobre educación superior es una revisión de alcance y no un metanálisis. La cobertura se inclina hacia estudiantes de grado y el Norte global, la búsqueda se limitó a trabajo revisado por pares en inglés y los estudiantes de posgrado están infrarrepresentados. La implicación y la satisfacción son indicadores débiles.
+La segunda es que la literatura describe despliegues y percepciones más que aprendizaje medido. La atención (n = 4) y la comunicación social (n = 5) son las barreras menos estudiadas, y la escasez de diseños (cuasi)experimentales y longitudinales explica por qué el trabajo sobre educación superior es una revisión de alcance y no un metanálisis. La cobertura se inclina hacia estudiantes de grado y el Norte global, la búsqueda se limitó a trabajo revisado por pares en inglés y los estudiantes de posgrado están infrarrepresentados. La implicación y la satisfacción son indicadores débiles.
 
 La tercera es que una herramienta que corrige una barrera puede dejar otra. Compruebe la herramienta contra la dificultad específica que el estudiante describe, sea lectura y escritura, gestión del estudio, atención o comunicación social, y evalúe contra esa dificultad y no contra cómo se sintió el estudiante con el producto. Pregunte al estudiante qué contar. Tanto los participantes de Zastudil et al. como quienes publicaban en los foros de Rezazadegan et al. describen sus necesidades con más precisión de la que tienen los productos construidos para ellos.
 
@@ -135,13 +135,13 @@ Un diagnóstico le dice qué herramienta comprar. Las barreras cruzan los diagn�
 
 Un ajuste es un arreglo personal, así que la solución corresponde al estudiante. Algunos lo son, y los que vale la pena generalizar son los que habría introducido en el diseño de todos modos. La segmentación ayudó a todos los estudiantes de su estudio. Los cambios de diseño eliminan el paso de declararse y, con él, el estigma.
 
-La implicación y la satisfacción muestran que la herramienta funcionó. Muestran que al estudiante le gustó. Este corpus es sobre todo de despliegues y percepciones, y solo 6 de 40 estudios de educación superior atendían a más de una barrera, así que un estudiante satisfecho todavía no es evidencia de que una barrera haya caído.
+La implicación y la satisfacción muestran que la herramienta funcionó. Muestran que al estudiante le gustó. La literatura es sobre todo de despliegues y percepciones, y solo 6 de 40 estudios de educación superior atendían a más de una barrera, así que un estudiante satisfecho todavía no es evidencia de que una barrera haya caído.
 
 La herramienta lleva el apoyo y enseñar es un extra. La jurisprudencia trata una herramienta no enseñada como el fallo, y los expertos en políticas clasificaron el empoderamiento del estudiante y la alfabetización en IA como su tema más esencial. Presupueste el tiempo de enseñanza junto con la licencia.
 
 ## Lo que le van a responder
 
-**"No podemos exigir una herramienta para todos."** Cuando la herramienta es un rasgo de diseño, exigirla es precisamente el objetivo. La segmentación de vídeo con pausas fijas mejoró a todos los estudiantes y llevó los errores y las vacilaciones de los participantes con TDAH a la paridad, que es el resultado de diseño universal que elimina la necesidad de declararse. Los valores por defecto accesibles siguen la misma lógica: la lectura en voz alta, el OCR y las herramientas de nivelación de texto reaparecen en los ítems de política validados de Shin et al. Su corpus muestra además cuánto camino le queda a la política, ya que solo 2 de los 12 documentos abordan de manera concreta las dificultades específicas del aprendizaje, mientras que 18 temas presentes en la política general sobre IA o sobre otras discapacidades, entre ellos la [[privacy|protección de datos]], la gestión del riesgo legal y las directrices éticas, faltan en la política sobre dificultades específicas del aprendizaje.
+**"No podemos exigir una herramienta para todos."** Cuando la herramienta es un rasgo de diseño, exigirla es precisamente el objetivo. La segmentación de vídeo con pausas fijas mejoró a todos los estudiantes y llevó los errores y las vacilaciones de los participantes con TDAH a la paridad, que es el resultado de diseño universal que elimina la necesidad de declararse. Los valores por defecto accesibles siguen la misma lógica: la lectura en voz alta, el OCR y las herramientas de nivelación de texto reaparecen en los ítems de política validados de Shin et al. Su conjunto de documentos muestra además cuánto camino le queda a la política, ya que solo 2 de los 12 documentos abordan de manera concreta las dificultades específicas del aprendizaje, mientras que 18 temas presentes en la política general sobre IA o sobre otras discapacidades, entre ellos la [[privacy|protección de datos]], la gestión del riesgo legal y las directrices éticas, faltan en la política sobre dificultades específicas del aprendizaje.
 
 **"Los subtítulos y la traducción no son [[student-support-and-success|apoyo académico]]."** Los subtítulos son un comienzo, no todo el acceso lingüístico. Las preguntas visuales y emocionales de Chen et al. existen porque una transcripción sola deja al estudiante sordo reconstruyendo un contexto que el vídeo nunca explicitó. La clasificación de los expertos en políticas también discrepa de la objeción. Sus 36 ítems validados se reparten en cinco temas, con el aprendizaje inclusivo y [[personalized-learning|personalizado]] como el mayor, con 11 (30,56%), [[ethics|ética]], equidad e inclusión con 9 (25,00%) y preparación de educadores con 4 (11,11%); sin embargo, los expertos clasificaron el empoderamiento del estudiante y la alfabetización en IA como lo más esencial de los cinco, con 6 ítems (16,67%), a la par con evaluación e investigación.
 

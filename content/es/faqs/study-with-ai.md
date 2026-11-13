@@ -12,7 +12,7 @@ research_method: [experiment, literature review, survey]
 audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/study-with-ai
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -31,7 +31,7 @@ ai_assist:
 
 Son las 11 de la noche, la hoja de problemas se entrega a las nueve de la mañana y la ventana del chat ya está abierta. La cuarta pregunta dejó de tener sentido hace una hora. La herramienta responderá en diez segundos con algo que se lee como el trabajo de un estudiante que lo entiende, y usted tiene que decidir si escribe el enunciado o si escribe primero su propio desastre.
 
-La frase que merece la pena llevarse de esta página: el mismo modelo, abierto en un momento distinto de su proceso de estudio, produce efectos opuestos en su aprendizaje. Ábralo antes de haberlo intentado y pondrá fin al pensamiento, dejándole un archivo limpio y una memoria más delgada. Ábralo después de un intento, para que le pregunte, para que le explique qué se le escapó, para que le muestre dónde se rompió su razonamiento, y funciona como un tutor. La segunda idea que conviene retener: un trabajo que salió bien no es prueba de que haya aprendido algo. Una entrega pulida muestra lo que usted y el modelo pueden hacer juntos. El examen, la prueba de nivel y el siguiente curso de la secuencia miden lo que usted puede hacer solo, que es lo que la investigación llama [[learning-gains|aprendizaje]].
+La frase que merece la pena llevarse: el mismo modelo, abierto en un momento distinto de su proceso de estudio, produce efectos opuestos en su aprendizaje. Ábralo antes de haberlo intentado y pondrá fin al pensamiento, dejándole un archivo limpio y una memoria más delgada. Ábralo después de un intento, para que le pregunte, para que le explique qué se le escapó, para que le muestre dónde se rompió su razonamiento, y funciona como un tutor. La segunda idea que conviene retener: un trabajo que salió bien no es prueba de que haya aprendido algo. Una entrega pulida muestra lo que usted y el modelo pueden hacer juntos. El examen, la prueba de nivel y el siguiente curso de la secuencia miden lo que usted puede hacer solo, que es lo que la investigación llama [[learning-gains|aprendizaje]].
 
 ## La versión breve
 
@@ -79,7 +79,7 @@ Los hábitos que separan a los dos grupos, como instrucciones para usted mismo:
 
 Tres hallazgos concretan el problema. Dávila et al. (2025) dieron a los estudiantes consejos correctos aproximadamente la mitad de las veces y encontraron que el peso que les daban variaba según su [[prior-knowledge|conocimiento previo]] y su género, de modo que la confianza no seguía la exactitud. Zheng et al. (2025) documentaron un patrón de "aplicación fallida" en el que un estudiante seguía correctamente una orientación correcta y aun así llegaba a una respuesta equivocada. La [[self-efficacy|confianza]] tampoco sirve de guía: Rheu y Cho (2025) encontraron que entender cómo funcionan los modelos de lenguaje se asociaba con más verificación de hechos [[self-report-measures|autoinformada]], mientras que algunas formas de confianza y de conocimiento de las funciones se asociaban con menos.
 
-Así que verifique todo lo que vaya a ser evaluado con una fuente que pueda nombrar. Los estudiantes del estudio de Viberg comprobaban los resultados con sus materiales del curso y con sus docentes, y uno explicaba: "solo voy al ayudante si no podemos saber si ChatGPT se está inventando cosas". Cuando de verdad no pueda saberlo, marque el punto como no resuelto y pregunte a una persona. Adoptar una afirmación para terminar la página es cómo una pequeña incertidumbre se convierte en una respuesta equivocada que usted ha ensayado.
+Así que verifique todo lo que vaya a ser evaluado con una fuente que pueda nombrar. Los estudiantes del estudio de Viberg comprobaban los resultados con sus materiales del curso y con sus docentes, y uno explicaba: "solo voy al ayudante si no podemos saber si ChatGPT se está inventando cosas". Cuando de verdad no pueda saberlo, marque el punto como no resuelto y pregunte a una persona. Adoptar una afirmación para terminar la tarea es cómo una pequeña incertidumbre se convierte en una respuesta equivocada que usted ha ensayado.
 
 Decida sus reglas básicas antes de necesitarlas. [[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella y sus colegas (2026)]] encuestaron a 151 estudiantes de grado y encontraron que los juicios éticos eran condiciones necesarias para la intención de usar un [[llm|modelo de lenguaje grande]] en la preparación de exámenes, con el razonamiento consecuencialista y el deontológico prediciendo esa intención, y la intención prediciendo con fuerza el uso real. Lo que usted decida de antemano sobre lo que hará y no hará es lo que sigue su comportamiento a las 11 de la noche.
 
@@ -121,7 +121,7 @@ La recuperación necesita un calendario. [[memdora-ai-spaced-repetition|Zhang (2
 
 **"No sé lo suficiente para intentarlo primero."** El intento es cómo se encuentra el borde de lo que uno sabe, y el pretest ayudó incluso cuando las primeras respuestas eran erróneas. Escriba qué cree que pregunta el enunciado y dónde se atasca, y abra el chat con eso.
 
-**"Mi docente lo prohibió, así que aquí no hay nada que aprender."** Los 38 estudiantes del estudio de Yan informaron de que sus docentes prohibían copiar y daban casi ninguna orientación concreta, y ese vacío empujó incluso a estudiantes bien intencionados a delegar la tarea. Una prohibición no le deja nada que hacer el día en que la herramienta esté permitida, y los hábitos de esta página son lo que usted lleva a esos cursos.
+**"Mi docente lo prohibió, así que aquí no hay nada que aprender."** Los 38 estudiantes del estudio de Yan informaron de que sus docentes prohibían copiar y daban casi ninguna orientación concreta, y ese vacío empujó incluso a estudiantes bien intencionados a delegar la tarea. Una prohibición no le deja nada que hacer el día en que la herramienta esté permitida, y los hábitos que construya ahora son lo que usted lleva a esos cursos.
 
 ## Qué hacer esta semana
 

@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-11-12T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 
 ## Introducción
 
-La rendición es la disposición que hay detrás del fallo más común en el estudio asistido por IA: no usar la herramienta demasiado, sino dar por buena su palabra. La página sobre [[cognitive-offloading|descarga cognitiva]] contiene el constructo anterior y su evidencia, y la de [[ai-misuse-learning-harm|mal uso de la IA]] contiene el inventario de daños. Esta página existe porque un grupo de trabajos distinto ahora nombra y mide algo que esas dos no acaban de capturar.
+La rendición es la disposición que hay detrás del fallo más común en el estudio asistido por IA: no usar la herramienta demasiado, sino dar por buena su palabra. La página sobre [[cognitive-offloading|descarga cognitiva]] contiene el constructo anterior y su evidencia, y la de [[ai-misuse-learning-harm|mal uso de la IA]] contiene el inventario de daños. Un grupo de trabajos distinto ahora nombra y mide algo que esas dos no acaban de capturar.
 
 Tres cosas distinguen la rendición. Tiene que ver con el *juicio* y no con el esfuerzo: un estudiante puede pasar bastante tiempo [[prompt-engineering|escribiendo prompts]], reformateando y refinando la salida sin recurrir ni una sola vez a su propio criterio sobre si la salida vale algo. A menudo es *invisible para quien aprende*: las señales que normalmente acompañan al esfuerzo —la duda, la incertidumbre, la sensación de no saber todavía— quedan cortocircuitadas por un texto fluido. Y *no se corrige de forma fiable solo con práctica o incentivos*, que es donde la evidencia se vuelve incisiva.
 

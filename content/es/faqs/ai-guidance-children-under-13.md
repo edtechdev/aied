@@ -13,7 +13,7 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-guidance-children-under-13
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -34,7 +34,7 @@ Los términos del proveedor dicen que la herramienta es para usuarios de 13 año
 
 En esa solicitud hay tres preguntas enredadas: qué puede hacer un niño de seis años con estos sistemas, qué debe la escuela a las familias cuyos hijos se encuentran con la IA en casa, y qué hacer cuando prohibir no es la respuesta que usted puede defender.
 
-La respuesta breve que puede dar a la junta: escalone el acceso por edad, enseñe a los niños cómo están construidos estos sistemas antes de entregarles uno, y mantenga a un adulto en el circuito allí donde el niño no pueda juzgar el resultado. Una prohibición general es la opción con menos evidencia detrás. En esta base de conocimiento no existe ningún estudio sobre prohibiciones por edad, y la mayor parte de la exposición de este grupo de edad ocurre en casa, donde una norma escolar no llega.
+La respuesta breve que puede dar a la junta: escalone el acceso por edad, enseñe a los niños cómo están construidos estos sistemas antes de entregarles uno, y mantenga a un adulto en el circuito allí donde el niño no pueda juzgar el resultado. Una prohibición general es la opción con menos evidencia detrás. No existe ningún estudio sobre prohibiciones por edad, y la mayor parte de la exposición de este grupo de edad ocurre en casa, donde una norma escolar no llega.
 
 ## La versión breve
 
@@ -56,7 +56,7 @@ Su evaluación es una única encuesta posterior a la exposición con 831 partici
 
 Las dos ediciones también muestran para qué sirve el límite. La franja de primaria recibe actividades basadas en plataforma, andamiadas y no generativas, de modo que el niño aprende qué hace el sistema sin un sistema que le responda. La franja avanzada une el razonamiento ético al uso generativo supervisado. El personal que espera que el compromiso siga la sofisticación de la herramienta suele encontrar lo contrario.
 
-Lo que la escalonación le compra es un orden de operaciones defendible. Muchas escuelas lo hacen al revés, compran el chatbot en otoño y enseñan sobre él en primavera, y la evidencia sobre ese orden está más abajo en esta página.
+Lo que la escalonación le compra es un orden de operaciones defendible. Muchas escuelas lo hacen al revés, compran el chatbot en otoño y enseñan sobre él en primavera, cuando el orden defendible es el inverso.
 
 ## Empiece a los más pequeños por el juego, la creación y las máquinas
 
@@ -70,7 +70,7 @@ Enseñar cómo funcionan las máquinas también pertenece a esta franja. [[tsing
 
 ## Pase a los niños de 9 a 12 años a trabajo verificado y mayormente no generativo
 
-Esta es la franja donde la evidencia curricular es más fuerte. [[demir-akar-ai-media-literacy-children-2026|Demir y Akar (2026)]] aplicaron un programa de alfabetización mediática crítica de 18 horas basado en 5E con 36 estudiantes turcos de cuarto grado, sobre privacidad de datos, comunicación segura y [[ethics|ética]] de los medios, con una *d* de Cohen entre grupos de 1,12 en lectura, 1,18 en escritura y 1,31 en alfabetización total. Un programa que cabe en un solo semestre y reporta efectos de ese tamaño es el resultado más alentador de esta página.
+Esta es la franja donde la evidencia curricular es más fuerte. [[demir-akar-ai-media-literacy-children-2026|Demir y Akar (2026)]] aplicaron un programa de alfabetización mediática crítica de 18 horas basado en 5E con 36 estudiantes turcos de cuarto grado, sobre privacidad de datos, comunicación segura y [[ethics|ética]] de los medios, con una *d* de Cohen entre grupos de 1,12 en lectura, 1,18 en escritura y 1,31 en alfabetización total. Un programa que cabe en un solo semestre y reporta efectos de ese tamaño es el resultado más alentador de esta literatura.
 
 Las edades de 9 a 12 años reciben exposición andamiada en plataformas que la escuela ha verificado, con las partes generativas reservadas para más adelante y supervisadas. Una vez que los niños pueden leer, argumentar y comprobar una afirmación, enseñarles qué está haciendo un sistema pasa a ser el trabajo, y la herramienta puede entrar como objeto de estudio en lugar de como ayudante.
 
@@ -128,9 +128,9 @@ Nada de esto es una intervención probada para enseñar a un niño a comprobar u
 
 Para esta franja de edad eso se traduce en una secuencia: sobre ella y moldeándola primero, de ella más adelante, uso compartido con un adulto allí donde el niño todavía no puede evaluar el resultado, y ninguna afirmación sobre aprendizaje duradero a partir del buen producto de una tarde.
 
-Un documento para la junta puede prometer una fecha de revisión y una definición de éxito que su escuela pueda comprobar de verdad: lecciones impartidas, docentes que pueden responder la pregunta de una familia, solicitudes de datos respondidas por escrito. Afirmar una ganancia de aprendizaje excedería todo lo que citan los estudios de esta página.
+Un documento para la junta puede prometer una fecha de revisión y una definición de éxito que su escuela pueda comprobar de verdad: lecciones impartidas, docentes que pueden responder la pregunta de una familia, solicitudes de datos respondidas por escrito. Afirmar una ganancia de aprendizaje excedería todo lo que citan los estudios aquí.
 
-No hay ningún estudio sobre prohibiciones por edad en esta base de conocimiento. Nada de aquí puede resolver si las prohibiciones que ahora aparecen en algunos sistemas escolares funcionan, y la versión honesta de esa frase pertenece a su documento para la junta. Lo que la evidencia sí muestra es que la alternativa a una prohibición no es el laissez-faire. [[moral-panic-genai-classroom|El estudio sobre disponibilidad frente a integración de la IA generativa]] encontró que poner la IA generativa a disposición sin enseñar a los estudiantes a usarla se asociaba con un rendimiento significativamente menor en preguntas aplicadas (ω² = 0,35), mientras que enseñar explícitamente su uso para tareas como resumir devolvió el rendimiento aplicado a niveles previos a la IA generativa y superó la línea base en una prueba más difícil. Esta franja de edad se puede enseñar: el programa de cuarto grado de arriba produjo efectos de *d* = 1,12 a 1,31.
+No hay ningún estudio sobre prohibiciones por edad. Nada de aquí puede resolver si las prohibiciones que ahora aparecen en algunos sistemas escolares funcionan, y la versión honesta de esa frase pertenece a su documento para la junta. Lo que la evidencia sí muestra es que la alternativa a una prohibición no es el laissez-faire. [[moral-panic-genai-classroom|El estudio sobre disponibilidad frente a integración de la IA generativa]] encontró que poner la IA generativa a disposición sin enseñar a los estudiantes a usarla se asociaba con un rendimiento significativamente menor en preguntas aplicadas (ω² = 0,35), mientras que enseñar explícitamente su uso para tareas como resumir devolvió el rendimiento aplicado a niveles previos a la IA generativa y superó la línea base en una prueba más difícil. Esta franja de edad se puede enseñar: el programa de cuarto grado de arriba produjo efectos de *d* = 1,12 a 1,31.
 
 ## Lo que las escuelas hacen mal
 
@@ -176,4 +176,4 @@ No hay ningún estudio sobre prohibiciones por edad en esta base de conocimiento
 
 ## Adónde ir después
 
-[[how-ai-impacts-students]] cubre qué les hacen las herramientas al aprendizaje, y [[incorporating-ai-literacy]] junto con [[ai-literacy|la alfabetización en IA]] cubren qué enseñar. [[parents-and-families]] y [[early-childhood-elementary-ai-education]] sostienen la base de investigación de esta página, y [[equity-ethics-pedagogical-safety-research]] es donde continúa el argumento sobre privacidad y seguridad. Si su pregunta es el lado de la evaluación para estudiantes mayores, [[should-we-use-ai-detectors]] y [[reduce-ai-cheating]] lo llevan más lejos.
+[[how-ai-impacts-students]] cubre qué les hacen las herramientas al aprendizaje, y [[incorporating-ai-literacy]] junto con [[ai-literacy|la alfabetización en IA]] cubren qué enseñar. [[parents-and-families]] y [[early-childhood-elementary-ai-education]] sostienen la base de investigación, y [[equity-ethics-pedagogical-safety-research]] es donde continúa el argumento sobre privacidad y seguridad. Si su pregunta es el lado de la evaluación para estudiantes mayores, [[should-we-use-ai-detectors]] y [[reduce-ai-cheating]] lo llevan más lejos.

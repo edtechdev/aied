@@ -8,7 +8,7 @@ pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, sc
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 - ¿Qué ha aprendido en profundidad y qué le costó aprender? ¿Cuánto de la diferencia se debió a lo que ya sabía cuando empezó?
 - Tener conocimiento previo no basta: hay que recuperarlo y conectarlo activamente. ¿Cuándo ha cambiado recordar lo que ya sabía (o no conseguirlo) la calidad con que aprendió algo nuevo?
-- La página dice que el conocimiento previo puede *interferir* cuando es erróneo (una idea errónea). ¿Se le ocurre alguna creencia que haya sostenido y que hiciera más difícil aprender información nueva y correcta?
+- El conocimiento previo puede *interferir* cuando es erróneo (una idea errónea). ¿Se le ocurre alguna creencia que haya sostenido y que hiciera más difícil aprender información nueva y correcta?
 - La IA generativa que precarga respuestas puede saltarse la práctica de recuperación que activa el conocimiento previo. ¿Cómo podría una herramienta diseñada para ayudarle a aprender impedirle en realidad recordar lo que sabe?
 - Si una IA debe estimar su estado de conocimiento previo para personalizar, ¿qué ocurre cuando esa estimación es errónea? ¿Cuánta confianza tiene en que un sistema pueda saber con exactitud lo que usted ya sabe?
 - ¿En qué se diferencia «activar el conocimiento previo» de limitarse a hacer una pregunta al estudiantado antes de [[teacher-role|enseñar]]? ¿Qué haría que esa activación profundizara de verdad el aprendizaje posterior?

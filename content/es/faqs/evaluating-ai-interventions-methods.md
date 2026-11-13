@@ -8,7 +8,7 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -43,7 +43,7 @@ Ajuste el método a la afirmación. Una encuesta le dice si la actividad gustó 
 
 La página [[research-methods-aied|Métodos de investigación en AIED]] expone qué aporta cada opción. Los experimentos aleatorizados dan la inferencia causal más sólida. Los diseños cuasiexperimentales de pre/post o de grupos emparejados encajan en clases intactas y sostienen afirmaciones más débiles. Las entrevistas, los grupos focales, las observaciones y el análisis de artefactos [[qualitative-research|cualitativos]] revelan mecanismos y experiencias inesperadas. Los [[mixed-methods-research|métodos mixtos]] emparejan la evidencia de resultados con una explicación. La [[design-based-research|investigación basada en el diseño]] conviene a un docente que refina una intervención a lo largo de iteraciones.
 
-El análisis cualitativo asistido por IA pertenece a esa lista con una condición. Reorganiza un corpus de entrevistas en minutos, así que la [[chain-behind-claim-warrantability-2026|justificabilidad]] importa tanto como la exactitud: registre las reorganizaciones documentadas que permiten a un lector inspeccionar, impugnar y revisar el camino de los datos a la afirmación.
+El análisis cualitativo asistido por IA pertenece a esa lista con una condición. Reorganiza transcripciones de entrevistas en minutos, así que la [[chain-behind-claim-warrantability-2026|justificabilidad]] importa tanto como la exactitud: registre las reorganizaciones documentadas que permiten a un lector inspeccionar, impugnar y revisar el camino de los datos a la afirmación.
 
 Una encuesta es una [[self-report-measures|medida de autoinforme]]: correcta para las actitudes, equivocada para el aprendizaje.
 

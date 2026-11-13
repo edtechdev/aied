@@ -8,7 +8,7 @@ confidence: medium
 created: "2026-09-28T21:04:13-04:00"
 updated: "2026-11-13T13:20:00-05:00"
 translation_of: concepts/mastery-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T13:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,9 +25,9 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - La mayor parte de la escolarización fija el tiempo y deja variar el rendimiento: todo el mundo avanza tras un número determinado de semanas. El aprendizaje para el dominio lo invierte: el rendimiento se mantiene constante mientras varían el tiempo, la retroalimentación y la práctica. ¿Qué modelo se parece más a cómo ha aprendido usted de verdad algo difícil?
-- Una advertencia crítica de la página: «acertar no es dominar». Quien aprende puede producir respuestas correctas y aun así pasar por alto una restricción clave, engañando al sistema para que declare el dominio antes de tiempo. ¿Se le ocurre alguna habilidad en la que ser capaz de ejecutarla correctamente no significara todavía entender de verdad cuándo *no* hay que ejecutarla?
+- «Acertar no es dominar», y quien aprende puede producir respuestas correctas y aun así pasar por alto una restricción clave, engañando al sistema para que declare el dominio antes de tiempo. ¿Se le ocurre alguna habilidad en la que ser capaz de ejecutarla correctamente no significara todavía entender de verdad cuándo *no* hay que ejecutarla?
 - La IA basada en el dominio concede a quien aprende la agencia de elegir sus propias tareas, pero las simulaciones muestran que una autoselección ingenua puede producir una sobrepráctica masiva. ¿Dónde está el equilibrio adecuado entre dejar elegir y imponer restricciones que mantengan eficiente la progresión?
-- La página insiste en la retención duradera, no solo en una ejecución correcta puntual; por eso el dominio debe ir seguido de práctica espaciada. ¿Cómo podría alguien parecer que «domina» algo hoy y perderlo en unas horas?
+- Importa la retención duradera, no solo una ejecución correcta puntual, y por eso el dominio debe ir seguido de práctica espaciada. ¿Cómo podría alguien parecer que «domina» algo hoy y perderlo en unas horas?
 - Si una IA declara que usted ha «dominado» un tema, ¿qué le pediría que comprobara antes de creerla, más allá de acertar unas cuantas respuestas?
 
 ## Introducción

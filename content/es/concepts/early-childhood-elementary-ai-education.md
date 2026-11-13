@@ -4,11 +4,12 @@ created: "2026-09-28T20:10:03-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
+connected_resources: [ai-guidance-by-age]
 connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T10:10:00-05:00"
 updated: "2026-11-12T22:30:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -45,7 +46,7 @@ ai_assist:
 
 ## Introducción
 
-Los niños pequeños interactúan con la IA cada vez más temprano —a través de juguetes con IA, chatbots, plataformas de [[adaptive-learning|aprendizaje adaptativo]] y robots de aula—, aunque difieren en su desarrollo de los estudiantes de K-12 y de educación superior que dominan la mayor parte de la [[research-methods-aied|investigación]] sobre IA en la educación. Este concepto reúne la cobertura que la base de conocimientos dedica a esa franja más joven. Se sitúa dentro del paraguas más amplio de [[k-12|K-12]], pero es distinto porque las preocupaciones son específicas del desarrollo: el [[game-based-learning|juego]] como modo principal de aprendizaje, el andamiaje adulto (padres/madres y docentes), la [[ai-literacy|alfabetización en IA]] apropiada para la edad, y una atención acentuada al [[well-being|bienestar]] y a la [[pedagogical-safety|seguridad]]. La explicación evolutiva que sustenta estas afirmaciones —cómo cambian las capacidades con la edad y por qué «apropiado para la edad» es una relación y no una etiqueta— está en [[developmental-psychology|psicología del desarrollo]].
+Los niños pequeños interactúan con la IA cada vez más temprano —a través de juguetes con IA, chatbots, plataformas de [[adaptive-learning|aprendizaje adaptativo]] y robots de aula—, aunque difieren en su desarrollo de los estudiantes de K-12 y de educación superior que dominan la mayor parte de la [[research-methods-aied|investigación]] sobre IA en la educación. Esa franja más joven tiene su propia base de evidencia. Se sitúa dentro del paraguas más amplio de [[k-12|K-12]], pero es distinto porque las preocupaciones son específicas del desarrollo: el [[game-based-learning|juego]] como modo principal de aprendizaje, el andamiaje adulto (padres/madres y docentes), la [[ai-literacy|alfabetización en IA]] apropiada para la edad, y una atención acentuada al [[well-being|bienestar]] y a la [[pedagogical-safety|seguridad]]. La explicación evolutiva que sustenta estas afirmaciones —cómo cambian las capacidades con la edad y por qué «apropiado para la edad» es una relación y no una etiqueta— está en [[developmental-psychology|psicología del desarrollo]].
 
 ## Cómo se agrupa la investigación
 
@@ -67,6 +68,8 @@ Los niños pequeños interactúan con la IA cada vez más temprano —a través 
 - **La IA aproximando juicios de desarrollo sobre cuentos infantiles.** [[clara-developmental-appropriateness-children-stories-2026|Yin et al. (2026)]] con CLARA anotan las demandas cognitivas, lingüísticas y socioemocionales de un cuento y coinciden con las referencias de edad de las editoriales el 0,904 de las veces, por delante de las fórmulas de legibilidad (0,603) y del prompting directo (0,730), y se ofrecen como una señal de apoyo, no como un sustituto del juicio humano.
 
 - **La alfabetización en IA como trabajo interpretativo de aula, no como conocimiento individual.** [[konca-preschool-genai-storytelling-ai-literacy-2026|Konca y Yigit-Gencten (2026)]] codificaron 17 sesiones de narración en un preescolar turco en las que la docente escribía todos los prompts de Midjourney y la clase veía los resultados en una pantalla compartida. Los niños explicaban los desajustes atribuyendo pensamiento, audición e intención al sistema («no pudo pensarlo lo suficientemente bien»), debatían la relación entre los prompts y los resultados, y votaban qué imágenes conservar. Como las preguntas de la docente decidían qué explicaciones se retomaban, y a veces cerraban la indagación por completo, la alfabetización temprana en IA queda aquí distribuida a lo largo de la actividad y no en poder de un niño.
+
+- **La literatura sobre la formación inicial no se ha organizado en torno a la IA.** Un mapa bibliométrico de 86 publicaciones sobre la alfabetización digital y mediática del profesorado de educación infantil en formación encontró la IA presente pero demasiado dispersa para formar un grupo temático, con la competencia digital en el centro y la alfabetización mediática solo débilmente vinculada ([[early-childhood-teacher-digital-media-literacy-bibliometric-2026|Janegizova et al., 2026]]).
 
 ## Consideraciones de desarrollo y equidad
 
@@ -126,3 +129,4 @@ Una primera ventana de neuroimagen sobre esta cuestión llega con una cautela: n
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Primera comparación por neuroimagen de niños y adultos conversando con ChatGPT: redes de control, atención y memoria menos integradas en niños de 6 a 7 años
 - [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: puntuaciones CLASS Pre-K valoradas por IA frente a evaluadores humanos entrenados en guarderías de Hong Kong (Fong et al. 2026)
 - [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison
+- [[early-childhood-teacher-digital-media-literacy-bibliometric-2026]] — Alfabetización digital y mediática del profesorado de educación infantil en formación en el contexto de la educación digital: un análisis bibliométrico de las tendencias de investigación

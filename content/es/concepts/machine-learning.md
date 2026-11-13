@@ -4,9 +4,9 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-13T14:15:14-05:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 - El aprendizaje automático puede «hackear» su propia recompensa: un tutor de IA que optimiza la implicación puede mantener entretenido al estudiantado mientras le [[teacher-role|enseña]] poco. Si un sistema parece mediblemente exitoso pero es pedagógicamente dañino, ¿qué medidas deberíamos vigilar además del número que optimiza?
 - Los modelos predictivos entrenados con calificaciones históricas pueden codificar sesgos sistémicos, y la [[remote-proctoring|supervisión automatizada de exámenes]] eleva el riesgo de falsos positivos que señalan erróneamente conductas normales. Cuando los datos arrastran los sesgos del pasado, ¿cuánto deberíamos confiar en una IA que los usa para tomar decisiones educativas de alto impacto?
 - Algunos sistemas de IA superan a los métodos interpretables por las personas, pero siguen siendo opacos: se ve que funcionan, pero no por qué. En educación, ¿cuándo es la interpretabilidad algo «deseable» y cuándo es innegociable?
-- La IA generativa suele tratarse como algo completamente nuevo, pero la página la enmarca como el subconjunto más reciente del aprendizaje automático. ¿Cómo cambia el ver ChatGPT como parte de la misma maquinaria predictiva y adaptativa los riesgos y límites que cabría esperar que herede?
+- La IA generativa suele tratarse como algo completamente nuevo, pero se enmarca como el subconjunto más reciente del aprendizaje automático. ¿Cómo cambia el ver ChatGPT como parte de la misma maquinaria predictiva y adaptativa los riesgos y límites que cabría esperar que herede?
 
 ## Introducción
 
@@ -59,7 +59,7 @@ La práctica de validación es otra fuente de exceso de confianza. [[schuetze-kn
 
 ## La IA generativa como subconjunto
 
-[[generative-ai|La IA generativa]] —los grandes modelos de lenguaje y los sistemas [[llm|LLM]] relacionados— se entiende mejor como un subconjunto del aprendizaje automático: los mismos fundamentos neuronales y de entrenamiento, pero aplicados a *generar* contenido (explicaciones, retroalimentación, diálogo) en lugar de clasificar o predecir. Hereda las preocupaciones de validez, sesgo y seguridad del campo y añade otras nuevas, como la [[hallucination-risk|alucinación]]. A los efectos de esta base de conocimiento, el aprendizaje automático es el paraguas técnico más amplio; la IA generativa es su rama contemporánea más visible.
+[[generative-ai|La IA generativa]] —los grandes modelos de lenguaje y los sistemas [[llm|LLM]] relacionados— se entiende mejor como un subconjunto del aprendizaje automático: los mismos fundamentos neuronales y de entrenamiento, pero aplicados a *generar* contenido (explicaciones, retroalimentación, diálogo) en lugar de clasificar o predecir. Hereda las preocupaciones de validez, sesgo y seguridad del campo y añade otras nuevas, como la [[hallucination-risk|alucinación]]. El aprendizaje automático es el paraguas técnico más amplio, y la IA generativa es su rama contemporánea más visible.
 
 ## Formación docente y alfabetización en aprendizaje automático
 
@@ -71,7 +71,7 @@ El aprendizaje automático también aparece en la educación como *materia*. En 
 
 **«El aprendizaje automático en la educación es una tecnología de predicción neutral.»** Sus aplicaciones arrastran consigo los fallos de gobernanza de la disciplina, y la supervisión de exámenes es el caso más claro: un modelo que infiere algo sobre un estudiante a partir de señales conductuales o fisiológicas está formulando una acusación con una puntuación de confianza adjunta, y la base de evidencia de esa inferencia es mucho más débil de lo que sugiere la tasa de despliegue.
 
-**«La IA generativa ha dejado obsoleto el aprendizaje automático clásico en la educación.»** Hacen trabajos distintos. La predicción de estados de quien aprende, la estimación de la dificultad y la previsión del progreso siguen siendo problemas clásicos de aprendizaje automático, y la literatura sobre trazado de conocimiento y calibración de ítems que documenta este corpus no se sirve de un modelo de lenguaje. La IA generativa es un subconjunto del aprendizaje automático y no su sustituto.
+**«La IA generativa ha dejado obsoleto el aprendizaje automático clásico en la educación.»** Hacen trabajos distintos. La predicción de estados de quien aprende, la estimación de la dificultad y la previsión del progreso siguen siendo problemas clásicos de aprendizaje automático, y la literatura sobre trazado de conocimiento y calibración de ítems no se sirve de un modelo de lenguaje. La IA generativa es un subconjunto del aprendizaje automático y no su sustituto.
 
 **«La formación docente debería enseñar al estudiantado sobre los LLM y no sobre el aprendizaje automático.»** Limitar la alfabetización a la capa generativa deja a los profesionales incapaces de interrogar los sistemas predictivos que toman decisiones sobre su estudiantado, que es donde se concentran los errores consecuentes.
 

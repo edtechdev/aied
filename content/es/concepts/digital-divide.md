@@ -3,12 +3,13 @@ title: Brecha digital
 created: "2026-09-28T21:03:34-04:00"
 updated: "2026-11-12T22:30:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
+connected_resources: [public-ai-libraries]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -86,7 +87,7 @@ La instrucción escolar estructurada sobre IA es un catalizador psicológico per
 
 - **La restricción de hardware puede estar disolviéndose, no cerrándose la brecha de acceso.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] sostienen que la restricción vinculante para el [[language-learning|aprendizaje de lenguas]] [[equity-in-ai-education|equitativo]] es ahora el software y no el hardware: la pila completa de síntesis, reconocimiento y traducción cabe en menos de 4 GB, las mediciones comunitarias sitúan un modelo de 3B en 4-9 tokens por segundo en un ordenador de placa única de \$80, y cinco años de práctica diaria cuestan unos \$18 de electricidad frente a \$1.200 de una suscripción en la nube y \$2.600 de tutoría semanal.
 
-- **La compresión de modelos es otra vía hacia el hardware limitado.** Un tutor adaptativo de pidgin nigeriano ajustado fino sobre un corpus de 416.343 entradas mantuvo la estructura semántica y la coherencia en 8 bits, mientras que las versiones de 4 y 5 bits redujeron la latencia de inferencia con solo una degradación mínima de la calidad instruccional, y los hablantes nativos comprobaron la aceptabilidad cultural en lugar de limitarse a las métricas ([[multilingual-adaptive-learning-nigeria-2026|Nwogo et al., 2026]]).
+- **La compresión de modelos es otra vía hacia el hardware limitado.** Un tutor adaptativo de pidgin nigeriano ajustado fino sobre 416.343 entradas mantuvo la estructura semántica y la coherencia en 8 bits, mientras que las versiones de 4 y 5 bits redujeron la latencia de inferencia con solo una degradación mínima de la calidad instruccional, y los hablantes nativos comprobaron la aceptabilidad cultural en lugar de limitarse a las métricas ([[multilingual-adaptive-learning-nigeria-2026|Nwogo et al., 2026]]).
 
 - **Un laboratorio simulado puede reproducir la factura de equipamiento que pretendía evitar.** Una [[meta-analysis-systematic-review|revisión sistemática]] de 11 estudios de gemelos digitales en educación superior STEM encontró costos de hardware de \$2000-\$15.000 por nodo de estación de trabajo funcional en cuatro estudios, con entidades físicas que limitaban el acceso a 1-3 estudiantes simultáneos en cinco, y ningún estudio incluido produjo un análisis de retorno de la inversión ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-Gonzalez et al. (2026)]]). La revisión [[benchmark|compara]] ese costo de entrada con bancos de caracterización física que cuestan desde \$30.000 hasta más de \$150.000.
 

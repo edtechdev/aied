@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 - Si un sistema de IA funciona bien en pruebas de referencia construidas con datos occidentales en inglés, ¿cuánta confianza deberías tener en que funcionará igual de bien para tu estudiantado? ¿Qué querrías comprobar antes de confiar en él en tu propio contexto?
 - Piensa en una herramienta de aprendizaje cuyos datos de entrenamiento y métricas de evaluación se desarrollaron todos en el Norte global. ¿Qué supuestos sobre la lengua, las tradiciones de conocimiento y las realidades educativas podría estar codificando en silencio, y a quién representa peor con más probabilidad?
 - Cuando se estudia la adopción de la IA, ¿qué aulas e instituciones tienden a dominar la base de evidencia? ¿Cómo podría eso sesgar lo que creemos saber sobre si la IA «funciona» en educación?
-- La página aboga por tratar las epistemologías vividas y comunitarias de quienes aprenden como algo con autoridad, y no solo como añadidos a los modelos occidentales. ¿Qué haría falta para que tu propia práctica o investigación relacionada con la IA centrara el conocimiento local en lugar de importarlo de otro lugar?
+- Las epistemologías vividas y comunitarias de quienes aprenden deberían tratarse como algo con autoridad, y no solo como añadidos a los modelos occidentales. ¿Qué haría falta para que tu propia práctica o investigación relacionada con la IA centrara el conocimiento local en lugar de importarlo de otro lugar?
 - Las restricciones de recursos son un tema recurrente en los contextos del Sur global. ¿Cómo podría la promesa de un apoyo con IA de bajo coste y escalable tanto cerrar como ampliar las brechas de oportunidad existentes, según cómo se diseñe y se despliegue?
 - ¿Cómo podrías saber si una tecnología «adoptada» en un entorno concreto se adoptó realmente porque encajaba con las condiciones locales, o porque se dio por supuesto que se transferiría? ¿Qué evidencia distinguiría ambos casos?
 
@@ -36,9 +36,9 @@ ai_assist:
 
 ## Por qué importa para el AIED
 
-La investigación convencional sobre IA y tecnología educativa ha estado históricamente dominada por conjuntos de datos y contextos [[governance|institucionales]] occidentales y en inglés. Esto crea dos problemas: (1) los [[ai-technologies|sistemas de IA]] entrenados con esos datos pueden rendir por debajo o representar mal a quienes aprenden en entornos del Sur global, y (2) las [[benchmark|pruebas de referencia]] de evaluación construidas en el Norte global pueden no reflejar las realidades educativas, las lenguas o las tradiciones de conocimiento de otras regiones. La investigación procedente de contextos del Sur global en esta base de conocimiento abarca conjuntos de datos culturalmente anclados, pruebas de referencia y estudios de adopción tecnológica, con implicaciones para la [[ai-literacy|alfabetización en IA]] y para la educación [[higher-ed|superior]] y [[k-12|K-12]].
+La investigación convencional sobre IA y tecnología educativa ha estado históricamente dominada por conjuntos de datos y contextos [[governance|institucionales]] occidentales y en inglés. Esto crea dos problemas: (1) los [[ai-technologies|sistemas de IA]] entrenados con esos datos pueden rendir por debajo o representar mal a quienes aprenden en entornos del Sur global, y (2) las [[benchmark|pruebas de referencia]] de evaluación construidas en el Norte global pueden no reflejar las realidades educativas, las lenguas o las tradiciones de conocimiento de otras regiones. La investigación procedente de contextos del Sur global abarca conjuntos de datos culturalmente anclados, pruebas de referencia y estudios de adopción tecnológica, con implicaciones para la [[ai-literacy|alfabetización en IA]] y para la educación [[higher-ed|superior]] y [[k-12|K-12]].
 
-## Aplicaciones en la base de conocimiento
+## Aplicaciones
 
 - **Datos y pruebas de referencia culturalmente anclados:** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] aporta un conjunto de datos de instrucciones sobre sistemas de conocimiento indios [[multilingual-learning|multilingüe]]; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] introduce una prueba de referencia de [[stem-education|STEM]] con base en Ghana, una de las primeras pruebas de evaluación educativa del Sur global.
 - **Conciencia ética sobre la IA en la educación superior ghanesa:** [[ai-ethical-awareness-ghana-students-2026|Acquah et al. (2026)]] validaron una escala de conciencia ética sobre la IA de tres factores (autonomía, beneficencia y justicia) con 509 estudiantes [[higher-ed|universitarios]] de Ghana, encontrando cinco perfiles latentes que van desde una conciencia uniformemente muy alta hasta un pequeño grupo con casi ninguna — el más débil en beneficencia — y sin diferencias de género, lo que aporta un anclaje de medición del Sur global para la literatura sobre [[ethics|ética]] de la IA.

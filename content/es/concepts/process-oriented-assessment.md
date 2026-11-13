@@ -12,7 +12,7 @@ confidence: high
 connected_resources: [process-feedback, code-viva, vfwa]
 translation_of: concepts/process-oriented-assessment
 updated: "2026-11-12T22:30:00-05:00"
-source_updated: "2026-11-12T15:20:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ La evaluación en la [[higher-ed|educación superior]] ha inferido durante mucho
 
 Conviene decir qué no es el concepto. No es [[authentic-assessment|evaluación auténtica]], que pregunta si una tarea refleja una práctica del mundo real que vale la pena; Thapa y Lewis mantienen los ejes separados e insisten en que una tarea auténtica con un único producto sin supervisión sigue expuesta. No es [[ai-detection|detección de IA]], que pregunta si se usó la herramienta y no cómo se tomó una decisión. Y no es [[automated-assessment|evaluación automatizada]], que se refiere a quién o qué califica: un [[eportfolio|portafolio]] por etapas calificado por una máquina puede ser orientado al proceso, y un ensayo final calificado por una persona puede no serlo. El concepto se refiere a qué evidencia se recoge, durante qué periodo y en qué condiciones se produce.
 
-La idea ha pasado de ser una propuesta a ser una recomendación recurrente en toda la base de conocimientos. Aparece como prioridad nombrada en la agenda de [[ai-education|AIED]] para la [[agency]] y la [[motivation]] de quien aprende, como la agenda de investigación organizadora del problema de [[transfer-of-learning|retención y transferencia]] en la investigación sobre [[genai-performance-vs-learning|desempeño frente a aprendizaje]], como «evaluación de caja negra» en el relato de Brunnström y Palmqvist sobre el [[self-regulated-learning|aprendizaje autorregulado]] con IA, y como una petición de formadores de docentes en ejercicio que comprobaron que su trabajo escrito para llevar a casa ya no podía evidenciar aprendizaje alguno.
+La idea ha pasado de ser una propuesta a ser una recomendación recurrente en toda la investigación. Aparece como prioridad nombrada en la agenda de [[ai-education|AIED]] para la [[agency]] y la [[motivation]] de quien aprende, como la agenda de investigación organizadora del problema de [[transfer-of-learning|retención y transferencia]] en la investigación sobre [[genai-performance-vs-learning|desempeño frente a aprendizaje]]. También aparece como «evaluación de caja negra» en el relato de Brunnström y Palmqvist sobre el [[self-regulated-learning|aprendizaje autorregulado]] con IA, y como una petición de formadores de docentes en ejercicio que comprobaron que su trabajo escrito para llevar a casa ya no podía evidenciar aprendizaje alguno.
 
 ## Cómo se ve la evidencia de proceso en la práctica
 

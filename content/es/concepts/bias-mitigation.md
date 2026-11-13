@@ -10,8 +10,9 @@ ethics: [bias-mitigation, equity-in-ai-education, ethics]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
+connected_faqs: [ai-bias-fairness-education]
 translation_of: concepts/bias-mitigation
-source_updated: "2026-11-06T01:55:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -31,7 +32,7 @@ ai_assist:
 
 ## Preguntas para reflexionar
 
-- El sesgo puede entrar en cualquier etapa de la canalización de la IA —los datos de entrenamiento, el comportamiento del modelo, los prompts, la calificación y el despliegue—. Antes de leer, ¿en qué punto de esa cadena esperaba usted que residiera el sesgo? Esta página sugiere que puede aparecer casi en cualquier lugar. ¿Cuál es un lugar que no había considerado?
+- El sesgo puede entrar en cualquier etapa de la canalización de la IA —los datos de entrenamiento, el comportamiento del modelo, los prompts, la calificación y el despliegue—. Antes de leer, ¿en qué punto de esa cadena esperaba usted que residiera el sesgo? Puede aparecer casi en cualquier lugar. ¿Cuál es un lugar que no había considerado?
 - La [[research-methods-aied|investigación]] muestra que la calificación automática de [[physics-education|física]] con IA subestima sistemáticamente al estudiantado cuyas explicaciones escritas tienen una calidad lingüística más baja: la IA califica el lenguaje, no la comprensión. ¿Por qué un sistema que coincide bien con evaluadores humanos en conjunto podría seguir penalizando de forma sistemática a quienes escriben en una lengua no nativa o con menos fluidez?
 - Un estudio encontró que un prompt con sesgo de género induce a que los ensayos del estudiantado muestren una «brecha agéntica» mayor y más contenido estereotípico de género: un sesgo transferido de la herramienta al propio trabajo de quien aprende. ¿Qué dice esto sobre el sesgo como algo que no es solo una nota injusta, sino una fuerza capaz de remodelar lo que el estudiantado produce y quién cree ser?
 - Otro estudio mostró que los LLM desplazan sus comentarios en direcciones alineadas con los estereotipos cuando se personalizan con atributos del estudiantado: se apoyan en el elogio y suavizan la crítica con el estudiantado «marcado», incluso ante ensayos idénticos. ¿Cómo podría un comentario sesgado «con amabilidad» ser más dañino que una nota obviamente errónea, por ser más difícil de detectar?
@@ -48,7 +49,7 @@ La equidad es la dimensión menos examinada en la literatura que compara la cali
 
 ## Fuentes de sesgo
 
-La investigación recogida en esta base de conocimiento documenta sesgos que entran en múltiples puntos de la canalización:
+La investigación documenta sesgos que entran en múltiples puntos de la canalización:
 
 - **Sesgo lingüístico y de calificación:** la [[ai-scoring-language-bias-physics|calificación de física basada en IA]] subestima sistemáticamente la comprensión conceptual del estudiantado cuyas explicaciones escritas tienen una calidad lingüística más baja: la IA califica el lenguaje, no la comprensión, penalizando a quienes escriben en una lengua no nativa o con menos fluidez. Es un fallo directo de validez y de equidad en la [[automated-assessment|calificación automatizada]].
 - **Transferencia de sesgo de género en la escritura asistida por LLM:** [[gender-bias-transfer-llm-writing|Colaboración contaminada]] muestra que, cuando el estudiantado escribe con un prompt de LLM con sesgo de género, sus ensayos presentan una brecha agéntica significativamente mayor y más sugerencias de ocupaciones estereotípicas de género (N = 123); la transferencia del sesgo es asimétrica y suprime la agencia en los ensayos dirigidos a mujeres. Un estudio de verificación (N = 1.600 ensayos de LLM, R² = 0,399) confirma que un prompt con sesgo de género induce un lenguaje diferenciado por género.
@@ -69,7 +70,7 @@ La investigación recogida en esta base de conocimiento documenta sesgos que ent
 
 ## Enfoques de mitigación
 
-La investigación recogida en esta base de conocimiento ilustra varias estrategias complementarias:
+La investigación ilustra varias estrategias complementarias:
 
 - **Modelado consciente de la equidad:** [[fair-explainable-edu-recommendations|El marco híbrido HKG-GRU]] integra la **optimización de robustez distribucional por grupos (GroupDRO)** para la equidad junto con la explicabilidad y la estabilidad contrafactual, evaluado con registros de Moodle (152 estudiantes, ~150.000 interacciones). Demuestra que los sistemas de recomendación pueden entrenarse para ser justos y transparentes, no solo precisos.
 - **Estimadores desesgados:** [[temporal-smoothness-debiased-kt|El aprendizaje doblemente robusto con suavidad temporal (TSDR)]] combina un modelo de propensión con un modelo de imputación del error, conservando la insesgadez si cualquiera de los dos es correcto, para eliminar el sesgo de selección de las estimaciones de dominio del seguimiento del conocimiento.
@@ -104,7 +105,7 @@ La mitigación de sesgos es el mecanismo técnico a través del cual se operacio
 - **Hacer que los sistemas sean explicables:** la transparencia sobre las decisiones de la IA es esencial para detectar y corregir el sesgo.
 - **Combinar la mitigación técnica y la humana:** emparejar los algoritmos de desesgado con la supervisión humana con la persona en el bucle, especialmente en casos de alto riesgo o baja confianza.
 
-Todo lo que hay en esta página se refiere al sesgo dentro del sistema. [[automation-bias]] se refiere al sesgo en la persona que lee su salida —aceptar una recomendación que alguien habría cuestionado si hubiera llegado a ella por su cuenta— y sobrevive incluso cuando el modelo es exacto.
+La mitigación del sesgo se refiere al sesgo dentro del sistema. [[automation-bias]] se refiere al sesgo en la persona que lee su salida —aceptar una recomendación que alguien habría cuestionado si hubiera llegado a ella por su cuenta— y sobrevive incluso cuando el modelo es exacto.
 
 ## Concepciones erróneas
 
@@ -114,7 +115,7 @@ Todo lo que hay en esta página se refiere al sesgo dentro del sistema. [[automa
 
 ## Conceptos conectados
 - [[differential-effects-across-learner-groups]]
-- [[automation-bias]] — el fallo del lado de quien lee que esta página no cubre: aceptar una recomendación sin comprobarla
+- [[automation-bias]] — el fallo del lado de quien lee: aceptar una recomendación sin comprobarla
 - [[explainable-ai]]
 - [[guardrails]]
 - [[equity-in-ai-education]]

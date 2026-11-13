@@ -10,8 +10,9 @@ audience: [instructors, instructional designers, faculty developers]
 level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
+connected_resources: [learning-design-wiki]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-11-12T19:20:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,22 +24,22 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Patrones pedagógicos** — las *secuencias ordenadas* de actividad que la investigación de esta base de conocimiento ha probado, con atención a dónde entra la [[generative-ai|IA generativa]] en la secuencia y dónde tiene que permanecer el [[human-in-the-loop-ai|juicio humano]]. Donde [[pedagogy]] cataloga enfoques ([[active-learning|aprendizaje activo]], [[problem-based-learning|aprendizaje basado en problemas]], [[collaborative-learning|aprendizaje colaborativo]]) y [[learning-design]] describe cómo se diseña un curso, esta página cataloga lo que estudiantes y docentes *hacen* realmente, en qué orden, y qué ocurrió cuando se probó. PAIRR — borrador, revisión entre pares, revisión con IA, reflexión, revisión — es el ejemplo mejor documentado, y el patrón que hay detrás de él reaparece en todas las disciplinas: esfuerzo primero, IA después, juicio humano en lo que está en juego.
+> **Patrones pedagógicos** — las *secuencias ordenadas* de actividad que la investigación ha probado, con atención a dónde entra la [[generative-ai|IA generativa]] en la secuencia y dónde tiene que permanecer el [[human-in-the-loop-ai|juicio humano]]. Donde [[pedagogy]] cataloga enfoques ([[active-learning|aprendizaje activo]], [[problem-based-learning|aprendizaje basado en problemas]], [[collaborative-learning|aprendizaje colaborativo]]) y [[learning-design]] describe cómo se diseña un curso, los patrones siguientes catalogan lo que estudiantes y docentes *hacen* realmente, en qué orden, y qué ocurrió cuando se probó. PAIRR — borrador, revisión entre pares, revisión con IA, reflexión, revisión — es el ejemplo mejor documentado, y el patrón que hay detrás de él reaparece en todas las disciplinas: esfuerzo primero, IA después, juicio humano en lo que está en juego.
 
 ## Preguntas para reflexionar
 
 - Un patrón es una *secuencia*, no una herramienta. Tome una tarea que enseñe y escriba el orden de los movimientos que hace un estudiante. ¿Dónde ayudaría la IA en ese orden, y dónde haría el trabajo que se supone que debe hacer el estudiante?
 - Varios patrones de aquí dan deliberadamente a la IA un papel *débil* — pistas en lugar de respuestas, preguntas en lugar de correcciones. ¿Por qué un tutor deliberadamente menos servicial produciría mejor aprendizaje, y qué implica eso sobre las herramientas de IA que su institución está comprando?
-- El patrón con mejor evidencia de esta página ([[learning-by-teaching|aprender enseñando]] a una IA) pide a los estudiantes que expliquen, y mejora la calidad de la explicación y de las preguntas pero *no* el recuerdo objetivo. Si lo adoptara, ¿qué cambiaría en su forma de evaluar?
+- El patrón con mejor evidencia de los que se presentan aquí ([[learning-by-teaching|aprender enseñando]] a una IA) pide a los estudiantes que expliquen, y mejora la calidad de la explicación y de las preguntas pero *no* el recuerdo objetivo. Si lo adoptara, ¿qué cambiaría en su forma de evaluar?
 - Cuando la [[ai-feedback-quality|retroalimentación con IA]] fue de mayor calidad que la retroalimentación del [[teacher-role|docente]], los estudiantes no revisaron más. ¿Qué sugiere eso sobre la diferencia entre producir retroalimentación y lograr que los estudiantes la usen?
 - Los contextos cambian la respuesta: algunos patrones se probaron en línea y asíncronos, otros presencialmente con un laboratorio. ¿Cuáles de estos podría ejecutar en su propio entorno sin herramientas nuevas, y cuáles necesitarían infraestructura que no tiene?
 - Casi todos los patrones de aquí mantienen a una persona en el punto de juicio — calificar, verificar o interpretar. ¿Es eso una decisión de diseño, una necesidad basada en la evidencia, o una limitación de lo que se ha probado hasta ahora?
 
 ## Introducción
 
-La pedagogía responde a *cómo deberíamos enseñar*; esta página responde a una pregunta más estrecha y más operativa: **¿en qué orden deberían ocurrir los movimientos, y dónde encaja la IA en ese orden?** La distinción importa porque la misma herramienta produce resultados opuestos según su posición en una secuencia. Un asistente de IA generativa colocado antes de que un estudiante intente un problema deprime de forma fiable el rendimiento posterior sin ayuda; colocado después de un intento, con pistas en lugar de respuestas, la misma clase de sistema elimina ese daño.
+La pedagogía responde a *cómo deberíamos enseñar*; la pregunta aquí es más estrecha y más operativa: **¿en qué orden deberían ocurrir los movimientos, y dónde encaja la IA en ese orden?** La distinción importa porque la misma herramienta produce resultados opuestos según su posición en una secuencia. Un asistente de IA generativa colocado antes de que un estudiante intente un problema deprime de forma fiable el rendimiento posterior sin ayuda; colocado después de un intento, con pistas en lugar de respuestas, la misma clase de sistema elimina ese daño.
 
-Todos los patrones siguientes se presentan con un estado de evidencia, porque la cobertura de la base de conocimiento es desigual y la diferencia importa a quien decide qué adoptar:
+Todos los patrones siguientes se presentan con un estado de evidencia, porque la evidencia es desigual y la diferencia importa a quien decide qué adoptar:
 
 - **Probada** — al menos un artículo informa de una prueba controlada o comparativa.
 - **Mixta** — probada, pero sin control, con resultados contradictorios, o con la variable probada entrelazada con otra cosa.
@@ -48,7 +49,7 @@ Los patrones se agrupan por la función que cumplen en una lección: colocar el 
 
 ## Patrones que colocan el esfuerzo antes de la ayuda
 
-Estos patrones comparten una afirmación estructural: quien aprende debe comprometerse con un intento antes de que la IA contribuya. Es la regla de diseño más apoyada de forma consistente en la base de conocimiento.
+Estos patrones comparten una afirmación estructural: quien aprende debe comprometerse con un intento antes de que la IA contribuya. Es la regla de diseño más apoyada de forma consistente en esta literatura.
 
 ### Recuperar o intentar antes de que la IA responda
 
@@ -68,7 +69,7 @@ El único estudio de campo que prueba la secuencia completa con un tutor guiado 
 
 **Evidencia: mixta.** Los estudiantes diagnostican un error en un artefacto — un diagrama generado por IA que viola la integridad referencial, una consulta que elimina una unión, un fragmento de código [[llm]] —, reciben pistas que les obligan a inferir la corrección en lugar de que se les entregue, la reparan y reflexionan sobre qué partes del resultado no eran fiables.
 
-Un estudio pre-post de 13 estudiantes en un curso de bases de datos en línea subió de 4,25 a 6,83 sobre 7 (t(12) ≈ 5,10, p < 0,001, d = 1,49) usando ciclos semanales de crítica y refinamiento construidos sobre casos deliberados de fallo de la IA, pero sin grupo de control la ganancia no puede separarse del [[curriculum-design|currículo]] ni del docente ([[pedagogy-ai-mistakes|Hosseini, 2026]]). Una [[meta-analysis-systematic-review|revisión sistemática]] de 72 estudios de educación en informática informa de que el análisis de errores es una *competencia distinta*: los estudiantes rindieron significativamente peor al corregir código generado por un LLM que en tareas tradicionales de examen de programación ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., 2026]]). Ningún artículo de la base de conocimiento informa de una prueba controlada de la instrucción con ejemplos erróneos como tal.
+Un estudio pre-post de 13 estudiantes en un curso de bases de datos en línea subió de 4,25 a 6,83 sobre 7 (t(12) ≈ 5,10, p < 0,001, d = 1,49) usando ciclos semanales de crítica y refinamiento construidos sobre casos deliberados de fallo de la IA, pero sin grupo de control la ganancia no puede separarse del [[curriculum-design|currículo]] ni del docente ([[pedagogy-ai-mistakes|Hosseini, 2026]]). Una [[meta-analysis-systematic-review|revisión sistemática]] de 72 estudios de educación en informática informa de que el análisis de errores es una *competencia distinta*: los estudiantes rindieron significativamente peor al corregir código generado por un LLM que en tareas tradicionales de examen de programación ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., 2026]]). Ningún estudio informa de una prueba controlada de la instrucción con ejemplos erróneos como tal.
 
 ### Ejemplos resueltos con autoexplicación
 
@@ -80,7 +81,7 @@ Cuántos ejemplos dar antes de la práctica es en sí mismo dependiente del cont
 
 ## Patrones que emparejan la retroalimentación con IA con la retroalimentación humana
 
-El hallazgo más replicado de la base de conocimiento sobre la retroalimentación con IA es que funciona mejor *combinada* con la retroalimentación humana que sola — y que su calidad no es lo que determina si los estudiantes la usan.
+El hallazgo más replicado sobre la retroalimentación con IA es que funciona mejor *combinada* con la retroalimentación humana que sola — y que su calidad no es lo que determina si los estudiantes la usan.
 
 ### PAIRR: revisión entre pares y con IA con reflexión
 
@@ -126,7 +127,7 @@ Un estudio de caso de 5 estudiantes de posgrado en un curso de información cuá
 
 ### Aprender enseñando a un alumno IA
 
-**Evidencia: probada, y el patrón con mejor evidencia de esta página.** El estudiante estudia el contenido y luego lo explica a una IA a la que se instruye para mantener una postura de novato que nunca revela la explicación objetivo; la IA pide explicaciones, ejemplos y razonamiento de verificación, secuenciados de orden inferior a superior, y persiste hasta que la explicación es satisfactoria.
+**Evidencia: probada, y el patrón con mejor evidencia de los que se presentan aquí.** El estudiante estudia el contenido y luego lo explica a una IA a la que se instruye para mantener una postura de novato que nunca revela la explicación objetivo; la IA pide explicaciones, ejemplos y razonamiento de verificación, secuenciados de orden inferior a superior, y persiste hasta que la explicación es satisfactoria.
 
 Un cuasiexperimento con 68 futuros docentes encontró que explicar a un aprendiz novato de IA generativa puntuó más alto al definir el aula invertida (M = 4,18 frente a 3,29, p < 0,001, r = 0,474) y sus actividades (M = 4,91 frente a 3,06, p < 0,001, r = 0,642), generó más preguntas y de mayor calidad (ambas p < 0,001) — pero no mostró **ninguna diferencia de grupo en las preguntas objetivas** (M = 23,18 frente a 21,57, p = 0,416) ([[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al., 2026]]). Un experimento de laboratorio aleatorizado con 41 estudiantes encontró puntuaciones más altas en el test de conocimiento (ajustada 11,86 frente a 10,53, F = 35,54, η² = 0,74) y código más claro y legible, pero **ninguna diferencia en la corrección del código** ([[chatgpt-teachable-agent-programming-lbt-2024|Chen et al., 2024]]). Un despliegue de 11 semanas en 546 estudiantes encontró que cada acto adicional de aprendizaje profundo se asociaba con una disminución del 2,7% en los intentos de cuestionario esperados (IRR 0,973, p < 0,001), con la comparación confundida por el tiempo en la tarea y con la elusión tardía de semestre subiendo hasta un 30–35% de reutilización de contenido externo ([[explique-teachable-agent-algorithms-546-students-2026|Wang et al., 2026]]). La forma consistente: ganancias en la explicación y el trabajo generativo, no en el recuerdo objetivo.
 
@@ -181,7 +182,7 @@ Dicho sin rodeos, porque son los hallazgos que más probablemente se abandonen e
 
 ## Propuestas de diseño (aún no probadas)
 
-Los patrones siguientes proceden de una guía para el profesorado facilitada por quien mantiene la base de conocimiento (*AI-Ready Course Design*, septiembre de 2026). Esa guía afirma explícitamente que sus ejemplos son **propuestas de diseño, no intervenciones probadas**, y ningún artículo de esta base de conocimiento las prueba. Se registran aquí como ideas de diseño que vale la pena probar y evaluar, y no deben leerse como evidencia.
+Los patrones siguientes proceden de una guía para el profesorado (*AI-Ready Course Design*, septiembre de 2026). Esa guía afirma explícitamente que sus ejemplos son **propuestas de diseño, no intervenciones probadas**, y ningún estudio las prueba. Se registran aquí como ideas de diseño que vale la pena probar y evaluar, y no deben leerse como evidencia.
 
 - **Argumento + rastro de revisión** (composición, humanidades). Sustituir una entrega solo de ensayo por una tesis inicial, dos pasajes de fuente anotados, un ensayo revisado y una nota de decisión de 150 palabras; permitir la crítica de la IA tras el primer borrador. Evaluar la conexión afirmación-evidencia y una sugerencia aceptada o rechazada justificada frente a las fuentes.
 - **Datos + afirmación razonada** (ciencia, cursos de laboratorio). Sustituir un informe de laboratorio pulido por observaciones en bruto, un gráfico, una nota de incertidumbre y una explicación que vincule los resultados con una afirmación; la IA puede criticar una interpretación aportada, y los estudiantes verifican esa crítica frente a sus datos.
@@ -200,10 +201,10 @@ Las advertencias de la propia guía se aplican: el vídeo grabado, las reflexion
 
 ## Conceptos conectados
 
-- [[pedagogy]] — el paraguas de enfoques de enseñanza que esta página operacionaliza en secuencias
+- [[pedagogy]] — el paraguas de enfoques de enseñanza que estos patrones operacionalizan en secuencias
 - [[learning-design]] — donde se eligen, secuencian e incorporan los patrones en un curso
 - [[scaffolding]] — el principio de apoyo y retirada que gobierna dónde encaja la ayuda de la IA
-- [[feedback]] — el sistema que los patrones de retroalimentación de esta página instancian
+- [[feedback]] — el sistema que estos patrones de retroalimentación instancian
 - [[formative-assessment]] — el propósito de evaluación al que sirven la mayoría de estos patrones
 - [[peer-assessment]] — la mitad humana de los patrones PAIRR y de retroalimentación combinada
 - [[ai-feedback-quality]] — por qué la calidad de la retroalimentación por sí sola no determina la revisión

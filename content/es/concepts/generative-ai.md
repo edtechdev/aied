@@ -1,14 +1,14 @@
 ---
 title: IA generativa
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T14:15:14-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 - La IA generativa produce contenido fluido y de tono seguro bajo demanda. ¿La fluidez equivale a la corrección? ¿Dónde ha visto un resultado de tono seguro pero erróneo y qué hizo que fuera difícil detectarlo?
 - A diferencia de los sistemas anteriores basados en reglas o en recuperación, los modelos generativos crean contenido nuevo en lugar de recuperar respuestas almacenadas. ¿Cómo cambia ese giro los riesgos (la alucinación, la dependencia excesiva, la integridad académica) respecto a un motor de búsqueda?
-- Con más de 80 artículos, la IA generativa es la línea más amplia de esta base de conocimiento, y abarca la tutoría, la evaluación, la generación de contenido y la seguridad. ¿Qué aplicación le parece la más prometedora para el aprendizaje y cuál la más peligrosa, y por qué?
+- Con más de 80 estudios, la IA generativa es la línea más amplia de esta literatura, y abarca la tutoría, la evaluación, la generación de contenido y la seguridad. ¿Qué aplicación le parece la más prometedora para el aprendizaje y cuál la más peligrosa, y por qué?
 - La misma tecnología que puede generar un tutorial socrático también puede producir una «trampa de la respuesta correcta» que fomenta la copia. ¿Qué decisiones de diseño podrían separar una IA generativa que ofrece andamiaje al aprendizaje de otra que lo cortocircuita?
 
 ## Introducción
@@ -52,9 +52,9 @@ A diferencia de los sistemas anteriores basados en reglas o en recuperación, la
 
 Un censo del uso de herramientas por parte del profesorado muestra que la atención se concentra en la producción más que en la instrucción: las herramientas de imagen, audio, vídeo y presentación constituyeron aproximadamente la mitad de las 50 herramientas nominadas por 211 docentes de nueve países, mientras que las herramientas de tutoría y de chatbot formaron el grupo orientado a la enseñanza más pequeño ([[typology-generative-ai-tools-education-2026|Bower, Torrington y Lai (2026)]]).
 
-## La cobertura de la IA generativa en la base de conocimiento
+## La cobertura de la IA generativa
 
-Con más de 80 artículos, la IA generativa es la línea tecnológica más amplia de la base de conocimiento. A lo largo de sus 394 estudios, ChatGPT con una versión no especificada apareció en 94, la familia ChatGPT-3/3.5 en 66 y la familia ChatGPT-4 en 52, de modo que muchas de las capacidades declaradas describen generaciones de modelos ya superadas ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). La investigación abarca estudios de eficacia ([[genai-meta-analysis-programming-learning|metaanálisis]]), preocupaciones de seguridad ([[hazra-safetutors-pedagogical-safety-2026|daños de los tutores]], [[eduguard-safe-rag-llm-tutor|barreras de seguridad]]) y principios de diseño ([[instructional-guidance-genai-learning|orientación didáctica]]).
+La cobertura alcanza más de 80 estudios, más que cualquier otra línea tecnológica. A lo largo de sus 394 estudios, ChatGPT con una versión no especificada apareció en 94, la familia ChatGPT-3/3.5 en 66 y la familia ChatGPT-4 en 52, de modo que muchas de las capacidades declaradas describen generaciones de modelos ya superadas ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). La investigación abarca estudios de eficacia ([[genai-meta-analysis-programming-learning|metaanálisis]]), preocupaciones de seguridad ([[hazra-safetutors-pedagogical-safety-2026|daños de los tutores]], [[eduguard-safe-rag-llm-tutor|barreras de seguridad]]) y principios de diseño ([[instructional-guidance-genai-learning|orientación didáctica]]).
 
 Agrupada en 53 estudios, la educación asistida por IA generativa superó a los enfoques sin IA generativa en rendimiento (g = 0,40), pensamiento de orden superior (g = 0,72), motivación (g = 0,81) y escritura (g = 0,76), aunque la IA generativa asistida por juegos no añadió un beneficio significativo (g = 0,24) ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
 

@@ -1,7 +1,7 @@
 ---
 title: Investigación educativa asistida por IA
 created: "2026-10-05T12:43:08-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T14:20:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -14,10 +14,14 @@ page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-13T10:36:25-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-13"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -35,7 +39,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Síntesis:** La investigación educativa asistida por IA es el uso de la IA como instrumento del propio trabajo académico de la disciplina: buscar y recuperar bibliografía, cribar registros para revisiones, codificar datos cualitativos, analizar datos, redactar y editar manuscritos, y la reflexión que pregunta qué hacen esas herramientas con el conocimiento producido. Es distinta de la investigación *sobre* la [[ai-education|IA en la educación]]: los diseños empleados para estudiar si la IA ayuda a quien aprende pertenecen a [[research-methods-aied]], la valoración de los sistemas de IA pertenece a [[ai-ed-evaluation]], y la lectura de un único estudio de AIED pertenece a [[interpreting-and-applying-aied-research]]. Esta página abarca el propio flujo de trabajo de quien investiga y la indagación de quien investiga y a la vez ejerce la docencia —la erudición de la enseñanza y el aprendizaje y la investigación en el aula— y las implicaciones epistémicas cuando la automatización entra en cualquiera de las dos. Su evidencia es escasa y reciente: una propuesta de marco, el relato reflexivo de un equipo de revisión, un pequeño estudio de grupo focal, dos estudios bibliométricos, un informe de taller y estudios de caso de un único investigador. Describe una dirección de viaje más que una práctica establecida, y la rama de la investigación del profesorado es la más débil de todas.
+> **Síntesis:** La investigación educativa asistida por IA es el uso de la IA como instrumento del propio trabajo académico de la disciplina: buscar y recuperar bibliografía, cribar registros para revisiones, codificar datos cualitativos, analizar datos, redactar y editar manuscritos, y la reflexión que pregunta qué hacen esas herramientas con el conocimiento producido. Es distinta de la investigación *sobre* la [[ai-education|IA en la educación]]: los diseños empleados para estudiar si la IA ayuda a quien aprende pertenecen a [[research-methods-aied]], la valoración de los sistemas de IA pertenece a [[ai-ed-evaluation]], y la lectura de un único estudio de AIED pertenece a [[interpreting-and-applying-aied-research]]. El tema es el propio flujo de trabajo de quien investiga y la indagación de quien investiga y a la vez ejerce la docencia —la erudición de la enseñanza y el aprendizaje y la investigación en el aula— y las implicaciones epistémicas cuando la automatización entra en cualquiera de las dos. Su evidencia es escasa y reciente: una propuesta de marco, el relato reflexivo de un equipo de revisión, un pequeño estudio de grupo focal, dos estudios bibliométricos, un informe de taller y estudios de caso de un único investigador. Describe una dirección de viaje más que una práctica establecida, y la rama de la investigación del profesorado es la más débil de todas.
 
 ## Preguntas para reflexionar
 
@@ -50,9 +54,9 @@ ai_assist:
 
 La investigación educativa asistida por IA es la disciplina volviendo las herramientas de IA hacia su propio trabajo. El objeto de estudio no es un estudiante que usa un [[intelligent-tutoring|tutor de IA]], sino un investigador que usa un modelo para buscar, cribar, extraer, codificar, analizar o escribir. Lo que cambia es el flujo de trabajo de quien investiga y, más silenciosamente, los criterios por los que su producción cuenta como evidencia.
 
-Esta página no trata deliberadamente de la investigación *sobre* la IA en la educación. Las preguntas sobre si un tutor de IA mejora el aprendizaje las aborda [[research-methods-aied]], la valoración de los sistemas de IA [[ai-ed-evaluation]], y la lectura cautelosa de un único estudio [[interpreting-and-applying-aied-research]] y [[limitations-in-aied-research]]. Las dos literaturas se confunden a menudo, y las afirmaciones sobre herramientas de la segunda se toman prestadas con frecuencia para respaldar la primera.
+El foco no es deliberadamente la investigación *sobre* la IA en la educación. Las preguntas sobre si un tutor de IA mejora el aprendizaje las aborda [[research-methods-aied]], la valoración de los sistemas de IA [[ai-ed-evaluation]], y la lectura cautelosa de un único estudio [[interpreting-and-applying-aied-research]] y [[limitations-in-aied-research]]. Las dos literaturas se confunden a menudo, y las afirmaciones sobre herramientas de la segunda se toman prestadas con frecuencia para respaldar la primera.
 
-El alcance va de la búsqueda bibliográfica a la criba, la codificación, el análisis y la escritura, e incluye la reflexión epistemológica que pregunta qué hace la automatización con el conocimiento que produce una disciplina. Incluye también la investigación del profesorado: la erudición de la enseñanza y el aprendizaje y la indagación en el aula, donde un [[teacher-role|docente]] estudia su propia práctica. Esa rama es la parte más débil de esta página, y las secciones siguientes lo dicen en lugar de disimularlo.
+El alcance va de la búsqueda bibliográfica a la criba, la codificación, el análisis y la escritura, e incluye la reflexión epistemológica que pregunta qué hace la automatización con el conocimiento que produce una disciplina. Incluye también la investigación del profesorado: la erudición de la enseñanza y el aprendizaje y la indagación en el aula, donde un [[teacher-role|docente]] estudia su propia práctica. Esa rama es la parte más débil de la evidencia, y la laguna se declara abiertamente en lugar de disimularse.
 
 ## Cómo entra la IA en el flujo de trabajo de la investigación
 
@@ -90,7 +94,7 @@ A partir de estos patrones los autores derivan PRISMA-LLM, un marco de tres capa
 
 ## Codificación y análisis cualitativos
 
-El análisis cualitativo es la etapa en la que la interpretación es el producto, lo que hace más difícil defender la delegación. La página [[qualitative-research|Investigación cualitativa]] reúne la evidencia del corpus sobre la codificación asistida por IA, incluidos estudios que muestran que el acuerdo humano-modelo no es lo mismo que la calidad de la codificación y que los errores pueden propagarse en cascada a través del análisis temporal. Esa literatura trata el modelo como una ayuda de escalado cuyos resultados exigen verificación contra el juicio humano.
+El análisis cualitativo es la etapa en la que la interpretación es el producto, lo que hace más difícil defender la delegación. [[qualitative-research|Investigación cualitativa]] reúne la evidencia sobre la codificación asistida por IA, incluidos estudios que muestran que el acuerdo humano-modelo no es lo mismo que la calidad de la codificación y que los errores pueden propagarse en cascada a través del análisis temporal. Esa literatura trata el modelo como una ayuda de escalado cuyos resultados exigen verificación contra el juicio humano.
 
 [[ai-methodologies-science-education-research-2026|Martin et al. (2026)]] describen directamente el cambio de rol. A medida que se aplican modelos de codificación automatizada, quien investiga pasa de codificar datos de estudiantes a validar los resultados del modelo; cuando los modelos no supervisados agrupan el razonamiento, el algoritmo realiza el análisis exploratorio inicial. Quienes investigan, sostienen, necesitan cada vez más habilidades de ciencia de datos junto con pericia cualitativa, [[quantitative-research|cuantitativa]] y teórica.
 
@@ -116,7 +120,7 @@ La evidencia cuantificada de que la automatización puede igualar la codificaci�
 
 ## Análisis de datos y las implicaciones epistémicas
 
-[[ai-methodologies-science-education-research-2026|Martin, Rost, Koenen y Graulich (2026)]] apremian la propia producción de conocimiento de la disciplina, y su artículo es la columna vertebral de esta página. Anclados en el relato de Hasok Chang (2004) sobre la iteración epistémica —etapas sucesivas de conocimiento que se apoyan unas en otras hacia objetivos epistémicos—, trazan un paralelismo con los aproximadamente 150 años de desarrollo del termómetro y sostienen que la disciplina puede estar ahora dentro de una iteración comparable.
+[[ai-methodologies-science-education-research-2026|Martin, Rost, Koenen y Graulich (2026)]] apremian la propia producción de conocimiento de la disciplina, y su artículo es la columna vertebral del argumento. Anclados en el relato de Hasok Chang (2004) sobre la iteración epistémica —etapas sucesivas de conocimiento que se apoyan unas en otras hacia objetivos epistémicos—, trazan un paralelismo con los aproximadamente 150 años de desarrollo del termómetro y sostienen que la disciplina puede estar ahora dentro de una iteración comparable.
 
 Su preocupación central es epistémica y no técnica. El problema de la medición nómica de Chang sostiene que medir una cantidad requiere una ley que la relacione con algo observable, pero esa ley no puede ponerse a prueba empíricamente sin conocer ya la cantidad. Las funciones de medición derivadas de la IA, que emergen de los datos de entrenamiento y la optimización y no de quien investiga, pueden intensificar esto en lugar de resolverlo, porque pueden parecer precisas y predictivas mientras permanecen opacas.
 
@@ -152,7 +156,7 @@ Las limitaciones son las que invita un único caso autoobservado. Un investigado
 
 ## Estudiantes simulados como instrumentos de investigación y evaluación
 
-[[simulating-students|Simular estudiantes]] es la página de la base de conocimiento sobre la técnica y el fenómeno: cómo construir un estudiante sintético cuyo estado de conocimiento y errores sean lo bastante fieles para representar a una persona. Esta página trata el mismo aparato como instrumento de investigación y evaluación: para qué sirve un estudiante sintético cuando una intervención, un instrumento, un benchmark o un tutor debe probarse a una escala o en condiciones que los estudiantes reales no pueden proporcionar.
+[[simulating-students|Simular estudiantes]] cubre la técnica y el fenómeno: cómo construir un estudiante sintético cuyo estado de conocimiento y errores sean lo bastante fieles para representar a una persona. El mismo aparato sirve como instrumento de investigación y evaluación: para qué sirve un estudiante sintético cuando una intervención, un instrumento, un benchmark o un tutor debe probarse a una escala o en condiciones que los estudiantes reales no pueden proporcionar.
 
 El uso más claro es evaluar un tutor a lo largo del tiempo. [[educlaw-bench-pedagogical-llm-agents-2026|Lee et al. (2026)]] sitúan a un agente tutor en una relación de 30 días con un estudiante simulado cuyo dominio, procedente de un modelo de [[knowledge-tracing|trazado de conocimiento]] entrenado con datos de estudiantes reales, impulsa sus respuestas. Al evaluar 10 adaptadores de agente, todos los adaptadores se estancaron en un plazo de 5 a 10 días muy por debajo de una referencia de aprendizaje ideal, un resultado que la evaluación de una sola sesión no puede alcanzar. Una comprobación de calibración frente a la precisión observada en las sondas se ajusta a la diagonal (ECE 0,049, Brier 0,033 sobre 1,19 millones de intentos).
 
@@ -162,15 +166,15 @@ El estado de creencia es la parte fácil de falsificar. [[llm-student-simulation
 
 Los estudiantes simulados sirven también como banco de pruebas controlado para los propios instrumentos de evaluación. [[llm-judged-helpfulness-pedagogy-signal|Fan et al. (2026)]] emparejaron cada una de tres bases de tutores con un estudiante simulado débil fijo bajo un protocolo preregistrado y encontraron que las rúbricas de utilidad de propósito general aportan poca señal [[pedagogy|pedagógica]], con siete políticas que abarcan 2,3 puntos de pedagogía juzgada dentro de una banda de 0,25 puntos de utilidad juzgada. Los turnos que revelaban respuestas iban seguidos de menos trabajo independiente del estudiantado en todas las bases.
 
-La cautela corresponde a esta página. El veredicto de un [[simulation|simulador]] solo es tan bueno como el simulador, y su cobertura tiende a los aprendices más fáciles.
+La cautela merece decirse sin rodeos: el veredicto de un [[simulation|simulador]] solo es tan bueno como el simulador, y su cobertura tiende a los aprendices más fáciles.
 
 ## Investigación del profesorado: SoTL e indagación en el aula
 
-Esta es la rama que el corpus documenta menos. La erudición de la enseñanza y el aprendizaje y la investigación en el aula son indagaciones del profesorado —un docente que estudia su propio curso, a menudo a pequeña escala, a menudo como autoestudio— y las páginas aquí reunidas no ofrecen un relato investigado del uso de la IA en ese modo.
+La investigación del profesorado es la rama que la evidencia documenta menos. La erudición de la enseñanza y el aprendizaje y la investigación en el aula son indagaciones del profesorado —un docente que estudia su propio curso, a menudo a pequeña escala, a menudo como autoestudio— y la literatura no ofrece un relato investigado del uso de la IA en ese modo.
 
 La evidencia más cercana es adyacente y no pertinente. Los estudiantes de posgrado de [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai y Chan (2026)]] estaban aprendiendo a ser investigadores, no estudiando su propia enseñanza. El equipo de [[scaffolding-systematic-reviews-2026|Wang et al. (2026)]] realizó una revisión interdisciplinaria formal, no un proyecto local. Los estudios bibliométricos describen disciplinas y editoriales, no aulas.
 
-La afirmación honesta es, por tanto, una laguna y no un hallazgo. La indagación del profesorado asistida por IA es plausiblemente generalizada y casi indocumentada en este corpus; una página que presentara la evidencia de automatización de revisiones y bibliométrica como si resolviera cómo debería usar un docente la IA para estudiar su propia enseñanza estaría extralimitándose.
+La afirmación honesta es, por tanto, una laguna y no un hallazgo. La indagación del profesorado asistida por IA es plausiblemente generalizada y casi indocumentada; presentar la evidencia de automatización de revisiones y bibliométrica como si resolviera cómo debería usar un docente la IA para estudiar su propia enseñanza sería extralimitarse.
 
 Lo que puede trasladarse es una disposición y no un resultado: nombrar el papel de la IA en los métodos, mantener humanas las decisiones interpretativas y reportar qué se verificó y qué no.
 
@@ -179,7 +183,7 @@ Lo que puede trasladarse es una disposición y no un resultado: nombrar el papel
 - **Ninguna comparación directa.** Martin et al. plantean la comparación entre métodos asistidos por IA y tradicionales como trabajo futuro. Ningún artículo ancla muestra que una metodología de IA produzca conclusiones más válidas.
 - **Diseños débiles en todo el conjunto.** Los anclas son una propuesta de marco, el relato reflexivo de un equipo, un informe de taller, un estudio de grupo focal y bibliometría observacional. Ninguno es un [[rct|ensayo controlado]] de un método asistido por IA.
 - **Una laguna de notificación, no una auditoría de la práctica.** PRISMA-LLM lee el silencio a nivel de artículo; un flujo de trabajo sin evaluación en su artículo aún puede estar validado en otro lugar.
-- **La investigación del profesorado está infrarrepresentada.** Solo un puñado de páginas aquí mencionan el SoTL o la investigación en el aula, así que el corpus no puede fundamentar afirmaciones sobre docentes que estudian su propia práctica.
+- **La investigación del profesorado está infrarrepresentada.** Solo un puñado de estudios mencionan el SoTL o la investigación en el aula, así que la evidencia no puede fundamentar afirmaciones sobre docentes que estudian su propia práctica.
 - **Un blanco móvil.** Las herramientas mejoran más rápido que la publicación, así que un hallazgo sobre un flujo de trabajo de 2025 describe una generación de sistemas que puede que ya no exista en esa forma.
 
 ## Concepciones erróneas

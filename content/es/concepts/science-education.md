@@ -8,7 +8,7 @@ confidence: medium
 created: "2026-09-28T21:09:18-04:00"
 updated: "2026-11-05T16:05:17-05:00"
 translation_of: concepts/science-education
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -28,11 +28,11 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **[[science-education|Educación científica]]** — el estudio y la práctica de cómo aprende ciencias el estudiantado y de cómo enseñarlas, un campo que la IA generativa (LLM, simulaciones, laboratorios virtuales y calificación con IA) está reconfigurando en [[physics-education|física]], química y [[biology-education|biología]]. Los artículos sobre educación científica de esta base de conocimiento muestran un campo que negocia una tensión central: la IA apoya de forma demostrable la indagación, la corrección de ideas erróneas y la evaluación a escala, y a la vez su valor depende del diseño instruccional y conlleva riesgos reales de [[cognitive-offloading|dependencia excesiva]], alucinación y aprendizaje deshumanizado y orientado al beneficio.
+> **[[science-education|Educación científica]]** — el estudio y la práctica de cómo aprende ciencias el estudiantado y de cómo enseñarlas, un campo que la IA generativa (LLM, simulaciones, laboratorios virtuales y calificación con IA) está reconfigurando en [[physics-education|física]], química y [[biology-education|biología]]. La literatura sobre educación científica muestra un campo que negocia una tensión central: la IA apoya de forma demostrable la indagación, la corrección de ideas erróneas y la evaluación a escala, y a la vez su valor depende del diseño instruccional y conlleva riesgos reales de [[cognitive-offloading|dependencia excesiva]], alucinación y aprendizaje deshumanizado y orientado al beneficio.
 
 ## Preguntas para reflexionar
 
-- La página se abre con una tensión: la IA apoya de forma demostrable la indagación y la corrección de ideas erróneas a escala, y a la vez su valor depende por completo del diseño instruccional. Antes de leer, ¿cuándo le ha parecido potente pero pedagógicamente hueca una herramienta que haya usado para enseñar ciencias, y qué marcó la diferencia?
+- Una tensión central recorre la evidencia: la IA apoya de forma demostrable la indagación y la corrección de ideas erróneas a escala, y a la vez su valor depende por completo del diseño instruccional. Antes de leer, ¿cuándo le ha parecido potente pero pedagógicamente hueca una herramienta que haya usado para enseñar ciencias, y qué marcó la diferencia?
 - Una indagación de física facilitada por IA «inventó» valores de masa que nadie había medido cuando el estudiantado la presionó. ¿Qué revela ese incidente sobre tratar las salidas de la IA como algo con autoridad en ciencia, y cómo debería entrenarse al estudiantado para tratar una respuesta que suena segura?
 - La investigación sugiere que la IA puede aportar hoy más valor como generador de contenido escalable que como tutor interactivo: en un estudio, textos de cambio conceptual bien elaborados (de especialistas o hechos por IA) superaron a un diálogo con IA dirigido por prompts. ¿Le sorprende, y qué sugiere eso sobre dónde reside ahora mismo el verdadero rendimiento pedagógico de la IA en ciencia?
 - La IA calificó 10.364 evaluaciones manuscritas de física con un alto acuerdo con los evaluadores humanos, y aun así los modelos multimodales siguen mostrando lagunas en razonamiento complejo y generación de diagramas. ¿Qué tiene el trabajo científico «auténtico y cargado de representaciones» que podría resistirse a la evaluación automatizada?

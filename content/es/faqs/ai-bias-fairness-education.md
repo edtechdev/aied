@@ -9,7 +9,7 @@ foundations: [ai-education]
 technology: [generative-ai, intelligent-tutoring]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, inclusive-learning]
 audience: [instructors, administrators, software developers, researchers]
-source_updated: "2026-11-06T02:15:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-bias-fairness-education
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -22,7 +22,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-El sesgo y la inequidad en la IA educativa no son un solo problema. La investigación de esta base de conocimiento documenta sesgos que entran en casi todas las etapas del ciclo de vida de un sistema (los datos de entrenamiento, el comportamiento del modelo, los [[prompt-engineering|prompts]], la puntuación, la retroalimentación, las decisiones de asignación y la infraestructura que los sostiene), y afecta de manera distinta a docentes, desarrolladores, investigadores y administradores. El patrón se repite de forma lo bastante consistente para decirlo sin rodeos: pida cifras por subgrupo, no promedios; defina «desfavorecido» por los resultados y no por el tamaño del grupo; y trate la equidad como algo que se diseña y se audita, no como algo que se añade después.
+El sesgo y la inequidad en la IA educativa no son un solo problema. La investigación documenta sesgos que entran en casi todas las etapas del ciclo de vida de un sistema (los datos de entrenamiento, el comportamiento del modelo, los [[prompt-engineering|prompts]], la puntuación, la retroalimentación, las decisiones de asignación y la infraestructura que los sostiene), y afecta de manera distinta a docentes, desarrolladores, investigadores y administradores. El patrón se repite de forma lo bastante consistente para decirlo sin rodeos: pida cifras por subgrupo, no promedios; defina «desfavorecido» por los resultados y no por el tamaño del grupo; y trate la equidad como algo que se diseña y se audita, no como algo que se añade después.
 
 ## Dónde aparecen el sesgo y la inequidad
 

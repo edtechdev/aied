@@ -7,7 +7,7 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-source_updated: "2026-11-12T06:25:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/faculty-ai-competencies
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -42,7 +42,7 @@ Lo esencial: la técnica de indicaciones es la parte más pequeña de todo esto.
 
 ## Defina la competencia antes de reservar la sala
 
-La síntesis [[ai-literacy|Alfabetización en IA]] de esta base de conocimiento identifica cuatro dimensiones, y son una agenda útil porque cada una requiere un tipo distinto de sesión:
+La síntesis [[ai-literacy|Alfabetización en IA]] identifica cuatro dimensiones, y son una agenda útil porque cada una requiere un tipo distinto de sesión:
 
 - **Comprensión fundamental** de las capacidades y las limitaciones de la IA.
 - **Competencia práctica** en el uso de herramientas de IA.

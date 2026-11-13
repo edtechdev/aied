@@ -10,7 +10,7 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,12 +22,12 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Educación STEM** — la educación en ciencia, tecnología, ingeniería y matemáticas es el dominio más común de la [[research-methods-aied|investigación]] sobre la [[ai-education|IA en la educación]] en esta base de conocimiento. El conocimiento estructurado de STEM, sus respuestas claras de correcto/incorrecto y su naturaleza computacional lo convierten en un banco de pruebas ideal para la [[intelligent-tutoring|tutoría con IA]] y la evaluación.
+> **Educación STEM** — la educación en ciencia, tecnología, ingeniería y matemáticas es el dominio más común de la [[research-methods-aied|investigación]] sobre la [[ai-education|IA en la educación]]. El conocimiento estructurado de STEM, sus respuestas claras de correcto/incorrecto y su naturaleza computacional lo convierten en un banco de pruebas ideal para la [[intelligent-tutoring|tutoría con IA]] y la evaluación.
 
 ## Preguntas para reflexionar
 
 - STEM es el dominio más común de la investigación sobre IA en educación porque su conocimiento está estructurado y tiene respuestas claras de correcto/incorrecto. ¿Cree que eso hace de STEM el lugar más fácil para enseñar con IA, o quizá el lugar donde los límites de la IA se enmascaran con más facilidad?
-- La página cita investigación que muestra que la adopción de la IA en las escuelas está «estratificada por disciplina»: normalizada en informática, muy prohibida en matemáticas. ¿Por qué cree que la cultura de la asignatura moldea tan intensamente la aceptación de la IA, y cuáles son las consecuencias para el estudiantado?
+- La adopción de la IA en las escuelas está «estratificada por disciplina»: normalizada en informática, muy prohibida en matemáticas. ¿Por qué cree que la cultura de la asignatura moldea tan intensamente la aceptación de la IA, y cuáles son las consecuencias para el estudiantado?
 - Si un estudiante de matemáticas usa la IA sobre todo para comprobar soluciones y obtener explicaciones, ¿es un andamiaje o una muleta? ¿Qué determina la diferencia y dónde pondría la línea?
 - Dado que los problemas de STEM suelen tener respuestas verificables, ¿qué tipos de uso de la IA en STEM cree que construyen de verdad comprensión y cuáles solo producen resultados que parecen correctos?
 - ¿Cómo podrían precisamente las cualidades que hacen de STEM un dominio ideal para la tutoría con IA —respuestas claras, corrección computable— infravalorar las partes de la ciencia y la ingeniería que son desordenadas, abiertas y basadas en el juicio?

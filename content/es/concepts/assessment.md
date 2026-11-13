@@ -1,7 +1,7 @@
 ---
 title: Evaluación
 created: "2026-09-25T03:53:48-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-13T14:15:14-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -12,7 +12,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-11-11T11:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [idstack, lesson-md, master-instructional-design]
 contributors: [editor]
@@ -37,14 +37,14 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **La evaluación**: el proceso de reunir e interpretar evidencia sobre lo que el estudiantado sabe y puede hacer, y los métodos que se emplean para valorar el aprendizaje. La [[ai-education]] ha transformado la evaluación de raíz: impulsa la [[automated-assessment|corrección y la puntuación automatizadas]], genera y adapta ítems de evaluación y plantea preguntas de fondo sobre qué miden de verdad las evaluaciones cuando el estudiantado puede usar IA. La evaluación es el concepto paraguas que organiza la cobertura que hace la base de conocimiento de la [[formative-assessment]], la [[automated-assessment|corrección automatizada]], la [[assessment-validity|validez]] y la [[educational-measurement]].
+> **La evaluación**: el proceso de reunir e interpretar evidencia sobre lo que el estudiantado sabe y puede hacer, y los métodos que se emplean para valorar el aprendizaje. La [[ai-education]] ha transformado la evaluación de raíz: impulsa la [[automated-assessment|corrección y la puntuación automatizadas]], genera y adapta ítems de evaluación y plantea preguntas de fondo sobre qué miden de verdad las evaluaciones cuando el estudiantado puede usar IA. La evaluación es el concepto paraguas que conecta la [[formative-assessment]], la [[automated-assessment|corrección automatizada]], la [[assessment-validity|validez]] y la [[educational-measurement]].
 
 ## Preguntas para reflexionar
 
 - La evaluación se define aquí como la reunión y la interpretación de evidencia sobre lo que el estudiantado sabe y puede hacer. Antes de leer, ¿cómo completaría usted la frase «una evaluación es válida si…», y qué cambiaría en esa respuesta si todo el estudiantado pudiera usar IA en secreto para producir su trabajo?
 - La página afirma que *cómo* usa el estudiantado la IA generativa (integración evaluativa frente a una adopción acrítica como atajo) predijo el rendimiento, mientras que *con qué frecuencia* la usó no predijo nada. ¿Qué sugiere esto sobre el instinto habitual de regular la IA limitando su uso?
 - Quien aprende puede entregar un trabajo de nivel profesional que no podría reproducir sin la herramienta, lo que rompe la inferencia entre el rendimiento y la capacidad subyacente. ¿Se ha encontrado con una «competencia» otorgada por un trabajo que el estudiante en realidad no podía hacer sin ayuda? ¿Qué reveló eso?
-- La pregunta constructiva que ofrece la página no es «¿cómo impedimos que el estudiantado use IA?», sino «¿cómo habilitamos un uso reflexivo en contextos que se parecen a su trabajo futuro?». ¿Cómo sería la evaluación en su campo si ese fuera el objetivo?
+- La pregunta constructiva no es «¿cómo impedimos que el estudiantado use IA?», sino «¿cómo habilitamos un uso reflexivo en contextos que se parecen a su trabajo futuro?». ¿Cómo sería la evaluación en su campo si ese fuera el objetivo?
 - El marco DRIVE propone evaluar la calidad de la [[student-engagement|implicación]] del estudiantado con la IA generativa, y no solo el artefacto, fijándose en si dirigen las indicaciones de forma estratégica e integran sus propias ideas. ¿Qué miraría usted para distinguir una [[student-ai-interaction|interacción con la IA]] profunda y reflexiva del consumo superficial?
 - La evaluación mediada por IA se está diversificando hacia [[oral-assessment|exámenes orales]], portafolios y formatos conversacionales que reducen la ansiedad y resultan profesionalmente pertinentes. ¿Qué formato de evaluación de su propia experiencia le parece más «resistente a la IA», y es la resistencia lo mismo que el valor educativo?
 
@@ -84,7 +84,7 @@ Una revisión PRISMA de 25 estudios añade un factor de riesgo que el debate sob
 
 ## El rediseño de la evaluación en la era de la IA
 
-La pregunta constructiva en la literatura sobre evaluación de esta base de conocimiento no es «¿cómo impedimos que el estudiantado use IA?», sino «¿cómo habilitamos que la use con criterio en contextos que se parecen a su trabajo futuro?». Esto replantea la evaluación en torno a:
+La pregunta constructiva en la literatura sobre evaluación no es «¿cómo impedimos que el estudiantado use IA?», sino «¿cómo habilitamos que la use con criterio en contextos que se parecen a su trabajo futuro?». Esto replantea la evaluación en torno a:
 
 - **Tareas auténticas y basadas en procesos** que hagan visible y evaluable el uso de la IA. La [[authentic-assessment|evaluación auténtica]], es decir, examinar el desempeño del estudiantado en tareas valiosas y realistas, es la respuesta principal al reto de la IA: cualquier tarea que un [[llm]] pueda simular de forma creíble pierde validez, así que la autenticidad debe rediseñarse en torno a la [[collaborative-learning|colaboración]] en tiempo real, la contribución digital y social y la construcción individual de significado. Esto conecta con [[zhan-boud-du-authentic-assessment-scoping-review-2025|los marcos de diseño para la evaluación auténtica]], [[authentic-products-authenticated-processes-2026|productos auténticos y procesos autenticados]] y [[tool-invariant-framework-agentic-ai|la evaluación del proceso invariante a la herramienta]].
 - **Diseño responsable de la evaluación** anclado en evidencia de validez ([[responsible-assessment-ai-era-stanford-2026]])

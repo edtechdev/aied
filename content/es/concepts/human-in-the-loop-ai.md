@@ -1,7 +1,7 @@
 ---
 title: IA con intervención humana (HITL)
 created: "2026-09-25T04:31:15-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T14:20:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,10 +12,14 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-13"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -43,7 +47,7 @@ ai_assist:
 - La pregunta central de diseño de la HITL no es si incluir a las personas, sino dónde en la cadena de proceso su juicio es más valioso. En un sistema de evaluación o retroalimentación con IA, ¿en qué punto insistiría usted en que una persona permanezca en el bucle?
 - Los estudios sobre la [[automated-question-generation|generación de preguntas]] con IA hallaron que los ordenadores manejan bien la claridad y la validez, pero que las personas siguen siendo necesarias para los distractores significativos y para una buena retroalimentación. ¿Por qué algunas partes del juicio educativo podrían resistirse a la automatización?
 - Una evaluación halló que tres LLM daban recomendaciones de apoyo al estudiantado inconsistentes e insensibles, y concluyó que el juicio humano sigue siendo necesario antes de que la IA asesore sobre el estudiantado. Cuando una IA «recomienda» apoyo para un estudiante con dificultades, ¿qué podría salir mal si ninguna persona lo revisa?
-- La página sugiere que las personas y los algoritmos detectan tipos distintos de problemas: automatizar lo que es verificable con precisión y preservar el juicio allí donde el matiz es irreemplazable. ¿Dónde está, en su propia práctica, la frontera entre ambas cosas?
+- Las personas y los algoritmos detectan tipos distintos de problemas: automatizar lo que es verificable con precisión y preservar el juicio allí donde el matiz es irreemplazable. ¿Dónde está, en su propia práctica, la frontera entre ambas cosas?
 - Mantener a una persona en el bucle se enmarca como una protección de la agencia y la seguridad de quien aprende, y no solo de la calidad. ¿Cómo podría la automatización plena cambiar de forma sutil la percepción que el estudiantado tiene de quién es responsable de su aprendizaje?
 - Si la IA se vuelve más autónoma, la supervisión HITL se describe como una barrera de seguridad nuclear. ¿A qué nivel de autonomía de la IA se sentiría usted incómodo, y qué le dice esa incomodidad sobre dónde corresponde la supervisión?
 
@@ -85,13 +89,13 @@ Yu et al. (2024) desplegaron un aula multiagente (agente [[teacher-role|docente]
 
 ## PedaCo: doble control para la generación de vídeo con IA
 
-Kim, Baek y Kwak (2026) extienden la HITL al [[video-education|vídeo didáctico generado por IA]] mediante **PedaCo** (cocreación pedagógica), una cadena de proceso con dos capas de control complementarias que hacen efectiva una *resistencia fundamentada* anclada en la teoría cognitiva del aprendizaje multimedia (CTML) de Mayer. La **primera capa** sitúa a la persona en la fase de guion: un LLM redacta un guion, un revisor con IA señala posibles vulneraciones de la CTML (por ejemplo, «la escena 3 introduce términos técnicos sin explicación previa»), y el profesorado decide aceptar, revisar o regenerar. La **segunda capa** ejecuta métricas automatizadas tras la síntesis sobre coherencia, redundancia, contigüidad temporal, modalidad y calidad de la imagen, que el profesorado revisa. En un estudio intrasujeto (23 docentes), el enfoque basado en la revisión mejoró todos los principios de la CTML (valoración media de 3,07→3,86, p<0,01), y el profesorado puntuó la eficiencia de producción con 4,26/5: una fricción percibida como productiva y no como gravosa. El principio de diseño se hace eco de la síntesis sobre HITL de esta base de conocimientos: las personas y los algoritmos detectan *distintos* tipos de problemas, de modo que los sistemas más eficaces automatizan allí donde la verificación computacional es precisa (la sincronización temporal) y preservan el juicio humano allí donde el matiz pedagógico es irreemplazable (el tono, la adecuación al público).
+Kim, Baek y Kwak (2026) extienden la HITL al [[video-education|vídeo didáctico generado por IA]] mediante **PedaCo** (cocreación pedagógica), una cadena de proceso con dos capas de control complementarias que hacen efectiva una *resistencia fundamentada* anclada en la teoría cognitiva del aprendizaje multimedia (CTML) de Mayer. La **primera capa** sitúa a la persona en la fase de guion: un LLM redacta un guion, un revisor con IA señala posibles vulneraciones de la CTML (por ejemplo, «la escena 3 introduce términos técnicos sin explicación previa»), y el profesorado decide aceptar, revisar o regenerar. La **segunda capa** ejecuta métricas automatizadas tras la síntesis sobre coherencia, redundancia, contigüidad temporal, modalidad y calidad de la imagen, que el profesorado revisa. En un estudio intrasujeto (23 docentes), el enfoque basado en la revisión mejoró todos los principios de la CTML (valoración media de 3,07→3,86, p<0,01), y el profesorado puntuó la eficiencia de producción con 4,26/5: una fricción percibida como productiva y no como gravosa. El principio de diseño se hace eco de la síntesis sobre HITL: las personas y los algoritmos detectan *distintos* tipos de problemas, de modo que los sistemas más eficaces automatizan allí donde la verificación computacional es precisa (la sincronización temporal) y preservan el juicio humano allí donde el matiz pedagógico es irreemplazable (el tono, la adecuación al público).
 
 La ubicación puede importar más que la presencia: el personal profesional valoró una herramienta de autoría de historias sociales como muy usable (SUS 86,8), pero informó de que la revisión llegaba demasiado tarde, porque las restricciones culturales y clínicas fijadas antes de la generación — un abaya en lugar de ropa urbana occidental — son más difíciles de recuperar editando la salida después ([[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]]).
 
 ## Por qué importa la HITL en la era de la IA
 
-El diseño con intervención humana se ha vuelto central en los debates de esta base de conocimientos sobre la [[agentic-ai|IA agéntica]] y el [[ai-literacy|uso responsable de la IA]] por varias razones convergentes:
+El diseño con intervención humana se ha vuelto central en los debates sobre la [[agentic-ai|IA agéntica]] y el [[ai-literacy|uso responsable de la IA]] por varias razones convergentes:
 
 - **Seguridad pedagógica.** La [[pedagogical-safety]] exige que la IA con autoridad didáctica real mantenga supervisión humana, de modo que los errores, sesgos o salidas dañinas se detecten antes de llegar a quienes aprenden. Esto es especialmente importante en el caso de los agentes autónomos que [[agentic-ai|persiguen objetivos de forma proactiva]].
 - **La supervisión es rara en la práctica, no solo en la teoría.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] hallaron que la gobernanza integrada robusta y la supervisión con intervención humana rara vez se manifestaban en 474 sistemas educativos de IA agéntica, incluso mientras crecían la autonomía de tarea única y la colaboración multiagente: la brecha entre el principio de diseño y la práctica desplegada.
@@ -109,7 +113,7 @@ El diseño con intervención humana se ha vuelto central en los debates de esta 
 - **La frecuencia con que mira la persona es en sí misma una decisión de diseño.** [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] separa la *frecuencia* de la supervisión de su ubicación: la HITL de alta frecuencia, que revisa cada salida de la IA antes de que llegue al estudiantado, compra control de calidad, detección rápida de errores, rendición de cuentas y calibración continua, pero puede anular la eficiencia que motivó la automatización y convertirse en un cuello de botella en los picos de corrección; la HITL de baja frecuencia, que comprueba muestras y revisa solo los casos marcados, escala y acorta los plazos de entrega, pero corre el riesgo de que los errores se propaguen sin detectarse entre entregas, debilita la rendición de cuentas y crea un problema de [[equity-in-ai-education|equidad]] si una parte del estudiantado recibe una revisión humana más exhaustiva que el resto. En lugar de prescribir una respuesta universal, el marco exige que el compromiso se decida de forma explícita frente a las tolerancias disciplinarias al error, frente a si la evaluación es [[formative-assessment|formativa]] o [[summative-assessment|sumativa]], y frente al tamaño de la cohorte y los recursos institucionales, y establece un valor por defecto en la dirección opuesta al argumento habitual de la eficiencia: empezar con una supervisión de alta frecuencia y reducirla solo cuando pruebas sustanciales demuestren una fiabilidad, una seguridad y una justicia aceptables, de modo que la carga de la prueba recaiga en demostrar que una supervisión *menor* es segura. El artículo advierte además de que los principios que sustentan dicha supervisión pueden desplazar el esfuerzo del personal en lugar de reducirlo, lo que deja las ganancias netas de eficiencia como una cuestión empírica abierta.
 - La supervisión humana desplegada puede significar enrutamiento de aprobaciones en lugar de juicio de calidad: en un sistema híbrido de consultas, el campo de aceptación codificaba únicamente si quien resolvía difería de quien preguntaba, y ninguna medida evaluaba la calidad de la respuesta ([[student-query-demand-hybrid-ai-support-2026|Gupta et al. (2026)]]).
 
-## Dónde aparece la HITL en la investigación de la base de conocimientos
+## Dónde aparece la HITL en la investigación
 
 - **Evaluación y calificación automatizadas:** los sistemas HITL combinan la generación y la puntuación con IA con la validación humana en la calificación de respuestas cortas ([[cong-confidence-asag-2026]]), la evaluación de autoexplicaciones ([[llm-automated-assessment-student-self-explanations]]) y la [[automated-essay-scoring|calificación de ensayos]] ([[psyscore-essay-scoring-zpd-feedback]]). [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros y Kortemeyer]] hacen concreta esta idea en la calificación manuscrita de [[chemistry-education|química]] general, con altas consecuencias: como la fiabilidad de un LLM [[multimodal]] varía según el formato de la respuesta (las respuestas textuales y de reacciones químicas son fiables, mientras que el dibujo y las gráficas puntúan peor que el azar) y los falsos positivos pasan inadvertidos para el estudiantado, convierten las puntuaciones brutas de la IA en una política selectiva de aceptación o aplazamiento mediante filtros de confianza — umbrales de crédito parcial, un umbral de riesgo basado en la [[item-response-theory|teoría de respuesta al ítem]] y la exclusión por tipo de problema — que remite a las personas los ítems inciertos y gráficos, un enfoque que los autores vinculan a los marcos de [[regulation|regulación]] que designan la IA en la [[assessment|evaluación educativa]] como de alto riesgo y exigen una supervisión humana documentada.
 - **Sistemas de retroalimentación:** se exige una supervisión humana documentada.
@@ -141,7 +145,7 @@ El diseño con intervención humana no es meramente una medida de seguridad: es 
 - **La escalada de la IA al experto es un movimiento de intervención humana.** El marco SCAN asigna tareas a cuatro modos de IA generativa según la distancia del estudiante, e interpreta la [[student-engagement|implicación]] pasiva dentro de una tarea de IA correctamente asignada como una señal de desajuste de competencias que desplaza al estudiante de la asistencia de IA a la asistencia experta, con una persona como auditor epistémico ([[ai-teammate-task-distribution-medical-training-2026|Tsim et al. (2026)]]).
 - **Supervisión del asesoramiento sobre la adopción de IA.** Dado que los sistemas de [[conversational-ai|IA conversacional]] que consultan usuarias escépticas pueden estar predispuestos a fomentar la adopción, la supervisión humana y la evaluación independiente son esenciales. Una auditoría que muestra que la mayoría de los modelos de frontera redirigen al personal escéptico de [[k-12]] hacia la [[student-engagement|implicación]] subraya la necesidad de un asesoramiento con IA transparente y auditable en lugar de una confianza acrítica.
 
-La fuerza de esa salvaguarda depende del [[automation-bias|sesgo de automatización]]. Una oportunidad meramente formal de aceptar o rechazar no sitúa a la persona dentro de la producción del juicio si esta se pliega a la salida, y el corpus no ha ejecutado la comparación ciega que mostraría con qué frecuencia lo hace.
+La fuerza de esa salvaguarda depende del [[automation-bias|sesgo de automatización]]. Una oportunidad meramente formal de aceptar o rechazar no sitúa a la persona dentro de la producción del juicio si esta se pliega a la salida, y ninguna comparación ciega ha mostrado con qué frecuencia lo hace.
 
 ## Concepciones erróneas
 

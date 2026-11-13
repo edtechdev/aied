@@ -7,7 +7,7 @@ foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,19 +26,19 @@ ai_assist:
 - Piense en algo que de verdad sepa hacer bien: una habilidad, un oficio, un arte. ¿Lo aprendió sobre todo de una instrucción abstracta o de participar en una comunidad real que hacía esa cosa? ¿Qué sugiere eso sobre dónde reside en realidad el conocimiento?
 - Lave y Wenger describen a las personas novatas aprendiendo mediante la «participación periférica legítima»: empezar en el borde de una comunidad de práctica e ir hacia dentro. ¿Dónde ha observado (o protagonizado) ese papel de recién llegado, y qué le permitió pasar de la periferia al centro?
 - Si el conocimiento está «situado» en contextos auténticos, ¿qué implica eso para el aula tradicional, que separa deliberadamente el aprendizaje de las situaciones del mundo real, y para las herramientas de IA diseñadas para entregar contenido descontextualizado?
-- La página trata el aprendizaje situado como una lente de diseño para la IA. ¿Cómo podría un sistema adaptativo o una simulación anclar el aprendizaje en la práctica auténtica en lugar de sacarlo de contexto?
+- ¿Cómo podría un sistema adaptativo o una simulación anclar el aprendizaje en la práctica auténtica en lugar de sacarlo de contexto?
 - ¿Qué obstáculos señala la [[research-methods-aied|investigación]] que se interponen en situar el aprendizaje impulsado por IA en contextos reales, y cuáles de ellos ha visto en su propia institución?
 
 ## Introducción
 
-El aprendizaje situado es una de las teorías de la actividad y el contexto dentro de la línea de [[learning-theories|teorías del aprendizaje]] de la base de conocimiento. Recoge temas vygotskianos de construcción social, pero añade un énfasis fuerte en la integración íntima del «hacer» y el «aprender» y en la importancia de las comunidades de práctica. Como postura educativa, se enfrenta a la escolarización tradicional y estandarizada poniendo en primer plano el contexto [[sociocultural-learning|sociocultural]] de quien aprende como elemento clave para adquirir habilidades y apropiarse de conocimientos relevantes para su realidad.
+El aprendizaje situado es una de las teorías de la actividad y el contexto dentro de [[learning-theories|las teorías del aprendizaje]]. Recoge temas vygotskianos de construcción social, pero añade un énfasis fuerte en la integración íntima del «hacer» y el «aprender» y en la importancia de las comunidades de práctica. Como postura educativa, se enfrenta a la escolarización tradicional y estandarizada poniendo en primer plano el contexto [[sociocultural-learning|sociocultural]] de quien aprende como elemento clave para adquirir habilidades y apropiarse de conocimientos relevantes para su realidad.
 
 En la literatura sobre la [[ai-education|IA en la educación]], el aprendizaje situado importa porque ofrece una lente de diseño para la IA: los [[adaptive-learning|sistemas adaptativos]], la [[intelligent-tutoring|tutoría inteligente]] en escenarios auténticos y las [[simulation|simulaciones]] [[virtual-and-augmented-reality|inmersivas]] pueden anclar la educación impulsada por IA en contextos del mundo real, mientras que el aprendizaje situado ofrece a su vez a la IA un anclaje significativo en la práctica auténtica y la complejidad. Ambos se consideran ampliamente complementarios, con la orientación humana como elemento esencial para el anclaje [[ethics|ético]].
 - **Contextualizar el propio material es un movimiento del aprendizaje situado.** DagFlow-AI genera un conjunto de datos estadísticos construido en torno a un interés declarado por el propio estudiante —un estudio de caso usó la preocupación de un estudiante por el cambio climático y la salud— mientras mantiene fijos los objetivos de aprendizaje y el nivel de destreza ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Ajustar los *datos* a quien aprende, en lugar de ajustar la explicación, trata el contexto de la práctica como lo que hay que situar. Los autores admiten el límite: los datos sintéticos no pueden enseñar la recogida de datos, la medición ni el diseño de estudios, así que el contexto es real para quien aprende pero no para el mundo.
 
 ## El aprendizaje situado como lente de diseño para la IA
 
-La investigación de la base de conocimiento trata el aprendizaje situado no solo como una teoría abstracta, sino como un marco concreto de diseño y evaluación para la IA en educación:
+La investigación trata el aprendizaje situado no solo como una teoría abstracta, sino como un marco concreto de diseño y evaluación para la IA en educación:
 
 - **Oportunidades y obstáculos.** Una [[meta-analysis-systematic-review|revisión sistemática]] PRISMA de 60 artículos (tres décadas) encuentra que la IA puede potenciar el aprendizaje situado —mediante sistemas adaptativos ajustados a las necesidades cambiantes del estudiantado, tutoría inteligente situada en escenarios auténticos, automatización de tareas administrativas y apoyo al profesorado basado en datos—, mientras que los principales obstáculos son el aprendizaje pasivo y unidireccional de la escuela tradicional, un énfasis excesivo en resultados predefinidos y el conocimiento contextual limitado del profesorado. La orientación humana sigue siendo esencial para el anclaje ético.([[vargas-situated-learning-ai-review-2024]])
 - **La IA como catalizador que conecta la educación con la realidad.** La IA puede actuar como *catalizador* del aprendizaje situado al conectar la educación con la realidad y con contextos auténticos, habilitando un aprendizaje anclado en escenarios del mundo real.([[vargas-ai-catalyst-situated-learning-2026]])
@@ -75,7 +75,7 @@ El aprendizaje situado conecta estrechamente con el [[embodied-learning|aprendiz
 
 ## Artículos conectados
 
-- [[vargas-situated-learning-ai-review-2024]] — Revisión sistemática PRISMA sobre el aprendizaje situado y la IA en la educación (referencia principal de esta página)
+- [[vargas-situated-learning-ai-review-2024]] — Revisión sistemática PRISMA sobre el aprendizaje situado y la IA en la educación (la referencia principal)
 - [[genai-educational-outcomes-meta-analysis]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[raffaghelli-situated-ai-ethics-2026]]

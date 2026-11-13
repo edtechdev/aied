@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -31,7 +31,7 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - En el aprendizaje basado en problemas, el *problema* es el motor del [[curriculum-design|currículo]], no una ilustración de contenidos enseñados en otro lugar. ¿Recuerda alguna vez en que aprendió algo en profundidad porque estaba resolviendo primero un problema real?
-- La página sostiene que los rasgos del ABP (indagación impulsada por el problema, colaboración, facilitación, reflexión) son exactamente las condiciones bajo las cuales la IA se convierte en un socio productivo y no en un atajo. ¿Por qué podría ser así?
+- Los rasgos del ABP (indagación impulsada por el problema, colaboración, facilitación, reflexión) son exactamente las condiciones bajo las cuales la IA se convierte en un socio productivo y no en un atajo. ¿Por qué podría ser así?
 - La IA rompe el vínculo entre un artefacto entregado y el esfuerzo que lo produjo: el problema del «artefacto como indicio indirecto». ¿Cómo ayuda evaluar el proceso y no solo el producto, y qué hace que evaluar el proceso sea [[assessment|difícil]]?
 - El ABP nació en la educación médica en parte porque la competencia profesional exige juicio adaptativo, no ejecución rutinaria. ¿Cuál es la diferencia entre ambos, y cómo cambia la IA aquello para lo que formamos?
 - Si una IA puede ahora poner «problemas perversos» y casos complejos del mundo real al alcance de más estudiantes, ¿qué podría perderse cuando el reto se vuelve más fácil de alcanzar?
@@ -45,11 +45,11 @@ El ABP nació en la educación médica (Universidad McMaster, década de 1960) y
 
 ## El ABP en la era de la IA
 
-La [[research-methods-aied|investigación]] de esta base de conocimiento muestra que el ABP se ha convertido en un punto focal para pensar la integración productiva de la IA.
+La [[research-methods-aied|investigación]] muestra que el ABP se ha convertido en un punto focal para pensar la integración productiva de la IA.
 
 - **Las condiciones estructurales del ABP hacen productiva la integración de la IA.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]] sostiene que los rasgos centrales del ABP — indagación impulsada por el problema, construcción colaborativa, facilitación, reflexión [[metacognition|metacognitiva]] — son exactamente las condiciones bajo las cuales la IA funciona como socio en el [[educational-development|desarrollo profesional]] en lugar de como un atajo para eludirlo. La alineación es estructural, no retrospectiva: el ABP se diseñó en torno a estas condiciones antes de que existiera la IA, arraigado en el reconocimiento de que la competencia profesional exige juicio adaptativo y no ejecución rutinaria.
 - **La IA eleva el techo de complejidad de los problemas.** El mismo argumento sostiene que la IA amplía qué categoría de problema puede abordar el ABP, poniendo los «problemas perversos» y los casos complejos del mundo real al alcance de estudiantes que antes no podían llegar a ellos.
-- **El problema del artefacto como indicio indirecto.** La IA rompe el vínculo entre un artefacto entregado y la [[student-engagement|implicación]] que lo produjo — un problema que el ABP está bien situado para abordar porque evalúa el *proceso* y la comprensión demostrada, no solo el producto. Esto conecta el ABP con la [[authentic-assessment|evaluación auténtica]] y la [[process-oriented-assessment|evaluación orientada al proceso]], y con la literatura de la base de conocimiento sobre la [[cognitive-offloading|dependencia excesiva]].
+- **El problema del artefacto como indicio indirecto.** La IA rompe el vínculo entre un artefacto entregado y la [[student-engagement|implicación]] que lo produjo — un problema que el ABP está bien situado para abordar porque evalúa el *proceso* y la comprensión demostrada, no solo el producto. Esto conecta el ABP con la [[authentic-assessment|evaluación auténtica]] y la [[process-oriented-assessment|evaluación orientada al proceso]], y con la literatura sobre la [[cognitive-offloading|dependencia excesiva]].
 
 El metaanálisis de tres niveles que agrupa el ABP apoyado en IA generativa con el aprendizaje basado en proyectos mantiene el desempeño en producto y solución en un modelo separado precisamente porque mide la producción colaborativa humano-IA y no el aprendizaje interiorizado, y esa estimación es la mayor que reportan los revisores (g = 1,958) aunque se apoya en solo seis estudios y conlleva un intervalo de predicción aproximado del 95% de [−0,740; 4,656] que cruza el cero — la forma [[quantitative-research|cuantitativa]] de la cautela sobre el artefacto como indicio indirecto expuesta arriba ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
 
@@ -64,13 +64,13 @@ El metaanálisis de tres niveles que agrupa el ABP apoyado en IA generativa con 
 
 ## El ABP frente a pedagogías relacionadas
 
-El ABP está estrechamente relacionado con el [[project-based-learning|aprendizaje basado en proyectos]] — ambos están centrados en quien aprende y se guían por el problema o el contexto —, pero el ABP se centra en un *problema* mal estructurado cuya solución exige indagación y construcción de conocimiento, mientras que el aprendizaje basado en proyectos se centra en producir un *artefacto* o proyecto tangible. El ABP también es afín al aprendizaje basado en casos y al [[inquiry-based-learning|aprendizaje basado en la indagación]], que comparten la estructura impulsada por el problema y liderada por la facilitación. En el mapa de la base de conocimiento, el argumento estructural a favor de una integración productiva de la IA se aplica a cualquier pedagogía que comparta estos rasgos, no solo al ABP.
+El ABP está estrechamente relacionado con el [[project-based-learning|aprendizaje basado en proyectos]] — ambos están centrados en quien aprende y se guían por el problema o el contexto —, pero el ABP se centra en un *problema* mal estructurado cuya solución exige indagación y construcción de conocimiento, mientras que el aprendizaje basado en proyectos se centra en producir un *artefacto* o proyecto tangible. El ABP también es afín al aprendizaje basado en casos y al [[inquiry-based-learning|aprendizaje basado en la indagación]], que comparten la estructura impulsada por el problema y liderada por la facilitación. El argumento estructural a favor de una integración productiva de la IA se aplica a cualquier pedagogía que comparta estos rasgos, no solo al ABP.
 
 [[case-based-learning|El aprendizaje basado en casos]] es el vecino más cercano: parte de un caso preparado y de un objetivo instruccional definido, mientras que el ABP deja el problema más abierto y la indagación dirigida por el estudiantado.
 
 ## Por qué el ABP importa para la integración de la IA
 
-Como el ABP pone en primer plano el proceso, la colaboración y la comprensión demostrada por encima de la producción de artefactos, es un hogar natural para el [[ai-literacy|uso responsable de la IA]]: el estudiantado aprende *con* la IA como socio y no *de* la IA como sustituto. El papel del facilitador y el diseño del problema se convierten en las palancas que determinan si la IA apoya el aprendizaje o lo desplaza — las mismas preocupaciones sobre la [[human-in-the-loop-ai|supervisión humana]] y el diseño de la evaluación que reaparecen en toda la base de conocimiento.
+Como el ABP pone en primer plano el proceso, la colaboración y la comprensión demostrada por encima de la producción de artefactos, es un hogar natural para el [[ai-literacy|uso responsable de la IA]]: el estudiantado aprende *con* la IA como socio y no *de* la IA como sustituto. El papel del facilitador y el diseño del problema se convierten en las palancas que determinan si la IA apoya el aprendizaje o lo desplaza — las mismas preocupaciones sobre la [[human-in-the-loop-ai|supervisión humana]] y el diseño de la evaluación que reaparecen en todo el campo.
 
 ### Fracaso productivo y ABP
 

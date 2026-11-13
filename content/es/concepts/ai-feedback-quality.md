@@ -7,9 +7,10 @@ type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
+connected_resources: [my-essay-feedback]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T09:46:01-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,7 +43,7 @@ ai_assist:
 
 ## Introducción
 
-La calidad de la retroalimentación de IA no se reduce a la corrección. Una retroalimentación eficaz debe ser puntual, específica, accionable y estar calibrada al nivel de comprensión actual del estudiante. La investigación de esta base de conocimiento examina la calidad de la retroalimentación de IA en varias dimensiones: exactitud (¿es correcta la retroalimentación?), utilidad (¿ayuda al estudiante a mejorar?) y alineación pedagógica (¿promueve el aprendizaje en lugar de solo la finalización de la tarea?).
+La calidad de la retroalimentación de IA no se reduce a la corrección. Una retroalimentación eficaz debe ser puntual, específica, accionable y estar calibrada al nivel de comprensión actual del estudiante. Tres preguntas organizan la mayor parte de esa investigación: exactitud (¿es correcta la retroalimentación?), utilidad (¿ayuda al estudiante a mejorar?) y alineación pedagógica (¿promueve el aprendizaje en lugar de solo la finalización de la tarea?).
 
 ## Cómo aparece la calidad de la retroalimentación de IA en la investigación
 
@@ -93,6 +94,9 @@ Una comparación controlada aísla el componente de retroalimentación del siste
 
 - **La exactitud diagnóstica solo determina en parte la calidad de la retroalimentación, y la [[self-assessment|autoevaluación]] de los LLM se desalinea con el [[human-in-the-loop-ai|juicio humano]]:** [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora y MacLellan (2025)]] encontraron que GPT-4 producía pistas dirigidas al error en torno al 66% de las veces en un tutor de álgebra universitaria, y aun así cerca del 35% eran demasiado generales, incorrectas o revelaban la respuesta; incluso cuando el diagnóstico era erróneo, el modelo a menudo se recuperaba con retroalimentación pertinente y correcta aunque general, si bien casi toda la retroalimentación incorrecta seguía a un diagnóstico equivocado. Sus comprobaciones automáticas de calidad con estudiantes simulados aprobaron solo el 21,4% de las pistas en ambas pruebas, rechazaron la retroalimentación dirigida en torno al 70% de las veces y favorecieron las pistas que simplemente revelaban la respuesta, una demostración contundente de que la [[ai-ed-evaluation|evaluación]] automatizada puede divergir marcadamente de los juicios humanos sobre la utilidad y debe calibrarse contra ellos.
 
+- 
+El acuerdo entre IA y docentes depende del aspecto dentro de una misma tarea de escritura: la F1 alcanzó 0,824 en la elección de vocabulario pero 0,579 en el uso de fuentes y evidencia, donde una fuente debe sopesarse frente a una afirmación ([[automated-scoring-learning-diagnosis-mechanism-2026|Yao y Fan (2026)]]).
+
 - **Una salida estable no es retroalimentación válida:** en 12 vídeos de aula del marco TEACH, la fiabilidad y la exactitud se separaron: el más estable de ocho puntos de acceso de LLM estuvo entre los más débiles frente a expertos certificados (concordancia exacta 0,31), y todos los modelos privilegiaron las señales verbales sobre la evidencia pedagógica implícita, puntuando bajo donde no había directrices ([[melo-llm-classroom-observation-teach-2026|Melo et al., 2026]]).
 
 - **Calidad lingüística y perceptiva de los comentarios instruccionales de IA:** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du y Jin (2026)]] evalúan los comentarios de andamiaje en vídeo generados por ChatGPT frente a los comentarios docentes en composición por categoría gramatical, diversidad de 3-gramas, conformidad con la ley de Zipf, legibilidad, relevancia temática (TF-IDF y BERTScore) y valoraciones de los estudiantes. Los comentarios generados fueron *más* complejos y ricos en adjetivos pero *menos* variados y menos legibles, y quedaron por detrás de los comentarios humanos en alineación temática (0,607 frente a 0,747 de BERTScore para el apoyo al conocimiento) y en momento percibido y utilidad, evidencia de que la calidad de la retroalimentación de IA debe juzgarse por su adecuación lingüística a la [[accessibility|accesibilidad]] y por su ajuste [[affective-computing|afectivo]], no solo por la relevancia. Su batería analítica se ofrece como una canalización reutilizable de [[learning-analytics|analítica del aprendizaje]] para auditar contenido instruccional generado por IA.
@@ -105,7 +109,7 @@ Cómo se *produce* la retroalimentación pertenece también a esa lista. En un s
 
 ## Dimensiones de calidad
 
-La calidad de la retroalimentación de IA abarca varias dimensiones recogidas en la base de conocimiento:
+La calidad de la retroalimentación de IA abarca varias dimensiones:
 
 - **Exactitud:** ¿identifica correctamente la retroalimentación los errores y las fortalezas? ([[automated-assessment|calificación automatizada]], [[automated-essay-scoring]])
 - **Recuperabilidad de la evidencia:** ¿puede el sistema alcanzar realmente la evidencia que está juzgando? [[ai-assisted-physics-lab-report-assessment-2026|Abreu, Stari y Martí (2026)]] separan la evidencia presente en una entrega de la evidencia disponible tras el procesamiento: una ecuación, un gráfico o una unidad pueden estar incluidos en un informe y nunca recuperarse, de modo que la retroalimentación sobre ese criterio no se apoya en nada, lo que convierte la recuperación en una dimensión de calidad distinta de la exactitud o la calibración. Su respuesta es exigir que cada puntuación cite evidencia concreta del informe, para que una observación que no pueda rastrearse hasta el texto quede visible como no respaldada.
@@ -131,7 +135,7 @@ La calidad de la retroalimentación de IA abarca varias dimensiones recogidas en
 
 La calidad de la retroalimentación de IA se conecta de forma fundamental con la [[formative-assessment|evaluación formativa]] y con el [[feedback|bucle de retroalimentación]]: una retroalimentación de calidad cierra la brecha entre el rendimiento actual y el deseado. Se cruza con la [[automated-assessment|calificación automatizada]] (que genera las puntuaciones en las que se basa la retroalimentación), con la [[ai-literacy|alfabetización en IA]] (los estudiantes deben evaluar críticamente la calidad de la retroalimentación) y con la [[cognitive-offloading|dependencia excesiva]] (la aceptación acrítica de la retroalimentación de IA puede desplazar el aprendizaje). Para la [[writing-education|enseñanza de la escritura]], la calidad de la retroalimentación es especialmente consecuente dado el papel creciente de la IA en la evaluación de la escritura.
 
-El corpus que sostiene esas afirmaciones sobre la calidad es más delgado de lo que las afirmaciones sugieren. En 51 estudios sobre retroalimentación escrita con IA generativa en escritura en segunda lengua, 16 diseños experimentales no usaron grupo de control y solo 27 informaron las indicaciones que emplearon, así que dos de cada cinco resultados no pueden reproducirse ni compararse en la variable que más moldea la salida ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite y Sun (2026)]]). La evidencia sobre calidad en esta literatura se acumula, por tanto, más despacio de lo que su volumen implica.
+La evidencia que sostiene esas afirmaciones sobre la calidad es más delgada de lo que las afirmaciones sugieren. En 51 estudios sobre retroalimentación escrita con IA generativa en escritura en segunda lengua, 16 diseños experimentales no usaron grupo de control y solo 27 informaron las indicaciones que emplearon, así que dos de cada cinco resultados no pueden reproducirse ni compararse en la variable que más moldea la salida ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite y Sun (2026)]]). La evidencia sobre calidad en esta literatura se acumula, por tanto, más despacio de lo que su volumen implica.
 
 [[wu-deepseek-reasoning-written-feedback-2026|Wu, Li y Moorhouse (2026)]] examinan las trazas de razonamiento explícitas de DeepSeek como una posibilidad que ofrece la retroalimentación, y encuentran que el razonamiento visible hace inspeccionable por quien escribe la base de un comentario, mientras que el modelo sigue remitiendo al humano el juicio de orden superior, como la argumentación.
 

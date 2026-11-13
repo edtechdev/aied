@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -31,10 +31,10 @@ ai_assist:
 
 - La afirmación central del DUA es que la variabilidad del estudiantado es la norma y no la excepción, así que hay que diseñar desde el principio muchos caminos y no arreglar un único camino para quienes tienen dificultades. ¿Tiende usted a diseñar para un estudiante «medio» y añadir ajustes después? ¿Qué podría perderse con ese enfoque por defecto?
 - Piense en una ocasión en que un formato concreto (un texto denso, una clase magistral, una única forma de mostrar el trabajo) le excluyó a usted o a alguien a quien enseñó. ¿Cuál de los tres principios del DUA — implicación, representación o acción/expresión — estaba en juego, y cómo habría sido una alternativa flexible?
-- La IA generativa puede crear ejemplos personalizados, subtítulos, resúmenes y múltiples formatos de evaluación: en apariencia, un regalo para el DUA. Pero la página advierte de que la IA también puede codificar sesgos y reducir la [[agency|agencia de quien aprende]]. Antes de seguir leyendo, ¿cómo podría una herramienta construida para personalizar acabar *estrechando* en lugar de ampliar los caminos de aprendizaje de algunos estudiantes?
+- La IA generativa puede crear ejemplos personalizados, subtítulos, resúmenes y múltiples formatos de evaluación: en apariencia, un regalo para el DUA. Pero la IA también puede conllevar sesgos y reducir la [[agency|agencia de quien aprende]]. ¿Cómo podría una herramienta construida para personalizar acabar *estrechando* en lugar de ampliar los caminos de aprendizaje de algunos estudiantes?
 - Una [[misconceptions|idea errónea]] frecuente es que el DUA significa bajar los estándares o dar a cada persona resultados distintos. Considere una tarea que permita entregar un ensayo, un vídeo, un diagrama o código para el mismo resultado de aprendizaje. ¿Es eso una rebaja o una forma más justa de evaluar la misma capacidad? Defienda su postura.
 - El DUA convierte «arreglar al estudiante» en «arreglar el diseño». Elija una experiencia de aprendizaje frustrante que haya tenido o diseñado. Si la barrera fuera un problema de diseño y no del estudiante, ¿qué cambiaría del diseño para eliminarla para todos?
-- La página advierte contra la IA que da por supuesto un único estilo de comunicación o penaliza la expresión neurodivergente. Si usa o diseña herramientas asistidas por IA, ¿dónde podrían los estilos «por defecto» excluir en silencio a parte del estudiantado, y qué haría falta para auditarlo?
+- La IA que da por supuesto un único estilo de comunicación o penaliza la expresión neurodivergente puede excluir a quien aprende. Si usa o diseña herramientas asistidas por IA, ¿dónde podrían los estilos «por defecto» excluir en silencio a parte del estudiantado, y qué haría falta para auditarlo?
 
 ## Introducción
 
@@ -95,7 +95,7 @@ El DUA convierte «arreglar al estudiante» en «arreglar el diseño». Para el 
 
 **«Un curso con materiales accesibles ha implementado el DUA.»** La accesibilidad es uno de los tres principios del DUA y el más fácil de auditar, así que con frecuencia es el único que se hace. Construir medios flexibles de implicación y de acción y expresión es la parte mayor del marco, y un curso cuyos PDF están etiquetados pero cuyas evaluaciones admiten un solo formato ha completado la fracción medible.
 
-**«El profesorado que cree que es accesible es accesible.»** Creencia y práctica se separan de forma sistemática. Los hallazgos a nivel de profesorado de este corpus muestran que el **90% de quienes respondieron creía crear un entorno de aprendizaje accesible y el 87% decía considerar activamente la accesibilidad**, unas tasas de autoatestación que no pueden ser todas exactas a la vista de lo que encuentran las auditorías, y un recordatorio de que la implementación del DUA no se puede evaluar mediante encuesta del modo en que se suele evaluar.
+**«El profesorado que cree que es accesible es accesible.»** Creencia y práctica se separan de forma sistemática. Los hallazgos a nivel de profesorado de estos estudios muestran que el **90% de quienes respondieron creía crear un entorno de aprendizaje accesible y el 87% decía considerar activamente la accesibilidad**, unas tasas de autoatestación que no pueden ser todas exactas a la vista de lo que encuentran las auditorías, y un recordatorio de que la implementación del DUA no se puede evaluar mediante encuesta del modo en que se suele evaluar.
 
 **«El DUA significa diseñar con más cuidado para el estudiante medio.»** La afirmación central es la contraria: la variabilidad de quien aprende es la norma y no la excepción, así que el diseño ofrece muchas vías desde el principio en lugar de arreglar una sola para quienes tienen dificultades. La adaptación a posteriori es lo que el DUA existe para sustituir, y una única vía bien ajustada sigue siendo una única vía.
 

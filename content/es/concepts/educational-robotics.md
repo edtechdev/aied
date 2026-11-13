@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Los robots en la educación (robótica educativa)** — el uso de robots físicos o simulados como herramientas para la [[teacher-role|enseñanza]] y el aprendizaje. La robótica educativa abarca un espectro amplio: desde kits programables que enseñan pensamiento computacional y programación hasta robots sociales de asistencia y humanoides que tutorizan, cuentan historias, modelan la lengua de signos o ensayan habilidades sociales. Se valora por fomentar la [[problem-solving|resolución de problemas]], el [[critical-thinking|pensamiento crítico]], la [[creativity|creatividad]] y la implicación con STEAM, y por hacer tangibles los conceptos informáticos abstractos mediante la interacción corporeizada. El corpus sobre robótica de esta base de conocimiento abarca la programación integrada en el [[curriculum-design|currículo]], los tutores conversacionales impulsados por LLM, los robots de [[storytelling-in-education|narración]] socialmente asistenciales y el juego de roles para el aprendizaje socioemocional. Se sustenta en dos áreas estrechamente relacionadas que aquí se absorben: los **robots sociales** (robots diseñados para la interacción social y la creación de vínculos) y la **interacción persona–robot (HRI)** (el estudio de cómo las personas perciben, confían y aprenden con robots).
+> **Los robots en la educación (robótica educativa)** — el uso de robots físicos o simulados como herramientas para la [[teacher-role|enseñanza]] y el aprendizaje. La robótica educativa abarca un espectro amplio: desde kits programables que enseñan pensamiento computacional y programación hasta robots sociales de asistencia y humanoides que tutorizan, cuentan historias, modelan la lengua de signos o ensayan habilidades sociales. Se valora por fomentar la [[problem-solving|resolución de problemas]], el [[critical-thinking|pensamiento crítico]], la [[creativity|creatividad]] y la implicación con STEAM, y por hacer tangibles los conceptos informáticos abstractos mediante la interacción corporeizada. El corpus sobre robótica abarca la programación integrada en el [[curriculum-design|currículo]], los tutores conversacionales impulsados por LLM, los robots de [[storytelling-in-education|narración]] socialmente asistenciales y el juego de roles para el aprendizaje socioemocional. Se sustenta en dos áreas estrechamente relacionadas que aquí se absorben: los **robots sociales** (robots diseñados para la interacción social y la creación de vínculos) y la **interacción persona–robot (HRI)** (el estudio de cómo las personas perciben, confían y aprenden con robots).
 
 ## Preguntas para reflexionar
 

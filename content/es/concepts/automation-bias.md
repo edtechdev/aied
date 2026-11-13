@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 contributors: [editor]
 translation_of: concepts/automation-bias
-source_updated: "2026-11-04T18:49:36-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -22,14 +22,14 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Síntesis:** El sesgo de automatización es el modo de fallo humano que hace que una decisión asistida por IA resulte errónea incluso cuando el sistema acierta. Las personas aceptan una recomendación automatizada que habrían cuestionado si hubieran llegado por sí mismas a la misma conclusión, y dejan de buscar la evidencia que la habría contradicho. En educación, los juicios decisivos ya están automatizados en varios puntos —puntuaciones, alertas de preparación, veredictos de supervisión, etiquetas de verdad de referencia, pistas—, así que el sesgo se adhiere a quien firma la salida. El corpus lo trata menos como un rasgo de personalidad que como una propiedad de un flujo de trabajo: aparece donde la verificación es opcional, donde la salida es fluida y donde quien comprueba paga un precio por dudar.
+> **Síntesis:** El sesgo de automatización es el modo de fallo humano que hace que una decisión asistida por IA resulte errónea incluso cuando el sistema acierta. Las personas aceptan una recomendación automatizada que habrían cuestionado si hubieran llegado por sí mismas a la misma conclusión, y dejan de buscar la evidencia que la habría contradicho. En educación, los juicios decisivos ya están automatizados en varios puntos —puntuaciones, alertas de preparación, veredictos de supervisión, etiquetas de verdad de referencia, pistas—, así que el sesgo se adhiere a quien firma la salida. Es menos un rasgo de personalidad que una propiedad de un flujo de trabajo: aparece donde la verificación es opcional, donde la salida es fluida y donde quien comprueba paga un precio por dudar.
 
 ## Preguntas para reflexionar
 
 - Cuando un docente anula la decisión de un algoritmo, esa anulación suele ser la comprobación. ¿Qué ocurre con esa comprobación cuando el docente cree que el algoritmo está mejor informado que él?
 - Son posibles dos fallos: aceptar una recomendación errónea y rechazar una correcta. ¿Cuál detecta el proceso de su institución y cuál recompensa?
 - Si un panel marca a un estudiante como en riesgo, ¿qué tendría que saber para discrepar de esa marca, y de dónde vendría ese conocimiento?
-- La [[trust-calibration|investigación sobre la confianza]] predice que quienes dudan de sí mismos son los que más se apoyan en las máquinas. ¿Qué significa que el corpus encuentre lo contrario entre el estudiantado?
+- La [[trust-calibration|investigación sobre la confianza]] predice que quienes dudan de sí mismos son los que más se apoyan en las máquinas. ¿Qué significa que la evidencia encuentre lo contrario entre el estudiantado?
 - ¿De quién es el juicio que se desplaza cuando una IA escribe la [[feedback|retroalimentación]], fija la calificación o redacta la intervención, y la [[human-in-the-loop-ai|persona en el bucle]] tiene una oportunidad real de intervenir o solo una formal?
 
 ## Introducción
@@ -44,7 +44,7 @@ La literatura separa dos errores. La **omisión** es no advertir que el sistema 
 
 La **comisión** es aceptar una acción o un juicio que el sistema produjo erróneamente. La versión educativa es la conocida: el ensayo bien puntuado que nadie releyó, el estudiante marcado con el que nadie habló, la pista seguida sin comprobación.
 
-Hay tres conceptos vecinos fáciles de confundir con él, y el corpus los separa:
+Hay tres conceptos vecinos fáciles de confundir con él, y la literatura los mantiene separados:
 
 - La [[trust-calibration|calibración de la confianza]] es el estado de la dependencia de una persona en relación con la fiabilidad real del sistema. El sesgo de automatización es el error específico que habilita una mala calibración, y ambos se miden de forma distinta.
 - La [[cognitive-offloading|descarga cognitiva]] es delegar trabajo mental en una herramienta. La descarga puede ser sensata; el sesgo de automatización es lo que ocurre cuando la delegación escapa a la revisión.
@@ -62,7 +62,7 @@ Cinco puntos concentran la mayor parte del riesgo, y cada uno tiene a una person
 4. **La propia verdad de referencia.** Cuando los modelos anotan las etiquetas que la investigación trata después como verdad, el sesgo entra en el aparato de [[educational-measurement|medición]].
 5. **Asistencia dirigida a quien aprende.** Las [[intelligent-tutoring|pistas]], las explicaciones y los borradores invitan al estudiantado a aceptar una versión del material en lugar de construir la suya.
 
-## Qué muestra el corpus
+## Qué muestra la evidencia
 
 ### Docentes que se pliegan a puntuaciones y recomendaciones
 
@@ -76,7 +76,7 @@ Un experimento de supervisión de seguridad aporta ahora la medición en un cont
 
 [[in-the-loop-educational-ai-learning-sciences-2026|La revisión de ciencias del aprendizaje sobre IA educativa en el bucle (2026)]] da al patrón su forma general: los paneles infieren participación a partir de clics, la [[writing-education|retroalimentación de escritura]] automatizada privilegia los rasgos superficiales sobre la argumentación, y los semáforos de alerta temprana preinterpretan las trayectorias. El sesgo de automatización agrava cada uno de ellos, y la revisión trata la [[trust|confianza]] como un resultado sociotécnico moldeado por la transparencia, la competencia percibida y un derecho sustantivo a anular la decisión, y no como una actitud estable.
 
-Dos diseños del corpus se lo toman en serio. [[factria-responsible-institutional-analytics-2026|FACTRIA (2026)]] mantiene a una persona en el bucle negándose a recomendar: en un estudio de pensamiento en voz alta con once [[stakeholders|partes interesadas]] que leyeron cuatro casos reales de analítica, codificado con un kappa de Cohen de 0,76, el [[conversational-ai|chatbot]] apoyaba la interpretación y se abstenía explícitamente de tomar decisiones, y sus autores señalan el sesgo de automatización y la aceptación acrítica como riesgos residuales. [[ludia-udl-ai-thought-partner-2026|LUDIA (2026)]] hace pasar cada salida por un educador y luego admite que el salvaguarda es más débil de lo que parece, porque el educador con más probabilidad de aceptar una sugerencia pobre es justamente quien confía en que LUDIA entiende el [[universal-design-for-learning|diseño universal para el aprendizaje]].
+Dos diseños se lo toman en serio. [[factria-responsible-institutional-analytics-2026|FACTRIA (2026)]] mantiene a una persona en el bucle negándose a recomendar: en un estudio de pensamiento en voz alta con once [[stakeholders|partes interesadas]] que leyeron cuatro casos reales de analítica, codificado con un kappa de Cohen de 0,76, el [[conversational-ai|chatbot]] apoyaba la interpretación y se abstenía explícitamente de tomar decisiones, y sus autores señalan el sesgo de automatización y la aceptación acrítica como riesgos residuales. [[ludia-udl-ai-thought-partner-2026|LUDIA (2026)]] hace pasar cada salida por un educador y luego admite que el salvaguarda es más débil de lo que parece, porque el educador con más probabilidad de aceptar una sugerencia pobre es justamente quien confía en que LUDIA entiende el [[universal-design-for-learning|diseño universal para el aprendizaje]].
 
 El punto conceptual que ata ambas cosas proviene de [[extended-minds-coupling-flexibility-2026|la explicación de las mentes extendidas basada en el acoplamiento y la flexibilidad (2026)]]: una oportunidad meramente formal de aceptar o rechazar no sitúa a la persona dentro de la producción del juicio si el sesgo de automatización la derrota. La supervisión exige una oportunidad sustantiva de intervenir, y un botón de rechazo que nadie pulsa no es supervisión.
 
@@ -92,13 +92,13 @@ Dos trabajos sostienen que el contrapeso es una disposición y no una regla. [[a
 
 ### Cuando el sesgo se nombra como riesgo en lugar de medirse
 
-Una parte importante del corpus incluye el sesgo de automatización en un modelo de amenazas sin ponerlo a prueba, y la distinción importa para cuánto peso puede cargar el concepto. [[ahmadfard-interactive-oer-review-2026|La revisión de REA interactivos (2026)]] lo incluye entre los riesgos recurrentes que erosionan la agencia de estudiantes y docentes, enumerado y no medido. [[alshahrani-health-sciences-ai-use-2026|La encuesta de ciencias de la salud (2026)]] lee las preocupaciones [[ethics|éticas]] de 310 estudiantes como un argumento a favor de una [[professional-training|formación profesional]] que cubra el sesgo de automatización de forma explícita. [[ai-literacy-legal-translation-2026|El estudio de traducción jurídica (2026)]] pide que la posedición y la verificación se enseñen como habilidades calificadas, y nombra las presiones del sesgo de automatización y de la ilusión de calidad que hacen fácil pasar por alto las malas traducciones. [[morales-cevallos-ai-forensic-science-education-2026|La revisión de ciencias forenses (2026)]] encuentra el sesgo de automatización documentado en sus estudios incluidos y propone ejercicios de casos construidos a partir de fallos reportados. [[rana-genai-design-thinking-2025|El estudio de pensamiento de diseño (2025)]] lo convierte en un requisito de diseño: [[scaffolding|andamiajes]] que mantienen el juicio humano en el centro y contrarrestan tanto la descarga como el sesgo de automatización.
+Una parte importante de la literatura incluye el sesgo de automatización en un modelo de amenazas sin ponerlo a prueba, y la distinción importa para cuánto peso puede cargar el concepto. [[ahmadfard-interactive-oer-review-2026|La revisión de REA interactivos (2026)]] lo incluye entre los riesgos recurrentes que erosionan la agencia de estudiantes y docentes, enumerado y no medido. [[alshahrani-health-sciences-ai-use-2026|La encuesta de ciencias de la salud (2026)]] lee las preocupaciones [[ethics|éticas]] de 310 estudiantes como un argumento a favor de una [[professional-training|formación profesional]] que cubra el sesgo de automatización de forma explícita. [[ai-literacy-legal-translation-2026|El estudio de traducción jurídica (2026)]] pide que la posedición y la verificación se enseñen como habilidades calificadas, y nombra las presiones del sesgo de automatización y de la ilusión de calidad que hacen fácil pasar por alto las malas traducciones. [[morales-cevallos-ai-forensic-science-education-2026|La revisión de ciencias forenses (2026)]] encuentra el sesgo de automatización documentado en sus estudios incluidos y propone ejercicios de casos construidos a partir de fallos reportados. [[rana-genai-design-thinking-2025|El estudio de pensamiento de diseño (2025)]] lo convierte en un requisito de diseño: [[scaffolding|andamiajes]] que mantienen el juicio humano en el centro y contrarrestan tanto la descarga como el sesgo de automatización.
 
 ## Dónde la evidencia es escasa, mixta o inversa
 
 **Una predicción que falló.** La literatura sobre el sesgo de automatización predice que quienes dudan de su propio juicio son los que más se apoyan en las máquinas, de modo que una [[self-efficacy|autoeficacia]] baja debería producir una confianza excesiva alta. [[kim-overtrust-ai-literacy-2026|El estudio de confianza excesiva (2026)]] encontró el signo contrario: el estudiantado seguro adoptó antes la [[generative-ai|IA generativa]], acumuló experiencias positivas y confió más en la herramienta. El diseño es transversal y no puede establecer ninguna secuencia, algo que los autores dicen más de una vez, así que el hallazgo no invierte el mecanismo, pero sí muestra que la versión de aula puede no correr en la dirección que predice la versión de laboratorio.
 
-**Falta el experimento decisivo.** Nadie en el corpus ha realizado la comparación entre calificación cegada y no cegada que aislaría el anclaje por puntuaciones automáticas, así que el salvaguarda de la persona en el bucle en la calificación descansa en la verosimilitud. Lo mismo vale para los paneles: los estudios describen lo que se muestra al profesorado, y rara vez lo que hace de forma distinta por ello.
+**Falta el experimento decisivo.** Nadie ha realizado la comparación entre calificación cegada y no cegada que aislaría el anclaje por puntuaciones automáticas, así que el salvaguarda de la persona en el bucle en la calificación descansa en la verosimilitud. Lo mismo vale para los paneles: los estudios describen lo que se muestra al profesorado, y rara vez lo que hace de forma distinta por ello.
 
 **Las afirmaciones conceptuales superan a las mediciones.** [[haiml-human-centered-ai-metacognitive-model-2026|El modelo HAIML (2026)]] construye su marco sobre la investigación del sesgo de automatización y ofrece un marco didáctico y no una prueba de ella. El ciclo de asociación cognitiva ofrece seis proposiciones y una agenda de investigación. Ambos son útiles para el diseño y ninguno es evidencia del tamaño del fenómeno en educación.
 
@@ -106,7 +106,7 @@ Una parte importante del corpus incluye el sesgo de automatización en un modelo
 
 ## Implicaciones para la práctica
 
-- **Haga la comprobación barata y ciega.** Registre el juicio humano antes de mostrar el de la máquina, o retenga la puntuación hasta que haya una valoración. El cegamiento es la intervención que el corpus propone una y otra vez y no ha probado.
+- **Haga la comprobación barata y ciega.** Registre el juicio humano antes de mostrar el de la máquina, o retenga la puntuación hasta que haya una valoración. El cegamiento es la intervención que el campo propone una y otra vez y no ha probado.
 - **Publique qué podía ver el sistema.** Una recomendación construida solo con el tiempo de finalización debería decirlo; el profesorado puede descontar una entrada escasa si sabe que es escasa.
 - **No cuente un botón de rechazo como supervisión.** Pregunte qué tendría que ser cierto para que una persona lo pulsara, y qué recompensa el proceso.
 - **Enseñe la verificación como habilidad calificada.** La posedición, el recálculo y la comprobación de fuentes pertenecen al [[curriculum-design|currículo]] y no a un párrafo de política.
@@ -117,7 +117,7 @@ Una parte importante del corpus incluye el sesgo de automatización en un modelo
 - **«Solo importa cuando la IA se equivoca.»** Opera con más limpieza cuando la IA acierta y la persona deja de comprobar; los mecanismos del trabajo de campo no necesitan ninguna salida falsa.
 - **«Es lo mismo que confianza baja o confianza alta.»** La calibración es un estado; el sesgo de automatización es el error que permite un flujo de trabajo mal calibrado. La confianza insuficiente produce su propio fallo: rechazar buenas recomendaciones.
 - **«Una persona en el bucle lo arregla.»** El bucle vale lo que vale la oportunidad de intervenir, y los estudios de calificación no han medido el anclaje.
-- **«Es un problema del estudiantado.»** El profesorado, los evaluadores, los anotadores y los administradores son quienes firman en todos los diseños que describe el corpus.
+- **«Es un problema del estudiantado.»** El profesorado, los evaluadores, los anotadores y los administradores son quienes firman en todos los diseños que describe la literatura.
 - **«Es un defecto de carácter que una mejor formación elimina.»** La formación ayuda, pero la misma persona se comporta de forma distinta según si la verificación es barata, si la salida es fluida y si discrepar tiene un costo.
 
 ## Conceptos conectados
@@ -126,7 +126,7 @@ Una parte importante del corpus incluye el sesgo de automatización en un modelo
 - [[bias-mitigation]] — la contraparte del lado del sistema: el sesgo dentro del modelo
 - [[cognitive-offloading]] — la delegación del trabajo mental, de la que la aceptación sin comprobación es un resultado
 - [[human-in-the-loop-ai]] — el salvaguarda cuya fuerza decide este fallo
-- [[explainable-ai]] — la intervención de transparencia que el corpus propone y rara vez pone a prueba
+- [[explainable-ai]] — la intervención de transparencia que el campo propone y rara vez pone a prueba
 - [[learning-analytics]] — paneles y alertas tempranas, donde se concentran los errores de omisión
 - [[recommender-systems-and-learning-paths]] — ordenar lo que hay que hacer después, que el estudiantado puede simplemente seguir
 - [[automated-assessment]] — la puntuación que una persona puede aceptar sin releer

@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T12:55:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -53,7 +53,7 @@ El encuadre también determina si el estudiantado vive la IA como una **amenaza 
 
 ### Enmarcar la IA como una herramienta productiva, no como una amenaza que prohibir
 
-La intervención de encuadre más directamente puesta a prueba en la base de conocimiento es un experimento natural de seis años que siguió un curso de [[visualization|visualización]] de datos en tres condiciones: antes de la IA generativa, con IA generativa disponible (presente pero no integrada) y con IA generativa integrada (instrucción explícita y estímulo para usar IA en el trabajo aplicado, prohibida solo en la parte de comprobación de conocimientos). El hallazgo: el simple hecho de *poner* la IA a disposición se asoció con que el estudiantado la usara de forma ineficaz o poco ética, mientras que *enmarcar e integrar explícitamente* su uso apropiado recuperó y mejoró los resultados en las preguntas aplicadas.([[moral-panic-genai-classroom]]) La lección es que el encuadre (cómo se posiciona y se enseña la IA) importa tanto como la presencia de la herramienta: estimular el uso apropiado supera a condenarlo o ignorarlo.
+La intervención de encuadre más directamente puesta a prueba es un experimento natural de seis años que siguió un curso de [[visualization|visualización]] de datos en tres condiciones: antes de la IA generativa, con IA generativa disponible (presente pero no integrada) y con IA generativa integrada (instrucción explícita y estímulo para usar IA en el trabajo aplicado, prohibida solo en la parte de comprobación de conocimientos). El hallazgo fue que el simple hecho de *poner* la IA a disposición se asoció con que el estudiantado la usara de forma ineficaz o poco ética. *Enmarcar e integrar explícitamente* su uso apropiado, en cambio, recuperó y mejoró los resultados en las preguntas aplicadas.([[moral-panic-genai-classroom]]) La lección es que el encuadre (cómo se posiciona y se enseña la IA) importa tanto como la presencia de la herramienta: estimular el uso apropiado supera a condenarlo o ignorarlo.
 
 ### Comunicar las expectativas con claridad y de forma reiterada, y diseñar pensando en el estudiantado
 
@@ -61,7 +61,7 @@ Como la mera conciencia de las reglas no cambia la conducta, un encuadre eficaz 
 
 ### Decir por qué, no solo qué
 
-La palanca de encuadre más directa de la base de conocimiento es dar la *razón* de cada límite tarea por tarea, redactada como si se hablara al estudiantado («usted…», «nosotros…»). El caso de diseño de [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]] documenta el mecanismo: después de que las conversaciones de tutoría revelaran que el estudiantado que había leído una prohibición no creía que se le aplicara, reconstruyó la política de modo que cada uso permitido o no permitido de la IA generativa quedara justificado por la [[assessment|evaluación]] concreta que protege —por ejemplo, la ayuda de IA generativa con los objetivos de aprendizaje no se permite porque «estoy evaluando su capacidad de redactar objetivos de aprendizaje específicos, medibles y de un nivel apropiado»— y entregó ese razonamiento tanto en el programa de la asignatura como en recordatorios oportunos dentro de las instrucciones de las tareas. Enmarcar por razonamiento es una medida de [[equity-in-ai-education|equidad]] tanto como de persuasión: presupone menos conocimiento compartido sobre autoría, originalidad y atribución, y convierte la política en un diálogo y no en un veredicto ([[academic-integrity|integridad académica]]).
+La palanca de encuadre más directa es dar la *razón* de cada límite tarea por tarea, redactada como si se hablara al estudiantado («usted…», «nosotros…»). El caso de diseño de [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]] documenta el mecanismo: después de que las conversaciones de tutoría revelaran que el estudiantado que había leído una prohibición no creía que se le aplicara, reconstruyó la política de modo que cada uso permitido o no permitido de la IA generativa quedara justificado por la [[assessment|evaluación]] concreta que protege. Un ejemplo: la ayuda de IA generativa con los objetivos de aprendizaje no se permite porque «estoy evaluando su capacidad de redactar objetivos de aprendizaje específicos, medibles y de un nivel apropiado». Entregó ese razonamiento tanto en el programa de la asignatura como en recordatorios oportunos dentro de las instrucciones de las tareas. Enmarcar por razonamiento es una medida de [[equity-in-ai-education|equidad]] tanto como de persuasión: presupone menos conocimiento compartido sobre autoría, originalidad y atribución, y convierte la política en un diálogo y no en un veredicto ([[academic-integrity|integridad académica]]).
 
 ### Reencuadrar la ansiedad y la incertidumbre como competencia evaluativa
 
@@ -83,6 +83,8 @@ El encuadre conecta con la [[motivation|motivación]] a través de la [[self-det
 
 El estudiantado también queda enmarcado por los medios y el discurso público en torno a la [[ai-education|IA en la educación]], que moldean sus expectativas de base antes de cualquier mensaje del profesorado. Los análisis del discurso público y de cómo plataformas como YouTube enmarcan el uso de ChatGPT en educación muestran que los encuadres dominantes —el bombo, el catastrofismo o el pragmatismo— influyen en cómo el estudiantado y el [[teacher-role|profesorado]] se acercan a la tecnología.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) Un encuadre eficaz por parte del profesorado suele implicar contrarrestar o redirigir deliberadamente esas narrativas ambientales.
 
+El encuadre también pone precio a la credencial más adelante: con unos 1.750 profesionales de contratación estadounidenses, describir el uso estudiantil de la IA como sustitución y no como asistencia redujo la probabilidad de entrevista y la disposición a negociar el salario, de forma más acusada en quienes tenían un GPA alto ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan y Reynolds, 2026]]).
+
 ## Orientaciones prácticas
 
 - **Posicionar la IA como un recurso productivo** enseñando explícitamente *cuándo* y *cómo* usarla, en lugar de prohibirla o ignorarla: el encuadre integrado supera tanto a la condena como al laissez-faire.
@@ -94,13 +96,13 @@ El estudiantado también queda enmarcado por los medios y el discurso público e
 
 ## Concepciones erróneas
 
-**«Una política clara dice al estudiantado cuáles son las reglas, así que el encuadre es innecesario.»** El texto de una política no es encuadre, y la brecha se ve en la conducta: la mayoría del estudiantado usa IA generativa, **muchos no están seguros de si su propio uso cumple las normas**, y se apoyan en herramientas de acceso privado en lugar de las que ofrecen las instituciones. Un estudiante que no sabe si cumple no está siendo destinatario de ninguna comunicación, diga lo que diga el documento; por eso la página sitúa «decir por qué, no solo qué» en su método.
+**«Una política clara dice al estudiantado cuáles son las reglas, así que el encuadre es innecesario.»** El texto de una política no es encuadre, y la brecha se ve en la conducta: la mayoría del estudiantado usa IA generativa, **muchos no están seguros de si su propio uso cumple las normas**, y se apoyan en herramientas de acceso privado en lugar de las que ofrecen las instituciones. Un estudiante que no sabe si cumple no está siendo destinatario de ninguna comunicación, diga lo que diga el documento; por eso la regla práctica es «decir por qué, no solo qué».
 
-**«Publicar una política y ofrecer una herramienta con licencia cubre la responsabilidad institucional.»** El acceso y la adopción son resultados distintos, y esta página existe porque la palanca está en el segundo. Las [[guardrails|barandillas]] estructurales cambian el entorno de forma automática, pero el [[scaffolding|andamiaje]], la formación en alfabetización y las políticas de uso solo arraigan cuando el estudiantado está de verdad convencido de su sentido: esa es la dependencia del compromiso que la página nombra.
+**«Publicar una política y ofrecer una herramienta con licencia cubre la responsabilidad institucional.»** El acceso y la adopción son resultados distintos, y la palanca está en el segundo. Las [[guardrails|barandillas]] estructurales cambian el entorno de forma automática, pero el [[scaffolding|andamiaje]], la formación en alfabetización y las políticas de uso solo arraigan cuando el estudiantado está de verdad convencido de su sentido: esa es la dependencia del compromiso.
 
 **«Prohibir una herramienta elimina la conducta.»** La reubica en herramientas que usted no puede ver. El estudiantado ya prefiere las herramientas de acceso privado a las que ofrecen las instituciones, así que una prohibición empuja el uso fuera del único entorno donde son posibles el apoyo, el registro o la orientación. La tarea del encuadre es hacer atractiva la conducta permitida, no hacer más difícil de observar la prohibida.
 
-**«El encuadre es persuasión, así que es más retórica que diseño.»** El encuadre que describe esta página va acompañado de diseño: expectativas formuladas con claridad y de forma reiterada *mientras se diseña en torno al estudiantado*. Los mensajes entregados en lugar de diseñados para la situación son la versión que fracasa, porque el estudiantado nota la diferencia entre un compromiso declarado y uno real.
+**«El encuadre es persuasión, así que es más retórica que diseño.»** Un encuadre eficaz va acompañado de diseño: expectativas formuladas con claridad y de forma reiterada *mientras se diseña en torno al estudiantado*. Los mensajes entregados en lugar de diseñados para la situación son la versión que fracasa, porque el estudiantado nota la diferencia entre un compromiso declarado y uno real.
 
 ## Conceptos conectados
 

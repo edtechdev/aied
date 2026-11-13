@@ -9,7 +9,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -30,17 +30,17 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - El aprendizaje basado en la indagación se centra en las preguntas que plantea el propio estudiantado y en el proceso de indagación mismo. ¿En qué se diferencia aprender impulsado por una pregunta propia de aprender impulsado por la pregunta de otra persona?
-- La página plantea si la IA actúa como «coinvestigadora» que apoya su investigación o como un sustituto que se salta el trabajo cognitivo. Cuando usa la IA para explorar una pregunta, ¿quién está indagando?
+- La pregunta es si la IA actúa como «coinvestigadora» que apoya su investigación o como un sustituto que se salta el trabajo cognitivo. Cuando usa la IA para explorar una pregunta, ¿quién está indagando?
 - La evidencia sobre la indagación apoyada por IA es mixta: en un estudio mejoró el rendimiento creativo y las actitudes, pero no la [[problem-solving|resolución de problemas]] crítica, y en otro profundizó la comprensión conceptual sin impulsar la [[ai-literacy|alfabetización en IA]]. ¿Qué sugiere eso sobre lo que la IA por sí sola puede y no puede desarrollar?
 - Si tratar la salida de la IA como autoritativa arriesga la dependencia excesiva y conclusiones superficiales, ¿cómo enseñaría al estudiantado a evaluar las respuestas generadas por IA como parte del ciclo de indagación?
-- La página conecta la indagación con el fracaso productivo: quienes aprenden exploran antes de la instrucción, de modo que el propio esfuerzo prepara el aprendizaje. ¿Cómo podría una IA que retiene respuestas y provoca múltiples intentos apoyar ese esfuerzo en lugar de eliminarlo?
+- La indagación se conecta con el fracaso productivo: quienes aprenden exploran antes de la instrucción, de modo que el propio esfuerzo prepara el aprendizaje. ¿Cómo podría una IA que retiene respuestas y provoca múltiples intentos apoyar ese esfuerzo en lugar de eliminarlo?
 - ¿Cuál es el papel de quien facilita cuando la IA reduce la fricción de hacer preguntas? Si el estudiantado puede obtener respuestas al instante, ¿qué necesita ahora andamiar el profesorado que antes no necesitaba?
 
 ## Introducción
 
 El aprendizaje basado en la indagación se centra en las preguntas que plantea el propio estudiantado y en el proceso de indagación mismo, y suele avanzar por fases (orientación → conceptualización → investigación → discusión → conclusión). Es la familia más amplia en la que a menudo se anidan el [[problem-based-learning|aprendizaje basado en problemas]] y el [[project-based-learning|aprendizaje basado en proyectos]]: el ABI enfatiza el *proceso de cuestionamiento y descubrimiento*, el ABP el *problema* mal estructurado y el aprendizaje basado en proyectos el *artefacto* tangible.
 
-## Cómo aparece el aprendizaje basado en la indagación en la base de conocimiento
+## Cómo aparece el aprendizaje basado en la indagación en la investigación
 
 **La IA como coinvestigadora.** Una [[meta-analysis-systematic-review|revisión sistemática]] de ChatGPT para el aprendizaje basado en la indagación en STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 estudios) encontró que ChatGPT se usaba principalmente en las fases de conceptualización, investigación y discusión —como herramienta de aprendizaje, tutora, par de aprendizaje, experta de dominio y asistente de [[teacher-role|enseñanza]]. Ese uso mejoró el rendimiento, el [[critical-thinking|pensamiento crítico]], la [[student-engagement|implicación]] y la motivación, a la vez que planteaba riesgos de dependencia excesiva, [[hallucination-risk|alucinación]] y conclusiones superficiales cuando la salida se trata como autoritativa.
 
@@ -58,7 +58,7 @@ El aprendizaje basado en la indagación se centra en las preguntas que plantea e
 
 ## Por qué el aprendizaje basado en la indagación importa para la integración de la IA
 
-La estructura del ABI, impulsada por preguntas y centrada en el proceso, es el hogar natural de un uso productivo de la IA: el estudiantado aprende *con* la IA como compañera y no *de* ella como sustituto. La evidencia de la base de conocimiento converge en una tensión central: la IA puede reducir la fricción de la recuperación de información y de la formulación de preguntas (disminuyendo la [[cognitive-offloading|carga cognitiva]] y habilitando una [[reflection|reflexión]] más profunda), pero sin un andamiaje de diseño arriesga la dependencia excesiva y saltarse la cognición de orden superior. El papel de quien facilita, el diseño de los andamiajes y la enseñanza explícita de habilidades de evaluación son las palancas que determinan si la IA profundiza o desplaza la indagación.
+La estructura del ABI, impulsada por preguntas y centrada en el proceso, es el hogar natural de un uso productivo de la IA: el estudiantado aprende *con* la IA como compañera y no *de* ella como sustituto. La evidencia converge en una tensión central: la IA puede reducir la fricción de la recuperación de información y de la formulación de preguntas (disminuyendo la [[cognitive-offloading|carga cognitiva]] y habilitando una [[reflection|reflexión]] más profunda), pero sin un andamiaje de diseño arriesga la dependencia excesiva y saltarse la cognición de orden superior. El papel de quien facilita, el diseño de los andamiajes y la enseñanza explícita de habilidades de evaluación son las palancas que determinan si la IA profundiza o desplaza la indagación.
 
 Un estudio sustituye a quien facilita en lugar de añadir una herramienta a su lado. En un curso de farmacología de cuatro semanas, 136 estudiantes de segundo año de medicina se dividieron entre aprendizaje basado en problemas dirigido por una persona facilitadora y dirigido por IA. Ambos grupos mejoraron significativamente en las pruebas de opción múltiple previas y posteriores, y la diferencia entre grupos no fue significativa (p = 0,474), pero los grupos dirigidos por una persona facilitadora obtuvieron puntuaciones más altas en pensamiento crítico (14,75 frente a 13,09, p < 0,001) y en la rúbrica de [[group-work|evaluación grupal]] (26,51 frente a 24,74, p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty y Rao, 2026]]). Los resultados de indagación se dividieron por tipo: el conocimiento de contenido sobrevivió a la sustitución y el proceso de razonamiento no, que es lo que significa decir que quien facilita es la palanca.
 

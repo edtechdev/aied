@@ -11,7 +11,7 @@ technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
 translation_of: concepts/scaffolding
-source_updated: "2026-11-11T11:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,10 +43,10 @@ ai_assist:
 
 ## Preguntas para reflexionar
 
-- Piense en una ocasión en que alguien le «ayudó» con algo que estaba aprendiendo, y la ayuda hizo tan bien el trabajo que usted aprendió menos. ¿Dónde está la línea entre el apoyo que le deja crecer y el apoyo que le sustituye? La página sostiene que esta es la cuestión de diseño central para los tutores de IA.
+- Piense en una ocasión en que alguien le «ayudó» con algo que estaba aprendiendo, y la ayuda hizo tan bien el trabajo que usted aprendió menos. ¿Dónde está la línea entre el apoyo que le deja crecer y el apoyo que le sustituye? Esa es la cuestión de diseño central para los tutores de IA.
 - El andamiaje hunde sus raíces en la zona de desarrollo próximo: apoyo suficiente para permitir el progreso, pero no tanto como para saltarse el aprendizaje. ¿Cómo se ve el «exceso de apoyo» en un tutor de IA, y puede detectarlo solo a partir del comportamiento del estudiante?
 - Un hallazgo clave: el estudiantado a menudo *prefiere* los roles más directivos del tutor de IA aunque *rinde mejor* con los roles colaborativos de par y de asistente del [[teacher-role]]. ¿Refleja la preferencia de quien aprende de forma fiable lo que es mejor para el aprendizaje, y qué implica esa divergencia a la hora de dejar que el estudiantado elija su propio andamiaje?
-- Un andamiaje que nunca se retira crea dependencia. La página señala que los andamiajes automatizados corren el riesgo de quedarse estáticos en lugar de retirarse a medida que crece la competencia. ¿Por qué es esencial la «retirada», y por qué podría un sistema de IA no llevarla a cabo si no se ha diseñado deliberadamente para ello?
+- Un andamiaje que nunca se retira crea dependencia. Los andamiajes automatizados corren precisamente ese riesgo: quedarse en su sitio a medida que crece la competencia. ¿Por qué es esencial la «retirada», y por qué podría un sistema de IA no llevarla a cabo si no se ha diseñado deliberadamente para ello?
 - El principio de diseño es «andamiar, no sustituir». El propio estudiantado pidió una IA que «does not provide any solutions for you — you still learn as you have to find the correct answer yourself». ¿Coincide eso con cómo ha vivido usted una ayuda eficaz, o ha preferido el atajo aun sabiendo lo que le costaba?
 - Fíjese una meta antes de leer: elija una tarea que enseñe y esboce cómo sería una pista que preserve el esfuerzo de quien aprende frente a una respuesta que lo elimine. ¿Cómo sabrá que sus pistas están en la zona del esfuerzo productivo?
 

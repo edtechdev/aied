@@ -1,7 +1,7 @@
 ---
 title: Gestión del cambio
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-13T14:13:17-05:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,7 +10,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T07:48:20-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ Los **estudios de caso de transformación institucional** muestran cómo se plas
 
 Un taller sobre prácticas de evaluación con 73 educadores de informática aporta la contraparte desde el lado del aula. Casi todos los cambios que describieron los participantes los había hecho un docente individual en un solo curso sin coordinación institucional —colegas dentro de un mismo departamento adoptando posiciones opuestas sin nada que las reconciliara—, y la respuesta curricular que el informe defiende no concluirá a tiempo para ayudar al estudiantado ya matriculado; también se observó que la dificultad de las tareas caduca aproximadamente al ritmo de un semestre, lo que convierte la calibración frente a la capacidad actual de los modelos en un activo institucional perecedero y no en una decisión única ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 
+**El mismo uso de la herramienta puede innovar o agotar, y la institución decide cuál.** [[ding-genai-colleague-teacher-depletion-2026|Ding et al. (2026)]] encuestaron a 436 docentes universitarios de diseño y encontraron dos trayectorias significativas del uso de la IA generativa. Una pasa por la [[self-efficacy|autoeficacia]] docente (β = 0,322) y el bienestar (β = 0,300) hacia un trabajo más innovador y menos retirada; la otra pasa por la ansiedad ante la IA (β = 0,268) y el estrés laboral (β = 0,262) hacia lo contrario. El apoyo organizacional percibido reforzó los vínculos facilitadores (b = 0,153 y b = 0,176), mientras que la ruptura del contrato psicológico reforzó los agotadores (b = 0,171 y b = 0,194). El apoyo no es un extra de moral: ayuda a decidir qué trayectoria toma un despliegue.
+
 ## Implicaciones
 
 La gestión del cambio en la educación con IA conlleva implicaciones tanto positivas como negativas. **En positivo**, los marcos estructurados ofrecen a las instituciones un camino desde la gestión reactiva de crisis hacia una gobernanza proactiva y participativa; el [[crompton-governing-genai-higher-ed-delphi-2026|consenso Delphi]] y la [[baroudi-anticipatory-governance-ai-higher-ed-2026|gobernanza anticipatoria]] respaldan tratar la [[ai-literacy|alfabetización en IA]] y la [[ethics|ética]] como capacidades institucionales transversales y no como reglas aisladas. **En negativo**, una adopción fragmentada amplía las brechas existentes: el [[adarkwah-genai-unesco-policy-2026|análisis del marco de la UNESCO]] sobre 30 universidades líderes encuentra que los principios éticos centrales y de [[governance|gobernanza]] se adoptan ampliamente, pero la [[inclusive-learning|inclusión]], la equidad y la [[sustainability|sostenibilidad]] (acceso a internet, paridad de género, impacto ambiental) suelen pasarse por alto, y las clasificaciones nacionales de preparación para la IA no predicen una política institucional sólida. El [[league-ethical-governance-student-data-2026|marco LEAGUE]] extiende esta preocupación a la [[learning-analytics|analítica del aprendizaje]] y sostiene que la gobernanza debe ir más allá del cumplimiento (FERPA/RGPD) hacia la legalidad, la equidad, la [[agency|agencia]], la utilidad y la ética desde el diseño, revisando las prácticas con datos del estudiantado de forma transparente y educativa.
@@ -97,6 +99,7 @@ La gestión del cambio es el complemento institucional de la integración a nive
 - [[student-support-and-success]] — sostener un programa de apoyo más allá del piloto
 
 ## Artículos conectados
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 docentes de diseño: el uso de IAG eleva tanto la autoeficacia como la ansiedad ante la IA, y el apoyo organizacional decide qué trayectoria domina (Ding et al., 2026)
 - [[mata-sustaining-ai-enabled-student-support-2026]] — Sostener el apoyo al estudiantado habilitado por IA: estudio de implementación e impacto a cuatro años de un chatbot institucional (Mata, Russell y Page 2026)
 
 - [[institutional-change-framework-ai]] — marco de seis dimensiones para adaptar los modelos de cambio institucional a la IA como tecnología de llegada

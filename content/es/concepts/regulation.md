@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,20 +22,20 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Regulación de la IA** — las leyes, políticas y marcos de gobernanza que controlan cómo se desarrolla y despliega la IA en entornos educativos. La regulación en la base de conocimiento abarca la política gubernamental, la gobernanza institucional y la [[self-regulated-learning|autorregulación]] de la industria.
+> **Regulación de la IA** — las leyes, políticas y marcos de gobernanza que controlan cómo se desarrolla y despliega la IA en entornos educativos. La regulación abarca la política gubernamental, la gobernanza institucional y la [[self-regulated-learning|autorregulación]] de la industria.
 
 ## Preguntas para reflexionar
 
 - Las herramientas de IA se despliegan en las aulas mucho más rápido de lo que se pueden escribir las reglas. Antes de leer, ¿quién cree que está fijando de hecho las reglas efectivas ahora mismo: los legisladores, las instituciones, los desarrolladores o el profesorado improvisando sobre la marcha?
-- La página distingue entre regulación (leyes y reglas vinculantes) y gobernanza (las normas y estructuras más amplias). ¿Por qué importa esta distinción? ¿Cómo se ve una institución con una gobernanza fuerte pero una regulación débil, y es esa una situación estable?
+- La regulación significa leyes y reglas vinculantes; la gobernanza, las normas y estructuras más amplias. ¿Por qué importa esta distinción? ¿Cómo se ve una institución con una gobernanza fuerte pero una regulación débil, y es esa una situación estable?
 - La regulación «a la vez constriñe y habilita»: fija límites mientras crea condiciones para una integración equitativa y segura. ¿Se le ocurre una regla que limite a la vez el mal uso y amplíe el uso responsable, o es la tensión inevitable?
 - Los marcos éticos se endurecen cada vez más hasta convertirse en reglas vinculantes, y los requisitos de seguridad actúan como regulación de facto. ¿Ve los principios éticos convertidos en reglas exigibles como un avance o como una forma de parecer responsable sin dientes reales, y cómo distinguiría uno del otro?
-- La base de conocimiento documenta una «brecha de gobernanza» persistente entre la velocidad del despliegue y la madurez regulatoria, desigual entre jurisdicciones y niveles educativos. Como [[teacher-role|docente]] o desarrollador, ¿cómo afecta un entorno regulatorio inconsistente a sus decisiones cotidianas sobre qué IA usar?
+- Una «brecha de gobernanza» persistente separa la velocidad del despliegue de la madurez regulatoria, y discurre de forma desigual entre jurisdicciones y niveles educativos. Como [[teacher-role|docente]] o desarrollador, ¿cómo afecta un entorno regulatorio inconsistente a sus decisiones cotidianas sobre qué IA usar?
 - La [[research-methods-aied|investigación]] sobre la conciencia regulatoria del estudiantado pregunta si quienes [[learners]] conocen y siguen de verdad las reglas. Antes de leer, ¿qué tan bien cree que la mayoría del estudiantado entiende las reglas de IA que le obligan, y de quién es la responsabilidad cuando no las entiende?
 
 ## Introducción
 
-La regulación es la capa legal y de política de la [[governance]] de la IA: fija las reglas vinculantes, los estándares y los mecanismos de aplicación que la gobernanza institucional traduce en práctica. Donde la gobernanza es el marco amplio de normas y estructuras, la regulación aporta las reglas autoritativas: desde las leyes nacionales de IA y los estatutos de [[privacy|protección de datos]] hasta las políticas institucionales de uso aceptable y las directrices profesionales. Un tema recurrente en la investigación de la base de conocimiento es que la regulación va por detrás del despliegue de la IA, dejando a las instituciones improvisar gobernanza en la brecha.
+La regulación es la capa legal y de política de la [[governance]] de la IA: fija las reglas vinculantes, los estándares y los mecanismos de aplicación que la gobernanza institucional traduce en práctica. Donde la gobernanza es el marco amplio de normas y estructuras, la regulación aporta las reglas autoritativas: desde las leyes nacionales de IA y los estatutos de [[privacy|protección de datos]] hasta las políticas institucionales de uso aceptable y las directrices profesionales. Un tema recurrente en la investigación es que la regulación va por detrás del despliegue de la IA, dejando a las instituciones improvisar gobernanza en la brecha.
 
 ## El panorama regulatorio
 
@@ -48,7 +48,7 @@ La regulación es la capa legal y de política de la [[governance]] de la IA: fi
 
 ## La brecha de gobernanza
 
-La base de conocimiento documenta una brecha persistente entre la velocidad del despliegue de la IA y la madurez regulatoria. Los [[institutional-change-framework-ai|marcos de cambio institucional]] y la investigación sobre regulación abogan por una [[governance]] proactiva en lugar de una política reactiva. Los estudios de  y las [[raza-farooq-aied-review-2020-2025|revisiones exhaustivas de la AIED]] destacan que la regulación es desigual entre jurisdicciones y niveles educativos, lo que crea un entorno operativo inconsistente para docentes, estudiantes y desarrolladores.
+La madurez regulatoria no ha seguido el ritmo del despliegue de la IA. Los [[institutional-change-framework-ai|marcos de cambio institucional]] y la investigación sobre regulación abogan por una [[governance]] proactiva en lugar de una política reactiva. Los estudios de  y las [[raza-farooq-aied-review-2020-2025|revisiones exhaustivas de la AIED]] destacan que la regulación es desigual entre jurisdicciones y niveles educativos, lo que crea un entorno operativo inconsistente para docentes, estudiantes y desarrolladores.
 
 Los sistemas [[agentic-ai|agénticos]] abren una brecha adicional. En un análisis documental de 12 universidades, [[wong-sun-agentic-ai-assessment-governance-2026|Wong y Sun (2026)]] no encontraron ninguna política comparable que abordara que un agente iniciara sesión en un sistema de gestión del aprendizaje, retuviera credenciales del estudiantado o actuara en su nombre, mientras que varios casos ya conscientes de los agentes fijaban límites explícitos de delegación y acceso.
 

@@ -1,17 +1,21 @@
 ---
 title: Historia de la IA en la educación
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T14:20:00-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 translation_of: concepts/history-of-aied
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-13"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -26,10 +30,10 @@ ai_assist:
 
 - La IA generativa actual se describe a menudo como una revolución sin precedentes. ¿Cómo podría ese encuadre (el «cronocentrismo») impedirnos ver los patrones recurrentes que hay debajo?
 - El campo estuvo a punto de llamarse «cibernética» en lugar de «inteligencia artificial». ¿Cómo podría haber moldeado esa única decisión de nombre el hecho de que veamos las máquinas como inteligencias independientes o como parte de sistemas de retroalimentación interconectados?
-- La página enmarca la historia de la IAED como una tensión entre el control (los tutores cognitivos de Anderson, que optimizan la instrucción) y la agencia (el construccionismo de Papert, que empodera a quienes aprenden). ¿Dónde caen sus propias decisiones sobre IA en educación en ese espectro, y por qué?
-- La personalización, sostiene la página, tiene dos significados: variar el camino hacia el mismo resultado, o habilitar resultados diversos y dirigidos por quien aprende. ¿Qué tipo de personalización persigue realmente su institución, y cuál cree que debería perseguir?
+- La historia de la IAED es una tensión entre el control (los tutores cognitivos de Anderson, que optimizan la instrucción) y la agencia (el construccionismo de Papert, que empodera a quienes aprenden). ¿Dónde caen sus propias decisiones sobre IA en educación en ese espectro, y por qué?
+- La personalización tiene dos significados: variar el camino hacia el mismo resultado, o habilitar resultados diversos y dirigidos por quien aprende. ¿Qué tipo de personalización persigue realmente su institución, y cuál cree que debería perseguir?
 - Si los debates actuales sobre IA generativa «reflejan» estas tensiones históricas, ¿qué errores del pasado podríamos estar repitiendo, y qué podríamos evitar recordándolos?
-- La página afirma que las decisiones de diseño técnico incorporan juicios de valor sobre el propósito del aprendizaje. ¿Puede identificar una decisión de diseño en una herramienta de IA educativa que haya usado que favoreciera en silencio la estandarización frente a la [[agency|agencia de quien aprende]], o al contrario?
+- Las decisiones de diseño técnico incorporan juicios de valor sobre el propósito del aprendizaje. ¿Puede identificar una decisión de diseño en una herramienta de IA educativa que haya usado que favoreciera en silencio la estandarización frente a la [[agency|agencia de quien aprende]], o al contrario?
 
 ## Introducción
 
@@ -74,7 +78,7 @@ La llegada de la [[generative-ai|IA generativa]] —una familia amplia que inclu
 
 **«La IA en la educación empezó con ChatGPT.»** No fue así, y creerlo sale caro porque vuelve invisible todo lo aprendido antes. La [[intelligent-tutoring|tutoría inteligente]] desciende del trabajo en búsqueda heurística y sistemas expertos de los años 1960 y 70, y la comunidad AIED se formó en torno a ella décadas antes de los [[llm|grandes modelos de lenguaje]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] muestran que los debates actuales reproducen una división ya explícita en los tutores cognitivos de Anderson y el construccionismo de Papert, así que quien sitúe el inicio del campo en 2022 volverá a derivar argumentos que el campo ya resolvió, abandonó o perdió una vez.
 
-**«El campo ha abandonado de forma sostenida la IA como analogía en favor de las herramientas aplicadas, y la IA generativa continúa esa tendencia.»** Es la corrección más instructiva de la página, porque la trayectoria es real pero no monótona. El análisis posicional de [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian y Doroudi]] sobre AIED 1985, 1993, 2021 y 2024 e IJAIED 2004, 2014 y 2021 sí muestra una deriva desde un campo mixto hacia una instrumentalidad aplicada casi exclusiva en la década de 2000. Pero en AIED 2024, tres de los cuatro artículos del cuadrante de la IA como analogía se basaban en LLM, incluido un trabajo premiado sobre agentes enseñables basados en LLM. La IA generativa **invierte** en parte la tendencia en lugar de prolongarla, y por eso tratarla como «el siguiente tutor inteligente» malinterpreta hacia dónde se ha movido realmente la frontera de la investigación.
+**«El campo ha abandonado de forma sostenida la IA como analogía en favor de las herramientas aplicadas, y la IA generativa continúa esa tendencia.»** Es la corrección más instructiva, porque la trayectoria es real pero no monótona. El análisis posicional de [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian y Doroudi]] sobre AIED 1985, 1993, 2021 y 2024 e IJAIED 2004, 2014 y 2021 sí muestra una deriva desde un campo mixto hacia una instrumentalidad aplicada casi exclusiva en la década de 2000. Pero en AIED 2024, tres de los cuatro artículos del cuadrante de la IA como analogía se basaban en LLM, incluido un trabajo premiado sobre agentes enseñables basados en LLM. La IA generativa **invierte** en parte la tendencia en lugar de prolongarla, y por eso tratarla como «el siguiente tutor inteligente» malinterpreta hacia dónde se ha movido realmente la frontera de la investigación.
 
 **«Personalizar significa adaptar la dificultad a cada estudiante.»** Ese es solo uno de dos sentidos incompatibles, y confundirlos oculta una elección política. En el primer sentido el resultado se mantiene fijo y solo varía el camino, un linaje que va de las máquinas de enseñar de Skinner a la tutoría basada en el dominio. En el segundo los propios resultados se diversifican, a medida que el estudiantado persigue intereses individuales sin las restricciones del currículo estándar (Zhao, 2024). Un [[intelligent-tutoring|ITS]] implementa el primero; el [[constructivist|construccionismo]], el segundo. Una herramienta descrita como «personalizada» no le ha dicho nada hasta que sepa cuál de los dos sentidos usa.
 
@@ -94,7 +98,7 @@ La llegada de la [[generative-ai|IA generativa]] —una familia amplia que inclu
 
 **Para quienes investigan**
 
-- Use los corpus históricos como línea de base en lugar de tratar el presente como la única comparación disponible. Las actas de AIED de 1985, 1993, 2021 y 2024 y las de IJAIED de 2004, 2014 y 2021 son una muestra longitudinal ya lista de las propias afirmaciones del campo.
+- Use las actas históricas como línea de base en lugar de tratar el presente como la única comparación disponible. Las actas de AIED de 1985, 1993, 2021 y 2024 y las de IJAIED de 2004, 2014 y 2021 son una muestra longitudinal ya lista de las propias afirmaciones del campo.
 - Cite el linaje cuando reclame novedad. Una afirmación de que un sistema «personaliza el aprendizaje» o «modela a quien aprende» solo es novedosa respecto de una tradición previa concreta, y esa tradición está documentada.
 
 ## Conceptos conectados

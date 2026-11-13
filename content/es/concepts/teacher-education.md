@@ -1,7 +1,7 @@
 ---
 title: "Formación docente"
 created: "2026-09-28T19:17:40-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-13T14:20:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
@@ -9,10 +9,14 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-13T09:46:01-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-13"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -30,19 +34,19 @@ pedagogy: [tpack]
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **[[educational-development|Desarrollo profesional]]**: la preparación y el desarrollo profesional continuo del profesorado, que abarca tanto la formación inicial docente (los programas de certificación) como el desarrollo profesional en servicio. En la [[research-methods-aied|investigación]] sobre IA en educación, la formación docente se ha convertido en una preocupación central porque la alfabetización en IA del profesorado, el conocimiento tecnológico-[[pedagogy|pedagógico]], la fluidez [[ethics|ética]] y la disposición a integrar la IA en la enseñanza determinan si la adopción de la IA en las aulas tiene éxito. Este concepto organiza la amplia cobertura que hace la base de conocimiento de cómo la IA reconfigura la preparación, el conocimiento, las creencias y la práctica tanto del profesorado en formación como del que ya ejerce.
+> **[[educational-development|Desarrollo profesional]]**: la preparación y el desarrollo profesional continuo del profesorado, que abarca tanto la formación inicial docente (los programas de certificación) como el desarrollo profesional en servicio. En la [[research-methods-aied|investigación]] sobre IA en educación, la formación docente se ha convertido en una preocupación central porque la alfabetización en IA del profesorado, el conocimiento tecnológico-[[pedagogy|pedagógico]], la fluidez [[ethics|ética]] y la disposición a integrar la IA en la enseñanza determinan si la adopción de la IA en las aulas tiene éxito. Este concepto organiza la amplia cobertura de cómo la IA reconfigura la preparación, el conocimiento, las creencias y la práctica tanto del profesorado en formación como del que ya ejerce.
 
 ## Preguntas para reflexionar
 
 - La formación docente abarca aquí la formación inicial (futuros docentes en programas de certificación) y el desarrollo profesional en servicio (docentes en ejercicio). ¿Cuál de los dos cree que enfrenta el reto mayor al prepararse para aulas con IA, y por qué?
-- La página sostiene que la formación docente debe preparar al profesorado no solo para usar herramientas de IA, sino para comprenderlas, evaluarlas e integrarlas éticamente, un giro que "redefine lo que significa ser docente". ¿Cómo cree que esa redefinición debería cambiar lo que enseña un programa de certificación?
+- La formación docente debe preparar al profesorado no solo para usar herramientas de IA, sino para comprenderlas, evaluarlas e integrarlas éticamente, un giro que "redefine lo que significa ser docente". ¿Cómo cree que esa redefinición debería cambiar lo que enseña un programa de certificación?
 - Marcos como el AI-TPACK amplían el modelo clásico TPACK añadiendo una dimensión de IA y ética. ¿Qué debería contener realmente una "dimensión de IA" del conocimiento tecnológico-pedagógico-disciplinar más allá de saber operar un [[conversational-ai|chatbot]]?
-- Una [[meta-analysis-systematic-review|revisión de alcance]] de 55 estudios citada en la página concluye que la IA mejora el diseño instruccional, la reflexión y el pensamiento crítico del profesorado en formación. Pero si la IA puede hacer parte de eso por ellos, ¿cuándo su uso en la formación docente desarrolla la competencia y cuándo sustituye justamente el juicio que van a necesitar?
+- Una revisión de alcance de 55 estudios concluye que la IA mejora el diseño instruccional, la reflexión y el pensamiento crítico del profesorado en formación. Pero si la IA puede hacer parte de eso por ellos, ¿cuándo su uso en la formación docente desarrolla la competencia y cuándo sustituye justamente el juicio que van a necesitar?
 - Si usted rediseñara un programa de formación docente para la era de la IA, ¿qué exigiría que experimentara todo futuro docente, y qué mantendría deliberadamente fuera de lo que puede delegarse en la IA?
 
 ## Introducción
 
-La formación docente se sitúa en la intersección de varias líneas de la base de conocimiento: es una disciplina o dominio (como la [[medical-education|educación médica]] y la [[humanities-education|educación en humanidades]]), pero también se nutre de los conceptos generales de [[teacher-role|rol docente]], [[tpack|TPACK]], [[teacher-ai-competency|competencia docente en IA]] y [[ai-literacy|alfabetización en IA]]. En la era de la IA, la formación docente debe preparar al profesorado no solo para usar herramientas de IA, sino para comprenderlas, evaluarlas e integrarlas éticamente, un giro que redefine lo que significa ser docente. Las [[learning-sciences|ciencias del aprendizaje]] aportan el conocimiento que esta formación tiene que sostener: si ese campo estudia cómo aprenden las personas y cómo deben diseñarse los entornos de aprendizaje, la formación docente es la formación profesional en la que esa evidencia tiene que cuajar como capacidad propia del docente para diseñar, enseñar y evaluar.
+La formación docente se sitúa en la intersección de varias líneas de investigación: es una disciplina o dominio (como la [[medical-education|educación médica]] y la [[humanities-education|educación en humanidades]]), pero también se nutre de los conceptos generales de [[teacher-role|rol docente]], [[tpack|TPACK]], [[teacher-ai-competency|competencia docente en IA]] y [[ai-literacy|alfabetización en IA]]. En la era de la IA, la formación docente debe preparar al profesorado no solo para usar herramientas de IA, sino para comprenderlas, evaluarlas e integrarlas éticamente, un giro que redefine lo que significa ser docente. Las [[learning-sciences|ciencias del aprendizaje]] aportan el conocimiento que esta formación tiene que sostener: si ese campo estudia cómo aprenden las personas y cómo deben diseñarse los entornos de aprendizaje, la formación docente es la formación profesional en la que esa evidencia tiene que cuajar como capacidad propia del docente para diseñar, enseñar y evaluar.
 
 La evidencia entre niveles afina la prioridad de diseño: [[pedagogy-first-technology-second-teacher-knowledge-2026|un estudio multinivel con 46 docentes y 2.832 estudiantes de secundaria]] encontró que el conocimiento pedagógico de la IA (TPAIK), y no el conocimiento técnico de la IA, determinaba las percepciones del alumnado sobre la IA para el bien social y su intención de aprender IA. La formación docente debería, por tanto, poner en primer plano *cómo enseñar con IA y sobre la IA* por encima del dominio de la herramienta, en coherencia con la directriz de "primero la pedagogía, después la tecnología".
 
@@ -85,7 +89,9 @@ El desarrollo profesional en servicio apoya al profesorado en ejercicio en la in
 - **La [[ai-ed-evaluation|evaluación colaborativa de contenido generado por IA]] como desarrollo profesional.** [[teachers-collaborative-evaluation-ai-content-2026|Gat, Usher y Barak (2026)]] informan de un taller en el que 60 docentes de ciencias de [[k-12|educación media]] valoraron preguntas de evaluación generadas por ChatGPT con su juicio disciplinar, pedagógico y curricular. La evaluación colaborativa funcionó en sí misma como desarrollo profesional: ayudó al profesorado a aplicar criterios de precisión conceptual a los resultados de la IA y sacó a la luz el riesgo de que el contenido de IA refuerce las [[misconceptions|ideas erróneas]], situando al docente como evaluador crítico del material de [[generative-ai|IA generativa]] en lugar de consumidor pasivo.
 - **El desarrollo profesional estructurado para docentes de lenguas es escaso pero eficaz.** Una [[li-language-educators-genai-review-2026|revisión sistemática de 23 estudios]] (Li et al. 2026) encontró que solo tres de los estudios incluidos informaban de desarrollo profesional estructurado (un módulo integrado en un curso de gramática, un programa gubernamental de EMI y la indagación integrada con chatbot), y aun así todos confluyeron en ganancias de conocimiento, confianza y reencuadre identitario, desplazando la visión de la IA generativa desde el "riesgo de sustitución" hacia la de asistente o ampliadora. La revisión sostiene que el desarrollo profesional debería combinar la formación en habilidades técnicas con sabiduría práctica, pasando de la [[ai-literacy|sensibilización]] y la ética al dominio práctico de la herramienta y al codiseño de clases enriquecidas con IA, y recomienda una estrategia de implementación en dos fases: "primero la trastienda, después el aula".
 
-El caso más claro de la base de conocimiento de desarrollo profesional en IA generativa guiado por un marco para matemáticas es un estudio con ocho docentes en ejercicio de distritos rurales y con pocos recursos que completaron diez módulos interactivos construidos sobre el marco 4P de Rhodes ([[bicer-genai-pd-math-creativity-2026]]). Aporta dos mecanismos de diseño que el desarrollo profesional en servicio no suele tener aquí: un andamiaje que se retira de forma deliberada (orientación explícita al principio y, después, peticiones de justificar, generalizar y diseñar tareas) y el razonamiento estudiantil simulado en los módulos 6 a 10, junto con el hallazgo de que MC, CK y PCK se movieron juntos, aunque solo midió la participación, no el conocimiento docente ni el aprendizaje del alumnado.
+- **La formación, y no la herramienta, fue lo que produjo la ganancia.** En 19 clases de primaria brasileñas, el estudiantado de docentes que recibieron una única formación de 50 minutos en aritmética superó a los controles, mientras que añadir un sistema de IA mediado por el docente no produjo ninguna ganancia de aprendizaje adicional ([[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]]).
+
+El caso más claro de desarrollo profesional en IA generativa guiado por un marco para matemáticas es un estudio con ocho docentes en ejercicio de distritos rurales y con pocos recursos que completaron diez módulos interactivos construidos sobre el marco 4P de Rhodes ([[bicer-genai-pd-math-creativity-2026]]). Aporta dos mecanismos de diseño que el desarrollo profesional en servicio no suele tener aquí: un andamiaje que se retira de forma deliberada (orientación explícita al principio y, después, peticiones de justificar, generalizar y diseñar tareas) y el razonamiento estudiantil simulado en los módulos 6 a 10, junto con el hallazgo de que MC, CK y PCK se movieron juntos, aunque solo midió la participación, no el conocimiento docente ni el aprendizaje del alumnado.
 
 - **Programas de poscualificación.** La alfabetización en IA y el uso que hacen de ella los educadores de ciencias en ejercicio informan el diseño de programas de poscualificación relacionados con la IA.([[science-educators-ai-literacy-postqualification-2026]])
 

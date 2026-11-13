@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ La alfabetización en retroalimentación importa porque una retroalimentación b
 
 ## Qué es la alfabetización en retroalimentación
 
-La alfabetización en retroalimentación se enmarca ampliamente como un conjunto de capacidades interrelacionadas: la capacidad de valorar la retroalimentación, emitir juicios, gestionar lo afectivo y actuar (según Carless y Boud). Los artículos de la base de conocimiento agrupan la alfabetización en retroalimentación en torno a varias capacidades:
+La alfabetización en retroalimentación se enmarca ampliamente como un conjunto de capacidades interrelacionadas: la capacidad de valorar la retroalimentación, emitir juicios, gestionar lo afectivo y actuar (según Carless y Boud). La literatura agrupa la alfabetización en retroalimentación en torno a varias capacidades:
 
 - **Buscar y provocar retroalimentación**: solicitar retroalimentación de forma proactiva en lugar de recibirla pasivamente.
 - **Emitir juicios**: evaluar la exactitud y la utilidad de la retroalimentación, incluida la producida por IA.

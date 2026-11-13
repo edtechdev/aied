@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 - Si una escuela le dice que «el estudiantado que usó la herramienta de IA obtuvo puntuaciones más altas», ¿por qué eso podría seguir sin demostrar que la herramienta causó la ganancia, incluso si la diferencia es grande?
 - La aleatorización equilibra los factores de confusión conocidos *y desconocidos* entre los grupos. Antes de leer, ¿qué logra la asignación aleatoria que no puede lograr una simple comparación de dos aulas intactas, por muy bien emparejadas que parezcan?
-- La página llama al ECA el estándar de oro pero enumera costes reales: entornos artificiales, una IA que cambia rápido y que deja obsoletos los ensayos, muestras pequeñas con potencia insuficiente y limitaciones [[ethics|éticas]] para retener herramientas útiles. ¿Cuál de estas disyuntivas cree que se ignora más a menudo en los titulares de la investigación educativa?
+- El ECA es el estándar de oro, pero conlleva costes reales: entornos artificiales, una IA que cambia rápido y que deja obsoletos los ensayos, muestras pequeñas con potencia insuficiente y limitaciones [[ethics|éticas]] para retener herramientas útiles. ¿Cuál de estas disyuntivas cree que se ignora más a menudo en los titulares de la investigación educativa?
 - Un ECA con 1.174 participantes encontró que la [[generative-ai|IA generativa]] cerró cerca de tres cuartas partes de una brecha de productividad basada en la educación. Pero un ECA bien ejecutado también puede realizarse sobre una tarea estrecha en un entorno artificial. ¿Qué debería comprobar sobre la *medida de resultado* antes de fiarse de la afirmación causal?
 - Considere el problema ético directamente: si tuviera motivos genuinos para creer que un [[intelligent-tutoring|tutor de IA]] ayuda al estudiantado a aprender, ¿es defendible negárselo aleatoriamente a la mitad de un aula durante un semestre? ¿Cómo diseñaría un estudio éticamente sólido que aun así aísle la causa?
 

@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-11-12T10:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -114,7 +114,7 @@ El lado positivo: los sistemas de IA detectan y ayudan a aliviar cada vez más e
 
 ## Por qué esto es distinto del bienestar
 
-El [[well-being|bienestar]] es el estado positivo amplio (salud emocional, psicológica y social) que la IA puede sostener o socavar. La **ansiedad y el estrés ante la IA** es el constructo emocional específico y medible dentro de ese espacio: nombra el afecto negativo discreto y sus usos productivos, y tiene su propia base de evidencia dedicada (estrés por supervisión de exámenes, ansiedad productiva ante la IA, detección de estrés impulsada por IA). Más que rivalizar con el bienestar, esta página desarrolla en profundidad la dimensión de la ansiedad y el estrés y se enlaza abundantemente con el [[well-being|bienestar]], el [[social-emotional-learning|aprendizaje socioemocional]], la [[affective-computing|computación afectiva]] y la [[remote-proctoring|supervisión remota de exámenes]].
+El [[well-being|bienestar]] es el estado positivo amplio (salud emocional, psicológica y social) que la IA puede sostener o socavar. La **ansiedad y el estrés ante la IA** es el constructo emocional específico y medible dentro de ese espacio: nombra el afecto negativo discreto y sus usos productivos, y tiene su propia base de evidencia dedicada (estrés por supervisión de exámenes, ansiedad productiva ante la IA, detección de estrés impulsada por IA). Más que rivalizar con el bienestar, la dimensión de la ansiedad y el estrés tiene su propia literatura, desarrollada en profundidad y enlazada con el [[well-being|bienestar]], el [[social-emotional-learning|aprendizaje socioemocional]], la [[affective-computing|computación afectiva]] y la [[remote-proctoring|supervisión remota de exámenes]].
 
 ## Orientaciones prácticas
 - **Diseñar para la ansiedad, no solo para la integridad.** Los sistemas de supervisión de exámenes y de monitorización con IA deberían minimizar las acusaciones falsas y el estrés por vigilancia, especialmente para el estudiantado novato y vulnerable; conviene acompañar la monitorización de alternativas accesibles y una comunicación clara.

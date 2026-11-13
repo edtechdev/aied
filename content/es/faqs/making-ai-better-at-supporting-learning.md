@@ -15,7 +15,7 @@ discipline: [writing education]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/making-ai-better-at-supporting-learning
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -34,7 +34,7 @@ ai_assist:
 
 El ticket dice "ajuste fino del modelo con los materiales de nuestro curso". El presupuesto está aprobado, hay una GPU reservada para el mes que viene y se le ha pedido a un estudiante de posgrado que reúna un conjunto de datos. Nadie en la llamada ha preguntado qué puntúa un prompt simple, ni qué puntúa una búsqueda por palabras clave, en las mismas preguntas.
 
-Haga esas dos preguntas primero. En esta base de conocimiento, la brecha entre un modelo general y uno competente en el curso es sobre todo un problema de anclaje y de prompting, y la evidencia de ese orden es inusualmente directa: un estudio de asistente de curso encontró que la recuperación, y no el modelo, era la decisión de primer orden, y un modelo general sin anclaje puntuó *por debajo* de una línea base simple de TF-IDF.
+Haga esas dos preguntas primero. La brecha entre un modelo general y uno competente en el curso es sobre todo un problema de anclaje y de prompting, y la evidencia de ese orden es inusualmente directa: un estudio de asistente de curso encontró que la recuperación, y no el modelo, era la decisión de primer orden, y un modelo general sin anclaje puntuó *por debajo* de una línea base simple de TF-IDF.
 
 El entrenamiento es real y a veces necesario. Es la tercera o la cuarta cosa que probar, y el trabajo de abajo está ordenado para que usted averigüe qué peldaño necesita de verdad antes de gastar el cómputo del trimestre.
 
@@ -64,7 +64,7 @@ Sáltese este paso y no podrá saber si su ajuste fino ayudó. Peor aún, puede 
 
 Añadir [[rag|generación aumentada por recuperación]] sobre los materiales del curso, sin ningún ajuste fino, elevó ese mismo sistema del 52,3% al **66,6%**. Esa ganancia vino de un índice, y trae una propiedad que un entrenamiento no tiene: cuando sus documentos cambian, usted reindexa.
 
-Otros dos resultados apuntan en el mismo sentido. Una [[meta-analysis-systematic-review|revisión PRISMA]] de 23 estudios empíricos sobre la personalización de la IA para la [[writing-education|enseñanza de la escritura]] encontró **dominio de la [[prompt-engineering|ingeniería de prompts]] (N = 13), por delante del ajuste fino (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Cuando una base de conocimiento tiene que mantenerse actualizada, la recuperación es la única palanca que se mantiene actualizada sin volver a ejecutar un entrenamiento.
+Otros dos resultados apuntan en el mismo sentido. Una [[meta-analysis-systematic-review|revisión PRISMA]] de 23 estudios empíricos sobre la personalización de la IA para la [[writing-education|enseñanza de la escritura]] encontró **dominio de la [[prompt-engineering|ingeniería de prompts]] (N = 13), por delante del ajuste fino (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Cuando los materiales de origen tienen que mantenerse actualizados, la recuperación es la única palanca que se mantiene actualizada sin volver a ejecutar un entrenamiento.
 
 La recuperación también tiene una forma [[pedagogy|pedagógica]]. Anclar un modelo en sus propios ejemplos resueltos y rúbricas es lo que lo mantiene dentro del [[scaffolding|andamiaje]] que usted diseñó, respondiendo al nivel que usted fijó en lugar de derivar hacia consejos genéricos. Esa deriva es la queja más común sobre los tutores comerciales, y es un problema de recuperación más a menudo que un problema de pesos.
 
@@ -93,7 +93,7 @@ La palabra *estable* del encabezado es la que carga el peso. El formato, la rúb
 
 La adaptación enseña al modelo *qué producir*. El postentrenamiento le enseña *cómo comportarse*. Para la tutoría esa distinción es todo el problema: los modelos generales se postentrenan con la preferencia humana por la utilidad, lo que significa responder con prontitud, y enseñar exige retener la respuesta.
 
-Los resultados educativos más sólidos de este corpus están aquí. El modelo de recompensa de EduQwen priorizó explícitamente **las respuestas que guían frente a las respuestas directas**, y su canalización de tres etapas alcanzó el **96,52%** en el benchmark CDPK frente al **90,55%** de Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). El [[simulation|simulador]] de escritura de SWIM pasó del prompting anclado en rúbrica (mejor QWK **0,577**) al ajuste fino supervisado (**0,474 ± 0,023**) y al [[reinforcement-learning|aprendizaje por refuerzo]] (**0,618 ± 0,005**) en todos los rasgos y prompts ([[swim-student-writing-simulation-2026]]).
+Los resultados educativos más sólidos vienen de este peldaño. El modelo de recompensa de EduQwen priorizó explícitamente **las respuestas que guían frente a las respuestas directas**, y su canalización de tres etapas alcanzó el **96,52%** en el benchmark CDPK frente al **90,55%** de Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). El [[simulation|simulador]] de escritura de SWIM pasó del prompting anclado en rúbrica (mejor QWK **0,577**) al ajuste fino supervisado (**0,474 ± 0,023**) y al [[reinforcement-learning|aprendizaje por refuerzo]] (**0,618 ± 0,005**) en todos los rasgos y prompts ([[swim-student-writing-simulation-2026]]).
 
 Lea con cuidado los números de SWIM, porque el paso intermedio fue hacia atrás. El ajuste fino supervisado con demostraciones empeoró al simulador respecto del prompt con el que partió, y solo la señal de recompensa recuperó la pérdida y luego superó la línea base. Si su plan se detiene en el ajuste fino supervisado, el plan puede ser un desvío.
 
@@ -151,13 +151,13 @@ El ajuste fino supervisado es el paso intermedio seguro antes del aprendizaje po
 
 **"Nuestro problema es que los estudiantes no lo usan."** El entrenamiento cambia lo que produce el modelo. La cifra del 15% describe cuánto explican la elección de modelo y de prompt en el desajuste con las ganancias de aprendizaje, y la implicación queda fuera de eso. Mida dónde abandonan los estudiantes antes de comprar cómputo.
 
-**"No podemos enviar el trabajo del estudiantado a la API de un proveedor."** El resultado de LoRA más sólido de esta página vino de modelos abiertos en el rango de 4B a 30B, y un solo adaptador sirvió a varios de ellos. Esa forma de despliegue está al alcance de un equipo con una GPU y sin un acuerdo de procesamiento de datos.
+**"No podemos enviar el trabajo del estudiantado a la API de un proveedor."** El resultado de LoRA más sólido aquí vino de modelos abiertos en el rango de 4B a 30B, y un solo adaptador sirvió a varios de ellos. Esa forma de despliegue está al alcance de un equipo con una GPU y sin un acuerdo de procesamiento de datos.
 
-**"El prompting es un truco; el trabajo de verdad es entrenar."** La revisión de 23 estudios de enseñanza de la escritura encontró que el prompting era el enfoque dominante y que el ajuste fino iba por detrás, y la mayor ganancia reportada en esta página vino de un índice. Tanto la revisión como el estudio del asistente de curso ordenaron esos peldaños por ganancia medida.
+**"El prompting es un truco; el trabajo de verdad es entrenar."** La revisión de 23 estudios de enseñanza de la escritura encontró que el prompting era el enfoque dominante y que el ajuste fino iba por detrás, y la mayor ganancia reportada vino de un índice. Tanto la revisión como el estudio del asistente de curso ordenaron esos peldaños por ganancia medida.
 
 **"Probamos el prompting y se estancó, así que necesitamos entrenamiento."** Esa es la lectura correcta, y es el único caso en el que la subida está justificada. Lleve el prompt optimizado al ajuste fino como hizo el equipo de generación de ítems, y espere que la ganancia sea menor de lo que fue el trabajo de prompts.
 
-**"Nuestros materiales de curso son inconsistentes, así que la recuperación devolverá basura."** Lo hará, y la recuperación hereda la calidad del corpus. Limpiar el corpus es más barato que entrenar un modelo para sortearlo, y la ganancia del 52,3% al 66,6% se midió sobre materiales de curso ordinarios y no sobre un conjunto curado.
+**"Nuestros materiales de curso son inconsistentes, así que la recuperación devolverá basura."** Lo hará, y la recuperación hereda la calidad de los materiales de origen. Limpiarlos es más barato que entrenar un modelo para sortearlo, y la ganancia del 52,3% al 66,6% se midió sobre materiales de curso ordinarios y no sobre un conjunto curado.
 
 ## Qué hacer esta semana
 

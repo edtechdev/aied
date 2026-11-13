@@ -5,9 +5,9 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-13T14:15:59-05:00"
 translation_of: concepts/visualization
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -27,9 +27,9 @@ ai_assist:
 
 ## Preguntas a considerar
 
-- Un gráfico o un panel puede hacer que los datos sean claros — pero ¿ver simplemente una visualización es lo mismo que entenderla? La [[research-methods-aied|investigación]] de la página sugiere que cómo interactúas con una visualización importa más que el gráfico en sí. Recuerda un panel o gráfico que miraste pero del que realmente no aprendiste. ¿Qué le faltaba a la mera visualización?
+- Un gráfico o un panel puede hacer que los datos sean claros — pero ¿ver simplemente una visualización es lo mismo que entenderla? La [[research-methods-aied|investigación]] sugiere que cómo interactúas con una visualización importa más que el gráfico en sí. Recuerda un panel o gráfico que miraste pero del que realmente no aprendiste. ¿Qué le faltaba a la mera visualización?
 - Los paneles de aprendizaje convencionales siguen un modelo de «mostrar los datos y esperar el insight». El hallazgo aquí es que los estudiantes que responden preguntas sobre sus datos *antes* de ver las métricas reflexionan y se calibran mejor que quienes ven los gráficos pasivamente. ¿Por qué obligarse a predecir primero podría cambiar lo que obtienes de ver los datos reales?
-- La IA ya puede generar visualizaciones precisas de contenido especializado: tras el [[llm-training-and-fine-tuning|ajuste fino]] de un modelo de texto a imagen sobre conceptos nucleares, la precisión de dominio subió del 12% al 78%. Pero la página también concluye que ningún modelo es uniformemente competente. ¿Dónde confiarías en un visual generado por IA, y dónde insistirías en verificarlo con un experto humano?
+- La IA ya puede generar visualizaciones precisas de contenido especializado: tras el [[llm-training-and-fine-tuning|ajuste fino]] de un modelo de texto a imagen sobre conceptos nucleares, la precisión de dominio subió del 12% al 78%. Pero ningún modelo es uniformemente competente. ¿Dónde confiarías en un visual generado por IA, y dónde insistirías en verificarlo con un experto humano?
 - Los participantes en un estudio encontraron los cómics de datos generados por IA más atractivos y comprensibles, aunque muchos también señalaron el riesgo de desinformación y la sobrecarga de información. ¿Cómo sopesas el atractivo de un visual de IA convincente frente a su potencial para inducir a error — y qué verificarías antes de confiar en él o usarlo?
 - La página advierte que la *confianza* de un modelo no es su *fiabilidad*: los sistemas pueden divergir notablemente en los juicios de severidad a la vez que aciertan en los constructos básicos. Si confiaras en una herramienta de IA para evaluar diapositivas, ensayos o datos, ¿cómo descubrirías dónde su confianza oculta un error grave?
 - Un estudio halló que los estudiantes dedicaban la mayor parte de su mirada al código a pesar de elaborados andamiajes visuales: las ayudas visuales simplemente no captaban la atención de todos. ¿Qué sugiere esto sobre suponer que un buen diagrama o panel ayudará automáticamente a todos los estudiantes a participar? ¿Qué más, además de lo visual, moldea cómo usa realmente la gente una herramienta?

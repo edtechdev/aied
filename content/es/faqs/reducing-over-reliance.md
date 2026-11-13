@@ -12,7 +12,7 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/reducing-over-reliance
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -67,7 +67,7 @@ La secuencia probada más clara es "piense primero, [[generative-ai|ChatGPT]] de
 
 Los datos de las indicaciones explican la diferencia. En el grupo regulado, el 88,6% de las indicaciones fueron colaborativas, y ese fue el único tipo de indicación correlacionado de forma significativa con la originalidad independiente posterior. En el grupo de uso libre, el 70,9% de las indicaciones fueron no colaborativas y el 59,6% simplemente pedían a ChatGPT que generara ideas sin más. La misma herramienta, formulada de dos maneras distintas, produjo dos tipos distintos de estudiante.
 
-En el enunciado de su tarea esto se convierte en una instrucción de orden: primero las ideas, las hipótesis o un borrador, después la herramienta. Una frase al principio de la página basta, siempre que el paso siguiente recoja lo que el estudiante escribió.
+En el enunciado de su tarea esto se convierte en una instrucción de orden: primero las ideas, las hipótesis o un borrador, después la herramienta. Una frase al principio de la hoja basta, siempre que el paso siguiente recoja lo que el estudiante escribió.
 
 Dos detalles de aula deciden si la secuencia se sostiene. El primero es el tiempo. Si la fase independiente ocurre fuera de clase, algunos estudiantes abrirán la herramienta primero y escribirán las ideas después. El segundo es la recogida. Si no se entrega nada de esa fase, la secuencia existe solo en el papel. Media página de notas, recogida al final de la clase, basta para que el orden sea real.
 
@@ -141,7 +141,7 @@ El contexto importa tanto como la persona, y su curso controla una parte del con
 
 ## Decida cuánto peso tiene la evidencia
 
-Nada en este corpus pone a prueba si una intervención concreta contra el exceso de dependencia se sostiene en distintos contextos o semestres. Pensar primero se apoya en un experimento con N = 196. El resultado de retener las respuestas viene de la síntesis de [[brcic-effortless-trap-productive-struggle-2026|Brcic y Frljic (2026)]], no de un ensayo propio. El argumento de la fricción es un comentario conceptual sin datos nuevos. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] declara los límites del modelo: calidad de IA exógena y estacionaria, una red fija y una verificación estilizada. Estimar los valores reales exigiría rastros longitudinales de las tasas de verificación por tarea, de la fuerza de la prueba social y de cómo se actualiza la confianza tras un uso verificado frente a uno no verificado.
+Nada en la evidencia pone a prueba si una intervención concreta contra el exceso de dependencia se sostiene en distintos contextos o semestres. Pensar primero se apoya en un experimento con N = 196. El resultado de retener las respuestas viene de la síntesis de [[brcic-effortless-trap-productive-struggle-2026|Brcic y Frljic (2026)]], no de un ensayo propio. El argumento de la fricción es un comentario conceptual sin datos nuevos. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] declara los límites del modelo: calidad de IA exógena y estacionaria, una red fija y una verificación estilizada. Estimar los valores reales exigiría rastros longitudinales de las tasas de verificación por tarea, de la fuerza de la prueba social y de cómo se actualiza la confianza tras un uso verificado frente a uno no verificado.
 
 La medición sigue siendo el eslabón más débil. Dominan los diseños de encuesta, y tanto [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] como [[genai-over-reliance-learning-2026|Gao, Sun y Khan (2026)]] piden seguimientos longitudinales y experimentales. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] no tiene [[educational-measurement|psicometría]] y se construyó para adultos. Que la brecha de equidad pueda cerrarse con instrucción es una hipótesis teórica y no una demostración.
 
@@ -191,4 +191,4 @@ Eso le deja una apuesta razonable, hecha a bajo costo. Cambie una tarea, conserv
 
 ## Adónde ir después
 
-La pregunta vecina, si la IA produce aprendizaje en absoluto, se trata en [[does-ai-help-students-learn]]. [[reduce-ai-cheating]] aborda la integridad y los límites de la detección, y [[redesign-assessment-ai-era]] cubre la arquitectura de evaluación que esta página da por supuesta. Para las ideas de fondo, véanse [[cognitive-offloading]], [[metacognition]] y [[desirable-difficulties]].
+La pregunta vecina, si la IA produce aprendizaje en absoluto, se trata en [[does-ai-help-students-learn]]. [[reduce-ai-cheating]] aborda la integridad y los límites de la detección, y [[redesign-assessment-ai-era]] cubre la arquitectura de evaluación que el enfoque da por supuesta. Para las ideas de fondo, véanse [[cognitive-offloading]], [[metacognition]] y [[desirable-difficulties]].

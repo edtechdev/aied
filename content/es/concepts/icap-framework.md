@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-11-10T18:55:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 - Piense en la última vez que «aprendió» algo viendo un vídeo o leyendo. El marco ICAP lo llamaría pasivo. ¿Qué retiene realmente de la exposición pasiva frente a lo que retiene al explicárselo a otra persona?
 - ICAP ordena la implicación de pasiva a activa, constructiva e interactiva. ¿Dónde tienden a mantener a quienes aprenden las herramientas de IA que ha usado, y cuenta hacer clics en una práctica adaptativa como implicación real o solo como actividad?
-- La página sostiene que el cambio más trascendental es el de Activo a Constructivo: generar explicaciones o artefactos nuevos en lugar de limitarse a aplicar el conocimiento. ¿Por qué producir algo nuevo podría ser el paso que cambia de verdad la comprensión?
+- El cambio más trascendental es el de Activo a Constructivo: generar explicaciones o artefactos nuevos en lugar de limitarse a aplicar el conocimiento. ¿Por qué producir algo nuevo podría ser el paso que cambia de verdad la comprensión?
 - Un estudio encontró que las personas expertas superan con creces a los modelos de IA al etiquetar niveles de implicación. Si los sistemas automatizados subestiman sistemáticamente la implicación, ¿cómo deberíamos tratar las métricas de «implicación» generadas por IA?
 - ICAP muestra que una herramienta que responde por usted lo mantiene pasivo, mientras que una que le pide y le pregunta lo empuja hacia una implicación constructiva e interactiva. ¿Qué decisión de diseño tomaría para su estudiantado?
 - El marco se usa tanto como objetivo de diseño como lente de evaluación. ¿Cómo podría usar ICAP en su propia docencia o diseño para saber si quienes aprenden están implicados de verdad y no solo activos?

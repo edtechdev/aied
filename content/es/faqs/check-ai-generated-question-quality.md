@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -30,7 +30,7 @@ ai_assist:
 
 Pide veinte preguntas a partir de sus apuntes de clase. Vuelven con claves de respuesta, explicaciones, etiquetas de dificultad y categorías de la taxonomía de Bloom, en un documento formateado que parece terminado. Su nombre está a punto de ir en él.
 
-Respuesta breve para dar a un colega: las preguntas generadas son candidatas, no una evaluación. Resuelva cada una usted mismo, compruebe qué tiene que hacer realmente un estudiante para responderla y averigüe cómo responden los estudiantes antes de que cuente. En los dos estudios más grandes de esta base de conocimiento, la señal interesante no es que la generación funcione, sino dónde falla. La generación iterativa dentro de un flujo de trabajo específico del curso produjo exámenes de opción múltiple utilizables en 71 clases universitarias ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). En una auditoría de ciencia de datos de 311 preguntas desplegadas, las etiquetas de dificultad del modelo siguieron casi a la perfección los niveles de Bloom que había generado junto a ellas (ρ de Spearman = 0,90), mientras que siguieron lo que los estudiantes puntuaron de verdad con ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An y Wang, 2026]]). La etiqueta era una descripción del prompt, no una medición del ítem.
+Respuesta breve para dar a un colega: las preguntas generadas son candidatas, no una evaluación. Resuelva cada una usted mismo, compruebe qué tiene que hacer realmente un estudiante para responderla y averigüe cómo responden los estudiantes antes de que cuente. En los dos estudios más grandes, la señal interesante no es que la generación funcione, sino dónde falla. La generación iterativa dentro de un flujo de trabajo específico del curso produjo exámenes de opción múltiple utilizables en 71 clases universitarias ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). En una auditoría de ciencia de datos de 311 preguntas desplegadas, las etiquetas de dificultad del modelo siguieron casi a la perfección los niveles de Bloom que había generado junto a ellas (ρ de Spearman = 0,90), mientras que siguieron lo que los estudiantes puntuaron de verdad con ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An y Wang, 2026]]). La etiqueta era una descripción del prompt, no una medición del ítem.
 
 ## La versión breve
 

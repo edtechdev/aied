@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Teorías y marcos** — el inventario de trabajo de las estructuras explicativas y organizativas que esta base de conocimiento usa de verdad. Las teorías explican por qué ocurre el aprendizaje ([[learning-theories]], [[self-determination-theory]], [[sociocultural-learning]], [[activity-theory-aied|teoría de la actividad]]); los marcos organizan las decisiones de diseño, enseñanza y adopción ([[tpack]], [[samr-model|SAMR]], [[technology-acceptance-model|modelos de adopción tecnológica]], [[icap-framework|ICAP]], [[universal-design-for-learning|diseño universal para el aprendizaje]]); los modelos hacen que las afirmaciones sobre el aprendizaje sean comprobables y computables ([[item-response-theory|teoría de respuesta al ítem]], [[assessment-validity]], [[knowledge-tracing]]). Use esta página para encontrar la lente en la que se apoya un estudio, o para elegir una para su propio trabajo.
+> **Teorías y marcos** — el inventario de trabajo de las estructuras explicativas y organizativas que la investigación sobre IA en educación usa de verdad. Las teorías explican por qué ocurre el aprendizaje ([[learning-theories]], [[self-determination-theory]], [[sociocultural-learning]], [[activity-theory-aied|teoría de la actividad]]); los marcos organizan las decisiones de diseño, enseñanza y adopción ([[tpack]], [[samr-model|SAMR]], [[technology-acceptance-model|modelos de adopción tecnológica]], [[icap-framework|ICAP]], [[universal-design-for-learning|diseño universal para el aprendizaje]]); los modelos hacen que las afirmaciones sobre el aprendizaje sean comprobables y computables ([[item-response-theory|teoría de respuesta al ítem]], [[assessment-validity]], [[knowledge-tracing]]). Use el inventario para encontrar la lente en la que se apoya un estudio, o para elegir una para su propio trabajo.
 
 ## Preguntas para reflexionar
 
@@ -33,7 +33,7 @@ ai_assist:
 
 ## Introducción
 
-Todo tutor de IA, sistema de retroalimentación y panel de datos incorpora supuestos sobre cómo aprenden las personas, los enuncien o no quienes los diseñan. Esta página reúne las teorías, marcos y modelos de los que proceden esos supuestos, ordenados de forma aproximada según cuánto se apoya en ellos la literatura de investigación actual, y dice brevemente para qué sirve cada uno. Las distinciones entre las tres etiquetas son reales pero menores, y se resumen hacia el final en lugar de tratarse como el tema. Lo que importa en la práctica es en qué lente se apoya una afirmación y si esa lente puede sostenerla.
+Todo tutor de IA, sistema de retroalimentación y panel de datos incorpora supuestos sobre cómo aprenden las personas, los enuncien o no quienes los diseñan. El inventario reúne las teorías, marcos y modelos de los que proceden esos supuestos, ordenados de forma aproximada según cuánto se apoya en ellos la literatura de investigación actual, y dice brevemente para qué sirve cada uno. Las distinciones entre las tres etiquetas son reales pero menores, y se resumen hacia el final en lugar de tratarse como el tema. Lo que importa en la práctica es en qué lente se apoya una afirmación y si esa lente puede sostenerla.
 
 ## Teorías del aprendizaje que aplica la literatura
 
@@ -84,7 +84,7 @@ Estas explican mecanismos: nombran las piezas que hacen el trabajo y predicen qu
 
 ## Teorías acuñadas para la era de la IA
 
-Cuatro propuestas de la base de conocimiento construyen teoría en lugar de tomarla prestada. Son páginas de artículo y no nodos conceptuales, porque cada una es un único argumento:
+Cuatro propuestas construyen teoría en lugar de tomarla prestada. Son páginas de artículo y no nodos conceptuales, porque cada una es un único argumento:
 
 - **[[generativism-learning-theory|Generativismo]]** — una nueva teoría del aprendizaje que sostiene que las cuatro clásicas muestran limitaciones conceptuales significativas conforme se generaliza la [[generative-ai|IA generativa]].
 - **[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Coagencia epistémica]]** — un modelo de cómo quienes aprenden y los sistemas de IA producen conjuntamente conocimiento y comprensión.
@@ -102,7 +102,7 @@ Las palabras se usan de forma laxa en la literatura, y la diferencia merece un p
 
 ## Capas relacionadas
 
-Dos páginas vecinas tratan deliberadamente de otra cosa. La [[philosophy-of-ai-in-education|filosofía de la IA en educación]] plantea preguntas normativas y conceptuales —para qué sirve la educación, si una máquina puede enseñar— y no predice tamaños del efecto; un estudio puede ser filosóficamente ingenuo y teóricamente sólido, o lo contrario. El [[theory-development-aied|desarrollo teórico]] es la metaactividad de construir, tomar prestada y revisar teoría, incluida la crítica constante de que gran parte del trabajo en [[ai-education|AIED]] aplica teoría existente en lugar de ponerla a prueba. Esta página es el inventario; el desarrollo teórico trata de producir y revisar el inventario.
+Dos páginas vecinas tratan deliberadamente de otra cosa. La [[philosophy-of-ai-in-education|filosofía de la IA en educación]] plantea preguntas normativas y conceptuales —para qué sirve la educación, si una máquina puede enseñar— y no predice tamaños del efecto; un estudio puede ser filosóficamente ingenuo y teóricamente sólido, o lo contrario. El [[theory-development-aied|desarrollo teórico]] es la metaactividad de construir, tomar prestada y revisar teoría, incluida la crítica constante de que gran parte del trabajo en [[ai-education|AIED]] aplica teoría existente en lugar de ponerla a prueba. Reunir marcos es una labor de catalogación; el desarrollo teórico trata de producir y revisar el inventario.
 
 ## Elegir una lente cuando la pregunta es práctica
 

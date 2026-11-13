@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Aprendizaje de lenguas
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T14:20:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,10 +11,14 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-11-12T16:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-13"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -31,20 +35,20 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Aprendizaje de lenguas** — el estudio de cómo la IA apoya la adquisición de una segunda lengua (L2), el desarrollo de la escritura y la diversidad lingüística en contextos educativos. La [[ai-education|IA en la educación]] y la [[research-methods-aied|investigación]] de esta base de conocimiento abarcan interlocutores de IA para el diálogo oral, la [[automated-essay-scoring|evaluación automatizada de la escritura]] para quienes aprenden L2, el apoyo a la lectura y las preocupaciones sobre el sesgo lingüístico en los sistemas de puntuación con IA.
+> **Aprendizaje de lenguas** — el estudio de cómo la IA apoya la adquisición de una segunda lengua (L2), el desarrollo de la escritura y la diversidad lingüística en contextos educativos. La [[ai-education|IA en la educación]] y la [[research-methods-aied|investigación]] abarcan interlocutores de IA para el diálogo oral, la [[automated-essay-scoring|evaluación automatizada de la escritura]] para quienes aprenden L2, el apoyo a la lectura y las preocupaciones sobre el sesgo lingüístico en los sistemas de puntuación con IA.
 
 ## Preguntas para reflexionar
 
 - La lengua es intrínsecamente interactiva, lo que la hace idónea para la [[conversational-ai|IA conversacional]], pero las capacidades lingüísticas de la IA también plantean riesgos de sesgo contra los patrones no nativos. ¿Dónde ha visto que se manifieste esta tensión entre oportunidad y riesgo?
 - Un estudio encontró que la puntuación con IA subestima de forma sistemática al estudiantado lingüísticamente más débil, mientras que otro propuso comparar al estudiantado con su propio trabajo anterior en lugar de con normas de hablantes nativos. ¿Cómo cambia el «punto de referencia» de la evaluación que el [[ai-feedback-quality|feedback con IA]] ayude o penalice a quien aprende?
-- Los interlocutores de IA pueden ampliar la práctica comunicativa a escala, pero la página advierte de que deben combinarse con la interacción humana para que la fluidez se transfiera a la conversación real. ¿Qué podría ganar practicando con una IA que no puede darle un interlocutor humano, y qué perdería?
+- Los interlocutores de IA pueden ampliar la práctica comunicativa a escala, pero deben combinarse con la interacción humana para que la fluidez se transfiera a la conversación real. ¿Qué podría ganar practicando con una IA que no puede darle un interlocutor humano, y qué perdería?
 - Se demostró que el apoyo del profesorado —y no solo la herramienta de IA— impulsa la implicación en el aprendizaje de lenguas asistido por IA a través de las metas de logro del estudiantado. ¿Cómo moldea el contexto social y [[pedagogy|pedagógico]] que quienes aprenden sigan implicándose con una herramienta de práctica con IA?
 - Un [[meta-analysis-systematic-review|metaanálisis]] encontró ganancias pequeñas o moderadas y dependientes del nivel con las tecnologías emergentes, con las habilidades productivas (hablar, escribir) ganando más que las receptivas. ¿Por qué podrían beneficiarse más de las herramientas de IA la expresión oral y escrita que la comprensión auditiva y lectora?
 - Si la IA privilegia el inglés estándar y puede penalizar los patrones lingüísticos no nativos o diversos, ¿cómo debería el profesorado de lenguas diseñar la evaluación y el feedback para que la IA apoye la diversidad lingüística en lugar de borrarla?
 
 ## Introducción
 
-El aprendizaje de lenguas ha surgido como un dominio significativo de la IA en la educación porque la lengua es intrínsecamente interactiva —lo que la hace idónea para la IA conversacional— y porque las capacidades lingüísticas de la IA plantean tanto oportunidades ([[personalized-learning|práctica personalizada de la lengua]] a escala) como riesgos (sesgo sistemático contra patrones lingüísticos no nativos). Los artículos de esta base de conocimiento exploran ambos lados de esa ecuación. Cuando la lengua meta es **el inglés en concreto** —especialmente el [[english-education|inglés con fines académicos (EAP)]] y la [[teacher-role|enseñanza]] de inglés como lengua extranjera, como segunda lengua o como L2—, véase la página conceptual dedicada al [[english-education|inglés]], que distingue la investigación específica del inglés de la adquisición general de L2 y de la escritura general.
+El aprendizaje de lenguas ha surgido como un dominio significativo de la IA en la educación porque la lengua es intrínsecamente interactiva —lo que la hace idónea para la IA conversacional— y porque las capacidades lingüísticas de la IA plantean tanto oportunidades ([[personalized-learning|práctica personalizada de la lengua]] a escala) como riesgos (sesgo sistemático contra patrones lingüísticos no nativos). La literatura explora ambos lados de esa ecuación. Cuando la lengua meta es **el inglés en concreto** —especialmente el [[english-education|inglés con fines académicos (EAP)]] y la [[teacher-role|enseñanza]] de inglés como lengua extranjera, como segunda lengua o como L2—, véase la página conceptual dedicada al [[english-education|inglés]], que distingue la investigación específica del inglés de la adquisición general de L2 y de la escritura general.
 
 **La IA como tutor e interlocutor de lenguas** es el tema más desarrollado. **[[ai-interlocutor-l2-spoken-dialogue|¿Qué cambia cuando el interlocutor es una IA?]]** examina la fluidez interactiva y la incorporación lingüística cuando quienes aprenden L2 conversan con una IA frente a con humanos. **[[tact-pedagogically-adaptive-esl-tutoring|TACT]]** ofrece tutoría de inglés como segunda lengua pedagógicamente adaptativa. **[[llm-children-reading-story-generation|La generación de cuentos para la lectura infantil]]** explora cuentos generados por IA para el desarrollo lector de los niños. Todo ello se conecta con la [[intelligent-tutoring|tutoría inteligente]] y la [[generative-ai|IA generativa]]. **[[llm-agents-5e-esl-grammar-2026|Yang, Weng y Yang (2026)]]** diseñaron dos agentes basados en [[llm|LLM]]: una profesora de inglés con IA convencional y otra que usa el **marco 5E** (enganchar, explorar, explicar, elaborar, evaluar) para el aprendizaje de la gramática por indagación. En una comparación aleatorizada con **37 estudiantes de inglés como segunda lengua**, **el estudiantado de alto rendimiento respondió positivamente a la profesora de IA**, mientras que el de bajo rendimiento mostró actitudes mixtas, y las condiciones difirieron en motivación intrínseca, cambio cognitivo y rendimiento, lo que indica que el diseño de agentes LLM debe ajustarse al nivel de competencia de quien aprende.
 

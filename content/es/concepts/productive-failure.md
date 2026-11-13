@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-11-11T15:26:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -30,11 +30,11 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - ¿Ha aprendido alguna vez más fracasando primero en algo que viendo cómo se hacía? ¿Qué hizo que ese fracaso fuera «productivo» y no solo desalentador?
-- La afirmación central de la página es que el *orden* importa: esforzarse por generar soluciones *antes* de la instrucción produce un aprendizaje más profundo. ¿Qué cree que ocurre en el cerebro durante ese esfuerzo sobre lo que la instrucción posterior puede construir?
+- La afirmación central es que el *orden* importa: esforzarse por generar soluciones *antes* de la instrucción produce un aprendizaje más profundo. ¿Qué cree que ocurre en el cerebro durante ese esfuerzo sobre lo que la instrucción posterior puede construir?
 - No todos los fracasos son iguales: los «descuidos» (lapsus) pueden tener poco valor diagnóstico, mientras que los «errores» revelan concepciones erróneas genuinas. ¿Cómo podría cambiar el distinguirlos su forma de responder a alguien que se esfuerza, o la forma en que debería responder un tutor de IA?
 - La «brecha de seguridad» es la divergencia entre el desempeño de un estudiante con asistencia de IA y su capacidad sin asistencia. ¿Cuándo una ayuda que hace que un estudiante parezca competente enmascara en realidad lo que todavía no sabe hacer?
 - Una IA que retiene respuestas para preservar el esfuerzo puede percibirse como menos útil. Si usted fuera estudiante, ¿cómo reaccionaría ante un tutor que se negara a darle la respuesta, y coincidiría esa reacción con lo que más le conviene a su aprendizaje?
-- ¿Cómo podría el miedo a equivocarse ante los pares (o ante una IA) apagar precisamente el esfuerzo productivo que describe la página? ¿Qué debería incluir un «espacio seguro» para fracasar?
+- ¿Cómo podría el miedo a equivocarse ante los pares (o ante una IA) apagar precisamente el esfuerzo productivo que hace útil el fracaso? ¿Qué debería incluir un «espacio seguro» para fracasar?
 
 ## Introducción
 
@@ -67,7 +67,7 @@ Aprender de los errores depende de una retroalimentación que ayude a quienes ap
 
 ## El fracaso productivo y la IA en la educación
 
-Un tema central en la [[research-methods-aied|investigación]] de esta base de conocimiento es la tensión entre la utilidad de la IA y la preservación del esfuerzo productivo:
+Un tema central en la [[research-methods-aied|investigación]] es la tensión entre la utilidad de la IA y la preservación del esfuerzo productivo:
 
 - **El riesgo: la IA borra el esfuerzo.** Una IA demasiado «servicial», al estilo del oráculo, que da respuestas directamente, puede eliminar el esfuerzo productivo necesario para construir esquemas, creando lo que [[wang-safety-gap-productive-struggle-2026|Wang y Shan (2026)]] llaman la **brecha de seguridad**: la divergencia entre el desempeño de un estudiante con asistencia de IA y su capacidad interna sin asistencia. Esto conecta con la [[cognitive-offloading|dependencia cognitiva]]: una IA que sustituye el esfuerzo erosiona precisamente las capacidades que la educación construye.
 - **La respuesta de diseño: una IA que andamia el esfuerzo.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derivan cinco principios de diseño para una IA que apoye el aprendizaje basado en el fracaso productivo ([[human-ai-collaboration|colaboración humano-IA]], [[usability-research|usabilidad]], diseño reflexivo, diseño emocional, conocimiento abierto), subrayando que la IA debe preservar el esfuerzo ofreciendo apoyo no directivo. [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] muestran que los tutores basados en [[llm|LLM]] pueden *orientarse* para seguir la pedagogía del fracaso productivo (retener las soluciones, propiciar múltiples intentos), a costa de la utilidad percibida. CoMeT (Hou et al. 2026) pone precio a ese coste y localiza el punto medio: su tutor escalonado resultó 0,42 puntos de escala más frustrante que el tutor que respondía a petición (p < 0,001) y 0,29 menos frustrante que el que solo hacía preguntas (p = 0,011), con malestar detectado en el 8,4% de sus sesiones frente al 16,0% con el tutor que retenía las respuestas, y entregó la respuesta completa en el 6,1% de las sesiones. Un umbral que se abra ante una declaración explícita de rendición y no ante la frustración se deriva del mismo diseño: sin él, quienes más necesitan esa exigencia la eluden.

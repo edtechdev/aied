@@ -13,7 +13,7 @@ level: [higher ed, k 12]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/making-simulated-students-behave-like-learners
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -60,7 +60,7 @@ Eso importa porque casi nadie lo comprueba. Solo el 3% de los estudios que simul
 
 Un modelo capaz no puede fingir con facilidad ser un conocedor parcial. La investigación llama a esto la **paradoja de la competencia**: los modelos ampliamente capaces a los que se pide emular a aprendices con conocimiento parcial producen patrones de error y dinámicas de aprendizaje poco realistas.
 
-La deriva tiene una dirección y apunta a los aprendices que más necesidad tienen de ser simulados. Frente a ideas de estudiantes extraídas de 49 lecciones de ciencias alineadas con NGSS, seis modelos mantuvieron la mayoría de las ideas dentro del alcance de conocimiento esperado y alrededor de dos tercios en un nivel de lectura igual o inferior al objetivo, y luego se pasaron de largo justo donde el aprendiz era más joven. Las ideas de primaria y secundaria superaban con más frecuencia el alcance de conocimiento y el nivel de lectura del curso objetivo, y el corpus se inclinaba hacia un razonamiento más amplio, un vocabulario más técnico y menos marcadores de incertidumbre ("quizá", "parece") que las ideas reales de las lecciones ([[llm-simulating-student-scientific-thinking-2026|Nguyen y Cao, 2026]]).
+La deriva tiene una dirección y apunta a los aprendices que más necesidad tienen de ser simulados. Frente a ideas de estudiantes extraídas de 49 lecciones de ciencias alineadas con NGSS, seis modelos mantuvieron la mayoría de las ideas dentro del alcance de conocimiento esperado y alrededor de dos tercios en un nivel de lectura igual o inferior al objetivo, y luego se pasaron de largo justo donde el aprendiz era más joven. Las ideas de primaria y secundaria superaban con más frecuencia el alcance de conocimiento y el nivel de lectura del curso objetivo, y las ideas generadas se inclinaban hacia un razonamiento más amplio, un vocabulario más técnico y menos marcadores de incertidumbre ("quizá", "parece") que las ideas reales de las lecciones ([[llm-simulating-student-scientific-thinking-2026|Nguyen y Cao, 2026]]).
 
 Dos notas de ese estudio. La elección de modelo no es unidimensional, ya que un sistema que se ajusta de cerca a las ideas de la lección puede aun así situarlas por encima del curso. Y la reparación suele ser instruccional: un nuevo prompt explícito con el nivel de curso devolvió a la mayoría de los modelos al rango.
 
@@ -80,7 +80,7 @@ Si su simulador se desvía, mire lo que le pide turno a turno antes de cambiar d
 
 ## Puntuar dos cosas, no una
 
-StudentSim exige que se mantengan juntas dos propiedades: la **fidelidad conductual**, que mide cuánto se ajusta el simulador a las respuestas propias de un estudiante, y la **capacidad de respuesta a la guía**, que mide con qué fiabilidad se actualiza hacia donde lleva la guía del tutor. Su punto de referencia convierte corpus públicos de aprendices (ajedrez, escritura en inglés como segunda lengua, matemáticas) en un protocolo por estudiante sobre el que se ajusta cualquier simulador y se puntúa con registros reservados. El seguimiento de estado específico del dominio resultó débil en capacidad de respuesta, y el juego de rol con LLM basado solo en prompts resultó débil en fidelidad ([[studentsim-llm-student-simulators|Yang et al., 2026]]). Un simulador puede superar una prueba y fallar la otra, así que informe de ambas.
+StudentSim exige que se mantengan juntas dos propiedades: la **fidelidad conductual**, que mide cuánto se ajusta el simulador a las respuestas propias de un estudiante, y la **capacidad de respuesta a la guía**, que mide con qué fiabilidad se actualiza hacia donde lleva la guía del tutor. Su punto de referencia convierte conjuntos de datos públicos de aprendices (ajedrez, escritura en inglés como segunda lengua, matemáticas) en un protocolo por estudiante sobre el que se ajusta cualquier simulador y se puntúa con registros reservados. El seguimiento de estado específico del dominio resultó débil en capacidad de respuesta, y el juego de rol con LLM basado solo en prompts resultó débil en fidelidad ([[studentsim-llm-student-simulators|Yang et al., 2026]]). Un simulador puede superar una prueba y fallar la otra, así que informe de ambas.
 
 Como prueba de concepto, un StudentSim congelado usado como recompensa en un bucle de [[reinforcement-learning|aprendizaje por refuerzo]] de tutoría de ajedrez produjo tutores que los expertos calificaron como más exactos, mejor guiados y más personalizados que los entrenados con la recompensa de un simulador de LLM de frontera o sin aprendizaje por refuerzo alguno. Un buen simulador puede ser la señal de entrenamiento y también la medida.
 
@@ -90,7 +90,7 @@ La fidelidad a nivel de acción tiene su propio límite. Los simuladores de estu
 
 Dos comparaciones muestran cuánto cuesta validar.
 
-Al comparar nueve métodos de simulación con siete métricas basadas en referencias sobre 382 diálogos reservados del mayor corpus público de diálogos reales entre estudiantes y tutores de matemáticas, el uso de prompts quedó por detrás del [[llm-training-and-fine-tuning|ajuste fino]] en actos de diálogo (0,4998 frente a 0,6840), ROUGE-L (0,1648 frente a 0,3212) y similitud coseno (0,5460 frente a 0,7390). El mejor método probado, la optimización de preferencias sobre un modelo de 8B, superó al ajuste fino supervisado solo de forma marginal y fue peor en errores, y una evaluación humana con tres tutores reprodujo ese orden ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). La cima de esta escala queda cerca del medio, así que la línea base que informe decide lo impresionante que parece su propia cifra.
+Al comparar nueve métodos de simulación con siete métricas basadas en referencias sobre 382 diálogos reservados de la mayor colección pública de diálogos reales entre estudiantes y tutores de matemáticas, el uso de prompts quedó por detrás del [[llm-training-and-fine-tuning|ajuste fino]] en actos de diálogo (0,4998 frente a 0,6840), ROUGE-L (0,1648 frente a 0,3212) y similitud coseno (0,5460 frente a 0,7390). El mejor método probado, la optimización de preferencias sobre un modelo de 8B, superó al ajuste fino supervisado solo de forma marginal y fue peor en errores, y una evaluación humana con tres tutores reprodujo ese orden ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). La cima de esta escala queda cerca del medio, así que la línea base que informe decide lo impresionante que parece su propia cifra.
 
 SWIM es la comparación más clara entre prompts, ajuste fino y aprendizaje por refuerzo, porque puntúa cada ensayo generado contra un perfil de rasgo objetivo en lugar de juzgarlo de forma impresionista. El uso de prompts anclado en rúbricas dio un control limitado incluso en modelos propietarios fuertes, con un mejor promedio de QWK de rasgo de 0,577 (Claude Sonnet) y 0,422 (GPT-5.4), y casi nulo en un modelo abierto de 7B. El ajuste fino supervisado con pares reales de puntuación y ensayo alcanzó 0,474 ± 0,023 en ese modelo de 7B. GRPO con una recompensa derivada de la [[automated-essay-scoring|puntuación automatizada de ensayos]] alcanzó 0,618 ± 0,005, con ganancias que se mantuvieron en dos evaluadores independientes con los que la política nunca se entrenó ([[swim-student-writing-simulation-2026]]).
 
@@ -124,11 +124,11 @@ Simular una población es la opción minuciosa. En 100 agentes, las simulaciones
 
 **"El ajuste fino está fuera del alcance de nuestro equipo."** Entonces acote la afirmación a lo que los prompts permiten y dígalo. El uso de prompts fijó un techo de 0,577 para el modelo más fuerte probado y casi nulo para un 7B abierto, y produjo una distribución de puntuaciones idealizada.
 
-**"No tenemos acceso a datos de aprendices reales."** El protocolo de StudentSim se construye a partir de corpus públicos de aprendices en ajedrez, escritura en segunda lengua y matemáticas. Los datos públicos limitan lo que puede afirmar sobre su propia población, y le dan una línea base, que es justo lo que más informes omiten.
+**"No tenemos acceso a datos de aprendices reales."** El protocolo de StudentSim se construye a partir de conjuntos de datos públicos de aprendices en ajedrez, escritura en segunda lengua y matemáticas. Los datos públicos limitan lo que puede afirmar sobre su propia población, y le dan una línea base, que es justo lo que más informes omiten.
 
 **"GRPO superó al ajuste fino supervisado, así que deberíamos entrenar con RL."** Lo hizo, con 0,618 frente a 0,474. La forma de baja competencia siguió siendo difícil en ambos casos, con demasiado pocos errores ortográficos y gramaticales, y en otro punto de referencia la optimización de preferencias superó al ajuste fino solo marginalmente y perdió en errores. Compruebe de qué propiedad depende su caso de uso.
 
-**"Los aprendices más débiles son una porción pequeña de nuestros usuarios."** Son el caso más difícil para todos los métodos de esta página, y el hallazgo sobre cobertura dice que las simulaciones se agrupan en el cuadrante más fácil. Si su simulador se va a usar para extraer conclusiones sobre estudiantes con dificultades, esa brecha debe constar en el informe.
+**"Los aprendices más débiles son una porción pequeña de nuestros usuarios."** Son el caso más difícil para todos los métodos probados, y el hallazgo sobre cobertura dice que las simulaciones se agrupan en el cuadrante más fácil. Si su simulador se va a usar para extraer conclusiones sobre estudiantes con dificultades, esa brecha debe constar en el informe.
 
 ## Qué hacer esta semana
 
@@ -144,4 +144,4 @@ Simular una población es la opción minuciosa. En 100 agentes, las simulaciones
 
 ## Adónde ir después
 
-[[simulating-students]] es la página de concepto completa. [[checking-whether-educational-ai-works]] cubre la evaluación de los sistemas con los que usted prueba frente a un simulador, y [[making-ai-better-at-supporting-learning]] cubre los métodos de entrenamiento que hay detrás de los resultados de ajuste fino de esta página. [[addressing-common-misconceptions-ai-education]] aborda si los estudiantes simulados pueden sustituir a los aprendices reales en la investigación.
+[[simulating-students]] es la página de concepto completa. [[checking-whether-educational-ai-works]] cubre la evaluación de los sistemas con los que usted prueba frente a un simulador, y [[making-ai-better-at-supporting-learning]] cubre los métodos de entrenamiento que hay detrás de estos resultados de ajuste fino. [[addressing-common-misconceptions-ai-education]] aborda si los estudiantes simulados pueden sustituir a los aprendices reales en la investigación.

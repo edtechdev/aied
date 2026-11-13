@@ -1,7 +1,7 @@
 ---
 title: "Cuestiones y riesgos legales"
 created: "2026-09-28T21:12:00-04:00"
-updated: "2026-10-29T05:22:38-04:00"
+updated: "2026-11-13T14:20:00-05:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
@@ -14,10 +14,14 @@ audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-issues-and-risks
-source_updated: "2026-10-28T18:24:42-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-13"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -30,7 +34,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Cuestiones y riesgos legales** — la exposición en la que incurren las instituciones, el personal y el estudiantado cuando la [[generative-ai|IA generativa]] se gobierna mal en educación: un estudiante acusado injustamente de hacer trampas a partir de la puntuación de un detector, un sistema de supervisión que observa y registra más de lo que exige la evaluación, una regla demasiado amplia que penaliza una herramienta de asistencia, o una política tan vaga que no puede aplicarse de forma coherente. El riesgo no es una única cuestión jurídica, sino varias que llegan juntas: probatoria (si la acusación puede sustentarse en pruebas), contractual y procedimental (si la institución siguió sus propias reglas y dio al estudiante una audiencia justa), de igualdad (si la regla carga sobre el estudiantado con discapacidad o no nativo) y de protección de datos (qué recogió la vigilancia y dónde se almacenó). Es distinto de la [[academic-integrity|integridad académica]], que es el marco de conducta que se aplica: esta página trata de lo que ocurre cuando esa aplicación se impugna.
+> **Cuestiones y riesgos legales** — la exposición en la que incurren las instituciones, el personal y el estudiantado cuando la [[generative-ai|IA generativa]] se gobierna mal en educación: un estudiante acusado injustamente de hacer trampas a partir de la puntuación de un detector, un sistema de supervisión que observa y registra más de lo que exige la evaluación, una regla demasiado amplia que penaliza una herramienta de asistencia, o una política tan vaga que no puede aplicarse de forma coherente. El riesgo no es una única cuestión jurídica, sino varias que llegan juntas: probatoria (si la acusación puede sustentarse en pruebas), contractual y procedimental (si la institución siguió sus propias reglas y dio al estudiante una audiencia justa), de igualdad (si la regla carga sobre el estudiantado con discapacidad o no nativo) y de protección de datos (qué recogió la vigilancia y dónde se almacenó). Es distinto de la [[academic-integrity|integridad académica]], que es el marco de conducta que se aplica: aquí se trata de lo que ocurre cuando esa aplicación se impugna.
 
 ## Preguntas para reflexionar
 
@@ -40,7 +44,7 @@ ai_assist:
 
 ## Introducción
 
-La evidencia de la base de conocimiento sobre este tema es procedimental y no jurídica. Documenta lo que las instituciones consideran prueba, cómo funcionan los procedimientos de acusación, cuán poco fiables son los instrumentos y qué recoge la vigilancia; todavía no documenta resultados de litigios. Esa laguna debería declararse con claridad en lugar de rellenarse con afirmaciones seguras: los casos que resolverían estas cuestiones en su mayoría no se publican, se han resuelto por acuerdo o siguen en procesos internos de las instituciones.
+La evidencia sobre este tema es procedimental y no jurídica. Documenta lo que las instituciones consideran prueba, cómo funcionan los procedimientos de acusación, cuán poco fiables son los instrumentos y qué recoge la vigilancia; todavía no documenta resultados de litigios. Esa laguna debería declararse con claridad en lugar de rellenarse con afirmaciones seguras: los casos que resolverían estas cuestiones en su mayoría no se publican, se han resuelto por acuerdo o siguen en procesos internos de las instituciones.
 
 Lo que sí respalda la literatura es una descripción de los modos de fallo que generan exposición legal. El patrón recurrente es que son los propios instrumentos y procedimientos de la institución, y no un acusador malicioso, lo que la pone en riesgo: una puntuación probabilística tratada como hallazgo, una regla más clara en su intención que en su alcance, un sistema que recogió datos que nadie pidió y una audiencia que dio por supuesto que la prueba técnica no necesitaba escrutinio.
 
@@ -54,11 +58,11 @@ El problema probatorio subyace a todo lo anterior. La salida del detector es la 
 
 ### Privacidad y vigilancia
 
-[[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana et al. (2026)]] mapean la [[remote-proctoring|supervisión remota]] en la evaluación de enfermería y sitúan la privacidad y la vigilancia entre sus principales preocupaciones, junto al impacto emocional en el estudiantado y los efectos sobre la [[equity-in-ai-education|equidad]]. [[automated-online-exam-proctoring-decade-review-2026]] y [[academic-dishonesty-automated-proctoring-ai-2026]] documentan las mismas [[ai-technologies|tecnologías]] en una ventana temporal más larga, y las cuestiones de protección de datos que plantean son ordinarias pero con consecuencias jurídicas: qué se captura (vídeo, audio, pulsaciones de teclas, mirada, escaneos de la habitación), cuánto tiempo se conserva, dónde se almacena, quién puede acceder a ello, si el proveedor lo procesa posteriormente y si el estudiantado consintió en ello como condición para la evaluación. Las instituciones que operan en entornos de datos regulados asumen obligaciones legales mucho antes de que aparezca cualquier litigio, y el trabajo de la base de conocimiento sobre sistemas de IA locales y alojados por proveedores, atento a FERPA y al RGPD, muestra cómo las mismas preguntas se aplican a las herramientas de enseñanza y no solo a la supervisión.
+[[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana et al. (2026)]] mapean la [[remote-proctoring|supervisión remota]] en la evaluación de enfermería y sitúan la privacidad y la vigilancia entre sus principales preocupaciones, junto al impacto emocional en el estudiantado y los efectos sobre la [[equity-in-ai-education|equidad]]. [[automated-online-exam-proctoring-decade-review-2026]] y [[academic-dishonesty-automated-proctoring-ai-2026]] documentan las mismas [[ai-technologies|tecnologías]] en una ventana temporal más larga, y las cuestiones de protección de datos que plantean son ordinarias pero con consecuencias jurídicas: qué se captura (vídeo, audio, pulsaciones de teclas, mirada, escaneos de la habitación), cuánto tiempo se conserva, dónde se almacena, quién puede acceder a ello, si el proveedor lo procesa posteriormente y si el estudiantado consintió en ello como condición para la evaluación. Las instituciones que operan en entornos de datos regulados asumen obligaciones legales mucho antes de que aparezca cualquier litigio, y el trabajo sobre sistemas de IA locales y alojados por proveedores, atento a FERPA y al RGPD, muestra cómo las mismas preguntas se aplican a las herramientas de enseñanza y no solo a la supervisión.
 
 ### Accesibilidad y discapacidad
 
-[[wright-transcription-not-generation-2026|Wright (2026)]] sostiene que las prohibiciones generales del «uso de IA» son demasiado inclusivas porque no distinguen la transcripción de voz a texto y el OCR de la redacción generativa, y que el estudiantado con afecciones que afectan al control motor fino, a la legibilidad de la escritura a mano o a la precisión al teclear ha dependido históricamente precisamente de esas herramientas, incluidos productos autónomos de voz a texto como Dragon NaturallySpeaking, varios de los cuales se han discontinuado o degradado, con la transcripción impulsada por IA cubriendo ese hueco funcional. Wright señala que la intersección entre discapacidad, tecnología de asistencia y política de mala conducta con IA está poco explorada y que la escala de este desplazamiento no se ha medido empíricamente. La exposición tiene una forma sencilla: una regla que elimina el medio principal de una persona para producir trabajo legible es una regla que puede necesitar un proceso de ajuste para sobrevivir. [[shin-ai-policies-sld-2026]] documenta el mismo vacío desde el lado de la política para estudiantes con dificultades específicas de aprendizaje, y el trabajo de la base de conocimiento sobre [[assistive-technology|tecnología de asistencia]] y [[neurodiversity|neurodiversidad]] aporta los términos del contexto.
+[[wright-transcription-not-generation-2026|Wright (2026)]] sostiene que las prohibiciones generales del «uso de IA» son demasiado inclusivas porque no distinguen la transcripción de voz a texto y el OCR de la redacción generativa, y que el estudiantado con afecciones que afectan al control motor fino, a la legibilidad de la escritura a mano o a la precisión al teclear ha dependido históricamente precisamente de esas herramientas, incluidos productos autónomos de voz a texto como Dragon NaturallySpeaking, varios de los cuales se han discontinuado o degradado, con la transcripción impulsada por IA cubriendo ese hueco funcional. Wright señala que la intersección entre discapacidad, tecnología de asistencia y política de mala conducta con IA está poco explorada y que la escala de este desplazamiento no se ha medido empíricamente. La exposición tiene una forma sencilla: una regla que elimina el medio principal de una persona para producir trabajo legible es una regla que puede necesitar un proceso de ajuste para sobrevivir. [[shin-ai-policies-sld-2026]] documenta el mismo vacío desde el lado de la política para estudiantes con dificultades específicas de aprendizaje, y el trabajo sobre [[assistive-technology|tecnología de asistencia]] y [[neurodiversity|neurodiversidad]] aporta los términos del contexto.
 
 ### Equidad lingüística y el límite entre apoyo y sustitución
 
@@ -84,7 +88,7 @@ En los programas profesionales, la exposición no termina con la graduación. Gu
 
 ## Cuestiones abiertas
 
-- ¿Cuál de estos riesgos ha producido realmente litigios o hallazgos regulatorios? La base de conocimiento tiene procedimientos, políticas y evaluaciones técnicas, pero ningún resultado de casos, y no debería leerse como si lo tuviera.
+- ¿Cuál de estos riesgos ha producido realmente litigios o hallazgos regulatorios? La evidencia cubre procedimientos, políticas y evaluaciones técnicas, pero ningún resultado de casos, y no debería leerse como si lo tuviera.
 - ¿Sobrevive la salida del detector como prueba de algo una vez que una institución reconoce sus tasas de error en una audiencia, o ese reconocimiento convierte el caso en una disputa sobre la justicia procedimental?
 - ¿Es el proveedor o la institución quien actúa como responsable de los datos cuando la supervisión y la detección funcionan a través de una plataforma de terceros, y cambia eso el asesoramiento a las instituciones?
 - ¿Deberían las instituciones publicar los estándares de prueba que aplican a la mala conducta con IA, del modo en que los umbrales probatorios se publican en otros ámbitos, como forma de reducir tanto la acusación injusta como la exposición legal?

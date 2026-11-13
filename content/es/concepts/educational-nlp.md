@@ -7,7 +7,7 @@ confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 
 El procesamiento de lenguaje natural en educación aplica métodos computacionales al lenguaje de la enseñanza y el aprendizaje: ensayos, respuestas y publicaciones de debate del estudiantado, retroalimentación y texto instruccional. Los [[llm|LLM]] han ampliado drásticamente lo que puede analizarse de forma automática, lo que permite una comprensión detallada del lenguaje del estudiantado que antes era impracticable a escala.
 
-## Aplicaciones documentadas en la base de conocimiento
+## Aplicaciones documentadas en la investigación
 
 - **Análisis del lenguaje del estudiantado.** [[llm-sentiment-analysis-education-research|La investigación sobre análisis de sentimiento asistido por LLM]] aplica el análisis de sentimiento basado en LLM a la investigación educativa, extrayendo señales emocionales y evaluativas del texto del estudiantado a escala, lo que alimenta la [[learning-analytics|analítica del aprendizaje]] y la [[affective-computing|computación afectiva]].
 - **Predicción y medición.** [[llm-item-difficulty-prediction|La predicción de la dificultad de los ítems con LLM]] y [[vocabulary-difficulty-prediction|la predicción de la dificultad del vocabulario]] usan modelos de lenguaje para estimar la dificultad de ítems y de textos, insumos centrales de la [[educational-measurement|medición educativa]], el [[adaptive-learning|aprendizaje adaptativo]] y los modelos de [[item-response-theory|teoría de respuesta al ítem]].
@@ -65,7 +65,7 @@ El procesamiento de lenguaje natural en educación aplica métodos computacional
 - **Etiquetado de conceptos a escala.** [[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]] dividen el etiquetado de conceptos de conocimiento en un pipeline Seleccionar–Razonar–Juzgar —un modelo pequeño preselecciona conceptos candidatos, el LLM razona sobre la preselección y luego juzga—, elevando la exactitud del etiquetado en tres puntos de referencia al reducir el espacio de decisión del modelo.
 - **Las hojas de respuestas escritas a mano se resisten a los analizadores existentes.** Las derivaciones multilínea, la prosa y las fórmulas intercaladas, las tablas dibujadas a mano y el ruido de los tachados y los borrados escapan a los puntos de referencia de documentos impresos y de expresiones aisladas, así que el conjunto de datos HANS de hojas reales de matemáticas de octavo curso —5.213 imágenes de respuestas de 745 estudiantes en 18 tipos de problema— anota ese ruido y respalda un modelo de supresión de ruido que mejora el reconocimiento ([[hans-handwritten-answer-sheet-parsing-2026|Wu et al. (2026)]]).
 
-- **La fidelidad de entidades de las transcripciones ASR es una cuestión distinta de la exactitud léxica.** Al comparar cinco sistemas de reconocimiento de voz con una transcripción de referencia humana, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard y Rosenberg (2026)]] informan de la primera evidencia de fidelidad de entidades ASR/NER de la base de conocimiento: las tasas de error de palabra abarcaron del 2,43% (TurboScribe) al 15,32% (Vosk), mientras que la codificación de tipos de entidades de referencia en siete categorías vio a GPT-5.5 alcanzar una exactitud de 0,805 (κ = ,726) frente a 0,634 de spaCy (κ = ,488). El WER agregado por sí solo no puede certificar que la estructura de entidades sobreviviera a la transcripción.
+- **La fidelidad de entidades de las transcripciones ASR es una cuestión distinta de la exactitud léxica.** Al comparar cinco sistemas de reconocimiento de voz con una transcripción de referencia humana, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard y Rosenberg (2026)]] informan de la primera evidencia de fidelidad de entidades ASR/NER en esta literatura. Las tasas de error de palabra abarcaron del 2,43% (TurboScribe) al 15,32% (Vosk), mientras que la codificación de tipos de entidades de referencia en siete categorías vio a GPT-5.5 alcanzar una exactitud de 0,805 (κ = ,726) frente a 0,634 de spaCy (κ = ,488). El WER agregado por sí solo no puede certificar que la estructura de entidades sobreviviera a la transcripción.
 
 ## Conexión con la tutoría y la medición
 

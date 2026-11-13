@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,7 +51,7 @@ Más allá de la generación de clases, la PCR conecta con una crítica más pro
 
 ## Datos y evaluación culturalmente fundamentados
 
-Un conjunto de trabajos procedentes de la base de conocimiento aborda las brechas de *contenido* y de *evaluación* que hay detrás de la PCR.
+Un conjunto de trabajos aborda las brechas de *contenido* y de *evaluación* que hay detrás de la PCR.
 
 - **Datos de entrenamiento no occidentales:** IKS-Instruct ofrece un **conjunto de datos de instrucciones [[multilingual-learning|multilingüe]] de 24.795 ejemplos** para [[teacher-role|enseñar]] a los LLM los sistemas de conocimiento indios a través de siete [[language-learning|idiomas]] y 41 técnicas [[pedagogy|pedagógicas]]. Un modelo compacto de 7B ajustado al dominio alcanzó una puntuación mediana de juez de 6,39 (frente a 6,54 de un modelo de propósito general mucho mayor), mientras que el modelo base puntuó **cerca de cero** en las dimensiones específicas de los sistemas de conocimiento indios, lo que muestra cuánto mejora la relevancia con datos culturalmente fundamentados.
 - **[[benchmark|Referencias de evaluación]] del [[global-south|Sur global]]:** la referencia **NSMQ Riddles** extrae 1,8K acertijos científicos y matemáticos de 11 años del National Science and Maths Quiz de Ghana —una de las primeras referencias educativas del Sur global— y encontró que los LLM de última generación **rinden por debajo de los mejores estudiantes concursantes**, lo que expone el sesgo geográfico en cómo se evalúan los modelos.
@@ -61,7 +61,7 @@ Un conjunto de trabajos procedentes de la base de conocimiento aborda las brecha
 
 ## Orientaciones prácticas
 
-A partir de los propios artículos de la base de conocimiento, el profesorado y los diseñadores pueden aplicar la PCR a la IA:
+A partir de la investigación, el profesorado y los diseñadores pueden aplicar la PCR a la IA:
 
 - **Tratar la IA como generadora de borradores, no como autoridad.** Los hallazgos de Trust et al. sobre educación cívica muestran que el profesorado debe introducir el [[critical-thinking|pensamiento de orden superior]] y las perspectivas multiculturales que la IA omite; el [[human-in-the-loop-ai|juicio humano]] sigue siendo esencial para la autenticidad cultural y la sintonía con la comunidad.
 - **Incorporar el contexto demográfico y cultural en los prompts y las herramientas.** CulturAIEd y [[connected-ai-lesson-planning-vietnam|ConnectED]] (un sistema vietnamita de planificación de clases alineado con el currículo) muestran que las plantillas de prompt estructuradas y localmente fundamentadas, junto con controles de validación docente, mejoran el encaje cultural frente a la generación genérica.

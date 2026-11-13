@@ -8,7 +8,7 @@ level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-11-12T06:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,17 +25,17 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - Las humanidades valoran la interpretación, la autoría y el juicio crítico, justo las capacidades que la IA generativa más desafía. ¿En qué medida eso hace que la integración de la IA en estas disciplinas sea distinta de la de STEM?
-- La página describe la IA como una «mediadora epistémica» que puede externalizar su pensamiento interpretativo e hibridar su autoría. Cuando la IA le ayuda a interpretar un texto, ¿quién está interpretando en realidad?
+- La IA actúa como una «mediadora epistémica» que puede externalizar su pensamiento interpretativo e hibridar su autoría. Cuando la IA le ayuda a interpretar un texto, ¿quién está interpretando en realidad?
 - Se identifican tres trayectorias para quien aprende: interpretación dependiente de la IA, mejorada con IA y crítica con la IA. ¿Dónde cree que se sitúa hoy la mayoría del estudiantado de humanidades, y qué lo llevaría hacia el extremo crítico con la IA?
 - En la educación histórica, la [[research-methods-aied|investigación]] muestra que la IA puede moldear el razonamiento y la interpretación de las fuentes, incluso mediante filtros que «protegen» al estudiantado. ¿Cómo enseñaría a su estudiantado a interrogar la mediación que hace una IA de las afirmaciones históricas?
 - Si la autoría original y la autonomía interpretativa son los valores centrales de las humanidades, ¿qué significa que la IA pueda producir una interpretación plausible al instante? ¿Qué capacidad humana se vuelve más valiosa, y no menos?
-- La página advierte contra tratar la IA como tutora de contenido en campos centrados en la construcción de significado. ¿Cómo sería usar la IA deliberadamente para profundizar, en lugar de aplanar, el análisis crítico del estudiantado?
+- La IA no debería tratarse como tutora de contenido en campos centrados en la construcción de significado. ¿Cómo sería usar la IA deliberadamente para profundizar, en lugar de aplanar, el análisis crítico del estudiantado?
 
 ## Introducción
 
-La educación SSH es un área temática propia dentro de la base de conocimiento, complementaria a la [[stem-education|educación STEM]] y al [[language-learning|aprendizaje de idiomas]]. Como las humanidades valoran la profundidad interpretativa, la autoría y el juicio contextual, plantean retos de integración de la IA distintos de los de STEM, y se conectan con la [[higher-ed|educación superior]] y la [[ai-literacy|alfabetización en IA]] de maneras [[discipline-specific-aied|específicas del dominio]].
+La educación SSH es un área temática propia, complementaria a la [[stem-education|educación STEM]] y al [[language-learning|aprendizaje de idiomas]]. Como las humanidades valoran la profundidad interpretativa, la autoría y el juicio contextual, plantean retos de integración de la IA distintos de los de STEM, y se conectan con la [[higher-ed|educación superior]] y la [[ai-literacy|alfabetización en IA]] de maneras [[discipline-specific-aied|específicas del dominio]].
 
-La educación cívica y política es un área temática hermana de estas disciplinas y no una rama de ellas, y [[civic-and-political-education]] la trata por derecho propio. La evidencia de la base de conocimiento en ese ámbito es escasa: ocho fuentes tocan el tema y ninguna mide el aprendizaje cívico.
+La educación cívica y política es un área temática hermana de estas disciplinas y no una rama de ellas, y [[civic-and-political-education]] la trata por derecho propio. La evidencia en ese ámbito es escasa: ocho fuentes tocan el tema y ninguna mide el aprendizaje cívico.
 
 ### Cómo aparece la IA en la educación en humanidades y ciencias sociales
 
@@ -50,7 +50,7 @@ La educación cívica y política es un área temática hermana de estas discipl
 
 ### Por qué importa
 
-La educación SSH pone en primer plano justo las capacidades que la IA generativa más desafía: la autoría original, el juicio interpretativo, el análisis crítico y la construcción de significado sensible al contexto. La base de conocimiento trata este dominio como un contrapeso crítico a los marcos instrumentales y basados en destrezas de la IA: se pregunta si el aprendizaje asistido por IA preserva el [[critical-thinking|pensamiento crítico]], la responsabilidad epistémica y la autonomía interpretativa, en conexión con la [[critical-pedagogy|pedagogía crítica]] y la [[ai-literacy|alfabetización en IA]].
+La educación SSH pone en primer plano justo las capacidades que la IA generativa más desafía: la autoría original, el juicio interpretativo, el análisis crítico y la construcción de significado sensible al contexto. La educación SSH se trata como un contrapeso crítico a los marcos instrumentales y basados en destrezas de la IA: se pregunta si el aprendizaje asistido por IA preserva el [[critical-thinking|pensamiento crítico]], la responsabilidad epistémica y la autonomía interpretativa, en conexión con la [[critical-pedagogy|pedagogía crítica]] y la [[ai-literacy|alfabetización en IA]].
 
 La enseñanza de humanidades ha empezado a usar IA agéntica para reunir fuentes y redactar borradores, lo que desplaza la pregunta de evaluación de la disciplina desde si se generó el texto hacia si la interpretación puede atribuirse al estudiantado ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
 
@@ -65,7 +65,7 @@ La enseñanza de humanidades ha empezado a usar IA agéntica para reunir fuentes
 
 **«Las humanidades son la parte del [[curriculum-design|currículo]] menos expuesta a la IA.»** La exposición se ha medido y está concentrada más que difusa: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] auditó **15.587 registros de unidades de Artes y Humanidades** para establecer dónde se sitúa esa exposición. Se distribuye de forma desigual entre unidades en lugar de estar repartida, lo que convierte el rediseño de la evaluación en un problema focalizado y no en uno de todo el sector.
 
-**«La IA en la educación humanística es una mejora tecnocéntrica.»** El artículo de posición en el que se apoya esta página sostiene que el cambio es una *transformación intelectual* y no una mejora, y sitúa la [[ai-literacy|fluidez digital]] como competencia central de las artes liberales. Añadir una herramienta a un curso sin cambios confunde la transformación con su instrumento.
+**«La IA en la educación humanística es una mejora tecnocéntrica.»** El artículo de posición que respalda ese argumento insiste en que el cambio es intelectual y no tecnológico, y en que la [[ai-literacy|fluidez digital]] pertenece a las artes liberales. Añadir una herramienta a un curso sin cambios confunde la transformación con su instrumento.
 
 **«La educación en valores puede entregarse a un modelo como contenido.»** [[genai-values-education-affordances-risks-2026|Chen (2026)]] replantea la educación en valores como una práctica relacional con tres condiciones —responsabilidad ante el otro, ejemplaridad y dirigirse a alguien— y lee cada una de las cinco posibilidades de la IA generativa como la sustitución de una relación: la perspectiva simulada sustituye al actor al que se puede perjudicar.
 

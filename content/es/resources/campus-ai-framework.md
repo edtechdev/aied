@@ -16,6 +16,7 @@ institutions: [change-management, educational-policy-ai]
 ethics: [equity-in-ai-education]
 audience: [administrators, institutions]
 level: [higher ed]
+connected_resources: [campus-ai-development]
 source_updated: "2026-09-28T04:05:42-04:00"
 translation_of: resources/campus-ai-framework
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."

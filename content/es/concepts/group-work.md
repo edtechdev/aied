@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-10T19:35:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,19 +38,19 @@ ai_assist:
 
 ## Introducción
 
-El trabajo en grupo ocupa un lugar distintivo en la [[higher-ed|educación superior]] y la [[professional-training|formación profesional]]: se valora por construir colaboración, comunicación y responsabilidad compartida, y es pedagógicamente central en programas de orientación profesional como la [[teacher-education|formación docente]]. Su promesa no se realiza de forma automática, sin embargo. Tanto el profesorado como el estudiantado informan de obstáculos para una colaboración eficaz, y un producto de grupo calificado conlleva dos afirmaciones distintas a la vez: sobre lo que el grupo logró y sobre lo que cada persona aprendió. La IA, y en particular la [[generative-ai|IA generativa]], presiona sobre ambas: cambia cómo puede dividirse el trabajo, con qué facilidad pueden fusionarse las contribuciones y cómo puede distinguirse el pensamiento de cada integrante de la salida de una herramienta. Buena parte de la investigación de la base de conocimiento sobre aprendizaje colaborativo incide en el trabajo en grupo, y esta página se apoya en varias de sus líneas y no en un único estudio.
+El trabajo en grupo ocupa un lugar distintivo en la [[higher-ed|educación superior]] y la [[professional-training|formación profesional]]: se valora por construir colaboración, comunicación y responsabilidad compartida, y es pedagógicamente central en programas de orientación profesional como la [[teacher-education|formación docente]]. Su promesa no se realiza de forma automática, sin embargo. Tanto el profesorado como el estudiantado informan de obstáculos para una colaboración eficaz, y un producto de grupo calificado conlleva dos afirmaciones distintas a la vez: sobre lo que el grupo logró y sobre lo que cada persona aprendió. La IA, y en particular la [[generative-ai|IA generativa]], presiona sobre ambas: cambia cómo puede dividirse el trabajo, con qué facilidad pueden fusionarse las contribuciones y cómo puede distinguirse el pensamiento de cada integrante de la salida de una herramienta. Buena parte de la investigación sobre aprendizaje colaborativo incide en el trabajo en grupo, y varias de sus líneas importan y no un único estudio.
 
 ## Por qué el trabajo en grupo es difícil por diseño
 
 - **Aprovecharse del trabajo ajeno y holgazanería social.** Algunos integrantes reducen su contribución y la carga de trabajo se redistribuye hacia compañeros más implicados. El alcance de la tarea, el tamaño del grupo y su [[writing-education|composición]] aumentan la probabilidad; los mecanismos de rendición de cuentas y la eficacia del grupo la reducen.
-- **La rendición de cuentas es relacional además de estructural.** En Hong Kong — donde se realizó uno de los estudios de evaluación en grupo de la base de conocimiento — el estudiantado de grado a menudo elegía *no* denunciar el aprovechamiento del trabajo ajeno para proteger las relaciones interpersonales, y hacía el trabajo por su cuenta en lugar de afrontar el problema. La [[agency|agencia]] del estudiantado puede adoptar por tanto la forma de perseguir la nota evitando el conflicto.
+- **La rendición de cuentas es relacional además de estructural.** En Hong Kong, donde se realizó uno de los estudios de evaluación en grupo, el estudiantado de grado a menudo elegía *no* denunciar el aprovechamiento del trabajo ajeno para proteger las relaciones interpersonales, y hacía el trabajo por su cuenta en lugar de afrontar el problema. La [[agency|agencia]] del estudiantado puede adoptar por tanto la forma de perseguir la nota evitando el conflicto.
 - **La colaboración hay que diseñarla, no darla por supuesta.** Cuando una tarea puede dividirse en subtareas independientes, el estudiantado toma ese camino y el grupo se convierte en un formato de entrega y no en un empeño intelectual conjunto. [[chen-zou-genai-group-assessment-agency-2026|Chen y Zou (2026)]] encontraron tres de sus quince grupos haciendo exactamente eso: dividir el trabajo, trabajar en «plataformas individuales» y no reunir nunca sus capacidades individuales con IA generativa, incluso cuando la coherencia era un criterio de evaluación explícito.
 - **Proceso frente a producto.** El trabajo en grupo es más sólido cuando el proceso se evalúa junto con el producto, lo que exige [[peer-assessment|evaluación entre pares]] u otros productos intermedios visibles y no un único artefacto final.
 - **[[equity-in-ai-education|Equidad]] e [[inclusive-learning|inclusión]].** Las normas de contribución, el idioma y la confianza se distribuyen de forma desigual dentro de los grupos. El estudiantado [[neurodivergent-computing-students|neurodivergente]] informa de que necesita tareas estructuradas, equipos pequeños y estables y roles definidos explícitamente, requisitos que las herramientas de colaboración con IA, a menudo construidas para quien aprende «medio», no suelen satisfacer.
 
 ## Cómo cambia la IA el trabajo en grupo
 
-La investigación sobre la IA en el trabajo en grupo aborda dos cosas distintas: qué aporta la IA a la *tarea* del grupo y qué le hace la IA al *proceso* del grupo. Ambas importan, y los hallazgos de la base de conocimiento abarcan las dos.
+La investigación sobre la IA en el trabajo en grupo aborda dos cosas distintas: qué aporta la IA a la *tarea* del grupo y qué le hace la IA al *proceso* del grupo. Ambas importan, y los hallazgos abarcan las dos.
 
 ### La IA como infraestructura de coordinación
 
@@ -107,7 +107,7 @@ Una segunda línea de investigación trata la IA como participante y no como her
 
 ## Concepciones erróneas
 
-**«La IA es una adición neutral al flujo de trabajo de un grupo.»** Reestructura hacia dónde va la interacción del grupo. En el estudio citado en esta página, la dinámica del grupo desplazó la interacción lejos de las personas —**el 79,7% de las preguntas se dirigieron a los agentes (*p* = 0,017)**— mientras los participantes reportaban una disyuntiva entre amplitud y profundidad en un formato de turnos apilados en el que cada hablante tomaba la palabra. Un equipo que dirige casi cuatro de cada cinco preguntas a una máquina ya no está ensayando el cuestionamiento entre pares que el trabajo en grupo existe para desarrollar.
+**«La IA es una adición neutral al flujo de trabajo de un grupo.»** Reestructura hacia dónde va la interacción del grupo. En el estudio citado aquí, la dinámica del grupo desplazó la interacción lejos de las personas —**el 79,7% de las preguntas se dirigieron a los agentes (*p* = 0,017)**— mientras los participantes reportaban una disyuntiva entre amplitud y profundidad en un formato de turnos apilados en el que cada hablante tomaba la palabra. Un equipo que dirige casi cuatro de cada cinco preguntas a una máquina ya no está ensayando el cuestionamiento entre pares que el trabajo en grupo existe para desarrollar.
 
 **«Un producto grupal pulido es evidencia de una buena colaboración.»** El producto pulido es el riesgo epistémico, no la tranquilidad. Un grupo puede producir un artefacto excelente mientras la regulación del trabajo —quién decidió qué, cómo se resolvió el desacuerdo, cuyo razonamiento se puso a prueba— ocurrió dentro de la respuesta del modelo y no dejó rastro en la entrega.
 

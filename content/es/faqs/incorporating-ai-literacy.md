@@ -8,7 +8,7 @@ foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/incorporating-ai-literacy
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -47,7 +47,7 @@ El movimiento institucional por defecto es un módulo independiente, normalmente
 
 La evidencia [[quantitative-research|cuantitativa]] apunta en la misma dirección. Un [[liu-ai-literacy-interventions-meta-analysis-2026|metaanálisis de 59 intervenciones de alfabetización en IA]] encontró los efectos mayores en las pedagogías integradas y reflexivas. También advierte de que las intervenciones centradas en el conocimiento muestran efectos *medidos* mayores que las dirigidas a habilidades, actitudes o ética. Téngalo en cuenta al elegir qué medir.
 
-La otra razón para construir sobre el trabajo existente es la carga de trabajo. Una síntesis de 2026 de 72 estudios empíricos sobre [[generative-ai|IA generativa]] en [[cs-education|educación en informática]] encuentra que el resultado más sólido y más replicado del corpus es que la IA eleva de forma fiable la finalización a corto plazo y reduce el tiempo en la tarea, en 36 estudios. Esas ganancias "no se transfieren al desempeño independiente", según 21 estudios. Los estudiantes completan más mientras comprenden menos, a menos que el compromiso crítico con la salida se exija estructuralmente ([[kumar-genai-computing-education-systematic-review-2026|Generative AI in computing education: a systematic review and a framework for responsible integration]]).
+La otra razón para construir sobre el trabajo existente es la carga de trabajo. Una síntesis de 2026 de 72 estudios empíricos sobre [[generative-ai|IA generativa]] en [[cs-education|educación en informática]] encuentra que el resultado más sólido y más replicado es que la IA eleva de forma fiable la finalización a corto plazo y reduce el tiempo en la tarea, en 36 estudios. Esas ganancias "no se transfieren al desempeño independiente", según 21 estudios. Los estudiantes completan más mientras comprenden menos, a menos que el compromiso crítico con la salida se exija estructuralmente ([[kumar-genai-computing-education-systematic-review-2026|Generative AI in computing education: a systematic review and a framework for responsible integration]]).
 
 El beneficio también depende del [[prior-knowledge|conocimiento previo]]. Los estudiantes bien preparados convierten la ayuda de la IA en habilidad duradera. Los estudiantes menos preparados corren el riesgo de usarla como una muleta que elimina el [[productive-failure|fracaso productivo]]. La recomendación por defecto de la revisión es el acceso gradual: primero fundamentos sin IA, después uso guiado con tareas de explicación obligatorias y, por último, crítica reflexiva. Esa secuencia encaja en un curso existente mucho más fácilmente que una unidad nueva. El [[learning-design|diseño del aprendizaje]] es el lugar donde elaborar el escalonamiento, y el [[curriculum-design|diseño curricular]] es la versión de programa del mismo problema.
 
@@ -65,7 +65,7 @@ Los estudiantes pueden anotar una respuesta de IA en busca de errores fácticos,
 
 El patrón sobre el que vale la pena construir una tarea es una salida verosímil pero imperfecta más un estudiante en la silla del crítico o del editor. Encontrar los errores es una de las vías más fiables hacia la calibración y el [[critical-thinking|pensamiento de orden superior]].
 
-Trátelo como una competencia que se enseña, porque no llega con el conocimiento de la materia. En la síntesis sobre educación en informática, los estudiantes rindieron significativamente *peor* al corregir código generado por IA que en tareas tradicionales de [[summative-assessment|examen]] de programación. Es evidencia directa de que evaluar y reparar la salida no se transfiere automáticamente desde la habilidad disciplinar general, y de que, sin instrucción, los estudiantes volverán a entregar trabajo incorrecto sin darse cuenta. La revisión integra esto en su marco VIE (Verification, Implementation, Equity) y sostiene que el compromiso crítico debería ser un componente calificado y observable del trabajo del estudiante, al que llama "el mecanismo común que vincula todas las intervenciones eficaces del corpus".
+Trátelo como una competencia que se enseña, porque no llega con el conocimiento de la materia. En la síntesis sobre educación en informática, los estudiantes rindieron significativamente *peor* al corregir código generado por IA que en tareas tradicionales de [[summative-assessment|examen]] de programación. Es evidencia directa de que evaluar y reparar la salida no se transfiere automáticamente desde la habilidad disciplinar general, y de que, sin instrucción, los estudiantes volverán a entregar trabajo incorrecto sin darse cuenta. La revisión integra esto en su marco VIE (Verification, Implementation, Equity) y sostiene que el compromiso crítico debería ser un componente calificado y observable del trabajo del estudiante, al que llama "el mecanismo común que vincula todas las intervenciones eficaces que revisó".
 
 Versión práctica: una línea de la rúbrica para el error que esperaba que detectaran, otra para la reparación y otra para la justificación. Si la crítica no lleva puntos, se queda en tres frases camino de la puerta.
 
@@ -75,7 +75,7 @@ Las reglas genéricas como "compruebe si la IA tiene [[hallucination-risk|alucin
 
 Escriba usted mismo esa lista, a partir de sus propias correcciones, antes de que empiece el semestre. Cinco ejemplos de su campo harán más trabajo que una lista de verificación general, y sirven además como banco de errores para la tarea de crítica anterior.
 
-La repetición es la otra mitad. Un ejercicio en la tercera semana produce un estudiante que ha hecho el ejercicio. El mismo ejercicio en tres tareas, con material distinto, produce un hábito, y los casos de este corpus que muestran una integración [[discipline-specific-aied|específica de la disciplina]] son aquellos en los que la práctica se repite a lo largo de un curso en lugar de quedarse en una sola sesión.
+La repetición es la otra mitad. Un ejercicio en la tercera semana produce un estudiante que ha hecho el ejercicio. El mismo ejercicio en tres tareas, con material distinto, produce un hábito, y los casos que muestran una integración [[discipline-specific-aied|específica de la disciplina]] son aquellos en los que la práctica se repite a lo largo de un curso en lugar de quedarse en una sola sesión.
 
 ## Tome prestados los modelos que ya existen en su campo
 
@@ -99,7 +99,7 @@ La evidencia respalda los diseños cognitivamente [[active-learning|activos]] y 
 
 ## Evalúe el juicio con una tarea
 
-Los estudiantes sobreestiman lo bien que pueden evaluar la IA, y un ítem de confianza [[self-report-measures|autoinformada]] confirmará el error en lugar de exponerlo. La base de conocimiento documenta una discrepancia significativa entre la alfabetización en IA autoinformada y la basada en el desempeño, y recomienda la evaluación del desempeño ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]]; [[jin-glat-genai-literacy-assessment|GLAT]]).
+Los estudiantes sobreestiman lo bien que pueden evaluar la IA, y un ítem de confianza [[self-report-measures|autoinformada]] confirmará el error en lugar de exponerlo. Una discrepancia significativa separa la alfabetización en IA autoinformada de la basada en el desempeño, y la evidencia recomienda la evaluación del desempeño ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]]; [[jin-glat-genai-literacy-assessment|GLAT]]).
 
 En lugar de un ítem de confianza, déles algo que hacer: detectar un error, verificar una fuente, mejorar una salida, explicar una limitación, justificar por qué un uso concreto de la IA es apropiado para una tarea concreta.
 
@@ -129,7 +129,7 @@ La actividad tiene que girar en torno a la herramienta. Los diseños más sólid
 
 La evaluación crítica se transfiere desde el conocimiento de la materia. No se transfiere, y por eso importa el resultado de informática. Un estudiante que sabe escribir código correcto no es automáticamente capaz de diagnosticar código incorrecto escrito por otra persona, y la misma brecha aparece en la prosa.
 
-La confianza es un indicador utilizable. La autoinformación y el desempeño divergen en esta literatura, y la divergencia es lo bastante sistemática como para que la base de conocimiento recomiende medidas de desempeño. Pida una demostración.
+La confianza es un indicador utilizable. La autoinformación y el desempeño divergen en esta literatura, y la divergencia es lo bastante sistemática como para justificar medidas de desempeño. Pida una demostración.
 
 ## Lo que le van a responder
 
@@ -141,7 +141,7 @@ La confianza es un indicador utilizable. La autoinformación y el desempeño div
 
 **"La reflexión y la crítica son demasiado subjetivas para calificarlas."** Son subjetivas cuando la rúbrica dice "reflexivo". Se vuelven calificables cuando usted nombra el error que hay que detectar, la reparación y la justificación, que es el mismo movimiento que cualquier otra línea de rúbrica.
 
-**"Nuestros estudiantes están poco preparados, así que la IA ampliará la brecha."** La evidencia respalda esa preocupación. El conocimiento previo condiciona si la ayuda de la IA se convierte en habilidad, y el estudio sobre la interacción concluye que las herramientas pueden favorecer a los estudiantes que ya están en ventaja. El acceso gradual, los fundamentos sin IA y la enseñanza de la interacción son las respuestas que ofrece el corpus, y cada una es algo que usted puede poner en marcha este semestre.
+**"Nuestros estudiantes están poco preparados, así que la IA ampliará la brecha."** La evidencia respalda esa preocupación. El conocimiento previo condiciona si la ayuda de la IA se convierte en habilidad, y el estudio sobre la interacción concluye que las herramientas pueden favorecer a los estudiantes que ya están en ventaja. El acceso gradual, los fundamentos sin IA y la enseñanza de la interacción son las respuestas disponibles, y cada una es algo que usted puede poner en marcha este semestre.
 
 **"Esto es trabajo de la biblioteca, o del centro de escritura."** Esos servicios pueden enseñar evaluación genérica. Solo su curso puede enseñar cómo se ve un argumento débil en su disciplina, y esa es la versión que los estudiantes llevan a sus tareas.
 

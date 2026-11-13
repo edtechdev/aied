@@ -8,7 +8,7 @@ technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learnin
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -36,22 +36,22 @@ ai_assist:
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
-> **Seguimiento del conocimiento** — modelar lo que quienes aprenden saben a lo largo del tiempo registrando su desempeño en los ejercicios y prediciendo el dominio futuro. Es el hilo de modelado más rico de la base de conocimientos, y abarca enfoques bayesianos, de aprendizaje profundo y [[llm|mejorados con LLM]] para seguir el conocimiento del estudiantado a medida que evoluciona.
+> **Seguimiento del conocimiento** — modelar lo que quienes aprenden saben a lo largo del tiempo registrando su desempeño en los ejercicios y prediciendo el dominio futuro. Es el hilo de modelado más rico de esta literatura, y abarca enfoques bayesianos, de aprendizaje profundo y [[llm|mejorados con LLM]] para seguir el conocimiento del estudiantado a medida que evoluciona.
 
 ## Preguntas para reflexionar
 
 - El seguimiento del conocimiento modela lo que usted sabe a lo largo del tiempo a partir de su desempeño en los ejercicios, y registra cuándo se adquiere el conocimiento y cuándo se deteriora. ¿Qué pueden revelar sus respuestas sobre si de verdad «sabe» algo, frente a si simplemente acertó esta vez?
-- La página advierte que «el dominio no es la corrección»: quien aprende puede parecer que domina algo y, aun así, aplicar mal de forma sistemática una habilidad cuando se infringe una condición oculta. ¿Cuándo ha visto que alguien (o usted mismo) pareciera entender algo sin entenderlo en realidad?
+- Quien aprende puede parecer que domina algo y, aun así, aplicar mal de forma sistemática una habilidad cuando se infringe una condición oculta. ¿Cuándo ha visto que alguien (o usted mismo) pareciera entender algo sin entenderlo en realidad?
 - Si el seguimiento del conocimiento alimenta sistemas adaptativos que deciden qué enseñar después, ¿qué sale mal cuando el modelo confunde respuestas correctas con dominio real y hace avanzar al estudiantado demasiado pronto?
 - El seguimiento del conocimiento adopta muchas formas: bayesiana, neuronal, hipergráfica, basada en el diálogo, mejorada con LLM. ¿Qué compensaciones cabría esperar entre un modelo transparente que se puede explicar y uno potente pero opaco?
-- La página conecta el seguimiento del conocimiento con los estudiantes simulados: generar los estados de conocimiento que el seguimiento normalmente infiere a partir de datos reales. ¿Cómo podría ayudar simular a quien aprende a la hora de probar un tutor antes de que se encuentre con estudiantado real?
+- El seguimiento del conocimiento también conecta con los estudiantes simulados, que generan los estados de conocimiento que el seguimiento normalmente infiere a partir de datos reales. ¿Cómo podría ayudar simular a quien aprende a la hora de probar un tutor antes de que se encuentre con estudiantado real?
 - Dado que el conocimiento se deteriora con el tiempo, ¿qué debería hacer un sistema adaptativo con el «dominio» pasado de un estudiante una vez que lo ha olvidado? ¿Cómo diseñaría para el olvido en lugar de suponer que el conocimiento persiste?
 
 ## Introducción
 
 El seguimiento del conocimiento transforma las respuestas brutas a los ejercicios en estimaciones de lo que un estudiante ha dominado y de lo que todavía necesita aprender. A diferencia del simple registro de la corrección, el seguimiento del conocimiento modela la dinámica temporal del aprendizaje: cuándo se adquiere el conocimiento, cuándo se deteriora y cómo se relacionan los conceptos entre sí.
 
-## Enfoques representados en la base de conocimientos
+## Enfoques representados en la investigación
 
 - **Enfoques bayesianos:** [[stanbkt-bayesian-knowledge-tracing]] estandariza las implementaciones de BKT, mientras que [[mbp-kt-meta-behavioral-knowledge-tracing]] incorpora señales metacomportamentales
 - **Los parámetros de la BKT como medidas de resultado de una intervención:** [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et al. (2026)]] ajustaron un seguimiento bayesiano del conocimiento condicionado por señales a 19.952 puntos de datos de 688 estudiantes de sexto grado, de modo que los parámetros de adivinación, desliz, aprendizaje y olvido se convirtieron en las medidas de resultado de una intervención matemática con señales perceptivas. Las señales congruentes elevaron la adivinación y redujeron el desliz, un andamiaje inmediato, mientras que la condición de color incongruente mostró la firma de la dificultad deseable, con una adivinación de 0,190 pero la tasa de aprendizaje más alta (0,0379) y la tasa de olvido más baja (0,0054) de las nueve condiciones. Las clasificaciones de las condiciones de señal basadas en la BKT coincidieron con las basadas en el comportamiento en cinco de las ocho condiciones, lo que respalda los parámetros como una lente sobre el dilema de la asistencia.

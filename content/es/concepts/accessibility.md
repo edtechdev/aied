@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ ai_assist:
 
 ## Introducción
 
-La accesibilidad es distinta de, aunque está estrechamente relacionada con, tres conceptos vecinos de esta base de conocimiento. El **[[inclusive-learning|aprendizaje inclusivo]]** es el paraguas más amplio para diseñar una educación para toda la variabilidad del estudiantado (física, cognitiva, sensorial, situacional). La **[[special-education|educación especial]]** es el ámbito instruccional para quienes tienen discapacidades diagnosticadas, incluidas las adaptaciones individualizadas. El **[[universal-design-for-learning|diseño universal para el aprendizaje]]** es el marco de diseño proactivo (múltiples medios de [[student-engagement|implicación]], representación y acción/expresión). La **accesibilidad** se sitúa dentro de esta constelación como la *capa técnica y procedimental*: eliminar barreras para percibir y operar el formato, en lugar de rediseñar la pedagogía. Ambas cosas pueden separarse en un espectro: la accesibilidad pregunta «¿puede todo el mundo acceder a este contenido y a esta herramienta?», mientras que apoyar al estudiantado con discapacidad pregunta «¿sirve la instrucción de forma significativa a cada estudiante, incluidas las adaptaciones y el apoyo específico para la discapacidad?». Ambas importan, y la IA se cruza con las dos.
+La accesibilidad es distinta de, aunque está estrechamente relacionada con, tres conceptos vecinos. El **[[inclusive-learning|aprendizaje inclusivo]]** es el paraguas más amplio para diseñar una educación para toda la variabilidad del estudiantado (física, cognitiva, sensorial, situacional). La **[[special-education|educación especial]]** es el ámbito instruccional para quienes tienen discapacidades diagnosticadas, incluidas las adaptaciones individualizadas. El **[[universal-design-for-learning|diseño universal para el aprendizaje]]** es el marco de diseño proactivo (múltiples medios de [[student-engagement|implicación]], representación y acción/expresión). La **accesibilidad** se sitúa dentro de esta constelación como la *capa técnica y procedimental*: eliminar barreras para percibir y operar el formato, en lugar de rediseñar la pedagogía. Ambas cosas pueden separarse en un espectro: la accesibilidad pregunta «¿puede todo el mundo acceder a este contenido y a esta herramienta?», mientras que apoyar al estudiantado con discapacidad pregunta «¿sirve la instrucción de forma significativa a cada estudiante, incluidas las adaptaciones y el apoyo específico para la discapacidad?». Ambas importan, y la IA se cruza con las dos.
 
 ### Por qué importa la distinción
 

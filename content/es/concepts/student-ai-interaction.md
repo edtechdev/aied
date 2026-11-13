@@ -1,7 +1,7 @@
 ---
 title: Interacción entre el estudiantado y la IA
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T14:20:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,10 +10,14 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-11-11T15:26:00-05:00"
+source_updated: "2026-11-13T13:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-13"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -28,7 +32,7 @@ ai_assist:
 
 - Piense en los últimos prompts que usted (o un estudiante) escribió a una IA. ¿Describiría la mayoría como peticiones de la respuesta, o como peticiones de que la IA explique, indague o evalúe? ¿Qué sospecha que ese patrón le hace al aprendizaje?
 - La investigación encuentra que un subconjunto pequeño de tipos de pregunta concentra la mayoría de las consultas del estudiantado, y que las preguntas cambian a medida que avanza una tarea. ¿Por qué cree que se estrecha el preguntar del estudiantado, y qué sugiere eso sobre cómo usa la herramienta?
-- La página sostiene que los prompts superficiales orientados a obtener la respuesta se asocian con menos aprendizaje y más dependencia, mientras que una interacción reflexiva y orientada a la verificación apoya la comprensión. ¿Qué cree que separa un prompt «bueno» de uno «malo», y es responsabilidad del estudiantado o del diseño de la herramienta?
+- ¿Los prompts superficiales orientados a obtener la respuesta reducen el aprendizaje y fomentan la dependencia excesiva, mientras que una interacción reflexiva y orientada a la verificación construye comprensión? ¿Qué cree que separa un prompt «bueno» de uno «malo», y es responsabilidad del estudiantado o del diseño de la herramienta?
 - Si la calidad de la interacción está modelada por el contexto de la tarea y el andamiaje, y no es un rasgo fijo del estudiantado, ¿cómo podría rediseñarse un curso o una herramienta para invitar a un rango de indagación más amplio y más productivo?
 - ¿Cómo sabría si el diálogo fluido de un estudiante con la IA refleja aprendizaje genuino o solo una delegación hábil, y qué comprobaría para averiguarlo?
 
@@ -36,9 +40,11 @@ ai_assist:
 
 La interacción entre el estudiantado y la IA es la superficie observable de la [[student-engagement|implicación]] del estudiantado con la IA generativa: las preguntas que plantea, los prompts que escribe, cómo negocia y verifica los resultados de la IA y cómo esos patrones cambian a lo largo de las etapas de una tarea y con el tiempo. Se sitúa en la intersección de la [[student-experience|experiencia del estudiantado]], la [[prompt-engineering|ingeniería de prompts]] y la [[learning-analytics|analítica del aprendizaje]], y es central en los debates sobre si el uso de la IA en la educación representa aprendizaje genuino o [[cognitive-offloading|dependencia excesiva]]. Donde la [[human-ai-collaboration|colaboración entre las personas y la IA]] enmarca la división de alto nivel del trabajo cognitivo entre las personas y los modelos, la interacción entre el estudiantado y la IA es la puesta en práctica concreta y medible de esa relación: las consultas, los prompts y los movimientos de negociación específicos que quien aprende hace momento a momento.
 
+La interacción no siempre es instrumental. El modelo de adaptación relacional integrado en la máquina de Boyd y Markowitz separa la IA como *socio relacional*, donde quien aprende se relaciona directamente con el sistema, de la IA como *mediador relacional*, donde el sistema reconfigura la comunicación entre personas ([Boyd y Markowitz, 2026](https://doi.org/10.1177/17456916251404394)). El segundo es el caso menos visible, como cuando una IA redacta una retroalimentación que el estudiantado lee después como la voz de su docente. El modelo es un marco y no un hallazgo, y no se probó en un aula. Aun así nombra una distinción que la investigación sobre interacción tiende a fundir, porque un tutor con forma de compañero y un mediador que filtra la comunicación entre pares o con el docente plantean preguntas distintas sobre la confianza y la dependencia.
+
 ### Qué le pide el estudiantado a la IA
 
-- **La negativa es una configuración de interacción, no una ausencia de uso.** [[silverdal-distributed-authorship-swedish-writing-2026|Silverdal, Hermansson y Lindgren (2026)]] grabaron a tres estudiantes de secundaria superior escribiendo el mismo relato inspirado en Kafka con IA generativa y mapearon tres ensamblajes distintos a partir de las grabaciones: autoría delegada al modelo, escritura conjunta crítica recíproca y una configuración explícita de «IA y yo, no gracias» en la que el estudiante reorganizaba su práctica de escritura lejos de la herramienta. El hallazgo que importa a esta página es que la *misma* tarea, el mismo espacio y la misma herramienta produjeron los tres, y que gran parte de lo que los separaba estaba en los momentos entre prompts —pausas, reformulaciones, vacilación antes de aceptar una sugerencia—, algo que un registro de chat por sí solo no captura.
+- **La negativa es una configuración de interacción, no una ausencia de uso.** [[silverdal-distributed-authorship-swedish-writing-2026|Silverdal, Hermansson y Lindgren (2026)]] grabaron a tres estudiantes de secundaria superior escribiendo el mismo relato inspirado en Kafka con IA generativa y mapearon tres ensamblajes distintos a partir de las grabaciones: autoría delegada al modelo, escritura conjunta crítica recíproca y una configuración explícita de «IA y yo, no gracias» en la que el estudiante reorganizaba su práctica de escritura lejos de la herramienta. El hallazgo que importa es que la *misma* tarea, el mismo espacio y la misma herramienta produjeron los tres, y que gran parte de lo que los separaba estaba en los momentos entre prompts —pausas, reformulaciones, vacilación antes de aceptar una sugerencia—, algo que un registro de chat por sí solo no captura.
 Una línea central de la investigación mide los **tipos y la calidad de las consultas del estudiantado**. Los estudios aplican taxonomías de tipos de pregunta —por ejemplo, la taxonomía de 18 tipos de Graesser et al.— para clasificar las interacciones entre estudiantado e IA, a menudo con clasificadores de pocos ejemplos para escalar el análisis a cientos o miles de interacciones. Los hallazgos indican que un subconjunto pequeño de tipos de pregunta concentra la mayoría de las consultas del estudiantado y que las preguntas que este plantea **cambian sustancialmente a medida que avanza la tarea** (p. ej., [[student-ai-inquiry-types-cs2-2026]]). Esta dependencia de la tarea importa: la calidad de la interacción no es un rasgo fijo del estudiantado, sino que está modelada por el contexto del problema, el [[scaffolding|andamiaje]] y las posibilidades que ofrece la herramienta de IA. En las edades más tempranas, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed y Martin (2025)]] encontraron que los niños (de 6 a 14 años) ponían a prueba activamente la credibilidad de un [[conversational-ai|chatbot]] planteando preguntas cuya respuesta ya conocían (por ejemplo, «cuánto mide un t rex»), una expresión de autoagencia epistémica, mientras que el niño modal solo hacía de 1 a 3 preguntas y un destacado estudiante de primer grado hizo 21, lo que subraya cómo la variación evolutiva e individual modela las preguntas que plantea quien aprende.
 
 Las taxonomías mismas aún no coinciden: entre 46 categorizaciones de 33 estudios, etiquetas similares nombran fenómenos distintos, por lo que la revisión propone el *episodio de interacción* —un intercambio dirigido a metas y acotado en el tiempo— como unidad que abarca la adquisición de conocimiento, la retroalimentación evaluativa, la orientación estratégica, la indagación dialógica, el refinamiento de artefactos y la corregulación ([[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen y Weidlich (2026)]]).
@@ -82,6 +88,9 @@ La no utilización es en sí misma un patrón de interacción que la [[pedagogy|
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang y Guo (2026)]] documentan qué aporta el diálogo abierto con IA generativa en la revisión entre pares: el estudiantado que interrogó al modelo en lugar de aceptar su primera sugerencia produjo retroalimentación que sus pares valoraron mejor, y declaró más disfrute de la tarea y menos [[anxiety-and-stress|ansiedad]].
 
 La ansiedad que el diálogo alivia puede ser social y no técnica: entre 596 estudiantes egipcios de inglés como lengua extranjera y ocho entrevistas, el estudiantado describió que preguntaba repetidamente a la herramienta porque «no hay presión y nadie juzga» ([[alshammari-interactive-ai-efl-tam-2026|Alshammari y Abdelaty (2026)]]).
+
+La desconexión conversacional tiene su propia taxonomía —burlarse, desaparecer, reflejar, retener, responder en falso—, y en 246 diálogos de matemáticas de educación media solo la retención persistió en lugar de resolverse, así que el patrón dañino es la incapacidad de recuperarse ([[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]]).
+**La imagen que el estudiantado tiene del modelo acompaña a cómo lo usa.** [[cs-students-llm-conceptualizations-prompting-2026|Donekal Chandrashekar et al. (2026)]] encontraron que el 68% de 283 estudiantes después de CS1 describía un LLM como una persona («amigo inteligente», «tutor»), y el encuadre de máquina acompañaba a un conocimiento algo mayor del mecanismo y a prompts más ricos en contexto.
 
 ## Disciplina e implicación cognitiva en el chat entre el estudiantado y la IA
 
@@ -131,3 +140,4 @@ La ansiedad que el diálogo alivia puede ser social y no técnica: entre 596 est
 - [[three-pathways-student-ai-interaction-2026]] — Tipología de las tres vías de la interacción entre el estudiantado y la IA: 46% Revisión pasiva, 18% Pregunta directa, 36% Diálogo estratégico
 - [[porcaro-ai-grading-benchmark-2026]] — Más allá del acuerdo: 22 calificadores mediante prompts se enfrentan a sondas cuya respuesta correcta se conoce, y a la mayoría se les puede subir el nivel (Porcaro 2026)
 - [[shen-ai-skill-formation-2026]] — Seis patrones de interacción con la IA, del 86% al 24% en una prueba sin ayuda (Shen y Tamkin 2026)
+- [[cs-students-llm-conceptualizations-prompting-2026]] — ¿A quién (o a qué) le escriben prompts? Cómo el estudiantado de informática conceptualiza y usa los LLM

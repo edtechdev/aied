@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T20:15:00-05:00"
-updated: "2026-11-12T20:15:00-05:00"
+updated: "2026-11-13T14:15:00-05:00"
 type: resource
 summary: "Una plataforma de anotación gratuita con cuenta en la que la discusión en hilos se adhiere a frases concretas, regiones de imágenes y marcas de tiempo de vídeo, y donde los «socios de pensamiento con IA» basados en OpenAI pueden redactar una respuesta sobre un pasaje seleccionado para que el estudiante la edite antes de publicarla."
 url: https://nowcomment.com/
@@ -15,7 +15,7 @@ pedagogy: [collaborative-learning, student-ai-interaction]
 assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/nowcomment
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-NowComment convierte un texto, una imagen o un vídeo en una superficie de discusión: los comentarios se enlazan en hilos contra la frase, el párrafo, la región de imagen o la marca de tiempo exactos a los que responden, de modo que la conversación de una clase queda anclada a la evidencia en lugar de derivar hacia un feed de comentarios. Lo que lo distingue de una herramienta de anotación simple es la capa de IA que su mantenedor construyó en esa misma superficie: se le puede preguntar a un «socio de pensamiento con IA» [basado en OpenAI](https://nowcomment.com/) sobre un pasaje que el lector ha seleccionado, y el resultado llega como borrador editable y no como respuesta.
+NowComment convierte un texto, una imagen o un vídeo en una superficie de discusión: los comentarios se enlazan en hilos contra la frase, el párrafo, la región de imagen o la marca de tiempo exactos a los que responden, de modo que la conversación de una clase queda anclada a la evidencia en lugar de derivar hacia un feed de comentarios. La capa de IA se ejecuta en esa misma superficie. Se le puede preguntar a un «socio de pensamiento con IA» [basado en OpenAI](https://nowcomment.com/) sobre un pasaje que el lector ha seleccionado, y el resultado llega como borrador editable.
 
 ## Qué puede hacer con ella
 
@@ -42,7 +42,7 @@ Docentes que trabajan lectura atenta, estudio de documentos o análisis de medio
 
 ## Notas y advertencias
 
-Las cuentas son gratuitas y los documentos pueden ser públicos o compartirse con un grupo invitado. Los socios de IA funcionan con modelos de lenguaje grandes de OpenAI, así que los pasajes y preguntas seleccionados salen del alojamiento propio de la plataforma y quedan sujetos a los términos de ese proveedor: un distrito debería leer el acuerdo de tratamiento de datos antes de usarla con menores. La salida está limitada por un tope de tokens que el sitio dice que sigue ampliando, el directorio de socios está detrás de un inicio de sesión y las superficies de IA son una parte del producto que cambia rápido: trate cualquier capacidad descrita aquí como el estado del sitio en noviembre de 2026, no como un conjunto de funciones consolidado.
+Las cuentas son gratuitas y los documentos pueden ser públicos o compartirse con un grupo invitado. Los socios de IA funcionan con modelos de lenguaje grandes de OpenAI, así que los pasajes y preguntas seleccionados salen del alojamiento propio de la plataforma y quedan sujetos a los términos de ese proveedor. Un distrito debería leer el acuerdo de tratamiento de datos antes de usarla con menores. La salida está limitada por un tope de tokens que el sitio dice que sigue ampliando, el directorio de socios está detrás de un inicio de sesión y las superficies de IA son una parte del producto que cambia rápido: trate cualquier capacidad descrita aquí como el estado del sitio en noviembre de 2026, no como un conjunto de funciones consolidado.
 
 ## Conceptos conectados
 

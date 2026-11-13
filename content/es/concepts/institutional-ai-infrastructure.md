@@ -12,7 +12,7 @@ discipline: [information technology]
 confidence: high
 contributors: [editor]
 translation_of: concepts/institutional-ai-infrastructure
-source_updated: "2026-11-12T14:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -40,7 +40,7 @@ Las instituciones pasaron los primeros años de la [[generative-ai|IA generativa
 
 Tratar la IA como infraestructura es la respuesta. Significa una capa de servicio compartida, una pasarela que aplica las reglas de la institución a cada petición y telemetría suficiente para ver coste, carga y fallo. La afirmación de la literatura no es que esto sea más barato. Es que convierte a la institución en la parte que decide, lo cual es un tipo de afirmación distinto y más difícil de contrastar.
 
-Los artículos aquí reunidos también amplían lo que cuenta como infraestructura. Dos se ocupan de la inferencia para el chat y la docencia, uno de la oficina de registro y uno de los registros de evaluación. Una vez que la articulación de cursos, el [[learning-analytics|análisis de la carga de trabajo]] y la acumulación de evidencia dependen de embeddings y llamadas a modelos, la trastienda forma parte de la pila tanto como el bastidor de GPU. Ese es el argumento que esta página sostiene ahora: la infraestructura está allí donde una institución ha delegado silenciosamente una decisión en un modelo.
+Los artículos aquí reunidos también amplían lo que cuenta como infraestructura. Dos se ocupan de la inferencia para el chat y la docencia, uno de la oficina de registro y uno de los registros de evaluación. Una vez que la articulación de cursos, el [[learning-analytics|análisis de la carga de trabajo]] y la acumulación de evidencia dependen de embeddings y llamadas a modelos, la trastienda forma parte de la pila tanto como el bastidor de GPU. El argumento es que la infraestructura está allí donde una institución ha delegado silenciosamente una decisión en un modelo.
 
 ## Qué está eligiendo en realidad
 
@@ -98,7 +98,7 @@ El hallazgo sobre la adopción es el que deberían retener quienes planifican in
 
 ## La evaluación como problema de fontanería
 
-[[mcnamara-aimcai-continuous-assessment-infrastructure-2026|AIM-CAI]] sostiene que la evidencia necesaria para interpretar el aprendizaje ya existe pero está fragmentada entre sistemas que no pueden leerse entre sí. Su marco tiene seis capas funcionales, tres fronteras inferenciales que limitan lo que una instantánea puede sostener y siete requisitos de gobernanza, incluidos la auditabilidad, la estimación de la incertidumbre y la anulación humana. Es un marco y no un despliegue, y la página lo dice.
+[[mcnamara-aimcai-continuous-assessment-infrastructure-2026|AIM-CAI]] sostiene que la evidencia necesaria para interpretar el aprendizaje ya existe pero está fragmentada entre sistemas que no pueden leerse entre sí. Su marco tiene seis capas funcionales, tres fronteras inferenciales que limitan lo que una instantánea puede sostener y siete requisitos de gobernanza, incluidos la auditabilidad, la estimación de la incertidumbre y la anulación humana. Es un marco y no un despliegue, y los autores lo dicen.
 
 [[lata-ferpa-compliant-local-llm-autograder|LaTA]] aporta el caso más estrecho: un modelo de razonamiento local que elimina la cuestión de [[privacy|FERPA]] sobre enviar trabajos de estudiantes a un proveedor en lugar de gestionarla. Juntos sugieren que la infraestructura de evaluación no es una función de una plataforma de aprendizaje, sino un problema separado con su propio modelo de datos y sus propios modos de fallo.
 
@@ -111,6 +111,20 @@ Las plataformas alojadas a escala de distrito informan del mismo tipo de aritmé
 ## La soberanía tiene una dimensión de equidad
 
 Una pasarela puede enrutar hacia un modelo local que trata mal el idioma de la institución, y el silencio resultante no es neutro. El argumento de la infraestructura y el de la [[digital-divide|brecha digital]] se encuentran aquí: las instituciones con clústeres y personal ganan capacidad, y las que no los tienen absorben lo que el proveedor ofrezca al precio que el proveedor fije. Las versiones gratuitas son genuinamente útiles y genuinamente frágiles, lo que hace que tratarlas como una estrategia permanente sea una decisión sobre qué instituciones reciben servicio.
+
+## Implicaciones para la práctica
+
+La alta dirección puede empezar por nombrar la forma en la que está realmente cada unidad. Las seis formas difieren en quién custodia los datos y quién absorbe los fallos, y la mayoría de las instituciones están en varias a la vez: un inquilino para el personal, una herramienta gratuita en un departamento, una plataforma alojada en otro. Un inventario de una página con lo que está en uso, adónde van los datos y quién puede cambiar el modelo es más útil que un documento de estrategia que describe una sola de ellas.
+
+El liderazgo de TI y de la biblioteca puede hacer de la pasarela el lugar donde se aplica la política. Fontys, MindRouter y SPIN convergen en el mismo contrato: una única superficie de API, cuotas por usuario, integración de identidad, enrutamiento regional y una ficha de modelo mostrada antes de que salga la petición. Una regla que vive en un PDF y una regla que vive en un enrutador son objetos distintos, y solo la segunda se sostiene cuando aparece un modelo nuevo.
+
+El personal de finanzas y de compras puede instrumentar el coste antes de elegir proveedor. La licencia por asiento, las plataformas alojadas y las pasarelas medidas recompensan formas de uso distintas, y la única manera de saber cuál es más barata es medir tokens, usuarios activos y carga punta. El servicio de Purdue llegó a unos 1000 usuarios con aproximadamente \$100.000 de hardware; un piloto alojado informa de unos \$3 por usuario al mes. Esas cifras no son comparables sin el mismo denominador.
+
+Los centros de enseñanza y aprendizaje pueden tratar los pilotos en niveles gratuitos como lo que son: pilotos. Las herramientas gratuitas son la razón por la que muchos educadores pueden probar algo, y vienen sin rastro de auditoría, sin cuota y con condiciones que pueden cambiar. Un piloto que funciona debería pasar a una forma que la institución pueda gobernar.
+
+Quienes dirigen escuelas sin centro de datos pueden aun así ejecutar un modelo local. Un escritorio reacondicionado con una GPU de gama de entrada aloja un modelo pequeño para un edificio, y la ganancia de privacidad es física y no contractual. Sigue siendo un sistema de retención, así que el registro y el acceso siguen siendo decisiones de diseño.
+
+Quienes dirigen departamentos pueden mirar más allá de la ventana de chat. La articulación de cursos, la analítica de carga docente, el etiquetado y los registros de evaluación son donde las instituciones ya han delegado decisiones en un modelo, y esos sistemas necesitan la misma gobernanza que un chatbot, normalmente con menos escrutinio.
 
 ## Concepciones erróneas
 

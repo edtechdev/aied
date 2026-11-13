@@ -9,7 +9,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 ## Introducción
 
-La investigación sobre educación biológica y IA se agrupa en torno a una tensión: la IA ha revolucionado la *investigación* en biología (AlphaFold, ómicas, biología computacional), pero su adopción en la *educación* biológica ha sido cautelosa ante las preocupaciones por las trampas con IA generativa, la desinformación y la erosión del pensamiento crítico. Los artículos sobre biología de esta base de conocimiento examinan en conjunto cómo funcionan las herramientas de IA como asistentes docentes de laboratorio, cómo puede integrarse la alfabetización en IA en los cursos de biología, cómo debe protegerse el pensamiento crítico en la era de la IA y cómo las herramientas especializadas de IA apoyan el trabajo de campo y la identificación de especies.
+La literatura sobre educación biológica y la IA se agrupa en torno a una tensión. Los métodos computacionales han transformado el descubrimiento biológico (AlphaFold, ómicas, biología computacional), mientras que la práctica en el aula ha avanzado con cautela ante las preocupaciones por las trampas con IA generativa, la desinformación y la erosión del pensamiento crítico. La literatura sobre biología examina en conjunto cómo funcionan las herramientas de IA como asistentes docentes de laboratorio, cómo puede integrarse la alfabetización en IA en los cursos de biología, cómo debe protegerse el pensamiento crítico en la era de la IA y cómo las herramientas especializadas de IA apoyan el trabajo de campo y la identificación de especies.
 
 ### Temas clave de investigación
 
@@ -45,7 +45,7 @@ La investigación sobre educación biológica y IA se agrupa en torno a una tens
 
 **La alfabetización en IA integrada en los currículos de biología.** **[[zha-ai-literacy-biology-case-study|Zha et al.]]** integraron conceptos de aprendizaje automático y redes neuronales en un curso de biología avanzada de secundaria y encontraron mejoras significativas en el conocimiento sobre IA y que el contexto de la biología apoyaba el aprendizaje sobre IA, evidencia a favor de integrar la alfabetización en IA en la [[stem-education|educación STEM]] en lugar de relegarla a actividades extracurriculares. **[[chatgpt-math-biology-challenge-based-learning-2025|Elizondo-García et al.]]** utilizaron ChatGPT dentro del **aprendizaje basado en retos** en cursos de biología y matemáticas y encontraron que el estudiantado valoraba la inmediatez pero se preocupaba por la veracidad, la sustitución del [[teacher-role|profesorado]] y la erosión de habilidades, lo que les llevó a pedir códigos de integridad académica actualizados y una ética del uso de la IA.
 
-**El pensamiento crítico en la era de la IA.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou y Nicolaou]]** sostienen que, a medida que la IA moldea la investigación biológica, el **pensamiento crítico** —el escepticismo, la comprensión contextual y el razonamiento ético— debe cultivarse de forma deliberada, y que la [[human-in-the-loop-ai|supervisión humana]] sigue siendo indispensable para validar las salidas de la IA y prevenir el [[equity-in-ai-education|sesgo]]. Esto conecta con las preocupaciones transversales de la base de conocimiento sobre [[reducing-ai-misuse|reducir el mal uso de la IA]] y la [[cognitive-offloading|dependencia excesiva]].
+**El pensamiento crítico en la era de la IA.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou y Nicolaou]]** sostienen que la enseñanza de la biología debe tratar el **pensamiento crítico** —el escepticismo, la comprensión contextual y el razonamiento ético— como un objetivo de aprendizaje explícito, porque la [[human-in-the-loop-ai|supervisión humana]] sigue siendo indispensable para validar las salidas de la IA y protegerse contra el [[equity-in-ai-education|sesgo]]. Esto conecta con las preocupaciones más amplias sobre [[reducing-ai-misuse|reducir el mal uso de la IA]] y la [[cognitive-offloading|dependencia excesiva]].
 
 **La práctica de argumentación con IA socrática en la formación del profesorado.** Un cuasiexperimento con 124 futuros docentes de biología encontró que un [[socratic-method|tutor socrático]] con ChatGPT-4 sobre cuestiones socio-científicas elevó la calidad de la argumentación frente al debate entre pares fuera de línea (3,91 ajustado frente a 3,21, F(1,121) = 14,23, p < 0,001), con las mayores ganancias en las habilidades de refutación y de contraargumentación con pruebas ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 

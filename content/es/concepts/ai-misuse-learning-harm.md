@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ ai_assist:
 
 ## Introducción
 
-El mal uso de la IA se distingue del uso de la IA. El uso describe emplear la IA como complemento del aprendizaje —[[feedback|retroalimentación]], lluvia de ideas o ayuda con la revisión— que mantiene el trabajo cognitivo de quien aprende dentro del proceso. El mal uso describe la sustitución: delegar en la IA los propios procesos mentales (redacción, recuerdo, análisis, revisión) que construyen una comprensión duradera. El daño documentado en la base de evidencia de la base de conocimientos no es que el mal uso deje de ayudar; es que el mal uso degrada activamente el logro posterior sin asistencia.
+El mal uso de la IA se distingue del uso de la IA. El uso describe emplear la IA como complemento del aprendizaje —[[feedback|retroalimentación]], lluvia de ideas o ayuda con la revisión— que mantiene el trabajo cognitivo de quien aprende dentro del proceso. El mal uso describe la sustitución: delegar en la IA los propios procesos mentales (redacción, recuerdo, análisis, revisión) que construyen una comprensión duradera. El daño documentado no es que el mal uso deje de ayudar; es que el mal uso degrada activamente el logro posterior sin asistencia.
 
 El daño anticipado está documentado en sí mismo: en datos suecos de encuesta y de grupos focales, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] informan del mismo temor desde datos suecos: el 51% de los participantes (n = 106) pensaba que el uso de IA generativa podía atrofiar el desarrollo individual, señalando la erosión del [[critical-thinking|pensamiento crítico]], la [[creativity|creatividad]] y la autonomía y no las infracciones de normas.
 
@@ -103,7 +103,7 @@ La literatura sobre el gaming the system (abuso de pistas, adivinación sistemá
 
 ## Concepciones erróneas
 
-**«El estudiantado se daría cuenta si la IA estuviera dañando su aprendizaje.»** No se da cuenta, y este es el hecho más consecuente de la página: **el estudiantado del grupo dañado no percibió que aprendiera menos**. El [[self-report-measures|autoinforme]] no es, por tanto, una señal de alerta temprana utilizable. El patrón de un 48% más de práctica y un 17% menos en el examen es invisible para quien lo experimenta, y por eso la detección del daño tiene que basarse en la medición y no en el testimonio.
+**«El estudiantado se daría cuenta si la IA estuviera dañando su aprendizaje.»** No se da cuenta, y este es el hecho más consecuente de la evidencia: **el estudiantado del grupo dañado no percibió que aprendiera menos**. El [[self-report-measures|autoinforme]] no es, por tanto, una señal de alerta temprana utilizable. El patrón de un 48% más de práctica y un 17% menos en el examen es invisible para quien lo experimenta, y por eso la detección del daño tiene que basarse en la medición y no en el testimonio.
 
 **«El riesgo es cuánta IA usa un estudiante.»** El riesgo es para qué se sustituye la IA. Aquí el mal uso significa delegar la redacción, el recuerdo o el análisis que construyen una comprensión duradera: sustitución en lugar de complemento, y un estudiante puede sustituir mucho en una tarea y complementar de forma productiva en la siguiente. El volumen de uso es la variable equivocada; la división del trabajo cognitivo es la correcta.
 

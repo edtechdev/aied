@@ -14,7 +14,7 @@ audience: [instructors, instructional designers]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -39,7 +39,7 @@ ai_assist:
 
 Un avatar de IA es una representación humana renderizada o animada e impulsada por un modelo; un instructor sintético es esa representación situada en un rol docente. Ninguno de los dos es lo mismo que un agente. [[theelen-classroom-simulations-four-layer-framework-2026|Theelen et al. (2026)]] separan la representación de la [[agency|agencia]]: el avatar es lo que ve un participante, mientras que el actor que hay detrás puede ser un par, un especialista en simulación, un guion, un sistema basado en reglas o un [[llm|LLM]]. Dos estudiantes virtuales idénticos pueden ofrecer, por tanto, encuentros por completo distintos.
 
-Esta página se organiza por rol: qué rol ocupa el ser humano sintético, qué evidencia existe para él y qué hace esa superficie a la relación de quien aprende con el sistema. La literatura abajo abarca vídeo de clase, tutoría, simulación clínica, ensayo docente, juego de rol y evaluación.
+El material se organiza por rol: qué rol ocupa el ser humano sintético, qué evidencia existe para él y qué hace esa superficie a la relación de quien aprende con el sistema. La literatura abajo abarca vídeo de clase, tutoría, simulación clínica, ensayo docente, juego de rol y evaluación.
 
 ## Seis roles que puede ocupar un ser humano sintético
 

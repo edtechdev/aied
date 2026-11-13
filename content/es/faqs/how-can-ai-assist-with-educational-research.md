@@ -15,7 +15,7 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -52,7 +52,7 @@ La respuesta breve para esa reunión: la IA puede encargarse de la búsqueda, de
 
 **5.** Verifique a mano cada referencia, empezando por los autores, siempre que la IA haya tocado la redacción.
 
-**6.** Registre los prompts, las versiones del modelo y las versiones del corpus, y presupueste las horas que eso exige.
+**6.** Registre los prompts, las versiones del modelo y las versiones del conjunto de datos, y presupueste las horas que eso exige.
 
 ## Decida qué puede tocar la IA antes de que empiece el proyecto
 
@@ -68,7 +68,7 @@ La mayor parte del beneficio procede de dos decisiones de diseño. Escriba regla
 
 ## Fije el libro de códigos antes de que el modelo lea nada
 
-[[qualitative-research|El análisis cualitativo]] es la etapa en la que la interpretación es el producto. Los constructos, las rúbricas de codificación y los datos de entrenamiento son decisiones humanas y no resultados del modelo ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]), lo que significa que el libro de códigos tiene que estar cerrado antes de que una pasada automatizada recorra el corpus. La alternativa es un esquema de codificación escrito en torno a lo que el modelo resultó destacar, y entonces los temas describen la lectura que la herramienta hace de sus datos.
+[[qualitative-research|El análisis cualitativo]] es la etapa en la que la interpretación es el producto. Los constructos, las rúbricas de codificación y los datos de entrenamiento son decisiones humanas y no resultados del modelo ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]), lo que significa que el libro de códigos tiene que estar cerrado antes de que una pasada automatizada recorra el conjunto de datos. La alternativa es un esquema de codificación escrito en torno a lo que el modelo resultó destacar, y entonces los temas describen la lectura que la herramienta hace de sus datos.
 
 La delegación puede ser más fina que todo o nada. [[agreement-not-quality-llm-coding-verification|Un estudio de verificación a ciegas]] clasificó 15 de 72 ítems del libro de códigos como casos que demuestran requerir experiencia humana, 12 como mejor atendidos por un modelo y 16 como aptos para un triaje basado en la confianza. Ordene sus propios ítems de esa manera y el ahorro de trabajo recaerá donde es seguro.
 
@@ -96,13 +96,13 @@ El fallo es concreto. En [[zhang-platform-scores-miss-ai-teaching-agents-2026|un
 
 La adopción ha ido por delante de la notificación. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta y Lin (2026)]] analizaron 888 artículos sobre automatización de revisiones: desde 2023, el 38,0% de los artículos sobre software y productos no informaba de ninguna evaluación, frente al 9,3% de los artículos sobre LLM, y el acceso a los modelos era abrumadoramente propietario (84,1%). Una valoración global favorable tampoco implicaba idoneidad para delegar, ya que el 52% de 118 artículos sobre LLM con resultados solo positivos seguía señalando la preocupación de que el flujo de trabajo quedaba por debajo del umbral que exigía su función. Su marco [[meta-analysis-systematic-review|PRISMA]]-LLM separa la divulgación de la implementación de la evaluación sensible a las consecuencias y trata sus cinco niveles como niveles de divulgación y no como niveles de riesgo.
 
-La versión práctica: nombre el sistema y su versión, los prompts, la versión del corpus, qué comprobó una persona y dónde falló. Conserve registros de prompts y respuestas, porque una lista de temas generada con fluidez parece inevitable mucho antes de que su trabajo probatorio haya empezado ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+La versión práctica: nombre el sistema y su versión, los prompts, la versión del conjunto de datos, qué comprobó una persona y dónde falló. Conserve registros de prompts y respuestas, porque una lista de temas generada con fluidez parece inevitable mucho antes de que su trabajo probatorio haya empezado ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Presupueste también las horas. [[persistent-ai-agents-academic-research|Un estudio de caso de 115 días con un solo investigador]] sobre un agente de investigación persistente encontró que el patrón más sólido era la ampliación de la capacidad y no una sustitución de trabajo demostrada: a medida que se acumulaban memoria y procedimientos, el alcance del trabajo delegado crecía mientras que la aportación humana no se reducía.
 
 ## Realice indagación docente con las mismas reglas a menor escala
 
-Si usted es docente y estudia su propio curso, trabaja en el hilo más delgado del corpus. [[ai-assisted-educational-research|La investigación educativa asistida por IA]] lo plantea como una laguna y no como un hallazgo: la indagación docente asistida por IA es probablemente muy extendida y está casi sin documentar, y la evidencia sobre automatización de revisiones y la bibliométrica no resuelven cómo debería un docente estudiar su propia enseñanza.
+Si usted es docente y estudia su propio curso, trabaja en el hilo más delgado de esta literatura. [[ai-assisted-educational-research|La investigación educativa asistida por IA]] lo plantea como una laguna y no como un hallazgo: la indagación docente asistida por IA es probablemente muy extendida y está casi sin documentar, y la evidencia sobre automatización de revisiones y la bibliométrica no resuelven cómo debería un docente estudiar su propia enseñanza.
 
 Lo que se traslada es un conjunto de disposiciones:
 

@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,7 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - El marco CASEL enumera cinco competencias: autoconciencia, autogestión, conciencia social, habilidades relacionales y toma de decisiones responsables. ¿Cuáles cree usted que un [[intelligent-tutoring|tutor de IA]] podría apoyar, y cuáles sospecha que no?
-- La página distingue el aprendizaje socioemocional de la inteligencia emocional. Antes de seguir leyendo, ¿cómo describiría la diferencia, y por qué podría importar esa distinción para el modo en que las escuelas abordan una y otra?
+- Antes de seguir leyendo, ¿cómo describiría la diferencia entre el aprendizaje socioemocional y la inteligencia emocional, y por qué podría importar esa distinción para el modo en que las escuelas abordan una y otra?
 - Si la alfabetización técnica en IA por sí sola es «insuficiente» para desenvolverse en un aprendizaje mediado por IA, ¿qué cree que falta, y qué implica eso para cómo prepara usted al estudiantado (o a sí mismo)?
 - ¿Cómo podría una dependencia intensa de la IA remodelar la sociabilidad, la empatía o el sentido de confianza de un estudiante, y son esos cambios algo que la educación debería diseñar de forma activa?
 - La [[research-methods-aied|investigación]] sugiere que el SEL sostiene las dimensiones relacionales del aprendizaje que la IA debe «complementar y no reemplazar». ¿Dónde ha visto usted que la tecnología fortalezca una relación humana, y dónde ha sustituido una en silencio?
@@ -44,7 +44,7 @@ El aprendizaje socioemocional está estrechamente relacionado con la inteligenci
 
 ### Cómo aparece el SEL en la investigación
 
-- **La empatía es el borde afectivo del SEL y lo más difícil de evaluar.** La página sobre la [[empathy|empatía]] reúne la evidencia sobre su enseñanza y medición: el juego de roles, la realidad virtual y el diálogo con LLM elevan las puntuaciones autoinformadas, las valoraciones de los observadores se mantienen coherentes y los indicadores de visión artificial se invierten ante la sonrisa. Es la página que conviene leer antes de tomar una ganancia de empatía como prueba de que un programa funcionó.
+- **La empatía es el borde afectivo del SEL y lo más difícil de evaluar.** [[empathy|La empatía]] reúne la evidencia sobre su enseñanza y medición: el juego de roles, la realidad virtual y el diálogo con LLM elevan las puntuaciones autoinformadas, las valoraciones de los observadores se mantienen coherentes y los indicadores de visión artificial se invierten ante la sonrisa. Lea esa evidencia antes de tomar una ganancia de empatía como prueba de que un programa funcionó.
 
 - **Integrar las competencias socioemocionales en la alfabetización en IA:** [[sec-ai-literacy-narrative-review-2026|la revisión narrativa de Palmquist et al.]] propone un marco integrado que combina la alfabetización en IA con las competencias socioemocionales, y sostiene que la competencia técnica por sí sola es insuficiente: el personal educativo y el estudiantado necesitan tanto inteligencia tecnológica como emocional para desenvolverse en entornos de aprendizaje mediados por IA, fomentando el [[personalized-learning|aprendizaje personalizado]], la colaboración y una [[student-engagement|implicación]] ética.
 
@@ -62,7 +62,7 @@ El aprendizaje socioemocional está estrechamente relacionado con la inteligenci
 
 ## Posibles subtemas del SEL en la investigación de la era de la IA
 
-Esta base de conocimiento agrupa la investigación sobre SEL en varios subtemas distintos, cada uno con su propia base de evidencia:
+La investigación agrupa el SEL en varios subtemas distintos, cada uno con su propia base de evidencia:
 
 ### Autoeficacia y confianza
 Una competencia central del SEL (autoconciencia y autogestión) que condiciona fuertemente cómo interactúa el estudiantado con la IA. [[student-dependency-on-ai-literacy-self-efficacy-2026|La dependencia del estudiantado de la IA]] (478 estudiantes de educación superior israelíes) encontró que, aunque las dimensiones de la alfabetización en IA basadas en habilidades se asociaban *positivamente* con la dependencia de la IA, tanto la **autoeficacia** académica como la específica de la IA y la [[regulation|regulación]] del esfuerzo se asociaban *negativamente*, lo que significa que la alfabetización en IA por sí sola no protege contra la dependencia; la [[self-efficacy|autoeficacia]] sí. [[self-efficacy-tutoring-learning|Cen et al. (EC-TEL 2026)]] encontraron que el estudiantado con una autoeficacia inicial más baja lograba mayores ganancias de aprendizaje con independencia del formato de práctica, y que la buena disposición hacia el tutor importaba más en la práctica basada en tutor, lo que subraya el valor de adaptar la práctica a los perfiles motivacionales. Conceptos conectados: [[self-efficacy|autoeficacia]], [[motivation|motivación]], [[agency|agencia]].

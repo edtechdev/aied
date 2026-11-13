@@ -1,7 +1,7 @@
 ---
 title: "Teacher Hive"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-13T14:15:00-05:00"
 type: resource
 summary: "Una plataforma de alojamiento de uso gratuito de Tony Vincent donde el profesorado publica aplicaciones web de aula generadas por IA, las comparte por enlace o código QR y explora cientos de aplicaciones creadas por otros docentes."
 url: https://teacherhive.app/
@@ -14,7 +14,7 @@ foundations: [teacher-ai-competency]
 technology: [generative-ai]
 audience: [instructors, instructional designers]
 level: [k 12, teacher education]
-source_updated: "2026-11-10T19:52:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/teacher-hive
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -31,7 +31,7 @@ ai_assist:
 
 ## Qué puede hacer con ella
 
-**Explore** las aplicaciones publicadas por colección —descansos mentales, artes del lenguaje, matemáticas, ciencias, estudios sociales, herramientas docentes— y después **publique** una aplicación pegando HTML y añadiendo un nombre, una descripción, un icono y la atribución de IA. Cada aplicación obtiene una página de información con un botón de inicio y visualización del código QR, y se abre sin marca ni inicio de sesión del estudiantado. Una capa opcional de **Superpowers** añade respuestas guardadas, llamadas a la IA, correo y almacenamiento de archivos, medidos según el plan. Para una sola aplicación que no necesita galería, dos alternativas gratuitas funcionan por arrastrar y soltar: [Cloudflare Drop](https://www.cloudflare.com/drop/) publica una carpeta, un zip o un único archivo HTML en una URL de workers.dev sin cuenta, siempre que el despliegue se reclame en un plazo de 60 minutos, y [Netlify Drop](https://app.netlify.com/drop) publica las mismas entradas en un enlace público con su plan gratuito.
+**Explore** las aplicaciones publicadas por colección (descansos mentales, artes del lenguaje, matemáticas, ciencias, estudios sociales, herramientas docentes), y después **publique** una aplicación pegando HTML y añadiendo un nombre, una descripción, un icono y la atribución de IA. Cada aplicación obtiene una página de información con un botón de inicio y visualización del código QR, y se abre sin marca ni inicio de sesión del estudiantado. Una capa opcional de **Superpowers** añade respuestas guardadas, llamadas a la IA, correo y almacenamiento de archivos, medidos según el plan. Para una sola aplicación que no necesita galería, dos alternativas gratuitas funcionan por arrastrar y soltar: [Cloudflare Drop](https://www.cloudflare.com/drop/) publica una carpeta, un zip o un único archivo HTML en una URL de workers.dev sin cuenta, siempre que el despliegue se reclame en un plazo de 60 minutos, y [Netlify Drop](https://app.netlify.com/drop) publica las mismas entradas en un enlace público con su plan gratuito.
 
 ## Para quién es
 

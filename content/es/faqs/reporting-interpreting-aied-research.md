@@ -12,7 +12,7 @@ research_method: [literature review]
 audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/reporting-interpreting-aied-research
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -71,7 +71,7 @@ Exponga el techo de forma explícita en la discusión. Un estudio que midió un 
 
 Para las síntesis, informe del tratamiento de los efectos dependientes, la varianza entre estudios, los intervalos de predicción y la evaluación del sesgo de publicación. I² por sí solo no basta. O'Neill encontró una heterogeneidad informada grave allí donde se daba, de 77,2% a 94,4% en 13 metaanálisis, con 12 por encima del 80%, y nunca resuelta: ningún análisis de moderadores alcanzó el tamaño mínimo de subgrupo de diez estudios. Doce metaanálisis trataron los tamaños del efecto dependientes de un mismo estudio como independientes, lo que infla la evidencia aparente. Solo cuatro informaron de la varianza entre estudios (τ²) y solo dos de un intervalo de predicción, y ambos intervalos incluían el cero. El sesgo de publicación no se evaluó de forma válida en ningún caso del conjunto.
 
-Las cifras de heterogeneidad necesitan su modelo adjunto, porque I² depende de la precisión. [[limitations-in-aied-research|Limitaciones de la investigación sobre IA en educación]] documenta una síntesis con I² = 82,98% bajo un modelo de efectos fijos y 15,75% bajo efectos aleatorios. Un lector al que solo se le da la primera cifra no puede saber cuán inconsistente es el corpus. Informe de τ² y de un intervalo de predicción junto a ella, que es además la convención que pide [[meta-analysis-systematic-review|la literatura de revisiones]].
+Las cifras de heterogeneidad necesitan su modelo adjunto, porque I² depende de la precisión. [[limitations-in-aied-research|Limitaciones de la investigación sobre IA en educación]] documenta una síntesis con I² = 82,98% bajo un modelo de efectos fijos y 15,75% bajo efectos aleatorios. Un lector al que solo se le da la primera cifra no puede saber cuán inconsistentes son los estudios agrupados. Informe de τ² y de un intervalo de predicción junto a ella, que es además la convención que pide [[meta-analysis-systematic-review|la literatura de revisiones]].
 
 Después descuente su propio titular. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]] agruparon 1.840 tamaños del efecto de 67 metaanálisis y encontraron que, una vez modelado el sesgo de publicación, el efecto medio cae a aproximadamente un tercio de la mediana publicada (SMD = 0,196 frente a 0,67), con un intervalo de predicción de -1,521 a +1,908. Ese intervalo abarca desde un daño sustancial hasta un beneficio sustancial para un estudio nuevo hipotético. Es la cifra más útil del artículo y la que más probabilidades tiene de desaparecer del resumen.
 
@@ -111,7 +111,7 @@ Informar de los hallazgos nulos y negativos es la otra mitad de una base de evid
 
 **"La media agrupada es lo que les pasará a mis estudiantes."** La media describe el conjunto de estudios, y nada en ella fija un aula concreta. El promedio ajustado por sesgo es SMD = 0,196 y su intervalo de predicción va de -1,521 a +1,908. La heterogeneidad informada se sitúa por encima del 80% en 12 de 13 metaanálisis, y ningún subgrupo del conjunto mayor mostró ganancias consistentes. Un cambio a nivel de estudiante no es identificable a partir de ninguna de las dos cifras.
 
-**"Un resultado nulo significa que la herramienta no funciona."** Un nulo es una afirmación sobre un diseño con una precisión dada, y la ausencia de un efecto detectable en un estudio es un hecho sobre ese estudio. El SMD ajustado por sesgo de 0,196 procede de una literatura en la que todas las pruebas de Egger fueron significativas, así que la lectura defendible del corpus es un promedio pequeño e incierto. Ningún subgrupo por resultado, campo, nivel o papel de la IA del conjunto mayor mostró tampoco ganancias consistentes. El problema documentado en esta literatura es la supresión.
+**"Un resultado nulo significa que la herramienta no funciona."** Un nulo es una afirmación sobre un diseño con una precisión dada, y la ausencia de un efecto detectable en un estudio es un hecho sobre ese estudio. El SMD ajustado por sesgo de 0,196 procede de una literatura en la que todas las pruebas de Egger fueron significativas, así que la lectura defendible es un promedio pequeño e incierto. Ningún subgrupo por resultado, campo, nivel o papel de la IA del conjunto mayor mostró tampoco ganancias consistentes. El problema documentado en esta literatura es la supresión.
 
 **"Un estudio lo resuelve."** Las tasas base dicen lo contrario. El 61% de los estudios primarios revisados tenían problemas de validez, un curso o una institución no autorizan una afirmación general, y un sistema propietario es un blanco móvil atado a una versión del modelo. Un solo estudio es un dato con un diseño adjunto.
 

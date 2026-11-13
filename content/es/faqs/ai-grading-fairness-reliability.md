@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -50,11 +50,11 @@ Respuesta breve para dar a un colega: la calificación con IA se gana un lugar c
 
 Hay tres arreglos que se llaman "calificación con IA" y conllevan obligaciones distintas.
 
-Un **asistente de retroalimentación** redacta comentarios o señala posibles omisiones para que usted los acepte, reescriba o descarte. El riesgo se limita a la calidad del comentario, y usted lee todo antes de que llegue a un estudiante. Un **segundo lector** propone puntuaciones por criterio o señala desacuerdos para estructurar su propia corrección. Sus errores tienen que ser útiles y no solo equivocados: una señal que le devuelve a un envío que habría corregido con descuido vale la pena. Un **calificador principal** produce puntuaciones que se convierten en notas registradas. Ese es el arreglo que la evidencia de esta base de conocimiento no respalda más allá de casos estrechos y validados localmente.
+Un **asistente de retroalimentación** redacta comentarios o señala posibles omisiones para que usted los acepte, reescriba o descarte. El riesgo se limita a la calidad del comentario, y usted lee todo antes de que llegue a un estudiante. Un **segundo lector** propone puntuaciones por criterio o señala desacuerdos para estructurar su propia corrección. Sus errores tienen que ser útiles y no solo equivocados: una señal que le devuelve a un envío que habría corregido con descuido vale la pena. Un **calificador principal** produce puntuaciones que se convierten en notas registradas. Ese es el arreglo que la evidencia no respalda más allá de casos estrechos y validados localmente.
 
 Elija el peldaño más bajo que atienda su restricción real. Si su carga de corrección viene de comprobar una clave de respuestas fija, una puntuación determinista ordinaria es más transparente y auditable que un [[llm|modelo de lenguaje]], y el estudio de farmacia sugiere que la ventaja del LLM en los ítems objetivos era en parte un artefacto de haberle entregado las respuestas correctas durante la calificación. Reserve el modelo para el trabajo que necesita interpretación y después revise esa interpretación.
 
-[[automated-assessment|La evaluación automatizada]] abarca la maquinaria más amplia de puntuación, moderación y generación de retroalimentación. Esta página es la pregunta de juicio que hay debajo.
+[[automated-assessment|La evaluación automatizada]] abarca la maquinaria más amplia de puntuación, moderación y generación de retroalimentación. La pregunta de juicio que hay debajo es si alguna de esa maquinaria es lo bastante justa y fiable para registrar una nota.
 
 ## Lo que la evidencia muestra en realidad
 

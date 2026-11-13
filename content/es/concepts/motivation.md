@@ -1,7 +1,7 @@
 ---
 title: Motivación
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-11-05T16:52:00-05:00"
+updated: "2026-11-13T14:15:59-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ ai_assist:
 
 ## Introducción
 
-La motivación es un constructo fundacional en la investigación educativa, y el auge de la IA en la educación lo ha vuelto más decisivo: las herramientas de IA pueden eliminar fricciones y hacer el aprendizaje más accesible, pero también pueden reducir el esfuerzo cognitivo y la dificultad que sostienen la motivación intrínseca y el aprendizaje profundo. Los artículos de esta base de conocimiento exploran la motivación en herramientas de IA dirigidas a quien aprende, en sistemas de IA dirigidos al profesorado y en los mecanismos psicológicos —[[self-determination-theory|autodeterminación]], [[self-efficacy-tutoring-learning|autoeficacia]], emociones— a través de los cuales la IA configura la conducta motivada.
+La motivación es un constructo fundacional en la investigación educativa, y el auge de la IA en la educación lo ha vuelto más decisivo. Una IA que hace una tarea más fácil puede también hacerla menos motivadora, ya que el esfuerzo mismo forma parte de lo que sostiene el interés. La investigación explora la motivación en herramientas de IA dirigidas a quien aprende, en sistemas de IA dirigidos al profesorado y en los mecanismos psicológicos —[[self-determination-theory|autodeterminación]], [[self-efficacy-tutoring-learning|autoeficacia]], emociones— a través de los cuales la IA configura la conducta motivada.
 
 - **[[lee-wu-gender-motivation-genai-achievement-2026|Lee y Wu]]** muestran que el género y la motivación impulsan una implicación diferencial con la IA generativa, con trayectorias distintas de [[learning-gains|rendimiento]].
 

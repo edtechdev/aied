@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 - Recuerde alguna vez en que entendió algo de verdad solo después de explicárselo a otra persona. ¿Qué ocurría mentalmente y por qué cree que enseñar produce una comprensión más profunda que estudiar en solitario?
 - Una idea común es que enseñar es cosa de expertos y que quien es novato no tiene nada que aportar. Sin embargo, «aprender enseñando» se apoya en la premisa contraria: prepararse para enseñar obliga a organizar el conocimiento y a encontrar las propias lagunas. ¿Cómo replantea eso quién se beneficia de enseñar?
-- La página describe «agentes enseñables»: software al que el estudiantado enseña como parte de su aprendizaje. Con un LLM, se puede configurar un chatbot como una persona tutorada novata y falible que hace preguntas y comete errores. ¿Qué habría que diseñar en esa persona tutorada para que realmente mejore el aprendizaje y no sea solo una charla?
+- Los «agentes enseñables» son software al que el estudiantado enseña como parte de su aprendizaje. Con un LLM, se puede configurar un chatbot como una persona tutorada novata y falible que hace preguntas y comete errores. ¿Qué habría que diseñar en esa persona tutorada para que realmente mejore el aprendizaje y no sea solo una charla?
 - Un reto es la «falibilidad de ingeniería»: los modelos de IA están entrenados para dar respuestas expertas y fluidas, lo contrario del novato que lucha, que es lo que quiere el paradigma de aprender enseñando. ¿Por qué podría ser más eficaz para el aprendizaje una persona tutorada propensa a errores que una correcta?
 - Un agente enseñable basado en ChatGPT mejoró el aprendizaje, pero su tendencia a generar código correcto limitó la práctica de corrección de errores. ¿Cómo podría una herramienta que siempre da la respuesta correcta perjudicar precisamente a quien aprende y necesita practicar la detección y la corrección de errores?
 - Si tuviera que diseñar una actividad de aprender enseñando para su propia clase, ¿qué haría que la tarea de enseñar fuera lo bastante *consecuente* como para que el estudiantado se esforzara de verdad en lugar de copiar y pegar una respuesta?
@@ -44,7 +44,7 @@ Aprender enseñando se apoya en el hallazgo de que prepararse para enseñar y ex
 
 Los **agentes enseñables** son los sistemas de software mediante los cuales se operacionaliza el aprender enseñando: quien aprende enseña a un sistema como parte de su aprendizaje. Los agentes enseñables tradicionales se basaban en reglas o en recuperación y solo podían responder a comandos limitados; su limitación clave era la incapacidad de mantener un diálogo en lenguaje natural. Los [[llm|grandes modelos de lenguaje]] cambian esto: pueden adoptar roles de forma flexible mediante [[prompt-engineering|prompts]], incluido el rol de una «persona tutorada» que hace preguntas o comete errores, y mantener un diálogo abierto, lo que hace posible el LbT en dominios menos estructurados (escritura, vocabulario) de lo que antes era posible.
 
-La base de evidencia de la base de conocimiento sitúa este giro en los **agentes enseñables conversacionales basados en LLM**:
+La evidencia sitúa este giro en los **agentes enseñables conversacionales basados en LLM**:
 
 - **ChatGPT como agente enseñable** ([[chatgpt-teachable-agent-programming-lbt-2024|Chen et al.]]) apoya el LbT en programación y mejora las ganancias de conocimiento, la capacidad de programación y el [[self-regulated-learning|aprendizaje autorregulado]], aunque su tendencia a generar código correcto limita la práctica de corrección de errores.
 - **Explique a escala** ([[explique-teachable-agent-algorithms-546-students-2026|Wang et al.]]) desplegó un agente enseñable de IA (Algorithm Apprentice) con 546 estudiantes a lo largo de un semestre de 11 semanas y encontró que el diálogo orientado a la explicación predice menos envíos incorrectos de cuestionarios, mientras que la reutilización de contenido externo predice más.
@@ -63,7 +63,7 @@ Un reto central de diseño para los agentes enseñables basados en LLM es que lo
 
 ## Preguntar, autorregulación y aprendizaje activo
 
-Dos prestaciones más se repiten en toda la base de conocimiento:
+Dos prestaciones más se repiten en toda la evidencia:
 
 - **Las preguntas identifican lagunas de conocimiento.** Los sistemas de LbT usan preguntas generadas por quien aprende para exponer lagunas y reforzar la comprensión, y [[teaching-ai-vocabulary-lbt-llms-2026|las preguntas generadas por LLM]] sustituyen a los generadores rígidos basados en plantillas.
 - **La explicación inversa saca a la luz lo que la aclaración pasa por alto.** En un sistema de repaso posterior a la clase con 22 participantes, la explicación inversa reflexiva de un agente par expuso de forma consistente las brechas entre lo que quienes aprendían creían entender y lo que podían articular, algo que la aclaración anclada en la clase por sí sola no había revelado ([[knowloop-confusion-to-consolidation-2026|Fang y Reidsma (2026)]]).
@@ -118,7 +118,7 @@ La [[research-methods-aied|investigación]] anterior converge en unos pocos patr
 
 ## Conceptos conectados
 
-- [[pedagogical-patterns]] — Explicar a una persona tutorada de IA: la secuencia mejor evidenciada de la base de conocimiento
+- [[pedagogical-patterns]] — Explicar a una persona tutorada de IA: la secuencia mejor evidenciada de la literatura
 - [[generative-ai]]
 - [[active-learning]]
 - [[constructivist]]

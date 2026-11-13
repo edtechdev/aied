@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
 translation_of: concepts/educational-technology-developers
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Desarrolladores de tecnología educativa** — las personas y las organizaciones que construyen tecnología educativa: diseñadores de producto, desarrolladores de software, ingenieros de aprendizaje, diseñadores de analítica del aprendizaje y las empresas de tecnología educativa, los laboratorios universitarios y los proyectos de [[open-source|código abierto]] en los que trabajan. En la [[ai-education|IA en la educación]], este es el rol que convierte la capacidad de un modelo en algo que un [[teacher-role|docente]] o una persona que aprende puede usar de verdad. Conlleva decisiones que ninguna etapa posterior puede deshacer: en qué evidencia se apoya una afirmación de diseño, hasta qué punto una canalización de [[learning-analytics|analítica]] o un sistema de [[intelligent-tutoring|tutoría]] se fundamenta en el material con licencia de la propia institución, si se incluye a docentes y estudiantes en el diseño. También fija qué supuestos de [[learning-design|diseño instruccional]] quedan incrustados en los valores por defecto, y qué ocurre con el producto cuando se acaba la financiación. A lo largo de los informes de sistemas y los estudios de despliegue de esta base de conocimiento, la lección recurrente es que el contexto de despliegue, y no el modelo, suele ser la restricción vinculante.
+> **Desarrolladores de tecnología educativa** — las personas y las organizaciones que construyen tecnología educativa: diseñadores de producto, desarrolladores de software, ingenieros de aprendizaje, diseñadores de analítica del aprendizaje y las empresas de tecnología educativa, los laboratorios universitarios y los proyectos de [[open-source|código abierto]] en los que trabajan. En la [[ai-education|IA en la educación]], este es el rol que convierte la capacidad de un modelo en algo que un [[teacher-role|docente]] o una persona que aprende puede usar de verdad. Conlleva decisiones que ninguna etapa posterior puede deshacer: en qué evidencia se apoya una afirmación de diseño, hasta qué punto una canalización de [[learning-analytics|analítica]] o un sistema de [[intelligent-tutoring|tutoría]] se fundamenta en el material con licencia de la propia institución, si se incluye a docentes y estudiantes en el diseño. También fija qué supuestos de [[learning-design|diseño instruccional]] quedan incrustados en los valores por defecto, y qué ocurre con el producto cuando se acaba la financiación. A lo largo de los informes de sistemas y los estudios de despliegue, la lección recurrente es que el contexto de despliegue, y no el modelo, suele ser la restricción vinculante.
 
 ## Preguntas para reflexionar
 
@@ -35,7 +35,7 @@ ai_assist:
 
 ## Introducción
 
-El desarrollador se sitúa un nivel por debajo de la plataforma. [[edtech-platform|La plataforma de tecnología educativa]] describe el sistema desplegado y el grupo de interés en que se convierte una vez que está en un centro o una universidad; esta página trata de las personas que deciden qué hace ese sistema. La distinción importa porque los hallazgos a nivel de plataforma —baja adopción, sesgo de [[equity-in-ai-education|equidad]], fricción en las compras— son normalmente consecuencias de decisiones de diseño tomadas antes, por alguien que nunca conoció a quienes aprenden.
+El desarrollador se sitúa un nivel por debajo de la plataforma. [[edtech-platform|La plataforma de tecnología educativa]] describe el sistema desplegado y el grupo de interés en que se convierte una vez que está en un centro o una universidad; los desarrolladores deciden qué hace ese sistema. La distinción importa porque los hallazgos a nivel de plataforma —baja adopción, sesgo de [[equity-in-ai-education|equidad]], fricción en las compras— son normalmente consecuencias de decisiones de diseño tomadas antes, por alguien que nunca conoció a quienes aprenden.
 
 El rol también es distinto del de sus vecinos. [[learning-design|El diseño del aprendizaje]] y el [[curriculum-design|diseño curricular]] diseñan un curso para una cohorte conocida; un desarrollador de tecnología diseña un producto que usarán muchos cursos, impartidos por personas a las que nunca ha conocido, y por eso los valores por defecto, la configurabilidad y la documentación tienen peso pedagógico. [[educational-development|El desarrollo educativo]] apoya al personal docente de una institución desde dentro de ella; los desarrolladores están fuera o al lado, y proveen las herramientas que luego se pide a ese personal que adopte. Y [[design-based-research|la investigación basada en el diseño]] es el estándar de evidencia que cada vez más se pide a estos desarrolladores que cumplan: iterativo, contextual y reportado con sus propias limitaciones.
 

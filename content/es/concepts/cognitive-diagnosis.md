@@ -7,7 +7,7 @@ technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, studen
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-11-12T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 
 - El diagnóstico cognitivo infiere el estado de conocimiento latente de quien aprende (los conceptos, las habilidades y las ideas erróneas concretos que tiene o le faltan) a partir de sus respuestas, en lugar de limitarse a predecir su próxima calificación. Antes de leer, ¿qué diferencia esperaría entre 'predecir la nota de un estudiante' y 'diagnosticar qué es lo que en realidad no entiende'?
 - Una idea clave es la 'trampa de la respuesta correcta', en la que una respuesta acertada oculta un razonamiento defectuoso. ¿Alguna vez ha estado convencido de que un estudiante entendía algo porque acertó, para descubrir después que debajo había una idea errónea? ¿Cómo podría un diagnóstico sacar eso a la luz donde una calificación no puede?
-- La página distingue el diagnóstico cognitivo (una instantánea estática y de grano fino de lo que quien aprende sostiene en este momento) del seguimiento del conocimiento (la dinámica temporal del dominio a lo largo del tiempo). ¿Por qué necesitaría un tutor inteligente ambos, saber qué está mal y saber qué enseñar después?
+- El diagnóstico cognitivo es una instantánea estática y de grano fino de lo que quien aprende sostiene en este momento; el seguimiento del conocimiento rastrea la dinámica temporal del dominio a lo largo del tiempo. ¿Por qué necesitaría un tutor inteligente ambos, saber qué está mal y saber qué enseñar después?
 - Un principio de diseño aquí es separar el diagnóstico de la retroalimentación: los tutores basados en LLM confirman los pasos correctos, pero rechazan en exceso razonamientos válidos y validan en exceso los errores, y un diagnóstico preciso no produce de forma fiable una retroalimentación accionable. ¿Por qué saber qué está mal puede aun así no dar lugar a un paso siguiente útil?
 - El diagnóstico de la era de los LLM se extiende desde las preguntas de opción múltiple hasta el trabajo abierto, manuscrito y conversacional. ¿Qué podría salir mal si una IA diagnostica una idea errónea a partir de un trabajo que no comprende del todo, y cómo verificaría usted que el propio diagnóstico es fiable?
 

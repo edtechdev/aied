@@ -10,7 +10,7 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -43,7 +43,7 @@ La respuesta que dar a un colega: la mayor parte de lo que impulsa la ansiedad a
 
 **3.** Deles una tarea en la que puedan tener éxito y otra que tengan que criticar. La práctica de bajo riesgo más la [[ai-ed-evaluation|evaluación guiada de productos de IA]] se apoya en mejor evidencia que una charla sobre el futuro del trabajo.
 
-**4.** Meta la cuestión laboral dentro del curso. La adaptabilidad profesional es el mecanismo que identifica el estudio más sólido de esta página, y creer en uno mismo no la sustituyó.
+**4.** Meta la cuestión laboral dentro del curso. La adaptabilidad profesional es el mecanismo que identifica el estudio más sólido aquí, y creer en uno mismo no la sustituyó.
 
 **5.** Conozca su vía de derivación antes de que empiece la conversación, y trate la desesperanza sobre la titulación como la señal, y no la frustración con una herramienta.
 
@@ -113,7 +113,7 @@ El objetivo es bajar la ansiedad. Kim (2026) encontró la ansiedad asociada posi
 
 La confianza protege al estudiantado del daño profesional. En el modelo de Duan et al., la [[self-efficacy|autoeficacia]] no lo amortiguaba. La adaptabilidad profesional era la que sostenía la vía mediada.
 
-Esto es un problema de [[student-support-and-success|servicios estudiantiles]]. La mayoría de los movimientos de esta página son instruccionales: práctica de bajo riesgo, evaluación guiada de productos de IA, revisión impulsada por la retroalimentación y una declaración de expectativas que el estudiantado pueda leer. Conocer la vía de derivación es un elemento entre ellos.
+Esto es un problema de [[student-support-and-success|servicios estudiantiles]]. La mayoría de los movimientos son instruccionales: práctica de bajo riesgo, evaluación guiada de productos de IA, revisión impulsada por la retroalimentación y una declaración de expectativas que el estudiantado pueda leer. Conocer la vía de derivación es un elemento entre ellos.
 
 Un chatbot de bienestar es la respuesta escalable a una capacidad de orientación escasa. La disponibilidad es real y el atractivo es comprensible. La precisión en una única partición de validación no es evidencia de que un estudiante en apuros esté mejor, y las preguntas sobre clasificación errónea, almacenamiento y escalada no tienen respuestas publicadas en el trabajo citado aquí.
 
@@ -125,7 +125,7 @@ Un chatbot de bienestar es la respuesta escalable a una capacidad de orientació
 
 **"Soy docente de una materia, no orientador."** Nadie le está pidiendo que trate a nadie. La práctica de bajo riesgo, una tarea de crítica y un ciclo de revisión son movimientos instruccionales ordinarios. El único hallazgo que habla de su posición es la relación docente-estudiante en segundo lugar en el análisis de importancia de características de Bashir y Afzal (10,0%), por encima de la calidad del sueño (9,3%) y el apoyo social (7,6%). Los autores lo llaman hipótesis, y es una apuesta razonable para un rol que usted ya ocupa.
 
-**"No tenemos capacidad de orientación, así que una herramienta es mejor que nada."** Posiblemente, y esta página no puede resolverlo. Lo que sí puede exigir antes del despliegue son respuestas por escrito sobre la validación de la precisión, cómo se decide el nivel de apoyo, qué pasa en una clasificación errónea dañina, cómo se almacenan las revelaciones y cómo funciona la escalada a una persona. Sin respuestas, no hay despliegue. Un estudiante que se confía a una herramienta que archiva mal su revelación puede que no vuelva a revelarla.
+**"No tenemos capacidad de orientación, así que una herramienta es mejor que nada."** Posiblemente, y la evidencia no puede resolverlo. Lo que sí puede exigir antes del despliegue son respuestas por escrito sobre la validación de la precisión, cómo se decide el nivel de apoyo, qué pasa en una clasificación errónea dañina, cómo se almacenan las revelaciones y cómo funciona la escalada a una persona. Sin respuestas, no hay despliegue. Un estudiante que se confía a una herramienta que archiva mal su revelación puede que no vuelva a revelarla.
 
 **"Si planteo las perspectivas profesionales en clase, me salgo de mi materia."** La alternativa es que el estudiantado arme su respuesta con el mercado laboral y entre sí. Duan et al. recomiendan el trabajo de planificación profesional como parte del programa académico, y Dağ et al. lo recomiendan junto con la alfabetización en IA. Usted puede alojar la conversación sin pretender ser experto en ella y derivar los casos individuales a los servicios de carrera.
 

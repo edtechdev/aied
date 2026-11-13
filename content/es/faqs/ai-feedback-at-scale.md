@@ -11,7 +11,7 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-source_updated: "2026-11-11T09:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-feedback-at-scale
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -102,7 +102,7 @@ Aldino et al. encuentran el mismo patrón de asistencia y verificación en la pr
 
 Doce de los 21 docentes de Aldino et al. hicieron además revisiones de nivel de frase, y el patrón dominante fue calibrar el tono: rebajar el elogio (f = 11), eliminar sugerencias (f = 9), eliminar ánimos (f = 8). Las revisiones se agruparon en la dimensión relacional, sobre todo en la relación entre estudiante y docente (f = 24). Estaban protegiendo la autenticidad y la voz profesional, y ese trabajo no se automatiza.
 
-Los estudiantes son el otro lado de esa verificación, y su relato del reparto del trabajo se acerca al que recomienda esta página. En grupos focales con 20 estudiantes de grado, la retroalimentación del docente se valoró por ser relacional, personalizada y basada en la pericia, mientras que la retroalimentación generada por IA se percibió como impersonal y potencialmente injusta; esos mismos estudiantes se mostraron abiertos a un modelo híbrido en el que el docente lee su trabajo y complementa los comentarios del modelo ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). El mismo estudio encontró que sus juicios coincidían con los de ChatGPT en especificidad y accionabilidad, pero divergían en puntualidad y positividad, así que las dimensiones en las que se puede confiar en el veredicto del propio modelo son más estrechas que la rúbrica completa.
+Los estudiantes son el otro lado de esa verificación, y su relato del reparto del trabajo se acerca al recomendado. En grupos focales con 20 estudiantes de grado, la retroalimentación del docente se valoró por ser relacional, personalizada y basada en la pericia, mientras que la retroalimentación generada por IA se percibió como impersonal y potencialmente injusta; esos mismos estudiantes se mostraron abiertos a un modelo híbrido en el que el docente lee su trabajo y complementa los comentarios del modelo ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). El mismo estudio encontró que sus juicios coincidían con los de ChatGPT en especificidad y accionabilidad, pero divergían en puntualidad y positividad, así que las dimensiones en las que se puede confiar en el veredicto del propio modelo son más estrechas que la rúbrica completa.
 
 ## Enseñe a los estudiantes a leer el comentario
 
@@ -154,6 +154,6 @@ Las valoraciones de satisfacción le dicen que los comentarios son precisos. En 
 
 ## Adónde ir después
 
-[[feedback|La retroalimentación]] es el concepto paraguas de todo el sistema: provisión, bucle, adopción y contexto de evaluación. [[ai-feedback-quality|La calidad de la retroalimentación con IA]] cubre qué hace que los comentarios generados sean precisos, útiles, oportunos y pedagógicamente sólidos, y esta página es el término medio práctico, sobre qué combinaciones de esas partes producen mejor retroalimentación a escala.
+[[feedback|La retroalimentación]] es el concepto paraguas de todo el sistema: provisión, bucle, adopción y contexto de evaluación. [[ai-feedback-quality|La calidad de la retroalimentación con IA]] cubre qué hace que los comentarios generados sean precisos, útiles, oportunos y pedagógicamente sólidos, y la pregunta práctica es qué combinaciones de esas partes producen mejor retroalimentación a escala.
 
-Las preguntas sobre qué debería significar una nota una vez que hay IA implicada, incluida la sustitución del constructo, la evidencia de proceso autenticada y las normas de integridad, pertenecen a [[redesign-assessment-ai-era|rediseñar la evaluación en la era de la IA]] y a [[assessment-validity|validez de la evaluación]] y no a esta página. Para el caso especial de la enseñanza de la escritura, consulte [[writing-instruction-ai-best-practices|buenas prácticas para la enseñanza de la escritura en el contexto de la IA]].
+Las preguntas sobre qué debería significar una nota una vez que hay IA implicada, incluida la sustitución del constructo, la evidencia de proceso autenticada y las normas de integridad, pertenecen a [[redesign-assessment-ai-era|rediseñar la evaluación en la era de la IA]] y a [[assessment-validity|validez de la evaluación]] y no a la pregunta práctica. Para el caso especial de la enseñanza de la escritura, consulte [[writing-instruction-ai-best-practices|buenas prácticas para la enseñanza de la escritura en el contexto de la IA]].

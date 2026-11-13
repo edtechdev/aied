@@ -8,7 +8,7 @@ pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learnin
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - La zona de desarrollo próximo de Vygotsky es la distancia entre lo que puede hacer solo y lo que puede hacer con ayuda. Recuerde una ocasión en que una pista bien situada le permitió lograr algo que no podía hacer por su cuenta: ¿qué hizo eficaz esa ayuda y cuándo podría haber revelado demasiado?
-- La página afirma que el pensamiento humano está «mediado» por herramientas culturales como el lenguaje y la escritura que reorganizan nuestra forma de razonar. Si eso es cierto, ¿cómo deberíamos pensar en un [[conversational-ai|chatbot]] de IA como un nuevo tipo de herramienta de pensamiento, y cómo podría cambiar lo que significa «saber»?
+- El pensamiento humano está «mediado» por herramientas culturales como el lenguaje y la escritura que reorganizan nuestra forma de razonar. Si eso es cierto, ¿cómo deberíamos pensar en un [[conversational-ai|chatbot]] de IA como un nuevo tipo de herramienta de pensamiento, y cómo podría cambiar lo que significa «saber»?
 - La teoría sociocultural sostiene que la cognición se distribuye entre personas, artefactos y entornos en lugar de estar dentro de cabezas individuales. ¿Coincide eso con su experiencia de cómo hace realmente las cosas, y qué implicaría para el diseño del aprendizaje si fuera correcto?
 - Si el aprendizaje ocurre primero entre personas y solo después dentro del individuo, ¿cuáles son los riesgos de un tutor de IA que deja al estudiantado interactuar sobre todo con una máquina en lugar de con pares o con una persona más competente?
 - ¿Cómo decidiría cuánto apoyo debe dar un tutor de IA para que quien aprende avance sin que simplemente se le entregue la respuesta?

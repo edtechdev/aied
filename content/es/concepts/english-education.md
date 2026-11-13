@@ -11,7 +11,7 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Este concepto organiza la [[research-methods-aied|investigación]] sobre IA en l
 
 El [[language-learning|aprendizaje de idiomas]] es el paraguas más amplio para adquirir cualquier segunda lengua o lengua extranjera —oral, escrita y alfabetizada— mediante interlocutores de IA, herramientas de pronunciación y práctica conversacional. La enseñanza del inglés es el caso **específico del inglés** y, dentro de ella, el EAP es un caso **específico de registro**:
 
-| Dimensión | [[language-learning|Aprendizaje de idiomas]] | **Enseñanza del inglés (esta página)** |
+| Dimensión | [[language-learning|Aprendizaje de idiomas]] | **Enseñanza del inglés** |
 |-----------|----------------------|-----------------------------------|
 | Lengua meta | Cualquier L2 (francés, español, japonés…) | El inglés en concreto |
 | Enfoque | Adquisición de L2 en general: [[speech-and-voice-technologies|diálogo oral]], pronunciación, alfabetización | El inglés como lengua meta + el registro del inglés académico |
@@ -67,7 +67,7 @@ Ambas se solapan mucho (la mayor parte del aprendizaje del inglés es también a
 
 La [[writing-education|enseñanza de la escritura]] se ocupa de la escritura como habilidad cognitiva y retórica general —en todas las lenguas y disciplinas, desde la composición hasta la integridad académica—. La enseñanza del inglés se centra específicamente en el **inglés** y, dentro del EAP, en el **registro académico**:
 
-| Dimensión | [[writing-education|Enseñanza de la escritura]] | **Enseñanza del inglés (esta página)** |
+| Dimensión | [[writing-education|Enseñanza de la escritura]] | **Enseñanza del inglés** |
 |-----------|----------------------|-----------------------------------|
 | Alcance | La escritura en general (cualquier lengua, cualquier género) | El inglés como lengua meta + el registro del inglés académico |
 | Preocupación característica | La composición, la revisión, la [[agency|agencia]], la autoría | El género en EAP, el registro académico, la escritura en L2/EFL, la [[feedback-literacy|alfabetización en retroalimentación]] en inglés |

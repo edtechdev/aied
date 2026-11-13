@@ -10,7 +10,7 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/verify-ai-output
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -151,4 +151,4 @@ Desconfíe de la sensación de que la prosa se lee bien. A los novatos a quienes
 
 ## Adónde ir después
 
-[[incorporating-ai-literacy]] cubre cómo construir la comprensión que esta página pone a trabajar, y [[ai-literacy-evidence]] cubre cuánto vale ese trabajo de alfabetización. [[reducing-over-reliance]] aborda el lado del diseño para los estudiantes que se apoyan en la herramienta, [[study-with-ai]] es el compañero orientado al estudiante, y [[asynchronous-online-courses-ai]] cubre la versión de este problema en la que no hay clase presencial en la que programar una comprobación. Sobre la retroalimentación que los estudiantes comprueban, véase [[ai-feedback-quality]] y [[hallucination-risk]].
+[[incorporating-ai-literacy]] cubre cómo construir la comprensión de la que depende la verificación, y [[ai-literacy-evidence]] cubre cuánto vale ese trabajo de alfabetización. [[reducing-over-reliance]] aborda el lado del diseño para los estudiantes que se apoyan en la herramienta, [[study-with-ai]] es el compañero orientado al estudiante, y [[asynchronous-online-courses-ai]] cubre la versión de este problema en la que no hay clase presencial en la que programar una comprobación. Sobre la retroalimentación que los estudiantes comprueban, véase [[ai-feedback-quality]] y [[hallucination-risk]].

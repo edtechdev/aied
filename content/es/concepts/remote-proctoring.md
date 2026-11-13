@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,12 +26,12 @@ ai_assist:
 
 ## Preguntas para reflexionar
 
-- Antes de leer, cuando imagina «la integridad académica en los exámenes en línea», ¿cuál es su primer instinto sobre cómo preservarla, y ese instinto trata de detectar a quien hace trampas o de construir confianza? La página sostiene que ambos reflejan filosofías muy distintas.
+- Antes de leer, cuando imagina «la integridad académica en los exámenes en línea», ¿cuál es su primer instinto sobre cómo preservarla, y ese instinto trata de detectar a quien hace trampas o de construir confianza? Esos instintos reflejan dos filosofías muy distintas.
 - La supervisión remota va desde una persona que observa por webcam hasta sistemas de IA que analizan movimientos oculares, postura de la cabeza y expresiones faciales. ¿Qué observa *realmente* un sistema de IA cuando señala una «conducta sospechosa», y cuánta confianza tiene en que apartar la mirada de la pantalla equivale a hacer trampas?
-- La página advierte de que la vigilancia puede ser contraproducente: sentirse observado eleva la [[anxiety-and-stress|ansiedad ante los exámenes]], y el estudiantado estresado puede ser *más* proclive a hacer trampas. ¿Recuerda alguna vez en que la presión o la vigilancia afectaran a su propio rendimiento? ¿Socava esa experiencia el argumento a favor de la supervisión?
+- La vigilancia puede ser contraproducente: la ansiedad aumenta cuando se siente uno observado, y el estudiantado estresado puede ser *más* proclive a hacer trampas. ¿Recuerda alguna vez en que la presión o la vigilancia afectaran a su propio rendimiento? ¿Socava esa experiencia el argumento a favor de la supervisión?
 - La supervisión automatizada captura el espacio vital, la cara y la voz del estudiantado, a menudo sin más opción real que consentir. ¿Dónde está la línea entre una supervisión razonable del examen y una vigilancia que presume al estudiantado culpable hasta que demuestre ser honesto, y quién debería trazarla?
 - La investigación muestra que la supervisión puede señalar como sospechosa una conducta benigna, produciendo acusaciones falsas, y que la exactitud del modelo varía según la demografía y el entorno. Si usted es [[administrator|administrador]], ¿cómo sopesa la integridad que recupera frente a la equidad y la confianza que puede erosionar?
-- La página enmarca la supervisión como una herramienta y no como una solución: existen alternativas como la evaluación oral y la [[process-oriented-assessment|evaluación basada en el proceso]]. Antes de leer, ¿qué enfoque defendería para la evaluación de alto impacto en un contexto remoto, y qué evidencia le haría cambiar de opinión?
+- La supervisión es una herramienta, no una solución: existen alternativas como la evaluación oral y la [[process-oriented-assessment|evaluación basada en el proceso]]. Antes de leer, ¿qué enfoque defendería para la evaluación de alto impacto en un contexto remoto, y qué evidencia le haría cambiar de opinión?
 
 ## Introducción
 

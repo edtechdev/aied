@@ -7,7 +7,7 @@ technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - Una IA califica la respuesta de un estudiante y reporta una puntuación que suena segura. ¿Sobre qué base confiaría en ese número, y cambia su respuesta al saber que el modelo no se calibró contra ningún estándar de medición?
-- La página advierte contra sustituir la evidencia psicométrica por la confianza bruta del modelo. Piense en alguna ocasión en que creyó una salida segura de la IA que resultó equivocada. ¿Qué hizo que su confianza no estuviera ganada y cómo habría sido en su lugar una salida «consciente de la incertidumbre»?
+- La confianza bruta del modelo no sustituye a la evidencia psicométrica. Piense en alguna ocasión en que creyó una salida segura de la IA que resultó equivocada. ¿Qué hizo que su confianza no estuviera ganada y cómo habría sido en su lugar una salida «consciente de la incertidumbre»?
 - La [[research-methods-aied|investigación]] encontró que, en un mismo instrumento de evaluación, las estructuras de respuesta humana y de los LLM divergen, lo que significa que un modelo puede obtener una buena puntuación y aun así estar midiendo algo distinto de lo que pretende el examen. Si usted fuera [[teacher-role|docente]] y usara un calificador de IA, ¿cómo detectaría que la prueba «significa» algo distinto para la máquina que para su estudiantado?
 - La predicción de la dificultad de los ítems usa LLM para estimar lo difícil que es una pregunta. Antes de seguir leyendo, considere: ¿«qué difícil es esta pregunta?» es un hecho sobre la pregunta o sobre las personas (o los modelos) que la responden? ¿Y qué implica esa ambigüedad para usar la IA a fin de calibrar exámenes?
 - La calibración, la fiabilidad y la validez son conceptos de medición con significados precisos. ¿Cuáles de ellos ha pensado de verdad en su propia práctica de evaluación y en qué puntos podría estar confiando en una salida de IA que nunca se ha comprobado frente a ellos?

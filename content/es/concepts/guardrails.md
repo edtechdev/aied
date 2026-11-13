@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 - En un experimento de campo, un [[intelligent-tutoring|tutor de IA]] sin salvaguardas elevó el rendimiento en la práctica pero redujo las calificaciones posteriores en exámenes sin asistencia, mientras que una versión de «pista, no respuesta» eliminó el daño. ¿Por qué hacer que el estudiantado rinda mejor en el momento puede hacer que aprenda menos?
 - Si un tutor de IA está diseñado para ser «amable» —sin replicar nunca ni dar [[feedback|retroalimentación]] correctiva—, ¿cómo podría eso ser un problema de seguridad en lugar de una función deseable? ¿Cuándo resulta perjudicial un comportamiento complaciente en un contexto educativo?
 - Las salvaguardas se describen como un conjunto por capas de controles, desde el prompting hasta el anclaje en conocimiento, el entrenamiento y la auditoría. Elija una capa y pregúntese: ¿dónde podría fallar, y qué capturaría otra capa que a esa se le escapa?
-- La página señala que las propias salvaguardas pueden estar sesgadas: rechazos y respuestas suavizadas con patrones ligados a la [[learner-identity|identidad del estudiante]]. ¿Cómo auditaría un filtro de seguridad para asegurarse de que no está reproduciendo en silencio la inequidad mientras «protege» a quienes aprenden?
+- Las propias salvaguardas pueden estar sesgadas: rechazos y respuestas suavizadas con patrones ligados a la [[learner-identity|identidad del estudiante]]. ¿Cómo auditaría un filtro de seguridad para asegurarse de que no está reproduciendo en silencio la inequidad mientras «protege» a quienes aprenden?
 - Se describe a quienes aprenden más jóvenes como los menos capacitados para detectar un comportamiento manipulador o sicofántico de la IA. ¿Cómo cambia eso lo que debería significar «seguro» para una herramienta de IA de K-12 en comparación con una universitaria?
 
 ## Introducción

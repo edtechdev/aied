@@ -7,7 +7,7 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/designing-ai-into-learning
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -50,7 +50,7 @@ Empiece por el objetivo de aprendizaje y por la actividad que lo produce. El mis
 
 ## Decida qué hace el estudiante sin la herramienta
 
-El concepto [[pedagogy|Pedagogías y estrategias de enseñanza]] de la base de conocimiento aporta la prueba: ¿la configuración preserva la actividad que produce el aprendizaje buscado? Responda eso por escrito, antes de que nadie elija una función.
+El concepto [[pedagogy|Pedagogías y estrategias de enseñanza]] aporta la prueba: ¿la configuración preserva la actividad que produce el aprendizaje buscado? Responda eso por escrito, antes de que nadie elija una función.
 
 [[finkelstein-principled-ai-education-2025|El marco de educación principiada en IA]] enuncia la regla general: la tecnología debe aumentar, y no desplazar, las capacidades humanas que la educación pretende desarrollar. Expresada como prueba para un módulo, esa regla exige nombrar la capacidad, nombrar la actividad que la construye y preguntar si la IA se sitúa dentro de esa actividad o al margen de ella.
 

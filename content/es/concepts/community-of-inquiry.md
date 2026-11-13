@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -50,7 +50,7 @@ La CoI se ancla en las tradiciones [[constructivist|constructivista]] y pragmát
 
 ## La CoI como marco para la enseñanza en línea
 
-La CoI se originó en la [[online-teaching-and-learning|enseñanza y el aprendizaje en línea]] y sigue siendo lo más fuertemente asociada a ellos. Aporta un vocabulario para diagnosticar *por qué* un curso en línea funciona o fracasa: la baja [[student-engagement|implicación]] y el aislamiento en los cursos asincrónicos suelen ser fallos de la presencia social y docente, mientras que un debate superficial a menudo refleja una presencia cognitiva débil. Esto convierte la CoI en una lente de diseño práctica para las condiciones que crea el propio medio en línea: la eliminación de la copresencia física, la necesidad de construir comunidad de forma deliberada y la estructuración de un debate que sustituya al contacto cara a cara. En la era de la [[generative-ai|IA generativa]], la CoI es también donde el profesorado en línea se enfrenta a las nuevas preguntas más difíciles: quién está «presente» cuando los agentes [[llm|LLM]] publican, moderan o responden, y cómo mantener significativas las tres presencias cuando el discurso generado por máquinas puede imitarlas. Por eso la página sobre enseñanza en línea de esta base de conocimiento trata la comunidad de indagación como el marco central de la línea de presencia social y construcción de comunidad de su práctica recomendada.
+La CoI se originó en la [[online-teaching-and-learning|enseñanza y el aprendizaje en línea]] y sigue siendo lo más fuertemente asociada a ellos. Aporta un vocabulario para diagnosticar *por qué* un curso en línea funciona o fracasa: la baja [[student-engagement|implicación]] y el aislamiento en los cursos asincrónicos suelen ser fallos de la presencia social y docente, mientras que un debate superficial a menudo refleja una presencia cognitiva débil. Esto convierte la CoI en una lente de diseño práctica para las condiciones que crea el propio medio en línea: la eliminación de la copresencia física, la necesidad de construir comunidad de forma deliberada y la estructuración de un debate que sustituya al contacto cara a cara. En la era de la [[generative-ai|IA generativa]], la CoI es también donde el profesorado en línea se enfrenta a las nuevas preguntas más difíciles: quién está «presente» cuando los agentes [[llm|LLM]] publican, moderan o responden, y cómo mantener significativas las tres presencias cuando el discurso generado por máquinas puede imitarlas. La comunidad de indagación es, por tanto, el marco central de la línea de presencia social y construcción de comunidad de su práctica recomendada.
 
 ## La CoI bajo la presión de la IA generativa
 
@@ -72,7 +72,7 @@ Los propios autores del marco ofrecen una taxonomía de roles para esa condició
 ## Implicaciones prácticas
 
 - La relación entre la implicación de la IA generativa y la calidad de la indagación es **condicional a la rendición de cuentas humana** y no lineal: puede haber una presencia fuerte con implicación alta o baja de IA generativa cuando la rendición de cuentas es fuerte, y una presencia débil con cualquiera de las dos cuando la rendición de cuentas es débil.
-- La [[assessment|evaluación]] de la indagación debería pasar de las salidas finales pulidas a la **evidencia sensible al proceso**: rastros de [[prompt-engineering|prompts]] y de revisiones, prácticas de declaración y atribución, movimientos de verificación y registros de interacción. Esto se alinea con el giro más amplio de esta base de conocimiento hacia una evaluación [[authentic-assessment|auténtica]] y [[process-oriented-assessment|que revela el proceso]], y se aleja de las respuestas basadas en la detección.
+- La [[assessment|evaluación]] de la indagación debería pasar de las salidas finales pulidas a la **evidencia sensible al proceso**: rastros de [[prompt-engineering|prompts]] y de revisiones, prácticas de declaración y atribución, movimientos de verificación y registros de interacción. Esto se alinea con el giro más amplio hacia una evaluación [[authentic-assessment|auténtica]] y [[process-oriented-assessment|que revela el proceso]], y se aleja de las respuestas basadas en la detección.
 - En términos pedagógicos, quienes aprenden suelen necesitar formación explícita (por ejemplo, práctica [[simulation|basada en simulación]] con roles guionizados y puntos de decisión con IA generativa) para sostener una indagación auténtica en condiciones de IA generativa, y el profesorado debería modelar cómo interrogar las salidas generadas, lo que depende de construir [[ai-literacy|alfabetización en IA]], [[critical-thinking|valoración crítica]] y una [[trust-calibration|confianza calibrada]].
 
 ## Concepciones erróneas

@@ -1,7 +1,7 @@
 ---
 title: "Educación jurídica"
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-13T14:14:23-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,9 +41,9 @@ ai_assist:
 
 ## Introducción
 
-La educación jurídica prepara al estudiantado para una profesión habilitada con sus propias reglas de conducta, su propio organismo de acreditación y su propio examen de acceso, lo que la convierte en la disciplina de la base de conocimiento donde la [[educational-policy-ai|política educativa]], la [[regulation|regulación]] profesional y la validez de la evaluación se cruzan con más fuerza. Se sitúa junto a la [[medical-education|educación médica y de las profesiones de la salud]] y la [[nursing-education|educación en enfermería]] como disciplina de [[professional-training|formación profesional]] y no como materia escolar, pero su rasgo distintivo es procedimental: buena parte de lo que deben decidir las facultades de derecho no es *cómo* enseñar con IA, sino *qué exigen las normas de ética profesional* a un egresado que ejercerá con ella.
+La educación jurídica prepara al estudiantado para una profesión habilitada con sus propias reglas de conducta, su propio organismo de acreditación y su propio examen de acceso, lo que la convierte en la disciplina donde la [[educational-policy-ai|política educativa]], la [[regulation|regulación]] profesional y la validez de la evaluación se cruzan con más fuerza. Se sitúa junto a la [[medical-education|educación médica y de las profesiones de la salud]] y la [[nursing-education|educación en enfermería]] como disciplina de [[professional-training|formación profesional]] y no como materia escolar, pero su rasgo distintivo es procedimental: buena parte de lo que deben decidir las facultades de derecho no es *cómo* enseñar con IA, sino *qué exigen las normas de ética profesional* a un egresado que ejercerá con ella.
 
-La base de evidencia es hoy escasa y muy centrada en políticas. Un artículo sustancial ancla la página: [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski y Hurley (2025)]] encuestaron y compararon las políticas institucionales sobre IA generativa de facultades de derecho estadounidenses aprobadas por la ABA y propusieron un marco de gobernanza. Ese desequilibrio es en sí mismo un hallazgo, y la página lo señala en lugar de disimularlo.
+La base de evidencia es hoy escasa y muy centrada en políticas. Un artículo sustancial sostiene la mayor parte del peso: [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski y Hurley (2025)]] encuestaron y compararon las políticas institucionales sobre IA generativa de facultades de derecho estadounidenses aprobadas por la ABA y propusieron un marco de gobernanza. Ese desequilibrio es en sí mismo un hallazgo, y se declara abiertamente en lugar de disimularse.
 
 Está empezando a llegar evidencia experimental: [[xie-genai-mystery-game-legal-education-2026|Xie et al. (2026)]] aleatorizaron a 84 estudiantes de grado de Derecho entre un juego de rol de misterio escrito por IA generativa y la clase del mismo docente, y el grupo del juego obtuvo puntuaciones mucho más altas en un postest de conocimiento y razonamiento (*η*² parcial = 0,566).
 
@@ -82,13 +82,13 @@ En un experimento en contexto jurídico, 186 personas legas que decidían sobre 
 
 **Las normas de declaración están sin resolver y tienen consecuencias.** Gutowski y Hurley informan de desacuerdo sobre si debe declararse cualquier uso de IA, de propuestas de formularios de declaración del estudiantado y de falta de consenso sobre la práctica de citación, con el Bluebook todavía en silencio sobre cómo citar la IA generativa. También predicen que los requisitos de declaración acabarán pareciendo tan innecesarios como señalar que un estudiante usó un buscador, lo que es una predicción sobre la vida útil de las reglas que ahora se están escribiendo.
 
-**La ética profesional viaja con el egresado.** El deber de competencia tecnológica de la ABA y sus orientaciones sobre confidencialidad, supervisión y franqueza ante el tribunal se aplican a quienes ejercen con estas herramientas, y las facultades de derecho heredan la tarea de enseñarlas. Por eso la disciplina conecta directamente con el trabajo de la base de conocimiento sobre la [[ai-use-disclosure|declaración del uso de IA]] y sobre las [[legal-issues-and-risks|cuestiones legales y los riesgos]] que surgen cuando las instituciones gobiernan mal la IA.
+**La ética profesional viaja con el egresado.** El deber de competencia tecnológica de la ABA y sus orientaciones sobre confidencialidad, supervisión y franqueza ante el tribunal se aplican a quienes ejercen con estas herramientas, y las facultades de derecho heredan la tarea de enseñarlas. Por eso la disciplina conecta directamente con el trabajo sobre la [[ai-use-disclosure|declaración del uso de IA]] y sobre las [[legal-issues-and-risks|cuestiones legales y los riesgos]] que surgen cuando las instituciones gobiernan mal la IA.
 
 ## Preguntas abiertas
 
 - ¿Los trabajos de escritura jurídica asistidos por IA siguen desarrollando el análisis que la habilitación da por supuesto, o entrenan una fluidez que el examen de habilitación tampoco puede detectar?
 - ¿Qué ocurre con la enseñanza socrática si la lectura preparatoria se delega de forma rutinaria, y el silencio del aula al respecto es un problema de medición o de diseño?
-- La educación jurídica produce a las personas que litigarán y regularán la [[ai-education|IA en la educación]]. ¿Eso la convierte en el lugar natural para poner a prueba el trabajo de la base de conocimiento sobre riesgos legales, o desvía la atención hacia las facultades con las políticas más ruidosas?
+- La educación jurídica produce a las personas que litigarán y regularán la [[ai-education|IA en la educación]]. ¿Eso la convierte en el lugar natural para poner a prueba el trabajo sobre riesgos legales, o desvía la atención hacia las facultades con las políticas más ruidosas?
 
 ## Concepciones erróneas
 

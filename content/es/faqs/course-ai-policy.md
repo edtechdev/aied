@@ -13,7 +13,7 @@ audience: [instructors, curriculum designers]
 level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
-source_updated: "2026-11-12T15:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/course-ai-policy
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -78,7 +78,7 @@ Tres documentos, tres trabajos.
 
 **El aula** lleva la primera declaración oral. Diga la regla una vez, en el momento en que se aplica por primera vez, atada al trabajo que tienen delante. Una regla que un estudiante encuentra solo es una regla que interpreta solo.
 
-La mecánica de la declaración necesita su propio párrafo, y debería ser el más concreto de la página. Los estudiantes que codiseñaron una política de curso mediante indagación guiada priorizaron la formación del estudiantado y del profesorado, los **procedimientos de declaración estandarizados**, un apoyo institucional más sólido y una mayor participación en las decisiones sobre IA ([[guided-inquiry-genai-course-policy-2026|Hingle y Johri (2026)]]). Diga cómo, dónde y en qué forma declara un estudiante el uso, y dígalo una sola vez.
+La mecánica de la declaración necesita su propio párrafo, y debería ser el más concreto de la política. Los estudiantes que codiseñaron una política de curso mediante indagación guiada priorizaron la formación del estudiantado y del profesorado, los **procedimientos de declaración estandarizados**, un apoyo institucional más sólido y una mayor participación en las decisiones sobre IA ([[guided-inquiry-genai-course-policy-2026|Hingle y Johri (2026)]]). Diga cómo, dónde y en qué forma declara un estudiante el uso, y dígalo una sola vez.
 
 [[teaching-intro-ai-course-redesign-bill-of-rights-2026|Pisan (2026)]] encontró una versión más fuerte del mismo movimiento: convertir el registro de prompts en el artefacto calificado. Cuando un modelo hace la producción, el prompt y el registro de la interacción son lo que vale la pena versionar, de modo que la declaración deja de ser papeleo y se convierte en evidencia que el estudiante está construyendo.
 

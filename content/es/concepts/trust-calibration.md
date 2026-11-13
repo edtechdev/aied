@@ -20,7 +20,7 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 translation_of: concepts/trust-calibration
-source_updated: "2026-11-04T18:35:00-05:00"
+source_updated: "2026-11-13T10:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ---
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -29,10 +29,10 @@ translation_note: "Esta es una traducción automática de la página en inglés 
 
 ## Preguntas para considerar
 
-- ¿Ha aceptado alguna vez una respuesta de IA que sonaba segura y plausible, y después descubrió que era errónea? ¿Qué había en la presentación, más que en el contenido, que le ganó la confianza? Ese momento es de lo que trata esta página.
-- La mayoría de la gente supone que el riesgo es confiar demasiado en la IA. Pero la página sostiene que confiar de menos, es decir, evitar por completo una herramienta capaz, es igualmente un fallo de calibración. ¿Se inclina a aceptar o a evitar la producción de la IA, y qué podría estar perdiendo por ese sesgo por defecto?
+- ¿Ha aceptado alguna vez una respuesta de IA que sonaba segura y plausible, y después descubrió que era errónea? ¿Qué había en la presentación, más que en el contenido, que le ganó la confianza?
+- La mayoría de la gente supone que el riesgo es confiar demasiado en la IA. Pero el error opuesto también cuesta aprendizaje: rechazar una herramienta que funciona es en sí mismo un fallo de calibración. ¿Se inclina a aceptar o a evitar la producción de la IA, y qué podría estar perdiendo por ese sesgo por defecto?
 - Una respuesta de IA fluida y segura "se lee como fiable tanto si lo es como si no". Antes de seguir leyendo, ¿qué criterios podría usar para decidir cuándo una salida que suena segura merece de verdad su confianza, y resistirían esos criterios en un tema oscuro y de alto riesgo del que no sabe nada?
-- La página sugiere que la calibración depende del contexto: verificar más donde los errores son costosos y menos donde son benignos. ¿Dónde, en su propio trabajo o estudio, es más alto el costo de una respuesta equivocada, y cómo ajustaría su esfuerzo de verificación en consecuencia?
+- La calibración depende del contexto: verificar más donde los errores son costosos y menos donde son benignos. ¿Dónde, en su propio trabajo o estudio, es más alto el costo de una respuesta equivocada, y cómo ajustaría su esfuerzo de verificación en consecuencia?
 - La [[research-methods-aied|investigación]] modela la confianza como algo moldeado no solo por el juicio individual sino por su entorno social, por lo que hacen sus pares y sus redes. Piense en una ocasión en que un compañero de clase, un colega o una comunidad en línea le convenciera de que una IA era (o no era) fiable. ¿Calibró a partir de la evidencia o de esa señal social?
 - Un hallazgo: decir a los estudiantes que un [[intelligent-tutoring|tutor de IA]] puede equivocarse aumentó en realidad cuánto lo usaban. ¿Por qué advertir sobre la falibilidad podría hacer que la gente esté *más* dispuesta a implicarse, y qué sugiere eso sobre cómo la honestidad acerca de los límites de la IA debería moldear su propio uso de estas herramientas?
 
@@ -67,6 +67,7 @@ Las percepciones sociales asociadas al agente, y no la precisión, construyeron 
 [[du-yuan-epistemic-dependence-2026|Du y Yuan (2026)]] separan la *dependencia productiva* de la *dependencia dañina* mediante seis criterios diagnósticos (contestabilidad, recuperabilidad, transferencia, trazabilidad, responsabilidad distribuida y pluralidad epistémica) y distinguen la asistencia instrumental (ayudar a producir un resultado) de la asistencia portadora de juicio (suministrar los estándares con los que se juzga el resultado), siendo esta última donde la dependencia se vuelve educativamente significativa.
 
 - **Los estudiantes pueden leer la falibilidad deliberada de un agente par como malfuncionamiento.** En el estudio de Copa, se dijo a los estudiantes que el agente podía equivocarse y se les pidió evaluar sus sugerencias. Cuando una sugerencia degradó su modelo, varios concluyeron que el agente había dado información incorrecta y pasaron a ensayo y error en lugar de reexaminar el razonamiento. Un diseño que protege la agencia epistémica reteniendo respuestas presupone, por tanto, una habilidad de calibración que los estudiantes de este estudio todavía no tenían, lo que es una restricción más fuerte para los diseños de agentes pares que para los agentes de tutoría ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
+- **La calibración necesita una comprobación, no exposición.** [[trust-ai-assistants-consistently-wrong-2026|Jones et al. (2026)]] encontraron que un modelo que se equivocaba en todos los intercambios previos aún persuadía al 48% de los participantes cuando no recibían retroalimentación, frente al 21% de dependencia de uno sistemáticamente exacto una vez que llegaba la retroalimentación.
 
 ### La calibración como problema de diseño
 
@@ -172,6 +173,7 @@ La calibración es un estado, no un resultado, y el resultado que autoriza tiene
 - [[cognitive-surrender]]
 
 ## Artículos conectados
+- [[trust-ai-assistants-consistently-wrong-2026]] — ¿Confía la gente en los asistentes de IA incluso cuando se equivocan sistemáticamente?
 - [[shi-human-ai-complementarity-safety-2026]] — 416 evaluadores, 3.957 ítems: la asistencia con el candidato primero redujo la detección de errores en los ítems fallados por el modelo del 36,7% al 20,6% (Shi et al., 2026)
 - [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — Cuando el consejo de la IA coincide o no con el juicio humano: confianza, autoeficacia, resiliencia psicológica y respuestas adaptativas en educación física
 - [[children-verification-ai-suggestions-game-2026]] — Conductas de verificación de los niños en la colaboración humano-IA basada en juegos

@@ -12,7 +12,7 @@ ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/edtech-platform
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Plataforma edtech** — los sistemas digitales, los sistemas de gestión del aprendizaje (LMS), los sistemas de tutoría y los [[online-teaching-and-learning|entornos de aprendizaje en línea]] a través de los cuales la IA llega a quienes aprenden y a quienes enseñan. En la [[ai-education|IA en la educación]], la plataforma es la *capa de infraestructura* que determina si una capacidad de IA llega al estudiantado, cómo se despliega (abierta o propietaria, integrada o independiente) y quién puede acceder a ella, adaptarla y evaluarla. La investigación de esta base de conocimiento examina las plataformas desde varios ángulos: su diseño, sus restricciones de adopción y de implicación, su gobernanza institucional y sus implicaciones de equidad.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
+> **Plataforma edtech** — los sistemas digitales, los sistemas de gestión del aprendizaje (LMS), los sistemas de tutoría y los [[online-teaching-and-learning|entornos de aprendizaje en línea]] a través de los cuales la IA llega a quienes aprenden y a quienes enseñan. En la [[ai-education|IA en la educación]], la plataforma es la *capa de infraestructura* que determina si una capacidad de IA llega al estudiantado, cómo se despliega (abierta o propietaria, integrada o independiente) y quién puede acceder a ella, adaptarla y evaluarla. La investigación examina las plataformas desde varios ángulos: su diseño, sus restricciones de adopción y de implicación, su gobernanza institucional y sus implicaciones de equidad.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
 
 ## Preguntas para reflexionar
 
@@ -48,7 +48,7 @@ Las plataformas de la IA en la educación desempeñan varias funciones distintas
 - **Recoger y analizar datos de aprendizaje** — el sustrato de la [[learning-analytics|analítica del aprendizaje]] y del [[student-modeling|modelado del estudiantado]].
 - **Gobernar el acceso y el despliegue** — decisiones sobre [[open-source|código abierto]] frente a propietario, local frente a nube, y qué instituciones y qué estudiantes pueden usarla.
 
-## Hallazgos clave de los artículos de la base de conocimiento
+## Hallazgos clave de la investigación
 
 ### La adopción, y no la capacidad, es a menudo la restricción vinculante
 

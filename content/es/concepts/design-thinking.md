@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: concepts/design-thinking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **El pensamiento de diseño** — un concepto clave en la investigación sobre [[ai-education|IA en la educación]]: un proceso de [[problem-solving|resolución de problemas]] iterativo y centrado en las personas (típicamente Empatizar → Definir → Idear → Prototipar → Probar) que lleva a quien aprende de comprender un problema a producir y refinar una solución. Se explora en 8 artículos de esta base de conocimiento.
+> **El pensamiento de diseño** — un concepto clave en la investigación sobre [[ai-education|IA en la educación]]: un proceso de [[problem-solving|resolución de problemas]] iterativo y centrado en las personas (típicamente Empatizar → Definir → Idear → Prototipar → Probar) que lleva a quien aprende de comprender un problema a producir y refinar una solución. Se explora en 8 artículos.
 
 ## Preguntas para reflexionar
 
@@ -30,14 +30,14 @@ ai_assist:
 - La IA generativa destaca en la ideación temprana, pero puede provocar «fijación en el diseño» o bloqueo estético si se usa sin criterio. ¿Se ha aferrado alguna vez a la primera sugerencia de la IA y le ha costado ver alternativas?
 - Un estudio encontró que una IA adversaria que desafiaba a quienes diseñaban produjo más iteraciones, una exploración más amplia y mejores diseños finales, pero resultaba frustrante de usar. ¿Cuándo es genuinamente productiva la fricción con una IA?
 - El estudiantado que usó IA generativa de forma intensiva en diseño informó de que NO redujo su sensación de autoría ni su creatividad. ¿Contradice eso la preocupación de que la IA erosiona la autoría, o depende de cómo se orqueste la herramienta?
-- El pensamiento de diseño entra en este corpus por dos vías: como una habilidad que se enseña y se evalúa en el estudiantado, y como un enfoque que el profesorado adopta cuando crea aprendizaje apoyado por IA. ¿Qué papel es más relevante para su trabajo y cómo cambia eso los principios de diseño que aplicaría? que se enseña como un método que usa el personal docente para construir aprendizaje apoyado por IA. ¿Qué papel es más relevante para su trabajo y cómo cambia eso los principios de diseño que aplicaría?
-- En la práctica, la mayor parte del esfuerzo se dedica a la iteración de [[prompt-engineering|prompts]] y a la generación, mientras que la evaluación de las necesidades del estudiantado y los bucles de retroalimentación quedan desatendidos. ¿Qué implica tratar la IA como una «colaboradora cointeligente falible» en lugar de como un generador de contenido? y la generación, pero desaprovechan la evaluación de necesidades y los bucles de retroalimentación. ¿Qué implica tratar la IA como una «colaboradora cointeligente falible» en lugar de como un generador de contenido?
+- El pensamiento de diseño entra en la educación apoyada por IA por dos vías: como una habilidad que se enseña y se evalúa en el estudiantado, y como un enfoque que el profesorado adopta cuando crea aprendizaje apoyado por IA. ¿Qué papel es más relevante para su trabajo y cómo cambia eso los principios de diseño que aplicaría?
+- En la práctica, la mayor parte del esfuerzo se dedica a la iteración de [[prompt-engineering|prompts]] y a la generación, mientras que la evaluación de las necesidades del estudiantado y los bucles de retroalimentación quedan desatendidos. ¿Qué implica tratar la IA como una «colaboradora cointeligente falible» en lugar de como un generador de contenido?
 
 ## Introducción
 
-El pensamiento de diseño se sitúa en la intersección de la creatividad, el oficio y la crítica, y es cada vez más el terreno donde [[generative-ai|la IA generativa]] y [[agentic-ai|la IA agéntica]] están remodelando cómo aprende a diseñar el estudiantado. En los artículos conectados de esta base de conocimiento, el pensamiento de diseño aparece en dos papeles distintos: como *[[pedagogy|objeto pedagógico]]* (la habilidad que se enseña y se mide) y como *método pedagógico* (el proceso que usa el propio personal docente para construir aprendizaje apoyado por IA). En ambos papeles se repite la misma tensión: las herramientas generativas pueden acelerar la ideación y ampliar la participación, pero su valor depende de cómo se orquesten, de la [[feedback|retroalimentación]] que ofrezcan y de si quien aprende conserva una sensación genuina de [[agency|agencia]].
+El pensamiento de diseño se sitúa en la intersección de la creatividad, el oficio y la crítica, y es cada vez más el terreno donde [[generative-ai|la IA generativa]] y [[agentic-ai|la IA agéntica]] están remodelando cómo aprende a diseñar el estudiantado. En la investigación, el pensamiento de diseño aparece en dos papeles distintos: como *[[pedagogy|objeto pedagógico]]* (la habilidad que se enseña y se mide) y como *método pedagógico* (el proceso que usa el propio personal docente para construir aprendizaje apoyado por IA). En ambos papeles se repite la misma tensión: las herramientas generativas pueden acelerar la ideación y ampliar la participación, pero su valor depende de cómo se orquesten, de la [[feedback|retroalimentación]] que ofrezcan y de si quien aprende conserva una sensación genuina de [[agency|agencia]].
 
-## Evidencia de la base de conocimiento
+## Evidencia de la investigación
 
 - **La IA generativa en talleres de diseño y arquitectura.** Dos estudios centrados en arquitectura anclan el concepto en la [[arts-design-and-media-education|pedagogía de taller]]. [[genai-architecture-education|Gen-AI-tecture]] encontró que una [[discipline-specific-aied|herramienta específica de la disciplina]] ejecutada localmente ejecutada localmente mejoraba la fluidez creativa, ampliaba la participación entre perfiles diversos de estudiantes y reforzaba la confianza en flujos de trabajo apoyados por IA, una señal importante para [[equity-in-ai-education|la equidad en la educación con IA]] a medida que el diseño visual y espacial se vuelve más accesible. [[genai-architectural-design-studios|La IA generativa en los talleres de diseño arquitectónico]] encontró igualmente que el estudiantado la usaba como estímulo visual y recurso inspiracional en la ideación temprana y como método combinatorio para ampliar el espacio de soluciones durante el desarrollo. Lo crucial es que ambos advierten de que, sin discernimiento crítico, el estudiantado corre el riesgo de caer en la **fijación en el diseño** o el bloqueo estético, lo que reformula el [[teacher-role|rol docente]] en [[higher-ed|la educación superior]]: de transmitir oficio a acompañar cómo, cuándo y por qué delegar la exploración creativa en modelos generativos. La [[creativity|creatividad]] se preserva así e incluso se amplifica, pero solo bajo una orquestación pedagógica cuidadosa.
 

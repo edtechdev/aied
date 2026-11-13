@@ -1,7 +1,7 @@
 ---
 title: "Alianzas pedagógicas"
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-13T14:15:59-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ Las alianzas pedagógicas, llamadas también **estudiantes como socios (SaP)**, 
 
 La alianza pedagógica cuestiona el supuesto arraigado de que no se puede confiar en el estudiantado para colaborar en la enseñanza y el aprendizaje, y altera de forma activa las jerarquías tradicionales centradas en el profesorado. Se solapa conceptualmente con el [[collaborative-learning|aprendizaje colaborativo]], la [[agency|agencia de quien aprende]] y la [[student-engagement|implicación estudiantil]], pero se distingue por situar al estudiantado en el *diseño* de la educación misma (currículo, evaluación, actividades de enseñanza, recursos educativos abiertos y política) y no solo como participante activo dentro de un curso prediseñado.
 
-En la era de la [[generative-ai|IA generativa]], la alianza pedagógica ha adquirido una urgencia nueva. A medida que la IA amplifica las narrativas deficitarias que presentan al estudiantado como tramposo o como víctima (véanse [[ai-misuse-learning-harm]] y [[framing-ai-use-for-students]]), la alianza ofrece una contranarrativa: en lugar de vigilar al estudiantado o dar por supuesto un mal uso, el profesorado y las instituciones pueden implicarlo como codesñador de las políticas, las herramientas y las prácticas de IA. Esto se refleja en toda la investigación de la base de conocimiento, desde estudiantes que codiseñan las políticas de IA de un curso hasta estudiantes que cocrean herramientas de IA personalizadas y coconstruyen criterios de evaluación.
+En la era de la [[generative-ai|IA generativa]], la alianza pedagógica ha adquirido una urgencia nueva. A medida que la IA amplifica las narrativas deficitarias que presentan al estudiantado como tramposo o como víctima (véanse [[ai-misuse-learning-harm]] y [[framing-ai-use-for-students]]), la alianza ofrece una contranarrativa: en lugar de vigilar al estudiantado o dar por supuesto un mal uso, el profesorado y las instituciones pueden implicarlo como codesñador de las políticas, las herramientas y las prácticas de IA. Esto se refleja en toda la investigación: desde estudiantes que codiseñan las políticas de IA de un curso hasta estudiantes que cocrean herramientas de IA personalizadas y coconstruyen criterios de evaluación.
 
 ## Formas y alcance de la alianza
 
@@ -62,7 +62,7 @@ En todas estas formas, la alianza es un *proceso y una relación*, no solo una a
 
 ## La alianza pedagógica y la IA en la educación
 
-La intersección entre la alianza pedagógica y la IA es uno de los hilos de más rápido crecimiento de la base de conocimiento. Temas clave:
+La intersección entre la alianza pedagógica y la IA es uno de los hilos de más rápido crecimiento del campo. Temas clave:
 
 - **El estudiantado como codesñador de las políticas de IA.** En lugar de que las instituciones impongan reglas de IA al estudiantado, la alianza lo sitúa como cocreador de la política de IA del curso y de la institución. Por ejemplo, una actividad de indagación guiada en la que el estudiantado codiseñó la política de IA de un curso de [[generative-ai|IA generativa]] hizo aflorar sus prioridades en materia de formación, divulgación estandarizada, apoyo institucional y participación en la toma de decisiones ([[guided-inquiry-genai-course-policy-2026]]).
 - **El estudiantado como cocreador de herramientas de IA.** En los marcos de estudiantes como socios, el estudiantado ha codiseñado y refinado [[conversational-ai|chatbots]] de IA personalizados y alineados con objetivos pedagógicos, un enfoque que extiende el paradigma SaP hasta incluir las propias herramientas de IA y sitúa la voz del estudiantado en el centro de una innovación responsable en IA ([[lo-co-creating-custom-gpts-sap-2026]]).
@@ -101,7 +101,7 @@ La alianza pedagógica se relaciona con varios conceptos vecinos, pero se distin
 
 ## Implicaciones prácticas
 
-Para el profesorado y las instituciones que quieran adoptar la alianza pedagógica, la investigación de la base de conocimiento sugiere lo siguiente:
+Para el profesorado y las instituciones que quieran adoptar la alianza pedagógica, la investigación sugiere lo siguiente:
 
 1. **Empiece poco a poco e itere.** Comience con un proyecto acotado, un piloto con un número limitado de participantes, y reconozca el esfuerzo de quienes participan (empleo, créditos, certificados, publicación).
 2. **Apóyese en la infraestructura existente.** Los programas de [[educational-development|desarrollo docente]], las relaciones de empleo estudiantil y las alianzas entre campus ofrecen bases para adaptar la práctica de la alianza.

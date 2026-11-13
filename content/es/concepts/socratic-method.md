@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-11-12T10:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 - Piensa en una ocasión en que un docente (o un amigo) respondió a tu pregunta con otra pregunta y eso realmente te ayudó a pensar. ¿Qué hizo que funcionara, y cuándo en cambio solo resultó frustrante o evasivo?
 - El enfoque socrático retiene las respuestas directas para provocar la «lucha productiva». ¿Crees que la lucha es necesaria para el aprendizaje profundo, o a veces es solo fricción innecesaria — y cómo distinguirías una de otra?
 - Un tutor socrático de IA debe decidir cuándo guiar, cuándo dar pistas y cuándo dar una respuesta directa, a partir de las señales en tiempo real del estudiante. ¿Cómo crees que un sistema (o una persona) sabe qué movimiento hacer en un momento dado?
-- La página señala que un estudiante frustrado puede necesitar una respuesta directa breve antes de volver al cuestionamiento socrático. ¿Qué crees que implica esto sobre los límites de un enfoque único basado solo en preguntas?
+- Un tutor que solo hace preguntas puede frustrar a un estudiante que necesita antes una respuesta directa. ¿Qué crees que implica esto sobre los límites de un enfoque único basado solo en preguntas?
 - Si un [[conversational-ai|chatbot]] que solo hace preguntas puede producir ganancias de razonamiento medibles, ¿qué podría perderse en comparación con el diálogo socrático original con un mentor humano — y qué podría ganarse?
 
 ## Introducción
@@ -57,7 +57,7 @@ A diferencia de los tutores de IA de instrucción directa que dan respuestas, lo
 
 El enfoque socrático encarna directamente el principio de [[llm-training-and-fine-tuning|EduQwen]]: **premiar el «guiar» sobre el «responder».** Sin embargo, la calibración socrática en tiempo real es más difícil que la pedagogía de benchmark sobre papel: EduQwen se optimiza para guiar correctamente en un [[benchmark]] de opción múltiple, mientras que un tutor socrático en vivo debe decidir *cuándo* guiar, *cuándo* dar pistas y *cuándo* responder — a partir de señales del estudiante en tiempo real. El [[affective-tutoring|estado afectivo]] es un moderador crítico: un estudiante frustrado puede necesitar una respuesta directa breve antes de volver al modo socrático. Una variante más estricta elimina la enseñanza por completo: un agente de física introductoria que solo pregunta pide al estudiantado defender una predicción correcta frente a una variable cambiada (detección de concesiones) y mantiene el mensaje posterior a una respuesta correcta indistinguible del posterior a una respuesta incorrecta ([[socratic-probing-agent-physics-cave-detection-2026|Cho (2026)]]).
 
-El diseño de pistas tiene una forma documentada en un dominio que esta página no cubre por lo demás. En una tarea de revisión en una segunda lengua con 58 estudiantes universitarios de nivel A1–B1 del MCER, el diseño ofrecía pistas guiadas y exigía a quienes aprendían inferir la corrección en lugar de recibirla ([[lukesova-clue-before-correction-2026|Lukešová y Jennings, 2026]]). La reducción de la carga cognitiva y las rutas de revisión personalizadas se informaron sobre todo para quienes aprendían que ya poseían conocimientos previos suficientes para actuar a partir de una pista, y la profundidad de la retroalimentación varió según lo bien que el estudiante formulaba sus peticiones. Retener la corrección tiene, por tanto, un umbral de competencia, que es el problema de calibración en una forma que un estudio puede medir.
+El diseño de pistas tiene una forma documentada en un dominio distinto. En una tarea de revisión en una segunda lengua con 58 estudiantes universitarios de nivel A1–B1 del MCER, el diseño ofrecía pistas guiadas y exigía a quienes aprendían inferir la corrección en lugar de recibirla ([[lukesova-clue-before-correction-2026|Lukešová y Jennings, 2026]]). La reducción de la carga cognitiva y las rutas de revisión personalizadas se informaron sobre todo para quienes aprendían que ya poseían conocimientos previos suficientes para actuar a partir de una pista, y la profundidad de la retroalimentación varió según lo bien que el estudiante formulaba sus peticiones. Retener la corrección tiene, por tanto, un umbral de competencia, que es el problema de calibración en una forma que un estudio puede medir.
 
 ## Evidencia de efectividad
 
@@ -94,7 +94,7 @@ En la formación de entrevistas [[medical-education|clínicas]], [[ai-standardiz
 
 La fidelidad no está garantizada por la configuración: un facilitador de ISLE configurado a propósito restableció el orden de prueba antes de predicción que los estudiantes habían invertido, pero al ser apremiado a «solo dinos» qué pesaba más produjo masas que nadie había medido, cruzando del cuestionamiento a la fabricación de datos ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino y Damiani (2026)]]).
 
-## Investigación en la base de conocimientos
+## Evidencia de la investigación
 
 El **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** proporciona evidencia empírica de que el método socrático puede operacionalizarse mediante IA generativa a escala, sirviendo a la vez como herramienta de [[teacher-role|enseñanza]] e instrumento de recogida de datos para las [[learning-analytics|analíticas de aprendizaje]]. A diferencia de los sistemas socráticos basados en reglas del pasado, los enfoques basados en [[llm]] pueden adaptar las secuencias de preguntas dinámicamente según las respuestas del estudiante.
 

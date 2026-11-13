@@ -7,7 +7,7 @@ pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ ai_assist:
 
 ## Evidencia sobre la eficacia
 
-La base de conocimiento documenta evidencia mixta: los sistemas adaptativos mejoran los resultados cuando la adaptación se apoya en [[student-modeling|modelos del estudiante]] fiables, pero una adaptación mal calibrada puede perjudicar el aprendizaje. La [[personalized-learning|investigación sobre personalización]] distingue la adaptación eficaz de la personalización superficial. [[khalifeh-redefining-personalized-learning-ai-2026|Las revisiones sistemáticas]] encuentran que el aprendizaje «adaptativo», «personalizado», «individualizado» y «a medida» se usa de forma inconsistente, así que los tamaños del efecto dependen en gran medida de cómo se operacionalice la adaptación, y el campo reclama un marco unificado.
+La evidencia es mixta: los sistemas adaptativos mejoran los resultados cuando la adaptación se apoya en [[student-modeling|modelos del estudiante]] fiables, pero una adaptación mal calibrada puede perjudicar el aprendizaje. La [[personalized-learning|investigación sobre personalización]] distingue la adaptación eficaz de la personalización superficial. [[khalifeh-redefining-personalized-learning-ai-2026|Las revisiones sistemáticas]] encuentran que el aprendizaje «adaptativo», «personalizado», «individualizado» y «a medida» se usa de forma inconsistente, así que los tamaños del efecto dependen en gran medida de cómo se operacionalice la adaptación, y el campo reclama un marco unificado.
 
 Una revisión PRISMA 2020 que cribó 959 registros hasta quedarse con 22 intervenciones en educación superior sitúa las rutas adaptativas y los [[recommender-systems-and-learning-paths|sistemas de recomendación]] entre las principales aplicaciones de la IA, pero la mayoría de los estudios mejoraron la práctica existente en lugar de transformarla ([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh et al. (2026)]]).
 

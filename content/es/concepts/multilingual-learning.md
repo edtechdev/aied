@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, g
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T13:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,9 +26,9 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - La mayoría de los modelos de IA se entrenan sobre todo con lenguas de altos recursos como el inglés. Si usted piensa, estudia o es evaluado en otra lengua, ¿cómo podría eso desfavorecerle de forma sistemática, incluso si la herramienta parece «funcionar» en inglés?
-- La página advierte de que un sesgo monolingüe no atendido en la IA profundiza la brecha digital y socava la equidad, especialmente en el Sur global. ¿Qué exige una equidad genuina más allá de simplemente traducir el contenido de IA a otra lengua?
+- ¿Qué exige una equidad genuina más allá de simplemente traducir el contenido de IA a otra lengua?
 - La evaluación automatizada puede mostrar sesgo lingüístico y penalizar a quienes no son hablantes nativos incluso por el mismo razonamiento. Si usted implementara una calificación con IA, ¿qué comprobaría para asegurarse de que es justa entre lenguas y no solo precisa en una?
-- La página muestra que las lenguas de bajos recursos pueden atenderse [[llm-training-and-fine-tuning|ajustando modelos finamente]] con corpus curados, incluso con limitaciones prácticas de hardware. ¿Qué compensaciones esperaría entre la eficiencia y la fidelidad con que el modelo maneja una lengua de bajos recursos?
+- Las lenguas de bajos recursos pueden atenderse [[llm-training-and-fine-tuning|ajustando modelos finamente]] con corpus curados, incluso con limitaciones prácticas de hardware. ¿Qué compensaciones esperaría entre la eficiencia y la fidelidad con que el modelo maneja una lengua de bajos recursos?
 - La IA multilingüe debe ir más allá de la traducción para reflejar una pedagogía culturalmente relevante: contenido que sea apropiado lingüística *y* contextualmente. ¿Cómo podría un contenido perfectamente traducido seguir fallando a un estudiante si ignora el contexto y la cultura locales?
 
 ## Introducción
@@ -50,6 +50,8 @@ El aprendizaje multilingüe es una dimensión de equidad central de la [[ai-educ
 La IA multilingüe debe ir más allá de la traducción para reflejar una [[culturally-relevant-pedagogy|pedagogía culturalmente relevante]]: generar contenido que sea lingüística y contextualmente apropiado. Los estudios sobre la [[llm-cultural-relevance-k12|relevancia cultural de los LLM en K-12]] y sobre el [[scaffolding-critical-engagement-genai-minority-students|compromiso crítico con la IA generativa entre estudiantes de minorías]] muestran que la alineación lingüística y cultural determina si el estudiantado se beneficia de verdad. Si no se atiende, el sesgo monolingüe de la IA profundiza la [[digital-divide|brecha digital]] y socava la [[equity-in-ai-education|equidad]] en todo el [[global-south|Sur global]].
 
 El translenguaje es una posibilidad que los [[conversational-ai|chatbots]] generativos añaden y que las herramientas lingüísticas anteriores no ofrecían. En una [[meta-analysis-systematic-review|revisión sistemática]] de 24 estudios, quienes aprendían pedían frases y explicaciones contextualizadas en su propia lengua como puente hacia la lengua meta, un uso que los revisores clasifican como una subcapacidad nueva y no como otra reempaquetada ([[genai-chatbots-language-learning-affordances-review-2026|Lopez y Arabadzhy (2026)]]).
+
+El coste lingüístico de incorporarse a una herramienta es medible: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] encontraron que quienes aprendían inglés tardaban significativamente más que los hablantes nativos en un tutorial andamiado de creación de agentes, mientras que la tarea de diseño abierta no mostró diferencias.
 
 ## Sesgo en la evaluación
 

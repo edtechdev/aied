@@ -8,7 +8,7 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/how-ai-impacts-students
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Usted usa la IA para el trabajo del curso y le va bien, salvo que el [[summative-assessment|examen a libro cerrado]] se sintió como leer los apuntes de otra persona. O una amiga dice que no escribió nada y aun así sacó la nota máxima, y usted se pregunta qué significa eso para usted. O ha empezado a hacerle más preguntas a un chatbot que a su docente.
 
-La respuesta breve, en una forma que puede repetirle a una amiga: la IA es útil donde necesita retroalimentación y no ayuda donde necesita práctica. Quédese con el paso de pensamiento, póngase a prueba sin la herramienta antes de entregar y sea sincero sobre lo que usó. El resto de esta página explica por qué eso se sostiene y cómo se ve un martes por la noche.
+La respuesta breve, en una forma que puede repetirle a una amiga: la IA es útil donde necesita retroalimentación y no ayuda donde necesita práctica. Quédese con el paso de pensamiento, póngase a prueba sin la herramienta antes de entregar y sea sincero sobre lo que usó. Ese consejo se sostiene por razones que vale la pena exponer, y adopta una forma concreta un martes por la noche.
 
 ## La versión breve
 
@@ -59,7 +59,7 @@ Saber que está ahí también cambia aquello con lo que usted está dispuesto a 
 
 ## Póngase a prueba sin la herramienta
 
-La comprobación tarda diez minutos y es lo más útil de esta página. Cierre todo, tome una hoja en blanco y escriba de memoria el argumento de su entrega: la tesis, las dos o tres razones y qué contaría en contra. Después abra su trabajo y compare.
+La comprobación tarda diez minutos y es lo más útil que puede hacer. Cierre todo, tome una hoja en blanco y escriba de memoria el argumento de su entrega: la tesis, las dos o tres razones y qué contaría en contra. Después abra su trabajo y compare.
 
 Si la hoja en blanco sale parecida, aprendió el material y la herramienta le ayudó a organizarlo. Si sale vacía mientras el documento está pulido, tiene una brecha de rendimiento, y la nota la esconderá hasta que un examen o una práctica no lo haga. Vuelva a la sección que no pudo reproducir, trabájela sin ayuda y compruebe otra vez.
 
@@ -67,7 +67,7 @@ Si la hoja en blanco sale parecida, aprendió el material y la herramienta le ay
 
 La IA habilita nuevas formas de [[academic-integrity|deshonestidad académica]], y las normas de su curso probablemente son menos claras que las que conoció al crecer. Averigüe por escrito qué permite su docente, antes de la fecha de entrega, y después describa lo que hizo en lenguaje llano.
 
-[[shame-guilt-ai-regulation-computing-education|La vergüenza y la culpa]] en torno al uso de IA empujan a los estudiantes a esconderse, y esconderse le cuesta la única cosa que resuelve una preocupación, que es un relato exacto de su proceso. El acceso también es desigual, y ese es un problema de [[equity-in-ai-education|equidad]] que usted no creó, aunque puede acabar recayendo en usted. Si su acceso es más limitado, la estrategia de esta página importa más, porque nada de ella depende de qué suscripción tenga.
+[[shame-guilt-ai-regulation-computing-education|La vergüenza y la culpa]] en torno al uso de IA empujan a los estudiantes a esconderse, y esconderse le cuesta la única cosa que resuelve una preocupación, que es un relato exacto de su proceso. El acceso también es desigual, y ese es un problema de [[equity-in-ai-education|equidad]] que usted no creó, aunque puede acabar recayendo en usted. Si su acceso es más limitado, la estrategia que aquí se describe importa más, porque nada de ella depende de qué suscripción tenga.
 
 Cuando la IA produce el texto, el resultado puede dejar de sentirse suyo, y eso es un coste real. Es una amenaza a la autoría y a la [[learner-identity|identidad como aprendiz]], y la [[t2i-competence-paradox-2026|paradoja de la competencia]] en los campos creativos muestra el mecanismo: cuanto más fácil es la salida, menos identidad basada en el oficio obtienen los estudiantes al hacerla. Si puede explicar por qué este ejemplo y no aquel, el trabajo es suyo sin importar qué frases escribió primero.
 
@@ -115,4 +115,4 @@ El lado emocional también puede ser bueno. En un estudio [[qualitative-research
 
 ## Adónde ir después
 
-[[does-ai-help-students-learn|¿Usar IA ayuda de verdad a que el estudiantado aprenda?]] es la pregunta de evidencia que hay detrás de esta página, y [[study-with-ai|Estudiar con IA]] cubre las rutinas de trabajo. [[ai-anxiety-wellbeing|Ansiedad y bienestar ante la IA]] lleva más lejos el lado de la ansiedad, y [[guardrails|Barreras de seguridad]] explica cómo un andamiaje se convierte en un sustituto. La visión de diseño de curso está en [[incorporating-ai-literacy|¿Cómo debo incorporar la alfabetización en IA en mi curso?]] y en [[ai-literacy-evidence|¿Qué evidencia hay sobre las intervenciones de alfabetización en IA en educación superior?]].
+[[does-ai-help-students-learn|¿Usar IA ayuda de verdad a que el estudiantado aprenda?]] es la pregunta de evidencia que hay detrás de estas respuestas, y [[study-with-ai|Estudiar con IA]] cubre las rutinas de trabajo. [[ai-anxiety-wellbeing|Ansiedad y bienestar ante la IA]] lleva más lejos el lado de la ansiedad, y [[guardrails|Barreras de seguridad]] explica cómo un andamiaje se convierte en un sustituto. La visión de diseño de curso está en [[incorporating-ai-literacy|¿Cómo debo incorporar la alfabetización en IA en mi curso?]] y en [[ai-literacy-evidence|¿Qué evidencia hay sobre las intervenciones de alfabetización en IA en educación superior?]].

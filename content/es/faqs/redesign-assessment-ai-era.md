@@ -7,7 +7,7 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/redesign-assessment-ai-era
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -42,7 +42,7 @@ La respuesta breve: decida de qué debe ser evidencia la nota, incluya en la tar
 
 ## Decida de qué es evidencia la nota
 
-Empiece por declarar explícitamente qué capacidad se supone que representa la nota. ¿Está evaluando lo que un estudiante puede hacer por su cuenta, lo que puede lograr de manera adecuada con IA, su capacidad para evaluar y dirigir la IA, o alguna combinación de todo ello? La síntesis [[assessment-validity|Validez de la evaluación]] de esta base de conocimiento lo trata como un problema de validez: un trabajo pulido ya no es evidencia suficiente de que el estudiante posea la capacidad que ese trabajo parece demostrar. Esta es la mitad del argumento que corresponde a la evaluación; la mitad que corresponde a la aplicación de las normas está en [[reduce-ai-cheating]], y el marco general de la validez recorre [[evaluating-ai-interventions-methods]].
+Empiece por declarar explícitamente qué capacidad se supone que representa la nota. ¿Está evaluando lo que un estudiante puede hacer por su cuenta, lo que puede lograr de manera adecuada con IA, su capacidad para evaluar y dirigir la IA, o alguna combinación de todo ello? La [[assessment-validity|Validez de la evaluación]] lo trata como un problema de validez: un trabajo pulido ya no es evidencia suficiente de que el estudiante posea la capacidad que ese trabajo parece demostrar. Esta es la mitad del argumento que corresponde a la evaluación; la mitad que corresponde a la aplicación de las normas está en [[reduce-ai-cheating]], y el marco general de la validez recorre [[evaluating-ai-interventions-methods]].
 
 Diga la respuesta en el programa de la asignatura, en la hoja de la tarea y en la rúbrica. El estudiantado lee tres documentos y cumple el que es más específico. "Se permite el uso de IA con reconocimiento" no es una declaración de lo que usted mide, y no le da al estudiante ninguna forma de saber si el uso permitido socava aquello que usted califica.
 

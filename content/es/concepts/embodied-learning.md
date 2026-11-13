@@ -8,7 +8,7 @@ pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,7 @@ ai_assist:
 
 El aprendizaje encarnado está estrechamente relacionado con el [[active-learning|aprendizaje activo]], el [[experiential-learning|aprendizaje experiencial]] y las teorías situadas y [[constructivist|constructivistas]]. La afirmación clave es que un agente físico y manipulable ayuda a quien aprende a conectar ideas abstractas con resultados concretos —un programa que hace moverse a un robot, o un juego de rol con un robot físico— de formas que la interacción puramente en pantalla puede no lograr. La robótica es la encarnación más clara de la IA en la educación: da a quien aprende algo que ver, tocar y observar.
 
-## Cómo aparece el aprendizaje encarnado en la investigación de la base de conocimiento
+## Cómo aparece el aprendizaje encarnado en la investigación
 
 - **Programación anclada:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] ancla la [[cs-education|programación por bloques]] en la ejecución robótica encarnada y crea un bucle estrecho de creación, ejecución, observación y revisión, de modo que quien aprende ve su código convertirse en comportamiento.
 - **Interacción social robótica:** los [[educational-robotics|robots sociales]] usados para la [[storytelling-in-education|narrativa]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), el juego de rol ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]) y la lengua de signos ([[pepper-robot-sign-language-lis-2025|Pepper]]) ofrecen una interacción social encarnada que apoya el aprendizaje relacional y [[social-emotional-learning|socioemocional]].
@@ -45,7 +45,7 @@ El aprendizaje encarnado está estrechamente relacionado con el [[active-learnin
 
 ## La inteligencia encarnada y la crítica de la IA desencarnada
 
-Una segunda línea, más teórica, de la investigación de la base de conocimiento sobre la encarnación se ocupa del papel del *cuerpo* en el aprendizaje mediado por la IA y las [[sociocultural-learning|teorías socioculturales]], no a través de robots físicos, sino a través de la pregunta de si los [[ai-technologies|sistemas de IA]] son (o pueden ser) encarnados. Este trabajo cuestiona el predominio de los modelos de IA simbólicos y desencarnados construidos sobre el procesamiento abstracto de la información:
+Una segunda línea, más teórica, de la investigación sobre la encarnación se ocupa del papel del *cuerpo* en el aprendizaje mediado por la IA y las [[sociocultural-learning|teorías socioculturales]], no a través de robots físicos, sino a través de la pregunta de si los [[ai-technologies|sistemas de IA]] son (o pueden ser) encarnados. Este trabajo cuestiona el predominio de los modelos de IA simbólicos y desencarnados construidos sobre el procesamiento abstracto de la información:
 
 - **La IA encarnada como principio de diseño.** El **marco E3-HOT** sostiene que, para sostener la agencia cognitiva y el [[critical-thinking|pensamiento de orden superior]] de quien aprende (en lugar de fomentar la [[cognitive-offloading|descarga cognitiva]]), la IA debería diseñarse en torno a la *inteligencia encarnada* —la inserción situacional, la participación encarnada y la creación cognitiva— dentro de un entorno de aprendizaje integrado virtual-real.([[zhu-e3-hot-embodied-intelligence-sustainable-learning]])
 - **Los límites de la [[generative-ai|IA generativa]] desencarnada.** La investigación poscognitivista sostiene que los sistemas actuales de IA generativa carecen de propiocepción, agencia multimodal y práctica encarnada, y aboga por una «IA encarnada» fundamentada en la situacionalidad, la emergencia y el acoplamiento sensoriomotor, y propone una coreografía perceptivo-[[affective-computing|afectiva]] para la interacción entre las personas y la [[student-ai-interaction|IA]].([[videla-embodied-ai-education-choreography]])

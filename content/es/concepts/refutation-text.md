@@ -9,7 +9,7 @@ discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/refutation-text
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ foundations: [misconceptions]
 
 ## Preguntas para reflexionar
 
-- ¿Alguna vez ha «corregido» la idea equivocada de un estudiante limitándose a presentarle la respuesta correcta, para ver después cómo la idea errónea reaparecía? La página sostiene que las ideas erróneas no son lagunas, sino creencias sostenidas activamente que resisten la instrucción ordinaria. ¿Cómo replantea eso por qué fracasó su corrección?
+- ¿Alguna vez ha «corregido» la idea equivocada de un estudiante limitándose a presentarle la respuesta correcta, para ver después cómo la idea errónea reaparecía? La creencia sobrevive porque se sostiene activamente, no porque faltara información. ¿Cómo replantea eso por qué fracasó su corrección?
 - Un texto de refutación enuncia la idea errónea de forma explícita, la refuta y ofrece la concepción correcta, a diferencia de un texto expositivo estándar que se limita a presentar la verdad. ¿Por qué nombrar en voz alta la idea equivocada ayudaría a cambiarla, cuando al parecer enseñar solo la idea correcta no lo consigue?
 - La investigación es mixta sobre si el diálogo personalizado con IA supera al texto de refutación estático: en un estudio, el diálogo interactivo produjo un cambio de creencia mayor y más rápido; en otro, textos bien elaborados superaron a un chat de IA con prompts. ¿Qué podría explicar estos resultados contradictorios y qué le dice eso sobre «la interactividad siempre es mejor»?
 - La IA ya puede generar textos de refutación eficaces que igualan la calidad de los escritos por especialistas, e incluso generar ideas erróneas para sembrar una discusión estructurada entre pares. ¿La idea de enseñar deliberadamente a partir de ideas equivocadas generadas por IA le parece arriesgada o productiva, y en qué condiciones la probaría?

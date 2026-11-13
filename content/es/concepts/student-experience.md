@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -27,11 +27,11 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **La experiencia del estudiantado** —cómo percibe, vive e interactúa quien aprende con las herramientas de IA en entornos educativos, y cómo le afectan. Con más de 85 artículos en la base de conocimiento, la experiencia del estudiantado es una de las dimensiones más investigadas de la [[ai-education|IA en la educación]]. La IA afecta al estudiantado tanto en dirección positiva como negativa, y la misma herramienta puede ayudar y perjudicar según cómo se diseñe y se use.
+> **La experiencia del estudiantado** —cómo percibe, vive e interactúa quien aprende con las herramientas de IA en entornos educativos, y cómo le afectan. Con más de 85 estudios, la experiencia del estudiantado es una de las dimensiones más investigadas de la [[ai-education|IA en la educación]]. La IA afecta al estudiantado tanto en dirección positiva como negativa, y la misma herramienta puede ayudar y perjudicar según cómo se diseñe y se use.
 
 ## Preguntas para reflexionar
 
-- La página sostiene que la IA afecta al estudiantado en direcciones positivas y negativas, a menudo de forma simultánea: la misma herramienta puede ayudar y perjudicar según el diseño y el uso. ¿Puede dar un ejemplo de su propia experiencia en el que la IA ayudara y perjudicara al mismo tiempo?
+- La IA afecta al estudiantado en direcciones positivas y negativas, a menudo de forma simultánea: la misma herramienta puede ayudar y perjudicar según el diseño y el uso. ¿Puede dar un ejemplo de su propia experiencia en el que la IA ayudara y perjudicara al mismo tiempo?
 - Describe una «brecha entre rendimiento y aprendizaje»: el estudiantado rinde mejor con la IA pero peor en tareas posteriores sin asistencia. ¿Cómo cree que surge esa brecha, y qué haría falta para cerrarla?
 - Si depender en exceso de la IA significa delegar el razonamiento que precisamente hay que practicar, ¿dónde trazaría la línea entre una ayuda legítima y una descarga que erosiona el aprendizaje?
 - La [[research-methods-aied|investigación]] se pregunta si el simple hecho de saber que la IA está disponible cambia el esfuerzo del estudiantado. ¿Cree que la conciencia de la IA hace que el estudiantado trabaje más, menos o de otra manera, y cómo pondría a prueba esa creencia?

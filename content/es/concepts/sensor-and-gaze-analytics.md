@@ -13,7 +13,7 @@ level: [higher ed, k 12]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-13T12:55:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -41,7 +41,7 @@ ai_assist:
 
 ## Introducción
 
-La analítica de sensores y de la mirada agrupa métodos que convierten mediciones físicas de quien aprende en inferencias educativas. Las mediciones incluyen dónde se posan los ojos y durante cuánto tiempo, la actividad eléctrica del cuero cabelludo, las respuestas de las glándulas sudoríparas, la variación latido a latido de la frecuencia cardíaca y la posición y el movimiento de la cabeza y el torso. Las inferencias incluyen atención, implicación, carga cognitiva, confusión, estrés y, en contextos de evaluación, sospecha. Esta página trata específicamente de esa capa de medición: para el programa más amplio y sus afirmaciones, véase la [[affective-computing|computación afectiva]]; sobre cómo debe actuar un tutor una vez que tiene una inferencia, véase la [[affective-tutoring|tutoría afectiva]].
+La analítica de sensores y de la mirada agrupa métodos que convierten mediciones físicas de quien aprende en inferencias educativas. Las mediciones incluyen dónde se posan los ojos y durante cuánto tiempo, la actividad eléctrica del cuero cabelludo, las respuestas de las glándulas sudoríparas, la variación latido a latido de la frecuencia cardíaca y la posición y el movimiento de la cabeza y el torso. Las inferencias incluyen atención, implicación, carga cognitiva, confusión, estrés y, en contextos de evaluación, sospecha. El foco es esa capa de medición: para el programa más amplio y sus afirmaciones, véase la [[affective-computing|computación afectiva]]; sobre cómo debe actuar un tutor una vez que tiene una inferencia, véase la [[affective-tutoring|tutoría afectiva]].
 
 El atractivo es directo. Las [[self-report-measures|autoevaluaciones]] son retrospectivas y gruesas, y los cuestionarios muestrean el aprendizaje en pocos momentos. Los sensores funcionan de forma continua y exigen poco esfuerzo consciente. Esa combinación ha hecho de la sensorización un elemento central de la [[learning-analytics|analítica del aprendizaje]] y del [[student-modeling|modelado del estudiantado]], y ha producido una literatura amplia en la que la sensorización es técnicamente impresionante y la interpretación es delgada.
 
@@ -52,6 +52,8 @@ Una [[meta-analysis-systematic-review|revisión sistemática]] de 23 estudios qu
 **Mirada y fijación.** Los rastreadores oculares informan de hacia dónde apunta el ojo, cuánto se detiene, cuándo hace sacadas y cuánto se dispersa. Los sistemas de pantalla, como WebGazer, estiman la mirada desde una webcam; las gafas rastrean el ojo directamente. TutorLoop convierte la mirada en dos cantidades: atención como el porcentaje de puntos de mirada dentro del área de contenido, y carga de trabajo como entropía de la mirada, sobre el supuesto de que la mirada dispersa indica carga cognitiva ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Ollie, un asistente para niños basado en la mirada, define áreas de interés en una imagen y activa la narración cuando el niño mira una ([[gaze-informed-ai-children|Wu et al., 2026]]).
 
 **Electroencefalografía.** La EEG registra fluctuaciones de voltaje en el cuero cabelludo con alta resolución temporal. Es la única señal de esta familia que llega directamente a la actividad cortical, y por eso atrae a la investigación en evaluación. Los sistemas educativos prácticos usan electrodos secos y pocos canales: E3Sense tomó cuatro canales EEG secos a 125 Hz y analizó dos frontales ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]). Los equipos de investigación hacen lo contrario: Kosmyna et al. (2025) usaron EEG de 32 canales para comparar a estudiantes que escribían con un [[llm|LLM]], con un buscador o sin herramienta, y encontraron la conectividad neuronal más débil en el grupo del LLM ([[your-brain-on-chatgpt-cognitive-debt-essay-writing|Kosmyna et al., 2025]]). Ese estudio es también la advertencia más clara sobre la evidencia de un solo canal, ya que su afirmación central descansa en una sesión cruzada opcional a la que solo asistieron 18 de 54 participantes.
+
+**Hiperescaneo con fNIRS.** Registrar a dos personas que aprenden a la vez mide la sincronía entre cerebros, no un solo cerebro: [[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]] encontraron que los ejemplares atribuidos a humanos elevaron la sincronía premotora y la singularidad de las ideas, la atribución a la IA la redujo, y ninguna ganancia conductual sobrevivió a la retirada del apoyo.
 
 **Actividad electrodérmica.** La EDA mide la conductancia de las glándulas sudoríparas, un índice de activación simpática. Responde al estrés, al esfuerzo y a la intensidad emocional, y no los distingue entre sí. El mismo constructo aparece en pulseras y en electrodos frontales fijados a pocos centímetros de distancia por el marco de un rastreador ocular ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]).
 

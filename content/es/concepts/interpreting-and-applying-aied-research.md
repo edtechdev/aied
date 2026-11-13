@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -29,12 +29,12 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Interpretar y aplicar la investigación en AIED** — cómo decidir si un hallazgo sobre la IA en la educación merece que se actúe en consecuencia, tanto si usted enseña, dirige un programa, diseña un curso o desarrolla software. No necesita estadística para usar esta página. Empieza por la pregunta que realmente tiene quien ejerce la práctica —*¿debería hacer esto?*—, recorre las pocas cosas que la responden y deja el detalle técnico para una sección posterior, para quien lo quiera o lo necesite. La versión breve: un hallazgo merece que se actúe en consecuencia cuando se sabe con qué se comparó, qué se midió, a quién se estudió y si la herramienta sigue existiendo en la forma en que se estudió. La mayoría de las afirmaciones que llegan al profesorado, a la administración y a quienes desarrollan software fallan en uno de esos cuatro puntos.
+> **Interpretar y aplicar la investigación en AIED** — cómo decidir si un hallazgo sobre la IA en la educación merece que se actúe en consecuencia, tanto si usted enseña, dirige un programa, diseña un curso o desarrolla software. No necesita estadística. Empiece por la pregunta que realmente tiene quien ejerce la práctica —*¿debería hacer esto?*—, recorre las pocas cosas que la responden y deja el detalle técnico para una sección posterior, para quien lo quiera o lo necesite. La versión breve: un hallazgo merece que se actúe en consecuencia cuando se sabe con qué se comparó, qué se midió, a quién se estudió y si la herramienta sigue existiendo en la forma en que se estudió. La mayoría de las afirmaciones que llegan al profesorado, a la administración y a quienes desarrollan software fallan en uno de esos cuatro puntos.
 
 ## Preguntas para reflexionar
 
 - Un proveedor, una noticia o un colega dice que una herramienta de IA mejoró el aprendizaje. ¿Qué es lo único que querría ver antes de probarla en su propio curso, y sabría dónde buscarlo?
-- Todas las páginas de artículo de esta base de conocimiento tienen ahora una sección **Qué significa esto para la práctica**, y la mayoría tiene una sección **Limitaciones**. Leyendo las dos juntas, ¿qué le dice cada una que no le diga la otra?
+- Las síntesis más recientes incluyen una sección **Qué significa esto para la práctica** y una sección **Limitaciones**. Leyendo las dos juntas, ¿qué le dice cada una que no le diga la otra?
 - El estudiantado practica con una herramienta de IA y mejora en el trabajo de práctica, pero luego empeora en el [[summative-assessment|examen a libro cerrado]]. ¿Cuál de las dos cifras es el resultado de aprendizaje que le importa a su curso, y detectarían sus evaluaciones actuales la diferencia?
 - Un estudio promete una mejora enorme, pero siguió a 30 estudiantes de un curso en una sola institución, y la versión de la herramienta estudiada ya no es la que usa nadie. ¿Cuál de esos dos hechos le preocupa más y por qué?
 - Muchas herramientas de IA aumentan cuánto las usa el estudiantado sin aumentar cuánto aprende. Si tuviera que elegir entre una herramienta que eleva la implicación y otra que eleva el rendimiento sin ayuda, ¿qué evidencia lo resolvería?
@@ -42,13 +42,13 @@ ai_assist:
 
 ## Introducción
 
-Esta página es para quienes tienen que decidir algo: profesorado que se pregunta si cambiar una tarea, [[administrator|administración]] que sopesa un proyecto piloto, diseñadores del aprendizaje que construyen un curso, desarrolladores de software que deciden qué debe hacer una función, o investigadores que explican un hallazgo a cualquiera de ellos.
+La orientación es para quienes tienen que decidir algo: profesorado que se pregunta si cambiar una tarea, [[administrator|administración]] que sopesa un proyecto piloto, diseñadores del aprendizaje que construyen un curso, desarrolladores de software que deciden qué debe hacer una función, o investigadores que explican un hallazgo a cualquiera de ellos.
 
 Dos hábitos marcan la diferencia, y ninguno requiere formación en investigación.
 
 **Lea primero las dos secciones escritas para usted.** Todas las páginas de artículo de este sitio incluyen ahora una sección **Qué significa esto para la práctica** —normalmente de tres a cinco acciones concretas derivadas de ese estudio— y la mayoría incluye una sección **Limitaciones** que indica qué no puede sostener el estudio. Léalas antes que los hallazgos del estudio, no después. La sección de práctica le dice para qué sirve el estudio; la de limitaciones le dice dónde se detiene. Si la sección de práctica falta o es vaga, trate esa página como inacabada y no como evidencia.
 
-**Juzgue la afirmación, no la seguridad con que se afirma.** Las afirmaciones sobre la [[ai-education|IA en la educación]] suelen ser exactas respecto a *algo* y engañosas respecto a lo que a usted le importa, porque un estudio y su aula difieren en cuatro aspectos: con qué se comparó, qué midió, quién participó y qué versión de la herramienta se usó. El resto de esta página le da las comprobaciones en lenguaje llano y, después, la evidencia que respalda cada una, para quien la quiera.
+**Juzgue la afirmación, no la seguridad con que se afirma.** Las afirmaciones sobre la [[ai-education|IA en la educación]] suelen ser exactas respecto a *algo* y engañosas respecto a lo que a usted le importa, porque un estudio y su aula difieren en cuatro aspectos: con qué se comparó, qué midió, quién participó y qué versión de la herramienta se usó. Las cuatro comprobaciones se explican en lenguaje llano y, después, la evidencia que respalda cada una, para quien la quiera.
 
 Lo que sigue tampoco sustituye a sus páginas vecinas. [[research-methods-aied|Métodos de investigación en la IA en la educación]] cubre cómo se construyen los diseños; [[limitations-in-aied-research|Limitaciones de la investigación en AIED]] cataloga las debilidades recurrentes de la literatura; [[ai-ed-evaluation|Evaluación en AIED]] cubre cómo se evalúan los sistemas y sus resultados, y [[differential-effects-across-learner-groups|Efectos diferenciales entre grupos de estudiantes]] cubre a quién incluye y a quién no incluye un hallazgo.
 
@@ -66,7 +66,7 @@ Hágaselas antes de gastar tiempo, dinero o un semestre en algo.
 
 ## Qué dice la evidencia sobre las afirmaciones acerca de la IA en general
 
-Si recuerda una sola cosa de esta página, que sea que la cifra titular suele estar inflada y la comparación suele ser débil. No es una opinión marginal: es lo que informan las auditorías del propio campo. Varios estudios bien diseñados sí muestran ganancias reales; la cuestión es que la carga de la prueba recae sobre quien afirma.
+Si recuerda una sola cosa, que sea que la cifra titular suele estar inflada y la comparación suele ser débil. No es una opinión marginal: es lo que informan las auditorías del propio campo. Varios estudios bien diseñados sí muestran ganancias reales; la cuestión es que la carga de la prueba recae sobre quien afirma.
 
 - **Alrededor de dos tercios del efecto medio desaparecen** cuando se corrige el hecho de que los resultados llamativos se publican y los que no lo son, no. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]] agruparon 1.840 tamaños del efecto de 67 revisiones y encontraron que el promedio corregido era aproximadamente un tercio de la mediana publicada: SMD 0,196 frente a 0,67.
 - **Un nombre de producto no es un método de enseñanza.** Al auditar las comparaciones que hay detrás de un metaanálisis destacado, [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] encontraron que solo el **21%** tenía un tratamiento bien definido, un grupo de control y una medida válida de aprendizaje, y que la ventaja reportada para «usar ChatGPT» resultó mayor que para los [[intelligent-tutoring|sistemas de tutoría inteligente]] diseñados a propósito (g = 0,7 frente a 0,66), lo cual es una señal de alarma y no un triunfo.
@@ -86,7 +86,7 @@ La secuencia que ahorra más esfuerzo desperdiciado, en orden.
 4. **Compruebe la versión y la fecha.** Si el estudio usó una generación de modelos de hace dos años, planifique volver a probar en lugar de dar por sentado.
 5. **Nombre las condiciones habilitantes.** El coste, las licencias, el tiempo del personal, las reglas sobre datos y si el estudiantado debe pagar el nivel que realmente funciona. Los estudios rara vez recogen esto, y es lo que decide si una intervención sobrevive un semestre. En [[chick-faculty-development-ethical-ai-2026|un estudio de desarrollo del profesorado con diez participantes]], todos dijeron que seguirían usando IA, mientras esas mismas personas describían suscripciones personales para acceder a las herramientas y ninguna disponibilidad de tiempo para los rediseños que habían planificado.
 6. **Haga un piloto pequeño y mida la condición sin apoyo.** Un breve pre/post con una evaluación hecha sin la herramienta supera a una encuesta de satisfacción. Pequeño y honesto supera a grande y retórico. Consulte [[learning-design|Diseño del aprendizaje]] para ver dónde encaja esto en el diseño de un curso.
-7. **Anote una fecha de revisión y esté dispuesto a abandonar la afirmación.** Cuando la premisa de un estudio es una capacidad que ya no existe, lo honesto es retirar la afirmación en lugar de citarla indefinidamente: la misma disciplina que esta base de conocimiento aplica a sus propias páginas.
+7. **Anote una fecha de revisión y esté dispuesto a abandonar la afirmación.** Cuando la premisa de un estudio es una capacidad que ya no existe, lo honesto es retirar la afirmación en lugar de citarla indefinidamente.
 
 ## Palabras que encontrará en la investigación
 
@@ -113,7 +113,7 @@ Traducciones llanas, para que pueda hojear un estudio o la página de un proveed
 
 ## Si está construyendo o comprando una herramienta
 
-Las mismas comprobaciones se invierten y se convierten en requisitos de diseño, y las páginas de evaluación de la base de conocimiento contienen el detalle ([[ai-ed-evaluation|Evaluación en AIED]], [[automated-assessment|Evaluación automatizada]]).
+Las mismas comprobaciones se invierten y se convierten en requisitos de diseño, y la literatura sobre evaluación contiene el detalle ([[ai-ed-evaluation|Evaluación en AIED]], [[automated-assessment|Evaluación automatizada]]).
 
 - **Incorpore la comparación a la especificación de la función.** Decida qué estaría haciendo quien aprende en caso contrario y sea capaz de decir por qué su herramienta supera eso, y no por qué supera a nada.
 - **Mida la condición sin apoyo.** Si su resultado es el aprendizaje, incluya una tarea completada sin la herramienta; el rendimiento con ayuda por sí solo le engañará tanto como engaña a sus compradores.
@@ -137,7 +137,7 @@ Las comprobaciones anteriores no son sabiduría popular; proceden de fallos docu
 
 **Los objetivos de los benchmarks se mueven**, así que un resultado que un sistema satura o falla hoy puede invertirse con la próxima versión; las comprobaciones de saturación y contaminación van junto a cualquier afirmación basada en un benchmark.
 
-**Leer esta literatura junto a sus propios críticos es práctica habitual aquí.** Las listas de comprobación del lado del reporte para autores y revisores están en [[reporting-interpreting-aied-research|las preguntas frecuentes sobre reportar e interpretar la investigación en IA]], y los hábitos de valoración de esta página se combinan con [[theory-development-aied|Desarrollo teórico en la IA en la educación]] cuando una afirmación es teórica y no empírica.
+**Leer esta literatura junto a sus propios críticos es práctica habitual aquí.** Las listas de comprobación del lado del reporte para autores y revisores están en [[reporting-interpreting-aied-research|las preguntas frecuentes sobre reportar e interpretar la investigación en IA]], y esos hábitos de valoración se combinan con [[theory-development-aied|Desarrollo teórico en la IA en la educación]] cuando una afirmación es teórica y no empírica.
 
 ## Una lista de comprobación breve
 
@@ -155,7 +155,7 @@ Las comprobaciones anteriores no son sabiduría popular; proceden de fallos docu
 
 **«Un metaanálisis publicado es evidencia zanjada sobre la IA en la educación.»** Las síntesis del campo no han superado la auditoría. La auditoría de [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] sobre **14 metaanálisis revisados por pares** que afirman que la IA mejora la educación encontró que **ninguno** aportaba una base válida para esa conclusión. Un tamaño del efecto agrupado vale lo que valen los estudios agrupados, y en esta literatura la agrupación ha incluido con regularidad diseños que no podían atribuir el resultado a la IA. Antes de citar una cifra metaanalítica, pregunte qué agregó.
 
-**«El tamaño del efecto mayor corresponde a la mejor intervención.»** A menudo ocurre lo contrario. En el contexto de revisión que documenta esta página, solo el **21%** de los estudios tenía un tratamiento bien definido, un grupo de control y una medida válida de aprendizaje, y la ventaja reportada para «usar ChatGPT» resultó *mayor* que para los [[intelligent-tutoring|sistemas de tutoría inteligente]] diseñados a propósito. Los tratamientos débilmente especificados tienden a producir efectos inflados, porque la comparación es más vaga y la medida de resultado más laxa. Una cifra mayor es una razón para mirar el diseño, no una razón para preferir la intervención.
+**«El tamaño del efecto mayor corresponde a la mejor intervención.»** A menudo ocurre lo contrario. En la revisión que auditó esas comparaciones, solo el **21%** de los estudios tenía un tratamiento bien definido, un grupo de control y una medida válida de aprendizaje, y la ventaja reportada para «usar ChatGPT» resultó *mayor* que para los [[intelligent-tutoring|sistemas de tutoría inteligente]] diseñados a propósito. Los tratamientos débilmente especificados tienden a producir efectos inflados, porque la comparación es más vaga y la medida de resultado más laxa. Una cifra mayor es una razón para mirar el diseño, no una razón para preferir la intervención.
 
 **«Notas más altas mientras se usa la herramienta indican que la herramienta enseñó más.»** En un estudio de matemáticas de [[k-12|K-12]], el estudiantado que practicaba con un [[conversational-ai|chatbot]] de propósito general obtuvo mejores notas de práctica y después puntuó **alrededor de un 17% peor** en la evaluación sin asistencia. El rendimiento en la práctica medido con la herramienta presente es la medida inflada; la medida sin asistencia es el resultado, y solo una de las dos estaba subiendo.
 

@@ -7,7 +7,7 @@ technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T12:55:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,7 @@ La TRT trata la habilidad (θ) y los parámetros de los ítems (dificultad, disc
 
 - **Una alternativa causal a la TRT asociativa.** [[causal-modeling-competency-assessment-2026|Mangili et al. (2026)]] sostienen que la TRT y los modelos de estudiante basados en redes bayesianas no pueden expresar intervenciones ni contrafactuales, y en su lugar elicitan ecuaciones estructurales de especialistas; en una batería de test adaptativo con 109 estudiantes el modelo elicitado fue ligeramente menos predictivo (−287 frente a −277 de log-verosimilitud del test) pero admitió consultas contrafactuales sobre la ayuda.
 - **Explicar la dificultad en lugar de predecirla.** [[explaining-question-difficulty-natural-language-2026|Cui et al. (2026)]] ajustaron un modelo Rasch 1PL a los registros de respuestas de LLM para GSM8K (1.319 preguntas), BBH-structured (1.396) y WinoGrande (1.267), con 5.000 modelos para GSM8K y WinoGrande y 3.811 para BBH-structured. Luego pidieron a un LLM que propusiera hipótesis en lenguaje natural sobre por qué un ítem es más difícil que otro, y las seleccionaron con una regresión regularizada L1 sobre preguntas dejadas fuera. Usadas por sí solas en preguntas no vistas, las hipótesis seleccionadas alcanzan R² = 0,373 en GSM8K, 0,580 en BBH-structured y 0,090 en WinoGrande, las mejores de los métodos comparados en GSM8K y WinoGrande y las segundas mejores en BBH-structured, donde un RoBERTa-base ajustado alcanza 0,646. Como características adicionales suman +0,11 a RoBERTa-base en GSM8K (de 0,362 a 0,468) y +0,19 y +0,18 a dos modelos de embeddings congelados. Una sonda causal edita 50 preguntas de prueba por conjunto hacia o fuera de una hipótesis.
+- [[ai-second-language-listening-speaking-assessment-2025|Goh y Aryadoust (2025)]] llevan la TRT a su límite: la TRT responde preguntas poblacionales, mientras que la evaluación como aprendizaje pregunta si una persona cambió, lo que, sostienen, exige modelos idiográficos como los enfoques de Markov latente.
 
 ## Conexiones
 

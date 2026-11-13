@@ -1,7 +1,7 @@
 ---
 title: Código abierto
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-13T14:20:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning]
 type: concept
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -14,10 +14,14 @@ confidence: medium
 connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy, mindrouter, amplify-genai]
 methods: [benchmark]
 translation_of: concepts/open-source
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-13"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -30,7 +34,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Código abierto** — el uso de *modelos, código, datos y contenido* con licencias abiertas en la [[ai-education|IA en la educación]]. La apertura es el principal contrapeso de la base de conocimiento frente al cautiverio de proveedor y a la [[privacy|exposición de datos]]: los modelos de pesos abiertos pueden ejecutarse en hardware del campus para cumplir con FERPA, el RGPD y las obligaciones del Reglamento de IA de la UE, los corpus con licencias abiertas pueden indexarse y ajustarse sin permiso del editor, y la publicación de puntos de referencia y conjuntos de datos abiertos hace replicable la [[research-methods-aied|investigación]]. Las cargas son igual de reales: infraestructura y garantía de [[pedagogical-safety|seguridad]], mantenimiento que sobrevive a la subvención, y una calidad que la apertura no garantiza por sí sola.
+> **Código abierto** — el uso de *modelos, código, datos y contenido* con licencias abiertas en la [[ai-education|IA en la educación]]. La apertura es el principal contrapeso frente al cautiverio de proveedor y a la [[privacy|exposición de datos]]: los modelos de pesos abiertos pueden ejecutarse en hardware del campus para cumplir con FERPA, el RGPD y las obligaciones del Reglamento de IA de la UE, los corpus con licencias abiertas pueden indexarse y ajustarse sin permiso del editor, y la publicación de puntos de referencia y conjuntos de datos abiertos hace replicable la [[research-methods-aied|investigación]]. Las cargas son igual de reales: infraestructura y garantía de [[pedagogical-safety|seguridad]], mantenimiento que sobrevive a la subvención, y una calidad que la apertura no garantiza por sí sola.
 
 ## Preguntas para reflexionar
 
@@ -43,7 +47,7 @@ ai_assist:
 
 ## Introducción
 
-En términos generales, «abierto» en la educación con IA significa que cuatro tipos de artefactos están disponibles para su inspección, reutilización y modificación: **pesos de modelo**, **código fuente**, **datos e instrumentos de evaluación** y **contenido educativo**. Los artículos de la base de conocimiento se agrupan de forma desigual entre estas capas, y el panorama resultante es más útil que el eslogan: la apertura compra cosas concretas —control local, auditabilidad, replicabilidad y claridad legal— y cuesta cosas concretas: infraestructura, experiencia, mantenimiento y una carga de garantía de calidad que se traslada del proveedor a la institución.
+En términos generales, «abierto» en la educación con IA significa que cuatro tipos de artefactos están disponibles para su inspección, reutilización y modificación: **pesos de modelo**, **código fuente**, **datos e instrumentos de evaluación** y **contenido educativo**. La literatura se agrupa de forma desigual entre estas capas, y el panorama resultante es más útil que el eslogan: la apertura compra cosas concretas —control local, auditabilidad, replicabilidad y claridad legal— y cuesta cosas concretas: infraestructura, experiencia, mantenimiento y una carga de garantía de calidad que se traslada del proveedor a la institución.
 
 ## Modelos abiertos y pesos abiertos
 
@@ -55,7 +59,7 @@ OmniEdu publica todo el flujo de trabajo, no solo los pesos: una supervisión eq
 
 ## Herramientas, tutores e infraestructura de investigación abiertos
 
-El caso más claro a favor del código abierto es la replicación. [[oatutor-open-source-adaptive-tutor-2023|OATutor]] —el primer sistema de tutoría adaptativa totalmente abierto construido sobre principios de ITS— combina un **código con licencia MIT** con una **biblioteca de contenido Creative Commons (CC BY)** procedente de los manuales de álgebra de OpenStax, además de [[knowledge-tracing|traza de conocimiento]], pruebas A/B y soporte LTI; su objetivo de diseño explícito es que una persona investigadora pueda ejecutar un experimento y luego publicar todo el marco, el contenido y la plataforma de extremo a extremo como un enlace a un repositorio. [[stanbkt-bayesian-knowledge-tracing|StanBKT]] defiende lo mismo en la capa de método, sustituyendo las estimaciones puntuales por maximización de la expectativa por inferencia bayesiana completa (HMC, inferencia variacional, Pathfinder, optimización) en un paquete abierto de Python que expone la incertidumbre de la que dependen las comparaciones A/B de intervenciones adaptativas. [[deeptutor|DeepTutor]] publica un marco completo de tutoría [[agentic-ai|agéntica]] con una memoria de estudiante en forma de bosque de trazas —Apache 2,0, y para finales de 2026 un espacio de trabajo de aprendizaje completo y no solo los flujos que evalúa su artículo— y el generador de aulas OpenMAIC de [[mooc-to-maic|MAIC]] se distribuye bajo MIT junto con el estudio que lo evalúa, de modo que un curso puede generarse, autoalojarse e inspeccionarse en lugar de solo leerse; [[vismatic-secure-sandbox-cs-education|VISMATIC]] publica su sandbox en contenedores para la monitorización orientada a procesos, de modo que otras instituciones puedan adoptar el modelo de integridad y no la versión del proveedor. El código abierto también conlleva la carga de transparencia: los scripts de los prompts de tutoría afectiva de [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] se publican para su inspección y para más trabajo de [[llm-training-and-fine-tuning|entrenamiento pedagógico]]. La infraestructura abierta fija el punto de referencia de lo que deberían hacer los agentes educativos: la [[agentic-ai-education-scoping-review|revisión de alcance de 474 estudios sobre IA agéntica]] de la base de conocimiento usa un proyecto de agentes de código abierto en rápido crecimiento como su punto de referencia del «paradigma de agente de frontera» y encuentra que los sistemas educativos siguen careciendo de orquestación de herramientas gobernada, memoria persistente, planificación de horizonte largo y acción auditable.
+El caso más claro a favor del código abierto es la replicación. [[oatutor-open-source-adaptive-tutor-2023|OATutor]] —el primer sistema de tutoría adaptativa totalmente abierto construido sobre principios de ITS— combina un **código con licencia MIT** con una **biblioteca de contenido Creative Commons (CC BY)** procedente de los manuales de álgebra de OpenStax, además de [[knowledge-tracing|traza de conocimiento]], pruebas A/B y soporte LTI; su objetivo de diseño explícito es que una persona investigadora pueda ejecutar un experimento y luego publicar todo el marco, el contenido y la plataforma de extremo a extremo como un enlace a un repositorio. [[stanbkt-bayesian-knowledge-tracing|StanBKT]] defiende lo mismo en la capa de método, sustituyendo las estimaciones puntuales por maximización de la expectativa por inferencia bayesiana completa (HMC, inferencia variacional, Pathfinder, optimización) en un paquete abierto de Python que expone la incertidumbre de la que dependen las comparaciones A/B de intervenciones adaptativas. [[deeptutor|DeepTutor]] publica un marco completo de tutoría [[agentic-ai|agéntica]] con una memoria de estudiante en forma de bosque de trazas —Apache 2,0, y para finales de 2026 un espacio de trabajo de aprendizaje completo y no solo los flujos que evalúa su artículo— y el generador de aulas OpenMAIC de [[mooc-to-maic|MAIC]] se distribuye bajo MIT junto con el estudio que lo evalúa, de modo que un curso puede generarse, autoalojarse e inspeccionarse en lugar de solo leerse; [[vismatic-secure-sandbox-cs-education|VISMATIC]] publica su sandbox en contenedores para la monitorización orientada a procesos, de modo que otras instituciones puedan adoptar el modelo de integridad y no la versión del proveedor. El código abierto también conlleva la carga de transparencia: los scripts de los prompts de tutoría afectiva de [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] se publican para su inspección y para más trabajo de [[llm-training-and-fine-tuning|entrenamiento pedagógico]]. La infraestructura abierta fija el punto de referencia de lo que deberían hacer los agentes educativos: la [[agentic-ai-education-scoping-review|revisión de alcance de 474 estudios sobre IA agéntica]] usa un proyecto de agentes de código abierto en rápido crecimiento como su punto de referencia del «paradigma de agente de frontera» y encuentra que los sistemas educativos siguen careciendo de orquestación de herramientas gobernada, memoria persistente, planificación de horizonte largo y acción auditable.
 
 ## Puntos de referencia, conjuntos de datos y transparencia de método abiertos
 
@@ -63,11 +67,11 @@ Varias contribuciones de esta base son *infraestructura de evaluación* abierta 
 
 ## Dónde se encuentran el contenido abierto y el código abierto
 
-Los recursos educativos abiertos tienen su propia página, [[open-education]], porque el argumento que se desarrolla allí es pedagógico y de licencias, y no de infraestructura. Lo que corresponde a esta página es la costura donde se encuentran las dos aperturas, y es más estrecha de lo que parece.
+Los recursos educativos abiertos tienen su propia página, [[open-education]], porque el argumento que se desarrolla allí es pedagógico y de licencias, y no de infraestructura. La costura donde se encuentran las dos aperturas es más estrecha de lo que parece., y es más estrecha de lo que parece.
 
 La costura es una restricción de compatibilidad de licencias. [[oatutor-open-source-adaptive-tutor-2023|OATutor]] combina un código con licencia MIT con una biblioteca de contenido CC BY de manuales de álgebra de OpenStax, lo que significa que las condiciones del código y las del contenido deben mantenerse compatibles por diseño, y que una licencia permisiva en uno no proporciona la del otro. La costura aparece también cuando un corpus con licencia abierta es lo que hace legal ejecutar un sistema local: [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] indexan 82 documentos de REA en un asistente de base de conocimiento sobre una GPU de consumo de 12 GB, y toda la historia es una historia de código abierto sobre cuantización, [[hallucination-risk|alucinación]] y procedencia, y no un argumento sobre manuales.
 
-Lo que esta página no hace es argumentar a favor del recurso. Si un manual escrito por una máquina es abierto por defecto, si una licencia sobrevive a una mezcla generada y si la pedagogía abierta enseña algo medible son cuestiones de [[open-education]], y son las cuestiones de las que trata realmente la literatura actual del campo.
+El caso a favor del recurso es un argumento distinto. Si un manual escrito por una máquina es abierto por defecto, si una licencia sobrevive a una mezcla generada y si la pedagogía abierta enseña algo medible son cuestiones de [[open-education]], y son las cuestiones de las que trata realmente la literatura actual del campo.
 
 ## Beneficios y cargas
 
@@ -81,9 +85,9 @@ Lo que esta página no hace es argumentar a favor del recurso. Si un manual escr
 
 ## Concepciones erróneas
 
-**«Pesos abiertos, código abierto, contenido abierto y pedagogía abierta son la misma apertura.»** Son cuatro cosas distintas y fallan de forma independiente. Los argumentos sobre recursos y prácticas están en [[open-education]]; esta página cubre los artefactos que quien construye publica y licencia. Los *pesos* abiertos permiten el despliegue local; el *código* abierto permite la modificación; el *contenido* abierto permite la reutilización y la adaptación; la *pedagogía* abierta se refiere a quién decide qué se enseña. Un modelo con pesos abiertos y una canalización de entrenamiento propietaria, envuelto en una herramienta con interfaz cerrada y una biblioteca de contenido con todos los derechos reservados, es «abierto» en uno de los cuatro sentidos y cerrado en tres.
+**«Pesos abiertos, código abierto, contenido abierto y pedagogía abierta son la misma apertura.»** Son cuatro cosas distintas y fallan de forma independiente. Los argumentos sobre recursos y prácticas están en [[open-education]]; aquí se cubren los artefactos que quien construye publica y licencia. Los *pesos* abiertos permiten el despliegue local; el *código* abierto permite la modificación; el *contenido* abierto permite la reutilización y la adaptación; la *pedagogía* abierta se refiere a quién decide qué se enseña. Un modelo con pesos abiertos y una canalización de entrenamiento propietaria, envuelto en una herramienta con interfaz cerrada y una biblioteca de contenido con todos los derechos reservados, es «abierto» en uno de los cuatro sentidos y cerrado en tres.
 
-La propia palabra está contestada en su origen. [[deimann-rethinking-openness-ai-2026|Deimann y Lukács (2026)]] observan que el debate sobre la apertura llegó a la IA a través de la comunidad del código abierto, con la primera Definición de IA de Código Abierto publicada en 2024, y sostienen que la apertura funciona allí como un imaginario y no como una propiedad: una aspiración que las instituciones adoptan en el lenguaje mientras el régimen que la rodea permanece intacto. Es una comprobación útil para esta página, porque una licencia es una propiedad y un movimiento no lo es.
+La propia palabra está contestada en su origen. [[deimann-rethinking-openness-ai-2026|Deimann y Lukács (2026)]] observan que el debate sobre la apertura llegó a la IA a través de la comunidad del código abierto, con la primera Definición de IA de Código Abierto publicada en 2024, y sostienen que la apertura funciona allí como un imaginario y no como una propiedad: una aspiración que las instituciones adoptan en el lenguaje mientras el régimen que la rodea permanece intacto. Es una comprobación útil, porque una licencia es una propiedad y un movimiento no lo es.
 
 **«Abierto significa más barato.»** Los pesos abiertos hacen posible el despliegue local, pero **alguien tiene que alojar, parchear y evaluar el sistema**, y ese alguien tiene que sobrevivir a la subvención que financió el trabajo. Las cargas que nombra esta literatura son concretas: infraestructura, garantía de [[pedagogical-safety|seguridad pedagógica]] y mantenimiento. El coste total puede superar el de una licencia, y las instituciones que tratan la apertura como un ahorro descubren con frecuencia la obligación de mantenimiento después de que el personal del proyecto se haya dispersado.
 

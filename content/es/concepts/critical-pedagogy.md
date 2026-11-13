@@ -1,7 +1,7 @@
 ---
 title: Pedagogía crítica
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-13T14:15:38-05:00"
 type: concept
 foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
 pedagogy: [critical-pedagogy]
@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: concepts/critical-pedagogy
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,11 +38,11 @@ ai_assist:
 
 ## Introducción
 
-La pedagogía crítica es distinta del [[critical-thinking|pensamiento crítico]]. El pensamiento crítico es una destreza cognitiva —evaluar argumentos, cuestionar supuestos y razonar con cuidado— que puede practicarse dentro de casi cualquier marco. La pedagogía crítica, en cambio, es una *postura política y [[ethics|ética]]* que conecta esas destrezas con cuestiones de poder, justicia, [[equity-in-ai-education|equidad]] y transformación social. La base de conocimiento las trata como conceptos relacionados pero distintos: el pensamiento crítico pregunta «¿es sólido este razonamiento?», mientras que la pedagogía crítica pregunta «¿a quién sirve esta educación y qué conocimiento cuenta?».
+La pedagogía crítica es distinta del [[critical-thinking|pensamiento crítico]]. El pensamiento crítico es una destreza cognitiva —evaluar argumentos, cuestionar supuestos y razonar con cuidado— que puede practicarse dentro de casi cualquier marco. La pedagogía crítica, en cambio, es una *postura política y [[ethics|ética]]* que conecta esas destrezas con cuestiones de poder, justicia, [[equity-in-ai-education|equidad]] y transformación social. Son conceptos relacionados pero distintos: el pensamiento crítico pregunta «¿es sólido este razonamiento?», mientras que la pedagogía crítica pregunta «¿a quién sirve esta educación y qué conocimiento cuenta?».
 
 ## La pedagogía crítica y la IA en la educación
 
-[[ai-education|La IA en la educación]] plantea preguntas agudas a la pedagogía crítica, y la base de conocimiento documenta varias líneas:
+[[ai-education|La IA en la educación]] plantea preguntas agudas a la pedagogía crítica, y varias líneas de trabajo las abordan:
 
 - **Crítica de la «colonización por IA» de la educación.** Académicas críticas y feministas sostienen que la [[generative-ai|IA generativa]] está remodelando la educación de formas que repiten patrones de explotación y extracción coloniales —de datos, trabajo y recursos naturales— enriqueciendo a los poderosos a costa de las comunidades marginadas.([[avraamidou-ai-colonization-science-education]]) Este encuadre rechaza la narrativa «tecno-utópica» que presenta la IA como una bala de plata neutral.
 - **Del cumplimiento al florecimiento humano.** Una revisión socialista-humanista reencuadra la alfabetización en IA como transformación y no como cumplimiento, y nombra la «AIgemony» —la IA que refuerza las asimetrías de poder corporativas— y el «trabajo fantasma» de la mano de obra humana invisible de etiquetado, y aboga por el modo «ser» de implicación activa frente al modo «tener» de posesión ([[mechanical-compliance-human-flourishing-ai-literacy-2026|Rose (2026)]]).
@@ -66,7 +66,7 @@ La pedagogía crítica entra en la evaluación por la pregunta de a quién sirve
 
 ## El papel del educador
 
-Bajo la pedagogía crítica, los educadores no son transmisores neutrales de destrezas sobre IA, sino interlocutores críticos y facilitadores que ayudan a quienes aprenden a interrogar la política de la IA. Esto conecta con los conceptos de [[teacher-role|papel docente]] y [[ai-literacy|alfabetización en IA]] de la base de conocimiento, y con la preocupación más amplia por la [[equity-in-ai-education|equidad]] y la [[reducing-ai-misuse|reducción del mal uso de la IA]]. La tarea del educador es cultivar espacios donde las comunidades puedan cuestionar, apropiarse o rechazar colectivamente la IA, manteniendo la educación como un lugar de imaginación y transformación social.  [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] añaden una condición práctica a ese papel: el trabajo abierto de alfabetización crítica en IA no exige que los educadores lleguen como expertos en IA, solo que estén dispuestos a explorar junto al estudiantado —una investigación conjunta estudiante-docente de un sistema concreto, «pases de salida» electrónicos (no todos de IA), sacó a la luz y trabajó [[misconceptions|ideas erróneas]] a la vez que profundizaba el conocimiento técnico. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran y Arar (2026)]] dan a ese papel una forma construccionista y de ética del cuidado: tratan la [[prompt-engineering|alfabetización en prompts]] como un proceso retórico, ético y reflexivo y no como una destreza de optimización técnica, y la fase final del marco hace que el estudiantado codiseñe con su docente una Política Personal de Uso de IA, de modo que las normas que rigen el uso de la IA en el aula las redactan las personas a las que rigen y no se les imponen.
+Bajo la pedagogía crítica, los educadores no son transmisores neutrales de destrezas sobre IA, sino interlocutores críticos y facilitadores que ayudan a quienes aprenden a interrogar la política de la IA. Esto conecta con [[teacher-role|papel docente]] y [[ai-literacy|alfabetización en IA]], y con la preocupación más amplia por la [[equity-in-ai-education|equidad]] y la [[reducing-ai-misuse|reducción del mal uso de la IA]]. La tarea del educador es cultivar espacios donde las comunidades puedan cuestionar, apropiarse o rechazar colectivamente la IA, manteniendo la educación como un lugar de imaginación y transformación social.  [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] añaden una condición práctica a ese papel: el trabajo abierto de alfabetización crítica en IA no exige que los educadores lleguen como expertos en IA, solo que estén dispuestos a explorar junto al estudiantado. Una investigación conjunta estudiante-docente de un sistema concreto, «pases de salida» electrónicos (no todos de IA), sacó a la luz y trabajó [[misconceptions|ideas erróneas]] a la vez que profundizaba el conocimiento técnico. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran y Arar (2026)]] dan a ese papel una forma construccionista y de ética del cuidado: tratan la [[prompt-engineering|alfabetización en prompts]] como un proceso retórico, ético y reflexivo y no como una destreza de optimización técnica, y la fase final del marco hace que el estudiantado codiseñe con su docente una Política Personal de Uso de IA, de modo que las normas que rigen el uso de la IA en el aula las redactan las personas a las que rigen y no se les imponen.
 
 ## Implicaciones para la práctica
 

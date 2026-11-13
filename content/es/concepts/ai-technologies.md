@@ -1,16 +1,20 @@
 ---
 title: Tecnologías
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-13T14:20:00-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-13"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -19,24 +23,24 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Tecnologías** — los modelos, las arquitecturas y los métodos que impulsan los sistemas de IA educativa, y el concepto paraguas que cubre el tratamiento de la capa técnica en esta base de conocimiento. Donde [[pedagogy|pedagogía]] y [[learning-theories|teorías del aprendizaje]] se ocupan de *cómo ocurren la enseñanza y el aprendizaje*, y la [[ai-ed-evaluation|evaluación de la IA educativa]] se ocupa de *si la IA funciona*, esta página ancla la vertiente *técnica*: los sistemas de IA ([[llm|grandes modelos de lenguaje]], [[generative-ai|IA generativa]], [[multimodal|modelos multimodales]], [[educational-robotics|robots]]) y las técnicas empleadas para construirlos, controlarlos y desplegarlos ([[prompt-engineering|ingeniería de prompts]], [[rag|generación aumentada por recuperación]], [[reinforcement-learning|aprendizaje por refuerzo]], [[educational-nlp|PLN educativa]], [[knowledge-graph|grafos de conocimiento]], [[agentic-ai|orquestación agéntica]]).
+> **Tecnologías** — los modelos, las arquitecturas y los métodos que impulsan los sistemas de IA educativa, y el concepto paraguas de la capa técnica. Donde [[pedagogy|pedagogía]] y [[learning-theories|teorías del aprendizaje]] se ocupan de *cómo ocurren la enseñanza y el aprendizaje*, y la [[ai-ed-evaluation|evaluación de la IA educativa]] se ocupa de *si la IA funciona*, la vertiente *técnica* abarca: los sistemas de IA ([[llm|grandes modelos de lenguaje]], [[generative-ai|IA generativa]], [[multimodal|modelos multimodales]], [[educational-robotics|robots]]) y las técnicas empleadas para construirlos, controlarlos y desplegarlos ([[prompt-engineering|ingeniería de prompts]], [[rag|generación aumentada por recuperación]], [[reinforcement-learning|aprendizaje por refuerzo]], [[educational-nlp|PLN educativa]], [[knowledge-graph|grafos de conocimiento]], [[agentic-ai|orquestación agéntica]]).
 
 ## Preguntas para reflexionar
 
-- Puede ser una docente excelente sin saber construir un LLM, pero esta página sostiene que sus decisiones técnicas siguen moldeando lo que la IA puede y no puede hacer en su aula. ¿De qué manera la tecnología subyacente de una herramienta de IA podría cambiar en silencio cómo aprende su estudiantado, aunque nunca vea el código?
+- Enseñar bien no exige construir un LLM, pero las decisiones sobre el modelo y la recuperación que hay bajo una herramienta de IA siguen decidiendo lo que esta puede hacer en su aula. ¿De qué manera la tecnología subyacente de una herramienta de IA podría cambiar en silencio cómo aprende su estudiantado, aunque nunca vea el código?
 - Un supuesto habitual es que el modelo lo es todo, pero técnicas como la generación aumentada por recuperación (RAG) y la ingeniería de prompts existen precisamente para controlar y fundamentar la salida de un LLM. Antes de seguir leyendo: cuando le pide a una IA que «sea más precisa» o que «use esta fuente», ¿qué cree que ocurre en realidad por debajo?
 - La RAG se describe como una técnica central para reducir las alucinaciones y mejorar la seguridad. ¿Por qué cree que recuperar conocimiento relevante para «fundamentar» la respuesta de una IA importaría más en educación que, por ejemplo, en un chat informal, y qué podría salir mal si esa fundamentación falla?
-- La página afirma que las decisiones técnicas encarnan supuestos pedagógicos: un tutor construido con prompts socráticos razona con quien aprende, mientras que un modelo que genera respuestas puede limitarse a entregar soluciones. ¿Recuerda alguna herramienta de IA que pareciera «asumir» una filosofía de enseñanza concreta? ¿Coincidía con cómo quería enseñar o aprender?
-- Más allá de la precisión bruta, esta página sugiere que los sistemas de IA deberían evaluarse por su fiabilidad, su pedagogía y su equidad. ¿Qué métrica de titular sospecha que la mayoría de la gente (incluido mucho profesorado) usa por defecto para juzgar si una herramienta de IA «funciona», y por qué esa métrica podría ocultar más de lo que revela?
+- Las decisiones técnicas encarnan supuestos pedagógicos: un tutor construido con prompts socráticos razona con quien aprende, mientras que un modelo que genera respuestas puede limitarse a entregar soluciones. ¿Recuerda alguna herramienta de IA que pareciera «asumir» una filosofía de enseñanza concreta? ¿Coincidía con cómo quería enseñar o aprender?
+- Más allá de la precisión bruta, los sistemas de IA deberían evaluarse por su fiabilidad, su pedagogía y su equidad. ¿Qué métrica de titular sospecha que la mayoría de la gente (incluido mucho profesorado) usa por defecto para juzgar si una herramienta de IA «funciona», y por qué esa métrica podría ocultar más de lo que revela?
 - Se describe la IA agéntica como un desplazamiento de la IA «de herramienta que responde a prompts a colaboradora proactiva». ¿Cómo podría un sistema que inicia y orquesta flujos de trabajo de varios pasos por su cuenta cambiar aquello de lo que usted, como docente o como persona que aprende, es responsable? ¿Y quién le rinde cuentas?
 
 ## Introducción
 
-[[ai-education|La IA en la educación]] funciona sobre una pila técnica concreta, y entenderla importa al [[teacher-role|profesorado]] y al personal investigador incluso cuando no construyen sistemas por sí mismos, porque las decisiones técnicas moldean lo que la IA puede y no puede hacer en el aula, los riesgos que conlleva y cómo evaluarla. Esta página organiza la cobertura de conceptos técnicos de la base de conocimiento: los sistemas de IA, las técnicas que los adaptan y controlan, y cómo se conecta la capa técnica con la pedagogía, la evaluación y la medición.
+[[ai-education|La IA en la educación]] funciona sobre una pila técnica concreta, y entenderla importa al [[teacher-role|profesorado]] y al personal investigador incluso cuando no construyen sistemas por sí mismos, porque las decisiones técnicas moldean lo que la IA puede y no puede hacer en el aula, los riesgos que conlleva y cómo evaluarla. La capa técnica abarca los sistemas de IA, las técnicas que los adaptan y controlan, y cómo se conecta la capa técnica con la pedagogía, la evaluación y la medición.
 
 ## Sistemas de IA en la educación
 
-- **Grandes modelos de lenguaje (LLM).** La columna vertebral computacional de la mayor parte de la [[ai-education|IAED]] moderna: los [[llm|LLM]] generan texto similar al humano para tutoría, evaluación y generación de contenido, y son la tecnología más citada de la base de conocimiento. El [[llm-training-and-fine-tuning|entrenamiento pedagógico]] adapta los LLM generales al uso educativo.
+- **Grandes modelos de lenguaje (LLM).** La columna vertebral computacional de la mayor parte de la [[ai-education|IAED]] moderna: los [[llm|LLM]] generan texto similar al humano para tutoría, evaluación y generación de contenido, y son la tecnología más citada del campo. El [[llm-training-and-fine-tuning|entrenamiento pedagógico]] adapta los LLM generales al uso educativo.
 - **IA generativa.** La categoría más amplia de sistemas que producen texto, código, imágenes y otros contenidos: la [[generative-ai|IA generativa]] (impulsada principalmente por LLM) es la tecnología detrás de la ola actual de investigación en [[ai-education|IAED]]. Véanse también los [[multimodal|modelos multimodales]] (texto, imagen, audio) y la [[simulation|simulación]].
 - **Robots y sistemas corporeizados.** La [[educational-robotics|robótica educativa]] añade una presencia [[embodied-learning|corporeizada]] y a menudo [[community-of-inquiry|social]]: kits programables para el [[computational-thinking|pensamiento computacional]] y robots humanoides o sociales para tutoría, [[storytelling-in-education|narración]] y juego de roles. La robótica es una vertiente técnica distinta que se solapa con la [[agentic-ai|IA agéntica]] y el diseño con [[human-in-the-loop-ai|human-in-the-loop]].
 - **Sistemas basados en conocimiento.** Los [[knowledge-graph|grafos de conocimiento]] y la [[educational-nlp|PLN educativa]] representan y procesan conocimiento de dominio, cada vez más combinados con LLM para una tutoría fundamentada y explicable.
@@ -48,11 +52,11 @@ ai_assist:
 - **Aprendizaje por refuerzo.** El [[reinforcement-learning|aprendizaje por refuerzo]] entrena agentes para optimizar su comportamiento a lo largo del tiempo; se usa en [[adaptive-learning|sistemas adaptativos]] y en el [[game-based-learning|aprendizaje basado en juegos]].
 - **Orquestación agéntica.** Los sistemas de [[agentic-ai|IA agéntica]] planifican y ejecutan flujos de trabajo de varios pasos, a menudo orquestando varios agentes especializados (véanse los [[agentic-ai|sistemas multiagente]]), y están reconfigurando la IA de herramienta que responde a prompts en colaboradora proactiva.
 - **La pila de agentes educativos va por detrás de la frontera.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] mapearon 474 estudios y encontraron que los modelos de la serie GPT y LangChain dominaban, mientras que la orquestación de herramientas gobernada, la memoria persistente y la planificación a largo plazo estaban en gran medida ausentes, y solo 138 de 474 (29%) se apoyaban en teoría educativa.
-- **Entrenamiento y adaptación de modelos.** El [[llm-training-and-fine-tuning|entrenamiento y ajuste fino de LLM para la pedagogía]], la [[educational-llm-alignment|alineación educativa]] y la [[cstutorbench-slm-tutors|adaptación de modelos de lenguaje pequeños]] hacen que los modelos generales sean específicos para la educación, aunque la evidencia de la base de conocimiento sitúa la [[rag|recuperación]] y la [[prompt-engineering|ingeniería de prompts]] por delante del entrenamiento en el orden de decisión, ya que un prompt bien fundamentado es más barato que un modelo adaptado.
+- **Entrenamiento y adaptación de modelos.** El [[llm-training-and-fine-tuning|entrenamiento y ajuste fino de LLM para la pedagogía]], la [[educational-llm-alignment|alineación educativa]] y la [[cstutorbench-slm-tutors|adaptación de modelos de lenguaje pequeños]] hacen que los modelos generales sean específicos para la educación, aunque la evidencia sitúa la [[rag|recuperación]] y la [[prompt-engineering|ingeniería de prompts]] por delante del entrenamiento en el orden de decisión, ya que un prompt bien fundamentado es más barato que un modelo adaptado.
 
 ## Cómo se conecta la capa técnica con el campo
 
-La vertiente técnica es inseparable de los demás temas de la base de conocimiento:
+La vertiente técnica es inseparable de los demás temas del campo:
 
 - **Pedagogía:** las decisiones técnicas encarnan supuestos pedagógicos: un [[intelligent-tutoring|tutor]] construido con [[socratic-method|prompts socráticos]] razona con quien aprende, mientras que un modelo que genera respuestas puede limitarse a ofrecerlas directamente (véanse las [[pedagogy|pedagogías y estrategias de enseñanza]]).
 - **Evaluación y medición:** la [[ai-ed-evaluation|evaluación de la IA educativa]] y los [[benchmark|puntos de referencia]] determinan si los sistemas de IA funcionan de verdad; la [[assessment|evaluación]] y la [[automated-assessment|evaluación automatizada]] usan la pila técnica para calificar y generar.
@@ -73,7 +77,7 @@ La vertiente técnica es inseparable de los demás temas de la base de conocimie
 
 **«La madurez técnica del campo está establecida.»** El mapa es delgado donde importa: en **474 estudios**, los modelos de la serie GPT y LangChain eran dominantes mientras que **la orquestación gobernada de herramientas, la memoria persistente y la planificación de horizonte largo estaban en gran medida ausentes**, y solo **138 de 474 (29%)** se apoyaban en teoría educativa. La pila que se usa es mucho más estrecha que la pila que el campo necesita.
 
-**«Las decisiones técnicas son cosa de quien desarrolla la tecnología y no de quien educa.»** El planteamiento de la página es que se puede ser un educador excelente sin saber construir un LLM y que aun así las decisiones técnicas moldean lo que la IA puede y no puede hacer en su aula. Que un sistema fundamente sus respuestas en el material del curso es una decisión con consecuencias pedagógicas que alguien tiene que tomar.
+**«Las decisiones técnicas son cosa de quien desarrolla la tecnología y no de quien educa.»** Se puede ser un educador excelente sin saber construir un LLM y aun así las decisiones técnicas moldean lo que la IA puede y no puede hacer en su aula. Que un sistema fundamente sus respuestas en el material del curso es una decisión con consecuencias pedagógicas que alguien tiene que tomar.
 
 **«Un modelo más capaz resolverá las lagunas del campo.»** La orquestación, la memoria y la planificación de horizonte largo son problemas arquitectónicos y no de capacidad: la ausencia documentada es de sistemas que gobiernan su propio uso de herramientas a lo largo del tiempo, algo que un modelo mejor no aporta por sí solo.
 

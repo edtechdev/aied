@@ -1,13 +1,13 @@
 ---
 title: Análisis de redes
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-13T14:13:17-05:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -33,9 +33,9 @@ ai_assist:
 
 Los métodos de análisis de redes comparten una premisa central: que la estructura de las conexiones —y no solo su presencia o su frecuencia— tiene significado. En lugar de preguntar «cuánto de X ocurrió», preguntan «cómo están conectados los elementos, y qué revela esa conectividad sobre la [[metacognition|cognición]], la [[collaborative-learning|colaboración]] o los procesos de aprendizaje?». Esto los hace especialmente valiosos en la IA en educación, donde la investigación quiere cada vez más entender el *proceso* de la [[student-ai-interaction|interacción entre quien aprende y la IA]] (cómo navega el estudiantado la [[feedback]], el diálogo y la revisión) y no solo el producto (puntuaciones finales, tasas de error).
 
-## Variantes usadas en el corpus de la base de conocimiento
+## Variantes usadas en la investigación
 
-- **Análisis de Redes Epistémicas (ENA)** — la variante más común en la base de conocimiento (tratada en ~24 artículos). El ENA modela la coocurrencia de códigos o constructos dentro de segmentos de discurso o actividad, y produce redes que muestran qué ideas, habilidades o acciones epistémicas tienden a estar conectadas en un contexto dado. Se usa para comparar cómo distintos grupos (por ejemplo, estudiantado con alfabetización alta frente a baja, colaboradores humanos frente a IA) estructuran su cognición. ([[tracing-genai-literacy-interaction-patterns]]) ([[hao-human-ai-collaborative-problem-solving-cognition]])
+- **Análisis de Redes Epistémicas (ENA)** — la variante más común en la literatura (tratada en ~24 artículos). El ENA modela la coocurrencia de códigos o constructos dentro de segmentos de discurso o actividad, y produce redes que muestran qué ideas, habilidades o acciones epistémicas tienden a estar conectadas en un contexto dado. Se usa para comparar cómo distintos grupos (por ejemplo, estudiantado con alfabetización alta frente a baja, colaboradores humanos frente a IA) estructuran su cognición. ([[tracing-genai-literacy-interaction-patterns]]) ([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **El ENA también cartografía el discurso sobre competencias del [[teacher-role|profesorado]].** Aplicar el Análisis de Redes Epistémicas a entrevistas con 24 docentes de educación superior de Aotearoa Nueva Zelanda modeló los vínculos entre siete dimensiones del HACC y encontró que las redes de quienes ejercen como docentes principales diferían significativamente de las de docentes sénior (U = 10,00, p = 0,04) y de docentes al inicio de su carrera (U = 7,00, p = 0,01) en el primer eje ([[dang-human-ai-collaboration-competency-2026|Dang et al. (2026)]]).
 - **Análisis de Redes Sociales (SNA)** — modela las relaciones entre personas (estudiantado, profesorado, agentes) para revelar estructuras de colaboración, influencia, centralidad y comunidad. Útil para estudiar el [[collaborative-learning|aprendizaje colaborativo]] y el aprendizaje entre pares. ([[misiejuk-cognitive-offloading-prompting-2026]])
 - **Análisis de Redes de Transición (TNA)** — modela secuencias temporales de estados discretos (por ejemplo, las acciones de quien aprende en una sesión de tutoría) como una red dirigida, y cuantifica la probabilidad de pasar de un estado a otro. El TNA se usa para revelar bucles de comportamiento, trayectorias y dinámicas de aprovechamiento en la interacción entre quien aprende y la IA. ([[penny-transition-network-analysis-efl-writing-2026]])
@@ -44,13 +44,13 @@ Estas se diferencian de un **[[knowledge-graph]]**, que es una estructura de dat
 
 ## El análisis de redes en la investigación sobre IA en educación
 
-Los métodos de redes se usan en toda la base de evidencia de la base de conocimiento para responder preguntas que las métricas agregadas no pueden responder:
+Los métodos de redes se usan en toda la base de evidencia para responder preguntas que las métricas agregadas no pueden responder:
 
 - **Abrir la «caja negra» de la interacción entre quien aprende y la IA.** El TNA revela el *proceso* —los bucles de comportamiento y las trayectorias que sigue el estudiantado al usar herramientas de IA (por ejemplo, un «bucle de revisión» frente a un «bucle de chat» en la [[writing-education|escritura]] con andamiaje de [[conversational-ai|chatbot]])— y no solo el resultado final. ([[penny-transition-network-analysis-efl-writing-2026]])
 - **Comparar la estructuración cognitiva entre grupos.** El ENA muestra cómo distintos grupos conectan los constructos de manera distinta; por ejemplo, cómo la [[metacognition]] coocurre con la delegación frente al razonamiento humano en la colaboración humano-IA, lo que revela modos de colaboración diferentes. ([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **Trazar la alfabetización en IA y las firmas de interacción.** El ENA sobre registros de interacción identifica patrones distintos de uso de [[llm|LLM]] (refinamiento estratégico iterativo frente a comandos lineales), y distingue la [[ai-literacy|competencia]] y el desarrollo de quien aprende. ([[tracing-genai-literacy-interaction-patterns]])
 - **Analizar el discurso y el encuadre.** El ENA se aplica a datos [[qualitative-research|cualitativos]] y [[multimodal]] (por ejemplo, encuadres de YouTube sobre [[generative-ai|ChatGPT]] en educación) para revelar la estructura del discurso público o disciplinar. ([[youtube-frames-chatgpt-education]])
-- **Complementar el [[self-report-measures|autoinforme]] y las métricas de producto.** Como los métodos de redes usan datos conductuales observados, pueden exponer discrepancias entre lo que el estudiantado afirma y lo que hace realmente: un hallazgo recurrente en la literatura de la base de conocimiento sobre aprovechamiento de la retroalimentación.
+- **Complementar el [[self-report-measures|autoinforme]] y las métricas de producto.** Como los métodos de redes usan datos conductuales observados, pueden exponer discrepancias entre lo que el estudiantado afirma y lo que hace realmente: un hallazgo recurrente en la literatura sobre aprovechamiento de la retroalimentación.
 - **La estructura de grafo como cantidad de validación, no como resumen descriptivo.** [[synthetic-educational-data-structural-fidelity-2026|Inoue y Yasutake (2026)]] siguen β0 —el número de componentes conexas de un grafo de proximidad semanal sobre el estudiantado con un umbral euclídeo fijo— para comprobar si las cohortes sintéticas reproducen las reales, y lo prefieren porque queda fijado por el grafo mismo, no necesita optimización ni semilla aleatoria a diferencia de la maximización de modularidad, y sigue definido cuando entre un séptimo y un tercio del estudiantado queda aislado en una componente.
 
 ## Consideraciones metodológicas

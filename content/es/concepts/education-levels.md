@@ -1,7 +1,7 @@
 ---
 title: Niveles educativos
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-13T14:20:00-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -14,10 +14,14 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T12:55:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-13"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -26,7 +30,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Niveles educativos** — las bandas que organizan el metadato `level` de esta base de conocimiento: **preescolar**, **educación primaria**, **educación media**, **secundaria**, **K-12**, **educación superior**, **grado**, **posgrado**, **aprendizaje de personas adultas**, **educación especial** y formación del [[teacher-role|profesorado]]. Esta página es el paraguas de ese campo y no un duplicado de ninguna página de banda concreta: explica qué cambia al pasar de una banda a otra, por qué la ruptura entre escuela y universidad importa más que la asignatura que se enseña, y dónde la evidencia sobre IA es densa y dónde es escasa.
+> **Niveles educativos** — las bandas que organizan el metadato `level`: **preescolar**, **educación primaria**, **educación media**, **secundaria**, **K-12**, **educación superior**, **grado**, **posgrado**, **aprendizaje de personas adultas**, **educación especial** y formación del [[teacher-role|profesorado]]. La página paraguas no duplica ninguna página de banda concreta: explica qué cambia al pasar de una banda a otra, por qué la ruptura entre escuela y universidad importa más que la asignatura que se enseña, y dónde la evidencia sobre IA es densa y dónde es escasa.
 
 ## Preguntas para reflexionar
 
@@ -39,7 +43,7 @@ ai_assist:
 
 El campo de metadatos `level` nombra la banda educativa sobre la que trata una fuente: bandas, no edades: **preescolar**, **educación primaria**, **educación media**, **secundaria**, **K-12**, **educación superior**, **grado**, **posgrado**, **aprendizaje de personas adultas**, **educación especial** y **formación docente**. Algunas nombran una etapa de la escolarización, dos nombran las dos mitades muy distintas del estudio universitario, dos nombran una [[learners|población de aprendientes]] y no una etapa, y una nombra a quienes enseñan. Una fuente puede llevar varias bandas a la vez.
 
-Esta página es el paraguas de ese campo; las páginas de banda hacen el trabajo profundo y deben leerse junto a ella: [[k-12|K-12]], [[early-childhood-elementary-ai-education|educación infantil y primaria con IA]], [[higher-ed|educación superior]], [[adult-learning|aprendizaje de personas adultas]], [[special-education|educación especial]], [[teacher-education|formación docente]] y [[vocational-education|formación profesional]].
+Las páginas de banda hacen el trabajo profundo y pertenecen a cualquier lectura del campo: [[k-12|K-12]], [[early-childhood-elementary-ai-education|educación infantil y primaria con IA]], [[higher-ed|educación superior]], [[adult-learning|aprendizaje de personas adultas]], [[special-education|educación especial]], [[teacher-education|formación docente]] y [[vocational-education|formación profesional]].
 
 ## Qué distingue una banda de otra
 
@@ -60,13 +64,15 @@ Los años universitarios se dividen otra vez. El grado es trabajo de curso bajo 
 
 ## Dónde se concentra la evidencia y dónde es escasa
 
-El corpus está poblado de forma desigual, y el campo de nivel hace visible ese desequilibrio.
+La evidencia está distribuida de forma desigual, y el campo de nivel hace visible ese desequilibrio.
 
 **Denso.** La educación superior es la banda más cubierta: las páginas consultadas aquí incluyen un ensayo de plataforma de ocho semanas con 60 estudiantes de ingeniería ([[ai-assisted-seminar-learning-information-literacy-2026]]), una encuesta a 395 gestores educativos ([[ai-adoption-readiness-ukraine-education-managers-2026]]), una metasíntesis de 18 estudios africanos de educación superior ([[data-privacy-ai-african-higher-education-2026]]) y un estudio de formación doctoral con 420 investigadores ([[ai-mediated-research-agency-formation-2026]]). Primaria y secundaria también aportan evidencia de resultados.
 
-**Escasa, y en algunos puntos ausente.** Las páginas consultadas aquí no informan de ningún estudio de resultados en la infancia para la banda de preescolar; la evidencia más cercana es una encuesta sobre intenciones docentes que excluía herramientas dirigidas a la infancia ([[preschool-teachers-ai-behavioral-intention-2026]]). La educación media aparece sobre todo como un diseño *propuesto* y un estudio longitudinal, y no como resultados informados ([[ai-lms-middle-school-longitudinal]]). La evidencia más sólida de la banda de formación profesional son 63 respuestas de [[self-report-measures|autoinforme]] de un solo curso, que sus autores dicen que requieren replicación ([[ai-ive-pbl-vocational-design-creativity-2026]]). La evidencia de posgrado es transversal, y un modelo de vía inversa ajusta algo mejor que el evolutivo, así que la dirección que va de la dependencia a una menor autonomía se infiere y no se confirma ([[ai-mediated-research-agency-formation-2026]]). Nada de lo consultado aquí informa de evidencia de resultados sobre IA para el **aprendizaje de personas adultas** ni para la **educación especial** como bandas; esas tienen su propia cobertura en [[adult-learning|aprendizaje de personas adultas]] y [[special-education|educación especial]], y esta página no generaliza a partir de hallazgos con población escolar para llenar el hueco.
+**Escasa, y en algunos puntos ausente.** Las páginas consultadas aquí no informan de ningún estudio de resultados en la infancia para la banda de preescolar; la evidencia más cercana es una encuesta sobre intenciones docentes que excluía herramientas dirigidas a la infancia ([[preschool-teachers-ai-behavioral-intention-2026]]). La educación media aparece sobre todo como un diseño *propuesto* y un estudio longitudinal, y no como resultados informados ([[ai-lms-middle-school-longitudinal]]). La evidencia más sólida de la banda de formación profesional son 63 respuestas de [[self-report-measures|autoinforme]] de un solo curso, que sus autores dicen que requieren replicación ([[ai-ive-pbl-vocational-design-creativity-2026]]). La evidencia de posgrado es transversal, y un modelo de vía inversa ajusta algo mejor que el evolutivo, así que la dirección que va de la dependencia a una menor autonomía se infiere y no se confirma ([[ai-mediated-research-agency-formation-2026]]). Nada de lo consultado aquí informa de evidencia de resultados sobre IA para el **aprendizaje de personas adultas** ni para la **educación especial** como bandas; esas tienen su propia cobertura en [[adult-learning|aprendizaje de personas adultas]] y [[special-education|educación especial]], y no generaliza a partir de hallazgos con población escolar para llenar el hueco.
 
 Un patrón se mantiene en todos los niveles examinados: la capa humana absorbe los casos más difíciles. Una persona experta se mantuvo en el punto de decisión de credibilidad de los estudiantes de ingeniería incluso cuando la recomendación algorítmica alcanzó F1 = 0,64 ([[ai-assisted-seminar-learning-information-literacy-2026]]); el apoyo de la supervisión fue la única condición que debilitó los vínculos negativos de la dependencia de la IA en la formación doctoral ([[ai-mediated-research-agency-formation-2026]]); y son los docentes de preescolar, y no los niños, quienes adoptan la tecnología ([[preschool-teachers-ai-behavioral-intention-2026]]).
+
+Los resultados de educación media ya existen: entre 178 estudiantes indonesios de secundaria básica, las tareas de diagnóstico culturalmente integradas predijeron el rendimiento simbólico (β = 0,42) y la implicación (β = 0,37), y los perfiles de diagnóstico con IA coincidieron con los juicios de expertos (ICC = 0,81) ([[culturally-embedded-ai-diagnostic-assessment-2026|Anggara et al. (2026)]]).
 
 ## Qué cambia de verdad un diseño adecuado al nivel
 
@@ -74,7 +80,7 @@ Un patrón se mantiene en todos los niveles examinados: la capa humana absorbe l
 - **Nivel de lectura.** Un chatbot adaptado por edad usó variables de prompt para las edades de 7 a 9, 9 a 11 y 12 a 14 años, y 63 niños y niñas de primero a octavo grado lo trataron como una fuente de información creíble ([[vahedian-children-attitudes-ai-chatbot-2026]]).
 - **Mediación.** [[parents-and-families|Las familias]] y el profesorado median en los años escolares, y el personal de [[librarians|biblioteca]] y la supervisión en los años universitarios; y la contraparte universitaria es la pericia y no la tutela: la plataforma de ingeniería mantuvo a una persona donde el algoritmo tenía menos confianza ([[ai-assisted-seminar-learning-information-literacy-2026]]).
 - **Consecuencias de la evaluación.** El diseño de LMS para educación media regula la IA por actividad, manteniendo pistas acotadas en el modo de práctica y desactivando la IA en los ítems calificados ([[ai-lms-middle-school-longitudinal]]), una precaución que la evidencia de la penalización en el aprendizaje en secundaria vuelve concreta ([[stromberg-generative-ai-learning-penalty-secondary-2026]]).
-- **Deberes de protección de datos de menores.** Las obligaciones escalan con la edad: para los menores, las propuestas del corpus son estructurales (minimización de datos, restricciones de respuesta adecuadas a la edad, control de acceso basado en roles, registros auditables) ([[ai-lms-middle-school-longitudinal]]), y no puede darse por supuesta la conciencia de los niños sobre seguridad digital, ya que algunos estaban dispuestos a confiar secretos a un chatbot ([[vahedian-children-attitudes-ai-chatbot-2026]]). Para las personas adultas, los deberes se desplazan hacia el consentimiento, el control y el flujo transfronterizo de datos ([[data-privacy-ai-african-higher-education-2026]]).
+- **Deberes de protección de datos de menores.** Las obligaciones escalan con la edad: para los menores, las propuestas son estructurales (minimización de datos, restricciones de respuesta adecuadas a la edad, control de acceso basado en roles, registros auditables) ([[ai-lms-middle-school-longitudinal]]), y no puede darse por supuesta la conciencia de los niños sobre seguridad digital, ya que algunos estaban dispuestos a confiar secretos a un chatbot ([[vahedian-children-attitudes-ai-chatbot-2026]]). Para las personas adultas, los deberes se desplazan hacia el consentimiento, el control y el flujo transfronterizo de datos ([[data-privacy-ai-african-higher-education-2026]]).
 - **Gobernanza que encaja con la banda.** La preparación es específica de cada capa: 395 gestores ucranianos puntuaron su preparación personal 0,68 puntos por encima de la del sistema (d = 0,73), citaron la ausencia de regulación como el factor más frecuente (58,5%) y valoraron la [[personalized-learning|personalización]] —el beneficio que más prometen los proveedores— como la aplicación menos puntuada de todas (29,4%) ([[ai-adoption-readiness-ukraine-education-managers-2026]]).
 
 ## Implicaciones para la IA en la educación

@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-12T07:25:00-05:00"
+source_updated: "2026-11-13T07:50:30-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ ai_assist:
 
 ## Introducción
 
-La competencia en IA del profesorado importa porque el profesorado es el factor decisivo de que la IA mejore el aprendizaje. La investigación muestra de forma consistente que las herramientas de IA solo se traducen en mejores resultados cuando el profesorado puede planificar su uso, andamiar el uso que hace el estudiantado, evaluar los resultados e integrarlos en una enseñanza coherente. La literatura de la base de conocimiento examina las *dimensiones* de esta competencia, las *brechas* entre la autopercepción y la habilidad real, y el *desarrollo profesional* que la construye.
+La competencia en IA del profesorado importa porque el profesorado es el factor decisivo de que la IA mejore el aprendizaje. La investigación muestra de forma consistente que las herramientas de IA solo se traducen en mejores resultados cuando el profesorado puede planificar su uso, andamiar el uso que hace el estudiantado, evaluar los resultados e integrarlos en una enseñanza coherente. La literatura examina las *dimensiones* de esta competencia, las *brechas* entre la autopercepción y la habilidad real, y el *desarrollo profesional* que la construye.
 
 [[nunez-canal-stakeholder-engagement-ai-competency-2026|Nunez-Canal et al. (2026)]] vinculan directamente la competencia en IA del personal docente con los resultados del estudiantado y, apoyándose en las teorías del capital humano y de las partes interesadas sobre una encuesta a profesorado de negocios y economía, sostienen que la inversión de las universidades en la competencia del profesorado no es discrecional.
 
@@ -60,7 +60,7 @@ La competencia en IA del profesorado importa porque el profesorado es el factor 
 
 ## Dimensiones centrales de la competencia
 
-La investigación de la base de conocimiento converge en varias dimensiones interconectadas:
+La investigación converge en varias dimensiones interconectadas:
 
 - **Dominio técnico:** elaborar [[prompt-engineering|prompts]] eficaces para objetivos educativos, [[ai-ed-evaluation|evaluar herramientas de IA]] por su idoneidad pedagógica y su seguridad, y resolver fallos en tiempo real. [[genai-pd-ai-pck-learning-gain-2026|Un programa intensivo de desarrollo profesional en IA generativa]] documentó ganancias significativas en los cinco componentes del AI-PCK (en conjunto, *d* = 2,36), lo que muestra que la habilidad técnico-pedagógica es formable.
 - **Especificar los flujos de trabajo de los agentes:** cuando el profesorado configura un chatbot en lenguaje natural, el fallo dominante es la pérdida de intención y no los datos erróneos —los bots se saltaron pasos obligatorios del flujo de trabajo en el 53,8% de las conversaciones de usuarios finales y omitieron el establecimiento de expectativas en el 33,4% ([[eduwild-teacher-configured-chatbots-failures-2026|Liu et al. (2026)]]), de modo que escribir pasos ordenados y explícitos es una dimensión competencial entrenable por sí misma.
@@ -84,6 +84,10 @@ La preparación debería ordenarse y medirse en consecuencia: el modelo Capacida
 Una versión más fuerte de ese reencuadre sostiene que la IA generativa es un concepto umbral y no una brecha de habilidades: un relato autoetnográfico argumenta que la [[anxiety-and-stress|ansiedad]] y la resistencia del profesorado son constitutivas del cruce del umbral, de modo que la formación basada en habilidades fracasa y la no adopción con principios debería respetarse en lugar de corregirse ([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]]).
 
 **La competencia se manifiesta como reparación, no solo como prompting.** Con 7 docentes de matemáticas de secundaria que reescribieron 143 problemas, [[walkington-teacher-in-loop-personalized-tasks-2026|Walkington et al. (2026)]] codificaron 415 prompts de seguimiento: la mayoría corregía el realismo, la legibilidad o la estructura matemática, y seis detectaron resultados inapropiados o sesgados —el juicio docente operando como [[human-in-the-loop-ai|supervisión]] de la tarea generada y no como fluidez en el prompting.
+
+**Dos dimensiones son compromisos, no puntuaciones.** [[feng-ai-literacy-psychological-dimensions-2026|Feng y Carolus (2026)]] sintetizan 58 estudios de educación escolar y sitúan el *conocimiento contextual* y el *crecimiento profesional continuo* entre las seis dimensiones de la alfabetización en IA del profesorado, junto al conocimiento y las habilidades basados en TPACK, la ética, la dimensión psicológica y una específica de la IA generativa. Trece de los artículos revisados construyen su conceptualización docente sobre [[tpack|TPACK]]. Leer el crecimiento como dimensión y no como resultado cambia lo que un marco de competencia tiene que medir: la trayectoria de un docente y las restricciones de su escuela pasan a formar parte de la competencia, y no son condiciones a su alrededor.
+
+**Construir competencia no responde a la vía del desgaste.** En la misma encuesta a 436 docentes universitarios de diseño, [[ding-genai-colleague-teacher-depletion-2026|Ding et al. (2026)]] encontraron que el uso de IA generativa elevaba a la vez la [[self-efficacy|autoeficacia]] docente (β = 0,322) y la ansiedad ante la IA (β = 0,268), y la ansiedad predecía menos enseñanza innovadora y más retirada del trabajo (β = −0,152 y β = 0,264). Un programa de desarrollo profesional que solo construye habilidad deja intacta la segunda vía: los moderadores eran el apoyo organizativo y la ruptura del contrato psicológico, no la competencia.
 
 ## La brecha de competencia
 
@@ -116,7 +120,7 @@ La adopción pasa por el juicio sobre la disciplina y no por el entusiasmo gener
 
 ## Desarrollo profesional que funciona
 
-La literatura sobre desarrollo profesional de la base de conocimiento identifica enfoques eficaces:
+La literatura sobre desarrollo profesional identifica enfoques eficaces:
 
 - **Programas intensivos y fundamentados en la teoría:** [[genai-pd-ai-pck-learning-gain-2026|un programa intensivo de desarrollo profesional en IA generativa]] con 163 docentes y futuros docentes produjo ganancias significativas en todos los componentes del AI-PCK, y los futuros docentes fueron quienes más se beneficiaron. [[teacher-education-ai-literacy-sdt-2026|El desarrollo profesional basado en la teoría de la autodeterminación]] muestra que una formación que apoya las necesidades mejora la alfabetización en IA, las actitudes y la [[student-engagement|implicación]] del profesorado, a la vez que reduce la ansiedad.
 - **Enfoques [[design-based-research|basados en el diseño]] e integrados:** [[genai-literacy-training-teacher-education-dbr-2026|la formación en alfabetización en IA generativa basada en investigación de diseño]] aborda el énfasis excesivo en el conocimiento técnico y en las herramientas anteriores a la IA generativa; [[rail-ed-genai-literacy-teacher-education|los marcos integradores y de desarrollo]] y [[sec-ai-literacy-narrative-review-2026|la integración de competencias socioemocionales]] amplían la alfabetización más allá de la técnica pura.
@@ -146,24 +150,31 @@ Un contraejemplo basado en el diseño trata la competencia como situacional y no
 
 - **Los planes de IA son una línea base, y la mediación es la competencia.** Veintiséis docentes principiantes que revisaban planificaciones de clase generadas por IA reescribieron las tareas, añadieron modelado y apoyos lingüísticos, clarificaron los objetivos y reconstruyeron la secuenciación en torno a la logística del aula, y describieron su papel como revisar y personalizar en lugar de aceptar el resultado ([[wilcoxen-steiner-bell-ai-lesson-planning-2026]]).
 
+La formación sin tiempo en el horario no llega al estudiantado. La revisión de iRAISE de 2026 en cuatro países plantea el punto de forma estructural: los currículos, la formación docente y los materiales solo tienen un impacto limitado a menos que las escuelas reserven tiempo para enseñar alfabetización digital y en IA, mediante lecciones dedicadas o proyectos a lo largo del curso ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]).
+
+## Medir la competencia en IA del profesorado
+
+[[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validó un instrumento diagnóstico basado en el modelo TAM con 434 docentes en activo. La intención conductual fue el principal predictor de la competencia digital para usar IA generativa en la planificación curricular, con la autoeficacia como motor de raíz.
+
+Un estudio psicométrico desarrolló la Escala de Alfabetización en IA del Profesorado (TAILS) para medir la alfabetización en IA específicamente en la [[teacher-education|formación de profesorado de idiomas]], operacionalizando las seis dimensiones del marco ED-AI. El instrumento cubre una carencia de evaluaciones escritas para estudiantes o usuarios generales y no para el profesorado.
+
+El panorama de instrumentos se ha revisado desde entonces. [[assessing-teachers-ai-literacy-measurement-tools-2026|La revisión sistemática de Zainal, Mohd Matore y Maat (2026) sobre instrumentos de medición de la alfabetización en IA del profesorado]] compara qué miden realmente las escalas disponibles y dónde divergen, que es lo primero que hay que leer antes de adoptar una.
+
 ## La competencia en IA del profesorado y la transformación del rol docente
 
 A medida que la IA asume tareas rutinarias de instrucción y evaluación, la contribución distintiva del profesorado se desplaza hacia la orquestación, el juicio y la relación: decidir cuándo y cómo se usa la IA, andamiar la [[agency|agencia del estudiantado]] y su uso crítico, garantizar la equidad y ofrecer el apoyo social y emocional que la IA no puede dar. Esto reencuadra la competencia docente en torno a la supervisión [[human-in-the-loop-ai|con intervención humana]], el [[ethics|juicio ético]] y el [[self-regulated-learning|apoyo al aprendizaje autorregulado]], y conecta con [[teacher-role|el rol docente]] y con [[cognitive-offloading|la protección frente a la dependencia excesiva]].
 
-## Implicaciones para la IA en la educación
+## Implicaciones para la práctica
 
-- **Evalúe el desempeño, no solo el autoinforme:** la competencia docente debería evaluarse mediante la demostración, dada la brecha documentada del autoinforme.
-- **Forme la competencia completa, no solo las herramientas:** el desarrollo profesional debe construir juntas las dimensiones técnica, pedagógica, evaluativa y ética, fundamentadas en la [[learning-theories|teoría del aprendizaje]].
-- **Construya confianza junto con la habilidad:** las actitudes y la [[self-efficacy|autoeficacia]] condicionan la adopción, así que el desarrollo profesional debe reducir la ansiedad y construir confianza mediante una práctica auténtica y apoyada.
-- **Apoye la capa institucional:** una competencia docente sostenible requiere política, gobernanza y capacidad alineadas, y no formación aislada.
+Quienes desarrollan al profesorado pueden orientar el desarrollo profesional al conocimiento pedagógico de la IA y no a la fluidez con herramientas. Los programas que construyeron conocimiento pedagógico del contenido informaron de grandes ganancias pre-post, lo que sugiere que el techo es más alto de lo que implica un taller único, y la formación técnica por sí sola no movió las percepciones del estudiantado en los estudios revisados.
 
-- **Competencia digital docente para el [[curriculum-design|diseño curricular]] con IA generativa.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] valida un instrumento diagnóstico basado en el modelo TAM con 434 docentes en activo; la intención conductual fue el principal predictor de la competencia digital para usar IA generativa en la planificación curricular, con la autoeficacia como motor de raíz.
+Quienes forman al profesorado pueden separar las dos cosas que compra la formación en prompting. El tiempo ahorrado en la preparación es un beneficio y mejores materiales es otro, y la evidencia respalda el primero sin respaldar el segundo. Un programa que promete ambos decepcionará en calidad.
 
-### Un instrumento psicométrico para la competencia en IA del profesorado
+El profesorado puede escribir las instrucciones de los agentes como pasos ordenados. Cuando el profesorado configuró chatbots en lenguaje natural, el fallo dominante fue un paso omitido del flujo de trabajo y no un dato erróneo, así que la habilidad que merece practicarse es especificar la secuencia y las precondiciones, no añadir más detalle sobre el contenido.
 
-- Un estudio psicométrico desarrolló la Escala de Alfabetización en IA del Profesorado (TAILS) para medir la alfabetización en IA específicamente en la [[teacher-education|formación de profesorado de idiomas]], operacionalizando las seis dimensiones del marco ED-AI. El desarrollo del instrumento cubre una carencia de evaluaciones dirigidas a estudiantes o usuarios generales, y apoya la medición de la competencia en IA del profesorado.
+Quienes dirigen escuelas pueden financiar las condiciones que hacen usable la competencia: tiempo de trabajo remunerado, un lugar en el horario y apoyo específico por materia. La comparación de iRAISE encontró que la confianza del profesorado decidía si las herramientas se usaban siquiera, y la confianza sigue a la práctica con apoyo y no a la formación sola.
 
-El panorama de instrumentos se ha revisado desde entonces. [[assessing-teachers-ai-literacy-measurement-tools-2026|La revisión sistemática de Zainal, Mohd Matore y Maat (2026) sobre instrumentos de medición de la alfabetización en IA del profesorado]] evaluó 33 instrumentos publicados entre 2019 y 2025 y encontró que el campo es metodológicamente monótono: 31 (93,9%) son escalas de autoinforme sobre la confianza percibida, solo dos (6,1%) evalúan el conocimiento de forma objetiva y ninguno usa tareas basadas en el desempeño. La consistencia interna fue el dominio de calidad más fuerte (28 de 33 en grado A) y la equidad el más débil, con cinco instrumentos (15,2%) que informan de invariancia de medición o de evidencia de funcionamiento diferencial de los ítems. El contenido también va por detrás de la tecnología, ya que 29 instrumentos (87,9%) se centran en conceptos generales de IA y solo cuatro (12,1%), todos de 2025, abordan la IA generativa.
+Quienes dirigen departamentos pueden evaluar la competencia por demostración. Las escalas de autoinforme y la demostración divergen, y los instrumentos revisados aquí miden constructos muy distintos, así que un portafolio de clases impartidas o de trabajo estudiantil calificado dice más que una encuesta de preparación.
 
 ## Concepciones erróneas
 
@@ -194,6 +205,9 @@ El panorama de instrumentos se ha revisado desde entonces. [[assessing-teachers-
 - [[pedagogy]] — Marco: pedagogías y estrategias de enseñanza en la educación con IA
 
 ## Artículos conectados
+- [[feng-ai-literacy-psychological-dimensions-2026]] — Seis dimensiones de alfabetización en IA del profesorado, con el conocimiento contextual y el crecimiento profesional continuo entre ellas (Feng y Carolus, 2026)
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 docentes de diseño: las ganancias de competencia y la ansiedad ante la IA suben juntas, así que el apoyo y no la formación decide el resultado (Ding et al., 2026)
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — La revisión de iRAISE en cuatro países: 84 de 194 Estados llevan la alfabetización mediática e informacional más allá de las habilidades técnicas en los currículos, y los factores humanos decidieron los resultados en los cuatro sistemas (Cerioli, 2026)
 
 - [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 docentes principiantes revisaron planificaciones de clase de IA; la adaptación fue la brecha mayor (Wilcoxen et al. 2026)
 - [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Competencia investigadora del profesorado de química tras un desarrollo profesional apoyado por IA: un estudio pre-post de métodos mixtos

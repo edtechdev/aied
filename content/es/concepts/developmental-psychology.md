@@ -8,7 +8,7 @@ confidence: high
 methods: [research-methods-aied]
 contributors: [editor]
 translation_of: concepts/developmental-psychology
-source_updated: "2026-11-12T18:55:00-05:00"
+source_updated: "2026-11-13T01:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -19,7 +19,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Psicología del desarrollo** — el estudio de cómo cambian con la edad las capacidades cognitivas, lingüísticas, sociales, emocionales y motivacionales, y de las restricciones que esos cambios imponen a lo que quien aprende puede hacer y al apoyo que necesita. En la [[ai-education|educación con IA]] aporta la pregunta que subyace a toda afirmación sobre la edad: no «¿funciona esta herramienta?», sino «¿funciona para una mente en esta etapa, haciendo esta cosa concreta?». La base de conocimiento la usa para explicar por qué la misma herramienta de [[generative-ai|IA generativa]] es una ayuda de estudio razonable para una persona de 20 años y un riesgo evolutivo para una de 7, y para señalar dónde descansan esas afirmaciones en hipótesis y no en resultados medidos.
+> **Psicología del desarrollo** — el estudio de cómo cambian con la edad las capacidades cognitivas, lingüísticas, sociales, emocionales y motivacionales, y de las restricciones que esos cambios imponen a lo que quien aprende puede hacer y al apoyo que necesita. En la [[ai-education|educación con IA]] aporta la pregunta que subyace a toda afirmación sobre la edad: no «¿funciona esta herramienta?», sino «¿funciona para una mente en esta etapa, haciendo esta cosa concreta?». La investigación la usa para explicar por qué la misma herramienta de [[generative-ai|IA generativa]] es una ayuda de estudio razonable para una persona de 20 años y un riesgo evolutivo para una de 7, y para señalar dónde descansan esas afirmaciones en hipótesis y no en resultados medidos.
 
 ## Preguntas para reflexionar
 
@@ -60,11 +60,21 @@ La literatura sobre juguetes de IA es donde la psicología del desarrollo hace m
 
 AI-Play, un marco de juego sin dispositivos para preescolar y jardín de infancia, toma la ruta opuesta: enseña conceptos de IA mediante el juego sin poner un dispositivo delante del niño, con el argumento de que la tarea evolutiva a esa edad es la representación y el juego simbólico, no la interacción con un sistema.
 
+## Implicaciones para la práctica
+
+El profesorado puede leer el perfil de exigencia de una herramienta en lugar de la banda de edad de su envase. La pregunta que merece hacerse es qué capacidades carga una tarea: cuánto texto debe retener en la mente quien aprende, qué nivel de lectura supone la interfaz, cuánto contenido social o emocional arrastra la interacción. Una herramienta generativa que produce texto fluido supone un lector capaz de juzgarlo, y esa capacidad llega más tarde que la lectura fluida.
+
+Quienes desarrollan al profesorado y diseñan currículos pueden tomar prestada la lógica de niveles de la guía taiwanesa. Su edición para los más pequeños mantiene las actividades andamiadas y no generativas, y su edición avanzada permite el uso generativo supervisado con razonamiento ético asociado. La diferencia entre las ediciones está en qué herramientas puede usar el estudiantado, no en la dificultad de las fichas. Incorporar esa distinción a una secuencia de curso es más defendible que aplicar una sola política de herramientas a todos los niveles.
+
+Quienes dirigen escuelas y programas pueden tratar la afirmación de «adecuado a la edad» como una pregunta con tres partes: qué capacidad exige la tarea, en qué etapa está quien aprende y qué evidencia conecta ambas cosas. Los estudios de recepción y la documentación de los proveedores rara vez responden a la tercera.
+
+El personal de apoyo y las familias pueden observar qué le hace un juguete con IA al juego. Miren quién aporta la historia. Cuando el juguete decide la trama, el niño la sigue; cuando el juguete responde a la idea del niño, el niño dirige. Esa diferencia se ve en unos minutos de observación, e importa más a esta edad que la cobertura de contenidos del juguete.
+
 ## Dónde la evidencia es escasa
 
 Tres límites se repiten en el corpus.
 
-El primero es el diseño. La mayoría de los estudios son encuestas transversales o experimentos pequeños, medidos una sola vez. Pueden mostrar que los grupos de edad difieren; no pueden mostrar que la IA cambió una trayectoria evolutiva. La revisión de alcance de Niu y colaboradores sobre IA generativa y pensamiento creativo infantil examinó 6.401 registros y retuvo 24 fuentes de evidencia —una base pequeña para una afirmación grande, y la revisión lo informa así—.
+El primero es el diseño. La mayoría de los estudios son encuestas transversales o experimentos pequeños, medidos una sola vez. Pueden mostrar que los grupos de edad difieren; no pueden mostrar que la IA cambió una trayectoria evolutiva. La revisión de alcance de Niu y colaboradores sobre IA generativa y pensamiento creativo infantil examinó 6.401 registros y retuvo 24 fuentes de evidencia —una base pequeña para una afirmación grande, y la revisión lo informa así—. Una revisión integradora de 118 estudios de alfabetización en IA en K–12 no localizó ningún estudio que siguiera a los mismos estudiantes a través de los niveles escolares, así que su progresión de cuatro bandas es un ordenamiento inferido de cohortes distintas y no una trayectoria que alguien haya observado ([[guo-ai-literacy-developmental-paces-2026]]).
 
 El segundo es la atribución. Una ganancia de aprendizaje medida con la herramienta presente puede ser desempeño asistido y no un cambio de capacidad, que es la misma distinción que separa el andamiaje del desarrollo.
 
@@ -99,6 +109,7 @@ Los documentos de política y de contratación usan «adecuado a la edad» como 
 - [[research-methods-aied]]
 
 ## Artículos conectados
+- [[guo-ai-literacy-developmental-paces-2026]] — 118 estudios de alfabetización en IA en K–12: una progresión de cuatro bandas sin ningún estudio que siga a los mismos estudiantes entre niveles (Guo, Ali y Wong, 2026)
 
 - [[ai-toys-child-development-2026]] — Los juguetes habilitados por IA redistribuyen la agencia en el juego (Xu, Girouard y Shi)
 - [[clara-developmental-appropriateness-children-stories-2026]] — Puntuación de adecuación evolutiva a partir de una taxonomía de 122 etiquetas

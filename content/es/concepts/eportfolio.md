@@ -10,7 +10,7 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/eportfolio
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ Los portafolios electrónicos son una forma de [[authentic-assessment|evaluació
 
 ## Los portafolios electrónicos en la era de la IA
 
-La investigación de la base de conocimiento muestra que los portafolios electrónicos son cada vez más centrales para la integración productiva de la IA y el rediseño de la evaluación.
+La investigación muestra que los portafolios electrónicos son cada vez más centrales para la integración productiva de la IA y el rediseño de la evaluación.
 
 - **La evaluación por portafolio es relativamente robusta frente a la IA generativa.** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud y Du (2025)]] identifican los **portafolios de contribución social** y los artefactos cocreados con cadenas de procedencia auditables entre las formas de evaluación auténtica más robustas frente a la IA generativa. [[beyond-detection-authentic-assessment-ai-2025|Más allá de la detección (2025)]] recomienda igualmente **portafolios anotados, defensas orales y recorridos grabados** para sondear el razonamiento en tiempo real, a imagen de la práctica profesional.
 - **Evaluación de portafolios asistida por IA.** [[ni-lam-multiliteracies-ai-portfolio-2026|Ni y Lam (2026)]] estudian las percepciones del estudiantado sobre la **evaluación de portafolios asistida por IA** para el desarrollo de multialfabetizaciones, y muestran que la IA puede apoyar el *proceso* del portafolio (retroalimentación, redacción, reflexión) y mejorar la implicación, mientras el estudiantado evalúa críticamente la [[ai-feedback-quality|retroalimentación de la IA]].

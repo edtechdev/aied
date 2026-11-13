@@ -1,7 +1,7 @@
 ---
 title: "Aprendizaje de adultos"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-13T14:15:38-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -11,7 +11,7 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **El aprendizaje de adultos** — la teoría y la práctica de educar a personas adultas (andragogía), y cómo se pueden diseñar las herramientas y tecnologías de IA para apoyar la [[agency|autonomía]], la experiencia previa y la relevancia para el mundo real de quienes aprenden siendo adultos. Se explora en 13 artículos de esta base de conocimiento.
+> **El aprendizaje de adultos** — la teoría y la práctica de educar a personas adultas (andragogía), y cómo se pueden diseñar las herramientas y tecnologías de IA para apoyar la [[agency|autonomía]], la experiencia previa y la relevancia para el mundo real de quienes aprenden siendo adultos. Se explora en 13 artículos.
 
 ## Preguntas para reflexionar
 
@@ -36,7 +36,7 @@ ai_assist:
 
 ## Introducción
 
-Enraizado en el modelo andragógico de Knowles, el aprendizaje de adultos parte de que quienes aprenden son autodirigidos, se apoyan en su experiencia vital, se motivan por objetivos inmediatos y prácticos y aprovechan más cuando el aprendizaje conecta con sus roles en el mundo real. Estas premisas importan para el diseño de IA porque la IA generativa ya puede participar en casi todas las etapas del aprendizaje: identificar necesidades, fijar objetivos, interpretar información, producir resultados y evaluar el desempeño. Cuando la IA realiza tanto trabajo cognitivo, la independencia conductual respecto de la herramienta ya no garantiza que quien aprende haya dirigido realmente el aprendizaje. La investigación de esta base de conocimiento reformula, en consecuencia, la autodirección como un objetivo de diseño activo y no como un valor por defecto supuesto, y evalúa la IA para el aprendizaje de adultos con criterios como la propiedad de las metas, el control de la delegación y la recuperabilidad cognitiva.
+Enraizado en el modelo andragógico de Knowles, el aprendizaje de adultos parte de que quienes aprenden son autodirigidos, se apoyan en su experiencia vital, se motivan por objetivos inmediatos y prácticos y aprovechan más cuando el aprendizaje conecta con sus roles en el mundo real. Estas premisas importan para el diseño de IA porque la IA generativa ya puede participar en casi todas las etapas del aprendizaje: identificar necesidades, fijar objetivos, interpretar información, producir resultados y evaluar el desempeño. Cuando la IA realiza tanto trabajo cognitivo, la independencia conductual respecto de la herramienta ya no garantiza que quien aprende haya dirigido realmente el aprendizaje. La investigación reformula, en consecuencia, la autodirección como un objetivo de diseño activo y no como un valor por defecto supuesto, y evalúa la IA para el aprendizaje de adultos con criterios como la propiedad de las metas, el control de la delegación y la recuperabilidad cognitiva.
 
 ## Evidencia de los artículos conectados
 
@@ -48,7 +48,7 @@ Enraizado en el modelo andragógico de Knowles, el aprendizaje de adultos parte 
 
 ## Conexiones con conceptos relacionados
 
-El aprendizaje de adultos se sitúa en la intersección de varios conceptos estrechamente vinculados en esta base de conocimiento. [[higher-ed|La educación superior]] aporta el contexto institucional en el que se produce gran parte del aprendizaje adulto y a distancia, mientras que [[professional-training|la formación profesional]] cubre su dimensión laboral y [[lifelong-learning|el aprendizaje a lo largo de la vida]], su dimensión de educación continua. [[vocational-education|La formación profesional y técnica]] es el vecino que nombra una ocupación en lugar de a quien aprende: el aprendizaje de adultos describe lo que las personas aportan a cualquier contexto —autodirección, experiencia previa, objetivos prácticos inmediatos. La FP nombra una preparación inicial y próxima a la práctica para un oficio o un rol técnico concreto, juzgada por la competencia demostrada con equipos y enmarcada por marcos de cualificaciones y no por disposiciones andragógicas. [[online-teaching-and-learning|La enseñanza y el aprendizaje en línea]] es el medio de impartición dominante para quienes aprenden siendo adultos —que a menudo estudian en el trabajo o en casa—, de modo que sus posibilidades (acceso 24/7, apoyo asíncrono) y sus riesgos ([[academic-integrity|integridad]], [[cognitive-offloading|delegación]]) son centrales para el [[learning-design|diseño del aprendizaje]] de adultos. [[self-regulated-learning|El aprendizaje autorregulado]] y [[agency|la agencia]] nombran las capacidades de quien aprende que la IA debe proteger en lugar de erosionar, y [[cognitive-offloading|la delegación cognitiva]] captura el mecanismo por el que la IA puede apoyarlas o socavarlas. [[inclusive-learning|El aprendizaje inclusivo]] y [[equity-in-ai-education|la equidad en la educación con IA]] enmarcan las obligaciones de equidad de las herramientas de IA para adultos, [[human-in-the-loop-ai|la IA con intervención humana]] nombra el patrón de diseño que mantiene la rendición de cuentas en manos humanas, y [[scaffolding|el andamiaje]] describe el apoyo graduado que esas herramientas deben ofrecer.
+El aprendizaje de adultos se sitúa en la intersección de varios conceptos estrechamente vinculados. [[higher-ed|La educación superior]] aporta el contexto institucional en el que se produce gran parte del aprendizaje adulto y a distancia, mientras que [[professional-training|la formación profesional]] cubre su dimensión laboral y [[lifelong-learning|el aprendizaje a lo largo de la vida]], su dimensión de educación continua. [[vocational-education|La formación profesional y técnica]] es el vecino que nombra una ocupación en lugar de a quien aprende: el aprendizaje de adultos describe lo que las personas aportan a cualquier contexto —autodirección, experiencia previa, objetivos prácticos inmediatos. La FP nombra una preparación inicial y próxima a la práctica para un oficio o un rol técnico concreto, juzgada por la competencia demostrada con equipos y enmarcada por marcos de cualificaciones y no por disposiciones andragógicas. [[online-teaching-and-learning|La enseñanza y el aprendizaje en línea]] es el medio de impartición dominante para quienes aprenden siendo adultos —que a menudo estudian en el trabajo o en casa—, de modo que sus posibilidades (acceso 24/7, apoyo asíncrono) y sus riesgos ([[academic-integrity|integridad]], [[cognitive-offloading|delegación]]) son centrales para el [[learning-design|diseño del aprendizaje]] de adultos. [[self-regulated-learning|El aprendizaje autorregulado]] y [[agency|la agencia]] nombran las capacidades de quien aprende que la IA debe proteger en lugar de erosionar, y [[cognitive-offloading|la delegación cognitiva]] captura el mecanismo por el que la IA puede apoyarlas o socavarlas. [[inclusive-learning|El aprendizaje inclusivo]] y [[equity-in-ai-education|la equidad en la educación con IA]] enmarcan las obligaciones de equidad de las herramientas de IA para adultos, [[human-in-the-loop-ai|la IA con intervención humana]] nombra el patrón de diseño que mantiene la rendición de cuentas en manos humanas, y [[scaffolding|el andamiaje]] describe el apoyo graduado que esas herramientas deben ofrecer.
 
 ## Implicaciones para docentes y diseñadores de educación de adultos
 

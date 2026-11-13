@@ -10,7 +10,7 @@ research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
-source_updated: "2026-11-12T15:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/institutional-ai-policy
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -107,7 +107,7 @@ Tres frases pertenecen al documento mismo: en qué pruebas puede basarse una con
 
 ## Diga qué va a medir antes de publicar
 
-Ningún estudio de este corpus mide si la política de IA de una institución cambió la conducta del estudiantado, la práctica del personal o los resultados de aprendizaje. Lo que existe es descriptivo. Manikonda y Outlaw encuentran un lenguaje político débil y desalineado. Ashiq documenta la deriva. Baroudi nombra la ausencia de evidencia longitudinal y causal como una laguna. Eldredge et al. advierten de que analizar documentos públicos crea un sesgo de visibilidad, así que la ausencia de lenguaje sobre privacidad o equidad es un hallazgo sobre la orientación publicada y no sobre la práctica.
+Ningún estudio mide si la política de IA de una institución cambió la conducta del estudiantado, la práctica del personal o los resultados de aprendizaje. Lo que existe es descriptivo. Manikonda y Outlaw encuentran un lenguaje político débil y desalineado. Ashiq documenta la deriva. Baroudi nombra la ausencia de evidencia longitudinal y causal como una laguna. Eldredge et al. advierten de que analizar documentos públicos crea un sesgo de visibilidad, así que la ausencia de lenguaje sobre privacidad o equidad es un hallazgo sobre la orientación publicada y no sobre la práctica.
 
 De ahí se siguen dos hábitos. Ate un plan de evaluación a la política: qué va a medir, cuándo y quién es responsable del hallazgo. Y cuando un colega cite la política de otra institución como prueba de que una medida funciona, compruebe si la afirmación trata de un documento o de un resultado. [[policy-deficit-ai-sel-2026|Tran, Liu y Nguyen (2026)]] revisaron 65 artículos revisados por pares sobre IA y [[social-emotional-learning|aprendizaje socioemocional]] y encontraron que casi tres cuartas partes no mencionaban ninguna implicación política. De la minoría que sí lo hacía, la mayoría carecía del detalle específico por actor que necesita la formulación real de políticas: quién debería actuar, sobre qué, por qué, cuándo y cómo.
 

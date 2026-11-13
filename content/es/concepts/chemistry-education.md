@@ -10,7 +10,7 @@ discipline: [chemistry education, stem education]
 level: [higher ed, k 12, teacher education]
 confidence: high
 translation_of: concepts/chemistry-education
-source_updated: "2026-11-12T10:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,11 +26,11 @@ ai_assist:
 
 ## Preguntas para reflexionar
 
-- La química combina conceptos submicroscópicos abstractos, notación simbólica especializada y práctica de laboratorio presencial. Antes de leer, ¿cuál de estas tres exigencias distintivas cree que la IA maneja bien y con cuál podría tener dificultades, sobre todo dada la advertencia de la página sobre los LLM que fallan en tareas rigurosas de razonamiento [[quantitative-research|cuantitativo]] y espacial?
+- La química combina conceptos submicroscópicos abstractos, notación simbólica especializada y práctica de laboratorio presencial. Antes de leer, ¿cuál de estas tres exigencias distintivas cree que la IA maneja bien y con cuál podría tener dificultades, sobre todo dado lo que dice la evidencia sobre los LLM que fallan en tareas rigurosas de razonamiento [[quantitative-research|cuantitativo]] y espacial?
 - Un estudio hizo que el estudiantado diseñara manuales de laboratorio con IA, los implementara de forma presencial y los hiciera validar por profesionales, lo que aumentó significativamente la confianza experimental y el pensamiento crítico a la vez que desplazaba el rol del personal de la demostración hacia la guía. ¿Qué hace que esta «IA para el diseño experimental» sea distinta de simplemente pedirle respuestas a la IA?
 - La evidencia sistemática muestra que los LLM pueden definir términos básicos de química pero rinden mal en tareas cuantitativas rigurosas, tienen dificultades con el razonamiento espacial (como la RMN) y muestran un exceso de confianza. Si una IA le da con seguridad una respuesta incorrecta en un problema difícil de química, ¿cómo lo detectaría y qué habilidad exige esa detección?
 - La investigación propone asignar a la IA roles distintos según el nivel de rendimiento: un tutor Paciente para quienes rinden menos, un Entrenador Personal para el nivel medio y un Compañero de Debate Intelectual para quienes rinden más. ¿Por qué cree que la misma herramienta de IA debería desempeñar roles distintos para estudiantes distintos, y qué exige eso del profesorado humano?
-- La página advierte de una «deriva epistémica»: la dependencia de algoritmos opacos que desvincula la indagación científica de la comprensión causal. Si la IA predice un resultado experimental, ¿cuándo ayuda esa predicción a entender la química y cuándo sustituye silenciosamente a la propia comprensión?
+- La «deriva epistémica» es el riesgo: la dependencia de algoritmos opacos que desvincula la indagación científica de la comprensión causal. Si la IA predice un resultado experimental, ¿cuándo ayuda esa predicción a entender la química y cuándo sustituye silenciosamente a la propia comprensión?
 
 ## Introducción
 

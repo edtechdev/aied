@@ -15,7 +15,7 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-source_updated: "2026-11-12T15:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -64,13 +64,13 @@ El asistente del curso de Sistemas de Control Lineal informa esto de la manera c
 
 En el proyecto WrAFT, un modelo con ajuste fino alcanzó una puntuación de concordancia de **0,84** con evaluadores humanos en 360 ensayos TOEFL reservados. Es un resultado sólido para calificar. El modelo del mismo proyecto entrenado para escribir retroalimentación produjo una salida truncada e imposible de analizar, mientras que [[prompt-engineering|dar instrucciones]] a otro modelo sin más produjo retroalimentación que el profesorado prefirió ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
-La base de conocimiento recoge el mismo fallo en una segunda forma: un despliegue cuyo módulo de calificación puntuaba bien y cuya retroalimentación llegaba cortada a mitad de frase e ilegible. Nada en el número de titular lo decía.
+El mismo fallo aparece en una segunda forma: un despliegue cuyo módulo de calificación puntuaba bien y cuya retroalimentación llegaba cortada a mitad de frase e ilegible. Nada en el número de titular lo decía.
 
 Así que haga una lista de las salidas que produce su sistema y dé a cada una su propia medida y su propia condición de aprobado. La calificación, el texto de retroalimentación, la selección de pistas y los rechazos de seguridad fallan de maneras distintas, y una puntuación a nivel de módulo no puede ver más allá de su propio módulo.
 
 ## Ponga una persona donde el modelo duda
 
-Una correlación le dice que el modelo suele acertar. No le dice qué hacer en las ocasiones en que no acierta. El resultado del enrutamiento por confianza es la plantilla más limpia de la base de conocimiento, y es lo bastante corto para copiarlo.
+Una correlación le dice que el modelo suele acertar. No le dice qué hacer en las ocasiones en que no acierta. El resultado del enrutamiento por confianza es la plantilla más limpia de la evidencia, y es lo bastante corto para copiarlo.
 
 La confianza resultó ser una señal de advertencia fiable: cuando el modelo dudaba, era más probable que se equivocara (**β = -0,602, p < 0,001**). El equipo envió a una persona el **20%** de las respuestas con menor confianza. Esa única regla elevó la concordancia con las calificaciones humanas de **0,78 a 0,82** y recortó el trabajo manual de calificación en aproximadamente un **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
 
@@ -108,7 +108,7 @@ Ejecute la comprobación en conversaciones completas y escriba los turnos de pru
 
 Generar [[simulating-students|estudiantes simulados]] en lugar de reclutar estudiantes reales abarata mucho la evaluación. Un estudiante simulado es también un instrumento de medida, y puede equivocarse en las formas en que se equivocan los instrumentos: demasiado cooperativo, demasiado fluido, demasiado rápido para aceptar una pista.
 
-La prueba más directa de la base de conocimiento comparó estudiantes simulados y estudiantes guiados por prompt con **382 diálogos reservados** de la mayor colección pública de diálogos reales de matemáticas entre estudiante y tutor, usando siete medidas que cubren lenguaje, comportamiento y pensamiento ([[simulated-students-tutoring-dialogues-2026]]). Otros trabajos presionan el realismo desde ángulos distintos: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] entrena modelos para actuar y pensar como estudiantes, y los perfiles conscientes del historial condicionan la simulación al pasado de un estudiante en lugar de a una persona fija ([[history-aware-student-simulation]]).
+La prueba más directa de la evidencia comparó estudiantes simulados y estudiantes guiados por prompt con **382 diálogos reservados** de la mayor colección pública de diálogos reales de matemáticas entre estudiante y tutor, usando siete medidas que cubren lenguaje, comportamiento y pensamiento ([[simulated-students-tutoring-dialogues-2026]]). Otros trabajos presionan el realismo desde ángulos distintos: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] entrena modelos para actuar y pensar como estudiantes, y los perfiles conscientes del historial condicionan la simulación al pasado de un estudiante en lugar de a una persona fija ([[history-aware-student-simulation]]).
 
 Si su arnés de evaluación es un estudiante simulado, valide el simulador contra transcripciones reales antes de dejar que califique a su tutor.
 

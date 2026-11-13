@@ -10,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-11-09T10:25:00-05:00"
+source_updated: "2026-11-13T12:55:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 - Piense en alguna ocasión en la que sintió que una habilidad o un trabajo eran verdaderamente «suyos» y no algo que simplemente se hizo a través de usted. ¿Qué marcó la diferencia: la autoría, el reconocimiento, la competencia? ¿Cómo podría reformular ese sentimiento una herramienta que produce el trabajo por usted?
 - Un supuesto habitual es que la identidad es un rasgo fijo que quien aprende tiene o no tiene. ¿Qué cambiaría en su forma de diseñar el aprendizaje si tratara la identidad de quien aprende, en cambio, como algo que se construye continuamente mediante la participación, el reconocimiento y la autoría?
-- La página describe una «paradoja de la competencia» entre el estudiantado de arte y diseño: las herramientas de IA se sienten fáciles y útiles, pero su uso amenaza la identidad creativa que el estudiantado deriva del oficio manual. ¿Ha sentido alguna vez que su propia competencia o su identidad se veían cuestionadas por una herramienta fácil? ¿En qué consistía la tensión?
+- Una «paradoja de la competencia» recorre al estudiantado de arte y diseño: las herramientas de IA se sienten fáciles y útiles, pero su uso amenaza la identidad creativa que el estudiantado deriva del oficio manual. ¿Ha sentido alguna vez que su propia competencia o su identidad se veían cuestionadas por una herramienta fácil? ¿En qué consistía la tensión?
 - A veces el estudiantado oculta su uso de la IA o siente vergüenza por él, lo que fragmenta su identidad académica y su implicación honesta. ¿Cuándo empuja la presión de parecer un tipo concreto de persona que aprende a ocultar cómo aprende en realidad, y qué haría que declararlo se sintiera seguro?
 - La IA puede andamiar la formación de la identidad y también amenazarla. Si usted diseñara un [[pedagogical-agent|compañero de aprendizaje]] con IA, ¿qué características concretas protegerían el sentido de autoría y de propiedad de quien aprende sin dejar de ofrecer apoyo?
 
@@ -62,6 +62,7 @@ Una condición de autoría distinta, y no solo una amenaza para la autoría: cua
 - **Un propósito declarado no rige necesariamente una decisión sobre IA.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] entrevistaron a 14 estudiantes de grado y codificaron cada entrevista según la relación entre el [[self-determination-theory|propósito]] del estudiantado —una intención personalmente significativa de contribuir más allá de sí mismo— y sus decisiones sobre la IA. Solo algunos establecieron la conexión: una persona rechazó la IA porque sus costes ambientales y humanos contradecían su propósito, y tres dejaron que la identidad profesional futura moldeara sus decisiones («contribuye a la psicóloga que seré algún día en el mundo»). Otras personas con un sentido del propósito igualmente claro no establecieron ese vínculo y describieron el propósito y la IA como «algo separado», así que tener una identidad que proteger no era lo mismo que recurrir a ella. El artículo también separa las razones que el estudiantado da para mantener el trabajo como propio —desarrollo de habilidades, [[evaluative-judgment|autoría y orgullo]] y objeción moral—, que llegan por mecanismos distintos y no deberían agruparse en un único motivo.
 
 - **La capacidad puede llegar antes que la pertenencia.** Una autoetnografía de 73 días de un educador en bioinformática que construyó un juego en un dominio desconocido encontró que la [[generative-ai|IA generativa]] aportó la capacidad pero no la identidad: la pertenencia llegó mediante la participación en comunidades de práctica y la construcción de sentido repetida, y alcanzarla exigió un ritmo humano ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- El rechazo también es trabajo de identidad: entre cinco aprendices de secundaria racializados, el no uso afirmaba control, cumplía con las normas institucionales o señalaba valores epistémicos, mientras que las respuestas neutrales de la IA producían una «planitud cultural» que dejaba sus experiencias sin reconocer ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Relación con la agencia de quien aprende
 

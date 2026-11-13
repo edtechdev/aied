@@ -9,7 +9,7 @@ foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-literacy-evidence
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -44,7 +44,7 @@ La respuesta para esa sala, y el estado de la evidencia en la [[higher-ed|educac
 
 ## Construya la secuencia en torno a una crítica
 
-El ejemplo de aula más sólido de la base de conocimiento viene de psicología de grado. Richmond y Nicholls pidieron al estudiantado calificar un comunicado de prensa generado por [[generative-ai|ChatGPT]] contra la rúbrica de su propio curso, nombrar los errores y revisarlo. En general, el estudiantado vio que la prosa estaba pulida y que el contenido tergiversaba los objetivos, los métodos y los hallazgos de la investigación. Frente a la cohorte anterior de [[peer-assessment|evaluación entre pares]], el grupo de crítica de la IA rindió algo mejor en la revisión del guion que vino después (*d* = 0,36), sin ventaja significativa en el video final ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
+El ejemplo de aula más sólido viene de psicología de grado. Richmond y Nicholls pidieron al estudiantado calificar un comunicado de prensa generado por [[generative-ai|ChatGPT]] contra la rúbrica de su propio curso, nombrar los errores y revisarlo. En general, el estudiantado vio que la prosa estaba pulida y que el contenido tergiversaba los objetivos, los métodos y los hallazgos de la investigación. Frente a la cohorte anterior de [[peer-assessment|evaluación entre pares]], el grupo de crítica de la IA rindió algo mejor en la revisión del guion que vino después (*d* = 0,36), sin ventaja significativa en el video final ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
 
 La literatura de la que vienen estos ejemplos se apoya en intervenciones breves, en el [[self-regulated-learning|autoinforme]] y en trabajo de diseño, y este estudio arrastra dos de esos límites. La comparación fue histórica, así que una cohorte mejor preparada produciría el mismo patrón. La ventaja apareció además en el artefacto intermedio y desapareció en el terminado, que es lo que cabría esperar si la crítica enseñó a revisar.
 
@@ -64,7 +64,7 @@ Un [[liu-ai-literacy-interventions-meta-analysis-2026|metaanálisis de tres nive
 
 Los autores leen su propio resultado como un argumento para ir más allá del conocimiento hacia habilidades, prácticas, ética y actitudes, mediante una pedagogía reflexiva integrada y un diseño [[culturally-relevant-pedagogy|culturalmente relevante]]. Para un comité, dos implicaciones hacen el trabajo. El resultado que usted mide da forma al efecto que encuentra, así que elija el resultado que de verdad le importa. Un intervalo de predicción tan amplio aboga por un pilotaje local.
 
-La medición es donde fracasan la mayoría de las afirmaciones de un programa. La prueba de desempeño validada **GLAT** predijo el desempeño en una tarea de educación superior asistida por IA. Una medida de alfabetización en ChatGPT [[self-report-measures|autoinformada]] no lo hizo ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). En toda la base de conocimiento, la competencia en IA declarada y la demostrada divergen sustancialmente, lo que convierte la [[educational-measurement|medición educativa]] y la [[assessment-validity|validez de la evaluación]] en parte del diseño y no en una ocurrencia tardía de la [[ai-ed-evaluation|evaluación]].
+La medición es donde fracasan la mayoría de las afirmaciones de un programa. La prueba de desempeño validada **GLAT** predijo el desempeño en una tarea de educación superior asistida por IA. Una medida de alfabetización en ChatGPT [[self-report-measures|autoinformada]] no lo hizo ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). En toda la literatura, la competencia en IA declarada y la demostrada divergen sustancialmente, lo que convierte la [[educational-measurement|medición educativa]] y la [[assessment-validity|validez de la evaluación]] en parte del diseño y no en una ocurrencia tardía de la [[ai-ed-evaluation|evaluación]].
 
 Burriss et al. afinan qué cuenta. Su estudio con 22 estudiantes de grado 11 que componían anuncios de servicio público en video sobre ética de la IA sostiene que las escalas de alfabetización y los marcos de competencia existentes presuponen un desempeño medible individualmente, lo que excluye la expresión colaborativa y creativa. Proponen las reflexiones del estudiantado, los artefactos [[multimodal|multimodales]] y el discurso cívico como complementos de las medidas convencionales. Su estudiantado desarrolló una comprensión crítica de la ética de la IA mediante [[critical-pedagogy|pedagogía crítica]] colaborativa, y eso cuestiona las concepciones de la alfabetización como lista de habilidades y también los instrumentos construidos sobre ellas. Quince de las 18 respuestas de fin de unidad afirmaron un aprendizaje nuevo, y los autores señalan que el proyecto resiste la [[summative-assessment|evaluación sumativa]] tradicional ([[burriss-multimodal-composition-critical-ai-literacy-2026]]).
 
@@ -112,7 +112,7 @@ La alfabetización es una sola habilidad que se transfiere entre herramientas. D
 
 **"La credencial es el mecanismo de rendición de cuentas."** Wu y Li encontraron que la competencia del profesorado era la restricción vinculante, y que la adaptabilidad intercultural recibía el menor peso. Un certificado registra que alguien completó algo.
 
-**"Nuestro profesorado no está preparado para enseñar esto."** La evidencia está de acuerdo. La capacidad del profesorado fue la mayor brecha en los datos de Wu y Li, y ningún estudio de esta página prueba cómo cerrarla.
+**"Nuestro profesorado no está preparado para enseñar esto."** La evidencia está de acuerdo. La capacidad del profesorado fue la mayor brecha en los datos de Wu y Li, y ningún estudio prueba cómo cerrarla.
 
 ## Qué hacer esta semana
 

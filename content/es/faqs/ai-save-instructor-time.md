@@ -7,7 +7,7 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-save-instructor-time
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -44,7 +44,7 @@ El mensaje para la reunión: entregue el primer borrador y quédese con el juici
 
 ## Empiece por trabajo que iba a reescribir de todos modos
 
-La cifra más sólida de esta base de conocimiento viene de un [[rct|ensayo aleatorizado]] resumido en [[ai-changing-teaching-workflows|Cómo está cambiando la IA los flujos de trabajo docentes]]. Doscientos cincuenta y nueve docentes de ciencias que usaban ChatGPT pasaron aproximadamente el 69% del tiempo que el grupo de control en la preparación de clases, un recorte de alrededor del 31%, y los revisores expertos ciegos no encontraron ninguna pérdida detectable de calidad. El profesorado reasignó ese tiempo en lugar de guardarlo, desplazándolo a la planificación, la corrección y el trabajo con estudiantes.
+La cifra más sólida viene de un [[rct|ensayo aleatorizado]] resumido en [[ai-changing-teaching-workflows|Cómo está cambiando la IA los flujos de trabajo docentes]]. Doscientos cincuenta y nueve docentes de ciencias que usaban ChatGPT pasaron aproximadamente el 69% del tiempo que el grupo de control en la preparación de clases, un recorte de alrededor del 31%, y los revisores expertos ciegos no encontraron ninguna pérdida detectable de calidad. El profesorado reasignó ese tiempo en lugar de guardarlo, desplazándolo a la planificación, la corrección y el trabajo con estudiantes.
 
 Un segundo conjunto de datos del mismo trabajo, más de 104.000 mensajes de más de 15.000 educadores, muestra por qué el ahorro cae en lugares raros. El prompt medio toca 1,7 categorías a la vez, así que una sola petición de plan de clase vuelve trayendo diferenciación y un cuestionario que el docente no había pensado pedir.
 
@@ -96,7 +96,7 @@ Usted puede usar la [[automated-essay-scoring|calificación automatizada de ensa
 
 **"Si me vuelvo más rápido, el tiempo se rellenará de reuniones."** Es probable, y es la forma más común en que desaparece un ahorro. Ponga el destino por escrito donde su coordinador pueda verlo, antes de que el hueco se llene.
 
-**"La retroalimentación con IA deja en desventaja a los estudiantes que más lo necesitan."** El cuartil inferior en Brasil no ganó nada, y esa es la advertencia más fuerte de esta página. Empareje el ahorro con un uso deliberado. El aumento del 35% en conversaciones individuales es lo que esas aulas hicieron con las horas, y fue una elección del docente.
+**"La retroalimentación con IA deja en desventaja a los estudiantes que más lo necesitan."** El cuartil inferior en Brasil no ganó nada, y esa es la advertencia más fuerte de la investigación. Empareje el ahorro con un uso deliberado. El aumento del 35% en conversaciones individuales es lo que esas aulas hicieron con las horas, y fue una elección del docente.
 
 **"La calificación es donde están de verdad mis horas."** Lo es, y también es donde la herramienta es menos portable entre instituciones. Valídela localmente o déjela en paz.
 
@@ -116,4 +116,4 @@ Usted puede usar la [[automated-essay-scoring|calificación automatizada de ensa
 
 ## Adónde ir después
 
-[[ai-feedback-at-scale|Retroalimentación con IA a escala]] lleva más lejos la cuestión de la retroalimentación, y [[faculty-ai-competencies|Competencias en IA del profesorado]] junto con [[faculty-development-ai|Desarrollo profesional docente en IA]] cubre lo que un departamento puede construir para que esto deje de depender de la experimentación individual. [[redesign-assessment-ai-era|Rediseñar la evaluación en la era de la IA]] y [[reduce-ai-cheating|Reducir las trampas con IA]] tratan las consecuencias para la evaluación. [[ai-changing-teaching-workflows|Cómo está cambiando la IA los flujos de trabajo docentes]] es el artículo detrás de las cifras de preparación, y [[human-in-the-loop-ai|Supervisión humana]] es el principio del que depende esta página.
+[[ai-feedback-at-scale|Retroalimentación con IA a escala]] lleva más lejos la cuestión de la retroalimentación, y [[faculty-ai-competencies|Competencias en IA del profesorado]] junto con [[faculty-development-ai|Desarrollo profesional docente en IA]] cubre lo que un departamento puede construir para que esto deje de depender de la experimentación individual. [[redesign-assessment-ai-era|Rediseñar la evaluación en la era de la IA]] y [[reduce-ai-cheating|Reducir las trampas con IA]] tratan las consecuencias para la evaluación. [[ai-changing-teaching-workflows|Cómo está cambiando la IA los flujos de trabajo docentes]] es el artículo detrás de las cifras de preparación, y [[human-in-the-loop-ai|Supervisión humana]] es el principio rector.

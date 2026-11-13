@@ -7,7 +7,7 @@ pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: concepts/lifelong-learning
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -29,8 +29,8 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - Piense en la última competencia nueva que aprendió fuera de la educación formal, en el trabajo, en línea o por su cuenta. ¿Quién decidió qué aprender, cómo aprenderlo y cuándo había terminado? ¿Cómo cambiaría la IA ese panorama?
-- Una pregunta central de esta página es la autonomía: si la IA participa en identificar sus necesidades de aprendizaje, fijar sus metas e incluso producir contenido, ¿qué queda realmente [[self-directed-learning|autodirigido]] en su propio aprendizaje?
-- La educación formal trata el tiempo como algo fijo y los planes de estudio como algo secuencial. La página propone los «grafos Learnity»: unidades de conocimiento interconectadas por las que el estudiante transita con flexibilidad a lo largo de toda su vida. ¿Qué gana y qué puede perder al liberar el aprendizaje de una secuencia fija?
+- Una pregunta central es la autonomía: si la IA participa en identificar sus necesidades de aprendizaje, fijar sus metas e incluso producir contenido, ¿qué queda realmente [[self-directed-learning|autodirigido]] en su propio aprendizaje?
+- La educación formal trata el tiempo como algo fijo y los planes de estudio como algo secuencial. Un diseño propuesto, los «grafos Learnity», ofrece unidades de conocimiento interconectadas por las que el estudiante transita con flexibilidad a lo largo de toda su vida. ¿Qué gana y qué puede perder al liberar el aprendizaje de una secuencia fija?
 - La IA puede tanto apoyar a quienes aprenden siendo adultos como cambiar qué competencias deben actualizar de forma continua. Si la IA no deja de transformar su campo, ¿en qué capacidades invertiría que ninguna herramienta pueda darle por sí sola?
 - El aprendizaje a lo largo de la vida se plantea a menudo como una responsabilidad individual. Pero el acceso a lo largo de la vida también es una cuestión de equidad. ¿Quién dispone del tiempo, los recursos y el apoyo para seguir aprendiendo siendo adulto, y cómo podría la IA ampliar o reducir esa brecha?
 
