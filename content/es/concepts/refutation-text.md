@@ -9,7 +9,7 @@ discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/refutation-text
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,26 +35,26 @@ foundations: [misconceptions]
 
 ## Introducción
 
-### El concepto
+## El concepto
 
 Los textos de refutación se apoyan en la idea de que las ideas erróneas no son simples lagunas de conocimiento, sino creencias activamente sostenidas, plausibles y autorreforzadas que resisten la corrección, una afirmación central en la investigación sobre el cambio conceptual. Un texto de refutación funciona haciendo explícita la idea errónea, nombrándola como equivocada y explicando por qué, y ofreciendo después la concepción correcta de una manera que quien aprende pueda integrar. Esto lo diferencia de un texto expositivo estándar, que se limita a presentar información correcta y da por supuesto que la idea errónea quedará desplazada.
 
 En la IA en la educación, el hallazgo central es que el *formato* y la *interactividad* de la corrección importan. La evidencia convergente ([[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026|Corbett y Tangen 2026]]) muestra que la refutación estática al estilo de un libro de texto corrige las creencias de forma fiable, pero que el **diálogo personalizado e interactivo con IA** puede producir una reducción de la creencia mayor y más rápida al dirigirse a la idea errónea concreta de quien aprende y al implicarlo motivacionalmente. Sin embargo, esta ventaja puede depender del contexto y del diseño: en [[akdogan-heat-temperature-conceptual-change-thesis-2025|educación científica (Akdoğan 2025)]], textos de cambio conceptual bien estructurados (de especialistas *o* generados por IA) superaron a un diálogo interactivo con ChatGPT basado en prompts, lo que sugiere que el diseño del diálogo (personalizado o genérico) y el dominio determinan qué formato gana.
 
-### Por qué el texto de refutación importa para la IA en la educación
+## Por qué el texto de refutación importa para la IA en la educación
 
 - **La IA como correctora.** Los tutores de [[conversational-ai|IA conversacional]] pueden ofrecer una refutación *personalizada* —adaptando la refutación sobre la marcha a la idea errónea concreta de quien aprende, algo que los textos preescritos no pueden hacer—. Esto produce un cambio de creencia inmediato más fuerte y una mayor implicación y confianza que la refutación estática ([[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026|Corbett y Tangen 2026]]), aunque los efectos pueden necesitar refuerzo espaciado para persistir.
 - **La IA como generadora de contenido de refutación.** La [[generative-ai|IA generativa]] puede producir textos de cambio conceptual eficaces que igualan la calidad de los escritos por especialistas ([[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan 2025]]) y puede generar a bajo coste grandes cantidades de textos sobre ideas erróneas específicos de un contexto, escalando así un aprendizaje basado en ideas erróneas que de otro modo dependería de la experiencia de quien enseña ([[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. 2026]]).
 - **Ideas erróneas generadas por IA como recurso de aprendizaje.** En lugar de considerar dañinas las ideas erróneas generadas por IA, una discusión estructurada entre pares sobre ellas —una forma de refutación colaborativa— puede promover el cambio conceptual y el [[critical-thinking|pensamiento crítico]] ([[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. 2026]]).
 - **Complementar la educación sobre ideas erróneas.** Los textos de refutación son una estrategia recomendada para corregir las ideas erróneas conceptuales que subyacen a las creencias equivocadas del estudiantado sobre la propia IA (véase [[misconceptions]] y [[critical-genai-use-predictors]]).
 
-### Texto de refutación frente a técnicas relacionadas
+## Texto de refutación frente a técnicas relacionadas
 
 Los textos de refutación son un miembro más del conjunto de herramientas del cambio conceptual, junto con las analogías, los acontecimientos discrepantes y el diálogo interactivo. Su ventaja es que son **escalables, de bajo coste y demostrablemente eficaces**; su limitación es que los textos estáticos no pueden adaptarse a quien aprende. El diálogo con IA aborda esa brecha de adaptación, pero introduce una dependencia del diseño ([[personalized-learning|personalización]], calidad del prompt) y, en algunos estudios, ninguna ventaja sobre un texto bien elaborado. La relación entre el texto de refutación y el diálogo con IA es, por tanto, complementaria: el texto ofrece una corrección de referencia fiable y a escala; el diálogo personalizado con IA ofrece una corrección más fuerte, más rápida y más motivadora cuando está bien diseñado.
 
 Los dos estudios que sustentan esa dependencia del diseño difieren en más que el dominio. Corbett y Tangen aleatorizaron a 375 adultos de entre 19 y 78 años y se dirigieron a la idea errónea mejor valorada de cada participante en un único diálogo de tres rondas; la ventaja del diálogo sobre la refutación de libro de texto se mantenía a los 10 días pero se había igualado a los dos meses ([[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026|Corbett y Tangen, 2026]]). Los 413 estudiantes de décimo grado de Akdoğan en Ankara recibieron una sesión de prompts guionizada y no personalizada, y la condición interactiva no mostró ventaja sobre el control mientras que sí lo hicieron tanto los textos escritos por especialistas como los generados por IA ([[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan, 2025]]). La personalización y la ventana de retención, y no la interactividad como tal, separan los resultados, y la curva de decaimiento es el hallazgo práctico: un diálogo compra semanas de corrección, no un cambio de creencia duradero.
 
-### Temas clave de investigación
+## Temas clave de investigación
 
 - Si el diálogo personalizado con IA supera al texto de refutación estático, y en qué condiciones.
 - Si el texto de refutación o de cambio conceptual generado por IA iguala la calidad del escrito por especialistas.
@@ -62,7 +62,7 @@ Los dos estudios que sustentan esa dependencia del diseño difieren en más que 
 - El papel de las características de quien aprende (rendimiento, epistemología, metacognición) como moderadoras de la eficacia de la refutación.
 - El refuerzo espaciado para sostener las ventajas iniciales de la refutación interactiva.
 
-### Implicaciones prácticas
+## Implicaciones prácticas
 
 Para el profesorado, los textos de refutación siguen siendo una forma fiable y de baja barrera de corregir ideas erróneas tenaces. Para quienes integran la IA, la evidencia sugiere: (1) usar la IA para *generar* contenido eficaz de refutación y de cambio conceptual a escala; (2) cuando sea viable, ofrecer la refutación mediante diálogo personalizado con IA para lograr una implicación y un cambio de creencia inmediatos más fuertes; (3) contar con que las ideas erróneas generadas por IA sean pedagógicamente útiles cuando se emplea una discusión estructurada para confrontarlas; y (4) diseñar pensando en quien aprende —los efectos de la refutación pueden concentrarse en el estudiantado de alto rendimiento y estar moderados por la epistemología y la metacognición, de modo que el [[scaffolding|andamiaje]] y el seguimiento importan—.
 

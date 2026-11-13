@@ -1,7 +1,7 @@
 ---
 title: Desarrollo teórico en la IA en la educación
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -93,14 +93,6 @@ La teorización del campo es desigual. [[limitations-in-aied-research|Las limita
 
 El desarrollo teórico y [[philosophy-of-ai-in-education|la filosofía de la IA en la educación]] son líneas complementarias pero distintas del trabajo fundacional de esta base de conocimiento. El **desarrollo teórico** produce y pone a prueba empíricamente los *mecanismos* del aprendizaje con IA —teorías y marcos con nombre propio como el generativismo, la co-agencia epistémica y la línea base cognitiva ausente, que explican y predicen cómo interactúan quienes aprenden y la IA—. La **filosofía** interroga los *presupuestos* en los que se apoyan esos mecanismos: qué cuenta como conocimiento, quién cuenta como conocedor y qué es fundamentalmente quien aprende. Una teoría como la [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|co-agencia epistémica]] propone un mecanismo mientras adopta implícitamente compromisos filosóficos sobre la cognición distribuida y la [[agency|agencia]]; la filosofía hace explícitos y contestables esos compromisos. Donde el desarrollo teórico pregunta si un marco explica bien el aprendizaje, la filosofía pregunta si capta lo que el aprendizaje y la mente realmente son: las dos líneas se encuentran en los artículos más fundacionales del campo, que a menudo hacen ambas cosas a la vez.
 
-## Concepciones erróneas
-
-**«Un hallazgo de que la herramienta funcionó es una contribución teórica.»** No lo es, y la razón es estructural. Donde las proposiciones de un marco predicen *diferencias entre configuraciones*, un estudio que solo informa de un efecto medio **no puede confirmarlas ni refutarlas**: el diseño no puede ver la distinción de la que trata la teoría. Un ensayo que muestra una ganancia media dice que ocurrió algo, no qué mecanismo lo causó, así que la teoría queda exactamente tan respaldada como antes.
-
-**«Aplicar una teoría establecida a la IA es desarrollo teórico.»** El propio problema del uso de la teoría de esta página dice lo contrario: la aplicación no es avance, y el patrón recurrente del campo es el de constructos prestados usados como vocabulario y no como predicciones contrastables. La distinción importa porque un marco prestado que no puede generar una diferencia falsable es decoración y no teoría.
-
-**«Las taxonomías existentes de la función pedagógica de la IA ya cubren lo que hacen estos sistemas.»** No cubren buena parte de ello. Entre 154 publicaciones con una función de aplicación clasificable, **90 (58,4%) se escapaban de las cuatro categorías** del marco anterior, y por eso el trabajo más reciente cruza la función con el control delegado, la posición epistémica y la pedagogía incorporada. Una taxonomía que clasifica mal casi tres de cada cinco casos no puede servir como vocabulario común del campo, y la brecha es un hallazgo sobre el fenómeno y no una laguna en un artículo.
-
 ## Implicaciones para la práctica
 
 **Para el profesorado y el diseño instruccional**
@@ -118,6 +110,14 @@ El desarrollo teórico y [[philosophy-of-ai-in-education|la filosofía de la IA 
 
 - Diseñe para contrastes de configuración si pretende una contribución teórica. Un ensayo de efecto medio publicado como desarrollo teórico es el resultado más común y menos útil del campo.
 - Adjunte proposiciones falsables explícitas a cualquier marco que introduzca, e informe de qué diferencias de configuración lo habrían refutado.
+
+## Concepciones erróneas
+
+**«Un hallazgo de que la herramienta funcionó es una contribución teórica.»** No lo es, y la razón es estructural. Donde las proposiciones de un marco predicen *diferencias entre configuraciones*, un estudio que solo informa de un efecto medio **no puede confirmarlas ni refutarlas**: el diseño no puede ver la distinción de la que trata la teoría. Un ensayo que muestra una ganancia media dice que ocurrió algo, no qué mecanismo lo causó, así que la teoría queda exactamente tan respaldada como antes.
+
+**«Aplicar una teoría establecida a la IA es desarrollo teórico.»** El propio problema del uso de la teoría de esta página dice lo contrario: la aplicación no es avance, y el patrón recurrente del campo es el de constructos prestados usados como vocabulario y no como predicciones contrastables. La distinción importa porque un marco prestado que no puede generar una diferencia falsable es decoración y no teoría.
+
+**«Las taxonomías existentes de la función pedagógica de la IA ya cubren lo que hacen estos sistemas.»** No cubren buena parte de ello. Entre 154 publicaciones con una función de aplicación clasificable, **90 (58,4%) se escapaban de las cuatro categorías** del marco anterior, y por eso el trabajo más reciente cruza la función con el control delegado, la posición epistémica y la pedagogía incorporada. Una taxonomía que clasifica mal casi tres de cada cinco casos no puede servir como vocabulario común del campo, y la brecha es un hallazgo sobre el fenómeno y no una laguna en un artículo.
 
 ## Conceptos conectados
 

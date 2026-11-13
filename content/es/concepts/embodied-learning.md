@@ -1,14 +1,14 @@
 ---
 title: Aprendizaje encarnado
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,7 @@ ai_assist:
 
 El aprendizaje encarnado está estrechamente relacionado con el [[active-learning|aprendizaje activo]], el [[experiential-learning|aprendizaje experiencial]] y las teorías situadas y [[constructivist|constructivistas]]. La afirmación clave es que un agente físico y manipulable ayuda a quien aprende a conectar ideas abstractas con resultados concretos —un programa que hace moverse a un robot, o un juego de rol con un robot físico— de formas que la interacción puramente en pantalla puede no lograr. La robótica es la encarnación más clara de la IA en la educación: da a quien aprende algo que ver, tocar y observar.
 
-### Cómo aparece el aprendizaje encarnado en la investigación de la base de conocimiento
+## Cómo aparece el aprendizaje encarnado en la investigación de la base de conocimiento
 
 - **Programación anclada:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] ancla la [[cs-education|programación por bloques]] en la ejecución robótica encarnada y crea un bucle estrecho de creación, ejecución, observación y revisión, de modo que quien aprende ve su código convertirse en comportamiento.
 - **Interacción social robótica:** los [[educational-robotics|robots sociales]] usados para la [[storytelling-in-education|narrativa]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), el juego de rol ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]) y la lengua de signos ([[pepper-robot-sign-language-lis-2025|Pepper]]) ofrecen una interacción social encarnada que apoya el aprendizaje relacional y [[social-emotional-learning|socioemocional]].
@@ -42,10 +42,8 @@ El aprendizaje encarnado está estrechamente relacionado con el [[active-learnin
 - **Interacción persona-robot:** la investigación sobre [[educational-robotics|HRI]] ([[task-context-trust-educational-hri-2026|confianza]], [[human-autonomy-agency-hri-review-2025|agencia]]) examina cómo la encarnación física modela la confianza, la [[student-engagement|implicación]] y la [[agency|autonomía]].
 - **El gesto como evidencia de comprensión:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] integran el seguimiento de gestos por visión artificial con el análisis de [[llm]] del habla para mostrar que la comprensión conceptual de la estadística en estudiantes de ingeniería se expresa tanto en el habla como en el gesto. Los gestos explicativos de alta confianza se agrupan en torno a conceptos concretos (especialmente la media), y un acoplamiento estrecho entre gesto y habla señala un discurso conceptual coherente, mientras que la divergencia marca ideas en desarrollo: esto sitúa la acción encarnada como evidencia en la [[assessment-validity|evaluación]] a través de la [[multimodal|analítica del aprendizaje multimodal]], y no solo como mecanismo de aprendizaje.
 - **Un facilitador solo lingüístico arrastra la indagación hacia lo que se puede decir.** En un laboratorio de estática de fluidos de máster, el estudiantado construyó el modelo de flotación a mano antes de que se sumara un facilitador basado en Gemini para aplicarlo a un fenómeno nuevo. En las tres parejas, la IA mantuvo la secuencia ISLE, pero, apremiada a «decírnoslo sin más», produjo valores de masa que nadie había medido, y una persona participante remota completó un ciclo físicamente correcto que era limpio pero descorporeizado ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino y Damiani, 2026]]). La lección de diseño es la secuenciación y no la sustitución: construya primero el modelo en el cuerpo y deje después que el modelo de lenguaje trabaje en aplicarlo.
-- **La IA sobre todo observa el cuerpo en lugar de unirse a él.** En una revisión PRISMA de 23 estudios sobre IA para el aprendizaje encarnado, los 40 roles de IA codificados estuvieron dominados por la detección: análisis y evaluación 40,0% y reconocimiento y detección 22,5%, frente al 35,0% de roles que actúan dentro de la actividad (retroalimentación y acompañamiento 15,0%, interacción 12,5%, creación de contenidos 7,5%). Al descartar los tres artículos con calificación Baja y los cuatro no evaluables, la interacción cae al 6,7% y la creación de contenidos al 3,3%, de modo que la evidencia de que la IA se une al bucle encarnado descansa en los artículos más débiles ([[kim-ai-embodied-learning-review-2026|Kim y Han (2026)]]).
-- **La literatura más corporal es la que menos mide el cuerpo.** De 32 etiquetas de resultado, las cognitivas ocuparon el 43,8%, las afectivas el 34,4% y las psicomotoras el 21,9%, un orden que se mantuvo entre los 16 artículos mejor valorados (24,0% de 25 etiquetas). Los autores lo atribuyen a la dificultad de seleccionar medidas psicomotoras y a la costumbre de priorizar las ganancias cognitivas, no a un efecto débil sobre la habilidad corporal. Ninguno de los sistemas revisados se diseñó para que quienes aprenden actuaran juntos; la colaboración que aparece es la cooperación entre [[teacher-role|docente]] y IA ([[kim-ai-embodied-learning-review-2026|Kim y Han (2026)]]).
 
-### La inteligencia encarnada y la crítica de la IA desencarnada
+## La inteligencia encarnada y la crítica de la IA desencarnada
 
 Una segunda línea, más teórica, de la investigación de la base de conocimiento sobre la encarnación se ocupa del papel del *cuerpo* en el aprendizaje mediado por la IA y las [[sociocultural-learning|teorías socioculturales]], no a través de robots físicos, sino a través de la pregunta de si los [[ai-technologies|sistemas de IA]] son (o pueden ser) encarnados. Este trabajo cuestiona el predominio de los modelos de IA simbólicos y desencarnados construidos sobre el procesamiento abstracto de la información:
 
@@ -56,6 +54,10 @@ Una segunda línea, más teórica, de la investigación de la base de conocimien
 El aprendizaje encarnado se conecta con [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]] y [[social-emotional-learning]].
 
 - **El seguimiento corporal convierte la regulación en una señal medible.** En una simulación de fotosíntesis en realidad mixta donde etiquetas de movimiento desplazaban a los agentes del estudiantado por un modelo proyectado, una canalización de LLM etiquetó 470 segmentos de conducta autorregulada en 40 minutos de vídeo, y la promulgación dominó con el 66,4% ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+
+- **La IA sobre todo observa el cuerpo en lugar de unirse a él.** En una revisión PRISMA de 23 estudios sobre IA para el aprendizaje encarnado, los 40 roles de IA codificados estuvieron dominados por la detección: análisis y evaluación 40,0% y reconocimiento y detección 22,5%, frente al 35,0% de roles que actúan dentro de la actividad (retroalimentación y acompañamiento 15,0%, interacción 12,5%, creación de contenidos 7,5%). Al descartar los tres artículos con calificación Baja y los cuatro no evaluables, la interacción cae al 6,7% y la creación de contenidos al 3,3%, de modo que la evidencia de que la IA se une al bucle encarnado descansa en los artículos más débiles ([[kim-ai-embodied-learning-review-2026|Kim y Han (2026)]]).
+
+- **La literatura más corporal es la que menos mide el cuerpo.** De 32 etiquetas de resultado, las cognitivas ocuparon el 43,8%, las afectivas el 34,4% y las psicomotoras el 21,9%, un orden que se mantuvo entre los 16 artículos mejor valorados (24,0% de 25 etiquetas). Los autores lo atribuyen a la dificultad de seleccionar medidas psicomotoras y a la costumbre de priorizar las ganancias cognitivas, no a un efecto débil sobre la habilidad corporal. Ninguno de los sistemas revisados se diseñó para que quienes aprenden actuaran juntos; la colaboración que aparece es la cooperación entre [[teacher-role|docente]] y IA ([[kim-ai-embodied-learning-review-2026|Kim y Han (2026)]]).
 
 ## Concepciones erróneas
 

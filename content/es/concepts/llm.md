@@ -10,7 +10,7 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introducción
 
-### Los LLM como motor de la AIED
+## Los LLM como motor de la AIED
 
 Los LLM son el concepto más referenciado de la base de conocimiento (más de 60 artículos), porque sustentan casi todas las aplicaciones de IA educativa:
 
@@ -54,7 +54,7 @@ Los LLM son el concepto más referenciado de la base de conocimiento (más de 60
 - **Verificación separada de la generación, con modos de fallo correlacionados.** [[eduguard-safe-rag-llm-tutor|Hossain et al. (2026)]] restringen la recuperación del tutor a material del curso aprobado por el profesorado y enrutan las afirmaciones a través de un verificador DeBERTa-v3-large-MNLI arquitectónicamente separado, pero advierten de que ambos modelos comparten un entrenamiento amplio en la web y pueden fallar de forma correlacionada, y de que el verificador no puede comprobar un rastro de código sin ejecutarlo.
 - **Cambio de modelo de evaluación (2017–2024):** la revisión de alcance de Morley et al. sobre la corrección automática de preguntas de respuesta corta de [[science-education|ciencias]] traza el paso del campo desde el ajuste fino de modelos [[educational-nlp|BERT]] más pequeños (dominante hasta 2021) hacia el prompting de LLM más grandes (GPT-1/2/3,5/4) a partir de aproximadamente 2022, adoptado mediante la [[prompt-engineering|ingeniería de prompts]] en lugar del ajuste fino, con modelos aumentados con dominio, prompting consciente de la rúbrica y cadena de pensamiento elevando la precisión. Sin embargo, los modelos GPT rara vez se compararon con BERT en corpus estándar, pocos correctores automáticos podían explicar sus calificaciones y el [[bias-mitigation|sesgo]] se examinó pocas veces, cautelas que se aplican a la evaluación con LLM en general ([[auto-marking-short-answer-science-2026]]).
 
-### Investigación específica de modelos
+## Investigación específica de modelos
 
 La base de conocimiento cubre tanto los LLM de propósito general (GPT-4, Claude) como las adaptaciones específicas para la educación. Los [[cstutorbench-slm-tutors|puntos de referencia de modelos de lenguaje pequeños]] comparan el rendimiento de los SLM en la tutoría, y [[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]] sostienen que los SLM son arquitectónicamente apropiados para la tutoría [[agentic-ai|agéntica]] cuando se despliegan como planificadores aumentados con herramientas —las herramientas deterministas asumen la carga que un modelo pequeño trataría implícitamente—, con el control pedagógico residiendo en la política de escalada más que en el modelo. La investigación sobre la [[educational-llm-alignment|alineación educativa]] aborda cómo hacer que los LLM sean pedagógicamente apropiados. Un estudio de aula con tres familias de frontera, el de [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash y Connell Pensky (2025)]], encontró que ChatGPT, Gemini o Claude podían actuar como compañeros de crítica colaborativa en la escritura argumentativa: a lo largo de un semestre de ensayos iterativos, el estudiantado mejoró en calidad de la argumentación, en [[prompt-engineering|ingeniería de prompts]] y en la respuesta a la [[ai-feedback-quality|retroalimentación de la IA]] en aproximadamente una desviación estándar completa en cada caso (todo p < 0,001) y se implicó a fondo (el 87,8% rebatía las afirmaciones del LLM), lo que sitúa a los LLM de propósito general como socios viables de [[collaborative-learning|aprendizaje colaborativo]] y no como meros generadores de respuestas.
 

@@ -1,13 +1,13 @@
 ---
 title: Diagnóstico cognitivo
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-10-28T13:36:06-04:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-12T21:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -68,15 +68,7 @@ El diagnóstico cognitivo ocupa el centro de la arquitectura de [[intelligent-tu
 
 El diagnóstico cognitivo se conecta con [[knowledge-tracing]], [[student-modeling]], [[educational-measurement]] y [[assessment]]. Sus hallazgos alimentan la [[intelligent-tutoring|tutoría inteligente]] y el [[adaptive-learning|aprendizaje adaptativo]], y el trabajo de la era de los LLM lo vincula con la identificación de ideas erróneas en la [[intelligent-tutoring|tutoría con IA]].
 
-## Concepciones erróneas comunes
-
-- **"El diagnóstico es una capacidad resuelta para los modelos."** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] supervisó el razonamiento diagnóstico como una de las cuatro capacidades de una familia abierta de 4B/9B/27B, y **el diagnóstico del estado de conocimiento siguió siendo el más débil** de los cuatro. El diagnóstico es la capacidad que resistió el entrenamiento que produjo las demás.
-- **"Los modelos pueden simular los errores de los estudiantes, así que pueden diagnosticarlos."** El cuello de botella es el inverso. Los modelos construyeron una solución en el **95,2% de las trazas de distractores** y simularon una idea errónea concreta de Eedi con una **exactitud de 0,92**, y aun así **proporcionar la solución correcta**, y no simular el error, fue lo que los limitó. Generar una respuesta incorrecta verosímil es más fácil que reconocer una.
-- **"El diagnóstico requiere un catálogo de ideas erróneas construido a mano."** Sobre **6.106 pares** de formalizaciones correctas e incorrectas de lógica proposicional, un flujo de trabajo descubrió **248 agrupaciones de transformaciones que explicaban 5.156 pares (84,44%)**, frente a **4.370 (71,57%)** de los errores escogidos a mano del conjunto de referencia. El descubrimiento igualó o superó la curaduría experta y se trasladó a la lógica modal, así que el catálogo es un punto de partida y no un techo.
-- **"Un diagnóstico solo es útil si nombra una idea errónea."** Diagnosticar qué resultados de curso ha alcanzado un aprendiz trata los resultados como los conceptos de conocimiento, aportando las relaciones entre conceptos mediante asignaciones de afinidad validadas por expertos. Para los programas basados en resultados, esa es la unidad más accionable, aunque sea más gruesa.
-
-## Qué significa esto para la práctica
-
+## Implicaciones para la práctica
 **Para el profesorado**
 
 - Trate el diagnóstico de un sistema como una hipótesis que hay que comprobar, no como un veredicto. El diagnóstico del estado de conocimiento fue la capacidad más débil de una familia entrenada para ello.
@@ -88,6 +80,13 @@ El diagnóstico cognitivo se conecta con [[knowledge-tracing]], [[student-modeli
 - Instrumente ambas direcciones: reconocer una respuesta incorrecta y producir la correcta. La cifra del 95,2% en recuperación de soluciones sugiere que la generación es la mitad fácil y que el modo de fallo está en el reconocimiento.
 - Prefiera el descubrimiento a un catálogo estático cuando la estructura del dominio lo permita, e informe de la cobertura frente a un conjunto de referencia para que la comparación sea legible.
 - No publique una puntuación diagnóstica sin indicar qué constructo mide y cómo se validó con independencia de la señal que la produjo.
+
+## Concepciones erróneas comunes
+
+- **"El diagnóstico es una capacidad resuelta para los modelos."** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] supervisó el razonamiento diagnóstico como una de las cuatro capacidades de una familia abierta de 4B/9B/27B, y **el diagnóstico del estado de conocimiento siguió siendo el más débil** de los cuatro. El diagnóstico es la capacidad que resistió el entrenamiento que produjo las demás.
+- **"Los modelos pueden simular los errores de los estudiantes, así que pueden diagnosticarlos."** El cuello de botella es el inverso. Los modelos construyeron una solución en el **95,2% de las trazas de distractores** y simularon una idea errónea concreta de Eedi con una **exactitud de 0,92**, y aun así **proporcionar la solución correcta**, y no simular el error, fue lo que los limitó. Generar una respuesta incorrecta verosímil es más fácil que reconocer una.
+- **"El diagnóstico requiere un catálogo de ideas erróneas construido a mano."** Sobre **6.106 pares** de formalizaciones correctas e incorrectas de lógica proposicional, un flujo de trabajo descubrió **248 agrupaciones de transformaciones que explicaban 5.156 pares (84,44%)**, frente a **4.370 (71,57%)** de los errores escogidos a mano del conjunto de referencia. El descubrimiento igualó o superó la curaduría experta y se trasladó a la lógica modal, así que el catálogo es un punto de partida y no un techo.
+- **"Un diagnóstico solo es útil si nombra una idea errónea."** Diagnosticar qué resultados de curso ha alcanzado un aprendiz trata los resultados como los conceptos de conocimiento, aportando las relaciones entre conceptos mediante asignaciones de afinidad validadas por expertos. Para los programas basados en resultados, esa es la unidad más accionable, aunque sea más gruesa.
 
 ## Conceptos conectados
 

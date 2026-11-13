@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje autorregulado
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-11T07:49:18-05:00"
+source_updated: "2026-11-12T18:50:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [process-feedback]
 contributors: [editor]
@@ -211,12 +211,16 @@ El estudiantado declaró más procrastinación (β = 0,525) junto con ganancias 
 
 Inducir la autorregulación con prompts no es lo mismo que enseñarla. En un ensayo aleatorizado de cuatro sesiones con 371 estudiantes de los grados 7 a 9, ni los prompts de valor de utilidad ni los de estrategias cognitivas mejoraron el uso de estrategias, el interés, el esfuerzo o el conocimiento del dominio frente a ChatGPT estándar ([[futterer-srl-genai-support-rct-2026|Fütterer et al., 2026]]). El resultado nulo importa porque la intervención añadía prompts de reflexión a una tarea de aprendizaje sin cambios: lo que regulaba el trabajo estaba en la tarea y en el aula, no en el prompt.
 
+La autoinformación es el eslabón débil de la evidencia. En el estudio de [[wilder-adhd-ai-interview-eye-tracking-2025|Wilder y Stratchan]] con 46 estudiantes con TDAH, la subescala de autorregulación metacognitiva del MSLQ no predijo el nivel de la entrevista (p = 0,312), mientras que una tarea de desempeño de flexibilidad cognitiva sí lo hizo. El hallazgo no muestra que la autorregulación sea irrelevante; muestra que el relato de quien aprende sobre su regulación y su capacidad de cambiar de reglas bajo presión son medibles por separado. La [[executive-function|función ejecutiva]] es la página que alberga el lado de la capacidad.
+
 ## Concepciones erróneas
 
 - **«La autorregulación es un rasgo de quien aprende.»** El aprendizaje regulado se descompone en **autorreflexión, atribución causal y adaptación**, y quienes aprenden con soltura **emplean estrategias cognitivas para mejorar su éxito**. Son procesos entrenables que un diseño puede sostener o socavar.
 - **«Cualquier diseño adaptativo apoya la regulación por igual.»** El **experimento de campo aleatorizado 2x2 con 179 estudiantes durante 22 días** de [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al.]] comparó dos principios de diseño y encontró que diferían en mecanismo, así que «adaptativo» no es un único tratamiento.
 - **«La ansiedad socava la regulación.»** En un estudio de métodos mixtos con **107 estudiantes**, una mayor [[anxiety-and-stress|ansiedad ante la IA]] se asoció **positivamente con la verificación y la recomprobación**. La ansiedad funcionó como un acicate para verificar, lo que es regulación y no su ausencia.
 - **El AAR metacognitivo predijo la carga relevante para el aprendizaje donde la [[ai-feedback-quality|retroalimentación de la IA]] no lo hizo.** En un estudio de campo de cinco semanas con **234 estudiantes y 1.147 observaciones**, la autorregulación metacognitiva fue un predictor positivo sustancial de la **carga cognitiva relevante** (β = 0,363, p < 0,001 por intención de tratar; 0,346, p < 0,001 basado en el uso) y no predijo de forma significativa la carga extrínseca, mientras que el mero acceso a la retroalimentación de IA conversacional no predijo ninguna de las dos. Solo la implicación **sostenida** con la retroalimentación separó al estudiantado en carga relevante, y el uso irregular no lo hizo (β = −0,219, p = 0,116), lo que sitúa el ingrediente activo en la regulación del procesamiento por parte de quien aprende y no en el suministro de retroalimentación ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger y Liening, 2026]]).
+
+Configurar un LLM como socio es un problema de autorregulación antes que un problema de selección de herramientas. En 117 relatos públicos de uso de LLM para el aprendizaje de lenguas, los 24 que orquestaban una interacción de varios pasos personalizaban mucho más a menudo que los otros 93 (70,8% frente a 15,1%) y declararon más beneficios percibidos (3,29 frente a 1,96), pero el 68,4% elogiaba el modelo sin nombrar una mejora medible y solo el 10,3% informaba de una ([[lasekan-chatbot-language-learning-partner-2026|Lasekan et al. (2026)]]).
 
 ## Conceptos conectados
 
@@ -242,6 +246,7 @@ Inducir la autorregulación con prompts no es lo mismo que enseñarla. En un ens
 - [[retrieval-spacing-interleaving]] — planificación, autoevaluación y elecciones de estrategia de estudio que hace quien aprende
 - [[cognitive-surrender]]
 - [[reflection]]
+- [[executive-function]]
 
 ## Artículos conectados
 - [[futterer-srl-genai-support-rct-2026]] — 371 estudiantes alemanes: los prompts de reflexión y de estrategia no añadieron nada frente a ChatGPT estándar (Fütterer et al., 2026)
@@ -285,3 +290,5 @@ Inducir la autorregulación con prompts no es lo mismo que enseñarla. En un ens
 - [[davis-ai-ta-forum-peer-co-regulation-2026]] — Un asistente de enseñanza con IA como primer respondedor desplazó las respuestas de los pares y, con ellas, la corregulación que amplificaba el valor de la autorregulación para la calificación (Davis et al. 2026)
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — La diversidad de preconcepciones cambió cómo aterrizaba una indicación metacognitiva: las mismas funciones de indicación, una evaluación sostenida opuesta de la salida de la IA (Wang et al. 2026)
 - [[gouroubera-genai-benin-2026]] — La procrastinación aumentó con el uso (β = 0,525) junto a una ganancia percibida, lo que separa el aplazamiento habilitado por la IA del que solo trata de la IA (Gouroubera et al. 2026)
+- [[lasekan-chatbot-language-learning-partner-2026]] — Orquestar el uso del LLM produjo configuraciones más ricas pero poca evidencia de aprendizaje
+- [[wilder-adhd-ai-interview-eye-tracking-2025]] — La regulación autoinformada frente a una medida de tarea de la flexibilidad cognitiva

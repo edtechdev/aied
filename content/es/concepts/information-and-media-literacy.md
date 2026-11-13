@@ -10,9 +10,9 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-12T21:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,8 @@ La tercera es la capacidad. En una encuesta a 412 bibliotecarios académicos de 
 
 Las preguntas fundacionales de la alfabetización mediática suponían un creador con un propósito. Los deepfakes, la clonación de voz y los bots automatizados rompen ese supuesto de tres maneras: el artefacto puede no tener autor humano, la audiencia puede ser sintética y la intención puede ser la optimización para la implicación en lugar de la persuasión por parte de alguien.
 
+**El argumento personalizado es el modelo actual de amenaza persuasiva.** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi et al. (2025)]] aleatorizaron a 900 adultos estadounidenses a debates en línea de diez minutos contra una persona o contra GPT-4, con o sin seis campos demográficos corrientes. El GPT-4 no personalizado era estadísticamente indistinguible de un oponente humano, mientras que el GPT-4 personalizado elevó un 81,2% las probabilidades de acuerdo posterior al debate y fue más persuasivo el 64,4% de las veces. Los participantes identificaron a un oponente de IA en aproximadamente tres de cada cuatro debates y aun así se desplazaron más cuando creían que el oponente era IA, de modo que la detección de la fuente no funcionó como inoculación. La manipulación era invisible en la prosa: las medidas de estilo apenas diferían entre condiciones, lo que sitúa la ventaja en qué argumentos se eligieron y no en cómo se escribieron.
+
 La evidencia curricular sugiere que las escuelas no se han puesto al día. Las entrevistas a expertos describen la [[teacher-education|formación docente]] como la restricción vinculante y no la resistencia estudiantil, y abogan por un encuadre de [[critical-pedagogy|pedagogía crítica]] que trate la evaluación como práctica ética y participativa en lugar de capacitación en herramientas. Un informe encargado para medios de servicio público encontró que la oferta para jóvenes de 14 a 19 años se inclinaba hacia habilidades funcionales de IA y se alejaba de la evaluación crítica, pese a revisar más de 40 marcos y entrevistar a 35 expertos ([[ai-literacies-young-adults-2025|el informe sobre alfabetizaciones en IA, 2025]]).
 
 ## La IA como herramienta defensiva: afirmaciones y salvedades
@@ -71,17 +73,22 @@ Un artículo de opinión del sector bibliotecario lleva la misma idea más lejos
 
 Leídos juntos, los dos lados del balance sugieren una regla: la IA puede asumir la carga de *práctica* —escenarios realistas, retroalimentación inmediata, escala— pero la carga de *juicio* sigue siendo del estudiante, y cualquier herramienta que afirme reemplazarla debe evaluarse como un detector con una tasa de error medida, no adoptarse como una clave de respuestas.
 
-## Qué significa esto para la práctica
-
+## Implicaciones para la práctica
 - **Enseñe un procedimiento, dos objetos.** La rutina comprobable —rastrear la afirmación hasta una fuente, rastrear la fuente hasta un autor, preguntar qué está haciendo el artefacto— sirve para una cita y para un vídeo. Nombre qué objeto evalúa la tarea.
 - **Trate la detección como evidencia, no como veredicto.** La salida de un detector es una probabilidad; enseñe a los estudiantes a corroborarla con un segundo método y a decir qué les haría cambiar de opinión.
 - **Mantenga la producción en el plan de estudios.** Crear medios fue la pedagogía que hizo concreta la crítica; generar con IA puede apoyarla solo si los estudiantes examinan las elecciones que la herramienta hizo por ellos.
 - **Incorpore a un bibliotecario o especialista en medios dentro del flujo de trabajo.** El resultado instruccional más sólido de esta literatura proviene de un diseño en el que la consulta humana estaba integrada, no ofrecida después.
 - **Evalúe la capacidad del personal antes de escribir el programa.** El déficit medido está en el diseño de objetivos y la evaluación de resultados, no en el uso de herramientas.
 
-## Limitaciones de la evidencia
-
+## Dónde la evidencia es escasa
 La mayoría de los estudios aquí son pequeños, [[self-report-measures|autoinformados]] o ambas cosas: 236 estudiantes en una encuesta, 36 niños en una intervención, 412 bibliotecarios calificándose a sí mismos. La visibilidad bibliométrica no es práctica, y los autores del estudio cienciométrico lo dicen explícitamente. Ningún estudio del corpus evalúa un plan de estudios combinado de alfabetización informacional y mediática, y los detectores y herramientas de verificación de hechos que recomienda la literatura práctica están en gran medida sin medir en estas fuentes. La afirmación de que la verificación impulsada por IA mejora los resultados debe tratarse como una hipótesis de diseño hasta que alguien la pruebe contra un control.
+
+## Concepciones erróneas
+
+- **Un detector zanja la cuestión.** Un detector devuelve una probabilidad; corrobórela con un segundo método en lugar de tratarla como una clave de respuestas.
+- **Las dos alfabetizaciones son una sola habilidad con dos nombres.** Sus objetos difieren —la credibilidad de la fuente frente a la autoría y la intención—, así que una única rúbrica no evalúa bien ninguna de las dos.
+- **Detectar la IA inmuniza contra ella.** En el experimento de persuasión más sólido del corpus, la detección fue alta y el desplazamiento hacia la posición de la IA siguió creciendo.
+- **La competencia bibliotecaria se transfiere a la alfabetización en IA.** La carencia del personal aparece en el diseño de objetivos (M = 2,70) y en la evaluación de resultados (M = 2,62), no en el manejo de herramientas.
 
 ## Conceptos conectados
 
@@ -108,3 +115,4 @@ La mayoría de los estudios aquí son pequeños, [[self-report-measures|autoinfo
 - [[critical-media-literacy-education-2026]] — Technology, education and critical media literacy: potential, challenges, and opportunities
 - [[demir-akar-ai-media-literacy-children-2026]] — Transforming clicks into critical thinking: An AI-based media literacy program for children
 - [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19
+- [[salvi-conversational-persuasiveness-gpt4-2025]] — El GPT-4 personalizado venció a los debatientes humanos; la detección no inmunizó (Salvi et al. 2025)

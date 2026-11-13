@@ -1,7 +1,7 @@
 ---
 title: Historia de la IA en la educación
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
@@ -80,8 +80,7 @@ La llegada de la [[generative-ai|IA generativa]] —una familia amplia que inclu
 
 **«“Inteligencia artificial” era simplemente el nombre obvio para el campo.»** El término fue una elección deliberada. Cuando McCarthy planificó el proyecto de Dartmouth de 1956 prefería *inteligencia artificial* a *cibernética*, en parte para distanciar el trabajo de la tradición de la retroalimentación analógica de Wiener. Esa única decisión enmarcó las máquinas en comparación directa con la cognición humana, y el encuadre antropomórfico que instaló sigue moldeando las prioridades de investigación, el lenguaje de los productos y las preguntas éticas que se hace el público.
 
-## Qué significa esto para la práctica
-
+## Implicaciones para la práctica
 **Para el profesorado y el diseño instruccional**
 
 - Nombre la tradición a la que pertenece su herramienta antes de adoptarla. Pregunte si optimiza hacia resultados fijos o abre la dirección de quien aprende, porque esa respuesta, y no la lista de funciones, determina qué hará con su [[assessment|diseño de evaluación]].

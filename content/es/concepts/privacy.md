@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacidad
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-11-11T11:35:00-05:00"
+source_updated: "2026-11-12T06:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,8 @@ La privacidad es la condición previa para una IA fiable en la educación. Dado 
 
 - **Las interfaces de chat filtran la conversación misma.** Al auditar 42 plataformas de chat con IA, [[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos et al. (2026)]] encontraron 21 que enviaban los títulos de las conversaciones a rastreadores de terceros, y las siete plataformas educativas promediaban unas 367 solicitudes de rastreadores cada una, con cinco filtrando contexto.
 
+- **La competencia y la autoridad fallan por separado.** Un marco teórico (Hypothesis and Theory) sobre la protección de los datos de quien aprende nombra dos fallos contrastantes: docentes que reconocen un problema de privacidad pero carecen de la autoridad o de una alternativa aprobada para actuar, e instituciones que ofrecen servicios salvaguardados mientras el profesorado divulga información innecesaria o acepta inferencias no respaldadas ([[kaziya-learner-data-privacy-governance-2026|Kaziya y Lungu (2026)]]). Trata cada decisión de recoger, transmitir, inferir o divulgar datos del estudiantado como unidad de análisis, con la competencia demostrada y la habilitación institucional medidas por separado.
+
 ## Seguridad infantil y protecciones en K-12
 
 Los entornos de [[k-12|educación K-12]] exigen salvaguardas de privacidad más estrictas porque quienes aprenden son menores. Esto extiende la privacidad más allá de la protección de datos y la adentra en la [[pedagogical-safety|seguridad pedagógica]]: las herramientas que usan los niños no solo deben proteger sus datos, sino también protegerlos de daños. La [[child-safety-genai|investigación sobre seguridad infantil]] muestra que los clasificadores de seguridad de uso general a menudo no detectan prompts inseguros relacionados con la educación procedentes de niños, y advierte de que las escuelas no pueden dar por hecho que las salvaguardas estándar de los modelos protegen a los usuarios más jóvenes: necesitan evaluación específica para la infancia, pruebas basadas en incidentes y [[human-in-the-loop-ai|supervisión humana]]. Este planteamiento conecta la privacidad con la [[equity-in-ai-education|equidad]]: a quién protegen por defecto las prácticas de seguridad y privacidad refleja a quién considera un sistema que su seguridad y su autonomía no son negociables.
@@ -135,3 +137,4 @@ La privacidad se conecta con la [[learning-analytics|analítica del aprendizaje]
 - [[agarwal-ethical-values-norms-aied-2026]] — Valores y normas éticas para la IA en la educación
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — Qué capturan los sistemas de supervisión y la ausencia de la literatura sobre privacidad en la base de evidencia
 - [[edtech-privacy-deferral-2026]] — "Ya lo arreglaremos después": educación, IA y el aplazamiento de la privacidad estudiantil en el sector edtech
+- [[kaziya-learner-data-privacy-governance-2026]] — Un marco que separa la competencia del profesorado en privacidad de la autoridad institucional para actuar

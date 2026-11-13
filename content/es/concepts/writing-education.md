@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Escritura
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-11-11T09:15:28-05:00"
+source_updated: "2026-11-12T15:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -136,6 +136,7 @@ Para el diseño de tareas, la afirmación es que el rigor y el compromiso intera
 ## Implicaciones para el profesorado de escritura
 
 - **Enmarcar la IA como complemento, y no como sustituto, del proceso de escritura.** La investigación de la base de conocimiento trata de forma consistente la IA como un andamiaje para redactar, revisar y dar retroalimentación, a la vez que protege el trabajo cognitivo y el público humano que convierten la escritura en una actividad de aprendizaje: [[coach-not-crutch-ai-writing|acompañar en lugar de servir de muleta]].
+- **Hacer de la IA generativa algo que el estudiantado interrogue en lugar de entregar.** En el módulo de primer año de analista de negocios de Alam y Jackson, la IA generativa se permitía dentro de límites que prohibían entregar texto generado y listas de referencias formateadas por IA, y, cuando el estudiantado la usó, algunos contestaron contraargumentos y rechazaron borradores en lugar de aceptarlos. Los autores consideran que la herramienta encaja bien con los contraargumentos, las estructuras alternativas y las correcciones lingüísticas, y mal con el juicio y la valoración de la evidencia que la evaluación pretendía calificar ([[alam-process-oriented-collaborative-essays-2026|Alam y Jackson, 2026]]).
 - **Usar la retroalimentación con IA dentro de un proceso centrado en las personas.** [[pairr-ai-peer-review-2025|PAIRR]] encuentra que la retroalimentación con IA es más útil combinada con la revisión entre pares y la reflexión; diseñe bucles de retroalimentación que mantengan en el centro al profesorado y al público de pares.
 - **El estudiantado quiere a la persona en el extremo de altas consecuencias.** [[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]] hallaron que el 81,7 por ciento de 93 estudiantes de grado prefería la calificación humana para un trabajo final que valía el 40 por ciento de la nota, confiaba en la IA para la gramática y la mecánica pero no para la escritura [[creativity|creativa]], y quería que una persona revisara la calificación de la IA.
 - **Auditar la retroalimentación automatizada en busca de sesgo.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] muestra que la retroalimentación con LLM se desplaza en direcciones alineadas con estereotipos cuando se personaliza con atributos del estudiantado: vigile el sesgo positivo y el de retención, y deje explícito que la personalización puede ser un vector de sesgo.
@@ -153,6 +154,10 @@ Para el diseño de tareas, la afirmación es que el rigor y el compromiso intera
 - **«Pedir un párrafo y pedir un ensayo son el mismo tipo de ayuda.»** Los datos de rastreo los separan. En **361 mensajes registrados** de **77** estudiantes universitarios de ensayo, las solicitudes que entregaban a la vez la planificación, la redacción y la revisión fueron la categoría más grande: **137** consultas de ese tipo de más de la mitad de las personas participantes. Dentro de ella, **20** pidieron un ensayo completo y **15 de las 77 (19,5%)** entregaron ensayos sin ninguna palabra escrita por su cuenta. Pedir un párrafo en torno a una idea fue la categoría más pequeña, con **10** participantes. [[jelson-students-chatgpt-essay-writing-2026|Codificar cada consulta contra el proceso de escritura]] muestra lo que un ensayo terminado no puede.
 
 El relato de aula más completo de ese rediseño es el despliegue de PAIRR. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] informan de 13 secciones de 10 cursos intensivos en escritura y 654 estudiantes en 2024, que abarcan escritura de desarrollo, composición de primer año, escritura profesional y cursos de escritura en STEM. El estudiantado leyó primero sobre modelos de lenguaje, después intercambió retroalimentación entre pares y solo entonces pidió a un chatbot retroalimentación guiada por la rúbrica. El prompt decía «No reescribas mi trabajo por mí». El argumento de los autores a favor de la secuencia es lo que el curso puede controlar: un modelo situado como una voz periférica no puede apoderarse del borrador sin que la rúbrica del profesorado lo note.
+
+- **Separar la ideación de la expresión.** Webb-Davies, Ratner y Bassett proponen una captura no calificada y observada del razonamiento —habla, notas o un mapa— antes de una entrega calificada escrita en casa con la IA permitida, con el argumento de que la producción de prosa y el razonamiento disciplinar son constructos separables ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
+
+- **Evaluar el proceso, no solo el ensayo.** Winstone, Gravett y Elkington proponen mantener la tarea y añadir ventanas a cómo se construyó —borradores, registros, reflexión sobre las decisiones— con un lenguaje de rúbrica que acredite la revisión y el error; su ejemplo trabajado reduce un ensayo de 2.500 palabras a 1.500 más 1.000 palabras de evidencia del proceso, de modo que la calificación se mantiene igual ([[black-box-assessment-winstone-2026|Winstone et al., 2026]]).
 
 ## Concepciones erróneas
 
@@ -241,3 +246,6 @@ El relato de aula más completo de ese rediseño es el despliegue de PAIRR. [[st
 - [[jelson-students-chatgpt-essay-writing-2026]] — Delegación medida a partir de rastros: 137 consultas de tarea completa, 15 estudiantes que entregan ensayos sin palabras escritas (Jelson et al. 2026)
 - [[al-nafjan-genai-eap-writing-engagement-2026]] — Rigor y compromiso docente como las dos dimensiones de la implicación en la escritura en la era de la IA generativa
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 secciones, 10 cursos, 654 estudiantes: el despliegue insignia de PAIRR y su prompt de solo retroalimentación
+- [[alam-process-oriented-collaborative-essays-2026]] — Ensayos colaborativos orientados al proceso: iteración y colaboración calificadas, con la IA generativa permitida dentro de límites
+- [[webb-davies-voice-first-written-assessment-2026]] — Una evaluación escrita en dos etapas que asegura el razonamiento bajo observación antes de calificar una entrega hecha en casa
+- [[black-box-assessment-winstone-2026]] — Evaluación de caja negra: ventanas al proceso, el error como evidencia y la integridad mediante la visibilidad

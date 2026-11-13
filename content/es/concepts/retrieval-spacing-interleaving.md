@@ -1,7 +1,7 @@
 ---
 title: "Recuperación, espaciado e intercalado"
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-12T21:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -92,6 +92,8 @@ La inclusión del intercalado aquí se apoya, por tanto, en la misma familia te�
 - **El intercalado no tiene prácticamente evidencia directa aquí.** Como se ha dicho, el corpus no contiene ninguna comparación entre bloques e intercalado, solo una simulación en la que el intercalado es una estrategia seleccionable entre varias.
 - **Poblaciones y contenido.** La base de evidencia se concentra en la [[higher-ed|educación superior]], en materiales de STEM y estadística, y en distinciones entre hechos y habilidades procedentes de contenidos de geometría y de regresión múltiple; la generalización a contextos de [[k-12|K-12]], a las [[humanities-education|humanidades]] y la escritura y a aulas no occidentales no queda establecida por estos estudios.
 
+[[pan-chatgpt-prequestions-memory-comprehension-2026|Pan, Schweppe, Teo, Indrajaya y Wenzel (2026)]] sitúan la IA generativa al frente del efecto de la prueba: dos preguntas generadas por ChatGPT respondidas antes de leer un texto de 675 palabras. En cuatro experimentos con 90, 128, 153 y 157 adultos, el uso de preguntas previas superó a la lectura sola (d = 1.12 en las preguntas practicadas, d = 0.78 en las no practicadas) e igualó a las preguntas generadas por personas. Quienes aprendían casi nunca respondían correctamente —0.056 de exactitud en el experimento 1— y aun así aprendieron más, que es la firma del efecto de preprueba. La transferencia se desvaneció con la distancia: las preguntas evaluadas superaron a las no evaluadas de la misma fuente (d = 0.46), que a su vez superaron a las no evaluadas de otra fuente (d = 0.32). La generación de preguntas se abarató; la recuperación siguió siendo obligatoria.
+
 ## Concepciones erróneas
 
 **«Un mejor cuestionamiento de la IA produce mejor retención.»** Produce mejor trabajo. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] encontró que un cuestionamiento más profundo del LLM mejoró la calidad de la tarea evaluada de forma independiente (**β = 6,27, p = 0,006**) a la vez que tenía una **asociación nula con el recuerdo en el postest inmediato (β = −0,014, p = 0,728)**, con las ganancias de recuerdo impulsadas por el conocimiento de partida. La calidad del artefacto y la durabilidad de la memoria son resultados distintos, y un mejor diálogo mueve el primero sin mover el segundo.
@@ -133,3 +135,4 @@ La inclusión del intercalado aquí se apoya, por tanto, en la misma familia te�
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — La práctica de recuperación en la capa de Herramientas de un marco de aprender a aprender
 - [[agentic-ai-pedagogical-best-practice-2026]] — Los agentes que precargan contenido se saltan la práctica de recuperación; el argumento a favor de la fricción intencionada
 - [[ai-tutor-modality-randomized-field-experiment-2026]] — Cuando los tutores de IA hablan: evidencia de un experimento de campo aleatorizado
+- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — Las preguntas previas generadas por ChatGPT mejoran la memoria y la comprensión de textos

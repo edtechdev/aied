@@ -1,7 +1,7 @@
 ---
 title: Descarga cognitiva
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-11T07:49:18-05:00"
+source_updated: "2026-11-12T21:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -209,7 +209,11 @@ La misma lógica convierte el moldeado de recompensas en una herramienta de dise
 
 La evidencia causal más reciente separa terminar la tarea de aprenderla. En un experimento 2×2 con 24 estudiantes universitarios canadienses, los principiantes con ChatGPT superaron 410,7 de 500 pruebas generadas frente a 80,7 sin él, mientras que el estudiantado de nivel intermedio no ganó nada y rindió mejor con recursos convencionales ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). Un estudio separado con 22 programadores encontró que GitHub Copilot produjo una ventaja de rendimiento de 14,09 puntos y una menor carga de trabajo durante la tarea, sin beneficio en una nueva prueba sin asistencia aproximadamente una semana después ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). La externalización puede elevar la producción y dejar intacta la capacidad de producirla.
 
-## Concepciones erróneas comunes
+Dos estudios recientes dotan a la descarga de un aparato de medición. La escala de 35 ítems de [[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrah y colegas]] convierte el proceso en seis dimensiones reportables —dependencia excesiva, comprensión superficial, verificación reducida, memoria más débil, esfuerzo disminuido y evaluación crítica reducida—, validada con 616 estudiantes de secundaria. La encuesta de [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026|Sharma, Manani y Thakwani]] con estudiantes universitarios encontró que la dependencia de ChatGPT se asociaba con un funcionamiento ejecutivo más pobre principalmente a través del estrés académico, y la ruta directa cayó a P = 0,328 una vez que el estrés entró en el modelo. Ambas pertenecen a la [[executive-function|función ejecutiva]], que alberga la capacidad que se supone que la descarga desplaza.
+
+[[papasideri-cognitive-offloading-genai-narrative-review-2026|Papasideri, Chatziioannou y Palaiologos (2026)]] examinan la migración del constructo hacia la IA generativa en una revisión narrativa que no agrupa nada ni aporta datos nuevos. Su marco es el que usa esta página: la descarga es una reasignación del esfuerzo, y la pregunta es si el esfuerzo reasignado vuelve en forma de aprendizaje. Lo que cambia con la IA generativa es el objeto —razonamiento, síntesis y evaluación en lugar de búsqueda y aritmética—, así que el resultado anterior de que la descarga predice una retención diferida más débil se aplica ahora al trabajo de orden superior. Su única afirmación de diseño es concreta: los prompts que exigen justificación o evaluación redujeron la descarga y mejoraron la calidad de la argumentación, lo que convierte el diseño de la interacción, y no la capacidad del modelo, en la palanca.
+
+## Concepciones erróneas
 
 - **"El volumen de prompts mide la externalización."** Se agrupó a **97 estudiantes** por volumen de prompts, y **los conglomerados de volumen no difirieron significativamente en el prompting local frente al global ni en el de papel activo**. Contar prompts contaba actividad, no la distribución del trabajo cognitivo.
 - **"Los estudiantes usan la IA principalmente para comprender."** **Analizar encabezó la distribución con un 27,28% (831 mensajes), por delante de Comprender con un 23,76%**: la primera evidencia fina de que la [interacción naturalista entre estudiante e IA] se inclina hacia lo analítico y no hacia la comprensión.
@@ -236,6 +240,7 @@ La evidencia causal más reciente separa terminar la tarea de aprenderla. En un 
 - [[retrieval-spacing-interleaving]] — la contrapráctica de dejar que un modelo recupere en nombre del estudiante
 - [[cognitive-surrender]]
 - [[reflection]]
+- [[executive-function]]
 
 ## Artículos conectados
 - [[chen-genai-programming-understanding-2026]] — Programadores principiantes e intermedios: ChatGPT elevó los aprobados en las pruebas a 410,7 frente a 80,7 mientras la comprensión no seguía ese ritmo (Chen et al., 2026)
@@ -293,3 +298,6 @@ La evidencia causal más reciente separa terminar la tarea de aprenderla. En un 
 
 - [[riva-cognitive-capital-generative-ai-review-2026]] — Capital cognitivo: la descarga como retirada de un acervo renovable de capacidad
 - [[pradubwate-illusion-ai-competence-miscalibration-2026]] — Descalibración transdimensional: la fluidez operativa se lee como competencia evaluativa y de dominio (revisión conceptual)
+- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Seis dimensiones autoinformadas de la dificultad de aprendizaje mediada por IA
+- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — El estrés académico media entre la dependencia de ChatGPT y la disfunción ejecutiva
+- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — La descarga cognitiva en la era de la IA generativa: una revisión narrativa que la vincula con la memoria, el aprendizaje y la función ejecutiva

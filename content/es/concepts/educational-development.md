@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Desarrollo educativo
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-10T18:55:00-05:00"
+source_updated: "2026-11-12T16:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -132,6 +132,14 @@ Confianza y alfabetización no son objetivos intercambiables: en un SEM de 502 e
 - **Seis familias de desarrollo profesional, tres bien evidenciadas y una ganadora clara.** Una revisión de 78 estudios sobre diseño instruccional apoyado por IA ordena el desarrollo profesional documentado en módulos compactos integrados (2-4 semanas), microaprendizaje de un semestre, ciclos de diseño basados en tareas, cadenas de preguntas colaborativas basadas en el diálogo, codescubrimiento crítico y [[self-directed-learning|aprendizaje autodirigido]] del profesional. La evidencia de resultados es más sólida para los **módulos compactos integrados**: un módulo de tres semanas produjo ganancias estadísticamente significativas en los seis dominios del Intelligent-TPACK con tamaños del efecto de medios a grandes, y un programa de cuatro semanas con **436 docentes en formación inicial y una condición de control** es la evaluación controlada más sólida del corpus ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou y Kameas, 2026]]).
 - **Tres características de diseño separan las intervenciones mejor evidenciadas.** La ética integrada como **[[retrieval-spacing-interleaving|práctica distribuida]] con puntos de control en cada tarea** en lugar de una sesión independiente; la **evaluación de la competencia basada en el desempeño** mediante planes de clase, registros de decisiones y microenseñanza, motivada directamente por la falta de fiabilidad del autoinforme; y la ingeniería de prompts desarrollada como práctica reflexiva y fundamentada en la pedagogía. La adopción no es la misma palanca que el desempeño: en 200 docentes de Sumatra del Norte, el uso de IA no tuvo efecto directo sobre el desempeño docente (β = 0,112, p = 0,087) mientras que la conducta de ciudadanía organizativa lo vehiculizaba de forma indirecta, de modo que el trabajo de desarrollo del profesorado orientado a un uso colaborativo y de rol extra es la versión que respalda la evidencia ([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]]). Un estudio complementario de dos semanas encontró ganancias rápidas en conocimiento y confianza a la vez que identificaba la detección de sesgos como la competencia emergente más débil, una brecha que persistió en el módulo más largo, en consonancia con que la capacidad perceptiva ética se desarrolla más despacio que la familiaridad tecnológica.
 
+**La escala está documentada; el cambio en las aulas, no.** [[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay y sus colegas]] siguieron a 105 docentes de química a lo largo de un programa de seis semanas, y [[ma-ai-corpus-language-teaching-coi-2026|Ma y sus colegas]] dirigieron un programa en línea de 20 semanas con más de 150 docentes de idiomas de 28 países. [[white-scandinavian-teachers-genai-attitudes-2026|White y sus colegas]] midieron una ganancia de 0,20 DE en los beneficios percibidos en 2.159 docentes escandinavos que recibieron desarrollo profesional en IA generativa. Cada estudio muestra que el desarrollo mueve lo que el profesorado declara; ninguno los sigue hasta un aula para medir qué hizo distinto el estudiantado.
+
+**Lo que pide el profesorado se parece más a un aprendizaje en el oficio que a una formación.** En el estudio de distrito, 22 docentes pidieron un desarrollo impartido por antiguos docentes que entendieran las restricciones del aula, una guía de una página sobre cuándo ayudan las herramientas y el tiempo de planificación para usar cualquiera de las dos ([[dangol-relief-or-displacement-teachers-generative-ai-2026|Dangol et al.]]). Las instituciones, mientras tanto, optan por construir capacidad en lugar de comprarla: entre aquellas cuya estrategia incluye competencias laborales, el 69% está capacitando al personal y al profesorado existentes ([[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE, 2026]]).
+
+**La ausencia de desarrollo es una decisión de política con un resultado visible.** [[rameskumar-shadow-ai-legitimized-higher-education-2027|Rameskumar y sus colegas]] entrevistaron a 20 educadores que habían construido sus propias reglas porque no llegó ninguna orientación, y [[bodek-prompted-to-explore-microlearning-2026|Bodek]] describe un modelo de microaprendizaje diseñado para ajustarse al tiempo que el profesorado tiene de verdad. Los programas que tratan el desarrollo como una capa repetida de apoyo institucional y no como un acontecimiento único informan de la diferencia ([[aalhe-capacity-disposition-genai-assessment-2026|AALHE]]).
+
+**El contexto cambia la forma del desarrollo, no la necesidad de él.** En educación médica, una residencia en IA trata el desarrollo del profesorado y el aprendizaje conjunto como el mecanismo y no como un añadido ([[bursic-ai-residency-education-curriculum-2026|Bursic et al.]]). Una revisión de 86 recursos de primera infancia identifica el desarrollo de educadores como uno de sus cuatro temas ([[early-childhood-ai-holistic-competencies-review-2026|la revisión]]). La renovación de la CTE recurre al desarrollo del profesorado cuando el cambio curricular deja al descubierto una brecha de capacidades ([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]]). Y entre 146 docentes, la participación en el desarrollo profesional medió en el vínculo entre la motivación y la intención de usar IA generativa ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al.]]).
+
 ## Concepciones erróneas comunes
 
 **«Un taller de capacidades es la intervención que necesita el desarrollo educativo.»** La preparación es un problema de alineación sociotécnica, no un déficit individual, y por eso un «taller de IA» aislado se queda corto respecto a la necesidad que aborda. Un programa que trabajó la pregunta de forma directa fue un **instituto de verano de seis semanas** que llevó a diez miembros del profesorado de Educación, Ciencias de la Salud, Empresa y otros programas por un trabajo de nivel identitario. La duración y la cohorte no son incidentales en ese diseño; son lo que lo distingue de un recorrido por funcionalidades.
@@ -196,3 +204,15 @@ Confianza y alfabetización no son objetivos intercambiables: en un SEM de 502 e
 - [[ai-competence-framework-landscape-2026]] — Compruebe qué describen los niveles de un marco antes de adoptarlo
 
 - [[fajardo-ramos-teacher-education-ai-agenda-2026]] — ¿Puede la educación marcar la agenda de la IA? Innovación simulada y orientación pedagógica en la formación docente
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 docentes de química en un programa de seis semanas
+- [[ma-ai-corpus-language-teaching-coi-2026]] — Más de 150 docentes de idiomas de 28 países a lo largo de 20 semanas
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2.159 docentes escandinavos; ganancia de 0,20 DE en los beneficios percibidos
+- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 docentes tras un programa de aprendizaje con IA generativa, con las necesidades mediando la implicación
+- [[bodek-prompted-to-explore-microlearning-2026]] — un modelo de microaprendizaje para el desarrollo del profesorado en IA generativa
+- [[bursic-ai-residency-education-curriculum-2026]] — una residencia en IA en educación médica
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 recursos; el desarrollo de educadores como uno de cuatro temas
+- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 docentes que piden un desarrollo dirigido por antiguos docentes
+- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% capacitando al personal y al profesorado existentes
+- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 educadores que legitiman la IA en la sombra donde faltaba orientación
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — brechas de capacidades que impulsan el desarrollo del profesorado y las decisiones de contratación
+- [[aalhe-capacity-disposition-genai-assessment-2026]] — el desarrollo repetido como una de cinco capas de apoyo

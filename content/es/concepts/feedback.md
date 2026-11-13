@@ -1,13 +1,13 @@
 ---
 title: Retroalimentación
 created: "2026-09-25T03:54:18-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-11-11T11:05:00-05:00"
+source_updated: "2026-11-12T16:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 contributors: [editor]
@@ -151,9 +151,13 @@ Un modelo de dos capas muestra cómo el emparejamiento puede organizarse en torn
 
 Dos estudios nuevos acotan lo que la retroalimentación con IA puede reclamar. En 391 estudiantes alemanes de secundaria, ningún resultado difirió significativamente entre la retroalimentación escrita por el profesorado y la de los LLM: las revisiones, la escritura posterior, el tiempo en la tarea y las percepciones fueron estadísticamente indistinguibles. Las distribuciones posteriores bayesianas se inclinaron hacia la retroalimentación del profesorado en la escritura posterior (.80) y en el afecto (.90), con entre un cuarto y dos quintos de la masa dentro de la región de equivalencia. La retroalimentación inmediata de la IA por sí sola se valoró como más útil y más motivadora ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). En un estudio de ocho semanas con 247 estudiantes de grado, la calidad percibida de la retroalimentación predijo la competencia (β = 0,52), la autonomía (β = 0,44) y la relación (β = 0,28), lo que sitúa parte del efecto en cómo se experimenta la retroalimentación y no solo en su exactitud ([[liu-ai-feedback-motivational-pathways-2026|Liu et al., 2026]]).
 
+**La capacidad de aprovechamiento condiciona lo que rinde la retroalimentación con IA.** En 486 estudiantes de inglés como lengua extranjera, el vínculo entre el uso de retroalimentación con IA y la autonomía fue de 0.48 a una desviación estándar por encima de la media modelada de alfabetización en IA y de 0.23 por debajo, con una trayectoria indirecta serial de 0.10 hacia la implicación cognitiva profunda ([[he-ai-feedback-deep-engagement-efl-2026|He et al. (2026)]]).
+
 ### Por qué importa la retroalimentación para la IA en la educación
 
 La retroalimentación es uno de los mecanismos más determinantes y mejor documentados de la educación, y la IA lo amplifica y lo complica a la vez. Una retroalimentación con IA bien arquitecturada puede igualar o superar la retroalimentación humana y escalar entre cohortes, pero exige nuevas capacidades en quien aprende ([[feedback-literacy]], [[ai-literacy]]) y conlleva riesgos (aceptación acrítica, [[cognitive-offloading|dependencia excesiva]]). A medida que la retroalimentación generada por IA se vuelve omnipresente, la base de conocimiento la enmarca como un sistema completo (calidad, bucle, alfabetización y contexto de evaluación trabajando juntos) y no como un componente aislado.
+
+La síntesis sobre L2 da a esa jerarquía un anclaje empírico. En 48 estudios controlados, la IA generativa desplegada como proveedora de retroalimentación y evaluación produjo el mayor efecto (g = 1.15, que cae a g = 0.83 tras eliminar los valores atípicos), por delante de su uso como compañera de interacción (g = 0.81) o como integradora instruccional (g = 0.28) ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
 
 ## Concepciones erróneas
 
@@ -243,3 +247,4 @@ La retroalimentación es uno de los mecanismos más determinantes y mejor docume
 - [[porcaro-ai-grading-benchmark-2026]] — Más allá de la concordancia: 22 calificadores con indicaciones se enfrentan a pruebas cuya respuesta correcta se conoce, y a la mayoría se les puede persuadir (Porcaro 2026)
 - [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — La retroalimentación de la IA y la del profesorado son iguales en calidad de revisión y desiguales en motivación (Liu y Shi 2026)
 - [[xian-process-visualization-feedback-news-translation-2026]] — La retroalimentación generada a partir de trazas de tecleo y pantalla superó a los comentarios escritos sobre el producto, 11 por brazo
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — Metanálisis de tres niveles: la IA generativa funciona mediante la retroalimentación y el diseño dirigido por quien aprende, no como una intervención uniforme (Zhang et al. 2026)

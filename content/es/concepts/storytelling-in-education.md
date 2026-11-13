@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-11-11T10:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 La narrativa se fundamenta en la [[motivation|motivación]], la [[student-engagement|implicación del estudiantado]] y las teorías [[constructivist|constructivistas]] [[learning-theories|del aprendizaje]]. Apoya el [[language-learning|aprendizaje de idiomas]], la [[creativity|creatividad]], el [[social-emotional-learning|aprendizaje socioemocional]] y la comprensión. En la era de la IA, la narrativa impulsada por [[llm|LLM]] y mediada por robots posibilita la cocreación, en la que quien aprende y los [[agentic-ai|agentes de IA]] construyen historias juntos, y una narrativa interactiva que responde a quien aprende.
 
-### Cómo aparece la narrativa en la investigación de la base de conocimiento
+## Cómo aparece la narrativa en la investigación de la base de conocimiento
 
 - **Narrativa mediada por robots:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] usa un robot narrador digital interactivo de aspecto humano y encuentra ganancias significativas en implicación conductual y cognitiva frente a los métodos de papel y PowerPoint; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] permite al profesorado crear actividades narrativas basadas en escenarios e impulsadas por LLM a partir del contenido del [[curriculum-design|currículo]].
 - **Las ganancias de implicación tienen un tamaño, y la motivación no las acompañó.** MotiBo quedó un 27,06% y un 30,00% por delante del papel y de PowerPoint en implicación conductual y cognitiva (ambas p < 0,05), mientras que la motivación intrínseca subió un 20,21% sin alcanzar significación (p = 0,07). La implicación se movió, la motivación no superó su umbral, y el cuasi-experimento de cinco días no midió ningún resultado de aprendizaje ([[motibo-digital-storytelling-robots-motivation-2026|Fung y Lui, 2026]]).

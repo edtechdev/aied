@@ -1,7 +1,7 @@
 ---
 title: "Competencia en IA del profesorado"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-10T22:35:00-05:00"
+source_updated: "2026-11-12T07:25:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -99,11 +99,15 @@ Una encuesta a 132 docentes en Indonesia encontró una aceptación casi universa
 
 La brecha se ve tanto en el artefacto como en el autoinforme. Un [[ai-integration-instructional-design-collaboratory-2026|colaboratorio interinstitucional de profesorado en la formación docente]], en el que formadores de docentes integraron la IA en sus propios cursos de didáctica, informó de que los futuros docentes podían producir planificaciones de clase asistidas por IA muy pulidas sin ser capaces de explicar por qué una planificación encajaba con el estudiantado y con los estándares, ya que la planificación en sí no dice nada sobre el razonamiento que hay detrás. Calificar la justificación en lugar del producto es una respuesta posible. El [[bondurant-shaughnessy-ai-pedagogies-practice-2026|marco de pedagogías de la práctica]] sugiere otra, al tratar el ensayo como una aproximación de la práctica: el ensayo mediado por IA con retroalimentación estructurada posterior al ensayo aumentó el uso de preguntas de sondeo y exploración por parte de los futuros docentes, aunque sus propios juicios sobre su desempeño seguían divergiendo de lo que registraban las personas observadoras.
 
+Un modelo a nivel de facultad sugiere que parte de la señal del autoinforme es institucional y no individual. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] predijeron la banda de competencia digital autoevaluada de 315 docentes universitarios y encontraron que la afiliación era el mayor contribuyente global, por delante de la edad y del título, con bandas de competencia docente divididas entre un 90,1% y un 42,9% de nivel alto según la institución (χ² = 82,710; V = 0,512). Una puntuación de competencia que sigue a la universidad que emplea a la persona encuestada está midiendo contexto tanto como capacidad.
+
 **Una autoevaluación a la baja tras la formación puede indicar aprendizaje, y no pérdida.** En un programa de desarrollo profesional [[tpack|Intelligent-TPACK]] de [[educational-development|formación continua]] de seis meses con 64 docentes universitarios de Hong Kong frente a 61 controles, la competencia global en IA aumentó alrededor de media desviación típica (d de Cohen = −.521), aunque algunos docentes de ambos grupos puntuaron menos en la prueba posterior que en la previa ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng y Ling, 2025]]). Las entrevistas atribuyeron los descensos a un paso de la incompetencia inconsciente a la consciente —la recalibración que predice el efecto Dunning–Kruger— y no a una pérdida de destreza. Los autores concluyen que el autoinforme pre-post infravalora una intervención, porque parte de la ganancia llega como corrección a la baja del propio instrumento.
 
 **La brecha puede invertirse a lo largo de la trayectoria formativa.** En [[medical-education|educación médica]] de posgrado, doce médicos que dirigen el trabajo curricular en IA esperaban que el personal residente llegara a ser más fluido con la IA que muchos de sus docentes, y propusieron aprendizaje y enseñanza conjuntos en lugar de una [[lifelong-learning|actualización]] unidireccional del profesorado ([[bursic-ai-residency-education-curriculum-2026|Bursic et al. (2026)]]). Las mismas entrevistas describieron unidades de informática todavía no lo bastante maduras para liderar el desarrollo curricular, lo que sitúa la restricción en la capacidad institucional además de en la habilidad individual.
 
 **La brecha también se manifiesta como no participación.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson y Rainie (2026)]] encuestaron a 1.057 docentes universitarios estadounidenses a finales de 2025 y encontraron que el 26% no usa en absoluto herramientas de [[generative-ai|IA generativa]], con un tercio que decide no usarlas para enseñar y una no utilización concentrada en las artes y las [[humanities-education|humanidades]] (40%). El lado institucional de la brecha era mayor que el individual: el 68% dijo que su institución no había preparado al profesorado para usar la IA generativa en la docencia y la tutoría, y el profesorado señaló la resistencia de sus colegas (82%) y su falta de familiaridad (83%) como los principales obstáculos a la adopción departamental, un panorama en el que la creación de capacidades, las normas entre pares y la política tienen que moverse a la vez.
+
+La adopción pasa por el juicio sobre la disciplina y no por el entusiasmo general. En entrevistas con 14 docentes de cuatro universidades chinas, los participantes juzgaban útil la IA por las exigencias de conocimiento de su propio campo, la mantenían en un papel auxiliar y condicionaban su uso a un propósito claro y a que el estudiantado pensara primero ([[xiong-teachers-ai-attitudes-chinese-higher-ed-2026|Xiong et al. (2026)]]). Su preocupación más constante no era su propia habilidad, sino que el estudiantado entregara el proceso de pensamiento.
 
 **La formación inicial elude en gran medida la dimensión ética de la competencia.** Una [[meta-analysis-systematic-review|revisión sistemática]] sobre la IA en la formación inicial del profesorado de matemáticas de primaria ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto et al. 2026]], 11 estudios seleccionados de 341 registros) encontró que las intervenciones se concentraban en ganancias técnicas y pedagógicas a corto plazo, con nueve de los once estudios consistiendo en intervenciones breves de una a seis sesiones, e informó de que la ética se abordaba solo en tres de los once estudios. Los marcos de competencia nombran el juicio ético como dimensión; la literatura de formación inicial destinada a construirlo rara vez lo enseña o lo mide.
 
@@ -252,3 +256,5 @@ El panorama de instrumentos se ha revisado desde entonces. [[assessing-teachers-
 - [[bursic-ai-residency-education-curriculum-2026]] — Barreras para integrar la IA en los currículos de residencia: entrevistas cualitativas con doce líderes médicos
 - [[yuan-teacher-need-satisfaction-genai-2026]] — Satisfacciones de las necesidades psicológicas básicas del profesorado y sus intenciones de usar inteligencia artificial generativa: el papel mediador de la implicación en el desarrollo profesional
 - [[white-scandinavian-teachers-genai-attitudes-2026]] — Actitudes del profesorado escandinavo hacia la inteligencia artificial generativa: exploración de asociaciones
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — La banda de competencia autoevaluada del profesorado se predice en gran medida por la afiliación institucional y no por atributos individuales
+- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — La adopción se juzga disciplina a disciplina, con el razonamiento del estudiantado como principal preocupación

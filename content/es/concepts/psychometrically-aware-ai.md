@@ -7,7 +7,7 @@ technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 
 A medida que los sistemas de IA puntúan respuestas, predicen dificultad y ofrecen [[feedback|retroalimentación]] cada vez más, un riesgo clave es que reporten salidas que suenan seguras y que no se han validado contra principios de medición. La IA psicométricamente consciente aborda esto al fundamentar la [[assessment|evaluación]] con IA en la psicometría consolidada: calibra las salidas, cuantifica la incertidumbre y preserva los estándares de [[assessment-validity|validez de la evaluación]] y de [[educational-measurement|medición educativa]] en lugar de apoyarse en la precisión bruta o en la confianza [[self-report-measures|autoinformada]].
 
-### Cómo aparece la IA psicométricamente consciente en la investigación
+## Cómo aparece la IA psicométricamente consciente en la investigación
 
 - **Calibración y confianza:** la [[automated-assessment|evaluación consciente de la confianza]] y la [[llm-psychometric-calibration-cdp|calibración psicométrica de LLM]] aseguran que la IA reporte puntuaciones significativas y conscientes de la incertidumbre en lugar de estimaciones puntuales demasiado seguras.
 - **La confianza del modelo no basta.** En SciEntsBank, la confianza verbalizada, la latente y la basada en la consistencia no lograron por separado distinguir las respuestas cortas correctas de las incorrectas; la mejor calibración provino de añadir incertidumbre aleatoria derivada del conjunto de datos —la entropía dentro del conglomerado de las respuestas incrustadas— mediante un bosque aleatorio más escalado de Platt, lo que permite una calificación automática selectiva y una [[human-in-the-loop-ai|revisión humana]] ([[cong-confidence-asag-2026|Cong et al. (2026)]]).
@@ -48,7 +48,7 @@ A medida que los sistemas de IA puntúan respuestas, predicen dificultad y ofrec
 - **Una escala de dependencia que rechaza el anclaje en los resultados.** Cuatro factores (uso reflexivo, cauteloso, irreflexivo y colaborativo) surgieron de 800 respuestas y se mantuvieron en una tarea con una forma distinta (CFI = 0,91), midiendo la conducta de cada momento de la tarea en lugar de etiquetarla como buena o mala ([[genai-reliance-scale-problem-solving-2026|Hou et al. (2025)]]).
 - **Canalizaciones de habilidad latente y fijación de estándares:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] ofrecen una plantilla concreta de calificación psicométricamente consciente en un examen nacional: las puntuaciones de los ítems de la rúbrica nunca se suman directamente, sino que se introducen en un modelo [[item-response-theory|IRT]] cuyas estimaciones de habilidad latente se cortan con el método de fijación de estándares Bookmark en Competente / Cerca de la competencia / Insuficiente, y para aprobar se exige al menos dos secciones Competentes y la restante al menos Cerca de la competencia. Los autores reprodujeron esa canalización de forma automatizada (una probabilidad del 67% de responder correctamente al menos 7 ítems de la rúbrica para el corte inferior y al menos 10 para el superior), lo que permite comparar las puntuaciones de ítems de la IA y de las personas frente a criterios de decisión idénticos y no solo por su concordancia bruta.
 
-### Conexiones
+## Conexiones
 
 La IA psicométricamente consciente se sitúa en la intersección de la [[educational-measurement|medición educativa]], la [[assessment-validity|validez de la evaluación]], la [[item-response-theory|teoría de respuesta al ítem]] y la [[automated-assessment|evaluación con IA consciente de la confianza]]. Es central para la [[ai-ed-evaluation|evaluación de la IA educativa]] (si la evaluación con IA es digna de confianza) y se conecta con la [[automated-assessment|evaluación automatizada]] basada en [[llm|LLM]] y con la [[automated-assessment|calificación automatizada]]. Su énfasis en la validez también se refiere a las [[limitations-in-aied-research|limitaciones de medición]] de la investigación en [[ai-education|AIED]].
 

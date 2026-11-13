@@ -1,14 +1,14 @@
 ---
 title: Brecha digital
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ La brecha digital se entiende comúnmente como algo que opera en **tres niveles*
 
 El giro hacia la inferencia en el borde añade una dimensión de hardware a la brecha de primer nivel. Cuando la tutoría se ejecuta en el navegador en lugar de en la nube ([[browser-sized-agents-slm-webllm-tutor-2026|tutores SLM residentes en el navegador]] mediante WebLLM), la barrera del costo de suscripción desaparece, pero la sustituye una barrera de capacidad: en un portátil de consumo, el mismo sistema tardaba unos 180 segundos por ensayo frente a 10-58 segundos con una API remota, y los dispositivos de gama Chromebook no pueden ejecutar siquiera un modelo de 8B. Los estudiantes con hardware moderno obtienen una generación rápida y fluida, mientras que los que tienen dispositivos más antiguos se enfrentan a la latencia o al agotamiento de la memoria, así que lo local y barato no equivale por defecto a lo equitativo.
 
-### Cómo aparece la brecha digital en la investigación
+## Cómo aparece la brecha digital en la investigación
 
 - **La alfabetización en IA como mecanismo de equidad:** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|El marco SAIL]] se diseñó explícitamente para abordar las brechas de segundo y tercer nivel, ofreciendo una vía escalonada y agnóstica a la edad hacia una alfabetización en IA equitativa en todas las etapas educativas, fundamentada en el argumento de que la alfabetización en IA es inseparable de la equidad y la participación.
 
@@ -63,7 +63,7 @@ El giro hacia la inferencia en el borde añade una dimensión de hardware a la b
 
 - **Los servicios digitales públicos reproducen la brecha.** La plataforma de gobierno electrónico eCitizen de Kenia está principalmente en inglés, con un uso limitado del suajili y una interfaz solo de texto, lo que excluye a jóvenes con baja alfabetización, con discapacidad visual y de zonas rurales; las entrevistas y una mesa redonda de once personas en cuatro plataformas de medios de vida (Ajira Digital, KRA iTax, HELB, YEDF) apuntan a las tecnologías lingüísticas y a un diseño basado en WCAG 2.1 como las palancas de inclusión ([[amol-ai-egovernance-digital-inclusion-2026|Amol y Wanzare (2026)]]).
 
-### La IA profundiza las brechas (y puede cerrarlas)
+## La IA profundiza las brechas (y puede cerrarlas)
 
 La IA añade nuevas capas a las implicaciones de equidad de la tecnología. El sesgo algorítmico puede afectar de forma desproporcionada a estudiantes de comunidades marginadas, y la [[ai-literacy|alfabetización en IA]], es decir, la capacidad de comprender, evaluar críticamente y mitigar los sesgos y riesgos de la IA, es en sí misma un factor clave de si la IA amplía o reduce las brechas. La [[research-methods-aied|investigación]] muestra que los educadores con mayor alfabetización en IA son más eficaces a la hora de identificar y mitigar resultados sesgados. La brecha digital en la era de la IA no es, por tanto, solo un problema de provisión técnica, sino una cuestión de justicia y participación: quién puede acceder a la IA, quién puede usarla críticamente y quién se beneficia.
 
@@ -91,19 +91,13 @@ La instrucción escolar estructurada sobre IA es un catalizador psicológico per
 - **Un laboratorio simulado puede reproducir la factura de equipamiento que pretendía evitar.** Una [[meta-analysis-systematic-review|revisión sistemática]] de 11 estudios de gemelos digitales en educación superior STEM encontró costos de hardware de \$2000-\$15.000 por nodo de estación de trabajo funcional en cuatro estudios, con entidades físicas que limitaban el acceso a 1-3 estudiantes simultáneos en cinco, y ningún estudio incluido produjo un análisis de retorno de la inversión ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-Gonzalez et al. (2026)]]). La revisión [[benchmark|compara]] ese costo de entrada con bancos de caracterización física que cuestan desde \$30.000 hasta más de \$150.000.
 
 - **Esta brecha puede ser más superficial que la de internet.** Al emparejar el uso de IA generativa de 2025 de cada país con el año de internet con un uso global comparable, la brecha educativa era menor en 13 de los 16 países que pudieron emparejarse, de 35 ([[watanabe-genai-education-gap-europe-2026|Watanabe (2026)]]).
+- **Un nivel de capacidad anida dentro del acceso.** El profesorado que pagaba de su bolsillo una suscripción mensual de \$20 informó de más errores y de una funcionalidad restringida que sus colegas con cuentas institucionales de pago, una brecha en lo que la herramienta puede hacer y no en si es accesible ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
 
-### Conexiones con conceptos relacionados
+## Conexiones con conceptos relacionados
 
 La brecha digital es una preocupación central de la investigación sobre [[equity-in-ai-education|equidad en la educación con IA]], estrechamente ligada a la [[ai-literacy|alfabetización en IA]] (que se plantea como un mecanismo central para abordar las barreras estructurales) y a la [[ethics|ética]] y la [[bias-mitigation|mitigación de sesgos]] (dado que el sesgo algorítmico afecta de forma desproporcionada a los grupos marginados). Se conecta con la [[ai-education|educación con IA]] y la [[higher-ed|educación superior]] como los entornos donde se manifiestan las brechas de acceso y capacidad, y se relaciona con la [[student-experience|experiencia del estudiante]] en la medida en que configura quién puede participar de forma significativa en un aprendizaje moldeado por la IA.
 
-## Concepciones erróneas comunes
-
-- **"El acceso a la herramienta es la brecha."** El acceso es la primera capa y la literatura ya la ha superado. **La habilidad de formular es su propia brecha de segundo nivel**: en MedQA, la precisión subió con la sofisticación del prompt de **82,4% con una redacción de baja alfabetización a 83,4% con una formulación experta**, lo que significa que dos estudiantes con acceso idéntico obtienen distinta calidad del mismo modelo porque uno sabe cómo preguntar. Una capa de reescritura de prompts redujo la brecha: la brecha está en la interfaz y en la fluidez del usuario, no solo en la suscripción.
-- **"Si se ejecuta en un navegador, está disponible."** La mayoría de las herramientas de IA para clases magistrales presuponen **audio monolingüe en inglés e internet fiable**, lo que excluye justamente a las aulas que mezclan el inglés con una lengua del hogar. Los datos UDISE+ de la India situaban el acceso a internet en las escuelas muy por debajo del nivel que exige ese supuesto. Una herramienta construida sobre una infraestructura supuesta excluye en silencio los entornos con mayor necesidad.
-- **"La alfabetización digital y el uso de IA son la misma variable mediadora."** Un estudio con **4.497 estudiantes de sexto grado** en los Países Bajos separó **dos vías mediadoras distintas**, el uso de IA y la alfabetización digital, que vinculan el origen y la personalidad con las ganancias de aprendizaje. No son intercambiables, y las intervenciones que elevan una no elevan automáticamente la otra.
-- **"Las [[simulation|simulaciones]] eliminan la barrera del costo."** Una revisión sistemática de **11 estudios de gemelos digitales** en educación superior STEM encontró costos de hardware de **\$2.000-\$15.000** por instalación. Un laboratorio simulado puede reproducir la factura de equipamiento que pretendía evitar, así que el argumento del costo para la provisión virtual hay que comprobarlo en lugar de darlo por supuesto.
-
-## Qué significa esto para la práctica
+## Implicaciones para la práctica
 
 **Para el profesorado**
 
@@ -116,6 +110,13 @@ La brecha digital es una preocupación central de la investigación sobre [[equi
 - No dé por hecho que distribuir dispositivos cierra la brecha. Las brechas medibles están en la habilidad de formular, en la lengua de la interfaz y en la conectividad, y ninguna de ellas se arregla con hardware.
 - Publique la infraestructura que presupone una herramienta. Un requisito enunciado con claridad permite que un entorno con pocos recursos juzgue si le encaja antes de invertir.
 - Calcule el despliegue completo, no la licencia del software. La evidencia sobre gemelos digitales muestra que la factura de hardware puede sobrevivir a la virtualización.
+
+## Concepciones erróneas comunes
+
+- **"El acceso a la herramienta es la brecha."** El acceso es la primera capa y la literatura ya la ha superado. **La habilidad de formular es su propia brecha de segundo nivel**: en MedQA, la precisión subió con la sofisticación del prompt de **82,4% con una redacción de baja alfabetización a 83,4% con una formulación experta**, lo que significa que dos estudiantes con acceso idéntico obtienen distinta calidad del mismo modelo porque uno sabe cómo preguntar. Una capa de reescritura de prompts redujo la brecha: la brecha está en la interfaz y en la fluidez del usuario, no solo en la suscripción.
+- **"Si se ejecuta en un navegador, está disponible."** La mayoría de las herramientas de IA para clases magistrales presuponen **audio monolingüe en inglés e internet fiable**, lo que excluye justamente a las aulas que mezclan el inglés con una lengua del hogar. Los datos UDISE+ de la India situaban el acceso a internet en las escuelas muy por debajo del nivel que exige ese supuesto. Una herramienta construida sobre una infraestructura supuesta excluye en silencio los entornos con mayor necesidad.
+- **"La alfabetización digital y el uso de IA son la misma variable mediadora."** Un estudio con **4.497 estudiantes de sexto grado** en los Países Bajos separó **dos vías mediadoras distintas**, el uso de IA y la alfabetización digital, que vinculan el origen y la personalidad con las ganancias de aprendizaje. No son intercambiables, y las intervenciones que elevan una no elevan automáticamente la otra.
+- **"Las [[simulation|simulaciones]] eliminan la barrera del costo."** Una revisión sistemática de **11 estudios de gemelos digitales** en educación superior STEM encontró costos de hardware de **\$2.000-\$15.000** por instalación. Un laboratorio simulado puede reproducir la factura de equipamiento que pretendía evitar, así que el argumento del costo para la provisión virtual hay que comprobarlo en lugar de darlo por supuesto.
 
 ## Conceptos conectados
 

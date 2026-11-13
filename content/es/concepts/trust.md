@@ -1,14 +1,14 @@
 ---
 title: Confianza
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
 translation_of: concepts/trust
-source_updated: "2026-11-10T19:10:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 > **Confianza**: la disposición de estudiantes, educadores e instituciones a apoyarse en una persona o en un sistema de IA para el aprendizaje, el juicio y la toma de decisiones. En la [[ai-education|educación con IA]], la confianza abarca dos ámbitos relacionados pero distintos: la **confianza en la IA** (la seguridad en la competencia, la transparencia, la fiabilidad y la benevolencia de un sistema o agente de IA) y la **confianza interpersonal** (la confianza relacional entre estudiantes y docentes, entre estudiantes y pares, y en el conjunto de la institución). Ambas son de doble filo: la confianza apropiada permite una [[student-engagement|implicación]] productiva, mientras que la confianza excesiva invita a la [[cognitive-offloading|dependencia excesiva]] y la confianza insuficiente bloquea un uso beneficioso. El reto central es la **calibración**: alinear la confianza con la fiabilidad real, pertenezca esa fiabilidad a un modelo o a una persona.
 
-## Preguntas para considerar
+## Preguntas para reflexionar
 
 - Cuando dice que 'confía' en una herramienta de IA frente a confiar en un docente o en un colega, ¿está describiendo lo mismo? ¿Qué hay de parecido y qué de fundamentalmente distinto entre depositar la confianza en un sistema y depositarla en una persona?
 - Existe una 'brecha entre confianza y utilidad' documentada: la competencia aparente de una herramienta suele superar su fiabilidad real. Recuerde una herramienta que parecía impresionante pero le falló, o una que parecía limitada y resultó fiable. ¿Qué moldeó la brecha entre cómo se veía y lo que realmente podía hacer?
@@ -98,18 +98,6 @@ El reto unificador es la **calibración**: ajustar la confianza a la fiabilidad 
 
 La calibración también se pone a prueba por los incentivos del propio sistema en el que se confía. Cuando el personal escéptico ante la adopción de la IA consulta a la [[conversational-ai|IA conversacional]], construida por organizaciones con un interés comercial en esa adopción, existe el riesgo de que el sistema esté predispuesto a fomentarla. Una auditoría de diez modelos frontera encontró que la mayoría reconocía las preocupaciones de un miembro del personal de una escuela [[k-12|K-12]] rural (la amenaza al empleo, el sentirse "no es para gente como yo") antes de reorientar hacia la implicación. Esto cuestiona la confianza ingenua y subraya la importancia de la [[human-in-the-loop-ai|supervisión humana]] y de una [[ai-ed-evaluation|evaluación de la IA]] independiente del asesoramiento.
 
-## Concepciones erróneas comunes
-
-**"La confianza y la desconfianza están en extremos opuestos de una misma escala."** Son separables, y confundirlas malinterpreta lo que los estudiantes informan en realidad. **La percepción del riesgo y la confianza no son opuestos:** un estudio de percepción con 130 estudiantes sobre IA generativa [[agentic-ai|agéntica]] en [[higher-ed|educación superior]] encontró un riesgo percibido moderadamente elevado (M = 3,33, DE 0,89) *junto con* una confianza y una adopción más favorables. Un estudiante puede sostener ambas cosas a la vez, y por eso una única puntuación de confianza no puede decirle si su dependencia es apropiada.
-
-**"Desconfiar de la exactitud de la IA significa que los estudiantes no se apoyarán en ella."** Los estudiantes distinguen la producción de su capacidad de dirigirla. En una encuesta a **8.021 estudiantes de cuatro universidades australianas, el 51% desconfiaba de la exactitud factual de la IA generativa mientras que el 76% se sentía capaz de obtener los resultados que quería.** El segundo número es el que predice la conducta: la confianza en la extracción coexiste con la duda sobre la verdad, y solo una de las dos es una propiedad de seguridad.
-
-**"Lo que construye la confianza de los estudiantes son reglas y políticas más claras."** La utilidad domina. Una encuesta a 2.121 estudiantes, profesorado y personal de una universidad encontró que la utilidad percibida era el **correlato más fuerte de la confianza en la IA (β = 0,402)**, seguida de la claridad percibida de las políticas. Las instituciones que invierten en elaborar reglas mientras despliegan herramientas que nadie encuentra útiles han apuntado a la palanca más débil.
-
-**"Si los estudiantes confían más en ella, la usarán con más cuidado, o al menos de forma apropiada."** El patrón documentado es el contrario. Entre 432 estudiantes de grado que resolvían problemas de Python con sugerencias exactas y deliberadamente engañosas, una mayor confianza predecía una dependencia apropiada **menor** (r = −0,42), y los estudiantes aceptaron el 86,03% de las sugerencias engañosas. La confianza no es un indicador indirecto de calibración; véase [[trust-calibration|calibración de la confianza]].
-
-**"Las advertencias honestas sobre la falibilidad socavarían la confianza en un tutor."** Mejoran la conducta. Las [[ai-fallibility-warning-help-seeking|advertencias sobre la falibilidad de la IA]] en un sistema de tutoría inteligente de matemáticas aumentaron la [[help-seeking|búsqueda de ayuda]] en lugar de reducir el uso, lo que sugiere que declarar los límites fomenta una dependencia apropiada en vez de erosionarla.
-
 ## Implicaciones para la práctica
 
 **Para los docentes**
@@ -128,6 +116,20 @@ La calibración también se pone a prueba por los incentivos del propio sistema 
 
 - Informe la confianza, la percepción del riesgo y la dependencia apropiada como constructos distintos, porque covarían en direcciones poco obvias, incluso negativas.
 - Informe el resultado conductual (la tasa de aceptación de sugerencias erróneas) junto con la confianza autoinformada; las escalas de confianza por sí solas invierten la conclusión.
+
+La confianza en una herramienta puede cargar con parte de la empleabilidad que percibe quien la usa. Entre 579 estudiantes universitarios chinos, el uso de IA generativa predijo la empleabilidad autopercibida con β = 0,503, y la confianza en la IA generativa portó una vía indirecta de 0,079 (IC del 95% [0,031, 0,137]), el 19,35% del efecto total, por detrás de la autoeficacia en la toma de decisiones de carrera, con 0,168 ([[yan-genai-employability-career-self-efficacy-2026|Yan (2026)]]). El diseño es transversal, así que el orden es teórico y no observado.
+
+## Concepciones erróneas
+
+**"La confianza y la desconfianza están en extremos opuestos de una misma escala."** Son separables, y confundirlas malinterpreta lo que los estudiantes informan en realidad. **La percepción del riesgo y la confianza no son opuestos:** un estudio de percepción con 130 estudiantes sobre IA generativa [[agentic-ai|agéntica]] en [[higher-ed|educación superior]] encontró un riesgo percibido moderadamente elevado (M = 3,33, DE 0,89) *junto con* una confianza y una adopción más favorables. Un estudiante puede sostener ambas cosas a la vez, y por eso una única puntuación de confianza no puede decirle si su dependencia es apropiada.
+
+**"Desconfiar de la exactitud de la IA significa que los estudiantes no se apoyarán en ella."** Los estudiantes distinguen la producción de su capacidad de dirigirla. En una encuesta a **8.021 estudiantes de cuatro universidades australianas, el 51% desconfiaba de la exactitud factual de la IA generativa mientras que el 76% se sentía capaz de obtener los resultados que quería.** El segundo número es el que predice la conducta: la confianza en la extracción coexiste con la duda sobre la verdad, y solo una de las dos es una propiedad de seguridad.
+
+**"Lo que construye la confianza de los estudiantes son reglas y políticas más claras."** La utilidad domina. Una encuesta a 2.121 estudiantes, profesorado y personal de una universidad encontró que la utilidad percibida era el **correlato más fuerte de la confianza en la IA (β = 0,402)**, seguida de la claridad percibida de las políticas. Las instituciones que invierten en elaborar reglas mientras despliegan herramientas que nadie encuentra útiles han apuntado a la palanca más débil.
+
+**"Si los estudiantes confían más en ella, la usarán con más cuidado, o al menos de forma apropiada."** El patrón documentado es el contrario. Entre 432 estudiantes de grado que resolvían problemas de Python con sugerencias exactas y deliberadamente engañosas, una mayor confianza predecía una dependencia apropiada **menor** (r = −0,42), y los estudiantes aceptaron el 86,03% de las sugerencias engañosas. La confianza no es un indicador indirecto de calibración; véase [[trust-calibration|calibración de la confianza]].
+
+**"Las advertencias honestas sobre la falibilidad socavarían la confianza en un tutor."** Mejoran la conducta. Las [[ai-fallibility-warning-help-seeking|advertencias sobre la falibilidad de la IA]] en un sistema de tutoría inteligente de matemáticas aumentaron la [[help-seeking|búsqueda de ayuda]] en lugar de reducir el uso, lo que sugiere que declarar los límites fomenta una dependencia apropiada en vez de erosionarla.
 
 ## Conceptos conectados
 
@@ -178,3 +180,4 @@ La calibración también se pone a prueba por los incentivos del propio sistema 
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Las señales de credibilidad aumentaron el cambio a una posición incorrecta de la IA; ocultar una recomendación lo suprimió
 - [[trust-calibration-genai-collaborative-regulation-2026]] — Un modelo estructural somete ese papel de puente a una prueba empírica
 - [[zhu-creative-agency-trust-genai-art-2026]] — La confianza instrumental como el predictor más fuerte de la intención de usar IA generativa en estudiantes de arte y diseño
+- [[yan-genai-employability-career-self-efficacy-2026]] — La confianza en la IA generativa como una vía indirecta del uso a la empleabilidad autopercibida

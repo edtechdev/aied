@@ -10,7 +10,7 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 ## Introducción
 
-### El concepto
+## El concepto
 
 La teoría de la actividad desciende de la psicología histórico-cultural de Vygotsky y Leontiev (con un desarrollo posterior por parte de Engeström) y es una corriente central de la tradición más amplia [[sociocultural-learning|sociocultural]]. Su tesis central es que la actividad humana no es reducible a la cognición individual ni al uso aislado de herramientas; es un **sistema colectivo, orientado a un objeto y mediado por herramientas**. El modelo canónico de Engeström de un sistema de actividad comprende seis elementos que interactúan:
 
@@ -50,7 +50,7 @@ Un rasgo definitorio es la **contradicción**: los sistemas de actividad contien
 
 El lugar de las herramientas es el que la IA generativa tensa. Un ensayo sociocultural de 2026 sostiene que un [[llm]] media la actividad y a la vez genera contribuciones contingentes que reconfiguran su trayectoria, de modo que llamarlo herramienta subestima su influencia, mientras que llamarlo colaborador le atribuye una intencionalidad, una responsabilidad y una pertenencia a la comunidad que no tiene ([[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate y Ritchie, 2026]]). Su *agente mediacional* ocupa la posición de herramienta sin tener una posición en la comunidad, lo que significa que la división del trabajo debe analizarse en torno a las contribuciones y no solo en torno a los instrumentos.
 
-### Por qué la teoría de la actividad importa para la IA en la educación
+## Por qué la teoría de la actividad importa para la IA en la educación
 
 La IA introduce nuevas **herramientas/artefactos mediadores** en sistemas de actividad educativos ya existentes, lo que produce tanto oportunidades como contradicciones. La teoría de la actividad da a la investigación en AIED un vocabulario y un método para analizar estos cambios:
 
@@ -62,11 +62,11 @@ La IA introduce nuevas **herramientas/artefactos mediadores** en sistemas de act
 - **Disciplinariedad y variación entre contextos.** Como los sistemas de actividad están situados histórica y culturalmente, la teoría de la actividad explica por qué la misma herramienta de IA produce resultados distintos según la disciplina y el contexto —cada disciplina funciona como un sistema de actividad con sus propias reglas, comunidad y división del trabajo [[jiang-genai-activity-theory-disciplines-2026|(por ejemplo, diferencias en el uso y la declaración de IA generativa del estudiantado de grado según el ámbito académico)]]—.
 - **Una herramienta, dos sistemas de actividad, penetración desigual.** Entre diez académicos de matemáticas analizados mediante la CHAT, la IA generativa se mantuvo como una herramienta periférica en el sistema de actividad de la investigación mientras reconfiguraba el papel del docente hacia el de mediador del [[critical-thinking|razonamiento crítico]] en la enseñanza, con una adopción que se extendía a través del uso del estudiantado y de las redes de pares y no de la política [[governance|institucional]] ([[genai-runaway-object-math-higher-ed|Bakogianni et al., 2026]]).
 
-### La teoría de la actividad y los marcos relacionados
+## La teoría de la actividad y los marcos relacionados
 
 La teoría de la actividad se sitúa dentro de la familia [[sociocultural-learning|sociocultural]] y a menudo se combina con otros marcos, o se contrasta con ellos: la **[[distributed-cognition|cognición distribuida]]** y el **[[situated-learning|aprendizaje situado]]** comparten su énfasis en el contexto y la mediación; la **[[community-of-inquiry|comunidad de indagación]]** y las **comunidades de práctica** comparten su orientación colectiva; y los modelos de **aceptación de la tecnología** (por ejemplo, el [[technology-acceptance-model|TAM]]) ofrecen una explicación contrastante y más centrada en las creencias individuales, que la teoría de la actividad critica por aplanar las dimensiones colectivas y estructurales. En la investigación en AIED, la teoría de la actividad se combina con frecuencia con otras teorías —por ejemplo, con la [[self-determination-theory|Teoría de la Autodeterminación]] en el diseño de intervenciones de desarrollo profesional docente, o con la teoría de los sistemas ecológicos en marcos de ética situada de la IA [[raffaghelli-situated-ai-ethics-2026|(Raffaghelli et al., 2026)]]—.
 
-### Temas de investigación clave
+## Temas de investigación clave
 
 - **Cómo la IA redistribuye la división del trabajo** en los sistemas de actividad de la enseñanza, el aprendizaje y la investigación.
 - **Las contradicciones sistémicas** como motores del cambio de normas y de la transformación expansiva en la educación aumentada con IA.
@@ -75,7 +75,7 @@ La teoría de la actividad se sitúa dentro de la familia [[sociocultural-learni
 - **Analítica del aprendizaje anclada en la teoría** que fundamenta la medición en los elementos del sistema de actividad.
 - **El objeto de la actividad mediada por IA**: si el objeto del aprendizaje se desplaza del dominio al producto, y qué significa eso para los [[learning-gains|resultados de aprendizaje]].
 
-### Implicaciones prácticas
+## Implicaciones prácticas
 
 Para diseñadores y educadores, la teoría de la actividad aconseja mirar más allá de la propia herramienta de IA y atender a todo el sistema de actividad en el que entra: las reglas que gobiernan el uso aceptable, la comunidad y sus normas, la división del trabajo entre personas y máquinas, y el objeto/motivo de la actividad. Una integración sostenible de la IA exige *rediseñar el sistema* —abordar las contradicciones, actualizar las normas y reequilibrar los roles—, no limitarse a proporcionar mejores herramientas o formación individual. Para quienes investigan, la teoría de la actividad ofrece una unidad de análisis rigurosa (el sistema de actividad, no el individuo) y un método (la intervención [[formative-assessment|formativa]], el análisis de contradicciones) para estudiar y dar forma al papel de la IA en la educación.
 

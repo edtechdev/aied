@@ -1,7 +1,7 @@
 ---
 title: Tutoría afectiva
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -35,7 +35,9 @@ ai_assist:
 
 ## Introducción
 
-MathBuddy modela dinámicamente el afecto del estudiantado mediante dos modalidades:
+La tutoría afectiva es la mitad pedagógica de la [[affective-computing|computación afectiva]]: una vez que un sistema tiene alguna lectura del estado emocional de quien aprende, ¿qué debería hacer con esa lectura? La pregunta de diseño no es cómo detectar la frustración, sino qué cambiar una vez que se cree haberla detectado: el ritmo, el nivel de las pistas, el tono de la retroalimentación o si conviene detenerse y atender a la emoción misma. Esta página abarca esa capa de decisión: las estrategias con las que los tutores asignan el afecto, la evidencia de que ayudan y las razones por las que pueden volverse en contra. No trata de la empatía de quien aprende, que es un resultado distinto con una base de evidencia distinta ([[empathy|empatía]]), ni de cómo se percibe el afecto ([[sensor-and-gaze-analytics|la analítica de sensores y de la mirada]]).
+
+El ejemplo práctico más claro es MathBuddy, que modela el afecto del estudiantado a partir de dos modalidades:
 
 - **Texto conversacional** — señales semánticas de frustración, confusión y confianza
 - **Expresiones faciales** — captura de vídeo en tiempo real del estado emocional
@@ -49,6 +51,8 @@ Las emociones se agregan a partir de ambas modalidades y se asignan a estrategia
 - Evaluado en **ocho dimensiones pedagógicas** más estudios con usuarios
 
 El hallazgo valida una hipótesis de larga data en la psicología educativa: los estados emocionales positivos y negativos afectan la capacidad de aprendizaje, y tenerlos en cuenta mejora los resultados de la tutoría.
+
+MathBuddy es un sistema, no la definición del enfoque, y las secciones siguientes generalizan a partir de él. Para saber qué pueden y qué no pueden medir las señales subyacentes, véase [[sensor-and-gaze-analytics|la analítica de sensores y de la mirada]].
 
 ## El riesgo: la empatía como trampa
 

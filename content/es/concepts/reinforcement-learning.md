@@ -10,7 +10,7 @@ ethics: [pedagogical-safety]
 level: [special education, k 12, higher ed]
 confidence: medium
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,11 +34,11 @@ ai_assist:
 
 ## Introducción
 
-### Cómo funciona el aprendizaje por refuerzo en la AIED
+## Cómo funciona el aprendizaje por refuerzo en la AIED
 
 El aprendizaje por refuerzo (RL) entrena a un agente recompensando el comportamiento deseado: el agente aprende una política que maximiza la recompensa acumulada mediante ensayo y error. En la [[ai-education|IA en la educación]], el RL se usa para entrenar agentes de tutoría y compañeros de aprendizaje cuyas decisiones se encadenan a lo largo de una sesión —qué pista dar, cuándo subir la dificultad, cómo marcar el ritmo de la práctica— en lugar de resolver una respuesta cada vez. Esto hace que el RL encaje bien con el [[adaptive-learning|aprendizaje adaptativo]] y la [[intelligent-tutoring|tutoría inteligente]], donde importan las decisiones pedagógicas de horizonte largo.
 
-### Aplicaciones documentadas en la base de conocimiento
+## Aplicaciones documentadas en la base de conocimiento
 
 - **RL alineado pedagógicamente.** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] usa una canalización RL-SFT-RL para entrenar un modelo que *guía* en lugar de responder, alineando la recompensa con objetivos pedagógicos; [[special-r1-rl-special-education]] aplica RL al diseño de tutores para la [[special-education|educación especial]].
 - **El RL supera al ajuste fino supervisado para seguir instrucciones pedagógicas.** El entrenamiento de LearnLM encontró que el RL basado en preferencias era significativamente más eficaz que el SFT por sí solo, porque los juicios de preferencia capturan distinciones dependientes del contexto a lo largo de conversaciones largas que los datos supervisados etiquetados con instrucciones solo manejan en parte ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
@@ -48,11 +48,11 @@ El aprendizaje por refuerzo (RL) entrena a un agente recompensando el comportami
 
 - **RL de horizonte largo y ponderado por la seguridad.** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] optimiza encuentros clínicos completos de 60 turnos —muy por encima de los horizontes de ≤12 turnos de los sistemas de [[conversational-ai|diálogo]] concurrentes— y el entrenamiento contra pacientes simulados adversarios con una recompensa alineada con la seguridad elevó la precisión diagnóstica un 7,0% y redujo las tasas de señales de alarma pasadas por alto en aproximadamente un tercio.
 
-### Evidencia en el conjunto del campo
+## Evidencia en el conjunto del campo
 
 Una [[riedmann-reinforcement-learning-education-review-2026|revisión sistemática del RL en la educación con estándar [[meta-analysis-systematic-review|PRISMA]] (Riedmann, Schaper y Lugrin, 2025)]] sintetizó 89 estudios (2000–2024) y encontró un crecimiento acusado después de 2016 en aplicaciones de [[adaptive-learning|aprendizaje adaptativo]] y [[intelligent-tutoring|tutoría]], concentradas en STEM (sobre todo en [[math-education|matemática]]). Informa de que el RL sin modelo dominó (n = 72), con Q-learning como algoritmo más común, pero que el RL clásico fue más consistentemente eficaz que el aprendizaje profundo por refuerzo (61% frente a 36% de los artículos que mostraban superioridad significativa); de que la adaptación se dividía en mecanismos de programación de contenidos (n = 53) y relacionados con la guía (n = 36), con el RL superando a las líneas base con más frecuencia en la guía; y de que la ganancia de aprendizaje —especialmente la ganancia de aprendizaje normalizada— fue la fuente de recompensa más eficaz. La revisión también advierte de que más de la mitad de los estudios (n = 54) omitieron las pruebas estadísticas, de modo que el crecimiento del campo ha superado su rigor metodológico.
 
-### Conexión con la base de conocimiento
+## Conexión con la base de conocimiento
 
 El RL sustenta buena parte del diseño moderno de [[agentic-ai|IA agéntica]] y de [[intelligent-tutoring|tutoría inteligente]], donde el agente debe optimizar el aprendizaje a largo plazo y no una única respuesta correcta. Se conecta con el [[llm-training-and-fine-tuning|entrenamiento pedagógico de LLM]] (el RL como método de entrenamiento), con el [[scaffolding|andamiaje]] (un diseño de la recompensa que preserve el esfuerzo productivo) y con el [[self-regulated-learning|aprendizaje autorregulado]] (agentes que ayudan a quien aprende a regular su propia estrategia). Como el diseño de la recompensa codifica valores educativos, la investigación sobre RL en la AIED está estrechamente ligada a la [[pedagogical-safety|seguridad pedagógica]] y a las consideraciones de equidad del comportamiento [[equity-in-ai-education|equitativo]] de los tutores.
 

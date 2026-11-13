@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-11-09T10:25:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 
 Este es el concepto general de la línea de teorías del aprendizaje de la base de conocimiento. Las teorías del aprendizaje están en el centro de la IA en la educación porque todo tutor de IA, sistema adaptativo y herramienta de retroalimentación incorpora supuestos sobre cómo aprende la gente, los declaren o no sus diseñadores. La base de conocimiento documenta estas teorías por separado y las trata como la lente conceptual con la que se evalúan el diseño y los efectos de la IA. El campo de investigación que pone a prueba esos marcos tiene su propia página: [[learning-sciences|las ciencias del aprendizaje]] estudian el aprendizaje de forma empírica (experimentos, ensayos en el aula e [[design-based-research|investigación basada en el diseño]]) y tratan una teoría como algo que se confirma o se refuta, mientras que esta página reúne los marcos en sí; las dos expresiones se mantienen distintas en esta base de conocimiento, y el singular «ciencia del aprendizaje» nombra esta línea teórica.
 
-### El panorama de las teorías del aprendizaje
+## El panorama de las teorías del aprendizaje
 
 La base de conocimiento documenta varias familias de teorías del aprendizaje, cada una con sus propios conceptos:
 
@@ -53,13 +53,13 @@ La base de conocimiento documenta varias familias de teorías del aprendizaje, c
 
 Una revisión sistemática de 2026 sobre 163 estudios de IA generativa sitúa la literatura en cinco tradiciones teóricas y encuentra dominantes los diseños constructivistas y conectivistas, con los diseños conductistas de refuerzo confinados en gran medida a plataformas adaptativas de nivel primario ([[saranya-pedagogical-practices-genai-learning-theories-2026|Saranya y Saravanan, 2026]]). Quienes hicieron la revisión infirieron la teoría de cada estudio a partir de la práctica descrita, porque los estudios primarios rara vez nombraban una, lo que es en sí mismo un hallazgo sobre cómo informa la teoría el campo.
 
-### Las teorías del aprendizaje y las ganancias de aprendizaje
+## Las teorías del aprendizaje y las ganancias de aprendizaje
 
 Las teorías del aprendizaje se evalúan en última instancia por sus resultados, y el concepto de [[learning-gains|ganancias de aprendizaje]] de la base de conocimiento es donde la teoría se encuentra con la evidencia. Cada teoría hace una predicción distinta sobre qué *cuenta* como aprendizaje y cómo medirlo: el conductismo predice ganancias observables de rendimiento en tareas de ejercicios y retroalimentación; el constructivismo predice una comprensión más profunda que se transfiere a problemas nuevos; la teoría sociocultural predice ganancias en la participación y en la [[problem-solving|resolución de problemas]] mediada; y la teoría de la carga cognitiva solo predice ganancias cuando la enseñanza respeta los límites de la memoria de trabajo. Las decisiones de medición, por tanto, determinan qué predicción teórica puede confirmar una evaluación. En la era de la IA, la fuerte divergencia entre el rendimiento asistido por IA y las [[learning-gains|ganancias de aprendizaje]] sin ayuda (véanse [[generative-ai-reduced-study-time-math|IA generativa y reducción del tiempo de estudio en matemáticas]] y [[stromberg-generative-ai-learning-penalty-secondary-2026|penalización del aprendizaje con IA generativa en secundaria]]) puede leerse con esta lente: una lectura conductista ve las notas de deberes infladas como un éxito, mientras que una lectura constructivista, centrada en la comprensión duradera, ve la misma evidencia como un fracaso del aprendizaje.
 
 **La evidencia agrupada es positiva, y mide un constructo más estrecho que las teorías.** Un [[meta-analysis-systematic-review|metaanálisis]] PRISMA de 53 estudios sitúa la asistencia de la IA generativa en g = 0,40 en rendimiento académico, 0,72 en [[critical-thinking|pensamiento de orden superior]], 0,76 en escritura y 0,81 en motivación, con la retroalimentación de la IA como el mecanismo de mayor tamaño, g = 1,27 ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]). Son ganancias en los instrumentos que eligieron los estudios incluidos, así que zanjan una lectura conductista o cognitivista del «funciona» y dejan sin probar la predicción constructivista sobre una comprensión duradera y transferible. Los subgrupos por país también divergieron, del g = 0,71 de China al g = 0,01 no significativo de Turquía, por lo que la estimación agrupada es un promedio que hay que probar localmente y no una propiedad de la herramienta.
 
-### Por qué las teorías del aprendizaje importan para la IA en la educación
+## Por qué las teorías del aprendizaje importan para la IA en la educación
 
 Las teorías del aprendizaje importan por tres razones:
 
@@ -67,7 +67,7 @@ Las teorías del aprendizaje importan por tres razones:
 - **Exponen la brecha entre teoría y práctica.** El trabajo empírico encuentra una y otra vez que las implementaciones de IA encarnan teorías distintas de las que afirma el discurso, y muy en particular un lenguaje constructivista emparejado con mecánicas conductistas de ejercicios y práctica.([[ai-vocational-education-training-review]]) Evaluar la IA exige, por tanto, preguntar *qué* teoría encarna realmente un sistema, y no solo si «funciona».
 - **Se están repensando activamente.** La IA generativa está [[prompt-engineering|empujando]] al profesorado a revisar si las teorías clásicas bastan. El [[generativism-learning-theory|generativismo]] propone que el aprendizaje en la era de la IA ocurre cada vez más mediante una coconstrucción iterativa entre quienes aprenden y los sistemas de IA, lo que amplía las cuatro teorías clásicas (conductismo, cognitivismo, constructivismo, conectivismo) en lugar de sustituirlas.([[generativism-learning-theory]])
 
-### Nuevas direcciones teóricas a partir del trabajo reciente en AIED
+## Nuevas direcciones teóricas a partir del trabajo reciente en AIED
 
 El trabajo teórico reciente amplía la línea clásica en varias direcciones, y cada una recentra la relación humano-IA en lugar de tratar la IA como una herramienta neutra:
 
@@ -80,31 +80,21 @@ El trabajo teórico reciente amplía la línea clásica en varias direcciones, y
 
 - **La corporeidad como desafío ontológico al paradigma de la IA.** [[videla-embodied-ai-education-choreography|Videla, Penny y Ross (2026)]] sostienen que una división ontológica separa la cognición corporeizada y enactiva del lenguaje representacional que encarna la IA, de modo que la IA debería descentrarse como centro epistémico en lugar de tratarse como una herramienta neutra.
 
-### Cómo organiza la base de conocimiento esta línea
+## Cómo organiza la base de conocimiento esta línea
 
 En lugar de tratar las teorías del aprendizaje como filosofía abstracta, la base de conocimiento fundamenta cada una en la investigación sobre IA en la educación que la utiliza. Las páginas sobre el [[constructivist|constructivismo]] y el [[behaviorism|conductismo]] documentan cómo los diseños de IA encarnan (o traicionan) cada teoría; la Teoría de la Carga Cognitiva, el [[self-regulated-learning|aprendizaje autorregulado]], la [[metacognition|metacognición]] y la [[transfer-of-learning|transferencia del aprendizaje]] conectan la teoría con mecanismos y resultados concretos de la IA. Esto refleja cómo trata la base de conocimiento otros dominios generales como la [[feedback|retroalimentación]] y la [[assessment|evaluación]]: un sistema coherente de conceptos que interactúan y no páginas aisladas.
 
-### Las teorías del aprendizaje y la «educación sobre la IA»
+## Las teorías del aprendizaje y la «educación sobre la IA»
 
 Las teorías del aprendizaje también aparecen como contenido en los currículos de [[ai-literacy|alfabetización en IA]]: el estudiantado estudia el conductismo, el cognitivismo, el constructivismo y el conectivismo para entender los supuestos [[pedagogy|pedagógicos]] que hay detrás de las herramientas que usa.([[generativism-learning-theory]]) Enseñar esta línea da al estudiantado (y al profesorado) el vocabulario para criticar por qué un producto de IA está construido como está y si sus mecánicas sirven al objetivo de aprendizaje en cuestión.
 
 - **El agente mediacional.** Warschauer, Tate y Ritchie (2026) sostienen que la IA generativa rompe la distinción sociocultural entre medios mediacionales e interacción social, y proponen el *agente mediacional*: un sistema que media la acción y a la vez genera contribuciones contingentes y no atribuibles, y que ocupa un espacio híbrido entre la herramienta y la pareja social. De ahí se derivan cinco hábitos de participación centrados en lo humano (primacía de la cognición humana, [[student-engagement|implicación]] intencionada, agencia supervisora, vigilancia epistémica y autorregulación reflexiva).([[generative-ai-mediational-agent-sociocultural-2026]])
 
-### Teorías propuestas para la era de la IA
+## Teorías propuestas para la era de la IA
 
 Junto a las familias clásicas, la base de conocimiento documenta teorías escritas específicamente para el aprendizaje con sistemas de IA, y estas aportan las implicaciones de diseño que las teorías más antiguas dejan abiertas. El [[yan-agentivism-learning-theory-ai-2026|agentivismo (Yan y Gašević 2026)]] es un ejemplo de alcance medio: define el aprendizaje como un crecimiento duradero de la capacidad humana y no como la mera finalización exitosa de una tarea, nombra cuatro mecanismos (agencia delegada, supervisión y verificación epistémicas, internalización reconstructiva y transferencia con apoyo reducido) y enuncia seis proposiciones contrastables, entre ellas que el apoyo de IA que preserva la responsabilidad de quien aprende sobre el planteamiento del problema, el establecimiento de criterios y la justificación produce un aprendizaje más sólido que el apoyo que entrega respuestas.
 
 [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] propone una **Simbiosis Pedagógica** con una afirmación ontológica más fuerte: quien aprende es una entidad *posthumana* cuya cognición es híbrida en lugar de asistida por herramientas, organizada según cuatro principios: delegación cognitiva y aumento, coconstrucción epistémica, simbiosis metacognitiva y formación dinámica de la identidad; se operacionaliza mediante una rúbrica de Portafolio Simbiótico y un [[teacher-role|rol docente]] de «Coreógrafo Cognitivo»; es explícitamente no probada.
-
-## Concepciones erróneas
-
-**«Una de las teorías del aprendizaje es la correcta, así que elegir teoría es cuestión de gusto.»** Las teorías hacen afirmaciones distintas sobre qué cuenta como evidencia, así que los mismos datos pueden sostener conclusiones opuestas. El caso más claro: unas notas de deberes infladas se leen como **aprendizaje bajo el conductismo** y como **un fallo en construir comprensión duradera bajo el constructivismo**. La elección de teoría determina por tanto si una intervención tuvo éxito, lo que la convierte en una decisión de medición y no en una preferencia estilística.
-
-**«Una herramienta que apoya el aprendizaje profundo se verá como aprendizaje profundo bajo cualquier marco.»** Se verá como éxito bajo uno y como fracaso bajo otro, como en el caso anterior. Por eso las medidas de resultado del campo necesitan justificarse frente a una teoría declarada en lugar de tomarse prestadas como si fueran neutras.
-
-**«Más teorías significan un campo mejor comprendido.»** La acumulación sin adjudicación es lo contrario del progreso. Las teorías propuestas para la era de la IA se multiplican más rápido de lo que se ponen a prueba, y la señal de madurez es que se resuelvan predicciones rivales, lo que exige diseños capaces de distinguirlas y no catálogos que las acomoden.
-
-**«La educación sobre la IA es lo mismo que la IA en la educación, en términos teóricos.»** Se apoyan en líneas distintas: una pregunta cómo llega quien aprende a entender la IA como materia, la otra cómo la IA cambia la forma en que ocurre el aprendizaje. Confundirlas produce revisiones de literatura que mezclan dos bases de evidencia distintas y no reportan un cuadro coherente de ninguna de las dos.
 
 ## Implicaciones para la práctica
 
@@ -121,6 +111,16 @@ Junto a las familias clásicas, la base de conocimiento documenta teorías escri
 **Para quienes investigan**
 
 - Diseñe para la adjudicación entre teorías y no para la acumulación de marcos. La madurez se muestra como predicciones rivales resueltas, no como crecimiento de vocabulario.
+
+## Concepciones erróneas
+
+**«Una de las teorías del aprendizaje es la correcta, así que elegir teoría es cuestión de gusto.»** Las teorías hacen afirmaciones distintas sobre qué cuenta como evidencia, así que los mismos datos pueden sostener conclusiones opuestas. El caso más claro: unas notas de deberes infladas se leen como **aprendizaje bajo el conductismo** y como **un fallo en construir comprensión duradera bajo el constructivismo**. La elección de teoría determina por tanto si una intervención tuvo éxito, lo que la convierte en una decisión de medición y no en una preferencia estilística.
+
+**«Una herramienta que apoya el aprendizaje profundo se verá como aprendizaje profundo bajo cualquier marco.»** Se verá como éxito bajo uno y como fracaso bajo otro, como en el caso anterior. Por eso las medidas de resultado del campo necesitan justificarse frente a una teoría declarada en lugar de tomarse prestadas como si fueran neutras.
+
+**«Más teorías significan un campo mejor comprendido.»** La acumulación sin adjudicación es lo contrario del progreso. Las teorías propuestas para la era de la IA se multiplican más rápido de lo que se ponen a prueba, y la señal de madurez es que se resuelvan predicciones rivales, lo que exige diseños capaces de distinguirlas y no catálogos que las acomoden.
+
+**«La educación sobre la IA es lo mismo que la IA en la educación, en términos teóricos.»** Se apoyan en líneas distintas: una pregunta cómo llega quien aprende a entender la IA como materia, la otra cómo la IA cambia la forma en que ocurre el aprendizaje. Confundirlas produce revisiones de literatura que mezclan dos bases de evidencia distintas y no reportan un cuadro coherente de ninguna de las dos.
 
 ## Conceptos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Diseño curricular
 created: "2026-09-25T04:31:16-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -40,11 +40,11 @@ ai_assist:
 
 El diseño curricular aborda el *qué* de la educación en el nivel del programa, y complementa el [[learning-design|diseño del aprendizaje]], que aborda el *cómo* en el nivel del curso. Los artículos de esta base de conocimiento exploran cómo la IA está reconfigurando los currículos en distintas disciplinas, desde la ingeniería del software hasta la arquitectura o la educación verde, y cómo el personal docente diseña currículos que integran la alfabetización en IA sin sacrificar los fundamentos disciplinares.
 
-Al revisar el cambio como algo sistémico y no aditivo, [[rewriting-curriculum-genai-pedagogy-2026|Sabani et al. (2026)]] triangulan una [[meta-analysis-systematic-review|revisión de alcance]], un mapeo bibliométrico de 209 registros, 36 artículos y diez entrevistas a líderes académicos en cinco desplazamientos —entre ellos el paso de la transmisión de conocimiento al desarrollo de capacidades y de la experimentación local a la gobernanza institucional.
-
-### Temas clave de investigación
+## Temas clave de investigación
 
 **Rediseñar los currículos para la era de la IA** es el reto central. **[[reshaping-cs-education-genai|Lee et al.]]** sintetizaron los hallazgos de talleres internacionales sobre el rediseño de la [[cs-education|educación en informática]] de grado y sostuvieron que, a medida que la IA generativa automatiza la programación de nivel de implementación, los currículos deben desplazarse hacia el diseño de sistemas, la abstracción y la evaluación crítica, y restar importancia a los detalles de implementación de bajo nivel. **[[ase-26-agentic-software-engineering-curriculum|Gorsky]]** formalizó la Ingeniería de Software Agéntica como una disciplina distinta con un currículo de 21 módulos centrado en la «evolución de la intención» y en la disciplina profesional necesaria para gestionar [[agentic-ai|agentes de IA]]. Ambos conectan con [[ai-literacy]] y [[scaffolding]].
+
+Al revisar el cambio como algo sistémico y no aditivo, [[rewriting-curriculum-genai-pedagogy-2026|Sabani et al. (2026)]] triangulan una [[meta-analysis-systematic-review|revisión de alcance]], un mapeo bibliométrico de 209 registros, 36 artículos y diez entrevistas a líderes académicos en cinco desplazamientos —entre ellos el paso de la transmisión de conocimiento al desarrollo de capacidades y de la experimentación local a la gobernanza institucional.
 
 **El mapeo y el análisis de currículos** usa la IA para comprender los currículos existentes. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** analizaron 23 programas de asignatura de cursos de ingeniería de software asistida por IA, identificaron temas comunes ([[prompt-engineering|ingeniería de prompts]], revisión de código con IA, [[ethics|consideraciones éticas]]) y derivaron orientaciones de diseño que subrayan el equilibrio entre la fluidez con las herramientas y el conocimiento fundamental. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** aplica métodos computacionales para comparar las estructuras de los cursos de informática entre instituciones.
 
@@ -95,7 +95,7 @@ Una consecuencia a nivel de currículo de la capacidad del modelo es que el dise
 
 Es la estructura, y no la redacción del prompt, lo que hace fiable el borrador con IA en producción: la canalización Curriculum-as-Code de [[curriculum-as-code-instructional-design-2026|Paiva (2026)]] podó el contexto de forma agresiva y generó materiales sección por sección en 28 contextos de proyecto, lo que redujo el tiempo de preparación del profesorado de unas ocho a dos horas por instrucción y no dejó [[hallucination-risk|alucinaciones]] conceptuales ni matemáticas que la [[human-in-the-loop-ai|revisión humana]] tuviera que detectar.
 
-### Conexiones con conceptos relacionados
+## Conexiones con conceptos relacionados
 
 El diseño curricular conecta directamente con el [[learning-design|diseño del aprendizaje]]: el currículo define el qué, la instrucción define el cómo. Conecta con la [[ai-literacy|alfabetización en IA]] porque integrar competencias en IA es un reto curricular primordial, con el [[teacher-role|papel de la docencia]] y el [[educational-development|desarrollo educativo]] porque el cambio curricular exige preparación del personal docente, y con el [[scaffolding|andamiaje]] porque los currículos bien diseñados andamian el desarrollo de habilidades a lo largo de cursos y años. Las conexiones con la [[higher-ed|educación superior]] y la [[k-12|K-12]] reflejan la relevancia del diseño curricular en todos los niveles educativos.
 

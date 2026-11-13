@@ -1,10 +1,10 @@
 ---
 title: "¿Cómo sabemos que una IA educativa funciona correctamente y no solo que puntúa bien?"
 created: "2026-10-02T09:08:04-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 weight: 73
 type: faq
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 foundations: [ai-education]
 pedagogy: [scaffolding]
 technology: [llm-training-and-fine-tuning, llm, intelligent-tutoring, simulating-students, human-in-the-loop-ai]
@@ -15,7 +15,7 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-12T15:50:00-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]

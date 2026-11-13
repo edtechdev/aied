@@ -1,7 +1,7 @@
 ---
 title: Medidas de autoinforme
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-11-11T06:42:13-05:00"
+source_updated: "2026-11-12T06:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -129,6 +129,8 @@ Cuatro propiedades separan una encuesta que puede respaldar una afirmación de o
 
 **La mayoría de los instrumentos de este ámbito informa de fiabilidad y casi ninguno de validez.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] citan la revisión de Su et al. de 36 estudios de alfabetización en IA, que encontró que el 63,8% de las herramientas informaban de evidencia de fiabilidad y menos del 20% de evidencia de validez. Esa misma revisión encontró un solo instrumento específico de IA generativa, el GAIAS de 27 ítems, entre 50 marcos de [[k-12]]. Que una escala sea internamente consistente no dice nada sobre si mide el constructo que nombra su título.
 
+Una encuesta reciente al profesorado muestra el fallo en su forma extrema. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] administraron 300 ítems a 315 docentes universitarios, informaron α = 0.997 para la escala total y no realizaron ningún análisis factorial, y aun así un modelo de Naive Bayes clasificó correctamente a 314 de los 315 encuestados (exactitud 0.9968) en bandas de competencia baja, media y alta. Un instrumento cuyos ítems se comportan como casi duplicados puede predecirse casi a la perfección a partir de un puñado de variables demográficas e institucionales porque apenas aporta información independiente: los autores encontraron que la afiliación era el mayor contribuyente global en su análisis SHAP, y los puntos de corte que definen las tres bandas no se conservaron.
+
 ## Muestreo, respuesta y no respuesta
 
 Como las encuestas son baratas de administrar, los problemas de muestreo suelen ser el punto donde falla la afirmación de generalizabilidad. Este corpus los informa de forma explícita e instructiva:
@@ -223,3 +225,4 @@ Las respuestas constructivas de la base de conocimiento son consistentes, y ning
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — El 63,8% de las herramientas de alfabetización en IA informa de fiabilidad y menos del 20% de validez
 - [[huang-genai-academic-information-resources-2026]] — Registros de biblioteca y actitudes de encuesta apuntando en direcciones distintas
 - [[onodipe-enhance-not-replace-ai-classroom-2026]] — El aprendizaje y la implicación percibidos subieron en todas las medidas de encuesta mientras las puntuaciones de examen no se movieron
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Una escala docente de 300 ítems con α = 0.997 predicha con un 99.68% de exactitud sin ningún análisis factorial

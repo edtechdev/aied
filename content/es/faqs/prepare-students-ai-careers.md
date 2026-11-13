@@ -1,7 +1,7 @@
 ---
 title: "¿Qué deberían aprender los estudiantes para carreras en las que la IA es habitual?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -52,6 +52,8 @@ Respuesta breve para dar a un colega: enseñe la tarea profesional completa y no
 [[ithaka-sr-ai-skills-college-graduates-2026|El informe de Ithaka S+R]] pidió a 500 docentes de carreras de cuatro años en Estados Unidos que valoraran 26 destrezas de un marco que abarca siete categorías, y comparó sus valoraciones con un panel de empleadores encuestado por los autores del marco. El desacuerdo es sistemático y no aleatorio: los docentes situaron en lo más alto los límites de la IA, la atribución y la responsabilidad humana, mientras los empleadores valoraron más el diseño de flujos de trabajo, la automatización y el trabajo conjunto entre humanos e IA.
 
 Hay dos lecturas tentadoras de esa brecha y las dos son erróneas. La primera es que los docentes van por detrás del mercado laboral. La segunda es que los empleadores quieren obediencia. Una lectura más útil es que cada grupo describe una mitad distinta del mismo trabajo, y un titulado que solo sabe hacer una mitad está mal preparado para ambas. Un estudiante que no sabe explicar por qué un resultado es erróneo no sirve a un empleador que confía en el flujo de trabajo; un estudiante que solo sabe criticar la salida de la IA no sirve a un empleador que necesita la tarea terminada.
+
+Convertir una señal del empleador en un cambio curricular es en sí mismo un proceso con puntos de decisión. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] propone seis etapas —detección, validación con las partes interesadas, diagnóstico del programa, rediseño curricular, puesta en marcha y capacidad, y revisión de resultados—, cada una con un derecho de decisión nombrado y una salida con responsabilidad asignada, y confina la IA a funciones de apoyo acotadas como la detección de patrones y el mapeo de competencias. Es una propuesta, no una evaluación, pero nombra los pasos que una solicitud de un consejo asesor suele saltarse.
 
 Los límites de esta evidencia importan. Son prioridades declaradas en encuestas, y el informe no muestra que ningún plan de estudios produzca mejores contrataciones, mejor rendimiento ni mejores salarios. Lo que sí le da es una razón defendible para preguntarse si sus estudiantes practican alguna vez completar y comprobar un flujo de trabajo apoyado por IA, en lugar de hablar de ello.
 

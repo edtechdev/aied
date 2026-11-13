@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Aprendizaje de lenguas
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-12T16:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -98,6 +98,8 @@ La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto 
 
 **El estudiantado de traducción puede desplazarse fuera de la corrección superficial.** En un curso de traducción periodística, [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] encontraron que la consulta de motores de búsqueda subió de una mediana del 15,6% al 27,7% del tiempo de sesión (p = 0,020, corregido por Holm) y la búsqueda basada en conocimiento del 7,2% al 28,8% (p = 0,010). El uso de traducción automática cayó del 28,5% al 5,1% sin alcanzar significación (p = 0,338), y el uso interactivo de IA se mantuvo en una mediana de cero. La palanca fue mostrar al estudiantado su propio proceso en lugar de prohibir una herramienta.
 
+La síntesis de Zhang, Aubrey, Wu y Chiu de 48 estudios controlados (N = 5196) encuentra que el beneficio de la IA generativa depende de la configuración y no de su presencia. El uso para retroalimentación y evaluación produjo el mayor efecto (g = 1.15) frente a g = 0.28 de la integración instruccional, y los modos dirigidos por quien aprende (g = 0.92) superaron a los autónomos (g = 0.34). La lectura no mostró ningún efecto significativo, y el g = 1.48 destacado en expresión oral cayó a g = 0.65 una vez eliminados tres valores atípicos extremos ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
+
 ## Concepciones erróneas
 
 - **«Los tutores robot encarnados funcionan por la encarnación.»** Un metaanálisis de **11 estudios de RALL (N = 595)** encontró un efecto agrupado grande sobre el aprendizaje de L2 (**g = 0,83**) con **alta heterogeneidad** y, lo importante, **solo las características de interacción** lo moderaban. La morfología y la modalidad no lo hicieron, así que el hardware no es el ingrediente activo.
@@ -161,3 +163,4 @@ La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto 
 - [[acoustic-lexical-native-language-identification-learners-2026]] — El audio supera a un clasificador de transcripciones GPT-4o en cero ejemplos para identificar la L1 (Uluslu et al. 2026)
 - [[xian-process-visualization-feedback-news-translation-2026]] - la retroalimentación de proceso elevó la consulta de fuentes y redujo el uso de traducción automática en un curso de traducción periodística
 - [[wordofa-genai-grammar-instruction-efl-2026]] — Instrucción gramatical asistida por IA generativa y autoeficacia y conciencia metalingüística de estudiantes etíopes de inglés como lengua extranjera
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — Metanálisis de tres niveles: la IA generativa funciona mediante la retroalimentación y el diseño dirigido por quien aprende, no como una intervención uniforme (Zhang et al. 2026)

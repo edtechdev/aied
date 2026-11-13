@@ -1,7 +1,7 @@
 ---
 title: Analítica de sensores y de la mirada
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -41,7 +41,7 @@ ai_assist:
 
 ## Introducción
 
-La analítica de sensores y de la mirada agrupa métodos que convierten mediciones físicas de quien aprende en inferencias educativas. Las mediciones incluyen dónde se posan los ojos y durante cuánto tiempo, la actividad eléctrica del cuero cabelludo, las respuestas de las glándulas sudoríparas, la variación latido a latido de la frecuencia cardíaca y la posición y el movimiento de la cabeza y el torso. Las inferencias incluyen atención, implicación, carga cognitiva, confusión, estrés y, en contextos de evaluación, sospecha.
+La analítica de sensores y de la mirada agrupa métodos que convierten mediciones físicas de quien aprende en inferencias educativas. Las mediciones incluyen dónde se posan los ojos y durante cuánto tiempo, la actividad eléctrica del cuero cabelludo, las respuestas de las glándulas sudoríparas, la variación latido a latido de la frecuencia cardíaca y la posición y el movimiento de la cabeza y el torso. Las inferencias incluyen atención, implicación, carga cognitiva, confusión, estrés y, en contextos de evaluación, sospecha. Esta página trata específicamente de esa capa de medición: para el programa más amplio y sus afirmaciones, véase la [[affective-computing|computación afectiva]]; sobre cómo debe actuar un tutor una vez que tiene una inferencia, véase la [[affective-tutoring|tutoría afectiva]].
 
 El atractivo es directo. Las [[self-report-measures|autoevaluaciones]] son retrospectivas y gruesas, y los cuestionarios muestrean el aprendizaje en pocos momentos. Los sensores funcionan de forma continua y exigen poco esfuerzo consciente. Esa combinación ha hecho de la sensorización un elemento central de la [[learning-analytics|analítica del aprendizaje]] y del [[student-modeling|modelado del estudiantado]], y ha producido una literatura amplia en la que la sensorización es técnicamente impresionante y la interpretación es delgada.
 
@@ -86,6 +86,8 @@ La [[assessment-validity|validación]] puede inflar el modelo. Un banco de prueb
 Un correlato neural no es una puntuación. Las imágenes reconstruidas a partir de EEG correlacionaron con el rendimiento en la prueba con R² = 0,79 en 55 observaciones participante-vídeo. Los ítems respondidos correctamente mostraron además mayor similitud semántica que los incorrectos. Aun así, un participante produjo reconstrucciones de alta calidad y respondió incorrectamente, de modo que la calidad de la reconstrucción no puede leerse como corrección ([[seeing-cognitive-representations-eeg-reconstruction|Su et al., 2026]]).
 
 La atención no es aprendizaje. En TutorLoop, la atención correlacionó con el aprendizaje con r = 0,017, mientras que la carga de trabajo correlacionó negativamente con r = -0,168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Un sistema que maximizara la señal de atención habría optimizado algo cercano al ruido.
+
+Una señal también puede invertir el constructo. En 37 [[simulation|simulaciones]] de enfermería grabadas, un detector de sonrisas correlacionó negativamente con la [[empathy|empatía]] valorada por observadores (r = −0,322), mientras que la detección del contacto físico coincidió con cuatro medidas de observadores entre 0,46 y 0,54; los observadores leían una sonrisa ante un paciente con dolor como incongruencia, y el modelo leía acción facial ([[nissan-nursing-empathy-computer-vision-2026|Nissan et al., 2026]]).
 
 Un sensor puede registrar copresencia donde un estudio afirma interacción: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] encontraron que un detector basado en pose alcanzaba solo un 55% de exhaustividad, capturando 11 de los 20 eventos que los codificadores humanos identificaron en las interacciones del [[teacher-role|docente]] con grupos de estudiantes. El docente estaba presente dentro del límite del grupo en el 49,2% de los segmentos codificados, mientras que el estudiantado miraba al docente solo en el 25,4%, y ningún rasgo de audio cambió en ninguna de las dos comparaciones, así que la canalización registró copresencia espacial y no interacción sostenida.
 
@@ -142,6 +144,7 @@ Por último, recoger no es integrar. Kim y Han encontraron que la mayoría de lo
 - [[intelligent-tutoring]]
 
 ## Artículos conectados
+- [[nissan-nursing-empathy-computer-vision-2026]] — La detección del contacto físico siguió la empatía valorada por observadores, la detección de sonrisas se invirtió, y el contacto visual y los mapas de calor fueron nulos (Nissan et al., 2026)
 - [[gaze-informed-ai-children]] — La narración con LLM activada por la mirada mantuvo a los niños en una región narrada 6,48 s frente a 1,67 s, pero el estudio midió atención y no comprensión (Wu et al., 2026)
 - [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG montado en la cabeza, seguimiento ocular y EDA frontal predijeron la implicación autoinformada con un 75,0% de exactitud dentro de un nivel frente a una línea base del 63,0% (Anupkrishnan et al., 2026)
 - [[engagement-assessment-video]] — EduGage fusionó siete flujos de dispositivos wearable y cámara en estimaciones de implicación por segmento (MAE 0,81) y aboga por una instrumentación más ligera (Leng et al., 2026)

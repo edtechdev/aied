@@ -1,14 +1,14 @@
 ---
 title: Investigación cuantitativa
 created: "2026-09-28T19:11:02-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-11-10T18:55:00-05:00"
+source_updated: "2026-11-12T14:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,10 @@ ai_assist:
 La investigación cuantitativa abarca los diseños descriptivos (medir la prevalencia y los patrones), los diseños correlacionales u observacionales (poner a prueba relaciones entre variables) y los diseños experimentales y cuasiexperimentales (estimar efectos causales). Lo que los unifica es la reducción sistemática de las observaciones a números, analizados con estadística, y la prioridad que se concede a la **fiabilidad, la validez y la generalizabilidad**, las preocupaciones centrales de la [[educational-measurement|medición educativa]].
 
 ## Principales enfoques cuantitativos
+
+### Diseños longitudinales y de panel
+
+La medición repetida de las mismas personas que aprenden convierte una correlación en una trayectoria: los modelos de panel separan un rasgo estable del cambio específico de cada ocasión, y los modelos de crecimiento estiman la forma y el ritmo del cambio entre oleadas. Las familias de diseño, las amenazas que pesan sobre los estudios de IA (la pérdida de participantes, la deriva de las herramientas, el rendimiento asistido) y los ejemplos más sólidos del corpus se tratan en la [[longitudinal-research|investigación longitudinal]].
 
 ### Investigación por encuesta y correlacional
 Las encuestas transversales miden actitudes, percepciones, motivación, [[self-efficacy|autoeficacia]] y aceptación tecnológica autoinformadas, a menudo modeladas con regresión o modelos de ecuaciones estructurales (SEM/PLS-SEM) para poner a prueba relaciones hipotetizadas y mediadores. Dominan el corpus de la base de conocimiento, en particular para las cuestiones de aceptación, motivación y mecanismos psicológicos. [[acceptance-ai-english-tools-2026|La aceptación de herramientas de inglés asistidas por IA]] parte del [[technology-acceptance-model|TAM]] con SEM; [[tian-genai-learning-adoption-pathways-2026|las vías de adopción de la IA generativa]] usan PLS-SEM, fsQCA y mapeo de importancia-rendimiento; [[teacher-education-ai-literacy-sdt-2026|la alfabetización en IA del profesorado]] usa encuestas validadas factorialmente y ancladas en la [[self-determination-theory|teoría de la autodeterminación]].
@@ -95,6 +99,7 @@ Los métodos cuantitativos y los [[qualitative-research|cualitativos]] son compl
 
 ## Conceptos conectados
 
+- [[longitudinal-research]]
 - [[research-methods-aied]]
 - [[qualitative-research]]
 - [[mixed-methods-research]]

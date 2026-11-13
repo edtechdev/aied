@@ -1,7 +1,7 @@
 ---
 title: Evaluación formativa
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T06:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,7 @@ Los sistemas de IA generan ítems de evaluación formativa en distintas modalida
 - **Corrección automática de ensayos:** los marcos multiagente (por ejemplo, MASS) mejoran la consistencia respecto a los [[llm|LLM]] aislados en la [[automated-essay-scoring|corrección de ensayos]], aunque la [[explainable-ai|interpretabilidad]] de las decisiones de puntuación multiagente sigue siendo un reto abierto.
 - **Flujos de puntuación formativa:** [[cotal-formative-assessment-scoring-2026|CoTAL]] combina los prompts de cadena de pensamiento con el [[active-learning|aprendizaje activo]] y el diseño centrado en la evidencia para producir una puntuación formativa generalizable con [[prompt-engineering|ingeniería de prompts]] con intervención humana.
 - **Evaluaciones de alta frecuencia y [[automated-assessment|corregidas automáticamente]]:** [[automated-formative-assessments-a-level-sciences|las evaluaciones formativas automatizadas en ciencias de nivel A]] examinan el efecto de una evaluación formativa de alta frecuencia y corregida automáticamente sobre los [[learning-gains|resultados de aprendizaje]]. Una revisión de alcance sobre la corrección automática de respuestas cortas en [[science-education|ciencias]] (de 2017 a principios de 2024) confirma que este caso de uso formativo de respuestas cortas es un campo con un impulso real: los modelos de la familia BERT dominaron la corrección automática hasta 2021, antes de la llegada del prompting de [[llm|LLM]] más grandes a partir de aproximadamente 2022, y los modelos aumentados con el dominio, conscientes de la rúbrica y de cadena de pensamiento obtuvieron los mejores resultados; sin embargo, las peticiones de la revisión de una evaluación exhaustiva y las brechas no resueltas de [[bias-mitigation|equidad]] y de explicabilidad aconsejan no extender estos sistemas a usos [[summative-assessment|sumativos]] o de alto riesgo no mediados ([[auto-marking-short-answer-science-2026]]).
+- **Un cuestionario gamificado puede disfrutarse sin enseñar.** Treinta y cuatro estudiantes de grado de musicología valoraron un cuestionario adaptativo con IA como el más bajo en comparación con la instrucción tutorial tradicional (M = 2.74 de 5) y se dividieron 21 a 13 sobre si lo recomendarían, mientras que la recomendación siguió a cómo se sentía usar la aplicación (uso futuro 3.52 frente a 1.54) y no a la comprensión del tema (3.81 frente a 3.62, p = 0.420) ([[lee-ai-music-quiz-disciplinary-thinking-2026|Lee et al. (2026)]]).
 
 ## Retroalimentación generada por IA
 
@@ -195,3 +196,4 @@ La observabilidad puede diseñarse sin vigilancia: es la evidencia que una evalu
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Uso estudiantil de los LLM y los límites de la dificultad de las preguntas generadas por IA en cursos de ciencia de datos
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — Infraestructura de evaluación continua mediada por IA (AIM-CAI): conectar la evidencia de aprendizaje a través de contextos y del tiempo (McNamara y Hasnine 2026)
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional de IA para las concepciones erróneas docentes mediante diálogo fundamentado en la evidencia (Miranda y Calvani 2026)
+- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — La recomendación del estudiantado de un cuestionario adaptativo siguió a cómo se sentía usarlo, no a su comprensión del tema

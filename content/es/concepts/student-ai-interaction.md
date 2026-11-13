@@ -1,7 +1,7 @@
 ---
 title: Interacción entre el estudiantado y la IA
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-11-10T18:55:00-05:00"
+source_updated: "2026-11-11T15:26:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ Codificar 50 intercambios muestreados da una tipología triple del mismo comport
 Una línea complementaria vincula la *forma* de la interacción con el aprendizaje. Los prompts superficiales o habitualmente estrechos (pedir a la IA que produzca la respuesta en lugar de que explique, indague o evalúe) se asocian con menos aprendizaje y más dependencia, mientras que una interacción reflexiva y orientada a la verificación apoya la [[metacognition|metacognición]] y una comprensión duradera. Esto conecta directamente la interacción entre el estudiantado y la IA con el diseño de la [[intelligent-tutoring|tutoría inteligente]]: se pueden construir sistemas que inviten a un rango de indagación más amplio y más productivo y que andamien el formular preguntas en lugar de limitarse a responder. La interacción no tiene por qué pasar en absoluto por prompts que buscan la respuesta: cuando la IA critica el trabajo del propio estudiantado, el intercambio se convierte en un diálogo reflexivo y orientado a la verificación. En [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash y Connell Pensky (2025)]], las respuestas de quien aprende a la [[feedback|retroalimentación]] de un [[llm|LLM]] sobre sus ensayos mostraron reflexión en el 92,7% de los casos, aceptación en el 93,6% y refutación activa de las afirmaciones del LLM en el 87,8% (κs entre evaluadores = 0,81–0,89), y su respuesta a la [[ai-feedback-quality|calidad de la retroalimentación]] mejoró a lo largo de las iteraciones como una habilidad aprendible. El lado reflexivo de la interacción no tiene por qué pasar por el prompting directo: en [[breideband-community-builder-cobi-2026|CoBi]], el estudiantado interactuó con [[visualization|visualizaciones]] de IA a nivel de aula de su propio habla [[collaborative-learning|colaborativa]] y deliberó sobre cuándo las clasificaciones de la IA parecían equivocadas, convirtiendo aparentes errores de clasificación en oportunidades para calibrar su comprensión de las capacidades y los límites de la IA ([[trust-calibration|calibración de la confianza]]) en lugar de aceptar sin más su resultado. El vínculo entre la forma de la interacción y el aprendizaje tiene, no obstante, un límite: [[page-cognitive-partnership-cycle-human-ai-2026|Page (2026)]] separa la *iteración conversacional* de la *iteración cognitiva* sobre la base de que quien aprende puede refinar una salida a lo largo de muchos turnos mientras el modelo mental que hay detrás permanece inalterado, de modo que la evidencia del aprendizaje es un cambio en la posición cognitiva de quien aprende y no la longitud o la fluidez del intercambio: el número de turnos no es un indicador indirecto de la profundidad de la implicación.
 
 La interacción, y no la herramienta, fija la trayectoria: en un experimento de campo con casi 1.000 estudiantes de secundaria de matemáticas, GPT-4 sin restricciones elevó las puntuaciones de práctica un 48% pero recortó las de examen sin asistencia un 17%, mientras que el mismo modelo restringido a pistas diseñadas por el docente elevó la práctica un 127% y borró en gran medida el déficit ([[naim-bypass-offload-scaffold-llm-learning-2026|Lee, 2026]]).
+
+Una tarea de programación controlada pone cifras de resultado a esos tipos de interacción. [[shen-ai-skill-formation-2026|Shen y Tamkin (2026)]] aleatorizaron a 52 desarrolladores en activo para aprender una biblioteca de Python desconocida con o sin un asistente GPT-4o y codificaron cada consulta contra grabaciones de pantalla. Surgieron seis patrones, y los tres que mantenían a quien aprende haciendo el trabajo cognitivo puntuaron muy por encima de los tres que lo transferían: consulta conceptual únicamente (65%), explicación de código híbrida (68%) y generación seguida de comprensión (86%), frente a delegación en la IA (39%), dependencia progresiva (35%) y depuración iterativa con la IA (24%). La delegación fue el patrón más rápido, con 19,5 minutos; la depuración a través del asistente fue a la vez más lenta (31 minutos) y la peor. El orden indica que el movimiento decisivo es si el intercambio desarrolla el modelo de quien aprende o lo sustituye.
 
 Que el estudiantado formulara prompts eficaces, y no cuántos, fue lo que se relacionó con el éxito: la Eficiencia de consulta a la IA y la Resolución de problemas asistida por IA fueron los predictores más fuertes del rendimiento académico en 128 estudiantes de ingeniería, y siguieron siendo significativos tras controlar por el promedio de calificaciones ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 
@@ -128,3 +130,4 @@ La ansiedad que el diálogo alivia puede ser social y no técnica: entre 596 est
 - [[context-prompts-physics-assignments-2026]] — Tareas de física impulsadas por inteligencia artificial mediante prompts de contexto
 - [[three-pathways-student-ai-interaction-2026]] — Tipología de las tres vías de la interacción entre el estudiantado y la IA: 46% Revisión pasiva, 18% Pregunta directa, 36% Diálogo estratégico
 - [[porcaro-ai-grading-benchmark-2026]] — Más allá del acuerdo: 22 calificadores mediante prompts se enfrentan a sondas cuya respuesta correcta se conoce, y a la mayoría se les puede subir el nivel (Porcaro 2026)
+- [[shen-ai-skill-formation-2026]] — Seis patrones de interacción con la IA, del 86% al 24% en una prueba sin ayuda (Shen y Tamkin 2026)

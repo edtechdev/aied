@@ -1,13 +1,13 @@
 ---
 title: IA conversacional
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-11-05T16:52:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-12T20:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,8 @@ Los agentes conversacionales se usan para calificar, y su conducta evaluativa di
 
 **La conducta conversacional sigue al proveedor, no al ajuste.** En 1.971 transcripciones de IA y 135 humanas puntuadas según seis reglas fijas extraídas de las [[learning-sciences|ciencias del aprendizaje]], los modelos de un mismo proveedor se agruparon juntos sin solapamiento entre los rangos de las familias, lo que los autores leen como una conducta docente que sigue prácticas de entrenamiento propias del proveedor y no el ajuste individual del modelo ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
 
+**La modalidad de la interfaz cambió la conversación sin cambiar el resultado.** [[fang-chatbot-psychosocial-extended-use-2025|Fang et al. (2025)]] asignaron aleatoriamente a 981 personas adultas a texto, voz neutra o voz emocionalmente atractiva durante cuatro semanas de uso diario de GPT-4o, cruzado con temas abiertos, no personales o personales. Ninguna condición movió significativamente la soledad, la socialización en el mundo real, la dependencia emocional ni el uso problemático; la voz atractiva se valoró como la más antropomórfica pero produjo más soledad y menos dependencia, y el texto produjo el mayor contenido emocional y la mayor autorrevelación en ambas direcciones. El tiempo voluntario, y no el diseño asignado, se asoció con el daño, lo que argumenta que las elecciones de voz y persona moldean el intercambio mientras la duración moldea la consecuencia.
+
 La consistencia de las respuestas es un problema de infraestructura y no de prompting: la similitud de réplicas dentro de un mismo modelo osciló entre 0,715 y 0,795 frente a 0,443-0,604 entre modelos, y añadir el historial de chat cambió el contenido de las respuestas incluso para el mismo mensaje focal ([[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]]). **Perspectivas del estudiantado.** El uso real muestra que la adopción depende de la [[ai-literacy|alfabetización en IA]] y la [[usability-research|experiencia de usuario]] más que de la capacidad técnica. Un estudio [[mixed-methods-research|de métodos mixtos]] y centrado en las personas sobre el «Jordan Chatbot», un agente [[pedagogy|pedagógico]] basado en GPT-4o en un curso de derecho australiano, encontró que el estudiantado mantiene actitudes positivas y percibe mejoras en su conocimiento, a la vez que apoya firmemente los requisitos de [[academic-integrity|integridad académica]]; más de un tercio de las interacciones ocurrieron fuera del horario lectivo, lo que confirma el valor de la disponibilidad 24/7 ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha y Schiavone 2026]]). En particular, la alfabetización en IA —y no la competencia tecnológica general— predecía la disposición y la confianza para usar el chatbot, y la usabilidad (un diseño intrusivo de ventana emergente) fue la mayor barrera entre quienes no lo usaban, por delante de la confianza, la preferencia por el personal y los miedos sobre la integridad académica.([[colbran-student-perspectives-genai-chatbots-2026]]) El estudio recomienda un diseño centrado en las personas, políticas de IA explícitas y etiquetas de evaluación, formación para el personal y el estudiantado, y una monitorización continua de errores: evidencia de que un despliegue eficaz de CAI es tanto un problema de diseño y de alfabetización como uno técnico. En el otro extremo del espectro de edad, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed y Martin (2025)]] estudiaron a niños de 6 a 14 años interactuando con AMA, un chatbot acotado por tema y adaptado a la edad (astronomía, zapatillas y calzado, dinosaurios), y encontraron una amplia apertura y una alta confianza en la IA como fuente de información —los niños incluso ponían a prueba su credibilidad con preguntas de respuesta conocida— junto con lagunas en la implicación crítica y en la conciencia de seguridad digital que abogan por un diseño conversacional sensible a la edad y consciente de la confianza, y por una instrucción explícita en [[privacy|privacidad]].
 
 Quién usa el agente también varía: entre 97 estudiantes de posgrado de estadística, más de una cuarta parte nunca usó el chatbot StatBot, y las estudiantes mujeres lo usaron con una frecuencia significativamente mayor (W = 679,5, p = 0,015), lo que los autores leen como una IA conversacional que rebaja el riesgo social percibido de hacer preguntas ([[lee-wu-gender-motivation-genai-achievement-2026|Lee y Wu (2026)]]).
@@ -85,15 +87,13 @@ Elija agentes conversacionales para apoyar la enseñanza, la [[motivation|motiva
 
 - **Cómo habla realmente el estudiantado con los agentes conversacionales —un esquema de desimplicación de seis categorías:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] integraron un enseñante GPT-4-Turbo (presentado como un estudiante de secundaria con dificultades, fundamentado con [[rag|RAG]] sobre un [[knowledge-graph|grafo de conocimiento]] y emparejado con un agente mentor que criticaba las explicaciones del estudiantado) en las lecciones de Álgebra y Geometría de Math Nation, y codificaron 5.522 enunciados de 246 estudiantes. Más allá de la implicación (el 75,7% de los enunciados), identificaron respuesta falsa (12,8%), retención (8,9%), aleatorio/ruidoso (2,1%), espejado (0,6%), burla (0,3%) y fantasma (0,2%), y el espejado (copiar el texto del agente) emergió de forma inductiva a partir de los datos. La clasificación se hizo con [[human-in-the-loop-ai|una persona en el bucle]]: 1.682 enunciados anotados por dos evaluadores (κ = 0,704–0,905 por categoría) entrenaron un clasificador LLaMA 3 ajustado (F1 ponderado = 0,910 sobre conversaciones retenidas) que etiquetó los 3.840 enunciados restantes. Un análisis de riesgos contrapuestos a nivel de proceso mostró entonces que la mayoría de la desimplicación se resuelve en unos pocos turnos, salvo la retención, que persiste: una señal sobre la que merece la pena diseñar las respuestas del agente.
 
+La literatura sobre el entrenamiento de la función ejecutiva es pequeña y joven. La revisión PRISMA de [[pergantis-chatbots-executive-functions-systematic-review-2025|Pergantis y sus colegas]] examinó 115 registros y retuvo 10 estudios con 1.606 participantes de entre 6 y más de 75 años, con una ventana de búsqueda de 2021 a 2024 y sin una evaluación formal del riesgo de sesgo. Solo dos estudios informaron de seguimiento, el más largo de un mes. La propia conclusión de la revisión es que el entrenamiento con chatbots para la [[executive-function|función ejecutiva]] es prometedor y no está establecido.
+
 ## Concepciones erróneas
 
 - **«La credibilidad de un agente conversacional va en función de su exactitud.»** **Quien usa el agente lee su credibilidad en clave social.** La **competencia** percibida de ChatGPT predijo **directamente** la credibilidad de su retroalimentación, mientras que la **calidez** percibida solo operó **a través** de esa vía. Un agente que suena cálido y competente gana confianza por su presentación, lo que es un eje distinto del de la corrección.
 - **«Los compañeros de crítica basados en LLM sustituyen el juicio de quien aprende.»** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash y Connell Pensky (2025)]] muestran concretamente el lado de la **preservación**: el valor está en mantener intacto el pensamiento de quien aprende, y no en producir la crítica por él.
 - **«La evidencia paraguas sobre los agentes conversacionales es concluyente.»** La [[conversational-ai-agents-umbrella-review-2026|revisión paraguas]] sintetiza revisiones de agentes de CAI, y la solidez de una revisión paraguas está acotada por la calidad de las revisiones que reúne.
-
-## Cita
-
-Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
 
 ## Conceptos conectados
 
@@ -115,6 +115,7 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[reducing-ai-misuse]]
 - [[speech-and-voice-technologies]]
 - [[parents-and-families]]
+- [[executive-function]]
 
 ## Artículos conectados
 
@@ -141,4 +142,10 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[culturally-aware-student-stress-chatbot-2026]] — Un chatbot de IA culturalmente consciente para la detección del estrés y el apoyo al bienestar entre estudiantes universitarios paquistaníes mediante NLP y aprendizaje automático
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: la tutoría con IA y la humana producen ganancias de aprendizaje equivalentes para el GRE
 
+- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Diez estudios de chatbots dirigidos a las funciones ejecutivas
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: andamiar la búsqueda de ayuda específica con IA durante la resolución de problemas
+- [[fang-chatbot-psychosocial-extended-use-2025]] — Texto, voz neutra y voz atractiva durante cuatro semanas: la modalidad cambió el intercambio, no el resultado psicosocial (Fang et al. 2025)
+
+## Cita
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.

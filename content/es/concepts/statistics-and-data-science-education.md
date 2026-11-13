@@ -8,9 +8,9 @@ assessment: [assessment-validity]
 discipline: [statistics and data science education]
 confidence: medium
 created: "2026-10-26T21:38:51-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 translation_of: concepts/statistics-and-data-science-education
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-12T10:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,7 @@ Una segunda línea pregunta qué ocurre con los datos mismos. La generación de 
 Los resultados positivos más claros se refieren a herramientas construidas para un curso concreto y un lenguaje concreto. Un [[intelligent-tutoring|tutor de IA]] hecho a medida, envuelto alrededor de una API alojada y con un prompt de sistema para guiar en lugar de responder, se desplegó en un curso semestral de programación en R para estudiantes de grado de psicología: entre el 76% y el 84% del estudiantado lo usó en las semanas relevantes para el examen, [[self-report-measures|autoinformaron]] dedicarle el 53% de su tiempo de herramientas de estudio frente al 8% de herramientas de [[generative-ai|IA generativa]] no validadas, el uso cayó del 50% al 58% cuando el contenido semanal dejó de contar para el examen, y repuntó al 64% en la semana previa al [[oral-assessment|examen oral]]. Que la adopción siga tan de cerca el calendario de evaluación recuerda que el uso de una herramienta es un fenómeno de conducta de estudio y no solo una señal de calidad.
 
 La calidad del andamiaje importa con independencia del acceso. Una comparación experimental entre acceso guiado y acceso sin restricciones a un [[llm]] encontró que el entrenamiento explícito en andamiaje centrado en el razonamiento (pistas paso a paso, verificación) produjo mejor desempeño independiente y mejor calibración de la [[self-assessment|autoevaluación]] que la confianza acrítica, lo que sitúa el trabajo educativo en la interacción estructurada y no en el modelo. La línea de accesibilidad hace un movimiento similar con el artefacto: una canalización de JavaScript de unas 1.500 líneas deriva parámetros de diseño táctil a partir de las dimensiones de la placa, ofrece cinco constructores de gráficos modulares y produce STL listo para imprimir en menos de 250 milisegundos con etiquetado en [[assistive-technology|braille]] y en inglés en una sola pasada, y de forma opcional usa un modelo [[multimodal]] para extraer especificaciones de gráficos de una imagen cargada, con revisión obligatoria del [[teacher-role|docente]] antes de imprimir. En ambos diseños la generación se empareja con una comprobación humana.
+- **La retroalimentación de IA en cuatro fases movió el pensamiento crítico.** En un curso de grado de analítica, un ciclo estructurado de elicitación, indagación, reformulación y consolidación produjo una ventaja ajustada de 5.64 puntos sobre los comentarios del profesorado, con la deducción formal sin cambios ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al. (2026)]]).
 
 ## Lo que la evidencia aún no establece
 

@@ -7,7 +7,7 @@ technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 La TRT trata la habilidad (θ) y los parámetros de los ítems (dificultad, discriminación y, a veces, adivinación) como algo estimado conjuntamente a partir de los patrones de respuesta, en lugar de tratar la puntuación bruta como la medida. Esto permite comparar a quienes aprenden en una escala común, seleccionar ítems de forma adaptativa y estimar la precisión por persona en lugar de globalmente.
 
-### Cómo aparece la TRT en la investigación
+## Cómo aparece la TRT en la investigación
 
 - **Dificultad predicha por IA:** la [[llm-item-difficulty-prediction|predicción de la dificultad de los ítems con LLM]] usa modelos de lenguaje para estimar la dificultad de los ítems, lo que debe validarse contra parámetros de TRT ajustados empíricamente.
 - **Calibración psicométrica:** la [[llm-psychometric-calibration-cdp|calibración psicométrica con LLM]] alinea la evaluación basada en modelos con la medición basada en la TRT, de modo que las respuestas generadas por IA preserven las propiedades de medición.
@@ -69,7 +69,7 @@ La TRT trata la habilidad (θ) y los parámetros de los ítems (dificultad, disc
 - **Una alternativa causal a la TRT asociativa.** [[causal-modeling-competency-assessment-2026|Mangili et al. (2026)]] sostienen que la TRT y los modelos de estudiante basados en redes bayesianas no pueden expresar intervenciones ni contrafactuales, y en su lugar elicitan ecuaciones estructurales de especialistas; en una batería de test adaptativo con 109 estudiantes el modelo elicitado fue ligeramente menos predictivo (−287 frente a −277 de log-verosimilitud del test) pero admitió consultas contrafactuales sobre la ayuda.
 - **Explicar la dificultad en lugar de predecirla.** [[explaining-question-difficulty-natural-language-2026|Cui et al. (2026)]] ajustaron un modelo Rasch 1PL a los registros de respuestas de LLM para GSM8K (1.319 preguntas), BBH-structured (1.396) y WinoGrande (1.267), con 5.000 modelos para GSM8K y WinoGrande y 3.811 para BBH-structured. Luego pidieron a un LLM que propusiera hipótesis en lenguaje natural sobre por qué un ítem es más difícil que otro, y las seleccionaron con una regresión regularizada L1 sobre preguntas dejadas fuera. Usadas por sí solas en preguntas no vistas, las hipótesis seleccionadas alcanzan R² = 0,373 en GSM8K, 0,580 en BBH-structured y 0,090 en WinoGrande, las mejores de los métodos comparados en GSM8K y WinoGrande y las segundas mejores en BBH-structured, donde un RoBERTa-base ajustado alcanza 0,646. Como características adicionales suman +0,11 a RoBERTa-base en GSM8K (de 0,362 a 0,468) y +0,19 y +0,18 a dos modelos de embeddings congelados. Una sonda causal edita 50 preguntas de prueba por conjunto hacia o fuera de una hipótesis.
 
-### Conexiones
+## Conexiones
 
 La TRT es un fundamento de la [[educational-measurement|medición educativa]] y de la [[assessment-validity|validez de la evaluación]], sustenta el [[adaptive-learning|aprendizaje adaptativo]] (selección adaptativa de ítems) y el [[student-modeling|modelado del estudiantado]], y se conecta con la [[psychometrically-aware-ai|IA psicométricamente consciente]] (evaluación con IA alineada con la teoría de la medición) y con el [[knowledge-tracing|trazado de conocimiento]]. Aparece en la [[llm-difficulty-calibration-programming-exams-2026|calibración de dificultad con LLM]] para la evaluación de programación.
 

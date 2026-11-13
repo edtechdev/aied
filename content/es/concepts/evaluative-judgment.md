@@ -1,7 +1,7 @@
 ---
 title: Juicio evaluativo
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-12T10:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,7 @@ La literatura sobre [[collaborative-learning|colaboración]] y sobre evaluación
 - **Se están proponiendo indicadores de juicio a nivel de aula.** [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] añade dos señales conductuales a una secuencia de tareas rediseñada: la *Discernment Rate* de UnBlooms™, la proporción de resultados de IA que quien aprende interroga, cuestiona o revisa en lugar de aceptar, y la *First-Pass Acceptance Rate*. Ninguna está validada (ambas se ofrecen como diagnósticos baratos por tarea), pero hacen observable el constructo dentro de la calificación ordinaria, donde una tasa de discernimiento casi nula en varias tareas se lee como una señal de diseño de la tarea y no como un déficit individual.
 - **El juicio se registra cuando está cableado a la revisión, no cuando solo está presente.** En 67 docentes en formación que diseñaban planes de clase con IA generativa, la evaluación explícita estaba casi ausente en el grupo de menor calidad (0,67 frente a 0,00); lo que separó la calidad fue un ciclo bidireccional de evaluación y revisión (CE→RE Z = 2,80, RE→CE Z = 2,50) y un bucle autorreferente de revisión (RE→RE Z = 4,24) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 - **Los criterios de los docentes se pueden externalizar revisando el resultado de la IA.** [[valiassist-programming-feedback-validation-by-demonstration-2026|Tang et al. (2026)]] infirieron reglas de validación reutilizables a partir de las ediciones que 16 docentes hicieron de retroalimentación de programación generada por un LLM, y elevaron la alineación con su intención pedagógica del 57% al 91%, haciendo inspeccionables unos criterios tácitos que de otro modo quedaban sin declarar.
+- **El bucle, no la lista de verificación.** El juicio evaluativo con IA funciona de forma recursiva: evaluar frente a criterios ocupacionales, aceptar, revisar o rechazar y volver a preguntar, y después verificar y justificar, regresando a la evaluación mientras el artefacto no sea adecuado ([[zheng-ai-evaluative-judgement-vocational-2026|Zheng y Tang (2026)]]).
 
 ## Cómo el mal uso desplaza el juicio
 

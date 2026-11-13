@@ -10,9 +10,9 @@ ethics: [neurodiversity, accessibility]
 audience: [instructors, curriculum designers, researchers]
 level: [primary education, k 12, higher ed]
 confidence: medium
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 translation_of: "concepts/reading-education"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-12T21:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -91,6 +91,10 @@ Para estudiantes con dislexia, una revisión guiada por [[meta-analysis-systemat
 
 La vertiente es rica en medición y pobre en resultados. Hay instrumentos validados (AIR), modelos de dificultad validados (CLARA, Bird) y un conjunto creciente de herramientas de generación y simplificación. Hay muy pocos estudios controlados que conecten una intervención de lectura con ganancias de comprensión, y varios de los estudios de evaluación confunden la fuente del pasaje con la modalidad de aplicación o la vigilancia. Los tamaños de muestra son pequeños: 53 estudiantes en el caso de evaluación de la lectura, 24 en el estudio de lecturas a medida, 200 estudiantes de séptimo grado en el cuasiexperimento más grande. La base de conocimiento debe leerse como la documentación de un espacio de diseño, no de un efecto establecido.
 
+La fluidez en los primeros cursos de primaria es la excepción hasta ahora: en una escuela, el estudiantado de primero y segundo grado que registró al menos 10 minutos semanales durante 6 semanas superó a sus pares de baja dosis (g = 0.56), un contraste de dosis y no un ensayo ([[burns-ai-tutor-reading-growth-2026|Burns y Morton (2026)]]).
+
+[[kreijkes-llm-note-taking-reading-comprehension-2026|Kreijkes y sus colegas (2026)]] probaron si un chatbot ayuda a quienes leen en un experimento preregistrado con 344 estudiantes de Year 10 en siete escuelas secundarias inglesas. Cada estudiante leyó dos pasajes de historia con un LLM, con toma de notas o con ambos; tres días después, la toma de notas por sí sola superó al LLM en retención literal (d = 0.44), comprensión (d = 0.38) y recuerdo libre (d = 0.21). LLM + notas recuperó parte del terreno en las dos primeras pero no en el recuerdo libre (beta = -0.08, p = .854). El estudiantado valoró el LLM como más fácil, más útil y más agradable mientras obtenía puntuaciones más bajas, y el 25.63% de quienes estaban en la condición combinada copió más del 70% de su redacción en sus notas.
+
 ## Concepciones erróneas
 
 - **«Una puntuación de legibilidad dice si un texto es adecuado.»** Una puntuación mide rasgos superficiales; la comparación de CLARA con FKGL y los rasgos de procesamiento de Clark et al. muestran cuánto de la dificultad deja fuera.
@@ -126,3 +130,4 @@ La vertiente es rica en medición y pobre en resultados. Hay instrumentos valida
 - [[airri-machine-resistant-reading-interface-2026]] — interfaces de lectura resistentes a la máquina y su coste en legibilidad
 - [[chatgpt-feedback-orientation-chinese-reading-2026]] — retroalimentación de ChatGPT en lectura secundaria
 - [[dabaghi-ai-dyslexia-education-review-2026]] — IA para estudiantes con dislexia
+- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — Uso de LLM, toma de notas y comprensión lectora en la educación secundaria: la comparación aleatorizada

@@ -1,8 +1,8 @@
 ---
 title: "¿Cómo redacto una política de IA para un curso y la comunico al estudiantado?"
 created: "2026-09-22T18:29:10-04:00"
-updated: "2026-11-05T16:18:45-05:00"
-connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai]
+updated: "2026-11-12T22:30:00-05:00"
+connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai, adopting-ai-options-and-issues]
 weight: 70
 type: faq
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
@@ -13,7 +13,7 @@ audience: [instructors, curriculum designers]
 level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-12T15:50:00-05:00"
 translation_of: faqs/course-ai-policy
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]

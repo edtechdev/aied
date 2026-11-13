@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ ai_assist:
 
 La alfabetización en retroalimentación importa porque una retroalimentación bien diseñada solo ayuda al estudiantado que sabe interpretarla y actuar en consecuencia. Un estudiante que no puede evaluar si la retroalimentación generada por IA es correcta, o que no sabe cómo convertir la retroalimentación en una revisión concreta, aprende mucho menos de la misma retroalimentación que un compañero con mayor alfabetización en retroalimentación. A medida que la IA transforma la provisión de retroalimentación, la alfabetización en retroalimentación se ha convertido en una condición límite central para determinar si la retroalimentación con IA mejora el aprendizaje.
 
-### Qué es la alfabetización en retroalimentación
+## Qué es la alfabetización en retroalimentación
 
 La alfabetización en retroalimentación se enmarca ampliamente como un conjunto de capacidades interrelacionadas: la capacidad de valorar la retroalimentación, emitir juicios, gestionar lo afectivo y actuar (según Carless y Boud). Los artículos de la base de conocimiento agrupan la alfabetización en retroalimentación en torno a varias capacidades:
 
@@ -50,7 +50,7 @@ La alfabetización en retroalimentación se enmarca ampliamente como un conjunto
 - **Actuar sobre la retroalimentación**: traducir la retroalimentación en revisiones concretas o cambios de enfoque ([[feedback|bucle de retroalimentación]], [[self-regulated-learning|aprendizaje autorregulado]]).
 - **Juzgar la autoridad evaluativa**: una capacidad adicional propuesta por [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]]: además de valorar la retroalimentación, emitir juicios, gestionar lo afectivo y actuar, el estudiantado que razonaba sobre la retroalimentación producida por IA necesitaba juzgar *qué fuente posee autoridad evaluativa*, con independencia de juzgar la calidad de la retroalimentación. Como a los participantes se les dijo que ChatGPT generaba tanto la puntuación como la retroalimentación, su alfabetización en retroalimentación se ejercitó sobre la fuente y la legitimidad de la evaluación, y no solo sobre su contenido, y produjo demandas de validación por parte del docente en lugar de una aceptación pasiva.
 
-### Cómo aparece la alfabetización en retroalimentación en la investigación
+## Cómo aparece la alfabetización en retroalimentación en la investigación
 
 - **La alfabetización en retroalimentación como moderadora del valor de la retroalimentación con IA:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] muestran que la alfabetización en retroalimentación modera el vínculo entre la aceptación de ChatGPT y el [[self-regulated-learning|aprendizaje autorregulado]]: el estudiantado con mayor alfabetización percibe un mayor beneficio de autorregulación en la retroalimentación con IA, mientras que quienes tienen menos alfabetización muestran efectos mínimos o incluso negativos ([[cognitive-offloading|dependencia excesiva]]). La alfabetización en retroalimentación es una condición límite para que el estudiantado pueda «dar sentido» a la retroalimentación con IA.
 
@@ -80,13 +80,13 @@ La alfabetización en retroalimentación se enmarca ampliamente como un conjunto
 - **La alfabetización en retroalimentación como objetivo del diseño de la alfabetización en IA y de la [[assessment|evaluación]]:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond y Nicholls (2025)]] emplean una evaluación centrada en el proceso y no en el artefacto, en la que el estudiantado critica la salida de ChatGPT contra una rúbrica para construir a la vez la alfabetización en retroalimentación, la psicológica y la de IA; la [[learner-centered-feedback-ai|retroalimentación con IA centrada en quien aprende]] y el [[care-full-feedback-genai|diseño de retroalimentación cuidadoso]] vinculan la calidad de la retroalimentación con la capacidad de implicación de quien aprende.
 - **La alfabetización en retroalimentación se puede enseñar, y la IA puede aportar el material de práctica.** Una guía conceptual hace que el profesorado genere un espectro graduado de muestras de trabajo de IA —que cumplen todos los criterios, algunos y ninguno— y luego conduzca al estudiantado a través de una crítica modelada, un análisis guiado en clase y una evaluación independiente ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington y Hock (2026)]]).
 
-### Por qué la alfabetización en retroalimentación importa para la IA en la educación
+## Por qué la alfabetización en retroalimentación importa para la IA en la educación
 
 La IA cambia la retroalimentación en dos direcciones que elevan a la vez lo que está en juego con la alfabetización en retroalimentación. En primer lugar, la IA aumenta drásticamente el *volumen y la inmediatez* de la retroalimentación ([[ai-feedback-quality|calidad de la retroalimentación con IA]], [[feedback|bucle de retroalimentación]]), de modo que el estudiantado se enfrenta a mucha más retroalimentación que debe clasificar y evaluar. En segundo lugar, la retroalimentación generada por IA conlleva riesgos propios —la inexactitud, la [[hallucination-risk|alucinación]] y la «ilusión de dominio»— que exigen habilidades de [[critical-thinking|evaluación crítica]] y que plantean riesgos de dependencia excesiva y de [[llm-fallacy-misattribution|falacia del LLM y atribución errónea]]. La alfabetización en retroalimentación se convierte así en un componente central de la [[ai-literacy|alfabetización en IA]]: saber no solo cómo pedir retroalimentación a una IA, sino cómo juzgar si merece la pena actuar sobre ella y cómo convertirla en aprendizaje genuino en lugar de en la simple finalización de la tarea.
 
 [[ai-feedback-ecosystem-higher-education-2026|Bearman y sus colegas (2026)]] añaden una exigencia más a esa lista. En su estudio de taller, el estudiantado no gestionaba una sola fuente de retroalimentación, sino una red: sopesaba los comentarios del docente frente a la salida de la IA, las rúbricas, los materiales del curso y sus pares, y cuando la retroalimentación humana tardaba seguía trabajando con la IA como compás de espera, y revisaba después si esta le había llevado a error. Los autores sugieren que el estudiantado puede actuar como su propio «humano en el bucle» gestionando esas relaciones desde la tarea concreta hasta la trayectoria más amplia, lo que es en sí mismo una capacidad de alfabetización en retroalimentación. Su advertencia es que son los comentarios escasos o tardíos del docente los que empujan al estudiantado hacia fuentes no verificadas.
 
-### Conexiones con conceptos relacionados
+## Conexiones con conceptos relacionados
 
 La alfabetización en retroalimentación se conecta con la [[ai-feedback-quality|calidad de la retroalimentación con IA]] y el [[feedback|bucle de retroalimentación]] (el lado de la provisión que complementa), con la [[formative-assessment|evaluación formativa]] (el ciclo de evaluación al que alimenta) y con el [[self-regulated-learning|aprendizaje autorregulado]] (la [[self-assessment|autoevaluación]] y la adaptación que sostiene). Es un subconjunto de la [[ai-literacy|alfabetización en IA]] cuando se aplica a la retroalimentación generada por IA, se cruza con la [[peer-assessment|evaluación entre pares]] en contextos colaborativos y resulta especialmente consecuente para la [[writing-education|enseñanza de la escritura]]. También se conecta con la [[metacognition|metacognición]] y la [[trust-calibration|calibración de la confianza]], la capacidad de juzgar si una retroalimentación es digna de confianza.
 

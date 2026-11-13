@@ -1,7 +1,7 @@
 ---
 title: Fracaso productivo
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-11T15:26:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,8 @@ El fracaso productivo se sitúa dentro de una familia más amplia de teorías de
 
 ### Aprender de los errores
 El procesamiento erróneo puede favorecer la retención y el cambio conceptual, en particular cuando se ofrece a quienes aprenden oportunidades de reflexionar sobre su comprensión y reorganizarla (Kapur, 2008; Schwartz y Martin, 2004). En la era de la IA, esto se operacionaliza en sistemas donde quienes aprenden diagnostican y corrigen sus propios errores en lugar de recibir correcciones directas — por ejemplo, las tareas de [[lukesova-clue-before-correction-2026|pista antes de la corrección]], en las que la IA da pistas guiadas y quien aprende infiere la solución correcta, lo que reduce la carga cognitiva y apoya una revisión autónoma. La retroalimentación elaborativa produce [[learning-gains|ganancias de aprendizaje]] significativamente mayores que la retroalimentación que solo verifica (Hattie y Timperley), y el momento en que se da la retroalimentación importa.
+
+**Los errores eran el currículo en una tarea de programación asistida por IA controlada.** [[shen-ai-skill-formation-2026|Shen y Tamkin (2026)]] hicieron que personas desarrolladoras aprendieran una nueva biblioteca de Python con o sin un asistente GPT-4o, y el grupo sin asistencia encontró una mediana de tres errores frente a uno con asistencia (Q1–Q3: 2,0–5,0 frente a 0,0–3,0). Los errores que el asistente eliminaba eran los específicos de la biblioteca que obligan a comprender las corrutinas, como una corrutina sin `await` o un objeto corrutina pasado donde se esperaba una función. El grupo sin asistencia obtuvo después un 17% más en una prueba realizada sin IA, con la mayor diferencia en la depuración y la menor en la lectura de código, y volver a teclear el código generado en lugar de pegarlo no cerró nada de esa brecha. Los autores leen la resolución independiente de errores como el mecanismo, aunque miden la asociación y no la median.
 
 ### Descuidos frente a errores
 Una distinción útil: los **descuidos** son típicamente lapsus o fallos (a menudo por falta de cuidado o sobrecarga) que pueden tener un valor diagnóstico limitado, mientras que los **errores** reflejan una comprensión equivocada o un razonamiento defectuoso genuinos y son material de aprendizaje más productivo, porque revelan una concepción errónea que puede abordarse. El análisis de errores — identificar *por qué* una respuesta es incorrecta — es central para aprender de los errores y es una [[pedagogy|habilidad pedagógica]] clave (y un objetivo para el diseño de la [[ai-feedback-quality|retroalimentación con IA]]).
@@ -133,4 +135,5 @@ El fracaso productivo conecta con [[learning-theories|las teorías del aprendiza
 - [[lukesova-clue-before-correction-2026]] — Pista antes de la corrección: ChatGPT para el aprendizaje autónomo
 - [[pedagogy-ai-mistakes]] — La pedagogía de los errores de la IA
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Retener las soluciones evitó el coste de frustración pero perdió en la preferencia del estudiantado
+- [[shen-ai-skill-formation-2026]] — Mediana de 3 errores sin IA frente a 1 con ella, y puntuaciones un 17% más altas en una prueba sin ayuda (Shen y Tamkin 2026)
 

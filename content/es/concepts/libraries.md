@@ -12,9 +12,9 @@ level: [higher ed, adult learning]
 page_kind: [synthesis]
 confidence: medium
 connected_resources: [public-ai-libraries]
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 translation_of: "concepts/libraries"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-12T21:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,12 +61,18 @@ La capacidad del personal es la restricción recurrente en el trabajo de encuest
 
 La función más antigua de la biblioteca —proporcionar un acceso que las personas no pueden comprar— ha adquirido un nuevo objeto. El piloto [[public-ai-libraries|Bibliotecas públicas de IA]] coloca una estación de trabajo de IA compartida en bibliotecas públicas, da a cada usuario una cuenta separada y cobra a las bibliotecas participantes \$1.000 por kiosco al año. Que el modelo se extienda o no, nombra el argumento de [[equity-in-ai-education|equidad]] con precisión: en una [[digital-divide|brecha digital]] que ahora atraviesa la capacidad de IA, la biblioteca es la institución que puede suministrar acceso compartido y acompañado por personal en lugar de una suscripción por persona.
 
-## Qué significa esto para la práctica
-
+## Implicaciones para la práctica
 - **Decida qué servicios presta la biblioteca antes de comprar herramientas.** La literatura sobre adopción está llena de pilotos sin responsable; la barrera más citada en las revisiones es la financiación, pero la segunda es la ausencia de capacidad de personal ajustada a un servicio.
 - **Mantenga una vía humana de escalamiento en cualquier servicio de IA.** La evidencia respalda la IA para la localización y el borrador, y al personal humano para el juicio sobre las fuentes; los diseños que borran lo segundo para escalar lo primero eliminan la parte que los usuarios no pueden obtener en otro lugar.
 - **Instrumente el desplazamiento de la búsqueda en lugar de encuestarlo.** Los registros de préstamo y de descubrimiento ya existen; una biblioteca que los empareje con datos de instrucción sabrá más sobre el efecto de la IA de lo que puede mostrar una encuesta estudiantil puntual.
 - **No facture la alfabetización en IA como alfabetización informacional.** Comparten personal y marcos, pero difieren en lo que se evalúa; confundirlas produce un programa que no mide ninguna de las dos.
+
+## Concepciones erróneas
+
+- **La IA en las bibliotecas significa un chatbot en el mostrador de referencia.** La adopción se concentra en el trabajo transaccional —las preguntas de orientación, la catalogación, las transcripciones de chat—, mientras que el juicio sigue siendo humano.
+- **El estudiantado ha abandonado la biblioteca.** Los motores de búsqueda siguen siendo el punto de partida dominante, y nueve años de registros de préstamo no muestran ningún cambio de tendencia en los préstamos.
+- **La financiación es la única barrera.** Las brechas de habilidades y la mala calidad de los datos se nombran con más frecuencia que el dinero, lo que convierte esto en un problema de capacidad tanto como de presupuesto.
+- **Una literatura creciente significa que el campo se está transformando.** El volumen de publicaciones aumentó sin ningún cambio medido en la práctica; las revisiones encuentran entusiasmo por delante del efecto.
 
 ## Conceptos conectados
 

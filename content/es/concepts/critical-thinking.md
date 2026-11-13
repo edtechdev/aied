@@ -1,7 +1,7 @@
 ---
 title: Pensamiento crítico
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-11-11T12:45:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -10,7 +10,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-11-11T12:45:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [pressing-prompts, student-guide-to-ai]
 contributors: [editor]
@@ -47,7 +47,7 @@ El pensamiento crítico es central para la [[ai-literacy|alfabetización en IA]]
 
 El control estructurado del diálogo, y no un mejor prompt, es lo que separa a un tutor de falacias de un chatbot de debate: enrutar cada turno por una detección de intención basada en Toulmin, un orden fijo de estrategias y un agente verificador permitió que un sistema socrático superara el 84,5% de las métricas de calidad del diálogo frente al 61,5% de una línea base heurística ([[lftutor-logical-fallacy-education-2026|Shi et al. (2026)]]).
 
-### El pensamiento crítico en la investigación sobre la IA en la educación
+## El pensamiento crítico en la investigación sobre la IA en la educación
 
 Los artículos de la base de conocimiento exploran el pensamiento crítico desde lentes [[design-based-research|de investigación basada en el diseño]] y empíricas. Los [[ai-agents-constructive-conflict-design-education-2026|agentes de IA adversarios]] provocan un conflicto constructivo para incitar la reconsideración en diseñadores noveles: una variante socrática que fuerza una reevaluación crítica. La [[genai-can-harm-teaching-rct-2026|investigación con ensayos controlados aleatorizados sobre la IA generativa en la enseñanza]] plantea si las herramientas de IA que optimizan resultados superficiales pueden suprimir sin proponérselo el pensamiento crítico que conduce a un aprendizaje más profundo. La evidencia medida afina el punto: que el pensamiento crítico se mueva depende de cómo se diseñen la retroalimentación y las tareas mediadas por IA, y de la regulación [[metacognition|metacognitiva]] de quienes aprenden, no del acceso a un modelo.
 
@@ -88,7 +88,9 @@ Una encuesta transversal más amplia apunta en la dirección contraria: entre 1.
 
 - **Un semestre de acceso a la IA dejó el pensamiento crítico plano, mientras que el uso reflexivo lo acompañaba.** Melanou, Beege y Kimmig (2026) siguieron a 87 estudiantes de informática de empresa a lo largo de un curso de nueve semanas en tres condiciones paralelas (IA enmarcada como tutor, IA sin guía y sin IA), con tres mediciones. El conocimiento aumentó en todos los grupos sin ventaja para ninguna de las condiciones con IA y sin efecto Mateo (BF01 = 8,70), mientras que el pensamiento crítico autoinformado y la [[motivation|motivación]] se mantuvieron estables. Lo que separó al estudiantado fue el uso reflexivo, la práctica de comprobar las fuentes y verificar la salida de la IA antes de adoptarla: fue mayor en la condición con IA que en el grupo de control (medias de 3,72 frente a 2,82) y predijo el pensamiento crítico en la medición final (R² = 0,183, β = 0,43, p < 0,001). El resultado matiza cualquier expectativa de que un curso de uso de IA mueva el pensamiento crítico por sí solo: es en la regulación [[metacognition|metacognitiva]], y no en el acceso a la herramienta, donde reside la asociación, y los autores señalan que un semestre es probablemente demasiado corto para ver un cambio duradero. ([[melanou-genai-learning-dynamics-longitudinal-2026|Melanou et al. 2026]])
 
-### Conexiones con otros conceptos
+- **La valoración se movió; la deducción formal no.** La retroalimentación de IA en cuatro fases elevó la Evaluación de argumentos en 1,74 puntos ajustados, mientras que la Deducción se movió 0,30 (p = 0,383), lo que sitúa la ganancia en el juicio sobre las afirmaciones y no en la lógica formal ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al. (2026)]]).
+
+## Conexiones con otros conceptos
 
 El pensamiento crítico se cruza con el [[scaffolding|andamiaje]] (diseñar apoyo con IA que mantenga la exigencia cognitiva), la [[prompt-engineering|ingeniería de prompts]] (formular preguntas que susciten análisis crítico) y la [[cognitive-offloading|dependencia excesiva]] (saber cuándo confiar en la IA y cuándo cuestionarla). Es fundacional para la [[academic-integrity|integridad académica]] y constituye una dimensión clave de los marcos de [[ai-literacy|alfabetización en IA]] tanto en contextos de [[k-12|K-12]] como de [[higher-ed|educación superior]].
 

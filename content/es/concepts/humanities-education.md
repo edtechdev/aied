@@ -1,14 +1,14 @@
 ---
 title: Educación en humanidades y ciencias sociales
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-12T06:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -73,6 +73,8 @@ La enseñanza de humanidades ha empezado a usar IA agéntica para reunir fuentes
 
 **«Un modelo de propósito general sirve tanto para la erudición textual como para resumir.»** La interpretación exige la posición de quien lee, y una capa de asistencia que suministra la lectura ha realizado el acto interpretativo que la disciplina existe para enseñar.
 
+Un cuestionario con IA creado para una unidad obligatoria de musicología de primer año muestra dónde recae la objeción disciplinar. Treinta y cuatro estudiantes del Conservatorio de Música de Sídney usaron un cuestionario adaptativo y gamificado sobre el contenido de las clases. Las quejas que tenían peso disciplinar no versaban sobre la exactitud factual, sino sobre el juicio de correcto o incorrecto aplicado a material interpretativo y sobre la externalización de la pericia; solo uno de los 34 comentarios vinculaba la aplicación con la interpretación crítica o interdisciplinar ([[lee-ai-music-quiz-disciplinary-thinking-2026|Lee et al. (2026)]]). La recomendación de los autores es mantener este tipo de herramientas como repaso opcional y añadir prompts abiertos que separen la coincidencia superficial de palabras clave de la interpretación.
+
 ## Conceptos conectados
 
 - [[higher-ed]]
@@ -97,3 +99,4 @@ La enseñanza de humanidades ha empezado a usar IA agéntica para reunir fuentes
 - [[genai-values-education-affordances-risks-2026]] — La IA generativa en la educación en valores: posibilidades, riesgos éticos e implicaciones para la enseñanza (Chen 2026)
 - [[liu-argumentative-work-visible-genai-assessment-2026]] — El formato de la tarea y las instrucciones de uso de IA como aquello que el artefacto puede evidenciar (Liu y Liu 2026)
 - [[capodieci-humanities-hil-2026]] — IA agéntica en el aprendizaje de humanidades y el paso de la autoría del texto a la atribución de la interpretación (Capodieci et al. 2026)
+- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — El estudiantado de musicología objetó el juicio binario del material interpretativo, no el error factual

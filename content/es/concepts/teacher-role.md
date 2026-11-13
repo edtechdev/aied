@@ -1,7 +1,7 @@
 ---
 title: La docencia
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-11T08:13:31-05:00"
+source_updated: "2026-11-12T08:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -178,6 +178,8 @@ La evidencia respalda un orden concreto de operaciones para el profesorado que a
 4. **Proteja el tiempo de interpretación que genera el cambio.** Si la atención pasa de producir materiales a leer a quien aprende, ese tiempo reasignado debe sobrevivir al contacto con el calendario; si lo absorbe nuevo trabajo administrativo, el cambio de rol prometido no ocurre.
 5. **Compruebe si le están formando en herramientas o en pedagogía.** Dado el resultado del SEM, prefiera el desarrollo profesional que trabaja sobre tareas disciplinares e identidad frente a los recorridos por funciones.
 
+La autoridad epistémica en la planificación asistida por IA se negocia episodio a episodio, no se zanja por política. En 34 episodios de planificación de cinco docentes de matemáticas en formación inicial, la autoridad se retuvo en 16, se compartió en 12 y se cedió en 6; el docente que pegó un plan de clase completo generado por IA había pasado de la construcción a la autorización, mientras que otra conservó su propio marco y ajustó el resultado del modelo frente a él ([[pang-epistemic-authority-ai-lesson-planning-2026|Pang et al. (2026)]]).
+
 ## Conceptos conectados
 - [[pedagogical-partnerships]] — Alianzas pedagógicas
 - [[learner-identity]] — identidades de quien aprende en evolución: disciplinares, profesionales, creativas y académicas
@@ -255,3 +257,4 @@ La evidencia respalda un orden concreto de operaciones para el profesorado que a
 - [[falhs-teacher-expertise-reflection-2025]] — Cómo los niveles de experiencia configuran las preferencias y las necesidades de reflexión: hacia sistemas de reflexión con IA para el empoderamiento del profesorado (Falhs et al. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico con IA conversacional para las ideas erróneas docentes mediante diálogo fundamentado en la evidencia (Miranda y Calvani 2026)
 - [[ai-use-teacher-performance-north-sumatra-2026]] — El uso de IA no tuvo efecto directo sobre el rendimiento docente; la conducta de ciudadanía lo medió (Sherly et al. 2027)
+- [[pang-epistemic-authority-ai-lesson-planning-2026]] — 34 episodios que muestran la autoridad retenida, compartida o cedida en la planificación de clases asistida por IA

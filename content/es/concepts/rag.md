@@ -9,7 +9,7 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: concepts/rag
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 
 ## Introducción
 
-### Cómo se usa RAG en educación
+## Cómo se usa RAG en educación
 
 - **Recuperación específica de dominio con conciencia de notación:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] indexa libros de texto, 847 diapositivas de clase, 312 problemas de práctica resueltos, 156 plantillas de demostración desarrolladas y 89 hojas de trabajo de complejidad para cursos teóricos de [[cs-education|ciencias de la computación]], añadiendo reconocimiento de entidades matemáticas y un reranking consciente de la notación; respondió las 179 preguntas de examen redactadas por el profesorado dentro de un tiempo límite de 240 segundos (media 38,0 segundos), pero produjo BLEU-4 = 0,0000 y una puntuación de rúbrica de 0,7620, lo que ilustra tanto el valor de la arquitectura como los límites de las métricas usadas para juzgarla.
 - **Reducción de alucinaciones:** [[eduguard-safe-rag-llm-tutor|EduGuard]] y [[eduzone-llm-safety-k12|EduZone]] usan RAG para mantener las respuestas del tutor de IA fundamentadas en contenido educativo verificado, reduciendo el [[hallucination-risk|riesgo de alucinación]].
@@ -56,7 +56,7 @@ ai_assist:
 - **La recuperación fundamentada en el currículo no se distinguió en tiempo.** Aila recupera de los planes de estudio con garantía de calidad de Oak National Academy, y el profesorado de su ensayo dedicó 0,76 del tiempo de preparación de clases del grupo de comparación ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]). El informe lo lee como similar al 0,69 del ensayo general con [[generative-ai|ChatGPT]], así que fundamentar en contenido curricular verificado no fue lo que los separó.
 - **Recuperar sobre un resumen en lugar de sobre las palabras del estudiante (LC-RAG).** La conversación colaborativa a menudo no tiene vínculo semántico con la base de conocimiento: el estudiantado dice «pon ese bloque de posición ahí», de modo que un recuperador basado solo en el discurso devuelve fragmentos sin relación, y el ejemplo de los autores es un pasaje sobre un dibujo animado de los años noventa extraído de un libro de texto de física e informática. La RAG contextualizada por el registro hace que un LLM resuma cada segmento de trabajo a partir de su discurso más el registro del entorno (qué componente del modelo se está editando), y después recupera sobre ese resumen. A lo largo de 216 segmentos de modelización colaborativa y cinco modelos de embeddings juzgados por GPT-4o, superó la línea base de discurso en cuatro modelos, con tasas de victoria de 0,403 a 0,620, y recuperó un conjunto más ajustado de fragmentos (167 únicos frente a 267 de 7.386). Perdió en un modelo porque los resúmenes se volvieron más específicos de la tarea de lo que era el corpus general del libro de texto: el alcance de la consulta y el alcance del corpus tienen que emparejarse de forma deliberada ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
 
-### RAG frente al ajuste fino
+## RAG frente al ajuste fino
 
 RAG cumple un papel complementario al ajuste fino de [[llm|LLM]]: la recuperación proporciona una fundamentación actualizada y específica del dominio sin reentrenar, mientras que el ajuste fino incorpora comportamientos [[pedagogy|pedagógicos]]. La investigación de la base de conocimiento explora ambos enfoques y su combinación.
 

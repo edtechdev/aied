@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [eduprompts, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-11-11T11:50:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ ai_assist:
 
 La ingeniería de prompts es central para el uso eficaz de la [[generative-ai|IA generativa]] en educación. A diferencia de las interfaces de programación tradicionales, los LLM responden al lenguaje natural, pero la calidad, la exactitud y el valor [[pedagogy|pedagógico]] de esas respuestas dependen en gran medida del diseño del prompt. La investigación de esta base de conocimientos revela que el prompting no es un acto neutro: refleja cómo piensa, planifica y distribuye el esfuerzo cognitivo el estudiantado. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran y Arar (2026)]] precisan qué abarca el término al distinguir la ingeniería de prompts, la optimización técnica de las entradas para el rendimiento, de la alfabetización en prompts, el trabajo retórico, ético y reflexivo de clarificar el propósito, leer críticamente el resultado y revisar con razones declaradas. Su Ciclo de Alfabetización en Prompts (Clarificar el Propósito, Elaborar el Prompt, Interactuar con el Resultado, Refinar el Prompt, Reflexionar) y una rúbrica de proceso de muestra hacen enseñable la distinción, y sostienen que una instrucción que optimiza solo los resultados deja intactas las dimensiones éticas y epistemológicas del uso de los LLM.
 
-### Cómo aparece la ingeniería de prompts en la investigación
+## Cómo aparece la ingeniería de prompts en la investigación
 
 - **El prompting como rastro cognitivo:** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk et al.]] muestran que los patrones de prompts revelan [[cognitive-offloading|delegación cognitiva]]: el trabajo de alta calidad usa prompts ricos en contexto, corteses e instructivos, mientras que el trabajo de baja calidad muestra desacuerdo reactivo sin fundamento en el dominio.
 - **La profundidad mejora el producto, no la retención.** En 22 estudiantes de posgrado, la proporción de prompts de búsqueda de explicación («por qué/cómo/explica») predijo de forma independiente la calidad de la tarea calificada por marcadores externos (β = 6,27) más allá del conocimiento de base y del volumen de prompts, aunque mostró una asociación nula con el recuerdo inmediato ([[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]]).
@@ -82,7 +82,7 @@ La ingeniería de prompts es central para el uso eficaz de la [[generative-ai|IA
 - **La identidad del modelo, y no la redacción del prompt, impulsa el acuerdo LLM-humano en la codificación.** En la descomposición controlada de [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith et al. (2026)]], el tipo de prompt no fue significativo (F = 1,77, p = 0,136, η² parcial = 0,03) mientras que el factor modelo aportó un η² parcial = 0,19. Añadir definiciones o instrucciones detalladas perjudicó la detección de listados incluso cuando redujo los errores en los juicios de definición correcta, y el precio no siguió a la calidad: Gemini 2.5 Pro costó 178,13 dólares y aun así rindió por debajo de GPT-4.1 Full, de 56,77 dólares.
 - **Inyecte el nombre de la teoría, no sus textos completos.** [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]] muestran que el prompting con el nombre de la teoría superó a los artículos aportados en utilidad (4,40 frente a 3,20) y concreción (3,80 frente a 2,40), mientras que los textos completos solo ganaron en alineación teórica (4,60 frente a 3,60).
 
-### Conexiones con conceptos más amplios
+## Conexiones con conceptos más amplios
 
 La ingeniería de prompts se conecta con el [[scaffolding]]: los prompts bien diseñados pueden dar andamiaje al pensamiento del estudiantado en lugar de puentearlo. Se interseca con la [[metacognition]] y la [[ai-literacy]], ya que el prompting eficaz exige comprender tanto las capacidades de la IA como los propios objetivos de aprendizaje. La investigación sobre [[cognitive-offloading|delegación cognitiva]] vincula directamente la calidad del prompt a si el uso de la IA apoya o socava el aprendizaje.
 

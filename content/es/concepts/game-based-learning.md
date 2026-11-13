@@ -7,7 +7,7 @@ pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ ai_assist:
 
 El GBL se fundamenta en las teorías de la [[motivation]], la [[student-engagement]] y el [[active-learning]]: los juegos proporcionan motivación intrínseca, retroalimentación inmediata y contextos de problemas auténticos. Se solapa con la [[simulation]], el [[project-based-learning]] y la [[educational-robotics]]. El GBL es especialmente relevante para la [[educational-robotics]], el [[computational-thinking]] y la [[cs-education]], donde los juegos pueden hacer concretos y divertidos conceptos técnicos abstractos.
 
-### Cómo aparece el GBL en la investigación de la base de conocimiento
+## Cómo aparece el GBL en la investigación de la base de conocimiento
 
 - **Educación en robótica:** [[game-based-gamified-robotics-education-review-2026|una revisión sistemática comparativa]] del aprendizaje basado en juegos y la gamificación en la educación en robótica encontró que el GBL era más frecuente en entornos informales, mientras que la gamificación dominaba las aulas formales y favorecía el [[project-based-learning|aprendizaje basado en proyectos]].
 - **Juegos mediados por robots:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] es un juego de rol mediado por un robot para la intervención contra el acoso escolar, y [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] usa la [[storytelling-in-education|narrativa digital]] interactiva para impulsar la motivación.
@@ -46,7 +46,7 @@ El GBL se fundamenta en las teorías de la [[motivation]], la [[student-engageme
 
 - **Separe la IA en un entrenador de diálogo y un motor de dificultad.** Un entorno Roblox mejorado con IA para el pensamiento computacional de secundaria superior emparejó un personaje no jugador basado en GPT-4, limitado a dos o tres frases y al que se impedía dar respuestas, con un motor basado en reglas que fijaba la dificultad a partir del tiempo hasta la solución y la tasa de error ([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang y Kanjug, 2026]]).
 
-### Gamificación
+## Gamificación
 
 **La gamificación** es la aplicación de elementos de diseño de juegos (puntos, insignias, niveles, tablas de clasificación, desafíos, barras de progreso) a contextos que no son juegos para motivar e implicar a las personas usuarias. A diferencia del aprendizaje basado en juegos —donde el aprendizaje ocurre *a través de* un juego—, la gamificación superpone mecánicas de juego a una actividad de aprendizaje existente sin convertirla en un juego completo. Se usa en educación para impulsar la motivación, la [[student-engagement]] y la persistencia, y se aplica ampliamente en entornos de aula formales.
 
@@ -56,14 +56,6 @@ La gamificación se fundamenta en la teoría motivacional, en particular en la [
 - **Implicación y motivación:** la gamificación se usa en toda la base de conocimiento para aumentar la implicación y la motivación del estudiantado en contextos de aprendizaje de IA, [[cs-education|programación]] y [[stem-education|STEM]]. La investigación sobre [[genai-motivation-engagement-2026|IA generativa, motivación e implicación]] examina cómo los elementos lúdicos se combinan con la IA para sostener el interés de quien aprende. Dos estudios de 2026 amplían esto comparando condiciones gamificadas y apoyadas por IA frente a la instrucción tradicional: [[nasa-tlx-workload-gamified-ai-2026|un estudio con NASA-TLX]] midió la carga de trabajo percibida en condiciones de aprendizaje tradicionales, gamificadas y apoyadas por IA, y [[arcs-motivational-ergonomics-gamified-ai-2026|un estudio ARCS]] examinó la «ergonomía» motivacional en el aprendizaje gamificado y apoyado por IA, con implicaciones para la [[professional-training|formación en el puesto de trabajo]]. En conjunto, aclaran que el beneficio motivacional de los diseños lúdicos y apoyados por IA depende de cómo dan forma al [[motivation|esfuerzo percibido]], a la carga de trabajo y a la atención (por ejemplo, las dimensiones de atención y relevancia del modelo ARCS), y no de la gamificación por sí sola.
 
 El GBL y la gamificación se conectan en conjunto con la [[educational-robotics]], la [[student-engagement]], la [[motivation]], la [[self-determination-theory]], el [[active-learning]], la [[simulation]], el [[project-based-learning]] y el [[computational-thinking]].
-
-## Concepciones erróneas
-
-**«El aprendizaje basado en juegos apoyado por IA tiene una base de evidencia sólida.»** La síntesis que respalda la afirmación es grande y delgada a la vez. Una **revisión sistemática de 55 estudios** encuentra efectos positivos sobre el conocimiento, la motivación intrínseca y la implicación afectiva, pero solo **4 estudios (7%) alcanzaron su umbral de alta calidad**. Un efecto positivo agrupado extraído de un corpus en el que el 93% de los estudios queda por debajo del propio listón de calidad de la revisión es una hipótesis con literatura adjunta, no un hallazgo sobre el que diseñar.
-
-**«Los efectos positivos sobre la motivación y el conocimiento se refuerzan mutuamente.»** Se miden por separado y, en la literatura más amplia, se programan por separado: la [[student-engagement|implicación y el logro]] avanzan en calendarios distintos, así que un juego que eleva la motivación intrínseca ha demostrado un resultado. Tratar el resultado motivacional como corroboración del resultado de conocimiento infla un hallazgo de dos partes en uno más fuerte de lo que el diseño respalda.
-
-**«Si un juego implica al estudiantado, el aprendizaje se sigue de la diversión.»** La diversión es el mecanismo de entrega de la repetición que el juego hace tolerable, no el mecanismo de aprendizaje. Un juego que añade implicación sin añadir práctica productiva ha añadido la parte que nunca escaseaba.
 
 ## Implicaciones para la práctica
 
@@ -83,6 +75,14 @@ El GBL y la gamificación se conectan en conjunto con la [[educational-robotics]
 - Eleve la calidad de diseño del campo y no su volumen; una tasa de alta calidad del 7% es la restricción vinculante de lo que se puede concluir.
 
 - **La retroalimentación conversacional en una simulación eleva la carga cognitiva pertinente sin reducir la carga extrínseca.** En un juego de simulación empresarial de cinco semanas con **234 estudiantes**, quienes usaban con regularidad un chatbot de retroalimentación basado en GPT-4o informaron de una **carga cognitiva pertinente significativamente mayor** que quienes tenían acceso pero no lo usaban (β = −,468, p < ,001) y que el grupo de control con retroalimentación estática (β = −,253, p < ,028), mientras que la **carga extrínseca no mostró efecto** en ninguna de las dos especificaciones (F(1, 219) = 0,499, p = ,481). Ambas cargas **disminuyeron a lo largo de las cinco semanas** (extrínseca β = −,388, p < ,001), un efecto de novedad medido sobre la carga cognitiva y no sobre la implicación ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger y Liening, 2026]]). El punto de diseño es que la retroalimentación aportaba [[personalized-learning|personalización]], señalización, segmentación y estructura de avance a lo largo de 19 indicadores concretos; la superficie del chatbot por sí sola no es el tratamiento.
+
+## Concepciones erróneas
+
+**«El aprendizaje basado en juegos apoyado por IA tiene una base de evidencia sólida.»** La síntesis que respalda la afirmación es grande y delgada a la vez. Una **revisión sistemática de 55 estudios** encuentra efectos positivos sobre el conocimiento, la motivación intrínseca y la implicación afectiva, pero solo **4 estudios (7%) alcanzaron su umbral de alta calidad**. Un efecto positivo agrupado extraído de un corpus en el que el 93% de los estudios queda por debajo del propio listón de calidad de la revisión es una hipótesis con literatura adjunta, no un hallazgo sobre el que diseñar.
+
+**«Los efectos positivos sobre la motivación y el conocimiento se refuerzan mutuamente.»** Se miden por separado y, en la literatura más amplia, se programan por separado: la [[student-engagement|implicación y el logro]] avanzan en calendarios distintos, así que un juego que eleva la motivación intrínseca ha demostrado un resultado. Tratar el resultado motivacional como corroboración del resultado de conocimiento infla un hallazgo de dos partes en uno más fuerte de lo que el diseño respalda.
+
+**«Si un juego implica al estudiantado, el aprendizaje se sigue de la diversión.»** La diversión es el mecanismo de entrega de la repetición que el juego hace tolerable, no el mecanismo de aprendizaje. Un juego que añade implicación sin añadir práctica productiva ha añadido la parte que nunca escaseaba.
 
 ## Conceptos conectados
 - [[educational-robotics]]

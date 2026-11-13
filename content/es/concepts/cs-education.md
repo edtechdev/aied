@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: Enseñanza de la informática
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-12T10:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 > **Educación en ciencias de la computación**: la [[science-education|enseñanza de las ciencias de la computación]] es el subcampo STEM más investigado de la base de conocimiento, beneficiado por la alineación natural entre las herramientas de IA y las tareas de programación. La generación de código, la asistencia en depuración y la revisión automática de código son sus aplicaciones principales de IA. Como los estudiantes aprenden a construir las mismas herramientas que usan, la educación en ciencias de la computación está en el centro de los debates sobre alfabetización en IA, rediseño curricular, ingeniería de software agéntica y la frontera entre el aprendizaje genuino y la [[cognitive-offloading|dependencia excesiva]].
 
-## Preguntas para considerar
+## Preguntas para reflexionar
 
 - Si la IA ya puede escribir código que aprueba exámenes reales de programación, ¿qué deberían seguir aprendiendo a hacer los estudiantes a mano, y qué debería dejar de enseñar el currículo?
 - La [[research-methods-aied|investigación]] encontró que una mayor confianza en un asistente de programación con IA predecía una PEOR capacidad de distinguir las sugerencias correctas de las engañosas. ¿En qué se diferencia la confianza de la dependencia apropiada, y cómo enseñarías esta última?
@@ -70,6 +70,7 @@ ai_assist:
 - **La adopción sigue a la tarea, no al subcampo.** A lo largo de siete tareas y 211 estudiantes, [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] midieron un uso de LLM del 89,6% en algoritmos al 15,2% en ingeniería de software, y atribuyeron la dispersión a la complejidad de la tarea, su verificabilidad y su andamiaje y no a la materia en sí.
 
 - **La retroalimentación puede escalonarse para que el diagnóstico permanezca oculto.** [[educator-guided-llm-pedagogical-agent-2026|Riazi y Rooshenas (2026)]] separan un diagnóstico del esquema de base de datos de un estudiante, anclado en el artefacto, del flujo de trabajo que lo libera, con los docentes escribiendo las etapas; a lo largo de 383 episodios, el 71,1% de la retroalimentación alcanzó su nivel objetivo.
+- **Diecisiete tipos de errores en los requisitos, contados en 211 equipos.** Los errores de prioridad encabezaron la lista (81% de los equipos de grado), y un único prompt de IA generativa sin ejemplos previos igualó o superó a los equipos en alcance, formato de historias, prioridades y esfuerzo ([[spichkova-genai-agile-requirements-2026|Spichkova (2026)]]).
 
 ### Pedagogía de la programación: de los bloques al aprendizaje encarnado y basado en juegos
 
@@ -149,7 +150,7 @@ La educación en ciencias de la computación se conecta con [[computational-thin
 
 - **«El efecto es el mismo en todas las etapas de un curso.»** Creció con el trabajo: en **60 programas Java completos** calificados con una rúbrica de **14 niveles**, el efecto de la etiqueta fue **2,8 veces** su tamaño en respuestas cortas con GPT-4.1-mini y **2,4 veces** con Qwen, aunque solo **0,4 veces** con Gemini. [[porcaro-ai-grader-reliability-2026|La tarea y la rúbrica forman parte de lo que el efecto mide]], así que un tamaño validado con respuestas cortas no se transfiere a programas.
 
-## Concepciones erróneas comunes
+## Concepciones erróneas
 
 - **"Los estudiantes que programan en pareja con IA están aprendiendo a programar."** En la coprogramación entre estudiantes e IA, **casi el 80% de las interacciones se apoyaba en estrategias que no producen aprendizaje, como externalizar las respuestas**, y solo **alrededor de 1 de cada 9 mostraba un compromiso epistémico profundo**. El patrón dominante es transaccionar por un resultado.
 - **"Los agentes conversacionales para principiantes están anclados en la teoría del aprendizaje."** **Solo 4 de 23 estudios anclan el diseño en la [[learning-theories|teoría del aprendizaje]]**, así que la mayor parte de la base de evidencia documenta lo que hizo un sistema sin una teoría de por qué debería funcionar.

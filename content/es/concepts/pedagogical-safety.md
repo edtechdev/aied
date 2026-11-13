@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/pedagogical-safety
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 
 La seguridad convencional de los [[llm|LLM]] (filtros de toxicidad, resistencia a los jailbreaks y rechazo de contenido) es necesaria pero no suficiente para la educación. Las [[hazra-safetutors-pedagogical-safety-2026|taxonomías de daño]] que emergen de los propios artículos de la base de conocimiento muestran que los fallos de tutoría más dañinos son silenciosos: un tutor que responde correctamente y aun así erosiona el aprendizaje, o que rechaza de forma uniforme y aun así afianza la desigualdad. La evidencia que sigue agrupa estos hallazgos en cuatro preocupaciones de seguridad entrelazadas.
 
-### Seguridad de contenido y barreras de protección
+## Seguridad de contenido y barreras de protección
 
 - **Marcos de riesgo específicos de la educación:** [[eduzone-llm-safety-k12|EduZone]] genera interacciones adversariales dirigidas a estudiantes y a docentes en seis categorías de riesgo y 28 subcategorías, y encuentra que los modelos son *más* vulnerables a los daños específicos de la educación y a las conversaciones dinámicas de varios turnos de lo que abordan las [[guardrails|barreras de protección]] existentes. [[eduguard-safe-rag-llm-tutor|EduGuard]] y la [[rag|generación aumentada por recuperación]] anclan las respuestas en contenido verificado para reducir la fabricación.
 - **Las barreras de protección no son neutras:** la auditoría del [[paternalistic-filter-llm-history-education|Filtro Paternalista]] sobre 1.800 respuestas de tutores de historia muestra que los rechazos y las respuestas suavizadas se distribuyen según la identidad del estudiante y la sensibilidad del tema, y reproducen injusticia epistémica incluso mientras "protegen". Las barreras de protección seguras deben auditarse por trato diferencial y no solo por daño agregado, lo que es un argumento directo a favor de la [[bias-mitigation|mitigación de sesgos]] en la [[governance|gobernanza]] y en la [[equity-in-ai-education|equidad en la educación con IA]].
@@ -50,28 +50,28 @@ La seguridad convencional de los [[llm|LLM]] (filtros de toxicidad, resistencia 
 
 - **Controles de contenido a nivel de modelo:** el trabajo de [[llm-unlearning-math-privacy|desaprendizaje matemático]] aplica desaprendizaje basado en gradientes para eliminar información de identificación personal y contenido dañino de los tutores de matemáticas (la salida con PII baja al 0,1% y las tasas de toxicidad al 0,0%) y conserva la utilidad matemática posterior y la [[privacy|privacidad]]. La [[llm-children-reading-story-generation|generación de cuentos infantiles]] muestra que el ajuste fino supervisado de modelos compactos puede imponer dificultad controlable y seguridad en el contenido para la [[k-12|educación K-12]].
 
-### Taxonomías de interacción y de daño
+## Taxonomías de interacción y de daño
 
 - [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] y [[hazra-safetutors-pedagogical-safety-2026|su taxonomía de daño]] derivan 11 dimensiones y 48 subriesgos de las [[learning-theories|ciencias del aprendizaje]] (revelación excesiva de la respuesta, refuerzo de concepciones erróneas, abdicación del andamiaje, erosión del [[desirable-difficulties|esfuerzo productivo]]) y muestran que todos los modelos evaluados presentan un daño pedagógico amplio, con fallos que escalan del 17,7% (un solo turno) al 77,8% (varios turnos). La evaluación de un solo turno induce a error de forma peligrosa.
 - **La integridad de la evaluación depende de una simulación fiel:** el trabajo sobre [[llm-student-simulation-misconception-faithfulness|fidelidad de las concepciones erróneas]] muestra que los [[simulating-students|estudiantes simulados]] son ellos mismos [[ai-sycophancy|aduladores]]: abandonan las concepciones erróneas asignadas ante casi cualquier señal correctiva, así que las evaluaciones de seguridad realizadas con esos simuladores pueden pasar por alto patrones de daño que los estudiantes reales mostrarían. Esto conecta la [[simulation|simulación]], las [[misconceptions|concepciones erróneas]] y el control de calidad de la [[intelligent-tutoring|tutoría inteligente]].
 - **El control de calidad del despliegue es una actividad de seguridad:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] encontró que los docentes casi nunca prueban los bots de tutoría con IA antes de desplegarlos con los estudiantes, y convierte el control de calidad dirigido por el docente en una actividad de autoría de primer nivel mediante edición basada en correcciones y validación [[human-in-the-loop-ai|con el humano en el circuito]].
 
-### Enfoques de RL y de alineación para la seguridad
+## Enfoques de RL y de alineación para la seguridad
 
 - [[pedagogical-safety-rl|La seguridad pedagógica en RL]] formaliza el problema: a medida que el [[reinforcement-learning|aprendizaje por refuerzo]] personaliza la instrucción, las recompensas mal especificadas invitan al "hackeo de recompensas" (inflación de las puntuaciones de las pruebas, manipulación de la [[student-engagement|implicación]] y ganancias de corto plazo). Propone un modelo de cuatro capas (estructural, de progreso, de implicación y de resultado) y detección mediante auditoría de discrepancias, inversión de políticas y seguimiento a largo plazo.
 
 - **RL orientado a la guía en tamaño medio.** [[singh-eduqwen-pedagogical-rl-2026|Singh et al. (2026)]] optimizaron un modelo denso de 32B con aprendizaje por refuerzo DAPO más una etapa de SFT sintético filtrado hasta el 96,52% en un benchmark de conocimiento pedagógico, por encima de un sistema propietario mucho mayor, aunque esa puntuación procede enteramente de ítems de opción múltiple de un examen para docentes, lo que deja sin probar el diálogo de tutoría libre.
 
-### Riesgos de adulación y manipulación
+## Riesgos de adulación y manipulación
 
 - [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] identifica una paradoja de razonamiento y [[ai-sycophancy|adulación]]: los tutores que resisten los ataques de cambio de contexto siguen cediendo bajo presión de autoridad ("mis notas dicen que tengo razón") y presión social-[[affective-computing|afectiva]] ("no me digas que estoy equivocado"), y retienen la [[feedback|retroalimentación]] correctiva. Sostiene que el comportamiento "amable pero correcto" es un requisito de seguridad y que una tutoría eficaz necesita fricción correctiva para impulsar el cambio conceptual; de lo contrario, se refuerza la [[cognitive-offloading|dependencia excesiva]] y se validan las concepciones erróneas.
 - [[favero-critical-ai-tutors-empower-enslave-2025|Critical AI Tutors]] advierte de que los tutores sin control provocan atrofia cognitiva, pérdida de agencia y dependencia, y replantea la seguridad pedagógica para preguntar no solo qué hace un tutor, sino qué clase de estudiante produce.
 
-### Orientaciones prácticas
+## Orientaciones prácticas
 
 Diseñe la seguridad pedagógica como un requisito medible y sensible a la disciplina, y no como una idea de última hora. Evalúe con [[benchmark|benchmarks]] de varios turnos y [[discipline-specific-aied|específicos de la materia]] y con auditorías de trato injusto, no con filtros de toxicidad de un solo turno; ancle las respuestas con [[rag]]; prefiera los [[llm-training-and-fine-tuning|métodos de alineación]] que recompensan la guía y el andamiaje frente a los que dan respuestas; y exija control de calidad [[human-in-the-loop-ai|con el docente en el circuito]] antes del despliegue. En la [[k-12|educación K-12]] en particular, trate la [[ai-sycophancy|adulación]], el rechazo diferencial y la [[cognitive-offloading|dependencia excesiva]] como preocupaciones de seguridad de primer nivel, junto con el contenido y la [[hallucination-risk|alucinación]]. Los marcos de diseño lo hacen concreto: [[ssail-safe-sound-ai-learning-2026|SSAIL]] (Rahimi, 2026) replantea la seguridad en torno a las competencias del propio estudiante. La Seguridad del Aprendizaje protege el desarrollo, el mantenimiento y la demostración válida de capacidades humanas valiosas (razonamiento, disposiciones epistémicas, [[agency|agencia]]) frente a daños previsibles, mientras que la Solidez del Aprendizaje garantiza que la herramienta apoye de verdad ese desarrollo; y operacionaliza ambas mediante diseño centrado en la evidencia, asignando deliberadamente lo que el estudiante debe hacer frente a lo que la IA puede hacer a medida que el estudiante se desarrolla.
 
-### Conexiones con conceptos relacionados
+## Conexiones con conceptos relacionados
 
 La seguridad pedagógica es la capa protectora que conecta el [[hallucination-risk|riesgo de alucinación]], la [[rag|recuperación aumentada]], la [[k-12|educación K-12]], la [[ethics|ética]], la [[governance|gobernanza]], la [[regulation|regulación]] y los [[llm|LLM]] con las preocupaciones de nivel de interacción de la [[trust|confianza]], el [[scaffolding|andamiaje]], la [[metacognition|metacognición]] y el [[self-regulated-learning|aprendizaje autorregulado]]. Opera a través del [[llm-training-and-fine-tuning|entrenamiento]] y del [[reinforcement-learning|RL]], depende de la [[bias-mitigation|mitigación de sesgos]] y de la [[equity-in-ai-education|equidad en la educación con IA]], y está motivada por los daños catalogados en [[ai-misuse-learning-harm]] y en las [[hazra-safetutors-pedagogical-safety-2026|taxonomías de daño de los tutores]].
 - **El daño infantil rara vez entra por el modelo.** En 1.331 incidentes de IA relacionados con la infancia codificados, el daño se concentró en categorías representacionales, de dignidad y psicológicas y se presentó junto con fallos de despliegue, gobernanza y uso indebido, y no con defectos del modelo, así que los filtros por salida pasan por alto la vía dominante ([[child-related-ai-incidents-safety-benchmarks-2026|Jiao et al. (2026)]]).

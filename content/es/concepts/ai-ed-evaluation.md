@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,7 @@ La evaluación de la IA en educación abarca varios objetos de valoración disti
 
 El arco de una década de este campo es en sí mismo un marco: [[xiong-ai-educational-measurement-review-2026|Xiong y Li (2026)]] trazan tres eras —formativa (2015–2018), de expansión (2019–2022) y generativa (2023–presente)— a lo largo de 313 artículos, y sostienen que los constructos y los argumentos de validez deben reescribirse para la [[human-ai-collaboration|colaboración entre personas e IA]], ya que los modelos de [[item-response-theory|TRI]] y de la teoría clásica de los tests se construyeron sobre el desempeño humano sin asistencia.
 
-### Cómo aparece la evaluación de la IA en educación en la investigación
+## Cómo aparece la evaluación de la IA en educación en la investigación
 
 - **Fiabilidad de la salida y verdad de referencia:** [[ground-truth-reliability-aied|Modernizar la verdad de referencia]] sostiene que los problemas de fiabilidad en la evaluación de la IA educativa a menudo se remontan a los propios datos de referencia —las etiquetas de «verdad de referencia» con las que se juzga a los sistemas— y propone cuatro cambios para mejorar la fiabilidad y la validez. [[calibrating-trustworthiness-llm-education-2026|Calibrar la confiabilidad]] codiseña métricas y [[visualization|visualizaciones]] de evaluación con las partes interesadas para que la confianza en una herramienta de IA se apoye en evidencia demostrada e interpretable.
 
@@ -66,7 +66,7 @@ El arco de una década de este campo es en sí mismo un marco: [[xiong-ai-educat
 
 - **La evidencia calificable es una variable de diseño, no una propiedad de la tarea.** [[durable-skills-measurement-ai-teammates-2026|Globerson et al. (2026)]] dejaron que un LLM ejecutivo sostuviera la rúbrica y orientara la conversación hacia la habilidad evaluada, elevando la evidencia calificable al 92,4% en gestión de proyectos y al 85% en resolución de conflictos, mientras que pedir a los participantes que atendieran a la habilidad no cambió nada.
 
-### Por qué es difícil la evaluación de la IA educativa
+## Por qué es difícil la evaluación de la IA educativa
 
 La evaluación de la IA educativa es difícil por varias razones. Primero, **la fiabilidad no basta**: un sistema puede coincidir con una rúbrica y aun así juzgar mal la pedagogía, como muestra la [[machines-misread-pedagogical-quality|investigación sobre alineación entre personas y máquinas]]. Segundo, **la verdad de referencia es discutida**: qué cuenta como respuesta «correcta», calificación o movimiento docente es en sí mismo un juicio que varía entre disciplinas y especialistas, según la [[ground-truth-reliability-aied|modernización de la verdad de referencia]]. Tercero, **la validez educativa es multidimensional**: la [[assessment-validity|validez de la evaluación]], la [[formative-assessment|evaluación formativa]] y la [[authentic-assessment|evaluación auténtica]] imponen criterios distintos que una única métrica de precisión no puede capturar. Por último, **el objetivo no deja de moverse**: la IA agéntica y los modelos [[multimodal|multimodales]] exigen marcos de evaluación ([[agentic-ai|IA agéntica]], [[tool-invariant-framework-agentic-ai|evaluación invariante respecto a la herramienta]]) en lugar de reutilizar puntos de referencia de modelos de texto. Los hallazgos de evaluación también están sujetos a las mismas limitaciones transversales que afectan a toda la investigación sobre IA educativa: envejecen a medida que la IA mejora, dependen de la reproducibilidad y de prácticas FAIR y pueden apoyarse en sistemas propietarios, así que los resultados de evaluación deben leerse con las salvedades de [[limitations-in-aied-research|limitaciones en la investigación sobre IA educativa]]. Una dimensión adicional y emergente es la **sostenibilidad de recursos**: los despliegues locales informan cada vez más del consumo energético y de los requisitos de hardware (por ejemplo, VRAM, mWh por consulta) junto con la precisión —véanse los [[shen-sustainable-ai-knowledge-base-cs-education-2026|asistentes sostenibles de base de conocimiento locales]]—, de modo que una evaluación completa sopesa el coste ambiental y de infraestructura, y no solo la calidad de la salida.
 
@@ -96,11 +96,11 @@ La velocidad de los sistemas que se evalúan es otra restricción. [[ai-tutoring
 
 - **Una escala de dificultad con IA es una ayuda para la evaluación, no una calificación.** Las estimaciones de dificultad con IA siguieron con fuerza la tasa de acierto a nivel de problema (rho = −0,871 en 79 problemas) pero se debilitaron hasta −0,552 en una muestra de 106 problemas de CS101 y se acercaron a cero a nivel de examen, así que esas escalas pertenecen a la revisión de ítems y no a la evaluación del estudiantado ([[llm-difficulty-calibration-programming-exams-2026|Yan et al. (2026)]]).
 
-### Conexiones con conceptos relacionados
+## Conexiones con conceptos relacionados
 
 La evaluación de la IA en educación se sitúa en el centro de los métodos y los riesgos de la base de conocimiento. Operacionaliza la [[assessment-validity|validez de la evaluación]], la [[educational-measurement|medición educativa]] y el [[benchmark|punto de referencia]] dentro de la [[assessment|evaluación]] y la [[automated-assessment|evaluación automatizada]]. Su llamada a la supervisión humana conecta con la [[human-in-the-loop-ai|IA con la persona en el bucle]] y el [[teacher-role|rol docente]], mientras que su atención a la fiabilidad conecta con el [[hallucination-risk|riesgo de alucinación]], la [[automated-assessment|evaluación con IA consciente de la confianza]] y la [[trust-calibration|calibración de la confianza]]. La distinción entre evaluar el rendimiento y evaluar el aprendizaje enlaza con [[genai-performance-vs-learning|rendimiento frente a aprendizaje]] y con el [[student-modeling|modelado del estudiante]]; y la evaluación de agentes pedagógicos conecta con la [[intelligent-tutoring|tutoría inteligente]], el [[llm-training-and-fine-tuning|entrenamiento pedagógico de LLM]] y la [[pedagogical-safety|seguridad pedagógica]].
 
-### Evaluación de las mejoras de aprendizaje
+## Evaluación de las mejoras de aprendizaje
 
 Un objeto central de la evaluación de la IA en educación es la **mejora de aprendizaje**: la mejora medible en conocimiento o habilidad que produce una herramienta de IA (véase [[learning-gains|mejoras de aprendizaje]]). Evaluar las mejoras con rigor exige elegir la medida de resultado adecuada, porque [[genai-performance-vs-learning|el rendimiento y el aprendizaje divergen]]: la IA puede inflar el rendimiento inmediato en tareas asistidas por IA y dejar intacto o reducido el aprendizaje duradero y sin asistencia (véanse [[generative-ai-reduced-study-time-math]] y [[stromberg-generative-ai-learning-penalty-secondary-2026]]). Por eso una evaluación eficaz de las mejoras:
 

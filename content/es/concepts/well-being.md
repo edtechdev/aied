@@ -1,7 +1,7 @@
 ---
 title: Bienestar
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 El bienestar en la educación es multifacético: incluye el bienestar emocional (afecto positivo, malestar bajo), el psicológico (propósito, autonomía, competencia) y el social (pertenencia, relaciones positivas). En la era de la IA, el bienestar importa porque la IA puede remodelar el aprendizaje de formas que afectan a estas dimensiones, desde reducir la confianza del estudiantado y aumentar la ansiedad sobre la [[academic-integrity|integridad académica]] hasta fomentar o socavar la [[student-engagement|implicación]] y la pertenencia. Las preocupaciones sobre el impacto de la IA en las habilidades socioemocionales, el bienestar, la sociabilidad y el sentido de confianza y de empatía del estudiantado (planteadas por la OCDE y otros) han situado el bienestar como una consideración clave en una integración responsable de la IA.
 
-### Cómo aparece el bienestar en la investigación
+## Cómo aparece el bienestar en la investigación
 
 - **[[ai-literacy|Alfabetización en IA]] y aprendizaje socioemocional:** [[sec-ai-literacy-narrative-review-2026|la investigación que integra las competencias socioemocionales en la alfabetización en IA]] sostiene que fomentar la inteligencia emocional y el bienestar del profesorado y del estudiantado es esencial para navegar entornos de aprendizaje [[sociocultural-learning|mediados por IA]], lo que conecta con el [[social-emotional-learning|aprendizaje socioemocional]] y las dimensiones afectivas de la IA.
 
@@ -50,6 +50,11 @@ El bienestar en la educación es multifacético: incluye el bienestar emocional 
 - **La tutoría de apoyo emocional no es automáticamente mejor para el bienestar.** Una capa de atención plena basada en LLM añadida a un tutor de álgebra redujo la ansiedad matemática de estado en ambos brazos, pero no más que las pistas y la retroalimentación puramente cognitivas, aunque el estudiantado valoró al agente consciente como más comprensivo: una advertencia contra leer el cuidado percibido como un resultado de bienestar ([[mindful-llm-math-tutoring-2026|Rief et al., 2026]]).
 
 - **Ansiedad ante la IA, adaptación y dependencia como señales de bienestar:** [[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al. (2026)]] encuentran que la ansiedad ante la IA se relaciona negativamente con la motivación académica en parte a través de una menor [[metacognition|regulación emocional]] (moderada por el género) en una amplia muestra china; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] muestra que quienes aprenden [[language-learning|japonés]] se agrupan en perfiles de adaptación psicológica desadaptativos, moderados y positivos, impulsados por el tecnoestrés y la resiliencia, que se desplazan hacia una mejor adaptación a lo largo de un semestre; y [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] advierte que los correlatos transversales de la implicación con la [[conversational-ai|IA conversacional]] (soledad, ansiedad, bajo bienestar) no deben leerse como consecuencias, y que las experiencias de apoyo y las dañinas coexisten.
+
+**Un ensayo aleatorizado de cuatro semanas encontró que las elecciones de diseño no movieron el bienestar, pero el tiempo sí.** [[fang-chatbot-psychosocial-extended-use-2025|Fang et al. (2025)]] asignaron a 981 personas adultas a una de nueve combinaciones de interfaz (texto, voz neutra, voz atractiva) y tema (abierto, no personal, personal) durante 28 días de uso de GPT-4o. Ninguna de las manipulaciones cambió significativamente la soledad, la socialización en el mundo real, la dependencia emocional ni el uso problemático, lo que constituye la comprobación experimental más sólida hasta la fecha de los correlatos sobre los que Yan advierte. La duración diaria voluntaria predijo los cuatro resultados en la dirección dañina, y las personas usuarias que confiaban en el bot o lo veían como un amigo eran las más dependientes; como la duración no se aleatorizó, la dirección sigue abierta.
+
+**Los datos longitudinales apuntan en la misma dirección, con una advertencia de medición.** [[folk-dunn-chatbot-companionship-loneliness-2026|Folk y Dunn (2026)]] siguieron a 2.149 personas adultas de cuatro países occidentales a lo largo de cuatro encuestas que abarcaron 12 meses. En una medida de aislamiento emocional de un solo ítem, un uso más intenso de chatbots predijo más soledad cuatro meses después (β = 0.07 a 0.08) y la soledad predijo más uso (β = 0.06). En una escala de conexión social de 20 ítems solo se mantuvo la segunda dirección: sentirse menos conectado predijo más uso (β = −0.09 a −0.07), mientras que el uso no predijo significativamente la conexión posterior (p = .369). Los autores califican los análisis de exploratorios, y la divergencia es una razón para medir la soledad de más de una forma.
+
 - **Si el vínculo con la IA protege o daña depende de las relaciones fuera de línea.** [[ai-connectedness-adolescent-mental-health-2026|Fu y Zhao (2026)]] proponen que los efectos en la salud mental siguen a la conectividad con la IA en relación con la conectividad fuera de línea tradicional y no a su intensidad por sí sola —suplementaria cuando los vínculos del mundo real satisfacen las necesidades de confirmación de identidad, compensatoria cuando los [[parents-and-families|cuidadores]] no lo hacen— y predicen una relación en U invertida entre ambas.
 
 - **Apoyo al bienestar culturalmente [[situated-learning|situado]] y sus límites:** [[culturally-aware-student-stress-chatbot-2026|Bashir y Afzal (2026)]] describen Sukoon, un sistema híbrido de bienestar para estudiantes universitarios paquistaníes que combina un clasificador de estrés con Random Forest (89,09% de precisión en tres niveles de gravedad; 20 características de encuesta) con una capa de diálogo basada en [[llm|LLM]] que escala el tono y la intensidad del apoyo en tres niveles conforme al modelo de atención escalonada. Se construyó porque las herramientas de salud mental diseñadas en Occidente están en inglés y son culturalmente inadecuadas para estudiantes que expresan su malestar en urdu o en urdu romanizado y que afrontan a la vez factores de estrés académicos, económicos, familiares y relacionales; los autores son explícitos en que no es una herramienta [[medical-education|clínica]] de diagnóstico ni de terapia, en que las respuestas de alto malestar apuntan hacia un asesoramiento profesional y en que la capa de chatbot aún no se ha evaluado con estudiantes en cuanto a adecuación cultural o seguridad emocional.
@@ -64,7 +69,7 @@ Un modelo de ecuaciones estructurales con 502 docentes universitarios encontró 
 
 - **La ansiedad ante los detectores como riesgo para el bienestar.** [[sovereign-hive-titl-further-education-2026|Herron (2026)]] nombra la «flagxiety» —la ansiedad inducida por el temor a acusaciones poco fiables de [[ai-detection|detectores de IA]]— y sostiene que el estudiantado marginado de educación postobligatoria, cuya singularidad cognitiva puede leerse como conducta indebida, necesita regulación relacional en lugar de una interfaz no regulada que puede desencadenar un bloqueo cognitivo.
 
-### El bienestar como consideración de diseño
+## El bienestar como consideración de diseño
 
 Un tema recurrente es que el bienestar debería ser una consideración de diseño deliberada en la IA en la educación, y no algo secundario. Esto significa: diseñar la IA para apoyar y no sustituir las relaciones humanas; garantizar que el estudiantado pueda mantener su agencia y su confianza en lugar de experimentar [[anxiety-and-stress|ansiedad inducida por la IA]] o dependencia excesiva; apoyar la capacidad y el bienestar del profesorado a medida que integra la IA; y [[ai-ed-evaluation|evaluar]] los sistemas de IA no solo por sus [[learning-gains|resultados de aprendizaje]] sino también por sus efectos en el bienestar del estudiantado y del profesorado. La [[research-methods-aied|investigación]] conecta el bienestar con la [[motivation|motivación]], el [[self-regulated-learning|aprendizaje autorregulado]] y la [[student-experience|experiencia del estudiantado]] (pertenencia e implicación). [[daoism-ai-education-philosophy-2026|Xie (2026)]] aboga por un telos educativo a la altura: el contraideal daoísta del «Zhenren» (真人) sustituye la optimización sin fricción por la «plenitud cultivada», reimaginando el aprendizaje como la integración armoniosa del yo, la sociedad y el cosmos, e insistiendo en que «ningún estudiante es solo un conjunto de datos que gestionar, sino un ser completo capaz de alcanzar la ecuanimidad».
 
@@ -72,7 +77,7 @@ Un tema recurrente es que el bienestar debería ser una consideración de diseñ
 
 Un replanteamiento conceptual ancla el apoyo a la [[self-regulated-learning|regulación emocional]] en la actividad física y la ecología del campus y no en la detección del afecto por sí sola: ningún canal expresivo aislado identifica el malestar sin contexto, así que la IA debería apoyar la regulación mediante el ejercicio mientras docentes y orientadores conservan la interpretación, y la monitorización del afecto se vuelve coercitiva una vez que se ata a la asistencia o a la calificación ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]]).
 
-### Conexiones con conceptos relacionados
+## Conexiones con conceptos relacionados
 
 El bienestar se conecta con la [[student-experience|experiencia del estudiantado]] (como dimensión de la experiencia global de quien aprende), el [[social-emotional-learning|aprendizaje socioemocional]] y la [[affective-computing|computación afectiva]] (las competencias emocionales con las que se cruza la IA), la [[ethics|ética]] (como consideración ética central), la [[motivation|motivación]] y el [[self-regulated-learning|aprendizaje autorregulado]] (el bienestar los sostiene y se sostiene en ellos), la [[teacher-ai-competency|competencia del profesorado en IA]] (la capacidad y el bienestar de los educadores), y la [[higher-ed|educación superior]] y la [[k-12]] como los entornos donde la IA da forma al bienestar.
 
@@ -126,3 +131,5 @@ El apoyo emocional y la conexión pueden ir en direcciones opuestas dentro de un
 - [[ai-emotion-regulation-sport-exercise-2026]] — Replanteamiento conceptual de la regulación emocional apoyada por IA a través del deporte, el ejercicio y la ecología del campus
 - [[faculty-ai-well-being-social-supports-2026]] — Modelo de ecuaciones estructurales del bienestar docente con IA: la alfabetización en IA domina sobre la autoeficacia
 - [[mulvenon-test-anxiety-ai-accountability-2026]] — La ansiedad ante las pruebas se redistribuye, no se elimina
+- [[fang-chatbot-psychosocial-extended-use-2025]] — Cuatro semanas, nueve condiciones, ningún efecto significativo en los resultados; la duración voluntaria siguió al daño (Fang et al. 2025)
+- [[folk-dunn-chatbot-companionship-loneliness-2026]] — Doce meses, cuatro olas: el uso predijo el aislamiento en un solo ítem y la soledad predijo el uso en ambos (Folk y Dunn 2026)

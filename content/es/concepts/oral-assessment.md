@@ -1,7 +1,7 @@
 ---
 title: Evaluación oral
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -14,7 +14,7 @@ level: [higher ed]
 confidence: medium
 connected_resources: [code-viva]
 translation_of: concepts/oral-assessment
-source_updated: "2026-11-09T10:25:00-05:00"
+source_updated: "2026-11-12T13:35:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,8 @@ Ese giro es ahora visible en todo el corpus de investigación, pero de forma des
 [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]] presenta la forma más fuerte del argumento. Partiendo de la literatura sobre la [[authentic-assessment|evaluación auténtica]], el caso que el artículo hace a favor del examen oral se apoya en su interactividad: las preguntas pueden retenerse hasta el momento del examen, las preguntas de seguimiento pueden improvisarse y quien aprende no puede ensayar una respuesta a una pregunta que no ha visto. El formato también bloquea la memorización mecánica, porque el recuerdo se comprueba mediante la explicación y no mediante la reproducción. El artículo es una revisión y una toma de posición en *Educational Researcher*, no un estudio empírico, y termina con trece recomendaciones de implementación numeradas en lugar de con evidencia de mejores resultados.
 
 La versión honesta de la afirmación sobre la integridad es más estrecha de como se formula a menudo. Los exámenes orales hacen que la sustitución sea más difícil de ocultar; el corpus no muestra que reduzcan el uso de IA. En [[code-review-genai-cs1|el estudio de revisión oral de código en CS1]], las entrevistas semanales de quince minutos cargaban con el setenta por ciento de la nota de cada tarea, y los caracteres pegados sobre el total siguieron subiendo del 61,0% al 68,1% (p < 0,0001) a lo largo de tres semestres, mientras que las notas de examen variaron un dos por ciento estadísticamente no significativo. El noventa por ciento del estudiantado dijo que las revisiones le motivaron a entender mejor su código y el sesenta y cinco por ciento que le ayudaron a evitar la dependencia excesiva de la IA, pero la conducta medida no acompañó. La evaluación oral cambió lo que podía ocultarse, no lo que hizo el estudiantado.
+
+La versión acotada de esa salvaguarda aparece en el modelo de evaluación de Webb-Davies, Ratner y Bassett, donde un oral se activa solo cuando quien evalúa no puede reconstruir un vínculo plausible entre una línea base de razonamiento observada y el trabajo final entregado. Los autores son explícitos en que no se trata de un oral rutinario: pregunta cómo se desarrolló una posición o por qué se eligió una evidencia, y una explicación confirmada no conlleva penalización. El diseño mantiene la evaluación oral lo bastante rara como para ser escalable, a la vez que reconoce que el juicio en sí no puede automatizarse ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
 
 ## El espacio de diseño que cubre realmente el corpus
 
@@ -125,3 +127,4 @@ La justificación de integridad del oral también tiene fecha de caducidad: [[co
 - [[assessment-feedback-trilemma-model-2026]] — No concede a ningún formato una posición fija y reencuadra la viabilidad como prioridad educativa
 - [[onodipe-enhance-not-replace-ai-classroom-2026]] — Orales por parejas con andamiaje de IA como solución de programación en un curso de estadística empresarial
 - [[deng-certification-consultation-university-teaching-2026]] — La enseñanza universitaria tras la IA generativa: más allá de las clases y la indagación, hacia un paradigma de certificación y consulta en el que el estudiantado se convierte en evaluador
+- [[webb-davies-voice-first-written-assessment-2026]] — Una evaluación escrita en dos etapas que asegura el razonamiento bajo observación antes de calificar un trabajo elaborado en casa, con una viva condicional para los vínculos poco claros (Webb-Davies, Ratner y Bassett, 2026)

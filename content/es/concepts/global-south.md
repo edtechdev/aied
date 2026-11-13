@@ -1,7 +1,7 @@
 ---
 title: Sur global
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,11 +34,11 @@ ai_assist:
 
 ## Introducción
 
-### Por qué importa para el AIED
+## Por qué importa para el AIED
 
 La investigación convencional sobre IA y tecnología educativa ha estado históricamente dominada por conjuntos de datos y contextos [[governance|institucionales]] occidentales y en inglés. Esto crea dos problemas: (1) los [[ai-technologies|sistemas de IA]] entrenados con esos datos pueden rendir por debajo o representar mal a quienes aprenden en entornos del Sur global, y (2) las [[benchmark|pruebas de referencia]] de evaluación construidas en el Norte global pueden no reflejar las realidades educativas, las lenguas o las tradiciones de conocimiento de otras regiones. La investigación procedente de contextos del Sur global en esta base de conocimiento abarca conjuntos de datos culturalmente anclados, pruebas de referencia y estudios de adopción tecnológica, con implicaciones para la [[ai-literacy|alfabetización en IA]] y para la educación [[higher-ed|superior]] y [[k-12|K-12]].
 
-### Aplicaciones en la base de conocimiento
+## Aplicaciones en la base de conocimiento
 
 - **Datos y pruebas de referencia culturalmente anclados:** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] aporta un conjunto de datos de instrucciones sobre sistemas de conocimiento indios [[multilingual-learning|multilingüe]]; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] introduce una prueba de referencia de [[stem-education|STEM]] con base en Ghana, una de las primeras pruebas de evaluación educativa del Sur global.
 - **Conciencia ética sobre la IA en la educación superior ghanesa:** [[ai-ethical-awareness-ghana-students-2026|Acquah et al. (2026)]] validaron una escala de conciencia ética sobre la IA de tres factores (autonomía, beneficencia y justicia) con 509 estudiantes [[higher-ed|universitarios]] de Ghana, encontrando cinco perfiles latentes que van desde una conciencia uniformemente muy alta hasta un pequeño grupo con casi ninguna — el más débil en beneficencia — y sin diferencias de género, lo que aporta un anclaje de medición del Sur global para la literatura sobre [[ethics|ética]] de la IA.
@@ -53,7 +53,7 @@ La investigación convencional sobre IA y tecnología educativa ha estado histó
 - **Evidencia de evaluación escasa y específica de herramientas en la educación superior africana:** [[genai-assessment-african-higher-education-review-2026|Una revisión sistemática PRISMA 2020]] de la investigación empírica publicada entre 2023 y 2025 localizó solo diez estudios, concentrados en Nigeria y Sudáfrica y realizados casi exclusivamente con ChatGPT, de modo que lo que se sabe sobre rediseñar la evaluación para la IA generativa en la educación superior africana se apoya en estudios de muestra pequeña, de una sola institución y [[self-report-measures|autoinformados]], y no en [[learning-gains|ganancias de aprendizaje]] medidas; los autores de la revisión enmarcan sus recomendaciones como orientaciones y no como efectos establecidos.
 - **La equidad es la dimensión menos estudiada de toda la región.** Una [[meta-analysis-systematic-review|revisión de alcance]] PRISMA-ScR de 75 estudios del Sur global (2022–2025) encontró que la equidad era la menos examinada de sus cinco áreas pese a su centralidad para la educación inclusiva, e informó de una brecha entre las posiciones éticas declaradas del estudiantado y su comportamiento ([[nguyen-genai-global-south-review-2026|Nguyen y Perkins, 2026]]).
 
-### Implicaciones
+## Implicaciones
 
 Atender a los contextos del Sur global exige ir más allá de dar por supuesto que los modelos y las pruebas de referencia occidentales se transfieren directamente. Requiere conjuntos de datos anclados localmente, [[pedagogy|pedagogía]] culturalmente relevante, estándares de evaluación centrados en la comunidad e investigación que trate las epistemologías vividas y comunitarias de quienes aprenden como algo con autoridad, en línea con marcos como el aprendizaje comunitario de la IA y la investigación sobre el [[technology-acceptance-model|modelo de aceptación tecnológica]] adaptada a las condiciones locales.
 

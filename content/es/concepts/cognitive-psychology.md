@@ -1,13 +1,13 @@
 ---
 title: Psicología cognitiva
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-12T14:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -81,6 +81,8 @@ Un experimento de 2026 da al lado de la memoria de esa frontera un modo de fallo
 3. **Respetar los límites de la memoria de trabajo.** Aplicar la Teoría de la Carga Cognitiva a la experiencia de usuario con IA: reducir la carga extrínseca (fricción, interfaces sobrecargadas) preservando el procesamiento pertinente ([[desirable-difficulties|esfuerzo productivo]], práctica de recuperación) en lugar de minimizar toda demanda cognitiva.
 4. **Calibrar la metacognición.** Como la [[metacognition]] gobierna cuándo eligen las personas descargar, enseñar la calibración (saber qué puede hacer uno de verdad sin ayuda) es una respuesta cognitivista a la dependencia excesiva (véase [[cognitive-offloading]]).
 
+El desarrollo queda fuera del alcance de esta página: los mecanismos aquí descritos se tratan como estables, mientras que la [[developmental-psychology|psicología del desarrollo]] pregunta cómo cambian con la edad y qué implica eso para un uso de la IA ajustado a cada franja de edad.
+
 ## Concepciones erróneas
 
 - **«Las representaciones mentales son inobservables, así que las afirmaciones cognitivas sobre el aprendizaje son supuestos.»** Reconstruir imágenes a partir del **EEG** de quienes aprendían durante vídeos de ciencias encontró que **la fidelidad de la representación seguía el rendimiento en el test** (coeficiente de regresión **0,8481; R² = 0,79**). La premisa cognitivista de la representación interna es medible, y la medición predijo el resultado.
@@ -101,6 +103,8 @@ Un experimento de 2026 da al lado de la memoria de esa frontera un modo de fallo
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[item-response-theory]]
+- [[developmental-psychology]]
+- [[longitudinal-research]]
 - [[distributed-cognition]]
 - [[icap-framework]]
 - [[transfer-of-learning]]

@@ -1,14 +1,14 @@
 ---
 title: Seguimiento del conocimiento
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,7 +51,7 @@ ai_assist:
 
 El seguimiento del conocimiento transforma las respuestas brutas a los ejercicios en estimaciones de lo que un estudiante ha dominado y de lo que todavía necesita aprender. A diferencia del simple registro de la corrección, el seguimiento del conocimiento modela la dinámica temporal del aprendizaje: cuándo se adquiere el conocimiento, cuándo se deteriora y cómo se relacionan los conceptos entre sí.
 
-### Enfoques representados en la base de conocimientos
+## Enfoques representados en la base de conocimientos
 
 - **Enfoques bayesianos:** [[stanbkt-bayesian-knowledge-tracing]] estandariza las implementaciones de BKT, mientras que [[mbp-kt-meta-behavioral-knowledge-tracing]] incorpora señales metacomportamentales
 - **Los parámetros de la BKT como medidas de resultado de una intervención:** [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et al. (2026)]] ajustaron un seguimiento bayesiano del conocimiento condicionado por señales a 19.952 puntos de datos de 688 estudiantes de sexto grado, de modo que los parámetros de adivinación, desliz, aprendizaje y olvido se convirtieron en las medidas de resultado de una intervención matemática con señales perceptivas. Las señales congruentes elevaron la adivinación y redujeron el desliz, un andamiaje inmediato, mientras que la condición de color incongruente mostró la firma de la dificultad deseable, con una adivinación de 0,190 pero la tasa de aprendizaje más alta (0,0379) y la tasa de olvido más baja (0,0054) de las nueve condiciones. Las clasificaciones de las condiciones de señal basadas en la BKT coincidieron con las basadas en el comportamiento en cinco de las ocho condiciones, lo que respalda los parámetros como una lente sobre el dilema de la asistencia.
@@ -69,7 +69,7 @@ El seguimiento del conocimiento transforma las respuestas brutas a los ejercicio
 - **Seguimiento solo con instantáneas.** [[skill-acquisition-without-temporal-info|Nagai et al. (2026)]] inducen un orden pseudotemporal a partir de las relaciones de inclusión entre los conjuntos de habilidades de quienes aprenden, tratando los conjuntos de habilidades en expansión como progresión de aprendizaje, de modo que las instantáneas de un único momento siguen siendo trazables; pero la formulación supone que las habilidades nunca se pierden, así que los despliegues para quienes aprenden y experimentan regresión necesitan primero un mecanismo explícito de olvido.
 - **La granularidad de los componentes de conocimiento es en sí misma una decisión de modelado.** [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny y Meurers (2026)]] compararon 19 modelos de componentes de conocimiento en 11 niveles de una jerarquía de tutoría de lenguas sobre 153.819 respuestas de primer intento de 1.059 estudiantes de séptimo grado. El ganador depende del objetivo de predicción: la identificación fina Actionable Element ID lideró la predicción bloqueada por estudiante (RMSE 0,4083), mientras que la Property ID fundamentada semánticamente más el tipo de ejercicio lideró la predicción bloqueada por ítem (RMSE 0,4243). Los identificadores finos también mostraron tasas de aprendizaje medias cercanas a cero (Actionable Element ID 0,000).
 
-### Relación con otros conceptos
+## Relación con otros conceptos
 
 El seguimiento del conocimiento está estrechamente relacionado con el [[student-modeling]] — mientras que el seguimiento del conocimiento modela específicamente el conocimiento cognitivo a lo largo del tiempo, el modelado del estudiante es la práctica más amplia de representar todos los aspectos de una persona que aprende (el estado [[affective-computing|afectivo]], la [[student-engagement|implicación]], las preferencias). El seguimiento del conocimiento alimenta los sistemas de [[adaptive-learning]] y de [[personalized-learning]] que necesitan saber qué enseñar después, y las plataformas de [[intelligent-tutoring]] que usan las estimaciones de dominio para seleccionar los problemas adecuados. Conecta con la [[learning-analytics]] para el diseño de paneles e intervenciones, y con el [[cognitive-diagnosis]] para la [[assessment]] detallada de habilidades. Las construcciones del seguimiento del conocimiento también informan a los [[simulating-students|estudiantes simulados]]: el estado cognitivo de un estudiante simulado suele formalizarse con la misma dinámica de dominio y deterioro que modela el seguimiento del conocimiento, de modo que la [[simulation]] es una forma de *generar* los estados de conocimiento que los métodos de seguimiento normalmente *infieren* a partir de datos de respuesta reales.
 
@@ -86,16 +86,6 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 **Una advertencia de capacidad: los modelos de lenguaje generales rastrean el conocimiento apenas por encima de una línea base trivial.** [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et al. (2026)]] publicaron FoundationalASSIST, que restaura el texto completo de las preguntas, las respuestas que el estudiantado dio de verdad y sus elecciones de distractores que los conjuntos de datos de seguimiento anteriores descartaban, y pusieron a prueba cuatro [[llm|LLM]] de frontera como trazadores sin ejemplos previos. El mejor, GPT-OSS-120B, alcanzó un 56,2% frente al 51,3% que ya puntúa una regla que siempre predice «correcto» (AUC-ROC de 0,559), sin mejora con historiales más largos, y Llama-3.3-70B acertó el 85,4% de las veces que un estudiante respondía correctamente, pero solo el 12,6% cuando se equivocaba, una prueba de que un modelo de catálogo rastrea optimismo más que comprensión, de modo que la aparente habilidad de un trazador debe leerse frente a la línea base trivial que su tarea permite.
 
 - **Un LLM de una sola pasada puede rastrear el conocimiento antes de que se registre ninguna persona que aprenda.** Consultado como una única pregunta tipada, sin datos de la plataforma objetivo, Jev alcanzó un AUC medio de 0,706, por encima del mejor de 28 modelos de seguimiento profundo entrenados con 8 personas que aprenden (0,689), y por delante hasta que el seguimiento supervisado lo alcanza con 64–128 personas que aprenden ([[system-one-llm-knowledge-tracing-2026|Lee y Park, 2026]]).
-
-## Concepciones erróneas comunes
-
-**«Una etiqueta de dominio significa que quien aprende lo sabe.»** El dominio no es la corrección: quien aprende puede parecer que domina algo y, aun así, aplicar mal una habilidad de forma sistemática siempre que se vulnera una condición oculta, y el valor de la etiqueta depende de la regla de recuento que hay detrás. Otorgar crédito a las compleciones declaradas marcó como dominados el **93,9% de 113.428 pares estudiante-habilidad** frente al **72,8%** con una regla estricta, y los pares que la regla indulgente declaraba por delante alcanzaron solo un **70,9% de precisión sin ayuda**. Dos reglas defendibles produjeron una diferencia de 21 puntos en quién se declaraba preparado.
-
-**«Los modelos de secuencia son lo que hace exacto el seguimiento.»** Buena parte de la ganancia aparente es más barata que eso. Sobre 1.927.265 respuestas de matemáticas de 8.996 estudiantes finlandeses, la identidad del ítem por sí sola alcanzó un **AUC de 0,8362**, y añadir una única medida de recencia relativa a la dificultad del ítem la elevó a **0,866**. Una parte importante de lo que compran los modelos de secuencia profundos está disponible con una línea base de dificultad de ítem más la recencia, así que las comparaciones de arquitectura necesitan esa línea base para ser significativas.
-
-**«El mejor modelo en un conjunto de datos es el mejor modelo para su curso.»** La exactitud depende del entorno. OKT alcanzó un **89,81% de AUC** con datos reales de LMS de un programa de [[engineering-education|ingeniería]] (2.416 estudiantes, 966 resultados), por encima de DKT, DKVMN, EKT y SimpleKT, mientras que en ASSISTments solo dio resultados competitivos. La misma arquitectura que gana en una familia de conjuntos de datos es discreta en otra, de modo que un AUC llamativo de otro contexto es evidencia débil sobre su estudiantado.
-
-**«El conocimiento persiste salvo que haya evidencia de olvido.»** El olvido es el valor por defecto que merece modelarse. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan y Carvalho (2025)]] ajustaron la BKT, la BKT con olvido y el modelo de factores aditivos a lo largo de una secuencia de varias sesiones y hallaron que el ajuste del modelo cambia cuando se representa la retención, y que la forma de *validar* estos modelos difiere de la forma de *desplegarlos*.
 
 ## Implicaciones para la práctica
 
@@ -115,6 +105,16 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 
 - Informe resultados en más de una familia de conjuntos de datos antes de afirmar superioridad arquitectónica, ya que el contraste de OKT se invierte entre los datos de LMS de ingeniería y ASSISTments.
 - Informe la regla de recuento de dominio como un parámetro del resultado, no como una nota metodológica.
+
+## Concepciones erróneas comunes
+
+**«Una etiqueta de dominio significa que quien aprende lo sabe.»** El dominio no es la corrección: quien aprende puede parecer que domina algo y, aun así, aplicar mal una habilidad de forma sistemática siempre que se vulnera una condición oculta, y el valor de la etiqueta depende de la regla de recuento que hay detrás. Otorgar crédito a las compleciones declaradas marcó como dominados el **93,9% de 113.428 pares estudiante-habilidad** frente al **72,8%** con una regla estricta, y los pares que la regla indulgente declaraba por delante alcanzaron solo un **70,9% de precisión sin ayuda**. Dos reglas defendibles produjeron una diferencia de 21 puntos en quién se declaraba preparado.
+
+**«Los modelos de secuencia son lo que hace exacto el seguimiento.»** Buena parte de la ganancia aparente es más barata que eso. Sobre 1.927.265 respuestas de matemáticas de 8.996 estudiantes finlandeses, la identidad del ítem por sí sola alcanzó un **AUC de 0,8362**, y añadir una única medida de recencia relativa a la dificultad del ítem la elevó a **0,866**. Una parte importante de lo que compran los modelos de secuencia profundos está disponible con una línea base de dificultad de ítem más la recencia, así que las comparaciones de arquitectura necesitan esa línea base para ser significativas.
+
+**«El mejor modelo en un conjunto de datos es el mejor modelo para su curso.»** La exactitud depende del entorno. OKT alcanzó un **89,81% de AUC** con datos reales de LMS de un programa de [[engineering-education|ingeniería]] (2.416 estudiantes, 966 resultados), por encima de DKT, DKVMN, EKT y SimpleKT, mientras que en ASSISTments solo dio resultados competitivos. La misma arquitectura que gana en una familia de conjuntos de datos es discreta en otra, de modo que un AUC llamativo de otro contexto es evidencia débil sobre su estudiantado.
+
+**«El conocimiento persiste salvo que haya evidencia de olvido.»** El olvido es el valor por defecto que merece modelarse. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan y Carvalho (2025)]] ajustaron la BKT, la BKT con olvido y el modelo de factores aditivos a lo largo de una secuencia de varias sesiones y hallaron que el ajuste del modelo cambia cuando se representa la retención, y que la forma de *validar* estos modelos difiere de la forma de *desplegarlos*.
 
 ## Conceptos conectados
 
@@ -137,7 +137,7 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 - [[student-support-and-success]] — estimación detallada del dominio que alimenta las decisiones de apoyo
 
 ## Artículos conectados
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Sobre-generalización engañosa: el dominio adaptativo puede detener la práctica antes de que quienes aprenden sepan cuándo abstenerse de una acción (An, McLaren y Stamper 2026)
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — La sobregeneralización engañosa: la adaptación basada en el dominio puede detener la práctica antes de que quien aprende sepa cuándo abstenerse de una acción (An, McLaren y Stamper, 2026)
 - [[huang-interpretable-knowledge-tracing-2026]]
 - [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
 - [[skill-acquisition-without-temporal-info]]
@@ -146,8 +146,8 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 - [[graph-its-adaptive-algorithms-2026]] — Tutoría inteligente basada en grafos para dominios dinámicos (2026)
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Seguimiento del conocimiento basado en resultados con mapeo de afinidad
 - [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — seguimiento fundamentado semánticamente con estados calibrados por componentes de conocimiento, usado como entorno de RL para la recomendación
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: un tutor agéntico que aprende de su estudiante en un bucle de coaprendizaje humano-IA
-- [[crediting-assisted-work-inflates-mastery-2026]] — Qué regla de evidencia decide una afirmación de dominio (Srivastava 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — Un LLM de una sola pasada rastrea el conocimiento por encima de los modelos profundos entrenados con 8 personas que aprenden, a una fracción del coste (Lee y Park 2026)
-- [[knowledge-tracing-compression-math-2026]] — Comprimir el historial del estudiante en el seguimiento del conocimiento en matemáticas
+- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — seguimiento fundamentado semánticamente con estados calibrados por componente de conocimiento, usado como entorno de aprendizaje por refuerzo para la recomendación
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: un tutor agéntico que aprende de quien aprende en un bucle de coaprendizaje humano-IA
+- [[crediting-assisted-work-inflates-mastery-2026]] — Qué regla de evidencia decide una afirmación de dominio (Srivastava, 2026)
+- [[system-one-llm-knowledge-tracing-2026]] — Un LLM de una sola pasada rastrea el conocimiento por encima de modelos profundos entrenados con 8 estudiantes, a una fracción del coste (Lee y Park, 2026)
+- [[knowledge-tracing-compression-math-2026]] — Compresión del historial del estudiantado en el seguimiento del conocimiento en matemáticas

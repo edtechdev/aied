@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje socioemocional
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -43,6 +43,8 @@ ai_assist:
 El aprendizaje socioemocional está estrechamente relacionado con la inteligencia emocional (IE), pero es distinto de ella: el SEL o las competencias socioemocionales (SEC) abarcan la capacidad de sincronizar pensamientos, emociones y acciones para lograr interacciones positivas, mientras que la IE es la capacidad de una persona para procesar información emocional (conceptualizada mediante modelos de habilidad —razonamiento y [[problem-solving|resolución de problemas]]— o modelos de rasgo —disposiciones y conductas emocionales). En la era de la IA, el SEL importa porque la IA puede remodelar el aprendizaje de formas que afectan al desarrollo relacional y emocional del estudiantado, y porque el personal educativo necesita tanto habilidad tecnológica como inteligencia emocional para apoyar a quienes aprenden con eficacia.
 
 ### Cómo aparece el SEL en la investigación
+
+- **La empatía es el borde afectivo del SEL y lo más difícil de evaluar.** La página sobre la [[empathy|empatía]] reúne la evidencia sobre su enseñanza y medición: el juego de roles, la realidad virtual y el diálogo con LLM elevan las puntuaciones autoinformadas, las valoraciones de los observadores se mantienen coherentes y los indicadores de visión artificial se invierten ante la sonrisa. Es la página que conviene leer antes de tomar una ganancia de empatía como prueba de que un programa funcionó.
 
 - **Integrar las competencias socioemocionales en la alfabetización en IA:** [[sec-ai-literacy-narrative-review-2026|la revisión narrativa de Palmquist et al.]] propone un marco integrado que combina la alfabetización en IA con las competencias socioemocionales, y sostiene que la competencia técnica por sí sola es insuficiente: el personal educativo y el estudiantado necesitan tanto inteligencia tecnológica como emocional para desenvolverse en entornos de aprendizaje mediados por IA, fomentando el [[personalized-learning|aprendizaje personalizado]], la colaboración y una [[student-engagement|implicación]] ética.
 

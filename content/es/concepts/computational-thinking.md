@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 
 ## Introducción
 
-### El pensamiento computacional en un aula de la era de la IA
+## El pensamiento computacional en un aula de la era de la IA
 
 Los artículos conectados de la base de conocimiento convergen en una afirmación central: el pensamiento computacional (PC) es la base conceptual que el estudiantado necesita para implicarse críticamente con la IA, y es también la habilidad que más directamente profundiza un aprendizaje bien diseñado y apoyado por IA. A continuación, la evidencia se agrupa en cuatro temas basados en los artículos vinculados.
 
@@ -52,7 +52,7 @@ Al automatizarse la implementación, las competencias duraderas cambian: un info
 
 - **Un instrumento validado localiza dónde el PC es más difícil.** Una prueba de pensamiento computacional de 34 ítems construida con Diseño Centrado en la Evidencia y validada mediante teoría de respuesta al ítem en 461 estudiantes de programación con IA concentró la dificultad en la representación de datos, la secuenciación de operadores lógicos y las estructuras de bucle en lugar de repartirla uniformemente por el temario ([[zhang-ct-ai-training-test-2026|Zhang y Zhang (2026)]]).
 
-### El PC y el giro de consumidores de IA a productores, creadores y diseñadores
+## El PC y el giro de consumidores de IA a productores, creadores y diseñadores
 
 Un objetivo central del PC en la era de la IA es llevar al estudiantado y al profesorado más allá del *consumo pasivo* de las salidas de IA hacia *crear, construir y diseñar* con la IA y para la IA, una agenda que alinea el PC con el aprendizaje construccionista (aprender haciendo). Los artículos conectados de la base de conocimiento hacen cada vez más explícito este giro hacia el productor, el creador y el diseñador. [[ai-writes-code-student-writes-model-2026|La investigación sobre autoría de modelos]] reformula el aprendizaje por construcción con IA generativa como un proceso medible de «autoría de modelos»: el estudiantado crea, depura e itera modelos de IA en lugar de limitarse a consumir código o respuestas generados por IA. [[code-to-learn-genai-artifact-construction-2026|El marco CtL-GenAI]] lo operacionaliza como [[constructivist|construccionismo]] para la era de la IA generativa, tratando los artefactos que el estudiantado construye con IA como el motor del desarrollo del PC. [[computational-thinking-ai-agent-creation|El PC a través de la creación de agentes de IA]] muestra que diseñar agentes de IA, y no solo usarlos, ejercita directamente la descomposición, la abstracción y el razonamiento algorítmico.
 
@@ -62,11 +62,11 @@ La consecuencia práctica es que la enseñanza del PC debería diseñarse para q
 
 Reutilizar modelos ajenos forma parte de la postura del productor: implementar un modelo de IA ya publicado —seleccionarlo, instalarlo, ejecutarlo y validarlo— puede enseñarse como una habilidad estructurada y aprendible, con una ruta alternativa para cada fallo previsto, y tres estudiantes de grado de [[chemistry-education|química]] sin formación en programación reprodujeron y ampliaron un modelo de predicción de interacciones enzima-sustrato en cuatro meses ([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
-### Orientaciones prácticas
+## Orientaciones prácticas
 
 Para el profesorado, el mensaje constante es que el PC se desarrolla mediante una implicación *explícita, andamiada y observable* y no mediante un uso pasivo de la IA. Combine la robótica con un mapeo explícito de los conceptos de PC al currículo; use los LLM para la [[simulation|simulación]], el control en lenguaje natural y la evaluación escalable del desarrollo del PC, reservando el juicio humano para constructos como el pensamiento sistémico; y rediseñe las evaluaciones para dar más peso a la evaluación y el diagnóstico de la salida de la IA que a la generación bruta. Sea cual sea el contexto —el juego desconectado en la primera infancia, los robots en la [[stem-education|educación STEM]] secundaria o los tutores virtuales en la [[higher-ed|educación superior]]—, estructure la actividad para que el estudiantado tenga que razonar sobre descomposición, patrones, abstracción y algoritmos en lugar de recibir soluciones acabadas.
 
-### Conexiones con conceptos relacionados
+## Conexiones con conceptos relacionados
 
 El pensamiento computacional es el fundamento cognitivo compartido que subyace a la [[ai-literacy|alfabetización en IA]] y al [[critical-thinking|pensamiento crítico]], el núcleo curricular de la [[cs-education|enseñanza de la informática]] y de la informática en [[k-12|K-12]], y el objetivo conceptual al que mejor sirven [[educational-robotics|la robótica educativa]], el [[game-based-learning|aprendizaje basado en juegos]] y el [[project-based-learning|aprendizaje basado en proyectos]]. Lo profundizan los [[llm|grandes modelos de lenguaje]] y la [[generative-ai|IA generativa]] cuando se usan como herramientas de andamiaje, y es la habilidad que las taxonomías de ideas erróneas del estudiantado y las evaluaciones conscientes del PC pretenden medir. El profesorado lo desarrolla mediante la [[teacher-education|formación docente]] y la [[professional-training|formación profesional]], y se transfiere entre dominios, incluida la [[physics-education|educación en física]] y la [[stem-education|educación STEM]] en general.
 

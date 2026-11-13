@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,7 @@ Los puntos de referencia constituyen la base probatoria de la [[ai-education|inv
 
 - **La adaptación al estudiantado como criterio explícito de punto de referencia.** El Teaching Monster Challenge puntúa la adaptación a una persona aprendiza especificada, pero su juez LLM automatizado solo separó una cola débil —los mejores sistemas puntuaron cerca de su techo y su clasificación discrepó de la preferencia de la multitud (ρ de Spearman = −0,17)— ([[teaching-monster-pck-benchmark-2026|Lin et al. (2026)]]).
 
-### Por qué los puntos de referencia importan en la IAED
+## Por qué los puntos de referencia importan en la IAED
 
 Los puntos de referencia se conectan con la [[ai-ed-evaluation|evaluación de la IA educativa]] y la [[assessment-validity|validez de la evaluación]]: sin puntos de referencia rigurosos, las afirmaciones sobre la eficacia de la [[intelligent-tutoring|tutoría con IA]] no son verificables. También se cruzan con la [[bias-mitigation|mitigación de sesgos]], ya que el diseño de un punto de referencia puede codificar o amplificar sesgos. La tensión entre el rendimiento en puntos de referencia y la utilidad en el mundo real se explora en varios artículos, y conecta con las preocupaciones sobre la [[transfer-of-learning|transferencia del aprendizaje]] en aplicaciones de [[generative-ai|IA generativa]].
 

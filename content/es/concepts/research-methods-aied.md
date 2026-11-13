@@ -1,7 +1,7 @@
 ---
 title: Métodos de investigación en AIED
 created: "2026-09-25T03:54:15-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-11-01T11:00:00-05:00"
+source_updated: "2026-11-12T14:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,7 @@ Un **estudio de eficacia** evalúa si una intervención produce el efecto de apr
 - **Limitaciones:** costosos y lentos; las condiciones artificiales pueden reducir la validez ecológica; las herramientas de IA que cambian rápido hacen que los experimentos largos queden desactualizados enseguida; las muestras pequeñas a menudo no alcanzan a detectar efectos significativos; las restricciones [[ethics|éticas]] a la hora de retener herramientas potencialmente útiles.
 - **Ejemplos:** [[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]], [[agent-voice-accents-k12-group-learning]], [[ai-use-critical-thinking-medical-students-2026]].
 - **El preregistro se aplica a los análisis secundarios, no solo a los ensayos.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ejecutó cuatro reglas de actualización de [[knowledge-tracing]] sobre registros idénticos de ASSISTments (12.716 estudiantes, 985.813 eventos puntuados) que diferían solo en cómo puntúan las filas con ayuda, mantuvo sellada la mitad confirmatoria hasta que existiera un archivo que contuviera la URL del registro, e informó de que las cuatro predicciones preregistradas se cumplieron. Acreditar cualquier finalización predijo el rendimiento posterior sin ayuda apenas por encima de una constante de dificultad de la habilidad (AUC agrupada 0,604 frente a 0,595) mientras declaraba dominado el 93,9% de los pares estudiante–habilidad frente al 72,8% con una regla estricta. Cuando un mismo registro sostiene varias conclusiones, fijar el análisis de antemano es lo que hace creíble la comparación.
+- **Declare la exclusión de IA de forma explícita.** Una prueba posterior sin IA cuenta como exclusión verificada solo cuando la restricción está documentada y se comprueba su cumplimiento; una prueba supervisada o en papel por sí sola no basta ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
 
 ### Estudios de encuesta y de modelado de ecuaciones estructurales
 
@@ -127,7 +128,7 @@ La evaluación computacional evalúa los [[ai-technologies|sistemas de IA]] dire
 
 ### Otros diseños: estudios longitudinales, de caso y de simulación
 
-Más allá de las grandes familias, la base de conocimiento usa diseños **longitudinales** que siguen a quien aprende a lo largo del tiempo ([[ai-lms-middle-school-longitudinal|un estudio longitudinal de un LMS]]), estudios **de caso y en condiciones reales** sobre un uso auténtico ([[ai-in-the-wild-college|un análisis a gran escala de interacciones reales del estudiantado]]) y estudios de **simulación** en los que los LLM hacen las veces de estudiantes o de pacientes ([[llm-student-simulation-teacher-insights|los LLM como estudiantes simulados]], [[simulation|simulación]]). Estos cambian amplitud o control por realismo y por acceso a fenómenos que de otro modo son difíciles de observar.
+Más allá de las grandes familias, la base de conocimiento usa diseños **[[longitudinal-research|longitudinales]]** que siguen a quien aprende a lo largo del tiempo ([[ai-lms-middle-school-longitudinal|un estudio longitudinal de un LMS]]), estudios **de caso y en condiciones reales** sobre un uso auténtico ([[ai-in-the-wild-college|un análisis a gran escala de interacciones reales del estudiantado]]) y estudios de **simulación** en los que los LLM hacen las veces de estudiantes o de pacientes ([[llm-student-simulation-teacher-insights|los LLM como estudiantes simulados]], [[simulation|simulación]]). Estos cambian amplitud o control por realismo y por acceso a fenómenos que de otro modo son difíciles de observar.
 
 ### Métodos de consenso de expertos: la técnica Delphi
 
@@ -206,6 +207,7 @@ En la práctica, la investigación sobre IA en la educación rara vez encaja lim
 
 ## Conceptos conectados
 
+- [[longitudinal-research]]
 - [[interpreting-and-applying-aied-research]]
 - [[ai-ed-evaluation]]
 - [[rct]]

@@ -1,7 +1,7 @@
 ---
 title: Regulación de la IA en educación
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 La regulación es la capa legal y de política de la [[governance]] de la IA: fija las reglas vinculantes, los estándares y los mecanismos de aplicación que la gobernanza institucional traduce en práctica. Donde la gobernanza es el marco amplio de normas y estructuras, la regulación aporta las reglas autoritativas: desde las leyes nacionales de IA y los estatutos de [[privacy|protección de datos]] hasta las políticas institucionales de uso aceptable y las directrices profesionales. Un tema recurrente en la investigación de la base de conocimiento es que la regulación va por detrás del despliegue de la IA, dejando a las instituciones improvisar gobernanza en la brecha.
 
-### El panorama regulatorio
+## El panorama regulatorio
 
 - **Política gubernamental:** la investigación sobre [[educational-policy-ai]] examina las políticas nacionales y regionales de [[ai-education|IA en educación]].  y la [[ai-lifelong-learning-policy|política de aprendizaje a lo largo de la vida]] abordan las brechas regulatorias, mientras que la [[ai-uk-higher-education-policy-2026|política de IA en la educación superior del Reino Unido]] y el [[oecd-digital-education-outlook-2026|Panorama de la Educación Digital de la OCDE]] sitúan los enfoques nacionales en una perspectiva comparada e internacional.
 - **Gobernanza institucional:** los [[governance|marcos de gobernanza de la IA]] y el [[genai-policies-higher-ed-computing|análisis de políticas institucionales]] documentan cómo desarrollan las universidades sus reglas internas de IA, mientras que los [[genai-declaration-frameworks-higher-education|marcos de declaración de IA]] y la [[genai-assessment-governance|gobernanza de la evaluación]] regulan el uso de IA en el trabajo evaluado. [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] encuentra que las reglas internas del sector son mayoritariamente orientaciones y no política vinculante: 44 de 50 universidades innovadoras de EE. UU. publicaron directrices, principios o centros de recursos, mientras que solo 6 enmarcaron su página principal como una «política», con reglas de programa fijadas por el profesorado haciendo el trabajo regulatorio operativo en cursos individuales. La encuesta de [[watson-rainie-ai-challenge-faculty-survey-2026|Watson y Rainie (2026)]] a 1.057 docentes estadounidenses mide cuán por debajo de la capa institucional se sitúan las reglas efectivas: el 87% de los encuestados escribió sus propias políticas a nivel de tarea, mientras que solo el 48% informó de directrices institucionales escritas y el 35% de directrices departamentales, frente a una respuesta estructural escasa en la cúpula: un grupo de trabajo u órgano de supervisión en el 55% de los casos, pero alfabetización en IA adoptada como resultado de educación general en solo el 13%.
@@ -46,7 +46,7 @@ La regulación es la capa legal y de política de la [[governance]] de la IA: fi
 - **Derecho de igualdad y de ajustes razonables:** las reglas de IA demasiado amplias pueden chocar con deberes legales. [[wright-transcription-not-generation-2026|Wright (2026)]] sostiene que las prohibiciones que excluyen la «[[generative-ai|IA generativa]]» sin distinguir la generación de contenido de la conversión de formato alcanzan a las herramientas de transcripción con IA y pueden activar el deber de ajuste razonable de la Equality Act 2010 del Reino Unido, la Americans with Disabilities Act de EE. UU. y la Disability Discrimination Act 1992 de Australia, lo que convierte la redacción de una prohibición en una cuestión regulatoria y no solo de integridad académica (véanse [[legal-issues-and-risks|cuestiones y riesgos legales]]). [[li-genai-assessment-language-equity-2026|Li (2026)]] extiende el mismo choque al origen lingüístico: las reglas de evaluación que no separan el apoyo lingüístico legítimo de la sustitución sustantiva imponen cargas de cumplimiento sesgadas por cohorte al estudiantado que usa el inglés como lengua adicional, y el marco diseñado para corregirlo se defiende mediante un razonamiento de discriminación indirecta más la expectativa del derecho administrativo de que quien decide pueda enunciar la regla aplicada, la evidencia en que se apoyó y por qué el resultado fue proporcionado: el estándar que aplica una impugnación en revisión a una decisión administrativa.
 - **Cumplimiento y rendición de cuentas:** la [[student-regulatory-awareness-genai|conciencia regulatoria del estudiantado]] examina si quienes aprenden conocen y siguen de verdad las reglas de IA, y los [[dot-framework-survey-2026|marcos de adopción tecnológica]] exploran cómo las preocupaciones regulatorias y éticas influyen en las decisiones de adopción.
 
-### La brecha de gobernanza
+## La brecha de gobernanza
 
 La base de conocimiento documenta una brecha persistente entre la velocidad del despliegue de la IA y la madurez regulatoria. Los [[institutional-change-framework-ai|marcos de cambio institucional]] y la investigación sobre regulación abogan por una [[governance]] proactiva en lugar de una política reactiva. Los estudios de  y las [[raza-farooq-aied-review-2020-2025|revisiones exhaustivas de la AIED]] destacan que la regulación es desigual entre jurisdicciones y niveles educativos, lo que crea un entorno operativo inconsistente para docentes, estudiantes y desarrolladores.
 
@@ -56,7 +56,7 @@ Los sistemas [[agentic-ai|agénticos]] abren una brecha adicional. En un anális
 
 Una auditoría de las políticas de privacidad de [[edtech-platform|plataformas de tecnología educativa]] da a esa dependencia una instancia concreta. En 48 plataformas, la recopilación de datos se divulgaba comparativamente bien (media 1,81 de 2), mientras que la divulgación sobre IA (0,90) y la rendición de cuentas (1,07) iban por detrás, y el 33% no hacía ninguna divulgación significativa sobre IA pese a tener funciones de IA visibles; las plataformas estadounidenses de [[k-12]] obtuvieron la puntuación global más alta (M = 7,47 frente a 5,50 de la [[higher-ed|educación superior]] estadounidense) pero no ganaron nada en divulgación sobre IA ni en rendición de cuentas: la regulación, concluyen los autores, solo eleva aquello que nombra, así que deben ser las reglas exigibles y los estándares de contratación, y no los compromisos voluntarios, quienes hagan de la [[privacy|privacidad]] una condición del despliegue ([[edtech-privacy-deferral-2026|Nair y Greenstadt, 2026]]).
 
-### Conexiones
+## Conexiones
 
 La regulación se conecta con la [[educational-policy-ai]], la [[governance]], la [[ethics]], la [[privacy]], la [[pedagogical-safety]] y la [[academic-integrity]]. Es la capa institucional que da forma a cómo operan todas las demás prácticas de IA en educación. La regulación a la vez constriñe y habilita: fija los límites del uso aceptable de la IA mientras crea las condiciones —mediante la [[ai-literacy]] y las expectativas de uso responsable— para una integración [[equity-in-ai-education|equitativa]] y segura.
 

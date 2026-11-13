@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Aprendizaje autodirigido
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -63,16 +63,6 @@ Como el SDL pone el énfasis en la dirección iniciada por quien aprende, las in
 
 - **La extracción con IA como andamiaje para el aprendizaje basado en la investigación.** An y sus colegas (2026) diseñan un sistema de extracción de información impulsado por IA que convierte publicaciones de investigación en conjuntos de datos estructurados y trazables para apoyar la finalización de tesis de grado en [[stem-education|STEM]], planteado como un **andamiaje epistémico** que permite inspeccionar las relaciones entre evidencia y afirmación a la vez que reduce las demandas de manejo de datos de bajo nivel. En un piloto [[mixed-methods-research|de métodos mixtos]] con 20 estudiantes y 80 documentos, el estudiantado extrajo más del 90% de los parámetros objetivo, el [[self-report-measures|tiempo de revisión de literatura autoinformado]] cayó en torno a un 65% y su capacidad de identificar variables influyentes aumentó un 50%, lo que respalda la idea de que la [[generative-ai|IA]] puede reequilibrar la carga cognitiva hacia un razonamiento de investigación más autodirigido y de orden superior en lugar de hacia el resumen rutinario.
 
-## Concepciones erróneas
-
-**«El aprendizaje autodirigido y el aprendizaje autorregulado son el mismo constructo.»** Operan en escalas temporales distintas: el SRL se refiere a la regulación del aprendizaje en el momento, mientras que el SDL se refiere a la responsabilidad global a lo largo del tiempo —elegir qué aprender, fijar el objetivo y sostener la dirección durante meses—. Una intervención que mejora la regulación momento a momento no tiene por qué producir a una persona que aprenda de forma autodirigida, y un estudiante puede ser autodirigido a lo largo de un programa mientras regula mal dentro de una sesión.
-
-**«La IA facilita el aprendizaje autodirigido porque aporta estructura.»** Puede eliminar el ejercicio de la habilidad. [[genai-thoughtless-use-self-directed-learning-2026|Zhao y Gu (2026)]] muestran que el **uso irreflexivo de la IA generativa —adoptar las salidas sin evaluación crítica— socava significativamente el SDL**. Dirigir el propio aprendizaje se practica tomando las decisiones que la IA generativa puede tomar ahora por ti, así que un asistente que siempre aporta dirección la aporta en lugar de la competencia.
-
-**«No usar la IA indica falta de acceso.»** Entre quienes no la usan, el motivo declarado suele ser una elección educativa positiva —querer hacer el trabajo por sí mismos— y no una barrera. Leer el no uso como un déficit describe mal una posición que, en la evidencia sobre la [[student-experience|experiencia del estudiantado]], está razonada.
-
-**«La autodirección significa trabajar solo.»** Significa ser dueño de la dirección, lo que puede ejercerse en un entorno muy apoyado. El rasgo distintivo es quién fija y ajusta el objetivo, no si hay ayuda disponible.
-
 ## Implicaciones para la práctica
 
 **Para el profesorado**
@@ -89,6 +79,16 @@ Como el SDL pone el énfasis en la dirección iniciada por quien aprende, las in
 **Para quienes investigan**
 
 - Informe de qué constructo abordaba la intervención; los resultados de SDL y de SRL no deberían usarse de forma intercambiable.
+
+## Concepciones erróneas
+
+**«El aprendizaje autodirigido y el aprendizaje autorregulado son el mismo constructo.»** Operan en escalas temporales distintas: el SRL se refiere a la regulación del aprendizaje en el momento, mientras que el SDL se refiere a la responsabilidad global a lo largo del tiempo —elegir qué aprender, fijar el objetivo y sostener la dirección durante meses—. Una intervención que mejora la regulación momento a momento no tiene por qué producir a una persona que aprenda de forma autodirigida, y un estudiante puede ser autodirigido a lo largo de un programa mientras regula mal dentro de una sesión.
+
+**«La IA facilita el aprendizaje autodirigido porque aporta estructura.»** Puede eliminar el ejercicio de la habilidad. [[genai-thoughtless-use-self-directed-learning-2026|Zhao y Gu (2026)]] muestran que el **uso irreflexivo de la IA generativa —adoptar las salidas sin evaluación crítica— socava significativamente el SDL**. Dirigir el propio aprendizaje se practica tomando las decisiones que la IA generativa puede tomar ahora por ti, así que un asistente que siempre aporta dirección la aporta en lugar de la competencia.
+
+**«No usar la IA indica falta de acceso.»** Entre quienes no la usan, el motivo declarado suele ser una elección educativa positiva —querer hacer el trabajo por sí mismos— y no una barrera. Leer el no uso como un déficit describe mal una posición que, en la evidencia sobre la [[student-experience|experiencia del estudiantado]], está razonada.
+
+**«La autodirección significa trabajar solo.»** Significa ser dueño de la dirección, lo que puede ejercerse en un entorno muy apoyado. El rasgo distintivo es quién fija y ajusta el objetivo, no si hay ayuda disponible.
 
 ## Conceptos conectados
 

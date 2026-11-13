@@ -1,7 +1,7 @@
 ---
 title: Empatía
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [professional-training, experiential-learning, social-emotional-learning]
@@ -10,7 +10,7 @@ ethics: [pedagogical-safety, privacy]
 audience: [instructors, medical educators, curriculum designers, researchers]
 level: [higher ed, k 12]
 confidence: medium
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-12T21:45:00-05:00"
 translation_of: concepts/empathy
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -23,7 +23,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Síntesis:** La empatía entra en la educación desde tres direcciones a la vez: como un resultado que el profesorado intenta enseñar, como un constructo que intenta medir y como algo que se dice cada vez más que los sistemas de IA muestran. La evidencia es desigual en las tres. Enseñar empatía funciona —el juego de roles, la RV y el diálogo con LLM producen mejoras medibles antes y después—, pero el efecto se reduce a medida que la experiencia se vuelve menos corporeizada, y los estudios comparativos confunden la modalidad con el tiempo dedicado a la tarea. Medir la empatía es más difícil que enseñarla: las valoraciones de observadores se sostienen entre sí, mientras que los indicadores de visión artificial coinciden en el contacto físico, discrepan en el contacto visual y se invierten en la sonrisa. La IA puede ensayar conversaciones empáticas a escala, pero el estudio mejor controlado muestra un aumento de la competencia autoevaluada sin una comprobación del desempeño observado. Y la preocupación más reciente va en la dirección contraria: creer que la IA puede aportar empatía hace que las personas estén menos dispuestas a aportarla ellas mismas ([[shastry-gray-empathy-offloading-2026|Shastry y Gray, 2026]]).
+> **Síntesis:** La empatía entra en la educación desde tres direcciones a la vez: como un resultado que el profesorado intenta enseñar, como un constructo que intenta medir y como algo que se dice cada vez más que los sistemas de IA muestran. La evidencia es desigual en las tres. Enseñar empatía funciona —el juego de roles, la RV y el diálogo con LLM producen mejoras medibles antes y después—, pero el efecto se reduce a medida que la experiencia se vuelve menos corporeizada, y los estudios comparativos confunden la modalidad con el tiempo dedicado a la tarea. Medir la empatía es más difícil que enseñarla: las valoraciones de observadores se sostienen entre sí, mientras que los [[sensor-and-gaze-analytics|indicadores de visión artificial]] coinciden en el contacto físico, discrepan en el contacto visual y se invierten en la sonrisa. La IA puede ensayar conversaciones empáticas a escala, pero el estudio mejor controlado muestra un aumento de la competencia autoevaluada sin una comprobación del desempeño observado. Y la preocupación más reciente va en la dirección contraria: creer que la IA puede aportar empatía hace que las personas estén menos dispuestas a aportarla ellas mismas ([[shastry-gray-empathy-offloading-2026|Shastry y Gray, 2026]]).
 
 ## Preguntas para reflexionar
 
@@ -78,8 +78,7 @@ La línea de trabajo más reciente pregunta qué le hace la empatía de la IA a 
 
 Para la educación, esto corta en dos direcciones. Un [[curriculum-design|currículo]] que usa la IA para practicar empatía puede estar construyendo la habilidad; una cultura de campus que deriva el apoyo emocional a los chatbots puede estar erosionando la motivación para usarla. Los dos efectos son compatibles, y nada en la literatura actual los mide juntos.
 
-## Qué significa esto para la práctica
-
+## Implicaciones para la práctica
 - **Separe las tres preguntas.** Cuando alguien afirme que la IA mejora la empatía, pregunte si se refiere a enseñar a personas, medir a personas o simular empatía. La evidencia es distinta en cada caso.
 - **No acepte la autoeficacia como resultado de empatía.** La confianza es barata y sube tras casi cualquier ensayo; la observación, los pacientes estandarizados o las valoraciones de pacientes son las medidas que importan.
 - **Trate las puntuaciones de visión como lectores secundarios.** La detección de contacto físico es utilizable para la [[formative-assessment|retroalimentación formativa]]; la de sonrisas y de contacto visual no lo es sin un contexto de escenario que el modelo no tiene.

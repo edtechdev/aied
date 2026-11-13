@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,11 +43,11 @@ El mal uso de la IA se distingue del uso de la IA. El uso describe emplear la IA
 
 El daño anticipado está documentado en sí mismo: en datos suecos de encuesta y de grupos focales, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] informan del mismo temor desde datos suecos: el 51% de los participantes (n = 106) pensaba que el uso de IA generativa podía atrofiar el desarrollo individual, señalando la erosión del [[critical-thinking|pensamiento crítico]], la [[creativity|creatividad]] y la autonomía y no las infracciones de normas.
 
-### La brecha entre desempeño y aprendizaje
+## La brecha entre desempeño y aprendizaje
 
 El concepto central, articulado en [[genai-performance-vs-learning]], es que la IA generativa eleva con facilidad el **desempeño** —la eficiencia inmediata y la calidad de la producción— mientras a menudo sortea el procesamiento cognitivo y [[metacognition|metacognitivo]] profundo que el **aprendizaje** requiere. Una herramienta que optimiza el desempeño puede por tanto socavar el aprendizaje. La brecha está ahora demostrada causalmente a escala de campo: un [[rct|ensayo controlado aleatorizado]] encontró que la asistencia de IA sin restricciones elevaba el desempeño en la práctica pero reducía las puntuaciones posteriores en exámenes sin asistencia.
 
-### Mecanismos del daño
+## Mecanismos del daño
 
 - **[[cognitive-surrender|Rendición cognitiva]]** — el término que los investigadores emplean para el estudiantado que delega el pensamiento en la IA como una dependencia pasiva y poco reflexiva, por oposición a la forma deliberada y estratégica del [[cognitive-offloading|cognitive offloading]]. Produce un declive medible, a nivel poblacional, del conocimiento duradero.
 - **Copiar respuestas como muleta** — el mal uso está impulsado menos por los errores de la IA que inducen a error al estudiantado que por el hecho de que el estudiantado copia respuestas en lugar de aprender. Cuando el análisis de la [[student-engagement|implicación estudiantil]] muestra que el estudiantado sobre todo «pide la respuesta», el daño al aprendizaje se sigue de ello.
@@ -55,41 +55,31 @@ El concepto central, articulado en [[genai-performance-vs-learning]], es que la 
 - **Desplazamiento del aprendizaje** — la sustitución de la salida de la IA por los procesos esforzados (elaboración, recuerdo, autoexplicación) que consolidan el conocimiento, en coherencia con la [[cognitive-offloading|dependencia excesiva]].
 - **La confusión leída como intención.** Cuando el profesorado no explicita el papel previsto de la IA en una tarea, el estudiantado lo define por lo que es más fácil, y el profesorado interpreta el desajuste resultante como trampa en lugar de como un límite que nunca se enunció ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
 
-### La base de evidencia
+## La base de evidencia
 
 - **ECA causal de campo (unos 1.000 estudiantes de matemáticas de secundaria):** un tutor de estilo ChatGPT sin restricciones elevó el desempeño asistido en la práctica un **+48%**, pero redujo las puntuaciones en el [[summative-assessment|examen a libro cerrado]] sin asistencia un **−17%**: el estudiantado que nunca tuvo acceso a la IA superó a quien sí lo tuvo. Un tutor con restricciones de tipo «pista y no respuesta» eliminó el daño. Notablemente, el estudiantado del grupo perjudicado no percibió que hubiera aprendido menos.
 - **Datos conductuales a escala poblacional (3,2 millones de interacciones en ALEKS):** el tiempo de estudio sobre problemas susceptibles a la IA cayó un **−26,9%** de forma acumulada entre los estudiantes universitarios (secundaria: −31,3%) tras el lanzamiento de ChatGPT, con un **descenso del 25% en las probabilidades de una respuesta correcta en los ítems de retención vigilados**. El efecto desapareció por completo bajo vigilancia, lo que lo atribuye al uso de IA fuera de la plataforma.
 - **Un resultado nulo de gran escala:** al explotar la caída estacional del uso de ChatGPT durante el verano se observó **ningún cambio neto en las medias de las pruebas estandarizadas de secundaria** —probablemente porque el daño del mal uso se compensa en conjunto con el uso productivo de la IA. Esto no contradice el daño causal para el aprendizaje duradero, pero advierte contra generalizar en exceso a partir de las puntuaciones agregadas de las pruebas.
 
-### La dependencia como vía hacia el agotamiento
+## La dependencia como vía hacia el agotamiento
 
 El mal uso perjudica a algo más que al rendimiento. Una encuesta a 276 estudiantes universitarios chinos ([[ai-dependency-self-efficacy-teacher-support-burnout-2026|Huang et al., 2026]]) modelizó la dependencia de la IA como mediadora entre los recursos protectores de quien aprende y el agotamiento por el estudio, y encontró que soportaba el efecto por completo: la [[self-efficacy|autoeficacia académica]] y, de forma más débil, el apoyo del [[teacher-role|docente]] reducían ambos la dependencia de la IA, que a su vez predecía el agotamiento. Ambas vías indirectas fueron significativas y plenamente mediadoras —los efectos directos pasaron a no ser significativos una vez que la dependencia entró en el modelo— y la vía de la autoeficacia fue la más fuerte de las dos. Leído junto con la brecha entre desempeño y aprendizaje anterior, el resultado extiende el coste del mal uso desde el conocimiento duradero degradado hasta el agotamiento y la desvinculación de quien aprende, y sitúa el mecanismo en la dependencia misma y no en el uso de la IA como tal: los recursos que protegen contra el mal uso parecen funcionar impidiendo la dependencia, no contrarrestando sus efectos después. Los autores advierten de una cautela de medición —su Escala de Dependencia de la IA está adaptada del Test de Adicción a Internet y su validez de contenido para la IA no está establecida—, de modo que la vía se trata mejor como una hipótesis bien modelizada que como un tamaño de efecto asentado.
 
-### La naturaleza dependiente de la evaluación del daño
+## La naturaleza dependiente de la evaluación del daño
 
 El matiz práctico más importante es que el daño es **selectivo según el tipo de evaluación**. Aparece en las medidas **vigiladas, a libro cerrado y sin asistencia** del conocimiento duradero. En el trabajo ordinario calificado del curso, que no puede distinguir el trabajo asistido por IA del trabajo independiente, el mal uso puede *inflar* las calificaciones inmediatas. Esta es la razón por la que la brecha entre lo percibido y lo real es peligrosa: el estudiantado (y a veces el profesorado) ve ganancias de desempeño a corto plazo y pasa por alto la erosión del aprendizaje que solo aflora cuando se retira la herramienta.
 
 **Qué dependencia, no cuánta.** Una encuesta a 118 estudiantes de 12 cursos intensivos en IA ([[uneven-impact-generative-ai-student-learning-2026|Manikonda et al., 2026]]) separa dos conductas que las medidas de frecuencia de uso colapsan. La **dependencia cognitiva** —usar la IA generativa para organizar, evaluar, combinar y descomponer— fue el predictor más fuerte del impacto positivo percibido (β = 0,495, p < 0,001), y la delegación que describe no es perjudicial de forma uniforme: organizar y resumir ideas y descubrir nuevas perspectivas figuraron entre las características asociadas a una mejora del aprendizaje percibido. La **dependencia temprana** —consultar la IA generativa *antes* del pensamiento independiente, de una búsqueda tradicional o del profesorado— predijo a la vez el beneficio académico (β = 0,301, p < 0,001) *y* el impacto negativo (β = 0,402, p = 0,004). La moderación es la parte que atañe al remedio de alfabetización anterior: la asociación entre la dependencia temprana y el impacto negativo estaba ausente con una [[ai-literacy|alfabetización en evaluación]] baja (b = 0,025, p = 0,861) y era más fuerte entre el estudiantado que mejor juzga la salida de la IA (b = 0,688, p < 0,001), de modo que la competencia evaluativa no protegió frente al coste de preguntar primero a la IA: quienes estaban en mejor posición para notar el coste fueron quienes lo comunicaron. La implicación operativa es que el mal uso es en parte una cuestión de *cuándo* se consulta la IA en relación con el intento propio de quien aprende, y no solo de volumen, razón por la cual las intervenciones que apuntan al momento en que se consulta la IA conviven con los remedios de diseño de la evaluación que siguen.
 
-### Implicaciones y remedios
+## Implicaciones y remedios
 
 - **[[guardrails|Barreras de protección]] frente al acceso sin restricciones:** el [[prompt-engineering|diseño de prompts]] de tipo «pista y no respuesta» y el [[scaffolding|andamiaje]] elaborado por el profesorado neutralizan el efecto muleta (véase [[generative-ai-guardrails-harm-learning]]).
 - **[[assessment|Diseño de la evaluación]]:** se necesitan evaluaciones resistentes a la IA y vigiladas o sin asistencia para poner de manifiesto el mal uso, y para desincentivarlo.
 - **Alfabetización y metacognición:** formación en [[ai-literacy|alfabetización en IA]] y en [[self-regulated-learning|aprendizaje autorregulado]] que ayude al estudiantado a reconocer las pautas de dependencia y el coste de sortear su propio trabajo cognitivo.
 
-### La desvinculación conversacional en la era de los LLM
+## La desvinculación conversacional en la era de los LLM
 
 La literatura sobre el gaming the system (abuso de pistas, adivinación sistemática) tiene su contrapartida en la era del diálogo: la desvinculación conversacional —burlarse del agente, responder deliberadamente mal, desaparecer de la conversación, reflejar su texto o retener las respuestas. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] dan a este fenómeno su primer tratamiento sistemático en el [[student-ai-interaction|diálogo entre estudiantes e IA]], y su lección central es interpretativa más que alarmista. Un *turno* desvinculado es un movimiento interaccional, no un estado estable de desvinculación. La aparente asociación de la Respuesta Falsa con las puntuaciones de la prueba posterior no sobrevivió a una comprobación de sensibilidad con anotación humana, y los autores la leen como una indagación *dentro* de trayectorias que a menudo vuelven a la implicación (el clúster de mayor rendimiento se recuperó con p = 0,42). La conducta que realmente separó las trayectorias fue la Retención —la negativa a responder, que persistió en lugar de resolverse. Para quienes diseñan, esto invierte la prioridad habitual: la desvinculación ruidosa y visible a menudo se autocorrige, mientras que la retirada silenciosa indica que la interacción se ha roto.
-
-## Concepciones erróneas
-
-**«El estudiantado se daría cuenta si la IA estuviera dañando su aprendizaje.»** No se da cuenta, y este es el hecho más consecuente de la página: **el estudiantado del grupo dañado no percibió que aprendiera menos**. El [[self-report-measures|autoinforme]] no es, por tanto, una señal de alerta temprana utilizable. El patrón de un 48% más de práctica y un 17% menos en el examen es invisible para quien lo experimenta, y por eso la detección del daño tiene que basarse en la medición y no en el testimonio.
-
-**«El riesgo es cuánta IA usa un estudiante.»** El riesgo es para qué se sustituye la IA. Aquí el mal uso significa delegar la redacción, el recuerdo o el análisis que construyen una comprensión duradera: sustitución en lugar de complemento, y un estudiante puede sustituir mucho en una tarea y complementar de forma productiva en la siguiente. El volumen de uso es la variable equivocada; la división del trabajo cognitivo es la correcta.
-
-**«Si el desempeño en la práctica mejora, la herramienta funciona.»** En el ECA de campo causal con cerca de 1.000 estudiantes de secundaria de matemáticas, un tutor estilo ChatGPT sin salvaguardas elevó el desempeño en la práctica asistida un **+48%** mientras *reducía* las puntuaciones en el examen [[summative-assessment|a libro cerrado]] sin asistencia un **17%**. Las direcciones son opuestas, así que cualquier evaluación que lea la cifra de práctica como el resultado certificará exactamente el daño que pretende detectar.
-
-**«Quienes aprenden con IA se preocupan sobre todo por que los pillen.»** Sus preocupaciones declaradas son de desarrollo. En un estudio, el **51% de los participantes (n = 106)** temía que el uso de IA generativa pudiera dificultar el desarrollo individual, nombrando pérdidas en [[critical-thinking|pensamiento crítico]], creatividad y autonomía en lugar de infracciones de normas. El encuadre de [[academic-integrity|integridad]] que domina el discurso institucional no es el que el propio estudiantado adopta.
 
 ## Implicaciones para la práctica
 
@@ -110,6 +100,16 @@ La literatura sobre el gaming the system (abuso de pistas, adivinación sistemá
 
 - Comunique siempre la medida sin asistencia, y la percepción junto a ella en lugar de en su lugar.
 - Describa la estructura de sustitución de la tarea, y no solo la frecuencia de uso, al atribuir el daño.
+
+## Concepciones erróneas
+
+**«El estudiantado se daría cuenta si la IA estuviera dañando su aprendizaje.»** No se da cuenta, y este es el hecho más consecuente de la página: **el estudiantado del grupo dañado no percibió que aprendiera menos**. El [[self-report-measures|autoinforme]] no es, por tanto, una señal de alerta temprana utilizable. El patrón de un 48% más de práctica y un 17% menos en el examen es invisible para quien lo experimenta, y por eso la detección del daño tiene que basarse en la medición y no en el testimonio.
+
+**«El riesgo es cuánta IA usa un estudiante.»** El riesgo es para qué se sustituye la IA. Aquí el mal uso significa delegar la redacción, el recuerdo o el análisis que construyen una comprensión duradera: sustitución en lugar de complemento, y un estudiante puede sustituir mucho en una tarea y complementar de forma productiva en la siguiente. El volumen de uso es la variable equivocada; la división del trabajo cognitivo es la correcta.
+
+**«Si el desempeño en la práctica mejora, la herramienta funciona.»** En el ECA de campo causal con cerca de 1.000 estudiantes de secundaria de matemáticas, un tutor estilo ChatGPT sin salvaguardas elevó el desempeño en la práctica asistida un **+48%** mientras *reducía* las puntuaciones en el examen [[summative-assessment|a libro cerrado]] sin asistencia un **17%**. Las direcciones son opuestas, así que cualquier evaluación que lea la cifra de práctica como el resultado certificará exactamente el daño que pretende detectar.
+
+**«Quienes aprenden con IA se preocupan sobre todo por que los pillen.»** Sus preocupaciones declaradas son de desarrollo. En un estudio, el **51% de los participantes (n = 106)** temía que el uso de IA generativa pudiera dificultar el desarrollo individual, nombrando pérdidas en [[critical-thinking|pensamiento crítico]], creatividad y autonomía en lugar de infracciones de normas. El encuadre de [[academic-integrity|integridad]] que domina el discurso institucional no es el que el propio estudiantado adopta.
 
 ## Conceptos conectados
 

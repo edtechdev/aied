@@ -1,7 +1,7 @@
 ---
 title: Sesgo de automatización
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -70,6 +70,8 @@ La formulación más clara del mecanismo está en el trabajo dirigido al profeso
 
 La brecha más aguda está en el punto de juicio. [[human-in-the-loop-ai-scoring-national-assessment-2026|El estudio de calificación de la evaluación nacional (2026)]] hace que los evaluadores revisen puntuaciones automáticas, y sus autores nombran directamente el mecanismo no probado: no se ha medido si los evaluadores a quienes se muestran puntuaciones de IA antes de juzgar quedan anclados por ellas o se pliegan a ellas, y proponen como siguiente paso experimentos con evaluadores cegados frente a no cegados. La afirmación de «persona en el bucle» de ese diseño es, por tanto, un supuesto y no un hallazgo, y además es la versión buena del diseño.
 
+Un experimento de supervisión de seguridad aporta ahora la medición en un contexto adyacente. A lo largo de 416 evaluadores y 3.957 ítems, presentar candidatos del modelo antes de la respuesta humana redujo la exactitud de los evaluadores en los ítems que el modelo erraba del 36,7% al 20,6%, mientras que la exactitud aumentó 7,3 puntos en los ítems que el modelo acertaba ([[shi-human-ai-complementarity-safety-2026|Shi et al., 2026]]). Los evaluadores se volvieron más exactos en conjunto y menos capaces de detectar los errores que debían detectar, que es el sesgo operando como sospechaban los autores del estudio de evaluación nacional: la respuesta de la máquina fija el marco y la persona se ajusta dentro de él.
+
 ### Paneles de analítica y la afirmación de la persona en el bucle
 
 [[in-the-loop-educational-ai-learning-sciences-2026|La revisión de ciencias del aprendizaje sobre IA educativa en el bucle (2026)]] da al patrón su forma general: los paneles infieren participación a partir de clics, la [[writing-education|retroalimentación de escritura]] automatizada privilegia los rasgos superficiales sobre la argumentación, y los semáforos de alerta temprana preinterpretan las trayectorias. El sesgo de automatización agrava cada uno de ellos, y la revisión trata la [[trust|confianza]] como un resultado sociotécnico moldeado por la transparencia, la competencia percibida y un derecho sustantivo a anular la decisión, y no como una actitud estable.
@@ -92,7 +94,7 @@ Dos trabajos sostienen que el contrapeso es una disposición y no una regla. [[a
 
 Una parte importante del corpus incluye el sesgo de automatización en un modelo de amenazas sin ponerlo a prueba, y la distinción importa para cuánto peso puede cargar el concepto. [[ahmadfard-interactive-oer-review-2026|La revisión de REA interactivos (2026)]] lo incluye entre los riesgos recurrentes que erosionan la agencia de estudiantes y docentes, enumerado y no medido. [[alshahrani-health-sciences-ai-use-2026|La encuesta de ciencias de la salud (2026)]] lee las preocupaciones [[ethics|éticas]] de 310 estudiantes como un argumento a favor de una [[professional-training|formación profesional]] que cubra el sesgo de automatización de forma explícita. [[ai-literacy-legal-translation-2026|El estudio de traducción jurídica (2026)]] pide que la posedición y la verificación se enseñen como habilidades calificadas, y nombra las presiones del sesgo de automatización y de la ilusión de calidad que hacen fácil pasar por alto las malas traducciones. [[morales-cevallos-ai-forensic-science-education-2026|La revisión de ciencias forenses (2026)]] encuentra el sesgo de automatización documentado en sus estudios incluidos y propone ejercicios de casos construidos a partir de fallos reportados. [[rana-genai-design-thinking-2025|El estudio de pensamiento de diseño (2025)]] lo convierte en un requisito de diseño: [[scaffolding|andamiajes]] que mantienen el juicio humano en el centro y contrarrestan tanto la descarga como el sesgo de automatización.
 
-## Donde la evidencia es escasa, mixta o inversa
+## Dónde la evidencia es escasa, mixta o inversa
 
 **Una predicción que falló.** La literatura sobre el sesgo de automatización predice que quienes dudan de su propio juicio son los que más se apoyan en las máquinas, de modo que una [[self-efficacy|autoeficacia]] baja debería producir una confianza excesiva alta. [[kim-overtrust-ai-literacy-2026|El estudio de confianza excesiva (2026)]] encontró el signo contrario: el estudiantado seguro adoptó antes la [[generative-ai|IA generativa]], acumuló experiencias positivas y confió más en la herramienta. El diseño es transversal y no puede establecer ninguna secuencia, algo que los autores dicen más de una vez, así que el hallazgo no invierte el mecanismo, pero sí muestra que la versión de aula puede no correr en la dirección que predice la versión de laboratorio.
 
@@ -136,6 +138,7 @@ Una parte importante del corpus incluye el sesgo de automatización en un modelo
 
 ## Artículos conectados
 
+- [[shi-human-ai-complementarity-safety-2026]] — 416 evaluadores, 3.957 ítems: la asistencia con candidatos primero redujo la detección de errores en los ítems que el modelo erraba del 36,7% al 20,6% (Shi et al., 2026)
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — docentes advertidos contra plegarse a recomendaciones construidas con datos escasos
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — nombra el anclaje de los evaluadores por puntuaciones de IA como el riesgo no probado y propone el cegamiento
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — paneles, retroalimentación de rasgos superficiales y semáforos como patrón general

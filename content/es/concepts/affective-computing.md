@@ -1,7 +1,7 @@
 ---
 title: Computación afectiva
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 
 ## Introducción
 
-### Detectar la emoción para adaptar la instrucción
+## Detectar la emoción para adaptar la instrucción
 
 La computación afectiva pretende que los sistemas de IA sean emocionalmente conscientes para que puedan responder a cómo se sienten quienes aprenden, y no solo a lo que hacen. En educación, esto significa detectar la frustración, la confusión, la confianza, el aburrimiento o la implicación y adaptar la instrucción en consecuencia. [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] demuestra el enfoque modelando el afecto a partir de dos modalidades —el texto conversacional y la expresión facial en tiempo real— y asignando el estado emocional agregado a estrategias [[pedagogy|pedagógicas]] antes de [[prompt-engineering|construir el prompt]] del tutor.
 
@@ -42,7 +42,7 @@ Las señales mismas son ambiguas: un único canal expresivo no puede distinguir 
 
 - **Apoyo emocional y reflexivo con LLM en matemáticas de secundaria:** [[mindful-llm-math-tutoring-2026|Rief et al. (2026)]] incorporaron la atención plena a un [[intelligent-tutoring|tutor]] de álgebra para estudiantes de 7.º grado mediante chats dinámicos, ejercicios de respiración y un lenguaje de retroalimentación de errores basado en la atención plena. En un pequeño [[rct|ensayo controlado aleatorizado]] de aula (42 personas que lo completaron de 252 participantes), la versión con atención plena alcanzó un aprendizaje del álgebra similar en menos tiempo y con menos pistas solicitadas que el apoyo cognitivo por sí solo —mayor eficiencia de aprendizaje y una [[help-seeking|búsqueda de ayuda]] más equilibrada—, aunque la reducción de la ansiedad matemática de estado no difirió significativamente entre condiciones.
 
-### Los beneficios y los riesgos
+## Los beneficios y los riesgos
 
 La tutoría consciente de las emociones puede producir mejoras medibles, pero esa misma sofisticación conlleva riesgos:
 
@@ -51,9 +51,9 @@ La tutoría consciente de las emociones puede producir mejoras medibles, pero es
 
 - **La implicación no es un indicador indirecto del aprendizaje.** La implicación y el aprendizaje se separaron bajo detección cerebral: una interfaz restringida y adaptativa aumentó la implicación cognitiva (p = 0,018), mientras que el chatbot sin restricciones produjo mayores [[learning-gains|ganancias de aprendizaje]] (p < 0,03, d > 0,80), de modo que una señal de afecto puede desalinearse del resultado al que sirve ([[socratic-nuclear-ai-learning|Clin Deffarges et al. (2026)]]).
 
-### La computación afectiva y la AIED en sentido amplio
+## La computación afectiva y la AIED en sentido amplio
 
-La computación afectiva se sitúa en la intersección de la [[affective-tutoring|tutoría afectiva]] (su aplicación pedagógica), el [[student-modeling|modelado del estudiante]] (representar a la persona que aprende en su conjunto, incluida la emoción) y la [[learning-analytics|analítica del aprendizaje]] (obtener señales a partir de los datos de quien aprende). Se conecta con el diseño de la [[intelligent-tutoring|tutoría inteligente]] y con la [[pedagogical-safety|seguridad pedagógica]], el principio de que la IA debe apoyar la emoción de quien aprende y no manipularla.
+La computación afectiva se sitúa en la intersección de la [[affective-tutoring|tutoría afectiva]] (su aplicación pedagógica), el [[student-modeling|modelado del estudiante]] (representar a la persona que aprende en su conjunto, incluida la emoción) y la [[learning-analytics|analítica del aprendizaje]] (obtener señales a partir de los datos de quien aprende). Se conecta con el diseño de la [[intelligent-tutoring|tutoría inteligente]] y con la [[pedagogical-safety|seguridad pedagógica]], el principio de que la IA debe apoyar la emoción de quien aprende y no manipularla. Esta página cubre el campo y su evidencia; la [[affective-tutoring|tutoría afectiva]] cubre cómo debe actuar un tutor ante una lectura del afecto, y la [[sensor-and-gaze-analytics|analítica de sensores y mirada]] cubre qué pueden sostener las señales mismas.
 
 - **Monitorización emocional del aula en tiempo real y en el borde.** [[emotion-aware-classroom-iot-monitoring-2026|Nguyen et al. (2026)]] construyen un sistema de evaluación de la calidad del aula consciente de las emociones que lleva la computación afectiva a entornos auténticos y a gran escala. Diseñado para **dispositivos IoT/de borde**, el sistema aborda el equilibrio de carga y la latencia mientras coordina varios agentes para capturar en tiempo real los patrones emocionales y de implicación del estudiantado. Se evaluó con el **Classroom Emotion Dataset** (1.500 imágenes etiquetadas y 300 vídeos de aula procedentes de aulas reales vietnamitas de K-12), con un enfoque en la interacción afectiva con varias personas y en condiciones reales: una demostración de cómo escalar el reconocimiento de emociones desde modelos de laboratorio hasta una monitorización desplegable en el aula, junto con las consideraciones de privacidad y de [[pedagogical-safety|seguridad pedagógica]] que plantea esa monitorización.
 
@@ -63,7 +63,7 @@ La computación afectiva se sitúa en la intersección de la [[affective-tutorin
 
 ## Concepciones erróneas
 
-- **«Más implicación significa más aprendizaje.»** Un estudio con sensores cerebrales encontró que una **interfaz restringida y adaptativa elevó la implicación cognitiva (p = ,018) mientras que el chatbot sin restricciones produjo mayores ganancias de aprendizaje**. La interfaz que más implicaba enseñaba menos. La implicación no es un indicador indirecto del aprendizaje, y optimizarla puede mover el resultado en la dirección equivocada.
+- **«Más implicación significa más aprendizaje.»** Un estudio con sensores cerebrales encontró que una **interfaz restringida y adaptativa elevó la implicación cognitiva (p = 0,018) mientras que el chatbot sin restricciones produjo mayores ganancias de aprendizaje**. La interfaz que más implicaba enseñaba menos. La implicación no es un indicador indirecto del aprendizaje, y optimizarla puede mover el resultado en la dirección equivocada.
 - **«El apoyo emocional es un añadido blando al apoyo cognitivo.»** En un [[rct]] de aula de pequeño tamaño (**42 personas que completaron de 252 participantes**), la versión con atención plena logró **un aprendizaje del álgebra similar en menos tiempo y con menos pistas solicitadas** que el apoyo cognitivo por sí solo. El componente afectivo cambió la eficiencia y no el techo, lo que es una afirmación distinta y más interesante que «ayuda al aprendizaje».
 - **«Los hallazgos afectivos con muestras pequeñas se transfieren.»** 42 personas que completaron de 252 participantes es un diseño a la vez alentador y frágil: la tasa de finalización es en sí misma un hallazgo sobre quién persistió, y el efecto queda acotado a ese grupo.
 

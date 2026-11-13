@@ -1,13 +1,13 @@
 ---
 title: "¿Qué competencias necesita el profesorado en relación con la IA?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/faculty-ai-competencies
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -58,6 +58,8 @@ Escriba la lista antes de planificar las sesiones. Cuatro dimensiones más una c
 ## Evalúe el desempeño y no la confianza
 
 La alfabetización en IA [[self-report-measures|autoinformada]] puede divergir notablemente de la capacidad demostrada, y esa es la advertencia más práctica de esta bibliografía para quien dirige desarrollo del profesorado. Una encuesta de confianza al final de un taller mide cómo se sintió el taller.
+
+Una encuesta incluso puede predecirse demasiado bien. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] clasificaron a 314 de 315 miembros del profesorado en bandas de competencia a partir de una escala de 300 ítems con α = 0,997 y sin análisis factorial, y la afiliación institucional fue el mayor contribuyente: una señal de que las puntuaciones seguían dónde trabaja la gente y no lo que sabe hacer.
 
 La investigación sobre flujos de trabajo docentes con [[agentic-ai|múltiples agentes]] añade una segunda razón para evaluar en lugar de preguntar: el pensamiento sistémico, las creencias pedagógicas y la [[self-efficacy|autoeficacia]] interactúan en la integración de la IA, así que la misma sesión aterriza de forma distinta en dos docentes con la misma formación disciplinar. Eso aboga por una programación diferenciada y en contra del taller de una sola herramienta para todos, que es lo que ofrecen la mayoría de las instituciones.
 

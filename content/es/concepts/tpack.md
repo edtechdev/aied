@@ -1,7 +1,7 @@
 ---
 title: Conocimiento Tecnológico, Pedagógico y de Contenido (TPACK)
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T10:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -91,6 +91,8 @@ El TPACK es el marco organizador del lado docente de la base de evidencia de est
 
 **La mediación pasa sobre todo por la facilidad de uso.** [[ai-literacy-tpack-preservice-2026|Zhao (2026)]] probó seis rutas indirectas de la [[ai-literacy|alfabetización en IA]] y el TPACK al aprendizaje profundo en 423 futuros docentes: el TPACK a través de la [[technology-acceptance-model|facilidad de uso percibida]] fue la mayor (0,212) y la alfabetización en IA a través de la utilidad la menor (0,033), así que el conocimiento de integración operaba a través de la [[usability-research|usabilidad]] y no de la utilidad.
 **Los componentes no pesan igual en el caso de la IA.** Entre 988 futuros docentes, el TCK (β = 0,67) y el TPK (β = 0,41) predijeron el AI-TPACK integrado mientras que el TK por sí solo no lo hizo (β = −0,10, p = 0,066), y el TPACK integrado predijo la actitud hacia la IA generativa (β = 0,75) ([[khalil-tpack-preservice-genai-attitudes-2026|Khalil et al., 2026]]).
+
+**Puesta en práctica, y no revisión, bajo restricciones de recursos.** El profesorado de una universidad de Somalilandia describió un uso condicionado por el apoyo institucional, la ausencia de políticas y una suscripción mensual de 20 dólares que pagaban de su propio bolsillo: un contexto que el TPACK acomoda sin cambiar sus componentes ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
 
 ## Implicaciones de diseño
 

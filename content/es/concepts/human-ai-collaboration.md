@@ -1,14 +1,14 @@
 ---
 title: Colaboración humano-IA
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-11-10T19:46:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ La colaboración humano-IA describe cómo el estudiantado, el profesorado y los 
 
 La división del trabajo también atraviesa a las personas que diseñan la interacción. A lo largo de [[ai-integration-instructional-design-collaboratory-2026|doce implementaciones de cursos de formación docente]], el profesorado posicionó la IA como socio de pensamiento, generador de críticas o herramienta de ensayo, mientras quienes se formaban conservaban la responsabilidad de evaluar, adaptar y justificar las decisiones; sin embargo, el mismo libro blanco informa de que quienes se formaban devaluaron retroalimentación que ya habían juzgado útil una vez revelada la autoría de la IA, un episodio que denomina el efecto de reventar el globo (*balloon popping effect*). Un [[tang-chatbots-learning-design-2026|análisis de 1.378 turnos de diseñador-chatbot]] apunta en la dirección opuesta en cuanto a la generación: quienes diseñaban usaron un asistente integrado principalmente para comprobaciones de alineación con los resultados de aprendizaje y el enfoque pedagógico, y no para producir contenido. En ambos casos, el [[evaluative-judgment|juicio evaluativo]] humano, y no la salida del modelo, es lo que sostiene el aprendizaje.
 
-### Beneficios, riesgos e implicaciones de diseño
+## Beneficios, riesgos e implicaciones de diseño
 
 La evidencia de la base de conocimiento muestra que la colaboración humano-IA es una disposición de doble filo cuyo resultado lo determina el diseño y no la IA en sí:
 
@@ -64,7 +64,7 @@ La evidencia de la base de conocimiento muestra que la colaboración humano-IA e
 
 Esto convierte la colaboración humano-IA en un constructo *pedagógico* tanto como técnico: el valor de la asociación lo moldean cómo el profesorado diseña la interacción, cómo la regula el estudiantado y cómo el sistema invita o desalienta una implicación productiva.
 
-### Cómo aparece la colaboración humano-IA en la investigación
+## Cómo aparece la colaboración humano-IA en la investigación
 
 - **Confianza y expectativas:** [[human-ai-collaboration-trust-expectations|Las expectativas de confianza]] examinan cómo las expectativas del estudiantado sobre la IA determinan si la colaboración es productiva o conduce a la [[cognitive-offloading|dependencia excesiva]].
 - **Roles complementarios en la escritura y el pensamiento:** [[humanlike-ai-collaborative-writing|La escritura colaborativa con IA humanizada]] y la [[genai-mindtool-generative-learning|IA generativa como herramienta mental]] muestran cómo la IA puede aumentar en lugar de reemplazar el pensamiento de quien aprende cuando la división del trabajo preserva su implicación cognitiva.
@@ -99,7 +99,7 @@ Esto convierte la colaboración humano-IA en un constructo *pedagógico* tanto c
 - **La complementariedad es condicional, no una propiedad por defecto de los equipos.** [[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al. (2026)]] encontraron que los equipos humano-IA superaron tanto a las personas como a la IA por separado en solo una de seis condiciones —los casos difíciles en los que la IA era *menos* precisa que las personas— y no informaron de ninguna ventaja consistente del equipo en el resto, así que añadir un socio de IA no es por sí mismo una vía hacia el rendimiento complementario.
 - **Los programas profesionales reorientan la formación desde la producción rutinaria hacia las competencias de colaboración (un protocolo de diseño):** [[wang-agentic-translation-education-2026|Wang (2026)]] propone un marco basado en el diseño para la formación de traductores, construido en torno a un inventario de desplazamiento de tareas (18 subtareas valoradas por su probabilidad de desplazamiento por IA, con etiquetas de procedencia [E]/[P]) y cuatro competencias reorientadas: conocimiento interdisciplinar, orquestación de la IA, juicio estratégico y evaluación crítica de la IA. El marco es un protocolo preregistrado sin datos empíricos aún; su contribución es el método —un análisis de desplazamiento auditable más una vía de codiseño para la reforma curricular—, que se traslada a cualquier programa profesional cuyas tareas rutinarias los sistemas agénticos realizan cada vez más.
 
-### Conexiones
+## Conexiones
 
 La colaboración humano-IA conecta con [[human-in-the-loop-ai]] (supervisión), [[agentic-ai]] (autonomía), [[teacher-role]] (el trabajo cambiante del profesorado), [[scaffolding]] y [[metacognition]] (cómo la colaboración apoya el aprendizaje) y la [[cognitive-offloading|dependencia excesiva]] (el modo de fallo cuando la colaboración se convierte en sustitución). Es un tema central en [[ai-literacy]], [[self-regulated-learning]] y [[student-experience]].
 

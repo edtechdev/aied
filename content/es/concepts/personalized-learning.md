@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje personalizado
 created: "2026-09-25T04:31:17-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-11-11T08:45:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -132,18 +132,6 @@ La certeza GRADE se calificó como muy baja. La lectura honesta es que la estima
 
 Un problema recurrente es que el «aprendizaje personalizado» es un término paraguas amplio y definido de forma laxa. Las revisiones sistemáticas ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh et al., 2026]]) encuentran que el [[adaptive-learning|aprendizaje adaptativo]], la instrucción individualizada, el aprendizaje a medida y el aprendizaje personalizado se usan de forma intercambiable, sin una definición aceptada universalmente: una fuente de ambigüedad conceptual que complica la síntesis de la investigación y la práctica basada en la evidencia. El campo reclama cada vez más un marco y una definición unificados para que «personalizado» denote una afirmación precisa y respaldada por evidencia y no una etiqueta vaga (un punto que refuerza la [[limitations-in-aied-research|crítica del uso débil de constructos]] de esta base de conocimiento).
 
-## Concepciones erróneas comunes
-
-**«El aprendizaje personalizado y el aprendizaje adaptativo son lo mismo.»** Los sistemas adaptativos son un *medio* hacia la personalización, no su definición. La personalización se puede lograr igualmente con perfiles estáticos de quien aprende, con itinerarios de elección o con el ajuste por parte de una persona tutora que nunca adapta en tiempo real. Tratar ambos como sinónimos hace que una escuela que ofrece una rica elección a quien aprende pero ningún motor adaptativo parezca no personalizada, y que un ejercicio de práctica muy adaptativo parezca más centrado en quien aprende de lo que es.
-
-**«La personalización rinde por cubrir más terreno.»** Donde el diagnóstico que hay detrás de un itinerario se valida de verdad, rinde por *bajar la carga y no por la cobertura*: la remediación por el camino más corto promedió 3,82 pasos y recortó el tiempo de estudio un 22,0% (57,6 frente a 73,8 minutos), con la carga cognitiva cargando con el efecto. El beneficio son menos pasos innecesarios, no más contenido por hora.
-
-**«Un modelo que puede generar un [[curriculum-design|currículo]] coherente puede personalizarlo.»** Generar y adaptar son capacidades distintas, y la brecha entre ambas es grande. Los modelos que generan currículos produjeron resultados estructuralmente sólidos —DeepSeek-V3.1 alcanzó un 90,9% en validez de prerrequisitos y alucinaciones— mientras que la adaptatividad se quedó en un máximo del 44,7%, con una tasa de aprobación final del 29,5% en la condición básica. La validez de prerrequisitos no es personalización.
-
-**«Generar el material elimina la restricción que impone el contenido real.»** La generación relaja una restricción y no puede relajar otras. [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] genera conjuntos de datos estadísticos sintéticos ajustados al interés declarado por quien aprende, a los objetivos del curso y al nivel de destreza previsto —un triple ajuste que los conjuntos de datos reales rara vez satisfacen—, pero sus autores señalan el límite con claridad: los datos sintéticos no pueden enseñar la recolección de datos, la medición ni el diseño de estudios, así que la herramienta complementa los datos reales en lugar de sustituirlos.
-
-**«Las [[learning-gains|ganancias de aprendizaje]] declaradas son lo que valida estos sistemas.»** En los estudios sobre RL y personalización revisados aquí, las políticas superaron a las líneas base no adaptativas sobre todo en adaptación relacionada con la orientación y en variables afectivas (63% de los estudios probados), mientras que la ganancia de aprendizaje —especialmente la ganancia de aprendizaje normalizada— fue el resultado *menos* declarado. Una literatura que informa mucho más de la implicación y el afecto que del aprendizaje no es evidencia de que el aprendizaje domine.
-
 ## Implicaciones para la práctica
 
 **Para el profesorado**
@@ -162,6 +150,18 @@ Un problema recurrente es que el «aprendizaje personalizado» es un término pa
 
 - Deje de confundir personalización con adaptación en los constructos que mide, y diga explícitamente qué mecanismo produjo el efecto.
 - Informe la ganancia de aprendizaje normalizada como resultado primario; su escasez en la literatura es una brecha que cerrar y no una convención que heredar.
+
+## Concepciones erróneas comunes
+
+**«El aprendizaje personalizado y el aprendizaje adaptativo son lo mismo.»** Los sistemas adaptativos son un *medio* hacia la personalización, no su definición. La personalización se puede lograr igualmente con perfiles estáticos de quien aprende, con itinerarios de elección o con el ajuste por parte de una persona tutora que nunca adapta en tiempo real. Tratar ambos como sinónimos hace que una escuela que ofrece una rica elección a quien aprende pero ningún motor adaptativo parezca no personalizada, y que un ejercicio de práctica muy adaptativo parezca más centrado en quien aprende de lo que es.
+
+**«La personalización rinde por cubrir más terreno.»** Donde el diagnóstico que hay detrás de un itinerario se valida de verdad, rinde por *bajar la carga y no por la cobertura*: la remediación por el camino más corto promedió 3,82 pasos y recortó el tiempo de estudio un 22,0% (57,6 frente a 73,8 minutos), con la carga cognitiva cargando con el efecto. El beneficio son menos pasos innecesarios, no más contenido por hora.
+
+**«Un modelo que puede generar un [[curriculum-design|currículo]] coherente puede personalizarlo.»** Generar y adaptar son capacidades distintas, y la brecha entre ambas es grande. Los modelos que generan currículos produjeron resultados estructuralmente sólidos —DeepSeek-V3.1 alcanzó un 90,9% en validez de prerrequisitos y alucinaciones— mientras que la adaptatividad se quedó en un máximo del 44,7%, con una tasa de aprobación final del 29,5% en la condición básica. La validez de prerrequisitos no es personalización.
+
+**«Generar el material elimina la restricción que impone el contenido real.»** La generación relaja una restricción y no puede relajar otras. [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] genera conjuntos de datos estadísticos sintéticos ajustados al interés declarado por quien aprende, a los objetivos del curso y al nivel de destreza previsto —un triple ajuste que los conjuntos de datos reales rara vez satisfacen—, pero sus autores señalan el límite con claridad: los datos sintéticos no pueden enseñar la recolección de datos, la medición ni el diseño de estudios, así que la herramienta complementa los datos reales en lugar de sustituirlos.
+
+**«Las [[learning-gains|ganancias de aprendizaje]] declaradas son lo que valida estos sistemas.»** En los estudios sobre RL y personalización revisados aquí, las políticas superaron a las líneas base no adaptativas sobre todo en adaptación relacionada con la orientación y en variables afectivas (63% de los estudios probados), mientras que la ganancia de aprendizaje —especialmente la ganancia de aprendizaje normalizada— fue el resultado *menos* declarado. Una literatura que informa mucho más de la implicación y el afecto que del aprendizaje no es evidencia de que el aprendizaje domine.
 
 ## Conceptos conectados
 

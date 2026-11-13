@@ -8,7 +8,7 @@ pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -70,14 +70,6 @@ La resolución de problemas es el resultado aplicado del [[critical-thinking|pen
 
 - Medir la competencia en [[collaborative-learning|resolución colaborativa de problemas (RCP)]] requiere normalmente codificar la conducta a partir de los datos de proceso de tareas simuladas en habilidades de RCP específicas. El [[prompt-engineering|prompting contextual]] de modelos de lenguaje preentrenados puede automatizar esta codificación, modelando dependencias contextuales y fusionando capacidades cognitivas y sociales para lograr un rendimiento superior a bases de referencia sólidas en conjuntos de datos de tareas de RCP, lo que aborda la intensidad de trabajo de la codificación manual y permite una evaluación a gran escala y en tiempo real.
 
-## Concepciones erróneas
-
-**«La IA que ayuda al estudiantado a explorar perspectivas le está ayudando a pensar.»** La misma conducta sostiene dos resultados muy distintos: las herramientas de IA ayudan al estudiantado a explorar múltiples perspectivas y a generar sus propios problemas, y también pueden fomentar la pereza metacognitiva. La pregunta que distingue es si el estudiantado está haciendo el encuadre o recibiéndolo: un sistema que suministra perspectivas candidatas ha ejecutado el paso generativo que el ejercicio existía para exigir.
-
-**«La resolución es el objetivo, así que el planteamiento es un extra.»** El planteamiento de problemas es donde se construye la transferencia, porque exige que quien aprende construya la estructura en lugar de operar dentro de una que le dio el sistema. Un [[curriculum-design|currículo]] que solo suministra problemas bien formulados entrena el desempeño en problemas bien formulados, que no es la condición que el estudiantado encuentra después.
-
-**«La simulación de la resolución colaborativa de problemas sustituye a la colaboración.»** Una simulación reproduce el patrón de interacción, y la habilidad que se desarrolla es la regulación de un problema conjunto por participantes que están realmente presentes. Los agentes específicos de cada participante que modelan colaboradores reales son un instrumento de investigación para estudiar esa regulación: útil por lo que revela del proceso, no una forma de dar al estudiantado la práctica sin los pares.
-
 ## Implicaciones para la práctica
 
 **Para el profesorado**
@@ -94,6 +86,14 @@ La resolución de problemas es el resultado aplicado del [[critical-thinking|pen
 **Para quienes investigan**
 
 - Las simulaciones con agentes específicos de cada participante son un instrumento sólido para estudiar la regulación colaborativa. Infórmelas como tal y no como evidencia sobre la colaboración no supervisada del estudiantado.
+
+## Concepciones erróneas
+
+**«La IA que ayuda al estudiantado a explorar perspectivas le está ayudando a pensar.»** La misma conducta sostiene dos resultados muy distintos: las herramientas de IA ayudan al estudiantado a explorar múltiples perspectivas y a generar sus propios problemas, y también pueden fomentar la pereza metacognitiva. La pregunta que distingue es si el estudiantado está haciendo el encuadre o recibiéndolo: un sistema que suministra perspectivas candidatas ha ejecutado el paso generativo que el ejercicio existía para exigir.
+
+**«La resolución es el objetivo, así que el planteamiento es un extra.»** El planteamiento de problemas es donde se construye la transferencia, porque exige que quien aprende construya la estructura en lugar de operar dentro de una que le dio el sistema. Un [[curriculum-design|currículo]] que solo suministra problemas bien formulados entrena el desempeño en problemas bien formulados, que no es la condición que el estudiantado encuentra después.
+
+**«La simulación de la resolución colaborativa de problemas sustituye a la colaboración.»** Una simulación reproduce el patrón de interacción, y la habilidad que se desarrolla es la regulación de un problema conjunto por participantes que están realmente presentes. Los agentes específicos de cada participante que modelan colaboradores reales son un instrumento de investigación para estudiar esa regulación: útil por lo que revela del proceso, no una forma de dar al estudiantado la práctica sin los pares.
 
 ## Conceptos conectados
 

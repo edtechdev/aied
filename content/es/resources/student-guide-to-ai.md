@@ -1,7 +1,7 @@
 ---
 title: "Student Guide to AI"
 created: "2026-09-29T03:32:26-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: resource
 summary: "Una guía estudiantil gratuita sobre inteligencia artificial en tres ediciones, de la Universidad de Elon, la AAC&U y The Princeton Review, cuya edición de 2026 desarrolla diez capacidades humanas con módulos de aprendizaje listos para el profesorado y una autoevaluación anónima."
 url: https://studentguidetoai.org/
@@ -17,7 +17,7 @@ ethics: [ethics]
 assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_of: resources/student-guide-to-ai
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -38,9 +38,9 @@ La guía de campo de 2026 recorre diez capacidades —curiosidad, [[critical-thi
 
 ## Para quién es
 
-Estudiantes de grado de cualquier disciplina y estudiantes de secundaria superior. El profesorado, el personal de apoyo académico, el personal bibliotecario y los educadores de asuntos estudiantiles reciben el conjunto de módulos y las preguntas de debate; la guía es deliberadamente neutral respecto a la disciplina, y por eso las instituciones la utilizan para seminarios de primer año, desarrollo profesional docente y un vocabulario compartido entre distintas iniciativas de IA.
+Estudiantes de grado de cualquier disciplina y estudiantes de secundaria superior. El profesorado, el personal de apoyo académico, el personal bibliotecario y los educadores de asuntos estudiantiles reciben el conjunto de módulos y las preguntas de debate; la guía es deliberadamente neutral respecto a la disciplina, y por eso las instituciones la utilizan para seminarios de primer año, [[educational-development|desarrollo profesional docente]] y un vocabulario compartido entre distintas iniciativas de IA.
 
-## Notas
+## Notas y salvedades
 
 La guía está planteada de forma [[formative-assessment|formativa]] y así lo dice: las puntuaciones son una instantánea de hábitos, no una calificación, un rasgo ni una predicción, y se pide al estudiantado que no las comparta públicamente.
 

@@ -1,5 +1,5 @@
 ---
-title: Educación infantil y primaria
+title: Educación infantil
 created: "2026-09-28T20:10:03-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
@@ -8,8 +8,8 @@ connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-11-11T09:55:00-05:00"
-updated: "2026-11-11T12:40:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 
 > **Educación infantil** — el uso de la inteligencia artificial en la educación de los niños pequeños, abarcando la educación infantil (preescolar) y los años de primaria. Esto cubre los currículos de alfabetización en IA y de [[computational-thinking|pensamiento computacional]] para los estudiantes más jóvenes, los juguetes y el juego con IA, el [[personalized-learning|aprendizaje personalizado]] en las asignaturas de primaria, y las consideraciones de desarrollo, seguridad y equidad propias de los niños, distintas de las de los adolescentes o los adultos.
 
-## Preguntas para considerar
+## Preguntas para reflexionar
 
 - Los niños pequeños se encuentran ahora con la IA a través de juguetes, [[conversational-ai|chatbots]] y robots de aula. ¿Qué hace fundamentalmente distinta la relación de un niño de 5 años con la IA respecto a la de un adulto? ¿Y qué debería cambiar en la forma de pensar sobre los riesgos?
 - Parte de la alfabetización en IA en la primera infancia se enseña mediante el juego «desconectado», sin ordenadores en absoluto. ¿Cómo pueden aprenderse conceptos abstractos de IA mediante actividades [[embodied-learning|corporizadas]] y tangibles en lugar de pantallas?
@@ -45,9 +45,9 @@ ai_assist:
 
 ## Introducción
 
-Los niños pequeños interactúan con la IA cada vez más temprano —a través de juguetes con IA, chatbots, plataformas de [[adaptive-learning|aprendizaje adaptativo]] y robots de aula—, aunque difieren en su desarrollo de los estudiantes de K-12 y de educación superior que dominan la mayor parte de la [[research-methods-aied|investigación]] sobre IA en la educación. Este concepto reúne la cobertura que la base de conocimientos dedica a esa franja más joven. Se sitúa dentro del paraguas más amplio de [[k-12|K-12]], pero es distinto porque las preocupaciones son específicas del desarrollo: el [[game-based-learning|juego]] como modo principal de aprendizaje, el andamiaje adulto (padres/madres y docentes), la [[ai-literacy|alfabetización en IA]] apropiada para la edad, y una atención acentuada al [[well-being|bienestar]] y a la [[pedagogical-safety|seguridad]].
+Los niños pequeños interactúan con la IA cada vez más temprano —a través de juguetes con IA, chatbots, plataformas de [[adaptive-learning|aprendizaje adaptativo]] y robots de aula—, aunque difieren en su desarrollo de los estudiantes de K-12 y de educación superior que dominan la mayor parte de la [[research-methods-aied|investigación]] sobre IA en la educación. Este concepto reúne la cobertura que la base de conocimientos dedica a esa franja más joven. Se sitúa dentro del paraguas más amplio de [[k-12|K-12]], pero es distinto porque las preocupaciones son específicas del desarrollo: el [[game-based-learning|juego]] como modo principal de aprendizaje, el andamiaje adulto (padres/madres y docentes), la [[ai-literacy|alfabetización en IA]] apropiada para la edad, y una atención acentuada al [[well-being|bienestar]] y a la [[pedagogical-safety|seguridad]]. La explicación evolutiva que sustenta estas afirmaciones —cómo cambian las capacidades con la edad y por qué «apropiado para la edad» es una relación y no una etiqueta— está en [[developmental-psychology|psicología del desarrollo]].
 
-### Cómo se agrupa la investigación
+## Cómo se agrupa la investigación
 
 - **Alfabetización en IA mediante el juego desconectado.** [[ai-play-framework-early-childhood-2026|El marco AI-Play]] enseña conceptos de IA para la primera infancia mediante actividades *desconectadas* (sin ordenador), mostrando que las ideas abstractas de IA pueden introducirse en los niños pequeños mediante actividades corporizadas, lúdicas y tangibles (véase [[game-based-learning]]), una vía de desarrollo apropiada hacia la [[ai-literacy]] y el [[computational-thinking]].
 - **Juguetes con IA y desarrollo infantil.** [[ai-toys-child-development-2026|La investigación sobre la IA en los juguetes]] examina cómo los juguetes comerciales con capacidad de IA moldean el desarrollo y el juego infantiles. Esto plantea cuestiones abiertas sobre los [[pedagogical-agent|agentes]] en el juego, la [[trust-calibration|calibración de la confianza]], la [[agency|agencia]] y el [[well-being]] de los estudiantes más jóvenes, un ámbito donde la orientación de diseño es más escasa que para los currículos de edad escolar, y donde [[parents-and-families|los padres y las madres]]/tutores se convierten en partes interesadas centrales.
@@ -68,7 +68,7 @@ Los niños pequeños interactúan con la IA cada vez más temprano —a través 
 
 - **La alfabetización en IA como trabajo interpretativo de aula, no como conocimiento individual.** [[konca-preschool-genai-storytelling-ai-literacy-2026|Konca y Yigit-Gencten (2026)]] codificaron 17 sesiones de narración en un preescolar turco en las que la docente escribía todos los prompts de Midjourney y la clase veía los resultados en una pantalla compartida. Los niños explicaban los desajustes atribuyendo pensamiento, audición e intención al sistema («no pudo pensarlo lo suficientemente bien»), debatían la relación entre los prompts y los resultados, y votaban qué imágenes conservar. Como las preguntas de la docente decidían qué explicaciones se retomaban, y a veces cerraban la indagación por completo, la alfabetización temprana en IA queda aquí distribuida a lo largo de la actividad y no en poder de un niño.
 
-### Consideraciones de desarrollo y equidad
+## Consideraciones de desarrollo y equidad
 
 Como los estudiantes jóvenes son más vulnerables y menos capaces de autorregular su uso de la IA, este grupo de investigaciones enfatiza el **andamiaje por parte de adultos** (padres, madres, tutores y docentes), el **diseño apropiado para la edad**, y el riesgo de [[cognitive-offloading|dependencia excesiva]] y de [[well-being|daño]] si la IA sustituye, en lugar de apoyar, el trabajo de desarrollo que supone el juego, el descubrimiento y el aprendizaje con esfuerzo. La equidad es una preocupación vigente: el acceso a un aprendizaje temprano rico en IA (o a una orientación adulta protectora) es desigual, lo que conecta con la [[digital-divide|brecha digital]] y la [[equity-in-ai-education|equidad en la IA educativa]]. Gran parte de la base de evidencia sigue siendo exploratoria u orientada al diseño, más que causal.
 
@@ -84,6 +84,7 @@ Una primera ventana de neuroimagen sobre esta cuestión llega con una cautela: n
 
 ## Conceptos conectados
 
+- [[developmental-psychology]]
 - [[k-12]]
 - [[ai-literacy]]
 - [[computational-thinking]]

@@ -1,7 +1,7 @@
 ---
 title: Educación y formación profesional
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -11,7 +11,7 @@ audience: [instructors, curriculum designers, institutions]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/vocational-education
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,7 @@ Sus vecinos en esta base de conocimiento difieren sobre todo en alcance. La [[pr
 
 Lo distintivo de la IA en la VET es una brecha entre lo que el sector dice querer y lo que construye: la [[constructivist|teoría constructivista]] se defiende ampliamente mientras que dominan los sistemas conductistas de ejercicio y práctica y los diseños con agencia para quien aprende siguen siendo raros. La pregunta recurrente de diseño no es si la IA puede impartir instrucción, sino si puede absorber las partes del aprendizaje profesional que son caras de dotar de personal (escenarios realistas, retroalimentación oportuna, contrapartes interpretadas por actores, evidencia oral) sin desplazar la práctica que produce competencia.
 
-### Cómo aparece la IA en la educación y formación profesional
+## Cómo aparece la IA en la educación y formación profesional
 
 - **Una base de evidencia joven, fragmentada y concentrada geográficamente.** La primera [[meta-analysis-systematic-review|revisión sistemática]] sobre IA en la VET ([[ai-vocational-education-training-review]]) identificó 26 estudios empíricos publicados entre 2015 y 2026 a través de ERIC, Web of Science y Elicit conforme a las directrices PRISMA: nueve de ámbito técnico, nueve de ámbito general, cinco en administración de empresas y tres en salud. Los entornos fueron seis de aula, ocho en línea, cuatro mixtos y ocho basados en simulación, y ninguno en un lugar de trabajo, pese al carácter laboral de la VET. Diecisiete de los 26 procedían de Asia; solo nueve estudios compartían al menos una referencia y ninguno se citaba entre sí. Cinco eran experimentos aleatorizados y 21 usaron diseños preexperimentales o cuasiexperimentales, en su mayoría midiendo resultados inmediatamente después de la intervención, y solo tres dieron al estudiantado un papel activo en un diseño potenciado por IA. Los autores advierten de una "trampa de Turing" educativa, es decir, usar la IA para replicar la instrucción humana en lugar de aumentar el [[human-in-the-loop-ai|juicio humano]], y reclaman casos de fracaso y condiciones límite en lugar de la narrativa de éxito dominante.
 
@@ -64,16 +64,7 @@ Lo distintivo de la IA en la VET es una brecha entre lo que el sector dice quere
 - **El apoyo percibido es una palanca institucional, no un déficit del estudiantado.** Entre 784 estudiantes de seis centros chinos de formación profesional superior, [[huang-ai-literacy-vocational-problem-solving-2026|Huang et al. (2026)]] encontraron que el vínculo de la [[ai-literacy|alfabetización en IA]] con la [[problem-solving|resolución compleja de problemas]] autoinformada (total 0,480) se fortalecía con el apoyo percibido de las TIC escolares: los efectos indirectos condicionales subieron de 0,117 a 0,176 y de 0,038 a 0,127.
 
 - **La renovación curricular como obligación continua y no como revisión periódica.** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]] identifica cinco dimensiones de renovación que interactúan (transformación ocupacional, vigencia del currículo, alineación de la capacidad del profesorado, arquitectura del programa y alineación externa) y seis pruebas de liderazgo para decidir si un curso debe conservarse, revisarse, integrarse, reemplazarse o retirarse.
-
-## Concepciones erróneas comunes
-
-**"La base de evidencia sobre IA en la VET nos dice algo sobre la educación y formación profesional."** Nos dice algo sobre sustitutos de aula, lo que constituye una laguna grave y no un detalle: **ningún estudio de la base de evidencia sobre IA en la VET se sitúa en un lugar de trabajo**, y sin embargo la VET se *define* por el aprendizaje basado en el trabajo. Un hallazgo sobre una herramienta de IA en una tarea simulada del oficio todavía no se ha enfrentado a las condiciones que hacen distintivo al sector: clientes reales, consecuencias reales de seguridad y variación real en los equipos del lugar de trabajo.
-
-**"Un efecto significativo en la capacidad de diseño o creativa se traslada a la competencia ocupacional."** El resultado [[quantitative-research|cuantitativo]] más sólido que aparece aquí procede de un **cuasiexperimento de 12 semanas con dos grupos y 63 respuestas válidas (31 frente a 32)**. Allí la condición inmersiva con agente obtuvo puntuaciones más altas en capacidad de diseño (η²p = 0,138) y capacidad creativa (η²p = 0,111) según un ANCOVA, con una implicación cognitiva de d = 0,90. Treinta y un estudiantes por rama en una tarea de aula es evidencia sobre esa tarea, y la competencia ocupacional no es uno de los resultados medidos.
-
-**"Quienes aprenden dependerán en exceso de la IA en la formación práctica."** La evidencia de los pilotos apunta en la dirección contraria. Los pilotos exploratorios (**N = 30**, Italia y China, **20 sesiones acotadas**) encontraron que quienes participaron trataban el sistema como una herramienta de apoyo acotada, con **ninguna expectativa declarada de sustitución ni de dependencia**. Es exploratorio y pequeño, y sí sugiere que el modo en que el estudiantado de formación profesional enmarca una herramienta como equipo y no como autoridad es un recurso en torno al cual vale la pena diseñar.
-
-**"Que al estudiantado le apruebe una tarea simulada significa que la tarea evaluó lo correcto."** De **33 estudiantes encuestados, 21 (64%)** coincidieron en que la tarea de voz era realista y la misma proporción dijo que le daba una forma clara de comunicar lo que sabía, y ninguno se mostró en desacuerdo con que hablar en tiempo real se ajustaba a esta [[authentic-assessment|evaluación auténtica]]. El realismo y la claridad comunicativa merecen conocerse y no son validez: una tarea puede parecer auténtica y aun así no muestrear el desempeño ocupacional que representa.
+- **El juicio sobre el producto como competencia profesional.** Evaluar el trabajo generado por IA frente a criterios ocupacionales —exactitud, normas, cumplimiento, seguridad— es donde la competencia profesional se vuelve observable, y no en el artefacto mismo ([[zheng-ai-evaluative-judgement-vocational-2026|Zheng y Tang (2026)]]).
 
 ## Implicaciones para la práctica
 
@@ -91,6 +82,16 @@ Lo distintivo de la IA en la VET es una brecha entre lo que el sector dice quere
 **Para quienes investigan**
 
 - Realice al menos algunos estudios sobre el terreno, en lugares de trabajo. Un sector definido por el aprendizaje basado en el trabajo cuya base de evidencia no contiene estudios en lugares de trabajo todavía no ha puesto a prueba su afirmación central.
+
+## Concepciones erróneas comunes
+
+**"La base de evidencia sobre IA en la VET nos dice algo sobre la educación y formación profesional."** Nos dice algo sobre sustitutos de aula, lo que constituye una laguna grave y no un detalle: **ningún estudio de la base de evidencia sobre IA en la VET se sitúa en un lugar de trabajo**, y sin embargo la VET se *define* por el aprendizaje basado en el trabajo. Un hallazgo sobre una herramienta de IA en una tarea simulada del oficio todavía no se ha enfrentado a las condiciones que hacen distintivo al sector: clientes reales, consecuencias reales de seguridad y variación real en los equipos del lugar de trabajo.
+
+**"Un efecto significativo en la capacidad de diseño o creativa se traslada a la competencia ocupacional."** El resultado [[quantitative-research|cuantitativo]] más sólido que aparece aquí procede de un **cuasiexperimento de 12 semanas con dos grupos y 63 respuestas válidas (31 frente a 32)**. Allí la condición inmersiva con agente obtuvo puntuaciones más altas en capacidad de diseño (η²p = 0,138) y capacidad creativa (η²p = 0,111) según un ANCOVA, con una implicación cognitiva de d = 0,90. Treinta y un estudiantes por rama en una tarea de aula es evidencia sobre esa tarea, y la competencia ocupacional no es uno de los resultados medidos.
+
+**"Quienes aprenden dependerán en exceso de la IA en la formación práctica."** La evidencia de los pilotos apunta en la dirección contraria. Los pilotos exploratorios (**N = 30**, Italia y China, **20 sesiones acotadas**) encontraron que quienes participaron trataban el sistema como una herramienta de apoyo acotada, con **ninguna expectativa declarada de sustitución ni de dependencia**. Es exploratorio y pequeño, y sí sugiere que el modo en que el estudiantado de formación profesional enmarca una herramienta como equipo y no como autoridad es un recurso en torno al cual vale la pena diseñar.
+
+**"Que al estudiantado le apruebe una tarea simulada significa que la tarea evaluó lo correcto."** De **33 estudiantes encuestados, 21 (64%)** coincidieron en que la tarea de voz era realista y la misma proporción dijo que le daba una forma clara de comunicar lo que sabía, y ninguno se mostró en desacuerdo con que hablar en tiempo real se ajustaba a esta [[authentic-assessment|evaluación auténtica]]. El realismo y la claridad comunicativa merecen conocerse y no son validez: una tarea puede parecer auténtica y aun así no muestrear el desempeño ocupacional que representa.
 
 ## Conceptos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Metacognición
 created: "2026-09-25T03:54:17-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-11-11T11:35:00-05:00"
+source_updated: "2026-11-12T18:50:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [student-guide-to-ai]
 contributors: [editor]
@@ -176,6 +176,8 @@ La [[agentic-ai|IA agéntica]] proactiva puede desplazar el propio bucle metacog
 - **Dentro de un instrumento de autoinforme metacognitivo, la conciencia predice más que el resto.** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai y Alshahri (2026)]] validaron una medida de 45 ítems del aprendizaje STEM apoyado por IA con 649 estudiantes de secundaria saudíes (CFI = 0,983, RMSEA = 0,019; ω de las subescalas = 0,888–0,905) y la usaron para ordenar sus componentes. Las cuatro dimensiones explicaron el 68% de la varianza de las puntuaciones de aprendizaje autorregulado, con la conciencia metacognitiva basada en IA como la más fuerte (β = 0,38, p < 0,001), seguidas de la transferencia cognitiva y la adaptabilidad (β = 0,29, p = 0,008), mientras que el razonamiento creativo y crítico con IA-STEM no resultó significativo (β = 0,14, p = 0,135). La conciencia es el componente que sostiene el rendimiento adaptativo, los autores aconsejan informar las subescalas por separado en lugar de una puntuación global, y reservan el razonamiento de orden superior para tareas de calidad del razonamiento; la medida es, no obstante, autoinformada, así que, como el estudio del taller anterior, captura la capacidad percibida y no el uso observado de estrategias.
 - **La propia monitorización de quien evalúa también es trabajo metacognitivo.** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl y Leuders (2026)]] sostienen que una [[cognitive-diagnosis|inferencia diagnóstica]] generada por IA no es evidencia en bruto sino una interpretación ya hecha, así que el profesorado debe integrarla con sus propias observaciones en un proceso que llaman *metadiagnóstico*, decidiendo deliberadamente si aceptarla, rechazarla o modificarla. Eso sitúa un segundo bucle metacognitivo junto al de quien aprende: no solo cómo regula el estudiantado su pensamiento con la IA, sino cómo evalúa el profesorado lo que el sistema afirma sobre ese pensamiento.
 
+La función ejecutiva es el constructo vecino, y el corpus tiene un resultado que los separa con claridad. El estudio de [[wilder-adhd-ai-interview-eye-tracking-2025|Wilder y Stratchan]] con 46 estudiantes universitarios con TDAH encontró que una medida de tarea de la flexibilidad cognitiva predecía el desempeño en la entrevista, mientras que la subescala de autorregulación del MSLQ no lo hacía (p = 0,312). Saber cómo se regula uno no es lo mismo que ser capaz de cambiar bajo carga, y una página sobre [[executive-function|función ejecutiva]] recoge el lado de la capacidad en esa distinción. El marco de [[sidorkin-extended-executive-cognition-2025|Sidorkin]] toma la dirección opuesta y trata la asignación del esfuerzo entre el trabajo humano y el de la máquina como un resultado metacognitivo en sí mismo.
+
 ## Concepciones erróneas
 
 - **«La asistencia de IA deja intacta la capacidad subyacente.»** El estudiantado que usó asistencia de IA para redactar ensayos fue **un 83% incapaz de recordar citas de sus propios ensayos, frente al 11% de quienes no usaron IA**, lo que indica que **no se implicó con el contenido durante la producción**. El proceso de producción es donde ocurre la implicación, y saltárselo se nota después.
@@ -196,6 +198,7 @@ La [[agentic-ai|IA agéntica]] proactiva puede desplazar el propio bucle metacog
 - [[retrieval-spacing-interleaving]] — los juicios de aprendizaje y la ilusión de fluidez que corrige la práctica de recuperación
 - [[cognitive-surrender]]
 - [[reflection]]
+- [[executive-function]]
 
 ## Artículos conectados
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — un taller de alfabetización en IA de dos horas cambió la regulación de la interacción con el LLM de estudiantes de secundaria, a diferencia de su metacognición autoinformada (Clerc et al. 2026)
@@ -242,3 +245,5 @@ La [[agentic-ai|IA agéntica]] proactiva puede desplazar el propio bucle metacog
 - [[fan-metacognitive-offloading-sync-model-2026]] — Modelo SYNC: descarga frente a oncarga metacognitiva, y desempeño en la tarea desacoplado del aprendizaje duradero (Fan et al. 2026)
 - [[guo-overreliance-genai-feedback-2026]] — La monitorización no bloquea tanto la ruta de la descarga como la redirige
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Cuando se omite la monitorización, y lo que cuesta
+- [[wilder-adhd-ai-interview-eye-tracking-2025]] — La flexibilidad cognitiva predice el nivel de la entrevista; la regulación autoinformada, no
+- [[sidorkin-extended-executive-cognition-2025]] — La cognición ejecutiva extendida como resultado de aprendizaje (marco)

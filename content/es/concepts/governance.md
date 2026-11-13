@@ -1,7 +1,7 @@
 ---
 title: Gobernanza de la IA
 created: "2026-09-25T04:32:03-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-11-11T08:45:00-05:00"
+source_updated: "2026-11-12T14:55:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 
 > **Gobernanza de la IA**: los marcos, políticas, estructuras institucionales y normas que guían el diseño, el despliegue y el uso responsables de la [[ai-education|inteligencia artificial en la educación]]. La gobernanza abarca mecanismos institucionales formales (grupos rectores de IA, políticas sobre integridad académica y uso aceptable, revisión ética) y [[social-norms-ai-use|normas informales]] (directrices del profesorado, desarrollo profesional, culturas de [[ai-literacy|uso responsable de la IA]]). En la era de la IA, una gobernanza eficaz es un requisito previo para una adopción ética, [[equity-in-ai-education|equitativa]] y sostenible de la IA generativa: determina si la IA se integra de forma transparente y con rendición de cuentas, o si se adopta de manera reactiva y de formas que profundizan las inequidades.
 
-## Preguntas para considerar
+## Preguntas para reflexionar
 
 - Si su institución tiene una política de IA en el papel pero ningún proceso claro para aplicarla, actualizarla o comunicarla, ¿es eso realmente gobernanza? ¿Qué separa una norma que existe de una norma que está efectivamente gobernada?
 - Los estudiantes de un estudio dijeron que su universidad no tenía una política de IA clara y que eso moldeó cómo usaban la IA. ¿Cómo puede la ambigüedad de la política influir en lo que los estudiantes deciden que es un "uso aceptable", y deberían las instituciones preocuparse por dejar esa negociación a los individuos?
@@ -74,6 +74,10 @@ La gobernanza de la IA en la educación es cada vez más urgente porque la [[gen
 
 - **La alfabetización en IA como capacidad de gobernanza ("el ODS 18"):** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed e Islam (2026)]] reconceptualizan la alfabetización en IA como un mecanismo sistémico de gobernanza y no como una habilidad de aula, y proponen una taxonomía AIRE de seis niveles (reconocer, comprender, aplicar, analizar, integrar, gobernar) que extiende la jerarquía de Bloom con síntesis ética y previsión estratégica, además de un nexo IA-ODS que mapea las competencias de alfabetización sobre los diecisiete [[sustainability|Objetivos de Desarrollo Sostenible]]. Al enmarcar la alfabetización en IA como una heurística del "ODS 18", una capacidad transversal que canaliza el aprendizaje hacia la gobernanza y el desarrollo sostenible, la encuesta del estudio a 300 profesionales encontró que la alfabetización en gobernanza era el predictor más fuerte de la conciencia del nexo IA-ODS (β = 0,64, r = 0,67 con la conciencia del nexo) e identificó el razonamiento ético y el pensamiento reflexivo como los predictores más fuertes de un uso confiable de la IA. Esto vincula la gobernanza institucional con el cultivo de la [[ai-literacy|alfabetización en IA]] pública, y se hace eco del hallazgo de la base de conocimiento de que una alineación responsable de la IA requiere [[stakeholders|responsables de políticas]] y ciudadanos capaces de interpretar críticamente los sistemas algorítmicos, y no solo un control técnico orientado al cumplimiento.
 - **La mayor parte de la gobernanza educativa es orientación, no ley.** En 160 documentos en inglés, solo 4 adoptaron forma legal o regulatoria formal mientras 92 eran orientaciones, marcos o kits de herramientas, y la rendición de cuentas apareció en 146 documentos pero emparejada con un actor de supervisión nombrado en 100 ([[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]]).
+
+- **El conocimiento de las políticas va por detrás de su producción.** La encuesta de 2026 de [[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE]] a 1.960 miembros del personal y del profesorado encontró que el 94% había usado herramientas de IA para su trabajo en los seis meses anteriores, mientras que el 54% conocía las políticas que regían ese uso; el 92% de las instituciones informó de una estrategia de IA para el trabajo y el 13% medía su retorno de la inversión. [[kelso-unsanctioned-technology-use-educational-institutes-2025|Kelso y sus colegas]] encontraron un conocimiento aún menor entre el profesorado de K-12, del 30,3%, con 22 de 375 que admitían una infracción de la política. Una orientación escrita pero no leída se comporta como si no hubiera orientación, y por eso [[shadow-ai|la IA en la sombra]] trata la vía autorizada —lo bastante breve como para competir con la no aprobada— como el instrumento de gobernanza.
+
+- **La gobernanza y la competencia docente como un solo problema.** [[kaziya-learner-data-privacy-governance-2026|Kaziya y Lungu (2026)]] sostienen que las salvaguardas institucionales y la capacidad individual solo se sustituyen mutuamente en acciones muy acotadas —donde un control bloquea una divulgación concreta sin exigir juicio— y deben complementarse allí donde el docente tiene que interpretar la finalidad o detectar identificadores contextuales. Su marco asigna a cada transición un derecho de decisión con nombre y un resultado del que se responde, que es el análogo en gobernanza de un estándar de [[teacher-ai-competency|competencia]].
 
 - **La IA administrativa convierte la gobernanza en una cuestión de operaciones de servicio y no de aula.** [[pandey-davies-he-governance-administrative-ai-2026|Pandey y Davies (2026)]] delimitan la IA administrativa al reclutamiento, la admisión, la matrícula, los registros, la orientación académica, el alojamiento, el bienestar y la carrera profesional, y excluyen por definición la enseñanza, el aprendizaje y la investigación. Su marco sociotécnico ofrece tres proposiciones contrastables: la optimización conjunta de la tecnología con los roles y la rendición de cuentas, la política de los artefactos y la infraestructura moldeada globalmente. Cinco impulsores explican la adopción: la preparación infraestructural y los ecosistemas de plataformas comerciales la habilitan y la orientan, mientras que el posicionamiento competitivo ante la volatilidad de la matrícula, los mandatos regulatorios y de movilidad, y la legitimidad de sostenibilidad la motivan. Se derivan cuatro capacidades de liderazgo: alfabetización contractual, interrogar el objetivo, contención bajo presión y participación permanente. Se trata de un análisis conceptual y una revisión interpretativa, así que las proposiciones se ofrecen para su contrastación y no como establecidas.
 
@@ -135,7 +139,7 @@ Las disposiciones de gobernanza aparecieron solo en documentos de política gene
 
 Un argumento de 2026 extiende la gobernanza más allá del uso por parte del estudiantado hasta la producción del material didáctico mismo. Chew (2026) separa el contenido representacional (imágenes, diagramas), el contenido de razonamiento (casos, pacientes simulados) y el contenido de evaluación (ítems, rúbricas, retroalimentación). Cada tipo tiene un fallo característico y un verificador distinto: una norma de referencia, una persona experta que pueda llegar a la conclusión sin ayuda, o evidencia de lo que mide un instrumento. Como un error plausible en el contenido curricular llega a todo el estudiantado y puede no aflorar nunca como señal, sitúa la rendición de cuentas en la institución y especifica cuatro capacidades: saber qué está en uso, probarlo antes de usarlo, actuar sobre los hallazgos incluida la retirada, y vigilar las herramientas aprobadas en busca de deriva ([[chew-ai-content-governance-medical-education-2026|Chew, 2026]]).
 
-## Concepciones erróneas comunes
+## Concepciones erróneas
 
 - **"Las universidades han adoptado políticas de IA vinculantes."** De **48 instituciones**, **40 (83%)** tenían al menos un documento disponible públicamente, y en esas 40 **la gobernanza se materializaba sobre todo como orientación y no como norma vinculante**. Una orientación publicada no es una política aplicable.
 - **"La política se escribe pensando primero en el estudiante porque el estudiante es el riesgo."** La mayoría de los documentos se dirigían **conjuntamente a profesorado y estudiantado (20, 51%) y no solo al estudiantado (6, 15%)**, y ni el tipo de política ni el público variaban con la modalidad de impartición. El enfoque es conjunto, lo que significa que las obligaciones son compartidas.
@@ -203,3 +207,4 @@ Un argumento de 2026 extiende la gobernanza más allá del uso por parte del est
 - [[li-su-teacher-genai-decision-making-2026]] — Una vía propuesta de la claridad de gobernanza a los episodios de decisión docente
 - [[pandey-davies-he-governance-administrative-ai-2026]] — La IA administrativa como cuestión de operaciones de servicio
 - [[chan-ai-policy-gap-2026]] — El lenguaje de gobernanza se queda en las políticas generales y nunca en las reglas de financiación que vinculan a quien solicita (Chan 2026)
+- [[kaziya-learner-data-privacy-governance-2026]] — Competencia y gobernanza tratadas como complementos, no sustitutos, en la protección de datos de quienes aprenden

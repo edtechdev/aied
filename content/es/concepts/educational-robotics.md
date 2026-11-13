@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ La robótica educativa es una aplicación distinta pero estrechamente relacionad
 
 La evidencia es más escasa de lo que sugiere el volumen de trabajo: una revisión de la IA y la robótica en la educación encuentra que la mayoría de los estudios empíricos se refieren a estudiantes menores de 13 años durante cuatro semanas o menos, concentrados en unos pocos países que invirtieron pronto, con el [[learning-gains|rendimiento de aprendizaje]] como resultado más estudiado y la ética, la equidad y la política por detrás del despliegue ([[white-wu-robotics-ai-education-2026|White y Wu (2026)]]).
 
-### Robots sociales e interacción persona–robot
+## Robots sociales e interacción persona–robot
 
 Dos corrientes configuran la vertiente social de la robótica en la educación.
 
@@ -46,7 +46,7 @@ Los **robots sociales** son robots diseñados para relacionarse con las personas
 
 La **interacción persona–robot (HRI)** es el estudio interdisciplinar de cómo interactúan las personas y los robots, y abarca la percepción, la comunicación, la colaboración y las dinámicas sociales, cognitivas y [[ethics|éticas]] de esa interacción. En la educación, la HRI subyace a cómo el estudiantado percibe, confía y aprende con robots, ya sea programando un robot, conversando con un robot tutor o ensayando escenarios sociales. La [[research-methods-aied|investigación]] en HRI examina cómo la apariencia, el comportamiento, el contexto de la tarea y la corporeización del robot configuran la [[usability-research|experiencia de uso]], la confianza, la agencia y el aprendizaje. Entre las preocupaciones clave de la HRI educativa están preservar la [[agency|agencia]] humana, construir la [[trust|confianza]], apoyar la [[self-efficacy|autoeficacia]] y asegurar que la interacción con robots apoye, y no socave, la autonomía y el aprendizaje social. Conecta la robótica con la [[human-ai-collaboration|colaboración persona-IA]] y el [[social-emotional-learning|aprendizaje socioemocional]].
 
-### Cómo se usan los robots en la educación
+## Cómo se usan los robots en la educación
 
 [[teaching-with-robots-five-types-perspective-2026|Christ et al. (2026)]] añaden una tipología de roles en lugar de una lista de tecnologías: sus cinco tipos de robot de aula, derivados de un taller, difieren por *función pedagógica y nivel de abstracción*, no por el hardware. El tipo a ejecuta una demostración no interactiva de patrones sociales genéricos (un teatro de emociones guionizado seguido de una discusión sobre dinámicas como la escalada o el malentendido); el tipo b es un robot interactivo reactivo al tacto que apoya un teatro físico participativo, el [[embodied-learning|aprendizaje corporeizado]], la conciencia de los límites y la regulación emocional; el tipo c es un interlocutor de lengua hablada que muestra empatía y recuerda las interacciones con un único alumno, creando un entorno protegido uno a uno para la autorrevelación; el tipo d está guiado externamente por un especialista oculto, como un títere con grados de libertad adicionales, con el objetivo de aplanar la jerarquía social; y el tipo e es un robot no interactivo que reproduce acciones observadas recientemente en la escuela para que el alumnado reflexione sobre el comportamiento situado, siendo el contraste con el tipo a exactamente su abstracción específica de contexto en lugar de generalizada. La tipología declara explícitamente ser un espacio de diseño no validado y basado en un único programa nacional de salud mental, así que es un menú para diseñar y evaluar roles de robots, no una prueba de que ninguno de ellos funcione.
 
@@ -74,7 +74,7 @@ La **interacción persona–robot (HRI)** es el estudio interdisciplinar de cóm
 - **Qué hace realmente la robótica de pensamiento computacional en el jardín de infancia.** Una [[meta-analysis-systematic-review|revisión sistemática]] de 53 estudios encontró que el [[problem-based-learning|aprendizaje basado en problemas]], la narración de historias y el andamiaje eran las estrategias más usadas, y que la mayoría de los estudios no nombraban ningún marco de pensamiento computacional y usaban herramientas de evaluación ad hoc en lugar de un instrumento validado como TechCheck-K ([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou y Sapounidis (2026)]]).
 - **Planificación con LLM en lugar de conversación.** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] usa un modelo de visión-lenguaje para convertir fotografías de Shoebox Tasks —actividades visualmente estructuradas que se emplean con estudiantes del [[neurodiversity|espectro autista]]— en un problema PDDL que un humanoide Nao ejecuta o demuestra, con la corrección del plan puntuada en seis tareas y no con ningún resultado del estudiantado.
 
-### Corporeización y pedagogía
+## Corporeización y pedagogía
 
 Un tema definitorio es que los robots son eficaces cuando apoyan objetivos de aprendizaje genuinos, no como ejercicios técnicos aislados. Un proyector robótico montado sobre el escritorio empató con ChatGPT en un portátil mientras había ayuda disponible (6,7 frente a 7,3/10, p = 0,41), pero mantuvo su puntuación tras retirarse la ayuda (7,0 frente a 4,4/10, p = 0,003), una puntuación de transferencia a corto plazo un 60% mayor, una ganancia dependiente de la tarea que los autores atribuyen a la colocalización espacial y no a un reemplazo general ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). El valor de un robot depende del contexto pedagógico: enseñar pensamiento computacional ([[computational-thinking|pensamiento computacional]]), apoyar STEAM ([[stem-education|educación STEAM]]), construir habilidades de [[cs-education|programación]], motivar a quien aprende ([[motivation|motivación]], [[student-engagement|implicación]]) o apoyar el [[social-emotional-learning|aprendizaje socioemocional]] y la [[equity-in-ai-education|inclusión]]. La robótica también conecta con el [[project-based-learning|aprendizaje por proyectos]], el [[game-based-learning|aprendizaje basado en juegos]] y el [[experiential-learning|aprendizaje experiencial]]. Entre las consideraciones clave de diseño están preservar la [[agency|agencia]] de quien aprende, construir la [[trust|confianza]], apoyar la [[self-efficacy|autoeficacia]] y fundamentar el aprendizaje en la [[embodied-learning|interacción corporeizada]]. En el [[language-learning|aprendizaje de idiomas]], [[robot-assisted-language-learning-meta-analysis-2026|la evidencia metaanalítica]] apunta a la eficacia del aprendizaje de idiomas asistido por robots corporeizados.
 

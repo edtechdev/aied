@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ ai_assist:
 
 La aleatorización es lo que distingue un ECA de otros diseños: al asignar aleatoriamente a quienes aprenden a las condiciones, un ECA equilibra los factores de confusión conocidos y desconocidos entre los grupos, de modo que cualquier diferencia observada en los resultados puede atribuirse a la intervención con una alta validez interna.
 
-### Cómo aparecen los ECA en la investigación
+## Cómo aparecen los ECA en la investigación
 
 - **Micro-ECA como respuesta a una tecnología que cambia rápido:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] sostienen que los ensayos convencionales a gran escala no pueden seguir el ritmo de las [[edtech-platform|plataformas]] de tutoría que cambian de forma sustancial durante un estudio, y usan microensayos controlados aleatorizados dirigidos por [[teacher-role|profesorado]] en escuelas secundarias inglesas (644 de 929 estudiantes completaron el postest, g = 0,33) para mantener repetible la estimación causal. Las disyuntivas se declaran en su propio diseño: un 30,7% de abandono, resultados alineados con el [[curriculum-design|currículo]] y no estandarizados de forma independiente, y solo cuatro semanas de seguimiento.
 - **Afirmaciones de eficacia causal:** los ECA en IAED ponen a prueba si un tutor, una herramienta o un tratamiento pedagógico con IA mejora los resultados. [[generative-ai-education-productivity-gaps|Un experimento aleatorizado sobre IA generativa]] con 1.174 participantes encontró que la IA generativa reduce sustancialmente las brechas de productividad basadas en la educación, cerrando cerca de tres cuartas partes de la diferencia de rendimiento inicial: una estimación causal clara del efecto de la IA.
@@ -54,7 +54,7 @@ La aleatorización es lo que distingue un ECA de otros diseños: al asignar alea
 - **Aleatorizar dentro de secciones intactas, con una línea base previa al tratamiento.** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni y Fryer (2026)]] aleatorizaron a 454 estudiantes de grado dentro de tres secciones intactas de marketing tras el periodo de altas y bajas y midieron los cuatro resultados en T1, antes de que ningún estudiante tuviera acceso al [[conversational-ai|chatbot]], así que la comparación a lo largo del término se apoya en una línea base medida y no supuesta. El resultado plano (ninguna interacción grupo × tiempo alcanzó significación; el mayor efecto notificado fue d = 0,050, en el interés) se informa junto con la adopción —0,89 inicios de sesión por semana frente a una asignación de una vez por semana—, lo que evita que un nulo sobre un tratamiento poco usado se lea como un nulo sobre la herramienta.
 - **Cruce intrasujeto y un control fijado en las mejores prácticas.** [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] hicieron que cada uno de los 194 estudiantes de ciencias de la vida de Harvard trabajara dos lecciones de física —una en una sesión de [[active-learning|aprendizaje activo]] en clase y otra con el tutor de IA del propio curso, en orden contrabalanceado con pretest y postest alrededor de cada una—, de modo que cada estudiante sirve como su propio control y la comparación de *modos de impartición* no queda confundida por quién fue asignado a cuál. La segunda elección de diseño importa igual: el comparador fue el aprendizaje activo basado en la investigación y no una clase magistral, así que la ventaja (mediana del postest 4,5 frente a 3,5) se mide contra las mejores prácticas actuales y no puede leerse como «la IA supera a la enseñanza».
 
-### Fortalezas y limitaciones
+## Fortalezas y limitaciones
 
 - **Fortalezas:** la inferencia causal más sólida; una medición limpia de los resultados; permite estimar tamaños del efecto; equilibra los factores de confusión mediante la aleatorización.
 - **Limitaciones:** costosos y lentos; los entornos artificiales pueden reducir la validez ecológica; las herramientas de IA cambian más rápido de lo que tardan los ensayos; las muestras pequeñas a menudo tienen poca potencia para detectar efectos significativos; limitaciones éticas para retener una IA potencialmente beneficiosa de un grupo de control. Dos de esos límites cambian de forma cuando la asignación es por conglomerados: la muestra efectiva pasa a ser el número de *conglomerados* y no el de estudiantes, de modo que un ensayo puede ser grande por número de personas y fino por esa medida —los 2.379 estudiantes de Liu et al. se apoyan en 34 conglomerados a nivel de instructor—, y cuando la adopción es voluntaria y baja, una estimación por intención de tratar responde a si ofrecer la herramienta cambió los resultados, no a si usarla lo hizo.

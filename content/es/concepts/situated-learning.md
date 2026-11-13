@@ -7,7 +7,7 @@ foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-10-30T10:20:00-04:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ El aprendizaje situado es una de las teorías de la actividad y el contexto dent
 En la literatura sobre la [[ai-education|IA en la educación]], el aprendizaje situado importa porque ofrece una lente de diseño para la IA: los [[adaptive-learning|sistemas adaptativos]], la [[intelligent-tutoring|tutoría inteligente]] en escenarios auténticos y las [[simulation|simulaciones]] [[virtual-and-augmented-reality|inmersivas]] pueden anclar la educación impulsada por IA en contextos del mundo real, mientras que el aprendizaje situado ofrece a su vez a la IA un anclaje significativo en la práctica auténtica y la complejidad. Ambos se consideran ampliamente complementarios, con la orientación humana como elemento esencial para el anclaje [[ethics|ético]].
 - **Contextualizar el propio material es un movimiento del aprendizaje situado.** DagFlow-AI genera un conjunto de datos estadísticos construido en torno a un interés declarado por el propio estudiante —un estudio de caso usó la preocupación de un estudiante por el cambio climático y la salud— mientras mantiene fijos los objetivos de aprendizaje y el nivel de destreza ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Ajustar los *datos* a quien aprende, en lugar de ajustar la explicación, trata el contexto de la práctica como lo que hay que situar. Los autores admiten el límite: los datos sintéticos no pueden enseñar la recogida de datos, la medición ni el diseño de estudios, así que el contexto es real para quien aprende pero no para el mundo.
 
-### El aprendizaje situado como lente de diseño para la IA
+## El aprendizaje situado como lente de diseño para la IA
 
 La investigación de la base de conocimiento trata el aprendizaje situado no solo como una teoría abstracta, sino como un marco concreto de diseño y evaluación para la IA en educación:
 

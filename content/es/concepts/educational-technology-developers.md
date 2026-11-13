@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
 translation_of: concepts/educational-technology-developers
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ El desarrollador se sitúa un nivel por debajo de la plataforma. [[edtech-platfo
 
 El rol también es distinto del de sus vecinos. [[learning-design|El diseño del aprendizaje]] y el [[curriculum-design|diseño curricular]] diseñan un curso para una cohorte conocida; un desarrollador de tecnología diseña un producto que usarán muchos cursos, impartidos por personas a las que nunca ha conocido, y por eso los valores por defecto, la configurabilidad y la documentación tienen peso pedagógico. [[educational-development|El desarrollo educativo]] apoya al personal docente de una institución desde dentro de ella; los desarrolladores están fuera o al lado, y proveen las herramientas que luego se pide a ese personal que adopte. Y [[design-based-research|la investigación basada en el diseño]] es el estándar de evidencia que cada vez más se pide a estos desarrolladores que cumplan: iterativo, contextual y reportado con sus propias limitaciones.
 
-### Quién construye la IA educativa
+## Quién construye la IA educativa
 
 **Laboratorios de investigación que construyen infraestructura pública.** [[oatutor-open-source-adaptive-tutor-2023|OATutor]] se construyó en UC Berkeley como el primer sistema de tutoría adaptativa totalmente de código abierto basado en los principios de los [[intelligent-tutoring|ITS]]: una base de código con licencia MIT y una biblioteca de álgebra de Creative Commons, estimación del dominio mediante [[knowledge-tracing|seguimiento bayesiano del conocimiento]], infraestructura de pruebas A/B y soporte LTI. Su razón de existir es una decisión de diseño —las plataformas propietarias habían confinado la investigación en [[adaptive-learning|aprendizaje adaptativo]] a sistemas cerrados— y su vía de autoría es otra: 16 creadores produjeron un curso de álgebra universitaria en seis meses tras 2,27 horas de formación.
 
@@ -51,13 +51,13 @@ El rol también es distinto del de sus vecinos. [[learning-design|El diseño del
 
 **Constructores dentro de las instituciones.** [[moodle-ai-tutoring-deep-learning|La tutoría con IA en Moodle]] incorpora tutoría con [[llm]] en un LMS existente en lugar de distribuir una herramienta independiente, lo que rebaja el umbral de adopción que la literatura sobre ITS señala como motivo de fracaso de los sistemas en la práctica. [[savvy-student-attention-video-learning|SAVVY]] convierte señales [[multimodal|multimodales]] de atención en una interfaz que el profesorado puede leer antes de publicar un vídeo. [[instructional-agents-multi-agent-course-gen|Los agentes instruccionales]] automatizan las tres primeras fases de ADDIE con agentes especializados por rol, y su ablación es una lección de diseño. La línea base de un solo agente obtuvo la peor puntuación, el [[human-ai-collaboration|copiloto completo]] superó al autónomo en 0,5–0,9 puntos, y la ausencia de diferencias de calidad entre backends hizo que el más barato fuera el valor por defecto.
 
-### En qué puede apoyarse una afirmación de diseño
+## En qué puede apoyarse una afirmación de diseño
 
 **La base de evidencia es más débil de lo que parece.** [[oneill-presumed-effective-meta-analysis-2026|Una auditoría de 14 metaanálisis]] que afirmaban que la IA mejora la educación encontró que ninguno justificaba sus afirmaciones: todos menos dos definían el tratamiento como una herramienta y no como una intervención pedagógica, el 61% de 59 estudios primarios examinados tenía problemas de validez, la heterogeneidad era alta dondequiera que se informara, los análisis de moderadores carecían de potencia y el sesgo de publicación nunca se evaluó de forma válida. Un [[meta-analysis-systematic-review|metaanálisis]] retractado seguía citándose como autoridad por el 60% de los artículos posteriores muestreados. Para un desarrollador, «la IA mejora el aprendizaje» es una afirmación de categoría de producto, no un insumo de diseño.
 
 **Informe de la incertidumbre y del coste completo, no solo de la precisión.** Para [[stanbkt-bayesian-knowledge-tracing|StanBKT]], la inferencia bayesiana no aporta nada en predicción y todo en poder decir qué efectos eran creíbles. [[shen-sustainable-ai-knowledge-base-cs-education-2026|El informe de Shen et al.]] aporta ablaciones de recuperación, [[llm-training-and-fine-tuning|ajuste fino]] consciente de la cuantización, VRAM, energía por consulta y [[hallucination-risk|alucinaciones]] medidas contra recursos abiertos recuperados, con la propia advertencia de los autores de que el sistema no es un tutor validado. Esa es la disciplina de [[ai-ed-evaluation|evaluación]] que hace comprobable una afirmación de despliegue.
 
-### Codiseño con docentes y estudiantes
+## Codiseño con docentes y estudiantes
 
 **Las explicaciones deben hablar el lenguaje del profesorado.** [[xai-teachers-trust-edtech-recommendations-2026|Un experimento intrasujeto]] con 41 docentes de [[chemistry-education|química]] sobre una herramienta de recomendación de aprendizaje automático mostró que la comprensibilidad, la [[trust|confianza]] y la aceptación correlacionaban positivamente, y que las explicaciones basadas en el dominio y formuladas en lenguaje curricular produjeron una comprensibilidad, una [[trust-calibration|calibración de la confianza]] y una aceptación significativamente mayores que las explicaciones basadas en la importancia de las variables. La confianza también era dinámica —varios docentes dijeron que solo la experiencia en el aula la resolvería— y la aceptación dependía de la alineación pedagógica y de la reducción de la carga de trabajo.
 
@@ -65,19 +65,11 @@ El rol también es distinto del de sus vecinos. [[learning-design|El diseño del
 
 **Codiseño a escala institucional.** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]] en la Open University se construyó mediante seis estudios basados en el diseño a lo largo de 18 meses con 498 estudiantes y 20 miembros del personal. Alrededor del 20% era escéptico al principio; tras el uso práctico, el 96% quería conservarlo, y un [[rct|ECA]] exploratorio encontró el doble de tiempo de uso pero ninguna diferencia significativa en los datos del proceso de aprendizaje. Los factores facilitadores fueron organizativos —patrocinio de la dirección, colaboración entre unidades, iteración informada por datos—, con carencias en la capacidad de pensamiento sistémico.
 
-### Compra, apertura y después de que se acabe la financiación
+## Compra, apertura y después de que se acabe la financiación
 
 [[shen-sustainable-ai-knowledge-base-cs-education-2026|El informe de Shen et al.]] aporta los insumos que necesita una decisión de compra: un mínimo de hardware de 12 GB de VRAM, un techo de precisión para un modelo de la clase de 7B, energía por consulta y un orden de decisiones —primero la recuperación (sin ella el modelo puntuó un 52,3%, por debajo de una línea base TF-IDF), después el ajuste fino y después la compresión consciente de la cuantización—. La licencia abierta es la precondición para servir un corpus localmente. [[reclaiming-epistemic-agency-co-agency-2026|La reivindicación de la agencia epistémica]] enmarca la misma decisión como gobernanza: los requisitos de transparencia convierten la compra en gobernanza epistemológica, la contestabilidad y la procedencia se vuelven condiciones, y los distritos con menos capacidad se enfrentan al listón más alto. [[credential-cognitive-stewardship-ai-assessment|La custodia cognitiva]] añade que la gobernanza de proveedores apareció solo en el 29% de 30 paquetes de política auditados, que especificaban lo que la IA puede hacer mucho más fácilmente que qué evidencia de aprendizaje quedaba. [[genai-mindtool-generative-learning|GenAI MindTool]] plantea la pregunta de diseño —¿fomenta el producto el aprendizaje *con* la herramienta o delega el trabajo cognitivo?— y [[vocabulary-difficulty-prediction|la predicción de la dificultad del vocabulario]] muestra el intercambio en miniatura: el [[explainable-ai|modelo de caja negra]] con mejor puntuación (r > 0,91) era menos explicable que el interpretable (r > 0,77).
 
-## Concepciones erróneas
-
-- **«Los metaanálisis respaldan la afirmación comercial.»** No lo hacen, y la razón es específica y no cuestión de grado. Una auditoría de **14 metaanálisis** que afirmaban que la IA mejora la educación encontró que **ninguno justificaba sus afirmaciones** —todos menos dos fallaban en la metodología— y un **metaanálisis retractado seguía citándose como autoridad por el 60% de los artículos posteriores muestreados**. La retractación se propagó más rápido que la corrección, lo que significa que la literatura que una hoja de ruta probablemente citará contiene afirmaciones que el campo ya ha retirado.
-- **«Añadir citas y procedencia hace que un sistema sea más fiable.»** En un entorno de debate de [[agentic-ai|múltiples agentes]], añadir citas y señales de autoridad a la posición de la IA **elevó el abandono de un juicio correcto del 15,0% al 31,8%**. La procedencia no era información neutral: hizo más persuasiva la respuesta equivocada. Las señales de credibilidad tienen que ser evidencia de corrección, no decoración alrededor de una afirmación.
-- **«El codiseño con las personas usuarias valida el diseño.»** El codiseño responde a una pregunta distinta de la que responde la eficacia. Cuando una herramienta se codiseña con el estudiantado y **el 96% dice que quiere conservarla**, eso es un hallazgo sobre aceptabilidad. Si mejoró el aprendizaje es una medición aparte, y las dos pueden apuntar en direcciones opuestas sin que ninguna esté equivocada.
-- **«Los agentes son el siguiente nivel de capacidad.»** La ablación de los [[instructional-agents-multi-agent-course-gen|agentes instruccionales]] es el contraejemplo útil: la línea base de un solo agente obtuvo la **peor** puntuación y la configuración de copiloto completo **superó a la autónoma**. Más autonomía no era el mejor diseño; lo era la disposición de copiloto. Las decisiones de arquitectura tienen que evaluarse y no darse por buenas a medida que crece la capacidad.
-
-## Qué significa esto para la práctica
-
+## Implicaciones para la práctica
 **Para quienes desarrollan y diseñan**
 
 - Fundamente una afirmación de diseño en un estudio que haya leído, no en un tamaño del efecto que haya citado. Con 14 metaanálisis auditados que fallan en el método y uno retirado que sigue propagándose, el número de citas no es una señal de validez.
@@ -89,6 +81,13 @@ El rol también es distinto del de sus vecinos. [[learning-design|El diseño del
 
 - Pregunte cómo se evaluó la herramienta en la tarea para la que piensa usarla, y si la evaluación fue de copiloto o autónoma. Las dos no son intercambiables.
 - Pregunte cuándo ocurrió la evaluación. Las afirmaciones de capacidad ligadas a una versión de modelo no declarada envejecen rápido y describen un sistema que usted no estará ejecutando.
+
+## Concepciones erróneas
+
+- **«Los metaanálisis respaldan la afirmación comercial.»** No lo hacen, y la razón es específica y no cuestión de grado. Una auditoría de **14 metaanálisis** que afirmaban que la IA mejora la educación encontró que **ninguno justificaba sus afirmaciones** —todos menos dos fallaban en la metodología— y un **metaanálisis retractado seguía citándose como autoridad por el 60% de los artículos posteriores muestreados**. La retractación se propagó más rápido que la corrección, lo que significa que la literatura que una hoja de ruta probablemente citará contiene afirmaciones que el campo ya ha retirado.
+- **«Añadir citas y procedencia hace que un sistema sea más fiable.»** En un entorno de debate de [[agentic-ai|múltiples agentes]], añadir citas y señales de autoridad a la posición de la IA **elevó el abandono de un juicio correcto del 15,0% al 31,8%**. La procedencia no era información neutral: hizo más persuasiva la respuesta equivocada. Las señales de credibilidad tienen que ser evidencia de corrección, no decoración alrededor de una afirmación.
+- **«El codiseño con las personas usuarias valida el diseño.»** El codiseño responde a una pregunta distinta de la que responde la eficacia. Cuando una herramienta se codiseña con el estudiantado y **el 96% dice que quiere conservarla**, eso es un hallazgo sobre aceptabilidad. Si mejoró el aprendizaje es una medición aparte, y las dos pueden apuntar en direcciones opuestas sin que ninguna esté equivocada.
+- **«Los agentes son el siguiente nivel de capacidad.»** La ablación de los [[instructional-agents-multi-agent-course-gen|agentes instruccionales]] es el contraejemplo útil: la línea base de un solo agente obtuvo la **peor** puntuación y la configuración de copiloto completo **superó a la autónoma**. Más autonomía no era el mejor diseño; lo era la disposición de copiloto. Las decisiones de arquitectura tienen que evaluarse y no darse por buenas a medida que crece la capacidad.
 
 ## Conceptos conectados
 

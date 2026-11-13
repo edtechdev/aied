@@ -1,7 +1,7 @@
 ---
 title: Ansiedad y estrés
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T10:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -110,6 +110,7 @@ El lado positivo: los sistemas de IA detectan y ayudan a aliviar cada vez más e
 - Esto enlaza con la [[affective-computing|computación afectiva]] y la [[affective-tutoring|tutoría afectiva]], donde la IA lee y responde al estado emocional.
 - **Qué factores de estrés pondera el modelo y por qué importa el contexto.** [[culturally-aware-student-stress-chatbot-2026|Bashir y Afzal (2026)]] ofrecen una ventana de [[machine-learning|aprendizaje automático]] sobre qué factores de estrés impulsan realmente el malestar del estudiantado en un [[global-south|contexto no occidental]]. El análisis de importancia de características sobre 1.100 respuestas de encuesta situó la presión arterial en primer lugar (15,6%) y **la relación docente-estudiantado en segundo (10,0%)** —por delante de la calidad del sueño (9,3%), la depresión (8,3%) y el apoyo social (7,6%)—, mientras que el nivel de ansiedad quedó noveno con un 4,8%, lo que los autores leen como evidencia de que el estrés del estudiantado es multidimensional y no está impulsado por un único indicador psicológico. Atribuyen la prominencia de la relación docente-estudiantado al entorno educativo comparativamente jerárquico de Pakistán y lo presentan como una hipótesis para datos recogidos localmente, subrayando que los modelos de estrés y sus pesos de características dependen del contexto y no puede suponerse que se transfieran entre poblaciones de estudiantes.
 - **Intervención en tiempo real del lado docente.** [[parlant-emotional-micro-interventions-2026|La guía práctica de Parlant]] añade una contraparte humana a estas herramientas de IA: las *microintervenciones emocionales*, actos verbales o gestuales breves y deliberados que validan la emoción emergente de un estudiante, reencuadran la valoración que hay detrás y reconectan la dificultad con la identidad profesional (Validar, Reencuadrar, Conectar). Basado en la teoría de la valoración cognitiva, el enfoque se dirige a la valoración primaria («¿esto es una amenaza?») y a la secundaria («¿puedo afrontarlo?») en el momento en que el malestar pondría fin a la implicación, emparejando cuellos de botella como la frustración, el aislamiento y el síndrome del impostor con estados objetivo. Su autor afirma claramente que el marco no requiere IA; la [[generative-ai|IA generativa]] solo sirve como una forma opcional de redactar frases candidatas para que el docente las seleccione.
+- **Un sistema diseñado para aliviar la ansiedad puede añadirla.** En laboratorios de química de noveno grado, un semestre de retroalimentación emocional con IA coincidió con un aumento de la ansiedad en el laboratorio (F = 4.60, p = 0.035), mientras que la clase dirigida por el docente se mantuvo estable ([[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]]).
 
 ## Por qué esto es distinto del bienestar
 

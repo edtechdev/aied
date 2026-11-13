@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje a lo largo de la vida
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_of: concepts/lifelong-learning
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -38,7 +38,7 @@ ai_assist:
 
 El aprendizaje a lo largo de la vida se refiere a la educación continua durante toda la vida: actualización y recualificación de competencias, [[educational-development|desarrollo profesional]] y aprendizaje informal más allá de los títulos formales. La IA ocupa un lugar cada vez más central en esto, tanto como herramienta que apoya a quienes aprenden siendo adultos como en calidad de fuerza que cambia las competencias que las personas adultas deben actualizar continuamente.
 
-### Cómo aparece el aprendizaje a lo largo de la vida en la investigación
+## Cómo aparece el aprendizaje a lo largo de la vida en la investigación
 
 - **Directrices de diseño para el aprendizaje de personas adultas:** [[ai-adult-learning-guidelines-dis2026|una investigación del instituto AI-ALOE]] sintetiza directrices de diseño con base empírica para tecnologías de aprendizaje de adultos impulsadas por IA, con énfasis en un apoyo práctico y sensible al contexto.
 - **Adquisición de competencias guiada por IA:** [[ai-guided-learning-audiovideo-2026|el aprendizaje con audio y vídeo guiado por IA]] muestra cómo la IA puede ofrecer andamiaje en las etapas de consumir, comprender e imitar de la adquisición de una competencia, adaptando los medios a quien aprende.
@@ -48,17 +48,9 @@ El aprendizaje a lo largo de la vida se refiere a la educación continua durante
 - **Política y comunidad:** [[ai-lifelong-learning-policy|la IA en las políticas de aprendizaje a lo largo de la vida]] y [[community-centered-ai-education-adults|la educación en IA centrada en la comunidad]] abordan las dimensiones institucionales y de equidad del aprendizaje de adultos con IA.
 - **La regeneración de la experiencia está en riesgo.** En las ocupaciones estadounidenses más expuestas a la IA, las personas trabajadoras de 22 a 25 años sufrieron un descenso relativo del empleo del 16% (oct 2022–sep 2025), mientras que las de 35 a 49 años crecieron más del 8%, y la experiencia profunda necesaria para validar los resultados de la IA depende de los puestos de entrada que ese descenso elimina ([[cognitive-commons-ai-expertise-regeneration|Lovett (2026)]]).
 
-### Conexiones
+## Conexiones
 
 El aprendizaje a lo largo de la vida se relaciona con [[adult-learning|el aprendizaje de personas adultas]] y [[professional-training|la formación profesional]] (sus contextos principales), con [[personalized-learning|el aprendizaje personalizado]] y [[adaptive-learning|el aprendizaje adaptativo]] (los mecanismos de IA que lo sostienen), con [[self-regulated-learning|el aprendizaje autorregulado]] y [[metacognition|la metacognición]] (los procesos del estudiante implicados) y con [[equity-in-ai-education|la equidad en la educación con IA]] (el acceso a lo largo de toda la vida). También se cruza con [[educational-development|el desarrollo educativo]] cuando el propio profesorado es quien aprende a lo largo de la vida.
-
-## Concepciones erróneas comunes
-
-**«La exposición a la IA amenaza sobre todo las tareas de nivel de entrada, así que el personal experimentado está a salvo.»** El patrón de empleo invierte parte de esa suposición, mientras que el problema de la experiencia es más profundo. En las ocupaciones estadounidenses más expuestas a la IA, las personas trabajadoras de **22 a 25 años sufrieron un descenso relativo del empleo del 16% (oct 2022–sep 2025)**, mientras que las de **35 a 49 años crecieron más del 8%**: una protección que se adhería a la experiencia acumulada. Pero la cantera que produce esa experiencia pasa por el trabajo de entrada que ahora se reduce, así que la protección está limitada en el tiempo de un modo que la cifra transversal oculta. **La regeneración de la experiencia está en riesgo por sí misma**: si desaparece el trabajo formativo, la cohorte que llegaría a ser el personal experimentado es más pequeña.
-
-**«El aprendizaje a lo largo de la vida significa que las personas adultas hagan más cursos.»** Hacer cursos es una forma de impartición de un requisito más amplio: mantener y reconstruir la competencia a medida que cambian las tareas. Una fuerza laboral que necesita regeneración continua no carece de oferta de cursos; carece de las oportunidades de práctica donde la nueva competencia se forma de verdad.
-
-**«El aprendizaje a lo largo de la vida es una responsabilidad personal, así que el diseño institucional es secundario.»** El problema de la regeneración es estructural —se refiere a dónde existe el trabajo formativo en absoluto— y las personas no pueden crear el trabajo que su propio desarrollo requiere. Enmarcarlo como motivación no explica nada del descenso del 16% concentrado en la parte baja de la distribución de edad.
 
 ## Implicaciones para la práctica
 
@@ -77,6 +69,14 @@ El aprendizaje a lo largo de la vida se relaciona con [[adult-learning|el aprend
 
 - Informe los efectos sobre el empleo por banda de edad y no como una cifra agregada de desplazamiento; el contraste del 16% frente al 8% es el hallazgo.
 - Estudie dónde está desapareciendo el trabajo formativo, porque ese es el mecanismo por el que las ganancias actuales se convierten en escaseces futuras.
+
+## Concepciones erróneas comunes
+
+**«La exposición a la IA amenaza sobre todo las tareas de nivel de entrada, así que el personal experimentado está a salvo.»** El patrón de empleo invierte parte de esa suposición, mientras que el problema de la experiencia es más profundo. En las ocupaciones estadounidenses más expuestas a la IA, las personas trabajadoras de **22 a 25 años sufrieron un descenso relativo del empleo del 16% (oct 2022–sep 2025)**, mientras que las de **35 a 49 años crecieron más del 8%**: una protección que se adhería a la experiencia acumulada. Pero la cantera que produce esa experiencia pasa por el trabajo de entrada que ahora se reduce, así que la protección está limitada en el tiempo de un modo que la cifra transversal oculta. **La regeneración de la experiencia está en riesgo por sí misma**: si desaparece el trabajo formativo, la cohorte que llegaría a ser el personal experimentado es más pequeña.
+
+**«El aprendizaje a lo largo de la vida significa que las personas adultas hagan más cursos.»** Hacer cursos es una forma de impartición de un requisito más amplio: mantener y reconstruir la competencia a medida que cambian las tareas. Una fuerza laboral que necesita regeneración continua no carece de oferta de cursos; carece de las oportunidades de práctica donde la nueva competencia se forma de verdad.
+
+**«El aprendizaje a lo largo de la vida es una responsabilidad personal, así que el diseño institucional es secundario.»** El problema de la regeneración es estructural —se refiere a dónde existe el trabajo formativo en absoluto— y las personas no pueden crear el trabajo que su propio desarrollo requiere. Enmarcarlo como motivación no explica nada del descenso del 16% concentrado en la parte baja de la distribución de edad.
 
 ## Conceptos conectados
 

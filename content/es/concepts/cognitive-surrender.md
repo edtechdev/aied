@@ -1,7 +1,7 @@
 ---
 title: Rendición cognitiva
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -33,12 +33,12 @@ ai_assist:
 
 ## Preguntas para reflexionar
 
-1. Cuando un estudiante acepta una respuesta de la IA que resulta ser correcta, ¿ha tenido éxito la clase? ¿Qué tendría que ser cierto para que la aceptación en sí misma fuera lo que importara?
-2. ¿Es un delegador calibrado que conoce sus propios límites distinto en esencia de un estudiante que simplemente no sabe distinguir? ¿Cómo notaría [[teacher-role|quien enseña]] la diferencia en un solo trabajo?
-3. Si la confianza sube mientras la precisión baja —como ocurre cuando hay consejo de IA disponible—, ¿qué le hace eso a la detección de errores de quien aprende?
-4. ¿Dónde es enseñable la verificación y dónde es un problema de carga de trabajo para la [[educational-policy-ai|política]]? ¿Qué partes de un [[curriculum-design|currículo]] tendrían que cambiar para que comprobar fuera la norma y no la excepción?
-5. ¿Deberían las instituciones medir la rendición, o medirla invita a la misma vigilancia con la que luchan las [[ai-use-disclosure|normas de declaración]]?
-6. ¿Cómo sería una tarea que premiara a un estudiante por anular una respuesta errónea de la IA en lugar de por producir una respuesta pulida?
+- Cuando un estudiante acepta una respuesta de la IA que resulta ser correcta, ¿ha tenido éxito la clase o solo lo ha parecido?
+- ¿Es un delegador calibrado que conoce sus propios límites distinto en esencia de un estudiante que simplemente no sabe distinguir? ¿Cómo los distinguiría [[teacher-role|quien enseña]] en un solo trabajo?
+- Si la confianza sube mientras la precisión baja —como ocurre cuando hay consejo de IA disponible—, ¿qué le hace eso a la detección de errores de quien aprende?
+- ¿Dónde es enseñable la verificación y dónde es un problema de carga de trabajo? ¿Qué partes de un [[curriculum-design|currículo]] tendrían que cambiar para que comprobar fuera la norma?
+- ¿Deberían las instituciones medir la rendición, o medirla invita a la misma vigilancia con la que ya luchan las [[ai-use-disclosure|normas de declaración]]?
+- ¿Qué tarea premiaría anular una respuesta errónea de la IA en lugar de producir una respuesta pulida?
 
 ## Introducción
 
@@ -102,8 +102,7 @@ Los hallazgos de laboratorio coinciden con el trabajo de campo y observacional q
 
 ¿Se habitúa la rendición o se desvanece con el desuso? [[cognitive-washout-ai-skill-decay-2026|La investigación sobre el desgaste]] formaliza la pregunta posterior a la retirada, pero los datos de largo plazo aún no existen. ¿Puede medirse la rendición en condiciones reales sin registro invasivo, y los autoinformes sobre la conducta de comprobación predicen algo? ¿Persiste la inflación de confianza una vez que alguien se ha quemado con una respuesta errónea dada con seguridad, o la [[trust-calibration|descalibración]] se pega? Y a escala de una profesión y no de una persona, ¿una rendición generalizada agota el fondo compartido de pericia del que depende la propia supervisión de los sistemas de IA, la preocupación que plantea [[cognitive-commons-ai-expertise-regeneration|el marco de los bienes comunes cognitivos]]?
 
-## Limitaciones
-
+## Dónde la evidencia es escasa
 La evidencia de la rendición como constructo con nombre propio se apoya en gran medida en un único programa de trabajo de laboratorio: tres experimentos prerregistrados sobre un Test de Reflexión Cognitiva adaptado con muestras de conveniencia, que establece el mecanismo y los moderadores disposicionales pero no [[transfer-of-learning|transfiere]] a juicios profesionales de alta exigencia. El diseño captura además exposiciones únicas, así que nada en él muestra si la rendición se habitúa o se acumula. La evidencia de campo es observacional: el panel de ALEKS muestra una finalización más rápida con peor retención supervisada, pero una atribución causal a la rendición y no a un cambio de estrategia de estudio exige supuestos que el diseño no puede comprobar. Las definiciones siguen siendo inestables en la literatura —descarga, dependencia excesiva, dependencia, apego y uso problemático se confunden de forma habitual—, y [[yan-conversational-ai-engagement-dependence-synthesis-2026|al menos una síntesis]] sostiene que la delegación frecuente no debería etiquetarse como dependencia sin un control deteriorado o un daño. Por último, los [[self-report-measures|autoinformes]] de confianza, necesidad de cognición y conducta de comprobación arrastran los límites habituales, y buena parte de la evidencia de aula se refiere a la [[higher-ed|educación superior]] y a la [[k-12|secundaria]] más que a la escolarización temprana.
 
 ## Concepciones erróneas

@@ -7,7 +7,7 @@ confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,11 +38,11 @@ ai_assist:
 
 ## Introducción
 
-### Qué hace el PLN educativo
+## Qué hace el PLN educativo
 
 El procesamiento de lenguaje natural en educación aplica métodos computacionales al lenguaje de la enseñanza y el aprendizaje: ensayos, respuestas y publicaciones de debate del estudiantado, retroalimentación y texto instruccional. Los [[llm|LLM]] han ampliado drásticamente lo que puede analizarse de forma automática, lo que permite una comprensión detallada del lenguaje del estudiantado que antes era impracticable a escala.
 
-### Aplicaciones documentadas en la base de conocimiento
+## Aplicaciones documentadas en la base de conocimiento
 
 - **Análisis del lenguaje del estudiantado.** [[llm-sentiment-analysis-education-research|La investigación sobre análisis de sentimiento asistido por LLM]] aplica el análisis de sentimiento basado en LLM a la investigación educativa, extrayendo señales emocionales y evaluativas del texto del estudiantado a escala, lo que alimenta la [[learning-analytics|analítica del aprendizaje]] y la [[affective-computing|computación afectiva]].
 - **Predicción y medición.** [[llm-item-difficulty-prediction|La predicción de la dificultad de los ítems con LLM]] y [[vocabulary-difficulty-prediction|la predicción de la dificultad del vocabulario]] usan modelos de lenguaje para estimar la dificultad de ítems y de textos, insumos centrales de la [[educational-measurement|medición educativa]], el [[adaptive-learning|aprendizaje adaptativo]] y los modelos de [[item-response-theory|teoría de respuesta al ítem]].
@@ -67,7 +67,7 @@ El procesamiento de lenguaje natural en educación aplica métodos computacional
 
 - **La fidelidad de entidades de las transcripciones ASR es una cuestión distinta de la exactitud léxica.** Al comparar cinco sistemas de reconocimiento de voz con una transcripción de referencia humana, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard y Rosenberg (2026)]] informan de la primera evidencia de fidelidad de entidades ASR/NER de la base de conocimiento: las tasas de error de palabra abarcaron del 2,43% (TurboScribe) al 15,32% (Vosk), mientras que la codificación de tipos de entidades de referencia en siete categorías vio a GPT-5.5 alcanzar una exactitud de 0,805 (κ = ,726) frente a 0,634 de spaCy (κ = ,488). El WER agregado por sí solo no puede certificar que la estructura de entidades sobreviviera a la transcripción.
 
-### Conexión con la tutoría y la medición
+## Conexión con la tutoría y la medición
 
 El PLN educativo sustenta tanto el análisis del lenguaje de quien aprende ([[student-modeling|modelado del estudiantado]], [[knowledge-tracing|seguimiento del conocimiento]]) como la generación de contenido instruccional adaptativo ([[intelligent-tutoring|tutoría inteligente]], [[scaffolding|andamiaje]]). [[ai-generated-interactive-fiction-education-2026|La ficción interactiva generada por IA en educación]] demuestra la generación de contenido impulsada por PLN para el aprendizaje, mientras que [[zerkouk-comprehensive-review-its-2025|la revisión integral de Zerkouk (2025)]] sitúa el PLN en el panorama más amplio de la [[intelligent-tutoring|tutoría inteligente]]. A medida que crece el análisis basado en LLM, los marcos de [[rct|ensayos controlados aleatorizados]] y de [[research-methods-aied|métodos de investigación en IAEd]] importan para validar que las conclusiones derivadas del PLN mejoran de verdad el aprendizaje. 
 

@@ -1,7 +1,7 @@
 ---
 title: Educación química
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ discipline: [chemistry education, stem education]
 level: [higher ed, k 12, teacher education]
 confidence: high
 translation_of: concepts/chemistry-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T10:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,8 @@ La educación química se ha convertido en un ámbito fértil para la investigac
 **La precisión técnica y la alfabetización crítica en IA.** La evidencia sistemática muestra que los [[llm|LLM]] pueden definir términos básicos de química pero rinden mal en tareas cuantitativas rigurosas y tienen dificultades con el razonamiento espacial (p. ej., la RMN), el exceso de confianza y la sensibilidad a la notación ([[ai-science-chemistry-education-systematic-review-2025|Erümit y Özdemir Sarıalioğlu]]; los hallazgos de ChemBench/QCBench en la [[unesco-ai-guidelines-chemical-education-2026|perspectiva de la UNESCO]]). Esto convierte la **implicación evaluativa con la salida de la IA** —interrogar, verificar y contrastar con los principios químicos— en un objetivo de aprendizaje central, que conecta con la [[ai-literacy|alfabetización en IA]], el [[critical-thinking|pensamiento crítico]] y la [[reducing-ai-misuse|reducción del mal uso de la IA]].
 
 **Ética, política y deriva epistémica.** La [[unesco-ai-guidelines-chemical-education-2026|perspectiva de las directrices de la UNESCO]] advierte de una **deriva epistémica** —el riesgo de que los algoritmos opacos alejen la indagación de la comprensión causal— y pide un cambio de la transmisión de contenidos a la **creación de conocimiento**, una alfabetización química crítica en IA, una evaluación que priorice el razonamiento humano y cerrar la [[digital-divide|brecha de acceso]] global.
+
+**La retroalimentación emocional puede aumentar la ansiedad que pretende reducir.** Un semestre de retroalimentación emocional con IA en laboratorios de noveno grado coincidió con un aumento de la ansiedad de laboratorio (F = 4.60) y un sentido de logro estancado, mientras que la clase de indagación dirigida por el profesorado mejoró (F = 7.92) ([[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]]).
 
 ### Conexiones con conceptos relacionados
 

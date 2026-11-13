@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: concepts/critical-pedagogy
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 
 La pedagogía crítica es distinta del [[critical-thinking|pensamiento crítico]]. El pensamiento crítico es una destreza cognitiva —evaluar argumentos, cuestionar supuestos y razonar con cuidado— que puede practicarse dentro de casi cualquier marco. La pedagogía crítica, en cambio, es una *postura política y [[ethics|ética]]* que conecta esas destrezas con cuestiones de poder, justicia, [[equity-in-ai-education|equidad]] y transformación social. La base de conocimiento las trata como conceptos relacionados pero distintos: el pensamiento crítico pregunta «¿es sólido este razonamiento?», mientras que la pedagogía crítica pregunta «¿a quién sirve esta educación y qué conocimiento cuenta?».
 
-### La pedagogía crítica y la IA en la educación
+## La pedagogía crítica y la IA en la educación
 
 [[ai-education|La IA en la educación]] plantea preguntas agudas a la pedagogía crítica, y la base de conocimiento documenta varias líneas:
 
@@ -60,23 +60,13 @@ La pedagogía crítica es distinta del [[critical-thinking|pensamiento crítico]
 
 - **La educación en derechos humanos como caso de prueba de la gobernanza de la IA como formación.** [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo (2026)]] trabaja con el marco *sobre, a través de, para* de la ONU en un programa de derecho y sitúa la dificultad no en la tecnología sino en la pedagogía: el estudiantado entregó trabajos escritos pulidos y diseños de sesión pulidos sin la implicación que esos artefactos deben evidenciar, y el pensamiento más crítico apareció en la escritura de final de curso y no en el diálogo en clase. Su conclusión desplaza el papel del educador en lugar de reducirlo: la [[governance|gobernanza]] de la IA se convierte en una responsabilidad profesional que el estudiantado aprende a impugnar, y la [[llm|herramienta]] se orienta en lugar de prohibirse.
 
-### La evaluación como lugar de crítica
+## La evaluación como lugar de crítica
 
 La pedagogía crítica entra en la evaluación por la pregunta de a quién sirven los intereses que un rediseño atiende. [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] construye ese argumento uniendo la teoría de las arquitecturas de la práctica a la pedagogía crítica, de modo que una reforma de la evaluación tiene que mover tres cosas a la vez: el lenguaje cultural-discursivo que hace pensables algunas prácticas, las disposiciones material-económicas de herramientas y recursos, y la distribución sociopolítica del poder. La advertencia del marco es concreta. Cuando los recursos fluyen a través de estructuras de poder existentes sin una atención explícita a la equidad, un rediseño bien intencionado amplifica las inequidades que pretendía abordar, lo que convierte la intersección entre recursos y poder en el mayor punto de apalancamiento y a la vez en el mayor riesgo. Su matriz de cuatro fases recorre el análisis crítico, el diseño de la intervención, la implementación centrada en la equidad y la evaluación, y trata el cambio incremental y la tensión productiva como resultados legítimos y no como un fracaso a la hora de transformar con rapidez.
 
-### El papel del educador
+## El papel del educador
 
 Bajo la pedagogía crítica, los educadores no son transmisores neutrales de destrezas sobre IA, sino interlocutores críticos y facilitadores que ayudan a quienes aprenden a interrogar la política de la IA. Esto conecta con los conceptos de [[teacher-role|papel docente]] y [[ai-literacy|alfabetización en IA]] de la base de conocimiento, y con la preocupación más amplia por la [[equity-in-ai-education|equidad]] y la [[reducing-ai-misuse|reducción del mal uso de la IA]]. La tarea del educador es cultivar espacios donde las comunidades puedan cuestionar, apropiarse o rechazar colectivamente la IA, manteniendo la educación como un lugar de imaginación y transformación social.  [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] añaden una condición práctica a ese papel: el trabajo abierto de alfabetización crítica en IA no exige que los educadores lleguen como expertos en IA, solo que estén dispuestos a explorar junto al estudiantado —una investigación conjunta estudiante-docente de un sistema concreto, «pases de salida» electrónicos (no todos de IA), sacó a la luz y trabajó [[misconceptions|ideas erróneas]] a la vez que profundizaba el conocimiento técnico. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran y Arar (2026)]] dan a ese papel una forma construccionista y de ética del cuidado: tratan la [[prompt-engineering|alfabetización en prompts]] como un proceso retórico, ético y reflexivo y no como una destreza de optimización técnica, y la fase final del marco hace que el estudiantado codiseñe con su docente una Política Personal de Uso de IA, de modo que las normas que rigen el uso de la IA en el aula las redactan las personas a las que rigen y no se les imponen.
-
-## Concepciones erróneas
-
-**«Usar la IA de forma crítica significa usarla menos.»** La implicación crítica es un modo de uso, no una cantidad de uso. En **42 episodios de aula** de un estudio rumano de secundaria inferior, **15 (35,71%) eran dependientes de la IA** y **16 (38,10%) mejorados con IA**, de modo que solo **11 (26,19%) eran críticos con la IA**; así pues, tanto los episodios mejorados como los críticos implican la herramienta, y la distinción está en si el estudiantado la interrogó. La escasez del modo crítico es un problema de enseñanza, no un problema de uso.
-
-**«La alfabetización en IA es un conjunto de destrezas neutral.»** La pedagogía crítica la trata como una práctica de resistencia y transformación social, lo que convierte el propio encuadre en algo contestable. Un [[curriculum-design|currículo]] de alfabetización que enseña técnica de prompting y omite a quién sirven los intereses del sistema ha enseñado fluidez en una herramienta mientras adopta su política sin examinarla.
-
-**«La pedagogía crítica es una crítica formulada desde fuera de la práctica.»** Es una postura ante el papel del educador: preguntar a quién beneficia, qué conocimiento se privilegia y cómo la escolarización reproduce o resiste el poder. Aplicada a la adopción de la IA, eso significa interrogar las lógicas corporativas y capitalistas que moldean la contratación de tecnología: preguntas que un docente puede hacerse sobre las decisiones de su propia institución, no solo sobre la tecnología en abstracto.
-
-**«Situar en el centro las epistemologías marginadas es añadir contenido al currículo.»** Cambia qué conocimiento cuenta como conocimiento, lo cual es una pregunta sobre la estructura del curso y no una lectura añadida. Añadir contenidos deja intacto el marco; la pretensión de la pedagogía crítica es sobre el marco.
 
 ## Implicaciones para la práctica
 
@@ -94,6 +84,16 @@ Bajo la pedagogía crítica, los educadores no son transmisores neutrales de des
 **Para quienes investigan**
 
 - Informe de la distribución de los modos de implicación en las aulas, no solo del uso medio, ya que la media oculta si existe alguna práctica crítica.
+
+## Concepciones erróneas
+
+**«Usar la IA de forma crítica significa usarla menos.»** La implicación crítica es un modo de uso, no una cantidad de uso. En **42 episodios de aula** de un estudio rumano de secundaria inferior, **15 (35,71%) eran dependientes de la IA** y **16 (38,10%) mejorados con IA**, de modo que solo **11 (26,19%) eran críticos con la IA**; así pues, tanto los episodios mejorados como los críticos implican la herramienta, y la distinción está en si el estudiantado la interrogó. La escasez del modo crítico es un problema de enseñanza, no un problema de uso.
+
+**«La alfabetización en IA es un conjunto de destrezas neutral.»** La pedagogía crítica la trata como una práctica de resistencia y transformación social, lo que convierte el propio encuadre en algo contestable. Un [[curriculum-design|currículo]] de alfabetización que enseña técnica de prompting y omite a quién sirven los intereses del sistema ha enseñado fluidez en una herramienta mientras adopta su política sin examinarla.
+
+**«La pedagogía crítica es una crítica formulada desde fuera de la práctica.»** Es una postura ante el papel del educador: preguntar a quién beneficia, qué conocimiento se privilegia y cómo la escolarización reproduce o resiste el poder. Aplicada a la adopción de la IA, eso significa interrogar las lógicas corporativas y capitalistas que moldean la contratación de tecnología: preguntas que un docente puede hacerse sobre las decisiones de su propia institución, no solo sobre la tecnología en abstracto.
+
+**«Situar en el centro las epistemologías marginadas es añadir contenido al currículo.»** Cambia qué conocimiento cuenta como conocimiento, lo cual es una pregunta sobre la estructura del curso y no una lectura añadida. Añadir contenidos deja intacto el marco; la pretensión de la pedagogía crítica es sobre el marco.
 
 ## Conceptos conectados
 

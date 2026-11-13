@@ -1,7 +1,7 @@
 ---
 title: Autoeficacia
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-11-11T09:15:28-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 
 La autoeficacia es distinta de la competencia real: es una creencia sobre la capacidad que impulsa la conducta. Está estrechamente relacionada con —y a menudo se usa de forma intercambiable con— la noción cotidiana de *confianza* en las propias capacidades. La autoeficacia conecta de cerca con la [[motivation]], el [[self-regulated-learning]] y la [[student-experience]]. En el contexto de la IA, la autoeficacia en IA (la confianza al trabajar con IA) es un constructo distinto de la alfabetización en IA, y la investigación muestra que desempeña un papel crucial en si quienes aprenden activan y aplican de verdad el conocimiento relacionado con la IA.
 
-### Cómo aparece la autoeficacia en la investigación de la base de conocimientos
+## Cómo aparece la autoeficacia en la investigación de la base de conocimientos
 
 - **Descensos en el trabajo de estudio con IA generativa y realidad extendida:** en un [[arts-design-and-media-education|estudio de diseño]] arquitectónico con 27 estudiantes, los equipos que usaban una cadena de [[generative-ai|IA generativa]] y realidad extendida multiusuario mostraron mayores descensos relativos de antes a después en la confianza en la autoeficacia de diseño (β = −1,675, p = 0,021) y en la expectativa de resultados (β = −2,088, p = 0,002) que los equipos que continuaron con el flujo de trabajo normal, sin diferencias significativas en las valoraciones a ciegas de un panel sobre sus presentaciones ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). Los entornos ricos en herramientas pueden deprimir las creencias de eficacia incluso cuando el propio trabajo se juzga equivalente.
 - **Autoeficacia en IA y preparación para la carrera:** la [[ai-literacy-career-adaptability-business-2026|investigación sobre la preparación en IA]] muestra que la autoeficacia en IA modera la relación entre la alfabetización en IA y la preparación en IA: la alfabetización se traduce en preparación solo cuando quienes aprenden tienen confianza en el uso de la IA, y la autoeficacia predice directamente la [[career-development-and-readiness|adaptabilidad profesional]].

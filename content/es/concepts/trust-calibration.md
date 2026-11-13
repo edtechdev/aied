@@ -1,7 +1,7 @@
 ---
 title: Calibración de la confianza
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -47,6 +47,8 @@ El desarrollo de instrumentos empieza a abordar directamente esa brecha de medic
 La confianza sin calibrar adopta dos formas. La **confianza excesiva** (aceptar la producción de la IA sin verificación) produce la aceptación acrítica documentada en [[cognitive-offloading|Dependencia excesiva]] y en la investigación sobre [[cognitive-offloading]], y agrava el [[hallucination-risk|riesgo de alucinación]] de los errores seguros de sí mismos. La **confianza insuficiente** (evitar la IA por completo) renuncia a beneficios legítimos. Ambas brotan de la misma raíz: confianza basada en la apariencia y no en la evidencia. La investigación sobre [[misconceptions|concepciones erróneas]] muestra que los estudiantes suelen caer en la confianza excesiva porque suponen que una IA que "suena bien" está en lo correcto.
 
 Una confianza mayor no compra mejor juicio: entre 432 estudiantes de grado que resolvían problemas de Python con sugerencias de IA exactas y deliberadamente engañosas, una mayor confianza predijo una *menor* dependencia apropiada (r = -0,42), los estudiantes aceptaron el 86,03% de las recomendaciones engañosas, y la relación estaba moderada por la [[ai-literacy|alfabetización en IA]] y la necesidad de cognición ([[trust-reliance-ai-education-2026|Pitts, Rani y Mildort (2026)]]).
+
+El orden del juicio importa tanto como el hábito. En un experimento de supervisión de seguridad con 416 evaluadores que juzgaron 3.957 ítems, mostrar las respuestas candidatas del modelo antes de que la persona registrara su propia respuesta redujo la exactitud de los evaluadores en los ítems que el modelo falló del 36,7% al 20,6%, mientras que la exactitud en los ítems que el modelo acertó subió 7,3 puntos ([[shi-human-ai-complementarity-safety-2026|Shi et al., 2026]]). La verificación realizada después de leer la respuesta es una comprobación del acuerdo, no de la corrección.
 
 ### Cómo funciona la calibración
 
@@ -170,6 +172,7 @@ La calibración es un estado, no un resultado, y el resultado que autoriza tiene
 - [[cognitive-surrender]]
 
 ## Artículos conectados
+- [[shi-human-ai-complementarity-safety-2026]] — 416 evaluadores, 3.957 ítems: la asistencia con el candidato primero redujo la detección de errores en los ítems fallados por el modelo del 36,7% al 20,6% (Shi et al., 2026)
 - [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — Cuando el consejo de la IA coincide o no con el juicio humano: confianza, autoeficacia, resiliencia psicológica y respuestas adaptativas en educación física
 - [[children-verification-ai-suggestions-game-2026]] — Conductas de verificación de los niños en la colaboración humano-IA basada en juegos
 - [[student-perspectives-ai-writing-grading-2026]] — Perspectivas estudiantiles sobre la evaluación transparente de la escritura asistida por IA (AlGhamdi 2026)

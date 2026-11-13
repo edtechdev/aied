@@ -1,7 +1,7 @@
 ---
 title: Patrones pedagógicos
 created: "2026-09-30T16:48:24-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-11-04T17:29:51-05:00"
+source_updated: "2026-11-12T19:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -137,6 +137,14 @@ Un cuasiexperimento con 68 futuros docentes encontró que explicar a un aprendiz
 **Evidencia: probada, pero en entornos controlados o no controlados más que en aulas ordinarias.** Dos aprendices comparten una IA y se les asignan roles explícitos con reglas de rotación; la IA se configura para adoptar un rol según sea necesario y su resultado va a todo el grupo. En una variante de programación en parejas, la IA compartida modela la atención y el esfuerzo conjuntos de la díada, pronostica una ruptura con hasta 30 segundos de antelación y escala los andamiajes en niveles, desde no hacer nada hasta una pista directiva.
 
 Un experimento intra-sujetos con 26 díadas encontró que la condición de retroalimentación logró mayor éxito de depuración (t[49.96] = −13,51, p < 0,0001) y terminó más rápido (t[44.70] = 4,39, p < 0,0001), aunque requería hardware de [[sensor-and-gaze-analytics|seguimiento ocular]] dual y pupilometría y no probó la transferencia al trabajo en parejas sin supervisión ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). Un cuasiexperimento con 58 estudiantes de posgrado en 16 grupos encontró que el diseño de roles elevó las puntuaciones de contenido del mapa mental de 3,65 a 4,59 en una escala SOLO de 1–5 (z = 3,771, p < 0,001) mientras que los recuentos de nodos y ramas se mantuvieron planos — pero sin grupo de control, no pueden descartarse los efectos de la práctica ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
+
+### Borradores iterados con colaboración calificada
+
+**Evidencia: descripción de una práctica — una primera aplicación, sin condición de comparación ni resultados medidos.**
+
+El estudiantado escribe un ensayo en equipos pequeños a lo largo de al menos dos etapas documentadas, elige entre un conjunto fijo de títulos y se le califica por la evidencia de iteración y colaboración además de por el producto; la IA generativa se permite dentro de límites declarados, en lugar de prohibirse o exigirse.
+
+En un módulo de primer año del grado de Analista de Negocios en Queen Mary University of London, 23 estudiantes en 11 equipos autoseleccionados escribieron así un ensayo iterado de 1.500 palabras, con la IA generativa excluida de entregar texto generado y de producir listas de referencias. Los autores describen un rediseño [[pedagogy|pedagógico]] a nivel de programa y comunican una comprensión emergente y no resultados. Su afirmación es que fueron los criterios de calificación, y no las instrucciones, los que hicieron que la evidencia del proceso fuera determinante, y que, cuando el estudiantado usó la herramienta, algunos trataron su salida como una afirmación que contestar: contraargumentos que poner a prueba, estructuras que aceptar o rechazar ([[alam-process-oriented-collaborative-essays-2026|Alam y Jackson, 2026]]).
 
 ### Discusión asistida por IA
 
@@ -276,3 +284,4 @@ Las advertencias de la propia guía se aplican: el vídeo grabado, las reflexion
 - [[beck-genai-literacy-economics-hands-on]] — Una discusión de crítica de la IA en cinco pasos construida sobre un error de la IA (Beck & Brodersen 2025)
 - [[ccct-cooperative-learning-technique]] — Una secuencia probada de aprendizaje cooperativo con roles asignados y un paseo por la galería (Tutal 2026)
 - [[ai-assisted-seminar-learning-information-literacy-2026]] — Módulo de seminario y discusión entre pares con un recomendador de recuperación con IA (Huang 2026)
+- [[alam-process-oriented-collaborative-essays-2026]] — Ensayos colaborativos orientados al proceso: iteración y colaboración calificadas, con la IA generativa permitida dentro de límites

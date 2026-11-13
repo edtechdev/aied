@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ La adopción de la IA en la educación no es una decisión puramente de aula; ta
 
 [[students-at-stake-ai-deployment-risks-2026|Student Defense (2026)]] ofrece un cribado portátil de compras para exactamente la decisión a la que se enfrentan los administradores: antes de desplegar un producto de IA, preguntar qué problema se está resolviendo, si existe capacidad de gobernanza, si la institución está siendo transparente y si el despliegue crea valor para el estudiantado —enmarcando la elección como una cuestión de derechos, opciones, finanzas y futuros del estudiantado más que como una transacción de compra.
 
-### Cómo aparece la perspectiva del administrador en la investigación
+## Cómo aparece la perspectiva del administrador en la investigación
 
 - **Política y toma de decisiones institucional:** [[ai-uk-higher-education-policy-2026|la investigación sobre política de IA en la educación superior del Reino Unido]] encuentra que la integración de la IA se está acelerando pero está fragmentada, con una brecha entre la ambición de la política de alto nivel y la implementación institucional: un tema recurrente para los administradores que navegan la estrategia sin una orientación operativa clara.
 
@@ -52,9 +52,17 @@ La adopción de la IA en la educación no es una decisión puramente de aula; ta
 - **Bienestar y experiencia del estudiantado:** [[ai-campus-wellbeing-tools|las herramientas de IA para el bienestar en el campus]] examinan cómo las instituciones despliegan la IA para el [[student-support-and-success|apoyo al estudiantado]], vinculando las decisiones de los administradores con los resultados de [[student-experience|experiencia del estudiantado]].
 - **Gobernanza y regulación:** las decisiones de los administradores interactúan con la [[educational-policy-ai|política educativa sobre IA]], la [[governance|gobernanza]] y la [[regulation|regulación]]: las instituciones traducen la capacidad de la IA en marcos de uso aceptable, reglas de evaluación y estándares de gobernanza de datos (véase [[genai-policies-higher-ed-computing|el análisis de políticas institucionales sobre IA generativa]]).
 
-### Conexiones
+## Conexiones
 
 La perspectiva del administrador conecta con la [[educational-policy-ai|política educativa sobre IA]] (formación de políticas), la [[governance|gobernanza]] y la [[regulation|regulación]] (gobernanza), la [[edtech-platform|plataforma de tecnología educativa]] (compras e infraestructura), la [[learning-analytics|analítica del aprendizaje]] (datos institucionales) y la [[higher-ed|educación superior]]. Las decisiones de los administradores habilitan o limitan el trabajo de [[educational-development|desarrollo educativo]], [[teacher-role|rol docente]] y [[ai-literacy|alfabetización en IA]] que se trata en otros lugares de la base de conocimiento.
+
+## Implicaciones para la práctica
+**Para quienes administran**
+
+- Presupueste el rol de liderazgo, no solo el documento de estrategia. Cuando el 49% declara la IA como prioridad y el 7% crea roles sénior, la restricción vinculante es la asignación y no la convicción.
+- Pregunte sobre qué podrá evaluarse una herramienta antes de firmar. Si el contrato no permite acceder a los resultados, a los datos de auditoría o al detalle de uso, la institución ha comprado una capacidad que no puede valorar.
+- Encueste el uso real y no el autorizado, porque ambos divergen y la cifra no autorizada es la que conlleva el riesgo al que ya está expuesta.
+- Secuencie la política por delante del despliegue donde todavía exista margen. Una vez que el uso está extendido, la política se convierte en una negociación con una práctica ya asentada.
 
 ## Concepciones erróneas
 
@@ -62,15 +70,6 @@ La perspectiva del administrador conecta con la [[educational-policy-ai|polític
 - **«Las cifras de adopción miden la preparación.»** El uso declarado y el uso gobernado son cantidades distintas, y la evidencia de esta página las separa: las instituciones declaran intención estratégica en torno a la mitad de la población y capacidad de liderazgo por debajo de una décima parte. Una encuesta que muestra que el personal usa IA le dice lo que las personas ya han hecho sin permiso, no lo que la institución puede apoyar o supervisar.
 - **«Las compras son un trámite administrativo.»** Cuando la capacidad se compra en lugar de construirse, los términos contractuales deciden lo que será posible después: la propiedad de los datos, el acceso a auditorías y si la herramienta puede evaluarse siquiera. Una decisión sobre un proveedor tomada como una tarea de compras cierra preguntas de evaluación que la institución todavía no se ha planteado.
 - **«La gobernanza puede ir detrás de la adopción.»** La afirmación sobre la secuencia es habitual y aquí no está respaldada: la evidencia documenta el patrón contrario, con las estructuras de política y de liderazgo por detrás de un uso que ya está ocurriendo. Una gobernanza planteada como algo que se construye después del despliegue es una gobernanza construida desde una posición con menos margen de maniobra.
-
-## Qué significa esto para la práctica
-
-**Para quienes administran**
-
-- Presupueste el rol de liderazgo, no solo el documento de estrategia. Cuando el 49% declara la IA como prioridad y el 7% crea roles sénior, la restricción vinculante es la asignación y no la convicción.
-- Pregunte sobre qué podrá evaluarse una herramienta antes de firmar. Si el contrato no permite acceder a los resultados, a los datos de auditoría o al detalle de uso, la institución ha comprado una capacidad que no puede valorar.
-- Encueste el uso real y no el autorizado, porque ambos divergen y la cifra no autorizada es la que conlleva el riesgo al que ya está expuesta.
-- Secuencie la política por delante del despliegue donde todavía exista margen. Una vez que el uso está extendido, la política se convierte en una negociación con una práctica ya asentada.
 
 ## Conceptos conectados
 

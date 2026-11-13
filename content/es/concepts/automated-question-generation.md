@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Generación automática de preguntas
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-12T06:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,8 @@ El reto central de la AQG es el **control de calidad**:
 - **Reconocibilidad en un examen real, y lo que la revisión elimina de verdad:** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] introdujeron 30 ítems de opción múltiple generados por IA y 30 del Examen Nacional de Licencia en un examen calificado en tableta realizado por 119 [[medical-education|estudiantes de medicina]] de quinto curso, con los ítems de IA redactados a partir de los propios materiales del curso por ChatGPT-4o y Gemini 1.5 Pro mediante un panel de expertos que aceptó el 82% de ellos y eliminó el 18,2% por inutilizables. La atribución de fuente del estudiantado no difirió entre los dos tipos de ítem, y la dificultad del ítem, la distribución de distractores y la alineación curricular percibida fueron estadísticamente indistinguibles: un resultado de *reconocimiento* y no de calidad, y la razón por la que los autores describen el beneficio del flujo de trabajo como un traslado del esfuerzo docente de la redacción a la revisión, y no como su eliminación. Sobrevivió una diferencia exploratoria: los ítems de Gemini eran más difíciles que los del examen de licencia (p = 0,028), mientras que los de ChatGPT no lo eran (p = 0,984).
 - **Dependencia de la tarea:** la fiabilidad de la generación varía según el tipo de ítem. [[cong-confidence-asag-2026|La calificación de respuesta corta]] y [[self-referential-l2-writing-llm-assessment|la evaluación analítica de la escritura]] muestran que los ítems de respuesta abierta y de escritura son más difíciles de generar y calificar de forma fiable que los ítems estructurados.
 - **Calidad cognitiva:** [[llm-educational-question-cognitive-depth|la evaluación de la profundidad cognitiva]] muestra que los ítems generados pueden inclinarse hacia el pensamiento de orden inferior salvo que se diseñen explícitamente para resultados de orden superior.
+
+- **Las rúbricas de redacción de ítems se aprueban antes que la alineación.** Veintisiete ítems de química generados por GPT-4 cumplieron de media el 87,71% de 22 criterios binarios de redacción de ítems, pero solo el 33,33% redujo el lenguaje especializado y el 48,15% equilibró la longitud de las opciones, y la alineación con el nivel de competencia alcanzó un 25,93% de concordancia exacta con la dificultad implícita de Rasch ([[rodemer-ai-generated-mcq-chemistry-assessment-2026|Rodemer et al. (2026)]]). La comprobación que importa es la dificultad empírica, no la lista de verificación.
 
 - **El etiquetado automático del nivel cognitivo no se transfiere a los ítems generados.** Un clasificador de la taxonomía de Bloom entrenado con un banco de ítems curado se derrumbó ante las preguntas generadas por IA —la F1 macro pasó de 0,88 dentro de la distribución a 0,48 y 0,20 fuera de ella— porque los ítems generados promedian muchas más palabras (18,2 frente a 9,3) y comparten solo una mediana del 10,5% de sus verbos desencadenantes de Bloom con el corpus curado, frente al 35,1% de un conjunto más cercano; reentrenar con datos etiquetados fuera de la distribución fue la mayor ganancia individual, con un umbral de aproximadamente N > 1.000 muestras etiquetadas ([[bloom-classifier-ai-assisted-questions-2026|Castanares et al., 2026]]).
 
@@ -144,3 +146,4 @@ La AQG es un habilitador clave del aprendizaje [[adaptive-learning|adaptativo]] 
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — El uso de LLM por parte del estudiantado y los límites de la dificultad de las preguntas generadas por IA en cursos de ciencia de datos
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluación de modelos preentrenados para la valoración pedagógica de nuevas preguntas educativas asistidas por IA
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — El estudiantado no pudo distinguir los ítems de opción múltiple generados por IA de los de un examen de licencia en un examen calificado, y el 18,2% de los ítems generados se eliminaron en la revisión (Vogt et al. 2026)
+- [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — Los ítems generados que aprueban una rúbrica de redacción pueden aun así no alcanzar el nivel de competencia previsto

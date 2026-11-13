@@ -11,8 +11,8 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-08T09:30:45-05:00"
-updated: "2026-11-08T10:12:52-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ ai_assist:
 
 ## Introducción
 
-### Analítica mejorada con IA
+## Analítica mejorada con IA
 
 - **Analítica predictiva:** el [[machine-learning|aprendizaje automático]] sobre datos de interacción del estudiantado predice resultados, desde la [[at-risk-students-ml-prediction|identificación de estudiantes en riesgo]] hasta la [[knowledge-tracing|estimación del estado de conocimiento]].
 
@@ -80,7 +80,10 @@ La analítica de sensores y de mirada es una segunda familia de instrumentos que
 
 **Modelice la concurrencia de cursos, no solo la secuencia.** TRACE asigna a cada curso de un semestre la misma codificación posicional, y predecir conjuntamente cursos y calificaciones redujo el error de predicción de calificaciones a 0,1339 MAE, una reducción del 46,4% frente a un transformador que solo usa calificaciones, sobre diez años de datos institucionales ([[trace-course-grade-prediction-2026|Savala (2026)]]).
 
-### El ciclo de la analítica del aprendizaje
+**Los datos de interacción son un problema de representación antes que de modelado.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] tratan cada intercambio humano-IA como un único registro estructurado que porta el cálculo que motivó la petición, la petición, la respuesta, la retroalimentación de la persona usuaria y la ejecución que siguió, en lugar de como un prompt aislado. En 140 pares de estudiante y tarea de un despliegue con 35 estudiantes, el recuento de interacciones por sí solo se correlacionó con las celdas ejecutadas con éxito en r = 0.12, y la misma llamada podía ser una recuperación de error, un paso siguiente, una comprobación de concepto o una validación según el estado a su alrededor. Treinta y siete pares con acceso no produjeron ninguna interacción, así que la ausencia de uso de IA en un registro no puede leerse como ausencia de necesidad.
+
+
+## El ciclo de la analítica del aprendizaje
 
 La analítica del aprendizaje se formula canónicamente como un ciclo que empieza con la actividad del estudiantado, que produce datos, los cuales se procesan en medidas e indicadores que después se traducen en **intervenciones**, y la intervención realimenta la actividad del estudiantado para cerrar el bucle. El paso de intervención es lo que distingue la analítica del mero seguimiento o la mera predicción: sin él, la analítica describe y señala pero nunca cambia el aprendizaje. Este ciclo es el marco organizador para entender dónde se sitúan las herramientas de IA (paneles, generadores de retroalimentación, recomendadores prescriptivos) en la cadena y qué paso automatizan.
 
@@ -88,7 +91,7 @@ Un panel orientado al estudiantado vale tanto como su alcance: en un estudio de 
 
 Una codificación de frecuencias de datos [[qualitative-research|cualitativos]] es un punto de entrada y no un veredicto: en un estudio con diez participantes, algunos docentes leían las codificaciones de frecuencia como una vía productiva para entrar en el material, mientras otros advertían que ocultan respuestas raras pero críticas, de modo que el diseño mantiene cada vista agregada vinculada al texto literal del estudiantado ([[wordstream-glass-learning-analytics|Nguyen et al. (2026)]]).
 
-### De la descripción a la intervención
+## De la descripción a la intervención
 - **La base de evidencia todavía no es evidencia de intervención.** Al sintetizar cuatro estudios en los niveles del estudiantado, la disciplina, el profesorado y la institución, [[learning-analytics-genai-learning-design|Rienties, Divjak y Law (2026)]] encuentran un campo dominado por diseños transversales, de [[self-report-measures|autoinforme]], basados en el discurso y de juicio experto, y reclaman investigación de intervención que ponga a prueba mecanismos causales y resultados distribucionales y de más largo plazo.
 
 **Un diseño de estímulo aleatorizado aporta el anclaje causal.** En un experimento de estímulo aleatorizado en ASSISTments, [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan y Sales (2025)]] instaron aleatoriamente a docentes nuevos en la plataforma a ver el informe de la tarea después de crearla.
@@ -106,7 +109,7 @@ El paso posterior a la puntuación, es decir, quién recibe apoyo y si se asign�
 Un resultado de integridad entra en la misma capa predictiva. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] predice el riesgo de copia asistida por IA a partir de las primeras ocho semanas de rastros de [[video-education|Moodle y del reproductor de vídeo]], alcanzando un AUC de 0,763 con regresión logística, y sostiene que la señal es utilizable precisamente porque llega antes del examen y no durante él.
 Una línea complementaria apunta a la *interpretación* de la analítica misma. El marco FACTRIA de [[factria-responsible-institutional-analytics-2026|Marques et al. (2026)]] organiza los factores de sesgo que hay detrás de un indicador (de cadena de procesamiento, institucionales, de curso y demográficos), y un chatbot que estimula la reflexión elevó los subfactores que 11 partes interesadas sopesaban por caso de 1,41 a 3,45 (d = 2,15), desplazándolas de lecturas directas a lecturas condicionales.
 
-### Métodos y análisis de redes
+## Métodos y análisis de redes
 
 Los métodos de red son centrales en la analítica del aprendizaje: el [[network-analysis|análisis de redes de transición (TNA)]] modela secuencias temporales de acciones del estudiantado (por ejemplo, los bucles de revisión y de chat en la escritura andamiada con [[conversational-ai|chatbot]]), y el [[network-analysis|análisis de redes epistémicas (ENA)]] mapea cómo coocurren códigos y constructos a través de la actividad. Juntos revelan el *proceso* del aprendizaje y de la [[student-ai-interaction|interacción entre estudiantado e IA]] y no solo su producto.([[penny-transition-network-analysis-efl-writing-2026]])([[tracing-genai-literacy-interaction-patterns]])
 
@@ -129,7 +132,7 @@ Los métodos de red son centrales en la analítica del aprendizaje: el [[network
 - **Datos abiertos y reproducibles, y analítica lista para rastros.** [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] publica un [[benchmark]] sintético con un esquema listo para rastros (N=540; 360 sesiones; 1.440 episodios) para analizar la interacción y el equilibrio de participación en programación colaborativa. Los datos de registro y de rastro son el contrapeso natural al [[self-report-measures|autoinforme]] en esta literatura: a menudo el mismo constructo se mide dos veces, una preguntando y otra observando, y las dos medidas no siempre coinciden. Por separado, un marco exploratorio de aprendizaje automático con análisis SHAP identificó los constructos relacionados con el aprendizaje más asociados al uso académico previsto de ChatGPT entre estudiantes universitarios, priorizando la [[explainable-ai|interpretabilidad]] ([[determinants-chatgpt-use-higher-education-2026]]).
 - **Infraestructura analítica reutilizable, validada solo internamente (2026).** [[a4l-analytics-pipeline|Bai et al. (2026)]] reprodujeron hallazgos publicados de tres asistentes de IA de Georgia Tech cambiando valores de configuración en lugar de código, aunque la afirmación se apoya en el reanálisis de conjuntos de datos existentes de una sola institución y la única extensión de capacidad la hicieron personas de dentro.
 
-### Conexiones
+## Conexiones
 
 La analítica del aprendizaje se conecta con el [[knowledge-tracing|traza de conocimiento]] (el análisis central), la [[formative-assessment|evaluación formativa]] (evaluación impulsada por analítica), la [[student-modeling|modelización del estudiantado]] (la representación del estudiante que la analítica puebla), la [[privacy|privacidad]] (la restricción [[ethics|ética]]) y la [[edtech-platform|plataforma educativa]] (donde se despliega la analítica). Como la analítica prescriptiva se evalúa cada vez más con [[simulating-students|estudiantes simulados]], donde cohortes sintéticas sustituyen a las reales en pruebas controladas, la analítica del aprendizaje también se conecta con la simulación de estudiantado.
 
@@ -148,14 +151,15 @@ Los paneles y los sistemas de alerta temprana concentran el riesgo de [[automati
 
 Manteniendo constantes los indicadores multimodales y añadiendo solo una explicación narrativa, la interpretación (η² = 0,166) y la construcción de significado (η² = 0,220) del profesorado en formación inicial aumentaron, mientras que la transformación accionable no se movió: la capa de interpretación, y no los datos, era el cuello de botella ([[liu-teaching-analytics-dashboard-2026|Liu et al., 2026]]).
 
-**Los datos de interacción son un problema de representación antes que de modelado.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] tratan cada intercambio humano-IA como un registro estructurado único que porta el cómputo que motivó la solicitud, la solicitud, la respuesta, la retroalimentación de quien la usa y la ejecución que siguió, y no como una instrucción aislada. A lo largo de 140 pares estudiante-tarea en un despliegue con 35 estudiantes, el recuento de interacciones por sí solo se correlacionó con las celdas ejecutadas con éxito en r = 0,12, y la misma llamada podía ser una recuperación de error, un paso siguiente, una comprobación de concepto o una validación según el estado que la rodeaba. Treinta y siete pares con acceso no produjeron ninguna interacción, de modo que la ausencia de uso de IA en un registro no puede leerse como ausencia de necesidad.
-
 ## Concepciones erróneas
 
 - **"Una estimación del estado de conocimiento hereda su validez de los datos."** **La matriz Q que vincula ítems con atributos es un supuesto, no un dato**: las entradas rechazadas para **14 de 918 ítems analizados** significan que el mapeo mismo requirió adjudicación. Validar el mapeo es un paso, no una formalidad.
 - **LLM que leen flujos de clics frente a estrategias de aprendizaje nombradas.** [[radmehr-clicksight-clickstream-learning-strategies-2026|Radmehr et al. (2026)]] montan una cadena de [[llm|LLM]] que localiza evidencia de una estrategia en el rastro de un estudiante, juzga su adherencia y cita las acciones que respaldan el juicio, alcanzando una calidad global de 0,735 en una simulación más difícil frente a 0,704 de una línea de base plana.
 - **"La analítica necesita rastros de flujos de clics."** Los estados de conocimiento pueden estimarse dentro de la educación basada en resultados **trazando los resultados del curso directamente desde datos de interacción y de logro del LMS**, con mapeos de afinidad OBE: el registro institucional aporta la señal.
 - **"La predicción sin ventana de acción es útil."** La predicción del progreso es más utilizable cuando es **interpretable y va acompañada de una ventana de acción**: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries y Koprinska (2025)]] predicen resultados a nivel de módulo, que es una forma sobre la que un asesor puede actuar, a diferencia de una puntuación bruta.
+
+La analítica semántica solo puede puntuar el razonamiento cuando las categorías están definidas con la suficiente precisión para puntuarlo. En un módulo de ética de la IA de cinco horas con 90 estudiantes, quienes codificaban de forma humana alcanzaron un α de Krippendorff = 0.82 sobre 1.094 unidades de significado, y el clasificador con una persona en el bucle alcanzó un macro-F1 = 0.83 [0.78, 0.87] en 17 categorías de problema y solución, que bajó a 0.68 en la más pequeña ([[wang-yi-semantic-learning-analytics-moral-reasoning-2026|Wang y Yi (2026)]]). El diseño pretest-postest de grupo único no puede atribuir al módulo las ganancias observadas.
+
 
 ## Conceptos conectados
 
@@ -221,3 +225,4 @@ Manteniendo constantes los indicadores multimodales y añadiendo solo una explic
 
 - [[taufer-human-ai-interaction-haidl-2026]] — Los intercambios humano-IA como registros estructurados: los recuentos de instrucciones apenas aportan señal sobre el progreso
 - [[liu-teaching-analytics-dashboard-2026]] — Estudio de microenseñanza con control activo que aísla la capa de explicación: la interpretación se movió, la acción no (Liu et al. 2026)
+- [[wang-yi-semantic-learning-analytics-moral-reasoning-2026]] — Puntuación semántica del razonamiento moral con una persona en el bucle, sólida en las categorías grandes y débil en las pequeñas

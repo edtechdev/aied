@@ -1,7 +1,7 @@
 ---
 title: Mejoras en el aprendizaje
 created: "2026-09-25T04:31:08-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-11-11T08:13:31-05:00"
+source_updated: "2026-11-12T21:50:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,11 +60,11 @@ Hallazgos clave de la base de conocimientos:
 - El [[burneo-can-edtech-close-learning-gaps-2026|metaanálisis del Banco Mundial]] agrupa 191 tamaños del efecto de 14 ECA para estimar que la EdTech adaptativa y con IA eleva el aprendizaje en unos ~0,125 sd por término medio —por encima de la mediana de los ECA educativos—, a la vez que no encuentra ventaja de la IA generativa sobre las herramientas adaptativas anteriores.
 - **Las mejoras son interacciones contenido-tratamiento, no constantes.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] muestran que la proporción óptima entre ejemplos y problemas depende del contenido de conocimiento: la [[retrieval-spacing-interleaving|práctica de recuperación]] pura produce mayores mejoras para los datos literales, mientras que la práctica integrada con ejemplos (alternar ejemplos resueltos y problemas) produce mayores mejoras para las habilidades generalizables —una prueba directa de que «más práctica» no siempre es mejor y de que las mejoras dependen de ajustar el calendario de entrenamiento al componente de conocimiento que se está aprendiendo—.
 
-### El problema de medición en la era de la IA
+## El problema de medición en la era de la IA
 
 Un tema central en la investigación de la base de conocimientos sobre las mejoras en el aprendizaje es que **la IA generativa puede inflar el rendimiento aparente sin producir mejoras en el aprendizaje** —y que la elección de la medida de resultado determina si esto resulta visible—. La [[generative-ai-reduced-study-time-math|investigación]] y los [[stromberg-generative-ai-learning-penalty-secondary-2026|datos de campo a gran escala]] muestran una divergencia marcada: el uso de la IA mejora las puntuaciones en los deberes asistidos por IA, mientras que *baja* las puntuaciones en medidas supervisadas, sin apuntes y sin asistencia. La [[genai-performance-vs-learning|investigación sobre rendimiento frente a aprendizaje]] y las [[young-people-learning-generative-ai-rapid-review-2026|revisiones rápidas]] distinguen por tanto el rendimiento inmediato con apoyo de IA del aprendizaje duradero, y tratan las medidas sumativas sin asistencia (véase [[summative-assessment]]) como la señal fiable de mejoras de aprendizaje genuinas.
 
-### Lo que muestra la investigación sobre eficacia
+## Lo que muestra la investigación sobre eficacia
 
 A lo largo de los [[rct|ECA]], los [[meta-analysis-systematic-review|metaanálisis]] y los estudios de campo de la base de conocimientos, emerge un panorama coherente de **eficacia en el aprendizaje** (qué intervenciones de IA producen realmente mejoras de aprendizaje, y de qué magnitud):
 
@@ -83,7 +83,7 @@ A lo largo de los [[rct|ECA]], los [[meta-analysis-systematic-review|metaanális
 
 - **La tutoría con IA puede igualar la tutoría humana experta en mejoras de pruebas estandarizadas.** En una evaluación con 2.383 participantes, la tutoría con IA agrupada fue estadísticamente equivalente a la tutoría humana experta en mejoras de aprendizaje del GRE (p = 0,015), con ambas por encima de un control sin tutoría; los autores proponen el coste por punto porcentual de mejora como unidad para comparar tutores ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).
 
-### Un mapa de campo de los efectos de la IA sobre el aprendizaje y el logro
+## Un mapa de campo de los efectos de la IA sobre el aprendizaje y el logro
 
 El corpus de la base de conocimientos —metaanálisis, ECA, cuasiexperimentos y estudios de campo— respalda un panorama matizado y a veces contradictorio. Los hallazgos se agrupan en efectos positivos, negativos y condicionales.
 
@@ -116,7 +116,7 @@ El corpus de la base de conocimientos —metaanálisis, ECA, cuasiexperimentos y
 - **El aprendizaje basado en la indagación (IBL) apoyado por IA favorece la creatividad, pero no necesariamente la resolución de problemas.** [[mujib-ai-ibl-creative-math-2026|Mujib et al.]] mejoraron el rendimiento creativo y las actitudes, pero no la resolución crítica de problemas.
 - **La [[student-experience|experiencia del estudiantado]] diverge de las mejoras medidas.** [[absent-cognitive-baseline-2026|Los estudiantes nativos digitales con IA sobreestiman su aprendizaje]], y [[ai-literacy-assessment-misalignment|el autoinforme no se corresponde con el rendimiento]] —las percepciones de mejora no son una prueba fiable de ellas—.
 
-### Las estimaciones metaanalíticas de las mejoras de aprendizaje están infladas: léalas con cautela
+## Las estimaciones metaanalíticas de las mejoras de aprendizaje están infladas: léalas con cautela
 
 Las cifras de mejoras de aprendizaje que dominan el resumen de eficacia de esta página —especialmente los tamaños del efecto agrupados de los metaanálisis— deben leerse con una advertencia firme: una ola de metainvestigación muestra que las estimaciones de síntesis positivas del campo están infladas por el sesgo de publicación, la incoherencia de constructos y los atajos metodológicos.
 
@@ -129,23 +129,13 @@ Las cifras de mejoras de aprendizaje que dominan el resumen de eficacia de esta 
 
 **Conclusión sobre las cifras de mejoras anteriores:** tratar los tamaños del efecto agrupados grandes de la IA como cotas superiores, no como estimaciones puntuales. Preferir la evidencia de mejoras de aprendizaje proveniente de [[rct|ECA]] y estudios de campo bien diseñados con medidas de resultado estandarizadas y sin asistencia (el ECA de guardarraíles, los experimentos de Khanmigo y NUMI, y el metaanálisis de EdTech del Banco Mundial citados arriba), y leer las mejoras metaanalíticas como provisionales y probablemente sobreestimadas hasta que mejore la calidad de la síntesis. El problema también sobrevive a la corrección: de los artículos publicados después de que se retirara uno de los metaanálisis auditados, el 60 % todavía lo citaba como respaldo autorizado de grandes mejoras de aprendizaje con ChatGPT y ninguno reconocía la retractación, por lo que una estimación retirada sigue propagándose. Es por eso que la página [[limitations-in-aied-research|Limitaciones en la investigación en AIEd]] documenta ahora en detalle la crisis de la evidencia metaanalítica.
 
-### Medir lo que importa
+## Medir lo que importa
 
 Las mejoras en el aprendizaje se conectan con la [[assessment-validity]] —si las [[assessment|evaluaciones]] no captan una comprensión más profunda, las medidas de mejora de aprendizaje inducen a error—. También se cruzan con la [[cognitive-offloading|dependencia excesiva]] y con la [[cognitive-offloading]], donde las mejoras aparentes de rendimiento pueden enmascarar pérdidas de aprendizaje, y con el [[rct]] (los ensayos aleatorizados como diseño de referencia para detectar mejoras de aprendizaje causales), y con el [[meta-analysis-systematic-review]] (agrupar tamaños del efecto entre estudios para establecer la evidencia de eficacia del campo).
 
 - **Mejoras significativas de antes y después a partir de una [[pedagogy]] de IA basada en errores:** [[pedagogy-ai-mistakes|Hosseini (2026)]] en su curso de diseño de bases de datos (n=13) mostró mejoras de aprendizaje grandes y significativas en ítems idénticos de antes y después (media 4,25→6,83/7, *d* de Cohen = 1,49, *p* < 0,001), con mejoras no correlacionadas con la confianza previa en la IA o en las bases de datos —el diseño de crítica-refinación integrado con IA benefició al estudiantado con independencia de sus percepciones iniciales—.
 
 Los experimentos más recientes marcan un límite a ese patrón y no una contradicción. Quienes empezaban con ChatGPT aprobaron muchas más pruebas generadas que quienes empezaban sin él (410,7 frente a 80,7), mientras que su comprensión no mejoró, y el estudiantado de nivel intermedio no ganó nada ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). Un segundo experimento encontró que la ventaja de 14,09 puntos de Copilot desaparecía en una nueva prueba sin asistencia una semana después ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). La persistencia es la excepción en esta literatura, así que un estudio que la informa es evidencia sobre la tarea y sobre el diseño del apoyo, no sobre la asistencia con IA en general.
-
-## Concepciones erróneas
-
-**«Las puntuaciones subieron, así que la intervención produjo aprendizaje.»** Este es el error de definición que la página existe para prevenir, y los datos de campo muestran las dos direcciones a la vez: el uso de la IA mejora las puntuaciones en los deberes asistidos por IA mientras *baja* las puntuaciones en medidas supervisadas, a libro cerrado y sin asistencia ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). La elección de la medida determina si la inflación es visible, de modo que una mejora en una tarea donde se permite la IA es una afirmación sobre el rendimiento en esa tarea y no sobre el [[genai-performance-vs-learning|aprendizaje]].
-
-**«El metaanálisis lo zanja: el efecto es grande.»** La dirección de la agregación y su magnitud son hechos distintos, y la magnitud rara vez sobrevive al escrutinio. [[genai-meta-analysis-programming-learning|El metaanálisis sobre IA generativa en programación]] encuentra grandes ganancias de *productividad* junto con **ninguna ganancia de aprendizaje significativa** (g ≈ 0). [[burneo-can-edtech-close-learning-gaps-2026|El metaanálisis del Banco Mundial]], que agrupa 191 tamaños del efecto de 14 ensayos aleatorizados, estima ~0,125 desviaciones estándar para la tecnología educativa adaptativa y habilitada por IA —respetable frente al ensayo educativo mediano, pero **sin ventaja de la IA generativa sobre herramientas adaptativas anteriores**—. Citar estudios de la era de GPT como un salto de categoría exagera lo que muestra la evidencia agrupada.
-
-**«Más práctica y más [[personalized-learning|personalización]] siempre ayudan.»** El tamaño de una ganancia depende de lo que se entrena, no de cuánto apoyo se suministra. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] informan de que la mezcla óptima de ejemplos resueltos y problemas cambia con la habilidad objetivo: la práctica de recuperación pura produce mayores ganancias para los hechos literales, mientras que alternar ejemplos y problemas produce mayores ganancias para las habilidades generalizables. Y [[lak2026-hint-button-unproductive-use|la investigación sobre el botón de pista]] encuentra que el volumen de pistas se asocia negativamente con el aprendizaje. El mismo «apoyo» que ayuda a un componente de conocimiento puede desperdiciar el otro.
-
-**«Un resultado de postest diferido es automáticamente un resultado de aprendizaje duradero.»** El diferimiento es necesario y no suficiente. Lo que distingue el aprendizaje duradero en este corpus es la medición *sin asistencia* en condiciones diferidas, junto con la evidencia de que el efecto no lo sostiene el andamiaje que estará ausente en la transferencia.
 
 ## Implicaciones para la práctica
 
@@ -166,6 +156,16 @@ Los experimentos más recientes marcan un límite a ese patrón y no una contrad
 - Prerregistre la medida de resultado y declare si permite la IA o es sin asistencia. La dirección del hallazgo puede invertirse solo con esta elección.
 - Informe los tamaños del efecto frente a una comparación nombrada, no frente a «enfoques tradicionales» en abstracto. El resultado del Banco Mundial solo es interpretable porque nombra su clase de comparación.
 - Distinga explícitamente la inflación del rendimiento del desplazamiento del aprendizaje, ya que las dos implican remedios distintos: rediseñar la tarea o volver a enseñar.
+
+## Concepciones erróneas
+
+**«Las puntuaciones subieron, así que la intervención produjo aprendizaje.»** Este es el error de definición que la página existe para prevenir, y los datos de campo muestran las dos direcciones a la vez: el uso de la IA mejora las puntuaciones en los deberes asistidos por IA mientras *baja* las puntuaciones en medidas supervisadas, a libro cerrado y sin asistencia ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). La elección de la medida determina si la inflación es visible, de modo que una mejora en una tarea donde se permite la IA es una afirmación sobre el rendimiento en esa tarea y no sobre el [[genai-performance-vs-learning|aprendizaje]].
+
+**«El metaanálisis lo zanja: el efecto es grande.»** La dirección de la agregación y su magnitud son hechos distintos, y la magnitud rara vez sobrevive al escrutinio. [[genai-meta-analysis-programming-learning|El metaanálisis sobre IA generativa en programación]] encuentra grandes ganancias de *productividad* junto con **ninguna ganancia de aprendizaje significativa** (g ≈ 0). [[burneo-can-edtech-close-learning-gaps-2026|El metaanálisis del Banco Mundial]], que agrupa 191 tamaños del efecto de 14 ensayos aleatorizados, estima ~0,125 desviaciones estándar para la tecnología educativa adaptativa y habilitada por IA —respetable frente al ensayo educativo mediano, pero **sin ventaja de la IA generativa sobre herramientas adaptativas anteriores**—. Citar estudios de la era de GPT como un salto de categoría exagera lo que muestra la evidencia agrupada.
+
+**«Más práctica y más [[personalized-learning|personalización]] siempre ayudan.»** El tamaño de una ganancia depende de lo que se entrena, no de cuánto apoyo se suministra. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] informan de que la mezcla óptima de ejemplos resueltos y problemas cambia con la habilidad objetivo: la práctica de recuperación pura produce mayores ganancias para los hechos literales, mientras que alternar ejemplos y problemas produce mayores ganancias para las habilidades generalizables. Y [[lak2026-hint-button-unproductive-use|la investigación sobre el botón de pista]] encuentra que el volumen de pistas se asocia negativamente con el aprendizaje. El mismo «apoyo» que ayuda a un componente de conocimiento puede desperdiciar el otro.
+
+**«Un resultado de postest diferido es automáticamente un resultado de aprendizaje duradero.»** El diferimiento es necesario y no suficiente. Lo que distingue el aprendizaje duradero en este corpus es la medición *sin asistencia* en condiciones diferidas, junto con la evidencia de que el efecto no lo sostiene el andamiaje que estará ausente en la transferencia.
 
 ## Conceptos conectados
 

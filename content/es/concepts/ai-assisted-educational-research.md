@@ -1,7 +1,7 @@
 ---
 title: Investigación educativa asistida por IA
 created: "2026-10-05T12:43:08-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -85,6 +85,8 @@ Su conclusión es una división del trabajo y no un traspaso: asignar la automat
 Una valoración favorable no implicaba idoneidad para la delegación. Entre 118 artículos sobre LLM con evaluaciones solo positivas, el 52% seguía reportando al menos una preocupación de que el flujo de trabajo quedaba por debajo del umbral exigido para su función. El acceso a los modelos era abrumadoramente propietario: el 84,1% del uso de LLM dependía de sistemas propietarios o alojados, el 11,0% era mixto y solo el 4,9% era de pesos abiertos.
 
 A partir de estos patrones los autores derivan PRISMA-LLM, un marco de tres capas cuyos cinco niveles de implementación son niveles de divulgación y no niveles de riesgo. Es una propuesta ofrecida para su puesta a prueba, no una extensión oficial respaldada por el Comité Ejecutivo de PRISMA. El silencio a nivel de artículo, advierten, no es prueba de que falte la validación: puede residir en un informe de producto, un protocolo o un repositorio.
+
+**Una mirada regulatoria a la misma automatización.** [[zhang-executor-partner-genai-systematic-review-2026|Zhang, Wang y Maeda (2026)]] no preguntan qué hace la IA generativa en una revisión, sino quién regula el trabajo. Al tratar una revisión sistemática como un sistema de aprendizaje regulado, asignan las actividades de la revisión a la previsión, el desempeño y la reflexión, y después distinguen tres roles: la IA generativa como ejecutora delegada dentro de estructuras definidas por personas, como influencia correguladora en las decisiones de quien revisa y como socia en la regulación socialmente compartida. Al aplicar el marco a 60 síntesis de evidencia asistidas por IA generativa, encontraron un uso declarado abrumadoramente en el rol de ejecutora, con corregulación episódica y poca evidencia de regulación compartida. Esto es coherente con el patrón a nivel de herramienta descrito antes, donde la automatización se concentra en la criba y la extracción, y añade un diagnóstico: un paso puede ser procedimentalmente útil y dejar intactos el monitoreo, el juicio y la adaptación de quien revisa.
 
 ## Codificación y análisis cualitativos
 

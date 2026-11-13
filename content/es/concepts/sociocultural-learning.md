@@ -8,7 +8,7 @@ pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learnin
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ ai_assist:
 
 ## Introducción
 
-### El concepto
+## El concepto
 
 La teoría sociocultural (Vygotsky, 1978; Luria; Leontiev) sostiene que las funciones mentales superiores se desarrollan mediante la participación en una actividad culturalmente organizada. A diferencia de los enfoques que sitúan el aprendizaje únicamente en el procesamiento de información del individuo, la visión sociocultural subraya que:
 
@@ -40,13 +40,13 @@ La teoría sociocultural (Vygotsky, 1978; Luria; Leontiev) sostiene que las func
 - **El aprendizaje es social.** Las funciones mentales superiores aparecen primero entre personas (intersubjetivamente, en la interacción) y solo después dentro del individuo. El aprendizaje surge de la participación con [[teacher-role|docentes]], pares y comunidades — en procesos como el [[scaffolding|andamiaje]], la formación de aprendices y el avance a través de la ZDP.
 - **[[distributed-cognition|La cognición está distribuida]].** El trabajo cognitivo se reparte entre personas, artefactos y entornos (Hutchins; Clark y Chalmers; Pea), en lugar de estar contenido en la mente individual. La [[distributed-cognition|cognición distribuida]], el [[situated-learning|aprendizaje situado]] y las comunidades de práctica amplían la línea sociocultural.
 
-### La zona de desarrollo próximo (ZDP)
+## La zona de desarrollo próximo (ZDP)
 
 La ZDP (Vygotsky) es el concepto sociocultural más ampliamente aplicado en la [[intelligent-tutoring|tutoría con IA]]: el espacio entre lo que quien aprende puede hacer solo y lo que puede hacer con asistencia. El aprendizaje es más eficaz cuando la enseñanza apunta a esta zona: suficientemente desafiante para impulsar el desarrollo, con suficiente apoyo para permitir avanzar. Es el fundamento teórico del [[scaffolding|andamiaje]]: apoyo temporal y ajustable que se retira a medida que crece la competencia. En la educación con IA, la ZDP enmarca la pregunta central de diseño sobre cuánto apoyo debe ofrecer un [[intelligent-tutoring|tutor de IA]] para que el aprendizaje avance sin que se le regale — véase [[stanford-evidence-base-ai-k12-2026]].
 
 Una ayuda fabricada por una máquina puede situarse dentro de esa zona. En un estudio aleatorizado con 274 [[adult-learning|estudiantes adultos]] en cuatro materias de matemáticas, las pistas generadas por ChatGPT con soluciones desarrolladas produjeron una ganancia del 17,00% entre el pre y el post frente al 1,85% sin pistas, mientras que las pistas redactadas por tutores humanos produjeron un 11,62%; las dos condiciones de ayuda no fueron estadísticamente separables ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos y Bhandari, 2024]]). La tasa de error matiza la equivalencia: el 32% de las pistas generadas fallaron las comprobaciones de calidad hasta que el [[prompt-engineering|prompting]] de autocoherencia la redujo a casi cero en las tres materias de álgebra y al 13% en estadística. Otro más competente que se equivoca una de cada tres veces sigue siendo un agente mediacional, y por eso la contribución de la máquina tiene que verificarse antes de que quien aprende construya sobre ella.
 
-### El aprendizaje sociocultural en la educación con IA
+## El aprendizaje sociocultural en la educación con IA
 
 La teoría sociocultural da forma a la [[research-methods-aied|investigación]] en IAED de varias maneras distintas:
 
@@ -60,7 +60,7 @@ La teoría sociocultural da forma a la [[research-methods-aied|investigación]] 
 
 - **Validar las medidas del habla exige a la juventud cuyo habla se mide.** Recontextualizar las definiciones de los movimientos del habla con cuatro estudiantes focales elevó la F1 de clasificación del [[llm|LLM]] en +0,104 para «Claim» y +0,23 para «Question», y las interpretaciones de los propios estudiantes divergieron de los encuadres adultos y del modelo: un límite estructural de la clasificación basada en texto, no un problema de tamaño de los datos ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
 
-### Conexión con la carga cognitiva y la metacognición
+## Conexión con la carga cognitiva y la metacognición
 
 La línea sociocultural está estrechamente acoplada a la teoría de la [[cognitive-offloading|carga cognitiva]] (el apoyo debe gestionar la carga sin eliminar el esfuerzo productivo) y a la [[metacognition|metacognición]] (quienes aprenden en la zona están monitorizando y regulando activamente su comprensión). La [[stanford-evidence-base-ai-k12-2026|base de evidencia de Stanford]] sintetiza la evidencia de [[k-12|K-12]] de que las herramientas de IA funcionan mejor cuando mantienen a quien aprende en la ZDP en lugar de responder por él, y la investigación sobre [[human-in-the-loop-ai|IA con supervisión humana]] aborda cómo el apoyo humano y el de la IA definen conjuntamente la zona de quien aprende.
 

@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje colaborativo
 created: "2026-09-28T21:06:00-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-11-11T11:50:00-05:00"
+source_updated: "2026-11-12T19:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -107,6 +107,7 @@ El aprendizaje colaborativo ocupa la cima del [[icap-framework|marco ICAP]] (int
 ## Orientaciones prácticas
 
 - **Modelar la colaboración, no solo al individuo.** Las herramientas que siguen el estado diádico o grupal (como hace [[golrang-propact-pair-programming-2026|ProPACT]]) pueden andamiar la colaboración misma, prediciendo y previniendo rupturas en lugar de reaccionar ante ellas.
+- **Inscribir la colaboración en la calificación, no en el encargo.** Alam y Jackson rediseñaron un módulo de primer curso de analista de negocios para que 23 estudiantes en 11 equipos escribieran un ensayo iterado de 1.500 palabras con al menos dos etapas documentadas, e hicieron de la iteración y la colaboración criterios de calificación explícitos. Sostienen que es la calificación, y no el recordatorio, lo que hace que la evidencia del proceso tenga peso, y que la calidad de la colaboración todavía tuvo que [[scaffolding|andamiarse]] en clase antes de que los equipos pudieran usarla por su cuenta ([[alam-process-oriented-collaborative-essays-2026|Alam y Jackson, 2026]]).
 - **Preservar el conflicto cognitivo.** Estructure la IA como compañera argumentativa que saque a la luz el desacuerdo y los supuestos implícitos, evitando el problema de los artefactos pulidos en el que la IA suaviza un compromiso epistémico frágil.
 - **Los personajes contrarios tienen costes afectivos.** En 97 tríadas, la IA contraria empujó el discurso hacia el reto y la reflexión pero redujo la satisfacción con el trabajo en equipo (ε² = 0,062) y la seguridad psicológica (ε² = 0,114) sin aumentar la producción creativa ([[jin-emergent-learner-agency-implicit-hai-2026|Jin et al. (2026)]]).
 
@@ -189,3 +190,4 @@ El estatus de par se gana socialmente. La capacidad matemática apenas entró en
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — La configuración epistémica del grupo decidió dónde se situó la IA: un centro de integración en grupos con concepciones previas diversas y una ruta lineal de consulta y proceso en los similares, con igual conocimiento previo (Wang et al. 2026)
 
 - [[bjet-many-hands-make-light-work-2026]] — Las parejas con un sistema multiagente produjeron los mejores proyectos mientras que el trabajo individual produjo las mayores ganancias en pensamiento crítico
+- [[alam-process-oriented-collaborative-essays-2026]] — Ensayos colaborativos orientados al proceso: iteración y colaboración calificadas, con IA generativa permitida dentro de límites (Alam y Jackson 2026)

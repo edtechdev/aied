@@ -13,7 +13,7 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-12T21:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -89,8 +89,7 @@ Dos estudios más explican por qué la vigilancia es una mala herramienta para f
 
 El coste de esa sustitución aparece en el lugar donde profesorado y estudiantado hablan de verdad. Entre 253.222 registros relacionados con la IA en 26 subreddits educativas, un tercio de todos los hilos entre profesorado y estudiantado eran disputas de detección o de aplicación, el estudiantado abrió el 68,4% de ellos, y la negatividad predijo la implicación (ρ = −0,72): el conflicto adversarial, y no la deliberación, es la forma de contacto entre roles de mayor volumen sobre la [[generative-ai|IA generativa]] ([[reddit-genai-education-discourse-analysis-2026|Yüce et al., 2026]]).
 
-## Qué significa esto para la práctica
-
+## Implicaciones para la práctica
 - **Hacer visible el uso en lugar de inferirlo.** El estudiantado no puede juzgarse con precisión unos a otros, y la colaboración repetida no lo arregla. Registros compartidos y ligeros del trabajo asistido por IA, anotaciones o historiales de prompts dan al grupo algo factual sobre lo que razonar.
 - **Contar con que la norma hablada vencerá a la escrita.** Si lo que se dice en clase contradice el programa de asignatura, el estudiantado seguirá el aula. La alineación entre ambas vale más que una cláusula más estricta.
 - **Tratar la declaración como un problema de diseño, no como un problema de virtud.** La declaración se vuelve probable cuando informar es más seguro o más valioso que ocultar. Eso significa hacer legible el uso declarado en la propia evaluación, en lugar de pedir honestidad como rasgo de carácter.

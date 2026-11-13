@@ -1,14 +1,14 @@
 ---
 title: Desarrollo y preparación profesional
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-12T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-11-05T14:28:00-05:00"
+source_updated: "2026-11-12T08:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,10 @@ El desarrollo y la preparación profesional se conectan con la [[professional-tr
 
 - **«La ansiedad ante la IA se distribuye de manera uniforme.»** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün y Danacıoğlu]] encuentran que la ansiedad ante la IA y las actitudes negativas hacia ella predicen la ansiedad por encontrar empleo tras la graduación en **1.057 estudiantes**, con patrones distintos para **las mujeres y el estudiantado de ciencias sociales**. Una intervención uniforme asigna mal el apoyo.
 
+Un marco a nivel de programa hace explícitos los pasos institucionales, aunque no se ha evaluado como programa. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] propone seis etapas: detección, validación con las partes interesadas, diagnóstico del programa, rediseño curricular, puesta en marcha y capacidades, y revisión de resultados. Cada etapa conlleva un derecho de decisión explícito y un producto del que se responde, y la IA queda confinada a cuatro funciones de apoyo acotadas: la detección de patrones en la información del mercado laboral, el mapeo de competencias, la generación de opciones curriculares para la valoración humana y el seguimiento de indicadores de implementación. Su valor es que nombra los pasos de gobernanza que una estrategia de preparación profesional suele dejar implícitos.
+
+Una encuesta a 1,445 estudiantes universitarios chinos traza un camino desde las creencias de utilidad, pasando por el uso de la IA, hasta la exploración profesional. La utilidad percibida de la IA generativa predijo el uso con β = 0.569, mientras que la autoeficacia profesional lo predijo con solo β = 0.082. El uso se asoció después con la conducta de exploración profesional con β = 0.423, la autoeficacia siguió siendo el predictor cognitivo más fuerte de la propia exploración (β = 0.285) y el modelo explicó el 50.5% de la varianza en la exploración ([[lu-career-cognitions-genai-exploration-2026|Lü et al. (2026)]]). Las trayectorias indirectas son estadísticas y transversales, no longitudinales.
+
 ## Conceptos conectados
 - [[professional-training]]
 - [[ai-literacy]]
@@ -100,3 +104,5 @@ El desarrollo y la preparación profesional se conectan con la [[professional-tr
 - [[ai-attitude-latent-profiles-career-development-2026]] — Cuatro perfiles de actitud ante la IA: la elaboración de carrera y la empleabilidad se relacionaban con la implicación, no con la ansiedad
 - [[sadik-ai-ready-engineering-talent-faculty-2026]] — Los pronósticos del profesorado son predicciones, no evidencia sobre el empleo
 - [[kong-ai-employability-cognitive-engagement-2026]] — El mapa de constructos de una revisión narrativa desde el aprendizaje apoyado por IA hasta la empleabilidad
+- [[nyale-ai-integrated-workplaces-digital-capability-2026]] — Marco de proceso de seis etapas, no evaluado, para alinear los programas con los mercados laborales de la era de la IA
+- [[lu-career-cognitions-genai-exploration-2026]] — 1,445 estudiantes chinos: utilidad de la IA, uso y exploración profesional en un modelo transversal

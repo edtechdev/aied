@@ -7,7 +7,7 @@ foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-12T21:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 Este es un concepto de teoría del aprendizaje dentro de la línea de [[learning-theories|teorías del aprendizaje]] de la base de conocimiento, estrechamente relacionado con el [[embodied-learning|aprendizaje encarnado]], el [[situated-learning|aprendizaje situado]] y la [[cognitive-offloading|descarga cognitiva]]. La cognición distribuida (DCog), que se origina en el trabajo de Edwin Hutchins y sus colegas, describe cómo procesos cognitivos como la memoria, el razonamiento y la [[problem-solving|resolución de problemas]] se reparten entre múltiples agentes y sistemas materiales en lugar de residir en una sola cabeza. En la [[ai-education|educación con IA]] esto importa porque los sistemas de IA funcionan cada vez más como auténticos socios cognitivos que asumen parte de la carga del pensamiento, lo que plantea la pregunta de *dónde* ocurre realmente el aprendizaje y *quién* es responsable.
 
-### Cómo la IA desplaza la distribución de la cognición
+## Cómo la IA desplaza la distribución de la cognición
 
 Los sistemas de IA generativa e interactiva redistribuyen el trabajo cognitivo de formas que las herramientas anteriores no permitían. La base de conocimiento documenta varias dimensiones de este desplazamiento:
 
@@ -53,7 +53,7 @@ Los sistemas de IA generativa e interactiva redistribuyen el trabajo cognitivo d
 
 - **La cognición extendida como elección de diseño, no como propiedad de la herramienta.** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa y Duarte Arias (2026)]] sostienen que la IA generativa es sustitutiva por defecto porque realiza la tarea cognitiva, pero el mismo sistema se vuelve complementario cuando critica un borrador o aporta retroalimentación que quien aprende debe evaluar. Su marco de la mente extendida convierte la unidad de análisis en el artefacto junto con su uso, que es la versión normativa de la pregunta sobre la distribución que plantea esta página.
 
-### La cognición distribuida y perspectivas afines
+## La cognición distribuida y perspectivas afines
 
 La base de conocimiento sitúa la cognición distribuida junto a tradiciones teóricas vecinas, que se solapan pero no son idénticas:
 
@@ -62,11 +62,11 @@ La base de conocimiento sitúa la cognición distribuida junto a tradiciones te�
 - **La [[cognitive-offloading|descarga cognitiva]]** es el mecanismo práctico por el que el trabajo cognitivo se traslada a sistemas externos (incluida la IA), y es la contraparte cargada de riesgo del relato descriptivo de la DCog.
 - **La cognición extendida y la tesis de la mente extendida** (usadas en trabajos posthumanistas) sostienen que los artefactos externos pueden ser partes *constitutivas* de un sistema cognitivo y no meros instrumentos: una afirmación más fuerte de que la IA forma parte de la propia mente de quien aprende.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### ¿De quién es la cognición? El problema de la unidad de análisis
+## ¿De quién es la cognición? El problema de la unidad de análisis
 
 [[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] lleva esa pregunta por la unidad de análisis más lejos que la mayor parte del trabajo de esta tradición. Su tesis es que la alfabetización no es una posesión individual sino algo que se pone en acto con materiales y máquinas, lo que convierte a quien aprende individualmente en la unidad de análisis equivocada. Un marco de competencias centrado en la persona no puede, por tanto, registrar contribuciones infraestructurales o no humanas, y el campo sigue nombrando la distribución para luego resolverla de nuevo sobre quien aprende. El borde de equidad es su argumento sobre la dificultad: la reflexividad depende de la experiencia vivida y de las relaciones de poder, así que el estudiantado cuya lengua o prácticas de escritura se sitúan más lejos de la norma codificada soporta el mayor coste. El argumento es teórico y no informa de ningún conjunto de datos, y sus orientaciones de diseño siguen siendo propuestas no probadas.
 
-### Por qué importa para el diseño y la evaluación de la IA
+## Por qué importa para el diseño y la evaluación de la IA
 
 La cognición distribuida aporta a la vez una lente de diseño y una lente de evaluación. Para el diseño, pregunta cómo repartir el trabajo cognitivo entre quienes aprenden y la IA para preservar (y no erosionar) la agencia, la [[metacognition|metacognición]] y la autorregulación de la persona que aprende. Para la evaluación, reformula las métricas de éxito: en lugar de preguntar solo «¿mejoró el rendimiento?», la DCog pregunta si la distribución de la cognición sostiene un aprendizaje duradero, la agencia epistémica y la justicia educativa, una perspectiva que conecta con las preocupaciones de [[ai-ed-evaluation|evaluación de la IA en educación]] y de [[learning-theories|teorías del aprendizaje]] de la base de conocimiento.
 
