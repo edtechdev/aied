@@ -4,9 +4,27 @@ These skills mirror the ones the agent actually runs, installed under the
 `agent.skills_dir` named in `wiki.config.yaml` (currently `~/.hermes/skills`).
 The two copies differ **only** in the sanctioned ways:
 
-- the **repo copy** (this directory) uses the placeholder `<WIKI>` for the repository root and `<SKILLS_DIR>` for the installed skill store
-- the **installed copy** substitutes the real absolute paths
+- the **repo copy** (this directory) uses the placeholder `<WIKI>` for the repository root, `<SKILLS_DIR>` for the installed skill store, `<PYTHON>` for the interpreter that carries the offline-edition dependencies, and `<DOCUMENT_CACHE>` for the directory chat-delivered files land in
+- the **installed copy** substitutes the real values, all of them read from `wiki.config.yaml` (`root`, `agent.skills_dir`, `agent.python`, `agent.document_cache`)
 - the **repo copy** names no person and no agent product ("the maintainer", "the AI agent")
+
+## Nothing machine-specific ships
+
+A clone of this repository has to work on a different machine, with a different user, home
+directory and Python environment. So a path, interpreter, hostname or port that exists only
+on the machine the agent runs on is a defect in the mirror, not a helpful detail:
+
+- write `<WIKI>`, `<SKILLS_DIR>`, `<PYTHON>`, `<DOCUMENT_CACHE>` instead of the literal value
+- never write `/home/<user>/...`, `/Users/<user>/...`, `C:\Users\...`, a loopback host:port,
+  or an absolute interpreter path (use `<PYTHON>`, or a bare `python3` when any interpreter will do)
+- never write an email address, a username, a hostname, or the maintainer's name
+- take environment-specific settings from `wiki.config.yaml` through `tooling/scripts/wiki_config.py`
+  rather than restating them in prose; add a key there if a skill needs a new one
+
+`python3 tooling/scripts/sync-skills.py --check` enforces this: it reports `NOT PORTABLE` for
+a machine-specific string left in `skills/` or the prose under `tooling/`, and `NOT MIRRORED`
+for an installed research skill that has no repo counterpart. Both fail the check, so the
+daily mirror guard cannot go quiet about either one.
 
 Everything else — every rule, example, command and pitfall — must be identical.
 `python3 tooling/scripts/sync-skills.py --check` normalizes those sanctioned

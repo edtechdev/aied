@@ -253,6 +253,13 @@ agent:
   # skill-tree purge empties). Name it so the sync never has to infer it, and so
   # a missing category fails loudly instead of reading as "every skill is new".
   skills_research_dir: ~/.agents/skills/research
+  # Interpreter for tooling that needs packages the agent's own venv lacks
+  # (pikepdf and reportlab for the offline editions). Skills write it as
+  # <PYTHON>; the mirror rewrites this value back in. Unset means `python3`.
+  python: /usr/bin/python3
+  # Where chat-delivered documents land before ingestion. Skills write it as
+  # <DOCUMENT_CACHE>; unset means ~/.hermes/cache/documents.
+  document_cache: ~/.hermes/cache/documents
   # The pipeline is described in terms of capabilities, never tool names. Map
   # each capability onto the tool YOUR agent provides.
   capabilities:

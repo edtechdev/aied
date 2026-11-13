@@ -67,6 +67,20 @@ def redaction_pairs(cfg, wiki):
     # this function gets inverted by reverse normalization, so a pair whose
     # replacement text also appears in this file rewrites itself.
     pairs.append((wiki, '<WIKI>'))
+    agent_cfg = cfg.get('agent') or {}
+    # Machine-specific values that must not travel into the public mirror. Each
+    # pair is invertible, so --to-installed writes the configured value back.
+    # They are appended BEFORE the skills-dir pairs: replacement runs in list
+    # order, and a more specific path must win over its parent directory.
+    cache = os.path.expanduser(str(agent_cfg.get('document_cache') or '')).rstrip(os.sep)
+    if cache:
+        pairs.append((cache, '<DOCUMENT_CACHE>'))
+        home = os.path.expanduser('~')
+        if cache.startswith(home + os.sep):
+            pairs.append(('~' + cache[len(home):], '<DOCUMENT_CACHE>'))
+    interpreter = str(agent_cfg.get('python') or '').strip()
+    if interpreter and interpreter not in ('python3', '/usr/bin/env python3'):
+        pairs.append((interpreter, '<PYTHON>'))
     skills = os.path.expanduser((cfg.get('agent') or {}).get('skills_dir') or '')
     if skills:
         pairs.append((skills, '<AGENT>'))
@@ -154,6 +168,18 @@ def pairs_of(cfg, wiki, installed, research_root=None):
             out.append((f'skills/research/{name}',
                         os.path.join(repo_research, name),
                         os.path.join(research, name)))
+    # Installed skills with no repo counterpart. Naming them as pairs is what
+    # makes the gap visible: --check reports them as NOT MIRRORED instead of
+    # silently ignoring them, and --to-repo <name> can create the mirror.
+    mirrored = set(os.listdir(repo_research)) if os.path.isdir(repo_research) else set()
+    if os.path.isdir(research):
+        for name in sorted(os.listdir(research)):
+            src = os.path.join(research, name)
+            if name in mirrored or not os.path.isdir(src):
+                continue
+            if not os.path.isfile(os.path.join(src, 'SKILL.md')):
+                continue
+            out.append((f'skills/research/{name}', os.path.join(repo_research, name), src))
     return out
 
 
@@ -218,6 +244,48 @@ def check(pairs, want_diff, skills, baseline=None):
             if rev != fwd:
                 classify(f'{label}/{rel}', rev, fwd, baseline, drift, accepted, want_diff)
     return drift, missing, accepted
+
+
+MACHINE = [
+    (re.compile(r'/home/(?!<|user\b|username\b|you\b)[A-Za-z0-9._-]+'), 'absolute home path'),
+    (re.compile(r'/Users/(?!<|user\b|username\b|you\b)[A-Za-z0-9._-]+'), 'absolute macOS home path'),
+    (re.compile(r'[A-Za-z]:\\\\Users'), 'absolute Windows home path'),
+    (re.compile(r'/usr/bin/(?:python3?|node|bash|sh)\b'), 'absolute interpreter path'),
+    (re.compile(r'[\w.+-]+@[\w-]+\.[A-Za-z]{2,}'), 'email address'),
+]
+
+
+def portability_issues(wiki):
+    """Machine-specific strings left in the published mirror.
+
+    The mirror is what another operator clones, so a value that only exists on
+    this machine — a home directory, an interpreter path, a loopback port — has
+    to be a placeholder backed by wiki.config.yaml (`<WIKI>`, `<AGENT>`,
+    `<PYTHON>`, `<DOCUMENT_CACHE>`) rather than a literal. Scanning the skills
+    and the prose under tooling/ is enough: the scripts there are code that
+    resolves paths from the repo root at run time.
+    """
+    out = []
+    roots = [os.path.join(wiki, 'skills')]
+    for prose in ('SKILL.md', os.path.join('references', '')):
+        p = os.path.join(wiki, 'tooling', prose)
+        if os.path.isfile(p):
+            roots.append(p)
+    for root in roots:
+        files = [(root, '')] if os.path.isfile(root) else list(iter_files(root))
+        for full, rel in files:
+            if not rel.endswith('.md') and not os.path.isfile(full):
+                continue
+            text = read(full)
+            if text is None:
+                continue
+            for ln, line in enumerate(text.split('\n'), 1):
+                for rx, why in MACHINE:
+                    if rx.search(line):
+                        where = os.path.relpath(full, wiki) + (f':{ln}' if rel else '')
+                        out.append((where, why, line.strip()[:110]))
+                        break
+    return out
 
 
 def build_baseline(pairs, skills=None):
@@ -343,21 +411,32 @@ def main():
     if args.to_repo is None and args.to_installed is None:
         drift, missing, accepted = check(groups, bool(args.diff),
                                          [args.diff] if args.diff else [], baseline)
+        unmirrored = [label for label, repo, _inst in groups if not os.path.exists(repo)]
+        unmirrored_names = {label.rsplit('/', 1)[-1] for label in unmirrored}
+        portability = portability_issues(wiki)
         print(f"\nrepo mirrors: {len(groups)} skill group(s) vs {skills_dir}")
         print(f"  research category resolves to: {research_dir}")
         for label in accepted:
             print(f"  accepted  {label}  (redaction/agent-name difference on record)")
         for label, n in drift:
+            parts = label.split('/')
+            if len(parts) > 2 and parts[2] in unmirrored_names:
+                continue  # already reported as NOT MIRRORED below
             print(f"  NEW DRIFT {label}" + (f"  ({n} changed line(s))" if n >= 0 else "  (installed-only file)"))
         for label, why in missing:
             print(f"  MISS      {label}  — {why}")
+        for label in unmirrored:
+            print(f"  NOT MIRRORED {label}  (installed but absent from the repo: run --to-repo)")
+        for where, why, line in portability:
+            print(f"  NOT PORTABLE {where}  — {why}: {line}")
         stale = sorted(set(baseline) - set(accepted))
         for label in stale:
             print(f"  obsolete  {label}  (now identical — drop it: re-run --accept)")
-        if not drift and not missing:
-            print(f"  OK — no NEW drift ({len(accepted)} accepted difference(s) on record).")
+        if not drift and not missing and not unmirrored and not portability:
+            print(f"  OK — no NEW drift, every installed skill mirrored, no machine-specific strings "
+                  f"({len(accepted)} accepted difference(s) on record).")
         print(f"\n{tool_hint(cfg)}")
-        if drift or missing:
+        if drift or missing or unmirrored or portability:
             sys.exit(1)
         return
 
@@ -382,7 +461,13 @@ def main():
             # substitution runs forward (real name -> "the maintainer") in both
             # directions; `reverse` only applies when the destination is the
             # installed copy.
-            text = normalize(text, pairs_conf, reverse=not to_repo)
+            #
+            # This script is the exception: it DEFINES the pairs, so normalizing
+            # it rewrites its own mapping (the wiki pair becomes self-referential,
+            # mapping the repo root to itself) and silently disables redaction in
+            # the copy just written. Copy it verbatim on both sides.
+            if os.path.basename(src) != os.path.basename(__file__):
+                text = normalize(text, pairs_conf, reverse=not to_repo)
             os.makedirs(os.path.dirname(dst), exist_ok=True)
             with open(dst, 'w', encoding='utf-8') as fh:
                 fh.write(text)
