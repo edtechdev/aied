@@ -1,10 +1,15 @@
 ---
 title: "AIEd in the Disciplines"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T08:02:30-05:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-13"
+    agent: hermes-agent
 confidence: high
 reviewed_by: [editor]
 ---
@@ -88,6 +93,7 @@ Several disciplines remain thinly studied and are good candidates for further wo
 - **Law and [[legal-education|legal education]]** — minimal coverage: [[llm-turing-test-italian-legal-exams-2026|LLMs and Italian legal exams]].
 - **Psychology and counseling** — few AI-in-education articles: [[hawkins-feedback-literacy-ai-essay-writing|AI feedback literacy]], [[critical-genai-use-predictors|critical GenAI use]], [[adaptive-virtual-patient-psychotherapy-training|virtual patient psychotherapy training]].
 - **History** — only isolated articles: [[paternalistic-filter-llm-history-education|LLMs and historical reasoning]].
+- **Physical education** — one qualitative study so far: 16 university teachers describe a *repellent effect of embodied disciplinarity*, arguing that AI cannot supply bodily correction or tacit knowledge, and report that departmental AI equipment goes to elite teams rather than general classes ([[yang-pe-teachers-ai-perceptions-2026|Yang, Chen & Rao, 2026]]).
 - **The arts (visual art, design, music)** — emerging coverage: [[ai-interior-design-malaysia-2026|AI in interior design education]], [[genai-architectural-design-studios|GenAI in architectural design studios]], [[ai-vocal-pedagogy-2026|AI vocal pedagogy]], [[musical-education-ai-digital-transformation-2026|AI in music education]], [[t2i-competence-paradox-2026|text-to-image competence paradox]]. The design-side studies in this list now have their own home: [[design-education]] draws the architectural, interior-design and text-to-image studio work into a page about professional design formation, leaving visual art, music and performance as the thin remainder.
 
 Each would benefit from sustained research attention as the field grows.
@@ -126,6 +132,7 @@ Each would benefit from sustained research attention as the field grows.
 - [[vocational-education]]
 
 ## Connected Articles
+- [[yang-pe-teachers-ai-perceptions-2026]] — 16 university PE teachers: embodied disciplinarity as the barrier, and AI equipment allocated to elite teams (Yang, Chen & Rao, 2026)
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — Systematic review of AI in interdisciplinary higher education (59 studies)
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI in health-professions education

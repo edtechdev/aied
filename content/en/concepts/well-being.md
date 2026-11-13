@@ -1,10 +1,15 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T08:02:30-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-13"
+    agent: hermes-agent
 ethics: [ethics]
 audience: [learners]
 level: [higher ed]
@@ -64,6 +69,8 @@ A structural equation model of 502 university faculty found AI literacy predicte
 
 - **Detector anxiety as a well-being risk.** [[sovereign-hive-titl-further-education-2026|Herron (2026)]] names "flagxiety" — anxiety induced by fear of unreliable [[ai-detection|AI-detector]] allegations — and argues that marginalized further-education learners, whose cognitive uniqueness can be read as misconduct, need relational regulation rather than an unregulated interface that can trigger cognitive shutdown.
 
+**For teachers, competence reaches well-being only through job satisfaction.** [[kayali-ai-literacy-tpack-wellbeing-2026|Kayalı et al. (2026)]] modeled 350 in-service teachers and found [[ai-literacy|AI literacy]] fed every AI-TPACK component strongly (β = 0.65 to 0.73), but the components split on satisfaction: AI technological content knowledge raised it (β = 0.41) while technical knowledge alone lowered it (β = −0.30). Satisfaction then carried the effect to emotional, psychological and social well-being (β = 0.42, 0.68 and 0.57) with no direct paths surviving — though the model explains only 11 percent of satisfaction.
+
 ## Well-being as a design consideration
 
 A recurring theme is that well-being should be a deliberate design consideration in AI in education, not an afterthought. This means: designing AI to support rather than replace human relationships; ensuring students can maintain agency and confidence rather than experiencing [[anxiety-and-stress|AI-induced anxiety]] or over-reliance; supporting educators' capacity and well-being as they integrate AI; and [[ai-ed-evaluation|evaluating AI]] systems not only for [[learning-gains|learning outcomes]] but also for their effects on students' and teachers' well-being. [[research-methods-aied|Research]] connects well-being to [[motivation]], [[self-regulated-learning]], and [[student-experience]] (belonging and engagement). [[daoism-ai-education-philosophy-2026|Xie (2026)]] argues for an educational telos to match: the Daoist "Zhenren" (真人) counter-ideal replaces frictionless optimization with "cultivated wholeness," reimagining learning as the harmonious integration of self, society and cosmos, and insisting that "no student is merely a dataset to be managed, but a whole being capable of achieving equanimity."
@@ -102,6 +109,7 @@ Emotional support and connection can move in opposite directions inside one samp
 
 ## Connected Articles
 
+- [[kayali-ai-literacy-tpack-wellbeing-2026]] — 350 teachers: AI-TCK raises job satisfaction while AI-TK lowers it, and satisfaction is the only route to well-being (Kayalı et al., 2026)
 - [[ai-chatbots-emotional-support-human-connection-2025]] — 819 students rated chatbots highly and feared the loss of human connection most
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Friction, meaning, and loneliness as a biological signal
 - [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — The Relationship Between AI Anxiety and Academic Motivation

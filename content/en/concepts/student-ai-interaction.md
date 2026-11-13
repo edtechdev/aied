@@ -1,10 +1,15 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T07:49:05-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-13"
+    agent: hermes-agent
 technology: [generative-ai, intelligent-tutoring, learning-analytics, llm, prompt-engineering]
 audience: [learners]
 level: [higher ed]
@@ -25,6 +30,8 @@ reviewed_by: [editor]
 ## Introduction
 
 Student-AI interaction is the observable surface of learners' [[student-engagement|engagement]] with generative AI — the questions they pose, the prompts they write, the way they negotiate and verify AI output, and how those patterns shift across task stages and over time. It sits at the intersection of [[student-experience]], [[prompt-engineering]], and [[learning-analytics]], and is central to debates about whether AI use in education represents genuine learning or [[cognitive-offloading|over-reliance]]. Where [[human-ai-collaboration]] frames the high-level division of cognitive labor between people and models, student-AI interaction is the concrete, measurable enactment of that relationship — the specific inquiries, prompts, and negotiation moves learners make moment to moment.
+
+The interaction is not always instrumental. Boyd and Markowitz's machine-integrated relational adaptation model separates AI as a *relational partner*, where the learner engages the system directly, from AI as a *relational mediator*, where the system reshapes communication between people ([Boyd & Markowitz, 2026](https://doi.org/10.1177/17456916251404394)). The second is the less visible case, as when an AI drafts feedback that a student then reads as their instructor's voice. The model is a framework rather than a finding, and it was not tested in a classroom. It still names a distinction interaction research tends to fold together, because a companion-shaped tutor and a mediator that filters peer or instructor communication raise different questions about trust and dependence.
 
 ### What students ask AI
 

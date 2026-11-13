@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T07:22:40-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -9,6 +9,11 @@ technology: [intelligent-tutoring]
 audience: [instructors, faculty developers, learners]
 level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-13"
+    agent: hermes-agent
 
 confidence: high
 reviewed_by: [editor]
@@ -78,6 +83,8 @@ Recent work expands the orchestration metaphor into richer role conceptualizatio
 - **Facilitator whose function can be partly delegated.** [[kuhail-great-debaters-ai-facilitators-2026|Kuhail et al. (2026)]] had 32 STEM students debate under a human moderator, an AI chatbot (GPT-4, prompted with the behaviors expected of faculty: neutrality, equal speaking time, short directions, on-topic enforcement, follow-up questions, de-escalation), or each in turn. They found no significant difference on effectiveness, enjoyment, satisfaction, utility, or intention to reuse (t = 0.23 to 1.30, p = 0.198 to 0.818). The authors read the null result as normalization of [[human-ai-collaboration|human-AI collaboration]] in rule-bound discussion, not as equivalence. The route to reuse did differ: under human moderation satisfaction drove intention to use, whereas under AI moderation perceived utility did (0.806 against 0.495), so an AI-facilitated activity survives on demonstrated usefulness rather than on how enjoyable it feels. The practical reading is AI moderation as a scaling aid for large or lightly staffed courses under human oversight, with equity unverified for sarcasm, indirect language, and minority communication styles.
 - **Setter of purposes, not just competencies.** [[fagerlund-competency-agency-purposes-ai-education-2026|Fagerlund et al. (2026)]] interviewed 13 Finnish teachers from preschool to grade 9 about why students should learn about and with AI, reading their accounts through Biesta's qualification, socialization, and subjectification. Qualification was the clearest and most concrete purpose, covering AI as both a target of learning and a tool for it; socialization appeared as cultivating favorable stances toward AI and preparing students as AI-savvy future workers; subjectification, self-determined and personally meaningful engagement, was endorsed as important but had no concrete instructional strategies behind it, resting on "discussing and contemplating." The authors propose *informed AI agency*, subjectification at the center with competencies as its foundation, which gives the teaching role a purpose-setting duty: make the "why" explicit so skills acquire context rather than standing as ends in themselves, and complement technical frameworks such as [[tpack]] with sustained attention to educational purpose.
 - **Adoption is not the same lever as performance.** Across 200 teachers in North Sumatra, AI use had no direct effect on teacher performance (β = 0.112, p = .087) while organizational citizenship behavior mediated it at β = 0.370, so it is the extra-role, collaborative work around the tool rather than the tool itself that converts use into performance ([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]]).
+
+- **Translator of governance into classroom conditions.** [[socorro-philosophical-leadership-ai-2026|Socorro Márquez, Reyes Ortiz and Torrez Meruvia (2026)]] synthesize 137 sources into a *philosophical leadership* role with three phases: ethical judgment before use, pedagogical guidance during it, and policy translation. Policy translation is the part the page has so far left to institutions. Here the teacher converts supranational guidance — privacy, transparency, accountability — into prompt conditions, assessment conditions and refusals students can watch being enforced. The review's worked example keeps personally identifiable information out of prompts and makes the modeling explicit rather than announced. The role is argued rather than measured: the review reports no test of whether philosophical leadership changes practice.
 
 These roles connect teacher work to [[distributed-cognition]], [[situated-learning]], [[embodied-learning]], and [[critical-pedagogy]], and reframe the teacher as a designer and ethical guide of AI-[[sociocultural-learning|mediated learning]] rather than merely a user.
 
@@ -210,6 +217,7 @@ Epistemic authority in AI-assisted planning is negotiated episode by episode rat
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI as "frenemy": teachers prefer semi-autonomy, usefulness drives adoption, risk aversion targets students' use (Dai et al. 2026)
 - [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
 - [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 course syllabi; task-level regulation (Chirikov 2026)
+- [[socorro-philosophical-leadership-ai-2026]] — Philosophical leadership as a three-phase teaching role: ethical judgment, pedagogical guidance, policy translation (Socorro Márquez et al., 2026)
 - [[ai-teaching-innovation-ai-tpack-2026]] — AI teaching innovation behavior among college teachers (AI-TPACK SEM; Bai & Hsieh 2026)
 - [[teacher-ai-teaming-five-levels]]
 - [[teacher-student-agency-orchestration]]

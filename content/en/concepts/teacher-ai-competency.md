@@ -1,13 +1,18 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T07:50:30-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
 pedagogy: [self-efficacy]
 technology: [generative-ai, intelligent-tutoring, llm]
 ethics: [equity-in-ai-education]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-13"
+    agent: hermes-agent
 audience: [faculty developers, learners, instructors]
 level: [k 12, higher ed]
 confidence: high
@@ -58,6 +63,10 @@ Readiness should be ordered and measured accordingly: the Capability–Decision 
 A stronger version of that reframing holds that GenAI is a threshold concept rather than a skills gap: an autoethnographic account argues faculty [[anxiety-and-stress|anxiety]] and resistance are constitutive of threshold crossing, so skills-based training fails and principled non-adoption should be respected rather than corrected ([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]]).
 
 **Competency shows up as repair, not just prompting.** With 7 middle school mathematics teachers rewriting 143 problems, [[walkington-teacher-in-loop-personalized-tasks-2026|Walkington et al. (2026)]] coded 415 follow-up prompts: most corrected realism, readability or mathematical structure, and six caught inappropriate or biased output — teacher judgment operating as [[human-in-the-loop-ai|monitoring]] of the generated task rather than as prompt fluency.
+
+**Two dimensions are commitments, not scores.** [[feng-ai-literacy-psychological-dimensions-2026|Feng and Carolus (2026)]] synthesize 58 school-education studies and place *contextual knowledge* and *continuous professional growth* among the six dimensions of teacher AI literacy, beside TPACK-based knowledge and skills, ethics, the psychological dimension and a generative-AI-specific one. Thirteen of the reviewed articles build their teacher conceptualisation on [[tpack|TPACK]]. Reading growth as a dimension rather than an outcome changes what a competency framework has to measure: a teacher's trajectory and school constraints become part of the competence, not conditions around it.
+
+**Competence-building does not answer the depletion path.** In the same survey of 436 university design teachers, [[ding-genai-colleague-teacher-depletion-2026|Ding et al. (2026)]] found generative AI use raised both teaching [[self-efficacy]] (β = 0.322) and AI anxiety (β = 0.268) at once, and the anxiety predicted less innovative teaching and more work withdrawal (β = −0.152 and β = 0.264). A professional-development program that only builds skill leaves the second path untouched — the moderators were organizational support and psychological contract breach, not competence.
 
 ## The competency gap
 
@@ -180,6 +189,8 @@ Department chairs can evaluate competence by demonstration. Self-report scales a
 
 ## Connected Articles
 
+- [[feng-ai-literacy-psychological-dimensions-2026]] — Six teacher AI literacy dimensions, with contextual knowledge and continuous professional growth among them (Feng & Carolus, 2026)
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 design teachers: competence gains and AI anxiety rise together, so support rather than training decides the outcome (Ding et al., 2026)
 - [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE's four-country review: 84 of 194 states put MIL beyond technical skills into curricula, and human factors decided outcomes in all four systems (Cerioli, 2026)
 - [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 beginning teachers revised AI lesson plans; adaptation was the largest gap (Wilcoxen et al. 2026)
 - [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Chemistry teachers’ research competence following AI-supported professional development: a mixed-methods pre–post study

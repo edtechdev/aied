@@ -1,13 +1,18 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T07:48:20-05:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
 level: [higher ed]
 confidence: medium
 institutions: [change-management]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-13"
+    agent: hermes-agent
 reviewed_by: [editor]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 ---
@@ -46,6 +51,8 @@ Scholarship converges on several change-management levers. **Governance framewor
 
 An assessment-practice workshop with 73 computing educators supplies the counterpart from the classroom side. Nearly every change participants described had been made by an individual instructor in a single course without institutional coordination — colleagues inside one department taking opposite positions with nothing reconciling them — and the curricular response the report argues for will not conclude in time to help students now enrolled; assignment difficulty was also observed to expire on roughly a semester's cycle, which makes calibration against current model capability a perishable institutional asset rather than a one-time decision ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 
+**The same tool use can innovate or exhaust, and the institution decides which.** [[ding-genai-colleague-teacher-depletion-2026|Ding et al. (2026)]] surveyed 436 university design teachers and found two significant paths from generative AI use. One runs through teaching [[self-efficacy]] (β = 0.322) and well-being (β = 0.300) to more innovative work and less withdrawal; the other runs through AI anxiety (β = 0.268) and job stress (β = 0.262) to the reverse. Perceived organizational support strengthened the enabling links (b = 0.153 and b = 0.176), while psychological contract breach strengthened the depleting ones (b = 0.171 and b = 0.194). Support is not a morale extra: it helps decide which path a deployment travels.
+
 ## Implications
 
 Change management in AI education carries both positive and negative implications. **Positively**, structured frameworks give institutions a path from reactive crisis management to proactive, participatory governance; [[crompton-governing-genai-higher-ed-delphi-2026|Delphi consensus]] and [[baroudi-anticipatory-governance-ai-higher-ed-2026|anticipatory governance]] both support treating [[ai-literacy]] and [[ethics]] as cross-cutting institutional capabilities rather than isolated rules. **Negatively**, fragmented adoption widens existing gaps: the [[adarkwah-genai-unesco-policy-2026|UNESCO framework analysis]] of 30 leading universities finds core ethical and [[governance]] principles widely embraced but [[inclusive-learning|inclusion]], equity, and [[sustainability]] (internet access, gender parity, environmental impact) often overlooked — and national AI-preparedness rankings do not predict robust institutional policy. The [[league-ethical-governance-student-data-2026|LEAGUE framework]] extends this concern to [[learning-analytics]], arguing that governance must move beyond compliance (FERPA/GDPR) toward lawfulness, equity, [[agency]], utility, and ethics by design, reviewing student-data practices transparently and educationally.
@@ -82,6 +89,7 @@ Change management is the institutional complement to classroom-level integration
 - [[student-support-and-success]] — sustaining a support program past the pilot
 
 ## Connected Articles
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 design teachers: GAI use raises both self-efficacy and AI anxiety, and organizational support decides which path dominates (Ding et al., 2026)
 - [[mata-sustaining-ai-enabled-student-support-2026]] — Sustaining AI-enabled student support: four-year implementation and impact study of an institutional chatbot (Mata, Russell & Page 2026)
 
 - [[institutional-change-framework-ai]] — six-dimension framework for adapting institutional change models to AI as an arrival technology

@@ -1,12 +1,17 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-13T01:00:00-05:00"
+updated: "2026-11-13T07:32:10-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
 audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-13"
+    agent: hermes-agent
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
 connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
@@ -58,6 +63,8 @@ Disciplinary verification raises the same bar further. [[vega-baudrit-genai-univ
 **The framework supply is now its own problem.** [[ai-competence-framework-landscape-2026|Fitsilis (2026)]] compared 16 institutionally endorsed AI competence frameworks for education and workforce development and found a shared core of ten competence areas but wide variation in structure, progression and implementation guidance — the practical difficulty is choosing among them, not a shortage.
 
 **The facets do not predict the same outcome.** In a PLS-SEM survey of 475 design students across Europe, Asia, and Australia, ethical awareness predicted academic [[well-being]] (β = 0.324) but not perceived learning performance, while emotional adaptability was the strongest direct predictor of performance (β = 0.322) ([[liang-ai-literacy-facets-creative-higher-education-2026|Liang et al., 2026]]).
+
+**The dimension set depends on who is being taught.** [[feng-ai-literacy-psychological-dimensions-2026|Feng and Carolus (2026)]] screened 2642 records down to 58 school-education studies and found three constructs under one name: six dimensions for teachers, eight for students, and a decision-oriented set for administrators. AI knowledge and skills, ethics and societal implications, generative-AI competency and a psychological dimension are shared across all three. The psychological dimension splits into cognitive elements — reasoning in 20 studies, [[metacognition]] in 8, cognitive readiness in 7 — and non-cognitive ones, with attitudes in 16, [[self-efficacy]] in 9, motivation in 9 and emotional readiness in 6.
 
 ## How AI literacy is developed
 
@@ -291,6 +298,7 @@ Discipline leads can keep the critical strand visible. Literacy that covers only
 - [[civic-and-political-education]]
 
 ## Connected Articles
+- [[feng-ai-literacy-psychological-dimensions-2026]] — 58 school-education studies: six teacher and eight student AI literacy dimensions sharing a psychological core (Feng & Carolus, 2026)
 - [[guo-ai-literacy-developmental-paces-2026]] — 118 K–12 records into nine categories: a ten-consideration progression from sensory play to team projects, and nine validated instruments, none of which captures process (Guo, Ali & Wong, 2026)
 - [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE's four-country review: 84 of 194 states put MIL beyond technical skills into curricula, and human factors decided outcomes in all four systems (Cerioli, 2026)
 - [[islam-credibility-weaker-llms-2026]] — 42 undergraduates: answer-first lowered AI credibility to 5.65 against 6.60 unrestricted, with verification at 6.22 (Islam et al., 2026)
