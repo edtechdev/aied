@@ -15,11 +15,26 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Executive function** — the set of general-purpose control processes that let a learner hold information in mind, resist an easier response, switch between rules, and plan a route to a goal. In [[ai-education|AI in education]] it is the construct that decides whether a tool substitutes for the capacity a task was meant to exercise or builds it, and it is the one place where the corpus's reliance literature, its special-needs literature and its measurement work meet. It is not [[metacognition|metacognition]]: knowing that you should verify an output is a different capacity from being able to hold the problem in mind long enough to do it.
+> **Executive function** — the set of general-purpose control processes that let a learner hold information in mind, resist an easier response, switch between rules, and plan a route to a goal. In [[ai-education|AI in education]] it is the construct that decides whether a tool substitutes for the capacity a task was meant to exercise or builds it, and it is the one place where the corpus's [[cognitive-offloading|reliance]] literature, its special-needs literature and its measurement work meet. It is not [[metacognition|metacognition]]: knowing that you should verify an output is a different capacity from being able to hold the problem in mind long enough to do it.
+
+## Questions to Consider
+
+- A learner with accurate metacognitive knowledge still fails to hold a four-step problem in mind. Which capacity is missing, and would more feedback fix it?
+- Compensation, scaffolding and development can look identical in a post-test that includes the tool. What would you measure to tell them apart?
+- The corpus's training evidence stops at one month. If a chatbot improves working memory for four weeks, what has been demonstrated and what has not?
+- Two studies report that AI use is associated with weaker executive function. What design would be needed before that could be called a cause?
+- Card sorting, the Flanker test and a self-report inventory often disagree. Which one would you trust for a claim about a classroom, and why?
+- If AI takes over the planning and checking that executive function normally does, is the capacity atrophying or simply being exercised somewhere else?
+
+## Introduction
+
+Executive function is the page the corpus has been using without having. The reliance literature needs it to say what is displaced when a student hands a task to a model; the special-needs literature needs it to separate a tool that compensates from one that develops; the measurement studies need it to explain why a self-report scale and a card-sorting task can disagree about the same learner. [[developmental-psychology|Developmental psychology]] carried the construct in a single section, which was enough to name it and not enough to hold the evidence.
+
+The distinction that organizes everything here is between capacity and monitoring. [[metacognition|Metacognition]] is what a learner knows and notices about their own thinking; executive function is what they can do with it under load. A student can know that an AI answer needs checking and still lack the working memory to hold the argument together while checking it. Almost every disagreement in the studies below turns on which of those two was measured.
 
 ## What the construct covers, and what it does not
 
-The psychological literature names three core functions — inhibition, working memory and cognitive flexibility — and treats planning, monitoring and organization as partly separable additions. The corpus uses the term in both senses: narrowly, when a study administers a task like the NIH Dimensional Card Sorting or Flanker test, and broadly, when a review or survey asks about "global executive functioning", which is usually a self-report inventory.
+The psychological literature names three core functions — inhibition, [[cognitive-psychology|working memory]] and cognitive flexibility — and treats planning, monitoring and organization as partly separable additions. The corpus uses the term in both senses: narrowly, when a study administers a task like the NIH Dimensional Card Sorting or Flanker test, and broadly, when a review or survey asks about "global executive functioning", which is usually a self-report inventory.
 
 That difference is not pedantry. A performance task measures what a learner can do under controlled conditions; a self-report inventory measures what a learner believes about their everyday functioning, and the two dissociate. [[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrah and colleagues']] instrument-development study makes the point explicitly: their Executive Function-Based Learning Difficulties Scale operationalizes its construct as self-reported maladaptive reliance and perceived reductions in effortful monitoring, "rather than a diagnosis of stable executive-function deficits". The page has to hold both readings, because the studies here use both.
 

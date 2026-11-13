@@ -27,7 +27,7 @@ ai_assist:
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Sidorkin (2025) proposes Extended Executive Cognition as a higher-education learning outcome: the capacity to allocate cognitive effort, decompose a task for human or machine execution, hold an accurate mental model of what AI can and cannot do, and integrate its output into a defensible result. The paper presents a framework, not a study: it builds the construct from curriculum theory, executive function research, distributed cognition, cognitive load theory and theory of mind, then argues that [[ai-literacy]] and ethics instruction are insufficient without it. It sketches curriculum integration and [[process-oriented-assessment|process-based assessment]] across general education and several disciplines, and reports no empirical results: no sample, no intervention, no measured outcome.
+> **Synthesis:** Sidorkin (2025) proposes Extended Executive Cognition as a higher-education learning outcome: the capacity to allocate cognitive effort, decompose a task for human or machine execution, hold an accurate mental model of what AI can and cannot do, and integrate its output into a defensible result. The paper presents a framework, not a study: it builds the construct from curriculum theory, [[executive-function|executive function]] research, distributed cognition, cognitive load theory and theory of mind, then argues that [[ai-literacy]] and ethics instruction are insufficient without it. It sketches curriculum integration and [[process-oriented-assessment|process-based assessment]] across general education and several disciplines, and reports no empirical results: no sample, no intervention, no measured outcome.
 
 ## From content production to cognitive orchestration
 

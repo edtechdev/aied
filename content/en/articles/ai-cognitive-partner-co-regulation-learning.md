@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence as a cognitive partner: a developmental framework for human-AI co-regulation in learning"
 created: "2026-08-16T04:26:01-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-11-12T19:20:00-05:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, distributed-cognition, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -13,7 +13,7 @@ audience: [instructors, researchers]
 page_kind: [framework]
 ---
 
-> **Synthesis:** This conceptual analysis by S, Joseph, Jose, S. M, N, & Joseph (2026) proposes that AI should be understood not merely as an external tool but as a **cognitive partner** in the co-[[regulation]] of thinking, learning, and self-control. Drawing on executive function, [[metacognition]], [[distributed-cognition|distributed cognition]], and sociocultural development, it frames human-[[student-ai-interaction|AI interaction]] as co-regulated cognition where AI acts as a scaffold, metacognitive support, external memory system, and decision partner. The framework is argued to be most relevant in middle childhood, adolescence, and adulthood, weighing the benefits of cognitive offloading against the risks of over-reliance.
+> **Synthesis:** This conceptual analysis by S, Joseph, Jose, S. M, N, & Joseph (2026) proposes that AI should be understood not merely as an external tool but as a **cognitive partner** in the co-[[regulation]] of thinking, learning, and self-control. Drawing on [[executive-function|executive function]], [[metacognition]], [[distributed-cognition|distributed cognition]], and sociocultural development, it frames human-[[student-ai-interaction|AI interaction]] as co-regulated cognition where AI acts as a scaffold, metacognitive support, external memory system, and decision partner. The framework is argued to be most relevant in middle childhood, adolescence, and adulthood, weighing the benefits of [[cognitive-offloading|cognitive offloading]] against the risks of over-reliance.
 
 ## The shift from tool to cognitive partner
 
@@ -55,7 +55,7 @@ AI-assisted co-regulation can improve performance, reduce cognitive load, and ex
 - This is a conceptual analysis rather than a study: no learners were observed, so the four roles and the stage-sensitive framework are argued from existing theory and remain proposals.
 - The theories it builds on — Vygotskian scaffolding and guided participation, executive function research, and distributed cognition — were developed where the guiding partner was another human; the authors note that AI responds instantly, runs continuously, and lacks the social limits governing human communication, so AI-mediated regulation may not reproduce human-scaffolding findings.
 - The developmental boundaries are asserted rather than measured: early childhood is confined to structured external regulation and adulthood to collaboration on complex cognition, but no age-graded evidence is presented for where those transitions fall.
-- The framework names excessive [[cognitive-offloading|cognitive offloading]] as the central risk while crediting offloading's benefits, and supplies no measure or threshold for where the balance tips.
+- The framework names excessive cognitive offloading as the central risk while crediting offloading's benefits, and supplies no measure or threshold for where the balance tips.
 
 ## Citation
 

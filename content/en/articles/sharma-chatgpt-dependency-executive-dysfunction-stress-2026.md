@@ -26,7 +26,7 @@ ai_assist:
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** A cross-sectional survey of Indian university students reports that problematic ChatGPT use is associated with poorer global executive functioning, but that the association runs almost entirely through academic stress: stress predicts executive dysfunction at β = 0.706 (P < 0.001), while ChatGPT use contributes β = 0.069 (P = 0.328) once stress is in the model. The authors read this as [[cognitive-offloading]] displacing the practice that builds [[self-regulated-learning]] and [[metacognition]], and they describe a self-reinforcing cycle in which stress, executive difficulty, and [[generative-ai]] dependence feed one another. That cycle is a hypothesis the design cannot test, because all three variables were measured at a single time point.
+> **Synthesis:** A cross-sectional survey of Indian university students reports that problematic ChatGPT use is associated with poorer global [[executive-function|executive functioning]], but that the association runs almost entirely through academic stress: stress predicts executive dysfunction at β = 0.706 (P < 0.001), while ChatGPT use contributes β = 0.069 (P = 0.328) once stress is in the model. The authors read this as [[cognitive-offloading]] displacing the practice that builds [[self-regulated-learning]] and [[metacognition]], and they describe a self-reinforcing cycle in which stress, executive difficulty, and [[generative-ai]] dependence feed one another. That cycle is a hypothesis the design cannot test, because all three variables were measured at a single time point.
 
 ## What the study measured
 

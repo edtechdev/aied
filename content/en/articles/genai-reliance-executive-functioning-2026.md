@@ -1,7 +1,7 @@
 ---
 title: "Individual Differences in Reliance on Generative AI in Schoolwork: The Role of Executive Functioning Difficulties, Perceived Usefulness, and Habitual Use"
 created: "2026-09-18T15:20:00-04:00"
-updated: "2026-09-19T18:17:12-04:00"
+updated: "2026-11-12T19:20:00-05:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [self-regulated-learning, metacognition, self-efficacy]
@@ -15,7 +15,7 @@ sources: ['raw/papers/genai-reliance-executive-functioning-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Klarin, Hoff and Daukantaitė ask which adolescents turn to [[generative-ai|generative AI]] in their schoolwork as a preferred route rather than one option among several — reliance, defined as preferring GenAI over one's own effort or [[teacher-role|teacher]] support together with difficulty initiating schoolwork without it. Two Swedish community samples of [[learners|adolescents]], 849 lower [[k-12|secondary]] (analytic n = 735) and 898 upper secondary (analytic n = 839) students, completed the BRIEF2 self-report of everyday executive functioning (EF) difficulties alongside brief scales for [[technology-acceptance-model|perceived usefulness]], habitual use and reliance. Using structural equation modeling the authors test a sequential mediation: EF difficulties → perceived usefulness → habitual use → reliance. EF difficulties correlated positively with all three GenAI measures (r = .14–.33), the sequential indirect path was significant in both groups (β = .08–.10), and the direct path survived (β = .17 in both) — perceived usefulness carried the most consistent indirect association, while the habitual-use-only pathway was weak. The authors deliberately read reliance as agnostic: for students who struggle with planning, task initiation and [[cognitive-psychology|working memory]], turning to GenAI may be adaptive compensation rather than a habit risk. That reframes the question from whether students use AI to which students need support using it well.
+> **Synthesis:** Klarin, Hoff and Daukantaitė ask which adolescents turn to [[generative-ai|generative AI]] in their schoolwork as a preferred route rather than one option among several — reliance, defined as preferring GenAI over one's own effort or [[teacher-role|teacher]] support together with difficulty initiating schoolwork without it. Two Swedish community samples of [[learners|adolescents]], 849 lower [[k-12|secondary]] (analytic n = 735) and 898 upper secondary (analytic n = 839) students, completed the BRIEF2 self-report of everyday [[executive-function|executive functioning]] (EF) difficulties alongside brief scales for [[technology-acceptance-model|perceived usefulness]], habitual use and reliance. Using structural equation modeling the authors test a sequential mediation: EF difficulties → perceived usefulness → habitual use → reliance. EF difficulties correlated positively with all three GenAI measures (r = .14–.33), the sequential indirect path was significant in both groups (β = .08–.10), and the direct path survived (β = .17 in both) — perceived usefulness carried the most consistent indirect association, while the habitual-use-only pathway was weak. The authors deliberately read reliance as agnostic: for students who struggle with planning, task initiation and [[cognitive-psychology|working memory]], turning to GenAI may be adaptive compensation rather than a habit risk. That reframes the question from whether students use AI to which students need support using it well.
 
 ## Key Findings
 
