@@ -1,5 +1,5 @@
 ---
-connected_resources: [openmaic]
+connected_resources: [openmaic, primer]
 title: Моделирование
 created: "2026-10-13T21:00:00-04:00"
 type: concept

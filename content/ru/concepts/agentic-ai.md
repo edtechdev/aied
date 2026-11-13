@@ -1,5 +1,5 @@
 ---
-connected_resources: [deeptutor, learnharness]
+connected_resources: [deeptutor, learnharness, primer]
 title: Агентный ИИ
 created: "2026-10-13T20:15:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]

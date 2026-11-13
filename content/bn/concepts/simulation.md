@@ -1,12 +1,12 @@
 ---
-connected_resources: [openmaic]
+connected_resources: [openmaic, primer]
 title: "সিমুলেশন"
 created: "2026-08-12T21:20:35-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
-updated: "2026-11-08T10:40:25-05:00"
+updated: "2026-11-13T18:20:00-05:00"
 translation_of: "concepts/simulation"
 source_updated: "2026-11-04T15:58:10-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"

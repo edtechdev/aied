@@ -10,10 +10,10 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-connected_resources: [deeptutor, learnharness]
+connected_resources: [deeptutor, learnharness, primer]
 translation_of: concepts/agentic-ai
 source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-13T18:20:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:

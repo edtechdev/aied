@@ -1,5 +1,5 @@
 ---
-connected_resources: [deeptutor, learnharness]
+connected_resources: [deeptutor, learnharness, primer]
 title: Akili Bandia Inayojitegemea
 created: "2026-10-13T05:34:00-04:00"
 type: concept

@@ -1,5 +1,5 @@
 ---
-connected_resources: [openmaic]
+connected_resources: [openmaic, primer]
 title: Симуляція
 created: "2026-10-13T22:45:00-04:00"
 type: concept

@@ -1,5 +1,5 @@
 ---
-connected_resources: [openmaic]
+connected_resources: [openmaic, primer]
 title: المحاكاة
 created: "2026-10-12T20:00:00-04:00"
 type: concept
@@ -8,7 +8,7 @@ technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 translation_of: concepts/simulation
 source_updated: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-13T18:20:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:

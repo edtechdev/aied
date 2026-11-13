@@ -1,5 +1,5 @@
 ---
-connected_resources: [deeptutor, learnharness]
+connected_resources: [deeptutor, learnharness, primer]
 title: בינה מלאכותית סוכנית
 created: "2026-10-12T19:00:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
@@ -13,7 +13,7 @@ level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
 source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-13T18:20:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:

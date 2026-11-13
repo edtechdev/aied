@@ -1,8 +1,8 @@
 ---
-connected_resources: [openmaic]
+connected_resources: [openmaic, primer]
 title: Simulación
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-13T18:20:00-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]

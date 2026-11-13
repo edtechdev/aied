@@ -5,7 +5,7 @@ type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
-connected_resources: [openmaic]
+connected_resources: [openmaic, primer]
 translation_of: concepts/simulation
 source_updated: "2026-11-04T15:58:10-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

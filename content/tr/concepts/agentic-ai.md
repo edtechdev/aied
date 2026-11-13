@@ -1,5 +1,5 @@
 ---
-connected_resources: [deeptutor, learnharness]
+connected_resources: [deeptutor, learnharness, primer]
 title: Etkenik YZ
 created: "2026-10-14T21:45:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]

@@ -10,10 +10,10 @@ audience: [learners]
 level: [higher ed, k 12]
 discipline: [stem education]
 confidence: high
-connected_resources: [deeptutor, learnharness]
+connected_resources: [deeptutor, learnharness, primer]
 translation_of: "concepts/agentic-ai"
 source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T06:31:23-05:00"
+updated: "2026-11-13T18:20:00-05:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
