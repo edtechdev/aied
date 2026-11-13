@@ -1,7 +1,7 @@
 ---
 title: "Information and Media Literacy"
 created: "2026-11-05T05:20:00-05:00"
-updated: "2026-11-12T21:45:00-05:00"
+updated: "2026-11-13T00:15:00-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy, critical-thinking, academic-integrity]
 pedagogy: [critical-pedagogy]
@@ -42,6 +42,8 @@ This page covers the pair because the corpus treats them as one instructional pr
 Information literacy's object is the source, and its core question is whether the claim is true and the evidence behind it credible. Media literacy's object is the message, and its core question is who made it, how, for whom and to what end. A fabricated citation fails the first test; a deepfake may pass every factual check a student knows how to run while failing the second.
 
 The empirical literatures reflect the split. A survey of 236 US university students asked where academic searches begin and found search engines at 45.5%, the library homepage at 27.9% and an AI chatbot at 26.6%, with international students substituting AI for library resources at roughly double the domestic rate ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). A [[meta-analysis-systematic-review|systematic review]] of 32 studies found [[ai-literacy|AI literacy]] integration in information-literacy instruction at an "infancy stage," delivered through LibGuides and workshops rather than curriculum ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza and Arif, 2026]]). On the media side, interviews with seven experts and a survey of 141 students found technology inclusion in the critical media literacy curriculum "limited and often superficial," with teachers under-trained for tools that produce disinformation and deepfakes ([[critical-media-literacy-education-2026|the critical media literacy study, 2026]]).
+
+International assessment is about to fuse the two constructs. PISA 2029 introduces a Media and AI Literacy (MAIL) assessment for 15-year-olds, and iRAISE's 2026 review builds its definition on the same integration — AI literacy as the newest layer of digital literacy, itself resting on decades of media and information literacy ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). The integration carries an implementation cost the divergence argument predicts. UNESCO's 2025 mapping found 171 of 194 Member States referencing media and information literacy in national frameworks, but only 84 (43%) including elements beyond technical digital skills in curricula — so the construct assessment will measure is the one schools teach least.
 
 ## How AI complicates information literacy
 
@@ -100,6 +102,7 @@ Most studies here are small, [[self-report-measures|self-reported]] or both: 236
 
 ## Connected Articles
 
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE's four-country review: 84 of 194 states put MIL beyond technical skills into curricula, and human factors decided outcomes in all four systems (Cerioli, 2026)
 - [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapping the Integration of AI Literacy Into Information Literacy Instruction in Academic Libraries: A Systematic Review of Emerging Research
 - [[jabeen-lux-ai-information-literacy-scientometric-2026]] — How artificial intelligence is reshaping information literacy in academic libraries: A global Scientometric analysis (2020–2025)
 - [[lund-ai-information-seeking-chatbots-libraries-2026]] — Artificial intelligence (AI) and information seeking: A comparative exploration of AI chatbots, search engines, and library resources as information sources among university students

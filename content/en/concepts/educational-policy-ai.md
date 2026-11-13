@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-11T06:58:15-05:00"
+updated: "2026-11-13T00:15:00-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -114,6 +114,8 @@ The practical test that separates them: a policy can be read on paper, but gover
 **Governance indicators for the authentication problem.** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]] supply the measurement layer this policy-versus-governance distinction implies, treating [[academic-integrity]] in the GenAI era as a governance problem before a detection problem and judging contemporary academic governance resilient but "not well positioned or poised" to protect the authentication of student [[assessment]]. Their framework holds 130 governance questions under eight dimensions — Designing, Developing, Training, Implementing, Analyzing, Reporting, Evaluating and Improving — and the items are questions about institutional machinery rather than psychometric scales: whether the institution's top-most board or council receives updates on assessment processes and outcomes, whether key performance indicators cover assessment quality, what percentage of students are known individually by the teachers who assess them, whether extreme low or high marks are cross-checked, and whether there is a simple route for referring contract cheating cases. The accompanying reform program targets governance architectures, the people who hold governance roles, and the technologies and resources supporting assessment, and the authors argue that little institutional development pays out without external affordance from regulation, [[benchmark|benchmarking]] and cross-institutional competition — the same regulatory pressure the [[regulation]] page treats as the binding constraint on governance reform.
 The gap is measured in K-12 too, not only in universities. A nationally representative survey of 1,018 US public school teachers and principals found only 18% of teachers and 24% of principals reporting a school generative-AI policy — the same below-institution pattern this page documents in higher education ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]]).
 
+Coordination is the governance capacity most often missing. iRAISE's 2026 comparison of France, Canada, Egypt and Qatar found that no single ministry can govern generative AI across education, health, child protection, justice and culture. The systems that held together designated one coordinating authority — typically the education ministry, or the regional level in federal systems — with standing mechanisms so curriculum, infrastructure, safety and data-protection policy were designed together ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). The comparison also qualifies the design-first reading: the four models differed sharply in structure, and in all four teacher confidence, parental mediation and community trust mattered as much as the policy architecture.
+
 ### The policy deficit in AI × SEL research
 
 A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the intersection of [[ai-education|AI]] and [[social-emotional-learning|social-emotional learning]] ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) documents a "policy deficit": nearly three-quarters of studies state no policy implications, and those that do often lack actor-oriented specificity. The review finds policy [[student-engagement|engagement]] correlates with publication venue, reflecting academic incentives that reward technical novelty over [[governance]] and [[regulation]]. It proposes a "WH-question" framework (Who, What, Why, When/Where, How) and a shift from "implication-as-afterthought" to "implication-as-methodology" — treating policy articulation as a design constraint of research rather than a post-hoc add-on.
@@ -149,6 +151,7 @@ Funders form a policy layer of their own: of 46 bodies with AI guidance, 12 atta
 
 ## Connected Articles
 
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE's four-country review: 84 of 194 states put MIL beyond technical skills into curricula, and human factors decided outcomes in all four systems (Cerioli, 2026)
 - [[hashem-cheating-habitus-ai-governance-discourse-2026]] — UNESCO and OECD texts share a governance vocabulary and no operational definitions; twenty-three jurisdictions converge without one
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — Swedish survey and focus-group study arguing that partnership ethics, not a cheating frame, should guide institutional genAI decisions
 - [[generative-ai-governance-education-scoping-review-2026]] — Generative AI governance in education: a scoping review of principles, mechanisms and risks (Elmahjub et al. 2026)

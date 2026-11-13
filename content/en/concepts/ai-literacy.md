@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T00:15:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -117,6 +117,8 @@ Teachers' accounts of *why* AI education is taught add a purpose layer that comp
 Readiness itself is a contested target. [[charles-teacher-readiness-by-design-ai-rich-2026|Charles (2026)]] argues that teacher readiness for AI-rich learning should be read from the quality of the designs teachers produce, not from adoption, confidence or digital competence, and builds a framework around *design mediation*: observable decisions such as tool selection, task and prompt design, scaffolding, verification, transparency, assessment redesign, accessibility planning and human oversight. Two of its claims have direct professional-development consequences. First, [[self-efficacy]] is a mobilization resource rather than a quality indicator, because confidence without AI-specific pedagogical knowledge or ethical orientation can accelerate poor design rather than prevent it, which qualifies the usual reading of teacher confidence as a readiness signal. Second, policy clarity and institutional support are separate moderators, so material support can be high while expectations stay ambiguous and readiness still translates poorly. The framework also declines to equate non-use with unreadiness, since a reasoned decision to withhold AI can itself demonstrate design judgment. It is conceptual and unvalidated, so it supplies propositions and evidence sources rather than established effects.
 
 **AI-interaction literacy: the interactional dimension.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]] propose a narrower, interactional competence — the ability to *steer, evaluate, and learn from* iterative interaction with GenAI — as a specific enactment of the applicational, evaluative, and integrational dimensions in broader frameworks such as [[ai-literacy-heptagon-2026|the AI Literacy Heptagon]]. Their reflective demonstration shows what it consists of in practice: recognizing that a fluent answer is pitched above one's own schema, requesting simplification, narrowing scope, and redirecting the system toward focused practice. Two design consequences follow — the skill is unevenly distributed, so unguided use may advantage already-confident students and widen gaps ([[equity-in-ai-education]]), and it has to be taught explicitly rather than assumed, with teachers covering how to formulate productive prompts and when to stop using the tool ([[self-regulated-learning]]).
+
+The policy layer that funds and timetables this development is weaker than the frameworks suggest. iRAISE's 2026 review of school-based digital and AI literacy found that 171 of 194 Member States reference media and information literacy or related competences in national frameworks, but only 84 (43%) carry elements beyond technical digital skills into school curricula, and few systems measure whether students acquire them ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). The distinction the report keeps is worth keeping: a framework states what a student should be able to do, a [[curriculum-design|curriculum]] sequences it and gives it time, and only the second reaches a classroom.
 
 ## Critical AI literacy: beyond skills to power and resistance
 
@@ -273,6 +275,7 @@ Credibility judgments respond to workflow, not only to instruction. Among 42 und
 - [[civic-and-political-education]]
 
 ## Connected Articles
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE's four-country review: 84 of 194 states put MIL beyond technical skills into curricula, and human factors decided outcomes in all four systems (Cerioli, 2026)
 - [[islam-credibility-weaker-llms-2026]] — 42 undergraduates: answer-first lowered AI credibility to 5.65 against 6.60 unrestricted, with verification at 6.22 (Islam et al., 2026)
 - [[yang-collaborative-ai-literacy-measures-review-2026]] — 17 AI literacy measures: collaboration is rarely assessed as a construct, and the proposed coordination/communication/metacognition factors remain unvalidated (Yang et al. 2026)
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Shaping early childhood in the age of AI: competencies, pedagogy and ecological support (Pei 2026)

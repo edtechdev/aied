@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-12T07:25:00-05:00"
+updated: "2026-11-13T00:15:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -124,6 +124,8 @@ A design-based counterexample treats competency as situational rather than a run
 - **Microlearning can develop university teachers' AI competence.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]] refined two [[vocational-education]] modules across two online group discussions into five design principles — clear structure and orientation, guidance and navigation support, segmentation and modularization, multimodal presentation, and learner activation — and found platform navigation and locating modules the main practical barriers.
 - **Intention to adopt runs on need satisfaction.** In a structural model of 146 teachers, competence need satisfaction predicted intention to use GenAI through [[motivation|intrinsic motivation]] and engagement in professional development (indirect 0.233), while autonomy and relatedness satisfaction did not ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al., 2026]]).
 
+Training without timetable time does not reach students. iRAISE's 2026 four-country review puts the point structurally: curricula, teacher training and materials have only limited impact unless schools reserve time to teach digital and AI literacy, through dedicated lessons or projects across subjects, which forces a decision about what existing content or activities are reduced or replaced ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). The review also places training inside paid working time, beginning in initial teacher education and continuing through careers, differentiated by subject and role — conditions that treat competence as a working condition rather than a personal accomplishment. In all four of its case studies, teacher confidence rather than tool availability decided whether anything was used.
+
 ## Teacher AI competency and the transforming teacher role
 
 As AI takes over routine instructional and assessment tasks, the teacher's distinctive contribution shifts toward orchestration, judgment, and relationship: deciding when and how AI is used, scaffolding [[agency|student agency]] and critical use, ensuring equity, and providing the social and emotional support AI cannot. This reframes teacher competency around [[human-in-the-loop-ai|human-in-the-loop]] oversight, [[ethics|ethical judgment]], and [[self-regulated-learning|supporting self-regulated learning]] — connecting to [[teacher-role]] and [[cognitive-offloading|guarding against over-reliance]].
@@ -173,6 +175,7 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 
 ## Connected Articles
 
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE's four-country review: 84 of 194 states put MIL beyond technical skills into curricula, and human factors decided outcomes in all four systems (Cerioli, 2026)
 - [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 beginning teachers revised AI lesson plans; adaptation was the largest gap (Wilcoxen et al. 2026)
 - [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Chemistry teachers’ research competence following AI-supported professional development: a mixed-methods pre–post study
 - [[walkington-teacher-in-loop-personalized-tasks-2026]] — Teacher-in-the-loop personalization of middle school mathematics tasks with ChatGPT (Walkington et al. 2026)
