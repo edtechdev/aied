@@ -1,7 +1,7 @@
 ---
 title: "Information and Media Literacy"
 created: "2026-11-05T05:20:00-05:00"
-updated: "2026-11-11T15:40:00-05:00"
+updated: "2026-11-12T20:05:00-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy, critical-thinking, academic-integrity]
 pedagogy: [critical-pedagogy]
@@ -80,6 +80,13 @@ Read together, the two sides of the ledger suggest a rule: AI can carry the *pra
 ## Limitations of the evidence
 
 Most studies here are small, [[self-report-measures|self-reported]] or both: 236 students in one survey, 36 children in one intervention, 412 librarians rating themselves. Bibliometric visibility is not practice, and the scientometric authors say so explicitly. No study in the corpus evaluates a combined information-and-media-literacy curriculum, and the detector and fact-checking tools the practice literature recommends are largely unmeasured in these sources. The claim that AI-powered verification improves outcomes should be treated as a design hypothesis until someone tests it against a control.
+
+## Common Misconceptions
+
+- **A detector settles the question.** A detector returns a probability; corroborate it with a second method instead of treating it as an answer key.
+- **The two literacies are one skill under two names.** Their objects differ — source credibility against authorship and intent — so a single rubric assesses neither well.
+- **Spotting AI inoculates against it.** In the corpus's strongest persuasion experiment, detection ran high and the shift toward the AI's position still grew.
+- **Librarian competence transfers to AI literacy.** The staff shortfall shows up at designing objectives (M = 2.70) and assessing outcomes (M = 2.62), not at operating tools.
 
 ## Connected Concepts
 

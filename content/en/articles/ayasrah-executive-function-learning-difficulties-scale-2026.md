@@ -1,7 +1,7 @@
 ---
 title: "Measuring AI-Mediated Executive Function Learning Difficulties: The EFB-LDS-AI Scale"
 created: "2026-11-12T18:00:00-05:00"
-updated: "2026-11-12T18:00:00-05:00"
+updated: "2026-11-12T20:20:00-05:00"
 type: article
 sources: ['raw/papers/ayasrah-executive-function-learning-difficulties-scale-2026.md']
 source_url: "https://doi.org/10.1007/s12144-026-09404-y"
@@ -27,7 +27,7 @@ ai_assist:
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Ayasrah and colleagues developed the [[executive-function|Executive Function]]-Based Learning Difficulties Scale for AI-Driven Educational Environments (EFB-LDS-AI), a 35-item self-report instrument derived from interviews with 18 specialists, teachers, and students and validated on 616 Jordanian secondary school students. Its six dimensions — cognitive offloading, illusion of understanding, AI-induced informational bias, memory erosion, AI-induced cognitive laziness, and decline of critical thinking — explain 67.16% of the variance, with Cronbach's alpha from 0.893 to 0.958. The authors define EF-BLD as self-reported maladaptive [[cognitive-offloading|reliance]] and reduced effortful monitoring, not as a clinical executive-function deficit, so the instrument profiles habits rather than measuring capacity. cognitive offloading
+> **Synthesis:** Ayasrah and colleagues developed the [[executive-function|Executive Function]]-Based Learning Difficulties Scale for AI-Driven Educational Environments (EFB-LDS-AI), a 35-item self-report instrument derived from interviews with 18 specialists, teachers, and students and validated on 616 Jordanian secondary school students. Its six dimensions — [[cognitive-offloading|cognitive offloading]], illusion of understanding, AI-induced informational bias, memory erosion, AI-induced cognitive laziness, and decline of critical thinking — explain 67.16% of the variance, with Cronbach's alpha from 0.893 to 0.958. The authors define EF-BLD as self-reported maladaptive [[cognitive-offloading|reliance]] and reduced effortful monitoring, not as a clinical executive-function deficit, so the instrument profiles habits rather than measuring capacity.
 
 ## What the scale actually measures
 

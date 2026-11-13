@@ -1,7 +1,7 @@
 ---
 title: "Libraries"
 created: "2026-11-05T03:45:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-12T20:05:00-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy]
 technology: [generative-ai, llm, recommender-systems-and-learning-paths, knowledge-graph]
@@ -63,6 +63,13 @@ The library's oldest function — providing access that individuals cannot buy �
 - **Keep a human escalation path in any AI service.** The evidence supports AI for lookup and drafting, and human staff for judgment about sources; designs that erase the second to scale the first remove the part patrons cannot get elsewhere.
 - **Instrument the search shift rather than surveying it.** Loan and discovery logs already exist; a library that pairs them with instruction data will know more about AI's effect than a one-off student survey can show.
 - **Do not bill AI literacy as information literacy.** They share staff and frameworks but differ in what is assessed; conflating them produces a program that measures neither.
+
+## Common Misconceptions
+
+- **AI in libraries means a chatbot at the reference desk.** Adoption clusters on transactional work — directional questions, cataloguing, chat transcripts — while judgment stays human.
+- **Students have abandoned the library.** Search engines remain the dominant starting point, and nine years of loan records show no breakpoint change in borrowing.
+- **Funding is the only barrier.** Skill gaps and poor data quality are named more often than money, which makes this a capacity problem as much as a budget one.
+- **A growing literature means the field is transforming.** Publication volume rose without any measured change in practice; the reviews find enthusiasm ahead of effect.
 
 ## Connected Concepts
 

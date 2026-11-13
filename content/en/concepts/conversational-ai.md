@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-11-12T18:50:00-05:00"
+updated: "2026-11-12T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -132,10 +132,10 @@ The executive-function training literature is small and young. [[pergantis-chatb
 - [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 
+- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Ten chatbot studies targeting executive functions
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
 - [[fang-chatbot-psychosocial-extended-use-2025]] — Text, neutral voice and engaging voice over four weeks: modality changed the exchange, not the psychosocial outcome (Fang et al. 2025)
 
 ## Citation
 
 Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Ten chatbot studies targeting executive functions

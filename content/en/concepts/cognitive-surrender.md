@@ -1,7 +1,7 @@
 ---
 title: Cognitive Surrender
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-12T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -19,12 +19,12 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-1. When a student accepts an AI answer that happens to be right, has the class succeeded? What would have to be true for the acceptance itself to be the thing that mattered?
-2. Is a calibrated delegator who knows their own limits different in kind from a student who simply cannot tell? How would [[teacher-role|an instructor]] tell the difference in a single piece of work?
-3. If confidence rises while accuracy falls — as it does when AI advice is available — what does that do to the learner's own error detection?
-4. Where is verification teachable, and where is it a workload problem [[educational-policy-ai|policy]]? Which parts of a [[curriculum-design|curriculum]] would need to change for checking to be the norm rather than the exception?
-5. Should institutions measure surrender at all, or does measuring it invite the same surveillance that [[ai-use-disclosure|disclosure rules]] struggle with?
-6. What would a task look like that rewards a student for overriding a wrong AI answer rather than for producing a polished one?
+- When a student accepts an AI answer that happens to be right, has the class succeeded — or only looked successful?
+- Is a calibrated delegator who knows their own limits different in kind from a student who simply cannot tell? How would [[teacher-role|an instructor]] tell them apart in one piece of work?
+- If confidence rises while accuracy falls — as it does when AI advice is available — what does that do to the learner's own error detection?
+- Where is verification teachable, and where is it a workload problem? Which parts of a [[curriculum-design|curriculum]] would have to change for checking to become the norm?
+- Should institutions measure surrender at all, or does measuring it invite the surveillance [[ai-use-disclosure|disclosure rules]] already struggle with?
+- What task would reward overriding a wrong AI answer rather than producing a polished one?
 
 ## Introduction
 
