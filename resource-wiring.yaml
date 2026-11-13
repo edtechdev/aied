@@ -351,3 +351,9 @@
   hosts:
   - vibe-coding
   reason: 'VCC is a build procedure for the exact activity the vibe-coding page describes — an educator prompting a static tool into existence and judging it by behavior — so that page now lists it in connected_resources. Not listed on ai-literacy: the page teaches the capability as curriculum, and VCC is a how-to for one artifact. Not listed on learning-design: VCC offers design guidance for a website, not a method for designing learning. Not listed on accessibility: the guides include accessibility checks, but the page is about the standard rather than about building sites.'
+- resource: agentic-builds
+  reviewed: '2026-11-13'
+  hosts:
+  - vibe-coding
+  - desirable-difficulties
+  reason: 'The builds are the outcome the vibe-coding page describes — a static tool prompted into existence and judged by behavior — so that page lists it. It also sits on desirable-difficulties because one of its six pathways is built explicitly around friction, slowing students down rather than smoothing the task, so the page has a concrete gallery for the principle. Not listed on learning-design: the page is about designing learning, and this is a collection of finished artifacts rather than a method.'

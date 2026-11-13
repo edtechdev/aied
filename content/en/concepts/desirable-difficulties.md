@@ -1,11 +1,17 @@
 ---
+connected_resources: [agentic-builds]
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T09:20:35-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
 connected_faqs: [reducing-over-reliance, study-with-ai]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: link classification
+    date: "2026-11-13"
+    agent: hermes-agent
 
 confidence: high
 reviewed_by: [editor]
