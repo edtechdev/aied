@@ -89,14 +89,23 @@ def listener(port):
 
 
 def server_command(cfg):
-    """The command that starts the preview, built from config."""
+    """The command that starts the preview, built from config.
+
+    Dev mode needs the heap flag: syncing this corpus's content layer at the
+    default heap dies with "Ineffective mark-compacts near heap limit". It also
+    gets --force, because a restart only happens when content is newer than the
+    cache and a stale content store is exactly what dev would otherwise keep.
+    """
     mode = get(cfg, 'preview.mode', 'dev')
     host = get(cfg, 'preview.host', '127.0.0.1')
     port = get(cfg, 'preview.port', 4321)
     sub = 'preview' if mode == 'preview' else 'dev'
-    return [shutil.which('node') or 'node',
-            os.path.join('node_modules', '.bin', 'astro'), sub,
-            '--host', str(host), '--port', str(port)]
+    cmd = [shutil.which('node') or 'node',
+           os.path.join('node_modules', '.bin', 'astro'), sub,
+           '--host', str(host), '--port', str(port)]
+    if sub == 'dev':
+        cmd += ['--force']   # clears the content store and replaces any lock holder
+    return cmd
 
 
 def is_our_server(cmd):
@@ -170,7 +179,9 @@ def main():
     with open(log, 'a') as fh:
         fh.write(f"\n--- restart {time.strftime('%Y-%m-%d %H:%M:%S')} ---\n")
         subprocess.Popen(launch, cwd=root, stdout=fh, stderr=subprocess.STDOUT,
-                         start_new_session=True)
+                         start_new_session=True,
+                         env={**os.environ,
+                              'NODE_OPTIONS': '--max-old-space-size=10240'})
     print(f"started: {' '.join(launch)}   (log: {log})")
     deadline = time.time() + wait
     while time.time() < deadline:

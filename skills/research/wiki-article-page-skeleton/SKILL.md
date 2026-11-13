@@ -19,6 +19,32 @@ both are decided BEFORE the prose. Siblings cover the writing procedure (`paper-
 per-page repair (`wiki-article-quality`), the narrative weave (`wiki-concept-narrative`) and the
 citation line (`wiki-citation-format`); this one is the shape the gates enforce.
 
+## The three failures the structure gate cannot see
+
+`audit-article-sections.py` checks that the headings exist and are in order. It does not read the
+title, it does not care how long the page is, and it accepts a Key Findings list made of
+coefficients. Each of those shipped and had to be rewritten:
+
+- **The title is the source's title, verbatim.** Not a headline you wrote after reading the paper, not
+  a shortened version, not one with the subtitle dropped. Copy it from the PDF's first page or the raw
+  record's `title:` field, keep its capitalization and any subtitle, and repeat the same string in the
+  `## Citation` line. A page titled "Note-taking beat an LLM on reading comprehension" when the paper
+  is "Effects of LLM use and note-taking on reading comprehension and memory" breaks the one link
+  between the page and the thing it summarizes.
+- **`## Key Findings` is the first H2 after the synthesis blockquote.** Always. Body sections go
+  after it. A findings list buried at the bottom, above the citation, is invisible to a reader
+  scanning for the answer.
+- **Findings are claims, not statistics.** "Note-taking produced better learning than the chatbot
+  alone" is a finding. "β = 1.92, d = 0.44, p < .001" is a table that lost its table. Keep
+  coefficients in the body section that reports the model, and write each finding so a practitioner
+  can act on it without decoding a symbol.
+- **Practice bullets open with the audience.** `- **Instructors:** ...`, `- **Instructional
+  designers:** ...`, `- **Administrators:** ...`. A bullet that starts with a verb and no actor could
+  have been written for anyone, which is how a practice section becomes advice nobody owns.
+- **Budget 750-1,000 words, not 1,750.** The soft cap in the gate is what an outlier may reach, not
+  the target. A page over about 1,100 words is usually two pages or a page with a restated method
+  section; cut before adding.
+
 ## Section skeleton, in order
 
 Frontmatter, then the `> **Synthesis:**` blockquote, then these headings with these EXACT strings:

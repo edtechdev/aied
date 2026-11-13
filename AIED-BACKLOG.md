@@ -7,12 +7,12 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-11-12
-**Total backlog:** 35 articles awaiting ingest (the 2026-11-12 scan added 1 publisher-blocked item and 7 queued items and removed none; the 2026-11-11 section added 3 publisher-blocked and 1 adjacent-research item, removed 2 ingested the same day, and closed the 3 blocked items: 1 ingested from a maintainer-supplied PDF, 2 rejected; the earlier carries are unchanged) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 35 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-12)
 
-The prefetch returned 93 candidates in the 2026-11-09..12 window and dropped 28 the maintainer had
-already rejected. Six had been ingested in the preceding three days (the PISA 2025 scientific-literacy
+The prefetch returned 93 candidates in the 2026-11-09..12 window and dropped 28 already-known
+items. Six had been ingested in the preceding three days (the PISA 2025 scientific-literacy
 analysis, the Quebec post-secondary AI-literacy survey, the career decision-making self-efficacy SEM,
 the Jordanian EFL writing trial, the Egyptian extended-TAM study and the generative-operationalism
 paper), so they were left alone and the prefetch's title-based dedupe missed them only because their
@@ -41,7 +41,7 @@ not about learning.
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-11)
 
-The prefetch returned 88 candidates and dropped 21 the maintainer had already rejected. Seventeen
+The prefetch returned 88 candidates and dropped 21 already-known items. Seventeen
 had already been ingested earlier today (the Stanford K-12 update batch, the sustainable higher-ed
 GenAI review, the medical-education governance op-ed, six EdArXiv/arXiv preprints, and the GPT-5
 kinematics study). Seven were ingested from full text by this run: one MDPI randomized trial in EFL
@@ -55,7 +55,7 @@ intervention (active learning at a graduate summer school) - out of scope rather
 
 **Full text blocked at the publisher (PDF needed)**
 
-None outstanding from this scan. The three items listed here on 2026-11-11 were closed the same day: the early-childhood storytelling study was ingested from the maintainer's PDF, and the other two were rejected (see `rejected-sources.yaml`).
+None outstanding from this scan. The three items listed here on 2026-11-11 were closed the same day: the early-childhood storytelling study was ingested from the maintainer's PDF, and the other two were closed without ingestion.
 
 **Adjacent research awaiting a tier decision**
 
@@ -63,7 +63,7 @@ None outstanding from this scan. The three items listed here on 2026-11-11 were 
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-10)
 
-The prefetch returned 76 candidates and dropped 21 the maintainer had already rejected. Ten were
+The prefetch returned 76 candidates and dropped 21 already-known items. Ten were
 ingested from full text this run (3 arXiv preprints, 2 EdArXiv preprints, 4 Frontiers articles, 1
 MDPI article). Eight more cleared relevance but were already in the wiki under an earlier slug
 (GenAI use-and-caution trajectories, the UK StudentXGenAI survey, the pham tutor-or-shortcut
@@ -76,7 +76,7 @@ intervention whose full text is reachable.
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-09)
 
-The prefetch returned 75 candidates and dropped 21 the maintainer had already rejected. Twelve
+The prefetch returned 75 candidates and dropped 21 already-known items. Twelve
 were ingested from full text this run (2 EdArXiv-backed arXiv preprints, 5 EdArXiv preprints, 5
 Frontiers open-access articles). Eleven more cleared relevance but were not reached inside the
 20-article cap; nine of those were subsequently ingested from full text, leaving the two below.
@@ -125,7 +125,7 @@ a bot check or an HTML shell instead of the article.
 ## OpenAlex weekly topic sweep (2026-11-08)
 
 The topic sweep returned 359 candidates for the 7 days to 2026-11-08 (21 dropped as already
-rejected). Six in-scope reviews and meta-analyses were selected; three are listed here rather than
+known). Six in-scope reviews and meta-analyses were selected; three are listed here rather than
 ingested: the OSF preprints serve a 245-byte error page to automated downloads, and the two
 paywalled items have no open full text. All six are open access at their landing pages, so a
 browser session or a maintainer-supplied PDF would unblock any of them.

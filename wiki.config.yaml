@@ -230,12 +230,15 @@ build:
 #       host: 192.168.1.50
 # ---------------------------------------------------------------------------
 preview:
-  mode: preview              # preview = serves dist/ (static, no file watching) | dev = `astro dev` (hot reload)
+  mode: preview              # astro preview serves dist/, so a rebuild publishes an edit.
+                             # `dev` was tried on 2026-11-13 and is unusable here: astro dev's content
+                             # layer syncs, then every collection reads back empty ("collection ... does
+                             # not exist or is empty"), so every article and concept route 404s.
   host: 127.0.0.1            # override per machine in wiki.config.local.yaml
   port: 4321
   base_path: /aied           # from site.config.json; informational
   log: /tmp/wiki-preview.log # where a restarted server writes its output
-  wait_seconds: 60           # how long to wait for HTTP 200 after a restart
+  wait_seconds: 300          # dev mode re-syncs the content layer on restart (~10k pages), so allow minutes
   refresh_after: [daily_scan, weekly_scan]   # jobs that call refresh-preview.py
 
 # ---------------------------------------------------------------------------
