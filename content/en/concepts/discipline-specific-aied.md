@@ -1,7 +1,7 @@
 ---
 title: "AIEd in the Disciplines"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-11-13T08:02:30-05:00"
+updated: "2026-11-13T12:55:00-05:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
@@ -63,6 +63,7 @@ Several threads cut across all disciplines, though they play out differently in 
 - **Cognitive offloading and over-reliance.** [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] risk appears across [[math-education|math]], [[cs-education|CS]], and [[writing-education|writing]], though the "cognitive act" being offloaded is discipline-specific — computation vs. code vs. composition.
 - **AI literacy and critical use.** [[ai-literacy]], [[critical-thinking]], and [[critical-pedagogy]] underpin responsible use in every subject.
 - **Disciplinary grounding gates AI-supported [[metacognition]].** In a text-linguistics seminar, novices reflected metacognitively with LLMs chiefly where subject knowledge was already consolidated, and most attributed poor outputs to the model rather than their own prompt — evidence that [[prompt-engineering|prompt design]] must be taught explicitly within a discipline ([[llms-text-linguistics-teaching-2026|Brocca & Garassino (2026)]]).
+- Discipline also breaks the instrumentation. A chemistry-trained SRL detector held ~0.8 AUC on German transcripts but fell to ~0.6 on logic, because the model resolved "cancel" at its everyday meaning rather than the domain one ([[borchers-srl-language-generalization-2025|Borchers et al., 2025]]).
 - **Equity and access.** [[equity-in-ai-education]], [[digital-divide]], and [[culturally-relevant-pedagogy]] concern all disciplines.
 
 ## Signature pedagogies, methods, and theories by discipline

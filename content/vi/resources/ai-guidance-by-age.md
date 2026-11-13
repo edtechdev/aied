@@ -1,7 +1,7 @@
 ---
-title: "Hướng dẫn AI theo độ tuổi (Compass Collaborative)"
+title: "Hướng dẫn AI theo độ tuổi"
 created: "2026-11-12T14:25:00-05:00"
-updated: "2026-11-12T14:25:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Một hướng dẫn tương tác của Compass Collaborative thuộc Harvard, ghép chín nhóm tuổi từ 0–2 đến 26–40 với mười lĩnh vực phát triển, và tại mỗi điểm giao hỏi điều gì đang phát triển, có nghiên cứu AI nào, và AI có thể giúp hay cản trở ra sao — một cách rõ ràng như những giả thuyết chứ không phải những phát hiện."
 url: https://compass.gse.harvard.edu/explore/

@@ -2,7 +2,7 @@
 
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T13:05:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -35,6 +35,8 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - **Access is not enough:** [[access-not-enough-ai-tutoring-2026|Providing AI tools without addressing structural barriers]] does not close gaps — access must be paired with skills, support, and conditions that enable genuine use.
 
 Differentiated support is not evidence of equitable benefit: a review of AI tutoring in [[math-education|mathematics]] finds inclusiveness claims unsupported because studies rarely test whether gains are distributed consistently across ability, gender, socioeconomic, linguistic, disability and geographical groups, leaving it unestablished that these systems reduce achievement gaps ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).
+
+Direct evidence that support can be distributed by need: when adaptive questioning pressed low-prior tutors to explain and justify, their gains matched high-prior peers, and prior knowledge did not predict who did so ([[knowledge-building-tutor-learning-2026|Ameen et al. (2026)]]).
 - **Differentiated human-AI tutoring is evidence that hybrid models can narrow gaps — when allocation follows need.** A difference-in-discontinuities study (635 students, grades 5–8; below-median performers received *proactive* human tutoring, above-median received *reactive* on-demand support, against a fall AI-only baseline) found hybrid tutoring raised time on task 25%, skill proficiency 36%, and academic growth 61% overall — and the two arms achieved *comparable* engagement and proficiency gains through different mechanisms. The equity-relevant detail: proactive tutoring showed marginally higher average growth (75%, p = .065) concentrated among students farther below the cutoff — the pattern of gap compression rather than uniform lifting — while one tutor per session served both groups. The authors are appropriately cautious: the DiDC design is quasi-experimental, the dichotomous median cutoff misses within-group need variation, and the 75% effect is marginal. ([[gurung-hybrid-human-ai-tutoring-2026]])
 
 - **Faculty expect the divide to widen.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson and Rainie (2026)]] surveyed **1,057 US college and university faculty** and found **81%** expected generative AI to widen digital inequities (**58%** saying a lot) — the strongest equity expectation in the report and one that sits beside **68%** who said their institutions had not prepared faculty to use the tools for teaching and mentoring. The same survey shows how unevenly the tools are taken up: **26%** of respondents do not use generative AI at all, rising to **40%** of arts and [[humanities-education|humanities]] faculty and **28%** of social scientists, so non-use and unpreparedness concentrate in particular [[discipline-specific-aied|disciplines]]. The report is a non-probability sample its authors state is not generalizable, so these are the sector's expressed concerns rather than measured effects.

@@ -1,7 +1,7 @@
 ---
-title: "Guida all'IA per età (Compass Collaborative)"
+title: "Guida all'IA per età"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-12T13:39:44-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Una guida interattiva del Compass Collaborative di Harvard che abbina nove fasce d'età da 0–2 a 26–40 a dieci domini di sviluppo e, a ogni incrocio, chiede che cosa si sta sviluppando, quale ricerca sull'IA esiste e come l'IA potrebbe aiutare o ostacolare — esplicitamente come ipotesi e non come risultati."
 url: https://compass.gse.harvard.edu/explore/

@@ -1,7 +1,7 @@
 ---
-title: "Recommandations sur l'IA selon l'âge (Compass Collaborative)"
+title: "Recommandations sur l'IA selon l'âge"
 created: "2026-11-12T13:44:00-05:00"
-updated: "2026-11-12T13:44:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Un guide interactif du Compass Collaborative de la Harvard Graduate School of Education qui associe neuf tranches d'âge, de 0–2 à 26–40, à dix domaines du développement et demande, à chaque intersection, ce qui est en cours de développement, quelles recherches sur l'IA existent et comment l'IA pourrait aider ou entraver — explicitement comme des hypothèses et non des résultats établis."
 url: https://compass.gse.harvard.edu/explore/

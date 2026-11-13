@@ -1,7 +1,7 @@
 ---
-title: "Panduan AI menurut Usia (Compass Collaborative)"
+title: "Panduan AI menurut Usia"
 created: "2026-11-12T14:30:00-05:00"
-updated: "2026-11-12T14:30:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Panduan interaktif dari Compass Collaborative Harvard yang memasangkan sembilan rentang usia dari 0–2 hingga 26–40 dengan sepuluh domain perkembangan, dan di setiap persimpangan menanyakan apa yang sedang berkembang, penelitian AI apa yang ada, dan bagaimana AI mungkin membantu atau menghambat — secara eksplisit sebagai hipotesis, bukan temuan."
 url: https://compass.gse.harvard.edu/explore/

@@ -1,7 +1,7 @@
 ---
-title: "Stemmebasert skriftlig vurdering (VFWA)"
+title: "Stemmebasert skriftlig vurdering"
 created: "2026-11-12T13:52:00-05:00"
-updated: "2026-11-12T13:52:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "En vurderingsmodell i to trinn med implementeringsveiledning: en observert, ikke-vurdert registrering av en students resonnering om en usett oppgave, etterfulgt av en vurdert skriftlig innlevering som gjøres hjemme med AI-verktøy fritt tilgjengelig, koblet til det første trinnet gjennom en bevisvurdering, med en betinget muntlig eksaminasjon når den koblingen er uklar."
 url: https://kellywebbdavies.com/vfwa/

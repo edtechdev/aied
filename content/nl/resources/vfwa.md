@@ -1,7 +1,7 @@
 ---
-title: "Voice-first schriftelijke toetsing (VFWA)"
+title: "Voice-first schriftelijke toetsing"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-12T13:39:44-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Een tweefasig beoordelingsmodel en een implementatiegids: een geobserveerde, onbeoordeelde vastlegging van de redenering van een student op een ongeziene opdracht, gevolgd door een beoordeelde schriftelijke inzending die thuis wordt gemaakt met onbeperkte AI-hulpmiddelen, verbonden met de eerste fase door een bewijsoordeel, met een voorwaardelijke mondelinge verdediging (viva) voor gevallen waarin die verbinding onduidelijk is."
 url: https://kellywebbdavies.com/vfwa/

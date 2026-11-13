@@ -1,7 +1,7 @@
 ---
-title: "Pokyny k AI podle věku (Compass Collaborative)"
+title: "Pokyny k AI podle věku"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-12T13:39:44-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Interaktivní příručka společnosti Compass Collaborative při Harvardu, která spojuje devět věkových pásem od 0–2 do 26–40 s deseti vývojovými doménami a u každého průsečíku se ptá, co se vyvíjí, jaký výzkum AI existuje a jak může AI pomoci nebo uškodit — výslovně jako hypotézy, nikoli zjištění."
 url: https://compass.gse.harvard.edu/explore/

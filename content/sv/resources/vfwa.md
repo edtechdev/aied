@@ -1,7 +1,7 @@
 ---
-title: "Röstbaserad skriftlig bedömning (VFWA)"
+title: "Röstbaserad skriftlig bedömning"
 created: "2026-11-12T13:52:00-05:00"
-updated: "2026-11-12T13:52:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "En tvåstegs bedömningsmodell med implementeringsguide: en observerad, icke-betygssatt insamling av en students resonemang kring en osedd uppgift, följd av en betygssatt skriftlig inlämning som görs hemma med AI-verktyg fritt tillgängliga, kopplad till det första steget genom en bevisbedömning, med en villkorad muntlig examination när den kopplingen är oklar."
 url: https://kellywebbdavies.com/vfwa/

@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-11-13T09:46:01-05:00"
+updated: "2026-11-13T13:05:00-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -47,6 +47,7 @@ Individual teaching strategies and pedagogies form a rich set, organized into fa
 - **Pedagogy determines AI's effect.** A recurring finding is that *how* AI is used matters as much as *whether* it is used. [[instructional-guidance-genai-learning|Instructional-guidance research]] and [[generative-ai-guardrails-harm-learning|guardrailed-tutor RCTs]] show the same AI can harm or help depending on the pedagogical wrapper (hints vs. answers, structured vs. open use).
 - **Pedagogical knowledge outweighs technical knowledge.** Across 46 teachers and 2,832 students, teacher pedagogical AI knowledge predicted students' perceptions of AI for social good and their intention to learn AI, while technical knowledge alone was insufficient — and neither predicted students' AI knowledge ([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al. (2026)]]).
 - **Offloading administrative work is where AI contributes most clearly.** A PRISMA review of 28 studies found AI most often enhanced instructional planning and [[assessment|assessment design]], with its most reported benefit the automation of grading, feedback and progress monitoring (18 studies, 64.2%) — while pedagogical alignment was the most cited challenge (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).
+- A 108-school cluster RCT bounds that claim: Aila cut planning time by 0.81 hours a week at 7% lesson coverage, with use declining over ten weeks and no pupil outcome measured ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al. (2026)]]).
 **Automation and learning trade off directly.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] walk six pedagogical principles — [[prior-knowledge]] activation, [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]] — through what proactive agentic initiative does to each, arguing the more an agent automates, the less cognitive work the learner does unless friction, dynamic fading, and [[human-in-the-loop-ai|human oversight]] are designed in.
 - **Reflection is a pedagogy that AI both enables and threatens.** Structured prompts, journals and [[eportfolio|portfolio]] commentaries are the mechanism by which experience becomes learning, and the [[reflection]] page carries the evidence. One preregistered experiment found prompts that doubled time on feedback and cut practice volume by 40% without lifting per-problem gain. A coded audit of an AI reflection partner found it broke every behavioral instruction without leaving a visible trace. Design the prompt around a completed attempt, and require the trail rather than the polished entry.
 - **Teaching strategies for AI literacy.** Teaching students *to use AI well* is itself a pedagogical task — [[ai-literacy]] and [[reducing-ai-misuse]] research develops strategies (think-first/AI-second/reflect, AI-declaration, calibration training) that belong to this umbrella.

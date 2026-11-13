@@ -1,7 +1,7 @@
 ---
-title: "Smjernice za AI prema dobi (Compass Collaborative)"
+title: "Smjernice za AI prema dobi"
 created: "2026-11-12T13:58:00-05:00"
-updated: "2026-11-12T13:58:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Interaktivni vodič Harvardova Compass Collaborativea koji spaja devet dobnih raspona od 0–2 do 26–40 s deset razvojnih područja i na svakom presjeku pita što se razvija, koja istraživanja o AI-ju postoje i kako AI može pomoći ili odmoći — izričito kao hipoteze, a ne kao nalaze."
 url: https://compass.gse.harvard.edu/explore/

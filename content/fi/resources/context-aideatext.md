@@ -1,7 +1,7 @@
 ---
-title: "conText (AIdeaText)"
+title: "conText"
 created: "2026-11-12T19:52:00-05:00"
-updated: "2026-11-12T19:52:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Ilmainen selainpohjainen ohjaaja, joka lukee kuvan vihkosta, PDF:n tai tekstin ja käy sitten opiskelijan kanssa sen läpi sokraattisesti englanniksi tai espanjaksi piirtäen samalla reaaliaikaista kuvaajaa ideoista, joita opiskelija yhdistää puhuessaan."
 url: https://context.aideatext.ai/?lang=en

@@ -1,7 +1,7 @@
 ---
-title: "Agentic Builds (Marc Watkins)"
+title: "Agentic Builds"
 created: "2026-11-13T09:14:20-05:00"
-updated: "2026-11-13T09:14:20-05:00"
+updated: "2026-11-13T12:40:00-05:00"
 type: resource
 summary: "An open shelf of classroom apps built by prompting a coding agent, arranged in six teaching pathways with a fuller 35-build gallery behind it — each app starts from a teaching problem and ships with its own AI disclosure."
 url: https://marcwatkins.org/builds/

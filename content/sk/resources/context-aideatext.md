@@ -1,7 +1,7 @@
 ---
-title: "conText (AIdeaText)"
+title: "conText"
 created: "2026-11-12T11:04:00-05:00"
-updated: "2026-11-12T11:38:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Bezplatný prehliadačový tútor, ktorý prečíta fotografiu zošita, PDF alebo text a potom študenta sokratovsky vedie v angličtine alebo španielčine a súčasne kreslí živý graf myšlienok, ktoré počas rozhovoru prepája."
 url: https://context.aideatext.ai/?lang=en

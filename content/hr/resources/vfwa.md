@@ -1,7 +1,7 @@
 ---
-title: "Pisana procjena s glasom na prvom mjestu (VFWA)"
+title: "Pisana procjena s glasom na prvom mjestu"
 created: "2026-11-12T13:50:00-05:00"
-updated: "2026-11-12T13:50:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Dvostupanjski model ocjenjivanja i vodič za provedbu: promatrano i neocjenjivano bilježenje studentova rasuđivanja na nepoznatom zadatku, zatim ocjenjivani pisani rad dovršen kod kuće bez ograničenja na alate umjetne inteligencije i povezan s prvim stupnjem dokaznom prosudbom, s uvjetnim usmenim ispitom ondje gdje je ta veza nejasna."
 url: https://kellywebbdavies.com/vfwa/

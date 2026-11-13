@@ -1,7 +1,7 @@
 ---
-title: "Voice-First Written Assessment (VFWA)"
+title: "Voice-First Written Assessment"
 created: "2026-11-12T13:30:00-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "A two-stage assessment model and implementation guide: an observed, ungraded capture of a student's reasoning on an unseen prompt, followed by a graded written submission completed at home with AI tools unrestricted, linked to the first stage by an evidentiary judgment, with a conditional viva for cases where that link is unclear."
 url: https://kellywebbdavies.com/vfwa/

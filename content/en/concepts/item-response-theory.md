@@ -1,7 +1,7 @@
 ---
 title: Item Response Theory
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-12T21:40:00-05:00"
+updated: "2026-11-13T12:55:00-05:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
@@ -53,6 +53,7 @@ IRT treats ability (θ) and item parameters (difficulty, discrimination, sometim
 
 - **How rarely IRT anchors instrument validation:** an appraisal of [[teacher-role|teacher]] [[ai-literacy|AI literacy]] instruments quantifies IRT's absence rather than its use. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] graded 33 instruments against a decision matrix adapted from COSMIN and Terwee et al. (2007); structural validity was strong, with 24 (72.7%) at Grade A through CFA, PLS-SEM or IRT modeling, yet none used IRT or Rasch as its primary evidence, and only five instruments (15.2%) reported measurement invariance or differential item functioning evidence. The authors argue for IRT and performance tasks alongside [[self-assessment]] to separate validated capability from reported confidence.
 - **A causal alternative to associative IRT.** [[causal-modeling-competency-assessment-2026|Mangili et al. (2026)]] argue IRT and Bayesian-network learner models cannot express interventions or counterfactuals, and elicit structural equations from experts instead; on a 109-student adaptive-test battery the elicited model was slightly less predictive (−287 versus −277 test log-likelihood) yet supported counterfactual queries about help.
+- [[ai-second-language-listening-speaking-assessment-2025|Goh and Aryadoust (2025)]] press the limit: IRT answers population questions, while assessment as learning asks whether an individual changed, which they argue needs idiographic models such as latent Markov approaches.
 
 ## Connections
 

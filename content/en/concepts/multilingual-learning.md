@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T13:05:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
@@ -40,6 +40,8 @@ Multilingual learning is a core equity dimension of [[ai-education|AI in educati
 Multilingual AI must go beyond translation to reflect [[culturally-relevant-pedagogy|culturally relevant pedagogy]] — generating content that is linguistically and contextually appropriate. Studies of [[llm-cultural-relevance-k12|LLM cultural relevance in K-12]] and [[scaffolding-critical-engagement-genai-minority-students|critical engagement with GenAI among minority students]] show that linguistic and cultural alignment shapes whether students actually benefit. Unaddressed, monolingual bias in AI deepens the [[digital-divide]] and undermines [[equity-in-ai-education|Equity]] across the [[global-south|Global South]].
 
 Translanguaging is an affordance generative [[conversational-ai|chatbots]] add that earlier language tools lacked. In a [[meta-analysis-systematic-review|systematic review]] of 24 studies, learners asked for contextualized phrases and explanations in their own language as a bridge into the target language — a use the reviewers classify as a new sub-affordance rather than a repackaged one ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+
+The language cost of tool onboarding is measurable: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] found English learners spent significantly longer on a scaffolded agent-building tutorial than native speakers, while the open-ended design task showed no difference.
 
 ## Assessment bias
 

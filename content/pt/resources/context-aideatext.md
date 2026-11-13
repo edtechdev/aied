@@ -1,7 +1,7 @@
 ---
-title: "conText (AIdeaText)"
+title: "conText"
 created: "2026-11-12T20:20:00-05:00"
-updated: "2026-11-12T20:20:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Um tutor gratuito de navegador que lê a foto de um caderno, um PDF ou um texto e então conduz o estudante por ele de forma socrática em inglês ou espanhol, enquanto desenha um grafo ao vivo das ideias que ele conecta ao falar."
 url: https://context.aideatext.ai/?lang=en

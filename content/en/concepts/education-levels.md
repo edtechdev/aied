@@ -1,7 +1,7 @@
 ---
 title: "Levels of Education"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T12:55:00-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -55,6 +55,8 @@ The evidence is unevenly distributed, and the level field makes the imbalance vi
 **Dense.** Higher education is the most-covered band: the pages consulted here include an eight-week platform trial with 60 engineering students ([[ai-assisted-seminar-learning-information-literacy-2026]]), a survey of 395 education managers ([[ai-adoption-readiness-ukraine-education-managers-2026]]), a meta-synthesis of 18 African higher-education studies ([[data-privacy-ai-african-higher-education-2026]]) and a 420-researcher study of doctoral training ([[ai-mediated-research-agency-formation-2026]]). Primary and secondary also carry outcome evidence.
 
 **Thin, and in places absent.** The pages consulted here report no child-outcome study at the preschool band at all; the nearest evidence is a survey of teachers' intentions that excluded child-facing tools ([[preschool-teachers-ai-behavioral-intention-2026]]). Middle school appears mainly as a *proposed* design and longitudinal study rather than reported outcomes ([[ai-lms-middle-school-longitudinal]]). The vocational band's strongest evidence is 63 [[self-report-measures|self-report]] responses from one course, which its authors say requires replication ([[ai-ive-pbl-vocational-design-creativity-2026]]). The graduate evidence is cross-sectional, with a reverse-path model fitting slightly better than the developmental one, so the direction from dependence to reduced autonomy is inferred rather than confirmed ([[ai-mediated-research-agency-formation-2026]]). Nothing consulted here reports AI outcome evidence for **adult learning** or **special education** as bands; those have their own coverage on [[adult-learning]] and [[special-education]], and the school-age findings are not generalized to fill the gap.
+
+Middle-school outcomes now exist: among 178 Indonesian junior-high students, culturally embedded diagnostic tasks predicted symbolic performance (β = 0.42) and engagement (β = 0.37), and AI diagnostic profiles matched expert judgments (ICC = 0.81) ([[culturally-embedded-ai-diagnostic-assessment-2026|Anggara et al. (2026)]]).
 
 One pattern holds at every level surveyed: the human layer absorbs the hardest cases. A human expert stayed at the credibility decision point for engineering students even when algorithmic recommendation reached F1 = 0.64 ([[ai-assisted-seminar-learning-information-literacy-2026]]); supervisory support was the one condition that weakened AI dependence's negative links in doctoral training ([[ai-mediated-research-agency-formation-2026]]); and it is preschool teachers, not children, who are the adopters ([[preschool-teachers-ai-behavioral-intention-2026]]).
 

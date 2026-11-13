@@ -1,7 +1,7 @@
 ---
-title: "conText (AIdeaText)"
+title: "conText"
 created: "2026-11-12T11:28:00-05:00"
-updated: "2026-11-12T12:11:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "En gratis webbhandledare som läser ett foto av ett anteckningsblock, en PDF eller en text och sedan samtalar eleven igenom det sokratiskt på engelska eller spanska medan den ritar en levande graf över idéerna eleven kopplar samman när de talar."
 url: https://context.aideatext.ai/?lang=en

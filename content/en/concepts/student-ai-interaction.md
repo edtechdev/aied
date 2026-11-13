@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-11-13T10:10:00-05:00"
+updated: "2026-11-13T13:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -61,6 +61,8 @@ Behavioral context is a separate signal from the question itself: in TutorTrace'
 Density is not the mechanism: alternating students between voice and text nearly doubled dialogue turns per minute (1.34 versus 0.75) without changing weekly mastery, and the authors read the typed channel's median 26-second deliberation before the first keystroke as the encoding act itself ([[ai-tutor-modality-randomized-field-experiment-2026|Yang, Van Alstyne and Dellarocas (2026)]]).
 
 A verification loop can still stay shallow: lag sequential analysis of a four-week LLM-agent deployment in an undergraduate database course found a significant Query–Evaluation–Query cycle, yet strong self-transition loops within lower-order states and only 3.92% of interactions reaching higher-order cognition ([[li-dbagent-llm-educational-agent-cs-2026|Li et al. (2026)]]).
+
+Conversational disengagement has its own taxonomy — mocking, ghosting, mirroring, withholding, false answering — and across 246 middle-school maths dialogues only withholding persisted rather than resolving, so the damaging pattern is failure to recover ([[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]]).
 
 Bernstein and Sibia (2026) document an iterative-filter pattern in how CS2 students handle GenAI explanations ([[student-reception-genai-analogies-computing-2026]]): they cross-reference against lecture notes, demand provenance ("I would be a lot more doubtful... without one"), and probe with follow-up questions for inconsistency rather than issuing a single accept-or-reject judgment. Students also read explanations for whose knowledge and background they assumed — assumed [[prior-knowledge|prior knowledge]] beyond the syllabus, default sport and gaming references ("the more male-dominated side of computing"), and excessive repetition all functioned as signals about the imagined reader, with over-scaffolding read as condescending rather than merely inefficient.
 

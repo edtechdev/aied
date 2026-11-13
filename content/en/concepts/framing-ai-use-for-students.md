@@ -1,7 +1,7 @@
 ---
 title: Framing AI Use for Students
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T12:55:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -68,6 +68,8 @@ Framing connects to [[motivation]] through [[self-determination-theory]]: how a 
 ## Media and public framing
 
 Students are also framed by the wider media and public discourse around [[ai-education|AI in education]], which shapes their baseline expectations before any instructor message. Analyses of public discourse and how platforms like YouTube frame ChatGPT use in education show that prevailing frames — hype, doom, or pragmatism — influence how learners and [[teacher-role|educators]] approach the technology.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) Effective framing by instructors often means deliberately countering or redirecting these ambient narratives.
+
+The frame also prices the credential downstream: with ~1,750 US hiring professionals, describing student AI use as substitution rather than assistance lowered interview likelihood and salary-negotiation willingness, most sharply for high-GPA applicants ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## Practical guidance
 

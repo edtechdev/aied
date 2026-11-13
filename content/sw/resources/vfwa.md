@@ -1,7 +1,7 @@
 ---
-title: "Tathmini ya Maandishi Inayotanguliza Sauti (VFWA)"
+title: "Tathmini ya Maandishi Inayotanguliza Sauti"
 created: "2026-11-12T14:15:00-05:00"
-updated: "2026-11-12T14:15:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Muundo wa tathmini wa hatua mbili pamoja na mwongozo wa utekelezaji: kunasa kwa uangalizi na bila alama hoja ya mwanafunzi kuhusu ilani asiyoiona kabla, kikifuatiwa na kazi ya maandishi yenye alama inayokamilishwa nyumbani huku zana za AI zikiwa hazizuiliwi, ikihusishwa na hatua ya kwanza kwa hukumu inayotegemea ushahidi, na viva ya masharti pale kaitan hiyo haiko wazi."
 url: https://kellywebbdavies.com/vfwa/

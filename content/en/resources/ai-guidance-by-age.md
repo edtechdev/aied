@@ -1,7 +1,7 @@
 ---
-title: "AI Guidance by Age (Compass Collaborative)"
+title: "AI Guidance by Age"
 created: "2026-11-12T13:48:40-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "An interactive guide from Harvard's Compass Collaborative that pairs nine age bands from 0–2 to 26–40 with ten developmental domains, and asks at each intersection what is developing, what AI research exists, and how AI might help or hinder — explicitly as hypotheses rather than findings."
 url: https://compass.gse.harvard.edu/explore/

@@ -1,7 +1,7 @@
 ---
-title: "conText (AIdeaText)"
+title: "conText"
 created: "2026-11-12T19:20:00-05:00"
-updated: "2026-11-12T19:20:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Bir defter sayfasının fotoğrafını, bir PDF'yi ya da bir metni okuyan, sonra öğrenciyle İngilizce veya İspanyolca Sokratik bir biçimde konuşarak konuştukça bağladığı fikirlerin canlı grafiğini çizen ücretsiz bir tarayıcı özel dersi."
 url: https://context.aideatext.ai/?lang=en

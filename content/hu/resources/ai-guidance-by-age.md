@@ -1,7 +1,7 @@
 ---
-title: "MI-útmutató életkor szerint (Compass Collaborative)"
+title: "MI-útmutató életkor szerint"
 created: "2026-11-12T14:10:00-05:00"
-updated: "2026-11-12T14:10:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "A Harvard Compass Collaborative interaktív útmutatója, amely kilenc életszakaszt (0–2-től 26–40-ig) párosít tíz fejlődési területtel, és minden metszéspontban azt kérdezi, mi van fejlődésben, milyen MI-kutatás létezik, és hogyan segíthet vagy akadályozhat a MI — kifejezetten hipotézisként, nem eredményként."
 url: https://compass.gse.harvard.edu/explore/

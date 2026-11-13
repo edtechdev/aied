@@ -1,7 +1,7 @@
 ---
-title: "Ses Öncelikli Yazılı Değerlendirme (VFWA)"
+title: "Ses Öncelikli Yazılı Değerlendirme"
 created: "2026-11-12T13:40:00-05:00"
-updated: "2026-11-12T13:40:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "İki aşamalı bir değerlendirme modeli ve uygulama kılavuzu: öğrencinin daha önce görmediği bir istem üzerindeki akıl yürütmesinin gözetim altında, not verilmeden kaydedilmesi; ardından evde YZ araçları sınırsızken tamamlanan notlandırılmış yazılı teslim; iki aşama kanıtsal bir yargıyla birbirine bağlanıyor ve bu bağın belirsiz kaldığı durumlar için koşullu bir sözlü sınav öngörülüyor."
 url: https://kellywebbdavies.com/vfwa/

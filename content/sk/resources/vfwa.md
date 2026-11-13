@@ -1,7 +1,7 @@
 ---
-title: "Písomné hodnotenie vychádzajúce z hlasu (VFWA)"
+title: "Písomné hodnotenie vychádzajúce z hlasu"
 created: "2026-11-12T14:05:00-05:00"
-updated: "2026-11-12T14:05:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Dvojfázový model hodnotenia a príručka na implementáciu: pozorované, neznámkované zachytenie uvažovania študenta na nevidený podnet, po ktorom nasleduje známkované písomné zadanie vypracované doma s neobmedzenými nástrojmi AI, prepojené s prvou fázou dôkazovým posúdením, s podmienečnou ústnou obhajobou v prípadoch, keď je toto prepojenie nejasné."
 url: https://kellywebbdavies.com/vfwa/

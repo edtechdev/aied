@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T12:55:00-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -50,6 +50,7 @@ A distinct authorship condition, not only a threat to authorship: when self-form
 - **A stated purpose does not necessarily govern an AI decision.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] interviewed 14 undergraduates and coded each interview for the relationship between the student's [[self-determination-theory|purpose]] — a personally meaningful intention to contribute beyond the self — and their AI choices. Only some made the connection: one refused AI because its environmental and human costs contradicted her purpose, and three let future professional identity shape their choices ("contributes to the psychologist that I will be out in the world one day"). Others with an equally clear sense of purpose made no such link, describing purpose and AI as "kind of separate," so having an identity to protect was not the same as drawing on it. The paper also separates the reasons students give for keeping work their own — skill development, [[evaluative-judgment|ownership and pride]], and moral objection — which arrive through different mechanisms and should not be pooled into one motive.
 
 - **Capability can arrive before belonging.** A 73-day autoethnography of a bioinformatics educator building a game in an unfamiliar domain found that [[generative-ai|GenAI]] supplied the capability but not the identity: belonging came through communities-of-practice participation and repeated sensemaking, and attaining it took a human pace ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- Refusal is also identity work: among five secondary apprentices of color, non-use asserted control, complied with institutional rules, or signaled epistemic values, while neutral AI responses produced a "cultural flatness" that left their experiences unrecognized ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Relationship to learner agency
 

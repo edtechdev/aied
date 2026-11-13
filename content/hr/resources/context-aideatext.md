@@ -1,7 +1,7 @@
 ---
-title: "conText (AIdeaText)"
+title: "conText"
 created: "2026-11-12T19:15:00-05:00"
-updated: "2026-11-12T19:45:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Besplatan preglednik-podučavatelj koji pročita fotografiju bilježnice, PDF ili tekst i zatim provodi učenika kroz njega sokratski na engleskom ili španjolskom, crtajući uživo graf ideja koje povezuje dok govori."
 url: https://context.aideatext.ai/?lang=en

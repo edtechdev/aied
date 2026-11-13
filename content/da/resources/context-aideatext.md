@@ -1,7 +1,7 @@
 ---
-title: "conText (AIdeaText)"
+title: "conText"
 created: "2026-11-12T11:04:00-05:00"
-updated: "2026-11-12T11:38:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "En gratis browsertutor, der læser et foto af en notesbog, en PDF eller en tekst og derefter taler den studerende igennem det sokratisk på engelsk eller spansk, mens den tegner en levende graf over de idéer, de forbinder, mens de taler."
 url: https://context.aideatext.ai/?lang=en

@@ -1,7 +1,7 @@
 ---
-title: "Wskazówki dotyczące AI według wieku (Compass Collaborative)"
+title: "Wskazówki dotyczące AI według wieku"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-12T13:39:44-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Interaktywny przewodnik Compass Collaborative przy Harvardzie, który łączy dziewięć przedziałów wiekowych od 0–2 do 26–40 z dziesięcioma domenami rozwojowymi i przy każdym przecięciu pyta, co się rozwija, jakie badania nad AI istnieją i jak AI może pomagać lub przeszkadzać — wprost jako hipotezy, a nie ustalenia."
 url: https://compass.gse.harvard.edu/explore/

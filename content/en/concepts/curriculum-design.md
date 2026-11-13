@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T13:05:00-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -41,6 +41,8 @@ Reviewing the change as systemic rather than additive, [[rewriting-curriculum-ge
 Weighting changes what a curriculum analysis reports: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]] had GPT-o3-mini distribute 100% across seven enterprise skills for each of 48 assessments, reaching a Krippendorff's alpha of 0.81 against expert weights, but agreement turned negative for skills the descriptions never state explicitly (-0.19).
 
 **Modular structure outlasts current content.** A pattern recurs where the field moves faster than the review cycle: a stable core of [[ai-literacy|AI literacy]], critical appraisal, bias detection and [[ethics]], with specialty and locally available tool content attached as modules and revisited every six to twelve months ([[bursic-ai-residency-education-curriculum-2026|Bursic et al. (2026)]]). Postgraduate [[medical-education|medical education]] is the stated case, but the principle generalizes: the program commits to competencies that survive tool turnover and schedules the tool-specific layer for replacement.
+
+**Ethics content needs a coping framework, not just awareness.** Among 584 undergraduates with no AI curriculum, competence raised ethical awareness (β = 0.644), which raised anxiety (β = 0.439); naming problems without teaching how they are governed makes awareness the stressor ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]).
 
 **AI literacy integration** embeds AI competencies across disciplines. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** provides a scaffolded AI literacy framework applicable across all ages and educational stages, addressing second- and third-level [[digital-divide|digital divides]]. **[[tracing-genai-literacy-interaction-patterns]]** examines how AI literacy develops through interaction patterns. **[[hingle-collaborative-ai-literacy-2025]]** explores collaborative approaches to AI literacy curriculum development, connecting to [[collaborative-learning]].
 

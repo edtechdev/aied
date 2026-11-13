@@ -1,7 +1,7 @@
 ---
-title: "conText (AIdeaText)"
+title: "conText"
 created: "2026-11-12T11:30:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "노트 사진, PDF 또는 텍스트를 읽고 학생과 소크라테스식으로 대화하며, 학생이 말하는 동안 연결한 아이디어를 실시간 그래프로 그려 주는 무료 브라우저 튜터입니다. 영어와 스페인어로 작동합니다."
 url: https://context.aideatext.ai/?lang=en

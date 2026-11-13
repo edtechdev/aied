@@ -1,7 +1,7 @@
 ---
-title: "KI-Orientierung nach Alter (Compass Collaborative)"
+title: "KI-Orientierung nach Alter"
 created: "2026-11-12T13:44:00-05:00"
-updated: "2026-11-12T13:44:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Ein interaktiver Leitfaden der Compass Collaborative an der Harvard Graduate School of Education, der neun Altersstufen von 0–2 bis 26–40 mit zehn Entwicklungsbereichen verbindet und an jeder Schnittstelle fragt, was sich gerade entwickelt, welche KI-Forschung es gibt und wie KI helfen oder schaden könnte – ausdrücklich als Hypothesen, nicht als Befunde."
 url: https://compass.gse.harvard.edu/explore/

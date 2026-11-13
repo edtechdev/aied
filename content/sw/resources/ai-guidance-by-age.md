@@ -1,7 +1,7 @@
 ---
-title: "Mwongozo wa AI kwa Umri (Compass Collaborative)"
+title: "Mwongozo wa AI kwa Umri"
 created: "2026-11-12T14:35:00-05:00"
-updated: "2026-11-12T14:35:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Mwongozo unaoingiliana kutoka Compass Collaborative ya Harvard unaounganisha makundi tisa ya umri kuanzia 0–2 hadi 26–40 na nyanja kumi za maendeleo, na kuuliza katika kila makutano kile kinachokua, utafiti gani wa AI upo, na jinsi AI inaweza kusaidia au kuzuia — kwa uwazi kama dhana za kudhaniwa badala ya matokeo ya utafiti."
 url: https://compass.gse.harvard.edu/explore/

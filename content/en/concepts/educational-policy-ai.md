@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T13:05:00-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -76,6 +76,8 @@ The student side of task-level regulation is equally policy-shaped. With two of 
 ### Assessment policy: boundaries, oversight and attack surfaces
 
 **The boundary–evidence gap in assessment policy.** A 30-university audit of public [[generative-ai|GenAI]] assessment guidance ([[credential-cognitive-stewardship-ai-assessment|Yao 2026]]) finds that institutional policies are better at *classifying* AI use than at explaining what evidence of learning remains valid under each class: the mean delegation-boundary score (2.47/4) exceeded the mean evidence-standard score (1.89/4), safeguards were sparse (2.75 of 8), and guidance was clearest for final-output substitution. The framework of *cognitive stewardship* argues that policies must make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions protect fair evidence — rather than merely monitor AI use.
+
+**Policy form does not predict practice.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] found mandate, framework and guidance institutions spread across the exposure range of 53,915 Australian assessment items, so a prescriptive central policy did not accompany less AI-vulnerable assessment.
 
 **Over-inclusive prohibition language and misapplied rules.** A rule's scope is a policy decision with consequences beyond compliance. [[wright-transcription-not-generation-2026|Wright (2026)]] argues that the blanket prohibitions written across [[higher-ed|higher education]] since 2023 bar "generative AI" without the technical precision to separate content generation from AI-powered format conversion — optical character recognition, handwritten text recognition and speech-to-text are recognition [[ai-technologies|technologies]] that infer what a student already wrote rather than producing new content. On this reading, sanctioning transcription-only use is best characterized as policy misapplication rather than misconduct, and the cost of imprecision falls unevenly: [[equity-in-ai-education|equity]]-exposed and [[inclusive-learning|disabled students]] who rely on those tools carry disproportionate false-positive risk, an exposure that [[legal-issues-and-risks|legal issues and risks]] treats as a reasonable-adjustment question rather than an integrity one.
 

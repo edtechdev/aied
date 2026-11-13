@@ -1,7 +1,7 @@
 ---
-title: "Hlasově orientované písemné hodnocení (VFWA)"
+title: "Hlasově orientované písemné hodnocení"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-12T13:39:44-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Dvoufázový model hodnocení a implementační příručka: pozorovaný, neznámkovaný záznam uvažování studenta nad neznámým zadáním, po němž následuje známkovaná písemná práce vypracovaná doma s neomezeným použitím nástrojů AI, propojená s první fází důkazním úsudkem, s podmíněnou ústní obhajobou (viva) v případech, kdy je toto propojení nejasné."
 url: https://kellywebbdavies.com/vfwa/

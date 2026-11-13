@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T12:55:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -64,6 +64,8 @@ Equation-heavy video can be made accessible rather than manually transcribed: a 
 **Formal diagnosis gatekeeping excludes the learners a tool claims to serve.** In [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al.'s (2026)]] scoping review of 40 studies of digital assistive technologies for neurodivergent students, 28 made a formal diagnosis a condition of participation and only three treated the environment rather than the student.
 
 **Accessible tools in practice** shows how AI can expand participation. **[[suacode-african-students-motivations|SuaCode]]** demonstrated that smartphone-based coding courses reach students in low-resource African contexts where fewer than 1% have coding skills. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** worked with blind and low-vision musicians to develop non-visual learning strategies, centering disability-led [[embodied-learning|embodied]] design. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** provides a no-cost, private, multilingual AI thought partner connecting educators with UDL principles. **[[special-r1-rl-special-education|Special-R1]]** extends [[reinforcement-learning|reinforcement learning]] to model cognitive and communicative diversity across disability profiles.
+
+**Policy lags deployment.** None of the 100 top-ranked universities had an AI accessibility policy even though 93% deployed AI-powered campus services ([[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]).
 
 ### Connections to related concepts
 

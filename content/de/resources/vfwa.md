@@ -1,7 +1,7 @@
 ---
-title: "Sprachzentrierte schriftliche Leistungsbewertung (VFWA)"
+title: "Sprachzentrierte schriftliche Leistungsbewertung"
 created: "2026-11-12T13:41:00-05:00"
-updated: "2026-11-12T13:41:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Ein zweistufiges Bewertungsmodell mit Umsetzungsleitfaden: eine beobachtete, unbenotete Erfassung des Denkens einer studierenden Person zu einer unbekannten Aufgabe, gefolgt von einer benoteten schriftlichen Abgabe, die zu Hause mit uneingeschränkt zugänglichen KI-Werkzeugen entsteht, über ein evidentielles Urteil mit der ersten Stufe verknüpft und bei unklarem Zusammenhang durch eine bedingte mündliche Prüfung ergänzt."
 url: https://kellywebbdavies.com/vfwa/

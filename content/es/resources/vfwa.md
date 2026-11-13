@@ -1,7 +1,7 @@
 ---
-title: "Evaluación escrita a partir de la voz (VFWA)"
+title: "Evaluación escrita a partir de la voz"
 created: "2026-11-12T13:41:00-05:00"
-updated: "2026-11-12T13:41:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Un modelo de evaluación en dos etapas y una guía de implementación: una captura observada y no calificada del razonamiento de un estudiante ante un enunciado inédito, seguida de una entrega escrita calificada que se completa en casa con herramientas de IA sin restricciones, vinculada a la primera etapa mediante un juicio probatorio, con una defensa oral condicional para los casos en que ese vínculo no está claro."
 url: https://kellywebbdavies.com/vfwa/

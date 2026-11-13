@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T13:05:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -127,6 +127,7 @@ For task design the claim is that rigor and commitment interact rather than add.
 - **Address academic integrity constructively.** Move from policing AI use toward building [[ai-literacy]] and ethical-use framing that lets students use AI without unintentional misconduct.
 
 - **Detection is not an integrity strategy for writing.** [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] argue detector scores cannot meet the balance-of-probabilities standard integrity cases require and that the human-or-AI dichotomy misreads work created *with* rather than *by* AI, recommending institutions move budget from detection and surveillance toward [[assessment|assessment design]] and [[ai-literacy]].
+- **Detectors track polish, not authorship.** In 135,389 edited manuscript pairs, identical human text moved toward or away from 'AI' by detector and edit intensity, so professionally edited non-native writing is systematically flagged ([[park-style-confound-ai-detection-non-native-writing-2026|Park et al. (2026)]]).
 
 - **"Feedback and the grade are independent outputs."** They are not, and the order matters: told a grade that contradicted the work, **all 22** benchmark models wrote feedback whose tone followed the told grade, and for **eight** the shift per point was at least as large as the shift that came with the work's quality. The measure is a word rule validated on tutoring replies, so it reads tone rather than substance. [[porcaro-ai-grading-benchmark-2026|Produce or check the grade before the feedback is written]].
 

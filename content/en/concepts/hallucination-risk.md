@@ -1,7 +1,7 @@
 ---
 title: Hallucination Risk
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T12:55:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -29,6 +29,8 @@ reviewed_by: [editor]
 Hallucination in educational AI takes several forms: fabricated evidence in [[assessment|student assessment]], over-confident misdiagnosis of learner knowledge, and plausible-sounding but incorrect explanations that students accept as truth. The risk is amplified in education because the asymmetry of knowledge between AI and learner means the learner is poorly positioned to verify AI outputs. A further setting is AI-generated course readings that stand in for a textbook: in a graduate course that replaced its commercial text this way, only about 0.80% of 4,487 logged pages carried an APA-style in-text citation and DOI strings were essentially absent, so most claims could not be audited from within the artifact ([[sidorkin-ai-generated-course-readings-2026|Sidorkin, 2026]]). That traceability gap is distinct from a wrong answer, because the text reads as authoritative while offering limited internal means of confirmation.
 
 A 125-study review puts a range on the prevalence and the detection gap: hallucination rates of 10–40%, with medical students detecting AI errors only 44–55% of the time ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
+
+The risk is also language-dependent: [[genai-l2-written-feedback-scoping-review-2026|Crosthwaite and Sun (2026)]] found error detection strong for English but weaker for Greek and Chinese, with hallucinations and misreadings of author intent in L2 writing feedback.
 
 **Memory distortion after the output.** A 2026 experiment found that a misleading AI summary did more than misinform: it changed what 328 adults remembered about a video they had seen. Only 44.8% who read the misleading summary later identified the critical detail correctly, against 83.6% who read a consistent one, and the effect held when the summary was labeled human-written ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). Omission was the most common error in the companion audit: all 20 summaries contained mistakes, and 95% omitted the collision itself. The study did not test students, but it shows why a hallucination check that ends at the text is incomplete: the error can persist in the reader's memory after the text is gone.
 

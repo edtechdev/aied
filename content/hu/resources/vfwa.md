@@ -1,7 +1,7 @@
 ---
-title: "Hangalapú írásbeli értékelés (VFWA)"
+title: "Hangalapú írásbeli értékelés"
 created: "2026-11-12T14:05:00-05:00"
-updated: "2026-11-12T14:05:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Kétlépcsős értékelési modell és bevezetési útmutató: egy diák érvelésének megfigyelt, nem osztályozott rögzítése egy nem látott promptra, majd egy otthon, korlátozás nélküli MI-eszközökkel elkészített, osztályozott írásbeli beadandó, amelyet bizonyítékértékelés kapcsol az első szakaszhoz, és feltételes szóbeli vizsga ott, ahol ez a kapcsolat nem egyértelmű."
 url: https://kellywebbdavies.com/vfwa/

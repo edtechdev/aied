@@ -1,7 +1,7 @@
 ---
-title: "Valutazione scritta voice-first (VFWA)"
+title: "Valutazione scritta voice-first"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-12T13:39:44-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Un modello di valutazione in due fasi e una guida all'implementazione: una rilevazione osservata e non valutata del ragionamento di uno studente su un prompt inedito, seguita da una consegna scritta valutata e svolta a casa con strumenti di IA senza restrizioni, collegata alla prima fase da un giudizio probatorio, con una discussione orale condizionale nei casi in cui quel legame non è chiaro."
 url: https://kellywebbdavies.com/vfwa/

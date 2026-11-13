@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T12:55:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -98,6 +98,7 @@ Because programming is where AI assistance is most powerful, it is also where th
 ### Equity, culture, and who gets into computing
 
 - **Broadening participation:** [[suacode-african-students-motivations|SuaCode]] documents motivations for smartphone-based coding among African students (fewer than 1% of secondary-school leavers have fundamental coding skills), informing accessible AI-supported MOOCs for [[equity-in-ai-education|low-resource contexts]].
+- **AI-free gates, AI-first work.** [[ai-free-gates-engineering-students-india-2026|Goutham and Gu (2026)]] interviewed 23 Indian engineering students: all but one used AI for placement screens that excluded it while employers demanded it, so the filtered grades certify less.
 - **Neurodivergence and collaboration:** [[neurodivergent-computing-students|Neurodivergent computing students]] report discomfort with ambiguous collaboration structures; structured assignments, smaller consistent teams, and explicit roles improve [[accessibility]] — design lessons for the AI tools entering computing classrooms.
 - **Culture shapes perceived ethics:** [[cross-cultural-student-perceptions-genai-computing|Canadian vs. South Korean computing students]] judged identical AI-assisted coding practices differently despite functionally identical policies — policy harmonization does not produce perception harmonization, an [[academic-integrity]] and [[equity-in-ai-education]] concern.
 - **Collaboration [[explainable-ai|transparency]]:** [[student-perception-ai-use-collaboration|Graf et al.]] find that partners' misaligned beliefs about each other's AI use predict lower project scores, especially for lower-performing students — transparency mechanisms (disclosures, shared logs) may be needed in collaborative programming.

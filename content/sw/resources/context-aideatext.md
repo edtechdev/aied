@@ -1,7 +1,7 @@
 ---
-title: "conText (AIdeaText)"
+title: "conText"
 created: "2026-11-12T11:36:00-05:00"
-updated: "2026-11-12T11:36:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Mwalimu wa kivinjari wa bure anayesoma picha ya daftari, PDF au maandishi, kisha anazungumza na mwanafunzi kuyapitia kwa mtindo wa Socratic kwa Kiingereza au Kihispania huku akichora grafu hai ya mawazo anayoyaunganisha anapozungumza."
 url: https://context.aideatext.ai/?lang=en

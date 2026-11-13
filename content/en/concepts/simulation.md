@@ -2,7 +2,7 @@
 connected_resources: [openmaic]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T13:05:00-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -45,6 +45,7 @@ Simulation sits at the core of [[experiential-learning|experiential]] and [[acti
 
 - **Simulated learners:** models of student behavior let [[research-methods-aied|researchers]] and designers test [[intelligent-tutoring|tutoring systems]] and [[curriculum-design|curriculum]] before live deployment, grounding [[student-modeling]] and [[knowledge-tracing]].
 - **Trust and fidelity:** the value of a simulation depends on how faithfully it models the real context — and on the learner's awareness of its limits, connecting to [[trust-calibration]].
+- Student simulators fail the fidelity test where it matters: even the best fine-tuned model missed the errors real students make, and prompting performed worst, so a simulator must be measured before it is trusted ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al. (2026)]]).
 
 - **Human-likeness is a property of the interaction, not the model.** Once both backends were rendered behind the same avatar, a text-based human-likeness advantage disappeared: participants called the commercial model natural (54% versus 22%) while communication performance was identical; voice, latency and turn-taking reshaped how the same dialogue quality was perceived ([[sophie-clinical-communication-ai-assessment-2026|Hasan et al. (2026)]]).
 - **[[generative-ai|GenAI]] in simulation-based learning.** [[genai-scenario-based-healthcare-education-2026|Neto and colleagues (2026)]] [[meta-analysis-systematic-review|systematically review]] GenAI across scenario-, case-, problem-, and simulation-based learning in healthcare education, finding positive outcomes for higher-order cognitive skills but inconsistent results elsewhere, with hybrid [[human-ai-collaboration|human-AI collaboration]] outperforming fully automated approaches. [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger, and Liening (2026)]] develop AI conversational agents for adaptive support in business simulation games, addressing the common gap of limited [[formative-assessment|formative]] feedback and structured reflection in simulation-based learning.

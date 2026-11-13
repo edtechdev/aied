@@ -1,7 +1,7 @@
 ---
-title: "conText (AIdeaText)"
+title: "conText"
 created: "2026-11-12T19:40:00-05:00"
-updated: "2026-11-12T19:40:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Ingyenes böngészős tutor, amely beolvassa egy füzet fotóját, egy PDF-et vagy egy szöveget, majd szókratészi módon végigvezeti rajta a diákot angolul vagy spanyolul, miközben élő gráfot rajzol azokról az ötletekről, amelyeket beszéd közben összekapcsol."
 url: https://context.aideatext.ai/?lang=en

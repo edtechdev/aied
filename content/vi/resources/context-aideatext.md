@@ -1,7 +1,7 @@
 ---
-title: "conText (AIdeaText)"
+title: "conText"
 created: "2026-11-12T11:30:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Gia sư trên trình duyệt miễn phí đọc ảnh chụp vở ghi, PDF hoặc văn bản, rồi dẫn dắt sinh viên theo kiểu Socrates bằng tiếng Anh hoặc tiếng Tây Ban Nha trong khi vẽ trực tiếp đồ thị các ý tưởng họ kết nối khi nói."
 url: https://context.aideatext.ai/?lang=en

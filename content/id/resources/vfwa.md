@@ -1,7 +1,7 @@
 ---
-title: "Asesmen Tertulis Berbasis Suara (VFWA)"
+title: "Asesmen Tertulis Berbasis Suara"
 created: "2026-11-12T14:10:00-05:00"
-updated: "2026-11-12T14:10:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Model asesmen dua tahap beserta panduan penerapannya: perekaman dengan pengawasan dan tanpa nilai atas penalaran siswa pada prompt yang belum pernah dilihat, disusul tugas tertulis bernilai yang diselesaikan di rumah dengan alat AI tanpa batasan, dihubungkan ke tahap pertama lewat pertimbangan berbasis bukti, dengan viva bersyarat untuk kasus ketika kaitan itu tidak jelas."
 url: https://kellywebbdavies.com/vfwa/

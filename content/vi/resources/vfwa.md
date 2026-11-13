@@ -1,7 +1,7 @@
 ---
-title: "Đánh giá viết ưu tiên giọng nói (VFWA)"
+title: "Đánh giá viết ưu tiên giọng nói"
 created: "2026-11-12T14:05:00-05:00"
-updated: "2026-11-12T14:05:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Một mô hình đánh giá hai giai đoạn kèm hướng dẫn triển khai: ghi nhận có quan sát và không cho điểm phần lập luận của sinh viên trước một đề bài chưa từng thấy, sau đó là bài nộp viết có điểm hoàn thành ở nhà với công cụ AI được dùng không hạn chế, gắn với giai đoạn đầu bằng một phán đoán dựa trên bằng chứng, cùng buổi vấn đáp có điều kiện cho những trường hợp mối liên kết đó không rõ ràng."
 url: https://kellywebbdavies.com/vfwa/

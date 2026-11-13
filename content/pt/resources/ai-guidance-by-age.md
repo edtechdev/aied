@@ -1,7 +1,7 @@
 ---
-title: "Orientação sobre IA por idade (Compass Collaborative)"
+title: "Orientação sobre IA por idade"
 created: "2026-11-12T13:44:00-05:00"
-updated: "2026-11-12T13:44:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Um guia interativo do Compass Collaborative, da Harvard Graduate School of Education, que combina nove faixas etárias, de 0–2 a 26–40, com dez domínios do desenvolvimento e, em cada interseção, pergunta o que está se desenvolvendo, que pesquisa sobre IA existe e como a IA pode ajudar ou atrapalhar — explicitamente como hipóteses, não como achados."
 url: https://compass.gse.harvard.edu/explore/

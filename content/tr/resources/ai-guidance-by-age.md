@@ -1,7 +1,7 @@
 ---
-title: "Yaşa Göre YZ Rehberliği (Compass Collaborative)"
+title: "Yaşa Göre YZ Rehberliği"
 created: "2026-11-12T13:41:00-05:00"
-updated: "2026-11-12T13:41:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Harvard'ın Compass Collaborative girişiminden, 0–2'den 26–40'a dokuz yaş bandını on gelişim alanıyla eşleştiren ve her kesişimde neyin gelişmekte olduğunu, hangi YZ araştırmasının bulunduğunu ve YZ'nin nasıl yardımcı olabileceğini ya da engel olabileceğini soran etkileşimli bir kılavuz — bunları bulgu olarak değil açıkça hipotez olarak sunuyor."
 url: https://compass.gse.harvard.edu/explore/

@@ -1,7 +1,7 @@
 ---
-title: "conText (AIdeaText)"
+title: "conText"
 created: "2026-11-12T11:36:00-05:00"
-updated: "2026-11-12T11:36:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Tutor peramban gratis yang membaca foto buku catatan, PDF, atau teks, lalu menuntun siswa melaluinya secara Sokratik dalam bahasa Inggris atau Spanyol sambil menggambar grafik hidup dari gagasan yang mereka hubungkan saat berbicara."
 url: https://context.aideatext.ai/?lang=en

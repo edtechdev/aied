@@ -1,7 +1,7 @@
 ---
 title: Reflection
 created: "2026-11-04T09:37:20-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T13:05:00-05:00"
 type: concept
 foundations: [ai-literacy, academic-integrity]
 pedagogy: [reflection, metacognition, self-regulated-learning, scaffolding]
@@ -142,6 +142,7 @@ A starter prompt that survives most of the failure modes above: *(1) What did yo
 - **Grade what you can defend.** Specificity, evidence of a decision, revision reasoning and honesty about what went wrong are gradeable. Sincerity is not, and a fluent model can imitate the surface of all of it.
 - **Pair the artifact with something expensive to delegate.** A short verbal defense, a live revision, or a decision that has consequences — the Prober system's reflective gate and Issa and Hall's per-member verification meetings are two working patterns.
 - **Watch what grading does to the act.** When self-reflection is graded it risks becoming performative, so state what the reflection is *not* assessed for and keep at least some reflection ungraded.
+- [[this-is-how-we-ai-teaching-guide-2026|Hanshaw, Brewer and Hunt (2026)]] weight a course 60% product, 20% process documentation and 20% reflection on AI use, so the journey is graded alongside the destination.
 - **Never treat a score as proof of thinking.** Depth classifiers estimate how reflective a text reads, which is a property a fluent second draft can manufacture.
 
 ### Sustaining the routine

@@ -1,7 +1,7 @@
 ---
-title: "Îndrumări despre IA pe vârste (Compass Collaborative)"
+title: "Îndrumări despre IA pe vârste"
 created: "2026-11-12T14:10:00-05:00"
-updated: "2026-11-12T14:10:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Un ghid interactiv al Compass Collaborative de la Harvard care îmbină nouă benzi de vârstă, de la 0–2 la 26–40, cu zece domenii de dezvoltare și întreabă, la fiecare intersecție, ce se dezvoltă, ce cercetare despre IA există și cum ar putea IA să ajute sau să împiedice — explicit ca ipoteze, nu ca rezultate."
 url: https://compass.gse.harvard.edu/explore/

@@ -1,7 +1,7 @@
 ---
-title: "연령별 AI 지침(Compass Collaborative)"
+title: "연령별 AI 지침"
 created: "2026-11-12T14:20:00-05:00"
-updated: "2026-11-12T14:20:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "하버드 Compass Collaborative의 인터랙티브 안내서로, 0–2세부터 26–40세까지의 아홉 연령대와 열 가지 발달 영역을 짝지어 각 교차점에서 무엇이 발달 중인지, 어떤 AI 연구가 있는지, AI가 어떻게 도움이 되거나 방해할 수 있는지를 — 결론이 아니라 가설로서 명시적으로 — 묻습니다."
 url: https://compass.gse.harvard.edu/explore/

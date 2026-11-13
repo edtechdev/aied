@@ -1,7 +1,7 @@
 ---
-title: "conText (AIdeaText)"
+title: "conText"
 created: "2026-11-12T11:07:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Bezplatný tutor v prohlížeči, který přečte fotografii sešitu, PDF nebo text a potom provede studenta tímto materiálem sokratovskou metodou v angličtině nebo španělštině a přitom živě kreslí graf nápadů, které student během mluvení propojuje."
 url: https://context.aideatext.ai/?lang=en

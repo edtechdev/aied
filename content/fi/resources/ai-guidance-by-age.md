@@ -1,7 +1,7 @@
 ---
-title: "AI-ohjeistus iän mukaan (Compass Collaborative)"
+title: "AI-ohjeistus iän mukaan"
 created: "2026-11-12T13:54:00-05:00"
-updated: "2026-11-12T13:54:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Harvardin Compass Collaborativen interaktiivinen opas, joka yhdistää yhdeksän ikähaarukkaa väliltä 0–2 välille 26–40 kymmeneen kehitykselliseen alueeseen ja kysyy jokaisessa leikkauspisteessä, mitä on kehittymässä, mitä AI-tutkimusta on olemassa ja miten AI voi auttaa tai haitata – nimenomaisesti hypoteeseina eikä löydöksinä."
 url: https://compass.gse.harvard.edu/explore/

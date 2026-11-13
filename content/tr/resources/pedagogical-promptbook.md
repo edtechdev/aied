@@ -1,5 +1,5 @@
 ---
-title: "Pedagojik İstek Metni Kitabı (The Pedagogical Promptbook)"
+title: "Pedagojik İstek Metni Kitabı"
 created: "2026-10-14T21:45:00-04:00"
 type: resource
 summary: "Kanıta dayalı öğretim ve öğretim tasarımı uygulamaları için değerlendirilmiş istek metinlerini (prompt) içeren, açık erişimli bir kitap; her bölüm istek metnini, geliştirme sürecini ve değerlendirme sonuçlarını yayımlar."

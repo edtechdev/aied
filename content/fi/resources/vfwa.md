@@ -1,7 +1,7 @@
 ---
-title: "Äänilähtöinen kirjallinen arviointi (VFWA)"
+title: "Äänilähtöinen kirjallinen arviointi"
 created: "2026-11-12T13:52:00-05:00"
-updated: "2026-11-12T13:52:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Kaksivaiheinen arviointimalli ja käyttöönottopas: havainnoitu, arvioimaton tallenne opiskelijan päättelystä ennalta näkemättömästä tehtävästä, jota seuraa kotona tehtävä arvioitu kirjallinen palautus, jossa AI-työkalut ovat vapaasti käytössä, yhdistettynä ensimmäiseen vaiheeseen näyttöarvion kautta, sekä ehdollinen suullinen kuulustelu tapauksissa, joissa yhteys on epäselvä."
 url: https://kellywebbdavies.com/vfwa/

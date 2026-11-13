@@ -1,7 +1,7 @@
 ---
-title: "Ocena pisemna oparta na głosie (VFWA)"
+title: "Ocena pisemna oparta na głosie"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-12T13:39:44-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Dwuetapowy model oceny i przewodnik wdrożeniowy: obserwowana i nieoceniana rejestracja rozumowania studenta nad nieznanym wcześniej poleceniem, po której następuje oceniana praca pisemna przygotowywana w domu bez ograniczeń w korzystaniu z narzędzi AI, powiązana z pierwszym etapem za pomocą osądu dowodowego, z warunkową obroną ustną (viva) w przypadkach, gdy to powiązanie jest niejasne."
 url: https://kellywebbdavies.com/vfwa/

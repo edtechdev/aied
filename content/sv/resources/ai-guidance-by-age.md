@@ -1,7 +1,7 @@
 ---
-title: "AI-vägledning efter ålder (Compass Collaborative)"
+title: "AI-vägledning efter ålder"
 created: "2026-11-12T13:54:00-05:00"
-updated: "2026-11-12T13:54:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "En interaktiv guide från Harvards Compass Collaborative som parar nio åldersband från 0–2 till 26–40 med tio utvecklingsdomäner och vid varje skärningspunkt frågar vad som utvecklas, vilken AI-forskning som finns och hur AI kan hjälpa eller hindra – uttryckligen som hypoteser snarare än forskningsresultat."
 url: https://compass.gse.harvard.edu/explore/

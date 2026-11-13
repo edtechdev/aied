@@ -1,7 +1,7 @@
 ---
-title: "Vibe-Coding Center (VCC)"
+title: "Vibe-Coding Center"
 created: "2026-11-13T08:43:40-05:00"
-updated: "2026-11-13T09:00:00-05:00"
+updated: "2026-11-13T12:45:00-05:00"
 type: resource
 summary: "An educator's field guide to building a static educational website with an AI coding assistant: three Markdown instruction files for design, security and student privacy, with readable guides and a downloadable bundle."
 url: https://mguhlin.github.io/vcc/
@@ -26,7 +26,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-**The Vibe-Coding Center (VCC)** is Miguel Guhlin's free field guide for a teacher who wants to [[vibe-coding|vibe-code]] a small static educational site with an AI coding assistant — an exit ticket, a quiz, a class portfolio — without shipping an exposed API key or student data along with it.
+**The Vibe-Coding Center** is Miguel Guhlin's free field guide for a teacher who wants to [[vibe-coding|vibe-code]] a small static educational site with an AI coding assistant — an exit ticket, a quiz, a class portfolio — without shipping an exposed API key or student data along with it.
 
 ## What you can do with it
 
@@ -40,7 +40,7 @@ Teachers and [[learning-design|instructional designers]] in K-12 and higher educ
 
 ## Notes and caveats
 
-VCC is guidance, not a compliance product: the site makes no conformance claim for its own WCAG 2.2 AA target, answers "does using these files make my site compliant?" with no, and says an engineering review does not replace school authorization or legal review. The security shelf points at axe-core, Gitleaks, ZAP and Playwright; those are references rather than bundled software, and the invasive ones are meant for a disposable or explicitly authorized target. Reading needs no account. Rebuilding the HTML pages needs Python and `markdown-it-py`, which is a build dependency and not a visitor dependency. The repository is MIT-licensed, while third-party artwork and the linked projects keep their own terms, documented in `CREDITS.md`.
+The center is guidance, not a compliance product: the site makes no conformance claim for its own WCAG 2.2 AA target, answers "does using these files make my site compliant?" with no, and says an engineering review does not replace school authorization or legal review. The security shelf points at axe-core, Gitleaks, ZAP and Playwright; those are references rather than bundled software, and the invasive ones are meant for a disposable or explicitly authorized target. Reading needs no account. Rebuilding the HTML pages needs Python and `markdown-it-py`, which is a build dependency and not a visitor dependency. The repository is MIT-licensed, while third-party artwork and the linked projects keep their own terms, documented in `CREDITS.md`.
 
 ## Connected Concepts
 

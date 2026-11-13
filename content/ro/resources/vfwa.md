@@ -1,7 +1,7 @@
 ---
-title: "Evaluarea scrisă pornind de la voce (VFWA)"
+title: "Evaluarea scrisă pornind de la voce"
 created: "2026-11-12T14:05:00-05:00"
-updated: "2026-11-12T14:05:00-05:00"
+updated: "2026-11-13T12:50:00-05:00"
 type: resource
 summary: "Un model de evaluare în două etape și un ghid de implementare: o înregistrare observată și nenotată a raționamentului unui student pe un prompt nevăzut, urmată de o lucrare scrisă notată, realizată acasă cu instrumente de IA fără restricții, legată de prima etapă printr-o judecată bazată pe dovezi, cu o susținere orală condiționată în cazurile în care această legătură este neclară."
 url: https://kellywebbdavies.com/vfwa/

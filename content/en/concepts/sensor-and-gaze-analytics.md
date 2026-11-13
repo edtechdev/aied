@@ -1,7 +1,7 @@
 ---
 title: Sensor and Gaze Analytics
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T12:55:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -44,6 +44,8 @@ A [[meta-analysis-systematic-review|systematic review]] of 23 studies pairing AI
 **Gaze and fixation.** Eye trackers report where the eye points, how long it dwells, when it saccades, and how widely it disperses. Screen-based systems such as WebGazer estimate gaze from a webcam, while glasses track the eye directly. TutorLoop converts gaze into two quantities: attention as the percentage of gaze points inside the content area, and workload as gaze entropy, on the reasoning that dispersed gaze tracks cognitive load ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Ollie, a gaze-informed assistant for children, instead defines areas of interest in a picture and triggers narration when a child looks at one ([[gaze-informed-ai-children|Wu et al., 2026]]).
 
 **Electroencephalography.** EEG records voltage fluctuations across the scalp at high temporal resolution. It is the only signal in this family that reaches cortical activity directly, which is why it attracts assessment research. Practical education systems use dry electrodes and few channels: E3Sense took four dry EEG channels at 125 Hz and analyzed two frontal ones ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]). Research-grade rigs take the opposite approach: Kosmyna et al. (2025) used 32-channel EEG to compare students writing with an [[llm|LLM]], a search engine, or no tool, and found the weakest neural connectivity in the LLM group ([[your-brain-on-chatgpt-cognitive-debt-essay-writing|Kosmyna et al., 2025]]). That study is also the clearest warning about single-channel evidence, since its central claim rests on an optional crossover session that only 18 of 54 participants attended.
+
+**fNIRS hyperscanning.** Recording two learners at once measures interbrain synchrony, not one brain: [[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]] found human-attributed exemplars raised premotor synchrony and idea uniqueness, AI attribution lowered it, and neither behavioral gain survived withdrawal.
 
 **Electrodermal activity.** EDA measures sweat-gland conductance, an index of sympathetic arousal. It responds to stress, effort, and emotional intensity, and it cannot distinguish among them. The same construct appears in wristbands and in forehead electrodes fixed a few centimeters apart by an eye-tracker frame ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]).
 
