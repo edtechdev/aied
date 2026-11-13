@@ -6,7 +6,7 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-13T13:20:00-05:00"
 translation_of: concepts/mastery-learning
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
@@ -56,7 +56,7 @@ Bloom의 숙달 학습은 교수의 목표를 "학생들을 적성에 따라 분
 
 마지막으로, 증거는 AI로 생성된 지원이 고르게 유익하다고 가정하는 것에 반대합니다. 초보 프로그래머를 대상으로 한 다기관 [[governance|기관]] 간 연구에서 AI로 생성된 애니메이션 추적(animated traces)의 이점은 맥락 의존적이고 단기적이었으며, 중간 [[student-engagement|참여(engagement)]] 수준의 학습자는 조율 비용에 기인한 수행 저하를 경험했습니다 — 이는 도구를 일률적으로 적용하기보다 학습자의 현재 상태에 맞춰 지원을 개인화해야 함을 보여 주는 전문성 역전(expertise-reversal) 양식의 효과입니다. 이와 마찬가지로, [[higher-ed|고등교육]]에서 [[ai-literacy|AI 리터러시]]의 발달 연속선은 숙달을 단순히 AI 도구를 능숙히 사용하는 것이 아니라, 각자의 [[formative-assessment]] 전략을 지닌 정보에 기반하고 비판적인 사용의 단계들을 거치는 것으로 자리매김합니다. 이 발견들을 종합하면, AI가 가능하게 한 숙달 학습은 개별 학습자에게 보정되고, 지속 가능한 간격으로 유지되며, 유창한 출력이 아닌 진정한 능력에 대해 평가되어야 하는 시스템으로 그려집니다.
 
-- **공유 통제(shared-control) 숙달 학습은 학습자의 과제 선택 전략만큼만 효율적입니다.** 한 시뮬레이션 연구(실행당 1,000명의 [[simulating-students|시뮬레이션 학습자]], 실제 MathTutor 및 DataShop 로그에 맞춰 추정한 AFM과 BKT 매개변수)는 아홉 가지 과제 선택 전략을 비교했습니다. 효율성은 한 자릿수 차이로 달라집니다. 최악의 경우 숙달 손실이 가장 작은 기술을 고르는 위험 회피적 "Minimize Worst Case Loss" 전략은 방정식 풀이에서 30.28배의 과잉 연습을(그래프 해석에서는 28.93배) 낳은 반면, 다른 전략들에서는 평균 1.73 +/- 0.38이었습니다. 표적화된 시스템 제약이 이를 정밀하게 구제합니다. 과제 선택 제약은 과잉 연습을 12.88/14.46배로 줄이고, "Prefer Harder" 편향의 문제 선택은 이를 1.98배로 줄입니다(Cohen's d = 1.86) — 한편 이미 효율적인 전략들은 영향을 받지 않습니다. 설계 시사점: 제약은 전략 인식적이어야 하며, 병리적인 자기 조절자는 보호하되 좋은 전략에는 부담을 주지 말아야 하며, 30배의 과잉 연습에 학생들을 노출해 문제를 발견하기보다 시뮬레이션 우선 재설계가 바람직합니다. ([[noh-simulating-task-selection-2026]])
+- **공유 통제(shared-control) 숙달 학습은 학습자의 과제 선택 전략만큼만 효율적입니다.** 한 시뮬레이션 연구(실행당 1,000명의 [[simulating-students|시뮬레이션 학습자]], 실제 MathTutor 및 DataShop 로그에 맞춰 추정한 AFM과 BKT 매개변수)는 아홉 가지 과제 선택 전략을 비교했습니다. 효율성은 한 자릿수 차이로 달라집니다. 최악의 경우 숙달 손실이 가장 작은 기술을 고르는 위험 회피적 "Minimize Worst Case Loss" 전략은 방정식 풀이에서 30.28배의 과잉 연습을(그래프 해석에서는 28.93배) 낳은 반면, 다른 전략들에서는 평균 1.73 +/- 0.38이었습니다. 표적화된 시스템 제약이 이를 정밀하게 구제합니다. 과제 선택 제약은 과잉 연습을 12.88/14.46배로 줄이고, "Prefer Harder" 편향의 문제 선택은 이를 1.98배로 줄입니다(Cohen's d = 1.86) — 한편 이미 효율적인 전략들은 영향을 받지 않습니다. 설계 시사점: 제약은 전략 인식적이어야 하며, 병리적인 자기 조절자는 보호하되 좋은 전략에는 부담을 주지 말아야 하며, 30배의 과잉 연습에 학생들을 노출해 문제를 발견하기보다 시뮬레이션 우선 재설계가 바람직합니다. ([[simulating-learner-task-selection]])
 
 기준 기반 채점(standards-based grading)은 숙달 학습의 평가적 대응물이며, [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]]는 이를 고등교육 교육자들이 채택할 수 있는 "평가를 통한 학습"에 부합하는 다섯 가지 혁신적 실천 중 하나로 식별하지만 — 경영교육 담론에서는 사실상 사라져 있음을 발견합니다. 저자들은 이를 규범적 장벽에 돌립니다. 규준 참조적인 "커브 채점", 외적 신호(순위, 인턴십, 인증), 그리고 학생들의 도구적 사고방식이 모두 숙달 지향적이고 성적 없는 접근에 저항한다는 것입니다. 그들의 권고는 점진적 실험입니다 — 예를 들어 확대하기 전에 단일 과제에 기준 기반 루브릭을 도입하는 것 — 이며, 프로그램 차원의 조율과 문서화된 교수법(Scholarship of [[teacher-role|Teaching]]) 및 학습 증거가 뒷받침되어야 합니다.
 
@@ -88,5 +88,5 @@ Bloom의 숙달 학습은 교수의 목표를 "학생들을 적성에 따라 분
 - [[neural-symbolic-knowledge-tracing]] — 책임감 있고 해석 가능한 학습자 모델링을 위한 딥러닝에 숙달/비숙달 규칙 주입
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[crediting-assisted-work-inflates-mastery-2026]] — 도움받은 작업을 인정하면 숙달이 부풀려진다: 어떤 증거 규칙이 누구를 숙달로 선언하는지를 결정하는가 (Srivastava 2026)
-- [[noh-simulating-task-selection-2026]] — 숙달 학습에서 학습자의 과제 선택 전략과 시스템 제약 시뮬레이션 (Noh et al. 2026)
+- [[simulating-learner-task-selection]] — 숙달 학습에서 학습자의 과제 선택 전략과 시스템 제약 시뮬레이션 (Noh et al. 2026)
 - [[schuetze-knowledge-tracing-forgetting-2026]] — 지식 추적 모형은 기억 유지를 과대추정한다: 전체 데이터셋 적합이 회고적으로 숨기는 것 (Schuetze, Yan & Carvalho 2025)

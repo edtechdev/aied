@@ -6,7 +6,7 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-13T13:20:00-05:00"
 translation_of: concepts/mastery-learning
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
@@ -55,7 +55,7 @@ Bloom 的掌握学习把教学的目标从"按天资给学生分类"重新框定
 
 最后，证据警告不要假定 AI 生成的支持一律有益。在一项针对新手程序员、多 [[governance|机构]]的 AI 生成动画轨迹研究中，益处是情境依赖且短期的，中等 [[student-engagement|投入]]的学习者经历了归因于协调成本的表现下降——一种专长反转式效应，凸显了有必要把支持个性化到学习者当前状态，而非一刀切地套用工具。同样地，[[higher-ed|高等教育]]中 [[ai-literacy|AI 素养]]的发展连续谱把掌握定位为：不仅是流利地采用 AI 工具，而是要经过知情且批判性使用的各个阶段，每个阶段都有自己的 [[formative-assessment]] 策略。这些发现共同把 AI 赋能的掌握学习框定为：一个必须校准到个体学习者、可持续地间隔、并对真正的胜任力而非流畅产出加以评估的系统。
 
-- **共享控制的掌握学习，其效率取决于学习者的任务选择策略。** 一项模拟研究（每次运行 1,000 名[[simulating-students|模拟学习者]]，AFM 与 BKT 参数拟合真实的 MathTutor 与 DataShop 日志）比较了九种任务选择策略。效率相差一个数量级：风险规避的"最小化最差情况损失"策略——挑选最差情况掌握损失最小的技能——在解方程上产生了 30.28 倍的过度练习（在图形解读上为 28.93 倍），而其他策略平均为 1.73 ± 0.38。针对性的系统约束以外科手术式的方式挽回了局面：任务选择约束把过度练习削减到 12.88/14.46 倍，而问题选择上的"偏向更难"偏向把它削减到 1.98 倍（Cohen's d = 1.86）——而本来高效的策略不受影响。设计启示：约束应当是策略感知的，保护病态的自我调节者而不向好的自我调节者征税，并且先做模拟再重新设计，可避免让学生承受 30 倍过度练习才来发现修法。（[[noh-simulating-task-selection-2026]]）
+- **共享控制的掌握学习，其效率取决于学习者的任务选择策略。** 一项模拟研究（每次运行 1,000 名[[simulating-students|模拟学习者]]，AFM 与 BKT 参数拟合真实的 MathTutor 与 DataShop 日志）比较了九种任务选择策略。效率相差一个数量级：风险规避的"最小化最差情况损失"策略——挑选最差情况掌握损失最小的技能——在解方程上产生了 30.28 倍的过度练习（在图形解读上为 28.93 倍），而其他策略平均为 1.73 ± 0.38。针对性的系统约束以外科手术式的方式挽回了局面：任务选择约束把过度练习削减到 12.88/14.46 倍，而问题选择上的"偏向更难"偏向把它削减到 1.98 倍（Cohen's d = 1.86）——而本来高效的策略不受影响。设计启示：约束应当是策略感知的，保护病态的自我调节者而不向好的自我调节者征税，并且先做模拟再重新设计，可避免让学生承受 30 倍过度练习才来发现修法。（[[simulating-learner-task-selection]]）
 
 标准参照评分是掌握学习的评估对应物，而 [[mesny-innovative-assessment-grading-management-2026|Mesny、Roberge-Maltais 与 Galy（2026）]]把它列为与"为学习而评估"相一致的五项创新实践之一，高等教育教育者本可采用——但他们发现它几乎缺席于管理教育的话语中。他们把这归因于规范性障碍：常模参照的"按曲线评分"、外部信号（排名、实习、认证）以及学生的工具性心态，都在抵制面向掌握的、无等级的做法。他们的建议是渐进式实验——例如，在推广之前先对单一任务引入标准参照评分标准——并以项目层面的协调和记录在案的教学 [[teacher-role|学术]]（Scholarship of Teaching and Learning）证据为支持。
 
@@ -87,7 +87,7 @@ Bloom 的掌握学习把教学的目标从"按天资给学生分类"重新框定
 - [[neural-symbolic-knowledge-tracing]] —— 为负责任、可解释的学习者建模而把掌握/未掌握规则注入深度学习
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[crediting-assisted-work-inflates-mastery-2026]] —— 给受协助的工作计分会虚增掌握：哪条证据规则决定谁被宣布掌握（Srivastava 2026）
-- [[noh-simulating-task-selection-2026]] —— 模拟学习者的任务选择策略与掌握学习中的系统约束（Noh 等 2026）
+- [[simulating-learner-task-selection]] —— 模拟学习者的任务选择策略与掌握学习中的系统约束（Noh 等 2026）
 
 - [[schuetze-knowledge-tracing-forgetting-2026]] —— 知识追踪高估下一次会话的表现并错过间隔效应（Schuetze、Yan 与 Carvalho 2025）
 
