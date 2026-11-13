@@ -1,7 +1,7 @@
 ---
 title: "FPDS Apps and Resources"
 created: "2026-09-25T18:48:15-04:00"
-updated: "2026-10-24T11:51:12-04:00"
+updated: "2026-11-13T08:48:20-05:00"
 type: resource
 summary: "The public resource page of Faculty Professional Development Services at Hillsborough College, collecting its AI design coaches, Canvas courses and accessibility guides in one place."
 url: https://fpdshc.github.io/apps/
@@ -18,7 +18,7 @@ ethics: [accessibility, universal-design-for-learning]
 audience: [instructors, faculty developers, instructional designers]
 level: [higher ed]
 confidence: high
-connected_resources: [eduprompts, gemini-notebook, liascript]
+connected_resources: [eduprompts, gemini-notebook, liascript, vibe-coding-center]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -27,7 +27,7 @@ ai_assist:
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
-    date: "2026-10-24"
+    date: "2026-11-13"
     agent: hermes-agent
 reviewed_by: [editor]
 ---
@@ -36,7 +36,7 @@ reviewed_by: [editor]
 
 ## What you can do with it
 
-The AI section holds four conversational coaches on Playlab: an AI Teaching Coach that pairs what is blocking student success with an evidence-based strategy, an AI Literacy Design Coach that adapts [[ai-literacy]] to a course, an Academic Habits Coach for students, and the AI-Era Assignment Design Coach, which also exists as a NotebookLM notebook and a non-AI worksheet and treats assignments as a matter of balance rather than of being made AI-proof. It also carries a Canvas course of ready-made AI literacy materials, a self-paced AI Petting Zoo tour, a Gemini Gem for designing online modules, and this knowledge base. Accessibility is led by the office's own Canvas checklist, which asks what you are working with and walks pages, images, documents, slides, PDFs, video and links before a course-wide sweep; beside it are the college's Pressbooks book on [[universal-design-for-learning|digital accessibility]] and a Gemini Gem that writes alt text. Teaching collects a handbook course for [[online-teaching-and-learning|Canvas teaching]], a starter kit to copy into your own course, a course of evidence-based strategies with ready-made Canvas items, and an online teaching checklist.
+The AI section holds four conversational coaches on Playlab: an AI Teaching Coach that pairs what is blocking student success with an evidence-based strategy, an AI Literacy Design Coach that adapts [[ai-literacy]] to a course, an Academic Habits Coach for students, and the AI-Era Assignment Design Coach, which also exists as a NotebookLM notebook and a non-AI worksheet and treats assignments as a matter of balance rather than of being made AI-proof. It also carries a Canvas course of ready-made AI literacy materials, a self-paced AI Petting Zoo tour, a Gemini Gem for designing online modules, and this knowledge base. Accessibility is led by the office's own Canvas checklist, which asks what you are working with and walks pages, images, documents, slides, PDFs, video and links before a course-wide sweep; beside it are the college's Pressbooks book on [[universal-design-for-learning|digital accessibility]] and a Gemini Gem that writes alt text. Teaching collects a handbook course for [[online-teaching-and-learning|Canvas teaching]], a starter kit to copy into your own course, a course of evidence-based strategies with ready-made Canvas items, and an online teaching checklist. The hub is itself a static, vibe-coded site — the pattern the [Vibe-Coding Center](/aied/resources/vibe-coding-center/) documents for teachers building their own: plain HTML, CSS and JavaScript on GitHub Pages, no server, and an MIT-licensed repository a department can copy.
 
 ## Who it is for
 

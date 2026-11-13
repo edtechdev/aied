@@ -346,3 +346,8 @@
   - parents-and-families
   - early-childhood-elementary-ai-education
   reason: 'The guide exists to tell caregivers and educators what AI is developmentally appropriate at which age, which is the question the parents-and-families page asks about homes and the early-childhood page asks about the 0-11 band, so both host pages now list it in connected_resources. Not listed on ai-literacy: that page is about teaching the capability, and this resource is guidance about developmental fit rather than a curriculum. Not listed on cognitive-psychology: that page carries the mechanisms, and the guide is a practical instrument built on them.'
+- resource: vibe-coding-center
+  reviewed: '2026-11-13'
+  hosts:
+  - vibe-coding
+  reason: 'VCC is a build procedure for the exact activity the vibe-coding page describes — an educator prompting a static tool into existence and judging it by behavior — so that page now lists it in connected_resources. Not listed on ai-literacy: the page teaches the capability as curriculum, and VCC is a how-to for one artifact. Not listed on learning-design: VCC offers design guidance for a website, not a method for designing learning. Not listed on accessibility: the guides include accessibility checks, but the page is about the standard rather than about building sites.'

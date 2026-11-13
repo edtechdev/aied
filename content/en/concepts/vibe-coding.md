@@ -1,8 +1,8 @@
 ---
-connected_resources: [vibes-diy]
+connected_resources: [vibes-diy, vibe-coding-center]
 title: Vibe Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-13T08:47:10-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,6 +10,11 @@ audience: [instructors, curriculum designers, researchers, software developers]
 level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: link classification
+    date: "2026-11-13"
+    agent: hermes-agent
 reviewed_by: [editor]
 ---
 
