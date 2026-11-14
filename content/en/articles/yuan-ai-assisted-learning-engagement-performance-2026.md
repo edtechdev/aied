@@ -1,7 +1,7 @@
 ---
 title: "The relationship between AI-assisted learning and academic performance through learning engagement"
 created: "2026-11-10T18:19:20-05:00"
-updated: "2026-11-10T18:30:00-05:00"
+updated: "2026-11-14T11:30:00-05:00"
 type: article
 page_kind: [synthesis]
 research_method: [survey, structural equation modeling]
@@ -19,6 +19,10 @@ ai_assist:
     role: drafting
     date: "2026-11-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 verified: [citation, numbers, links]
 foundations: [limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, self-determination-theory]
@@ -29,17 +33,16 @@ institutions: []
 ethics: []
 ---
 
-> **Synthesis:** Yuan, Xiaoying and Wenmin (2026) surveyed 438 [[higher-ed|university]] students in Shanxi Province, China, once, and fitted a structural model in which [[student-engagement|student engagement]] carries part of the association between [[ai-technologies|AI-assisted learning]] and academic achievement. All three constructs were self-rated on five-point [[self-report-measures|self-report]] scales: a new five-item AI-assisted learning measure, nine items adapted from the Utrecht Work Engagement Scale for Students, and four items of perceived [[learning-gains|academic performance]], with a self-reported GPA item set aside rather than modeled. Paths ran at β = 0.52 from AI-assisted learning to engagement, β = 0.41 from engagement to performance and β = 0.18 direct, giving a standardized indirect effect of 0.21 (95% bootstrap CI 0.15, 0.28) against a total of 0.39 — partial mediation. The paper is explicit that one cross-sectional wave of self-report from the same respondents cannot order the variables, and its own reading is that AI's value depends on whether use deepens [[self-regulated-learning|self-regulation]] rather than supplying ready answers. Read it as a well-measured association among three perceptions, not as evidence that engagement transmits a causal effect.
+> **Synthesis:** Yuan, Xiaoying and Wenmin (2026) surveyed [[higher-ed|university]] students in Shanxi Province, China, once, and fitted a model in which [[student-engagement|student engagement]] carries part of the association between [[ai-technologies|AI-assisted learning]] and academic achievement. All three constructs were self-rated on five-point [[self-report-measures|self-report]] scales, and the GPA students reported was set aside rather than modeled, so the outcome is perceived [[learning-gains|performance]]. Engagement absorbed about half the total link, and the direct remainder was small but held above zero — enough to call the mediation partial. The authors are explicit that one cross-sectional wave cannot order the variables, and their own reading is that AI's value depends on whether use deepens [[self-regulated-learning|self-regulation]] rather than supplying ready answers.
 
 ## Key Findings
 
-1. 438 valid responses came from 512 submitted questionnaires (85.5%), gathered March 2025 to January 2026 by convenience and snowball sampling; 56.2% were female, mean age 20.8 (SD = 2.1), and 78.5% undergraduates.
-2. AI-assisted learning correlated with engagement at r = 0.52 (95% CI 0.45, 0.59) and with academic performance at r = 0.36 (0.28, 0.44); engagement and performance correlated at r = 0.47 (0.39, 0.54).
-3. Structural paths ran at β = 0.52 (B = 0.489, CR = 12.23) from AI-assisted learning to engagement and β = 0.41 (B = 0.448, CR = 8.00) from engagement to academic performance.
-4. The direct path held at β = 0.18 (B = 0.185, p = 0.026, 95% CI 0.02, 0.34) — a lower bound barely above zero, and the sole basis for calling the mediation partial.
-5. The standardized indirect effect through engagement was 0.21 (95% bootstrap CI 0.15, 0.28, p < 0.001) against a total effect of 0.39 (0.30, 0.48), from 5,000 bias-corrected resamples.
-6. Fit was CFI = 0.95, TLI = 0.94, RMSEA = 0.05 and SRMR = 0.04, and the model explained 27% of variance in engagement and 26% in academic performance.
-7. Cronbach's α, composite reliability and average variance extracted were 0.88, 0.90 and 0.64 for AI-assisted learning, 0.92, 0.93 and 0.60 for engagement, and 0.86, 0.88 and 0.65 for performance.
+1. **AI use, engagement and performance moved together.** All three self-ratings correlated positively, with the tightest link between AI-assisted learning and engagement.
+2. **Engagement carried most of the association.** Roughly half of the total link ran through engagement, leaving a small direct path.
+3. **The direct path is fragile.** Its interval sat barely above zero — enough to justify the word "partial," not enough to claim a distinct route from AI use to achievement.
+4. **The model fit well but explained a modest share.** It accounted for about a quarter of the variance in engagement, and about a quarter in perceived performance.
+5. **Good measurement does not rescue a one-wave design.** A piloted new scale, attention checks and a reported GPA kept out of the outcome construct all help, but every rating came from the same students at one sitting, so shared method variance cannot be ruled out.
+6. **The instrument set measures perceptions, not behavior.** "AI-assisted learning" blends use frequency with perceived usefulness, and performance is four Likert items about how students see themselves, not a transcript.
 
 ## What the instrument set actually measures
 
@@ -59,10 +62,10 @@ Partial mediation sounds like a finding about mechanism, but in a one-wave desig
 
 ## What this means for practice
 
-- **Instructors.** Design AI use for engagement, not access: have students generate alternative explanations, find gaps in their understanding, compare output with course material and revise their answers. Treat self-rated improvement as a prompt to check, not an outcome.
-- **Faculty developers.** Make verification explicit in assignment design — require students to justify an answer, name where AI output was wrong, and show what they changed — since the paper's own reading is that benefit depends on how output is checked.
-- **Administrators.** Pair tool access with task-level guidance on acceptable use and disclosure, discipline-specific examples, and evaluation criteria built on learning quality and equity rather than frequency of use or time saved.
-- **Researchers.** Report the direct path's interval in any single-survey mediation model, and ask whether its lower bound is meaningfully above zero before naming the result partial mediation.
+- **Instructors:** Design AI use for engagement, not access. Have students generate alternative explanations, find gaps in their understanding, compare output with course material and revise their answers, and treat self-rated improvement as a prompt to check rather than an outcome.
+- **Faculty developers:** Make verification explicit in assignment design — require students to justify an answer, name where AI output was wrong, and show what they changed — since the paper's own reading is that benefit depends on how output is checked.
+- **Administrators:** Pair tool access with task-level guidance on acceptable use and disclosure, discipline-specific examples, and evaluation criteria built on learning quality and equity rather than frequency of use or time saved.
+- **Researchers:** Report the direct path's interval in any single-survey mediation model, and ask whether its lower bound is meaningfully above zero before naming the result partial mediation.
 
 ## Limitations
 

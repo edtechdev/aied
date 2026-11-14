@@ -1,7 +1,7 @@
 ---
 title: "From Dialogue to Task: How Cognitive Engagement With Generative Artificial Intelligence"
 created: "2026-11-10T18:19:20-05:00"
-updated: "2026-11-10T18:30:00-05:00"
+updated: "2026-11-14T11:30:00-05:00"
 type: article
 page_kind: [synthesis]
 research_method: [process-outcome modeling, secondary analysis]
@@ -18,6 +18,10 @@ ai_assist:
     role: drafting
     date: "2026-11-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 verified: [citation, numbers, links]
 foundations: [human-ai-collaboration]
 pedagogy: [icap-framework, student-ai-interaction, student-engagement, help-seeking]
@@ -28,15 +32,15 @@ institutions: []
 ethics: []
 ---
 
-> **Synthesis:** Zhuang, Bakharia, Gašević and Khosravi (2026) ask what the shape of a student's conversation with an embedded AI companion says about what the student does next. On RiPPLE, a [[higher-ed|university]] learning platform, three task-specific companions served 1,681 students across 40 courses — Crea during resource creation, Modi during peer moderation, Praxie during practice. Coding 829 complete threads with a dialogue-oriented [[icap-framework|ICAP]] scheme, they found Passive (37.4%) and Active (27.1%) [[student-ai-interaction|dialogue]] dominating overall but shifting by task: 59.0% Passive under moderation, 41.7% Active under practice, and the largest Constructive and Interactive shares under creation. First-order Markov models of 2,969 task sequences placed that dialogue inside the workflow, and regression models tied dialogue features to re-engagement and peer-rated quality. The result is a dissociation worth holding onto: composing your own message was associated with more returns to the task, deeper [[student-engagement|cognitive engagement]] with better artifacts, and return frequency with neither — which makes [[learning-analytics|analytics]] that count prompts a poor proxy for either.
+> **Synthesis:** Zhuang, Bakharia, Gašević and Khosravi (2026) ask what the shape of a student's conversation with an embedded AI companion says about what the student does next. On RiPPLE, a [[higher-ed|university]] platform, three task-specific companions served 1,681 students across 40 courses in creation, moderation and practice. Coding 829 threads with a dialogue-oriented [[icap-framework|ICAP]] scheme, they found most [[student-ai-interaction|dialogue]] stayed Passive or Active, shifting with the task and turning richest under creation. Sequence models placed dialogue inside the workflow; regressions tied it to re-engagement and peer-rated quality. The dissociation matters: composing your own message went with more returns and deeper [[student-engagement|engagement]] with better artifacts, while return frequency tracked neither — so [[learning-analytics|analytics]] that count prompts make a poor proxy for both.
 
 ## Key Findings
-1. **Passive and Active dialogue predominated.** Across 829 coded threads, Passive accounted for 37.4% and Active 27.1% (535 threads, 64.5%), against 14.0% Constructive, 13.3% Interactive and 8.2% off-task.
-2. **Task context shifted the mix.** Passive ran 59.0% under peer moderation and 33.3% under practice, Active 41.7% under practice, while resource creation held the largest Constructive (19.3%) and Interactive (21.6%) shares; Cramér's V = 0.294.
-3. **Deeper engagement less often ended the session.** Constructive and Interactive threads were less frequently followed directly by session termination, by −0.14 and −0.17 in Creation and by −0.30 and −0.33 in Moderation.
-4. **Composing your own message was associated with more returns.** Among Passive Creation sequences, those with student-composed messages showed 0.44 more dialogue-to-task transitions than template-only ones (1.39 vs 0.95; Holm-adjusted p = .002).
-5. **Depth, not frequency, tracked artifact quality.** Constructive/Interactive sequences were more likely to earn a higher peer rating (POR = 2.12, p = .029; expected ratings 4.33 vs 4.08), while transitions per standard deviation were not (POR 0.91 and 0.78).
-6. **In practice, fewer further attempts but better ones.** After an incorrect attempt, AI dialogue within 30 seconds was associated with lower continuation (OR = 0.37) but higher next-attempt correctness among continuers (OR = 2.78); joint recovery was uncertain (OR = 1.72).
+1. **Most conversations stayed shallow, but not uniformly.** Passive and Active dialogue — reading or lightly reshaping what the AI said — made up about two-thirds of coded threads, while threads where students built on or argued with ideas were a minority.
+2. **The task set the ceiling.** Under peer moderation nearly three in five conversations were Passive, against about a third under practice; resource creation produced the most Constructive and Interactive talk because students had their own draft to explain and defend.
+3. **Deeper conversations less often ended the session.** Constructive and Interactive threads were followed by the student leaving less often than shallow ones, in both creation and moderation, which suggests the exchange fed back into the work rather than closing it.
+4. **Writing your own message predicted coming back.** Within Passive creation threads, students who composed their own request returned to the artifact more often than those who used a template — nearly half again as many returns per artifact.
+5. **Depth, not volume, tracked quality.** Constructive and Interactive threads were about twice as likely to earn a higher peer rating, while the number of returns carried no quality signal once depth was in the model.
+6. **In practice, help reduced retries but improved the next one.** After a wrong answer, talking to the AI within half a minute was associated with fewer further attempts, but among students who tried again the next attempt was more likely correct; whether the pair recovered to a right answer together was uncertain.
 
 ## One platform, three companions, four modes
 
@@ -52,7 +56,7 @@ Coding was a hybrid human-AI workflow: GPT-5.4 drafted the codebook, researchers
 
 ## The task decides what the dialogue can be
 
-The distribution is what a sceptic would expect, with structure underneath. Passive and Active together accounted for 64.5% of threads, and the semantic analysis separated them from the higher modes: Passive and Active messages clustered around generic [[help-seeking|help-seeking]], task management and answer checking, whereas Constructive and Interactive messages were distinguished by disciplinary concepts and student-generated reasoning about them.
+The distribution is what a skeptic would expect, with structure underneath. Passive and Active together accounted for 64.5% of threads, and the semantic analysis separated them from the higher modes: Passive and Active messages clustered around generic [[help-seeking|help-seeking]], task management and answer checking, whereas Constructive and Interactive messages were distinguished by disciplinary concepts and student-generated reasoning about them.
 
 The variation by task is the useful part. Creation, where students bring their own draft, held the largest Constructive (19.3%) and Interactive (21.6%) shares and 26.0% Passive. Moderation was 59.0% Passive, 33 percentage points more than Creation — its object is a peer's resource, and students could ask the companion to supply the evaluative judgment rather than defend their own, a shift in the [[human-ai-collaboration|division of cognitive labor]]. Practice was 41.7% Active and carried the most off-task traffic (15.1%). Because each companion was tied to one task, these differences reflect task demands, companion role and platform affordances acting together, not companion effectiveness.
 
@@ -64,10 +68,10 @@ The process models explain why a count is a poor summary. Dialogue recurred thro
 
 ## What this means for practice
 
-- **Instructors.** Stop reading prompt volume as effort, and stop reading a Passive thread as passivity. Ask what the student wrote in it and what they did after it, because a Passive thread with a self-written request behaved differently from one built from starters.
-- **Instructors.** Put the student's own artifact or claim in front of the companion. Creation produced the most Constructive and Interactive dialogue because there was a draft to explain, defend and revise, and that condition is reproducible in any task.
-- **Instructional designers.** Treat starters as an entry point, not a substitute. A template that asks students to name the difficulty or say what they have already considered preserves accessibility while leaving room for a student-composed message.
-- **Administrators.** Commission four separate indicators rather than one engagement score — message source, engagement mode, position in the workflow, and what followed the dialogue — and report continuation and correctness separately in practice settings.
+- **Instructors:** Stop reading prompt volume as effort, and stop reading a Passive thread as passivity. Ask what the student wrote in it and what they did after it, because a Passive thread with a self-written request behaved differently from one built from starters.
+- **Instructors:** Put the student's own artifact or claim in front of the companion. Creation produced the most Constructive and Interactive dialogue because there was a draft to explain, defend and revise, and that condition is reproducible in any task.
+- **Instructional designers:** Treat starters as an entry point, not a substitute. A template that asks students to name the difficulty or say what they have already considered preserves accessibility while leaving room for a student-composed message.
+- **Administrators:** Commission four separate indicators rather than one engagement score — message source, engagement mode, position in the workflow, and what followed the dialogue — and report continuation and correctness separately in practice settings.
 
 ## Limitations
 

@@ -1,7 +1,7 @@
 ---
 title: "To Enhance, Not Replace, Learning: Using AI in the College Classroom"
 created: "2026-11-09T06:41:06-05:00"
-updated: "2026-11-09T06:41:06-05:00"
+updated: "2026-11-14T10:00:00-05:00"
 type: article
 page_kind: [evaluation]
 research_method: [survey]
@@ -19,6 +19,10 @@ ai_assist:
     role: drafting
     date: "2026-11-09"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 verified: [citation, numbers, links]
 foundations: [ai-education, ai-literacy, academic-integrity]
 pedagogy: [student-engagement, student-ai-interaction, scaffolding]
@@ -28,17 +32,17 @@ methods: [mixed-methods-research, quantitative-research]
 ethics: []
 ---
 
-> **Synthesis:** Onodipe, Burke, Kooti and Delaney (2025) document two semesters of light-touch [[generative-ai|GenAI]] integration in 2000-level business statistics and economics courses at two U.S. public colleges: a reusable [[scaffolding|scaffolded]] [[intelligent-tutoring|AI tutor]] prompt, AI-generated exam review, AI-structured [[oral-assessment|oral exams]], and AI-assisted research-topic brainstorming. Across three surveys (n = 149, 103, 60), self-reported frequency of ChatGPT use rose from 2.987 to 4.375 on a 1–7 scale (p < .001, a 33.17% pre–post effect), confidence with ChatGPT rose from 3.663 to 4.000 (p = .004), and perceived course [[student-engagement|engagement]] rose from 2.433 to 2.65 on a 1–3 scale (p = .006), while 82.0% had used the instructor's tutor prompt by the end of the semester. Exam performance did not follow: frequency of use was unassociated with scores in the simple model (β = −5.577, SE = 5.566) and negatively associated in the full model (β = −13.918, SE = 7.834, p = .076). The study is best read as a documented classroom repertoire and a clean case of [[self-report-measures|perceived learning]] outrunning measured learning, not as evidence that the integration raised achievement.
+> **Synthesis:** Onodipe, Burke, Kooti and Delaney (2025) document two semesters of light-touch [[generative-ai|GenAI]] integration in 2000-level business statistics and economics courses at two U.S. public colleges: a reusable [[scaffolding|scaffolded]] [[intelligent-tutoring|AI tutor]] prompt, AI-generated exam review, AI-structured [[oral-assessment|oral exams]], and AI-assisted research-topic brainstorming. Across three surveys, students reported using ChatGPT more often, feeling more confident with it, and finding the course more [[student-engagement|engaging]], and most had adopted the instructor's tutor prompt by semester's end. Exam performance did not follow: more frequent use was if anything associated with slightly lower scores. The study is best read as a documented classroom repertoire and a clean case of [[self-report-measures|perceived learning]] outrunning measured learning, not as evidence that the integration raised achievement.
 
 ## Key Findings
 
-1. **Use and confidence rose across the semester.** ChatGPT use frequency went from 2.987 to 4.375 on a 1–7 scale (p < .001, 33.17% effect), confidence from 3.663 to 4.000 (p = .004, 9.20%), and the share using the instructor's [[intelligent-tutoring|AI tutor]] prompt from 74.2% at midsemester to 82.0% at the end (p = .031).
-2. **Students began writing their own prompts.** The share who generated their own prompt for the course rose from 61.9% to 80.3% (p = .070), and 35.2% said peers' discussion-board posts had influenced their AI use outside class.
-3. **Perceived engagement improved, but perceived learning impact did not reach significance.** Self-reported engagement change rose from 2.433 to 2.65 on a 1–3 scale (p = .006, 8.92%), while rated learning impact moved from 3.223 to 3.452 (p = .097).
-4. **General feeling dipped and recovered rather than climbing.** Mean attitude toward AI fell from 3.934 to 3.690 at midsemester and returned to 3.978 at the end (p = .030, 1.19% effect), while comfort stayed flat at 4.154, 4.190 and 4.213 (p = .619).
-5. **Qualitative comments were mostly positive and specifically about explanation.** Of responses, 61.5% described support for learning, 41.5% efficiency, 10.8% accuracy or misinformation concerns, 9.2% [[cognitive-offloading|overreliance]] concerns and 3.1% ethical concerns.
-6. **Exam scores showed no benefit and possibly a small penalty.** In the full panel model, AI frequency of use carried β = −13.918 (SE = 7.834, p = .076); isolating tutor use (β = −2.272) and test-preparation frequency (β = −2.091) produced no effect, with R² between .002 and .055.
-7. **The panel was small and shrank across waves.** Regression samples covered 91 observations for comfort and 61 for general feeling, against survey responses of 149, 103 and 60 in the three waves.
+1. **Use and confidence rose across the semester.** Reported ChatGPT use frequency climbed from 2.987 to 4.375 on a 1–7 scale, confidence from 3.663 to 4.000, and the share using the instructor's [[intelligent-tutoring|AI tutor]] prompt from 74.2% at midsemester to 82.0% at the end.
+2. **Students began writing their own prompts.** The share who generated their own prompt for the course rose from 61.9% to 80.3%, and about a third said peers' discussion-board posts had influenced their AI use outside class.
+3. **Perceived engagement improved, but perceived learning impact did not reach significance.** Self-reported engagement change rose from 2.433 to 2.65 on a 1–3 scale, while rated learning impact moved from 3.223 to 3.452 without reaching significance.
+4. **General feeling dipped and recovered rather than climbing.** Mean attitude toward AI fell from 3.934 to 3.690 at midsemester and returned to 3.978 at the end, while comfort stayed essentially flat across the three waves.
+5. **Qualitative comments were mostly positive and specifically about explanation.** Most responses described support for learning, many praised efficiency, and smaller shares raised accuracy or misinformation, [[cognitive-offloading|overreliance]], and ethical concerns.
+6. **Exam scores showed no benefit and possibly a small penalty.** In the full panel model, more frequent AI use was associated with lower exam scores at a marginal level of significance; isolating tutor use or test-preparation frequency produced no effect at all.
+7. **The panel was small and shrank across waves.** Regression samples covered 91 observations for comfort and 61 for general feeling, against survey responses of 149, 103 and 60 in the three waves, so the null exam result is also a power problem.
 
 ## A light-touch repertoire, documented end to end
 
@@ -46,7 +50,7 @@ The paper's main contribution is procedural rather than causal: it describes fou
 
 ## Perception gains were consistent; exam gains were absent
 
-The survey results move together in a coherent direction, and the regressions show why that coherence is not evidence of learning. Frequency of use predicted comfort (β = 0.482, SE = 0.109) and general feeling (β = 0.283, SE = 0.096); in the confidence models, general feeling did most of the work (β = 0.502, SE = 0.139), and in the learning-impact model frequency and general feeling both contributed (β = 0.657 and β = 0.512). Once all three predictors entered the engagement model, nothing remained significant (frequency β = 0.077, SE = 0.136, R² = .040), which the authors read as an effect too small to survive shared variance. That is a portrait of students who used the tool more, felt better about it and believed it helped — exactly the pattern [[self-report-measures|self-report measures]] are built to detect and poorly suited to adjudicate.
+The survey results move together in a coherent direction, and the regressions show why that coherence is not evidence of learning. Frequency of use predicted comfort and general feeling; in the confidence models, general feeling did most of the work; in the learning-impact model, frequency and general feeling both contributed. Once all three predictors entered the engagement model, nothing remained significant, which the authors read as an effect too small to survive shared variance. That is a portrait of students who used the tool more, felt better about it and believed it helped — exactly the pattern [[self-report-measures|self-report measures]] are built to detect and poorly suited to adjudicate.
 
 The exam models cut against the perception story. The authors are candid that the causal direction is unidentified: students who are struggling may use AI more, and students with stronger skills may need it less while benefiting more. Their preferred reading is that multiple processes run at once. The important design fact is that students could submit shared ChatGPT conversations and short reflections but the course still graded individual exam performance, so the study had a non-self-report outcome available and it did not move. Read beside the wiki's evidence that unguarded AI help can raise assisted performance while lowering unassisted learning ([[ai-misuse-learning-harm|the performance–learning gap]]), the null is not merely a power problem; it is the result one would expect if the tool were used mainly to clarify and rehearse.
 
@@ -62,11 +66,11 @@ Three implementation lessons are reported with unusual specificity. Resistance w
 
 ## What this means for practice
 
-- **Distribute a structured tutor prompt rather than telling students to "use AI."** The prompt in this study enforced one question at a time, prior-knowledge elicitation and explanation in the student's own words; 82.0% of students used it by semester's end, and it is the cheapest element to replicate.
-- **Collect the conversation and a short reflection as the artifact.** Requiring the shared transcript plus reflection made AI use visible without banning it, and gave the instructors evidence of how students prompted.
-- **Judge the intervention on exam or assignment performance, not on satisfaction.** Perceived engagement and confidence rose significantly while exam scores did not; a department adopting this repertoire should build a comparison into its own course rather than citing these survey gains as proof.
-- **Keep human-worked examples as the anchor in quantitative courses.** Students in this study converged on using ChatGPT for procedure and concepts while trusting class examples for calculations — a division of labor worth designing for explicitly.
-- **Budget staff time for the oral-exam variant.** The AI prompt reduced instructor load compared with live one-to-one Zoom orals, but rotating through breakout rooms and refining the prompt took repeated adjustment across the term.
+- **Instructors:** Distribute a structured tutor prompt rather than telling students to "use AI." The prompt in this study enforced one question at a time, prior-knowledge elicitation and explanation in the student's own words; most students used it by semester's end, and it is the cheapest element to replicate.
+- **Instructors:** Collect the conversation and a short reflection as the artifact. Requiring the shared transcript plus reflection made AI use visible without banning it, and gave the instructors evidence of how students prompted.
+- **Faculty developers:** Judge the intervention on exam or assignment performance, not on satisfaction. Perceived engagement and confidence rose significantly while exam scores did not; a department adopting this repertoire should build a comparison into its own course rather than citing these survey gains as proof.
+- **Designers:** Keep human-worked examples as the anchor in quantitative courses. Students here converged on using ChatGPT for procedure and concepts while trusting class examples for calculations — a division of labor worth designing for explicitly.
+- **Administrators:** Budget staff time for the oral-exam variant. The AI prompt reduced instructor load compared with live one-to-one Zoom orals, but rotating through breakout rooms and refining the prompt took repeated adjustment across the term.
 
 ## Limitations
 

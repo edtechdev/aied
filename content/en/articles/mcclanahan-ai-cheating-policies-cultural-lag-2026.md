@@ -1,7 +1,7 @@
 ---
 title: "A criminological mixed-methods analysis of university policies and strategies against AI cheating: A case study of novel deviance and cultural lag"
 created: "2026-11-11T07:43:10-05:00"
-updated: "2026-11-11T08:40:41-05:00"
+updated: "2026-11-14T10:00:00-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]
@@ -23,30 +23,34 @@ ai_assist:
     role: drafting
     date: "2026-11-11"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** McClanahan and Dickinson tested the deterrence logic behind university [[academic-integrity|AI cheating policies]] with a 21-version vignette experiment and 3,298 US and UK [[higher-ed|college students]]. Perceived certainty of getting caught (OR = 0.60, 95% CI [0.57, 0.63]) and perceived severity of punishment (OR = 0.69, 95% CI [0.66, 0.73]) each reduced the stated likelihood of cheating with [[generative-ai|generative AI]]. Yet none of the five policy or instructor-practice manipulations moved that likelihood once risk perceptions and prior behavior were controlled, and most did not move the perceptions either. Past cheating was the strongest predictor (OR = 5.56, 95% CI [4.89, 6.32]). The authors explain the gap as cultural lag: a novel deviance has no settled risk signals, so students judge [[assessment|assignment]] risk from personal morality and their own definitions of cheating.
+> **Synthesis:** Universities have bet that clearer [[academic-integrity|academic integrity]] rules and harsher penalties will stop students from using [[generative-ai|generative AI]] to cheat. This vignette experiment with thousands of US and UK [[higher-ed|college students]] suggests the bet is largely misplaced. Students who believed they would be caught, or that a penalty would hurt, said they were less likely to cheat, but none of the policy and instructor cues reliably shifted those beliefs or the stated likelihood of cheating once prior behavior was accounted for. Students who had cheated before were far likelier to do it again and discounted both detection and punishment. The authors' explanation is cultural lag: the technology arrived before any shared definition of cheating, so students judge the risk of an [[assessment|assignment]] for themselves.
 
 ## Key Findings
 
-1. **Risk perceptions deterred; the policies did not.** A one standard deviation rise in perceived certainty cut the average stated likelihood of cheating by 8.57 percentage points, and the same rise in perceived severity cut it by 6.23 points (both p < 0.001).
-2. **Prior behavior outweighed every experimental condition.** Students who had used AI to cheat before were far more willing to do it again (OR = 5.56, 95% CI [4.89, 6.32], p < 0.001), perceived 20.20 percentage points less risk, and rated punishment 0.37 points less severe on the 1–7 scale.
-3. **Two conditions worked only before controls.** The syllabus calling AI plagiarism with a failing course grade (OR = 0.67, 95% CI [0.47, 0.96], p = 0.03) and a tech-savvy professor with a failing class grade (OR = 0.64, 95% CI [0.46, 0.91], p = 0.01) lost significance in the full model.
-4. **Most students were already non-cheaters.** 29% rated their chance of using AI at 0% whatever the scenario said, so for them the policy question was moot: cheating was not an available action.
-5. **Students supplied their own rules.** The [[qualitative-research|qualitative]] themes ran from external consequences to internal controls such as morality, investment in learning, and views of AI, and from the cost of not cheating to minimizing, justifying, and risk-managing their own use.
-6. **Detection was discounted.** Participants described proving AI use as almost impossible, so the [[ai-detection|detection tool]] universities rely on did not register as a credible risk.
-7. **Punishment severity barely moved perceptions.** Only one condition raised perceived severity, by an amount the authors translate as 0.03% or 0.02 points on the 1–7 scale, which they treat as negligible.
+1. **Fear of being caught deterred; the policies did not.** Perceived certainty of detection and perceived severity of punishment both predicted a lower stated likelihood of cheating. The manipulations meant to raise those perceptions — syllabus language, a professor who had caught students, warnings about lost learning, technical savvy, penalties from a failed assignment to expulsion — mostly did not move behavior once risk perceptions and past conduct were controlled.
+2. **Prior behavior outweighed every experimental condition.** Students who had used AI to cheat before were several times more willing to do it again, perceived substantially less risk, and rated punishment as less severe. Past conduct is the best available predictor, which makes first offences the moment to intervene.
+3. **Two cues worked only before controls.** A syllabus calling AI plagiarism with a failing course grade, and a professor described as technologically savvy who would fail the class, both reduced stated cheating in the simpler model. Both lost significance once risk perceptions and prior behavior entered, which means they were not working through the mechanism the theory expects.
+4. **Most students were already non-cheaters.** 29% rated their chance of using AI at 0% whatever the scenario said. For them the policy question was moot because cheating was not an available action, so whole-sample averages understate how much the manipulations mattered to the students at risk.
+5. **Students supplied their own rules.** The [[qualitative-research|qualitative]] themes ran from external consequences to internal controls such as morality, investment in learning and views of AI, and from the cost of not cheating to minimising, justifying and risk-managing their own use. Students described AI as a tutor, as outline help, or as a way to reach a word count, and did not classify any of that as cheating.
+6. **Detection was discounted.** Participants described proving AI use as almost impossible, so the [[ai-detection|detection tool]] universities rely on did not register as a credible risk. A formal system that students do not believe in deters nobody.
+7. **Punishment severity barely moved perceptions.** Only one condition raised perceived severity, by an amount the authors treat as negligible. Raising the stated penalty is not the same as raising the penalty students expect.
 
 ## What the study did
 
 The design was a five (policy) by four (punishment severity) between-groups factorial survey, with 21 versions of a vignette in total: 20 experimental cells plus a control that mentioned no policy or punishment. Every participant read the same root story about a tight deadline on a challenging essay in a required major course, then saw one of five policy or practice cues: the professor saying they had caught students before, a syllabus stating that using AI is plagiarism, a professor warning that AI robs students of their education, a professor described as technologically savvy, or a professor described as non-technologically savvy. The punishment factor varied across no stated penalty, failing the assignment, failing the course, and expulsion.
 
-Participants were 3,298 students recruited through Prolific, all at least 18 and studying in the US or UK; 58.46% were female, 41% were in graduate school, and 69.77% attended a public or state university. Data were collected between August 1 and August 18, 2025, and participants were paid \$1.50. The outcomes were stated likelihood of using AI (0–100%), perceived likelihood of getting caught (0–100%), and perceived severity of punishment (1–7). Analysis used 11 fractional regressions with robust standard errors, entering blocks of predictors by theoretical construct, plus an inductive thematic content analysis of open-ended accounts. Of the sample, 429 students described a time they had actually used AI on an assignment when it was not allowed; thematic saturation arrived after roughly one third of those accounts.
+Participants were 3,298 students recruited through Prolific, all at least 18 and studying in the US or UK; 58.46% were female, 41% were in graduate school, and 69.77% attended a public or state university. Data were collected in August 2025 and participants were paid a small fee. The outcomes were stated likelihood of using AI, perceived likelihood of getting caught, and perceived severity of punishment on a seven-point scale. Analysis used 11 fractional regressions with robust standard errors, entering blocks of predictors by theoretical construct, plus an inductive thematic content analysis of open-ended accounts. Of the sample, 429 students described a time they had actually used AI on an assignment when it was not allowed, and thematic saturation arrived after roughly one third of those accounts.
 
 ## Why the policies did not register
 
-The authors' explanation is cultural lag, borrowed from Ogburn: the material practice of AI use has outrun the non-material apparatus of [[social-norms-ai-use|norms]], rules, and enforcement. That produces what Moor called a policy vacuum, and students fill it with personal frameworks. The qualitative data show the mechanism repeatedly. Students called policies vague or inapplicable to their own case, then classified their use as legitimate: AI as tutor rather than ghostwriter, AI for an outline, AI to expand a paragraph toward a word count. Because they did not define the act as cheating, the formal risk never entered the calculation.
+The authors' explanation is cultural lag, borrowed from Ogburn: the material practice of AI use has outrun the non-material apparatus of [[social-norms-ai-use|norms]], rules and enforcement. That produces what Moor called a policy vacuum, and students fill it with personal frameworks. The qualitative data show the mechanism repeatedly. Students called policies vague or inapplicable to their own case, then classified their use as legitimate. Because they did not define the act as cheating, the formal risk never entered the calculation.
 
 The same novelty undermines the situational cues that deterrence depends on. For burglary, a car in the driveway or a light in the window is a widely shared signal of occupancy. For AI cheating, the paper argues, no such signal has consensus. Students doubt that AI use can be proved at all, and the authors compare their reasoning to a burglar who sees a broken camera: the formal detection system is present but not believed. One consequence is that students who do cheat learn to manage risk rather than abstain, rewriting output, paraphrasing, or spacing submissions over time so the artifact looks human.
 
@@ -54,7 +58,7 @@ A second mechanism is Bayesian updating. Students who cheat and are not caught l
 
 ## Where the theory holds, and where it strains
 
-Rational choice theory survives the test in its core claim: perceived certainty and severity predict the stated likelihood of cheating, with effect sizes the authors describe as comparable to criminological work on other offenses. What fails is the policy transmission belt. The manipulations were supposed to raise perceived risk and thereby reduce cheating, and they did neither for most conditions.
+Rational choice theory survives the test in its core claim: perceived certainty and severity predict the stated likelihood of cheating, with effect sizes the authors describe as comparable to criminological work on other offences. A standard-deviation rise in perceived certainty went with an 8.57 percentage point lower stated likelihood of cheating, and the same rise in perceived severity with 6.23 points lower — differences a student would notice in a decision about one assignment. What fails is the policy transmission belt. The manipulations were supposed to raise perceived risk and thereby reduce cheating, and they did neither for most conditions.
 
 The paper is candid that it tested only the risk side of the model. Rewards were not manipulated, and the qualitative accounts suggest they matter: students described grades as something to be saved rather than earned, which the authors read through prospect theory and loss aversion. On that reading, not using AI when a grade is already at risk is the guaranteed loss, and cheating is the gamble. That reframing, rather than another deterrence message, is the paper's most consequential theoretical suggestion.
 
@@ -62,10 +66,10 @@ For administrators, the practical claim is narrow but firm: blanket [[educationa
 
 ## What this means for practice
 
-- **Instructors:** state the institution's definition of cheating in concrete cases rather than relying on a syllabus prohibition, because students who classify their own use as legitimate do not experience the policy as a risk.
-- **Administrators:** treat a blanket ban as a message that only some students will hear; the students most likely to cheat already discount detection and are the least moved by severity.
-- **Designers:** build assignments that make permitted AI use visible and bounded, and add oral or in-person components where the claim is individual competence.
-- **Researchers:** test rewards and conformist risks alongside sanctions; this study manipulated only the risk side, and its own qualitative data point to loss aversion as a competing explanation.
+- **Instructors:** State the institution's definition of cheating in concrete cases rather than relying on a syllabus prohibition. Students who classify their own use as legitimate do not experience the policy as a risk, so a worked example — this is allowed, this is not, here is why — does more than a warning.
+- **Administrators:** Treat a blanket ban as a message only some students will hear. The students most likely to cheat already discount detection and are the least moved by severity, so invest in making detection credible and in early response to first offences rather than in escalating stated penalties.
+- **Designers:** Build assignments that make permitted AI use visible and bounded, and add oral or in-person components where the claim is individual competence. If students cannot tell where the line is, a tighter rule mostly changes how they describe what they did.
+- **Researchers:** Test rewards and conformist risks alongside sanctions. This study manipulated only the risk side, and its own qualitative data point to loss aversion and perceived peer behavior as competing explanations.
 
 ## Limitations
 

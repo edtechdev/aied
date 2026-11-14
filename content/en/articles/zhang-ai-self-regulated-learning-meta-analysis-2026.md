@@ -1,7 +1,7 @@
 ---
 title: "A Meta-Analysis of AI-Assisted Self-Regulated Learning"
 created: "2026-11-07T10:06:57-05:00"
-updated: "2026-11-07T14:15:00-05:00"
+updated: "2026-11-14T11:30:00-05:00"
 published: "2026"
 type: article
 pedagogy: [self-regulated-learning, metacognition, scaffolding, help-seeking]
@@ -23,24 +23,30 @@ ai_assist:
     role: drafting
     date: "2026-11-07"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Zhang, Li, Xu, Cheng, and West (2026) synthesize 34 experimental and quasi-experimental studies (91 effect sizes) on how AI-based pedagogical interventions affect [[self-regulated-learning|self-regulated learning]] and its subdomains. The pooled effect is moderate to large (Hedges' g = 0.76, SE = 0.12, 95% CI [0.52, 1.01], p < .001), with substantial heterogeneity (I² = 88.34%, τ² = 0.36). Effects are positive for resource management (g = 0.93), [[metacognition|metacognition]] (g = 0.73), and cognitive strategies (g = 0.48). Three moderators reached significance: educational level, AI application type ([[intelligent-tutoring|intelligent tutoring]] and [[adaptive-learning|adaptive learning]] systems at g = 1.20, [[conversational-ai|conversational AI]] at 0.88, [[llm|LLM]]-supported systems at 0.56, [[learning-analytics|learning analytics]] dashboards at 0.37), and the tool's pedagogical role ([[feedback|feedback]] and assessment at g = 1.11, [[scaffolding|scaffolding]] and facilitation at 0.80, monitoring and analytics at 0.32). Discipline, intervention length, control-group type, sample size, SRL phase, and SRL measure did not moderate effects. The authors conclude that effects depend less on AI's presence than on instructional design, and they point to [[human-ai-collaboration|human-AI collaboration]] with control shifting between learner, teacher, and system. They caution that these contrasts are exploratory and cannot identify which affordance drove the gain.
+> **Synthesis:** Zhang, Li, Xu, Cheng and West (2026) pool 34 experiments and quasi-experiments into 91 effect sizes on how AI-based teaching affects [[self-regulated-learning|self-regulated learning]] and its parts. The average gain is moderate to large, but the studies disagree widely. Gains are positive for resource management, [[metacognition|metacognition]] and cognitive strategies, and largest where the tool taught rather than displayed data: [[intelligent-tutoring|tutoring]] and [[adaptive-learning|adaptive]] systems beat [[conversational-ai|conversational AI]], which beat [[llm|LLM]] tools and [[learning-analytics|dashboards]], while [[feedback|feedback]] and [[scaffolding|scaffolding]] roles beat monitoring. Discipline, length and measurement did not change results. Design, not the presence of AI, drives the gain, the authors conclude, and they call for [[human-ai-collaboration|human-AI collaboration]] that hands regulation back to the learner. The contrasts are exploratory.
 
 ## Key Findings
 
-1. **A moderate-to-large overall effect.** Across 34 studies and 91 effect sizes, AI-based interventions raised self-regulated learning by g = 0.76 (SE = 0.12, 95% CI [0.52, 1.01], p < .001). Heterogeneity was substantial (I² = 88.34%, τ² = 0.36).
-2. **A broad search, a narrow evidence base.** Of 5,741 records, 1,323 were duplicates, leaving 4,418 for title and abstract screening, 216 for full text review, and 34 that met all criteria (30 journal articles, 4 conference papers); backward citation searching added none.
-3. **Resource management gained most.** Effects were g = 0.93 (95% CI [0.24, 1.62]) for resource management, 0.73 [0.44, 1.02] for metacognitive strategies, and 0.48 [0.04, 0.90] for cognitive strategies, from 11, 20, and 9 studies.
-4. **Tool type moderated the effect.** Intelligent tutoring and adaptive systems produced g = 1.20, conversational agents 0.88, LLM-empowered systems 0.56, and learning analytic systems 0.37; only the conversational agent versus learning analytics contrast was significant.
-5. **Pedagogical role moderated the effect.** Feedback and assessment produced g = 1.11, scaffolding and facilitation 0.80, mixed roles 0.71, and monitoring or analytics 0.32; only scaffolding versus monitoring was significant. [[generative-ai|Generative AI]] status did not moderate (yes 0.59, no 0.88).
-6. **Educational level moderated on a borderline contrast.** Higher education produced g = 0.83, elementary 0.81, and secondary 0.41, with the elementary versus secondary difference (g = 0.40) at p = .04996.
-7. **Design and measurement variables did not moderate.** Experimental and quasi-experimental designs were nearly identical (g = 0.77 and 0.76), as were active and passive controls (g = 0.73 and 0.80); so were pretest inclusion, intervention length, sample size, SRL phase, measure, discipline, and STEM status.
+1. **AI-supported self-regulated learning gains are moderate to large but uneven.** Across 34 studies the average improvement is well above a trivial one, and the spread between studies is wide — the pooled number summarizes a literature that disagrees with itself.
+2. **The search was broad and the usable evidence narrow.** Thousands of records were screened down to three dozen studies that met the design and reporting criteria, which limits how much any subgroup comparison can carry.
+3. **Resource management moved most, cognitive strategies least.** Effects were largest for managing time, effort and help-seeking, solid for metacognitive strategies, and smallest for rehearsal, elaboration and organization — the strategies most dependent on prior knowledge and settled beliefs.
+4. **What the tool did mattered more than what it was.** Tutoring and adaptive systems produced the biggest gains, conversational agents next, and LLM tools and analytics dashboards the smallest; only the conversational-versus-dashboard gap was statistically clear.
+5. **Instructional role beat monitoring.** Tools that gave feedback, assessed work, or scaffolded the task outperformed those that only monitored and displayed it, and whether the system used generative AI made no difference to the effect.
+6. **Educational level differed only at the margin.** Higher education and elementary schooling showed similar gains and secondary schooling lower, but that contrast sat right at the significance line and rests on very unequal numbers of studies.
+7. **Design choices did not explain the variation.** Experimental and quasi-experimental studies, active and passive controls, length, sample size, SRL phase, measure and discipline all produced similar pooled effects, which the authors read as absence of evidence rather than equivalence.
 
 ## How the evidence base was assembled
 
 Zhang and colleagues searched ERIC, Education Source, PsycINFO, Web of Science, Scopus, and ProQuest Dissertations and Theses Global on December 29, 2024, with no start date and search blocks for SRL, AI, and research design. Inclusion required an experimental or quasi-experimental design with an AI-based intervention, a control group, SRL or an SRL strategy as an outcome, and enough data to compute an effect size. Studies using one-group pretest-posttest designs, or reporting only strategies that reached significance, were excluded.
+
+The search returned 5,741 records; 1,323 were duplicates, leaving 4,418 screened on title and abstract, 216 reviewed in full text, and 34 that met all criteria (30 journal articles, 4 conference papers); backward citation searching added none.
 
 Coding was done in pairs, with 95.24% agreement for the first pair and 93.33% for the second before discussion. A six-criterion quality appraisal produced scores from 1 to 4 (M = 2.76, SD = 0.85), with 89.2% agreement across 204 ratings; quality informed interpretation rather than exclusion. Effects were expressed as Hedges' g, pretest-adjusted where data allowed (r = .50 assumed), and pooled with robust variance estimation using ρ = .80 and a small-sample correction.
 
@@ -58,7 +64,7 @@ Moderator analyses found significant differences for educational level, AI appli
 
 For AI application, intelligent tutoring and adaptive systems produced the largest estimate (g = 1.20), then conversational agents (g = 0.88), LLM-empowered systems (g = 0.56), and learning analytic systems (g = 0.37). Only the conversational agent versus learning analytics contrast reached the .05 threshold. For pedagogical role, feedback and assessment led (g = 1.11), followed by scaffolding and facilitation (g = 0.80), mixed roles (g = 0.71), and monitoring or analytics (g = 0.32); only scaffolding versus monitoring was significant.
 
-Everything else was null. Experimental (g = 0.77) and quasi-experimental (g = 0.76) designs were close, as were active (g = 0.73) and passive (g = 0.80) controls. Pretest studies were higher (g = 0.94) than those without (g = 0.59) but not significantly. Intervention length ranged from g = 0.62 for 6 to 10 weeks to g = 0.85 for 11 to 16 weeks; sample-size cells ranged from g = 0.37 to g = 1.28; SRL phase from g = 0.72 to g = 1.02; and online (g = 0.62) and offline (g = 0.85) measures did not differ significantly. Discipline (language g = 0.97, science g = 0.73, engineering g = 0.59) and STEM status (STEM g = 0.66, non-STEM g = 0.82) were also null. The authors warn that these results do not establish equivalence, and that robust variance estimation makes tests conservative.
+Everything else was null, including whether the system was [[generative-ai|generative AI]] (yes 0.59, no 0.88). Experimental (g = 0.77) and quasi-experimental (g = 0.76) designs were close, as were active (g = 0.73) and passive (g = 0.80) controls. Pretest studies were higher (g = 0.94) than those without (g = 0.59) but not significantly. Intervention length ranged from g = 0.62 for 6 to 10 weeks to g = 0.85 for 11 to 16 weeks; sample-size cells ranged from g = 0.37 to g = 1.28; SRL phase from g = 0.72 to g = 1.02; and online (g = 0.62) and offline (g = 0.85) measures did not differ significantly. Discipline (language g = 0.97, science g = 0.73, engineering g = 0.59) and STEM status (STEM g = 0.66, non-STEM g = 0.82) were also null. The authors warn that these results do not establish equivalence, and that robust variance estimation makes tests conservative.
 
 ## What the synthesis adds, and what it cannot settle
 
@@ -68,11 +74,11 @@ The design limits what can be concluded. Moderators are study-level descriptors,
 
 ## What this means for practice
 
-- **Target resource management and metacognitive support first.** These produced the largest pooled effects (g = 0.93 and g = 0.73), and several included interventions built help-seeking, planning, and monitoring into the task itself.
-- **Do not expect short AI exposure to change elaboration or organization.** Cognitive strategies showed the smallest pooled effect (g = 0.48); the authors suggest content-rich scaffolds aimed directly at these strategies, paired with teacher guidance.
-- **Prefer tools that give guidance over tools that only display data.** Feedback and scaffolding roles produced larger estimates (g = 1.11 and 0.80) than monitoring or analytics (g = 0.32), and dashboards alone leave interpretation and planning with the learner.
-- **Design for handover, not dependence.** The authors frame the goal as transferring regulation to the learner, consistent with [[human-ai-collaboration|human-AI collaboration]], which matters when prompts are frequent enough to substitute for the learner's own planning.
-- **Evaluate tools on SRL, not achievement alone.** The authors recommend that institutions include planning, monitoring, and reflection in procurement criteria and fund professional development that shows how AI supports those processes.
+- **Instructors:** Target resource management and metacognitive support first. These produced the largest pooled effects, and several included interventions built help-seeking, planning, and monitoring into the task itself.
+- **Instructors:** Do not expect short AI exposure to change elaboration or organization. Cognitive strategies showed the smallest pooled effect, and the authors suggest content-rich scaffolds aimed directly at these strategies, paired with teacher guidance.
+- **Instructional designers:** Prefer tools that give guidance over tools that only display data. Feedback and scaffolding roles produced larger estimates than monitoring or analytics, and dashboards alone leave interpretation and planning with the learner.
+- **Instructors:** Design for handover, not dependence. The authors frame the goal as transferring regulation to the learner, consistent with [[human-ai-collaboration|human-AI collaboration]], which matters when prompts are frequent enough to substitute for the learner's own planning.
+- **Administrators:** Evaluate tools on self-regulated learning, not achievement alone. The authors recommend that institutions include planning, monitoring, and reflection in procurement criteria and fund professional development that shows how AI supports those processes.
 
 ## Limitations
 

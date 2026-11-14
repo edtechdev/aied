@@ -1,7 +1,7 @@
 ---
 title: "Enhancing School Students’ Self-Regulated Learning through Generative AI Support: A Randomized Controlled Trial"
 created: "2026-11-11T07:37:46-05:00"
-updated: "2026-11-11T08:09:47-05:00"
+updated: "2026-11-14T10:00:00-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]
@@ -20,28 +20,32 @@ ai_assist:
     role: drafting
     date: "2026-11-11"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Can a [[conversational-ai|chatbot]] teach secondary students to regulate their own learning? Fütterer and colleagues randomized 371 students in Grades 7–9 across physics and English lessons in Baden-Württemberg to four 45-minute learning sessions with one of three GPT-4o systems: utility-value reflection prompts, cognitive-strategy (learning-by-explaining) prompts, or standard ChatGPT with no [[pedagogy|pedagogical]] [[prompt-engineering|prompting]]. Only the utility-value condition held its ground: perceived utility value fell in the strategy condition (ΔM = 0.30, p < .001) but not in the utility-value or control groups, and no condition beat control on interest, effort, strategy use or knowledge. Students who used the bot substantively kept more interest. Brief prompting, the authors conclude, can protect [[motivation|motivation]] but not build [[self-regulated-learning|self-regulated learning]] — and [[generative-ai|generative AI]] without pedagogical design may do neither.
+> **Synthesis:** Can a [[conversational-ai|chatbot]] teach secondary students to manage their own learning? Fütterer and colleagues gave 371 students in Grades 7–9 four lessons with one of three GPT-4o systems: prompts that connected content to students' own lives, prompts that pushed learning-by-explaining, or plain ChatGPT with no [[pedagogy|pedagogical]] [[prompt-engineering|prompting]]. Only the first held its ground, and only by preventing a decline — students' sense of the material's usefulness fell in the explaining condition and stayed flat in the other two. No condition beat plain ChatGPT on interest, effort, strategy use or knowledge. Students who used the bot substantively kept more interest. Brief prompting, the authors conclude, can protect [[motivation|motivation]] but not build [[self-regulated-learning|self-regulated learning]] — and [[generative-ai|generative AI]] without pedagogical design may do neither.
 
 ## Key Findings
 
-1. **Utility value held only under utility-value prompts.** The time × condition interaction was significant, χ²(2) = 19.05, p < .001. Against the strategy condition the coefficient was β = −0.50, SE = 0.11, p < .001; against control there was no difference. Within groups, utility value fell in the strategy condition (ΔM = 0.30, p < .001) and stayed flat in the utility-value (ΔM = −0.08, p = .328) and control (ΔM = −0.15, p = .063) conditions. The authors read this as buffering a decline, not building value.
-2. **The strategy hypothesis failed on self-report.** [[self-report-measures|Self-reported]] elaboration-based strategy use showed no time × condition interaction, χ²(2) = 0.08, p = .960, and no fixed effect reached significance (all ps > 0.53).
-3. **It failed on performance too.** On the written explain-to-a-classmate task, χ²(2) = 0.01, p = .992; all main and interaction effects were non-significant (all ps > 0.09). Every condition declined descriptively by ΔM ≈ 0.32–0.35, with no pairwise difference between conditions (all ps > 0.96).
-4. **No intervention beat standard ChatGPT on interest, effort or knowledge.** Maintained interest χ²(1) = 0.54, p = .463; effort investment χ²(1) = 0.24, p = .623; domain-specific knowledge χ²(1) = 1.28, p = .257.
-5. **Meaningful use, not assignment, predicted who kept interest.** The condition × time × relative meaningful interactions term was β = 0.30, SE = 0.00, p = .009. In the control group more meaningful interaction predicted lower posttest interest (β = −0.25, SE = 0.00, p = .005); the intervention conditions attenuated that (β = 0.26, SE = 0.00, p = .014).
-6. **No subject differences.** Condition × time × subject interactions were non-significant for interest (χ²(1) = 0.32, p = .570), effort (χ²(1) = 0.00, p = .992) and knowledge (χ²(1) = 0.56, p = .455).
-7. **A third of the sample dropped out before the posttest.** 130 students (35%) had no data at T2: 37 (34%) in the utility-value condition, 51 (36%) in the cognitive-learning condition and 42 (34%) in the control group, and 21% of all numerical entries were missing.
+1. **A short prompt can stop value draining away.** Students whose bot tied the content to their own lives did not lose the sense that the material was useful; students in the explaining condition did. Neither structured condition raised value above plain ChatGPT, so the gain was protection, not improvement.
+2. **The explaining prompt changed nothing measurable.** Students did not report using more elaboration strategies on the [[self-report-measures|self-report]] scale, and their written explanations to a classmate did not improve.
+3. **Performance slipped in every condition.** All three groups declined on the explain-to-a-classmate task with no difference between them, which the authors read as fatigue across the sessions rather than an effect of the bot.
+4. **Plain ChatGPT matched both structured bots** on maintained interest, effort and domain knowledge. Access to a capable chatbot, not the added pedagogy, is what students got.
+5. **What students did with the bot mattered more than which bot they had.** Students who engaged substantively kept more interest. In the plain ChatGPT group, more meaningful interaction actually went with lower interest afterwards, and the two structured conditions weakened that link.
+6. **Physics and English behaved the same.** There were no subject differences on interest, effort or knowledge, so the null results were not an artifact of one subject.
+7. **A third of the sample was lost before the posttest.** 130 students, spread fairly evenly across conditions, had no posttest data, and about a fifth of all entries were missing.
 
 ## What the study did
 
-The sample was 371 students in Grades 7–9 at Gymnasium and Realschule schools in Baden-Württemberg (age M = 13.92, SD = 1.27; 45% reported a migration background), recruited by convenience through their teachers and taught in regular physics and English lessons in April and May 2025. Randomization was simple, at the individual level, inside the IWM [[edtech-platform|learning platform]] with no blocking, which produced groups of 109, 140 and 122. The study ran six 45-minute sessions: a pretest, four learning sessions, and a posttest.
+The trial ran in regular physics and English lessons at Gymnasium and Realschule schools in Baden-Württemberg in April and May 2025, with 371 students in Grades 7–9 recruited by convenience through their teachers; nearly half reported a migration background. Randomization was individual and unblocked inside the IWM [[edtech-platform|learning platform]], which produced unequal groups of 109, 140 and 122. The sequence was a pretest, four learning sessions and a posttest, each 45 minutes.
 
-All three conditions used GPT-4o through an identical interface with the same visual and naming conventions; only the system prompt differed, and students needed no prompting skill because the prompts were embedded. The utility-value system asked students to connect content to hobbies, aspirations and daily life. The cognitive-strategy system pushed explaining, self-correction and [[metacognition|metacognitive]] questions through [[socratic-method|Socratic questioning]]. The control chatted lightly about the task and offered no pedagogical strategy. All systems were instructed not to give correct answers even when asked, with solutions shown on a following page; tasks covered energy in physics and job interviews and grammar in English, three or four per session, written by three teachers with two subject specialists.
+All three conditions used GPT-4o through an identical interface with the same visual and naming conventions, so only the system prompt differed. Students needed no prompting skill because the prompts were embedded. The utility-value system asked them to connect content to hobbies, aspirations and daily life. The cognitive-strategy system pushed explaining, self-correction and [[metacognition|metacognitive]] questions through [[socratic-method|Socratic questioning]]. The control chatted lightly about the task and offered no pedagogical strategy. Every system was told not to give correct answers even when asked, with solutions shown on a following page; tasks covered energy in physics and job interviews and grammar in English.
 
-Outcomes were perceived utility value (3 items), self-reported elaboration (3 items), a written learning-by-explaining task rated by teachers blinded to condition, maintained interest (4 items), effort investment (5 items), and three domain-specific knowledge items per subject, z-standardized within subject. The trial was preregistered, analyzed with linear mixed-effects models and Benjamini–Hochberg correction, and checked with multiple imputation, a no-dropout sample, covariates, and a complier average causal effect estimate.
+Outcomes were perceived utility value, self-reported elaboration, a written learning-by-explaining task rated by teachers blinded to condition, maintained interest, effort investment and domain-specific knowledge. The trial was preregistered, analyzed with linear mixed-effects models and correction for multiple comparisons, and checked with multiple imputation, a no-dropout sample, covariates and a complier average causal effect estimate.
 
 ## Why the prompts did not move strategy use
 
@@ -51,10 +55,10 @@ The control condition matters for interpretation. Free-form ChatGPT was itself a
 
 ## What this means for practice
 
-- **Instructors:** Use utility-value prompting when the goal is to stop value draining out of an abstract unit. It held utility value where the strategy prompt did not, but it did not raise value above standard ChatGPT.
-- **Designers:** Do not ship a strategy chatbot and expect strategy use. The explaining prompts produced no measurable change in reported or applied elaboration; the authors argue for longer cycles with implementation guidance and monitoring.
-- **Instructors:** Set expectations before the first session. Students who expected answer-giving disengaged when the bot withheld solutions, and only about half used it meaningfully at least once per task.
-- **Administrators:** Do not treat four 45-minute sessions as an SRL [[curriculum-design|curriculum]]. The authors write that promoting SRL in that window "may be overly optimistic" and call for longitudinal integration across schooling.
+- **Instructors:** Use utility-value prompting when an abstract unit tends to lose its point for students. It held value where the explaining prompt did not — but do not expect it to raise value above what plain ChatGPT already produces.
+- **Instructors:** Set expectations before the first session. Students who expected the bot to hand over answers disengaged when it withheld them, and only about half used it meaningfully at least once per task.
+- **Designers:** Do not ship a strategy chatbot and assume strategy use follows. The explaining prompts produced no measurable change in reported or applied elaboration; the authors argue for longer cycles with implementation guidance and monitoring.
+- **Administrators:** Do not treat four 45-minute sessions as an SRL [[curriculum-design|curriculum]]. The authors write that promoting SRL in that window "may be overly optimistic" and call for integration across the school year.
 - **Researchers:** Analyze the dialogue logs. The study collected them, but its interaction measures capture engagement and compliance rather than planning, monitoring or [[explainable-ai|explanation quality]].
 
 ## Limitations

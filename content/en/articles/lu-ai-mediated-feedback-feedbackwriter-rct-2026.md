@@ -1,7 +1,7 @@
 ---
 title: "AI-Mediated Feedback Improves Student Revisions: A Randomized Trial with FeedbackWriter in a Large Undergraduate Course"
 created: "2026-11-10T19:45:00-05:00"
-updated: "2026-11-10T19:45:00-05:00"
+updated: "2026-11-14T11:30:00-05:00"
 type: article
 sources: ['raw/papers/lu-ai-mediated-feedback-feedbackwriter-rct-2026.md']
 source_url: "https://doi.org/10.1145/3772318.3791121"
@@ -21,19 +21,23 @@ ai_assist:
     role: drafting
     date: "2026-11-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Lu, Ju, Dudley, Sano and Wang (2026) ran a [[rct|randomized controlled trial]] in a 354-student introductory economics course at a public R1 university, comparing handwritten teaching-assistant [[feedback|feedback]] with [[ai-feedback-quality|AI-mediated feedback]] in which TAs reviewed, adopted, edited or dismissed suggestions from a system called FeedbackWriter. Across 1,366 graded essays, students who received AI-mediated feedback produced better revisions, with an effect of Cohen's d = 0.50 — roughly the move from the 50th to the 70th percentile — and the gain grew as TAs adopted more AI suggestions. TAs adopted 51.3% of AI feedback suggestions and corrected 11.3% of AI rubric judgments, and they provided longer comments with broader rubric coverage. The crucial null result sits beside the positive one: assignment to AI-mediated feedback did not improve post-test scores (b = -0.007, p = .31), so better revisions did not translate into measured learning at this dosage.
+> **Synthesis:** Lu, Ju, Dudley, Sano and Wang (2026) ran a [[rct|randomized controlled trial]] in a 354-student introductory economics course at a public R1 university, comparing handwritten teaching-assistant [[feedback|feedback]] with [[ai-feedback-quality|AI-mediated feedback]] in which TAs reviewed, adopted, edited or dismissed suggestions from FeedbackWriter. Across 1,366 graded essays, students who received AI-mediated feedback produced better revisions, by a margin the authors call moderate and compare to moving a student from the middle of the class to the seventieth percentile, and the gain grew as TAs adopted more suggestions. TAs took about half of them and corrected roughly one in nine rubric judgments. The crucial null sits beside the positive one: assignment to AI-mediated feedback did not improve post-test scores, so better revisions did not become measured learning at this dosage.
 
 ## Key Findings
 
-1. **Revision quality improved substantially.** Mean first-to-final draft gain was 0.23 (SD = 0.16) in the FeedbackWriter condition against 0.17 (SD = 0.16) in the baseline, a condition effect of b = 0.05, t = 5.02, p < .001, and Cohen's d = 0.50.
+1. **Revision quality improved substantially.** First-to-final draft gains were larger across the FeedbackWriter condition, at an effect size the authors describe as moderate — roughly the shift from the middle of the class to the seventieth percentile.
 2. **Adoption drove the effect.** Students did better when their TA adopted more AI suggestions, which makes the result a finding about the human-plus-AI workflow rather than about raw model output.
-3. **TAs used AI as a draft, not an answer key.** They adopted 3,141 AI feedback suggestions (51.3% of feedback) against 1,348 historic suggestions (22.2%), flipped 2.83 AI rubric judgments per essay, approved 88.7% of judgments and corrected 11.3%, and further edited 806 comments.
-4. **Feedback changed in form, not just volume.** FeedbackWriter feedback averaged 286 words against 157, covered more rubric items (M = 0.195 vs. 0.165), and contained significantly more summary and solution moves, while praise and problem statements did not differ significantly.
-5. **Inter-rater consistency improved.** TAs in the AI condition assigned scores with lower variance than baseline TAs, and AI-generated scores had lower variance than human baseline scores — one reason the authors used the AI scorer for essay quality.
-6. **Learning did not move.** Post-test means were 0.59 (SD = 0.19) for FeedbackWriter and 0.56 (SD = 0.18) for baseline, with no significant condition effect (b = -0.007, t = -1.02, p = .31), which the authors attribute to a single practice opportunity per rubric item.
+3. **TAs used AI as a draft, not an answer key.** They took about half the AI feedback suggestions, more than twice the share drawn from the historic comment bank, and approved most rubric judgments while correcting roughly one in nine.
+4. **Feedback changed in form, not just volume.** Comments ran nearly twice as long, covered more rubric items, and leaned more on summary and solution moves, while praise and problem statements did not differ.
+5. **Inter-rater consistency improved.** TAs using the tool scored with less variance than baseline TAs, and the AI scorer was more consistent still — one reason the authors used it to judge essay quality.
+6. **Learning did not move.** Post-test scores were level between conditions, a null the authors attribute to a single practice opportunity per rubric item.
 
 ## What FeedbackWriter does
 
@@ -47,6 +51,8 @@ The setting was ECON101, a large introductory course, with 354 students and 11 T
 
 Two writing assignments produced 1,366 graded essays; 703 fell in the FeedbackWriter condition (386 for Assignment 1 and 317 for Assignment 2). Essay quality was scored with an AI pipeline rather than TA scores, because TA scores in the baseline had higher variance; the authors report that the AI scorer was validated against human judgments with Cohen's kappa. Revision quality was the first outcome, a blind post-test the second.
 
+On revision quality the mean first-to-final gain was 0.23 (SD = 0.16) in the FeedbackWriter condition against 0.17 (SD = 0.16) in the baseline. The fitted condition effect was b = 0.05, t = 5.02, p < .001, Cohen's d = 0.50 — the authors gloss that as roughly the shift from the 50th to the 70th percentile. The blind post-test did not follow: 0.59 (SD = 0.19) against 0.56 (SD = 0.18), b = -0.007, t = -1.02, p = .31.
+
 The adoption analysis is the part that distinguishes this study from a simple tool comparison. TAs evaluated 24,853 rubric items and wrote 6,121 comments in the AI condition, and their behavior varied: they repositioned highlights only 11 times, regenerated feedback 230 times, and mostly made small manual edits because the initial suggestion was "good enough." More adoption predicted better revisions, which suggests the benefit comes from the combination of a usable suggestion and a TA who knows when to keep it.
 
 ## Why revisions improved but post-tests did not
@@ -55,15 +61,15 @@ The authors' explanation is dosage. Each rubric item, such as proposing a policy
 
 A second explanation is that the revision task and the post-test measure different things. The revision is a writing task with the essay in front of the student; the post-test is a blind assessment of economic knowledge. Better feedback can improve the artifact without producing durable conceptual change in one pass, which is consistent with the writing-to-learn literature the authors cite.
 
-The quality analysis adds a mechanism. AI-mediated feedback was longer, covered more rubric items, and included more summary and solution moves. Longer feedback is not automatically better, but the rubric coverage measure suggests the gain was partly completeness: TAs using the tool addressed more of what the assignment asked for, and students revised accordingly.
+The quality analysis adds a mechanism. The AI condition adopted 3,141 AI feedback suggestions (51.3% of feedback) against 1,348 historic suggestions (22.2%), flipped 2.83 AI rubric judgments per essay, approved 88.7% of judgments and corrected 11.3%, and further edited 806 comments. FeedbackWriter comments averaged 286 words against 157, and covered more rubric items (M = 0.195 vs. 0.165). Longer feedback is not automatically better, but the rubric coverage measure suggests the gain was partly completeness: TAs using the tool addressed more of what the assignment asked for, and students revised accordingly.
 
 ## What this means for practice
 
-- **Build reviewer support, not student-facing autograding.** The workflow — AI suggests, TA verifies and edits, student receives vetted comments — produced the effect and avoids unfiltered model output.
-- **Leave the final box empty.** Requiring a human to confirm every message is the design choice that makes adoption defensible and keeps accountability with the TA.
-- **Track adoption, not just assignment.** The dose-response pattern means a course where TAs ignore suggestions should not expect the same result.
-- **Expect artifact gains before learning gains.** One revision per rubric item is unlikely to move a post-test; plan repeated practice if durable learning is the goal.
-- **Show the AI's rubric judgment.** The checkbox and color cues let TAs correct the model cheaply, and corrections were frequent enough (11.3%) to matter.
+- **Instructors:** Treat AI feedback as a draft for the reviewer, not a verdict for the student, and keep a human confirming every message that reaches the learner.
+- **Teaching assistants:** Expect to edit rather than simply accept; the TAs in this trial took about half the suggestions, corrected some rubric judgments, and still improved revisions because they knew when a suggestion was good enough.
+- **Course designers:** Track adoption, not just assignment. The dose-response pattern means a course where TAs ignore suggestions should not expect the same result.
+- **Program leads:** Expect artifact gains before learning gains. One revision per rubric item is unlikely to move a post-test, so plan repeated practice if durable learning is the goal.
+- **Tool builders:** Show the AI's rubric judgment with a cheap way to flip it. The checkbox and color cues let TAs correct the model at low cost, and corrections were frequent enough to matter.
 
 ## Limitations
 

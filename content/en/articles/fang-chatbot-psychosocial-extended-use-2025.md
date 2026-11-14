@@ -1,7 +1,7 @@
 ---
 title: "How AI and Human Behaviors Shape Psychosocial Effects of Extended Chatbot Use: A Longitudinal Randomized Controlled Study"
 created: "2026-11-11T15:45:00-05:00"
-updated: "2026-11-11T15:45:00-05:00"
+updated: "2026-11-14T10:00:00-05:00"
 type: article
 published: "2025"
 evidence_context: non_educational
@@ -22,35 +22,39 @@ ai_assist:
     role: drafting
     date: "2026-11-11"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 ---
 
-> **Synthesis:** Fang and colleagues (2025) ran a four-week 3 × 3 [[rct|randomized trial]] in which 981 U.S. adults talked with GPT-4o for at least five minutes a day, varying the interface (text, a neutral voice, or an emotionally engaging voice) and the topic (open-ended, non-personal, or personal). Neither manipulation significantly changed loneliness or real-world socialization, and personal-topic conversations were only marginally associated with lower dependence and problematic use. What tracked harm was voluntary time: every additional minute per day predicted more loneliness, less socialization, more emotional dependence, and more problematic use, whatever condition the participant was in. Participants who trusted the chatbot, felt socially attracted to it, or saw it as conscious were the most dependent, which puts the risk in the relationship a user forms rather than in a modality a designer ships.
+> **Synthesis:** Does talking to a chatbot every day for a month make adults lonelier, or does it help? Fang and colleagues randomized 981 U.S. adults to a four-week 3 × 3 [[rct|trial]] crossing three interfaces — text, a neutral voice, an emotionally engaging voice — with three conversation topics: open-ended, non-personal and personal. Neither choice moved loneliness or real-world socializing, and personal topics were only marginally linked to lower dependence. What did track harm was voluntary time: the more minutes people chose to spend, the lonelier, less social, more dependent and more problematically engaged they were, whatever condition they were in. [[trust|Trust]], social attraction and seeing the bot as conscious marked the most vulnerable users, which locates risk in the relationship, not in a feature a designer ships.
 
 ## Key Findings
 
-1. **The designed conditions produced almost no outcome effects.** Across the 3 × 3 design, neither modality nor conversation type significantly changed loneliness or socialization, and the two small personal-conversation associations with dependence and problematic use were marginal, with the pairwise differences failing correction.
-2. **Voluntary duration predicted every outcome in the harmful direction.** Each extra daily minute was associated with higher loneliness (β = 0.02, p = 0.027), less socialization (β = -0.05, p = 0.0019), more emotional dependence (β = 0.06, p < 0.001), and more problematic use (β = 0.02, p = 0.017).
-3. **Baseline state, not the condition, dominated the week-four score.** Initial loneliness predicted final loneliness at β = 0.86 and initial socialization predicted final socialization at β = 0.85, with all coefficients below 1.0 — regression toward the mean rather than a treatment effect.
-4. **Lonelier people did not use the bot more.** Initial loneliness and socialization correlated negligibly with average daily duration (Spearman's ρ = 0.1 and -0.09), weakening the reverse explanation that distress drove use.
-5. **Text carried more emotional exchange than voice.** Text interactions showed the highest emotional indicators on both sides, with users most often sharing problems (17.13%), seeking support (15.78%), and alleviating loneliness (8.35%), and text produced the most self-disclosure and the most reciprocal disclosure.
-6. **Trust and social attraction marked the vulnerable users.** Higher trust predicted more emotional dependence (b = 0.19, p < 0.001) and more problematic use (b = 0.076, p < 0.001); social attraction to the bot predicted less real-world socialization (b = -0.029, p = 0.0037) and more dependence (b = 0.043, p = 0.0023).
-7. **Attrition was large.** Of 2,539 enrolled participants, 981 completed the four weeks, so the analyzed sample is well under half of those who started.
+1. **The designed features made almost no difference.** Voice versus text, and personal versus open-ended conversation, did not change loneliness or real-world socializing. Personal topics were only marginally linked to lower dependence and problematic use, and even that did not survive correction.
+2. **Time was the variable that tracked harm.** Each additional minute per day of voluntary use went with more loneliness, less socializing, more emotional dependence and more problematic use — consistently, in every condition.
+3. **Where people started predicted where they ended.** Baseline loneliness and baseline socializing were by far the best predictors of the week-four scores, which is regression toward the mean rather than a treatment effect.
+4. **Lonelier people did not use the bot more.** Initial loneliness and socializing barely correlated with average daily duration, which weakens the explanation that distress drove heavier use.
+5. **Text carried more emotional exchange than voice.** Text conversations showed the most problem-sharing, support-seeking and loneliness relief on both sides, and produced the most self-disclosure in both directions.
+6. **Trust and attraction marked the vulnerable users.** Higher trust predicted more emotional dependence and more problematic use; social attraction to the bot predicted less real-world socializing and more dependence.
+7. **Attrition was large.** Of 2,539 enrolled participants, 981 finished the four weeks, so the analyzed sample is well under half of those who started.
 
 ## The design: nine cells, four weeks, four outcomes
 
-The trial crossed three modalities with three conversation topics. Text was default [[generative-ai|ChatGPT]]; the two voice conditions added custom system prompts, one professional and neutral, the other emotionally expressive, with participants assigned one of two synthetic voices. Topics were open-ended (talk about anything), personal (a daily prompt such as reflecting on gratitude), or non-personal (a daily prompt such as how historical events shaped technology). Everyone was asked to spend at least five minutes a day with the bot for 28 days and was paid \$100 for completing the study; the experiment was preregistered and IRB-approved.
+The trial crossed three modalities with three conversation topics. Text was default [[generative-ai|ChatGPT]]; the two voice conditions added custom system prompts, one professional and neutral, the other emotionally expressive, with participants assigned one of two synthetic voices. Topics were open-ended (talk about anything), personal (a daily prompt such as reflecting on gratitude), or non-personal (a daily prompt such as how historical events shaped technology). Everyone was asked to spend at least five minutes a day with the bot for 28 days and was paid \$100 for completing the study; the trial was preregistered and ethics-approved.
 
-Four validated instruments were collected weekly: the 8-item UCLA Loneliness Scale, the 6-item Lubben [[network-analysis|Social Network]] Scale, the craving subscale of the 9-item Affective Dependence Scale adapted to a chatbot, and the Problematic ChatGPT Use Scale. The primary model regressed the week-four value on modality and task, controlling for the baseline value, age, and gender. Analyses were run on the 981 completers, after excluding participants who missed three consecutive daily tasks, averaged fewer than ten messages per session, completed fewer than twelve conversations, or departed from their assigned modality.
+Four validated instruments were collected weekly: the 8-item UCLA Loneliness Scale, the 6-item Lubben [[network-analysis|Social Network]] Scale, the craving subscale of the 9-item Affective Dependence Scale adapted to a chatbot, and the Problematic ChatGPT Use Scale. The primary model regressed the week-four value on modality and task, controlling for the baseline value, age and gender. Analyses ran on the 981 completers, after excluding participants who missed three consecutive daily tasks, averaged fewer than ten messages per session, completed fewer than twelve conversations, or switched modality.
 
 ## The manipulations did not move the outcomes
 
-The headline result is a set of nulls. Neither modality nor task significantly changed loneliness or socialization, and the voice conditions did not produce the anthropomorphic harm the literature predicted; if effects exist, the authors say they are smaller than the study was powered to detect. Personal conversations were associated with lower emotional dependence (β = -0.09, p = 0.05) and lower problematic use (β = -0.04, p = 0.04) than open-ended conversations, but the authors report that these differences did not survive correction, and they read the direction as a hypothesis rather than a finding: structured emotional processing may be safer than open-ended practical reliance.
+The headline result is a set of nulls. Neither modality nor task significantly changed loneliness or socialization, and the voice conditions did not produce the anthropomorphic harm the literature predicted; if effects exist, the authors say they are smaller than the study was powered to detect. Personal conversations were associated with slightly lower emotional dependence and lower problematic use than open-ended conversations, but those differences did not survive correction for multiple comparisons, and the authors read the direction as a hypothesis rather than a finding: structured emotional processing may be safer than open-ended practical reliance.
 
-The behavioral analysis explains why the conditions could differ in process without differing in outcome. Text produced the richest emotional content and the most self-disclosure, in both directions, which the authors suggest is partly privacy — typing discloses more than speaking aloud — and that reciprocity is the plausible route to dependence. The engaging voice was rated most anthropomorphic yet produced more loneliness and less dependence, which the authors connect to an uncanny-valley account rather than to warmth. Personal-topic conversations also drew more socially improper bot responses, including ignored boundaries and failures to escalate distress, and the authors propose that worse social behavior can reduce attachment while constant validation increases it.
+The behavioral analysis explains how the conditions could differ in process without differing in outcome. Text produced the richest emotional content and the most self-disclosure, in both directions, which the authors suggest is partly privacy — typing discloses more than speaking aloud — and that reciprocity is the plausible route to dependence. The engaging voice was rated most anthropomorphic yet produced more loneliness and less dependence, which the authors connect to an uncanny-valley account rather than to warmth. Personal-topic conversations also drew more socially improper bot responses, including ignored boundaries and failures to escalate distress, and the authors propose that worse social behavior can reduce attachment while constant validation increases it.
 
 ## Duration was the variable that tracked harm
 
-Because participants could use the bot as much as they liked, time became the informative measure. Average use was 5.32 minutes a day, ranging from 1.01 to 27.65, and it was right-skewed; people spent significantly more time with the engaging voice than with text, and more time in open-ended than in personal or non-personal conversations. Centering duration within condition and adding it to the models turned it into a significant predictor of all four outcomes, each in the harmful direction.
+Because participants could use the bot as much as they liked, time became the informative measure. Average use was 5.32 minutes a day, ranging from 1.01 to 27.65, and it was right-skewed; people spent significantly more time with the engaging voice than with text, and more time in open-ended than in personal or non-personal conversations. Adding duration to the models turned it into a significant predictor of all four outcomes, each in the harmful direction.
 
 The authors are careful about causality: duration was not manipulated, so the association could run from worsening well-being to more use. They argue that direction is less likely because initial loneliness and socialization barely correlated with later duration, and an exploratory mediation analysis treats duration as a pathway through which modality and task act on socialization and emotional dependence. The practical implication they draw is that duration is a monitorable signal and a candidate intervention target — soft caps or break nudges — for trials that manipulate it directly.
 
@@ -62,10 +66,10 @@ For education the study is a background condition, not a classroom finding. It m
 
 ## What this means for practice
 
-- **Instructors.** Treat sustained daily use of a companion-style assistant as a signal to check in, not as engagement. In this trial the participants who chose to spend the most time had the worst outcomes on all four measures.
-- **Administrators.** Do not market companion features by time-on-app. Duration was a harm marker here, and the study's own suggested levers are soft caps and break nudges rather than more availability.
-- **Designers.** Separate warmth from substitution. The engaging voice was rated most human-like yet did not improve outcomes, and trust plus social attraction — not expressiveness — marked the users who became dependent.
-- **Researchers.** Test duration directly. The authors did not manipulate usage, so the central association is correlational; a trial that assigns capped versus uncapped use would settle whether the pathway is causal.
+- **Instructors:** Treat sustained daily use of a companion-style assistant as a reason to check in, not as engagement. In this trial the participants who chose to spend the most time had the worst outcomes on all four measures.
+- **Administrators:** Do not market companion features by time-on-app. Duration was a harm marker here, and the study's own suggested levers are soft caps and break nudges rather than more availability.
+- **Designers:** Separate warmth from substitution. The engaging voice was rated most human-like yet did not improve outcomes, and trust plus social attraction — not expressiveness — marked the users who became dependent.
+- **Researchers:** Test duration directly. The authors did not manipulate usage, so the central association is correlational; a trial that assigns capped versus uncapped use would settle whether the pathway is causal.
 
 ## Limitations
 

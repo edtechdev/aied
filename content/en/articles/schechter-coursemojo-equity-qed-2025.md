@@ -1,7 +1,7 @@
 ---
 title: "Enhancing English Language Arts Achievement Through Coursemojo's AI-Driven Instruction"
 created: "2026-11-11T07:37:45-05:00"
-updated: "2026-11-11T08:10:15-05:00"
+updated: "2026-11-14T10:00:00-05:00"
 type: article
 evidence_context: educational
 page_kind: [evaluation]
@@ -21,20 +21,24 @@ ai_assist:
     role: drafting
     date: "2026-11-11"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** The Texas companion to the Tennessee evaluation asked whether the same [[intelligent-tutoring|AI literacy assistant]] produced different results in a district where most students were economically disadvantaged and about half were [[multilingual-learning|English learners]]. Two treatment schools (541 students) were compared with 11 comparison schools (2,786). STAAR passing was 70% against 60% (Cox's index = 0.26), but the scale-score gap was small (β = 10.51, p = .008, Hedges' g = 0.07), and NWEA MAP showed no overall difference. Students receiving [[special-education|special education]] gained 0.36 standard deviations by spring; economically disadvantaged students outscored their comparison peers by 13.8 points and surpassed the overall comparison mean. A 12-week, 1.7-day-per-week threshold separated higher and lower scorers.
+> **Synthesis:** The Texas companion to the Tennessee evaluation asked whether the same [[intelligent-tutoring|AI literacy assistant]] produced different results in a district where most students were economically disadvantaged and about half were [[multilingual-learning|English learners]]. Two treatment schools were compared with eleven comparison schools. More students passed the state reading test, but the adjusted scale-score gain was tiny and a computer-adaptive reading test showed no overall difference. Students receiving [[special-education|special education]] made the largest standardized gain on the adaptive test, and economically disadvantaged students outscored comparison peers on the state test. The report's practical message is about dosage: benefits concentrated among students who used the platform for at least twelve weeks.
 
 ## Key Findings
 
-1. **Passing rates moved more than scale scores.** 70% of Coursemojo students reached a passing level on STAAR against 60% of comparison students (β = 0.10, p < .001, Cox's index = 0.26). The adjusted scale-score difference was 10.51 points (p = .008, Hedges' g = 0.07).
-2. **The share meeting grade level rose modestly.** On the Meets Grade Level threshold, 40.6% of Coursemojo students qualified against 36.8% of comparison students (β = 0.04, p = .018, Cox's index = 0.10).
-3. **NWEA MAP found no overall effect.** Winter RIT scores differed by 1.57 points (p = .142, Hedges' g = 0.09) and spring scores by 1.35 points (p = .469, Hedges' g = 0.08). Neither difference was statistically significant.
-4. **Special education students gained on the adaptive measure.** The winter advantage was 3.40 points (p < .001, Hedges' g = 0.21) and the spring advantage 5.82 points (p < .001, Hedges' g = 0.36). Twice as many Coursemojo special education students met grade level on STAAR, 13% against 6% (β = 0.07, p < .01, Cox's index = 0.52), although the 18.62-point STAAR scale-score gap was not significant (p = .308, Hedges' g = 0.18).
-5. **Economically disadvantaged students closed the gap.** They outperformed economically disadvantaged peers in comparison schools by 13.8 points on STAAR (β = 13.81, p < .001, Hedges' g = 0.09) and surpassed the comparison group's overall mean. A larger share reached the passing level (β = 0.11, p < .001, Cox's index = 0.29) and met grade level (β = 0.04, p < .01, Cox's index = 0.11). NWEA MAP showed no significant difference for this subgroup (p = .138 winter, p = .415 spring, g = 0.10).
-6. **A usage threshold separated higher and lower scorers.** Students who used Coursemojo for more than 12 weeks outscored those who used it for 12 or fewer (F(1, 483) = 31.83, p < .001, Cohen's d = .51), and students at 1.7 or more days per week outscored those below that level (F(1, 482) = 20.53, p < .001, Cohen's d = 0.41).
-7. **[[teacher-role|Teacher]] satisfaction was unanimous.** All 12 surveyed teachers rated satisfaction "quite a bit" or "very much." Among 45 students, 78% said the platform helped them learn "quite a bit" or "very much," 91% gave high ratings for their effort, and 84% said they "often" or "always" persisted through challenging activities.
+1. **Passing rates moved more than scale scores.** 70% of Coursemojo students reached a passing level on STAAR against 60% of comparison students, but the adjusted scale-score difference was 10.51 points, which is a very small standardized effect.
+2. **The share meeting grade level rose modestly.** On the Meets Grade Level threshold, 40.6% of Coursemojo students qualified against 36.8% of comparison students, a real but narrow shift in the middle of the distribution.
+3. **The adaptive reading test found no overall effect.** Winter and spring NWEA MAP scores did not differ significantly between the groups, so the gains do not appear as broad reading growth on a common scale.
+4. **Special education students gained most on the adaptive measure.** Their advantage was already visible in winter and had reached a moderate size by spring. Twice as many met grade level on STAAR, 13% against 6%, although the state scale-score gap for this group was not statistically significant.
+5. **Economically disadvantaged students closed the gap on the state test.** They outscored economically disadvantaged peers in comparison schools by 13.8 points and surpassed the comparison group's overall average, and larger shares of them passed and met grade level. The adaptive test again showed no significant difference for this group.
+6. **More use went with better scores.** Students who used Coursemojo for more than twelve weeks, or at least 1.7 days per week, outscored lighter users by margins the authors describe as moderate. Only 2% of students reached the high-dosage band.
+7. **[[teacher-role|Teachers]] and students were positive.** All 12 surveyed teachers rated satisfaction "quite a bit" or "very much"; among 45 students, 78% said the platform helped them learn, 91% gave high ratings for their effort, and 84% said they often or always persisted through challenging activities.
 
 ## A district with little room for a small effect
 
@@ -46,19 +50,19 @@ With only two treatment schools, the authors judged a multilevel model unreliabl
 
 ## What the equity and dosage results show
 
-The subgroup findings carry the report's argument, and they are mixed across measures. Students receiving special education services posted the largest standardized gains on NWEA MAP, reaching Hedges' g = 0.36 by spring, and doubled their rate of meeting grade level on STAAR. The report describes that as two times more Coursemojo special education students meeting grade level than comparison special education students (β = 0.07, p < .01, Cox's index = 0.52), and it prints no subgroup counts. The STAAR scale-score advantage for this group, 18.62 points, was not statistically significant, so the subgroup claim rests on the [[assessment|adaptive assessment]] and the proficiency category rather than on the state scale score.
+The subgroup findings carry the report's argument, and they are mixed across measures. Students receiving special education services posted the largest standardized gains on NWEA MAP by spring and doubled their rate of meeting grade level on STAAR. The report describes that as two times more Coursemojo special education students meeting grade level than comparison special education students, and it prints no subgroup counts. The STAAR scale-score advantage for this group, 18.62 points, was not statistically significant, so the subgroup claim rests on the [[assessment|adaptive assessment]] and the proficiency category rather than on the state scale score.
 
-Economically disadvantaged students present the cleaner result. Their 13.8-point STAAR advantage is significant, and their average exceeded the comparison group's overall average, which is the sense in which the report describes the gap as closed and exceeded. The same group showed no significant difference on either NWEA MAP administration, with Hedges' g = 0.10 at both winter and spring.
+Economically disadvantaged students present the cleaner result. Their 13.8-point STAAR advantage is significant, and their average exceeded the comparison group's overall average, which is the sense in which the report describes the gap as closed and exceeded. The same group showed no significant difference on either NWEA MAP administration.
 
 That divergence is the interpretive problem. The state test, which is the accountability instrument, shows gains; the computer-adaptive reading measure, which tracks growth on a common scale, does not. The authors do not reconcile the two beyond noting that effects strengthened over the year. A reader should treat the STAAR result as real but single-measure, and the MAP null as evidence against a broad reading-growth story. The [[equity-in-ai-education|equity]] case is strongest for economically disadvantaged students on the state test and for special education students on the adaptive test, not for both groups on both.
 
-The dosage analysis is correlational and runs only within the treatment group, but it is the most actionable part of the report. Students above 12 weeks of use averaged higher STAAR scores than those at or below 12 weeks, with Cohen's d = .51; students at 1.7 or more days per week also outscored lighter users, with d = 0.41. Medium usage, defined as at least 12 weeks, beat the comparison group (F(1, 2802) = 20.53, p < .001, Cohen's d = 0.30), and the same held for at least 1.7 days per week (F(1, 2816) = 14.55, p < .001, Cohen's d = 0.25).
+The dosage analysis is correlational and runs only within the treatment group, but it is the most actionable part of the report. Students above twelve weeks of use averaged higher STAAR scores than those at or below that mark, and students at 1.7 or more days per week also outscored lighter users. Medium usage, defined as at least twelve weeks, beat the comparison group, and the same held for at least 1.7 days per week. Because most students never reached the higher bands, the overall treatment estimate is closer to a low-dose estimate than to what the platform could do under full implementation.
 
-The threshold language matters because most students never reached the higher bands. With 2% high-dosage users and about half the sample in the low band, the overall treatment estimate is closer to a low-dose estimate than to the platform's potential. The report says as much in its limitations: the treatment effects may underestimate impact under more intensive implementation.
+The threshold language matters for adoption decisions. With 2% high-dosage users and about half the sample in the low band, a school that buys the platform but schedules it once a week should not expect the results this report describes. The report says as much in its limitations: the treatment effects may underestimate impact under more intensive implementation.
 
 ## What this means for practice
 
-- **Instructors:** aim for at least 12 weeks and 1.7 days per week before judging the platform. The dosage contrasts are large (Cohen's d = .51 for weeks of use), but they compare users with users, so they describe an implementation target rather than a proven dose.
+- **Instructors:** aim for at least twelve weeks and 1.7 days per week before judging the platform. The dosage contrasts are moderate, but they compare users with users, so they describe an implementation target rather than a proven dose.
 - **Administrators:** budget for the support model, not just licenses. This pilot included summer orientation, coaching on district development days, and classroom observation; the authors attribute implementation success partly to that layer.
 - **Designers:** the weakest participation was in writing (45%) and Close Read with Quick Write (6%); the authors recommend user research on writing, which drew less engagement than reading.
 - **Researchers:** report adaptive and accountability measures side by side. Here they disagree, and the disagreement is more informative than either result alone.

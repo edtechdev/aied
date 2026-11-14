@@ -1,7 +1,7 @@
 ---
 title: "Self-efficacy, engagement, attitudes, and perceived learning in AI-assisted STEM education"
 created: "2026-11-09T09:21:50-05:00"
-updated: "2026-11-09T10:20:00-05:00"
+updated: "2026-11-14T11:30:00-05:00"
 type: article
 page_kind: [evaluation]
 research_method: [survey]
@@ -19,23 +19,27 @@ ai_assist:
     role: drafting
     date: "2026-11-09"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 verified: [citation, numbers, links]
 pedagogy: [self-efficacy, student-engagement, motivation]
 technology: [pedagogical-agent, personalized-learning, adaptive-learning]
 assessment: [self-report-measures]
 methods: [quantitative-research]
 ---
-> **Synthesis:** Across 710 first-year secondary students in [[stem-education|STEM]] classrooms in Greece, Portugal, and Spain, how favorably students felt about an AI learning companion that gave [[personalized-learning|personalized]] guidance was more strongly associated with their reported learning than how engaged they were, how confident they felt, or whether they intended to keep using AI. After a single 45-minute [[inquiry-based-learning|inquiry-based]] laboratory session, a [[quantitative-research|PLS-SEM]] model on post-session self-reports found attitude the largest direct association with perceived learning (β = .306), then [[student-engagement|engagement]] (β = .275), intention (β = .176), and [[self-efficacy|self-efficacy]] (β = .119), with the model explaining 46.8% of the variance in perceived learning. [[pedagogical-agent|The companion]] tracked students across five inquiry phases, scored responses 1 to 3, and adjusted difficulty by performance band. Because every construct came from one questionnaire administered once, with no control group and no objective achievement measure, the coefficients describe how students' perceptions hung together in one lesson — not what the AI caused.
+> **Synthesis:** Across 710 first-year secondary students in [[stem-education|STEM]] classrooms in Greece, Portugal, and Spain, how favorably students felt about an AI learning companion was more strongly tied to their reported learning than how engaged they were, how confident they felt, or whether they meant to keep using it. After one 45-minute [[inquiry-based-learning|inquiry-based]] laboratory session, a [[quantitative-research|structural model]] built on post-session self-reports put attitude first, then [[student-engagement|engagement]], intention, and [[self-efficacy|self-efficacy]] last. [[pedagogical-agent|The companion]] gave [[personalized-learning|personalized]] guidance across five inquiry phases and adjusted difficulty as students worked. Because everything came from one questionnaire given once, with no control group and no objective achievement measure, the pattern describes how students' perceptions hung together in a single lesson, not what the AI caused.
 
 ## Key Findings
 
-1. **Attitude was the strongest correlate of perceived learning.** The direct path from attitude to perceived learning was β = .306 (p < .001, f² = .113), the largest in the model even after accounting for intention, engagement, and self-efficacy.
-2. **Engagement trailed attitude but remained substantial.** Reported engagement with the companion predicted perceived learning at β = .275 (p < .001, f² = .077).
-3. **Intention carried a smaller direct path and a real indirect one.** Intention predicted perceived learning at β = .176 (p < .001, f² = .040), and attitude worked through intention as well: attitude to intention was β = .455 (f² = .261) and the indirect attitude–intention–learning path was β = .080 (p < .001).
-4. **Self-efficacy was the weakest predictor.** Self-efficacy predicted perceived learning at β = .119 (p < .001, f² = .022), a small effect the authors read as a concurrent association rather than evidence of change.
-5. **The model explained 46.8% of perceived learning** and 20.7% of intention, with an SRMR of .074 and collinearity within limits (VIF range 1.000–1.844).
-6. **The sample was new to this technology.** None of the 710 students had used an AI-based learning companion before, though about 35 percent reported prior experience with educational software.
-7. **Method bias diagnostics were borderline-clean, not decisive.** The first unrotated factor accounted for 40.5% of total variance, below the 50% threshold, but the authors note that common-method effects cannot be ruled out when all constructs come from one instrument.
+1. **Attitude toward the companion was the strongest correlate of reported learning.** Of the four things the model compared, how good, useful and wise students judged the tool mattered most for what they said they had learned — ahead of engagement, intention to keep using it, and confidence in the subject.
+2. **Engagement came next, close behind attitude.** Students who reported working actively with the companion also reported more learning, but the gap between engagement and attitude was small enough that the two are best read together rather than ranked.
+3. **Intention to keep using AI mattered on its own and through attitude.** Students who meant to continue reported more learning directly, and attitude also fed that intention, so a favorable appraisal worked through the plan to continue as well as alongside it.
+4. **Confidence in the subject was the weakest of the four.** Self-efficacy moved in the same direction as the rest but by a margin the authors treat as a concurrent association, not evidence that the session changed how capable students felt.
+5. **Together the four explained just under half of reported learning.** That is a large share for a single 45-minute lesson, and it is also a warning that the four measures overlap: students who liked the session tended to report engagement, confidence and learning in the same breath.
+6. **These students were new to AI companions.** None had used an AI-based learning companion before, though about a third had used other educational software, so the responses describe a first encounter rather than settled use.
+7. **The method check was inconclusive rather than clean.** The single-factor test stayed under the conventional threshold, but the authors concede that common-method bias cannot be excluded when every construct comes from the same instrument at the same moment.
 
 ## What the study did
 
@@ -43,7 +47,7 @@ The study ran in real classrooms rather than a lab: 710 first-year secondary stu
 
 ## What predicted perceived learning
 
-Attitude toward using the companion for STEM work — whether students judged it good, useful, and wise — produced the largest standardized coefficient at β = .306 (SE = .033, t = 9.186, 95% CI [.239, .371]). Engagement followed at β = .275 (SE = .035, 95% CI [.206, .343]), intention at β = .176 (SE = .033), and self-efficacy at β = .119 (SE = .030). Attitude also fed intention at β = .455, the strongest path in the model, and the indirect route from attitude through intention to perceived learning was β = .080 (95% CI [.050, .110]). The authors frame all of this as one simultaneous snapshot: because intention and perceived learning were captured in the same questionnaire, a student's satisfaction with the session may have shaped their stated intention to continue rather than the reverse. That reading matters for practice, since it means the attitude coefficient is best treated as a measure of how students appraised the experience, not as a lever the design has proven it can pull.
+Attitude toward using the companion for STEM work — whether students judged it good, useful, and wise — produced the largest standardized coefficient at β = .306 (SE = .033, t = 9.186, 95% CI [.239, .371]; f² = .113). Engagement followed at β = .275 (SE = .035, 95% CI [.206, .343]; f² = .077), intention at β = .176 (SE = .033; f² = .040), and self-efficacy at β = .119 (SE = .030; f² = .022). Attitude also fed intention at β = .455, the strongest path in the model, and the indirect route from attitude through intention to perceived learning was β = .080 (95% CI [.050, .110]). The ordering is therefore not just a ranking of near-neighbors: in effect-size terms attitude carried roughly five times the unique contribution of self-efficacy. The model fit acceptably (SRMR = .074) with collinearity within limits (VIF range 1.000–1.844), so the four predictors were not simply restating one another. The authors frame all of this as one simultaneous snapshot: because intention and perceived learning were captured in the same questionnaire, a student's satisfaction with the session may have shaped their stated intention to continue rather than the reverse. That reading matters for practice, since it means the attitude coefficient is best treated as a measure of how students appraised the experience, not as a lever the design has proven it can pull.
 
 ## The companion and the inquiry structure
 
@@ -51,10 +55,10 @@ The AI learning companion implements a five-phase inquiry cycle — Engagement, 
 
 ## What this means for practice
 
-- **Instructors.** Prepare students for automatic guidance rather than on-demand help: the companion offers support on its own schedule, so students who expect to ask for help when stuck will need a routine for reading the prompt in front of them.
-- **Instructors.** Judge an AI companion by more than student satisfaction. Attitude was the strongest correlate of perceived learning (β = .306), which is exactly the kind of appraisal a likable tool earns without teaching anything.
-- **Developers.** Instrument perceived learning against objective performance before claiming [[learning-gains|learning gains]]; this study measured only self-reported learning after one 45-minute session, and the authors call for objective problem-solving measures.
-- **Researchers.** Report the intraclass structure when students are nested in classes and schools. These students came from 6 schools and 24 classes, and the analysis did not model that clustering, so the reported standard errors may understate uncertainty.
+- **Instructors:** Prepare students for automatic guidance rather than on-demand help: the companion offers support on its own schedule, so students who expect to ask for help when stuck will need a routine for reading the prompt in front of them.
+- **Instructional designers:** Judge an AI companion by more than student satisfaction. Attitude was the strongest correlate of perceived learning, which is exactly the kind of appraisal a likable tool earns without teaching anything.
+- **Developers:** Instrument perceived learning against objective performance before claiming [[learning-gains|learning gains]]; this study measured only self-reported learning after one 45-minute session, and the authors call for objective problem-solving measures.
+- **Researchers:** Report the intraclass structure when students are nested in classes and schools. These students came from 6 schools and 24 classes, and the analysis did not model that clustering, so the reported standard errors may understate uncertainty.
 
 ## Limitations
 

@@ -1,7 +1,7 @@
 ---
 title: "Assessing learning beyond AI assistance: assisted performance and unaided retention in generative AI-supported learning"
 created: "2026-11-12T09:30:00-05:00"
-updated: "2026-11-12T09:30:00-05:00"
+updated: "2026-11-14T11:30:00-05:00"
 type: article
 page_kind: [synthesis]
 research_method: [literature review]
@@ -17,6 +17,10 @@ ai_assist:
     role: drafting
     date: "2026-11-12"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 verified: [citation, numbers, links]
 foundations: [cognitive-offloading]
 pedagogy: [transfer-of-learning, self-regulated-learning]
@@ -24,17 +28,17 @@ technology: [generative-ai]
 assessment: [assessment, learning-gains, automated-assessment]
 ---
 
-> **Synthesis:** Wei (2026) sorts the evidence on [[generative-ai|generative AI]] in learning by what the test actually measures: performance while the tool is available, an immediate posttest without it, or a delayed posttest without it. Three Web of Science Core Collection searches covering 1 January 2022 to 1 October 2026 returned 670 records, of which 664 were unique; twelve studies were purposively selected for review, and they run from 32 [[nursing-education|nursing]] undergraduates to a [[rct|randomized trial]] in which the ChatGPT-supported group scored 5.75/10 against 6.85/10 on a surprise supervised Day-45 test (p = 0.002, reported Cohen's d = 0.68). The direction is not uniform: structured tutoring and feedback conditions produced gains, unrestricted assistance produced deficits on unaided examinations, and language contrasts split by skill. What the corpus cannot support is the inference most readers want from it. None of the twelve studies scored assisted performance, an immediate unaided test and a delayed unaided test together with verified AI exclusion at both, so the review documents a gap in the [[assessment|assessment]] literature rather than a forgetting curve.
+> **Synthesis:** Wei (2026) sorts the evidence on [[generative-ai|generative AI]] in learning by what the test measures: assisted performance, an immediate posttest without it, or a delayed one. Three Web of Science searches returned 670 records, 664 unique; twelve studies were purposively selected, from 32 [[nursing-education|nursing]] undergraduates to a [[rct|randomized trial]] where ChatGPT-supported study fell behind on a surprise supervised test at day 45. The direction is not uniform: structured tutoring and feedback produced gains, unrestricted assistance produced deficits on unaided examinations, and language contrasts split by skill. What the corpus cannot support is what readers want from it. None of the twelve scored assisted performance and two unaided tests together with verified AI exclusion, so the review documents a gap in the [[assessment|assessment]] literature rather than a forgetting curve.
 
 ## Key Findings
 
-1. **No study among the twelve measured all three conditions.** Assisted performance, an immediate no-AI test and a delayed one with verified exclusion never appeared in one design, so gains are not tied to retention.
-2. **Unrestricted access can cost unaided performance.** In school [[math-education|mathematics]], GPT access improved practice scores but was associated with a 17% lower unaided exam score than no-AI instruction; tutor [[guardrails|guardrails]] removed the deficit.
-3. **A longer interval does not reliably favor AI support.** A randomized Day-45 test put ChatGPT-supported study at 5.75/10 against 6.85/10 (p = 0.002, d = 0.68), with 29.2% attrition and no matched immediate baseline.
-4. **Retention contrasts are skill-specific.** One week after lexical tasks, [[conversational-ai|chatbot]]-supported learners led on productive collocation retention (6.15 versus 3.61/10, p < 0.001) while receptive vocabulary scores were similar (7.67 versus 7.58/10, p = 0.863).
-5. **Designed support looks different from unrestricted access.** Theory-informed tutoring and practice-with-feedback conditions produced immediate advantages, including a 13 pp. gain over lecture (p = 0.009), but those comparisons stopped at immediate or short-interval outcomes.
-6. **Most studies could not establish AI exclusion at testing.** Where test-time access was undocumented it was coded "not established", and a supervised or paper-based test was not automatically classified as verified exclusion.
-7. **Candidate mediators went unmeasured.** Retrieval attempts, elaboration and feedback use are the processes the review can name, and almost none of the twelve studies recorded them well enough to test as mediators.
+1. **No study measured all three conditions.** None of the twelve scored assisted performance, an immediate no-AI test and a delayed no-AI test together with verified exclusion at both, so measured gains cannot be tied to retention.
+2. **Unrestricted access can cost unaided performance.** In school [[math-education|mathematics]], GPT access lifted practice scores but came with an unaided exam score roughly a sixth lower than no-AI instruction; tutor [[guardrails|guardrails]] removed the deficit.
+3. **A longer interval did not favor AI support.** On a supervised test at day 45, ChatGPT-supported study came out clearly behind conventional study on a ten-point scale, with nearly a third of participants lost to attrition and no matched immediate baseline.
+4. **Retention contrasts depend on the skill tested.** One week after lexical tasks, [[conversational-ai|chatbot]]-supported learners were well ahead on productive collocation retention while receptive vocabulary was level between groups.
+5. **Designed support looks different from unrestricted access.** Theory-informed tutoring and practice-with-feedback conditions produced immediate advantages — one comparison gained thirteen percentage points over lecture — but those studies stopped at immediate or short-interval outcomes.
+6. **Most studies could not establish AI exclusion at testing.** Where test-time access was undocumented it was coded "not established," and a supervised or paper-based test was not automatically classified as verified exclusion.
+7. **Candidate mediators went unmeasured.** Retrieval attempts, elaboration and feedback use are the processes the review can name, and almost none of the twelve recorded them well enough to test as mediators.
 
 ## Three conditions, three different questions
 
@@ -42,7 +46,9 @@ An assisted score combines what the learner can do with what the tool supplies, 
 
 ## What the twelve studies found
 
-The evidence tracks [[learning-design|instructional design]] more than the tool. Barcaui's randomized trial found the ChatGPT group behind at Day 45, but study time also differed ([[self-report-measures|self-reported]] means 3.2 versus 5.8 h) and the paper's curves interpolate between assumed and observed endpoints rather than estimating a forgetting trajectory. Qin et al. compared three intact undergraduate classes: the group-by-time interaction was significant (p = 0.001), the GenAI-versus-traditional delayed interaction was not (p = 0.129), and the cognitive-linguistics-versus-traditional contrast was (p = 0.013), across packages taught by different instructors. Sezgunsay et al. found no immediate difference among 32 nursing undergraduates but a six-week median advantage of 65 versus 55 (p = 0.044), measured remotely and unsupervised. Zhang and Huang tested 52 high-school learners over 8 weeks and reported descriptive follow-up gaps, but their reported test statistics do not reconcile with the design, so only the means can be read. Gustafsson et al. found nothing after 4 weeks of team-allocated trauma training (p = 0.33) — a null result, not equivalence.
+The evidence tracks [[learning-design|instructional design]] more than the tool. Barcaui's randomized trial put the ChatGPT-supported group at 5.75 out of 10 on the surprise supervised day-45 test against 6.85 for conventional study (p = 0.002, reported Cohen's d = 0.68), with 29.2% attrition — but study time also differed ([[self-report-measures|self-reported]] means 3.2 versus 5.8 h), and the paper's curves interpolate between assumed and observed endpoints rather than estimating a forgetting trajectory. Qin et al. compared three intact undergraduate classes: the group-by-time interaction was significant (p = 0.001), the GenAI-versus-traditional delayed interaction was not (p = 0.129), and the cognitive-linguistics-versus-traditional contrast was (p = 0.013), across packages taught by different instructors. Sezgunsay et al. found no immediate difference among 32 nursing undergraduates but a six-week median advantage of 65 versus 55 (p = 0.044), measured remotely and unsupervised. Zhang and Huang tested 52 high-school learners over 8 weeks and reported descriptive follow-up gaps, but their reported test statistics do not reconcile with the design, so only the means can be read. Gustafsson et al. found nothing after 4 weeks of team-allocated trauma training (p = 0.33) — a null result, not equivalence.
+
+Two further contrasts are worth separating by task. In school mathematics, an unrestricted GPT condition improved practice performance yet sat 17% below no-AI instruction on the unaided examination, and a tutor condition with guardrails removed that deficit — the clearest evidence in the review that the arrangement, not the tool, sets the direction. In vocabulary, one week of lexical work left the chatbot group well ahead on productive collocation retention (6.15 against 3.61 out of 10, p < 0.001) while receptive vocabulary was indistinguishable (7.67 against 7.58, p = 0.863), a split the review reads as skill-specific rather than as general retention. The designed-support studies point the same way: theory-informed tutoring and practice with feedback produced immediate advantages, including a 13 percentage-point gain over lecture (p = 0.009), but none of them carried the comparison to a delayed unaided test.
 
 ## Why assistance helps and hurts: retrieval, offloading, feedback
 
@@ -54,11 +60,11 @@ The closing proposal is a design specification, and the most portable part of th
 
 ## What this means for practice
 
-- **Instructors.** Decide which of the three conditions each assessment is meant to report, and label it that way: a task completed with AI is evidence of supported performance, not of what students can do when the tool is gone.
-- **Assessment designers.** If a no-AI test is meant to certify independent capability, write the access restriction and the compliance check into the procedure, and treat a paper-based or merely invigilated test as unverified until both exist.
-- **Faculty developers.** Pair any AI-integrated unit with a scheduled unaided retrieval task later on, since the review's positive examples combined structured support with a separate independent measure.
-- **Administrators.** Do not read rising assisted-task scores as learning gains in program review; ask instead which assessments in the program produce unaided evidence and how test-time access was verified.
-- **Researchers.** Report AI availability during learning and at each test, the construct assessed, and the learning activities between assessments, since these are the three omissions that make the twelve studies uncomparable.
+- **Instructors:** Decide which of the three conditions each assessment is meant to report, and label it that way: a task completed with AI is evidence of supported performance, not of what students can do when the tool is gone.
+- **Assessment designers:** If a no-AI test is meant to certify independent capability, write the access restriction and the compliance check into the procedure, and treat a paper-based or merely invigilated test as unverified until both exist.
+- **Faculty developers:** Pair any AI-integrated unit with a scheduled unaided retrieval task later on, since the review's positive examples combined structured support with a separate independent measure.
+- **Administrators:** Do not read rising assisted-task scores as learning gains in program review; ask instead which assessments in the program produce unaided evidence and how test-time access was verified.
+- **Researchers:** Report AI availability during learning and at each test, the construct assessed, and the learning activities between assessments, since these are the three omissions that make the twelve studies uncomparable.
 
 ## Limitations
 
