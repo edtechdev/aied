@@ -20,6 +20,7 @@ technology: [generative-ai, conversational-ai]
 assessment: [self-report-measures, learning-gains]
 methods: [mixed-methods-research]
 ethics: [privacy]
+contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting

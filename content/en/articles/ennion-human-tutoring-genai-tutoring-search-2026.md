@@ -31,15 +31,10 @@ ai_assist:
 ## Key Findings
 
 1. **Human tutoring made hard problems feel manageable.** Students with the tutor reported the lowest perceived difficulty in both sections, and the gap widened in the second.
-
 2. **Human tutoring kept students starting problems.** They attempted significantly more questions than the GenAI group in the first section and the internet group in the second.
-
 3. **The GenAI tutor sustained effort without easing difficulty.** By the second section its students reported significantly higher effort than human-tutored students, alongside higher perceived difficulty.
-
 4. **Open web search was the most stressful route.** Stress ran at 32.0% in the internet group, against 19.2% under the GenAI tutor and 5.8% under human tutoring.
-
 5. **Support type did not change appetite for harder problems.** Behavioral challenge-seeking did not differ by condition and tracked pre-existing dispositions instead.
-
 6. **Effort is not evidence of learning.** The study measured engagement, not understanding; higher effort can read as persistence or as unresolved difficulty.
 
 ## How the experiment was run

@@ -19,6 +19,7 @@ confidence: high
 evidence_context: educational
 source_depth: full text
 source_url: "https://doi.org/10.1186/s40594-026-00659-2"
+contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
