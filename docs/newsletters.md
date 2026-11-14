@@ -138,7 +138,11 @@ used once; a second mention means a second, different implication.
 
 Every featured item is linked twice: the `###` heading is the article page, and the first mention of
 the study in the body is an inline link on a noun phrase ("Chen and colleagues", "the EduWild
-dataset", "TutorCaseBench"). Then link the concept terms the sentence is really about, since that is
+dataset", "TutorCaseBench"). That body link belongs in the **first sentence** of the summary, because
+the issue is repasted into LinkedIn, whose editor strips links out of headings: an item whose only
+link sits in its `###` heading arrives there with no way to follow it. Open with the study as a
+linked subject ("[Meyer and colleagues](…) randomized 391 students"), never a bare author name or an
+anonymous "a study of 60 students". Then link the concept terms the sentence is really about, since that is
 what the article pages themselves do: `cognitive offloading` on "leaning on it", `self-report
 measures` on "survey", `voice-based AI feedback` on the authors. Twenty to thirty concept links
 across an issue is right; every other word being blue is not.

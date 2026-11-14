@@ -108,6 +108,13 @@ The issue is read as a browsing surface, so every feature has to be reachable wi
 - Link each `###` item heading to its article page, **and** link the first mention of the study in the
   body on a noun phrase ("Chen and colleagues", "the EduWild dataset", "TutorCaseBench"). A heading
   alone reads as a title; the body link is what tells a reader the summary exists.
+- **Put that body link in the FIRST SENTENCE of every article summary.** LinkedIn's editor strips
+  links out of `###` headings when the issue is pasted in, so the opening sentence is the only route
+  that survives when the heading link disappears. Name the study as the grammatical subject and link
+  it: "[Meyer and colleagues](…) randomized 391 students", "[One charter school](…) gave every
+  first-grade teacher a tutor". Do not open with a bare author name, an anonymous "A study of 60
+  students", or a sentence whose only link is a concept page. Check every featured item: the first
+  sentence must carry an `/articles/` link.
 - **A resource entry needs that body link too, and LinkedIn is the reason it is not optional.** The
   issue is republished as a LinkedIn newsletter, whose editor strips links out of headings, so an
   entry whose only link sits in its `###` heading arrives in that edition with no way to follow it.

@@ -22,8 +22,13 @@ frontmatter details.
 - Link each `###` heading to its article page, then link every body mention that identifies the study.
   A sample-size shorthand such as `302-adult experiment` or `193 students` is a study mention, not a
   bare number; link it to the article page.
-- Do not rely on the heading link alone. LinkedIn and body skimmers lose it; the body link is what makes
-  the study reachable.
+- Do not rely on the heading link alone. LinkedIn strips links from `###` headings on paste; the body
+  link is what makes the study reachable.
+- **The body link goes in the first sentence, not somewhere in the paragraph.** Open the summary with
+  the study as a linked subject: `[Meyer and colleagues](…) randomized 391 students`,
+  `[One charter school](…) gave every first-grade teacher a tutor`. A bare author name or an anonymous
+  "a study of 60 students" leaves the item unfollowable in the LinkedIn edition, where the heading
+  link is already gone.
 - Use the source page path (`/pages/<slug>/`) for study links, not a guessed article path.
 
 ## Link every concept mention
@@ -49,7 +54,11 @@ frontmatter details.
 
 - Render the preview and audit every internal URL against `dist/`; a rendered page succeeds even when a
   slug is broken.
-- For each feature block, assert at least one body `/pages/<slug>/` link and one `See related:` line.
+- For each feature block, assert at least one body `/pages/<slug>/` or `/articles/<slug>/` link and one
+  `See related:` line.
+- Assert the first sentence of every article summary carries the article link. Split each `###` block
+  at its first sentence ending and require an `/articles/` URL there; a link further down the
+  paragraph does not survive the LinkedIn paste.
 - Scan for bare numeric study descriptors (`\d+-adult`, `\d+-student`, `\d+-participant`) that lack a
   nearby link.
 - Confirm no em dashes, en dashes, or nested links.
