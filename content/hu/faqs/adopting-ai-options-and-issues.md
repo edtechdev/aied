@@ -1,7 +1,7 @@
 ---
 title: "Milyen lehetőségeket és szempontokat kell mérlegelni az MI-eszközök bevezetésekor?"
 created: "2026-11-12T19:40:00-05:00"
-updated: "2026-11-12T19:40:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ A választásnak az előtted álló döntéshez kell illeszkednie. Egy személy 
 
 ## A rövid változat
 
-Öt szabály a legtöbbet lefedi. Először az adathatárt rendezd, mert minden más újratárgyalható, ez nem. Válaszd a legkisebb illeszkedő formát: ingyenes vagy kiszervezett eszközök kísérleti projekthez, hosztolt platform, ha adatkontroll kell GPU-k nélkül, átjáró (gateway), ha kvótákra és útválasztásra van szükség, és saját inferencia csak akkor, ha a másik három csődöt mond. Hasonlítsd össze a felhasználónkénti és a fogyasztásalapú árazást a saját számaiddal, mert a használat nagy része általában néhány intenzív felhasználótól származik. Tedd a jóváhagyott utat gyorsabbá a nem jóváhagyottnál, mert az EDUCAUSE szerint a munkatársak és oktatók 94%-a használ MI-t a munkájában, 54% ismeri a szabályzatot, és 56% olyan eszközöket használ, amelyeket az intézmény nem biztosít. Aztán előre döntsd el, milyen bizonyíték késztetne leállásra, mert a kilépési teszt nélküli bevezetés alapértelmezés szerint véglegessé válik.
+Öt szabály a legtöbbet lefedi.
+
+1. Először az adathatárt rendezd, mert minden más újratárgyalható, ez nem.
+2. Válaszd a legkisebb illeszkedő formát: ingyenes vagy kiszervezett eszközök kísérleti projekthez, hosztolt platform, ha adatkontroll kell GPU-k nélkül, átjáró (gateway), ha kvótákra és útválasztásra van szükség, és saját inferencia csak akkor, ha a másik három csődöt mond.
+3. Hasonlítsd össze a felhasználónkénti és a fogyasztásalapú árazást a saját számaiddal, mert a használat nagy része általában néhány intenzív felhasználótól származik.
+4. Tedd a jóváhagyott utat gyorsabbá a nem jóváhagyottnál, mert az EDUCAUSE szerint a munkatársak és oktatók 94%-a használ MI-t a munkájában, 54% ismeri a szabályzatot, és 56% olyan eszközöket használ, amelyeket az intézmény nem biztosít.
+5. Aztán előre döntsd el, milyen bizonyíték késztetne leállásra, mert a kilépési teszt nélküli bevezetés alapértelmezés szerint véglegessé válik.
 
 ## Egyéni szinten
 

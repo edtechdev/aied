@@ -1,7 +1,7 @@
 ---
 title: "YZ Araçlarını Benimserken Hangi Seçenekler ve Sorunlar Dikkate Alınmalı?"
 created: "2026-11-12T19:20:00-05:00"
-updated: "2026-11-12T19:20:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ Seçim, önünüzdeki kararla eşleşmeli. Bir birey, bir araca ne koyacağına 
 
 ## Kısa özet
 
-Beş kural çoğunu kapsar. Önce veri sınırını netleştirin, çünkü diğer her şey yeniden müzakere edilebilir, o edilemez. Size uyan en küçük biçimi seçin: pilot için ücretsiz ya da dışarıya verilmiş araçlar, GPU olmadan veri denetimi gerektiğinde barındırılan bir platform, kotalar ve yönlendirme gerektiğinde bir ağ geçidi ve kendi çıkarımınız yalnızca diğer üçü başarısız olduğunda. Kişi başı ve kullanım bazlı fiyatlandırmayı kendi sayılarınızla karşılaştırın, çünkü kullanımın çoğu genellikle birkaç yoğun kullanıcıdan gelir. Onaylanmış yolu onaylanmamış olandan daha hızlı yapın, çünkü EDUCAUSE personel ve öğretim elemanlarının %94'ünün işleri için YZ kullandığını, %54'ünün politikadan haberdar olduğunu ve %56'sının kurumun sağlamadığı araçları kullandığını buldu. Sonra hangi kanıtın sizi durduracağına önceden karar verin, çünkü çıkış testi olmayan bir benimseme varsayılan olarak kalıcı hâle gelir.
+Beş kural çoğunu kapsar.
+
+1. Önce veri sınırını netleştirin, çünkü diğer her şey yeniden müzakere edilebilir, o edilemez.
+2. Size uyan en küçük biçimi seçin: pilot için ücretsiz ya da dışarıya verilmiş araçlar, GPU olmadan veri denetimi gerektiğinde barındırılan bir platform, kotalar ve yönlendirme gerektiğinde bir ağ geçidi ve kendi çıkarımınız yalnızca diğer üçü başarısız olduğunda.
+3. Kişi başı ve kullanım bazlı fiyatlandırmayı kendi sayılarınızla karşılaştırın, çünkü kullanımın çoğu genellikle birkaç yoğun kullanıcıdan gelir.
+4. Onaylanmış yolu onaylanmamış olandan daha hızlı yapın, çünkü EDUCAUSE personel ve öğretim elemanlarının %94'ünün işleri için YZ kullandığını, %54'ünün politikadan haberdar olduğunu ve %56'sının kurumun sağlamadığı araçları kullandığını buldu.
+5. Sonra hangi kanıtın sizi durduracağına önceden karar verin, çünkü çıkış testi olmayan bir benimseme varsayılan olarak kalıcı hâle gelir.
 
 ## Birey düzeyinde
 

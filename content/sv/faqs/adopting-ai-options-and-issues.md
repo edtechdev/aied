@@ -1,7 +1,7 @@
 ---
 title: "Vilka alternativ och frågor bör man överväga när man inför AI-verktyg?"
 created: "2026-11-12T11:22:00-05:00"
-updated: "2026-11-12T12:05:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ Valet bör matcha det beslut som ligger framför dig. En enskild person beslutar
 
 ## Den korta versionen
 
-Fem regler täcker det mesta. Bestäm datagränsen först, för allt annat går att omförhandla och det går inte. Välj den minsta form som passar: gratis eller utkontrakterade verktyg för en pilot, en plattform du driftar själv när du behöver datakontroll utan GPU:er, en gateway när du behöver kvoter och routning, och egen inferens bara när de tre andra inte räcker. Jämför pris per plats och förbrukningsbaserat pris mot dina egna siffror, eftersom merparten av användningen oftast kommer från några få tunga användare. Gör den godkända vägen snabbare än den icke godkända, eftersom EDUCAUSE fann att 94 % av personal och lärare använder AI i arbetet, 54 % känner till policyn och 56 % använder verktyg som institutionen inte tillhandahåller. Bestäm sedan i förväg vilka bevis som skulle få dig att stoppa, för införande utan ett utträdestest blir permanent som standard.
+Fem regler täcker det mesta.
+
+1. Bestäm datagränsen först, för allt annat går att omförhandla och det går inte.
+2. Välj den minsta form som passar: gratis eller utkontrakterade verktyg för en pilot, en plattform du driftar själv när du behöver datakontroll utan GPU:er, en gateway när du behöver kvoter och routning, och egen inferens bara när de tre andra inte räcker.
+3. Jämför pris per plats och förbrukningsbaserat pris mot dina egna siffror, eftersom merparten av användningen oftast kommer från några få tunga användare.
+4. Gör den godkända vägen snabbare än den icke godkända, eftersom EDUCAUSE fann att 94 % av personal och lärare använder AI i arbetet, 54 % känner till policyn och 56 % använder verktyg som institutionen inte tillhandahåller.
+5. Bestäm sedan i förväg vilka bevis som skulle få dig att stoppa, för införande utan ett utträdestest blir permanent som standard.
 
 ## På individnivå
 

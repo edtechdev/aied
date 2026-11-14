@@ -1,7 +1,7 @@
 ---
 title: "采用 AI 工具时，有哪些选项和问题需要考虑？"
 created: "2026-11-12T11:20:00-05:00"
-updated: "2026-11-12T11:20:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -12,7 +12,7 @@ methods: [ai-ed-evaluation]
 audience: [instructors, administrators, educational technology developers, policymakers, learners]
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_of: faqs/adopting-ai-options-and-issues
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -33,7 +33,13 @@ ai_assist:
 
 ## 简版要点
 
-五条规则能覆盖大部分内容。先把数据边界定下来，因为其他一切都可以重新谈判，而这一点不能。选择能装得下的最小形态：试点用免费或外包工具，需要数据控制又不想买 GPU 时用托管平台，需要配额和路由时用网关，只有在其他三种都不行时才自建推理。把你自己的数字拿来比较按席位定价与按用量计费，因为大部分用量通常来自少数重度用户。让获批的路径比未获批的更快，因为 EDUCAUSE 发现 94% 的教职员工在工作中使用 AI，54% 知道相关政策，56% 在使用院校不提供的工具。然后预先决定什么样的证据会让你停下来，因为没有退出测试的采用会默认变成永久。
+五条规则能覆盖大部分内容。
+
+1. 先把数据边界定下来，因为其他一切都可以重新谈判，而这一点不能。
+2. 选择能装得下的最小形态：试点用免费或外包工具，需要数据控制又不想买 GPU 时用托管平台，需要配额和路由时用网关，只有在其他三种都不行时才自建推理。
+3. 把你自己的数字拿来比较按席位定价与按用量计费，因为大部分用量通常来自少数重度用户。
+4. 让获批的路径比未获批的更快，因为 EDUCAUSE 发现 94% 的教职员工在工作中使用 AI，54% 知道相关政策，56% 在使用院校不提供的工具。
+5. 然后预先决定什么样的证据会让你停下来，因为没有退出测试的采用会默认变成永久。
 
 ## 个人层面
 

@@ -1,7 +1,7 @@
 ---
 title: "What Should Educators Avoid Doing With AI?"
 created: "2026-11-10T21:03:31-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T04:30:00-05:00"
 type: faq
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
@@ -20,31 +20,31 @@ ai_assist:
     agent: hermes-agent
 ---
 
-Most guidance about AI in education says what to try. The practices the evidence says to stop are sorted by the role that would have to stop them. False beliefs are covered elsewhere: the [[addressing-common-misconceptions-ai-education|misconceptions FAQ]] handles them, and the [[misconceptions]] concept page explains why they persist. What research cannot yet tell you belongs to [[limitations-in-aied-research|limitations in AIEd research]]. What follows here is the step after belief, meaning what people do, what it costs, and what to do instead.
+Most guidance about AI in education says what to try. The practices the evidence says to stop are sorted by the role that would have to stop them. False beliefs are covered elsewhere: the [[addressing-common-misconceptions-ai-education|misconceptions FAQ]] handles them, and the [[misconceptions]] concept page explains why they persist. What research cannot yet tell you belongs to [[limitations-in-aied-research|limitations in AIEd research]]. What follows is what people actually do, what it costs, and what to do instead.
 
 Three failures recur across the roles.
 
-1. **Substitution.** A tool does the thinking the learner was supposed to do, and the output is scored as if the learner did it. The essay that gets handed in is a record of what the model can do, not of what the student can do.
-2. **Unearned evidence.** A signal that is cheap to collect, such as confidence, fluency, engagement or a completion rate, is treated as proof of something it cannot show. A dashboard can report forty minutes in a tutoring session; it cannot report whether anyone learned the quadratic formula.
-3. **Structure left to exhortation.** A warning, a policy sentence or a training session is asked to do work that interface design, assessment design or governance has to do. The syllabus says to use AI responsibly, and the tutor still hands over the finished answer at the first prompt.
+1. **The tool does the thinking.** A learner is supposed to work something out, and the tool does that part instead, yet the result is graded as the learner's own. The essay that gets handed in shows what the model can do, not what the student can do.
+2. **A number that does not show learning.** Something easy to count, such as confidence, fluency, engagement or a completion rate, gets treated as proof that learning happened. A dashboard can show forty minutes in a tutoring session. It cannot show whether anyone learned the quadratic formula.
+3. **A rule where the setup should do the work.** A warning, a sentence in the syllabus or a training session is asked to do a job that only the task, the software or the policy can do. The syllabus says to use AI responsibly, the assignment can still be finished by a chatbot in a minute, and the tutor still hands over the finished answer at the first prompt. Telling people to behave differently does not change what the task or the tool lets them do.
 
 ## The short version
 
-**1.** Never grade, cite or promote an output as evidence of the capability that produced it.
+**1.** Never grade, quote or promote something the tool produced as if the student produced it.
 
-**2.** Collect the unaided measure alongside the assisted one, every time.
+**2.** Measure what students can do without the tool, next to what they can do with it.
 
 **3.** Treat fluency, confidence and engagement as features of use, not as learning.
 
-**4.** Put the safeguard in the workflow, not in a warning.
+**4.** Put the safeguard in the task or the software, not in a warning.
 
-**5.** Assume any data the tool can see will be retained, combined and breached.
+**5.** Assume anything the tool can see will be stored, combined with other data and eventually leaked.
 
 **6.** If the claim comes with a demo but not a comparison, it is marketing.
 
 ## For instructors
 
-**Do not certify output as capability.** A polished submission is evidence of a polished submission. If a student hands in a literature review whose sources you cannot check against anything the course taught, and the assessment cannot distinguish what that student can do unaided, the assessment has stopped measuring the thing the credential asserts ([[assessment-validity]], [[authentic-assessment]]). The fix is a task redesign; a stricter honor code will not do it.
+**Do not treat a polished submission as proof of learning.** A polished submission is evidence of a polished submission. If a student hands in a literature review whose sources you cannot check against anything the course taught, and the assessment cannot distinguish what that student can do unaided, the assessment has stopped measuring the thing the credential asserts ([[assessment-validity]], [[authentic-assessment]]). The fix is a task redesign; a stricter honor code will not do it.
 
 **Do not use a detector score as proof of misconduct.** In a controlled study of 642 published abstracts, detectors flagged 38–80% of guideline-compliant light AI editing and 9–15% of unmodified human writing, while catching fewer than 4% of rewrites run through a humanizing service ([[karr-ai-detection-humanization-2026|Karr et al., 2026]]). An independent benchmark found that none of 14 commercial tools reached 80% accuracy, and simple paraphrasing halves even that ([[teichmann-detecting-undetectable-misconduct-2026|Teichmann et al., 2026]]). At realistic base rates, false positives outnumber true positives ([[should-we-use-ai-detectors]]). A detector can start a conversation; it cannot end one.
 
@@ -52,7 +52,7 @@ Three failures recur across the roles.
 
 **Do not treat engagement as learning.** Time on task, satisfaction, help-seeking volume and chat activity are all easy to instrument and all compatible with no learning at all. In a 3 × 2 experiment with 186 participants judging civil cases on an LLM-supported platform, a guardrail that cut switching to an incorrect AI position from 42–60.5% to 5.7–8.2% produced no measurable learning effect within the session (β = 0.03, p = 0.18; [[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]). The behavior changed; the learning measure did not ([[student-engagement]]).
 
-**Do not rely on a warning where the interface could constrain.** A tutor that can produce the finished answer will produce it under deadline pressure, whatever the syllabus says. The guardrail that works is built into the interaction ([[reducing-ai-misuse]], [[pedagogical-safety]]). Withholding the final answer for the first two attempts is a design decision; asking students not to ask for it is a request.
+**Do not rely on a warning when the software could stop it.** A tutor that can produce the finished answer will produce it under deadline pressure, whatever the syllabus says. The guardrail that works is built into the interaction ([[reducing-ai-misuse]], [[pedagogical-safety]]). Withholding the final answer for the first two attempts is a design decision; asking students not to ask for it is a request.
 
 **Do not paste student work, IEPs, discipline records or identifiable drafts into a consumer tool.** Data minimization is a design decision you are making on the student's behalf whether or not you have thought about it ([[privacy]]). The free chatbot account that answers a question about a student's behavior plan is also a copy of that plan on someone else's server.
 
@@ -138,7 +138,7 @@ Three failures recur across the roles.
 
 ## Why these belong together
 
-Every item above promotes a proxy to a verdict. The essay stands for the writer, the score stands for the misconduct, the smile stands for the empathy, and the demo stands for the learning. The correction is the same each time: name the construct, find a measure that could come out the other way, and collect it alongside the convenient one.
+Every item above mistakes a stand-in for the real thing. The essay stands in for the writer, the detector score for the misconduct, the smile for the empathy, and the demo for the learning. The fix is the same each time: say what you actually want to know, find a measure that could come out the other way, and collect it next to the easy one.
 
 None of these cautions means the tool is always wrong. A detector can be a reason to talk to a student. A chatbot can be a useful rehearsal. A dashboard can be a prompt to ask a question. What causes harm is the substitution.
 
@@ -154,7 +154,7 @@ None of these cautions means the tool is always wrong. A detector can be a reaso
 
 - [[addressing-common-misconceptions-ai-education]]: the beliefs behind these practices, and how to correct them without condescension.
 - [[limitations-in-aied-research]]: what the evidence base cannot yet support.
-- [[reducing-ai-misuse]]: structural levers for misuse, and why they beat exhortation.
+- [[reducing-ai-misuse]]: changes to the task and the software that prevent misuse, and why they work better than reminders.
 - [[pedagogical-safety]]: what a tutor can do to a learner while passing every content check.
 - [[should-we-use-ai-detectors]]: the detector evidence in full.
 - [[checking-whether-educational-ai-works]]: how to evaluate a claim before you adopt it.

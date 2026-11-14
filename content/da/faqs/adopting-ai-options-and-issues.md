@@ -1,7 +1,7 @@
 ---
 title: "Hvilke muligheder og problemer skal man overveje, når man indfører AI-værktøjer?"
 created: "2026-11-12T11:04:00-05:00"
-updated: "2026-11-12T11:38:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ Valget bør passe til den beslutning, der ligger foran dig. En enkeltperson besl
 
 ## Den korte version
 
-Fem regler dækker det meste. Fastlæg datagrænsen først, for alt andet kan genforhandles, og det kan ikke. Vælg den mindste form, der passer: gratis eller udliciterede værktøjer til en pilot, en hostet platform, når du har brug for datakontrol uden GPU'er, en gateway, når du har brug for kvoter og routing, og egen inference kun når de tre andre svigter. Sammenlign pris pr. plads og forbrugsbaseret pris med dine egne tal, da det meste forbrug normalt kommer fra få tunge brugere. Gør den godkendte vej hurtigere end den ikke-godkendte, da EDUCAUSE fandt, at 94 % af ansatte og undervisere bruger AI til arbejde, 54 % kender politikken og 56 % bruger værktøjer, som institutionen ikke stiller til rådighed. Beslut derefter på forhånd, hvilke beviser der ville få dig til at stoppe, for indførelse uden en exit-test bliver permanent som standard.
+Fem regler dækker det meste.
+
+1. Fastlæg datagrænsen først, for alt andet kan genforhandles, og det kan ikke.
+2. Vælg den mindste form, der passer: gratis eller udliciterede værktøjer til en pilot, en hostet platform, når du har brug for datakontrol uden GPU'er, en gateway, når du har brug for kvoter og routing, og egen inference kun når de tre andre svigter.
+3. Sammenlign pris pr. plads og forbrugsbaseret pris med dine egne tal, da det meste forbrug normalt kommer fra få tunge brugere.
+4. Gør den godkendte vej hurtigere end den ikke-godkendte, da EDUCAUSE fandt, at 94 % af ansatte og undervisere bruger AI til arbejde, 54 % kender politikken og 56 % bruger værktøjer, som institutionen ikke stiller til rådighed.
+5. Beslut derefter på forhånd, hvilke beviser der ville få dig til at stoppe, for indførelse uden en exit-test bliver permanent som standard.
 
 ## På individniveau
 

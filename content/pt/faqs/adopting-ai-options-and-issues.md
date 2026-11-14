@@ -1,7 +1,7 @@
 ---
 title: "Quais são as opções e as questões a considerar ao adotar ferramentas de IA?"
 created: "2026-11-12T20:20:00-05:00"
-updated: "2026-11-12T20:20:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -12,7 +12,7 @@ methods: [ai-ed-evaluation]
 audience: [instructors, administrators, educational technology developers, policymakers, learners]
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_of: faqs/adopting-ai-options-and-issues
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
@@ -33,7 +33,13 @@ A escolha deve corresponder à decisão que está diante de você. Uma pessoa de
 
 ## A versão resumida
 
-Cinco regras cobrem a maior parte. Defina primeiro a fronteira dos dados, porque todo o resto pode ser renegociado e ela não. Escolha a menor forma que sirva: ferramentas gratuitas ou terceirizadas para um piloto, uma plataforma hospedada quando você precisa de controle dos dados sem GPUs, um gateway quando precisa de cotas e roteamento, e inferência própria só quando as outras três falharem. Compare preços por assento e por consumo com os seus próprios números, já que a maior parte do uso costuma vir de poucos usuários intensivos. Faça o caminho sancionado ser mais rápido que o não aprovado, já que a EDUCAUSE constatou que 94% da equipe e do corpo docente usam IA no trabalho, 54% conhecem a política e 56% usam ferramentas que a instituição não fornece. Depois decida de antemão qual evidência faria você parar, porque adoção sem teste de saída se torna permanente por padrão.
+Cinco regras cobrem a maior parte.
+
+1. Defina primeiro a fronteira dos dados, porque todo o resto pode ser renegociado e ela não.
+2. Escolha a menor forma que sirva: ferramentas gratuitas ou terceirizadas para um piloto, uma plataforma hospedada quando você precisa de controle dos dados sem GPUs, um gateway quando precisa de cotas e roteamento, e inferência própria só quando as outras três falharem.
+3. Compare preços por assento e por consumo com os seus próprios números, já que a maior parte do uso costuma vir de poucos usuários intensivos.
+4. Faça o caminho sancionado ser mais rápido que o não aprovado, já que a EDUCAUSE constatou que 94% da equipe e do corpo docente usam IA no trabalho, 54% conhecem a política e 56% usam ferramentas que a instituição não fornece.
+5. Depois decida de antemão qual evidência faria você parar, porque adoção sem teste de saída se torna permanente por padrão.
 
 ## No nível individual
 

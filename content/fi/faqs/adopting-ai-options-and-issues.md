@@ -1,7 +1,7 @@
 ---
 title: "Mitä vaihtoehtoja ja kysymyksiä on harkittava, kun tekoälytyökaluja otetaan käyttöön?"
 created: "2026-11-12T19:32:00-05:00"
-updated: "2026-11-12T19:32:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -12,7 +12,7 @@ methods: [ai-ed-evaluation]
 audience: [instructors, administrators, educational technology developers, policymakers, learners]
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_of: faqs/adopting-ai-options-and-issues
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
@@ -33,7 +33,13 @@ Valinnan pitäisi vastata sitä päätöstä, joka on edessä. Yksilö päättä
 
 ## Lyhyt versio
 
-Viisi sääntöä kattaa suurimman osan. Määritä tietojen raja ensin, sillä kaikesta muusta voi neuvotella uudelleen, mutta siitä ei. Valitse pienin sopiva muoto: ilmaiset tai ulkoistetut työkalut pilotointiin, isännöity alusta, kun tarvitset tietojen hallintaa ilman GPU:ita, yhdyskäytävä, kun tarvitset kiintiöitä ja reititystä, ja oma päättelylasku vain silloin, kun kolme muuta pettävät. Vertaa käyttäjäkohtaista ja kulutuksen mukaista hinnoittelua omiin lukuihisi, sillä suurin osa käytöstä tulee yleensä muutamalta raskaalta käyttäjältä. Tee hyväksytystä polusta nopeampi kuin hyväksymättömästä, sillä EDUCAUSE havaitsi, että 94 % henkilökunnasta ja opettajista käyttää tekoälyä työssään, 54 % tuntee käytännön ja 56 % käyttää työkaluja, joita oppilaitos ei tarjoa. Päätä sitten etukäteen, mikä näyttö saisi sinut lopettamaan, sillä käyttöönotosta, jolla ei ole lopetustestiä, tulee oletuksena pysyvä.
+Viisi sääntöä kattaa suurimman osan.
+
+1. Määritä tietojen raja ensin, sillä kaikesta muusta voi neuvotella uudelleen, mutta siitä ei.
+2. Valitse pienin sopiva muoto: ilmaiset tai ulkoistetut työkalut pilotointiin, isännöity alusta, kun tarvitset tietojen hallintaa ilman GPU:ita, yhdyskäytävä, kun tarvitset kiintiöitä ja reititystä, ja oma päättelylasku vain silloin, kun kolme muuta pettävät.
+3. Vertaa käyttäjäkohtaista ja kulutuksen mukaista hinnoittelua omiin lukuihisi, sillä suurin osa käytöstä tulee yleensä muutamalta raskaalta käyttäjältä.
+4. Tee hyväksytystä polusta nopeampi kuin hyväksymättömästä, sillä EDUCAUSE havaitsi, että 94 % henkilökunnasta ja opettajista käyttää tekoälyä työssään, 54 % tuntee käytännön ja 56 % käyttää työkaluja, joita oppilaitos ei tarjoa.
+5. Päätä sitten etukäteen, mikä näyttö saisi sinut lopettamaan, sillä käyttöönotosta, jolla ei ole lopetustestiä, tulee oletuksena pysyvä.
 
 ## Yksilön tasolla
 

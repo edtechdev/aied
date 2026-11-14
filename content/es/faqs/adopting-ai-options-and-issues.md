@@ -1,7 +1,7 @@
 ---
 title: "¿Qué opciones y problemas hay que considerar al adoptar herramientas de IA?"
 created: "2026-11-12T20:15:00-05:00"
-updated: "2026-11-12T20:15:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -12,7 +12,7 @@ methods: [ai-ed-evaluation]
 audience: [instructors, administrators, educational technology developers, policymakers, learners]
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_of: faqs/adopting-ai-options-and-issues
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -33,7 +33,13 @@ La elección debe corresponder a la decisión que tiene delante. Una persona dec
 
 ## La versión breve
 
-Cinco reglas cubren la mayor parte. Fije primero el límite de los datos, porque todo lo demás se puede renegociar y eso no. Elija la forma más pequeña que encaje: herramientas gratuitas o externalizadas para un piloto, una plataforma alojada cuando se necesita control de los datos sin GPU, una pasarela cuando se necesitan cuotas y enrutamiento, y una inferencia propia solo cuando las otras tres fallan. Compare los precios por puesto y por consumo con sus propias cifras, ya que la mayor parte del uso suele venir de unos pocos usuarios intensivos. Haga que la vía autorizada sea más rápida que la no aprobada, ya que EDUCAUSE encontró que el 94% del personal y el profesorado usa IA para su trabajo, el 54% conoce la política y el 56% usa herramientas que la institución no proporciona. Luego decida de antemano qué evidencia le haría detenerse, porque una adopción sin prueba de salida se vuelve permanente por defecto.
+Cinco reglas cubren la mayor parte.
+
+1. Fije primero el límite de los datos, porque todo lo demás se puede renegociar y eso no.
+2. Elija la forma más pequeña que encaje: herramientas gratuitas o externalizadas para un piloto, una plataforma alojada cuando se necesita control de los datos sin GPU, una pasarela cuando se necesitan cuotas y enrutamiento, y una inferencia propia solo cuando las otras tres fallan.
+3. Compare los precios por puesto y por consumo con sus propias cifras, ya que la mayor parte del uso suele venir de unos pocos usuarios intensivos.
+4. Haga que la vía autorizada sea más rápida que la no aprobada, ya que EDUCAUSE encontró que el 94% del personal y el profesorado usa IA para su trabajo, el 54% conoce la política y el 56% usa herramientas que la institución no proporciona.
+5. Luego decida de antemano qué evidencia le haría detenerse, porque una adopción sin prueba de salida se vuelve permanente por defecto.
 
 ## En el nivel individual
 

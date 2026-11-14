@@ -1,7 +1,7 @@
 ---
 title: "Quelles sont les options et les problèmes à prendre en compte lors de l'adoption d'outils d'IA ?"
 created: "2026-11-12T11:10:00-05:00"
-updated: "2026-11-12T11:10:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ Le choix doit correspondre à la décision qui se présente à vous. Un individu
 
 ## La version courte
 
-Cinq règles couvrent l'essentiel. Réglez d'abord la frontière des données, car tout le reste peut se renégocier et pas elle. Choisissez la plus petite forme qui convient : outils gratuits ou externalisés pour un pilote, une plateforme hébergée quand vous voulez maîtriser les données sans GPU, une passerelle quand il vous faut des quotas et du routage, et une inférence possédée seulement quand les trois autres échouent. Comparez la tarification par siège et à l'usage avec vos propres chiffres, car l'essentiel de l'usage vient généralement de quelques utilisateurs intensifs. Rendez le chemin autorisé plus rapide que le chemin non approuvé, puisque EDUCAUSE a constaté que 94 % du personnel et des enseignants utilisaient l'IA pour leur travail, 54 % connaissaient la politique et 56 % utilisaient des outils que l'établissement ne fournit pas. Décidez ensuite à l'avance quel élément de preuve vous ferait arrêter, car une adoption sans test de sortie devient permanente par défaut.
+Cinq règles couvrent l'essentiel.
+
+1. Réglez d'abord la frontière des données, car tout le reste peut se renégocier et pas elle.
+2. Choisissez la plus petite forme qui convient : outils gratuits ou externalisés pour un pilote, une plateforme hébergée quand vous voulez maîtriser les données sans GPU, une passerelle quand il vous faut des quotas et du routage, et une inférence possédée seulement quand les trois autres échouent.
+3. Comparez la tarification par siège et à l'usage avec vos propres chiffres, car l'essentiel de l'usage vient généralement de quelques utilisateurs intensifs.
+4. Rendez le chemin autorisé plus rapide que le chemin non approuvé, puisque EDUCAUSE a constaté que 94 % du personnel et des enseignants utilisaient l'IA pour leur travail, 54 % connaissaient la politique et 56 % utilisaient des outils que l'établissement ne fournit pas.
+5. Décidez ensuite à l'avance quel élément de preuve vous ferait arrêter, car une adoption sans test de sortie devient permanente par défaut.
 
 ## Au niveau individuel
 

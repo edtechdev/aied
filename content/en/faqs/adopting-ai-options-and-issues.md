@@ -1,7 +1,7 @@
 ---
 title: "What Are the Options and Issues to Consider When Adopting AI Tools?"
 created: "2026-11-12T08:09:57-05:00"
-updated: "2026-11-12T17:10:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -29,7 +29,13 @@ The choice should match the decision in front of you. An individual decides what
 
 ## The short version
 
-Five rules cover most of it. Settle the data boundary first, because everything else can be renegotiated and that cannot. Pick the smallest shape that fits: free or outsourced tools for a pilot, a hosted platform when you need data control without GPUs, a gateway when you need quotas and routing, and owned inference only when the other three fail. Compare per-seat and metered pricing against your own numbers, since most usage usually comes from a few heavy users. Make the sanctioned path faster than the unapproved one, since EDUCAUSE found 94% of staff and faculty using AI for work, 54% aware of the policy and 56% using tools the institution does not provide. Then decide in advance what evidence would make you stop, because adoption without an exit test becomes permanent by default.
+Five rules cover most of it.
+
+1. Settle the data boundary first, because everything else can be renegotiated and that cannot.
+2. Pick the smallest shape that fits: free or outsourced tools for a pilot, a hosted platform when you need data control without GPUs, a gateway when you need quotas and routing, and owned inference only when the other three fail.
+3. Compare per-seat and metered pricing against your own numbers, since most usage usually comes from a few heavy users.
+4. Make the sanctioned path faster than the unapproved one. EDUCAUSE found 94% of staff and faculty using AI for work, 54% aware of the policy and 56% using tools the institution does not provide.
+5. Decide in advance what evidence would make you stop, because adoption without an exit test becomes permanent by default.
 
 ## At the individual level
 

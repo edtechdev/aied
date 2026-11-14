@@ -1,7 +1,7 @@
 ---
 title: "Jaké možnosti a otázky zvážit při zavádění nástrojů AI?"
 created: "2026-11-12T11:04:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ Volba by měla odpovídat rozhodnutí, které před vámi stojí. Jednotlivec ro
 
 ## Stručně
 
-Pět pravidel pokrývá většinu. Nejprve stanovte hranici dat, protože všechno ostatní lze znovu vyjednat, ale tuhle ne. Zvolte nejmenší tvar, který stačí: bezplatné nebo externí nástroje pro pilot, hostovanou platformu, když potřebujete kontrolu nad daty bez GPU, bránu, když potřebujete kvóty a směrování, a vlastní inferenci jen tehdy, když tři předchozí selžou. Porovnejte cenu za místo a cenu za spotřebu s vlastními čísly, protože většinu využití obvykle vytváří několik náročných uživatelů. Zajistěte, aby schválená cesta byla rychlejší než neschválená, protože EDUCAUSE zjistil, že 94 % zaměstnanců a akademických pracovníků používá AI při práci, 54 % zná zásady a 56 % používá nástroje, které instituce neposkytuje. Potom předem určete, jaký důkaz vás zastaví, protože zavádění bez testu ukončení se ve výchozím stavu stane trvalým.
+Pět pravidel pokrývá většinu.
+
+1. Nejprve stanovte hranici dat, protože všechno ostatní lze znovu vyjednat, ale tuhle ne.
+2. Zvolte nejmenší tvar, který stačí: bezplatné nebo externí nástroje pro pilot, hostovanou platformu, když potřebujete kontrolu nad daty bez GPU, bránu, když potřebujete kvóty a směrování, a vlastní inferenci jen tehdy, když tři předchozí selžou.
+3. Porovnejte cenu za místo a cenu za spotřebu s vlastními čísly, protože většinu využití obvykle vytváří několik náročných uživatelů.
+4. Zajistěte, aby schválená cesta byla rychlejší než neschválená, protože EDUCAUSE zjistil, že 94 % zaměstnanců a akademických pracovníků používá AI při práci, 54 % zná zásady a 56 % používá nástroje, které instituce neposkytuje.
+5. Potom předem určete, jaký důkaz vás zastaví, protože zavádění bez testu ukončení se ve výchozím stavu stane trvalým.
 
 ## Na úrovni jednotlivce
 

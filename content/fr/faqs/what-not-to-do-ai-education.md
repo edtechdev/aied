@@ -1,7 +1,7 @@
 ---
 title: "Que doivent éviter les éducateurs avec l'IA ?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-14T04:30:00-05:00"
 type: faq
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
@@ -11,7 +11,7 @@ technology: [generative-ai, learning-analytics, affective-computing]
 assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_of: faqs/what-not-to-do-ai-education
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -24,31 +24,31 @@ ai_assist:
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-La plupart des conseils sur l'IA en éducation disent ce qu'il faut essayer. Cette page rassemble les pratiques que les données probantes disent d'arrêter, classées selon le rôle qui devrait les abandonner. Les croyances fausses sont traitées ailleurs : la [[addressing-common-misconceptions-ai-education|FAQ sur les idées fausses]] s'en charge, et la page de concept [[misconceptions]] explique pourquoi elles persistent. Ce que la recherche ne peut pas encore vous dire relève des [[limitations-in-aied-research|limites de la recherche en AIEd]]. Ce qui suit est l'étape d'après la croyance, c'est-à-dire ce que les gens font, ce que cela coûte et ce qu'il faut faire à la place.
+La plupart des conseils sur l'IA en éducation disent ce qu'il faut essayer. Cette page rassemble les pratiques que les données probantes disent d'arrêter, classées selon le rôle qui devrait les abandonner. Les croyances fausses sont traitées ailleurs : la [[addressing-common-misconceptions-ai-education|FAQ sur les idées fausses]] s'en charge, et la page de concept [[misconceptions]] explique pourquoi elles persistent. Ce que la recherche ne peut pas encore vous dire relève des [[limitations-in-aied-research|limites de la recherche en AIEd]]. Ce qui suit décrit ce que les gens font réellement, ce que cela coûte et ce qu'il faut faire à la place.
 
 Trois défaillances reviennent dans tous les rôles.
 
-1. **La substitution.** Un outil exécute la pensée que l'apprenant était censé faire, et la production est notée comme si l'apprenant l'avait faite. La dissertation rendue est un relevé de ce que le modèle sait faire, pas de ce que l'étudiant sait faire.
-2. **La preuve non gagnée.** Un signal peu coûteux à recueillir, comme la confiance, la fluidité, l'engagement ou un taux d'achèvement, est traité comme la preuve de quelque chose qu'il ne peut pas montrer. Un tableau de bord peut signaler quarante minutes dans une séance de tutorat ; il ne peut pas signaler si quelqu'un a appris la formule quadratique.
-3. **La structure laissée à l'exhortation.** On demande à un avertissement, à une phrase de politique ou à une séance de formation de faire le travail que la conception de l'interface, la conception de l'évaluation ou la gouvernance doit faire. Le programme dit d'utiliser l'IA de façon responsable, et le tuteur remet quand même la réponse finie à la première invite.
+1. **L'outil fait le raisonnement.** Un apprenant est censé trouver la solution par lui-même, et l'outil fait cette part à sa place, mais le résultat est noté comme celui de l'apprenant. La dissertation rendue montre ce que le modèle sait faire, pas ce que l'étudiant sait faire.
+2. **Un chiffre qui ne montre pas l'apprentissage.** Une chose facile à compter, comme la confiance, la fluidité, l'engagement ou un taux d'achèvement, est traitée comme la preuve que l'apprentissage a eu lieu. Un tableau de bord peut montrer quarante minutes dans une séance de tutorat. Il ne peut pas montrer si quelqu'un a appris la formule quadratique.
+3. **Une règle là où le dispositif devrait faire le travail.** On demande à un avertissement, à une phrase du programme ou à une séance de formation de faire un travail que seule la tâche, le logiciel ou la politique peut faire. Le programme dit d'utiliser l'IA de façon responsable, le devoir peut encore être terminé par un agent conversationnel en une minute, et le tuteur remet encore la réponse finie à la première invite. Dire aux gens de se comporter autrement ne change pas ce que la tâche ou l'outil leur permet de faire.
 
 ## La version courte
 
-**1.** Ne jamais noter, citer ou promouvoir une production comme preuve de la capacité qui l'a produite.
+**1.** Ne jamais noter, citer ou promouvoir une production de l'outil comme si l'étudiant l'avait produite.
 
-**2.** Recueillir chaque fois la mesure sans aide à côté de la mesure assistée.
+**2.** Mesurer ce que les étudiants savent faire sans l'outil, à côté de ce qu'ils savent faire avec.
 
 **3.** Traiter la fluidité, la confiance et l'engagement comme des caractéristiques de l'usage, non comme de l'apprentissage.
 
-**4.** Placer la protection dans le flux de travail, pas dans un avertissement.
+**4.** Placer la protection dans la tâche ou le logiciel, pas dans un avertissement.
 
-**5.** Supposer que toute donnée que l'outil peut voir sera conservée, combinée et exposée à une fuite.
+**5.** Supposer que tout ce que l'outil peut voir sera conservé, combiné à d'autres données et finira par fuiter.
 
 **6.** Si l'affirmation s'accompagne d'une démonstration mais pas d'une comparaison, c'est du marketing.
 
 ## Pour les enseignants
 
-**Ne certifiez pas une production comme une capacité.** Une copie soignée est la preuve d'une copie soignée. Si un étudiant rend une revue de la littérature dont vous ne pouvez vérifier les sources contre rien de ce que le cours a enseigné, et que l'évaluation ne peut pas distinguer ce que cet étudiant sait faire sans aide, l'évaluation a cessé de mesurer ce que le diplôme affirme ([[assessment-validity]], [[authentic-assessment]]). Le remède est une refonte de la tâche ; un code d'honneur plus strict n'y parviendra pas.
+**Ne traitez pas une copie soignée comme une preuve d'apprentissage.** Une copie soignée est la preuve d'une copie soignée. Si un étudiant rend une revue de la littérature dont vous ne pouvez vérifier les sources contre rien de ce que le cours a enseigné, et que l'évaluation ne peut pas distinguer ce que cet étudiant sait faire sans aide, l'évaluation a cessé de mesurer ce que le diplôme affirme ([[assessment-validity]], [[authentic-assessment]]). Le remède est une refonte de la tâche ; un code d'honneur plus strict n'y parviendra pas.
 
 **N'utilisez pas le score d'un détecteur comme preuve de fraude.** Dans une étude contrôlée de 642 résumés publiés, les détecteurs ont signalé 38–80% de retouches légères conformes aux consignes et 9–15% de textes humains non modifiés, tout en repérant moins de 4% des réécritures passées par un service d'humanisation ([[karr-ai-detection-humanization-2026|Karr et al., 2026]]). Un benchmark indépendant a constaté qu'aucun des 14 outils commerciaux n'atteignait 80% d'exactitude, et une simple paraphrase divise même ce chiffre par deux ([[teichmann-detecting-undetectable-misconduct-2026|Teichmann et al., 2026]]). À des taux de base réalistes, les faux positifs dépassent les vrais positifs ([[should-we-use-ai-detectors]]). Un détecteur peut ouvrir une conversation ; il ne peut pas la clore.
 
@@ -56,7 +56,7 @@ Trois défaillances reviennent dans tous les rôles.
 
 **Ne traitez pas l'engagement comme de l'apprentissage.** Le temps de travail, la satisfaction, le volume de recherche d'aide et l'activité de conversation sont tous faciles à instrumenter et tous compatibles avec une absence totale d'apprentissage. Dans une expérience 3 × 2 portant sur 186 participants qui jugeaient des affaires civiles sur une plateforme assistée par un LLM, un garde-fou qui a fait passer le basculement vers une position incorrecte de l'IA de 42–60,5% à 5,7–8,2% n'a produit aucun effet d'apprentissage mesurable pendant la séance (β = 0,03, p = 0,18 ; [[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]). Le comportement a changé ; la mesure d'apprentissage n'a pas bougé ([[student-engagement]]).
 
-**Ne comptez pas sur un avertissement là où l'interface pourrait contraindre.** Un tuteur qui peut produire la réponse finie la produira sous la pression de l'échéance, quoi que dise le programme. Le garde-fou qui fonctionne est intégré à l'interaction ([[reducing-ai-misuse]], [[pedagogical-safety]]). Retenir la réponse finale lors des deux premières tentatives est une décision de conception ; demander aux étudiants de ne pas la demander est une prière.
+**Ne comptez pas sur un avertissement quand le logiciel pourrait l'empêcher.** Un tuteur qui peut produire la réponse finie la produira sous la pression de l'échéance, quoi que dise le programme. Le garde-fou qui fonctionne est intégré à l'interaction ([[reducing-ai-misuse]], [[pedagogical-safety]]). Retenir la réponse finale lors des deux premières tentatives est une décision de conception ; demander aux étudiants de ne pas la demander est une prière.
 
 **Ne collez pas des travaux d'étudiants, des plans d'intervention individualisés, des dossiers disciplinaires ou des brouillons identifiables dans un outil grand public.** La minimisation des données est une décision de conception que vous prenez au nom de l'étudiant, que vous y ayez pensé ou non ([[privacy]]). Le compte gratuit d'agent conversationnel qui répond à une question sur le plan de comportement d'un étudiant est aussi une copie de ce plan sur le serveur de quelqu'un d'autre.
 
@@ -142,7 +142,7 @@ Trois défaillances reviennent dans tous les rôles.
 
 ## Pourquoi ces éléments vont ensemble
 
-Chaque point ci-dessus élève un indicateur indirect au rang de verdict. La dissertation représente l'auteur, le score représente la fraude, le sourire représente l'empathie et la démonstration représente l'apprentissage. La correction est chaque fois la même : nommer le construit, trouver une mesure qui pourrait donner le résultat inverse, et la recueillir à côté de la mesure commode.
+Chaque point ci-dessus prend un substitut pour la chose réelle. La dissertation représente l'auteur, le score du détecteur la fraude, le sourire l'empathie et la démonstration l'apprentissage. La correction est chaque fois la même : dites ce que vous voulez réellement savoir, trouvez une mesure qui pourrait donner le résultat inverse, et recueillez-la à côté de la mesure facile.
 
 Aucune de ces mises en garde ne signifie que l'outil a toujours tort. Un détecteur peut être une raison de parler à un étudiant. Un agent conversationnel peut être une répétition utile. Un tableau de bord peut être une invitation à poser une question. Ce qui cause le préjudice, c'est la substitution.
 
@@ -158,7 +158,7 @@ Aucune de ces mises en garde ne signifie que l'outil a toujours tort. Un détect
 
 - [[addressing-common-misconceptions-ai-education]] : les croyances derrière ces pratiques, et comment les corriger sans condescendance.
 - [[limitations-in-aied-research]] : ce que la base de données probantes ne peut pas encore soutenir.
-- [[reducing-ai-misuse]] : les leviers structurels contre les usages abusifs, et pourquoi ils battent l'exhortation.
+- [[reducing-ai-misuse]] : les changements apportés à la tâche et au logiciel qui préviennent les usages abusifs, et pourquoi ils fonctionnent mieux que les rappels.
 - [[pedagogical-safety]] : ce qu'un tuteur peut faire à un apprenant tout en passant tous les contrôles de contenu.
 - [[should-we-use-ai-detectors]] : les données sur les détecteurs dans leur intégralité.
 - [[checking-whether-educational-ai-works]] : comment évaluer une affirmation avant de l'adopter.

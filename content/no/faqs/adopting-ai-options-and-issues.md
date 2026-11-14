@@ -1,7 +1,7 @@
 ---
 title: "Hvilke alternativer og spørsmål bør man vurdere når man tar i bruk AI-verktøy?"
 created: "2026-11-12T11:24:00-05:00"
-updated: "2026-11-12T12:07:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ Valget bør passe til beslutningen foran deg. En enkeltperson bestemmer hva som 
 
 ## Kortversjonen
 
-Fem regler dekker det meste. Fastsett datagrensen først, for alt annet kan reforhandles og det kan ikke. Velg den minste formen som passer: gratis eller utkontrakterte verktøy for en pilot, en plattform du drifter selv når du trenger datakontroll uten GPU-er, en gateway når du trenger kvoter og ruting, og egen inferens bare når de tre andre svikter. Sammenlign pris per plass og forbruksbasert pris mot dine egne tall, siden mesteparten av bruken vanligvis kommer fra noen få tunge brukere. Gjør den godkjente veien raskere enn den ikke-godkjente, siden EDUCAUSE fant at 94 % av ansatte og undervisere bruker AI til arbeid, 54 % kjenner policyen og 56 % bruker verktøy institusjonen ikke tilbyr. Bestem deretter på forhånd hvilke bevis som ville få deg til å stoppe, for innføring uten en utgangstest blir permanent som standard.
+Fem regler dekker det meste.
+
+1. Fastsett datagrensen først, for alt annet kan reforhandles og det kan ikke.
+2. Velg den minste formen som passer: gratis eller utkontrakterte verktøy for en pilot, en plattform du drifter selv når du trenger datakontroll uten GPU-er, en gateway når du trenger kvoter og ruting, og egen inferens bare når de tre andre svikter.
+3. Sammenlign pris per plass og forbruksbasert pris mot dine egne tall, siden mesteparten av bruken vanligvis kommer fra noen få tunge brukere.
+4. Gjør den godkjente veien raskere enn den ikke-godkjente, siden EDUCAUSE fant at 94 % av ansatte og undervisere bruker AI til arbeid, 54 % kjenner policyen og 56 % bruker verktøy institusjonen ikke tilbyr.
+5. Bestem deretter på forhånd hvilke bevis som ville få deg til å stoppe, for innføring uten en utgangstest blir permanent som standard.
 
 ## På individnivå
 

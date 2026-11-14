@@ -1,7 +1,7 @@
 ---
 title: "Jakie opcje i kwestie rozważyć przy wdrażaniu narzędzi AI?"
 created: "2026-11-12T11:04:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ Wybór powinien pasować do decyzji, przed którą stoisz. Jednostka decyduje, c
 
 ## W skrócie
 
-Pięć reguł obejmuje większość spraw. Najpierw ustal granicę danych, bo wszystko inne można wynegocjować na nowo, a tej granicy nie. Wybierz najmniejszą formę, która pasuje: bezpłatne lub zewnętrzne narzędzia na pilotaż, hostowana platforma, gdy potrzebujesz kontroli nad danymi bez GPU, brama, gdy potrzebujesz limitów i routingu, oraz własna inferencja tylko wtedy, gdy trzy pozostałe zawiodą. Porównaj ceny za miejsce i rozliczane za użycie z własnymi liczbami, bo większość użycia zwykle pochodzi od kilku intensywnych użytkowników. Spraw, by ścieżka sankcjonowana była szybsza niż niezatwierdzona, bo EDUCAUSE ustalił, że 94% pracowników i kadry używa AI w pracy, 54% zna politykę, a 56% używa narzędzi, których instytucja nie zapewnia. Potem z góry ustal, jakie dowody skłonią cię do zatrzymania, bo wdrożenie bez testu wyjścia domyślnie staje się trwałe.
+Pięć reguł obejmuje większość spraw.
+
+1. Najpierw ustal granicę danych, bo wszystko inne można wynegocjować na nowo, a tej granicy nie.
+2. Wybierz najmniejszą formę, która pasuje: bezpłatne lub zewnętrzne narzędzia na pilotaż, hostowana platforma, gdy potrzebujesz kontroli nad danymi bez GPU, brama, gdy potrzebujesz limitów i routingu, oraz własna inferencja tylko wtedy, gdy trzy pozostałe zawiodą.
+3. Porównaj ceny za miejsce i rozliczane za użycie z własnymi liczbami, bo większość użycia zwykle pochodzi od kilku intensywnych użytkowników.
+4. Spraw, by ścieżka sankcjonowana była szybsza niż niezatwierdzona, bo EDUCAUSE ustalił, że 94% pracowników i kadry używa AI w pracy, 54% zna politykę, a 56% używa narzędzi, których instytucja nie zapewnia.
+5. Potem z góry ustal, jakie dowody skłonią cię do zatrzymania, bo wdrożenie bez testu wyjścia domyślnie staje się trwałe.
 
 ## Na poziomie jednostki
 

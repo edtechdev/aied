@@ -1,7 +1,7 @@
 ---
 title: "Aké možnosti a otázky treba zvážiť pri zavádzaní nástrojov AI?"
 created: "2026-11-12T11:04:00-05:00"
-updated: "2026-11-12T11:38:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ Voľba by mala zodpovedať rozhodnutiu, ktoré máte pred sebou. Jednotlivec roz
 
 ## Stručná verzia
 
-Päť pravidiel pokrýva väčšinu. Najprv si ujasnite hranicu dát, pretože všetko ostatné sa dá prejednať a toto nie. Vyberte si najmenší tvar, ktorý stačí: bezplatné alebo externé nástroje na pilot, hostovanú platformu, keď potrebujete kontrolu nad dátami bez GPU, bránu, keď potrebujete kvóty a smerovanie, a vlastnú inferenciu len vtedy, keď zlyhajú ostatné tri. Porovnajte cenu za sedadlo a meranú cenu s vlastnými číslami, pretože väčšina používania zvyčajne pochádza od niekoľkých náročných používateľov. Urobte schválenú cestu rýchlejšou než neschválenú, keďže EDUCAUSE zistil, že 94 % zamestnancov a učiteľov používa AI pri práci, 54 % pozná politiku a 56 % používa nástroje, ktoré inštitúcia neposkytuje. Potom vopred rozhodnite, aký dôkaz by vás prinútil skončiť, pretože zavádzanie bez testu ukončenia sa štandardne stane trvalým.
+Päť pravidiel pokrýva väčšinu.
+
+1. Najprv si ujasnite hranicu dát, pretože všetko ostatné sa dá prejednať a toto nie.
+2. Vyberte si najmenší tvar, ktorý stačí: bezplatné alebo externé nástroje na pilot, hostovanú platformu, keď potrebujete kontrolu nad dátami bez GPU, bránu, keď potrebujete kvóty a smerovanie, a vlastnú inferenciu len vtedy, keď zlyhajú ostatné tri.
+3. Porovnajte cenu za sedadlo a meranú cenu s vlastnými číslami, pretože väčšina používania zvyčajne pochádza od niekoľkých náročných používateľov.
+4. Urobte schválenú cestu rýchlejšou než neschválenú, keďže EDUCAUSE zistil, že 94 % zamestnancov a učiteľov používa AI pri práci, 54 % pozná politiku a 56 % používa nástroje, ktoré inštitúcia neposkytuje.
+5. Potom vopred rozhodnite, aký dôkaz by vás prinútil skončiť, pretože zavádzanie bez testu ukončenia sa štandardne stane trvalým.
 
 ## Na individuálnej úrovni
 

@@ -1,7 +1,7 @@
 ---
 title: "Ni Chaguo na Masuala Gani ya Kuzingatia Wakati wa Kupitisha Zana za AI?"
 created: "2026-11-12T11:32:00-05:00"
-updated: "2026-11-12T11:32:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ Chaguo linapaswa kuendana na uamuzi ulio mbele yako. Mtu binafsi anaamua nini ch
 
 ## Toleo fupi
 
-Sheria tano zinashughulikia sehemu kubwa ya hili. Weka mpaka wa data kwanza, kwa sababu mambo mengine yote yanaweza kujadiliwa upya na huo hauwezi. Chagua umbo dogo zaidi linalofaa: zana za bure au zilizokodishwa kwa majaribio, jukwaa linalohifadhiwa unapohitaji udhibiti wa data bila GPU, gateway unapohitaji kwota na uelekezaji, na kuendesha modeli mwenyewe pale tu njia nyingine tatu zinaposhindikana. Linganisha bei kwa kila kiti na bei ya matumizi na namba zako mwenyewe, kwa sababu matumizi mengi kwa kawaida hutoka kwa watumiaji wachache wazito. Fanya njia iliyoidhinishwa iwe haraka kuliko isiyoidhinishwa, kwa sababu EDUCAUSE iligundua 94% ya wafanyakazi na waalimu wanatumia AI kazini, 54% wanajua sera, na 56% wanatumia zana ambazo taasisi haitoi. Kisha amua mapema ushahidi gani utakufanya usimame, kwa sababu upitishaji bila jaribio la kutoka huwa wa kudumu kwa chaguo-msingi.
+Sheria tano zinashughulikia sehemu kubwa ya hili.
+
+1. Weka mpaka wa data kwanza, kwa sababu mambo mengine yote yanaweza kujadiliwa upya na huo hauwezi.
+2. Chagua umbo dogo zaidi linalofaa: zana za bure au zilizokodishwa kwa majaribio, jukwaa linalohifadhiwa unapohitaji udhibiti wa data bila GPU, gateway unapohitaji kwota na uelekezaji, na kuendesha modeli mwenyewe pale tu njia nyingine tatu zinaposhindikana.
+3. Linganisha bei kwa kila kiti na bei ya matumizi na namba zako mwenyewe, kwa sababu matumizi mengi kwa kawaida hutoka kwa watumiaji wachache wazito.
+4. Fanya njia iliyoidhinishwa iwe haraka kuliko isiyoidhinishwa, kwa sababu EDUCAUSE iligundua 94% ya wafanyakazi na waalimu wanatumia AI kazini, 54% wanajua sera, na 56% wanatumia zana ambazo taasisi haitoi.
+5. Kisha amua mapema ushahidi gani utakufanya usimame, kwa sababu upitishaji bila jaribio la kutoka huwa wa kudumu kwa chaguo-msingi.
 
 ## Katika ngazi ya mtu binafsi
 

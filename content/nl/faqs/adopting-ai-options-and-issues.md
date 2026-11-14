@@ -1,7 +1,7 @@
 ---
 title: "Welke opties en aandachtspunten zijn er bij de invoering van AI-tools?"
 created: "2026-11-12T19:15:00-05:00"
-updated: "2026-11-12T19:15:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ De keuze moet passen bij de beslissing die voor je ligt. Een individu beslist wa
 
 ## De korte versie
 
-Vijf regels dekken het meeste. Leg eerst de datagrens vast, want al het andere is opnieuw te onderhandelen en dat niet. Kies de kleinste vorm die past: gratis of uitbestede tools voor een proef, een gehost platform wanneer je datacontrole nodig hebt zonder GPU's, een gateway wanneer je quota en routering nodig hebt, en eigen inferentie alleen wanneer de andere drie falen. Vergelijk prijzen per zitplaats en per verbruik met je eigen cijfers, want het gebruik komt meestal van een paar zware gebruikers. Maak het toegestane pad sneller dan het niet-goedgekeurde, want EDUCAUSE vond dat 94% van de medewerkers en docenten AI voor werk gebruikt, 54% de policy kent en 56% tools gebruikt die de instelling niet levert. Beslis dan vooraf welk bewijs je zou doen stoppen, want invoering zonder exittest wordt standaard permanent.
+Vijf regels dekken het meeste.
+
+1. Leg eerst de datagrens vast, want al het andere is opnieuw te onderhandelen en dat niet.
+2. Kies de kleinste vorm die past: gratis of uitbestede tools voor een proef, een gehost platform wanneer je datacontrole nodig hebt zonder GPU's, een gateway wanneer je quota en routering nodig hebt, en eigen inferentie alleen wanneer de andere drie falen.
+3. Vergelijk prijzen per zitplaats en per verbruik met je eigen cijfers, want het gebruik komt meestal van een paar zware gebruikers.
+4. Maak het toegestane pad sneller dan het niet-goedgekeurde, want EDUCAUSE vond dat 94% van de medewerkers en docenten AI voor werk gebruikt, 54% de policy kent en 56% tools gebruikt die de instelling niet levert.
+5. Beslis dan vooraf welk bewijs je zou doen stoppen, want invoering zonder exittest wordt standaard permanent.
 
 ## Op individueel niveau
 

@@ -1,7 +1,7 @@
 ---
 title: "Ce opțiuni și probleme trebuie luate în considerare la adoptarea instrumentelor de IA?"
 created: "2026-11-12T19:40:00-05:00"
-updated: "2026-11-12T19:40:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ Alegerea ar trebui să corespundă deciziei din fața ta. O persoană decide ce 
 
 ## Varianta scurtă
 
-Cinci reguli acoperă cea mai mare parte. Stabilește mai întâi granița datelor, pentru că tot restul poate fi renegociat, iar aceasta nu. Alege cea mai mică formă care se potrivește: instrumente gratuite sau externalizate pentru un pilot, o platformă găzduită când ai nevoie de control asupra datelor fără GPU-uri, un gateway când ai nevoie de cote și rutare, și inferență proprie doar când celelalte trei eșuează. Compară prețul pe loc și prețul pe consum cu propriile tale cifre, pentru că de obicei cea mai mare parte a utilizării vine de la câțiva utilizatori intensivi. Fă calea aprobată mai rapidă decât cea neaprobată, pentru că EDUCAUSE a constatat că 94% dintre angajați și cadre didactice folosesc IA la muncă, 54% cunosc politica și 56% folosesc instrumente pe care instituția nu le oferă. Apoi decide dinainte ce dovezi te-ar face să te oprești, pentru că adoptarea fără un test de ieșire devine permanentă implicit.
+Cinci reguli acoperă cea mai mare parte.
+
+1. Stabilește mai întâi granița datelor, pentru că tot restul poate fi renegociat, iar aceasta nu.
+2. Alege cea mai mică formă care se potrivește: instrumente gratuite sau externalizate pentru un pilot, o platformă găzduită când ai nevoie de control asupra datelor fără GPU-uri, un gateway când ai nevoie de cote și rutare, și inferență proprie doar când celelalte trei eșuează.
+3. Compară prețul pe loc și prețul pe consum cu propriile tale cifre, pentru că de obicei cea mai mare parte a utilizării vine de la câțiva utilizatori intensivi.
+4. Fă calea aprobată mai rapidă decât cea neaprobată, pentru că EDUCAUSE a constatat că 94% dintre angajați și cadre didactice folosesc IA la muncă, 54% cunosc politica și 56% folosesc instrumente pe care instituția nu le oferă.
+5. Apoi decide dinainte ce dovezi te-ar face să te oprești, pentru că adoptarea fără un test de ieșire devine permanentă implicit.
 
 ## La nivel individual
 

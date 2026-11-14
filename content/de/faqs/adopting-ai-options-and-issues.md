@@ -1,7 +1,7 @@
 ---
 title: "Welche Optionen und Probleme sind bei der Einführung von KI-Werkzeugen zu bedenken?"
 created: "2026-11-12T11:10:00-05:00"
-updated: "2026-11-12T11:10:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ Die Wahl sollte zur Entscheidung passen, die vor Ihnen liegt. Eine Einzelperson 
 
 ## Die Kurzfassung
 
-Fünf Regeln decken das meiste ab. Klären Sie zuerst die Datengrenze, denn alles andere lässt sich nachverhandeln, sie nicht. Wählen Sie die kleinste passende Form: kostenlose oder ausgelagerte Werkzeuge für einen Piloten, eine gehostete Plattform, wenn Sie Datenkontrolle ohne GPUs brauchen, ein Gateway, wenn Sie Quoten und Routing brauchen, und eigene Inferenz erst, wenn die anderen drei scheitern. Vergleichen Sie Preise pro Sitzplatz und nutzungsabhängige Preise mit Ihren eigenen Zahlen, denn der meiste Verbrauch kommt meist von wenigen intensiven Nutzern. Machen Sie den genehmigten Weg schneller als den nicht genehmigten, denn EDUCAUSE fand heraus, dass 94 % des Personals und der Lehrenden KI für ihre Arbeit nutzten, 54 % die Richtlinie kannten und 56 % Werkzeuge nutzten, die die Einrichtung nicht bereitstellt. Legen Sie dann im Voraus fest, welche Evidenz Sie zum Aufhören bringen würde, denn eine Einführung ohne Ausstiegstest wird per Vorgabe dauerhaft.
+Fünf Regeln decken das meiste ab.
+
+1. Klären Sie zuerst die Datengrenze, denn alles andere lässt sich nachverhandeln, sie nicht.
+2. Wählen Sie die kleinste passende Form: kostenlose oder ausgelagerte Werkzeuge für einen Piloten, eine gehostete Plattform, wenn Sie Datenkontrolle ohne GPUs brauchen, ein Gateway, wenn Sie Quoten und Routing brauchen, und eigene Inferenz erst, wenn die anderen drei scheitern.
+3. Vergleichen Sie Preise pro Sitzplatz und nutzungsabhängige Preise mit Ihren eigenen Zahlen, denn der meiste Verbrauch kommt meist von wenigen intensiven Nutzern.
+4. Machen Sie den genehmigten Weg schneller als den nicht genehmigten, denn EDUCAUSE fand heraus, dass 94 % des Personals und der Lehrenden KI für ihre Arbeit nutzten, 54 % die Richtlinie kannten und 56 % Werkzeuge nutzten, die die Einrichtung nicht bereitstellt.
+5. Legen Sie dann im Voraus fest, welche Evidenz Sie zum Aufhören bringen würde, denn eine Einführung ohne Ausstiegstest wird per Vorgabe dauerhaft.
 
 ## Auf individueller Ebene
 

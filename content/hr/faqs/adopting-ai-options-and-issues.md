@@ -1,7 +1,7 @@
 ---
 title: "Koje su opcije i pitanja koja treba razmotriti pri uvođenju AI alata?"
 created: "2026-11-12T19:15:00-05:00"
-updated: "2026-11-12T19:45:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ Izbor mora odgovarati odluci koja je pred vama. Pojedinac odlučuje što će uni
 
 ## Kratka verzija
 
-Pet pravila pokriva većinu. Najprije odredite granicu podataka jer se sve ostalo može ponovno pregovarati, a to ne može. Odaberite najmanji oblik koji odgovara: besplatni ili vanjski alati za pilot, hostana platforma kada trebate kontrolu nad podacima bez GPU-a, pristupnik kada trebate kvote i usmjeravanje, i vlastita inferencija samo kada ostala tri zakažu. Usporedite cijenu po korisničkom mjestu i po potrošnji s vlastitim brojkama, jer većina upotrebe obično dolazi od nekoliko teških korisnika. Učinite odobreni put bržim od neodobrenog, jer je EDUCAUSE utvrdio da 94% osoblja i nastavnika koristi AI za posao, 54% zna za politiku, a 56% koristi alate koje ustanova ne osigurava. Zatim unaprijed odlučite koji bi vas dokazi natjerali da prestanete, jer uvođenje bez testa izlaza po defaultu postaje trajno.
+Pet pravila pokriva većinu.
+
+1. Najprije odredite granicu podataka jer se sve ostalo može ponovno pregovarati, a to ne može.
+2. Odaberite najmanji oblik koji odgovara: besplatni ili vanjski alati za pilot, hostana platforma kada trebate kontrolu nad podacima bez GPU-a, pristupnik kada trebate kvote i usmjeravanje, i vlastita inferencija samo kada ostala tri zakažu.
+3. Usporedite cijenu po korisničkom mjestu i po potrošnji s vlastitim brojkama, jer većina upotrebe obično dolazi od nekoliko teških korisnika.
+4. Učinite odobreni put bržim od neodobrenog, jer je EDUCAUSE utvrdio da 94% osoblja i nastavnika koristi AI za posao, 54% zna za politiku, a 56% koristi alate koje ustanova ne osigurava.
+5. Zatim unaprijed odlučite koji bi vas dokazi natjerali da prestanete, jer uvođenje bez testa izlaza po defaultu postaje trajno.
 
 ## Na osobnoj razini
 

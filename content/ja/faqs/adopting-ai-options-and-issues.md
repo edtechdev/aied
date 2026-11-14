@@ -1,7 +1,7 @@
 ---
 title: "AI ツールを導入するとき、どのような選択肢と論点を検討すべきか"
 created: "2026-11-12T11:22:00-05:00"
-updated: "2026-11-12T11:22:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -12,7 +12,7 @@ methods: [ai-ed-evaluation]
 audience: [instructors, administrators, educational technology developers, policymakers, learners]
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_of: faqs/adopting-ai-options-and-issues
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -33,7 +33,13 @@ ai_assist:
 
 ## 短いまとめ
 
-五つのルールで大半を覆えます。まずデータの境界を決めてください。他のすべては再交渉できますが、そこはできません。収まる最小の形を選びます。パイロットには無料または外部委託のツール、GPU なしでデータ管理が必要ならホスト型プラットフォーム、クォータとルーティングが必要ならゲートウェイ、自前の推論は他の三つがうまくいかないときだけです。席単位の料金と従量課金を自分の数字で比べてください。利用の大半は少数のヘビーユーザーから来るのが普通です。承認された経路を、承認されていない経路より速くしてください。EDUCAUSE は、職員と教員の 94% が仕事で AI を使い、54% が方針を認識し、56% が機関が提供していないツールを使っていると報告しています。そして、どんな証拠があれば中止するかをあらかじめ決めてください。終了テストのない導入は、既定で恒久化します。
+五つのルールで大半を覆えます。
+
+1. まずデータの境界を決めてください。他のすべては再交渉できますが、そこはできません。
+2. 収まる最小の形を選びます。パイロットには無料または外部委託のツール、GPU なしでデータ管理が必要ならホスト型プラットフォーム、クォータとルーティングが必要ならゲートウェイ、自前の推論は他の三つがうまくいかないときだけです。
+3. 席単位の料金と従量課金を自分の数字で比べてください。利用の大半は少数のヘビーユーザーから来るのが普通です。
+4. 承認された経路を、承認されていない経路より速くしてください。EDUCAUSE は、職員と教員の 94% が仕事で AI を使い、54% が方針を認識し、56% が機関が提供していないツールを使っていると報告しています。
+5. そして、どんな証拠があれば中止するかをあらかじめ決めてください。終了テストのない導入は、既定で恒久化します。
 
 ## 個人のレベル
 

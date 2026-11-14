@@ -1,7 +1,7 @@
 ---
 title: "¿Qué deberían evitar hacer los educadores con la IA?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-14T04:30:00-05:00"
 type: faq
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
@@ -11,7 +11,7 @@ technology: [generative-ai, learning-analytics, affective-computing]
 assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_of: faqs/what-not-to-do-ai-education
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -24,31 +24,31 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-La mayor parte de las orientaciones sobre la IA en la educación dice qué hay que probar. Las prácticas que la evidencia indica que hay que dejar de hacer están ordenadas por el rol que tendría que abandonarlas. Las creencias falsas se tratan en otro lugar: la [[addressing-common-misconceptions-ai-education|FAQ sobre concepciones erróneas]] se ocupa de ellas, y la página de concepto [[misconceptions]] explica por qué persisten. Lo que la investigación todavía no puede decirle pertenece a los [[limitations-in-aied-research|límites de la investigación en AIEd]]. Lo que sigue aquí es el paso posterior a la creencia, es decir, lo que las personas hacen, lo que cuesta y qué hacer en su lugar.
+La mayor parte de las orientaciones sobre la IA en la educación dice qué hay que probar. Las prácticas que la evidencia indica que hay que dejar de hacer están ordenadas por el rol que tendría que abandonarlas. Las creencias falsas se tratan en otro lugar: la [[addressing-common-misconceptions-ai-education|FAQ sobre concepciones erróneas]] se ocupa de ellas, y la página de concepto [[misconceptions]] explica por qué persisten. Lo que la investigación todavía no puede decirle pertenece a los [[limitations-in-aied-research|límites de la investigación en AIEd]]. Lo que sigue es lo que las personas hacen en realidad, lo que cuesta y qué hacer en su lugar.
 
 Tres fallos se repiten en todos los roles.
 
-1. **Sustitución.** Una herramienta hace el pensamiento que debía hacer quien aprende, y la salida se califica como si esa persona la hubiera hecho. El ensayo que se entrega es un registro de lo que puede hacer el modelo, no de lo que puede hacer el estudiante.
-2. **Evidencia no ganada.** Una señal barata de recoger, como la confianza, la fluidez, la implicación o una tasa de finalización, se trata como prueba de algo que no puede mostrar. Un panel puede informar de cuarenta minutos en una sesión de tutoría; no puede informar de si alguien aprendió la fórmula cuadrática.
-3. **Estructura dejada a la exhortación.** Se pide a un aviso, a una frase de política o a una sesión de formación que haga el trabajo que deben hacer el diseño de la interfaz, el diseño de la evaluación o la gobernanza. El programa del curso dice que se use la IA con responsabilidad, y el tutor sigue entregando la respuesta terminada al primer prompt.
+1. **La herramienta hace el pensamiento.** Se supone que quien aprende debe resolver algo, y la herramienta hace esa parte en su lugar, pero el resultado se califica como propio de quien aprende. El ensayo que se entrega muestra lo que puede hacer el modelo, no lo que puede hacer el estudiante.
+2. **Un número que no muestra aprendizaje.** Algo fácil de contar, como la confianza, la fluidez, la implicación o una tasa de finalización, se trata como prueba de que hubo aprendizaje. Un panel puede mostrar cuarenta minutos en una sesión de tutoría. No puede mostrar si alguien aprendió la fórmula cuadrática.
+3. **Una regla donde la configuración debería hacer el trabajo.** Se pide a un aviso, a una frase del programa del curso o a una sesión de formación que haga un trabajo que solo pueden hacer la tarea, el software o la política. El programa del curso dice que se use la IA con responsabilidad, la tarea todavía se puede terminar con un chatbot en un minuto, y el tutor sigue entregando la respuesta terminada al primer prompt. Decirle a la gente que se comporte de otra manera no cambia lo que la tarea o la herramienta les permite hacer.
 
 ## La versión breve
 
-**1.** Nunca califique, cite o promueva una salida como evidencia de la capacidad que la produjo.
+**1.** Nunca califique, cite o promueva algo que produjo la herramienta como si lo hubiera producido el estudiante.
 
-**2.** Recoja la medida sin ayuda junto a la medida asistida, siempre.
+**2.** Mida lo que el estudiantado puede hacer sin la herramienta, junto a lo que puede hacer con ella.
 
 **3.** Trate la fluidez, la confianza y la implicación como características del uso, no como aprendizaje.
 
-**4.** Ponga la salvaguarda en el flujo de trabajo, no en un aviso.
+**4.** Ponga la salvaguarda en la tarea o en el software, no en un aviso.
 
-**5.** Suponga que cualquier dato que la herramienta pueda ver se conservará, se combinará y se filtrará.
+**5.** Suponga que todo lo que la herramienta pueda ver se almacenará, se combinará con otros datos y, tarde o temprano, se filtrará.
 
 **6.** Si la afirmación viene con una demostración pero no con una comparación, es marketing.
 
 ## Para el profesorado
 
-**No certifique una salida como capacidad.** Una entrega pulida es evidencia de una entrega pulida. Si un estudiante entrega una revisión de la literatura cuyas fuentes usted no puede contrastar con nada de lo que el curso enseñó, y la evaluación no distingue lo que ese estudiante puede hacer sin ayuda, la evaluación ha dejado de medir aquello que afirma la credencial ([[assessment-validity]], [[authentic-assessment]]). La solución es rediseñar la tarea; un código de honor más estricto no lo conseguirá.
+**No trate una entrega pulida como prueba de aprendizaje.** Una entrega pulida es evidencia de una entrega pulida. Si un estudiante entrega una revisión de la literatura cuyas fuentes usted no puede contrastar con nada de lo que el curso enseñó, y la evaluación no distingue lo que ese estudiante puede hacer sin ayuda, la evaluación ha dejado de medir aquello que afirma la credencial ([[assessment-validity]], [[authentic-assessment]]). La solución es rediseñar la tarea; un código de honor más estricto no lo conseguirá.
 
 **No use la puntuación de un detector como prueba de mala conducta.** En un estudio controlado de 642 resúmenes publicados, los detectores marcaron entre el 38 y el 80% de la edición ligera con IA conforme a las directrices y entre el 9 y el 15% de la escritura humana sin modificar, mientras detectaban menos del 4% de las reescrituras pasadas por un servicio de humanización ([[karr-ai-detection-humanization-2026|Karr et al., 2026]]). Una evaluación de referencia independiente encontró que ninguna de 14 herramientas comerciales alcanzaba el 80% de exactitud, y una paráfrasis sencilla reduce incluso esa cifra a la mitad ([[teichmann-detecting-undetectable-misconduct-2026|Teichmann et al., 2026]]). Con tasas base realistas, los falsos positivos superan a los verdaderos positivos ([[should-we-use-ai-detectors]]). Un detector puede iniciar una conversación; no puede terminarla.
 
@@ -56,7 +56,7 @@ Tres fallos se repiten en todos los roles.
 
 **No trate la implicación como aprendizaje.** El tiempo en la tarea, la satisfacción, el volumen de búsqueda de ayuda y la actividad en el chat son fáciles de instrumentar y todos compatibles con ningún aprendizaje. En un experimento de 3 × 2 con 186 participantes que juzgaban casos civiles en una plataforma asistida por un LLM, una barrera de seguridad que redujo el cambio a una posición incorrecta de la IA del 42–60,5% al 5,7–8,2% no produjo ningún efecto de aprendizaje medible dentro de la sesión (β = 0,03, p = 0,18; [[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]). La conducta cambió; la medida de aprendizaje no ([[student-engagement]]).
 
-**No confíe en un aviso donde la interfaz podría restringir.** Un tutor que puede producir la respuesta terminada la producirá bajo presión de plazo, diga lo que diga el programa. La barrera que funciona está integrada en la interacción ([[reducing-ai-misuse]], [[pedagogical-safety]]). Retener la respuesta final durante los dos primeros intentos es una decisión de diseño; pedir al estudiantado que no la pida es una solicitud.
+**No confíe en un aviso cuando el software podría detenerlo.** Un tutor que puede producir la respuesta terminada la producirá bajo presión de plazo, diga lo que diga el programa. La barrera que funciona está integrada en la interacción ([[reducing-ai-misuse]], [[pedagogical-safety]]). Retener la respuesta final durante los dos primeros intentos es una decisión de diseño; pedir al estudiantado que no la pida es una solicitud.
 
 **No pegue trabajos del estudiantado, planes educativos individualizados, expedientes disciplinarios ni borradores identificables en una herramienta de consumo.** La minimización de datos es una decisión de diseño que usted toma en nombre del estudiante, tanto si lo ha pensado como si no ([[privacy]]). La cuenta gratuita de chatbot que responde a una pregunta sobre el plan de conducta de un estudiante es también una copia de ese plan en el servidor de otra persona.
 
@@ -142,7 +142,7 @@ Tres fallos se repiten en todos los roles.
 
 ## Por qué estas precauciones van juntas
 
-Todos los elementos anteriores elevan un indicador indirecto a veredicto. El ensayo representa a quien escribe, la puntuación representa la mala conducta, la sonrisa representa la empatía y la demostración representa el aprendizaje. La corrección es la misma cada vez: nombrar el constructo, encontrar una medida que pudiera salir al revés y recogerla junto a la conveniente.
+Cada elemento anterior confunde un sustituto con la cosa real. El ensayo sustituye a quien escribe, la puntuación del detector a la mala conducta, la sonrisa a la empatía y la demostración al aprendizaje. La corrección es la misma cada vez: decir qué quiere saber usted en realidad, encontrar una medida que pudiera salir al revés y recogerla junto a la fácil.
 
 Ninguna de estas precauciones significa que la herramienta siempre esté mal. Un detector puede ser un motivo para hablar con un estudiante. Un chatbot puede ser un ensayo útil. Un panel puede ser una invitación a hacer una pregunta. Lo que causa daño es la sustitución.
 
@@ -158,7 +158,7 @@ Ninguna de estas precauciones significa que la herramienta siempre esté mal. Un
 
 - [[addressing-common-misconceptions-ai-education]]: las creencias que hay detrás de estas prácticas, y cómo corregirlas sin condescendencia.
 - [[limitations-in-aied-research]]: lo que la base de evidencia aún no puede sostener.
-- [[reducing-ai-misuse]]: las palancas estructurales contra el mal uso, y por qué superan a la exhortación.
+- [[reducing-ai-misuse]]: cambios en la tarea y en el software que previenen el mal uso, y por qué funcionan mejor que los recordatorios.
 - [[pedagogical-safety]]: lo que un tutor puede hacerle a quien aprende mientras pasa todas las comprobaciones de contenido.
 - [[should-we-use-ai-detectors]]: la evidencia sobre detectores, completa.
 - [[checking-whether-educational-ai-works]]: cómo evaluar una afirmación antes de adoptarla.

@@ -1,7 +1,7 @@
 ---
 title: "Apa Saja Opsi dan Persoalan yang Perlu Dipertimbangkan Saat Mengadopsi Alat AI?"
 created: "2026-11-12T11:30:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ Pilihan itu harus sesuai dengan keputusan yang ada di depan Anda. Individu memut
 
 ## Versi singkat
 
-Lima aturan mencakup sebagian besar hal ini. Tetapkan dulu batas data, karena semua hal lain dapat dinegosiasikan ulang dan hal itu tidak. Pilih bentuk terkecil yang cocok: alat gratis atau yang dialihdayakan untuk uji coba, platform terkelola ketika Anda membutuhkan kendali data tanpa GPU, gateway ketika Anda membutuhkan kuota dan perutean, dan inferensi milik sendiri hanya ketika tiga opsi lain gagal. Bandingkan harga per kursi dan harga terukur dengan angka Anda sendiri, karena sebagian besar pemakaian biasanya berasal dari sedikit pengguna berat. Buat jalur yang disahkan lebih cepat daripada jalur yang tidak disetujui, karena EDUCAUSE menemukan 94% staf dan dosen memakai AI untuk pekerjaan, 54% mengetahui kebijakannya, dan 56% memakai alat yang tidak disediakan institusi. Lalu putuskan sejak awal bukti apa yang akan membuat Anda berhenti, karena adopsi tanpa uji keluar akan menjadi permanen secara default.
+Lima aturan mencakup sebagian besar hal ini.
+
+1. Tetapkan dulu batas data, karena semua hal lain dapat dinegosiasikan ulang dan hal itu tidak.
+2. Pilih bentuk terkecil yang cocok: alat gratis atau yang dialihdayakan untuk uji coba, platform terkelola ketika Anda membutuhkan kendali data tanpa GPU, gateway ketika Anda membutuhkan kuota dan perutean, dan inferensi milik sendiri hanya ketika tiga opsi lain gagal.
+3. Bandingkan harga per kursi dan harga terukur dengan angka Anda sendiri, karena sebagian besar pemakaian biasanya berasal dari sedikit pengguna berat.
+4. Buat jalur yang disahkan lebih cepat daripada jalur yang tidak disetujui, karena EDUCAUSE menemukan 94% staf dan dosen memakai AI untuk pekerjaan, 54% mengetahui kebijakannya, dan 56% memakai alat yang tidak disediakan institusi.
+5. Lalu putuskan sejak awal bukti apa yang akan membuat Anda berhenti, karena adopsi tanpa uji keluar akan menjadi permanen secara default.
 
 ## Pada tingkat individu
 

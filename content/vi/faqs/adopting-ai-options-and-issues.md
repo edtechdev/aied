@@ -1,7 +1,7 @@
 ---
 title: "Cần cân nhắc những lựa chọn và vấn đề nào khi đưa công cụ AI vào sử dụng?"
 created: "2026-11-12T11:30:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ Lựa chọn phải khớp với quyết định trước mắt. Một cá nhân
 
 ## Phiên bản ngắn
 
-Năm quy tắc bao quát phần lớn. Hãy chốt ranh giới dữ liệu trước, vì mọi thứ khác có thể đàm phán lại còn nó thì không. Chọn hình thái nhỏ nhất phù hợp: công cụ miễn phí hoặc thuê ngoài cho giai đoạn thí điểm, nền tảng được lưu trữ khi cần kiểm soát dữ liệu mà không có GPU, một cổng khi cần hạn ngạch và định tuyến, và suy luận tự vận hành chỉ khi ba hình thái kia thất bại. So sánh giá theo ghế và giá theo mức sử dụng với chính con số của bạn, vì phần lớn mức dùng thường đến từ vài người dùng nặng. Làm cho con đường được phê duyệt nhanh hơn con đường không được phép, vì EDUCAUSE phát hiện 94% nhân viên và giảng viên dùng AI cho công việc, 54% biết về chính sách và 56% dùng công cụ mà cơ sở không cung cấp. Rồi quyết định trước bằng chứng nào sẽ khiến bạn dừng lại, vì việc tiếp nhận không có phép thử thoát sẽ mặc nhiên trở thành vĩnh viễn.
+Năm quy tắc bao quát phần lớn.
+
+1. Hãy chốt ranh giới dữ liệu trước, vì mọi thứ khác có thể đàm phán lại còn nó thì không.
+2. Chọn hình thái nhỏ nhất phù hợp: công cụ miễn phí hoặc thuê ngoài cho giai đoạn thí điểm, nền tảng được lưu trữ khi cần kiểm soát dữ liệu mà không có GPU, một cổng khi cần hạn ngạch và định tuyến, và suy luận tự vận hành chỉ khi ba hình thái kia thất bại.
+3. So sánh giá theo ghế và giá theo mức sử dụng với chính con số của bạn, vì phần lớn mức dùng thường đến từ vài người dùng nặng.
+4. Làm cho con đường được phê duyệt nhanh hơn con đường không được phép, vì EDUCAUSE phát hiện 94% nhân viên và giảng viên dùng AI cho công việc, 54% biết về chính sách và 56% dùng công cụ mà cơ sở không cung cấp.
+5. Rồi quyết định trước bằng chứng nào sẽ khiến bạn dừng lại, vì việc tiếp nhận không có phép thử thoát sẽ mặc nhiên trở thành vĩnh viễn.
 
 ## Ở cấp cá nhân
 

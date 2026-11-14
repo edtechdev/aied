@@ -1,7 +1,7 @@
 ---
 title: "Quali opzioni e questioni considerare quando si adottano strumenti di IA?"
 created: "2026-11-12T19:10:00-05:00"
-updated: "2026-11-12T19:10:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ La scelta dovrebbe corrispondere alla decisione che si ha davanti. Un individuo 
 
 ## La versione breve
 
-Cinque regole coprono gran parte della questione. Fissa prima il confine dei dati, perché tutto il resto è rinegoziabile e quello no. Scegli la forma più piccola che basta: strumenti gratuiti o esternalizzati per un progetto pilota, una piattaforma ospitata quando serve controllo sui dati senza GPU, un gateway quando servono quote e instradamento, e inferenza di proprietà solo quando le altre tre falliscono. Confronta i prezzi a postazione e a consumo con i tuoi numeri, perché di solito l'uso proviene da pochi utenti intensivi. Rendi il percorso autorizzato più veloce di quello non approvato, dato che EDUCAUSE ha rilevato che il 94% del personale e dei docenti usa l'IA per lavoro, il 54% conosce la policy e il 56% usa strumenti che l'istituzione non fornisce. Poi decidi in anticipo quali prove ti farebbero fermare, perché un'adozione senza test di uscita diventa permanente per impostazione predefinita.
+Cinque regole coprono gran parte della questione.
+
+1. Fissa prima il confine dei dati, perché tutto il resto è rinegoziabile e quello no.
+2. Scegli la forma più piccola che basta: strumenti gratuiti o esternalizzati per un progetto pilota, una piattaforma ospitata quando serve controllo sui dati senza GPU, un gateway quando servono quote e instradamento, e inferenza di proprietà solo quando le altre tre falliscono.
+3. Confronta i prezzi a postazione e a consumo con i tuoi numeri, perché di solito l'uso proviene da pochi utenti intensivi.
+4. Rendi il percorso autorizzato più veloce di quello non approvato, dato che EDUCAUSE ha rilevato che il 94% del personale e dei docenti usa l'IA per lavoro, il 54% conosce la policy e il 56% usa strumenti che l'istituzione non fornisce.
+5. Poi decidi in anticipo quali prove ti farebbero fermare, perché un'adozione senza test di uscita diventa permanente per impostazione predefinita.
 
 ## A livello individuale
 

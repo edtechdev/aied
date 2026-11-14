@@ -1,7 +1,7 @@
 ---
 title: "AI 도구를 도입할 때 어떤 선택지와 쟁점을 고려해야 합니까?"
 created: "2026-11-12T11:30:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-14T04:15:00-05:00"
 type: faq
 connected_faqs: [institutional-ai-policy, course-ai-policy, checking-whether-educational-ai-works, what-not-to-do-ai-education]
 weight: 88
@@ -13,7 +13,7 @@ audience: [instructors, administrators, educational technology developers, polic
 level: [higher ed, k 12]
 institutions: [governance, institutional-ai-infrastructure, shadow-ai]
 translation_of: faqs/adopting-ai-options-and-issues
-source_updated: "2026-11-12T17:10:00-05:00"
+source_updated: "2026-11-14T04:15:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,13 @@ ai_assist:
 
 ## 간략한 버전
 
-다섯 가지 규칙이 대부분을 덮습니다. 데이터 경계를 먼저 정하십시오. 나머지는 모두 다시 협상할 수 있지만 그것은 그렇지 않습니다. 맞는 가장 작은 형태를 고르십시오. 파일럿에는 무료 또는 외주 도구, GPU 없이 데이터 통제가 필요할 때는 호스팅 플랫폼, 할당량과 라우팅이 필요할 때는 게이트웨이, 그리고 나머지 셋이 실패할 때만 자체 추론입니다. 좌석당 가격과 종량제 가격을 여러분 자신의 숫자와 비교하십시오. 대부분의 사용량은 보통 소수의 헤비 유저에게서 나오기 때문입니다. 승인된 경로를 승인되지 않은 경로보다 빠르게 만드십시오. EDUCAUSE는 직원과 교수진의 94%가 업무에 AI를 쓰고, 54%가 정책을 인지하며, 56%가 기관이 제공하지 않는 도구를 쓴다고 발견했습니다. 그다음 어떤 증거가 있으면 중단할지를 미리 정하십시오. 종료 기준 없는 도입은 기본값으로 영구화되기 때문입니다.
+다섯 가지 규칙이 대부분을 덮습니다.
+
+1. 데이터 경계를 먼저 정하십시오. 나머지는 모두 다시 협상할 수 있지만 그것은 그렇지 않습니다.
+2. 맞는 가장 작은 형태를 고르십시오. 파일럿에는 무료 또는 외주 도구, GPU 없이 데이터 통제가 필요할 때는 호스팅 플랫폼, 할당량과 라우팅이 필요할 때는 게이트웨이, 그리고 나머지 셋이 실패할 때만 자체 추론입니다.
+3. 좌석당 가격과 종량제 가격을 여러분 자신의 숫자와 비교하십시오. 대부분의 사용량은 보통 소수의 헤비 유저에게서 나오기 때문입니다.
+4. 승인된 경로를 승인되지 않은 경로보다 빠르게 만드십시오. EDUCAUSE는 직원과 교수진의 94%가 업무에 AI를 쓰고, 54%가 정책을 인지하며, 56%가 기관이 제공하지 않는 도구를 쓴다고 발견했습니다.
+5. 그다음 어떤 증거가 있으면 중단할지를 미리 정하십시오. 종료 기준 없는 도입은 기본값으로 영구화되기 때문입니다.
 
 ## 개인 차원에서
 
