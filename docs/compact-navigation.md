@@ -38,7 +38,7 @@ nested shell regions are added together.
   taxonomy or destination was created.
 - **Bounded context.** A concept page shows its current concept, its registry
   group, and at most eight nearby concepts in registry order. An article, FAQ or
-  resource shows at most eight concepts from its existing typed facets, labelled
+  resource shows at most eight concepts from its existing typed facets, labeled
   as concepts rather than as a hierarchy. Missing or invalid facet targets are
   dropped.
 - **Five-FAQ tab.** The FAQ tab shows at most five FAQs, preferring the page's

@@ -43,7 +43,7 @@ four defects ship green:
 
 1. Read the source's own title, then paste it into `title:` and the citation before writing anything.
 2. Draft Key Findings first, from the abstract and results, in plain language. If a finding cannot be
-   stated without a statistic, it is not yet understood well enough to summarise.
+   stated without a statistic, it is not yet understood well enough to summarize.
 3. Write 3-4 body sections: what was tested, how, what the numbers showed, what they do not show. This
    is where coefficients, sample sizes and effect sizes go.
 4. Write practice bullets by asking "who acts on this?" per finding, one audience label each.

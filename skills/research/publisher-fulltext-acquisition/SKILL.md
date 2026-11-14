@@ -41,7 +41,7 @@ distinctive program or model name - not only its topic word - across `content/en
    article-type line is the access statement that matters.
 
 5. **Extract the body, not the chrome.** Cut from the first sentence of the first body paragraph to the
-   copyright line, strip the reference-widget artefacts (`Google Scholar`, `Google ScholarCrossref`) with
+   copyright line, strip the reference-widget artifacts (`Google Scholar`, `Google ScholarCrossref`) with
    a line-level regex, and collapse runs of blank lines. Keep Notes and Works Cited - they carry the
    context numbers a page may cite.
 
@@ -56,7 +56,7 @@ distinctive program or model name - not only its topic word - across `content/en
 ## Pitfalls
 
 - **An essay and a study from the same issue need different page machinery.** Decide whether the item
-  reports data before drafting. No sample, no instrument and no result means the labelled-perspective
+  reports data before drafting. No sample, no instrument and no result means the labeled-perspective
   route (`non-empirical-source-ingest`), with "reports no empirical data" written into the Synthesis
   blockquote and a Limitations bullet naming what is missing.
 - **A qualitative paper's percentages are shares of coded reflections, not outcome measures.** Quote them
@@ -74,4 +74,4 @@ distinctive program or model name - not only its topic word - across `content/en
 ## Related
 
 `wiki-source-acquisition` (a source is truncated or wholly missing), `non-empirical-source-ingest`
-(labelled perspectives), `wiki-citation-format` (the Citation line built from the Crossref record).
+(labeled perspectives), `wiki-citation-format` (the Citation line built from the Crossref record).

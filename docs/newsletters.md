@@ -9,9 +9,11 @@ content/es/newsletters/2026-11-07.md   ->  /aied/es/news/2026-11-07/
 content/fr/newsletters/2026-11-07.md   ->  /aied/fr/news/2026-11-07/
 ```
 
-Spanish and French editions are translated copies of the same issue. The English issue stays
-canonical; the localized page is an alternate, not a replacement. This folder holds only this
-guide, so nothing here reaches a build.
+Every translated locale publishes a copy of the same issue under
+`content/<locale>/newsletters/` (32 locales today, for example `content/es/...` renders at
+`/aied/es/news/2026-11-07/`). The English issue stays canonical; a localized page is an alternate,
+not a replacement, and `python3 tooling/scripts/audit-newsletter-locales.py` compares each
+translation against it. This folder holds only this guide, so nothing here reaches a build.
 
 ## Where an issue appears
 

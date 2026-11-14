@@ -6,7 +6,7 @@ category: research
 
 # Concept-map curation: does this construct need a page?
 
-Use when the user asks "is there sufficient cause for a concept page about X?", "is Y sufficient, or do we need Z?", or when a batch of sources has landed and the cluster may justify a new page. This skill answers that question with corpus evidence and settles the precedent rules. Execution of an approved page (registry, artefacts, weaves, screens, gates) belongs to `wiki-concept-page-closeout`; the upstream prose significance test belongs to `wiki-concept-narrative`.
+Use when the user asks "is there sufficient cause for a concept page about X?", "is Y sufficient, or do we need Z?", or when a batch of sources has landed and the cluster may justify a new page. This skill answers that question with corpus evidence and settles the precedent rules. Execution of an approved page (registry, artifacts, weaves, screens, gates) belongs to `wiki-concept-page-closeout`; the upstream prose significance test belongs to `wiki-concept-narrative`.
 
 ## Procedure
 
@@ -19,7 +19,7 @@ Use when the user asks "is there sufficient cause for a concept page about X?", 
 
 ## Hub plus deep-dive is the house pattern
 
-A methodology or construct with its own article cluster gets a standalone page, and the hub keeps a short section that summarises and links out. The research-methods hub carries pointers to `design-based-research` and `longitudinal-research` rather than absorbing them; `developmental-psychology` points at deeper pages instead of restating them. Apply the same pattern when a page hands over a section: the hub section shrinks to a sentence plus the wikilink, and the new page carries the argument.
+A methodology or construct with its own article cluster gets a standalone page, and the hub keeps a short section that summarizes and links out. The research-methods hub carries pointers to `design-based-research` and `longitudinal-research` rather than absorbing them; `developmental-psychology` points at deeper pages instead of restating them. Apply the same pattern when a page hands over a section: the hub section shrinks to a sentence plus the wikilink, and the new page carries the argument.
 
 ## Pitfalls
 
@@ -31,6 +31,6 @@ A methodology or construct with its own article cluster gets a standalone page, 
 ## Relationship to other skills
 
 - `wiki-concept-page-design` holds the create-versus-enrich heuristics and the naming-collision rules.
-- `wiki-concept-page-closeout` executes an approved page: registry, generated artefacts, reciprocal links, disclosure fields.
+- `wiki-concept-page-closeout` executes an approved page: registry, generated artifacts, reciprocal links, disclosure fields.
 - `wiki-batch-concept-integration` covers the cross-file work when a batch produces a page.
 - `wiki-gate-suite-triage` covers the gates that fail afterwards.

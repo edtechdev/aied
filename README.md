@@ -15,7 +15,7 @@ A free, linked knowledge base on artificial intelligence in education: research,
 - **Concepts** — synthesized topic pages (e.g. *feedback*, *assessment*, *teacher-role*), each with pre-reading questions, an introduction, and links to the research behind it. The [concept index](https://edtechdev.github.io/aied/concepts/) lists them all by section.
 - **FAQs** — curated answers to common questions, cross-linked to the concepts and articles behind them. The [FAQ index](https://edtechdev.github.io/aied/faq/) groups them by theme.
 - **Resources** — free tools, collections, assessment instruments and open formats worth using, each with an access note, a last-verified date, and the concepts it serves. Browse them on the [resources page](https://edtechdev.github.io/aied/resources/).
-- **Newsletter** — a weekly issue summarizing the most significant additions. Read the [newsletter archive](https://edtechdev.github.io/aied/news/); Spanish and French editions have their own archives and translated issues.
+- **Newsletter** — a weekly issue summarizing the most significant additions. Read the [newsletter archive](https://edtechdev.github.io/aied/news/); every translated locale has its own archive and translated issue.
 - **Feeds** — [`/rss.xml`](https://edtechdev.github.io/aied/rss.xml) carries the 200 newest pages of any type, with each page's type as the feed category and its summary rather than its full text. The newsletter has [its own English feed](https://edtechdev.github.io/aied/news/rss.xml), plus [Spanish](https://edtechdev.github.io/aied/es/news/rss.xml) and [French](https://edtechdev.github.io/aied/fr/news/rss.xml) feeds for the translated issues.
 - Every page links to related pages with `[[wikilinks]]`, so a topic can be followed across the whole knowledge base.
 
@@ -196,6 +196,7 @@ python3 tooling/scripts/validate-facets.py       # check typed metadata against 
 python3 tooling/scripts/gen-concept-artifacts.py # regenerate concept views from the registry
 python3 tooling/scripts/audit-metadata.py --strict
 python3 tooling/scripts/check-us-english.py --include-docs
+python3 tooling/scripts/audit-newsletter-locales.py     # translated issues vs the English one
 python3 tooling/scripts/sync-skills.py --check   # drift between skills/ and the agent's installed copies
 ```
 
@@ -226,15 +227,17 @@ Every article ingestion does two things beyond creating the page: it adds inline
 
 ### The weekly newsletter
 
-A weekly issue summarizes the most significant research and resources added, plus internal changes to the site. English issues live in `content/en/newsletters/<issue-date>.md` and render at `/news/<issue-date>/`. Spanish and French translations live beside them under `content/<locale>/newsletters/` and render at `/<locale>/news/<issue-date>/` when the translation exists. Archives are at `/news/`, `/es/news/`, and `/fr/news/`. Each issue carries `issue` (a sequence number) and `status` (`draft`, `ready` or `published`), so a draft can sit in the folder without appearing on the site.
+A weekly issue summarizes the most significant research and resources added, plus internal changes to the site. English issues live in `content/en/newsletters/<issue-date>.md` and render at `/news/<issue-date>/`. Translated issues live beside them under `content/<locale>/newsletters/` and render at `/<locale>/news/<issue-date>/`; all 32 translated locales carry one, and their archives are at `/<locale>/news/`.
 
-The newsletter feeds follow the same split: `/news/rss.xml` carries the English issues, `/es/news/rss.xml` and `/fr/news/rss.xml` carry their translated issues, and each localized archive links its own feed. Issue pages show the language globe when a translation exists.
+The newsletter feeds follow the same split: `/news/rss.xml` carries the English issues, while `/es/news/rss.xml` and `/fr/news/rss.xml` carry those two translated feeds; every locale still has its own archive page, and issue pages show the language globe when a translation exists.
+
+`python3 tooling/scripts/audit-newsletter-locales.py` compares every translation against the English issue on frontmatter, headings, bullet count and link count, and names the locale and the missing or extra URLs when one drifts. Run it after editing an English issue, because a link added on one side and not the other fails the check even when the page renders.
 
 The format, house style and publishing contract are in **[docs/newsletters.md](docs/newsletters.md)**: the current section order, the masthead, frontmatter, localized editions, editorial note, link rules, and footer.
 
-Five skills drive the work, mirrored under `skills/research/`:
+The newsletter workflow is covered by a family of skills, mirrored under `skills/research/`:
 
-- **`newsletter-issue-drafting`** — how to draft an issue: fix the seven-day window, list what was added from `git log` rather than memory, decide each item's section from the page's own `audience:` facet, read the page's bottom-line paragraph before writing about it, and verify every link. Its `scripts/render-newsletter-preview.py` renders a draft to a standalone page in the site palette, so you can review it without rebuilding the site:
+- **Drafting.** `newsletter-issue-drafting` fixes the seven-day window, lists what was added from `git log` rather than memory, decides each item's section from the page's own `audience:` facet, and reads the page's bottom-line paragraph before writing about it. Its `scripts/render-newsletter-preview.py` renders a draft to a standalone page in the site palette, so you can review it without rebuilding the site:
 
   ```bash
   python3 skills/research/newsletter-issue-drafting/scripts/render-newsletter-preview.py \
@@ -242,12 +245,13 @@ Five skills drive the work, mirrored under `skills/research/`:
   python3 -m http.server 4322 --bind 0.0.0.0 --directory /tmp/newsletter-preview
   ```
 
-  Serve it on a port other than the site's own preview, which serves the last build.
+  Serve it on a port other than the site's own preview, which serves the last build. `newsletter-highlight-selection` decides which studies make the highlights when the week offers more than the issue can carry.
 
-- **`newsletter-publishing`** — the issue-as-page contract and the wiring checklist for publishing an issue on a site.
-- **`astro-newsletter-publishing`** — the Astro steps for adding the page family to a site that lacks it: the collection, the routes, the feed, the icons, the journal and sidebar entries, and the header link.
-- **`newsletter-localization`** — translating an issue, the `newsletterTranslations` collection, the localized detail route, the archive lookup, and the structural and link gates.
-- **`newsletter-localized-feed`** — the locale-specific RSS endpoint, its discovery links, and the checks that keep translations out of the English feed.
+- **Production and editing.** `newsletter-production` runs the link pass and the pre-publish checks, including an assertion that every article summary links its study in the first sentence; LinkedIn strips links out of `###` headings on paste, so a heading-only link arrives unfollowable. `newsletter-editorial-quality`, `newsletter-editorial-humanizer` and `newsletter-educator-editorial-pass` carry the prose standard.
+
+- **Publishing.** `newsletter-publishing` is the issue-as-page contract and the wiring checklist; `astro-newsletter-publishing` covers adding the page family to a site that lacks it.
+
+- **Localization.** `newsletter-localization` translates an issue and wires the `newsletterTranslations` collection, the localized route and the archive lookup; `newsletter-localized-routing` and `newsletter-localized-feed` add the locale route and feed; `newsletter-locale-backfill` and `newsletter-locale-closeout` catch a series up across locales.
 
 ### Troubleshooting
 
@@ -262,6 +266,7 @@ Five skills drive the work, mirrored under `skills/research/`:
 | A number is not in its source | `python3 tooling/scripts/verify-number-grounding.py <slug>` — grounded means the token appears in `raw/papers/<file>.md`. Leading-dot p-values, table columns split across lines and values duplicated by HTML conversion are false positives; grep the raw before changing prose |
 | British spelling crept in | `python3 tooling/scripts/check-us-english.py --include-docs` — house style is US English; the checker ignores slugs, link targets and inline code |
 | A resource link has rotted | `python3 tooling/scripts/check-resource-links.py` — re-checks every resource URL and reports the `last_verified` date to bump |
+| A translated issue drifts from the English one | `python3 tooling/scripts/audit-newsletter-locales.py` — reports `links N!=M`, missing or extra URLs, and frontmatter mismatches, one line per locale |
 | YAML parsing errors | Quote titles containing colons: `title: "X: Y"` |
 
 ### AI-use disclosure in practice

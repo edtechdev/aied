@@ -27,17 +27,17 @@ full-site build. Creating a page is `wiki-resource-pages`; this is the edit-and-
    every concept the prose already names, at first mention, body only, and never inside the
    `## Connected Concepts` list. Typical resource-page candidates: the thing the tool builds
    (`knowledge-graph`), what it plugs into (`edtech-platform`), who uses it (`teacher-role`), what it
-   measures (`assessment`, `feedback`, `llm`), and its licence posture (`open-source`).
+   measures (`assessment`, `feedback`, `llm`), and its license posture (`open-source`).
 3. **Gate the wiring.** `python3 tooling/scripts/check-resource-wiring.py <slug>` requires 1–3 prose
    concept links that resolve. A page whose links all live in the connected list still fails — that is
    the defect the gate exists for.
 4. **Cut the incidental detail from BOTH copy locations.** Founder and leadership names, founding
-   history and vendor marketing are noise to this maintainer; keep the organisation, the funder, the
-   licence, the access terms and the gating caveats, which are the page's value. Grep the whole file
+   history and vendor marketing are noise to this maintainer; keep the organization, the funder, the
+   license, the access terms and the gating caveats, which are the page's value. Grep the whole file
    for the names: they usually sit in the frontmatter `summary` as well as the opening paragraph, so a
    body-only edit leaves the summary advertising what you removed. Folding a duplicate sentence (for
    example the funder stated twice) is part of the same pass.
-5. **Fix mislabelled and miscased links while you are there.** A link's label must match its target's
+5. **Fix mislabeled and miscased links while you are there.** A link's label must match its target's
    sense (`[[assessment|feedback]]` sends the reader to assessment). A bare `[[feedback]]` renders the
    target's TITLE, so a lowercase prose word becomes `Feedback` mid-sentence: write
    `[[feedback|feedback]]`. `check-same-text-pipes.py` rejects only the exact-identical `[[x|x]]`, so
