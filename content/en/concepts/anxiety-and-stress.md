@@ -1,10 +1,15 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T06:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 technology: [affective-computing]
 assessment: [remote-proctoring]
 audience: [learners]
@@ -108,6 +113,7 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - **Which stressors the model weighs — and why context matters.** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] offer a [[machine-learning]] window on which stressors actually drive student distress in a [[global-south|non-Western context]]. Feature-importance analysis on 1,100 survey responses put blood pressure first (15.6%) and **teacher-student relationship second (10.0%)** — ahead of sleep quality (9.3%), depression (8.3%) and social support (7.6%) — while anxiety level ranked ninth at 4.8%, which the authors read as evidence that student stress is multi-dimensional rather than driven by a single psychological indicator. They attribute the salience of the teacher-student relationship to the comparatively hierarchical educational environment in Pakistan and present it as a hypothesis for locally collected data, underlining that stress models and their feature weights are context-dependent and cannot be assumed to transfer across student populations.
 - **Instructor-side real-time intervention.** [[parlant-emotional-micro-interventions-2026|Parlant's practitioner guide]] adds a human counterpart to these AI tools: *emotional micro-interventions* — brief, deliberate verbal or gestural acts that validate a student's emergent emotion, reframe the appraisal behind it, and reconnect the struggle to professional identity (Validate, Reframe, Connect). Grounded in cognitive appraisal theory, the approach targets the primary appraisal ("is this a threat?") and the secondary appraisal ("can I cope?") at the moment distress would end engagement, pairing bottlenecks such as frustration, isolation and imposter syndrome with target states. Its author states plainly that the framework does not require AI; [[generative-ai|generative AI]] serves only as an optional way to draft candidate phrases for the instructor to curate.
 - **A system built to relieve anxiety can add it.** In ninth-grade chemistry laboratories a semester of AI emotional feedback coincided with rising laboratory anxiety (F = 4.60, p = 0.035), while the teacher-led class held steady ([[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]]).
+- **Three support routes, three stress rates.** In a three-arm randomized trial with 149 sixth-form students, stress was reported by 5.8% of those with a human tutor, 19.2% with Khanmigo Lite, and 32.0% with unguided internet search, so what students reach for when stuck, rather than AI exposure alone, ordered their anxiety ([[ennion-human-tutoring-genai-tutoring-search-2026|Ennion & McLellan, 2026]]).
 
 ## Why this is distinct from well-being
 

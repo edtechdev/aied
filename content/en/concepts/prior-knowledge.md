@@ -1,13 +1,18 @@
 ---
 title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T06:05:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 reviewed_by: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 ---
 
 > **Prior knowledge** — the existing knowledge, skills, beliefs, and mental models a learner brings to a new learning task. It is the single most powerful predictor of subsequent learning: new information is interpreted through — and integrated with — what the learner already knows, so instruction that activates and builds on prior knowledge produces stronger, more durable learning than instruction that treats every learner as a blank slate. In [[ai-education|AI in education]], prior knowledge is central to [[student-modeling]] (adapting [[personalized-learning|instruction]] to the learner's current state), to the [[constructivist]] principle that knowledge is actively constructed atop existing mental models, and to the risk that AI tools which pre-fetch and surface content bypass the [[retrieval-spacing-interleaving|retrieval practice]] that activates prior knowledge.
@@ -45,6 +50,7 @@ Generative AI has made prior knowledge a central design consideration rather tha
 - **Priming and activation as design.** [[genai-mindtool-generative-learning|GenAI mindtool approaches]] deliberately "prime the learning task" by activating prior knowledge and curiosity through prompting questions, AI-generated visuals, and analogies (e.g., "What do you already know about ecosystems?") before introducing new content — modeling the retrieval-and-integration path rather than the answer-supply path.
 - **Student modeling and memory.** AI systems increasingly model learners' prior-knowledge state and longitudinal memory (e.g., incorporating prior-knowledge state and forgetting curves into tutoring memory), enabling spaced repetition and adaptive review that build on what each learner already knows.([[nie-personavlm-long-term-personalization-2026]])
 - **A personalized-adaptation lever.** Because learners differ widely in prior knowledge, adaptation must be tuned to the individual — a core argument for [[personalized-learning]] and adaptive [[scaffolding]] that meet learners at their actual current state rather than a class-average assumption.
+- **Prior knowledge was the one learner characteristic that moderated adaptive support.** Learners who already knew the content gained more (g = .74, 95% CI [.42, 1.05]) than those who did not (g = .63 [.46, .80]), and both benefited, which fits adaptivity withdrawing redundant help rather than an expertise reversal ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
 
 ## Implications for designing AI in education
 

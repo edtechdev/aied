@@ -1,7 +1,7 @@
 ---
 title: Robots in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T06:05:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,6 +11,11 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 ---
 > **Robots in education (educational robotics)** — the use of physical or simulated robots as tools for [[teacher-role|teaching]] and learning. Educational robotics spans a wide spectrum: from programmable kits that teach computational thinking and programming, to socially assistive and humanoid robots that tutor, tell stories, model sign language, or rehearse social skills. It is valued for fostering [[problem-solving|problem solving]], [[critical-thinking|critical thinking]], [[creativity]], and STEAM engagement, and for making abstract computing concepts tangible through embodied interaction. The robotics evidence spans [[curriculum-design|curriculum]]-integrated programming, LLM-powered conversational tutors, socially assistive [[storytelling-in-education|storytelling]] robots, and role-play for social-emotional learning. It is underpinned by two closely related areas absorbed here: **social robots** (robots designed for social interaction and relationship-building) and **human–robot interaction (HRI)** (the study of how people perceive, trust, and learn with robots).
 
@@ -68,6 +73,8 @@ Two strands shape the social side of robotics in education.
 A defining theme is that robots are effective when they support genuine learning goals — not as isolated technical exercises. A desk-mounted robotic projector tied with laptop ChatGPT while help was available (6.7 vs. 7.3/10, p = .41) but held its score after withdrawal (7.0 vs. 4.4/10, p = .003), a 60% higher short-term transfer score — a task-dependent gain the authors attribute to spatial co-location rather than general replacement ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). The value of a robot depends on the pedagogical context: teaching computational thinking ([[computational-thinking]]), supporting [[stem-education|STEAM]], building [[cs-education|programming]] skills, motivating learners ([[motivation]], [[student-engagement|engagement]]), or supporting [[social-emotional-learning]] and [[equity-in-ai-education|inclusion]]. Robotics also connects to [[project-based-learning]], [[game-based-learning]], and [[experiential-learning]]. Key design considerations include preserving learner [[agency]], building [[trust]], supporting [[self-efficacy]], and grounding learning in [[embodied-learning|embodied interaction]]. In [[language-learning]], [[robot-assisted-language-learning-meta-analysis-2026|meta-analytic evidence]] points to the effectiveness of embodied robot-assisted language learning.
 
 - **Pathways to learning AI-powered robotics.** [[educational-robotics-pathways-2026|A qualitative study]] of high school students in a robotics+AI curriculum found learning through real-world practice, designing, and playful creative expression (constructionist, epistemological-pluralist lens).
+
+- Lan and Chen (2026) propose a test for when a change of body is surface adaptation. A swap is acceptable only if the invariant kernel, meaning the objective, phase order, branch rules, criteria, persona and tone prohibitions, survives it, and a configuration is rejected when the new body adds demands without advancing the objective ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
 
 ## Common Misconceptions
 

@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T06:05:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,6 +12,11 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 ---
 
 > **Learning analytics** — the measurement, collection, analysis, and reporting of data about learners and their contexts for the purpose of understanding and optimizing learning. AI has transformed learning analytics from descriptive dashboards to predictive and prescriptive systems.
@@ -77,6 +82,8 @@ The step after the score — who gets support, and whether it was allocated wher
 
 An integrity outcome enters the same predictive layer. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] predicts AI-assisted cheating risk from the first eight weeks of [[video-education|Moodle and video-player]] traces, reaching an AUC of 0.763 with logistic regression, and argues the signal is usable precisely because it arrives before the exam rather than during it.
 A complementary line targets the *interpretation* of analytics itself. [[factria-responsible-institutional-analytics-2026|Marques et al. (2026)]]'s FACTRIA framework organizes the biasing factors behind an indicator - pipeline, institutional, course, and demographic - and a reflection-prompting chatbot raised the sub-factors 11 stakeholders weighed per case from 1.41 to 3.45 (d = 2.15), shifting them from direct readings to conditional ones.
+
+- A trace collected for feedback and one collected for a grade are different behaviors: once learners know a record may be assessed, they manage what it shows, so the log measures the presentation of learning as much as the learning ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]).
 
 ## Methods and network analysis
 

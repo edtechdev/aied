@@ -1,10 +1,15 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T06:05:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 confidence: high
 reviewed_by: [editor]
 ---
@@ -77,6 +82,7 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - **Adapt the bottleneck attribute, not the weak average.** Transition modeling of knowledge states ranked [[critical-thinking|analytical thinking]] as the hardest to acquire and the easiest to lose — lowest forward transition probability 0.31 and highest backward 0.22-0.23 — making re-practice of the flagged attribute a sharper adaptation target than overall mastery ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng & Huang, 2026]]).
 - **Adaptation from process sequences, not aggregate scores.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] derived scaffold rules by mining the *order* of 65 students' dialogue turns in triads, moving adaptive learning from aggregated behavioral or performance measures toward individual process sequences; maximal scaffolding raised on-task behavior but also scripting, and the design is untested.
 - **Recognition outruns implementation.** Among 90 educators, 74 (82.2%) identified learners needing adaptation but only 50 (55.6%) had implemented any adaptive measure; the binding obstacle was information about learners, not technology, which 12% named ([[hilali-adaptive-learning-challenges-2026|Hilali and Chergui (2026)]]).
+- **Control is part of the treatment.** Who controls the adaptation matters as much as what is adapted: across 83 studies, system control produced g = 1.05 (95% CI [.65, 1.45]) and teacher control g = .86 [.46, 1.26] on knowledge, while learner control reached only g = .31 [−.44, 1.05] ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
 
 ## Implications for Practice
 

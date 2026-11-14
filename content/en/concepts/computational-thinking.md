@@ -1,13 +1,18 @@
 ---
 title: Computational Thinking
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T13:05:00-05:00"
+updated: "2026-11-14T06:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
 discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 reviewed_by: [editor]
 ---
 
@@ -41,6 +46,7 @@ Durable competencies shift once implementation is automated: a workshop report n
 
 - **A validated instrument locates where CT is hardest.** A 34-item computational-thinking test built with Evidence-Centered Design and validated by item-response theory across 461 AI-programming students concentrated difficulty in data representation, logical-operator sequencing, and loop structures rather than evenly across the syllabus ([[zhang-ct-ai-training-test-2026|Zhang & Zhang (2026)]]).
 - Measurement choice changes the verdict: computational- and critical-thinking entries reached discordant or mixed conclusions in 13 of 23 same-construct pairs, so a self-report CT survey and a task-based measure often disagree ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
+- Computational thinking is also measured as a disposition: in a three-week fifth-grade game study, adjusted self-reported CT tendencies favored the GenAI class, 4.325 against 4.037 (p = .046, partial eta-squared = .052, n = 78). An algorithmic-knowledge test did not separate them (80.7 vs 74.9), so tendency and knowledge measures tracked different constructs ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
 ## CT and the shift from AI consumers to producers, creators, and designers
 

@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T06:05:00-05:00"
 connected_resources: [nowcomment]
 type: concept
 foundations: [ai-education]
@@ -12,6 +12,11 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 ---
 
 > **Collaborative Learning** — instructional approaches where students work together to solve problems, complete tasks, or construct knowledge, supported or mediated by AI tools. In [[ai-education|AI in education]], collaborative learning [[research-methods-aied|research]] spans AI as a collaboration partner, AI as a mediator of human collaboration, and the design of collaborative AI tutoring systems.
@@ -105,6 +110,8 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - **The social side shows disruption without a countervailing gain.** Across five collaboration processes a 30-expert consensus reached vulnerability only, with enhancement ratings below threshold: Social Connection (3.80 against enhancement 1.90), Socio-Emotional Development (3.60 against 2.00), Social Learning, Collaborative Learning and Sense of Belonging (all 3.30) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). The report treats the asymmetry as a design target, since collaborative problem solving is anchored to a shared product while collaborative learning has no visible referent and can erode undetected.
 
 Peer status is earned socially. Mathematical capability barely entered the judgments. Seven expert researchers each spent about twenty minutes solving quadratic equations with an adaptive LLM agent carrying a Big Five-informed persona, then explained their judgments in interviews. They evaluated it almost entirely on behavior: it created a non-judgmental space, reasoned tentatively rather than declaring, showed appropriate imperfection, and left the learner's ideas intact. For [[agentic-ai|agent]] design, that inverts the usual priority — a capable solver that presents as an authority undermines the collaborative frame no matter how good its answers are ([[lin-ai-peer-collaborative-math-learning-2026|Lin et al., 2026]]).
+
+- A direct meta-analytic estimate now exists for adaptive support: across 83 experimental and quasi-experimental studies reported in 80 articles (2004–2023), support tailored to collaborative activity pooled at g = .73, 95% CI [.56, .90], largest for individual knowledge (g = .93) and smallest for affect (g = .28) ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
 
 ## Common Misconceptions
 

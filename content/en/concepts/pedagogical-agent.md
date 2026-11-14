@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T06:05:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -11,6 +11,11 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 reviewed_by: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 ---
 
 > **Synthesis**: [[pedagogy|Pedagogical]] agents are AI-driven conversational interfaces embedded in learning environments that use pedagogical strategies (eliciting, telling, scaffolding) to support [[student-engagement|learner engagement]], reflection, and metacognition. Designs vary from simple information providers to interactive dialogue partners that adapt to learner states.
@@ -59,6 +64,8 @@ The agent's surface is a separate design axis from its pedagogy. [[ai-avatars-an
 - **A peer agent whose fallible suggestions are the point.** Copa pairs log-contextualized retrieval with GPT-4o and a fifteen-chunk task-specific knowledge base, and summarizes each student segment agentically: it compares the student's model to an expert version, diagnoses the expressed problem, and names what to retrieve. Across a classroom study with 16 students and two focus groups, all participants said its guidance supported their problem solving and was accurate, and all would use it again. Several also asked for straight answers, and some assumed a suggestion was correct until their model got worse. The authors read that as the cost of designing an agent to prompt evaluation rather than to answer ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
 
 - **A deployed inquiry-cycle companion that initiates rather than waits.** In a 710-student secondary STEM deployment, an AI learning companion structured five phases — Engagement, Hypothesis, Experiment, Analysis and Reflection — offered guidance on its own schedule, and kept every LLM-generated item behind teacher approval ([[anagnostopoulou-ai-companion-stem-self-efficacy-2026|Anagnostopoulou et al., 2026]]). All outcomes were self-reported at one time point, so the design is documented rather than shown to work.
+
+- Lan and Chen (2026) propose splitting a teacher-authored agent into five layers, pedagogical design, interaction, capability, orchestration and governance, pairing each teacher decision with the mechanism that executes it, and stipulate that revision returns to the affected layer: the runtime cannot authorize its own correction ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
 
 ## Practical guidance
 

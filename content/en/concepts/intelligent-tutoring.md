@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic, learnharness, ai-tutor-pro-teaching-assistant-pro]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T06:05:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -11,6 +11,11 @@ assessment: [feedback]
 discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 reviewed_by: [editor]
 ---
 
@@ -124,6 +129,7 @@ A unifying lens from [[turano-ai-tutoring-not-a-monolith-2026|the Stanford SCALE
 - **Human oversight improves engagement and alignment but not dosage.** The brief's RCTs found human check-ins raised elementary students' engagement with an AI platform but did not reach the dosage associated with gains nor improve reading achievement. The practical implication: schedule and supervise AI tutoring on the same terms as human-led tutoring, and design for enforcement of engagement — the opt-in requirement an on-device AI tutor reintroduces is exactly what live school-day tutoring eliminates.
 - **The relationship is the irreducible element.** [[turano-ai-tutoring-not-a-monolith-2026|The brief]] emphasizes that AI does not yet replicate human relationships, and that relationship-building (especially consistent tutor-student pairings) improves engagement, attendance, motivation, and outcomes. Developers describe using AI's strengths rather than replacing relationships — a design stance echoed in [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] and [[kar-mathbuddy-affective-math-tutoring-2025|affective tutoring]] research.
 - **Safety and privacy are non-negotiable guardrails.** For direct-to-student AI, the brief calls for strict student data privacy safeguards, [[guardrails]] on student safety, and attention to the depth of unmonitored interaction — open questions remain about AI companions' effects on developing minds and prosocial development.
+- Across 149 students randomized to a human tutor, Khanmigo Lite or unguided search, human tutoring drew the lowest perceived difficulty in both sections and 5.8% stress against 19.2% for the AI tutor and 32.0% for search, a gradient that tracked relational intensity while reported effort ran the other way ([[ennion-human-tutoring-genai-tutoring-search-2026|Ennion & McLellan, 2026]]).
 
 This relational-intensity framing is the "not a monolith" counterpoint to the field: evaluating any AI tutor should begin by asking *which conditions of effective tutoring it reproduces, changes, or drops* — rather than asking whether "AI tutoring works" in the abstract. The brief's human-led baseline can also be absent entirely: a six-week pre-test/post-test study across three Kwara State colleges of education gave 240 [[vocational-education|technical-education]] students a localized tutor fine-tuned on Nigerian technical curricula and reported roughly double the practical-skill gain of 120 conventionally taught peers. Practicals there ran above 100:1 student-to-lecturer ratios with feedback delayed by days, so the authors' rationale was not augmentation but [[equity-in-ai-education|equitable]] *substitution* for scarce instructional staff — casting the tutor as a capacity subsidy for rural colleges rather than a complement to plentiful human tutoring. Two design choices carry the practitioner lesson: the tutor explains an error rather than only flagging it, and a "Clarify" feature restates technical terms in Yoruba or Nupe, adapting to the learner's language context rather than only their knowledge state; hints rather than answers and a safe-to-fail space are credited with the reported confidence increase in most of the AI-assisted group against fewer than half of controls. The evidence is indicative only — no effect sizes, an unnamed base model, [[self-report-measures|self-reported]] confidence — but it marks the boundary the brief leaves open, the setting where AI is asked to stand in for absent instructional capacity. It ties the tutoring page to [[k-12]] policy ([[educational-policy-ai]]), [[privacy]], [[pedagogical-safety]], and the human-in-the-loop concerns throughout ([[real-time-ai-feedback-technical-skills-2026]]).
 

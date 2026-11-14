@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T16:20:00-05:00"
+updated: "2026-11-14T06:05:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 connected_resources: [vfwa]
@@ -11,6 +11,11 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 reviewed_by: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 ---
 
 > **Assessment validity** — whether assessments measure what they claim to measure. [[ai-education]] raises fundamental validity questions: do [[automated-assessment|AI-graded]] assessments assess student learning or [[prompt-engineering|AI prompting skill]]? Does AI use invalidate traditional assessment assumptions?
@@ -136,6 +141,8 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 Webb-Davies, Ratner and Bassett make the same move for written tasks. On their account a final essay under-represents the construct when it cannot show how claims were generated, and the design response is structural rather than procedural: capture reasoning once under observation, in whatever language or modality the student chooses, then grade the later submission against that baseline. They borrow Dawson's distinction between authentication and control of circumstances to argue that one secured checkpoint does more for validity than any rule about permitted use ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
 
 Winstone, Gravett and Elkington frame the GenAI assessment problem as wicked in Rittel and Webber's sense. Discursive responses such as traffic-light systems and declarations cannot secure validity, because they are unenforceable and leave students doing boundary work. Validity has to be rebuilt structurally, in what the task requires students to submit and how the rubric reads it ([[black-box-assessment-winstone-2026|Winstone et al., 2026]]).
+
+- Reactivity is a threat that imperfect information does not name: when traces are graded, observation changes the construct, because learners withhold confusion, help-seeking and abandoned attempts, so the record becomes a response to measurement rather than a residue of learning ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]).
 
 ## Common Misconceptions
 

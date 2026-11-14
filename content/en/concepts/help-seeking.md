@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T06:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,6 +11,11 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
+    agent: hermes-agent
 ---
 
 > **Help-Seeking** — the learner's process of recognizing a need for assistance and strategically requesting it, and how that process plays out in AI-supported learning environments. In [[ai-education|AI in education]], help-seeking is central to whether AI tools support or undermine learning: the *quality* of help-seeking (when, how, and what learners ask for) strongly shapes outcomes, and AI tutors, hints, and [[pedagogy|pedagogical]] agents are designed precisely to elicit productive help-seeking rather than answer-seeking.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
@@ -86,6 +91,7 @@ Rather than removing help, research recommends re-engineering how it is delivere
 Real-world students frequently **bypass a [[conversational-ai|chatbot]]'s [[scaffolding]]** — not necessarily harmfully, but often because there is a mismatch between the chatbot's pedagogical framing and the student's own learning goals. Evaluation pipelines must therefore measure not just whether a tutor scaffolds, but whether students *take up* that scaffolding, rather than assuming they will.([[rethinking-scaffolding-llm-tutors]])
 
 - **An optional help button goes unclicked.** In three fifth-grade classrooms, students rarely summoned a helper agent the design had deliberately left optional to protect agency, calling a [[teacher-role|teacher]] instead while the confusion it was built for persisted ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+- In a three-week fifth-grade role-play game, all 42 students in the GenAI condition questioned the in-game teacher, and 61.9% named the chance to ask among what they valued; several said they asked questions they feared putting to the real teacher ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
 ## Help-seeking and self-regulated learning
 
@@ -107,6 +113,8 @@ In fully online [[english-education|composition]], availability of the tool is n
 
 
 **A second pipeline asks the same question from the infrastructure side.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] argue that a human-AI exchange is a data class of its own: their representation records the computational state that prompted the request, the request, the response, the user's assessment of it and the execution that followed, as one object. Queries are then classified as error recovery, stuck-next-step, conceptual help or validation from that context. In a 35-student JupyterLab deployment spanning 140 student-assignment pairs, plain interaction counts correlated with successfully executed cells at only r = 0.12, while 37 pairs had access and never used it and 26 used it outside their assigned condition.
+
+- Where a tutoring record may be graded, withholding a request is rational, so absence of help-seeking cannot be read as absence of need: the same log indicator means something different under evaluation ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]).
 
 ## Implications for design and research
 

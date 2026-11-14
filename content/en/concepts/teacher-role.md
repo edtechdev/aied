@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T13:05:00-05:00"
+updated: "2026-11-14T06:05:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -13,6 +13,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-11-13"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-14"
     agent: hermes-agent
 
 confidence: high
@@ -58,6 +62,8 @@ The abstraction "orchestrator" is easier to grasp through concrete, day-to-day s
 Teachers prompted to view the assignment report raised next-assignment completion (Anderson-Rubin F = 4.092, p = 0.044; at least 2 percentage points overall).
 In classes under 44 students the gain was at least 24.5 percentage points (F = 7.475, p = 0.007); teachers with more than 43 students already viewed reports at high rates whether encouraged or not (77% versus 75%) - likely always-takers with no room to be moved.
 So encouragement matters most where report use can still grow.
+
+- Lan and Chen (2026) propose judging teacher authorship by provenance: an agent counts as a teacher's twin only if its authority traces to one named teacher who retains responsibility, has translated judgment into an inspectable specification, and extends capacity without relocating authorship, whereas platform defaults yield a proxy, not a twin ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
 
 ### The orchestration metaphor
 
